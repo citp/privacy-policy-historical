@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dfas.mil privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205042242id_/http%3A//www.dfas.mil/warning.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfas.mil privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607103826id_/http%3A//www.dfas.mil/warning.htm) for the most accurate reproduction.*
 
 # DFAS Privacy and Security Notice
 
 Thank you for visiting the Defense Finance and Accounting Service website and reviewing our privacy policy. Our privacy policy is clear:  we do not collect personal information unless provided by the customer we are seeking to assist. Immediately after resolving the customer's concerns, the privacy information is purged. 
 
-1\. **WWW.DFAS.MIL** is provided as a public service by the **[Defense Finance and Accounting Service](http://www.dfas.mil/agency/index.htm)**. 
+1\. **WWW.DFAS.MIL** is provided as a public service by the **[Defense Finance and Accounting Service](http://www.dfas.mil/about/ad_history.htm)**. 
 
 2\. Information presented on **WWW.DFAS.MIL** is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. 
 
