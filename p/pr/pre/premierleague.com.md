@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010031538id_/http%3A//www.premierleague.com/fapl.rac%3Fcommand%3DforwardOnly%26nextPage%3DenBottomLinks%26link%3Dprivacy%26categoryCode%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406132121id_/http%3A//www.premierleague.com/fapl.rac%3Fcommand%3DforwardOnly%26nextPage%3DenBottomLinks%26link%3Dprivacy%26categoryCode%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # premierleague.com - premierleague.com
 
