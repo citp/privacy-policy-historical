@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603180015id_/http%3A//spectorsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031733id_/http%3A//www.spectorsoft.com/privacy.html) for the most accurate reproduction.*
 
 # SpectorSoft.com - Online Privacy Policy
 
@@ -45,7 +45,7 @@ IP addresses are used by your computer every time you are connected to the Inter
 
 Sharing of Information
 
-SpectorSoft will never sell, rent, license, exchange, or share any data about you without your permission except under the following limited circumstances: (i) if SpectorSoft is required to do so by law, or (ii) SpectorSoft has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on SpectorSoft, or to protect and defend the rights or property of SpectorSoft or to enforce the [Terms of Use](https://web.archive.org/web/20020603180015id_/http%3A//spectorsoft.com/terms.html)
+SpectorSoft will never sell, rent, license, exchange, or share any data about you without your permission except under the following limited circumstances: (i) if SpectorSoft is required to do so by law, or (ii) SpectorSoft has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on SpectorSoft, or to protect and defend the rights or property of SpectorSoft or to enforce the [Terms of Use](https://web.archive.org/web/20021203031733id_/http%3A//www.spectorsoft.com/terms.html)
 
 Tell-A-Friend
 
