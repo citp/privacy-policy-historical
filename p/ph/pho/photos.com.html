@@ -1,15 +1,18 @@
-<!--The following is the downloaded HTML source of the photos.com privacy policy that was archived on 2004-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610140808id_/http%3A//www.photos.com/en/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photos.com privacy policy that was archived on 2004-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041111021351id_/http%3A//photos.com/en/company/privacy) for the most accurate reproduction.-->
 
 <html><head>
-<title>Photos.com - royalty-free stock photography</title>
+<title>Stock Photos - Royalty Free Stock Photos by Subscription at Photos.com</title>
+
 <link rel="SHORTCUT ICON" href="http://static-p.arttoday.com/d/photos/images/favicon.ico">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="AUTHOR" content="Photos.com">
 <meta name="TITLE" content="Royalty-free stock photography.">
-<meta name="DESCRIPTION" content="Subscription-based royalty-free stock photography resource, with unlimited downloads of 100,000 photos.">
+<meta name="KEYWORDS" content="stock photos, royalty free stock photos, images, low cost, high resolution, Stock Photos, 
+     Royalty Free Stock Photos, Images, Low Cost, High Resolution, STOCK PHOTOS">
+<meta name="DESCRIPTION" content="Stock Photos - Royalty Free Stock Photos - Images Low Cost High Resolution at Photos.com.  
+     Download royalty free stock photos and high resolution stock images at one low cost at the best among stock photography subscription services websites.  
+     Build a lightbox, search collections for photos of churches, medical photos, dogs and animals photos, and more!">
 <meta name="COPYRIGHT" content="Copyright (c) 2004 by JupiterImages, a division of Jupitermedia Corporation. All Rights Reserved.">
-<meta name="KEYWORDS" content="photos, royalty free, stock photography, technology, lifestyles, business, holidays, seniors, people, sports">
 
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="revisit-after" content="1 days">
@@ -128,6 +131,17 @@ function CheckAll(checked) {
     }
 }
 
+function CheckAllPPD(checked) {
+    len = document.ppd.elements.length;
+    var i=0;
+    for( i=0; i<len; i++) {
+        if (document.ppd.elements[i].name=='media') {
+           document.ppd.elements[i].checked=checked;
+        }
+    }
+    if (reprice_defined) reprice();
+}
+
 function setSpex () {
 	var spex = "spex=";
 	if (document.body) {
@@ -179,7 +193,7 @@ function _cls () {window.status = ''; return true}
 <table width="98%" cellpadding="0" cellspacing="0" border="0">
   <tbody><tr>
     <td height="34" valign="middle">
-      <a href="/en/"><img src="http://static-p.arttoday.com/d/photos/images/logos/pdc_logo4.gif" width="144" height="14" border="0" hspace="10" alt="Photos.com Royalty-Free Stock Photography"></a>
+      <a href="/en/"><img src="http://static-p.arttoday.com/d/photos/images/logos/pdc_logo4.gif" width="155" height="14" border="0" hspace="10" alt="Stock Photos - Royalty Free Stock Photos - Images Low Cost High Resolution at Photos.com.  Download royalty free stock photos and high resolution stock images at one low cost at the best among stock photography subscription services websites.  Build a lightbox, search collections for photos of churches, medical photos, dogs and animals photos, and more!"></a>
     </td>
     <td valign="middle" align="right">
       <div id="menu">
@@ -193,11 +207,13 @@ function _cls () {window.status = ''; return true}
     <td><div id=""><a href="/en/help/index">Help</a></div></td>
   </tr>
 </tbody></table>
-
       </div>
+
+
     </td>
   </tr>
 </tbody></table>
+
 
 <!-- END: /en/default_top -->
 
@@ -206,7 +222,7 @@ function _cls () {window.status = ''; return true}
     <td valign="top" width="120" style="padding-right:8px; padding-left:0px;">
       
 
-<!-- BEGIN: /en/search/advanced_inputs -->
+<!-- BEGIN: /en/search/advanced_inputs_color -->
 
 <script language="javascript">
 	var ascn = "adv_search";
@@ -344,6 +360,8 @@ function _cls () {window.status = ''; return true}
 		if (newasc.length) {
 			document.cookie = newasc;
 		}
+
+                cp_text_entry();
 	}
 
 
@@ -386,7 +404,7 @@ window.document.advsearch.srch.value = "Search";
     Filters:<br>
     <table cellpadding="1" cellspacing="0" style="margin-bottom:5px;">
       <tbody><tr>
-        <td><input type="checkbox" onclick="sasc('f_c')" value="1" name="f_c" checked=""></td><td><font class="small">Color</font></td>
+        <td width="6"><input type="checkbox" onclick="sasc('f_c')" value="1" name="f_c" checked=""></td><td><font class="small">Color</font></td>
         <td><input type="checkbox" onclick="sasc('f_b')" value="1" name="f_b" checked=""></td><td><font class="small">B/W</font></td>
       </tr>
       <tr>
@@ -399,7 +417,7 @@ window.document.advsearch.srch.value = "Search";
       </tr>
     </tbody></table>
      
-    Category: 
+    Category:
     <br><select name="cid" class="advsel">
         <option value="" selected="">(Any)
         </option><option value="8111">Animals &amp; Wildlife
@@ -433,16 +451,116 @@ window.document.advsearch.srch.value = "Search";
       </option></select>
 
 
+
+
+ <script language="JavaScript">
+  function TestCKBox(fObj,theDiv){
+   var el = document.getElementById(theDiv);
+   if(fObj.checked == true){
+    el.style.display = "";
+        set_cp_vals();
+   } else {
+    el.style.display = "none";
+    unset_cp_vals();
+   }
+  }
+
+  function small_wheel_click() {
+    var box = document.forms.advsearch.colorpicker;
+    if(box.checked == false) {
+      box.checked = true;
+      TestCKBox(box,'maincolorpicker');
+    }
+  }
+
+  var cp_small_wheel_src='http://static-p.arttoday.com/d/photos/images/smallwheel.jpg';
+ </script>
+
+
+<table width="110" cellspacing="0" cellpadding="0" border="0" style="margin-top:5px;">
+   <tbody><tr>
+      <td width="6"><input type="checkbox" name="colorpicker" value="True" onclick="TestCKBox(this,'maincolorpicker')">
+     </td>
+      <td align="left"><font class="small">Color Search</font></td>
+      <td width="22" height="22" id="cp_swatch" onclick="small_wheel_click(); return false" style="border: 1px solid #ddd;
+     background-image: url(/images/smallwheel.jpg); background-repeat: no-repeat;
+"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="22" height="22" id="cp_swatch_spacer"></td>
+   </tr>
+</tbody></table>
+
+<input name="cp_color" value="" type="hidden">
+
+<div id="maincolorpicker" style="display:none;">
+
+<table width="110" cellspacing="0" cellpadding="0" border="0">
+   <tbody><tr>
+      <td colspan="3" style="padding-top:5px;">
+         <table width="110" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+               <td><font class="small">Tint:</font></td>
+               <td align="right"><font class="small">Contrast:&nbsp;</font></td>
+               <td align="right" valign="middle" width="10">
+                  <table cellspacing="0" cellpadding="0" border="0">
+                     <tbody><tr>
+                        <td width="10" height="10" id="cp_contrast" onclick="cp_contrast_click();"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="10" height="10" id="cp_cont_spacer"></td>
+                     </tr>
+                  </tbody></table>
+               </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="3">
+         <table cellspacing="0" cellpadding="0" border="0" width="110" style="padding-top:5px;">
+            <tbody><tr>
+               <td width="6" height="12" id="cp_bar_15" onclick="cp_bar(15)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_14" onclick="cp_bar(14)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_13" onclick="cp_bar(13)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_12" onclick="cp_bar(12)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_11" onclick="cp_bar(11)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_10" onclick="cp_bar(10)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_9" onclick="cp_bar(9)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_8" onclick="cp_bar(8)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_7" onclick="cp_bar(7)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_6" onclick="cp_bar(6)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_5" onclick="cp_bar(5)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_4" onclick="cp_bar(4)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_3" onclick="cp_bar(3)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_2" onclick="cp_bar(2)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_1" onclick="cp_bar(1)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+               <td width="6" height="12" id="cp_bar_0" onclick="cp_bar(0)"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="6" height="12"></td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="3" style="padding-top:5px; padding-bottom:5px;">
+          <div id="wheel" style="width:109; height:109;">
+          <a href="#" onclick="javascript:cp_wheel(); return false;" onmouseover="this.style.cursor='crosshair';">
+          <img src="http://static-p.arttoday.com/d/photos/images/wheel2.jpg" alt="color wheel" width="109" height="109" border="0">
+          </a>
+          </div>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="3"><font class="small">Web:<input type="text" name="rgb1_value" class="adv" style="width:60px;" onchange="cp_text_entry();"></font></td>
+   </tr>
+</tbody></table>
+</div>
+
     Thumbnail Size:<br>
     <table cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td><input type="radio" onclick="sasc()" name="big" value="0"></td><td><font class="small">Sm</font></td>
-        <td>&nbsp;<input type="radio" onclick="sasc()" name="big" value="1" checked=""></td><td><font class="small">Lg</font></td>
+        <td style="background-color:#FFF"><input type="radio" onclick="sasc()" name="big" value="0"></td><td><font class="small">Sm</font></td>
+        <td style="background-color:#FFF">&nbsp;<input type="radio" onclick="sasc()" name="big" value="1" checked=""></td><td><font class="small">Lg</font></td>
       </tr>
     </tbody></table>
 
 
       <input type="submit" name="srch" value="Search" style="margin-top:8px;" onclick="this.value='Searching...'"></font></div></td></tr></tbody></table>
+
+<script type="text/javascript" src="/en/head/colorpicker.js"></script>
 
 <script language="Javascript">
 	var ctest = document.cookie;
@@ -452,10 +570,23 @@ window.document.advsearch.srch.value = "Search";
 	}
 </script>
 
+<script type="text/javascript">
+<!--
+if('') {
+  cp_pick = '#';
+  cp_contrast = cp_calc_contrast(cp_pick);
+  set_cp_vals();
+}
+//-->
+</script>
 
 
 
-<!-- END: /en/search/advanced_inputs -->
+
+
+
+
+<!-- END: /en/search/advanced_inputs_color -->
     </form></td>
     <td valign="top" margin-right:10px;="">
 
@@ -542,7 +673,7 @@ Please note that your use of the JUPM network of Web sites is governed by our <a
 
 <br>
 <table cellspacing="0" cellpadding="0" border="0" width="100%" height="20">
-  <tbody><tr><td class="foot" height="1" colspan="2"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="100%" height="1"></td></tr>
+  <tbody><tr><td class="foot" height="1"><img src="http://static-p.arttoday.com/d/photos/images/spacer.gif" width="100%" height="1"></td></tr>
   <tr>
     <td bgcolor="#ffffff" height="15" nowrap="" align="left">
       <br>
@@ -553,28 +684,34 @@ Please note that your use of the JUPM network of Web sites is governed by our <a
       &nbsp;&nbsp;&nbsp;<a href="/en/company/terms">Terms of Use</a>
       &nbsp;&nbsp;&nbsp;<a href="/en/company/opportunities">Licensing Opportunities</a>
       &nbsp;&nbsp;&nbsp;<a href="/en/company/affiliates">Affiliates</a>
+      &nbsp;&nbsp;&nbsp;<a href="/en/sitemap">Site Map</a>
       &nbsp;&nbsp;&nbsp;<a href="/en/company/contact">Contact</a>
-      &nbsp;&nbsp;&nbsp;<a href="/en/help/index">FAQ</a>
-      <br>&nbsp;&nbsp;&nbsp;Copyright © 1996-2004 <a href="http://www.jupiterimages.com" target="_blank">JupiterImages</a>, a division of <a href="http://www.jupitermedia.com" target="_blank">Jupitermedia Corporation.</a> All Rights Reserved.
+      &nbsp;&nbsp;&nbsp;<a href="/en/help/index">FAQ</a><br>
+      <b>&nbsp;&nbsp;&nbsp;<a href="/en/change_language?l=en&amp;nvc_lang=en" title="U.S. English">English</a>&nbsp;|&nbsp;
+      <a href="/en/change_language?l=de&amp;nvc_lang=de" title="Deutsch">Deutsch</a></b>
+
+
+      <br>&nbsp;&nbsp;&nbsp;© 2004  <a href="http://www.jupiterimages.com" target="_blank">JupiterImages Corporation</a>, a wholly-owned subsidiary of <a href="http://www.jupitermedia.com" target="_blank">Jupitermedia Corporation.</a>
       </font>
       <noscript><p><font class=error>Please enable Javascript while using this site!</font></noscript>
     </td>
-    <td bgcolor="#ffffff" height="15" nowrap="" align="right">
-      <font class="small" style="color:#484848;">
-
-
-      </font>
-      &nbsp;&nbsp;&nbsp;
-    </td>
   </tr>
 </tbody></table>
+
 <br>
 
 <!-- END: /en/default_foot -->
 <br>
 </div>
 
-      <div id="bottomFrame" style="background-color: #788;"><center><font class="white">Welcome to Photos.com.&nbsp;&nbsp;&nbsp;<a href="/en/company/learn_more" style="color:white;">Learn More</a> | <a href="https://www.photos.com/en/join/index?show_guest=Y&amp;PRODUCT=PH_L0_0D" style="color:white;">Become a Registered Guest</a></font></center></div><font class="white">
+
+<center>
+<font class="white">
+      <div id="bottomFrame" style="background-color: #788;">
+        Welcome to Photos.com.&nbsp;&nbsp;&nbsp;<a href="/en/company/learn_more" style="color:white;">Learn More</a> | <a href="https://www.photos.com/en/join/index?show_guest=Y&amp;PRODUCT=PH_L0_0D" style="color:white;">Become a Registered Guest</a>
+      </div>
+</font>
+</center>
 
 
 
@@ -584,4 +721,4 @@ Please note that your use of the JUPM network of Web sites is governed by our <a
 
 
 
-</font></body></html>
+</body></html>
