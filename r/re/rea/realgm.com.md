@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621171124id_/http%3A//www2.realgm.com/src_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202200651id_/http%3A//www2.realgm.com/src_privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -10,17 +10,19 @@
 [**Message Boards**](https://web.archive.org/boards/index.php)  
 [**Transactions**](https://web.archive.org/src_recent_transactions.php)  
 [**Depth Charts**](https://web.archive.org/src_depthcharts.php)  
+[](https://web.archive.org/web/20031202200651id_/http%3A//www2.realgm.com/src_vri.php)  
 [**Larry Coon's FAQ**](http://members.cox.net/lmcoon/salarycap.htm) |   
 ---  
   
-Q: _Has Jason Kidd played his last game for the Nets?_
+Q: _Which team got the best out of the Bulls-Raptors trade?_
 
 * * *
 
-Yes  
-No  
+Chicago  
+Toronto  
+Even Trade  
   
-[View old polls](https://web.archive.org/web/20030621171124id_/http%3A//www2.realgm.com/src_polls.php)  
+[View old polls](https://web.archive.org/web/20031202200651id_/http%3A//www2.realgm.com/src_polls.php)  
   
   
   |    
@@ -94,7 +96,9 @@ When verifiable parental consent has not yet been obtained, we will use online c
 
 **Third Party Advertising:**
 
-We use Adtegrity and other third-party advertising companies to serve ads when you visit our Web site. To view Adtegrity's Privacy Policy please [_Click Here_](http://www.adtegrity.com/privacy.asp)
+**Third Party Advertising**
+
+We use BUDS INC, MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
 
 **Third Party Cookies:**
 
