@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2002-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021213190909id_/http%3A//www.ishafoundation.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609165541id_/http%3A//www.ishafoundation.org/privacy.asp) for the most accurate reproduction.*
 
 # Isha's Privacy Policy Statement
 
@@ -9,7 +9,7 @@
 >  Nashville, TN 37215 USA**
 > 
 > We can be reached via e-mail at [info@ishafoundation.org](mailto:info@ishafoundation.org)  
->  or you can reach us by telephone at (615)-665-3812 or from the numbers provided on our [contact page](https://web.archive.org/web/20021213190909id_/http%3A//www.ishafoundation.org/contact.asp)
+>  or you can reach us by telephone at (615)-665-3812 or from the numbers provided on our [contact page](https://web.archive.org/web/20030609165541id_/http%3A//www.ishafoundation.org/contact.asp)
 > 
 > For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 > 
@@ -62,21 +62,20 @@ The Web
   All words  
 Any Word   
   
-**Which Isha project would you like to support?**  
+**Are you planning to attend the Samyama Program in March 2003?**  
 ---  
   
-Spanda Hall  
-Prison Programs  
-Educational Scholarships  
-Equipment donation for Isha  
-Monetary Contribution  
-None
+Yes  
+No  
+Would like to but can't  
+Where is it?  
+I plan to attend next time
 
 Current results  
 Earlier poll results
 
-67 votes polled in this poll  
+39 votes polled in this poll  
   
   
-[](https://web.archive.org/web/20021213190909id_/http%3A//www.ishafoundation.org/forums/default.asp)   
+[](https://web.archive.org/web/20030609165541id_/http%3A//www.ishafoundation.org/forums/default.asp)   
 
