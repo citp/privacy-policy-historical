@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegs.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608221354id_/http%3A//www.pegs.com/privacy_statment.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegs.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204182324id_/http%3A//www.pegs.com/privacy_statment.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
