@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202005600id_/http%3A//www.cesweb.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405173730id_/http%3A//www.cesweb.org/privacy.asp) for the most accurate reproduction.*
 
 # 2001 International CES: Privacy Statement
 
@@ -34,7 +34,7 @@ We use return email addresses to answer the email we receive and for further con
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-As a service to exhibitors and sponsors, we make CES attendee/guests mailing addresses and fax numbers (only) available to companies exhibiting at CES for pre-and post-show promotion. If you would like your name and address removed from those promotional opportunities, please [email CES Customer Service](https://web.archive.org/web/20001202005600id_/http%3A//www.cesweb.org/contact.asp?emailSubject=Remove) at [CESinfo@ce.org](mailto:CESinfo@ce.org). You may also contact CES Customer Service by phone at 703 907 7605, or by fax at 703 907 7675.
+As a service to exhibitors and sponsors, we make CES attendee/guests mailing addresses and fax numbers (only) available to companies exhibiting at CES for pre-and post-show promotion. If you would like your name and address removed from those promotional opportunities, please [email CES Customer Service](https://web.archive.org/web/20010405173730id_/http%3A//www.cesweb.org/contact.asp?emailSubject=Remove) at [CESinfo@ce.org](mailto:CESinfo@ce.org). You may also contact CES Customer Service by phone at 703 907 7605, or by fax at 703 907 7675.
 
 Our Commitment To Data Security
 
@@ -46,7 +46,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 How You Can Access Or Correct Your Information
 
-If you are a registered exhibitor, you can access and amend your information online starting August 2000. If you are an attendee, you will need to [email CES Customer Service](https://web.archive.org/web/20001202005600id_/http%3A//www.cesweb.org/contact.asp?emailSubject=Correction) at [CESinfo@ce.org](mailto:CESinfo@ce.org) to amend your information. You may also contact CES Customer Service by phone at 703 907 7605, or by fax at 703 907 7675.
+If you are a registered exhibitor, you can access and amend your information online starting August 2000. If you are an attendee, you will need to [email CES Customer Service](https://web.archive.org/web/20010405173730id_/http%3A//www.cesweb.org/contact.asp?emailSubject=Correction) at [CESinfo@ce.org](mailto:CESinfo@ce.org) to amend your information. You may also contact CES Customer Service by phone at 703 907 7605, or by fax at 703 907 7675.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
