@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605232211id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2002-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021128192737id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
 
 # U.S. Coast Guard Disclaimer
-
-[](http://www.uscg.mil/)
 
 **UNITED STATES DEPARTMENT OF TRANSPORTATION  
 U.S. COAST GUARD**
@@ -15,7 +13,7 @@ U.S. COAST GUARD**
 
 **DISCLAIMER AND LIMITATION OF LIABILITY**
 
-This web site and the information it contains is provided as a public service by the U.S. Department of Transportation (DOT) and the U.S. Coast Guard. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for other like purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution. 
+This web site and the information it contains is provided as a public service by the U.S. Department of Transportation (DOT) and the U.S. Coast Guard. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for other like purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution.
 
 **RESTRICTION OF LIABILITY**
 
@@ -23,7 +21,7 @@ The DOT and U.S. Coast Guard make no claims, promises or guarantees about the ac
 
 **OWNERSHIP**
 
-Information presented on this web site is considered public information and may be distributed or copied. However, all information submitted to DOT and the U.S. Coast Guard via this site shall be deemed and remain the property of DOT and the U.S. Coast Guard, except those submissions made under separate legal contract. DOT and the U.S. Coast Guard shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to DOT and the U.S. Coast Guard through this site. 
+Information presented on this web site is considered public information and may be distributed or copied. However, all information submitted to DOT and the U.S. Coast Guard via this site shall be deemed and remain the property of DOT and the U.S. Coast Guard, except those submissions made under separate legal contract. DOT and the U.S. Coast Guard shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to DOT and the U.S. Coast Guard through this site.
 
 * * *
 
@@ -33,29 +31,32 @@ We collect no personal information about you when you visit our website unless y
 
 _**What We Collect and Store Automatically**_
 
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit: 
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
   1. The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
   2. The type of browser and operating system used to access our site;
-  3. The date and time you access our site; 
-  4. The pages you visit; and 
+  3. The date and time you access our site;
+  4. The pages you visit; and
   5. If you linked to our website from another website, the address of that website.
 
 
 
-We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you. 
+We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.
 
 _**If You Send Us E-mail**_
 
-You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other government employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations. 
+You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other government employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
 
 _**Links to Other Sites**_
 
 Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
 
-[U.S. Coast Guard Internet Link Policy](https://web.archive.org/web/20020605232211id_/http%3A//www.uscg.mil/link.html)
+[U.S. Coast Guard Internet Link Policy](https://web.archive.org/web/20021128192737id_/http%3A//www.uscg.mil/link.html)
 
   
-[[USCG Home Page](https://web.archive.org/web/20020605232211id_/http%3A//www.uscg.mil/welcome.html)]  
-Please send feedback/questions to: [US Coast Guard](https://web.archive.org/web/20020605232211id_/http%3A//www.uscg.mil/mailform/dist-mail.html)  
-Updated: 01/30/2020 04:52:40 
+[USCG Home Page](http://www.uscg.mil/welcome.html)  
+[Customer Accessibility](http://www.uscg.mil/access/access.html)  
+Maintained by Coast Guard Media  
+[Questions/comments about US Coast Guard](http://www.uscg.mil/mailform/dist-mail.html)
+
+Page Updated 12 June 2002
