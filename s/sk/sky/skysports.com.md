@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skysports.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815062354id_/http%3A//www1.sky.com/sports/home/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skysports.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602025603id_/http%3A//www.skysports.com/skysports/disclaimer/privacy/0%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Sky Sports - The Best Sport Coverage From Around The World
 
-This privacy policy is applicable to any personal information which is given by you to Sky ("User Information") via the web site located at www.sky.co.uk and all its related channels ("the Sky Site").
+This privacy policy is applicable to any personal information which is given by you to Sky ("User Information") via the web site located at www.sky.com and all its related channels ("the Sky Site").
 
 Where this Privacy Policy is inconsistent with the terms and conditions attached to your registration with SkyNow (if applicable) the terms of this Privacy Policy shall prevail.
 
