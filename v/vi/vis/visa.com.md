@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visa.com privacy policy that was archived on 1999-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991124085337id_/http%3A//visa.com/ut/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visa.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621205614id_/http%3A//visa.com/ut/faq/privacy.html) for the most accurate reproduction.*
 
 # Visa - Privacy Matters
 
@@ -15,7 +15,7 @@
 
 [Search/Site Map](https://web.archive.org/ut/find/main.html)
 
-|  |  [](https://web.archive.org/main.html)[](https://web.archive.org/pd/main.html)[](https://web.archive.org/pr/main.html)[](https://web.archive.org/ct/main.html)[](https://web.archive.org/fb/main.html)[](https://web.archive.org/ev/main.html)[](https://web.archive.org/nt/main.html)[](https://web.archive.org/av/main.html)
+|  |  [](https://web.archive.org/main.html)[](https://web.archive.org/pd/main.html)[](https://web.archive.org/pr/main.ghtml)[](https://web.archive.org/ct/main.html)[](https://web.archive.org/fb/main.html)[](https://web.archive.org/ev/main.html)[](https://web.archive.org/nt/main.html)[](https://web.archive.org/av/main.html)
 
 Privacy Matters
 
@@ -71,9 +71,9 @@ Please note the whenever you submit any information to us in connection with any
 
 Please also read over the Visa.com [Site Rules](https://web.archive.org/ut/legal/main.html). Visa takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. If you have any questions, comments, criticisms, or complaints about Visa.com's privacy policy and/or the way it affects you, please feel free to [email us](mailto:webbalto@visa.com). 
 
-[Home](https://web.archive.org/main.html) | [Products & Services](https://web.archive.org/pd/main.html) | [Offers & Promotions](https://web.archive.org/pr/main.html) | [Consumer Tips](https://web.archive.org/ct/main.html) | [For Businesses](https://web.archive.org/fb/main.html) | [Sponsorships & Events](https://web.archive.org/ev/main.html) | [New Technologies](https://web.archive.org/nt/main.html) | [About Visa](https://web.archive.org/av/main.html)
+[Home](https://web.archive.org/main.html) | [Products & Services](https://web.archive.org/pd/main.html) | [Offers & Promotions](https://web.archive.org/pr/main.ghtml) | [Consumer Tips](https://web.archive.org/ct/main.html) | [For Businesses](https://web.archive.org/fb/main.html) | [Sponsorships & Events](https://web.archive.org/ev/main.html) | [New Technologies](https://web.archive.org/nt/main.html) | [About Visa](https://web.archive.org/av/main.html)
 
 [FAQ](https://web.archive.org/ut/faq/main.html) | [Legal](https://web.archive.org/ut/legal/main.html) | [Privacy](https://web.archive.org/ut/faq/privacy.html) | [Downloads](https://web.archive.org/ut/dnld/main.html) | [Search/Site Map](https://web.archive.org/ut/find/main.html)
 
-© Copyright, 1996-1999, Visa International. All rights reserved.    
+© Copyright, 1996-2000, Visa International. All rights reserved.    
 
