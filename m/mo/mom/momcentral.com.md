@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412152415id_/http%3A//www.momcentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209133416id_/http%3A//www.momcentral.com/privacy.html) for the most accurate reproduction.*
 
 # Mom Central | Privacy Policy
 
-[](http://www.momcentral.com/) | 
+[](http://www.momcentral.com/)
 
 **PRIVACY POLICY**
 
@@ -88,4 +88,6 @@ Please keep in mind that whenever you give out personal information online -- fo
 
 Mom Central's policy do not extend to anything that is inherent in the operation of the Internet, and therefore beyond Ideas Squared and Mom Central's control, and is not to be applied in any manner contrary to applicable law or governmental regulation. 
 
-We hope this policy clarifies our procedures regarding your personal information. We at the Mom Central encourage you to learn as much as you can about your privacy on the Internet. 
+We hope this policy clarifies our procedures regarding your personal information. We at the Mom Central encourage you to learn as much as you can about your privacy on the Internet.   
+  
+Copyright 1998-2003 Mom Central, Inc. All rights reserved.
