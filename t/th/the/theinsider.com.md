@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603164711id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204094201id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
 
 # Insider Travel Network: insider travel and sightseeing guides
 
@@ -46,11 +46,11 @@ This site contains links to other sites, including advertisers and affiliate sit
 
 _The Insider Travel Network_ has partnerships with several different organizations. In each case, we have chosen to work with these other companies because they provide special services that we could not provide on our own. For example, our relationship with TravelNow allows you to make hotel reservations, car rental reservations, and international airline reservations via a series of co-branded pages. TravelNow collects information from you and makes the appropriate travel arrangements on your behalf. 
 
-We also have a content relationship with Hotel Reservations Network and TravelPackets. As with TravelNow, you may be asked to provide information as you peruse these co-branded pages, but we do not have access to or control over any of the information you provide.
+We also have a content relationship with Hotel Reservations Network. As with TravelNow, you may be asked to provide information as you peruse these co-branded pages, but we do not have access to or control over any of the information you provide.
 
 #### Public Forums 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 #### Choice/Opt-Out 
 
@@ -77,5 +77,3 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 [webmaster@TheInsider.com ](mailto:webmaster@TheInsider.com)
-
-**Site Directory:**
