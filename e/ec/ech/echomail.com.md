@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echomail.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205050328id_/http%3A//echomail.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echomail.com privacy policy that was archived on 2005-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050318060741id_/http%3A//www.echomail.com/privacy.asp) for the most accurate reproduction.*
 
 # EchoMail | Terms and Conditions
 
