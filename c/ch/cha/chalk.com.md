@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalk.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802051242id_/http%3A//www.chalk.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalk.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609220319id_/http%3A//chalk.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Chalk Media - Privacy Policy
 
@@ -7,11 +7,10 @@
   
   
   
+Integrity. Trust. Chalk Media values your time on our website and ensures your privacy and security are respected.  
   
-  | 
-
   
-|   |   
+  |  |   |   
 |   |  **PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS WEB SITE.**
 
 Your use of the Chalk.com web site is expressly conditioned on your acceptance without modification of the following terms and conditions (the "Terms and Conditions"). By using the Chalk.com website, you signify your acceptance of these Terms and Conditions.
@@ -71,6 +70,8 @@ Your use of the Chalk.com web site is expressly conditioned on your acceptance w
 
   
 ---|---  
+   
+  
    
   
 
