@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thailovelinks.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210085851id_/http%3A//www.thailovelinks.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thailovelinks.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622103035id_/http%3A//www.thailovelinks.com/Privacy.htm) for the most accurate reproduction.*
 
 # thailovelinks.com - Privacy Policy
 
   |   | 
 
-[](https://web.archive.org/web/20021210085851id_/http%3A//www.thailovelinks.com/default.htm)  
+[](https://web.archive.org/web/20030622103035id_/http%3A//www.thailovelinks.com/default.htm)  
   
 ---|---|---  
   
@@ -68,6 +68,6 @@ If you become a member we collect all of the information that you fill out in th
 
 This Privacy Statement was last reviewed in January 2002. It is subject to change from time to time due to developments in technology and new laws.
 
-[Home ](https://web.archive.org/web/20021210085851id_/http%3A//www.thailovelinks.com/default.htm)
+[Home ](https://web.archive.org/web/20030622103035id_/http%3A//www.thailovelinks.com/default.htm)
 
  
