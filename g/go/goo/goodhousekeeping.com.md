@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodhousekeeping.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004113243id_/http%3A//www.ivillage.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodhousekeeping.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603183710id_/http%3A//www.ivillage.com/help/privacy.html) for the most accurate reproduction.*
 
 # iVillage: The Women's Network -- Privacy Policy
 
@@ -113,7 +113,7 @@ Upon registration or from time-to-time, you may be asked to indicate whether you
       * At any time, you can contact us through [feedback@mail.ivillage.com](mailto:feedback@mail.ivillage.com) to have your contact preference changed to "Do Not Contact Me." 
       * Please note that iVillage reserves the right to contact you in the event of a change in the iVillage Terms of Service and/or this Privacy Policy. 
     13. **CHANGE/MODIFY/ARCHIVED INFORMATION**  
-iVillage provides you with the ability to access, correct or change certain information in your member portrait at any time, including contact information or other information you've provided to us. However, you cannot currently change your member name although you may re-register and choose a new name. To review, modify or delete your member information, please [click here](http://auth.ivillage.com/register/update_login.html). Please be advised that iVillage currently archives information it collects on its members and visitors. 
+iVillage provides you with the ability to access, correct or change certain information in your member portrait at any time, including contact information or other information you've provided to us. However, you cannot currently change your member name although you may re-register and choose a new name. To review, modify or delete your member information, please [click here](http://auth.ivillage.com/authenticationPage?destinationType=update&channelType=ivillage&channelData=ivillage). Please be advised that iVillage currently archives information it collects on its members and visitors. 
     14. **HOW WE PROTECT AND SECURE YOUR INFORMATION**  
 iVillage has numerous security measures in place to protect you from the loss, misuse and alteration of the information under our control, including your credit card information if you choose to conduct an e-commerce transaction on the iVillage Network. All of your member information, as well as other sensitive areas like your free iVillage email account, require use of your password. We recommend that you do not share your password with anyone. 
 
