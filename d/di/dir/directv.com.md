@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620153411id_/http%3A//www.directv.com/overview/overviewtablepages/0%2C1118%2C244%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204070400id_/http%3A//www.directv.com/overview/overviewtablepages/0%2C1118%2C244%2C00.html) for the most accurate reproduction.*
 
 # DIRECTV: Privacy Policy
 
