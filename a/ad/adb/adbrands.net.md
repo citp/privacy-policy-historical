@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbrands.net privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004183115id_/http%3A//www.adbrands.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbrands.net privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611045202id_/http%3A//www.adbrands.net/policy.htm) for the most accurate reproduction.*
 
 # Adbrands.net: Privacy Policy
 
@@ -28,4 +28,4 @@ Adbrands.net also manages a separate free mailing list. Paid subscribers to Adbr
 
 * * *
 
-_Adbrands.net. All rights reserved © Mind Advertising Ltd 1998-2003_
+_Adbrands.net. All rights reserved © Mind Advertising Ltd 1998-2004_
