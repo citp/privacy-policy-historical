@@ -1,26 +1,8 @@
-<!--The following is the downloaded HTML source of the silive.com privacy policy that was archived on 2000-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001207151900id_/http%3A//silive.com/userguide/index.ssf%3Fprivacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silive.com privacy policy that was archived on 2001-08-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010804020309id_/http%3A//silive.com/userguide/index.ssf%3F/userguide/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 
-<script language="JavaScript">
-// global variable for current sponsor
-var sponsor = 2;
-
-// function to link to appropriate sponsor
-// (for demonstration, displays a dialog instead)
-function GoSponsor() {
-   if (sponsor==1) window.open("http://www.silive.com/cgi-bin/redirect.cgi?http://www.silive.com/sites/siuh/", "");
-   if (sponsor==2) window.open("http://www.silive.com/cgi-bin/redirect.cgi?http://www.rcbk.com/", "");
-}
-
-// function to rotate image (currently uses 2 images)
-function rotate() {
-   if (++sponsor > 2)  sponsor = 1;
-   document.homebanner.src = "/includes/rotatingads/homebanner" + sponsor + ".gif";
-   window.setTimeout('rotate();',3000);
-}
-</script>
 
 <title>Staten Island Live - User Guide</title>
 
@@ -29,7 +11,7 @@ function rotate() {
 
 </head>
 
-<body bgcolor="#FFFFFF" background="/images/homepage/background.gif" link="#000066" alink="#000066" vlink="#000066" onload="window.setTimeout('rotate();',3000);">
+<body bgcolor="#FFFFFF" background="/images/homepage/background.gif" link="#000066" alink="#000066" vlink="#000066">
 
 <table width="590" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr valign="top">
@@ -37,8 +19,25 @@ function rotate() {
 
 	<td width="115" rowspan="2">
 <a href="/"><img src="/images/homepage/logo.gif" alt="Staten Island Live" width="101" height="100" border="0"></a>
+<font face="arial,sans-serif" size="1" color="#FFFFFF">Sponsored by:</font><br>
 
-<font face="arial,sans-serif" size="1" color="#FFFFFF">Sponsored by:</font><br><a href="javascript:GoSponsor();"><img name="homebanner" src="http://silive.com/includes/rotatingads/homebanner2.gif" border="0"></a><br>
+<a href="javascript:ClickThrough();">
+<img name="ad" src="http://ads1.advance.net/RealMedia/ads/Creatives/SILIVE/SIBANKTRUST04ST03/sisb_logo.gif" border="0"></a>
+<script language="JavaScript">
+var position = 0;
+rotate();
+function ClickThrough() {
+if (position==1) window.open("http://ads1.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/affiliate_media/site_sponsor.html//20010803220309/1406744251/VertBanner/SILIVE/SIBANKTRUST04ST03/sisb_logo.gif/64306361303938343362366235376430", 'new','location,menubar , resizable,scrollbars,status,toolbar');
+if (position==2) window.open("http://ads1.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/affiliate_media/site_sponsor.html//20010803220309/1406744251/VertBanner/SILIVE/SIYANKS01ST03/siyankslogo.gif/64306361303938343362366235376430", 'new','location,menubar , resizable,scrollbars,status,toolbar');
+}
+function rotate() {
+position++;
+if (position > 2)  position = 1;
+if (position==1) document.ad.src ="http://ads1.advance.net/RealMedia/ads/Creatives/SILIVE/SIBANKTRUST04ST03/sisb_logo.gif";
+if (position==2) document.ad.src ="http://ads1.advance.net/RealMedia/ads/Creatives/SILIVE/SIYANKS01ST03/siyankslogo.gif";
+window.setTimeout ('rotate();',3000);
+}
+</script>
 
 <br>
 
@@ -51,8 +50,8 @@ document.write('');
 //-->
 </script><p>
 </p><div id="NAVSPAN" style="position: absolute; top: 185; left: 10">
-<img src="http://silive.com/dhtml/navbar/images/siteindex.gif" height="12" width="102" border="0"><br>
-<img name="NAVIMAGE" src="http://silive.com/dhtml/navbar/images/navbar.gif" ismap="" usemap="#NAVIMAGE" height="264" width="102" border="0">
+<img src="http://www.silive.com/dhtml/navbar/images/siteindex.gif" height="12" width="102" border="0"><br>
+<img name="NAVIMAGE" src="http://www.silive.com/dhtml/navbar/images/navbar.gif" ismap="" usemap="#NAVIMAGE" height="264" width="102" border="0">
 <map name="NAVIMAGE">
 <area shape="rect" coords="3,1,50,14" href="http://www.silive.com/" alt="" target="_top">
 <area shape="rect" coords="3,19,92,38" href="http://www.silive.com/forums/" alt="" target="_top">
@@ -68,20 +67,20 @@ document.write('');
 <area shape="rect" coords="3,204,90,218" href="http://www.silive.com/marketplace/" alt="" target="_top">
 <area shape="rect" coords="52,224,80,236" href="http://www.silive.com/careers/" alt="" target="_top">
 <area shape="rect" coords="10,250,37,238" href="http://www.silive.com/cars/" alt="" target="_top">
-<area shape="rect" coords="38,250,72,238" href="http://www.silive.com/advancehomes/" alt="" target="_top">
-<area shape="rect" coords="74,250,99,238" href="http://www.silive.com/advanceclassifieds/" alt="" target="_top">
+<area shape="rect" coords="38,250,72,238" href="http://www.silive.com/homes/" alt="" target="_top">
+<area shape="rect" coords="74,250,99,238" href="http://www.silive.com/classifieds/" alt="" target="_top">
 </map>
 <p>
 <a href="/userguide/"><font face="arial,sans-serif" size="2" color="#FFFFFF"><b>About Us</b></font></a><br>
 <font face="arial,sans-serif" size="1" color="#FFFFFF">
-<font color="#FFFFFF"><b>»</b> <a href="mailto:feedback@silive.com"><font face="arial,sans-serif" size="1" color="#FFFFFF">Contact Us</font></a></font><br>
-<font color="#FFFFFF"><b>»</b> <a href="/userguide/index.ssf?rules.html"><font face="arial,sans-serif" size="1" color="#FFFFFF">User Agreement</font></a></font><br>
-<font color="#FFFFFF"><b>»</b> <a href="/userguide/index.ssf?privacy.html"><font face="arial,sans-serif" size="1" color="#FFFFFF">Privacy Policy</font></a></font><br>
+<font color="#FFFFFF"><b>»</b> <a href="/userguide/index.ssf?/userguide/contact.html"><font face="arial,sans-serif" size="1" color="#FFFFFF">Contact Us</font></a></font><br>
+<font color="#FFFFFF"><b>»</b> <a href="/userguide/index.ssf?/userguide/rules.html"><font face="arial,sans-serif" size="1" color="#FFFFFF">User Agreement</font></a></font><br>
+<font color="#FFFFFF"><b>»</b> <a href="/userguide/index.ssf?/userguide/privacy.html"><font face="arial,sans-serif" size="1" color="#FFFFFF">Privacy Policy</font></a></font><br>
 <font color="#FFFFFF"><b>»</b> <a href="/shoppers/"><font face="arial,sans-serif" size="1" color="#FFFFFF">Our Advertisers</font></a></font><br>
 <font color="#FFFFFF"><b>»</b> <a href="/mediakit/"><font face="arial,sans-serif" size="1" color="#FFFFFF">How to Advertise</font></a></font><br>
 </font></p><p><font face="arial,sans-serif" size="1" color="#FFFFFF">
-<a href="/userguide/index.ssf?copyright.html"><font color="#FFFFFF">©
-2000<br> Staten Island Live<br>
+<a href="/userguide/index.ssf?/userguide/privacy.html"><font color="#FFFFFF">©
+2001<br> Staten Island Live<br>
 All rights reserved.<br></font></a>
 </font>
 </p></div>
@@ -89,7 +88,7 @@ All rights reserved.<br></font></a>
 <td width="9" rowspan="2"><img src="/images/spacer.gif" width="9" height="1"></td>
 <td width="476" colspan="3">
 
-<a href="http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/userguide/index.ssf/privacy.html/20001207101928/2011507630/BannerTop/SILIVE/ST_Careers/AdvanceCareersBanner.gif/64306439366430363361326661613830" target="_blank"><img src="http://ads3.advance.net/RealMedia/ads/Creatives/SILIVE/ST_Careers/AdvanceCareersBanner.gif" width="468" height="60" alt="" border="0"></a>
+<a href="http://ads2.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/userguide/index.ssf//userguide/privacy.html//20010803220309/1060467526/BannerTop/SILIVE/AV_STYLE01/pages468x60.gif/64306361303938343362366235376430" target="_blank"><img src="http://ads2.advance.net/RealMedia/ads/Creatives/SILIVE/AV_STYLE01/pages468x60.gif" width="468" height="60" alt="" border="0"></a>
 <br>
 <a href="/userguide/"><img src="/images/homepage/userguide_bar.gif" width="468" height="13" alt="user guide" border="no"></a><br><img src="/images/spacer.gif" width="1" height="8"><br></td>
 	
@@ -117,11 +116,8 @@ All rights reserved.<br></font></a>
 
 
 
-	
 
-
-
-	<td width="341" rowspan="2"><img src="/images/homepage/head_userguide.gif" width="341" height="37">
+<td width="341" rowspan="2"><img src="/images/homepage/head_userguide.gif" width="341" height="37">
 
 
 <table width="339">
@@ -129,7 +125,7 @@ All rights reserved.<br></font></a>
 
 <font face="arial,geneva" size="5"><b>Staten Island Live Privacy Policy</b></font><p>
 
-The Staten Island Live Web site is maintained by Staten Island Live, 1200 South Avenue, Suite 101, Staten Island, NY 10314. We can be reached by e-mail at <a href="mailto:feedback@silive.com">feedback@silive.com</a>.</p><p>
+The Staten Island Live Web site is maintained by Staten Island Live, 900 South Avenue, Suite 201, Staten Island, NY 10314. We can be reached by e-mail at <a href="mailto:feedback@silive.com">feedback@silive.com</a>.</p><p>
 
 <b>HOW STATEN ISLAND LIVE USES INFORMATION PROVIDED BY YOU:</b> This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information may be used by Staten Island Live and its affiliates for editorial purposes. Staten Island Live may also use such information for marketing and promotional purposes. We may share your personally identifiable information with other companies with which it conducts business. For example, if you enter our contests, make a purchase or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. Or if you choose to purchase items through our commerce site, we will
 forward your information to third parties for credit card processing and order fulfillment.  We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While Staten Island Live will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, Staten Island Live does not bear any responsibility for any actions or policies of any third parties.</p><p>
@@ -159,8 +155,6 @@ Again, if you have any concerns regarding your child's or your use of Staten Isl
 
 
 
-
-
 	
 
 
@@ -182,22 +176,25 @@ Again, if you have any concerns regarding your child's or your use of Staten Isl
 
 		<a href="/userguide/"><font face="arial,sans-serif" size="2" color="#333399"><b>User Guide:</b></font></a><br>
 
-		<font face="arial,sans-serif" size="2" color="000000">»</font>&nbsp;<a href="/userguide/index.ssf?faq.html"><font color="#333399"><b>FAQ</b></font></a><br>
+		<font face="arial,sans-serif" size="2" color="000000">»</font>&nbsp;<a href="/userguide/index.ssf?/userguide/faq.html"><font color="#333399"><b>FAQ</b></font></a><br>
 
-		<font face="arial,sans-serif" size="2" color="#000000">»</font>&nbsp;<a href="/userguide/index.ssf?archives.html"><font color="#333399"><b>Stories Archive</b></font></a><br>
+		<font face="arial,sans-serif" size="2" color="000000">»</font>&nbsp;<a href="/userguide/index.ssf?/userguide/contact.html"><font color="#333399"><b>Feedback</b></font></a><br>
 
-		<font face="arial,sans-serif" size="2" color="#000000">»</font>&nbsp;<a href="/userguide/index.ssf?homepage.html"><font color="#333399"><b>Make Us Your Home</b></font></a><br>
+		<font face="arial,sans-serif" size="2" color="#000000">»</font>&nbsp;<a href="/userguide/index.ssf?/userguide/archives.html"><font color="#333399"><b>Stories Archive</b></font></a><br>
 
-		<font face="arial,sans-serif" size="2" color="#000000">»</font>&nbsp;<a href="/lists/subscribe.html"><font color="#333399"><b>Free Newsletters</b></font></a><br>
+		<font face="arial,sans-serif" size="2" color="#000000">»</font>&nbsp;<a href="/userguide/index.ssf?/userguide/homepage.html"><font color="#333399"><b>Make Us Your Home</b></font></a><br>
+
+		<font face="arial,sans-serif" size="2" color="#000000">»</font>&nbsp;<a href="/newsletters/"><font color="#333399"><b>Free Newsletters</b></font></a></font><p><font face="arial,sans-serif" size="2" color="#3333CC">
 <!--
-		<font face=arial,sans-serif size=2 color="#000000">&#187;</font>&nbsp;<a href=/userguide/index.ssf?siteindex.html><font color=#333399><b>Site Index</b></font></a><br>
+		<font face=arial,sans-serif size=2 color="#000000">&#187;</font>&nbsp;<a href=/userguide/index.ssf?/userguide/siteindex.html><font color=#333399><b>Site Index</b></font></a><br>
+
+		<font face=arial,sans-serif size=2 color="#000000">&#187;</font>&nbsp;<a href=/forums/qanda><font color=#333399><b>SI Q&A Forum</b></font></a><br>
 -->
-		<font face="arial,sans-serif" size="2" color="#000000">»</font>&nbsp;<a href="/forums/qanda"><font color="#333399"><b>SI Q&amp;A Forum</b></font></a><br>
 
 </font>
 
 
-		<img src="/sports/images/spacer.gif" width="1" height="5"><br>
+		<img src="/images/spacer.gif" width="1" height="5"><br>
 
 
 			
@@ -205,13 +202,7 @@ Again, if you have any concerns regarding your child's or your use of Staten Isl
 				<tbody><tr>
 					<td width="122" align="center">
 		
-<script language="JavaScript" src="http://servedby.advertising.com/site=32046/size=120090/bnum=844795888">
-</script>
-<noscript>
-<A HREF="http://ads1.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/userguide/index.ssf/privacy.html/20001207101929/844795888/Tile1/SILIVE/REM_ADSITIL01/REM_ADSITIL01.html/64306439366430363361326661613830" target="_top">
-<IMG SRC="http://servedby.advertising.com/site=32046/size=120090/bnum=844795888/bins=1/rich=0" border="0" width=120 height=90 alt="Click to learn more..."></A>
-</noscript>
-			
+<a href="http://ads2.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/userguide/index.ssf//userguide/privacy.html//20010803220310/1129353995/Tile1/SILIVE/ST_Chat/newchatxtra_tile.gif/64306361303938343362366235376430" target="_blank"><img src="http://ads2.advance.net/RealMedia/ads/Creatives/SILIVE/ST_Chat/newchatxtra_tile.gif" width="120" height="90" alt="" border="0"></a>
 					</td>
 				</tr>
 
@@ -219,102 +210,106 @@ Again, if you have any concerns regarding your child's or your use of Staten Isl
 					<td>			
 		
 
-
 <!--
-<font face=arial,sans-serif size=2>&#187; <b><A href="/userguide/index.ssf?intern.html">SI Live is seeking interns.</a></b></font><br><br>
+<font face=arial,sans-serif size=2>&#187; <b><A href="/userguide/index.ssf?/userguide/intern.html">SI Live is seeking interns.</a></b></font><br><br>
 -->
-		
-
+	
 <table width="122" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top"><td width="122" bgcolor="#404040" colspan="4" align="center"><font face="arial,helvetica" size="2" color="#FFFFFF">CONTESTS</font></td></tr>
 <tr valign="top" bgcolor="#404040">
-<td width="1"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="4"></td>
-<td width="120" colspan="2" bgcolor="#FFFFFF"><img src="http://silive.com/homepage/images/spacer.gif" width="118" height="4"></td>
-<td width="1"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="4"></td></tr>
+<td width="1"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="4"></td>
+<td width="120" colspan="2" bgcolor="#FFFFFF"><img src="http://www.silive.com/homepage/images/spacer.gif" width="118" height="4"></td>
+<td width="1"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="4"></td></tr>
 
 
 <tr valign="top" bgcolor="#FFFFFF">
-<td width="1" bgcolor="#404040"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="1"></td>
-<td width="5"><img src="http://silive.com/homepage/images/spacer.gif" width="5" height="1"></td>
+<td width="1" bgcolor="#404040"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="1"></td>
+<td width="5"><img src="http://www.silive.com/homepage/images/spacer.gif" width="5" height="1"></td>
 <td width="108"><font face="arial,sans-serif" size="1">
 
-<font size="1"><b>»</b></font> <a href="/cc/eshop/help.ssf">Win $100 worth of customized merchandise!</a><br>
-<img src="http://silive.com/homepage/images/spacer.gif" width="106" height="5"><br></font></td>
-<td width="1" bgcolor="#404040"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="1"></td></tr>
+<font size="1"><b>»</b></font> <a href="/shore/index.ssf?/silive_shoreshot.html">Your Shore Shots can win you an SILive.com t-shirt!</a><br>
+
+<font size="1"><b>»</b></font> <a href="/contests/"><font color="#000000">WIN SI Yankees tickets!</font></a><font color="#000000"><br>
+
+<img src="http://www.silive.com/homepage/images/spacer.gif" width="106" height="5"><br></font></font></td>
+<td width="1" bgcolor="#404040"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="1"></td></tr>
+	
+
+<tr valign="top"><td width="122" bgcolor="#404040" colspan="4"><img src="http://www.silive.com/homepage/images/spacer.gif" width="122" height="2"></td></tr>
+</tbody></table>  
 
 
-<tr valign="top"><td width="122" bgcolor="#404040" colspan="4"><img src="http://silive.com/homepage/images/spacer.gif" width="122" height="2"></td></tr>
-</tbody></table>
-<img src="http://silive.com/homepage/images/spacer.gif" width="1" height="6"><br>
-
+<img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="6"><br>
 
 
 <table width="120" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td width="120" align="center" bgcolor="#d00000"><font face="arial,sans-serif" size="2" color="#FFFFFF">CLASSIFIEDS</font></td></tr>
 <tr><td width="120">
-<img src="http://silive.com/images/homepage/classifieds_box.gif" usemap="#classifieds" width="120" height="86" border="0">
+<img src="http://www.silive.com/images/homepage/classifieds_box.gif" usemap="#classifieds" width="120" height="86" border="0">
 </td></tr>
 </tbody></table>
-<img src="http://silive.com/homepage/images/spacer.gif" width="1" height="6"><br>
+<img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="6"><br>
 
 <table width="122" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top"><td width="122" bgcolor="#404040" colspan="4" align="center"><font face="arial,helvetica" size="2" color="#FFFFFF">MARKETPLACE</font></td></tr>
 <tr valign="top" bgcolor="#404040">
-<td width="1"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="4"></td>
-<td width="120" colspan="2" bgcolor="#FFFFFF"><img src="http://silive.com/homepage/images/spacer.gif" width="118" height="4"></td>
-<td width="1"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="4"></td></tr>
+<td width="1"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="4"></td>
+<td width="120" colspan="2" bgcolor="#FFFFFF"><img src="http://www.silive.com/homepage/images/spacer.gif" width="118" height="4"></td>
+<td width="1"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="4"></td></tr>
 <tr valign="top" bgcolor="#FFFFFF">
-<td width="1" bgcolor="#404040"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="1"></td>
-<td width="5"><img src="http://silive.com/homepage/images/spacer.gif" width="5" height="1"></td>
+<td width="1" bgcolor="#404040"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="1"></td>
+<td width="5"><img src="http://www.silive.com/homepage/images/spacer.gif" width="5" height="1"></td>
 <td width="108"><font face="arial,sans-serif" size="1">
+
 <font size="1"><b>»</b></font> <a href="/auctions/">Staten Island Bid: Buy and sell at the online auction!</a><br>
-<font size="1"><b>»</b></font> <a href="http://www.silive-store.com">The Staten Island Store: Avoid long lines and shop online</a><br>
 <font size="1"><b>»</b></font> <a href="http://careersite.silive.com/">Post Your Resume</a><br>
 <font size="1"><b>»</b></font> <a href="/shoppers/">Shop Smarter</a><br>
-<img src="http://silive.com/homepage/images/spacer.gif" width="106" height="5"><br></font></td>
-<td width="1" bgcolor="#404040"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="1"></td></tr>
-<tr valign="top"><td width="122" bgcolor="#404040" colspan="4"><img src="http://silive.com/homepage/images/spacer.gif" width="122" height="2"></td></tr>
-</tbody></table><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="6"><br>
+<img src="http://www.silive.com/homepage/images/spacer.gif" width="106" height="5"><br></font></td>
+<td width="1" bgcolor="#404040"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="1"></td></tr>
+<tr valign="top"><td width="122" bgcolor="#404040" colspan="4"><img src="http://www.silive.com/homepage/images/spacer.gif" width="122" height="2"></td></tr>
+</tbody></table><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="6"><br>
 
 
 		
 <table width="122" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top"><td width="122" bgcolor="#404040" colspan="4" align="center"><font face="arial,helvetica" size="2" color="#FFFFFF">SPONSOR NEWS</font></td></tr>
 <tr valign="top" bgcolor="#404040">
-<td width="1"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="4"></td>
-<td width="120" colspan="2" bgcolor="#FFFFFF"><img src="http://silive.com/homepage/images/spacer.gif" width="118" height="4"></td>
-<td width="1"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="4"></td></tr>
+<td width="1"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="4"></td>
+<td width="120" colspan="2" bgcolor="#FFFFFF"><img src="http://www.silive.com/homepage/images/spacer.gif" width="118" height="4"></td>
+<td width="1"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="4"></td></tr>
 <tr valign="top" bgcolor="#FFFFFF">
-<td width="1" bgcolor="#404040"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="1"></td>
-<td width="5"><img src="http://silive.com/homepage/images/spacer.gif" width="5" height="1"></td>
+<td width="1" bgcolor="#404040"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="1"></td>
+<td width="5"><img src="http://www.silive.com/homepage/images/spacer.gif" width="5" height="1"></td>
 <td width="108"><font face="arial,sans-serif" size="1">
-<font size="1"><b>»</b></font> <a href="http://features.rcbk.com/" target="_new">Richmond County Savings Bank extends the Millennium Savings Account</a><br>
+<font size="1"><b>»</b></font> <a href="http://www.sibk.com/14171.html#stockrepo">Staten Island Bancorp, Inc. announces intention to repurchase common stock</a><br>
+<font face="arial,sans-serif" size="1">
+<font size="1"><b>»</b></font> <a href="http://www.siyanks.com/index.cfm?npageid=6&amp;CFID=120588&amp;CFTOKEN=7935140/">SI Yankees tickets still available</a><br>
 
-<img src="http://silive.com/homepage/images/spacer.gif" width="106" height="5"><br></font></td>
-<td width="1" bgcolor="#404040"><img src="http://silive.com/homepage/images/spacer.gif" width="1" height="1"></td></tr>
+<img src="http://www.silive.com/homepage/images/spacer.gif" width="106" height="5"><br></font></font></td>
+<td width="1" bgcolor="#404040"><img src="http://www.silive.com/homepage/images/spacer.gif" width="1" height="1"></td></tr>
 
 
 <!--
 <tr valign=top bgcolor=#FFFFFF>
-<td width=1 bgcolor=#404040><img src="http://silive.com/homepage/images/spacer.gif" width=1 height=1></td>
-<td width=5><img src="http://silive.com/homepage/images/spacer.gif" width=5 height=1></td>
+<td width=1 bgcolor=#404040><img src="http://www.silive.com/homepage/images/spacer.gif" width=1 height=1></td>
+<td width=5><img src="http://www.silive.com/homepage/images/spacer.gif" width=5 height=1></td>
 <td width=108><font face=arial,sans-serif size=1>
 <font size=1><B>&raquo;</b></font> <A href="http://www.interstat.net/siuh/conindex7.html" "target=_new">SIUH offers seminar on body radiosurgery</a><br>
-<img src="http://silive.com/homepage/images/spacer.gif" width=106 height=5><br></font></td>
-<td width=1 bgcolor=#404040><img src="http://silive.com/homepage/images/spacer.gif" width=1 height=1></td></tr>
+<img src="http://www.silive.com/homepage/images/spacer.gif" width=106 height=5><br></font></td>
+<td width=1 bgcolor=#404040><img src="http://www.silive.com/homepage/images/spacer.gif" width=1 height=1></td></tr>
 -->
-<tr valign="top"><td width="122" bgcolor="#404040" colspan="4"><img src="http://silive.com/homepage/images/spacer.gif" width="122" height="2"></td></tr>
+<tr valign="top"><td width="122" bgcolor="#404040" colspan="4"><img src="http://www.silive.com/homepage/images/spacer.gif" width="122" height="2"></td></tr>
 </tbody></table><br>
 
-		<font face="arial,sans-serif" size="2"><font face="arial,sans-serif" size="2" color="#000000">»</font>&nbsp;<a href="/cgi-bin/sendpage/sendpage.cgi"><font face="arial,sans-serif" size="2">Send This Page</font></a><br><br>
+		<font face="arial,sans-serif" size="2"><font face="arial,sans-serif" size="2" color="#000000">»</font>&nbsp;<a href="/sendpage/index.ssf?/sendpage/sendpage.ssf"><font face="arial,sans-serif" size="2">Send This Page</font></a><br><br>
 
 <!-- Image Map (client side) starts... -->
 <map name="classifieds">
 <area shape="rect" coords="3,1,116,16" ,="" href="/careers/" alt="">
 <area shape="rect" coords="3,18,116,33" ,="" href="/cars/" alt="">
-<area shape="rect" coords="3,35,116,51" ,="" href="/advancehomes/" alt="">
-<area shape="rect" coords="3,53,116,67" ,="" href="/advanceclassifieds/" alt="">
+<area shape="rect" coords="3,35,116,51" ,="" href="/homes/" alt="">
+<area shape="rect" coords="3,53,116,67" ,="" href="/classifieds/" alt="">
 <area shape="rect" coords="3,70,116,84" ,="" href="/placead/" alt="">
 </map>
 <!-- End of map definition -->
@@ -325,7 +320,7 @@ Again, if you have any concerns regarding your child's or your use of Staten Isl
 			</tbody></table>
 
 
-</td></tr>
+</p></td></tr>
 
 
 
@@ -339,7 +334,6 @@ Again, if you have any concerns regarding your child's or your use of Staten Isl
 
 
 </tbody></table>
-
 
 
 
