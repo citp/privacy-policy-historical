@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101032408id_/http%3A//eggheadcafe.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605161503id_/http%3A//www.eggheadcafe.com/privacy.asp) for the most accurate reproduction.*
 
 # EggHeadCafe Privacy Policy Statement
 
-| _Privacy Statement_  
+|  Privacy Statement  
 ---  
-  
-  
 **EggHeadCafe** has created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses the information gathering and dissemination practices for this Web site: [eggheadcafe](http://www.eggheadcafe.com/)  
-  
-  
 Information Automatically Logged  
 We use your IP address to help diagnose problems with our server and to administer our Web site.  We do not share your IP address with any third parties nor do we use it for any type of tracking or identification.  
   
@@ -38,4 +34,4 @@ This site has security measures in place to protect the loss, misuse, and altera
   
   
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [pbromberg@yahoo.com](mailto:pbromberg@yahoo.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@eggheadcafe.com](mailto:info@eggheadcafe.com).
