@@ -1,103 +1,87 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015170357id_/http%3A//www.faa.gov/utilities/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404192508id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
-# Federal Aviation Administration: Privacy Policy
+# Federal Aviation Administration - Privacy Policy
 
-  
-**FAA Privacy and Web Site Policy **
+**Our Commitment**  
+We respect your right to privacy and will protect it when you visit our website.
 
-Thank you for visiting the Federal Aviation Administration (FAA) Web site. We are committed to respecting your right to privacy and will protect it when you visit our Web site.
+This Privacy Policy explains our online information practices only, including how we collect and use your personal information. It does not apply to third-party websites that you are able to reach from FAA.gov, nor does it cover practices of other areas within the Department of Transportation. We encourage you to read those privacy policies to learn how they collect and use your information.
 
-This Privacy Policy explains our online information practices only, including how we collect and use your personal information. It covers information collected on this Web site. Our Privacy Policy does not apply to third party Web sites that you are able to reach from our Web site, nor does it cover practices of other elements within the Department of Transportation. We encourage you to read the Privacy Policies of those elements and third parties to learn how they collect and use information about you.
+**What We Automatically Collect Online**  
+We collect information about your visit that does not identify you personally. We can tell the computer, browser, and web service you are using. We also know the date, time, and pages you visit. Collecting this information helps us design the site to suit your needs. In the event of a known security or virus threat, we may collect information on the web content you view. 
 
-To assist you with reading our Privacy Policy, we have provided answers to the following questions you may find most important:
+**Other Information We May Collect**  
+When you visit our website, we may request and collect the following categories of personal information from you: 
 
-**What information do we collect automatically online?**
+  * Contact information 
+  * License numbers or other official document information to verify your identity 
+  * Aviation-related background, such as whether you are a flight instructor or mechanic 
 
-When you visit our Web site, we collect information about your visit that does not identify you personally. We can tell the type of computer, browser, and Web service you are using. We also know the date, time, and pages you visit. Collecting this information helps us design the site to suit your needs.
+**Why We Collect Information**  
+Our principal purpose for collecting personal information online is to provide you with what you need and want, address security and virus concerns, and to ease the use of our website.
 
-**What additional information do we collect about you online?**
+We will only use your information for the purposes you intended, to address security or virus threats, or for the purposes required under the law. See “Choices on How We Use the Information You Provide” to learn more.
 
-When you visit our Web site, we may request and collect the following categories of personal information from you:
+We collect information to: 
 
-  * Contact information
-  * license numbers or other official document  
-information to verify your identity.
-  * Aviation-related background, such as whether you are a flight instructor or mechanic
+  * Respond to your complaints 
+  * Reply to your “feedback comments” 
+  * Manage your access to restricted areas of the website 
+  * Fulfill requests for reports and other similar information 
+  * Register you for a member account 
+  * Issue certificates (licenses)
 
-**Why do we collect information online and how do we use it?**
+**Sharing Your Information**  
+We may share personally identifiable information you provide to us online with representatives within the Department of Transportation’s [ Operating Administrations and related entities](http://www.dot.gov/DOTagencies.htm), other federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other federal government agencies. 
 
-Our principal purpose for collecting personal information online is to provide you with the information you need and want, and to facilitate the use of our Web site.
+Also, the law may require us to share collected information with authorized law enforcement, homeland security, and national security activities. See the Privacy Act of 1974 below.
 
-We will only use your information for the purposes for which you have provided this information, or for the purposes required under the law. (In order to learn more about how we provide choices to you regarding our use of your information, visit the “Choices” section in this Privacy Policy.)
+**Choices on How We Use the Information You Provide**  
+Throughout our website, we will let you know whether the information we ask you to provide is voluntary or required. By providing personally identifiable information, you grant us consent to use this information, but only for the primary reason you are giving it. We will ask you to grant us consent before using your voluntarily provided information for any secondary purposes, other than those required under the law.
 
-Generally, our uses of information collected online include:
+**Information Practices for Children**  
+We have information for children on our [education web pages](https://web.archive.org/education_research). We do not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the [Children’s Online Privacy Protection Act (COPPA).](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)
 
-  * Responding to your complaints
-  * Replying to your “feedback comments”
-  * Managing your access to restricted areas of the Web site
-  * Fulfilling requests for reports and other similar information
-  * Registering you for a member account
-  * Issuing Certificates (Licenses)
+**Cookies or Other Tracking Devices**  
+A “cookie” is a small text file stored on your computer that makes it easy for you to move around a website without continually re-entering your name, password, preferences, for example. 
 
-**How, and with whom, do we share the information we collect online?**
+We only use “session” cookies on our website. This means we store the cookie on your computer only during your visit to our website. After you turn off your computer or stop using the Internet, the cookie disappears with your personal information.
 
-We may share personally identifiable information you provide to us online with appropriate representatives within the Department of Transportation (see <http://www.dot.gov/DOTagencies.htm> for information on DOT Operating Administrations and related entities), other federal government agencies, or other designated representatives as needed to facilitate your request or transaction.
+**Securing Your Information**   
+Properly securing the information we collect online is a primary commitment. To help us do this, we take the following steps to: 
 
-Additionally, we may be required by law to share information we collect with authorized law enforcement, homeland security, and national security activities (See also the “What are your rights under the Privacy Act of 1974?” section in this Privacy Policy).
+  * Employ internal access controls to ensure the only people who see your information are those with a need to do so to perform their official duties 
+  * Train relevant personnel on our privacy and security measures to know requirements for compliance 
+  * Secure the areas where we hold hard copies of information we collect online 
+  * Perform regular backups of the information we collect online to insure against loss 
+  * Use technical controls to secure the information we collect online including but not limited to: 
+    * Secure Socket Layer (SSL) 
+    * Encryption 
+    * Firewalls 
+    * Password protections 
+  * We periodically test our security procedures to ensure personnel and technical compliance 
+  * We employ external access safeguards to identify and prevent unauthorized tries of outsiders to hack into, or cause harm to, the information in our systems 
 
-**Do we give you choices on how we use the information you provide us?**
+Tampering with FAA’s website is against the law. Depending on the offense, it is punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-Throughout our Web site, we will let you know whether the information we ask you to provide is voluntary or required. By providing personally identifiable information, you are granting us consent to use this personally identifiable information for the primary purpose for which you are providing it. Additionally, we will ask for you to grant us consent before using your voluntarily provided information for any secondary purposes, other than those required under the law.
+**Your Rights Under the Privacy Act of 1974**  
+The Privacy Act of 1974 protects the personal information the federal government keeps on you in systems of records (SOR) (information an agency controls recovered by name or other personal identifier). The Privacy Act regulates how the government can disclose, share, provide access to, and keep the personal information that it collects. The Privacy Act does not cover all information collected online.
 
-**What are our information practices for children?**
+The Act’s major terms require agencies to: 
 
-We have information for children on education web pages at: http://www.faa.gov/education/index.cfm. We do not intentionally collect personal information from children under the age of 13. If we do, we will comply with the Children’s Online Privacy Protection Act (COPPA). To find out more about COPPA, please click on the following link: [www.ftc.gov/privacy/privacyinitiatives/childrens.html](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).
-
-**Do we use cookies or other tracking devices?**
-
-A “cookie” is a small text file that is stored on your computer and makes it easy for you to move around a Web site without having to continually re-enter your name, password, preferences, etc. 
-
-We use only “session” cookies; this means we store the cookie on your computer only during each visit to our Web site. After you turn off your computer or stop using the Internet, the cookie is erased and nothing will be remembered the next time you visit our Web site.
-
-**How do we secure your information we collect online?**
-
-We are committed to properly securing the information we collect online. To help us accomplish this, we take the following steps:
-
-  * We employ internal access controls to ensure that the only people who see your information are those with a need to do so to perform their official duties; 
-  * We train relevant personnel on our privacy and security measures so that our personnel know what is required for compliance;
-  * We physically secure the areas where we hold hard copies of the information we collect online;
-  * We regularly back up the information we collect online to insure against loss;
-  * We use technical controls to secure the information we collect online as appropriate, including but not limited to: Secure Socket Layer (SSL), encryption, firewalls, password protections;
-  * We periodically test our security procedures to ensure personnel and technical compliance; and 
-  * We employ external access safeguards to identify and prevent unauthorized attempts of outsiders to hack into, or cause harm to, the information in our systems.
-
-Tampering with FAA’s Web site is against the law. If anyone tries to tamper with it, they may be punished under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
-
-**What are your rights under the Privacy Act of 1974?**
-
-The Privacy Act of 1974 protects the personal information the federal government keeps on you in “systems of records (SOR)” (information an agency controls that can be retrieved by name or some other personal identifier). The Privacy Act regulates how the government can disclose, share, provide access to, and maintain the personal information that it collects. Not all information collected online is covered by the Privacy Act.
-
-The Act’s major provisions require agencies to:
-
-  * Publish a Privacy Act Notice in the Federal Register explaining the existence, character and uses of a new or revised SOR;
-  * Keep information about you accurate, relevant, timely, and complete to assure fairness in dealing with you; and
-  * Allow you to, upon request, access and review your information held in a SOR and request amendment of the information if you disagree with it.
+  * Publish a Privacy Act Notice in the Federal Register explaining the existence, character, and uses of a new or revised SOR 
+  * Keep information about you accurate, relevant, timely, and complete to assure fairness in dealing with you 
+  * Allow you to, on request, access and review your information held in an SOR and request amendment of the information if you disagree with it.
 
   
-When the FAA collects information from you online that is subject to the Privacy Act (i.e., information to be kept in a SOR), we will provide you, through a link on the Web page from which we collect information, access to our Privacy Act Notice. This Privacy Act Notice will inform you what portion of the information is maintained and retrieved by your name or other personal identifier.
+When FAA collects information from you online that is subject to the Privacy Act (information kept in an SOR), we will provide a Privacy Act Statement specific to that collected information. This Privacy Act Statement tells you: 
 
-Each Privacy Act Notice will also notify you of the following:
+  * The authority for and the purpose and use of the information collected subject to the Privacy Act 
+  * Whether providing the information is voluntary or mandatory 
+  * The effects on you if you do not provide any or all requested information 
 
-  * The authority for and purpose and use of the collection of information subject to the Privacy Act;
-  * Whether providing the information is voluntary or mandatory; and
-  * The effects on you if you do not provide any or all of the requested information.
+View our [Privacy Act Notices](http://cio.ost.dot.gov/DOT/OST/Documents/files/records.html).
 
-[Click here to view our Privacy Act Notices](http://cio.ost.dot.gov/policy/records.html)
-
-**How do you find out more about, or comment on, our privacy practices?**
-
-For more information on our privacy practices, or for comments and concerns, please contact our Privacy Officer at:
-
-Email **Judy Street** at: [9-AWA-ABA-WEB-PRIVACY-POLICY-CONTACT](mailto:9-AWA-ABA-WEB-PRIVACY-POLICY-CONTACT@faa.gov)
-
-**Phone:** 202-267-9895
+**Our Privacy Practices**  
+For more information or for comments and concerns on our privacy practices, please contact our Privacy Officer, Judy Street, by [email](https://web.archive.org/contact_faa/index.cfm?url=/privacy/index.cfm&mailto=9%2DAWA%2DABA%2DWEB%2DPRIVACY%2DPOLICY%2DCONTACT&subject=Privacy%20Concerns&sid=true) or by phone at (202) 267-9895. Also, DOT has conducted a Privacy Impact Assessment on some systems.   
+View our [Privacy Impact Assessments](http://www.dot.gov/pia.html). 
