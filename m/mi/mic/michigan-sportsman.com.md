@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michigan-sportsman.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214140329id_/http%3A//www.michigan-sportsman.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michigan-sportsman.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605152257id_/http%3A//www.michigan-sportsman.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ If you buy merchandise through our bookstore, you will have to provide personal 
 
 We collect anonymous aggregated data and provide it to our advertisers and other companies that we do business with for market research and statistical purposes.  For example we might report to an advertiser that 50% of our users fly fish.
 
-You should be aware that any information about yourself that you post on our forums or in the campfire can be collected by others and may result in unsolicited messages from others.
+You should be aware that any information about yourself that you post on our forums or in the campfire can be collected by others and may result in unsolicited messages from others.  We may also monitor campfire conversations as all are recorded.
 
 **Cookies:**
 
