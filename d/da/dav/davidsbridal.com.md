@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408232105id_/http%3A//davidsbridal.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214161948id_/http%3A//davidsbridal.com/privacy.cfm) for the most accurate reproduction.*
 
 # David's Bridal - Privacy Policy non-bridal dresses
 
@@ -11,7 +11,7 @@ David’s Bridal is committed to maintaining your confidence and trust, and acco
 David’s Bridal collects information online for the sole purpose of fulfilling your requests. When you join our registry, we need to know your name and shipping address. While not required, we also ask that you provide us with additional information about yourself (such as e-mail address), as well as specific bridal party and wedding information. This allows us to send you special events and offers, and other information custom-tailored to your needs. The information collected is also used to administer our “gown giveaway” contest and to notify winners each week.
 
 **Will we disclose the information collected to outside parties?**  
-The information collected is sent to the local David’s Bridal retail outlet in your area for the purpose of providing you with information regarding special events and offers specific to your area. David’s Bridal may choose to sell, trade or rent your personal information to trustworthy third parties providing offers that we feel would be attractive to our customers. If you wish to permanently opt out of these offers, please send an e-mail to [never@kingswood.com](mailto:never@kingswood.com).
+The information collected is sent to the local David’s Bridal retail outlet in your area for the purpose of providing you with information regarding special events and offers specific to your area. David’s Bridal may choose to sell, trade or rent your personal information to trustworthy third parties providing offers that we feel would be attractive to our customers. If you wish to permanently opt out of these offers, please send an e-mail to [never@davidsbridal.net](mailto:never@davidsbridal.net).
 
 Also, we may decide to use non-identifying and aggregate information to better design our Web site and to share with advertisers. For example, we may tell an advertiser that _X_ number of individuals visited a certain area on our Web site, or that _Y_ number of women who filled out our registration form are from the northeast U.S., but we would not disclose anything that could be used to identify those individuals.
 
@@ -29,7 +29,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 In short, if you provide personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is ultimately your responsibility to maintain the secrecy of your personal information to the extent you feel comfortable. We encourage you to be careful and to ask questions before you disclose your personal information to others.
 
 **Your consent**  
-By using our Web site, you consent to the collection and use of this information by David’s Bridal. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please click [here](https://web.archive.org/web/20010408232105id_/http%3A//davidsbridal.com/remove.cfm) and enter your email address.
+By using our Web site, you consent to the collection and use of this information by David’s Bridal. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please click [here](https://web.archive.org/web/20011214161948id_/http%3A//davidsbridal.com/remove.cfm) and enter your email address.
 
 **How to contact us**  
-If you have other questions or concerns about these privacy policies, please send us an e-mail at [privacy@kingswood.com](mailto:privacy@kingswood.com). 
+If you have other questions or concerns about these privacy policies, please send us an e-mail at [never@davidsbridal.net](mailto:never@davidsbridal.net). 
