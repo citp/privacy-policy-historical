@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the primus.ca privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014615id_/http%3A//primustel.ca/en/legal/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primus.ca privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604140103id_/http%3A//primustel.ca/en/legal/privacypolicy.htm) for the most accurate reproduction.*
 
-# Primus Telecommunications Canada
+# Primus Telecommunicatins Canada
 
 ### PRIVACY POLICY
 
@@ -47,8 +47,6 @@ Primus Telecommunications Canada Inc.
             5343 Dundas Street West Toronto, ON, M9B 6K5
 
 Facsimile:        (416) 207-7754
-
-Email:              [privacyofficer@primustel.ca](mailto:privacyofficer@primustel.ca)   
 
 1.3               Primus Canada is responsible for personal information in its possession or custody, including information that has been transferred to a third party for processing.  Primus Canada will use contractual or other means to provide a comparable level of protection while the information is being processed by a third party.
 
