@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookinhotels.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606003804id_/http%3A//www.bookinhotels.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookinhotels.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019113242id_/http%3A//bookinhotels.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
