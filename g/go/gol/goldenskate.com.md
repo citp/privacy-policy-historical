@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203020001id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604063417id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy
+# Golden Skate's Privacy Policy
 
-[](https://web.archive.org/web/20031203020001id_/http%3A//www.goldenskate.com/mission.shtml)   
-  |   
+|   
 
 
 > **Privacy Policy**
@@ -38,7 +37,3 @@
 > Each email sent contains an easy, automated way for you to cease receiving email from _Golden Skate_ , or to change your expressed interests. If you wish to do this, simply follow the instructions contained in any email.
 > 
 > If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to the [webmaster](mailto:skate@goldenskate.com?subject=Email%20Abuse) for review.
-
-|   
-  
-© 1996-2003 Golden Skate. All rights reserved.
