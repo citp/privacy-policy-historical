@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domainsatcost.ca privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604064955id_/http%3A//www.domainsatcost.ca/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsatcost.ca privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607115444id_/http%3A//www.domainsatcost.ca/privacy-statement.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Domainsatcost.ca
 
 (Version 1.1 - Febuary 14, 2002) 
 
