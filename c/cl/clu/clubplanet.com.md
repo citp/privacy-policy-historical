@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubplanet.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013080224id_/http%3A//www2.clubplanet.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubplanet.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621132800id_/http%3A//www2.clubplanet.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - nightlife privacy
 
@@ -32,5 +32,5 @@ This site gives users the following options for removing their information from 
   1. Visit   
 [http://www.clubplanet.com/membership/login.asp?action=modify](https://web.archive.org/membership/login.asp?action=modify)
 
-**Contacting Us** Clubplanet believes that protecting each person's right to privacy is fundamental to the quality of customer relationships. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Clubplanet.com 127 West 25th Street, 11th Floor New York, NY 10001 Voice: 212.843.2400 E-mail: [webmaster@clubplanet.com](mailto:webmaster@clubplanet.com)   
+**Contacting Us** Clubplanet believes that protecting each person's right to privacy is fundamental to the quality of customer relationships. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Clubplanet.com 485 Madison Avenue, 21st Floor/address> New York, NY 10022 Voice: 212.843.2400 E-mail: [webmaster@clubplanet.com](mailto:webmaster@clubplanet.com)   
  
