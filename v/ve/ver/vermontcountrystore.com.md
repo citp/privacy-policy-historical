@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604071903id_/http%3A//www.vermontcountrystore.com/security_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201174639id_/http%3A//www.vermontcountrystore.com/security_policy.asp) for the most accurate reproduction.*
 
 # The Vermont Country Store - Security Policy
 
@@ -109,6 +109,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 To protect your credit card numbers, we require you to enter your credit card information each time you place an order with us. All transaction information that you supply to us from your browser is exchanged with our server using a secure hypertext protocol. This protects information from compromise as it travels between your computer and our Web server. Contact information (such as your name, address and telephone) that you supply us is stored in a secured database on our server or on our order processing system.
 
+| You can verify the status of the certificate we use to encrypt your transaction and credit-card information by clicking on the logo. |   
+---|---  
+  
 Choice/Opt-Out
 
 Our site provides users the opportunity to either elect to or elect not to receive communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database or for electing not to receive future communications from us:
