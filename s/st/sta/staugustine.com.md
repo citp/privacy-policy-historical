@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019080858id_/http%3A//www.staugustine.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403225719id_/http%3A//www.staugustine.com/privacy.shtml) for the most accurate reproduction.*
 
 # staugustine.com - Privacy Policy
 
