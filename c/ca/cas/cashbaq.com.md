@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412161145id_/http%3A//cashbaq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810050047id_/http%3A//www.cashbaq.com/privacy.html) for the most accurate reproduction.*
 
 # CashBaq.com
 
