@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203005445id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604022234id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
 
 # NPR Linking and Privacy Policy
 
 Privacy Policy  
-Updated June 27, 2002
+Updated February 11, 2003
 
 At NPR Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site. 
 
@@ -26,9 +26,9 @@ NPR asks visitors to provide certain personal information when they register for
 
 **Cookies**
 
-NPR also uses cookies to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site. Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has. It cannot, for example, be used to read other information from the user's hard drive. 
+NPR also uses co-called 'cookies' to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site. Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has. It cannot, for example, be used to read other information from the user's hard drive. 
 
-NPR uses cookies to track users' activity through the site in order to improve the site's architecture and to offer the user interactive features that would not be possible without them. Local station customization, the Discussions, the NPR Online Shop, and other interactive features use cookies. If you wish to prevent cookies from being set to your hard drive you may disable them in your browser's preferences. 
+NPR uses cookies to track users' activity through the site in order to improve the site's architecture and to offer the user interactive features that would not be possible without them, and to recall specific information to save the user time during subsequent visits to the site. For example, cookies allow NPR to remember your media player preference. Local station customization, the Discussions, the NPR Online Shop, and other interactive features also use cookies. If you wish to prevent cookies from being set to your hard drive you may disable them in your browser's preferences. 
 
 **Use of Information**
 
