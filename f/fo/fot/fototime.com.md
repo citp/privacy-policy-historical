@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208164005id_/http%3A//www.fototime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603192131id_/http%3A//fototime.com/privacy) for the most accurate reproduction.*
 
-# FotoTime.com
+# FotoTime - Creating web photo albums for sharing your digital pictures
 
 ### FotoTime's Privacy Policy
 
@@ -20,7 +20,7 @@ FotoTime.com has security measures in place to protect the loss, misuse and alte
 
 #### Children's Guidelines
 
-This site allows for users to provide both online and personally identifiable offline contact information from children without prior parental consent or parental notification. This site gives children the ability to publicly post or distribute personally identifiable contact information without prior parental consent. 
+This site allows for users to provide both online and personally identifiable offline contact information from children without prior parental consent or parental notification. This site gives children the ability to publicly post or distribute personally identifiable contact information without prior parental consent.
 
 #### Correct/Update
 
@@ -35,4 +35,6 @@ FotoTime.com gives users the following option for changing and modifying informa
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Privacy Issues  FotoTime, Inc.  6711 Atlanta Drive  Colleyville, TX 76034  [privacy@FotoTime.com](mailto:privacy@fototime.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
+
+Privacy Issues  FotoTime, Inc.  6711 Atlanta Drive  Colleyville, TX 76034  [privacy@FotoTime.com](mailto:privacy@fototime.com)
