@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tmcnet.com privacy policy that was archived on 2000-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001016141814id_/http%3A//www.tmcnet.com/tmcnet/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tmcnet.com privacy policy that was archived on 2002-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601095040id_/http%3A//www.tmcnet.com/tmcnet/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>TMCnet.com Privacy Policy</title>
@@ -10,107 +10,344 @@
 
 <!-- TMC1.ZZZ BEGIN -->
 <!-- base target="_self" -->
-<link rel="stylesheet" href="/inc/tmcnet.css" type="text/css">
-</head>
+<style type="text/css">
+<!--
+A:link { color: navy; }
+A:active { color: navy; }
+A:visited { color: navy; } 
+A:hover { color: red; } 
+A#nav:link { color: navy; }
+A#nav:active { color: navy; }
+A#nav:visited { color: navy; } 
+A#nav:hover { color: red; } 
+#nav { text-decoration: none; }
+A#exponav:link { color: white; }
+A#exponav:active { color: white; }
+A#exponav:visited { color: white; } 
+A#exponav:hover { color: yellow; } 
+#exponav{ text-decoration: none; }
+.TOPMEN {
+  position: absolute;
+  top: 107px;
+  left: 0px;
+  height: 32px;
+  width: 639px;
+  visibility: hidden;
+  background-color: navy;
+  border = thin none blue;
+}
+.van A:link{ color: white; }
+.van A:active{ color: white; }
+.van A:visited{ color: white; }
+.van A:hover{ color: yellow; }
+.van { text-decoration: none; }
+.vang A:link{ color: yellow; }
+.vang A:active{ color: yellow; }
+.vang A:visited{ color: yellow; }
+.vang { text-decoration: none; }
+.vans { text-decoration: none; }
+-->
+</style><script>
+<!--
+// by robert hashemian - vanity comment
+// some browser detection stuff
+NS4 = (document.layers);
+IE4 = (document.all);
+Oth = navigator.userAgent.toLowerCase().indexOf("opera") != -1;
+IE5 = (IE4 && navigator.appVersion.indexOf("5.") != -1);
+isMac = (navigator.appVersion.indexOf("Mac") != -1);
+iemenu = ((IE4 && !isMac) || (IE5 && isMac)) && !Oth;
+nsmenu = NS4 && !Oth;
+var heightadjust = 60;
+var NavReady = false;
+var sto;
+
+// give our window a name
+window.name = "tmcnet";
+// various sub-menus (text, url)
+var menu0 = new Array(
+"About TMC","http://www.tmcnet.com/tmcnet/tmchome.htm",
+"Bookstore","http://www.tmcnet.com/store/",
+"Jobs@TMC","http://www.tmcnet.com/tmcnet/jobs.htm",
+"Media Kits","http://www.tmcnet.com/mediakit/Default.htm",
+"Contact Us","http://www.tmcnet.com/tmcnet/contacts.htm",
+"Directions","http://www.tmcnet.com/directions.htm"
+);
+
+var menu1 = new Array(
+"FREE Subscriptions","http://www.tmcnet.com/scripts/magsub/fmag.asp",
+"CUSTOMER INTER@CTION Solutions","http://www.tmcnet.com/cis/",
+"Communications SOLUTIONS","http://www.tmcnet.com/comsol/",
+"INTERNET TELEPHONY","http://www.tmcnet.com/it/",
+<!-- "Communications Outsourcing","http://www.tmcnet.com/co/", -->
+"Planet PDA","http://www.planetpdamag.com",
+"BiometriTech","http://www.biometritech.com",
+"Media Kits","http://www.tmcnet.com/mediakit/Default.htm"
+);
+
+var menu2 = new Array(
+"Communications SOLUTIONS EXPO","http://www.tmcnet.com/comsolexpo/",
+"INTERNET TELEPHONY<br>Conference & Expo","http://www.tmcnet.com/itexpo/",
+"Planet PDA:<br>The Enterprise PDA Event","http://www.tmcnet.com/planetpda/",
+"BiometriTech","http://www.tmcnet.com/biometritech/",
+"Media Kits","http://www.tmcnet.com/mediakit/Default.htm"
+);
+
+var menu3 = new Array(
+"Technology News","http://www.tmcnet.com/tmcnet/newsarch.asp",
+"Business News from BizWatch","http://www.tmcnet.com/bizwatch/newsarch.asp",
+"E-mail Newsletters","http://www.tmcnet.com/enews/subs.asp"
+);
+
+var menu4 = new Array(
+"TMC Labs Product Reviews","http://www.tmcnet.com/tmclabs/",
+"BizWatch Business Channel","http://www.tmcnet.com/bizwatch/",
+"Online Buyer's Guides","http://www.tmcnet.com/tmcnet/bg.htm",
+"Solutions Center<br>RFP Marketplace & Whitepaper Library","http://rfp.tmcnet.com");
+
+function kickin(x) {
+  if (!NavReady)
+    return;
+  clearTimeout(sto);
+  if (x >= 0)
+    sto = setTimeout("zkickin(" + x + ")", 300);
+}
+
+function zkickin(x) {
+//  if (!NavReady)
+//    return;
+// figure out where we are then display appropriate sub-menu by
+// hiding and displaying appropriate layers.
+  if (iemenu) {
+    for (y=0;y<5;y++) {
+      eval("div" + y + ".className = ''");
+      eval("cell" + y + ".style.backgroundColor = 'white'");
+      eval("men" + y + ".style.visibility = 'hidden'");
+    }
+    eval("div" + x + ".className = 'vang'");
+    eval("cell" + x + ".style.backgroundColor = 'navy'");
+    eval("men" + x + ".style.visibility ='visible'");
+    //tid = setTimeout("kickout()", 3000);
+  }
+  else if (nsmenu) {
+    for (y=0;y<5;y++) {
+      eval("document.div" + y + "on.visibility = 'hide'");
+      eval("document.div" + y + ".visibility = 'show'");
+      eval("document.ly" + y + ".visibility = 'hide'");
+    }
+    eval("document.div" + x + ".visibility = 'hide'");
+    eval("document.div" + x + "on.visibility = 'show'");
+    eval("document.ly" + x + ".visibility = 'show'");
+  }
+}
+
+// using this function we make the entire cell into a hyperlink
+// rather than just the text in there. works only in ie.
+// it handles rollover stuff as well as click-thru.
+function AllBox(box, ix, iy, opt) {
+  if (opt ==0) {
+    box.style.cursor = "hand";
+    window.status = eval("menu" + ix + "[" + (iy+1) + "]");
+    eval("x" + ix + "y" + iy + ".style.color = \"yellow\"");
+  }
+  else if (opt == 1) {
+    window.status = "";
+    eval("x" + ix + "y" + iy + ".style.color = \"white\"");
+  }
+  else if (opt ==2) {
+    window.status = "";
+    eval("x" + ix + "y" + iy + ".style.color = \"white\"");
+    window.location.href = eval("menu" + ix + "[" + (iy+1) + "]");
+  }
+}
+
+// i know it's misspelled. hey english ain't my native tongue.
+function leyer() {
+if (iemenu) {
+  // for ie, let's generate the sub-menus. the main menu is already a plain old table in html.
+  // they all start out as hidden per TOPMENU class style.
+  for (x=0; x<5 ;x++) {
+    document.write("<table id=\"men" + x +"\" class=\"TOPMEN\" border cellspacing=\"0\" bordercolor=\"white\"><tr>");
+    z = eval("menu" + x + ".length");
+    for (y=0; y<z; y+=2)
+      document.write("<td align=\"center\" valign=\"middle\" onmouseover=\"AllBox(this, " + x + "," + y + 
+      ", 0);\" onmouseout=\"AllBox(this, " + x + "," + y +", 1);\" onClick=\"AllBox(this, " + x + "," + y +
+      ", 2);\"><div class=\"van\"><a href=\"" + eval("menu" + x + 
+      "[" + (y+1) + "]") + "\" style=\"text-decoration: none;\"><font face=\"arial\" size=\"1\"><strong>" + 
+      "<span  id=\"x" + x + "y" + y + "\">" + eval("menu" + x + "[" + y + "]") + "</span></strong></font></a></div></td>");
+    document.write("</tr></table>");
+  }
+}
+else if (nsmenu) {
+  // for ns4 each cell consists of an on and off layer.
+  // each layer is a table with one cell. hence 10 layers.
+  // these layers actually cover the actual menu which is ie friendly.
+  // but you'd never know it unless you're reading this.
+  var cellrefs = new Array("TMCnet.com", "http://www.tmcnet.com/", "0", "130",
+                           "MAGAZINES", "http://www.tmcnet.com/sitemap.htm#mags", "129", "120",
+                           "EVENTS", "http://www.tmcnet.com/sitemap.htm#events", "248", "90",
+                           "eNEWS", "http://www.tmcnet.com/sitemap.htm#enews", "337", "80",
+                           "REVIEWS/RESOURCES", "http://www.tmcnet.com/sitemap.htm#reviews", "416", "222");
+
+  // we have to do 2 cells for each location, representing on and off. walk the cellrefs array.
+  for (x=0; x<5 ;x++)
+    document.write("<layer name=\"div" + x + "\" visibility=\"show\" bgcolor=\"#FFFFFF\" TOP=\"" + (heightadjust + 23) + "\" LEFT=\"" + cellrefs[x*4+2] + "\" onmouseover=\"kickin(" + x + ");\">" +
+                   "<table border cellspacing=\"0\" height=\"25\" width=\"" + cellrefs[x*4+3] + "\" bordercolor=\"navy\"><tr><td align=\"center\" valign=\"middle\">" +
+                   "<a href=\"" + cellrefs[x*4+1] + "\" class=\"vans\">" +
+                   "<font face=\"Arial\" color=\"navy\" size=\"2\">" + 
+                   "<strong>" + cellrefs[x*4] + "</strong></font></a></td></tr></table></layer>" +
+                   "<layer name=\"div" + x + "on\" visibility=\"hide\" bgcolor=\"navy\" TOP=\"" + (heightadjust + 23) + "\" LEFT=\"" + cellrefs[x*4+2] +
+                   "\"><table border cellspacing=\"0\" height=\"25\" width=\"" + cellrefs[x*4+3] + "\" bordercolor=\"navy\"><tr><td align=\"center\" valign=\"middle\">" +
+                   "<a href=\"" + cellrefs[x*4+1] + "\" class=\"vans\">" +
+                   "<font face=\"Arial\" color=\"yellow\" size=\"2\">" + 
+                   "<strong>" + cellrefs[x*4] + "</strong></font></a></td></tr></table></layer>");
+
+  // now that we got the main cells, let's do the sub-menu layers. start with hidden visibility.
+  for (x=0; x<5 ;x++) {
+    document.write("<layer name=\"ly" + x + "\" visibility=\"hide\" bgcolor=\"navy\" TOP=\"" + (heightadjust + 50) + "\" LEFT=\"0\">" +
+                   "<table border cellspacing=\"0\" bordercolor=\"white\" height=\"32\" width=\"639\"><tr>");
+    z = eval("menu" + x + ".length");
+    for (y=0; y<z; y+=2)
+      document.write("<td align=\"center\" valign=\"middle\">" + 
+                     "<a href=\"" + eval("menu" + x + "[" + (y+1) + "]") + 
+                     "\" class=\"vans\">" +
+                     "<font face=\"arial\" size=\"1\" color=\"yellow\"><strong>" + 
+                     eval("menu" + x + "[" + y + "]") + 
+                     "</strong></font></a></td>");
+    document.write("</tr></table></layer>");
+  }
+}
+NavReady = true;
+
+//  window.open("/pop.htm", "_blank", "titlebar=no,location=no,status=no,resizable=no,scrollbars=no,menubar=no,toolbar=no,height=270,width=270"); 
+
+}
+//-->
+</script></head>
+
+
 
 <body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" text="#000000" alink="#000080" link="#000080" vlink="#000080">
-<map name="header">
-  <area shape="rect" coords="6,4,86,32" alt="TMCnet.com" href="/">
-  <area shape="rect" coords="87,4,187,32" alt="Communications Solutions Magazine" href="/comsol/">
-  <area shape="rect" coords="188,4,265,32" alt="Internet Telephony Magazine" href="/it/">
-  <area shape="rect" coords="266,4,362,32" alt="Call Center CRM Solutions Magazine" href="/ccs/">
-  <area shape="rect" coords="363,4,475,32" alt="Communications Solutions EXPO" href="/comsolexpo/">
-  <area shape="rect" coords="476,4,579,32" alt="Internet Telephony EXPO" href="/itexpo/">
-  <area shape="rect" coords="580,4,633,32" alt="TMC Labs" href="/tmclabs/">
-</map>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
-<img src="/tmcnet/tmcimg/tmcnet.gif" width="640" height="40" usemap="#header" ismap="" border="0">
+
+<table border="0" cellpadding="0" cellspacing="0" height="105">
+<tbody><tr>
+<td align="center" valign="bottom" width="166"><a href="http://www.tmcnet.com/"><img border="0" src="/tmcnet/tmcimg/tmcnet145x60.gif" width="145" height="60" alt="You're on TMCnet.com"></a></td>
+<td valign="bottom" align="left">
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="468"><a href="/tmcnet/jump.asp?adnum=1000101&amp;random=1022925233074"><img border="1" src="http://www.tmcnet.com/ads/nf.gif?random=1022925233074" alt="TMC" height="60" width="468"></a></td>
+<td width="132" align="right">
+<a href="/tmcnet/jump.asp?adnum=1000916&amp;random=1022925233074"><img border="1" src="http://www.tmcnet.com/ads/enews125x60.gif?random=1022925233074" alt="eNews In Your Inbox"></a></td></tr></tbody></table></td></tr>
+<tr><td colspan="2" height="30" valign="bottom">
+<table width="638" border="" cellspacing="0" bordercolor="navy"><tbody><tr>
+<td align="center" valign="middle" onmouseover="kickin(0);" onmouseout="kickin(-1);" id="cell0" width="130"><div id="div0">
+<a href="http://www.tmcnet.com/" style="text-decoration: none;">
+<font face="arial" size="2"><strong><center>TMCnet.com</center></strong></font></a></div></td>
+<td align="center" valign="middle" onmouseover="kickin(1);" onmouseout="kickin(-1);" id="cell1" width="120"><div id="div1">
+<a href="http://www.tmcnet.com/sitemap.htm#mags" style="text-decoration: none;">
+<font face="arial" size="2"><strong><center>MAGAZINES</center></strong></font></a></div></td>
+<td align="center" valign="middle" onmouseover="kickin(2);" onmouseout="kickin(-1);" id="cell2" width="90"><div id="div2">
+<a href="http://www.tmcnet.com/sitemap.htm#events" style="text-decoration: none;">
+<font face="arial" size="2"><strong><center>EVENTS</center></strong></font></a></div></td>
+<td align="center" valign="middle" onmouseover="kickin(3);" onmouseout="kickin(-1);" id="cell3" width="80"><div id="div3">
+<a href="http://www.tmcnet.com/sitemap.htm#enews" style="text-decoration: none;">
+<font face="arial" size="2"><strong><center>eNEWS</center></strong></font></a></div></td>
+<td align="center" valign="middle" onmouseover="kickin(4);" onmouseout="kickin(-1);" id="cell4" width="218"><div id="div4">
+<a href="http://www.tmcnet.com/sitemap.htm#reviews" style="text-decoration: none;">
+<font face="arial" size="2"><strong><center>REVIEWS/RESOURCES</center></strong></font></a></div></td>
+</tr></tbody></table>
+
 </td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">
 <table border="0" cellpadding="5" cellspacing="0" width="640">
   <tbody><tr>
-    <td bgcolor="#FAEE05" colspan="2" height="3"><img src="/tmcnet/tmcimg/pix.gif" border="0"></td>
+    <td bgcolor="#FFFFFF" colspan="3" height="35" align="center" valign="middle"></td>
   </tr>
  <tr>
-<td width="130" bgcolor="#FAEE05" align="left" valign="top">
+<td width="130" bgcolor="#FFFFFF" background="/tmcnet/tmcimg/navback.gif" align="left" valign="top">
 <p>
 <font face="Arial" color="#000080">
-    <strong><font size="2">FREE!</font></strong><font size="1"><br>
-    <a href="http://www.tmcnet.com/emailsubs/emailsubsmain.asp" id="nav">eNews In Your Inbox</a><br>
-    <a href="http://www.tmcnet.com/scripts/magsub/fmag.asp" id="nav">Magazines</a>
-    
-    </font></font></p><p><font face="Arial" color="#000080"><font size="1">
-    
-    <strong><font size="2">Channels</font></strong><font size="1"><br>
-    <a href="http://www.tmcnet.com/ipc/" id="nav">Internet Phone Center</a><br>
-    <a href="http://www.tmcnet.com/bizwatch/" id="nav">BizWatch</a></font></font></font></p><p><font face="Arial" color="#000080"><font size="1">
+    <strong><font size="2"><a href="http://www.tmcnet.com" id="nav">HOME</a><font></font></font></strong><font size="2"><font><font size="2">
+    </font></font></font></font></p><p><font face="Arial" color="#000080"><font size="2"><font><font size="2">
 
-    </font></font></p><form method="POST" action="/query/tmcnetq.asp"><font face="Arial" color="#000080"><font size="1"><font size="2">
-    <strong><font size="2"><a href="http://www.tmcnet.com/query/tmcnetq.asp" id="nav">Search</a></font></strong><font size="2"><br>
-    <input name="SearchString" size="8" maxlength="36"> <input type="SUBMIT" name="Action" value="Go!"><br>
-    <small><a href="http://www.tmcnet.com/query/tmcnetq.asp" id="nav">Advanced Search</a></small></font><p>
+    <strong><font size="2">FREE Subscriptions!</font></strong><font size="1"><br>
+    <a href="http://www.tmcnet.com/enews/subs.asp" id="nav">eNews In Your Inbox</a><br>
+    <a href="http://www.tmcnet.com/scripts/magsub/fmag.asp" id="nav">Magazines</a></font></font></font></font></font></p><p><font face="Arial" color="#000080"><font size="2"><font><font size="2">
+    <strong><a href="http://rfp.tmcnet.com" id="nav"><font size="2">Solutions Center</font></a></strong><br><font size="1"><a href="http://rfp.tmcnet.com" id="nav">RFP Marketplace &amp; Whitepaper Library</a></font>
+    
+    </font></font></font></font></p><form method="POST" action="http://www.tmcnet.com/bizwatch/interactivechart.asp"><font face="Arial" color="#000080"><font size="2"><font><font size="2">
+    <strong><font size="2"><a href="http://www.tmcnet.com/bizwatch/" id="nav">BizWatch</a></font></strong><br>
+    <font size="1"><a href="http://www.tmcnet.com/fc/" id="nav">VC Directory</a></font><br>     
+   
+    <br>
+   
+    
+    <p>
+    </p><form method="GET" action="/query/tmcnetq.asp"><font size="2">
+    <strong><font size="2"><a href="http://www.tmcnet.com/query/tmcnetq.asp" id="nav">Site Search</a></font></strong><font size="2"><br>
+    <input name="SearchString" size="6" maxlength="50"> <input type="SUBMIT" name="Action" value="Go!"><br>
+    <small><a href="http://www.tmcnet.com/query/tmcnetq.asp" id="nav">Advanced Search</a></small></font>
+    
+    <p>
     <strong><font size="2"><a href="http://www.tmcnet.com/" id="nav">TMCnet.com</a></font></strong><font size="1">™<br>
     <a href="http://www.tmcnet.com/tmcnet/newsarch.asp" id="nav">Technology News</a><br>
     <a href="http://www.tmcnet.com/bizwatch/newsarch.asp" id="nav">Business News</a><br>
-    <a href="http://www.tmcnet.com/tmcnet/articles.htm" id="nav">Articles</a><br>
-    <a href="http://www.tmcnet.com/tmcnet/columns.htm" id="nav">Columns</a><br>
+    <a href="http://www.tmcnet.com/tmcnet/articles.asp" id="nav">Features Archive</a><br>
+    <a href="http://www.tmcnet.com/tmcnet/columns.htm" id="nav">Columnist Index</a><br>
     <a href="http://www.tmcnet.com/tmcnet/people.htm" id="nav">People&amp;Places</a><br>
-    <a href="http://www.tmcnet.com/tmcnet/calendar.htm" id="nav">Events Calendar</a><br>
-    <a href="http://www.tmcnet.com/tmcnet/linlibe.htm" id="nav">Link Library</a></font></p>
+    <!-- <a href="http://www.tmcnet.com/tmcnet/calendar.htm" id="nav">Events Calendar</a><br> -->
+    <a href="http://www.tmcnet.com/tmcnet/linlibe.htm" id="nav">Link Library</a><br>
+    <a href="http://www.tmcnet.com/scripts/forum/forumindex.asp" id="nav">Forums Index</a></font></p>
     <p><font size="2"><strong><a href="http://www.tmcnet.com/store/" id="nav">TMC
     Bookstore</a><br>
     <a href="http://www.tmcnet.com/tmclabs" id="nav">TMC Labs</a><br>
     <a href="http://www.tmcnet.com/tmcnet/bg.htm" id="nav">Buyer's Guides</a></strong></font></p>
     <p><strong><font size="2">Magazines</font></strong>
     <font size="1"><br>
-    <a href="http://www.tmcnet.com/scripts/magsub/fmag.asp" id="nav">Subscribe Online</a><br>
-    <a href="http://www.tmcnet.com/comsol/" id="nav">Communications Solutions™</a><br>
-    <a href="http://www.tmcnet.com/ccs/" id="nav">Call Center CRM Solutions™</a><br>
-    <a href="http://www.tmcnet.com/it/" id="nav">Internet TelephonyŽ</a></font></p>
+    <a href="http://www.tmcnet.com/scripts/magsub/fmag.asp" id="nav">Subscribe Online</a><br><br>
+    <a href="http://www.tmcnet.com/cis/" id="nav">CUSTOMER INTER@CTION Solutions®</a><br><br>
+    <a href="http://www.tmcnet.com/comsol/" id="nav">Communications Solutions®</a><br><br>
+    <a href="http://www.tmcnet.com/it/" id="nav">Internet Telephony®</a><br><br>
+    <!-- <a href="http://www.tmcnet.com/co/" id="nav">Communications Outsourcing&#153;</a><br><br> -->
+    <a href="http://www.planetpdamag.com" id="nav">Planet PDA</a>™<br><br>
+    <font color="Red">NEW!</font> <a href="http://www.biometritech.com" id="nav">BiometriTech™</a></font></p>
     <p><strong><font size="2">Events</font></strong><font size="1"><br>
-    <a href="http://www.tmcnet.com/comsolexpo/" id="nav">Communications Solutions EXPO™</a><br>
-    <a href="http://www.tmcnet.com/comsolexpo/f00/register.htm" id="nav">–Register</a><br>
-    <a href="http://www.tmcnet.com/itexpo" id="nav">Internet Telephony Conference &amp; EXPO</a>™<br>
-    <a href="http://www.tmcnet.com/itexpo/00/reg.htm" id="nav">–Register</a><br></font></p>
-    <p><strong><font size="2"><a href="http://www.tmcnet.com/tmcnet/emarket/emarkwelcome.htm" id="nav">eMarketPlace</a><br>
-    <a href="http://www.tmcnet.com/freeinfo/" id="nav">FreeInfo</a><br>
-    <a href="http://www.tmcnet.com/tmcnet/jobs.htm" id="nav">Jobs@TMC</a></font></strong></p>
-    <p><strong><font size="2"><a href="http://www.tmcnet.com/mediakit/Default.htm" id="nav">Media Kits</a><br>
+    <a href="http://www.tmcnet.com/comsolexpo/" id="nav">Communications Solutions EXPO™</a><br><br>
+    <a href="http://www.tmcnet.com/itexpo/" id="nav">Internet Telephony Conference &amp; EXPO</a>™<br><br>
+    <a href="http://www.tmcnet.com/planetpda/" id="nav">Planet PDA: The Enterprise PDA Event</a>™<br><br>
+    <a href="http://www.tmcnet.com/biometritech/" id="nav">BiometriTech</a>™</font></p>
+    </font></form><p><font size="2"><strong><font size="2">
+    <a href="http://www.tmcnet.com/tmcnet/jobs.htm" id="nav">Jobs@TMC</a></font><br>
+    <a href="http://www.tmcnet.com/mediakit/Default.htm" id="nav">Media Kits</a><br>
+    <a href="http://www.tmcnet.com/is/" id="nav">Industry Showcase</a><br>
     <a href="http://www.tmcnet.com/tmcnet/tmchome.htm" id="nav">About TMC</a><br>
     <a href="http://www.tmcnet.com/directions.htm" id="nav">Directions</a><br>
     <a href="http://www.tmcnet.com/tmcnet/linking.htm" id="nav">Linking Policy</a><br>
-    <a href="http://www.tmcnet.com/tmcnet/contacts.htm" id="nav">Contact Us</a></font></strong><br></p></font><p><font size="2">
+    <a href="http://www.tmcnet.com/tmcnet/contacts.htm" id="nav">Contact Us</a><br>
+    <a href="http://www.tmcnet.com/sitemap.htm" id="nav">Site Map</a></strong></font><br></p></font><p><font size="2">
 </font>
 
 </p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;
-    </p></font></font></form></td>
+    </p></font></font></font></form></td>
     <td width="510" valign="top">
     <table border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr><td valign="middle" align="center">
 
-<a href="/tmcnet/jump.asp?adnum=1000296&amp;random=971706261812">
-<img border="1" src="/tmcnet/tban.asp?pic=http://www.tmcnet.com/ads/sandi.gif&amp;random=971706261812" alt="Sound Advantage"></a>
-
-</td></tr>
-
-<tr><td valign="middle" align="center"><a href="http://www.tmcnet.com/">
-<img border="0" src="/tmcnet/tmcimg/tmcnet.jpg" alt="TMCnet.com"></a></td>
+<tbody><tr><td valign="middle" align="center"></td>
 </tr><tr><td>
 <!-- TMC1.ZZZ END -->
 <table border="0" cellpadding="0" cellspacing="0" width="500">
   <tbody><tr>
     <td>
-      <hr>
-      <p align="center"><font face="Arial" color="#000000"><big><strong>TMCnet.com Privacy Policy<br>
-      </strong></big><font size="1">Updated 05/23/00</font></font></p><p>TMCnet.com
+      <p align="center"><img src="http://www.tmcnet.com/tmcnet/tmcimg/privacy.gif"><br><font face="Arial" size="1">Updated 04/23/02</font></p>
+    <p>TMCnet.com
     is concerned about the privacy of its users and is committed to providing a secure
     environment for the free flow of ideas.</p>
     <p>The areas of this site are open to all visitors to read, search, browse, and download,
     at no cost. </p>
-    <p>Visitors need not register or give any personal identification to use this site. No
-    software or hardware techniques are employed to capture a visitor's e-mail address.
-    We do not collect or in any way use the e-mail addresses involved in our
-    "E-mail this article to a friend" feature. </p>
+    <p>No
+    software or hardware techniques are employed to capture a visitor's e-mail address. Visitors need not register or give any personal identification to use this site, with the exception of our "Forums" 
+section (users must give a valid e-mail address to post comments in the Forum). 
+    We do collect e-mail addresses submitted in our
+Forums, but we will not publish your e-mail if you elect to keep it hidden from other users. We do not currently use e-mail addresses collected in the Forums for any type of corporate mailings. We do not collect or in any way use the e-mail addresses involved in our
+    "E-mail this article to a friend" feature.</p>
     <p>
     "Cookies" are pieces of information that a Web site transfers to an individual's
     hard drive for record-keeping purposes. We <b> do not</b> use cookies to track how you use our
@@ -120,12 +357,11 @@
     <p>The exception to this policy is that cookies are used in our online TMC Bookstore in
     order to store your TMC Bookstore account number and to enhance your overall shopping
     experience. </p>
-      <p>Where visitors choose to provide the site with an e-mail address in order to receive
-    e-mail newsletters, TMCnet.com may use the information for marketing and promotional
-    purposes by TMC only, unless you opt-in to receive information or offers
-      from companies we believe may be of interest to you. You may manage your
-      e-mail subscriptions at any time, including removing yourself from all our
-      e-mail lists, by going to <a href="http://www.tmcnet.com/emailsubs/emailsubsmain.asp">www.tmcnet.com/emailsubs/emailsubsmain.asp</a>. </p>
+      <p>Where visitors <b> choose</b> to provide the site with their contact information in order to receive
+    e-mail newsletters or other content, TMCnet.com may use the information for marketing and promotional
+    purposes by TMC and companies we believe may be of interest to you, unless you
+      opt-out from receiving this information. You may manage your subscriptions at any time, including removing yourself from all our
+      e-mail lists, by going to <a href="http://www.tmcnet.com/enews/subs.asp">www.tmcnet.com/enews/</a>. </p>
     <p>When visitors give their names and addresses to subscribe to our
     print magazines, they may receive periodic mailings from us with information on new
     products and services or upcoming events. </p>
@@ -157,7 +393,7 @@
     <small><small><small>Ph: 800-243-6002, 203-852-6800; Fx: 203-853-2845</small></small></small><br>
     <small><small><small>General comments: <a href="mailto:tmc@tmcnet.com">tmc@tmcnet.com</a>.
     Comments about this site: <a href="mailto:webmaster@tmcnet.com">webmaster@tmcnet.com</a>.</small></small></small><br>
-    <small><small>Š<small> Technology Marketing Corp. 1997-2000</small></small></small></font></p></td>
+    <small><small>©<small> Technology Marketing Corp. 1997-2002</small></small></small></font></p></td>
   </tr>
 </tbody></table>
 </td>
@@ -167,27 +403,33 @@
 </tbody></table>
 </td>
     <td valign="top" align="right" width="130">
-
-    <a href="/tmcnet/jump.asp?adnum=1000417">
-    <img border="1" src="/tmcnet/tban.asp?pic=http://www.tmcnet.com/ads/125dbsys.gif&amp;random=971706261812" alt="Database Systems"></a><br><br><br>
-
-    <a href="/tmcnet/jump.asp?adnum=1000478">
-    <img border="1" src="/tmcnet/tban.asp?pic=http://www.tmcnet.com/ads/ccsbg2001.gif&amp;random=971706261812" alt="Add your listing now!"></a><br><br><br>
-
-    <a href="/tmcnet/jump.asp?adnum=1000447">
-    <img border="1" src="/tmcnet/tban.asp?pic=http://www.tmcnet.com/ads/bizpromo.gif&amp;random=971706261812" alt="BizWatch"></a><br><br><br>
-
-    <a href="/tmcnet/jump.asp?adnum=1000449">
-    <img border="1" src="/tmcnet/tban.asp?pic=http://www.tmcnet.com/ads/csexpo.gif&amp;random=971706261812" alt="CSExpo"></a><br><br><br>
-
-    <a href="/tmcnet/jump.asp?adnum=1000196">
-    <img border="1" src="/tmcnet/tban.asp?pic=http://www.tmcnet.com/ads/125jobs.gif&amp;random=971706261812" alt="Jobs@TMC"></a><br><br><br></td>
+<a href="/tmcnet/jump.asp?adnum=1000936&amp;random=1022925233074"><img border="1" src="http://www.tmcnet.com/ads/125x12530years.gif?random=1022925233074" alt="30 Years of Excellence!"></a><br><br><br>
+<a href="/tmcnet/jump.asp?adnum=1000664&amp;random=1022925233074"><img border="1" src="http://www.tmcnet.com/ads/bizfund.gif?random=1022925233074" alt="Funding News on BizWatch"></a><br><br><br>
+<a href="/tmcnet/jump.asp?adnum=1000869&amp;random=1022925233074"><img border="1" src="http://www.tmcnet.com/ads/recessionbuster.gif?random=1022925233074" alt="Recession Buster Rates!"></a><br><br><br></td>
   </tr>
 </tbody></table>
 
+<script>
+<!--
+// no real secrets here as the user can read this. here we are cloning
+// heightadjust from server-side to client-side. we could have done
+// all the work on server-side but what the heck, let the browser pull its
+// weight and do some of the work based on heightadjust.
+heightadjust = 60;
+// initialize the submenus. in case of ns, the main menu layer too. i know it's misspelled.
+leyer();
+// adjust ycoord for submenus if we have ie browser, overriding the css value.
+if (iemenu)
+men0.style.top = 
+men1.style.top = 
+men2.style.top = 
+men3.style.top = 
+men4.style.top = (47 + heightadjust) + "px";
+// pick a cell
+kickin(0);
+//-->
+</script>
 
 
 <!-- TMC2.ZZZ END -->
-<!--webbot bot="HTMLMarkup" endspan -->
-
 </body></html>
