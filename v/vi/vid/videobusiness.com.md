@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videobusiness.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605155215id_/http%3A//www.videobusiness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videobusiness.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021003id_/http%3A//www.videobusiness.com/privacy.asp) for the most accurate reproduction.*
 
 # Video Business Online
 
@@ -105,7 +105,7 @@ New York, NY 10010
 
 Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)
 
-| 
+|  [](https://web.archive.org/web/20041204021003id_/http%3A//www.videobusiness.com/midyearend_reports.asp)
 
 * * *
 
@@ -115,14 +115,5 @@ Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)
 
 * * *
 
-[](https://web.archive.org/web/20040605155215id_/http%3A//www.videobusiness.com/yer2003.asp)
+  
 
-[](https://web.archive.org/web/20040605155215id_/http%3A//www.videobusiness.com/myr2003.asp)
-
-[](https://web.archive.org/web/20040605155215id_/http%3A//www.videobusiness.com/yer2002.asp)
-
-[](https://web.archive.org/web/20040605155215id_/http%3A//www.videobusiness.com/myr2002.asp)
-
-[](https://web.archive.org/web/20040605155215id_/http%3A//www.videobusiness.com/yer2001.asp)
-
-[](https://web.archive.org/web/20040605155215id_/http%3A//www.videobusiness.com/yer2000.asp)
