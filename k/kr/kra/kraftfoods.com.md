@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806210557id_/http%3A//web.kraftfoods.com/knet_fridge.aspx%3Fs%3Dabout%26m%3Dabout/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602160440id_/http%3A//www.kraftfoods.com/main.aspx%3Fs%3Dabout%26m%3Dabout/legal_privacy) for the most accurate reproduction.*
 
-# Kraft Interactive Kitchen
+# 
 
 This website is owned and operated by Kraft Foods North America. Here at Kraft, we recognize that many visitors to our site are concerned about the information they provide to us, and how we treat that information. So we've developed this Privacy Policy to address those concerns. This Policy relates only to our _online_ information collection and use practices. We may update this Policy from time to time, so please check in occasionally. 
 
@@ -116,7 +116,7 @@ Attention: Legal Department
 
 1-800-543-5335  
 (9 a.m. - 5 p.m. Eastern Time, Monday through Friday.)   
-or [E-Mail us](https://web.archive.org/html/email/email.html)
+or [E-Mail us](https://web.archive.org/main.aspx?s=contact&m=contact_us/contact_us&referrer=kraftfoods)
 
 We'll be happy to answer your questions or hear your concerns.  
 
