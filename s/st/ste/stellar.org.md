@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellar.org privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602025345id_/http%3A//www.stellar.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellar.org privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201181231id_/http%3A//www.stellar.org/privacy.html) for the most accurate reproduction.*
 
 # Internet Insider with David Radin -- Radio with Byte, an entertaining call-in talk radio show on WABC, KVI, WBAP, KDKA, WCKG and other stations near you
 
