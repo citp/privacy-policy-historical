@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813030049id_/http%3A//www.drivers.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605041759id_/http%3A//www.drivers.com/privacy.shtml) for the most accurate reproduction.*
 
 # Drivers.com - Privacy Policy
 
@@ -38,13 +38,11 @@ We will share aggregated demographic information with our partners and advertise
 
 This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this web site. 
 
-### Advertisements
+### Third Party Advertising
 
-Drivers.com works with third parties that serves ads to this site. To find out more about how these firms manage the privacy of information in conjunction with serving ads on this site, please go to their sites:  
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our web site. These companies may use information ( **not** including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
-* [Engage Media](http://www.engage.com/privacy)  
-
-* [FocusIn](http://www.focusin.com/privacy.htm)
+**Third Party Cookies—** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. (See the section on cookies, above.) 
 
 ### Newsletters
 
