@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205000315id_/http%3A//www.lowes.com/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607052224id_/http%3A//www.lowes.com/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy%26rn%3DRightNavFiles/rightNavGoShopping) for the most accurate reproduction.*
 
-# Lowe's Home
+# Privacy Policy Statement
 
 **Privacy and Security Statement**
 
