@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2004-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041218004540id_/http%3A//www.nestle.com/Footer/Privacy_Policy/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212107id_/http%3A//www.nestle.com/Footer/Privacy_Policy/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Nestlé - Privacy Policy
 
