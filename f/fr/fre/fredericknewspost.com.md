@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fredericknewspost.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401215005id_/http%3A//www.fredericknewspost.com/sections/privacy_policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericknewspost.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001171049id_/http%3A//www.fredericknewspost.com/sections/privacy_policy/index.htm) for the most accurate reproduction.*
 
-# Frederick News-Post Online - Frederick County Maryland Daily Newspaper
+# The Frederick News-Post Online - Frederick County Maryland Daily Newspaper
 
 **The Frederick News-Post respects your privacy and will safeguard your personal information. We will not share Personal Information with third parties outside of our organization. Fredericknewspostonline.com automatically collects website activity data that is used by us for internal review in aggregate form.**
 
