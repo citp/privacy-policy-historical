@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsonjapan.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002033055id_/http%3A//www.newsonjapan.com/html/company/privacy_security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsonjapan.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604161751id_/http%3A//newsonjapan.com/html/company/privacy_security.shtml) for the most accurate reproduction.*
 
 # News On Japan - Privacy and Security Statement
 
@@ -8,7 +8,7 @@ At **_NewsOnJapan.com_** , we are committed to protecting your privacy. All of t
 
 **Monthly News Report:**
 
-Only your e-mail address is required to subscribe to our Monthly News Report which is stored on our secure e-mail server and used for the sole purpose of sending you the e-mail report once a month. From time to time we may send you a supplementary report.
+Only your e-mail address is required to subscribe to our Monthly News Report which is stored on our secure e-mail server and used to send you the e-mail report once a month. From time to time we may send you a supplementary message from our sponsors.
 
 If you have any further questions regarding privacy and security you may contact us one of the following ways:
 
