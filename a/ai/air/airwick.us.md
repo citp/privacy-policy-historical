@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airwick.us privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811113126id_/http%3A//www.airwick.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airwick.us privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305033351id_/http%3A//www.airwick.us/privacy.html) for the most accurate reproduction.*
 
 # AIR WICK®
 
@@ -31,4 +31,4 @@ Who to Contact
 If you have submitted personally identifiable information through a Reckitt Benckiser site or interactive advertisement, and would like that information deleted from our records, please click here to provide us with the email address. 
 
 This Privacy Statement is effective as of 9.10.2003.  
-©2004 Reckitt Benckiser Inc. All rights reserved. 
+©2005 Reckitt Benckiser Inc. All rights reserved. 
