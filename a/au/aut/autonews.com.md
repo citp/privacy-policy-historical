@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101045513id_/http%3A//63.236.108.16/page.cms%3FpageId%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604053001id_/http%3A//www.autonews.com/page.cms%3FpageId%3D145) for the most accurate reproduction.*
 
 # Automotive News
 
