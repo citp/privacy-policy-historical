@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the ri.gov privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015409id_/http%3A//www.ri.gov/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ri.gov privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083853id_/http%3A//www.ri.gov/privacy.php) for the most accurate reproduction.*
 
-# RI.gov: Privacy
+# RI.gov: Privacy Policy
 
-[Home](https://web.archive.org/index.html)
+|   
+  
+## Disclaimer, Copyright, Privacy, and Security Notice
 
 State of Rhode Island and Providence Plantations Disclaimer, Copyright, Privacy, and Security Notice
-
-· Disclaimer  
-· Links  
-· Copyright  
-· Privacy  
-· Cookies  
-· Security
 
 **Disclaimer**
 
@@ -26,6 +21,8 @@ The State of Rhode Island's computer resources and materials may contain hyperte
   * Links to other computer systems are not supervised nor regularly reviewed by the State of Rhode Island.
   * Any information, endorsements of products or services, materials or personal opinions appearing on such external sites are not controlled, sponsored nor approved by the State of Rhode Island.
   * Links may be provided to external servers that are managed in a professional manner, that are fully operational, available most of the time and do not serve inaccurate information or obscene information, including graphics.  The State of Rhode Island will not link to external servers if such link would appear to provide an official endorsement of fundraising efforts or lobbying for a political agenda.
+
+
 
 **Copyright**
 
@@ -53,6 +50,8 @@ Protocol Version | Version of HTTP used by the visitor's web browser software
   
 The information we collect is used to improve the content of our Web services and help us understand how people are using our services. We analyze our web site logs to continually improve the value of the materials available on our site. The information in our web site logs is not personally identifiable, and we make no attempt to link it with the individuals that browse our web site. Some of this statistical information, such as a running count of the number of visitors, may be displayed on the website or shared with other state governments to aid in the provision of better service to the public.
 
+The Instant Answers service is RI.gov's live customer service application that allows visitors to "chat" in real-time with the Providence Public Library Reference Department in its role as the Statewide Reference Resource Center, which is funded through the Rhode Island Office of Library and Information Services. The Instant Answers service requires that certain information be collected and maintained. In addition to IP address, browser type, date and time of the visit, and the referring webpage, transcripts of the chats are saved for statistical, demographic, and/or customer service purposes. Some information is also collected through chat surveys on a volunteer basis.
+
 **Cookies**
 
 Cookies are small text files which a web server may ask your web browser to store, and to send back to the web server when needed. Cookies may be used to store a transaction identifier or other information a user may provide. We use cookies in the following ways:
@@ -72,7 +71,4 @@ No other attempts are made to identify individual users or their usage habits. R
 
 For site security purposes and to ensure that WWW service remains available to all users, the State of Rhode Island computer system employs software programs which can monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. The State of Rhode Island website content materials are provided for public use on computer systems located within the State of Rhode Island and for the use and benefit of citizens of Rhode Island and others. Any person choosing to use this system or seeking access to information or materials on this system is subject to Rhode Island jurisdiction. Any dispute arising therefrom shall be decided under the laws and in the courts of Rhode Island.
 
-**8/01/2001**
-
-  
-
+Revised 03/08/2004
