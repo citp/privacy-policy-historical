@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2003-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030809235135id_/http%3A//experience.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2004-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040207185354id_/http%3A//www.experience.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
