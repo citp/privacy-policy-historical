@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoho.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203025900id_/http%3A//www.zoho.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoho.com privacy policy that was archived on 2001-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010625151809id_/http%3A//www.zoho.com/privacy.htm) for the most accurate reproduction.*
 
 # ZOHO - The Premier Online Hospitality Marketplace
 
