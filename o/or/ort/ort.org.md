@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the ort.org privacy policy that was archived on 2001-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011225083108id_/http%3A//www.ort.org/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ort.org privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802143029id_/http%3A//www.ort.org/asp/privacy.asp) for the most accurate reproduction.*
 
 # World ORT - Privacy Policy
+
+  
+| 
 
 Privacy Policy
 
