@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202152311id_/http%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401114014id_/http%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
 
 # MOHELA Privacy Policy
 
@@ -30,6 +30,7 @@
     [Planning and Paying for College](http://www.mohela.com/Misc/Info/Info_PayingForCollege.asp)  
     [Entrance/Exit Counseling](http://mapping-your-future.org/services/oslcidx.htm)  
     [Order and Download Forms](http://www.mohela.com/Misc/Info/Info_DownLoadForms.asp)  
+    [Order Brochures](http://www.mohela.com/Misc/OrderBrochure/Default.asp)  
     [Glossary Terms](http://www.mohela.com/Misc/Info/Info_Glossary.asp)  
     [Calculators](http://www.mohela.com/Calculators)  
     [Financial Aid Road Map](http://www.mohela.com/Misc/Info/Info_FinancialAidRoadMap.asp)  
