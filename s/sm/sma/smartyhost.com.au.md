@@ -1,26 +1,29 @@
-> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202214615id_/http%3A//www.smartyhost.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603063141id_/http%3A//smartyhost.com.au/privacy.html) for the most accurate reproduction.*
 
 # SmartyHost Privacy Policy
 
 |   
 ---  
   
-**[150MB PACKAGE ](https://web.archive.org/web/20031202214615id_/http%3A//www.smartyhost.com.au/smart1.html)**  
+**[150MB PACKAGE ](https://web.archive.org/web/20040603063141id_/http%3A//smartyhost.com.au/smart1.html)**  
 With all the features you could possibly ask for in a web hosting package including 150 MB Web Space and 150 Email Accounts. Plus dozens of additional features for just $15/mth or a cheeky $144/year.  
   
-**[BARGAIN BASEMENT](https://web.archive.org/web/20031202214615id_/http%3A//www.smartyhost.com.au/bargainhosting.html)**  
+**[BARGAIN BASEMENT](https://web.archive.org/web/20040603063141id_/http%3A//smartyhost.com.au/bargainhosting.html)**  
 Everyone loves a bargain! Limited number of web hosting packages at very affordable prices from just $20 to $100 per year.  
   
-**[DOMAIN REGISTRATION](https://web.archive.org/web/20031202214615id_/http%3A//www.smartyhost.com.au/cheapdomainnames.html)**  
+**[DOMAIN REGISTRATION](https://web.archive.org/web/20040603063141id_/http%3A//smartyhost.com.au/cheapdomainnames.html)**  
 Don't pay too much for domain name registrations. SmartyHost offers .com registration for just $29 and .com.au for just $79!  
   
-**[RESELLER HOSTING](https://web.archive.org/web/20031202214615id_/http%3A//www.smartyhost.com.au/resellerhosting.html)**  
+**[RESELLER HOSTING](https://web.archive.org/web/20040603063141id_/http%3A//smartyhost.com.au/resellerhosting.html)**  
 Offer SmartyHost affordable web hosting packages to your own clients. Benefits include up to 20% discount on all our packages, your own reseller control panel, instant activation and full support.  
   
-**[FREE TOOLS](https://web.archive.org/web/20031202214615id_/http%3A//www.smartyhost.com.au/resources.html)**  
-Free resources include support forums, help files, control panel help, articles, and much more.  
+**[FREE TOOLS  
+](https://web.archive.org/web/20040603063141id_/http%3A//smartyhost.com.au/resources.html)** Free resources include support forums, help files, control panel help, articles, and much more.  
   
-[Home](https://web.archive.org/web/20031202214615id_/http%3A//www.smartyhost.com.au/index.html) > Privacy Policy
+**[BILL PAYMENT  
+](https://ssl.smartyhost.com.au/billpayment.html)** Save time and money and pay your Web Hosting Renewal here.  
+  
+[Home](https://web.archive.org/web/20040603063141id_/http%3A//smartyhost.com.au/index.html) > Privacy Policy
 
 **Information Collection** **and Use**  
 Pracsmart Pty Ltd (Smartyhost.com)is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Pracsmart Pty Ltd collects information from our users at several different points on our website.
