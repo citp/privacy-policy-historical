@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212080117id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604061522id_/http%3A//www.swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
 
 # Swapalease.com Privacy Statement
 
 **SWAPALEASE INC. PRIVACY STATEMENT**  
-| [](https://www.truste.org/validate/8927) | This confirms that Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Sawpalease.com of Swapalease Inc.'s Website.  
+| [](https://www.truste.org/validate/8927) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Sawpalease.com of Swapalease Inc.'s Website.  
 ---|---  
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site
-  2. The organization collecting the information
-  3. How the information is used
-  4. With whom the information may be shared
-  5. What choices are available to you regarding collection, use and distribution of the information
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Swapalease Inc. control
+  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site 
+  2. The organization collecting the information 
+  3. How the information is used 
+  4. With whom the information may be shared 
+  5. What choices are available to you regarding collection, use and distribution of the information 
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Swapalease Inc. control 
   7. How you can correct any inaccuracies in the information.
 
 
 
-**If you feel that this company is not abiding by its posted privacy policy, you should first contact Michele Trammell, of the Swapalease Client Services Department by emailing Ms. Trammell at[mtrammell@swapalease.com](mailto:mtrammell@swapalease.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
+**If you feel that this company is not abiding by its posted privacy policy, you should first contact Scot Hall, of the Swapalease Client Services Department by emailing Mr. Hall at[shall@swapalease.com](mailto:shall@swapalease.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
 **  
   
 **Information Collection and Use  
@@ -85,4 +85,16 @@ For example, to determine if our customers qualify (meet generally accepted leas
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.  
   
 **Notification of Changes  
-**If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+**If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.   
+  
+**Legal Disclaimer  
+**Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.   
+  
+**Contact Information  
+**If you have any questions or suggestions regarding our privacy policy, please contact us at:  
+Phone: 1-866-SWAPNOW (1-866-792-7669)  
+Fax: (513) 381-1091  
+Email: [support@swapalease.com](mailto:support@swapalease.com)  
+Postal Address: 403 Vine Street   
+                        Second Floor   
+                        Cincinnati, Ohio 45202 
