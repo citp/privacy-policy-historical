@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 1999-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991117234300id_/http%3A//landandfarm.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617150716id_/http%3A//www.landandfarm.com/LFN/privacy.html) for the most accurate reproduction.*
 
-# LandAndFarm.com - Privacy Page
+# Land And Farm - Privacy Page
 
 **LandAndFarm.com Privacy Statement**
 
@@ -16,7 +16,7 @@ All users who view listings on LandAndFarm.com retain complete anonymity where L
   
 **Registration Information (Listing)**
 
-LandAndFarm.com regards all personal information collected from its registered partners as completely confidential, except for those items that appear in the listings, such as Name, Address, Email Address, and Phone Numbers. All other personal data provided during registration processes and financial account information (credit card / bank information) is kept strictly private. In other words, LandAndFarm.com does not sell its registration lists to third parties or allow those lists to be used internally to create unwanted messages to its members. Such activities are immoral and wrong, and LandAndFarm.com has never condoned such activities.
+LandAndFarm.com regards all personal information collected from its registered partners and customers as completely confidential, except for those items that appear in the listings, such as Name, Address, Email Address, and Phone Numbers. All other personal data provided during registration processes and financial account information (credit card / bank information) is kept strictly private. In other words, LandAndFarm.com does not sell its registration lists to third parties or allow those lists to be used internally to create unwanted messages to its members. We consider such activities as immoral and wrong, and LandAndFarm.com will never condone such activities.
 
   
 **The Use of Cookies**
@@ -29,4 +29,4 @@ LandAndFarm.com may use cookies to help improve our service and also improve a u
 LandAndFarm.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [webmaster@LandAndFarm.com](mailto:webmaster@LandAndFarm.com).  
 
 
-Click here to return to the page you just left [**LandAndFarm.com Home Page**](https://web.archive.org/web/19991117234300id_/http%3A//landandfarm.com/index.html) **|[Search](https://web.archive.org/web/19991117234300id_/http%3A//landandfarm.com/search/index.html) | [List](https://web.archive.org/web/19991117234300id_/http%3A//landandfarm.com/list/index.html)**  
+Click here to return to the page you just left [**LandAndFarm.com Home Page**](http://www.landandfarm.com/) **|[Buy](https://web.archive.org/web/20000617150716id_/http%3A//www.landandfarm.com/Buy) | [Sell](https://web.archive.org/web/20000617150716id_/http%3A//www.landandfarm.com/Sell)**  
