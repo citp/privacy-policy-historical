@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601135706id_/http%3A//www.smartbargains.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811074746id_/http%3A//www.smartbargains.com/privacy.asp) for the most accurate reproduction.*
 
 # SmartBargains - Great brands, products & services at HUGE savings! Up to 80% off, satisfaction guaranteed! Looking for liquidation, surplus, factory serviced, refurbished, even NEW items at near wholesale prices? Look no further!
 
