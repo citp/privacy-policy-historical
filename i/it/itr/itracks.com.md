@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622071915id_/http%3A//itracks.com/Pages/01_About/06_misc/01_privacy.aspx%3Fdir%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207095143id_/http%3A//itracks.com/Pages/01_About/06_misc/01_privacy.aspx%3Fdir%3Dpriv) for the most accurate reproduction.*
 
 # About Us :: Privacy :: Itracks
 
@@ -38,7 +38,7 @@ Itracks may occasionally offer options that allow visitors to voluntarily link t
 
 Our Commitment to Security 
 
-Itracks has implemented physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access of the information provided. For full details regarding these safeguards please contact [info@itracks.com](mailto:info@itracks.com).
+Itracks has implemented physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access of the information provided. For full details regarding these safeguards please contact [ info@itracks.com](mailto:info@itracks.com).
 
 Legal Notices 
 
@@ -50,4 +50,4 @@ Itracks is not in any way responsible for use or misuse of Itracks' tools by cli
 
 How to Contact Us 
 
-If you have any questions or comments about Itracks Privacy Statement, or you would like to request a change or deletion for your personal information that has already been collected, please contact [info@itracks.com](mailto:info@itracks.com).
+If you have any questions or comments about Itracks Privacy Statement, or you would like to request a change or deletion for your personal information that has already been collected, please contact [ info@itracks.com](mailto:info@itracks.com).
