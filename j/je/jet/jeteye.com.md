@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2001-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010512221732id_/http%3A//www.jeteye.com/ESI/SiteMap/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2002-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020907034700id_/http%3A//www.jeteye.com/ESI/SiteMap/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@ This is the web site of Extended Systems.
 > Boise, Idaho 83713   
 > 800-235-7576 (in U.S. & Canada)   
 > 208-322-7800 (outside U.S.)   
-> Fax: 406-587-9170   
+> Fax: (208) 327-5004  
 > E-mail: [info@extendsys.com](mailto:info@extendsys.com)
 
 **Privacy Policy**
