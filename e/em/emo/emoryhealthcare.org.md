@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emoryhealthcare.org privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008092855id_/http%3A//www.emoryhealthcare.org/ehc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emoryhealthcare.org privacy policy that was archived on 2004-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040507061211id_/http%3A//www.emoryhealthcare.org/patient_guide/privacy.html) for the most accurate reproduction.*
 
-# Emory Healthcare
+# Emory Healthcare: privacy
 
-**[NOTICE OF PRIVACY PRACTICES HIPAA](https://web.archive.org/web/20031008092855id_/http%3A//www.emoryhealthcare.org/ehc/HIPPA_privacy_notice.html)**  
+**[NOTICE OF PRIVACY PRACTICES HIPAA](https://web.archive.org/web/20040507061211id_/http%3A//www.emoryhealthcare.org/patient_guide/HIPPA_privacy_notice.html)**  
 This notice describes how protected health information about you may be used and disclosed and how you may gain access to this information. Please review it carefully.
 
 **GENERAL PRIVACY STATEMENT FOR EMORY HEALTHCARE'S WEB SITE**  
