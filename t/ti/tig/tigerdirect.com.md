@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619051431id_/http%3A//www.tigerdirect.com/sectors/AboutUs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2001-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011112101150id_/http%3A//www.tigerdirect.com/sectors/AboutUs/privacy.asp) for the most accurate reproduction.*
 
 # TigerDirect.com
 
