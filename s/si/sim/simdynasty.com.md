@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simdynasty.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603180839id_/http%3A//simdynasty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simdynasty.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208011943id_/http%3A//www.simdynasty.com/privacy.html) for the most accurate reproduction.*
 
 # SimDynasty values your privacy and is dedicated to protecting your personal information
 
@@ -127,3 +127,11 @@ _Changes to our privacy policy_ will be posted on this site. We will never use y
 _How to contact us_. If you have questions about the SimDynasty site in general or this privacy policy in particular, please write to [webmaster@simdynasty.com](mailto:webmaster@simdynasty.com). 
 
 _Terms of use_. During the course of play, you may have access to the e-mail address or other personal information of other owners. You are only allowed to use this information to make trades offers and conduct similar league business. This policy also applies to any personal information posted on the message board. In particular, you may not use other owners’ information to send spam, chain letters, marketing offers, harassing messages, etc. Violators are not tolerated and will only receive one warning before being expelled from the league. Please note that if you choose to reveal your information to other owners, SimDynasty is not responsible for violations of this policy.
+
+  
+_Third Party Advertising_
+
+We use BUDS INC, MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
+
+_Third Party Cookies_  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
