@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216215544id_/http%3A//www.philanthropy.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125100149id_/http%3A//philanthropy.com/about/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle of Philanthropy: Privacy statement
 
@@ -61,4 +61,4 @@ Or see our complete information on [contacting _The Chronicle._](https://web.arc
 
 * * *
 
-[Copyright](https://web.archive.org/about/copyright.htm) © 2001 The Chronicle of Philanthropy
+[Copyright](https://web.archive.org/about/copyright.htm) © 2002 The Chronicle of Philanthropy
