@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panduit.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210022127id_/http%3A//www.panduit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panduit.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621070837id_/http%3A//www.panduit.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for www.panduit.com
 
@@ -44,7 +44,7 @@ Here's a quick rundown of what we see as the biggest advantages of cookies:
 
 
 
-**To change your cookies click[here](https://web.archive.org/web/20021210022127id_/http%3A//www.panduit.com/cookies.asp) to see instructions on how to modify your browser’s cookie settings.**
+**To change your cookies click[here](https://web.archive.org/web/20030621070837id_/http%3A//www.panduit.com/cookies.asp) to see instructions on how to modify your browser’s cookie settings.**
 
 **4) Our contact information**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact Panduit at: 
