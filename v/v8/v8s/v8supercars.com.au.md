@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the v8supercars.com.au privacy policy that was archived on 2004-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041026175844id_/http%3A//www.v8supercars.com.au/siteuse/privacystatement.asp%3Find%3DM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v8supercars.com.au privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308040706id_/http%3A//www.v8supercars.com.au/siteuse/privacystatement.asp%3Find%3DM) for the most accurate reproduction.*
 
 # Site Help - The Official Website of V8 Supercars Australia
 
