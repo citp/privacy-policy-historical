@@ -1,23 +1,11 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013071352id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206054652id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
 
 ## Privacy Statement
 
   
-Last Update: September, 15, 2004, 15:59 Personal Information Collection Change: USA Customers
-
-Notice to our customers located in the United States of America, Sept. 9: Starting October 1, 2004, US Customs and Border Protection, as a result of the **Dept. of Homeland Security's initiative** to improve security at the US border, **requires that importation shipments costing $200 USD and over must document** complete information about its tariff classification, as well as contain **a tracking number** , either an Employer Identification Number (some times referred to as a Tax Id) or a Social Security Number (SSN). 
-
-This requirement **does not apply to purchases that are either downloaded over the Internet, do not require importation, or are importation orders totaling less than $200 USD**. The tracking number must belong to the ultimate consignee of the party receiving any portion of the shipment. For further information on US security policies and requirements, please visit the US Customs and Border Protection [web site](http://www.cbp.gov/). 
-
-**The impact** on houseofnames.com American customers is that for any purchase item or items totaling $200 USD or more that must be imported into the United States, the consignee must provide their Tax Id or SSN number. As our customers are general consumers who do not normally have a Tax Id, we have elected to request the consignee's SSN number on the on-line purchase order form, when applicable. 
-
-**This number is provided to US Customs in electronic form** , and printed on a hard copy of the invoice shipped with the product (if necessary). House Of Names will, in those cases where it must collect it, treat the customer's SSN identification with the same respect as any of his or her's other personal information, and in particular with the same security as given credit card numbers; that is, the SSN will be recorded only for shipping requirement purposes, and is retained as per our Privacy, Security, and Information Retention policy, as documented further on this page. 
-
-**If you have concerns** regarding this policy change, contact House of Names via [email](mailto:privacy@swyrich.com?Subject=SSN%20Privacy%20Questions), or if you have immediate concerns regarding ordering and shipping, or if you wish to make a personal statement to House Of Names regarding such, call us toll free: 888-468-7686 xt 222. 
-
-End of Policy Change Statement
+Last Update: November, 03, 2004, 09:30 
 
 Swyrich Corporation, the parent company of Houseofnames.com, has created this privacy statement in order to demonstrate our strong commitment to protecting your privacy. This statement discloses how we collect and disseminate information. 
 
@@ -43,6 +31,8 @@ Kingston, ON, Canada, K7M 5V7
 
 ## Information Collection
 
+### When no order is placed:
+
 If you are a user of our site, but do not place an order or do not use our contact-us, order, or affiliate program forms, we 
 
   * **do not collect** any personal information about you 
@@ -57,6 +47,8 @@ If you contact us via email, we require as a minimum
 
 so that we may contact you; additional, opt-in, information may be given so as to describe you request. 
 
+### When an order is placed:
+
 If you place an order through our secure on-line form, or over the phone, we request your 
 
   * name 
@@ -70,6 +62,18 @@ If you place an order through our secure on-line form, or over the phone, we req
 
 
 
+US customers: Orders requiring importation into the US that also total $200 USD or more, must contain **a tracking number** , either an Employer Identification Number (also referred to as a Tax Id) or a Social Security Number (SSN). This requirement started October 1, 2004, and was made by US Customs and Border Protection, as a result of the **Dept. of Homeland Security's initiative** to improve security at the US border. 
+
+This requirement **does not apply to purchases that are either downloaded over the Internet, do not require importation, or are importation orders totaling less than $200 USD**. The tracking number must belong to the ultimate consignee of the party receiving any portion of the shipment. For further information on US security policies and requirements, please visit the US Customs and Border Protection [web site](http://www.cbp.gov/). 
+
+As House Of Names customers are general consumers who do not normally have a Tax Id, we have elected to request the consignee's SSN number on the on-line purchase order form, when applicable. 
+
+**This number is provided to US Customs in electronic form** , and printed on a hard copy of the invoice shipped with the product (if necessary). House Of Names will, in those cases where it must collect it, treat the customer's SSN identification with the same respect as any of his or her's other personal information, and in particular with the same security as given credit card numbers; that is, the SSN will be recorded only for shipping requirement purposes, and is retained as per our Privacy, Security, and Information Retention policy, as documented further on this page. 
+
+If you have concerns regarding this policy, contact House of Names via [email](mailto:privacy@swyrich.com?Subject=SSN%20Privacy%20Questions), or if you have immediate concerns regarding ordering and shipping, or if you wish to make a personal statement to House Of Names regarding such, call us toll free: 888-468-7686 xt 222. 
+
+### When joining the Affiliate Program:
+
 If you sign-up to our Affiliate Program, we require your 
 
   * name 
@@ -80,6 +84,8 @@ If you sign-up to our Affiliate Program, we require your
   * description of the site 
 
 
+
+### Other:
 
 If you use the name search feature, and you find your name is not present, you can opt-in to send Houseofnames.com a notification that your name is not present in our list of display names. This notification requires your email address, and includes your surname, so that we may contact you. 
 
