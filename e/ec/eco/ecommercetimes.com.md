@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the ecommercetimes.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206170100id_/http%3A//www.newsfactor.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommercetimes.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603054029id_/http%3A//www.newsfactor.com/privacy.shtml) for the most accurate reproduction.*
 
-# NewsFactor Network: Breaking News
+# NewsFactor Network - Tech News
 
-**The NewsFactor Network**  
- **Real-Time Technology News from Around the World**
+**The NewsFactor Network**
 
 **Privacy Policy**
 
@@ -40,4 +39,5 @@ ATTENTION KIDS: IF YOU ARE 16 OR UNDER, YOU MUST GET PERMISSION FROM YOUR MOM OR
 IF YOU GET PERMISSION FROM YOUR MOM OR DAD TO SUBMIT YOUR NAME TO BE PUBLICLY POSTED ON THE SERVICE, YOU SHOULD NEVER USE YOUR FULL NAME. JUST SUBMIT YOUR FIRST NAME OR INITIALS.    
 
 
-Please Note: We request that all editorial and PR matters be handled by e-mailing [editorial@newsfactor.com](mailto:editorial@newsfactor.com). Thank you.
+Please Note: We request that all editorial and PR matters be handled by e-mailing [editorial@newsfactor.com](mailto:editorial@newsfactor.com). Thank you.   
+ 
