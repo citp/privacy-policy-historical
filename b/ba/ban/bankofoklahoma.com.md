@@ -1,30 +1,155 @@
-> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208092127id_/http%3A//www.bankofoklahoma.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofoklahoma.com privacy policy that was archived on 2003-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030227125437id_/http%3A//bankofoklahoma.com/privacy_bok.asp) for the most accurate reproduction.*
 
-# Bank of Oklahoma - Privacy
+# PRIVACY POLICY
 
-At Bank of Oklahoma, we know how important confidentiality is to our customers. We are committed to protecting your privacy. As part of that commitment, we have developed the following Privacy Practices.
+**PRIVACY STATEMENT**
 
-As we continue to offer state-of-the-art-banking technology, Bank of Oklahoma will ensure that strict privacy standards are maintained.
+PRIVACY POLICY
 
-**Privacy Expectations**  
-We understand that customers expect privacy and security in handling their financial transactions. Therefore, we recognize the need to safeguard sensitive information about you and your banking. We strive to maintain high standards and procedures to protect you.
+**BOK FINANCIAL CORPORATION**
 
-**Collection, Retention and Use of Information**  
-Bank of Oklahoma collects, retains and uses information concerning you and your financial transactions only when we believe that it will help us develop new products and services as well as to determine opportunities to better serve you or to comply with certain laws and regulations. We are happy to provide you with information on why we are collecting and retaining information upon your request.
+  
+You have entrusted us with your personal information and we recognize our obligation to keep information about you secure and confidential.  Therefore, to protect and maintain this relationship, we have enacted this privacy policy to maintain the confidentiality of the information you have shared with us.  This policy covers your nonpublic personal information ( _Customer Information_ ), which means personally identifiable information about a consumer's current or former relationship with BOK Financial Corporation or any of BOK Financial Corporation’s affiliated companies listed in Section VI-BOKF Family of Companies (“BOKF” refers individually to BOK Financial Corporation and each of its affiliated companies).  This policy  does not apply to the BOK Mortgage Division of Bank of Oklahoma, N.A. which has its own privacy policy.
 
-**Restrictions on Disclosing Information to Outside Parties**  
-We do not disclose specific information about your accounts or other personal data to outside parties for their independent use except if: (a) you request or authorize it; (b) the information is provided to process a transaction initiated by you; (c) the information is provided to a reputable credit bureau or similar information reporting agency; or (d) the disclosure otherwise is lawfully permitted or required.
+**__I.   _CATEGORIES OF CUSTOMER INFORMATION WE COLLECT_**
 
-**Privacy in Business Relationships with Outside Third Parties**  
-Sometimes we are required to provide personal information about you to a third party, such as a vender, to provide support for one of our services. These companies agree to maintain our confidential information about you and your products/services with us and must abide by applicable law.
+The Customer Information we collect is categorized below:
 
-Bank of Oklahoma reserves the right to modify these Privacy Practices as needed, along with related provisions, at any time.
+1.                   Information you provide to us on applications and through other means, such as your assets, income and other debt.
 
-A recent federal law, the Gramm-Leach-Bliley Act ("GLB"), requires that all financial institutions provide notice to consumer customers about the types of information financial institutions collect and with whom and under what circumstances the information is shared. 
+2.                   Information about your transactions and account experience with us or our family of companies, such as your account balance and payment history, or information about our communications with you, such as a request for a copy of a check and our response.
 
-Please click [here](https://web.archive.org/web/20021208092127id_/http%3A//www.bankofoklahoma.com/privacy_bok.htm) for our policy. 
+3.                   Information from a consumer report, such as information regarding your creditworthiness or credit history.
 
-[BOk Home](http://www.bankofoklahoma.com/) | [Personal](http://www.bankofoklahoma.com/personal/) | [Small Business](http://www.bankofoklahoma.com/smallbusiness/)  
-[Commercial Services](http://www.bankofoklahoma.com/commercial/) | [Investor Info](http://www.bankofoklahoma.com/investor/) | [Infocenter](http://www.bankofoklahoma.com/infocenter/) | [Contact](https://www.bankofoklahoma.com/contact/)  
-[Jobs](http://www.bankofoklahoma.com/employment/) | [Locations](http://www.vicinity.com/bankofok/startprx.hm) | [Sitemap](https://web.archive.org/sitemap)   
+4.                   Information from other outside sources, such as verifying representations made by you regarding employment history, loan or credit card balances, or your property insurance coverage.
 
+5.                   Other general information we obtain about you that is not assembled for the purpose of determining your eligibility for credit, insurance, employment or other products or services you request, such as demographic information.
+
+**__II.   _~~CATEGORIES OF INFORMATION~~ _CIRCUMSTANCES UNDER WHICH_ BOKF SHARES WITH AFFILIATED COMPANIES _**
+
+BOK Financial Corporation ~~F~~ is made up of a number of companies as shown in ~~the section~~ Section VI ~~I~~ ~~~~ BOKF Family of Companies. _  _~~This policy applies to the companies listed and BOKF~~ ~~shall hereafter refer to each com~~ ~~p~~ ~~any individually.~~   BOK Financial Corporation and ~~E~~ each company in Section VI may share all five types of Customer Information, described ~~previously~~ above in Section I, among our family of companies. 
+
+We occasionally receive medical or health information about a customer, for example, if a customer applies for insurance from us. If we do receive medical or health information about a customer, we will not share it among our family of companies, except as necessary to maintain accounts, process transactions or provide services the customer has requested or initiated.
+
+**__III.   _CIRCUMSTANCES UNDER WHICH BOKF MAY SHARE INFORMATION WITH NONAFFILIATED ~~COMPANIES~~ _THIRD PARTIES__**  
+BOKF may share all five types of Customer Information described ~~previously~~ in Section I ~~,~~ with nonaffiliated ~~companies~~ third parties.  The nonaffiliated third parties may include (i) financial service providers, for example, insurance companies, mortgage bankers, and securities broker-dealers; (ii) nonfinancial companies, for example, check printing and data processing companies and companies that perform services for us; (iii) financial institutions with whom we have a joint marketing agreement, (iv) credit bureaus and similar organizations.  We may share all five types of Customer Information with such nonaffiliated third parties for the following purposes, for example:
+
+~~T~~
+
+1\.             To provide you products and services you have requested, 
+
+2.             To process a transaction initiated by you, ~~or~~ ~~~~~~as permitted by law.   ~~~~For example, these~~ ~~companies~~ ~~nonaffiliated third parties~~ ~~may include financial service providers such as insurance companies, mortgage bankers, or securities broker-dealers, and nonfinancial companies such as check printing and data processing companies.   ~~~~We may also share any of the five types of Customer Information~~ ~~, described in Section I,~~ ~~with~~ ~~nonaffiliated~~ ~~companies~~ ~~third party service providers~~ ~~that~~ ~~work for us to provide~~
+
+3.             To perform ~~marketing~~ ~~and other~~ ~~services,~~ ~~~~~~or~~ ~~functions~~ services for us pursuant to a contract,
+
+4.             To perform according to a joint marketing agreement with another financial institution, ~~that prohibits the third party from disclosing or using the Customer Information~~ ~~other than for the purposes for which we disclosed the Customer Inform~~ ~~a~~ ~~tion under the contract or as permited by law.~~ ~~~~~~other financial institutions with whom we have joint marketing agreements.~~ ~~We may also share any of the five types of~~ ~~All of these companies act on our behalf, are contractually obligated to keep the information that we provide to them confidential, and use the information only to provide the services we have asked them to perform.   We may also disclose any of the five types of Customer Information to~~ ~~credit bureaus and similar organizations~~ ~~, and otherwise when permitted by law. For example, this may include a disclosure in connection with a~~
+
+5.             To respond to a subpoena, a fraud investigation, or ~~similar~~ other legal process, ~~a fraud investigation, recording~~
+
+6.                   To record ~~of~~ deeds of trust ~~and~~ or mortgages in public records,
+
+7.                   To conduct ~~  or ~~an audit or examination, ~~.~~ ~~We may also share any of the five types of Customer Information outside our family of companies~~
+
+8.                   To provide a service with your consent, including the case where you have given someone your power of attorney or other written authorization to act on your behalf, or as otherwise permitted by law. ~~.~~
+
+**IV.   _CONFIDENTIALITY AND SECURITY_**
+
+The security of your personal Customer Information is very important to us.  We restrict access to your Customer Information to those employees that have a legitimate business reason to conduct business on your account.  We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your Customer Information. 
+
+**V.   _MAKING SURE INFORMATION IS ACCURATE_**  
+Keeping your account information accurate and up to date is very important. If you ever find that your account information is incomplete, inaccurate or not current, please write us at the address listed on your account statement, bank records, or other documentation. We will promptly update or correct any erroneous information. 
+
+  
+
+
+**VI.   __BOKF FAMILY OF COMPANIES__**
+
+The following is a list, as of April 1, 2001, of the subsidiaries to which this policy applies:
+
+**Brokerage and Investments**
+
+·          BOSC, Inc.
+
+**Insurance**
+
+·          BOSC Agency, Inc. (NM)
+
+·          BOSC Agency, Inc. (OK)
+
+·          BOSC Agency, Inc. (TX)
+
+**Trust Companies**
+
+·          Bank of Texas Trust Company, N.A.
+
+·          Southwest Trust Company
+
+**Banks**
+
+·          Bank of Albuquerque, N.A.
+
+·          Bank of Arkansas, N.A. 
+
+·          Bank of Oklahoma, N.A. 
+
+·          Bank of Texas, N.A. 
+
+**VII.   _HOW TO LIMIT OUR USE OF YOUR CUSTOMER INFORMATION_**
+
+We ~~do not disclose any~~ have a right to share Customer Information, described in Section I above, ~~ ~~ about our customers or former customers ~~to~~ with our affiliated companies as described in Section II and with nonaffiliated third parties as described in Section III. ~~anyone, excep~~ ~~t as~~ ~~permitted by law~~ ~~.   ~~~~And, if you~~ ~~~~ If you prefer that we not ~~communicate~~ share your Customer Information ~~~~  with our affiliated companies, we will honor your request ( ~~other than~~ except we may continue to share transaction and experience information authorized under the Fair Credit Reporting Act). ~~~~~~among~~ ~~our affiliated companies~~ ~~,~~   ~~  y~~You may make such a request ~~instruct us to do so~~ by the method described below.  We will honor your request throughout the BOKF family of companies. 
+
+·          Fill out the Opt Out Request form provided below. ~~Write to:   BOK Financial Corporation, ATTN:  CRF - BTC 1E, P.O. Box 2300, Tulsa, OK 74192~~
+
+·          In order to ensure that we accurately reflect your request, please provide your full name, address, social security number, and telephone number 
+
+·          Detach and mail the Opt Out Request form to:  BOK Financial Corporation, ATTN:  CRF - BTC 1E, P.O. Box 2300, Tulsa, OK 74192.
+
+·          This request will apply to information from applications, consumer reports and other outside sources only.
+
+·          If there is more than one borrower on your account, we will honor the Opt Out Request for all borrowers of record on your account.
+
+·          Please allow six to eight weeks to be fully effective.
+
+~~In order to ensure that we accurately reflect your request~~ ~~Note that this request will apply to information from applications, consumer reports and other outside sources only and may take six to eight weeks to be fully effective.~~
+
+**If necessary, detach the following form: ~~~~**
+
+**_~~BOKF FAMILY OF COMPANIES~~ ~~~~_**
+
+**~~The following is a list, as of April 1, 2001, of the subsidiaries to which this policy applies:~~ ~~~~**
+
+**~~Brokerage and Investments~~ ~~~~**
+
+~~·           ~~**~~BOSC, Inc.~~ ~~~~**
+
+**~~Insurance~~ ~~~~**
+
+~~·           ~~**~~BOSC Agency, Inc. (NM)~~ ~~~~**
+
+~~·           ~~**~~BOSC Agency, Inc. (OK)~~ ~~~~**
+
+~~·           ~~**~~BOSC Agency, Inc. (TX)~~ ~~~~**
+
+**~~Trust Companies~~ ~~~~**
+
+~~·           ~~**~~Bank of Texas Trust Company, N.A.~~ ~~~~**
+
+~~·           ~~**~~Southwest Trust Company~~ ~~~~**
+
+**~~Banks~~ ~~~~**
+
+~~·           ~~**~~Bank of Albuquerque,~~** ** ~~N.A.~~ ~~~~**
+
+~~·           ~~**~~Bank of Arkansas, N.A.~~ ~~~~**
+
+~~·           ~~**~~Bank of Oklahoma, N.A.~~ ~~~~**
+
+~~·           ~~**~~Bank of Texas, N.A.~~ ~~~~**
+
+·            ****
+
+|   
+---  
+|   
+  
+ 
