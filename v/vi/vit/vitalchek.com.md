@@ -1,35 +1,6 @@
-> *The following text is extracted and transformed from the vitalchek.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601211153id_/http%3A//www.vitalchek.com/_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalchek.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205012101id_/http%3A//www.vitalchek.com/_privacy.asp) for the most accurate reproduction.*
 
 # VitalChek's Privacy Policy
-
-|   
----  
-  |   
-  
-  
-  
-  
----  
-  |   
-  
-  
-  
-[](http://www.choicepoint.com/)  
----  
-  
-
-
-Need to locate friends and family members?  
-**Ultimate People Finder**  
-[ **KnowX.com**](http://www.knowx.com/servlet/com.kx.shared.util.ClickMan?site=1&clickid=55450815226118146&mode=2&desturl=http%3a%2f%2fwww%2eknowx%2ecom%2finfoam%2eexe%3fform%3dpf%2fsearch%2ehtm%26userid%3dguest%26password%3dwelcome)  
-  
-  
-  
-  
-  
-VitalChek accepts the following credit cards:  
-  
-| 
 
 VitalChek's Privacy Policy (effective 09/01/2002)
 
@@ -45,10 +16,10 @@ We collect your name, address, phone number, email address, billing information 
 
 |  | 
 * Name of certificate holder 
-* Certificate holder’s gender 
-* Certificate holder’s birth date / event date 
-* Father’s name / Husband’s name 
-* Mother’s maiden name / Wife’s name 
+* Certificate holder's gender 
+* Certificate holder's birth date / event date 
+* Father's name / Husband's name 
+* Mother's maiden name / Wife's name 
 * City and county where the registered event occurred 
 * Credit card number and expiration date 
 * Credit card billing address 
@@ -89,6 +60,13 @@ To prevent unauthorized access, maintain data accuracy, and ensure the appropria
 Protecting the privacy of the very young is especially important. For this reason, we collect only information about children's date of birth and full name, and we only accept this information from the parents, grandparents or legal guardians of the child. Only persons over 18 can apply for a certified vital record, so anyone under 18 must apply through their parents or legal guardians. **How You Can Access Or Correct Your Information**  
 You can access to review or correct your account information by clicking the appropriate link on our site under Customer Service and choosing one of the following options: Sign onto your account, Create a new account, or Update your account. **Our Affiliations and Memberships That Strengthen Our Right To Public Trust**  
 VitalChek is a member of good standing with, and sits on the Corporate Board of Directors for the National Association For Public Health Statistics and Information Systems (NAPHSIS). We also enjoy active membership in the International Association Of Credit Card Investigators (IACCI). We continue to employ the services of several former State Registrars, who provide invaluable assistance in our efforts to promote and protect the public trust. **How To Contact Us**  
-If you would like to know more about the integrity and scope of our privacy policies, or if you have any question regarding procedures, please call (615) 758-9162 or email us at [security@vitalchek.com](mailto:security@vitalchek.com). 
+If you would like to know more about the integrity and scope of our privacy policies, or if you have any question regarding procedures, please visit us at [vitalchek-solutions.custhelp.com](http://vitalchek-solutions.custhelp.com/). 
 
 * * *
+
+| []() | []() |   
+---|---|---|---  
+  
+* * *
+
+**© VitalChek Network, Inc.   All Rights Reserved** (B25)
