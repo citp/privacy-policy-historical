@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629145224id_/http%3A//www.aquafresh.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208024124id_/http%3A//www.aquafresh.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# GlaxoSmithKline Internet Privacy Statement - ©2003
+# GlaxoSmithKline Internet Privacy Statement - ©2004
 
 ### _GlaxoSmithKline Internet Privacy Statement_
 
