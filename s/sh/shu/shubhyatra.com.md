@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shubhyatra.com privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203143700id_/http%3A//shubhyatra.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shubhyatra.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201194815id_/http%3A//shubhyatra.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # Shubhyatra : Privacy Policies
 
@@ -73,9 +73,11 @@
 
 * * *
 
-_ **
+_
 
-**| **[About Shubhyatra **** ](http://www.shubhyatra.com/htm/about_shubh.htm) **| |** [Help](http://www.shubhyatra.com/htm/help.htm) **|  |** [ Disclaimer](http://www.shubhyatra.com/htm/disclaimer.htm) **| |** [Advertising Info](http://www.shubhyatra.com/htm/advtinfo.htm) **| |** [Feedback](http://www.shubhyatra.com/htm/feedback.htm) **|    
-|[ ](http://www.shubhyatra.com/htm/start.htm) ** [ Start With Shubhyatra](http://www.shubhyatra.com/htm/start.htm) **| |[ ](http://www.shubhyatra.com/htm/bookmark.htm) ** [ Bookmark Shubhyatra](http://www.shubhyatra.com/htm/bookmark.htm) | ** **
+|[ About Shubhyatra ](http://www.shubhyatra.com/htm/about_shubh.htm)| | [Help](http://www.shubhyatra.com/htm/help.htm) | |[ Disclaimer](http://www.shubhyatra.com/htm/disclaimer.htm) | | [Advertising Info](http://www.shubhyatra.com/htm/advtinfo.htm) | | [Feedback](http://www.shubhyatra.com/htm/feedback.htm) |   
+|[ Start With Shubhyatra](http://www.shubhyatra.com/htm/start.htm) | |[ Bookmark Shubhyatra](http://www.shubhyatra.com/htm/bookmark.htm) | 
 
-Copyright © 2000 [ Shubhyatra.com](http://www.shubhyatra.com/index.htm) India Pvt. Ltd. All rights reserved.
+**
+
+**Copyright © 2001 [Design Expo Network Pvt. Ltd.](http://www.dexponet.com/) All rights reserved. **
