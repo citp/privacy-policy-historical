@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicintegrity.org privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220195632id_/http%3A//www.publicintegrity.org/about/about.aspx%3Fact%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicintegrity.org privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308193553id_/http%3A//www.publicintegrity.org/about/about.aspx%3Fact%3Dpolicy) for the most accurate reproduction.*
 
 # The Center for Public Integrity
 
