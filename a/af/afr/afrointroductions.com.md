@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afrointroductions.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208164831id_/http%3A//www.afrointroductions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrointroductions.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410133246id_/http%3A//afrointroductions.com/Privacy.htm) for the most accurate reproduction.*
 
 # afrointroductions.com - Privacy Policy
 
@@ -62,6 +62,6 @@ If you become a member we collect all of the information that you fill out in th
 
 This Privacy Statement was last reviewed in June 2002. It is subject to change from time to time due to developments in technology and new laws.
 
-[Home ](https://web.archive.org/web/20021208164831id_/http%3A//www.afrointroductions.com/default.htm)
+[Home ](https://web.archive.org/web/20030410133246id_/http%3A//afrointroductions.com/default.htm)
 
  
