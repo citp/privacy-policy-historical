@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603154306id_/http%3A//www.progress-energy.com/shared/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207010540id_/http%3A//www.progress-energy.com/shared/privacy/index.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Progress Energy
 
