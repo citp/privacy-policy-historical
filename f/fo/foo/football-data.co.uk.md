@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-data.co.uk privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608101345id_/http%3A//www.football-data.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-data.co.uk privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204005111id_/http%3A//www.football-data.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Football-Data.co.uk - football data for football betting system development
 
