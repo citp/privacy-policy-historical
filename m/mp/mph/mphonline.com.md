@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mphonline.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202225400id_/http%3A//www.mphonline.com/misc/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mphonline.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610005609id_/http%3A//www.mphonline.com/misc/privacy.cfm) for the most accurate reproduction.*
 
 # MPHOnline.com
 
@@ -71,6 +71,9 @@ We may update this policy from time to time. Please check this page for changes.
 
 By using this site, you signify your agreement to the **MPH Online.com** Privacy Policy.
 
+[](https://web.archive.org/web/20010610005609id_/http%3A//www.mphonline.com/misc/help.cfm)
+
+  
 |    
 |    
 
