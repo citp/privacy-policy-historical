@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypeoplenet.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608191050id_/http%3A//www.mypeoplenet.com/corpsite/index.asp%3Fcontent%3DTerms%26sub%3DLegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypeoplenet.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009080141id_/http%3A//www.mypeoplenet.com/corpsite/index.asp%3Fcontent%3DTerms%26sub%3DLegal) for the most accurate reproduction.*
 
 # PeopleNet® - a CIGNIFY network
 
