@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606041559id_/http%3A//www.caterer.com/help/PPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207225050id_/http%3A//www.caterer.com/help/PPolicy.asp) for the most accurate reproduction.*
 
 # Caterer.com - Privacy policy
 
@@ -26,7 +26,7 @@ You have the option to decline or accept these cookies, but if you decline you w
 
      Decline cookies
 
-In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [**Adtech**](http://www.adtech.info/privacy_en.php) and [**Bluestreak**](http://www.bluestreak.com/). 
+In addition, the third party companies who sell and provide advertisements to the site, may use cookies and action tags (also known as single pixel gifs or web beacons) for the purpose of serving and targeting advertisements more effectively. Any information that these third parties collect via cookies and action tags is completely anonymous. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [**Adtech**](http://www.adtech.de/Unternehmen/unternehmen.php?lang_id=en&node=16) and [**Atlas DMT**](http://www.networkadvertising.org/optout_nonppii.asp). 
 
 **Statistical information**   
 We provide aggregate statistical information about site visitors and users to recruiters (such as the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals.
