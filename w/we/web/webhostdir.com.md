@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031103403id_/http%3A//webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405181731id_/http%3A//www.webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Web Host Directory: The best free source of web hosting services in a searchable web host directory. Powerful web host search engines, reviewed web hosts, awards, news and much more!
 
@@ -37,7 +37,7 @@ This privacy policy only addresses the use and disclosure of information we coll
 
 **To whom does Web Host Directory release information?**
 
-Web Host Directory only releases specific customer information to third parties, such as Hosting suppliers when you select a supplier. The information transfer is necessary in order to facilitate your transaction to the new supplier and complete account set-up. Please be aware that despite our best intentions and the guidelines outlined in this privacy policy, no data transmission over the Internet can be guaranteed to be 100% secure. Moreover, we may be legally obligated to disclose information to the government or to third parties under certain circumstances, such as illegal activity on our Site. Web Host Directory reserves the right to release personally identifiable information to law enforcement or other government officials, as Web Host Directory, in our sole and absolute discretion, deems necessary or appropriate. 
+Web Host Directory only releases specific customer information to third parties, such as Hosting suppliers when you select a supplier. The information transfer is necessary in order to facilitate your transaction to the new supplier and complete account set-up. Please be aware that despite our best intentions and the guidelines outlined in this privacy policy, no data transmission over the Internet can be guaranteed to be 100% secure. Moreover, we may be legally obligated to disclose information to the government or to third parties under certain circumstances, such as illegal activity on our Site. Web Host Directory reserves the right to release personally identifiable information to law enforcement or other government officials, as Web Host Directory, in our sole and absolute discretion, deems necessary or appropriate. By submitting a HostQUOTE request, you agree to submit your contact details to the featured third party service providers. 
 
 **How will I know about changes in the Privacy Policy?**
 
