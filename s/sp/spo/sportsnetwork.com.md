@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsnetwork.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201213714id_/http%3A//www.sportsnetwork.com/sports/misc/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsnetwork.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611223131id_/http%3A//www.sportsnetwork.com/sports/misc/privacy_policy.htm) for the most accurate reproduction.*
 
 # The Sports Network - Privacy Policy
 
