@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huduser.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602003941id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huduser.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204230930id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.*
 
-# HUD's Privacy and Security Statement
+# Privacy Policy and Security Statement - HUD
 
 |  |     
   
@@ -19,7 +19,12 @@ HUD respects your right to privacy and will protect it when you visit our web si
 **Information Collection**  
 
 
-  1. When you visit our web site we collect certain information about your visit that does not identify you personally. We can tell the type of computer, browser, and web service you are using. We also know the date and time you visit and the pages you visit. Collecting this information helps us design the site according to your needs. 
+  1. When you browse, read pages or download information on our website, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:    | The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;  
+---|---  
+  | The type of browser (e.g., Netscape, Internet Explorer) and operating system (Windows, Unix) used to access our site;  
+  | The date and time you access our site;  
+  | The pages you visit; and  
+  | If you linked to our website from another website, the address of that website. This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits.  
   2. Sometimes we use "cookies," which are small amounts of text stored on your computer. We only use "session cookies" in some places where people can transact business. That means we only store the cookie on your computer during that visit. So, if you are entering information for a business transaction, you won't lose the information if you go to another site and come back during the visit. After you turn off your computer or stop using the internet, the cookie is erased. If you don't want us to put a "cookie" on your computer, just follow [these instructions](https://web.archive.org/assist/cookies.cfm). You will still be able to use the entire web site. 
 
 **Site Security**
@@ -40,4 +45,4 @@ HUD respects your right to privacy and will protect it when you visit our web si
 
 If you have any questions, please contact [HUD's Web Manager](https://web.archive.org/utilities/intercept.cfm?mailto:webmanager@hud.gov). 
 
-[  **Return to the previous page**]()  
+[  Return to the previous page ]()   
