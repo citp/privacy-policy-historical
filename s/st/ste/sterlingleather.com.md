@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sterlingleather.com privacy policy that was archived on 2003-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031006083149id_/http%3A//www.sterlingleather.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingleather.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607024857id_/http%3A//www.sterlingleather.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Sterling Leather Privacy Policy
 
 **STERLING LEATHER** has created this privacy statement in order to demonstrate our firm commitment to privacy.   The following discloses our information gathering and dissemination practices for this website.
 
@@ -38,4 +38,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 **Sterling Leather**  
 PO Box 351  
-Feasterville-Trevose, PA 19053-0351  U.S.A.  
+Feasterville-Trevose, PA 19053-0351  U.S.A.
