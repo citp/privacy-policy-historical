@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207102219id_/http%3A//www.covers.com/covers/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610021338id_/http%3A//covers.com/covers/about/privacy.asp) for the most accurate reproduction.*
 
 # covers.com online sports betting odds, lines, gambling free picks
 
@@ -8,7 +8,7 @@
 
 Your privacy is important to us. At covers.com, we are committed to undertaking reasonable measures to protect the privacy, accuracy and reliability of your personal information and to protect such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Please read the following description of our policies and practices regarding your personal information. 
 
-  * We may request personal information from visitors such as name, home address, e-mail address, age, income, interests and gender for purposes such as newsletters, contests, opinion polls, and registration, and for participation in other interactive online activities. We do not request sensitive personal information, such as racial or ethnic origin or health or medical data. We will NOT share mailing list information with other businesses.
+  * We may request personal information from visitors such as name, home address, e-mail address, age, income, interests and gender for purposes such as newsletters, contests, opinion polls, and registration, and for participation in other interactive online activities. We do not request sensitive personal information, such as racial or ethnic origin or health or medical data. We will NOT share mailing list information with other businesses outside of the CSI, Ltd. family of websites/companies. This currently includes: [www.covers.com](http://www.covers.com/), [www.coversexperts.com](http://www.coversexperts.com/), [www.consensusclub.com](http://www.consensusclub.com/), and [www.7deadpets.com](http://www.7deadpets.com/). This list is subject to change.
 
 
   * In some sections of our site, particularly the posting forum, you will have a choice as to whether your name, location, and/or e-mail address are published alongside submissions or posts you have made to the site. If you choose to publish this information you should be aware that other people or companies _not affiliated with covers.com_ could use it to contact you or place you on their own mailing lists. Covers.com cannot be held responsible for any such use of your personal information if you have chosen to make it public.
