@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051211id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802153334id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com: O'Reilly & Associates, Inc. Privacy Policy [Feb. 06, 2001]
 
@@ -16,7 +16,7 @@
 [Web](https://web.archive.org/web/)  
 [Web Services](https://web.archive.org/webservices)  
   
-    
+[](http://www.xml.com/pub/a/survey/2002_08.html)     
 [Annotated XML](https://web.archive.org/pub/a/axml/axmlintro.html)  
 [What is XML?](https://web.archive.org/pub/a/98/10/guide0.html)  
 [What is XSLT?](https://web.archive.org/pub/a/2000/08/holman/index.html)  
