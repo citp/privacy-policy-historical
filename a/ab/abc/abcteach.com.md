@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604185613id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080352id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy statement discloses the privacy practices for   **a bcteach** , including the following sites: www.abcteach.com, members.abcteach.com, and www.flashcardexchange.com.
+This privacy statement discloses the privacy practices for **a bcteach**, including the following sites: www.abcteach.com, members.abcteach.com, and www.flashcardexchange.com.
 
 ## Information Collection and Use
 
-  **a bcteach**  is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way other than as is disclosed in this statement.   **a bcteach**  collects information from users at several different points on our web sites. Please note: we do not track any personally identifying information on the children who use our sites, other than the login name for the child that has been provided by the parent or teacher.
+**a bcteach** is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way other than as is disclosed in this statement. **a bcteach** collects information from users at several different points on our web sites. Please note: we do not track any personally identifying information on the children who use our sites, other than the login name for the child that has been provided by the parent or teacher.
 
 ## Registration
 
@@ -24,7 +24,7 @@ We use IP addresses to analyze trends, administer the site, track user movements
 
 ## Links
 
-This web site contains links to other sites. Please be aware that   **a bcteach**  is not responsible for the privacy practices of these sites. We encourage our users to read the privacy statements of web site that collects personally identifiable information. This privacy statement applies solely to information collected by   **a bcteach** .
+This web site contains links to other sites. Please be aware that **a bcteach** is not responsible for the privacy practices of these sites. We encourage our users to read the privacy statements of web site that collects personally identifiable information. This privacy statement applies solely to information collected by **a bcteach**.
 
 Please keep in mind that whenever you voluntarily disclose personal information on line - for example, through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties.
 
@@ -32,7 +32,7 @@ Ultimately, you are responsible for maintaining the secrecy of your personal inf
 
 ## Your Consent To This Agreement
 
-By using our web sites, you consent to the collection and use of information by   **a bcteach**  as specified above. If we make any changes to our privacy policy, we will post those changes on this page, so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+By using our web sites, you consent to the collection and use of information by **a bcteach** as specified above. If we make any changes to our privacy policy, we will post those changes on this page, so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
   
 | 
