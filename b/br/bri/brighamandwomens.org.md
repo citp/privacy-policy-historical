@@ -1,71 +1,79 @@
-> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205045503id_/http%3A//www.brighamandwomens.org/general/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605115551id_/http%3A//www.brighamandwomens.org/general/privacy.asp) for the most accurate reproduction.*
 
-# Brigham and Women's Hospital - General and Visitor Information
+# Privacy Policy
 
-At Brigham and Women's Hospital, we are committed to protecting the privacy and security of the users of our site. We understand that health is a very personal, private subject, and we are committed to protecting the privacy and security of visitors to our site. This Privacy Policy will tell you what information we collect, how it is used, and what your choices are. Please read this policy carefully. 
+At Brigham and Women's Hospital, we are committed to using all reasonable efforts to protect the privacy and security of the users of our site. We understand that health is a very personal, private subject. This Privacy Policy will tell you what information we collect, how it is used, and what your choices are. Please read this policy carefully.  **Changes will be posted here so please refer to this policy regularly** .
 
-  1. What personal information does Brigham and Women's Hospital collect?  
-
-  2. In what ways is the collected information used?  
-
-  3. Does Brigham and Women's Hospital use "cookies" to collect user information?  
-
-  4. Are there advertisements on Brigham and Women's web site?  
-
-  5. How does Brigham and Women's Hospital handles privacy internally?  
-
-  6. Which web pages and web sites does this policy apply to?  
-
-  7. Your Consent
+  1. Information You Provide to Us
+  2. Does Brigham and Women's Hospital use "cookies" to collect user information?
+  3. Are there advertisements on Brigham and Women's web site?
+  4. How does Brigham and Women's Hospital handles privacy internally?
+  5. Which web pages and web sites does this policy apply to?
+  6. Your Consent
+  7. Information for Reporting Claims of Copyright Infringement
 
 
 
-**1\. What personal information does Brigham and Women's Hospital collect?**
+**1.  Information You Provide to Us**
 
-You may use most of the Brigham and Women's site without providing any personal information. 
+You may use most of the Brigham and Women's site without providing any personal information, except as explained below.
 
-Sometimes we do need information to provide services that you request. 
+Sometimes we do need information to provide services that you request.  For example, you may be asked to provide personal information, such as demographic information, if you choose to complete any of the on-line forms used for class registration, special events and promotions, appointment requests, and to provide feedback.   Additional questions may be included to help us improve the services we offer.  Only designated  staff  within Partners will have access on a need to know basis to the information you provide _.  _
 
-Please do not provide personal information via email to the hospital unless it is through a secure channel. Remember that e-mail messages can be viewed by other Internet users while in transit. If you have individualized information to communicate, please use the appropriate secure on-line form or contact the necessary party using traditional means such as phone or mail. 
+Please do not provide personal information via email to the hospital unless it is through a secure channel (these will be marked, as secure on-line forms, for example). Remember that e-mail messages, while in transit, can be viewed by other Internet users. If you have individualized information to communicate, please use the appropriate secure on-line form or contact the necessary party using traditional means such as phone or mail.
 
-You may be asked to provide personal information, such as demographic information, if you choose to complete any of the on-line forms used for class registration, special events and promotions, appointment requests, and to provide feedback. The information required to complete the transaction is noted on the form. Additional questions may be included to help us improve the services we offer. If you prefer not to enter your personal information on the web site, you have the option of using our toll free number 
+If you wish to subscribe to our Health E-Newsletter, we collect and store first and last name and email address. This information is used for distribution purposes. You can unsubscribe to the e-newsletter at any time by clicking [here to unsubscribe.](https://www.brighamandwomens.org/forms/newsletter/newsletter_unregister.asp)
 
-If a user wishes to subscribe to our Health E-Newsletter, we collect and store first and last name and email address. This information is used strictly for distribution purposes. You can unsubscribe to the e-newsletter at any time by clicking [here to unsubscribe."](https://www.brighamandwomens.org/forms/newsletter/newsletter_unregister.asp)
+As explained below (see #3), we also collect and log the IP address (and identification number associated with your computer) when you visit the hospital’s web site.
 
-Only authorized Brigham and Women's staff who need the information you provide to perform a specific task have access to your information. All Brigham and Women's hospital are required to attend training on Privacy and Confidentiality. 
+BWH currently uses all reasonable efforts to protect against disclosure of personal information you provide on the Web, except if we need to process credit card information you have given us or as required by law. We have no current plans to make other disclosures of such information. If this changes, then we will post a revised on-line privacy policy. 
 
-Certain interactive patient transactions may be linked to this site as a convenience for you. If you choose to utilize a specific patient application, please be sure to read the privacy policy associated with that particular transaction. 
+Brigham and Women's Hospital may occasionally provide statistics to third parties related to the number of visitors who use the site. These statistics do not provide personally identifiable information.
 
-**2\. In what ways is the collected information used?**
+**2.Does Brigham and Women's Hospital use "cookies" or IP Addresses to collect user information?**
 
-BWH currently discloses personal information you provide on the Web only to process credit card information or as required by law, and has no current plans to make other disclosures of such information. We will notify you through this on-line policy if there are any changes. 
+Cookies are small pieces of information that some web sites store on your computer's hard drive when you visit them.   Like many other websites, brighamandwomens.org uses aggregate data compiled by cookies to provide us with information about traffic to our site.   Collecting this information does not allow us to personally identify you. Most web browsers automatically accept cookies, but you can set your browser to refuse them or to alert you when they are being sent. You may modify your web browsers to reject cookies from our site if you wish.You can access the information on the Brigham and Women's Hospital web site without having cookies enabled in your browser.
 
-Requested information on voluntary forms is used to provide the services that you request, such as registration for classes, mailing of publications, and so forth. 
+We collect and log the IP address (an identification number associated with your computer) of all visitors to brighamandwomens.org.  This allows us to administer our system to gather aggregate information about how our site is being used.  To maintain your privacy, we do not associate IP addresses with records containing personal health information.
 
-Brigham and Women's Hospital may occasionally provide statistics to third parties related to the number of visitors who use the site. These statistics do not provide personally identifiable information. 
+**3.Are there advertisements on Brigham and Women's web site?**
 
-**3\. Does Brigham and Women's Hospital use "cookies" to collect user information?**
+At present Brigham and Women's hospital **does not accept** advertisements on its Web Site
 
-"Cookies" are small computer files that a web site can transfer to your computer. Examples of information we collect include how often someone visits our site and their activities while on our site. We use this information in the aggregate to understand how our visitors as a group use different resources. These reports do not contain any personally identifiable information. 
+**4.How does Brigham and Women's Hospital handle privacy internally?**
 
-Most web browsers automatically accept cookies, but you can set your browser to refuse them or to alert you when they are being sent. 
+Brigham and Women's Hospital wants any personal information that you provide to us via this web site to remain as secure as possible. Accordingly, we use all reasonable efforts to prevent unauthorized access by a secure firewall and use of security infrastructure to protect the integrity and privacy of such personal information. As an additional security measure, your personal information is also encrypted during transmission by Secure Socket Layer 128-bit encryption software. (Encryption is a common method used to transmit sensitive data across the Internet. Encryption temporarily makes the text unreadable during the time it is being transmitted over the Internet.) Please note, that for encryption to work, your browser must be Netscape or Internet Explorer version 4.0 or higher, also encrypted. Not all versions of Netscape and Internet Explorer have 128-bit encryption capability; you will have to download the upgrade for that level of encryption.
 
-You can access the information on the Brigham and Women's Hospital web site without having cookies enabled in your browser. **4\. Are there advertisements on Brigham and Women's web site?**
+**5\. Which web pages and web sites does this policy apply to?**
 
-At present Brigham and Women's hospital **does not accept** advertisements on its Web Site 
+**This on-line Privacy Policy applies only to the Brigham and Women's Hospital Web site.** The Brigham and Women's Hospital site contains links to other sites, within and outside of Partners. Please be aware that this on-line policy does not apply to those sites. We encourage you to read the Privacy Policy on any other sites before providing them with personal information.
 
-**5\. How does Brigham and Women's Hospital handles privacy internally?**
+Certain interactive patient transactions may be linked to this site as a convenience for you. If you choose to utilize a specific patient application, please be sure to read the privacy policy associated with that particular transaction. Partners Patient Gateway, which offers patients secure electronic messaging to participating  Brigham and Women's Hospital practices, is an example of such a patient application.
 
-Brigham and Women's Hospital wants your personal information to remain as secure as possible. Accordingly, we prevent unauthorized access by a secure firewall and use of security infrastructure to protect the integrity and privacy of the personal information you provide to us. As an additional security measure, your personal information is also encrypted during transmission by Secure Socket Layer 128-bit encryption software. (Encryption is a common method used to transmit sensitive data across the internet. Encryption temporarily makes the text unreadable during the time it is being transmitted over the internet.) Please note, that for encryption to work, your browser must be Netscape or Internet Explorer version 4.0 or higher. also encrypted. (Encryption is a common method used to transmit sensitive data across the internet. Encryption temporarily makes the text unreadable during the time it is being transmitted over the internet.) Please note, that for encryption to work, your browser must be Netscape or Internet Explorer version 4.0 or higher. 
+Please note that the [Partners Privacy Notice](http://www.brighamandwomens.org/family/privacynoticesall.asp) more generally explains the hospital’s and Partners’ commitment to protect the privacy of personal health information. 
 
-**6\. Which web pages and web sites does this policy apply to?**
+**6. Your Consent.**
 
-This Privacy Policy applies only to the Brigham and Women's Hospital Web site. The Brigham and Women's Hospital site does contain links to other sites. Please be aware that this policy does not apply to sites that Brigham and Women's only links to. We encourage you to read the Privacy Policy's on any other sites before providing them with personal information. 
+By using the Brigham and Women's Web site, you agree to accept this Privacy Policy and its terms. We may occasionally need to make changes to our Privacy Policy to reflect changes in our site and address new issues.
 
-**7\. Your Consent.**
+**7.  Information for Reporting Claims of Copyright Infringement**
 
-By using the Brigham and Women's Web site, you agree to acceptance of this Privacy Policy. We may occasionally need to make changes to our Privacy Policy, to reflect changes in our site and address new issues. Changes will be posted here, so please refer to this policy regularly. 
+In accordance with the Digital Millennium Copyright Act, 17 U.S.C. § 512 (the “DCMA”) The Brigham and Women's Hospitals. INC. (“Brigham and Women's Hospital”) is registered as a Service Provider with the United States Copyright Office.  Notifications of copyright infringement claims occurring on Brigham and Women's Hospital network should be reported to our designated agent, as follows:
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [ https://www.brighamandwomens.org/forms/contactus.asp](https://www.brighamandwomens.org/forms/contactus.asp). 
+Robert Pappagianopoulos  
+            Partners Healthcare System, Inc.  
+            One Constitution Center, 2nd floor   
+            Charlestown, MA 02129  
+            Email: dmca-agent@partners.org
 
-Revised: February 2002 
+Any such notice must be in writing, and must include the following information as required by the DMCA:
+
+·         A physical or electronic signature of the copyright owner or the person               authorized to act on its behalf  
+·         A description of the copyrighted work claimed to have been infringed;  
+·         A description of the infringing material and information reasonably sufficient to          permit Brigham and Women's Hospital ** ** to locate the material;  
+·         Your contact information, including your address, telephone number, and email;  
+·         A statement by you that you have a good faith belief that use of the material in the  manner complained of is not authorized by the copyright owner, its agent, or the law; and  
+  ·         A statement that the information in the notification is accurate, and, under the pains and penalties of perjury, that you are authorized to act on behalf of the copyright owner.  
+               
+
+If you have any questions or concerns about our Privacy Policy, please contact us at <https://www.brighamandwomens.org/forms/contactus.asp>.
