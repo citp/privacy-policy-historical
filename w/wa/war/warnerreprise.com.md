@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the warnerreprise.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201170801id_/http%3A//www.wbr.com/cmp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnerreprise.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407180313id_/http%3A//www.wbr.com/cmp/privacy.html) for the most accurate reproduction.*
 
 # Warner Bros. Records - Email Privacy Information
 
-Thank you for visiting wbr.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](https://web.archive.org/web/20021201170801id_/http%3A//www.wbr.com/cmp/businesses.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice.
+Thank you for visiting wbr.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](https://web.archive.org/web/20030407180313id_/http%3A//www.wbr.com/cmp/businesses.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice.
 
 ### **The Information We Collect  
 **
@@ -39,9 +39,9 @@ Agents and contractors of Time Warner who have access to personally identifiable
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
-Certain Time Warner sites may disclose personally identifiable information to companies not owned by Time Warner (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](https://web.archive.org/web/20021201170801id_/http%3A//www.wbr.com/cmp/disclose.html)
+Certain Time Warner sites may disclose personally identifiable information to companies not owned by Time Warner (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](https://web.archive.org/web/20030407180313id_/http%3A//www.wbr.com/cmp/disclose.html)
 
-Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20021201170801id_/http%3A//www.wbr.com/cmp/marketing.html) for instructions on how to make your request. Please be sure to include your name and email with your request.
+Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20030407180313id_/http%3A//www.wbr.com/cmp/marketing.html) for instructions on how to make your request. Please be sure to include your name and email with your request.
 
 Finally, Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -53,7 +53,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Time Warner has no control over these third parties? use of this information. The Time Warner site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20021201170801id_/http%3A//www.wbr.com/cmp/thirdparty.html).  
+Some Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20030407180313id_/http%3A//www.wbr.com/cmp/thirdparty.html).  
 **  
 **
 
@@ -76,7 +76,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 ### How You can Access or Correct Information  
 
 
-For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20021201170801id_/http%3A//www.wbr.com/cmp/personal.html).
+For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20030407180313id_/http%3A//www.wbr.com/cmp/personal.html).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
@@ -89,6 +89,6 @@ The site you are visiting is one of the Time Warner general audience sites. For 
 
 
   
-If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at [privacy@wmg.com](https://web.archive.org/web/20021201170801id_/http%3A//www.wbr.com/cmp/privacy@wmg.com)  
+If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at [privacy@wmg.com](https://web.archive.org/web/20030407180313id_/http%3A//www.wbr.com/cmp/privacy@wmg.com)  
 **  
 **
