@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204045753id_/http%3A//wdrb.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403211921id_/http%3A//wdrb.com/privacy.asp) for the most accurate reproduction.*
 
 # Fox41.com Privacy Policy Statement
 
@@ -39,7 +39,7 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
 
-If you send us email through any form on our site, that email may be posted on our site and may be edited. If you do not want your email to us to be posted on our site, please let us know by writing to us at the above address, visiting us at [http://www.fox41.com/optout.asp](https://web.archive.org/web/20041204045753id_/http%3A//wdrb.com/optout.asp) or Sending an email to [Opt Out Request](mailto:optout@fox41feedback.com) .
+If you send us email through any form on our site, that email may be posted on our site and may be edited. If you do not want your email to us to be posted on our site, please let us know by writing to us at the above address, visiting us at [http://www.fox41.com/optout.asp](https://web.archive.org/web/20050403211921id_/http%3A//wdrb.com/optout.asp) or Sending an email to [Opt Out Request](mailto:optout@fox41feedback.com) .
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
