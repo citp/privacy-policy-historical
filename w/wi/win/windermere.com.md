@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windermere.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202164305id_/http%3A//windermere.com/index.cfm%3Ffuseaction%3Dabout.legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windermere.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603074247id_/http%3A//windermere.com/index.cfm%3Ffuseaction%3Dabout.legal%23privacy) for the most accurate reproduction.*
 
 # Windermere Real Estate
 
