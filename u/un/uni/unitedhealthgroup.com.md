@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the unitedhealthgroup.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/global/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedhealthgroup.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/global/privacy.htm) for the most accurate reproduction.*
 
 # UnitedHealth Group [ Privacy Policy ]
 
 |  |   
 ---  
-[](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/index.htm)  
-[](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/about/index_about.htm)  
-[](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/invest/index_invest.htm)  
-[](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/news/index_news.htm)  
-[](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/careers/index_careers.htm)  
+[](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/index.htm)  
+[](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/about/index_about.htm)  
+[](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/invest/index_invest.htm)  
+[](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/news/index_news.htm)  
+[](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/careers/index_careers.htm)  
 ---  
-[](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/about/bus.htm)  
-|  [UnitedHealthcare](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/about/bus_uhcare.htm)  
-[Ovations](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/about/bus_ovations.htm)  
-[Uniprise](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/about/bus_uniprise.htm)  
-[Specialized Care Services](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/about/bus_specialized.htm)  
-[Ingenix](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/about/bus_ingenix.htm)  
-[UnitedHealth Capital](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/about/bus_uhcapital.htm)  
-|  Looking for a [product or service](https://web.archive.org/web/20020609064217id_/http%3A//www.unitedhealthgroup.com/global/prodserv.htm)?   
+[](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/about/bus.htm)  
+|  [UnitedHealthcare](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/about/bus_uhcare.htm)  
+[Ovations](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/about/bus_ovations.htm)  
+[Uniprise](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/about/bus_uniprise.htm)  
+[Specialized Care Services](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/about/bus_specialized.htm)  
+[Ingenix](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/about/bus_ingenix.htm)  
+[UnitedHealth Capital](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/about/bus_uhcapital.htm)  
+|  Looking for a [product or service](https://web.archive.org/web/20021211030503id_/http%3A//www.unitedhealthgroup.com/global/prodserv.htm)?   
 |   
 |    
 
