@@ -25,3 +25,27 @@ last update: 19970114
 
 
 `
+Security and Privacy Notice
+
+  1. The U.S. Army Homepage is provided as a public service by the [Office of the Director of Information Systems for Command, Control, Communication, and Computers](https://web.archive.org/disc4/default.htm) and the U.S. Army Information Integration and Analysis Center.
+  2. Information presented on The U.S. Army Homepage is considered public information and may be distributed or copied for non-commercial purposes. Use of appropriate byline/photo/image credits is requested.
+  3. For site management, [information is collected](https://web.archive.org/web/19990428012603id_/http%3A//www.army.mil/cfdocs/security.cfm).
+  4. This government computer system uses software programs to create summary statistics, which are used for website planning and maintenance, determining technical design specifications, and analyzing system performance.
+  5. For security purposes, and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic, to identify unauthorized attempts to upload or change information, to cause damage, or to deny service to authorized users.
+  6. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Server logs are scheduled for regular destruction in accordance with National Archives and Records Administration [General Schedule 20](http://gopher.nara.gov:70/0/managers/federal/grsfr.txt).
+  7. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+
+
+
+  
+[What information](https://web.archive.org/web/19990428012603id_/http%3A//www.army.mil/cfdocs/security.cfm) is collected about my visit? 
+
+` `
+
+` [to u.s. army homepage](https://web.archive.org/web/19990428012603id_/http%3A//www.army.mil/default.htm)  
+[questions](https://web.archive.org/web/19990428012603id_/http%3A//www.army.mil/faq4.htm)  
+[security & privacy notice](https://web.archive.org/web/19990428012603id_/http%3A//www.army.mil/security.htm)  
+last updated: Wednesday, October 15, 1997  
+`
+
+` `
