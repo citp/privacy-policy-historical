@@ -1,50 +1,77 @@
-> *The following text is extracted and transformed from the autotrader.ca privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205112320id_/http%3A//autotrader.ca/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.ca privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205151946id_/http%3A//www.autotrader.ca/privacy/privacy.asp) for the most accurate reproduction.*
 
 # AutoTrader.ca
 
-  
+  |    
 
 
 ### Privacy Statement for AutoTrader.ca
 
-Trader Media Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **AutoTrader.ca**. 
+**About Us**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your membership and to gather broad demographic information. 
+This is a privacy policy for Trader Media Corporation. Our homepage on the Web is located at [ http://www.AutoTrader.ca/](http://www.trader.ca/Default.asp). The full text of our privacy policy is available on the Web at [ http://www.AutoTrader.ca/privacy/](http://www.trader.ca/privacy/default.asp)
 
-Our site uses cookies to keep track of your membership tools and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. We also provide an option to log out should you be using an insecure or publicly shared computer. Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their postal code, age, or income level). We use the customer contact information from the registration form to send the user information that they have requested from the member tools area of the site. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+    
+    
+    Trader Media Corp.
+    23 Apex Rd.
+    Toronto, ON M6A 2V6 
+    Canada
+    
 
-This site contains links to other sites. **AutoTrader.ca** is not responsible for the privacy practices or the content of such Web sites. 
+You may contact us by e-mail at [ Privacy@trader.ca](mailto:privacy@trader.ca). 
 
-We link to **CanadaTrader.com** to provide you with a national search solution. This site does share some affiliation with **AutoTrader.ca**. However, we cannot be held responsible for the privacy practice or the content of this Web site. Please ensure that you review the privacy policies of the sites you visit. We also link to other sites to provide you with resources that are designed to assist and inform you on the buying and selling aspects of a vehicle. Again, AutoTrader.ca cannot be held responsible for privacy practices or the content of such Web sites. 
+  **Dispute Resolution and Privacy Seals**
 
-Our site uses an ad form for customers to place online ads. We collect visitor's financial information (like their account or credit card numbers). Financial information that is collected is used to bill the user for products and services. In addition, we do not store this information beyond the immediate transaction. Further ensuring your privacy and protection. Our online surveys ask visitors for contact information (like their email address) and demographic information (like their postal code, age, or income level). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+  * **Dispute** : We welcome your comments regarding the AutoTrader.ca privacy policy. If you believe that we have not adhered to this policy, please contact AutoTrader.ca by e-mail [Privacy@trader.ca](mailto:privacy@trader.ca). We will use commercially reasonable efforts to promptly investigate, and if necessary, remedy the problem. 
 
-**Security**
+**Data Collection**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
 
-**Choice/Opt-Out**
+* * *
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+**Group "Basic information"**
 
-You can send email to [webmaster@trader.ca](mailto:webmaster@trader.ca)  
-You can call the following telephone number: (416) 789-3311 ext. 3244 
+We collect the following information: 
 
-**Correct/Update**
+  * Information generated by browsing the web site, such as which pages are visited, the order in which the pages are visited by each site user, and how long the user stays on each page. 
+  * Information generated from explicit interactions with the web site, such as queries to our search engine, or logs of registered members' account activity. 
+  * Information that allows an individual to be contacted, such as a telephone number or e-mail address, when provided by that individual. 
+  * The words contained in the body of a communication. For example, the text of an e-mail message.
+  * Information about the computer system that the individual is using to access the Internet, such as the IP number, domain name, browser type, or operating system. 
 
-This site gives users the following options for changing and modifying information previously provided. 
 
-email [webmaster@trader.ca](mailto:webmaster@trader.ca)   
-visit [www.AutoTrader.ca](http://www.autotrader.ca/)   
-call the following telephone number: (416) 789-3311 ext. 3244 
 
-**Contacting the Web Site**
+This data will be used for the following purposes:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+  * Information may be used by the Web site to complete the activity for which it was provided, whether the activity is a one-time event, such as returning the results from a search, or forwarding an e-mail message; or a recurring event, such as providing a subscription service or allowing access to saved searches or a scrapbook. 
+  * Information may be used for the technical support of the Web site and its computer system. For example, to allow site administrators and developers to continually improve the web site's performance and functionality, to secure and maintain the site, or to verify the Web site activity. 
+  * Information may be used for research, analysis, and reporting. For example, data about the types of vehicle searches users have conducted. 
+  * Information may be used to contact an individual, for the completion of a transaction initiated by that individual on the Web site.
 
-The Webmaster  
-Trader Media Corporation  
-15 Apex Road Toronto  
-Ontario, M6A 2V6  
-CANADA  
-[webmaster@trader.ca](mailto:webmaster@trader.ca)
+
+
+This data will be used by ourselves and our agents. 
+
+* * *
+
+**Group "Cookies"**
+
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+
+At the user's option, we will collect HTTP cookies. 
+
+Cookies are used for the following purposes: 
+
+  * Providing additional functionality to registered members of MyAutoTrader 
+  * Research regarding logged-in MyAutoTrader members' activities on the site, with the goal of continually improving the functionality and usability of the site.
+
+
+
+This data will be used by ourselves and our agents. 
+
+* * *
+
+| 
