@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621164056id_/http%3A//www.vmware.com/vmwarestore/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210110459id_/http%3A//www.vmware.com/vmwarestore/privacy.html) for the most accurate reproduction.*
 
 # VMware's Privacy Policy
 
-|  |   | VMware Store Policies  
-[Overview](https://web.archive.org/vmwarestore/storepolicy.html)  |  [Secure Transactions](https://web.archive.org/vmwarestore/safety.html)  |  **Privacy** **Our postal address is:**   
-3145 Porter Drive  
-Palo Alto, CA 94304 **You can reach us by:**  
-Phone: 1-877-4VMWARE (650-475-5000 outside the U.S.)  
-Email: [sales@vmware.com](mailto:sales@vmware.com) This privacy policy will let you know 
+  | 
+
+VMware Store Policies  
+[Returns](https://web.archive.org/vmwarestore/storepolicy.html)  |  [Secure Transactions](https://web.archive.org/vmwarestore/safety.html)  |  **Privacy** VMware Privacy Policy
 
   * What personal information is collected from you
   * What cookies are and how they are used
@@ -19,7 +17,7 @@ Email: [sales@vmware.com](mailto:sales@vmware.com) This privacy policy will let 
   * About privacy on VMware's newgroups
   * Changes to this privacy policy
 
-**What personal information does VMware collect from me?**  
+**What personal information does VMware collect?**  
 Personal information is information that can be used to identify or contact a specific individual, such as a name, address, telephone number or e-mail address. VMware collects personal information in several ways from different parts of our Web site. On our Web site, you can order products or services, access support services, download evaluation products, request information or register VMware products. In connection with these and other uses of our Web site, VMware may collect your personal information, such as contact information and financial information. If you contact VMware we may keep a record of that correspondence. Please be aware that our Web site may contain links to VMware partner or other Web sites. Those Web sites may collect personally identifiable information about you. VMware is not responsible for the privacy practices or content of those Web sites. **What are cookies and how does VMware use them?**  
 VMware uses [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All areas of the VMware site where you are prompted to log in or that are customizable require that you accept cookies. (See "What are my choices regarding collection, use and distribution of my information?" for more information on cookies.) Generally, we use cookies to: 
 
@@ -33,5 +31,9 @@ VMware may, from time to time, send you email regarding our products and service
 You may edit your [VMware account information](https://www.vmware.com/vmwarestore/newstore/login.jsp) at any time by using your VMware ID and password. If you have forgotten your password, please [click here to retrieve your password](https://www.vmware.com/vmwarestore/newstore/forgot_password.jsp). **How does VMware protect my information?**  
 Keeping your information private is very important to us. Please note that there are several places on the VMware Web site where you can transmit credit card information in order to complete a purchase transaction or for verification purposes. By default, any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. If you are not able to use SSL encryption, VMware offers you the option of providing this information in other ways, including by fax and over a non-secure Web connection. **How can I protect my privacy on the VMware newsgroups?**  
 VMware makes [newsgroups](https://web.archive.org/support/using/newsgroups.html) available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. VMware may, from time to time, send email regarding our products and services to users who have posted to our newsgroups. Each participant's opinion expressed in a newsgroup is his or her own and should not be considered as reflecting the opinion of VMware. **Can this privacy policy change?**  
-VMware may revise this privacy policy. This privacy policy was last updated on February 4, 2003. If there are updates to the terms of this privacy policy, we will post the revised policy and update the revision date in this paragraph. For material changes to this privacy policy, VMware will provide notification to affected customers. Please review this policy periodically to be apprised of any updates.   
+VMware may revise this privacy policy. This privacy policy was last updated on February 4, 2003. If there are updates to the terms of this privacy policy, we will post the revised policy and update the revision date in this paragraph. For material changes to this privacy policy, VMware will provide notification to affected customers. Please review this policy periodically to be apprised of any updates. 
+    
+    
+      
+  
 ---|---
