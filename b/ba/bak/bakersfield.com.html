@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bakersfield.com privacy policy that was archived on 2002-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206161548id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bakersfield.com privacy policy that was archived on 2003-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604064321id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>bakersfield.com - Privacy Policy</title>
@@ -30,6 +30,88 @@ a:hover {  text-decoration: none}
 .searchinput{font-size:10px}
 -->
 </style>
+<script language="JavaScript">
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+var expDays = 1; // number of days the cookie should last
+
+var page = "http://www.bakersfield.com/help/pop.htm";
+var windowprops = "width=300,height=404,location=no,toolbar=no,menubar=no,scrollbars=no,resizable=yes";
+
+function GetCookie (name) {  
+var arg = name + "=";  
+var alen = arg.length;  
+var clen = document.cookie.length;  
+var i = 0;  
+while (i < clen) {    
+var j = i + alen;    
+if (document.cookie.substring(i, j) == arg)      
+return getCookieVal (j);    
+i = document.cookie.indexOf(" ", i) + 1;    
+if (i == 0) break;   
+}  
+return null;
+}
+function SetCookie (name, value) {  
+var argv = SetCookie.arguments;  
+var argc = SetCookie.arguments.length;  
+var expires = (argc > 2) ? argv[2] : null;  
+var path = (argc > 3) ? argv[3] : null;  
+var domain = (argc > 4) ? argv[4] : null;  
+var secure = (argc > 5) ? argv[5] : false;  
+document.cookie = name + "=" + escape (value) + 
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+((path == null) ? "" : ("; path=" + path)) +  
+((domain == null) ? "" : ("; domain=" + domain)) +    
+((secure == true) ? "; secure" : "");
+}
+function DeleteCookie (name) {  
+var exp = new Date();  
+exp.setTime (exp.getTime() - 1);  
+var cval = GetCookie (name);  
+document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+function amt(){
+var count = GetCookie('count')
+if(count == null) {
+SetCookie('count','1')
+return 1
+}
+else {
+var newcount = parseInt(count) + 1;
+DeleteCookie('count')
+SetCookie('count',newcount,exp)
+return count
+   }
+}
+function getCookieVal(offset) {
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)
+endstr = document.cookie.length;
+return unescape(document.cookie.substring(offset, endstr));
+}
+
+function checkCount() {
+var count = GetCookie('mycount');
+if (count == null) {
+count=1;
+SetCookie('mycount', count, exp);
+
+window.open(page, "", windowprops);
+
+}
+else {
+count++;
+SetCookie('mycount', count, exp);
+   }
+}
+//  End -->
+</script>
 
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#2D62A2" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -56,8 +138,8 @@ a:hover {  text-decoration: none}
             Home</a> | <a href="/local/">Local</a> | <a href="/business/">Business</a> 
             | <a href="/sports/">Sports</a> | <a href="/entertainment/">Entertainment</a> 
             | <a href="/features/">Features</a> | <a href="/opinion/">Opinion</a> 
-            | <a href="/columnist/">Columnists</a> | <a href="/religion/">Religion</a></td>
-          <td class="subnav"><img src="/static/images/news/1by1.gif" width="20" height="20"></td>
+            | <a href="/columnist/">Columnists</a> | <a href="/religion/">Religion</a> | <a href="http://www.bakersfield.com/help/why_register.asp">Registration</a><!--</td-->
+          </td><td class="subnav"><img src="/static/images/news/1by1.gif" width="20" height="20"></td>
         </tr>
       </tbody></table>
     </td>
@@ -84,7 +166,7 @@ function getDisplayMonth(iMonth) {
     // pass in an month as an integer
     // return the month string
 
-    var monthArray = new Array("January","Febuary","March","April","May","June","July","August","September","October","November","December");
+    var monthArray = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
 
     return monthArray[iMonth];
 }
@@ -137,9 +219,9 @@ document.writeln(getDisplayDate(now));
     <td class="small"> 
       <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td><img src="/static/includes/weather/11s.gif" border="0" height="20" alt="Weather Icon">
+<td><img src="/static/includes/weather/33s.gif" border="0" height="20" alt="Weather Icon">
 </td>
-<td class="weather" nowrap=""><b class="weather">L/FOG 40°F</b></td>
+<td class="weather" nowrap=""><b class="weather">CLEAR 83°F</b></td>
 </tr>
 </tbody></table>
 
@@ -173,9 +255,10 @@ document.writeln(getDisplayDate(now));
       <form method="GET" action="/dwb_search/index.html">
         <input class="searchinput" type="text" name="target" value="">
         <select class="searchbox" name="collection">
-          <option value="Current">Current 
-          </option><option value="Archive">Archive 
-        </option></select>
+          <option value="Current;Archive">All</option>
+          <option value="Current">Current</option>
+          <option value="Archive">Archive</option>
+        </select>
         <input value="Search" class="searchbutton" type="submit"></form>
     </td>
   </tr>
@@ -197,19 +280,14 @@ document.writeln(getDisplayDate(now));
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody><tr> 
     <td class="small"> 
-      <p class="small"><b><a href="http://discussion.bakersfield.com">Discussion</a></b> 
-        <br>
-        Participate in online discussions with other bakersfield.com users. 
-      </p><p class="small"><b><a href="http://chat.bakersfield.com">Chat</a></b> <br>
-        Participate in online chats with other bakersfield.com users. 
-      </p><p class="small"><b><a href="http://www.bakersfield.net/maillist/">Newsletters</a></b> 
+      <p class="small"><b><a href="http://www.bakersfield.net/maillist/">Newsletters</a></b> 
         <br>
         Stay up-to-date on local news and entertainment by getting newsletters 
         sent to your email. 
 	</p><p class="small"><b><a href="http://www.bakersfield.com/soundoff">Sound 
         Off </a></b><br>
         Share your criticisms, compliments or questions about news coverage. Questions are answered by Executive Editor Mike Jenner.<br>
-      </p><p><iframe src="http://www.bakersfield.net/minisurvey/vote.asp?ID=499" width="175" height="350" marginwidth="0" marginheight="0" scrolling="auto" frameborder="0">
+      </p><p><iframe src="http://www.bakersfield.net/minisurvey/vote.asp?ID=679" width="175" height="350" marginwidth="0" marginheight="0" scrolling="auto" frameborder="0">
         </iframe> 
     </p></td></tr>
 </tbody></table> 
@@ -284,7 +362,7 @@ document.writeln(getDisplayDate(now));
     basis only, based on the preferences you have specified with bakersfield.com. 
   </li>
 </ul>
-<p><b>Children/direct notice to parents</b><br>
+<p><b><a name="underage"></a>Children/direct notice to parents</b><br>
 </p>
 <p>Bakersfield.com will not knowingly collect any personal information from individuals 
   under 13 years of age without parental consent. Where appropriate, bakersfield.com 
@@ -470,7 +548,7 @@ document.writeln(getDisplayDate(now));
       <span align="center" class="smallcontent"><!-- Component: Bakersfield:component/:copyright -->
 <a href="http://www.nandomedia.com"><img align="right" src="http://bakersfield-proxy.nandomedia.com/static/images/poweredbywhite.gif" width="90" height="32" border="0" alt="powered by Nando Media"></a>
 
-Copyright © 2002, <a href="http://www.bakersfield.com/help/whoweare.html">The Bakersfield Californian</a> | <a href="mailto:webmaster@bakersfield.com">Email the Webmaster</a><br> <a href="/privacy/">Privacy Policy Statement</a> | <a href="/terms/">Terms of Use</a><p style="font-size: 1px; color: white;"><a href="http://www.lightspeedsystems.com"><font color="#FFFFFF">Lightspeed Systems</font></a></p>     </span><br>
+Copyright © 2003, <a href="http://www.bakersfield.com/help/whoweare.html">The Bakersfield Californian</a> | <a href="mailto:webmaster@bakersfield.com">Email the Webmaster</a><br> <a href="/privacy/">Privacy Policy Statement</a> | <a href="/terms/">Terms of Use</a><p style="font-size: 1px; color: white;"><a href="http://www.lightspeedsystems.com"><font color="#FFFFFF">Lightspeed Systems</font></a></p>     </span><br>
     </td>
     <td bgcolor="#E8EDF0" valign="top"><!-- Component: Bakersfield:component/Ads/:defaultnews -->
 <p>        
