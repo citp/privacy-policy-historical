@@ -1,0 +1,313 @@
+<!--The following is the downloaded HTML source of the roguefcu.org privacy policy that was archived on 2004-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610035902id_/http%3A//www.roguefcu.org/ASP/privacy.asp) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+function display_secureform(pagename) {
+	myWindow = window.open(pagename, "Secure_Server", "toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=no,copyhistory=0,width=500,height=375");
+}
+function display_printform(pagename) {
+	myWindow = window.open(pagename, "Secure_Server", "toolbar=1,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=yes,copyhistory=0,width=640,height=420");
+}
+</script>
+
+
+
+
+<title>Privacy Policy</title>
+<meta name="Microsoft Theme" content="rogue-fi 010, default">
+<meta name="Microsoft Border" content="tb, default">
+</head>
+
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF" text="#000000" link="#007EA1" vlink="#00896C" alink="#81C5B7"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><!--mstheme--><font face="arial, Arial, Helvetica">
+
+<!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td width="100%"><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" background="../images/stretch.gif" width="100%">
+      <tbody><tr>
+        <td><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica"><a href="home.asp"><img src="../images/logo.gif" alt="Rogue Federal Credit Union" border="0" width="150" height="79"></a><!--mstheme--></font></td>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="image.asp"><!--mstheme--></font></td>
+            <td width="100%"><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font></td>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/tagline.gif" width="228" height="79"><!--mstheme--></font></td>
+          </tr>
+        </tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+        <!--mstheme--></font></td>
+      </tr>
+    </tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+    <!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" bgcolor="#007EA1" width="100%">
+      <tbody><tr>
+        <td><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+            <td bgcolor="#00896C" nowrap="" valign="middle" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="1" color="#FFFFFF"><strong>Today
+            is</strong></font><font size="3" color="#FFFFFF"> </font><font size="1" color="#FFFFFF"><strong><script language="Javascript">
+		function makearray(n) {
+			this.length = n
+			for (var i = 1; i <= n; i++) {
+				this[i] = null;
+		}
+		return this;
+		}
+		function IsIn(value,search) {
+			if(search.indexOf(value) != -1) {
+			  return 1;
+		 } else {
+				return 0;
+		   }
+		}
+		
+		function LeadZero(value) {
+			if ( value < 10) 
+			  document.write('0');
+		}
+		 var operators = 'dDmMyY%';
+		var value = '';
+		
+		var format = '%B %d, %Y';
+		var twoplace = 0;	// if 1 then use leading zeros
+		var today = new Date();
+		
+		// get the numbers 
+		weekday = today.getDay();
+		month = today.getMonth();
+		year=today.getYear();
+		date = today.getDate();
+		var days = new makearray(7);
+		days[0] = 'Sunday';
+		days[1] = 'Monday';
+		days[2] = 'Tuesday';
+		days[3] = 'Wednesday';
+		days[4] = 'Thursday';
+		days[5] = 'Friday';
+		days[6] = 'Saturday';
+		var months = new makearray(12);
+		months[0] = 'January';
+		months[1] = 'February';
+		months[2] = 'March';
+		months[3] = 'April';
+		months[4] = 'May';
+		months[5] = 'June';
+		months[6] = 'July';
+		months[7] = 'August';
+		months[8] = 'September';
+		months[9] = 'October';
+		months[10] = 'November';
+		months[11] = 'December';
+		var pos = 0;
+		while (pos < format.length) {
+			if( format.substring(pos,pos+1) != '%') 
+			{
+				document.write(format.substring(pos,pos+1));
+				pos++;
+				continue;
+			} else {
+				if (!IsIn(format.substring(pos,pos+1), operators))		{			document.write(format.substring(pos,pos+1));
+					pos++;
+					continue;
+				} else {
+					if ( format.substring(pos,pos+1) == '%') 			{
+						pos++; // look ahead
+						if (format.substring(pos,pos+1) == '%') 
+						{
+							document.write('%');
+							pos++;
+							continue;
+						} else {
+						if (format.substring(pos,pos+1) == 'd') 
+						{
+							if(twoplace) LeadZero(date);
+							document.write(date);
+							pos++;
+							continue;
+						} else {				if (format.substring(pos,pos+1) == 'A') 
+						{					document.write(days[weekday]);
+							pos++;
+							continue;
+						} else {
+						if (format.substring(pos,pos+1) == 'a') 
+						{
+							document.write(days[weekday].substring(0,3));
+							pos++;
+							continue;
+						} else {
+						if (format.substring(pos,pos+1) == 'm') 
+						{
+							if(twoplace) LeadZero(month+1);
+							document.write(month+1);
+							pos++;
+							continue;
+						} else {
+						if (format.substring(pos,pos+1) == 'B') 
+						{
+							document.write(months[month]);
+							pos++;
+							continue;
+						} else {
+						if (format.substring(pos,pos+1) == 'b') 
+						{					document.write(months[month].substring(0,3));
+							pos++;
+							continue;
+						} else {
+						if (format.substring(pos,pos+1) == 'y') 
+						{
+							document.write(year);
+							pos++;
+							continue;
+						} else {
+						if (format.substring(pos,pos+1) == 'Y') 
+						{
+						currentBrowser = navigator.userAgent;
+							if (currentBrowser.indexOf("MSIE") >= 0) {
+								document.write(year);
+							}
+							else {
+								document.write(1900 + year);
+							}
+							pos++;
+							continue;
+						} 
+			   pos++; // ignore the char 
+				}
+		} } } } } } } } } } }
+		</script>February 19, 2020</strong></font><br>
+            <img src="../images/spacer.gif" width="150" height="6" border="0"><!--mstheme--></font></td>
+            <td><!--mstheme--><font face="arial, Arial, Helvetica"><map name="FrontPageMap"><area shape="RECT" coords="286, 2, 345, 16" href="loan.asp"><area shape="RECT" coords="205, 0, 282, 15" href="contact.asp"><area shape="RECT" coords="139, 0, 205, 16" href="../calculat.htm"><area shape="RECT" coords="42, 0, 136, 16" href="https://s18.lanxtra.com/internet/vlogin.html" target="_blank"><area shape="RECT" coords="0, 0, 39, 15" href="rates.asp"></map><a href="../_vti_bin/shtml.dll/ASP/privacy.asp/map"><img src="../images/links.gif" border="0" ismap="" width="372" height="17" usemap="#FrontPageMap"></a><!--mstheme--></font></td>
+            <td width="100%"><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font></td>
+            <td valign="bottom"><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/curve.gif" width="103" height="24"><!--mstheme--></font></td>
+          </tr>
+        </tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+        <!--mstheme--></font></td>
+      </tr>
+    </tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+    <!--mstheme--></font></td>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td><!--mstheme--><font face="arial, Arial, Helvetica"><a href="javascript:;" onclick="javascript:window.open('/secure.htm','SecureSite','height=200,width=400,location=no,menus=no,status=no,toolbars=no');"><img src="../images/IBanking.gif" border="0" width="150" height="16"></a><!--mstheme--></font></td>
+      </tr>
+      <tr>
+        <td><!--mstheme--><font face="arial, Arial, Helvetica"></font><form id="iblogin" name="iblogin" action="https://s18.lanxtra.com/servlet/Teller" method="post" style="margin: 0px; padding: 0px;" target="ib" onsubmit="window.open('','ib','');"><font face="arial, Arial, Helvetica">
+          <input type="hidden" name="request" value="1"><input type="hidden" name="requestType" value="vhtml"><input type="hidden" name="skinId" value="2"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td><!--mstheme--><font face="arial, Arial, Helvetica"><input type="text" size="20" name="memberNumber" value="Member Number" onfocus="this.value='';" style="margin: 2px; padding: 1px; font-family:Arial; font-size: 11px; height: 16px; border: 1px solid #007ea1; background: #ffffff; color: #000000;"><!--mstheme--></font></td>
+            </tr>
+            <tr>
+              <td><!--mstheme--><font face="arial, Arial, Helvetica"><input type="password" size="20" name="pinNumber" value="12345678" onfocus="this.value='';" style="margin: 2px; padding: 1px; font-family:Arial; font-size: 11px; height: 16px; border: 1px solid #007ea1; background: #ffffff; color: #000000;"><!--mstheme--></font></td>
+            </tr>
+          </tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+        
+        <!--mstheme--></font></form></td>
+      </tr>
+      <tr>
+        <td><!--mstheme--><font face="arial, Arial, Helvetica"><map name="FrontPageMap1"><area shape="RECT" coords="0, 0, 148, 12" href="javascript:document.forms.iblogin.submit();document.forms.iblogin.reset();"><area shape="RECT" coords="3, 12, 81, 37" href="https://s18.lanxtra.com/internet/register.html" target="_blank"><area shape="RECT" coords="85, 11, 148, 37" href="https://s18.lanxtra.com/internet/bplogin.html" target="_blank"></map><a href="../_vti_bin/shtml.dll/ASP/privacy.asp/map1"><img src="../images/Login.gif" border="0" ismap="" width="150" height="38" usemap="#FrontPageMap1"></a><!--mstheme--></font></td>
+      </tr>
+    </tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+    <!--mstheme--></font></td>
+  </tr>
+</tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+
+<!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td bgcolor="#007EA1" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="5" height="5"><!--mstheme--></font></td>
+    <td width="100%" colspan="2"><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font></td>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font></td>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font></td>
+  </tr>
+  <tr>
+    <td bgcolor="#007EA1" align="center"><!--mstheme--><font face="arial, Arial, Helvetica"><table><tbody><tr><td><font face="arial, Arial, Helvetica"></font></td><td><form style="margin:0px;padding:0px;" action="/ASP/search.asp" method="get"><input src="/images/search.gif" name="I1" type="image" border="0" width="42" height="14"></form></td><td valign="top"><input type="text" name="qu" size="10" maxlength="100" value=""></td></tr></tbody></table><!--mstheme--></font></td>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="5" height="5"><!--mstheme--></font></td>
+    <td width="100%"><!--mstheme--><font face="arial, Arial, Helvetica"><strong>Privacy Policy</strong><!--mstheme--></font></td>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="5" height="28"><!--mstheme--></font></td>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font></td>
+  </tr>
+  <tr>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="150" height="1"><!--mstheme--></font></td>
+    <td width="100%" colspan="4"><!--mstheme--><font face="arial, Arial, Helvetica"><!--mstheme--></font></td>
+  </tr>
+</tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+<!--mstheme--></font></td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><!--msnavigation--><td valign="top"><!--mstheme--><font face="arial, Arial, Helvetica">
+
+<!--mstheme--></font><table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top"><!--mstheme--><font face="arial, Arial, Helvetica"><script language="JavaScript"><!--
+MSFPhover = 
+  (((navigator.appName == "Netscape") && 
+  (parseInt(navigator.appVersion) >= 3 )) || 
+  ((navigator.appName == "Microsoft Internet Explorer") && 
+  (parseInt(navigator.appVersion) >= 4 ))); 
+function MSFPpreload(img) 
+{
+  var a=new Image(); a.src=img; return a; 
+}
+// --></script><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav1n=MSFPpreload("../_derived/home_cmp_rogue-fi010_vbtn.gif"); MSFPnav1h=MSFPpreload("../_derived/home_cmp_rogue-fi010_vbtn_a.gif"); }
+// --></script><a href="../" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src"><img src="../_derived/home_cmp_rogue-fi010_vbtn.gif" width="150" height="21" border="0" alt="Home" name="MSFPnav1"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav2n=MSFPpreload("../_derived/up_cmp_rogue-fi010_vbtn.gif"); MSFPnav2h=MSFPpreload("../_derived/up_cmp_rogue-fi010_vbtn_a.gif"); }
+// --></script><a href="infodesk.asp" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src"><img src="../_derived/up_cmp_rogue-fi010_vbtn.gif" width="150" height="21" border="0" alt="Back" name="MSFPnav2"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav3n=MSFPpreload("_derived/cufees.asp_cmp_rogue-fi010_vbtn.gif"); MSFPnav3h=MSFPpreload("_derived/cufees.asp_cmp_rogue-fi010_vbtn_a.gif"); }
+// --></script><a href="cufees.asp" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3h.src" onmouseout="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3n.src"><img src="_derived/cufees.asp_cmp_rogue-fi010_vbtn.gif" width="150" height="21" border="0" alt="Fee Schedule" name="MSFPnav3"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav4n=MSFPpreload("../_derived/calculat.htm_cmp_rogue-fi010_vbtn.gif"); MSFPnav4h=MSFPpreload("../_derived/calculat.htm_cmp_rogue-fi010_vbtn_a.gif"); }
+// --></script><a href="../calculat.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src"><img src="../_derived/calculat.htm_cmp_rogue-fi010_vbtn.gif" width="150" height="21" border="0" alt="Calculators" name="MSFPnav4"></a><br><img src="_derived/privacy.asp_cmp_rogue-fi010_vbtn_p.gif" width="150" height="21" border="0" alt="Privacy Policy"><br>
+    <img src="../images/btmbutton.gif" alt="btmbutton.gif (184 bytes)"><br>
+    <!--mstheme--></font></td>
+    <td valign="top"><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="5" height="1"><!--mstheme--></font></td>
+    <td width="100%" valign="top"><!--mstheme--><font face="arial, Arial, Helvetica"><font size="2"><div><font face="Arial"><font size="2">
+<div>
+<h1><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt"><font size="+0"><font face="Tahoma" color="#0080c0" size="4">ROGUE FEDERAL CREDIT UNION</font></font></span></h1>
+<h1><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">
+<div class="Section1">
+<p align="center"><font face="Tahoma">PRIVACY POLICY DISCLOSURE</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Our Privacy Pledge.</font> At Rogue Federal Credit Union we respect the privacy of our members. We recognize the importance of maintaining the confidentiality of your personal financial information. This notice describes the privacy policy and practices followed by Rogue Federal Credit Union and our affiliate, Rogue Federal Member Financial Services, LLC. This notice explains what types of member information we collect and under what circumstances we may share it.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Member Information We Collect.</font> The Credit Union collects only relevant information about members that is needed to establish and maintain your account and services as the law allows or requires us to collect. We may collect personal and financial information about you (member information) which is "nonpublic." The member information we collect varies depending on the accounts and services you request and use. We collect information about you from the following sources:</font></p>
+<p><font face="Tahoma">&nbsp;<font color="#0080c0">Application Information.</font> We retain personal information we receive from you on any application you provide to us or our affiliate for membership, deposit account, EFT services, loans, financial planning, securities brokerage, insurance, or other Credit Union services. This information includes: name, address, e-mail address, social security number, birth date, phone number, employment and financial status, and credit history.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Your Transactions.</font> Any time you make a transaction on one of your accounts, including ATM or card transactions, loan advances, transactions through Internet Banking, over the phone or at a branch we retain the transaction information, including: your account number, the date, amount, location of the transaction, and other pertinent information. Our affiliate may also provide us with reports on your securities and insurance transactions.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Credit Reports.</font> When we evaluate your application for an account or service, we may request a credit report about you from a consumer reporting agency. We retain the personal and credit history information about you and we may use it to evaluate future account service requests.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Online.</font> We may obtain information you provide online when you visit our website, www.roguefcu.org. This includes retaining information you provide us on any online application, Internet Banking transaction or information you send to us by e-mail.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Copyrights.</font> You should assume that everything on the Rogue Federal Credit Union site is copyrighted unless otherwise noted and that it must not be used except as provided with the express written consent of RFCU. Images of people, places, or other images displayed on the RFCU site are either the property of, or used with permission by, RFCU. Use of these images by you or other third parties is prohibited unless expressly permitted. Any unauthorized use of these images may violate copyright laws, trademark laws, the laws of privacy and publicity, and other applicable regulations and statutes.</font></p>
+<p><font face="Tahoma">Rogue Federal Credit Union has not reviewed all of the sites which are linked to the RFCU site, and the fact of such links does not indicate any approval or endorsement of any material contained on any linked site; your connection to any such linked site is at your own risk.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Member Information We Share.</font> In order to provide financial services to you, we share certain information about you with our affiliate and third party service providers. However, we only share information to the extent necessary to service your account or offer new services to you. If we share your information, it is with the goal of bringing you quality services, more choices, and greater convenience. Information we may have about former members is generally only shared or disclosed if necessary to enforce or administer an account or as required by law.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Sharing Information with Credit Union Affiliates.</font> Our wholly-owned affiliate, Rogue Federal Member Financial Services, LLC, provides financial services, including financial planning, securities brokerage, and insurance products and services. We may share personal information (such as name, address, and account number) and account information (such as type of accounts, account balances, and transaction history) with our affiliate so they can serve you more efficiently. Our affiliate maintains the same privacy standards as the Credit Union.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Sharing Information with Third Party Service Providers.</font> In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers, including: data processing companies, check, ATM and other payment processing companies, payment networks, loan service providers, insurance companies, collection agencies, credit reporting agencies, financial planners, securities brokerage, and insurance companies, and financial service providers with whom we have joint marketing agreements. These service providers act on our behalf and have agreed in writing to keep the member information we provide to them confidential. We share the following categories of information to third party service providers depending on the specific services provided:</font></p>
+<p><font face="Tahoma">- Personal information (name, address, and account number)</font></p>
+<p><font face="Tahoma">- Account information (type of accounts, account balances, and transaction history)</font></p>
+<p><font face="Tahoma">- Transaction information (dates, amounts, locations, and type of transaction)</font></p>
+<p><font face="Tahoma">We do not sell member information nor share your account numbers with independent third party marketers offering their products and services. While we may assist in offering financial products and services of our affiliate or other financial service providers, we control the member information used to make such offers.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Sharing Information as Legally Required or Permitted.</font> We may share any member information of yours in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with credit bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Our Confidentiality and Security Safeguards.</font> We maintain strict policies and security controls to assure that member information in our computer systems and files is protected. Our employees are permitted access to member information that they may need to perform their jobs and to provide service to you. Our employees have access to such member information as necessary to conduct a transaction or respond to your inquiries. All employees are trained to respect member privacy. No one except our employees has regular access to the Credit Union computer system and records storage. The Credit Union has established internal security controls, including physical, electronic, and procedural safeguards to protect the information you provide us and the information we collect about you. We will continue to review our internal security controls to safeguard your member information as we employ new technology in the future.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Online Privacy Protections.</font> At our website, <font color="#0000ff">www.roguefcu.org</font>, you may (when activated) apply for accounts and services and you may communicate with us via e-mail. To protect the information you provide us online, we use multiple levels of security. The application information we accept online and our Internet Banking service relies on industry standard "Secure Sockets Layer" (SSL) encryption to secure your transaction information and communication. Generally, our e-mails are not secure. However, if we ask you to e-mail us information other than your name, address, e-mail address and phone number, it will be obtained using a secure (SSL encryption) e-mail form. When you visit our website, you can access site information, without revealing your personal identity. In the future, we may use "cookie" in order to help us identify you and to track your website visit. A "cookie" is a piece of information that our web server may store on your computer hard drive and retrieve later. The cookie would not request, require or collect any personal identity information and you remain anonymous. Your member information would not be accessed by or stored within a cookie in any way.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Protecting Children’s Information Privacy.</font> Our online financial services are not designed for or directed toward children. We do not knowingly solicit or collect data from children and we do not knowingly market to children online. We recognize that protecting children’s identities and online privacy is important and that responsibility rests with us and with parents.</font></p>
+<p><font face="Tahoma"><font color="#0080c0">Privacy Policy Inquiries.</font> If you have any questions about our privacy practices contact us by calling (541) 858-7328, 1 (800) 856-7328 or writing to us at Rogue Federal Credit Union, 1370 Center Drive, Medford, Oregon 97501.</font></p>
+<p><font face="Tahoma">June 2004</font></p></div></span></h1></div></font></font></div></font><!--mstheme--></font></td>
+    <td valign="top"><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="5" height="1"><!--mstheme--></font></td>
+  </tr>
+</tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+&nbsp;<!--mstheme--></font><!--msnavigation--></td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><!--mstheme--><font face="arial, Arial, Helvetica">
+
+<!--mstheme--></font><table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="150" height="1"><!--mstheme--></font></td>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="5" height="1"><!--mstheme--></font></td>
+    <td width="100%"><!--mstheme--><font face="arial, Arial, Helvetica"><p align="center"><font size="2">[&nbsp;<a href="home.asp">Home</a>&nbsp;|&nbsp;<a href="rates.asp">Rates</a>&nbsp;|&nbsp;<a href="Products/products.asp">Products</a>&nbsp;|&nbsp;<a href="Services/services.asp">Services</a>&nbsp;| <a href="online.asp">Online&nbsp;Services</a>&nbsp;|&nbsp;<a href="aboutus.asp">About&nbsp;Us</a>&nbsp;|&nbsp;<a href="contact.asp">Contact&nbsp;Us</a>&nbsp;|&nbsp;<a href="sitemap.asp">Sitemap</a>&nbsp;]</font></p>
+    </font><p align="center"><font face="arial, Arial, Helvetica">&nbsp;<!--mstheme--></font></p></td>
+  </tr>
+</tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+
+<!--mstheme--></font><table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><p align="center"><a href="loan.asp"><img src="../images/applynow2.jpg" alt="applynow2.jpg (2512 bytes)" border="0" width="108" height="46"></a></p>
+    </font><p align="center"><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="150" height="1"><!--mstheme--></font></p></td>
+    <td><!--mstheme--><font face="arial, Arial, Helvetica"><img src="../images/spacer.gif" width="5" height="1"><!--mstheme--></font></td>
+    <td width="34%"><!--mstheme--><font face="arial, Arial, Helvetica"></font><p align="center"><font face="arial, Arial, Helvetica"><img src="../images/BlueNCUA.gif" width="150" height="56"><!--mstheme--></font></p></td>
+    <td width="33%"><!--mstheme--><font face="arial, Arial, Helvetica"></font><p align="center"><font face="arial, Arial, Helvetica"><font size="2"><strong><em><a href="privacy.asp">Privacy
+    Policy</a></em></strong></font><br>
+    <font size="1">Design &amp; Hosting by <a target="_blank" href="/asp/outside_link.asp?to=http://www.libertyonline.net"><strong>Liberty
+    Online</strong></a><em>®</em><br>
+    <a href="javascript:;" onclick="javascript:window.open('http://www.libertyonline.net/asp/requirements.asp','sys','height=240,width=440');">Browser
+    Requirements</a><br>
+    Copyright © 1998-2003 Liberty Online, Inc.<br>
+    All Rights Reserved</font><!--mstheme--></font></p></td>
+    <td width="33%"><!--mstheme--><font face="arial, Arial, Helvetica"><small><small></small></small></font><p align="center"><font face="arial, Arial, Helvetica"><small><small></small></small><img src="../images/EqualHousingnew.gif" alt="EqualHousingnew.gif (2201 bytes)" width="125" height="90"><!--mstheme--></font></p></td>
+  </tr>
+</tbody></table><!--mstheme--><font face="arial, Arial, Helvetica">
+<!--mstheme--></font></td></tr><!--msnavigation--></tbody></table>
+
+</body></html>
