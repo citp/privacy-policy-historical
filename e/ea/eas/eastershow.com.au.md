@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193427id_/http%3A//www.greataustralianmuster.com/legal_2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203004932id_/http%3A//www.greataustralianmuster.com/legal_2.htm) for the most accurate reproduction.*
 
 # Royal Agricultural Society of NSW
 
