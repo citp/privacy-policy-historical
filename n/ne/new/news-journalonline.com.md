@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601203146id_/http%3A//news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203001848id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
 
-# News-Journal Online - Our history
+# The Daytona Beach News-Journal: Help
 
 The News-Journal is committed to bringing you the best possible online experience that we can provide. One important aspect of that experience is ensuring that you are aware of when and how the News-Journal collects information about you and how that information is used. We believe that this policy effectively balances your privacy and our collection of necessary information to enhance our services to you. 
 
@@ -29,11 +29,12 @@ The News-Journal offers you the opportunity to renew your subscription to The Da
 **Affiliate Websites**
 
 The News-Journal has partnered with other companies that provide additional services in association with News-Journal Online. These companies have their own information collection and privacy policies that may or may not be the same as the News-Journal's policies. Whenever you have the opportunity to visit one of our affiliate sites, please review their privacy policy before using their services.   
-Our affiliate sites are: 
+Our affiliate sites are:
 
-* 1\. [Online Coupons](http://www.clipacoupon.com/?aff=njo) \- This page is managed by [ClipACoupon.com](http://www.clipacoupon.com/). You may access their privacy policy [here](http://www.clipacoupon.com/privacy.asp?aff=njo). 
-* 2\. [News-JournalAutos.com](http://www.news-journalautos.com/) \- This site is managed by [CarCast](http://www.carcast.com/). You may contact them [here](http://www.poweradz.com/contactus/hd_mail.html). 
-* 3\. TV listings - These are provided by Zap2It.com. You may access their privacy policy [here](http://www.zap2it.com/index/0,1146,4_B_0_000,00.html). 
+  1\. [Online Coupons](http://www.clipacoupon.com/?aff=njo) \- This page is managed by [ClipACoupon.com](http://www.clipacoupon.com/). You may access their privacy policy [here](http://www.clipacoupon.com/privacy.asp?aff=njo).  
+  2\. [News-JournalAutos.com](http://www.news-journalautos.com/) \- This site is managed by [CarCast](http://www.carcast.com/). You may contact them [here](http://www.poweradz.com/contactus/hd_mail.html).  
+  2\. [News-JournalJobs.com](http://www.news-journaljobs.com/) \- Also volusiajobfinder.com, seminolejobfinder.com, flaglerjobfinder.com, and daytonajobfinder.com. These sites are managed by [CareerCast](http://www.careercast.com/). You may contact them [here](http://newsjournal.careercast.com/texis/feedback?lookid=newsjournal).  
+  3\. TV listings - These are provided by Zap2It.com. You may access their privacy policy [here](http://www.zap2it.com/index/0,1146,4_B_0_000,00.html). 
 
 **Third Party Ad Networks**
 
