@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618073920id_/http%3A//www.cartooncritters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204192311id_/http%3A//www.cartooncritters.com/privacy.htm) for the most accurate reproduction.*
 
 # Cartoon Critters - coloring pages,learn to draw,online games
 
@@ -23,12 +23,20 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
-Ads on this site are served by Advertising.com [ click here to see their privacy policy](http://www.advertising.com/privacy/privacy.html).
+Ads on this site are served by:
 
-Affiliates of cartooncritters.com:  
+ Advertising.com [ click here to see their privacy policy](http://www.advertising.com/privacy/privacy.html).
+
+Fastclick. \- [www.fastclick.com](http://www.fastclick.com/)
+
+Affiliates of cartooncritters.com:
+
+  
 Amazon.com - [www.amazon.com](http://www.amazon.com/)
 
-Commision Junction - [www.cj.com ](http://www.cj.com/)                                                                                       
+Commision Junction - [www.cj.com ](http://www.cj.com/)   
+
+Affiliate Fuel - [www.affiliatefuel.com ](http://www.affiliatefuel.com/)                                                                                   
 
 visit their site  to consult their privacy policies. 
 
