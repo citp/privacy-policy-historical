@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602235610id_/http%3A//www.xara.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023725id_/http%3A//www.xara.com/privacy.asp) for the most accurate reproduction.*
 
 # Xara Privacy Statement
 
-[About Xara](https://web.archive.org/web/20040602235610id_/http%3A//www.xara.com/about.asp "About Xara")  |  [Contact Xara](https://web.archive.org/web/20040602235610id_/http%3A//www.xara.com/contact.asp "Contact Xara")
+[About Xara](https://web.archive.org/web/20041204023725id_/http%3A//www.xara.com/about.asp "About Xara")  |  [Contact Xara](https://web.archive.org/web/20041204023725id_/http%3A//www.xara.com/contact.asp "Contact Xara")
 
 XARA has created this privacy statement in order to **demonstrate the company's firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web site [www.xara.com](http://www.xara.com/), [www.xaraonline.com](http://www.xaraonline.com/), the BuyFonts web site [www.buyfonts.com](http://www.buyfonts.com/) and the XaraClub web sites [www.club.xara.com](http://www.club.xara.com/) and [secure.commerce.xara.com](https://secure.commerce.xara.com/), and the Xara Online purchase site secure.xaraonline.com.
 
 Information collected by order forms, registration forms, download forms, opt-in mailing list and surveys
 
-The site's **order and registration forms** require users to provide contact information (their name, postal and e-mail address) and **orders forms** require financial information (credit card number.) Contact information from the order and registration form is used to send orders and information about the orders, registration and company to our customers. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. **None of the information collected on Xara's order forms is ever passed to third parties**. 
+The site's **order and registration forms** require users to provide contact information (their name, postal and e-mail address) and **orders forms** require financial information (credit card number.) Contact information from the order and registration form is used to send orders and information about the orders, registration and company to our customers. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. **None of the information collected on Xara's order forms is ever passed to third parties****. 
+
+** Note: In the case of the joint Macromedia/Xara offer on Dreamweaver in July 2004 the customer name and postal address only will be passed to Macromedia. 
 
 The site's **mailing list sign-up forms** offer site visitors the option to subscribe to our email newslists. Contact information from this form is used to send information about Xara products and the company to our customers. Users may opt-out of receiving future mailings at the time; see the choice/opt-out section below. **None of the information collected for Xara's opt in mailing lists is passed to third parties**. 
 
