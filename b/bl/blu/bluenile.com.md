@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208090453id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624143620id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.*
 
 # Privacy Policy at Blue Nile
 
@@ -54,7 +54,7 @@ Using a Blue Nile form, you can also refer a friend to the Blue Nile Web site.
 Blue Nile occasionally requests information from our users and customers via surveys. Participation in these surveys is completely voluntary, and all participants have a choice whether or not to disclose information. The requested information typically includes the customer's first name, as well as information relating to the customer's experience at Blue Nile, or their opinions on products they have purchased. Survey information will be used internally to monitor or improve this site, and after attaining user permission, may be posted on the site to provide information about our products to other users. Users' personally identifiable information is not shared with third parties unless Blue Nile gives prior notice and choice. 
 
 **Opt-Out Policy**   
-To opt out of receiving communications from Blue Nile, just select "unsubscribe" on our [subscription status page](https://web.archive.org/web/20021208090453id_/http%3A//www.bluenile.com/subscription.asp) and enter the requested information. Or you can make your request in person by contacting a diamond and jewelry consultant at 800-242-2728 or by e-mail at service@bluenile.com. 
+To opt out of receiving communications from Blue Nile, just select "unsubscribe" on our [subscription status page](https://web.archive.org/web/20030624143620id_/http%3A//www.bluenile.com/subscription.asp) and enter the requested information. Or you can make your request in person by contacting a diamond and jewelry consultant at 800-242-2728 or by e-mail at service@bluenile.com. 
 
   
 If the personal information Blue Nile has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to service@bluenile.com or contact one of our diamond and jewelry consultants at 800-242-2728. 
