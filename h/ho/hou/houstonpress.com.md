@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2001-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010202163400id_/http%3A//houstonpress.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019042003id_/http%3A//houstonpress.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Houston Press Online -- houstonpress.com | About
 
