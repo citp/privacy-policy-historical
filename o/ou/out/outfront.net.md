@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outfront.net privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607224944id_/http%3A//www.outfront.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outfront.net privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205061745id_/http%3A//www.outfront.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,6 +22,6 @@ Thomas Brunt's OutFront has created this privacy statement in order to demonstra
 This site may on occasion provide links to other sites for your convenience or additional information.  Thomas Brunt's OutFront.net is not responsible for any content or practices of these sites.  
  
   6. **Information Correction or Removal  
-**If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail [ thomas@thomasbrunt.com](mailto:thomas@thomasbrunt.com) with the details of your request at.  If you wish to contact us further, please find complete contact information on our [contact page](https://web.archive.org/web/20020607224944id_/http%3A//www.outfront.net/contact_us.htm). 
+**If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail [ thomas@thomasbrunt.com](mailto:thomas@thomasbrunt.com) with the details of your request at.  If you wish to contact us further, please find complete contact information on our [contact page](https://web.archive.org/web/20021205061745id_/http%3A//www.outfront.net/contact_us.htm). 
 
 
