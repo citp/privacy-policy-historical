@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2001-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010526183414id_/http%3A//www.indextools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604020613id_/http%3A//indextools.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: IndexTools Web Site Tracking and Analysis
 
   
 The following information describes how we handle the information we gather about visitors to our customers' web sites as well as information about our customers' visits to our web site to retrieve their reports.  **General Information** **  
-** IndexTools.com is firmly committed to the privacy of customers and visitors to its web sites. We are equally committed to the privacy of the data we collect for sites using our eService, and the visitors who frequent those sites. The following discloses our information gathering and dissemination practices for www.IndexTools.comLive.com. Other IndexTools.com sites may have different policies.  Privacy Statement for Visitors to Sites Tracked by IndexTools.com Statistics 
+** IndexTools.com is firmly committed to the privacy of customers and visitors to its web sites. We are equally committed to the privacy of the data we collect for sites using our eService, and the visitors who frequent those sites. The following discloses our information gathering and dissemination practices for www.IndexTools.com. Other IndexTools.com sites may have different policies.  Privacy Statement for Visitors to Sites Tracked by IndexTools.com Statistics 
 
 **Privacy Principles**  
 Because your privacy is important to us, IndexTools.com Statistics conducts its business under the following principles: 
