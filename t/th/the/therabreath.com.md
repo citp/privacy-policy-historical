@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therabreath.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606043035id_/http%3A//www.therabreath.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therabreath.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074119id_/http%3A//therabreath.com/privacy.asp) for the most accurate reproduction.*
 
 # California Breath Clinics Commitment to Protect Privacy
 
