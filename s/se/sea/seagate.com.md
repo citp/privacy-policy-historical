@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seagate.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209081200id_/http%3A//seagate.com/newsinfo/about/legal/D1d3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seagate.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604100004id_/http%3A//seagate.com/newsinfo/about/legal/D1d3.html) for the most accurate reproduction.*
 
 # Seagate Technology Privacy Statement
 
