@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the vwrsp.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202042400id_/http%3A//www.vwrsp.com/customer/index.cgi%3Ftmpl%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwrsp.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602124150id_/http%3A//vwrsp.com/customer/index.cgi%3Ftmpl%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Welcome to VWR Scientific Products
 
-|  |  |   
----|---  
-  
+| 
+
 **VWR Scientific Products Privacy Policy**
 
 **We Protect Your Right to Privacy** vwrsp.com respects your privacy. Our guidelines for protecting the information you provide us during your visit to our Web site appear below. 
