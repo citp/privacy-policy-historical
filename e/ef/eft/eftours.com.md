@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eftours.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601113954id_/http%3A//www.eftours.com/global/assets/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eftours.com privacy policy that was archived on 2002-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021028011549id_/http%3A//www.eftours.com/global/assets/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
