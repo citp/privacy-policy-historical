@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215063033id_/http%3A//www.infragistics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2004-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040214025836id_/http%3A//www.infragistics.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-* * *
+[ ](https://web.archive.org/web/20040214025836id_/http%3A//www.infragistics.com/process/beta/beta.asp)
 
-[](https://web.archive.org/process/beta/beta.asp?id=2)  
-Java developers: [Sign-up](https://web.archive.org/process/beta/beta.asp?id=2) for our new product beta. 
-
-* * *
-
-Use the NetAdvantage Suite's COM, .NET and ASP.NET components to achieve a wide variety of the look and feel of Microsoft's most popular application styles—Outlook, Windows XP and 2000, and Explorer—and achieve the look and feel of a rich client app with thin client delivery.  
-[Click here.](https://web.archive.org/products/lookandfeel.asp)
-
-[mg](http://www.deadcode.com/)
+[ ](http://devcenter.infragistics.com/Protected/RequestFeature.aspx)
 
 | | 
 
