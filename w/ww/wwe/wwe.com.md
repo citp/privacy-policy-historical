@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwe.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601225007id_/http%3A//www.wwe.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwe.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204703id_/http%3A//www.wwe.com/help/privacy) for the most accurate reproduction.*
 
 # WWE.com - Privacy
 
