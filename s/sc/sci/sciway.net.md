@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciway.net privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413025344id_/http%3A//www.sciway.net/sciway/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciway.net privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204190155id_/http%3A//www.sciway.net/sciway/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy on SCIway
 
@@ -26,8 +26,6 @@ James Island, SC
 [**SCIway's Home Page**](https://web.archive.org/) **
 
 [South Carolina Business Directory](https://web.archive.org/bus/)
-
-[BuySouthCarolina.com](http://buysouthcarolina.com/)
 
 **
 
