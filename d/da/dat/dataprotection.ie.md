@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataprotection.ie privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404084237id_/http%3A//www.dataprotection.ie/1a.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataprotection.ie privacy policy that was archived on 2004-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040810174327id_/http%3A//www.dataprotection.ie/1a.htm) for the most accurate reproduction.*
 
 # Data Protection: Privacy Statement
 
@@ -18,7 +18,7 @@ Collection and use of personal information
 
 **
 
-The Data Protection Commissioner does not collect any personal data about you on this website, apart from information which you volunteer (for example by [e-mailing us](mailto:info@dataprivacy.ie) _ _ or by using our online [feedback form](https://web.archive.org/web/20040404084237id_/http%3A//www.dataprotection.ie/1ci.htm)). Any information which you provide in this way is not made available to any third parties, and is used by the Commissioner only in line with the purpose for which you provided it.
+The Data Protection Commissioner does not collect any personal data about you on this website, apart from information which you volunteer (for example by [e-mailing us](mailto:info@dataprivacy.ie) _ _ or by using our online [feedback form](https://web.archive.org/web/20040810174327id_/http%3A//www.dataprotection.ie/1ci.htm)). Any information which you provide in this way is not made available to any third parties, and is used by the Commissioner only in line with the purpose for which you provided it.
 
 **
 
