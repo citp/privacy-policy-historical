@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trendmx.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208184601id_/http%3A//www.trendmx.com/search-engine-optimization-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendmx.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610195710id_/http%3A//www.trendmx.com/search-engine-optimization-privacy.aspx) for the most accurate reproduction.*
 
-# SEO Tools: Software for Submission, Ranking, and Keyword Density Analysis
+# SEO Web Site Promotion Tools
 
 TrendMetrix is committed to user privacy in its products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
