@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622060834id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203224729id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.*
 
-# United States Tennis Association - Site_services - 6/22/2003 6:08:33 AM
+# Privacy Statement
 
 |  | 
 
@@ -90,7 +90,7 @@ Attention: Advanced Media Dept.
 
  **Changes to This Privacy Policy  
 **  
-If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on [4/21/02].
+If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated: [10/03].
 
 |   
 ---|---|---
