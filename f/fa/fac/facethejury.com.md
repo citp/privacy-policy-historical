@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facethejury.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603211811id_/http%3A//facethejury.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facethejury.com privacy policy that was archived on 2001-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011004022416id_/http%3A//facethejury.com/privacy.asp) for the most accurate reproduction.*
 
 # FaceTheJury - Privacy Policy -
 
@@ -8,21 +8,19 @@
   
   
   
-
-
-** [**WSex.com**](http://www.wsex.com/) \- The premier online gambling site. **
-
+  
+  
   
   
 
 
-** The Artwork Channel is coming soon.  
+**We get some pretty crazy email here at FTJ. If you'd like to see some of these crazy email requests and complaints, signup here and we'll send you our "top 5 laughers" of the week (this stuff is hilarious).** **Email:  
 **
 
   
   
-|    
-|    
+|   
+|   
 FaceTheJury Online Privacy Policy   
 FaceTheJury, takes great pride in utilizing state-of-the-art security procedures. Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time, so please check back periodically. 
 
@@ -86,4 +84,6 @@ Although guests under 13 years of age may be allowed to participate in contests,
 Guests` e-mail addresses are only posted on FaceTheJury’s Web site with the consent of the member. 
 
 Policies for Individuals 13 Years of Age or Older   
-With the permission of a guest who is 13 years of age or over, information submitted at the time of registration may be used for marketing and promotional purposes by FaceTheJury and may be shared with our business partners or companies that have been prescreened by FaceTheJury. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. Once you have registered with FaceTheJury, every effort will be made to maintain your information in a secure environment by FaceTheJury. 
+With the permission of a guest who is 13 years of age or over, information submitted at the time of registration may be used for marketing and promotional purposes by FaceTheJury and may be shared with our business partners or companies that have been prescreened by FaceTheJury. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. Once you have registered with FaceTheJury, every effort will be made to maintain your information in a secure environment by FaceTheJury.
+
+FaceTheJury uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm). 
