@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218031046id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601185826id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
 
 # ThinkGeek > Privacy Policy
 
@@ -57,15 +57,15 @@ If you have any questions about this privacy statement, the practices of this si
 [](http://www.thinkgeek.com/stuff/gaming/)  
 [](http://www.thinkgeek.com/stuff/electronics/)  
 [](http://www.thinkgeek.com/stuff/gadgets/)  
-[](http://www.thinkgeek.com/stuff/furniture/)  
 [](http://www.thinkgeek.com/stuff/books/)  
 [](http://www.thinkgeek.com/stuff/clearance/)  
 [](http://www.thinkgeek.com/about-us/)  
 [](http://www.thinkgeek.com/faq/)  
 [](http://www.thinkgeek.com/bug-us/)  
+[](http://www.thinkgeek.com/brain/wishes.cgi)  
 [](http://www.thinkgeek.com/whats-new/)  
-  
-  
-[](http://www.thinkgeek.com/nofruitcake/)
+
+
+[](http://www.thinkgeek.com/dads-n-grads.shtml)
 
 [](https://www.thinkgeek.com/brain/order/certificate.cgi)
