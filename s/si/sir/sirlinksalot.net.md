@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619203136id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204093342id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
 
 # SirLinksalot.net Privacy Policy
 
@@ -61,7 +61,7 @@ Should you have any questions regarding this privacy policy please **[contact us
   
 **Back to[SirLinksalot.net](http://www.sirlinksalot.net/)**
 
-[](http://bilbo.counted.com/7/31932/)  
+[](http://bilbo.counted.com/7/30730/)  
     
 
 Copyright © 2000 - 2004 All Rights Reserved
