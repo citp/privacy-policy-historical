@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopsusports.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216001929id_/http%3A//www.gopsusports.com/subscriptions/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopsusports.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622130900id_/http%3A//www.gopsusports.com/subscriptions/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # GoPSUsports.com - Official Home of Penn State Athletics
 
