@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eprize.com privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607023529id_/http%3A//www.eprize.com/eprise/main/Eprise/Company/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eprize.com privacy policy that was archived on 2000-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001001130242id_/http%3A//eprize.com/eprise/main/Eprise/Company/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
