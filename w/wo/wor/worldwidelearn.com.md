@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202150400id_/http%3A//www.worldwidelearn.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602160153id_/http%3A//www.worldwidelearn.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for World Wide Learn
 
@@ -35,8 +35,6 @@ This information is requested only when you:
 
 You will be asked for your name, e-mail address and other appropriate personal information that would be needed to register for these services. Worldwidelearn.com free e-mail accounts are powered by Everyone.net and you may view their privacy policy **[here](http://www.everyone.net/main/html/p_policy.html)**. World Wide Learn does not rent, sell or otherwise make available e-mail addresses to anyone except Topica.com, which distributes the WorldWideLearn Newsletter. You may view Topica's privacy statement **[here](http://www.topica.com/)**.
 
-World Wide Learn also has ads served onto our site by Advertising.com. To visit their privacy statement, please **[click here](http://www.advertising.com/privacy/index.html)**.
-
 #### Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
@@ -45,4 +43,14 @@ To opt out of the World Wide Learn Newsletter you can send an e-mail to mailto: 
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact: **[RETURN TO INDEX](http://www.worldwidelearn.com/index.html)**
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact:
+
+Angela Lovett  
+World Wide Learn  
+4, 2521 - 17th Avenue SW  
+Calgary, Alberta  
+Canada, T3E 0A2  
+Phone: (403) 686-6162  
+Email: **[webmaster@worldwidelearn.com](mailto:webmaster@worldwidelearn.com)**
+
+ **[RETURN TO INDEX](http://www.worldwidelearn.com/index.html)**
