@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymondjames.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204190511id_/http%3A//www.raymondjames.com/privacy_cl.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymondjames.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205062348id_/http%3A//www.raymondjames.com/privacy_cl.htm) for the most accurate reproduction.*
 
 # Raymond James Financial - Privacy notice for Raymond James Clients, including Heritage Family of Funds Customers
 
