@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621164325id_/http%3A//www.websitepulse.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008151935id_/http%3A//websitepulse.com/privacy.php3) for the most accurate reproduction.*
 
 # Web site and server free monitoring services by WebSitePulse.com
 
