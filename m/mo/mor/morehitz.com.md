@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the morehitz.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002021758id_/http%3A//morehitz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morehitz.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603004927id_/http%3A//www.morehitz.com/privacy.htm) for the most accurate reproduction.*
 
 # MoreHitz.com - Increase Website Traffic with our Guaranteed Web Traffic Packages!
 
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to **MoreHitz.com** will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to **[_let us know_](https://web.archive.org/web/20031002021758id_/http%3A//morehitz.com/contact_us.htm)**  .
+We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to **MoreHitz.com** will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to **[_let us know_](https://web.archive.org/web/20040603004927id_/http%3A//www.morehitz.com/contact_us.htm)**  .
 
 * * *
 
