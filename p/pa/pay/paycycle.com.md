@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208043305id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306205644id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # PayCycle Privacy Policy for Online Payroll Service
 
@@ -43,7 +43,7 @@ In addition to cookies, we collect the following information from all visitors t
 
 We may share personally identifiable information about you and your employees with third party vendors, such as credit card processing companies and banks, who help us perform our payroll service. We will require such third parties to use the information only as necessary to provide our payroll service to you. 
 
-We may use or provide third parties with anonymous or aggregate information about our customers, such as the size of payroll processed or payment history, for statistical, marketing and other purposes. Such aggregate or anonymous information will not reveal any of your personally identifiable information, such as your contact information, unless the third party agrees contractually to use the information exclusively on PayCycle?s behalf, in ways that PayCycle itself could use the information under this Privacy Policy. Additionally, we may provide your contact information to our business partners so that they can tell you about products, services, or offers that may benefit you. If you do not want to receive such offers, you may so indicate in the Preferences section of our web site. 
+We may use or provide third parties with anonymous or aggregate information about our customers, such as the size of payroll processed or payment history, for statistical, marketing and other purposes. Such aggregate or anonymous information will not reveal any of your personally identifiable information, such as your contact information, unless the third party agrees contractually to use the information exclusively on PayCycle's behalf, in ways that PayCycle itself could use the information under this Privacy Policy. Additionally, we may provide your contact information to our business partners so that they can tell you about products, services, or offers that may benefit you. If you do not want to receive such offers, you may so indicate in the Preferences section of our web site. 
 
 We may disclose personally identifiable information to the Internal Revenue Service or other government entities for normal regulatory purposes or as required by law. 
 
