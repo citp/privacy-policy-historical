@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visualstudiomagazine.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207091333id_/http%3A//www.fawcette.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualstudiomagazine.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602172325id_/http%3A//www.fawcette.com/privacy/default.asp) for the most accurate reproduction.*
 
-# Fawcette.com - Home Page
+# Fawcette.com - Privacy Statement
 
 Privacy Statement for Fawcette Technical Publications
 
@@ -27,7 +27,7 @@ Delete/Deactivate
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. You can send e-mail to [support@fawcette.com](mailto:support@fawcette.com)
-  2. You can send mail to the following postal address: 209 Hamilton Avenue Palo Alto, CA 94301
+  2. You can send mail to the following postal address: 913 Emerson St., Palo Alto, CA 94301
 
 
 
@@ -35,11 +35,11 @@ Change/Modify
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. e-mail [support@fawcette.com](mailto:support@fawcette.com)
-  2. send mail to the following postal address: 209 Hamilton Avenue Palo Alto, CA 94301
+  2. send mail to the following postal address: 913 Emerson St., Palo Alto, CA 94301
 
 
 
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Fawcette Technical Publications  
-209 Hamilton Avenue Palo Alto, CA 94301  
+913 Emerson St., Palo Alto, CA 94301  
 [support@fawcette.com](mailto:support@fawcette.com)
