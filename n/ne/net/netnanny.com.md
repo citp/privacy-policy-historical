@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216070302id_/http%3A//www.netnanny.com/home/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621054232id_/http%3A//www.netnanny.com/privacy_policy.html) for the most accurate reproduction.*
 
-# NetNanny.com Privacy Policy
+# BioNet Systems, LLC Privacy Policy for Net Nanny.com
 
-At Net Nanny Software Inc., we take your right to privacy very seriously. Our Privacy Policy is as follows:
+_Note:_ This privacy statement was last changed on November 21st, 2002.
 
-Net Nanny Software Inc. will not share or re-sell personally identifiable information in any way, shape or form. All registration information is kept private.
+At BioNet Systems, LLC, we take your right to privacy very seriously. Our Privacy Policy is as follows:
+
+BioNet Systems, LLC will not share or re-sell personally identifiable information in any way, shape or form. All registration information is kept private.
 
 ## Your Consent
 
-By using our site, you consent to the collection and use of information as described in this Privacy Policy, which was last updated on February 7, 2001. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it.
+By using our site, you consent to the collection and use of information as described in this Privacy Policy, which was last updated on November 21, 2002. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it.
 
 ## Use of Your Information
 
@@ -18,7 +20,7 @@ Cookies are employed to provide you with features such as merchandise transactio
 
 ## Children Under 13
 
-Net Nanny Software Inc. is not directed to children under the age of 13. Net Nanny Software Inc. prohibits registration by children under the age of 13. Net Nanny Software Inc. will not knowingly collect personally identifiable information from children under 13.
+BioNet Systems, LLC is not directed to children under the age of 13. BioNet Systems, LLC prohibits registration by children under the age of 13. BioNet Systems, LLC will not knowingly collect personally identifiable information from children under 13.
 
 ## Shopping
 
@@ -30,7 +32,7 @@ Persons under the age of 18 are not eligible to use any shopping services on thi
 
 ## Contests & Other Promotional Services
 
-When you enter contests at NetNanny.com, or sign up for other services, we request personal identifying information from you. NetNanny.com uses the following information for fulfilling prizes:
+When you enter contests sponsored by BioNet Systems, LLC, or sign up for other services, we request personal identifying information from you. BioNet Systems, LLC uses the following information for fulfilling prizes:
 
   * First and last name
   * Home or other physical address
@@ -44,7 +46,7 @@ To receive the electronic version of our newsletter, we ask you to provide your 
 
 ## Surveys
 
-All of our services are open to all of our visitors; you are not required to fill out any personal data to access our site. When you participate in a survey at NetNanny.com, we request personal identifying information from you, including the following:
+All of our services are open to all of our visitors; you are not required to fill out any personal data to access our site. When you participate in a survey administered by BioNet Systems, LLC, we request personal identifying information from you, including the following:
 
   * First and last name (optional)
   * Title or Occupation
@@ -56,20 +58,21 @@ All of our services are open to all of our visitors; you are not required to fil
 
 
 
-We will utilize this information as follows: As a user, customer, or contest entrant, you may occasionally receive e-mail updates from us about: (1) important functionality changes, (2) special offers through us on behalf of our partners, and (3) new NetNanny.com services and other news items. Our goal is that you will find these updates interesting and informative. Each e-mail we send includes instructions on how to unsubscribe from our mailing list.
+We will utilize this information as follows: As a user, customer, or contest entrant, you may occasionally receive e-mail updates from us about: (1) important functionality changes, (2) special offers through us on behalf of our partners, and (3) new Net Nanny services and other news items. Our goal is that you will find these updates interesting and informative. Each e-mail we send includes instructions on how to unsubscribe from our mailing list.
 
 You can send mail to the following postal address:
 
 Customer Service  
-c/o Net Nanny Software Inc.  
-15831 NE 8th St. Suite 200  
-Bellevue, WA 98008
+c/o BioNet Systems, LLC  
+14205 SE 36th Street  
+Suite 100  
+Bellevue, WA 98006
 
 ## Use of Cookies
 
-NetNanny.com uses cookies for our users' convenience and to understand our customers better. Cookies are pieces of information that a Web site transfers to an individual's hard disk for record-keeping purposes. The use of cookies is an industry standard; you'll find them at most Web sites.
+BioNet Systems, LLC uses cookies for our users' convenience and to understand our customers better. Cookies are pieces of information that a Web site transfers to an individual's hard disk for record-keeping purposes. The use of cookies is an industry standard; you'll find them at most Web sites.
 
-In order to make your visits to NetNanny.com as informative as possible, we utilize a variety of services that assist us in measuring our website traffic: are you a repeat visitor, flow, page views, and entry points to the site. We believe this helps us continuously improve NetNanny.com making it more user-friendly, more personalized and more service-oriented.
+In order to make your visits to www.netnanny.com as informative as possible, we utilize a variety of services that assist us in measuring our website traffic: are you a repeat visitor, flow, page views, and entry points to the site. We believe this helps us continuously improve www.netnanny.com making it more user-friendly, more personalized and more service-oriented.
 
 If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to reject or accept the Cookie feature (please consult your browser’s help instructions, e.g. Microsoft.com or Netscape.com).
 
@@ -85,27 +88,26 @@ The following information is usually reported to our website regardless of wheth
 
   1. Third Party 
 
-NetNanny.com is a distributor of content supplied by third parties (e.g. articles, reviews). NetNanny.com has no control over such content. Any opinions, statements, advice, offers, or other information are those of the respective author(s) and not of NetNanny.com.
+BioNet Systems, LLC is a distributor of content supplied by third parties (e.g. articles, reviews). BioNet Systems, LLC has no control over such content. Any opinions, statements, advice, offers, or other information are those of the respective author(s) and not of BioNet Systems, LLC.
 
   2. Original Content 
 
-NetNanny.com publishes content that is protected by copyrights, trademarks and other intellectual and proprietary rights; these rights are valid and protected in all media. Unless otherwise noted: you may not reproduce, distribute, publish, commercially exploit or otherwise transfer any material.
+BioNet Systems, LLC publishes content that is protected by copyrights, trademarks and other intellectual and proprietary rights; these rights are valid and protected in all media. Unless otherwise noted: you may not reproduce, distribute, publish, commercially exploit or otherwise transfer any material.
 
 
 
 
 ## Privacy Statement Changes
 
-NetNanny.com reviews its Privacy Policy periodically, and is subject to change.
+BioNet Systems, LLC reviews its Privacy Policy periodically, and is subject to change.
 
 If you have any questions about our privacy practices, or this Policy you may contact us at:
 
 Customer Service  
-Net Nanny Software Inc.  
-15831 NE 8th St. Suite 200  
-Bellevue, WA 98008  
-425-688-3008
+BioNet Systems, LLC  
+14205 SE 36th Street  
+Suite 100  
+425-649-1100 phone  
+425-649-1110 fax
 
-last updated 01/21/2002
-
-Copyright © 2002 Net Nanny Software Inc. All Rights Reserved.
+last updated 11/21/2002
