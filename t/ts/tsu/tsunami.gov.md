@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tsunami.gov privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213061700id_/http%3A//wcatwc.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsunami.gov privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031128id_/http%3A//www.noaa.gov/privacy.html) for the most accurate reproduction.*
 
-# WCATWC - Privacy Statement
+# NOAA Home Page - Privacy Statement
 
-1\. We will collect no personal information about you when you visit our website unless you choose to provide that information to us. 
+1\. These World Wide Web pages are provided as a public service by the National Oceanic and Atmospheric Administration.
 
-2\. These World Wide Web pages are provided as a public service by the West Coast and Alaska Tsunami Warning Center, National Weather Service, National Oceanic and Atmospheric Administration.
+2\. Information presented on these pages is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. 
 
-3\. Information presented on these pages is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. 
+3\. For site management, [ information is collected](https://web.archive.org/web/20021203031128id_/http%3A//www.noaa.gov/info_collect.html) for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. 
 
 4\. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
@@ -14,12 +14,4 @@
 
 6\. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-7\. When inquiries are E-mailed to us, we store the text of your message and E-mail address information, so that we can answer the question that was sent in, and send the answer back to the E-mail address provided. The material you submit may be seen by various people in our Department, who may use it to look into the matter you have inquired about. If enough questions or comments come in that are the same, the question may be added to our Frequently Asked Questions section, or the suggestions are used to guide the design of our Web site. If your communication is very sensitive, or includes personal information, you might want to send it by postal mail. 
-
-8\. If you have any questions or comments about the information presented here, please forward them to [wcatwc@wcatwc.gov](mailto:wcatwc@wcatwc.gov)
-
-* * *
-
-[Return to Report an Earthquake Page](http://wcatwc.gov/reportformA.htm)  
-[Return to WCATWC Home Page](http://wcatwc.gov/index.html)  
-
+7\. If you have any questions or comments about the information presented here, please forward them to [ webmaster@www.noaa.gov](mailto:webmaster@www.noaa.gov).
