@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205221800id_/http%3A//channelone.com/games/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405153220id_/http%3A//channelone.com/games/privacy.html) for the most accurate reproduction.*
 
-# ChannelOne.com-->Privacy Statement
+# ChannelOne.com ---> Privacy Policy
+
+**ChannelOne.com Privacy Policy**   
+
 
 We at ChannelOne.com care about your safety and privacy. That's why we've set up this area of our site to tell you about our privacy policy. We'll tell you what personally identifiable information of yours is collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information that ChannelOne.com has about you; and how you can correct any inaccuracies in the information.   
 
@@ -8,7 +11,26 @@ We at ChannelOne.com care about your safety and privacy. That's why we've set up
 We hope teens, their teachers and their parents visit our site often, and share their comments and questions. We won't knowingly allow anyone under 13 to share personal information with us, however, and ask that they not enter our online contests or sweepstakes.   
 
 
+**What's "Personal Information" and why should I care about it?**   
+
+
 Personal Information is defined as anything that allows you to be located online or offline, like:   
+
+
+  * First and Last Name  
+
+  * Physical Address (street, city, state, etc.)  
+
+  * Email Address  
+
+  * Telephone Number  
+
+  * Social Security Number  
+
+  * A Persistent Identifier (like your e-mail address)  
+
+  * Information Collected Online and Combined with identifying information
+
 
 
 In other words, personal information tells people how to get in touch with you - online or offline - and, when combined with other information (like if you're a guy or a girl, your favorite color, your favorite sport, or stuff like that), it tells someone who you are.   
@@ -72,6 +94,4 @@ You may also contact us at:
 **ChannelOne.com  
 5300 Melrose Avenue  
 Los Angeles, CA 90038  
-323-860-1200**
-
-Copyright © 2000 ChannelOne.com. All Rights Reserved. 
+323-860-1200** Copyright © 2000 ChannelOne.com. All Rights Reserved. 
