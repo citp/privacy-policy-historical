@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605091729id_/http%3A//www.vcuhealth.org/webprivate.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcuhealth.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204135702id_/http%3A//www.vcuhealth.org/webprivatenew.asp) for the most accurate reproduction.*
 
-# Virginia Commonwealth University Health System, MCV Hospitals and Physicians: Web Privacy Statement
+# Virginia Commonwealth University Health System, MCV Hospitals and Physicians: Services & Programs
 
 The following discloses the information gathering and dissemination practices of official Virginia Commonwealth University Health System (VCUHS) web pages (defined as an Institutional Web Page in the [**VCU Web Publishing Guidelines**](http://www.vcu.edu/guidelines/)) and is in accordance with the following statement. 
 
@@ -49,3 +49,7 @@ This site contains links to external (non-VCU Health System) web sites.  VCU He
 **Contacting Us**
 
 If you have additional questions or concerns about our privacy policies, please send Email to the VCU Health System Webmaster at [**vcuhs@hsc.vcu.edu**](mailto:vcuhs@hsc.vcu.edu). If you wish to review or change information gathered about you via an official VCU Health System web site, you may contact the VCU Health System Webmaster who will assist you in locating the person responsible for that site so that you may make your request for that review or change directly with them.
+
+© 2004 Virginia Commonwealth University Health System. (804) 828-9000.  
+1250 East Marshall Street, Richmond, VA 23298  
+[Web Privacy Statement](https://web.archive.org/web/20041204135702id_/http%3A//www.vcuhealth.org/webprivatenew.asp) | [ Contact the VCU Health System](https://web.archive.org/web/20041204135702id_/http%3A//www.vcuhealth.org/contact.asp)
