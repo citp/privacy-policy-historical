@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafe.com privacy policy that was archived on 2003-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031228041526id_/http%3A//www.cafe.com/index.php%3Fd%3Dfooter%26p%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafe.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603010129id_/http%3A//cafe.com/index.php%3Fd%3Dfooter%26p%3Dprivacy) for the most accurate reproduction.*
 
 # Cafe.com Privacy Policy
 
