@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013032525id_/http%3A//www.kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602193425id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # KinderArt - Privacy Policy
 
@@ -6,11 +6,9 @@ KinderArt is deeply committed to protecting the privacy of Internet users. Below
 
 Our postal address is:   
 KinderArt c/o Jarea Art Studio  
-166 Montague Street, St. Andrews NB E5B 1J2 Canada
+157 Water Street, St. Andrews NB E5B 1A7 Canada
 
 Our e-mail address is: [learn@kinderart.com](mailto:learn@kinderart.com)
-
-You can reach us via telephone at: 506-529-8417 
 
 For each visitor to our Web page, our Web server automatically recognizes the visitor's domain name (where possible). We sometimes view the domain names of visitors (as a whole) to our Web page, the e-mail addresses of those who sign up for the free KinderArt Newsletter and of those who post messages to our Bulletin Boards. 
 
@@ -23,9 +21,6 @@ What we **WON'T** do with your personal information:
 
   * KinderArt **will not** contact visitors by e-mail, telephone or regular mail for marketing purposes 
   * KinderArt **will not** offer any information about you to any outside company unless we receive your prior consent. 
-
-**Bulletin Board Policy**  
-Our [Bulletin Board](http://www.kinderart.com/wwwboard) is monitored by KinderArt. When you communicate with others on the board, please remember to be courteous, and respectful of differing opinions. KinderArt reserves the right to remove any Bulletin Board posting we deem inappropriate or offensive for any reason. Please enjoy our communication features, and feel free to [contact us](mailto:learn@kinderart.com) if you have questions or suggestions about improving our service. 
 
 **For Newsletter Subscribers Only:**  
 So that we can provide you with a free email newsletter, we request your email information from you. If you have been sent a newsletter and you did not sign up to receive it, please send us an [email message](mailto:color@kinderart.com) with your email address and the word UNSUBSCRIBE. We will remove your name ASAP. 
