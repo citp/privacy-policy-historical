@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208083100id_/http%3A//fototime.com/ftweb/bin/ft.dll/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607172444id_/http%3A//fototime.com/ftweb/bin/ft.dll/privacy) for the most accurate reproduction.*
 
 # FotoTime.com
 
@@ -6,7 +6,7 @@
 
 FotoTime.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.FotoTime.com.
 
-We keep log files that track each picture sent to FotoTime.com through the FotoAlbum sync process.  The log files are used to help us track problems you may encounter.  We have a database that contains all user information, as well as their pictures.  The database is used so we can keep user and picture statistics.  We use cookies to maintain context information pertaining to you current login.  The cookies are non permanent and expire in 24 hours. 
+We keep log files that track each picture sent to FotoTime.com through the FotoAlbum sync process.  The log files are used to help us track problems you may encounter.  We have a database that contains all user information, as well as their pictures.  The database is used so we can keep user and picture statistics.  We use cookies to maintain context information pertaining to you current login.  The cookies are non permanent and expire in 24 hours.  We also track any serious errors that occur within FotoAlbum and send the error information and summary system information to the FotoTime server(s) as part of the FotoAlbum Sync process. This information is only used to help solve problems within FotoAlbum. 
 
 Our site's registration form requires users to provide contact information (like their name and email address). We use customer contact information from the registration form to send information to our users about our company and promotional material from some of our partners. 
 
