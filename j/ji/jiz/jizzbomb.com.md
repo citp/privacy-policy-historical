@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizzbomb.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208103516id_/http%3A//jizzbomb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizzbomb.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408225341id_/http%3A//jizzbomb.com/e2/privacy.html) for the most accurate reproduction.*
 
 # JizzBomb.com Privacy Policy
 
