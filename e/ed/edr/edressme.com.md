@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2003-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030720055728id_/http%3A//www.edressme.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604050125id_/http%3A//edressme.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cocktail Evening Dresses,Prom,Bridesmaid,Formal Info
-
-[edressme@yahoo.com](mailto:edressme@yahoo.com)
 
 eDressme is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others.
 
