@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008062456id_/http%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606095016id_/http%3A//indiamart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IndiaMART Privacy Policy
 
@@ -34,7 +34,7 @@
 > 
 > 6\. **Updation of personal information**
 > 
-> You may edit your IndiaMART Account Information and your IndiaMART profile by sending a request to [support@indiamart.com](mailto:support@indiamart.com).
+> You may edit your IndiaMART Account Information and your IndiaMART profile by sending a request to support@indiamart.com.
 > 
 > Your IndiaMART account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the IndiaMART network, including your IndiaMART Mail account (if you have one). Residual information will remain within our archive records.
 > 
