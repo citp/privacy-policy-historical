@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411184955id_/http%3A//www.macnn.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211181430id_/http%3A//macnn.com/privacy.shtml) for the most accurate reproduction.*
 
 # MacNN Privacy Statement
 
