@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085017id_/http%3A//newsok.com%3Fprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602210044id_/http%3A//www.newsok.com%3Fprivacypolicy) for the most accurate reproduction.*
 
 # Welcome to NewsOK.com
 
@@ -21,39 +21,9 @@
 ABOUT US  
   
 [  
-](https://web.archive.org/?9_about)  
-[ Advertise  
-](https://web.archive.org/cgi-bin/show_article?ID=904398&TP=get9)  
-[Job Openings  
-](http://www.employmentwizard.com/perl/vaui/Search/top/foliobycust/9D044-08B6?xid=Pl.635.3e579f24.1db51.0&pid=92)  
-[ Staff](https://web.archive.org/?9_staff) | [Bios | E-mail  
-](https://web.archive.org/?9_bios)  
-[ More  
-](https://web.archive.org/?9_about)  
-[  
-](https://web.archive.org/?ok_history)  
-[ Advertise](http://oklahoman.newsok.com/advertising/index.html) | [Classified  
-](http://www.newsok.com/cgi-bin/ClassifiedForm.cgi)  
-[ Delivery | Services  
-](https://web.archive.org/?ok_circulation)  
-[ Job Openings  
-](http://www.employmentwizard.com/perl/vaui/EmpList/top/foliobycust/9D043-0914?pid=92)  
-[ Shopping the Metro  
-](https://web.archive.org/?shoppingthemetro)  
-[ Toast of the Town  
-](https://web.archive.org/?toastofthetown)  
-[ Contacts  
-](https://web.archive.org/?ok_staff)  
-[ More  
-](https://web.archive.org/?ok_history)  
-[  
 ](https://web.archive.org/cgi-bin/show_article?ID=888009&TP=getbrief)  
 [ Advertise  
 ](http://www.newsok.com/ads/mediakit/media_whyadvertise.html)  
-[ E-mail Newsletters  
-](https://web.archive.org/?bnews)  
-[ ShopOK](http://www.shopok.com/) | [ SearchOK  
-](http://www.searchok.com/)  
 [ Site Map  
 ](https://web.archive.org/?sitemap)  
 [ Staff | E-mail  
@@ -64,6 +34,11 @@ ABOUT US
 ](http://www.wireok.com/)  
 [ More  
 ](https://web.archive.org/cgi-bin/show_article?ID=888009&TP=getbrief)  
+  
+[](https://web.archive.org/?maps)
+
+[](https://web.archive.org/?mallstore)  
+  
 |  **
 
 PRIVACY POLICY OF NEWSOK.COM
@@ -176,6 +151,8 @@ The foregoing policy is effective March 14, 2003. NewsOK reserves the right to c
 * * *
 
 Contact:  [NEWS 9](https://web.archive.org/?9_staff) |  [The Oklahoman](https://web.archive.org/?ok_staff) |  [NewsOK.com](https://web.archive.org/?newsok_staff) |  [Privacy Policy](https://web.archive.org/?privacypolicy) |  [Site Map](https://web.archive.org/?sitemap) |  [FAQ's  
-](https://web.archive.org/?help) © 2003, Produced by NewsOK  
+](https://web.archive.org/?help) © 2004, Produced by NewsOK - 9000 N. Broadway, OKC, OK 73114 - (405) 475-3311  
 |   
-|  |  | 
+|  |  |  |  |   
+---|---  
+| 
