@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investsmart.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603180726id_/http%3A//www.investsmart.com.au/terms_of_use/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investsmart.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204211355id_/http%3A//www.investsmart.com.au/terms_of_use/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # InvestSMART.com.au - Privacy Policy
 
