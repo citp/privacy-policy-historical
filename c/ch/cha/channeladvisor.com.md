@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channeladvisor.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216163415id_/http%3A//www.channeladvisor.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channeladvisor.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604075104id_/http%3A//www.channeladvisor.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # ChannelAdvisor Corporation - Legal: Privacy Policy
 
@@ -74,7 +74,7 @@ Attn: General Counsel
 Morrisville, NC 27560   
 Phone:919-465-5680  
 Fax: 919-388-9405  
-[e-mail](https://web.archive.org/web/20031216163415id_/http%3A//www.channeladvisor.com/legal/feedback.htm)
+[e-mail](https://web.archive.org/web/20040604075104id_/http%3A//www.channeladvisor.com/legal/feedback.htm)
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that ChannelAdvisor may have collected. 
 
