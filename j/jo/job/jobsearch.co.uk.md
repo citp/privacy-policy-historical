@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207121210id_/http%3A//www.jobsearch.co.uk/cands/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207111502id_/http%3A//jobsearch.co.uk/cands/privacy.asp) for the most accurate reproduction.*
 
 # JobSearch.co.uk - Privacy Statement
 
 |   
 ---  
-| [](https://web.archive.org/) | [](https://web.archive.org/scripts/adredirect.asp?i=1295&u=http://www.jobtrack.co.uk/cands/compview.asp?c=6836) |   
+| [](https://web.archive.org/) | [](https://web.archive.org/scripts/adredirect.asp?i=1226&u=http://www.interalliance.co.uk/jobsearch/) |   
 |   
 Please note the following important information about Data Protection: 
 
