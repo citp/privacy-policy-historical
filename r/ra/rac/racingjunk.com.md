@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402210438id_/http%3A//www.racingjunk.com/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203141723id_/http%3A//racingjunk.com/policy.jsp) for the most accurate reproduction.*
 
 # RacingJunk.com
 
@@ -39,17 +39,15 @@ In order to use all the services of RacingJunk.com, a user must first complete t
 
 **_OPT OUT PROCEDURES_**
 
-You always may opt out of receiving future mailings or other information from Raceway. To request that you not receive future communications, please send an e-mail to [E-mail Address] indicating the type of information that you no longer desire to receive. 
+You always may opt out of receiving future mailings or other information from Raceway. To request that you not receive future communications, please send an e-mail [to optout@racingjunk.com](mailto:optout@racingjunk.com) indicating the type of information that you no longer desire to receive. 
 
 **_CHOICE/OPT IN_**
-
-At the point where Raceway initially asks for personal information, Raceway users are given the opportunity to "opt in" before their information is used for purposes not directly related to Raceway. For example, our "Member Profile" form has an "opt in" mechanism [Is this true?] so users who register with us, but don't want any marketing material, can keep their e-mail addresses off of certain lists. 
 
 Users who no longer wish to receive the Raceway e-mail Newsletter or promotional materials from our partners may opt out of receiving these communications by updating their profiles on the "Member Profile" page of the web site. 
 
 **_COOKIES_**
 
-A cookie is data stored on the user's computer. Use of a cookie is in no way linked to any personally identifiable information while on RacingJunk.com. Once the user closes his or her browser, the cookie simply terminates. For instance, by setting a cookie on RacingJunk.com, the user would not have to log in a Password more than once, thereby saving time while on our site. If a user rejects the cookie, he or she may still use our site. The only drawback to this is that the user may be limited in some areas of the RacingJunk.com site. For example, [Examples of Limitations]. Cookies can also enable Raceway to track the interests of RacingJunk.com users to enhance the experience of the RacingJunk.com site. 
+A cookie is data stored on the user's computer. Use of a cookie is in no way linked to any personally identifiable information while on RacingJunk.com. Once the user closes his or her browser, the cookie simply terminates. For instance, by setting a cookie on RacingJunk.com, the user would not have to log in a Password more than once, thereby saving time while on our site. If a user rejects the cookie, he or she may still use our site. The only drawback to this is that the user may be limited in some areas of the RacingJunk.com site.  Cookies can also enable Raceway to track the interests of RacingJunk.com users to enhance the experience of the RacingJunk.com site. 
 
 Some of Raceway's business partners may use cookies on Raceway's site (for example, advertisers). Usually, these cookies exist only if the user links on the ad. Raceway has no access to or control over these cookies. 
 
@@ -64,7 +62,7 @@ RacingJunk.com does not rent, sell or share personal information about you with 
   1. Raceway may share aggregated demographic information with its partners and advertisers. This is not linked to any personal information that can identify any individual person. 
   2. Raceway may partner with another party to provide specific services. When the user signs up for these services, Raceway will share names, or other contact information that is necessary for the third party to provide these services. Per Raceway's contractual arrangements with partners, these partners are not allowed to use personally identifiable information except for the explicit purpose of providing these services. 
   3. RacingJunk.com shall respond to subpoenas, court orders, or legal process, or to establish or exercise its legal rights or defend against legal claims. 
-  4. RacingJunk.com believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to physical safety of any persons, violations of RacingJunk.com's Privacy Policy, Terms of Use [insert hyperlink] and Guidelines [insert hyperlink], incorporated herein by this reference, or as otherwise required by law. 
+  4. RacingJunk.com believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to physical safety of any persons, violations of RacingJunk.com's Privacy Policy, [Terms of Use](https://web.archive.org/terms.jsp) and [Guidelines](https://web.archive.org/guidelines.jsp), incorporated herein by this reference, or as otherwise required by law. 
   5. RacingJunk.com shall transfer information about you if RacingJunk.com is acquired by or merged with another company. In this event, RacingJunk.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
@@ -74,12 +72,6 @@ By using RacingJunk.com and its various features, you may make some of your pers
 **_CONFIDENTIALITY AND SECURITY_**
 
 Raceway takes all necessary precautions to protect users' personal information both online and off-line. 
-
-When Raceway's registration ("Member Profile") process requests that the user enter sensitive information, that information is encrypted with [Name of software] encryption software. [Describe encryption technology] 
-
-When Raceway's payment ("Honor Payment") process requires that the user enter sensitive information, that information is encrypted with [Name of software] encryption software. [Describe Encryption Technology]. 
-
-In addition to using [Name of Software] encryption software online, Raceway also protects your personal information off-line. Access to your personal information is limited to employees who Raceway reasonably believes will need that information to provide services to you. 
 
 However, Raceway is not responsible for the confidentiality, security or distribution of your own personal information by our partners and third parties which occurs outside the scope of your agreement with Raceway. 
 
@@ -101,7 +93,7 @@ Raceway strongly encourages parents and guardians to supervise the online activi
 
 **_SPECIAL OFFERS_**
 
-[Raceway sends all new members a welcoming e-mail to verify password and e-mail address.] [Is this true?] Established members will occasionally receive information on [OPTIONAL: products, services, special deals, etc.]. Out of respect for the privacy of RacingJunk.com's users, we present the option to not receive these types of communications. Please see our "Opt Out" section above. 
+Raceway sends all new members a welcoming e-mail to verify password and e-mail address. Established members will occasionally receive information on [OPTIONAL: products, services, special deals, etc.]. Out of respect for the privacy of RacingJunk.com's users, we present the option to not receive these types of communications. Please see our "Opt Out" section above. 
 
 If users wish to subscribe to Raceway's newsletter and/or periodic correspondence, we require their e-mail addresses. If they are under 13 years of age Raceway will not send them a newsletter. 
 
@@ -121,6 +113,6 @@ Raceway will notify you of any significant changes to the RacingJunk.com Privacy
 
 **_RECOMMEND AD_**
 
-If a user elects to use RacingJunk.com's referral service called "Recommend Ad" to tell a friend about the RacingJunk.com site, Raceway asks for the friend's name and e-mail address. Raceway will automatically send the friend a one-time e-mail inviting the friend to visit the site. Raceway stores this information for the sole purpose of sending this one-time e-mail. The friend may contact Raceway at [info@racingjunk.com] to request the removal of this information from Raceway's database. 
+If a user elects to use RacingJunk.com's referral service called "Recommend Ad" to tell a friend about the RacingJunk.com site, Raceway asks for the friend's name and e-mail address. Raceway will automatically send the friend a one-time e-mail inviting the friend to visit the site. Raceway stores this information for the sole purpose of sending this one-time e-mail. The friend may contact Raceway at info@racingjunk.com to request the removal of this information from Raceway's database. 
 
 Copyright Â© 2003 Raceway Media, LLC. All rights reserved. 
