@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zootycoon.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204002127id_/http%3A//www.microsoft.com/privacy/onestop/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootycoon.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616074250id_/http%3A//www.microsoft.com/privacy/onestop/default.htm) for the most accurate reproduction.*
 
 # How Microsoft Helps Protect Your Privacy
 
