@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postgazette.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623081923id_/http%3A//www.post-gazette.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postgazette.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207224952id_/http%3A//www.post-gazette.com/privacy.asp) for the most accurate reproduction.*
 
 # Pittsburgh Post-Gazette - Privacy Policy
 
@@ -28,7 +28,7 @@ If a user of post-gazette.com responds with information including feedback and d
 
 **Viewer privacy statement**
 
-We use a third-party advertising company to serve ads when you visit our Web site.The same company also gathers non-personably identifiable information about site visitation patterns so that we can continue to improve our web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please [click here](http://www.247realmedia.com/privacy.html).
+We use a third- party advertising company to serve ads. The same company also gathers non-personably identifiable information about site visitation patterns so that we can continue to improve our web site. This company may use information (not including your name, address, email address, or telephone number) about your visit to this web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please [click here.](http://www.247realmedia.com/privacy.html)
 
 **Order Information Privacy**
 
