@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpay.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205233346id_/http%3A//www.worldpay.com/usa_en/about/index.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpay.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403201040id_/http%3A//www.worldpay.com/usa_en/about/index.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # WorldPay - About Us
 
