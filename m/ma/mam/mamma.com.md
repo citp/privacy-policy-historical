@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622100924id_/http%3A//mamma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205140500id_/http%3A//mamma.com//privacy.html) for the most accurate reproduction.*
 
-# Mamma.com: The Mother Of All Search Engines
+# Mamma.com - The Mother Of All Search Engines
 
 **Privacy Policy**
 
@@ -28,7 +28,9 @@ You can choose to accept or refuse the cookies that we send to you by changing t
 
 You will find direct links on our site to our Mamma Shops and other web sites. We have requested that these third party sites adopt acceptable privacy policies. These sites, however, are not covered by this Privacy Policy and if you have any concerns that a site to which we have a direct link is not practicing an acceptable policy please contact them directly.
 
-Some of the keyword targeted banners ads appearing on this Web site are delivered to you by DoubleClick, one of our Web advertising partners. Please click [here](http://www.doubleclick.net/privacy_policy/) for more information on DoubleClick and its privacy policy, information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns. 
+Some of the keyword targeted banners ads appearing on this Web site are delivered to you by DoubleClick, one of our Web advertising partners. Please click [here](http://www.doubleclick.net/privacy_policy/) for more information on DoubleClick and its privacy policy, information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns.
+
+Mamma.com also uses the services of Engage for the serving of some targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 
 **Security**
 
