@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nh.gov privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203023639id_/http%3A//nh.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nh.gov privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603124507id_/http%3A//www.nh.gov/disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
