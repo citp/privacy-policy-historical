@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the firehouse.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203011642id_/http%3A//www.firehouse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehouse.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627162243id_/http%3A//www.firehouse.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Firehouse.com: Privacy Policy
 
-**FIREHOUSE.COM PRIVACY STATEMENT**  
-
-
-This privacy statement discloses the privacy practices for www.firehouse.com . 
-
-If you feel that this company is not abiding by its posted privacy policy, you should first contact Paul Andrews, Vice President: E-Commerce by calling 301.486.3224 or via mail: Firehouse.com 9658 Baltimore Avenue, Suite 350, College Park, MD 20740. 
+Privacy Policy
 
 **Information Collection and Use**  
 
@@ -111,6 +106,11 @@ Users of our site are always notified when their information is being collected 
 
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+
+**Contact**  
+
+
+If you feel that this company is not abiding by its posted privacy policy, you should first contact Paul Andrews, Vice President: E-Commerce by calling 301.486.3224 or via mail: Firehouse.com 9658 Baltimore Avenue, Suite 350, College Park, MD 20740. 
 
   * [Return to Firehouse.com Home Page](https://web.archive.org/index.html)  
 
