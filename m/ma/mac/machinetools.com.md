@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407154054id_/http%3A//www.machinetools.com/mt/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204231405id_/http%3A//www.machinetools.com/mt/privacy.tmpl) for the most accurate reproduction.*
 
-# MachineTools.com - new and used machine tools, new and used machinery dealers, CNC lathes, machines, and fanuc parts available here!
-
-**PRIVACY STATEMENT**
+# MachineTools.com - Metalworking, Fabricating, Machine Tools, New and Used machinery, Auctions, Industry Job and Message Boards
 
 MachineTools.com is completely committed to ensuring the safety of your personal information.
 
