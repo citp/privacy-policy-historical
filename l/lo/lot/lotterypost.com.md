@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotterypost.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215183100id_/http%3A//www.lotterypost.com/lotterypost/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterypost.com privacy policy that was archived on 2001-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010629193127id_/http%3A//www.lotterypost.com/lotterypost/privacy.asp) for the most accurate reproduction.*
 
 # Lottery Post - Privacy Statement
 
@@ -15,7 +15,7 @@ The Lottery Post privacy policies are simple:
 
 
   
-If you have any questions, please [contact us](http://www.lotterypost.com/lotterypost/contact.asp).
+If you have any questions, please [contact us](https://web.archive.org/lotterypost/contact.asp).
 
   
 
@@ -25,8 +25,8 @@ If you have any questions, please [contact us](http://www.lotterypost.com/lotter
 [Big Game Lottery  
 Results and News](http://www.biggamelottery.com/)|   |  | [Play The Official  
 Big Game Online!](http://www.playbiggame.com/)|   |  | [Content  
-Statement](http://www.lotterypost.com/lotterypost/content.asp)|   |  | [Privacy  
-Statement](http://www.lotterypost.com/lotterypost/privacy.asp)  
+Statement](https://web.archive.org/lotterypost/content.asp)|   |  | [Privacy  
+Statement](https://web.archive.org/lotterypost/privacy.asp)  
 ---|---|---|---|---|---|---  
   
-Copyright © 1999-2000 Big Game LLC.  All rights reserved
+Copyright © 1999-2001 Big Game LLC.  All rights reserved
