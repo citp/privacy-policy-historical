@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotdealsclub.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604164106id_/http%3A//www.hotdealsclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotdealsclub.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806192631id_/http%3A//hotdealsclub.com/privacy) for the most accurate reproduction.*
 
 # Hot Deals Club - Privacy Policy
 
@@ -18,7 +18,7 @@ Hot Deals Club is an independent, non-profit organization whose mission is to fi
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Hot Deals Club control 
   7. How you can correct any inaccuracies in the information. 
 
-If you feel that this company is not abiding by its posted privacy policy, you should contact THe Hot Deals Maniac by sending an email to [Maniac@HotDealsClub.com](mailto:maniac@hotdealsclub.com) or write a letter to Hot Deals Maniac, 12 Stoneholm Street #428, Boston MA 02115. 
+If you feel that this company is not abiding by its posted privacy policy, you should contact THe Hot Deals Maniac by sending us email. 
 
 **Information Collection and Use**  
   
@@ -62,7 +62,7 @@ In order for this website to properly fulfill its obligation to our visitors, it
 
 **Correction/Updating Personal Information**  
   
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service(s), we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by emailing our Customer Support at [Admin@HotDealsClub.com](mailto:admin@hotdealsclub.com). 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service(s), we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by emailing the Hot Deals Maniac. 
 
 **Choice/Opt-out**  
   
@@ -76,4 +76,4 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 **Emails**  
   
-If you wish to submit a "hot deal" or talk to the author of this website, you may send email to The Hot Deals Maniac at [Maniac@HotDealsClub.com](mailto:maniac@hotdealsclub.com). From time to time, we may decide to share your email with the other visitors on this site. Thus, emails received by the Hot Deals Club are subject to being posting on this website, unless the sender requests that their email not be posted. If we decide to post your email letter on this website, it will be stripped of any personal information, such as your name, email address, and phone number, unless the email we received was threatening or abusive. Please note that due to a heavy amount of emails we receive, the person who responds to your email may be a privlidged member of the Hot Deals Club, not necessarilly the owner of the Hot Deals Club. 
+If you wish to submit a "hot deal" or talk to the author of this website, you may send email to the Hot Deals Maniac. From time to time, we may decide to share your email with the other visitors on this site. Thus, emails received by the Hot Deals Club are subject to being posting on this website, unless the sender requests that their email not be posted. If we decide to post your email letter on this website, it will be stripped of any personal information, such as your name, email address, and phone number, unless the email we received was threatening or abusive. Please note that due to a heavy amount of emails we receive, the person who responds to your email may be a privlidged member of the Hot Deals Club, not necessarilly the owner of the Hot Deals Club. 
