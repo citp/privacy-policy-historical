@@ -1,74 +1,63 @@
-> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408072637id_/http%3A//www.techtracker.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201220338id_/http%3A//www.techtracker.com/legal/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Statement: TechTracker.com - The Intelligent Tech Support Network
+# TechTracker.com
 
-**TechTracker.com Privacy Statement**
+[Home](https://web.archive.org/) > [Legal](https://web.archive.org/legal) > Privacy Policy >
 
-TechTracker.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for these websites: www.techtracker.com, www.versiontracker.com, www.windowstracker.com, www.macfixit.com, and www.palmtracker.com as well as any associated desktop application technologies. 
+TechTracker: Privacy Statement
 
-  
-**IP Address & Cookies**
+This statement discloses the privacy practices for the TechTracker family of web sites (www.techtracker.com, www.versiontracker.com, and www.macfixit.com) hereafter referenced as TechTracker, or "us" or "we." 
 
-We may use your IP address to help diagnose problems with our server, and to administer our Web site. We may use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
+PLEASE REVIEW THIS POLICY CAREFULLY, AS WELL AS THE TERMS AND CONDITIONS POLICY BEFORE USING THIS WEBSITE. By using any TechTracker website, you agree to the terms of these policies. If you do not agree to such terms, you may not use and must exit this web site. 
 
-  
-**Registration Information**
+### Information we collect about you
 
-Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is used solely by TechTracker to contact the visitor when necessary. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specifically requested purposes such as receiving our e-mail newsletters or being notified if they have won one of our contests. Each e-mail newsletter always contains instructions on how to unsubscribe from the newsletter. 
+We strive to provide information and services that are tailored to our users' needs. To do this, we may ask that you provide personal information when you do any of the following: register for our site, enter a contest/sweepstakes, complete surveys, submit content, subscribe to newsletters, or request customer service. We only collect personally identifiable information that you submit voluntarily. If you choose not to register or provide personally identifiable information, you can still use the website, but will not be able to use the services that require such information. 
 
-TechTracker does not sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or contest submission unless specifically noted during the submission process. This information is used to better understand visitors' use of TechTracker's site and to support related transactions made on the site. 
+### Why we collect information
 
-  
-**TechTracker Pro Desktop Application**
+TechTracker collects personal information for purposes such as: 
 
-TechTracker Pro uses proprietary technology to scan your computer and retrieve information regarding installed software and hardware. The information compiled by the client application will be transmitted, in encrypted format, to the VersionTracker.com database to generate personalized software reports specifically for you. We do not share any of your information with third parties. 
+Membership allows users to have access to several site features, including: email functions, forum participation, and access to free TechTracker software. If you prefer that TechTracker or any approved third party not contact you, you may choose to be not contacted (see the "Opting Out" section below). 
 
-You can remove or change any personal information in our database by logging into your VersionTracker.com account and changing or deleting your account information. 
+Surveys are entirely optional and are used only to gather data regarding our users in the aggregate form, for use in improving our service. 
 
-  
-**Third party links**
+To qualify for entry in a contest, we may ask for personally identifiable information. If such information is shared, this will be disclosed in the specific game or contest rules. We may use your personal information to deliver a prize, should you be a winner. 
 
-In an attempt to provide increased value to our visitors, TechTracker provides links to various third party web sites from its own site. However, even if the third party is affiliated with TechTracker, TechTracker has no control over these linked sites who each have separate privacy and data collection practices, independent of TechTracker. TechTracker has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, TechTracker seeks to protect the integrity of its web site and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work). 
+In the event of an assignment, sale, joint venture, or other transfer or disposition of some or all of the assets of TechTracker, Inc., you agree that we can accordingly assign, sell, license or transfer any information that our Users have provided to us. Please note, however, that the purchasing party can not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy without your prior consent. 
 
-  
-**Online Surveys**
+TechTracker may disclose user information when we believe in good faith that the law requires it, or when disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to others or interfering with TechTracker's rights or property. 
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may cancel future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+### Opting Out
 
-  
-**Site Advertisers**
+TechTracker provides users with the ability to opt out or opt in for communications from any of the TechTracker websites. At any point in the future, a User may change their preferences and "opt out" or "opt in" to communications by updating their User information within the membership area of the TechTracker site. 
 
-We use outside ad companies such as Flycast to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received from banner ads are collected by our ad company, and we do not have access to this information. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+Note: the "opt in" and "opt out" features will not affect e-mail required to notify users of changes in membership or this privacy policy, or in response to user inquiries. 
 
-  
-**Public Forums**
+### Discussion Forums
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+TechTracker forums are public. Please consider this before posting. 
 
-  
-**Security**
+### Use of Aggregate Information
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+TechTracker may share aggregate information about our Users with advertisers, business partners, sponsors and other third parties. For example, we may say that 40% of our readers are graphic designers. We use this information to customize our content and advertising to deliver services that are well tailored to our Users' needs. 
 
-  
-**Choice/Opt-Out**
+### Use of Cookies:
 
-Our site provides users the opportunity to opt-out of receiving communications from us during the registration process. TechTracker.com sites give users the option to remove their information from our database to not receive future communications or to no longer receive our service. Users can also send an email to [info@TechTracker.com](mailto:info@techtracker.com)
+TechTracker uses cookies to track user traffic patterns, for membership, and in conjunction with advertising. You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use most of the TechTracker site. However, you do need cookies to use any member's only function of the sites as well as areas where content is customizable. 
 
-  
-**Correct/Update**
+While using our websites, you may receive cookies from our advertisers or sponsors. TechTracker does not control such cookies or use the associated data. 
 
-TechTracker.com sites give users the option to change and modify information previously provided. Users can email [info@TechTracker.com](mailto:info@techtracker.com)
+### Correcting and updating personal information
 
-  
-**Contacting TechTracker.com**
+You may edit any of your membership preferences, at any time, by logging in to the membership area of the site with your e-mail address and password. If you wish to deactivate your TechTracker membership, simply call our Customer Service department at 503.227.2571 and request for you account to be removed. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
+### Security of Information
 
+The security of our Users' personally identifiable information is of the highest priority. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or through our Services, and you do so at your own risk. 
 
-Webmaster   
-TechTracker.com   
-[webmaster@TechTracker.com](mailto:webmaster@techtracker.com)
+Once we receive your transmission, we make our best effort to ensure its security on our systems. Whenever credit card information is transmitted, we use industry-standard, SSL (secure socket layer) encryption. Only those who have your username and password can access your account information. We strongly recommend that you do not share your password with anyone. We will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Please remember to sign out properly and close your browser window when you have finished your work. This helps ensure that others cannot access your personal information. 
 
-  
+### Policy Modifications
 
+We may change this Privacy Policy from time to time. Be assured that even if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy without your prior consent. 
