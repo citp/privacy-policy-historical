@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belvoir.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604032255id_/http%3A//www.belvoir.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belvoir.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010003849id_/http%3A//www.belvoir.com/privacy.html) for the most accurate reproduction.*
 
 # Belvoir -Privacy Page
 
