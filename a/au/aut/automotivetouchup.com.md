@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205084520id_/http%3A//www.automotivetouchup.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402054206id_/http%3A//www.automotivetouchup.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -10,8 +10,7 @@ Our postal address is
 Metairie, LA 70003**
 
 We can be reached via e-mail at [web@automotivetouchup.com](mailto:web@automotivetouchup.com)  
-or you can reach us toll free by phone at 1-888-710-5192  
- 
+or you can reach us toll free by phone at 1-888-710-5192  
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address (It may recognize an IP address or a referring domain).
 
@@ -39,3 +38,5 @@ With respect to security: We always use industry-standard encryption technologie
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.  
  
+
+This website is property of and maintained by [Automotivetouchup.com](http://www.automotivetouchup.com/),  a Microfinish LLC Company © 2002-2004. Any questions or comments  email [web@automotivetouchup.com](mailto:web@automotivetouchup.com) Call Toll Free 1-888-710-5192
