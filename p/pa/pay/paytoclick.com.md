@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paytoclick.com privacy policy that was archived on 2001-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011110204722id_/http%3A//paytoclick.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytoclick.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611210536id_/http%3A//www.paytoclick.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Pay to click
 
@@ -54,7 +54,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 [ corywu@hotmail.com ](mailto:corywu@hotmail.com)
 
-_All the freebies on the internet works with a third party that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to<http://www.flycast.com/about_us/about-privacy.html>._
+WebTrends Live License Agreement requires that you let your visitors know that you use WebTrends Live for traffic analysis, and that they can review our privacy policy at **<http://www.webtrendslive.com/privacy_policy.htm>**. 
 
 * * *
 
