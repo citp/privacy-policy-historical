@@ -1,28 +1,32 @@
-> *The following text is extracted and transformed from the eqsl.cc privacy policy that was archived on 2003-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eqsl.cc privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/Privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - eQSL.cc
 
-|    
-  
+|    
 ---  
-[](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/FAQ.cfm) [FAQ](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/FAQ.cfm)  
-[Ask Question](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/ContactWebmaster.cfm)  
-[How?](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/Presentation.cfm)   
+Callsign:   
+[](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/FAQ.cfm)
+
+####  [FAQ](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/FAQ.cfm)  
+[Contact Us](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/ContactWebmaster.cfm)
+
+  
   
 Welcome New User  
-KD5QXH   
-Joshua Peters from USA   
+AA6RE   
+David Gillooly from USA   
 eAwards  
-Latest [eDX100](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/eDX100Rules.cfm) winner: K2MFY   
-Latest [eDX](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/eDXRules.cfm) winner: HS1PDY   
-Latest [eWAS](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/eWASRules.cfm) winner: N1BCL   
-Top 25 [Power Users](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/PowerUsers.cfm)  
-Take a Look!  
-[Dayton 2003 Photos](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/PhotoViewer.cfm)  
+Latest [eDX100](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/eDX100Rules.cfm) winner: K3MD   
+Latest [eDX](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/eDXRules.cfm) winner: LA2BBA   
+Latest [eWAS](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/eWASRules.cfm) winner: LU6ETB   
+Top 25 [Power Users](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/PowerUsers.cfm)  
+Latest 25 [Authenticity Guaranteed](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/LatestAG.cfm)  
+Dayton Hamvention 2004  
+[Photos](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/PhotoViewer.cfm)  
 Advertising Opportunities  
-If you have a ham radio oriented business, [take a look](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/ratesheet.cfm) at our advertising opportunities!   
+If you have a ham radio oriented business, [take a look](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/ratesheet.cfm) at our advertising opportunities!   
 Amateur Radio Products  
-[Shop Online](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/Shopping.cfm) for amateur radio books and other items! Help support eQSL.cc by visiting our excellent advertisers! These are companies and organizations that we believe you will want to visit. [More...](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/Shopping.cfm)  
+[Shop Online](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/Shopping.cfm) for amateur radio books and other items! Help support eQSL.cc by visiting our excellent advertisers! These are companies and organizations that we believe you will want to visit. [More...](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/Shopping.cfm)  
 eGroups  
 [ ](http://www.egroups.com/subscribe/OnLineQSL)   
 Subscribe to the **OnLineQSL** discussion   
@@ -41,18 +45,18 @@ Thus, we have established certain guidelines for everything we do on this web si
   * We do not provide your personal information to anyone else without your permission; 
   * We do not provide listings of your personal logbook; 
   * We do not give away, rent, or sell mailing lists of names, addresses, or e-mail addresses without your permission; 
-  * We allow you to control the amount of e-mail you get from us using your [Profile screen](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/editProfile.cfm); 
+  * We allow you to control the amount of e-mail you get from us using your [Profile screen](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/editProfile.cfm); 
   * We store all information in a protected database; 
 
   
 Personal Information   
-**Profile Information** that you have entered during registration or in your [Profile screen](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/editProfile.cfm) is not published, except when it is printed on a specific eQSL card. 
+**Profile Information** that you have entered during registration or in your [Profile screen](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/editProfile.cfm) is not published, except when it is printed on a specific eQSL card. 
 
 **eQSLs** cannot be viewed by anyone except the hams to whom you are sending them. 
 
 **Logbooks** are not published, so the only person who will see your eQSL is the person who knows the date and band of the QSO. We believe it is against standard privacy procedures to publish an entire log, as some sites do. 
 
-**Signatures** , such as those on your license submitted for the [Authenticity Guaranteed](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/authenticity.cfm) certificate are only seen one time by the eQSL.cc staff member or Advisory Board member who reviews and approves it. The license is never displayed to other users of the system.   
+**Signatures** , such as those on your license submitted for the [Authenticity Guaranteed](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/authenticity.cfm) certificate are only seen one time by the eQSL.cc staff member or Advisory Board member who reviews and approves it. The license is never displayed to other users of the system.   
   
 Cookies - Identifying your callsign with each transmission   
 Cookies are not well understood by the Internet public. But hams can have a simple way of remembering what they are for: 
@@ -85,7 +89,7 @@ Our Certificate of Authenticity
   
 This certificate is issued by www.IDAuthority.com and guarantees our identity   
   
-If you have any concerns that were not addressed here, please [contact the Webmaster](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/contactWebmaster.cfm) for an answer. 
+If you have any concerns that were not addressed here, please [contact the Webmaster](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/contactWebmaster.cfm) for an answer. 
 
-[](https://web.archive.org/web/20031015135823id_/http%3A//www.eqsl.cc/QSLcard/AdRedirector.cfm?AdID=62)   
+[](https://web.archive.org/web/20040626190018id_/http%3A//www.eqsl.cc/qslcard/AdRedirector.cfm?AdID=85)   
 
