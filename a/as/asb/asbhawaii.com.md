@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2000-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000623152652id_/http%3A//www.asbhawaii.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215041700id_/http%3A//www.asbhawaii.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ You may be asked for personally-identifying information in order to process your
 
 **We will NOT sell personally-identifying information** to an unaffiliated third party for the purpose of solicitation or sell personal information to an unaffiliated third party for its own use.
 
-Sometimes we send our customers information about our or our affiliates' products and services. If you do not wish to receive this information, or if you believe that your personal information is incorrect please [contact us.](https://web.archive.org/web/20000623152652id_/http%3A//www.asbhawaii.com/contactus1.html) We will investigate the situation and if appropriate update our records. 
+Sometimes we send our customers information about our or our affiliates' products and services. If you do not wish to receive this information, or if you believe that your personal information is incorrect please [contact us.](https://web.archive.org/web/20001215041700id_/http%3A//www.asbhawaii.com/contactus1.html) We will investigate the situation and if appropriate update our records. 
 
 We will disclose information to third parties about your account or the transfer you make:
 
@@ -46,6 +46,6 @@ We will disclose information to third parties about your account or the transfer
 
 
 
-If you have any questions that are not answered in this section please [contact us.](https://web.archive.org/web/20000623152652id_/http%3A//www.asbhawaii.com/contactus1.html)
+If you have any questions that are not answered in this section please [contact us.](https://web.archive.org/web/20001215041700id_/http%3A//www.asbhawaii.com/contactus1.html)
 
 Use your browser's [back button] to return to previous page
