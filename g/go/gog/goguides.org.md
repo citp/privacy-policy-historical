@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214015943id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603184150id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
 
-# Public Privacy Policy
+# GoGuides.Org Directory & Search
 
 oGuides.Org respects and protects your privacy, when you are using our free GoGuides.Org Search and Directory. Information that may specifically identify you as an individual is never collected nor shared with third parties. 
 
@@ -25,11 +25,9 @@ For example, we may disclose keyword searches, or the amount of time spent in se
 
  **Your consent and changes to the Privacy Policy  **
 
-By using the GoGuides.Org Search and our web site, you consent to the collection and use of your information as outlined in this policy and to our 
+By using the GoGuides.Org Search and our web site, you consent to the collection and use of your information as outlined in this policy and to our [Terms of Service Policy](http://www.goguides.org/info/legal.html). GoGuides.Org may decide to change this Privacy Policy from time to time. Any such changes will be dated and posted on this page. The purpose of this Policy is to make you an informed Internet user - fully aware of what information is collected and the uses for complied information.
 
-[Terms of Service Policy](http://www.goguides.org/info/legal.html). GoGuides.Org may decide to change this Privacy Policy from time to time. Any such changes will be dated and posted on this page. The purpose of this Policy is to make you an informed Internet user - fully aware of what information is collected and the uses for complied information. **Additional questions?**  
+ **Additional questions?**  
 
 If you still have questions feel free to contact us.  
-Our email address is Team Support - 
-
-[teamsupport@goguides.org](mailto:teamsupport@goguides.org)
+Our email address is Team Support - [teamsupport@goguides.org](mailto:teamsupport@goguides.org)
