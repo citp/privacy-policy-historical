@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicystudio.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203225905id_/http%3A//juicystudio.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicystudio.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607054120id_/http%3A//www.juicystudio.com/privacy.asp) for the most accurate reproduction.*
 
 # Juicy Studio: Privacy Policy
 
@@ -26,11 +26,11 @@ By using this Web site, you are agreeing that you will not post offensive commen
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact me](https://web.archive.org/web/20031203225905id_/http%3A//juicystudio.com/contact.asp?subject=Privacy%20Policy "Send feedback to Juicy Studio"). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact me](https://web.archive.org/web/20040607054120id_/http%3A//www.juicystudio.com/contact.asp?subject=Privacy%20Policy "Send feedback to Juicy Studio"). 
 
 Best regards, Gez 
 
-[](http://validator.w3.org/check/referer) . [](http://jigsaw.w3.org/css-validator/validator?uri=http://www.juicystudio.com/extras/main.css) . [](http://www.w3.org/WAI/WCAG1AAA-Conformance "Explanation of Level Triple-A Conformance") . [](http://bobby.watchfire.com/bobby/html/en/index.jsp "Bobby's Home Page")
+[](http://validator.w3.org/check/referer) . [](http://www.w3.org/Style/CSS/Buttons) . [](http://www.w3.org/WAI/WCAG1AAA-Conformance "Explanation of Level Triple-A Conformance")
 
-Copyright © 2000-2003 Juicy Studio. All rights reserved. 
+Copyright © 2000-2004 Juicy Studio. All rights reserved. 
   *[IP]: Internet Protocol
