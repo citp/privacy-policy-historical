@@ -1,128 +1,78 @@
-> *The following text is extracted and transformed from the match.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330094403id_/http%3A//www.match.com/login/privacystatement.htm%3FAssociateID%3D1911) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404103450id_/http%3A//www.match.com/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
 
-# PrivacyStatement.htm
+# Match.com - Find Love at the World's Largest Online Dating Personals Service
 
-**Privacy Statement for Match.com Internet Personals**
-
-This confirms that Match.com Internet Personals is a licensee of the TRUSTe Privacy Program. TRUSTe certification covers only the privacy practices of this site, not any services offered by Match.com. The following privacy statement discloses the privacy practices of www.match.com. 
-
-TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
-
-  1. What information this site collects/tracks.
-  2. How this site uses the information it collects/tracks.
-  3. With whom this site shares the information it collects/tracks.
-  4. How this policy applies to links in this site.
-  5. Use of cookies on the site.
-  6. This site's policy on correcting, updating or removing personal information.
-  7. Changes in our privacy policy.
-  8. Security of your personal information.
-  9. E-mail Choice/Opt-out policy.
-  10. Methods of contacting the Site.
-
+TRUSTe Licensee  
+---  
   
-Questions regarding this statement should be directed to the Match.com Site Coordinator at P.O. Box 940889; Plano, Texas 75094 or by email at privacy@match.com. If the website has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe[http://www.truste.org/watchdog.html.](http://www.truste.org/watchdog.html) To return to the Site, please use the "Back" button on your browser. 
+PRIVACY POLICY  
+  
+Match.com Privacy Policy
 
-**About Match.Com and the Information We Collect**
+We at Match.com, L.P. ("we" or "Match.com") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage, and data gathered, on the Match.com Website, Match.com Messenger and double blind email communications between Match.com members (collectively, the "Site") but does not apply to any other Website or offline point of contact between Match.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on March 21, 2003. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.   
+  
+A Licensee of TRUSTe
 
-Match.com is an online matchmaking service designed to provide an easy way for our members to meet each other on the Web. To accomplish this, our members create their own unique profile and our matching technology provides them matches based on their pre-selected criteria. In order to do this we must ask for certain personal information. None of the information we gather can be used by the public (visitors, other members, or anyone not employed by Match.com or the financial institutions used to process membership charges) to identify specific individuals. 
+Match.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our information practices with respect to the Site and have them reviewed for compliance by TRUSTe. If users have questions or concerns regarding this statement, they should first contact the Privacy Officer at [ legal@match.com ](https://web.archive.org/web/20050404103450id_/http%3A//www.match.com/help/contactus.aspx?lid=0) or at Match.com, c/o Legal Department, P.O. Box 940889, Plano, TX 75094. If users do not receive an acknowledgement of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process  (http://www.truste.org/watchdog.html).  TRUSTe has promised to serve as a liaison with us to resolve users concerns.   
+  
+Your IP Address
 
-We are a membership-based service. We collect credit card, address, or bank information only from those who choose to join. All visitors to our site may browse the site, search the ads and view any articles or features our site has to offer without entering any personal information. 
+Like most e-commerce Websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.   
+  
+Cookies
 
-1. **Information Collected/Tracked by Match.Com**
+Like most Websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to reenter it each time you visit the Site. Third party advertisers on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the Site.   
+  
+Information We Collect From You
 
-Match.Com gathers two types of information:information users submit to us and information not directly submitted by users. 
+In order to operate the Site and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly (without using the Site) such as full name, postal address, phone number or email address), "financial information" (i.e. credit card numbers or passwords) or "demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information; this may include, but is not limited to, zip code, postal code, hometown, gender, username, age/birth date, purchase history information, browsing history information, searching history information, registration history information, and the content of communications between you and other members over the Site), subject to the rest of this paragraph. Demographic information is divided into two categories: 1) "non-public information", which consists of purchase history information and one-on-one communications between you and other users of the Site; and 2) "public information", which consists of all other demographic information. We ask that you do not enter personal information or financial information into your “Profile” (for example, don’t use your address or passcode as your username, or include your name or address in your written responses), because if you do then it may be posted publicly on the Site, and the information will then be treated as "demographic information" that is "public information." Please note that nowhere on the Site do we knowingly collect personal information from children under the age of 18, as we require that all users represent to us that they are at least 18 years old.   
+  
+Microsoft .NET Passport Service
 
-**Information submitted to Match.Com**
+This Web site uses the Microsoft .NET Passport service, which makes your online experience signing in, purchasing items, and giving consent for your children easier and more secure. When you sign in to this site using .NET Passport, you will be asked to provide your e-mail address and a password to sign you in. This same .NET Passport sign-in allows you to access many other participating .NET Passport Web sites. When you register for a .NET Passport at this Web site, a profile is created and some of your registration data is shared with Microsoft, such as your e-mail address. The .NET Passport service assigns a personal identification number and sends it to your computer in the form of a small text file, called a "cookie." The use of this cookie allows you to visit other participating .NET Passport Web sites without having to sign in to each Web site. To learn more about the .NET Passport service and how .NET Passport uses and protects your personal information, please read the .NET Passport privacy statement [ http://www.passport.net/consumer/privacypolicy.asp?lc=1033 ](http://www.passport.net/consumer/privacypolicy.asp?lc=1033)  
+  
+Information Other Websites Collect From You 
 
-There are two types of user-submitted information we collect: Public and Private. We define Public information as personal information that may be displayed on the site, such as gender, age and height, but cannot be linked to a particular user. Private information is defined as any information that allows others to contact a user other than through Match.com or allows the collection of information about the user other than what is displayed on the site. 
+On the Site, we place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites’ business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.   
+  
+How We Use Personal Information
 
-**PUBLIC:**  
-To accomplish our goal of bringing compatible people together, we must gather personal information, which may or may not include: customer-specified Match.com username, gender, age, ethnic background, appearance, religion, income range, occupation, preference/lifestyle information and general geographic location. Much of this information is optional, and meant to be seen by members and visitors to the site but cannot be used to identify a specific member by name, address, etc.
+We use your email address and your other personal information to help us efficiently operate the Site, to contact you in connection with your transactions and other activities on the Site (including, but not limited to, confirmation emails or important news that could affect your relationship with Match.com), and to forward messages to you from other Match.com users. These types of communications, are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers. 
 
-**PRIVATE:**  
-This information is gathered from members and guests who apply for the various services our site offers. This information includes, but is not limited to: email address, first name, last name, birthdate, credit card number or checking account information for payment, a user-specified password, mailing address, zip code and telephone number.
+We also use personal information to send you newsletters, information, offers and other promotional materials for Match.com’s or third parties’ goods or services. We attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Site provides you with options to decline to receive communications from Match.com (other than those contained in Operational Communications). Some of these options may only be for a certain category of communications; others may be more general. By posting a profile on the Site, you are opting in to receive the Match.com by Mail email. To stop receiving Match.com by Mail, go to the "Email Options" section of your [ account settings ](https://web.archive.org/web/20050404103450id_/http%3A//www.match.com/accountsettings/accountindex.aspx?lid=108) and change your desired frequency" to "Never." 
 
-**Surveys & Contests:**   
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). 
+To operate the Site, including processing your transactions and supporting your activities on the Site, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose. 
 
-**Match.com Affiliate Partners -**   
-The Affiliate Partner program is a vehicle for other relationship-based sites to link to the Match.com site. No personal member information is exchanged with the Affiliate Partner.
+By purchasing, or registering or making reservations for, products or services offered or sponsored by third parties on the Site, or electing to receive communications (such as emails or magazine subscriptions) or electing to participate in contests, sweepstakes or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information you submit to us. 
 
-**Information not Directly Submitted by Users to Match.com**
+In some cases, we may enter into a promotional relationship with another company in which we prominently display their brand name or trademarks on pages of the Site. These pages are known as "Co-Branded Pages" and these companies are known as “Co-Branded Companies.” If the page on which you submit information is a Co-Branded Page, or was accessed by clicking on a link on a Co-Branded Page, then we may share your personal information with the associated Co-Branded Company. Co-Branded Companies may use your personal information in accordance with their own privacy policies. You will need to contact Co-Branded Companies to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such Co-Branded Companies in the same manner in which we are entitled to use and disclose any other information you submit to us. Some Co-Branded Pages may contain an action tag (also known as a Web Beacon or a 1 pixel .gif file) that a third party, such as the advertising company Avenue A, may use to read cookies that it, or its clients, may have placed on your browser at other (non-Match.com) web sites before your visit to Match.com. This technology is used to measure the effectiveness of advertisements on such other Websites that promote Co-Branded Pages. Further, Avenue A, or such other third parties, may use the information collected through this technology to learn more about your visits to this Site and other Websites in order to provide advertisements about goods and services of interest to you. We have been informed by Avenue A that unless you are otherwise notified, they do not use your name, address, e-mail address or telephone number, and do not link your online actions to any information that can be used to identify or contact you. However, as we may not verify that this is the case, we ask that you seek Avenue A’s assurances yourself and do not hold us accountable for the accuracy of the above statement. If you would like Avenue A to provide you with more information about their practices,  click here. 
 
-**AGGREGATE:** This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site.  
+Any third party with whom we are allowed to share your personal information is authorized to use your personal information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your personal information by them. 
 
+Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your personal information.   
+  
+How We Use Financial Information 
 
-**Use of Information Obtained by Match.Com**
+We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information, on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine are necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support the transaction or activity. By purchasing, or registering or making reservations for, products or services of third parties offered on the Site, or by participating in programs offered on the Site that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Additionally, if the page on which you submit information is a Co-Branded Page, or was accessed by clicking on a link on a Co-Branded Page, then we may share your financial information with the associated Co-Branded Company. Any of these various third parties (including Co-Branded Companies) may be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that you submit to us. Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your financial information.   
+  
+Special Cases in which we Share Personal and Financial Information
 
-2. **Information users submit to Match.com**
+Your personal information or financial information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy. We may also disclose personal information or financial information when we determine that such disclosure is necessary to comply with applicable law, to cooperate with law enforcement or to protect the interests or safety of Match.com or other visitors to the Site. We also may disclose your personal information or financial information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. Whenever personal information or financial information is disclosed under this paragraph, we may also disclose your demographic information along with it, on a non-anonymous basis. All of our parent, subsidiary and affiliated legal entities and businesses that receive your personal information, financial information, or non-anonymous demographic information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such information.   
+  
+How We Use Public Information and Other Demographic Information
 
-**PUBLIC:** Public information supplied by the user is intended to be viewed by visitors to the site. This information is used by visitors for searching and matching purposes. Public information cannot be used to identify a specific member by name, address, etc. 
+We may review all demographic information. We may use public information to enable other users to find your profile, to determine whether they are a match for you and to communicate with you. We may use demographic information to tailor the Site and communications to your interests. We may also share demographic information with advertisers on an anonymous and aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers’ goods and services will appeal to Match.com’s users, so that we may target specific ads at specific demographic groups. Our sharing of demographic information with advertisers is anonymous (i.e., we do not tell advertisers which particular Match.com users are members of which demographic groups), subject to the rest of this privacy policy. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your personal information, then the advertiser may be able to identify you as being a member of that demographic group. Please also be aware that when we disclose your financial information or personal information to a Co-Branded Company, as described above, we may also disclose to that Co-Branded Company your demographic information, other than the content of one-on-one communications between you and other members. Please also be aware that we may disclose your demographic information on a non-anonymous basis as described above in the paragraph titled "Special Cases in which we Share Personal and Financial Information." Also, to read further details about how we may use your public information, see our [ Terms of Use . ](https://web.archive.org/web/20050404103450id_/http%3A//www.match.com/registration/membagr.aspx?lid=108)  
+  
+Our Security Precautions
 
-**PRIVATE:** Email addresses submitted by members are primarily used by us verify enrollment and when forwarding anonymous e-mails from ad responders. Respondees' email addresses are not disclosed to the responder. We may also use a user's email address to send news regarding our site, but the user may choose not to receive email of this type by contacting us at admin@match.com. Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for products and services. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of Match.com. All private information can be updated or deleted by the user at any time.
+The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction.   
+  
+Changing our Privacy Policy for Previously Gathered Information
 
-**Surveys & Contests: ** Contact and other information collected for contests will be used to notify the winners and award prizes. Survey information collected will be used for purposes of monitoring or improving the use and satisfaction of this site.
+If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Site. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change.   
+  
+How You Can Access and Update Your Email Preferences, Personal Information and Public Information
 
-**Match.com's Affiliate Partners:** Information submitted by the Affiliate Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between Match.com and the Affiliate Partner. Affiliate Partners may not view or access private information on members or users of our site. 
+We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Site, at anytime by going to the [ Account Settings ](https://web.archive.org/web/20050404103450id_/http%3A//www.match.com/accountsettings/accountindex.aspx?lid=108) or [ My Profile ](https://web.archive.org/web/20050404103450id_/http%3A//www.match.com/profile/profile.aspx?lid=21) section of the Site. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. We thank you for your patience. Please note that changing or deleting your information through the "Account Settings" or "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from Match.com, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from Match.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-**Information that users do not submit to us**
-
-**AGGREGATE:** We use your server, IP address, and browser-type related information in the general administration of our website.
-
-3. **Sharing of the Information this Site Gathers/Tracks** **
-
-We do not sell, rent, share, trade or give away any of your personal information except to the financial institution that processes your credit card or check transaction unless required by law or for the protection of your membership.
-
-**
-
-4. **Links**
-
-This site contains links to other websites. Please be aware that Match.com is not responsible for the privacy practices of other Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-5. **Use of Cookies**
-
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects a cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas on our site. We occasionally use cookies to anonymously track and target the interests of our users to enhance the experience on our site or for advertising tracking purposes. In addition, cookies may be used on our site to allow enhanced capabilities such as chat. We do not and will not use cookies to collect private information from any user!
-
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. To find out more about how Citysearch manages the privacy of information in conjunction with serving ads on this site, go to www.citysearch.com . 
-
-6. **Correcting/Updating or Removing Information**
-
-Match.Com gives users the following options for modifying or removing their information from our database: 
-
-  1. You can send email to [admin@match.com](mailto:feedback@match.com)
-  2. visit [http://www.match.com/myaccount/myaccount.htm](http://www.match.com/)
-  3. You can send mail to the following postal address:  
-P. O. Box 940889, Plano, TX, 75094 
-
-
-
-7. **Changes in Our Privacy Policy**
-
-If we change our privacy policy, we will prominently post a link to those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner, and we will then use information in accordance with the privacy policy under which the information was collected.
-
-8. **Security**
-
-Match.com takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
-
-When our registration/order process asks users to enter sensitive information (such as a credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL.
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example a billing clerk or a customer service representative) are granted access to personally identifiable information.
-
-If you have any questions about the security at our website, you can send an email to admin@match.com.
-
-9. **Email Choice/Opt-out**
-
-Our users are give the opportunity to 'opt-out' of having information used for purposes not directly related to our site at the point where we ask for the information.
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communication by following the instructions contained in the e-mail, or replying to the message with UNSUBSCRIBE in the subject line 
-
-10. **Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-  1. Via e-mail[admin@match.com](mailto:feedback@match.com)
-  2. Via Phone 1-800-926-2824 
-  3. Postal Mail P. O. Box 940889  
-Plano, TX 75094 
-
-
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [ legal@match.com. ](https://web.archive.org/web/20050404103450id_/http%3A//www.match.com/help/contactus.aspx?lid=0) You can also send us mail to: Privacy Officer, Match.com, c/o Legal Department, P.O. Box 940889, Plano, TX 75094. 
