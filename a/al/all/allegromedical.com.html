@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2003-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031009121111id_/http%3A//www.allegromedical.com/Home/Privacy_Policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2004-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040618010830id_/http%3A//www.allegromedical.com/home/privacy_Policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Allegro Medical Supplies Inc. - wheelchairs, power scooters, and discount medical supplies. - - </title>
@@ -8,19 +8,19 @@
 	<meta name="description" content="Medical supplies including wheelchairs, power scooters, medical information, medical office supplies, medical equipment, urologicals, catheters, hand cycles, ostomy supplies and more!">
 	<meta name="keywords" content="Medical supplies, Medical Supply, Medical, Supplies, Supply, power scooters, canes, walkers, crutches, urologicals, catheters, hand cycles, medical equipment, ostomy supplies, allegro">
 	<meta name="Robots" content="All">
-	<meta name="Author" content="Allegro Medical Supplies from Allegromedical.com" <meta="">
-	<script language="javascript" src="../javascript/menuHide.js" type="text/javascript"></script>
-	<link href="../css/Win_IE.css" type="text/css" rel="stylesheet">
+	<meta name="Author" content="Allegro Medical Supplies from Allegromedical.com">
+	<script language="javascript" src="/javascript/menuHide.js" type="text/javascript"></script>
+	<link href="/css/Win_IE.css" type="text/css" rel="stylesheet">
 
 <script language="JavaScript">
 	function PopUpContact()
 	{
-	valReturned=window.open("../Home/Contact.asp","Stuff","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=yes,width=640,height=480,screenX=0,screenY=0")
+	valReturned=window.open("/Home/Contact.asp","Stuff","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=yes,width=640,height=480,screenX=0,screenY=0")
 	}
 
 	function PopUpRRequest()
 	{
-	valReturned=window.open("../home/ReturnRequest.asp","Stuff","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=yes,width=640,height=480,screenX=0,screenY=0")
+	valReturned=window.open("/home/ReturnRequest.asp","Stuff","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=yes,width=640,height=480,screenX=0,screenY=0")
 	}
 
 	function wipeoutemail()
@@ -29,6 +29,14 @@
 		{
 		document.AllegroAdvantage.ecat.value='';
 		}
+	if (document.AllegroAdvantage.firstname.value=="yourfirstname")
+		{
+		document.AllegroAdvantage.firstname.value='';
+		}
+	if (document.AllegroAdvantage.lastname.value=="yourlastname")
+		{
+		document.AllegroAdvantage.lastname.value='';
+		}				
 	}
 	
 	function Certify(URL) {
@@ -37,7 +45,97 @@
 	}
 	
 </script>
+<script language="javascript">
+<!--//
 
+	function checkEcatalog(e)
+		{
+			var tempStr;
+			tempStr = ltrim(e.ecat.value);
+			
+			if (tempStr.length < 1)
+			{
+				alert("Please provide an email address.");
+				e.ecat.focus();
+				return false;
+			}
+
+			if (tempStr == "you@email.com")
+			{
+				alert("Please provide a valid email address.");
+				e.ecat.focus();
+				return false;			
+			}
+			
+			if (!emailValidate(e.ecat))
+			{
+				alert("Email is not valid!");
+				e.ecat.focus();
+				return false;
+			}			
+	
+			tempStr = ltrim(e.firstname.value);			
+			if (tempStr.length < 1)
+			{
+				alert("Please provide a first name.");
+				e.firstname.focus();
+				return false;
+			}
+			
+			tempStr = ltrim(e.lastname.value);
+			if (tempStr.length < 1)
+			{
+				alert("Please provide a last name.");
+				e.lastname.focus();
+				return false;
+			}						
+			
+		}
+	
+	function emailValidate(a)
+	{
+		var bResult;
+		bResult = true;
+		
+		var theStr = new String(a.value);
+		var index = theStr.indexOf("@");
+		if (index > 0)
+		{
+			var pindex = theStr.indexOf(".",index);
+			if (!(pindex > index+1))
+			{
+				bResult =  false;	
+			}
+			else
+			{
+				bResult = true;
+	        }
+		}
+		else
+		{
+			bResult = false;
+		}
+		return bResult;
+	}
+	
+	function ltrim(str)
+	{
+	   var whitespace = new String(" \t\n\r");
+
+	   var s = new String(str);
+
+	   if (whitespace.indexOf(s.charAt(0)) != -1) {
+
+	      var j=0, i = s.length;
+	      while (j < i && whitespace.indexOf(s.charAt(j)) != -1)
+	         j++;
+	      s = s.substring(j, i);
+	   }
+	   return s;
+	}
+	
+//-->
+</script>
 
 
 
@@ -46,36 +144,24 @@
 <body onmouseover="hide_Mnu()" onmouseout="hide_Mnu()" vlink="#2c237e" alink="#2c237e" link="#2c237e" topmargin="0" leftmargin="2" bgcolor="White">
 <!-- ********** Begin Main Table **************************************************************************************************************************************** -->
 
-<form method="post" action="../Home/search.asp" id="form1" name="form1">
+<form method="post" action="/home/search.asp" id="form1" name="form1">
 
 <a name="TopOfPage_BookMark"></a>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
-
-
-		<!-- ********** Start of top Logo *********************************************************************************************************************** -->
-
-		<!-- ********** start of left side td *********************************************************************************************************************** -->
-		<td width="275" valign="top" nowrap="">
+		<td width="225" valign="top">
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td>
-						<a href="http://www.allegromedical.com/default.asp"><img src="../images/webgraphics/AllegroMedical_Logo.gif" width="200" height="38" border="0"></a>
-					</td>
-
+					<td><a href="http://www.allegromedical.com/home/default.asp"><img src="/images/webgraphics/AllegroMedical_Logo.gif" width="200" height="38" border="0" alt="Allegro Medical Supplies Inc."></a></td>
 				</tr>
 			</tbody></table>
-		</td>
-		
-<td width="100%" nowrap="" valign="Bottom" align="Center"><img src="../images/webgraphics/Tab_WelcomeSet_1.gif" width="92" height="25" border="0" alt="Welcome"><a href="http://www.allegromedical.com/Home/category.asp?C=540"><img src="../images/webgraphics/Tab_WheelchairSet_1.gif" width="87" height="25" border="0" alt="Wheelchairs"></a><a href="../Home/LiveHelp.asp"><img src="../images/webgraphics/Tab_WelcomeSet_3.gif" width="123" height="25" border="0" alt="Live Help"></a></td>
+		</td>	
+<td valign="Bottom" align="Center"><img src="/images/webgraphics/Tab_WelcomeSet_1.gif" width="92" height="25" border="0" alt="Welcome"><a href="/wheelchairs"><img src="/images/webgraphics/Tab_WheelchairSet_1.gif" width="87" height="25" border="0" alt="Wheelchairs"></a><a href="/urologicals_catheters"><img src="/images/webgraphics/Tab_UrologicalSet_4.gif" width="84" height="25" border="0" alt="Urologicals"></a><a href="/Home/LiveHelp.asp"><img src="/images/webgraphics/Tab_WelcomeSet_3.gif" width="123" height="25" border="0" alt="Live Help"></a></td>
 
 
-		<td nowrap="" valign="Center">
-
-			<a href="../cart/view.asp"><img src="../images/webgraphics/Cart_Icon.gif" width="27" height="34" border="0" alt="Click here to go to the Shopping Cart."></a>
-			<a href="../Home/Help.asp"><img src="../images/webgraphics/Help_Icon.gif" width="27" height="34" border="0" alt="Click here for Help"></a>
-
-		</td>
+		<td width="120" valign="center" align="right"><nobr>
+			<a href="/cart/view.asp"><img src="/images/webgraphics/Cart_Icon.gif" width="27" height="34" border="0" alt="Click here to go to the Shopping Cart."></a>
+			<a href="/Home/Help.asp"><img src="/images/webgraphics/Help_Icon.gif" width="27" height="34" border="0" alt="Click here for Help"></a></nobr></td>
 	</tr>
 
 
@@ -87,12 +173,12 @@
 			<table border="0" width="100%" cellpadding="2">
 				<tbody><tr>
 					<td bgcolor="#2C237E" nowrap=""><input type="text" name="SearchValue" size="17" maxlength="255" value=""></td>
-					<td align="center"><input type="image" src="../images/webgraphics/search_box.gif" border="0" name="submit" width="61" height="18"></td>
+					<td align="center"><input type="image" src="/images/webgraphics/search_box.gif" border="0" name="submit" width="61" height="18"></td>
 					<td align="right" width="100%">
 						<table width="100%">
 						<tbody><tr>
-							<td align="center"><b><font color="#DCDCE0" size="-1">FREE shipping on <u>most</u> web orders over $100 </font><a href="../Home/freeshipping.asp"><font color="#ffce63" size="-1">See Details</font></a></b></td>
-							<td align="left" width="105"><font color="#DCDCE0" size="-1"><b>800-861-3211</b></font><img src="../images/webgraphics/1x1trans.gif" height="1" width="2"></td>
+							<td align="center"><img src="/images/webgraphics/FreeShipping.gif" alt="Free shipping on most orders" width="329" height="13"><a href="/Home/freeshipping.asp"><img src="/images/webgraphics/SeeDetails.gif" border="0" alt="See Details" width="81" height="13"></a></td>
+							<td align="left" width="105"><img src="/images/webgraphics/800Number.gif" alt="800-861-3211" width="104" height="13"><img src="/images/webgraphics/1x1trans.gif" height="1" width="2"></td>
 						</tr>
 						</tbody></table>
 					</td>
@@ -109,7 +195,7 @@
 
 <table width="1" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td><img src="../images/webgraphics/1x1trans.gif" height="6" width="1"></td>
+		<td><img src="/images/webgraphics/1x1trans.gif" height="6" width="1"></td>
 	</tr>							
 </tbody></table>
 
@@ -118,7 +204,19 @@
 </tbody></table>
 <!--- End of what zzzzz -->
 
-
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="SideMenuBox">			
+	<tbody><tr>
+		<td>
+			<table border="0" cellpadding="2" cellspacing="0" width="100%">
+			<tbody><tr>
+			<td class="SideMenuText" valign="top" width="16"><img src="/images/webgraphics/info6.gif" height="16" width="16"></td>
+			<td class="SideMenuText"><font size="1" face="verdana">Medical supplies including wheelchairs, power scooters, medical information, medical office supplies, medical equipment, urologicals, catheters, hand cycles, ostomy supplies and more!</font></td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table height="2"><tbody><tr><td></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
 	<tbody><tr>
 
@@ -130,632 +228,30 @@
 
 
 
-
-
-			<!-- ********** Shop By Brand / Manufacturer **************************************************************************************************************************** -->
-					<table width="170" border="0" cellpadding="0" cellspacing="0">			
-						<tbody><tr>
-							<td colspan="3">
-								<table border="0" cellpadding="0" cellspacing="0" width="100%">
-									<tbody><tr>
-										<td><form name="Manufacturer" action="ShopByManufacturer.asp"></form></td>
-									</tr>
-								
-									<tr>
-										<td><img border="0" src="../images/webgraphics/corner_left2.gif" width="5" height="22"></td>
-										<td bgcolor="#2C237E" width="100%" align="center" nowrap="">
-											<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63">Shop </font>
-											<font size="-1" color="#FFFFFF"><b><i>by</i></b></font>
-											<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63"> Brand</font>
-										</td>
-									    <td bgcolor="#2C237E" nowrap=""><img border="0" src="../images/webgraphics/1x1trans.gif" width="5"></td>
-									</tr>
-								</tbody></table>
-							</td>
-						</tr>
-
-						<tr>
-							<td colspan="3">
-								<table border="0" cellpadding="0" cellspacing="0" class="SideMenuBox" width="100%">
-									<tbody><tr class="SideMenuBox">
-										<td nowrap="" class="SideMenuText">
-											<select name="M" onchange="document.Manufacturer.submit()">
-												<option value="0">Pick a Brand
-						          </option><option value="14887">3M™
-          </option><option value="14889">A+ Medical
-          </option><option value="15579">Access Able
-          </option><option value="15629">Accessible Environ.
-          </option><option value="15641">AccuTech
-          </option><option value="15502">Active Ankle
-          </option><option value="14894">ActiveAid
-          </option><option value="15732">AcuBead
-          </option><option value="15593">ADC
-          </option><option value="15617">Advent
-          </option><option value="15322">Aftermarket Group
-          </option><option value="15503">Aircast
-          </option><option value="15735">AirGUARD
-          </option><option value="14897">Alba Health
-          </option><option value="15590">AliMed
-          </option><option value="14901">Allegiance (Baxter)
-          </option><option value="14908">Apex (Enablers)
-          </option><option value="15645">AquaJogger
-          </option><option value="15211">Attends (Paper Pak)
-          </option><option value="15609">Audiovox
-          </option><option value="14917">Avery Publishing
-          </option><option value="14918">B. Braun (Askina)
-          </option><option value="15506">Baby Jogger
-          </option><option value="15507">Back Huggar
-          </option><option value="14919">Ballard
-          </option><option value="14921">Bard
-          </option><option value="14924">Bardia
-          </option><option value="14925">Battle Creek®
-          </option><option value="14926">Battlecreek /Hunter
-          </option><option value="15630">Bauerfeind 
-          </option><option value="14927">Baxter
-          </option><option value="14929">Bayer  Diagnostics
-          </option><option value="14934">Becton-Dickinson
-          </option><option value="14936">Beiersdorf-Jobst
-          </option><option value="15618">Beltronics
-          </option><option value="14937">Bertek 
-          </option><option value="14939">BioCore (Kollagen)
-          </option><option value="15628">BioMedical Life
-          </option><option value="14940">Birchwood Labs
-          </option><option value="15509">BISSELL
-          </option><option value="15510">Black &amp; Decker
-          </option><option value="14942">Blairex Labs
-          </option><option value="15649">Bodyline
-          </option><option value="15712">Boost
-          </option><option value="15511">Boppy
-          </option><option value="14947">Braun
-          </option><option value="14949">Calmoseptine
-          </option><option value="14951">Can-Am Care Corp.
-          </option><option value="15713">Carnation
-          </option><option value="15512">Carpal Lock
-          </option><option value="15513">Carrie
-          </option><option value="14956">Carrington Labs
-          </option><option value="15615">Casio
-          </option><option value="14957">Chattanooga Group
-          </option><option value="15515">Cho-Pat
-          </option><option value="14959">Chronimed
-          </option><option value="15599">Citizen
-          </option><option value="15650">CMO
-          </option><option value="15604">Cobra Electronics
-          </option><option value="15600">Coby
-          </option><option value="14963">Coloplast/Sween
-          </option><option value="14965">Colours
-          </option><option value="15689">ColPaC
-          </option><option value="15755">Columbia
-          </option><option value="15594">Conair®
-          </option><option value="14967">ConMed 
-          </option><option value="14968">Consolidated
-          </option><option value="14969">Consumers Choice
-          </option><option value="14973">ConvaTec®
-          </option><option value="15551">Crocker Holdings
-          </option><option value="14976">Cymed
-          </option><option value="14978">Dale® Medical
-          </option><option value="15722">Dana Douglas
-          </option><option value="15067">Dansac
-          </option><option value="14981">DermaSciences
-          </option><option value="14982">DeRoyal
-          </option><option value="15657">Detecto
-          </option><option value="14985">Dewitt
-          </option><option value="15612">Digital Innovations
-          </option><option value="14986">Disetronics-USA
-          </option><option value="15659">DJ Orthopedics
-          </option><option value="14990">DMI
-          </option><option value="15694">DURA-STICK
-          </option><option value="14993">Dynarex
-          </option><option value="15654">Dynatronics
-          </option><option value="14913">E-Z Reacher
-          </option><option value="15518">Earthlite
-          </option><option value="15263">Easy Pivot/Stature
-          </option><option value="14902">Easy Stand
-          </option><option value="15520">Eggcrate
-          </option><option value="14998">Electro-Dyn Elect.
-          </option><option value="15000">ELUDE Gear
-          </option><option value="15325">Emergency Caller
-          </option><option value="14979">Empi
-          </option><option value="15002">Encore
-          </option><option value="15707">Enfamil
-          </option><option value="15708">Ensure
-          </option><option value="15522">EpiPoint
-          </option><option value="15627">Ergonomic Aids Inc.
-          </option><option value="15004">Everest &amp; Jennings
-          </option><option value="15006">Ferndale Labs
-          </option><option value="15007">Ferris
-          </option><option value="15705">Fitball
-          </option><option value="15727">Flexall
-          </option><option value="15011">FNC Medical
-          </option><option value="15013">Fougera
-          </option><option value="15602">Fujifilm
-          </option><option value="15584">Garmin
-          </option><option value="15022">Gaymar Industries
-          </option><option value="15619">General Electric
-          </option><option value="15023">General Medical
-          </option><option value="15592">Gentell
-          </option><option value="15711">Glucerna
-          </option><option value="15026">Golden
-          </option><option value="15029">Graham Field
-          </option><option value="15030">Grant
-          </option><option value="15562">Grasshopper
-          </option><option value="15033">Greenwald Surgical
-          </option><option value="15725">handE
-          </option><option value="15036">Hardwood Products
-          </option><option value="15037">Harvy
-          </option><option value="15038">Hatch
-          </option><option value="15591">Health Enterprises
-          </option><option value="15039">Health O Meter
-          </option><option value="15576">Healthline
-          </option><option value="15042">Healthpoint
-          </option><option value="15528">Heelbo
-          </option><option value="15529">Heelift
-          </option><option value="15043">Hermell Products
-          </option><option value="15044">Hermitage
-          </option><option value="15046">Hollister
-          </option><option value="15048">Home Diagnostics
-          </option><option value="15049">Homecare
-          </option><option value="15051">HoMedics®
-          </option><option value="15053">Honeywell
-          </option><option value="15054">Hosposable
-          </option><option value="15690">HotPac
-          </option><option value="15057">Hudson Medical
-          </option><option value="15058">Hudson RCI
-          </option><option value="15666">Huggies
-          </option><option value="15060">Humanicare
-          </option><option value="15063">Huntleigh
-          </option><option value="15693">Intelect
-          </option><option value="15069">Invacare
-          </option><option value="15607">Jazz
-          </option><option value="15077">Johnson &amp; Johnson
-          </option><option value="15080">Jordan Enterprises
-          </option><option value="15083">Kendall
-          </option><option value="15533">Kettrike
-          </option><option value="15086">Kimberly Clark
-          </option><option value="15728">Kinesio
-          </option><option value="15088">Knoll
-          </option><option value="15611">Konica
-          </option><option value="15089">Labtron
-          </option><option value="15090">Lehman Confections
-          </option><option value="15633">Life-Tech
-          </option><option value="15733">Lifeline USA
-          </option><option value="15092">LifeScan
-          </option><option value="15671">LMA
-          </option><option value="15098">Lumiscope
-          </option><option value="15099">M. C. Johnson
-          </option><option value="15101">Maddak
-          </option><option value="15734">Magic Bullet
-          </option><option value="15623">Magnavox
-          </option><option value="15535">Malleoloc
-          </option><option value="15102">Mallinckrodt
-          </option><option value="15104">Maril Products
-          </option><option value="15105">Mark Clark
-          </option><option value="15106">Marlen
-          </option><option value="15107">Marpac Inc.
-          </option><option value="15109">Mason Labs
-          </option><option value="15110">Mason Medical
-          </option><option value="15625">Maxell
-          </option><option value="15536">McKenzie
-          </option><option value="15667">Mead Johnson
-          </option><option value="15716">Med-Lift
-          </option><option value="15122">Med. Disposables
-          </option><option value="15114">Medela
-          </option><option value="15117">Medical Action
-          </option><option value="15119">Medical Devices
-          </option><option value="15123">Medical Marketing
-          </option><option value="15124">Medical Solutions
-          </option><option value="15125">Medical World
-          </option><option value="15127">Medicool
-          </option><option value="15128">Mediflow
-          </option><option value="15129">Mediject Derata
-          </option><option value="15131">MediSense®
-          </option><option value="15132">Medisource
-          </option><option value="15324">Medline
-          </option><option value="15134">Medmart
-          </option><option value="15136">Medport Inc.
-          </option><option value="15137">Mentor
-          </option><option value="15743">Mettler Electronics
-          </option><option value="15538">Midland
-          </option><option value="15673">MiniMed
-          </option><option value="15143">MK Battery
-          </option><option value="15145">Mobility Transfer
-          </option><option value="15146">Molnlycke
-          </option><option value="15614">Motorla
-          </option><option value="15150">MPM Medical
-          </option><option value="15151">N/R Laboratories
-          </option><option value="15154">Natural Access
-          </option><option value="15696">Nautilus
-          </option><option value="15638">NB
-          </option><option value="15155">NCM
-          </option><option value="15156">NDL Products
-          </option><option value="15714">Neocate
-          </option><option value="15668">Nestle
-          </option><option value="15317">New Life Tech.
-          </option><option value="15610">Night Owl Optics
-          </option><option value="15580">Nite Train"R
-          </option><option value="15166">Novartis (Sandoz)
-          </option><option value="15167">NuHope
-          </option><option value="15169">Nytone Medical
-          </option><option value="15539">ObusForme
-          </option><option value="15170">Omron (Marshall)
-          </option><option value="15695">OptiFlex
-          </option><option value="15173">Oral B
-          </option><option value="15310">Ortho Kinetics
-          </option><option value="15177">Owen-Mumford
-          </option><option value="15601">Panasonic
-          </option><option value="15746">PARI
-          </option><option value="15179">Parker Labs
-          </option><option value="15180">Parthenon
-          </option><option value="15181">PatientGuard
-          </option><option value="15182">PCP
-          </option><option value="15183">PDI
-          </option><option value="15540">Pedalo
-          </option><option value="15710">Pediasure
-          </option><option value="15185">Pedifix®
-          </option><option value="15606">Performance 
-          </option><option value="15186">Perma-Type
-          </option><option value="15188">PET
-          </option><option value="15191">Pillow Place
-          </option><option value="15541">Plastazote
-          </option><option value="15313">Polar
-          </option><option value="15194">Pollenex
-          </option><option value="15198">Posey®
-          </option><option value="15639">Prairie View
-          </option><option value="15199">Precision Dynamics
-          </option><option value="15200">Premium Plastics
-          </option><option value="15646">Prevail (First Quality)
-          </option><option value="15206">Priorities
-          </option><option value="15208">Priva
-          </option><option value="15543">Proflex
-          </option><option value="15731">Pronex
-          </option><option value="15744">ProStretch
-          </option><option value="15597">PSC
-          </option><option value="15585">Push Ease
-          </option><option value="15214">Quickie
-          </option><option value="15586">Rand-Scot, Inc.
-          </option><option value="15315">RD Equipment
-          </option><option value="15217">Rehab Plus
-          </option><option value="15577">Remington
-          </option><option value="15751">RESPeRATE
-          </option><option value="15219">Respironics 
-          </option><option value="15220">Rinz-L-O Pillow
-          </option><option value="15573">Roche Diagnostics
-          </option><option value="15222">Rochester Medical
-          </option><option value="15225">ROHO
-          </option><option value="15687">Roll-A-Ramp
-          </option><option value="15226">Roloke
-          </option><option value="15227">Ross
-          </option><option value="15546">Rover
-          </option><option value="15229">Rubbermaid
-          </option><option value="15231">Rusch
-          </option><option value="15754">Safeguard
-          </option><option value="15234">Sage
-          </option><option value="15236">Salk
-          </option><option value="15729">Salonpas
-          </option><option value="15631">Salter Labs
-          </option><option value="15237">Samhall
-          </option><option value="15603">Samsung
-          </option><option value="15588">Schuerch Corp.
-          </option><option value="15678">Schwinn
-          </option><option value="15715">Scientific Hospital
-          </option><option value="15243">Scott Specialties
-          </option><option value="15248">Sheepskin Ranch
-          </option><option value="15249">Shelton Medical
-          </option><option value="15737">Shoprider
-          </option><option value="15581">Siemens
-          </option><option value="15253">Sierra Laboratories
-          </option><option value="15254">Sigvaris
-          </option><option value="15552">Silipos
-          </option><option value="15635">Silver Star
-          </option><option value="15685">Silverlon
-          </option><option value="15709">Similac
-          </option><option value="15750">Smart Glove
-          </option><option value="15257">Smith &amp; Nephew®
-          </option><option value="15661">Sonic Alert
-          </option><option value="15608">Sony
-          </option><option value="15259">Southwest Tech.
-          </option><option value="15688">Spectrum
-          </option><option value="15260">Spenco Products
-          </option><option value="15574">Spinergy
-          </option><option value="15683">SportsArt
-          </option><option value="15556">Spring Balls
-          </option><option value="15686">StairMaster
-          </option><option value="15745">StretchRite
-          </option><option value="15268">Suburban Ostomy
-          </option><option value="15270">Sunbeam®-Oster®
-          </option><option value="15272">Sunrise Medical
-          </option><option value="15726">SuperFeet
-          </option><option value="15273">Superior Surgical
-          </option><option value="15274">Swiss-American
-          </option><option value="15275">Sydsons
-          </option><option value="14997">T.G. Eakin
-          </option><option value="15587">Tadpole
-          </option><option value="15276">TAGG Industries
-          </option><option value="15316">Tanita
-          </option><option value="15277">TEMCO
-          </option><option value="15583">Tena (SCA)
-          </option><option value="15652">Thera-Band
-          </option><option value="15736">TheraCane
-          </option><option value="15281">Theradyne®
-          </option><option value="15632">TheraSense
-          </option><option value="15692">Theratherm
-          </option><option value="15282">Thermoscan
-          </option><option value="15285">Tillotson Healthcare
-          </option><option value="15286">Timm (Osbon)
-          </option><option value="15311">TiSport
-          </option><option value="15287">Top End Invacare
-          </option><option value="15289">Torbot Company
-          </option><option value="15613">Toshiba
-          </option><option value="15290">Trademark Medical
-          </option><option value="15205">Tranquility
-          </option><option value="15558">TriStander
-          </option><option value="15294">Tubular Fabricators
-          </option><option value="15295">TuffCare
-          </option><option value="15560">Tumble Forms
-          </option><option value="15747">Tush Cush
-          </option><option value="15640">Uneek Concepts
-          </option><option value="15297">Uni-Patch
-          </option><option value="15605">Uniden
-          </option><option value="15589">Universal Caddy
-          </option><option value="15637">Uplift Technologies
-          </option><option value="15563">Urias
-          </option><option value="15298">Urocare
-          </option><option value="15312">USA Totes
-          </option><option value="15644">Varilite
-          </option><option value="15300">Varta Batteries Inc.
-          </option><option value="15595">Veridien
-          </option><option value="15697">Versa Bath
-          </option><option value="15566">Versa Form
-          </option><option value="15301">Victor Medical
-          </option><option value="15753">Visco Memory Foam
-          </option><option value="15302">Vital Signs
-          </option><option value="15304">VPI
-          </option><option value="15306">Waterbury
-          </option><option value="15582">WCs of Kansas
-          </option><option value="15596">Western Medical
-          </option><option value="15571">Whirlpool
-          </option><option value="15616">Wilson
-          </option><option value="15309">WR Medical
-          </option><option value="15572">Zim
-
-											</option></select>
-										</td>
-									
-									</tr>
-								</tbody></table>
-
-							</td>
-						</tr>
-					</tbody></table>
-
-						
-
-<table width="1" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="../images/webgraphics/1x1trans.gif" height="6" width="1"></td>
-	</tr>							
-</tbody></table>
-
-
-
-
 <!-- **********  Shop by Category  ************************************************************************************************************************** -->
 
 				  <table width="170" border="0" cellpadding="0" cellspacing="0">
 						<tbody><tr>
 							<td colspan="3">
 								<table border="0" cellpadding="0" cellspacing="0" width="100%">
-
 									<tbody><tr>
 									    <td>
-									    <img border="0" src="../images/webgraphics/corner_left2.gif" width="5" height="22"></td>
-									    <td bgcolor="#2C237E" width="100%" align="center" nowrap="">
-											<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63">Shop </font>
-									    	<font size="-1" color="#FFFFFF"><b><i>by</i></b></font>
-									    	<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63"> Category</font></td>
-									    <td bgcolor="#2C237E" nowrap=""><img border="0" src="../images/webgraphics/1x1trans.gif" width="5"></td>
+									    <img border="0" src="/images/webgraphics/corner_left2.gif" width="5" height="22"></td>
+									    <td bgcolor="#2C237E" width="100%" align="center" nowrap=""><img src="/images/webgraphics/shopbycategory.gif" alt="Shop By Category" width="132" height="14"></td>
+									    <td bgcolor="#2C237E" nowrap=""><img border="0" src="/images/webgraphics/1x1trans.gif" width="5"></td>
 									</tr>
 								</tbody></table>
 							</td>	 
 						</tr>	
-													
 						<tr>
-							<td colspan="3">
-								<table border="0" cellpadding="0" cellspacing="0" class="SideMenuBox" width="100%">
-
-									<tbody><tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Bathroom Assists" href="../Home/category.asp?C=517">Bathroom Assists</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Children/Pediatric" href="../Home/category.asp?C=531">Children/Pediatric</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Cushions/Covers/Backs" href="../Home/category.asp?C=544">Cushions/Covers/Backs</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Daily Living Aids" href="../Home/category.asp?C=519">Daily Living Aids</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Diabetes Care" href="../Home/category.asp?C=520">Diabetes Care</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Diagnostic Products" href="../Home/category.asp?C=521">Diagnostic Products</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Diet Supplements" href="../Home/category.asp?C=522">Diet Supplements</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Electrotherapy" href="../Home/category.asp?C=561">Electrotherapy</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Exercise/Fitness" href="../Home/category.asp?C=523">Exercise/Fitness</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Handcycles" href="../Home/category.asp?C=543">Handcycles</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Impotence" href="../Home/category.asp?C=524">Impotence</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Incontinence" href="../Home/category.asp?C=525">Incontinence</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Lift Chairs" href="../Home/category.asp?C=526">Lift Chairs</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Maternity Care" href="../Home/category.asp?C=527">Maternity Care</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Orthopedics" href="../Home/category.asp?C=528">Orthopedics</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Ostomy Care" href="../Home/category.asp?C=529">Ostomy Care</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Oxygen Therapy" href="../Home/category.asp?C=534">Oxygen Therapy</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Patient Care" href="../Home/category.asp?C=530">Patient Care</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Personal Care" href="../Home/category.asp?C=532">Personal Care</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Power Scooters" href="../Home/category.asp?C=533">Power Scooters</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Ramps" href="../Home/category.asp?C=559">Ramps</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Skin Care" href="../Home/category.asp?C=535">Skin Care</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Surgical Supplies" href="../Home/category.asp?C=537">Surgical Supplies</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Syringes/Needles" href="../Home/category.asp?C=570">Syringes/Needles</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Treatment Furniture" href="../Home/category.asp?C=554">Treatment Furniture</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Urologicals/Catheters" href="../Home/category.asp?C=539">Urologicals/Catheters</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Walkers/Canes/Crutches" href="../Home/category.asp?C=516">Walkers/Canes/Crutches</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Wheelchair Accessories" href="../Home/category.asp?C=545">Wheelchair Accessories</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Wheelchairs" href="../Home/category.asp?C=540">Wheelchairs</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-									<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-										<td class="SideMenuText">&nbsp;&nbsp;<a class="SideMenuLink" id="Wound Care" href="../Home/category.asp?C=541">Wound Care</a></td>
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									</tr>
-
-
+							<td colspan="3"><table border="0" cellpadding="0" cellspacing="0" class="SideMenuBox" width="170"><tbody><tr class="SideMenuBox"><td width="15" rowspan="32"></td><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/bathroom_assists">Bathroom Assists</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/children_pediatric">Children/Pediatric</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/cushions_covers_backs">Cushions/Covers/Backs</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/daily_living_aids">Daily Living Aids</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/diabetes_care">Diabetes Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/diagnostic_products">Diagnostic Products</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/dietary_supplements">Dietary Supplements</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/electrotherapy">Electrotherapy</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/exercise_fitness">Exercise/Fitness</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/handcycles">Handcycles</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/impotence">Impotence</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/incontinence">Incontinence</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/lift_chairs">Lift Chairs</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/maternity_care">Maternity Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/orthopedics">Orthopedics</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/ostomy_care">Ostomy Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/oxygen_therapy">Oxygen Therapy</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/patient_care">Patient Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/personal_care">Personal Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/power_scooters">Power Scooters</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/ramps">Ramps</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/skin_care">Skin Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/surgical_supplies">Surgical Supplies</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/syringes_needles">Syringes/Needles</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/treatment_furniture">Treatment Furniture</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/urologicals_catheters">Urologicals/Catheters</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/walkers_canes_crutches">Walkers/Canes/Crutches</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/wheelchair_accessories">Wheelchair Accessories</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/wheelchairs">Wheelchairs</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/wound_care">Wound Care</a></td></tr>
 								<tr class="SideMenuBox">
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
 										<td class="SideMenuText">
-											<img src="../images/webgraphics/blue_square.gif" height="7" width="4" border="0" valign="center">&nbsp;<a class="SideMenuLink" id="Site Map" href="../Home/sitemap.asp">Site Map</a></td>
+											<img src="/images/webgraphics/blue_square.gif" height="7" width="4" border="0" valign="center">&nbsp;<a class="SideMenuLink" id="Site Map" href="/home/sitemap.asp">Site Map</a></td>
 										
-										<td><img src="../images/webgraphics/1x1trans.gif" height="13.5" width="7" border="0"></td>
-									
-									
-									
 								</tr>
 								<tr>
-									<td colspan="3">
-									<img src="../images/webgraphics/1x1trans.gif" height="4" width="7" border="0"></td>
+									<td><img src="/images/webgraphics/1x1trans.gif" height="4" width="7" border="0"></td>
 								</tr>
 								</tbody></table>
 							</td>
@@ -765,7 +261,7 @@
 
 <table width="1" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td><img src="../images/webgraphics/1x1trans.gif" height="6" width="1"></td>
+		<td><img src="/images/webgraphics/1x1trans.gif" height="6" width="1"></td>
 	</tr>							
 </tbody></table>
 
@@ -773,36 +269,38 @@
 
 	  <table width="170" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><img border="0" src="../images/webgraphics/corner_left2.gif" width="5"></td>
+			<td><img border="0" src="/images/webgraphics/corner_left2.gif" width="5"></td>
 		    
 		    <td bgcolor="#2C237E" width="100%" align="center" nowrap="">
 				<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63">FREE eCatalog</font>
-		    </td><td bgcolor="#2C237E" nowrap=""><img src="../images/webgraphics/1x1trans.gif" width="5" border="0" height="22"></td>
+		    </td><td bgcolor="#2C237E" nowrap=""><img src="/images/webgraphics/1x1trans.gif" width="5" border="0" height="22"></td>
 		</tr> 
 		</tbody></table>
 		
 		
 		<table width="170" border="0" cellpadding="0" cellspacing="0" class="SideMenuBox">				  
 		<tbody><tr class="SideMenuBox">
-			<td><img src="../images/webgraphics/1x1trans.gif" width="5" border="0"></td>
+			<td><img src="/images/webgraphics/1x1trans.gif" width="5" border="0"></td>
 			<td width="100%" align="center" nowrap="">
 				<table border="0" cellpadding="0" cellspacing="0" width="100%">
 				<tbody><tr>
 					<td>&nbsp;</td>
 					<td>
-						<form method="post" action="/Home/Privacy_Policy.asp?CategoryID=&amp;SubCategoryID=&amp;ManufacturerID=&amp;ProductID=" name="AllegroAdvantage2">
+						<form method="post" action="/home/privacy_Policy.asp?CategoryID=&amp;SubCategoryID=&amp;ManufacturerID=&amp;ProductID=" name="AllegroAdvantage" onsubmit="javascript:return checkEcatalog(this);">
 							<font size="-2">Product Information,<br>Specials and more...<br><b>Email Catalog<br><i>Allegro Advantage.</i></b><br><br>
 							<input type="text" value="you@email.com" name="ecat" size="15" onfocus="wipeoutemail()"><br>
+							<input type="text" value="yourfirstname" name="firstname" size="15" maxlength="20" onfocus="wipeoutemail()"><br>
+							<input type="text" value="yourlastname" name="lastname" size="15" maxlength="30" onfocus="wipeoutemail()"><br>
 							<input type="radio" name="SubUnsub" value="Subscribe" checked="">Subscribe<br>
 							<input type="radio" name="SubUnsub" value="UnSubscribe">UnSubscribe</font><br>
-							<input type="hidden" name="url" value="/Home/Privacy_Policy.asp">
+							<input type="hidden" name="url" value="/home/privacy_Policy.asp">
 							<input type="submit" name="submit" value="  Submit  " width="33" height="23">
 						</form>
 					</td>
 				</tr>
 				</tbody></table>		
 			</td>
-			<td><img src="../images/webgraphics/1x1trans.gif" width="5" border="0"></td>
+			<td><img src="/images/webgraphics/1x1trans.gif" width="5" border="0"></td>
 		</tr>
 	</tbody></table>
 
@@ -810,7 +308,7 @@
 
 <table width="1" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td><img src="../images/webgraphics/1x1trans.gif" height="6" width="1"></td>
+		<td><img src="/images/webgraphics/1x1trans.gif" height="6" width="1"></td>
 	</tr>							
 </tbody></table>
 
@@ -839,8 +337,6 @@
 
 
 			<!-- ********** End of Tabs ************************************************************************************************************************************* -->
-
-
 
 
 			<!-- ********** Head 2 **************************************************************************************************************************** -->
@@ -941,17 +437,19 @@
 			<center>
 			
 			<font face="arial, helvetica" size="-1">
-				<a href="../default.asp">Home</a> &nbsp;|&nbsp;
-				<a href="../Affiliate/AffiliateIntro.asp">Affiliate Program</a> &nbsp;|&nbsp;
-				<a href="../Home/Allegrofans.asp">Allegro Fans</a> &nbsp;
+				<a href="/home/default.asp">Allegro Medical Supplies Home</a> &nbsp;|&nbsp;
+				<a href="/affiliate/affiliateIntro.asp">Affiliate Program</a> &nbsp;|&nbsp;
+				<a href="/home/allegrofans.asp">Allegro Fans</a> &nbsp;|&nbsp;
+				<a href="/home/locations.asp">Locations</a>
+				
 
 				
 				<br>
 				<a href="javascript:PopUpContact()">Contact Us</a> &nbsp;|&nbsp;
 
-				<a href="../Cart/View.asp">View Cart</a> &nbsp;|&nbsp; 
-				<a href="../Home/Privacy_Policy.asp">Privacy Policy</a> &nbsp;|&nbsp;
-				<a href="../Home/Legal.asp">Terms of Use</a> &nbsp;|&nbsp;
+				<a href="/cart/view.asp">View Cart</a> &nbsp;|&nbsp; 
+				<a href="/home/privacy_Policy.asp">Privacy Policy</a> &nbsp;|&nbsp;
+				<a href="/home/legal.asp">Terms of Use</a> &nbsp;|&nbsp;
 				<a href="javascript:PopUpRRequest()">Returns</a> &nbsp;
 			</font><br>
 			<font color="#996633" size="-2">Copyright© 1996-2003 Allegro Medical Supplies Inc.</font>
@@ -962,15 +460,15 @@
 		</td>
 		<td align="center">
 		<a href="http://www.medexplorer.com">
-		<img src="../images/webgraphics/toprated.gif" border="0" height="31" width="93"></a>
+		<img src="/images/webgraphics/toprated.gif" border="0" height="31" width="93"></a>
 		</td>
 		<td align="center">
 		<a href="http://www.med411.com">
-		<img src="../images/webgraphics/award411.gif" border="0" height="31" width="78"></a>
+		<img src="/images/webgraphics/award411.gif" border="0" height="31" width="78"></a>
 		</td>
 		<td align="center">
 		<a href="http://www.healingwell.com/pages">
-		<img src="../images/webgraphics/healwellaward2.gif" border="0" height="31" width="73"></a>
+		<img src="/images/webgraphics/healwellaward2.gif" border="0" height="31" width="73"></a>
 		</td>
 	</tr>
 </tbody></table>
