@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207012454id_/http%3A//www.blueman.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112049id_/http%3A//www.blueman.com/privacy.shtml) for the most accurate reproduction.*
 
 # Blue Man Group
 
@@ -6,7 +6,7 @@
 Blue Man Group understands and respects the importance of individual privacy. We are committed to protecting your privacy and safeguarding your personal information. The following document outlines our policy on collecting personal information from our website visitors at www.blueman.com and how we utilize that data. 
 
 **Children:**  
-Blue Man Group has no intention of collecting any personal data from individuals twelve years old and younger. Where appropriate, Blue Man Group will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission. If we know that a child under 13 has sent us personal information, we will automatically delete the information from our system. If you would like to grant your child permission to receive e-mail updates or to allow him or her to use our chat rooms or message board, please fill out our [permission slip](https://web.archive.org/web/20041207012454id_/http%3A//www.blueman.com/community/parental.shtml). 
+Blue Man Group has no intention of collecting any personal data from individuals twelve years old and younger. Where appropriate, Blue Man Group will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission. If we know that a child under 13 has sent us personal information, we will automatically delete the information from our system. If you would like to grant your child permission to receive e-mail updates or to allow him or her to use our chat rooms or message board, please fill out our [permission slip](https://web.archive.org/web/20050403112049id_/http%3A//www.blueman.com/community/parental.shtml). 
 
 Parents should be aware that Blue Man Group's Privacy Policy will govern our use of personal data, but that information which is voluntarily given by anyone (including children) in chat sessions, email exchanges, bulletin boards or the like may be used by other parties to generate unsolicited mail.
 
