@@ -1,0 +1,33 @@
+> *The following text is extracted and transformed from the amateurstraightguys.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812070546id_/http%3A//www.amateurstraightguys.com/privacypolicy.htm) for the most accurate reproduction.*
+
+# Privacy Policy
+
+_General Browsing:_  
+Amateur Straight Guys gathers navigational information about where you go on our web site. This information allows us to see which areas of our web site are most visited and helps us improve the quality of your online experience by recognizing and delivering more of the features and services. Additional non-personally identifiable information (for example, domain type, browser version, service provider, IP address) may be collected which will provide information regarding your use of our web site (such as the time of your last visit to a page on our site). Amateur Straight Guys is not geared toward anyone under the age of 18 (21 where applicable).
+
+_Disclosure of Personal Information:_  
+The information you provide to us when you "sign up" to be added to our Mailing List" (i.e. name, postal address, e-mail address, telephone number and age) is used to enable you to receive e-mails and other promotional materials from Amateur Straight Guys. The information you provide to us when you register inside our online store (i.e. name, postal address, e-mail address, telephone number) will be used to expedite your shopping experience at Amateur Straight Guy's online store during the check out process.
+
+Amateur Straight Guys does not sell, rent, or trade your email address to third parties. We may, however, use third parties to help us provide services to you, such as fulfilling orders, processing payments, monitoring site activity, organizing information, conducting surveys, and administering emails, drawings, or contests. If you no longer wish to receive marketing email from Amateur Straight Guys please click [here](mailto:webmaster@amateurstraightguys.com).
+
+If you purchase merchandise through Amateur Straight Guys, we will gather personal, as well as aggregate, information about your purchases on our site and we will share that information with our print catalogue mailing list and database. Please be aware that we occasionally make our print catalogue customer mailing and shipping lists, sometimes categorized by purchasing information, available to a few reputable, carefully screened companies whose products you may find of interest. If you would like to make sure that we never disclose information about you to third parties outside of Amateur Straight Guys, please contact us. 
+
+You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our web site, the site or the public. 
+
+_International Users:_  
+If you are visiting Amateur Straight Guys from a location outside of the U.S., your connection will be through and to servers located in the U.S., your orders placed through Amateur Straight Guys will be accepted and fully processed in and shipped from the U.S. and all information you provide will be processed and securely maintained in our web servers and internal systems located within the U.S. 
+
+_Use of Cookies:_  
+Amateur Straight Guys uses a browser feature known as a cookie, which assigns a unique identification to your computer. The cookies are typically stored on your computer's hard drive and used by Amateur Straight Guys to help track your clicks as you navigate through the pages within Amateur Straight Guys web site. In addition, Amateur Straight Guys uses cookies to help keep track of items you put into your shopping cart and to tell us whether you have visited Amateur Straight Guys. This way frequent visitors will be able to maintain shopping carts between visits. Cookies also allow Amateur Straight Guys to make our site more responsive to your needs, while delivering a better and more personalized experience to you.
+
+_Updating Personal Information:_  
+We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information including billing and shipping information by clicking [here](mailto:webmaster@amateurstraightguys.com). 
+
+_Links:_   
+For your convenience, our web site may contain links to other sites. Amateur Straight Guys is not responsible for the privacy practices or the content of such web sites.
+
+_Questions/Changes In Policy:_  
+If you have questions or concerns with respect to our privacy policy, please contact us. Should there be a material change to our policy regarding use of your personal information, we will update the privacy policy statement on this web site. If you are concerned with how your personal information may be used by us, please visit our site to review this policy and other important information about Amateur Straight Guys.
+
+_Security:_  
+Amateur Straight Guys believes in providing a safe and secure shopping experience for all of our customers. We provide stringent and effective security measures on our web site. It is our policy to never send private information, such as your credit card number, via email.
