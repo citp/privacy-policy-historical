@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603184120id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095258id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
 # Pointstreak.com - privacy policy
 
