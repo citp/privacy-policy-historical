@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2001-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010617195144id_/http%3A//gallup.com/Update/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217224138id_/http%3A//gallup.com/Update/privacy.asp) for the most accurate reproduction.*
 
 # The Gallup Organization - Privacy Policy
 
