@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpotato.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202032844id_/http%3A//byowner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpotato.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604201940id_/http%3A//byowner.com/privacy) for the most accurate reproduction.*
 
 # ByOwner.com 1-800-ByOwner
 
