@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihs.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604063356id_/http%3A//www.ihs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihs.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218060151id_/http%3A//www.ihs.com/privacy.html) for the most accurate reproduction.*
 
 # Information Handling Services
 
