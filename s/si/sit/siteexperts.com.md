@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031044437id_/http%3A//siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609131741id_/http%3A//siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
 
 # SiteExperts.com Privacy Statement
 
@@ -18,7 +18,8 @@
   -[SiteExperts Feedback](https://web.archive.org/forums/converse.asp?topic_id=4)   
   -[Dynamic HTML](https://web.archive.org/forums/converse.asp?topic_id=9)   
   -[Site Design/ Critiques](https://web.archive.org/forums/converse.asp?topic_id=6)   
-  -[HTML, CSS, and XML](https://web.archive.org/forums/converse.asp?topic_id=10)   
+  -[HTML and CSS](https://web.archive.org/forums/converse.asp?topic_id=10)   
+  -[XML Technologies](https://web.archive.org/forums/converse.asp?topic_id=14)   
   -[The Wireless Internet](https://web.archive.org/forums/converse.asp?topic_id=12)   
   -[Internet Explorer](https://web.archive.org/forums/converse.asp?topic_id=8)   
   -[Microsoft .NET](https://web.archive.org/forums/converse.asp?topic_id=13)   
@@ -83,4 +84,4 @@ A _cookie_ is a small file that can be written and accessed by the site that cre
 
 
 
-Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20011031044437id_/http%3A//siteexperts.com/info/privacy@SiteExperts.com). 
+Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20020609131741id_/http%3A//siteexperts.com/info/privacy@SiteExperts.com). 
