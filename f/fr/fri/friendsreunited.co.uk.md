@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610160931id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010224348id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
 
 # Friends Reunited - Privacy Policy
-
-**Success!** "Thanks to   
-Friends Reunited, I have found my daughter who I have not seen since she was 13. She is now 27 and I have discovered that I am a grandfather and my daughter has another on the way. This would have been an impossible task had it not been for   
-Friends Reunited. From the bottom of my heart, thank you. "
-
-Friends Reunited privacy policy 
 
 This is a legal document which sets out how FriendsReunited handles data which identifies you. You should read it in conjunction with the [FriendsReunited Terms and Conditions ](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=terms), of which this Privacy Policy forms part. 
 
@@ -106,7 +100,7 @@ We will retain your personal data only as long as is necessary for the purposes 
 
 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with FriendsReunited, you can contact us [here ](https://web.archive.org/web/20040610160931id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP?WCI=contactus&email=info&subject=Privacy). You can also use this address if you wish to request from FriendsReunited a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with FriendsReunited, you can contact us [here ](https://web.archive.org/web/20041010224348id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP?WCI=contactus&email=info&subject=Privacy). You can also use this address if you wish to request from FriendsReunited a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information 
 
   8. **Links to third party sites**
 
@@ -119,18 +113,3 @@ Our site contains links to other sites. FriendsReunited is not responsible for t
 
 
 You can obtain further information about data protection laws by visiting the Information Commissioner's website at [www.dataprotection.gov.uk ](http://www.dataprotection.gov.uk/). You can search for our Data Protection Notification there, should you so wish. 
-
-  
-Start searching for your   
-relations below
-
-**What songs take you back?**  
-Were you into glam, punk, disco, rock or new wave?
-
-  
-Friends Reunited’s ‘
-
- **The class of…** ' compilations. 19 CDs   
-to choose from - **1970 to 1989**.   
-20 great tracks on each CD.  
-[Click for tracklists](http://www.friendsreunited.co.uk/extras/index.htm)
