@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620073137id_/http%3A//www.etronics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204233803id_/http%3A//www.etronics.com/privacy.asp) for the most accurate reproduction.*
 
 # Etronics.com - Discount camcorders, DVD players, home audio, digital and 35mm cameras, VCR's, televisions plus small appliances.
 
@@ -24,8 +24,8 @@ If you have questions or concerns regarding this statement, you should first con
 
 Webmaster  
 Etronics  
-37 Essex Street  
-New York, NY 10002 
+216 Maspeth Ave  
+Brooklyn, NY 11211 
 
 If you do not receive acknowledgement of your inquiry within five business days or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe ([http://www.truste.org/users/users_watchdog.html](http://www.truste.org/users/watchdog.html)). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -71,8 +71,8 @@ This site gives users the following options for removing their information from 
   4. You can send mail to the following postal address: 
 
 Customer Service  
-37 Essex Street  
-New York, NY 10002 
+216 Maspeth Ave  
+Brooklyn, NY 11211 
 
 ## Correct/Update
 
@@ -86,8 +86,8 @@ This site gives users the following options for changing and modifying informati
   4. You can send mail to the following postal address: 
 
 Customer Service  
-37 Essex Street,  
-New York, NY 10002 
+216 Maspeth Ave,  
+Brooklyn, NY 11211 
 
 We welcome your questions and comments. Please send e-mails to [webmaster@Etronics.com](mailto:webmaster@etronics.com).
 
@@ -101,6 +101,6 @@ Contacting the WebSite
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: 
 
 Webmaster Etronics  
-37 Essex Street  
-New York, NY 10002  
-[webmaster@Etronics.](mailto:webmaster@Etronics.com)Com
+216 Maspeth Ave  
+Brooklyn, NY 11211  
+[webmaster@Etronics.com](mailto:webmaster@Etronics.com)
