@@ -1,40 +1,13 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604065423id_/http%3A//www.health.gov.au/copyr.htm%2312) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2004-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040828080559id_/http%3A//www.health.gov.au/copyr.htm%2312) for the most accurate reproduction.*
 
-# Australian Department of Health and Ageing - Copyright, disclaimer and privacy statement notice
-
-Copyright  
-Use of materials and information  
-Commercial and other use
-
-Department of Health and Ageing webmaster  
-Linking to this site
-
-Disclaimer  
-Provision of education and research information only - always seek professional advice  
-Quality of information - always check the information  
-Links to external websites  
-Security of the Department of Health and Ageing's website  
-Access for people with a disability
-
-Privacy statement  
-Information collection and privacy protection  
-Your email address  
-Security level  
-Clickstream data and cookies  
-Personal information  
-Queries, concerns and further information
-
-* * *
-
-**This notice is not to be erased**
+# Australian Government Department of Health and Ageing - Copyright
 
 **Copyright**  
 Commonwealth government information and materials on this website, including data, pages, documents, online graphics, images and web pages, audio and video are protected by copyright, unless specifically notified to the contrary.
 
-Top of Page
-
 **Use of materials and information**  
-You may download, store in cache, display, print and copy a single copy or part of a single copy of information or material from this site only for your personal, non-commercial use and only in an unaltered form. 
+You may download, store in cache, display, print and copy a single copy or part of a single copy of information or material from this site only for your personal, non-commercial use and only in an unaltered form.  
+
 
 Information or material from this site may be used for the purposes of private study, research, criticism or review, as permitted under the Copyright Act 1968 and may only be reproduced as permitted under the Copyright Act 1968 (a copy of the Act is available at SCALEplus the legal information retrieval system owned by the Australian Attorney General's Department, at [http://scaleplus.law.gov.au](http://scaleplus.law.gov.au/)). 
 
@@ -50,7 +23,7 @@ Top of Page
 * * *
 
 **Department of Health and Ageing webmaster**  
-Please email the webmaster with any questions you may have about our programs or policies, or to provide feedback on this website.
+Please email the webmaster with any questions you may have about our programs or policies, or to provide feedback on this website. 
 
 The contact information is:   
 
@@ -58,7 +31,8 @@ The contact information is:
 Top of Page
 
 **Linking to this site**  
-You may link to this site, but permission is restricted to making a link without any alteration of the site's contents. Permission is not granted to reproduce, frame or reformat the files, pages, images, information and materials from this site on any other site unless express written permission has been obtained from the webmaster at the Department of Health and Ageing. 
+You may link to this site, but permission is restricted to making a link without any alteration of the site's contents. Permission is not granted to reproduce, frame or reformat the files, pages, images, information and materials from this site on any other site unless express written permission has been obtained from the webmaster at the Department of Health and Ageing.   
+
 
 The Department of Health and Ageing reserves the right to prevent linking by giving notice. 
 
@@ -97,7 +71,7 @@ The Commonwealth accepts no liability for any interference with or damage to a u
 Top of Page
 
 **Access for people with a disability**  
-Material produced through the web is a service covered by the Disability Discrimination Act 1992 (DDA). This requirement applies to any individual or organisation developing a World Wide Web page or placing or maintaining a web page on an Australian server. The provision of this information through the internet is in itself a service and as such, is covered by the DDA.
+Material produced through the web is a service covered by the Disability Discrimination Act 1992 (DDA). This requirement applies to any individual or organisation developing a World Wide Web page or placing or maintaining a web page on an Australian server. The provision of this information through the internet is in itself a service and as such, is covered by the DDA. 
 
 Top of Page
 
@@ -107,9 +81,9 @@ Top of Page
 **Privacy statement**
 
 **Information collection and privacy protection**  
-The Department of Health and Ageing makes every effort to adhere to the Guidelines for Federal and ACT Government World Wide Websites developed by the Australian Privacy Commissioner (available at <http://www.privacy.gov.au/internet/web/index.html>). In particular we make every effort to comply with Information Privacy Principles (see Glossary below) 1 to 3 and 10 and 11 of the Privacy Act 1988 (a copy of the Act is available at SCALEplus the legal information retrieval system owned by the Australian Attorney General's Department at [http://scaleplus.law.gov.au](http://scaleplus.law.gov.au/)).
+The Department of Health and Ageing makes every effort to adhere to the Guidelines for Federal and ACT Government World Wide Websites developed by the Australian Privacy Commissioner (available at <http://www.privacy.gov.au/internet/web/index.html>). In particular we make every effort to comply with Information Privacy Principles (see Glossary below) 1 to 3 and 10 and 11 of the Privacy Act 1988 (a copy of the Act is available at SCALEplus the legal information retrieval system owned by the Australian Attorney General's Department at [http://scaleplus.law.gov.au](http://scaleplus.law.gov.au/)). 
 
-This page explains the type of information that is collected by the Department of Health and Ageing, how such information is used and under what circumstances and to whom it may be disclosed. If you have any privacy concerns, you should direct them to the [webmaster](mailto:webmaster@health.gov.au).
+This page explains the type of information that is collected by the Department of Health and Ageing, how such information is used and under what circumstances and to whom it may be disclosed. If you have any privacy concerns, you should direct them to the [webmaster](mailto:enquiries@health.gov.au).
 
 Top of Page
 
@@ -119,7 +93,7 @@ The Department of Health and Ageing will only record your email address in the e
 Top of Page
 
 **Security level**  
-The Department of Health and Ageing website has been tested to an advanced level of site security, and for Year 2000 compliance.
+The Department of Health and Ageing website has been tested to an advanced level of site security, and for Year 2000 compliance. 
 
 Top of Page
 
@@ -147,7 +121,7 @@ No attempt will be made to identify anonymous users or their browsing activities
 Top of Page
 
 **Personal information**  
-Information provided through the Department of Health and Ageing website will comply with Information Privacy Principles (see Glossary below), and particularly principles 1 to 3 and 10 and 11. Stated simply these principles are
+Information provided through the Department of Health and Ageing website will comply with Information Privacy Principles (see Glossary below), and particularly principles 1 to 3 and 10 and 11. Stated simply these principles are 
 
 **Principle 1** \- Collection of information must be lawful and fair  
 **Principle 2** \- Informing people why information is collected  
@@ -157,7 +131,7 @@ Information provided through the Department of Health and Ageing website will co
 
 (wording on simplified principles supplied to dept. by the Office of Federal Privacy Commissioner)
 
- **Queries, concerns and further information**  
+**Queries, concerns and further information**  
 If you have any queries, concerns or require further information relating to privacy and Department of Health and Ageing, you are invited to email the webmaster. 
 
 Top of Page
@@ -180,6 +154,6 @@ A company or organisation that provides access to the internet for users.
 An agency of the Commonwealth or a State or Territory such as the Australian Federal police, which exercises powers such as executing a warrant to seize documentation or goods or to search premises etc 
 
 **Notification**  
-Automatic advice of new or updated material available via Department of Health and Ageing, provided to a user who registers for this service.
+Automatic advice of new or updated material available via Department of Health and Ageing, provided to a user who registers for this service. 
 
 Top of Page
