@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the thebestdesigns.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609151852id_/http%3A//www.thebestdesigns.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestdesigns.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085335id_/http%3A//www.thebestdesigns.com/privacy.shtml) for the most accurate reproduction.*
 
-# thebestdesigns.com - the best of web design - [The Best Designs]
+# The Best Designs - [TheBestDesigns.com] - Recognizing The Best of Web Design
 
-**PRIVACY POLICY**  
   
-
+**TheBestDesigns.com Privacy Policy**
 
 TheBestDesigns.com is committed to maintaining your confidence and trust. Your right to privacy and data security is a primary concern. 
 
@@ -29,6 +28,3 @@ If you would like to contact us for any reason regarding our privacy practices, 
 info@thebestdesigns.com 
 
 Effective Date: 05/01/2001 
-
-  
-Partner Sites: [AceHosts.com](http://www.acehosts.com/) | [eDezines.com](http://www.edezines.com/)
