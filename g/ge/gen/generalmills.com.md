@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generalmills.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206061309id_/http%3A//www.generalmills.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalmills.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602185540id_/http%3A//www.generalmills.com/corporate/privacy) for the most accurate reproduction.*
 
 # General Mills Online Privacy Policy
 
@@ -56,7 +56,7 @@
 > 
 > **Our commitment to children’s privacy**
 > 
-> **A special note to parents:** To protect the interests of children, no personal information will be requested on our Website from children 13 years of age or under, without notice to and the consent of a parent or guardian. This information, if collected, will be subject to the terms of our [Child Online Privacy Policy.](https://web.archive.org/web/20031206061309id_/http://www.generalmills.com/corporate/privacy/Child_privacy.asp)
+> **A special note to parents:** To protect the interests of children, no personal information will be requested on our Website from children 13 years of age or under, without notice to and the consent of a parent or guardian. This information, if collected, will be subject to the terms of our [Child Online Privacy Policy.](https://web.archive.org/web/20040602185540id_/http://www.generalmills.com/corporate/privacy/Child_privacy.asp)
 > 
 > **Notice**
 > 
