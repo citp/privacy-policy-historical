@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonymusic.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815063926id_/http%3A//www.sonymusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonymusic.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607155652id_/http%3A//www.sonymusic.com/privacy) for the most accurate reproduction.*
 
 # Sony Music: Privacy Policy
 
@@ -26,7 +26,7 @@ Our activities on this site are carried out in compliance with the Children's On
 
 For example, we ask visitors who wish to be placed on a specific mailing list for a newsletter to provide an e-mail address. This information is used to send the visitor the newsletter requested. We also ask visitors who wish to receive a free promotional item (such as a CD, t-shirt, etc.) to provide name, mailing address, and e-mail address. The name and mailing address are used to send the visitor the promotional item. The e-mail address is used only if we need to contact the visitor to verify name and mailing address. We do not retain this information after the item has been delivered, and we do not use it for any other purpose. 
 
-For contests that are held on this site, we ask each contestant to provide year of birth, as well as name, address, and e-mail address. If the year provided indicates that the contestant may not be at least 13 years old, the visitor is not allowed to participate in the contest, and the information submitted is deleted. Information submitted in order to participate in a contest is not used for any other purpose. 
+For contests that are held on this site, we ask each contestant to provide year of birth, as well as name, address, and e-mail address. If the year provided indicates that the contestant may not be at least 13 years old, the information submitted is deleted. Information submitted in order to participate in a contest is not used for any other purpose. Please refer to the specific age requirements for each contest as rules may vary from contest to contest. 
 
 We ask each visitor who wishes to participate in chat rooms and bulletin boards on this site to provide an e-mail address along with the visitor's screen name. Each visitor who wishes to send a so-called "postcard" is asked to provide the visitor's screen name and e-mail address, the recipient's name and e-mail address, and a message selected by the visitor. All such e-mail addresses are used only to protect the security and integrity of the site, such as to take action against visitors who post inappropriate material or harass other visitors. 
 
