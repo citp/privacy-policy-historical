@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcarejobsite.com privacy policy that was archived on 2004-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040531132047id_/http%3A//healthcarejobsite.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcarejobsite.com privacy policy that was archived on 2004-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040715130020id_/http%3A//www.healthcarejobsite.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Healthcare Jobsite - Search Jobs and Resumes in Healthcare / Medical
 
