@@ -1,62 +1,43 @@
-> *The following text is extracted and transformed from the campusnet.net privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402131531id_/http%3A//www.campusnet.net/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusnet.net privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208214554id_/http%3A//www.campusnet.net/privacy.asp) for the most accurate reproduction.*
 
-# Campus Management Corp Home
+# Campus Management Corp: Privacy Policy
 
 Privacy Policy
 
-**Campus Management Statement of Privacy**  
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to Campus Management Corp to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
+Campus Management Corp. respects your privacy and is committed to protecting any personal information that you provide to us. Our goal is to deliver content that will be useful to you. In order to provide relevant information, be responsive to your specific requests, and enhance your experience while utilizing our website, we will from time to time request information from you. 
 
-To protect your privacy, [www.campusmgmt.com](http://www.campusmgmt.com/)  follows five principles in accordance with worldwide practices for customer privacy and data protection. 
+This statement explains our policies and practices regarding the use and disclosure by Campus Management Corp. of the personal information you provide. It is important for you to understand that Campus Management Corp. reviews and updates this Privacy Policy as it deems appropriate without notice to you. As a result, you should periodically review this policy to make sure that you are aware of how we are using the personal information you provide us. By using our web site, you consent to the collection and use of your personal information by Campus Management Corp. as explained below. 
 
-**PRINCIPLE 1 -- NOTICE**  
-We will ask you when we need information that personally identifies you (Personal Information) or allows us to contact you. Generally this information is requested when you are asked to register before downloading free software, entering a contest, ordering e-mail newsletters or joining a limited-access subscriber portions of our web site. We use your Personal Information for four primary purposes: 
+Campus Management Corp. provides links to other sites we believe may be of interest to you. These sites are provided as a convenience and are beyond our control and Campus Management Corp. is not responsible for the privacy practices or the content on these web sites. You should check the privacy policies of those sites before providing your personal information to them. 
 
-  * To make the site easier for you to use by not having to enter information more than once. 
-  * To help you quickly find software, services or information on [www.campusmgmt.com](http://www.campusmgmt.com/). 
-  * To help us create content most relevant to you. 
-  * To alert you to product upgrades, special offers, updated information and other new services from Campus Management Corp.
+Copyright & Trademarks
 
+Campus Management Corp. and the Campus Management logo are trademarks or registered trademarks of Campus Management Corp. Other trademarks or registered trademarks of Campus Management include CampusVue, Campus2000 and Design, CampusNet (stylized), CLASS Software (stylized), CampusLink (stylized) and CampusCare (word mark). 
 
+All other trade names are trademarks or registered trademarks of their respective holders.
 
-**PRINCIPLE 2 - CONSENT**  
-If you choose not to register or provide personal information, you can still use most of [www.campusmgmt.com](http://www.campusmgmt.com/). But you will not be able to access areas that require registration. 
+Copyright © Campus Management Corp 2004. All rights reserved.
 
-If you desire access to the support portion of this web site, and you do not have access information, please call or email our Client Services group and ask for assistance. The email address for support is [support@campusmgmt.com](mailto:support@campusmgmt.com). 
+Collection of Information
 
-**PRINCIPLE 3 - ACCESS**  
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information when logged in to Customer Support. There, you can: 
+In general, you can visit our web site without providing us with any personal information. However, at various times during navigation across our web site, there are instances where we need your personal information to grant you access to our protected and secured sites. This information may include registration data, such as your name, address, email address and phone number. Campus Management Corp. may collect information from you through the use of user request forms to send you information you have specifically requested from us. Campus Management Corp. may also request information that will assist you in better using Campus Management Corp. products and services. This information may include information about your organization and your responsibilities within that organization. Please do not submit any personal information to us if you are less than 18 years of age. 
 
-  * View and edit personal information you have already given us. 
-  * Seek answers to technical questions.
-  * Tell us about issues with our products.
-  * Make product improvement suggestions.
-  * Search our extensive knowledge system.
+Use of Information
 
+We may use the information provided by you for various purposes to enhance your business relationship with Campus Management Corp., including: engaging in transactions or communications with you and your employer; verifying compliance with the agreement between Campus Management Corp. and your employer; providing future service and support; responding to user inquiries and requests for information; and informing you of new product and service offerings as they become available. 
 
+Disclosure of Information
 
-**PRINCIPLE 4 - SECURITY**  
-[www.campusmgmt.com](http://www.campusmgmt.com/) strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+Although Campus Management Corp. does not sell, trade or transfer your information to third parties; we may share the information with our business associates for various reasons, including marketing, advertising or product and service offering purposes. We would also disclose this information if we are required to disclose it by court order or other legal process. 
 
-**PRINCIPLE 5 - ENFORCEMENT**  
-If for some reason you believe [www.campusmgmt.com](http://www.campusmgmt.com/)  has not adhered to these principles, please notify us by e-mail at [webmaster@campusmgmt.com](mailto:webmaster@campusmgmt.com)  and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line. 
+Security
 
-**NOTICE TO PARENTS**  
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. You can find a wealth of information at Internet safety sites.
+The accuracy and security of your personal information is important to Campus Management Corp. If you contact us to make any changes to your information, we will attempt to make those changes in a timely manner. Campus Management Corp. is concerned with the security of your information and has in place reasonable measures to prevent unauthorized access to that information. To that end, we put in place the appropriate physical, electronic and managerial procedures to secure your personal information. 
 
-**ELECTRONIC PRODUCT REGISTRATION**  
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with our customer records. If you haven't already registered by giving us your e-mail address and a password, we will ask you to do so. This ensures that only you can access your information.
+Usernames and Passwords
 
-**CUSTOMER PROFILES**  
-As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
+Access to certain content on our web site may be allowed under a written agreement between you or your employer and Campus Management Corp. and will require a username and/or password. In some cases, failure to provide personal information may prevent you from accessing certain parts of our web site that may contain certain confidential information. 
 
-When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It enables seamless travel across [ www.campusmgmt.com](http://www.campusmgmt.com/), allowing you access with information you've already provided. Even if you switch computers, you won't have to re-register - just use your support logon and password to identify yourself.
+General
 
-**FAQ**
-
-**Q** : What is a "cookie", and how does a cookie affect my privacy?  
- **A** : A cookie is a small bit of code that is stored temporarily on your computer when you log in to the Customer Support portion of this web site.
-
-To log in click over to: [ http://support.campusmgmt.com/](http://support.campusmgmt.com/)
-
-The cookies we use are called "session length".  This means that the moment you shut down your browser the cookie will be erased.  CMC cookies are designed not fill up your web browser and cause slow computer performance!
+If you have questions regarding our Privacy Statement, please contact Dr. Jack Elcik [jelcik@campusmgmt.com](mailto:jelcik@campusmgmt.com).
