@@ -1,26 +1,50 @@
-> *The following text is extracted and transformed from the times-standard.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203142035id_/http%3A//www.times-standard.com/Stories/0%2C1413%2C127%25257E6098%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times-standard.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610173355id_/http%3A//www.times-standard.com/Stories/0%2C1413%2C127%25257E6098%25257E%2C00.html) for the most accurate reproduction.*
 
 # Times-Standard Online - Privacy Policy
 
 | [News](https://web.archive.org/Stories/0,1413,127%257E2895%257E,00.html)  
 ---  
 [Local News](https://web.archive.org/Stories/0,1413,127%257E2896%257E,00.html)  
-[Sports](https://web.archive.org/Stories/0,1413,127%257E2899%257E,00.html)  
 [Business](https://web.archive.org/Stories/0,1413,127%257E2902%257E,00.html)  
 [Editorial](https://web.archive.org/Stories/0,1413,127%257E2906%257E,00.html)  
 [Obituaries](http://www.legacy.com/times-standard/LegacyHome.asp)  
 [Weather](https://web.archive.org/Stories/0,1413,127%257E6402%257E,00.html)  
+[Weddings & Announcements](http://63.147.65.62/bridal/index.html)  
 [Earthquakes](http://quake.wr.usgs.gov/recenteqs/)  
-[Visitors Guide](http://www2.chicoer.com/visitors/)  
+    
+[Sports](https://web.archive.org/Stories/0,1413,127%257E31114%257E,00.html)  
+[Local Sports](https://web.archive.org/Stories/0,1413,127%257E2899%257E,00.html)  
+[Humboldt Crabs](https://web.archive.org/Stories/0,1413,127%257E31957%257E,00.html)  
+[Oakland Athletics](https://web.archive.org/Stories/0,1413,127%257E31112%257E,00.html)  
+[San Francisco Giants](https://web.archive.org/Stories/0,1413,127%257E31116%257E,00.html)  
+[San Francisco 49ers](https://web.archive.org/Stories/0,1413,127%257E31117%257E,00.html)  
+[Oakland Raiders](https://web.archive.org/Stories/0,1413,127%257E31115%257E,00.html)  
+    
+[Special Series](https://web.archive.org/Stories/0,1413,127%257E30555%257E,00.html)  
+[Community In Crisis](https://web.archive.org/Stories/0,1413,127%257E30600%257E,00.html)  
+[Pain Matrix](https://web.archive.org/Stories/0,1413,127%257E30556%257E,00.html)  
+[Calpine & LNG ](https://web.archive.org/Stories/0,1413,127%257E30557%257E,00.html)  
+    
+[Photo Gallery](http://www.dotphoto.com/go.asp?l=tsdotphoto)  
     
 [Marketplace](http://times-standard.townnews.com/classifieds/)  
 [Classifieds](http://times-standard.townnews.com/classifieds/)  
 [Jobs](http://www.employmentwizard.com/perl/vaui/Search/top/searchentry/?pid=54)  
-[Real Estate](http://times-standard.townnews.com/classifieds/tuesday/?loc=detail&main=Real%20Estate)  
-[On the Market](http://63.147.65.71/NCB/otm/marketframe.html)  
-[Autos](http://times-standard.townnews.com/classifieds/tuesday/?loc=detail&main=Automotive)  
-[Place an Ad](http://63.147.65.62/classified.asp)  
+[Real Estate](http://times-standard.townnews.com/classifieds/?loc=detail&main=Real%20Estate)  
+[On the Market](https://web.archive.org/Stories/0,1413,127%257E30544%257E,00.html)  
+[Autos](http://times-standard.townnews.com/classifieds/sunday/?loc=detail&main=Automotive)  
+[Place an Ad](http://times-standard.townnews.com/forms/classifieds/classifieds.html)  
 [Tri-City Weekly](http://tricityweekly.com/)  
+    
+[Directory](http://63.147.65.71/ads/class_directory.htm)  
+    
+Special Sections  
+[Living with Fire](http://63.147.65.62/fire/index.htm)  
+[Restore & Preserve](http://63.147.65.62/preserve/index.html)  
+[Brides Guide](http://63.147.65.62/bridal/index.html)  
+[Super Student](http://63.147.65.62/super_student/index.htm)  
+[Visitors Guide](http://www2.chicoer.com/visitors/)  
+[North Coast Vacations](http://63.147.65.62/vacations2004/index.html)  
     
 [Entertainment](https://web.archive.org/Stories/0,1413,127%257E27041%257E,00.html)  
 [Style](https://web.archive.org/Stories/0,1413,127%257E2905%257E,00.html)  
@@ -30,25 +54,16 @@
 [Lottery Results](https://web.archive.org/Stories/0,1413,127%257E2940%257E,00.html)  
 [Soap Opera Recaps](https://web.archive.org/Stories/0,1413,127%257E2941%257E,00.html)  
     
-Special Sections  
-[Election Results](http://www.co.humboldt.ca.us/election/udelfinalresults-1.htm)  
-[Women in Business](http://63.147.65.62/wib2003/index.html)  
-[North Coast Military Profiles](https://web.archive.org/Stories/0,1413,127%257E28611%257E,00.html)  
-[Football Preview 2003](http://63.147.65.62/football_2003/index.html)  
-[North Coast Vacations](http://63.147.65.62/vacations2003/index.html)  
-[Best of North Coast](http://63.147.65.62/bestof/index.html)  
-[Restore & Preserve](http://63.147.65.62/preserve/index.html)  
-[Veterans Day](http://63.147.65.62/veterans/index.html)  
+[Inside North Coast](http://www.insidenorthcoast.com/)  
     
 [Services](https://web.archive.org/Stories/0,1413,127%257E2944%257E,00.html)  
 [Contact us](https://web.archive.org/Stories/0,1413,127%257E2944%257E,00.html)  
 [Subscriptions](https://secure.townnews.com/times-standard.townnews.com/subscriptions.shtml)  
+[Write a letter](http://www.times-standard.com/Stories/0,1413,127%257E11735%257E,00.html)  
 [Privacy Policy](https://web.archive.org/Stories/0,1413,127%257E6098%257E,00.html)  
     
-[Inside North Coast](http://www.insidenorthcoast.com/)  
-    
   
-  | 
+  |   | 
 
 |    
 |  | **General Privacy Policy**  
@@ -151,4 +166,4 @@ We use a third-party advertising company to serve ads when you visit our Web sit
   
   
   
-  | 
+  |   | 
