@@ -1,7 +1,20 @@
-> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417174027id_/http%3A//www.pny.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204192930id_/http%3A//www.pny.com/privacy.asp) for the most accurate reproduction.*
 
-# PNY Technologies
+# PNY
 
+|  | [Home](https://web.archive.org/default.asp "home")  
+---|---  
+| [About PNY](https://web.archive.org/aboutPny/default.asp "About PNY")  
+| [Pressroom](https://web.archive.org/pressroom "Pressroom")  
+| [Support](https://web.archive.org/support "Support")  
+| [Products](https://web.archive.org/products "Products")  
+| [Where to Buy](https://web.archive.org/whereToBuy "Where to Buy")  
+| [International](https://web.archive.org/international "International")  
+| [How to Install](https://web.archive.org/install "How to Install")  
+| [OEM](https://web.archive.org/oem "Oem")  
+|   
+---  
+  
 **PLEASE READ CAREFULLY BEFORE USING THE SITE.**
 
 At PNY TECHNOLOGIES ("PNY"), we believe it is important to protect the privacy of our customers and guests who visit our website ("the Site") or use e-mail to communicate with us. We know that you care about how your personal information is collected, updated, used and shared; and we want you to make knowledgeable choices about the information you provide to us. 
@@ -17,7 +30,7 @@ BY USING OUR WEBSITE ("THE SITE"), YOU AGREE TO THESE POLICIES.
   * To make the site easier for you to use by not having to enter information more than once. 
   * To help you quickly find information on the Site. 
   * To help us create content most relevant to you.
-  * To alert you to special offers, updated information and other new services from PNY.    
+  * To alert you to special offers, updated information and other new services from PNY.   
 
 
   
