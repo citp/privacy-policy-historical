@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2004-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040414174733id_/http%3A//www.smithmicro.com/privacy.tpl%3Fcart%3D1080706572487200) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithmicro.com privacy policy that was archived on 2004-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040924011806id_/http%3A//www.smithmicro.com/privacy.tpl%3Fcart%3D1095840577622843) for the most accurate reproduction.*
 
 # Smith Micro Software
 
