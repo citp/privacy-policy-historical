@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toymania.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214105104id_/http%3A//www.toymania.com/parents.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toymania.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604072227id_/http%3A//www.toymania.com/parents.shtml) for the most accurate reproduction.*
 
 # Raving Toy Maniac - Information for Parents - Privacy
 
