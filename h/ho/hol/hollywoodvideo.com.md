@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodvideo.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044610id_/http%3A//www.hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodvideo.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060841id_/http%3A//hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Hollywood Video - Privacy Policy
 
@@ -14,22 +14,22 @@ Changes To This Privacy Policy: Information About Additions and Deletions To Thi
 Contact Information: How You Can Contact Us 
 
 **Personally Identifiable Information**  
-What Personally Identifiable Information Is:  
+_What Personally Identifiable Information Is:_  
 Personally identifiable information is any information that identifies you as an individual. It does not include information about what you do on our site, because that information is kept anonymously in aggregated form. It does include your name, address, e-mail address, phone number and/or credit card information. 
 
-Where We Collect Personally Identifiable Information  
+_Where We Collect Personally Identifiable Information_  
 Our sites may collect personally identifiable information submitted by you, if you are over 13 years of age. You are required to provide certain personally identifiable information in order to (1) apply for Online Membership, (2) subscribe to one of our newsletters, (3) enter one of our sweepstakes or trivia contests, (4) buy gift cards, (5) use our Store Locator, and (6) submit feedback, questions or “contact us” messages by email.
 
 For more information about where we collect personally identifiable information, please [click here](https://web.archive.org/company/privacy_details.aspx). 
 
-How We Use Personally Identifiable Information:  
+_How We Use Personally Identifiable Information:_  
 If you sign up for Online Membership, we will use your personally identifiable information to personalize your experience on our sites. If you give us permission, we will use your personal information to contact you for certain purposes, such as our newsletter. 
 
 Our sites compile aggregate data from all of our customers to prepare internal reports about which web pages are popular, how many total unique users visit our site, and different traffic patterns on the site. We do not combine personally identifiable information with information about web pages visited, purchases made, or any other clickstream data. 
 
 For more information about how we use personally identifiable information, please [click here](https://web.archive.org/company/privacy_details.aspx). 
 
-Who We Disclose Personally Identifiable Information To:  
+_Who We Disclose Personally Identifiable Information To:_  
 We will not sell, rent, or trade your personal information to third parties for use by them to send you unsolicited commercial offers. We do share your information with trusted third parties (other companies) that help us with administering our web sites, responding to your requests, and providing you with products and services. We do not allow these other companies to use your information except for the purpose it was provided. We will also disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us, or to prevent violations of the law, injury to person or property, or any harm to us or others. 
 
 For more information about how and when we may disclose personally identifiable information, please [click here](https://web.archive.org/company/privacy_details.aspx). 
