@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619132007id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231015401id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
-# Gamefly.com
+# Video Game Rentals : Rent or Buy PlayStation 2 / PS2, Xbox, GameCube, GBA Games
 
-  
+| |    
 GameFly respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us online. 
 
 This Privacy Statement and the certification seal located on this page confirm that GameFly is a valid licensee and participating subscriber in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy.asp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online. 
@@ -23,7 +23,7 @@ Because the website you are currently visiting displays the ESRB Privacy Online 
   * How you can ask a question or file a complaint regarding this Privacy Policy
 
 **What does this Privacy Policy apply to?**  
-The website you are currently visiting is operated by GameFly located at Santa Monica, California. This Privacy Policy currently applies to the following website(s) operated by GameFly (collectively referred to as the "GameFly Website," "our Website," or “GameFly.com”): 
+The website you are currently visiting is operated by GameFly located in Los Angeles, California. This Privacy Policy currently applies to the following website(s) operated by GameFly (collectively referred to as the "GameFly Website," "our Website," or “GameFly.com”): 
 
 [www.gamefly.com](http://www.gamefly.com/)
 
