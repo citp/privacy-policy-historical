@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205122219id_/http%3A//www.netnanny.com/home/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609182611id_/http%3A//www.netnanny.com/home/privacy_policy.asp) for the most accurate reproduction.*
 
 # NetNanny.com Privacy Policy
 
@@ -106,6 +106,6 @@ Net Nanny Software Inc.
 Bellevue, WA 98008  
 425-688-3008
 
-last updated 09/12/2001
+last updated 01/21/2002
 
-Copyright © 2001 Net Nanny Software Inc. All Rights Reserved.
+Copyright © 2002 Net Nanny Software Inc. All Rights Reserved.
