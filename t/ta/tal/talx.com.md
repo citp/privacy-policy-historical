@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the talx.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216171000id_/http%3A//talx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talx.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607074649id_/http%3A//www.talx.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for TALX Corporation
 
-|  TALX Corporation has created these statements and guidelines in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the TALX Corporation website at [http://www.talx.com](http://www.talx.com/), The Work Number website at, [http://www.theworknumber.com ](https://web.archive.org/web/20001216171000id_/http%3A//talx.com/index.html)and our e-commerce site located at [http://verify.theworknumber.com](http://verify.theworknumber.com/).
+|  TALX Corporation has created these statements and guidelines in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the TALX Corporation website at [http://www.talx.com](http://www.talx.com/), The Work Number website at, [http://www.theworknumber.com ](https://web.archive.org/web/20010607074649id_/http%3A//www.talx.com/index.html)and our e-commerce site located at [http://verify.theworknumber.com](http://verify.theworknumber.com/).
 
 This site may contain links to other sites, and we take great care in selecting those links. However, TALX Corporation is not responsible for the privacy practices or the content of other web sites. We strongly encourage you to look for and review the privacy policies of every web site you visit.
 
