@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408224647id_/http%3A//artmolds.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003234140id_/http%3A//www.artmolds.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for ArtMolds Sculpture Studio
 
