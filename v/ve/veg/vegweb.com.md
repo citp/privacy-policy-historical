@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602115010id_/http%3A//www.vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802145510id_/http%3A//www.vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Veggies Unite! Privacy Policy
 
