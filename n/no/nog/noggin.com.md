@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noggin.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604180801id_/http%3A//www.noggin.com/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noggin.com privacy policy that was archived on 2004-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040815052133id_/http%3A//www.noggin.com/parents/privacy.php) for the most accurate reproduction.*
 
 # N O G G I N: For Parents: Privacy Satement
 
