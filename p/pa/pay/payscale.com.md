@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209030049id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602201113id_/http%3A//payscale.com/privacy.asp) for the most accurate reproduction.*
 
 # PayScale - Salary Information, Wages, Compensation Surveys and Analysis
 
+| [](https://web.archive.org/default.asp) |  |  |  |   Privacy Policy  
+---|---|---|---|---  
+  
 **Our Privacy Philosophy**  
 PayScale takes your privacy seriously, and is sensitive to the nature of information collected on this site. To that end we have adopted the following privacy policy. 
 
@@ -28,7 +31,7 @@ Our primary purpose for collecting personal information is to provide you with t
   * PayScale uses information for four general purposes: (a) to average your compensation information with others in order to generate personalized compensation reports, (b) to customize the content you see, (c) to fulfill your requests for certain products and services, and (d) to contact you about special offers and new products. 
 
 **Information Sharing and Disclosure**  
-We are sensitive to your desire to limit the intrusiveness of advertising in your daily lives and respect your privacy. We do not sell, rent, trade or share your personally identifiable information with any other business. You will not receive unwanted third-party advertisements by e-mail or mail as a result of information submitted to our website. If you have any questions or concerns related to this issue, you may contact us at [service@payscale.com](mailto:PayScale%3Cservice@payscale.com%3E). 
+We are sensitive to your desire to limit the intrusiveness of advertising in your daily lives and respect your privacy. We do not sell, rent, trade or share your personally identifiable information with any other business. You will not receive unwanted third-party advertisements by e-mail or mail as a result of information submitted to our website. If you have any questions or concerns related to this issue, you may contact us at . 
 
   * PayScale will not sell, rent, trade or share your personally identifiable information with any other business. 
   * PayScale does not provide advertisers with personally identifiable information of any kind.
@@ -59,7 +62,7 @@ We are sensitive to your desire to limit the intrusiveness of advertising in you
 
 
   * PayScale gives you the complete ability to edit your [PayScale Account Information](https://web.archive.org/profile.asp) and preferences at any time, including whether you want PayScale to contact you about specials and new products. 
-  * You may request deletion of your PayScale account by sending an email to [remove@payscale.com](mailto:remove@payscale.com). (After your account has been deleted, your profile information may possibly remain in our archived records.)
+  * You may request deletion of your PayScale account by sending an email to . (After your account has been deleted, your profile information may possibly remain in our archived records.)
 
 **Security**  
 
@@ -75,6 +78,6 @@ We are sensitive to your desire to limit the intrusiveness of advertising in you
 **Questions or Suggestions**  
 
 
-  * If you have questions or suggestions please send email to [service@payscale.com](mailto:PayScale%3Cservice@payscale.com%3E).
+  * If you have questions or suggestions please send email to .
 
 
