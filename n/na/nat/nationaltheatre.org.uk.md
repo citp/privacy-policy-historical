@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615150137id_/http%3A//www.nationaltheatre.org.uk%3Flid%3D2595) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016084608id_/http%3A//www.nationaltheatre.org.uk%3Flid%3D2595) for the most accurate reproduction.*
 
 # National Theatre : Website Help : Privacy
 
