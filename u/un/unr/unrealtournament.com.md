@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201214655id_/http%3A//unrealtournament.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603160600id_/http%3A//www.unrealtournament.com/site/privacy.html) for the most accurate reproduction.*
 
 # Unreal Tournament - Privacy Policy
 
