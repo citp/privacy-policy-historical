@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the financialpeace.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408145415id_/http%3A//www.financialpeace.com/etc/cms/index.cfm%3FintContentID%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialpeace.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008083629id_/http%3A//financialpeace.com/etc/cms/index.cfm%3FintContentID%3D39) for the most accurate reproduction.*
 
-# Welcome to the NEW daveramsey.com!
+# www.daveramsey.com -- Privacy Policy
 
 **Our Policy Behind Our Privacy Policy**  
 DaveRamsey.com refuses to make you read through pages and pages of boring text about a policy that does nothing but trick you into NOT reading it. We have chosen to make our privacy policy clear and concise enough that you will read it and feel comfortable on our site, knowing that we have every intention to protect your privacy.
