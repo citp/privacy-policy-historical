@@ -1,8 +1,38 @@
-> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607040819id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208231621id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
 
 # MacNN | Privacy Policy
 
-Desktop Headlines  | 
+Desktop Headlines
+
+Popular Daily
+
+Popular WeeklyHot ReviewsMost CommentedTop Stories
+
+[Apple launches iTunes Music Store for Canada](http://www.macnn.com/news.php?id=27128)
+
+[Apple Store offers refurb Power Mac G5s, iMac G5s](http://www.macnn.com/news.php?id=27022)
+
+[London Apple Store to feature 'The Studio'](http://www.macnn.com/news.php?id=26999)
+
+[Apple releases Mac OS X 10.3.6 update](http://www.macnn.com/news.php?id=26869)
+
+[World of Warcraft to hit stores November 23](http://www.macnn.com/news.php?id=26854)
+
+[QuarkXPress 6.5 update available for download](http://www.macnn.com/news.php?id=26814)
+
+[Apple debuts new U2, Photo iPods; expands EuroTunes](http://www.macnn.com/news.php?id=26759)
+
+[Apple unveils faster iBooks with built-in networking](http://www.macnn.com/news.php?id=26660)
+
+[Apple unveils new "mini" retail stores, locations](http://www.macnn.com/news.php?id=26625)
+
+[Apple earns $106M on highest Q4 revenue in 9 yrs](http://www.macnn.com/news.php?id=26607)
+
+[Microsoft releases Virtual PC 7 with Windows XP Pro](http://www.macnn.com/news.php?id=26499)
+
+[Apple debuts Logic Pro 7, Logic Express 7](http://www.macnn.com/news.php?id=26419)
+
+| 
 
   
 
@@ -43,181 +73,19 @@ Desktop Headlines  |
 |   
 ---  
   
-[Inside-Hollywood Digital Media Training:](http://links.industrybrains.com/?Click?195365&2&85&20040607000041&http://www.videosymphony.com) Go where the inside-Hollywood studio pros train. Courses and career programs in video and audio editing available in our nationally accredited facility. Awarded #1 authorized education center world wide by Avid for 2003. Financing available.
+[OKI Color Printers -- Up to $150 Cash Back:](http://links.industrybrains.com/click?sid=85&pos=1&lid=300153&pr=2&tstamp=20041208180232&url=http://ad.doubleclick.net/clk%3b11905465%3b10490089%3bf%3fhttp://www.okidata.com/mkt/html/nf/C5200n-C5400pcworld.html) OKI is now offering limited time rebates on the most popular digital color printers from its award-winning line. Spectacular color. High-speed printing. Low cost of operation. Learn more....
 
-[Get $50 or $75 back by mail at RadioShack!:](http://links.industrybrains.com/?Click?271529&2&85&20040607000041&http://s0b.bluestreak.com/ix.e?hy&s=315324&a=231192) Get a $50 HP mail-in rebate when you buy any digital camera and HP photo printer, or get a $75 HP mail-in rebate when you buy an HP digital camera and HP photo printer.
+[Vonage: The BROADBAND Phone Company:](http://links.industrybrains.com/click?sid=85&pos=2&lid=304676&pr=2&tstamp=20041208180232&url=http://clk.atdmt.com/VON/go/ndstrvon0070001557von/direct/01/) Vonage is a digital phone service that replaces your current phone company, offering unlimited calls to U.S. and Canada for $24.99 per month
 
-[Recommended source for Royalty-Free Music:](http://links.industrybrains.com/?Click?272400&2&85&20040607000041&http://www.shockwave-sound.com/) Shockwave-Sound.Com offer a large selection of high quality royalty-free music (full tracks, music loops, sound effects) for multimedia, web, CD/DVD, on-hold etc. Chillout, classical, smooth jazz, relaxation, and more. Download or CD delivery.
+[Custom menus in OSX - Free 15 day trial:](http://links.industrybrains.com/click?sid=85&pos=3&lid=302284&pr=2&tstamp=20041208180232&url=http://www.yousoftware.com/control/%3fkeyword%3dibcontrol_MacNN_HPROS) Turn a corner of your Mac into a one-stop information center. create custom menus in OS X. Control iTunes, get RSS news, weather and stocks , find any file fast. 15 powerful tools for OS X. Free 15 day trial
 
-[Save $200-Digital Design World-Seattle July 21-23:](http://links.industrybrains.com/?Click?271965&2&85&20040607000041&https://www.ftponline.com/conferences/digitaldesignworld/Seattle/) Digital Design World returns to Seattle with three separate conferences covering the topics most important to you-Web Design, Photoshop and Digital Workflow. Register now for the Gold Passport and attend all three. Be sure to cite Priority Code DDWIB
+[Digital Media Training with Job Placement:](http://links.industrybrains.com/click?sid=85&pos=4&lid=195365&pr=2&tstamp=20041208180232&url=http://www.videosymphony.com) Go where inside studio pros train. Nationally Accredited School with Video Editing / Motion Graphics courses and job placement.
 
-[Managed virus protection from McAfee(r) Security:](http://links.industrybrains.com/?Click?271731&2&85&20040607000041&http://ad.doubleclick.net/clk;8295240;9175965;x) McAfee(r) VirusScan(r) ASaP allows you to offload the burden and costs of managing anti-virus software. An online managed security service, VirusScan ASaP, provides comprehensive, always on protection for desktops and servers.  
+[Powerbook Battery:](http://links.industrybrains.com/click?sid=85&pos=5&lid=273622&pr=2&tstamp=20041208180232&url=http://www.goelectronic.com/store/powerbook_battery.html) Go Electronic has a large selection of Powerbook and iBook replacement batteries at great prices. Orders usually ship same day (on orders placed by 3:00 E.S.T. M-F).
+
+**Buy from[The Apple Store](http://macnn.com/rd.php?id=22254), [iTunes.com](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=78941.10000049&type=3&subid=0), [Amazon.com](http://www.amazon.com/exec/obidos/redirect?tag=themacintosnewsn&path=tg/browse/-/172282/),[Buy.com](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=56785.10000928&type=4&subid=0), [TechDepot](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=77822.10000065&type=3&subid=0), [OfficeDepot](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=27778.10000200&type=3&subid=0), [Computers4Sure](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=77819.10000067&type=3&subid=0), or [donate](https://www.paypal.com/xclick/business=donations%40macnn.com&item_name=MacNN+Forums+Support&amount=15.00&no_note=1&tax=0&currency_code=USD).**  
   
   
-
-
-|   
----  
-[Inside-Hollywood Digital Media Training](http://links.industrybrains.com/?Click?195365&2&85&20040607000041&http://www.videosymphony.com)  
-Go where the inside-Hollywood studio pros train. Courses and career programs in video and audio editing available in our nationally accredited facility. Awarded #1 authorized education center world wide by Avid for 2003. Financing available.
-
-[Get $50 or $75 back by mail at RadioShack!](http://links.industrybrains.com/?Click?271529&2&85&20040607000041&http://s0b.bluestreak.com/ix.e?hy&s=315324&a=231192)  
-Get a $50 HP mail-in rebate when you buy any digital camera and HP photo printer, or get a $75 HP mail-in rebate when you buy an HP digital camera and HP photo printer.
-
-[Recommended source for Royalty-Free Music](http://links.industrybrains.com/?Click?272400&2&85&20040607000041&http://www.shockwave-sound.com/)  
-Shockwave-Sound.Com offer a large selection of high quality royalty-free music (full tracks, music loops, sound effects) for multimedia, web, CD/DVD, on-hold etc. Chillout, classical, smooth jazz, relaxation, and more. Download or CD delivery.  
   
   
-Recent Headlines
-    
-    
-    [Safari for Windows?](http://www.macnn.com/news/24954)
-    
-    
-    [Jobs receives $75M in 2003](http://www.macnn.com/news/24953)
-    
-    
-    [Third Apple Store in WA?](http://www.macnn.com/news/24952)
-    
-    
-    [MS spam, Walkman lawsuit..](http://www.macnn.com/news/24951)
-    
-    
-    [Oracle/Apple, new PMs?](http://www.macnn.com/news/24950)
-    
-    
-    [Forums: New PM G5...](http://www.macnn.com/news/24949)
-    
-    
-    [Phelio game updates](http://www.macnn.com/news/24948)
-    
-    
-    [Feral gaming news](http://www.macnn.com/news/24947)
-    
-    
-    [Squabble 1.0](http://www.macnn.com/news/24946)
-    
-    
-    [EvoCam, Sample Manager,...](http://www.macnn.com/news/24945)
-    
-    
-    [Ableton Live 4 due in July](http://www.macnn.com/news/24944)
-    
-    
-    [Aurelon Signalize! RIP](http://www.macnn.com/news/24943)
-    
-    
-    [Mac OS X performance](http://www.macnn.com/news/24942)
-    
-    
-    [America's Army: SF 2.1](http://www.macnn.com/news/24941)
-    
-    
-    [Apple store in Austin, TX](http://www.macnn.com/news/24940)
-    
-    
-    [InterMapper 4.2](http://www.macnn.com/news/24939)
-    
-    
-    [Dev tutorial, OS X 10.4...](http://www.macnn.com/news/24938)
-    
-    
-    [PocketMac GoBetween](http://www.macnn.com/news/24937)
-    
-    
-    [Tech: Disney/Pixar...](http://www.macnn.com/news/24936)
-    
-    
-    [AirPort Extreme 3.4.2](http://www.macnn.com/news/24935)
-    
-    
-    [Apple Store in Santa Rosa](http://www.macnn.com/news/24934)
-    
-    
-    [Tech: Hotmail glitch...](http://www.macnn.com/news/24933)
-    
-    
-    [Miglia sale, PMFUG...](http://www.macnn.com/news/24932)
-    
-    
-    [Gmail supports Safari](http://www.macnn.com/news/24931)
-    
-    
-    [SwitchXS, WebDesign](http://www.macnn.com/news/24930)
-    
-    
-    [DragThing 5.2](http://www.macnn.com/news/24929)
-    
-    
-    [Adobe Adjusted Refresh](http://www.macnn.com/news/24928)
-    
-    
-    [ConceptDraw 5.2](http://www.macnn.com/news/24927)
-    
-    
-    [SketchBook Pro 1.1](http://www.macnn.com/news/24926)
-    
-    
-    [iLiner, SoundFont Synth...](http://www.macnn.com/news/24925)
-    
-    
-    [New Mac gaming company](http://www.macnn.com/news/24924)
-    
-    
-    [Apple security issues](http://www.macnn.com/news/24923)
-    
-    
-    [FW 400GB "AluICE"](http://www.macnn.com/news/24922)
-    
-    
-    [Omikron Basic 8.0](http://www.macnn.com/news/24921)
-    
-    
-    [.Mac free stuff, upgrades](http://www.macnn.com/news/24920)
-    
-    
-    [In Brief: Video Seminar...](http://www.macnn.com/news/24919)
-    
-    
-    [PC World credits iTunes](http://www.macnn.com/news/24918)
-    
-    
-    [CD burning limitations?](http://www.macnn.com/news/24917)
-    
-    
-    [CoCoPod vs. iPod](http://www.macnn.com/news/24916)
-    
-    
-    [MS patents 'double-click'](http://www.macnn.com/news/24915)
-    
-    
-    [Mac OS X vs. Windows](http://www.macnn.com/news/24914)
-    
-    
-    ["Degunking Your Mac"](http://www.macnn.com/news/24913)
-    
-    
-    [Tech: wireless broadband](http://www.macnn.com/news/24912)
-    
-    
-    [Runtime Rev news](http://www.macnn.com/news/24911)
-    
-    
-    [RenderMan R12 announced](http://www.macnn.com/news/24910)
-    
-    
-    [Kodak Airbrush plugin](http://www.macnn.com/news/24909)
-    
-    
-    [Space Colony goes 'gold'](http://www.macnn.com/news/24908)
-    
-    
-    [PhoneDirector, PhotoKit-EL](http://www.macnn.com/news/24907)
-    
-    
-    [Continuum Complete 3](http://www.macnn.com/news/24906)
-    
-    
-    [Bluetooth barcode scanner](http://www.macnn.com/news/24905)
-
-Desktop Headlines 
+Recent Headlines Desktop Headlines 
