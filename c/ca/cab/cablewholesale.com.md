@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208070649id_/http%3A//www.cablewholesale.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412030307id_/http%3A//www.cablewholesale.com/about/privacy.htm) for the most accurate reproduction.*
 
 # About CableWholesale.com, Inc. / National Technology -- Privacy Policy
 
@@ -46,16 +46,19 @@ Audio / Video Products 
 [Component Video](https://web.archive.org/catalog/componentvideo.htm)  
 [Digital Audio Cables](https://web.archive.org/catalog/digitalaudiocables.htm)  
 [Guitar Cable](https://web.archive.org/catalog/guitarcable.htm)  
+[Microphone Cable](https://web.archive.org/catalog/microphonecable.htm)  
 [Microphones](https://web.archive.org/catalog/microphones.htm)  
 [MIDI Cable](https://web.archive.org/catalog/midicable.htm)  
-[RG59 Terminators](https://web.archive.org/catalog/rg59terminators.htm)  
 [S-Video Cables](https://web.archive.org/catalog/s-videocables.htm)  
   
   
 Bulk Cable   
   
 [Cat 5 Cable Bulk](https://web.archive.org/catalog/cat5cablebulk.htm)  
-[Microphone Cable](https://web.archive.org/catalog/microphonecable.htm)  
+[CAT-6 Cable Bulk](https://web.archive.org/catalog/cat-6cablebulk.htm)  
+[Phone Cable Bulk](https://web.archive.org/catalog/phonecablebulk.htm)  
+[RG58 Cable Bulk](https://web.archive.org/catalog/rg58cablebulk.htm)  
+[RG6 Cable Bulk](https://web.archive.org/catalog/rg6cablebulk.htm)  
 [Speaker Cable](https://web.archive.org/catalog/speakercable.htm)  
   
   
@@ -74,6 +77,7 @@ Coaxial Cable 
 [RG58 Terminators](https://web.archive.org/catalog/rg58terminators.htm)  
 [RG59 BNC Coaxial Cables](https://web.archive.org/catalog/rg59bnccoaxialcables.htm)  
 [RG59 Connectors](https://web.archive.org/catalog/rg59connectors.htm)  
+[RG59 Terminators](https://web.archive.org/catalog/rg59terminators.htm)  
 [RG6 F Coaxial Cable](https://web.archive.org/catalog/rg6fcoaxialcable.htm)  
 [RGB BNC Cables](https://web.archive.org/catalog/rgbbnccables.htm)  
   
@@ -100,6 +104,7 @@ IDE / SCSI Product 
 [SCSI II Cables](https://web.archive.org/catalog/scsiiicables.htm)  
 [SCSI III Cables](https://web.archive.org/catalog/scsiiiicables.htm)  
 [SCSI Terminators](https://web.archive.org/catalog/scsiterminators.htm)  
+[Serial ATA](https://web.archive.org/catalog/serialata.htm)  
 [VHDCI 68 Internal Adaptors](https://web.archive.org/catalog/vhdci68internaladaptors.htm)  
 [VHDCI68 SCSI Cables](https://web.archive.org/catalog/vhdci68scsicables.htm)  
   
@@ -136,7 +141,6 @@ Modem/Video card 
   
 Network / Phone Product   
   
-[CAT 5 Cables](https://web.archive.org/catalog/cat5cables.htm)  
 [CAT 5 E Cables](https://web.archive.org/catalog/cat5ecables.htm)  
 [CAT 6 Cable](https://web.archive.org/catalog/cat6cable.htm)  
 [Dual Speed Fast Ethernet Hubs](https://web.archive.org/catalog/dualspeedfastethernethubs.htm)  
@@ -148,7 +152,6 @@ Network / Phone Product 
 [Fast Ethernet Hubs](https://web.archive.org/catalog/fastethernethubs.htm)  
 [Gigabit Ethernet](https://web.archive.org/catalog/gigabitethernet.htm)  
 [Keystones](https://web.archive.org/catalog/keystones.htm)  
-[Lan Adaptors](https://web.archive.org/catalog/lanadaptors.htm)  
 [Network Print Servers](https://web.archive.org/catalog/networkprintservers.htm)  
 [Network Routers](https://web.archive.org/catalog/networkrouters.htm)  
 [Patch Panel](https://web.archive.org/catalog/patchpanel.htm)  
@@ -162,6 +165,7 @@ Power Product 
   
 [Power Centers](https://web.archive.org/catalog/powercenters.htm)  
 [Power Cords](https://web.archive.org/catalog/powercords.htm)  
+[Power Supplies](https://web.archive.org/catalog/powersupplies.htm)  
 [Power Y Cables](https://web.archive.org/catalog/powerycables.htm)  
 [Surge Protectors](https://web.archive.org/catalog/surgeprotectors.htm)  
 [UPS Power Protections](https://web.archive.org/catalog/upspowerprotections.htm)  
