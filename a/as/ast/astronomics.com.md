@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astronomics.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216075115id_/http%3A//www.astronomics.com/main/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomics.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204223204id_/http%3A//www.astronomics.com/main/privacy.asp%3F) for the most accurate reproduction.*
 
 # a s t r o n o m i c s . c o m [Our privacy policy]
 
