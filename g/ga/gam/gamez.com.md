@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamez.com privacy policy that was archived on 2001-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010505085732id_/http%3A//gamez.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamez.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204194341id_/http%3A//gamez.com/info/privacy.html) for the most accurate reproduction.*
 
 # Gamez.com - The Games Database!
 
@@ -6,13 +6,13 @@
 |    
 |  |  |  [All Games](http://gamez.com/)  
 |    
-|  [Cheats](http://cheats.gamez.com/)  
-|    
 |  [Demos](http://demos.gamez.com/)  
 |    
 |  [Forums](http://forums.gamez.com/)  
 |    
 |  [Game Sites](http://sites.gamez.com/)  
+|    
+|  [Affiliate Program](https://web.archive.org/affiliate/)  
   
 ---|---|---|---|---|---|---|---|---  
   
@@ -82,6 +82,7 @@ If you have any questions about this privacy statement, the practices of this si
   
   
   
+  
 |    
 |    
 | 
@@ -89,6 +90,18 @@ If you have any questions about this privacy statement, the practices of this si
   
 
 
+|  Platform  
+  
+  
+---  
+Name of Game  
+  
+  
+Gamez Web  
+  
+  
+  
+  
   
 
 
@@ -135,17 +148,20 @@ If you have any questions about this privacy statement, the practices of this si
 
 
   
+
+
   
+[](http://www.bulkclicks.com/banner.php3?l=gamezcom)  
   
   
 [](http://www.webtrendslive.com/redirect.asp?siteID=27039)   
-  
+[](http://rd1.hitbox.com/rd?acct=WQ511125I2DZ42EN0)   
   
   
   
 
 
-[](http://connect.247media.ads.link4ads.com/click/1/gamez_com/gamez_comros/gamez_comros/36313;uniq=pc)  
+[](http://connect.247media.ads.link4ads.com/click/1/gamez_com/gamez_comros/gamez_comros/36313;uniq=1007495055)  
 
 
   
