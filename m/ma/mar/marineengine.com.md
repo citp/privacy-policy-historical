@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineengine.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417120208id_/http%3A//marineengine.com/cgi-bin/suite/classifieds/classifieds.cgi%3Frequest%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineengine.com privacy policy that was archived on 2003-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030808182657id_/http%3A//www.marineengine.com/cgi-bin/suite/classifieds/classifieds.cgi%3Frequest%3Dprivacy) for the most accurate reproduction.*
 
 # MarineEngine.com
 
