@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ballerstatus.net privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208061258id_/http%3A//www.ballerstatus.net/default.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerstatus.net privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404142319id_/http%3A//www.ballerstatus.net/default/id/privacypolicy) for the most accurate reproduction.*
 
-# BallerStatus.net: Hip-Hop
+# Ballerstatus.net: Hip-hop
 
 We respect the privacy of our newsletter subscribers, customers, contacts, those who answer our surveys, and those who fill out our questionnaires. It is our policy: Choice and Consent: To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request.
 
