@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gojobs.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205014910id_/http%3A//www.gojobs.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gojobs.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607195310id_/http%3A//www.gojobs.com/Privacy.htm) for the most accurate reproduction.*
 
 # GO Jobs Privacy Statement
 
