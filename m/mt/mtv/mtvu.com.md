@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204220128id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171341id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
 # mtvU.com
 
-[](https://web.archive.org/uconnect/newsletter/)
+[](http://mtvureps.com/CDA5240F87574D8387EBDE8FEC733210/page/page.asp?id=1774)
 
   
   |  | 
@@ -34,7 +34,7 @@ Overview: This Privacy Statement is intended to explain our privacy practices an
 
 You can visit the Site and learn about our company and its Products, as well as certain goods and services available from our advertisers and suppliers. 
 
-Personally Identifiable Information: When we use the term "personally identifiable information" we mean information such as your full name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personally identifiable information also includes information about your transactions or relationship with us, if you have been a customer or you have provided this type of information to any of the mtvU family of companies. For example, if you order any of our Products, in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number, and information about your computer's internet address and web site which may have referred or directed you to the Site (e.g., the referring URL). We collect this and other information to fill your order, to communicate with you about your order and to send you promotional materials. 
+Personally Identifiable Information: When we use the term "personally identifiable information" we mean information such as your full name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personally identifiable information also includes information about your transactions or relationship with us, if you have been a customer or you have provided this type of information to any of the mtvU family of companies. For example, if you order any of our Products, in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number, and information about your computer's internet address and web site which may have referred or directed you to the Site (e.g., the referring URL). We collect this and other information to fill your order, to communicate with you about your order and to send you promotional materials. 
 
 Although we may track the numbers of visitors to inform us on how best to update the Site and enhance the experience for all visitors, personally identifiable information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our service, improve the look of the Site and display advertising and marketing information. 
 
@@ -70,7 +70,7 @@ Disclosure to Third Parties: Except as described in this Privacy Statement, mtvU
 
 We do not sell or market your personally identifiable information to unaffiliated organizations. 
 
-Some of the aggregate customer data we collect may be shared with advertising companies in order to enhance and improve the operation and relevance of the Site, but we do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about these third party servers and how to "opt out" of the ad serving cookie, please [click here.](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)
+Some of the aggregate customer data we collect may be shared with advertising companies, multiple system operators and other business partners of MTVN, but we do not give any personally identifiable information to them as part of the relationship except as described above. Use of their tracking technology is subject to their own privacy policies. For more information about these third party servers and how to "opt out" of the ad serving cookie, please [click here.](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)
 
 Communications from Us: If you provide us with your e-mail address, we may occasionally send you an e-mail. You may "opt out" of receiving e-mails from us by replying to one of our e-mails with the word "unsubscribe" in the subject line. 
 
