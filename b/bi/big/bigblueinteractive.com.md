@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609135914id_/http%3A//www.bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205095446id_/http%3A//www.bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
 
 # Big Blue Interactive Privacy Policy
 
 ****  
-[](https://web.archive.org/web/20020609135914id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20021205095446id_/http%3A//www.bigblueinteractive.com/index.cfm)
 
 * * *
 
@@ -68,4 +68,4 @@ _This Document Was Last Updated on August 19, 2001_
 
 * * *
 
-[](https://web.archive.org/web/20020609135914id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20021205095446id_/http%3A//www.bigblueinteractive.com/index.cfm)
