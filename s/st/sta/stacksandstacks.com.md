@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605213511id_/http%3A//www.stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207161500id_/http%3A//stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
 
 # STACKS & STACKS PRIVACY STATEMENT
 
-> ##   
->  Privacy Statement for www.stacksandstacks.com
+> ## **Privacy Statement for www.stacksandstacks.com**
 > 
 > Stacks & Stacks has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.stacksandstacks.com.**
 > 
-> Stacks and Stacks does not sell, rent, trade, or barter any customer email names or addresses. 
+> Stacks and Stacks does not sell, rent, trade, or barter any customer email names. 
 > 
-> This site may contain links to other sites. **www.stacksandstacks.com** is not responsible for the privacy practices or the content of such Web sites.
+> This site may contain links to other sites. **www.stacksandstacks.com** is not responsible for the privacy practices or the content of such Web sites. 
 > 
-> Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services.
+> Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services. 
 > 
-> We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary.
+> We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. 
 > 
 > **Security**
 > 
@@ -26,12 +25,3 @@
 > Stacks and Stacks, in attempting to reduce fraudulent use of credit card numbers, asks for the CVV2 number on the back of credit cards. By doing this, we insure that anyone making a purchase on our site has the credit card in his possession. This protects both our customers and our company.
 > 
 > **Contacting the Web Site**
-> 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-> 
-> Mel Ronick  
->  President  
->  Stacks and Stacks  
->  [mel@stacksandstacks.com](mailto:mel@stacksandstacks.com)
-> 
-> [Return to Stacks & Stacks Home Page](http://www.stacksandstacks.com/index.htm)
