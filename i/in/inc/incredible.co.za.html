@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the incredible.co.za privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208071154id_/http%3A//www.incredible.co.za/privacy_statement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the incredible.co.za privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602192435id_/http%3A//www.incredible.co.za/privacy_statement.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Incredible Connection : Privacy Statement</title>
@@ -415,7 +415,7 @@ function menuclicked(visi)
 
 
 
-		   <body onload="me()" bgcolor="#FFFFFF" onunload="closeChild()" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><layer id="menu" position="absolute" left="3" top="372" z-index="1" ;=""></layer>
+		   <body onload="me()" bgcolor="#FFFFFF" onunload="closeChild()" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><layer id="menu" position="absolute" left="3" top="338" z-index="1" ;=""></layer>
 	
 
 <script>
@@ -543,7 +543,7 @@ function hidePopup() {
 
 //-->
 </script>
-		<div id="Wizard" style="position:absolute; left:499px; top:232px; width:137px; height:154px; z-index:2; visibility: hidden"> 
+		<div id="Wizard" style="position:absolute; left:499px; top:192px; width:137px; height:154px; z-index:2; visibility: hidden"> 
 	
 
 
@@ -554,7 +554,7 @@ function hidePopup() {
 
 <table cellspacing="0" cellpadding="0">
 <tbody><tr>
-   <td valign="center"> <a href="javascript:MM_showHideLayers('Wizard','','hide')"><img src="http://www.incredible.co.za/images/common/wizard_on.gif" border="0" alt="Use the Shopping Wizard to add multiple items to your basket at once.The Shopping Wizard can also be used to bookmark products for later viewing."></a>
+   <td valign="center"> <a href="javascript:MM_showHideLayers('Wizard','','hide')"><img src="http://www.incredible.co.za/images/common/wizard_on.gif" border="0"></a>
 
    </td>
 </tr> 
@@ -581,7 +581,7 @@ function hidePopup() {
 		<tbody><tr> 
           <td width="144" align="center"><a href="http://www.incredible.co.za"><img src="http://www.incredible.co.za/images/left/logo.gif" alt=" Back to Incredible Connection : Home" border="0"></a></td>
 <td align="center">
-<a href="http://www.incredible.co.za/services/catalog/moreinfo.asp?sku=35884&amp;rcat="><img src="http://www.incredible.co.za/images/banners/pocketaccountant.jpg " border="0"></a>
+<a href="http://www.incredible.co.za/services/competition/"><img src="http://www.incredible.co.za/images/banners/visabanner_1.jpg " border="0"></a>
 </td>
 
 <td align="right">
@@ -641,7 +641,7 @@ function hidePopup() {
      </font>
 
 	 <br><img src="http://www.incredible.co.za/images/common/pixel_ffffff.gif" height="10" width="100%"><br>
- 	  <font class="font75">Slippery mouse? Sometimes it is not enough to just remove the dust from your mouse.  Wash and scrub the ball with detergent and an abrasive pad.  I found that even on poor "mousing surfaces" that there were no more problems with slippage.  </font>
+ 	  <font class="font75">To copy an image of the screen onto the clipboard in windows you can press the PRINT SCREEN button. This only works for non-Windows applications only if they are running in text mode. </font>
   
   </td>
 
@@ -656,7 +656,6 @@ function hidePopup() {
  </td></tr>
 
 
-<tr><td bgcolor="#08BD39" valign="top" colspan="3"><img src="http://www.incredible.co.za/images/branding_elements/chrismousetop.gif"></td></tr>
  
 
 
@@ -861,6 +860,7 @@ who access and transact via the site. <b>Please note that all information is agg
 
  </td></tr>
 <script>
+
 function CJOU(Msg)
 					{ 
 						//var reEmail = /^.+\@.+\..+$/;
@@ -871,6 +871,7 @@ function CJOU(Msg)
                         the_type = eval('document.sm.etype');
                       
                         whatsit = "none";
+						choosesub = "none"
 						
 						if(reEmail.test(thef.value)) {
 						whatsit = "email"
@@ -882,9 +883,26 @@ function CJOU(Msg)
                         the_type.value = whatsit;
 						}
 						
-						if (whatsit == "none")
-   					    { alert(Msg);
-					      thef.focus();
+						if ((sm.jsub_dvd_games.checked) || (sm.jsub_small_business.checked) || (sm.jsub_hardware_software.checked) || (sm.jsub_incredible_deals.checked))
+   					 	{
+						choosesub = "something"
+						//alert(choosesub)
+						}
+						
+						
+						
+						if ((whatsit == "none") || (choosesub == "none"))
+   					    {
+       				 	   if (whatsit == "none") 
+							{
+							alert(Msg);
+					        thef.focus();
+							}
+
+                         if ((whatsit != "none") && (choosesub == "none"))
+							{
+							alert('Mark the appropriate checkboxes to indicate what type of news you want to receive');
+ 							}
                         }
 						else
 						{
@@ -892,6 +910,7 @@ function CJOU(Msg)
 						}
      				} 
 </script> 
+
 
 <tr><td height="10"></td><td></td></tr>
 <tr>
@@ -910,10 +929,21 @@ function CJOU(Msg)
 				<td align="right">
 				<input class="inputbox1" type="text" name="email_cellphone" onclick="javascript:if (email_cellphone.value==' > Enter e-mail') {email_cellphone.value=''};" value=" > Enter e-mail" size="8">
 				</td><td>
-     			<input type="button" onclick="javascript:CJOU('Not valid email address/cellphone number - no spaces')" name="search" value="GO" class="form_button" style="cursor:hand">
+     			<input type="button" onclick="javascript:CJOU('Not valid email address/cellphone number - no spaces')" name="search" value="GO" class="form_button" style="cursor:hand"><br>
 				</td></tr>
 				</tbody></table>
 	</td>
+</tr>
+<tr>
+<td>
+				<table cellpadding="0" cellspacing="0">
+				<tbody><tr><td><input type="checkbox" name="jsub_dvd_games" value="yes"></td><td><font color="white" class="font75"> DVD/Games</font></td></tr>
+			    <tr><td><input type="checkbox" name="jsub_small_business" value="yes"></td><td><font color="white" class="font75"> Small Business Connection </font></td></tr>
+			    <tr><td><input type="checkbox" name="jsub_hardware_software" value="yes"></td><td><font color="white" class="font75"> Hardware/Software </font></td></tr>
+			    <tr><td><input type="checkbox" name="jsub_incredible_deals" value="yes"></td><td><font color="white" class="font75"> Incredible Deals  </font></td></tr>
+                 </tbody></table>  
+
+</td>
   
 
 </tr>
@@ -926,21 +956,14 @@ function CJOU(Msg)
 <tr><td>
    <a href="http://www.incredible.co.za/bapc"><font class="bold_blue">&gt; Build a PC</font></a><br>
    <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
-   <a href="http://www.incredible.co.za/ebucks/store"><font class="bold_blue">&gt; eBucks.com</font></a><br>
-   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+   <!--<a href="http://www.incredible.co.za/ebucks/store"><font class="bold_blue">> eBucks.com</font></a><br>
+   <IMG SRC="http://www.incredible.co.za/images/common/pixel_fffffG.gif" WIDTH="138" HEIGHT="9" BORDER="0" ALT=""><br>-->
    <a href="http://www.incredible.co.za/dvd/default.asp"><font class="bold_blue">&gt; Incredible DVD's</font></a><br>
    <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
    <a href="http://www.incredible.co.za/gamezone/default.asp"><font class="bold_blue">&gt; The Gamezone</font></a><br>
    <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
    <a href="http://www.incredible.co.za/world_religions/default.asp"><font class="bold_blue">&gt; World Religions</font></a><br>
    <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
-   <a href="http://www.incredible.co.za/Logitech/default.asp"><font class="bold_blue">&gt; Logitech</font></a><br>
-   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
-   <a href="http://www.incredible.co.za/3dmagic/default.asp"><font class="bold_blue">&gt; 3D Magic</font></a><br>
-   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
-   <a href="http://www.incredible.co.za/christmas/default.asp"><font class="bold_blue">&gt; Christmas</font></a><br>
-   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
-
 
 
  </td></tr>
@@ -952,16 +975,16 @@ function CJOU(Msg)
 	</td>
 </tr>
 <tr><td>
-   <!--<a href="http://www.incredible.co.za/adobe"><font class="bold_blue">> Adobe</font></a><br>
-   <IMG SRC="http://www.incredible.co.za/images/common/pixel_fffffG.gif" WIDTH="138" HEIGHT="9" BORDER="0" ALT=""><br>-->
-   <a href="http://www.incredible.co.za/compaq"><font class="bold_blue">&gt; Compaq</font></a><br>
- 
-   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
-   <a href="http://www.incredible.co.za/samsung"><font class="bold_blue">&gt; Samsung </font></a><br>
-   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+
+
+   <a href="http://www.incredible.co.za/apc"><font class="bold_blue">&gt; APC</font></a><br>
+
+
+
 
 		
  </td></tr>
+
 		</tbody></table>
      </td>
   </tr>
@@ -975,7 +998,7 @@ function CJOU(Msg)
 </td><td bgcolor="#08BD39" align="center">
 
 
-<a href="https://digitalid.verisign.com/as2/2d6b064368cb49185fde277cd4974521" target="new">
+<a href="https://digitalid.verisign.com/as2/5b336f64263fe9af3e2397e9ce163642" target="new">
 <img src="http://www.incredible.co.za/images/common/verisign.gif" border="0">
 </a>
 
@@ -984,8 +1007,6 @@ function CJOU(Msg)
 </tr>
 
 
-<tr><td bgcolor="#08BD39">&nbsp;</td><td align="center">
-<img src="http://www.incredible.co.za/images/branding_elements/hotlinebottom.jpg"></td><td bgcolor="#08BD39">&nbsp;</td></tr>
  
 
 
