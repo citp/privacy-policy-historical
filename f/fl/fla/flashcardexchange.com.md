@@ -1,16 +1,40 @@
-> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008034647id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605135201id_/http%3A//www.flashcardexchange.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy statement discloses the privacy practices for **a bcteach**, including the following sites: www.abcteach.com, members.abcteach.com, and www.flashcardexchange.com. 
+Main Menu: 
+
+[Home](https://web.archive.org/index.php "Home")  
+[Create Account (free)](https://web.archive.org/new_user.php "Create Account \(free\)")  
+[Directory](https://web.archive.org/directory/1090.html "Directory")  
+[Search](https://web.archive.org/search.php "Search")  
+[Features](https://web.archive.org/features.php "Features")  
+[Quick Start](https://web.archive.org/quick_start.php "Quick Start")  
+[Email this page to a friend](https://web.archive.org/email_a_friend.php "Email this page to a friend")  
+[Contact Us](mailto:support@flashcardexchange.com "Contact Us")  
+[Help](https://web.archive.org/help.php "Help")
+
+Members: 
+
+[Log In](https://web.archive.org/login.php "Log In")  
+[Account Info](https://web.archive.org/account_info.php "Account Info")  
+[Create Flashcards](https://web.archive.org/new_card_set.php "Create Flashcards")  
+[My Card Sets](https://web.archive.org/my_card_sets.php "My Card Sets")  
+[My Cardfiles](https://web.archive.org/my_card_files.php "My Cardfiles")  
+[Marked Cards](https://web.archive.org/marked_cards.php "Marked Cards")  
+[Favorite Sets](https://web.archive.org/favorites.php "Favorite Sets")  
+[Hot Sync List](https://web.archive.org/hot_sync.php "Hot Sync List")  
+[Log Out](https://web.archive.org/logout.php "Log Out") | 
+
+This privacy statement discloses the privacy practices for flashcardexchange, including the following sites: www.flashcardexchange.com. 
 
 ## Information Collection and Use
 
-**a bcteach** is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way other than as is disclosed in this statement. **a bcteach** collects information from users at several different points on our web sites. Please note: we do not track any personally identifying information on the children who use our sites, other than the login name for the child that has been provided by the parent or teacher. 
+Flashcardexchange is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way other than as is disclosed in this statement. Flashcardexchange collects information from users at several different points on our web sites. 
 
 ## Registration
 
-In order to utilize some of our web sites, users must first complete a registration form. During registration, the user is required to give certain contact information (such as an e-mail address). Users receive regular newsletters detailing new content, unless a user requests otherwise. 
+In order to utilize some of our web sites, users must first complete a registration form. During registration, the user is required to give certain contact information (such as an e-mail address). Users receive regular newsletters detailing new developments, unless a user requests otherwise. 
 
 ## Cookies
 
@@ -24,7 +48,7 @@ We use IP addresses to analyze trends, administer the site, track user movements
 
 ## Links
 
-This web site contains links to other sites. Please be aware that **a bcteach** is not responsible for the privacy practices of these sites. We encourage our users to read the privacy statements of web site that collects personally identifiable information. This privacy statement applies solely to information collected by **a bcteach**. 
+This web site contains links to other sites. Please be aware that flashcardexchange is not responsible for the privacy practices of these sites. We encourage our users to read the privacy statements of web site that collects personally identifiable information. This privacy statement applies solely to information collected by flashcardexchange. 
 
 Please keep in mind that whenever you voluntarily disclose personal information on line - for example, through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties. 
 
@@ -32,31 +56,4 @@ Ultimately, you are responsible for maintaining the secrecy of your personal inf
 
 ## Your Consent To This Agreement
 
-By using our web sites, you consent to the collection and use of information by **a bcteach** as specified above. If we make any changes to our privacy policy, we will post those changes on this page, so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-| 
-
-Main Menu: 
-
-[Member Log In](http://members.abcteach.com/ "Member Log In")  
-[Directory](http://www.abcteach.com/ "Directory")  
-[What's New?](https://web.archive.org/whats_new.php "What's New?")  
-[E-mail a Friend](https://web.archive.org/email_a_friend.php "E-mail a Friend")  
-[Search](http://www.abcteach.com/search.php "Search")  
-[Membership](http://www.abcteach.com/subscribe.php "Membership")  
-[Member Document List](https://web.archive.org/subscriber_document_list.php "Member Document List")  
-[Gift Certificates](https://web.archive.org/gift.php "Gift Certificates")  
-[Newsletter Archive](https://web.archive.org/newsletter/ "Newsletter Archive")  
-[Member Tools](http://www.abcteach.com/member_tools.php "Member Tools")  
-[Submission Guidelines](http://www.abcteach.com/submission_guidelines.php "Submission Guidelines")  
-[Forums](http://abcteach.com/forums/ "Forums")  
-[Who's Who](http://www.abcteach.com/who_is_who.php "Who's Who")  
-[Contact Us](http://www.abcteach.com/contact_us.php "Contact Us")  
-[Advertise](https://web.archive.org/advertising.php "Advertise")  
-[Help](http://www.abcteach.com/help.php "Help")
-
-Become a Member: 
-
-  
-  
-
+By using our web sites, you consent to the collection and use of information by flashcardexchange as specified above. If we make any changes to our privacy policy, we will post those changes on this page, so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
