@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readytalk.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605194550id_/http%3A//readytalk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readytalk.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062603id_/http%3A//readytalk.com/privacy.php) for the most accurate reproduction.*
 
 # ReadyTalk | Bringing audio conferencing and the web together like no one else
 
