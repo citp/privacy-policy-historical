@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tampaelectric.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603174917id_/http%3A//www.tecoenergy.com/ENPrvcyPlcy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampaelectric.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201165414id_/http%3A//www.tecoenergy.com/ENPrvcyPlcy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -16,4 +16,4 @@ Our postal address is:
 P.O. Box 111  
 Tampa, FL 33601-0111
 
-We can be reached via [e-mail](mailto:malubitz@tecoenergy.com?subject=Privacy%20Policy).
+We can be reached via [e-mail](mailto:tecoenergy@tecoenergy.com?subject=Privacy%20Policy).
