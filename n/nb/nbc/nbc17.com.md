@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc17.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204095113id_/http%3A//www.nbc17.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc17.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230334id_/http%3A//www.nbc17.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # NBC 17 - News - Online Privacy Statement
 
@@ -69,17 +69,3 @@ It is important to note that this site contains links to other sites, and that t
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY. 
 
 We reserve the right to change this policy at any time by posting a revised privacy policy. 
-
-  
-  
-  
-
-
-* * *
-
-**NBC 17 WeatherBug**  
-Real-time weather conditions direct to your computer!  
-  
-[ **Get the Bug Now!**](http://ww3.weatherbug.com/wncn)  
-  
-
