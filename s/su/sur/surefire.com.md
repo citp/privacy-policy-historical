@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surefire.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209022510id_/http%3A//www.surefire.com/maxexp/main/co_disp/displ/pgrfnbr/262/sesent/00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefire.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172130id_/http%3A//www.surefire.com/maxexp/main/co_disp/displ/pgrfnbr/262/sesent/00) for the most accurate reproduction.*
 
 # SureFire
 
@@ -34,7 +34,6 @@
 > 
 > The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of SureFire's coolest features, and we recommend that you leave them turned on. 
 > 
->   
 > SureFire pledges a safe and worry-free shopping experience. We use the industry standard for Internet security, Secure Sockets Layer (SSL 128-bit) encryption to scramble your personal and credit card information as it travels over the Internet during the checkout process. This encryption makes it impossible for anyone to read your information in transit. We protect all of your personal information, including your name, address, password AND credit card information. For an additional layer of security, we encrypt every credit card number we store in our database. 
 > 
 > You will know you're in the "secure" area of our site when you notice that the "http" portion of SureFire's Web site address in your browser changes to "https." The "s" stands for "secure." In addition, both Netscape and Internet Explorer use special symbols to indicate that you're in a Web site's secure area. (Earlier versions of Netscape use a highlighted key. More recent versions of Netscape and all versions of Internet Explorer show a closed, highlighted lock.) Some browsers let you know that you're moving in or out of a secure area by notifying you with a special pop-up window that requires you to accept by clicking "ok" before continuing. 
