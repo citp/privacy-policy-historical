@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411130132id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044043id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.*
 
 # AIP Privacy Policy
 
   
 **AIP Privacy Policy**
 
-> The American Institute of Physics (AIP) is committed to the value of privacy. As you use our web sites, you may be prompted to enter information when you: 
+> The American Institute of Physics (AIP) is committed to the value of privacy. As you use our web sites, you may be prompted to enter information when you:
 > 
 >   * Create a user name and password 
 >   * Use personalization features 
@@ -15,8 +15,10 @@
 >   * Provide feedback 
 > 
 The data collected online from an AIP user is voluntary, although some services are only accessible by registering user details. Information collected may include your name, e-mail address, street address, job title, society membership, or other related demographic information. Except as described in this Privacy Policy, AIP will endeavor to keep your information confidential. We focus on using the information as part of AIP's service to you and its mission to advance and diffuse the knowledge of physics and its application to human welfare. 
+> 
+> **Notice to EU Users:** The server for www.aip.org is located in the United States. By entering information on this site, you are consenting to the transfer of that information to the United States. Your information will be handled in accordance with AIP's Privacy Policy.
 
-**How Collected Information Is Used**
+ **How Collected Information Is Used**
 
 > The primary purpose of gathering information is to allow AIP to link a name and contact information to a user ID or browsing experience. Once you have provided appropriate information, you will be enabled to use a variety of products or personalized services, and to access online help or support. AIP has a policy to use or sell its customer lists only for the delivery of information deemed of potential relevance or interest to members of the physics community. AIP offers an option to remove your information from any list that might be sold or given to another organization. 
 
@@ -26,9 +28,9 @@ The data collected online from an AIP user is voluntary, although some services 
 
 **Opt Out for European Union and Other Users**
 
-> In accordance with EU and other guidelines, you may decline to provide the information requested by AIP. Please be advised, however, that AIP may be unable to provide certain services unless such information is provided for security and identification purposes. 
+> In accordance with EU and other guidelines, you may decline to provide the information requested by AIP. Please be advised, however, that AIP may be unable to provide certain services unless such information is provided for security and identification purposes.
 
-**Cookies**
+ **Cookies**
 
 > A cookie is a piece of data stored on the user's hard drive that sometimes links to personally identifiable information about the user. AIP uses session cookies which are designed not to be permanent or persistent. The session cookie is designed so that, once you close your browser, the cookie will simply terminate. If you configure your browser to reject cookies, you may still use some, but not all, portions of our site. For example, accessing our online journals requires that your browser accept cookies. We recommend closing browsers on publicly available machines (such as those in libraries) after use. 
 
@@ -48,6 +50,6 @@ The data collected online from an AIP user is voluntary, although some services 
 
 > If we make material changes to our privacy policy, these changes will be posted to our privacy policy page. You should review this page regularly for updates. 
 
-If you have any questions or comments regarding the AIP privacy policy, contact us at [privacy@aip.org](mailto:privacy@aip.org). 
+If you have any questions or comments regarding the AIP privacy policy, contact us at [privacy@aip.org](mailto:privacy@aip.org).
 
 * * *
