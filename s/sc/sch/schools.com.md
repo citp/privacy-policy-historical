@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schools.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205105816id_/http%3A//www.schools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404064528id_/http%3A//www.schools.com/privacy.html) for the most accurate reproduction.*
 
 # TABS Privacy Policy
 
@@ -40,7 +40,7 @@ In all case, however, we will share information whenever we think it reasonably 
 **While no website can guarantee security, we have reasonable security measures in place to help prevent the loss, misuse and alteration of the information under our control.   For example, we use standard Verisign encryption to protect credit card numbers where this information is collected. 
 
 **Access  
-**If you are a TABS member, you may access your school’s profile and directory listing at any time and make changes or updates clicking on the “For Schools” heading above and clicking the [School Updater](https://web.archive.org/web/20041205105816id_/http%3A//www.schools.com/membership/login_a.html) found in the Members Only section. We rely on our members to keep their profiles current, so we encourage you to update your listing at least annually. 
+**If you are a TABS member, you may access your school’s profile and directory listing at any time and make changes or updates clicking on the “For Schools” heading above and clicking the [School Updater](https://web.archive.org/web/20050404064528id_/http%3A//www.schools.com/membership/login_a.html) found in the Members Only section. We rely on our members to keep their profiles current, so we encourage you to update your listing at least annually. 
 
 **Choice**  
 We only provide information to website visitors if you request it from us.  If you are a professional educator or member school, you may receive other materials from us.  If you do not wish to receive information, please let us know and we will remove you from our mailing list. 
