@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thescooterstore.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206181621id_/http%3A//www.thescooterstore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescooterstore.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404061754id_/http%3A//www.thescooterstore.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We may provide aggregate Passive Information about site traffic patterns and rel
 
 We may disclose both Active and Passive Information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-**How Can You Choose Not to Receive Information from Us or to Correct Your Information?** You may elect to be removed from our marketing lists by clicking on [Stop Direct Mail, ](https://web.archive.org/web/20041206181621id_/http%3A//www.thescooterstore.com/contact_us/stop_direct_mail.asp?section=contact)filling out the form with accurate information and then submitting the form. If you wish to correct your information, please click on [General Inquiry](https://web.archive.org/web/20041206181621id_/http%3A//www.thescooterstore.com/contact_us/general_inquiry.asp?section=contact) and fill out the form and submit it. Please note that if you choose to delete your information, it may be impossible for us to ensure that your information has been deleted from every file we maintain, i.e., from back-up files no longer used. We will, however, remove your Active Information from all actively used files.
+**How Can You Choose Not to Receive Information from Us or to Correct Your Information?** You may elect to be removed from our marketing lists by clicking on [Stop Direct Mail, ](https://web.archive.org/web/20050404061754id_/http%3A//www.thescooterstore.com/contact_us/stop_direct_mail.asp?section=contact)filling out the form with accurate information and then submitting the form. If you wish to correct your information, please click on [General Inquiry](https://web.archive.org/web/20050404061754id_/http%3A//www.thescooterstore.com/contact_us/general_inquiry.asp?section=contact) and fill out the form and submit it. Please note that if you choose to delete your information, it may be impossible for us to ensure that your information has been deleted from every file we maintain, i.e., from back-up files no longer used. We will, however, remove your Active Information from all actively used files.
 
 **What About Other Web Sites Linked to Our Web Site?** We are not responsible for the practices employed by sites linked to or from our site nor the information or content contained therein. Often links to other sites are provided solely as pointers to information on topics that may be useful to the users of our site. 
 
@@ -48,6 +48,6 @@ By using our site you consent to our collection and use of your information as d
 
 HIPAA - Notice of Privacy Practices
 
-** This notice describes how medical information about you may be used and disclosed and how you can get access to this information. [Click here](https://web.archive.org/web/20041206181621id_/http%3A//www.thescooterstore.com/ppractices.asp) for more information.
+** This notice describes how medical information about you may be used and disclosed and how you can get access to this information. [Click here](https://web.archive.org/web/20050404061754id_/http%3A//www.thescooterstore.com/ppractices.asp) for more information.
 
 _We reserve the right to revise this Privacy Policy at our discretion. Please check back on this site as this Privacy Policy may be revised from time to time without notice to you._
