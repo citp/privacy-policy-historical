@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203012506id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401222357id_/http%3A//www.hammacher.com/order/privacy.asp) for the most accurate reproduction.*
 
 # Hammacher Schlemmer
 
@@ -50,4 +50,4 @@ Hammacher Schlemmer occasionally makes our customer's postal addresses, excludin
 
 
 
-[](https://web.archive.org/web/20021203012506id_/http%3A//www.hammacher.com/order/survey1.asp)
+[](https://web.archive.org/web/20030401222357id_/http%3A//www.hammacher.com/order/survey1.asp)
