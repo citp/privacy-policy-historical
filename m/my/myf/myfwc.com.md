@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfwc.com privacy policy that was archived on 2002-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021221014928id_/http%3A//www.insurancenetcenter.com/GeneralInformation/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfwc.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603163012id_/http%3A//www.insurancenetcenter.com/GeneralInformation/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ COOKIES**
  **  
 COLLECTION OF INFORMATION BY OTHERS**
 
- **Our site may contain links to other websites whose information practices may be different than ours. Users should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.   **
+ **Our site may contain  resources to other websites whose information practices may be different than ours. Users should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.  **
 
 **SECURITY**
 
