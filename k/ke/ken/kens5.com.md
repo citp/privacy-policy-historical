@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kens5.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054914id_/http%3A//www.mysanantonio.com/aboutus/mysa/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kens5.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202022509id_/http%3A//www.mysanantonio.com/aboutus/mysa/privacy.cfm) for the most accurate reproduction.*
 
-# My San Antonio: Privacy Policy
+# MySA.com: Privacy Policy
 
 **Our Privacy Policy**
 
