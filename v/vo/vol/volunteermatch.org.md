@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010163010id_/http%3A//www.volunteermatch.org/about/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622043201id_/http%3A//volunteermatch.org/about/legal/privacy.jsp) for the most accurate reproduction.*
 
 # VolunteerMatch - About - Privacy Policy
 
