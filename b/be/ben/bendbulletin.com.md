@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023411id_/http%3A//bendbulletin.com/news/story.cfm%3Fstory_no%3D2645) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607164743id_/http%3A//www.bendbulletin.com/news/story.cfm%3Fstory_no%3D2645) for the most accurate reproduction.*
 
 # BendBulletin.com
 
