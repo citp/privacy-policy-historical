@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601104158id_/http%3A//www.ticketcity.com/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203022954id_/http%3A//www.ticketcity.com/security.asp) for the most accurate reproduction.*
 
 # TicketCity.com - Sports Tickets
 
