@@ -1,303 +1,575 @@
-<!--The following is the downloaded HTML source of the epilepsy.com privacy policy that was archived on 2002-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215084320id_/http%3A//www.epilepsy.com/epilepsy/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epilepsy.com privacy policy that was archived on 2004-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040618173720id_/http%3A//www.epilepsy.com/epilepsy/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>epilepsy.com: Your source of in-depth information</title>
-<meta name="Description" content="The premiere web site for epilepsy information featuring  news you can use  in a monthly online magazine and drug therapy, surgical therapy, research, resource, teen, parents, and children sections. ">
-<meta name="Keywords" content="epilepsy information epilepsy, seizures, headache,headaches,brain,braintumor,concussion,drowsiness,epileptic,head,tumor,">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en-US"><head>
+<title>Privacy Statement : Epilepsy.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
-<link rel="stylesheet" type="text/css" href="css/pulldown.css">
-<script src="css/pop_up.js"></script>
+<meta name="keywords" content="privacy, personal information">
+<meta name="description" content="In-depth epilepsy and seizure information for
+patients, families, and the professionals who care for them.">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript" src="/wi/zoo_dhtml_api.js"></script>
 <script language="javascript" type="text/javascript">
-<!--
-  function dataValidation() {
-	var str = document.forms[0].queryText1.value
-	var ch=/ /g
-	str = str.replace(ch,"")
-	if(str == "") {
-		alert("Please enter a search string in the site search box.")
-		return false
+
+var audience_x, audience_y;
+var whoshows = '';
+
+//audienceon = new Image();
+//audienceoff = new Image();
+//audienceon.src="/home_img/dd_info_for_you_on.gif";
+//audienceoff.src="/home_img/dd_info_for_you_off.gif";
+arrowon = new Image();
+arrowoff = new Image();
+arrowon.src="/home_img/dd_arrow_on.gif";
+arrowoff.src="/home_img/dd_arrow_off.gif";
+
+kidson = new Image;
+kidsoff = new Image;
+kidson.src="/home_img/nav_kids_on.gif";
+kidsoff.src="/home_img/nav_kids_off.gif";
+teenson = new Image;
+teensoff = new Image;
+teenson.src="/home_img/nav_teens_on.gif";
+teensoff.src="/home_img/nav_teens_off.gif";
+womenon = new Image;
+womenoff = new Image;
+womenon.src="/home_img/nav_women_on.gif";
+womenoff.src="/home_img/nav_women_off.gif";
+familyon = new Image;
+familyoff = new Image;
+familyon.src="/home_img/nav_family_on.gif";
+familyoff.src="/home_img/nav_family_off.gif";
+seniorson = new Image;
+seniorsoff = new Image;
+seniorson.src="/home_img/nav_seniors_on.gif";
+seniorsoff.src="/home_img/nav_seniors_off.gif";
+healthcareon = new Image;
+healthcareoff = new Image;
+healthcareon.src="/home_img/nav_healthcare_on.gif";
+healthcareoff.src="/home_img/nav_healthcare_off.gif";
+var mainepilepsy_x, mainepilepsy_y;
+var diagnosis_x, diagnosis_y;
+var treatment_x, treatment_y;
+var livingepilepsy_x, livingepilepsy_y;
+var newsresearch_x, newsresearch_y;
+mainepilepsyon = new Image;
+mainepilepsyoff = new Image;
+mainepilepsyon.src="/main_img/orange_nav_arrow_roll.gif";
+mainepilepsyoff.src="/main_img/orange_nav_arrow.gif";
+diagnosison = new Image;
+diagnosisoff = new Image;
+diagnosison.src="/main_img/orange_nav_arrow_roll.gif";
+diagnosisoff.src="/main_img/orange_nav_arrow.gif";
+treatmenton = new Image;
+treatmentoff = new Image;
+treatmenton.src="/main_img/orange_nav_arrow_roll.gif";
+treatmentoff.src="/main_img/orange_nav_arrow.gif";
+livingepilepsyon = new Image;
+livingepilepsyoff = new Image;
+livingepilepsyon.src="/main_img/orange_nav_arrow_roll.gif";
+livingepilepsyoff.src="/main_img/orange_nav_arrow.gif";
+newsresearchon = new Image;
+newsresearchoff = new Image;
+newsresearchon.src="/main_img/orange_nav_arrow_roll.gif";
+newsresearchoff.src="/main_img/orange_nav_arrow.gif";
+
+function init() {
+	is = new zoo_browserCheck();
+	zoo_setup();
+
+	if (is.ns) {
+		var origWidth=window.innerWidth;
+	        var origHeight=window.innerHeight;
+		onresize=function(){
+			if (window.innerWidth!=origWidth||window.innerHeight!=origHeight) location.reload()
+		}
 	}
-	document.forms[0].queryText.value = "("+document.forms[0].queryText1.value+")<and>(collection<contains>ep)";
-	return true
+	if (is.ie) {
+		theurl = document.location;
+		onresize=function() {
+			document.location = theurl;
+		}
+	}
+
+	//audience_x = getImgX('audience');
+	//audience_y = getImgY('audience');
+	//zoo_position('menuaudience', audience_x, audience_y+20);
+
+	// position the lnav menus
+	
+	mainepilepsy_x = getImgX('mainepilepsy');
+	mainepilepsy_y = getImgY('mainepilepsy');
+	zoo_position('menumainepilepsy',mainepilepsy_x+200,mainepilepsy_y-5);
+	diagnosis_x = getImgX('diagnosis');
+	diagnosis_y = getImgY('diagnosis');
+	zoo_position('menudiagnosis',diagnosis_x+200,diagnosis_y-5);
+	treatment_x = getImgX('treatment');
+	treatment_y = getImgY('treatment');
+	zoo_position('menutreatment',treatment_x+200,treatment_y-5);
+	livingepilepsy_x = getImgX('livingepilepsy');
+	livingepilepsy_y = getImgY('livingepilepsy');
+	zoo_position('menulivingepilepsy',livingepilepsy_x+200,livingepilepsy_y-5);
+	newsresearch_x = getImgX('newsresearch');
+	newsresearch_y = getImgY('newsresearch');
+	zoo_position('menunewsresearch',newsresearch_x+200,newsresearch_y-5);}
+
+function glosswin(term) { 
+	glossary = window.open('/glossary.php?term='+term, 'glossary','width=300,height=300,resizable=no,scrollbars');
+	glossary.focus();
 }
-//-->
+
 </script>
+
 </head>
 
-<body bgcolor="#FFFFFF" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" topmargin="0" bottommargin="0">
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td valign="top">
-			<table border="0" cellspacing="0" align="left" cellpadding="0">
-				<form method="post" action="//search.msnyuhealth.org/search97cgi/s97_cgi" onsubmit="return dataValidation()" target="_top"></form>
-				<tbody><tr>
-					<td colspan="2" background="images/maintop_line.gif">
-						<img src="images/transparent.gif" width="507" height="5" border="0" alt=""></td>
-				</tr>
-				<tr>
-					<td width="4" bgcolor="#052354">
-						<img src="images/transparent.gif" width="4" height="90" border="0" alt=""></td>
-					<td width="504" height="90" bgcolor="#B3C1DD">
-						<a href="home_page.html" target="_self"><img src="images/logo1.gif" width="245" height="74" hspace="2" border="0" alt=""></a>&nbsp;&nbsp;<font face="Arial, Helvetica, sans-serif" size="3" color="#052354"><b>Search</b></font>&nbsp;<input type="text" name="queryText1" size="16"><input type="hidden" name="queryText">&nbsp;<input type="Submit" name="search" value="Go"><input type="hidden" name="ResultTemplate" value="epilepsy_search.html">&nbsp;<a href="search_tips.html" target="_top">Tips</a></td>
-				</tr>
-				
-				<tr>
-					<td colspan="2">
-						<table border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td width="4" height="815" bgcolor="#052354">
-									<img src="images/transparent.gif" width="4" height="76" border="0" alt=""></td>
-								<td width="92" align="center" valign="top" bgcolor="#B3C1DD">
-									<img src="images/misc_nav3.jpg" width="92" height="169" vspace="15" border="0" alt=""></td>
-								<td width="4" height="815" valign="top" bgcolor="#052354">
-									<img src="images/midleft_line.gif" width="4" height="246" border="0" alt=""></td>
-								<td width="425" valign="top" bgcolor="#ffffff">
-									<table border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td colspan="2" background="images/mainsecond_line.gif">
-												<img src="images/transparent.gif" width="425" height="5" border="0" alt=""></td>
-										</tr>
-									</tbody></table>
-									<table border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td>
-												<img src="images/transparent.gif" width="2" height="17" border="0" alt=""><a href="upclose_page.html" target="_self"><img src="images/upclose_button.gif" width="97" height="17" border="0" hspace="8" vspace="15" alt=""></a><a href="javascript:nursesWindow()"><img src="images/nurses_button.gif" width="97" height="17" border="0" vspace="15" alt=""></a><a href="our_stories.html" target="_self"><img src="images/ourstories_button.gif" width="97" height="17" hspace="8" vspace="15" border="0" alt=""></a><a href="behind_page.html" target="_self"><img src="images/behindscenes_button.gif" width="98" height="17" border="0" vspace="15" alt=""></a></td>
-										</tr>
-									</tbody></table>
-									<table align="right" border="0" cellspacing="0" cellpadding="0">
-										
-										<tbody><tr>
-											<td>
-												<img src="images/top_leftcurve_features.gif" width="12" height="14" border="0" alt=""></td>
-											<td valign="top">
-												<img src="images/behindscenes_topline2.gif" width="391" height="4" border="0" alt=""></td>
-											<td>
-												<img src="images/top_rightcurve_features.gif" width="12" height="14" border="0" alt=""></td>
-										</tr>
-										<tr>
-											<td>
-												<img src="images/leftline_features.gif" width="5" height="3635" border="0" alt=""></td>
-											<td valign="top">
-												<table width="391" border="0" cellspacing="0" cellpadding="0">
-													<tbody><tr>
-														<td>
-															<font face="Arial, Helvetica" size="4" color="#052354"><b>Epilepsy.com Privacy Policy</b></font>
-															<p>
-																<font size="2" color="#000000">
-The Internet contains a wealth of information, unfortunately, it may also contain personal details about you that you don't want everyone to know like your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number, or e-mail address. When you go online, sites you visit may be gathering information about you without your knowledge. At epilepsy.com, we strive to help our users protect their privacy while using our services.
+<body onload="init()">
+<!-- the top bar -->
+<!--htdig_noindex-->
+<div align="center">
+<a name="thetop"><img src="/img/pixie.gif" width="2" height="2" border="0" alt=""></a>
+<table width="90%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td colspan="2"><img src="/img/pixie.gif" width="700" height="20" border="0" alt=""></td>
+</tr>
+<tr>
+<td width="50%"><a href="/"><img src="/home_img/epilepsy_logo.gif" width="193" height="44" border="0" alt="Epilepsy.com"></a></td>
+<td width="50%" align="right">
+<a href="http://www.communityzero.com/epilepsydotcom"><img src="/home_img/community_forum.gif" width="92" height="47" border="0" alt="Community Forum"></a> <img src="/img/pixie.gif" width="5" height="2" alt=""> 
+<a href="/epilepsy/donation.html"><img src="/home_img/make_a_donation.gif" width="92" height="47" border="0" alt="Make a Donation"></a> <img src="/img/pixie.gif" width="5" height="2" alt="">
+<a href="http://www.epilepsyproject.org"><img src="/home_img/epilepsy_cure.gif" width="99" height="47" border="0" alt="Epilepsy Cure Project"></a>
+</td>
+</tr>
+<tr>
+	<td colspan="2"><img src="/img/pixie.gif" width="700" height="5" border="0" alt=""></td>
+</tr>
+<tr>
+<td><img src="/img/pixie.gif" width="5" height="30" alt=""></td>
+<td valign="middle" align="right"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="/epilepsy/audience.html"><img src="/home_img/nav_info_for.gif" border="0" alt="Info For You"></a></td><td><a href="/kids/kids.html" onmouseover="rollover('kids');" onmouseout="rollout('kids');"><img src="/home_img/nav_kids_off.gif" alt="Kids" border="0" name="kids"></a></td><td><a href="/info/teens.html" onmouseover="rollover('teens');" onmouseout="rollout('teens');"><img src="/home_img/nav_teens_off.gif" alt="Teens" border="0" name="teens"></a></td><td><a href="/info/women.html" onmouseover="rollover('women');" onmouseout="rollout('women');"><img src="/home_img/nav_women_off.gif" alt="Women" border="0" name="women"></a></td><td><a href="/info/family.html" onmouseover="rollover('family');" onmouseout="rollout('family');"><img src="/home_img/nav_family_off.gif" alt="Families" border="0" name="family"></a></td><td><a href="/info/seniors.html" onmouseover="rollover('seniors');" onmouseout="rollout('seniors');"><img src="/home_img/nav_seniors_off.gif" alt="Seniors" border="0" name="seniors"></a></td><td><img src="/home_img/nav_end.gif" border="0" alt="Info For You"></td></tr></tbody></table></td>
+</tr>
+<tr>
+	<td colspan="2"><img src="/img/pixie.gif" width="700" height="9" border="0" alt=""></td>
+</tr>
 
-</font></p><p><font size="2" color="#000000">Our policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so.</font></p><font size="2" color="#000000">
 
-<p>The information you provide for your personal epilepsy.com account is shared among the epilepsy.com site management, be assured that epilepsy.com  will not disclose your personal information to third parties without your consent. epilepsy.com may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) epilepsy.com  rights or property, other epilepsy.com users, or anyone else that could be harmed by such activities. Epilepsy.com  may disclose user information
-when we believe in good faith that the law requires it.</p>
-
-<p>Epilepsy.com shares aggregate information about our users with advertisers, business partners, sponsors and other third parties. For example, we will say  epilepsy.com's audience is x percent females and y percent males. This data is used to customize epilepsy.com content and advertising to deliver a better experience for our users.</p>
-
-<p>There are cases where epilepsy.com may ask you for personal information such as your name, email address, and birth date. For example, we request personal information when you register for an epilepsy.com  account, for online shopping or transactions, or for services that require registration or subscription (for example: newsletter). Epilepsy.com needs to collect this information for fulfilling tracking/verifying compliance with Epilepsy.com policies as well as federal, state and local laws and/or for editorial and feedback solicitation purposes.</p>
-
-<p>In case you change your mind or some personal information may change (such as your zip code), we will endeavor to provide a way to correct, update or remove the personal data you give us. You can do this at the member information page or by contacting our Customer Support organization at -------------</p>
-
-<p>OPTING-OUT</p>
-
-<p>Information provided at the time of registration or submission from a guest who is 13 years of age or over may be used for marketing and promotional purposes by epilepsy.com  and our affiliates or companies that have been prescreened by epilepsy.com . To keep you in control of your personal information and the communications directed to you, we allow you to opt-out of the following services: sharing your information in our member directory, receiving communications from epilepsy.com about new features or services, and receiving communications about offers from third-party companies that offer a product or service that we think would be of value to you. If a guest 
-objects to such use for any reason, he/she may stop that use -- either by e-mail request to --------------  or by modifying his/her member information online.</p>
-
-<p>Information provided when purchasing  products from any of our online stores may be used for marketing and promotional purposes and is subject to the opt-out processes described on, or linked to, each order
-form.</p>
-
-<p>POLICIES FOR KIDS (INDIVIDUALS UNDER 13 YEARS OF AGE)</p>
-<p>Epilepsy.com encourages parents and guardians to spend time online with their children and to participate in the activities offered on the site. No information should be submitted to or posted at epilepsy.com by guests under 13 years of age without the consent of their parent or guardian.</p>
-
-<p>Unless otherwise disclosed during collection, epilepsy.com does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever from our guests under 13 years of age. All registrants receive an e-mail confirming their registration. In addition, when a guest under 13 registers, he/she is required to provide the e-mail address of his/her parent or guardian and that parent or guardian receives an e-mail alerting them 
-to that Registration. The parent or guardian must validate the account, as described in the e-mail, in order for the potential member to use most epilepsy.com interactive services. No information collected from guests under 13 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside epilepsy.com except as explicitly stated during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion).</p>
-
-<p>Although users under 13 years of age may be allowed to participate in some contests and promotions, if such a guest wins, notification and prizes are sent to the parents or guardians identified in the initial registration process. Publication of contest winners names, ages, or images for individuals under 13 require parental or guardian consent.</p>
-
-<p>We do not allow users under 13 years of age to be listed in our member directory or to receive direct marketing communications from epilepsy.com or to be sent our third-party offers.</p>
-
-<p>POLICIES FOR TEENS (INDIVIDUALS 13 TO 17 YEARS OF AGE)</p>
-
-<p>Teens are required to provide the e-mail address of a parent or guardian and a notification message is sent to the parent or guardian of all users who are 13 to 17 years of age which identifies the information supplied at registration and allows the parent or guardian to be aware of and participate in the user's online experience.</p>
-
-<p>USE OF IP ADDRESSES</p>
-
-<p>An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address.</p>
-
-<p>Epilepsy.com collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When users request pages from Epilepsy.com sites, our servers log the guests' IP addresses. We do not normally link IP addresses to anything personally  identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, site, customers or others.</p>
-
-<p>Some services within epilepsy.com , such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those that disclose information you are comfortable with sharing.</p>
-
-<p>USE OF COOKIES</p>
-
-<p>What are cookies? Cookies are pieces of  information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you're at our site. We never save passwords or credit card information in cookies. The use of cookies is an industry standard and can be found at most major Web sites.</p>
-
-<p>By showing how and when guests use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users needs.</p>
-
-<p>Epilepsy.com  has two primary uses for its cookies. First, we use them to specify unique preferences. Secondly, we use cookies to track user trends and patterns. This helps us better understand and improve areas of the epilepsy.com   service that our users find valuable. While both of these activities depend on the use of a "cookie," visitors to epilepsy.com always have the option of disabling cookies via their browser preferences.</p>
-
-<p>Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of the epilepsy.com service will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized news preferences or you may have difficulty completing shopping
-transactions, entering contests, or playing games.</p>
-
-<p>You may occasionally get cookies from our advertisers. Epilepsy.com   does not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry.</p>
-
-<p>LINKS TO OTHER SITES</p>
-
-<p>Users should be aware that when you are on epilepsy.com , you could be directed to other sites that are beyond our control. There are links to other sites from epilepsy.com pages that take you outside our service. These other sites may send their own cookies to users, collect data or solicit personal 
-information.</p>
-
-<p>Please keep in mind that whenever you give out personal information online --- for example, via message boards or chat --- that information can be collected and used by people you don't know. While epilepsy.com strives to protect its user's personal  information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.</p>
-
-<p>Epilepsy.com 's policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond epilepsy.com 's control, and is not to be applied in any manner contrary to applicable law or governmental regulation.</p>
-
-<p>SECURITY</p>
-
-<p>The importance of security for all personally identifiable information associated with our guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.</p>
-
-<p>As a result, while we strive to protect your personal information, epilepsy.com can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.</p>
-
-                                
-
-<p>YOUR ACCEPTANCE OF THESE TERMS</p>
-
-<p>By using this site, you signify your assent to the epilepsy.com <a href="privacy_policy.html" target="_self" style="color: Black;">Privacy Policy</a>. If you do not agree to this policy, please do not use our sites. Your continued use of the epilepsy.com sites following the posting of changes to these terms will mean you accept those changes.</p>
-
-<p>SAFETY TIPS</p>
-
-<p>This is a great place for both new and advanced Web users to find information on using the Internet wisely.</p>
-
-<p>INTERNET SAFETY TIPS</p>
-
-<ol type="1">
-	<li>Keep your passwords private, even from your best friend! Your online service
-will never ask for them, so neither should anyone else.</li>
-	<li>Use only your member name and/or e-mail address when chatting or sending
-e-mail. Never give out personal information like your name, address, or phone
-number.</li>
-	<li>Always delete unknown e-mail attachments before opening them. 
-They can contain destructive viruses.</li>
-	<li>Remember that nothing you write on the Web is completely private - including
-e-mail. So be careful and think about what you type and who you tell.</li>
-	<li>Not everyone is as nice, cute and funny as they may sound online. Never make
- plans to meet an online "friend" in person.</li>
-</ol></font></td>
-													</tr>
-													<tr>
-														<td>
-														</td>
-													</tr>
-											</tbody></table></td>
-									<td align="right">
-										<img src="images/rightline_features.gif" width="5" height="3635" border="0" alt=""></td>
-								</tr>
-								<tr>
-									<td>
-										<img src="images/bottom_leftcurve_features.gif" width="12" height="14" border="0" alt=""></td>
-		<td valign="bottom">
-			<img src="images/bottom_line_features.gif" width="391" height="5" border="0" alt=""></td>
-		<td>
-			<img src="images/bottom_rightcurve_features.gif" width="12" height="14" border="0" alt=""></td>
-	</tr>
-</tbody></table></td>
-				</tr>
-		</tbody></table></td>
-	</tr>
-</tbody></table></td>
-		<td valign="top">
-			<table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td valign="top">
-						<img src="images/nav3.gif" width="266" height="337" border="0" usemap="#right_nav" alt=""></td>
-				</tr>
-				<tr><td><table align="right" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td colspan="3">
-											<img src="images/transparent.gif" width="4" height="20" border="0" alt=""></td>
-									</tr>
-									<tr>
-				<td>
-					<img src="images/transparent.gif" width="12" height="14" border="0" alt=""></td>
-				<td valign="top">
-					<img src="images/transparent.gif" width="195" height="5" border="0" alt=""></td>
-				<td>
-					<img src="images/transparent.gif" width="12" height="14" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td>
-					<img src="images/transparent.gif" width="5" height="56" border="0" alt=""></td>
-				<td valign="top">
-					<table border="0" cellspacing="0" cellpadding="0">
-						<tbody><tr>
-							<td>
-								<img src="images/transparent.gif" width="113" height="15" border="0" alt=""></td>
-						</tr>
-						<tr>
-							<td align="center" valign="middle">
-								</td>
-						</tr>
-					</tbody></table></td>
-				<td align="right">
-					<img src="images/transparent.gif" width="5" height="56" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td>
-					<img src="images/transparent.gif" width="12" height="14" border="0" alt=""></td>
-				<td valign="bottom">
-					<img src="images/transparent.gif" width="195" height="5" border="0" alt=""></td>
-				<td>
-					<img src="images/transparent.gif" width="12" height="14" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td colspan="3">
-					<img src="images/transparent.gif" width="15" height="15" border="0" alt=""></td>
-			</tr>
-							</tbody></table></td></tr>
-							<tr><td align="right"><img src="images/transparent.gif" width="10" height="20" border="0" alt=""><br><table bgcolor="#B3C1DD" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		</tr>
-	<tr>
-		</tr>
-	<tr>
-		</tr>
-</tbody></table></td></tr>
-			</tbody></table></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-				<table border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td width="4" bgcolor="#052354">
-							<img src="images/transparent.gif" width="4" height="76" border="0" alt=""></td>
-						<td width="92" bgcolor="#B3C1DD" valign="bottom">
-							<img src="images/bottom_line_left.gif" width="92" height="4" border="0" alt=""></td>
-						<td width="4" bgcolor="#052354">
-							<img src="images/transparent.gif" width="4" height="76" border="0" alt=""></td>
-						<td valign="bottom">
-							<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td>
-			<img src="images/transparent.gif" width="10" height="10" border="0" alt=""></td>
-		<td>
-				<table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>
-						<a href="javascript:checkitoutWindow()"><img src="images/check_it_out.png" border="0"></a>
-					</td>
-				</tr>
-</tbody></table></td>
-	</tr>
 </tbody></table>
-											</td>
-					</tr>
-				</tbody></table></td>
-		</tr>
-		<tr>
-			<td><font face="Arial,Arial,Helvetica,sans-serif" size="1" color="#000000">Copyright © epilepsy.com. All rights reserved. <a href="terms_of_use.html" target="_self" style="color: Black;">Terms under which this service is provided to you.</a><br>
-</font></td>
-		</tr>
-</tbody></table>
+</div>
+<!--/htdig_noindex-->
+<!-- the nav and content table -->
+<div align="center">
+<table width="95%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="26%"><img src="/img/pixie.gif" width="205" height="1" alt=""></td>
+<td width="1%"><img src="/img/pixie.gif" width="10" height="1" alt=""></td>
+<td width="73%"><img src="/img/pixie.gif" width="570" height="1" alt=""></td>
+</tr>
+<tr>
+<!-- NAV -->
+<td width="26%" valign="top"><!--htdig_noindex-->
 
-<map name="right_nav"><area shape="poly" coords="261,2,131,2,88,38,261,38" href="gen_info.html" target="_self" alt="General Information" title="General Information"><area shape="poly" coords="261,47,84,47,65,79,261,78" href="children.html" target="_self" alt="Childrens Information" title="Childrens Information"><area shape="poly" coords="260,89,61,89,50,121,260,121" href="teen.html" target="_self" alt="Teen Information" title="Teen Information"><area shape="poly" coords="260,131,48,130,46,162,260,161" href="parents.html" target="_self" alt="Parents Information" title="Parents Information"><area shape="poly" coords="260,174,45,174,49,205,260,204" href="adults.html" target="_self" alt="Adults Information" title="Adults Information"><area shape="poly" coords="260,215,52,214,62,247,260,246" href="therapies.html" target="_self" alt="Therapy Information" title="Therapy Information"><area shape="poly" coords="259,258,67,258,85,288,259,288" href="research.html" target="_self" alt="Research Information" title="Research Information"><area shape="poly" coords="259,298,92,297,135,331,259,332" href="resources.html" alt="Resource Information" title="Resource Information" target="_self"></map> 
+	<table cellspacing="0" cellpadding="0" border="0" class="tableorange" width="100%">
+	<tbody><tr>
+	<td style="background-image: url('/main_img/orange_nav_top.gif')"><img src="/main_img/orange_nav_corner_tl.gif" alt="" width="9" height="9"></td>
+	<td style="background-image: url('/main_img/orange_nav_top.gif')"><img src="/img/pixie.gif" alt=""></td>
+	<td style="background-image: url('/main_img/orange_nav_top.gif')" align="right"><img src="/main_img/orange_nav_corner_tr.gif" alt="" width="9" height="9"></td>
+	</tr>
+	
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td valign="middle"><img src="/main_img/orange_nav_arrow.gif" alt="" hspace="3" name="mainepilepsy"></td>
+	<td colspan="2" valign="middle"> <a href="/epilepsy/main_epilepsy.html" onmouseover="rollover('mainepilepsy');show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><img src="/main_img/nav_main_epilepsy.gif" alt="All About Epilepsy &amp; Seizures" border="0"></a></td></tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td valign="middle"><img src="/main_img/orange_nav_arrow.gif" alt="" hspace="3" name="diagnosis"></td>
+	<td colspan="2" valign="middle"> <a href="/epilepsy/diagnosis.html" onmouseover="rollover('diagnosis');show_menu('diagnosis')" onmouseout="timeoutID=setTimeout('hide_menu(\'diagnosis\')',4000)"><img src="/main_img/nav_diagnosis.gif" alt="Diagnosis" border="0"></a></td></tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td valign="middle"><img src="/main_img/orange_nav_arrow.gif" alt="" hspace="3" name="treatment"></td>
+	<td colspan="2" valign="middle"> <a href="/epilepsy/treatment.html" onmouseover="rollover('treatment');show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><img src="/main_img/nav_treatment.gif" alt="Treatment" border="0"></a></td></tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td valign="middle"><img src="/main_img/orange_nav_arrow.gif" alt="" hspace="3" name="livingepilepsy"></td>
+	<td colspan="2" valign="middle"> <a href="/epilepsy/living_epilepsy.html" onmouseover="rollover('livingepilepsy');show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><img src="/main_img/nav_living_epilepsy.gif" alt="Living with Epilepsy" border="0"></a></td></tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td valign="middle"><img src="/main_img/orange_nav_arrow.gif" alt="" hspace="3" name="newsresearch"></td>
+	<td colspan="2" valign="middle"> <a href="/epilepsy/news_research.html" onmouseover="rollover('newsresearch');show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><img src="/main_img/nav_news_research.gif" alt="News &amp; Resources" border="0"></a></td></tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" alt="" width="2" height="4"></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3"><form name="navsearchform" method="post" action="/cgi-bin/htsearch"><input type="hidden" name="exclude" value="site_map.html"><div style="margin-left:15px"><img src="/img/pixie.gif" alt="" width="2" height="20"><br><img src="/main_img/orange_search.gif" width="166" height="25" border="0" alt="Search Epilepsy.com"><br><input type="text" name="words" size="12" class="input135">&nbsp;<a href="" onclick="navsearchform.submit();return false"><img src="/main_img/o_go_button.gif" alt="GO" border="0"></a><br><span class="smwhite">Enter keywords to search.</span></div></form><br><img src="/img/pixie.gif" width="2" height="6" alt=""></td>
+	</tr>
+
+	<!-- double line -->
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" width="2" height="3" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" width="2" height="10" alt=""></td>
+	</tr>
+
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" width="12" height="1" alt=""><a href="/who/whois.html"><img src="/main_img/o_icon_who_is.gif" align="middle" alt="" border="0"><img src="/main_img/nav_x.gif" alt="WHO IS EPILEPSY.COM?" hspace="12" border="0"></a></td>
+	</tr><tr>
+	<td colspan="3"><div style="margin-left:52px; margin-top: 5px; margin-bottom:3px"><img src="/main_img/white_dots.gif" alt=""></div></td>
+	</tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" width="12" height="1" alt=""><a href="/epilepsy/use_site.html"><img src="/main_img/o_icon_how.gif" align="middle" alt="" border="0"><img src="/main_img/nav_how_use.gif" alt="HOW TO USE THIS SITE" hspace="12" border="0"></a></td>
+	</tr>
+	<tr>
+	<td colspan="3"><div style="margin-left:52px; margin-top: 5px; margin-bottom:3px"><img src="/main_img/white_dots.gif" alt=""></div></td>
+	</tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" width="12" height="1" alt=""><a href="/sitemap/sitemap.html"><img src="/main_img/o_icon_site_map.gif" align="middle" alt="" border="0"><img src="/main_img/nav_sitemap.gif" alt="EPILEPSY.COM SITE MAP" hspace="12" border="0"></a></td>
+	</tr>
+
+	<!-- double line -->
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" width="2" height="10" alt=""></td>
+	</tr>
+	
+	<tr>
+	<td style="background-image: url('/main_img/orange_nav_bottom.gif')"><img src="/main_img/orange_nav_corner_bl.gif" alt="" width="9" height="9"></td>
+	<td style="background-image: url('/main_img/orange_nav_bottom.gif')"><img src="/img/pixie.gif" alt=""></td>
+	<td style="background-image: url('/main_img/orange_nav_bottom.gif')" align="right"><img src="/main_img/orange_nav_corner_br.gif" alt="" width="9" height="9"></td>
+	</tr>
+	</tbody></table>
+<!--/htdig_noindex-->
+</td>
+<!-- MARGIN -->
+<td width="1%"><img src="/img/pixie.gif" width="2" height="2" border="0" alt=""></td>
+<!-- TITLE AND CONTENT -->
+<td width="73%" valign="top" class="tdwhite">
+	<table cellspacing="0" cellpadding="0" border="0" width="100%">
+	<tbody><tr>
+	<td background="/main_img/top_bkgd.gif"><img src="/main_img/corner_tl.gif" alt="" width="9" height="9"></td>
+	<td background="/main_img/top_bkgd.gif" width="100%"><img src="/img/pixie.gif" width="3" height="3" alt=""></td>
+	<td background="/main_img/top_bkgd.gif" align="right"><img src="/main_img/corner_tr.gif" alt="" width="9" height="9"></td>
+	</tr>
+	</tbody></table>
+	<div style="margin-left:20px; margin-right: 20px; margin-top:20px; margin-bottom: 20px"><img src="/title_img/title_privacy.gif" width="268" height="30" alt="Privacy Statement">
+	<br><br><p><b class="main">INTRODUCTION</b><br>
+
+The Epilepsy.com website located at www.epilepsy.com (the "Site") is owned by The Epilepsy Project.  Epilepsy.com  ("we," "us," or "our") is strongly committed to respecting and protecting your privacy.  Please carefully read the following Privacy Policy.</p>
+ 
+<p>	Any person accessing, browsing or otherwise using this Site, either manually or via an automated device or program, shall be considered a "User."  The purpose of this Privacy Policy ("Policy") is to explain the type of information that we collect from our Users, what we do with that information, and with whom we share this information. </p>
+ 
+<p><b class="main">USER CONSENT TO PRIVACY POLICY</b><br>
+
+	By accessing, browsing or using the Site, Users acknowledge that they have read, understand, agree and consent to the terms and conditions of the Policy.  Users consent to the collection, use, and disclosure of User information including personal information and anonymous browsing information (together "Information") by Epilepsy.com and the Epilepsy Project pursuant to the terms of this Policy.  If you do not consent to these terms and conditions, please do not access, browse, or use this Site or provide Information to Epilepsy.com. </p>
+ 
+<p><b class="main">THE INFORMATION WE COLLECT</b><br></p>
+ 
+<p><b class="main">Anonymous Browsing Information </b><br>
+
+Users can browse the Site without revealing personal information.  Through the use of cookies (see below) and other techniques, our servers may collect your Internet Protocol address, your computer's operating system, the name of the domain you used to access the Internet, the website you came from and the website you visit next. </p>
+ 
+<p>	<b class="main">Personal Information </b><br>
+
+Epilepsy.com only collects personal information from Users who voluntarily provide such information to us through the Site. This may include a User's name, address, phone number, credit card number, e-mail address and any other  personal information provided by you through the Site to us, our employees or agents, via e-mail or otherwise.  This also includes personal information that you provide to us by mail, such as a donation.</p>
+
+
+
+<p><b class="main">COOKIES</b><br>
+Like many other web sites, this Site may use cookies. A cookie is a piece of information that is sent from an Epilepsy.com web server to a User's web browser and stored on the User's hard drive. This is typically done to recognize you and help us to understand the way our Site is being used. These cookies are stored on your computer but they never contain personal data and cannot be accessed remotely by anyone other than Epilepsy.com and its hosting company.</p>
+
+<p><b class="main">HOW EPILEPSY.COM USES THE INFORMATION  </b><br>
+
+	Epilepsy.com uses the Information collected from its Users to respond to Users' questions and/or comments, process a donation, fulfill a User's purchase request and notify Users of their order status, provide any services or information that you request through the website, provide Users with information about epilepsy that we believe would interest them, such as information from the Epilepsy Project, or provide Users with information about important functionality changes to the Site. </p>
+
+<p>	Anonymous browsing information may be used to gather broad demographic information used in marketing, promotion or similar activities.  This information may be aggregated to measure the number of visits, average time spent, page views and other statistics about Users of the Site.   Epilepsy.com also may use this data to monitor Site performance and to make the Site easier and more convenient to use.</p>
+ 
+<p><b class="main">WHO EPILEPSY.COM SHARES YOUR INFORMATION WITH</b><br>  
+
+	Epilepsy.com will not sell, share, trade or give away any Information to third parties that it collects or receives regarding its Users subject to the following exceptions:</p>
+
+<ul>
+<li> If Epilepsy.com has a User's consent to share personal information, it may do so.</li>
+<li> Epilepsy.com may provide to others the aggregate statistics about our Users' site activity for purposes of marketing, promotion or similar activities. None of these statistics will identify Users personally.</li>
+<li> Epilepsy.com will share Information with The Epilepsy Project, the owner of the Site.  The Epilepsy Project will abide by this Policy in handling Information.</li>
+<li> Epilepsy.com may disclose Information about our Users to others if we have a good faith belief that we are required or permitted to do so by law or legal process, to respond to claims, or to protect the rights, property or safety of Epilepsy.com, The Epilepsy Project or others.</li>
+<li> In the event that Epilepsy.com or The Epilepsy Project decides to sell all or part or its assets, we reserve the right to include Information among the assets transferred to the acquiring company.</li> </ul>
+ 
+<p><b class="main">APPLICABLE LAW/INTERNATIONAL ISSUES</b><br>
+
+	Information that is submitted to this Site will be collected, processed, stored, disclosed and disposed of in accordance with applicable U.S. law.  If you are a non-U.S. User, you acknowledge and agree that we may collect and use your Information and disclose it to other entities outside your resident jurisdiction, as discussed in "Who Epilepsy.com Shares Your Information With" above.  In addition, such Information may be stored on servers located outside your resident jurisdiction.  U.S. law may not provide the degree of protection for personal information that is available in other countries.  By providing us with your Information, you acknowledge that your have read this Policy, understand it, agree to its terms and consent to the transfer of such information outside your resident jurisdiction.  If you do not consent to the terms of this Policy and have already provided us with Information, please contact us at EpilepsyCure@aol.com and let us know how you would like us to handle such Information.</p>
+ 
+<p><b class="main">LINKED INTERNET WEBSITES</b><br>
+The Site provides hyperlinks, which are highlighted words or pictures within a hypertext document that, when clicked, take you to another place within the document, to another document altogether, or to other websites not controlled by Epilepsy.com.  These hyperlinked websites, including without limitation, the Epilepsy.com message boards provided by Community Zero at www.communityzero.com/epilepsydotcom, may contain privacy provisions that are different from those provided herein.  Epilepsy.com is not responsible for the collection, use, or disclosure of information collected through these websites, and Epilepsy.com expressly disclaims any and all liabilities related to such collection, use, or disclosure.</p>
+ 
+<p><b class="main">CHILDREN'S PRIVACY PROTECTION</b><br>
+	This Site does not knowingly collect any personal information from children under the age of 13.  If you are under 13, you agree that you will not provide personal information about yourself to Epilepsy.com through the Site.</p>
+
+<p><b class="main">SECURITY</b><br>
+
+	All web servers used by the Site have appropriate physical, electronic, and managerial procedures in place to safeguard and secure all information we collect online.  Epilepsy.com makes no representations or warranties with regard to the sufficiency of these security measures.  Epilepsy.com shall not be responsible for any actual or consequential damages that result from a lapse in compliance with this Policy as a result of a security breach or technical malfunction.  Certain information may be transmitted to you by email.   Although it is illegal to intercept or disclose these messages under U.S. federal law, these transmissions are not secure.  In addition, Users' communications through the Site are, in most cases, viewed only by you and anyone to whom you address your message. As the operator of the Site, Epilepsy.com may need to review or monitor your electronic mail and other communications from time to time as may be required by law.  Therefore, you should not expect to have a right to privacy in any of your communications.</p>
+ 
+<p> <b class="main">AMENDMENTS TO PRIVACY POLICY</b><br>
+
+Epilepsy.com reserves the right to amend this Policy periodically.  Any amendments made to this Policy will be considered effective immediately after the amendments are posted on the Site. </p>
+ 
+<p><b class="main">HOW TO CONTACT EPILEPSY.COM</b><br>
+If you have any questions about this Policy, please contact us at <a href="mailto:EpilepsyCure@aol.com">EpilepsyCure@aol.com</a>.</p>
+
+<p>© 1998 - 2003 The Epilepsy Project and Epilepsy.com. All rights reserved.</p>
+
+
+<!--htdig_noindex-->
+<br><br><a href="#thetop"><img src="/img/arrow_top.gif" width="12" height="12" alt="" border="0"> Back to top</a><br>
+<br clear="all">
+<hr>
+<div align="center">
+<table cellspacing="0" cellpadding="5" border="0" width="90%">
+<tbody><tr>
+<td width="10%" align="right" valign="middle"><img src="/img/tool_home.gif" width="19" height="21" alt="Home" border="0"></td>
+<td width="23%" valign="middle"><a href="/">Return Home</a></td>
+<td width="10%" align="right" valign="middle"><img src="/img/tool_email.gif" width="25" height="21" alt="Email" border="0"></td>
+<td width="24%" valign="middle"><a href="/web/email.php?pagetoemail=privacy">Email this Page</a></td>
+<td width="10%" align="right" valign="middle"><img src="/img/tool_print.gif" width="24" height="21" alt="Print" border="0"></td>
+<td width="23%" valign="middle"><a href="/web/print.php?page_name=privacy">Printable Page</a></td></tr>
+</tbody></table>
+</div>
+<!--/htdig_noindex-->
+
+	</div>
+	<table cellspacing="0" cellpadding="0" border="0" width="100%">
+	<tbody><tr>
+	<td background="/main_img/bottom_bkgd.gif"><img src="/main_img/corner_bl.gif" alt="" width="9" height="9"></td>
+	<td background="/main_img/bottom_bkgd.gif" width="100%"><img src="/img/pixie.gif" width="3" height="3" alt=""></td>
+	<td background="/main_img/bottom_bkgd.gif" align="right"><img src="/main_img/corner_br.gif" alt="" width="9" height="9"></td>
+	</tr>
+	</tbody></table></td></tr>
+</tbody></table>
+</div>
+
+<!-- the bottom bar -->
+<!--htdig_noindex-->
+<div align="center">
+<table width="95%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><img src="/img/pixie.gif" width="2" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+<td align="center"><span class="smalldkgray">© 2004 Epilepsy.com.  All rights reserved.</span> &nbsp;  &nbsp; <a href="/epilepsy/privacy.html"><span class="small">Privacy Statement</span></a> | <a href="/epilepsy/terms.html"><span class="smallorange">Terms of Use</span></a> | <span class="smalldkgray">Problems? Email</span> <a href="mailto:webmaster@zoomedia.com?subject=Epilepsy"><span class="smallorange">webmaster@zoomedia.com</span></a></td>
+</tr>
+</tbody></table>
+</div>
+<!--/htdig_noindex-->
+
+<br>
+
+<!-- misc layers -->
+<!-- the LNAV menus -->
+<!--htdig_noindex-->
+<div id="menumainepilepsy" style="position: absolute; visibility: hidden; left: 235px; top: 134px;">
+<table cellspacing="0" cellpadding="1" border="0" class="tablegray">
+<tbody><tr>
+<td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
+<tbody><tr>
+<td><a href="/101/101_epilepsy.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Epilepsy 101:  The Basics</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/epilepsy_brain.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Epilepsy and the Brain</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/types_seizures.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Types of Seizures</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/social_thinking.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Thinking and Behavior</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/types_epilepsy.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Types of Epilepsy</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/provoke_seizure.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">What Provokes a Seizure?</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/history.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">History of Epilepsy</span></a></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="menudiagnosis" style="position: absolute; visibility: hidden; left: 235px; top: 161px;">
+<table cellspacing="0" cellpadding="1" border="0" class="tablegray">
+<tbody><tr>
+<td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
+<tbody><tr>
+<td><a href="/101/101_diagnosis.html" onmouseover="show_menu('diagnosis')" onmouseout="timeoutID=setTimeout('hide_menu(\'diagnosis\')',4000)"><span class="lnav">Diagnosis 101: The Basics</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/testing_medhistory.html" onmouseover="show_menu('diagnosis')" onmouseout="timeoutID=setTimeout('hide_menu(\'diagnosis\')',4000)"><span class="lnav">Medical History</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/testing_exam.html" onmouseover="show_menu('diagnosis')" onmouseout="timeoutID=setTimeout('hide_menu(\'diagnosis\')',4000)"><span class="lnav">Physical Exam</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/testing_neuroexam.html" onmouseover="show_menu('diagnosis')" onmouseout="timeoutID=setTimeout('hide_menu(\'diagnosis\')',4000)"><span class="lnav">Neurological Exam</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/testing_eeg.html" onmouseover="show_menu('diagnosis')" onmouseout="timeoutID=setTimeout('hide_menu(\'diagnosis\')',4000)"><span class="lnav">EEG</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/looking_brain.html" onmouseover="show_menu('diagnosis')" onmouseout="timeoutID=setTimeout('hide_menu(\'diagnosis\')',4000)"><span class="lnav">Looking at the Brain</span></a></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="menutreatment" style="position: absolute; visibility: hidden; left: 235px; top: 188px;">
+<table cellspacing="0" cellpadding="1" border="0" class="tablegray">
+<tbody><tr>
+<td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
+<tbody><tr>
+<td><a href="/101/101_treatment.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Treatment 101:  The Basics</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/firstaid.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Seizure First Aid</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/seizure_medicines.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Seizure Medicines</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/surgery.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Surgery</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/vns.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Vagus Nerve Stimulation</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/ketogenic_diet.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">The Ketogenic Diet</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/alternative_therapies.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Alternative Therapies</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/healthcare_team.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">My Health Care Team</span></a></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="menulivingepilepsy" style="position: absolute; visibility: hidden; left: 235px; top: 215px;">
+<table cellspacing="0" cellpadding="1" border="0" class="tablegray">
+<tbody><tr>
+<td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
+<tbody><tr>
+<td><a href="/101/101_living.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Living with Epilepsy 101:  The Basics</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/social_effects.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Social Effects of Epilepsy</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/firstaid_seizures.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">First Aid for Seizures</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/safety.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Safety</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/support.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Support</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/people.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">People Stories</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/art.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Artistic Expression</span></a></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="menunewsresearch" style="position: absolute; visibility: hidden; left: 235px; top: 242px;">
+<table cellspacing="0" cellpadding="1" border="0" class="tablegray">
+<tbody><tr>
+<td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
+<tbody><tr>
+<td><a href="/epilepsy/news_feed.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Epilepsy News</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/research_articles.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Research Articles</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/research_news.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Research News &amp; Notes</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/clinical_trials.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Clinical Trials</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/link_resources.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Links</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/glossary.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Glossary</span></a></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+</div>
+
+
+<!--/htdig_noindex-->
+
+
+
 
 
 </body></html>
