@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2000-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001121093500id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405005638id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
 
 # Census Policy Statements
 
@@ -103,6 +103,6 @@ Whoever, being or having been an employee or staff member referred to in subchap
 2\. The Census Address List Improvement Act of 1994 (P.L. 103-430) amends section 214 making references to section 16 and "census liaisons." 
 
   
-[](http://brillig.ssd.census.gov/surveys/users.html) [Census 2000](https://web.archive.org/dmd/www/2khome.htm)  |  [Subjects A to Z](https://web.archive.org/main/www/subjects.html)  |  [Search](https://web.archive.org/main/www/srchtool.html)  |  [Product Catalog](https://web.archive.org/mp/www/censtore.html)  |  [Data Access Tools](https://web.archive.org/main/www/access.html)  |  [FOIA](https://web.archive.org/po/www/foia/foiaweb.htm)  |  [Privacy · Policies](https://web.archive.org/main/www/policies.html)  |  [Contact Us](https://web.archive.org/main/www/contacts.html)  |  [Home](https://web.archive.org/index.html)   
+[Census 2000](https://web.archive.org/dmd/www/2khome.htm)  |  [Subjects A to Z](https://web.archive.org/main/www/subjects.html)  |  [Search](https://web.archive.org/main/www/srchtool.html)  |  [Product Catalog](https://web.archive.org/mp/www/censtore.html)  |  [Data Access Tools](https://web.archive.org/main/www/access.html)  |  [FOIA](https://web.archive.org/po/www/foia/foiaweb.htm)  |  [Privacy · Policies](https://web.archive.org/main/www/policies.html)  |  [Contact Us](https://web.archive.org/main/www/contacts.html)  |  [Home](https://web.archive.org/index.html)   
   
 
