@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603131536id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218003906id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
 
 # SAS Institute Privacy Statement
 
@@ -8,7 +8,7 @@
 
 ## Our Commitment to Privacy
 
-Your privacy is important to us. To better protect that privacy, SAS is providing this notice to explain our online information practices and the choices you can make about the way your information is collected and used. 
+Our business customers' privacy is important to us. To better protect that privacy, SAS is providing this notice to explain our online information practices and the choices you can make about the way your information is collected and used. 
 
 ### The Information We Collect
 
@@ -26,11 +26,11 @@ SAS will use your personal information to fulfill subscription requests and orde
   * Help us customize content most relevant to you. 
   * Notify you about important news concerning SAS, including new products and services, product updates and technical support issues, and special offers we think you may be interested in. 
 
-In the process of administering our site, we maintain and track usage through Web server logs. Web server logs provide such information as what types of browsers are accessing our site, what pages receive high traffic, and the times of day our servers experience significant load. We use this information to improve the content and navigation features of our site. It is not used to personally identify you. 
+In the process of administering our site, we maintain and track usage through Web server logs. Web server logs provide such information as what types of browsers are accessing our site, what pages receive high traffic, and the times of day our servers experience significant load. We use this information to improve the content and navigation features of our site. Anonymized or aggregated forms of this data may be used to identify future features and functions to develop for the site and provide better customer service. We do analyze some of our web services, such as Demos and Downloads, at the individual level in order to improve the quality of those offerings and to better tailor our marketing to our customer needs. In general, web analysis data is not used to identify you personally. 
 
 #### How We Share It 
 
-We will not sell, rent or lease to others your personally identifiable information. We will share the personal data you provide only with other SAS entities and/or business partners who are acting on our behalf for the uses described above, except as provided below (see Consent). 
+We will not sell, rent or lease to others your personally identifiable information. We will share the personal data you provide only with other SAS entities and/or business partners except as provided below (see Consent). 
 
 ### Consent
 
@@ -47,6 +47,14 @@ Links to third-party Web sites from the SAS Web site are provided solely as a co
 ### Cookies
 
 There are various technologies, including one called "cookies," which can be used to provide tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. Some SAS pages use cookies or other technologies so that we can better serve you when you return to our site. We do not use cookies or similar technology to cross-relate personal information about our visitors. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. For more information, please refer to user information provided with your Web browser. 
+
+### Newsletters, Alerts and Invitations
+
+If you register to receive newsletters, alerts or invitations, you will be asked to provide your e-mail address, the topics in which you are interested, and other demographic information. Other information may also be necessary depending on the type of newsletter or alert requested. This information is used solely to enable us to provide the requested newsletters and alerts to you. Some electronic communications may record anonymous data related to the response. Analysis of this data is solely for the purpose of improving our content and customer service. 
+
+### Choice/Opt-out
+
+You are given the opportunity to 'opt-out' of having your information used for purposes not directly related to our site at the point where we ask for the information. For example, we provide an [' _opt-out_ '](http://www.sas.com/apps/optout.jsp) mechanism if you do not wish to receive unsolicited email marketing materials from us and we will take reasonable steps to honor such email opt-out requests. 
 
 ### Your Acceptance of These Terms
 
