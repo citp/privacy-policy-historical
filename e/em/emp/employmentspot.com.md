@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the employmentspot.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205091036id_/http%3A//employmentspot.com/common/site/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentspot.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617100518id_/http%3A//employmentspot.com/site/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-EmploymentSpot Privacy Policy
+**Privacy Policy**
 
 StartSpot Mediaworks values the trust its visitors place in the company and strives to adhere to the highest ethical standards in safeguarding customer information. In short, we respect your privacy.
 
@@ -10,9 +10,9 @@ StartSpot Mediaworks does not rent, sell or exchange information about its visit
 
 If, at any time, visitors wish to be removed from any list, including monthly site newsletter lists, StartSpot Mediaworks will be glad to delete their e-mail addresses from existing files.
 
-Children
+ **Children**
 
-StartSpot Mediaworks does not intend to accept or collect personally-identifiable information (name, address, telephone number, or e-mail address) from children (individuals under the age of 13) or use that information for marketing purposes.
+StartSpot Mediaworks does not intend to accept or collect personally-identifiable information (name, address, telephone number, or e-mail address) from children (individuals under the age of 13) or use that information for marketing purposes. 
 
 If a child has provided StartSpot Mediaworks with an e-mail address, we ask that a parent or guardian of the child contact [webmaster@startspot.com](mailto:webmaster@startspot.com) if they would like the e-mail address deleted from StartSpot lists. StartSpot Mediaworks will use reasonable efforts to delete their e-mail addresses from existing files.
 
