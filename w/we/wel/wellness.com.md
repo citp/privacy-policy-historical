@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603022246id_/http%3A//wellness.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2004-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041018161409id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Wellness.com for premium wellness related resources FAST!
 
-**Wellness.com Privacy Policy**
+Wellness.com Privacy Policy
 
-  
 Your privacy is important to Wellness.com. We want you to feel as comfortable as possible visiting our web site and using its services. This Privacy Policy and Agreement ("Privacy Policy") tells you what information we collect about you and your use of our professional web site. This policy also explains how we protect that information and what choices you have about how it is used. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. By using the Wellness.com site, you agree to the terms of this Privacy Policy. 
 
 In this privacy policy, we will inform you of the following: 
@@ -21,7 +20,6 @@ In this privacy policy, we will inform you of the following:
 
 * * *
 
-  
 **ARTICLE 1**
 
 **What This Privacy Policy Covers**
@@ -80,12 +78,10 @@ Also, when you have received a newsletter you wish to stop, click on the "UNSUBS
 
 **Updating Your Personal Information and Contacting Wellness.com**
 
-You can always contact us in order to (1) delete your Personal Information or (2) update the Personal Information that you have provided to us by emailing us at [support@wellness.com](mailto:support@wellness.com)
-
- _._ Such changes will not have any effect on other information that Wellness.com maintains. You may not delete your Personal Information if you wish to continue access to the Site and/or our Subscription Services. 
+You can always contact us in order to (1) delete your Personal Information or (2) update the Personal Information that you have provided to us by emailing us at [support@wellness.com](mailto:support@wellness.com). Such changes will not have any effect on other information that Wellness.com maintains. You may not delete your Personal Information if you wish to continue access to the Site and/or our Subscription Services. 
 
 It is not technologically possible to remove each and every record of the information you have provided to Wellness.com from our servers. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personal Information may exist in a non-erasable form that will be difficult or impossible for us to locate. Nevertheless, we promise that upon receiving your request, all Personal Information stored in the databases we actively use for research and daily business activities, and other readily searchable media, will be deleted. 
 
 Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future, we may make significant changes to our privacy policy affecting the use of the Personal Information we collect. We will notify you by email of any significant changes and obtain your "opt-in" consent to any significant new uses of your Personal Information, if it was collected from you prior to a significant change in this policy. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personal Information. You should also check this posted Privacy Policy for any future changes. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately and terminate your membership in Wellness.com. 
 
-Revised July 18, 2001 · Copyright © 2001 Wellness.com. · All rights reserved. 
+Revised June 17, 2004 · Copyright © 2004 Wellness.com. · All rights reserved.
