@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009200041id_/http%3A//www.gandermountain.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171440id_/http%3A//www.gandermountain.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Gander Mountain™ > We Live Outdoors - Hunting, Fishing, Camping, Outdoor Recreation, Apparel & Footwear, Gunsmithing
 
@@ -9,9 +9,8 @@ We respect the privacy of our customers and their personal information. This Pri
 If you have any questions or concerns regarding this policy statement, please contact us by telephone at 1-888-635-2614 or by email at [ customercommentline@gandermountain.com](mailto:customercommentline@gandermountain.com). If you prefer to write us, our postal address is:
 
 Gander Mountain Company  
-Attention: Customer Service  
-4567 American Boulevard West  
-Bloomington, MN 55437
+180 East 5th Street  
+St.Paul, MN 55101
 
 By visiting the Site you agree to be bound by the terms and conditions of this Privacy Policy. By accepting the Privacy Policy, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the [Site Terms & Conditions](https://web.archive.org/terms.asp). If you do not agree to the terms of this Privacy Policy or the Site Terms & Conditions, please do not use or access our Site.
 
