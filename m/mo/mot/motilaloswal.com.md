@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motilaloswal.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231110id_/http%3A//motilaloswal.com/disc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motilaloswal.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603004735id_/http%3A//motilaloswal.com/disc/privacy.asp) for the most accurate reproduction.*
 
 # Motilal Oswal Securities Ltd
 
