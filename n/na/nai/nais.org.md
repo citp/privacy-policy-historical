@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622104726id_/http%3A//nais.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008124223id_/http%3A//nais.org/about/privacy.cfm) for the most accurate reproduction.*
 
-# National Association of Independent Schools (NAIS)
+# National Association of Independent Schools (NAIS) - Privacy Statement
 
 NAIS Privacy Statement
 
