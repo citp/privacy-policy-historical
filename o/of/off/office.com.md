@@ -1,102 +1,80 @@
-> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815064526id_/http%3A//www.office.com/global/Privacy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610224557id_/http%3A//www.office.com/help_secpri-policy) for the most accurate reproduction.*
 
 # Office.com: Privacy Policy
 
-|  |  |  |  [Home](http://www.office.com/global/index)  
+[Home](http://www.office.com/global/index)  >  [Help Index](http://www.office.com/help_main)  >  Privacy Policy
+
+Last Updated: 2/9/2001
+
+Office.com Inc. ("OCI", "us", or "we") maintains high standards for the protection of the privacy of users of the Office.com site and various related services that we provide (together referred to as the "Site"). This Privacy Policy contains important information about how we may use and disclose personal information about you. Please read it carefully. You should also read our [Terms of Service](http://www.office.com/termsofservice), which governs your use of the Site. 
+
+We review our privacy practices from time to time. Please bookmark and periodically review this page for updates to our Privacy Policy. A link to this page also appears on most Site pages. To contact us about privacy issues, to report a violation of our Privacy Policy, or to raise any other privacy-related issue, please e-mail us at [privacy@office.com](mailto:privacy@office.com). 
+
+**OCI will not sell, rent, or otherwise share or disclose personally-identifiable information about you to or with others except as allowed by this Privacy Policy.**
+
+The term "Third Party" used in this Privacy Policy means any entity other than OCI. 
+
+**Information You Provide**. You supply basic information when you register for the Site: your name, e-mail address, your organization's primary business activity, and the username and password you select. Later, we may request further information when you seek to use certain areas of the Site (the specific information depends on the particular area). You can use most of the Site without providing any personal information (or even registering), but you won't be able to take full advantage of what the Site can offer you and your business. 
+
+You also supply personally-identifiable information in other ways. A few examples are when you: customize your account, fill out an order form or survey, place an auction bid, communicate with our Customer Satisfaction team, enter a contest, and so on. 
+
   
-|   |  |  |  |   |    
----|---|---  
-   
-  | 
+Some services and other features on the Site may involve other entities (such as your company) storing personal information about you. For example, if we offered a payroll services feature, your company could enter relevant information about you and other employees. (This doesn't include where your company sets up a corporate sub-account for you.) We treat such information as the private information of whoever enters it, and use it only as needed to provide the services (see "How We Use Information About You" below for more detail). We don't review it, and it doesn't become part of our information about you. This means you'd need to raise any privacy concerns about this information with the party that stored it.
 
-  * [Introduction](http://www.office.com/global/Privacy/privacy_policy/#int)  
+**Children**. The Site is not targeted to users under thirteen years of age. If you are under 13, please do not register for the Site or provide any information about yourself on the Site. 
 
-  * [The Information We Gather](http://www.office.com/global/Privacy/privacy_policy/#q1)  
+**Information We Collect**. We also collect information based on your use of the Site. For example, when you use the Site, we may collect your IP address, operating system, and browser version used for that visit. We also use "cookies" -- small text files placed on your computer's hard drive. These cookies don't contain any personal information, except for your name and username if you've registered so we can personalize your visit. Only OCI can access a cookie that we place. You don't need to have your browser accept cookies to use the Site generally, but you won't be able to use certain areas of the Site if you don't. 
 
-    * [Non-Personally Identifiable Information](http://www.office.com/global/Privacy/privacy_policy/#q2)  
+Cookies we place serve several purposes: 1) to recognize you when you return to the Site, and as you move within the Site, which lets us customize your visit and offer convenience; 2) to authenticate you as a Site user, necessary for security; 3) to better understand how our users use the Site, which helps us make the Site more useful for you; and 4) to track what advertisements are displayed. 
 
-    * [Personally Identifiable Information](http://www.office.com/global/Privacy/privacy_policy/#q3)  
+Some of our business partners and advertisers may also use cookies (or similar technologies) when you use their services or click on their ads. We have no access to or control over their cookies, just as they cannot access or control cookies that we place. 
 
-    * ["Opting Out"](http://www.office.com/global/Privacy/privacy_policy/#q4)  
+We may **use** personally identifiable information in a number of ways: 
 
-  * [How we use (and do not use) the information we gather.](http://www.office.com/global/Privacy/privacy_policy/#q5)  
+  * To communicate with you about your account, or to communicate information about the Site. For example, we send all new members a welcoming e-mail, and will also occasionally send members important notices or information. 
+  * To pre-complete online forms. For example, if you have stored a shipping address, we may automatically fill in that information on an order form. 
+  * To determine which advertisements or sponsor messages will appear on your screen. 
+  * To personalize various aspects of the Site. 
+  * To build higher-quality, more useful services, such as by analyzing usage trends, and by measuring demographics and interests regarding specific areas of the Site. 
+  * To provide you with prompt and effective customer service. 
+  * To support the operation of the Site (such as billing, account maintenance, and record-keeping), troubleshoot problems, resolve disputes, and enforce our [Terms of Service](http://www.office.com/termsofservice). 
+  * To send you newsletters, promotional messages, product announcements, and other communications from OCI that we feel may be of interest to you. You may "opt out" of receiving most of these materials, as described below. 
 
-  * [Changing or deleting personal information](http://www.office.com/global/Privacy/privacy_policy/#q6)  
+We may **disclose** personally identifiable information about you to Third Parties as follows: 
 
-  * [Questions?](http://www.office.com/global/Privacy/privacy_policy/#q7)
+  * With your consent. 
+  * To facilitate a transaction or communication with a Third Party that you have initiated. For example, when you place an order with a Third Party, we disclose the order information to them. In some cases, we disclose personal information so their system can automatically pre-complete the order form for your convenience, but they cannot use or keep the information for any other reason unless you actually submit the order. 
+  * As is inherent in the operation of a Site feature you use. For example, your username may appear publicly when you submit a post to a discussion board after logging in. 
+  * To allow Third Parties to provide Site features and services. We partner with leading companies that bring superior services to the Site, which may appear under the "Office.com" name (such as Office.com Auctions). We only disclose the personal information necessary for the Third Party to provide the services, and they are required to keep the information confidential, and use it only to provide those services. (Some Third-Party services, such as Office.com Auctions, may be part of a larger network -- auction listings appear on multiple web sites, for example.) 
+  * To allow Winstar (our corporate parent) and its companies (collectively, "Winstar" to contact you about products or services that they believe may be of interest. You may "opt out" of this process, as described below. We do not do this for any other Third Parties, unless we clearly state it in this Privacy Policy. Winstar will not sell or reveal personally identifiable information that OCI supplies about you to anyone outside Winstar unless: (a) authorized by you; (b) it is legally required; (c) such disclosure is required to protect the safety of Winstar's employees, visitors, customers, or property; or (d) such disclosure is to a Winstar contractor, consultant, or professional advisor for the sole purpose of providing services to Winstar. 
+  * To announce the winners of sweepstakes or promotions, as required by law, and to permit Third-Party prize suppliers to arrange to deliver prizes. 
+  * To our contractors and consultants, and our professional advisors (such as our accountants or attorneys). For example, we outsource certain "back end" processes, such as credit card processing. We only disclose the personal information necessary for them to provide their services to you or to us, and only under strict confidentiality restrictions. 
+  * As we believe necessary to: (a) comply with law (including court and governmental orders, and civil subpoenas); (b) enforce or apply our TOS and other agreements; or (c) protect the rights, property, or safety of OCI, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+  * If you partake (or we reasonably suspect that you are partaking) in any illegal or potentially illegal activity. We may disclose personal information even without a subpoena, warrant, or other court order, to the extent we feel is necessary to inform, and cooperate with, law enforcement agencies or other appropriate authorities. 
+  * In connection with a sale or transfer of OCI. If OCI or substantially all of its assets are acquired, user information will of course be one of the acquired assets. 
+  * In aggregated form, i.e., information about multiple users collectively without identifying any individual user, such as the total number of visitors to the Site's Computer industry section in a given week. 
+  * Due to circumstances beyond our control. Despite the stringent precautions we take to protect your personal information (see [Security of Your Personal Information](http://www.office.com/global/0,2724,95000-22283,FF.html#Security), below), the unfortunate fact is that there is simply no such thing as a perfect security system. Also, we have no control over the Internet in general. As a result, even though the risk is extremely low, we cannot guarantee that unauthorized persons will never gain access to private transmissions or information, or that private information will never be disclosed in ways not covered by this Privacy Policy. 
 
-**Office.com ®, a service from WinStar**sm, is produced by Office.com Inc. This Privacy Policy contains important information; please read it carefully. We also encourage you to review our [Terms of Service](http://www.office.com/global/Terms/terms_agree).
+**"Opting Out":** Registering for the Site entitles you to receive the Office.com Newsletter (and other topical newsletters that we may develop), as well as other offers and communications that we feel may be of interest. You may choose at registration to "opt out" of receiving these materials from us. You may also opt out at any time after that in the "Personal Info and Password" section of your Account Information, or by contacting us at [privacy@office.com](mailto:privacy@office.com), or by following the instructions contained in most communications. Note that even if you opt out, we may still send you official OCI announcements and notices relating to the Site, your account, and other non-commercial matters. You may also continue to receive material from us for several weeks due to programs already in progress. Opting out only applies to communications from OCI; we cannot control what communications Third Parties might send based on information that they already have. 
 
-Because the success of Office.com is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to respect and protect your privacy. Moreover, we see it as our responsibility to set an example, and to help establish standards for privacy on the Internet.
+OCI encourages all entities with which we do business to act in a manner consistent with our Privacy Policy, and otherwise to handle personal information in a responsible manner. However, notwithstanding anything to the contrary in this Privacy Policy, we cannot be responsible for any acts or omissions of any Third Party, including the manner in which they use personal information received from you, OCI, or elsewhere. If you do encounter any Third Party associated with OCI (or who claims association with OCI) who you feel is improperly collecting or using information about you, please contact us at [privacy@office.com](mailto:privacy@office.com). 
 
-Office.com respects the privacy of visitors to our web site. While we do collect information from our users, we do not release personally identifiable information without your permission, except as set forth within this Privacy Policy, our Terms of Service, and other published guidelines.
+**Other Web Sites**. Portions of the Site may involve linking to, or using, other web sites, including co-branded or other affiliated sites, and web sites belonging to Third Parties. These often include their own privacy policies. Unless we explicitly state otherwise, we have no control over these other sites and their privacy practices, and this Privacy Policy applies to information you supply (or that we collect) solely in connection with use of the Site. If a co-branded site doesn't include its own privacy policy, this Privacy Policy will apply to OCI's use and collection of information, and the Third Party's policy will apply to the Third Party's use and collection of information. 
 
-Office.com reviews its privacy practices from time to time. **We ask that you bookmark and periodically review this page for updates to our Privacy Policy.** To contact Office.com about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please e-mail us at [privacy@office.com](mailto:%20privacy@office.com).
+**Other Users**. If you disclose personally identifiable information on the Site (such as on a discussion board or in a chat room), be aware that others could collect that information and use it to send you unsolicited e-mail, or for other purposes. Please be careful about disclosing personal information in "public" places or to people you don't know well. 
 
-**The Information We Gather** Office.com gathers two types of information about users: 
+**E-mail**. Office.com will not inspect, or disclose to others, the contents of messages sent through any private e-mail function of the Site except with the specific consent of the sender or recipient, or (where necessary) in the narrowly-defined situations established under law. 
 
-  1. **Non-Personally Identifiable Information**
+Registered users may view and change certain personally identifiable information by selecting the "Account Information" option available on many Site pages. For security reasons, you will not be able to see your credit card number (if you have supplied one) or your password. 
 
-Non-personally identifiable information is information that does not identify a specific individual. When a visitor arrives at our site, we collect the IP address, operating system and browser software used. An IP address (which is not the same as an e-mail address) can tell us the user's internet service provider and, based on that, can suggest the geographic location of the connection. We also collect information about which pages they visit, the order in which they were visited, and which hyperlinks they "click."
+If you would like to have your personally identifiable information removed from our database, please contact us at [privacy@office.com](mailto:privacy@office.com), and we will use reasonable efforts to comply with your request. Note that removing certain information may effectively cancel your account. Also, we need to retain certain information for auditing, record-keeping, and other purposes. There will also be residual information that will remain within our databases, access logs, and other records, which may or may not contain personally identifiable information. Any retained personally identifiable information will continue to be subject to OCI's Privacy Policy. We do reserve the right to re-contact former Site users from time to time. Also, we cannot be responsible for what Third Parties do with information that they already had before you asked us to delete it. 
 
-For the same purposes, we use "cookies" -- small text files placed on your computer's hard drive -- to help track your usage of our site, including what advertising you have seen. Cookies don't include personal information about you, but they are unique to each user, which lets the Office.com computers distinguish between users, and personalize your experience if you have previously provided information about yourself. Cookies are only read by the Office.com computer that placed them, and cannot execute any code or virus.
+We take stringent precautions to protect your personal information. When you submit sensitive information via the Site, your information is protected both online and off-line. 
 
-Most web browsers give you the ability to control whether, and to what extent, they will accept cookies. For more information on how to do this, please refer to your browser's documentation. (Note: if you disable or limit cookies, you may not be able to access certain parts of the Office.com site.) Non-personally identifiable information also includes personally identifiable information of many people that has been aggregated to arrive at a general statistic; an example might be the number of female users who visit a particular part of the Office.com site in a particular week.
+Whenever sensitive information (such as a credit card number) needs to be transmitted to or from the Site, that information is encrypted and is protected with the best encryption software in the industry, known as Secure Sockets Layer ("SSL"). ([Click here](http://www.rsasecurity.com/standards/ssl/index.html) to learn more about SSL.) 
 
-  2.  **Personally Identifiable Information**
+We also protect your personal information off-line. Only employees who need the information to perform a specific job (such as our Customer Satisfaction Representatives) are granted access to personally identifiable information. Our offices include a locked area for the system administrators with access to the internal functions of the Site, and each must use a screen saver that locks their computer after a brief period of inactivity, until they can enter their individual password. Finally, the servers where we store personally identifiable information are kept in a secure environment, in a locked room with passkey protection and video surveillance. 
 
-Personally Identifiable Information is information that relates to an identified individual. In certain areas of the Office.com site -- for example, when registering to become a member, or purchasing a product -- we require you to supply personally identifiable information. The amount of information required depends on the area that you wish to use, but might include your name, street address, email address, telephone number, and when applicable, credit card information.
+Questions? 
 
-The Office.com site is not targeted to children (minors under thirteen years of age), and we do not knowingly collect personally identifiable information from children without obtaining parental consent. Before registering with Office.com, we ask that children have their parents read our Privacy Policy, and we encourage children to include a parent or guardian in the registration process.
-
-Office.com does not control the acts of its users. You should be aware that, if you disclose personally identifiable information on a bulletin board or in a chat room, guestbook, or other forum, others may collect that information and use it to send you unsolicited e-mail from outside Office.com, or for other purposes. In the event that you encounter any Office.com user who is improperly collecting or using information about you or other users, please contact [privacy@office.com](mailto:%20privacy@office.com). 
-
-
-**How We Use (and Do Not Use) the Information We Gather.**
-
-  1. **Non-personally identifiable information:** We use non-personally identifiable information in aggregate form to build higher-quality, more useful services by performing statistical analyses of users' activities, and by measuring demographics and interests regarding specific areas of the Office.com web site. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites.
-
-We collect non-personally identifiable information and aggregate it, in order to analyze general trends and usage patterns. This information helps us determine how our site is being used, helps us identify popular areas, and helps determine the effectiveness of our promotional activities. All of this lets us build higher-quality, more useful services. We provide statistical information based on this data to advertisers, affiliates, and other current and potential business partners.
-
-  2.  **Personally identifiable information:** At registration, Office.com provides notice to potential Office.com registrants that personally identifiable information will be collected during the registration process. This Privacy Policy itself is also notice that such information is collected. 
-
-We may use this information in a number of ways: 
-  * to customize various aspects of the Office.com site to your preferences 
-  * to pre-complete online forms. For example, if you have provided a shipping address, the Office.com system may automatically fill in that information on an order form. This is simply a convenience -- no information is released to anyone unless you authorize its release, such as by clicking a "Submit" button. 
-  * to determine which advertisements or sponsor messages will appear on your screen 
-  * to send you Office.com solicitations, product announcements, and the like that we feel may be of interest to you. You may "opt out" of receiving these materials as provided below. 
-  * as may be necessary to support the operation of the Office.com site, such as for billing, account maintenance, and record-keeping purposes 
-
-We can disclose your personally-identifiable information to third parties as follows: 
-  * with your authorization, such as when you click on a "submit order" or similar button when placing an order 
-  * if you do not "opt out" of receiving promotional materials (as discussed below), we can release personally identifiable contact information regarding you to third parties who provide goods or services that we believe may be of interest to you. 
-  * To our contractors and consultants, and professional advisors (such as attorneys or accountants), but only to the extent necessary for them to perform services on our behalf, and only under reasonable confidentiality restrictions. 
-  * As required by law, including court and governmental orders, and civil subpoenas 
-  * As we reasonably feel is necessary to protect our systems or business 
-  * If you partake (or we reasonably suspect that you are partaking) in any illegal activity, even without a subpoena, warrant, or other court order, to the extent we feel is necessary to inform, and cooperate with, law enforcement agencies or other appropriate authorities. 
-
-Except as provided above, we will not release your credit card information to any third party unless necessary to complete a transaction between you and the third party. **"Opting Out:" **Although you must provide registration information if you wish to use Office.com features that require registration, you may choose to "opt out" of receiving promotional materials from Office.com and/or its affiliates, advertisers, or other business partners. "Opting out" is an option at registration, and you will also often be given the opportunity to "opt out" in certain individual transactions. You may also "opt out" of receiving promotional information from Office.com and/or from third parties at any time by contacting us at [privacy@Office.com](mailto:%20privacy@Office.com). You may also contact those third parties directly.
-
-If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with Office.com, either Office.com or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
-
-If Office.com offers an e-mail service, Office.com will not inspect, or disclose to others, the contents of messages sent through that service except with the specific consent of the sender or recipient, or in the narrowly-defined situations established under federal law.
-
-**Third-party use of personal information.** The Office.com web site contains links to other Internet web sites, including co-branded or other affiliated sites. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information.
-
-Keep in mind that, while Office.com encourages all third parties involved -- such as our affiliates and advertisers -- to adhere to our policies regarding our users' privacy and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any acts or omissions of third parties, including the manner in which they use information received either from Office.com or independently. Nevertheless, in the event you encounter any third party associated with Office.com (or who claims association with Office.com) who you feel is improperly collecting or using information about you, please contact [privacy@office.com](mailto:%20privacy@office.com); we will be happy to forward your message to the third party.
-
-**Changing or deleting personal information.**
-
-You may view and, if you wish, change certain personally identifiable information by going to the Member Center, and selecting to Modify Your Account Information. Note, of course, that you cannot view or change certain "automatic" information, such as the number of advertisements that may have been displayed during a session. Also, for security reasons, you will not be able to see your credit card number (if you have supplied one) or your password.
-
-If you would like to have your personally identifiable information removed from Office.com's database, please contact us at [privacy@Office.com](mailto:%20privacy@Office.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Office.com databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, we reserve the right, from time to time, to re-contact former Office.com users.
-
-**Questions?**
-
-Questions regarding our Privacy Policy should be directed to Office.com at [privacy@Office.com](mailto:%20privacy@Office.com).
-
-[ **Back to Top**](http://www.office.com/global/Privacy/privacy_policy/#top)  
-  
-|  |  |  |   
-|   
----
+Please send us any questions regarding our Privacy Policy to [privacy@office.com](mailto:privacy@office.com). 
