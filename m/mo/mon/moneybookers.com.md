@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603095718id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208111656id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # moneybookers.com - and money moves
 
-### Privacy Statement
+### [](http://www.truste.org/ivalidate.php?url=www.moneybookers.com&sealid=101)Privacy Statement
 
-| [](https://www.truste.org/validate/13863)    
----|---  
-  
+**Overview**  
+By accepting the Privacy Policy and Terms and Conditions in registration, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy took effect on April 1, 2002. This Privacy Policy was last updated on November 9, 2004.
+
 **Data Protection**  
 Any information you provide us with will only be disclosed in accordance with the [Data Protection Act of 1998.](http://www.legislation.hmso.gov.uk/acts/acts1998/19980029.htm)
 
@@ -23,10 +23,10 @@ Moneybookers Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an inde
 
 
 
-If you have questions or concerns regarding this statement, you should first contact [info@moneybookers.com](mailto:info@moneybookers.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact [info@moneybookers.com](mailto:info@moneybookers.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 **Collection of Personal Information**  
-To open your Moneybookers account, we must obtain certain personal information, such as name, address, email or phone number as well as demographic information like age. For certain optional transactions, we also collect selected financial information such as credit card details. For certain high amount transactions, we are legally required to report some personally identifiable information to the authorities. For verification purposes we reserve the right to request proof of identification in an offline format. Your IP address and access times are tracked against your user id for the dual purposes of preventing fraud and creating an audit trail when sending a payment, or logging onto our secure server.
+To open your Moneybookers account, we must obtain certain personal information, such as name, address, email or phone number as well as demographic information like age. For certain optional transactions, we also collect selected financial information such as credit card details. For certain high amount transactions, we are legally required to report some personally identifiable information to the authorities. For verification purposes we reserve the right to request proof of identification in an offline format. Your IP address and access times are tracked against your user id for the dual purposes of preventing fraud and creating an audit trail when sending a payment, or logging onto our secure server. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site and do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
 **Use of Personal Information**  
 We only use your personal information to service your account and to improve our services to you. However, we do share some financial information as part of normal business operations with banks or credit card processing and verification services. These entities may not use your information for secondary purposes, unless required by law. Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. Otherwise, UNDER NO CIRCUMSTANCES will information you provide to Moneybookers be transmitted in any way to a third party.
@@ -49,6 +49,6 @@ Changes to this privacy statement are posted here so you know what use is made o
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at:  
 Customer support: service@moneybookers.com  
-Telephone: 0870 8812808  
-Fax: 0870 1254861  
+Telephone: 0709 204 2000  
+Fax: 0709 204 2001  
 Postal Address: C3 Cairngorm House, Meridian Gate, 203 Marsh Wall, London E14 9YT, UK
