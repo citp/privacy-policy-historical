@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608132211id_/http%3A//www1.davidsbridal.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2003-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031213020629id_/http%3A//www2.davidsbridal.com/privacy.jsp) for the most accurate reproduction.*
 
 # David's Bridal - Bridal gowns, fashions for brides, bridesmaids, flower girls at weddings and special Occasions
 
@@ -30,6 +30,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 In short, if you provide personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is ultimately your responsibility to maintain the secrecy of your personal information to the extent you feel comfortable. We encourage you to be careful and to ask questions before you disclose your personal information to others.  
   
 **Your consent**  
- | By using our Web site, you consent to the collection and use of this information by David's Bridal. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please click here and enter your email address.  
+ | By using our Web site, you consent to the collection and use of this information by David's Bridal. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please send an email to: [remove@davidsbridal.net](mailto:remove@davidsbridal.net).  
 **How to contact us**  
  | If you have other questions or concerns about these privacy policies, please send us an e-mail at [remove@davidsbridal.net](mailto:remove@davidsbridal.net).
