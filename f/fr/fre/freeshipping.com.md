@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2003-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031215102546id_/http%3A//freeshipping.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222807id_/http%3A//www.freeshipping.com/policy.asp) for the most accurate reproduction.*
 
 # Free Shipping Merchant Directory - Terms and Conditions
 
