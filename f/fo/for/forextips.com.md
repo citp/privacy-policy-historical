@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210144852id_/http%3A//www.forextips.com/forexpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812185518id_/http%3A//www.forextips.com/forexpolicy.htm) for the most accurate reproduction.*
 
 # forex training and education, about mti market traders institute currency money traders lessons tutorials and online trading
 
