@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmh.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212184623id_/http%3A//manufacturing.net/mmh/index.asp%3Flayout%3DSiteInfoWebzine%26view%3DDetail%26doc_id%3D21145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmh.com privacy policy that was archived on 2004-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040206230033id_/http%3A//www.manufacturing.net/mmh/index.asp%3Flayout%3DSiteInfoWebzine%26view%3DDetail%26doc_id%3D21145) for the most accurate reproduction.*
 
 # Modern Materials Handling Online
 
