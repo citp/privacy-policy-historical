@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstocks.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816064035id_/http%3A//www.allstocks.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstocks.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606125759id_/http%3A//www.allstocks.com/pp.html) for the most accurate reproduction.*
 
 # Allstocks.com Privacy Policy
 
@@ -12,12 +12,16 @@
 
 **Allstocks.com does not and will not sell, pass on or give any information supplied to us buy our users for any reason PERIOD!**
 
-Allstocks.com WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE. TO
+This site, Allstocks.com, uses the services of Engage for the serving
 
-FIND OUT MORE ABOUT HOW FLYCAST MANAGES THE PRIVACY OF INFORMATION IN
+and/or targeting of ads, promotions and other marketing messages.
 
-CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO
+To do this, Engage collects anonymous data through the use of cookies.
 
-[HTTP://WWW.FLYCAST.COM/ABOUT_US/ABOUT-PRIVACY.HTML](http://www.flycast.com/ABOUT_US/ABOUT-PRIVACY.HTML)
+To learn more about Engage, including your ability
+
+to opt out of the Engage system, go to http://www.engage.com/privacy.
+
+<http://www.engage.com/privacy.>
 
 **As always thank you for using Allstocks.com**
