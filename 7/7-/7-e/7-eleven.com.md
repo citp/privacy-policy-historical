@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611114748id_/http%3A//www.7-eleven.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010031146id_/http%3A//www.7-eleven.com/about/privacy.asp) for the most accurate reproduction.*
 
 # 7-Eleven: Privacy Policy
 
