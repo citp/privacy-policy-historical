@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207224116id_/http%3A//www.1800contacts.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618145523id_/http%3A//www.1800contacts.com/policies.html) for the most accurate reproduction.*
 
 # 1-800 CONTACTS | Privacy
 
@@ -26,6 +26,12 @@ How does 1-800 CONTACTS, INC. make sure my order information is secure?
 
 What kind of information does 1-800 CONTACTS, INC. collect?  
 We collect information (such as your name, e-mail address, mailing address, contact lens prescription, phone number, credit card numbers, and the name and phone number of your eye care provider) that you provide when you place an order, register with us or participate in a contest, survey, or promotion. We also maintain a record of your historical purchases that are placed through the phone, mail, fax, e-mail, and over the Internet. Because all of our information systems are fully integrated, when you place an order with 1-800 CONTACTS, INC. your customer information is available to you through any channel through which you may choose to contact us (phone, postal mail, fax, Internet, or e-mail.)
+
+1-800 CONTACTS is currently using and has contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our web site in order to constantly improve the web site quality. All data collected by Omniture on behalf of 1-800 CONTACTS is owned and used by   
+1-800 CONTACTS. 1-800 CONTACTS reserves the right to publish non-personally identifiable summary information regarding its web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers.
+
+Omniture uses cookies to help track visitor behavior and sets cookies in behalf of 1-800 CONTACTS which will be listed under the domain 207.net. For more information about Omniture's privacy policy go to www.omniture.com.  
+
 
 How does 1-800 CONTACTS, INC. use my information?  
 When you make a purchase from 1-800 CONTACTS, INC., we use your information to process your order. We will also send you an e-mail to confirm your order, and we may need to contact you via phone, mail, or e-mail if we have any questions regarding your order. From time to time, we may send you e-mails to help us learn more about your shopping preferences so that we may better serve you in the future. In addition we may use that information to help us better improve our site design and your shopping experience. If you make a purchase from 1-800 CONTACTS, INC. we may also send you notices about our products, services, contests, surveys, and promotions or news about contact lenses through postal mail.
