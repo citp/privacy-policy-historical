@@ -1,40 +1,62 @@
-> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604070529id_/http%3A//www.alibaba.com/bin/servlet/page/static/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204192559id_/http%3A//www.alibaba.com/bin/servlet/page/static/privacy_statement) for the most accurate reproduction.*
 
-# Alibaba.com - Import Export Trade leads
+# Alibaba: The World's Largest Global Trade Marketplace
 
-**Alibaba.com Privacy Statement**   
-(Updated on 10/7/99)
+**PRIVACY POLICY**   
+(Updated on 16/10/01)
 
-Welcome to Alibaba! We have created this Privacy Statement to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for our web site: Alibaba.com. Our Privacy Statement is a work in progress. As we expand our services,we will update our Privacy Statement. We welcome your continuous input into this Privacy Statement. Give us your feedback at [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com). 
+By using our website, you consent to the collection of use of your information in the manner we describe below. 
 
-BY ACCEPTING THE TERMS OF SERVICE AGREEMENT ("AGREEMENT"),YOU EXPRESSLY CONSENT TO OUR USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFIABLE INFORMATION IN ACCORDANCE WITH OUR PRIVACY STATEMENT. OUR PRIVACY STATEMENT IS INCORPORATED INTO AND SUBJECT TO THE TERMS OF THE AGREEMENT. ****
+**Our Commitment to Privacy**   
+Alibaba respects the privacy of your information. Our Privacy Policy governs our online information practices and reflects our commitment to protect your privacy. 
 
-**A Special Note About Children.** If you are not at least 18 years of age you are not eligible to use the Service,and we ask that you do not submit any personal information to us. If you are under 18 years of age,you can use this service only in conjunction with your parents or guardian. ****
+**Security Measures**   
+We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy and ensure correct use of information. 
 
-**Member ID and Password**. When you register as a member,we require that you select a Member ID,a Password,and a Password Question with its corresponding answer so we may identify you if you lose your Password. Your account is only accessible through the use of your Password. If you lose control of your Password,you may lose control over your personally identifiable information,and may be subject to legally binding actions entered into on your behalf. Therefore,if your Password has been compromised for any reason,you should immediately contact us at [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com). 
+Your account information and profile are password protected. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your account and close your browser window when you have finished your session. 
 
-**Registration Information.** When you register as a member,we require that you fill out a registration form. The registration form requires that you provide your full name,street address,country,phone number and email address. In addition,you will be asked to provide your company's address,phone number,and a short description of your company's services or products. You are also provided with the option to fill out additional fields. These fields may include your company's city,province,time zone,zip code,facsimile number,home page,and your occupation. We use the registration information for gathering statistics on our membership. We will use these statistics to classify our members by,for example,age,industry and country,to target our registered members for new services and promotions. We may use your email address to contact you regarding such new services and promotions. ****
+No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us and you do so at your own risk. 
 
-**Credit Cards.** In the future some of our services may require a fee. At that time,we may begin collecting credit card information as appropriate. 
+**The Information We Collect**   
+At the time you register for the services provided on our website, you would be required to provide information such as your name, address, phone number, company name and address and other personally-identifying information. We need this information to provide services that you request and to let you know of additional services about which you might be interested. We may also use this information to customize your experience in using our website. 
 
-**Your Trading Activities.** We keep track of IP host addresses solely for security purposes only. If we do not find any security problems,we dispose of the collected IP host addresses in a timely manner. We also keep track of total daily page views. The total daily page views are used to monitor traffic volume so that we can plan for our future growth (e.g.,more servers). 
+In addition, we automatically gather general statistical information about our website and visitors, such as IP address, browsers, pages viewed, number of visitors etc. but in doing so we do not reference you by individual name, email address or telephone number. We use this data in the aggregate to determine how much our customers use parts of our site so we can improve our site. We may provide this statistical information to third parties, but when we do so, we do not provide personally-identifying information without your permission. 
 
-**Advertising**. We may aggregate personally identifiable information and disclose such information in aggregate to advertisers for marketing and promotional purposes. 
+If you establish a credit account with us or our providers or if you purchase a product or service from Alibaba, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders. Such information shall be provided to banking merchants to enable transactions to take place and to allow us to determine the credit-worthiness of our users. 
 
-**Our Use of Cookies**. We use cookies to make are web site more "user friendly" by enabling you to use our services without having to repeatedly type in your registration information,and by tracking the status of your web browser. 
+**The Way We Use Information**   
+We use your personally-identifying information to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customize our site's content, layout and service. 
 
-**Third Parties.** We post offers and business opportunities submitted by users and provide a mechanism by which other users may inquire about such offers and business opportunities. We do not give,sell,rent,share,or trade any identifiable personal information regarding our members to other third parties,with the exception of third party contractors and service providers who work with Alibaba to provide the web site and other services,and who are strictly prohibited from later use of the information that they may have access to. We will disclose any information about you to law enforcement or other government officials when we believe in good faith the law requires it. 
+We may use your information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, new services and promotions. We may use your email address, mailing address and phone number to contact you regarding administrative notices, new product offerings and communications relevant to your use of our website. 
 
-**Storage and Transfer of Information.** Member information is collected and stored on servers in the United States. We may transfer,however,your information to other countries for backup purposes only. 
+We use your IP address to help diagnose problems with our server, to manage our website and our server capabilities and to enhance our website based on the usage pattern data we receive. 
 
-**External Links.** This site contains links to other sites. Alibaba is not responsible for the privacy practices or the content of such Web sites. We may at any time add business partners or co-branded sites,but the sharing of information with them will be limited to only aggregate information,and we will not disclose your identity. 
+**Public Access to Information**   
+The information you provide will be made available to all users of our website. Please remember that any information you disclose becomes public information and you should exercise caution when deciding to disclose personally-identifying information. 
 
-**Public Access to Trading Information.** The information that you provide to post an item for trade or to make an offer is posted in a public area,available to all users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+**Disclosure of Information**   
+We may use or disclose information to resolve disputes, investigate problems, to enforce our terms and conditions and User Agreement in relation to the use of this website and our services. 
 
-**Security.** Our web site has security measures in place to protect the loss,misuse and alteration of the information under our control. These security measures include backing up data to other servers and encrypting user Passwords. Despite our security measures,please be advised that "perfect security" does not exist on the Internet. 
+We reserve the right to disclose your information where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing (or threatening to infringe) or who may otherwise be causing injury to or interference with (either intentionally or unintentionally) our title, rights, interests or property or those of other website users or of anyone else who could be harmed by such activities. 
 
-**Correcting Your Information.** You may change,update,or delete your personally identifiable information and Password (after a successful login process) through our web page at URL [http://www.alibaba.com/bin/user/edit](https://web.archive.org/bin/user/edit). ****
+We also reserve the rights to disclose, without notice to you, personal information in response to a subpoena or other judicial order or when we believe in good faith that such disclosure is required by any law, regulation or listing requirement or by any stock/securities exchange, governmental or regulatory authority. 
 
-**Contacting Us.**
+**Co-Branded Relationships**   
+We have established relationships with other parties to offer you the benefit of other products and services which we ourselves do not offer. We offer you access to these other parties either through the use of hyperlinks to their sites from our website, or through offering "co-branded" sites in which both ourselves and these other parties share the same URL, domain name or pages within a domain name on the Internet. The Privacy Policy of such other parties may differ from ours. We therefore encourage you to read that policy before responding of any offers, products or services provided by such other parties. 
 
-If you have any questions about this Privacy Statement,the practices of Alibaba,or your dealings with the alibaba.com web site,you can contact us at: [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com). 
+**Cookies**   
+As part of our service, we use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a webserver and stored on your computer's hard drive. Generally, we use cookies to remind us who you are and enable us to access your account information so you do not have to re-enter it; gather statistical information about usage by registered or unregistered users, research visiting patters and help target advertisements based on user interests; assist our retail partners track visits and process orders; and track progress and participation in promotions. 
+
+Preference and options configurations in your browser determine if and how a cookie will be accepted. You can change those configurations on your computer if you desire. By changing your preferences, you can accept all cookies, you can be notified when a cookie is set or you can reject all cookies. If you do so and cookies are disabled, you may be required to re-enter your information more often and certain features of our site may be unavailable. 
+
+**Children Under 13**   
+Alibaba does not target children and expects not to sell any of our products or services to children. Alibaba regards "children" as minors younger than 13 years old. However, we have no way of distinguishing the age of individuals who access our website and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personally-identifying information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities. 
+
+**Changes to Privacy Policy**   
+Any changes to our Privacy Policy will be communicated through our website in advance of its effective date. Information collected before changes are made will be secured according to the previous Privacy Policy. This Privacy Policy was last amended on 7 October 1999. 
+
+**Correcting Your Information**   
+You can access the information that we collect online and maintain through normal updating methods. To update, correct or delete this information, you can contact <http://www.alibaba.com/bin/user/edit>. 
+
+**Your feedback**   
+Alibaba welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com). 
