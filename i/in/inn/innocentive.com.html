@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the innocentive.com privacy policy that was archived on 2001-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211234238id_/http%3A//innocentive.com/privacy_notice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the innocentive.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605163114id_/http%3A//www.innocentive.com/privacy_notice.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>InnoCentive Website Privacy Notice</title>
 </head>
 
-<body bgcolor="#FFFFFF" link="#FF9933" vlink="#FF9900" alink="#00CC00">
+<body bgcolor="#FFFFFF" link="#FF9933" vlink="#FF9900" alink="#00CC00" onload="showNav()">
 
 <!-- header -->
 
@@ -13,7 +13,10 @@
 <table border="0" cellpadding="0" cellspacing="0" width="700">
 <tbody><tr valign="bottom">
 <td width="454">
-<img id="topNav" src="/images/nav.gif" width="454" height="52" usemap="#topNavMap" border="0">
+    <script>
+        var base="rules";
+    </script>
+<img base="rules" name="topNav" id="topNav" src="https://web.archive.org/images/nav.gif" border="0" usemap="#usemap">
 </td>
 <td width="245">
 <a href="/"><img src="/images/logo.gif" alt="innocentive" border="0"></a>
@@ -22,24 +25,185 @@
 </tbody></table>
 </center>
 
-<map name="topNavMap">
-<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="home">
-<area id="projectList" shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="Innocentives" title="Innocentives">
-<area id="register" shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
-<area id="workSpace" shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My innocentive" title="My innocentive">
-<area shape="rect" coords="261,0,324,52" href="/faq.html" alt="FAQs" title="FAQs">
-<area shape="rect" coords="326,0,389,52" href="/about.html" alt="About InnoCentive" title="About InnoCentive">
+<script language="JavaScript">
+
+    var isOverNav = false;
+    var currentNav = null;
+
+    var nav2_home = new Image();
+    nav2_home.src="/images/nav2_home.gif";
+
+    var nav2_home_about = new Image();
+    nav2_home_about.src="/images/nav2_home_about.gif";
+
+    var nav2_home_careers = new Image();
+    nav2_home_careers.src="/images/nav2_home_careers.gif";
+
+    var nav2_home_contact = new Image();
+    nav2_home_contact.src="/images/nav2_home_contact.gif";
+
+    var nav2_home_faq = new Image();
+    nav2_home_faq.src="/images/nav2_home_faq.gif";
+
+    var nav2_home_management = new Image();
+    nav2_home_management.src="/images/nav2_home_management.gif";
+
+    var nav2_innocentives = new Image();
+    nav2_innocentives.src="/images/nav2_innocentives.gif";
+
+    var nav2_register = new Image();
+    nav2_register.src="/images/nav2_register.gif";
+
+    var nav2_my = new Image();
+    nav2_my.src = "/images/nav2_my.gif";
+
+    var nav2_logout = new Image();
+    nav2_logout.src = "/images/nav2_logout.gif";
+
+    var nav2_ = new Image();
+    nav2_.src = "/images/nav.gif";
+
+    var nav2_news = new Image();
+    nav2_news.src = "/images/nav2_news.gif";
+
+    var nav2_news_events = new Image();
+    nav2_news_events.src = "/images/nav2_news_events.gif";
+
+    var nav2_seeker = new Image();
+    nav2_seeker.src = "/images/nav2_seeker.gif";
+
+
+function setIsOverNav(value) {
+    isOverNav = value;
+}
+
+function hideNav() {
+    //setIsOverNav(false);
+    //setTimeout("showBase()", 80);
+}
+
+function showBase() {
+    //if ( !isOverNav ) {
+        //showNav(document.topNav.getAttribute("base"));
+        //showNav(base);
+    //}
+}
+
+function showNav(nav, map) {
+    //setIsOverNav(true);
+    if ( nav==null ) nav="";
+    document.topNav.src = eval("nav2_" + nav + ".src");
+    if ( map==null ) map=nav;
+    document.topNav.useMap = "#usemap"+map; 
+}
+</script>
+
+<map name="usemaplogout">
+<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="Home">
+<area shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="InnoCentive Challenges" title="InnoCentive Challenges">
+<area shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
+<area shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My InnoCentive" title="My InnoCentive">
+<area shape="rect" coords="261,0,324,52" href="/about/seeker.html" alt="Solution Seekers" title="Solution Seekers">
+<area shape="rect" coords="326,0,389,52" href="/about/press.html" alt="News and Press" title="News and Press">
 <area shape="rect" coords="391,0,454,52" href="/servlets/account/Logout.po" alt="Log Out" title="Log Out">
 </map>
 
+<map name="usemapseeker">
+<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="Home">
+<area shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="InnoCentive Challenges" title="InnoCentive Challenges">
+<area shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
+<area shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My InnoCentive" title="My InnoCentive">
+<area shape="rect" coords="261,0,324,52" href="/about/seeker.html" alt="Solution Seekers" title="Solution Seekers">
+<area shape="rect" coords="326,0,389,52" href="/about/press.html" alt="News and Press" title="News and Press">
+<area shape="rect" coords="391,0,454,52" href="/servlets/account/Logout.po" alt="Log Out" title="Log Out">
+</map>
+
+<map name="usemapnews">
+<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="Home">
+<area shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="InnoCentive Challenges" title="InnoCentive Challenges">
+<area shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
+<area shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My InnoCentive" title="My InnoCentive">
+<area shape="rect" coords="261,0,324,52" href="/about/seeker.html" alt="Solution Seekers" title="Solution Seekers">
+<area shape="rect" coords="326,0,389,52" href="/about/press.html" alt="News and Press" title="News and Press">
+<area shape="rect" coords="391,0,454,52" href="/servlets/account/Logout.po" alt="Log Out" title="Log Out">
+<area shape="rect" coords="326,52,389,73" href="/about/events.html" alt="Events" title="Events">
+</map>
+
+<map name="usemapregister">
+<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="Home">
+<area shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="InnoCentive Challenges" title="InnoCentive Challenges">
+<area shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
+<area shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My InnoCentive" title="My InnoCentive">
+<area shape="rect" coords="261,0,324,52" href="/about/seeker.html" alt="Solution Seekers" title="Solution Seekers">
+<area shape="rect" coords="326,0,389,52" href="/about/press.html" alt="News and Press" title="News and Press">
+<area shape="rect" coords="391,0,454,52" href="/servlets/account/Logout.po" alt="Log Out" title="Log Out">
+</map>
+
+<map name="usemapmy">
+<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="Home">
+<area shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="InnoCentive Challenges" title="InnoCentive Challenges">
+<area shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
+<area shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My InnoCentive" title="My InnoCentive">
+<area shape="rect" coords="261,0,324,52" href="/about/seeker.html" alt="Solution Seekers" title="Solution Seekers">
+<area shape="rect" coords="326,0,389,52" href="/about/press.html" alt="News and Press" title="News and Press">
+<area shape="rect" coords="391,0,454,52" href="/servlets/account/Logout.po" alt="Log Out" title="Log Out">
+</map>
+
+<map name="usemap">
+<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="Home">
+<area shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="InnoCentive Challenges" title="InnoCentive Challenges">
+<area shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
+<area shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My InnoCentive" title="My InnoCentive">
+<area shape="rect" coords="261,0,324,52" href="/about/seeker.html" alt="Solution Seekers" title="Solution Seekers">
+<area shape="rect" coords="326,0,389,52" href="/about/press.html" alt="News and Press" title="News and Press">
+<area shape="rect" coords="391,0,454,52" href="/servlets/account/Logout.po" alt="Log Out" title="Log Out">
+</map>
+
+<map name="usemaphome">
+<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="Home">
+<area shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="InnoCentive Challenges" title="InnoCentive Challenges">
+<area shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
+<area shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My InnoCentive" title="My InnoCentive">
+<area shape="rect" coords="261,0,324,52" href="/about/seeker.html" alt="Solution Seekers" title="Solution Seekers">
+<area shape="rect" coords="326,0,389,52" href="/about/press.html" alt="News and Press" title="News and Press">
+<area shape="rect" coords="391,0,454,52" href="/servlets/account/Logout.po" alt="Log Out" title="Log Out">
+<area shape="rect" coords="0,52,64,73" href="/about/index.html" alt="About" title="About">
+<area shape="rect" coords="66,52,129,73" href="/faq.html" alt="FAQ" title="FAQ">
+<area shape="rect" coords="131,52,194,73" href="/about/bios.html" alt="Management" title="Management">
+<area shape="rect" coords="196,52,259,73" href="/about/culture.html" alt="Careers" title="Careers">
+<area shape="rect" coords="261,52,324,73" href="/about/contact.html" alt="Contact" title="Contact">
+<area shape="rect" coords="326,52,389,73" href="/china/" alt="Chinese" title="Chinese">
+</map>
+
+<map name="usemaphome_about">
+<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="Home">
+<area shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="InnoCentive Challenges" title="InnoCentive Challenges">
+<area shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
+<area shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My InnoCentive" title="My InnoCentive">
+<area shape="rect" coords="261,0,324,52" href="/about/seeker.html" alt="Solution Seekers" title="Solution Seekers">
+<area shape="rect" coords="326,0,389,52" href="/about/press.html" alt="News and Press" title="News and Press">
+<area shape="rect" coords="391,0,454,52" href="/servlets/account/Logout.po" alt="Log Out" title="Log Out">
+<area shape="rect" coords="0,52,64,73" href="/about/index.html" alt="About" title="About">
+<area shape="rect" coords="66,52,129,73" href="/faq.html" alt="FAQ" title="FAQ">
+<area shape="rect" coords="131,52,194,73" href="/about/bios.html" alt="Management" title="Management">
+<area shape="rect" coords="196,52,259,73" href="/about/culture.html" alt="Careers" title="Careers">
+<area shape="rect" coords="261,52,324,73" href="/about/contact.html" alt="Contact" title="Contact">
+</map>
+
+<map name="usemapinnocentives"> 
+<area shape="rect" coords="0,0,64,52" href="/" alt="Home" title="Home">
+<area shape="rect" coords="66,0,129,52" href="/servlets/project/ProjectInfo.po" alt="InnoCentive Challenges" title="InnoCentive Challenges">
+<area shape="rect" coords="131,0,194,52" href="/servlets/account/Register.po" alt="Register" title="Register">
+<area shape="rect" coords="196,0,259,52" href="/servlets/account/WorkSpace.po" alt="My InnoCentive" title="My InnoCentive">
+<area shape="rect" coords="261,0,324,52" href="/about/seeker.html" alt="Solution Seekers" title="Solution Seekers">
+<area shape="rect" coords="326,0,389,52" href="/about/press.html" alt="News and Press" title="News and Press">
+<area shape="rect" coords="391,0,454,52" href="/servlets/account/Logout.po" alt="Log Out" title="Log Out">
+<area shape="rect" coords="66,52,129,73" href="/servlets/project/ProjectInfo.po?type=Chemistry" alt="Chemistry" title="Chemistry">
+<area shape="rect" coords="131,52,194,73" href="/servlets/project/ProjectInfo.po?type=Biology" alt="Biology" title="Biology">
+</map>
+
+
 <!-- /header -->
-
-
-
-
-
-
-
 
 
 <center>
@@ -53,7 +217,7 @@
 <br>
 
 <font face="Times New Roman, Times, serif" size="-1">
-With respect to this website, InnoCentive, LLC ("InnoCentive") will collect, store or use personally identifiable information, such as your name, address, telephone number, or e-mail address ("Your Information"), when you voluntarily submit it to us (such as through our registration page) or when we acquire such information from other sources that are publicly available.  By providing us Your Information, by accepting our Problem Solver Agreement, or by continuing to use this website, you are consenting to our gathering, use, storage and processing of Your Information and the undertaking of all of these activities in the United States with databases located in the United States. 
+With respect to this website, InnoCentive, Inc. ("InnoCentive") will collect, store or use personally identifiable information, such as your name, address, telephone number, or e-mail address ("Your Information"), when you voluntarily submit it to us (such as through our registration page) or when we acquire such information from other sources that are publicly available.  By providing us Your Information, by accepting our Problem Solver Agreement, or by continuing to use this website, you are consenting to our gathering, use, storage and processing of Your Information and the undertaking of all of these activities in the United States with databases located in the United States. 
 <br>
 <br>
 
@@ -92,7 +256,7 @@ We may update this Website Privacy Policy from time to time.  When we do update 
 <center>
 <br>
 <font face="Arial, Helvetica, sans-seriv" size="-2" color="gray">
-<a href="terms_of_use.html"><font color="gray">Terms of Use</font></a> | 
+<a href="/terms_of_use.html"><font color="gray">Terms of Use</font></a> | 
 <a href="/privacy_notice.html"><font color="gray">Privacy Notice</font></a> |  
 <a href="/copyright_notice.html"><font color="gray">Copyright Notice</font></a>
 </font>
