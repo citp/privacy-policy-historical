@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chazhound.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601144303id_/http%3A//www.chazhound.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chazhound.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214033129id_/http%3A//www.chazhound.com/privacy.html) for the most accurate reproduction.*
 
 # Chazhound's Privacy Statement
 
@@ -25,7 +25,7 @@ We monitor player traffic patterns and site usage to help us develop and enhance
 Chazhound's advertisers and other partners do not receive any specific personal information. Chazhound only provides our advertisers and other partners with aggregate information or mass information used to show trends and patterns about the visitors using our site. Our advertisers are not ever provided with access to personal information which may identify you.  
 As a member of one of our mailing lists, you will periodically receive e-mails featuring special offers and discounts managed through [PostMasterDirect.com](http://rentals.postmasterdirect.com/homepage/main?page=pledge.mhtml).  
 If for any reason you would like to cancel a mailing list membership, you may do so at any time.  
-The Dog-E-Zine is published monthly.  
+The Dog-E-Zine is published monthly from FunnyPostcard.com.  
 
 **Not accessible by visitors under 13 years old.**
     **  
@@ -43,16 +43,14 @@ If you have any questions about this privacy statement, the practices of this si
 904-241-6741  
 2\. Online at: [Chazhound Message Center](http://www.chazhound.com/mail.html)  
 
-**Conclusion**  
+ **Conclusion**  
 
 
      Chazhound makes protecting your privacy a top priority. We want you to feel safe and in total control with your experiences with us. Our goal is to entertain and educate you on everyday life issues. Thank you for your continued support.  
-[Disclosures/Disclaimers](https://web.archive.org/web/20020601144303id_/http%3A//www.chazhound.com/disclosure.html)   
+[Disclosures/Disclaimers](https://web.archive.org/web/20021214033129id_/http%3A//www.chazhound.com/disclosure.html)   
 
 
 Back
-
-© 1997-2002 Chazhound
 
 |   
 ---|---
