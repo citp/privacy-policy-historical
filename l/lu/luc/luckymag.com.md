@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckymag.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208185659id_/http%3A//www.luckymag.com/site/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckymag.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609155320id_/http%3A//www.luckymag.com/site/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: Luckymag.com Privacy Policy
 
