@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny-city.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217105351id_/http%3A//funny-city.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-city.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605040100id_/http%3A//www.funny-city.com/privacy.shtml) for the most accurate reproduction.*
 
 # Funny-City
 
