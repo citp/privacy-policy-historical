@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bet.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617025300id_/http%3A//bet.com/HELP/0%2C1821%2CC-00-xx-xx-Private%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bet.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202022000id_/http%3A//bet.com/HELP/0%2C1821%2CC-10-xx-11137%2C00.html) for the most accurate reproduction.*
 
-# BET HOME
-
-**BET.com Privacy Policy** BET.com supports a general policy of openness about personal data collection and use. We have adopted and implemented this privacy policy as part of our commitment to protecting your personal information from misuse. 
+# BET.com Privacy Policy
 
 Please be aware that other web sites that may be accessed through our site (including stores listed on BET.com) may collect personally identifiable information about you. The information practices of those web sites linked to BET.com are not covered by this privacy statement. 
 
@@ -22,7 +20,7 @@ In our role of delivering targeted advertisements, BET.com plays the middleman. 
 
 We use customer contact information from our online registration, survey, and contest and order forms for our own internal evaluation and tracking purposes and to send you information from our company and promotional material from some of our business partners (or from other companies). If you supply contact information, it may also be used to contact you about products and services in which you have indicated an interest, and may be shared with our advertisers, business partners, or other companies who may want to contact you. (Users may opt out of receiving future mailings -- see the choice/opt-out section below.) 
 
-We may use cookies to deliver to you content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. Advertisements displayed on our site may contain cookies. We do not have control over the use of information collected by advertisers on our site. For information about what the advertising traffic manager, DoubleClick, gathers from viewers of ads served by the DoubleClick network, please go to [ http://www.doubleclick.net:8080/PRIVACY_POLICY](http://www.doubleclick.net:8080/PRIVACY_POLICY). 
+We may use cookies to deliver to you content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. Advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by advertisers on our site. 
 
 BET.com may use your IP address (the number assigned to your computer while it is on the Internet) to help diagnose problems with our server, and to administer our site. If you shop on BET.com, your IP address is used to help identify your computer and your online "shopping cart" (if any) and to gather broad demographic information. In addition, your IP address is transmitted with each message sent from your account. 
 
@@ -50,33 +48,8 @@ BET.com has security measures in place to protect the loss, misuse and alteratio
 
 BET.com gives you the following options for removing your information from our database in order to stop receiving future communications from BET.com. (Please note: BET.com is not responsible for removing information from third-party lists or entities with which you have previously authorized us to share your information.) 
 
-  1. You can send email to: **[contactus@bet.com](mailto:contactus@bet.com)**
-  2. You can send mail to the following postal address:  
-**BET.com, LLC**  
-2000 M Street  
-Suite 602  
-Washington, DC 20036
-  3. You can call the following telephone number: **(202) 533-1990**
-
-**Correct/Update**
-
 BET.com gives you the following options for informing us of changes to information you have previously provided: 
 
-  1. Email **[contactus@bet.com](mailto:contactus@bet.com)**
-  2. Send mail to the following postal address:  
-**BET.com, LLC**  
-2000 M Street, NW  
-Suite 602  
-Washington, DC 20036
-  3. Call the following telephone number: **(202) 533-1990**
-
-**Contacting BET.com**
-
 If you have any questions about this privacy statement, the practices of this site, or your dealings with BET.com, please feel free to contact: 
-
-**BET.com, LLC**  
-2000 M Street, NW  
-Suite 602  
-Washington, DC 20036 
 
 Any of the policies or procedures above may be changed at any time without prior notice. Although this Privacy Policy is not a contract and does not create any legal rights, it does serve as an expression of BET.com's commitment to protecting private personal information. 
