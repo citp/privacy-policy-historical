@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytotalmoneymakeover.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604152019id_/http%3A//mytotalmoneymakeover.com/index.cfm%3FintContentID%3D268) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytotalmoneymakeover.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204060203id_/http%3A//www.mytotalmoneymakeover.com/index.cfm%3FintContentID%3D268) for the most accurate reproduction.*
 
-# www.mytotalmoneymakeover.com - Privacy Policy
+# Privacy Policy
 
 **Privacy Policy**
 
