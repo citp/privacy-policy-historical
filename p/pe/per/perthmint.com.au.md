@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610044707id_/http%3A//perthmint.com.au/gc/help/help_layout.asp%3Furl%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605023858id_/http%3A//www.perthmint.com.au/gc/help/help_layout.asp%3Furl%3D2) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 [Privacy](https://web.archive.org/gc/help/help_layout.asp?url=2)  
 [Security](https://web.archive.org/gc/help/help_layout.asp?url=2)  
 [Terms & Conditions](https://web.archive.org/gc/help/help_layout.asp?file=terms)  
-[Site Map](https://web.archive.org/gc/help/help_layout.asp?file=shop)  
+[Site Map](https://web.archive.org/gc/help/help_layout.asp?file=sitemap)  
 
 
 Contact
@@ -45,4 +45,5 @@ Information about IP addresses, web browsers, and computer operating systems are
 If you place orders on this site, information including your credit card number and contact information is of necessity collected. This information is used solely to record and fulfil your order. Credit card details are not stored on this website. Transactions are processed through the national merchant gateway authorised by the four major Australian banks. **Security**  
 Personal information provided to The Perth Mint Online Shop is encoded using Secure Sockets Layer (SSL) technology, a powerful encryption protocol that protects data as it travels over the Internet. Credit card transactions are processed using the secure EFTPOS network. For enhanced security, we recommend using the latest Netscape Navigator or Microsoft Internet Explorer browsers, which enable SSL. Make sure to set your browser's preferences to accept cookies and enable JavaScript. **Cookies**  
 Our online store uses 'cookies' to store information on the items you place in your shopping cart, and facilitate the online shopping process. Cookies are also used to provide a more efficient and dynamic service to regular customers. **Email Lists**  
-Visitors can request to join a mailing list by completing a form on this site. We maintain this list of Perth Mint Priority Members to inform them of new information on this Web site. We do not sell, rent, lease, loan, trade or otherwise divulge the addresses on our lists to third parties or any unauthorised personnel. 
+Visitors can request to join a mailing list by completing a form on this site. We maintain this list of Perth Mint Priority Members to inform them of new information on this Web site. We do not sell, rent, lease, loan, trade or otherwise divulge the addresses on our lists to third parties or any unauthorised personnel. **Spam Act 2003**  
+The Perth Mint complies with the Spam Act 2003 and best practice guidelines in relation to the contents of its commercial electronic messages. The Mint only sends e-mail advertising with each addressee's consent, includes its address and contact details in every e-mail promotion, and ensures the inclusion of a functional unsubscribe facility. 
