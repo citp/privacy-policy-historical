@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331222057id_/http%3A//www.riogrande.com/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2001-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010806220154id_/http%3A//riogrande.com/privacy_statement.cfm) for the most accurate reproduction.*
 
 # 
 
