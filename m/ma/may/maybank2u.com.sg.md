@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maybank2u.com.sg privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606155642id_/http%3A//info.maybank2u.com.sg/site_functions/security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maybank2u.com.sg privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208084731id_/http%3A//info.maybank2u.com.sg/site_functions/security.htm) for the most accurate reproduction.*
 
 # Security, Privacy & Client Charter
 
@@ -28,7 +28,7 @@ To prevent unauthorized access to our online financial service, every customer i
   * Do not choose a password that others can easily guess.
   * Do not use name, birth date, telephone numbers or words listed in the dictionary as your password.
   * Always memorize your password and do not write it down. 
-  * Change your password frequently. [Find out how >>](https://web.archive.org/web/20040606155642id_/http%3A//info.maybank2u.com.sg/banking_services/e_channels/user_guide/ib_ug_ib8.htm#pw)
+  * Change your password frequently. [Find out how >>](https://web.archive.org/web/20041208084731id_/http%3A//info.maybank2u.com.sg/banking_services/e_channels/user_guide/ib_ug_ib8.htm#pw)
   * For maximum password protection, you should practice unique password or PIN for each type of online services provided through the internet.
   * Sharing your password or PIN with another person is the same as giving that individual authority to use your name in a transaction. It should not be disclosed even if requested by an authorized Maybank Group Officer.
 
@@ -111,7 +111,7 @@ We recommend that you purchase an anti-virus software and configure it such that
 
 In addition we advise not to open any emails or diskettes from any unknown source(s) or accessing websites which you are not certain, unknown email with uncertain website would be a potential source of intrusion.   
   
-[>> SECURITY AND VIRUS ALERT! ](https://web.archive.org/web/20040606155642id_/http%3A//info.maybank2u.com.sg/highlights/virus.htm)
+[>> SECURITY AND VIRUS ALERT! ](https://web.archive.org/web/20041208084731id_/http%3A//info.maybank2u.com.sg/highlights/virus.htm)
 
 **Updating Your Browser**  
 An Internet browser allows access and the ability to navigate a myriad of information and service resources on the Internet. Most computers come with a browser already installed. 
@@ -119,7 +119,7 @@ An Internet browser allows access and the ability to navigate a myriad of inform
   * Always update your browser when new versions are released because they often include new security features. 
   * Check your browser for built-in safety features that you may or may not elect to use.
   * If you use Internet Explorer, update it to IE version 5.5 or 6.0. 
-  * You may access the lastest security patches at the following URL: [http://www.microsoft.com/windows/ie/downloads/critical](https://web.archive.org/web/20040606155642id_/http%3A//info.maybank2u.com.sg/site_functions/links/link_ie.htm)
+  * You may access the lastest security patches at the following URL: [http://www.microsoft.com/windows/ie/downloads/critical](https://web.archive.org/web/20041208084731id_/http%3A//info.maybank2u.com.sg/site_functions/links/link_ie.htm)
   * It is a good practice to always check the site certificate before login. 
 
 
