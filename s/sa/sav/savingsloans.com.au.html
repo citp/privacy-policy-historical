@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the savingsloans.com.au privacy policy that was archived on 2002-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206095131id_/http%3A//www.savingsloans.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the savingsloans.com.au privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621152131id_/http%3A//savingsloans.com.au/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Savings &amp; Loans Credit Union - Privacy</title>
@@ -173,17 +173,19 @@ function PopUpCalendar(myurl) {
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
   <tbody><tr> 
     <td valign="top"> 
+<!--
+<div id="CUYearLayer" style="position:absolute; left:280px; top:0px; width:180px; height:65px; z-index:1"><a href="news.asp?refid=68" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('cuofyear','','images/award_cuofyear_.gif',1)"><img name="cuofyear" border="0" src="images/award_cuofyear.gif" width="177" height="54" alt="Savings &amp; Loans - Australian Credit Union of the Year"></a></div>
+//-->
 
-<div id="CUYearLayer" style="position:absolute; left:274px; top:0px; width:180px; height:93px; z-index:1"><a href="news.asp?refid=68" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cuofyear','','images/award_cuofyear_.gif',1)"><img name="cuofyear" border="0" src="images/award_cuofyear.gif" width="177" height="54" alt="Savings &amp; Loans - Australian Credit Union of the Year"></a></div>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#00386E">
   <tbody><tr> 
           
-    <td width="24"><img src="images/spacer.gif" width="24" height="8"></td>
+
           <td> 
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
                 
-          <td align="left"><a name="top"></a><a href="default.asp" onmouseout="MM_swapImgRestore();window.status='';return true;" onmouseover="MM_swapImage('logo','','images/logo_.gif',1);window.status='Return to Savings &amp; Loans homepage';return true;"><img src="images/logo.gif" width="252" height="54" border="0" alt="Return to Savings &amp; Loans homepage" name="logo"></a></td>
+          <td align="left"><a href="default.asp" onmouseout="MM_swapImgRestore();window.status='';return true;" onmouseover="MM_swapImage('logo','','images/logo_.gif',1);window.status='Return to Savings &amp; Loans homepage';return true;"><img src="images/logo.gif" width="280" height="55" border="0" alt="Return to Savings &amp; Loans homepage" name="logo"></a></td>
                 <td align="right"> 
                   <table border="0" cellspacing="0" cellpadding="0">
           <form method="post" name="SearchEngine" action="search_results.asp"></form>
@@ -205,15 +207,27 @@ function PopUpCalendar(myurl) {
             </tbody></table>
           </td>
           
-    <td width="24"><img src="images/spacer.gif" width="24" height="1"></td>
+    <td width="24"><img src="images/spacer.gif" width="25" height="1"></td>
         </tr>
       </tbody></table>
 
-
+<script>
+function openPCLinkSite(myPage) {
+  RemoteWin = open(myPage, "PCLink", "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=792,height=550,left=0,top=0'")
+}
+</script>
 <nosrch>
      
 
 <script language="JavaScript"> 
+
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
 <!-- ----------------------------------------------- --
   var opnLayer = ""
   var layertimeout = ""
@@ -233,6 +247,7 @@ function showLayer(myLayer, myEvent) {
 
 function timeoutLayer(){
 	 document.getElementById(opnLayer).style.visibility = "hidden"
+	 MM_showHideLayers('FlashBanner','','show');
   	 clearTimeout(layertimeout)
 }
 
@@ -249,25 +264,36 @@ function hideLayer(myLayer, myEvent, inLayer) {
 	  if (inLayer) {
 		 if ((myEvent.pageX < myLeft) || (myEvent.pageX > (myLeft + myWidth)) || (myEvent.pageY < myTop) || (myEvent.pageY > (myTop + myHeight))) {
 		  	document.getElementById(myLayer).style.visibility = "hidden"
+			MM_showHideLayers('FlashBanner','','show');
 		 }else{
 			layertimeout=setTimeout("timeoutLayer()",3000)
 		 }
 	  }else {
   		 document.getElementById(myLayer).style.visibility = "hidden"
+		 MM_showHideLayers('FlashBanner','','show');
   	  }
   }else{
  	 var myTop = parseInt(myTop) - document.body.scrollTop
  	 if (inLayer) {
  	   if ((event.clientX < myLeft) || (event.clientX > (myLeft + myWidth)) || (event.clientY < myTop) || (event.clientY > (myTop + myHeight))) {
 		 document.getElementById(myLayer).style.visibility = "hidden"
+	     MM_showHideLayers('FlashBanner','','show');
 	   }else{
 			layertimeout=setTimeout("timeoutLayer()",3000)
 		 }
   	 } else {
 	   document.getElementById(myLayer).style.visibility = "hidden"
+	   MM_showHideLayers('FlashBanner','','show');
 	 }
   }
 }
+
+
+
+
+
+
+
 
 
 
@@ -292,9 +318,25 @@ function killLayer(){
 		  	document.getElementById(opnLayer).style.visibility = "hidden"  
 		
 		window.status=''
+ 	    MM_showHideLayers('FlashBanner','','show');
  }
 }
 
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v3.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
 
 //-- ----------------------------------------------- -->
 </script>
@@ -313,26 +355,54 @@ function killLayer(){
 -->
 </style>
 
-
-   
-<table width="100%" border="0" cellspacing="0" cellpadding="0" background="images/orange.gif" bgcolor="#FBA800">
-  <tbody><tr> 
-    <td width="20"><img src="images/orange.gif" width="20" height="30"></td>
-    <td nowrap="" width="100%" valign="bottom"><a href="#" onmouseover="showLayer('layer_aboutus', event);window.status='About Us';return true"><img src="images/1.gif" width="67" height="24" border="0"></a><img src="images/spacer.gif" width="10" height="1"><a href="#" onmouseover="showLayer('layer_loans', event);window.status='Loans';return true"><img src="images/2.gif" width="50" height="24" border="0"></a><img src="images/spacer.gif" width="11" height="1"><a href="#" onmouseover="showLayer('layer_investments', event);window.status='Savings &amp; Investments';return true"><img src="images/3.gif" width="147" height="24" border="0"></a><img src="images/spacer.gif" width="10" height="1"><a href="#" onmouseover="showLayer('layer_insurance', event);window.status='Insurance';return true"><img src="images/4.gif" width="76" height="24" border="0"></a><img src="images/spacer.gif" width="11" height="1"><a href="#" onmouseover="showLayer('layer_planning', event);window.status='Financial Planning';return true"><img src="images/5.gif" width="127" height="24" border="0"></a><img src="images/spacer.gif" width="12" height="1"><a href="#" onmouseover="showLayer('layer_visa', event);window.status='Visa';return true"><img src="images/6.gif" width="38" height="24" border="0"></a><img src="images/spacer.gif" width="13" height="1"><a href="#" onmouseover="showLayer('layer_business', event);window.status='Business';return true"><img src="images/7.gif" width="64" height="24" border="0"></a><img src="images/spacer.gif" width="16" height="1"><a href="#" onmouseover="showLayer('layer_travel', event);window.status='Travel';return true"><img src="images/8.gif" width="49" height="24" border="0"></a></td>
+<table width="100%" height="28" border="0" cellpadding="0" cellspacing="0" background="images/orange.gif">
+  <tbody><tr>
+    <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><table background="" width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td><img src="images/spacer.gif" width="20" height="2"></td>
+        </tr>
+  <tr> 
+                <td><img src="images/spacer.gif" width="20" height="28"></td>
+                <td width="100%" nowrap="" valign="bottom"><a href="#" onmouseover="showLayer('layer_aboutus', event);window.status='About Us';return true"><img src="images/1.gif" width="60" height="24" border="0"></a><img src="images/spacer.gif" width="6" height="1"><a href="#" onmouseover="showLayer('layer_loans', event);window.status='Loans';return true"><img src="images/2.gif" width="45" height="24" border="0"></a><img src="images/spacer.gif" width="6" height="8"><a href="#" onmouseover="showLayer('layer_investments', event);window.status='Savings &amp; Investments';return true"><img src="images/3.gif" width="131" height="24" border="0"></a><img src="images/spacer.gif" width="6" height="8"><a href="#" onmouseover="showLayer('layer_insurance', event);window.status='Insurance';return true"><img src="images/4.gif" width="69" height="24" border="0"></a><img src="images/spacer.gif" width="6" height="8"><a href="#" onmouseover="showLayer('layer_planning', event);MM_showHideLayers('FlashBanner','','hide');window.status='Financial Planning';return true"><img src="images/5.gif" width="113" height="24" border="0"></a><img src="images/spacer.gif" width="6" height="8"><a href="#" onmouseover="showLayer('layer_business', event);MM_showHideLayers('FlashBanner','','hide');window.status='Business';return true"><img src="images/7.gif" width="61" height="24" border="0"></a><img src="images/spacer.gif" width="6" height="8"><a href="#" onmouseover="showLayer('layer_visa', event);MM_showHideLayers('FlashBanner','','hide');window.status='Visa';return true"><img src="images/6.gif" width="103" height="24" border="0"></a><img src="images/spacer.gif" width="6" height="8"><a href="#" onmouseover="showLayer('layer_travel', event);MM_showHideLayers('FlashBanner','','hide');window.status='Travel';return true"><img src="images/8.gif" width="123" height="24" border="0"></a></td>
+  </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table></td>
   </tr>
 </tbody></table>
 
-      
-<!-- layer_insurance -->  <div id="layer_insurance" onmouseout="hideLayer('layer_insurance', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:315px; top:60; height:200px"> 
+
+<!-- layer_insurance --> 
+ 
+	<div id="layer_insurance" onmouseout="hideLayer('layer_insurance', event, true);" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:274px; top:60; height:200px"> 
  
 
-  <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='Insurance';return true" onmouseout="window.status=' '; return true"><img src="images/4_.gif" width="76" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="50" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="61" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="144"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="140" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_motor.asp" class="submenu">Motor 
+  <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> 
+            <td width="70"><a href="#" onmouseover="window.status='Insurance';return true" onmouseout="window.status=' '; return true"><img src="images/4_.gif" width="69" height="24" border="0"></a></td> 
+            <td valign="bottom" width="59"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="50" height="24" border="0"></a></td> 
+            <td valign="bottom" width="11">&nbsp;</td> 
+          </tr> <tr> 
+            <td bgcolor="#FFD77C" width="70"><img src="images/brown_pixel.gif" width="1" height="8"></td> 
+            <td valign="bottom" width="59"><img src="images/drop_verytop2.gif" width="60" height="8"></td> 
+            <td valign="bottom" width="11"><img src="images/drop_top_right.gif" width="7" height="8"></td> 
+          </tr> </tbody></table> </td> </tr> <tr> <td> 
+        <table border="0" cellspacing="0" cellpadding="0" width="135">
+          <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> 
+            <td bgcolor="#FFD77C" width="133"> 
+              <table class="menu" width="133" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C">
+                <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_motor.asp" class="submenu">Motor 
                     Vehicle</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_home.asp" class="submenu">Home 
                     &amp; Contents</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_mort.asp" class="submenu">Mortgage 
                     Repayment</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_plcraft.asp" class="submenu">Pleasure 
                     Craft</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_caravan.asp" class="submenu">Caravan</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_landlord.asp" class="submenu">Landlord 
-                    Protection</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_bus.asp" class="submenu">Business</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_mbike.asp" class="submenu">Motor 
-                    Bike</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_calc.asp" class="submenu">Calculators</a></td> </tr></tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C" width="130" background="images/drop_bottom.gif"><img src="images/drop_bottom.gif" width="130" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
+                    Protection</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_bus.asp" class="submenu">Business</a></td> </tr>  <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_calc.asp" class="submenu">Calculators</a></td> </tr></tbody></table> </td> 
+            <td width="10" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> 
+          </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> 
+            <td bgcolor="#FFD77C" width="126" background="images/drop_bottom.gif"><img src="images/drop_bottom.gif" width="126" height="8"></td> 
+            <td width="10"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
+          </tr> </tbody></table> </td> </tr> </tbody></table>  
 
 </div>
 
@@ -343,18 +413,26 @@ function killLayer(){
 	<div id="layer_aboutus" onmouseout="hideLayer('layer_aboutus', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:20px; top:60; height:200px"> 
  
 
- <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='About Us';return true" onmouseout="window.status=' '; return true"><img src="images/1_.gif" width="67" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> 
+  <table border="0" cellspacing="0" cellpadding="0" width="312">
+    <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> 
+            <td width="60"><a href="#" onmouseover="window.status='About Us';return true" onmouseout="window.status=' '; return true"><img src="images/1_.gif" width="60" height="24" border="0"></a></td> 
+            <td valign="bottom" width="73"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> 
+            <td valign="bottom" width="10">&nbsp;</td> 
+          </tr> 
  
  <tr> 
- <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> 
- <td valign="bottom"><img src="images/drop_verytop2.gif" width="70" height="8"></td> 
- <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> 
+            <td bgcolor="#FFD77C" width="60"><img src="images/brown_pixel.gif" width="1" height="8"></td> 
+            <td valign="bottom" width="73"><img src="images/drop_verytop2.gif" width="71" height="8"></td> 
+            <td valign="bottom" width="10"><img src="images/drop_top_right.gif" width="9" height="8"></td> 
+          </tr> 
  </tbody></table> </td> </tr> 
  <tr> 
  <td> 
- <table border="0" cellspacing="0" cellpadding="0" width="144"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> 
- 
- <table class="menu" width="140" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> 
+        <table border="0" cellspacing="0" cellpadding="0" width="135">
+          <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> 
+            <td bgcolor="#FFD77C" width="135"> 
+              <table class="menu" width="135" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C">
+                <tbody><tr> 
  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_ourstory.asp" class="submenu">Our 
                     Story </a></td> </tr>				
 
@@ -380,7 +458,14 @@ function killLayer(){
 				
 									<tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="talk_to_us.asp" class="submenu">Contact Us</a></td> </tr>
 				
-				</tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="130" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
+				</tbody></table> </td> 
+            <td width="10" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> 
+          </tr> </tbody></table> </td> </tr> <tr> <td> 
+        <table width="139" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> 
+            <td bgcolor="#FFD77C" width="119"><img src="images/drop_bottom.gif" width="128" height="8"></td> 
+            <td width="18"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
+          </tr> </tbody></table> </td> </tr> </tbody></table>  
 
 </div>
 
@@ -389,10 +474,31 @@ function killLayer(){
 
 <!-- layer_loans -->
 
-	<div id="layer_loans" onmouseout="hideLayer('layer_loans', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:97px; top:60; height:200px"> 
+	<div id="layer_loans" onmouseout="hideLayer('layer_loans', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:149px; left:86px; top:60; height:215px"> 
  
 
- <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='Loans';return true" onmouseout="window.status=' '; return true"><img src="images/2_.gif" width="50" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="87" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="144"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="140" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_personal.asp" class="submenu">Personal Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_home.asp" class="submenu">Home Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_equity.asp" class="submenu">Home Equity Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_invest.asp" class="submenu">Investment Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_construct.asp" class="submenu">Construction Loan </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_easyacc.asp#9" class="submenu">Mobile Sales Managers</a></td> </tr><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_calc.asp" class="submenu">Loan Calculator</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#1" class="submenu">Interest Rates </a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="130" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
+  <table border="0" cellspacing="0" cellpadding="0" width="138">
+    <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> 
+            <td width="45"><a href="#" onmouseover="window.status='Loans';return true" onmouseout="window.status=' '; return true"><img src="images/2_.gif" width="45" height="24" border="0"></a></td> 
+            <td valign="bottom" width="85"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> 
+            <td valign="bottom" width="10">&nbsp;</td> 
+          </tr> <tr> 
+            <td bgcolor="#FFD77C" width="45"><img src="images/brown_pixel.gif" width="1" height="8"></td> 
+            <td valign="bottom" width="85"><img src="images/drop_verytop2.gif" width="86" height="8"></td> 
+            <td valign="bottom" width="10"><img src="images/drop_top_right.gif" width="7" height="8"></td> 
+          </tr> </tbody></table> </td> </tr> <tr> <td> 
+        <table border="0" cellspacing="0" cellpadding="0" width="136">
+          <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> 
+            <td bgcolor="#FFD77C" width="134"> 
+              <table class="menu" width="134" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C">
+                <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_personal.asp" class="submenu">Personal Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_home.asp" class="submenu">Home Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_equity.asp" class="submenu">Home Equity Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_invest.asp" class="submenu">Investment Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_construct.asp" class="submenu">Construction Loan </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_easyacc.asp#9" class="submenu">Mobile Sales</a></td> </tr><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#1" class="submenu">Interest Rates </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_calc.asp" class="submenu">Loan Calculator</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="visa_card.asp" class="submenu">VISA</a></td> </tr></tbody></table> </td> 
+            <td width="10" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> 
+          </tr> </tbody></table> </td> </tr> <tr> <td> 
+        <table width="137" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> 
+            <td bgcolor="#FFD77C" width="127"><img src="images/drop_bottom.gif" width="127" height="8"></td> 
+            <td width="10"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
+          </tr> </tbody></table> </td> </tr> </tbody></table>  
 
 </div>
 
@@ -400,12 +506,24 @@ function killLayer(){
 
 <!-- layer_investments -->
 
-	<div id="layer_investments" onmouseout="hideLayer('layer_investments', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:149px; left:158px; top:60; height:150px"> 
+	<div id="layer_investments" onmouseout="hideLayer('layer_investments', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:149px; left:137px; top:60; height:150px"> 
  
 
- <table border="0" cellspacing="0" cellpadding="0" width="147"> <tbody><tr align="right"> <td> <table width="149" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td colspan="3"><a href="#" onmouseover="window.status='Savings &amp; Investments';return true" onmouseout="window.status=' '; return true"><img src="images/3_.gif" width="147" height="24" border="0"></a></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="149"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="145" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td><img src="images/spacer.gif" width="3" height="1"></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_accounts.asp" class="submenu">Savings 
-                    Accounts </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_invest.asp" class="submenu">Investments</a></td> </tr>  <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_calculators.asp" class="submenu">Calculators</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#2" class="submenu">Interest 
-                    Rates </a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="149" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="136" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
+ <table border="0" cellspacing="0" cellpadding="0" width="147"> <tbody><tr align="right"> <td> <table width="149" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> 
+            <td colspan="3"><a href="#" onmouseover="window.status='Savings &amp; Investments';return true" onmouseout="window.status=' '; return true"><img src="images/3_.gif" width="131" height="24" border="0"></a><img src="images/drop_top_right_qa2.gif" width="2" height="15"></td>
+          </tr> </tbody></table> </td> </tr> <tr> <td> 
+        <table border="0" cellspacing="0" cellpadding="0" width="133">
+          <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> 
+            <td bgcolor="#FFD77C" width="127"> 
+              <table class="menu" width="129" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C">
+                <tbody><tr> <td><img src="images/spacer.gif" width="3" height="1"></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_accounts.asp" class="submenu">Savings 
+                    Accounts </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_invest.asp" class="submenu">Investments</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#2" class="submenu">Interest 
+                    Rates </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_calculators.asp" class="submenu">Calculators</a></td> </tr> </tbody></table> </td> 
+            <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> 
+          </tr> </tbody></table> </td> </tr> <tr> <td> <table width="149" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> 
+            <td bgcolor="#FFD77C" width="121"><img src="images/drop_bottom.gif" width="122" height="8"></td> 
+            <td width="21" align="left"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
+          </tr> </tbody></table> </td> </tr> </tbody></table>  
 
 </div>
 
@@ -413,117 +531,285 @@ function killLayer(){
 
 <!-- layer_planning -->
 
-	<div id="layer_planning" onmouseout="hideLayer('layer_planning', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:185px; left:402px; top:60; height:175px"> 
+	<div id="layer_planning" onmouseout="hideLayer('layer_planning', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:185px; left:349px; top:60; height:175px"> 
  
 
- <table border="0" cellspacing="0" cellpadding="0" width="180"> <tbody><tr align="left"> <td> <table width="180" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='Financial Planning';return true" onmouseout="window.status=' '; return true"><img src="images/5_.gif" width="127" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="45" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="50" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="184"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="180" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_short.asp" class="submenu">Short 
-                    Term Investments</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_long.asp" class="submenu">Long 
-                    Term Investments</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_super.asp" class="submenu">Superannuation</a></td> </tr><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_pension.asp" class="submenu">Pension &amp; Annuities</a></td> </tr><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_insurance.asp" class="submenu">Insurance</a></td> </tr> <!--<tr> <td class="menu"  onMouseOver="this.className='menuover'" onMouseOut="this.className='menu'"><a href="finance_calc.asp" class="submenu">Financial 
-                    Planning Calculator</a></td> </tr>--> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_planners.asp" class="submenu">Our 
-                    Advisors </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_links.asp" class="submenu">Links 
-                    </a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="170" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>
+  <table border="0" cellspacing="0" cellpadding="0" width="169">
+    <tbody><tr align="left"> <td> <table width="180" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> 
+            <td width="113"><a href="#" onmouseover="window.status='Financial Planning';return true" onmouseout="window.status=' '; return true"><img src="images/5_.gif" width="113" height="24" border="0"></a></td> 
+            <td valign="bottom" width="47"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="50" height="24" border="0"></a></td> 
+            <td valign="bottom" width="15">&nbsp;</td> 
+          </tr> <tr> 
+            <td bgcolor="#FFD77C" width="113"><img src="images/brown_pixel.gif" width="1" height="8"></td> 
+            <td valign="bottom" width="47"><img src="images/drop_verytop2.gif" width="56" height="8"></td> 
+            <td valign="bottom" width="15"><img src="images/drop_top_right.gif" width="7" height="8"></td> 
+          </tr> </tbody></table> </td> </tr> <tr> 
+      <td> 
+        <table border="0" cellspacing="0" cellpadding="0" width="176">
+          <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> 
+            <td bgcolor="#FFD77C" width="168"> 
+              <table class="menu" width="172" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C">
+                <tbody><tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_short.asp" class="submenu">Short 
+                    Term Investments</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_long.asp" class="submenu">Long 
+                    Term Investments</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_super.asp" class="submenu">Superannuation</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_pension.asp" class="submenu">Pension 
+                    &amp; Annuities</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_insurance.asp" class="submenu">Insurance</a></td>
+                </tr>
+                <!--<tr> <td class="menu"  onMouseOver="this.className='menuover'" onMouseOut="this.className='menu'"><a href="finance_calc.asp" class="submenu">Financial 
+                    Planning Calculator</a></td> </tr>-->
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_planners.asp" class="submenu">Our 
+                    Advisors </a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_links.asp" class="submenu">Links 
+                    </a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_calculators.asp" class="submenu">Calculators</a></td>
+                </tr>
+              </tbody></table> </td> 
+            <td width="10" bgcolor="#000000"> <img src="images/spacer.gif" width="1" height="1"></td> 
+          </tr> </tbody></table> 
+      </td>
+    </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> 
+            <td bgcolor="#FFD77C" width="158"><img src="images/drop_bottom.gif" width="165" height="8"></td> 
+            <td width="14"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
+          </tr> </tbody></table> </td> </tr> </tbody></table>
 
 </div>
 
 
 
-<!-- layer_visa -->
+<!-- layer_memberBenefits -->
 
-	<div id="layer_visa" onmouseout="hideLayer('layer_visa', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:100px; left:541px; top:60; height:100px"> 
- 
+	<div id="layer_visa" onmouseout="hideLayer('layer_visa', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:100px; left:535px; top:60; height:125px"> 
 
-
-
- <table border="0" cellspacing="0" cellpadding="0" width="95"> <tbody><tr align="left"> <td> <table border="0" cellspacing="0" width="95" cellpadding="0"> <tbody><tr> 
-            <td><a href="#" onmouseover="window.status='Visa';return true" onmouseout="window.status=' '; return true"><img src="images/6_.gif" width="38" height="24" border="0"></a></td> 
-            <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="30" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="50" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="95"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="90" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="visa_card.asp" class="submenu">Card Options</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#3" class="submenu">Interest Rates</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="95" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="82" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
-
-
-
-
-
+  <table border="0" cellspacing="0" cellpadding="0" width="119">
+    <tbody><tr align="right"> 
+      <td align="left"> 
+        <table width="119" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td colspan="3"><a href="#" onmouseover="window.status='Visa';return true" onmouseout="window.status=' '; return true"><img src="images/6_.gif" width="103" height="24" border="0"></a><img src="images/drop_top_right_qa2.gif" width="2" height="15"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <table border="0" cellspacing="0" cellpadding="0" width="105">
+          <tbody><tr> 
+            <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td>
+            <td bgcolor="#FFD77C" width="99"> 
+              <table class="menu" width="101" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C">
+                <tbody><tr> 
+                  <td><img src="images/spacer.gif" width="3" height="1"></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_overview.asp" class="submenu">Introduction</a></td>
+                </tr>
+				<tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_specials.asp" class="submenu">Special 
+                    Offers</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_wineclub.asp" class="submenu">Wine Club</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="travel_mem.asp" class="submenu">Travel</a></td>
+                </tr>
+                
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_competitions.asp" class="submenu">Competitions</a></td>
+                </tr>
+              </tbody></table>
+            </td>
+            <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <table width="121" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr valign="top"> 
+            <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td>
+            <td bgcolor="#FFD77C" width="93"><img src="images/drop_bottom.gif" width="94" height="8"></td>
+            <td width="21" align="left"><img src="images/drop_bot_right.gif" width="5" height="8"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+  
 </div>
-
 
 <!-- layer_business -->
+<div id="layer_business" onmouseout="hideLayer('layer_business', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:145px; left:468px; top:60; height:155px"> 
 
-	<div id="layer_business" onmouseout="hideLayer('layer_business', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:145px; left:592px; top:60; height:155px"> 
- 
-
- <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='Business';return true" onmouseout="window.status=' '; return true"><img src="images/7_.gif" width="64" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="73" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="144"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="140" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="bus_trans.asp" class="submenu">Transaction 
-                    Accounts </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="bus_secure.asp" class="submenu">Secured 
-                    Loans </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="bus_merch.asp" class="submenu">Merchant 
-                    Facilities </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#4" class="submenu">Interest 
-                    Rates </a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="130" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
-
+  <table border="0" cellspacing="0" cellpadding="0" width="139">
+    <tbody><tr align="left"> 
+      <td> 
+        <table width="140" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td><a href="#" onmouseover="window.status='Business';return true" onmouseout="window.status=' '; return true"><img src="images/7_.gif" width="61" height="24" border="0"></a></td>
+            <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td>
+            <td valign="bottom">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td>
+            <td valign="bottom"><img src="images/drop_verytop2.gif" width="73" height="8"></td>
+            <td valign="bottom"><img src="images/drop_top_right.gif" width="7" height="8"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <table border="0" cellspacing="0" cellpadding="0" width="140">
+          <tbody><tr> 
+            <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td>
+            <td bgcolor="#FFD77C" width="138"> 
+              <table class="menu" width="137" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C">
+                <tbody><tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="bus_trans.asp" class="submenu">Transaction 
+                    Accounts </a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="bus_secure.asp" class="submenu">Secured 
+                    Loans </a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="bus_merch.asp" class="submenu">Merchant 
+                    Facilities </a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#4" class="submenu">Interest 
+                    Rates </a></td>
+                </tr>
+              </tbody></table>
+            </td>
+            <td width="10" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <table width="140" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr valign="top"> 
+            <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td>
+            <td bgcolor="#FFD77C" width="123"><img src="images/drop_bottom.gif" width="130" height="8"></td>
+            <td width="11"><img src="images/drop_bot_right.gif" width="5" height="8"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+  
 </div>
 
+<!-- layer_QuestionsAndAnswers -->
+<div id="layer_travel" onmouseout="hideLayer('layer_travel', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:125px; left:644px; top:60; height:155px"> 
 
-
-<!-- layer_travel -->
-
-	<div id="layer_travel" onmouseout="hideLayer('layer_travel', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:125px; left:604px; top:60; height:155px"> 
- 
-
- <table border="0" cellspacing="0" cellpadding="0" width="120"> <tbody><tr align="right"> <td> <table width="120" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td>&nbsp;</td> <td valign="bottom" align="right"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="window.status='Travel';return true" onmouseout="window.status=' '; return true"><img src="images/8_.gif" width="49" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td><img src="images/drop_top_left2.gif" width="6" height="8"></td> <td><img src="images/drop_verytop2.gif" width="62" height="8"></td> <td valign="bottom" bgcolor="#FFD77C"><img src="images/spacer.gif" width="1" height="1"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="120"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="120" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="travel_spec.asp" class="submenu">Current Specials</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="travel_mem.asp" class="submenu">Member Benefits</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="travel_location.asp" class="submenu">Travel Centres</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="120" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="110" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>
-
-
-</div>
- 
-</nosrch> 
-      
+  <table border="0" cellspacing="0" cellpadding="0" width="119">
+    <tbody><tr align="right"> 
+      <td align="left"><table width="119" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td colspan="3"><a href="#" onmouseover="window.status='Visa';return true" onmouseout="window.status=' '; return true"><img src="images/8_.gif" width="123" height="24" border="0"></a></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <tr> 
+      <td><table border="0" cellspacing="0" cellpadding="0" width="125">
+          <tbody><tr> 
+            <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td>
+            <td bgcolor="#FFD77C" width="99" valign="top">
+              <table class="menu" width="121" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C">
+                <tbody><tr> 
+                  <td><img src="images/spacer.gif" width="3" height="1"></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="qa_overview.asp" class="submenu">Introduction</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="qa_faq.asp" class="submenu">FAQ</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="qa_quickpoll.asp" class="submenu">QuickPoll 
+                    results</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="qa_contact.asp" class="submenu">Ask 
+                    Us</a></td>
+                </tr>
+              </tbody></table>
+            </td>
+            <td width="1" bgcolor="#000000"><img src="images/spacer.gif" width="3" height="1"></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <tr> 
+      <td><table width="121" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr valign="top"> 
+            <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td>
+            <td bgcolor="#FFD77C" width="93"><img src="images/drop_bottom.gif" width="114" height="8"></td>
+            <td width="21" align="left"><img src="images/drop_bot_right.gif" width="5" height="8"></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+  </tbody></table>
+  <p>
+    
+  </p>
+  </div>
+</nosrch>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#DBDBDB">
   <tbody><tr> 
-    <td><img src="images/spacer.gif" width="28" height="8"><img src="images/home_banking_bar.gif" width="85" height="32" alt="Home Banking"> 
-    </td>
-    <td width="100%" valign="middle">
-	
-	  <table border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr valign="top"> 
-          <td> <a href="javascript:openSite9();" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('pclink','','images/bar_pclink_.gif',1);window.status='Internet Banking';return true"><img src="images/bar_pclink.gif" width="82" height="22" border="0" name="pclink" alt="Internet Banking"></a> 
-          </td>
-          <td> <img src="images/spacer.gif" width="4" height="1"> </td>
-          <td><script>
-function openPCLinkSite(myPage) {
-  RemoteWin = open(myPage, "PCLink", "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=792,height=550,left=0,top=0'")
-}
-</script>
-            <a href="bank_pclink.asp#4" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('Image1','','images/bar_demo_.gif',1);window.status='Take PCLink for a spin';return true"><img src="images/bar_demo.gif" width="82" height="22" border="0" name="Image1" alt="Take PCLink for a spin"></a> 
-          </td>
-          <td> <img src="images/spacer.gif" width="4" height="1"> </td>
-          <td> <a href="bank_telelink.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('bpay','','images/bar_bpay_.gif',1);window.status='Phone Banking - 13 11 82';return true"><img src="images/bar_bpay.gif" width="82" height="22" border="0" name="bpay" alt="Phone Banking - 13 11 82"></a> 
-          </td>
-          <td> <img src="images/spacer.gif" width="4" height="1"> </td>
-          <td> <a href="bank.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('users','','images/bar_newusers_.gif',1);window.status='New Users - register now';return true"><img src="images/bar_newusers.gif" width="82" height="22" border="0" name="users" alt="New Users - register now"></a> 
-          </td>
-        </tr></tbody></table>
-	
-	
-	</td>
-    
-	
-	<td align="right" nowrap="" valign="middle"><a href="default.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('home','','images/button_homepage_.gif',1);window.status='Return to Homepage';return true;"><img src="images/button_homepage.gif" width="92" height="21" border="0" alt="Return to Homepage" name="home"></a><img src="images/spacer.gif" width="4" height="1" border="0"><a href="talk_to_us.asp" onmouseout="MM_swapImgRestore();window.status='';return true;" onmouseover="MM_swapImage('talk','','images/but_talktous_.gif',1);window.status='Talk to Us';return true;"><img src="images/but_talktous.gif" width="92" height="21" border="0" alt="Contact Us" name="talk"></a></td>
-    <td width="37"><img src="images/spacer.gif" width="37" height="1"></td>
+    <td>&nbsp; </td>
+    <td width="28" valign="middle"><img src="images/spacer.gif" width="21" height="8" align="absmiddle"></td>
+    <td width="85" valign="middle"><img src="images/home_banking_bar.gif" width="85" height="32" alt="Home Banking"></td>
+    <td width="82" valign="middle"><a href="javascript:openSite9();" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('pclink','','images/bar_pclink_.gif',1);window.status='Internet Banking';return true"><img src="images/bar_pclink.gif" width="82" height="22" border="0" name="pclink" alt="Internet Banking"></a></td>
+    <td width="4" valign="middle"><img src="images/spacer.gif" width="4" height="1"></td>
+    <td width="82" valign="middle"><a href="bank_pclink.asp#4" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('Image1','','images/bar_demo_.gif',1);window.status='Take PCLink for a spin';return true"><img src="images/bar_demo.gif" width="82" height="22" border="0" name="Image1" alt="Take PCLink for a spin"></a></td>
+    <td width="4" valign="middle"><img src="images/spacer.gif" width="4" height="1"></td>
+    <td width="82" valign="middle"><a href="bank_telelink.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('bpay','','images/bar_bpay_.gif',1);window.status='Phone Banking - 13 11 82';return true"><img src="images/bar_bpay.gif" width="82" height="22" border="0" name="bpay" alt="Phone Banking - 13 11 82"></a></td>
+    <td width="4" valign="middle"><img src="images/spacer.gif" width="4" height="1"></td>
+    <td width="82" valign="middle"><a href="bank.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('users','','images/bar_newusers_.gif',1);window.status='New Users - register now';return true"><img src="images/bar_newusers.gif" width="82" height="22" border="0" name="users" alt="New Users - register now"></a></td>
+    <td width="100%" valign="middle">&nbsp; </td>
+    <td align="right" nowrap="" valign="middle"><a href="default.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('home','','images/button_homepage_.gif',1);window.status='Return to Homepage';return true;"><img src="images/button_homepage.gif" width="92" height="21" border="0" alt="Return to Homepage" name="home"></a><img src="images/spacer.gif" width="4" height="1" border="0"><a href="talk_to_us.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('talk','','images/but_talktous_.gif',1);window.status='Talk to Us';return true;"><img src="images/but_talktous.gif" width="92" height="21" border="0" alt="Contact Us" name="talk"></a></td>
+    <td width="28"><img src="images/spacer.gif" width="25" height="8" border="0"></td>
   </tr>
   <tr> 
-    <td bgcolor="B4B4B4" colspan="4"><img src="images/spacer.gif" width="1" height="1"></td>
+    <td bgcolor="B4B4B4" colspan="13"><img src="images/spacer.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
-
 
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr valign="top"> 
           <td width="158" align="right"><img src="images/spacer.gif" width="1" height="35"></td>
-          <td width="42">&nbsp;</td>
-          <td><b><img src="images/spacer.gif" width="1" height="35"></b></td>
+          <td width="25"><img src="images/spacer.gif" width="25" height="1" border="0"></td>
+          <td><img src="images/spacer.gif" width="1" height="35"></td>
           <td width="30"></td>
           <td width="125">&nbsp;</td>
           <td width="37">&nbsp;</td>
         </tr>
         <tr valign="top"> 
-          <td width="158" align="right"><img src="images/spacer.gif" width="150" height="1"></td>
-          <td width="42"><img src="images/spacer.gif" width="42" height="1"></td>
-          <td class="text">
+          <td width="158" align="right"><img src="images/spacer.gif" width="150" height="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td width="25"><img src="images/spacer.gif" width="25" height="1" border="0"></td>
+          <td class="text" valign="top">
             <p class="heading"><a name="1"></a>Privacy and Security</p>
             <p>Your use of the Savings &amp; Loans Credit Union (S.A.) Ltd ('Savings 
               &amp; Loans Credit Union') website is governed by the Website Privacy 
