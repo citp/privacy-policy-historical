@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207125601id_/http%3A//www.planetrugby.com/Home/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204002208id_/http%3A//www.planetrugby.com/Home/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Rugby news, results, fixtures and features from Planet-Rugby.com
 
