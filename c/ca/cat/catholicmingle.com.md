@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catholicmingle.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618075831id_/http%3A//www.catholicmingle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicmingle.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206203126id_/http%3A//www.catholicmingle.com/privacy.html) for the most accurate reproduction.*
 
-# CATHOLIC SINGLES MINGLE: Online Catholic Dating Services & Personals Network - 2004-06-18
+# CATHOLIC SINGLES MINGLE: Online Catholic Dating Services & Personals Network - 2004-12-06
 
 Privacy Policy
 
@@ -46,8 +46,9 @@ CatholicMingle.com provides users the following options for modifying informatio
 3\. You can send mail to the following postal address: 
 
 Catholic Mingle  
-P.O. Box 867  
-Orem, UT 84057-0867
+P.O. Box 739  
+Orem, UT 84059-0739  
+U.S.A.
 
 **Email Choice/Opt-out**  
 CatholicMingle.com users may use the following options if they do not wish to receive future communications.   
@@ -64,7 +65,8 @@ If we are going to use your personally identifiable information in a manner diff
 If you have any questions about this privacy statement, the practices of this site, or your dealings with the CatholicMingle.com website, you can contact: 
 
 Catholic Mingle  
-P.O. Box 867  
-Orem, UT 84057-0867
+P.O. Box 739  
+Orem, UT 84059-0739  
+U.S.A.
 
 Or, send email via the [contact form](https://web.archive.org/contact.html) on the site. 
