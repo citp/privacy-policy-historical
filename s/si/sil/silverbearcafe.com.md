@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverbearcafe.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209074201id_/http%3A//www.silverbearcafe.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverbearcafe.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603081220id_/http%3A//silverbearcafe.com/privacy_statement.html) for the most accurate reproduction.*
 
 # The Silver Bear Cafe Privacy Statement
 
