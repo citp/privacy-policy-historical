@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the ifilm.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802041246id_/http%3A//www.ifilm.com/db/static_text/0%2C1699%2C7000%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifilm.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601115359id_/http%3A//ifilm.com/about/privacy_policy.jsp) for the most accurate reproduction.*
 
 # IFILM
 
-|   
+  |    
+Online Privacy Policy For The IFILM Network  
+ _Updated as of April 1, 2001_
 
-
-ONLINE PRIVACY STATEMENT  
-FOR THE  
-IFILM NETWORK   
-(UPDATED AS OF APRIL 1, 2001)
-
-IFILM Corp. ("IFILM") is committed to respecting the privacy rights of all visitors to the IFILM Network. For purposes of this Online Privacy Statement, the term "IFILM Network" means any and all of IFILM's web sites, including, without limitation, [ www.ifilm.net](https://web.archive.org/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Eifilm%2Enet), [ www.ifilm.com](https://web.archive.org/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Eifilm%2Ecom), [ www.ifilmpro.com](https://web.archive.org/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Eifilmpro%2Ecom), [ www.scriptshark.com](https://web.archive.org/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Escriptshark%2Ecom), [ www.hcdonline.com](https://web.archive.org/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Ehcdonline%2Ecom), [ www.loneeagle.com](https://web.archive.org/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Etvtracker%2Ecom), as well as any other web sites that may now or hereafter contain an authorized IFILM branded area or window, wholly controlled by IFILM. The following policy describes how IFILM protects information it receives from visitors to the IFILM Network, and provides additional information of interest to the parents of children who may visit us. 
+IFILM Corp. ("IFILM") is committed to respecting the privacy rights of all visitors to the IFILM Network. For purposes of this Online Privacy Statement, the term "IFILM Network" means any and all of IFILM's web sites, including, without limitation, [ www.ifilm.net](http://www.ifilm.net/), [www.ifilm.com](https://web.archive.org/), [www.ifilmpro.com](http://www.ifilmpro.com/), [www.scriptshark.com](http://www.scriptshark.com/), [www.hcdonline.com](http://www.hcdonline.com/), [www.loneeagle.com](http://www.tvtracker.com/), as well as any other web sites that may now or hereafter contain an authorized IFILM branded area or window, wholly controlled by IFILM. The following policy describes how IFILM protects information it receives from visitors to the IFILM Network, and provides additional information of interest to the parents of children who may visit us. 
 
 _What information does IFILM collect and how does IFILM use it?_
 
@@ -68,7 +64,7 @@ In an attempt to provide increased value to our visitors, IFILM may choose vario
 
 IFILM's special note to parents
 
-IFILM realizes that many children will visit IFILM Network on the Internet, and IFILM therefore encourages parents and guardians to spend time online with their children, to participate in the interactive activities offered online, and for children to consult with their parents before submitting any information to any web site, including the IFILM Network. No information should be submitted to or posted on the IFILM Network by guests under 18 years of age without the consent and supervision of their parent or guardian. Although guests under 18 years of age may be allowed, with their parent permission and supervision, to participate in noted contests, if such a guest wins, notification and prizes are sent to the parents or guardian. However, IFILM believes that it is ultimately the parents' responsibility to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the [ Direct Marketing Association home page](https://web.archive.org/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Ethe%2Ddma%2Eorg).
+IFILM realizes that many children will visit IFILM Network on the Internet, and IFILM therefore encourages parents and guardians to spend time online with their children, to participate in the interactive activities offered online, and for children to consult with their parents before submitting any information to any web site, including the IFILM Network. No information should be submitted to or posted on the IFILM Network by guests under 18 years of age without the consent and supervision of their parent or guardian. Although guests under 18 years of age may be allowed, with their parent permission and supervision, to participate in noted contests, if such a guest wins, notification and prizes are sent to the parents or guardian. However, IFILM believes that it is ultimately the parents' responsibility to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the [ Direct Marketing Association home page](https://web.archive.org/web/20030601115359id_/http%3A//ifilm.com/about/\[CURL%20/db/redirect).
 
 Terms of Service
 
@@ -78,6 +74,7 @@ _Your consent_
 
 By using the IFILM Network, you consent to the collection and use of this information by IFILM. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-|  |   
+|  |    
   
----|---|---
+  
+
