@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the people.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018053605id_/http%3A//people.aol.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the people.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608174201id_/http%3A//people.aol.com/people/policy.html) for the most accurate reproduction.*
 
 # Uniform Time Warner Online Privacy Policy
 
@@ -7,7 +7,7 @@
 _Time Warner Online Privacy Notice_
 
 **  
-Thank you for visiting People.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](https://web.archive.org/web/20001012045448id_/http://people.aol.com/r0/shopping/null/out?http://www.pathfinder.com/legal/titles.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice.
+Thank you for visiting People.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](https://web.archive.org/web/20010608174201id_/http%3A//people.aol.com/r0/shopping/null/out?http://www.pathfinder.com/legal/titles.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice.
 
 **_The Information We Collect_**
 
