@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215102822id_/http%3A//www.bikereg.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405124749id_/http%3A//www.bikereg.com/Privacy.asp) for the most accurate reproduction.*
 
-# BikeReg.com - About
+# BikeReg.com - online event registration
 
 BikeReg.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BikeReg.com. 
 
@@ -36,7 +36,7 @@ Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
-For removing information from our database to not receive future communications or to no longer receive our service, you can send email to info@bikereg.com.
+For removing information from our database to not receive future communications or to no longer receive our service, you can send email to info@BikeReg.com.
 
 Correct/Update
 
@@ -48,8 +48,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Customer Service  
 BikeReg.com  
-97 East Street  
-Easthampton, MA 01027  
-info@bikereg.com  
+2 Linden Street  
+Northampton, MA 01060  
+info@BikeReg.com  
 (413) 674-0004 
 
