@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the ucomics.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202053400id_/http%3A//www.ucomics.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucomics.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602082223id_/http%3A//www.ucomics.com/legal/privacy.htm) for the most accurate reproduction.*
 
-# Welcome to uComics -- uComics Network Privacy Policy
+# Welcome to uComics -- The Best Comic Site In The Universe!
+
+| 
+
+**uclick Network Privacy Policies**
+
+  
+ _Last Updated 03/21/2001_ | 
 
 uComics.com (uclick, LLC) is a general audience entertainment site dedicated to providing the Internet-using public with the most complete and enjoyable online comic viewing experience. uComics is also concerned about your privacy and we encourage you to read our Privacy Policy to learn all about how we use information about visitors to our Web site(s). 
 
@@ -84,4 +91,7 @@ Attn: Children's Privacy
 Kansas City, MO 64105
 
 816-300-6500  
-[childprivacy@ucomics.com](mailto:childprivacy@ucomics.com) or [webmaster@ucomics.com](mailto:webmaster@ucomics.com)
+or [webmaster@ucomics.com](mailto:webmaster@ucomics.com)
+
+|    
+
