@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205010800id_/http%3A//ezthemes.iboost.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608052757id_/http%3A//ezthemes.subportal.com/pcenhance/privacy.phtml) for the most accurate reproduction.*
 
-# Privacy Statement - EZthemes
+# EZthemes - The software download site
 
 ## Privacy Statement for EZthemes
 
-MozlSoft has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EZthemes. 
+We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EZthemes. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to save your password so you don't have to re-enter it each time you visit our site. 
 
@@ -27,15 +27,9 @@ This site contains links to other sites. EZthemes is not responsible for the pri
 
 PostMasterDirect, an opt-in mailing list maintenance company - Your name and/or email are NEVER passed on to this company unless you SPECIFICALLY request to be added though the DESIGNATED PostMasterDirect signup page 
 
-Flycast. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
-
-EveryOne.net, who provide our users with FREE EMAIL. 
-
 **Your name and/or email are NEVER passed on to these companies unless you SPECIFICALLY request to be added though the DESIGNATED signup pages**
 
 From time to time some of our advertising partners may request your email address or other personal information. Please refer to their privacy policy for their specific use of this information). 
-
-Our online surveys is anonymous and never ask visitors for contact information (like their email address). However our newsletter does require this information. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 ## Security
 
@@ -60,6 +54,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Steve Mosley MozlSoft 4802 East Ray Road PMB 23144 Phoenix, AZ, 85044 [steve@mozlsoft.com](mailto:support@ezthemes.com)
-
-* * *
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact iBoost Technology Inc. 11135 Magnolia Boulevard Suite #110 North Hollywood, CA 91601 Tel:(818) 769-2414 Fax: (818) 769-5265 [privacy@iboost.com](mailto:privacy@iboost.com)
