@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2001-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010209125419id_/http%3A//www.vcu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208175426id_/http%3A//www.vcu.edu/privacy.html) for the most accurate reproduction.*
 
 # VCU Web Privacy Statement
 
 Effective Date: January 1, 2001
 
-The following discloses the information gathering and dissemination practices of official Virginia Commonwealth University (VCU) web pages (defined as Institutional Web Pages in the [**VCU Web Publishing Guidelines**](https://web.archive.org/web/20010209125419id_/http%3A//www.vcu.edu/guidelines/)) and is in accordance with the following statement.
+The following discloses the information gathering and dissemination practices of official Virginia Commonwealth University (VCU) web pages (defined as Institutional Web Pages in the [**VCU Web Publishing Guidelines**](https://web.archive.org/web/20021208175426id_/http%3A//www.vcu.edu/guidelines/index.html)) and is in accordance with the following statement.
 
 > _It is the policy of the Commonwealth of Virginia that personal information about citizens will be collected only to the extent necessary to provide the service or benefit desired; that only appropriate information will be collected; that the citizen shall understand the reason the information is collected and be able to examine their personal record which is maintained by a public body._
 
