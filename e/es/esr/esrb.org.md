@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the esrb.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esrb.org privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/privacy_statement.asp) for the most accurate reproduction.*
 
 # ESRB - Privacy Statement
 
   
-[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/index.asp)  
-[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/esrbratings.asp)  
-[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/privacy.asp)  
-[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/arc.asp)  
-[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/about.asp)  
-[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/publisher/index.asp)  
-[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/retailer/index.asp)  
+[](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/index.asp)  
+[](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/esrbratings.asp)  
+[](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/privacy.asp)  
+[](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/arc.asp)  
+[](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/about.asp)  
+[](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/publisher/index.asp)  
+[](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/retailer/index.asp)  
 [](https://web.archive.org/consumer_online_hotline.asp)  
 |  |  |   
 ---|---|---  
@@ -24,7 +24,7 @@ Enter E-Mail Address:
   
 
 
-_April 4, 2003_
+_Last updated on January 12, 2004_
 
 Welcome. The Entertainment Software Rating Board ("ESRB") would like to thank you for visiting our website. We are pleased to have the opportunity to help make the Internet a secure, private, and reliable place to share information and conduct business. This privacy policy explains how we collect and use information from our website visitors. All of ESRB's divisions prescribe to essentially the same information collection and use practices, and all of these practices are stated in this privacy policy. If a practice is specific to a particular ESRB division, this policy will describe that practice in detail and refer directly to the appropriate division (the divisions will be referred to as either: "the Rating Board"; "ESRB Privacy Online"; "ESRB interactive"; or "Advertising Review Council"). If a practice is consistent among all of the divisions, this policy will refer to "ESRB" as a whole.
 
@@ -67,7 +67,7 @@ Back to Top
 
 What types of information does ESRB collect and how will it be used? 
 
-ESRB only collects information on a voluntary basis. The personal information ESRB collects is used almost exclusively for communications purposes and will usually take the form of: (1) ESRB Privacy Online's company registration form; (2) ESRB Privacy Online's Sentinel Consumer Online-Hotline; (3) a consumer complaint or inquiry directed to the Rating Board; (4) an ESRB survey; (5) ESRB Privacy Online's Privacy Statement Composer; (6) ESRB's newsletter; (7) Retailer Information and Request Form; and/or, (8) other general information contained in an email (e.g., comments). The types of information that may be requested for each activity and the way the information may be used are detailed below.  
+ESRB only collects information on a voluntary basis. The personal information ESRB collects is used almost exclusively for communications purposes and will usually take the form of: (1) ESRB Privacy Online's company registration form; (2) ESRB Privacy Online's Sentinel Consumer Online-Hotline; (3) a consumer complaint or inquiry directed to the Rating Board; (4) an ESRB survey; (5) ESRB Privacy Online's Privacy Statement Composer; (6) ESRB's newsletter; (7) Retailer Information and Request Form; (8) general information contained in an email (e.g., comments), and/or, (9) resume submissions. The types of information that may be requested for each activity and the way the information may be used are detailed below.  
 
 
   * **ESRB Privacy Online Company Registration**  
@@ -87,7 +87,10 @@ Visitors who wish to subscribe to the ESRB newsletter will be asked to provide t
 Retailers who wish to have access to the retailer portion of our website or receive updates regarding ESRB's ongoing outreach efforts will be asked to submit their company name, the number of stores operated by such company, and contact information such as contact name, mailing address, phone number, and e-mail address. This information will be stored for purposes of developing a relationship with retailers and helping them educate consumers about the ESRB rating system. Retailers who order collateral materials (e.g., brochures, posters, etc.) through our site may be asked for shipping information.
   *  **General Information Contained in Email**  
 ESRB's website provides a number of links through which an online visitor can e-mail us. ESRB collects personal information contained in the e-mail for the purpose of responding to a consumer's questions and/or comments.
+  *  **Resume Submissions**  
+From time to time, we may post on our website job openings at the ESRB and provide an e-mail address to which interested applicants can submit their resume. Although we can assure you that any personal information contained in a resume will be used solely for its intended purpose (i.e., to evaluate the applicant’s qualifications), such information is not subject to this Privacy Policy. 
 
+  
 
 
 No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.
@@ -109,7 +112,7 @@ Back to Top
 Does ESRB use cookies, track IP addresses or use other passive means to collect information?
 
   * **Cookies**  
-ESRB does not use cookies on its website. A "cookie" is a small file or record-keeping device that websites often store on a user's computer.
+ESRB uses cookies in the password protected areas of its website. These areas currently include the publisher and retailer sections of our site. A "cookie" is a small file or record-keeping device that websites often store on a user's computer. We use cookies to save publishers and retailers the time required to enter username and password every time they visit their password protected section. We do not use cookies to collect personal information such as your name or to link them to personal information already collected about you. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.
   *  **IP Addresses**  
 ESRB may collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
@@ -148,7 +151,7 @@ Back to Top
 
 Can I choose how my personal information is used?
 
-If you wish to opt-out from receiving our newsletter or any other communication, please contact us, at any time, via e-mail at [privacyinfo@esrb.org](mailto:privacyinfo@esrb.org), or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022. We will be happy to honor your request.
+If you wish to opt-out from receiving our newsletter or any other communication, please contact us, at any time, via e-mail at [privacyinfo@esrb.org](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/privacy_statement_email.asp?subType=0), or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022. We will be happy to honor your request.
 
 Back to Top
 
@@ -157,7 +160,7 @@ Back to Top
 
 How can I access my personal information?
 
-If you wish to review, update, or delete any personal information that we may have collected about you, please contact us via e-mail at [privacyinfo@esrb.org](mailto:privacyinfo@esrb.org), or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022.
+If you wish to review, update, or delete any personal information that we may have collected about you, please contact us via e-mail at [privacyinfo@esrb.org](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/privacy_statement_email.asp?subType=1), or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022.
 
 Back to Top
 
@@ -175,7 +178,7 @@ Back to Top
 
 How do I ask a question or file a complaint?
 
-If you have any questions, complaints or comments regarding our privacy policy or practices, please contact us via email at [privacyinfo@esrb.org](mailto:privacyinfo@esrb.org), or by regular mail at:
+If you have any questions, complaints or comments regarding our privacy policy or practices, please contact us via email at [privacyinfo@esrb.org](https://web.archive.org/web/20040609112846id_/http%3A//esrb.org/privacy_statement_email.asp?subType=2), or by regular mail at:
 
 ESRB  
 845 Third Avenue, 14th Floor  
