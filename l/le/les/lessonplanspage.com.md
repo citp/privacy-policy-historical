@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211160610id_/http%3A//www.lessonplanspage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604092859id_/http%3A//lessonplanspage.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for The Lesson Plans Page
-
-  
-
 
 **PRIVACY POLICY SUMMARY:**  
 The Lesson Plans Page respects your privacy and will not do anything in violation of your privacy. No personally identifiable information is collected by LessonPlansPage.com. You have the opportunity to subscribe your email address to our newsletter. If you do, your email address will never be given to any third party. You're welcome to read the details of our privacy policy below: 
