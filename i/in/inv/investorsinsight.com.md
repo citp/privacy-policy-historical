@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207094427id_/http%3A//investorsinsight.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306201003id_/http%3A//www.investorsinsight.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # InvestorsInsight.com
 
