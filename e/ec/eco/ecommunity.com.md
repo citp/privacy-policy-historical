@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406091932id_/http%3A//www.ecommunity.com/npp.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2004-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041107013608id_/http%3A//www.ecommunity.com/npp.pdf) for the most accurate reproduction.*
 
 # COMMUNITY HOSPITALS of INDIANA,INC.and THE INDIANA HEART HOSPITALNOTICE OF PRIVACY PRACTICESTHIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DIS-CLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.PLEASE REVIEW IT CAREFULLY.
 
