@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmc.edu privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210132557id_/http%3A//www.edmc.edu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmc.edu privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403221036id_/http%3A//www.edmc.edu/privacy.shtml) for the most accurate reproduction.*
 
 # EDMC - Privacy Policy
 
