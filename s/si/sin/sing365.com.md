@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sing365.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816193646id_/http%3A//sing365.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sing365.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603125810id_/http%3A//sing365.com/privacy.html) for the most accurate reproduction.*
 
 # Sing365.com , The largest lyric database around the rould
 
@@ -15,6 +15,4 @@ Here's how it works. When you are first served an ad by sing365.com, the adverti
 
 While we believe that cookies enhance your Web experience by limiting the repetitiveness of advertising and increasing the level of relevant content on the Web, they are not essential for us to continue our leadership position in Web advertising. If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature.
 
-_sing365.com works with a third party that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to[ http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html)._
-
-[ ](http://apps.flycast.com/webkit/main.cgi?2901512)
+This site, Your Lyrics Search Engine, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy](http://www.engage.com/privacy).
