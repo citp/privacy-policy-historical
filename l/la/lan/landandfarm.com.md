@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202013600id_/http%3A//www.landandfarm.com/About/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608053936id_/http%3A//www.landandfarm.com/About/privacy.html) for the most accurate reproduction.*
 
 # TheEquator.com - Privacy Page
 
@@ -29,4 +29,4 @@ TheEquator.com may use cookies to help improve our service and also improve a us
 TheEquator.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [webmaster@TheEquator.com](mailto:webmaster@TheEquator.com).  
 
 
-Click here to return to the page you just left [**TheEquator.com Home Page**](http://www.landandfarm.com/) **|[Buy](https://web.archive.org/web/20001202013600id_/http%3A//www.landandfarm.com/Buy) | [Sell](https://web.archive.org/web/20001202013600id_/http%3A//www.landandfarm.com/Sell)**  
+Click here to return to the page you just left [**TheEquator.com Home Page**](http://www.landandfarm.com/) **|[Buy](https://web.archive.org/web/20010608053936id_/http%3A//www.landandfarm.com/Buy) | [Sell](https://web.archive.org/web/20010608053936id_/http%3A//www.landandfarm.com/Sell)**  
