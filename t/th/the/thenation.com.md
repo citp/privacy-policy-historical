@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610000940id_/http%3A//thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102706id_/http%3A//thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
 
 # About The Nation
 
@@ -72,7 +72,7 @@ Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor.
 
-You can remove yourself from our e-mailNation newsletter at anytime by following the instructions at the bottom of each e-mailNation newsletter, or by [following this link](http://laser.sparklist.com/scripts/lyris.pl?enter=emailnation) and following the instructions provided. Note: You do not need to enter a password. 
+You can remove yourself from our e-mailNation newsletter at anytime by following the instructions at the bottom of each e-mailNation newsletter, or by [following this link](http://nationmag.sparklist.com/scripts/lyris.pl?enter=emailnation) and following the instructions provided. Note: You do not need to enter a password. 
 
 To opt-out of any promotional e-mail, based on information you provided to this website, fill out [this form](https://web.archive.org/contact/priv). 
 
