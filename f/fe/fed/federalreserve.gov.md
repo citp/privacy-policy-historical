@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214102400id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606155802id_/http%3A//federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # Federal Reserve Board: Privacy Policy
 
@@ -42,4 +42,4 @@ Although questions, comments, and other communications that we receive generally
 For the security of our site and to ensure that the site remains available to all users, the Board employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. See the Board's [Disclaimer](https://web.archive.org/disclaimer.htm) for additional information on this issue. 
 
 **How to Contact Us about the Web Site**   
-If you have a question about the way your information is used in connection with this Web site or about the Board's privacy policy and information practices, you may send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551, or send a [Privacy Policy Comment](https://web.archive.org/web/20001214102400id_/http%3A//www.federalreserve.gov/privacy.cfm). 
+If you have a question about the way your information is used in connection with this Web site or about the Board's privacy policy and information practices, you may send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551, or send a [Privacy Policy Comment](https://web.archive.org/web/20010606155802id_/http%3A//federalreserve.gov/privacy.cfm). 
