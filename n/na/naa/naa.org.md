@@ -1,28 +1,10 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603043958id_/http%3A//www.naa.org/DocPage.cfm%3FDID%3DPRV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213174108id_/http%3A//naa.org/docpage.cfm%3FDID%3DPRV) for the most accurate reproduction.*
 
-# NAA
+# NAA: Privacy Policy
 
-  
-|  |   
----|---  
-|   
-|   
-|   
-|   
-|   
-|   
-[](https://web.archive.org/web/20040603043958id_/http%3A//www.naa.org/InfoFor.cfm?IID=1000) |   
-[](http://www.naa.org/classified/index.html) |   
-[](http://www.newspaperlinks.com/home.cfm) |   
-[](http://www.naa.org/vendorlinks/index.asp) |   
-[](https://web.archive.org/web/20040603043958id_/http%3A//www.naa.org/NAAIndex.cfm) |   
-|   
-|   
-  
-[  
-HOME](https://web.archive.org/web/20040603043958id_/http%3A//www.naa.org/index.cfm) -> Privacy Policy 
+## » Privacy Policy
 
-## Online Privacy and Child-Protection Policy
+**Online Privacy and Child-Protection Policy**
 
 This is the World Wide Web site of the Newspaper Association of America, 1921 Gallows Road, Suite 600, Vienna, Va. 22182-3900. NAA can be reached by e-mail at [webmaster@naa.org](mailto:webmaster@naa.org) and by telephone at (703) 902-1600.
 
@@ -40,9 +22,4 @@ Prior parental consent is not required for NAA to accept personal information fr
 
 NAA's Web site contains links to many other sites. However, we are not responsible for the content or the privacy practices employed by other sites.
 
-Questions or concerns regarding what is done with information provided via this site should be directed to [webmaster@naa.org](mailto:webmaster@naa.org) before any information is submitted
-
-|   |    
-|  |  |    
-  
----
+Questions or concerns regarding what is done with information provided via this site should be directed to [webmaster@naa.org](mailto:webmaster@naa.org) before any information is submitted.
