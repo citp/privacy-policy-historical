@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kktv.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409182316id_/http%3A//kktv.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D7%26subtopicintid%3D156) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kktv.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021154532id_/http%3A//kktv.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D7%26subtopicintid%3D156) for the most accurate reproduction.*
 
 # Welcome to KKTV
 
