@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridalottery.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202214557id_/http%3A//www.flalottery.com/lottery/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridalottery.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622083625id_/http%3A//www.flalottery.com/lottery/privacy.shtml) for the most accurate reproduction.*
 
 # Florida Lottery Internet Privacy Policy
 
@@ -11,7 +11,5 @@ In addition, information is only gathered regarding the volume and timing of acc
 Certain features on flalottery.com require the use of cookies for functionality. Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies make the web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard, and many major web sites use them to provide interactive features for their customers. Cookies in and of themselves do not personally identify users, although they do identify users' computers when they visit a web site that uses them. Most browsers are set to accept cookies by default. If you'd prefer, you can set yours to refuse cookies; however, you may not be able to take full advantage of all the features on flalottery.com if you do so. 
 
 If you choose to share personal information with flalottery.com, for example, by sending a message to our ASKLOTT account, the information may be saved for a designated period of time in order to comply with the state of Florida's archiving policies; however, information will not be disclosed to third parties or other government agencies unless required by state or federal law. 
-
-The flalottery.com Internet Privacy Policy may be amended from time to time. In the interest of keeping our web customers informed, any changes to our Internet Privacy Policy will be noted in the "[What's New!](https://web.archive.org/web/20031202214557id_/http%3A//www.flalottery.com/lottery/updates.html)" section of our web site. 
 
 If you have other questions about flalottery.com privacy policies, or have suggestions on how these policies can be improved, please feel free to e-mail us at [asklott@flalottery.com](mailto:asklott@flalottery.com) or contact us by telephone at (850) 487-7777. 
