@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604014429id_/http%3A//www.geico.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211025045id_/http%3A//www.geico.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to GEICO Direct® The Sensible Alternative, Privacy Policy
 
@@ -36,7 +36,7 @@ We may also share your Information for other permitted purposes, including:
 **ADDITIONAL INFORMATION FOR OUR WEB SITE USERS  
 ** GEICO collects information in three categories when you visit our Web site. GEICO stores information collected by general browsing, when you request a quotation, and when you request policyholder service transactions in a secure environment behind our firewall.
 
-> If you are using a security-enabled web browser such as Microsoft Internet Explorer 2.0 or better, or Netscape Navigator 2.0 or better, the information you send to us is encrypted. We use an industry standard Secure Socket Layer to allow for encryption of sensitive personal information such as name, address, credit card or bank account information you have been requested to provide on-line.
+> If you are using a security-enabled web browser such as Microsoft Internet Explorer 2.0 or better, or Netscape Navigator 2.0 or better, the information you send to us is encrypted. We use an industry standard Secure Socket Layer to allow for encryption of sensitive personal information such as name, address, credit card or bank account information you have been requested to provide on-line. 
 
 GEICO may place a small text file called a "cookie", on your computer's hard-drive to identify you when you return to our web site. No personal information is stored in the cookie.
 
