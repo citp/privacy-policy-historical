@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoom-in.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215915id_/http%3A//zoom-in.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoom-in.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204081505id_/http%3A//www.zoom-in.com/about/privacy.html) for the most accurate reproduction.*
 
 # Magnet Media Privacy Policy
 
