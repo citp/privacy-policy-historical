@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630081516id_/http%3A//www2.weta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206093246id_/http%3A//weta.org/privacy.html) for the most accurate reproduction.*
 
 # WETA - Online Privacy Policy
 
@@ -77,4 +77,5 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 [Privacy Policy](https://web.archive.org/privacy.html) | [Terms & Conditions](https://web.archive.org/terms.html) | [Site Map](https://web.archive.org/sitemap.html)
 
-© Copyright 1996-2003, GWETA.
+  
+
