@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the irsg.org privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irsg.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/privacy_policy.htm) for the most accurate reproduction.*
 
 # IRSG -- Privacy Policy
 
-[](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/index.htm)  
-[](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/executive_summary.htm)  
-[](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/industry_principles_principles.htm)  
-[](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/white_paper.htm)  
-[](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/irsg_members.htm)  
-[](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/3rd_party_assessments.htm)  
-[](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/criteria.htm)  
+[](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/index.htm)  
+[](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/executive_summary.htm)  
+[](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/industry_principles_principles.htm)  
+[](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/white_paper.htm)  
+[](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/irsg_members.htm)  
+[](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/3rd_party_assessments.htm)  
+[](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/criteria.htm)  
 [  
-](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/contact_irsg.htm)[](http://www.ftc.gov/bcp/privacy/wkshp97/irsdoc1.htm)  
-[](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/media_coverage.htm)  
-[](https://web.archive.org/web/20020607223153id_/http%3A//irsg.org/html/credits.htm)  
+](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/contact_irsg.htm)[](http://www.ftc.gov/bcp/privacy/wkshp97/irsdoc1.htm)  
+[](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/media_coverage.htm)  
+[](https://web.archive.org/web/20021208185004id_/http%3A//www.irsg.org/html/credits.htm)  
 
 
 |  **PRIVACY POLICY**
