@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the mlspin.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202181938id_/http%3A//mlspin.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlspin.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607054303id_/http%3A//mlspin.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# MLS PIN - Rules & Regulations
+# MLS Property Information Network - Privacy Policy
 
-**Internet Privacy Policy**
+  
+Internet Privacy Policy 
 
 * * *
 
@@ -46,4 +47,4 @@ MLS Property Information Network, Inc
 904 Hartford Turnpike   
 Shrewsbury, MA 01545 
 
-[**_webmaster@mlspin.com_**](mailto:webmaster@mlspin.com)
+[webmaster@mlspin.com](mailto:webmaster@mlspin.com)
