@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ntrs.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813002710id_/http%3A//ntrs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntrs.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609190313id_/http%3A//www.ntrs.com/privacy.html) for the most accurate reproduction.*
 
 # Consumer Privacy Principles
 
-Consumer Privacy Notice
+|  Consumer Privacy Notice
 
 Privacy at Northern Trust - Keeping Your Finances a Private Matter
 
@@ -42,9 +42,8 @@ This privacy notice applies to all the Northern Trust affiliates listed below. I
 
   * The Northern Trust Company *****
   * Northern Trust Securities, Inc.
-  * Northern Trust Bank of Arizona N.A. *****
+  * Northern Trust Bank, N.A. *****
   * Northern Trust Bank of California N.A. *****
-  * Northern Trust Bank of Colorado*
   * Northern Trust Bank of Florida N.A. *****
   * Northern Trust Bank of Texas N.A. *****
   * Northern Trust Bank, FSB *****
@@ -55,4 +54,6 @@ This privacy notice applies to all the Northern Trust affiliates listed below. I
 
 
 
-***Member FDIC**
+***Member FDIC**  
+  
+---|---
