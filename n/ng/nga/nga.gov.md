@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nga.gov privacy policy that was archived on 2000-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001023065012id_/http%3A//www.nga.gov/xio/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nga.gov privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410035500id_/http%3A//nga.gov/xio/privacy.htm) for the most accurate reproduction.*
 
 # National Gallery of Art - Privacy Policy
 
