@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1911encyclopedia.org privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627012136id_/http%3A//lovetoknow.com/lovetoknow-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1911encyclopedia.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207034645id_/http%3A//lovetoknow.com/lovetoknow-privacy-policy.htm) for the most accurate reproduction.*
 
 # LoveToKnow Privacy Policy
 
