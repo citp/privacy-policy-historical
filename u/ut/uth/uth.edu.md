@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uth.edu privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622043339id_/http%3A//www.uthouston.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uth.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204224259id_/http%3A//www.uthouston.edu/privacy.htm) for the most accurate reproduction.*
 
 # INTERNET PRIVACY POLICY
 
