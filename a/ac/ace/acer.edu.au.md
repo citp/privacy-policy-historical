@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2003-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030405160922id_/http%3A//www.acer.edu.au/acer/documents/ACER_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2003-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030914161352id_/http%3A//www.acer.edu.au/acer/documents/ACER_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # ACER Privacy Policy
 
@@ -142,5 +142,5 @@ The Australian Council for Educational Research Limited
 19 Prospect Hill Road
 Camberwell
 Victoria
-Australia 3134
+Australia 3124
 Or e-mail moore@acer.edu.au
