@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kait8.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616115050id_/http%3A//www.kait8.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kait8.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215111356id_/http%3A//kait8.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Station’s Privacy Policy
 
