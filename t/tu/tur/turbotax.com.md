@@ -1,81 +1,118 @@
-> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204090500id_/http%3A//www.turbotax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622134247id_/http%3A//turbotax.com/privacy/index.html) for the most accurate reproduction.*
 
-# Intuit Privacy Policy
+# 
 
-|    
-TurboTax.com and Quicken TurboTax for the Web Privacy Statement 
+TurboTax.com and TurboTax for the Web Privacy Statement
 
-[](https://www.truste.org/validate/8258)At Intuit, we dedicate ourselves to revolutionizing the way individuals and small businesses manage their financial lives. In that effort, we respect and protect the privacy of those who visit or use our Web sites. We want you to know how your information is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. Intuit is a Premier Sponsor of TRUSTe and a member of the TRUSTe Privacy Program. 
+At Intuit, we dedicate ourselves to revolutionizing the way individuals manage their financial lives and small businesses manage their business. In that effort, we respect and protect the privacy of those who visit or use our Web sites. When we collect information from you, we want you to know how it is used.  To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. Intuit is a Premier Sponsor of TRUSTe and a member of the TRUSTe Privacy Program. 
 
-This privacy statement defines privacy aspects specific to the TurboTax.com and TurboTaxWeb.com Web sites and affiliated Intuit Web servers (referred to as the "TurboTax Web sites"). It serves as an adjunct to the [Intuit Online Privacy Policy](http://privacy.intuit.com/policies), which represents our general privacy philosophy and governs all of our Web sites. The TurboTax Web sites' privacy practices are consistent and compliant with that policy. 
+This Privacy Statement defines privacy aspects specific to the TurboTax.com, TurboTaxWeb.com, and TurboTax.Intuit.com Web sites and affiliated Intuit Web servers (referred to as the “TurboTax Web sites”).   Please read this Statement in conjunction with the Intuit Online Privacy Policy, which represents our general privacy philosophy and governs all of our Web sites.  You may also want to read the Quicken.com Privacy Statement, which defines privacy aspects specific to the Quicken.com web site.   The TurboTax Web sites’ privacy practices are consistent and compliant with the Intuit Online Privacy Policy.
 
-The Sites carry third party advertisers, and provide links to third party Web sites. Intuit is not responsible for the actions of those parties. You should review their privacy policies to learn more about what, why and how they collect and use personally identifiable information. 
+Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we do not knowingly attempt to solicit or receive any information from children. 
 
-Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we don't knowingly attempt to solicit or receive any information from children. 
+Our Philosophy and Practices 
 
-Our Philosophy and Practices
+At Intuit, we want you to feel comfortable and confident when using this Web site.  Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site:
 
-We want to give you the comfort and confidence you need to fully participate in our online offerings so that we can better serve your needs. Therefore, here are the principles governing our information practices and other privacy aspects of our Web site: 
-
-  * We provide you notice of our Web site information practices.
-  * We give you choices about how the personally identifiable information that you provide us may be used.
-  * We let you update or correct the personally identifiable information that you provide us.
-  * We work to protect personally identifiable information from loss, misuse and unauthorized alteration.
-  * We provide various ways for you to contact us about our information practices and other privacy aspects.
+  * We provide you notice of our Web site information practices . 
+  * We tell you how and why we use Web technologies.
+  * We give you choices about how the personally identifiable information that you provide to us may be used.
+  * We provide you with the opportunity to update or correct the personally identifiable information you provide to us. 
+  * We work to protect personally identifiable information from loss, misuse, or unauthorized alteration.
+  * We provide various ways for you to contact us about our information practices and other aspects of privacy.
 
 
 
-**WE PROVIDE YOU NOTICE OF OUR WEB SITE INFORMATION PRACTICES.**   
-To maximize the value of our services, we may request information from you when you visit our Web sites. When we collect information from you, we'll tell you what is being collected, how it is collected, by whom it is being collected, why it is being collected and to whom it may be disclosed. 
+We provide you notice of our Web site information practices.
 
-Here is how and why we collect and use information from you: 
+To maximize the value of our services, we may request information from you when you visit our Web sites or purchase or register our products or services. 
 
-  * **Preparation and Electronic Filing of Tax Returns**. You may use Quicken TurboTax for the Web or Quicken TurboTax EZ for the Web products to assist you with the preparation and electronic filing of your tax return. "Tax return information" is information provided by a taxpayer that is used to prepare a tax return with these TurboTax Web products. 
+**Here is a description of the information we collect and how it is used:**
 
-Intuit uses all tax return information including demographic information only in accordance with applicable laws to provide the online tax preparation, electronic filing or other services you have requested. Except as required to provide you with the products or services that you desire or as you otherwise consent or direct, Intuit does not disclose tax return information to third parties, nor does it use tax return information to market other Intuit or third parties' products or services. 
+**Preparation and Electronic Filing of Tax Returns**.  You may use TurboTax for the Web Basic, TurboTax for the Web Deluxe, TurboTax for the Web Premier, TurboTax for the Web Premier Home & Business, TurboTax for the Web 1040EZ, TurboTax for the Web State, and TurboTax for the Web 1040EZ State, to assist you with the online preparation and electronic filing of your tax return (referred to as the “TurboTax for the Web products”).  "Tax return information" is information provided by a taxpayer that is used to prepare a tax return with the TurboTax for the Web products. 
 
-As a method for detecting fraud in tax information transmitted via the Internet, the Internal Revenue Service (IRS) requires Intuit to provide to the IRS, in connection with the electronic filing of tax returns, the Internet Protocol (IP) address of the computer from which the return originated. We are also required to notify the IRS whether the e-mail address of the person electronically filing the return has been collected. 
+Intuit uses tax return information, only in accordance with applicable laws to provide the online tax preparation, electronic filing or other services you have requested.  Except as required by law or to provide you with the products or services that you specifically request or consent to, Intuit does not disclose tax return information to third parties, nor does it use tax return information to market other Intuit or third parties’ products or services.
 
-  * **Order and Payment Information**. We gather contact and payment information from you to process your order. This information may include name, address, phone and e-mail address and as payment is required, credit card information. We may use your contact information to notify you of important product updates, significant tax law changes or promotional opportunities. 
-  * **Tax Estimator**. Information entered into the Tax Estimator is used solely to provide you with tax estimates. It does not collect personally identifiable information, and the information that you provide is neither saved nor transferred to any other party. 
-  * **Contests and Surveys**. From time to time, we may offer you the option to participate in contests or surveys. If you would like to participate, we may ask you for contact information, preferences, or other information. This information may be used to conduct research, improve our offerings, or award prizes. Our contests may have separate rules and we will identify how the information that you supply will be used in each case. 
-  * **Mandatory and Optional Information**. We identify the information that is necessary to fulfill your request. Whenever we ask for additional or optional information, we identify those fields appropriately so that you know what is required to provide the requested service. A decision to provide incomplete information in the preparation of a tax return, for example, will preclude the full and proper use of the TurboTax Web products. You cannot complete and file a tax return using Intuit's online tax products if you do not identify yourself, although you do not have to identify yourself to just try out the product. 
+As a method for detecting fraud in tax information transmitted via the Internet, the Internal Revenue Service (IRS) requires Intuit to provide to the IRS, in connection with the electronic filing of tax returns, the Internet Protocol (IP) address of the computer from which the return originated.  We are also required to notify the IRS whether the e-mail address of the person electronically filing the return has been collected.
 
+**Electronic Filing.**   As an approved transmitter of electronically filed federal and state income tax returns, we follow stringent security guidelines to protect the security and privacy of your data.  Electronically filed tax returns are encrypted during transmission to us. When transmitting your tax return, we use the most secure transmission technology supported by the IRS and by state tax filing agencies.  To provide customer technical support when troubleshooting e-filing related problems, such as acknowledgements or rejected returns, we may ask you to resubmit your tax return to us. 
 
+**Instant Data Entry**.  Instant Data Entry allows you to automatically retrieve and enter tax information from sources such as participating employers, brokerages, payroll companies, mortgage companies, and mutual fund companies, directly into the correct forms in the TurboTax for the Web products.  When you download information from such tax data providers, you will be required to enter authentication information such as your user name, account number and/or password.  The TurboTax for the Web products use this information solely for the purpose of providing authentication to the tax data provider. 
 
-**HOW WE USE WEB TECHNOLOGY:**   
-Here is how and why we use some common Web technologies to help manage our Web site: 
+**Order and Payment Information**.  We gather contact and payment information from you to process your order. This information may include name, address, phone and e-mail address and, as payment is required, credit card information. We do not share your information with outside companies for their promotional use.  On occasion, however, we may use your contact information to notify you of important product updates, significant tax law changes, or promotional opportunities about these or other Intuit products.  If you do not wish to receive these notices, you may opt out during the information collection process or by visiting https://privacy.intuit.com.   We do not share your credit card information with third parties except to process payment for the service you are requesting. 
 
-  * **Cookies**. A "cookie" is a small piece of information that our Web sites may provide to your browser while you are at our site. If you are a registered user on the TurboTax Web sites, you will receive a cookie when you login. This cookie is maintained by your browser and contains your identifier. This cookie is also used to authenticate your identity and provide you with access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. Advertising networks that serve ads on this Web site may assign different cookies to you. Those cookies may be used to track your involvement with the advertising on our site. You may choose not to accept these cookies. Intuit does not control those parties. You should review their privacy policies to learn more about what, why and how they collect and use private information. If you have questions about our ad serving networks, please contact us at [privacy@intuit.com](https://orderupdate.intuit.com/record.asp?topic=privacy). 
-  * **Web Site Usage Data**. With or without cookies, our Web site keeps track of usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data to better understand Web site usage in the aggregate so that we know what areas of our Web site users prefer. This information is stored in log files and is used for aggregated and statistical reporting. This log information is not linked to personally identifiable information gathered elsewhere on the site. 
-  * **Co-branded and Third-Party Sites**. Our co-branded sites are clearly identified by both an Intuit and a partner's logo. The TurboTax Web sites may provide links to third-party Web sites, such as those of our business partners and online advertisers. On these sites either Intuit or its partners may collect information about you. Intuit is not responsible for the actions of these third parties. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personally identifiable information. 
+**Credit Card Payments.   **If you would like to pay your federal balance due by credit card, the IRS requires your name, Social Security Number, and balance due.  If you select the credit card payment option, including credit card payment through electronic filing, you are giving your consent for the TurboTax for the Web federal product to gather this information from your tax return and transmit it securely to our credit card payment partner.  Our partner uses this information solely to process payment of your federal taxes.  If you don’t want this information transmitted to our credit card payment partner, we recommend payment by check. You may also be requested to provide your contact information, such as your e-mail address and phone number, which may be used to contact you if there is a question about your payment.
 
+**Tax Calculators.**   Information entered into the Tax Calculators (e.g., Tax Estimator calculator) is used solely to provide you with estimates of various tax situations.  The Tax Calculators do not link the information entered with personally identifiable information.  Unless otherwise noted in the calculator description or instructions, once you close the tool, none of the information used in these calculations is saved. 
 
+**Tax Planner**. Information entered into the Tax Planner section (e.g., Life Events planner) of the TurboTax for the Web products is used solely to provide you with “what if” tax estimates. This information is stored behind a firewall and remains on Intuit’s servers and is not sent to the IRS or anyone else.
 
-If we plan to make significant changes to any of our privacy policies or practices with respect to how we use personally identifiable information, we'll post those changes to this privacy statement 30 days before they take effect. In some cases we may be required to disclose certain information to comply with a legal process, such as a court order, subpoena or search warrant. 
+**Bank Products.   **You can choose to apply for bank products, including a "refund anticipation loan" (Quick Cash Loan) or “refund transfer”.  These bank products are offered by our partner, Santa Barbara Bank & Trust (SBBT).  When you apply for a refund anticipation loan or refund transfer you are authorizing Intuit to disclose your personal and tax return information to SBBT.  Additionally, you should consult the applicable bank product application to understand how SBBT will use this information including: the processing and underwriting of your application; collecting outstanding balances on any unpaid refund anticipation loans; and, detecting, preventing and reporting fraud.
 
-**WE GIVE YOU CHOICES ABOUT HOW THE PERSONALLY IDENTIFIABLE INFORMATION THAT YOU PROVIDE US MAY BE USED.**   
-We'll give you the opportunity to keep us from using or sharing the personally identifiable information that you have provided to us for purposes other than to fulfill your request. We will provide you the opportunity to opt-out of secondary uses of personally identifiable information you provide us, whenever we gather it. Simply notify us by calling TurboTax Customer Service at 800-335-4651. 
+**Purchase of Products and Services with Tax Refund.** You may purchase certain Intuit products and services and those of our partners, with the TurboTax for the Web products, by using your tax refund.  Intuit collects personally identifiable information to process your order.  We request certain contact information, including your shipping address name, address, phone number and e-mail address.  When you purchase those products and services that are offered by our partners, you are authorizing Intuit to disclose your customer information to our partners.  We encourage you to review our partner’s privacy policies to learn more about what, why and how they collect, use, and store personally identifiable information. 
 
-**WE LET YOU UPDATE OR CORRECT THE PERSONALLY IDENTIFIABLE INFORMATION THAT YOU PROVIDE US.**   
-We provide you the opportunity to update or correct the contact and tax return information that you have provided to us. The tax return information and personally identifiable information collected through this site is contained in tax returns and in product registration information. Once you have completed a tax return using a TurboTax Web product and directed that it be electronically filed, you cannot change the information in it because the tax return has become a legal record of your tax filing. 
+If you have provided an e-mail address, an e-mail confirmation of your order will be sent after your refund is funded by the IRS.  Except as required by law or to provide you with the products or services that you specifically request or consent to, Intuit does not disclose tax return information to third parties, nor does it use tax return information to market other Intuit or third parties’ products or services.
 
-With respect to changing personal information gathered during the product registration process, you may call TurboTax Customer Service at 800-335-4651 to update personal contact information. 
+**Professional Tax Review.   **You can choose to have your tax return reviewed by a certified tax professional.  This service is offered by our partner, TaxResources, Inc. ("TRI").  When you agree to have your tax return reviewed by a certified tax professional, you are authorizing Intuit to transmit your tax return to TRI.  You should consult the TRI Privacy Statement to understand how TRI will use this information.
 
-**WE WORK TO PROTECT PERSONALLY IDENTIFIABLE INFORMATION FROM LOSS, MISUSE AND UNAUTHORIZED ALTERATION.**   
-We employ industry recognized security safeguards to help protect the personally identifiable information that you have provided to us from loss, misuse and unauthorized alteration. Whenever you transmit sensitive information, such as a credit card number, to us through our Web site, we provide you access to our servers that allows encryption of your data as it is transmitted across the Internet. 
+Except as required by law or to provide you with the products or services that you specifically request or consent to, Intuit does not disclose tax return information to third parties, nor does it use tax return information to market other Intuit or third parties’ products or services. 
 
-We work to protect personally identifiable information stored on the site's servers from unauthorized access using commercially available computer security products, such as firewalls, as well as carefully developed security procedures and practices. All employees must review and sign these practices which include limiting access to sensitive information only to those employees who require the information and enforcing strict password protocols for all employees. 
+**More on our general information practices.**
 
-In addition, a username and password are required for you to use, view or change (prior to electronic filing) tax return information in the TurboTax Web Products. We use both internal and external resources to review the adequacy of our security measures on a regular basis. 
+**Contests, Sweepstakes, and Surveys**. From time to time, we may offer you the option to participate in contests, sweepstakes or surveys.  If you would like to participate, we may ask you for contact information, preferences, or other information. This information may be used to conduct research, improve our offerings, or award prizes.  Our contests or sweepstakes may have separate rules and we will identify how the information that you supply will be used in each case.
 
-**WE PROVIDE VARIOUS WAYS TO CONTACT US ABOUT OUR INFORMATION PRACTICES AND OTHER PRIVACY ASPECTS.**   
-Questions regarding the TurboTax Web sites' privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites should be directed to us at [privacy@intuit.com](https://orderupdate.intuit.com/record.asp?topic=privacy). Or, you may call TurboTax Customer Service at 800-335-4651. 
+**Required and Optional Information**. We identify what information is required to fulfill your request and what information is optional.  If you choose not to provide required information, we will not be able to provide the service you are requesting. A decision to provide incomplete information in the preparation of a tax return, for example, will preclude the full and proper use of the TurboTax for the Web products. You cannot complete and file a tax return using Intuit's online tax products if you do not identify yourself, although you do not have to identify yourself to just try out the product.
 
-If we have not responded to your inquiry, or if your inquiry has not been satisfactorily addressed, please contact [TRUSTe](https://www.truste.org/validate/8258). 
+**Newsletters.** We provide you the opportunity to subscribe to e-mail newsletters and other e-mail communications. You may unsubscribe at the subscription center or by following the instructions provided in each e-mail newsletter. 
 
-Back
+**Intuit Partners and Co-branded or Third-Party Sites**.  Some of the products and services offered on this Web site are provided by Intuit’s business partners. To fulfill your request for such services, we will forward your customer information to a partner, as necessary. When offering partner services on an Intuit or co-branded site, the partner who will be receiving your information will be clearly identified.  The TurboTax Web sites may provide links to third-party Web sites, such as those of our business partners and online advertisers.  On these sites either Intuit and/or its partners may collect information about you. Intuit is not responsible for the actions of these third parties.  We encourage you to review their privacy policies to learn more about what, why and how they collect, use, and store personally identifiable information. 
 
-|    
-|    
+**E-mail Messaging**.  When sending you e-mail, we may use an image called a single-pixel GIF, that allows us to format messages tailored to your computer’s capabilities.  We also use this technology to determine, in the aggregate, the number of people who open our e-mails.  When you initiate a response by clicking on a link within an e-mail message, you are re-directed onto the internet.  We then record your individual response to help us deliver information that is more relevant to your interests.
 
+**Intuit and its Subsidiaries.**   Intuit and its subsidiaries may exchange customer data with each other to fulfill your request or to provide you with information about other products or services.
+
+**Service Providers.**   In some cases, we will use service providers such as consultants, temporary workers, third party software developers, or outsourcers, to complete a business process or provide a service on our behalf.  For example, we may use service providers to deliver products, to offer online software applications, or to send e-mails. When we use service providers, we may need to share your personally identifiable information. Service providers are strictly prohibited from using your personally identifiable information for purposes other than to act on our behalf. 
+
+**Service Alerts and Critical Notices.**   Although we respect and honor the privacy preferences you have expressed, we may need to contact you to inform you of specific changes that may impact your ability to use this service or for other critical non-marketing purposes, such as error alerts.  We may also contact you to respond to your specific requests, to clarify the order information you provided to us, or to notify you of upcoming subscription expiration dates. 
+
+**Change of Control.** Your personally identifiable information may be transferred in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of Intuit and/or its subsidiaries. You will have the opportunity to opt out of further secondary use of your information following any change of control. 
+
+**Changes to Our Privacy Policy.** If we plan to make significant changes to any of our privacy policies or practices with respect to how we use personally identifiable information, we'll post those changes to this Web site 30 days before they take effect. 
+
+**Legal Disclosures.**   In some cases we may disclose certain information to comply with a legal process, such as a court order, subpoena, search warrant, or law enforcement request. 
+
+We tell you how and why we use web technologies.
+
+This is how and why we use some common Web technologies to help manage our Web site: 
+
+**Cookies**. A “cookie” is a small piece of information that our Web sites may provide to your browser while you are at our site. If you are a registered user on the TurboTax Web sites, you will receive a cookie when you login. This cookie is maintained by your browser and contains your identifier. This cookie is also used to authenticate your identity and provide you with appropriate messaging and access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing 
+
+You do not have to accept cookies from our site. Only the areas that support the use of TurboTax for the Web products require cookies. Should you decide that you would like to use TurboTax for the Web products and you have modified your browser settings not to accept cookies, you will need to re-set your browser to accept the cookies that we send. Most browsers, by default, accept and maintain cookies. 
+
+We may, at times, use advertising networks to serve ads on this Web site.  These ads may assign different cookies to you.  Those cookies may be used to track your involvement with the advertising on our site.  You may choose not to accept these cookies. Intuit does not control those parties. You should review their privacy policies to learn more about what, why and how they collect and use private information. If you have questions about our ad serving networks, please contact us at https://privacy.intuit.com. 
+
+**Web Site Usage Data**. With or without cookies, our Web site keeps track of usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any), and other parameters in the URL.  We use this data in the aggregate,  to better understand Web site usage, including what areas of our Web site users prefer.  This information is stored in log files and is used for aggregated and statistical reporting. This log information is not linked to personally identifiable information gathered elsewhere on the site.
+
+We give you choices about how the personally identifiable information that you provide to us may be used.
+
+We give you the opportunity to control the use of your personally identifiable information for purposes other than to fulfill your request.  For example, on occasion we may use your contact information to contact you about product updates, significant tax law changes, or promotional opportunities about the TurboTax for the Web products or other Intuit products, or those of our partners.  If you do not wish to receive this information, you may specify your contact preferences during the information collection process or by contacting us at https://privacy.intuit.com or by writing to us at Intuit Inc., Customer Communications, 2800 East Commerce Center Place, Tucson, AZ 85706. 
+
+We provide you the opportunity to update or correct the personally identifiable information you provide to us.
+
+We provide you the opportunity to update or correct the personally identifiable information that you have provided to us in product registration.  Once you have completed a tax return using a TurboTax for the Web product and directed that it be electronically filed, you cannot change the information in it because the tax return has become a legal record of your tax filing.  Furthermore, changes must be made prior to the final tax filing deadline, which is generally October 15 each year.
+
+You may update or correct the contact, account and other information that you have provided to us by contacting TurboTax Service and Support at http://turbotaxsupport.com or by writing to us at Intuit Inc., Customer Communications, 2800 East Commerce Center Place, Tucson, AZ 85706. 
+
+We work to protect personally identifiable information from loss, misuse, or unauthorized alteration.
+
+We use industry-recognized security safeguards to help protect the personally identifiable information that you have provided to us from loss, misuse, or unauthorized alteration. Whenever we request that you transmit sensitive information, such as tax return information or a credit card number, to us through our Web site, we support encryption of your data as it is transmitted to us.
+
+We work to protect personally identifiable information stored on the site’s servers from unauthorized access using industry standard computer security mechanisms.  In addition, we have developed and deployed extensive security procedures and practices. All Intuit employees must review and sign a written statement of these practices, which include restricting access to sensitive information to only those employees requiring such information and enforcing strict password protocols for all employees.
+
+In addition, we require correct username and password to give you access to use, view or change (prior to electronic filing) tax return information in the TurboTax for the Web products. We use both internal and external resources to review the adequacy of our security measures on a regular basis.
+
+We provide various ways to contact us about our information practices and other aspects of privacy.
+
+If you have questions about the TurboTax.com and TurboTax for the Web Privacy Statement, our Online Privacy Policy, our information practices or other aspects of privacy on our Web sites, please contact us at https://privacy.intuit.com or by writing to us at Intuit, Inc., Customer Communications, 2800 East Commerce Center Place, Tucson, AZ 85706.  If we have not responded to your inquiry, or if your inquiry has not been satisfactorily addressed, please contact TRUSTe .
+
+Last Updated: 01/09/03
