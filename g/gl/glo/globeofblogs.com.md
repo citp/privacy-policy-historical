@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206085633id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184655id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs ::: Privacy Policy
 
 ### Random Weblog
 
-[Mover Mike](http://movermike.blogspot.com/) ::: Mike is a retired stock broker, and now supports his wife's furniture business. He is her warehouseman, deluxer, and marketing guru. In addition, he writes poetry and finds abundance, health and joy in the world around him while pondering life's little mysteries  
+[Marketing News By Michael Wong](http://www.michaelwong.com/) ::: A marketing news column offering useful and interesting internet marketing news, press releases, statistics, white papers, case studies, product announcements, and discussions for busy internet entrepreneurs, marketers & small business CEOs - with occasional commentary, insights, and tips by Michael Wong.  
 
 
 ## Statement of Policy
