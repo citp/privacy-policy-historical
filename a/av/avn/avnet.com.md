@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avnet.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408170008id_/http%3A//www.avnet.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avnet.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205190642id_/http%3A//www.avnet.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy - On-Line Privacy Policy
 
