@@ -1,40 +1,52 @@
-> *The following text is extracted and transformed from the gsa.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603224512id_/http%3A//www.gsa.gov/Portal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsa.gov privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203221017id_/http%3A//www.gsa.gov/Portal/gsa/ep/contentView.do%3FbodyOnly%3Dtrue%26contentId%3D11969%26contentType%3DGSA_BASIC) for the most accurate reproduction.*
 
-# GSA - Privacy and Security Policy
+# GSA - Privacy and Security Notice
 
-    
-Privacy and Security Policy for GSA Websites
+Privacy and Security Notice  
+  
+Privacy & Security
 
-Thank you for visiting the GSA Website and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
+How we handle the information we gather when you visit our website
 
-How we handle the information we gather when you visit our web site
+Thank you for visiting [www.gsa.gov](http://www.gsa.gov/). Our privacy policy is clear: Unless you choose to provide additional information to us, we will collect no personal information about you other than the information (below) which is automatically collected and stored when you visit our site:
 
-We collect and store only the following information about you:  The name of the domain from which you access the Internet (i.e., erols.com, if you are connecting from an Erols account, or harvard.edu if you are connecting from Harvard University's domain); the date and time you access our site; the item you requested from the server; and the Internet address of the web site from which you linked directly to our site. If your browser accepts cookies we may use a cookie to determine if you are a repeat or new visitor, or to understand how many different visitors come to our sites. When we examine this data, it is always presented in an aggregate form. Except as outlined in the Security section at the bottom of this document, we do not track or look at individuals' usage behavior.
+Information automatically collected and stored
 
-For more information on cookies, and how they are used in GSA.gov, please refer to our [Cookies Page](https://web.archive.org/web/20010603224512id_/http%3A//www.gsa.gov/Portal/cookies.jsp). 
+We collect only the following information about you:
 
-If you identify yourself by sending an E-mail: 
+  * the name of the domain from which you access the Internet (i.e., erols.com if you are connecting from an Erols account, or Harvard.edu if you are connecting from Harvard University’s domain);
+  * the date and time of your visit;
+  * the pages you visit on gsa.gov; and
+  * the Internet address of the website you came from if it linked you directly to gsa.gov.
 
-When you send us personally-identifying information, (e.g., in an electronic mail message containing a question or comment), or by filling out a form that E-mails us this information, we use this information to respond to your request. We may also forward your E-mail to other Government employees, who are better able to answer your questions. 
 
-**_We want to make it clear that we will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. Except for authorized law enforcement investigations, or as otherwise required by law, we do not share any information we receive with any outside parties._**
 
-Links to other sites: 
+If your browser accepts cookies, we may use a session cookie to decide if you are a repeat or a new visitor. We also use session cookies so we can lean how many different visitors come to [www.gsa.gov](http://www.gsa.gov/). We use this information for statistical purposes and to help us make our site more useful to you. When we look at this data, it is always presented in an aggregate form. We do not track or look at an individual’s use of our site. For more information on cookies, and how they are used on [www.gsa.gov](http://www.gsa.gov/), please refer to our [Cookies Page](https://web.archive.org/Portal/gsa/ep/contentView.do?bodyOnly=true&contentId=11973&contentType=GSA_BASIC).
 
-The documents posted on this Website may contain hypertext links or pointers to information created and maintained by other public and private organizations. These links and pointers are provided for visitors' convenience. GSA does not control or guarantee the accuracy, timeliness, or completeness of any linked information from non-GSA sites. 
+If you send us personal information
 
-The inclusion of links or pointers to Web sites is not intended to assign importance to those sites or the information contained therein, nor is it intended to endorse or recommend any views expressed, or products or services offered on these sites. 
+When you send us personal information (e.g., in an electronic mail message containing a question or comment) or by filling out a form that e-mails us this information, we only use this information to respond to your request. We may forward your e-mail to the government employee who can best answer your questions. We do not disclose, give, sell, or transfer any personal information about our visitors, unless required for law enforcement or statute.
 
-Personalization: 
+_**We want to make it clear that we will not obtain personally identifying information about you when you visit our site, unless you choose to provide that information to us. Except for authorized law enforcement investigations, or as otherwise required by law, we do not share any information we receive with anyone else.**_
 
-Some GSA sites allow you to personalize them, either by selecting sets of content to place on a web page or by clicking on an icon indicating a desire for a certain kind of content. In some cases, you are asked to "register" in order to get this personalized content. If you provide personally-identifying information when registering for personalized content, that information is only used to deliver the content to you. The information is never shared with any third party. 
+Links to other sites:
+
+The pages on [www.gsa.gov](http://www.gsa.gov/) may include hypertext links or pointers to information created and maintained by other public and private organizations. All links and pointers that are not funded or supported in whole or in part by GSA are clearly identified as external links. These links and pointers are provided for our visitors’ convenience. GSA does not control or guarantee the accuracy, timeliness, or completeness of any information from non-GSA sites.
+
+The inclusion of links and pointers to websites is not intended to assign importance to those sites or to the information contained on those sites. It is also not intended to endorse or recommend any views expressed or products or services offered on these sites.
+
+Personalization:
+
+You can personalize [www.gsa.gov](http://www.gsa.gov/) by describing your role (government, business, or citizen) and your location (by state). You will not be asked for any personal information to use these features.
+
+You can also register for MyGSA. MyGSA allows you to store and manage links to content on our website. These bookmarked links are stored in your MyGSA account and are available to you from any web browser. If you provide personally-identifying information when you register for MyGSA, that information is only used to deliver the content to you. The information is never shared with any third party.
 
 Security:
 
-For site security purposes and to ensure that this service remains available to all users, GSA webservers employ industry-standard methods to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on GSA servers are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
-
-In the specific context of this security monitoring, there is no expectation of privacy. However, only in the case of actual law enforcement investigations, will we attempt to identify individual users or their usage habits. 
+For site security purposes and to ensure that this service remains available to all users, GSA webservers use industry-standard methods to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on GSA servers are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
 Return to top.
 
-If you have any questions about these policies,[ **contact us.**](https://web.archive.org/web/20010603224512id_/http%3A//www.gsa.gov/Portal/contact.jsp)
+If you have any questions about these policies, [contact us.](https://web.archive.org/Portal/gsa/ep/contactus.do)
+
+Last Modified 8/28/2003
