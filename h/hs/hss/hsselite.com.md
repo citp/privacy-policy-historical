@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsselite.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417114037id_/http%3A//www.trusthss.com/hsscom/privacy.asp%3Fref%3D%26userid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsselite.com privacy policy that was archived on 2001-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011014173613id_/http%3A//www.trusthss.com/hsscom/privacy.asp%3Fref%3D%26userid%3D) for the most accurate reproduction.*
 
 # Privacy
 
