@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the no-ip.net privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207184431id_/http%3A//no-ip.net/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no-ip.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603034017id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
 
-# No-IP.com // The Dynamic DNS Leader
+# No-IP.com - The Dynamic DNS Leader
 
 |  No-IP.com Privacy Policy
 
