@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshstep.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211012937id_/http%3A//www.freshstep.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshstep.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606220043id_/http%3A//freshstep.com/privacy.html) for the most accurate reproduction.*
 
 # The Clorox Pet Products Company | Privacy Notice
 
