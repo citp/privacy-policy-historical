@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618061751id_/http%3A//www.armystudyguide.com/admin/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204231516id_/http%3A//armystudyguide.com/admin/privacy.htm) for the most accurate reproduction.*
 
 # ArmyStudyGuide.com's Privacy Policy
 
-      ArmyStudyGuide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ArmyStudyGuide.com](http://www.armystudyguide.com/)
+      ArmyStudyGuide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this [ArmyStudyGuide.com](http://www.armystudyguide.com/) and all it's sub-sites to include but not limited to:
+
+  * http://cadence.armystudyguide.com
+  * http://counsel.armystudyguide.com
+  * lhttp://eadersbook.armystudyguide.com
+  * http://basic.armystudyguide.com
+  * http://cadence.armystudyguide.com
+  * http://smct.armystudyguide.com
+  * [http://equipment.armystudyguide.com](http://equipment.armystudyguide.com/)
+  * http://ppt.armystudyguide.com
+
+
 
 **Advertisers**  
 
@@ -17,16 +28,17 @@
 **Public Forums**  
 
 
-      This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+      This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  We go to great lengths to protect personal information used when registering to use our forums.  We strongly suggest that you help to protect your information by changing your password often.
 
 **Newsletter**
 
-       This site offers a Newsletter specifically for the purpose of sharing Army Study Guide Content Updates and information about new sections added to the Study Guide.  The Newsletter is hosted by cgispy.com which offers remotely hosted CGI resources.  The email addresses that are entered in order to subscribe to the free newsletter will never be sold or shared by ArmyStudyGuide.org.  To unsubscribe, please go to this location and enter your email address, click the unsubscribe button and click the "submit" button.  Your email address will be removed from the list
+       This site offers a Newsletter specifically for the purpose of sharing Army Study Guide Content Updates and information about new sections added to the Study Guide.  The Newsletter is hosted by server.com which offers remotely hosted database-driven resources.  The email addresses that are entered in order to subscribe to the free newsletter will never be sold or shared by ArmyStudyGuide.com.  If you would like to subscribe or unssubscribe from our newsletter, please visit the following link for more information.  [http://www.armystudyguide.com/newsletter/index.html](http://www.armystudyguide.com/newsletter/index.html)
 
 **Contacting the Web Site**  
 
 
-      If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
+      If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the webmaster using the form located [here] or email us at [webmaster@armystudyguide.com](mailto:webmaster@armystudyguide.com) 
 
+To view our disclaimer, please [[click here](https://web.archive.org/web/20031204231516id_/http%3A//armystudyguide.com/admin/disclaimer.htm)]
 
-[Contact The Webmaster](mailto:webmaster@armystudyguide.com)
+To view our reproduction policy [[click here](https://web.archive.org/web/20031204231516id_/http%3A//armystudyguide.com/admin/reproduction_policy.htm)]
