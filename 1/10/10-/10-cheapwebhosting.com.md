@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10-cheapwebhosting.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604094625id_/http%3A//www.10-cheapwebhosting.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10-cheapwebhosting.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209165320id_/http%3A//www.10-cheapwebhosting.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 10-CheapWebHosting.com - Privacy Policy
 
@@ -20,4 +20,4 @@ Other Websites 10-CheapWebHosting.com contain links to other websites that are n
 
 **Contact 10-CheapWebHosting.com**
 
-If you would like to contact us for any reason regarding our privacy practices, use the contact information [here](http://www.10-cheapwebhosting.com/contactus.php).
+If you would like to contact us for any reason regarding our privacy practices, use the contact information [here](https://web.archive.org/contactus.php).
