@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401163008id_/http%3A//www.kanetix.com/generic/homepage/fyi.html%3Fcontent_id%3Dprivacy_gen%26website_id%3Dgeneric) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204092950id_/http%3A//www.kanetix.com/generic/homepage/fyi.html%3Fcontent_id%3Dprivacy_gen%26website_id%3Dgeneric) for the most accurate reproduction.*
 
 # Auto, home and life insurance quotes - compare at kanetix
 
 Our Privacy Pledge  
 _kanetix_ believes in protecting the personal information that you provide us. We have made safe computing and the protection of your privacy an important priority. _kanetix_ provides insurance quotes/estimates with minimal personal information. With the exception of our insurance suppliers and where mandated by the government, the personal information that you share with us will not be shared with third parties without your prior consent. 
 
-To demonstrate our commitment to your privacy, _kanetix_ has agreed to disclose its information practices to TRUSTe and have its privacy practices reviewed for compliance to TRUSTe privacy standards. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. By displaying the TRUSTe trustmark, we have agreed to notify you of: 
+To demonstrate our commitment to your privacy, _kanetix_ has agreed to disclose its information practices to TRUSTe and have its privacy practices reviewed for compliance to TRUSTe privacy standards. This privacy statement covers the site www.kanetix.com. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. By displaying the TRUSTe trustmark, we have agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Web site 
   2. Who is collecting the information 
@@ -59,7 +59,7 @@ Opting out of our mailing list
 You will have the option of removing yourself from our in-house mailing database by sending an email to [unsubscribe@kanetix.com](mailto:unsubscribe@kanetix.com) with a message in the subject line such as 'please remove from newsletter list' OR 'please remove from reminder service'. 
 
 Notification of changes  
-As the regulations related to privacy and security are evolving rapidly, we promise to notify you by email if there is a significant change to our privacy rules. We will also highlight the privacy and security link on the homepage to alert visitors to any such changes. 
+As the regulations related to privacy and security are evolving rapidly, we promise to notify you by email if there is a material change to our privacy rules. We will also highlight the privacy and security link on the homepage to alert visitors to any such changes. 
 
 Legal disclaimer   
 Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
