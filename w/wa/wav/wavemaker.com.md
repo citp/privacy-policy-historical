@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723090916id_/http%3A//www.wavemaker.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205145014id_/http%3A//www.wavemaker.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
