@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404235645id_/http%3A//www.caller.com/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2001-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011110123556id_/http%3A//caller.com/policies/privacy.htm) for the most accurate reproduction.*
 
 # Corpus Christi Caller-Times - Columns
 
@@ -56,7 +56,7 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **ctinter@scripps.com]**. To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/web/20010404235645id_/http%3A//www.caller.com/policies/user.htm).
+The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **ctinter@scripps.com]**. To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/web/20011110123556id_/http%3A//caller.com/policies/user.htm).
 
 
   
