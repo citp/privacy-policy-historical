@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603095008id_/http%3A//www.sewelldirect.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206203503id_/http%3A//sewelldirect.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@
 > 
 > ### Authentication
 > 
-> We use a digital ID from VeriSign on our web server.  Your browser should provide a way to display this certificate to verify that you are really dealing with Sewell Development Corporation.  We also provide a button on the store entrance page and the registration page that you can press to invoke a VeriSign script that will verify our identity.  NOTE: currently our web server uses many domain names, including: sewelldirect.com, sewelldev.com, sewelld.com, fastlynxsoftware.com, and fastlynx.info.  The certificate is currently registered for sewelldev.com.
+> We use a digital ID from VeriSign on our web server.  Your browser should provide a way to display this certificate to verify that you are really dealing with Sewell Development Corporation.  We also provide a button on secure pages (those pages that have the lock symbol in the corner of your browser) that you can press to invoke a VeriSign script that will verify our identity.  NOTE: currently our web server uses many domain names, including: sewelldirect.com, sewelldev.com, sewelld.com, fastlynxsoftware.com, and fastlynx.info.  The certificate is currently registered for sewelldirect.com.
 > 
 > ### Security
 > 
@@ -22,4 +22,4 @@
 > 
 > ### Credit Card Information
 > 
-> Some large electronic commerce sites save your credit card information so that you can order again without having to provide the same information each time.  We do not do this, however, for security reasons.  Soon after your order completes, regardless of whether it succeeds or fails, the credit card information is deleted from our system. 
+> Some electronic commerce sites save your credit card information so that you can order again without having to provide the same information each time.  We do not do this, however, for reasons of security.  Soon after your order completes, regardless of whether it succeeds or fails, the credit card information is deleted from our system. 
