@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestdesigns.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085335id_/http%3A//www.thebestdesigns.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestdesigns.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610191727id_/http%3A//thebestdesigns.com/privacy.shtml) for the most accurate reproduction.*
 
 # The Best Designs - [TheBestDesigns.com] - Recognizing The Best of Web Design
 
@@ -21,10 +21,5 @@ TheBestDesigns.com contain links to other web sites that are not operated by The
 
 **Changes/Updates to this Agreement**   
 TheBestDesigns.com reserves the right to change or amend this agreement at any time. 
-
-**Contact TheBestDesigns.com**   
-If you would like to contact us for any reason regarding our privacy practices, please email us at the following address: 
-
-info@thebestdesigns.com 
 
 Effective Date: 05/01/2001 
