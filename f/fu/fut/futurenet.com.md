@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurenet.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621194545id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurenet.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207142242id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
 
 # FutureNet - Privacy Policy
 
