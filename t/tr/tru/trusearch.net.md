@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trusearch.net privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605101332id_/http%3A//www.trusearch.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusearch.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204183634id_/http%3A//www.trusearch.net/privacy.html) for the most accurate reproduction.*
 
 # TruSearch
 
