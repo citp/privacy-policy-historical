@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603235937id_/http%3A//www.click2houston.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019002338id_/http%3A//www.click2houston.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
 
 # Click2Houston.com - Privacy Policy
 
+  
   
 
 
