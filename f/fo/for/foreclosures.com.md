@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the foreclosures.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611152555id_/http%3A//www.foreclosures.com/pages/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosures.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201233000id_/http%3A//www.foreclosures.com/pages/privacy_policy.asp) for the most accurate reproduction.*
 
 # Foreclosures.com - Privacy Policy
 
-Your privacy on the Internet is as important to us as it is to you. We acquire information about our users for many purposes. Below is a description of the types of information we gather and its use. 
+**Your privacy on the Internet is as important to us as it is to you.**  
+We acquire information about our users for many purposes.  Below is a description of the types of information we gather and its use. 
 
 > **_Surveys and Polls_**  
 >  From time to time, we offer interactive polls or surveys for our users to express their opinions on topics related to Real Estate and Foreclosures, and compare them to other users' opinions. No personal information is gathered during these polls or surveys. 
@@ -14,7 +15,7 @@ Your privacy on the Internet is as important to us as it is to you. We acquire i
 >  Users of the Foreclosure Forum Message Boards must register in order to post messages, although they needn't register to visit the site. During registration the user **is required** to supply a username, password, and email address. 
 > 
 > **_Ordering Products & Services_**  
->  Foreclosures.com order forms require a **customer's name, address, phone number, e-mail, and credit card information**. Once this information is collected, it is used only for the purpose of processing (and technical support if applicable) for this order. Our order forms all reside on a secure server with 128 bit encryption. If a user does not feel comfortable with this method of payment, **we also accept orders via phone, fax, and US Mail**. [[How to contact us](https://web.archive.org/web/20000611152555id_/http%3A//www.foreclosures.com/pages/contact_information.asp)] 
+>  Foreclosures.com order forms require a **customer's name, address, phone number, e-mail, and credit card information**. Once this information is collected, it is used only for the purpose of processing (and technical support if applicable) for this order. Our order forms all reside on a secure server with 128 bit encryption. If a user does not feel comfortable with this method of payment, **we also accept orders via phone, fax, and US Mail**. [[How to contact us](https://web.archive.org/web/20001201233000id_/http%3A//www.foreclosures.com/pages/contact_information.asp)] 
 > 
 > **_Usage Tracking_**  
 >  Foreclosures.com tracks user traffic patterns throughout our site. We do not, however, correlate this information with data about individual users.  
