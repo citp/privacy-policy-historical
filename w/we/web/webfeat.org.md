@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webfeat.org privacy policy that was archived on 2003-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031215233453id_/http%3A//www.webfeat.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfeat.org privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404060249id_/http%3A//www.webfeat.org/privacy.htm) for the most accurate reproduction.*
 
 # WebFeat Privacy Policy
 
