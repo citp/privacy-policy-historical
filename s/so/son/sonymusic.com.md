@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonymusic.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607155652id_/http%3A//www.sonymusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonymusic.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019111835id_/http%3A//www.sonymusic.com/privacy) for the most accurate reproduction.*
 
 # Sony Music: Privacy Policy
 
