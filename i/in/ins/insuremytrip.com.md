@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619071509id_/http%3A//insuremytrip.com/p/gen%3Fpage%3Dprivacy%26pid%3D1000%26rid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221212050id_/http%3A//insuremytrip.com/p/gen%3Fpage%3Dprivacy%26pid%3D1000%26rid%3D1) for the most accurate reproduction.*
 
 # InsureMyTrip.com Privacy Policy
 
@@ -46,4 +46,4 @@ InsuredMyTrip.com uses Secure Socket Layer encryption (SSL) for our policy Quoti
 
 InsureMyTrip.com does not control the privacy practices of the companies which we represent; however, all the companies use the information you provide for the purpose of issuing an accurate insurance policy. Quote information is not shared with any of the insurance companies.
 
-Please refer to the privacy policy statements of the individual insurance companies for their use of your policy information: Ace Insurance Group, BCS Insurance Company, Travelers Insurance Group.
+Please refer to the privacy policy statements of the individual insurance companies for their use of your policy information.
