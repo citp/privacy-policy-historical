@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206000400id_/http%3A//www.newsday.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607003951id_/http%3A//www.newsday.com/about/privacy.htm) for the most accurate reproduction.*
 
 # newsday.com | privacy policy
 
