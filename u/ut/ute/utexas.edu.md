@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216092200id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2001-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010424125640id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
 # UT Austin Privacy Statement - DRAFT
 
@@ -15,7 +15,7 @@ As part of our commitment to maintain the privacy of our Web users, The Universi
 
 
 
-The University of Texas at Austin also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records without student permission. For more details on FERPA, currently enrolled students should see the [University's General Information Bulletin](http://www.utexas.edu/student/registrar/catalogs/gi99-00/app/appc09.html). Although FERPA regulations apply only to UT Austin students, The University of Texas is equally commited to protecting the privacy of all visitors to our Web site. 
+The University of Texas at Austin also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records without student permission. For more details on FERPA, currently enrolled students should see the [University's General Information Bulletin](http://www.utexas.edu/student/registrar/catalogs/gi00-01/app/appc09.html). Although FERPA regulations apply only to UT Austin students, The University of Texas is equally commited to protecting the privacy of all visitors to our Web site. 
 
 * * *
 
@@ -32,10 +32,11 @@ Our Web servers generate temporary logs that contain the following information:
   * Referring Web page 
   * Browser used
   * Date and Time 
+  * UIN (unique person identifier for EID-based services only) 
 
 
 
-The data is used in aggregate by system administrators and Web content managers to tune the Web site for its efficiency and is not ordinarily associated with specific individuals. Raw data from the Web server logs is only shared with the content manager of each Web site. Summary reports produced from the logs help Web publishers determine what Web browsers and pages are most popular. For example, if the aggregate reports show a particular Web page is very popular, we use this information to make that Web page easier to find. An example of a sample report prepared from these server logs is available at <http://www.utexas.edu/wwwstats.html>. 
+The data is used in aggregate by system administrators and Web content managers to tune the Web site for its efficiency and is not ordinarily associated with specific individuals. Raw data from the Web server logs is only shared with the content manager of each Web site. Summary reports produced from the logs help Web publishers determine what Web browsers and pages are most popular. For example, if the aggregate reports show a particular Web page is very popular or used more by freshmen than by seniors, we use this information to customize the content of that page and make it easier to find. An example of a sample report prepared from these server logs is available at <http://www.utexas.edu/wwwstats.html>. 
 
 ### Cookies
 
@@ -59,7 +60,7 @@ Several sites within The University of Texas at Austin enable you to pay for pro
 
 The University of Texas at Austin does, upon explicit request of users, share information with other parties and gather information from other private data providers. For example, the University receives test scores from testing agencies and will send transcripts to other schools. This is done only at the request of users (persons to whom the information applies). Unless specifically required under public information requests filed under the Texas Public Information Act, it is against University policy to release confidential information gathered through the Web, such as pages visited, or personalized preferences. For example, the University's portal, UT Direct, enables users to customize the content they see on their personal page. This information cannot be shared with external third parties.
 
-Consistent with FERPA, we do not release personal student information, other than public directory information, to other parties unless we receive explicit written authorization to do so. UT Austin students can read more about directory information in the [University's General Information Bulletin](http://www.utexas.edu/student/registrar/catalogs/gi99-00/app/appc09.html). Examples of directory information include first and last name, address, and date of birth. Enrolled students can restrict release of their directory information by contacting the Office of the Registrar.
+Consistent with FERPA, we do not release personal student information, other than public directory information, to other parties unless we receive explicit written authorization to do so. UT Austin students can read more about directory information in the [University's General Information Bulletin](http://www.utexas.edu/student/registrar/catalogs/gi00-01/app/appc09.html). Examples of directory information include first and last name, address, and date of birth. Enrolled students can restrict release of their directory information by contacting the Office of the Registrar.
 
 ### Public Forums 
 
@@ -79,7 +80,9 @@ Except for educational records governed by FERPA, all information collected from
 
 If you have questions about this privacy statement or you believe that your personal information has been released without your consent send e-mail to www@www.utexas.edu. 
 
+This policy has not received final approval by the Information Technology Coordinating Council (ITCC) and is subject to change.
+
 * * *
 
-2 October 2000  
+6 April 2001  
 [Teamweb](https://web.archive.org/teamweb/) at [UT Austin](https://web.archive.org/)
