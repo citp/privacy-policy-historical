@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaysiantoday.com.my privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604042136id_/http%3A//www.malaysiantoday.com.my/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiantoday.com.my privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207221745id_/http%3A//malaysiantoday.com.my/sharedocs/privacy.htm) for the most accurate reproduction.*
 
 # Malaysian Today Web Edition - Privacy Statement
 
@@ -38,3 +38,5 @@ The Malaysian Today Press Sdn. Bhd.
 Lot 3293 Section 64, Jalan Kwong Lee Bank  
 93450 Kuching, Sarawak, Malaysia  
 Email.: [tmtoday@tm.net.my](mailto:tmtoday@tm.net.my)
+
+** To read our full stories, subscribe to the printed edition by calling us at 082-488181.**
