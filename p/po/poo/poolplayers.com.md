@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009133837id_/http%3A//www.poolplayers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308094917id_/http%3A//www.poolplayers.com/privacy.html) for the most accurate reproduction.*
 
 # APA Privacy Policy
 
@@ -28,7 +28,7 @@ Please be aware that APA advertisers or Web sites that have links on our site ma
 
 **How do I opt-out?**
 
-From time to time we have sponsors who may want to send you offers or information based on the information you provide through your membership application. We may share our membership information with our sponsors for these purposes. If you would prefer to be eliminated from these lists, **[please fill in the opt-out form](https://web.archive.org/web/20041009133837id_/http%3A//www.poolplayers.com/opt-out.html)** located on this page and click "submit", your name will be withheld from these particular lists. By choosing to opt-out, however, does not eliminate you from the list the APA may use on occasion for its own purposes.
+From time to time we have sponsors who may want to send you offers or information based on the information you provide through your membership application. We may share our membership information with our sponsors for these purposes. If you would prefer to be eliminated from these lists, **[please fill in the opt-out form](https://www.poolplayers.com/opt-out.html)** located on this page and click "submit", your name will be withheld from these particular lists. By choosing to opt-out, however, does not eliminate you from the list the APA may use on occasion for its own purposes.
 
 With whom does APA share my information?
 
@@ -40,4 +40,4 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
 For more information regarding online privacy and cookies, please visit the Electronic Privacy information Center at <http://www.epic.org/privacy/internet/cookies/>.
 
-Please direct questions and inquiries to [webmaster@poolplayers.com](mailto:webmaster@poolplayers.com)
+Please direct questions and inquiries to [](mailto:ewikoff@poolplayers.com?subject=Host%20Location%20Testimonial)[ the webmaster](mailto:webmaster@poolplayers.com)
