@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acmehorse.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812073232id_/http%3A//www.acmehorses.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmehorse.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610115717id_/http%3A//www.acmehorses.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # ACME Horses: Privacy Policy
 
 Privacy Statement
 
-Please [contact ACME Horses](https://web.archive.org/web/20030812073232id_/http%3A//www.acmehorses.com/help/contact.aspx) with questions regarding this statement.
+Please [contact ACME Horses](https://web.archive.org/web/20040610115717id_/http%3A//www.acmehorses.com/help/contact.aspx) with questions regarding this statement.
 
 About ACME Horses and the Information We Collect
 
@@ -73,4 +73,4 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20030812073232id_/http%3A//www.acmehorses.com/help/contact.aspx). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20040610115717id_/http%3A//www.acmehorses.com/help/contact.aspx). 
