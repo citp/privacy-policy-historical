@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mellon.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628130628id_/http%3A//mellon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellon.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204221751id_/http%3A//mellon.com/privacy) for the most accurate reproduction.*
 
 # Mellon Financial Corporation Privacy
 
@@ -34,24 +34,22 @@ This publication describes the privacy policies of the following companies and b
 
 Mellon Bank, N.A.   
 Mellon Insurance Agency   
-Mellon Bank (DE), N.A.   
-Boston Safe Deposit and Trust Company   
-TBC Financial Services   
+Mellon Trust of Delaware, N.A.   
+Mellon Trust of New England, N.A.   
+The Boston Company Financial Services   
 Mellon Private Trust Company, N.A.   
 Mellon Trust of California   
-Mellon Trust of Delaware, N.A.   
-Mellon Trust of New York   
+Mellon Trust of New York, LLC   
 Mellon Trust of Washington   
 Mellon Life Insurance Company  | Mellon Financial Markets, LLC   
 MBSC, LLC   
 Dreyfus Service Corporation   
-Dreyfus Investment Services Company LLC   
-Dreyfus Service Organization   
+Dreyfus Service Organization, Inc.   
 Dreyfus Trust Company   
 Dreyfus Insurance Agency of Massachusetts, Inc.   
 The Dreyfus Family of Mutual Funds   
 The Dreyfus Founders Funds (Classes A, B, C, R, T)   
-MPAM Funds Trust   
+Mellon Funds Trust   
 The General Family of Mutual Funds   
 ---|---  
   
@@ -161,7 +159,7 @@ If you wish to exercise either or both information sharing options described in 
 
 **Please note: If you have previously notified us of your privacy preferences, there is no need to return the Customer Preference Notification Form. No further notification of any sort is required unless you wish to modify them. We will continue to respect the choices you have previously communicated to us.**
 
-If you would like more information about our online privacy policies, [click here](https://web.archive.org/web/20030628130628id_/http://mellon.com/privacy/online.html). 
+If you would like more information about our online privacy policies, [click here](https://web.archive.org/web/20031204221751id_/http://www.mellon.com/privacy/online.html). 
 
 **_Thank you for this opportunity to serve you. Your relationship and trust are very important to us. Please be assured that we will abide by our policies and procedures to protect your information. Your preferences will be respected._**
 
