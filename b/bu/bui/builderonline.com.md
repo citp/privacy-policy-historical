@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builderonline.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202183000id_/http%3A//www.builderonline.com/frmArtFront/0%2C1071%2C%271%7E0%7E0%7E1080%7E1%27%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builderonline.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013124904id_/http%3A//www3.builderonline.com/frmArtFront/0%2C1071%2C%27%7E0%7E0%7E1080%7E1%27%2C00.html) for the most accurate reproduction.*
 
 # builder
 
