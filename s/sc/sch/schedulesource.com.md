@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedulesource.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629011337id_/http%3A//schedulesource.com/solutions/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulesource.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209221647id_/http%3A//schedulesource.com/solutions/support/privacy.asp) for the most accurate reproduction.*
 
 # ScheduleSource.com - Employee Scheduling, Resource Scheduling, Time and Attendance
 
