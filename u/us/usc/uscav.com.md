@@ -1,47 +1,6 @@
-> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217024200id_/http%3A//www.uscav.com/uscprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604065751id_/http%3A//www.uscav.com/uscprivacy.asp) for the most accurate reproduction.*
 
 # US CAVALRY - Boots, camping, military, camo, police, & survival gear
-
-|  |  |   
-[](http://uscav.com/uscprivacy.asp#shopping)  
----|---  
- |   
- | [ **Super Savers**](http://uscav.com/Shop/uscsearchresults.asp?ProdTypeList=ALL&ProdManList=ALL&ProdSubType=ALL&ProdStock=WX&title=Super+Savers)  
- | [ **Gear only Online**](http://uscav.com/Shop/uscsearchresults.asp?ProdNameSelect=3&ProdName=g2o&ProdTypeList=ALL&ProdManList=ALL&ProdSubType=ALL&ProdStock=ALL&title=Gear+Only+Online)  
- | [ **Overstocked Gear**](http://uscav.com/Shop/uscoverstock.asp?ProdTypeList=ALL&ProdManList=ALL&ProdSubType=ALL&ProdStock=OG&title=Overstock)  
- | [ **Gift Certificates**](http://uscav.com/Shop/uscgiftcertinfo.asp)  
- | [ **Catalog _QUICK_ shop**](http://uscav.com/Shop/uscqshop.asp)  
- |   
- | [ **How To Order**](http://uscav.com/shop/uscorderingonline.asp)  
- | [ **Customer Service**](http://uscav.com/usccustomerservice.asp)  
- | [ **Your eAccount**](http://uscav.com/shop/uscacctlogin.asp)  
- | [ **Shopping Cart**](http://uscav.com/shop/uscbasket.asp)  
- | [ **Privacy & Security**](http://uscav.com/uscprivacy.asp)  
- |   
- | [ **Join USCAV e-news!**](http://uscav.com/uscemailrequest.asp)  
- | [ **Affiliate Program**](http://uscav.com/usccjaffiliates.asp)  
- | [ **Catalog Request**](http://uscav.com/usccatalogr.asp)  
- | [ **USCAV Stores**](http://uscav.com/uscstore.asp)  
- | [ **Refer UScav to a  
-Friend**](http://uscav.com/uscrefer.asp)  
-  
-[](http://uscav.com/Shop/uscsearchresults.asp?ProdNameSelect=3&ProdName=goretex&ProdTypeList=ALL&ProdManList=ALL&ProdSubType=ALL&ProdStock=ALL&title=GORE-TEX+Gear)  
-  
-[](http://cavpro.com/shop/cpindex.asp?urlid=fromuscav)  
-  
-  
-  
-Our Export Division  
-  
-Tel: (973) 276-6070  
-Fax: (973) 276-6232  
-[csgs@cavpro.com](mailto:csgs@cavpro.com)  
-  
-  
-**Privacy and Security**
-
-  
-
 
 **_Our Commitment To Privacy_**
 
@@ -105,7 +64,7 @@ By **E-mail** : [service@uscav.com](mailto:service@uscav.com)
 
 **_Safe & Secure Shopping!_**
 
-We are aware that our customers have concerns regarding the use of credit cards over the Internet. We share your concern and have provided the ability to encrypt your transactions using our Secured Sockets Layer ([SSL](https://web.archive.org/web/20001217024200id_/http%3A//www.uscav.com/uscprivacy.asp#ssl)), ensuring that your ordering information remains private, protected, and secure. This means that your name, address, credit card numbers and any other information you provide through our SSL, cannot be read by anyone else. In order for you to take advantage of this technology, you must be using an [SSL-enabled browser](https://web.archive.org/web/20001217024200id_/http%3A//www.uscav.com/uscprivacy.asp#browsers). So you can rest assured that your credit card information is safe and protected ( **Much more safer than using your credit card at a store or restaurant!** ).
+We are aware that our customers have concerns regarding the use of credit cards over the Internet. We share your concern and have provided the ability to encrypt your transactions using our Secured Sockets Layer ([SSL](https://web.archive.org/web/20010604065751id_/http%3A//www.uscav.com/uscprivacy.asp#ssl)), ensuring that your ordering information remains private, protected, and secure. This means that your name, address, credit card numbers and any other information you provide through our SSL, cannot be read by anyone else. In order for you to take advantage of this technology, you must be using an [SSL-enabled browser](https://web.archive.org/web/20010604065751id_/http%3A//www.uscav.com/uscprivacy.asp#browsers). So you can rest assured that your credit card information is safe and protected ( **Much more safer than using your credit card at a store or restaurant!** ).
 
 Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. Congress passed this law in 1975 to help consumers resolve disputes with creditors and to ensure fair handling of credit accounts.
 
@@ -128,21 +87,3 @@ SSL, or Secured Sockets Layer, is a program layer that was created to ensure tha
 **_How can I tell if my computer is connected via SSL?_**
 
 When you click on the 'Click to Pay' button on our web site, you are taken to the secured area automatically. You will notice that the URL heading is now HTTPS in the URL window, and if you are using Netscape, the closed padlock icon appears in the lower left corner of the browser (In Internet Explorer, it is about midway at the bottom). If you are using a browser that does not have support for HTTP over SSL, you will not be able to access URLs beginning with HTTPS. These non-SSL browsers will simply not allow the submission of forms that require secure submission.
-
-  
-[back to the top](https://web.archive.org/web/20001217024200id_/http%3A//www.uscav.com/uscprivacy.asp#top)
-
- 
-
-|    
-To contact us with questions or problems with our site, order inquiries, product information requests, or any other questions, please visit our [Help Desk](https://web.archive.org/web/20001217024200id_/http%3A//uschowtocontactus.asp).   
-   
----  
-[**U. S. Cavalry**](http://www.uscav.com/)  
-2855 Centennial Ave.  
-Radcliff, KY 40160  
- **1-800-777-7172  
-1-270-351-1164** |  Saturday, December 16, 2000  
-9:42:01 PM EST 
-
-Copyright © 2000 
