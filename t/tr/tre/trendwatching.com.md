@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendwatching.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401110224id_/http%3A//www.trendwatching.com/privacyandsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendwatching.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613180040id_/http%3A//www.trendwatching.com/privacyandsecurity.html) for the most accurate reproduction.*
 
 # TRENDWATCHING.COM
 
