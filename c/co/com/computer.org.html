@@ -1,73 +1,76 @@
-<!--The following is the downloaded HTML source of the computer.org privacy policy that was archived on 2001-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011204200128id_/http%3A//www.computer.org/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the computer.org privacy policy that was archived on 2002-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603122206id_/http%3A//www.computer.org/Privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <!-- Start of HAHT Include File SRC=../Referred Projects/CSMain/Clips/MainLeftMenu.html ID=0CEE971BDA7CD311A27C0008C7F3F71D -->
 
   
   <script language="JavaScript"><!--
-  if (document.images) {
-		img2on = new Image();
-        img2on.src = "/graphics/sp_btn_publicat_ctr_onL.gif";
-        img2off = new Image();
-        img2off.src = "/graphics/sp_btn_publicat_ctr_offL.gif"
-		
-		img3on = new Image();
-        img3on.src = "/graphics/sp_btn_channels_onL.gif";
-        img3off = new Image();
-        img3off.src = "/graphics/sp_btn_channels_offL.gif"
-		
-		img20on = new Image();
-        img20on.src = "/graphics/sp_btn_comp_org_Nav_on.gif";
-        img20off = new Image();
-        img20off.src = "/graphics/sp_btn_comp_org_Nav_off.gif"
-}
-////--></script>
 
-<!-- End of HAHT Include File SRC=MainLeftMenu.html ID=0CEE971BDA7CD311A27C0008C7F3F71D -->
+    var CSIMGARRAY = new Array();
+	var PoperName;
+	  	  
+    CSIMGARRAY[0] = new Image();
+    CSIMGARRAY[0].src = "/graphics/sp_btn_big_join_off.gif";
 
-<!-- Start of HAHT Include File SRC=../Referred Projects/CSMain/Clips/TextCopyrightNotice.htm ID=3AEE971BDA7CD311A27C0008C7F3F71D -->
+    CSIMGARRAY[1] = new Image();
+    CSIMGARRAY[1].src = "/graphics/sp_btn_publicat_ctr_offL.gif";
 
-  
-  <link rel="stylesheet" href="http://bright.computer.org/styles/SubTemplate.css" type="text/css">
-  
+	CSIMGARRAY[2] = new Image();
+    CSIMGARRAY[2].src = "/graphics/sp_btn_channels_offL.gif";
 
-<!-- End of HAHT Include File SRC=TextCopyrightNotice.htm ID=3AEE971BDA7CD311A27C0008C7F3F71D -->
+    CSIMGARRAY[3] = new Image();
+    CSIMGARRAY[3].src = "/graphics/sp_btn_digital_library.gif";
 
-<!-- Start of HAHT Include File SRC=../Referred Projects/CSMain/Clips/MainLayoutCode.htm ID=A2B90FDA7382D311A2800008C7F3F71D -->
+    CSIMGARRAY[4] = new Image();
+    CSIMGARRAY[4].src = "/graphics/sp_btn_big_join_on.gif";
 
-  
-  <script language="JavaScript"><!--
+	CSIMGARRAY[5] = new Image();
+    CSIMGARRAY[5].src = "/graphics/sp_btn_publicat_ctr_onL.gif";
+
+    CSIMGARRAY[6] = new Image();
+    CSIMGARRAY[6].src = "/graphics/sp_btn_channels_onL.gif";
+	
+
 // Internet Explorer, Mac 4.0 
 if ((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.indexOf("Mac")!=-1) && (navigator.appVersion.substring(0,1) > 3))
-	{ document.writeln('<body background="/graphics/bg_ie4mac.gif" bgcolor="ffffff" link="#003399">')
+	{ document.writeln('<body background="graphics/bg_ie4mac.gif" bgcolor="ffffff" link="#003399">')
     }
 	
 // Internet Explorer, PC 3.0 
 if ((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.indexOf("Mac")==-1) && (navigator.appVersion.substring(0,1) <= 3))
-	{ document.writeln('<body background="/graphics/bg.gif" bgcolor="ffffff" link="#003399">')
+	{ document.writeln('<body background="graphics/bg.gif" bgcolor="ffffff" link="#003399">')
     }
 	
 // Netscape, Mac 3.0 
 if ((navigator.appName != "Microsoft Internet Explorer") && (navigator.appVersion.indexOf("Mac")!=-1) && (navigator.appVersion.substring(0,1) <= 3))
-	{ document.writeln('<body background="/graphics/bg_n3mac.gif" bgcolor="ffffff" link="#003399">')
+	{ document.writeln('<body background="graphics/bg_n3mac.gif" bgcolor="ffffff" link="#003399">')
     }
 		
 // Netscape, PC 3.0 
 if ((navigator.appName != "Microsoft Internet Explorer") && (navigator.appVersion.indexOf("Mac")==-1) && (navigator.appVersion.substring(0,1) <= 3))
-	{ document.writeln('<body background="/graphics/bg_n3pc.gif" bgcolor="ffffff" link="#003399">')
+	{ document.writeln('<body background="graphics/bg_n3pc.gif" bgcolor="ffffff" link="#003399">')
     }
+
+// Netscape 6 check 
+  var isNC=false;
+  var isNC5=false;
+  var vernum = parseInt(navigator.appVersion.charAt(0));
+  var vendor = navigator.appName;
+  if (vendor == "Netscape") isNC=true;
+  if (isNC && (vernum>=5)) isNC5=true;
 
 // Netscape 4.1+ fix for DHTML resize bug
 if ((navigator.appName != "Microsoft Internet Explorer") &&
 (navigator.appVersion.indexOf("Mac")==-1) &&
 (navigator.appVersion.substring(0,3) > 4.1))
-{ function handleResize() {
+	window.captureEvents(Event.RESIZE)
+	window.onresize=handleResize
+	
+	{ function handleResize() {
   location.reload()
   return false
   }
-window.captureEvents(Event.RESIZE)
-window.onresize=handleResize
 }
 
 ns4 = (document.layers)? true:false
@@ -75,108 +78,106 @@ ie4 = (document.all)? true:false
 
 var isNS = (navigator.appName == "Netscape");
 var isMacIE = ( (navigator.userAgent.indexOf("IE 4") > -1) && (navigator.userAgent.indexOf("Mac")  > -1) );
-var layerRef = (isNS) ? "document" : "document.all";
-var styleRef = (isNS) ? "" : ".style";
 var isDynamic = ( ((document.layers && document.layers['testmenu']) || (document.all && document.all['testmenu'])) && !isMacIE );
-var activeMenu = 0; 
 
-// Show function for non-pointer layer/objects
-function show( id )
-{
-	if ( ns4 )
-	{
-		document.layers[id].visibility = "show";
-	}
-	else
-	{
-		if ( ie4 )
-		{
-		 	document.all[id].style.visibility = "visible"
+  	function ImgOffLayerHide() {
+		var image
+		var imageName
+		image=2
+		MM_showHideLayers('Pop22','','Hide','Pop1','','Hide','Pop2','','Hide','Pop5','','show','Pop3','','Hide','Pop4','','Hide'); 
+		while(image<4){
+			imageName = "button"+image
+			CSOVERMENU(image,imageName)
+			image=image+1
 		}
-	}
-}
-
-//Hide function for non-pointer layer/objects
-function hide( id )
-{
-	if ( ns4 )
-	{
-		
-		document.layers[id].visibility = "hide";
-	}
-	else
-	{
-		if ( ie4 )
-		{
-			document.all[id].style.visibility = "hidden";
+    } 
+ 
+  	function delayImgOffLayerHide() {
+		var image
+		var imageName
+		image=2
+  		MM_showHideLayers('Pop22','','Hide','Pop2','','Hide','Pop1','','Hide','Pop3','','Hide','Pop5','','show','Pop4','','Hide'); 
+		//MM_showHideLayers('Pop22','','Hide','Pop2','','Hide','Pop1','','Hide','Pop3','','Hide','Pop5','','show','Pop4','','Hide'); 
+		while(image<4){
+			imageName = "button"+image
+			CSOVERMENU(image,imageName)
+			image=image+1
 		}
+    } 
+
+
+	function MM_findObj(n, d) { 
+		//v3.0
+		var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+		d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+		if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+		for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
 	}
-}
 
-function imgSwap (imgName,imgFile)  { 
-        if (document.images)  {
-		                document.images[imgName].src = eval (imgFile + ".src");
-        }
-}
-
-function swap() {
-        if (ns4) document.Pop20.document.images["button20"].src = img20on.src
-        if (ie4) document.images["button20"].src = img20on.src
-}
-
-function swapback() {
-        if (ns4) document.Pop20.document.images["button20"].src = img20off.src
-        if (ie4) document.images["button20"].src = img20off.src
-}
-
-	function MouseOutSwap(menuLayerRef) {
-			popId = "Pop" + menuLayerRef
-			imgName = "button" + menuLayerRef 
-			imgFile  = "img" + menuLayerRef + "off"
-			imgSwap(imgName,imgFile)
+	function tmt_findObj(n){
+			var x,t; if((n.indexOf("?"))>0&&parent.frames.length){t=n.split("?");
+			x=eval("parent.frames['"+t[1]+"'].document.getElementById('"+t[0]+"')");
 		}
+		else{x=document.getElementById(n)}return x;
+	}
 	
-	function MM_showHideLayers(menuLayerRef) { //v1.0
-			if (activeMenu) hideMenu("Pop" + activeMenu, activeMenu)
-			popId = "Pop" + menuLayerRef
-			imgName = "button" + menuLayerRef 
-			imgFile  = "img" + menuLayerRef + "on"
-			imgSwap(imgName,imgFile)
-			activeMenu = menuLayerRef
-			showMenu(popId) 
-		}
-		
-	function showMenu(layerID) {
-	    eval(layerRef + '["' + layerID + '"]' + 
-	    styleRef + '.visibility = "visible"');
+	function MM_showHideLayers() { 
+	var jk
+  	var DRO
+  	jk=0
+
+	while(jk<4){
+	DRO = "button"+jk
+	CSOVERMENU(jk,DRO)
+    	
+    jk=jk+1
+
 	}
-	function hideMenu(layerID) {
-		MouseOutSwap(activeMenu)
-	    eval(layerRef + '["' + layerID + '"]' + 
-	    styleRef + '.visibility = "hidden"');
+
+	var i,p,v,obj,args=MM_showHideLayers.arguments;
+	if(document.getElementById){
+		for (i=0; i<(args.length-2); i+=3){ 
+			obj=tmt_findObj(args[i]);v=args[i+2];
+			v=(v=='show')?'visible':(v='hide')?'hidden':v;
+			if(obj)obj.style.visibility=v;
+			}
+		} 
+		else{
+			for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+			if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+			obj.visibility=v; }
+			}
 	}
-	function turnOff() {
-    if (activeMenu) {
-		MouseOutSwap(activeMenu)
-        menuID = "Pop" + activeMenu;
-        hideMenu(menuID);
-        activeMenu = 0;
-    }
-}
+
+	function CSOVERMENU(ImgNumber,PoperName){
+		document[PoperName].src = CSIMGARRAY[ImgNumber].src;
+	}
+
 	function init() {
         if (isNS) {
-            document.captureEvents(Event.MOUSEUP);
-        }
-        document.onmouseup = turnOff;
-}
+  			document.captureEvents(Event.MOUSEUP);
+		}		  
+		document.onmouseup = ImgOffLayerHide;
+	}
 
-function setMyTimeout (id) {
-	hide(id);
-	// setTimeout('hide(id)',2000);
-}	
-////--></script>
+	function setMyTimeout (id) {
+		// setTimeout('hide(id)',2000);
+	}
 
-<!-- End of HAHT Include File SRC=MainLayoutCode.htm ID=A2B90FDA7382D311A2800008C7F3F71D -->
+	function DELAYCLOSEMENU(){
+	setTimeout("delayImgOffLayerHide()",4000)
+	}
+//--></script>
+
+<!-- End of HAHT Include File SRC=MainLeftMenu.html ID=0CEE971BDA7CD311A27C0008C7F3F71D -->
+
+<!-- Start of HAHT Include File SRC=../Referred Projects/CSMain/Clips/TextCopyrightNotice.htm ID=3AEE971BDA7CD311A27C0008C7F3F71D -->
+
+  
+  <link rel="stylesheet" href="styles/SubTemplate.css" objid-href="20EE971BDA7CD311A27C0008C7F3F71D" type="text/css">
+  
+
+<!-- End of HAHT Include File SRC=TextCopyrightNotice.htm ID=3AEE971BDA7CD311A27C0008C7F3F71D -->
 
   <meta http-equiv="Content-Language" content="en-US">
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -190,7 +191,7 @@ function setMyTimeout (id) {
   <title>Privacy Guidlines</title>
   
 </head>
-<body background="http://bright.computer.org/graphics/bg.gif" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#ffffff" link="#003399" onload="init();">
+<body background="graphics/bg.gif" objid-background="E0ED971BDA7CD311A27C0008C7F3F71D" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#ffffff" link="#003399" onload="init();">
   <table cellspacing="0" cellpadding="0" width="611" border="0">
     <tbody><tr>
       <td valign="top" width="172">
@@ -199,37 +200,42 @@ function setMyTimeout (id) {
 
   <table cellspacing="0" cellpadding="0" border="0" width="172">
     <tbody><tr>
-      <td width="168" valign="top" colspan="2"><a href="/"><img src="http://bright.computer.org/graphics/sp_title.gif" width="168" height="88" border="0" alt="IEEE Computer Society"></a><br>
-        <img src="http://bright.computer.org/graphics/sp_top_nav.gif" width="168" height="19" border="0" alt=""></td>
-      <td bgcolor="#999999" width="1"><img src="http://bright.computer.org/graphics/spacer.gif" width="1" height="1" border="0" alt=""></td>
-      <td bgcolor="#000000" width="1"><img src="http://bright.computer.org/graphics/spacer.gif" width="1" height="1" border="0" alt=""></td>
-      <td width="2"><img src="http://bright.computer.org/graphics/spacer.gif" width="2" height="1" border="0" alt=""></td>
+      <td width="168" valign="top" colspan="2"><a href="/" id-href="D82654160484D311A2820008C7F3F71D"><img src="graphics/sp_title.gif" objid-src="04EE971BDA7CD311A27C0008C7F3F71D" width="168" height="88" border="0" alt="IEEE Computer Society"></a><br>
+        <img src="graphics/sp_top_nav.gif" objid-src="09EE971BDA7CD311A27C0008C7F3F71D" width="168" height="19" border="0" alt=""></td>
+      <td bgcolor="#999999" width="1"><img src="graphics/spacer.gif" objid-src="E6ED971BDA7CD311A27C0008C7F3F71D" width="1" height="1" border="0" alt=""></td>
+      <td bgcolor="#000000" width="1"><img src="graphics/spacer.gif" objid-src="E6ED971BDA7CD311A27C0008C7F3F71D" width="1" height="1" border="0" alt=""></td>
+      <td width="2"><img src="graphics/spacer.gif" objid-src="E6ED971BDA7CD311A27C0008C7F3F71D" width="2" height="1" border="0" alt=""></td>
     </tr>
     <tr>
-      <td width="13" valign="top"><img src="http://bright.computer.org/graphics/sp_left_menu_border.gif" width="13" height="378" border="0" alt=""></td>
+      <td width="13" valign="top"><img src="graphics/sp_left_menu_border_new.gif" objid-src="E06D7283B019D6118085006008C5FED4" width="13" height="497" border="0"></td>
       <td width="155" valign="top">
-        <p><a href="/join/" onmouseover="imgSwap('button2','img2off');hide('Pop2')"><img src="http://bright.computer.org/graphics/sp_btn_big_join_off.gif" border="0" height="21" width="155" alt="Join the IEEE Computer Society" name="button1"></a><br>
-          <a href="/publications/" onmouseover="init();MM_showHideLayers(2,175);swapback()"><img src="http://bright.computer.org/graphics/sp_btn_publicat_ctr_offL.gif" width="155" height="24" border="0" alt="Publications Center" name="button2"></a><br>
-          <a href="/communities/" onmouseover="init();MM_showHideLayers(3,200);swapback()"><img src="http://bright.computer.org/graphics/sp_btn_channels_offL.gif" width="155" height="23" border="0" alt="Communities" name="button3"></a><br>
-          <img src="http://bright.computer.org/graphics/grey_spacer.gif" width="155" height="13" border="0" alt=""><br>
-          <a href="/conferences/" onmouseover="imgSwap('button3','img3off');hide('Pop3')"><img src="http://bright.computer.org/graphics/sp_btn_confer_wire_off.gif" width="155" height="22" border="0" alt="Conference Wire" name="button4"></a><br>
-          <a href="/standards/"><img src="http://bright.computer.org/graphics/sp_btn_standards_off.gif" width="155" height="23" border="0" alt="Standards" name="button5"></a><br>
-          <a href="/careers/"><img src="http://bright.computer.org/graphics/sp_btn_carer_serv_off.gif" width="155" height="23" border="0" alt="Career Services Center" name="button6"></a><br>
-          <a href="/education/"><img src="http://bright.computer.org/graphics/sp_btn_ed_n_cert_off.gif" width="155" height="24" border="0" alt="Education and Certification" name="button7"></a><br>
-          <a href="/history/"><img src="http://bright.computer.org/graphics/sp_btn_history_off.gif" width="155" height="23" border="0" alt="History of Computing" name="button8"></a><br>
-          <a href="/awards/"><img src="http://bright.computer.org/graphics/sp_btn_awards_off.gif" width="155" height="23" border="0" alt="Awards" name="button9"></a><br>
-          <img src="http://bright.computer.org/graphics/grey_spacer.gif" width="155" height="13" border="0" alt=""><br>
-          <a href="/csinfo/"><img src="http://bright.computer.org/graphics/sp_btn_about_off.gif" width="155" height="22" border="0" alt="About the Computer Society" name="button10"></a><br>
-          <a href="/getinvolved/"><img src="http://bright.computer.org/graphics/sp_btn_involved_off.gif" width="155" height="23" border="0" alt="Get Involved" name="button11"></a><br>
-          <a href="/member/"><img src="http://bright.computer.org/graphics/sp_btn_mem_bene_off.gif" width="155" height="22" border="0" alt="Member Services and Benefits" name="button12"></a><br>
-          <a href="/volunteers/"><img src="http://bright.computer.org/graphics/sp_btn_volunteer_off.gif" width="155" height="24" border="0" alt="Volunteer Resources" name="button13"></a><br>
-          <img src="http://bright.computer.org/graphics/grey_spacer.gif" width="155" height="13" border="0" alt=""><br>
-          <a href="http://www.ieee.org/"><img src="http://bright.computer.org/graphics/sp_iee_logo.gif" width="155" height="27" border="0" alt="Institute of Electrical and Electronic Engineers"></a><br>
-          <img src="http://bright.computer.org/graphics/sp_bottom_menu.gif" width="155" height="16" border="0" alt=""></p>
+        <p><a href="/join/" onmouseover="MM_showHideLayers('Pop2','','Hide'); CSOVERMENU(0,'button0')" onmouseout="CSOVERMENU(0,'button0')"><img id="button0" height="21" alt="Join: Join the IEEE Computer Society Today!" src="graphics/sp_btn_big_join_off.gif" objid-src="C9F2ECFEAA85D311A2830008C7F3F71D" width="155" border="0" name="button0"></a><br>
+          <a href="/publications/" onmouseover="MM_showHideLayers('Pop22','','show','Pop2','','show','Pop1','','Hide','Pop3','','Hide','Pop4','','Hide','Pop5','','show');CSOVERMENU(5,'button1');init();" onmouseout="init();"><img id="button1" height="24" alt="Publications:  Access our peer-reviewed magazines, transactions, and conference proceedings." src="graphics/sp_btn_publicat_ctr_offL.gif" objid-src="6127A4F101ACD311A29A0008C7F3F71D" width="155" border="0" name="button1"></a><br>
+          <a href="/communities/" onmouseover="MM_showHideLayers('Pop22','','show','Pop3','','show','Pop1','','Hide','Pop2','','Hide','Pop4','','Hide','Pop5','','show');CSOVERMENU(6,'button2');init();" onmouseout="init();"><img id="button2" height="23" alt="Communities: Join your peers around the world in any one of the IEEE Computer Society's communities." src="graphics/sp_btn_channels_offL.gif" objid-src="6227A4F101ACD311A29A0008C7F3F71D" width="155" border="0" name="button2"></a><br>
+          <a href="/publications/dlib/" onmouseover="MM_showHideLayers('Pop3','','Hide'); CSOVERMENU(3,'button3');init();" onmouseout="CSOVERMENU(3,'button3');init();"><img id="button3" src="graphics/sp_btn_digital_library.gif" objid-src="2B782B80F52C40459C65BA955E2C27C6" alt="Digital Library: Access thousands of Computer Society Articles available online." border="0" height="23" width="155" name="button3"></a><br>
+          <a href="/distancelearning/"><img height="23" alt="Distance Learning: Offering 100 Course titles FREE to members." src="graphics/sp_btn_distancelearning.gif" objid-src="60B1DBD2AE19D6118085006008C5FED4" width="155" border="0"></a><br>
+          <img height="13" alt="" src="graphics/grey_spacer.gif" objid-src="E5ED971BDA7CD311A27C0008C7F3F71D" width="155" border="0"><br>
+          <a href="/conferences/"><img src="graphics/sp_btn_confer_wire_off.gif" objid-src="EEED971BDA7CD311A27C0008C7F3F71D" width="155" height="22" border="0" alt="Conferences: Find a conference in your area of expertise."></a><br>
+          <a href="/standards/"><img src="graphics/sp_btn_standards_off.gif" objid-src="FDED971BDA7CD311A27C0008C7F3F71D" width="155" height="23" border="0" alt="Standards: Help develop standards for the computing industry."></a><br>
+          <a href="/tab/"><img src="graphics/sp_btn_tech_committees.gif" objid-src="61C33B682210D6118083006008C5FED4" width="155" height="22" border="0" alt="Technical Committees: Become directly involved in influencing CS standards on development, conferences, publications, and educational activities."></a><br>
+          <a href="/chapter/"><img src="graphics/sp_btn_chapters.gif" objid-src="7E523C23F1FD3744BD39C03E265D5E91" alt="Chapters: Get involved in a local CS Chapter near you." border="0" height="23" width="155"></a><br>
+          <a href="/careers/"><img src="graphics/sp_btn_carer_serv_off.gif" objid-src="EBED971BDA7CD311A27C0008C7F3F71D" width="155" height="23" border="0" alt="Career Services Center: Let us aid you in your career search."></a><br>
+          <a href="/education/"><img src="graphics/sp_btn_ed_n_cert_off.gif" objid-src="F0ED971BDA7CD311A27C0008C7F3F71D" width="155" height="24" border="0" alt="Education: Help develop, implement and evaluate educational activities in all computer-related fields."></a><br>
+          <a href="/certification/"><img src="graphics/sp_btn_certification.gif" objid-src="B16B4B1BB319D6118085006008C5FED4" width="155" height="24" border="0" alt="Certification: Learn more about our Software Certification Program"></a><br>
+          <a href="/history/"><img src="graphics/sp_btn_history_off.gif" objid-src="F2ED971BDA7CD311A27C0008C7F3F71D" width="155" height="23" border="0" alt="History of Computing: Explore the fascinating history of computing."><br>
+          </a><a href="/awards/"><img src="graphics/sp_btn_awards_off.gif" objid-src="EAED971BDA7CD311A27C0008C7F3F71D" width="155" height="23" border="0" alt="Awards: Recognizing our members for their outstanding accomplishments."><br>
+          <img src="graphics/grey_spacer.gif" objid-src="E5ED971BDA7CD311A27C0008C7F3F71D" width="155" height="13" border="0" alt=""><br>
+          </a><a href="/csinfo/"><img src="graphics/sp_btn_about_off.gif" objid-src="E8ED971BDA7CD311A27C0008C7F3F71D" width="155" height="22" border="0" alt="About the Computer Society: Read why we are the leading provider of technical information and services to the world's computing professionals."></a><br>
+          <a href="/getinvolved/"><img src="graphics/sp_btn_involved_off.gif" objid-src="F7ED971BDA7CD311A27C0008C7F3F71D" width="155" height="23" border="0" alt="Get Involved:  Be an integral part of the Computer Society today!"></a><br>
+          <a href="/member/"><img src="graphics/sp_btn_mem_bene_off.gif" objid-src="F8ED971BDA7CD311A27C0008C7F3F71D" width="155" height="22" border="0" alt="About the Computer Society:  Discover what we have to offer."></a><br>
+          <a href="/volunteers/"><img src="graphics/sp_btn_volunteer_off.gif" objid-src="FEED971BDA7CD311A27C0008C7F3F71D" width="155" height="24" border="0" alt="Volunteer Resources:  Links to the pages, information, and services that our volunteers need most often."></a><br>
+          <img src="graphics/grey_spacer.gif" objid-src="E5ED971BDA7CD311A27C0008C7F3F71D" width="155" height="13" border="0" alt=""><br>
+          <a href="http://www.ieee.org"><img src="graphics/IEEE_logo_nu.gif" objid-src="0AA65338FBD6994BA30D577C1846868F" border="0" height="30" width="155"></a><br>
+          <img src="graphics/sp_bottom_menu.gif" objid-src="E7ED971BDA7CD311A27C0008C7F3F71D" width="155" height="16" border="0" alt=""></p>
       </td>
-      <td bgcolor="#999999" width="1"><img src="http://bright.computer.org/graphics/spacer.gif" width="1" height="1" border="0" alt=""></td>
-      <td bgcolor="#000000" width="1"><img src="http://bright.computer.org/graphics/spacer.gif" width="1" height="1" border="0" alt=""></td>
-      <td width="2"><img src="http://bright.computer.org/graphics/spacer.gif" width="2" height="1" border="0" alt=""></td>
+      <td bgcolor="#999999" width="1"><img src="graphics/spacer.gif" objid-src="E6ED971BDA7CD311A27C0008C7F3F71D" width="1" height="1" border="0" alt=""></td>
+      <td bgcolor="#000000" width="1"><img src="graphics/spacer.gif" objid-src="E6ED971BDA7CD311A27C0008C7F3F71D" width="1" height="1" border="0" alt=""></td>
+      <td width="2"><img src="graphics/spacer.gif" objid-src="E6ED971BDA7CD311A27C0008C7F3F71D" width="2" height="1" border="0" alt=""></td>
     </tr>
   </tbody></table>
 
@@ -237,13 +243,13 @@ function setMyTimeout (id) {
 
         <div>&nbsp;</div>
       </td>
-      <td width="4" valign="top" align="right"><img border="0" src="http://bright.computer.org/graphics/sp_btn_home1.gif" height="18" width="5" align="top"></td>
+      <td width="4" valign="top" align="right"><img border="0" src="graphics/sp_btn_home1.gif" objid-src="F4ED971BDA7CD311A27C0008C7F3F71D" height="18" width="5" align="top"></td>
       <td valign="top" width="427">
         
 <!-- Start of HAHT Include File SRC=../Referred Projects/CSMain/Clips/MainTopBar2.htm ID=16EE971BDA7CD311A27C0008C7F3F71D -->
 
-  <div><img border="0" src="http://bright.computer.org/graphics/sp_btn_home1.gif" height="18" width="5"><a href="/"><img border="0" src="http://bright.computer.org/graphics/sp_btn_home2.gif" height="18" width="56"></a><a href="/toc.htm"><img src="http://bright.computer.org/graphics/sp_btn_index.gif" width="66" height="18" border="0" alt="Index"></a><a href="/search.htm"><img src="http://bright.computer.org/graphics/sp_btn_search.gif" width="71" height="18" border="0" alt="Search"></a><a href="/help.htm"><img src="http://bright.computer.org/graphics/sp_btn_help.gif" width="60" height="18" border="0" alt="Help"></a><a href="/contact.htm"><img src="http://bright.computer.org/graphics/sp_btn_contact.gif" width="82" height="18" border="0" alt="Contact"></a><a href="https://newton.computer.org/DocDelivery/Shopping.nsf/DisplayCart"><img src="http://bright.computer.org/graphics/sp_btn_order2.gif" width="87" height="18" border="0" alt="Online Order Cart"></a><br>
-    <img src="http://bright.computer.org/graphics/sp_title_computer_org2.gif" width="427" height="33" border="0" alt="computer.org"></div>
+  <div><img border="0" src="graphics/sp_btn_home1.gif" objid-src="F4ED971BDA7CD311A27C0008C7F3F71D" height="18" width="5"><a href="/" id-href="D82654160484D311A2820008C7F3F71D"><img border="0" src="graphics/sp_btn_home2.gif" objid-src="F5ED971BDA7CD311A27C0008C7F3F71D" height="18" width="56"></a><a href="/toc.htm" id-href="D92654160484D311A2820008C7F3F71D"><img src="graphics/sp_btn_index.gif" objid-src="F6ED971BDA7CD311A27C0008C7F3F71D" width="66" height="18" border="0" alt="Index"></a><a href="/search.htm" id-href="D02654160484D311A2820008C7F3F71D"><img src="graphics/sp_btn_search.gif" objid-src="FCED971BDA7CD311A27C0008C7F3F71D" width="71" height="18" border="0" alt="Search"></a><a href="/help.htm" id-href="D12654160484D311A2820008C7F3F71D"><img src="graphics/sp_btn_help.gif" objid-src="F1ED971BDA7CD311A27C0008C7F3F71D" width="60" height="18" border="0" alt="Help"></a><a href="/contact.htm" id-href="DA2654160484D311A2820008C7F3F71D"><img src="graphics/sp_btn_contact.gif" objid-src="EFED971BDA7CD311A27C0008C7F3F71D" width="82" height="18" border="0" alt="Contact"></a><a href="https://newton.computer.org/DocDelivery/Shopping.nsf/DisplayCart?OpenAgent" id-href="82CC718BFF84D511A4690008C7F3F71D"><img src="graphics/sp_btn_order2.gif" objid-src="FAED971BDA7CD311A27C0008C7F3F71D" width="87" height="18" border="0" alt="Online Order Cart"></a><br>
+    <img src="graphics/sp_title_computer_org2.gif" objid-src="06EE971BDA7CD311A27C0008C7F3F71D" width="427" height="33" border="0" alt="computer.org"></div>
 
 <!-- End of HAHT Include File SRC=MainTopBar2.htm ID=16EE971BDA7CD311A27C0008C7F3F71D -->
 
@@ -290,15 +296,6 @@ function setMyTimeout (id) {
           e-mail address that forwards e-mail messages to their actual e-mail
           address. When a member signs up for this service, they must supply
           their e-mail address and choose a name to use for their alias (&lt;name&gt;@computer.org).</font></p>
-        <h3><font face="Arial, Helvetica, sans-serif" size="3">Member Network</font></h3>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">The Member
-          Network is an online directory of Computer Society members.
-          Participation in this directory is strictly voluntary; information
-          does not appear in the Member Network unless the member explicitly
-          puts it there. Members can choose to post personal information such
-          as their name, home and business address, other contact information,
-          and areas of interest. Once posted, this information can be browswed
-          or searched by other members.</font></p>
         <h3><font face="Arial, Helvetica, sans-serif" size="3">Online Catalog</font></h3>
         <p><font face="Arial, Helvetica, sans-serif" size="2">When you purchase
           books or other goods through the Online Catalog, we require your
@@ -402,7 +399,7 @@ function setMyTimeout (id) {
           link from <a href="http://computer.org/webaccounts/">http://computer.org/webaccounts/</a>.</font></p>
         <p><font face="Arial, Helvetica, sans-serif" size="2">Members can
           change the address to which their @computer.org e-mail is forwarded
-          by completing the form at <a href="https://pascal.computer.org/CSauth/CSAuthen.nsf/Change?OpenForm">https://pascal.computer.org/CSauth/CSAuthen.nsf/Change?OpenForm</a>.</font></p>
+          by completing the form at <a href="/services/ChangeAlias">https://pascal.computer.org/CSauth/CSAuthen.nsf/Change?OpenForm</a>.</font></p>
         <p><font face="Arial, Helvetica, sans-serif" size="2">Members can
           choose not to receive unsolicited promotional mailings from the
           Computer Society by following the appropriate link from <a href="http://computer.org/e-news/">http://computer.org/e-news/</a>.</font></p>
@@ -459,23 +456,22 @@ function setMyTimeout (id) {
     Read our </font><font color="#FFFFFF"><a href="/privacy.htm">Privacy and
     Security</a></font><font color="#000000"> guidelines. </font></font></font></p>
   <p align="center"><font face="Arial" size="1">This site and all contents
-    (unless otherwise noted) are Copyright ©2001, IEEE, Inc. All rights
-    reserved. </font></p>
+    (unless otherwise noted) are <a href="/copyright.htm">Copyright</a> ©2002</font><font face="Arial" size="1">, IEEE, Inc. All rights reserved. </font></p>
 
 <!-- End of HAHT Include File SRC=TextCopyrightNotice.htm ID=3AEE971BDA7CD311A27C0008C7F3F71D -->
 
       </td>
-      <td width="5" valign="top"><img border="0" src="http://bright.computer.org/graphics/sp_btn_home1.gif" height="18" width="5"><img border="0" src="http://bright.computer.org/graphics/sp_title_computer_org3.gif" height="33" width="5"></td>
-      <td bgcolor="#ffcc00" width="1"><img src="http://bright.computer.org/graphics/spacer.gif" width="1" height="1" border="0" alt=""></td>
-      <td bgcolor="#ffff00" width="1"><img src="http://bright.computer.org/graphics/spacer.gif" width="1" height="1" border="0" alt=""></td>
-      <td bgcolor="#000033" width="1"><img src="http://bright.computer.org/graphics/spacer.gif" width="1" height="1" border="0" alt=""></td>
+      <td width="5" valign="top"><img border="0" src="graphics/sp_btn_home1.gif" objid-src="F4ED971BDA7CD311A27C0008C7F3F71D" height="18" width="5"><img border="0" src="graphics/sp_title_computer_org3.gif" objid-src="07EE971BDA7CD311A27C0008C7F3F71D" height="33" width="5"></td>
+      <td bgcolor="#ffcc00" width="1"><img src="graphics/spacer.gif" objid-src="E6ED971BDA7CD311A27C0008C7F3F71D" width="1" height="1" border="0" alt=""></td>
+      <td bgcolor="#ffff00" width="1"><img src="graphics/spacer.gif" objid-src="E6ED971BDA7CD311A27C0008C7F3F71D" width="1" height="1" border="0" alt=""></td>
+      <td bgcolor="#000033" width="1"><img src="graphics/spacer.gif" objid-src="E6ED971BDA7CD311A27C0008C7F3F71D" width="1" height="1" border="0" alt=""></td>
     </tr>
   </tbody></table>
   
 <!-- Start of HAHT Include File SRC=../Referred Projects/CSMain/Clips/MainLayoutCode.htm ID=A2B90FDA7382D311A2800008C7F3F71D -->
 
   <div><!-- pubs popout --></div>
-  <div id="Pop2" style="position : absolute; left : 168; top : 131; width : 130; height : 150; z-index : 3; visibility : hidden;">
+  <div id="Pop2" style="position : absolute; left : 168px; top : 131px; width : 130px; height : 150px; z-index : 3px; visibility : hidden;">
     <table cellpadding="0" cellspacing="0" border="0" width="131" align="RIGHT" valign="top">
       <tbody><tr>
         <td rowspan="3" width="1" bgcolor="#ff9933" valign="top"><img src="/graphics/spacer.gif" width="1" height="1" border="0" alt=""><img border="0" src="/graphics/sp_pop_yellow.gif" height="16" width="1"></td>
@@ -508,23 +504,40 @@ function setMyTimeout (id) {
     </tbody></table>
   </div>
   <div><!-- channels popout--></div>
-  <div id="Pop3" style="position : absolute; left : 168; top : 154; width : 130; height : 150; z-index : 3; visibility : hidden;">
+  <div id="Pop3" style="position : absolute; left : 168px; top : 154px; width : 130px; height : 150px; z-index : 3px; visibility : hidden;">
     <table cellpadding="0" cellspacing="0" border="0" width="131" align="RIGHT" valign="top">
       <tbody><tr>
         <td rowspan="3" width="1" bgcolor="#ff9933" valign="top"><img src="/graphics/spacer.gif" width="1" height="1" border="0" alt=""><img border="0" src="/graphics/sp_pop_yellow.gif" height="16" width="1"></td>
         <td width="130" align="right" colspan="2"><img border="0" src="/graphics/sp_top_pop_menu.gif" height="7" width="130"></td>
       </tr>
       <tr>
-        <td width="130" nowrap="" bgcolor="#ffffcc"><font face="arial,helvetica" size="1" color="#003399">&nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""></font><font color="#003399" face="arial,helvetica" size="1">&nbsp;<a href="/dsonline/" class="right_nav">DS online</a><br>
-          &nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font><a href="/channels/dt/" class="right_nav"><font color="#003399" face="arial,helvetica" size="1">Design &amp; Test</font></a><br>
-          <font color="#003399" face="arial,helvetica" size="1">&nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font><a href="/ciseportal/" class="right_nav"><font color="#003399" face="arial,helvetica" size="1">Ci</font><font color="#003399" face="arial,helvetica" size="1">SE </font><font color="#003399" face="arial,helvetica" size="1">portal</font></a><font face="arial,helvetica" size="1" color="#003399"><br>
-          &nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> <a href="/SEweb/" class="right_nav">Software Engineering</a><br>
-          &nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font><a href="/cspress/" class="right_nav"><font face="arial,helvetica" size="1" color="#003399">C</font><font color="#003399" face="arial,helvetica" size="1">S Store</font></a><font face="arial,helvetica" size="1" color="#003399"><br>
-          &nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> <a href="/tab/" class="right_nav">Technical Councils,</a><br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<a href="/tab/" class="right_nav">Committees,
-          task forces</a><br>
-          &nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> <a href="/chapter/" class="right_nav">Chapters</a><br>
-          &nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> <a href="/students/" class="right_nav">Students</a></font></td>
+        <td width="130" nowrap="" bgcolor="#ffffcc">
+		<font face="arial,helvetica" size="1" color="#003399">&nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font>	
+		 <font face="arial,helvetica" color="#003399" size="1">
+		  <a href="/dsonline/" class="right_nav"> DS online</a></font><br>
+
+		  <font face="arial,helvetica" size="1" color="#003399">&nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font>	
+		  <font color="#003399" face="arial,helvetica" size="1"><a href="/channels/dt/" class="right_nav"> Design &amp; Test</a></font><br>
+
+		  <font face="arial,helvetica" size="1" color="#003399">&nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font>		  
+		  <font color="#003399" face="arial,helvetica" size="1"><a href="/SEweb/" class="right_nav"> Software Engineering</a></font><br>
+
+          <font face="arial,helvetica" size="1" color="#003399">&nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font>
+		  <font color="#003399" face="arial,helvetica" size="1">
+		  <a href="/tab/" class="right_nav"> Technical Councils,</a></font><br>
+
+		  <font face="arial,helvetica" size="1" color="#003399">&nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font>
+          <font face="arial,helvetica" size="1" color="#003399">
+		  <a href="/tab/" class="right_nav"> Committees,task forces</a></font><br>
+          
+		  
+		  <font face="arial,helvetica" size="1" color="#003399">&nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font>
+		  
+		  <font size="1" face="arial,helvetica" color="#003399"><a href="/chapter/" class="right_nav"> Chapters</a></font><br>
+
+          <font face="arial,helvetica" size="1" color="#003399">&nbsp;<img src="/graphics/sp_link_arrow.gif" width="8" height="9" border="0" alt=""> </font>		  
+		  <font size="1" face="arial,helvetica" color="#003399"><a href="/students/" class="right_nav"> Students</a></font></td>
+
         <td width="1" bgcolor="#ff9933"><img src="/graphics/spacer.gif" width="1" height="1" border="0" alt=""></td>
       </tr>
       <tr>
@@ -535,8 +548,11 @@ function setMyTimeout (id) {
     </tbody></table>
   </div>
   <div><!-- Start SSI  --> <!-- Navigator off - non member version --></div>
-  <div id="Pop20" style="position : absolute; left : 13; top : 107; width : 155; height : 23; z-index : 3; visibility : hidden;"><img src="/graphics/sp_btn_comp_org_Nav_off.gif" width="155" height="21" border="0" alt="Computer.org Navigator" name="button20"></div>
-  <div><!-- End SSI --></div>
+  <div name="Pop22" id="Pop22" onmouseover="DELAYCLOSEMENU();" zindex="3" style="left : 303px; visibility : hidden; width : 150px; position : absolute; top : 0px; height : 400px;">
+    <layer onmouseover="DELAYCLOSEMENU();" zindex="3" style="left : 303px; visibility : visible; width : 150px; position : absolute; top : 0px; height : 400px;">
+      <div id="Pop20" style="position : absolute; left : 13; top : 107; width : 155; height : 23; z-index : 3; visibility : hidden;"><img src="/graphics/sp_btn_comp_org_Nav_off.gif" width="155" height="21" border="0" alt="Computer.org Navigator" name="button20"></div>
+      <div><!-- End SSI --></div>
+  </layer></div>
 
 <!-- End of HAHT Include File SRC=MainLayoutCode.htm ID=A2B90FDA7382D311A2800008C7F3F71D -->
 
