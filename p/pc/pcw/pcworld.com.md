@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184531id_/http%3A//www.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201171041id_/http%3A//www3.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
 
-# PCWorld.com -
+# PCWorld.com - Privacy Policy
 
 [](https://www.truste.org/validate/554)
 
@@ -26,7 +26,7 @@ If you have questions or concerns regarding this statement, please contact:
 >  PC World.com  
 >  501 Second Street  
 >  San Francisco, CA 94107  
->  e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20020601184531id_/http%3A//www.pcworld.com/resource/webmaster@pcworld.com)
+>  e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20021201171041id_/http%3A//www3.pcworld.com/resource/webmaster@pcworld.com)
 
 If you do not receive acknowledgment of your inquiry, or your questions have not been satisfactorily addressed, you should then contact TRUSTe: <http://www.truste.org/users/users_watchdog.html>
 
@@ -50,7 +50,7 @@ Visitors to PCWorld.com may disable their cookies and retain full functionality 
 
 What are _Clear GIFs,_ and how are they used? 
 
-Our Web pages contain electronic images (called "Clear GIF", "Single-Pixel Gif", or "Web Beacon") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a _Clear GIF_. Typically, though, _Clear GIFs_ are very small (1-by-1 pixel size) files. They are often invisible on the Web page, but their presence can be easily detected within Internet Explorer by clicking on "View" and then on "Source." _Clear GIFs_ are so small in order not to use valuable space on the computer screen that is better used to display helpful content. We also include _Clear GIFs_ in HTML-formatted newsletters in order to count how many newsletters have been read. In addition, some advertising networks that serve ads on our Web sites will occasionally use _Clear GIFs_ within banner advertisements. Our _Clear GIFs_ do not collect, gather, monitor or share any personal information about our Web site visitors; they are simply the technique we use to compile our anonymous, aggregated statistics about Web site usage.
+Our Web pages contain electronic images (called "Clear GIF", "Single-Pixel Gif", or "Web Beacon") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a _Clear GIF_. Typically, though, _Clear GIFs_ are very small (1-by-1 pixel size) files. They are often invisible on the Web page, but their presence can be easily detected within Internet Explorer by clicking on "View" and then on "Source." _Clear GIFs_ are so small in order not to use valuable space on the computer screen that is better used to display helpful content. We also include _Clear GIFs_ in HTML-formatted newsletters in order to count how many newsletters have been read. In addition, some advertising networks that serve ads on our Web site will occasionally use _Clear GIFs_ within banner advertisements. Our _Clear GIFs_ do not collect, gather, monitor or share any personal information about our Web site visitors; they are simply the technique we use to compile our anonymous, aggregated statistics about Web site usage.
 
 What is PCWorld.com's relationship with the DoubleClick advertising network? 
 
@@ -62,11 +62,13 @@ Does PCWorld.com share the information it collects with others?
 
 PC World will occasionally share some of the non-identifying visitor information it collects on the site in the aggregate with third parties for marketing and promotional purposes. However, PCWorld.com never shares personal identifying information with any third party, except in these cases: 
 
-  * with the individual sponsor of a contest, promotion, or sweepstakes, and only if the participant specifically asks to receive additional information from a specific sponsor and for the purposes of administering the contest and notifying the winners. 
+  * with the individual sponsor of a contest, promotion, or sweepstakes, and only if you as the participant specifically ask to receive additional information from a specific sponsor. 
 
-  * with third-party intermediaries--solely for the purposes of distribution--who will not store, retain, or use the information supplied to them. These intermediaries include subscription service bureaus, credit card companies, sweepstakes services companies, and banks, or third-party providers of PCWorld.com services that the user selects at our site. Users are given the option to discontinue such services at any time, at which point the user's personal information will be automatically deleted from the service providers' databases.
+  * with trusted third-party intermediaries such as subscription service bureaus, credit card companies, sweepstakes services companies, and banks, or third-party providers of PCWorld.com services that the user selects at our site. These intermediaries work with PC World under confidentiality agreements and do not have any independent right to share this information. When users choose to discontinue such services the user's personal information will be automatically deleted from the intermiediary's databases.
 
   * with third party billing services for magazine subscriptions. Shared information includes credit card number and expiration date from subscribers who wish to pay for PC World print magazine subscriptions.
+
+  * Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
 
 
