@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215740id_/http%3A//insurance.com/about_us/security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123617id_/http%3A//www32.insurance.com/about_us/security_privacy.asp) for the most accurate reproduction.*
 
 # About Us - Security & Privacy
 
@@ -24,9 +24,11 @@ We may disclose the information described above to
 
 We restrict access to nonpublic personal information about you to employees of Insurance.com or of our service providers that have agreed to maintain its confidentiality. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
-With respect to health insurance, please see the [Health Insurance Privacy Policy](http://www.insurance.com/about_us/health_security_privacy.asp) jointly developed by Insurance.com and eHealthInsurance Services, Inc. 
+With respect to health insurance, please see the Health Insurance Privacy Policy jointly developed by Insurance.com and eHealthInsurance Services, Inc. 
 
 With respect to auto insurance, residents of Arizona, California, Colorado, Florida, Georgia, Iowa, Illinois, Indiana, Maine, Maryland, Minnesota, Missouri, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, and Wisconsin should see the Comparison Market Insurance Agency Privacy Policy.
+
+With respect to Travel Insurance, please see the Travel Insurance Privacy Policy, jointly developed by Insurance.com and Insuractive, Inc.
 
 For more detailed information, please see Privacy Statement and Q & A below.
 
@@ -51,9 +53,11 @@ Should you decide to apply for a particular insurance policy after obtaining a q
 If you are interested in health insurance, please see the Health Insurance Privacy Policy of Insurance.com and eHealthInsurance Services, Inc.
   5.  **Auto Insurance - - Comparison Market Insurance Agency (Comparison Market)**  
 In certain states, currently just Arizona, California, Colorado, Florida, Georgia, Iowa, Illinois, Indiana, Maine, Maryland, Minnesota, Missouri, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, and Wisconsin, we work with ComparisonMarket Insurance Agency to provide you with auto insurance quotes and other services. In states where ComparisonMarket Insurance Agency is available, ComparisonMarket Insurance Agency requests certain personal information during the quote process in an effort to provide more accurate quote information. Residents of those states are encouraged to see the Comparison Market Privacy Policy.
-  6.  **Links to Third Party Insurance Sites**   
+  6.  **Travel Insurance**  
+If you are interested in travel insurance, please see the Travel Insurance Privacy Policy of Insurance.com and Insuractive, Inc.
+  7.  **Links to Third Party Insurance Sites**   
 In some states, or for some lines of coverage (e.g., homeowners or renters coverage and pet health coverage), we may provide direct links to insurance company or insurance agency sites, usually because we cannot obtain comparative quote information. If you provide information on a carrier web site or purchase insurance from a carrier as a result of visiting Insurance.com, the carrier may share that information with Insurance.com, but Insurance.com will not share it with any unaffiliated third parties. Insurance.com is not responsible for the privacy practices of these third party insurance companies or the content of their web sites. We recommend that you read the privacy statements on the sites of each insurance company or third party agent with which you interact.
-  7.  **Other Third Party Links**  
+  8.  **Other Third Party Links**  
 You also have the opportunity to purchase books through links with unaffiliated on-line sellers. If you visit those sellers' sites, information (such as type of book, number of sales, etc.), but no personal information, will be shared with Insurance.com. Insurance.com is not responsible for the privacy practices on these third party sites. We recommend that you read the privacy statements on these sites. 
 
 
@@ -129,7 +133,7 @@ Newton Highlands, MA 02461_
 
 | 
 
-**This Privacy Statement was last updated on November 27, 2001.**
+**This Privacy Statement was last updated on February 6, 2001.**
 
 | [](https://digitalid.verisign.com/as2/f0bfcefec6747dab0f4c03d92834ab5f)  
 ---|---
