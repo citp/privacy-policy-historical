@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyhoroscopes.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210101104id_/http%3A//www.dailyhoroscopes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhoroscopes.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603174524id_/http%3A//www.dailyhoroscopes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Daily Horoscopes
 
@@ -11,14 +11,14 @@ Privacy Statement for:
 [www.cdbyrd.com](http://www.cdbyrd.com/)  
 [www.dailyhoroscopes.com](http://www.dailyhoroscopes.com/)   
 [www.psychicadvice.com](http://www.psychicadvice.com/)  
-[www.dajuana.com](http://www.dajuana.com/)   
+[www.dajuana.com](http://www.dajuana.com/)  
 [www.psychicgames.com](http://www.psychicgames.com/)  
-[www.mystispetforum.com](http://www.mystispetforum.com/)   
+[www.mystispetforum.com](http://www.mystispetforum.com/)  
 [www.byrdpublishing.com](http://www.byrdpublishing.com/)  
-[www.ghoststalk.com](http://www.ghoststalk.com/)   
+[www.ghoststalk.com](http://www.ghoststalk.com/)  
  
 
-Questions should be sent by email to [privacy](mailto:claude@cdbyrd.net?SUBJECT=CDB%20-%20Privacy) or by postal to:   
+Questions should be sent by email to [privacy](mailto:claude@cdbyrd.net?SUBJECT=CDB%20-%20Privacy) or by postal to:  
 C & D Byrd Enterprises, Inc.  
 P. O. Box 3459  
 Cedar Hill, Texas 75106-3459
