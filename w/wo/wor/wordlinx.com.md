@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordlinx.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204172203id_/http%3A//www.wordlinx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordlinx.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405045840id_/http%3A//www.wordlinx.com/privacy.php) for the most accurate reproduction.*
 
 # WordLinx - Free text link exchange for website promotion
 
@@ -22,6 +22,6 @@ If however you wish to remove yourself now or change the contact address we have
 
 Important links... 
 
-[» Terms](https://web.archive.org/web/20041204172203id_/http%3A//www.wordlinx.com/terms.php) \- Read our online Terms & Conditions.   
-[» Support](https://web.archive.org/web/20041204172203id_/http%3A//www.wordlinx.com/support.php) \- Any questions? Fill in our support form.   
+[» Terms](https://web.archive.org/web/20050405045840id_/http%3A//www.wordlinx.com/terms.php) \- Read our online Terms & Conditions.   
+[» Support](https://web.archive.org/web/20050405045840id_/http%3A//www.wordlinx.com/support.php) \- Any questions? Fill in our support form.   
 [» PayPal](http://www.paypal.com/) \- Full details about PayPal payments. 
