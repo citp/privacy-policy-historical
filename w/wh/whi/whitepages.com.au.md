@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602155115id_/http%3A//www.whitepages.com.au/wp/docs/privacy_pa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211232012id_/http%3A//www.whitepages.com.au/wp/docs/privacy_pa.html) for the most accurate reproduction.*
 
 # White Pages OnLine
 
@@ -186,11 +186,11 @@ In all cases, the primary purpose in gathering information on our web site users
 
 For specific information on what information is collected on Pacific Access Pty Ltds' web sites, click the links below: 
 
-[Yellow Pages® _OnLine_](https://web.archive.org/web/20010602155115id_/http%3A//www.whitepages.com.au/wp/docs/privacy_ypol.html)  
-[Yellow Pages® _OnLine_ Automotive](https://web.archive.org/web/20010602155115id_/http%3A//www.whitepages.com.au/wp/docs/privacy_ypolauto.html)  
-[GOeureka™ Search](https://web.archive.org/web/20010602155115id_/http%3A//www.whitepages.com.au/wp/docs/privacy_go.html)   
-[White Pages™ _OnLine_](https://web.archive.org/web/20010602155115id_/http%3A//www.whitepages.com.au/wp/docs/privacy_wp.html)  
-[Whereis™ _OnLine_](https://web.archive.org/web/20010602155115id_/http%3A//www.whitepages.com.au/wp/docs/privacy_where.html)   
+[Yellow Pages® _OnLine_](https://web.archive.org/web/20011211232012id_/http%3A//www.whitepages.com.au/wp/docs/privacy_ypol.html)  
+[Yellow Pages® _OnLine_ Automotive](https://web.archive.org/web/20011211232012id_/http%3A//www.whitepages.com.au/wp/docs/privacy_ypolauto.html)  
+[GOeureka™ Search](https://web.archive.org/web/20011211232012id_/http%3A//www.whitepages.com.au/wp/docs/privacy_go.html)   
+[White Pages™ _OnLine_](https://web.archive.org/web/20011211232012id_/http%3A//www.whitepages.com.au/wp/docs/privacy_wp.html)  
+[Whereis™ _OnLine_](https://web.archive.org/web/20011211232012id_/http%3A//www.whitepages.com.au/wp/docs/privacy_where.html)   
 
 
 **How can I control my personal information?**  
