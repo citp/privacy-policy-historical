@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204224427id_/http%3A//www.lucasarts.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614192510id_/http%3A//www.lucasarts.com/legal/privacy) for the most accurate reproduction.*
 
 # LucasArts | Privacy Policy
 
   |   |  [ ](http://www.esrb.org/confirm/LucasArts-confirmation.htm) **LucasArts Online Privacy Policy**
 
-Effective Date: November 10, 2003 
+Effective Date: May 20, 2004 
 
 Welcome! We are committed to respecting the privacy rights of all visitors to our Web site. This Privacy Policy also explains the choices that you can make about the way your information is collected and used. It is available for you to review on our homepage and at least on every page where we have requested personally identifiable information. BY USING THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO THE TERMS OF THIS PRIVACY POLICY. If you do not agree with any term in this Privacy Policy, do not use this Web site. Unless specified otherwise, this Privacy Policy applies to information collected from all users, including children under 13. 
 
@@ -33,7 +33,7 @@ Whenever you visit a Web site that displays the ESRB Privacy Online certificatio
   * How a company ensures data security, quality, and integrity; and, 
   * Where and how to ask questions or file complaints. 
 
-**WHAT INFORMATION DO WE COLLECT?**  
+  
 Generally, we limit the collection of information to email address and to what is known as non-personally identifiable information (such as, first name, age, state or country) and we will not require you to provide more information than is necessary to participate in any of our Web site activities. This information is collected so that visitors can participate in activities (such as, receiving our e-mail newsletter[s], building homepages, saving game designs and scores, participating in our question polls). 
 
 However, in some areas on our Web site, additional personally identifiable information is asked for and collected (e.g., full name, mailing address and phone number) so that our visitors can participate in online sweepstakes, online promotions and the registered area of this site and you may not be able to access those areas or participate in such activities without giving us the necessary personal information. Whenever we request that you submit such personally identifiable information, we will endeavor to notify you of our intended use of the information, as more specifically discussed below. PLEASE BE AWARE THAT YOU ARE UNDER NO OBLIGATION TO PROVIDE, AND CAN DECLINE TO PROVIDE, ANY REQUESTED INFORMATION AT ANY TIME. HOWEVER, IF YOU DECLINE, YOU MAY NOT BE ABLE TO PARTICIPATE IN CERTAIN ACTIVITIES AT THIS WEB SITE. 
@@ -44,7 +44,7 @@ The types of information collected at this Web site may include:
   * Financial information and/or Credit/Debit Card data (for, by way of example, online store purchase information). Personal identifiers, such as screen names, URLs (for personalized homepages) and passwords. 
   * Demographic information, such as date of birth, age, gender, state and country. 
   * Internet Protocol (IP) Information, such as your IP address and browser type. 
-  * Information collected by or held in "cookies." **HOW DO WE USE INFORMATION?:** _Registration_  
+  * Information collected by or held in "cookies." _Registration_  
 If this Web site has a registration procedure, our Web site's registration form requires users to give us contact information, unique identifiers, and demographic information. All registration information is submitted to us on a voluntary basis. We may also ask registered members to tell us how they found out about us. The registration information allows you to use many of the features on our site (including message boards) and to access content exclusive to registered members. Once you register, we may also use customer contact information from the registration form to contact you, to send you information about our company and/or to give you updates on products and/or services. You may register on our Web site and choose not to receive information and updates by unchecking the relevant box on the registration form. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN REGISTER. _Product Support_  
 To send an email to our Technical Support team regarding a problem you encounter with one of our products, we may ask you to provide your first name and email address in addition to information about the product you are having trouble with. The email address you provide us for this purpose is used only to respond to the sender's problem and is deleted as soon as the response is complete. _Tell a Friend Feature_  
 Some of our sites provide you the opportunity to email a web page to another person, whether it is a friend, family member, or relative. For this feature of our site to work, we need to collect your email address and the email address(es) of those to whom you want to send the Web page. The email addresses collected in this context are not used for any other purpose, and are deleted once your request has been fulfilled. _Resumes_  
@@ -72,7 +72,7 @@ An IP address is a number automatically assigned to your computer whenever you a
 We do create links to the Web sites of other parties. IF YOU ARE UNDER 13, GET YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE LINKING TO OTHER WEB SITES. Independently-operated Web sites are not associated with or authorized by us and may also have links leading to this Web site. We cannot control any of these links and are not responsible for any content appearing on Web sites linked to or from our Web site, or for any personal information gathered at those independently-operated Web sites. _Bumper Pages_  
 We sometimes provide a "bumper page" when linking from our Web site to an independently-operated Web site, which lets you know you are going to an independently-operated Web site and reminds children not to give out information online without their parent's permission. _Data Integrity and Security_  
 We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. In cases where the information is not stored on separate computer servers, it is only accessible from specific computers within our control. We have and will continue to take reasonable measures to assure the security and accuracy of all information our visitors share with us. Our efforts include procedures designed to avoid any unauthorized access, alteration, misuse or disclosure of personally identifiable information. We also take reasonable steps to assure that advertisers, licensees and/or other business partners to whom we transfer data -- for such purposes as sending special offers and promotions to our visitors -- provide sufficient protection of such personal data. **CHANGES:** _Our changes_  
-We reserve the right to change this privacy policy at our discretion. If we decide to change our privacy policy we will post those changes here. We encourage you to visit this area frequently to stay informed. We will seek your consent, via e-mail, if we make any material changes in how we collect and/or use your child's information in any manner not previously authorized by you. _Your changes_  
+We reserve the right to change this privacy policy at our discretion. If we decide to change our privacy policy we will post those changes here. In addition, if we make a material change to this privacy policy, we will notify you by posting the change on this Web site and, if necessary, give you additional choices regarding such change. We therefore encourage you to visit this area frequently to stay informed. We will seek your consent, via e-mail, if we make any material changes in how we collect and/or use your child's information in any manner not previously authorized by you. _Your changes_  
 This Web site gives users options for changing and modifying information previously provided. If you are a registered visitor, you are welcome to view, change or delete your registration information at any time, or to update the contact information we have for you or to inform us that you do not want to receive new product or other information from us. Simply go to the registration page of this Web site using the same computer from which you initially registered. When the welcome screen appears, you can click on the "delete or add" or "Update Profile" link to update your information. Kids under 13 cannot change registration information, only the parent or guardian can do that. Parents should follow the procedure that they used to enable their child's registration to change any information at any time. _SPECIAL NOTE TO KIDS_  
 If you are under 13 years old, ask your parent or guardian BEFORE giving out any information about yourself, such as your name, age, address or e-mail address. You do not have to give any personal information about yourself. Remember, if you are under 13 you must have your parent or guardian make any changes to information given to us (with permission) in the past or to update your profile. If you are ever unsure about anything you are seeing on this Web site, ask your parent or guardian for help. 
 
@@ -98,10 +98,10 @@ San Rafael, CA 94912
 Attn: Webmaster 
 
 You can also contact ESRB Privacy Online directly at:  
-[www.esrb.org](https://web.archive.org/web/20031204224427id_/http://lucasarts.com/legal/privacy/www.esrb.org)  
+[www.esrb.org](https://web.archive.org/web/20040614192510id_/http://www.lucasarts.com/legal/privacy/www.esrb.org)  
 or by regular mail at:  
-845 Third Avenue  
-New York, NY 10022. 
+317 Madison Avenue, 22nd Floor  
+New York, NY 10017. 
 
 For additional information about our Web site, please see our [ Terms of Use.](https://web.archive.org/legal/terms/)
 
