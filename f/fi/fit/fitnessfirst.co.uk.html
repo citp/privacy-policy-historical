@@ -1,0 +1,779 @@
+<!--The following is the downloaded HTML source of the fitnessfirst.co.uk privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205054743id_/http%3A//www.fitnessfirst.co.uk/generic/privacy.asp) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+  function showImage(strImage, intX, intY) {
+    window.open ("../includes/viewimage.asp?image=" + strImage, "NewWin", "resizable=1,width=" + (intX + 3) + ",height=" + (intY + 40));
+  }
+</script>
+
+
+
+
+
+<title>Fitness First - Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
+<meta name="description" content="Fitness First Plc - the largest independent Health Club Operator in Europe">
+<meta name="keywords" content="Fitness First,Fitness,First,Active Aerobics,Aerobics Class,Affordable,Beauty Salon,Calories,Diet,Crèche,Club,Classes,Dieting,Eating,Exercise,Express Workout,Fat,Fat Burning,Fat Reduction,Firm,First Fitness,First Leisure,Fit,Fitness,Fitness 1st,Fitness First plc.,Fitness Magazine,Gym,Gymnasiums,Health,Health and Fitness,Health Club,Healthy,Instructor,Instructors,Keep Fit,Kick Boxing,Leisure,Leisure Centre,Lifestyle,Mind and Body,Motivated,Muscle,Nutrition,Pilates,Performance,Personal Trainer,Personal Training,Physical,Pool,Recreation,Running,Sauna,Slimming,Social Events,Spa,Spinning,Sport,Steam room,Step,Step Class,Studio Strength,Sweat,Ti Fit,Tone,Toned,Toning,Training,Treatment,Walk,Weight,Weight Gain,Weight Loss,Weight Management,Workout,Xpress Workout,Yoga">
+<meta name="version" content="May 2003">
+<link rel="stylesheet" href="../includes/styles.css" type="text/css">
+<script language="JavaScript" src="../includes/mm_menu_variables.js"></script>
+<script language="JavaScript" src="../includes/mm_menu.js"></script>
+<script language="JavaScript">
+
+today=new Date();
+jran=today.getTime();
+
+// ------------------------------------------------------------------------
+// Flash popup or Gif banner - Banner:
+// Attributes - Width, height, flash and gif file locations and target href
+// "bannerTarget" should be the same as the target specified in the flash
+// ------------------------------------------------------------------------
+
+var bannerWidth  = "468";
+var bannerHeight = "60";
+var bannerFlash  = "../flash/best_practice_banner.swf";
+var bannerGif    = "../images/best_practice_banner.gif";
+var bannerTarget = "../multimedia/multimedia.asp";
+
+// ------------------------------------------------------------------------
+// Flash popup or Gif banner - Cookie:
+// Attributes - Cookie name, cookie path
+// ------------------------------------------------------------------------
+
+var cookieName   = "redPopupCookie";
+var cookiePath   = "/bestpractice";
+
+// ------------------------------------------------------------------------
+// Flash popup or Gif banner - Popup:
+// Attributes - Popup page URL, width, height and popup window attributes
+// ------------------------------------------------------------------------
+
+var popupPage    = "" // If this is an empty string, popup will not be shown
+var popupWidth   = "350";
+var popupHeight  = "275";
+var popupAttributes = "toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=" + popupWidth + ",height=" + popupHeight;
+
+// ------------------------------------------------------------------------
+// Flash popup or Gif banner - STOP:
+// You probably won't need to edit any of the code below this point.
+// ------------------------------------------------------------------------
+
+var today = new Date();
+var jran  = today.getTime();
+var requiredVersion = 5;
+
+var flash2Installed = false;    // boolean. true if flash 2 is installed
+var flash3Installed = false;    // boolean. true if flash 3 is installed
+var flash4Installed = false;    // boolean. true if flash 4 is installed
+var flash5Installed = false;    // boolean. true if flash 5 is installed
+var flash6Installed = false;    // boolean. true if flash 6 is installed
+var maxVersion = 6;             // highest version we can actually detect
+var actualVersion = 0;          // version the user really has
+var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
+var jsVersion = 1.0;            // the version of javascript supported
+
+var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
+var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if we're on windows
+var isMac = (navigator.appVersion.indexOf("Mac") != -1) ? true : false; // true if we're on windows
+var isMc5 = (navigator.appVersion.indexOf("MSIE 5") != -1) ? true : false; // false if we're not using version 5 - for Mac only
+var isMc6 = (navigator.appVersion.indexOf("MSIE 6") != -1) ? true : false; // false if we're not using version 5 - for Mac only
+
+var jsVersion = 1.1;
+
+function getCookie(name) {
+
+  // returns the value of the cookie
+
+  var dc = document.cookie
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) {return null;}
+  } else {
+    begin += 2;
+  }
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1) {end = dc.length;}
+  return unescape(dc.substring(begin + prefix.length, end));
+}
+
+function writeBannerAd() {
+  // This function will write out the html for the flash or gif banner ad.
+  
+  var outputstring = "";
+  if (hasRightVersion) {
+  
+    // Write out the flash banner
+    document.write ("  <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0' WIDTH='" + bannerWidth + "' HEIGHT='" + bannerHeight + "' id='flashbanner' ALIGN=''>");
+    document.write ("    <PARAM NAME=movie VALUE='" + bannerFlash + "'>");
+    document.write ("    <PARAM NAME=quality VALUE=high>");
+    document.write ("    <PARAM NAME=bgcolor VALUE=#FFFFFF>");
+    document.write ("    <EMBED src='" + bannerFlash + "' quality=high bgcolor=#FFFFFF WIDTH='" + bannerWidth + "' HEIGHT='" + bannerHeight + "' NAME='flashbanner' ALIGN='' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/go/getflashplayer' swLiveConnect='true'></EMBED>");
+    document.write ("  </OBJECT>");
+    
+  } else {
+  
+    // Write out the gif banner.
+    document.write ("  <A HREF='" + bannerTarget + "'><IMG SRC='" + bannerGif + "' width='" + bannerWidth + "' height='" + bannerHeight + "' border='0'></a>");
+    
+  }
+}
+
+// ------------------------------------------------------------------------
+// End Flash Popup of Gif Banner Functions
+// ------------------------------------------------------------------------
+
+
+function getCookie(name) {
+
+  // returns the value of the cookie
+
+  var dc = document.cookie
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) {return null;}
+  } else {
+    begin += 2;
+  }
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1) {end = dc.length;}
+  return unescape(dc.substring(begin + prefix.length, end));
+}
+
+function ExplorerFix() {
+  for (a in document.links) document.links[a].onfocus = document.links[a].blur;
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function writeDate() {
+  // Written by Phil Collins of redweb, v1.0
+  // Outputs date as :: Monday 11th March 2002
+  var isNetscape = (navigator.appName.substring(0,8) == "Netscape") ? true : false;
+  var today = new Date();
+  var day = today.getDate();
+  var year = today.getYear();
+  var endDay = "th";
+  var arrDayofWeek = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+  var arrMonthNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+  
+  if (isNetscape) {year = (year - 1) + 1901;}
+  if ((day == "1") || (day == "21") || (day == "31")) {endDay = "st";}
+  if ((day == "2") || (day == "22")) {endDay = "nd";}
+  if ((day == "3") || (day == "23")) {endDay = "rd";}
+  document.write(arrDayofWeek[today.getDay()] + " " + day + endDay + " " + arrMonthNames[today.getMonth()] + " " + year);
+}
+
+function addfavourite() {
+ var myurl, mytitle;
+ myurl = "http://www.tempurl.co.uk";
+ mytitle = "company_name";
+ if (document.all) {
+   window.external.AddFavorite(myurl, mytitle);
+ }
+}
+
+function rnd() {
+  ia=9301;
+  ic=49297;
+  im=233280;
+  jran = (jran*ia+ic) % im;
+  return jran/(im*1.0);
+}
+
+function rand(number) {
+  return Math.ceil(rnd()*number);
+}
+
+// ------------------------------------------------------------------------
+// Added by Phil Collins - 21.01.03 - Random image
+// This image is a set of quotes which are randomly selected when the user
+// chooses a page. However, the same image should be displayed whenever
+// the index page is called.
+// ------------------------------------------------------------------------
+
+function changeImage() {
+
+  var strhref = ""+window.location.href+"";
+  var dimg = document.images;        
+  var maxNumPh = 4;                             // the total number of images the script can pick from for photos
+  var maxNumSt = 6;                             // the total number of images the script can pick from for statements
+  var rndNumPh = (rand(maxNumPh));              // ie; image1.jpg; image2.jpg; image3.jpg; image4.jpg
+  var rndNumSt = (rand(maxNumSt));              // ie; image1.jpg; image2.jpg; image3.jpg; image4.jpg
+  var imgPh = false;
+  var imgSt = false;
+
+  // This section checks to see if there is a randomimage and a statement image on the page
+  for (loop=0; loop < document.images.length; loop++) {
+    if (document.images[loop].name == "randomimage") {
+      imgPh = true;
+    } else if (document.images[loop].name == "statementimage") {
+      imgSt = true;
+    }
+  }
+
+  // if there is no randomimage then the script will not change the image
+  if (imgPh) {dimg.randomimage.src = ("../images/random/image" + rndNumPh + ".jpg");}
+
+  // if there is no statement image then the script will not change the image
+  if (imgSt) {
+    if (strhref.indexOf("index.asp")!=-1) {
+      // The string 'index.asp' was found so change the source of the graphic
+      // to the one that has to be displayed on the index page.
+      
+      dimg.statementimage.src = ("../images/statements/statement_1.gif");
+      
+    } else {
+      // The string 'index.asp' was not found in the windows location so we are
+      // not looking at the index page. Therefore, randomize the image selected
+    
+      dimg.statementimage.src = ("../images/statements/statement_" + rndNumSt + ".gif");
+    }
+  }
+}
+
+function chkPulse(x) {
+  if ( able ) {
+    same = x;
+    px = parseInt(pulse.left);
+    if ( px > (same-step) && px < (same+step) ) {
+      px = same;
+      pulse.left = px;
+      return;
+    }
+    if ( px < same ) {
+      px += step;
+    } else if ( px > same ) {
+      px -= step;
+    }
+    pulse.left = px;
+    setTimeout("chkPulse(same)",10);
+  }
+}
+
+function initPulse() {
+  if (ie4chkpulse) { 
+    pulse = document.all["pulseDiv"].style
+  } else if (ns4chkpulse) {
+    pulse = document.layers["pulseDiv"]
+  } else if (ns6chkpulse) {
+    pulse = document.getElementById("pulseDiv").style
+  }
+  able = true;
+}
+       
+if (document.all) { document.onmousedown = ExplorerFix; }
+
+
+// ------------------------------------------------------------------------
+// Flash Popup of Gif Banner actual script
+// ------------------------------------------------------------------------
+
+if (popupPage.length = 0) {
+if (isIE && isWin) {
+  document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
+  document.write('on error resume next \n');
+  document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
+  document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
+  document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
+  document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
+  document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');  
+  document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
+}
+
+if (navigator.plugins) {
+  if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+
+    var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+    var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
+    var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
+   
+    flash2Installed = flashVersion == 2;    
+    flash3Installed = flashVersion == 3;
+    flash4Installed = flashVersion == 4;
+    flash5Installed = flashVersion == 5;
+    flash6Installed = flashVersion >= 6;
+  }
+}
+
+for (var i = 2; i <= maxVersion; i++) {  
+  if (eval("flash" + i + "Installed") == true) {actualVersion = i};
+}
+
+if (navigator.userAgent.indexOf("WebTV") != -1) {actualVersion = 3};  
+
+if (actualVersion >= requiredVersion) {
+
+  var PopupCookie = getCookie(cookieName);
+  hasRightVersion = true;
+  
+  if (PopupCookie != '1') {
+
+    var hour = today.getHours();
+
+    for (hi=1; hour<24; hi++) {
+      hour = hour + 1;
+    }
+
+    if (document.layers) {hi = hi - 1;}
+    today.setTime(today.getTime() + hi * 60 * 60 * 1000);
+    
+    var curCookie = (cookieName + "=1; expires=" + today.toGMTString() + "; path=" + cookiePath);
+    document.cookie = curCookie; 
+    window.open(popupPage,'popup',popupAttributes);
+
+  }
+}
+}
+
+// ------------------------------------------------------------------------
+// End of Flash Popup of Gif Banner actual script
+// ------------------------------------------------------------------------
+
+
+</script>
+
+</head>
+<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onload="changeImage();">
+<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(169, 169, 169); background-color: rgb(169, 169, 169); width: 154px; height: 79px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 77px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 76px; width: 151px; background-color: rgb(240, 244, 248);">
+<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 1&nbsp;</div>
+<div id="menuItemHilite0" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 1&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 2&nbsp;</div>
+<div id="menuItemHilite1" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 2&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 3&nbsp;</div>
+<div id="menuItemHilite2" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 3&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 4&nbsp;</div>
+<div id="menuItemHilite3" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 4&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(169, 169, 169); background-color: rgb(169, 169, 169); width: 154px; height: 79px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 77px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 76px; width: 151px; background-color: rgb(255, 255, 255);">
+<div id="menuItem4" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 1&nbsp;</div>
+<div id="menuItemHilite4" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 1&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 2&nbsp;</div>
+<div id="menuItemHilite5" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 2&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 3&nbsp;</div>
+<div id="menuItemHilite6" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 3&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 4&nbsp;</div>
+<div id="menuItemHilite7" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 4&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(169, 169, 169); background-color: rgb(169, 169, 169); width: 154px; height: 79px;">
+  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 77px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 76px; width: 151px; background-color: rgb(255, 255, 255);">
+<div id="menuItem8" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 1&nbsp;</div>
+<div id="menuItemHilite8" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 1&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 2&nbsp;</div>
+<div id="menuItemHilite9" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 2&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 3&nbsp;</div>
+<div id="menuItemHilite10" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 3&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 4&nbsp;</div>
+<div id="menuItemHilite11" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 4&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(169, 169, 169); background-color: rgb(169, 169, 169); width: 134px; height: 79px;">
+  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 77px; width: 132px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 76px; width: 131px; background-color: rgb(255, 255, 255);">
+<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 1&nbsp;</div>
+<div id="menuItemHilite12" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 1&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 2&nbsp;</div>
+<div id="menuItemHilite13" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 2&nbsp;</div></div><div id="menuItem14" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 3&nbsp;</div>
+<div id="menuItemHilite14" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 3&nbsp;</div></div><div id="menuItem15" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 4&nbsp;</div>
+<div id="menuItemHilite15" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 4&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(169, 169, 169); background-color: rgb(169, 169, 169); width: 134px; height: 79px;">
+  <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 77px; width: 132px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 76px; width: 131px; background-color: rgb(255, 255, 255);">
+<div id="menuItem16" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 1&nbsp;</div>
+<div id="menuItemHilite16" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 1&nbsp;</div></div><div id="menuItem17" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 2&nbsp;</div>
+<div id="menuItemHilite17" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 2&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 3&nbsp;</div>
+<div id="menuItemHilite18" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 3&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:6px;top:3px;color:#000000;">Secondary nav 4&nbsp;</div>
+<div id="menuItemHilite19" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Secondary nav 4&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(169, 169, 169); background-color: rgb(169, 169, 169); width: 164px; height: 155px;">
+  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 153px; width: 162px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 152px; width: 161px; background-color: rgb(255, 255, 255);">
+<div id="menuItem20" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 160px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:6px;top:3px;color:#000000;">Infopages 1&nbsp;</div>
+<div id="menuItemHilite20" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Infopages 1&nbsp;</div></div><div id="menuItem21" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 160px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:6px;top:3px;color:#000000;">Infopages 2&nbsp;</div>
+<div id="menuItemHilite21" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Infopages 2&nbsp;</div></div><div id="menuItem22" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 160px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:6px;top:3px;color:#000000;">Infopages 3&nbsp;</div>
+<div id="menuItemHilite22" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Infopages 3&nbsp;</div></div><div id="menuItem23" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 160px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText23" style="position:absolute;left:6px;top:3px;color:#000000;">Infopages 4&nbsp;</div>
+<div id="menuItemHilite23" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Infopages 4&nbsp;</div></div><div id="menuItem24" style="position: absolute; left: 0px; top: 76px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 160px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText24" style="position:absolute;left:6px;top:3px;color:#000000;">Infopages 5&nbsp;</div>
+<div id="menuItemHilite24" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Infopages 5&nbsp;</div></div><div id="menuItem25" style="position: absolute; left: 0px; top: 95px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 160px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText25" style="position:absolute;left:6px;top:3px;color:#000000;">Documents 1&nbsp;</div>
+<div id="menuItemHilite25" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Documents 1&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 114px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 160px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:6px;top:3px;color:#000000;">Documents 2&nbsp;</div>
+<div id="menuItemHilite26" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Documents 2&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 133px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 160px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:6px;top:3px;color:#000000;">Documents 3&nbsp;</div>
+<div id="menuItemHilite27" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Documents 3&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer6" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(169, 169, 169); background-color: rgb(169, 169, 169); width: 134px; height: 117px;">
+  <div id="menuLite6" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 115px; width: 132px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg6" style="position: absolute; left: 1px; top: 1px; height: 114px; width: 131px; background-color: rgb(255, 255, 255);">
+<div id="menuItem28" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:6px;top:3px;color:#000000;">Locate a centre&nbsp;</div>
+<div id="menuItemHilite28" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Locate a centre&nbsp;</div></div><div id="menuItem29" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:6px;top:3px;color:#000000;">Events RWQA106&nbsp;</div>
+<div id="menuItemHilite29" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Events RWQA106&nbsp;</div></div><div id="menuItem30" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:6px;top:3px;color:#000000;">News RWQA101&nbsp;</div>
+<div id="menuItemHilite30" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">News RWQA101&nbsp;</div></div><div id="menuItem31" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText31" style="position:absolute;left:6px;top:3px;color:#000000;">Vacancies RWQA102&nbsp;</div>
+<div id="menuItemHilite31" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">Vacancies RWQA102&nbsp;</div></div><div id="menuItem32" style="position: absolute; left: 0px; top: 76px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:6px;top:3px;color:#000000;">static page &nbsp;</div>
+<div id="menuItemHilite32" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">static page &nbsp;</div></div><div id="menuItem33" style="position: absolute; left: 0px; top: 95px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 130px; height: 18px; background-color: rgb(240, 244, 248); visibility: inherit; cursor: pointer;"><div id="menuItemText33" style="position:absolute;left:6px;top:3px;color:#000000;">static hub page&nbsp;</div>
+<div id="menuItemHilite33" style="position:absolute;left:6px;top:3px;color:#000000;visibility:hidden;">static hub page&nbsp;</div></div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+</span>
+
+
+<!--This header file is called into all pages (i.e.documents/xxx.asp) -->
+
+  <script language="javascript">
+    NS4    = (document.layers);
+    IE4    = (document.all);
+    ver4   = (NS4 || IE4);
+    IE5    = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
+    NS6    = false;
+  
+    var strAlert = "";
+    if (strAlert!="") { alert(strAlert); }
+    
+    var formfnt1 = "<font face='Verdana, Arial' size='1'>";
+    var formfnt2 = "<font face='Verdana, Arial' size='2'>";
+    var formfnt3 = "<font face='Verdana, Arial' size='3'>";
+    
+    if (document.getElementById) {NS6 = true;}
+  
+    function checkValue() {
+      if (document.forms['search'].strsearch.value == '') {document.forms['search'].strsearch.value='Search by keyword';
+      } else if (document.forms['search'].strsearch.value == 'Search by keyword') {document.forms['search'].strsearch.value='';}
+    }  
+    //-->
+  </script>
+  <script language="javascript">
+  <!--
+  function signOut(){
+      var agree=confirm("Signing out will stop automatic login. Are you sure you wish to continue?");
+      if (agree){
+ 	      window.location = "../generic/signin.asp?straction=signout";
+      }else{	      
+      }     
+    }
+  //-->
+  </script>
+  <!--Header to include search and primary navigation.  Not side navigation. -->
+  <script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+  
+
+  <table width="780" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="181"><a href="../index/index.asp"><img src="../images/logo.gif" width="181" height="75" alt="Fitness First" border="0"></a></td>
+    <td align="right"><img src="../images/largestoperator.gif" alt="largest health club operator in Europe" width="317" height="75"></td>
+    <td align="left" width="200"><img src="../images/statements/statement_1.gif" width="200" height="75" alt="Fitness First - for every body"></td>
+  </tr>
+</tbody></table>
+  
+<!-- Primary navigation starts -->
+<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+  <tbody><tr>
+    <td width="20"><img src="../images/link_left.gif" width="20" height="20"></td>
+    <td align="left" width="760">
+      <table border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+        <tbody><tr>
+          <td><a href="../about/about_hub.asp" class="primarylinks">About Us</a></td>
+          <td><img src="../images/link_divider.gif" width="17" height="20" alt="Next menu item"></td>
+          <td><a href="../media/media_hub.asp" class="primarylinks">News</a></td>
+          <td><img src="../images/link_divider.gif" width="17" height="20" alt="Next menu item"></td>
+          <td><a href="../centres/locateacentre.asp" class="primarylinks">Clubs</a></td>
+          <td><img src="../images/link_divider.gif" width="17" height="20" alt="Next menu item"></td>
+          <td><a href="../membership/membership_hub.asp" class="primarylinks">Membership</a></td>
+          <td><img src="../images/link_divider.gif" width="17" height="20" alt="Next menu item"></td>
+          <td><a href="../offers/offers.asp" class="primarylinks">Offers</a></td>
+          <td><img src="../images/link_divider.gif" width="17" height="20" alt="Next menu item"></td>
+          <td><a href="../vacancies/vacancies_hub.asp" class="primarylinks">Careers</a></td>
+          <td><img src="../images/link_divider.gif" width="17" height="20" alt="Next menu item"></td>
+          <td><a href="http://www.clfshop.com/default.asp?login=fitfirst" class="primarylinks">Shop</a></td>
+          <td><img src="../images/link_divider.gif" width="17" height="20" alt="Next menu item"></td>
+          <td><a href="../faqs/faq.asp" class="primarylinks">FAQs</a></td>
+          <td><img src="../images/link_divider.gif" width="17" height="20" alt="Next menu item"></td>
+          <td><a href="../links/links.asp" class="primarylinks">Links</a></td>
+          <td><img src="../images/link_divider.gif" width="17" height="20" alt="Next menu item"></td>
+          <td><a href="../generic/contact_us.asp" class="primarylinks">Contact
+            Us</a></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<!-- Primary navigation ends -->
+
+<!--Central page area starts -->
+<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#A90056">
+  <tbody><tr valign="top"> 
+    <td colspan="2" bgcolor="#FFFFFF"><img src="../images/spacer.gif" width="10" height="1"></td>
+  </tr>
+  <tr> 
+    <td width="20"><img src="../images/breadcrumb_left.gif" width="20" height="20"></td>
+    <td align="left" class="primarylinks" width="760"> 
+      <p><b>Location:</b> <a href="../index/index.asp" class="primarylinks">Home</a> 
+        <img src="../images/breadcrumb.gif" width="13" height="7" alt="Next level"> 
+        <a href="about_hub.asp" class="primarylinks">Privacy Policy</a></p>
+      </td>
+  </tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="780">
+  <tbody><tr> 
+    <td rowspan="5" valign="top" align="left"><img src="../images/blank.gif" width="1" height="10" alt="spacer"></td>
+    <td rowspan="5" valign="top"> <img src="../images/img_privacy.gif" width="180" height="83" alt="Main image"><br>
+	
+
+      <table width="180" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td colspan="2">&nbsp;</td>
+        </tr>
+        <!--  <tr>    <td width="19"><img src="../images/header_left.gif" width="19" height="20"></td>    <td bgcolor="#CCCCCC" class="titletext" align="left" valign="middle" width="161">See also </td>  </tr>  <tr valign="top">    <td colspan="2" height="12"></td>  </tr>  <tr valign="top">    <td colspan="2">      <a href="../generic/emailnewsletter.asp"><img src="../images/link_email.gif" width="180" height="34" alt="Email Newsletter" border="0"></a>    </td></tr>//-->
+      </tbody></table>
+
+    
+	</td>
+	<td rowspan="5"><img src="../images/blank.gif" width="20" height="10" alt="spacer"></td>
+    <td align="top" height="22" colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td align="top" colspan="2"><img src="../images/title/privacy.gif" alt="Privacy Policy" width="200" height="18"></td>
+  </tr>
+  <tr> 
+    <td align="top" colspan="2"><img src="../images/title_underline.gif" width="579" height="16"></td>
+  </tr>
+  <tr> 
+    <td width="559" valign="top"> 
+      <p><font class="bodytext">This policy sets out our policy on the privacy 
+        of the individual. Fitness First takes your privacy seriously and information 
+        will be used in accordance with the Data Protection Act 1998.</font></p>
+      <table width="559" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top" width="19"><img src="../images/header_left.gif" width="19" height="20"></td>
+          <td bgcolor="#CCCCCC" class="titletext" align="left" valign="middle" width="540"><span class="titletext">1.0 
+            - Your consent</span></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top" colspan="2" height="8"></td>
+        </tr>
+      </tbody></table>
+      <font class="bodytext">Your use of this website signifies your consent to 
+      us collecting and using personal data about you as specified below in accordance 
+      with this policy statement. Should we choose to change these terms for any 
+      reason, the changes will be posted here so that you are always kept informed 
+      about the collection and use of your personal information, and when we disclose 
+      it.</font> 
+      <p><table width="559" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top" width="19"><img src="../images/header_left.gif" width="19" height="20"></td>
+          <td bgcolor="#CCCCCC" class="titletext" align="left" valign="middle" width="540"><b><span class="titletext">
+            2.0 - How do we collect personal information about you and how is 
+            it used?</span></b></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top" colspan="2" height="8"></td>
+        </tr>
+      </tbody></table>
+      <table border="0" cellspacing="2" cellpadding="0" span="" class="bodytext">
+        <tbody><tr align="left" valign="top"> 
+          <td width="25"><font class="bodytext">2.1</font></td>
+          <td><font class="bodytext">You may provide personal information when 
+            communicating with us.</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td><font class="bodytext">2.2</font></td>
+          <td><font class="bodytext">You may use our services and give your name 
+            and e-mail address to make a comment about our services or Web site.</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td><font class="bodytext">2.3</font></td>
+          <td><font class="bodytext">If you enter a competition or promotion we 
+            will ask your name, address and e-mail address.</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td><font class="bodytext">2.4</font></td>
+          <td><font class="bodytext">We will collect information about your tastes 
+            and preferences, both when you tell us and by analysis of customer 
+            traffic, including using "cookies".</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td><font class="bodytext">2.5</font></td>
+          <td><font class="bodytext">It may be that some of the personal information 
+            you give us (for example, about your health and age) is sensitive 
+            personal data within the meaning of the Data Protection Act 1998. 
+            Such information ("sensitive information") will only be 
+            disclosed with your express consent.</font></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td><font class="bodytext">2.6</font></td>
+          <td> 
+            <p><font class="bodytext">It may be that you provide us details of 
+              credit or debit cards or bank accounts in making payment to us. 
+              Any such information (confidential financial information) will be 
+              disclosed only in accordance with the disclosure policy below.</font></p>
+          </td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td><font class="bodytext">2.7</font></td>
+          <td> 
+            <p><font class="bodytext">We may use personal information collected 
+              about you to help us develop the layout of our website to ensure 
+              that our site is as useful and enjoyable as possible.</font></p>
+          </td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td><font class="bodytext">2.8</font></td>
+          <td><font class="bodytext">We may use personal information collected 
+            about you to let you know about functions on our Web site or changes 
+            to our terms and conditions of use.</font></td>
+        </tr>
+      </tbody></table>
+      </p><p>
+      <table width="559" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top" width="19"><img src="../images/header_left.gif" width="19" height="20"></td>
+          <td bgcolor="#CCCCCC" class="titletext" align="left" valign="middle" width="540"><b><span class="titletext"> 
+            3.0 - Traffic data</span></b></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top" colspan="2" height="8"></td>
+        </tr>
+      </tbody></table>
+      <font class="bodytext">We may provide aggregate statistics about sales, 
+        customers, traffic patterns and information to third parties, but these 
+        statistics will not include any information that identifies you.</font> 
+      </p><p><table width="559" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top" width="19"><img src="../images/header_left.gif" width="19" height="20"></td>
+          <td bgcolor="#CCCCCC" class="titletext" align="left" valign="middle" width="540"><b><span class="titletext"> 
+            4.0 - Disclosure policy</span></b></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top" colspan="2" height="8"></td>
+        </tr>
+      </tbody></table>
+      <font class="bodytext">We reserve the right to access and disclose individually 
+      identifiable information to enable us to comply with applicable laws and 
+      lawful government requests to operate its systems and to protect itself 
+      or its users.</font> 
+      </p><p><table width="559" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top" width="19"><img src="../images/header_left.gif" width="19" height="20"></td>
+          <td bgcolor="#CCCCCC" class="titletext" align="left" valign="middle" width="540"><b><span class="titletext"> 
+            5.0 - How do we protect your information?</span></b></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top" colspan="2" height="8"></td>
+        </tr>
+      </tbody></table>
+      <font class="bodytext">We have strict security procedures covering the storage 
+      of your information in order to prevent unauthorised access and to comply 
+      with the terms of the Data Protection Act 1998. This means that sometimes 
+      we may ask you for proof of identity or for other personal information before 
+      we can process your call or enquiry further.</font> 
+      </p><p><table width="559" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top" width="19"><img src="../images/header_left.gif" width="19" height="20"></td>
+          <td bgcolor="#CCCCCC" class="titletext" align="left" valign="middle" width="540"><b><span class="titletext"> 
+            6.0 - What are cookies and how do we deal with them?</span></b></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top" colspan="2" height="8"></td>
+        </tr>
+      </tbody></table>
+      <font class="bodytext">A cookie is a piece of information that is stored 
+      on your computer's hard drive. It is normally sent by a web server to you 
+      and enables the server to collect information back from your site visit.</font> 
+      </p><p><table width="559" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top" width="19"><img src="../images/header_left.gif" width="19" height="20"></td>
+          <td bgcolor="#CCCCCC" class="titletext" align="left" valign="middle" width="540"><b><span class="titletext"> 
+            7.0 - How to contact us</span></b></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top" colspan="2" height="8"></td>
+        </tr>
+      </tbody></table>
+      <font class="bodytext">If you have any questions or concerns about this 
+      policy, please call us on <span class="title"><b>01202 845000</b> </span> 
+      or <nobr>e-mail</nobr> </font><font class="bodytext"> <a href="mailto:customerservices@fitnessfirst.com" class="text">customerservices@fitnessfirst.com</a> 
+      or contact our <strong>Support Centre</strong>: 58 Fleets Lane, Poole, Dorset 
+      BH15 3BT</font><font class="bodytext">.<br>
+      <br>
+      </font></p></td>
+    <td><img src="../images/blank.gif" width="20" height="10" alt="spacer"></td>
+  </tr>
+  <!--Width of left nav column -->
+  <tr> 
+    <td valign="top" colspan="2" align="left"><img src="../images/baseline.gif" width="579" height="7"><br>
+      <table border="0" cellspacing="2" cellpadding="0" width="100%">
+        <tbody><tr> 
+          <td align="left"><img src="../images/back.gif" width="14" height="13" align="absmiddle"> 
+            <a href="javascript:history.back(1)" class="sidelinktext">Back</a></td>
+          <td align="right" colspan="4"> 
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td><img src="../images/arrow.gif" width="14" height="13" align="absmiddle"> 
+                  <a href="#" class="linktext" onclick="MM_openBrWindow('../generic/emailFriend.asp','emailPopup','width=301,height=300')">E-mail a friend</a></td>
+                <td><img src="../images/spacer.gif" width="12" height="10"></td>
+                <td><img src="../images/arrow.gif" width="14" height="13" align="absmiddle"> 
+                  <a href="#" class="linktext">Print this page</a></td>
+                <td><img src="../images/spacer.gif" width="12" height="10"></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+
+    <!--Central page area ends -->
+    <table width="780" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr><td>&nbsp;</td></tr>
+  <tr>
+    <td align="center" class="footertext" bgcolor="#cccccc"> 
+      <p><br>
+        <a href="../index/index.asp" class="footertext" accesskey="I" title="Home (Access key = i)">Home</a> 
+        | <a href="../about/about_hub.asp" class="footertext" accesskey="1" title="About Us (Access key = 1)">About 
+        Us</a> | <a href="../media/media_hub.asp" class="footertext" accesskey="2" title="Media (Access key = 2)">News</a> | <a href="../centres/locateacentre.asp" class="footertext" accesskey="3" title="Clubs (Access key = 3)">Clubs</a> 
+        | <a href="../membership/membership_hub.asp" class="footertext" accesskey="4" title="Membership (Access key = 4)">Membership</a> 
+        | <a href="../offers/offers.asp" class="footertext" accesskey="6" title="Links (Access key = 6)">Offers</a>        | <a href="../vacancies/vacancies_hub.asp" class="footertext" accesskey="7" title="Recruitment (Access key = 7)">Careers</a>        | <a href="http://www.clfshop.com/contents.asp" class="footertext" accesskey="5" title="Shop (Access key = 5)" target="_blank">Shop</a>        | <a href="../faqs/faq.asp" class="footertext" accesskey="8" title="FAQs (Access key = 8)">FAQs</a>        | <a href="../links/links.asp" class="footertext" accesskey="6" title="Links (Access key = 6)">Links</a>        | <a href="../generic/contact_us.asp" class="footertext" accesskey="9" title="Contact Us (Access key = 9)">Contact 
+        Us</a></p>
+      <p><span class="footertextwhite">© 2003 Fitness First.</span><span class="footertext"> 
+        <a href="../generic/privacy.asp" class="footertext">Privacy Policy</a> | 
+        <a href="../generic/terms.asp" class="footertext">Terms &amp; Conditions</a><a href="../generic/contact_us.asp" class="footertext" accesskey="9" title="Contact Us (Access key = 9)"></a> | <a href="../generic/sitemap.asp" class="footertext" accesskey="9" title="Contact Us (Access key = 9)">Site Map</a></span><br>
+        <span class="footertextwhite">All rights reserved. All trademarks acknowledged. Web site designed and developed by </span>
+        <a href="http://www.redweb.co.uk" target="_blank" class="footertext">redweb Ltd</a><br>
+      </p>
+      <p></p>
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+
+</body></html>
