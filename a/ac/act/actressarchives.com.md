@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actressarchives.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816041555id_/http%3A//www.creativereality.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actressarchives.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603043322id_/http%3A//www.creativereality.com/privacy) for the most accurate reproduction.*
 
 # Creative Reality Media, Inc. - Privacy Policy
 
