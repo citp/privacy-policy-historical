@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoosiertimes.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603232639id_/http%3A//www.hoosiertimes.com/services/htprivacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoosiertimes.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207064252id_/http%3A//www.hoosiertimes.com/services/htprivacy.php3) for the most accurate reproduction.*
 
 # HoosierTimes.com: Privacy Policy
 
