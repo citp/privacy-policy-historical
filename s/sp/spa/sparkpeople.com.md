@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605162424id_/http%3A//www.sparkpeople.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209045817id_/http%3A//www.sparkpeople.com/privacy.asp) for the most accurate reproduction.*
 
 # SparkPeople: Privacy Policy
 
@@ -6,7 +6,7 @@ _This policy covers information collected by SparkPeople.com and any other URLs 
 
  **SparkPeople.com DOES...** believe in protecting your privacy.
 
-**SparkPeople.com DOES NOT...** ever sell, rent, release or trade personal information about our site users to others, including customers of SparkPeople.com, without prior consent or a court order. No information can be released for any reason unless you give permission first.
+**SparkPeople.com DOES NOT...** ever sell, rent, release or trade personally identifiable information about our site users to others, including customers of SparkPeople.com, without prior consent or a court order. No personally identifiable information can be released for any reason unless you give permission first.
 
 **SparkPeople.com DOES...** maintain lists of customers or visitors.
 
@@ -26,7 +26,7 @@ _This policy covers information collected by SparkPeople.com and any other URLs 
 
 **SparkPeople.com DOES NOT...** require registration in order to use the portions of the site open to the general public. However, some specific features of the site, including GoalPilot and Membership, do require registration.
 
-**SparkPeople.com DOES NOT...** share information associated with any specific user with advertisers, other than IP reports that are used to verify billing.
+**SparkPeople.com DOES NOT...** share information associated with any specific user with advertisers.
 
 **SparkPeople.com DOES NOT...** download images, files, or cookies from third party servers.
 
