@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601235648id_/http%3A//www.qrz.com/i/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003210302id_/http%3A//www.qrz.com/i/privacy.html) for the most accurate reproduction.*
 
 # QRZ Callsign Database
 
