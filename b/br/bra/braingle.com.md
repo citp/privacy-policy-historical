@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braingle.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604000941id_/http%3A//braingle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braingle.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208032248id_/http%3A//www.braingle.com/privacy.php) for the most accurate reproduction.*
 
 # Braingle: Brain Teasers
 
@@ -10,7 +10,7 @@
 
 ### Information Collection and Use
 
-This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves such as their email address. This information will never be shared or sold. Users may remove themselves and their information from the web site's database by [contacting us](https://web.archive.org/web/20020604000941id_/http%3A//braingle.com/contact.php). This website and the advertisers on this website conform to the [Children's Online Privacy Protection Act](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm)
+This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves such as their email address. This information will never be shared or sold. Users may remove themselves and their information from the web site's database by [contacting us](https://web.archive.org/web/20021208032248id_/http%3A//www.braingle.com/contact.php). This website and the advertisers on this website conform to the [Children's Online Privacy Protection Act](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm)
 
 ### Cookies
 
@@ -36,7 +36,7 @@ From time-to-time our site requests information from users via surveys. Particip
 
 ### Security
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. If you have any questions about the security at our website, you can [contact us](https://web.archive.org/web/20020604000941id_/http%3A//braingle.com/contact.php). 
+This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. If you have any questions about the security at our website, you can [contact us](https://web.archive.org/web/20021208032248id_/http%3A//www.braingle.com/contact.php). 
 
 ### Notification of Changes
 
