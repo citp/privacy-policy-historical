@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208121839id_/http%3A//www.politics.ie/modules.php%3Fname%3DAbout%26func%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307123649id_/http%3A//www.politics.ie/modules.php%3Fname%3DAbout%26func%3DPrivacy) for the most accurate reproduction.*
 
 # Politics.ie
 
