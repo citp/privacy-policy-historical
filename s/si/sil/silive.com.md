@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025721id_/http%3A//silive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602230205id_/http%3A//silive.com/privacypolicy) for the most accurate reproduction.*
 
 # SILive.com: Privacy Policy
 
@@ -63,7 +63,7 @@ Privacy Policy Coordinator
 5th Floor  
 Jersey City, NJ 07306 
 
-|  | [](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/showcase/sliding.ssf/NQS/1467104998/SponsorRight/default/empty.gif/64316564656561643366636266663930)   
+|  | [](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/showcase/sliding.ssf/NQS/1237991625/SponsorRight/default/empty.gif/64316564656562323430626535633630)   
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
@@ -72,8 +72,8 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/privacypolicy/index.ssf/NQS/1638137473/Sponsor1/default/empty.gif/64316564656561643366636266663930)   
-[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/privacypolicy/index.ssf/NQS/1458658824/Tile1/SILIVE/ST_Chat/newchatxtra_tile.gif/64316564656561643366636266663930)   
+[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/privacypolicy/index.ssf/NQS/1139513706/Sponsor1/default/empty.gif/64316564656562323430626535633630)   
+[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/privacypolicy/index.ssf/NQS/478105918/Tile1/SILIVE/MK_BLAUTOS_ST2/SI_BLAuto1_190x90.gif/64316564656562323430626535633630)   
   
   
 
