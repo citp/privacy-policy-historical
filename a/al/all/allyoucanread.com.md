@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611033305id_/http%3A//allyoucanread.com/corp/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233715id_/http%3A//www.allyoucanread.com/corp/privacy_policy.asp) for the most accurate reproduction.*
 
 # AllYouCanRead.Com - Privacy Policy
 
