@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyzone.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202004058id_/http%3A//www.babyzone.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyzone.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204010650id_/http%3A//www.babyzone.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ BabyZone takes your online privacy seriously and we are fully committed to ensur
 
 **Third Party Cookies** \- In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-**Membership Registration** \- Many areas of BabyZone are reserved for BabyZone members who have registered with us; for example, chats, message boards and access to special services such as My BabyZone, special offers and sweepstakes. We may use customer contact information from this registration form to send members information about our company and promotional material from some of our partners via email and/or postal mail. All emails will contain simple instructions on how to unsubscribe.
+**Membership Registration** \- Many areas of BabyZone are reserved for BabyZone members who have registered with us; for example, chats, message boards and access to special services such as My BabyZone, special offers and sweepstakes. We may use customer contact information from this registration form to send members information about our company and promotional material from some of our partners via email and/or postal mail. All emails will contain simple instructions on how to unsubscribe. In certain instances we may provide certain members' postal addresses to third parties for postal mailings.
 
 **Edit Member Information** \- BabyZone provides you with the ability to access, correct or change certain information in your member profile at any time, including contact information or other information you've provided to us. Please be advised that BabyZone currently archives information it collects on its members and visitors. 
 
