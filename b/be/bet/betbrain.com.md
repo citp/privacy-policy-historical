@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the betbrain.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624201720id_/http%3A//www.betbrain.com/about/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betbrain.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208050108id_/http%3A//www.betbrain.com/about/privacypolicy.jsp) for the most accurate reproduction.*
 
 # BetBrain.com - Sports betting online made easy. Bet at the best odds from more than 75 sports books.
 
+|   
+---  
 |  |    QuickBrain   
   
 ---  
@@ -19,60 +21,31 @@
 
 
   
-|  Most Popular  
+|   Most Popular  
 ---  
 Popular Matches:  
-[ France - Greece ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268491 "France - Greece
-Football, Europe, European Championship")  
-[ Czech Repu - Denmark ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268807 "Czech Republic - Denmark
-Football, Europe, European Championship")  
-[ Sweden - Netherland ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268953 "Sweden - Netherlands
-Football, Europe, European Championship")  
-[ Bodø/Glimt - Molde FK ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268567 "Bodø/Glimt - Molde FK
-Football, Norway, Tippeligaen")  
-[ Fredriksta - V. Stavang ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268569 "Fredrikstad - Viking Stavanger
-Football, Norway, Tippeligaen")  
-[ SK Brann - Lillestrøm ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268568 "SK Brann - Lillestrøm SK
-Football, Norway, Tippeligaen")  
-[ HamKam - Odd Grenla ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268570 "Ham-Kam - Odd Grenland Skien
-Football, Norway, Tippeligaen")  
-[ Stabæk - Vålerenga ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268572 "Stabæk - Vålerenga IF
-Football, Norway, Tippeligaen")  
-[ Sogndal - Tromsø ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268571 "Sogndal - Tromsø
-Football, Norway, Tippeligaen")  
-[ Dallas Bur - Washington ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268618 "Dallas Burn - Washington DC United
-Football, United States, Major League Soccer")  
-[ Colum. Cre - Colo. Rapi ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268617 "Columbus Crew - Colorado Rapids
-Football, United States, Major League Soccer")  
-[ Revolution - MetroStars ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268619 "New England Revolution - MetroStars
-Football, United States, Major League Soccer")  
-[ Earthquake - Wizards ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268620 "San Jose Earthquakes - Kansas City Wizards
-Football, United States, Major League Soccer")  
-[ Chicago Fi - LA Galaxy ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268621 "Chicago Fire - Los Angeles Galaxy
-Football, United States, Major League Soccer")  
-[ Lyn - Rosenborg ](https://web.archive.org/odds/showmatch.jsp?from=front&dis=1&matchId=268825 "Lyn - Rosenborg BK
-Football, Norway, Tippeligaen")  
+[ Fenerbahç - Mancheste](https://web.archive.org/oddsviewer?view=detail&eventId=740791&betTypeId=1&site=0 "Fenerbahçe SK - Manchester United FC")  
+[ AS Roma - Real Madr](https://web.archive.org/oddsviewer?view=detail&eventId=740784&betTypeId=1&site=0 "AS Roma - Real Madrid")  
+[ Ajax Amst - FC Bayern](https://web.archive.org/oddsviewer?view=detail&eventId=740785&betTypeId=1&site=0 "Ajax Amsterdam - FC Bayern München")  
+[ Liverpool - Olympiako](https://web.archive.org/oddsviewer?view=detail&eventId=740786&betTypeId=1&site=0 "Liverpool - Olympiakos Piraeus FC")  
+[ Deportivo - AS Monaco](https://web.archive.org/oddsviewer?view=detail&eventId=740782&betTypeId=1&site=0 "Deportivo La Coruna - AS Monaco")  
+[ Olympique - AC Sparta](https://web.archive.org/oddsviewer?view=detail&eventId=740787&betTypeId=1&site=0 "Olympique Lyonnais - AC Sparta Praha")  
+[ Maccabi T - Juventus ](https://web.archive.org/oddsviewer?view=detail&eventId=740783&betTypeId=1&site=0 "Maccabi Tel-Aviv - Juventus FC")  
+[ Everton - Liverpool](https://web.archive.org/oddsviewer?view=detail&eventId=760366&betTypeId=1&site=0 "Everton - Liverpool")  
+[ TSV Bayer - Dyn Kiev](https://web.archive.org/oddsviewer?view=detail&eventId=740789&betTypeId=1&site=0 "TSV Bayer 04 Leverkusen - Dynamo Kiev")  
+[ Newcastle - Portsmout](https://web.archive.org/oddsviewer?view=detail&eventId=760369&betTypeId=1&site=0 "Newcastle United FC - Portsmouth")  
+[ Arsenal - Chelsea](https://web.archive.org/oddsviewer?view=detail&eventId=760372&betTypeId=1&site=0 "Arsenal - Chelsea")  
+[ Mancheste - Tottenham](https://web.archive.org/oddsviewer?view=detail&eventId=760604&betTypeId=1&site=0 "Manchester City - Tottenham Hotspur")  
+[ AC Milan - AC Fioren](https://web.archive.org/oddsviewer?view=detail&eventId=760371&betTypeId=1&site=0 "AC Milan - AC Fiorentina")  
+[ Atalanta - Udinese C](https://web.archive.org/oddsviewer?view=detail&eventId=760633&betTypeId=1&site=0 "Atalanta - Udinese Calcio")  
+[ West Brom - Charlton ](https://web.archive.org/oddsviewer?view=detail&eventId=760638&betTypeId=1&site=0 "West Bromwich Albion - Charlton Athletic")  
   
 Popular Outrights:  
-[ Eur, Euro. Champ. ](https://web.archive.org/odds/winnerview.jsp?from=qb&dis=1&leagueId=138&site=0 "Eur, European Championship
-Football, Europe")  
-[ Eur, Euro Top Goalsc ](https://web.archive.org/odds/winnerview.jsp?from=qb&dis=1&leagueId=2127&site=0 "Eur, European Championship Top Goalscorer
-Football, Europe")  
-[ Tennis, Wimbledon M' ](https://web.archive.org/odds/winnerview.jsp?from=qb&dis=3&leagueId=901&site=0 "Tennis, Wimbledon 2004 Men
-Tennis, England")  
-[ Int, World Cup ](https://web.archive.org/odds/winnerview.jsp?from=qb&dis=1&leagueId=178&site=0 "Int, World Cup 2006
-Football, International")  
-[ Eur, Champ. League ](https://web.archive.org/odds/winnerview.jsp?from=qb&dis=1&leagueId=33&site=0 "Eur, Champions League
-Football, Europe")  
-  
-Next Horse Races:  
-[21:20 Leicester  
-](https://web.archive.org/horses/showodds.jsp?dis=24&meeting=leicester&race=21:20)[21:35 Hamilton  
-](https://web.archive.org/horses/showodds.jsp?dis=24&meeting=hamilton&race=21:35)  
-  
-* * *
-
-  
+[Eur, Champions Leag](https://web.archive.org/oddsviewer?view=overview&eventId=153255&betTypeId=7&site=0 "Football, Eur, Champions Leag")  
+[Int, WC UEFA Q 1](https://web.archive.org/oddsviewer?view=overview&eventId=2031&betTypeId=7&site=0 "Football, Int, WC  UEFA Q 1")  
+[Eng, Prem. Leag](https://web.archive.org/oddsviewer?view=overview&eventId=1&betTypeId=7&site=0 "Football, Eng, Prem. Leag")  
+[Eur, Champions Leag ](https://web.archive.org/oddsviewer?view=overview&eventId=151918&betTypeId=7&site=0 "Football, Eur, Champions Leag  Grp. A")  
+[Ita, Serie A](https://web.archive.org/oddsviewer?view=overview&eventId=10&betTypeId=7&site=0 "Football, Ita, Serie A")  
   
 |  |  Privacy Policy  
 ---  
