@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012091858id_/http%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604040021id_/http%3A//ccavenue.com/privacy.jsp) for the most accurate reproduction.*
 
 # CCAvenue :: Payment Gateway India - How it works ?.
 
-This Privacy Policy covers CCAvenue.com's treatment of personally identifiable information collected from Sub-Merchants who use the CCAvenue.compayment gateway services, as well as consumer information that we acquire in the course ofour business. This Policy also covers the treatment of personally identifiable information thatCCavenue.com's back end technology providers / partners may share with it.
+This Privacy Policy covers CCAvenue.com's treatment of personally identifiable information collected from Sub-Merchants who use the CCAvenue.com payment gateway services, as well as consumer information that we acquire in the course ofour business. This Policy also covers the treatment of personally identifiable information thatCCavenue.com's back end technology providers / partners may share with it.
 
 This Policy does not apply to the practices of companies that CCAvenue.com does not own or control, or to people that CCavenue.com does not employ or manage. CCAvenue.com is a wholly owned subsidiary of Avenues (India) Private Limited. This Policy is specific to CCAvenue.com and does not apply to Avenues (India) Private limited or AuctionsAvenue.com or EscrowAvenue.com or other Web sites or Internet services that are part of or to be part of the Avenues Network.
 
