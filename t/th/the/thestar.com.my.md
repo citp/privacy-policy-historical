@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622080024id_/http%3A//www.thestar.com.my/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210091829id_/http%3A//thestar.com.my/info/privacy.asp) for the most accurate reproduction.*
 
 # The Star Online: Privacy Statement
 
 **Privacy Statement for The Star Online**
 
-Star Publications (Malaysia) Bhd (co. no. 10894-D) has, through its subsidiary I.STAR Sdn Bhd (co. no. 422871-T) created this privacy statement to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, The Star Online. 
+Star Publications (Malaysia) Bhd (co. no. 10894-D) has created this privacy statement to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, The Star Online. 
 
 **Information collected by The Star Online**  
 Our Web servers do not automatically recognise specific information about individual users on our site. In addition, our servers do not automatically record information regarding a user's e-mail address unless the user supplies it. 
@@ -15,7 +15,7 @@ We collect information about users during the registration process for certain p
 
 The information collected is meant to identify the broad demographic profile of our users. This information does not contain anything that can identify users individually. We may combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our users and their preferences in the content of the site and advertising. You may receive periodic mailings from us with information on new products or services in our newspaper or on our site. 
 
-The user-supplied information collected through the registration process, surveys, contest entry forms, polls or other similar vehicles is used to improve the content of our site, or used for Star Publications (Malaysia) Bhd and I.STAR Sdn Bhd's marketing purposes. It is not shared with other organisations for commercial purposes unless specifically stated. We may use such information for targeting appropriate editorial or advertising content to users but users will always be able to opt out of such mailings. 
+The user-supplied information collected through the registration process, surveys, contest entry forms, polls or other similar vehicles is used to improve the content of our site, or used for Star Publications (Malaysia) Bhd’s marketing purposes. It is not shared with other organisations for commercial purposes unless specifically stated. We may use such information for targeting appropriate editorial or advertising content to users but users will always be able to opt out of such mailings. 
 
 **Public Forums**  
 This site makes chat rooms, forums, and/or message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We respect freedom of speech and request that users respect one another in exercising said freedom. 
@@ -29,7 +29,8 @@ This site has security measures in place to protect the loss, misuse and alterat
 **Contacting The Star Online**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you may contact: 
 
-_I.STAR Sdn Bhd  
+_I.Star Division  
+Star Publications (Malaysia) Berhad  
 Level 7 Menara Star  
 15 Jln 16/11  
 46350 Petaling Jaya  
