@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vive.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811181238id_/http%3A//www.vive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vive.com privacy policy that was archived on 2004-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040423032014id_/http%3A//vive.com/privacy.htm) for the most accurate reproduction.*
 
 # Flash Horizon
 
@@ -73,4 +73,4 @@ The foregoing policies are effective as of March 1, 2002. FLASHLINE reserves the
 
 * * *
 
-[Company](https://web.archive.org/web/20030811181238id_/http%3A//www.vive.com/index.htm) | [ Products](https://web.archive.org/web/20030811181238id_/http%3A//www.vive.com/products.htm) | [ Solutions](https://web.archive.org/web/20030811181238id_/http%3A//www.vive.com/applications.htm) | [ Sales](https://web.archive.org/web/20030811181238id_/http%3A//www.vive.com/sales.htm) | [ Support](https://web.archive.org/web/20030811181238id_/http%3A//www.vive.com/support.htm) | [Services](https://web.archive.org/web/20030811181238id_/http%3A//www.vive.com/services/index.htm) | [Site Map](https://web.archive.org/web/20030811181238id_/http%3A//www.vive.com/sitemap.htm)
+[Company](https://web.archive.org/web/20040423032014id_/http%3A//vive.com/index.htm) | [ Products](https://web.archive.org/web/20040423032014id_/http%3A//vive.com/products.htm) | [ Solutions](https://web.archive.org/web/20040423032014id_/http%3A//vive.com/applications.htm) | [ Sales](https://web.archive.org/web/20040423032014id_/http%3A//vive.com/sales.htm) | [ Support](https://web.archive.org/web/20040423032014id_/http%3A//vive.com/support.htm) | [Services](https://web.archive.org/web/20040423032014id_/http%3A//vive.com/services/index.htm) | [Site Map](https://web.archive.org/web/20040423032014id_/http%3A//vive.com/sitemap.htm)
