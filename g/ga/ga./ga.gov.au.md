@@ -1,32 +1,36 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217133715id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408155253id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
 
 # Geoscience Australia: About Us: Privacy and Security
 
   | 
 
-[About Us](https://web.archive.org/about/index.jsp)  
+[About Us](https://web.archive.org/about/)  
 [Contacts](https://web.archive.org/about/contacts/contacts.jsp)  
-[History](https://web.archive.org/about/history/index.jsp)  
-[CEO's message](https://web.archive.org/about/message/index.jsp)  
+[History](https://web.archive.org/about/history/)  
+[CEO's message](https://web.archive.org/about/message/)  
 [Organisational structure](https://web.archive.org/about/contacts/structure.jsp)  
-[Corporate documents](https://web.archive.org/about/corporate/index.jsp)  
+[Corporate documents](https://web.archive.org/about/corporate/)  
 [Business Opportunities](https://web.archive.org/general/technotes/1008027124_10247.jsp)  
 
 
-[Factsheets](https://web.archive.org/education/factsheets/index.jsp)  
+[Factsheets](https://web.archive.org/education/factsheets/)  
 [Urban Centres](https://web.archive.org/urban/factsheet.jsp)  
 [Oceans & Coasts](https://web.archive.org/oceans/factsheet.jsp)  
 [Rural & Regional](https://web.archive.org/rural/factsheet.jsp)  
 
 
-  
+[Join our email lists](https://www.agso.gov.au/sec-bin/subscribe.pl)
+
 |   | 
 
 ## PRIVACY and SECURITY
 
-#### Privacy
+  * #### Privacy
 
-#### Security
+  * #### Security
+
+
+
 
 ## PRIVACY
 
@@ -84,7 +88,7 @@ The Internet is not a secure network, and as such, information you send may be i
 
 If you are sending us private information you should check that you are linked to our secure server. You can do this in two ways: 
 
-  1. Check that the web address in your browser starts with **https** rather than just **http** ( _this page would be https://www.ga.gov.au/privacy.jsp_ ). 
+  1. Check that the web address in your browser starts with **https** rather than just **http** ( _this page would be https://www.agso.gov.au/privacy.jsp_ ). 
   2. If you can't find the web address, then most web browsers will display a padlock , usually at the bottom of the page. If the site is insecure some browsers may show an open padlock . 
 
 
