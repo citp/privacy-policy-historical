@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621162513id_/http%3A//www.videoeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008174817id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
 
 # VideoETA -- The most comprehensive DVD release dates site
 
@@ -19,11 +19,11 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 If you have any additional questions about VideoETA's dedication to visitor privacy, please contact us at mail@videoeta.com.
 
-|  [](https://web.archive.org/movie.html?id=57082&ad=220)
+|  [](https://web.archive.org/movie.html?id=58694&ad=229)
 
-[**Sin Sisters**](https://web.archive.org/movie.html?id=57082&ad=220)   
-Coming Jul 22  
-[Remind me when it's released!](https://web.archive.org/reminder.html?id=57082)  
+[**Spiderbabe**](https://web.archive.org/movie.html?id=58694&ad=229)   
+Coming Oct 14  
+[Remind me when it's released!](https://web.archive.org/reminder.html?id=58694)  
  
 
 [  
