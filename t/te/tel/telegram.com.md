@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413085617id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217203534id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.*
 
 # Worcester Telegram & Gazette Online
 
