@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exemplum.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605103526id_/http%3A//www.exemplum.com/content/legal/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exemplum.com privacy policy that was archived on 2004-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041226012053id_/http%3A//www.exemplum.com/content/legal/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Exemplum - Privacy Policy
 
