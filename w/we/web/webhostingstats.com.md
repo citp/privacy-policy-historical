@@ -1,37 +1,25 @@
-> *The following text is extracted and transformed from the webhostingstats.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217044749id_/http%3A//www.zipsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingstats.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405210344id_/http%3A//www.zipsearch.com/privacy.html) for the most accurate reproduction.*
 
-# ZipSearch.com and Privacy Information
+# Privacy
 
-Our Commitment To Privacy
+**Our commitment is to your privacy...** Your privacy is very important to us. We provide this notice to protect your privacy. The following explains our online information practices, and the choices you can make about the way your information is collected and used.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-
-The Information We Collect:
-
+The Information We Collect:  
 When you inquire online the information you submit is sent directly to the company of your choosing and kept for statistical purposes. We do not resell your information.
 
-The Way We Use Information:
+The Way We Use Information:  
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. You can register with our web site if you would like to be on our mailing list so as to receive updates on our new products and services. Information you submit on our web site will not be used for this purpose unless you complete the appropriate registration form. We use non-identifying and aggregate information to better design our web site and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our web site, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-
-You can register with our website if you would like to be on our mailing list so as to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you complete the appropriate registration form.
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
-
-Our Commitment To Data Security
-
+Our Commitment To Data Security:  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-Our Commitment To Children's Privacy:
+Our Commitment To Children's Privacy:  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13, and no part of our web site is structured to attract anyone under 13.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+How You Can Correct Your Information:  
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-How You Can Correct Your Information
+How To Contact Us:  
+Should you have other questions or concerns about these privacy policies, please call us at (800) 949-2919 or send us an email at [contact@zipsearch.com](mailto:contact@zipsearch.com "Contact Us")
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-How To Contact Us
-
-Should you have other questions or concerns about these privacy policies, please call us at (800) 949-2919 or send us an email at [email@zipsearch.com](mailto:email@zipsearch.com)
+|  | 
