@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the seminoles.com privacy policy that was archived on 2000-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001008171245id_/http%3A//www.fansonly.com/channels/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seminoles.com privacy policy that was archived on 2001-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604021900id_/http%3A//www.fansonly.com/channels/site/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-
 <title>FANSonly - Your Ticket to College Sports</title>
 <link rel="STYLESHEET" type="text/css" href="http://www.fansonly.com/style/fo-style.css">  
 <style type="text/css">
@@ -20,24 +19,15 @@ function tourneyPopup()	{
 }
 
 function launcher(url,name,x,y) {
-	var extras = "toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,scrollbars=no,width=" + x + ",height=" + y;
-	window.open(url,name,extras);
-}
+   var extras = "toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,scrollbars=no,width=" + x + ",height=" + y;
+   window.open(url,name,extras);
+   }
 
-function dropper(form,operation) {
-	if (operation == "new") {
-		window.open(form.options[form.selectedIndex].value);
-	}
-	else if (operation == "same") {
-		window.location = form.options[form.selectedIndex].value;
-	}
-}
 // end hide -->
 </script>
 </head>
-
 <body bgcolor="#ffffff" link="#000099" vlink="#000099" alink="#990000" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-<form action="http://interact.fansonly.com/nl_sign_up/index.cfm" method="get">
+<form action="/cgi-bin/subscribe.cgi" method="post">
 <table width="724" border="0" cellpadding="0" cellspacing="0">  
   <tbody><tr>
     <td rowspan="8" width="261" height="72"><a href="http://www.fansonly.com"><img src="http://graphics.fansonly.com/graphics/fo-front-logo.gif" width="261" height="72" alt="FANSonly - Your Ticket to College Sports" border="0"></a><br></td>    
@@ -58,8 +48,10 @@ function dropper(form,operation) {
     </font>
     </td>
     <td bgcolor="#006699" align="center" width="119" height="41">    
-    <input type="hidden" name="nl_code" value="fo">
     <input type="text" size="14" name="email" value="your email" valign="top">
+    <input type="hidden" name="listserver" value="fansonly-announce-request@list.fansonly.com">
+    <input type="hidden" name="action" value="subscribe">
+    <input type="hidden" name="listname" value="fansonly-announce">             
     </td>
     <td bgcolor="#006699" width="21"><input type="Image" src="http://graphics.fansonly.com/graphics/search-go-button.gif" border="0" width="21" height="18" alt="Go"></td>
     <td width="10" bgcolor="#006699"><!-- SPACE BEFORE SCOREBOARD --><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="10" height="1" alt="" border="0"><br></td>
@@ -67,75 +59,48 @@ function dropper(form,operation) {
       <table cellpadding="1" cellspacing="0" border="0" bgcolor="#000000">
         <tbody><tr>
           <td width="135">
-          		<scoreboard begin="">
- 
-		
-		      <script>
-		      FlashMode = 0;
-		      if (navigator.appName == "Netscape" && navigator.plugins) {
-		         numPlugins = navigator.plugins.length;
-		         if (numPlugins > 0) 
-		          {
-        	    
-            		for (i = 0; i < numPlugins; i++)
-		            {
-        		       plugin = navigator.plugins[i];
-		               if (plugin.description.indexOf("Flash 3") != -1)
-        		       {
-                		  numTypes = plugin.length;
-		                  for (j = 0; j < numTypes; j++) 
-        		          {
-                		     mimetype = plugin[j];
-		                     
-        		             if (mimetype)
-                		     {     
-                        		if (mimetype.enabledPlugin && (mimetype.suffixes.indexOf("swf") != -1))
-		                           FlashMode = 1;
-        		                // Mac wierdness
-                		        if (navigator.mimeTypes["application/x-shockwave-flash"] == null)
-                        		   FlashMode = 0;
-		                     }
-        		          }
-		               }
-																	
-					//flash4 plugin
-					if (plugin.description.indexOf("Flash 4") != -1) {
-     					numTypes = plugin.length;
-						for (j = 0; j < numTypes; j++) {
-				       		mimetype = plugin[j];
-																					
-    				   		if (mimetype) {     
-         						if (mimetype.enabledPlugin && (mimetype.suffixes.indexOf("swf") != -1))
-          							FlashMode = 1;
-		         				// Mac wierdness
-  		       					if (navigator.mimeTypes["application/x-shockwave-flash"] == null)
-           							FlashMode = 0;
-    			    			}
-      						}
-    					}
-        		    }
-		         }                        
-		      }
-		</script>
- 
-		<script language="JavaScript">
-		<!--
-		if (FlashMode) {
-		     document.write('<EMBED SRC="http://graphics.fansonly.com/flash/top25-scoreboard.swf"');
-		     document.write(' NAME=scoreboard WIDTH=135 HEIGHT=64 ALIGN=top');
-		     document.write(' LOOP=true QUALITY=high SCALE=exactfit SALIGN=T MENU=false BGCOLOR=000000');
-		     document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/top25ex.cgi?P1_Prod_Version=ShockwaveFlash">');
-		     document.write(' <NOEMBED><A HREF="http://www.fansonly.com/channels/news/sports/m-footbl/index.html"><IMG SRC="http://graphics.fansonly.com/flash/top25-scoreboard.gif" WIDTH=135 HEIGHT=64 BORDER=0><BR></A></NOEMBED>');
-		}
-		else  { 
-		  document.write('<A HREF="http://www.fansonly.com/channels/news/sports/m-footbl/index.html"><IMG SRC="http://graphics.fansonly.com/flash/top25-scoreboard.gif" WIDTH=135 HEIGHT=64 BORDER=0><BR></A>');}
-		//-->
-		</script><a href="http://www.fansonly.com/channels/news/sports/m-footbl/index.html"><img src="http://graphics.fansonly.com/flash/top25-scoreboard.gif" width="135" height="64" border="0"><br></a>
- 
-		
- 
-		<scoreboard end="">
-          </scoreboard></scoreboard></td>
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash/cabs/swflash.cab#version=3,0,0,0" width="135" height="64" name="sw" id="sw">
+<param name="Movie" value="http://graphics.fansonly.com/flash/top25-m-basebl-scoreboard.swf">
+<param name="quality" value="high">
+<param name="Loop" value="false">
+<param name="play" value="true">
+<param name="scale" value="exactfit">
+<param name="salign" value="T">
+<param name="menu" value="false">
+<param name="bgcolor" value="000033">
+
+<!-- begin the JavaScript -->
+<script language="JavaScript">
+
+<!--hiding contents of script from old browsers
+
+//...write out the following <EMBED> tag into the document.
+//If this browser understands the mimeTypes property and recognizes the MIME Type
+//"application/futuresplash"...
+//begin the OBJECT tag, which will be understood by ActiveX-capable browsers
+
+
+if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) {
+document.write('<EMBED SRC="http://graphics.fansonly.com/flash/top25-m-basebl-scoreboard.swf" WIDTH="135" HEIGHT="64" ');
+document.write('LOOP="false" QUALITY="high" SCALE=exactfit SALIGN=T MENU=false BGCOLOR=000033 ');
+document.write('TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"><BR>');
+}
+
+
+else {
+
+document.write('<A HREF="http://www.fansonly.com/channels/news/sports/m-basebl/index.html"><IMG SRC="http://graphics.fansonly.com/flash/top25-m-basebl-scoreboard.gif" WIDTH=135 HEIGHT=64 BORDER=0><BR></A>');
+}
+
+
+
+//Done hiding from old browsers. -->
+</script><a href="http://www.fansonly.com/channels/news/sports/m-basebl/index.html"><img src="http://graphics.fansonly.com/flash/top25-m-basebl-scoreboard.gif" width="135" height="64" border="0"><br></a>
+
+<!-- Close the OBJECT tag. -->
+</object>
+
+          </td>
         </tr>
       </tbody></table>
     </td>    
@@ -165,7 +130,8 @@ function dropper(form,operation) {
 <table width="724" cellpadding="0" cellspacing="0" border="0">
   <tbody><tr>
     <td width="140" align="center" valign="top">   
-    <a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=fo/POS=120x60" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a><br>
+    
+<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=fo/SECT=promo/POS=120x60" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a><br>
     <img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="4" alt="" border="0"><br></td>
     <td width="584" align="right">
     <!-- 468 AD BANNER TABLE -->
@@ -176,7 +142,8 @@ function dropper(form,operation) {
           <td rowspan="3" width="14" height="71"><img src="http://graphics.fansonly.com/graphics/468ad-right-curve.gif" width="14" height="71" alt="" border="0"></td>
         </tr>
         <tr>
-          <td bgcolor="#000000" align="center"><a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=fo/POS=TOP" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a></td>
+          <td bgcolor="#000000" align="center">
+<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=fo/POS=TOP" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a></td>
         </tr>
         <tr>
           <td bgcolor="#cccccc" height="2"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="2" alt="" border="0"><br></td>
@@ -189,90 +156,8 @@ function dropper(form,operation) {
 <!-- BEGIN MAIN OUTER TABLE -->
 <table width="724" cellpadding="0" cellspacing="0" border="0">
   <tbody><tr>
-    <td width="140" valign="top">    
-    <form action="http://www.fansonly.com/cgi-bin/go-to-site.cgi" method="post">
-			<select name="location" onchange="dropper(this,'new');" id="oas-drop">
-			<option value="http://www.fansonly.com/oas/" selected="">Official Sites</option>
-			<option value="http://www.fansonly.com/oas/">------</option>
-						<option value="http://www.thesundevils.com">Arizona State</option>		
-			<option value="http://www.goarmysports.com">Army</option>		
-			<option value="http://www.gobaylorbears.com">Baylor</option>		
-			<option value="http://www.bceagles.com">Boston College</option>		
-			<option value="http://www.bgsufalcons.com">Bowling Green</option>		
-			<option value="http://www.calbears.com">California</option>		
-			<option value="http://www.cmuchippewas.com">Central Michigan</option>		
-			<option value="http://www.charlotte49ers.com">Charlotte</option>		
-			<option value="http://www.clemsontigers.com">Clemson</option>		
-			<option value="http://www.cosida.com">CoSIDA</option>		
-         <option value="http://www.gocreighton.com">Creighton</option>		
-			<option value="http://www.gopurpleaces.com/">Evansville</option>		
-			<option value="http://www.fairfieldstags.com">Fairfield</option>		
-			<option value="http://www.fansonly.com">FANSonly</option>		
-			<option value="http://www.seminoles.com">Florida State</option>		
-			<option value="http://www.gobulldogs.com">Fresno State</option>		
-			<option value="http://www.gozags.com">Gonzaga</option>		
-			<option value="http://www.fightingillini.com">Illinois</option>		
-			<option value="http://www.uicflames.com">Illinois-Chicago</option>		
-			<option value="http://www.cyclones.com">Iowa State</option>		
-			<option value="http://www.goleopards.com">Lafayette</option>		
-			<option value="http://www.uoflsports.com">Louisville</option>		
-			<option value="http://www.gomarquette.com">Marquette</option>		
-			<option value="http://www.umterps.com">Maryland</option>		
-			<option value="http://www.umassathletics.com">Massachusetts</option>		
-			<option value="http://www.gotigersgo.com">Memphis</option>		
-			<option value="http://www.hurricanesports.com">Miami</option>		
-			<option value="http://www.msuspartans.com">Michigan State</option>		
-			<option value="http://www.olemisssports.com">Mississippi</option>		
-			<option value="http://www.mutigers.com">Missouri</option>		
-			<option value="http://www.mountainwestconf.com">Mountain West</option>		
-			<option value="http://www.mountathletics.com">Mt. St. Mary's</option>		
-			<option value="http://www.nevadawolfpack.com">Nevada</option>		
-			<option value="http://www.nmstatesports.com">New Mexico State</option>		
-			<option value="http://www.tarheelblue.com/">North Carolina</option>		
-			<option value="http://www.uncbears.com">No. Colorado</option>		
-			<option value="http://www.nusports.com">Northwestern</option>		
-			<option value="http://www.und.com">Notre Dame</option>		
-			<option value="http://www.ohiostatebuckeyes.com">Ohio State</option>		
-			<option value="http://www.soonersports.com">Oklahoma</option>		
-			<option value="http://www.okstate.com">Oklahoma State</option>		
-			<option value="http://www.orangebowl.org">Orange Bowl</option>		
-			<option value="http://www.goducks.com">Oregon</option>		
-			<option value="http://www.osubeavers.com">Oregon State</option>		
-			<option value="http://www.pittsburghpanthers.com">Pittsburgh</option>		
-			<option value="http://www.goviks.com">Portland State</option>		
-			<option value="http://www.goprincetontigers.com">Princeton</option>		
-			<option value="http://www.friars.com">Providence</option>		
-			<option value="http://www.purduesports.com">Purdue</option>		
-			<option value="http://www.gorhody.com">Rhode Island</option>		
-			<option value="http://www.slubillikens.com">Saint Louis</option>		
-			<option value="http://www.samfordsports.com">Samford</option>		
-			<option value="http://www.goaztecs.com">San Diego State</option>		
-			<option value="http://www.usdcoyotes.com">South Dakota</option>		
-			<option value="http://www.gosoutheast.com">SE Missouri St</option>		
-			<option value="http://www.gostanford.com">Stanford</option>		
-			<option value="http://www.sfajacks.com/">S.F. Austin</option>		
-			<option value="http://www.goseawolves.fansonly.com">Stony Brook</option>		
-			<option value="http://www.texastech.com">Texas Tech</option>		
-			<option value="http://www.utrockets.com">Toledo</option>		
-			<option value="http://www.tulanegreenwave.com">Tulane</option>		
-			<option value="http://www.tulsahurricane.com">Tulsa</option>		
-			<option value="http://www.intotheknights.com">UCF</option>		
-			<option value="http://www.uclabruins.com">UCLA</option>		
-			<option value="http://www.ucsbgauchos.com">UCSB</option>		
-			<option value="http://www.unlvrebels.com">UNLV</option>		
-			<option value="http://www.usctrojans.com">USC</option>		
-			<option value="http://www.utahutes.com">Utah</option>		
-			<option value="http://www.villanova.com">Villanova</option>		
-			<option value="http://www.virginiasports.com">Virginia</option>		
-			<option value="http://www.wakeforestsports.com">Wake Forest</option>		
-			<option value="http://www.gohuskies.com">Washington</option>		
-			<option value="http://www.wsucougars.com">Washington State</option>		
-			<option value="http://www.wcha.com">WCHA</option>		
-			<option value="http://www.wkusports.com">West. Kentucky</option>		
-			<option value="http://www.umwpanthers.com">Wisconsin-Mil.</option>		
-			<option value="http://www.wyomingathletics.com">Wyoming</option>
-		
-			</select><br><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="4" alt="" border="0"><br>
+    <td width="140" align="center" valign="top">    
+    <!-- BEGIN LEFT SIDE NAV TABLE-->
     <table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
       <tbody><tr>
         <td bgcolor="#cccccc" width="140">
@@ -410,7 +295,8 @@ function dropper(form,operation) {
               <td width="125">
               <font class="NAVlinks">
               <a href="http://www.fansonly.com/oas/" class="NAVlinks">Official Sites</a><br>
-							<a href="http://aw1.air2web.com/fansonly/enter_phonenum.jsp" class="NAVlinks">Wireless Updates</a><br>
+              <a href="http://www.fansonly.com/store/" class="NAVlinks">FANSonly FANStore</a><br>
+				  <a href="http://aw1.air2web.com/fansonly/enter_phonenum.jsp" class="NAVlinks">Wireless Updates</a><br>
               <a href="http://www.fansonly.com/wire/" class="NAVlinks">NewsWire</a><br>
               <a href="http://www.fansonly.com/media/" class="NAVlinks">About Us</a><br>              
 			 				<a href="http://www.fansonly.com/media/jobs.html" class="NAVlinks">Jobs at FANSonly</a>
@@ -432,7 +318,6 @@ function dropper(form,operation) {
               <font class="NAVlinks">
               <a href="http://bbs.fansonly.com/" class="NAVlinks">Message Boards</a><br>
               <a href="http://interact.fansonly.com/" class="NAVlinks">Games/Contests</a><br>
-              <a href="http://www.fansonly.com/marketplace/" class="NAVlinks">Marketplace</a><br>        
               </font>
               </td>
               <td width="3" bgcolor="#cccccc"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="3" height="1" alt="" border="0"><br></td>
@@ -459,6 +344,7 @@ function dropper(form,operation) {
               <td colspan="3"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="10" alt="" border="0"><br></td>
               <td width="3" bgcolor="#cccccc"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="3" height="1" alt="" border="0"><br></td>        
             </tr>         
+
                           
           </tbody></table>
         </td>
@@ -476,7 +362,7 @@ function dropper(form,operation) {
     </tbody></table>
     <!-- END LEFT SIDE NAV TABLE-->
 
-    </form></td>
+    </td>
 <!-- END TD CELL FOR LEFT SIDE NAV -->
     <td width="12"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="12" height="1" alt="" border="0"><br></td>
     <td width="572" valign="top">
@@ -540,15 +426,15 @@ Suite 200<br>
 Carlsbad, CA 92009<br>
 <a href="mailto:webmaster@fansonly.com">webmaster@fansonly.com</a>
 </p></td></tr></tbody></table>
-        </p></td>
+	</p></td>
   </tr>
 </tbody></table>
-          
+	  
 <table width="724" cellpadding="0" cellspacing="0" border="0">        
   <tbody><tr>
     <td width="152">
-        <img src="http://graphics.fansonly.com/graphics/spacer.gif" width="152" height="1" alt="" border="0"><br>
-        </td>      
+	<img src="http://graphics.fansonly.com/graphics/spacer.gif" width="152" height="1" alt="" border="0"><br>
+	</td>      
     <td width="572" align="right" valign="bottom">          
     <img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="16" alt="" border="0"><br>
       <table width="572" cellpadding="0" cellspacing="0" border="0">
@@ -558,7 +444,8 @@ Carlsbad, CA 92009<br>
           <td rowspan="3" width="14" height="71"><img src="http://graphics.fansonly.com/graphics/468ad-right-curve.gif" width="14" height="71" alt="" border="0"></td>
         </tr>
         <tr>
-          <td bgcolor="#000000" align="center" valign="middle"><a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=fo/POS=BOT" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a></td>
+          <td bgcolor="#000000" align="center" valign="middle">
+<a href="/cgi-bin/accipiter/adclick.exe/CID=00002b950000000000000000/SITE=fo/POS=BOT" target="_parent"><img src="http://graphics.fansonly.com/ads/spacer.gif" alt="" border="0" ismap=""></a></td>
         </tr>
         <tr>
           <td bgcolor="#cccccc" height="2"><img src="http://graphics.fansonly.com/graphics/spacer.gif" width="1" height="2" alt="" border="0"><br></td>
@@ -592,7 +479,6 @@ Carlsbad, CA 92009<br>
   </tr>
 </tbody></table>
 <br><br>
-
 
 
 
