@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kuder.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuder.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm) for the most accurate reproduction.*
 
 # National Career Assessment Services - Online Privacy Policy
 
-[Home](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/Default.htm) | [On-line Assessment](https://web.archive.org/web/20001211011700id_/http%3A//kuderonline) | [Kuder](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/kcsintro.htm) | [ICLA](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/iclaintro.htm) | [Catalog](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/catalog.htm) | [What's New](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/whatsnew.htm) | [Profile](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/profile.htm) | [Links](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/links.htm)  
+[Home](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/Default.htm) | [Online Assessment](https://web.archive.org/web/20010603142136id_/http%3A//kuderonline) | [Portfolio](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/Portfolio%20Sample/portfolio.htm) | [Kuder](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/kcsintro.htm) | [ICLA](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/iclaintro.htm) | [Catalog](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/catalog.htm) | [What's New](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/whatsnew.htm) | [Profile](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/profile.htm) | [Links](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/links.htm)  
   
 **NCASI ® Privacy Policy**  
   
@@ -21,11 +21,11 @@ National Career Assessment Services, Inc.TM (NCASI®) is committed to your priva
   
 ---|---  
 **Click to view a specific area of the privacy policy...**  
-| [Information](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Information) | [Registration](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#registration) | [Orders](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#orders) | [Cookies](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#cookies)  
+| [Information](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Information) | [Registration](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#registration) | [Orders](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#orders) | [Cookies](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#cookies)  
 ---|---|---|---  
-[IP Addresses](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#IPaddresses) | [Partners](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#partners) | [Hyperlinks](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#hyperlinks) | [Newsletter](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#newsletter)  
-[Surveys/Contests](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#surveys) | [Referrals](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#referrals) | [Security](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#security) | [Special Offers](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#special)  
-[Updates](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#updates) | [Changing Personal Information](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#personal) | [Opt-In/Opt-Out](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#opt) | [Policy Changes](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#policy)  
+[IP Addresses](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#IPaddresses) | [Partners](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#partners) | [Hyperlinks](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#hyperlinks) | [Newsletter](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#newsletter)  
+[Surveys/Contests](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#surveys) | [Referrals](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#referrals) | [Security](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#security) | [Special Offers](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#special)  
+[Updates](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#updates) | [Changing Personal Information](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#personal) | [Opt-In/Opt-Out](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#opt) | [Policy Changes](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#policy)  
 ****
 
 **INFORMATION**
@@ -36,7 +36,7 @@ NCASI® does not target registration to or knowingly collect information directl
 
 Remember, however, the very best protection involves counseling your children regarding providing information online, and supervising their online activities. If you have any questions regarding any aspect of our Privacy Policy or would like to remove any information which you believe was inadvertently collected directly from a child under thirteen years of age, please email us at [webmaster@ncasi.com](mailto:webmaster@ncasi.com)
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -44,7 +44,7 @@ Remember, however, the very best protection involves counseling your children re
 
 In order to use this web site, you must first complete the registration form. During registration you are required to give your contact information (such as name and email address). This information is used to contact you about the services on our web site for which you have expressed interest. You have the option of providing demographic information (such as income level and gender), and unique identifiers (such as social security number). We encourage you to provide this information so we can provide you with a more personalized experience on our web site. 
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -52,7 +52,7 @@ In order to use this web site, you must first complete the registration form. Du
 
 We request information from you on our order form. Here you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, this contact information is used to get in touch with you.
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -62,7 +62,7 @@ A cookie is a piece of data stored on your hard drive containing information abo
 
 Some of our business partners use cookies on our web site (for example, advertisers). However, we have no access to or control over these cookies.
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -70,7 +70,7 @@ Some of our business partners use cookies on our web site (for example, advertis
 
 We use IP addresses for analyzing trends, administering the web site, tracking user’s movement, and gathering broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -82,7 +82,7 @@ We use an outside shipping company to ship orders, and a credit card processing 
 
 We sometimes partner with another company to provide specific services. When you sign up for these services, we will share names, or other contact information that is necessary for the companies to provide these services to you. These companies are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -90,7 +90,7 @@ We sometimes partner with another company to provide specific services. When you
 
 This web site contains links to other web sites. Please be aware that NCASI® is not responsible for the privacy practices of such other web sites. We encourage you to note when you leave our web site and read the privacy statements of each web site that collects personally identifiable information. This Privacy Policy only applies to information collected by our web site.
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -98,7 +98,7 @@ This web site contains links to other web sites. Please be aware that NCASI® is
 
 If you wish to subscribe to our newsletter, we will ask you for contact information such as name and email address. 
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -106,7 +106,7 @@ If you wish to subscribe to our newsletter, we will ask you for contact informat
 
 From time-to-time our web site may request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary and, therefore, you have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this web site.
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -114,7 +114,7 @@ From time-to-time our web site may request information from you via surveys or c
 
 If you use our referral program to inform a friend about our web site, we ask you for the friend’s name and email address. NCASI® will automatically send the friend a one-time email inviting them to visit the web site. NCASI® stores this information for the sole purpose of sending this one-time email. The friend may send an email to [webmaster@ncasi.com](mailto:webmaster@ncasi.com) to request the removal of this information from their database.
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 **SECURITY**
 
@@ -126,19 +126,19 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 If you have any questions about the security at our web site, you can send an email to [webmaster@ncasi.com](mailto:webmaster@ncasi.com)
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 **SPECIAL OFFERS**
 
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for your privacy we present the option to not receive these types of communications. Please see our choice and opt-out below.
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 **UPDATES**
 
 We also send web site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service. 
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -154,7 +154,7 @@ Adel, Iowa 50003
 
 You can also do this via telephone at 800-314-8972 or by emailing our webmaster at [webmaster@ncasi.com](mailto:webmaster@ncasi.com).
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 **OPT-IN/OPT-OUT**
 
@@ -164,7 +164,7 @@ If you no longer wish to receive our newsletter or promotional materials from ou
 
 You are always notified when your information is being collected by any outside parties. We do this so you can make an informed choice as to whether you should proceed with services that require an outside party, or not.
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
 ****
 
@@ -172,12 +172,12 @@ You are always notified when your information is being collected by any outside 
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email. You will have a choice as to whether or not we use your information in this different manner. We will use information in accordance with the privacy policy under which we collected the information from you. 
 
-[Back to Top](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
+[Back to Top](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm#Back%20to%20Top)  
   
-[Questions/Feedback](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/contact.htm)  
+[Questions/Feedback](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/contact.htm)  
 National Career Assessment Services, Inc.TM  
 601 Visions Parkway, P.O. Box 277, Adel, IA 50003  
 Ph: (800) 314-8972  Fax: (515) 993-5422  Email: [ncasi@ncasi.com](mailto:ncasi@ncasi.com)  
-[User Agreement](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/useragree.htm)  
-[**PRIVACY POLICY**](https://web.archive.org/web/20001211011700id_/http%3A//www.kuder.com/privacy.htm)  
-Copyright © 2000 National Career Assessment Services, Inc.TM. All rights reserved.
+[User Agreement](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/useragree.htm)  
+[**PRIVACY POLICY**](https://web.archive.org/web/20010603142136id_/http%3A//www.kuder.com/privacy.htm)  
+Copyright © 2000, 2001 National Career Assessment Services, Inc.TM. All rights reserved.
