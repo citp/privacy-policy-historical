@@ -1,0 +1,241 @@
+<!--The following is the downloaded HTML source of the quotedb.com privacy policy that was archived on 2003-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031003024443id_/http%3A//www.quotedb.com/privacy) for the most accurate reproduction.-->
+
+<html><head>
+<title>Privacy Policy</title>
+<style type="text/css">
+  body                { font-family: Tahoma, Arial, serif, sans-serif; font-size: 11px; }
+  a                   { color: #223678; font-family: Tahoma, serif, sans-serif; font-size: 12px; }
+  a:hover             { color: #6676A8; font-family: Tahoma, serif, sans-serif; font-size: 12px; }
+  a:visited           { color: #384C8E; font-family: Tahoma, serif, sans-serif; font-size: 12px; }
+  a:visited:hover     { color: #6676A8; font-family: Tahoma, serif, sans-serif; font-size: 12px; }
+  
+  a.ad               { color: #C5C5CB; font-size: 11px; font-weight: bold; }
+  a.ad:hover         { color: #FFFFFF; font-size: 11px; font-weight: bold; }
+  a.ad:visited       { color: #C5C5CB; font-size: 11px; font-weight: bold; }
+  a.ad:visited:hover { color: #FFFFFF; font-size: 11px; font-weight: bold; }
+  
+  .date               { color: #E9E9E9; font-family: Tahoma, serif, sans-serif; font-size: 11px; }
+  .light              { color: #E9E9E9; font-family: Tahoma, serif, sans-serif; font-size: 12px; }
+  .small              { font-size: 11px; }
+  .smalllink          { font-size: 11px; font-weight: bold; }
+  
+  input, select, textarea { 
+    background:  #4F674F; 
+    color:       #E9E9E9; 
+    font-size:   11px; 
+    font-family: Tahoma, serif, sans-serif; }
+    
+  .nav     { color: #E9E9E9; 
+             font-size: 10px; font-weight: bold;
+             font-family: Tahoma, Verdana;
+             padding: 10px; 
+             
+             border-left: dotted 1px white; }
+             
+             
+  .nav:visited { color: #E9E9E9; }
+  .nav:hover   { color: #E9E9E9; background-color: #6E7E6E; }
+</style>
+
+
+<script language="JavaScript">
+  function form_jump(path) {
+    var URL = path.options[path.selectedIndex].value;
+    window.location.href = URL;
+  }
+  
+  function authorpop(authorid, action) {
+    window.open("http://www.quotedb.com/author.php?action=" + action + "&authorid=" + authorid, "toolbar=no,scrollbars=no,resizable=no,width=370,height=192, top=90, left=90");
+  }
+
+  function quotepop(quoteid, action, catid) {
+    window.open("http://www.quotedb.com/quote.php?action=" + action + "&quoteid=" + quoteid + "&catid=" + catid, "quote" + quoteid, "toolbar=no,scrollbars=no,resizable=no,width=370,height=192, top=90, left=90");
+  }
+
+  dayarray = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+  montharray = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+
+  datestamp = new Date();
+  day       = datestamp.getDate();
+  month     = datestamp.getMonth();
+  year      = datestamp.getYear();
+  dayofweek = datestamp.getDay();
+
+  var end = "th";
+  if (year < 2000) { year = year + 1900; }
+  if (day == "1" || day == "21" || day == "31") { end = "st"; }
+  else if (day == "2" || day == "22") { end = "nd"; }
+  else if (day == "3" || day == "23") { end = "rd"; }
+  var currentdate = dayarray[dayofweek] + ", " +montharray[month] + " " + day + end + ", " + year;
+  
+  function copy_to_clipboard(field) {
+    var val = eval("document." + field)
+    val.select()
+    
+    if (document.all) {
+      range = val.createTextRange();
+      range.execCommand("Copy");
+      alert('Quote successfully copied. Press Ctrl + V to paste');
+    }
+  }
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+
+
+
+<table width="100%" align="center" cellpadding="2" cellspacing="0">
+  <tbody><tr>
+    <td width="40%" bgcolor="#4F674F">&nbsp;<font class="date">» <script language="JavaScript">document.write(currentdate);</script>Friday, January 31st, 2020</font></td>
+    <td width="60%" bgcolor="#4F674F" valign="middle" align="right">
+    <a href="http://www.quotedb.com" class="nav">Home</a><!--<a href="http://www.quotedb.com/about.php" class="nav">About</a> &nbsp; --><a href="http://www.quotedb.com/authors" class="nav">Authors</a><a href="http://www.quotedb.com/privacy" class="nav">Privacy</a>
+    <!--<a href="http://www.quotedb.com/stats.php" class="nav">Stats</a>-->
+
+      <!--<form>
+        <select name="jump" onchange="form_jump(this);">
+          <option> » Browse the site...</option>
+          <option value="http://www.quotedb.com">------------------------</option>
+          <option value="http://www.quotedb.com"> &nbsp; ~ Home Page</option>
+          <option value="http://www.quotedb.com/about.php"> &nbsp; ~ About the Site</option>
+          <option value="http://www.quotedb.com/submit.php"> &nbsp; ~ Submit a Quote</option>
+          <option value="http://www.quotedb.com">------------------------</option>
+          <option value="http://www.quotedb.com/author.php"> &nbsp; ~ Authors</option>
+          <option value="http://www.quotedb.com/category.php"> &nbsp; ~ Categories</option>
+          <option value="http://www.quotedb.com/quote.php"> &nbsp; ~ Quotes</option>
+          <option value="http://www.quotedb.com">------------------------</option>
+          <option value="http://www.quotedb.com/search.php"> &nbsp; ~ Search</option>
+          <option value="http://www.quotedb.com/toprated.php"> &nbsp; ~ Top Rated</option>
+        </select>-->
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="790" align="center">
+  <tbody><tr>
+    <td width="100%"><img src="/images/clear.gif" height="3" width="1"></td>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <a href="http://www.quotedb.com"><img src="/images/quotedb_cut.gif" width="292" height="59" alt="QuoteDB" border="0"></a>
+          </td>
+    
+    <td align="right">
+      <table width="468" height="60"><tbody><tr><td width="100%" bgcolor="#666666" valign="middle" align="center">
+      <a href="http://www.online-literature.com" class="ad" target="_blank"><font size="4">For quotes from classic literature click here</font></a>
+      <!--<img src="/images/468x60.gif" width="468" height="60">--></td></tr></tbody></table>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="100%"><img src="/images/clear.gif" height="3" width="1"></td>
+  </tr>
+
+  <tr>
+    <td width="100%" colspan="2">
+    
+      <br>
+      
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tbody><tr>
+            <td width="19%" valign="top" bgcolor="black">
+              <table width="100%" cellpadding="6" cellspacing="1" border="0">   
+                <tbody><tr>
+                  <td width="100%" bgcolor="black"><font class="light">QuoteDB :: Privacy Policy</font></td>
+                </tr>
+              
+                <tr>
+                  <td width="100%" bgcolor="#F1F1F1">
+QuoteDB has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: QuoteDB.
+<br><br>
+
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. Cookies may be used at times to obtain general user demographics. This information cannot be used to identify a specific person or individual.
+<br><br>
+
+Our site's registration form requires users to give us contact information (like their name and email address), financial information (income level), and demographic information (name, city, or age). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+<br><br>
+
+Financial information that is collected is used for other purposes. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. We also collect feedback from users concerning parts of our site that they like or dislike.
+<br><br>
+
+This site contains links to other sites. QuoteDB is not responsible for the privacy practices or the content of such Web sites.
+<br><br>
+
+Our online surveys ask visitors for contact information (like their email address) and financial information (income level). We use contact data from our surveys to send the user information about our company (they may opt-out of receiving these mailings). The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+<br><br>
+
+We run contests on our site in which we ask visitors for contact information (like their email address), financial information (income level), and demographic information (name, city, or age). We use contact data from our contests to send users information about our company.
+<br><br>
+
+The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
+<br><br>
+
+<b><font size="3">Children's Guidelines</font></b>
+<br><br>
+
+This site collects online contact information from children under 13...however children under 13 are warned that parental consent is required before the submission of this information. QuoteDB is not held responsible if the child fails to obtain parental consent before submitting the information. The information will not specifically be given out to any 3rd party...it will only be used for website demographics.
+<br><br>
+
+<b><font size="3">Choice/Opt-Out</font></b>
+<br><br>
+
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+<br><br>
+
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+<br><br>
+
+You can send email to <a href="mailto:privacy@quotedb.com"><b>privacy@quotedb.com</b></a>
+<br><br>
+
+<b><font size="3">Correct/Update</font></b>
+<br><br>
+
+This site gives users the following options for changing and modifying information previously provided. email <a href="mailto:privacy@quotedb.com"><b>privacy@quotedb.com</b></a>
+<br><br>
+
+<b><font size="3">Contacting the Web Site</font></b>
+<br><br>
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+<br><br>
+
+<b>Chris Bowyer - Owner<br>QuoteDB<br><a href="mailto:privacy@quotedb.com">privacy@quotedb.com</a><br>
+                  </b></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+        
+        <br>
+      </td>
+  </tr>
+</tbody></table>
+
+
+<br>
+
+<table width="100%" align="center" cellpadding="4" cellspacing="0">
+  <tbody><tr>
+    <td width="40%" bgcolor="#4F674F">&nbsp;<font class="date">» Copyright © QuoteDB</font></td>
+    <td width="60%" bgcolor="#4F674F" valign="middle" align="right">
+    <!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" -->
+	<script type="text/javascript" language="JavaScript">var site="s11quotedb"</script>
+	<script type="text/javascript" language="JavaScript1.2" src="http://s11.sitemeter.com/js/counter.js?site=s11quotedb">
+	</script>
+	<noscript>
+	<a href="http://s11.sitemeter.com/stats.asp?site=s11quotedb" target="_top">
+	<img src="http://s11.sitemeter.com/meter.asp?site=s11quotedb" alt="Site Meter" border=0></a>
+	</noscript>
+	<!-- Copyright (c)2002 Site Meter -->
+	<!--WEBBOT bot="HTMLMarkup" Endspan -->
+    &nbsp;</td>
+  </tr>
+</tbody></table>
+
+
+
+</body></html>
