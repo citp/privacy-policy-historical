@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdsu.com privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403231752id_/http%3A//www.theneworleanschannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdsu.com privacy policy that was archived on 2004-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040812222216id_/http%3A//www.theneworleanschannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheNewOrleansChannel.com - News
 
