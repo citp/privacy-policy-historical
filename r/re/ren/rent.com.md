@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608203428id_/http%3A//www.rent.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209120156id_/http%3A//www.rent.com/company/privacy) for the most accurate reproduction.*
 
 # Rent.com: Privacy Policy
 
@@ -17,7 +17,7 @@ Santa Monica, CA 90405
 
 We collect personally identifiable information (name, address, phone number, email address) from you when you set up an account with Rent.com. While you can browse some sections of our site without being a registered member, certain activities (such as searching for properties, viewing property contact information, and registering a property) do require registration. 
 
-Rent.com does not sell, share, or in any other way transmit personally identifiable information (names, address, phone numbers, etc.) to any persons or companies outside the "Rent.com Family of Companies." The "Rent.com Family of Companies" are all subject to the same privacy policy and security measures as Rent.com. We do use your contact information to send you promotional products and information on behalf of our partner companies. You may always opt-out of receiving such information; see the Choice/Opt-Out section below. 
+Rent.com does not sell, share, or in any other way transmit personally identifiable information (names, address, phone numbers, etc.) to any persons or companies outside Rent.com controlled entities, without your express permission to do so. The Rent.com controlled entities are all subject to the same privacy policy and security measures as Rent.com. 
 
 > **Rent.com Renters:**   
 >  Our site requires you to give us contact information (name, zip code, and email address). We use this information to verify your identity, send you messages about our company and provide you with the opportunity to participate in Rent.com's promotion(s) and other Rent.com Rewards. 
@@ -35,8 +35,6 @@ In our efforts to continually improve our product and service offerings, we coll
 We identify and use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and to gather broad demographic information. 
 
 We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age or income level). We use this data to tailor your experience at our site, providing you with content that we think you might be interested in -- and to display content according to your preferences. 
-
-We sometimes use contact data from our surveys to send you information about our company and/or promotional material on behalf of our partners. You may always opt-out of receiving such mailings; see the Choice/Opt-Out section below. 
 
 **Cookies**
 
@@ -56,11 +54,9 @@ Our site has stringent security measures in place to protect the loss, misuse an
 
 **Choice/Opt-Out**
 
-Rent.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. 
-
-To remove your contact information from all Rent.com lists and newsletters, send an email message to [list@rent.com](mailto:list@rent.com) and write "unsubscribe" in the Subject field. 
+To remove your contact information from all Rent.com lists and newsletters, send an email message to [list@rent.com](mailto:list@rent.com) and write "unsubscribe " in the Subject field. 
 
 **Contact Us**   
 Please contact us with any questions about this Privacy Policy, our policies and security practices. 
 
-Send your questions or feedback to [feedback@rent.com](mailto:feedback@rent.com). We want to hear from you. 
+Send your questions or feedback to [feedback@rent.com](mailto:feedback@rent.com). We want to hear from you.
