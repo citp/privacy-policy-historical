@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608105401id_/http%3A//www.drivers.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813030049id_/http%3A//www.drivers.com/privacy.shtml) for the most accurate reproduction.*
 
 # Drivers.com - Privacy Policy
 
@@ -66,16 +66,18 @@ Our users are given the opportunity to "opt-out" of having their information use
 
 If you have any questions about this privacy statement, the practices of this site, or your business dealings with this site, please email [admin@Drivers.com](mailto:admin@Drivers.com) or use the form on the [Contact Us page](http://www.drivers.com/contact.shtml). Thank you for your interest in our policy on visitor privacy, and in Drivers.com in general. We hope your questions have been answered satisfactorily. 
 
-For inquiries please contact the publisher: 
+* * *
 
-**PDE Publications Inc.**
+  
+For all inquiries please contact the publisher: 
 
-310–5334 Yonge Street   Toronto, Ontario, Canada   M2N 6M2
-
-Telephone: (416) 767-4885    Fax: (416) 767-7425
-
-E-Mail: [pde@Drivers.com](mailto:pde@Drivers.com)    Web: [http://www.Drivers.com](http://www.drivers.com/)
-
+> **PDE Publications Inc.**   
+>  310–5334 Yonge Street   
+>  Toronto, Ontario, Canada   M2N 6M2   
+>  Telephone: (416) 767-4885   
+>  Fax: (416) 767-7425   
+>  E-Mail: [pde@Drivers.com](mailto:pde@Drivers.com)   
+>  Web: [http://www.Drivers.com](http://www.drivers.com/)
 
   
 
