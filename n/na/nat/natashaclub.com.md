@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607031852id_/http%3A//natashaclub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815182837id_/http%3A//natashaclub.com/privacy.htm%23entry) for the most accurate reproduction.*
 
 # Love
 
-[](https://web.archive.org/web/20010607031852id_/http%3A//natashaclub.com/policies.html#Copyright%20Policies) |  [Policies](https://web.archive.org/web/20010607031852id_/http%3A//natashaclub.com/policies.html#Copyright%20Policies) |  NatashaClub.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following is a disclosure of our information gathering and dissemination practices for [www.natashaclub.com](http://www.natashaclub.com/)
+[](https://web.archive.org/web/20010815182837id_/http%3A//natashaclub.com/policies.html#Copyright%20Policies) |  [Policies](https://web.archive.org/web/20010815182837id_/http%3A//natashaclub.com/policies.html#Copyright%20Policies) |  NatashaClub.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following is a disclosure of our information gathering and dissemination practices for [www.natashaclub.com](http://www.natashaclub.com/)
 
 1) **Information Collection and Use**
 
