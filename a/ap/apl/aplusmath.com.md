@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aplusmath.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210030132id_/http%3A//www.aplusmath.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplusmath.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610021939id_/http%3A//aplusmath.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Aplusmath.com : Privacy Policy
 
 Aplusmath.com is intended to be a fun, educational and safe place for kids to learn about math. 
 
-Any personal information collected from the [Comments](https://web.archive.org/web/20021210030132id_/http%3A//www.aplusmath.com/info/comments.html) page or anywhere else on Aplusmath.com will not be disclosed to anyone without your consent. Please keep in mind that whenever you give out personal information online --- for example, via message boards or chat --- that information can be collected and used by people you don't know. 
+Any personal information collected from the [Comments](https://web.archive.org/web/20030610021939id_/http%3A//aplusmath.com/info/comments.html) page or anywhere else on Aplusmath.com will not be disclosed to anyone without your consent. Please keep in mind that whenever you give out personal information online --- for example, via message boards or chat --- that information can be collected and used by people you don't know. 
 
 Aplusmath.com encourages parents and guardians to spend time online with their children and to participate in the activities. No information should be submitted to or posted at Aplusmath.com by guests under 13 years of age without the consent of their parent or guardian. 
 
