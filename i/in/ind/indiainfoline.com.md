@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215172128id_/http%3A//www.indiainfoline.com/home/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622060100id_/http%3A//www.indiainfoline.com/home/priv.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,21 +13,11 @@
    
 [Stock Markets](https://web.archive.org/stok/)  
    
-[Cyber Valley](https://web.archive.org/cyva/)  
-   
-[FMCG](https://web.archive.org/fmcg/)  
-   
-[Pharmaline](https://web.archive.org/phar/)  
-   
-[Infrastructure](https://web.archive.org/infr/)  
-   
 [Legal](https://web.archive.org/lega/)  
    
 [B -School](https://web.archive.org/bisc/)  
    
-[Money & Forex](https://web.archive.org/mony/)  
-   
-[Market Talk](https://web.archive.org/nevi/opli/)  
+[Market Talk](https://web.archive.org/nevi/opli/index.html)  
    
 [Biz-End line](https://web.archive.org/week/june2001/)  
    
