@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622095649id_/http%3A//www.rentacoder.com/RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203233151id_/http%3A//www.rentacoder.com/RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[](https://web.archive.org/URLSEO/RentACoder/misc/BidRequests/ShowBidRequests!asp/lngBidRequestListType!3/optSortTitle!2/lngBidRequestCategoryId!-1/txtMaxNumberOfEntriesPerPage!10/optBidRequestPhase!2/lngSortColumn!-6/blnModeVerbose!True/optBiddingExpiration!1/blnURLSEO!true/anyname.htm)  
+* * *  
+  
 |     
 
 
