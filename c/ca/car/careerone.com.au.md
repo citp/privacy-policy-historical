@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605051339id_/http%3A//careerone.com.au/about/home/0%2C6202%2C%2C00.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205101336id_/http%3A//www.careerone.com.au/privacy/0%2C8521%2C%2C00.html) for the most accurate reproduction.*
 
-# CareerOne powered by Hot Jobs
-
-  
-News Interactive Privacy Statement  
+# CareerOne - Privacy Policy
 
 News Interactive ( ** _News_** ) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word _customers_ includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
@@ -76,4 +73,4 @@ News Interactive
 02 9288 3000   
 Level 3   
 2 Holt Street   
-Surry Hills 2010
+Surry Hills 2010 
