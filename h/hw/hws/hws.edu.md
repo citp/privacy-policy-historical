@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416144419id_/http%3A//campus.hws.edu/ADM/doit/admin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606185002id_/http%3A//campus.hws.edu/ADM/doit/admin/privacy.asp) for the most accurate reproduction.*
 
 # Hobart and William Smith Colleges :: Administration
 
@@ -23,7 +23,7 @@ Hobart and William Smith Colleges will share personally identifiable information
 
 If you have questions or comments about this policy, please contact: 
 
-Brian A. Young  
-Vice President and CIO  
+Lynne M. Wiley  
+Vice President, Institutional Planning  
 Hobart and William Smith Colleges  
-[byoung@hws.edu](mailto:byoung@hws.edu)
+[wiley@hws.edu](mailto:wiley@hws.edu)
