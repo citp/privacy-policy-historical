@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811224700id_/http%3A//visanow.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605092631id_/http%3A//visanow.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Online Immigration Processing, Visas, Green Card Applications, US Immigration Visa Services, Employment Visas, US Citizenship - VisaNow.com
 
