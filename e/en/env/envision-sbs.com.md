@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the envision-sbs.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605174551id_/http%3A//envision-sbs.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envision-sbs.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008195803id_/http%3A//www.envision-sbs.com/privacy/index.html) for the most accurate reproduction.*
 
 # Envision - Smart Business Solutions
 
-Envision-sbs.com is owned and operated by Envision Corporation ("ENVISION"). ENVISION collects personal and non-personal information on its site. ENVISION is committed to protecting the privacy of its users. We have created this Privacy Statement in order to describe and explain to users the process of our information collection practice. Since we believe your business is no one else's, your privacy is important to you…and to us. It is our sole intent to protect the information you share with us. To protect your privacy, ENVISION follows different principles in accordance with world-wide practices for customer privacy and data protection.
+Envision-sbs.com is owned and operated by Envision SBS ("ENVISION"). ENVISION collects personal and non-personal information on its site. ENVISION is committed to protecting the privacy of its users. We have created this Privacy Statement in order to describe and explain to users the process of our information collection practice. Since we believe your business is no one else's, your privacy is important to you…and to us. It is our sole intent to protect the information you share with us. To protect your privacy, ENVISION follows different principles in accordance with world-wide practices for customer privacy and data protection. 
 
   * We will not sell or give away your name, mail address, phone number, e-mail address, credit card number or any other information to anyone. 
   * We use state-of-the-art security measures to protect your information from unauthorized users. 
@@ -21,7 +21,7 @@ We will ask you when we need information that personally identifies you (persona
 
 CONSENT
 
-If you choose not to register or provide personal information, you can still use most of our web site. But you will not be able to access areas that require registration.
+If you choose not to register or provide personal information, you can still use most of our website. But you will not be able to access areas that require registration.
 
 If you decide to register, you will be able to select the types of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding ENVISION products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from ENVISION.
 
@@ -66,18 +66,18 @@ When you join us, you provide us with your contact information, including your n
 
 We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-ENVISION will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on ENVISION or the site; (b) protect and defend the rights or property of ENVISION and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of ENVISION, its Web sites, or the public.
+ENVISION will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on ENVISION or the site; (b) protect and defend the rights or property of ENVISION and its family of websites, and, (c) act in urgent circumstances to protect the personal safety of users of ENVISION, its websites, or the public.
 
 HOW CAN I OPT-OUT
 
-We provide a user with the opportunity to opt-out from receiving updates on new products, newsletters, and other promotional materials. The opt-out option may be exercised in the user's profile. You can select not to be contacted in the future if you wish to not receive any information with respect to ENVISION and our products. You may also delete your account. Account deletion will erase all past entries in regards to your account. If you erase your account, you will have to re-register with us if you wish to access certain areas within the web site.
+We provide a user with the opportunity to opt-out from receiving updates on new products, newsletters, and other promotional materials. The opt-out option may be exercised in the user's profile. You can select not to be contacted in the future if you wish to not receive any information with respect to ENVISION and our products. You may also delete your account. Account deletion will erase all past entries in regards to your account. If you erase your account, you will have to re-register with us if you wish to access certain areas within the website.
 
 If you do not have a user's profile, you can opt-out by sending an e-mail, with the subject heading "Privacy Statement Opt-Out," to [webmaster@envision-sbs.com](mailto:webmaster@envision-sbs.com). In the e-mail, you should request the opt-out option.
 
-DOES ENVISION'S PRIVACY POLICY APPLY TO LINKED WEB SITES?
+DOES ENVISION'S PRIVACY POLICY APPLY TO LINKED WEBSITES?
 
-Our Privacy Policy applies solely to information collection practice on Envision-sbs.com. This web site contains links to other sites. Please be aware that ENVISION has no control or influence over the privacy practices of such other sites. We encourage our users to be aware when they leave Envision-sbs.com and to read the privacy statements of each and every web site that they visit.
+Our Privacy Policy applies solely to information collection practice on Envision-sbs.com. This website contains links to other sites. Please be aware that ENVISION has no control or influence over the privacy practices of such other sites. We encourage our users to be aware when they leave Envision-sbs.com and to read the privacy statements of each and every website that they visit.
 
 CHANGES TO THIS PRIVACY STATEMENT
 
-If we later change our Privacy Policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personal information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their information in this different manner by making changes to their profile.
+If we later change our Privacy Policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personal information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice as to whether or not we use their information in this different manner by making changes to their profile.
