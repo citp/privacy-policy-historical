@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604175138id_/http%3A//www.rapid7.com/AboutRapid7-PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804172409id_/http%3A//www.rapid7.com/AboutRapid7-PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Rapid7 Inc. / NeXpose
 
