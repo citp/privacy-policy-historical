@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2001-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011202033639id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2002-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601132711id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.-->
 
 <html><head>
 <title>Chicagobusiness.com</title>
@@ -76,13 +76,13 @@
 //configuration
 OAS_url = 'http://oascentral.chicagobusiness.com/RealMedia/ads/';
 //OAS_sitepage = window.location.hostname + window.location.pathname;
-OAS_sitepage = 'www.chicagobusiness.com/privacy_policy';
+OAS_sitepage = 'www.chicagobusiness.com/portal/admin/privacy_policy';
 OAS_listpos = 'Top1,Top,x11,x12,Right,Bottom,Bottom1';
 OAS_target = '_top';
 //end of configuration
 //OAS_rn = '001234567890'; OAS_rns = '1234567890';
 //OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-OAS_rns = "3688351290";
+OAS_rns = "1760252328";
 function OAS_RICH(pos) {
   document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
   document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + '" BORDER=0></A>');
@@ -93,7 +93,7 @@ function OAS_RICH(pos) {
 <!--
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC=' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + '><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_mjx.ads/www.chicagobusiness.com/privacy_policy/13688351290@Top1,Top,x11,x12,Right,Bottom,Bottom1?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_mjx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/11760252328@Top1,Top,x11,x12,Right,Bottom,Bottom1?"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -124,9 +124,83 @@ document.write('');
  }
 </script>
 <!-- # end setHomepage function definition # -->
+<!-- # Grab user name # -->
+<script language="JavaScript">
+function getCookie(name){
+  var cname = name + "=";
+  var dc = document.cookie;
+  if (dc.length > 0) {
+    begin = dc.indexOf(cname);
+    if (begin != -1) {
+      begin += cname.length;
+      end = dc.indexOf(";", begin);
+      if (end == -1) end = dc.length;
+        return unescape(dc.substring(begin, end));
+    }
+  }
+  return null;
+}
+
+function setCookie(name, value, expires, path, domain, secure) {
+  document.cookie = name + "=" + escape(value) +
+  ((expires == null) ? "" : "; expires=" + expires.toGMTString()) +
+  ((path == null) ? "" : "; path=" + path) +
+  ((domain == null) ? "" : "; domain=" + domain) +
+  ((secure == null) ? "" : "; secure");
+}
+
+function delCookie (name,path,domain) {
+  if (getCookie(name)) {
+    document.cookie = name + "=" +
+    ((path == null) ? "" : "; path=" + path) +
+    ((domain == null) ? "" : "; domain=" + domain) +
+    "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+  }
+}
+
+
+//delete this cookie
+//delCookie('regpop');
+
+
+function getName() {
+  var fn = getCookie('first_name');
+  var ln = getCookie('last_name');
+
+  if (!fn) {
+    //set to expire on December 31, 2020 at 11:59:59
+    var expiration = new Date();
+    //expiration.setTime(1609480799440);
+    expiration.setTime (expiration.getTime() + (1000 * 60 * 60 * 24 * 1));
+    var rp = getCookie('regpop');
+    if (rp == "yuppa") {
+    } else {
+    window.open('http://oas-central.realmedia.com/RealMedia/ads/Creatives/crain/CBO_INTERSTITIAL_REGISTER/servepop.htm','adbox23',config='toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,height=250,width=300,top=200,left=200');
+    setCookie('regpop', 'yuppa', expiration);
+    }
+  } else {
+    //set to expire on December 31, 2020 at 11:59:59
+    var expiration = new Date();
+    expiration.setTime(1609480799440);
+    var rp = getCookie('regpop');
+    if (rp == "yuppa") {
+    } else {
+    window.open('http://oas-central.realmedia.com/RealMedia/ads/Creatives/crain/CBO_INTERSTITIAL_HOME/servepop.htm','adbox23',config='toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,height=300,width=300,top=200,left=200');
+    setCookie('regpop', 'yuppa', expiration);
+    }
+  }
+}
+
+
+</script>
 
 </head>
 <body bgcolor="#FFFFFF" text="#000000"><a name="top"></a>
+			<script language="JavaScript">
+			<!--
+			  getName();
+			//-->
+			</script>
 <div align="center"><div style="width: 90%">
 <script language="Javascript">
 	if (document.layers) {
@@ -279,7 +353,7 @@ document.write('');
 				CHICAGO BUSINESS CALENDAR
 			</div>
 			<div class="calendardate">
-	December 2001
+	June 2002
 </div>
 <table width="120" border="0" cellspacing="3" cellpadding="0" class="blkcopy" align="center" style="table-layout: fixed;">
 	<colgroup width="14" align="center">
@@ -290,18 +364,18 @@ document.write('');
 	</colgroup><colgroup width="14" align="center">
 	</colgroup><colgroup width="14" align="center">
 	</colgroup><tbody><tr valign="top"> 
-		<td width="14" class="calendarday">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-25">25</a></td>
-		<td width="14" class="calendarday">M<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-26">26</a></td>
-		<td width="14" class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-27">27</a></td>
-		<td width="14" class="calendarday">W<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-28">28</a></td>
-		<td width="14" class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-29">29</a></td>
-		<td width="14" class="calendarday">F<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-11-30">30</a></td>
-		<td width="14" class="calendarday" bgcolor="#ffffff">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-12-1">1</a></td>
+		<td width="14" class="calendarday">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-5-26">26</a></td>
+		<td width="14" class="calendarday">M<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-5-27">27</a></td>
+		<td width="14" class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-5-28">28</a></td>
+		<td width="14" class="calendarday">W<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-5-29">29</a></td>
+		<td width="14" class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-5-30">30</a></td>
+		<td width="14" class="calendarday">F<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-5-31">31</a></td>
+		<td width="14" class="calendarday" bgcolor="#ffffff">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-6-1">1</a></td>
 	</tr>
 </tbody></table>
 
 <div class="calendarviewlink">
-	<a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2001-12-1" style="font-weight: bold;">VIEW CALENDAR</a>
+	<a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-6-1" style="font-weight: bold;">VIEW CALENDAR</a>
 </div>
 
 
@@ -310,13 +384,13 @@ document.write('');
 					<img src="/images/buttons/sendusup.gif" name="sendus" border="0" width="136" height="25"></a>
 			</div>
 			<div style="padding: 0px;">
-				<a href="/cgi-bin/mag/article.pl?static_id=7">
+				<a href="/events/">
 					<img src="/images/buttons/craineventup.gif" name="crainevent" border="0" width="136" height="25"></a>
 			</div>
 			<div style="height: 4px; font-size: 1px;">&nbsp;</div>
 			<hr class="hr01" style="width: 120px;">
 				<div style="padding: 6px 0px 5px 0px;">
-				<a href="/cgi-bin/article.pl?static_id=3&amp;page_id=829">
+				<a href="/cgi-bin/article.pl?static_id=3&amp;page_id=1120">
 					<img src="/images/buttons/adinfoup.gif" name="adinfo" border="0" width="136" height="25"></a>
 			</div>
 			<table width="122" border="0" cellspacing="4" cellpadding="0">
@@ -332,7 +406,13 @@ document.write('');
 				
 					<tr>
 						<td class="specialfeatures">
-							<a href="/cgi-bin/article.pl?portal_id=51&amp;page_id=501" class="black">
+							<a href="http://www.chicagobusiness.com/cgi-bin/redirect.pl?mpid=102&amp;portal_id=122&amp;id='http://www.crain.com/classified/ccb/index.cfm?display=auto_searchmenu'" class="black">
+								Luxury Automobile Classifieds</a></td>
+					</tr>
+				
+					<tr>
+						<td class="specialfeatures">
+							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?portal_id=51&amp;page_id=501" class="black">
 								Golf Guide</a></td>
 					</tr>
 				
@@ -344,19 +424,19 @@ document.write('');
 				
 					<tr>
 						<td class="specialfeatures">
-							<a href="/cgi-bin/article.pl?feature_id=23&amp;page_id=723" class="black">
+							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?feature_id=23&amp;page_id=723" class="black">
 								Luxury Auto Guide</a></td>
 					</tr>
 				
 					<tr>
 						<td class="specialfeatures">
-							<a href="/cgi-bin/article.pl?feature_id=24&amp;page_id=684" class="black">
-								Crain's Guide to Residential Real Estate</a></td>
+							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?feature_id=24&amp;page_id=684" class="black">
+								Crain's Residential Real Estate Guide</a></td>
 					</tr>
 				
 					<tr>
 						<td class="specialfeatures">
-							<a href="/cgi-bin/article.pl?page_id=872" class="black">
+							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?page_id=872" class="black">
 								Blue Dates Social Calendar</a></td>
 					</tr>
 				
@@ -393,7 +473,7 @@ Persons who supply us with their telephone or fax numbers online may receive tel
 
 				</div>
 			</div>
-			<div><img src="/images/global/spacer.gif" width="473" height="1"></div>
+			<div><img src="/images/global/spacer.gif" width="473" height="1"><br clear="all"></div>
 			<p align="center">
 			<script language="JavaScript">
 			<!--
@@ -401,6 +481,17 @@ Persons who supply us with their telephone or fax numbers online may receive tel
 			//-->
 			</script>
 			</p>
+			<p>
+				<script language="JavaScript">
+					if (location.pathname == "/" || location.href == "http://www.chicagobusiness.com/") {
+						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W2WEB1&KEY_CDE_RENEW=W2WEB5"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
+					}
+					else {
+						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W2WEB2&KEY_CDE_RENEW=W2WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
+					}
+				</script><a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W2WEB2&amp;KEY_CDE_RENEW=W2WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>
+			</p>
+			<p>&nbsp;</p>
 		</td>
 		<!-- Mid Column Ends -->
 		
@@ -410,7 +501,7 @@ Persons who supply us with their telephone or fax numbers online may receive tel
 		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
 			<td bgcolor="#dbddcf" width="147" style="text-align: center;"><img src="/images/shadows/header.gif" width="147" height="5"><br>
 			<div class="redhead" style="padding-top: 8px; text-align: center;">THIS WEEK'S ISSUE</div>
-			<div style="text-align: center;">December 3, 2001</div>
+			<div style="text-align: center;">May 27, 2002</div>
 				<div style="text-align: center;"><a href="http://www.chicagobusiness.com/mag/" target="_blank"><img src="/images/global/cover-shot.gif" border="0" width="126" height="94"></a></div> 
 			<form style="margin:0px; padding: 0px;" name="ccbMagSearch" method="post" action="http://www.chicagobusiness.com/cgi-bin/mag/search.pl">
 				<div style="text-align: left; padding: 0px 10px 0px 10px;" class="blkhead">SEARCH ARCHIVES</div>
