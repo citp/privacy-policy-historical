@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbot.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626074850id_/http%3A//www.cbot.com/cbot/www/page/0%2C1398%2C17%2B81%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbot.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204233914id_/http%3A//www.cbot.com/cbot/www/page/0%2C1398%2C17%2B81%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
