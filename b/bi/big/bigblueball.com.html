@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the bigblueball.com privacy policy that was archived on 2001-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217204429id_/http%3A//www.bigblueball.com/forums/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigblueball.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605183829id_/http%3A//www.bigblueball.com/forums/policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Instant Messaging &amp; Chat - BigBlueBall.com </title>
-<meta name="description" content="Everything you could ever want to know about instant messaging and chat! Connect with friends and family around the world.">
+<meta name="description" content="">
 
 <meta name="copyright" content="This code is Copyright (C) 2000-01 Michael Anderson and Pierre Gorissen"> 
 <meta name="keywords" content="chat, chat rooms, webcam, webcams, web cams, ICQ, instant messaging, instant messenger, aim, AIM, Odigo, odigo, smarterchild, activebuddy">
@@ -38,46 +38,9 @@ function refreshCam(){
 	setTimeout("refreshCam()", 60000)
 }
 
-//  Functions for login/logout button rollovers
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-}
-
-/* Functions that swaps down images. */
-function MM_nbGroup(event, grpName) { //v3.0
-  var i,img,nbArr,args=MM_nbGroup.arguments;
-  if (event == "init" && args.length > 2) {
-    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
-      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
-      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
-      nbArr[nbArr.length] = img;
-      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-        if (!img.MM_up) img.MM_up = img.src;
-        img.src = img.MM_dn = args[i+1];
-        nbArr[nbArr.length] = img;
-    } }
-  } else if (event == "over") {
-    document.MM_nbOver = nbArr = new Array();
-    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
-      if (!img.MM_up) img.MM_up = img.src;
-      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
-      nbArr[nbArr.length] = img;
-    }
-  } else if (event == "out" ) {
-    for (i=0; i < document.MM_nbOver.length; i++) {
-      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
-  } else if (event == "down") {
-    if ((nbArr = document[grpName]) != null)
-      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
-    document[grpName] = nbArr = new Array();
-    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-      if (!img.MM_up) img.MM_up = img.src;
-      img.src = img.MM_dn = args[i+1];
-      nbArr[nbArr.length] = img;
-  } }
+// Used for webcam popup
+function cc_open() {
+	window.open('webcam_pop.html','mycam','width=178,height=220')
 }
 
 // done hiding -->
@@ -91,12 +54,19 @@ input.radio {background: white; color:#000000}
 </style>
 </head>
 
-<body bgcolor="#336699" text="black" link="#0033CC" alink="#CC3300" vlink="#800080" topmargin="7" leftmargin="5">
+<!--		<body onLoad="openWindowPager('http://www.bigblueball.com/forums/pm_pop_pager.asp')" bgColor="#336699" text="black" link="#0033CC" aLink="#CC3300" vLink="#800080" topmargin="7" leftmargin="5">
+-->
+	
+<!--		<body bgColor="#336699" text="black" link="#0033CC" aLink="#CC3300" vLink="#800080" topmargin="7" leftmargin="5">
+-->
+	
+	<body bgcolor="#336699" text="black" link="#0033CC" alink="#CC3300" vlink="#800080" topmargin="7" leftmargin="5">
+
 <a name="top"></a>
 
 
 <!-- BEGIN MASTHEAD -->
-<table border="0" cellpadding="0" cellspacing="0" width="768" bgcolor="#FFFFFF" style="border-collapse: collapse" bordercolor="#111111">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF" style="border-collapse: collapse" bordercolor="#111111">
 	<tbody><tr>
 		<td><img src="../images/shim.gif" width="284" height="1" border="0"></td>
 		<td><img src="../images/shim.gif" width="484" height="1" border="0"></td>
@@ -105,18 +75,12 @@ input.radio {background: white; color:#000000}
 
 	<tr valign="top">
 		<td><a href="http://www.bigblueball.com/">
-			<img name="bbb_hdr_globe" src="http://www.bigblueball.com/images/bbb_hdr_globe2.gif" border="0" alt="BigBlueBall.com Home" width="284" height="85"></a>
+			<img name="bbb_hdr_globe" src="http://www.bigblueball.com/images/bbb-masthead.gif" border="0" alt="BigBlueBall.com Home"></a>
 		</td>
 		<td align="right">
 			<img src="../images/shim.gif" width="138" height="5" border="0"><br>
-<!--
-<div align=center>
-<a href="http://www.coffeecup.com/attack/donate/" target="_top"><img src="http://www.bigblueball.com/images/wtc_support1.gif" width="468" height="60" border="1" alt="Donate to the American Red Cross"></a><br>
-<a href="http://www.coffeecup.com/attack/donate/" target="_top"><font face=arial size=1>Click Here to Donate to the American Red Cross</font></a>
-</div>
--->
-
-			<center><a href="http://www.bigblueball.com/admentor/admentorredir.asp?id=11&amp;way=ban"><img src="http://www.qksrv.net/image-719340-168020" alt="Half.com: buy/sell used books, music, movies,games" border="0" width="468" height="60"></a></center><img src="../images/shim.gif" width="5" height="1" border="0">
+			<!--<a href="http://www.bigblueball.com/store/default.asp"><img alt="Get your cool IM swag at BigBlueBall.com" src="http://www.bigblueball.com/images/bbb-banner02.gif" border="1"></a>-->
+			<center><a target="_blank" href="http://www.bigblueball.com/admentor/admentorredir.asp?id=150&amp;way=ban"><img src="http://www.qksrv.net/image-719340-7381247" alt="Take Emode's Free IQ Test!" border="0" width="468" height="60"></a></center><img src="../images/shim.gif" width="5" height="1" border="0">
 		</td>
 		<td>
         <img src="../images/shim.gif" width="1" height="85" border="0"></td>
@@ -125,7 +89,7 @@ input.radio {background: white; color:#000000}
 <!-- END MASTHEAD -->
 
 <!-- BEGIN NAVIGATION BAR -->
-<table cellspacing="0" cellpadding="3" width="768" bgcolor="#336699" style="border-collapse: collapse" bordercolor="#111111">
+<table cellspacing="0" cellpadding="3" width="100%" bgcolor="#336699" style="border-collapse: collapse" bordercolor="#111111">
 	<tbody><tr>
 		<td class="mainMenuLink" valign="top"><font color="#FFFFFF" size="1" face="Verdana">
 
@@ -133,14 +97,14 @@ input.radio {background: white; color:#000000}
 				
 			</font>
 		</td>
-		<td align="right"><font color="#FFFFFF" size="1" face="Verdana">1 members and 3 guests 
-		<a href="http://www.bigblueball.com/forums/active_users.asp"><font color="#FFFFFF">online now</font></a></font></td>
+		<td align="right"><!--<font color="#FFFFFF" size="1" face="Verdana"> members and  guests online now 
+		<A href="http://www.bigblueball.com/forums/active_users.asp"><font color="#FFFFFF">online now</font></A></font>--></td>
 	</tr>
 </tbody></table>
 <!-- END NAVIGATION BAR -->
 
 <!-- BEGIN MAIN CONTENT AREA -->
-<table width="768" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
+<table width="100%" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
 	<tbody><tr>
 		<td valign="top" width="150">
 			
@@ -186,7 +150,7 @@ input.radio {background: white; color:#000000}
           </tr>     
     
           <tr>
-            <td class="flyoutLink" handle="">
+            <td class="flyoutLink" handle="lnk">
           	  <a href="http://www.bigblueball.com/forums/links.asp">Links</a>
             </td>
           </tr>      
@@ -201,7 +165,7 @@ input.radio {background: white; color:#000000}
             </td>
           </tr>           
           <tr>
-            <td class="flyoutLink" handle="">
+            <td class="flyoutLink" handle="cam">
           	  <a href="http://www.bigblueball.com/webcams/default.asp">WebCams</a>
             </td>
           </tr>      
@@ -209,113 +173,8 @@ input.radio {background: white; color:#000000}
 	  </td>
   </tr>
 </tbody></table>
-<img src="../images/shim.gif" width="1" height="5"><br>
-<!--
-<table class="flyoutMenu" width="150" cellpadding="2" cellspacing="0" border="0" menudata="im/menu.xml">
-	<tr>
-	  <td>
-      <table width="145" border="0" cellpadding="0" cellspacing="0">
-        <tr>
-          <td bgcolor="#C0C0C0" class="flyoutHeading">
-          Chat & Instant Messaging
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="im/default.htm">Step-by-Step</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Chat Etiquette</a>
-          </td>
-        </tr>
-        </a>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Privacy &amp; Safety</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Product Reviews</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">IM &amp; Chat News</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Downloads</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Chat Calendar</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Discussion Forums</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Related Links</a>
-          </td>
-        </tr>
-      </table>
-	</td>
-  </tr>
-</table>
-&nbsp; 
-<table class="flyoutMenu" width="150" cellpadding="2" cellspacing="0" border="0" menudata="im/menu.xml">
-	<tr>
-	  <td>
-      <table width="145" border="0" cellpadding="0" cellspacing="0">
-        <tr>
-          <td bgcolor="#C0C0C0" class="flyoutHeading">
- 		  WebCams
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Step-by-Step</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Reviews</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">WebCam News</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Downloads</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Discussion Forums</a>
-          </td>
-        </tr>
-        <tr>
-          <td class="flyoutLink" handle="">
-          	<a href="#">Related Links</a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-&nbsp;
--->
+<img src="http://www.bigblueball.com/images/shim.gif" width="1" height="5"><br>
+
 <table class="flyoutMenu" width="150" cellpadding="2" cellspacing="0" border="0" menudata="im/menu.xml">
 	<tbody><tr>
 	  <td>
@@ -337,7 +196,7 @@ input.radio {background: white; color:#000000}
           </tr>
           <tr>
             <td class="flyoutLink" handle="">
-          	  <a href="mailto:support@bigblueball.com">Contact us</a>
+          	  <a href="http://www.bigblueball.com/about/contact.asp">Contact us</a>
             </td>
           </tr>
           <tr>
@@ -350,29 +209,82 @@ input.radio {background: white; color:#000000}
           	  <a href="http://www.bigblueball.com/forums/policy.asp">Privacy</a>
             </td>
           </tr>
-          <tr>
-            <td class="flyoutLink" handle="">
-          	  <a href="#">Help</a>
-            </td>
-          </tr>
         </tbody></table>
 	  </td>
   </tr>
 </tbody></table>
-              <br>
-            
+&nbsp;
+<p>
+</p><form name="ccoptin" action="http://ccprod.roving.com/rnavmap/evaluate.rnav" target="_blank" method="get">
+<table border="0">
+	<tbody><tr>
+		<td colspan="2">
+			<font face="Verdana" style="font-size: 70%; font-weight: 700">Join our Mailing List!</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input type="hidden" name="activepage" value="sdredirect">
+			<input type="text" name="ea" size="12" value="enter email" onfocus="if(this.value=='enter email') {this.value='';}" onblur="if(this.value=='') {this.value='enter email';}">
+			<input type="hidden" name="m" value="ies7jee6">
+			<input type="hidden" name="p" value="oi">
+			
+		</td>
+		<td>
+			<input type="image" src="http://www.bigblueball.com/forums/button_go.gif" alt="GO" name="go" border="0">
+		</td>
+	</tr>
+</tbody></table>
+</form>
+
+<p></p>
+		            
               <p align="center">
 	          
-          
+
+<!-- Start of Recommend-it Code * Do not modify  
+
+  <SCRIPT language="JavaScript"
+  src="http://www.ric2.com/cgr.jsp?852037">
+              </SCRIPT>
+
+ End of Recommend-it Code * Do not modify  -->
+ 
+<!--
+<table class="flyoutMenu" width="150" cellpadding="2" cellspacing="0" border="0">
+	<tr>
+	  <td>
+        <table width="145" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td bgcolor="#C0C0C0" class="flyoutHeading">
+			April Giveaway
+            </td>
+          </tr>
+          <tr>
+            <td class="flyoutLinkless" bgcolor="#FFFFFF">
+          	  <p align="center">Find out how
+              <a href="http://www.bigblueball.com/about/contest.asp">you&nbsp;can&nbsp;win</a> 
+              the exclusive BigBlueBall Coffee Mug!</p>
+          	  <p align="center">
+              <font face="Verdana" size="2">
+              <a href="http://www.bigblueball.com/about/contest.asp">
+              <img border="0" src="../images/Guy-with-Mug.jpg"></a></font><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="2"><br>&nbsp;</font></p>
+              </td>
+          </tr>
+        </table>
+	  </td>
+  </tr>
+</table>
+-->
               </p>				
 		</td>
               <!-- Column Two, Main Content Area -->
 
 
 <td valign="top" width="100%">
-                  
 
-	
+                 
+
 <table class="flyoutMenu" width="100%" cellpadding="2" cellspacing="0" border="0">
 	<tbody><tr>
 		<td>
@@ -414,7 +326,7 @@ input.radio {background: white; color:#000000}
 </tbody></table>
 <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
-    <td bgcolor="black">
+    <td bgcolor="#999999">
       <table border="0" width="100%" cellspacing="1" cellpadding="4">
         <tbody><tr>
           <td bgcolor="lightsteelblue"><font face="Verdana, Arial, Helvetica" size="2" color="navy"><b>Privacy Statement for Instant Messaging &amp; Chat - BigBlueBall.com </b></font></td>
@@ -454,13 +366,6 @@ modifying information that they provide in their profile:
               <p>Cookies must be turned on in your browser to participate
 as a user in these forums. Cookies are used here to hold your username and
 password and viewing options, allowing you to login.</p>
-
-              <p><b>Third-Party Privacy</b></p>
-
-              <p>This web site receives advertising from the ValueClick 
-network. For more information on what data is collected from Internet consumers 
-through ValueClick ads please see their privacy policy statement at
-              <a href="http://www.valueclick.com">http://www.valueclick.com</a>.</p>
 
               <p>By pressing the "Agree" button that you, the
 user, are 13 years of age or over. You are fully responsible for any information
@@ -507,14 +412,18 @@ or the use of these forums, you can contact the forum administrator at:
     </tbody></table>
     
 
-		</td></tr></tbody></table><table width="768" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="border-collapse: collapse" bordercolor="#111111">
+		</td></tr></tbody></table><style>
+<!--
+.small { font-family: verdana,arial,helvetica,sans-serif; font-size: x-small; }
+-->
+</style>
+<table width="100%" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF" style="border-collapse: collapse" bordercolor="#111111">
 	<tbody><tr>
-		<td valign="top" width="150"><img src="http://www.bigblueball.com/images/shim.gif" width="150" height="10"></td>
+		<td valign="top" width="150">
+        <img src="http://www.bigblueball.com/images/shim.gif" width="150" height="10"></td>
 		<td>
 
-<table cellpadding="5" cellspacing="0" border="0">
-	<tbody><tr>
-		<td>		
+		
 
 <table width="100%" class="flyoutMenu" cellpadding="2" cellspacing="0" border="0" style="border-collapse: collapse" bordercolor="#111111">
 	<tbody><tr>
@@ -529,9 +438,14 @@ or the use of these forums, you can contact the forum administrator at:
 		<tr>
 			<td class="flyoutLinkless" valign="top">
 
-		<table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
+		<table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber4">
 			<tbody><tr>
-				<td align="right" width="100" valign="top"><font face="Verdana" size="1">Amazon.com</font></td>
+				<td align="right" width="128" valign="top">&nbsp;</td>
+				<td valign="top"><font face="Verdana" size="1"><a href="http://click.linksynergy.com/fs-bin/click?id=gfYJIFLqXPU&amp;offerid=38028.10000005&amp;type=3&amp;subid=0">Save up to 70% at Overstock.com!</a>
+</font></td>
+			</tr>
+			<tr>
+				<td align="right" width="128" valign="top"><font face="Verdana" size="1">Amazon.com</font></td>
 				<td valign="top"><font face="Verdana" size="1"><a href="http://www.amazon.com/exec/obidos/redirect?tag=bigblueballcom&amp;path=subst/lists/best/amazon-bestsellers.html">
 					100 Hot Books</a> | <a href="http://www.amazon.com/exec/obidos/redirect?tag=bigblueballcom&amp;path=subst/music/charts/hot-100-music.html">
 					100 Hot CDs</a> | <a href="http://www.amazon.com/exec/obidos/redirect?tag=bigblueballcom&amp;path=subst/video/sellers/amazon-top-100-dvd.html">
@@ -539,43 +453,28 @@ or the use of these forums, you can contact the forum administrator at:
 				</td>
 			</tr>
 			<tr>
-				<td align="right" width="100" valign="top"><font face="Verdana" size="1">
+				<td align="right" width="128" valign="top"><font face="Verdana" size="1">
 					NetFlix.com&nbsp;</font></td>
 				<td valign="top"><font face="Verdana" size="1"><a href="http://service.bfast.com/bfast/click?bfmid=27276611&amp;siteid=32292800&amp;bfpage=homepage" target="_top">
-					Get unlimited DVD rentals. FREE 2-week trial!</a><br>
+					<b>Get unlimited DVD rentals</b>. FREE 2-week trial!</a><br>
 					I've been a member for over a year! If you have a DVD player, get NetFlix! </font>
 				</td>
 			</tr>
 			<tr>
-				<td align="right" width="100" valign="top">
-					<font face="Verdana" size="1">NextCard Visa</font><font size="1">
-                    </font>
-				</td>
-				<td valign="top"><font face="Verdana" size="1">
-					<a href="http://www.qksrv.net/click-719340-2948162">
-					As low as 2.99% APR intro, 9.99% APR 
-					on going</a></font><font size="1"> </font>
-				</td>
+				<td align="right" width="128" valign="top">
+					<font size="1" face="Verdana">net2phone</font></td>
+				<td valign="top"><font size="1" face="Verdana"><a href="http://click.linksynergy.com/fs-bin/click?id=gfYJIFLqXPU&amp;offerid=36575.10000002&amp;type=3&amp;subid=0">Make FREE calls from your computer!</a></font></td>
 			</tr>
+	
 			<tr>
-				<td align="right" width="100" valign="top"><font face="Verdana" size="1">
-					Prepaid Legal&nbsp;</font></td>
-				<td valign="top"><font face="Verdana" size="1">
-					<a href="http://www.qksrv.net/click-719340-1643097">Affordable legal 
-					advice. Eventually you'll need it.</a> <br>
-				I've been a member for over four 
-					years.</font></td>
-			</tr>
-			<tr>
-				<td align="right" width="100" valign="top">
+				<td align="right" width="128" valign="top">
 					<font face="Verdana" size="1">
 					DirecTV DSL&nbsp;</font><font size="1"> </font>
 				</td>
 				<td valign="top"><font face="Verdana" size="1">
 					<a href="http://www.qksrv.net/click-719340-1644494">Get affordable, 
-					always-on high-speed Internet access risk-free!</a> No annual contract.</font><font size="1">
-                <br>
-&nbsp;</font></td>
+					always-on high-speed Internet access risk-free!</a> No annual contract.<br>
+                </font><font size="1">&nbsp;</font></td>
 			</tr>
 			</tbody></table>	
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
@@ -584,41 +483,36 @@ or the use of these forums, you can contact the forum administrator at:
 
 	<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber5" bgcolor="#FFFFE1">
 		<tbody><tr>
-			<td width="100%"><b><font face="Verdana" size="2">&nbsp;</font><font face="Verdana" style="font-size: 70%">Hot 
-            Stuff</font></b></td>
+			<td width="100%"><b><font face="Verdana" size="2">&nbsp;</font><font face="Verdana" style="font-size: 70%">Jeff's 
+            Picks</font></b></td>
 		</tr>
 	</tbody></table>
 
 	<table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" bgcolor="#FFFFE1">
 		<tbody><tr>
 			<td align="right" width="100" valign="top">
-				<a href="http://www.amazon.com/exec/obidos/ASIN/B00003CX5P/bigblueballcom">
-				<img border="0" width="43" height="60" src="http://www.bigblueball.com/images/amazon/shrek.jpg" alt="Preorder Shrek!"></a></td>
-			<td valign="top" width="33%"><b>
-				<font face="Verdana" style="font-size: 70%">
-				<a href="http://www.amazon.com/exec/obidos/ASIN/B00003CX5P/bigblueballcom">                                           
-				Shrek</a></font></b><font size="1" face="Verdana"><br>
-				Whether you saw this in the theater or not, you've GOT to get 
-			this DVD! </font></td>
+				<a href="http://www.amazon.com/exec/obidos/ASIN/B00003CWT6/ref=nosim/bigblueballcom">
+                <img height="90" src="http://images.amazon.com/images/P/B00003CWT6.01.TZZZZZZZ.jpg" width="61" border="0" alt="Own The Lord of the Rings on DVD!" align="right"></a></td>
+			<td valign="top" width="50%">
+            <font face="Verdana" style="font-size: 70%"><b>
+            <a href="http://www.amazon.com/exec/obidos/ASIN/B00003CWT6/ref=nosim/bigblueballcom">
+                The Lord of the Rings: The Fellowship of the Ring</a></b></font><font size="1" face="Verdana"> - 
+				This movie is an epic. A must-have for your DVD collection. Skip the lines! Preorder now and save $$$</font></td>
 			
 			<td align="right" width="100" valign="top">
-				<a href="http://www.amazon.com/exec/obidos/ASIN/B00005OM4M/ref=nosim/bigblueballcom">
-                <img src="../images/amazon/B00005OM4M.01.MZZZZZZZ.jpg" border="0"></a></td>
-			<td valign="top" width="33%">
-            <font face="Verdana" style="font-size: 70%">
-				<b>
-            <a href="http://www.amazon.com/exec/obidos/ASIN/B00005OM4M/ref=nosim/bigblueballcom">
-            Weathered</a></b></font><font size="1" face="Verdana"><br>
-				Creed<br>
-				The new CD from Creed. More aggressive, more intense, more 
-            listen-able!</font></td>
+				<a href="http://www.amazon.com/exec/obidos/ASIN/B000063526/ref=nosim/bigblueballcom">
+                <img height="90" src="http://images.amazon.com/images/P/B000063526.01.MZZZZZZZ.jpg" width="88" align="right" border="0" alt="Get the latest from Elvis Costello now on CD!"></a></td>
+			<td valign="top" width="50%">
+            <font face="Verdana" style="font-size: 70%"><b>
+            <a href="http://www.amazon.com/exec/obidos/ASIN/B000063526/ref=nosim/bigblueballcom">
+            When I Was Cruel</a></b></font><font size="1" face="Verdana"><br>
+				Elvis Costello<br>
+				The king hits the mark yet again. Taste and see for yourself.</font></td>
 		</tr>
 	</tbody></table>
-
 		</td>
 	</tr>
 </tbody></table>		
-
 			</td>
 		</tr>
 	</tbody></table>
@@ -627,15 +521,13 @@ or the use of these forums, you can contact the forum administrator at:
 	</tr>
 </tbody></table>
 
-		</td>
-	</tr>
-</tbody></table>		
+        <p align="center"><font face="Verdana" size="1">"Beware of computer programmers that carry screwdrivers."<br>Leonard Brandwein<br></font>
 
-		</td>
+		</p></td>
 	</tr>
 </tbody></table>
 
-<table width="768" cellspacing="5" cellpadding="0" bgcolor="#ffffff" border="0" style="BORDER-COLLAPSE: collapse" bordercolor="#111111">
+<table width="100%" cellspacing="5" cellpadding="0" bgcolor="#ffffff" border="0" style="BORDER-COLLAPSE: collapse" bordercolor="#111111">
 	<tbody><tr>
 		<td colspan="2">&nbsp;</td>
 	</tr>
@@ -652,16 +544,17 @@ or the use of these forums, you can contact the forum administrator at:
 		Statement</font></a><font face="Verdana" style="FONT-SIZE: 70%"> |</font><font face="Verdana"><span style="FONT-SIZE: 70%">
 		</span></font><a href="http://www.bigblueball.com/ads/advertise.asp">
 		<font face="Verdana" style="FONT-SIZE: 70%">Advertisers</font></a><font face="Verdana" style="FONT-SIZE: 70%"> 
-		| </font><a href="mailto:support@bigblueball.com">
-		<font face="Verdana" style="FONT-SIZE: 70%">Contact Us</font></a><font face="Verdana" style="FONT-SIZE: 70%"> 
-		| </font><font color="#ffffff" face="Verdana" style="FONT-SIZE: 70%">
+		|
+        <a href="http://www.bigblueball.com/about/contact.asp">Contact Us</a> 
+		| </font>
+		<font color="#ffffff" face="Verdana" style="FONT-SIZE: 70%">
 		<a href="http://www.bigblueball.com/webdesign.htm">Web Design</a></font><font face="Verdana" style="FONT-SIZE: 70%"><acronym title="Powered By: Snitz Forums 2000 Version 3.3.03"><a href="http://forum.snitz.com"> </a>
 			</acronym>
 			</font>
 		<font face="Verdana"><span style="FONT-SIZE: 70%">
 		<br>
 		</span></font>
-		<font face="Verdana" style="FONT-SIZE: 70%">© 2001 BigBlueBall.com 
+		<font face="Verdana" style="FONT-SIZE: 70%">© 2002 BigBlueBall.com 
         All rights reserved.</font></p></td>
   </tr>
   <tr>
@@ -671,7 +564,7 @@ or the use of these forums, you can contact the forum administrator at:
 			/<a href="/forums"><font color="silver">forums</font></a>/<a href="/forums/policy.asp"><font color="silver">policy.asp</font></a> 
 				</font></td>
 		<td align="right">
-			<font color="silver" face="Verdana, Arial, Helvetica" size="1">0.296875 / 79
+			<font color="silver" face="Verdana, Arial, Helvetica" size="1">0.1875 / 163
 </font>
 		</td>
   </tr>
@@ -680,6 +573,7 @@ or the use of these forums, you can contact the forum administrator at:
 		</td>
 	</tr>
 </tbody></table>
+
 
 
 
