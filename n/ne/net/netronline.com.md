@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606214832id_/http%3A//www.netronline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001233230id_/http%3A//www.netronline.com/privacy.htm) for the most accurate reproduction.*
 
 # NETRonline's Privacy Statement
 
@@ -62,7 +62,7 @@ Advertisers
 >> 
 >> Account:  One initial purchase is made by either submitting funds to **NETRonline** by postal mail, or by a secure online credit card transaction.  A running balance will be maintained by **NETRonline** , from which future purchases will be deducted.  Balance information on a customer's account will be securely stored in MS SQL Server with the other account information.
 >>
->>> When a user wishes to terminate an account, all funds in that account will be returned in 7-10 business days by the method which they were submitted (either credited to the credit card or returned by postal mail).  To notify **NETRonline** of your desire to terminate your account, you may contact [**NETR Account Services**](mailto:greg@netronline.com?subject=Terminate%20Account).
+>>> When a user wishes to terminate an account, all funds in that account will be returned in 7-10 business days by the method which they were submitted (either credited to the credit card or returned by postal mail).  To notify **NETRonline** of your desire to terminate your account, you may contact [**NETR Account Services**](mailto:brett@netronline.com?subject=Terminate%20Account).
 >>> 
 >>> Accounts are password protected.  In the event that a password is forgotten, it is the policy of **NETRonline** that it will be mailed to the postal address which is listed in your account information.  Click [**here**](http://www.netronline.com/password.htm) to notify **NETRonline** of a lost password.  
 >>> 
@@ -94,7 +94,7 @@ Advertisers
 > 
 > Demographic Information is used to understand the needs of our visitors so that we may tailor our site content to best suit them.  The survey that is indicated by the graphic to below is maintained by a third party advertising agency and may share the survey responses with other parties.  **NETRonline __** has no control over how the information given there is handled.
 >
->> [](https://web.archive.org/web/20030606214832id_/http%3A//www.netronline.com/survey.html)
+>> [](https://web.archive.org/web/20031001233230id_/http%3A//www.netronline.com/survey.html)
 > 
 > Contact information from the surveys is used to ship purchases or information about our company. The customer's contact information is also used to get in touch with the visitor when necessary, or to provide them with requested information about the company.
 > 
