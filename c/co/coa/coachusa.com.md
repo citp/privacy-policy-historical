@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the coachusa.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603073634id_/http%3A//www.coachusa.com/policy/statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachusa.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204193007id_/http%3A//coachusa.com/policy/statement.cfm) for the most accurate reproduction.*
 
 # Coach USA: Motorcoach Tours, Charter Services and Ground Transportation Services
 
-    1. **[SECURITY](https://web.archive.org/web/20010603073634id_/http%3A//www.coachusa.com/policy/statement.cfm#link1)**
-    2. **[INFORMATION COLLECTION](https://web.archive.org/web/20010603073634id_/http%3A//www.coachusa.com/policy/statement.cfm#link2)**
-    3. **[INFORMATION USE](https://web.archive.org/web/20010603073634id_/http%3A//www.coachusa.com/policy/statement.cfm#link3)**
-    4. [**DECLINING E-MAIL OFFERS**](https://web.archive.org/web/20010603073634id_/http%3A//www.coachusa.com/policy/statement.cfm#link4)
-    5. **[CHILDREN](https://web.archive.org/web/20010603073634id_/http%3A//www.coachusa.com/policy/statement.cfm#link5)**
-    6. **[LINKED INTERNET SITES](https://web.archive.org/web/20010603073634id_/http%3A//www.coachusa.com/policy/statement.cfm#link6)**
-    7. [**EFFECTIVE DATE AND CHANGES:**](https://web.archive.org/web/20010603073634id_/http%3A//www.coachusa.com/policy/statement.cfm#link7) ****
+    1. **[SECURITY](https://web.archive.org/web/20011204193007id_/http%3A//coachusa.com/policy/statement.cfm#link1)**
+    2. **[INFORMATION COLLECTION](https://web.archive.org/web/20011204193007id_/http%3A//coachusa.com/policy/statement.cfm#link2)**
+    3. **[INFORMATION USE](https://web.archive.org/web/20011204193007id_/http%3A//coachusa.com/policy/statement.cfm#link3)**
+    4. [**DECLINING E-MAIL OFFERS**](https://web.archive.org/web/20011204193007id_/http%3A//coachusa.com/policy/statement.cfm#link4)
+    5. **[CHILDREN](https://web.archive.org/web/20011204193007id_/http%3A//coachusa.com/policy/statement.cfm#link5)**
+    6. **[LINKED INTERNET SITES](https://web.archive.org/web/20011204193007id_/http%3A//coachusa.com/policy/statement.cfm#link6)**
+    7. [**EFFECTIVE DATE AND CHANGES:**](https://web.archive.org/web/20011204193007id_/http%3A//coachusa.com/policy/statement.cfm#link7) ****
 
 
 
