@@ -1,309 +1,877 @@
-<!--The following is the downloaded HTML source of the kitsapsun.com privacy policy that was archived on 2004-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040609234437id_/http%3A//www.thesunlink.com/phx/html/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kitsapsun.com privacy policy that was archived on 2005-01-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050114110030id_/http%3A//www.kitsapsun.com/bsun/home/text/0%2C2403%2CBSUN_19081_24251%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
+		<title>kitsapsun.com</title>
+		
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Description" content="SUNLINK is the online home of The
-SUN newspaper of Bremerton, Wash. Located on the Kitsap Peninsula north of
-Tacoma and west of Seattle, Bremerton is a centrally-located West Sound
-community, with easy ferry access to the Seattle Metropolitan area.">
-<meta http-equiv="Keywords" content="Kitsap, Bremerton, Newspaper, Scripps,
-Visitors, Residents, Classified, Features, News, advertising, online, contest,
-entertainment, community, calendars, editorial, sports, food, recipes">
-<meta http-equiv="Identifier-URL" content="http://www.thesunlink.com/">
-<script language="JavaScript">
+<meta name="Description" content="KitsapSun.com is the online home of The SUN Newspaper of Bremerton, Washington. Featuring news, classified, entertainment and more, KitsapSun.com is committed to constantly updated news, information and advertising delivery">
+<meta name="Keywords" content="Bremerton,Washington,thesunlink,Sun,news,Kitsap,Silverdale,ferry,Mariners,Seahawks,sports,classified,volcano">
 
-browserName = navigator.appName;
+		<link rel="stylesheet" href="/bsun/cda/styles/mainCSS">
+		<script language="JavaScript">
 
-browserVer = parseInt(navigator.appVersion);
+function popup(url,w,h,menu) {
+	x = Math.floor((screen.width - w) / 2);
+	y = Math.floor((screen.height - h) / 2);        
+	now = new Date();
+	features = "screenx="+x+",screeny="+y+",left="+x+",top="+y+",width="+w+",height="+h+",location=no,resizable=yes"+",directories=no,status=no,scrollbars=yes";
 
-        if (browserName == "Netscape" && browserVer >= 3) version = "n3";
-
-
-
-else if (browserName == "Microsoft Internet Explorer" && browserVer >= 3) version= "n3";
-
-        else version = "n2";
-
-        //put the images that you want to swap in this section
-
-        if (version == "n3") {
-
-        image1on = new Image();
-        image1on.src = "/images/menus/1white.gif";
-        image2on = new Image();
-        image2on.src = "/images/menus/2white.gif";
-        image3on = new Image();
-        image3on.src = "/images/menus/3white.gif";
-        image4on = new Image();
-        image4on.src = "/images/menus/4white.gif";
-        image5on = new Image();
-        image5on.src = "/images/menus/5white.gif";
-
-
-      //put your default images in this area
-        image1off = new Image();
-        image1off.src = "/images/menus/1green.gif";
-        image2off = new Image();
-        image2off.src = "/images/menus/2green.gif";
-        image3off = new Image();
-        image3off.src = "/images/menus/3green.gif";
-        image4off = new Image();
-        image4off.src = "/images/menus/4green.gif";
-        image5off = new Image();
-        image5off.src = "/images/menus/5green.gif";
-
-
-
-
-
-        }
-
-
-
-function img_act(imgName) {
-
-        if (version == "n3") {
-
-        imgOn = eval(imgName + "on.src");
-
-        document [imgName].src = imgOn;
-
-        }
-
+	if (menu != null) {
+		//features += ",menubar=yes,toolbar=yes,scrollbars=yes";
+		features += ",menubar=yes,toolbar=yes";
+	} else {
+		//features += ",menubar=no,toolbar=no,scrollbars=no"; 
+		features += ",menubar=no,toolbar=no"; 
+	}
+	window.open(url,"newwin",features);
 }
 
 
-
-function img_inact(imgName) {
-
-        if (version == "n3") {
-
-        imgOff = eval(imgName + "off.src");
-
-        document [imgName].src = imgOff;
-
-        }
-
+function MM_reloadPage(init) {  
+  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {
+    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+     document.MM_pgW=innerWidth; 
+	 document.MM_pgH=innerHeight;
+	 onresize=MM_reloadPage; 
+    }
+  } else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
+    location.reload();
 }
 
+// for Netscape thisdomain = www.scripps.com
+// for other browser thisdomain = scripps.com
+
+thisdomain = document.location + "";
+thisdomain = thisdomain.substring(thisdomain.indexOf('//')+2,thisdomain.length);
+thisdomain = thisdomain.substring(0,thisdomain.indexOf('/'));
+thisdomain = (navigator.appName != "Netscape")? thisdomain.substring(thisdomain.indexOf('.')+1,thisdomain.length): thisdomain;
+
+
+
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf(';',offset);
+	if (endstr == -1) {
+		endstr = document.cookie.length;
+	}
+	return unescape(document.cookie.substring(offset,endstr))
+}
+
+
+function SetCookie (name, value, expires, path, domain, secure) {
+	document.cookie = name + "=" + escape (value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+} 
+
+
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i,j) == arg) {
+			return getCookieVal(j);
+		}
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i==0) break;
+	}
+	return null;  
+}
+
+
+function DeleteCookie (name, path, domain) {
+   if (GetCookie(name)) {
+    document.cookie = name + "=" + ((path) ? "; path=" + path : "") +  ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+   }
+}
+
+
+function FixCookieDate (date) { 
+	var base = new Date(0); 
+	var skew = base.getTime();
+	if(skew > 0)
+		date.setTime (date.getTime() - skew);     
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function vod (url,streamtitle,customfeatures) {
+	windowFeatures = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=210,height=480';
+
+	//Browser Detection
+	var browser = "";
+	var browsername = navigator.appName;
+	var browserversion = parseInt(navigator.appVersion);
+	var browserplatform = navigator.userAgent;
+	if (browsername == "Netscape") {
+		browser = "ns" + browserversion;
+	} else {
+		if (browsername == "Microsoft Internet Explorer") {
+			if (browserversion >= 4) {
+				browser = "ie" + browserversion;
+			} else {
+				browser = "ie3";
+			}
+		}
+	}
+
+	if ((customfeatures) && customfeatures != '') {
+		windowFeatures = customfeatures;
+	}
+
+	if (url.indexOf(".rm",(url.length-10)) != -1) {
+		if (browser != 'ie3') {
+			hasplugin = 'false';
+			// Mac Browser (Not Netscape)
+			if ( (browserplatform.indexOf('Mac') !=-1) && ( browsername != "Netscape")) {
+				numPlugins = 0;
+				// Real Strange never goes into the followinf loop
+				// because numPlugins is 0
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.embeds[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			} else {
+				numPlugins = navigator.plugins.length;
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.plugins[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			}
+			if (browser.substring(0,2) == 'ie') {
+				hasplugin = 'true';
+			}
+			if (hasplugin == 'true') {
+				videoWin = window.open (url , 'video', windowFeatures);
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+				videoWin.document.close();              
+			} else {
+				stream = url.substring(0,(url.length-5));
+				location.href=stream + '.ram';
+			}
+		} else {
+			videoWin = window.open (url , 'video', windowFeatures);
+			if (document.images) {
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+			}
+			videoWin.document.close();                      
+		}               
+	} else {
+		videoWin = window.open (url , 'video', windowFeatures);
+		if (document.images) {
+			if (streamtitle != '') {
+				videoWin.streamtitle=streamtitle;
+			}
+		}
+		videoWin.document.close();
+	}
+}
 </script>
 
-<title>SunLink: PRIVACY STATEMENT</title>
-</head>
+		
+		<script type="text/javascript" src="/bsun/jslib/0,2412,,00.js"></script>		
+		
+		
+		
+		
+		<script type="text/javascript">
+		<!--
+		// Prevent others from including this site
+		var preview = 'no'
+		if (preview != 'yes') {
+			if (top != self) {
+				top.location = location;
+			}
+		}
+
+		MM_reloadPage(true);
+
+		if (GetCookie('cookieChk') == null) { 
+			var expdate = new Date ();
+
+			// Correct for Mac date bug - call only once for given Date object!
+			FixCookieDate (expdate); 
+
+			// expires 30 days from now
+			expdate.setTime (expdate.getTime() + (30 * 24 * 60 * 60 * 1000)); 
+			SetCookie ('cookieChk', 'OK', expdate, '/', thisdomain, null);
+		}
+		// -->
+		</script>
+		</head><body bgcolor="#f0f0f0" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#333366">
+<div id="cm8sticky" style="width: 100%; height: 100%; position: absolute;">
 
 
+	
+		<!-- Vignette V6 Mon Oct 11 10:45:11 2004 -->
 
-
-
-<body background="/images/backing/rollback.gif">
-
-<table width="640" border="0">
+	<table width="750" cellpadding="0" cellspacing="0" border="0" align="	"><tbody><tr><td><table width="750" heigth="90" cellpadding="0" cellspacing="0" border="0" align="center" background="/bsun/images/headers/header_home.jpg"><tbody><tr><td>
+		<table width="750" cellpadding="0" cellspacing="0" border="0" align="center" background=""><tbody><tr><td width="105" height="90" valign="top">
+			<!-- VERTICALS INFO GOES IN THIS TABLE BSUN 256253 HEADER_VERTICAL_TAB no <BR>-->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" background="">
+					<tbody><tr>
+					     <td height="10"><img src="/bsun/images/spacers/spacer.gif"></td>
+					</tr>
+					<tr>
+						<td class="footertext">
+							<b></b>
+						</td>
+					</tr>
+			</tbody></table>
+			<!-- END VERTICALS INFO TABLE --></td><td width="40" height="84">&nbsp;</td><!-- Proc:getHorizCtntStack MaxSize (1) --></tr>	<tr><td width="749" height="21" colspan="5" align="center" class="navbartext"><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="/bsun/home/0,2403,BSUN_19081,00.html" class="navbartext">Home</a><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="/bsun/local/0,2403,BSUN_19088,00.html" class="navbartext">Local</a><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="/bsun/opinion/0,2403,BSUN_19097,00.html" class="navbartext">Opinion</a><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="/bsun/neighbors/0,2403,BSUN_19090,00.html" class="navbartext">Neighbors</a><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="/bsun/sports/0,2403,BSUN_19109,00.html" class="navbartext">Sports</a><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="/bsun/nation_world/0,2403,BSUN_19089,00.html" class="navbartext">Nation  /  World</a><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="/bsun/business/0,2403,BSUN_19063,00.html" class="navbartext">Business</a><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="/bsun/features/0,2403,BSUN_19080,00.html" class="navbartext">Features</a><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="/bsun/entertainment/0,2403,BSUN_19066,00.html" class="navbartext">Entertainment</a><span class="navbartext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://web.kitsapsun.com/classified2/" class="navbartext">Classifieds</a><!-- MaxSize (10) --></td><!-- Proc:getHorizCtntStack MaxSize (1) --></tr><!-- MaxSize (2) --></tbody></table></td></tr></tbody></table><!-- MaxSize (1) --></td></tr></tbody></table>  <!-- BEGIN TABLE FOR CONTENT AREA -->
+<table width="750" border="0" cellspacing="0" cellpadding="0" height="500">
 <tbody><tr>
-<td width="120" valign="TOP">
-<a href="/index.html"><img border="0" src="/images/menus/111sun.gif"></a>
+	<td width="1" class="frameborder" valign="top"><img src="images/spacers/spacer.gif" width="1" height="1"></td>
+	<!-- BEGIN CELL FOR LEFT SIDE CONTENT -->
+				
+	<td width="130" valign="top" class="lnbbgcolor">
+		
+		<!-- Vignette V6 Thu Jan 13 19:01:14 2005 -->
+
+	<table width="130" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><table width="130" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><table cellspacing="0" cellpadding="2" width="115" align="center" bgcolor="#e3e3e3" border="0">
+<tbody>
+<tr>
+<td class="sectionheader"><a class="sectionheader" href="/bsun/local/">LOCAL</a><br></td></tr></tbody></table><!--DelvFrmt (LNB_SUBSECTIONS)--><!-- #Use section color as background-->
+<table cellspacing="0" cellpadding="2" width="115" align="center" bgcolor="#e3e3e3" border="0">
+<tbody>
+<tr>
+<td valign="top" width="5"><img height="3" hspace="3" src="/bsun/images/nav/lnb_bullet.gif" width="3" vspace="8" border="0"></td>
+<td width="110"><a class="subnavtext" href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=98337">Weather</a></td></tr>
+<tr>
+<td valign="top" width="5"><img height="3" hspace="3" src="/bsun/images/nav/lnb_bullet.gif" width="3" vspace="8" border="0"></td>
+<td width="110"><a class="subnavtext" href="/bsun/lo_obituaries/">Obituaries</a></td></tr>
+<tr>
+<td valign="top" width="5"><img height="3" hspace="3" src="/bsun/images/nav/lnb_bullet.gif" width="3" vspace="8" border="0"></td>
+<td width="110"><a class="subnavtext" href="/bsun/lo_tributes/">Tributes</a></td></tr>
+<tr>
+<td valign="top" width="5"><img height="3" hspace="3" src="/bsun/images/nav/lnb_bullet.gif" width="3" vspace="8" border="0"></td>
+<td width="110"><a class="subnavtext" href="/bsun/lo_milestones/">Milestones</a></td></tr>
+<tr>
+<td valign="top" width="5"><img height="3" hspace="3" src="/bsun/images/nav/lnb_bullet.gif" width="3" vspace="8" border="0"></td>
+<td width="110"><a class="subnavtext" href="/bsun/lo_politics/">Politics</a></td></tr>
+<tr>
+<td valign="top" width="5"><img height="3" hspace="3" src="/bsun/images/nav/lnb_bullet.gif" width="3" vspace="8" border="0"></td>
+<td width="110"><a class="subnavtext" href="/bsun/lo_code_911/">Code 
+911</a></td>
+</tr>
+</tbody></table>
+
+
+
+<p>
+</p><table cellspacing="0" cellpadding="1" width="115" align="center" bgcolor="#e3e3e3" border="0">
+<tbody>
+
+<tr>
+
+<td width="115" span="" class="lnbarchive">
+SITE SERVICES</td>
+</tr>
+
+<tr>
+<td width="115">
+<a class="additionalhead" href="http://web.kitsapsun.com/bsun/bsun_contactus.html">• Contact Us</a><br>
+<a class="additionalhead" href="http://advertise.thesunlink.com">• Media Kit</a><br>
+<a class="additionalhead" href="http://web.kitsapsun.com/bsun/nie/bsun_nie.html">• Newspapers in &nbsp;&nbsp;Education</a><br>
+<a class="additionalhead" href="http://subscribe.thesunlink.com/">• Subscription Services</a><br>
+<a class="additionalhead" href="http://web.kitsapsun.com/announcements/index.html">• Announcement Forms</a><br>
+<a class="additionalhead" href="http://subscribe.thesunlink.com/photogallery/">• Photo Orders</a><br>
+
+</td></tr>
+
+
+<tr>
+
+<td width="115" span="" class="lnbarchive">
+REGISTRATION</td>
+</tr>
+
+<tr>
+
+<td width="115">
+<a class="additionalhead" href="http://reg.kitsapsun.com/bsun/web/loginForm">• Register</a><br>
+<a class="additionalhead" href="http://reg.kitsapsun.com/bsun/web/forgotPasswordForm">• Forgot Password</a><br>
+
+</td></tr>
+</tbody>
+</table>
 <p>
 
-<a href="/index.html" onmouseover="img_act('image4'), window.status='Home page'; return true" onmouseout="img_inact('image4')" target="_top">
-<img src="/images/menus/4green.gif" name="image4" border="0"></a>
 
 
-
-</p></td><td width="20">
+</p><p>
+<table border="0" width="115" cellspacing="0" cellpadding="5">
+<tbody><tr><td valign="top" width="5"></td><td valign="TOP" width="110" bgcolor="#004660"><center>
+<span class="sectionheader2">Webcam</span></center>
+</td></tr><tr>
+<td valign="top" width="5"></td>
+<td valign="TOP" width="110" bgcolor="WHITE" class="smalltext">
+<center>
+<a class="additionalhead" href="http://www.kitsapsun.com/bsun/home/article/0,2403,BSUN_19081_3415347,00.html">Bremerton Parking Garage</a><br>
+A new six-story parking garage is being built at the corners of 5th and Park in downtown Bremerton.
+<br>
+<a href="http://www.kitsapsun.com/bsun/home/article/0,2403,BSUN_19081_3415347,00.html" class="deeplinks"><b>Click here</b></a> for a live view of the construction.
+</center>
 </td>
+</tr>
+</tbody></table>
+
+<!--
+<p>
+
+<TABLE BORDER=0 WIDTH="115" border=0 cellspacing=0 cellpadding=5>
+<TR><TD vAlign=top width=5></TD><TD VALIGN=TOP WIDTH=110 BGCOLOR="#004660">
+<span class='sectionheader2'>Mt. St. Helens</span>
+</td></tr><TR>
+<TD vAlign=top width=5></TD>
+<TD VALIGN=TOP WIDTH=110 BGCOLOR=WHITE class="smalltext">
+
+<center>
+<A class="sectionheader" href="http://web.kitsapsun.com/regcontent/seismic/index.html">
+UPDATED NEWS</A><br>
+Click here often for the latest news and interactive features about the Mt. St. Helens volcano.
+<p>
+<span class='sectionheader'>Share your<BR>Mt. St. Helens story</a></span><br>
+<A HREF="mailto:jcoleman@kitsapsun.com?subject=ST HELENS STORY" class="deeplinks">Click here</a>
+<HR WIDTH=80%>
+<span class='sectionheader'>Got a good<BR>Mt. St. Helens photo?</a></span><br>
+<span class='bodytext'>Send in your original photo and we will post it online!</span>
+<A HREF="mailto:jcoleman@kitsapsun.com?subject=ST HELENS PHOTO" class="deeplinks">Click here</a>
+<HR WIDTH=80%>
+<A HREF="http://web.kitsapsun.com/regcontent/seismic/stories.html" class="deeplinks" target="_blank">Read stories &#187;</a>
+<A HREF="http://web.kitsapsun.com/regcontent/seismic/photos.html" class="deeplinks" target="_blank">View photos &#187;</a>
+</center>
+</TD>
+</tr>
+</table>
+// -->
+</p><p>
 
 
-<td width="500" valign="TOP">
-      <font face="ARIAL, HELVETICA, SANS-SERIF">
-      <p>
-      </p><center><b><font face="ARIAL" size="-1">The SUN newspaper of Bremerton, Wash.</font></b><font face="ARIAL" size="-1">
-      <br>An operating unit of the <br><a href="http://www.scripps.com/">E.W. 
-      Scripps Company</a></font></center>
-      <p>
+<table border="0" width="115" cellspacing="0" cellpadding="5">
+<tbody><tr><td valign="top" width="5"></td><td valign="TOP" width="110" bgcolor="#004660">
+<center><span class="sectionheader2">Pick &amp; Win!</span></center>
+</td></tr><tr>
+<td valign="top" width="5"></td>
+<td valign="TOP" width="110" bgcolor="WHITE" class="smalltext">
+<center>
+<img src="http://web.kitsapsun.com/ads/football.jpg">
+<a class="sectionheader" href="http://thesunlink.profootball.upickem.net/profootball/registration/login.asp">
+CLICK HERE</a><br>
+to play the West Hills Auto Plex Touchdown Drive U-Pickem NFL game!<hr>
+Register today to pick your favorite teams! Win valuable local prizes.
+</center>
+</td>
+</tr>
+</tbody></table>
+</p><p>
+</p><p>
+<table border="0" width="115" cellspacing="0" cellpadding="5">
+<tbody><tr><td valign="top" width="5"></td><td valign="TOP" width="110" bgcolor="#004660">
+<center><span class="sectionheader2">Flashback</span></center>
+</td></tr><tr>
+<td valign="top" width="5"></td>
+<td valign="TOP" width="110" bgcolor="WHITE" class="smalltext">
+<center>
+<a href="http://web.kitsapsun.com/news/2000/january/index.html" class="deeplinks"><b>Click here</b></a><br>
+to see local news and headlines from 5 years ago. 
+</center>
+</td>
+</tr>
+</tbody></table>
 
-      </p><center><b>The SunLink Privacy Policy</b></center>
-      <p></p>
-      <p>
-      </p><p></p>
-      <p>
-      The SunLink is committed to protecting consumer privacy online. We
-      believe that greater protection of personal privacy on the web will not 
-      only protect consumers, but also increase consumer confidence and 
-      ultimately their participation in online activities. At <b>www.thesunlink.com</b>
-      we intend to give you as much control as
-      possible over your personal information.
-      </p><p></p>
-      <p>
-      The purpose of our policy is to inform you about the types of
-      information we gather about you when you visit our site(s), how we may use 
-      that information, whether we disclose it to anyone, and the choices you 
-      have regarding our use of, and your ability to correct, the 
-      information.
-      </p><p></p>
-      <p>
-      Our site(s) may contain links to other web sites, including web
-      sites directed to children. We have no control over the privacy practices 
-      or the content of any of our business partners, advertisers, sponsors or 
-      other sites to which we provide links from our sites. You should check the 
-      applicable privacy policy of the web site sponsor when linking to other 
-      web sites.
-      </p><p></p>
-      <p>
-      </p><center><b>I. Information Which We Collect</b></center>
-      <p></p>
-      <p>
-      We may request that you voluntarily supply us with personal
-      information, including your e-mail address, postal address, home or work 
-      telephone number, credit card number (only if you choose to purchase a 
-      product online), for purposes such as correspondence, making a purchase, 
-      or participating in online contests, surveys or games. If you choose to 
-      give us personal information via the Internet that we or our business 
-      partners may need -- to correspond with you, process an order or provide 
-      you with a subscription, for example -- it is our intent to let you know 
-      how we will use such information.
-      </p><p></p>
-      <p>
-      Like many other commercial sites, our site(s) may utilize a
-      standard technology called a "cookie" to collect information 
-      about how our site is used. Cookies were designed to help a web site 
-      recognize a user's browser as a previous visitor and thus save and 
-      remember any preferences that may have been set while the user was 
-      browsing the site. A cookie cannot retrieve any other data from your hard 
-      drive, pass on a computer virus, or capture your e-mail address. Our web 
-      site(s) may use cookies to enhance your visit. Cookies can securely store 
-      a user's password, personalize home pages, identify which parts of a site 
-      have been visited or keep track of selections, such as those selected in a 
-      "shopping cart." Our cookies may collect your domain name and 
-      track your selections through our web pages. We only use 
-      "cookies" to gather the information indicated in this policy and 
-      do not use cookies to gather personal identifying information about you 
-      without your consent.
-      </p><p></p>
-      <p>
-      We also use cookies in connection with our chat rooms in order to
-      record your preferences. These cookies store automatically information 
-      pertaining to the last chat room you visited, as well as certain comments 
-      that can be issues in the chat room, in order to facilitate your 
-      experience with the chat rooms. No additional identifying information is 
-      stored on these cookies. You also have the option of choosing to allow us 
-      to use a cookie to store your username, or "handle" and password 
-      on your computer for use in that chat rooms, forums and other sites as 
-      indicated on the particular site.
-      </p><p></p>
-      <p>
-      We may require you to supply us with personal information
-      (demographic information such as average age, income, education, 
-      population data, zip codes) during a "registration" process 
-      online prior to using certain features of our site. For example, you may 
-      be required to register to use chat rooms, forums, to access archival 
-      stories, to subscribe to newspapers, and to access other features. We use 
-      this general information to aggregate information according to 
-      demographics, such as gender, geographic location, age, income or a 
-      combination of these or other demographics.
-      </p><p></p>
-      <p>
-      In addition, users may complete a subscription form online in
-      order to subscribe to The SUN. To subscribe, users must
-      submit personal information in order for us to send the newspaper to 
-      you.
-      </p><p></p>
-      <p>
-      </p><center><b>II. Use of User Information</b></center>
-      <p></p>
-      <p>
-      We may perform statistical analyses of aggregate user behavior.
-      This allows us to measure relative consumer interest in the various areas 
-      of our web sites for product development purposes. Any information we 
-      collect is used for its own internal purposes to improve the content of 
-      the web sites, to enhance users' experiences when visiting our site(s), to 
-      customize the content and/or layout of our pages, and to provide the 
-      services required by an individual user. We do not use personal 
-      identifying information for any reason that is not disclosed either in 
-      this Policy or at the time the information is requested. We never send 
-      e-mail to you unless you request a particular service, or consent to being 
-      contacted by e-mail. There are instances where you will have the 
-      opportunity to subscribe to an e-mail list that will send information 
-      about the site or our advertisers to your e-mail address, but this will be 
-      done only with your permission and consent
-      </p><p></p>
-      <p>
-      </p><center><b>III. Disclosure to Third Parties</b></center>
-      <p></p>
-      <p>
-      We do not share personal identifying information with any third
-      party without your permission. We disclose only in aggregate form our 
-      statistical analyses or demographics of users to third parties, such as 
-      advertisers or other business partners. In some instances, we operate 
-      shared web sites with businesses affiliated with us. Our privacy policy 
-      will apply to these web sites, and our affiliates adhere to our privacy 
-      policy and will not share personal information with any third party 
-      without your permission. PLEASE BE AWARE that when you voluntarily 
-      disclose personal information (such as your name, e-mail address) in chat 
-      areas or bulletin boards to third parties, that information may be 
-      collected by others outside the control of us and may result in 
-      unsolicited messages from others.
-      </p><p></p>
-      <p>
-      </p><center><b>IV. Accuracy of User Information</b></center>
-      <p></p>
-      <p>
-      In order to ensure the accuracy of personal information provided
-      for registration, you may return to the registration form online in order 
-      to change information you have provided at any time. Questions regarding 
-      our privacy policy, the accuracy of your personal information or the use 
-      of the information collected should be directed via e-mail to Jim Coleman,
-      Web Services Administrator, at <b>JColeman@thesunlink.com</b>, or you can reach
-      us by telephone at (360) 792-9223. You can also write us at:
-      </p><p></p>
-      <p>
-      </p><center>The SunLink<br>c/o The SUN<br>545 5th St.<br>Bremerton, WA, 98337</center>
-      <p></p>
-      <p>
-      These privacy policies are effective as of April 8, 1999. We
-      reserve the right to change this policy at any time, and will post any 
-      changes to this policy as soon as they go into effect.
-      </p><p></p>
-      <p>
-      </p><center><b>V. Security of Information</b></center>
-      <p></p>
-      <p>
-      We use our best efforts to ensure the security of personal
-      information submitted by users. When collecting credit card information 
-      for online purchases, we offer secured-server transactions that encrypt 
-      your information in transit to thwart someone from intercepting it and 
-      misusing it. When we collect other information from our users, it is 
-      stored in an area where the general public does not have access to 
-      it.
-      </p><p></p>
-      <p>
-      </p><center><b>VI. Opting-out</b></center>
-      <p></p>
-      <p>
-      At any time while assessing our site(s), any user while online may
-      "opt-out" of further e-mail contact from us (while still 
-      allowing access to our site(s)). For further information about opting-out, 
-      contact us at the e-mail address, postal address or telephone number 
-      stated above.
-      </p><p></p>
-      <p>
-      </p><center><b>VII. Use of Materials</b></center>
-      <p></p>
-      <p>
-      The right to download and store or output the materials in our
-      site(s) is granted for the user's personal use only, and materials may not 
-      be reproduced in any edited form. Any other reproduction, transmission, 
-      performance, display or editing of these materials by any means mechanical 
-      or electronic without the express written permission of us is strictly 
-      prohibited. Users wishing to obtain permission to reprint or reproduce any 
-      materials appearing on these sites may contact us at <b>sunnews@thesunlink.com</b>. To
-      link to the full Terms of Use Agreement pertaining to use of our site(s), 
-      please <a href="/phx/html/user.html">click
-      here</a>.<br>
-      </p><p></p>
+</p><p>
+<table border="0" width="115" cellspacing="0" cellpadding="5">
+<tbody><tr><td valign="top" width="5"></td><td valign="TOP" width="110" bgcolor="#004660">
+<center><span class="sectionheader2">Special Sections</span></center>
+</td></tr><tr>
+<td valign="top" width="5"></td>
+<td valign="TOP" width="110" bgcolor="WHITE" class="smalltext">
+<center>
+<a href="http://adserver1.harvestadsdepot.com/scrippsbs/ss/015088/" class="deeplinks"><b>Healthy Living Guide</b></a><br>
 
-</font>
-</td></tr></tbody></table>
+</center>
+</td>
+</tr>
+</tbody></table>
+</p><p>
+<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td align="center">
+<a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=98337" target="_blank"><img src="http://banners.wunderground.com/banner/gizmotimetemp/US/WA/Bremerton.gif" border="0" width="115"></a></td>
+</tr>
+</tbody></table><!-- MaxSize (3) --></p></td></tr></tbody></table><!-- MaxSize (1) --></td></tr></tbody></table> </td>
+	 <!-- END OF CELL FOR LEFT SIDE CONTENT -->
+	<td width="1" class="frameborder" valign="top"><img src="images/spacers/spacer.gif" width="1" height="1"></td>
 
+	<!-- BEGIN CELL FOR CONTENT AREA -->
+	
+	<td width="451" valign="top">
+		<table width="451" border="0" cellspacing="0" cellpadding="15">
+        	<tbody><tr valign="top">
+				<td class="bodytext">
+											    
+						<!-- Vignette V6 Mon Oct 11 10:45:17 2004 -->
+
+	<font face="ARIAL, HELVETICA, SANS-SERIF">
+<center><b><font face="ARIAL" size="-1">The SUN newspaper of Bremerton, 
+Wash.</font></b><font face="ARIAL" size="-1"> <br>An operating unit of the <br><a href="http://www.scripps.com/">E.W. Scripps Company</a></font></center>
+<p>
+</p><center><b>The SunLink Privacy Policy</b></center>
+<p></p>
+<p>
+</p><p></p>
+<p>The SunLink is committed to protecting consumer privacy online. We believe 
+that greater protection of personal privacy on the web will not only protect 
+consumers, but also increase consumer confidence and ultimately their 
+participation in online activities. At <b>www.thesunlink.com</b> we intend to 
+give you as much control as possible over your personal information. 
+</p><p></p>
+<p>The purpose of our policy is to inform you about the types of information we 
+gather about you when you visit our site(s), how we may use that information, 
+whether we disclose it to anyone, and the choices you have regarding our use of, 
+and your ability to correct, the information. 
+</p><p></p>
+<p>Our site(s) may contain links to other web sites, including web sites 
+directed to children. We have no control over the privacy practices or the 
+content of any of our business partners, advertisers, sponsors or other sites to 
+which we provide links from our sites. You should check the applicable privacy 
+policy of the web site sponsor when linking to other web sites. 
+</p><p></p>
+<p>
+</p><center><b>I. Information Which We Collect</b></center>
+<p></p>
+<p>We may request that you voluntarily supply us with personal information, 
+including your e-mail address, postal address, home or work telephone number, 
+credit card number (only if you choose to purchase a product online), for 
+purposes such as correspondence, making a purchase, or participating in online 
+contests, surveys or games. If you choose to give us personal information via 
+the Internet that we or our business partners may need -- to correspond with 
+you, process an order or provide you with a subscription, for example -- it is 
+our intent to let you know how we will use such information. 
+</p><p></p>
+<p>Like many other commercial sites, our site(s) may utilize a standard 
+technology called a "cookie" to collect information about how our site is used. 
+Cookies were designed to help a web site recognize a user's browser as a 
+previous visitor and thus save and remember any preferences that may have been 
+set while the user was browsing the site. A cookie cannot retrieve any other 
+data from your hard drive, pass on a computer virus, or capture your e-mail 
+address. Our web site(s) may use cookies to enhance your visit. Cookies can 
+securely store a user's password, personalize home pages, identify which parts 
+of a site have been visited or keep track of selections, such as those selected 
+in a "shopping cart." Our cookies may collect your domain name and track your 
+selections through our web pages. We only use "cookies" to gather the 
+information indicated in this policy and do not use cookies to gather personal 
+identifying information about you without your consent. 
+</p><p></p>
+<p>We also use cookies in connection with our chat rooms in order to record your 
+preferences. These cookies store automatically information pertaining to the 
+last chat room you visited, as well as certain comments that can be issues in 
+the chat room, in order to facilitate your experience with the chat rooms. No 
+additional identifying information is stored on these cookies. You also have the 
+option of choosing to allow us to use a cookie to store your username, or 
+"handle" and password on your computer for use in that chat rooms, forums and 
+other sites as indicated on the particular site. 
+</p><p></p>
+<p>We may require you to supply us with personal information (demographic 
+information such as average age, income, education, population data, zip codes) 
+during a "registration" process online prior to using certain features of our 
+site. For example, you may be required to register to use chat rooms, forums, to 
+access archival stories, to subscribe to newspapers, and to access other 
+features. We use this general information to aggregate information according to 
+demographics, such as gender, geographic location, age, income or a combination 
+of these or other demographics. 
+</p><p></p>
+<p>In addition, users may complete a subscription form online in order to 
+subscribe to The SUN. To subscribe, users must submit personal information in 
+order for us to send the newspaper to you. 
+</p><p></p>
+<p>
+</p><center><b>II. Use of User Information</b></center>
+<p></p>
+<p>We may perform statistical analyses of aggregate user behavior. This allows 
+us to measure relative consumer interest in the various areas of our web sites 
+for product development purposes. Any information we collect is used for its own 
+internal purposes to improve the content of the web sites, to enhance users' 
+experiences when visiting our site(s), to customize the content and/or layout of 
+our pages, and to provide the services required by an individual user. We do not 
+use personal identifying information for any reason that is not disclosed either 
+in this Policy or at the time the information is requested. We never send e-mail 
+to you unless you request a particular service, or consent to being contacted by 
+e-mail. There are instances where you will have the opportunity to subscribe to 
+an e-mail list that will send information about the site or our advertisers to 
+your e-mail address, but this will be done only with your permission and consent 
+
+</p><p></p>
+<p>
+</p><center><b>III. Disclosure to Third Parties</b></center>
+<p></p>
+<p>We do not share personal identifying information with any third party without 
+your permission. We disclose only in aggregate form our statistical analyses or 
+demographics of users to third parties, such as advertisers or other business 
+partners. In some instances, we operate shared web sites with businesses 
+affiliated with us. Our privacy policy will apply to these web sites, and our 
+affiliates adhere to our privacy policy and will not share personal information 
+with any third party without your permission. PLEASE BE AWARE that when you 
+voluntarily disclose personal information (such as your name, e-mail address) in 
+chat areas or bulletin boards to third parties, that information may be 
+collected by others outside the control of us and may result in unsolicited 
+messages from others. 
+</p><p></p>
+<p>
+</p><center><b>IV. Accuracy of User Information</b></center>
+<p></p>
+<p>In order to ensure the accuracy of personal information provided for 
+registration, you may return to the registration form online in order to change 
+information you have provided at any time. Questions regarding our privacy 
+policy, the accuracy of your personal information or the use of the information 
+collected should be directed via e-mail to Jim Coleman, Web Services 
+Administrator, at <b>JColeman@thesunlink.com</b>, or you can reach us by 
+telephone at (360) 792-9223. You can also write us at: 
+</p><p></p>
+<p>
+</p><center>The SunLink<br>c/o The SUN<br>545 5th St.<br>Bremerton, WA, 
+98337</center>
+<p></p>
+<p>These privacy policies are effective as of April 8, 1999. We reserve the 
+right to change this policy at any time, and will post any changes to this 
+policy as soon as they go into effect. 
+</p><p></p>
+<p>
+</p><center><b>V. Security of Information</b></center>
+<p></p>
+<p>We use our best efforts to ensure the security of personal information 
+submitted by users. When collecting credit card information for online 
+purchases, we offer secured-server transactions that encrypt your information in 
+transit to thwart someone from intercepting it and misusing it. When we collect 
+other information from our users, it is stored in an area where the general 
+public does not have access to it. 
+</p><p></p>
+<p>
+</p><center><b>VI. Opting-out</b></center>
+<p></p>
+<p>At any time while assessing our site(s), any user while online may "opt-out" 
+of further e-mail contact from us (while still allowing access to our site(s)). 
+For further information about opting-out, contact us at the e-mail address, 
+postal address or telephone number stated above. 
+</p><p></p>
+<p>
+</p><center><b>VII. Use of Materials</b></center>
+<p></p>
+<p>The right to download and store or output the materials in our site(s) is 
+granted for the user's personal use only, and materials may not be reproduced in 
+any edited form. Any other reproduction, transmission, performance, display or 
+editing of these materials by any means mechanical or electronic without the 
+express written permission of us is strictly prohibited. Users wishing to obtain 
+permission to reprint or reproduce any materials appearing on these sites may 
+contact us at <b>sunnews@thesunlink.com</b>. To link to the full Terms of Use 
+Agreement pertaining to use of our site(s), please <a href="/bsun/home/text/0,2403,BSUN_19081_24252,00.html">click here</a>.<br></p></font>
+   </td>
+			</tr>
+		</tbody></table>
+	</td>
+	 <!-- END OF CELL FOR CONTENT -->
+	
+	
+<td width="1" class="frameborder" valign="top"><img src="images/spacers/spacer.gif" width="1" height="1"></td>
+	<!-- BEGIN CELL THAT HOLDS RIGHT GUTTER INFO -->
+	
+	<td width="165" valign="top" class="gutterbgcolor">
+		<table width="165" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td>
+			<!-- Vignette V6 Tue Jan 04 18:44:07 2005 -->
+
+   
+			<!--Preview(no) -->
+			<table width="165" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td><img src="/bsun/images/sidebar/search_header.gif" border="0"></td>
+				</tr>
+			</tbody></table>
+
+			<table width="165" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="5" class="guttersearchbg1">&nbsp;</td>
+					<td width="140" class="guttersearchbg2" valign="top" align="center">
+						<table width="130" border="0" cellspacing="0" cellpadding="5">
+							<tbody><tr><td>
+			<table border="0" align="center" cellpadding="0" cellspacing="0">
+				
+				<tbody><tr class="navbartext">
+				
+				<form name="searchForm" action="http://websearch.kitsapsun.com/bsun/web/searchResults" method="get"></form>
+					<td class="navbartext">
+						Search site for:
+						<input type="hidden" value="BSUN" name="site">
+						<input type="hidden" value="site" name="searchType">
+						<input size="10" name="searchString">
+						<input name="GoSearch" type="image" src="/bsun/images/nav/go_search.gif" alt="Go!" border="0">
+						<a href="http://www.kitsapsun.com/bsun/search/article/0,,BSUN_19156_3167917,00.html" class="navbartext">Search help »</a>
+					</td>
+				
+				
+				</tr>
+			</tbody></table></td></tr>
+						</tbody></table>
+					</td>
+					<td width="5" class="guttersearchbg1">&nbsp;</td>
+				</tr>			
+			</tbody></table>
+			
+			<table width="165" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td><img src="/bsun/images/sidebar/extras_footer.gif" border="0"></td>
+				</tr>
+			</tbody></table><p>
+			<table width="165" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td>
+				<table width="165" border="0" cellspacing="0" cellpadding="0" height="2">
+<tbody><tr>
+<td class="marketplace">&nbsp;&nbsp;&nbsp;MARKETPLACE</td>
+</tr>
+</tbody></table>
+   
+         
+<table width="165" border="0" cellspacing="0" cellpadding="0" bgcolor="#E6EFF2">
+<tbody><tr>        
+<td><img src="/bsun/images/sidebar/marketplace3.gif" width="165" height="120" border="0" usemap="#marketplace"></td>
+</tr>
+</tbody></table>
+
+<map name="marketplace">
+  <area shape="rect" coords="4,6,41,50" href="http://web.thesunlink.com/homefinder/index.html" target="_blank" alt="Real Estate for Sale">
+  <area shape="rect" coords="42,6,81,48" href="http://www.westsoundrentalfinder.com/" target="_blank" alt="Apartments">
+  <area shape="rect" coords="80,6,121,49" href="http://www.westsoundjobfinder.com/" target="_blank" alt="Employment">
+  <area shape="rect" coords="121,9,161,50" href="http://www.westsoundautofinder.com/" target="_blank" alt="Autos">
+  <area shape="rect" coords="20,55,148,86" href="http://sunclassified.abracat.com/" target="_blank" alt="Classifieds">
+  <area shape="rect" coords="19,84,149,110" href="http://standard.newspaperads.com/scripps_bremerton/" target="_blank" alt="Search Print Ads">
+</map><!-- MaxSize (1) -->
+				</td>
+			</tr>
+			</tbody></table></p><p>
+		<!-- BSUN,19081,256302,GUTTER_AD_120X600,no,HOME -->
+		<!-- --------------------BEGIN ADVERTISER INDEX--------------- --> 
+		<table width="165" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/bsun/images/sidebar/extras_header.gif" border="0" alt="Site Extras"></td>
+		</tr>
+		</tbody></table>
+		
+		<table width="165" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="5" class="gutteradbg1"><img src="/bsun/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
+			<td width="155" class="gutteradbg2" valign="top">
+				<!-- TABLE FOR ADS AND CATEGORIES -->
+				<table width="155" border="0" cellspacing="0" cellpadding="0" align="center">
+				<!-- Begin Dynamic ads -->
+
+				
+					<tbody><tr>
+						<td vspace="6" align="center">
+						
+			<!-- AdSpace vgncontent=HOME adsize=120x600 pos.1  pagetype=TEXT_DETAIL -->
+			<iframe width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=BSUN&amp;vgncontent=HOME&amp;pagetype=TEXT_DETAIL&amp;adsize=120x600&amp;PagePos=1">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=BSUN&vgncontent=HOME&pagetype=TEXT_DETAIL&adsize=120x600&PagePos=1'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=BSUN&vgncontent=HOME&pagetype=TEXT_DETAIL&adsize=120x600&PagePos=1'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=BSUN&vgncontent=HOME&pagetype=TEXT_DETAIL&adsize=120x600&PagePos=1' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace -->
+		
+						</td>
+					</tr>
+
+				<!-- End Dynamic ads -->
+				</tbody></table>
+				<!-- END TABLE FOR ADS AND CATEGORIES -->
+			</td>
+		    <td width="5" class="gutteradbg1"><img src="/bsun/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
+		</tr>
+		</tbody></table>
+		
+		<table width="165" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/bsun/images/sidebar/extras_footer.gif"></td>
+		</tr>
+		</tbody></table></p><p>
+		<!-- BSUN,19081,257713,GUTTER_FUNNEL_AD_3_120x90,no,HOME -->
+		<!-- --------------------BEGIN ADVERTISER INDEX--------------- --> 
+		<table width="165" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/bsun/images/sidebar/extras_header.gif" border="0" alt="Site Extras"></td>
+		</tr>
+		</tbody></table>
+		
+		<table width="165" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="5" class="gutteradbg1"><img src="/bsun/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
+			<td width="155" class="gutteradbg2" valign="top">
+				<!-- TABLE FOR ADS AND CATEGORIES -->
+				<table width="155" border="0" cellspacing="0" cellpadding="0" align="center">
+				<!-- Begin Dynamic ads -->
+
+				
+			<tbody><tr>
+			<td align="center">
+			<!-- AdSpace iwidth=140 iheight=335 vgncontent=HOME adsize=120x90  pagetype=TEXT_DETAIL -->
+			<iframe width="140" height="335" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/page.multiads=yes&amp;page.uniqueads=yes&amp;Params.styles=bsun_3&amp;site=BSUN&amp;vgncontent=HOME&amp;pagetype=TEXT_DETAIL&amp;adsize=120x90">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&page.multiads=yes&Params.styles=bsun_3&page.uniqueads=yes&site=BSUN&vgncontent=HOME&adsize=120x90&pagetype=TEXT_DETAIL'></script>
+			<noscript>
+				<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=BSUN&vgncontent=HOME&pagetype=TEXT_DETAIL&adsize=120x90&slot=0'>
+				<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=BSUN&vgncontent=HOME&pagetype=TEXT_DETAIL&adsize=120x90&slot=0' border=0></a>
+				<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=BSUN&vgncontent=HOME&pagetype=TEXT_DETAIL&adsize=120x90&slot=1'>
+				<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=BSUN&vgncontent=HOME&pagetype=TEXT_DETAIL&adsize=120x90&slot=1' border=0></a>
+				<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=BSUN&vgncontent=HOME&pagetype=TEXT_DETAIL&adsize=120x90&slot=2'>
+				<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=BSUN&vgncontent=HOME&pagetype=TEXT_DETAIL&adsize=120x90&slot=2' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace --></td>
+			</tr>
+		
+
+				<!-- End Dynamic ads -->
+				</tbody></table>
+				<!-- END TABLE FOR ADS AND CATEGORIES -->
+			</td>
+		    <td width="5" class="gutteradbg1"><img src="/bsun/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
+		</tr>
+		</tbody></table>
+		
+		<table width="165" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/bsun/images/sidebar/extras_footer.gif"></td>
+		</tr>
+		</tbody></table></p><p>
+			<table width="165" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td>
+				<center>
+<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=BSUN&amp;PagePos=1&amp;adtype=TOP_JOBS">
+</script></center>
+<p><!-- MaxSize (1) -->
+				</p></td>
+			</tr>
+			</tbody></table><!-- MaxSize (5) --> </p></td>
+		</tr>
+		</tbody></table>
+	</td>
+	 <!-- END CELL THAT HOLDS RIGHT GUTTER INFO -->
+	<td width="1" class="frameborder" valign="top"><img src="images/spacers/spacer.gif" width="1" height="1"></td>
+</tr>
+</tbody></table>
+<!-- END OF TABLE FOR CONTENT AREA -->
+
+
+	
+	<!-- ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- -->	 
+	<!-- Vignette V6 Wed Jan 12 13:01:12 2005 -->
+
+  
+			
+					<!-- ------------------BEGIN SEPARATOR TABLE------------------------- --> 
+					<table width="750" border="0" cellspacing="0" cellpadding="0" height="">
+						<tbody><tr bgcolor="#000000">
+							<td><img src="/bsun/images/spacers/spacer.gif" width="1" height="1" border="0" alt=""></td>
+						</tr>
+					</tbody></table>
+					<!-- ------------------END SEPARATOR TABLE------------------------- -->
+			<table width="750" border="0" cellspacing="0" cellpadding="10" bgcolor="#004660">
+  <tbody><tr valign="top">
+    <td class="footertext" width="30"> 
+      <p><a href="http://www.scripps.com"><img src="/bsun/images/logos/scripp302.gif" width="27" height="26" hspace="0" vspace="2" border="1"></a></p>
+    </td>
+	  
+      <td class="footertext" width="620">
+      <p><b>2005© The SUN, 545 5th St., PO Box 259, Bremerton, WA 98337, <br>Toll-free 
+1-888-377-3711,</b> 
+<br>For news, stories and content issues: <a class="footertext" href="mailto:lpritchett@thesunlink.com"><b>lpritchett@kitsapsun.com</b></a>, Lloyd Pritchett, Web Editor
+<br>For technical issues and advertising: <a class="footertext" href="mailto:webmaster@thesunlink.com"><b>webmaster@thesunlink.com</b></a>, Jim W. Coleman, Interactive Media<br>
+<a href="/bsun/home/text/0,2403,BSUN_19081_24251,00.html" class="footertext"><b>Privacy Policy</b></a> | 
+<a href="/bsun/home/text/0,2403,BSUN_19081_24252,00.html" class="footertext"><b>User Agreement</b></a></p>
+&nbsp;<p>
+&nbsp;</p><p>
+&nbsp;</p><p>
+</p></td>
+  </tr>
+</tbody></table>
+
+
+<!--- Begin PopUnder Ad Campaign ----->
+<!--- begin ZEDO ----->
+<script language="JavaScript">
+var zflag_nid="162"; var zflag_cid="206/205/1"; var zflag_sid="176"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15";
+</script>
+<script language="JavaScript" src="http://c1.zedo.com/jsc/c1/ff.js"></script>
+<!--- end ZEDO ----->
+<!--- End PopUnder Ad Campaign ----->
+<!--- Begin Photo Popup Window Script. ----->
+<script language="JavaScript" type="text/javascript">
+ function MM_openBrWindow(theURL,winName,features) { window.open(theURL,winName,features); }
+</script>
+<!--- End Photo Popup Window Script. ----->
+
+
+<script language="JavaScript">
+function PopWindow()
+{
+window.open('http://web.kitsapsun.com/ads/localpopup/oneday.html','window1','width=425,height=315,menubar=no,scrollbars=no,toolbar=no,location=no,directories=no,resizable=no, top=0,left=0');
+}
+</script>
+<!--
+<body onLoad="JavaScript:PopWindow()"> 
+// -->
+
+<!-- MaxSize (1) --> <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
+<!-- Layer tag to support Netscape 4.x for HTML included job ads in gutter -->
+<iframe width="1" height="1" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=BSUN&amp;vgncontent=TOP_JOBS&amp;Section=top_jobs&amp;PagePos=2">
+<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=BSUN&vgncontent=TOP_JOBS&Section=top_jobs&PagePos=2">
+</script>
+</iframe>
+
+<!-- APPTAP CALL START -->
+
+<script src="http://apptap.kitsapsun.com/apptap3?site=BSUN&amp;app=FF&amp;path=/bsun/home"></script>
+<script>apptap();</script> <!-- APPTAP CALL END -->
+
+</div>
 
 
 
