@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202190827id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608204307id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
 
 # Pure Mac
 
@@ -11,11 +11,11 @@
 
 **Information Automatically Logged**
 
-We use your IP address to gather broad demographic information pretty much so we can say, "Cool, We got ten hits from Lithuania etc. today". We also log the type of browser you are using just out of perverse curiosity. Pure Mac does not solicit personal information of any type such as email addresses, personal names, addresses etc. If such information were volunteered, Pure Mac would not share such information without express written permission. 
+We use your IP address to gather broad demographic information pretty much so we can say, "Cool, We got ten hits from Lithuania etc. today". We also log the type of browser you are using just out of perverse curiosity. Pure Mac does not solicit personal information of any type such as email addresses, personal names, addresses etc. If such information were volunteered, Pure Mac would not share such information unless you begged us and took us out to dinner. 
 
 **Advertisers**
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While Pure Mac does not use cookies, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We may use an outside ad company to display ads on our site. These ads may contain cookies. While Pure Mac does not use cookies, cookies received with banner ads may be collected by our ad company if we had one, and we do not have access to this information. 
 
 **External Links**
 
@@ -27,4 +27,4 @@ If you have any questions about this privacy statement, the practices of this si
 [pristine@pure-mac.com](mailto:pristine@pure-mac.com)
 
   
-Pure Mac © 1996-2001
+Pure Mac © 1996-2004
