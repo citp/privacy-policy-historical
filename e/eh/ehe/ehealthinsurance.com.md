@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212190746id_/http%3A//www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606032659id_/http%3A//www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - eHealthInsurance
 
 |   | 
 
@@ -99,6 +99,6 @@ Links to Other Websites
 
 Our website contains links to other websites. Please note that when you click on one of these links you are "clicking" to another website. eHealthInsurance is not responsible for the information privacy practices or the content of such websites. We encourage you to read the privacy policies of these linked websites as their information privacy practices may differ from ours.
 
-Last updated: July 1, 2003   
+Last updated: January 12, 2004  
   
 ---|---
