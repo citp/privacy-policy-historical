@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201184758id_/http%3A//www.brainshark.com/m/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216093426id_/http%3A//www.brainshark.com/m/privacy.asp) for the most accurate reproduction.*
 
 # Brainshark: Privacy Policy
 
@@ -28,10 +28,13 @@ The Brainshark site contains content owned by third parties that is available fo
 Usage by individuals that access the site or Services through our Free Trial offer is individually tracked by Brainshark. Brainshark does not sell or release this information without your permission. Please refer to our Terms of Use for additional information. 
 
 **Registered users of the Brainshark application**  
-Brainshark's Customers include companies and individuals that license the site and Services. Usage by individuals that access the site or Services licensed to a Brainshark customer for authoring, viewing or administration of online content is individually tracked by the customer using the administration and security features of the Brainshark application. Registered users are required to enter a username and password. Individual information is made available only to the customer. Brainshark is not responsible for the practices or content of its customers. Brainshark, Inc. uses customer usage information in aggregate form for billing purposes and to quantify site traffic. 
+Brainshark's Customers include companies and individuals that license the site and Services. Usage by individuals that access the site or Services licensed to a Brainshark customer for authoring, viewing or administration of online content is individually tracked by the customer using the administration and security features of the Brainshark application. Registered users are required to enter a username and password, or other individual information through a registration form or “guest book”. Individual information is made available only to the customer. Brainshark is not responsible for the practices or content of its customers. Brainshark, Inc. uses customer usage information in aggregate form for billing purposes and to quantify site traffic. Brainshark may send service and support-related information to individual users. Brainshark respects your time and privacy and limits the frequency of these communications. Users may opt out of these notifications at any time. 
+
+**Co-sponsored Programs**  
+Brainshark may occasionally conduct joint marketing programs such as online seminars that are co-sponsored by third parties. Individual registration information from these events and programs may be shared with the co-sponsors. The co-sponsors’ name or trademark will appear on communications related to the activity.
 
 **Links**   
-This site contains links to other sites. Brainshark, Inc. is not responsible for the privacy practices or content of these or other sites. 
+This site contains links to other sites controlled by third parties. Brainshark, Inc. is not responsible for the privacy practices or content of these or other sites.
 
 **Contact Us**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact: [info@brainshark.com](mailto:info@brainshark.com).
