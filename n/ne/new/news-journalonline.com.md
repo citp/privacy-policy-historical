@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210085717id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403213412id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
 
 # The Daytona Beach News-Journal: Help
 
@@ -12,16 +12,6 @@ The News-Journal's collection of information is limited to those circumstances w
 
 Your Internet Protocol (IP) address is collected automatically when you access News-Journal Online so that we may identify your computer should we ever need to for technical or legal purposes. We do not use this information to track your movements on News-Journal Online, and it is not shared with any other party. 
 
-**News-Journal Online Message Boards**
-
-News-Journal Online Message Boards offer the opportunity for you to discuss issues relevant to our community and our world. Personal information that you disclose in these boards is immediately available to anyone who chooses to access this area of News-Journal Online, so please be responsible with your personal information. For more ideas for using News-Journal Online Message Boards responsibly, please visit our [Terms and Conditions](https://web.archive.org/online/terms.htm) page. 
-
-News-Journal Online Message Boards are the only area on News-Journal Online that uses cookies. Cookies are small files that are deposited on the hard drive of your computer in order to save your selected preferences where they can be read by our site. News-Journal Online Message Boards use cookies to identify which messages are new since your last visit, and, if you desire, to store your username and password so that you do not have to log in each time you visit the News-Journal Online Message Boards. Users with cookies disabled on their computers will lose this convenience, but are still able to use our message boards. 
-
-In order to register for the News-Journal Online Message Boards, you are required to provide us with your user name and email address. This information is used to verify your password and to contact you in the event that there is a problem with your account. The remainder of the information requested is optional. If you do elect to provide the optional information, it is available to anyone who clicks on the profile icon at the top of your posted messages. 
-
-Children under 13 are not permitted to register for the News-Journal Online Message Boards. For more information on the News-Journal's compliance with the Children's Online Privacy Protection Act, please visit our [Terms and Conditions](https://web.archive.org/online/terms.htm) page. 
-
 **Subscription Renewal and Classified Advertisements**
 
 The News-Journal offers you the opportunity to renew your subscription to The Daytona Beach News-Journal or place a classified advertisement online. The News-Journal collects a significant amount of personal information about you in order to fulfill these requests. The News-Journal only uses this information for the express purpose for which you provide it and does not share it internally or externally for any other purpose. 
@@ -31,14 +21,10 @@ The News-Journal offers you the opportunity to renew your subscription to The Da
 The News-Journal has partnered with other companies that provide additional services in association with News-Journal Online. These companies have their own information collection and privacy policies that may or may not be the same as the News-Journal's policies. Whenever you have the opportunity to visit one of our affiliate sites, please review their privacy policy before using their services.   
 Our affiliate sites are:
 
-  1\. [Online Coupons](http://www.clipacoupon.com/?aff=njo) \- This page is managed by [ClipACoupon.com](http://www.clipacoupon.com/). You may access their privacy policy [here](http://www.clipacoupon.com/privacy.asp?aff=njo).  
-  2\. [News-JournalAutos.com](http://www.news-journalautos.com/) \- This site is managed by [CarCast](http://www.carcast.com/). You may contact them [here](http://www.poweradz.com/contactus/hd_mail.html).  
-  2\. [News-JournalJobs.com](http://www.news-journaljobs.com/) \- Also volusiajobfinder.com, seminolejobfinder.com, flaglerjobfinder.com, and daytonajobfinder.com. These sites are managed by [CareerCast](http://www.careercast.com/). You may contact them [here](http://newsjournal.careercast.com/texis/feedback?lookid=newsjournal).  
-  3\. TV listings - These are provided by Zap2It.com. You may access their privacy policy [here](http://www.zap2it.com/index/0,1146,4_B_0_000,00.html). 
-
-**Third Party Ad Networks**
-
-ValueClick, Inc. provides some of the News-Journal Online advertisements. ValueClick's policies regarding information collection and privacy are available at <http://www.valueclick.com/privacy.html>. 
+  1\. [autos.news-journalonline.com](http://autos.news-journalonline.com/) \- This site is managed by [CarCast](http://www.carcast.com/). You may contact them [here](http://www.poweradz.com/contactus/hd_mail.html).  
+  2\. [jobs.news-journalonline.com](http://jobs.news-journalonline.com/) \- This site is managed by [CareerCast](http://www.careercast.com/). You may contact them [here](http://newsjournal.careercast.com/texis/feedback?lookid=newsjournal).  
+  3\. TV listings - These are provided by Zap2It.com. You may access their privacy policy [here](http://www.zap2it.com/index/0,1146,4_B_0_000,00.html).   
+  4\. [Google](http://www.google.com/) \- We use Google.com as our site search engine. You can see their privacy policy [here](http://www.google.com/intl/en/privacy.html). 
 
 **Links**
 
