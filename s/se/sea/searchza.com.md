@@ -1,48 +1,22 @@
-> *The following text is extracted and transformed from the searchza.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210142410id_/http%3A//www.searchza.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchza.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204024451id_/http%3A//www.searchza.com/privacy.html) for the most accurate reproduction.*
 
-# Smart Domains
+# South Africa Search Engine - Search ZA
 
-**Purpose  
-** The purpose of this policy is to show our respect for your privacy It is indicative of our commitment to protect and safeguard customer information and communications from unauthorised intrusions.
+| 
 
- _ **Privacy policy for all visitors**  
-_
+SearchZA Privacy Policy
 
-When visiting our website, our system automatically collects and stores the following information:  
-  > The internet protocol (IP) address  
-  > The pages visited  
-  > The operating system used  
-  > The date, time and length of visit  
-  > The type of browser used, such as Netscape or Internet Explorer  
-This information does not identify visitors personally, and is used to create a website that is more suited to your browsing needs.
+iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
 
- _ **How this information is used**  
-_
+**Registration**  
+iEntry collects personally identifying information only during the registration process. Information is collected in certain portions of iEntry in which users specifically and knowingly provide such information along with content submissions, jayde.com submissions or suggestions. iEntry may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes. Information submitted at the time of registration (including newsletter subscriptions) may be used for marketing and promotional purposes by iEntry and may be shared with companies that have something of value to offer. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. 
 
-This information is used to enable Smartdomains to:  
-  > Provide for our subscribers' preferences  
-  > Improve current services provided by us.
+**Cookies**  
+Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites.
 
- _ **Security used to protect Information**  
-_
+Cookies help make iEntry better, by showing how and when guests use the site. Many content improvements and updates are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. A cookie lets iEntry remember that you've registered, which allows us to speed up your future activities at our sites. The cookie itself does not contain any personally identifying information although it may enable iEntry to relate a user's use of iEntry to personally identifying information that has previously been submitted by the user, if any. 
 
-All information is stored in secure databases, and can only be accessed by entering the correct user name and password. Technology and security feautures have been implemented to safeguard the privacy of all subscribers from unauthorised access or improper use.
+You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to such third parties' policies. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, it is likely that most areas of the site will not function properly if you do so. 
 
- _ **Access to the Information**  
-_
-
-Personally identifiable information will not be accessed, modified, shared, sold or otherwise disclosed except:  
-  > When given permission by the subscriber to do so  
-  > To enforce agreements with customers and visitors  
-  > To protect the rights, property or safety of Smartdomains, its users or others  
-  > When required to do so by law
-
- _ **Changes to the Privacy Policy**  
-_
-
-Smartdomains reserves the right to amend its privacy policy when the need to do so arises. Subscribers will be notified if any substantial changes are made.
-
- _ **Consumer Concerns**  
-_
-
-Any queries relating to this privacy policy can be e-mailed to the Smartdomains Customer Services Department at [support@smartdomains.co.za](mailto:smartdomains@laurus.co.za)
+**Removal from our Database**  
+Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at **[support@searchza.com](mailto:support@searchza.com)**. 
