@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sustainablebusiness.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211113655id_/http%3A//www.sustainablebusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustainablebusiness.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403134533id_/http%3A//www.sustainablebusiness.com/privacy) for the most accurate reproduction.*
 
-# SustainableBusiness.com: Business, Environment, Clean & Green Technologies
+# Sustainable Business, Green Business, Renewable Energy, Organic & Green Investing, Green Capital
 
   
 **Privacy Policy**
