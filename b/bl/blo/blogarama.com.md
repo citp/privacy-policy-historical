@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogarama.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217193311id_/http%3A//www.blogarama.com/index.php%3Fshow%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogarama.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404091520id_/http%3A//www.blogarama.com/index.php%3Fshow%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Blogarama - The Blog Directory - Blogs and Blog Resources!
+# Blogarama - Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -18,7 +18,7 @@ We use BUDS INC and other third-party advertising companies to serve ads when yo
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-|  | 
+|  |  [](http://www.blogcrowd.com/)
 
 SPONSORED LINKS
 
@@ -26,23 +26,7 @@ SPONSORED LINKS
 
 FEATURED FRIEND
 
-[](https://web.archive.org/web/20041217193311id_/http%3A//www.blogarama.com/includes/ad_click.php?id=26)
-
-TRAVEL INFORMATION
-
-Discover a world . . .
-
-[Vacation](http://vacation.blogarama.com/)  
-[Airline Tickets](http://airline-tickets.blogarama.com/)  
-[Cruises](http://cruises.blogarama.com/)  
-[Timeshares](http://timeshares.blogarama.com/)  
-[Car Rentals](http://car-rentals.blogarama.com/)  
-[Honeymoons](http://honeymoons.blogarama.com/)  
-[Tours](http://tours.blogarama.com/)  
-[Airfare](http://airfare.blogarama.com/)  
-[Travel](http://travel.blogarama.com/)  
-[Trips](http://trips.blogarama.com/)  
-
+[](https://web.archive.org/web/20050404091520id_/http%3A//www.blogarama.com/includes/ad_click.php?id=24)
 
 PATRON LINKS
 
@@ -52,5 +36,11 @@ Supporting our cause . . .
 [Sports Betting](http://www.mysportsbook.com/)  
 [Buy Poker Chips](http://www.buy-poker-chips.com/)  
 [Texas Holdem](http://www.realtexasholdempoker.com/)  
+
+
+PEOPLE ONLINE
+
+There's  [](http://easy-web-stats.com/users/index.php) . . .   
+How many people are live on your site right now?  
   
 
