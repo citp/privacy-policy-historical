@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldaily.com privacy policy that was archived on 2001-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010118234300id_/http%3A//www.cybereditions.com/aldaily/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldaily.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201213418id_/http%3A//www.aldaily.com/privacy.html) for the most accurate reproduction.*
 
 # Arts & Letters Daily - ideas, criticism, debate
 
@@ -57,13 +57,12 @@ New material is added to **Arts & Letters Daily** six days a week. We continuall
 
 New links are added at or near the tops of sections, with older ones sliding down the columns accordingly. Most items will continue to be available for three or more days. 
 
-Items removed from the main page are transferred to our [**ARCHIVE**](http://www.cybereditions.com/aldaily/arch.htm). As most links will eventually expire, we urge readers who see an item especially worth keeping to save it while the link is still valid. Items removed from the main page during 1999 have been moved to our [**1999 ARCHIVE**](http://www.cybereditions.com/aldaily/arch99.htm). Items removed from the main page during 1998 have been moved to our [**1998 ARCHIVE**](http://www.cybereditions.com/aldaily/arch98.htm)
+Items removed from the main page are transferred to our [**ARCHIVE**](http://www.aldaily.com/arch.htm). As most links will eventually expire, we urge readers who see an item especially worth keeping to save it while the link is still valid. Items removed from the main page during 1999 have been moved to our [**1999 ARCHIVE**](http://www.aldaily.com/arch99.htm). Items removed from the main page during 1998 have been moved to our [**1998 ARCHIVE**](http://www.aldaily.com/arch98.htm)
 
-A [help](http://www.cybereditions.com/aldaily/help.htm) page for viewing may answer your questions.
+A [help](http://www.aldaily.com/help.htm) page for viewing may answer your questions.
 
-Coding, format, and on-site content copyright © 2000  
+Coding, format, and on-site content copyright © 2001  
 **Arts & Letters Daily**  
-c/o University Business, LLC  
-Michele Tepper, Web Editor  
-22 West 38th Street, 4th Floor  
-New York, NY 10018 
+c/o Academic Partners, LLC  
+135 Madison Ave., 4th Floor  
+New York, NY 10016 
