@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2004-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041031003543id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403185759id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
 
 # CarBuyingTips.com new car buying guide, avoiding dealer scams, used car buying and selling
 
