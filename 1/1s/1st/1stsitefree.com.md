@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stsitefree.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405095952id_/http%3A//www.1stsitefree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stsitefree.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014123357id_/http%3A//www.1stsitefree.com/privacy.htm) for the most accurate reproduction.*
 
 # 1st Site Free - Privacy Policy Statement
 
@@ -8,7 +8,7 @@ As Webmaster of 1stsitefree.com, I recognize the importance of protecting your p
 
 I consider the following to be personal information: your name, personal interests, your e-mail address. 
 
-The [Refer Me](https://web.archive.org/web/20020405095952id_/http%3A//www.1stsitefree.com/recommend-me.htm) page requires you to provide your and your friend's name and E-mail address. Jim Rhodes who is Webmaster of [deadlock Design](http://referme.deadlock.com/) and operates this service for free, also states that they **do not** collect personal information.
+The [Refer Me](https://web.archive.org/web/20021014123357id_/http%3A//www.1stsitefree.com/recommend-me.htm) page requires you to provide your and your friend's name and E-mail address. Jim Rhodes who is Webmaster of [deadlock Design](http://referme.deadlock.com/) and operates this service for free, also states that they **do not** collect personal information.
 
 **What I collect.**   
 I **do collect limited information** about visits to this site, such as your: browser type, operating system, resolution, color depth and search engine data.
