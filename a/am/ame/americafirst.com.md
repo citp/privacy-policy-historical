@@ -1,48 +1,49 @@
-> *The following text is extracted and transformed from the americafirst.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023235101id_/http%3A//americafirst.com/privacy_security/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americafirst.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209003909id_/http%3A//www.americafirst.com/content/privacy.cfm) for the most accurate reproduction.*
 
-# AFCU - Privacy/Security
+# AFCU :: Privacy Policy
 
-**Our Privacy Pledge.** As a member of America First Credit Union, you do not have to worry about the security and confidentiality of your personal information. Just like you, we want all of your personal information kept that way - personal and private. This notice describes the privacy policy and practices followed by America First Credit Union and America First Investment & Insurance Services. 
+**Our Privacy Pledge.** As a member of America First Credit Union, you do not have to worry about the security and confidentiality of you personal information. Just like you, we want all of your personal information kept that way--personal and private. This notice describes the privacy policy and practices followed by America First Credit Union and America First Investment & Insurance Services.
 
-**Member Information We Collect.** The Credit Union collects only relevant information about members in order to establish and maintain your account and services as the law allows or requires us to collect. We may collect personal information about you which is "nonpublic." The nonpublic personal information we collect varies depending on the accounts and services you request and use. We collect information about you from the following sources:
+**1\. Member Information We Collect.** The Credit Union collects only relevant information about members in order to establish and maintain your account and services as the law allows or requires us to collect. We may collect personal information about you which is nonpublic. The nonpublic personal information we collect varies depending on the accounts and services you request and use. We collect information about you from the following sources:
 
-  * Application Information. We retain personal information we receive from you on any application you provide for deposit accounts, EFT service, credit cards, consumer and real estate loans. Application information includes: name, address, social security number, and credit history. 
-  * Your Transactions. Any time you make a transaction on one of your accounts, including ATM or card transactions, loan advances, transactions through home banking, over the phone, or at a branch, we retain the transaction information. This includes: your account number, the date, amount, and location of the transaction. 
-  * Credit Reports. When we evaluate your application for an account or service, we may request a credit report about you from a consumer reporting agency. We retain the personal and credit history information about you, and we use it to evaluate future account service requests. 
-  * Online. We obtain information online when you visit our web site, www.americafirst.com. This includes retaining information you provide us on any online application, Web Access Internet Banking transaction, or information you send to us by e-mail. 
-
-
-
-**Our Confidentiality and Security Safeguards.** We maintain strict policies and security controls to assure that your nonpublic personal information in our computer systems and files is protected.
-
-  * Employee Access. Credit Union employees do have access to your information in order to provide service to you. However, our employees' access is restricted to their need to know such information or as necessary to conduct a transaction or respond to your inquiries. All employees are trained to respect member privacy. No one except our employees has access to the Credit Union computer system and records storage. 
-  * Security Safeguards. The Credit Union has established security controls and procedures to safeguard the information you provide us and the information we collect about you. The application information we accept online and through our home banking service relies on industry standard "Secure Sockets Layer" (SSL) encryption to service your transaction information and communication. Generally, our e-mails are not secure. However, if we ask you to e-mail us information other than your name, address, e-mail address, and phone number, it will be obtained using a secure (SSL encryption) e-mail form. 
+  1. **Application Information.** We retain personal information we receive from you on any application you provide for a deposit account, EFT service, credit cards, consumer and real estate loans. Application information includes: your name, address, Social Security number and credit history.
+  2. **Your Transactions.** Any time you make a transaction on one of your accounts, including ATM or card transactions, loan advances, transaction through home banking, over the phone or at a branch, we retain the transaction information. This includes your account number, the date, amount, and location of the transaction.
+  3. **Credit Reports.** When we evaluate your application for an account or service, we may request a credit report about you from a consumer reporting agency. We retain the personal and credit history information about you, and we may use it to evaluate future account service requests.
+  4. **Online.** We obtain information online when you visit our website, [www.americafirst.com](http://www.americafirst.com/). This includes retaining information you provide us on any online application, home banking transaction, or information you send to us by email.
 
 
 
-**Our Sharing of Member Information.** In order to provide financial services to you, we share certain information about you with our affiliates and third party service providers. However, we limit any information sharing to the extent necessary to service your account. If we share your information, it is with the goal of bringing you quality services, more choices, and greater convenience. Information we may have about former members is generally only shared or disclosed if required to enforce or administer an account or as required by law. 
+**2\. Our Confidentiality and Security Safeguards.** We maintain strict policies and security controls to assure that your nonpublic personal information in our computer systems and files is protected.
 
-Sharing Information with Credit Union Affiliates. Our wholly owned subsidiary, America First Investment & Insurance Services provides financial services, including alternative investment and insurance products. We may share the following information with our affiliate(s) so they can serve you more efficiently: 
-
-  * Member information (name, address, account number).
-  * Account information (type of accounts, account balances, transaction history).
-  * Because we maintain management control over our affiliate(s), you can expect our affiliate(s) to maintain the same privacy standards as the Credit Union. 
+  1. **Employee Access.** Credit Union employees do have access to your information in order to provide service to you. However, our employees’ access is restricted to their need to know such information, or as necessary to conduct a transaction or respond to your inquiries. All employees are trained to respect member privacy. No one except our employees has access to the Credit Union computer system and records storage.
+  2. **Security Safeguards.** The Credit Union has established security controls and procedures to safeguard the information you provide us and the information we collect about you. The application information we accept online and our home banking service relies on industry standard Secure Sockets Layer (SSL) encryption to service your transaction information and communication. Generally, our emails are not secure. However, if we ask you to e-mail us information other than your name, address, email address and phone number, it will be obtained using a secure (SSL encryption) email form.
 
 
 
-Sharing Information with Third Party Service Providers. In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers, including the following: data processing companies, check, ATM, and other payment processing companies, payment networks, loan service providers, insurance companies, collection agencies, credit reporting agencies, and service providers with whom we have joint marketing agreements. These service providers act on our behalf and have agreed in writing to keep the information we provide to them confidential. We share the following categories of information to third party service providers depending on the specific services provided:
+**3\. Our Sharing of Member Information.** In order to provide financial services to you, we share certain information about you with our affiliates and third-party service providers. However, we limit any information sharing to the extent necessary to service your account. If we share your information, it is with the goal of bringing you quality services, more choices, and greater convenience. Information we may have about former members is generally only shared or disclosed if required to enforce or administer an account or as required by law.
 
-  * Member information (name, address, account number).
-  * Account information (type of accounts, account balances, transaction history).
-  * Transaction information (dates, amounts, locations, and type of transaction).
+  1. **Sharing Information with Credit Union Affiliates.** Our wholly owned subsidiary, America First Investment & Insurance Services, provides financial services, including alternative investment and insurance products. We may share the following information with our affiliate so they can serve you more efficiently:
+
+**.** Member information (name, address, account number); and
+
+**.** Account information (type of accounts, account balances, transaction history).
+
+Because we maintain management control over our affiliate(s), you can expect our affiliate(s) maintain the same privacy standards as the Credit Union.
+
+  2. **Sharing Information with Third-Party Service Providers.** In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers, including the following: data processing companies, check, ATM and other payment processing companies, payment networks, loan service providers, insurance companies, collection agencies, credit reporting agencies, and service providers with whom we have joint marketing agreements. These service providers act on our behalf and have agreed in writing to keep the information we provide to them confidential. We share the following categories of information with third-party service providers, depending on the specific services provided:
+
+**.** Member information (name, address, account number);
+
+**.** Account information (type of accounts, account balances, transaction history); and
+
+**.** Transaction information (dates, amounts, locations and type of transactions).
 
 
 
-**The Credit Union does not sell member information, including account numbers with nonaffiliated third party marketers offering their products and services. While we may offer financial products and services of our affiliate(s) or third parties, we control the member information used to make such offers.**
 
-Sharing Information as Legally Required or Permitted. We may share any nonpublic personal information of yours in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with credit bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate. 
+**The Credit Union does not sell member information, including account numbers, with nonaffiliated third-party marketers offering their products and services. While we may offer financial products and services of our affiliate(s) or third parties, we control the member information used to make such offers.**
 
-**Protecting Children's Information Privacy.** The online financial services offered through the Credit Union's web site are not designed for or directed toward children. We do not knowingly solicit or collect data from children, and we do not knowingly market to children online. We recognize that protecting children's identities and online privacy is important and that responsibility rests with us and with parents. 
+**c. Sharing Information as Legally Required or Permitted.** We may share any nonpublic personal information of yours in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with credit bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate.
 
 #### What kind of security is being used for Web Access Home Banking? 
 
