@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024135334id_/http%3A//www.wacotrib.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201185009id_/http%3A//www.wacotrib.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WacoTrib.com: About Us
 
@@ -36,4 +36,4 @@ We may occasionally release information about our visitors when release is appro
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. By visiting any of our sites, you agree that your visit, and any dispute over our privacy practices, is governed by this Privacy Policy and our Visitor Agreement. 
 
 |   |   
-[](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=1;pg=;sz=140x60;tile=1;ord=O9bH3MCo@T0AADT8nK0?) [](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=2;pg=;sz=140x60;tile=2;ord=O9bH3MCo@T0AADT8nK0?) [](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=3;pg=;sz=140x60;tile=3;ord=O9bH3MCo@T0AADT8nK0?) [](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=4;pg=;sz=140x60;tile=4;ord=O9bH3MCo@T0AADT8nK0?) [](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=5;pg=;sz=140x60;tile=5;ord=O9bH3MCo@T0AADT8nK0?)
+[](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=1;pg=;sz=140x60;tile=1;ord=PFrjY8Co@QwAAGGct3I?) [](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=2;pg=;sz=140x60;tile=2;ord=PFrjY8Co@QwAAGGct3I?) [](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=3;pg=;sz=140x60;tile=3;ord=PFrjY8Co@QwAAGGct3I?) [](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=4;pg=;sz=140x60;tile=4;ord=PFrjY8Co@QwAAGGct3I?) [](http://ad.doubleclick.net/jump/cni.wacotrib.text/;sub=index;rr=5;pg=;sz=140x60;tile=5;ord=PFrjY8Co@QwAAGGct3I?)
