@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolweb.org privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209010056id_/http%3A//www.tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolweb.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203041id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Tree of Life Privacy Policy
 
@@ -112,12 +112,6 @@ By default, the treehouse builder's email address will be published on the [cont
 
 Upon request, a treehouse builder's e-mail address is withheld from publication on the ToL web site. If a treehouse builder chooses to have his or her e-mail address withheld from publication, this address will be accessible only to ToL staff, who may contact the treehouse builder for legal or administrative purposes.  
   
-Location | 
-
-By default, the treehouse builder's location (we ask for home town/city, state/province, and country _but do not require a street address_ ) will be published on the [contributor's personal profile page](https://web.archive.org/onlinecontributors/app?service=page/ImageContributorsPage) and in credit lines for ToL treehouse pages. Location information collected here will be used for data management (e.g., site tools for retrieving contributions authored by contributors from a particular location) as well as ToL project development (providing resources specific to contributors in a given locale).
-
-Upon request a treehouse builder's location is withheld from publication on the ToL web site. If a treehouse builder chooses to have his or her location withheld from publication, this location will be accessible only to ToL staff.   
-  
 Treehouse Building Plans | We ask that you enter information that briefly explains your plans for building treehouses. You can include a few sentences about the types of treehouses you will build, the group(s) of organism(s) you may compose treehouses about, and any other relevant information. Information collected here will be used for ToL project development (providing resources specific to contributors' plans) purposes.  
 Self-Categorization | 
 
@@ -138,6 +132,10 @@ ToL treehouse builders who are 18 years of age and older have the option of prov
 Optional Information  Web Page URL | If a treehouse builder has a home page on another web server, they can provide the URL for this page, and this URL is then published on the [contributor's personal profile page](https://web.archive.org/onlinecontributors/app?service=page/ImageContributorsPage).  
 ---|---  
 Institution/School | Treehouse builders have the option to have their affiliation with an institution or school printed in the credit lines of ToL treehouse pages as well as on their [personal profile page](https://web.archive.org/onlinecontributors/app?service=page/ImageContributorsPage).  
+Location | 
+
+By default, the treehouse builder's location (we ask for home town/city, state/province, and country) will be published on the [contributor's personal profile page](https://web.archive.org/onlinecontributors/app?service=page/ImageContributorsPage) and in credit lines for ToL treehouse pages. Location information collected here will be used for data management (e.g., site tools for retrieving contributions authored by contributors from a particular location), project evaluation (e.g., assessing the geographic diversity of project participants) as well as ToL project development (providing resources specific to contributors in a given locale).  
+  
 Biographical Information | If a treehouse builder has a home page on another web server, they can provide the URL for this page, and this URL is then published on the [contributor's personal profile page](https://web.archive.org/onlinecontributors/app?service=page/ImageContributorsPage).  
 Photo | 
 
@@ -160,6 +158,7 @@ By default, the email address of the teacher will be published on the treehouse 
 
 Upon request, a teacher's e-mail address is withheld from publication on the ToL web site. If a teacher chooses to have his or her e-mail address withheld from publication, this address will be accessible only to ToL staff, who may contact the teacher for legal or administrative purposes.  
   
+Location | This information is printed on the treehouse classroom project's profile page (coming soon!) as well as in the credit lines of ToL treehouse pages.  
 Grade level | This information is printed on the treehouse classroom project's profile page (coming soon!) as well as in the credit lines of ToL treehouse pages.  
 School/Project | 
 
@@ -167,12 +166,11 @@ This information is printed on the treehouse classroom project's profile page (c
   
 Classroom treehouse project contributors have the option of providing additional information to be published on the ToL web site:
 
-Optional Information  Location | This information is printed on the treehouse classroom project's profile page (coming soon!) as well as in the credit lines of ToL treehouse pages.  
----|---  
-Web Page URL | 
+Optional Information  Web Page URL | 
 
 If the school or class has a home page on another web server, the teacher can provide the URL for this page, and this URL is then provided on the treehouse classroom project's profile page (coming soon!).  
   
+---|---  
 Co-authors | Teachers can give credit to children and other collaborators who have participated in the building of a treehouse. We recommend that teachers provide only first names for children under 13 years of age.  
 Class Information | Teachers can provide information to introduce their class to ToL visitors. This text is printed on the treehouse classroom project's profile page (coming soon!)  
 Photo | Teachers can submit a photo of their class, which may be displayed on the treehouse classroom project's profile page (coming soon!) as well as in the credit lines of ToL treehouses.  
