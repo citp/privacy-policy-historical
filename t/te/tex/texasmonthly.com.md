@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204195158id_/http%3A//texasmonthly.com/admin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2002-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020123022630id_/http%3A//texasmonthly.com/admin/privacy.php) for the most accurate reproduction.*
 
 # Texas Monthly: Privacy Statement
 
@@ -7,17 +7,17 @@
 TEXAS MONTHLY has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site. This information may be updated or changed without notice.
 
 |  |  |    
-[](http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=126x600;tile=4;ord=1331915606?)  
+[](http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=126x600;tile=2;ord=1515125320?)  
   
-[](https://web.archive.org/shopping/txbride/index.php)  
+[]()  
   
-[](https://web.archive.org/events/ford/part_four/index.htm)  
-  
-[](https://web.archive.org/events/forecast)  
-  
-[](https://web.archive.org/travel/travel_planner/index.php)  
+[](https://web.archive.org/shopping/houston/index.php)  
   
 [](https://web.archive.org/events/newnext)  
+  
+[](https://web.archive.org/events/chevy/three)  
+  
+[](https://web.archive.org/shopping/menslife/index.php)  
   
 |   
 Our Pledge | 
