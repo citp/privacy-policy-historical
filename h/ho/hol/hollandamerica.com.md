@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206060701id_/http%3A//hollandamerica.com/aboutus/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207091150id_/http%3A//www.hollandamerica.com/aboutus/policies/privacy.htm) for the most accurate reproduction.*
 
 # Holland America - Web Site Policy
 
-**Privacy Policy**
+   
+
 
 The following information explains our policy regarding any personal information you may supply to us when visiting our Web site (site). By using this site, you signify your acceptance of our Privacy Policy. 
 
@@ -28,7 +29,7 @@ In addition to the circumstances described above, Holland America may disclose y
 
 **6\. OPTING-OUT OF CERTAIN SERVICES**
 
-If you have signed up for email notification with Holland America Line, you may opt-out of receiving information via email about new products and services, or about offers that may be of interest to you, by sending us an e-mail at [optoutemail@halw.com](mailto:optoutemail@halw.com). Please tell us your name and e-mail address so that we can take the necessary steps. It may take several weeks to remove your name and e-mail address from our distribution system. 
+If you have signed up for email notification with Holland America Line, you may opt-out of receiving information via email about new products and services, or about offers that may be of interest to you, by sending us an e-mail at [optoutemail@hollandamerica.com](mailto:optoutemail@hollandamerica.com). Please tell us your name and e-mail address so that we can take the necessary steps. It may take several weeks to remove your name and e-mail address from our distribution system. 
 
 **7\. MODIFICATION OF TERMS**
 
