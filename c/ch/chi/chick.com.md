@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405043347id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601105804id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,6 @@
 
 • [Return Home](https://web.archive.org/)  
 • [Place Order](https://web.archive.org/store.asp)  
-• [Dealer Ordering](https://web.archive.org/register/)  
 • [Search](https://web.archive.org/search/)  
 • [Report Problem](https://web.archive.org/ProblemReport/)  
 • [Free Catalog](https://web.archive.org/requests/speccat.asp)  
@@ -38,7 +37,7 @@
 • [Discounts](https://web.archive.org/store/discounts.asp)  
 • [Custom Printing](https://web.archive.org/store/faq_custom.asp)  
 • [Battle Cry](https://web.archive.org/bc/)  
-• [Witnessing](https://web.archive.org/reading/tracts/0900/0900_01.asp)  
+• [Witnessing](https://web.archive.org/tracttips/)  
 • [Bible Versions](https://web.archive.org/information/bibleversions/)  
 • [Islam](https://web.archive.org/information/religions/islam/)  
 • [Masonry](https://web.archive.org/information/religions/masonry/)  
