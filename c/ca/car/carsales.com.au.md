@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203024948id_/http%3A//www.carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605041713id_/http%3A//carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
 
-# carsales.com.au privacy policy
+# Privacy Policy : carsales.com.au
 
 carsales.com.au Ltd. is bound by the National Principles under the Privacy Act 1988. A copy of the National Principles are available for your perusal at our premises or you may access a copy from the Office of the Federal Privacy Commissioner. 
 
@@ -61,10 +61,15 @@ All information received from browsers is stored in a secure (see security) form
 
 If you send us an email we will use your personal information to respond to your request. 
 
-**Advertising:**  
-carsales.com.au may send you an SMS message to advertise services that we believe will suit your current requirements that you have advertised to the public. The mobile phone numbers to which we send messages are obtained from publicly available sources, most probably copied from a classified advertisement that you have purchased. We do not purchase or sell lists of mobile phone numbers. 
+**SMS Advertising messages**  
+carsales.com.au may send you an SMS message to advertise our services. How did we obtain your mobile phone number? We send messages to mobile phone numbers that are copied from classified advertisements which were most likely published in newspapers or magazines. The advertising messages that we send are for services directly related to your advertisement. 
 
-carsales.com.au has processes in place that ensure that each unique mobile phone number will only receive one SMS message. We assume that the owner of that phone number has elected to "opt out" from receiving further messages. If we send you an message we will not send another message to your phone unless you give us approval to do so. 
+We do not purchase or sell lists of mobile phone numbers. 
+
+**Opting out from SMS messages**  
+If you have received an SMS message from us, you can opt out by replying to the message. Each SMS message contains instructions about how to opt out. When you reply to our message, we receive your reply as an email and will opt you out from further SMS messages upon receipt. If you opt out from our SMS messages we will not send another message to your mobile number unless you give us approval to do so. 
+
+We believe that our processes comply with the strict requirements of Australian Privacy and Anti Spam legislation. 
 
 **Can I access my personal information that I have previously given to carsales.com.au Limited?**  
 Yes you can. You can request access to all of your personal information held in the secure carsales.com.au Ltd. database. We endeavour to ensure your information is true and correct at all times. Upon request, we can make adjustments and update your details to reflect correct data. 
@@ -84,7 +89,7 @@ Address: | 1/144 Highbury Road, Burwood VICTORIA 3125
 ---|---  
 Phone No: | +61 3 9805 3600 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click](https://web.archive.org/web/20031203024948id_/http%3A//www.carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
+Email: | [Click](https://web.archive.org/web/20040605041713id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
   
 We will try our best to answer any queries as quickly as possible.  
  
