@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211014117id_/http%3A//www.academicinfo.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171630id_/http%3A//www.academicinfo.net/privacy.html) for the most accurate reproduction.*
 
 # Academic Info: Privacy Statement
 
 * * *
 
-[Home](https://web.archive.org/web/20021211014117id_/http%3A//www.academicinfo.net/index.html) / [Keyword Search](https://web.archive.org/web/20021211014117id_/http%3A//www.academicinfo.net/search.html) / [Subject Index](https://web.archive.org/web/20021211014117id_/http%3A//www.academicinfo.net/table.html) / [Reference Desk](https://web.archive.org/web/20021211014117id_/http%3A//www.academicinfo.net/ref.html) / [Student Center](https://web.archive.org/web/20021211014117id_/http%3A//www.academicinfo.net/student.html)
+[Home](https://web.archive.org/web/20030603171630id_/http%3A//www.academicinfo.net/index.html) / [Keyword Search](https://web.archive.org/web/20030603171630id_/http%3A//www.academicinfo.net/search.html) / [Subject Index](https://web.archive.org/web/20030603171630id_/http%3A//www.academicinfo.net/table.html) / [Reference Desk](https://web.archive.org/web/20030603171630id_/http%3A//www.academicinfo.net/ref.html) / [Student Center](https://web.archive.org/web/20030603171630id_/http%3A//www.academicinfo.net/student.html)
 
 ## Academic Info  
 Privacy Statement 
@@ -15,8 +15,8 @@ Academic Info does not collect personal information on our respected visitors. W
 
 **Academic Info is Publicly Supported**  
 Please make a tax-deductible donation (any amount is appreciated) to help keep Academic Info online and free of advertising.  We accept credit cards or checks payable to Academic Info.  Thanks a lot. Currently donations are not tax-deductible.  |  |  Academic Info  
-4739 University Way NE, #1504  
-Seattle, WA 98105  
+19-143rd ST SW  
+Lynnwood, WA 98037  
 ---|---  
   
 * * *
