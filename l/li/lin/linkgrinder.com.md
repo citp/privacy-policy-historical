@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202201939id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610211308id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
 
-# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Management Science Year 2000 Problem Motorcycles Games Employment and Work Issues and Causes Cultures and Groups Information Conventions and Encyclopedia
+# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Recreation Genres Documentation Employment Comics and Animation Graphics Pharmacy Genres Graphics Toys
 
 | 
 
