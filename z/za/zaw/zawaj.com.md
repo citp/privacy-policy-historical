@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zawaj.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405141144id_/http%3A//zawaj.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zawaj.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216094747id_/http%3A//www.zawaj.com/privacy.html) for the most accurate reproduction.*
 
 # ZAWAJ.COM: Polls
 
@@ -29,4 +29,4 @@ If you supply us with your postal address on-line you may receive periodic maili
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line.
 
 [  
-](https://web.archive.org/web/20010405141144id_/http%3A//zawaj.com/index.html)
+](https://web.archive.org/web/20011216094747id_/http%3A//www.zawaj.com/index.html)
