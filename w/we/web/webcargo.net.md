@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003002201id_/http%3A//www.webcargo.net/webcargo/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610043559id_/http%3A//www.webcargo.net/webcargo/privacy.php) for the most accurate reproduction.*
 
 # WEBCARGO | Privacy Policy
 
-_\- Last updated May 25, 2003_  
+Updated: May 25, 2003  
 
 
 Welcome to Webcargo.net operated by Webcargo inc. Webcargo.net consists of web pages at the URLs www.webcargo.net, and pages linked thereto which display the Webcargo branding bar and which include a footer link to the Webcargo.net Terms and Conditions (the "Terms and Conditions") or to this Webcargo privacy policy (the "Privacy Policy"). 
