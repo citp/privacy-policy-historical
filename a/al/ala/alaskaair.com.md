@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218012156id_/http%3A//www2.alaskaair.com/help/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602083840id_/http%3A//www2.alaskaair.com/help/site/privacy.asp) for the most accurate reproduction.*
 
 # Alaska Airlines and Horizon Air Privacy Policy
 
@@ -13,8 +13,7 @@ How Your Personal Information is Stored
 How We Use Your Personal Information  
 Cookies  
 Your Responsibility Regarding the use of our Site  
-Questions Regarding our Privacy Policy  
-
+Questions Regarding our Privacy Policy
 
 **Site Security**
 
@@ -32,15 +31,11 @@ We may from time to time collect other anonymous information regarding the use o
 
 **How Your Personal Information is Stored**
 
-Your personal information is stored in secure operating environments that are not available to the public. Your personal information is only accessible by selected company employees who have access to selected data bases, which are further protected by ID and password requirements. 
+Your personal information is stored in secure operating environments that are not available to the public. Your personal information is only accessible by selected company employees who have access to selected data bases, which are further protected by ID and password requirements.
 
 **How We Use Your Personal Information**
 
-Your personal information is stored in an account that is created by you. We make that account available to you, at your choice, in order to expedite transactions on our site, and provide you services. We may in the future require the creation of a MyAlaskaAir account, including personal information, in order for you to complete a purchase or conduct other transactions on our site. You may view or update information related to your MyAlaskaAir account by accessing the [MyAlaskaAir](http://www2.alaskaair.com/MyAlaskaAir/MyAlaskaAir_TOC.asp) section of the web site. Fields that are required cannot be deleted. For other questions related to updating or changing your account information, please call the alaskaair.com Web Help Center at 
-
-1-877-502-5357
-
-, or send us an [email](http://www2.alaskaair.com/help/contacts/ContactUsForm.asp?mailtoName=Web%20Help%20Center&mailtoEmail=Support@Alaskaair.com).
+Your personal information is stored in an account that is created by you. We make that account available to you, at your choice, in order to expedite transactions on our site, and provide you services. We may in the future require the creation of a MyAlaskaAir account, including personal information, in order for you to complete a purchase or conduct other transactions on our site. You may view or update information related to your MyAlaskaAir account by accessing the [MyAlaskaAir](http://www2.alaskaair.com/MyAlaskaAir/MyAlaskaAir_TOC.asp) section of the web site. Fields that are required cannot be deleted. For other questions related to updating or changing your account information, please call the alaskaair.com Web Help Center at 1-877-502-5357, or send us an [email](http://www2.alaskaair.com/help/contacts/ContactUsForm.asp?mailtoName=Web%20Help%20Center&mailtoEmail=Support@Alaskaair.com).
 
 Your personal information may be used to direct specific offers to you while using our site, which have been determined to be of unique benefit to you. Although the offers directed to you may include perceived value or services, participation in these offers is solely at your discretion. The personal information, including your email address, provided by you while using this site is not shared with anyone outside of Alaska Airlines or Horizon Air.
 
@@ -54,11 +49,7 @@ It is your responsibility to use the Alaska Airlines/Horizon Air site for the pu
 
 **Questions Regarding our Privacy Policy**
 
-If you should have questions about our policy, or need further assistance, please contact the alaskaair.com Web Help Center at 
-
-1-877-502-5357
-
-, or send us an [email](http://www2.alaskaair.com/help/contacts/ContactUsForm.asp?mailtoName=Web%20Help%20Center&mailtoEmail=Support@Alaskaair.com).
+If you should have questions about our policy, or need further assistance, please contact the alaskaair.com Web Help Center at 1-877-502-5357, or send us an [email](http://www2.alaskaair.com/help/contacts/ContactUsForm.asp?mailtoName=Web%20Help%20Center&mailtoEmail=Support@Alaskaair.com).
 
   
 
