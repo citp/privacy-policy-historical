@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015005840id_/http%3A//www.baseballexp.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624141038id_/http%3A//www.baseballexp.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Baseball Express - Privacy Policy - (800) WE-PITCH
 
@@ -9,10 +9,6 @@ Baseball Express takes your privacy seriously. Please read the following to lear
 **What this Privacy Policy Covers**. 
 
 This Privacy Policy covers Baseball Express' treatment of personally identifiable information you enter into our baseballexpress.com site and when you use Baseball Express’ services. Be assured that your registration information is handled confidentially and privately and we will protect this information. 
-
-**We do not give out any information you provide to us.**
-
-The information that you provide to us about yourself or your family is treated as absolutely confidential and will not be sold. The information you provide is used to fill your order or to tell you about neat specials we may have. Your registration information may also used to customize your experience at the baseballexpress.com site. 
 
 **Links.**
 
