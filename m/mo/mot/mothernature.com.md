@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothernature.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203170500id_/http%3A//www.mothernature.com/help_desk/home/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothernature.com privacy policy that was archived on 2001-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010620170043id_/http%3A//www.mothernature.com/help_desk/home/security.asp) for the most accurate reproduction.*
 
 # The MotherNature.com Help Desk - Privacy and Security Policy
 
