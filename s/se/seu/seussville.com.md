@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the seussville.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218094029id_/http%3A//www.randomhouse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seussville.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215110436id_/http%3A//www.randomhouse.com/privacy.html) for the most accurate reproduction.*
 
 # BOOKS@RANDOM PRIVACY POLICY
 
 [](https://web.archive.org/grfx/headers/batrheadermap.map)   
 
 
-This Web site is maintained by Random House, Inc., 1540 Broadway, New York, NY, 10036, (212) 782-9000. We can be reached by e-mail at [business@randomhouse.com.](mailto:business@randomhouse.com)
+This Web site is maintained by Random House, Inc., 1540 Broadway, New York, NY, 10036, (212) 782-9000. We can be reached by e-mail at [webmaster@randomhouse.com](mailto:business@randomhouse.com). **Note** : please put "Privacy Policy" in the subject line of your e-mail. 
 
- **SUMMARY**  
+**SUMMARY**  
 Random House takes your online privacy seriously. You may visit this site anonymously as often as you like without providing any personally identifying information (such as your name, address or e-mail address). We do not collect personally identifying information from you except when you specifically provide it, and we protect the information we receive. If you ask to be added to a newsletter or other subscription list, we will use a cookie to keep track of your requests so that you can easily check and revise your subscriptions. We also use cookies to identify your browser so that we can provide the best link to our site. We never share your e-mail address with third parties except, in rare instances, to protect our site or to enforce compliance with our Terms of Use. Please read below for a further explanation of what information we gather and how we use it.
 
 **  
@@ -19,7 +19,7 @@ At other places in this site, we ask for your feedback, opinion or suggestions, 
 One last area in which we ask for your name is on bulletin boards or forums-places on the site where you can participate in a discussion of a particular subject by posting written comments which are then entirely public. We ask for a name simply so that other people reading a string of comments will be able to determine which comments come from the same person. You may, therefore, provide a nickname or alias, if you prefer, so that your identity is not disclosed. You should be aware that if you do voluntarily disclose personal information (e.g. user name, e-mail address) on the bulletin boards or forums, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. If you choose to participate anonymously, you should remember that you are still legally liable for the material you post, including claims of libel, invasion of privacy and copyright infringement.  
 **  
 REMOVING YOUR E-MAIL ADDRESS**  
-We do not at present collect any personally identifying information from children under age 13. If we do so in the future, we will comply with the requirements of the Children's Online Privacy Protection Act. Our practices may change from time to time, so please check back here periodically to review our latest policy. 
+If you have previously provided us with your e-mail address and later decide that you do not want us to have it, please follow the instructions to unsubscribe contained at the end of your email message from us. We will try to accommodate your request, but cannot promise that it will happen immediately.
 
   
 **COOKIES**  
