@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americancentury.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211061232id_/http%3A//www.americancentury.com/welcome/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americancentury.com privacy policy that was archived on 2004-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040203234824id_/http%3A//www.americancentury.com/welcome/privacy.jsp) for the most accurate reproduction.*
 
 # American Century | Privacy & Security
 
