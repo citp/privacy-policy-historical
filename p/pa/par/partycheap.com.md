@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partycheap.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610172338id_/http%3A//partycheap.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycheap.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205001050id_/http%3A//partycheap.com/privacy.asp) for the most accurate reproduction.*
 
 # PartyCheap - Theme party supplies, ideas, and decorations. - Privacy Policy
 
