@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203230800id_/http%3A//www.ktvb.com/news/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603120544id_/http%3A//www.ktvb.com/news/privacy.html) for the most accurate reproduction.*
 
-# KTVB.COM - News - Idaho News on Demand
+# News | KTVB.COM | Idaho News, Weather & Sports
 
 KTVB/ BELO INTERACTIVE PRIVACY POLICY
 
