@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008200424id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-hunt.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604025714id_/http%3A//www.job-hunt.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # The Privacy Policy for Job-Hunt.Org
 
@@ -10,7 +10,7 @@ At Job-Hunt, we are committed to being a trustworthy partner in your job search.
 
 **Information Collected Actively**
 
-******      Subscriber E-mail Addresses: ** We offer our visitors the opportunity to subscribe ("opt-in") to the [Online Job-Hunting Guide Newsletter](https://web.archive.org/web/20031008200424id_/http%3A//www.job-hunt.org/whynews.shtml), our free e-mail newsletter. Consequently, a visitor wishing to receive the newsletter may give us their e-mail address. We retain a list of these e-mail addresses. They are used only to fulfill subscription requests. We will never knowlingly cause you to receive unsolicited commercial e-mail (a.k.a. "spam") as a result of your subscription.
+******      Subscriber E-mail Addresses: ** We offer our visitors the opportunity to subscribe ("opt-in") to the [Online Job-Hunting Guide Newsletter](https://web.archive.org/web/20040604025714id_/http%3A//www.job-hunt.org/whynews.shtml), our free e-mail newsletter. Consequently, a visitor wishing to receive the newsletter may give us their e-mail address. We retain a list of these e-mail addresses. They are used only to fulfill subscription requests. We will never knowlingly cause you to receive unsolicited commercial e-mail (a.k.a. "spam") as a result of your subscription.
 
 **       ****Link Submissions:** We offer Web site management the opportunity to submit a Web site for inclusion in Job-Hunt.org's listings of career resources. The submission form contains fields for Web site name and URL and the name, e-mail address, and phone number of the person doing the submission. The personal contact information is used to contact the person making the submission to ask questions about the site, if needed. Once a site has been evaluated, the information is deleted.
 
@@ -37,7 +37,7 @@ We may also transfer personally identifiable information to a buyer of all or pa
 **Outside Links:**  
 This privacy statement applies solely to Job-Hunt.Org. This web site contains links to other sites. Please be aware that Job-Hunt.Org is not responsible for the privacy practices of such other sites. _We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information._ Job-Hunt.Org is not responsible for the privacy practices or the content of such Web sites. Before adding those sites to Job-Hunt's categorized lists of links, each site is evaluated to see if they protect the privacy of their visitors and, particularly, their job applicants. We do not knowingly add sites that treat applicant information casually. However, a site _may change_ its policies and practices after being added to Job-Hunt. 
 
-Please read [Protecting Your Privacy](https://web.archive.org/web/20031008200424id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20031008200424id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20031008200424id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
+Please read [Protecting Your Privacy](https://web.archive.org/web/20040604025714id_/http%3A//www.job-hunt.org/privacy.shtml), [ Choosing a Job Site](https://web.archive.org/web/20040604025714id_/http%3A//www.job-hunt.org/choosing.shtml), and our [Disclaimer](https://web.archive.org/web/20040604025714id_/http%3A//www.job-hunt.org/disclaimer.html) regarding these sites.
 
 **Cookies:**  
 A "cookie" is a piece of data stored on the visitor's hard drive containing information about the visitor. In some circumstances, we use "cookies" to test visitor reactions to some particular aspect of Job-Hunt or to track the number of visitors for our advertisers. Job-Hunt's use of a cookie is in no way linked to any personally identifiable information.
