@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamedesire.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204131318id_/http%3A//www.gamedesire.com/dd-10%2Cn-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedesire.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305012825id_/http%3A//www.gamedesire.com/dd-10%2Cn-1.html) for the most accurate reproduction.*
 
-# GameDesire - play free online games. Snooker, pool, mahjong, word games and card games. Rankings, ladders, tournaments...
+# GameDesire - play free online games. Snooker, pool, mahjong, word games and card games. Rankings, ladders, and tournaments...
 
   
 **Privacy policy**
@@ -24,3 +24,7 @@ GameDesire reserves the right to change this policy from time to time, so please
 GameDesire has made a tremendous effort to ensure the security of our users. As such, you can have a high degree of confidence that the personal information you give GameDesire is protected from unauthorized access and use.
 
 Ganymede Technologies cautions you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, telephone numbers, driver license numbers) to strangers online, as this information may be used for illegal or harmful purposes.
+
+We strongly encourage you to protect your information with long and not easy to guess password. Such password should not resemble your name or any other personal information regarding you and preferably should contain capital letters and numbers.
+
+You are able to [edit your personal data](http://www.gamedesire.com/dd-1,n-1.html) after logging in, you can also [remove your account](http://www.gamedesire.com/dd-1,n-7.html) including all personal data. If you think that somebody gained unauthorised access to your data, please [contact us](http://www.gamedesire.com/dd-4,n-8.html). 
