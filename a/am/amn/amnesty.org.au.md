@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org.au privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210044133id_/http%3A//www.amnesty.org.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621130705id_/http%3A//www.amnesty.org.au/privacy.html) for the most accurate reproduction.*
 
 # Amnesty International Australia (Privacy)
 
@@ -15,7 +15,7 @@ When you visit our web site or download information, we may collect and store yo
 We may use the information you provide within Amnesty International Australia for the purposes of processing donations, memberships and Human Rights Defenders, issuing receipts, responding to your comments or questions, providing follow-up information about Amnesty International's work/campaigns, contributor research, reporting and to improve our web site.
 
 **Data Security**  
-How will AIA treat credit card information that is collected from the web site? We will take all reasonable steps to protect your personal information from misuse or loss, and from unauthorised access, modification or disclosure. Whenever financial details are provided we use security encrypted response forms. We protect the security of your information during transmission by using Secure Sockets Layer (SSL) encryption software from Thwate, and your credit card details will not be stored on our server. If you don't wish to make your financial contribution online, please call our Contributor Service Centre and we will forward a form for you to complete.
+How will AIA treat credit card information that is collected from the web site? We will take all reasonable steps to protect your personal information from misuse or loss, and from unauthorised access, modification or disclosure. Whenever financial details are provided we use security encrypted response forms. We protect the security of your information during transmission by using Secure Sockets Layer (SSL) encryption software from Thwate, and your credit card details will not be stored on our server. If you don't wish to make your financial contribution on-line, please call our Contributor Service Centre and we will forward a form for you to complete.
 
 **In what circumstances will personal information be disclosed to third parties?**  
 We will not share, sell, lend or rent any of your personal (or financial) information without your explicit consent. The only exception to this is where Amnesty International Australia may be required to disclose certain information if: 
@@ -28,10 +28,10 @@ We will not share, sell, lend or rent any of your personal (or financial) inform
 
 
 **Will I be given access to my personal information if I request it?**  
-Wherever possible, and if it is lawful, we will let you see the information we hold about you and correct it if it is wrong. Please make your request in writing and mail it to Amnesty International Australia, Private Bag 23, Broadway or email us at cso@amnesty.org.au. We will only respond to a request if your postal address is specified.
+Wherever possible, and if it is lawful, we will let you see the information we hold about you and correct it if it is wrong. Please make your request in writing and mail it to Amnesty International Australia, Private Bag 23, Broadway or e-mail us at cso@amnesty.org.au. We will only respond to a request if your postal address is specified.
 
-**How we handle emails**  
-We will preserve the content of any email that you send us if we believe that we have a legal requirement to do so. Any personal information contained in your email, including your email address, will be used or disclosed in ways set out in this privacy statement. Your email message content may be monitored by our Internet Service Provider or Amnesty International Australia employees for troubleshooting and maintenance purposes or where email abuse is suspected.
+**How we handle e-mails**  
+We will preserve the content of any e-mail that you send us if we believe that we have a legal requirement to do so. Any personal information contained in your e-mail, including your e-mail address, will be used or disclosed in ways set out in this privacy statement. Your e-mail message content may be monitored by our Internet Service Provider or Amnesty International Australia employees for troubleshooting and maintenance purposes or where e-mail abuse is suspected.
 
 **Outside links**  
 This site contains hypertext links to other web sites. Amnesty International Australia is not responsible for the privacy practices or the content of such web sites.
@@ -39,10 +39,17 @@ This site contains hypertext links to other web sites. Amnesty International Aus
 **Contact Information**  
 If you have any questions or concerns about privacy on our web site, please contact us by: 
 
-  * Sending an email to our Contributor Service Centre, cso@amnesty.org.au
+  * Sending an e-mail to our Contributor Service Centre, cso@amnesty.org.au
   * Calling the Contributor Service Centre on 1300 300 920 (cost of local call) during business hours (9-5pm EST)
   * Post to Amnesty International Australia, Private Bag 23, Broadway, NSW 2007
 
 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However, your confidential use of this site cannot be guaranteed by Amnesty International Australia. Amnesty International Australia shall not be responsible for any harm that you or any person may suffer as a result of a breach of confidentiality in respect to your use of this site or any information transmitted to this site.
+
+**Banner Ads**   
+Amnesty International Australia uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable.
+
+It does not contain your name, address, telephone number, or email address. 
+
+For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
