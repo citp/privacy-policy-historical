@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npd.com privacy policy that was archived on 2000-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000526041944id_/http%3A//www.npd.com/corp/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npd.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815194648id_/http%3A//www.npd.com/corp/about/privacy.htm) for the most accurate reproduction.*
 
 # The NPD Group, Inc.
 
