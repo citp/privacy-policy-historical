@@ -1,30 +1,26 @@
-> *The following text is extracted and transformed from the virgin.net privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620144629id_/http%3A//virgin.net/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgin.net privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203220900id_/http%3A//www.virgin.net/terms/privacy.html) for the most accurate reproduction.*
 
 # Virgin Net - Terms & conditions
 
 |  |   
 ---  
-**Virgin Net Privacy Policy**  
-At Virgin Net, we are committed to protecting your privacy. We use the information we collect about you to inform you of features, offers and competitions and to develop our service so that it meets our members' needs.  
-What information do we collect? How do we use it?  
+**Privacy policy for ISP**  
+This is the Privacy Policy that you agreed to during ISP registration. If you have not registered for the ISP, please read the policy as it details the approach Virgin Net takes to the use of personal information from our ISP customers.  
+At Virgin Net we use information collected online to develop and enhance the services we offer to you and to help us build our business. We take privacy issues seriously and are open about the way data is collected and used. This policy outlines the principles we follow.   
+What data is collected and how is it used?   
   
-  * When you register, we need to know your name, address, and telephone number. This allows us to authenticate who you are. 
-  * If you opt for our unlimited support option, we will need to take either credit card or direct debit details so that we may collect payment. 
-  * When you enter a competition or other promotion, we may ask for your name, address and e-mail address so we can administer the contest and notify winners. 
-  * When you fill out a customer survey, we use the information collected to develop our service. 
-  * We also use the information we collect to notify you about important changes to the Web site, new Virgin Net services and special offers we think will be of interest to you. If you would rather not receive this information, a facility is available to unsubscribe at the end of every correspondence.
+  * When you visit Virgin Net we issue a "cookie" or unique code that allows us to identify your computer. The cookie is used to note the different Virgin Net services recently accessed through your computer - this can only be done for Virgin Net and not on any other sites you might visit. Information collected this way is used to develop and manage our online services. 
+  * The "cookie" contains no personally identifying information. However, when you register with the Virgin Net web site or subscribe to the ISP the "cookie" will be combined with the personal information that you have given as part of the registration. 
+  * When you register for Virgin Net, you need to choose a user name and password for authentication purposes. We also require an e-mail address. This may be used to send you information about your account and Virgin Net promotions. You may elect not to receive such promotions. 
+  * We may occasionally ask our market research partners to contact you by telephone as part of a survey of our services. You will able to choose at the time whether or not you want to take part in that survey. 
+  * Should you choose our ISP service, we require your name, address, and telephone number for authentication purposes and to help prevent network abuse. The software disk supplied when you subscribe contains a unique code that helps us track which marketing campaigns work best. 
+  * Advertisers and advertising agencies that serve adverts onto Virgin Net may also attach their own cookies to your computer. If you want to find out about how these companies use these cookies, please refer to their own privacy policies found on their web sites. 
 
   
-How does Virgin Net protect customer information?  
-As required by the UK Data Protection Act 1984, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.  
-What about "cookies"?   
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to track site usage so that we can develop our website to member's needs and ensure that our high quality service is maintained.  
-Will Virgin Net disclose the information it collects to outside parties?   
-Virgin Net does not sell, trade or rent your personal information to others. Virgin Net may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.   
-In Summary  
-We are committed to protecting your privacy. We use the information we collect on the site to enhance your overall Virgin Net experience. We do not sell, trade or rent your personal information to others. If you do not want to receive any announcements or special offers from us, please unsubscribe from our correspondence.   
-Your Consent  
-By registering with Virgin Net and using our website, you consent to the collection and use of this information by Virgin Net. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.   
+Does Virgin Net disclose information it collects to Third Parties?  
+Only in very limited circumstances. Virgin Net does not sell, trade or rent your personal information to others. Virgin Net provides aggregate statistics about our customers, sales, traffic and related information to third-parties but these statistics include no personally identifying information. If you shop through one of the Virgin Net shopping services or the auction service, we collect personal information including payment details and pass them on to the relevant retail partner. If you chose our ISP payment and other personal information will necessarily be shared with our service providers.   
+How does Virgin Net protect personal privacy?  
+Virgin Net uses up to date industry procedures to keep personal data as safe and secure as possible and protect against loss, unauthorised disclosure or access. Please remember that you are responsible for protecting your password/user name and must not share it or allow its disclosure it to anyone.   
 Tell Us What You Think   
-Virgin Net welcomes your questions and comments about privacy. Please send e-mail to [feedback@virgin.net](mailto:feedback@virgin.net)  
+Virgin Net welcomes your questions and comments about privacy. Please send e-mail to [virgincontact@london.virgin.net](mailto:feedback@virgin.net?subject=Privacy%20Policy). Our service team are available Monday-Friday 9am-5pm  
 | 
