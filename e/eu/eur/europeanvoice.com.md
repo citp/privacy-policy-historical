@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609184359id_/http%3A//www.europeanvoice.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204194359id_/http%3A//www.europeanvoice.com/privacy.asp) for the most accurate reproduction.*
 
 # EU news: An Independent View from European Voice
 
