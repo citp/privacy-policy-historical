@@ -1,0 +1,680 @@
+<!--The following is the downloaded HTML source of the insightbb.com privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207130715id_/http%3A//www.insightbb.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><!-- #BeginTemplate "/Templates/bb-wnhome.dwt" --><head>
+<!-- #BeginEditable "doctitle" --> <title>Insightbb.com - Privacy Policy</title>
+<!-- #EndEditable --> <meta name="description" content="Insightbb.com Service featuring 60 MB of personal web space and chat.">
+<meta name="keywords" content="Insightbb, Insight, Insightbb.com Service, Insight Service, ISP, Internet Service Provider, Internet, WWW, access, content, web, chat, personal web space, web page, national">
+<link rel="stylesheet" type="text/css" href="../legalstyle.css">
+<!-- BEGIN BBB Code -->
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function Certify() {
+  popupWin = window.open('http://www.bbbonline.org/cnfm.cfm?company=06101999032344 ', 'Participant', 'location,scrollbars,width=450,height=300')
+  window.name = 'opener';
+}
+// -->
+</script>
+<!-- END BBB Code -->
+<!-- BEGIN: Check for Cookie -->
+<script language="JavaScript" type="text/javascript">
+<!--
+// "Internal" function to return the decoded value of a cookie
+function getCookieVal(offset) {
+  var endstr = document.cookie.indexOf (";", offset);
+  if (endstr == -1)
+    endstr = document.cookie.length;
+  return unescape(document.cookie.substring(offset, endstr));
+}
+
+//  Function to return the value of the cookie specified by "name".
+//  name - String object containing the cookie name.
+//  returns - String object containing the cookie value, or null if
+//  the cookie does not exist.
+
+function GetCookie(name) {
+  var arg = name + "=";
+  var alen = arg.length;
+  var clen = document.cookie.length;
+  var i = 0;
+  while (i < clen) {
+    var j = i + alen;
+    if (document.cookie.substring(i, j) == arg)
+      return getCookieVal (j);
+    i = document.cookie.indexOf(" ", i) + 1;
+    if (i == 0) break; 
+  }
+  return null;
+}
+
+function checkCookie(name) {
+	if (GetCookie(name) != "wnjoin")
+CookieNag = window.open("/remotes/wnpopup3rdqtr.html","CookieNagWarning","width=240,height=390,directories=0,toolbar=0,resizable=0, menubar=0, scrollbars=0, location=0, status=0");
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<!-- END: check for Cookie -->
+<script language="JavaScript" type="text/javascript">
+<!--
+// DAILY POLL cookie functions
+//  Function to correct for 2.x Mac date bug.
+//  IMPORTANT:  This function should only be
+//  called *once* for any given date object!
+function FixCookieDate (date) {
+  var base = new Date(0);
+  var skew = base.getTime(); // dawn of (Unix) time - should be 0
+  if (skew > 0)  // Except on the Mac - ahead of its time
+    date.setTime (date.getTime() - skew);
+}
+
+// Set a cookie
+function SetCookie (name,value,expires,path,domain,secure) {
+  document.cookie = name + "=" + escape (value) +
+    ((expires) ? "; expires=" + expires.toGMTString() : "") +
+    ((path) ? "; path=" + path : "") +
+    ((domain) ? "; domain=" + domain : "") +
+    ((secure) ? "; secure" : "");
+}
+
+// Check to see if user accepts cookies warn if no
+// (also checks to see if poll is current)
+function PollCheckCookie ( pdate ) {
+	var expdate = new Date ();
+	FixCookieDate (expdate); // Correct for Mac date bug - call only once for given Date object!
+
+	// get some of the date objects
+        var yr = expdate.getYear();
+        var mon = expdate.getMonth();
+        var day = expdate.getDate();
+
+	// set other parts to "end-of-day"
+        hr=23;
+        min=59;
+        sec=59;
+
+	// check to see if the poll is current
+	var curr_date=0;
+        curr_date += (mon+1)*10000;
+        curr_date += day*100;
+        curr_date += yr%100;
+
+        var int_pdate=parseInt(pdate,10);
+        if(int_pdate != curr_date) {
+                alert("Your poll isn't current so the page will be refreshed...please vote again after the refresh.");
+                window.location.reload(true);
+                return false;
+        }
+
+        // set up the expiration date of the real cookie
+        var expdate2 = new Date (yr,mon,day,hr,min,sec);
+
+	expdate.setTime (expdate.getTime() + (60 * 1000)); // 1 minute from now
+	SetCookie('WN_test_poll','1',expdate,'/','.insightbb.com');
+
+	// After you've set it, try to read it
+	if (GetCookie('WN_test_poll') != "1") {
+		alert("Sorry!  You've chosen not to accept cookies and therefore we can't register your vote.");
+		return false;
+	}
+	else {
+                SetCookie('POLL','TAKEN',expdate2,'/','.insightbb.com');
+        }
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" marginwidth="0">
+
+<!-- LOGO -->
+
+<table width="762" border="0" cellspacing="0" cellpadding="0" align="center">
+
+<tbody><tr>
+<td height="10"></td>
+</tr>
+
+<tr>
+<td align="left">
+<img src="../images/logo_insightbb.gif" width="172" height="54" alt="Insightbb.com" border="0">
+</td>
+
+<!-- begin date -->
+
+<td valign="bottom">
+<div align="right">
+<span class="textGrey">
+<script language="Javascript">
+<!--
+var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+var monthNames = new Array( "January","February","March","April","May","June","July","August","September","October","November","December");
+var now = new Date();
+var year = now.getYear();
+if(year < 1000) { year += 1900; }
+document.write(dayNames[now.getDay()] + "&nbsp;" + monthNames[now.getMonth()] + " " + now.getDate() + ", " + year);
+// -->
+</script>Friday&nbsp;January 31, 2020
+</span>
+</div>
+</td>
+
+<!-- end date -->
+
+</tr>
+
+<tr>
+<td height="5"></td>
+</tr>
+
+</tbody></table>
+
+<!-- /LOGO -->
+<!-- NAVIGATION -->
+<!-- #Begin_Global_Navigation_Bar -->
+
+<table width="762" border="0" cellspacing="0" cellpadding="0" align="center">
+
+<tbody><tr valign="bottom" bgcolor="#FFFFFF">
+<td width="762" valign="bottom" rowspan="4" align="left">
+<a href="http://www.insightbb.com/"><img src="../global-images/gnav_home.gif" width="50" height="21" hspace="0" vspace="0" border="0" align="left" alt="Home"></a>
+<a href="http://home.insightbb.com/"><img src="../global-images/gnav_pwp.gif" width="131" height="21" hspace="0" vspace="0" border="0" align="left" alt="Personal Web pages"></a>
+<a href="http://chat.insightbb.com/"><img src="../global-images/gnav_chat.gif" width="154" height="21" hspace="0" vspace="0" border="0" align="left" alt="Chat &amp; Message Boards"></a>
+<a href="https://memberservices.insightbb.com/"><img src="../global-images/gnav_memserv.gif" width="114" height="21" hspace="0" vspace="0" border="0" align="left" alt="Member Services"></a>
+<a href="http://help.insightbb.com/"><img src="../global-images/gnav_help_selected_line.gif" width="41" height="21" hspace="0" vspace="0" border="0" align="left" alt="Help"></a>
+</td>
+<td align="left"><img src="../global-images/pixel_trans.gif" width="1" height="14" hspace="0" vspace="0"></td>
+</tr>
+
+<tr>
+<td colspan="2" valign="bottom">
+
+	<table width="272" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr bgcolor="#000000"><td><img src="../global-images/pixel_trans.gif" width="272" height="1" hspace="0" vspace="0"></td></tr>
+	<tr bgcolor="#6097CF"><td><img src="../global-images/pixel_trans.gif" width="272" height="5" hspace="0" vspace="0"></td></tr>
+	<tr bgcolor="#000000"><td><img src="../global-images/pixel_trans.gif" width="272" height="1" hspace="0" vspace="0"></td></tr>
+	</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+<!-- #End_Gobal_Navigation_Bar -->
+<!-- /NAVIGATION -->
+
+<!-- CONTENT -->
+
+<table cellspacing="0" cellpadding="0" border="0" width="762" align="center">
+
+<tbody><tr>
+<td height="10"></td>
+</tr>
+
+<tr>
+<td class="textGrey">&lt;&nbsp;&nbsp;<a href="http://www.insightbb.com">Home</a>&nbsp;&nbsp;&lt;&nbsp;&nbsp;Privacy Policy</td>
+</tr>
+
+<tr>
+<td height="10"></td>
+</tr>
+
+<!-- start big grey page title -->
+
+<tr>
+<td class="subjecttitletextGrey" align="left">Insightbb.com Privacy Policies.
+<br>
+<span class="finePrint">Updated July 2002</span>
+</td>
+</tr>
+
+<!-- end big grey page title -->
+
+<tr>
+<td height="5"></td>
+</tr>
+
+<tr>
+<td><div class="dottedLine"></div></td>
+</tr>
+
+<tr>
+<td height="15"></td>
+</tr>
+
+<tr>
+<td class="textBigGrey"><a href="#broadband_privacy">"Insightbb.com High Speed Broadband Internet Service Privacy Policy"</a> (Click here to read the privacy provisions that apply if you use the Insightbb.com High Speed Broadband Internet Service.)</td>
+</tr>
+
+<tr>
+<td height="10"></td>
+</tr>
+
+<tr>
+<td class="textBigGrey"><a href="#website_privacy">"Insightbb.com Website Privacy Policy"</a> (Click here to read the privacy provisions that apply to all persons that access the Insightbb.com Website.)</td>
+</tr>
+
+<tr>
+<td height="5"></td>
+</tr>
+
+<tr>
+<td><div class="dottedLine"></div></td>
+</tr>
+
+<tr>
+<td height="10"><a name="broadband_privacy">&nbsp;</a></td>
+</tr>
+
+<tr>
+<td class="subjecttitletextGrey">Insightbb.com High Speed Broadband Internet Service Privacy Policy</td>
+</tr>
+
+<tr>
+<td height="20"></td>
+</tr>
+
+<tr>
+<td class="textBigGrey">Insight ("we" or "us") has put in place the following privacy policy to inform its Insightbb.com High Speed Broadband Internet Service customers ("you" or "your") of our practices regarding personally identifiable information that may be collected, used and disclosed while providing our Insightbb.com High Speed Broadband Internet Service ("Insightbb Internet Service").  If you have any questions regarding this policy, please contact us at:
+<blockquote>
+<span class="textBlack">
+Insight Midwest, L.P.
+</span>
+<br>
+810 7th Avenue; 41st Floor
+<br>
+New York, New York 10019
+<br>
+Email: <a href="mailto:privacy@insight-com.com">privacy@insight-com.com</a>
+</blockquote>
+</td>
+</tr>
+
+<tr>
+<td height="10"></td>
+</tr>
+
+<tr>
+<td class="textBigGrey">Please be advised that your use of other services provided by Insight, for example, use of Insight websites or other cable services, may subject you to additional privacy provisions.  You should also be aware that our Insightbb Internet Service may allow you to view third party content or interact with third parties that are independent of Insight.  By using these third party services, you may enable these third parties to obtain your personally identifiable information.  You must review the privacy policies, if any, provided by these third parties.  The practices described in this privacy policy do not apply to such third parties, and Insight is not responsible or liable if these third parties fail to follow their posted policies.</td>
+</tr>
+
+<tr>
+<td height="25"></td>
+</tr>
+
+<tr>
+<td class="copyGrey">
+<span class="sectionTitle">Privacy and Personally Identifiable Information</span>
+<br>
+<br>
+Online privacy concerns focus primarily on the protection of "personally identifiable information." As the term suggests, "personally identifiable information" is information that, when associated with an individual, identifies that individual. The types of information that may constitute personally identifiable information include:
+<br>
+<br>
+<b>Registration and account information,</b> including your name, home, e-mail and work address, screen names, telephone numbers, social security number, drivers license number, billing, service, payment and credit records, credit card or bank account information, customer correspondence, complaint and service history, and records of violations or alleged violations of the terms, conditions and policies that govern your use of the Insightbb Internet Service;
+<br>
+<br>
+<b>Account usage information,</b> including the services you subscribe to, service preferences and settings you indicate through your voluntary interaction with the system, certain transactions you make through the Insightbb Internet Service, how often you access and how long you use the Insightbb Internet Service, and the number and name of additional e-mail addresses or accounts set up through the Insightbb Internet Service; 
+<br>
+<br>
+<b>Technical information,</b> including the types and number of devices you use to connect directly or indirectly to the system (e.g., converters, cable modems, or other equipment), the location and configuration of these devices in your residence, the delivery and routing of our service to you, and maintenance and repair records for the devices you use for the Insightbb Internet Service; and 
+<br>
+<br>
+<b>Other information,</b> including research records containing information obtained through voluntary customer interviews or surveys, information provided to Insight from receipt of cable or other services, publicly available information, home ownership or rental information so we can obtain any permission required prior to installing or servicing our equipment, or other information we need to render our Insightbb Internet Service to you.
+<br>
+<br>
+It is common practice and often a necessity for companies, government, or other organizations to collect and use personally identifiable information in order to conduct business and offer services. For example, consumers signing up for an Internet access service are usually asked to provide name, address, telephone number, credit card and other information that is necessary when the consumer orders and uses the service or related products.
+<br>
+<br>
+<span class="sectionTitle">Collection and Use of Personally Identifiable Information</span> 
+<br>
+<br>
+Insight will collect personally identifiable information about you or authorized users of your Insightbb Internet Service account when: (a) you voluntarily provide information to us; (b) it is necessary to provide our services to you, including to operate efficiently; or (c) to prevent unauthorized reception of our services.
+<br>
+<br>
+We collect and use personally identifiable information for billing and customer service purposes, including to provide and enhance our service to you; anticipate, identify and resolve problems with your service; communicate with you about service issues, billing and collections, enhanced features and new product or service offerings; protect the security of our equipment and services; ensure compliance with applicable laws and the terms, conditions and policies governing the Insightbb Internet Service; and to maintain our tax and accounting records.
+<br>
+<br>
+This means that Insight may use your personally identifiable information, in conjunction with information available from other sources, to market new services or products to you that we think will be of interest to you. If you do not want to receive Insightbb Internet Service promotional or marketing information calls, e-mail, or direct marketing other than bill stuffers, please contact us at <a href="mailto:privacy@insight-com.com">privacy@insight-com.com</a>.
+<br>
+<br>
+In order to protect the security of the Insightbb Internet Service network and our services, we may operate certain network protection features to scan proper customer use of the Insightbb Internet Service. We will not collect additional personally identifiable information while utilizing such network protection features.
+<br>
+<br>
+We may also combine personally identifiable information we have obtained in accordance with these policies with other publicly available information (such as census and household information) or information obtained from our affiliated entities or other third parties. We may use this information to create an enhanced customer database, to research and/or update our service features, or we may segment personally identifiable information to create separate customer lists or aggregate information lists. Aggregate information lists that we may collect or create do not identify individual customers.
+<br>
+<br>
+When you access Insight Web sites, such as Insightbb.com or Insight-com.com, Insight, its affiliates and advertisers may use various kinds of software devices to collect and use information to allow participation in certain Web site activities. In addition, Insight collects information about Internet use, separate from contests or other individual site activities, in an aggregate form for review of service offerings in order to provide the most desired services to customers. This means that we may record certain "hits" to sites or links visited; however, we do not collect personally identifiable information with this aggregate data.
+<br>
+<br>
+Insight, its partners, affiliates and advertisers may also use cookies, and/or small bits of code called "one pixel gifs" or "clear gifs" to make cookies more effective. A cookie is a small data file that contains a unique identification number that a web site places on your hard drive. Cookies simplify and improve Web navigation and personalize your Web experience by allowing a Web site server that hosts a site to recognize your browser when you visit certain web pages. Cookies also allow you to use shopping carts, check your billing history, set preferences, and participate in contests or save passwords. Cookies do not allow sites to access personal information that you have not already voluntarily provided. You can also refuse to use cookies by turning them off in your browser. Please contact your software manufacturer for questions on how to disable your cookies. Also, please review Insight's Web site privacy policies to fully inform yourself of additional Insight Web site privacy practices. See Insightbb.com and Insight-com.com.
+<br>
+<br>
+<span class="sectionTitle">Disclosure of Personally Identifiable Information</span> 
+<br>
+<br>
+We disclose personally identifiable information about you to others if you provide written or electronic consent in advance or it is permitted by federal law. Specifically, federal law allows us to disclose personally identifiable information to third parties when (a) it is necessary to render, or conduct a legitimate business activity related to, our services provided to you; or (b) when disclosure is required by court order or other legal process.
+<br>
+<br>
+Parties that may have authorized access to your personally identifiable information include our employees, billing and collection services; credit reporting agencies; installation, repair and customer assistance subcontractors or agents; sales representatives; attorneys, consultants and accountants; software vendors; service suppliers; auditors of service providers; marketers of Insightbb Internet Service products and services; Insight subsidiaries and operators; strategic partners offering or providing products or services jointly or on behalf of Insight; consumer and market research entities; merchants or other third parties from whom you make purchases or other requests; a purchasing entity if we sell or transfer ownership; and authorized representatives of government. 
+<br>
+<br>
+The frequency of disclosures to these parties varies according to business or legal needs. For example, information for billing purposes is generally provided on a monthly basis. Information for other purposes may be provided on a daily basis. 
+<br>
+<br>
+Disclosures necessary to render or conduct a legitimate business activity include, but are not limited to, disclosures to connect and utilize your Insightbb Internet Service, fulfill requested transactions, personalize your online experience, properly service and bill your account, to help research, develop and offer new and enhanced services provided by Insight, or disclosures pursuant to a transfer in ownership of all or a part of the Insightbb Internet Service.
+<br>
+<br>
+Consistent with the requirements found in the Cable Communications Policy Act of 1984 ("Cable Act"), the Electronic Communications Privacy Act ("ECPA"), the Digital Millennium Copyright ("DMCA") and other federal laws, we may disclose personally identifiable information to representatives of government or other authorized persons. We will disclose such information pursuant to a warrant, court order, administrative subpoena, other legal process or voluntarily if we reasonably believe that an emergency involving immediate danger of death or serious injury to any person justifies disclosure of the information.
+<br>
+<br>
+A private party may also use a subpoena under the DMCA to require our disclosure of a customer's personally identifiable information when the party believes the customer has infringed on the copyright of such party. Upon receipt of the subpoena, we are required to identify the alleged infringer, without any notice to such subscriber. 
+<br>
+<br>
+The ECPA also authorizes, and other laws may require, the disclosure of customer content or other communications made via our Insightbb Internet Service if we become aware of evidence of child pornography, we inadvertently obtain content or communications and it appears to pertain to the commission of a crime, or disclosure is to law enforcement if we believe there is an emergency involving death or serious injury that requires disclosure. Disclosure of content and communications (i.e., e-mail content) is also permitted to an addressee or intended recipient; when it is necessarily incident to providing our Insightbb Internet Service or to protect our rights or property; or to others with your consent or the consent of the addressee or intended recipient of such communications.
+<br>
+<br>
+If federal law requires, we will provide you with notice of any disclosures identified above.
+<br>
+<br>
+<span class="sectionTitle">Security</span>
+<br>
+<br>
+Insight, its affiliates and service partners have implemented security features, such as routers, firewalls and encryption technology, and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access. We will continue to enhance our security procedures as new technology becomes available.
+<br>
+<br>
+Despite these measures, we do not guarantee the security of information stored in our databases or that unauthorized parties will not intercept information you send or receive over the Internet. As a shared resource, the Internet subjects our services and you to the risk of unauthorized access to files and data, even when security measures are implemented. These risks are not unique to our service, but exist whether you access the Internet through other providers or technologies. If you use the Insightbb Internet Service or the Internet to send, receive or post personal or confidential information, you do so at your own risk. 
+<br>
+<br>
+<span class="sectionTitle">Improper Conduct</span>
+<br>
+<br>
+Insight may also use personally identifiable information to investigate and help prevent potentially unlawful activity or activity that threatens our network or otherwise violates the Insightbb Internet Service Agreement.
+<br>
+<br>
+<span class="sectionTitle">Account Information</span>
+<br>
+<br>
+Insight honors requests to review personally identifiable information about you maintained in reasonably retrievable form, and we will correct any inaccurate information. Customers may also verify that appropriate corrections have been made. If you wish to view such information, please notify us in writing at <a href="mailto:privacy@insight-com.com">privacy@insight-com.com</a>. We will then contact you to arrange a mutually convenient time for your review during our regular business hours.
+<br>
+<br>
+<span class="sectionTitle">Length of Personally Identifiable Information Retention</span>
+<br>
+<br>
+We retain personally identifiable information only as long as it is necessary for the purpose for which it was collected, to comply with laws governing our business, including tax and accounting laws, or to satisfy pending requests or orders for access by subscribers, the government or pursuant to court order. For example, to comply with tax or other accounting laws, this means we may retain personally identifiable information for seven years or longer. When information is no longer necessary for these purposes, we destroy it.
+<br>
+<br>
+<span class="sectionTitle">Changes in Privacy Practices</span>
+<br>
+<br>
+Insight will review our privacy practices as we deem appropriate and/or when we update or change our Insightbb Internet Service. We will inform you of any changes that we make to this policy by posting changes in a revised privacy policy that will be made available to you through our Insightbb Internet Service, e-mail or postal mail. Use of the Insightbb Internet Service following revisions to this privacy policy constitutes your acceptance of the revised privacy provisions.
+<br>
+<br>
+<span class="sectionTitle">Your Rights Under Federal Law</span>
+<br>
+<br>
+If you believe that we have violated the Cable Act's limitations on the collection, disclosure and retention of personally identifiable information, you may have the right to bring an action for damages in Federal District Court. In the Insightbb Internet Service Agreement, you have agreed that, to the extent permitted by law, certain claims you may have against us, including damage amounts, will be limited. 
+<br>
+<br>
+<span class="sectionTitle">Privacy Protection for Children</span>
+<br>
+<br>
+Insight joins the industry in recognizing that children, including young teens, may not be able to make informed choices about personal information requested in online environments. 
+<br>
+<br>
+Insight does not collect personally identifiable information from children under thirteen years of age to connect and provide the Insightbb Internet Service. If, as a part of future service offerings, we decide to request personally identifiable information from children under thirteen, we will require verifiable parental consent before we collect this information, except in circumstances authorized by law and by the Children's Online Privacy Protection Act. 
+<br>
+<br>
+Further, Insight encourages parents and guardians to take an active role to protect the privacy and security of their children. Insight supports the development of technologies that help parents and guardians control the collection and use of personal information from children who use online services in their households. 
+</td>
+</tr>
+
+<tr>
+<td height="5"></td>
+</tr>
+
+<tr>
+<td><div class="dottedLine"></div></td>
+</tr>
+
+<tr>
+<td height="15"><a name="website_privacy">&nbsp;</a></td>
+</tr>
+
+<tr>
+<td class="subjecttitletextGrey">Insightbb.com Website Privacy Policy</td>
+</tr>
+
+<tr>
+<td height="20"></td>
+</tr>
+
+<tr>
+<td class="copyGrey">
+<span class="stepNumbers">1.</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#one">Website Participation</a>
+<br>
+<span class="stepNumbers">2.</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#two">Collection of Personal Information</a>
+<br>
+<span class="stepNumbers">3.</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#three">Disclosure to Third Parties</a>
+<br>
+<span class="stepNumbers">4.</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#four">Cookies and Tracking Devices</a>
+<br>
+<span class="stepNumbers">5.</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#five">How to Add, Delete or Change Information</a>
+<br>
+<span class="stepNumbers">6.</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#six">Our Security Procedures</a>
+<br>
+<span class="stepNumbers">7.</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#seven">Changes in our Privacy Policy</a>
+<br>
+<span class="stepNumbers">8.</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#eight">Children's Privacy Policy</a>
+</td>
+</tr>
+
+<tr>
+<td height="25"><a name="one">&nbsp;</a></td>
+</tr>
+
+<tr>
+<td class="textBigGrey">
+We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors. The following privacy provisions apply solely to our Insightbb.com website, and we use the term "visitors" and "you" throughout this policy to include any person that accesses our website at any point for any amount of time, unless designated otherwise.  Please carefully review our information collection practices and privacy protections below. 
+<br>
+<br>
+If you are an Insightbb.com High Speed Broadband Internet Customer, you are also subject to our Insightbb.com High Speed Broadband Internet Service Privacy Policy as it applies to your use of our Insightbb.com High Speed Broadband Internet Service.  Click <a href="#broadband_privacy">here</a> to review that policy.  
+</td>
+</tr>
+
+<tr>
+<td height="15"></td>
+</tr>
+
+<tr>
+<td class="copyGrey">
+<span class="sectionTitle">Who We Are</span>
+<br>
+<br>
+This website is operated by Insight Midwest, L.P., and its affiliates and partners ("Insight," "We," or "Us").   It is our goal to make our website enjoyable and our privacy practices easy to understand.  If you have any questions regarding the content and material on this website or if you have any questions about our privacy policies, please contact us at:
+<br>
+
+<blockquote>
+<span class="copyBlack">Insight Midwest, L.P.</span>
+<br>
+810 7th Avenue; 41st Floor
+<br>
+New York, New York 10019
+<br>
+<a href="mailto:privacy@insight-com.com">privacy@insight-com.com</a>
+</blockquote>
+
+<a name="two">&nbsp;</a>
+
+<br>
+<span class="sectionTitle">Collection of Personal Information</span>
+<br>
+<br>
+We provide various informative, educational, and entertaining features as part of this website. To operate these features and allow participation in certain website activities, you may be required to provide personally identifiable information over our website, such as your name, home and e-mail addresses, telephone number, birth date and gender ("personal information"). 
+<br>
+<br>
+For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website activities will be canceled without notice if at any time we discover that you provide false information, or violate any term of this Privacy Policy or our Terms of Usage Agreement. We may retain visitors' personal information for an indefinite amount of time to preserve our website database and to comply with various federal and state laws.
+<br>
+<br>
+We collect personal information over our website for several important purposes, including to protect the security of our visitors and the site, complete website transactions, respond to visitor inquiries, improve our service and website, notify the winners of contests and sweepstakes, and for future marketing and/or promotional use about our services or website.  We may also survey visitors about various topics, including how we can improve our website and services. Response to our surveys is entirely voluntary.
+<br>
+<br>
+We may also offer additional "E-features" that allow visitors to send an e-mail version of an article or certain content appearing on the website to another person.  We do not collect and store the sender's or the recipient's e-mail information for these E-features. 
+<br>
+<br>
+The only personal information this website obtains about you is information voluntarily provided by you. This website does not collect additional personal information about individual visitors from other sources. To gauge the effectiveness of our website, we may collect non-personal information about our visitors, such as Internet server and browser identification, the Internet service provider, clickstream information, the web page from which a person enters our site, web pages visited, duration of visit and domain type. This information does not reveal a visitor's personal identity. 
+<br>
+<br>
+Certain website activities may be offered by, or provided with the support of, non-affiliated sponsors and/or partners. The personal information collected by our website in conjunction with such activities may also be used for the marketing of additional services, products and/or events by Insight and/or its partners and sponsors beyond the activity and/or special event.  Depending on the activity or event, visitors may be able to either grant their approval on how their personal information will be used before it is collected ("opt-in"), or choose to deny use of their information for additional purposes ("opt-out").  For contests, sweepstakes, and/or special events, we may post on the website applicable rules for the event, and if necessary, post any supplemental terms and conditions or privacy provisions. 
+<br>
+<br>
+<span class="sectionTitle">Collection of Information by Contract Service and Operational Providers</span>
+<br>
+<br>
+We may provide visitors the opportunity to purchase and/or order certain goods, merchandise and/or services through this website. Companies other than Insight, its parents, partners, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations and/or order fulfillment "operational providers." If you choose to use these optional services, our operational providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. To facilitate an order or request, we may share your personal information with the provider. The operational provider may also share your personal information with us.
+<br>
+<br>
+In most instances, we request that our operational providers adhere to the provisions in this privacy policy and that such providers only share visitors' personal information with Insight, unless necessary to complete a visitor's request or order. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested order. However, you must read an operational provider's privacy policy to determine the extent of use and disclosure of your personal information collected online.
+<br>
+<br>
+Insight, its parents, partners, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of operational providers, nor is Insight responsible or liable for any costs or damages related to the products and/or services offered or provided by operational providers.
+<br>
+<br>
+<span class="sectionTitle">Collection of Information by Advertisers and Sponsors</span>
+<br>
+<br>
+Our website may also post banner ads and other forms of advertisements from third parties, and/or links to the websites of advertisers or sponsors which are companies that are not owned or operated by Insight, its parents, partners, affiliates or subsidiaries. These advertisers and sponsors may independently solicit and collect personal information, or send their own cookies to our visitors. Please be advised that when you visit an advertiser's or sponsor's website you will be subject to the privacy policy and terms of usage agreement of that website operator. Insight, its parents, partners, affiliates or subsidiaries will not be responsible for advertiser or sponsor ads and/or links or the content, activities, information collection, use and disclosure practices of the websites of advertisers and sponsors.
+<br>
+<br>
+
+<a name="three">&nbsp;</a>
+
+<span class="sectionTitle">Our Policy on Disclosing Your Information to Parties Other than Insight</span>
+<br>
+<br>
+We share or disclose your personal information with other third parties when you consent to the disclosure, when disclosure is required or authorized by law, or when it is necessary to operate the website, our website services, to provide or enhance our website features, complete requested transactions and/or to protect the safety of our visitors, employees or property.  We may also disclose personal information to investigate and/or help prevent potentially unlawful activity or activity that threatens our network or otherwise violates our website Terms of Use.
+<br>
+<br>
+We may in the future share personal information with other third parties for other purposes. If we decide in the future to enter into such sharing arrangements, we will disclose in this Privacy Policy the type of personal information that will be shared, the reason we are sharing the information, and how to contact us if you do not want us to share your personal information ("opt-out").  Click <a href="#broadband_privacy">here</a> to review that policy.  In the event of a sale or transfer of Insight assets, including its database, personal information may be transferred to other third parties in connection with the sale or transfer. The recipient of this information may have privacy practices that differ from those in this policy.
+<br>
+<br>
+When visitors send an e-mail to us, we will protect your e-mail address and other personal contact information. However, we may disclose the content of your e-mail to other persons. Please see our <a href="http://www.insightbb.com/terms_conditions/index.html#terms_of_use">Website Terms of Usage Agreement</a>. We may share your personal information with our affiliates, partners, operational providers or other persons, companies or agents who provide support for the internal operations of the website, such as contest fulfillment services, maintenance and technical services, and e-commerce or transaction contractors. If you are purchasing goods, merchandise or services on this website and use a credit card to complete the transaction, our operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your order.
+<br>
+<br>
+We may provide aggregate information about our visitors to our advertisers, vendors, sponsors, partners, and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on the site or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor.  We may combine this aggregate information with personal information collected in accordance with this policy to create an enhanced database and/or to research or improve website services.
+<br>
+<br>
+
+<a name="four">&nbsp;</a>
+
+<span class="sectionTitle">Use of Cookies and Tracking Devices</span>
+<br>
+<br>
+Insight, its parents, partners, affiliates and subsidiaries may use cookies and/or other tracking devices.  These tracking devices record certain "hits" to our site or links visited.  Such devices do not record or collect personal information.
+<br>
+<br>
+A cookie is a small data file that contains a unique identification number that a website places on your hard drive.  Cookies simplify and improve Web navigation and personalize your Web experience by allowing a Web site server that hosts a site to recognize your browser when you visit certain web pages.  Cookies also allow you to use shopping carts, check billing history, set preferences, and participate in contests or special events or save passwords.  Cookies do not allow the site to access personal information that you have not already voluntarily provided.  You can refuse to use cookies by turning them off in your browser. Please contact your software manufacturer for questions on how to disable cookies. You do not need to have cookies turned on to use most of this site. However, you may find that some areas on the website will be slower, may not function at all, or you may not be able to participate in certain site activities if the cookies are disabled. 
+<br>
+<br>
+This site may also use clear gifs [Graphics Interchange Formats]. A clear gif is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website. We may use gifs to gather non-personal, aggregate information on visits to our website and track usage of website links.   
+<br>
+<br>
+Although we do not intend to use cookies or gifs to collect personal information, some personal information you voluntarily provide over our site may be linked to non-personal information collected through cookies or gifs.  We do not disclose personal information that may be linked to our cookie and gif collection practices to third parties. 
+<br>
+<br>
+Other websites may also use cookies and clear gifs. Insight, its parents, partners, affiliates and subsidiaries are not responsible for the use of tracking devices by other website operators. Visitors must review other website operators' privacy policies to determine the type and extent of tracking device use.
+<br>
+<br>
+
+<a name="five">&nbsp;</a>
+
+<span class="sectionTitle">How To Add, Change, or Delete Personal Information</span>
+<br>
+<br>
+You may add, change or delete personal information that we have collected about you over the website by contacting us at <a href="mailto:privacy@insight-com.com">privacy@insight-com.com</a>.  Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws or our Internet Service Agreement. We encourage you to keep us informed about any changes in your personal information. 
+<br>
+<br>
+
+<a name="six">&nbsp;</a>
+
+<span class="sectionTitle">Our Security Procedures</span>
+<br>
+<br>
+We require our employees to protect the privacy of all personal information collected over our website.  Only employees and supervisors with specific authorization have access to databases containing visitors' personal information.  Insight, its affiliates and partners have also implemented security features, such as routers, firewalls, and encryption technology to safeguard the privacy of your personal information from unauthorized access.  We will continue to enhance our security procedures as new technology becomes available.
+<br>
+<br>
+Insight is not responsible or liable for the collection, use and/or disclosure practices of other third parties.  When you visit other websites you will be subject to the privacy policies and terms of usage agreements, if any, of that website operator.
+<br>
+<br>
+
+<a name="seven">&nbsp;</a>
+
+<span class="sectionTitle">Changes in the Privacy Policy</span>
+<br>
+<br>
+Insight will review our privacy practices on a periodic basis as we deem appropriate and/or when we update or change our website features or services.  We will inform you of any changes that we make to this policy by posting changes in a revised privacy policy that will be made available to you through this website.  Changes to the policy shall become effective when they are posted.  Use of the Insightbb.com website following revisions to this privacy policy constitutes your acceptance to the revised privacy provisions.
+<br>
+<br>
+
+<a name="eight">&nbsp;</a>
+
+<span class="sectionTitle">CHILDREN'S PRIVACY POLICY</span>
+<br>
+<br>
+Insight respects the privacy of your child and we want to share with you our policies regarding children.  Although visitors of all ages may navigate through our website, we recommend that children should not use or participate on our website without supervision by a parent and/or guardian.  Further, we do not knowingly collect personal information from persons under the age of thirteen. If upon notification by a parent or guardian, or discovery by other means, that we have improperly collected personal information from a child under thirteen, or that such child has improperly registered on this site by using false information, we will immediately cancel the child's membership and/or participation, and delete the child's personally identifiable information, user name and password from our records.
+<br>
+<br>
+If in the future we decide to knowingly collect personal information from children under thirteen, we will require verifiable parental consent, except in the following circumstances allowed by law: 
+<ul>
+<li> To provide notice and get consent from a parent or guardian; 
+</li><li> To respond to a one-time request from a child, after which we will immediately delete the child's information;
+</li><li> To fulfill a child's request for a subscription to a online newspaper, magazine or specific information on a regular basis and we will notify the parent or guardian before we contact the child again; 
+</li><li> To protect the safety of a child who is participating on this site; and 
+</li><li> To protect the security or integrity of the site, to take precautions against liability, to respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law.
+</li></ul>
+Please do not hesitate to contact us if you have any questions about our Website Privacy Policies.
+<br>
+<br>
+<br>
+Thank you for visiting!
+</td>
+</tr>
+
+<tr>
+<td height="20"></td>
+</tr>
+
+<tr>
+<td class="finePrint">Last Revised 07/19/2002</td>
+</tr>
+
+</tbody></table>
+
+<!-- end content -->
+
+<!--START::Footer-->
+<!-- START::Copyright -->
+
+<table border="0" cellspacing="0" cellpadding="1" width="762" align="center">
+
+<tbody><tr>
+<td class="textGrey">
+<hr align="left" width="100%" noshade="" size="1"> 
+<div class="footer"><font face="verdana,arial,helvetica" size="1" color="#999999"> 
+<a href="http://www.insightbb.com/terms_conditions/">Terms and Conditions</a>.  
+Insightbb.com Privacy Policy.
+<br>
+Copyright 2002, AT&amp;T and Insight. All Rights Reserved.
+</font></div>
+</td>
+</tr>
+
+</tbody></table>
+
+<!-- END::Copyright -->
+<!-- END::FOOTER -->
+
+<!-- #EndTemplate -->
+
+</body></html>
