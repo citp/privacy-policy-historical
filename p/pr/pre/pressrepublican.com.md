@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207024525id_/http%3A//www.pressrepublican.com/Aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307080442id_/http%3A//www.pressrepublican.com/Aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy was last updated on 6/22/01.
+This privacy policy was last updated on 1/18/05.
 
 Ottaway Newspapers, Inc., the parent company of Ottaway Newspaper Group, and its affiliates (collectively referred to as "Ottaway", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the "Ottaway Web Sites"). This Privacy Policy describes how we treat personal information received about you when you visit the Ottaway Web Sites.
 
@@ -122,7 +122,7 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 
 **
 
-All rights reserved. Ottaway Newspapers, Inc. Copyright © 2003.
+All rights reserved. Ottaway Newspapers, Inc. Copyright © 1999-2005.
 
 **
 
@@ -130,10 +130,10 @@ All rights reserved. Ottaway Newspapers, Inc. Copyright © 2003.
 
 |   
 **SITE INDEX  
-**| [Home Page](http://www.pressrepublican.com/index.htm) | [News](http://www.pressrepublican.com/newsfront.htm) | [Sports](http://www.pressrepublican.com/sportsfront.htm) | [Out & About](http://www.pressrepublican.com/o&afront.htm) | [About Us](http://www.pressrepublican.com/aboutusfront.htm) | [Marketplace](https://web.archive.org/web/20041207024525id_/http%3A//www.pressrepublican.com/market/index.htm) |   
-Comments or Suggestions: [Webmaster](mailto:rblack@pressrepublican.com)
+**| [Home Page](http://www.pressrepublican.com/index.htm) | [News](http://www.pressrepublican.com/newsfront.htm) | [Sports](http://www.pressrepublican.com/sportsfront.htm) | [Out & About](http://www.pressrepublican.com/o&afront.htm) | [About Us](http://www.pressrepublican.com/aboutusfront.htm) | [Marketplace](http://pressrepublican.abracat.com/) |   
+
 
 **To contact the Press-Republican, Phone: (518) 561-2300 or send mail to:  
 Press-Republican, 170 Margaret St., P.O. Box 459, Plattsburgh, NY 12901**
 
-**Copyright 2003, Plattsburgh Publishing Co., Plattsburgh, NY,   Division of Ottaway Newspapers, Inc., Campbell Hall, NY. The information you receive from Press-Republican Online is protected by the copyright laws of the United States. The copyright laws prohibit any copying, redistributing, retransmitting, or repurposing of any copyright-protected material.**
+**Copyright 1999-2005, Plattsburgh Publishing Co., Plattsburgh, NY,   Division of Ottaway Newspapers, Inc., Campbell Hall, NY. The information you receive from Press-Republican Online is protected by the copyright laws of the United States. The copyright laws prohibit any copying, redistributing, retransmitting, or repurposing of any copyright-protected material.**
