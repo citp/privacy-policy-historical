@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epsbooks.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606042003id_/http%3A//www.epsbooks.com/dynamic/customer_service/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsbooks.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207040033id_/http%3A//www.epsbooks.com/dynamic/customer_service/privacy/index.asp) for the most accurate reproduction.*
 
 # Customer Service » Privacy Policy
 
@@ -48,7 +48,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Data Quality/Access**  
 This site gives customers only the following options for changing and modifying information previously provided: 
 
-  1. You can send e-mail to [ epsbooks@epsbooks.com](mailto:epsbooks@epsbooks.com).
+  1. You can send e-mail to [ feedback@epsbooks.com](mailto:feedback@epsbooks.com).
   2. You can call the following telephone number: 800.225.5750 (toll-free).
 
 
