@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605172648id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172626id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
 
 # Sikhnet's Privacy Policy
 
