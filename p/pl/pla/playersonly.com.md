@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playersonly.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203204434id_/http%3A//playersonly.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playersonly.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012002543id_/http%3A//playersonly.com/misc/privacy.html) for the most accurate reproduction.*
 
-# Playersonly.com Privacy Statement
+# Casino, Online Casino, Gambling, Sportsbook, Privacy Statement
 
 [](https://web.archive.org/printable/privacy.html)
 
