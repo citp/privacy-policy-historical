@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedieselstop.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613181550id_/http%3A//www.thedieselstop.com/about/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedieselstop.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207030954id_/http%3A//www.thedieselstop.com/about/privacy.php3) for the most accurate reproduction.*
 
 # TheDieselStop.Com - www.thedieselstop.com
 
