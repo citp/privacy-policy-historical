@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016195602id_/http%3A//www.harness.org.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214554id_/http%3A//www.harness.org.au/index.cfm%3Fp%3Dp%26id%3D/privacy.cfm) for the most accurate reproduction.*
 
-# Harness Racing Privacy Policy
+# Harness Racing in Australia - Official Site
 
 **What personally identifiable information is collected on this site?**  
 For visitors who request to participate in some of the pages on this site we may collect name, address, phone, e-mail ID and, optionally, company information. 
@@ -44,6 +44,6 @@ your personal name is not collected.
 **Banner ads  
 **This site, Harness Racing in Australia, may from time to time use the services of  a banner advertising firm for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the firm may collect anonymous data through the use of cookies. 
 
-* * *
+© Copyright 2002 Racing Information Services Enterprise (Harness Racing New South Wales & Harness Racing Victoria).   
+This Web site is a shared facility of the State controlling bodies, Australian Harness Racing Council, Inter Dominion Harness Racing Council and the Clubs around Australia. All material on this website is the intellectual properties of one or more of these bodies. It may not be copied or re-transmitted except with express approval. To apply for approval to use any material email: [onlinecoord@harness.org.au ](mailto:onlinecoord@harness.org.au)  
 
-[**Return to Reserved Seat (Home Page)**](http://www.harness.org.au/)
