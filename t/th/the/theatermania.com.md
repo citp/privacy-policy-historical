@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613181727id_/http%3A//theatermania.com/extras/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213093500id_/http%3A//theatermania.com/extras/privacy.cfm) for the most accurate reproduction.*
 
 # TheaterMania.com - Privacy Policy
 
@@ -18,7 +18,7 @@ Theatermania.com currently uses personal information only for the purposes of pr
 
 **Maintaining the Privacy of Children**
 
-Theatermania.com has developed the "Kids' Corner" section of our web site to publish editorial content produced by and for children. Nonetheless, Theatermania.com encourages parents and guardians to review in advance the appropriateness of the different areas of our web site for their children. As discussed above, Theatermania.com may collect information from individuals visiting its web site who may, among other ways, register for a service or enter a sweepstakes or contest. Theatermania.com will not knowingly collect any personally identifiable information from children under the age of thirteen. Therefore, these visitors may not be eligible to participate in certain services, sweepstakes, contests or transactions, among other things. It is Theatermania.com's intention not to participate in the transfer of any personal information of persons under the age of thirteen for any purpose. 
+Theatermania.com has developed the "Kids' Mania" section of our web site to publish editorial content produced by and for children. Nonetheless, Theatermania.com encourages parents and guardians to review in advance the appropriateness of the different areas of our web site for their children. As discussed above, Theatermania.com may collect information from individuals visiting its web site who may, among other ways, register for a service or enter a sweepstakes or contest. Theatermania.com will not knowingly collect any personally identifiable information from children under the age of thirteen. Therefore, these visitors may not be eligible to participate in certain services, sweepstakes, contests or transactions, among other things. It is Theatermania.com's intention not to participate in the transfer of any personal information of persons under the age of thirteen for any purpose. 
 
 **A General Reminder**
 
