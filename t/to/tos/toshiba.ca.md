@@ -1,55 +1,58 @@
-> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209153156id_/http%3A//www.toshiba.ca/web/link%3Fid%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606125252id_/http%3A//www.toshiba.ca/web/link%3Fid%3D87) for the most accurate reproduction.*
 
-# Toshiba Canada - Committed to Protecting Your Privacy
+# Toshiba Canada - Privacy Statement
 
-|  | |   
----|---  
+At Toshiba of Canada Limited we take pride in providing our customers with the highest quality products, services and support.  To do so effectively, we require certain relevant information from our customers, which is treated with complete confidentiallity and respect.
+
+In concert with the Federal Government’s legislation the PERSONAL INFORMATION PROTECTION AND ELECTRONICS DOCUMENTS ACT (PIPEDA), Toshiba has adopted Ten Privacy Principles.  
+All information received from individuals is handled in a manner which is consistent with these principles.
+
+Toshiba has implemented policies and procedures which support the ten principles, and our Privacy Officer as well as our staff are committed to ensure that our obligations to you regarding your personal information are fulfilled.  
+
+**TOSHIBA’S PRIVACY PRINCIPLES**
+
+1. Accountability
+
+Toshiba of Canada Limited is accountable for all personal information in its possession or control, including information disclosed to third parties for processing.
+
+2. Identifying Purposes
+
+ When collecting personal information from our customers, employment candidates or employees we will clearly identify in each case the specific purposes for doing so.
+
+3. Consent
+
+ Consent to the collection of personal information for the identified purposes will be obtained before or at the time the information is collected.  In some cases the party through the process of providing the information grants consent.
+
+4. Limiting Collection
+
+ The collection of personal information will be limited to information that is necessary for the purposes identified by Toshiba of Canada Limited.  Information will be collected only by fair and lawful means.
+
+5. Limiting Use, Disclosure and Retention
+
+ Personal information will not be used or disclosed for purposes other than those for which it was collected, except with the express consent of the individual or as required by law.  It will only be retained for as long as necessary to fulfill the identified purpose, after which time it will be destroyed erased or made anonymous.
+
+6. Accuracy
+
+ Toshiba will use reasonable efforts to keep personal information as accurate, complete and up-to-date as necessary for the purposes identified to the individual.
+
+7. Safeguarding Personal Information
+
+ Toshiba will protect personal information with physical, organizational and technological safeguards appropriate to the sensitivity of the information.
+
+8. Openness
+
+ Toshiba will make information about its personal information management policies and practices available on request.
+
+9. Access to Personal Information
+
+ Upon written request, Toshiba will provide, within a reasonable time, information about the personal information in its custody or control, including its use and the identity of any third parties to whom the information has been disclosed.  Individuals have the right to challenge the accuracy and completeness of their personal information and request that it be amended as appropriate.  Toshiba will advise third parties to whom the information has been disclosed of the amendment.
+
+10. Challenging Compliance
+
+You have the right to challenge our privacy compliance.  Before we are able to provide you with any information or correct any inaccuracies we may ask you to verify your identity and for other details to help us respond to your request.  If you wish to inquire about aspects of our Privacy Policy please direct your written request to our Privacy Officer, Human Resources Department, 191 McNabb Street, Markham, On., L3R 8H2 or E-Mail us at [privacyofficer@toshiba.ca](mailto:privacyofficer@toshiba.ca).  
+ 
+
   
-**Statement**
+Personal information is collected from our customers, employment candidates and our employees at certain times and for various reasons.  It may be collected on-line on our Company website, on documents in person or on the phone. 
 
-Toshiba of Canada Limited has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites: [www.toshiba.ca](http://www.toshiba.ca/) and [www.shoptoshiba.ca](http://www.shoptoshiba.ca/)
-
-|    
-  
-**Personal Information**
-
-In order to complete a transaction with www.shoptoshiba.ca we might need specific information to complete your order. Our site may require you to give us your full name, complete address including a home and business phone number and an e-mail address.  
-Your contact information is used to reach you should we have to speak to you about your order.  
-We may use product registration data to benefit your overall experience on our site.  
-We may use site surveys to inquire about your on-line experience.  
-We may use contact data from our contests to send users information about our company and promotional material from some of our partners.  
-Your contact information is used to contact you when necessary.   
-Your contact information is used to contact you when necessary. Information regarding you (such as name, address, and phone number) or your order and the products you purchase will not be given or sold to any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with third party contractors for the purposes of performing services for Toshiba of Canada Limited. 
-
-|    
-  
-**Third-Party Sites**
-
-This site contains links to other sites. www.ShopToshiba.ca is not responsible for the privacy practices or the content of such Web sites. 
-
-|    
-  
-**Data Security**
-
-All information that you supply to Toshiba of Canada Limited is stored in a secure fashion utilizing industry standard security techniques. We intend to protect the quality and integrity of your personally identifiable information. We offer industry standard security measures utilizing SSL128-bit encryption available through your browser. When entering secure pages on our site you will be prompted with a message to upgrade your browser should your current version offer less than 128-bit encryption. 
-
-|   
-  
-**IP Addresses**
-
-We may use your IP address (the Internet address of your computer) to help diagnose problems with our server, and to administer our Web site. 
-
-|    
-  
-**Cookies**
-
-We use cookies to deliver content specific to your interest "Cookies" are small files that may be placed on your hard disk for record-keeping purposes. 
-
-|    
-  
-**Changes**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with www.shoptoshiba.ca, you can call us at 1-800-TOSHIBA, Monday to Friday 8:00am to 8:00pm ET. For questions about [www.toshiba.ca](http://www.toshiba.ca/) , contact our [webmaster](mailto:webmaster@toshiba.ca)
-
-|    
-| 
+The following lists the various situations where personal information may be collected and discusses the granting of consent, the purposes for collection, length of retention and disclosure of this information in each situation.
