@@ -1,103 +1,87 @@
-> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214045300id_/http%3A//bizrate.com/content/privacy.xpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604080636id_/http%3A//bizrate.com/content/privacy.xpml) for the most accurate reproduction.*
 
 # BizRate.com : Privacy Policy
 
-This confirms that BizRate.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.BizRate.com. 
+BizRate.com Privacy Notice  
+---  
+   
+  
+BizRate.com is an online shopping marketplace and merchant rating service designed to deliver the best possible online shopping experience to you, our users. We are committed to protecting the privacy and security of the information we may gather about you, and we appreciate your trust that we will use and share that information carefully and sensibly. 
 
-BizRate.com is an online shopping marketplace designed to deliver the best possible online shopping experience to you, our users. You are the reason we exist as a business. We depend upon our relationship with you and remain committed to protecting your privacy and security. 
+As part of our ongoing commitment to your privacy and security, we are proud to be a licensee of the TRUSTe Privacy Program, a leading industry-sponsored privacy program. More information about TRUSTe is set forth below. 
 
-Everyday, thousands of online shoppers just like you enjoy our services and entrust BizRate.com with their shopping information. This information allows us to provide services to make online shopping as rewarding and efficient as possible. __You__ are the power behind BizRate.com. The more you share about how you shop, the better shopping can be for you and for everyone. 
+This Privacy Notice describes our privacy policy. **By using BizRate.com, shopping at participating merchants, or otherwise interacting with BizRate.com, you are accepting the practices described in this Privacy Notice.**
 
-**Two Kinds of Information**
+_**What Personal Information Does BizRate.com Gather?** _   
+The information we learn from shoppers helps us personalize and continually improve your shopping experience at BizRate.com and our participating merchants. Here are the general types of information we gather. 
 
-The information you provide allows us to deliver valuable services and promotions to meet the needs of online buyers and sellers. To protect your privacy, we keep the information we collect in two distinct categories: 
+**Information You Give Us**   
+We receive and store any information you provide to us when you complete merchant surveys, participate in a sweepstakes or contest, open an account or otherwise become a BizRate.com member, apply for our newsletter, or communicate with customer service by e-mail, or otherwise. Such information may include your name, address, email address, shopping interests and preferences, transaction history, and other personal data. You can choose not to provide certain information, but then you might not be able to participate in our surveys or contests or take advantage of certain useful BizRate.com features. We use the information that you provide for such purposes as providing research reports to merchants, customizing future shopping and savings opportunities for you, improving our services, and communicating with you if you have authorized such communication. 
 
-**1\. Personally Identifiable Information** is information associated with you as an individual. It is kept in a record that matches it with a customer number so we can access it to make the site more relevant and useful when you visit. 
+**Information Gathered Automatically**   
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses BizRate.com or other participating sites or when you are provided the opportunity to complete merchant surveys or participate in a sweepstakes or contest. Examples of the information we may collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site and related services, including date and time; cookie number; products and merchants you viewed or searched for; and participating merchants you visited. We may work with third parties who use "cookies" and/or "pixel tags" to collect non-personally identifiable information when you visit our Web site or are offered the opportunity to participate in an incentive. This information may be used to provide you with better shopping or savings opportunities through advertisements on Web sites that you visit, or to conduct market research analysis. If you would like to opt out of any use of such information by such third parties, please [click here](http://www.networkadvertising.org/optout_nonppii.asp) and opt out for all companies listed. 
 
-**2\. Aggregate Information** comes from many sources and is combined to show a big picture, such as trends or statistics, and does not reveal the identity of the individuals who shared it. This information is used primarily for research purposes. 
+**Other Information**   
+In order to improve our service and personalize our service (for example, providing special offers from our participating merchants that we think might interest you), we may in the future also receive information about you from other sources. 
 
-**_How We Use the Information You Provide_**
+_**What About Cookies?**_   
+Cookies are small files that we transfer to your computer's hard drive or your Web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you, such as recognizing you as a BizRate.com member or customizing merchant surveys you may be asked to complete so that you don't need to provide the same information more than once. 
 
-**Personally Identifiable Information**
+The "help" portion of the toolbar on most Web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you turn off your ability to receive and use cookies, you may have to re-enter information that would otherwise have been stored for you, and you may not be able to take full advantage of our services. Therefore, we recommend that you leave them turned on. 
 
-You control the personally identifiable information you share with us. We use it to provide you with a better shopping experience and to enhance our ability and the ability of our participating online stores to serve you. Online stores and others who are part of the BizRate.com shopping community may work with us to deliver personalized discounts and promotions to you, but they do NOT have access to your personally identifiable information. 
+_**Does BizRate.com Share the Information It Receives?**_   
+Information about BizRate.com shoppers and other users is an important part of our business, and we take steps to maintain the privacy and security of such information against unauthorized access. In an effort to serve you better and improve your online shopping experiences, we may share such information as described below. 
 
-**Your personally identifiable information is NOT sold to third parties for marketing purposes.** For example, we do NOT sell your phone number to telemarketers or a list containing your mailing address to "junk mail" marketing companies. 
+**Aggregated Research Data**   
+We produce research reports and other information and data about online shopping for participating merchants and other customers, as well as media and other interested parties. Such information and data is based upon aggregated, anonymous information about millions of online shoppers and does not include personally identifiable information about individuals. 
 
-**Aggregate Information**
+**Agents**   
+We may employ other companies and individuals to perform functions on our behalf. Examples include sending postal mail and e-mail, analyzing shopper data, and providing other services. In such instances, they may have access to personal information needed to perform their functions, but will be prohibited from using it for other purposes. 
 
-Aggregate Information allows people and their businesses to be smarter about online shopping. When a business knows more about its customers, they both win. Without giving out personally identifiable information, we make aggregate information available to online stores or other third parties that deliver valuable products or services to our users. 
+**Special Offers**   
+Sometimes we send special offers to selected groups of BizRate.com shoppers on behalf of participating merchants or other businesses. When we do this, we do not give that merchant or business your name and address. If you do not want to receive such offers, please [click here](https://web.archive.org/help/contact_us.xpml) to contact us and be removed from our mailing list. 
 
-BizRate.com provides timely, insightful and detailed analysis of online buying and customer satisfaction through a variety of reports. By sitting at the point-of-sale across thousands of quality online retailers, BizRate.com is uniquely positioned to monitor e-Commerce activity across the Web, soliciting information from millions of online buyers like you as they make their purchases. 
+**Business Transactions**   
+As we continue to develop our business, we may participate in corporate transactions such as mergers and acquisitions, and it is possible that another company may acquire BizRate.com or its business assets in the future. In such cases, user information may be shared with the acquirer and/or other reputable parties involved in those transactions. 
 
-**_How We Gather Information_**
+**Protection of BizRate.com and Others**   
+We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms of Use](https://web.archive.org/content/legal.xpml) and other agreements; assist in fraud protection or investigation; or protect the rights, property, or security of BizRate.com, our users, or others. 
 
-**BizRate.com Surveys.** When you complete a survey after purchasing from a BizRate.com Customer Certified online store, the only information we require is your email address. Your valid email address allows us to certify that you are an actual customer and to send you a follow-up survey about your satisfaction following delivery. 
+**With Your Consent**   
+Other than as described above, with your consent we may also share information with participating merchants where you have shopped or with other third parties from time to time. 
 
-We ask for your demographic information (like gender, age range, occupation, education level, income, marital status, and zip code) but this is always voluntary. This information is used in aggregate, or to enhance the level of service BizRate.com can provide you. 
+_**Participating Merchant Policies**_   
+Online merchants and others who participate in BizRate.com services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants, we cannot be responsible for their actions. We recommend that you always review each online merchant's privacy policies before you provide any personal information or complete any transaction with that merchant. 
 
-We mainly use your survey data to rate an online store's performance. Your feedback allows online shoppers to benefit from your experience. We compile the survey responses of online consumers into marketing research reports that provide insights about the current trends in the world of e-commerce. At no time in the survey process does any outside party have access to your personally identifiable information. The only exception is that, at your request only, we will forward your email address and comments to the online retailer for whom you completed a survey, so that they may respond directly to any comments you might have provided. 
+_**Co-Branded Services**_   
+In certain areas on our site (such as the Wireless & Telecom and Personal Finance areas), we have joined forces with a reputable third-party source of specialized information and other content so that you can quickly and easily make informed decisions about such products and services. In each of these areas, the BizRate.com header notes that the services are "Powered by" or "By" the third-party (such as GetConnected.com in the Wireless & Telecom area and Bankrate.com in the Personal Finance area). This indicates that the content resides on the third party's servers and your use of those "co-branded" services is governed by that company's privacy policies and terms of use, which you can access at the bottom of each page in those areas. We recommend that you always review their privacy policies and terms of use before you complete any transaction with them. BizRate.com's Terms of Use (but not our privacy policies) also apply as between you and BizRate.com with respect to your use of those third-party co-branded services accessed through our site. 
 
-We may also gather statistics about the use of various aspects of the service for administrative purposes or to determine what services to offer or enhance. 
+_**How Secure Is Information About Me?**_   
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We also use a secure server hosting location, firewall protection, controlled access and encryption technology to protect your data. While no system is completely foolproof, we take the security of your personal information very seriously, and our security measures are designed to protect that information in a responsible manner. 
 
-**BizRate.com membership information.** If you join our BizRater Membership Program and become a member of the BizRate.com shopping community, you need to enter some personally identifiable information, such as your user ID, password, first and last name, zip code, and an email address through which we can contact you when necessary. All information you provide at registration, except for your username, may be edited whenever you like through your MyBizRate page. 
+_**What Information Can I Access?**_   
+If you establish a member account, BizRate.com gives you access to certain account information about you for the purpose of viewing and updating that information. 
 
-**Information used for form filling, rebate offers, and other services.** We store and use personally identifiable information such as user ID, passwords, addresses, billing, and credit card information to enable form-filling convenience for our members, and to customize and personalize our services. We may also use your mailing address to send you rebate checks. 
+_**What Choices Do I Have?**_   
+As discussed above, you can always choose not to provide information, although that might prevent us from personalizing our service for you or prevent you from participating in a survey or contest or taking advantage of certain BizRate.com features. 
 
-**Enhanced features may require more information.** Some enhanced BizRate.com features, such as the BizRate.com Shopping Toolbar, form-filling, order tracking, and rebate offers, require that we collect additional personally identifiable information from you, such as your billing, shipping, and transaction information. 
+If you have opened a member account, you can add or update certain account information at any time. 
 
-**BizRate.com customer service contacts**. If you contact BizRate.com by email, telephone, or mail, we may keep a record of that contact or correspondence. 
+From time to time, BizRate.com will send newsletters and other email to members and others who have agreed to be contacted by BizRate.com. You can always choose not to receive email from BizRate.com. Most messages carry opt-out or unsubscribe instructions at the bottom of the email. If you do not want to receive e-mail from us, please [click here](https://web.archive.org/help/contact_us.xpml) to be removed from our mailing list. (If you do not want to receive [Terms of Use](https://web.archive.org/content/legal.xpml) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of BizRate.com, and it is your responsibility to review them for changes.) 
 
-**BizRate.com contests or promotions.** We may also ask you for personally identifiable information at other times, including but not limited to when you enter a sweepstakes, contest, or promotion sponsored by BizRate.com. 
+The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you may not be able to take advantage of all of our features if you do not use cookies. 
 
-**The BizRate Shopping Toolbar.** We use the completed transactions that are securely logged in your private account to allow you to keep track of online purchases, and to further enhance and personalize your shopping experience. We may also collect information regarding your transactions and purchasing patterns when the BizRate Shopping Toolbar is inactive, in order to customize and personalize your shopping experience in the future. 
+_**Children**_   
+BizRate.com is not designed or intended for use by children under 13, although participating merchants on our site may offer children's products for purchase by adults. If you are under 18, you should use BizRate.com only with involvement of a parent or guardian. 
 
-**Transactions and purchasing pattern information.** We collect information regarding your online transactions and purchasing patterns through the use of "cookies". If you use the BizRate.com Shopping Toolbar, we collect and securely log information regarding your completed transactions into your private account. If you are a member and make purchases or other transactions through a mybizrate.com email account that we maintain for you, you may thereafter receive order confirmations and other emails from the online stores through that mybizrate.com email account. We may also collect relevant information from those emails before forwarding them on to your registered email account. We use the information we collect on your transaction and purchasing pattern information to deliver customized promotions and offers to you, and to better understand your needs and preferences. 
-
-**Use of Cookies**
-
-In order to provide personalized services, we use "cookie" capabilities enabled by your Internet browser. "Cookies" are small files that your web browser places on your computer's hard drive or in your browser memory for security purposes and to remember your site preferences and personalization. For instance, "cookies" may be used to remember your password for you when you re-visit our web site. While most web browsers automatically accept cookies, you can usually change your browser to prevent that. Even without accepting cookies, you can still use the features on our web site, although certain enhanced features may not be available. 
-
-**Security**
-
-This site has security measures in place to prevent the loss, misuse or alteration of the information under our control. We have invested in industry-leading security technology to make your shopping experience as secure as possible and to protect your privacy. We currently employ the following techniques: 
-
-> **· Encryption.** Leading encryption technologies, comparable to those used in Internet-based home banking services provided by financial institutions, are used for both the data transmission during form filling and for data storage in our secure database. 
-> 
-> **· Secure data storage.** Our secure database protects your personally identifiable information. We provide a secure server hosting location, firewall protection, controlled access, and encryption technology. 
-> 
-> **· Non-cached data transmission.** Form filling data are directly obtained from our secure server -- they are not filed in any cache. This is done to assure that this personally identifiable information will not be easily exposed to hackers or other unauthorized users. 
-
-**Required and Additional Disclosures**
-
-It is our general policy not to release any personally identifiable information without your permission. We may in certain circumstances disclose information to online stores or other third parties when we believe in good faith that such action is necessary to: (1) conform with legal requirements or comply with legal processes, such as a court-ordered subpoena; (2) protect and defend our legal rights and property, and the legal rights and property of our users, online stores and other parties, such as fraud investigations; and (3) as otherwise permitted by law. Our disclosures in such circumstances will be limited to just the particular information we believe in our good faith judgment is necessary or appropriate to satisfy the particular legal requirement or other appropriate disclosure situation. 
-
-**Shopping at Participating Online Stores**
-
-BizRate.com encourages participating online stores to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have any direct control over the privacy policies or practices of the participating online stores, we cannot be responsible for their actions. We recommend that you always review each online store's privacy policies before you complete any transaction with them. 
-
-**Co-Branded Services**
-
-In certain areas on our site (such as the Wireless & Telecom and Personal Finance areas), we have joined forces with a reputable third-party source of specialized information and other content so that you can quickly and easily make informed decisions about such products and services. In each of these areas, the BizRate.com header notes that the services are "Powered by" or "By" the third-party (such as GetConnected.com in the Wireless & Telecom area and Bankrate.com in the Personal Finance area). This indicates that the content resides on the third party's servers and your use of those services is governed by that company's privacy policies and terms of use, which you can access at the bottom of each page in those areas. We recommend that you always review their privacy policies and terms of use before you complete any transaction with them. BizRate.com's Terms of Use (but not our privacy policies) also apply as between you and BizRate.com with respect to your use of those third-party services accessed through our site.
-
-**Service Providers and Joint Marketing Activities**
-
-We may provide personally identifiable information on a limited basis (i) to third parties who are perform services for us or functions on our behalf in accordance with applicable law, and (ii) when we engage in joint marketing activities or in corporate transactions such as mergers and acquisitions from time to time with other reputable parties as permitted by applicable law. In such instances, we will contractually prohibit the third party involved from disclosing or using the information other than for the purposes for which we disclosed the information. For instance, they would be prohibited from selling the information to a telemarketer or "junk mail" marketing company in violation of our Privacy Policy. 
-
-**Anti-Spam Policy**
-
-We strongly oppose junk email, or "spam". Our Member Agreement prohibits spamming by members. If you receive any junk email that mentions BizRate.com, please send details to [privacy@bizrate.com](mailto:privacy@bizrate.com) and we will investigate promptly. Members who are found to be spamming will forfeit their right to participate in our BizRater Membership Program and may be subject to other legal action. 
-
-From time to time, BizRate.com will send email to members and others who have agreed to be contacted by BizRate.com. You can always choose not to receive email from BizRate.com. Most messages carry opt-out or unsubscribe instructions at the bottom of the email. Communication necessary to maintain a member account does not carry these instructions - please contact [consumer relations](mailto:consumer_relations@bizrate.com) if you wish to cancel your membership. 
-
-**Contact Us**
-
-If you have questions or concerns regarding this statement, you should first contact [privacy@bizrate.com](mailto:privacy@bizrate.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. To find out more about TRUSTe, [click here](https://www.truste.org/validate/2518). 
+_**Privacy Questions?**_   
+If you have any questions or concerns about privacy at BizRate.com, please contact us at [privacy@bizrate.com](mailto:privacy@bizrate.com), and we will try to answer your questions or otherwise resolve the matter to your satisfaction. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact TRUSTe (<http://www.truste.org/users/watchdog.html>). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. To find out more about TRUSTe, [click here](https://www.truste.org/validate/2518). 
 
 [](https://www.truste.org/validate/2518)
 
-Whenever it becomes necessary, we will post a new Privacy Policy on our web site. Changes will be effective when posted, so please review our Privacy Policy from time to time to be sure you are aware of any updates. 
+**_Terms of Use and Revisions_**   
+Your contacts with BizRate.com and use of BizRate.com services, including any dispute related to privacy, are subject to this Privacy Notice and our [Terms of Use](https://web.archive.org/content/legal.xpml), including limitations on damages, arbitration of disputes, and application of the law of the state of California. Since our business changes constantly, this Privacy Notice and the [Terms of Use](https://web.archive.org/content/legal.xpml) will also change from time to time, and use of information that we gather now will be subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and other conditions and future changes that may occur, unless you have instructed us not to, but we are not obligated to do so, and you should check for recent changes on our Web site or other services whenever you visit. 
 
-**This Privacy Policy was last modified on December 11, 2000.**
+**This Privacy Policy was last modified on May 16, 2001.**
 
-**©2000 BizRate.com**
+**©2001 BizRate.com**
