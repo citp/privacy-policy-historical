@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.nh.us privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204122957id_/http%3A//www.state.nh.us/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nh.us privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202130330id_/http%3A//www.state.nh.us/disclaimer.html) for the most accurate reproduction.*
 
 # NH Disclaimer Statements [Webster]
 
@@ -14,11 +14,9 @@
 [Cities & Towns](https://web.archive.org/living/towns.html)   
 [Facts About NH](https://web.archive.org/facts/index.html)   
 [NH Laws & Rules](https://web.archive.org/government/laws.html)   
-[NH Online Directory](http://sudoc.nhsl.lib.nh.us/buzurl)   
 [Home](https://web.archive.org/index.html) **
 
-|   |   |     
-**This privacy notice contains the following sections:**
+|   |   |   **This privacy notice contains the following sections:**
 
   * Policy Statement
   * What information about users does the State of New Hampshire collect?
