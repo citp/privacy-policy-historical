@@ -1,11 +1,24 @@
-> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604025601id_/http%3A//www.startribune.com/stories/776/40762.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203010630id_/http%3A//www.startribune.com/stories/776/40762.html) for the most accurate reproduction.*
 
 # Privacy policy for startribune.com
 
+|  | [](http://www.startribune.com/stories/776)
+
+**index**
+
+|  | 
+
 Privacy policy for startribune.com
 
+|   
+---  
+  
 Published May 3, 2002
 
+| 
+
+PRIVACY  
+  
 Startribune.com has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use any user data we may collect from our users. 
 
 This privacy policy is subject to change from time to time. If the policy is revised, a notice will be placed on registered users' account information page, where registered users of our service may also update their personal information, subscribe to e-mail newsletters and revise the permissions that they previously granted startribune.com and/or its advertisers. Nonregistered users of startribune.com may view the privacy policy, including any revisions, by clicking on the "Privacy Policy" link on the home page of startribune.com. If the changes represent a material departure from our current policy or affect users' rights and obligations, if feasible, the changes will be posted on this page 30 days in advance of their effective date.
@@ -167,3 +180,7 @@ In the event of the sale or merger of The Star Tribune Company and/or The McClat
 Startribune.com endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at startribune.com, 425 Portland Ave., Minneapolis, MN 55488, at (612) 673-9022 or at [feedback@startribune.com](mailto:feedback@startribune.com)
 
 _Updated May 3, 2002._
+
+|  |  |   
+---|---  
+| 
