@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the kazor.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201041124id_/http%3A//kazor.com/admin/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazor.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602112240id_/http%3A//www.kazor.com/admin/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement for kazor.com The World's Community Newspaper
+# Privacy Statement kazor.com
+
+## 
 
 ## Privacy Statement for kazor.com
 
 ## The World's Community Newspaper
 
 Ybor City Telco has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: kazor.com The World's Community Newspaper. 
+
+**PLEASE NOTE** The Ybor City Telco or its parent company American Marketing Management and Motivation Services Inc, make NO INDEPENDENT INVESTIGATION of the products, services or properties or of the people placing advertisements on this site. We accept all ads that art submitted with the appropriate fee. Accordingly, we CAN NOT ACCEPT ANY RESPONSIBILITY  for the direct or consequential damages arising from ANY ads (including want ads)  that are placed. However. **"WE RESERVE THE RIGHT TO LIMIT EDIT OR REJECT ANY OR ALL COPY WHICH IN THE OPINION OF THE PUBLISHERS   CONFLICTS WITH OUR OBJECTIVES**" .
 
 Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
 
