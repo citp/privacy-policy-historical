@@ -1,25 +1,23 @@
-> *The following text is extracted and transformed from the duxcw.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206074641id_/http%3A//www.duxcw.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duxcw.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607022348id_/http%3A//duxcw.com/privacy.htm) for the most accurate reproduction.*
 
 # Dux Computer Works/Digest Privacy Statement
 
 | 
 
-[About Dux](https://web.archive.org/web/20031206074641id_/http%3A//www.duxcw.com/about/aboutdux.htm)
+[About Dux](https://web.archive.org/web/20040607022348id_/http%3A//duxcw.com/about/aboutdux.htm)
 
-[Advertising](https://web.archive.org/web/20031206074641id_/http%3A//www.duxcw.com/ad/index.html)
+[Advertising](https://web.archive.org/web/20040607022348id_/http%3A//duxcw.com/ad/index.html)
 
-[Contact Info](https://web.archive.org/web/20031206074641id_/http%3A//www.duxcw.com/contact.htm)
+[Contact Info](https://web.archive.org/web/20040607022348id_/http%3A//duxcw.com/contact.htm)
 
-[Newsletter](https://web.archive.org/web/20031206074641id_/http%3A//www.duxcw.com/newsltr/index.html)
+[PDFs](https://web.archive.org/web/20040607022348id_/http%3A//duxcw.com/pdf/index.html)
 
-[PDFs](https://web.archive.org/web/20031206074641id_/http%3A//www.duxcw.com/pdf/index.html)
-
-[Privacy](https://web.archive.org/web/20031206074641id_/http%3A//www.duxcw.com/privacy.htm)
+[Privacy](https://web.archive.org/web/20040607022348id_/http%3A//duxcw.com/privacy.htm)
 
 | 
 
 Dux Computer Works/Digest Privacy Policy  
-Last updated: 10/18/02
+Last updated: 12/12/03
 
 This is the Privacy Policy for the [Dux Computer Works/Digest Internet web site](http://duxcw.com/index.html).  Visitors to our web site may use our [Information Request/Feedback Form](http://duxcw.com/info_req/index.html) to obtain information on how to opt-in or opt-out of the use of their information.  Customers of our Online Store may obtain this information without leaving the store by clicking Contact Us in the Information menu in the Online Store. We can also be contacted by mail at the following address: 
 
@@ -41,7 +39,7 @@ This is the Privacy Policy for the [Dux Computer Works/Digest Internet web site]
 >   * Request information, or send us feedback using an [ Information Request/Feedback Form](http://duxcw.com/info_req/index.html).
 >   * Subscribe to our [Digest](http://duxcw.com/newsltr/index.html) and Store Newsletters.
 >   * Become a member of/post messages to our [Forums](http://duxcw.com/dcforum/index.html).
->   * Become a member of/purchase merchandise from our [Online Store](https://web.archive.org/web/20031206074641id_/http%3A//www.duxcw.com/prod/index.html).
+>   * Become a member of/purchase merchandise from our [Online Store](https://web.archive.org/web/20040607022348id_/http%3A//duxcw.com/prod/index.html).
 > 
 
 > 
@@ -64,9 +62,11 @@ _**Advertising**.  Dux Computer Works/Digest uses the services of  third parti
 
 **Security.   **This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-**Compliance**.  Summaries of more specific [W3C P3P-Complient Privacy Policies](http://www.w3.org/TR/2002/PR-P3P-20020128/) for the Forums, Store, and the remainder of the web site are available at those locations from within the view privacy of the Microsoft Internet Explorer version 6 or greater browsers IE6).  Furthermore, this web site has implemented [ Compact Privacy Policies](http://www.w3.org/TR/2002/PR-P3P-20020128/) of those parts of the web site that make use of cookies (see below) in the [http headers](https://web.archive.org/web/20031206074641id_/http%3A//www.duxcw.com/faq/webmastr/privhttp.htm) of the affected pages.  The specific privacy policies and compact privacy policies were generated with the [IBM P3P Policy Editor](http://www.alphaworks.ibm.com/tech/p3peditor) (Beta 1.10, generated 2/19/02).  The compact privacies were validated with the editor and are considered satisfactory (by it) according to the rules defined by IE6.  IE6 will accept cookies accompanied by these policies under the High, Medium High, Medium, Low, and Accept All Cookies settings.  In other words, this web site is [W3C P3P-Complient](http://www.w3.org/TR/2002/PR-P3P-20020128/) and IE6-complient.
+**Compliance**.  Summaries of more specific [W3C P3P-Complient Privacy Policies](http://www.w3.org/TR/2002/PR-P3P-20020128/) for the Forums, Store, and the remainder of the web site are available at those locations from within the view privacy of the Microsoft Internet Explorer version 6 or greater browsers IE6).  Furthermore, this web site has implemented [ Compact Privacy Policies](http://www.w3.org/TR/2002/PR-P3P-20020128/) of those parts of the web site that make use of cookies (see below) in the [http headers](https://web.archive.org/web/20040607022348id_/http%3A//duxcw.com/faq/webmastr/privhttp.htm) of the affected pages.  The specific privacy policies and compact privacy policies were generated with the [IBM P3P Policy Editor](http://www.alphaworks.ibm.com/tech/p3peditor) (Beta 1.10, generated 2/19/02).  The compact privacies were validated with the editor and are considered satisfactory (by it) according to the rules defined by IE6.  IE6 will accept cookies accompanied by these policies under the High, Medium High, Medium, Low, and Accept All Cookies settings.  In other words, this web site is [W3C P3P-Complient](http://www.w3.org/TR/2002/PR-P3P-20020128/) and IE6-complient.
 
 **Caveat**.  The concept of a Compact Privacy Policy and the implementation of it by IE6 are seriously flawed.  By being compact it summarizes a site's policy in a very granular way, which may obscure the finer points of the policy.  Our Compact Privacy Policy is a summary of our overall and specific policies as interpreted by the IBM P3P policy editor, and nothing else.  We have no control over IE 6 and any interpretation it makes of that Compact Policy and the User's browser settings.  That is an interpretation made by those elements, not us.  We are not therefore responsible for any results that it may produce and such results may not exactly match our written Privacy Policy contained herein.  It certainly doesn't and can't match it verbatim.  The Privacy Policy summaries viewable from IE6 have a similar weakness, but, perhaps, to a lesser degree.  Therefore, any interpretation of our Privacy Policy beyond this document or out of the context of this document should not be construed as the official Privacy Policy of this web site.  That policy is contained in this document and nowhere else.
+
+Notice: Dux Computer Works and Digest will not give, sell, or otherwise transfer e-mail addresses maintained by this web site or online service to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages.
 
 |   
 ---|---|---
