@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2003-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031114002818id_/http%3A//www.ceoexpress.com/Html/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605070900id_/http%3A//www.ceoexpress.com/Html/Privacy.asp) for the most accurate reproduction.*
 
 # CEOExpress - Privacy Policy
 
@@ -67,4 +67,4 @@ If you have any questions, comments or concerns about our Privacy Policy, please
 
 This Privacy Policy was last updated on April 2, 2001. 
 
-[Learn more](http://www.ceoexpress.com/asp/select_tellmemore4.asp) about upgrading to CEOExpressSelectsm: [ Take a Peek](https://web.archive.org/web/20031114002818id_/http%3A//www.ceoexpress.com/asp/selectdemo.asp) | [Upgrade Now](https://web.archive.org/web/20031114002818id_/http%3A//www.ceoexpress.com/asp/upgrade.asp)
+[Learn more](http://www.ceoexpress.com/asp/select_tellmemore4.asp) about upgrading to CEOExpressSelectsm: [ Take a Peek](https://web.archive.org/web/20040605070900id_/http%3A//www.ceoexpress.com/asp/selectdemo.asp) | [Upgrade Now](https://web.archive.org/web/20040605070900id_/http%3A//www.ceoexpress.com/asp/upgrade.asp)
