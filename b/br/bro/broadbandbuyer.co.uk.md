@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the broadbandbuyer.co.uk privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217174234id_/http%3A//www.broadbandbuyer.co.uk/Shop/PageTextDetail.asp%3FSetID%3D4%26TextID%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandbuyer.co.uk privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626144453id_/http%3A//broadbandbuyer.co.uk/Shop/PageTextDetail.asp%3FSetID%3D4%26TextID%3D38) for the most accurate reproduction.*
 
 # Broadbandbuyer.co.uk | Privacy Policy
-
-  | 
 
 Privacy Policy
 
@@ -19,5 +17,3 @@ FAO: Customer Services
 The Old Barn Pitcher  
 Lane Loughton  
 Milton Keynes MK5 8AU 
-
-|  
