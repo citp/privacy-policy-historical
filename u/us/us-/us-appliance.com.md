@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2004-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040503043829id_/http%3A//us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207042703id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
-[](https://www.truste.org/ivalidate.php?url=www.us-appliance.com)
+[](http://www.truste.org/ivalidate.php?url=www.us-appliance.com)
 
 **Privacy Statement for US Appliance**
 
@@ -39,3 +39,5 @@ jan.com, inc.
 4140 South Lapeer Road  
 Orion, MI 48359  
 help@us-appliance.com
+
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php).
