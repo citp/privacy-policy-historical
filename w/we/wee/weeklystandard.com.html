@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weeklystandard.com privacy policy that was archived on 2002-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020201230946id_/http%3A//weeklystandard.com/misc/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weeklystandard.com privacy policy that was archived on 2002-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021113082829id_/http%3A//www.weeklystandard.com/misc/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>The Weekly Standard Privacy Policy</title>
@@ -9,7 +9,7 @@
 <!--
 
 	nn = 0;
-	nn6 = 0;
+	w3 = 0;
 	ie = 0;
 	menuShown = 0;
 
@@ -18,13 +18,28 @@
 	function init()
 	{
 	
+		// preload rollover images
 		preloadImages();
-
-		if ( document.getElementById ) { nn6 = 1; menu = document.getElementById('infomenu').style }
-		if ( document.infomenu ) { nn = 1; menu = document.infomenu; }
-		if ( document.all ) { ie = 1; menu = document.all.infomenu.style; }
 		
-		// alert( "Debuggin': nn=" + nn + "; nn6=" + nn6 + "; ie=" + ie );
+		// identify the DOM
+		if ( document.getElementById )
+		{
+			// looks like IE6 or w3 (W3C-compliant)
+			w3 = 1;
+			menu = document.getElementById('infomenu').style;
+		}
+		else if ( document.infomenu )
+		{
+			// looks like NN pre-6.0
+			nn  = 1;
+			menu = document.infomenu;
+		}
+		else if ( document.all )
+		{
+			// looks like IE pre-6.0
+			ie  = 1;
+			menu = document.all.infomenu.style;
+		}
 		
 	}
 
@@ -38,7 +53,7 @@
 
 		// the rollover images will be loaded into ar[]
 		var ar = new Array();
-		var arguments = new Array( '/images/n_home_hi.gif','/images/n_subscribe_hi.gif','/images/n_theweeklystandard_hi.gif','/images/n_thedailystandard_hi.gif','/images/n_info_hi.gif','/images/n_search_hi.gif','/images/n_subscribersonly_hi.gif' );
+		var arguments = new Array( '/images/n_home_hi.gif','/images/n_subscribe_hi.gif','/images/n_theweeklystandard_hi.gif','/images/n_thedailystandard_hi.gif','/images/n_info_hi.gif','/images/n_search_hi.gif','/images/n_subscribersonly_hi.gif', '/images/n_renew_hi.gif' );
 		for (var i = 0; i < arguments.length; i++)
 		{
 			ar[i] = new Image();
@@ -72,7 +87,7 @@
 			menu.visibility = "show";
 		}
 		
-		if ( nn6 == 1 )
+		if ( w3 == 1 )
 		{
 			menu.visibility = "visible";
 		}
@@ -101,7 +116,7 @@
 			menu.visibility = "hidden";
 		}
 
-		if ( nn6 == 1 )
+		if ( w3 == 1 )
 		{
 			menu.visibility = "hidden";
 		}
@@ -116,7 +131,6 @@
 <!-- BODY TAG IN HEADER INCLUDE -->
 
 <!-- begin header include -->
-
 
 
 
@@ -150,40 +164,44 @@
 	<tbody><tr>
 		<td width="96">
 			<a href="/SubscribersOnly.asp">
-				
-			  <img src="/Content/Public/Images/Thumbnails/07_20cvrb.jpg" width="96" height="127" border="0">
+			  <img src="/Content/Public/Images/Thumbnails/08_10cvr.jpg" width="96" height="127" border="0">
 			</a>
 		</td>
-		<td width="266" valign="top">
+
+<!-- 		<td width="266" valign="top"> -->
+
+		<td valign="top">
 			<img src="/Images/OnNewsstandsNow.gif" alt="On Newsstands NOW!" width="137" height="52">
-		</td>
-		<td width="398" align="right">
-			<a href="/default.asp"><img src="/images/biglogo.jpg" width="398" height="120" border="0"></a>
-			<!--<a href="/default.asp"><img src="/images/biglogo.jpg" WIDTH="398" HEIGHT="120" border="0"></a>-->
-		</td>
+      </td>
+
+		
+		<td width="398" valign="bottom" align="right">
+			<a href="/default.asp"><img src="/images/mainlogo.jpg&#10;&#9;&#9;&#9;" border="0"></a><br><img src="/images/spacer.gif" width="1" height="5"></td>
 	</tr>
 	<tr>
 		<td colspan="3">
 		
-						<table width="760" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td><img src="/images/n_leftcap.gif" width="29" height="19"></td>
-					<td><a href="/default.asp" onmouseover="document.home.src='/images/n_home_hi.gif';" onmouseout="document.home.src='/images/n_home.gif';"><img name="home" src="/images/n_home.gif" alt="Home" border="0" width="41" height="19"></a></td>
-					<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
-					<td><a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=WSTD&amp;iResponse=WSTD.NEW" onmouseover="document.subscribe.src='/images/n_subscribe_hi.gif';" onmouseout="document.subscribe.src='/images/n_subscribe.gif';"><img name="subscribe" src="/images/n_subscribe.gif" alt="Subscribe" border="0" width="72" height="19"></a></td>
-					<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
-					<td><a href="/weekly/weekly.asp" onmouseover="document.tws.src='/images/n_theweeklystandard_hi.gif';" onmouseout="document.tws.src='/images/n_theweeklystandard.gif';"><img name="tws" src="/images/n_theweeklystandard.gif" alt="The Weekly Standard" border="0" width="148" height="19"></a></td>
-					<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
-					<td><a href="/daily/daily.asp" onmouseover="document.tds.src='/images/n_thedailystandard_hi.gif';" onmouseout="document.tds.src='/images/n_thedailystandard.gif';"><img name="tds" src="/images/n_thedailystandard.gif" alt="The Daily Standard" border="0" width="133" height="19"></a></td>
-					<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
-					<td><a href="javascript:clickInfo();" onmouseover="document.info.src='/images/n_info_hi.gif';" onmouseout="document.info.src='/images/n_info.gif';"><img name="info" src="/images/n_info.gif" alt="Info" border="0" width="30" height="19"></a></td>
-					<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
-					<td><a href="/Search/Search.asp" onmouseover="document.search.src='/images/n_search_hi.gif';" onmouseout="document.search.src='/images/n_search.gif';"><img name="search" src="/images/n_search.gif" alt="Search" border="0" width="50" height="19"></a></td>
-					<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
-					<td><a href="/SubscribersOnly.asp" onmouseover="document.subs.src='/images/n_subscribersonly_hi.gif';" onmouseout="document.subs.src='/images/n_subscribersonly.gif';"><img name="subs" src="/images/n_subscribersonly.gif" alt="Subscribers Only" border="0" width="122" height="19"></a></td>
-					<td><img src="/images/n_rightcap.gif" width="27" height="19"></td>
-				</tr>
-			</tbody></table>
+			<table width="760" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><img src="/images/n_leftcap.gif" width="29" height="19"></td>
+		<td><a href="/default.asp" onmouseover="document.home.src='/images/n_home_hi.gif';" onmouseout="document.home.src='/images/n_home.gif';"><img name="home" src="/images/n_home.gif" alt="Home" border="0" width="41" height="19"></a></td>
+		<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
+  
+		<td><a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=WSTD&amp;iResponse=WSTD.NEW" onmouseover="document.subscribe.src='/images/n_subscribe_hi.gif';" onmouseout="document.subscribe.src='/images/n_subscribe.gif';"><img name="subscribe" src="/images/n_subscribe.gif" alt="Subscribe" border="0" width="72" height="19"></a></td>
+	
+		<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
+		<td><a href="/weekly/weekly.asp" onmouseover="document.tws.src='/images/n_theweeklystandard_hi.gif';" onmouseout="document.tws.src='/images/n_theweeklystandard.gif';"><img name="tws" src="/images/n_theweeklystandard.gif" alt="The Weekly Standard" border="0" width="148" height="19"></a></td>
+		<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
+		<td><a href="/daily/daily.asp" onmouseover="document.tds.src='/images/n_thedailystandard_hi.gif';" onmouseout="document.tds.src='/images/n_thedailystandard.gif';"><img name="tds" src="/images/n_thedailystandard.gif" alt="The Daily Standard" border="0" width="133" height="19"></a></td>
+		<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
+		<td><a href="javascript:clickInfo();" onmouseover="document.info.src='/images/n_info_hi.gif';" onmouseout="document.info.src='/images/n_info.gif';"><img name="info" src="/images/n_info.gif" alt="Info" border="0" width="30" height="19"></a></td>
+		<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
+		<td><a href="/Search/FreeSearch.asp" onmouseover="document.search.src='/images/n_search_hi.gif';" onmouseout="document.search.src='/images/n_search.gif';"><img name="search" src="/images/n_search.gif" alt="Search" border="0" width="50" height="19"></a></td>
+		<td><img src="/images/n_bullet.gif" width="18" height="19"></td>
+		<td><a href="/SubscribersOnly.asp" onmouseover="document.subs.src='/images/n_subscribersonly_hi.gif';" onmouseout="document.subs.src='/images/n_subscribersonly.gif';"><img name="subs" src="/images/n_subscribersonly.gif" alt="Subscribers Only" border="0" width="122" height="19"></a></td>
+		<td><img src="/images/n_rightcap.gif" width="27" height="19"></td>
+	</tr>
+</tbody></table>
 
 			
 		</td>	
@@ -269,6 +287,7 @@
 
 <br>
 
+
 <table width="760" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>
@@ -278,7 +297,9 @@
 			<p align="center"><a href="/Search/Search.asp" class="footer">Search</a> &nbsp; <a href="http://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=WSTD&amp;iResponse=WSTD.NEW" class="footer">Subscribe</a> &nbsp; <a href="/SubscribersOnly.asp" class="footer">Subscribers Only</a> &nbsp; <a href="/misc/faq.asp" class="footer">FAQ</a> &nbsp; <a href="/advertising/default.asp" class="footer">Advertise</a> &nbsp; <a href="http://www.spaldinggroupgop.com/cgi-bin/SoftCart.exe/scstore/WeeklyStandard/WeeklyFrames.htm?E+scstore" class="footer">Store</a> &nbsp; <a href="/Newsletter/RequestForm.asp" class="footer">Newsletter</a><br>
 			<a href="/misc/weblinks.asp" class="footer">Web Links</a> &nbsp; <a href="/misc/contactus.asp" class="footer">Contact</a> &nbsp; <a href="/aboutus/default.asp" class="footer">About Us</a> &nbsp; <a href="/misc/services.asp" class="footer">Services</a> &nbsp; <a href="/misc/sitemap.asp" class="footer">Site Map</a> &nbsp; <a href="/misc/privacy.asp" class="footer">Privacy Policy</a> &nbsp; <a href="http://capwiz.com/weeklystandard" target="new" class="footer">Voter Services</a></p>
 									
-			<p align="center" class="footer">© Copyright 2001, <a href="http://www.newscorp.com/" target="new">News Corporation</a>, Weekly Standard, All Rights Reserved.</p>
+			<p align="center" class="footer">© Copyright 2002, <a href="http://www.newscorp.com/" target="new">News Corporation</a>, Weekly Standard, All Rights Reserved.</p>
+			
+			<p align="center"><a href="http://www.susqtech.com/" target="_blank"><img src="/images/developed_by_susqtech.gif" border="0" width="158" height="21"></a></p>
 			
 		</td>
 	</tr>
