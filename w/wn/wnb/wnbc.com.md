@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wnbc.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215165450id_/http%3A//www.wnbc.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnbc.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621060542id_/http%3A//www.wnbc.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # wnbc.com - News - Online Privacy Statement
 
-**Online Privacy Statement**
-
-The policy set forth below is applicable to this site and to all of the station web sites operated by Internet Broadcasting Systems, Inc. on behalf of National Broadcasting, Inc., including WJAR-TV(Providence, RI) turnto10.com; WNCN-TV (Raleigh, NC) nbc17.com; WCMH-TV (Columbus, OH) nbc4columbus.com; KNSD-TV (San Diego, CA), nbcsandiego.com; WMAQ-TV (Chicago, IL) nbc5.com; WRC-TV (Washington, D.C.) nbc4.com; KNBC-TV (Los Angeles, CA) nbc4.tv; WNBC-TV (New York, NY) wnbc.com; WCAU-TV (Philadelphia, PA) nbc10.com; WTVJ-TV (Miami, FL) nbc6.net; WVTM-TV (Birmingham, AL) nbc13.com; KXAS-TV (Dallas/Fort Worth, TX) nbc5i.com; WVIT (Hartford, CT) nbc30.com; KNTV (San Jose, CA) nbc3.com.
+The policy set forth below is applicable to this site and to all of the station web sites operated by Internet Broadcasting Systems, Inc. on behalf of National Broadcasting, Inc., including WJAR-TV(Providence, RI) turnto10.com; WNCN-TV (Raleigh, NC) nbc17.com; WCMH-TV (Columbus, OH) nbc4columbus.com; KNSD-TV (San Diego, CA), nbcsandiego.com; WMAQ-TV (Chicago, IL) nbc5.com; WRC-TV (Washington, D.C.) nbc4.com; KNBC-TV (Los Angeles, CA) nbc4.tv; WNBC-TV (New York, NY) wnbc.com; WCAU-TV (Philadelphia, PA) nbc10.com; WTVJ-TV (Miami, FL) nbc6.net; WVTM-TV (Birmingham, AL) nbc13.com; KXAS-TV (Dallas/Fort Worth, TX) nbc5i.com; WVIT (Hartford, CT) nbc30.com; KNTV (San Jose, CA) nbc11.com.
 
 If you have any questions about this privacy policy, about information gathered by this site, or about the operation of this site, please contact us at security@ibsys.com. 
 
@@ -22,13 +20,13 @@ Personal data is collected when users provide personal data to the site, for exa
 
 **Aggregated Information**
 
-Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or site registrations, is collected through various methods. For example, we collect IP addresses. An IP address is a number that is automatically assigned to your computer whenever you’re surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to the site. We collect IP addresses for the purposes of system administration and to provide aggregate data to advertisers about the volume of use on the site.
+Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or site registrations, is collected through various methods. For example, we collect IP addresses. An IP address is a number that is automatically assigned to your computer whenever youre surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to the site. We collect IP addresses for the purposes of system administration and to provide aggregate data to advertisers about the volume of use on the site.
 
 **Use of Cookies**
 
 Our site also uses "cookies" to collect information. A cookie is a small data file that most major websites write into your hard drive for record keeping purposes when you visit them. Cookies allow a website to measure activity on their site and to improve your user experience, for example by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the site without re-registering. We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except for personal information voluntarily provided by you (i.e. during membership registration or a contest), we do not use information transferred through cookies for any promotional or marketing purposes, and that information is not shared with third parties.
 
-You may occasionally get cookies from advertisers on the site, which is standard on the Internet. These cookies are outside the control of our site, and are not subject to our privacy policy. Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the member-only areas and shopping, contest and game areas, will not function properly if you do so.
+You may occasionally get cookies from advertisers on the site, which is standard on the Internet. These cookies are outside the control of our site, and are not subject to our privacy policy. Most browsers are initially set to accept cookies. If youd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the member-only areas and shopping, contest and game areas, will not function properly if you do so.
 
 **Use of Information Collected by Our Site**
 
@@ -50,7 +48,7 @@ No information should be submitted to or posted on the site by users under the a
 
 **Individuals 13 Through 17**
 
-We request that children under the age of 18 do not submit or post information to the site without a parent or guardian’s consent. The site may collect information, including personally identifying information, from users between the ages of 13 and 17, and this information may be used for marketing and promotional purposes by the site and which may be shared with prescreened third parties, with the permission of the user. A user or their parent or guardian may stop the use - either by e-mail request or by modifying his/her registration information online as described above in "Use of Information Collected by The Site."
+We request that children under the age of 18 do not submit or post information to the site without a parent or guardians consent. The site may collect information, including personally identifying information, from users between the ages of 13 and 17, and this information may be used for marketing and promotional purposes by the site and which may be shared with prescreened third parties, with the permission of the user. A user or their parent or guardian may stop the use - either by e-mail request or by modifying his/her registration information online as described above in "Use of Information Collected by The Site."
 
 **Message Board and Chat**
 
@@ -58,7 +56,7 @@ Please remember that information posted to message boards and chat areas becomes
 
 **Links to Other Sites**
 
-It is important to note that this site contains links to other sites, and that those sites may not follow the same privacy policies as our site. For instance, if you click on an advertisement on the site, this will take you away from the site and to an entirely different site. This can include links from advertisers, content providers and partners who may use the sites’ logo and or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that the sites would not.
+It is important to note that this site contains links to other sites, and that those sites may not follow the same privacy policies as our site. For instance, if you click on an advertisement on the site, this will take you away from the site and to an entirely different site. This can include links from advertisers, content providers and partners who may use the sites logo and or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that the sites would not.
 
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY.
 
@@ -68,11 +66,3 @@ We reserve the right to change this policy at any time by posting a revised priv
   
   
 
-
-  
-
-
-**wnbc.com WeatherBug**  
-Real-time weather conditions direct to your computer!  
-[](http://ww3.weatherbug.com/wnbc/)  
-[ **Get the Bug Now!**](http://ww3.weatherbug.com/wnbc/)
