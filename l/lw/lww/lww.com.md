@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204191448id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624184637id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
 
-# Lippincott Williams & Wilkins
+# Lippincott Williams & Wilkins Privacy Policy & Statement
 
 **LWW.com does not share or sell any individual's contact information, financial information, or unique identifiers to any advertiser or third party.**
+
+ **When you supply your  
+e-mail address, we use it to confirm your order, provide requested information, and otherwise respond to your communication.**
 
 Privacy Policy for LWW
 
@@ -38,7 +41,7 @@ How does LWW use the information I provide online?
 
 The information we collect from **general browsing** allows us to see which areas of our web site are most visited and helps us better understand our visitors' experiences at LWW.com. With this information, we are also able to provide you with product recommendations based upon prior selections of customers. In the process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected.
 
-The **personal information** we collect will allow us to present you with a more customized experience on LWW.com, including offers that relate to the specialty you select, search results presented first by your designated specialty, and faster checkout. The information is also used to send you order confirmations and information about Lippincott Williams & Wilkins. Unique identifiers (such as e-mail address and password) are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. 
+The **personal information** we collect will allow us to present you with a more customized experience on LWW.com, including offers that relate to the specialty you select, search results presented first by your designated specialty, and faster checkout. The information is also used to send you order confirmations and information about Lippincott Williams & Wilkins. Unique identifiers (such as e-mail address and password) are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. When you supply your e-mail address, we use it to confirm your order, provide requested information, and otherwise respond to your communication. 
 
 Does LWW.com share or sell my information with third parties?
 
