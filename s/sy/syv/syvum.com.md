@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617082627id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2000-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001015181245id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Syvum Privacy Policy
 
@@ -44,15 +44,22 @@ By using this site, you signify your assent to the Syvum Privacy Policy. If you 
 
 Thank you for your support of these policies and of Syvum Technologies. 
 
+**Become a[member](https://web.archive.org/members/benefits.html) of the Syvum Clubs to receive activities and lessons from this site by email everyday or every week. It is FREE.**
+
 * * *
+
+Advertisement  
+  
+[](http://leader.linkexchange.com/1/X1293952/clicklogo)  
+
 
 * * *
 
 | **SYVUM** | **Education Online** | **Educational Software** | **Family Fun Zone** | **Articles**  
 ---|---|---|---|---  
-[Home](https://web.archive.org/) | [Index](https://web.archive.org/online/) | [Index](https://web.archive.org/kids/software.html) | [Index](https://web.archive.org/family/) | [Index](https://web.archive.org/literature/index.html)  
-[Site Map](https://web.archive.org/sitemap.html) | [English](https://web.archive.org/online/english.html) | [English](https://web.archive.org/kids/english.html) | [Kids](https://web.archive.org/family/family.html#kids) | [SyvumBook](https://web.archive.org/technology/syvumbook.html)  
-[FAQ](https://web.archive.org/faq.html) | [Math](https://web.archive.org/online/math.html) | [Math](https://web.archive.org/kids/math.html) | [Teens](https://web.archive.org/family/family.html#teens) | [Teaching](https://web.archive.org/literature/teachers.html)  
-[Contact Us](https://web.archive.org/contact.html) |  | [Word Problems](https://web.archive.org/kids/word_problems.html) | [Women](https://web.archive.org/family/family.html#women) | [Games](https://web.archive.org/literature/game.html)  
-[AWARDS](https://web.archive.org/kids/awards.html) |  | [**Free Downloads**](https://web.archive.org/download.html) | [College Students](https://web.archive.org/family/family.html#students) | [Homeschooling](https://web.archive.org/literature/homeschool.html)  
-[**Secure Online Shopping**](https://web.archive.org/webshop/shop.html)             [**Register NOW!**](https://web.archive.org/members/register.html)             [**Syvum Kids Club**](https://web.archive.org/members/kids.html)
+[Home](https://web.archive.org/) | [GRE](https://web.archive.org/gre/) | [Index](https://web.archive.org/kids/software.html) | [Index](https://web.archive.org/family/) | [Index](https://web.archive.org/literature/index.html)  
+[Web Shop](https://web.archive.org/webshop/shop.html) | [Kids English](https://web.archive.org/online/english.html) | [Kids English](https://web.archive.org/kids/english.html) | [Quizzes](https://web.archive.org/quiz/) | [SyvumBook](https://web.archive.org/technology/syvumbook.html)  
+[FAQ](https://web.archive.org/faq.html) | [Kids Math](https://web.archive.org/online/math.html) | [Kids Math](https://web.archive.org/kids/math.html) | [Brain Teasers](https://web.archive.org/teasers/) | [Teaching](https://web.archive.org/literature/teachers.html)  
+[Contact Us](https://web.archive.org/contact.html) | [English Proverbs](https://web.archive.org/proverbs/) | [Word Problems](https://web.archive.org/kids/word_problems.html) | [Proverbs](https://web.archive.org/proverbs/) | [Games](https://web.archive.org/literature/game.html)  
+[**AWARDS**](https://web.archive.org/kids/awards.html) | [Math Puzzles](https://web.archive.org/teasers/) | [**Free Downloads**](https://web.archive.org/download.html) | [Recipes](https://web.archive.org/recipes/) | [Homeschooling](https://web.archive.org/literature/homeschool.html)  
+[**Secure Online Shopping**](https://web.archive.org/webshop/shop.html)             [**Register NOW!**](https://web.archive.org/members/register.html)             [**Syvum Kids Club**](https://web.archive.org/members/)
