@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2001-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010412042816id_/http%3A//onlysimchas.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215175649id_/http%3A//www.onlysimchas.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
-# OnlySimchas.com
+# OnlySimchas.com :: Privacy Policy
 
 ## Privacy Statement for http://www.onlysimchas.com
 
@@ -37,7 +37,7 @@ Our site provides users with the opportunity to opt-out of receiving communicati
 This site gives users the following options for removing their information from our database so as not to receive future communications from our service or to no longer receive our service. 
 
   1. Visit [Opt-out Section (http://www.onlysimchas.com/optout)](http://www.onlysimchas.com/optout)
-  2. email [support@msidg.com](mailto:support@msidg.com)
+  2. E-mail [Technical Support](https://web.archive.org/index.cfm?fuseaction=email&to=support)
 
 
 
@@ -46,13 +46,13 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided: 
 
   1. Visit [Members-Only Section (http://www.onlysimchas.com/members)](http://www.onlysimchas.com/members)
-  2. email [support@msidg.com](mailto:support@msidg.com)
+  2. E-mail [Technical Support](https://web.archive.org/index.cfm?fuseaction=email&to=support)
 
 
 
 ##  Legal Exceptions to the Rules
 
-Only in the case of our good-faith belief that the law requires it, or to protect your or **www.onlysimchas.com** 's rights or property, will we disclose customer information to proper law enforcement authorities even though you might have sent us an email requesting that we don't share your information. This information may be necessary to identify, contact, or bring legal action against anyone who may attempt to cause injury to another's rights or property. 
+Our commitment to your privacy is directly contingent on your commitment to our [terms of service](https://web.archive.org/web/20021215175649id_/http%3A//www.onlysimchas.com/index.cfm/fuseaction/tos). In the case of our good-faith belief that the law requires it, or to protect your or **www.onlysimchas.com** 's rights or property, will we disclose customer information to proper law enforcement authorities and/or system administrators even though you might have sent us an email requesting that we don't share your information. This information may be necessary to identify, contact, or bring legal action against anyone who may attempt to cause injury to another's rights or property. 
 
 ## Contacting the Web Site
 
@@ -61,6 +61,6 @@ If you have any questions about this privacy statement, the practices of this si
 > Onlysimchas.com, Inc.  
 >  411 Hackensack Ave  
 >  Fourth Floor  
->  Hackensack, NJ 07601  
->  [support@onlysimchas.com](mailto:support@onlysimchas.com)  
+>  Hackensack, NJ 07601
 > 
+> [Contact Us](https://web.archive.org/index.cfm?fuseaction=email&to=support)
