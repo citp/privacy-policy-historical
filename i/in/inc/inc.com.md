@@ -96,3 +96,48 @@ Inc. Online logs the IP addresses of its visitors for internal analysis.
 The Inc. Online Web site and databases are maintained by the staff of Inc. Online and Goldhirsh Group, Inc. at offices in Boston and New York. 
 
 Last updated: November 10, 1998
+The following explains how __ inc.com collects information from you and what we do with it.
+
+**
+
+Information Requests
+
+**
+
+You will need to register with inc.com™ in order to visit certain areas on the site and will be asked to provide your E-mail address if you wish to receive newsletters. You will also be asked for your E-mail address and other identifying information if you wish either to make purchases from inc.com or to contact any Solutions Provider. In addition, you will be asked for information that proves you are a subscriber to Inc. magazine if you wish to gain access through the site to the latest issue of the magazine.
+
+Inc.com may, unless you indicate otherwise, use member E-mail addresses to send additional information and product promotions. Inc.com also shares registration information with Solutions Providers and, in turn, receives information from them on transactions which you enter into with them. This information may be used to identify users to whom inc.com sends additional information and product promotions. Inc.com does not otherwise provide the identifying information we collect from you to third parties.
+
+Inc.com does not collect E-mail addresses of visitors to bulletin boards, from those who create BizCards, from those who correspond with us through E-mail, or from inc.com-hosted Web sites. Marketers unaffiliated with inc.com often collect E-mail addresses of those who choose to participate in public forums hosted by inc.com of those who create BizCards, but inc.com cannot control their doing so.
+
+Inc.com does collect information in aggregate form that we may provide to advertisers and others. If and when this is done, inc.com will not include any identifiable individual information. This compilation of data may be used for various internal business purposes and may be made available to members in the _Smart Statements_ they may receive. 
+
+**_
+
+Credit Card Transactions
+
+_**
+
+If you use your credit card to purchase products or services from inc.com, the transactions will be carried out through a secure server using 40-bit SSL. You will be able to tell that you are using a secure server for the transaction because the web address will begin with "https" (the added "s" indicates that the transaction is secure). Your credit card information will be used by us only to complete the transaction.
+
+**_
+
+Cookies
+
+_**
+
+All visitors to inc.com are issued a "cookie"—a small text file that inc.com places on your hard drive in order to prevent your repeatedly seeing the same ads or being asked to register more than once. Cookies are also used to authenticate your identity. We have asked Solutions Providers to issue a cookie to visitors who have been referred to them through the inc.com site. This will allow you to be recognized as an inc.com customer and enable each Solution Provider to monitor its transactions with inc.com customers and report that information to us.
+
+A cookie is specific to the server that delivered it and cannot be used by others to track your activities on the web. No cookie delivered by inc.com will interfere with the operation of your computer.
+
+**_
+
+Various
+
+_**
+
+We have endeavored to have Solutions Providers adopt appropriate privacy and security policies, but inc.com cannot control their actions or be responsible for their use of information that you provide to them. You should inform yourself concerning the privacy policy of each Solutions Provider with whom you deal. For a fuller description of their relationship with inc.com, click on [Solutions Provider](https://web.archive.org/about/business_relationships). For a disclaimer of inc.com’s responsibility for Solution Providers’ products, services and actions, see [Legal Disclaimers/Solutions Providers](https://web.archive.org/about/legal).
+
+inc.com has taken reasonable steps to limit the uses of information provided by you to those described in this Privacy Statement but it cannot guarantee that the information will be immune to exposure because of technical problems or the deliberate actions of unauthorized intruders into the Web site.
+
+inc.com is committed to maintain the trust of our users. If you have any questions or concerns about the privacy or security of any information that you have provided to inc.com, [contact us](https://web.archive.org/about/contact). 
