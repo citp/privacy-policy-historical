@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfas.mil privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607103826id_/http%3A//www.dfas.mil/warning.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfas.mil privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204003140id_/http%3A//www.dfas.mil/warning.htm) for the most accurate reproduction.*
 
 # DFAS Privacy and Security Notice
 
