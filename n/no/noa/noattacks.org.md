@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noattacks.org privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802061712id_/http%3A//www.noattacks.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noattacks.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604035241id_/http%3A//www.noattacks.org/privacy.html) for the most accurate reproduction.*
 
 # noattacks.org
 
