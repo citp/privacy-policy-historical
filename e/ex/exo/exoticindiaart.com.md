@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202221445id_/http%3A//exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605194424id_/http%3A//exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
 # Indian Arts: Exotic India
 
@@ -23,7 +23,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   * You can send email to **[unsubscribe@exoticindia.com](mailto:unsubscribe@exoticindia.com)**
-  * You can visit the following URL: **[http:// www.exoticindiaart.com /unsubscribe.php3](http://www.exoticindiaart.com/unsubscribe.php3)**
+  * You can visit the following URL: **[http:// exoticindiaart.com /unsubscribe.php3](http://exoticindiaart.com/unsubscribe.php3)**
 
 
 
