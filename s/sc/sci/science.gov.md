@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the science.gov privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029102411id_/http%3A//www.science.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the science.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602110956id_/http%3A//www.science.gov/disclaimer.html) for the most accurate reproduction.*
 
-# science.gov
+# science.gov Privacy and Security
 
 ## Privacy, Security, Accessibility, and Disclaimer Notices
 
