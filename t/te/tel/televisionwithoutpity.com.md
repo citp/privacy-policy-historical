@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607155227id_/http%3A//www.televisionwithoutpity.com/base.cgi%3Ffile%3Dmisc/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208082255id_/http%3A//www.televisionwithoutpity.com/base.cgi%3Ffile%3Dmisc/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Television Without Pity » Privacy Policy
 
