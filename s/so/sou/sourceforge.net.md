@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008152129id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606052242id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
 
 # SourceForge.net: A5. SourceForge.net Privacy Statement
 
@@ -82,6 +82,6 @@
   
 Return to the top of this page.
 
-© Copyright 2002, 2003 Open Source Development Network. All rights reserved.
+© Copyright 2002-2004 Open Source Development Network. All rights reserved.
 
 | 
