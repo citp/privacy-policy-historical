@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2004-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040210124705id_/http%3A//www.coventry.ac.uk/cms/jsp/polopoly.jsp%3Fd%3D104%26a%3D103) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2004-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041103140336id_/http%3A//www.coventry.ac.uk/cms/jsp/polopoly.jsp%3Fd%3D104%26a%3D103) for the most accurate reproduction.*
 
 # Coventry University - Privacy Statement
 
@@ -14,12 +14,12 @@ Coventry University's Website will process information about you in the followin
 
 Information about you will only be disclosed to relevant employees of Coventry University, and will not be revealed to third parties outside the University. 
 
-You have a right to ask for a copy of the information we hold on you at any time, and to have that information corrected if it is inaccurate.   
-Please email [j.howard@coventry.ac.uk](mailto:j.howard@coventry.ac.uk)   
-Summary of terms 
+You have a right to ask for a copy of the information we hold on you at any time, and to have that information corrected if it is inaccurate. For further details please see: [Procedure for Data Subject Access Requests](http://www.coventry.ac.uk/cms/jsp/polopoly.jsp?d=899&a=7309)
 
-Browser software used to locate and display Web pages   
-Cookies files stored on the user's machine which are designed to identify users and collect user information   
-IP address the Internet Protocol address is an identifier allocated to a computer using the Web. IP addresses may be static (a particular computer always has the same address) or dynamic (the address is different each time the computer connects to the Web) 
+  **Summary of terms**
 
-February 2002 
+Browser - software used to locate and display Web pages   
+Cookies - files stored on the user's machine which are designed to identify users and collect user information   
+IP address - the Internet Protocol address is an identifier allocated to a computer using the Web. IP addresses may be static (a particular computer always has the same address) or dynamic (the address is different each time the computer connects to the Web) 
+
+June 2004
