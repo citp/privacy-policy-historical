@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207045615id_/http%3A//www.babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307095012id_/http%3A//www.babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ BabyCentre will not collect any personal information about you except when you s
 
 If you register, you can also sign up to receive other offers and information from BabyCentre and other qualified companies. These qualified suppliers are prescreened organisations or companies whose products or services we believe are of interest to parents and parents-to-be. If you sign up to receive the offers but later decide you don't want them, then follow this [link](https://web.archive.org/register/unsubscribe) to unsubscribe to any mailings. Obviously we will not give your email address to these companies unless we obtain your consent.
 
-Our site has public areas such as message boards. Please remember that any information you share in these areas becomes public, so you should exercise caution when deciding to disclose your personal information. If you post comments about BabyCentre products or services on our site, there's a chance we may publish them for editorial purposes or in promotional advertising and/or marketing materials (especially if you say nice things about us).
+Our site has public areas such as message boards. Please remember that any information you share in these areas becomes public, so you should exercise caution when deciding to disclose your personal information. If you post comments about BabyCentre products or services on our site, there's a chance we may publish them for editorial purposes or in promotional advertising and/or marketing materials (especially if you say nice things about us). However, anything we do use will not identify you as an individual.
 
 **E-mail Services** Sign up [here ](https://web.archive.org/register) for free e-mail newsletters at BabyCentre including:
 
