@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003194801id_/http%3A//starbucks.co.uk/en-US/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603161109id_/http%3A//starbucks.co.uk/en-GB/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacypolicy
 
 Privacy Policy 
 
-(For **Terms of Use** [click here](http://starbucks.co.uk/en-US/Terms+of+use.htm))
+(For **Terms of Use** [click here](http://starbucks.co.uk/en-GB/Terms+of+use.htm))
 
-**Last updated July 2003**
+**Last updated  November 2003**
 
 The Starbucks name and reputation were built on a foundation of trust. Therefore, this online privacy policy tells you about the information Starbucks collects through the services available on our web site, Starbucks.co.uk (the "Site"), how we use that information and how you can opt out of certain uses of information we may collect. By using our services and accessing our Site, you are consenting to the information collection and use practices described in this policy, as modified from time to time by us. If we decide to change our privacy policy, we will post a new policy on our Site and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. Please see our Terms of Use for a more detailed legal explanation of our general online policies. 
 
@@ -30,8 +30,6 @@ If you are interested in applying for a job with Starbucks, we may collect your 
 ● Company Sale. Information collected through our Site is considered a trade secret of Starbucks. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets. 
 
 ● Curriculum Vitae.  Any Curriculum Vitae sent to us by you in response to a job application advertised on this Site shall be used for our own internal purposes in order to fill the position advertised on this site.  However, Starbucks may hold the Personal Information supplied by you for a reasonable period thereafter in order to notify you of any similar positions that may become available.  Any Personal Information collected by Starbucks will be stored in its internal databases, such as its Human Resources database for reference. The information may be retained and used by Starbucks for a reasonable period and in accordance with data retention requirements of the law. 
-
-Starbucks may share Personal Information with any of its group companies.
 
 In the event that you submit any Personal Information to the Site you can request to assess the Personal Information stored by Starbucks about you by emailing us at customercareuk@starbucks.com. Starbucks may charge up to the maximum amount permissible at any time for this.
 
