@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2000-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000606135332id_/http%3A//www.kvue.com/kvuepriv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203002700id_/http%3A//www.kvue.com/kvuepriv.html) for the most accurate reproduction.*
 
 # KVUE 24 Privacy Policy
 
