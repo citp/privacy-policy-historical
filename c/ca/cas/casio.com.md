@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casio.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606105120id_/http%3A//www.casio.com/helpdesk/index.cfm%3Fpage%3D/HelpDesk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casio.com privacy policy that was archived on 2002-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020214175742id_/http%3A//www.casio.com/helpdesk/index.cfm%3Fpage%3D/HelpDesk/privacy.htm) for the most accurate reproduction.*
 
 # Casio - The Unexpected Extra
 
@@ -62,7 +62,7 @@ Our Commitment To Data Security  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
  **How You Can Access Or Correct Your Information    
-**You can access all your personally identifiable information that we collect online and maintained by Casio through your “My Account” page (click here for more information regarding your account).  We use this method to allow you, the Casio member, to better maintain and safeguard your information. 
+**You can access all your personally identifiable information that we collect online and maintained by Casio through your “My Account” page ([click here](https://web.archive.org/helpdesk/index.cfm?page=/helpdesk/my_account.htm) for more information regarding your account).  We use this method to allow you, the Casio member, to better maintain and safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
