@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prague.tv privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606220756id_/http%3A//prague.tv/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prague.tv privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032221id_/http%3A//www.prague.tv/about/privacy.php) for the most accurate reproduction.*
 
 # Prague - Privacy Policy
 
