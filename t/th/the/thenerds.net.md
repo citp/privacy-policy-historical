@@ -1,0 +1,16 @@
+> *The following text is extracted and transformed from the thenerds.net privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201041358id_/http%3A//thenerds.net/privacy.asp) for the most accurate reproduction.*
+
+# TheNerds.net
+
+**Privacy**
+
+At **TheNerds.Net** , we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy Policy. This will give you a summary sketch about how information is collected from you and how it is used, but does not include all important information. You should read our complete privacy policy. For more information, please read our complete Privacy Policy by clicking here. 
+
+**Information Collected**  
+When you shop on our site, we collect personal information from you such as your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information and a password. We may also collect, or our third party ad server and content server will collect the URL you came from, IP address, domain types (e.g. .com or .org, etc.), your browser type, the country, state and telephone area code where your server is located, the pages of our site that were viewed during a visit, the advertisements you clicked, and any search terms that you entered on our site. 
+
+**How Information is Used**  
+We do not sell or rent your personal information to others. We use customer information we collect only for the purposes of filling orders, contacting purchasers to inform them of their order status, sending promotional information, enhancing the operation of our site, serving advertisements, for statistical purposes and to administer our systems. We may use third parties to help us fulfil orders, to help process payments, to provide customer service, to serve site content, to serve the advertisements you see on our site, to provide financing, to book travel purchases, to conduct surveys, to help administer promotional emails, to administer warranties purchased, and to administer drawings or contests. We give them access to the information needed to do their job. Sometimes that includes your personal information. Our computer system protects personal information using advanced firewall technology. 
+
+**Cookies**  
+We use cookies to help identify you when you visit our store and to customize your experience. The cookies contain randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our site. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. You will be unable to shop on our site without your browser set to accept cookies. We use an outside ad serving company to display banner advertisements on our site. As part of their service, they place a separate cookie on your computer. The ad server collects and uses your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server and whether you responded to a particular ad. We do not disclose your personal account information or any information about your purchases to our ad server. 
