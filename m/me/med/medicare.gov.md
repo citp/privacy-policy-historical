@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2000-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001119201600id_/http%3A//www.hcfa.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603164726id_/http%3A//www.hcfa.gov/privacy.htm) for the most accurate reproduction.*
 
 # HCFA Internet Privacy Policy
 
@@ -20,7 +20,7 @@ A cookie is a small piece of information that is sent to your browser -- along w
 **HCFA uses session cookies only. We do not use any persistent cookies.**
 
   * HCFA's Use of Cookies  
-You do not need to have cookies enabled to visit **_hcfa.gov_** or **_medicare.gov_**.
+You do not need to have cookies enabled to visit _**hcfa.gov**_ and _**medicare.gov**_.
 
 Cookies are used to remember your "screen reader" viewing preference on **_medicare.gov_**. If you do not have cookies enabled, you will have to choose "Screen Reader Version" on every page you visit. If you do have cookies enabled, your preference will be saved for the entire visit to the site. This preference will not be saved between site visits, however. 
 
@@ -32,7 +32,7 @@ We have set our software so that your browser will only return cookie informatio
 ### Data Collection
 
   * We may collect personally identifiable information (name, e-mail address, physical address, and other unique identifier) only if specifically and knowingly provided by you.
-  * Personally identifying information collected will be used only in connection with _**hcfa.gov**_ , _**medicare.gov**_ , or for such purposes as are described at the point of collection.
+  * Personally identifying information collected will be used only in connection with _**hcfa.gov**_ and _**medicare.gov**_ , or for such purposes as are described at the point of collection.
   * Information collected is for statistical purposes only. HCFA performs analyses of user behavior in order to measure customer interest in the various areas of our sites. HCFA also uses listservs to send out information and change notices to subscribed users of our sites.
   * HCFA will protect the personal information that you share with us. HCFA does not disclose, give, sell, or transfer any personal information to third parties. If we share demographic information with third parties, we will give them aggregate information only.
 
