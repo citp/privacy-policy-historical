@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205043114id_/http%3A//eidosinteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628050446id_/http%3A//eidosinteractive.com/privacy.html) for the most accurate reproduction.*
 
 # EidosInteractive.com
 
-| [](https://web.archive.org/web/20031205043114id_/http%3A//eidosinteractive.com/whatsnew.html)  
+| [](https://web.archive.org/web/20040628050446id_/http%3A//eidosinteractive.com/whatsnew.html)  
 ---  
 |  |   
 | 
 
-[New Deus Ex: Invisible War Trailer](http://www.eidosinteractive.com/downloads/search.html?gmid=125)
+[New Backyard Wrestling 2 Trailer. View it now!](http://www.eidosinteractive.com/downloads/search.html?gmid=148)
 
-[Whiplash ships to stores](http://www.eidosinteractive.com/corporate/pressinfo.html?prid=186)
+[Check out the Thief Playable Demo. Download it Now!](http://www.eidosinteractive.com/downloads/search.html?gmid=141)
 
-[New Backyard Wrestling Trailer](http://www.eidosinteractive.com/downloads/search.html?gmid=139)
+[New Thief Gameplay Trailer. View it now!](http://www.eidosinteractive.com/downloads/search.html?gmid=141)
 
-[Legacy of Kain Shipped! Web updates and new launch trailer.](http://www.eidosinteractive.com/downloads/search.html?gmid=142)
+[Singles Demo Available for Download Now! Click Here to Download the Demo](http://www.eidosinteractive.com/downloads/search.html?gmid=152)
 
-[Deus Ex: Invisible War Trailer](http://www.eidosinteractive.com/downloads/search.html?gmid=125)
+[New Imperial Glory Trailer. View it Now!](http://www.eidosinteractive.com/downloads/search.html?gmid=150)
 
 |   
 |  |   
@@ -32,15 +32,7 @@ click here
 |  |   
 | 
 
-[Go here](https://web.archive.org/web/20031205043114id_/http%3A//eidosinteractive.com/forums/index.html) to talk about the games! 
-
-|   
-|  |   
----  
-|  |   
-| 
-
-Be in the know how, register to the Eidos .
+[Go here](https://web.archive.org/web/20040628050446id_/http%3A//eidosinteractive.com/forums/index.html) to talk about the games! 
 
 |   
 |  |   
