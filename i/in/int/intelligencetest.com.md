@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202212509id_/http%3A//intelligencetest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612171702id_/http%3A//www.intelligencetest.com/privacy.htm) for the most accurate reproduction.*
 
 # IQ Test Labs - free online testing.
 
@@ -25,7 +25,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This can be achieved by following the instructions to opt-out which will be placed in our communications.
 
 Correct/Update  
-This site gives users the option for changing and modifying information previously provided. Use this [contact form](http://www.intelligencetest.com/contact.htm) if you wish to change any of the information which you have previously given us.
+This site gives users the option for changing and modifying information previously provided. Use this [contact form](http://www.intelligencetest.com/cf.htm) if you wish to change any of the information which you have previously given us.
 
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use this [contact form](http://www.intelligencetest.com/contact.htm).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use this [contact form](http://www.intelligencetest.com/cf.htm).
