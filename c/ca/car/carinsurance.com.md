@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619170907id_/http%3A//www.carinsurance.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205012041id_/http%3A//carinsurance.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Carinsurance.com - Privacy Policy
 
@@ -40,13 +40,9 @@ To ensure we are publishing content customers need and want, CarInsurance.com co
 
 When someone visits the site, a cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the site previously.
 
-If you choose to not have your browser accept cookies from the CarInsurance.com Web site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site.
-
-**   
-Changes to this Statement**
-
+If you choose to not have your browser accept cookies from the CarInsurance.com Web site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site.  
+**  
+Changes to this Statement**  
 CarInsurance.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, CarInsurance.com will notify you by placing prominent notice on the Web site.
 
-You agree to the following Terms of Use: 
-
-COVERAGE LIMITS, DEDUCTIBLES, AND CERTAIN EXCLUSIONS ARE LIMITED TO THE TERMS AND CONDITIONS CONTAINED IN YOUR POLICY. PLEASE READ YOUR POLICY FOR DETAILS. THIS WEBSITE IS FOR INFORMATION PURPOSES ONLY. You are the final decision maker when it comes to selecting coverages and deductibles. The Insurance Package descriptions, preset coverages and deductibles, and assistance offered herein are provided merely as a starting point for your desired level of coverage. CarInsurance.com makes no express or implied warranties or representations as to the suitability of the Insurance Packages to your particular circumstances or purpose, or to the completeness of the insurance assistance provided. To the extent allowed by state law, CarInsurance.com shall not be responsible for any loss or any direct, indirect, incidental, special or consequential damages caused by reliance on this information.
+You agree to the following Terms of Use: COVERAGE LIMITS, DEDUCTIBLES, AND CERTAIN EXCLUSIONS ARE LIMITED TO THE TERMS AND CONDITIONS CONTAINED IN YOUR POLICY. PLEASE READ YOUR POLICY FOR DETAILS. THIS WEBSITE IS FOR INFORMATION PURPOSES ONLY. You are the final decision maker when it comes to selecting coverages and deductibles. The Insurance Package descriptions, preset coverages and deductibles, and assistance offered herein are provided merely as a starting point for your desired level of coverage. CarInsurance.com makes no express or implied warranties or representations as to the suitability of the Insurance Packages to your particular circumstances or purpose, or to the completeness of the insurance assistance provided. To the extent allowed by state law, CarInsurance.com shall not be responsible for any loss or any direct, indirect, incidental, special or consequential damages caused by reliance on this information. 
