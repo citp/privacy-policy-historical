@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201230250id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602214125id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for DVD Talk
 
@@ -30,7 +30,7 @@
 • **[Complete List of Stores](http://www.dvdtalk.com/support.html)**  
 **DVD REVIEWS**  
   
-[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=31&layout=multi&id=2179)
+[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=31&layout=multi&id=2209)
 
 Search reviews:  
   
@@ -107,7 +107,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman Kleinman.com Inc. 8872 SW 82nd Ave Portland, OR 97223 talk@dvdtalk.com |  | **Special Offers**  
 ---  
   
-[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=4&layout=multi&id=1718)  
+[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=4&layout=multi&id=1748)  
   
   
 
