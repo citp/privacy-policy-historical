@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the waysidegardens.com privacy policy that was archived on 2004-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604003734id_/http%3A//www.waysidegardens.com/webapp/wcs/stores/servlet/StoreCatalogDisplay%3FcatalogId%3D10067%26storeId%3D10151%26langId%3D-1%26mainPage%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waysidegardens.com privacy policy that was archived on 2004-08-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040804082320id_/http%3A//www.waysidegardens.com/webapp/wcs/stores/servlet/StoreCatalogDisplay%3FcatalogId%3D10067%26storeId%3D10151%26langId%3D-1%26mainPage%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html><head><title>Wayside Gardens: Welcome to Wayside Gardens Online!</title>
 
@@ -12,7 +12,7 @@ function cookiesOn() {
 	document.cookie=testCookieName+"=TEST";
 	return (getCookie(testCookieName) != null);
 }
-if(!cookiesOn()) { //if cookies are enabled on client's browser
+if(!cookiesOn()) { //if cookies are disabled on client's browser
 	window.open("PopUpDisplayView?catalogId=10067&storeId=10151&langId=-1&mainPage=cookieinfo&titleText=Please Note!", "CookiesBlockedPopUp", "width=500,height=500,menubar=no,scrollbars=no,status=no");
 }
 
@@ -122,6 +122,17 @@ if (window.name == "") {
 }
 document.cookie = window.name + "=open";
 
+var submitted = 0;
+function LockButton() {
+	if ( ! submitted ) { 
+    	submitted = 1;
+        return true;           
+    } else {
+       	alert("Form already submitted, please be patient");
+       	return false;
+    }
+}
+
 </script>
 
 	</head>
@@ -141,7 +152,6 @@ document.cookie = window.name + "=open";
 
 
 
-
 	<!-- START Wayside HEADER  -->
 
 	<table width="664" border="0" cellspacing="0" cellpadding="0">
@@ -149,7 +159,6 @@ document.cookie = window.name + "=open";
 	  <td width="314"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=page1" alt="Home Page" title="Home Page"><img src="/web_images/Wayside/topbanner/logotopmain.gif" width="314" height="49" border="0"></a>
 	  </td>
 	  <td width="350" valign="bottom" align="right" class="topCart">
-
 
 
 
@@ -194,7 +203,8 @@ document.cookie = window.name + "=open";
 	<map name="tabsmap">
 	 <area shape="rect" coords="1,0,81,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homePerennials" alt="Perennials" title="Perennials">
 	 <area shape="rect" coords="82,0,140,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeBulbs" alt="Bulbs" title="Bulbs">
-	 <area shape="rect" coords="141,0,203,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRoses" alt="Roses" title="Roses">
+	 <area shape="rect" coords="141,0,203,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45021" alt="Roses" title="Roses">
+	 <!-- <area shape="rect" coords="141,0,203,18" href="StoreCatalogDisplay?catalogId=10067&storeId=10151&langId=-1&mainPage=homeRoses" alt="Roses" title="Roses"> -->
 	 <area shape="rect" coords="203,0,315,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeTrees" alt="Trees &amp; Shrubs" title="Trees &amp; Shrubs">
 	 <area shape="rect" coords="315,0,398,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRare" alt="Rare &amp; Unusual" title="Rare &amp; Unusual">
 	 <area shape="rect" coords="399,0,470,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeSupplies" alt="Supplies &amp; Accessories" title="Supplies &amp; Accessories">
@@ -214,8 +224,8 @@ document.cookie = window.name + "=open";
 
 
 	
-		<script language="javascript1.1" src="/coremetrics/v40/eluminate.js"></script>
-	 	<script language="javascript1.1" src="/coremetrics/cmdatatagutils.inc"></script>
+		<script language="javascript1.1" src="Wayside/coremetrics/v40/eluminate.js"></script>
+	 	<script language="javascript1.1" src="Wayside/coremetrics/cmdatatagutils.inc"></script>
 <script language="javascript"> cmSetProduction(); </script>
 
 	<!--********************************************************************************-->
@@ -279,33 +289,65 @@ document.cookie = window.name + "=open";
 	    var displayRange = 'null';
 	    var pageNo = 'null';
 	    var searchText = "null";
+	    var newsletter = null; 
+	      
+	      if(newsletter)
+	      {
 
-
-	    
-
-	    if(pageNo=='null' && displayRange=='null')
+if(pageNo=='null' && displayRange=='null')
 	    {
 		  <!--enters the loop for page 1 and start of character range(AA): For all other cases, it enters else loop-->
-		  cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg 1","","Advanced Search Results");
+		  cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg 1","",newsletter);
 	    }
 	    else
 	    { 	   	
 		if(pageNo=='null' && displayRange!='null')
 		{
 			<!--this is entered for page 1 and different character ranges-->
-			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  1:" + displayRange,"","Advanced Search Results");
+			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  1:" + displayRange,"",newsletter);
 		}
 		else if(pageNo!='null' && displayRange=='null')
 		{
 			<!--this is entered for different pages and fixed character range which is AA-->
-			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  " + pageNo ,"","Advanced Search Results");
+			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  " + pageNo ,"",newsletter);
 		}
 		else if(pageNo!='null' && displayRange!='null')
 		{
 			<!--this is entered for different pages and different character ranges-->
-			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  " + pageNo + ": " + displayRange ,"","Advanced Search Results");
+			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  " + pageNo + ": " + displayRange ,"",newsletter);
 		}
 	    }
+			
+	      }
+	    else
+	    {
+
+	  
+
+	    if(pageNo=='null' && displayRange=='null')
+	    {
+		  <!--enters the loop for page 1 and start of character range(AA): For all other cases, it enters else loop-->
+		  cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg 1","","88001");
+	    }
+	    else
+	    { 	   	
+		if(pageNo=='null' && displayRange!='null')
+		{
+			<!--this is entered for page 1 and different character ranges-->
+			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  1:" + displayRange,"","88001");
+		}
+		else if(pageNo!='null' && displayRange=='null')
+		{
+			<!--this is entered for different pages and fixed character range which is AA-->
+			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  " + pageNo ,"","88001");
+		}
+		else if(pageNo!='null' && displayRange!='null')
+		{
+			<!--this is entered for different pages and different character ranges-->
+			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  " + pageNo + ": " + displayRange ,"","88001");
+		}
+	    }
+	   }
 	  break;
 
 
@@ -341,8 +383,16 @@ document.cookie = window.name + "=open";
 
 	break;
 
-	default:  
-	  cmCreatePageviewTag("PrivacyPolicy"," ","32001");
+	default:
+	  var newsletter = null;
+	  if(newsletter)
+	  {
+		cmCreatePageviewTag("PrivacyPolicy"," ",newsletter);	
+	  }
+	  else
+	  {
+		cmCreatePageviewTag("PrivacyPolicy"," ","32001");
+	  }
 	  break;
 	}
 	
@@ -364,7 +414,6 @@ document.cookie = window.name + "=open";
 
 	  <tr valign="top">
 		<td width="130" rowspan="2" align="center" class="bodyText">
-
 
 
 
@@ -462,7 +511,6 @@ document.cookie = window.name + "=open";
 
 
 				
-
 
 
 
@@ -589,7 +637,8 @@ document.cookie = window.name + "=open";
 	
 	
 	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRare">Rare Plants</a><br>
-	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRoses"><b>Roses</b></a><br>   
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45021"><b>Roses</b></a><br>
+	<!-- <a href="StoreCatalogDisplay?catalogId=10067&storeId=10151&langId=-1&mainPage=homeRoses"><b>Roses</b></a><br>  -->  
 	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeTrees">Trees &amp; Shrubs</a><br>
 	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=gatevines">Vines and Climbers</a><br>
 				</td>
@@ -727,15 +776,14 @@ document.cookie = window.name + "=open";
 
 
 
-
 	
 
 		<center>
 
 			<span class="bannerText">
-			<a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47522&amp;coremetricsCategory=53001">
-			<img src="/web_images/Wayside/anibanner/ani47522.gif" width="315" height="50" border="0" alt="Showy Lady Slipper Orchid" class="diff"><br>
-			Click here now for Showy Lady Slipper Orchid!
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47608&amp;coremetricsCategory=53001">
+			<img src="/web_images/Wayside/anibanner/ani47608.gif" width="315" height="50" border="0" alt="Butterfly Bush Bicolor" class="diff"><br>
+			Click here now for Butterfly Bush Bicolor!
 			</a><br></span>
 
 
@@ -747,10 +795,7 @@ document.cookie = window.name + "=open";
 
 
 
-
-
-			
-
+		
 
 
 
@@ -865,6 +910,7 @@ document.cookie = window.name + "=open";
 	  Fax: (864) 941-4506 E-mail: <a href="mailto:info@waysidecs.com">info@waysidecs.com</a>
 	</blockquote>
  
+
 		</td>
 		<td rowspan="2" width="15"><img src="/web_images/Wayside/misc/spacer.gif" width="1" height="1"></td>
 		<td rowspan="2" width="140" align="center" class="bodyText">
@@ -879,11 +925,10 @@ document.cookie = window.name + "=open";
 
 
 
-
   	
 
 	<!-- display today's date - table is just for spacing -->
-	<table border="0" cellpadding="0&quot;" cellspacing="0"><tbody><tr><td class="todayText">Thursday, June 03<br>
+	<table border="0" cellpadding="0&quot;" cellspacing="0"><tbody><tr><td class="todayText">Wednesday, August 04<br>
 	<img src="/web_images/Wayside/misc/spacer.gif" width="1" height="1"></td></tr></tbody></table>
 
 	<!-- Bonus Box -->
@@ -897,8 +942,7 @@ document.cookie = window.name + "=open";
 
 
 
-
-			<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo"><img src="/web_images/Wayside/headers/boxtop_bonus.gif" width="140" height="40" alt="Bonus!" title="Get a Bonus with your Internet Order!" border="0"></a></td></tr>    <tr align="center"><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo"><img src="/web_images/Wayside/bonus/bonus0406a.gif" width="140" height="160" alt="Bonus!" title="Get a Bonus with your Internet Order!" border="0"></a></td></tr>    <tr><td class="bonusRed"><spacer type="block" width="1" height="3"></spacer></td>  <td><table width="138" border="0" cellpadding="5" cellspacing="0" valign="top" align="center"><tbody><tr><td class="captionText" align="center">   Receive free standard shipping with your $150 or more order! <br>  <a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo">Click here for more info.</a><br>  </td></tr></tbody></table>  </td><td width="1" class="bonusRed"><spacer type="block" width="1" height="1"></spacer></td></tr>    <tr><td colspan="3" height="1" class="bonusRed"></td></tr></tbody></table>
+			<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo"><img src="/web_images/Wayside/headers/boxtop_bonus.gif" width="140" height="40" alt="Bonus!" title="Get a Bonus with your Internet Order!" border="0"></a></td></tr>    <tr align="center"><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo"><img src="/web_images/Wayside/bonus/bonus0408a.gif" width="140" height="140" alt="Bonus!" title="Get a Bonus with your Internet Order!" border="0"></a></td></tr>    <tr><td class="bonusRed"><spacer type="block" width="1" height="3"></spacer></td>  <td><table width="138" border="0" cellpadding="5" cellspacing="0" valign="top" align="center"><tbody><tr><td class="captionText" align="center">   Receive 10 percent off with your $150 or more order! <br>  <a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo">Click here for more info.</a><br>  </td></tr></tbody></table>  </td><td width="1" class="bonusRed"><spacer type="block" width="1" height="1"></spacer></td></tr>    <tr><td colspan="3" height="1" class="bonusRed"></td></tr></tbody></table>
 
 
 	<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
@@ -925,7 +969,6 @@ document.cookie = window.name + "=open";
 
 
 
-
 	<!-- News -->
 
 		<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
@@ -937,10 +980,27 @@ document.cookie = window.name + "=open";
 				  <tbody><tr>
 					<td valign="top" class="bodyText" align="center">
 					<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=waynews">
-					Rediscover a Reliable Favorite!</a>
+					Time to Start Planning for Fall Planting!</a>
 					</td>
 				  </tr>
 				</tbody></table>
+			
+
+				</td>
+				<td width="1" class="wayDark"><spacer type="block" width="1" height="1"></spacer></td>
+			  </tr>
+			  <tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=waytips"><img src="/web_images/Wayside/headers/boxtop_tips.gif" width="140" height="36" alt="Garden Tips" title="Garden Tips From the Experts!" border="0"></a></td></tr>
+			  <tr><td class="wayDark"><spacer type="block" width="1" height="10"></spacer></td>
+				<td>
+				
+					<table width="138" border="0" cellpadding="6" cellspacing="0" align="center">
+					  <tbody><tr>
+						<td valign="top" class="bodyText" align="center">
+						<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=waytips">
+						'Stack' Plantings for Multi-Season Interest</a>
+						</td>
+					  </tr>
+					</tbody></table>
 			
 		
 			</td>
@@ -966,13 +1026,12 @@ document.cookie = window.name + "=open";
 
 
 
-
  
  
 
 
 	<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-	  <tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=toptenpage&amp;ListLocation=Main"><img src="/web_images/Wayside/headers/boxtop_topten.gif" width="140" height="40" alt="Park's Top Ten Bestsellers" title="Park's Top Ten Bestsellers" border="0"></a></td></tr>
+	  <tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=toptenpage&amp;ListLocation=Main"><img src="/web_images/Wayside/headers/boxtop_topten.gif" width="140" height="40" alt="Park's Top Ten Bestsellers" title="Park's Top Ten Bestsellers" border="0"></a></td></tr>
 	  <tr>
 		<td width="1" height="3" class="wayDark"><spacer type="block" width="1" height="3"></spacer></td>
 		<td width="138"><spacer type="block" width="138" height="1"></spacer></td>
@@ -988,70 +1047,70 @@ document.cookie = window.name + "=open";
 				<tbody><tr>
 				<td valign="top" align="right">1.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=42075&amp;coremetricsCategory=18001">Wayside's Newest &amp; Best Hybrid Tea Collection</a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47199&amp;coremetricsCategory=18001">Foamy Bells Sunspot</a></td>
 
 				</tr>
 
 				<tr>
 				<td valign="top" align="right">2.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=9221&amp;coremetricsCategory=18001">Algoflash All-Purpose Fertilizer</a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47522&amp;coremetricsCategory=18001">Showy Lady Slipper Orchid</a></td>
 
 				</tr>
 
 				<tr>
 				<td valign="top" align="right">3.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=49584&amp;coremetricsCategory=18001">Echinacea Orange Meadowbrite<tm></tm></a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=48052&amp;coremetricsCategory=18001">Pink Muhly Grass</a></td>
 
 				</tr>
 
 				<tr>
 				<td valign="top" align="right">4.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=49640&amp;coremetricsCategory=18001">Purple Coneflower Razzmatazz</a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=49539&amp;coremetricsCategory=18001">Daylily Golden Zebra<tm></tm></a></td>
 
 				</tr>
 
 				<tr>
 				<td valign="top" align="right">5.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45342&amp;coremetricsCategory=18001">Rose Knock Out<tm></tm></a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=46093&amp;coremetricsCategory=18001">Purple Coneflower Razzmatazz</a></td>
 
 				</tr>
 
 				<tr>
 				<td valign="top" align="right">6.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45440&amp;coremetricsCategory=18001">Rose Zephirine Drouhin</a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=46695&amp;coremetricsCategory=18001">Burkwood Daphne Carol Mackie</a></td>
 
 				</tr>
 
 				<tr>
 				<td valign="top" align="right">7.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=49551&amp;coremetricsCategory=18001">Cornus Red Pygmy</a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47704&amp;coremetricsCategory=18001">Gaillardia Fanfare</a></td>
 
 				</tr>
 
 				<tr>
 				<td valign="top" align="right">8.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45053&amp;coremetricsCategory=18001">Rose Leonidas</a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=49584&amp;coremetricsCategory=18001">Echinacea Orange Meadowbrite<tm></tm></a></td>
 
 				</tr>
 
 				<tr>
 				<td valign="top" align="right">9.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45047&amp;coremetricsCategory=18001">Rose China Doll</a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47627&amp;coremetricsCategory=18001">Black Bamboo</a></td>
 
 				</tr>
 
 				<tr>
 				<td valign="top" align="right">10.&nbsp;</td>
 
-						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47199&amp;coremetricsCategory=18001">Foamy Bells Sunspot</a></td>
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47599&amp;coremetricsCategory=18001">Cedar Green Giant</a></td>
 
 				</tr>
 
@@ -1076,7 +1135,7 @@ document.cookie = window.name + "=open";
 	  
 			<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
 			<!-- Zip/Zone Calc -->
-			<a href="StoreCatalogDisplay?storeId=10151&amp;catalogId=10073&amp;langId=-1&amp;mainPage=zonemap">
+			<a href="StoreCatalogDisplay?storeId=10151&amp;catalogId=10067&amp;langId=-1&amp;mainPage=zonemap">
 			<img src="/web_images/Wayside/navigation/zoneButton.gif" width="140" height="40" alt="Zone Calculator" title="Know Your Growing Zone!" border="0"></a>
 
 
@@ -1086,7 +1145,6 @@ document.cookie = window.name + "=open";
     
 	<tr valign="bottom"><td align="center">
 	
-
 
 
 
@@ -1105,15 +1163,14 @@ document.cookie = window.name + "=open";
 
 
 
-
 	
 
 		<center>
 
 			<span class="bannerText">
-			<a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45076&amp;coremetricsCategory=53001">
-			<img src="/web_images/Wayside/anibanner/ani45076.gif" width="315" height="50" border="0" alt="Rose Gruss an Aachen" class="diff"><br>
-			Click here now for Rose Gruss an Aachen!
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=46844&amp;coremetricsCategory=53001">
+			<img src="/web_images/Wayside/anibanner/ani46844.gif" width="315" height="50" border="0" alt="Unbelievable Fall Color" class="diff"><br>
+			Click here now for Dwarf Fothergilla!
 			</a><br></span>
 
 
@@ -1129,7 +1186,6 @@ document.cookie = window.name + "=open";
 	  </tr>
 	  <tr>
 		<td colspan="5" align="center" class="bodyText">
-
 
 
 
@@ -1154,7 +1210,8 @@ document.cookie = window.name + "=open";
 	<map name="footermap">
 	 <area shape="rect" coords="6,0,85,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homePerennials" alt="Perennials" title="Perennials">
 	 <area shape="rect" coords="85,0,145,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeBulbs" alt="Bulbs" title="Bulbs">
-	 <area shape="rect" coords="144,0,206,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRoses" alt="Roses" title="Roses">
+	 <area shape="rect" coords="144,0,206,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45021" alt="Roses" title="Roses">
+	 <!-- <area shape="rect" coords="144,0,206,20" href="StoreCatalogDisplay?catalogId=10067&storeId=10151&langId=-1&mainPage=homeRoses" alt="Roses" title="Roses"> -->
 	 <area shape="rect" coords="206,0,320,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeTrees" alt="Trees &amp; Shrubs" title="Trees &amp; Shrubs">
 	 <area shape="rect" coords="318,0,402,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRare" alt="Rare &amp; Collectible" title="Rare &amp; Collectible">
 	 <area shape="rect" coords="402,0,474,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeSupplies" alt="Supplies &amp; Accessories" title="Supplies &amp; Accessories">
