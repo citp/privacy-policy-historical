@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualpromote.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604103905id_/http%3A//jimworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpromote.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204220713id_/http%3A//jimworld.com/privacy.html) for the most accurate reproduction.*
 
 # JimWorld Privacy Policy Statement
 
