@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206134518id_/http%3A//www.birth.com.au/about.asp%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621224702id_/http%3A//www.birth.com.au/about.asp%3Fprivacy) for the most accurate reproduction.*
 
-# BirthNet
+# Pregnancy week by week - pregnancy calendar - pregnancy stages trimesters - pregnancy websites - motherhood maternity - BirthNet Australia
 
 PRIVACY POLICY  
 Protecting your privacy is important to us at Birthnet Pty Ltd (ACN 089 827 878) and all our related companies (collectively known as "Birthnet"). As part of our commitment, we have developed the following policy in compliance with the voluntary National Privacy Principles developed by the Australian Federal Privacy Commissioner. 
