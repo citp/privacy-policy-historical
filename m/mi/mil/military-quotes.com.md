@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military-quotes.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011042359id_/http%3A//www.military-quotes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military-quotes.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403143128id_/http%3A//www.military-quotes.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -13,5 +13,3 @@ _**What information is collected and how is it used?**_
 
 **_Military Quotes Forum:_** Only username, password and an e-mail address is required for registering in the forum. Each registered user can chose to hide their e-mail address for the public.  
 All other information entered will be visible in your profile, and is therefore entered at your own risk.
-
-_**"Tell a friend..." Form:**_ No e-mail adresses will be stored, all e-mails are sent through your own e-mail client.
