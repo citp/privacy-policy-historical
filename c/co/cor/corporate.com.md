@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621134512id_/http%3A//corporate.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053616id_/http%3A//www.corporate.com/privacy.cfm) for the most accurate reproduction.*
 
 # www.corporate.com: Incorporate Now!
 
