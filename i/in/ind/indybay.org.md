@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2001-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011228123204id_/http%3A//www.indybay.org/process/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602085008id_/http%3A//www.indybay.org/process/privacy.php) for the most accurate reproduction.*
 
-# privacy : SF Indymedia
+# San Francisco Bay Area Independent Media Center
 
 ### Privacy Policy
 
@@ -8,7 +8,9 @@ The SF IMC intends to give you the user as much control as possible over your pe
 
 #### NOTICE
 
-The SF-IMC web server does not track the domains or IP addresses from which people visit and/or post to the sf.indymedia.org web site. Usage of other services, however, may be logged.
+The SF-IMC web server does not normally track the domains or IP addresses from which people visit and/or post to the sf.indymedia.org web site. Usage of other services, however, may be logged.
+
+Due to repeated denial-of-service (DOS)/spam attacks conducted against the sf.indymedia.org website, SF IMC may at times log all webserver activity, including client IP addresses. Any such logs will be stored on a RAM disk and discarded within 24 to 48 hours. SF IMC reserves the right to send reports of DOS/spam activity to the spammer's internet service provider, and to post them publicly on its website. Only log entries pertaining directly to clear cases of website abuse will be so disseminated and/or preserved.
 
 The SF-IMC web site contains links to other websites, whether controlled by Indymedia affiliates or unrelated third parties. The SF IMC is not responsible for the privacy policies and practices of any linked website.
 
@@ -19,7 +21,7 @@ All e-mail sent to the SF-IMC is stored and publicly accessible at the [list arc
 #### CHOICE
 
 Cookies
-    The SF-IMC web site employs "cookies" as part of certain web site functions, including ratings and admin. A "cookie" is an element of data which a Service or site, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory. Cookies are sent only to users attempting to login to a particular function of the site; any cookies sent by sf.indymedia.org will be marked so that they will only be accessible to our web site. At his or her option and at his or her sole responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, the login features and functionality may no longer work properly, or at all.
+    The SF-IMC web site employs "cookies" as part of certain web site functions, including ratings and admin. A "cookie" is an element of data which a Service or site, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory. Cookies are sent only to users attempting to login to a particular function of the site; any cookies sent by sf.indymedia.org will be marked so that they will only be accessible to our web site. At his or her option and at his or her sole responsibility, any user may block or delete o ur cookies from his or her hard drive. However, by disabling cookies, the login features and functionality may no longer work properly, or at all.
 Subscription-based News Emails
     Users may subscribe to receive site notifications, newsletters or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an SF-IMC list will include directions for how a user may remove him or herself from the list, or a URL where the user may find such directions.
 Other Notification
@@ -49,10 +51,6 @@ If the SF IMC becomes aware that a user's personal information provided to the S
 
 #### UPDATES TO THE PRIVACY POLICY
 
-To update the privacy policy, we will post the changed version and its effective date at [http://www.indybay.org/process/privacy.php](https://web.archive.org/process/privacy.php).
+To update the privacy policy, we will post the changed version and its effective date at [http:///process/privacy.php](https://web.archive.org/process/privacy.php).
 
-Last updated Fri, 21 Dec 2001 14:46:18 -0800
-
-  
-  
-
+Last updated Tue, 4 Feb 2003 16:53:42 -0800
