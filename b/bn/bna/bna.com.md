@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604072049id_/http%3A//www.bna.com/corp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010181341id_/http%3A//www.bna.com/corp/privacy.htm) for the most accurate reproduction.*
 
 # BNA - Internet Privacy Policy
 
@@ -25,7 +25,7 @@
 > | 
 > 
 >   
->  [Home](https://web.archive.org/web/20020604072049id_/http%3A//www.bna.com/index.html) > Internet Privacy Policy
+>  [Home](https://web.archive.org/web/20021010181341id_/http%3A//www.bna.com/index.html) > Internet Privacy Policy
 > 
 > | 
 > 
@@ -35,8 +35,6 @@
 > ---|---  
 >   
 > ## BNA Internet Privacy Policy
-> 
-> [**Printable Version**](https://web.archive.org/web/20020604072049id_/http%3A//www.bna.com/corp/privacy.pdf)
 > 
 >   1. **Introduction.** BNA has been a leading publisher of specialized news and information services for business and professionals in many fields--including economics, environmental protection, health care, human resources, labor relations, law, occupational safety, and taxation--since 1929.
 > 
@@ -151,7 +149,7 @@
 >     1. Security Programs. No one can guarantee that data transmission over the Internet will be 100% secure. Nevertheless, BNA and its Alliance Partners that host any Product features have taken technical, administrative, and physical steps to protect against unauthorized access to Customer Information and other Personally Identifiable Information used to administer its customer accounts. All such information is handled securely within BNA and is not disclosed to unauthorized third parties.
 >     2. User IDs and Passwords. Each User is responsible for maintaining the confidentiality of his or her User ID and password, and are responsible for all Product activities that occur under his or her User ID and password, including, without limitation, all related Customer Information and other Personally Identifiable Information. Each User agrees to immediately notify BNA of any unauthorized use of his or her User ID or password or of his or her Customer Information and other Personally Identifiable Information or any other breach of security regarding the Products or his or her Customer Information and other Personally Identifiable Information. BNA will not be liable for any Loss whatsoever arising from a User's failure to comply with these security requirements and each User agrees to hold BNA harmless from any and all Losses that arise from that failure to so comply.
 > 
->   7. **Policies Applicable to HR AnswerSource Enterprise Edition Products.** Our HR Answersource Enterprise Edition products contain content which resides on Firstdoor.com, Inc.'s platform. Firstdoor may establish a strategic relationship with a Firstdoor Alliance Partner to offer such information, products, or services to Users. Firstdoor will use good faith, commercially reasonable efforts to limit access by such Firstdoor Alliance Partners to the Customer Information and other Personally Identifiable Information that is reasonably required to provide Product features on Firstdoor's behalf. For additional information, please see Firstdoor's Privacy Policy which can be found at <http://www.firstdoor.com/member_services/privacy.asp>.
+>   7. **Policies Applicable to HR AnswerSource™ Enterprise Edition Products.** Our HR AnswerSource™ Enterprise Edition products contain content which resides on Firstdoor.com, Inc.'s platform. Firstdoor may establish a strategic relationship with a Firstdoor Alliance Partner to offer such information, products, or services to Users. Firstdoor will use good faith, commercially reasonable efforts to limit access by such Firstdoor Alliance Partners to the Customer Information and other Personally Identifiable Information that is reasonably required to provide Product features on Firstdoor's behalf. For additional information, please see Firstdoor's Privacy Policy which can be found at <http://www.firstdoor.com/member_services/privacy.asp>.
 > 
 >   8. **Tips To Help You Protect Customer Information.** If any User suspects that someone has had unauthorized access to his or her BNA account, or access to his or her Customer Information and other Personally Identifiable Information, such as his or her User ID or password, the User should send an email to [customercare@bna.com](mailto:customercare@bna.com) immediately so we can take appropriate action to protect the User and his or her Customer Information and other Personally Identifiable Information.
 > 
@@ -172,6 +170,8 @@
 > 
   
   
+Thursday, October 10, 2002
+
 |   
 ---  
   
