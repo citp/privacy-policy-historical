@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alliance-leicesterbusinessbanking.co.uk privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405220445id_/http%3A//www.alliance-leicestercommercialbank.co.uk/pages/finder.asp%3FPC%3DHP00004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliance-leicesterbusinessbanking.co.uk privacy policy that was archived on 2005-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050210093946id_/http%3A//www.alliance-leicestercommercialbank.co.uk/pages/HP00004.asp) for the most accurate reproduction.*
 
-# Business Banking – Alliance & Leicester Commercial Bank
+# Business Banking - Alliance & Leicester Commercial Bank
 
 ## privacy statement and use of your information
 
