@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401101116id_/http%3A//analystforum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075214id_/http%3A//analystforum.com/privacy.shtml) for the most accurate reproduction.*
 
 # CFA Exam Preparation at AnalystForum for AIMR's Chartered Financial Analyst
 
