@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629080209id_/http%3A//wine.com/cs/PrivacyInfo.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019074514id_/http%3A//www.wine.com/cs/PrivacyInfo.asp) for the most accurate reproduction.*
 
 # Customer Care - Ordering
 
