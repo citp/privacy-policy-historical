@@ -1,45 +1,62 @@
-> *The following text is extracted and transformed from the lumenis.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216050400id_/http%3A//www.lumenis.com/wt/lumenis/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumenis.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618024334id_/http%3A//www.lumenis.com/wt/lumenis/privacy) for the most accurate reproduction.*
 
 # Lumenis - Privacy Statement
 
-**Your Privacy**
+|  **Privacy Policy**
 
-LumenisTM has adopted information management guidelines that define our customer relationships. These guidelines disclose the privacy policies for the Lumenis.com web site. Since Internet technologies are rapidly evolving, underlying business models are evolving. Accordingly, guidelines may change. Any changes will be posted here.
+LumenisTM is committed to protecting your best interests and personal information. To earn your trust and confidence, we strictly adhere to the Privacy Policy, Principles and Statement outlined below. We know you are cautious about how information is used and shared, and we appreciate your trust that we will do so respectfully and sensibly. By visiting our website, you are accepting the practices described in this notice.
 
-We would like to emphasize that Lumenis is not and cannot be responsible for the content or the privacy policies of Web sites to which it may link or Web sites that link to Lumenis's Web site.
+If you have specific questions that are not answered by the material that we disclose here we will address your concerns by clicking on the following email address: [E-mail Lumenis](mailto:information@Lumenis.com?subject=Privacy%20Policy)
 
-**What information does Lumenis gather and/or track about you?**
+This policy may be revised over time as new features are added to the website. Please check this site for information about revisions to our privacy policy. 
 
-**Questions to Lumenis:** Lumenis obtains names, e-mail addresses and other information only when you personally submit it on the form located in the site, or when providing feedback to Lumenis. These mechanisms allow you to ask specific questions of Lumenis or offer feedback, comments or suggestions about the product described therein. The information submitted enables Lumenis torespond to your inquiries, as appropriate, and obtain a measure of users' needs, interests and ideas for future web site development and product interest. If you would like to change or delete any information that you have submitted to Lumenis, please contact: [information@Lumenis.com](mailto:information@Lumenis.com).
+**What we do with information collected**  
 
-**Anonymous Information:** Lumenis may also gather anonymous information, which may be used by Lumenis or shared with third parties. This information does not personally identify you but may be helpful for improving the services we offer. Generally this information is collected through "traffic data" and may entail the use of "cookies", "IP addresses", or other numeric codes used to identify a computer.
 
-**Cookies:** "Cookies" are small text files, which are stored on the hard drive of a user's computer. The Lumenis.com Web site may use cookies for various reasons. Cookies enable us to provide you with a better experience by allowing us to understand what areas of the Web site are of interest to our visitors. These cookies do not track individual information. If you choose to disable cookies in your browser, you can still access most of the Web site.
+Lumenis is the sole owner of the information collected at our site. We do not sell or rent information to third parties or partners. The information collected at our site is used exclusively to determine the most appropriate information to send to those who request it. 
 
-**IP Addresses:** Lumenis also logs IP addresses for systems administration, troubleshooting purposes and improvement of our service. (Your IP address indicates the location of your computer on the Internet.) We do not link IP addresses to anything personally identifiable.
+Lumenis will protect your personal information by using appropriate security safeguards. We restrict access to information to persons who need to know the information to provide products or services to you. 
 
-**What does Lumenis do with the information it gathers and/or tracks?**
+We obtain personal information about you in order to service your business and enhance our services. Such information is collected using Contact Us forms, Workshop and Conference Registration forms, Newsletter and Update Registration forms, data from either a Lumenis cookie or a cookie from a Lumenis service provider, or other communications that you send or provide to us. These mechanisms allow you to ask specific questions of Lumenis or offer feedback, comments or suggestions about the product described therein. The information submitted enables Lumenis to respond to your inquiries, as appropriate, and obtain a measure of users' needs, interests and ideas for future website development and product interest. Lumenis limits the collection of personal information to that which is necessary for the purposes of providing the products and services you have requested and conducting our business efficiently. 
 
-**Statistical Analysis:** Lumenis.com may perform statistical analysis of user behavior in order to measure interest in the various areas of our Web site, inter alia, for Web site development purposes. Personal information about you as an individual subscriber or registrant will not be provided to any third party, except when we have your permission or under special circumstances, as described in our Terms of Use.
+Personal information is retained and disclosed as necessary to serve our customers and otherwise only in accordance with applicable law. Personal information about our customers or former customers is not used or disclosed to any third parties except:  
 
-**Email:** Using the email addresses provided by users, Lumenis may periodically send promotional email to its subscribers about services offered by Lumenis.
 
-**Data Security:** Lumenis considers security with the utmost importance. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate electronic procedures to protect the information we collect online.
+* As required in rendering the services that you have requested. 
+* As required by subpoena or law (as to tax authorities or regulators). 
+* As may be appropriate to protect against fraud or illegal activity, for the safety of customers, employees, or property, or is otherwise permitted by law. 
+* If you elect to disclose, or specifically direct us to disclose for you, personal information to a third party (as in the case where you request a product or service from a third party after receiving information or a link from Lumenis). 
 
-Lumenis uses Customer Magnetism, Cybernode Consulting, Webhire, 10K Wizard, GotMarketing, Embarc, Zoomedia and NetTracker as web host service providers. Please consult the service provider's privacy statement for further information.
+Lumenis may also gather anonymous information, which may be used by Lumenis or shared with third parties. This information does not personally identify you but may be helpful for improving the services we offer. Generally this information is collected through "traffic data" and may entail the use of "cookies", "IP addresses", or other numeric codes used to identify a computer. 
 
-**With whom does Lumenis share the information it gathers and/or tracks?**
+Lumenis uses email and direct mail as a way of keeping you up-to-date about our product and service innovations and offers that may be of interest to our customers (e.g., new features, products or other information). These communications may also offer special incentives that we hope will prompt you to try something new at Lumenis. Nonetheless, Lumenis maintains a practice of permitting persons to be excluded from such communications, such as straightforward opt-out options. 
 
-Lumenis may share the information it gathers in a compiled format with other partners. We do not release personal information about you as an individual to third parties, except when we have your permission or under special circumstances, as described in our Terms of Use. Lumenis will provide you all of your personal information provided by you upon request. This information will only be sent to the email address on file for the subscriber ID associated with it.
+We will strive to keep personal information as accurate, complete, and up-to-date as is necessary for its intended purpose. 
 
-**Letters to Lumenis:** If you send Lumenis personal correspondence, such as emails or letters, or if other users or third parties send correspondence to Lumenis about your activities or postings on Lumenis.com, Lumenis may collect such information into a file specific to you. For more information, please review our Terms of Use or contact Lumenis using our Contact Us form. All submissions become property of Lumenis.
+All e-mail sent by Lumenis will contain clear and concise instructions (such as clicking on the link at the bottom of an e-mail) for how to opt-out of receiving future communications. Upon request, we provide site visitors with access to all information that we maintain about them. Visitors have the ability to correct their contact information or update their profiles by sending an e-mail to [Lumenis](mailto:information@Lumenis.com?subject=Privacy%20Policy), sending your updates via postal mail (see bottom of this page), or calling us at (408) 764-3000. 
 
-**A Special Note About Children**
+**Other Website Links**  
+The Lumenis website may contain links to other sites. Lumenis is not responsible for the privacy practices or the content of such websites. We encourage you to read the privacy statements of these linked sites as their policies may differ from ours. Lumenis uses [ Zoomedia](http://www.zoomedia.com/), [ Cybernode Consulting](http://www.cybernode.com/), [ Webhire](http://www.webhire.com/), [10K Wizard](http://www.10kwizard.com/), [ GotMarketing](http://www.gotmarketing.com/), [ Embarc](http://www.embarc.com/), [ Customer Magnetism](http://www.customermagnetism.com/), [ NetPosition](http://www.netposition.com/), [ INBOX Marketing Inc.](http://www.inboxmarketinginc.com/) and [ NetTracker ](http://www.nettracker.com/) as web host service providers. Please consult the service provider's privacy statement for further information. 
 
-Children are not eligible to use Lumenis.com, and we ask that minors not submit any personal information to us. If you are a minor, you should use this service in conjunction with a parent or guardian.
+**A Special Note About Children**  
+Children are not eligible to use Lumenis.com, and we ask that minors not submit any personal information to us. If you are a minor, you should use this service in conjunction with a parent or guardian. 
 
-**Opting-Out, Corrections and Cancellations**
+**Contacting Us**   
+Lumenis  
+2400 Condensa St.  
+Santa Clara, CA 95051  
+USA  
+Tel: (408) 764-3000   
+Fax: (408) 764-3999   
+[E-mail Lumenis](mailto:information@Lumenis.com?subject=Privacy%20Policy)
 
-Upon request, Lumenis will (a) remove you and your personal information from our database; (b) correct personal information that you state is erroneous; or (c) permit you to "Opt Out" of further email contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact us using our hyperlink.
+Lumenis thanks [ INBOX Marketing Inc.](http://www.inboxmarketinginc.com/), one of our service partners, for providing assistance in developing this stringent privacy policy. 
 
-COPYRIGHTED LUMENIS LTD. 2002. ALL RIGHTS RESERVED.
+COPYRIGHTED LUMENIS LTD. 2003. ALL RIGHTS RESERVED.
+
+|  |  [](http://www.aesthetic.lumenis.com/)  
+[](http://www.surgical.lumenis.com/)  
+[](http://www.ophthalmic.lumenis.com/)  
+[](http://www.accuvet.com/)  
+[](http://www.opusdent.com/)  
+
