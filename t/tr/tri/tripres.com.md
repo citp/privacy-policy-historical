@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216033518id_/http%3A//www.tripres.com/lasvegas/index.cfm%3FFuseAction%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618095839id_/http%3A//www.tripres.com/lasvegas/index.cfm%3FFuseAction%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # TripReservations.com: Discount Hotel Rooms and Show Tickets in Las Vegas, NV
 
