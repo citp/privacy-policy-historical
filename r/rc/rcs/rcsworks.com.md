@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405144012id_/http%3A//www.rcsworks.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009220223id_/http%3A//www.rcsworks.com/company/privacy.htm) for the most accurate reproduction.*
 
 # RCS Privacy Policy
 
@@ -24,7 +24,7 @@ Visitors to restricted areas of the rcsworks.com web site are identified by thei
 
 ### (2) Computer Information
 
-RCS provides several internet-based customer services: Licensing, Update and Bug Reporting. 
+RCS provides several internet-based customer services: Licensing, Update, Data Exchange and Bug Reporting. 
 
 #### Internet Licensing
 
@@ -32,15 +32,19 @@ Through its “Internet Licensing” system, RCS collects some technical informa
 
 #### Internet Update
 
-Through its “Internet Update” system, RCS collects some technical information about the software versions of RCS products installed on the user’s computer. This information is used to determine the nature of any new software or modules that should be downloaded by the user and automatically applied to the RCS software installation. This information is only collected when the end user initiates an Internet Update dialog with RCS and is never initiated by RCS. Version information may be used to update RCS records of installed software at the user’s site. 
+Through its “Internet Update” system, RCS collects some technical information about the software versions of RCS products installed on the user’s computer. This information is used to determine the nature of any new software or modules that should be downloaded by the user and automatically applied to the RCS software installation. This information is only collected when the end user initiates an Internet Update dialog with RCS and is never initiated by RCS. Version information may be used to update RCS records of installed software at the user’s site.
 
-#### Internet Bug Reporting
+####  Data Exchange
+
+Through its Data Exchange service, RCS collects the contents of the user’s product database for transmission to the RCS server. This collection is only done when initiated by the end user. The database name and call letters are collected, as well as the e-mail address of the sender and recipient(s). This information is used only to notify the recipient(s) of the database transmission. RCS does not send unsolicited mail to Data Exchange recipient addresses nor disclose the addresses to third parties including other recipients. The user is encouraged to make use of the Private Password to encrypt the data and prevent access by unauthorized parties. In all cases the contents of the database sent to the RCS server are destroyed after seven days.
+
+####  Internet Bug Reporting
 
 Through its “Internet Bug Reporting” feature, RCS collects technical information about the operating system, free disk space and software versions of RCS products installed on the user’s computer(s). The user is asked to provide a description of the problem, an e-mail address and business mailing address. At the user’s option, the information sent to RCS may include the full contents of the selected product database and/or so- called “debug” files (which contain a log of specific actions taken by the software and its users). Databases and debug files are never collected without the user’s consent and only when initiated by the user. 
 
 ### Aggregated Information
 
-RCS may collect aggregate information about its web site visitors, such as IP addresses, HTTP Referrers, usernames and passwords. This information does not contain any personally identifying information. RCS uses this information to monitor and improve the performance of its web sites. 
+RCS may collect aggregate information about its web site visitors, such as IP addresses and HTTP Referrers. This information does not contain any personally identifying information. RCS uses this information to monitor and improve the performance of its web sites. 
 
 ### Abuse
 
@@ -61,6 +65,8 @@ Cookies are small files containing evidence of a previous visit to a web site. T
 
 RCS uses cookies to keep track of logged-in users and offer customized pages and other services based on their identity. These cookies do not contain any personally identifying information. RCS offers the convenience of storing the user’s identity (currently comprised of their e-mail address and RCS password) in a second cookie, which avoids the need of logging into the rcsworks.com web site at each visit. Use of this second cookie is optional and created only with the user’s consent.
 
+Cookies are used to store the user’s Name, E-mail Address and Company name on their computer for use by the E-mail Direct page to display the most recently entered information for these fields.
+
 RCS provides a means to remove all cookies it has set by visiting this web page: <http://www.rcsworks.com/services/nocookies.asp> 
 
 ### IP Addresses
@@ -71,4 +77,4 @@ An IP address is assigned to each computer connected to the internet. IP address
 
 In accordance with the Children’s Online Privacy Protection Act, RCS does not knowingly solicit information from children on its web site, nor does it market its services to children. Additionally, no part of the public RCS web site shall contain any information that could be regarded as inappropriate for children.
 
-Last revised 30 January, 2002
+Last revised 20 September, 2002
