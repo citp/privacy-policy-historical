@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621095003id_/http%3A//ipost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206103658id_/http%3A//www.ipost.com/privacy.htm) for the most accurate reproduction.*
 
 # iPost direct email services
 
@@ -26,11 +26,19 @@ Our UCE policy is rigorously enforced. iPost may terminate service or take any o
 
 A cookie is a small file stored on a web browser user's hard drive containing information that is placed there by a website. This information is often used to track visits by the same web browser to the same site, or to remember information between sessions on the website for the convenience of the user.
 
-iPost does not presently use cookies on our website. Clients of iPost may elect to use cookies on their own websites, some portions of which may be hosted on iPost servers. iPost is not responsible for the use of such cookies and may have no information about them. If you are concerned about the use of cookies in your web browser, you may adjust the settings of your web browser to selectively accept cookies or reject them entirely.
+iPost does not presently use cookies on this website.
+
+Clients of iPost may elect to use cookies on their own websites, some portions of which may be hosted on iPost servers. iPost is not responsible for the use of such cookies and may have no information about them. If you are concerned about the use of cookies in your web browser, you may adjust the settings of your web browser to selectively accept cookies or reject them entirely.
+
+The iPost Mailing Manager (iMM) website, a part of the iPost service, uses cookies to permit our clients to more easily log in to the iMM from other services. This use of cookies is optional on the part of our clients.
 
 ### Log Files
 
 We may use IP addresses to analyze trends, administer our service, track users' movement, and gather broad demographic information for aggregate use.
+
+### Tracking pixels
+
+Tracking pixels (also known as "web bugs") are small, typically transparent images on a web page that have special names which permit the loading of the web page to be tracked by a web server. iPost does not use tracking pixels on our web site. We do use tracking pixels in HTML email we send to detect when the email is opened. Some of our clients may use tracking pixels on forms that we host on our web servers, and some of those tracking pixels may be linked to tracking services hosted by third parties. Please see our clients' and the third parties' privacy policies for information about such tracking pixels.
 
 ### Sharing
 
@@ -76,11 +84,11 @@ Novato, CA 94949
 
 ### iPost Mailing Manager (iMM) Site
 
-This site (www.ipost.com) contains a link to the iPost Mailing Manager (iMM) site. This site is not a consumer site, and may only be accessed by iPost clients with passwords. By using the ASP site, clients are bound by rules and regulations found in their Service Agreement which includes content and privacy regulations for any mailing performed with the iPost service.
+This site (www.ipost.com) contains a link to the iPost Mailing Manager (iMM) site. The iMM site is not a consumer site, and may only be accessed by iPost clients with passwords. By using the ASP site, clients are bound by rules and regulations found in their Service Agreement which includes content and privacy regulations for any mailing performed with the iPost service.
 
 The iMM website takes every reasonable precaution to protect our clients' and email recipients' information. When users submit information via the website, that information is protected both online and offline. When the iMM site asks users to enter sensitive information or displays sensitive information, that information is encrypted and is protected with the standard SSL security protocol. While on an SSL-secured page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked.
 
-While we use SSL encryption on the iMM site to protect sensitive information online, we also take reasonable measures to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.
+While we use SSL encryption on the iMM site to protect sensitive information online, we also take reasonable measures to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.
 
 If you have any questions about the security at our website, you can send an email to [privacy@ipost.com](mailto:privacy@ipost.com).
 
