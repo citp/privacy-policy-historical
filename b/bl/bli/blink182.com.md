@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615112138id_/http%3A//www.blink182.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208074433id_/http%3A//www.blink182.com/privacy.asp) for the most accurate reproduction.*
 
 # blink-182 : Official Site
 
