@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613212831id_/http%3A//webpagedesign.com.au/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205101500id_/http%3A//www.webpagedesign.com.au/priv.html) for the most accurate reproduction.*
 
 # Art for the web privacy policy
 
@@ -12,4 +12,4 @@ Art for the web works with a third party that serves ads to this site. To find o
 
 If you have any additional questions about consumer privacy, please contact me at [suz@minerva.com.au](mailto:suz@minerva.com.au)
 
-[Home](https://web.archive.org/web/20000613212831id_/http%3A//webpagedesign.com.au/index.htm)
+[Home](https://web.archive.org/web/20001205101500id_/http%3A//www.webpagedesign.com.au/index.htm)
