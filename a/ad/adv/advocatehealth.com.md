@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622131751id_/http%3A//www.advocatehealth.com/system/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202195702id_/http%3A//www.advocatehealth.com/system/privacy.html) for the most accurate reproduction.*
 
 # Advocate Health Care: Privacy Policy
 
@@ -48,8 +48,18 @@ If you do not want to receive e-mail from Advocate Health Care, please let us kn
 
 We will process your request as quickly as possible.
 
-What about "cookies"?  
-"Cookies" are small pieces of information that are stored by your web browser on your computer's hard drive. Advocate Health Care uses cookies only occasionally, when we need to monitor the number of visitors from certain other Web sites. Our cookies do not contain any information which would allow us to personally identify you. Most web browsers automatically accept cookies, but you can usually change your browser setting to prevent acceptance of cookies. Check with your Internet Service Provider for assistance in changing this setting.
+Data Collection  
+You may browse many areas of our Web site, including our home page, without disclosing any personal information about yourself. Within these areas we only collect and store the information that is automatically recognized by the Web server, such as your IP address and files you request from the server.
+
+We collect the personal data that you volunteer on registration, survey, or other forms, or by email. Additionally, some areas of our Web site might be available only to certain persons and will require a login and password to access these areas. In order to be granted a login and password you may be asked some demographic information about yourself.
+
+We do not knowingly collect personal information from children. In specific forms where we may ask for information about children we take steps to protect the privacy of those children by making reasonable efforts to ensure that a parent has entered or authorized the collection of the child's personal information.
+
+Data Analysis  
+As described above, we sometimes collect anonymous information from visits to our site to help us provide better customer service. For example, we measure visitor activity on our Web site, but we do so in ways that keep the information anonymous. We use the information that we collect to measure the number of visitors to the different areas of our site and to help us make our site more useful to visitors. This includes analyzing these logs periodically to measure the traffic through our servers, the number of pages visited and the level of demand for pages and topics of interests. The logs may be preserved indefinitely and used at any time and in any way to prevent security breaches and to ensure the integrity of the data on our servers.
+
+Cookies and Other Technologies  
+We collect the anonymous information we mentioned above through the use of various technologies, one of which is called "cookies". A cookie is an element of data that we the Web site can send to your browser, which may then be stored on your hard drive. Cookies may last for only a single session or may span multiple sessions. Our Web site only uses single session cookies. We also use cookies throughout the private sections of our Web site in order to prevent security breaches as well as to track user activity. Finally, cookies are employed in other applications that require the storage of user data from one screen to the next.
 
 Your consent  
 By using our website, you consent to the collection and use of the information discussed above by Advocate Health Care. Changes in this policy will be posted on this page so that you may always be aware of what information is being collected, how it is being used, and under what circumstances it is being disclosed.
