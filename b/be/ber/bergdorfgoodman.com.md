@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208124534id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309003215id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
 
 # BergdorfGoodman.com
 
@@ -29,7 +29,7 @@ As we continue to develop our Web site and take advantage of advances in technol
 
 If you have a Bergdorf Goodman credit card, a separate privacy policy describes collection, use, and protection of information about you and your account. To obtain a copy of our credit card privacy policy: 
 
-  * Click to [review BG Credit Card policy](https://web.archive.org/web/20041208124534id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/shoppingOnline.jhtml;jsessionid=3AA5T3BL5C5QCCQAAJYCDMIKAABG2IOL#nmccuse) online
+  * Click to [review BG Credit Card policy](https://web.archive.org/web/20050309003215id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/shoppingOnline.jhtml;jsessionid=I1YUSGZ2NBE02CQAAJWSDOYKAABG2IOL#nmccuse) online
   * Call 1.888.774.2424
   * Write:  
 BergdorfGoodman.com  
@@ -67,8 +67,10 @@ Service providers: We provide information to outside companies that help us brin
 
 Other companies: We may provide your information to carefully selected outside companies when we believe their products or services may be of interest to you. 
 
+Business Transitions: We may transfer or share a copy of personal information about you in the event that The Neiman Marcus Group, Neiman Marcus Direct, BergdorfGoodman.com, or one of its properties, affiliates or subsidiaries, goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our web site prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of The Neiman Marcus Group, Neiman Marcus Direct, or BergdorfGoodman.com to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. The Neiman Marcus Group, Neiman Marcus Direct, or BergdorfGoodman.com specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information. 
+
 **Your choices regarding use of the information we collect**   
-If you do not want us to share information about you with any company or organization outside The Bergdorf Goodman Group: 
+If you do not want us to share information about you with any company or organization outside The Neiman Marcus Group, Neiman Marcus Direct, or Bergdorf Goodman: 
 
   * Call 1-800-NEIMANS (1.800.634.6267) 
   * Write:  
