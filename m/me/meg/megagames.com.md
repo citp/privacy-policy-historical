@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221221411id_/http%3A//megagames.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607141258id_/http%3A//megagames.com/policy.htm) for the most accurate reproduction.*
 
 # MegaGames - Game Cheats
 
 |   
 ---  
-| [](http://www.psxextreme.com/scripts/advtrace/advtrace.asp?url=http://www.psxextreme.com/home/ext/gamegizmo/mg_track.asp) |  |   
+| [](http://www.myaffiliateprogram.com/u/gamegizm/t.asp?id=1017) |  |   
 ---|---|---  
   
 [](http://www.webtrendslive.com/redirect.asp?siteID=70254)
@@ -17,8 +17,8 @@
 > 
 > We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 > 
-> This site uses the services of UGO Networks for the serving and/or targeting of ads, promotions and other marketing messages.  To do this, UGO Networks collects anonymous data about your visit to this and other Web sites, typically through the use of cookies.  To learn more about UGO Networks, including your ability to opt out of the their system, go to  
->  [http://www.ugo.com](http://www.ugo.com/).  
+> This site uses the services of UGO Networks, DoubleClick and ValueClick for the serving and/or targeting of ads, promotions and other marketing messages.  To do this, UGO Networks, DoubleClick and ValueClick collects anonymous data about your visit to this and other Web sites, typically through the use of cookies.  To learn more about UGO Networks, DoubleClick and ValueClick including your ability to opt out of the their system, go to  
+>  <http://www.ugo.com/services/about/privacyPolicy/>, <http://www.doubleclick.net/privacy_policy/>, <http://www.valueclick.com/privacy.html>  
 > 
 > 
 > ####  Registration Forms 
