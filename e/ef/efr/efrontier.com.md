@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the efrontier.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623215429id_/http%3A//www.efrontier.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efrontier.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204162514id_/http%3A//www.efrontier.com/privacy.htm) for the most accurate reproduction.*
 
 # Efficient Frontier - Privacy Policy
+
+Efficient Frontier, Inc. ["Efficient Frontier"] has established this Privacy Policy in order to demonstrate its firm commitment to privacy. The following policy is applicable to Efficient Frontier's information collecting, use and disclosure practices for the Efficient Frontier web site. Your use of this site tells us you have read and accept the practices outlined in this policy.
 
 This policy does not apply to the practices of companies that Efficient Frontier does not own or control or to people it does not employ or manage. 
 
