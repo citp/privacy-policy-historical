@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622154016id_/http%3A//www.pigsback.com/members/privacy_first.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003165525id_/http%3A//www.pigsback.com/members/privacy_first.asp) for the most accurate reproduction.*
 
 # P i g s b a c k.com - Privacy Policy
 
@@ -58,7 +58,7 @@ We welcome questions and comments about our Privacy Policy. If you want to conta
 
 > Pigsback.com  
 >  Empathy Marketing Ltd  
->  Lake Drive 3010  
+>  Lake Drive 3016  
 >  City West Campus  
 >  Saggart, Co Dublin  
 >  Rep of Ireland 
