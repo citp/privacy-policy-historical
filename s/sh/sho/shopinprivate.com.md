@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the shopinprivate.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620093420id_/http%3A//www.shopinprivate.com/buyinprivate/youriniskepp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopinprivate.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212044500id_/http%3A//www.shopinprivate.com/buyinprivate/youriniskepp.html) for the most accurate reproduction.*
 
 # The Privacy Policy At Shopinprivate.com
 
-| | [](https://web.archive.org/web/20000620093420id_/http%3A//www.shopinprivate.com/buyinprivate/index.html)
+[](http://store4.yimg.com/I/buyinprivate_1609_34759261)
 
-[](http://store1.yimg.com/I/buyinprivate_1556_2579644)
-
-**Privacy is our specialty \- Our Privacy Policy** When you place an order with Shopinprivate.com you are trusting us with your personal information. We take this trust very seriously. This policy describes how we keep your personal information private. **
+When you place an order with Shopinprivate.com you are trusting us with your personal information. We take this trust very seriously. This policy describes how we keep your personal information private. **
 
 * * *
 
 ****Shopinprivate.com will not misuse your personal information.**
 
-  * **We will not sell your information to any mailing lists.** Other companies can get 5 cents for each persons customer information. We don't think selling your name to a company that will send you junk e-mail or real mail is worth a nickel.
+  * **We will not sell your information to any mailing lists.** Other companies can get 5 cents for each persons customer information. We don't think selling your name to a company that will send you unwanted e-mail or junk mail is worth a nickel.
   * **We will not mail you unwanted information**. When you order from us you can control what information is sent to you. You can decide if you want an order confirmation, shipping confirmation, or customer survey. If you do not want any of these items we will still be pleased to have you as a customer and will work hard to process your order quickly and accurately. We will never send follow up e-mails soliciting repeat business. We feel that satisfying our customers will bring repeat business.
   * **We will not give out your e-mail address.** We don't have a mailing list and we will never start one. Tactics like spam (unsolicited e-mail) do not align with our vision of privacy.
-  * **We will keep credit card information safe by maintaining the most secure online transaction process possible.** We use the Strongarm secure server, in our opinion, technically the best product. It supports industry-standard 128-bit SSL encryption. This product is so secure, it cannot be exported. We trust our transaction to it. We hope you will also.
+  * **We will keep credit card information safe by maintaining the most secure online transaction process possible.** We use the Strong-arm secure server, in our opinion, technically the best product. It supports industry-standard 128-bit SSL encryption. This product is so secure, it cannot be exported. We trust our transaction to it. We hope you will also.
   * **We will maintain security of our systems and information.** We maintain the latest anti-virus software, and use secure passwords on all systems. Your credit card information is stored in encrypted format at every stage of processing and is stored behind two layers of password protection. Your information is safe with us.
 
 
@@ -26,13 +24,13 @@
 
 When you place an order with Shopinprivate.com you provide us with five pieces of information. Here is a summary of how we use them.
 
-  * **Your Billing Address** \- Your billing address is used to verify that the person placing the order matches the person who owns the credit card. This process is done through an "Address Verification System" which uses the numeric value of your street address and your zip code. These two numbers are entered into the system and verified against the address where you credit card bill is sent. For example: If Bill Johnson who lives at 18 Anyplace lane in Plainsville, VA 36281 placed an order, the system would verify the digits (18 and 36281) and tell us that the address verifies. The term billing address refers to your credit card bill only, Shopinprivate.com does not send anything to your billing address. 
-  * **Your Shipping Address -** The shipping address is used only to ship your order. 
-  * **Your e-mail address -** Your e-mail address is used if you select to receive any of three pieces of information. (You do not have to select to receive any). 
+  * **Your Billing Address** \- Your billing address is used to verify that the person placing the order matches the person who owns the credit card. This process is done through an "Address Verification System" which uses the numeric value of your street address and your zip code. These two numbers are entered into the system and verified against the address where you credit card bill is sent. For example: If Bill Johnson who lives at 18 Anyplace lane in Plainsville, VA 36281 placed an order, the system would verify the digits (18 and 36281) and tell us that the address verifies. The term billing address refers only to where your monthly credit card bill is sent. Shopinprivate.com does not send anything to your billing address.
+  * **Your Shipping Address -** The shipping address is used only to ship your order.
+  * **Your e-mail address -** Your e-mail address is used if you select to receive any of three pieces of information. (You do not have to select to receive any).
     * If you would like to be e-mailed a copy of your order we can do that.
     * If you would like to be e-mailed a shipping confirmation we can do that.
     * If you would like to participate in a customer service survey (handled through Yahoo! Shopping) you can do that.
-  * **Your Phone Number -** Is not used unless Express Mail is selected in which case the postal service requests that it be provided. 
+  * **Your Phone Number -** Is not used unless Express Mail is selected in which case the postal service requests that it be provided.
   * **Your Credit Card Information -** Is used only to process your transaction. Your card is charge only after the order is shipped.
 
 
@@ -58,6 +56,18 @@ When you place an order with Shopinprivate.com you provide us with five pieces o
       * In summary, your purchase from Shopinprivate.com is held in the strictest of confidence. It is private.
 
 
+
+* * *
+
+**Legal Issues**
+
+  * Occasionally, A transaction is involved in a legal dispute (usually credit card fraud). If information is requested from us in the form of a subpoena (a legal demand for information or appearance) we are required to provide it. If this occurs, our policy is to first contact our customer to inform them of our legal obligations. This is not a common issue, and generally affects only people who are committing credit card fraud but our Lawyer wanted us to mention it.
+
+
+
+* * *
+
+Shopinprivate.com is a partner with Yahoo!. Yahoo! hosts our store and shopping cart software. They do a great, responsible job making sure our site is up and running and our customers are happy. Shopinprivate.com has been with Yahoo! for a very long time. When We first partnered with a company called viaweb. Viaweb was a very fine company with a fine product. Viaweb was purchased by Yahoo!. Throughout our partnership the experience has been very positive for Shopinprivate.com, for Yahoo! and most of all for our customers.
 
 * * *
 
