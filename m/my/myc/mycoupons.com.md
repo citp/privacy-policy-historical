@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202142314id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606074812id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.*
 
 # MyCoupons - Coupons, Price Comparison, Discounts, Rebates, Gift Cards, Free Stuff, and much more!
 
 **How Data is Collected:**  
-Signing up for the MyCoupons/DirectCoupons provides Direct Response Technologies, Inc with your name, email address, gender, and zip code. Our method of collection is through our register page (<https://mycoupons.com/signup/>). After a subscriber enters his/her name, email address, year of birth, gender, and zip code, data is transfered to our server and an account is setup. For more information about the Terms of Use of MyCoupons/DirectCoupons, please read the Termso of use page at: <https://mycoupons.com/page_terms.html>
+Signing up for the MyCoupons® service provides Direct Response Technologies, Inc with your name, email address, gender, and zip code. Our method of collection is through our register page (<https://mycoupons.com/signup/>). After a subscriber enters his/her name, email address, year of birth, gender, and zip code, data is transfered to our server and an account is setup. For more information about the Terms of Use of MyCoupons®, please read the Terms of use page at: <https://mycoupons.com/page_terms.html>
 
 **How the Information is used:**  
-MyCoupons/DirectCoupons free email account allows you to forward email received from your MyCoupons address to any existing email account of your choosing. It also allows you to simply read and send email from the web browser. We do not read users email. We offer highest level of privacy offered to protect the users data. We only email your MyCoupons email box, unless we find a problem with your account, then we will email your regular email address. The other demographical data is used only to profile our general user base, and not to market to accordingly. 
+MyCoupons® free email account allows you to forward email received from your MyCoupons address to any existing email account of your choosing. It also allows you to simply read and send email from the web browser. We do not read users email. We offer highest level of privacy offered to protect the users data. We only email your MyCoupons email box, unless we find a problem with your account, then we will email your regular email address. The other demographical data is used only to profile our general user base, and not to market to accordingly. 
 
 **With Whom will information be shared:**  
 Direct Response Technologies, Inc., holds all data gathered in strict confidence. Under no circumstances will your e-mail address be sold to, supplied to, or otherwise made available to any third party. However, if you select to have one of the 'opt-in' advertisers to send you offers and emails to your MyCoupons email address, then we supply them with your name, zip code, gender, and your email address. Otherwise, they are never given your personal email address, and you can opt out from their emails whenever you wish. 
@@ -33,18 +33,12 @@ We do keep track of user IP numbers and log browser type, access times, and doma
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 **Change/Update User Information:**  
-To Change user information, a subscriber only needs to send their request via our Feedback form located here: <http://www.mycoupons.com/page_feedback.html> Or by: 
-
-412-921-6881  
-[office@directresponse.com](mailto:office@directresponse.com)
+To Change user information, a subscriber only needs to click on MyCoupons Account, log in, and click on Edit Account. 
 
 **The Site Opt-Out Policy**  
-Subscribers can opt-out at any time from MyCoupons/DirectCoupons. Subscribers of MyCoupons Free Email can email [office@Direct Response Technologies, Inc](mailto:office@Direct%20Response%20Technologies,%20Inc) and ask to have the account removed immediately, or, the account will be automatically removed after 180 days of non-activity. Or By: 
+Subscribers can opt-out at any time from MyCoupons® by hitting unsubscribe in the newsletters or logging into their account and disabling it. 
 
-412-921-6881  
-[office@directresponse.com](https://web.archive.org/web/20031202142314id_/http%3A//www.mycoupons.com/office@directresponse.com)
-
-If you opt-in for a newsletter listed on the signup form of MyCoupons/DirectCoupons, and you try to opt out of the newsletter that you opt in for while signing up for MyCoupons/DirectCoupons, in some cases you may have to confirm your opt out. 
+If you opt-in for a newsletter listed on the signup form of MyCoupons®, and you try to opt out of the newsletter that you opt in for while signing up for MyCoupons®, in some cases you may have to confirm your opt out. 
 
 412-921-6881  
 [office@directresponse.com](mailto:office@directresponse.com)
@@ -56,10 +50,10 @@ Subscribers can create new accounts simply by going through the registration pro
 We collect no business data. 
 
 **Links to other sites:**  
-We link to may other sites from MyCoupons/DirectCoupons. Our site is a list of coupons and free stuff found on the Internet. Our links are provided to users and users link at their own risk. We do not share information, such as demographical data tracking, to link partners. We ONLY provide our listed 'opt in' partners with name, zipcode, gender, and email address if users opts in. 
+We link to may other sites from MyCoupons®. Our site is a list of coupons and free stuff found on the Internet. Our links are provided to users and users link at their own risk. We do not share information, such as demographical data tracking, to link partners. We ONLY provide our listed 'opt in' partners with name, zipcode, gender, and email address if users opts in. 
 
 **Third Party Advertising Networks**  
-This site, MyCoupons/DirectCoupons, uses the services of DirectLeads/DirectClicks, for the serving and/or targeting of ads, promotions and other marketing messages. DirectLeads/DirectClicks are owned by Direct Response Technologies, Inc. Information is handled in the same manner on those networks, as it is here. 
+This site, MyCoupons®, uses the services of DirectLeads/DirectClicks, for the serving and/or targeting of ads, promotions and other marketing messages. DirectLeads/DirectClicks are owned by Direct Response Technologies, Inc. Information is handled in the same manner on those networks, as it is here. 
 
 **Privacy of Information**  
 It is Direct Response Technologies, Inc / MyCoupons's policy to respect the privacy of its Users. Direct Response Technologies, Inc / MyCoupons does not censor or control the contents of its Users' email messages. You alone are responsible for the contents of your messages, and the consequences of any such messages. As owner of the equipment and other resources used in providing the Direct Response Technologies, Inc / MyCoupons Service, Direct Response Technologies, Inc / MyCoupons and its suppliers reserve the right to employ blocking or filtering software or other monitoring devices or techniques if deemed necessary or reasonable to detect and/or protect itself from spam with respect to electronic communications received by Users from other persons or entities. 
