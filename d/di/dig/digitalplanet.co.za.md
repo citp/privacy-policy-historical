@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitalplanet.co.za privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621190504id_/http%3A//www.digitalplanet.co.za/dp/about/default.asp%3FID%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalplanet.co.za privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204004659id_/http%3A//www.digitalplanet.co.za/dp/about/default.asp%3FID%3D10) for the most accurate reproduction.*
 
 # Digital Planet - About Us
 
 **Digital Planet respects your privacy** This statement discloses the privacy practices for both our Web site and email system. 
 
-We have designed Digital Planet so that **no personal identifying information is displayed online** or is accessible to the general public. However, your initials are used to identify your bid in the Bid History section of the Auctions. We do not reveal your email address or other personal information, except to complete transactions with our third party suppliers. **We do not sell or rent our customer information to any outside parties.**
+We have designed Digital Planet so that **no personal identifying information is displayed online** or is accessible to the general public. **We do not sell or rent our customer information to any outside parties.**
 
 Described below is our privacy policy in these areas: 
 
