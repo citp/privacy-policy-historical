@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604055949id_/http%3A//kfoxtv.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012120357id_/http%3A//www.kfoxtv.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
 
 # KFOXTV.com - Privacy Policy
 
