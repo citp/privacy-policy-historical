@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredericknewspost.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204142200id_/http%3A//www.fredericknewspost.com/docs/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericknewspost.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613035050id_/http%3A//www.fredericknewspost.com/docs/privacy.cfm) for the most accurate reproduction.*
 
 # Frederick News-Post Online Privacy
 
