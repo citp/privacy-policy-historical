@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606161213id_/http%3A//getmytime.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204085717id_/http%3A//www.getmytime.com/privacy.asp) for the most accurate reproduction.*
 
-# Web Based Time Management Quickbooks Timer, GetMyTime.com _ Privacy Statement
+# Web Based Time Management QuickBooks® Timer, GetMyTime.com _ Privacy Statement
 
 As an Internet user, you no doubt recognize the usefulness of this amazing medium. A medium of such great promise in one-to-one and one-to-many communications does not come without its concerns. Many members of the on-line community are rightfully concerned about maintaining a comfortable level of privacy. As active members of the on-line community, **GetMyTime.com** supports industry self-regulation. We believe all web sites should openly share their policies and practices of collecting and processing information. 
 
