@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2003-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031229190625id_/http%3A//jamesallen.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401223732id_/http%3A//www.jamesallen.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
