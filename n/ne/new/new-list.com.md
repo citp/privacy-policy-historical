@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the new-list.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114532id_/http%3A//new-list.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the new-list.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209102211id_/http%3A//www.new-list.com/privacy) for the most accurate reproduction.*
 
 # New-List.com, Privacy Statement
 
