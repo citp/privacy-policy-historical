@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206065726id_/http%3A//www.jta.org/page_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jta.org privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624145707id_/http%3A//www.jta.org/page_privacy.asp) for the most accurate reproduction.*
 
 # JTA - Global Jewish News
 
   
-This Privacy Policy explains what information the Jewish Telegraph Agency ("JTA" or "we" or "us") collects on our web site, www.jta.org (the "Web Site"), how we use your information, and your choices. This Privacy Policy only covers information collected at this Web Site, and does not cover any information collected by any other web site or offline by JTA (unless specifically stated) or any other company. Please read this Privacy Policy carefully. Information JTA Collects 
+This Privacy Policy explains what information the Jewish Telegraph Agency ("JTA" or "we" or "us") collects on our web site, www.jta.org (the "Web Site"), how we use your information, and your choices. This Privacy Policy only covers information collected at this Web Site, and does not cover any information collected by any other web site or offline by JTA (unless specifically stated) or any other company. Please read this Privacy Policy carefully. 
+
+**Information JTA Collects**
 
 In order to access certain portions of the Web Site, or if you choose to participate in certain features, such as receiving one of our newsletters, ordering publications or making a donation, you may need to register and provide certain personally identifiable information ("PII") about yourself, such as your name, address, email address, phone number or credit card information. In addition, we may on occasion provide you the opportunity to provide PII, such as name or e-mail address, of someone else, such as if you choose to e-mail a friend an article or make a donation in the name of someone else. 
 
