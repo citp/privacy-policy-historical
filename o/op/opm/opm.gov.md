@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opm.gov privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152259id_/http%3A//opm.gov/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opm.gov privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202065824id_/http%3A//www1.opm.gov/html/privacy.htm) for the most accurate reproduction.*
 
 # Office of Personnel Management Web Privacy Policy
 
@@ -33,7 +33,3 @@ Our web site has links to other federal agencies. We also link to other organiza
 ****
 
 We ensure that our web site remains available to all users by using a Government computer system that employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
-
-* * *
-
-Page updated 14 December 2001 
