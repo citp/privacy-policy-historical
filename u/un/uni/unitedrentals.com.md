@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedrentals.com privacy policy that was archived on 2003-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031223004424id_/http%3A//www.unitedrentals.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedrentals.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608013851id_/http%3A//www.unitedrentals.com/company/privacy.html) for the most accurate reproduction.*
 
 # United Rentals | The Right Equipment. Right Now!
 
