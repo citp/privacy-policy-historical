@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employmentspot.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608050746id_/http%3A//employmentspot.com/common/site/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentspot.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205122000id_/http%3A//employmentspot.com/common/site/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,3 +17,16 @@ StartSpot Mediaworks does not intend to accept or collect personally-identifiabl
 If a child has provided StartSpot Mediaworks with an e-mail address, we ask that a parent or guardian of the child contact [webmaster@startspot.com](mailto:webmaster@startspot.com) if they would like the e-mail address deleted from StartSpot lists. StartSpot Mediaworks will use reasonable efforts to delete their e-mail addresses from existing files.
 
 This policy is not intended to be a contractual obligation of any kind. It is intended to set forth StartSpot Mediaworks' current policy. StartSpot Mediaworks will take reasonable measures to implement this policy.
+
+|   | 
+
+|   
+---  
+ |    
+Search the [Publications Library from Factiva](https://web.archive.org/common/factiva/learnmore.htm), an archive of thousands of publications dating back up to 15 years. It's free to search. Articles are $2.95. Enter keywords or phrases, separated by and, or, not:  
+ |   
+ |  Free registration improves your results. [Learn More... ](https://web.archive.org/common/factiva/learnmore.htm)  
+  
+  
+  
+
