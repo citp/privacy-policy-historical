@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214085400id_/http%3A//sickbay.com/healthline/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214091059id_/http%3A//www.sickbay.com/healthline/privacy.html) for the most accurate reproduction.*
 
-# Healthline.com: Privacy Policy
+# Healthline.com: Health - Fitness - Lifestyle
 
-|  |  |  |  |  |  |   
-   
-|  | 
-
+|  |   
+---  
+  
+* * *  
+  
 Questions regarding this statement should be directed to Sickbay Health Media's Customer Support by email at [service@sickbay.com](mailto:service@sickbay.com)
 
 **a. General.** Sickbay Health Media recognizes the premium you place on privacy protection on the Internet. Our employees share the same concerns! Working together, we strive to protect your privacy, including the non-identifying information you share in the personal profile that you must complete in order to become a participating member ("Member") within the Interactive Areas of this Site. 
@@ -34,7 +35,4 @@ Healthline.com, Sickbay.com, and Netsweat.com send regular email updates to Memb
 
 **e. Encryption Technology.** Healthline.com, Sickbay.com, and Netsweat.com use Secure Socket Layer ("SSL") encryption technology to ensure the integrity and privacy of the information you pass to us via the Internet; however, to take advantage of this, you must use utilize a browser that maintains 128bit encryption support.
 
-|   
----|---|---  
-  
-Copyright [Sickbay Health Media](http://www.sickbayhealthmedia.com/), Inc., 2000 © :: [Terms of Use](http://sickbay.com/healthline/terms.cfm) :: [Privacy Policy](http://sickbay.com/healthline/privacy.cfm) :: [Disclaimer](http://sickbay.com/healthline/disclaimer.cfm) :: [Contact Us](http://sickbay.com/healthline/contact.cfm)
+| 
