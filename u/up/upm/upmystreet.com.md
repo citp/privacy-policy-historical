@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627062940id_/http%3A//upmystreet.com/aboutus/rubric/%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205054136id_/http%3A//upmystreet.com/aboutus/rubric/%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # UpMyStreet Small print: Privacy policy
 
@@ -12,9 +12,13 @@ UpMyStreet believes your right to privacy is important. To run an efficient, eff
 
 UpMyStreet may also gather anonymous information for its own use and/or to be shared with third parties. This is information that does not personally identify you, but which may be helpful for marketing purposes, for improving the services we offer, or for informing advertisers of the number of consumers that have clicked on their advertising banners. Generally, this information involves 'traffic' data, such as the number of first-time and return users to the website every month. 
 
+If you request to be kept informed of services that we offer, we collect your name and email address. You can opt-out of receiving information from us whenever you input personal data, or by sending an email by clicking on 'Feedback' on the website. 
+
 ##### How do we protect your personal details?
 
-We have strict procedures governing the storage and disclosure of personal details to prevent unauthorised access and misuse. In addition, all your personal information is password-protected: only you, UpMyStreet and our partner websites have access to your personal information. 
+We have strict procedures governing the storage and disclosure of personal details to prevent unauthorised access and misuse. In addition, all your personal information is password-protected: only you and UpMyStreet have access to your personal information. 
+
+We will not rent, trade or sell your data to others. 
 
 ##### E-mail this page to a friend
 
