@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbreedpedigree.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607062253id_/http%3A//www.pedigreeonline.com/policy.php%3Ffrom%3Dall) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbreedpedigree.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207005943id_/http%3A//www.pedigreeonline.com/policy.php%3Ffrom%3Dall) for the most accurate reproduction.*
 
 # PedigreeOnline.com - Handicapper's Thoroughbred Pedigree Reports - Policy
 
