@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the bartleby.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802055728id_/http%3A//www1.bartleby.com/sv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bartleby.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080625id_/http%3A//www5.bartleby.com/sv/privacy.html) for the most accurate reproduction.*
 
 # Facts
 
+| [](http://www.amazon.com/exec/obidos/redirect?tag=bartlebylibrary&path=ASIN/043935806X) |   
+---|---  
+  
 **Bartleby Communications Privacy Policy.**   April 26, 2001   
 
 
 > We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. 
 > 
-> If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](https://web.archive.org/web/20020802055728id_/http%3A//www1.bartleby.com/sv/www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
+> If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](https://web.archive.org/web/20030621080625id_/http%3A//www5.bartleby.com/sv/www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
 > 
 > **Consumer Information**   
 > During the process of delivering an ad to you, Bartleby does not collect any personally identifiable information about you—such as name, address, phone number, or e-mail address. However, Bartleby does obtain some types of nonpersonally identifiable information—such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by Bartleby is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. In some cases, you may voluntarily provide personal information in response to a specific ad (the advertiser may ask you to fill out a survey or provide your zip code). If this does occur, Bartleby may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, Bartleby may combine this information with other users’ information and review it in an aggregate form to understand the type of people who view a specific type of ad or visit a particular kind of website.
@@ -19,4 +22,5 @@
 > 
 > If you have any additional questions about Bartleby’s dedication to consumer privacy, please contact us at [webmaster@bartleby.com](mailto:webmaster@bartleby.com).
 
-| 
+[](http://www.amazon.com/exec/obidos/redirect?tag=bartlebylibrary&path=ASIN/043935806X) |   
+---|---
