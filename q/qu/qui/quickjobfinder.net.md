@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickjobfinder.net privacy policy that was archived on 2004-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040415105600id_/http%3A//www.quickjobfinder.net/content.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickjobfinder.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032126id_/http%3A//www.quickjobfinder.net/content.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # Quick Job Finder
 
