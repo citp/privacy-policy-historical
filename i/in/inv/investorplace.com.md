@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorplace.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207001006id_/http%3A//www.investorplace.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorplace.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405234633id_/http%3A//www.investorplace.com/info/privacy.php) for the most accurate reproduction.*
 
 # InvestorPlace.com: Privacy Policy
 
@@ -55,10 +55,10 @@ We are committed to protecting and respecting your privacy. We hope this Privacy
 If you have any questions or concerns regarding this statement, you may contact:
 
 Phillips Investment Resources, LLC  
-7811 Montrose Road  
-Potomac, MD 20854
+9420 Key West Avenue   
+Rockville, MD 20850 
 
-1-800-777-5005
+1-800-219-8592
 
 [investorplace@investorplace.com](mailto:investorplace@investorplace.com)
 
