@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aneki.com privacy policy that was archived on 2004-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040407181333id_/http%3A//www.aneki.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aneki.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204012244id_/http%3A//www.aneki.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title>Privacy Statement </title>
 <meta name="description" content="">
@@ -34,63 +34,91 @@ doc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
 </script>
 <!-- FASTCLICK.COM POP-UNDER CODE v1.7e for aneki.com -->
 <meta content="MSHTML 5.50.4134.600" name="GENERATOR">
+<script language="javascript">
+       var sMsg = "";
+       var sMax = 500;
+
+       function checkInput(frm) {
+       /* Checks for Recipient and Sender values (required). Then validates email addresses. */
+
+        var bPassChk = true;
+        if (frm.recipient.value == "") {
+                sMsg = "Please enter the the recipient's e-mail address.";
+                bPassChk = false;
+        }
+        else if (frm.senderemail.value == "") {
+                sMsg = "Please enter your e-mail address.";
+                bPassChk = false;
+        }else {
+                /* validate "To" email format */
+                sMsg = "A recipient's ";
+					bPassChk = validateEmail(frm.recipient.value);
+					if (bPassChk) {
+						/* validate "From" email format */
+						sMsg = "Your ";
+						bPassChk = validateEmail(frm.senderemail.value);
+					}
+        }
+
+        if (!bPassChk) {
+                alert(sMsg);
+        }else{
+				
+            	frm.submit();
+				
+        }
+       }
+
+      function validateEmail(sEml) {
+			   var bOK;
+			   if (sEml.charAt(sEml.length-1) == ",") {sEml = sEml.substr(0,sEml.length-1);}
+			   sEml = sEml.replace(/\s/g,"");
+			   var aEml = sEml.split(",");
+			   if (aEml.length > 100) {
+					sMsg = "You have entered " + aEml.length + " email addresses. Please limit your entries to  100.";
+					bOK = false;
+					return bOK;
+				}
+			   for (var i=0;i<aEml.length;i++) {
+						bOK = validateEmail2(aEml[i])
+						if (!bOK) {
+							sMsg += "e-mail address is not valid. Please re-enter.";
+							break;
+						}
+			   }
+			   return bOK;
+       }
+
+       function validateEmail2(strValue) {
+			    var objRegExp  = /^[a-z0-9]([a-z0-9_\-\.]*)@([a-z0-9]{1,}[a-z0-9_\-\.]*)(\.[a-z]{2,4}(\.[a-z]{2}){0,2})$/i;
+  				return objRegExp.test(strValue);
+		   }
+
+      /* function validateText(oMsg){
+			   // make substitutions to put a space after each "." and "@" in the message body
+			   sText = oMsg.value;
+			   sText = sText.replace(/\./g,". ");
+			   sText = sText.replace(/@/g,"@ ");
+			   sText = sText.replace(/</g,"< ");
+			   oMsg.value = sText;
+			   var bLen = checkLength(sText.length);
+			   return bLen;
+		   } */
+
+       function checkMsgLength(oMsg) {
+			  var iLen = oMsg.value.length;
+			  if (iLen > sMax) {
+					alert("Message length is limited to " + sMax + " characters. Your message is currently " + iLen + ".");
+					return true;
+			   }else{
+			   		return false;
+		   		}
+			}
+
+</script>
 </head>
 <body bgcolor="#0066ff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<script language="JavaScript"> 
-<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
-function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
-var bN = navigator.appName;
-var bV = parseInt(navigator.appVersion);
-var base='http://www.burstnet.com/';
-var Tv=''; var Itr='';
-var sz=''; var bkgd='';
-var bgc=''; var rfr='';
-var vr='v=1.0J';
-var agt=navigator.userAgent.toLowerCase();
 
-if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
-if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
-if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
-rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
-                            
-if (bV>=4) {
-  ts=window.location.pathname+window.location.search;
-  i=0; Tv=0; while (i< ts.length)
-    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
-} else {Tv=escape(window.location.pathname);
-  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
-    else if (Tv.charAt(1)=="/")
- Tv="";
-  if( Tv.charAt(Tv.length-1) == "/")
-   Tv = Tv + "_";
-}
-
-var fCode='<ifr'+'ame id="BURST" src="'+base+
- 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
- rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
- height+'"'+'marginwidth="0" marginheight="0"'+
- 'hspace="0" vspace="0" frameborder="0" '+
- 'scrolling="no">';
- var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
- vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
- 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
- '" border="0" alt="Click Here"></a>';
-var fCodeEnd = '</ifr'+'ame>';
-
-if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
- Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
- '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
-}
-
-if (agt.indexOf("mac")==-1) {
-  document.write(fCode+gCode+fCodeEnd+Itr);
-} else {
-  document.write(gCode);
-}
-}
-//-->
-</script>
-<!-- END BURST CODE -->
 <table bgcolor="#0066ff" cellspacing="0" cellpadding="0" width="800">
 <tbody>
 <tr>
@@ -129,8 +157,8 @@ width=728 height=90 border=1></a></noscript>
 
 </tbody></table>
 <br>
-<table cellspacing="0" cellpadding="0" width="1000">
-<tbody><tr width="150">
+<table cellspacing="0" cellpadding="0">
+<tbody><tr>
 <td bgcolor="#003399" width="150" valign="top">
 <table width="150" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#000000" width="150"><font color="#ffffff"><b>World Regions</b></font></td></tr></tbody></table>
 <table width="150" cellpadding="10"><tbody><tr><td width="150">
@@ -165,39 +193,42 @@ width=728 height=90 border=1></a></noscript>
 <font color="#ffffff"><b>Flags</b></font></a><br>
 <a href="http://www.aneki.com/embassies.html" onclick="this.href=FCx(this.href);">
 <font color="#ffffff"><b>Embassies </b></font></a><br>
-<p>
+<a href="http://www.aneki.com/consulates.html" onclick="this.href=FCx(this.href);">
+<font color="#ffffff"><b>Consulates </b></font></a><br>
 
 
-
-</p></td></tr></tbody></table>
+</td></tr></tbody></table>
 
 
 
 
 </td>
-<td bgcolor="#ffffff" align="left" valign="top">
+<td bgcolor="#ffffff" align="left" valign="top" width="1500">
 <table cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#f1e4d8" width="1500"><b><font size="+1">&nbsp;Privacy Statement</font></b></td></tr></tbody></table>
-<p>
 <table cellspacing="5" cellpadding="5" border="0"> <tbody><tr><td>Aneki.com respects the privacy of visitors to our website. Individually identifiable informationabout you is not collected unless it was deliberately sent by you. We do not share any information about you with any third party without your permission.<p><b>What Information do we collect?</b><br>We are able to and do collect such information as the IP address, browser type, browser language and time of dayof each visit to any page on our website. </p><p><b>With whom do we share information?</b><br>We may share information with advertisers, business partners and other third parties. The type of information we share is statistical in nature. Examples of such information are our average monthly number of visitors; what time ofday traffic peaks and also demographical information based on IP adddress data. </p><p><b>Links to other sites</b><br>Aneki.com contains links to other websites. We do not control and are not responsible for the content or practices of these sites</p><p><b>Cookies</b><br>Aneki.com does not make use of "cookies".</p><p><b>More Information</b><br>For more information please contact: <a href="mailto:info@aneki.com">info@aneki.com</a>        </p><p> <br> <br>        </p><p> </p></td></tr></tbody></table>
-</p><p>
-</p><p>
-</p><center><table cellspacing="0" cellpadding="0"><tbody><tr><td><a href="http://www.aneki.com/emailthispage.php"><font size="-1" color="blue">E-mail this page</font></a></td></tr></tbody></table></center>
 <p>
+</p><p>
+
+
+
+</p><p>
 
 
 
 <table cellspacing="5" cellpadding="5" border="0"><tbody><tr><td><p>
-</p><center><table width="310" cellpadding="0" cellspacing="1" bgcolor="#42426f"><tbody><tr bgcolor="#ffffff">
+</p><center><table width="310" cellpadding="5" cellspacing="bgcolor=#42426f"><tbody><tr bgcolor="#ffffff">
 <td valign="top" align="left">
-<table bgcolor="#cccccc" width="310"><tbody><tr><td>
-<font color="#000000"><b>Resource </b></font>
+<table bgcolor="#cccccc" width="310" cellpadding="5"><tbody><tr><td>
+<font color="#000000"><b>Resources </b></font>
 </td></tr></tbody></table>
 
-<center>&nbsp;•&nbsp;<a href="http://www.aneki.com/world_almanac.html">
-<b><u>Quickly find facts and figures for 192 countries with
-the world almanac tool.</u></b>
-</a></center>
-<p>
+•&nbsp;<a href="http://www.aneki.com/world_almanac.html">
+<b>Quickly find facts and figures for 192 countries with
+the world almanac tool.</b>
+</a>
+<p>•&nbsp;<a href="http://www.aneki.com/comparisons.html"><b>Compare any two countries with the country comparisons tool.</b></a>
+</p><p>•&nbsp;<a href="http://www.aneki.com/destination_planner.html"><b>Explore potential vacation spots with the destination planner.</b></a>
+</p><p>
 </p><center>
 <p>
 <!-- FASTCLICK.COM 300x250 MEDIUM RECTANGLE CODE for aneki.com -->
@@ -214,7 +245,7 @@ width=300 height=250 border=1></a></noscript>
 </p><p>
 
 <br><br><br><br><br><br><br><br><br>
-</p><center> <a href="http://www.aneki.com/about.html">About aneki.com | </a><a href="http://www.aneki.com/contact.html">Contact Us</a></center>
+</p><center> <a href="http://www.aneki.com/about.html">About aneki.com </a><font color="blue">&nbsp;|&nbsp;</font><a href="http://www.aneki.com/contact.html">Contact Us</a> <font color="blue">&nbsp;|&nbsp;</font> <a href="http://www.aneki.com/emailthispage.php">E-mail this page</a></center>
 <br><br>
 
 <center><font size="-2" color="black">Copyright ©  2004 aneki.com All rights 
@@ -278,6 +309,6 @@ width=160 height=600 border=1></a></noscript>
 
 
 
-<!-- text below generated by server. PLEASE REMOVE --><!-- Counter/Statistics data collection code --><script language="JavaScript" src="http://hostingprod.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1081361613" alt="setstats" border="0" width="1" height="1"></noscript>
-<img src="http://geo.yahoo.com/serv?s=76001524&amp;t=1081361613" alt="1" width="1" height="1">
+<!-- text below generated by server. PLEASE REMOVE --><!-- Counter/Statistics data collection code --><script language="JavaScript" src="http://hostingprod.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1102123358" alt="setstats" border="0" width="1" height="1"></noscript>
+<img src="http://geo.yahoo.com/serv?s=19190039&amp;t=1102123358" alt="1" width="1" height="1">
 </body></html>
