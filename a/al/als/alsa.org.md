@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202204228id_/http%3A//www.alsa.org/als/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206181636id_/http%3A//www.alsa.org/als/privacy.cfm) for the most accurate reproduction.*
 
 # ALSA: About ALS and ALSA: Privacy Policy
 
-[](https://web.archive.org/index.cfm)[](https://web.archive.org/web/20020202204228id_/http%3A//www.alsa.org/als/understand.cfm)[](https://web.archive.org/web/20020202204228id_/http%3A//www.alsa.org/als/patient.cfm)[](https://web.archive.org/web/20020202204228id_/http%3A//www.alsa.org/als/about.cfm)[](https://web.archive.org/web/20020202204228id_/http%3A//www.alsa.org/als/help.cfm) [](https://web.archive.org/index.cfm)[](https://web.archive.org/als/help.cfm)[](https://web.archive.org/als/faq.cfm)[](https://web.archive.org/serving/library.cfm)[](https://web.archive.org/store.cfm)[](https://web.archive.org/search.cfm) |  |    
+[](https://web.archive.org/index.cfm)[](https://web.archive.org/web/20021206181636id_/http%3A//www.alsa.org/als/understand.cfm)[](https://web.archive.org/web/20021206181636id_/http%3A//www.alsa.org/als/patient.cfm)[](https://web.archive.org/web/20021206181636id_/http%3A//www.alsa.org/als/about.cfm)[](https://web.archive.org/web/20021206181636id_/http%3A//www.alsa.org/als/help.cfm) [](https://web.archive.org/index.cfm)[](https://web.archive.org/als/help.cfm)[](https://web.archive.org/als/faq.cfm)[](https://web.archive.org/serving/library.cfm)[](https://web.archive.org/store.cfm)[](https://web.archive.org/search.cfm) |  |    
 This is the Web site of The ALS Association, [http://www.alsa.org](http://www.alsa.org/). 
 
 Our postal address is: 
@@ -46,4 +46,4 @@ Updated 1/25/02
 
 The information contained on this web site may not be published, broadcast or otherwise distributed without the prior written authorization of The ALS Association. 
 
-Contact the [ALSA Webmaster](mailto:webmaster@alsa.org).  |  View our [Privacy Policy](http://www.alsa.org/als/privacy.cfm). 
+[ALSA Webmaster](mailto:webmaster@alsa.org)  |  [Privacy Policy](http://www.alsa.org/als/privacy.cfm)  |  [Link Policy and Disclaimer](http://www.alsa.org/als/link_policy.cfm)
