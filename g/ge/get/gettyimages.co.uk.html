@@ -1,0 +1,693 @@
+<!--The following is the downloaded HTML source of the gettyimages.co.uk privacy policy that was archived on 2004-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040611223813id_/http%3A//creative.gettyimages.com/source/home/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+
+
+<!-- GETTYONE.COM MAC NETSCAPE STYLE SHEET -->
+<link href="/source/include/MacNS4Style.css" type="text/css" rel="stylesheet"> 
+
+<script src="/source/include/DOM_utils.js" type="text/javascript"></script><!-- in localize_utils  -->
+
+
+
+<script language="JavaScript" type="text/javascript">
+// mainMenuData items are: itemURL, itemImage, left, width, height, altTag
+var mainMenuData = new Array(
+	"http://creative.gettyimages.com/source/frontdoor/default_mediaimages.aspx", "/en-us/images/nav/gnav_01_reg.gif", "0", "139", "14", "images", 168,
+	"http://creative.gettyimages.com/source/film/default.aspx", "/en-us/images/nav/gnav_02_reg.gif", "146",  "139", "14", "film", 168,
+	"http://creative.gettyimages.com/source/services/services.asp", "/en-us/images/nav/gnav_03_reg.gif", "292", "139", "14", "services", 168,
+	"http://creative.gettyimages.com/source/account/account.asp", "/en-us/images/nav/gnav_04_reg.gif", "438", "139", "14", "my account", 168,
+	"http://creative.gettyimages.com/source/home/Javascript:return null;", "/en-us/images/nav/gnav_05_reg.gif", "584", "175", "14", "deutschland", "175");
+
+// menuData items are:  itemText, itemURL
+var menuData0 = new Array(
+	"image collections", "http://creative.gettyimages.com/source/frontdoor/default_mediaimages.aspx",
+	"advanced image search", "http://creative.gettyimages.com/source/search/search.asp",
+	"CDs","http://creative.gettyimages.com/source/products/cdsearch.aspx?productType=2",
+	"catalogs","http://creative.gettyimages.com/source/products/catalogmain.asp",
+	"image spotlight","http://creative.gettyimages.com/source/frontdoor/default_spotlight.aspx",
+	"my lightboxes","http://creative.gettyimages.com/source/search/lightbox.asp");
+	
+var menuData1 = new Array(
+	"film home page", "http://creative.gettyimages.com/source/film/default.aspx",
+	"advanced film search", "http://creative.gettyimages.com/source/film/advsearch.aspx",
+	"film CDs", "http://creative.gettyimages.com/source/products/cdsearch.aspx?productType=1",
+	"my clipbins","http://creative.gettyimages.com/source/film/clipbin.aspx");
+
+var menuData2 = new Array(
+
+	"service offerings","http://creative.gettyimages.com/source/services/services.asp",
+	"research services","http://creative.gettyimages.com/source/services/research.asp",
+	"photo assignments","http://creative.gettyimages.com/source/ListingService/SearchAS.aspx",
+	"rights & clearance","http://creative.gettyimages.com/source/services/rights.asp",
+	"media management services","http://creative.gettyimages.com/source/services/media_management.asp",
+	"film resources","http://creative.gettyimages.com/source/services/motion_resources.asp",
+	"contact us","Javascript:openHelpWindow(&quot;http://creative.gettyimages.com/source/help/helpcontact.aspx&quot;,&quot;helpWin&quot;)");
+
+
+var menuData3 = new Array(
+	"account overview","https://creative.gettyimages.com/source/account/account.asp",
+	"my profile","https://creative.gettyimages.com/source/account/register.aspx?mode=3",
+	"search preferences","http://creative.gettyimages.com/source/search/preference.asp",
+	"current order","http://creative.gettyimages.com/source/order/order.asp",
+	"previous purchases","http://creative.gettyimages.com/source/account/purchase.asp",	
+	"my lightboxes","http://creative.gettyimages.com/source/search/lightbox.asp",
+	"my clipbins","http://creative.gettyimages.com/source/film/clipbin.aspx",
+	"my virtual CDs","http://creative.gettyimages.com/source/products/virtualcd.aspx",	
+	"saved licenses","https://creative.gettyimages.com/source/account/savedlicenses.aspx");
+
+var menuData4 = new Array("deutschland", "JavaScript:SetCountry(\'deu\');", "españa", "JavaScript:SetCountry(\'esp\');", "france", "JavaScript:SetCountry(\'fra\');", "united kingdom", "JavaScript:SetCountry(\'gbr\');", "united states", "JavaScript:SetCountry(\'usa\');");
+
+function SetCountry(country){
+	var url = top.document.location.href.toLowerCase();
+	var frontDoor  = "";
+	var bFrontDoor = false;
+	
+	for (var i = 0; i < g_arrFrontDoors.length; i++)
+		if (url.indexOf(g_arrFrontDoors[i].toLowerCase()) != -1){
+			frontDoor  = g_arrFrontDoorsUrl[i];
+			bFrontDoor = true;
+			break;
+		}
+	
+	var params = "?country=" + country;
+	var home = "http://creative.gettyimages.com/";
+	if (bFrontDoor)
+		doJump(home + "source" + frontDoor + params);
+	else
+		doJump(home + "source/home/homeCreative.asp" + params);
+}
+</script>
+<script src="/source/include/menudata.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+var g_childWindow = null;
+
+function StatusOff(){ return onText(""); }
+function onText(str){ window.status = str; return true }
+function Yours()    { return onText("View your current order");}
+function YoursRequest()    { return onText("Continue with request");}
+
+
+function GetNumberSrc(iNum, bZero)
+{
+	var s;
+	if (iNum >= 1 && iNum <= 9)
+		s = iNum;
+	else
+		s = (iNum == 0 && bZero) ? "0" : "clear";
+	return s + ".gif";
+}
+
+
+function gotoUrl(url) {
+	if (!HandleSaveLightboxNotes(url))
+		top.location.href = url;
+}
+
+function doJump(url)
+{
+	if ((url != "") && !HandleSaveLightboxNotes(url))
+		top.location.href = url;	
+}
+
+function HandleSaveLightboxNotes(urlStr)
+{
+	if ((location.pathname.search(/lightbox\.asp/i) != -1))
+	{
+		var elForm = GetViewForm();
+		if (elForm == null)
+			return false;
+
+		if (elForm.hdnDirty.value == "1") {
+			var bSave = confirm("Do you wish to save your changes to this lightbox?");
+			elForm.hdnSaveChanges.value = bSave ? "1" : "0"
+			putHiddenChanges();
+		}
+		elForm.source.value = "exitLightbox";
+		elForm.target = "_top";
+		elForm.method = "GET";
+		elForm.navTarget.value = urlStr;
+		elForm.submit();
+		return true;
+	}
+	else if ((location.pathname.search(/clipbin\.asp/i) != -1))
+	{
+		var elForm = GetViewForm();
+		if (elForm == null)
+			return false;
+
+		if (elForm.hdnDirty.value == "1") {
+			var bSave = confirm("Do you wish to save your changes to this Clipbin?");
+			elForm.hdnSaveChanges.value = bSave ? "1" : "0"
+			putHiddenChanges();
+		}
+		elForm.source.value = "exitLightbox";
+		elForm.target = "_top";
+		elForm.method = "GET";
+		elForm.navTarget.value = urlStr;
+		elForm.submit();
+		return true;
+	}
+	else
+		return false;
+}
+
+function OnHome() 
+{
+	doJump('http://creative.gettyimages.com/source/home/homeCreative.asp');
+}
+function OnOrder() 
+{
+	doJump('http://creative.gettyimages.com/source/order/order.asp');
+}
+
+function openHelpWindowS(){	//Launch help window with Table of Contents from a secure page
+	OpenChildWindow("http://creative.gettyimages.com/source/help/helpmain.asp", "help", "width=500,height=360,top=50,left=280,alwaysRaised=yes,toolbar=0,directories=0,menubar=0,status=1,resizable=yes,location=0,scrollbars=1,copyhistory=0");
+}
+
+function openHelpWindow(helpURL, winName){	//Launch help window with page specific helpURL and winName, usually called helpWin
+	OpenChildWindow(helpURL, winName, "width=500,height=360,top=50,left=280,alwaysRaised=yes,toolbar=0,directories=0,menubar=0,status=1,resizable=yes,location=0,scrollbars=1,copyhistory=0");
+}
+
+function OpenChildWindow(childURL, childName, childFeatures){
+	
+	if (!FindChildWindow(childName))
+		g_childWindow = window.open(childURL, childName, childFeatures);
+
+	g_childWindow.focus();
+
+	if (document.location.protocol == "http:")
+		g_childWindow.document.location.href=childURL;	
+
+}
+
+function CloseChildWindow(){
+	if (g_childWindow != null){
+		if (!g_childWindow.closed)
+			g_childWindow.close();
+		g_childWindow = null;
+	}
+}
+
+function FindChildWindow(childName){
+	if ((g_childWindow != null) && (g_childWindow.closed != true)){
+		g_childWindow = window.open("", childName);
+		return true;
+	}
+	else
+		return false;
+}
+
+function openClipPreviewWindow(clipID,brandID) {
+	window.open("http://creative.gettyimages.com/source/film/detect_plugin.asp?Type=Clip&clipID="+clipID + "&brandID=" + brandID,"previewWin", "width=500,height=500,top=50,left=420,alwaysRaised=yes,toolbar=0,directories=0,menubar=0,status=1,resizable=yes,location=0,scrollbars=1,copyhistory=0");
+}
+
+function openShowreelPreviewWindow(clipID,brandID) {
+	window.open("http://creative.gettyimages.com/source/film/detect_plugin.asp?Type=Showreel&clipID="+clipID + "&brandID=" + brandID,"previewWin", "width=500,height=500,top=50,left=420,alwaysRaised=yes,toolbar=0,directories=0,menubar=0,status=1,resizable=yes,location=0,scrollbars=1,copyhistory=0");
+}
+
+function openClipDownloadWindow(clipID,brandID) {
+	window.open("http://creative.gettyimages.com/source/film/downloadclip.asp?clipID="+clipID + "&brandID=" + brandID,"previewWin", "width=500,height=500,top=50,left=420,alwaysRaised=yes,toolbar=0,directories=0,menubar=0,status=1,resizable=yes,location=0,scrollbars=1,copyhistory=0");
+}
+
+function centerGlobalNav()
+{
+
+}
+
+</script>
+<!-- in clienterror  -->
+
+
+<script type="text/javascript">
+
+var g_errorFound = false;
+var g_errorFields = new Array();
+var g_errorImage = "/source/images/arrow_3red.gif";
+
+function StartValidation()
+{
+	g_errorFound = false;
+	g_errorImage = "/source/images/arrow_3red.gif";
+	ClearAllErrorFields();
+}
+
+function DisplayError(fieldName, fieldError)
+{
+	if (fieldName == "")
+		alert(fieldError);
+	else
+		alert(fieldName + " : " + fieldError);
+	g_errorFound = true;
+}
+
+function EndValidation() { return !g_errorFound; }
+
+function NoErrorFound() { return !g_errorFound; }
+
+function ErrorFound() { return g_errorFound; }
+
+function SetErrorImage(strImage)
+{
+	if (strImage != "")
+		g_errorImage = strImage;
+}
+
+function ResetErrorImage() { g_errorImage = "/source/images/arrow_3red.gif"; }
+
+function SetErrorField(txtFieldName)
+{
+	var errImage = GetImage("imgerr" + txtFieldName);
+	if (errImage != null)
+		errImage.src = g_errorImage;
+	g_errorFields[g_errorFields.length] = txtFieldName;	
+}
+
+function ClearAllErrorFields()
+{
+	for (var i=0; i < g_errorFields.length; i++)
+		ClearErrorField(g_errorFields[i]);
+	g_errorFields.length = 0;
+}
+
+function ClearErrorField(txtFieldName)
+{
+	if (txtFieldName != "") {
+		var errImage = GetImage("imgerr" + txtFieldName);
+		if (errImage != null)
+			errImage.src = "/source/images/clear.gif"
+	}
+}
+
+function FlagError(elForm, elName, fieldName, fieldError)
+{
+	SetErrorField(elName);
+	DisplayError(fieldName, fieldError);
+	var field = GetElementInForm(elForm, elName);
+	if (field != null)
+		field.focus();
+}
+
+function ValidateRequiredField(elForm, elName, fieldName, fieldError, minLen, maxLen)
+{
+	var bValid = true;
+	if (!g_errorFound) {
+		var field = GetElementInForm(elForm, elName);
+		if ((field != null) && (!field.disabled)) {
+			TrimControl(field);
+			if (field.value.length < minLen || field.value.length > maxLen) {
+				FlagError(elForm, elName, fieldName, fieldError);
+				bValid = false;
+			}
+		}
+	}	
+	return bValid;
+}
+
+function ValidatePwdField(elForm, elName, elNameChk, fieldName, fieldError, minLen, maxLen)
+{
+	var bValid = true;
+	if (!g_errorFound) {
+		var field = GetElementInForm(elForm, elName);
+		if ((field != null) && (!field.disabled)) {
+			TrimControl(field);
+			if (field.value.length < minLen || field.value.length > maxLen) {
+				FlagError(elForm, elName, fieldName, fieldError);
+				var fieldChk = GetElementInForm(elForm, elNameChk);
+				field.value = "";
+				fieldChk.value = "";
+				bValid = false;
+			}
+		}
+	}	
+	return bValid;
+}
+
+function ValidateOptionalField(elForm, elName, fieldName, fieldError, minLen, maxLen)
+{
+	var bValid = true;
+	if (!g_errorFound) {
+		var field = GetElementInForm(elForm, elName);
+		if ((field != null) && (!field.disabled)) {
+			TrimControl(field);
+			if (field.value.length > 0)
+				bValid = ValidateRequiredField(elForm, elName, fieldName, fieldError, minLen, maxLen);
+		}
+	}	
+	return bValid;
+}
+
+function ValidateRequiredSelection(elForm, elName, fieldName, fieldError)
+{
+	var bValid = true;
+	if (!g_errorFound) {
+		var field = GetElementInForm(elForm, elName);
+		if ((field != null) && (!field.disabled)) {
+			if (Trimmed(field.options[field.selectedIndex].value) == "") {
+				FlagError(elForm, elName, fieldName, fieldError);
+				bValid = false;
+			}
+		}
+	}	
+	return bValid;
+}
+
+function ValidateRequiredCheckbox(elForm, elFieldName, fieldError)
+{
+	var bValid = true;
+	if (!g_errorFound) {
+		var field = GetElementInForm(elForm, elFieldName);
+		if ((field != null) && (!field.disabled)) {
+			if (!field.checked) {
+				SetErrorField(elFieldName);
+				DisplayError("", fieldError);
+				field.focus();
+				bValid = false;
+			}
+		}
+	}	
+	return bValid;
+}
+
+function ValidateEmailField(elForm, elName, fieldName, fieldError)
+{
+	var bValid = true;
+	if (!g_errorFound) {
+		var field = GetElementInForm(elForm, elName);
+		if ((field != null) && (!field.disabled)) {
+			TrimControl(field);
+			if ((field.value.indexOf(".") == -1) || (field.value.indexOf("@") == -1)) {
+				FlagError(elForm, elName, fieldName, fieldError);
+				bValid = false;
+			}
+			else
+			{	
+				if (field.value.length < 6)
+				{
+					FlagError(elForm, elName, fieldName, fieldError);
+					bValid = false;
+				}
+			}
+		}
+	}	
+	return bValid;
+}
+
+function ValidatePhoneField(elForm, elName, fieldName, fieldError)
+{
+	var bValid = true;
+	if (!g_errorFound) {
+		bValid = false;
+		var field = GetElementInForm(elForm, elName);
+		if ((field != null) && (!field.disabled)) {
+			TrimControl(field);
+			var strStart = field.value;
+			for (var i = 0; i < strStart.length; i++) {
+				if ((strStart.charAt(i) >= '0') && (strStart.charAt(i) <= '9'))
+					bValid = true;
+			}
+		}
+		if (!bValid) {
+			FlagError(elForm, elName, fieldName, fieldError);
+		}
+	}
+	return bValid;
+}
+
+function ValidatePagingField(elForm, elName, fieldError, lastPage){
+	var bValid = false;
+	
+	if (!g_errorFound){
+		var el = GetElementInForm(elForm, elName);
+		
+		if ((el != null) && (!el.disabled)){
+			TrimControl(el);
+			
+			if (isNaN(parseFloat(el.value)) || (el.value < 1) || (el.value > lastPage)){
+				FlagError(elForm, elName, "", fieldError);
+				el.select();
+			}
+			else
+				bValid = true;
+		}
+	}	
+	return bValid;
+}
+
+function GoodChars(elForm, elName, fieldName, fieldError, strGoodChars)
+{
+	var bValid = true;
+	if (!g_errorFound) {
+		var field = GetElementInForm(elForm, elName);
+		if ((field != null) && (!field.disabled)) {
+			TrimControl(field);
+			var bFound;
+			for (var i = 0; i < field.value.length; i++) {
+				bFound = false;
+				for (var j = 0; j < strGoodChars.length; j++) {
+					if (field.value.charAt(i) == strGoodChars.charAt(j)) {
+						bFound = true;
+						break;
+					}
+				}
+			
+				if (!bFound) {	
+					FlagError(elForm, elName, fieldName, fieldError);
+					return false;
+				}
+			}
+		}
+	}		
+	return bValid;	
+}
+
+function BadChars(elForm, elName, fieldName, fieldError, strBadChars)
+{
+	var bValid = true;
+	if (!g_errorFound) {
+		var field = GetElementInForm(elForm, elName);
+		if ((field != null) && (!field.disabled)) {
+			TrimControl(field);
+			for (var i = 0; i < field.value.length; i++) {
+				for (var j = 0; j < strBadChars.length; j++) {
+					if (field.value.charAt(i) == strBadChars.charAt(j)) {
+						FlagError(elForm, elName, fieldName, fieldError);
+						return false;
+					}
+				}
+			}
+		}
+	}		
+	return bValid;	
+}
+
+function FindBadChars(elForm, elName, fieldName, fieldError)
+{
+	var strBadChars = "\t"; 
+	return (BadChars(elForm, elName, fieldName, fieldError, strBadChars));
+}
+
+function FindBadUsernameChars(elForm, elName, fieldName, fieldError)
+{
+	var strBadChars = "_/()<>%+=|*,;\t\'\"\\ ";
+	return (BadChars(elForm, elName, fieldName, fieldError, strBadChars));
+}
+
+function FindBadNumericChars(elForm, elName, fieldName, fieldError)
+{
+	var strGoodChars = "0123456789";
+	return (GoodChars(elForm, elName, fieldName, fieldError, strGoodChars));
+}
+
+function OnPasswordChange(el){
+	if (el != null){
+		TrimControl(el);
+
+		var elForm = el.form;
+		
+		if (elForm != null){
+			var password = el.value;
+		
+			if (password != g_password)
+				elForm.hdnPasswordChange.value = true;
+			else
+				elForm.hdnPasswordChange.value = false;
+		}
+	}
+}
+
+function OnCCNumberChange(el){
+	if (el != null){
+		TrimControl(el);
+
+		var elForm = el.form;
+		
+		if (elForm != null){
+			var ccNumber = el.value;
+		
+			if (ccNumber != g_ccNumber){
+				RemoveNonNumericCharacters(el);
+				
+				elForm.hdnCCNumberChange.value = true;
+			}
+			else
+				elForm.hdnCCNumberChange.value = false;
+		}
+	}
+}
+
+function RemoveNonNumericCharacters(el){
+	if (el != null){
+		var startValue = el.value;
+		var endValue = "";
+	
+		for (var i = 0; i < startValue.length; i++)
+			if ((startValue.charAt(i) >= '0') && (startValue.charAt(i) <= '9'))
+				endValue += startValue.substr(i, 1);
+		
+		el.value = endValue;
+	}
+}
+</script>
+
+
+<!-- end clienterror  -->
+<title>Getty Images - Privacy Policy - G1WEB02</title>
+
+
+</head>
+
+<body onload="centerGlobalNav();" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<div align="center">
+
+<img src="/source/images/clear.gif" width="1" height="1">
+<script language="JavaScript" type="text/javascript">
+var gActiveTopNav;
+var gActiveSubNav;
+</script>
+<script language="JavaScript" src="/source/include/globalnav.js" type="text/javascript"></script>
+
+
+<div id="globalNav" name="globalNav">
+
+
+	<div id="Logo">
+	  <a href='JavaScript:doJump("http://creative.gettyimages.com/source/home/homeCreative.asp")' target="_top" onmouseover="return onText('Getty Images');" onmouseout="StatusOff();"><img border="0" src="/en-us/images/mainlogo.gif" alt="Getty Images" width="199" height="20"></a>
+	</div>
+
+
+	<div id="WelcomeBack">
+		<table border="0" width="480" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td rowspan="2"><img src="/source/images/clear.gif" width="30" height="1" alt=""></td>
+				<td><img src="/source/images/clear.gif" width="450" height="1" alt=""></td>
+			</tr>
+			<tr>
+				<td class="SmStan" align="right">
+					<img src="/source/images/clear.gif" height="1" width="1"><br><a href="https://creative.gettyimages.com/source/account/register.aspx?mode=0&amp;nexturl=/source/home/privacy.asp" onmouseout="StatusOff();" onmouseover="return onText('Register')" target="_top">Register</a> now. Already a member? <a href="https://creative.gettyimages.com/source/account/signin.asp?/source/home/privacy.asp" onmouseout="StatusOff();" onmouseover="return onText('Sign in')" target="_top">Sign In</a>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+	<div id="Cart">
+
+	</div>
+
+	<script language="JavaScript" type="text/javascript">
+	if(g_hasLayers)	{
+		document.write("<layer id='topNav' position=relative; top=30; left=0; visibility=hide;>");
+		writeMenuItems();
+		document.write("</layer>");
+	} else if(g_hasGetElement || g_hasAll) {
+	   document.write("<DIV id='topNav'>")
+	   writeMenuItems()
+	   document.write("</DIV>")
+	}
+	</script>
+
+</div>
+
+<script language="JavaScript" type="text/javascript">
+	centerLayers();
+</script>
+
+<!-- TOPNAV  -->
+
+<table width="790" border="0" bordercolor="red" cellspacing="0" cellpadding="0" height="125">
+	<tbody><tr><td width="790"><img src="/source/images/clear.gif" width="790" height="1"></td></tr>
+</tbody></table>
+<form name="frmDestURL" method="get" id="Form1"> 
+<input type="hidden" name="hdnBackLink" value="/source/home/privacy.asp" id="Hidden1">
+</form>
+<!-- END TOPNAV  -->
+
+
+<table width="759" border="0" cellpadding="0" cellspacing="0">
+					
+		<tbody><tr><td colspan="3"><img src="/source/images/clear.gif" alt="" width="1" height="40"></td></tr><tr><td valign="top" rowspan="6" class="SmStan"><div style="background-color:#FFFFFF;"><img src="/source/images/clear.gif" width="1" height="50" alt=""><br><img src="/source/images/home/pri_right.jpg" width="180" height="169" border="0" alt="AA006789, PhotoDisc"></div></td><td class="SmStan"><div style="background-color:#FFFFFF;"><img src="/en-us/images/home/privacy_header.gif" width="475" height="32" border="0" alt="privacy policy"><br></div></td><td class="SmStan"><div style="background-color:#FFFFFF;"><img src="/source/images/clear.gif" width="100" height="1" alt=""></div></td></tr><tr><td colspan="3"><img src="/source/images/clear.gif" alt="" width="1" height="10"></td></tr><tr><td colspan="2" height="1" class="GrayBorder"><img src="/source/images/clear.gif" alt="" width="1" height="1"></td></tr><tr><td colspan="2"><img src="/source/images/clear.gif" alt="" width="1" height="15"></td></tr><tr><td class="SmStan"><div style="background-color:#FFFFFF;"><a name="Privacy"></a><p><b>PRIVACY POLICY</b></p><p>
+		Getty Images Inc. and its affiliates respect your ability to make informed choices about the collection and uses of your personal information. This privacy policy tells you about our online collection and uses of information that identifies you personally so that you can make an informed choice about using this site. The terms of this policy apply to www.gettyimages.com and other sites which Getty Images hosts or operates, unless different terms are specified in a form or contract provided to you online or off-line. Business users should refer to the terms and conditions of service/sale for any specific conditions governing Getty Images' use of business information. Those terms and conditions take precedence over this policy, and apply to all businesses, including sole proprietorships and other small business enterprises.   
+	</p><p>
+		The websites of Getty Images' third-party content providers may have different privacy policies and practices from those disclosed here, and we encourage you to become familiar with them. This site is operated by Getty Images in the United States. By using this website, you understand and agree that (1) the information collected from this site may be retained indefinitely, and may be stored, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction; (2) Getty Images may use this information for a variety of purposes including direct marketing (unless you opt out of receiving direct marketing from Getty Images); (3) Getty Images may disclose this information to affiliates, subsidiaries, agents, third party content providers, and necessary payment processors, whose privacy policies and practices may be different from those of Getty Images, and for which Getty Images assumes no responsibility; (4) information about our customers, including personal information, may be disclosed as part of any merger, sale of the company assets or acquisition as well as in the unlikely event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company; and (5) we reserve the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.  
+ 	</p><p><b>Information Collected From This Website</b><br>When you visit this website, some information, such as the site that referred you to us, your IP and email address, and navigational and purchase information, may be collected automatically as part of the site's operation. This information is used to generate user profiles and to personalise the website to your particular interests. On some occasions we may ask you to provide information on online forms. For example, we may ask for your username, password, place of birth, full name, telephone number, email address and postal address, or other information to register online, or for your credit card number or other personally identifying information to fulfill licensing transactions or to receive products or services. We may also ask you about your age, hobbies, income, gender or other information to participate in surveys or other online activities. Providing information on online forms is always voluntary, and you are free not to complete any online forms. If you choose not to, however, some products and services may not be available to you.    
+	</p><p><b>How We Use Your Information</b><br>The information collected online is stored indefinitely and is used for various purposes, including processing your transactions, customer service, product and service development, direct marketing and marketing analysis, facilitating your use of this website, and customizing your image selection to your particular interests. The information we collect may be shared with our subsidiaries, agents, third party content providers, affiliates, and selected other entities for similar purposes. For example, when you fill out an online registration form on a Getty Images website you are automatically registered on a number of Getty Images visual content provider websites. That is, your user name and password are carried across these sites, allowing you to use the same name and password to sign in (although you will still be required to enter billing information to make purchases on those sites).  
+	</p><p>
+		In addition, unless you opt out of receiving promotional materials from Getty Images, we may notify you of special promotions, new products or services, or other information that may be of interest. (See Opting Out section, below.)  
+		</p><p><b>About Cookies</b><br>When you visit a Getty Images website, such as gettyimages.com, we place a text file called a cookie in the browser directory of your computer's hard drive. A cookie is a small piece of information that a website can store on your web browser and later retrieve. The information that cookies collect includes the date and time of your visit, your registration information and your navigational and purchase activity. Cookies offer you many conveniences. They allow Getty Images, and certain of its subsidiaries and third party content providers, to recognize information, such as the Lightboxes you have created, and assist in determining what content is best suited to your needs. Cookies also allow you to retrieve previous image search results, access Lightboxes with ease and view your previous invoices. 
+	</p><p>
+	Most browsers allow you to decline cookies, but if you elect to do so, these pages may not display properly. You are free to delete cookies after your session, and your browser should contain instructions on how to do this.    
+	</p><p><b>Opting Out</b><br>If you do not want to receive promotional information from Getty Images, you can opt out by un-checking the appropriate box on your online registration form, or in the event an online registration form is not available, by notifying your account executive. If you did not opt out when you registered, and later decide that you are not interested in receiving this information, you can opt out at any time by sending an email to <a href="mailto:sales@gettyimages.com" onmouseover="return onText(&quot;sales@gettyimages.com&quot;);" onmouseout="StatusOff()">sales@gettyimages.com</a> or speaking with your account executive. Please note that if you opt out of receiving promotional material from Getty Images, you still may receive such material from our worldwide subsidiaries, third party content providers, affiliates and other parties to whom we provide your information in the course of doing business, as explained above.
+ 	</p><p><b>Reviewing, Updating or Correcting Your Information</b><br>If you would like to review or revise information you previously provided on an online form, or believe that what we currently have on record is incorrect, you may update your information in the Account section of this website.   
+	</p><p><b>Links to Other Websites</b><br>The sites to which we link, including but not limited to the sites of subsidiaries and third party content providers, may have different privacy policies and practices from those disclosed here. We assume no responsibility for the policies or practices of linked sites and encourage you to become acquainted with them.  
+	</p><p><b>Children</b><br>We do not intend to either solicit or collect personal information from anyone under the age of 13. If you are under 13, you should not use or enter information on this website. 
+	</p><p><b>Questions or Concerns</b><br>If at any time you believe that Getty Images has not followed the above policy, please let us know by sending an email to <a href="mailto:sales@gettyimages.com" onmouseover="return onText(&quot;sales@gettyimages.com&quot;);" onmouseout="StatusOff()">sales@gettyimages.com</a>. We will make reasonable efforts to identify and correct any problem. 
+	</p><p><b>Changes to This Online Privacy Policy</b><br>We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this website. We encourage you to review this privacy policy whenever you visit our website to make sure you understand how we use the information we collect.
+	</p><p>
+		© Copyright 1999-2004 Getty Images, Inc. All rights reserved. Privacy Policy.
+	</p></div></td><td class="SmStan"><div style="background-color:#FFFFFF;"><img src="/source/images/clear.gif" width="100" height="1" alt=""></div></td></tr><tr><td colspan="2"><img src="/source/images/clear.gif" alt="" width="1" height="30"></td></tr>
+</tbody></table>
+<br>
+
+<!-- BOTNAV  -->
+<table width="759" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td>&nbsp;</td></tr>
+</tbody></table>
+
+<table width="759" border="0" cellspacing="0" cellpadding="0">
+	
+	<tbody><tr>
+		<td width="743" class="SmStan">
+		<a href='JavaScript:doJump("http://creative.gettyimages.com/source/home/home.asp");' onmouseover="return onText('Getty Images');" onmouseout="StatusOff();">Getty Images</a>&nbsp;<span class="SmCopy">|</span>
+		<a href="Javascript:openHelpWindowS();" onmouseover="return onText('Help');" onmouseout="StatusOff();">Help</a>&nbsp;<span class="SmCopy">|</span>
+		<a href='JavaScript:doJump("http://creative.gettyimages.com/source/services/faq.asp");' onmouseover="return onText('FAQ');" onmouseout="StatusOff();">FAQ</a>&nbsp;<span class="SmCopy">|</span>
+		<a href='Javascript:openHelpWindow("http://creative.gettyimages.com/source/help/helpcontact.aspx");' onmouseover="return onText('Contact Us');" onmouseout="StatusOff();">Contact Us</a>&nbsp;<span class="SmCopy">|</span>
+		<a href='JavaScript:doJump("http://creative.gettyimages.com/source/home/sitemap.asp");' onmouseover="return onText('Site Map');" onmouseout="StatusOff();">Site Map</a>
+		</td>
+		<td width="16"><img src="/source/images/clear.gif" width="16" height="1" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td width="743" class="SmStan">
+		<a href='JavaScript:doJump("http://creative.gettyimages.com/source/home/about.asp");' onmouseover="return onText('About Us');" onmouseout="StatusOff();">About Us</a>&nbsp;<span class="SmCopy">|</span>
+		<a href='JavaScript:doJump("http://creative.gettyimages.com/source/home/terms.asp");' onmouseover="return onText('Terms and Conditions');" onmouseout="StatusOff();">Terms and Conditions</a>&nbsp;<span class="SmCopy">|</span>
+		<a href='JavaScript:doJump("http://creative.gettyimages.com/source/home/license.asp");' onmouseover="return onText('License Information');" onmouseout="StatusOff();">License Information</a>&nbsp;<span class="SmCopy">|</span>
+		<a href='JavaScript:doJump("http://creative.gettyimages.com/source/home/privacy.asp");' onmouseover="return onText('Privacy Policy');" onmouseout="StatusOff();">Privacy Policy</a>
+		</td>
+		<td width="16"><img src="/source/images/clear.gif" width="16" height="1" border="0" alt=""></td>
+	</tr>
+	
+	<tr>
+		<td width="743" class="SmStan">For local customer support, <a href='javascript:void openHelpWindow("http://creative.gettyimages.com/source/help/helpcontactww.asp", "helpWin");' onmouseout="StatusOff();" onmouseover="return onText('Customer Support')">click here</a>.<br><span class="SmSelectedLink">All contents © copyright 1999-2004 Getty Images, Inc. All rights reserved.</span></td>
+		<td width="16"><img src="/source/images/clear.gif" width="16" height="30" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<p>&nbsp;</p>
+
+<!-- END BOTNAV  -->
+
+</div>
+
+
+
+</body></html>
