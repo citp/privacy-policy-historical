@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207053908id_/http%3A//www.commercebank.com/02254.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605173938id_/http%3A//commercebank.com/privacy.asp) for the most accurate reproduction.*
 
-# Commerce Bancshares, Inc. Privacy Policy Notice
+# Commerce Bank, N.A. serving Kansas, Missouri, and Illinois
 
-### Commerce Bancshares, Inc. Privacy Policy Notice
+| 
 
-Protecting your privacy is important to Commerce and to our employees. We want you to understand what information we collect and how we use it. In order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible, we use technology to manage and maintain customer information. This policy serves as a standard for all Commerce employees for collection, use, retention, and security of nonpublic personal information.
+Protecting your privacy is important to Commerce and to our employees. We want you to understand what information we collect and how we use it. In order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible, we use technology to manage and maintain customer information. This policy serves as a standard for all Commerce employees for collection, use, retention, and security of nonpublic personal information. 
 
 **WHAT INFORMATION WE COLLECT**
 
-We collect and use different types of information to service your accounts and to offer you better products and services that best meet your changing needs.
+We collect and use different types of information to service your accounts and to offer you better products and services that best meet your changing needs. 
 
-"Nonpublic personal information" is information about you and identified with you that we obtain in connection with providing a financial product or service to you. This is information which is unobtainable from a public source. For example, nonpublic personal information includes information regarding your account balance, payment history, and overdraft history.
+"Nonpublic personal information" is information about you and identified with you that we obtain in connection with providing a financial product or service to you. This is information which is unobtainable from a public source. For example, nonpublic personal information includes information regarding your account balance, payment history, and overdraft history. 
 
 We may collect "nonpublic personal information" about you from the following sources: 
 
@@ -22,7 +22,7 @@ We may collect "nonpublic personal information" about you from the following sou
 
 REST ASSURED, WE DO NOT SELL YOUR NONPUBLIC PERSONAL INFORMATION TO OTHERS.
 
->  **NOTE:** Protecting the privacy and security of your confidential financial information is our top priority. The FBI has received complaints involving unsolicited e-mails directing consumers to a phony “customer service” Web site or directly asking for customer information. These scams may result in identity theft, credit card fraud, or other fraudulent financial schemes. Commerce Bank offers secure e-mail for personal questions, requests, and information through an Online Banking account. If you suspect that the security of your accounts has been compromised due to information you've disclosed, please contact our Customer Care Center at 1-800-453-BANK. 
+> **NOTE:** Protecting the privacy and security of your confidential financial information is our top priority. The FBI has received complaints involving unsolicited e-mails directing consumers to a phony “customer service” Web site or directly asking for customer information. These scams may result in identity theft, credit card fraud, or other fraudulent financial schemes. Commerce Bank offers secure e-mail for personal questions, requests, and information through an Online Banking account. If you suspect that the security of your accounts has been compromised due to information you've disclosed, please contact our Customer Care Center at 1-800-453-BANK. 
 
 **HOW WE PROTECT YOUR INFORMATION**
 
@@ -44,7 +44,7 @@ We have strict confidentiality agreements with all outside companies to ensure t
 
 _TO OTHER NON-AFFILIATED THIRD PARTIES:_
 
-> In addition, in certain circumstances we disclose nonpublic personal information about you to "nonaffiliated third parties" (i.e., third parties that are not members of our corporate family) as permitted by law. For example, we may disclose nonpublic personal information about you to third parties as necessary to process transactions that you have requested or authorized, to government entities in response to subpoenas, and to credit bureaus. We do not disclose any nonpublic personal information about you to any other nonaffiliated third parties, except as permitted by law.
+> In addition, in certain circumstances we disclose nonpublic personal information about you to "nonaffiliated third parties" (i.e., third parties that are not members of our corporate family) as permitted by law. For example, we may disclose nonpublic personal information about you to third parties as necessary to process transactions that you have requested or authorized, to government entities in response to subpoenas, and to credit bureaus. We do not disclose any nonpublic personal information about you to any other nonaffiliated third parties, except as permitted by law. 
 
 **SHARING WITH AFFILIATES**
 
@@ -69,7 +69,7 @@ _HOW TO TELL US NOT TO SHARE THIS INFORMATION WITH OUR AFFILIATES_
 
 **WHO OUR AFFILIATES ARE**
 
-> As used in this Privacy Policy Notice, "Commerce" means Commerce Bancshares, Inc. and the members of the Commerce corporate family. Examples of Affiliates include the following financial service providers:
+> As used in this Privacy Policy Notice, "Commerce" means Commerce Bancshares, Inc. and the members of the Commerce corporate family. Examples of Affiliates include the following financial service providers: 
 > 
 > Commerce Bank, N.A.
 > 
@@ -85,8 +85,12 @@ _HOW TO TELL US NOT TO SHARE THIS INFORMATION WITH OUR AFFILIATES_
 > 
 > CBI Insurance Company
 > 
+> CBI Leasing, Inc.
+> 
 > Mid-America Financial Corp.
 
 **IF YOU CEASE TO BE OUR CUSTOMER**
 
 If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice.
+
+|   
