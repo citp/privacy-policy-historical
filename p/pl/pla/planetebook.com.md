@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the planetebook.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216201342id_/http%3A//planetebook.com/mainpage.asp%3Fwebpageid%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetebook.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403025555id_/http%3A//www.planetebook.com/mainpage.asp%3Fwebpageid%3D41) for the most accurate reproduction.*
 
 # Privacy Policy for the BinaryThing.com Web sites
 
 |    
 **Privacy Policy for the BinaryThing Web sites**  
-**Date of last update: 25 August 2000**
+**Date of last update: 30 January 2002**
 
 This policy covers the following Web sites, which together make up the BinaryThing family of sites:
 
   * Planet PDF [http://www.planetpdf.com](http://www.planetpdf.com/)
-  * Planet PDF [http://www.Planet PDF.com](http://www.planet%20pdf.com/)
-  * PDF Store [http://www.pdfstore.com](http://www.pdfstore.com/)
   * Planet eBook [http://www.planetebook.com](http://www.planetebook.com/)
-  * Planet Markup [http://www.planetmarkup.com](http://www.planetmarkup.com/)
+  * Planet Publish [http://www.planetpublish.com](http://www.planetpublish.com/)
+  * ePublish Store [http://www.epublishstore.com](http://www.epublishstore.com/)
   * BinaryThing [http://www.binarything.com](http://www.binarything.com/)
 
 
@@ -34,8 +33,8 @@ While most information at the sites is freely available, at times we request cer
 We request your personal information -- which may include such things as email address, name, address, telephone number, etc. \-- in exchange for certain activities, including:   
 
 
-  * one-time Planet PDF, eBook and Markup forum access registration (or use Read-Only guest access) 
-  * Planet PDF, Planet eBook and Planet Markup Newsletter subscriptions 
+  * one-time Planet PDF, eBook and Publish forum access registration (or use Read-Only guest access) 
+  * Planet PDF, Planet eBook and Planet Publish Newsletter subscriptions 
   * Store purchases 
   * Product demo downloads 
   * Adobe Acrobat Reader downloads 
@@ -86,10 +85,10 @@ Our sites utilize state-of-the-art security technology to ensure the security, i
 
 Subscribers to Planet PDF and the Planet PDF Newsletter may remove their personal information from our distribution lists as follows:
 
-  * For Planet PDF: Contact us via email at [info@Planet PDF.com](mailto:info@Planet%20PDF.com)
-  * For the Markup and eBooks Forums: Contact [info@planetmarkup.com](mailto:info@planetmarkup.com) or [info@planetebook.com](mailto:info@planetebook.com) respectively. 
+  * For Planet PDF: Contact us via email at [info@PlanetPDF.com](mailto:info@PlanetPDF.com)
+  * For the Publish and eBooks Forums: Contact [info@planetpublish.com](mailto:info@planetpublish.com) or [info@planetebook.com](mailto:info@planetebook.com) respectively. 
   * Planet PDF Newsletter recipients can cancel their free subscriptions at any time at [http://www.planetpdf.com/mainpage.asp?Web PageID=322](http://www.planetpdf.com/mainpage.asp?WebPageID=322)
-  * If you have a problem, please let us know at [info@planetpdf.com](mailto:info@planetpdf.com), [info@planetebook.com](mailto:info@planetebook.com) or [info@planetmarkup.com](mailto:info@planetmarkup.com). 
+  * If you have a problem, please let us know at [info@planetpdf.com](mailto:info@planetpdf.com), [info@planetebook.com](mailto:info@planetebook.com) or [info@planetpublish.com](mailto:info@planetpublish.com). 
 
 
 
@@ -97,7 +96,7 @@ The only way to receive the newsletter is either by directly subscribing from th
 
 **G. Review and Correction**
 
-After logging in to the Planet PDF Forum, Planet eBook eBook Forum or Planet Markup Forum areas Web site, registered forum members can at any time access their User Profiles to make changes. Registered participants also have the option to receive forum messages via email by selecting that option after logging in to the general forum area.
+After logging in to the Planet PDF Forum, Planet eBook eBook Forum or Planet Publish Forum areas Web site, registered forum members can at any time access their User Profiles to make changes. Registered participants also have the option to receive forum messages via email by selecting that option after logging in to the general forum area.
 
 **H. Changes to this policy**
 
@@ -105,7 +104,8 @@ The BinaryThing sites reserve the right to change this Privacy Policy at any tim
 
 **I. Feedback**
 
-If you have any questions about our privacy policy, please don't hesitate to let us know at [privacy@planetpdf.com](mailto:privacy@planetpdf.com). 
+If you have any questions about our privacy policy, please don't hesitate to let us know at [privacy@planetebook.com](mailto:privacy@planetebook.com). 
 
   
-
+  
+---|---
