@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602064900id_/http%3A//www.ihispano.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001213857id_/http%3A//ihispano.com/privacy.asp) for the most accurate reproduction.*
 
-# Hispanic and Diversity Jobs at ihispano.com.
+# ihispano.com: Privacy Statement
 
 |  |    
 ihispano.com is committed to protecting the privacy of our users. In addition to providing its users numerous privacy features, ihispano.com has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our site www.ihispano.com. 
