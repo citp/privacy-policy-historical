@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606001657id_/http%3A//www.datafabrication.com/main_content.asp%3Fpageid%3D180) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209055350id_/http%3A//www.datafabrication.com/main_content.asp%3Fpageid%3D180) for the most accurate reproduction.*
 
-# Data Fabrication: eCommerce products and services, internet faxing products, and custom application and web development.
+# Data Fabrication: Internet fax products, ecommerce products and services, and custom application and web development. data fabrication,internet fax,fax,fax from word,fax products,web design,web development,web designer,ecommerce,e-commerce,web programming,web marketing,internet development,web design company,website marketing,chicago web design,e-commerce development,web design illinois,ecommerce development,e-commerce developer,ecommerce developer
 
 Our Privacy Policy
 
@@ -88,6 +88,6 @@ If you have a question about this statement, you can send an email to the Data F
 This Web site is maintained by Data Fabrication or one of its subsidiaries. 
 
   
-Copyright © 1997-2004, Data Fabrication, Inc. All Rights Reserved.  
-[Privacy](https://web.archive.org/web/20040606001657id_/http%3A//www.datafabrication.com/main_content.asp?pageid=180)  |  [Legal](https://web.archive.org/web/20040606001657id_/http%3A//www.datafabrication.com/main_content.asp?pageid=181)  |  [Contact Us](https://web.archive.org/web/20040606001657id_/http%3A//www.datafabrication.com/main_contact.asp?pageid=5)   
+Copyright © 1997-2004, Data Fabrication, Inc.. All Rights Reserved.  
+[Data Fabrication](http://www.datafabrication.com/)  |  [Site Map](http://www.datafabrication.com/main_sitemap.asp?pageid=213)  |  [Privacy](http://www.datafabrication.com/main_content.asp?pageid=180)  |  [Legal](http://www.datafabrication.com/main_content.asp?pageid=181)  |  [Contact Us](http://www.datafabrication.com/main_contact.asp?pageid=5)   
 
