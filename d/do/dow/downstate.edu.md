@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downstate.edu privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604141519id_/http%3A//downstate.edu/privacy/InternetPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downstate.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202150453id_/http%3A//downstate.edu/privacy/InternetPolicy.htm) for the most accurate reproduction.*
 
 # Introduction
 
