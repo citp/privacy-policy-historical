@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/privacy.php) for the most accurate reproduction.*
 
 # . . : : F l a s h F X P : : . .
 
@@ -29,10 +29,9 @@ We aim to keep your information safe. Credit card fraud, identity theft and soft
 
 
 
-[Home](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/index.php) | [Features](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/features.php) | [Screenshots](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/screenshots.php) | [Download](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/download.php) | [Purchase](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/purchase.php) | [Support](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/support.php) | [Tutorial](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/tutorial.php) | [Links](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/links.php) | [Freeware](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/freeware.php) | [Privacy Policy](https://web.archive.org/web/20031212202616id_/http%3A//flashfxp.com/privacy.php)
+[Home](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/index.php) | [Features](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/features.php) | [Screenshots](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/screenshots.php) | [Download](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/download.php) | [Purchase](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/purchase.php) | [Support](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/support.php) | [Tutorial](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/tutorial.php) | [Links](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/links.php) | [Freeware](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/freeware.php) | [Portal](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/customerportal.php) | [Privacy Policy](https://web.archive.org/web/20040615073615id_/http%3A//flashfxp.com/privacy.php)
 
-[](http://www.smkdesigns.net/)  
-Copyright (c) 2001 FlashFXP - All Rights Reserved.  
+Copyright © 2000-2004 [IniCom Networks](http://www.inicom.net/) \- All Rights Reserved.  
 Site Designed & Optimized for 800x600x16bpp and IE 4.0 +  
   
   
