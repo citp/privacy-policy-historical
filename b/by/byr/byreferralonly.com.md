@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byreferralonly.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207152258id_/http%3A//www.byreferralonly.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byreferralonly.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305063926id_/http%3A//www.byreferralonly.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # By Referral Only®
 
@@ -6,14 +6,14 @@
 Your privacy is very important to us at By Referral Only, Inc. ("www.byreferralonly.com"). This privacy policy ("Privacy Policy") is designed to assist you in understanding how we collect, use and safeguard the personal information you provide and to assist you in making informed decisions when using our site (the "Site"). 
 
 **Your Consent.**  
-By using this Site, you consent to our collection and use of your personal information as described in this Privacy Policy. www.byreferralonly.com’s Privacy Policy applies to individuals who use our Site and we reserve the right to change this Privacy Policy, along with related procedures, at any time. 
+By using this Site, you consent to our collection and use of your personal information as described in this Privacy Policy. www.byreferralonly.com's Privacy Policy applies to individuals who use our Site and we reserve the right to change this Privacy Policy, along with related procedures, at any time. 
 
 **Collection, Use and Retention of User Information.**  
 When you visit our Site you may provide us with two types of information: 1) personal information you knowingly choose to disclose that is collected on an individual basis; and 2) web site use information collected as you browse our Site.
 
   1. **Personal Information -- Our Use of Information That You Provide Us.**
     1. **General Policy.**  
-Broadly speaking, we may use your personal information for purposes of administering our business activities and providing you with newsletters and other information and updates. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our users’ personal information. If you desire not to receive these commercial electronic communications from us you may click the link provided at the bottom of the such emails or contact our privacy officer listed below.
+Broadly speaking, we may use your personal information for purposes of administering our business activities and providing you with newsletters and other information and updates. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our users' personal information. If you desire not to receive these commercial electronic communications from us you may click the link provided at the bottom of the such emails or contact our privacy officer listed below.
   2. **Web Site Use Information.**  
 Similar to other commercial web sites, our Site may utilize a standard technology called "Cookies" and web server logs to collect information about how our Site is used. 
     1. **What Are Cookies?**  
@@ -26,7 +26,7 @@ Any communication or material you transmit to the Site, other than non-public pe
     2. **Legally Compelled Disclosure of Information.**  
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. 
     3. **Sharing Information with Third Parties.**  
-From time to time, you may notice offers from www.byreferralonly.com’s sponsors and others outside companies listed on our Site. We cannot and do not make any representations about the practices and policies of these companies, and are not responsible in any way for how these companies use Cookies or any other information you provide to them. 
+From time to time, you may notice offers from www.byreferralonly.com's sponsors and others outside companies listed on our Site. We cannot and do not make any representations about the practices and policies of these companies, and are not responsible in any way for how these companies use Cookies or any other information you provide to them. 
     4. **Sharing Information with Strategic Partners.**  
 We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information, and we will not share information regarding your personal financial data.
   4. **Other Web Sites Linked to Our Site.**  
@@ -39,7 +39,7 @@ If you enter personally identifiable information in the "E-mail This Article" li
   6. **Security.**  
 This Site takes reasonable precautions to protect your information. When our order forms prompt you to enter sensitive information (such as a credit card number), your information is encrypted. By Referral Only, Inc. is [certified to process secure transactions](https://digitalid.verisign.com/as2/d2ca4004ed4ed2d0a0a4afd03d2515f3) by VeriSign. 
   7. **Message Boards.**  
-The message boards provided on this Site are free forums for the exchange of ideas and information within the By Referral Only Community and are not intended to be used as a vehicle for advertising or mass e-mailing by said community. Users of the message boards are subject to the conditions of the [Terms of Use Agreement](https://web.archive.org/web/20041207152258id_/http%3A//www.byreferralonly.com/about_us/terms.htm). Please use discretion whenever disclosing personal information on the message boards. While every reasonable effort will be made to monitor the content within the message board system, www.byreferralonly.com reserves the right to edit, delete and modify postings in its sole discretion, it cannot and shall not be responsible for monitoring such message content. www.byreferralonly.com expressly disclaims all liability for information posted on such message boards. By Referral Only, Inc. shall not be responsible for information posted by its members. 
+The message boards provided on this Site are free forums for the exchange of ideas and information within the By Referral Only Community and are not intended to be used as a vehicle for advertising or mass e-mailing by said community. Users of the message boards are subject to the conditions of the [Terms of Use Agreement](https://web.archive.org/web/20050305063926id_/http%3A//www.byreferralonly.com/about_us/terms.htm). Please use discretion whenever disclosing personal information on the message boards. While every reasonable effort will be made to monitor the content within the message board system, www.byreferralonly.com reserves the right to edit, delete and modify postings in its sole discretion, it cannot and shall not be responsible for monitoring such message content. www.byreferralonly.com expressly disclaims all liability for information posted on such message boards. By Referral Only, Inc. shall not be responsible for information posted by its members. 
   8. **Children's Privacy.**  
 Our Site is not intended for the use of children. We do not knowingly market to, or solicit data from, children. 
   9. **Questions/Concerns.**  
