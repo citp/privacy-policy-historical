@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031200id_/http%3A//www.eds.com/administrative/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603174632id_/http%3A//eds.com/administrative/privacy.shtml) for the most accurate reproduction.*
 
 # eds.com Privacy Policy
 
