@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622061139id_/http%3A//cheapflights.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207043606id_/http%3A//www.cheapflights.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -33,8 +33,8 @@ Cheapflights uses cookies which tells us about how users navigate the site. We u
 [http://www.cookiecentral.com ](http://www.cookiecentral.com/)
 
 Third Party Advertising  
-The banners appearing on this website are delivered to you, on our behalf, by Ad2-one. Information about your visit to this site, such as the number of times you have viewed an ad (but not your name, address, or any other personal information) is used to server ads to you on this site. For more information please click here:  
-[http://www.www.ad2-one.co.uk](http://www.ad2-one.co.uk/)
+The banners appearing on this website are delivered to you, on our behalf, by Ad2-one. Information about your visit to this site, such as the number of times you have viewed an ad (but not your name, address, or any other personal information) is used to serve ads to you on this site. For more information please click here:  
+[http://www.ad2-one.co.uk](http://www.ad2-one.co.uk/)
 
 In the course of serving advertisements to this site, Ad2-one may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. 
 
