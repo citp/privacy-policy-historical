@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outwar.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202232808id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outwar.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602203849id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.*
 
-# Outwar.com Round 14 - The land of Monsters, Gangsters, and Pop Stars!
+# Outwar.com Round 20 - The land of Monsters, Gangsters, and Pop Stars!
 
 **Privacy Statement  
 **outwar.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: outwar.com
