@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223172206id_/http%3A//www.multiplestreammktg.com/n/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405232851id_/http%3A//www.multiplestreammktg.com/n/privacy.html) for the most accurate reproduction.*
 
 # email advertising email marketing By Multiple Stream Media.
 
