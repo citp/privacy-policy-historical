@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terradotta.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014742id_/http%3A//www.terradotta.com/index.cfm%3FFuseAction%3DTerraDotta.Home%26Page_ID%3D32%26Selected%3DHome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terradotta.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606224634id_/http%3A//terradotta.com/index.cfm%3FFuseAction%3DTerraDotta.Home%26Page_ID%3D32%26Selected%3DHome) for the most accurate reproduction.*
 
 # TerraDotta Corporate Site - Privacy Policy
 
