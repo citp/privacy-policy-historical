@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617221743id_/http%3A//myria.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205175900id_/http%3A//myria.com/privacy.htm) for the most accurate reproduction.*
 
 # Myria Media, Inc. Privacy Policy Statement
 
 The following sites are wholly owned by Myria Media, Inc.: 
 
   * [Myria](http://myria.com/)
+  * [Chef Mom](http://chefmom.com/)
   * [EverythingForParents.com](http://everythingforparents.com/)
   * [ePregnancy](http://epregnancy.com/)
   * [Interactive Parent](http://interactiveparent.com/)
@@ -25,7 +26,7 @@ This is how we handle information we learn about you from your visit to a Myria 
 We collect and store the following information about you: the IP address or name of the domain from which you access the Internet (for example, aol.com, if you are coming from an America Online account, or yale.edu if you are connecting from a Yale domain): the date and time you access our site; the Internet address of the Web site from which you linked directly to our site; and your Operating System and Browser. We use the information to measure the number of visitors to the sections of our site, which, in turn, helps us make our site more useful. The browser information is used to develop and code pages so most people will be able to view the site correctly. We also maintain information volunteered by site visitors, including contest/sweepstakes entries; survey information; board/site registrations; additions to reviews, due date and other databases; notebook registration; and e-mail list membership. 
 
 **Newsletters and e-mail contact**  
-You may sign up for the various Myria Media, Inc. eNewsletters, opt-in lists for occasional (usually weekly) mailings from us regarding updates to the individual sites and other related issues. We pledge not to share your e-mail address with other organizations, such as for commercial purposes. 
+You may sign up for the various Myria Media, Inc. e-mail Newsletters, opt-in lists for occasional (usually weekly) mailings from us regarding updates to the individual sites and other related issues. We pledge not to share your e-mail address with other organizations, such as for commercial purposes. 
 
 If you believe your e-mail address was been subscribed to a list in error, please contact [feedback@myria.com](mailto:feedback@myria.com) with the e-mail address that was incorrectly subscribed and a note stating the error so we may correct this problem. (Unsubscription information is also included with each newsletter message.) 
 
@@ -37,4 +38,7 @@ We may make occasional mailings to those who have signed up for a free Myria Med
 **Off-Site Links**  
 Once you access an another Web site through a off-site link, whether to an advertiser or to an informational site, you are no longer on a Myria Media, Inc. site, and are then subject to the privacy policy of the specific Web site containing that material. 
 
-**Shop Online:** [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/myriamagazine) | [Lands' End](http://click.linksynergy.com/fs-bin/stat?id=pK6BePRVrJE&offerid=9854&type=3&subid=0) | [BabyCenter Store](http://service.bfast.com/bfast/click/babycenter?bfsiteid=381096&bfpage=home) | [Garden.com](http://service.bfast.com/bfast/click?bfmid=9664445&siteid=12551089&bfpage=home) | [Reel.com Videos](http://service.bfast.com/bfast/click?bfmid=115297&siteid=19165464&pageid=home) | [PlanetRx](http://service.bfast.com/bfast/click/mid1000057?siteid=1339250&bfpage=products)
+**Advertisers**  
+Myria Media, Inc. works with third parties to serve ads to this site. To find out more about how Engage, one such agency we use, serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, please go to <http://www.engage.com/privacy>. For information regarding DoubleClick ad serving, see <http://doubleclick.com/privacy_policy/>. For information regarding merchants appearing on the site via BeFree/Reporting.net, see <http://www.befree.com/includes/stopspam.htm>. 
+
+**Shop Online:** [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/myriamagazine) | [Lands' End](http://click.linksynergy.com/fs-bin/stat?id=pK6BePRVrJE&offerid=9854&type=3&subid=0) | [BabyCenter Store](http://service.bfast.com/bfast/click/babycenter?bfsiteid=381096&bfpage=home) | [Garden.com](http://service.bfast.com/bfast/click?bfmid=9664445&siteid=12551089&bfpage=home) | [PlanetRx](http://service.bfast.com/bfast/click/mid1000057?siteid=1339250&bfpage=products)
