@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603160737id_/http%3A//www.skyauction.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204611id_/http%3A//www.skyauction.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # SkyAuction.com Travel Auctions: Privacy Policy
 
@@ -10,11 +10,11 @@ When you reserve or purchase travel services through SkyAuction.com, we will ask
 
 As a user of SkyAuction.com, you have the option to engage in certain additional activities on the site, such as entering contests or sweepstakes, or receiving our e-mail alerts. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, SkyAuction.com may require you to provide us with personal information, such as your name, mailing address, e-mail address, and other personal identifying information. SkyAuction.com needs to collect this personal information for various reasons, which may include: (i) notifying sweepstake or contest winners, (ii) fulfilling prizes; (ii) disseminating our e-mail; (iii) aggregating statistical information; and (iv) tracking and verifying compliance with SkyAuction.com policies and international, federal, state and local laws. 
 
-SkyAuction.com recognizes and respects the importance of responsible use of your personal information. If you do not want the information you provide to SkyAuction.com to be used to inform you of other products and special offers from SkyAuction.com, and you indicate this preference when you provide the information, SkyAuction.com will honor your preference. In case you change your mind or some personal information may change (such as your zip code), we provide a way to correct, update or remove the personal data you give us. You can do this at the member information page or by contacting our Customer Support organization at [support@SkyAuction.com](mailto:support@SkyAuction.com).
+SkyAuction.com recognizes and respects the importance of responsible use of your personal information. If you do not want the information you provide to SkyAuction.com to be used to inform you of other products and special offers from SkyAuction.com, and you indicate this preference when you provide the information, SkyAuction.com will honor your preference. In case you change your mind or some personal information may change (such as your zip code), we provide a way to correct, update or remove the personal data you give us. You can do this at the member information page or by [contacting our Customer Support organization](https://web.archive.org/action/custCare). 
 
 OPTING-OUT 
 
-To keep you in control of your personal information and the communications directed to you, we allow you to opt-out of receiving certain communications from SkyAuction.com about new features or services. If a guest objects to such use for any reason, you may stop that use, either by e-mail request to [support@SkyAuction.com](mailto:support@SkyAuction.com) or by modifying your member information online. 
+To keep you in control of your personal information and the communications directed to you, we allow you to opt-out of receiving certain communications from SkyAuction.com about new features or services. If a guest objects to such use for any reason, you may stop that use, either [by e-mail request to SkyAuction Customer Support](https://web.archive.org/action/custCare) or by modifying your member information online. 
 
 Information provided when reserving or purchasing travel services through SkyAuction.com, may be used for marketing and promotional purposes and is subject to the opt-out processes described on, or linked to, each order form. 
 
@@ -42,7 +42,7 @@ USE OF e-mail DATA
 
 SkyAuction.com will use your e-mail address to send correspondence about reservation confirmations, important updates about your travel plans and newsletters. Members who sign up to receive SkyAuction.com's newsletter and notifications of travel specials, will receive a SkyAuction.com content newsletter delivered either on a monthly basis, as well as occasional product-related announcements. 
 
-Users can choose to unsubscribe from SkyAuction.com newsletters or product-related announcements at any time by following the unsubscribe instructions found in each e-mail or by contacting our Customer Support organization at [support@SkyAuction.com](mailto:support@SkyAuction.com). 
+Users can choose to unsubscribe from SkyAuction.com newsletters or product-related announcements at any time by following the unsubscribe instructions found in each e-mail or [by contacting our Customer Support organization](https://web.archive.org/action/custCare). 
 
 CONTESTS AND SWEEPSTAKES 
 
@@ -74,10 +74,13 @@ By using this site, you signify your assent to the SkyAuction.com Privacy Policy
 
 CONTACTING THE WEB SITE 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact [support@SkyAuction.com](mailto:support@SkyAuction.com), or write to:   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may [contact SkyAuction Customer Support via email](https://web.archive.org/action/custCare) or write to:   
 SkyAuction.com   
 Attn:Internet Development   
 501 Madison Avenue   
 New York, NY 10022
 
 Last Updated Feb. 21, 2002
+
+  
+
