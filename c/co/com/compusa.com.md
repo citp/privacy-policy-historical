@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204000536id_/http%3A//www.compusa.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605050132id_/http%3A//www.compusa.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to CompUSA.com - Contact
 
   
-At CompUSA, your privacy is very important to us. We appreciate our customers and understand the value of protecting your rights. We hope to address all of your concerns through this list of privacy-related Frequently Asked Questions. For our younger shoppers, our [Kids' Privacy Policy](https://web.archive.org/kid_privacy.asp) explains additional measures we have taken to ensure their privacy and safety online. 
+At CompUSA, your privacy is very important to us. We appreciate our customers and understand the value of protecting your rights. We hope to address all of your concerns through this list of privacy-related Frequently Asked Questions. For our younger shoppers, our [Kids' Privacy Policy](http://www.compusa.com/kid_privacy.asp) explains additional measures we have taken to ensure their privacy and safety online. Our site is also [P3P compliant](http://www.compusa.com/p3pcompliance.asp). 
 
 Does CompUSA collect my IP address?  
 Yes. We use this to identify your PC and your shopping cart, as well as to help us diagnose any problems you may encounter with our server. IP addresses are not linked to any personally identifiable information. 
