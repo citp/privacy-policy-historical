@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405124556id_/http%3A//eaglecreek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802042816id_/http%3A//eaglecreek.com/privacy.htm) for the most accurate reproduction.*
 
 # Eagle Creek's Privacy Policy
 
@@ -10,4 +10,4 @@ There are times, however, when we may need information from you, such as your na
 
 In general on www.eaglecreek.com, IP addresses (the individual address of a computer) are logged to track a user's session while the user remains anonymous. We analyze this data for certain trends and statistics, such as which parts of our site users are visiting and how long they spend there. In general, we do not link your IP addresses to anything personally identifiable to you. If a service is offered where session information is not anonymous, Eagle Creek will provide notice of the practice and an opportunity to say "no thanks."
 
-If you have any questions or comments about our privacy practices, would like to stop receiving information from Eagle Creek, or would like to correct or update information provided to Eagle Creek via its Web site, please contact us by sending an e-mail to the [_Webmaster_](https://web.archive.org/web/20020405124556id_/http%3A//eaglecreek.com/contact/contact_website.htm).
+If you have any questions or comments about our privacy practices, would like to stop receiving information from Eagle Creek, or would like to correct or update information provided to Eagle Creek via its Web site, please contact us by sending an e-mail to the [_Webmaster_](https://web.archive.org/web/20020802042816id_/http%3A//eaglecreek.com/contact/contact_website.htm).
