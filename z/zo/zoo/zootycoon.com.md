@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zootycoon.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080150id_/http%3A//www.microsoft.com/privacy/onestop/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootycoon.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204002127id_/http%3A//www.microsoft.com/privacy/onestop/default.htm) for the most accurate reproduction.*
 
 # How Microsoft Helps Protect Your Privacy
 
@@ -56,7 +56,7 @@ Microsoft is committed to helping protect the security of your personal informat
 
 Many Microsoft Web sites use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you or your computer, and can only be read by a Web server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a Microsoft web page, or register with a Microsoft site or service, a cookie helps us to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Microsoft web site, the information you previously provided can be retrieved, so you can easily use the features that you customized. While some cookies contain personal information, others allow you to customize a site while remaining anonymous. The privacy statement of the particular site your are visiting will describe how that site uses cookies.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a Microsoft web page, or register with a Microsoft site or service, a cookie helps us to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Microsoft Web site, the information you previously provided can be retrieved, so you can easily use the features that you customized. While some cookies contain personal information, others allow you to customize a site while remaining anonymous. The privacy statement of the particular site your are visiting will describe how that site uses cookies.
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, if you choose to decline cookies, you may not be able to fully experience the interactive features of the sites or services you visit.
 
@@ -83,10 +83,9 @@ If you have questions about the data collection practices of a specific Microsof
 The following list contains Microsoft products and Web sites:
 
   * [Microsoft.com](http://www.microsoft.com/info/privacy.htm)
-  * [Microsoft .NET Alerts](http://alerts.microsoft.com/Alerts/help/ps.aspx)
+  * [Microsoft Alerts](http://alerts.microsoft.com/Alerts/help/ps.aspx)
   * [Microsoft .NET Passport](http://www.passport.net/Consumer/PrivacyPolicy.asp)
   * [Microsoft bCentral™](http://bcentral.com/help/policy/privacy.asp)
-  * [GreatPlains.com](http://www.greatplains.com/legal/privacy.asp)
   * [UltimateTV.com](http://www.ultimatetv.com/privacy.asp)
   * [WindowsMedia.com](http://windowsmedia.com/privacy/privacystatement.asp)
   * [Xbox.com](http://www.xbox.com/privacystatement.htm)
