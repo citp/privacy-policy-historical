@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606061411id_/http%3A//pragmaticprogrammer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016183813id_/http%3A//www.pragmaticprogrammer.com/privacy.html) for the most accurate reproduction.*
 
 # The Pragmatic Programmers, LLC
 
