@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003155733id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803225026id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -7,7 +7,7 @@
 
 |       
 ---  
-    | This privacy statement discloses the privacy practices for FamousFootwear.com.   
+    | This privacy statement discloses the privacy practices for FamousFootwear.com.  It is effective 02/01/2004.  
     | Because we want to demonstrate our commitment to your privacy, this privacy statement will notify you of:  
     | 
 
@@ -22,7 +22,7 @@
   
     | If you feel that we are not abiding by our posted privacy policy, you should contact Famous Footwear.com Customer Service via email at [service@famousfootwear.com](mailto:service@famousfootwear.com), via postal mail at Famous Footwear, 7010 Mineral Point Road, Madison, WI 53717-1701, or by telephone at 1-866-432-6687  
     |  **Information Collection and Use**  
-Famous Footwear is an operating division of Brown Group Retail, Inc. which in turn is a wholly owned subsidiary of Brown Shoe Company, Inc. The FamousFootwear.com website is operated by Shoes.com, Inc., which is a corporate affiliate of Brown Shoe Company. Shoes.com, Inc. and Brown Shoe Company, Inc. are the sole owners of all information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement. This information is collected from users at several different points on the FamousFootwear.com website.  
+Famous Footwear is an operating division of Brown Group Retail, Inc. which in turn is a wholly owned subsidiary of Brown Shoe Company, Inc. The FamousFootwear.com website is operated by the Famous Footwear Division of Brown Shoe Company. Brown Group Retail, Inc. and Brown Shoe Company, Inc. are the sole owners of all information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement. This information is collected from users at several different points on the FamousFootwear.com website.  
     |  **REWARDS Customers**  
 In order to become a REWARDS Member, you must first complete the registration form. During registration you are required to give personal contact information (such as name and email address). This information is used to reward loyal customers for their purchases. By becoming a REWARDS Member, you are able to earn points for purchases made online, and in-store, as well as take advantage of special offers we make available to REWARDS Members about new promotions, fashion trends, etc. It is also more convenient for a REWARDS Member to make purchases online. (In order earn points for online purchase, you must remember put in your REWARDS Member number at time of checkout).   
     |  **Orders**  
@@ -32,7 +32,7 @@ A cookie is a piece of data stored on the hard drive of your computer, containin
     |  **Log Files**  
 We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.   
     |  **Sharing**  
-The personal information you have provided us and information about your order will never be shared with third parties. This information may, however, be combined with other information (such as demographic information and past purchase information) and used to make our future marketing efforts more efficient.  
+The personal information you have provided us and information about your order will never be shared with third parties without your consent. This information may, however, be combined with other information (such as demographic information and past purchase information) and used to make our future marketing efforts more efficient.  
     |  **Links**  
 From time to time, FamousFootwear.com may contain links to other websites. Please be aware that we cannot be responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this site.   
     |  **Surveys and Contests**  
@@ -51,9 +51,12 @@ REWARDS Members will occasionally receive information on products, services, and
     |  **Site and Service Updates**  
 We also send our users site and service announcement updates. We may communicate with you to provide requested services and, in regards to issues relating to your account, via email or phone.   
     |  **Correcting or Updating Personal Information**  
-If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way for you to correct, update or remove your personal data provided to us. This can usually be done at the REWARDS Customer Account maintenance page or by emailing us at [service@famousfootwear.com](mailto:service@famousfootwear.com).  
+If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way for you to correct, update or remove your personal data provided to us. This can usually be done at the [REWARDS Customer Account](https://www.famousfootwear.com/services/customer/editemailpassword.asp) information page or by emailing us at [service@famousfootwear.com](mailto:service@famousfootwear.com).  
     |  **Choice and Opt-out**  
-Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our Preferred Customer Account information form has an 'opt-out' mechanism so users who register with us, but don't want any marketing material or those of our marketing partners, can keep their email address off of our lists. If you no longer wish to receive our promotional materials you may opt-out of receiving these communications by either visiting our [Preferred Customer Account](https://www.famousfootwear.com/services/customer/editemailpassword.asp) information page or by sending us an email at [service@famousfootwear.com](mailto:service@famousfootwear.com). When you send us email to opt-out, please specify whether you are opting-out for FamousFootwear.com exclusive offers, or for our marketing partner's promotional materials. If you do not specify, we will assume you are opting out only for our marketing partner's promotional materials. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. To learn more about our marketing partner's privacy policy, [click here](http://plazadirect.com/ad_light.asp?ArticleID=2).  
+Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our [REWARDS Customer Account](https://www.famousfootwear.com/services/customer/editemailpassword.asp) information form has an 'opt-out' mechanism so users who register with us, but don't want any marketing material or those of our marketing partners, can keep their email address off of our lists. If you no longer wish to receive our promotional materials you may opt -out of receiving these communications by either visiting our [REWARDS Customer Account](https://www.famousfootwear.com/services/customer/editemailpassword.asp) information page or by sending us an email at [service@famousfootwear.com](mailto:service@famousfootwear.com). 
+
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.   
+  
     |  **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.   
 | 
