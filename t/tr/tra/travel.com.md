@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207043215id_/http%3A//query.travel.com/index.jsp%3FpageName%3Dprivacy%26cid%3D496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308112243id_/http%3A//query.travel.com/index.jsp%3FpageName%3Dprivacy%26cid%3D496) for the most accurate reproduction.*
 
 # Travel.com -- infocenter
 
