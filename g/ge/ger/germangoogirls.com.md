@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the germangoogirls.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015109id_/http%3A//shared.bukkakecash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the germangoogirls.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622205222id_/http%3A//shared.bukkakecash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
