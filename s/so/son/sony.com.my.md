@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.com.my privacy policy that was archived on 2004-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040416123155id_/http%3A//www.sony.com.my/support.asp%3Faid%3D58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.com.my privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212051417id_/http%3A//www.sony.com.my/support.asp%3Faid%3D58) for the most accurate reproduction.*
 
 # www.SONY.com.my
 
