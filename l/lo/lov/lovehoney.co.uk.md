@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210124748id_/http%3A//www.lovehoney.co.uk/includes/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621155659id_/http%3A//www.lovehoney.co.uk/includes/privacy.cfm) for the most accurate reproduction.*
 
-# LoveHoney UK Sex Toys - sexy and secure adult shopping
+# Sex Toys UK - LoveHoney sexy and secure adult shopping
 
 **LoveHoney Privacy Policy**  
 LoveHoney respects your privacy. When you shop at LoveHoney, we will ask for personal information such as your name, e-mail address, billing address, product selections, credit card or other payment information.
