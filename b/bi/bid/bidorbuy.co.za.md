@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211235727id_/http%3A//www2.bidorbuy.co.za/static/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408214236id_/http%3A//www.bidorbuy.co.za/static/Privacy.html) for the most accurate reproduction.*
 
 # bidorbuy Privacy Statement
 
-[Terms & Conditions](http://www2.bidorbuy.co.za/static/User-agreement.html) | [Billing Statement](http://www2.bidorbuy.co.za/static/BillingStatement.html) | [Rating System Rules](http://www2.bidorbuy.co.za/static/RatingRules.html) | [Prohibited Goods & Services](http://www2.bidorbuy.co.za/static/Prohibited.html) | Privacy Statement 
+[Terms & Conditions](https://web.archive.org/static/User-agreement.html) | [Billing Statement](https://web.archive.org/static/BillingStatement.html) | [Rating System Rules](https://web.archive.org/static/RatingRules.html) | [Prohibited Goods & Services](https://web.archive.org/static/Prohibited.html) | Privacy Statement 
 
 |  | 
 
@@ -42,7 +42,7 @@ We are the sole owner of the information collected on this site.  We will not s
 
 We collect information from our users at several different points on our site.  We collect information about your bidding, buying and selling activities if you choose to participate on our site as a result of you engaging in these activities, and also from ratings and comments received from other users regarding you engaging in those activities.  We also collect information from any form of correspondence, such as emails and telephone conversations, from you or from a third party about you.  We may also collect information from you if you choose to partake in special promotions with third parties on our site. This information will be shared with that third party, but only with your consent and for the purpose of that promotion. 
 
-We will also collect financial information about you if you choose to bid for certain goods and services on our site, if you sell on our site, and also as set out in the _[Terms and Conditions of Use of this Site](http://www2.bidorbuy.co.za/static/User-agreement.html)_.  We do charge fees for selling, and your payment information will be used to charge you accordingly.  We may pass your payment information onto recognised partners in certain cases, such as for charging you for selling and in those auctions where the services of shipping and delivery or fulfilment companies are offered to our users, but only in cases where our users have requested those services from us. Other information that we collect is outlined below.
+We will also collect financial information about you if you choose to bid for certain goods and services on our site, if you sell on our site, and also as set out in the _[Terms and Conditions of Use of this Site](https://web.archive.org/static/User-agreement.html)_.  We do charge fees for selling, and your payment information will be used to charge you accordingly.  We may pass your payment information onto recognised partners in certain cases, such as for charging you for selling and in those auctions where the services of shipping and delivery or fulfilment companies are offered to our users, but only in cases where our users have requested those services from us. Other information that we collect is outlined below.
 
 **Registration  **
 
@@ -60,13 +60,13 @@ We collect statistical information about you from page hits.  Every page, image
 
 **Sharing**  
 
-If you successfully sell a product or successfully win an auction, or are the runner up in an auction where the winning bidder defaults, then your name, email address, phone number and fax number, payment details including credit card information and mailing address may be passed onto the other party involved in that auction in accordance with the _[Terms and Conditions of Use of this Site](http://www2.bidorbuy.co.za/static/User-agreement.html)_.  For example, if you bid on an auction and win the auction, your details will be passed onto the seller of that item for auction. Similarly, if you are selling an item on auction, your details will be passed onto the winning bidder of your auction. 
+If you successfully sell a product or successfully win an auction, or are the runner up in an auction where the winning bidder defaults, then your name, email address, phone number and fax number, payment details including credit card information and mailing address may be passed onto the other party involved in that auction in accordance with the _[Terms and Conditions of Use of this Site](https://web.archive.org/static/User-agreement.html)_.  For example, if you bid on an auction and win the auction, your details will be passed onto the seller of that item for auction. Similarly, if you are selling an item on auction, your details will be passed onto the winning bidder of your auction. 
 
 We will share aggregated demographic information with our business partners and advertisers.   When we do, you will not be personally identifiable, and your personal information will only be used as part of an aggregated compilation of information. 
 
 We will release information about you when required by law to do so.   Otherwise, we may release information about you, at our sole discretion, when we believe, that such release of information is reasonably necessary or appropriate to:
 
-(a) enforce or apply the _[Terms and Conditions of Use of this Site](http://www2.bidorbuy.co.za/static/User-agreement.html)_ ; or
+(a) enforce or apply the _[Terms and Conditions of Use of this Site](https://web.archive.org/static/User-agreement.html)_ ; or
 
 (b) to protect the rights, property or safety of bidorbuy.com, our users or others.
 
@@ -126,7 +126,7 @@ If you no longer wish to receive our newsletter, information about products and 
 
 To update your registration information log onto our Members Area, or [click here](https://www.bidorbuy.co.za/jsp/UserRegistration.jsp?action=Modify). 
 
-To subscribe to our newsletter, [click here](http://www2.bidorbuy.co.za/static/JoinMailing.html). 
+To subscribe to our newsletter, [click here](https://web.archive.org/static/JoinMailing.html). 
 
 **Notification of Changes  **
 
@@ -138,4 +138,4 @@ If we change the way we use your Personally Identifiable Information we will not
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with us, you can contact us on [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
 
-[Terms & Conditions](http://www2.bidorbuy.co.za/static/User-agreement.html) | [Billing Statement](http://www2.bidorbuy.co.za/static/BillingStatement.html) | [Rating System Rules](http://www2.bidorbuy.co.za/static/RatingRules.html) | [Prohibited Goods & Services](http://www2.bidorbuy.co.za/static/Prohibited.html) | Privacy Statement 
+[Terms & Conditions](https://web.archive.org/static/User-agreement.html) | [Billing Statement](https://web.archive.org/static/BillingStatement.html) | [Rating System Rules](https://web.archive.org/static/RatingRules.html) | [Prohibited Goods & Services](https://web.archive.org/static/Prohibited.html) | Privacy Statement 
