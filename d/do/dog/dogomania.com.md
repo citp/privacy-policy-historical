@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205121410id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072911id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
 
 # Dog-O-Mania - The biggest dogs related search engine & resource: Privacy policy
 
@@ -14,10 +14,10 @@
 \- [Awards](http://www.dogomania.com/awards/awards.shtml)
 
 **Breeds:**  
-\- [Breeds](http://www.dogomania.com/breed/)  
-\- [Breeders](http://www.dogomania.com/gallery/breeders/) New!  
-\- [Gallery](http://www.dogomania.com/gallery/breeds/) New!  
-\- [Standards](http://www.dogomania.com/gallery/standards/)  
+\- [Breeds](http://www2.dogomania.com/breed/)  
+\- [Breeders](http://www2.dogomania.com/gallery/breeders/) New!  
+\- [Gallery](http://www2.dogomania.com/gallery/breeds/) New!  
+\- [Standards](http://www2.dogomania.com/gallery/standards/)  
 
 
 **Names:**  
@@ -32,14 +32,14 @@
 \- [Titles](http://www.dogomania.com/titles.shtml)
 
 **Discussions:**  
-\- [Read forum](http://www.dogomania.com/forum/list.php?f=2)  
-\- [New topic](http://www.dogomania.com/forum/post.php?f=2)  
-\- [Search](http://www.dogomania.com/forum/search.php?f=2)
+\- [Read forum](http://www.dogomania.com/forum/index.php)  
+\- [New topic](http://www.dogomania.com/forum/posting.php?mode=newtopic&f=1)  
+\- [Search](http://www.dogomania.com/forum/search.php)
 
 **Resources:**  
 \- [Fun](http://www.dogomania.com/fun.shtml)  
-\- [Stories](http://www.dogomania.com/stories.shtml) New!  
-\- [Poetry](http://www.dogomania.com/poetry.shtml) New!  
+\- [Stories](http://www.dogomania.com/stories.shtml)  
+\- [Poetry](http://www.dogomania.com/poetry.shtml)  
 \- [Art](http://www.dogomania.com/art.shtml)  
 \- [Graphics](http://www.dogomania.com/webgraphics.shtml)  
 \- [Windows themes](http://www.dogomania.com/winthemes.shtml)  
@@ -120,5 +120,7 @@ This site gives users the following options for changing and modifying informati
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Margo Peron  
-Dog-O-Mania M4D.COM [dogs@m4d.com](http://www.dogomania.com/contact.shtml) [](http://www.petlinkexchange.com/)  
-[](http://www.petlinkexchange.com/petlinkexchange/link/ads/ads.pl?member=dogomania;banner=NonSSI;page=01;zone=Dog)
+Dog-O-Mania M4D.COM [dogs@m4d.com](http://www.dogomania.com/contact.shtml)   
+  
+[](http://www.petlinkexchange.com/)   
+
