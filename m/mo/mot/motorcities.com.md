@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the motorcities.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610165423id_/http%3A//www.motorcities.com/privacypolicy.html) for the most accurate reproduction.*
+
+# MotorCities.com -- Gallery of car wallpaper, car videos, car sounds, car photos, car photographs, car wallpaper, automobile wallpaper, automobile videos, automobile sounds, automobile photos, automobile photographs, automobile wallpaper, auto wallpaper, auto videos, auto sounds, auto photos, auto photographs, auto wallpaper, wallpaper of cars, wallpaper of automobiles, wallpaper of autos.
+
+Any personal information you share with MotorCities in any way will be kept strictly confidential, UNLESS YOU EXPLICITLY request that your information be shared with affiliated companies in order to receive special offers from them. 
+
+Our web servers neither recognize nor store automatically any information regarding the visitor's personal credentials or e-mail address. Like most other web sites, we collect aggregate information on the pages that are accessed. Personal information volunteered by the user, such as the specific information required on the MotorCities submission form, or during the newsletter sign-up, is published only with the submitter's express authorization. All other personal information you have or might submit to MotorCities that you have not authorized us to publish will be kept strictly confidential. 
+
+MotorCities also works with third parties that serve ads to this site. To find out more about the information gathering practices and "opt-out" procedures of our third party ad servers, please see the privacy policy pages for 24/7 Real Media, DoubleClick, MaxOnline, Commission Junction, FastClick, Tribal Fusion, Google AdSense, ValueClick, Amazon.com, LinkShare, FreePolls, and Kanoodle.
