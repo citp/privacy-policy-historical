@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020128id_/http%3A//spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603073617id_/http%3A//www.spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -8,7 +8,7 @@ We will only collect information that is voluntarily provided by our visitors. N
 
 We do employ cookies to make your visit more useful. For example, if you enter your ZIP code , we will attempt to show you doctors in your area who specialize in the type of back problem that our page is describing. If you enter a different ZIP code, we'll show you doctors from that area. 
 
-Cookies are also utilized to record use and/or abuse of our community Question and Answer section. 
+Cookies are also utilized to record use and/or abuse of our community Question and Answer section, and to permit viewing of members-only areas of SpineUniverse. 
 
 We do not sell email lists and will not disclose your email address to an outside vendor. Members may receive an email which mentions a technology or product of interest to back pain patients. Such email will come from SpineUniverse. Personal information provided by members (eg. name, email or home address) will not be disclosed to anyone outside SpineUniverse unless the member specifically authorizes SpineUniverse.com to do so.
 
@@ -17,3 +17,5 @@ Statistical information on our members as a group (usage habits, demographics) m
 Any financial transaction occuring via SpineUniverse will occur over an encrypted channel.
 
 If you have any questions about our privacy policy, please feel free to contact us at [feedback@SpineUniverse.com](mailto:feedback@spineuniverse.com)
+
+| 
