@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203141700id_/http%3A//www.us-immigration.com/new_geninfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603184932id_/http%3A//www.us-immigration.com/new_geninfo/privacy.html) for the most accurate reproduction.*
 
 # IMMIGRATION: American Immigration Center - USA IMMIGRATION INFORMATION and Do-it-Yourself Kits
 
