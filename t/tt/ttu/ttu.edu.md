@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttu.edu privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195257id_/http%3A//www.ttu.edu/privpolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttu.edu privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201431id_/http%3A//www.ttu.edu/privpolicy.php) for the most accurate reproduction.*
 
 # Texas Tech University - TTU Privacy Policy
 
