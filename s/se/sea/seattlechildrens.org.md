@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603045436id_/http%3A//www.seattlechildrens.org/4_browsers/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216220217id_/http%3A//seattlechildrens.org/privacy.asp) for the most accurate reproduction.*
 
 # Children's
 
