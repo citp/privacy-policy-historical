@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heavygames.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062259id_/http%3A//www.heavygames.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavygames.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171021id_/http%3A//www.heavygames.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Heavy Games .com
 
@@ -28,4 +28,4 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 **CONTACTING OUR WEB SITE**
 
-If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/web/20041204062259id_/http%3A//www.heavygames.com/contact.asp).
+If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/web/20050403171021id_/http%3A//www.heavygames.com/contact.asp).
