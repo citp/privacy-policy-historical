@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dividend.com privacy policy that was archived on 2003-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030725060109id_/http%3A//www.scripophily.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dividend.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405233748id_/http%3A//www.scripophily.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Scripophily .com Old Stock Certificate Superstore - The Gift of History Privacy Policy
 
@@ -24,7 +24,7 @@ Occasionally, this site may contain links to other sites. Scripophily.com is not
 
 Contacting the Website
 
-If you have any questions or concerns about the Scripophily.com privacy policy, contact us at info@Scripophily.com, call toll-free 1-888-STOCKS6 or 703-787-3552, or write to us at: Scripophily.com P.O. Box 223795 Chantilly, Virginia 20153
+If you have any questions or concerns about the Scripophily.com privacy policy, contact us at Scripophily@yahoo.com, call toll-free 1-888-STOCKS6 or 703-787-3552, or write to us at: Scripophily.com P.O. Box 223795 Chantilly, Virginia 20153
 
 Secure Transactions
 
