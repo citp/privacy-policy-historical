@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yellowpipe.com privacy policy that was archived on 2003-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030524120142id_/http%3A//www.yellowpipe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpipe.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203121830id_/http%3A//yellowpipe.com/privacy.php) for the most accurate reproduction.*
 
-# Yellowpipe - Community for Contemporary Art
+# Yellowpipe - Huge thing
 
 Your privacy is very important to us. To better protect your privacy while your visiting our site, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used while visiting us.
 
