@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
 
-# USMLE,USMLE Step 1,USMLE,Caribbean Medical Schools,Residency Review,Foreign Medical Schools,Offshore
+# USMLE Step 1, Caribbean Medical Schools, Residency Review, Foreign Med School, International
 
   
   
   
 | **Statistics**  
 ---  
-We have **12380** registered users  
-The newest registered user is **[Spina Bifida](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=12386&sid=980f51f5717bc2f1987136b7030d48c1)**
+We have **18219** registered users  
+The newest registered user is **[rowdymon](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=18225&sid=5b1e2b4afbd773aa63e21007e8172299)**
 
-Our users have posted a total of **95718** articles within **19561** topics
+Our users have posted a total of **137467** articles within **26563** topics
 
 Last Updated On: 01/30/2020   
   
@@ -38,23 +38,38 @@ We do our best to maintain the accuracy of personal information you supply to us
 
 We will take appropriate steps to protect the information you share with us from unauthorized access or disclosure.   
   
-**Announcement: help!!!!**  
+**Announcement: BUT**  
 ---  
-Posted: **people** @ Sat Mar 20, 2004 6:12 pm  
-can i reschedule my prometric appointment within the eligibility period more than 3 times? i have already rescheduled it more than 3 times and need to...
+Posted: **teratos** @ Sun Nov 21, 2004 7:40 am  
+SC Luton doesn't do that. You have to think about these things very critically. All the SC Luton campus is is a money making venture. I don't think...
 
-[ [Read Full](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/portal.php?article=0&sid=980f51f5717bc2f1987136b7030d48c1) ]  
+[ [Read Full](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/portal.php?article=0&sid=5b1e2b4afbd773aa63e21007e8172299) ]  
   
-Comments: 0 :: [View Comments](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/viewtopic.php?t=15623&sid=980f51f5717bc2f1987136b7030d48c1) ([Post your comment](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/posting.php?mode=reply&t=15623&sid=980f51f5717bc2f1987136b7030d48c1))  
+Comments: 0 :: [View Comments](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/viewtopic.php?t=26912&sid=5b1e2b4afbd773aa63e21007e8172299) ([Post your comment](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/posting.php?mode=reply&t=26912&sid=5b1e2b4afbd773aa63e21007e8172299))  
   
 
 
 | **Welcome Guest**  
 ---  
   
-The time now is Tue Jun 15, 2004 6:23 pm
+The time now is Mon Dec 06, 2004 2:33 pm
 
-All times are GMT - 4 Hours  
+All times are GMT - 5 Hours  
   
-Foreign Medical Schools & Caribbean Medical Schools include Ross University School of Medicine Dominica in Caribbean, American University of the Caribbean AUC Medical School on St. Maarten in Caribbean, St. George University School of Medicine on Grenada in Caribbean, St. Matthew’s University Medical School in Caribbean, St. Christopher’s Medical School, Spartan Medical School in St. Lucia of Caribbean, UNIBE in Caribbean, Saba University Medical School in Caribbean, St. Eustatius Medical School in Caribbean, Medical University of Americas Medical School in Caribbean, Windsor Medical School in Caribbean, St. Martinus University Medical School, St. James University Medical School in Caribbean. This site also includes USMLE Step 1 2 and 3 prep forums and discusses the top Foreign & Caribbean Medical Schools.   
-18 
+**Who is Online**  
+---  
+In total there are **71** users online :: 14 Registered, 2 Hidden and 55 Guests
+
+Registered Users: [abdirahman](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=12780&sid=5b1e2b4afbd773aa63e21007e8172299), [DC, MD](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=9437&sid=5b1e2b4afbd773aa63e21007e8172299), [dkenneth](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=6672&sid=5b1e2b4afbd773aa63e21007e8172299), [dr2004usa](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=453&sid=5b1e2b4afbd773aa63e21007e8172299), [katya](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=18224&sid=5b1e2b4afbd773aa63e21007e8172299), [MokahBean](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=14807&sid=5b1e2b4afbd773aa63e21007e8172299), [ol' man](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=4962&sid=5b1e2b4afbd773aa63e21007e8172299), [opnr2k2](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=3690&sid=5b1e2b4afbd773aa63e21007e8172299), [ResearchingGuy](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=42&sid=5b1e2b4afbd773aa63e21007e8172299), [sassy](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=5983&sid=5b1e2b4afbd773aa63e21007e8172299), [skidoc42](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=16101&sid=5b1e2b4afbd773aa63e21007e8172299), [SMU_Information](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=2972&sid=5b1e2b4afbd773aa63e21007e8172299), [wcb22](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=5604&sid=5b1e2b4afbd773aa63e21007e8172299), [williamrobert](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=14227&sid=5b1e2b4afbd773aa63e21007e8172299)
+
+[ [View complete list](https://web.archive.org/web/20041206193327id_/http%3A//www.valuemd.com/viewonline.php?sid=5b1e2b4afbd773aa63e21007e8172299) ]  
+Most users ever online was **2381** on Tue Jul 20, 2004 1:11 am  
+**Tobi** is online waiting to chat with you 24/7!   
+[ Login to join chat ]   
+****  
+**Poll**  
+---  
+**No poll at the moment** You must login to vote   
+  
+  
+Specializing in International, Foreign and Caribbean Medical Schools and USMLE Step 1, 2, and 3 Prep, ValueMD provides a single source of information regarding all aspects of medical education ranging from premed through medical school, to residency and beyond. 
