@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emetrix.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206185730id_/http%3A//www.emetrix.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emetrix.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401113505id_/http%3A//www.emetrix.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
