@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211212539id_/http%3A//www.greenriver.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603202001id_/http%3A//www.greenriver.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Green River Privacy Policy
 
-[Green River Home Page](https://web.archive.org/web/20021211212539id_/http%3A//www.greenriver.edu/default.htm)
+[Green River Home Page](https://web.archive.org/web/20030603202001id_/http%3A//www.greenriver.edu/default.htm)
 
 | 
 
@@ -397,14 +397,14 @@ To review your personal information, or request correction of your personal info
 > Public Information Officer   
 >  Green River Community College  
 >  (253) 833-9111 ext. 3360  
->  [Jramsey@grcc.ctc.edu](mailto:Jramsey@grcc.ctc.edu)
+>  [Jramsey@greenriver.edu](mailto:Jramsey@greenriver.edu)
 
 To offer comments about Green River Community College's Web site or about the information presented in this Privacy Notice:
 
 > Web Master   
 >  Green River Community College  
 >  (253) 833-9111 ext. 2221  
->  [webmaster@grcc.ctc.edu](mailto:webmaster@grcc.ctc.edu)
+>  [webmaster@greenriver.edu](mailto:webmaster@greenriver.edu)
 
 Top of page
 
