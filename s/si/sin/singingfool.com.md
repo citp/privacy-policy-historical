@@ -1,18 +1,23 @@
-> *The following text is extracted and transformed from the singingfool.com privacy policy that was archived on 2002-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021222224957id_/http%3A//www.singingfool.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singingfool.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008201453id_/http%3A//singingfool.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**OUR PRIVACY POLICY**  
-We are committed to protecting our users privacy. To that end, we offer this statement to inform our users of how we define, gather and utilize personal information. 
+**Website Privacy and Security Policy**
 
-We reserve the right, at our sole discretion, to change, modify or otherwise alter this policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Without limiting the foregoing, we may occasionally notify you by email about changes to the Site or provide notices of changes by displaying notices or links to notices to you generally on the Site. Please review this policy periodically. Your continued use of the Site following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy. For your information, this page was last updated on March 25, 2002. 
+Thank you for visiting our website and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.  
+Here is how we handle information about your visit to our website: 
 
-We define personal information as information that includes a person's full name, address, tele-phone number, date of birth and/or email address or any other information that is tied to individually identifiable information that would allow someone to identify or contact you, unless stated otherwise herein or on the Site. We can gather information on our users in two different ways: (1) cookie technology; and (2) voluntary submissions. 
+**Information Collected and Stored Automatically**
 
-We utilize cookie technology to collect data regarding the number of visits a person has made to our site. This data is stored in aggregate form and is in no way singled out in an individual file. This information allows us to know what pages/sites are of interest to our users and what pages/sites may be of less interest. Such information is utilized in revising the website to better meet our users needs and interests. 
+If you do nothing during your visit but browse through the website or read pages we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit: 
 
-We also collect personally identifiable information from users through voluntary submissions. We use good faith efforts to make it clear why the information is being collected and what it will be used for. In the event that this information is being shared with a third party affiliate, sponsor or advertiser, we will use good faith efforts to post a notice on the Site clearly stating that the in-formation is being shared and/or give the user the opportunity to opt-in to authorize the sharing of such information. 
+The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;   
+The type of browser and operating system used to access our site;   
+The date and time you access our site;   
+The pages you visit; and   
+If you linked to the website from another website, the address of that website.   
+We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
 
-When you order products from us, we also collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address and a password. We collect this, and other information, as disclosed in this policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contains. These changes will be automatically kept for future use. We use good faith efforts not to provide third parties with access to your individual account information, unless stated otherwise on the Site. We reserves the right to provide non-identifiable consumer data to third parties including, but not limited to, general statistics about pages viewed on our site, sales and other shopping information. 
+**Third Party Banner Ad Servers**
 
-The ads appearing on this Site are delivered to you by a third party ad server. In the course of serving ads, our ad server may place or recognize their own unique cookie on your browser, and may be useing information about your visit to this Site, such as the number of times that you have viewed an ad (but not your name, address, or other personal information) to serve ads to you on this Site. For more information about our third party ad server and how to "opt out" of the ad serving cookie, please visit [http://www.advertising.com](http://www.advertising.com/). 
+SingingFool.com and Videodetective.com work with a third party that serves ads to this site.
