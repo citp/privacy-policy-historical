@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607113353id_/http%3A//www.environment-agency.gov.uk/other/help/196646/%3Flang%3D_e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209003038id_/http%3A//www.environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.*
 
 # Environment Agency - Privacy Policy
-
-Privacy Policy
 
 Statement of Intent
 
