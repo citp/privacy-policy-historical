@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2003-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031128192803id_/http%3A//cdrinfo.com/Sections/Privacy/Home.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602201508id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.asp) for the most accurate reproduction.*
 
 # CDR-Info, The Recording Authority
 
@@ -15,12 +15,11 @@
 
 * * *
 
-**[Web4Friends](http://www.web4friends.com/)[  
-CD Covers](http://www.cdcovers.cc/)[  
-Covers Archive](http://www.coversarchive.com/)  
-[Music Remedy](http://www.musicremedy.com/)  
+**[Web4Friends](http://www.web4friends.com/)   
+[ CD Covers](http://www.cdcovers.cc/)   
 [Clone.CD](http://clone.cd/phpBB/)   
-[ ](http://www.afterdawn.com/ "AfterDawn.com - DVD rippers, MP3 news, DivX codecs, software download and more") [ ](http://www.cd-rw.org/ "cd-rw.org - The CD-R and MP3 knowledge base")   
+[ ](http://www.afterdawn.com/ "AfterDawn.com - DVD rippers, MP3 news, DivX codecs, software download and more")   
+[ ](http://www.cd-rw.org/ "cd-rw.org - The CD-R and MP3 knowledge base")   
 [ ](http://www.cdr-zone.com/ "CDR-Zone.COM")   
 ** | 
 
@@ -59,7 +58,17 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 * * *
 
-|  _**  
+##### Preserving our Users' Privacy
+
+CdrInfo.com is poised into helping all our users preserve their own on-line privacy. We take any incident communicated to us very seriously and we investigate it thoroughly.
+
+In any case, CdrInfo.com preserves the right to review by itself any non-open source advertisement code (non-javascript or non-html banners such as "rich media" like flash, shockwave, java, activeX, etc). In case an advertiser chooses not to conform with this peer reviewed, open code practice, CdrInfo.com can, at any time, terminate any related campaign, at no further advertiser notice, at the sole expenses of the offending advertiser and without any single refund!
+
+| 
+
+[ ](https://web.archive.org/Sections/Articles/Specific.asp?ArticleHeadline=CeBIT+2004+Exhibition&index=0)
+
+_**  
 **_  
 None available  
   
