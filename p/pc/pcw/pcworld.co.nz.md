@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608141334id_/http%3A//idg.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610100531id_/http%3A//idg.co.nz/privacy) for the most accurate reproduction.*
 
 # Corporate : Privacy Policy
 
+  
+
+
 | 
 
-  
-**Privacy Policy** This site is a member of the [**_IDG_** **Network of Sites**](https://web.archive.org/Idg/Sales.nsf/45a9cc76c864eca5cc2567bf0025f9ca/b276ba9beddb172fcc256aa300712ab0!OpenDocument). _IDG_ complies strictly with New Zealand's [**Privacy Act**](http://www.knowledge-basket.co.nz/privacy/people/peotop.html) and its 12 information privacy principles which deal with the collection, holding, use and disclosure of personal information. And _IDG_ does not monitor individual traffic patterns — only aggregate visitor behaviour is collected.Most of the _IDG_ network can be accessed without disclosing personal information. Where personal information is provided to us, _IDG_ maintains and uses that information in strict conformity with the Privacy Act. This includes your right under the Act to access information about yourself and to ask for it to be corrected, and to limit the purposes for which it can be used. _IDG_ will not release your personal data without your consent.
+**Privacy Policy** This site is a member of the [**_IDG_** **Network of Sites**](https://web.archive.org/Idg/Sales.nsf/45a9cc76c864eca5cc2567bf0025f9ca/b276ba9beddb172fcc256aa300712ab0!OpenDocument). _IDG_ complies strictly with New Zealand’s [**Privacy Act**](http://www.knowledge-basket.co.nz/privacy/people/peotop.html) and its 12 information privacy principles which deal with the collection, holding, use and disclosure of personal information. And _IDG_ does not monitor individual traffic patterns — only aggregate visitor behaviour is collected.Most of the _IDG_ network can be accessed without disclosing personal information. Where personal information is provided to us, _IDG_ maintains and uses that information in strict conformity with the Privacy Act. This includes your right under the Act to access information about yourself and to ask for it to be corrected, and to limit the purposes for which it can be used. _IDG_ will not release your personal data without your consent.
 
 _IDG_
 
-occasionally uses email and subscriber lists on behalf of companies who wish to mail our subscribers. We believe direct communication can be an efficient way to present our subscribers with information relevant to them. All communication is controlled by us and companies do not have access to our subscribers' names and addresses. Any information our subscribers give us remains confidential. Where information collected on this site may be used in this way, you will be advised at the point where this information is collected and given the opportunity to decline such use.
+occasionally uses email and subscriber lists on behalf of companies who wish to mail our subscribers. We believe direct communication can be an efficient way to present our subscribers with information relevant to them. All communication is controlled by us and companies do not have access to our subscribers’ names and addresses. Any information our subscribers give us remains confidential. Where information collected on this site may be used in this way, you will be advised at the point where this information is collected and given the opportunity to decline such use.
 
 **Cookies**
 
-Cookies are small files that contain information a Web site uses for tracking purposes. _IDG_ does not typically use "cookies" but it may use them from time to time to facilitate the user experience or to enhance site content by compiling aggregate information about what specific sections and pages users visit. They may also be used by partner and advertiser sites associated with _IDG_ sites. Advertisers or independent third parties who operate the servers on which the ads reside may also place cookies. Although _IDG_ encourages third parties to adhere to appropriate privacy standards and policies, _IDG_ is not responsible for the actions or policies of such parties.Cookie information and privacy statements can be obtained directly from our third party ad server, [**DoubleClick**](http://www.doubleclick.net/us/corporate/privacy/default.asp?asp_object_l=&).
+Cookies are small files that contain information a Web site uses for tracking purposes. _IDG_ does not typically use “cookies” but it may use them from time to time to facilitate the user experience or to enhance site content by compiling aggregate information about what specific sections and pages users visit. They may also be used by partner and advertiser sites associated with _IDG_ sites. Advertisers or independent third parties who operate the servers on which the ads reside may also place cookies. Although _IDG_ encourages third parties to adhere to appropriate privacy standards and policies, _IDG_ is not responsible for the actions or policies of such parties.Cookie information and privacy statements can be obtained directly from our third party ad server, [**DoubleClick**](http://www.doubleclick.net/us/corporate/privacy/default.asp?asp_object_l=&).
 
 **Email Newsletters**
 
@@ -35,14 +37,9 @@ Our web sites also use clear gifs, or pixel tags, provided by [**DoubleClick**](
 
   
 Internally, _IDG_ restricts access to personally identifiable information. Only employees who need access to the information in order to do their jobs have access. These employees are limited in number, and are committed to our privacy and security policies.   
-If you have any privacy concerns relating to this site, please address them to IDG's privacy officer through the _IDG_[ **webmaster**](mailto:nzwebmaster@idg.net.nz) **.** [](http://webdev.idg.co.nz/)
+If you have any privacy concerns relating to this site, please address them to IDG’s privacy officer through the _IDG_[ **webmaster**](mailto:nzwebmaster@idg.net.nz) **.**
 
   
 
-
-* * *
-
-  
-[](http://webdev.idg.co.nz/)
 
 | 
