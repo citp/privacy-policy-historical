@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211044358id_/http%3A//www.eurocheapo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604065121id_/http%3A//eurocheapo.com/privacy.asp) for the most accurate reproduction.*
 
 # Cheap Hotels Europe: euroCHEAPO's Guide to Cheap Hotels in Europe
 
@@ -12,6 +12,7 @@
  [ **RAIL PASS INFO**](http://eurocheapo.railkey.com/)  
  [ **RENTAL CARS**](https://web.archive.org/paris/cars.asp)  
  [ **CITY TRANSIT**](https://web.archive.org/paris/transit.asp)  
+ [ **LINKS**](https://web.archive.org/links/links.asp)  
   **euroCHEAPO**  
  [ **USING THE SITE**](https://web.archive.org/using.asp)  
  [ **CONTACT US**](https://web.archive.org/contact.asp)  
