@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201025056id_/http%3A//westword.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604030741id_/http%3A//westword.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Westword | westword.com | About
 
