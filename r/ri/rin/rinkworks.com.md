@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210024623id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412180238id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
 
 # RinkWorks: Privacy Policy
 
@@ -25,4 +25,4 @@ _RinkWorks_ respects the privacy and confidentially of its associates and reader
 
 * * *
 
-Back to the [_RinkWorks home page_](https://web.archive.org/web/20021210024623id_/http://rinkworks.com/). 
+Back to the [_RinkWorks home page_](https://web.archive.org/web/20030412180238id_/http://www.rinkworks.com/). 
