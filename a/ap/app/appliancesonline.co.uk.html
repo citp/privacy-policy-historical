@@ -1,0 +1,414 @@
+<!--The following is the downloaded HTML source of the appliancesonline.co.uk privacy policy that was archived on 2004-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210065859id_/http%3A//www.appliancesonline.co.uk/privacy.asp) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function AddRemoval(form,ProductCode) 
+{
+	window.location.href='Cart.asp?Action=Remove&Code=' + ProductCode
+}
+
+function AddInstall(form,ProductCode) 
+{
+	window.location.href='Cart.asp?Action=Install&Code=' + ProductCode
+}
+
+//-->
+</script>
+
+<script language="vbscript">
+<!--
+Function Filter()
+	document.forms("frmManf").btnsubmit.Click
+End Function
+
+Function AddToCart()
+	document.forms("frmProdInfo").btnsubmit.Click
+End Function
+
+Function QuickSearch()
+	document.forms("frmQFind").btnsubmit.Click
+End Function
+
+Function frmQFind_OnSubmit
+	IF frmQFind.Criteria.value = "" THEN
+		frmQFind.Criteria.value = " "
+	Else
+		frmQFind.submit
+	End IF
+End Function
+
+
+-->
+</script>
+
+
+<script language="JavaScript">
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+var dTitle = "";
+var dfname = "";
+var dlname = "";
+var dhno = "";
+var dadd1 = "";
+var dadd12 = "";
+var dadd3 = "";
+var dadd4 = "";
+var dpostcode = "";
+
+function InitSaveVariables(form) {
+dTitle = form.Title.value;
+dfname = form.fname.value;
+dlname = form.lname.value;
+dhno = form.hno.value;
+dadd1 = form.address1.value;
+dadd2 = form.address2.value;
+dadd3 = form.address3.value;
+dcity = form.city.value;
+dpostcode = form.postalcode.value;
+}
+
+function ShipToBillPerson(form) {
+if (form.copy.checked) {
+InitSaveVariables(form);
+form.dTitle.value = form.Title.value;
+form.dfname1.value = form.fname.value;
+form.dlname.value = form.lname.value;
+form.dhno.value = form.hno.value;
+form.daddress1.value = form.address1.value;
+form.daddress2.value = form.address2.value;
+form.daddress3.value = form.address3.value;
+form.dcity.value = form.city.value;
+form.dpostalcode.value = form.postalcode.value;
+}
+else {
+form.dTitle.value = dTitle;
+form.dfname.value = dfname;
+form.dlname.value = dlname;
+form.dhno.value = dhno;
+form.daddress1.value = dadd1;
+form.daddress2.value = dadd2;
+form.daddress3.value = dadd3
+form.dcity.value = dcity;
+form.dpostalcode.value = dpostcode;
+   }
+}
+//  End -->
+</script>
+
+<script type="text/javascript">
+
+function PopupWindow ()
+{
+
+	window.PopupWindowInstance = this;
+	
+	this.ShowSideHelp = PopupWindow_ShowSideHelp;
+	this.CloseSideHelp = PopupWindow_CloseSideHelp;
+	this.ShowWithTimeout = PopupWindow_ShowWithTimeout;
+	this.DialogWithTimeout = PopupWindow_DialogWithTimeout;
+	
+	// internal properties
+	this.windowRef = null;
+}
+
+function PopupWindow_ShowSideHelp (sHelpURL, cxHelpWidth)
+{
+	if ((window.SideHelpWindow == null) || (window.SideHelpWindow == false))
+		{
+		var _tempLeft;
+		var _tempTop;
+		var _tempWidth;
+		var _tempHeight;
+		
+		_tempLeft = window.screenLeft;
+		_tempTop = window.screenTop;
+		window.moveTo(_tempLeft, _tempTop);
+		this._saveLeft = _tempLeft - (window.screenLeft - _tempLeft);
+		this._saveTop = _tempTop - (window.screenTop - _tempTop);
+		window.moveTo(this._saveLeft, this._saveTop);
+		
+		_tempWidth = window.document.body.clientWidth;
+		_tempHeight = window.document.body.clientHeight;
+		window.resizeTo(_tempWidth, _tempHeight);
+		this._saveWidth = _tempWidth + (_tempWidth - window.document.body.clientWidth);
+		this._saveHeight = _tempHeight + (_tempHeight - window.document.body.clientHeight);
+		window.resizeTo(this._saveWidth, this._saveHeight);
+		
+		window.moveTo(0,0);
+		window.resizeTo(screen.availWidth - cxHelpWidth, screen.availHeight);
+		window.SideHelpWindow = window.open(sHelpURL, "PopupWindowHelp", "left=" + (screen.availWidth - cxHelpWidth).toString() + ",top=0,width=" + cxHelpWidth.toString() + ",height=" + screen.availHeight.toString());
+		window.SideHelpWindowCloseCheckTimer = window.setInterval(PopupWindow_CheckForClose, 200);
+		}
+	else
+		{
+		window.open(sHelpURL, "PopupWindowHelp");
+		}
+}
+
+function PopupWindow_CheckForClose()
+{
+	if (window.SideHelpWindow.closed)
+	{
+		PopupWindow_CloseSideHelp();
+		window.clearInterval(SideHelpWindowCloseCheckTimer);
+		window.SideHelpWindowCloseCheckTimer = null;
+	}
+}
+
+function PopupWindow_CloseSideHelp ()
+{
+	if (window.SideHelpWindow != null)
+		{
+		window.clearInterval(SideHelpWindowCloseCheckTimer);
+		window.SideHelpWindowCloseCheckTimer = null;
+		window.SideHelpWindow.close();
+		window.SideHelpWindow = null;
+		var pw = window.PopupWindowInstance;
+		window.moveTo(pw._saveLeft, pw._saveTop);
+		window.resizeTo(pw._saveWidth, pw._saveHeight);
+		}
+}
+
+function PopupWindow_ShowWithTimeout (sHelpURL, nTimeoutSeconds, cxWidth, cyHeight, bAutoCenter, xPosition, yPosition)
+{
+
+	var sDefaultFeatures = ""; // "directories=no;location=no;menubar=no;scrollbars=no;status=no;toolbar=no;";
+	var xWindowPos;
+	var yWindowPos;
+	var sFeatures;
+	if (bAutoCenter)
+		{
+		var xScreenCenter = Math.floor(screen.availWidth / 2);
+		var yScreenCenter = Math.floor(screen.availHeight / 2);
+		xWindowPos = xScreenCenter - Math.floor(cxWidth / 2);
+		yWindowPos = yScreenCenter - Math.floor(cyHeight / 2);
+		sFeatures = sDefaultFeatures + "left=" + xWindowPos.toString() + ",top=" + yWindowPos.toString() + ",width=" + cxWidth.toString() + ",height=" + cyHeight.toString();
+		}
+	else
+		{
+		xWindowPos = xPosition;
+		yWindowPos = yPosition;
+		sFeatures = sDefaultFeatures + "left=" + xWindowPos.toString() + ",top=" + yWindowPos.toString() + ",width=" + cxWidth.toString() + ",height=" + cyHeight.toString();
+		}
+	this.windowRef = window.open(sHelpURL, "_blank", sFeatures, false);
+	window.setTimeout(Popupwindow_ClosePopup, nTimeoutSeconds * 1000);
+}
+
+function PopupWindow_DialogWithTimeout (sHelpURL, nTimeoutSeconds, cxWidth, cyHeight, bAutoCenter, xPosition, yPosition)
+{
+	
+	var sFeatures = new String();
+	if (bAutoCenter)
+		{
+		sFeatures = sFeatures.concat("center:yes");
+		sFeatures = sFeatures.concat(",dialogWidth:" + cxWidth.toString());
+		sFeatures = sFeatures.concat(",dialogHeight:" + cyHeight.toString());
+		}
+	else
+		{
+		sFeatures = sFeatures.concat("center:no");
+		sFeatures = sFeatures.concat(",dialogWidth:" + cxWidth.toString());
+		sFeatures = sFeatures.concat(",dialogHeight:" + cyHeight.toString());
+		sFeatures = sFeatures.concat(",dialogLeft:" + xPosition.toString());
+		sFeatures = sFeatures.concat(",dialogTop:" + yPosition.toString());
+		}
+	this.windowRef = window.showModelessDialog(sHelpURL, null, sFeatures);
+	window.setTimeout(Popupwindow_ClosePopup, nTimeoutSeconds * 1000);
+}
+
+function Popupwindow_ClosePopup ()
+{
+	var pw = window.PopupWindowInstance;
+	if (pw.windowRef != null)
+		{
+		pw.windowRef.close();
+		pw.windowRef = null;
+		}
+}
+
+
+var popWin = new PopupWindow();
+function ShowTimedCenteredPopup (sHelpURL, nTimeoutSeconds, cxWidth, cyHeight, bAutoCenter, xPosition, yPosition)
+{
+	popWin.ShowWithTimeout(sHelpURL, nTimeoutSeconds, cxWidth, cyHeight, bAutoCenter, xPosition, yPosition);
+}
+
+</script>
+
+
+
+<script language="JavaScript">
+function runCalc(code, amount, rid)
+{
+    var screenX    = screen.width;
+    var screenY    = screen.height;
+    var winWidth   = 440;
+    var winHeight  = 320;
+    var topX       = (screenX / 2) - (winWidth / 2);
+    var topY       = (screenY / 2) - (winHeight / 2);
+    newWin =  window.open("", "Wait", "width=" + winWidth + ", height=" + winHeight + ", left=" + topX + ", top=" + topY);
+    newWin.location='http://uat.creditenabler.com/able2buy/webjsp/autocalc.jsp?cgid=' + code +'&price=' + amount + '&id=' + rid;
+}
+
+function viewCalc(code, form, rid)
+{
+	var amount = form.CalcAmount.value;
+    var screenX    = screen.width;
+    var screenY    = screen.height;
+    var winWidth   = 440;
+    var winHeight  = 320;
+    var topX       = (screenX / 2) - (winWidth / 2);
+    var topY       = (screenY / 2) - (winHeight / 2);
+    newWin =  window.open("", "Wait", "width=" + winWidth + ", height=" + winHeight + ", left=" + topX + ", top=" + topY);
+    newWin.location='http://uat.creditenabler.com/able2buy/webjsp/autocalc.jsp?cgid=' + code +'&price=' + amount + '&id=' + rid;
+}
+</script>
+
+
+
+
+
+
+
+<title>Appliances Online Privacy Statement</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<link href="layout/day2/2.css" type="text/css" rel="stylesheet">
+
+<link rel="SHORTCUT ICON" href="favicon.ico">
+<meta content="MSHTML 6.00.2800.1400" name="GENERATOR">
+<script language="JavaScript" src="includes/menu_array.js" type="text/javascript"></script><script language="javascript"> menu1=menus[1]; menu2=menus[2]; menu3=menus[3]; menu4=menus[4];</script><script language="JavaScript" src="includes/mmenu.js" type="text/javascript"></script></head>
+
+<body><div id="menu1" style="z-index: 21; visibility: visible; border: 0px solid rgb(255, 255, 255); position: absolute; background-color: rgb(255, 255, 255); left: 175px; top: 45px; width: 398px; height: 32px;"><div id="hel0" style="position: absolute; top: 0px; left: 0px; width: 51px; height: 20px;"><a href="default.asp" style="text-decoration:none;"><div valign="top" align="left" id="el0" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('default.asp','menu1',0);;;return stch('');" onmouseout="rep_img(); popdn(this,0, 'menu1', 'default.asp', '#1D565B', '#FFFFFF');;; return stch('');">Home</div></a></div><div id="hel1" style="position: absolute; top: 0px; width: 90px; height: 20px; left: 53px;"><a href="Manufacturer.asp" style="text-decoration:none;"><div valign="top" align="left" id="el1" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('show-menu=manufacturer','menu1',1);;;return stch('');" onmouseout="rep_img(); popdn(this,1, 'menu1', 'show-menu=manufacturer', '#1D565B', '#FFFFFF');;; return stch('');">Manufacturer</div></a></div><div id="hel2" style="position: absolute; top: 0px; width: 73px; height: 32px; left: 145px;"><a href="Appliance.asp" style="text-decoration:none;"><div valign="top" align="left" id="el2" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('show-menu=appliance','menu1',2);;;return stch('');" onmouseout="rep_img(); popdn(this,2, 'menu1', 'show-menu=appliance', '#1D565B', '#FFFFFF');;; return stch('');">Appliance Type</div></a></div><div id="hel3" style="position: absolute; top: 0px; width: 54px; height: 32px; left: 220px;"><a href="PriceRange.asp" style="text-decoration:none;"><div valign="top" align="left" id="el3" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('show-menu=pricerange','menu1',3);;;return stch('');" onmouseout="rep_img(); popdn(this,3, 'menu1', 'show-menu=pricerange', '#1D565B', '#FFFFFF');;; return stch('');">Price Range</div></a></div><div id="hel4" style="position: absolute; top: 0px; width: 59px; height: 32px; left: 276px;"><a href="Offers.asp" style="text-decoration:none;"><div valign="top" align="left" id="el4" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Offers.asp','menu1',4);;;return stch('');" onmouseout="rep_img(); popdn(this,4, 'menu1', 'Offers.asp', '#1D565B', '#FFFFFF');;; return stch('');">Special Offers</div></a></div><div id="hel5" style="position: absolute; top: 0px; width: 61px; height: 32px; left: 337px;"><a href="Contact.asp" style="text-decoration:none;"><div valign="top" align="left" id="el5" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Contact.asp','menu1',5);;;return stch('');" onmouseout="rep_img(); popdn(this,5, 'menu1', 'Contact.asp', '#1D565B', '#FFFFFF');;; return stch('');">Contact Us</div></a></div></div>
+<div id="menu2" style=";z-index:19;visibility:hidden;border:solid 1px; border-left-color:#FFFFFF;border-top-color:#FFFFFF;border-bottom-color:#FFFFFF;border-right-color:#FFFFFF;position:absolute;background-Color:#FFFFFF;width:150px;left:undefinedpx;top:undefinedpx;"><a href="Manufacturer.asp?ID=34" style="text-decoration:none;"><div valign="top" align="left" id="el6" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=34','menu2',6);;;return stch('');" onmouseout="rep_img(); popdn(this,6, 'menu2', 'Manufacturer.asp?ID=34', '#1D565B', '#FFFFFF');;; return stch('');">Admiral</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=2" style="text-decoration:none;"><div valign="top" align="left" id="el7" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=2','menu2',7);;;return stch('');" onmouseout="rep_img(); popdn(this,7, 'menu2', 'Manufacturer.asp?ID=2', '#1D565B', '#FFFFFF');;; return stch('');">AEG</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=4" style="text-decoration:none;"><div valign="top" align="left" id="el8" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=4','menu2',8);;;return stch('');" onmouseout="rep_img(); popdn(this,8, 'menu2', 'Manufacturer.asp?ID=4', '#1D565B', '#FFFFFF');;; return stch('');">Baumatic</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=5" style="text-decoration:none;"><div valign="top" align="left" id="el9" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=5','menu2',9);;;return stch('');" onmouseout="rep_img(); popdn(this,9, 'menu2', 'Manufacturer.asp?ID=5', '#1D565B', '#FFFFFF');;; return stch('');">Belling</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=7" style="text-decoration:none;"><div valign="top" align="left" id="el10" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=7','menu2',10);;;return stch('');" onmouseout="rep_img(); popdn(this,10, 'menu2', 'Manufacturer.asp?ID=7', '#1D565B', '#FFFFFF');;; return stch('');">Bosch</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=9" style="text-decoration:none;"><div valign="top" align="left" id="el11" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=9','menu2',11);;;return stch('');" onmouseout="rep_img(); popdn(this,11, 'menu2', 'Manufacturer.asp?ID=9', '#1D565B', '#FFFFFF');;; return stch('');">Britannia</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=32" style="text-decoration:none;"><div valign="top" align="left" id="el12" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=32','menu2',12);;;return stch('');" onmouseout="rep_img(); popdn(this,12, 'menu2', 'Manufacturer.asp?ID=32', '#1D565B', '#FFFFFF');;; return stch('');">Candy</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=10" style="text-decoration:none;"><div valign="top" align="left" id="el13" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=10','menu2',13);;;return stch('');" onmouseout="rep_img(); popdn(this,13, 'menu2', 'Manufacturer.asp?ID=10', '#1D565B', '#FFFFFF');;; return stch('');">Electrolux</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=27" style="text-decoration:none;"><div valign="top" align="left" id="el14" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=27','menu2',14);;;return stch('');" onmouseout="rep_img(); popdn(this,14, 'menu2', 'Manufacturer.asp?ID=27', '#1D565B', '#FFFFFF');;; return stch('');">Hoover</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=11" style="text-decoration:none;"><div valign="top" align="left" id="el15" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=11','menu2',15);;;return stch('');" onmouseout="rep_img(); popdn(this,15, 'menu2', 'Manufacturer.asp?ID=11', '#1D565B', '#FFFFFF');;; return stch('');">Hotpoint</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=13" style="text-decoration:none;"><div valign="top" align="left" id="el16" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=13','menu2',16);;;return stch('');" onmouseout="rep_img(); popdn(this,16, 'menu2', 'Manufacturer.asp?ID=13', '#1D565B', '#FFFFFF');;; return stch('');">Maytag</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=14" style="text-decoration:none;"><div valign="top" align="left" id="el17" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=14','menu2',17);;;return stch('');" onmouseout="rep_img(); popdn(this,17, 'menu2', 'Manufacturer.asp?ID=14', '#1D565B', '#FFFFFF');;; return stch('');">Miele</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=15" style="text-decoration:none;"><div valign="top" align="left" id="el18" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=15','menu2',18);;;return stch('');" onmouseout="rep_img(); popdn(this,18, 'menu2', 'Manufacturer.asp?ID=15', '#1D565B', '#FFFFFF');;; return stch('');">Neff</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=29" style="text-decoration:none;"><div valign="top" align="left" id="el19" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=29','menu2',19);;;return stch('');" onmouseout="rep_img(); popdn(this,19, 'menu2', 'Manufacturer.asp?ID=29', '#1D565B', '#FFFFFF');;; return stch('');">Newworld</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=30" style="text-decoration:none;"><div valign="top" align="left" id="el20" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=30','menu2',20);;;return stch('');" onmouseout="rep_img(); popdn(this,20, 'menu2', 'Manufacturer.asp?ID=30', '#1D565B', '#FFFFFF');;; return stch('');">Parkinson Cowan</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=18" style="text-decoration:none;"><div valign="top" align="left" id="el21" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=18','menu2',21);;;return stch('');" onmouseout="rep_img(); popdn(this,21, 'menu2', 'Manufacturer.asp?ID=18', '#1D565B', '#FFFFFF');;; return stch('');">Rangemaster</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=36" style="text-decoration:none;"><div valign="top" align="left" id="el22" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=36','menu2',22);;;return stch('');" onmouseout="rep_img(); popdn(this,22, 'menu2', 'Manufacturer.asp?ID=36', '#1D565B', '#FFFFFF');;; return stch('');">Siemens</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=20" style="text-decoration:none;"><div valign="top" align="left" id="el23" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=20','menu2',23);;;return stch('');" onmouseout="rep_img(); popdn(this,23, 'menu2', 'Manufacturer.asp?ID=20', '#1D565B', '#FFFFFF');;; return stch('');">Smeg</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=22" style="text-decoration:none;"><div valign="top" align="left" id="el24" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=22','menu2',24);;;return stch('');" onmouseout="rep_img(); popdn(this,24, 'menu2', 'Manufacturer.asp?ID=22', '#1D565B', '#FFFFFF');;; return stch('');">Stoves</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=23" style="text-decoration:none;"><div valign="top" align="left" id="el25" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=23','menu2',25);;;return stch('');" onmouseout="rep_img(); popdn(this,25, 'menu2', 'Manufacturer.asp?ID=23', '#1D565B', '#FFFFFF');;; return stch('');">Tecnik</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=24" style="text-decoration:none;"><div valign="top" align="left" id="el26" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=24','menu2',26);;;return stch('');" onmouseout="rep_img(); popdn(this,26, 'menu2', 'Manufacturer.asp?ID=24', '#1D565B', '#FFFFFF');;; return stch('');">Tricity Bendix</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=39" style="text-decoration:none;"><div valign="top" align="left" id="el27" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=39','menu2',27);;;return stch('');" onmouseout="rep_img(); popdn(this,27, 'menu2', 'Manufacturer.asp?ID=39', '#1D565B', '#FFFFFF');;; return stch('');">Whirlpool</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Manufacturer.asp?ID=26" style="text-decoration:none;"><div valign="top" align="left" id="el28" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Manufacturer.asp?ID=26','menu2',28);;;return stch('');" onmouseout="rep_img(); popdn(this,28, 'menu2', 'Manufacturer.asp?ID=26', '#1D565B', '#FFFFFF');;; return stch('');">Zanussi</div></a></div>
+<div id="menu3" style=";z-index:19;visibility:hidden;border:solid 1px; border-left-color:#FFFFFF;border-top-color:#FFFFFF;border-bottom-color:#FFFFFF;border-right-color:#FFFFFF;position:absolute;background-Color:#FFFFFF;width:150px;left:undefinedpx;top:undefinedpx;"><a href="Appliance.asp?ID=2" style="text-decoration:none;"><div valign="top" align="left" id="el29" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=2','menu3',29);;;return stch('');" onmouseout="rep_img(); popdn(this,29, 'menu3', 'Appliance.asp?ID=2', '#1D565B', '#FFFFFF');;; return stch('');">Accessories</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=31" style="text-decoration:none;"><div valign="top" align="left" id="el30" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=31','menu3',30);;;return stch('');" onmouseout="rep_img(); popdn(this,30, 'menu3', 'Appliance.asp?ID=31', '#1D565B', '#FFFFFF');;; return stch('');">Coffee Machines</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=3" style="text-decoration:none;"><div valign="top" align="left" id="el31" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=3','menu3',31);;;return stch('');" onmouseout="rep_img(); popdn(this,31, 'menu3', 'Appliance.asp?ID=3', '#1D565B', '#FFFFFF');;; return stch('');">Cooker Hoods</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=33" style="text-decoration:none;"><div valign="top" align="left" id="el32" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=33','menu3',32);;;return stch('');" onmouseout="rep_img(); popdn(this,32, 'menu3', 'Appliance.asp?ID=33', '#1D565B', '#FFFFFF');;; return stch('');">Cookers</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=5" style="text-decoration:none;"><div valign="top" align="left" id="el33" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=5','menu3',33);;;return stch('');" onmouseout="rep_img(); popdn(this,33, 'menu3', 'Appliance.asp?ID=5', '#1D565B', '#FFFFFF');;; return stch('');">Dishwashers</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=27" style="text-decoration:none;"><div valign="top" align="left" id="el34" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=27','menu3',34);;;return stch('');" onmouseout="rep_img(); popdn(this,34, 'menu3', 'Appliance.asp?ID=27', '#1D565B', '#FFFFFF');;; return stch('');">Double Ovens</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=36" style="text-decoration:none;"><div valign="top" align="left" id="el35" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=36','menu3',35);;;return stch('');" onmouseout="rep_img(); popdn(this,35, 'menu3', 'Appliance.asp?ID=36', '#1D565B', '#FFFFFF');;; return stch('');">Ducting Kits</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=23" style="text-decoration:none;"><div valign="top" align="left" id="el36" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=23','menu3',36);;;return stch('');" onmouseout="rep_img(); popdn(this,36, 'menu3', 'Appliance.asp?ID=23', '#1D565B', '#FFFFFF');;; return stch('');">Electric Hobs</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=28" style="text-decoration:none;"><div valign="top" align="left" id="el37" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=28','menu3',37);;;return stch('');" onmouseout="rep_img(); popdn(this,37, 'menu3', 'Appliance.asp?ID=28', '#1D565B', '#FFFFFF');;; return stch('');">Freezers</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=22" style="text-decoration:none;"><div valign="top" align="left" id="el38" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=22','menu3',38);;;return stch('');" onmouseout="rep_img(); popdn(this,38, 'menu3', 'Appliance.asp?ID=22', '#1D565B', '#FFFFFF');;; return stch('');">Fridge Freezers</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=24" style="text-decoration:none;"><div valign="top" align="left" id="el39" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=24','menu3',39);;;return stch('');" onmouseout="rep_img(); popdn(this,39, 'menu3', 'Appliance.asp?ID=24', '#1D565B', '#FFFFFF');;; return stch('');">Gas Hobs</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=29" style="text-decoration:none;"><div valign="top" align="left" id="el40" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=29','menu3',40);;;return stch('');" onmouseout="rep_img(); popdn(this,40, 'menu3', 'Appliance.asp?ID=29', '#1D565B', '#FFFFFF');;; return stch('');">Larder Fridges</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=9" style="text-decoration:none;"><div valign="top" align="left" id="el41" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=9','menu3',41);;;return stch('');" onmouseout="rep_img(); popdn(this,41, 'menu3', 'Appliance.asp?ID=9', '#1D565B', '#FFFFFF');;; return stch('');">Microwave Ovens</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=11" style="text-decoration:none;"><div valign="top" align="left" id="el42" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=11','menu3',42);;;return stch('');" onmouseout="rep_img(); popdn(this,42, 'menu3', 'Appliance.asp?ID=11', '#1D565B', '#FFFFFF');;; return stch('');">Range Cookers</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=25" style="text-decoration:none;"><div valign="top" align="left" id="el43" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=25','menu3',43);;;return stch('');" onmouseout="rep_img(); popdn(this,43, 'menu3', 'Appliance.asp?ID=25', '#1D565B', '#FFFFFF');;; return stch('');">Single Ovens</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=35" style="text-decoration:none;"><div valign="top" align="left" id="el44" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=35','menu3',44);;;return stch('');" onmouseout="rep_img(); popdn(this,44, 'menu3', 'Appliance.asp?ID=35', '#1D565B', '#FFFFFF');;; return stch('');">Splashbacks</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=34" style="text-decoration:none;"><div valign="top" align="left" id="el45" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=34','menu3',45);;;return stch('');" onmouseout="rep_img(); popdn(this,45, 'menu3', 'Appliance.asp?ID=34', '#1D565B', '#FFFFFF');;; return stch('');">Steam Ovens</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=32" style="text-decoration:none;"><div valign="top" align="left" id="el46" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=32','menu3',46);;;return stch('');" onmouseout="rep_img(); popdn(this,46, 'menu3', 'Appliance.asp?ID=32', '#1D565B', '#FFFFFF');;; return stch('');">Tumble Dryers</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=30" style="text-decoration:none;"><div valign="top" align="left" id="el47" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=30','menu3',47);;;return stch('');" onmouseout="rep_img(); popdn(this,47, 'menu3', 'Appliance.asp?ID=30', '#1D565B', '#FFFFFF');;; return stch('');">Washer Dryers</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:148px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="Appliance.asp?ID=26" style="text-decoration:none;"><div valign="top" align="left" id="el48" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('Appliance.asp?ID=26','menu3',48);;;return stch('');" onmouseout="rep_img(); popdn(this,48, 'menu3', 'Appliance.asp?ID=26', '#1D565B', '#FFFFFF');;; return stch('');">Washing Machines</div></a></div>
+<div id="menu4" style=";z-index:19;visibility:hidden;border:solid 1px; border-left-color:#FFFFFF;border-top-color:#FFFFFF;border-bottom-color:#FFFFFF;border-right-color:#FFFFFF;position:absolute;background-Color:#FFFFFF;width:130px;left:undefinedpx;top:undefinedpx;"><a href="PriceRange.asp?ID=200" style="text-decoration:none;"><div valign="top" align="left" id="el49" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=200','menu4',49);;;return stch('');" onmouseout="rep_img(); popdn(this,49, 'menu4', 'PriceRange.asp?ID=200', '#1D565B', '#FFFFFF');;; return stch('');">Under £200</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=400" style="text-decoration:none;"><div valign="top" align="left" id="el50" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=400','menu4',50);;;return stch('');" onmouseout="rep_img(); popdn(this,50, 'menu4', 'PriceRange.asp?ID=400', '#1D565B', '#FFFFFF');;; return stch('');">Under £400</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=600" style="text-decoration:none;"><div valign="top" align="left" id="el51" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=600','menu4',51);;;return stch('');" onmouseout="rep_img(); popdn(this,51, 'menu4', 'PriceRange.asp?ID=600', '#1D565B', '#FFFFFF');;; return stch('');">Under £600</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=800" style="text-decoration:none;"><div valign="top" align="left" id="el52" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=800','menu4',52);;;return stch('');" onmouseout="rep_img(); popdn(this,52, 'menu4', 'PriceRange.asp?ID=800', '#1D565B', '#FFFFFF');;; return stch('');">Under £800</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=1000" style="text-decoration:none;"><div valign="top" align="left" id="el53" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=1000','menu4',53);;;return stch('');" onmouseout="rep_img(); popdn(this,53, 'menu4', 'PriceRange.asp?ID=1000', '#1D565B', '#FFFFFF');;; return stch('');">Under £1,000</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=1250" style="text-decoration:none;"><div valign="top" align="left" id="el54" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=1250','menu4',54);;;return stch('');" onmouseout="rep_img(); popdn(this,54, 'menu4', 'PriceRange.asp?ID=1250', '#1D565B', '#FFFFFF');;; return stch('');">Under £1,250</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=1500" style="text-decoration:none;"><div valign="top" align="left" id="el55" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=1500','menu4',55);;;return stch('');" onmouseout="rep_img(); popdn(this,55, 'menu4', 'PriceRange.asp?ID=1500', '#1D565B', '#FFFFFF');;; return stch('');">Under £1,500</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=1750" style="text-decoration:none;"><div valign="top" align="left" id="el56" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=1750','menu4',56);;;return stch('');" onmouseout="rep_img(); popdn(this,56, 'menu4', 'PriceRange.asp?ID=1750', '#1D565B', '#FFFFFF');;; return stch('');">Under £1,750</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=3000" style="text-decoration:none;"><div valign="top" align="left" id="el57" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=3000','menu4',57);;;return stch('');" onmouseout="rep_img(); popdn(this,57, 'menu4', 'PriceRange.asp?ID=3000', '#1D565B', '#FFFFFF');;; return stch('');">Under £3,000</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=4000" style="text-decoration:none;"><div valign="top" align="left" id="el58" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=4000','menu4',58);;;return stch('');" onmouseout="rep_img(); popdn(this,58, 'menu4', 'PriceRange.asp?ID=4000', '#1D565B', '#FFFFFF');;; return stch('');">Under £4,000</div></a><div style="position:relative;"><div onmouseout="popdn();" onmouseover="clearTimeout(Mtimer)" style="background-color:#FFFFFF;width:128px;position:absolute;clip:rect(0 100% 1px 0);height:1px;"></div></div><a href="PriceRange.asp?ID=5000" style="text-decoration:none;"><div valign="top" align="left" id="el59" style=";padding:4 10 4 10;font-weight:bold;font-style:normal;font-family:Verdana, Arial, Tahoma, Sans-serif;font-size:11px;color:#FFFFFF;background-color:#1D565B;" onmouseover="this.style.backgroundColor='#E7E7E7';style.color='#666666';this.style.cursor='pointer';ShM=1;; popi('PriceRange.asp?ID=5000','menu4',59);;;return stch('');" onmouseout="rep_img(); popdn(this,59, 'menu4', 'PriceRange.asp?ID=5000', '#1D565B', '#FFFFFF');;; return stch('');">Under £5,000</div></a></div>
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+	<tbody><tr>
+	<td width="960" height="76" style="background-image:url(images/back_header.gif);" valign="top" align="right"><img src="images/phone_num.gif"><img src="images/spacer.gif" width="4px" height="0"></td>
+	<td rowspan="2" class="hazard">&nbsp;</td>
+</tr>
+	<tr>
+		<td valign="top">
+			<table cellpadding="4" cellspacing="0" border="0" width="960" height="100%">
+				<tbody><tr>
+					<td class="leftside">
+						<table cellpadding="4" cellspacing="0" border="0">
+							<tbody><tr>
+	<td><img src="images/Logo.gif"></td>
+</tr>
+<tr>
+	<td align="center">
+	<form action="QuickFindResults.asp" method="post" name="frmQFind">
+		<table cellpadding="4" cellspacing="0" width="140" class="info_box">
+			<tbody><tr>
+				<td>
+					<img alt="" src="images/title_quickfind.gif" vspace="2" border="0"><br>
+					<input class="hidden" id="btnsubmit" name="btnsubmit" type="submit" value="Submit">
+					<input class="text" style="WIDTH: 100px" name="Criteria">
+					<a href="vbscript:QuickSearch()">
+					<img src="images/icon_search.gif" name="QuickSearch" border="0"></a><br>
+					Use keywords to find the product you are looking for.
+				</td>
+			</tr>
+		</tbody></table>
+	</form>
+	</td>
+</tr>
+							
+						</tbody></table>
+					</td>
+					<td width="660" valign="top">
+						<table cellpadding="20" cellspacing="0" border="0">
+							<tbody><tr>
+								<td>
+								<img src="images/grey/P.gif" border="0"><img src="images/grey/r.gif" border="0"><img src="images/grey/i.gif" border="0"><img src="images/grey/v.gif" border="0"><img src="images/grey/a.gif" border="0"><img src="images/grey/c.gif" border="0"><img src="images/grey/y.gif" border="0"><img src="images/grey/Space.gif" border="0"><img src="images/grey/S.gif" border="0"><img src="images/grey/t.gif" border="0"><img src="images/grey/a.gif" border="0"><img src="images/grey/t.gif" border="0"><img src="images/grey/e.gif" border="0"><img src="images/grey/m.gif" border="0"><img src="images/grey/e.gif" border="0"><img src="images/grey/n.gif" border="0"><img src="images/grey/t.gif" border="0"><br>
+								<br>
+								<span class="ProductTitle">who are we?</span><br>
+								<br>
+								The 'Appliances Online' website is operated by:<br>
+								<blockquote>
+									DRL Limited<br>
+									Registered Company No. 3914998<br>
+								</blockquote>
+								<br><span class="ProductTitle">use of information</span><br>
+								<br>
+								We do not sell, rent or loan any identifiable information regarding our customers to any third party without your consent. Information given by you will only be used by or on behalf of DRL Limited.<br>
+								<br>
+								The information collected will be used to process orders and advise you of products and services you may be interested in.<br>
+								<br>
+								If you wish to review the choices you have previously made, please telephone 0870 9001 640.<br>
+								<br>
+								<br><span class="ProductTitle">payment details</span><br>
+								<br>
+								Your payment details, credit card numbers etc, will remain within the operational system of DRL Limited. They will be encrypted for your peace of mind and will never be shared with any other company.
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td class="rightside">
+						<table cellpadding="4" cellspacing="0" border="0">
+							<tbody><tr>
+	<td align="center">
+		<table cellpadding="4" cellspacing="0" width="100%" class="info_box">
+			<tbody><tr>
+				<td>
+					<img alt="" src="images/title_information.gif" vspace="2" border="0"><br>
+					<a href="faq.asp">F.A.Q's</a><br>
+					<a href="Terms_Conditions.asp">Terms &amp; Conditions</a><br>
+					<a href="privacy.asp">Privacy Statement</a><br>
+					<a href="Sitemap.asp">Site Map</a>
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td><a href="brochure.asp"><img src="images/aol_brochure.gif" class="pod" border="0"></a></td>
+</tr>
+
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+
+
+</body></html>
