@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vebra.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603170913id_/http%3A//www.vebra.com/home/vebra/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vebra.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163109id_/http%3A//www.vebra.com/home/vebra/privacy.asp) for the most accurate reproduction.*
 
 # Vebra.com plc - Privacy Policy
 
