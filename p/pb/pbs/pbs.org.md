@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608143547id_/http%3A//www.pbs.org/hplink/redir/aboutsite/aboutsite_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208073326id_/http%3A//www.pbs.org/hplink/redir/aboutsite/aboutsite_privacy.html) for the most accurate reproduction.*
 
 # PBS | About This Site . Privacy Policy
 
@@ -43,6 +43,6 @@ Because PBS Kids speaks to a special audience, web sites that provide components
 
 By using this site, you signify your agreement to the terms and conditions of this pbs.org Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of pbs.org following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please e-mail us at [www@pbs.org](mailto:www@pbs.org). 
 
-**Rules of the Road**
+**Terms of Use**
 
-Please also make sure to read pbs.org's [Rules of the Road](https://web.archive.org/web/20040610175241id_/http://www.pbs.org/aboutsite/aboutsite_rules.html) to understand the additional terms and conditions which apply to your use of our sites.
+Please also make sure to read pbs.org's [Terms of Use](https://web.archive.org/web/20041124094549id_/http://www.pbs.org/aboutsite/aboutsite_rules.html) to understand the additional terms and conditions which apply to your use of our sites.
