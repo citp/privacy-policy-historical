@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moving.com privacy policy that was archived on 2002-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020607192806id_/http%3A//moving.com/footer/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moving.com privacy policy that was archived on 2003-08-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030810015203id_/http%3A//www.moving.com/footer/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -34,10 +34,109 @@
 
 
 
+
+
 	<!-- include virtual = "v_includes/RefererTrackTop.asp"-->
+
+<link rel="stylesheet" type="text/css" href="/includes/affstyles.css">
 
 <script language="javascript">
 <!--
+/**
+ * DHTML date validation script.
+ */
+// Declaring valid date character, minimum year and maximum year
+
+var dtCh= "/";
+var minYear=1900;
+var maxYear=3000;
+
+function isInteger(s){
+	var i;
+    for (i = 0; i < s.length; i++){   
+        // Check that current character is number.
+        var c = s.charAt(i);
+        if (((c < "0") || (c > "9"))) return false;
+    }
+    // All characters are numbers.
+    return true;
+}
+
+function stripCharsInBag(s, bag){
+	var i;
+    var returnString = "";
+    // Search through string's characters one by one.
+    // If character is not in bag, append to returnString.
+    for (i = 0; i < s.length; i++){   
+        var c = s.charAt(i);
+        if (bag.indexOf(c) == -1) returnString += c;
+    }
+    return returnString;
+}
+
+function daysInFebruary (year){
+	// February has 29 days in any year evenly divisible by four,
+    // EXCEPT for centurial years which are not also divisible by 400.
+    return (((year % 4 == 0) && ( (!(year % 100 == 0)) || (year % 400 == 0))) ? 29 : 28 );
+}
+function DaysArray(n) {
+	for (var i = 1; i <= n; i++) {
+		this[i] = 31
+		if (i==4 || i==6 || i==9 || i==11) {this[i] = 30}
+		if (i==2) {this[i] = 29}
+   } 
+   return this
+}
+
+function isDate(dtStr){
+	var daysInMonth = DaysArray(12)
+	var pos1=dtStr.indexOf(dtCh)
+	var pos2=dtStr.indexOf(dtCh,pos1+1)
+	var strMonth=dtStr.substring(0,pos1)
+	var strDay=dtStr.substring(pos1+1,pos2)
+	var strYear=dtStr.substring(pos2+1)
+	strYr=strYear
+	if (strDay.charAt(0)=="0" && strDay.length>1) strDay=strDay.substring(1)
+	if (strMonth.charAt(0)=="0" && strMonth.length>1) strMonth=strMonth.substring(1)
+	for (var i = 1; i <= 3; i++) {
+		if (strYr.charAt(0)=="0" && strYr.length>1) strYr=strYr.substring(1)
+	}
+	month=parseInt(strMonth)
+	day=parseInt(strDay)
+	year=parseInt(strYr)
+	//alert("month  :" + month)
+	//alert("Day  :" + day)
+	if (isNaN(month)){
+		alert("Please enter a valid month")
+		return false
+	}
+
+	if (isNaN(day)){
+		alert("Please enter a valid day")
+		return false
+	}
+	if (pos1==-1 || pos2==-1){
+		alert("The date format should be : mm/dd/yyyy")
+		return false
+	}
+	if (month<1 || month>12){
+		alert("Please enter a valid month")
+		return false
+	}
+	if (day<1 || day>31 || (month==2 && day>daysInFebruary(year)) || day > daysInMonth[month]){
+		alert("Please enter a valid day")
+		return false
+	}
+	if (strYear.length != 4 || year==0 || year<minYear || year>maxYear){
+		alert("Please enter a valid 4 digit year between "+minYear+" and "+maxYear)
+		return false
+	}
+	if (dtStr.indexOf(dtCh,pos2+1)!=-1 || isInteger(stripCharsInBag(dtStr, dtCh))==false){
+		alert("Please enter a valid date")
+		return false
+	}
+return true
+}
 
 // email
 	function checkEmail (strng) {
@@ -151,307 +250,58 @@
 			if (key == 37) {window.event.keyCode=0; return false};
 			if (key < 48 || key > 57) {window.event.keyCode=0; return false};
 		}
-	}   
+	} 
+	
+	
+	
+	
+function fixFloat(fld)
+{ // decimal number check/complainer 
+  if(!fld.value) return true; // blank fields are the domain of requireValue 
+  var val= parseFloat(fld.value);
+  if(isNaN(val))
+  { // parse error 
+    status= 'The ' + fld.name + ' field must contain a number.';
+    return false;
+  }
+  fld.value= val;
+  return true;
+}
+
+
+
+  //################################################################################
+  // Author   : VIJAY
+  // Function : AutoValidateFloat
+  // Description : Alows only Float values only
+  // Example  : AutoValidateFloat(what,e,max,action)
+  //			what = object to be performed
+  // Event    :onKeyPress
+  //################################################################################	 
+	function AutoValidateFloat(what){
+		var RegExp;
+		var sValue;
+		RegExp=/[^0-9]/g;
+		sValue=new String(what.value);
+		RegExp=/[^0-9]/g;
+		what.value=sValue.replace(RegExp,"");
+		if (isInteger (what.value)==false) {
+			window.event.keyCode=0;
+			return false;
+		};
+		
+	}  
 //-->
 
 </script>
 	<link rel="stylesheet" type="text/css" href="/includes/styles.css">
-
-<script language="JavaScript" src="/js/headMenu.js"></script>
-</head>
-
-<body bgcolor="#FFFFFF" text="#000000" marginwidth="0" leftmargin="0" topmargin="0" marginheight="0">
-<!-- 1 row == logo and stuff -->
-<table id="tblTopMost" align="center" width="770" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
-<table id="tblMainLogo" align="center" width="770" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-  		<td width="270" rowspan="2" valign="bottom">
-		<a href="/default.asp"><img border="0" align="absmiddle" src="/images/moving_270.gif" alt="Moving.com - Moving, Mortgage, Real Estate"></a></td>
-		<td width="500" align="right" id="Text19">
-		<!-- (( top blue nav bar ))-->
-			<img src="/images/globe/top_right_nav2.gif" width="500" height="17" border="0" usemap="#top_right_nav2_Map">
-<map name="top_right_nav2_Map">
-<area shape="rect" alt="" coords="200,0,238,17" href="/support/">
-<area shape="rect" alt="" coords="238,0,338,17" href="/guide/">
-<area shape="rect" alt="" coords="340,0,439,17" href="/msgboard/">
-<area shape="rect" alt="" coords="439,0,500,17" href="/footer/aboutus/aboutus.asp">
-<area shape="rect" alt="Login Here!" coords="110,0,199,17" href="/vendor/">
-</map>
+	
+		</head><body><table border="0" cellspacing="0" cellpadding="0" width="550" align="center">
+		<tbody><tr><td align="right"><img src="http://www.moving.com/images/poweredby_tag.gif" border="0">
 		</td>
-	</tr>
-	<tr>
-		<td height="70" align="center" width="550">
-<!-- Begin Top 468 Ad -->
-
-		<table width="468" align="right" border="0" cellspacing="0">
-		  	<tbody><tr>
-				<td align="right">
-				
-			<iframe src="http://pbid.pro-market.net/engine?site=102415+size=8+space=0+page='moving'+distinct+linktarget=\'_blank\'+ rnd=" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><A HREF="http://pbid.pro-market.net/engine?site=102415+space=0+page='moving'+id=0+linktarget=\'_blank\'+rnd=+link"> <IMG SRC="http://pbid.pro-market.net/engine?site=102415+size=8+space=0+page='moving'+distinct+rnd=+id=0+mimetype=img" WIDTH=468 HEIGHT=60 BORDER=0></A></iframe>
-		
-				</td>
-			</tr>
+		</tr>
 		</tbody></table>
-<!-- End Top 468 Ad -->
-		</td>
-	</tr>
-</tbody></table>
-<!-- END 1 row --><!-- File Name: inc_leftNavBar_nets.asp -->
-<!-- 2 row == main nav-->
-
-
-<script language="JavaScript">
-function popUp(url) {
-sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-self.name = "mainWin"; 
-}
-</script>
-
-<table width="770" align="center" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<!-- Begin LEFT Nav -->
-		<td width="135" valign="top" rowspan="3">
-			<table width="135" cellspacing="0" cellpadding="0" border="0">
 		
-		
-			<tbody><tr> 
-			</tr><tr>
-				<td width="135"><img src="/images/globe/blue-top.gif" align="bottom"></td>
-			</tr>
-			<tr>
-				<td>
-				  <table width="135" bgcolor="#6499BC" cellspacing="0" cellpadding="1" border="0">
-					<tbody><tr>
-						<td colspan="2" width="135"><a href="/moving/default.asp?navvar=left"><font id="Text51"><b>MOVING</b></font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgMovResidential" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/moving/resmove.asp"><font id="Text51">Move My Home</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgMovSmall" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/mscripts/searchbox.asp?service=5"><font id="Text51">Small Moves</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgMovOffice" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/mscripts/searchbox.asp?service=3"><font id="Text51">Office Movers</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgMovSpecialty" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/moving/specialty.asp"><font id="Text51">Specialty Moves</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgMovRentTruck" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/moving/ryderframe.asp"><font id="Text51">Truck Rental</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgMovAuto" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/mscripts/resultsnational.asp?service=15&amp;zip="><font id="Text51">Auto Shipping</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgMovPacking" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/estore/"><font id="Text51">Buy Boxes &amp; Supplies</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgMovCOA" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="https://www.changeaddress.com/movinglogin/login.asp?"><font id="Text51">Change Address</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgMovMore" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/moving/"><font id="Text51">And More...</font></a></td>
-					</tr>
-					<tr>
-						<td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td>
-					</tr>
-					<tr>
-						<td colspan="2"><b><a href="/realestate/default.asp?navvar=left"><font id="Text51"><b>REAL ESTATE</b></font></a></b></td>
-					</tr>
-				
-					<tr id="Text43">
-						<td><img id="imgRealBuy" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/realestate/buy/"><font id="Text51">Buyers</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgRealBuy" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/realestate/usmap.asp?service=35&amp;se=0"><font id="Text51">&nbsp;&nbsp;Free Newcomer's Kit</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgRealBuy" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/realestate/usmap.asp?service=10&amp;se=0"><font id="Text51">&nbsp;&nbsp;Find an Agent</font></a></td>
-					</tr>
-					
-					
-					<tr id="Text43">
-						<td><img id="imgRealSell" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/realestate/sell/"><font id="Text51">Sellers</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgRealSell" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/realestate/usmap.asp?service=33&amp;se=0&amp;hw=1"><font id="Text51">&nbsp;&nbsp;Free CMA</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgRealSell" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/realestate/usmap.asp?service=33&amp;se=0"><font id="Text51">&nbsp;&nbsp;Find an Agent</font></a></td>
-					</tr>
-				
-					<tr id="Text43">
-						<td><img id="imgRealRenters" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/realestate/rent/"><font id="Text51">Renters</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgRealCorpHouse" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/mscripts/searchbox.asp?service=32"><font id="Text51">Corp &amp; Temp Housing</font></a></td>
-					</tr>
-					
-					<tr>
-						<td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td>
-					</tr>
-					
-					<tr>
-						<td colspan="2"><b><a href="/storage/default.asp?navvar=left"><font id="Text51"><b>STORAGE</b></font></a></b></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgStoSelf" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/mscripts/searchbox.asp?service=7"><font id="Text51">Self Storage</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgStoPick" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/storage/pickupdrop.asp"><font id="Text51">Pick Up &amp; Delivery</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgStoMore" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/storage/"><font id="Text51">And More...</font></a></td>
-					</tr>
-					<tr>
-						<td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td>
-					</tr>
-					<tr>
-						<td colspan="2"><b><a href="/fservices/default.asp?navvar=left"><font id="Text51"><b>MORTGAGE</b></font></a></b></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgFinLoans" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/mscripts/searchbox.asp?service=12"><font id="Text51">Loans</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgFinCalculators" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/tools/mortgage-tool.asp?Service=12"><font id="Text51">Mortgage Calculators</font></a></td>
-					</tr>
-					<!--tr id=Text43 >
-						<td><IMG id=imgFinInsurance  SRC="/images/globe/arr_leftNav.gif" width=5 height=7 align=right></td>
-						<td><a  href="/insurance/"><font id=Text51>Insurance</a></td>
-					</tr-->
-					<tr id="Text43">
-						<td><img id="imgFinCredit" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="http://www.truecredit.com/index.jsp?cb=moving"><font id="Text51">Credit Reports</font></a></td>
-					</tr>
-					<tr>
-						<td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td>
-					</tr>
-					<tr id="Text43">
-						<td colspan="2"><b><a href="/insurance/default.asp?navvar=left"><font id="Text51"><b>INSURANCE</b></font></a></b></td>
-					</tr>
-					<!--
-					<tr id=Text43 >
-						<td><IMG id=imgFinOnline  SRC="/images/globe/arr_leftNav.gif" width=5 height=7 align=right></td>
-						<td><a  href="/fservices/everbank.asp"><font id=Text51>Online Banking</a></td>
-					</tr>
-					-->
-					<tr>
-						<td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td>
-					</tr>
-					<tr>
-						<td colspan="2"><b><a href="/community/default.asp?navvar=left"><font id="Text51"><b>NEIGHBORHOOD INFO</b></font></a></b></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgNeighComparison" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/community/channelframe.asp"><font id="Text51">Community Info</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgNeighComparison" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/tools/costofliving/com2-state.asp"><font id="Text51">City Comparison</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgNeighCost" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/tools/costofliving/com1-state.asp"><font id="Text51">Cost Of Living</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgNeighGovernment" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/community/legis.asp"><font id="Text51">Government Info</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgNeighEntertainment" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/community/enspot.asp"><font id="Text51">Entertainment</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgPhone" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/hservices/longdistance.asp" target="_blank"><font id="Text51">Phone Service</font></a></td>
-					</tr>
-					<tr id="Text43">
-						<td><img id="imgNeighMore" src="/images/globe/arr_leftNav.gif" width="5" height="7" align="right"></td>
-						<td><a href="/community/"><font id="Text51">And More...</font></a></td>
-					</tr>
-					<tr>
-						<td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td>
-					</tr>
-				</tbody></table>
-				</td>
-			</tr>
-			<tr>
-				<td width="1" height="1"><img src="/images/blank.gif" width="1" height="1" align="bottom"></td>
-			</tr>
-			<tr bgcolor="#ffffff">
-				<td align="center" colspan="2"><a href="/vendor/"><img border="0" src="/images/globe/home_vendorslogin.gif" align="absmiddle"></a></td>
-			</tr>
-			<tr>
-				<td width="1" height="5" colspan="2"><img src="/images/blank.gif" width="1" height="5" align="bottom"></td>
-			</tr>
-			  <tr>
-			  	<td align="center" colspan="2"><a href="javascript:popUp('https://digitalid.verisign.com/as2/14505622600f756c473ffec0137d0a6c');"><img border="0" align="MIDDLE" src="/images/gfx_verisign31.gif"></a></td>
-			  </tr>
-			</tbody></table>
-		</td>
-<!-- End LEFT Nav -->
-<!-- START MAIN Nav -->
-	<!-- BEGIN top Nav -->
-		<td valign="top" rowspan="3" height="1" width="1"><img src="/images/blank.gif" width="1" height="2"></td>
-		<td valign="top" align="right" colspan="3" width="631" height="29" id="Text44">
-		<div id="divMain">
-			<table id="tblMain" border="0" cellpadding="0" width="631" cellspacing="0" align="center" bgcolor="#4686AF">
-				<tbody><tr>
-				
-				<td bgcolor="#4686AF"><img src="/images/globe/dot_4686AF.gif" width="28" height="29" border="0"></td>
-					
-				<td><a href="/realestate/default.asp?navvar=top"><img id="tdMainMenuRealestate" src="/images/globe/topnav_realestate.gif" width="91" height="29" border="0"></a></td>
-					<td><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td><a href="/fservices/default.asp?navvar=top"><img id="tdMainMenuFservices" src="/images/globe/topnav_mortgage.gif" width="79" height="29" border="0"></a></td>
-					<td><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td><a href="/estore/default.asp"><img id="tdMainMenuEstore" src="/images/globe/topnav_movboxes.gif" width="102" height="29" border="0"></a></td>
-					<!--td><a HREF="/insurance/default.asp?navvar=top"><IMG id=tdMainMenuInsurance SRC="/images/globe/topnav_insurance.gif" width="82" HEIGHT=29 BORDER=0></a></td!-->
-					<td><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td><a href="/moving/default.asp?navvar=top"><img id="tdMainMenuMoving" align="absmiddle" src="/images/globe/topnav_moving.gif" width="58" height="29" border="0"></a></td>
-					<td><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td><a href="/storage/default.asp?navvar=top"><img id="tdMainMenuStorage" src="/images/globe/topnav_storage.gif" width="67" height="29" border="0"></a></td>
-					<td><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td><a href="http://www.changeaddress.com/movinglogin/login.asp?navvar=top"><img id="tdMainMenuChangeAddress" src="/images/globe/topnav_coa.gif" width="120" height="29" border="0"></a></td>
-					<td><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td><a href="/community/default.asp?navvar=top"><img id="tdMainMenuNeighborhood" src="/images/globe/topnav_neighborhood.gif" width="108" height="29" border="0"></a></td>
-					<!--td BGCOLOR="#4686AF"><IMG SRC="/images/globe/dot_4686AF.gif" width="15" HEIGHT=29 BORDER=0></td-->
-				</tr>
-			</tbody></table>
-		</div>
-		</td>
-<!-- end top Nav -->
-	</tr>
-	<tr>
-		<td valign="top"><br>
-
-<script language="JAVASCRIPT" type="Text/JAVASCRIPT">
-function newWindows() {
-changeAddr=window.open('https://partner.changeaddress.com/wizard/intro.asp?companyid=1104', 'changeaddress', 'toolbar=yes,scrollbars=yes,location=yes,resizable=yes')
-}
-</script>
-
-
 <table align="center" cellpadding="2" width="500" border="0">
  <tbody><tr>
 	<td colspan="2"><img src="/images/globe/text_privacystatement.gif"></td></tr>
@@ -475,19 +325,27 @@ The information presented on this page covers  <font id="Text1">Moving.com's</fo
 					<a href="/footer/aboutus/aboutus.asp"><li class="redarrrow">Introduction</li></a>
 					<a href="/footer/aboutus/press.asp"><li class="redarrrow">Moving.com in the Media</li></a>
 					<a href="/footer/aboutus/pressrelease.asp"><li class="redarrrow">Press Releases</li></a>
-					<a href="/footer/career.asp"><li class="redarrrow">Jobs</li></a>
+					<!--a href="/footer/career.asp"><li class="redarrrow">Jobs</li></a-->
 					<a href="/footer/aboutus/accolades.asp"><li class="redarrrow">Accolades</li></a>										
-					<a href="/vendor/default.asp"><li class="redarrrow">Relocation Professionals</li></a>
-					<a href="/advertise/advertise.asp?service=2"><li class="redarrrow">Advertising</li></a>
-					<a href="/advertise/join.asp?service=2"><li class="redarrrow">Vendors - Join Our Network!</li></a>
-					<a href="/affiliate/licensing.asp?service=2"><li class="redarrrow">Use our content</li></a>
-					<a href="/footer/privacy.asp"><li class="redarrrow">Privacy Policy</li></a>													
-					<a href="/newsletters/newsletters_main.asp"><li class="redarrrow">Newsletters</li></a>	
-					<a href="/footer/aboutus/bios.asp"><li class="redarrrow">Corporate Bios</li></a>	
+					<!--a href="/vendor/default.asp"><li class="redarrrow">Relocation Professionals</li></a-->
+					<a href="http://moving.monstermoving.com/Advertise_With_Us/"><li class="redarrrow">Advertising</li></a>
+					<!--
+						<a href="/advertise/join.asp?service=2"><li class="redarrrow">Vendors - Join Our Network!</li></a>					
+					
+						<a href="/advertise/joinNS.asp?service=2"><li class="redarrrow">Vendors - Join Our Network!</li></a>					
+						
+						<a href="/advertise/join.asp?service=2"><li class="redarrrow">Vendors - Join Our Network!</li></a>							
+										
+					<a href="/affiliate/licensing.asp?service=2"><li class="redarrrow">Use our content</li></a-->
+					<a href="http://moving.monstermoving.com/About_Us/Privacy_Policy/"><li class="redarrrow">Privacy Policy</li></a>													
+					<!--a href="/newsletters/newsletters_main.asp"><li class="redarrrow">Newsletters</li></a-->	
+					<a href="http://moving.monstermoving.com/About_us/Exec_Bios/"><li class="redarrrow">Corporate Bios</li></a>	
 				</ul>
 			</td>
 		  </tr>
-		</tbody></table></td>
+		</tbody></table>
+
+</td>
 </tr>
 <tr>
 	<td colspan="2">
@@ -511,7 +369,7 @@ The information presented on this page covers  <font id="Text1">Moving.com's</fo
 <font id="Text16"><b>Unsubscribing/Correcting</b></font><br>
 <font id="Text1">Moving.com</font> <font id="Text6">provides its users with the opportunity to unsubscribe from receiving communication from <font id="Text1">Moving.com</font> or its partners. In addition, <font id="Text1">Moving.com</font> allows its users to modify any information that they had provided. Unsubscribing or correcting can be done in one of two ways:</font>
 <ul>
-<li><font id="Text6">A notification can be sent via email to <font id="Text1">Moving.com</font> at sales@moving.com.</font>
+<li><font id="Text6">A notification can be sent via email to <font id="Text1">Moving.com</font> at advertising@moving.com.</font>
 </li><li><font id="Text6">A notification can be sent vial postal mail to <b>Moving.com</b> at the following address:</font>
 </li></ul>
 <blockquote><font id="Text6">11 Broadway<br>
@@ -536,158 +394,99 @@ The information presented on this page covers  <font id="Text1">Moving.com's</fo
 <address><font id="Text6">11 Broadway</font></address>
 <address><font id="Text6">Suite 1131</font></address>
 <address><font id="Text6">New York, NY 10004</font></address>
-<address><font id="Text6">move@moving.com</font></address>
+<address><font id="Text6">UserSupport@moving.com</font></address>
 </td>
 </tr>
 </tbody></table>
-    	</td>
-<!-- end Main Body-->
-		<td valign="top" height="2" width="2"><img src="/images/blank.gif" width="2" height="2"></td>
-<!-- begin Right Side-->
-		<td align="right" valign="top">
-			<table width="120" cellpadding="0" cellspacing="0" border="0">
-			  <tbody><tr>
-			  	<td align="right"><a href="/tools/wizard/"><img border="0" align="top" src="/images/GLOBE/right_wizard.gif" alt="Moving.com - Moving, Mortgage, Real Estate"></a></td>
-			  </tr>
+
 		
-			  <tr><td><img src="/images/blank.gif" width="3" height="6"></td></tr>
-	<tr><td align="center">
+	
+	
+		
+			<table width="100%" border="0">
+				<tbody><tr>
+					<td align="center">
+						<a href="/footer/aboutus/aboutus.asp"><font id="Text18">About Us</font></a> | <a href="/footer/privacy.asp">
+						<font id="Text18">Privacy Statement</font></a> |  <a href="/footer/contact.asp">
+						<font id="Text18">Contact Us</font></a> 
+					</td>
+				</tr>
+			 </tbody></table>
+		
+	
 
-<link rel="stylesheet" type="text/css" href="/includes/styles.css">
-<script language="javascript">
+
+
+<!-- START OF Data Collection Server TAG -->
+<!-- Copyright 2002 NetIQ Corporation -->
+<!-- V2.0 -->
+<script language="JavaScript">
 <!--
-	function submitEmailSubscribtion(oForm){
-		//alert("test");
-		var strURL
-		var error
-		//alert(oForm.subscribtionemail.value);
-		error = checkEmail(oForm.subscribtionemail.value);
-		//alert(oForm.name);
-		if (error!=""){ alert(error); return;}
-		strURL = "/newsletters/ThankYouSubscribtion.asp?subscribtionemail=" + escape(oForm.subscribtionemail.value)
-		//alert(strURL);
-		window.open(strURL,"Test","width=300,height=200,menubar=no,scrollbars=no,toolbar=no,location=no,directories=no,resizable=no,left=100,top=100");
-		oForm.subscribtionemail.value = ""
-
+function dcs_2_0(dcs_URI,dcs_QRY,dcs_EXT)
+{
+	var dCurrent = new Date();
+	var P = "";
+	P+="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://cookie.monster.com/DCS000002_7G5R/dcs.gif?";
+	P+="dcsuri="+escape(dcs_URI);
+	P+="&dcsqry="+escape(dcs_QRY);
+	if ((window.document.referrer != "") && (window.document.referrer != "-"))
+	{
+		if (!(navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) < 4) )
+		{
+			P+="&dcsref="+escape(window.document.referrer);
+		}
 	}
-
+	P+=dcs_EXT;
+	P+="&dcssip=www.moving.com";
+	P+="&dcsdat="+escape(dCurrent.getTime());
+	document.write('<img border="0" name="DCSIMG" width="1" height="1" alt="" src="'+P+'">');
+}
 //-->
 </script>
+<script language="JavaScript">
+<!--
+function dcsExtend(N,V)
+{
+	dcsEXT+="&"+N+"="+escape(V);
+}
+function dcsMeta() 
+{
+	var F=false;
+	var myDocumentElements;
+	if (document.all)
+	{
+		F = true;
+		myDocumentElements=document.all.tags("meta");
+	}
+	if (!F && document.documentElement)
+	{
+		F = true;    
+		myDocumentElements=document.getElementsByTagName("meta");
+	}
+	if (F)
+	{
+		for (var i=1; i<=myDocumentElements.length;i++)
+		{
+			myMeta=myDocumentElements.item(i-1);
+			if (myMeta.name.indexOf('WT.')==0)
+				dcsExtend(myMeta.name,myMeta.content);
+		}
+	}	
+}
+
+var dcsURI=window.location.pathname;
+var dcsQRY=window.location.search;
+var dcsEXT="";
+dcsMeta();
+dcs_2_0(dcsURI,dcsQRY,dcsEXT);
+//-->
+</script><img border="0" name="DCSIMG" width="1" height="1" alt="" src="https://cookie.monster.com/DCS000002_7G5R/dcs.gif?dcsuri=/web/20030810015203id_/http%253A//www.moving.com/footer/privacy.asp&amp;dcsqry=&amp;dcssip=www.moving.com&amp;dcsdat=1580425400648">
+<noscript>
+<img border="0" name="DCSIMG" width="1" height="1" alt="" src="http://cookie.monster.com/DCS000002_7G5R/njs.gif?dcsuri=/nojavascript&dcssip=www.moving.com">
+</noscript>
+<!-- END OF Data Collection Server TAG -->	
 
 
-<table cellpadding="1" cellspacing="2" border="0" width="116" align="center" bgcolor="#E2EFF8">
-<form action="subscribtion.asp" method="post" id="frmEmailSubscribtion" name="frmEmailSubscribtion" height="0"></form>
-	<tbody><tr>
-		<td align="left" bgcolor="#E2EFF8" width="116">
-		<table cellpadding="2" cellspacing="1" border="0" width="114" align="center" bgcolor="#FFFFFF">
-		<tbody><tr><td id="Text19" bgcolor="#FFFFFF">
-			<b>Get our Newsletter:</b><br>E-mail address:<br>
-			<input type="text" name="subscribtionemail" size="11" maxlength="250">
-			</td>
-	</tr>
 
-	<tr>
-		<td nowrap="" valign="top" align="left" bgcolor="#ffffff">
-			<input style="background-color:#639ABD; color=#FFFFFF; font-size: 7pt; margin-top:0; margin-left:0; margin-right:0; margin-bottom:0; padding=0; " type="button" value="Subscribe" id="submitsubscribtion" name="submitsubscribtion" border="0" vspace="0" alt="Subscribe" onclick="submitEmailSubscribtion(frmEmailSubscribtion);">
-			<a href="/newsletters/newsletters_main.asp" target="_blank"><img src="/images/see_all_letters2.gif" width="35" height="29" border="0" align="absbottom" alt="See All Newsletters"></a>
-		</td>
-	</tr>
-</tbody></table>
-		</td>
-	</tr>
-	
-</tbody></table>
-
-
-	</td></tr>
-	 <tr><td><img src="/images/blank.gif" width="3" height="6"></td></tr>
-			  <tr>
-			 <td align="right">
-<!-- begin 120 ads -->
-				<table align="right" width="120" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-<!--Starting of side banners -->
-
-			<tbody><tr><td height="3" width="1"><img src="/images/blank.gif" height="3" width="1"></td></tr>
-			<tr><td align="center">
-	
-	<iframe src="http://pbid.pro-market.net/engine?site=102415+size=2+space=1+page='moving'+linktarget='_blank'+rnd=705547511577606" width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><A HREF="http://pbid.pro-market.net/engine?site=102415+space=1+page='moving'+id=1+linktarget=\'_blank\'+rnd=705547511577606+link"> <IMG SRC="http://pbid.pro-market.net/engine?site=102415+size=2+space=1+page='moving'+rnd=705547511577606+id=1+mimetype=img" WIDTH=120 HEIGHT=60 BORDER=0></A></iframe>
-	
-			</td></tr>
-	
-			<tr><td height="3" width="1"><img src="/images/blank.gif" height="3" width="1"></td></tr>
-			<tr><td align="center">
-	
-	<iframe src="http://pbid.pro-market.net/engine?site=102415+size=2+space=2+page='moving'+linktarget='_blank'+rnd=533424019813538" width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><A HREF="http://pbid.pro-market.net/engine?site=102415+space=2+page='moving'+id=2+linktarget=\'_blank\'+rnd=533424019813538+link"> <IMG SRC="http://pbid.pro-market.net/engine?site=102415+size=2+space=2+page='moving'+rnd=533424019813538+id=2+mimetype=img" WIDTH=120 HEIGHT=60 BORDER=0></A></iframe>
-	
-			</td></tr>
-	
-			<tr><td height="3" width="1"><img src="/images/blank.gif" height="3" width="1"></td></tr>
-			<tr><td align="center">
-	
-	<iframe src="http://pbid.pro-market.net/engine?site=102415+size=2+space=3+page='moving'+linktarget='_blank'+rnd=579518616199493" width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><A HREF="http://pbid.pro-market.net/engine?site=102415+space=3+page='moving'+id=3+linktarget=\'_blank\'+rnd=579518616199493+link"> <IMG SRC="http://pbid.pro-market.net/engine?site=102415+size=2+space=3+page='moving'+rnd=579518616199493+id=3+mimetype=img" WIDTH=120 HEIGHT=60 BORDER=0></A></iframe>
-	
-			</td></tr>
-	
-			<tr><td height="3" width="1"><img src="/images/blank.gif" height="3" width="1"></td></tr>
-			
-	
-			</tbody></table>
-<!-- END OF side banners -->		
-<!-- End 120 ads -->				
-				</td>
-			  </tr>
- 				<tr>
-			  	<td><img src="/images/blank.gif" width="3" height="6"></td>
-			  </tr>
-			  <tr>
-			   </tr><tr><td align="right">
-<!-- ImageReady Slices (right_help_expert.gif) -->
-<img src="/../images/globe/right_help_expert.gif" width="120" height="105" border="0" usemap="#right_help_expert_Map">
-<map name="right_help_expert_Map">
-<area shape="rect" alt="" coords="86,65,120,87" href="/expert/askapro.asp">
-<area shape="rect" alt="" coords="44,66,84,87" href="/footer/chat.asp">
-<area shape="rect" alt="" coords="1,66,43,85" href="mailto:support@moving.com">
-</map>
-<!-- End ImageReady Slices -->
-			   </td></tr>
-			
-			  <tr>
-			  	<td><img src="/images/blank.gif" width="3" height="6"></td>
-			  </tr>
-			  <tr>
-			  	<td align="right"><a href="https://www.changeaddress.com/movinglogin/login.asp?"><img border="0" align="top" src="/images/globe/right_coa.gif"></a></td>
-			  </tr>
-			   <tr>
-			  	<td><img src="/images/blank.gif" width="3" height="6"></td>
-			  </tr>
-			  <tr>
-			  	<td align="right"><a href="http://www.einvite.com/newpages/category_home.asp?event=4&amp;style=42&amp;CoBrand=moving"><img border="0" align="top" src="/images/globe/right_einvite.gif"></a></td>
-			  </tr>
-			  
-			  
-			  <tr>
-			  	<td><img src="/images/blank.gif" width="3" height="6"></td>
-			  </tr>
-			
-			  <!--tr>
-			  	<td align="center"><a href="javascript:popUp('https://digitalid.verisign.com/as2/14505622600f756c473ffec0137d0a6c');"><IMG border="0" align="MIDDLE" SRC="/images/gfx_verisign31.gif"></a></td>
-			  </tr-->
-			</tbody></table>	
-		</td>		
-	</tr>	<tr>
-		<td colspan="3" valign="bottom">
-		<table align="center" width="98%" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-			<td align="center" id="Text45"><font color="#9BC1D9"><hr size="1" color="#9BC1D9">
-			<a class="footerOn" href="/affiliate/licensing.asp">Partners</a> | <a class="footerOn" href="/support/sitemap.asp">Site Map</a> | <a class="footerOn" href="/advertise/advertise.asp">Advertising</a> | <a class="footerOn" href="/footer/privacy.asp">Privacy</a> | <a class="footerOn" href="/footer/contact.asp">Contact Us</a></font>
-			</td>
-			</tr>
-			<tr><td>&nbsp;</td></tr>
-			<tr><td align="center" id="Text45"><p>©2002 Moving.com - All Rights Reserved</p></td></tr>
-		</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-</td></tr></tbody></table>
 
 </body></html>
