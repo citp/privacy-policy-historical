@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607144032id_/http%3A//www.themexp.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621142438id_/http%3A//www.themexp.org/privacy.php) for the most accurate reproduction.*
 
 # ThemeXP > Privacy Statement
 
@@ -53,4 +53,4 @@
 
 * * *
 
-Copyright © 2001-2002 [Devire WS](http://www.devire.com/solutions/). All rights reserved. [Privacy statement.](https://web.archive.org/web/20020607144032id_/http%3A//www.themexp.org/privacy.php)
+Copyright © 2001-2003 [TGT Soft, LLC](http://www.tgtsoft.com/). All rights reserved. [Privacy statement.](https://web.archive.org/web/20030621142438id_/http%3A//www.themexp.org/privacy.php)
