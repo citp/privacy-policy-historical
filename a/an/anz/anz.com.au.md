@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034138id_/http%3A//www.anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211024355id_/http%3A//www.anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
 
 # ANZ Web Site Security and Privacy Statement
 
@@ -55,27 +55,31 @@ Third Party Web Sites should contain their own privacy statements and those thir
 ANZ uses the following companies to deliver its online advertising where ANZ banner advertisements are placed on Third Party Web Sites: 
 
   * Doubleclick International Asia BV 
-  * Traffion Technologies Pty Ltd (ABN 24 092 793 943). ("Advertising Companies") 
+  * Traffion Technologies Pty Ltd (ABN 24 092 793 943). 
+  * Advertising.com Inc. 
 
+  
+(together, "Advertising Companies") 
 
-
-When you view an ANZ advertisement on a Third Party Web Site, the Advertising Companies use "cookies" to collect information such as: 
+When you view an ANZ advertisement on a Third Party Web Site, the Advertising Companies use "cookies" and in some cases "web beacons" to collect information such as: 
 
   * the server your computer is logged onto; 
   * your browser type; and 
-  * the date and time of your visit. 
+  * the date and time of your visit, 
 
 
 
-When you access the ANZ Web Site after viewing an ANZ advertisement on a Third Party Web Site, the Advertising Companies collect information on how you utilise the ANZ Web Site (eg which pages you view) and whether you complete an online application. 
+and to track the performance of their marketing efforts. When you access the ANZ Web Site after viewing an ANZ advertisement on a Third Party Web Site, the Advertising Companies collect information on how you utilise the ANZ Web Site (eg which pages you view) and whether you complete an online application. 
 
-The Advertising Companies use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ Web Site. If any personal information is incorporated in information that the Advertising Companies automatically collect, these Companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information. 
+The Advertising Companies use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ Web Site. As a general rule, no personal information is collected by the Advertising Companies in this process. If, however, any personal information is incorporated in information that the Advertising Companies automatically collect, these Companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information. 
 
 We may disclose the information collected by an Advertising Company, in an aggregate form only, to third parties including advertisers or potential advertisers. 
 
 You can opt-out of DoubleClick cookies by [ following the instructions](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1=&) here. This opt-out is applicable to DoubleClick tracking your current browser throughout DoubleClick’s network of websites, including the ANZ Web Site. 
 
 You can access the Traffion Privacy Statement [here](http://www.traffion.com/privacy/privacy.asp). This Statement outlines how Traffion collects and uses information about your use of the ANZ Website. 
+
+You can access Advertising.com’s Privacy Statement [here](http://www.advertising.com/privacy/privacy.html). 
 
 We use "cookies" as a fundamental part of our interaction with your Internet browser. The purpose is to provide you with better and more customised service and with a more effective Web Site. 
 
@@ -98,7 +102,6 @@ ANZ also uses cookies for secure services (that is, an area where you are requir
 
   * ANZ Internet Banking; 
   * _runningmybusiness_ ; 
-  * Bizsite; 
   * Online applications; 
 
 
