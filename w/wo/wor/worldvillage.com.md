@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldvillage.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607110623id_/http%3A//www.worldvillage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvillage.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210070026id_/http%3A//www.worldvillage.com/privacy.html) for the most accurate reproduction.*
 
 # WorldVillage > Privacy Policy
 
@@ -74,5 +74,5 @@ This site uses the services of Engage for the serving and/or targeting of ads, p
 Your Acceptance of These Terms By using this site, you signify your assent to the InfoMedia, Inc. Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the InfoMedia, Inc. sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions.   
   
 Copyright © 2001 InfoMedia, Inc. All rights reserved worldwide.  
-Read our [Privacy Policy](https://web.archive.org/web/20020607110623id_/http%3A//www.worldvillage.com/privacy.html).  
+Read our [Privacy Policy](https://web.archive.org/web/20021210070026id_/http%3A//www.worldvillage.com/privacy.html).  
  
