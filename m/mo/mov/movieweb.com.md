@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619090403id_/http%3A//www.movieweb.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409013755id_/http%3A//movieweb.com/company/privacy.html) for the most accurate reproduction.*
 
 # MovieWeb: The Internet Movie Network
 
@@ -6,19 +6,7 @@
 
 * * *
 
-[](https://www.truste.org/validate/5427) This confirms that MovieWeb.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.movieweb.com. 
-
-TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
-
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site
-  2. The organization collecting the information
-  3. How the information is used
-  4. With whom the information may be shared
-  5. What choices are available to you regarding collection, use and distribution of the information
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under (Name of the Company) control
-  7. How you can correct any inaccuracies in the information.
-
-If you have questions or concerns regarding this statement, you should first contact (insert name of individual, department or group responsible for inquires) by (insert contact information; email, phone, postal mail, etc.) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/users/watchdog.html. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **Privacy Statement for www.movieweb.com**
+**Privacy Statement for www.movieweb.com**
 
 Millennium Internet Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: "MovieWeb.com" at http://www.movieweb.com. 
 
@@ -37,6 +25,8 @@ Millennium Internet Corporation has created this privacy statement in order to d
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies from banner ads are collected by advertising networks, and we do not have access to this information. 
 
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects and stores anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy/>. 
+
 **Security**
      This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
@@ -47,7 +37,7 @@ Employees are notified in staff meetings of security policies and practices regu
 **Correct/update**
      Users can change their information with MovieWeb.com by emailing a request to [webmaster@movieweb.com](mailto:webmaster@movieweb.com). 
 **Notification of Changes**
-     MovieWeb.com privacy practices may change periodically. MovieWeb.com will notify users of changes only if the information collected from the user differs from that stated at the time of collection. MovieWeb.com may also obtain the user’s consent by posting notice on the site with prior approval by TRUSTe.\ 
+     MovieWeb.com privacy practices may change periodically. MovieWeb.com will notify users of changes only if the information collected from the user differs from that stated at the time of collection. MovieWeb.com may also obtain the user’s consent by posting notice on the site. 
 **Contacting the Web Site**
      If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: 
 
@@ -64,5 +54,4 @@ Email: webmaster@movieweb.com
 ---|---  
 |  Copyright (c) 2000 by MOVIEWEB. All Rights Reserved  
 Your Comments & Suggestions are Welcome: [driess@movieweb.com](mailto:driess@movieweb.com)  
-|    
-
+| 
