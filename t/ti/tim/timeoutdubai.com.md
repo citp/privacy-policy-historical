@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610200353id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207030503id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
 
-# Time Out Dubai { Privacy Policy }
+# Time Out Dubai {Corporate - Privacy}
 
 **Our privacy policy**  
 Time Out Dubai always promises to serve its audience with integrity and honesty. The same is true for what we publish online. Time Out Dubai has developed this privacy policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for www.timeoutdubai.com (the "site"). By visiting the site, you are accepting the practices described in this privacy policy. Our site will develop and evolve over time, and this policy may change to reflect that.
