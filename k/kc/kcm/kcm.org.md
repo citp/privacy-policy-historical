@@ -1,25 +1,36 @@
-> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622153248id_/http%3A//www.kcm.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203223607id_/http%3A//www.kcm.org/about/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Kenneth Copeland Ministries | About Us
 
-| [Home](https://web.archive.org/index.html)  
+| [Elite CX Team](http://www.elitecxteam.org/)  
 ---  
+[14forty](http://www.14forty.org/)  
+[Upray](http://www.upray.org/)  
+  
+
+
+* * *
+
+  
+  
+[Home](https://web.archive.org/index.html)  
 [About Us](https://web.archive.org/about/)  
 [Partnership](https://web.archive.org/2003partnership/)  
 [Privacy Policy](https://web.archive.org/about/privacy.html)  
 [Employment](https://web.archive.org/about/employment/)  
 [Mission](https://web.archive.org/about/mission/)  
 [Faith Statement](https://web.archive.org/about/faith_statement/)  
-[TV](https://web.archive.org/tv/)  
+[TV ](https://web.archive.org/tv/)  
 [Radio](http://www.bvovradio.org/)  
-[Magazines](https://contact.kcm.org/index.html?F=mV5VKsBJ)  
+[Magazines](https://web.archive.org/magazines/)  
 [Meetings](https://web.archive.org/meetings/)  
 [Study Center](https://web.archive.org/studycenter/)  
+[Prayers](https://web.archive.org/studycenter/prayer/index.html)  
 [Finances](https://web.archive.org/studycenter/financial/)  
 [Spiritual Heritage](https://web.archive.org/studycenter/t/spiritualheritage/)  
 [Articles](https://web.archive.org/studycenter/articles/)  
-[MP3](http://www.bvov.org/mp3/index.php)  
-[Webcast](http://www.bvov.org/webcasts/index.php)  
+[MP3](https://web.archive.org/studycenter/mp3/index.php)  
+[Webcast](https://web.archive.org/studycenter/webcasts/)  
 [Devotional](https://web.archive.org/studycenter/devotion/)  
 [One-Year Bible](https://web.archive.org/studycenter/year_bible/)  
 [Prophecies](https://web.archive.org/studycenter/prophecies/)  
@@ -27,14 +38,15 @@
 [Email Subscriptions](http://lists.kcm.org/)  
 [Church](http://www.emic.org/)  
 [Contact Us](https://web.archive.org/contact/)  
-[Prayer Requests](https://contact.kcm.org/index.html?F=aUV9Ud7w)  
-[Service](https://contact.kcm.org/index.html?F=7UjuUd7w)  
-[Technical Support](https://web.archive.org/support/)  
+[Prayer Requests](https://web.archive.org/contact/prayer_request/)  
+[Service](https://web.archive.org/contact/partner_request/)  
+[Support](https://web.archive.org/support/)  
 [Store](https://web.archive.org/store/)  
 [Contributions](https://secure.kcm.org/store/contribute.php3)  
-[Audio](http://www.kcm.org/store/display.php3?cat=3)  
-[Video](http://www.kcm.org/store/display.php3?cat=5)  
-[Books](http://www.kcm.org/store/display.php3?cat=2)  
+[Gift Annuity](https://web.archive.org/store/cga.html)  
+[Audio](https://web.archive.org/store/display.php3?cat=3)  
+[Video](https://web.archive.org/store/display.php3?cat=5)  
+[Books](https://web.archive.org/store/display.php3?cat=2)  
 |  | 
 
 Your Privacy   
