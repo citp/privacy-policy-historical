@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuit.co.uk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607133241id_/http%3A//www.intuit.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207001508id_/http%3A//www.intuit.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Intuit UK
 
