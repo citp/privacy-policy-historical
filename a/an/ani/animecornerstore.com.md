@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the animecornerstore.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622091010id_/http%3A//www.animecornerstore.com/animecorner/privsecsat.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animecornerstore.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203211400id_/http%3A//www.animecornerstore.com/privsecsat.html) for the most accurate reproduction.*
 
 # Privacy / Security Statement
 
-[](http://store4.yimg.com/I/animecorner_1569_49813490)
+[](http://store4.yimg.com/I/animecorner_1613_15576701)
 
 **_Site Security at the Anime Corner Store_**
 
