@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paclii.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604040018id_/http%3A//www.paclii.org/paclii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paclii.org privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222153817id_/http%3A//www.paclii.org/paclii/privacy.html) for the most accurate reproduction.*
 
 # PacLII - About PacLII: Privacy Policy
 
@@ -8,9 +8,9 @@ PacLII's privacy policies are based on respect for international standards of in
 
 **A1.** PacLII collects information which identifies, for each page accessed on PacLII, the network identity of the machine which has accessed it. PacLII retains this usage information for purposes of network analysis, usage analysis, and research into usage patterns for the purpose of improving PacLII services. Access to and use of this information is restricted to PacLII management and staff, and to researchers working on PacLII projects and subject to an agreement to adhere to this Privacy Policy.
 
-**A2.** PacLII does not disclose or publish information which identifies individual machines,or potentially identifying sub-groupings of addresses, without consent. PacLII does publish aggregated information about usage patterns.
+**A2.** PacLII does not disclose or publish information which identifies individual machines, or potentially identifying sub-groupings of addresses, without consent. PacLII does publish aggregated information about usage patterns.
 
-**A3.** PacLII reserves the right to gather more extensive information that stated above (i) about any attempted access to PacLII which raise security issues (and, where necessary, to make disclosures to relevent authorities); and (ii) for network analyses on an occasional basis.
+**A3.** PacLII reserves the right to gather more extensive information that stated above (i) about any attempted access to PacLII which raise security issues (and, where necessary, to make disclosures to relevant authorities); and (ii) for network analyses on an occasional basis.
 
 ## B. Personal information contained in PacLII databases
 
@@ -24,7 +24,7 @@ PacLII also monitors whether any robots attempt to index these databases in disr
 
 **PacLII reserves the right to exclude access to its databases by users or sites that are in apparent breach of any such legal requirements.**
 
-If you have any comments or suggestions in relation to this policy, please [send us some mail](https://web.archive.org/paclii/feedback.html).
+If you have any comments or suggestions in relation to this policy, please [**send us some mail**](https://web.archive.org/paclii/feedback.html).
 
 * * *
 
