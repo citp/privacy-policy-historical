@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603180059id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2002-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021223094453id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
 
-# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Gender Medicine Meteorology Toys Alternative Law Broadcasting Cultures and Groups Music Outdoors
+# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Cool Links Toys Ethics Hardware Magazines Institutes Real Estate Cool Links Booksellers Diseases and Conditions
 
 | 
 
@@ -49,9 +49,11 @@ Advertising networks that serve ads onto LinkGrinder may also use their own cook
 
 LinkGrinder's primary goal in collecting personal information is to provide you, the user, with a customized experience on our network of sites. By knowing a little about you, LinkGrinder is able to deliver more relevant advertisements and content, and hence better service, to you. 
 
-In our role of delivering targeted advertisements, LinkGrinder plays the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). LinkGrinder takes the advertisement and displays it to users meeting that criteria. In this process, the advertiser never has access to individual account information. Only LinkGrinder has access to individuals' accounts. This kind of advertisement targeting is done with banner ads. You will only receive special offers via email from LinkGrinder if you have indicated in your account preferences that you would like to receive them. You can change your account preferences at any time. 
+In our role of delivering targeted advertisements, LinkGrinder plays the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). LinkGrinder takes the advertisement and displays it to users meeting that criteria. In this process, the advertiser never has access to individual account information. Only LinkGrinder has access to individuals' accounts. This kind of advertisement targeting is done with banner ads and email advertisements. 
 
 LinkGrinder does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. LinkGrinder may share this aggregated data with advertisers or business partners. 
+
+LinkGrinder WILL send advertisements to you! DO NOT use this service is you do NOT want advertisements. 
 
 * * *
 
@@ -83,11 +85,9 @@ _Other:_ LinkGrinder may also disclose account information in special cases when
 
 **What are my choices regarding collection, use, and distribution of my information?**
 
-LinkGrinder may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from LinkGrinder and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only LinkGrinder (or agents working on behalf of LinkGrinder and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily edit your LinkGrinder Account Information to no longer receive such offers and mailings. You will need your LinkGrinder ID and Password in order to access your LinkGrinder Account Information. 
+LinkGrinder may, from time to time, send you email regarding our products and services. In addition, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only LinkGrinder (or agents working on behalf of LinkGrinder and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, THEN DO NOT USE OUR SERVICE. 
 
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those LinkGrinder services that require registration in order to participate. 
-
-LinkGrinder does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests. 
 
 * * *
 
@@ -99,11 +99,11 @@ Your LinkGrinder account can be deleted or deactivated, but doing so will result
 
 * * *
 
-**How does LinkGrinder protect my personal financial and health-related information?**
+**How does LinkGrinder protect my personal financial information?**
 
-Keeping your personal financial and health-related information private is vitally important to us. As with all information, LinkGrinder will never rent or sell your personal financial or health-related information. 
+Keeping your personal financial information private is vitally important to us. LinkGrinder will never rent or sell your personal financial information. 
 
-Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. But as with all personally identifiable information, we do not make this available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding financial product or service usage on LinkGrinder are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
+Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. Any user statistics that we may provide to prospective advertisers or partners regarding financial product or service usage on LinkGrinder are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
 
 Please note that there are several places on the LinkGrinder network of Web sites where you can transmit credit card information in order to complete a purchase transaction or for verification purposes. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. 
 
