@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragesw.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202200200id_/http%3A//www.ragesw.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragesw.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215403id_/http%3A//www.ragesw.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to Rage Software
 
@@ -18,7 +18,7 @@ We do not collect personal information such as email, name, address, etc... unle
 
 **Surveys and Other Online Forms**
 
-To help us make both our services and software better, we ask that you fill out our [Online Survey](https://web.archive.org/web/20031202200200id_/http%3A//www.ragesw.com/survey.php) so that we know what you want and can serve you better. 
+To help us make both our services and software better, we ask that you fill out our [Online Survey](https://web.archive.org/web/20040602215403id_/http%3A//www.ragesw.com/survey.php) so that we know what you want and can serve you better. 
 
 By filling out our survey you allow us to use any information that is submitted along with your name on our web site. We will not, however, use your email or any other personal information on our web site or in our products.
 
@@ -30,7 +30,7 @@ When you submit a question via our online form, your email address allows us to 
 
 **Access or Change your information**
 
-If you would like to access the personally identifiable information we have maintained about you, just send us an [email](https://web.archive.org/web/20031202200200id_/http%3A//www.ragesw.com/contactus.php) along with your name and serial number and we will send you your details. This does not apply to your Credit Card number since we never see this information or store it in anyway.
+If you would like to access the personally identifiable information we have maintained about you, just send us an [email](https://web.archive.org/web/20040602215403id_/http%3A//www.ragesw.com/contactus.php) along with your name and serial number and we will send you your details. This does not apply to your Credit Card number since we never see this information or store it in anyway.
 
 If you would like us to change or correct errors in the details we currently have, you can send us a request that credibly shows error
 
@@ -48,4 +48,4 @@ Rage Software may make public forums, chat rooms or newgroups available to its v
 
 **Further Information**
 
-Rage Software is dedicated to providing you with an easy and safe way to purchase our products. We also respect your privacy and will never release the information that we collect to third party organizations. For more information please [contact us](https://web.archive.org/web/20031202200200id_/http%3A//www.ragesw.com/contactus.php)
+Rage Software is dedicated to providing you with an easy and safe way to purchase our products. We also respect your privacy and will never release the information that we collect to third party organizations. For more information please [contact us](https://web.archive.org/web/20040602215403id_/http%3A//www.ragesw.com/contactus.php)
