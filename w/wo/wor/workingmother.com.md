@@ -1,14 +1,78 @@
-> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2000-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000623110539id_/http%3A//www.workingmother.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217224631id_/http%3A//www.workingmother.com/corp/privacy.shtml) for the most accurate reproduction.*
 
-# Working Mother
+# Working Mother Magazine
 
-   |    
-**Privacy Policy**
+|  **Privacy Policy**
 
-When you provide your personal information to MacDonald Communications Corporation (such as name, address, phone number, company name, or the products you are shopping for or purchasing), except if subscribing to a magazine published by us, we will not give or sell your individual information to any outside company for its use in marketing or solicitation. Any information provided with respect to subscribing to a magazine published by us will only be used in accordance with the policy of the magazine. However, you are given the option to elect that such information not be released. Information to make that election is in the magazine on a monthly basis or you can email us at [CIRC@WorkingWomanNetwork.com](mailto:CIRC@WorkingWomanNetwork.com)
+WMAC, Inc. and its affiliated companies (collectively, "WMAC," "We," "Us") provide a variety of e-commerce and other online services ("Services") through its Web sites located at, including but not limited to http://www.workingmother.com (the "Sites").
 
-We will maintain the confidentiality of your personal information and it will be used only to support your customer relationship with us or as described above. 
+WMAC is committed to safeguarding your privacy on the Internet. Please read the following policy to understand how your personal information will be treated. Please note that by using the Services and/or the Sites you signify your agreement to this Privacy Policy. This Privacy Policy may change from time to time. Changes to this Privacy Policy will become effective when those changes are posted to the Sites. Your continued use of the Services and the Sites subsequent to any changes to this Privacy Policy will mean that you accept the changes. Please periodically review this Policy to ensure continuing familiarity with its most current provisions.
 
-Copyright ©2000 Working Woman Network  
-All rights reserved.    
-|   
+The Services are not directed toward children (minors under thirteen years of age). WMAC does not knowingly collect personally identifiable information from children.
+
+Please note that when you subscribe through the Sites to a magazine published by WMAC, this Privacy Policy will not apply with respect to any information provided by you in connection with your subscription, and occasionally WMAC makes its subscriber mailing lists available to third parties. If you prefer not to receive these mailings, please write to: Working Mother Media, Circulation Dept. 135 West 50th St., New York, NY 10020, or send an email to circulation@workingmother.com
+
+If you have any questions regarding this Privacy Policy, please email Us at privacy@workingmother.com and type "Privacy Policy" in the subject line.
+
+This policy covers:  
+1\. What personally identifiable information is collected;  
+2\. What cookies are and how they are used;  
+3\. How your information is used;  
+4\. Who is collecting your information; and  
+5\. How you can access, update and change your information.
+
+1\. What personally identifiable information is collected
+
+WMAC respects the privacy of those who visit the Sites ("Users" or "Visitors"). While We collect information from Visitors, We do not release personally identifiable information about Visitors without their permission except as set forth within this Privacy Policy.
+
+In order to use certain Services you are required to register. Some personal information is gathered when you register. During registration, you provide Us with a name, address, zip code, email address, occupation, and industry, as well as other personally identifiable information. The more information you volunteer and the more accurate the information, the better We are able to customize your experience on the Sites in the future. Once you register, you are no longer anonymous to WMAC. You are given a member ID and can now take advantage of the membership offerings.
+
+In addition to registration, We may ask for personal information on other occasions such as (but not limited to) sweepstakes, contests, surveys, promotions, when you submit a listing, and when you report a problem, and surveys.
+
+WMAC does not control, nor does it assume responsibility for, the acts of Users of any of the Sites. Please be aware that, when disclosing personally identifiable information in a bulletin board, chat room, or other forum or public area of the Sites, the information may be collected and used by others for the purposes of distributing unsolicited communications. In the event that you encounter any WMAC User who is improperly collecting or using information about you or other Users, please contact Us at publicarea@workingmother.com.
+
+2\. What are cookies and how are they used
+
+As part of offering and providing customizable and personalized Services, WMAC uses cookies to store and sometimes track information about you. WMAC also collects non-personally identifiable information, such as aggregate use statistics for the Services. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All areas on the Sites and any WMAC co-branded and/or partner Web sites linked to the Sites (collectively, the "Network") where you are prompted to log-in or that are customizable will require that you accept cookies. Generally, We may use cookies to:
+
+(1) Remind Us of who you are, to access your account information (stored on our computers) and in the future to deliver to you better and more personalized Services. This cookie is set when you register or "Sign In" and may be modified when you "Sign Out" of the Services.
+
+(2) Estimate our audience size. Each browser accessing the Sites is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered User versus by an unregistered User, and to help target advertisements based on User interests and behavior.
+
+(3) Assist merchants in stores accessible on or through the Sites to track visits to and business to their stores. This information collected by cookies is sometimes called "clickstream" or "click trail" and may also describe which pages you have seen in each merchant's store.
+
+(4) Track your progress and number of entries in some of our promotions, sweepstakes and contests. When a promotion offered on or through the Sites uses cookies, the information written to the cookie indicates the player's progress through the promotion, and may be used to track entries, submissions, and status in prize drawings.
+
+(5) Measure certain traffic patterns, which areas of the Network you have visited, and your visiting patterns in the aggregate. We use this research to understand how our Users' habits are similar or different from one another so that We can make each new experience on the Network a better one. We may use this information to better personalize the content, banners, and promotions that you and other Users will see on the Network.
+
+Advertising networks that serve ads onto the Sites may also use their own cookies.
+
+WMAC also collects IP addresses for system administration and to report aggregate information to our advertisers. In addition, WorkingMother.com Mail includes IP addresses in outgoing mail message headers.
+
+Please note that third-party advertisers and other third parties may collect information about you, through cookies or other technologies, when you visit their Web sites or when they serve advertisements through the Services and/or the Sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to the Sites and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.247media.com/privacy/optad.html) and [here](https://web.archive.org/web/20011217224631id_/http%3A//www.workingmother.com/corp/www.networkadvertising.org). Also, the Services and the Sites contain links to other third party Web sites, which may or may not be operated in conjunction with the Sites. We do not monitor or control the information collection or privacy practices of third parties, and are not responsible for their practices or the content of their Web sites, including, without limitation, their use of any information (such as IP number, browser type, or operating system) collected when you "click through" links to their Web sites. Please contact such third parties if you have any questions about their respective privacy policies.
+
+3\. How your information is used
+
+(1) Non-personally identifiable information:  
+We use non-personally identifiable information in aggregate form to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our Visitors, and by measuring demographics and interests regarding specific areas of the Sites. We may provide statistical information based on this data to advertisers, affiliates, clients, and other current and potential business partners.
+
+(2) Personally identifiable information:  
+WMAC's primary goal in collecting personal information is to provide you, the User, with a customized experience on the Network. This may include (but is not exclusive to) personalization services, interactive communications, online shopping and many other types of services, most of which are completely free to you. In order to provide services free of charge, We display advertisements. By knowing a little about you, WMAC is able to deliver more relevant advertisements and content, and hence better service, to you.
+
+In the role of delivering targeted advertisements that WMAC plays, the advertisers give Us an advertisement and tell Us the type of audience they want to reach (for example, females over 35 years old). WMAC takes the advertisement and displays it to Users meeting that criteria. In this process, the advertiser never has access to individual account information. Only WMAC has access to individuals' accounts. This kind of advertisement targeting is done with banner ads as well as promotional email through the Sites. You will only receive special offers via email from WMAC if you have indicated in your account preferences that you would like to receive them. You can change your account preferences at any time.
+
+When you place an order with WMAC, and not with any of our partners, We ask for additional information (including, for example, your full billing address, your shipping address, your credit card number and expiration date, and phone number(s), as well as other personally identifiable information necessary to confirm your identity with the credit card company (e.g., mother's maiden name)). We consider this information to be highly confidential. This information is kept on a secure server to protect it from outside parties. We share this information only with our fulfillment vendors and other third parties, who will only use this information to fulfill your order and generate aggregated statistical information, but such aggregated information will exclude your credit card number and expiration date and any other personally identifiable information.
+
+We reserve the right to disclose information concerning any User of the Services and/or the Sites as We reasonably feel is necessary to protect our systems or business. Specifically, but without limitation, We reserve the right to disclose such information when a Visitor is in violation of our Terms of Use, or other published guidelines, or partakes (or is reasonably suspected of partaking) in any harmful, infringing, or illegal activity. To the extent permitted by law, We reserve the right to disclose such information without a subpoena, warrant, or other court order, and to disclose such information in response to court and governmental orders, civil subpoenas, discovery requests, as otherwise required by law, or in response to allegations of infringement. Subject to applicable privacy laws, We cooperate with law enforcement agencies in identifying those who may be using our Services and/or Sites for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution, or to suspend or terminate your use of any Services and/or Sites in connection with any suspected illegal activity.
+
+4\. Who is collecting your information
+
+When you are on the Sites and are asked for personal information, you are sharing that information with WMAC alone, unless you are signing up for Services provided to Us by a partner company. In order to provide this co-branded Service to you, it is necessary for Us to share your personal information with our partner company to open up an account for the Service. By signing up for the Service, you will be permitting the partner company to receive your personal information to ensure proper service to you. Promotions that run on the Sites may be sponsored by companies other than WMAC or may be cosponsored by WMAC and another company. Some or all data collected during a promotion may be shared with the sponsor. You can decide not to participate in the promotion if you don't want your data to be shared.
+
+Please be aware that WMAC Internet access partners, advertisers, and Web sites that have links on the Sites may collect personally identifiable information about you. The information practices of those Internet access partners, advertisers, and Web sites linked to the Sites are not covered by this privacy statement.
+
+5\. How you can access, update and change your information
+
+You may change your information such as email address by contacting us. You may choose to "opt out" of receiving promotional materials related to third party goods or services. If you do not "opt out" of receiving such promotional materials, WMAC reserves the right to email you promotional materials related to third party goods and/or services.
+
+WMAC may occasionally need to send you messages pertaining to your use of the Services and/or the Sites, and you will not be able to "opt out" of receiving such messages. These messages are limited in that they, among other things, will clearly indicate the originator of the email. 
