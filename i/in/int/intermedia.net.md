@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603063534id_/http%3A//intermedia.net/legal/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224015537id_/http%3A//intermedia.net/legal/privacy_statement) for the most accurate reproduction.*
 
 # Intermedia.NET - Legal: Legal & Policies
 
@@ -58,8 +58,8 @@ If you wish to terminate your account or opt-out of receiving communications fro
 If you have any questions about this privacy statement, the privacy practices of our web sites, or your dealings with Intermedia.NET's web sites, you may contact:
 
 Intermedia.NET Legal  
-800 California Street, Suite 200  
-Mountain View, California 94041  
+150 Mathilda Place, Suite 104  
+Sunnyvale, California 94086  
 [privacy@intermedia.net](mailto:privacy@intermedia.net)
 
 **Updates to Privacy Policy**
