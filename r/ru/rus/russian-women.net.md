@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209154616id_/http%3A//russian-women.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602185914id_/http%3A//www.russian-women.net/privacy.shtml) for the most accurate reproduction.*
 
 # Russian women - Privacy Statement
 
