@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201194157id_/http%3A//www.loudoun.gov/general/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203002629id_/http%3A//www.loudoun.gov/general/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Practices and Security Policy
 
@@ -7,12 +7,11 @@ Loudoun County Government respects your privacy! The information below explains 
 
 #### Collecting Information
 
-****
-  1. **What information is collected?**
+**
+  1. What information is collected?
+**
 
-For each visitor, the County collects the following information: the Internet Protocol (IP) address, type of browser used, the date and time of the visit, the addresses of the pages on this web site to which you link during a visit to the County's web site. If you fill out County forms online the data that you enter into the forms are also collected and used for the sole purpose of the form.
-
-  
+For each visitor, the County collects the following information: the Internet Protocol (IP) address, type of browser used, the date and time of the visit, the addresses of the pages on this web site to which you link during a visit to the County's web site. If you fill out County forms online the data that you enter into the forms are also collected and used for the sole purpose of the form. ****
 
 **
   2. Is any information collected automatically just by accessing this web site?
