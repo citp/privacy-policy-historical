@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205114304id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410200528id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
 
 # Compare prices on new, used, and out of print books and textbooks
 
