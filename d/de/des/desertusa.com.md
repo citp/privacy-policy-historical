@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619235623id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # About DesertUSA - Who We Are
 
-##   
-General Information  
-
+###   
+General Information
 
 ####   
 
@@ -35,7 +34,7 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20000619235623id_/http%3A//www.desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -44,9 +43,9 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
   
 A Resource for Educators and Students
 
-Digital West Media, Inc. grants educators permission to use materials and resources from the DesertUSA Web site in their classrooms, free of charge. Please contact us via e-mail at [Permissions](mailto:permission@desertusa.com), or phone us at 858-684-5246, ext. 109 for details.
+Digital West Media, Inc. grants educators permission to use materials and resources from the DesertUSA Web site in their classrooms, free of charge. Please contact us via e-mail at [Permissions](mailto:permission@desertusa.com), or phone us at 858-673-6001, ext. 101 for details.
 
-**Special news for teachers and schools,** DesertUSA.com online store now accepts purchase orders from schools, libraries and educational districts. Just use the standard order form and select (I would rather fax my order) instead of the submit order button. Next, print out the form and mail or fax it to DesertUSA.com with a copy of your purchase order. Minimum order is $30.00. FAX 858 536 5794
+**Special news for teachers and schools,** DesertUSA.com online store now accepts purchase orders from schools, libraries and educational districts. Just use the standard order form and select (I would rather fax my order) instead of the submit order button. Next, print out the form and mail or fax it to DesertUSA.com with a copy of your purchase order. Minimum order is $30.00. FAX 858 673 6007
 
 ### 
 
@@ -64,7 +63,7 @@ DesertUSA.com offers free micro Web sites to parks, monuments, recreation areas 
   
 Licensing
 
-If you would like information about licensing materials from DesertUSA, please contact us via e-mail at [Permissions](mailto:permission@desertusa.com), or phone us at 858-684-5246, ext. 109.
+If you would like information about licensing materials from DesertUSA, please contact us via e-mail at [Permissions](mailto:permission@desertusa.com), or phone us at 858-673-6001, ext. 101.
 
 ### 
 
@@ -73,7 +72,7 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20000619235623id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20000619235623id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
 
 ### 
 
@@ -119,9 +118,9 @@ DesertUSA.com works with a third party that serves ads to this site. To find out
   
 
 
-#### DesertUSA Magazine Staff **Publisher:** [Digital West Media Inc.](mailto:jim@desertusa.com) | **Sales/Marketing Director:** [Jim Bremner](mailto:jim@desertusa.com)  
+#### DesertUSA.Com Staff **Publisher:** [Digital West Media Inc.](mailto:jim@desertusa.com) | **Sales/Marketing Director:** [Jim Bremner](mailto:jim@desertusa.com)  
 ---|---  
-**Editor in Chief:**[ Lynn Bremner](mailto:lynn@desertusa.com) | **Copy Editor:**[Jay W. Sharp](https://web.archive.org/web/20000619235623id_/http%3A//www.desertusa.com/who/pro_sharp.html)  
+**Editor in Chief:**[ Lynn Bremner](mailto:lynn@desertusa.com) | **Copy Editor:**[Jay W. Sharp](https://web.archive.org/web/20001205173700id_/http%3A//www.desertusa.com/who/pro_sharp.html)  
 **Anthropology Editor:** Steve Crouthamel | **Zoology Editor:** Jerrold J. Feldner  
 **Botany Editor:** Wayne P. Armstrong | **Geology Editor:** Steve Spear  
 **Production/Programming:** Kristine Cole |   
@@ -132,12 +131,11 @@ DesertUSA.com works with a third party that serves ads to this site. To find out
 DesertUSA.com  
 Digital West Media Inc.  
 16855 West Bernardo Drive  
+Suite 240  
 San Diego, CA 92127
 
 #### 
 
-858 673 6001  
+858 673 6001 Ext 101  
 Fax 858 673 6007  
 
-
-#### 
