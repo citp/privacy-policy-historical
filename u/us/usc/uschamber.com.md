@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193954id_/http%3A//www.uschamber.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210123653id_/http%3A//www.uschamber.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for uschamber.com/uschamber.org
 
