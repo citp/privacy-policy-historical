@@ -1,39 +1,36 @@
-> *The following text is extracted and transformed from the gatecitybank.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401131925id_/http%3A//www.gatecitybank.com/online_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatecitybank.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207073154id_/http%3A//www.gatecitybank.com/online_privacypolicy.asp) for the most accurate reproduction.*
 
 # Gate City Bank / Online Banking Privacy Policy
 
 **Privacy Notice**
 
-You have trusted Gate City Bank with your financial matters for over 78 years. You have trusted Gate City Bank to provide you with the best products and services available. Gate City is dedicated to protecting the information we collect, maintain and use to provide financial products for you. To help you better understand our commitment to protect your personal information, we are providing you with the following notice describing our practice with respect to the privacy and confidentiality of customer information. We value your business and thank you for putting your trust in Gate City Bank. 
+You have trusted Gate City Bank to provide you with the best products and services available. 
 
-Information about you comes from applications or other forms, transactions with us or others, and information we receive from consumer reporting agencies. We may collect information such as: 
+Gate City is dedicated to protecting the information we collect, maintain and use to provide financial products for you. To help you better understand our commitment to protect your personal information, we are providing you with this notice describing our practice with respect to the privacy and confidentiality of customer information. 
 
-  * Your name, address, telephone number, social security number, income, and current and past employers; 
-  * Information which you provide to us in deposit and loan product applications; 
-  * Account balances (both deposits and loans), and transaction histories with us. 
+We value your business and thank you for putting your trust in Gate City Bank. 
 
-We do not disclose any non-public personal information about our customers or former customers to anyone, except in strict adherence as permitted by law. In the event your customer relationship ends with Gate City Bank, we will continue to adhere to the policies and practices described in this notice. 
+Information about you comes from applications or other forms, transactions with us or others, and information we receive from consumer reporting agencies, such as: 
 
-To the extent permissible under the Privacy Law, we may share collected information described above with agents or providers whom we have joint marketing agreements to service your account, and may offer you products or services we believe you would find valuable. We may, under limited circumstances, share information with companies to process and/or service your transactions, report to service bureaus, manage risk, provide you access to products and services, or because these companies help us perform necessary business functions or services. These companies are required by law to maintain the confidentiality of information about you we provide to them. Also, we will insist through a written agreement, that they agree to privacy policies similar to those of Gate City Bank. 
+  * Information we receive from you on your applications or other forms, including your name, address, telephone number, social security number, income and current and past employers.
+  * Information about your transactions with us, our affiliates or others, including account balances, payment history, parties to the transaction and credit card usage. 
+  * Information we receive from a consumer reporting agency such as your creditworthiness and credit history.
 
-We will collect and retain information about you only for specific business purposes, and upon your request, we will tell you why we are collecting or retaining such information. Gate City Bank uses this information to protect and administer your relationship with us: 
+  
+**_We do not disclose any non-public personal information_** about our customers or former customers to anyone, except as follows: 
 
-  * In order to comply with certain laws and regulations; 
-  * To help us design or improve our products and services; 
-  * To allow Gate City Bank to better serve you. 
+As permitted under applicable law, we may share any of the information mentioned above with non-affiliated companies to process and/or service your transactions, manage risk, and provide you access to products and services we provide or offer through such parties or for any other purpose as permitted by law. The companies to whom we provide information are required by law to maintain the confidentiality of information about you we provide them. Also, we will insist through written agreement, that they agree that such information may be used and disclosed by them under privacy policies similar to those of Gate City Bank. 
 
-We may share this information with others to the extent permitted by law and in accordance with our information sharing policies and practices which are reflected below. 
+Following receipt of written consent or authorization, we may disclose non-public personal information about you to the extent authorized by you. 
 
-Gate City Bank does not disclose your account number or access codes for a credit card, deposit account, or other transaction account to nonaffiliated third parties in order for them to market or sell products and/or services to you. 
+We may disclose non-public personal information about you to persons or entities permitted by law to receive such information without your consent. For example, we may give your account number to consumer reporting agencies when we are required to do so by applicable law. Moreover, to the extent authorized by law, we may release non-public personal information about pursuant to a subpoena or similar legal process demanding release of information about you. We will generally attempt to notify you before releasing non-public personal information about pursuant to legal process, unless (i) we believe we are prohibited from doing so, or (ii) it is impracticable to notify you within the time period allowed for complying with the legal process. 
 
-We may give your account number to consumer reporting agencies when we are required to do so by applicable law. If we receive a subpoena or similar legal process demanding release of any information about you, we will generally attempt to notify you (unless we believe we are prohibited from doing so.) 
+In the event you customer relationship with Gate City Bank ends, we will continue to adhere to the policies and practices described in this notice. 
 
-We understand that the protection of your non-public personal information is of the utmost importance. Guarding your privacy is our obligation. 
+**Gate City Bank does not disclose your account number or access codes** for a credit card, deposit account, or other transaction account to non-affiliated third parties in order for them to market or sell products and/or services to you. 
 
-Gate City Bank maintains strict procedures and policies to safeguard your privacy. We restrict access to non-public personal information about you to those employees who have a business reason to know that information to provide products or services to you, or for other business reasons. We educate our employees about the importance of confidentiality and customer privacy. Our employees are prohibited from providing information about you to anyone in any manner which would violate either applicable law or our Privacy Policy. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your non-public personal information. 
+**Gate City Bank maintains strict procedures and policies to safeguard your privacy**. We restrict access to non-public personal information about you to those parties who have a business reason to know that information to provide products or services to you, or for other business reasons. We educate our employees about the importance of confidentiality and customer privacy. Our employees are prohibited from providing information about you to anyone in any manner which would violate either applicable law or our Privacy Policy. We also maintain physical, electronic and procedural safeguards that comply with federal standards to guard your non-public personal information. 
 
-Gate City Bank has established procedures to ensure that your information is accurate, current and complete in keeping with reasonable commercial standards. 
-
-At Gate City Bank we value your trust. Therefore, we want you to understand how we use this information you provide to us and our commitment to ensuring your personal privacy. If you have any questions about how Gate City Bank protects your confidential information, or if you believe that any information collected or furnished by Gate City Bank is inaccurate, please contact us at 800-423-3344. We will investigate problems and will take appropriate action in a timely manner. 
+**At Gate City Bank we value your trust**. We understand that the protection of your non-public personal information is of the utmost importance. Guarding your privacy is our obligation. Therefore, we want you to understand how we use the information you provide to us and our commitment to ensuring your personal privacy. If you have any questions about how Gate City Bank protects your confidential information, or if you believe that any information collected or furnished by Gate City Bank is inaccurate, please contact us at 800-423-3344. We will investigate problems and will take appropriate action in a timely manner. 
 
 Again, thank you for putting your trust in us. 
