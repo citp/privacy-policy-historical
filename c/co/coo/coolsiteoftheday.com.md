@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolsiteoftheday.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604042224id_/http%3A//coolsiteoftheday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsiteoftheday.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119125650id_/http%3A//coolsiteoftheday.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Cool Site of the Day
 
@@ -8,7 +8,7 @@ Certain forms or polls used on Cool Site of the Day may from time to time requir
 
 This site contains links to other sites. Cool Site of the Day is not responsible for the privacy practices or the content of such Web sites.
 
-Our site uses a secure merchant account order form for visitors to submit their sites to Cool Site of the Day. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send visitors information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for services relating to the review of their submissions.
+Our site uses a secure merchant account order form for visitors to submit their sites to Cool Site of the Day. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send visitors information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used  to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for services relating to the review of their submissions.
 
 Our online surveys may from time to time ask visitors for demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, and improve on the information that we include based on our visitors responses.
 
@@ -43,4 +43,6 @@ C Notes Interactive, Inc.
 P.O. Box 439  
 Chappaqua, NY 10514
 
-mike@coolsiteoftheday.com
+[mike@coolsiteoftheday.com](mailto:mike@coolsiteoftheday.com)
+
+Back to [**Cool Site of the Day**](http://www.coolsiteoftheday.com/)
