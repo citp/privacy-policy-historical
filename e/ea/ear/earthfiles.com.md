@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthfiles.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215203233id_/http%3A//www.earthfiles.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthfiles.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623085959id_/http%3A//www.earthfiles.com/privacy.cfm) for the most accurate reproduction.*
 
 # Earthfiles.com
 
