@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aimoo.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609141222id_/http%3A//aimoo.com/privice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimoo.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003211009id_/http%3A//www.aimoo.com/privice.cfm) for the most accurate reproduction.*
 
-# Free message board, free poll, free chatroom, online community
+# Aimoo Messageboards - Free Message Boards for webmasters
 
   
 **Privacy Statement for Aimoo Online Community**
