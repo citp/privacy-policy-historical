@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605095959id_/http%3A//www.internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115514id_/http%3A//internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
 
 # InternetRetailer.com - Press Releases
 
-| 
-
-[](http://www.internetretailer.com/signupIR.asp)
-
-[](http://www.bugfree.com/)
-
-|  |   
+|  |  |   
   
 **Vertical Web Media Privacy Policy**
 
