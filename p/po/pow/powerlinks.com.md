@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619083914id_/http%3A//www.powerlinks.com/index_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031081610id_/http%3A//www.powerlinks.com/index_privacy.htm) for the most accurate reproduction.*
 
 # PowerLinks: A Portal For Business Opportunities Created By International Developers
 
