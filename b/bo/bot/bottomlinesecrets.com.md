@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402001751id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210060425id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web site Privacy Policy
 
