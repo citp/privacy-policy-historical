@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603195015id_/http%3A//www.broadway.com/footer/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205234830id_/http%3A//broadway.com/footer/privacy.cfm) for the most accurate reproduction.*
 
 # Broadway.com On Stage! Online.
 
@@ -24,7 +24,7 @@ Users that Broadway.com knows to be under the age of 13 are hereby required to p
 
 This site contains links to other sites. Broadway.com is not responsible for the privacy practices or the content of such Web sites.
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/privacy_policy/). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+The ads appearing on this Web site are delivered to you by either (a) one of our Web advertising partners, L90 or DoubleClick or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser type (for example, Netscape or Internet Explorer), the type of computer operating system you use (Macintosh or Windows, for instance) and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personal information), is used to serve advertisements to you on this site. We may use your zip code or geographical location information to serve advertisements to this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/privacy_policy/). For more information on L90's privacy policy, cookies and how to "opt-out", please click [here](http://www.l90.com/corporate/privacy_policy/index.html). 
 
 This site uses the services of Engage and iBEAM for the serving and/or targeting of ads, promotions, and other marketing messages. To do this, Engage or iBEAM collects and stores anonymous data typically through the use of cookies. To learn more about Engage or iBEAM, including your ability to opt out of the Engage system, go to [ http://www.engage.com/privacy](http://www.engage.com/privacy) or to iBEAM at [ http://www.ibeam.com/privacy.html](http://www.ibeam.com/privacy.html). 
 
@@ -69,4 +69,4 @@ Broadway.com c/o Hollywood.com, Inc.
 2255 Glades Rd., Suite 237W  
 Boca Raton, FL 33431-7383  
 or email us at feedback@boca.broadway.com  
-© 2000 Hollywood.com, Inc.
+© 2001 Hollywood.com, Inc.
