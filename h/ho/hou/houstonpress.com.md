@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605084334id_/http%3A//www.houstonpress.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207043920id_/http%3A//www.houstonpress.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Houston Press | houstonpress.com | About |
+# houstonpress.com | About
 
 ****
 
