@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605015011id_/http%3A//www.techcu.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204072452id_/http%3A//www.techcu.com/privacy/index.html) for the most accurate reproduction.*
 
 # Technology Credit Union
 
 Technology Credit Union,   
 Tech CU Financial Services , Inc. (Including the Car Store) 
+
+Effective Date: 7/21/2004
 
 Privacy and Security
 
@@ -11,9 +13,9 @@ Whether you are a current or former Technology Credit Union member, Tech CU Fina
 
 The following links provide information explaining how we strive to safeguard your personal information. We also recommend that you read the tips section to find out what you can do to protect your personal information.
 
-[Privacy Policy](https://web.archive.org/web/20040605015011id_/http%3A//www.techcu.com/privacy/index.html)   
-[Online Privacy and Security ](https://web.archive.org/web/20040605015011id_/http%3A//www.techcu.com/privacy/privacy_2.html)  
-[Maximize Your Safety Online \- Tips and Links](https://web.archive.org/web/20040605015011id_/http%3A//www.techcu.com/privacy/privacy_3.html)
+[Privacy Policy](https://web.archive.org/web/20041204072452id_/http%3A//www.techcu.com/privacy/index.html)   
+[Online Privacy and Security ](https://web.archive.org/web/20041204072452id_/http%3A//www.techcu.com/privacy/privacy_2.html)  
+[Maximize Your Safety Online \- Tips and Links](https://web.archive.org/web/20041204072452id_/http%3A//www.techcu.com/privacy/privacy_3.html)
 
 Privacy of Member and Former Member Information 
 
@@ -31,7 +33,6 @@ Topics
   * Third parties to whom we may disclose information about you
   * Specific examples of third parties to whom we disclose information
   * Do third parties share or sell information?
-  * Does the Credit Union exchange information about me with Tech CU Financial Services, Inc.?
   * Our maintenance of the privacy and security of your information
   * Our right to change this policy
   * Opting Out
@@ -83,7 +84,7 @@ Specific examples of third parties to whom we may disclose information
 Following are some specific examples of the types of third parties to whom we may disclose information to::
 
   * Credit bureaus;
-  * Third party vendors that assist us with providing or marketing member services, such as check printers, mortgage lenders, mail houses, plastic card processors, credit life and disability insurance providers, collateral appraisers and vehicle dealers participating in our dealer loan programs;
+  * Third party vendors that assist us with providing or marketing member services, such as check printers, mortgage lenders, mail houses, plastic card processors, credit life and disability insurance providers, collateral appraisers, vehicle dealers participating in our dealer loan programs, bill payment service providers, credit bureaus, eFunds (Qualifile), and other electronic service providers upon your (member) initiated request;
   * Third parties with whom we have joint marketing arrangements;
   * Third parties who are involved in your transactions, such as the Federal Reserve and other financial institutions that process your checks, automated clearinghouse (ACH) transactions and ATM transactions;
   * Third parties whose services are necessary to meet our business needs, such as the Department of Motor Vehicles, companies that insure collateral you have pledged as security for Credit Union loans, and debt collectors.
@@ -93,10 +94,6 @@ Following are some specific examples of the types of third parties to whom we ma
 Do third party vendors share or sell information about me?
 
 When we share information with a third party , we take every precaution to ensure that your information is protected. All third parties that offer their services or products to a Technology Credit Union member must agree in writing to our privacy standards.
-
-Does the Credit Union exchange information about me with Tech CU Financial Services, Inc.?
-
-The Credit Union and Tech CU Financial Services, Inc. (including the Car Store) may exchange information about you other than their transactions and experiences with you.
 
 Our maintenance of the privacy and security of your information:
 
@@ -108,10 +105,10 @@ This policy is effective July 1, 2001. We can change this policy by notifying yo
 
 Opting Out:
 
-If you do not want us to give information about you to third parties who are selling their own products or services, and do not want us to exchange information other than transactions and experiences between the Credit Union and Tech CU Financial Services, Inc. (including the Car Store), you can opt out at any time by:
+If you do not want us to give information about you to third parties who are selling their own products or services, you can opt out at any time by:
 
   * Calling (408) 451-9111 or (800) 553-0880 (outside the 408 area code) 
-  * Completing the following form and returning it in person to any [Technology Credit Union branch](https://web.archive.org/web/20040605015011id_/http%3A//www.techcu.com/branches/index.html), or mailing it to us at the address given on the [form](https://web.archive.org/privacy/form.pdf). 
+  * Completing a form at any [Technology Credit Union branch](https://web.archive.org/web/20041204072452id_/http%3A//www.techcu.com/branches/index.html). 
   * Completing the following [secure online form](https://webbranch.techcu.com/onlineapps/optout.asp)
 
 
