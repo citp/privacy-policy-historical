@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602112222id_/http%3A//www.pharmacy2u.co.uk/info.privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014131348id_/http%3A//www.pharmacy2u.co.uk/info.privacy.asp%3F) for the most accurate reproduction.*
 
 # A wide range of perfume and fragrances available at Pharmacy2U
 
@@ -17,5 +17,3 @@ Pharmacy2U may sell, trade or rent your personal information to others. Pharmacy
 **Your Consent**
 
 By using our Web site, you consent to the collection and use of information you submit by Pharmacy2U for the purposes described above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, and how we use it. 
-
-If you have any questions please feel free to email Pharmacy2U's Customer Service Manager [Hazel Wriglesworth](mailto:hazel@pharmacy2u.co.uk)
