@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2004-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041024192351id_/http%3A//www.stlouisrams.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2005-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050217104010id_/http%3A//www.stlouisrams.com/privacypolicy) for the most accurate reproduction.*
 
 # The official site of the St. Louis Rams - Privacy Policy
 
@@ -9,6 +9,8 @@
 **
 
 This privacy policy is applicable to the Website accessible at stlouisrams.com (collectively the 'Site'), which is operated pursuant to a strategic relationship between the St. Louis Rams and Network Applications (collectively, the 'PROVIDERS', 'we', 'our', or 'us'). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+
+The St. Louis Rams will use information in compliance with all Federal and State laws, rules and regulations including, but not limited to, the CAN-SPAM Act of 2003.
 
 **Types of Information  that may be Collected**    
 The following are the types of information we may collect: 
