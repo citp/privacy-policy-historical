@@ -1,47 +1,53 @@
-> *The following text is extracted and transformed from the easier.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607035603id_/http%3A//www.easier.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easier.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210045959id_/http%3A//www.easier.com/ads/Information/Privacy_Policy) for the most accurate reproduction.*
 
-# Internet Property Index
+# Easier.com Privacy Policy
 
-**EASIER.COM  
-PRIVACY POLICY**
+**Introduction**
 
-  
-At Easier user privacy is of utmost concern. We are committed to your privacy and security, and to providing you the best possible user experience. We may update this policy from time to time, so please check here frequently. 
+Your privacy is important to us. Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. 
 
-What do we mean by privacy? We will never disclose your information to any third party without your consent, except in limited circumstances to our business partners with whom we have established agreements that protect your privacy 
+**1\. Collection of Data.**
 
-Here's how we collect and use information from you in our efforts to provide the highest quality user experience: 
+To use certain services on the Easier.com web site a user may be required to register. We only collect personal information about you that we consider necessary for this purpose. 
 
-IP Address - Your IP or "Internet Protocol" address and other site usage data is used to gather broad demographic information. This data helps us serve you by allowing us to understand how visitors use our web sites. 
+**2\. Information We Collect.**
 
-Cookies - Our sites use a technology called "cookies," small files stored by your browser to help keep track of your user profile. Our cookies do not collect personally identifiable information, nor do we share them with anyone. We use cookies to remember your personal profile for your convenience, to deliver content specific to your needs and interests, and to ensure you don't see the same ad repeatedly. We also use cookies to track user trends and improve areas of our sites that our users find valuable. 
+In general, you can browse the Easier.com web site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, financial information and other personal information as indicated on the forms throughout the Easier.com web site. Where possible, we indicate which fields are required and which fields are optional. You always have the option not to provide information by choosing not to use a particular service or feature. 
 
-Ads - We sometimes use outside companies to display advertising on our web sites. These ads may place cookies on your computer, which are referenced by our ad companies. We do not have access to this information. We use customer contact information from registration forms to send you information related to our products and services if you consent to receiving such mailings. Your contact information may also be used to contact you when necessary for administrative purposes related to your account. We use your email as a unique identifier in our record system, to verify communications from you, and to send you newsletters and promotion offerings that you ask to receive or to tell you about changes to the Easier website. 
+We automatically collect and process certain information based upon your use of the Easier.com web site. We use this information to conduct internal research on our users' demographics, interests, and behaviour to better understand, serve and protect you and our community. This information may include the URL that you just came from (whether this URL is on the Easier.com web site or not), which URL you next go to (whether this URL is on the Easier.com web site or not), browser information, and your IP address. 
 
-Demographic information and site usage data is also collected on our sites. We use this data to tailor your experience, allowing us to provide content related to your preferences and information on products or services we think you may be interested in. 
+We use data collection devices such as "cookies" on certain pages of the Site. "Cookies" are small files placed on your hard drive that assist us in providing customised services and to help promote safer trading. We also offer certain features that are only available through the use of a cookie. We also use cookies to allow you to enter your password less frequently while you are using the Easier.com web site. Most cookies are "session cookies", meaning that they are automatically deleted from your hard drive at the end of a session using the Easier.com web site. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Easier.com web site and you may be required to re-enter your password more frequently while you are using the Easier.com web site. 
 
-Email Services - If you take advantage of any email notification features on our sites, you will receive email updates as described in the service. The Easier website provides users the opportunity to opt-out of receiving communications from our partners and us. Users can remove their personal information from the database of a particular site by sending a request by email to support@easier.com, by typing, "unsubscribe" in a response to the email received. 
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Easier.com web site, we may collect such information into a file specific to you. 
 
-Contests and Surveys - Online, we may also survey visitors for contact information, unique identifiers and demographic information. You are never required to answer these questions. The information you submit may be used for analyzing overall site demographics, user preferences and tastes, and similar "getting to know our customers" purposes. We may disclose this data to third parties in an aggregated form (such as summary reports for our advertisers) but never with user data or identification assigned to the information provided. 
+**3\. Our Use of Your Information.**
 
-When you enter a contest, we will require that you submit a limited amount of personally identifiable data such as contact information. We may also ask you questions related to your preferences and age or background. We will designate which questions are required to be answered in order to enter the contest. The information you submit may be used to analyze site demographics and user preferences, and for similar "getting to know our customer" purposes. We may share this data with third parties in aggregate form only (as in summary reports to advertisers), and never in the form of personally identifiable information. 
+We use information in the files we maintain about you, and other information we obtain from your current and past activities on the Easier.com web site, to resolve disputes, provide customer support, troubleshoot problems and enforce our Terms of Use. 
 
-Your Security - Easier, and its affiliates have taken the following important measures to protect against loss, misuse or alteration of your personal information. First, we store no financial information or social security information on our sites. Although you may have to enter your credit card number or social security number twice, we think the benefits of security are worth it. When we do transmit your data, we use only Secure Servers using current encryption technology to encode your data safely. 
+You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customise the Easier.com web site content, layout, and services. These uses improve the Easier.com web site and better tailor it to meet your needs. 
 
-The personal data we do store on our system is protected by firewall and password. Our network firewall is a combination of hardware and software designed to keep unauthorized users from accessing our network. The password you select, along with your unique email address, prevents others from accessing your information. We suggest that you do not disclose your password to anyone. 
+**4\. Our Disclosure of Your Information.**
 
-Outside Links - While on Easier, you may be led to other web sites. Be aware that other sites may collect data and personal information and operate according to their own privacy practices. Please remember that, once outside of our website, any information you submit is outside of our control. 
+Easier.com will never sell or rent your personal information to third parties for their marketing purposes without your explicit consent. 
 
-Disclosure - To provide you the best products and services, we team with business partners. When you indicate that you want to receive a product or service, or contact a person or organization, we share the data needed for you to receive what you have indicated. Occasionally, we hire consultants that may need access to our member database to perform their services for us. We take great care to require that these business partners agree by contract not to use any member information that they may receive access to. 
+By listing or advertising an item on the Easier.com web site you must provide a valid email address as a form of contact for the item. Your email address will not be revealed to another user unless you contact them. Although our pages are coded with robot exclusion headers, individuals and corporations may illegally attempt to automatically collect your email address from our web site. 
 
-Easier may contract with outside companies to administer our mailing lists or provide retail services. Your personal information may be shared with an outside company for the sole purpose of administering the products, services and programs you have selected. 
+We aggregate (gather up data across all user accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number, and bank account number are never disclosed to third party advertisers. 
 
-Choice/Opt-out - The Easier website provides you the opportunity to opt out of receiving communications from our partners and us. To remove your personal information from one of our web sites, email a request to the site at the address listed in "Contacting Us." To remove your name from an email service, simply reply to the email and type "Unsubscribe" in the subject line. 
+We cannot ensure that all of your communications with Easier.com and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your information that they collect from the Easier.com web site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or communications with Easier.com will always remain private. 
 
-Correct or Update - You can change or update your personal information for a particular ad, such as the Easier by going to the "Modify your ad" or " cancel your ad" section of the site and following instructions to update your information. 
+**5\. Control of Your Password.**
 
-Contacting Us - If at any time you feel that the Easier website has not adhered to this policy, email us at webmaster@easier.com and we'll do our best to determine any problem and quickly respond. If you have questions or concerns about our privacy policy, please contact us at webmaster@easier.com and check this page periodically for changes in our privacy policy. 
+You are responsible for all actions taken with your login and password, therefore we do not recommend that you disclose your Easier.com password to any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password or account has been compromised for any reason, you should immediately change your password. 
 
-This Easier, privacy policy does not extend to any information that is inherent in the operation of the Internet, and therefore beyond the control on Easier, and is not to be applied in any manner contrary to applicable law or governmental regulation. We reserve the right at our discretion to make changes to this policy at any time. 
+**6\. Editing or Deleting Your Login and Password.**
 
-Easier, and its affiliates may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on Easier, or its affiliates; (2) protect and defend the property or rights of Easier, and its affiliates or the users of Easier 
+We offer you the ability to automatically review and change the information you submit to us by logging into the Easier.com web site and entering in the new information yourself. You can change your login and password, adverts and listings by going to the "My Classifieds" section on the Easier.com web site. You must promptly update your personal information if it changes or is inaccurate. 
+
+**7\. Security**
+
+Easier.com uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including encryption, "firewalls" and Secure Socket Layers. Easier.com treats data as an asset that must be protected against loss and unauthorised access. We employ many different security techniques to protect such data from unauthorised access by users inside and outside the company. However, "perfect security" does not exist on the Internet. 
+
+**8\. Notice**
+
+We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings. 
