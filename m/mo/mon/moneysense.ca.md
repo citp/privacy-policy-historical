@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603070839id_/http%3A//www.rogersmagazines.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230231816id_/http%3A//www.rogersmagazines.com/privacy.htm) for the most accurate reproduction.*
 
 # Rogers Media Privacy Policy
 
-Thank you for your interest in our magazines and other services. We believe in giving you full disclosure about the kinds of information we gather and what we do with it, and in giving you a choice about the use of your personal information. A privacy notice will appear on every consumer magazine website and in every consumer magazine. We are a member of the Canadian Marketing Association and abide by its code of ethics and standards of practice, including its internet privacy policy. 
-
-This privacy statement represents the policy of the following Rogers' consumer brands and their websites: Maclean's, Chatelaine, Flare, L'actualité, Châtelaine (French), Canadian Business, Profit, MoneySense and Today's Parent. 
-
-Updates
+**Updates
 
 Personally identifiable information
 
@@ -68,5 +64,7 @@ Telephone: (416) 596-5523
 
 Fax: (416) 596-2510 
 
-Updates   
-From time to time, we may update our privacy statement. Please check back periodically.    
+**
+
+**Updates   
+From time to time, we may update our privacy statement. Please check back periodically.     **
