@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sgi.com privacy policy that was archived on 2002-02-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020204192632id_/http%3A//www.sgi.com/company_info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sgi.com privacy policy that was archived on 2002-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205062607id_/http%3A//www.sgi.com/company_info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
@@ -14,288 +14,69 @@
 
 
 <!-- Begin Header -->
-<script language="JavaScript" src="/js/style_sniffer.js"></script><link rel="stylesheet" type="text/css" href="/styles/unix.css">
-
-<!-- Stylesheet section is used to initialize the menus and the highlight menus -->
-<link rel="stylesheet" href="/styles/general.css" type="text/css">
-
 <style type="text/css">
 <!--
-#menu0	{	position: absolute; left: 156px; top: 79px; z-index: 101; visibility: hidden; width: 107px;}
-#menu0overs {	position: absolute; left: 156px; top: 79px; z-index: 111; visibility: hidden; width: 107px;}
-#menu1	{	position: absolute; left: 264px; top: 79px; z-index: 102; visibility: hidden; width: 110px;}
-#menu1overs {	position: absolute; left: 264px; top: 79px; z-index: 112; visibility: hidden; width: 110px;}
-#menu2	{	position: absolute; left: 375px; top: 79px; z-index: 103; visibility: hidden; width: 119px;}
-#menu2overs {	position: absolute; left: 375px; top: 79px; z-index: 113; visibility: hidden; width: 119px;}
-#menu3	{	position: absolute; left: 495px; top: 79px; z-index: 104; visibility: hidden; width: 167px;}
-#menu3overs {	position: absolute; left: 495px; top: 79px; z-index: 114; visibility: hidden; width: 167px;}
-#menu4	{	position: absolute; left: 663px; top: 79px; z-index: 106; visibility: hidden; width: 116px;}
-#menu4overs {	position: absolute; left: 663px; top: 79px; z-index: 116; visibility: hidden; width: 116px;}
-#menu5overs {	position: absolute; left: 615px; top: 45px; z-index: 400; visibility: hidden;}
-
-IMG.menu {border-bottom:1px white solid}
-BR.menu{margin-bottom:1px}
-
-DIV.print {	position: absolute; left: 0px; top: 80px; }
+DIV.menu	{ position: absolute; top: 79px; visibility: hidden;}
+#menu0		{ left: 156px; z-index: 101; width: 107px;}
+#menu1		{ left: 264px; z-index: 102; width: 110px;}
+#menu2		{ left: 375px; z-index: 103; width: 119px;}
+#menu3		{ left: 495px; z-index: 104; width: 167px;}
+#menu4		{ left: 663px; z-index: 106; width: 116px;}
+#menu0overs	{ left: 156px; z-index: 111; width: 107px;}
+#menu1overs	{ left: 264px; z-index: 112; width: 110px;}
+#menu2overs	{ left: 375px; z-index: 113; width: 119px;}
+#menu3overs	{ left: 495px; z-index: 114; width: 167px;}
+#menu4overs	{ left: 663px; z-index: 116; width: 116px;}
+#menu5overs	{ left: 615px; z-index: 400; top: 45px;}
 -->
 </style>
-<script language="JavaScript">
+<link rel="stylesheet" href="/styles/general.css" type="text/css">
+<script type="text/javascript" src="/js/style_sniffer.js"></script><link rel="stylesheet" type="text/css" href="/styles/unix.css">
+<script type="text/javascript" src="/js/nav_functions.js"></script>
+<script type="text/javascript">
 <!--
-
-window.onerror = null;
-window.defaultStatus = '';
-
-var initialized = 0;
-var menus = new Array();
-var menustatus = new Array();
-var menuovers = new Array();
-
-// initializes the menus into an array
-function init(){
-	if(isFour) {
-		for (var i=0;i<=5;i++) {
-			menustatus[i] = "closed";
-			if (document.layers) {
-				menuovers[i] = eval("window.document.menu"+i+"overs");
-				menus[i] = eval("window.document.menu"+i);
-				if (i < 5) menuovers[i].onmouseout = menuhider;
-			} else {
-				var tmnov = (document.all)?eval("document.all.menu"+i+"overs"):document.getElementById("menu"+i+"overs");
-				var tmn = (document.all)?eval("document.all.menu"+i):document.getElementById("menu"+i);
-				menuovers[i] = tmnov.style;
-				menus[i] = tmn.style;
-				if (i < 5) tmnov.onmouseout = menuhider;
-			}
-		}
-	}
-	initialized = true;
-}
-
-// Sets the selected menu to visible
-function change(Name,Image,No) {
-        if (initialized) {
-                document [Name].src = eval(Image + No + ".src");
-		if (Name == 'imgmenu0') document ['imgcrnr'].src = eval("nav_prod_corner" + No + ".src");
-        	var menunumber = parseInt(Name.charAt(7));
-        	if((isFour)&&(No)&&(menustatus[menunumber] == 'closed')) {
-			menuovers[menunumber].visibility = 'visible';
-			menuovers[menunumber].zIndex = '310';
-			menus[menunumber].visibility = 'visible';
-			menus[menunumber].zIndex = '300';
-			menustatus[menunumber] = 'open';
-	        }
-        }
-}
-
-// Clears all menus
+// Makes all menus invisible
 function clearmenus() {
 	if (initialized) {
-		change('imgmenu0','nav_prd',0);
-		change('imgmenu1','nav_sol',0);
-		change('imgmenu2','nav_dev',0);
-		change('imgmenu3','nav_srv',0);
-		change('imgmenu4','nav_fun',0);
-		if(isFour) {
-			for(i=0; i<menus.length; i++) {
-				if(menustatus[i] == 'open') {
-					menuovers[i].visibility = 'hidden';
-					menuovers[i].zIndex = '110';
-					menus[i].visibility = 'hidden';
-					menus[i].zIndex = '100';
-					menustatus[i] = 'closed';
-				}
-			}
-		}
+		if (menustatus[0]) change(0,'nav_prd',0);
+		if (menustatus[1]) change(1,'nav_ind',0);
+		if (menustatus[2]) change(2,'nav_dev',0);
+		if (menustatus[3]) change(3,'nav_srv',0);
+		if (menustatus[4]) change(4,'nav_fun',0);
 	}
 }
-
-// Turns the highlighted part of a menu to visible
-function imagerep(imgname, divname){
-	if(isFour){
-		if (document.layers)
-			eval("window.document."+divname+".document['"+imgname+"'].src="+imgname+"over.src")
-		else
-			eval("document['"+imgname+"'].src="+imgname+"over.src");
-	}
-}
-
-// Turns off the highlighted part of a menu
-function eraseimage(imgname, divname){
-	if(isFour) {
-		if(document.layers)
-			eval("window.document."+divname+".document['"+imgname+"'].src=blank.src");
-		else
-			eval("document['" + imgname + "'].src = blank.src");
-	}
-}
-
-// Used to clear the menu after the mouse leaves it
-function menuhider(evnt) {
-	if (initialized) {
-		if (window.event) {if (window.event.toElement.className != "menu") clearmenus();}
-		else if (evnt.relatedTarget) { if (evnt.relatedTarget.className != 'menu') clearmenus();}
-		else if (document.layers) clearmenus();
-	}
-}
-
-// Caches the dropdown menus
-if (document.images) {
-
-	// Products Menu
-	var serversover=new Image();
-	serversover.src="/images/nav/drop_prod_servers.gif";
-	var workstationsover=new Image();
-	workstationsover.src="/images/nav/drop_prod_workstations.gif";
-	var swover=new Image();
-	swover.src="/images/nav/drop_prod_soft.gif";
-	var vissysover=new Image();
-	vissysover.src="/images/nav/drop_prod_vissys.gif";
-	var storageover=new Image();
-	storageover.src="/images/nav/drop_prod_storage.gif";
-	var remanover=new Image();
-	remanover.src="/images/nav/drop_prod_reman.gif";
-	var peripheralsover=new Image();
-	peripheralsover.src="/images/nav/drop_prod_peripherals.gif";
-
-	// Solutions Menu
-	var manover=new Image();
-	manover.src="/images/nav/drop_sol_man.gif";
-	var scienceover=new Image();
-	scienceover.src="/images/nav/drop_sol_science.gif";
-        var defenseover=new Image();
-        defenseover.src="/images/nav/drop_sol_defense.gif";
-	var telcoover=new Image();
-	telcoover.src="/images/nav/drop_sol_telco.gif";
-
-	// Developers Menu
-	var toolsover=new Image();
-	toolsover.src="/images/nav/drop_dev_prod.gif";
-	var programsover=new Image();
-	programsover.src="/images/nav/drop_dev_prog.gif";
-	var libraryover=new Image();
-	libraryover.src="/images/nav/drop_dev_libr.gif";
-	var opensourceover=new Image();
-	opensourceover.src="/images/nav/drop_dev_oss.gif";
-	var opsysover=new Image();
-	opsysover.src="/images/nav/drop_dev_opsys.gif";
-	var resourcesover=new Image();
-	resourcesover.src="/images/nav/drop_dev_reso.gif";
-
-	// Support Menu
-	var profover=new Image();
-	profover.src="/images/nav/drop_supp_prof.gif";
-	var prdvtyover=new Image();
-	prdvtyover.src="/images/nav/drop_supp_prdvty.gif";
-	var ortover=new Image();
-	ortover.src="/images/nav/drop_supp_ort.gif";
-	var eduover=new Image();
-	eduover.src="/images/nav/drop_supp_edu.gif";
-	var onlineover=new Image();
-	onlineover.src="/images/nav/drop_supp_online.gif";
-
-	// Fun Menu
-	var gamesover=new Image();
-	gamesover.src="/images/nav/drop_fun_games.gif";
-	var webdevover=new Image();
-	webdevover.src="/images/nav/drop_fun_webdev.gif";
-	var softdevover=new Image();
-	softdevover.src="/images/nav/drop_fun_softdev.gif";
-	var graphicsover=new Image();
-	graphicsover.src="/images/nav/drop_fun_graphics.gif";
-	var sysadminover=new Image();
-	sysadminover.src="/images/nav/drop_fun_sysadmin.gif";
-	var freewareover=new Image();
-	freewareover.src="/images/nav/drop_fun_freeware.gif";
-
-	// Clear GIF
-	var blank=new Image();
-	blank.src="/images/dots/dot_clear.gif";
-
-	// Products Rollover
-	nav_prod_corner0=new Image();
-	nav_prod_corner0.src="/images/nav/nav_prod_corner0.gif";
-	nav_prod_corner1=new Image();
-	nav_prod_corner1.src="/images/nav/nav_prod_corner1.gif";
-	nav_prd0=new Image();
-	nav_prd0.src="/images/nav/nav_prod0.gif";
-	nav_prd1=new Image();
-	nav_prd1.src="/images/nav/nav_prod1.gif";
-
-	// Solutions Rollover
-	nav_sol0=new Image();
-	nav_sol0.src="/images/nav/nav_solutions0.gif";
-	nav_sol1=new Image();
-	nav_sol1.src="/images/nav/nav_solutions1.gif";
-
-	// Developers Rollover
-	nav_dev0=new Image();
-	nav_dev0.src="/images/nav/nav_dev0.gif";
-	nav_dev1=new Image();
-	nav_dev1.src="/images/nav/nav_dev1.gif";
-
-	// Support Rollover
-	nav_srv0=new Image();
-	nav_srv0.src="/images/nav/nav_support0.gif";
-	nav_srv1=new Image();
-	nav_srv1.src="/images/nav/nav_support1.gif";
-
-	// Fun Rollover
-	nav_fun0=new Image();
-	nav_fun0.src="/images/nav/nav_fun0.gif";
-	nav_fun1=new Image();
-	nav_fun1.src="/images/nav/nav_fun1.gif";
-}
-
-// Is This Netscape 4 or up?
-var isFour = (parseInt(navigator.appVersion) > 3);
-
-// RTP PopUp window
-function RateThisPage(w,h,myurl){
-        var winl = ((screen.width - w) / (9.5));
-        var wint = (screen.height - h) / (2);
-        winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars=no,noresizable'
-        var Win1=window.open(myurl,'Window1',winprops);
-        Win1.opener=self;
-}       
-
-
 //-->
 </script>
-
 </head>
-
-<body onload="init()" text="#000000" link="#0033CC" alink="#FF0000" vlink="#7C7F87" bgcolor="#FFFFFF" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
-
-<!-- Global Navigation Include (Generic) -->
+<body bgcolor="#FFFFFF" text="#000000" link="#0033CC" vlink="#7C7F87" alink="#FF0000" marginheight="0" marginwidth="0" onload="init()">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr bgcolor="#7C7F87">
-    <td rowspan="3" width="126"><a href="/"><img src="/images/common/sgi_logo_us.gif" alt="www.sgi.com" height="79" width="126" border="0"></a></td>
-    <td>
-	<table border="0" cellpadding="0" cellspacing="0" width="657" valign="top">
+<!-- Primary Navigation -->
+    <td rowspan="3" width="126"><a href="/"><img src="/images/common/sgi_logo_us.gif" height="79" width="126" border="0" alt="SGI Logo"></a></td>
+    <td width="100%">
+	<table border="0" cellpadding="0" cellspacing="0" width="654">
 	<tbody><tr>
-	    <td width="212"><img src="/images/dots/dot_clear.gif" width="1" height="54" alt=""></td>
-	    <td width="285" valign="top"><a href="/sales/"><img src="/images/nav/nav_buy.gif" height="21" width="60" border="0" alt="How to Buy"></a><img src="/images/nav/nav_top_spacer.gif" height="21" width="15" border="0" alt=""><a href="/resellers/"><img src="/images/nav/nav_resellers.gif" height="21" width="61" border="0" alt="Resellers"></a><img src="/images/nav/nav_top_spacer.gif" height="21" width="15" border="0" alt=""><a href="/company_info/"><img src="/images/nav/nav_company_info.gif" height="21" width="73" border="0" alt="Company Info"></a><img src="/images/nav/nav_top_spacer.gif" height="21" width="15" border="0" alt=""><a href="/employment/"><img src="/images/nav/nav_careers.gif" height="21" width="46" border="0" alt="Careers"></a></td>
-	    <td width="160" align="right" valign="top"><a href="/search/" onclick="if(isFour){menuovers[5].visibility='visible';return false;}"><img src="/images/nav/nav_search.gif" height="26" width="67" border="0" alt="Search"></a><a href="/"><img src="/images/nav/nav_home1.gif" height="26" width="59" border="0" alt="Home"></a></td>
+	    <!-- Company related Links -->
+	    <td width="209"><img src="/images/dots/dot_clear.gif" alt="" width="209" height="54"></td>
+	    <td width="285" valign="top"><a href="/sales/"><img src="/images/nav/nav_buy.gif" height="21" width="60" border="0" alt="How to Buy"></a><img src="/images/nav/nav_top_spacer.gif" height="21" width="15" border="0" alt=" | "><a href="/resellers/"><img src="/images/nav/nav_resellers.gif" height="21" width="61" border="0" alt="Resellers"></a><img src="/images/nav/nav_top_spacer.gif" height="21" width="15" border="0" alt=" | "><a href="/company_info/"><img src="/images/nav/nav_company_info.gif" height="21" width="73" border="0" alt="Company Info"></a><img src="/images/nav/nav_top_spacer.gif" height="21" width="15" border="0" alt=" | "><a href="/employment/"><img src="/images/nav/nav_careers.gif" height="21" width="46" border="0" alt="Careers"></a></td><td width="160" valign="top" align="right"><a href="/search/" onclick="if(isFour){change(5,0,1);return false;}"><img src="/images/nav/nav_search.gif" height="26" width="67" border="0" alt="Search"></a><a href="/"><img src="/images/nav/nav_home1.gif" height="26" width="59" border="0" alt="Home"></a></td>
 	</tr>
 	</tbody></table></td>
 </tr>
 <tr bgcolor="#7C7F87">
-    <td width="100%"><a href="javascript:void(0)" onmouseover="clearmenus()"><img src="/images/dots/dot_clear.gif" height="2" width="657" border="0" alt=""></a></td>
+	<td width="100%"><a href="/" onmouseover="clearmenus()"><img src="/images/dots/dot_clear.gif" alt="" height="2" width="657" border="0"></a></td>
 </tr>
-
-<!-- Nav Menus -->
 <tr bgcolor="#CFCFCF">
+    <!-- Good and Services related Links -->
     <td width="100%">
-	<a href="/products/" onmouseover="clearmenus()"><img src="/images/nav/nav_prod_corner0.gif" alt="" width="30" height="23" border="0" name="imgcrnr"></a><img src="/images/nav/nav_prod0.gif" alt="[Products]" width="108" height="23" border="0" name="imgmenu0" usemap="#menu0map"><img src="/images/nav/nav_solutions0.gif" alt="[Solutions]" width="111" height="23" border="0" name="imgmenu1" usemap="#menu1map"><img src="/images/nav/nav_dev0.gif" alt="[Developers]" width="120" height="23" border="0" name="imgmenu2" usemap="#menu2map"><img src="/images/nav/nav_support0.gif" alt="[Support]" width="168" height="23" border="0" name="imgmenu3" usemap="#menu3map"><img src="/images/nav/nav_fun0.gif" alt="[Serious Fun]" width="117" height="23" border="0" name="imgmenu4" usemap="#menu4map"><a href="javascript:void(0)" onmouseover="clearmenus()"><img src="/images/dots/dot_clear.gif" width="2" height="23" border="0" alt="-"></a></td>
+	<a href="/products/" onmouseover="clearmenus()"><img src="/images/nav/nav_prod_corner0.gif" alt="" width="30" height="23" border="0" name="imgcrnr"></a><img src="/images/nav/nav_prod0.gif" alt="[Products]" width="108" height="23" border="0" name="imgmenu0" usemap="#menu0map"><img src="/images/nav/nav_ind0.gif" alt="[Industries]" width="111" height="23" border="0" name="imgmenu1" usemap="#menu1map"><img src="/images/nav/nav_dev0.gif" alt="[Developers]" width="120" height="23" border="0" name="imgmenu2" usemap="#menu2map"><img src="/images/nav/nav_support0.gif" alt="[Services and Support]" width="168" height="23" border="0" name="imgmenu3" usemap="#menu3map"><img src="/images/nav/nav_fun0.gif" alt="[Serious Fun]" width="117" height="23" border="0" name="imgmenu4" usemap="#menu4map"><a href="/fun/" onmouseover="clearmenus()"><img src="/images/dots/dot_clear.gif" width="2" height="23" border="0" alt=""></a></td>
 </tr>
 </tbody></table>
+<!-- End Primary Navigation -->
 
-<!-- End Global Navigation -->
 <table width="780" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
     <!--- This is the site banner TD --->
-    <td colspan="2">&nbsp;</td>
-    <td colspan="3" align="RIGHT">
+    <td colspan="5" align="RIGHT">
 
 <!-- End Header -->
 
@@ -311,10 +92,7 @@ function RateThisPage(w,h,myurl){
 
 	<td width="112"><b>Privacy Policy</b></td>
 	</tr>
-	<!-- Rate This Page -->
-	<tr>
-	  <td></td><td><a href="javascript:RateThisPage()" onclick="RateThisPage(325,300,'/rate/index.html');return false;"><img src="/rate/images/nav_rtp.gif" width="69" height="42" border="0" alt="Rate This Page"></a></td>
-	</tr>
+	
 <!-- This row was inserted to ensure that the sidenav pushes out to a width of 130 -->
 	<tr><td></td><td><img src="/images/dots/dot_clear.gif" alt="" height="1" width="112"></td></tr>
 
@@ -336,31 +114,29 @@ function RateThisPage(w,h,myurl){
 
 <!-- Content Starts Here -->
 
-
-<p>
-  
 <font class="header">Privacy Policy</font>
 
-</p><p>
-
-Your privacy is important to us at SGI.  We follow the industry practices
-to let you know how our privacy policy answers the following
-questions:</p>
-
-<p>1. What information does SGI gather/track and how is it used?</p>
-
-<p>2. With whom does SGI share the information it gathers/tracks?</p>
-
-<p>3. What is SGI's unsubscribe and data-removal policy?</p>
-
-<p>4. How can I correct and update my personal information?</p>
-
-<p>5. What is SGI's policy on deleting or de-activating my name from its
-database?</p>
-
-<p>6. Who can I ask if I have any additional questions?</p>
-
 <p>
+
+Your privacy is important to us at SGI.  We follow the industry practices. 
+Read our privacy policy to see how SGI addresses common questions, such as:
+</p><ul>
+
+<li>What information does SGI gather/track and how is it used?
+
+</li><li>With whom does SGI share the information it gathers/tracks?
+
+</li><li>What is SGI's unsubscribe and data-removal policy?
+
+</li><li>How can I correct and update my personal information?
+
+</li><li>What is SGI's policy on deleting or de-activating my name from its
+database?
+
+</li><li>Who can I ask if I have any additional questions?
+</li></ul>
+
+
 We do not collect personal information about you unless you voluntarily
 provide it to us and we collect, process and use personal information only
 for performing the relevant service selected by you.  That information
@@ -368,7 +144,7 @@ will be gathered when you come onto our site to: provide feedback in an
 online survey; request product information; request a contact from an SGI
 sales representative; participate in a sweepstakes offer; and/or save a
 product configuration on our web site. 
-</p> 
+ 
 
 <p>
 The personal information that may
@@ -376,9 +152,9 @@ be gathered includes your name, fax, telephone number, street address and
 e-mail address.  You may also be asked for further information about
 yourself such as your job category and your industry type, your company
 name and job title, and the number of people in your company.  
-</p> 
+ 
 
-<p>
+</p><p>
 When you   
 purchase products we will collect your credit card number and its
 expiration date.  Of course, if you do not wish to give us your credit
@@ -390,18 +166,18 @@ of time reasonable in light of the purpose for which it is processed.  We
 provide your credit card information to the credit card processing company
 to charge you for your purchases and we provide your name and address to
 our fulfillment house to ship products to you.  The fulfillment house is
-not permitted to send your information to anyone else.</p>
+not permitted to send your information to anyone else.
 
-<p>We will use best efforts to not transfer information that personally
+</p><p>We will use best efforts to not transfer information that personally
 identifies you to anyone else without your knowledge and approval at the
 time it is collected from you.  You will also have the opportunity then to
 indicate whether you wish to decline to receive promotional or marketing
 material about other products and services of SGI or others.  Please note,
 however, that we do intend to contact you about matters that affect your
 use of our site such as the status of your orders for our products you buy
-or prizes you may win in a sweepstakes.</p>
+or prizes you may win in a sweepstakes.
 
-<p>Upon your request, we will assist you to review, to delete or to
+</p><p>Upon your request, we will assist you to review, to delete or to
 correct or update your personal information that you have previously     
 provided.  If at any time you believe that we have not adhered to our
 policy with respect to protecting your privacy, or if you have questions 
@@ -409,14 +185,14 @@ regarding the collecting and/or use of your personal information or
 regarding our privacy policy, please contact us.  We will use all
 commercially reasonable efforts to promptly address your concern.  You may
 contact us at <a href="mailto:webmaster@sgi.com">webmaster@sgi.com</a>, by
-simply putting "privacy" in the subject line.</p>
+simply putting "privacy" in the subject line.
 
 
   
 <!-- Content Ends Here -->
 
 <!-- Begin Right Seperator -->
-</div>
+</p></div>
 </td><td width="20" valign="TOP"><img src="/images/dots/dot_clear.gif" width="20" height="1" alt=""></td><td width="50" valign="TOP"><img src="/images/dots/dot_clear.gif" width="50" height="1" alt="">
 
 <!-- End Right Seperator -->
@@ -432,7 +208,7 @@ simply putting "privacy" in the subject line.</p>
 	<tbody><tr>
 	    <td align="RIGHT" class="footer"><a href="/company_info/privacy.html">privacy policy</a>&nbsp;</td>
 	    <td align="CENTER" class="footer"> | </td>
-	    <td align="LEFT" class="footer"><a href="/cgi-bin/feedback/">questions/comments</a></td>
+	    <td align="LEFT" class="footer"><a href="/cgi-bin/feedback/">contact us</a></td>
 	</tr><tr>
 	    <td align="RIGHT" class="footer"><a href="/company_info/copyright.html">Copyright © 1993-2002 Silicon Graphics, Inc.</a> All rights reserved.</td>
 	    <td align="CENTER" class="footer"> | </td>
@@ -445,105 +221,105 @@ simply putting "privacy" in the subject line.</p>
 
 <!-- End trademark footer -->
 
-<!-- javascript/CGI links and images so the linkscan checker finds them-->
-<a href="/images/common/javascript.html"></a>
-<!-- end links and images -->
+<map name="menu0map"><area shape="RECT" coords="2,0 106,23" class="menu" href="/products/" alt="Products" onmouseover="change(0,'nav_prd',1)" onmouseout="if(!nn)menuhider(event)"></map>
+<map name="menu1map"><area shape="RECT" coords="2,0 109,23" class="menu" href="/industries/" alt="Industries" onmouseover="change(1,'nav_ind',1)" onmouseout="if(!nn)menuhider(event)"></map>
+<map name="menu2map"><area shape="RECT" coords="2,0 118,23" class="menu" href="/developers/" alt="Developers" onmouseover="change(2,'nav_dev',1)" onmouseout="if(!nn)menuhider(event)"></map>
+<map name="menu3map"><area shape="RECT" coords="2,0 166,23" class="menu" href="/support/" alt="Support" onmouseover="change(3,'nav_srv',1)" onmouseout="if(!nn)menuhider(event)"></map>
+<map name="menu4map"><area shape="RECT" coords="2,0 115,23" class="menu" href="/fun/" alt="Serious Fun" onmouseover="change(4,'nav_fun',1)" onmouseout="if(!nn)menuhider(event)"></map>
 
-<map name="menu0map"><area shape="RECT" coords="2,0 106,23" href="/products/" onmouseover="clearmenus();change('imgmenu0','nav_prd',1)" onmouseout="if(!isFour)clearmenus()"></map>
-<map name="menu1map"><area shape="RECT" coords="2,0 109,23" href="/solutions/" onmouseover="clearmenus();change('imgmenu1','nav_sol',1)" onmouseout="if(!isFour)clearmenus()"></map>
-<map name="menu2map"><area shape="RECT" coords="2,0 118,23" href="/developers/" onmouseover="clearmenus();change('imgmenu2','nav_dev',1)" onmouseout="if(!isFour)clearmenus()"></map>
-<map name="menu3map"><area shape="RECT" coords="2,0 166,23" href="/support/" onmouseover="clearmenus();change('imgmenu3','nav_srv',1)" onmouseout="if(!isFour)clearmenus()"></map>
-<map name="menu4map"><area shape="RECT" coords="2,0 115,23" href="/fun/" onmouseover="clearmenus();change('imgmenu4','nav_fun',1)" onmouseout="if(!isFour)clearmenus()"></map>
+<noscript><TABLE><TR><TD></noscript>
 
-<noscript><TABLE BORDER="0" HEIGHT="1" WIDTH="1"><TR><TD></noscript>
-
-<div id="menu0"><img src="/images/nav/drop_prod.gif" border="0" height="111" hspace="0" vspace="0" width="107" alt="Products Menu"></div>
-<div id="menu0overs">
-<a href="/servers/" onmouseover="imagerep('servers', 'menu0overs')" onmouseout="eraseimage('servers', 'menu0overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Servers" border="0" height="15" hspace="0" name="servers" vspace="0" width="107" class="menu"><br class="menu"></a>
-<a href="/workstations/" onmouseover="imagerep('workstations', 'menu0overs')" onmouseout="eraseimage('workstations', 'menu0overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Workstations" border="0" height="15" hspace="0" name="workstations" vspace="0" width="107" class="menu"><br class="menu"></a>
-<a href="/software/" onmouseover="imagerep('sw', 'menu0overs')" onmouseout="eraseimage('sw', 'menu0overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Software" border="0" height="15" hspace="0" name="sw" vspace="0" width="107" class="menu"><br class="menu"></a>
-<a href="/visualization/" onmouseover="imagerep('vissys', 'menu0overs')" onmouseout="eraseimage('vissys', 'menu0overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Visualization" border="0" height="15" hspace="0" name="vissys" vspace="0" width="107" class="menu"><br class="menu"></a>
-<a href="/products/storage/" onmouseover="imagerep('storage', 'menu0overs')" onmouseout="eraseimage('storage', 'menu0overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Storage" border="0" height="15" hspace="0" name="storage" vspace="0" width="107" class="menu"><br class="menu"></a>
-<a href="/products/remanufactured/" onmouseover="imagerep('reman', 'menu0overs')" onmouseout="eraseimage('reman', 'menu0overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Remanufactured" border="0" height="15" hspace="0" name="reman" vspace="0" width="107" class="menu"><br class="menu"></a>
-<a href="/peripherals/" onmouseover="imagerep('peripherals', 'menu0overs')" onmouseout="eraseimage('peripherals', 'menu0overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Peripherals" border="0" height="15" hspace="0" name="peripherals" vspace="0" width="107" class="menu"><br class="menu"></a>
+<div id="menu0" class="menu"><img src="/images/nav/drop_prod.gif" border="0" height="111" width="107" alt="Products Menu"></div>
+<div id="menu0overs" class="menu">
+<a href="/servers/" onmouseover="menuItem('servers',0,1)" onmouseout="menuItem('servers',0,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Servers" border="0" height="15" hspace="0" name="servers" vspace="0" width="107" class="menu"><br class="menu"></a>
+<a href="/visualization/" onmouseover="menuItem('vissys',0,1)" onmouseout="menuItem('vissys',0,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Visualization" border="0" height="15" hspace="0" name="vissys" vspace="0" width="107" class="menu"><br class="menu"></a>
+<a href="/workstations/" onmouseover="menuItem('workstations',0,1)" onmouseout="menuItem('workstations',0,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Workstations" border="0" height="15" hspace="0" name="workstations" vspace="0" width="107" class="menu"><br class="menu"></a>
+<a href="/products/storage/" onmouseover="menuItem('storage',0,1)" onmouseout="menuItem('storage',0,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Storage" border="0" height="15" hspace="0" name="storage" vspace="0" width="107" class="menu"><br class="menu"></a>
+<a href="/software/" onmouseover="menuItem('soft',0,1)" onmouseout="menuItem('soft',0,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Software" border="0" height="15" hspace="0" name="soft" vspace="0" width="107" class="menu"><br class="menu"></a>
+<a href="/peripherals/" onmouseover="menuItem('peripherals',0,1)" onmouseout="menuItem('peripherals',0,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Peripherals" border="0" height="15" hspace="0" name="peripherals" vspace="0" width="107" class="menu"><br class="menu"></a>
+<a href="/products/remarketed/" onmouseover="menuItem('remarketed',0,1)" onmouseout="menuItem('remarketed',0,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Remarketed" border="0" height="15" hspace="0" name="remarketed" vspace="0" width="107" class="menu"><br class="menu"></a>
 </div>
 
-<div id="menu1"><a href="/solutions/" onmouseout="clearmenus()"><img src="/images/nav/drop_sol.gif" width="110" height="58" border="0" alt="Solutions Menu"></a></div>
-<div id="menu1overs">
-<a href="/manufacturing/" onmouseover="imagerep('man', 'menu1overs')" onmouseout="eraseimage('man', 'menu1overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Manufacturing" border="0" height="15" hspace="0" name="man" vspace="0" width="110" class="menu"><br class="menu"></a>
-<a href="/solutions/sciences/" onmouseover="imagerep('science', 'menu1overs')" onmouseout="eraseimage('science', 'menu1overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Sciences" border="0" height="15" hspace="0" name="science" vspace="0" width="110" class="menu"><br class="menu"></a>
-<!--A HREF="/solutions/"
-	ONMOUSEOVER="imagerep('defense', 'menu1overs')"
-	ONMOUSEOUT="eraseimage('defense', 'menu1overs')"
-	CLASS="menu"><IMG
-		SRC="/images/dots/dot_clear.gif"
-		ALT="Intelligence/Defense"
-		BORDER="0" HEIGHT="15" HSPACE="0" NAME="defense" VSPACE="0" WIDTH="110" CLASS="menu"><BR CLASS="menu"></A -->
-<a href="/solutions/broadband/" onmouseover="imagerep('telco', 'menu1overs')" onmouseout="eraseimage('telco', 'menu1overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Telecommunications and Media" border="0" height="26" hspace="0" name="telco" vspace="0" width="110" class="menu"><br class="menu"></a>
+<div id="menu1" class="menu"><img src="/images/nav/drop_ind.gif" width="110" height="90" border="0" alt="Industries Menu"></div>
+<div id="menu1overs" class="menu">
+<a href="/industries/energy/" onmouseover="menuItem('energy',1,1)" onmouseout="menuItem('energy',1,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Energy" border="0" height="15" hspace="0" name="energy" vspace="0" width="110" class="menu"><br class="menu"></a>
+<a href="/industries/manufacturing/" onmouseover="menuItem('man',1,1)" onmouseout="menuItem('man',1,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Manufacturing" border="0" height="15" hspace="0" name="man" vspace="0" width="110" class="menu"><br class="menu"></a>
+<a href="/industries/media/" onmouseover="menuItem('media',1,1)" onmouseout="menuItem('media',1,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Media" border="0" height="15" hspace="0" name="media" vspace="0" width="110" class="menu"><br class="menu"></a>
+<a href="/industries/sciences/" onmouseover="menuItem('science',1,1)" onmouseout="menuItem('science',1,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Sciences" border="0" height="15" hspace="0" name="science" vspace="0" width="110" class="menu"><br class="menu"></a>
+<a href="/industries/government/" onmouseover="menuItem('govdef',1,1)" onmouseout="menuItem('govdef',1,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Government and Defense" border="0" height="26" hspace="0" name="govdef" vspace="0" width="110" class="menu"><br class="menu"></a>
 </div>
 
-<div id="menu2"><img src="/images/nav/drop_dev.gif" border="0" width="119" height="95" hspace="0" vspace="0" alt="Developers Menu"></div>
-<div id="menu2overs">
-<a href="/developers/devtools/" onmouseover="imagerep('tools','menu2overs')" onmouseout="eraseimage('tools','menu2overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Developer Tools" border="0" height="15" hspace="0" name="tools" vspace="0" width="119" class="menu"><br class="menu"></a>
-<a href="/developers/program/" onmouseover="imagerep('programs','menu2overs')" onmouseout="eraseimage('programs','menu2overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Developer Programs" border="0" height="15" hspace="0" name="programs" vspace="0" width="119" class="menu"><br class="menu"></a>
-<a href="/developers/library/" onmouseover="imagerep('library','menu2overs')" onmouseout="eraseimage('library','menu2overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Developer Library" border="0" height="15" hspace="0" name="library" vspace="0" width="119" class="menu"><br class="menu"></a>
-<a href="/developers/marketing/" onmouseover="imagerep('resources','menu2overs')" onmouseout="eraseimage('resources','menu2overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Developer Resources" border="0" height="15" hspace="0" name="resources" vspace="0" width="119" class="menu"><br class="menu"></a>
-<a href="/developers/technology/" onmouseover="imagerep('opsys','menu2overs')" onmouseout="eraseimage('opsys','menu2overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Developer Technology" border="0" height="15" hspace="0" name="opsys" vspace="0" width="119" class="menu"><br class="menu"></a>
-<a href="/developers/oss/" onmouseover="imagerep('opensource','menu2overs')" onmouseout="eraseimage('opensource','menu2overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Open Source" border="0" height="15" width="119" name="opensource" hspace="0" vspace="0" class="menu"><br class="menu"></a>
+<div id="menu2" class="menu"><img src="/images/nav/drop_dev.gif" border="0" width="119" height="79" alt="Developers Menu"></div>
+<div id="menu2overs" class="menu">
+<a href="/developers/program/" onmouseover="menuItem('devprog',2,1)" onmouseout="menuItem('devprog',2,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Developer Program" border="0" height="15" hspace="0" name="devprog" vspace="0" width="119" class="menu"><br class="menu"></a>
+<a href="/developers/business/" onmouseover="menuItem('busdev',2,1)" onmouseout="menuItem('busdev',2,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Business Development" border="0" height="15" hspace="0" name="busdev" vspace="0" width="119" class="menu"><br class="menu"></a>
+<a href="/developers/devtools/" onmouseover="menuItem('devtools',2,1)" onmouseout="menuItem('devtools',2,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Development Tools" border="0" height="15" hspace="0" name="devtools" vspace="0" width="119" class="menu"><br class="menu"></a>
+<a href="/developers/technology/irix/" onmouseover="menuItem('irix',2,1)" onmouseout="menuItem('irix',2,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Development on IRIX" border="0" height="15" hspace="0" name="irix" vspace="0" width="119" class="menu"><br class="menu"></a>
+<a href="/developers/oss/" onmouseover="menuItem('oss',2,1)" onmouseout="menuItem('oss',2,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Open Source Development" border="0" height="15" hspace="0" name="oss" vspace="0" width="119" class="menu"><br class="menu"></a>
 </div>
 
-<div id="menu3"><img src="/images/nav/drop_supp.gif" border="0" height="79" hspace="0" vspace="0" width="167" alt="Services and Support Menu"></div>
-<div id="menu3overs">
-<a href="/services/" onmouseover="imagerep('prof', 'menu3overs');" onmouseout="eraseimage('prof', 'menu3overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="Professional Services" border="0" height="15" hspace="0" name="prof" vspace="0" width="167" class="menu"><br class="menu"></a>
-<a href="/services/productivity/" onmouseover="imagerep('prdvty', 'menu3overs')" onmouseout="eraseimage('prdvty', 'menu3overs')" class="menu"><img src="/images/dots/dot_clear.gif" alt="Productivity Services" border="0" height="15" hspace="0" name="prdvty" vspace="0" width="167" class="menu"><br class="menu"></a>
-<a href="/support/customerservice.html" onmouseover="imagerep('ort', 'menu3overs');" onmouseout="eraseimage('ort', 'menu3overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="Support Services" border="0" height="15" hspace="0" name="ort" vspace="0" width="167" class="menu"><br class="menu"></a>
-<a href="/support/custeducation/" onmouseover="imagerep('edu', 'menu3overs');" onmouseout="eraseimage('edu', 'menu3overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="Education Services" border="0" height="15" hspace="0" name="edu" vspace="0" width="167" class="menu"><br class="menu"></a>
-<a href="/support/online/" onmouseover="imagerep('online', 'menu3overs');" onmouseout="eraseimage('online', 'menu3overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="Online Support" border="0" height="15" hspace="0" name="online" vspace="0" width="167" class="menu"><br class="menu"></a>
+<div id="menu3" class="menu"><img src="/images/nav/drop_supp.gif" border="0" height="95" width="167" alt="Services and Support Menu"></div>
+<div id="menu3overs" class="menu">
+<a href="/services/se/" onmouseover="menuItem('sysengr',3,1)" onmouseout="menuItem('sysengr',3,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Systems Engineering" border="0" height="15" hspace="0" name="sysengr" vspace="0" width="167" class="menu"><br class="menu"></a>
+<a href="/services/" onmouseover="menuItem('prof',3,1);" onmouseout="menuItem('prof',3,0);" class="menu"><img src="/images/dots/dot_clear.gif" alt="Professional Services" border="0" height="15" hspace="0" name="prof" vspace="0" width="167" class="menu"><br class="menu"></a>
+<a href="/services/managed_services/" onmouseover="menuItem('managed',3,1)" onmouseout="menuItem('managed',3,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Managed Services" border="0" height="15" hspace="0" name="managed" vspace="0" width="167" class="menu"><br class="menu"></a>
+<a href="/support/customerservice.html" onmouseover="menuItem('ort',3,1);" onmouseout="menuItem('ort',3,0);" class="menu"><img src="/images/dots/dot_clear.gif" alt="Support Services" border="0" height="15" hspace="0" name="ort" vspace="0" width="167" class="menu"><br class="menu"></a>
+<a href="/support/custeducation/" onmouseover="menuItem('edu',3,1);" onmouseout="menuItem('edu',3,0);" class="menu"><img src="/images/dots/dot_clear.gif" alt="Customer Education" border="0" height="15" hspace="0" name="edu" vspace="0" width="167" class="menu"><br class="menu"></a>
+<a href="/support/online/" onmouseover="menuItem('online',3,1);" onmouseout="menuItem('online',3,0);" class="menu"><img src="/images/dots/dot_clear.gif" alt="Online Support" border="0" height="15" hspace="0" name="online" vspace="0" width="167" class="menu"><br class="menu"></a>
 </div>
 
-<div id="menu4"><a href="/fun/" onmouseout="clearmenus()"><img src="/images/nav/drop_fun.gif" width="116" height="95" border="0" alt="Fun Menu"></a></div>
-<div id="menu4overs">
-<a href="/fun/freeware/games.html" onmouseover="imagerep('games', 'menu4overs');" onmouseout="eraseimage('games', 'menu4overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="Games" border="0" height="15" hspace="0" name="games" vspace="0" width="116" class="menu"><br class="menu"></a>
-<a href="/fun/freeware/web.html" onmouseover="imagerep('webdev', 'menu4overs');" onmouseout="eraseimage('webdev', 'menu4overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="Web Development" border="0" height="15" hspace="0" name="webdev" vspace="0" width="116" class="menu"><br class="menu"></a>
-<a href="/fun/freeware/software.html" onmouseover="imagerep('softdev', 'menu4overs');" onmouseout="eraseimage('softdev', 'menu4overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="Software Development" border="0" height="15" hspace="0" name="softdev" vspace="0" width="116" class="menu"><br class="menu"></a>
-<a href="/fun/freeware/graphics.html" onmouseover="imagerep('graphics', 'menu4overs');" onmouseout="eraseimage('graphics', 'menu4overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="Graphics" border="0" height="15" hspace="0" name="graphics" vspace="0" width="116" class="menu"><br class="menu"></a>
-<a href="/fun/freeware/sysadmin.html" onmouseover="imagerep('sysadmin', 'menu4overs');" onmouseout="eraseimage('sysadmin', 'menu4overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="System Administration" border="0" height="15" hspace="0" name="sysadmin" vspace="0" width="116" class="menu"><br class="menu"></a>
-<a href="http://freeware.sgi.com/" onmouseover="imagerep('freeware', 'menu4overs');" onmouseout="eraseimage('freeware', 'menu4overs');" class="menu"><img src="/images/dots/dot_clear.gif" alt="Freeware" border="0" height="15" hspace="0" name="freeware" vspace="0" width="116" class="menu"><br class="menu"></a>
+<div id="menu4" class="menu"><img src="/images/nav/drop_fun.gif" width="116" height="95" border="0" alt="Fun Menu"></div>
+<div id="menu4overs" class="menu">
+<a href="/fun/freeware/games.html" onmouseover="menuItem('games',4,1);" onmouseout="menuItem('games',4,0);" class="menu"><img src="/images/dots/dot_clear.gif" alt="Games" border="0" height="15" hspace="0" name="games" vspace="0" width="116" class="menu"><br class="menu"></a>
+<a href="/fun/freeware/web.html" onmouseover="menuItem('webdev',4,1);" onmouseout="menuItem('webdev',4,0);" class="menu"><img src="/images/dots/dot_clear.gif" alt="Web Development" border="0" height="15" hspace="0" name="webdev" vspace="0" width="116" class="menu"><br class="menu"></a>
+<a href="/fun/freeware/software.html" onmouseover="menuItem('softdev',4,1);" onmouseout="menuItem('softdev',4,0);" class="menu"><img src="/images/dots/dot_clear.gif" alt="Software Development" border="0" height="15" hspace="0" name="softdev" vspace="0" width="116" class="menu"><br class="menu"></a>
+<a href="/fun/freeware/graphics.html" onmouseover="menuItem('graphics',4,1);" onmouseout="menuItem('graphics',4,0);" class="menu"><img src="/images/dots/dot_clear.gif" alt="Graphics" border="0" height="15" hspace="0" name="graphics" vspace="0" width="116" class="menu"><br class="menu"></a>
+<a href="/fun/freeware/sysadmin.html" onmouseover="menuItem('sysadmin',4,1);" onmouseout="menuItem('sysadmin',4,0);" class="menu"><img src="/images/dots/dot_clear.gif" alt="System Administration" border="0" height="15" hspace="0" name="sysadmin" vspace="0" width="116" class="menu"><br class="menu"></a>
+<a href="http://freeware.sgi.com/" onmouseover="menuItem('freeware',4,1);" onmouseout="menuItem('freeware',4,0)" class="menu"><img src="/images/dots/dot_clear.gif" alt="Freeware" border="0" height="15" hspace="0" name="freeware" vspace="0" width="116" class="menu"><br class="menu"></a>
 </div>
 
-<div id="menu5overs">
-<table border="0" bgcolor="#0066CC" cellpadding="1" cellspacing="0"><tbody><tr><td>
+<div id="menu5" class="menu"></div>
+<div id="menu5overs" class="menu">
+<table border="0" cellpadding="1" cellspacing="0" bgcolor="#0066CC"><tbody><tr><td>
 <table border="0" cellpadding="2" cellspacing="1" width="150">
 <tbody><tr bgcolor="#0066CC">
-    <td><font color="#FFFFFF"><b>SGI Search</b></font></td>
-    <td align="right"><a href="javascript:void(0)" onclick="menuovers[5].visibility='hidden'"><img src="/images/common/srch_close_x.gif" width="16" height="14" alt="X" border="0"></a></td>
+    <td><span class="widget">SGI Search</span></td>
+    <td align="right"><a href="javascript:change(5,0,0)"><img src="/images/common/srch_close_x.gif" width="16" height="14" alt="X" border="0"></a></td>
 </tr>
 <tr bgcolor="#CFCFCF">
     <td colspan="2" align="CENTER">
-	<form class="wwsgi" action="/cgi-bin/surfsrch.cgi" method="GET">
-		<input type="HIDDEN" name="cmd" value="search">
-		<input type="HIDDEN" name="coll" value="0650">
-		<select name="db">
-		    <option value="All" selected="">All of SGI
-		    </option><option value="Hardware;Software">Products
-		    </option><option value="Solutions">Solutions
-		    </option><option value="Developer">Developers
-		    </option><option value="Support">Services &amp; Support
-		    </option><option value="Fun">Serious Fun
-		</option></select>
-		<br><a href="/search/infosearch_help.html">Quick Search Tips</a>
-		<input name="srch" size="15">
-		<br><nobr>
-		<input type="submit" value=" Search ">&nbsp;<input type="button" value=" Cancel " onclick="menuovers[5].visibility='hidden'">
-		</nobr>
-	</form>
-	</td>
-</tr>
-</tbody></table>
-</td></tr></tbody></table>
-</div>
-<div id="menu5"></div>
 
+
+<!-- Search -->
+<!-- Google search added 08/26/02 -->
+<form name="searchForm" class="srch" action="http://search.sgi.com/search" method="GET">
+	<input type="hidden" name="site" value="sgi">
+	<input type="hidden" name="client" value="sgi">
+	<input type="hidden" name="output" value="xml_no_dtd">
+	<input type="hidden" name="proxystylesheet" value="sgi">
+	<select name="restrict">
+		<option value="" selected="">All of SGI</option>
+		<option value="Products">Products</option>
+		<option value="Industries">Industries</option>
+		<option value="Developers">Developers</option>
+		<option value="Services-Support">Services &amp; Support</option>
+		<option value="Feature-Stories">Feature Stories</option>
+		<option value="Newsroom">Newsroom</option>
+		<option value="PDF">PDF Library</option>
+	</select>
+	<br>
+	<input type="text" name="q" size="15">
+	<br>
+	<nobr>
+	<input type="submit" value=" Search ">&nbsp;<input type="button" value=" Cancel " onclick="change(5,0,0)">
+	</nobr>
+</form>
+<!-- End Search -->
+
+
+
+	</td></tr></tbody></table></td></tr></tbody></table>
+</div>
 <noscript></TD></TR></noscript>
 
 
