@@ -1,516 +1,490 @@
-<!--The following is the downloaded HTML source of the hws.edu privacy policy that was archived on 2002-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206095226id_/http%3A//campus.hws.edu/doit/policy/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hws.edu privacy policy that was archived on 2003-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030416144419id_/http%3A//campus.hws.edu/ADM/doit/admin/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<title>HWS Colleges: Web Privacy Policy</title>
-<meta name="keywords" content="DHTML, menu, navigation, hierarchical, tree, Dynamic HTML, CSS, Headline, pop, download, free, samples, applet, drop-down, bar, links">
-<meta name="description" content="This is the improved version of the hierarchical menu by Peter Gehrig and Urs Dudli. What's new? Now the menu contains a marker indicating whether the submenu is opened or closed. Furthermore the script allows you to integrate textlinks without submenus. If there is no marker there is no submenu.">
-
-<script>
-<!-- Beginning of JavaScript -
-
-// CREDITS:
-// new hierarchical menu Version 1.1 by Urs Dudli and Peter Gehrig 
-// Copyright (c) 1999 Peter Gehrig and Urs Dudli. All rights reserved.
-// Permission given to use the script provided that this notice remains as is.
-// Additional scripts can be found at http://www.24fun.ch.
-// info@24fun.ch
-// 1/18/2000
-
-// IMPORTANT: 
-// If you add this script to a script-library or script-archive 
-// you have to add a link to http://www.24fun.ch on the webpage 
-// where this script Script will be running.
-
-//  **********************************************************************************
-
-// INSTRUCTIONS: 
-// Configure the menu and font parameters for each menublock below.
-// each menublock[x] contains all necessary informations to build one menu-item with 
-// as many sublinks as you like. You can add as many menublocks as you need.
-//
-// ATTENTION: When you configure the menublocks take care that you
-// set the ";" and the "+" as seen below.
-
-//  **********************************************************************************
-
-var menublock=new Array() // no need to change this
-var plus_i=0 // no need to change this
-
-menublock[0]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-             "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-             ";;;;"+ 		    // leave it empty
-			 "HWS|http://www.hws.edu/index.html|;"   // text and URL of mainlink
-			 
-menublock[1]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-             "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-             ";;;;"+ 		    // leave it empty
-			 "DOIT Home|/adm/doit/home.asp|;"   // text and URL of mainlink
-			 
-menublock[2]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-             "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-             ";;;;"+ 		    // leave it empty
-			 "DOIT Policies|/adm/doit/policy/|;"
-				                    // text and URL of mainlink
-			 
-menublock[3]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "ff0000;"+			// fontcolor mainlink
-             "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-             ";;;;"+ 		    // leave it empty
-			 "Workorder Status|/adm/doit/workorders/|;"   // text and URL of mainlink
-			 
-menublock[4]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Academic Services|#|;"+ 				        // text|URL|target of mainlink
-			 "Information|/adm/doit/academic/index.html|;"+ 		// text|URL|target of second sublink	 
-			 "Whom do I call|/adm/doit/callcenter/who.asp|;"+ 		// text|URL|target of second sublink	 
-			 "Reference Collection focusing on Instructional Technology|/ADM/doit/academic/reference/index.html|;"+		// text|URL|target of first sublink
-			 "DOIT Newsletters|/adm/doit/newsletters/index.asp|;"+ 
-			 "Technology Newsletters|/adm/doit/academic/newsletters/index.html|;"+ 		// text|URL|target of second sublink	 
-			 "Software Applications|/adm/doit/academic/sw/index.html|;"+
- 			 "Tool Picker|http://goa.cet.middlebury.edu/toolpicker/|;"+
- 			"Call Center/Helpdesk x-HELP (4357)|/adm/doit/callcenter/index.html|;"+
-			"Classroom Query Form|/adm/doit/academic/classroom/|;"+
-			"Software assistance and Tutorials|/adm/doit/training/|;"+
-			"Instructional Technology Workshops|/adm/doit/training/workshop|;"+
-			"Labels and Focus Report Forms|/ADM/doit/administrative/admcomp/index.html|;"+
-			"Web Development|/adm/doit/webdevelop/index.html|;"+
-			"Web Page Templates|/adm/doit/webdevelop/templates/index.html|;"+
-			"Blackboard|/adm/doit/training/classes/blackboard.html|;"+
-			"DOIT Policies|/adm/doit/policy/|;"+
-			"Gateway Computer Purchase Program|http://esource.gateway.com/hwsfaculty/|;"+
-			"Employee Computer Purchase Guidelines|http://campus.hws.edu/ADM/hr/ComputerLoanProgram.pdf|_blank;"+
-			"Mailing Lists|/ADM/doit/academic/mailinglist/index.html|;"
-			
-			
-menublock[5]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Administrative Services|#|;"+	                    // text and URL of mainlink
-			 "Information|/adm/doit/administrative/|;"+	// text and URL of first sublink
-			 "Whom do I call|/adm/doit/callcenter/who.asp|;"+ 		// text|URL|target of second sublink	 
-			 "Focus Report Request Form|/adm/doit/administrative/admcomp/focus_report.pl|;"+	// text and URL of first sublink
-			 "Student Label Request Form|/adm/doit/administrative/admcomp/labelreq.pl|;"+	// text and URL of first sublink
-			 "Non-Student Label Request Form|/adm/doit/administrative/admcomp/nonstulabelreq.pl|;"+	// text and URL of first sublink
-			 "Labels and Focus Report Forms|/ADM/doit/administrative/admcomp/index.html|;"+
-			"Gateway Computer Purchase Program|http://esource.gateway.com/hwsfaculty/|;"+
-			"Employee Computer Purchase Guidelines|http://campus.hws.edu/ADM/hr/ComputerLoanProgram.pdf|_blank;"+
-			"DOIT Newsletters|/adm/doit/newsletters/index.asp|;"+ 
-			 "DOIT Policies|/adm/doit/policy/|;"
-			
-			 
-menublock[6]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Student Computing Resources|#|;"+	                    // text and URL of mainlink
-			 "Information|/adm/doit/student/index.html|;"+	// text and URL of first sublink
-			 "Computer Purchase|http://doit.hws.edu/computer/|;"+
-			"Student Web Services|http://web4stu.hws.edu/|main;"+	// text and URL of second sublink
-			 "Whom do I call|/adm/doit/callcenter/who.asp|;"+ 		// text|URL|target of second sublink	 
-			 "Assessing Water And Smoke Damage To Your PC|/adm/doit/callcenter/damage.html|;"+
- 			"Call Center/Helpdesk x-HELP (4357)|/adm/doit/callcenter/index.html|;"+
-			"Web Development|/adm/doit/webdevelop/index.html|;"+
-			"Software assistance and Tutorials|/adm/doit/training/|;"+
-			 "Software Applications|/adm/doit/academic/sw/index.html|;"+
- 			 "DOIT Newsletters|/adm/doit/newsletters/index.asp|;"+ 
-			 "DOIT Policies|/adm/doit/policy/|;"+
-			"Technology User Guide|/adm/doit/training/userguide/userguide.pdf|;"+
-			"Telephone Services|/adm/doit/callcenter/telecomm/index.html|;"	    // text and URL of thirth sublink 
-			 
-menublock[7]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Operational Teams|#|;"+	                    // text and URL of first mainlink
-			  "Information|/adm/doit/opsteams/index.html|;"+
-			"DOIT Staff|/adm/doit/opsteams/staff.html|;"+
-			"Win2000 Server and Operating Systems|/adm/doit/opsteams/win2000.html|;"+	// text|URL|target of mainlink
-			 
-			 "Customer Support/Help Desk|/adm/doit/opsteams/callcenter.html|;"+	// text|URL|target of second sublink 
-			 "MS Exchange Pilot|/adm/doit/opsteams/exchange.html|;"+	// text|URL|target of thirth sublink 
-			 "Operational Efficiency|/adm/doit/opsteams/operational.html|;"+	    // text|URL|target of fourth sublink 
-         "DOIT / Academic Learning Environments Programs / Cultures|/adm/doit/opsteams/academic.html|;"
-
-menublock[8]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Computer Labs and Facilities|#|;"+	                    // text and URL of mainlink
-			 "Information|http://campus.hws.edu/adm/doit/complabs/index.html|;"+	// text and URL of first sublink
-			 "Computer Purchase|http://doit.hws.edu/computer/|;"+
-			"Classroom Query Form|http://campus.hws.edu/adm/doit/academic/classroom/|;"+
-			"Computer Lab Support|http://campus.hws.edu/ADM/doit/complabs/index.pl|;"	    // text and URL of thirth sublink 
-			 
-menublock[9]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Call Center/Helpdesk x-HELP (4357)|#|;"+	                    // text and URL of mainlink
-			 "Information|/adm/doit/callcenter/index.html|;"+	// text and URL of first sublink
-			 "Work Order Status|/adm/doit/workorders/|;"+	// text and URL of first sublink
-			"Scope of Services|/adm/doit/callcenter/scope.html|;"+	// text and URL of second sublink
-			 "Whom do I call|/adm/doit/callcenter/who.asp|;"+ 		// text|URL|target of second sublink	 
-			 "Computer Purchase|http://doit.hws.edu/computer/|;"+
-			"Useful Instructions|/adm/doit/callcenter/links.html|;"+	// text and URL of second sublink
-			"DOIT Newsletters|/adm/doit/newsletters/index.asp|;"+ 
-			 "Telephone Services|/adm/doit/callcenter/telecomm/index.html|;"+	    // text and URL of thirth sublink 
-			 "Assessing Water And Smoke Damage To Your PC|/adm/doit/callcenter/damage.html|;"+
- 			"Viruses and Worms|/adm/doit/network/nimda.html|;"	// text and URL of first sublink
-			
-menublock[10]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Network Information|#|;"+	                    // text and URL of mainlink
-			 "Information|/adm/doit/network/index.html|;"+	// text and URL of first sublink
-			 "DOIT Newsletters|/adm/doit/newsletters/index.asp|;"+ 
-			 "Viruses and Worms|/adm/doit/network/nimda.html|;"	// text and URL of first sublink
-			 			 
-menublock[11]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Training|#|;"+	                    // text and URL of mainlink
-			 "Information|/adm/doit/training/|;"+	// text and URL of first sublink
-			 "Whom do I call|/adm/doit/callcenter/who.asp|;"+ 		// text|URL|target of second sublink	 
-			 "DOIT Newsletters|/adm/doit/newsletters/index.asp|;"+ 
-			 "Technology Workshops|/adm/doit/training/workshop/|;"+	// text and URL of second sublink
-			 "Technology Lesson Plans|/adm/doit/training/lessons.html|;"+	// text and URL of second sublink
-			 "Technology Tutorials|/adm/doit/training/tutorials.html|;"	    // text and URL of thirth sublink 
-			 
-menublock[12]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Web Development|#|;"+	                    // text and URL of mainlink
-			 "Information|/adm/doit/webdevelop/index.html|;"+	// text and URL of first sublink
-			 "HWS Website Standards|/adm/doit/webdevelop/webstandards.html|;"+	// text and URL of second sublink
-			 "Web Site Sign-up|/adm/doit/webdevelop/websignup.html|;"+	// text and URL of second sublink
-			 "Using Web Sites in Classes|/adm/doit/webdevelop/classes.html|;"+	// text and URL of second sublink
-			 "Planning your web site|/adm/doit/webdevelop/HP_planning.html|;"+	// text and URL of second sublink
-			 "Maintaining your web site|/adm/doit/webdevelop/HP_maintain.html|;"+	// text and URL of second sublink
-			 "Setting up your personal web site|/adm/doit/webdevelop/HP_howto.html|;"+	// text and URL of second sublink
-			 "Templates to get you started|/adm/doit/webdevelop/templates/index.html|;"	    // text and URL of thirth sublink 
-			 
-menublock[13]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Technology Resource Center|#|;"+ // text and URL of mainlink
-			"Information|/adm/doit/trc/|;"+ // text and URL of mainlink
-			"Whom do I call|/adm/doit/callcenter/who.asp|;"+ 		// text|URL|target of second sublink	 
-			 "Tool Picker|http://goa.cet.middlebury.edu/toolpicker/|_blank;"+ // text and URL of mainlink
-			"Technology Workshops|/adm/doit/training/workshop/|;"+	// text and URL of second sublink
-			 "Technology Lesson Plans|/adm/doit/training/lessons.html|;"+	
-			"Reference Collection focusing on Instructional Technology|/ADM/doit/academic/reference/index.html|;"+		// text|URL|target of first sublink
-			"DOIT Forum|/forums/doit/|;"	                    // text and URL of mainlink
-		
-menublock[14]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Telecommunications|#|;"+ // text and URL of mainlink
-			"Information|/adm/doit/callcenter/telecomm/index.html|;"+ // text and URL of mainlink
-			"Trouble Ticket|/adm/doit/callcenter/telecomm/trouble.html|;"+ // text and URL of mainlink
-			"Dailing Instructions|/adm/doit/callcenter/telecomm/dialing.html|;"+	// text and URL of second sublink
-			 
-			"Voicemail Instructions|/adm/doit/callcenter/telecomm/voicemail.html|;"	                    // text and URL of mainlink	 
-			  
-			 
-menublock[15]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "DOIT Forum|/forums/doit/|;"	                    // text and URL of mainlink
-			  
-menublock[16]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "DOIT Team Information|https://campus.hws.edu/adm/doit/private/|;"	                    // text and URL of mainlink
-			  
-menublock[17]="Arial;"+ 			// font mainlink
-			 "2;"+				// fontsize mainlink
-			 "000066;"+			// fontcolor mainlink
-			 "1;"+				// fontweight mainlink, 1 means bold, 0 means normal
-			 "Verdana;"+ 		// font sublinks
-			 "1;"+				// fontsize sublinks
-			 "336600;"+			// fontcolor sublinks
-			 "0;"+				// fontweight sublinks, 1 means bold, 0 means normal
-			 "Office of Vice President and CIO|#|;"+
-			 "Letter from the CIO|/adm/doit/cio/index.html|;"+
-			 "DOIT Newsletters|/adm/doit/newsletters/index.asp|;"+ 
-			 "Presentations from the CIO|/adm/doit/cio/presentations.html|;"
-			 
-			  
-// No need to change anything below	 
-//  **********************************************************************************
-	 
-var menusplit
-var urlsplit
-var font_weight_main
-var font_weight_sub
-var font_weight_sub
-
-var minusimg=new Image()
-minusimg.src="/adm/doit/internal/minus131.gif"
-
-var plusimg=new Image()
-plusimg.src="/adm/doit/internal/plus131.gif"
-			 
-var showsubmenus=new Array()
-for (i=0;i<=menublock.length-1;i++) {
-	showsubmenus[i]=-1
-}
-
-var plusminusimg=new Array()
-for (i=0;i<=menublock.length-1;i++) {
-	plusminusimg[i]=plusimg.src
-}
-
-function openandclose(visi) {
-	showsubmenus[visi]=(-1)*showsubmenus[visi]
-    var menucontent=""
-    if (showsubmenus[visi]==1) {plusminusimg[visi]=minusimg.src}
-    if (showsubmenus[visi]==-1) {plusminusimg[visi]=plusimg.src}
-    menucontent+="<table border=0>"
-	for (i=0;i<=menublock.length-1;i++) {
-		menusplit=menublock[i].split(";")
-		urlsplit=menusplit[8].split("|")
-		if (menusplit[3]==1) {font_weight_main="<b>"}
-		if (menusplit[3]==0) {font_weight_main=""}
-		if (menusplit[7]==1) {font_weight_sub="<b>"}
-		if (menusplit[7]==0) {font_weight_sub=""} 
-		menucontent+="<tr><td>"
-
-        
-       if (menusplit[9].length==0) {
-            menucontent+="</td>"
-            menucontent+="<td>"
-            menucontent+=font_weight_main
-            menucontent+="<a href="+urlsplit[1]+" target="+urlsplit[2]+">"
-            menucontent+="<font face="+menusplit[0]+" color="+menusplit[2]+" size="+menusplit[1]+">"
-            menucontent+=urlsplit[0]
-            menucontent+="</font></a></td></tr>"
-            plus_i++ 
-        }
-        
-        if (menusplit[9].length!=0) {
-            var thismainmenu=i+plus_i
-            menucontent+="<a href='javascript:openandclose("+i+")'>"
-            menucontent+="<img src='"+plusminusimg[i]+"' border=0></a></td>"
-            menucontent+="<td>"
-            menucontent+=font_weight_main
-            menucontent+="<a href='javascript:openandclose("+i+")'>"
-            menucontent+="<font face="+menusplit[0]+" color="+menusplit[2]+" size="+menusplit[1]+">"
-            menucontent+=urlsplit[0]
-            menucontent+="</font></a></td></tr>"
-   
-		    if (showsubmenus[i]==1) {
-			    for (ii=9;ii<=menusplit.length-1;ii++) {
-				    urlsplit=menusplit[ii].split("|")
-                    menucontent+="<tr><td></td><td>"
-    			    menucontent+=font_weight_sub
-                    menucontent+="<a href="+urlsplit[1]+" target="+urlsplit[2]+">"
-                    menucontent+="<font face="+menusplit[4]+" color="+menusplit[6]+" size="+menusplit[5]+">"
-                    menucontent+=urlsplit[0]
-                    menucontent+="</font></a></td></tr>"
-			    }
-		    }
-        }    
-	}
-    menucontent+="</table>"
-	if (document.all) {
-		menu.innerHTML=menucontent
-	}
-	if (document.layers) {
-		document.menu.document.write(menucontent)
-		document.menu.document.close()
-	}
-}
-
-
-// - End of JavaScript - -->
-</script>
-<style>
-A {
- text-decoration:none;
-}
-</style>
-<script language="JavaScript">
+<!-- #BeginEditable "doctitle" -->
+<title>Hobart and William Smith Colleges :: Administration</title>
+<!-- #EndEditable -->
+<script language="JavaScript" src="/includes/LMScript.js"></script>
+	<link rel="stylesheet" type="text/css" href="/includes/nsstyle.css" title="Default Styles">
+	<link rel="stylesheet" type="text/css" href="/includes/iestyle.css" title="Default Styles" media="all">
+<script language="javascript">
 <!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+function openpopup(url) {
+openwindow = window.open(url,"Feedback","scrollbars=yes,width=440,height=400");
+openwindow.focus();
 }
-MM_reloadPage(true);
-// -->
-</script>
-<link rel="stylesheet" href="/adm/doit/internal/doit.css" type="text/css">
-<script language="JavaScript">
-<!--
-function openWin(url,hw) {
-aWindow = window.open(url,"image",hw);
-}
-
 //-->
 </script>
 </head>
-<body bgcolor="#FFFFFF" onload="openandclose(1000);" leftmargin="10">
-<table width="780" border="0" cellspacing="0" cellpadding="0" align="left">
-  <tbody><tr> 
-    <td bgcolor="#FFFFFF" colspan="3">&nbsp;</td>
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" rightmargin="0" bgcolor="#FFFFFF" onload="init()" text="#000000">
+<!-- Logo and Quicklinks table -->
+<table cellpadding="0" cellspacing="0" border="0" width="640">
+	<tbody><tr>
+		<td><a href="/default.asp"><img src="/images/includes/nav_logo.gif" width="358" height="24" border="0" alt=""></a></td>
+		<td align="right"><table border="0" cellspacing="0" cellpadding="0" background="/images/spacer.gif"><tbody><tr><td>
+<table border="0" cellspacing="0" cellpadding="0"><form></form><tbody><tr><td>
+<img src="/images/spacer.gif" width="10" height="1" border="0" alt=""><select name="JumpTo" size="1" class="formelem" onchange="jumpto(this.form, 'JumpTo')" style="width:180px;">
+<option>QuickLinks</option>
+<option value="http://www.hws.edu/cgi-bin/find/email.asp">Phone/Email Search</option>
+<option value="http://www.hws.edu/administration/atoz.asp">Sitemap A-Z</option>
+<option value="#">----------</option>
+<option value="http://www.hws.edu/about/default.asp">About HWS</option>
+<option value="http://www.hws.edu/academics/calendar.asp">Academic Calendar</option>
+<option value="http://www.hws.edu/academics/programs/index.asp">Academic Programs</option>
+<option value="http://www.hws.edu/administration/default.asp">Administration</option>
+<option value="http://www.hws.edu/admissions/default.asp">Admissions</option>
+<option value="http://www.hws.edu/academics/advising.asp">Advising</option>
+<option value="http://www.hws.edu/studentlife/resources/alcohol/index.asp">Alcohol &amp; Other Drug Programs</option> 
+<option value="http://academic.hws.edu/alcohol/">Alcohol Education Project</option> 
+<option value="http://www.hws.edu/alumni/default.asp">Alumni &amp; Alumnae</option>
+<option value="http://www.hws.edu/admissions/adm_apply.asp">Applying</option>
+<option value="http://www.hws.edu/athletics/hobart/index.asp">Athletics-Hobart</option>
+<option value="http://www.hws.edu/athletics/herons/index.asp">Athletics-William Smith</option>
+<option value="http://campus.hws.edu/ADM/doit/av/index.asp">AV Media Services</option>
+<option value="http://courses.hws.edu/">Blackboard </option>
+<option value="http://campus.hws.edu/his/blackwell/">Blackwell, Elizabeth </option>
+<option value="http://www.hws.edu/news/calendar/showday.asp">Calendar of Events</option>
+<option value="http://www.hws.edu/academics/enrichment/careerdev/index.asp">Career Center</option>
+<option value="http://www.hws.edu/studentlife/campuslife/index.asp">Campus Life</option>
+<option value="http://www.hws.edu/studentlife/clubs.asp">Clubs and Organizations</option>   
+<option value="http://www.hws.edu/studentlife/colstore/">College Store</option>
+<option value="http://www.hws.edu/academics/registrar/commencement/">Commencement</option>
+<option value="http://www.hws.edu/studentlife/resources/counseling/index.asp">Counseling Center</option>
+<option value="http://www.hws.edu/news/update/dailyupdate.asp">Daily Update</option>
+<option value="http://www.hws.edu/academics/deans/index.asp">Deans</option>
+<option value="http://campus.hws.edu/adm/dining/">Dining Services</option>
+<option value="http://campus.hws.edu/doit">DOIT</option>
+<option value="http://www.hws.edu/cgi-bin/find/email.asp">E-mail/Phone Search</option>
+<option value="http://www.hws.edu/administration/hr/index.asp">Employment</option>
+<option value="http://www.hws.edu/news/experts/index.asp">Experts</option>
+<option value="http://www.hws.edu/administration/facil/index.asp">Facilities</option>
+<option value="http://www.hws.edu/academics/faculty/index.asp">Faculty</option>
+<option value="http://campus.hws.edu/academic/">Faculty Listing</option>
+<option value="http://www.hws.edu/admissions/adm_faq_search.asp">FAQS</option>
+<option value="http://www.hws.edu/admissions/adm_finaid.asp">Financial Aid-Prospectives</option>
+<option value="http://www.hws.edu/studentlife/resources/financialaid/index.asp">Financial Aid-Current Students</option>
+<option value="http://www.hws.edu/fli/">Finger Lakes Institute</option>
+<option value="http://www.hws.edu/alumni/giving/index.asp">Giving to HWS</option>
+<option value="http://www.hws.edu/academics/registrar/commencement/">Graduation</option>
+<option value="http://www.hws.edu/alumni/giving/foundations.asp">Grants</option>
+<option value="http://www.hws.edu/academics/theguide.asp">Guide (The)</option>
+<option value="http://www.alumniconnections.com/olc/pub/HWS/">Harris Online</option>
+<option value="http://people.hws.edu/herald/">Herald</option>
+<option value="http://www.hws.edu/about/history/index.asp">History of the Colleges</option>
+<option value="http://www.hws.edu/studentlife/homepages/index.asp">Home Pages</option>
+<option value="http://www.hws.edu/studentlife/resources/hubbs.asp">Hubbs Health Center</option>
+<option value="http://www.hws.edu/administration/hr/index.asp">Human Resources</option>
+<option value="http://www.hws.edu/administration/hws2005.asp">HWS 2005</option>
+<option value="http://campus.hws.edu/doit/">Information Technology</option>
+<option value="http://www.hws.edu/studentlife/campuslife/intercultural.asp">Intercultural Affairs</option>
+<option value="http://www.hws.edu/academics/enrichment/internships.asp">Internships</option>
+<option value="http://www.hws.edu/athletics/intramurals/index.asp">Intramurals</option>
+<option value="http://www.hws.edu/news/speakerseries/index.asp">Lecture Series</option>
+<option value="http://www.hws.edu/academics/library/index.asp">Library</option>
+<option value="http://academic.hws.edu/library/erc.html">Library Catalog</option>
+<option value="http://www.hws.edu/academics/programs/majorsminors.asp">Majors and Minors</option>
+<option value="http://www.hws.edu/about/campusmap/index.asp">Map (Campus)</option>
+<option value="http://www.hws.edu/news/default.asp">News and Events</option>
+<option value="http://www.hws.edu/news/update/webcliprelease.asp">News Clips</option>
+<option value="http://www.hws.edu/news/update/newsrelease.asp">News Releases</option>
+<option value="http://www.hws.edu/news/sports/newsrelease.asp">News Releases - Sports</option>
+<option value="http://campus.hws.edu/adm/forms/">Online Forms</option>
+<option value="http://www.hws.edu/alumni/parents/index.asp">Parents</option>
+<option value="http://www.hws.edu/cgi-bin/find/email.asp">Phone/E-mail Search</option>
+<option value="http://www.hws.edu/administration/pres/index.asp">President's Page</option>
+<option value="http://www.hws.edu/academics/provost/index.asp">Provost</option>
+<option value="http://www.hws.edu/news/publicity/index.asp">Publicity</option>
+<option value="http://www.hws.edu/studentlife/publicservice/index.asp">Public Service</option>
+<option value="http://www.hws.edu/academics/registrar/index.asp">Registrar</option>
+<option value="http://www.hws.edu/studentlife/campuslife/religious/index.asp">Religious Life</option>
+<option value="http://www.hws.edu/studentlife/campuslife/resed/index.asp">Res Ed</option>
+<option value="http://www.hws.edu/alumni/reunion/index.asp">Reunion</option>
+<option value="http://www.hws.edu/admissions/adm_finaid/scholarships.asp">Scholarships</option>
+<option value="http://www.hws.edu/webcam/">Stern Hall Webcam</option>
+<option value="http://www.hws.edu/studentlife/default.asp">Student Life</option>
+<option value="http://www.hws.edu/studentlife/campuslife/sll.asp">Student Life and Leadership</option>
+<option value="http://web4stu.hws.edu">Student Web Services</option>
+<option value="http://www.hws.edu/academics/enrichment/studyabroad.asp">Study Abroad</option>
+<option value="http://www.hws.edu/about/summerprogs/index.asp">Summer Programs</option>
+<option value="http://www.hws.edu/administration/people/trustees/index.asp">Trustees</option>
+<option value="http://www.hws.edu/admissions/adm_visit.asp">Visiting Admissions</option>
+<option value="http://www.hws.edu/about/visiting/index.asp">Visiting Campus</option>
+<option value="http://www.hws.edu/alumni/volunteers.asp">Volunteers</option>
+<option value="http://www.hws.edu/news/weos.asp">WEOS Radio</option>
+</select><img src="/images/spacer.gif" width="10" height="1" border="0" alt="">
+</td></tr></tbody></table>
+</td></tr></tbody></table></td>
+	</tr>
+</tbody></table>
+<!-- End Logo and Quicklinks -->
+<!-- Global Navigation table -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td bgcolor="#007700"><table border="0" cellspacing="0" cellpadding="0" width="640">
+	<tbody><tr>
+		<td><a href="http://www.hws.edu/admissions/default.asp" onmouseover="changeImages('nav_admissions','/images/includes/nav_admissionsON.gif');" onmouseout="changeImages('nav_admissions','/images/includes/nav_admissions.gif');"><img src="/images/includes/nav_admissions.gif" width="80" height="21" border="0" alt="" name="nav_admissions"></a><img src="/images/includes/nav_divider.gif" width="1" height="21" border="0" alt=""></td>
+		<td><a href="http://www.hws.edu/about/default.asp" onmouseover="changeImages('nav_about','/images/includes/nav_aboutON.gif');" onmouseout="changeImages('nav_about','/images/includes/nav_about.gif');"><img src="/images/includes/nav_about.gif" width="72" height="21" border="0" alt="" name="nav_about"></a><img src="/images/includes/nav_divider.gif" width="1" height="21" border="0" alt=""></td>
+		<td><a href="http://www.hws.edu/academics/default.asp" onmouseover="changeImages('nav_academics','/images/includes/nav_academicsON.gif');" onmouseout="changeImages('nav_academics','/images/includes/nav_academics.gif');"><img src="/images/includes/nav_academics.gif" width="70" height="21" border="0" alt="" name="nav_academics"></a><img src="/images/includes/nav_divider.gif" width="1" height="21" border="0" alt=""></td>
+		<td><a href="http://www.hws.edu/athletics/default.asp" onmouseover="changeImages('nav_athletics','/images/includes/nav_athleticsON.gif');" onmouseout="changeImages('nav_athletics','/images/includes/nav_athletics.gif');"><img src="/images/includes/nav_athletics.gif" width="65" height="21" border="0" alt="" name="nav_athletics"></a><img src="/images/includes/nav_divider.gif" width="1" height="21" border="0" alt=""></td>
+		<td><a href="http://www.hws.edu/studentlife/default.asp" onmouseover="changeImages('nav_studentlife','/images/includes/nav_studentlifeON.gif');" onmouseout="changeImages('nav_studentlife','/images/includes/nav_studentlife.gif');"><img src="/images/includes/nav_studentlife.gif" width="78" height="21" border="0" alt="" name="nav_studentlife"></a><img src="/images/includes/nav_divider.gif" width="1" height="21" border="0" alt=""></td>
+		<td><a href="http://www.hws.edu/news/default.asp" onmouseover="changeImages('nav_news','/images/includes/nav_newsON.gif');" onmouseout="changeImages('nav_news','/images/includes/nav_news.gif');"><img src="/images/includes/nav_news.gif" width="93" height="21" border="0" alt="" name="nav_news"></a><img src="/images/includes/nav_divider.gif" width="1" height="21" border="0" alt=""></td>
+		<td><a href="http://www.hws.edu/administration/default.asp"><img src="/images/includes/nav_adminON.gif" width="98" height="21" border="0" alt="" name="nav_admin"></a><img src="/images/includes/nav_divider.gif" width="1" height="21" border="0" alt=""></td>
+		<td><a href="http://www.hws.edu/alumni/default.asp" onmouseover="changeImages('nav_alumni','/images/includes/nav_alumniON.gif');" onmouseout="changeImages('nav_alumni','/images/includes/nav_alumni.gif');"><img src="/images/includes/nav_alumni.gif" width="71" height="21" border="0" alt="" name="nav_alumni"></a></td>
+		<td bgcolor="#007700"><img src="/images/spacer.gif" width="6" height="1" border="0" alt=""></td>
+		<td bgcolor="#007700"><a href="http://supportcenteronline.com/ics/support/default.asp?deptID=514"><img src="/images/sitewide/questionmark3.gif" border="0" alt="Knowledge Base"></a></td>
+	</tr>
+</tbody></table></td>
+	</tr>
+	<tr>
+		<td height="1"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+<!-- End Global Navigation table -->
+<!-- Sectional Navigation table -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#DF8503">
+	<tbody><tr>
+		<td height="38">
+						<script language="JavaScript">var dropdownsLoaded=false</script>
+			
+			<style type="text/css">
+				A.secnav:hover {color:#FAD296;}
+				A.secnavON {color:#FAD296;	text-decoration:none;}
+			</style>
+			<table cellpadding="0" cellspacing="0" border="0" width="660">
+				<tbody><tr>
+					<td align="center">
+					<span class="verdana11" style="color:#ffffff;">
+					<img src="/images/includes/nav_amn_bullet.gif" width="12" height="8" border="0" alt=""><a class="secnav" onmouseover="if (dropdownsLoaded) {showNav('B0', 125, 50, 260, 120);}" href="http://www.hws.edu/administration/facil/index.asp">Facilities</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<img src="/images/includes/nav_amn_bullet.gif" width="12" height="8" border="0" alt=""><a class="secnav" onmouseover="if (dropdownsLoaded) {showNav('B3', 205, 50, 368, 100);}" href="http://www.hws.edu/administration/pres/index.asp">President's Office</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<img src="/images/includes/nav_amn_bullet.gif" width="12" height="8" border="0" alt=""><a class="secnav" onmouseover="if (dropdownsLoaded) {showNav('B1', 336, 50, 480, 212);}" href="http://www.hws.edu/administration/staffsupport/index.asp">Staff Support</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<img src="/images/includes/nav_amn_bullet.gif" width="12" height="8" border="0" alt=""><a class="secnav" onmouseover="if (dropdownsLoaded) {showNav('B2', 443, 50, 583, 100);}" href="http://www.hws.edu/administration/hr/index.asp">Human Resources</a><br>
+					<img src="/images/spacer.gif" width="1" height="2" alt="" border="0"><br>
+					<img src="/images/includes/nav_amn_bullet.gif" width="12" height="8" border="0" alt=""><a class="secnav" onmouseover="if (dropdownsLoaded) {hideNav();}" href="http://www.hws.edu/administration/people/index.asp">Directories</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<img src="/images/includes/nav_amn_bullet.gif" width="12" height="8" border="0" alt=""><a class="secnav" onmouseover="if (dropdownsLoaded) {hideNav();}" href="http://www.hws.edu/administration/people/trustees/index.asp">Trustees</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<img src="/images/includes/nav_amn_bullet.gif" width="12" height="8" border="0" alt=""><a class="secnav" onmouseover="if (dropdownsLoaded) {hideNav();}" href="http://www.hws.edu/studentlife/colstore/">College Store</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<img src="/images/includes/nav_amn_bullet.gif" width="12" height="8" border="0" alt=""><a class="secnav" onmouseover="if (dropdownsLoaded) {hideNav();}" href="http://campus.hws.edu/adm/doit/">Information Technology</a>
+					</span>
+					</td>
+				</tr>
+			</tbody></table>
+			
+		</td>
+	</tr>
+</tbody></table>
+<!-- End Sectional Navigation table -->
+
+<!-- *****  MAIN CONTENT  ***** -->
+
+<table cellpadding="0" cellspacing="0" border="0" width="640">
+	<tbody><tr>
+		
+    <td valign="top" height="20" width="230">
+	
+	<script language="JavaScript1.1">
+<!--
+function openpopup(url) {
+openwindow = window.open(url,"Feedback","scrollbars=yes,width=440,height=400,resizable");
+openwindow.focus();
+}
+//-->
+</script>
+
+<div style="padding-left:10px;">
+<img src="/images/spacer.gif" width="1" height="10" alt="" border="0"><br>
+<img src="/images/sitewide/cmsnav_amn_title.gif" border="0" alt=""><br>
+<img src="/images/sitewide/cmsnav_divider.gif" width="179" height="3" border="0" alt=""><br>
+
+          <!-- CMS Nav Table -->
+        
+        <table cellpadding="0" cellspacing="0" border="0" width="185">
+          <tbody><tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            
+      <td width="155"><a href="/ADM/doit/admin/index.asp" class="cmsnav">Administrative Systems</a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+          </tr>
+          <tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            
+      <td width="155"><a href="/ADM/doit/av/index.asp" class="cmsnav">AV/Media 
+        Services </a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+          </tr>
+          <tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            
+      <td width="155"><a href="/ADM/doit/helpdesk/index.asp" class="cmsnav">Helpdesk 
+        </a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+          </tr>
+          <tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            
+      <td width="155"><a href="/ADM/doit/network/index.asp" class="cmsnav">Networking</a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+          </tr>
+          <tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            
+      <td width="155"><a href="/ADM/doit/telecom/index.asp" class="cmsnav">Telecom</a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+          </tr>
+          <tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            <td width="155"><a href="/adm/doit/tools/" class="cmsnav">Tools</a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+          </tr>
+          <tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            
+      <td width="155"><a href="/ADM/doit/training/index.asp" class="cmsnav">Training</a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+          </tr>
+          <tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            <td width="155"><a href="/adm/doit/webdevelop/" class="cmsnav">Web Development </a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+          </tr>
+		  <tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            
+      <td width="155"><a href="/adm/doit/index.asp" class="cmsnav">DOIT Home 
+        Page</a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+			
+          </tr>
+          <tr> 
+            <td valign="top" width="30"><img src="/images/spacer.gif" width="18" height="1" alt="" border="0"><img src="/images/sitewide/cmsnav_bullet.gif" width="8" height="12" border="0" alt=""></td>
+            <td width="155"><a href="http://supportcenteronline.com/ics/support/default.asp?deptID=514" class="cmsnav">Frequently Asked Questions </a></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/spacer.gif" width="10" height="5" alt="" border="0"></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><img src="/images/sitewide/cmsnav_divider.gif" width="179" height="3" border="0" alt=""></td>
+          </tr>
+        </tbody></table>
+       <a href="#" onclick="history.go(-1); return false;"><img src="/images/sitewide/cmsnav_backtoprev.gif" width="116" height="18" border="0" alt=""></a><br>
+          <img src="/images/sitewide/cmsnav_divider.gif" width="179" height="3" border="0" alt=""><br>
+          <img src="/images/spacer.gif" width="1" height="5" alt="" border="0"><br>
+          <!-- End CMS Nav Table -->
+     
+        
+   <div align="center">
+  <p><img src="/ADM/doit/doitincludes/doitanim2.gif" alt="computer animation"></p>
+        
+       <hr width="75%"><table width="78%" border="0" height="94" bgcolor="#F5EFE1">
+          <tbody><tr> 
+            <td valign="top">
+			
+<div align="center"><h2>Alerts</h2></div><p><b>
+  	<a href="JavaScript:openpopup('/adm/doit/doitincludes/show.asp?id=134')">EMail services DOWN, HWS3 is down                                                                                                                     </a><br>
+  	</b>Tuesday, April 15, 2003 - 08:43</p><p><b>
+  	<a href="JavaScript:openpopup('/adm/doit/doitincludes/show.asp?id=132')">Network services restored in most locations -CLOSED                                                                                                   </a><br>
+  	</b>Sunday, April 06, 2003 - 17:33</p><p><b>
+  	<a href="JavaScript:openpopup('/adm/doit/doitincludes/show.asp?id=131')">Email issues continue - CLOSED                                                                                                                        </a><br>
+  	</b>Sunday, April 06, 2003 - 17:32</p><div align="center"><h2>Routine</h2></div><p><b>
+  	<a href="JavaScript:openpopup('/adm/doit/doitincludes/show.asp?id=133')">Internet Service Provider Scheduled Router maintenance                                                                                                </a><br>
+  	</b>Monday, April 07, 2003 - 16:41</p>
+
+ 
+              
+              </td>
+          </tr>
+        </tbody></table></div>
+		</div>
+	</td>
+    <td valign="top" class="textcell" width="410">
+<img src="/images/spacer.gif" width="410" height="20" alt="" border="0"><br>
+<table width="95%" border="0">
+  <tbody><tr>
     
+    <td><img src="/adm/doit/images/admhd.gif" width="421" height="67" border="0">
+	<div align="center"> 
+      <p><font size="1">
+<a href="/ADM/doit/admin/focus_report.pl"> Focus Report Request Form</a> | 
+<a href="/ADM/doit/admin/labelreq.pl">Student Label Request Form</a> | 
+<a href="/ADM/doit/admin/nonstulabelreq.pl">Non-Student Label Request Form</a> | 
+<a href="/adm/doit/telecom/who.asp">Who Do I Call</a> | 
+<a href="/ADM/doit/admin/index.asp">Home</a> </font></p>
+		</div>
+        <hr width="100%">
+				</td>
   </tr>
-  <tr> 
-    <td bgcolor="#FFFFFF" colspan="2" height="70" rowspan="3"><img src="/adm/doit/internal/headers/pagelogo.jpg" width="213" height="152"></td>
-    <td bgcolor="#FFFFFF" width="513" height="1" valign="top"></td>
-  </tr>
-  
-  <tr> 
-    <td bgcolor="#FFFFFF" height="112" align="right" width="513"> 
-      <div align="right"><img src="/ADM/doit/internal/headers/doit.jpg" width="513" height="80"></div>
-    </td>
-  </tr>
-  
-  <tr> 
-    <td bgcolor="#FFFFFF" height="32" valign="top" width="513">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td width="203" rowspan="4"> 
-      <div id="menu" style="position:absolute;top:183px;left:27px; width: 191px; height: 19px"></div>
+</tbody></table>
+      <!-- #BeginEditable "rightcolumn" -->
+      <!-- ********************Place information between these two markers******************** -->
+      <h2><font color="#8894CD">Website Privacy Policy</font></h2>
+      <p align="right">September 2001-09-13</p>
+      <p>Hobart and William Smith Colleges is committed to safeguarding all personally 
+        identifiable information we obtain about our customers and visitors, whether 
+        internal or external. The only personally identifiable information the 
+        Colleges collects via electronic mail, or our Web sites, including those 
+        Web sites currently being maintained by third-party, trusted providers 
+        is that which is voluntarily provided by our customers and visitors. Tracking 
+        information is collected and analyzed so that we may improve our service 
+        offerings to our users. This tracking information is kept confidential 
+        to the Colleges.</p>
+      <p>Hobart and William Smith Colleges will share personally identifiable 
+        information about you with other companies or people when one or more 
+        of the following conditions apply:</p>
+      <p>
+      </p><ul>
+        <li>We have your consent to share the information; 
+        </li><li>We need to share your information to provide the product or service 
+          you have requested; 
+        </li><li>We need to send the information to companies who work on behalf of 
+          the Colleges to provide a product or service to you. (Unless we tell 
+          you differently, these companies do not have any right to use the personally 
+          identifiable information we provide to them beyond what is necessary 
+          to assist us.); 
+        </li><li>We are responding to subpoenas, court orders or legal process; or 
+        </li><li>We find it necessary to protect and defend the legal rights or property 
+          of Hobart and William Smith Colleges. 
+      </li></ul>
+      <p></p>
+      <p>If you have questions or comments about this policy, please contact: 
+      </p>
+      <p>Brian A. Young<br>
+        Vice President and CIO<br>
+        Hobart and William Smith Colleges<br>
+        <a href="mailto:byoung@hws.edu">byoung@hws.edu</a> </p>
       <p>&nbsp;</p>
-      <p>&nbsp;</p>
-    </td>
-    <td width="40" rowspan="2">&nbsp;</td>
-    <td bgcolor="#FFFFFF" valign="top" height="10" width="513"> 
-      <div align="left"> 
-        <p>&nbsp;</p>
-      </div>
-    </td>
-  </tr>
-  <tr> 
-    <td bgcolor="#FFFFFF" valign="top" width="513"> 
-	
-	<!-- ********************Place information between these two markers******************** -->
-	
-	
-     <h2>Website Privacy Policy</h2>
-<p align="right">September 2001-09-13</p>
+      <!-- ********************Place information between these two markers******************** -->
+      <!-- #EndEditable --></td>
+	</tr>
+</tbody></table>
+<br>
+<!-- *****  END MAIN CONTENT  ***** -->
 
-<p>Hobart and William Smith Colleges is committed to safeguarding all personally identifiable information we obtain about our customers and visitors, whether internal or external. The only personally identifiable information the Colleges collects via electronic mail, or our Web sites, including those Web sites currently being maintained by third-party, trusted providers is that which is voluntarily provided by our customers and visitors. Tracking information is collected and analyzed so that we may improve our service offerings to our users. This tracking information is kept confidential to the Colleges.</p> 
 
-<p>Hobart and William Smith Colleges will share personally identifiable information about you with other companies or people when one or more of the following conditions apply:</p>
+<!-- Footer and Address table -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td height="1"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#300760"><table cellpadding="0" cellspacing="0" border="0" bgcolor="#300760">
 
-<p></p><ul>
-<li>We have your consent to share the information;
-</li><li>We need to share your information to provide the product or service you have requested;
-</li><li>We need to send the information to companies who work on behalf of the Colleges to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);
-</li><li>We are responding to subpoenas, court orders or legal process; or
-</li><li>We find it necessary to protect and defend the legal rights or property of Hobart and William Smith Colleges. 
-</li></ul><p></p>
+<!--<form action="/uc.asp" method="post" name="search">
+	<tr>
+		<td><img src="http://www.hws.edu/images/spacer.gif" width="15" height="25" border="0" alt=""></td>
+		<td width="179"><input type="text" name="SearchString" value="QuickSearch" size="16"  class="searchelem" onFocus="this.value='';"><img src="http://www.hws.edu/images/spacer.gif" width="10" height="10" border="0" alt=""><input type="image" name="btnSearch" src="/images/sitewide/btn_gosmall.gif" alt="go" align="absmiddle" border="0"></td>-->
 
-<p>If you have questions or comments about this policy, please contact: </p> 
+<form method="GET" action="http://www.google.com/u/hws"></form>
+<tbody><tr>
+		<td><img src="/images/spacer.gif" width="15" height="25" border="0" alt=""></td>
+		<td width="179"><input type="text" name="q" size="16" maxlength="255" value="">
+<input type="hidden" name="domains" value="hws.edu"><input type="hidden" name="submit"><input type="hidden" name="sitesearch" value="hws.edu"><img src="/images/spacer.gif" width="10" height="10" border="0" alt=""><input type="image" name="btnSearch" src="https://www.hws.edu/images/sitewide/btn_gosmall.gif" alt="go" align="absmiddle" border="0"></td>
 
-<p>Brian A. Young<br>
-Vice President and CIO<br>
-Hobart and William Smith Colleges<br>
-<a href="mailto:byoung@hws.edu">byoung@hws.edu</a> 
-
-</p>
-
-      <p>&nbsp;</p>
-	  
-	  <!-- ********************Place information between these two markers******************** -->
-    
-    </td>
-  </tr>
-  <tr> 
-    <td width="40" height="24" rowspan="2">&nbsp;</td>
-    <td bgcolor="#FFFFFF" height="12" valign="bottom" width="513"> 
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p class="footer">&nbsp;</p>
-    </td>
-  </tr>
-  
-  <tr> 
-    <td bgcolor="#FFFFFF" height="12" valign="bottom" class="footer" width="513">Hobart 
-      and William Smith Colleges; 1999-2001 <br>
-      <a href="http://www.hws.edu">http://www.hws.edu</a> <br>
-	  <a href="/doit/policy/privacy.html">Privacy Policy</a>
-      </td>
-  </tr>
-
-  
+		<td><span class="verdana10" style="color:#ffffff;">
+		<a href="http://www.hws.edu/default.asp" class="footer">Home</a> |
+		<a href="http://www.hws.edu/news/search.asp" class="footer">Search</a>
+		| <a href="#" class="footer" onclick="window.open('http://www.hws.edu/admissions/adm_askus.asp', 'AskUs', 'height=350,width=468,scrollbars=no,statusbar=no,menubar=no'); return false;">Ask HWS</a>
+		| <a href="http://www.hws.edu/administration/atoz.asp" class="footer">Site Map A-Z</a>
+		| <a href="http://www.hws.edu/administration/campusdirectory.asp" class="footer">Campus Directory</a></span>
+		</td>
+	</tr>
+</tbody></table>
+</td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="640">
+	<tbody><tr>
+		<td align="center"><img src="/images/spacer.gif" width="1" height="5" border="0" alt=""><br>
+			<span class="verdana10">©2002 Hobart and William Smith Colleges<br>
+			Geneva, NY 14456  <a href="/about/campusmap/index.asp">Map</a>/<a href="http://www.hws.edu/admissions/adm_visit/gettinghere.asp">Directions</a><br>
+			(315) 781-3000<br>
+			
+			<img src="/images/spacer.gif" width="1" height="5" border="0" alt=""><br>
+			<a href="http://www.hws.edu/uc.asp">Credits &amp; Acknowledgements</a>, <a href="http://www.hws.edu/uc.asp">Terms of Use</a> and <a href="http://campus.hws.edu/ADM/doit/admin/privacy.asp">Privacy Policy</a> applicable to this site. <br>
+			<img src="/images/spacer.gif" width="1" height="5" border="0" alt=""><br>
+			Website Powered by ActiveCampus<sup>TM</sup> Software by  <a href="http://www.activecampus.com/">LiquidMatrix</a><br><br></span></td>
+	</tr>
 </tbody></table>
 
 
+<!-- End Footer and Address table -->
+<!-- Dropdown Menu Items -->
+
+<script language="JavaScript" src="/includes/LM_DropdownModule.js"></script>
+
+<div id="B0" style="position:absolute; left:125; top:66; width:210; z-index:50; visibility:hidden;">
+    <table cellpadding="1" cellspacing="0" border="0" class="dropborder"><tbody><tr><td>
+		<table cellpadding="0" cellspacing="0" border="0" class="dropmenu">
+	        <tbody><tr id="B0_0" onmouseover="changelight('B0_0','dropmenuHIGH');" onmouseout="changelight('B0_0','dropmenu');"><td height="15"><a href="http://www.hws.edu/administration/facil/hours.asp" class="dropnav">&nbsp;Facility Hours&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>
+	        <tr id="B0_1" onmouseover="changelight('B0_1','dropmenuHIGH');" onmouseout="changelight('B0_1','dropmenu');"><td height="15"><a href="http://www.hws.edu/administration/facil/workorder.asp" class="dropnav">&nbsp;Work Order Request&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>
+	        <tr id="B0_2" onmouseover="changelight('B0_2','dropmenuHIGH');" onmouseout="changelight('B0_2','dropmenu');"><td height="15"><a href="http://www.hws.edu/about/campusmap/index.asp" class="dropnav">&nbsp;Campus Map&nbsp;</a></td></tr>  
+	    </tbody></table>
+	</td></tr></tbody></table>
+</div>
+<div id="B1" style="position:absolute; left:336; top:66; width:210; z-index:50; visibility:hidden;">
+    <table cellpadding="1" cellspacing="0" border="0" class="dropborder"><tbody><tr><td>
+		<table cellpadding="0" cellspacing="0" border="0" class="dropmenu">
+	        <tbody><tr id="B1_0" onmouseover="changelight('B1_0','dropmenuHIGH');" onmouseout="changelight('B1_0','dropmenu');"><td height="15"><a href="http://campus.hws.edu/doit/" class="dropnav">&nbsp;Information Technology&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B1_1" onmouseover="changelight('B1_1','dropmenuHIGH');" onmouseout="changelight('B1_1','dropmenu');"><td height="15"><a href="http://www.hws.edu/cgi-bin/find/email.asp" class="dropnav">&nbsp;Phone Numbers and Email&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B1_2" onmouseover="changelight('B1_2','dropmenuHIGH');" onmouseout="changelight('B1_2','dropmenu');"><td height="15"><a href="http://www.hws.edu/administration/security/index.asp" class="dropnav">&nbsp;Campus Safety&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B1_3" onmouseover="changelight('B1_3','dropmenuHIGH');" onmouseout="changelight('B1_3','dropmenu');"><td height="15"><a href="http://campus.hws.edu/ADM/doit/av/index.asp" class="dropnav">&nbsp;A/V Media&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B1_4" onmouseover="changelight('B1_4','dropmenuHIGH');" onmouseout="changelight('B1_4','dropmenu');"><td height="15"><a href="http://www.hws.edu/administration/staffsupport/secretaries.asp" class="dropnav">&nbsp;Secretarial Offices&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B1_5" onmouseover="changelight('B1_5','dropmenuHIGH');" onmouseout="changelight('B1_5','dropmenu');"><td height="15"><a href="http://www.hws.edu/news/publicity/index.asp" class="dropnav">&nbsp;Publicity&nbsp;</a></td></tr>
+	    <tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B1_6" onmouseover="changelight('B1_6','dropmenuHIGH');" onmouseout="changelight('B1_6','dropmenu');"><td height="15"><a href="http://campus.hws.edu/adm/dining/" class="dropnav">&nbsp;Dining Services&nbsp;</a></td></tr>
+	    <tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B1_7" onmouseover="changelight('B1_7','dropmenuHIGH');" onmouseout="changelight('B1_7','dropmenu');"><td height="15"><a href="http://campus.hws.edu/adm/forms/" class="dropnav">&nbsp;Online Forms&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B1_8" onmouseover="changelight('B1_8','dropmenuHIGH');" onmouseout="changelight('B1_8','dropmenu');"><td height="15"><a href="http://www.hws.edu/administration/people/aac.asp" class="dropnav">&nbsp;Advisory Committee&nbsp;</a></td></tr>
+	    </tbody></table>
+	</td></tr></tbody></table>
+</div>
+<div id="B2" style="position:absolute; left:443; top:66; width:210; z-index:50; visibility:hidden;">
+    <table cellpadding="1" cellspacing="0" border="0" class="dropborder"><tbody><tr><td>
+		<table cellpadding="0" cellspacing="0" border="0" class="dropmenu">
+	        <tbody><tr id="B2_0" onmouseover="changelight('B2_0','dropmenuHIGH');" onmouseout="changelight('B2_0','dropmenu');"><td height="15"><a href="http://campus.hws.edu/ADM/hr/Employment/" class="dropnav">&nbsp;Employment Opportunities&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B2_1" onmouseover="changelight('B2_1','dropmenuHIGH');" onmouseout="changelight('B2_1','dropmenu');"><td height="15"><a href="http://campus.hws.edu/ADM/hr/Benefits/" class="dropnav">&nbsp;Employee Benefits&nbsp;</a></td></tr>
+	    </tbody></table>
+	</td></tr></tbody></table>
+</div>
+<div id="B3" style="position:absolute; left:205; top:66; width:210; z-index:50; visibility:hidden;">
+    <table cellpadding="1" cellspacing="0" border="0" class="dropborder"><tbody><tr><td>
+		<table cellpadding="0" cellspacing="0" border="0" class="dropmenu">
+	        <tbody><tr id="B3_0" onmouseover="changelight('B3_0','dropmenuHIGH');" onmouseout="changelight('B3_0','dropmenu');"><td height="15"><a href="http://www.hws.edu/administration/hws2005.asp" class="dropnav">&nbsp;HWS 2005&nbsp;</a></td></tr>
+			<tr><td height="1" class="dropsep"><img src="/images/spacer.gif" width="130" height="1" border="0" alt=""></td></tr>  
+			<tr id="B3_1" onmouseover="changelight('B3_1','dropmenuHIGH');" onmouseout="changelight('B3_1','dropmenu');"><td height="15"><a href="http://www.hws.edu/administration/srstaff.asp" class="dropnav">&nbsp;Senior Staff&nbsp;</a></td></tr>
+	    
+	    </tbody></table>
+	</td></tr></tbody></table>
+</div>
+
+<script language="JavaScript">
+dropdownsLoaded = true
+</script>
+<!-- End Dropdown Menu Items -->
 
 </body></html>
