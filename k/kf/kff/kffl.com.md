@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214104558id_/http%3A//kffl.com/company/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207215008id_/http%3A//kffl.com/company/privacy_policy.shtml) for the most accurate reproduction.*
 
 # About KFFL - Privacy Policy
 
