@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjz.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603131212id_/http%3A//wjz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjz.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014144622id_/http%3A//wjz.com/privacy) for the most accurate reproduction.*
 
 # www.wjz.com - Privacy
 
@@ -121,6 +121,3 @@ Although it is not always possible to remove or modify information in the databa
 **SECURITY OF PRIVATE INFORMATION**
 
 Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at CBS, to protect your information from theft, misuse and alteration.
-
-  
-
