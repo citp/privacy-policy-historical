@@ -1,48 +1,8 @@
-> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603040215id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204040225id_/http%3A//livedaily.com/privacy.html) for the most accurate reproduction.*
 
 # liveDaily
 
-|  |  |  |   
----|---|---  
-Search |   
 |  |   
----  
-On Sale Soon |   
-  
-Get a sneak peek at who's going on tour soon.
-
-[more>](http://www.livedaily.com/onsalesoon.html)  
-|   
-[](https://web.archive.org/onsalesoon.html) |   
-|   
-| [ Aretha Franklin](http://www.livedaily.com/onsalesoon.html#ArethaFranklin)  
-|   
-| [ Jack Johnson](http://www.livedaily.com/onsalesoon.html#JackJohnson)  
-|   
-| [ Diana Krall](http://www.livedaily.com/onsalesoon.html#DianaKrall)  
-|   
-| [ Harry Connick, Jr.](http://www.livedaily.com/onsalesoon.html#HarryConnick,Jr.)  
-|   
-| [ Boz Scaggs](http://www.livedaily.com/onsalesoon.html#BozScaggs)  
-|   
-| [ Incubus](http://www.livedaily.com/onsalesoon.html#Incubus)  
-|   
-| [ Toby Keith](http://www.livedaily.com/onsalesoon.html#TobyKeith)  
-|   
-| [ Journey](http://www.livedaily.com/onsalesoon.html#Journey)  
-|   
-| [ Tony Bennett](http://www.livedaily.com/onsalesoon.html#TonyBennett)  
-|   
-| [ Martina McBride](http://www.livedaily.com/onsalesoon.html#MartinaMcBride)  
-|   
-| [see more](http://www.livedaily.com/onsalesoon.html)  
-|   
-|   
-|  |  |   
-  
-|   
----|---  
-|  |  |   
 ---  
 Privacy Policy  
 | **liveDaily Privacy Policy**  
@@ -90,9 +50,4 @@ liveDaily.com, c/o Legal Department
 8800 West Sunset Boulevard  
 West Hollywood, CA 90069  
   
-|  |   
-  
-[FAQ](https://web.archive.org/faq.html) | [liveDaily newsletter](http://www.ticketmaster.com/member/?brand=livedaily) | [ticketAlert](https://web.archive.org/faq.html) | [Contact Us](mailto:feedback@livedaily.com) | [Advertise With Us](mailto:ads@livedaily.com)  
-[Privacy Policy](https://web.archive.org/privacy.html) | [Content Syndication](http://www.livedaily.com/rss/)
-
-© 1998 - 2004 Ticketmaster. All rights reserved. 
+|  | 
