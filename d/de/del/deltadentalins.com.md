@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603122204id_/http%3A//www.deltadentalins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204181935id_/http%3A//www.deltadentalins.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-For information regarding how we protect the privacy of enrollee information, please review the enrollee privacy statement, accessible from the home page of this web site. Information relating to the security of enrollee eligibility and benefits information is discussed in the Security section below.
+PRIVACY STATEMENT
 
-Policy
+This policy was last updated on March 27, 2004
 
-Delta Dental of California, Delta Dental of Pennsylvania, Delta Dental Insurance Company and Private Medical-Care, Inc. maintain the confidentiality of client, dentist and other information as required by law. Personal information that may be obtained through the use of our web services is not disclosed to other companies for marketing purposes, and personal information is released only as necessary for administration of the dental and vision benefit programs.
+For information regarding how we protect the privacy of enrollee information, please review the enrollee privacy statement, accessible from   
+the home page of this web site. Information relating to the security   
+of enrollee eligibility and benefits information is discussed in the   
+Security section below.
+
+Policy 
+
+Delta Dental of California, Delta Dental of Pennsylvania, Delta Dental Insurance Company and Private Medical-Care, Inc. maintain the confidentiality of client, dentist and other information as required by law. Personal information that may be obtained through the use of our web services is not disclosed to other companies for marketing purposes, and personal information is released only as necessary for administration of the dental and vision benefit programs. 
+
+If we receive personal information via the web site or email, unrelated to administration of a benefit program, it is retained only for the purposes of responding to an inquiry and is routinely purged from our system.
 
 Security
 
@@ -14,8 +23,8 @@ We employ security measures to control access to the eligibility and dental bene
 
 A personal login ID and password are required to access any of our online services that display personal enrollee information. The pages displaying the user's dental benefits and/or claims information are secured (encrypted) pages. The user identification and password required for site access is internally validated to ensure this information cannot be viewed without proper authority and security authentication.
 
-We understand there may be sensitivity about using Social Security Numbers as a means of identification. Social Security Numbers are routinely used for patient identification in health care, and we only use this number to administer dental and vision programs and do not release it to unauthorized individuals. We will comply with applicable laws relating to use and display of Social Security Numbers.
+We understand there may be sensitivity about using Social Security Numbers as a means of identification. Social Security Numbers are routinely used for patient identification in health care, and we only use this number to administer dental and vision programs and do not release it to unauthorized individuals. We will comply with applicable laws relating to use and display of Social Security Numbers. 
 
 Links to Other Web Sites
 
-While certain web pages may contain links to other related web sites, we are not responsible for the privacy practices or the content of such sites. The link to other web sites is for information purposes only and is not a guarantee or endorsement of the material, services or products on those web sites.
+While certain web pages may contain links to other related web sites, we are not responsible for the privacy practices or the content of such sites. The link to other web sites is for information purposes only and is not a guarantee or endorsement of the material, services or products on those web sites. 
