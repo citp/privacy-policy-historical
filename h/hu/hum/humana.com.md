@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215063400id_/http%3A//humana.com/misc/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602162046id_/http%3A//www.humana.com/misc/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
