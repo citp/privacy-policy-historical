@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2000-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000603235201id_/http%3A//www.lawguru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209220200id_/http%3A//www.lawguru.com/privacy.html) for the most accurate reproduction.*
 
 # LawGuru.com - Privacy Policy
 
@@ -30,7 +30,7 @@ If you have any additional questions about our dedication to consumer privacy, p
 
 LawGuru.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html> . 
 
-LawGuru works with a third party that serves ads to this site. To find out more about how **Engage Business Media** manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy/privacy.htm>. 
+LawGuru works with a third party that serves ads to this site. To find out more about how **Engage Business Media** manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.engage.com/privacy/privacy.htm](http://www.engage.com/privacy/). 
 
 * * *
 
