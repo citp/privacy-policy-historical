@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207095443id_/http%3A//www.reneerouleau.com/assistance/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603070434id_/http%3A//www.reneerouleau.com/assistance/privacy.aspx) for the most accurate reproduction.*
 
 # reneerouleau.com | assistance
 
