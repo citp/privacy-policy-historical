@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621115637id_/http%3A//janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205065300id_/http%3A//janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -9,7 +9,7 @@
 
      This site contains links to other sites. **www.janbrett.com** is not responsible for the privacy practices or the content of such Web sites.  No information gathered on **www.janbrett.com** is shared with any of these sites.
 
-**Newsletter and** **n ote to Parents**
+**Newsletter and n ote to Parent** **s**
 
      We offer a free online newsletter on our site in which we ask visitors for their email address and we run contests in which we ask visitors for their school addresses. The visitor's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.   No information gathered on **www.janbrett.com** is shared with any other person, group, or organization.
 
@@ -46,4 +46,4 @@
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   Jan Brett Post Office Box 366 Norwell, Ma. 02061   janbrett@janbrett.com
 
-[Home Page](https://web.archive.org/web/20000621115637id_/http%3A//janbrett.com/index.html)
+[Home Page](https://web.archive.org/web/20001205065300id_/http%3A//janbrett.com/index.html)
