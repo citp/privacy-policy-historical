@@ -1,501 +1,1176 @@
-<!--The following is the downloaded HTML source of the pcmag.com privacy policy that was archived on 2000-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001110135000id_/http%3A//www.zdnet.com/filters/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pcmag.com privacy policy that was archived on 2001-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011019182705id_/http%3A//www.pcmag.com/article/0%2C2997%2Cs%25253D400%252526a%25253D5902%2C00.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>ZDNet: Privacy</title>
-<meta http-equiv="expires" content="Tue, 20 Aug 1996 01:00:00 GMT">
+<title>PC Magazine</title>
+
+<link rel="STYLESHEET" type="text/css" href="/util/css/v01_PCM.css">
+
+ 
+
+<meta http-equiv="expires" content="Thu, 01 Dec 1994 16:00:00 GMT">
 <meta http-equiv="Pragma" content="no-cache">
-<!-- DD2: 10/19/2000 13:09:31 -->
-<script language="JavaScript">
-<!--
+<meta name="ELEMENT_ID" content="">
+<!-- Vignette V/5 Tue Oct 16 21:19:12 2001 -->
 
-function checkOS() {
-  if(navigator.userAgent.indexOf('Linux') != -1)
-    { var OpSys = "Linux"; }
-  else if((navigator.userAgent.indexOf('Win') != -1) &&
-  (navigator.userAgent.indexOf('95') != -1))
-    { var OpSys = "Windows95"; }
-  else if(navigator.userAgent.indexOf('Win') != -1)
-    { var OpSys = "Windows3.1 or NT"; }
-  else if(navigator.userAgent.indexOf('Mac') != -1)
-    { var OpSys = "Macintosh"; }
-  else { var OpSys = "other"; }
-  return OpSys;
-}
-
-var OpSys = checkOS();
-
-beginRollover = false;// This handles a bug in Nav4.0x that executes the code too quickly.
-
-// convert all characters to lowercase to simplify testing 
-var agt=navigator.userAgent.toLowerCase(); 
-// *** BROWSER VERSION *** 
-// Note: On IE5, these return 4, so use is_ie5up to detect IE5. 
-var is_major = parseInt(navigator.appVersion); 
-var is_minor = parseFloat(navigator.appVersion); 
-
-var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) 
-            && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1) 
-            && (agt.indexOf('webtv')==-1)); 
-var is_nav2 = (is_nav && (is_major == 2)); 
-var is_nav3 = (is_nav && (is_major == 3)); 
-var is_nav4 = (is_nav && (is_major == 4)); 
-var is_nav4up = (is_nav && (is_major >= 4)); 
-var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) || 
-                      (agt.indexOf("; nav") != -1)) ); 
-var is_nav5 = (is_nav && (is_major == 5)); 
-var is_nav5up = (is_nav && (is_major >= 5)); 
-
-var is_ie   = (agt.indexOf("msie") != -1); 
-var is_ie3  = (is_ie && (is_major < 4)); 
-var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) ); 
-var is_ie4up  = (is_ie  && (is_major >= 4)); 
-var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) ); 
-var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4); 
-var isIE4, isIE4PC, isNav4PC, isNav4, isNav3;
-
-if (is_ie4 || is_ie4up || is_nav5 || is_nav5up) {
-	isIE4 = true;
-	if (OpSys != "Macintosh") {
-		isIE4PC = true;
-	} 
-} else if (is_nav4) {
-	isNav4 = true;
-	if (OpSys != "Macintosh") {
-		isNav4PC = true;
-	} 
-} else if  (is_nav) {
-	isNav3 = true;	
-}
-
-self.name = "parentWin";
-function openDec(url, name, w, h) {
-        popupWin = window.open(url, name, 'resizable=1,scrollbars=1,width=' + w + ',height=' + h + '');
-    // focus window (only for Navigator >= 3.0)
-    if ( (navigator.appName != "Microsoft Internet Explorer") && (navigator.appVersion.substring(0,1) == "3") )
-    popupWin.focus();
-}
-if (OpSys == "Linux") {
-	document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet-linux.css" TITLE="ZDNet Planet Styles - Linux">');
-} else {
-	document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet.css" TITLE="ZDNet Planet Styles">');
-	if (isNav4PC) {
-		document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="http://www.zdnet.com/graphics/styles/planet-ns.css" TITLE="ZDNet Planet Styles - Netscape">');
-	}
-}
-//-->
-</script><link rel="STYLESHEET" type="text/css" href="http://www.zdnet.com/graphics/styles/planet-linux.css" title="ZDNet Planet Styles - Linux"></head>
-
-<body bgcolor="#FFFFFF" text="#000000" link="#333399" vlink="#0033CC" alink="#6666FF" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
- <script language="JavaScript1.2">
-if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:610">');}
-</script><div style="position:relative;top:0;left:0;width:610">
- <!-- START TOPTABLE -->
-<!--START TOPNAV-->
- 
-
-<!-- TOP NAV TABLE -->
-<table width="610" border="0" cellpadding="0" cellspacing="0" bgcolor="#0066CC">
-<tbody><tr><td align="center" valign="middle" height="20"> 
-<a class="tlink" href="http://www.zdnet.com/special/filters/sc/camera/" target="_top">Cameras</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/reviews" target="_top">Reviews</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/shopping/" target="_top">Shop</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/business/" target="_top">Business</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/help" target="_top">Help</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/news" target="_top">News</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/equip" target="_top">Electronics</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/games" target="_top">GameSpot</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/special/filters/giftguide/" target="_top">Holiday</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/downloads" target="_top">Downloads</a><span class="tsep"> | </span><a class="tlink" href="http://www.zdnet.com/developer" target="_top">Developer</a></td></tr>
-</tbody></table>
-<!-- END TOP NAV TABLE -->
-<!--END TOPNAV-->
-<table border="0" width="610" cellpadding="0" cellspacing="0">
- 
-	<tbody><tr><td align="LEFT" valign="BOTTOM" width="472" bgcolor="#333399">
-
-	<map name="zdnetlogo">
-	<area shape="RECT" coords="4,29,72,77" href="http://www.zdnet.com" target="_top">
-	</map>
-	<img src="http://www.zdnet.com/graphics/heads/908.gif" width="472" height="80" alt="Privacy" usemap="#zdnetlogo" border="0"><br>
-	</td>
-	<td align="CENTER" valign="MIDDLE" bgcolor="#333399">
-	<!--START PPLS-->
-	
-	
-	<table border="0" cellpadding="0" cellspacing="0" width="134">
-	<tbody><tr><td align="LEFT">
-
-<font color="#FFFFFF" size="-2">
-• <a href="http://chkpt.zdnet.com/chkpt/zdpp01/creative.zdnet.com/adverts/micro/msnexplorer/" target="_top"><span class="tsquirt">Get Explorer Now</span></a><br>
-<span class="spacer4">&nbsp;</span><br>
-• <a href="http://chkpt.zdnet.com/chkpt/zdpp02/computershopper.zdnet.com/texis/cs/topsellers.html" target="_top"><span class="tsquirt">Most Popular Products</span></a><br>
-<span class="spacer4">&nbsp;</span><br>
-• <a href="http://chkpt.zdnet.com/chkpt/zdpp03/www.zdnet.com/swlib/exclusiv.html" target="_top"><span class="tsquirt">Free Downloads</span></a><br>
-</font>
-</td></tr></tbody></table><!--END PPLS-->
-<img src="http://www.zdnet.com/graphics/clear.gif" width="138" height="1" alt=""><br>
-</td></tr></tbody></table>
+</head>					
 
 
-	
-		  <table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-		<tbody><tr>
-		<td align="LEFT" width="8">&nbsp;</td><td align="LEFT" valign="TOP" width="602">
-		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
-		<a class="bread" href="http://www.zdnet.com">ZDNet</a>&nbsp;<span class="bread">&gt;</span> <span class="breadb">Privacy</span><br>  <span class="spacer4">&nbsp;</span><br>
-		</td>
-		 </tr></tbody></table>
-		<table border="0" width="610" cellpadding="0" cellspacing="0">
-		<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#999999">
-		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
-		</td></tr></tbody></table>
-	 
-		<!--START AD TABLE-->
-		<table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-		<tbody><tr>
-		 <td align="CENTER" valign="TOP">
-		<span class="spacer6">&nbsp;</span><br>
-		<!-- START BANNER AD -->
-		<!-- Rebecca e40:12372 -->
-
-<!--ba--><font size="4"><a href="http://ads3.zdnet.com/c/g=r024&amp;c=a54598&amp;idx=2000.11.10.08.50.01/creative.zdnet.com/adverts/micro/msnexplorer/" target="_top"><img src="http://ads3.zdnet.com/i/g=r024&amp;c=a54598&amp;idx=2000.11.10.08.50.01/http://images.zdnet.com/adverts/imp/c17627/exp_contest_bn_browse_468x60.gif" height="60" width="468" border="1" alt="Click Here!"></a></font><!--bcg--><img src="http://gserv.zdnet.com/clear/SSEL=&amp;SSCH=&amp;SSNS=&amp;SSPR=&amp;SSTP=/ns.gif?a54598+973864201+r024+rh=" height="1" width="1"><img src="http://bcs.zdnet.com/prism/7/SSEL=&amp;SSCH=&amp;SSNS=&amp;SSPR=&amp;SSTP=" height="1" width="1"><!--ecg--><br><!--ea-->
-
- <!-- END BANNER AD -->
-		<span class="spacer6">&nbsp;</span><br></td>
-		</tr></tbody></table>
-		<!--END AD TABLE-->
-		<table border="0" width="610" cellpadding="0" cellspacing="0">
-		<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#999999">
-		<img src="http://www.zdnet.com/graphics/clear.gif" width="1" height="1" alt=""><br>
-		</td></tr></tbody></table>
-	 
-		<!--START SEARCH TABLE-->
-		<table border="0" width="610" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-		<tbody><tr><td align="CENTER" valign="MIDDLE">
-		<span class="spacer4">&nbsp;</span><br>
-		<!--SEARCH-->
-		<script language="Javascript">
-<!--
-function submit_it () {
-	if (document.zdform.db[1].selected) {
-  		document.directform.Utext.value = document.zdform.Utext.value; 
-    	document.directform.submit();
-  	} else {
-  		if (document.zdform.db[0].selected) {
-			document.zdform.Uch.value = '';
-		}
-  		document.zdform.submit();
-  	}
-}
-//-->
-</script>
+	<body topmargin="0" leftmargin="1" bgcolor="#FFFFFF" marginheight="0" marginwidth="0">
 
 
+<!-- End Banner Tables -->
+
+<!-- Begin Header Table -->
 
 
-	 <!-- START SEARCH -->
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td>
-<table border="0" cellpadding="0" cellspacing="0" align="CENTER">
-<tbody><tr><form name="zdform" method="get" action="http://xlink.zdnet.com/cgi-bin/texis/xlink/xlink/search.html" onsubmit="submit_it();return(false);"></form><td align="RIGHT" valign="MIDDLE" rowspan="2">
-<span class="search">Search For:</span></td>
-<td align="CENTER" valign="MIDDLE" rowspan="2">
-&nbsp;</td>
-<td align="LEFT" valign="MIDDLE" rowspan="2">
-<input type="hidden" name="Uch" value="">
-<input type="hidden" name="Utype" value="D">	
-<input type="TEXT" name="Utext" size="18">&nbsp;&nbsp;<span class="tdrop">
-<select name="db" class="tdrop">
-<option value="zd">&nbsp;All ZDNet&nbsp;</option>
-<option value="web">&nbsp;The Web&nbsp;</option>
-</select></span>&nbsp;&nbsp;<input type="submit" value="  GO  " onclick="submit_it();"></td>
-<td align="LEFT" rowspan="2">
-&nbsp;&nbsp;</td>
-<td align="LEFT" valign="MIDDLE">
-<span class="v10">•&nbsp;<a href="http://www.zdnet.com/filters/searchtips">Search Tips</a></span></td></tr>
-<tr><td align="LEFT" valign="MIDDLE">
-<span class="v10">•&nbsp;<a href="http://xlink.zdnet.com/cgi-bin/texis/xlink/psearch/search.html">Power Search</a></span></td><form name="directform" method="get" action="http://xlink.zdnet.com/cgi-bin/texis/xlink/websearch/search.html"></form>
-<input type="hidden" name="cmd" value="zd_qry">
-<input type="hidden" name="Utext" value="dvd"></tr></tbody></table>
-</td></tr></tbody></table>
- <!--END SEARCH-->
-		<span class="spacer4">&nbsp;</span><br></td>
-		</tr>
-		<tr><td align="left" valign="top" bgcolor="#999999">
-		<img src="http://www.zdnet.com/graphics/clear.gif" height="2" width="1" alt=""></td></tr>
-		</tbody></table>
-		<!--END SEARCH TABLE-->
-	  <!-- END TOPTABLE --><script language="JavaScript1.2">
-if (isIE4PC) {document.write('</DIV>');}
-</script></div>
+<!-- begin header -->
+<!-- top search -->
 
-	
-		<script language="JavaScript">
-if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:630">');}
-if ((isNav3) || (isNav4)) {document.write('<TABLE WIDTH="610" CELLPADDING="0" CELLSPACING="0" BORDER="0"><TR><TD VALIGN="TOP" WIDTH="142">');}
-</script><div style="position:relative;top:0;left:0;width:630">
-<table width="142" cellpadding="0" cellspacing="0" border="0" align="LEFT">
+<table cellspacing="0" cellpadding="0" border="0" class="bgcolor1" width="100%">
+<tbody><tr>
 
+
+<!-- Note: we expect to be in a TR of a TABLE -->
+
+<form name="SmpleSearchForm" action="/search_redirect/" method="GET" target="_top"></form>
+<td align="left" class="globalnav1" nowrap="" valign="top">
+<table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-	<td align="LEFT" valign="MIDDLE" rowspan="2">
-	<img src="/graphics/clear.gif" width="4" height="1" alt=""></td>
-	<td align="LEFT" valign="TOP" width="130">
-	<span class="spacer8">&nbsp;</span><br>
-	 </td>
-	<td align="LEFT" valign="MIDDLE">
-	<img src="/graphics/clear.gif" width="8" height="1" alt=""></td>
+		<td class="globalnavheader">&nbsp;&nbsp;&nbsp;&nbsp;Search&nbsp;</td>
+		<td><span class="globalnav3"><input name="query" type="text" size="20" maxlength="70" style="font-size:12px;font-family:monospace;"></span></td>
+		<td class="globalnavheader">&nbsp;&nbsp;in&nbsp;</td>
+		<td align="center" valign="middle">
+			<select name="selected_site" size="1" style="font-size:12px;">
+			<option value="0|eWEEK&amp;selected_site=ExtremeTech&amp;selected_site=Interactive+Week&amp;selected_site=PC+Magazine&amp;selected_site=The+Net+Economy&amp;selected_site=Ziff+Davis+Smart+Business| "> All Sites
+</option><option value="7|eWEEK|http://www.eweek.com/">eWEEK
+</option><option value="4|ExtremeTech|http://www.extremetech.com/">ExtremeTech
+</option><option value="8|Interactive+Week|http://www.interactiveweek.com/">Interactive Week
+</option><option value="3|PC+Magazine|http://www.pcmag.com/" selected="">PC Magazine
+</option><option value="9|The+Net+Economy|http://www.theneteconomy.com/">The Net Economy
+</option><option value="11|Ziff+Davis+Smart+Business|http://www.smartbusinessmag.com/">Ziff Davis Smart Business
+
+			</option></select>
+			
+		</td>
+		<td class="globalnav3" nowrap="" valign="bottom">&nbsp;<a href="JavaScript:document.SmpleSearchForm.submit();"><img src="/images/btn_go.gif" width="20" height="20" border="0" alt="" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;
+			&nbsp;
+			<!--<a href="/advanced_search">
+			<span class="globalnav4"><span class="WHITE">Advanced Search</span></span>
+			</a>-->
+		</td>
 	</tr>
-<tr>
-<td valign="TOP">
+</tbody></table>
+</td>
 
-	<!--BEGIN LEFT COLUMN TABLE-->
-<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#EEEEEE">
-<tbody><tr><td align="LEFT" valign="TOP">
-<span class="lhead2">Pick a Topic:</span><br>
-<span class="spacer6">&nbsp;</span><br>
 
-<a href="http://www.zdnet.com/reviews/"><span class="lhead">Reviews</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/products/hardwareuser/"><span class="ldeck">Hardware</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/products/softwareuser/"><span class="ldeck">Software</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/products/filter/guide/0,7267,1500113,00.html"><span class="ldeck">Desktops</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/reviews/"><span class="ldeck">More...</span></a><br>
-
-<span class="spacer6">&nbsp;</span><br>
-
-<a href="http://www.zdnet.com/shopping/"><span class="lhead">Shopping</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://computershopper.zdnet.com/texis/cs/baseframe.html"><span class="ldeck">Special Deals</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://zdnet.e-centives.com/"><span class="ldeck">Digital Coupons</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://auctions.zdnet.com"><span class="ldeck">Tech Auctions</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/shopping/"><span class="ldeck">More...</span></a><br>
-
-<span class="spacer6">&nbsp;</span><br>
-
-<a href="http://www.zdnet.com/business/"><span class="lhead">Business &amp; Tech</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/icom/e-business/"><span class="ldeck">E-Commerce</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/enterprise"><span class="ldeck">Enterprise</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/enterprise/linux"><span class="ldeck">Linux</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/business/"><span class="ldeck">More...</span></a><br>
-
-<span class="spacer6">&nbsp;</span><br>
-
-<a href="http://www.zdnet.com/help/"><span class="lhead">Help &amp; Learning</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/zdhelp/filters/subfilter/0,7212,6002585,00.html"><span class="ldeck">Tips</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/zdhelp/filters/subfilter/0,7212,6002354,00.html"><span class="ldeck">How To's</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/zdhelp/filters/helpfinder/0,7562,6006063,00.html"><span class="ldeck">Software Help</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/help/"><span class="ldeck">More...</span></a><br>
-
-<span class="spacer6">&nbsp;</span><br>
-
-<a href="http://www.zdnet.com/news/"><span class="lhead">Tech News</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/anchordesk/"><span class="ldeck">AnchorDesk</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/zdnn/computing"><span class="ldeck">Computing</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/zdnn/internet"><span class="ldeck">Internet</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/news/"><span class="ldeck">More...</span></a><br>
-
-<span class="spacer6">&nbsp;</span><br>
-
-<a href="http://www.zdnet.com/investing/"><span class="lhead">Investing</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdii.com/headline_scan.asp"><span class="ldeck">News</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdii.com/thedayahead.asp"><span class="ldeck">Analysis</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdii.com/market_summary.asp"><span class="ldeck">Markets</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/investing/"><span class="ldeck">More...</span></a><br>
- 
-<span class="spacer6">&nbsp;</span><br>
-
-<a href="http://www.zdnet.com/games/"><span class="lhead">Games</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/games/"><span class="ldeck">PC</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.videogames.com/psx/index.html"><span class="ldeck">PlayStation</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.videogames.com/n64/index.html"><span class="ldeck">N64</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.videogames.com/dream/"><span class="ldeck">Dreamcast</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/games/"><span class="ldeck">More...</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-
-<span class="spacer6">&nbsp;</span><br>
-
-<a href="http://www.zdnet.com/techlife/"><span class="lhead">Tech Life</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/familypc/"><span class="ldeck">Family</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/equip/"><span class="ldeck">Electronics</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/yil/"><span class="ldeck">The Web</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/techlife/"><span class="ldeck">More...</span></a><br>
-
-<span class="spacer6">&nbsp;</span><br>
-
-<a href="http://www.zdnet.com/downloads/"><span class="lhead">Downloads</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://hotfiles.zdnet.com/cgi-bin/texis/swlib/hotfiles/search.html?link=1&amp;Usrt=download&amp;Udownloads=20000"><span class="ldeck">Most Popular</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www5.zdnet.com/mac/download.html"><span class="ldeck">Macintosh</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.palmpilotsoftware.com"><span class="ldeck">Palm</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/downloads/"><span class="ldeck">More...</span></a><br>
-
-<span class="spacer6">&nbsp;</span><br>
-
-<a href="http://www.zdnet.com/developer/"><span class="lhead">Developer</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/devhead/filters/html/"><span class="ldeck">HTML</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/devhead/filters/java/"><span class="ldeck">Java</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/devhead/resources/scriptlibrary/"><span class="ldeck">ScriptLibrary</span></a><br>
-<span class="spacer2">&nbsp;</span><br>
-<a href="http://www.zdnet.com/developer/"><span class="ldeck">More...</span></a><br>
-<span class="spacer8">&nbsp;</span><br>
-</td></tr></tbody></table>
-<!-- END LEFT COLUMN TABLE--></td>
-<td align="LEFT" valign="MIDDLE">
-<img src="/graphics/clear.gif" width="8" height="1" alt=""></td>
+<td align="right" nowrap="" valign="top">
+<a href="http://www.ziffdavis.com" class="globalnav4" target="_top">Ziff Davis Home</a>
+</td>
+<td align="right" nowrap=""><a href="http://www.ziffdavis.com" target="_top"><img src="http://common.ziffdavisinternet.com/images/zd_global_nav_logo.gif" border="0" alt="Go"></a></td>
 </tr>
 </tbody></table>
-<script language="JavaScript">
-<!--
-if ((isNav3) || (isNav4)) {document.write('<BR></TD><TD VALIGN="TOP" WIDTH="468">');}
-//-->
-</script> 
+
+<!-- include file="display_large_banner_ad.asp" -->
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" valign="top">
+<tbody><tr>
+<td class="bgcolor14" rowspan="3" width="1%" align="right" valign="bottom">
+<!-- PC MAG LOGO --><a target="_top" href="http://www.pcmag.com/default/0,2999,,00.asp"><img src="/images/pcm_logo.gif" width="112" height="128" alt="" border="0"></a></td>
+<td width="1" class="bgcolor14"><img src="/images/shim.gif" width="1" height="74" alt="" border="0"></td>
+  
+    <td align="left" valign="top" class="bgcolor14" colspan="2" nowrap="">
+      <img src="/images/tagline.gif" width="149" height="30" alt="" border="0">
+  
+
+	<!-- Random Tagline -->
+	
+		  <iframe src="http://ad.doubleclick.net/adi/pcm.dart/home;ptile=1;sz=468x60;ord=794336200?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" hspace="5">
+		  	<A HREF="http://ad.doubleclick.net/jump/pcm.dart/home;abr=!ie;ptile=1;sz=468x60;ord=794336200?" TARGET="_top">
+			  <IMG SRC="http://ad.doubleclick.net/ad/pcm.dart/home;ptile=1;sz=468x60;ord=794336200?" border="0" height="60" width="468" hspace="5">
+			</A> 
+		  </iframe>	 
+		
+</td>
+</tr>
+
+  <tr>
+    <td width="1" class="bgcolor14"><img src="/images/shim.gif" width="1" height="25" alt="" border="0"></td>
+    <td wrap="" align="left" valign="top" class="bgcolor14"><span class="znav5">To visit ZDNet, <a href="http://www.zdnet.com" class="znav1" target="new">go to ZDNet.com</a></span></td>
+    <td align="right" valign="top" class="bgcolor14">
+      <span class="znav5" align="right">
+      Friday, October 19, 2001
+	  </span>&nbsp;</td>
+  </tr>
+
+<tr valign="top">
+<td width="1" class="bgcolor2"><img src="/images/shim.gif" width="1" height="29" alt="" border="0"></td>
 
 
-	
-		<table border="0" cellspacing="0" cellpadding="0" align="LEFT" width="468">
-	 <tbody><tr>
-	<td align="LEFT" valign="TOP" width="468">
-	
-		<span class="spacer8">&nbsp;</span><br>  
-		<span class="mhead">Your Privacy Matters To Us</span>
-<p>
-<span class="body">
-<a href="https://www.truste.org/validate/381"><img src="/findit/graphics/verifybox.gif" height="73" width="91" border="0" align="right" hspace="5" vspace="5" alt="TRUSTe: Click to Verify"></a>
-This Overall Privacy Statement verifies that ZDNet is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. This statement discloses the privacy practices for the entire Web site. 
-</span></p><p>
-TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
-</p><p>
-1.What information this site gathers/tracks about you<br>
-2.What this site does with the information it gathers/tracks<br>
-3.With whom this site shares the information it gathers/tracks 
-</p><p>
-ZDNet collects personal information from you (name, postal address, e-mail address, and other data) during registration for the ZDNet service, from our use of "cookie" technology and IP-address logging as you use the service, during entry into a contest or sweepstakes, and from your participation in optional online surveys. We may exchange some of this information with business partners who offer co-branded services as part of ZDNet, such as eCircles, Deja.com, Techies.com, onebox.com and others. The information you provide allows us to inform you about updates to the service and to notify you of products and services of ZDNet, its affiliates, and third parties that we believe may be of interest to you. As part of the registration process, we give you the opportunity to decline to receive any mailings from ZDNet and other companies to whom we may provide such information.
-</p><p>
-The ZDNet service is directed to teenagers and adults and is not directed to children under the age of 13. ZDNet complies with the Children's Online Privacy Protection Act and does not permit registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted wherever ZDNet collects data within the ZDNet service, such as during the registration process.
-</p><p>
-The data we collect from cookies and IP addresses gives us demographic information about the entire ZDNet audience, which we use to improve the ZDNet service. We also share aggregate information -- not individual data -- with our advertisers to help them better understand our services and to monitor the reach of their advertising on the service. ZDNet also may disclose or exchange with others information you have provided to us if we believe in good faith that the law requires us to do so or if it is necessary to protect the rights or property of ZDNet or our users.   
-</p><p>
-Advertisers on ZDNet may deliver their ads via third-party advertising networks. One of these networks, Engage, is used on ZDNet occasionally for serving and/or targeting of banner ads, promotions and other marketing messages. Engage collects anonymous data, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to: <a href="http://www.engage.com/privacy">http://www.engage.com/privacy</a>
-</p><p>
-ZDNet uses reasonable precautions to keep the information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. ZDNet also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users. 
-</p><p>
-Users of the ZDNet eCircles service should be aware that eCircles may also collect information about you and may exchange that information with other business partners to verify your identity and to give you access to their services. On ZDNet eCircles, the content sent to a circle is posted and available to all of the other members of that particular circle but is not publicly available on the Web. When you are voluntarily participating in and sending information to your circles, the information disclosed by you could be collected and used by others who visit that circle.  
-</p><p>
-You may correct your member information or select the option not to receive ZDNet mailings by going <a href="http://members.zdnet.com/edituser">here</a>. If you have questions, you should direct them to the ZDNet site privacy coordinator at <a href="mailto:privacy@zdcommunity.com">privacy@zdcommunity.com</a> or <a href="http://www.truste.org/">TRUSTe</a> for clarification. 
-</p><p>
-  </p></td>
-	</tr>
- </tbody></table>
-<script language="JavaScript">
-if ((isNav3) || (isNav4)) {document.write('</TD></TR></TABLE>');}
-if (isIE4PC) {document.write('</DIV>');}
-</script></div>
-<br clear="ALL">
-<br clear="ALL"> <script language="JavaScript1.2">
-if (isIE4PC) {document.write('<DIV STYLE="position:relative;top:0;left:0;width:610;vertical-align:top">');}
-</script><div style="position:relative;top:0;left:0;width:610;vertical-align:top">
-<table width="610" border="0" cellpadding="0" cellspacing="0">
+<td align="left" class="bgcolor2" valign="middle"><span class="znav5">Already a Member? <a href="http://www.pcmag.com/sign_up/0,3017,,00.asp?success_page=%2Farticle%2F0,2997,s%3D400%26a%3D5902,00%2Easp&amp;success_title=Home&amp;failure_page=%2Farticle%2F0,2997,s%3D400%26a%3D5902,00%2Easp" target="_top" class="znav1">Sign in</a>&nbsp;&nbsp;&nbsp;Not a member? <a href="http://www.pcmag.com/join/0,3004,section%25255Fid%253D400,00.asp?success_page=%2Farticle%2F0,2997,s%3D400%26a%3D5902,00%2Easp&amp;success_title=Home&amp;failure_page=%2Farticle%2F0,2997,s%3D400%26a%3D5902,00%2Easp" target="_top" class="znav1">Join Now.</a></span></td>
+
+<td align="right" valign="middle" class="bgcolor2">
+<span class="znav5" align="right">
+
+	<span class="znav5">HOME</span> | 
+
+
+<a href="http://www.pcmag.com/view_profile/0,2993,,00.asp" target="_top" class="znav5">MY ACCOUNT</a> | 
+
+	<a href="http://www.pcmag.com/sign_up/0,3017,,00.asp?success_page=%2Farticle%2F0,2997,s%3D400%26a%3D5902,00%2Easp&amp;success_title=Home&amp;failure_page=%2Farticle%2F0,2997,s%3D400%26a%3D5902,00%2Easp" target="_top" class="znav5">SIGN IN &nbsp;</a>
+
+</span>
+</td>
+</tr>
+
+</tbody></table>
+
+<!-- End Header Tables -->
+<!-- 
+Set Table Widths
+RIGHT NAV AND ADD
+Center = 287
+R_Space = 5
+Right_Nav = 145
+Add_Space = 5
+Add = 160
+
+ADD
+Center = 432
+R_Space = 1
+Right_Nav = 1
+Add_Space =3
+Add = 160
+
+RIGHT
+Center = 449
+R_Space = 5
+Right_Nav = 145
+Add_Space = 1
+Add = 1
+-->
+<!----------------- Begin 7 column main table ----------------->
+<!-- ************************************************************760-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td width="153" valign="top" class="bgcolor3" rowspan="4">
+<!-- Begin left nav -->
+<!-- LEFT NAV  - ALL ONE TABLE -->
+<table width="153" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="4"><spacer width="4" height="1" type="block"></spacer></td>
+<td>
+<!-- SECTIONS - ALL IMAGES-->
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1470,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1407,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1473,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1412,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1476,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1417,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1489,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1432,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1479,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1421,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1488,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1426,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1493,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1435,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1504,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1454,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1508,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1467,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1554,00.asp"><img src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1475,00.jpg" width="147" height="21" alt="" border="0"></a><br>
+
+<img src="/images/leftnav_shim.gif" width="1" height="2" alt="" border="0"><br>
+
+<!-- END SECTIONS -->
+</td>
+<td width="4"><spacer width="4" height="1" type="block"></spacer></td>
+</tr>
+<tr>
+<td></td>
+<td align="left"><img src="/images/leftnav_bottom.gif" width="147" height="22" alt="" border="0"><p>
+</p></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td background="/images/blue_dot.gif" class="dot">&nbsp;
+</td>
+<td></td>
+</tr>
+</tbody></table>
+
+<table width="153" border="0" cellpadding="0" cellspacing="0">
+<!-- LEFT MODULES -->
 
 	<tbody><tr>
+	<td width="5"><img src="/images/shim.gif"></td>
+	<td class="content2" align="left"><br> &nbsp;<img src="../images/hdr_product_guides.gif" width="93" height="12" alt="" border="0"><br>&nbsp;&nbsp;<img src="../images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/category/0,2999,s%253D1564,00.asp" id="1564" class="content2">Desktops</a><br> &nbsp;&nbsp;<img src="../images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/category/0,2999,s%253D1563,00.asp" id="1563" class="content2">Digital Cameras</a><br> &nbsp;&nbsp;<img src="../images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/category/0,2999,s%253D1568,00.asp" id="1568" class="content2">Displays</a><br> &nbsp;&nbsp;<img src="../images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/category/0,2999,s%253D1566,00.asp" id="1566" class="content2">Handhelds</a><br> &nbsp;&nbsp;<img src="../images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/category/0,2999,s%253D1610,00.asp" id="1610" class="content2">Networking</a><br> &nbsp;&nbsp;<img src="../images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/category/0,2999,s%253D1565,00.asp" id="1565" class="content2">Notebooks</a><br>&nbsp;&nbsp;<img src="../images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/category/0,2999,s%253D1567,00.asp" id="1567" class="content2">Printers</a><br><br> <div align="right"><a href="http://www.pcmag.com/category/0,2999,s%253D1562,00.asp" id="1562" class="content3">view all Guides &gt;&gt;</a></div> <br></td>
+	<td width="5"><img src="/images/shim.gif"></td>
+	</tr>
+	<tr>
+	<td width="5"><img src="/images/shim.gif"></td>
+	<td background="/images/blue_dot.gif" class="dot">&nbsp;</td>
+	<td width="5"><img src="/images/shim.gif"></td>
+	</tr>
+
+	<tr>
+	<td width="5"><img src="/images/shim.gif"></td>
+	<td class="content2" align="left">&nbsp;<a href="http://www.extremetech.com" class="content3"><img width="140" height="27" border="0" src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D1789,00.gif" alt="ExtremeTech Logo" nopopup="" nocaption="" notable="" align="left"></a><br clear="all">
+&nbsp;&nbsp;New for hardcore<br>
+&nbsp;&nbsp;techies, deep analysis<br>
+&nbsp;&nbsp;of these hot topics<br>
+&nbsp;&nbsp;and more:<br>
+&nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.extremetech.com/category/0,3398,s%253D1005,00.asp" class="content3">Core PC Tech</a><br>
+&nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.extremetech.com/category/0,3398,s%253D1009,00.asp" class="content3">Digital Imaging</a><br>
+&nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.extremetech.com/category/0,3398,s%253D1455,00.asp" class="content3">Software Development</a><br>
+&nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.extremetech.com/category/0,3398,s%253D1017,00.asp" class="content3">3D Graphics &amp; Gaming</a><br>
+&nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.extremetech.com" class="content3">More...</a><br><br></td>
+	<td width="5"><img src="/images/shim.gif"></td>
+	</tr>
+	<tr>
+	<td width="5"><img src="/images/shim.gif"></td>
+	<td background="/images/blue_dot.gif" class="dot">&nbsp;</td>
+	<td width="5"><img src="/images/shim.gif"></td>
+	</tr>
+
+	<tr>
+	<td width="5"><img src="/images/shim.gif"></td>
+	<td class="content2" align="left"><br><a href="https://www.zdmcirc.com/zdmcirc/default.asp?LK=TEXTL&amp;I=ibmp" class="content3">3 FREE 
+
+CD-ROMs <br>
+Save 77% on PC Magazine</a><p> &nbsp;<a href="/current_issue/" class="content5"><img width="52" height="68" border="0" src="http://common.ziffdavisinternet.com/util_get_image/0/0,3363,i%253D5082,00.jpg" alt="vol. 20 iss. 18 Cover (small)" notable="" nopopup="" align="left"></a>&nbsp;<br>
+<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0">
+
+<a href="https://www.zdmcirc.com/zdmcirc/default.asp?LK=TEXTL&amp;I=ibmp" class="content3">Subscribe</a><br>
+<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://service.pcmag.com" class="content3">Subscriber Help</a><br>
+<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://give.pcmag.com" class="content3">Give a Gift</a><br><img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://pcmagmedia.com" class="content3">Advertise</a>
+
+
+ <br clear="all"> &nbsp;<a href="/current_issue/" class="content5">Current Issue</a>
+
+<br> &nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/article/0,2997,s%253D1590%2526a%253D15581,00.asp" id="15581" class="content3">Windows XP</a>
+
+<br> &nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/article/0,2997,s%253D1474%2526a%253D15687,00.asp" id="15687" class="content3">Portable Projectors</a>
+
+<br> &nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/article/0,2997,s%253D1470%2526a%253D15612,00.asp" id="15612" class="content3">Web Collaboration</a>
+
+<br> &nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/article/0,2997,s%253D1555%2526a%253D15844,00.asp" id="15844" class="content3">Online Gaming</a>
+
+<br> &nbsp;&nbsp;<img src="/images/white_dot.gif" width="6" height="8" alt="" border="0"><a href="http://www.pcmag.com/article/0,2997,s%253D1661%2526a%253D15269,00.asp" id="15269" class="content3">Ad Index</a>
+
+<br> <br> &nbsp;<a href="http://www.pcmag.com/previous_issues/0,3034,,00.asp" class="content5">Previous Issues</a><br><br></p></td>
+	<td width="5"><img src="/images/shim.gif"></td>
+	</tr>
+	<tr>
+	<td width="5"><img src="/images/shim.gif"></td>
+	<td background="/images/blue_dot.gif" class="dot">&nbsp;</td>
+	<td width="5"><img src="/images/shim.gif"></td>
+	</tr>
+
+<tr><form action="/data_process_newsletter_manage/" name="newslettersForm" method="get"></form>
+<td></td>
+
+
+<td class="content3"><br><!-- free newsletters -->
+<input type="hidden" name="g_site_cda_path" value="/">
+<input type="hidden" name="source_url" value="/pcmag/article.asp">
+&nbsp;<img src="/images/hdr_free_newletters.gif" width="109" height="13" alt="" border="0"><br>
+&nbsp;Get PCMag's<br>
+&nbsp;FREE online newsletters!
+<br>
+
+<input type="hidden" name="component" value="1">
+<b>Inside PCMag.com</b><br>
+			<input type="checkbox" name="1" value="1"> HTML
+			<input type="checkbox" name="1" value="2" checked=""> Text<br><br><b>Internet Business Technology</b><br>
+			<input type="checkbox" name="3" value="1"> HTML
+			<input type="checkbox" name="3" value="2" checked=""> Text<br><br><b>First Looks Update</b><br>
+			<input type="checkbox" name="2" value="1"> HTML
+			<input type="checkbox" name="2" value="2" checked=""> Text<br><br><b>Tip of the Day</b><br>
+			<input type="checkbox" name="39" value="1"> HTML
+			<input type="checkbox" name="39" value="2" checked=""> Text<br><br><b>PC Magazine's TrendWatch</b><br>
+			<input type="checkbox" name="31" value="1"> HTML
+			<input type="checkbox" name="31" value="2" checked=""> Text<br><br>
+Enter your e-mail:
+<input type="text" size="8" name="email">&nbsp;&nbsp;
+<a href="JavaScript: document.newslettersForm.submit();"><img src="/images/button_submit.gif" width="58" height="20" alt="" border="0"></a>
+
+
+<br><div class="content3" align="right"><a href="JavaScript: document.newslettersForm.action='http://www.pcmag.com/newsletter_manage/0,3020,,00.asp';document.newslettersForm.submit();" class="content3">view all newsletters &gt;&gt;</a></div>
+<br>
+</td>
+<td></td>
+</tr>
+
+	<tr>
+	<td width="5"><img src="/images/shim.gif"></td>
+	<td background="/images/blue_dot.gif" class="dot">&nbsp;</td>
+	<td width="5"><img src="/images/shim.gif"></td>
+	</tr>
 	
-		<td width="4" rowspan="2" bgcolor="#FFFFFF"><img src="http://www.zdnet.com/graphics/clear.gif" width="4" height="1" alt=""></td>
-		<td valign="TOP" width="606" bgcolor="#FFFFFF">
-	   </td>
+	<tr>
+	<td width="5"><img src="/images/shim.gif"></td>
+	<td class="content2" align="left"><br></td>
+	<td width="5"><img src="/images/shim.gif"></td>
+	</tr>
+
+<!-- END MODULES -->
+</tbody></table>
+
+<table width="153" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+<!-- join advisory board -->
+<!-- &nbsp;<a href="#" class="content3">Join our advisory board</a><br><p><p>-->
+</td>
+</tr>
+</tbody></table>
+
+<!-- end left nav -->
+</td>
+<td colspan="6" valign="top" width="100%">
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+	<td height="20" class="bgcolor13">
+	<span class="dot"><br>&nbsp;&nbsp;</span>
+	<a class="content10" href="http://www.pcmag.com/default/0,2999,,00.asp">Home</a><span class="content8">&nbsp;&gt;&nbsp;</span><span class="content10">Privacy Policy</span>
+	</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+<!-- Call the module data file before the main content area to check whether there are modules to display -->
+
+<tr>
+<td width="5" rowspan="3"><img src="/images/shim.gif" width="5" height="200" alt="" border="0"></td>
+<td colspan="3" class="bgcolor12" valign="top"></td>
+<!-- IF No Right Nav Reduce Width to 3 -->
+<td width="5" rowspan="3"><img src="/images/shim.gif" width="5" height="1" alt="" border="0"></td>
+<!-- end spacer -->  
+<td width="160" valign="top" rowspan="3" align="center">
+<!-- Begin advertisements -->
+
+<!-- ADDS -->
+
+			<img src="/images/shim.gif" width="5" height="4" alt="" border="0"><br>
+			<span class="dot3"></span>
+			<span class="content10"><center>ADVERTISEMENTS</center></span>
+			<span class="dot3"></span>
+		
+			<iframe src="http://ad.doubleclick.net/adi/pcm.dart/home;ptile=2;sz=160x600;ord=794336200?" width="160" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" hspace="5">
+			  <A HREF="http://ad.doubleclick.net/jump/pcm.dart/home;abr=!ie;ptile=2;sz=160x600;ord=794336200?" TARGET="_top">
+			    <IMG SRC="http://ad.doubleclick.net/ad/pcm.dart/home;abr=!ie;ptile=2;sz=160x600;ord=794336200?" border="0" height="600" width="160" hspace="5"></A> 
+			</iframe> 
+		
+			<span class="dot3"><br></span>
+			<span class="dot3"><center>......................................</center></span>
+			<span class="dot3"><br></span>		
+			
+			<iframe src="http://ad.doubleclick.net/adi/pcm.dart/home;ptile=3;sz=160x90;ord=794336200?" width="160" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" hspace="5">
+			  <A HREF="http://ad.doubleclick.net/jump/pcm.dart/home;abr=!ie;ptile=3;sz=160x90;ord=794336200?" TARGET="_top">
+			    <IMG SRC="http://ad.doubleclick.net/ad/pcm.dart/home;abr=!ie;ptile=3;sz=160x90;ord=794336200?" border="0" height="90" width="160" hspace="5"></A> 
+			</iframe> 
+		
+<br><br><br><br><br>
+
+<!-- end advertisements -->
+&nbsp;
+</td>
+</tr>
+<tr>
+<!-- End LEFT Column -->
+<td valign="top" width="100%" height="1000"><span class="dot"><img src="/images/shim.gif" width="287" height="1" alt="" border="0"><br></span>
+<!-- BEGIN Center Column -->
+
+
+<script language="JavaScript">
+<!--  
+  function AlterActionAndSubmit()
+  {
+	if (document.toc_form.toc_select.value != "") 
+		{
+		toc_select_index = document.toc_form.toc_select.selectedIndex;
+		toc_select_value = document.toc_form.toc_select.options[toc_select_index].value;
+
+		document.toc_form.action = toc_select_value;		
+		document.toc_form.submit();
+		}
+  }
+  
+function OpenSlideshowWindow(slideshow_name, winWidth, winHeight,isScrollbar)
+{
+LeftPosition = (winWidth) ? (winWidth) : 0;
+TopPosition = (winHeight) ? (winHeight): 0;
+settings = 'menubar=no,toolbar=no,scrollbars=yes,height=' + winHeight + ',width=' + winWidth
+hWin = window.open(slideshow_name, "SlideshowPopup", settings, false);
+hWin.focus();
+if (hWin.opener == null) hWin.opener = self;
+}
+
+
+
+// -->
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr valign="top">
+
+	    <td valign="top" align="left">
+    	<br><span class="hdr4">Privacy Policy</span>
+	
+	<p></p></td>
+</tr>
+</tbody></table>
+
+<table width="100%" cellpadding="1" cellspacing="0" border="0">
+
+<tbody><tr>
+  <td align="left" class="content10">
+  </td>
+</tr>
+
+
+
+<tr valign="top">
+<td align="left" class="contentBody"><p>
+</p><p>
+We are committed to protecting your privacy at Ziff Davis Media. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement. 
+</p><p>
+<span class="hdr6">How we use cookies</span></p><p>
+As you probably know, cookies are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, Ziff Davis Media uses cookies to identify members so they don't have to re-enter a user id and password when they, for example, wish to post to a discussion.  By allowing us to better understand how users access the site, cookies also help us improve your experience and deliver more relevant content to you.  Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.  If you choose to become a member of this Web site, you must have cookies enabled to access any member related pages (i.e. Discussion Boards, Member Profile pages, Search for a Member).
+</p><p>
+<span class="hdr6">What we provide to third parties</span></p><p>
+While Ziff Davis Media does not provide any third-party access to your personal information, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during thousands of customer visits to our Web site each month but does not contain behavioral or identifying information about any individual member, unless that member has given us permission to share that information.  We may also provide log files and other databases of user information to third parties for analysis, so we can get a better understanding of traffic through our site and thus improve our content offerings. Ziff Davis Media also may use third party companies to provide delivery of e-mail newsletters and other messages over e-mail.
+Ziff Davis Media uses a third-party advertising company to serve ads when you visit our sites.  This company may use information (not including your name, address, e-mail address or telephone number) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. In addition, we share web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our sites.  For this purpose, we and our third-party advertising company may use pixel tags (also called clear gifs and beacons). If you would like more information about the information collection practices of this third-party advertising company and to know your choices about not having this information used by this company, <a target="_blank" href="http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp;">click here</a>. 
+</p><p>
+<span class="hdr6">The Magazines</span></p><p>
+For magazine subscribers, we collect the information we need when you place a subscription order, and sometimes during the course of a subscription when additional information is required to renew it or to provide customer service. 
+We sometimes make lists of our customers available to carefully screened providers of quality goods and services.   If you don't wish to receive such mailings, please visit <a target="_blank" href="http://www.zmcirc.com/service/">www.zmcirc.com/service/</a>. Your information may not be immediately available - please allow 2-4 weeks for us to process new orders. 
+
+The data we collect from our subscribers is used collectively to give us demographic information about our entire audience, which helps us improve the magazine. We also share this information with our advertisers to help them better understand our services. 
+</p><p>
+<span class="hdr6">Security</span></p><p>
+We use reasonable precautions to keep the personal information you disclose to both our magazine and website secure and to only release this information to third parties we believe share our commitment to privacy. However, we are not responsible for any breach of security or for the actions of these parties. 
+</p><p>
+<span class="hdr6">Obtaining your consent</span></p><p>
+By using our Web site, you give Ziff Davis Media permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at Ziff Davis Media, you authorize Ziff Davis Media to use information you provide to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data.
+</p><p>
+<span class="hdr6">Questions?</span></p><p>
+If you wish to change any information you have given us, or have any questions on our Privacy Policy, you can contact us at <a href="mailto:site_feedback@ziffdavis.com">site_feedback@ziffdavis.com</a>.
+
+
+</p></td>
+</tr>  
+ 
+</tbody></table>
+<table width="100%">
+<tbody><tr>
+  <td align="left" valign="top" nowrap="" width="50%">
+  
+  	&nbsp;
+  
+  </td>
+  <td align="right" valign="top" nowrap="" width="50%">&nbsp;
+  
+  &nbsp;
+  </td>
+</tr>
+</tbody></table>
+
+<br>
+
+
+<br>
+<!-- sponsors -->
+
+
+</td>
+
+<!-- End Center Column  **** -->
+
+<!-- If 3 column Reduce td and shim width to 1 -->
+<td width="5" rowspan="2"><img src="/images/shim.gif" width="5" height="1000" alt="" border="0"></td>
+<!-- end spacer -->
+<!-- If 3 Column Width "NO RIGHT NAV" Then reduce width to 1 -->
+<!-- begin right side nav -->
+<td width="145" valign="top" align="center" rowspan="2">
+
+
+<span class="dot"><br></span>
+
+
+<br> 
+<!-- END TABLE OF CONTENTS -->
+<script language="JavaScript">
+function OpenSaveArticleWindow(querystring)
+{
+LeftPosition = (screen.width) ? (screen.width)/10 : 0;
+TopPosition = (screen.height) ? (screen.height)/10 : 0;
+settings = 'menubar=no,height=400,width=500'
+hWin = window.open("/save_article/" + querystring, "SaveArticle", settings, false);
+hWin.focus();
+if (hWin.opener == null) hWin.opener = self;
+}
+
+function OpenEmailArticleWindow(querystring)
+{
+	LeftPosition = (screen.width) ? (screen.width)/10 : 0;
+	TopPosition = (screen.height) ? (screen.height)/10 : 0;
+	settings = 'menubar=no,height=400,width=500,resizable=yes,scrollbars=yes'
+	hWin = window.open("/email_article/" + querystring, "SaveArticle", settings, true);
+	hWin.focus();
+	if (hWin.opener == null) hWin.opener = self;
+}
+
+
+
+</script>
+ 
+ <table cellpadding="0" cellspacing="0" border="0" width="145">
+
+	<tbody><tr>
+	 <td width="20"><spacer width="20" height="1" type="block"></spacer> </td>
+     <td width="31"><a href="http://www.pcmag.com/print_article/0,3048,a%253D5902,00.asp" class="link6"><img src="/images/icon_print_pur.gif" width="31" height="20" alt="" border="0" align="absmiddle"></a></td>
+     <td><a href="http://www.pcmag.com/print_article/0,3048,a%253D5902,00.asp" class="link6">Print</a></td>
+   </tr>
+   
+      
+   <tr>
+   <td><spacer width="20" height="1" type="block"></spacer></td>
+     <td width="31"><a href="JavaScript:OpenEmailArticleWindow('?a=5902&amp;s=400&amp;c=/');" class="link6"><img src="/images/icon_email_pur.gif" width="31" height="20" alt="" border="0" align="absmiddle"></a></td>
+     <td><a href="JavaScript:OpenEmailArticleWindow('?a=5902&amp;s=400&amp;c=/');" class="link6">Email</a></td>
+   </tr>
+   
+   <tr>
+   	 <td><spacer width="20" height="1" type="block"></spacer></td>
+     <td><a href="http://www.pcmag.com/sign_up/0,3017,,00.asp?success_page=http://www.pcmag.com/article/0,2997,save%253D1%2526s%253D400%2526a%253D5902,00.asp&amp;success_title=Article&amp;failure_page=" class="link6"><img src="/images/icon_save_pur.jpg" width="31" height="20" alt="" border="0" align="absmiddle"></a></td>
+     <td><a href="http://www.pcmag.com/sign_up/0,3017,,00.asp?success_page=http://www.pcmag.com/article/0,2997,save%253D1%2526s%253D400%2526a%253D5902,00.asp&amp;success_title=Article&amp;failure_page=" class="link6">Save</a></td>
+   </tr>
+
+  
+ </tbody></table>
+ <br>
+<!-- RELATED LINKS -->
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="bgcolor5">
+<tbody><tr>
+<td class="bgcolor2" colspan="3" align="center" valign="middle">
+<span class="hdr1">BREAKING NEWS</span></td>
+</tr>
+	
+<tr>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+<td class="breaknewstime"><br>1:50PM<br>
+<a href="http://www.pcmag.com/article/0,2997,s%253D1582%2526a%253D16794,00.asp" class="link1">IBM Takes Aim at BEA With New E-Biz System </a><br>
+
+<span class="dot2">.........................................</span><br>
+
+</td>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+</tr>
+
+<tr>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+<td class="breaknewstime"><br>9:06AM<br>
+<a href="http://www.pcmag.com/article/0,2997,s%253D1582%2526a%253D16747,00.asp" class="link1">Microsoft: No Good News on the PC Front</a><br>
+
+<span class="dot2">.........................................</span><br>
+
+</td>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+</tr>
+
+<tr>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+<td class="breaknewstime"><br>8:47AM<br>
+<a href="http://www.pcmag.com/article/0,2997,s%253D1582%2526a%253D16746,00.asp" class="link1">Gateway Reports Big Q3 Loss; Sees Q4 Uptick</a><br>
+
+<span class="dot2">.........................................</span><br>
+
+</td>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+</tr>
+
+<tr>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+<td class="breaknewstime"><br>10.18.2001<br>
+<a href="http://www.pcmag.com/article/0,2997,s%253D1582%2526a%253D16708,00.asp" class="link1">Security, Competition Clash in Verizon UNE-P Pricing Fight</a><br>
+
+<span class="dot2">.........................................</span><br>
+
+</td>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+</tr>
+
+<tr>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+<td class="breaknewstime"><br>10.18.2001<br>
+<a href="http://www.pcmag.com/article/0,2997,s%253D1582%2526a%253D16698,00.asp" class="link1">Sprint Shuts Off ION, Plans Layoffs</a><br>
+
+<br>
+
+</td>
+<td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+</tr>
+
+<tr class="bgcolor6">
+<td align="right" valign="middle" colspan="3"><a href="http://www.pcmag.com/category/0,2999,s%253D1582,00.asp" class="link2"><font size="1">view all</font> Breaking News<font size="1">&gt;&gt;</font></a></td>
+</tr>
+</tbody></table>
+
+	  <br>
+	
+<table width="145" cellpadding="0" cellspacing="0" border="0" class="bgcolor5">
+<tbody><tr>
+<td colspan="3" class="bgcolor2" align="center" valign="middle"><span class="hdr1">COMMUNITY</span> </td>
+</tr>
+<tr>
+<td class="bgcolor5" width="7"><spacer width="7" type="block" height="1"></spacer></td>
+<td class="content9" colspan="2"><br><span class="link5"></span><!-- Vignette V/5 Fri Oct 19 14:07:17 2001 -->
+<!-- PCMag CDA R0.87 -->
+<!-- CDA R1.53 -->
+<span class="hdr2">Recent Discussions</span><br>
+  </td></tr><tr><td>&nbsp;</td><td class="content9" valign="top" width="10">•&nbsp;</td><td><a href="http://login.discuss.ziffdavisinternet.com/dir-login/index.asp?webtag=pcmag&amp;lgnF=y&amp;lgnDST=http%3A%2F%2Fdiscuss%2Epcmag%2Ecom%2Fpcmag%2Fmessages%2F%3Fmsg%3D1538" class="link1">Free online storage?</a><br></td></tr><tr><td>&nbsp;</td><td class="content9" valign="top" width="10">•&nbsp;</td><td><a href="http://login.discuss.ziffdavisinternet.com/dir-login/index.asp?webtag=pcmag&amp;lgnF=y&amp;lgnDST=http%3A%2F%2Fdiscuss%2Epcmag%2Ecom%2Fpcmag%2Fmessages%2F%3Fmsg%3D1484" class="link1">WINDOWS-XP REVIEWS - FORGOT REAL WORLD ?</a><br></td></tr><tr><td>&nbsp;</td><td class="content9" valign="top" width="10">•&nbsp;</td><td><a href="http://login.discuss.ziffdavisinternet.com/dir-login/index.asp?webtag=pcmag&amp;lgnF=y&amp;lgnDST=http%3A%2F%2Fdiscuss%2Epcmag%2Ecom%2Fpcmag%2Fmessages%2F%3Fmsg%3D1536" class="link1">FIGHT BACK, HOW? (GEOCITIES)</a><br></td></tr><tr><td>&nbsp;</td><td class="content9" valign="top" width="10">•&nbsp;</td><td><a href="http://login.discuss.ziffdavisinternet.com/dir-login/index.asp?webtag=pcmag&amp;lgnF=y&amp;lgnDST=http%3A%2F%2Fdiscuss%2Epcmag%2Ecom%2Fpcmag%2Fmessages%2F%3Fmsg%3D1507" class="link1">IBOOK or not???HELP!!</a><br></td></tr><tr><td>&nbsp;</td><td class="content9" valign="top" width="10">•&nbsp;</td><td><a href="http://login.discuss.ziffdavisinternet.com/dir-login/index.asp?webtag=pcmag&amp;lgnF=y&amp;lgnDST=http%3A%2F%2Fdiscuss%2Epcmag%2Ecom%2Fpcmag%2Fmessages%2F%3Fmsg%3D1534" class="link1">Outlook 2000 Add-Ins</a><br></td></tr><tr><td>&nbsp;</td><td colspan="2">
+  <span class="dot"><br></span>&nbsp;&nbsp;<a href="http://discuss.pcmag.com/n/main.asp?webtag=pcmag&amp;topfolder=1" class="link1">Start a Discussion</a>
+  <font size="1"><br><br></font>
+  
+
+</td>
+</tr>
+<tr>
+	<td>&nbsp;</td>
+	<td colspan="2"><span class="content14">Find a Topic:</span></td>
+</tr>
+<tr>
+	<td>&nbsp;</td>
+	<td colspan="2">
+
+<form name="form1" action="/prospero_search_results" method="GET">
+<input type="text" size="11" name="qu" style="font-family:monospace">
+<input type="image" src="/images/button_go.gif" width="28" height="20" alt="" border="0" align="absmiddle">
+<input size="0" type="hidden" value="pcmag" name="webtag">
+</form>
+</td>
+</tr>
+<tr>
+<td class="bgcolor6" align="center" colspan="3"><a href="http://discuss.pcmag.com/pcmag" class="link2">view all Discussions&gt;&gt;</a></td>
+</tr>
+</tbody></table>
+
+	<br>
+
+    
+  <table width="145" cellpadding="0" cellspacing="0" border="0" class="bgcolor5">
+    <tbody><tr>
+	<td valign="top" bgcolor="#cccccc" rowspan="2" width="3">
+&nbsp;</td><td valign="top" bgcolor="#cccccc">
+<span class="content10"><a href="http://www.ziffdavis.com/itrelief/"><img src="http://www.ziffdavis.com/itrelief/images/itrelief_modlogo.gif" width="135" height="55" alt="IT Relief" vspace="3" hspace="0" border="0"></a><br>IT resources impacted by the Sept. 11, 2001 tragedy? <a href="http://www.ziffdavis.com/itrelief/"><span class="ModuleLink">Find help</span></a> for your company or <a href="http://www.ziffdavis.com/itrelief/"><span class="ModuleLink">help others</span></a> in the IT Relief Center.<br>
+<img src="http://www.ziffdavis.com/itrelief/images/spacer.gif" height="10"></span></td>
+</tr>
+<tr>
+	<td valign="top" bgcolor="#cccccc">
+	<span class="content10"><a href="/mobilizingIT/"><img src="http://www.ziffdavis.com/itrelief/images/mit_modlogo.gif" vspace="3" hspace="0" width="135" height="50" border="0"></a><br clear="all">Special ongoing news and analysis to help companies protect their technical infrastructure in an emergency. Go to <a href="/mobilizingIT/">Mobilizing IT</a>.</span><br><br></td>
+</tr>
+  </tbody></table>
+
+	<br>
+
+    
+  <table width="145" cellpadding="0" cellspacing="0" border="0" class="bgcolor5">
+    <tbody><tr>
+<td colspan="2" class="bgcolor2" align="center" valign="middle"><span class="hdr1">SPECIAL FEATURES</span> </td>
+</tr>
+<tr class="bgcolor12">
+<td width="7"><spacer width="7" type="block" height="1"></spacer></td>
+<td class="content9">
+
+<br>
+<a href="http://www.pcmag.com/top100websites" class="link3">Top 100 Web Sites</a><br>
+
+<br>
+<a href="http://www.pcmag.com/linux" class="link3">Inside the OS: Linux
+</a><br>
+
+<br>
+<a href="http://www.pcmag.com/winxp" class="link3">Inside the OS: Windows XP
+</a><br>
+
+<br>
+<a href="http://www.pcmag.com/category/0,2999,s%253D1754,00.asp" id="1754" class="link3">20th Anniversary of the PC</a><br>
+
+<br>
+<a href="http://www.pcmag.com/article/0,2997,s%253D1590%2526a%253D7570,00.asp" id="7570&quot;" class="link3">14th Annual Reader Survey: Service &amp; Reliability</a><br>
+
+<br>
+<a href="http://www.pcmag.com/article/0,2997,s%253D1474%2526a%253D2808,00.asp" id="2808&quot;" class="link3">Ultimate Utility Guide</a><br>
+
+</td>
+</tr>
+
+<tr class="bgcolor12">
+<td width="7"><spacer width="7" type="block" height="1"></spacer></td>
+<td class="content9"><br>
+<div align="right"><a href="http://www.pcmag.com/category/0,2999,s%253D1590,00.asp" id="1590" class="link1">view all Features&gt;&gt;</a></div><br>
+</td>
+</tr>
+
+
+
+  </tbody></table>
+
+	<br>
+
+    
+  <table width="145" cellpadding="0" cellspacing="0" border="0" class="bgcolor5">
+    <tbody><tr>
+<td colspan="2" class="bgcolor2" align="center" valign="middle"><span class="hdr1">DOWNLOADS</span> </td>
+</tr>
+<tr>
+<td width="7"><spacer width="7" type="block" height="1"></spacer></td>
+<td class="content8"><br>
+<a href="http://www.pcmag.com/article/0,2997,s%253D1478%2526a%253D16047,00.asp" id="16047" class="link3">Utilities: FaveLock</a><br>
+Keep your Favorites folder, and your privacy, secure.<br><br>
+
+<a href="http://www.pcmag.com/category/0,2999,s%253D1477,00.asp" id="1477" class="link3">Benchmarks</a><br>
+Trust the results: We give you all the information you'll ever want about how and what we test.
+<br><br>
+</td>
+</tr>
+<tr>
+<td class="bgcolor6" align="right" colspan="2"><a href="http://www.pcmag.com/category/0,2999,s%253D1476,00.asp" id="1476" class="link2">view all Downloads&gt;&gt;</a>&nbsp;</td>
+</tr>
+  </tbody></table>
+
+	<br>
+
+    
+<table width="145" cellpadding="0" cellspacing="0" border="0" class="bgcolor5">
+<tbody><tr>
+<td class="bgcolor2" colspan="3" align="center" valign="middle">
+<span class="hdr1">ONLINE EXTRAS</span></td>
+</tr>
+<tr>
+<td class="bgcolor5" colspan="3" height="5"><spacer width="1" type="block" height="5"></spacer></td>
+</tr>
+
+  <tr>
+  <td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+  <td class="breaknewstime"><a href="http://www.pcmag.com/article/0,2997,s%253D1720%2526a%253D15816,00.asp" class="link1">The Future of Online Gaming</a><br>
+  <br>
+  </td>
+  </tr>
+
+  <tr>
+  <td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+  <td class="breaknewstime"><a href="http://www.pcmag.com/article/0,2997,s%253D1720%2526a%253D15312,00.asp" class="link1">Inside PC Labs: More than Brochureware</a><br>
+  <br>
+  </td>
+  </tr>
+
+  <tr>
+  <td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+  <td class="breaknewstime"><a href="http://www.pcmag.com/article/0,2997,s%253D1720%2526a%253D14627,00.asp" class="link1">Benchmark Tests: How We Tested</a><br>
+  <br>
+  </td>
+  </tr>
+
+  <tr>
+  <td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+  <td class="breaknewstime"><a href="http://www.pcmag.com/article/0,2997,s%253D1720%2526a%253D14254,00.asp" class="link1">Behind the Glass Walls</a><br>
+  <br>
+  </td>
+  </tr>
+
+  <tr>
+  <td class="bgcolor5" width="10"><spacer width="10" type="block" height="1"></spacer></td>
+  <td class="breaknewstime"><a href="http://www.pcmag.com/article/0,2997,s%253D1720%2526a%253D13021,00.asp" class="link1">Educational Web Sites</a><br>
+  <br>
+  </td>
+  </tr>
+
+<tr class="bgcolor6">
+<td align="right" valign="middle" colspan="2"><a href="http://www.pcmag.com/category/0,2999,s%253D1720,00.asp" class="link2">view all Online Extras&gt;&gt;</a></td><td>&nbsp;</td>
+</tr>
+
+</tbody></table>
+
+
+	  <br>
+	
+<table width="145" cellpadding="0" cellspacing="0" border="0" class="bgcolor5">
+<form action="/data_process_newsletter_sign_up/" name="tipNewsletterForm" method="get"></form>
+<tbody><tr>
+<td colspan="2" class="bgcolor2" align="center" valign="middle"><span class="hdr1">TIPS</span> </td>
+</tr>
+<tr>
+<td class="bgcolor5" width="7"><spacer width="7" type="block" height="1"></spacer></td>
+<td class="content8"><br>
+	<a href="http://www.pcmag.com/article/0,2997,s%253D1513%2526a%253D3979,00.asp" class="link3">Launch Programs at Windows Start-Up </a><br>
+	Warning: This tip is only for the most advanced users....<br><br>
+	<span class="link3">
+		<li><a class="link3" href="/tip_container">Submit a Tip</a><br>
+		</li><li><a class="link3" href="http://www.pcmag.com/category/0,2999,s%253D1488,00.asp">Find a Tip</a><br> 
+	
+	<br>
+	<span class="content9">Receive the PCMag.com FREE tip of the day newsletter! 
+	</span><br><br>
+
+	<span class="content8">Enter your Email:</span>
+	<input name="email" size="8" style="font-family:monospace">
+	<input type="image" src="/images/button_submit_brwn.gif" border="0" height="20" width="57" align="absmiddle">
+	<input type="hidden" name="g_site_cda_path" value="/">
+	<input type="hidden" name="source_url" value="/pcmag/article.asp">
+	<input type="hidden" name="13" value="2">
+	<input type="hidden" name="component" value="1">
+	<br>
+</li></span></td>
+</tr>
+<tr>
+	<td align="right" class="bgcolor6" colspan="2">
+		<a class="link2" href="http://www.pcmag.com/category/0,2999,s%253D1488,00.asp">view all Tips&nbsp;&gt;&gt;</a>&nbsp;
+	</td>
+</tr>
+
+</tbody></table>
+
+
+	<br>
+
+    </td>
+<!-- end right side nav -->
+<!-- spacer -->
+</tr>
+<tr>
+
+<td valign="bottom">
+
+
+  <table border="0">
+    <tbody><tr>
+      <td valign="bottom">
+        
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+<td><img src="/images/curve_left_g.gif" width="8" height="10" alt="" border="0"></td>
+<td width="100%" class="bgcolor11"><spacer type="block" width="2" height="10"></spacer></td>
+<td rowspan="2"><img src="/images/hdr_subscriber.gif" width="207" height="21" alt="" border="0"></td>
+</tr>
+<tr>
+<td height="11" class="bgcolor12"><spacer type="block" width="2" height="11"></spacer></td>
+<td class="bgcolor12"><spacer type="block" width="2" height="11"></spacer></td>
+</tr>
+</tbody></table>
+<script language="javascript">
+<!--
+	function checkPayment()
+	{
+
+		if(document.order.BillOpt[1].checked)
+		{
+ 			//alert('Bill Me');
+			document.order.action="http://www.neodata.com/ITPS2.cgi";
+			document.order.iClientResponse.value="www.zdmcirc.com/cross/cross_popup.asp?I=ibmp";
+			document.order.iClientResponseMoreInfo.value = "www.zdmcirc.com/cross/cross_error_popup.asp?I=ibmp";
+			document.order.Confirm.value="Off";
+		}
+		else if(document.order.BillOpt[0].checked)
+		{
+ 			//alert('Credit Card');
+			document.order.action="https://www.neodata.com/ITPS2.cgi";
+			document.order.iClientResponse.value = "www.zdmcirc.com/cross/cross_secure.asp?I=ibmp&S=Y";
+			document.order.iClientResponseMoreInfo.value = "www.zdmcirc.com/cross/cross_error_popup.asp?I=ibmp&S=Y";
+			document.order.Confirm.value="On";
+		}
+		else
+		{
+			document.order.action="http://www.neodata.com/ITPS2.cgi";
+			document.order.BillOpt[1].checked=true;
+			document.order.Term[0].checked=true;
+			document.order.iClientResponse.value="www.zdmcirc.com/cross/cross_popup.asp?I=ibmp";
+			document.order.iClientResponseMoreInfo.value = "www.zdmcirc.com/cross/cross_error_popup.asp?I=ibmp";
+			document.order.Confirm.value="Off";
+		}
+
+
+		window.open('','form_results','width=380,height=380,scrollbars,status=yes');
+
+	}
+//-->
+</script>
+<form method="POST" action="http://www.neodata.com/ITPS2.cgi" onsubmit="return(checkPayment());" target="form_results" name="order">
+  <input type="hidden" name="ItemCode" value="ibmp" style="width: 80px; size: 10px;">
+<script>
+<!--
+
+monthly_codes = new Array("AQQ","AQR","AQS","AQT","AQU","AQV",
+								"AQW","AQX","AQY","AQZ","AT5","AT6");
+now = new Date();	// Date is today
+document.write("<input type=\"hidden\" name=\"KeyCode\" value=\"" +
+monthly_codes[now.getMonth()] + "\">\n");
+
+//--->
+</script><input type="hidden" name="KeyCode" value="AQQ">
+
+<input type="hidden" name="SourceCode" value="5">
+  <input type="hidden" name="OrderType" value="New Order">
+  <input type="hidden" name="CcType" value="Bill Me">
+  <input type="hidden" name="IntPerCopyAdj" value="1.64">
+  <input type="hidden" name="CanadianPerCopyAdj" value="1.64">
+
+  <input type="hidden" name="iWebMaster" value="subhelp@ziffdavis.com">
+  <input type="hidden" name="iWebMasterAdr" value="mailto:subhelp@ziffdavis.com">
+ 
+  
+  <input type="hidden" name="XDB" value="On">
+  <input type="hidden" name="Emaperm" value="A">
+  <input type="hidden" name="Emasrce" value="A">
+  <input type="hidden" name="DoEmailHygiene" value="On">
+  <input type="hidden" name="DoEmailAck" value="Off">
+  <input type="hidden" name="DoCCDigitCheck" value="Off">
+  <input type="hidden" name="DoCCAuth" value="OFF">
+  <input type="hidden" name="AutoRen" value="2">
+  <input type="hidden" name="iClientResponse" value="">
+  <input type="hidden" name="iClientResponseMoreInfo" value="">
+  <input type="hidden" name="SignUp" value="No">
+  <input type="hidden" name="Confirm" value="">
+  <table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#FFFFFF">
+    <tbody><tr>
+      <td colspan="4" valign="top" align="left">
+            <img src="http://www.zdmcirc.com/graphics/pcmag_279.gif" width="279" height="70">
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="100%" colspan="4">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td bgcolor="#ECECEC" colspan="2"><font face="arial" size="2" color="#999999"><b>Fill-in the form below:</b></font></td>
+          </tr>
+        </tbody></table>
+        <table border="0" height="200" width="100%">
+          <tbody><tr>
+            <td valign="top">
+<font face="arial" size="1" color="Black">Name:</font><br><font size="3"><input type="Text" name="FullName" size="7" maxlength="24" tabindex="1" style="width: 80px; size: 10px;"></font><br>
+<font face="arial" size="1" color="Black">Address:</font><br><font size="3"><input type="Text" name="StreetAdr" size="7" maxlength="24" tabindex="3" style="width: 80px; size: 10px;"></font><br>
+<font face="arial" size="1" color="Black">State: (xx)</font><br><font size="3"><input type="Text" name="State" size="7" maxlength="2" tabindex="5" style="width: 80px; size: 10px;"></font><br>
+<font face="arial" size="1" color="Black">Country:</font><br><font size="3"><input type="Text" name="Country" value="USA" size="7" maxlength="32" tabindex="7" style="width: 80px; size: 10px;"></font><br>
+            </td>
+            <td valign="top">
+            <font face="arial" size="1" color="Black">
+<font face="arial" size="1" color="Black">Company:</font><br><font size="3"><input type="Text" name="SuppAdr" size="7" maxlength="24" tabindex="2" style="width: 80px; size: 10px;"></font><br>
+<font face="arial" size="1" color="Black">City:</font><br><font size="3"><input type="Text" name="City" size="7" maxlength="18" tabindex="4" style="width: 80px; size: 10px;"></font><br>
+<font face="arial" size="1" color="Black">Zip Code:</font><br><font size="3"><input type="Text" name="PostalCode" size="7" maxlength="10" tabindex="6" style="width: 80px; size: 10px;"></font><br>
+<font face="arial" size="1" color="Black">Email:</font><br><font size="3"><input type="Text" name="EmailAdr" size="7" maxlength="100" tabindex="8" style="width: 80px; size: 10px;"></font><br>
+            </font>
+            </td>
+            <td valign="top">
+            <table border="0" width="100%">
+            <tbody><tr><td bgcolor="#EFEFEF"><font face="arial" size="1" color="Black"> Select
+			              # of issues:<br>
+			              <input type="Radio" name="Term" value="22@26.97" tabindex="9">
+			              22 ($26.97)<br>SAVE 75%<br>
+			              <input type="Radio" name="Term" value="44@49.97" tabindex="9">
+			              44 ($49.97)<br>SAVE 77%<br>
+			              <br>
+			              </font></td></tr>
+			        </tbody></table>
+			        <table border="0" width="100%"><tbody><tr>
+            <td bgcolor="#EFEFEF"><font face="arial" size="1" color="Black"> Payment
+              Method:<br>
+              <input type="Radio" name="BillOpt" value="CC" tabindex="10">
+              Credit Card<br>
+              <input type="Radio" name="BillOpt" value="Bill Me" tabindex="10">
+              Bill Me<br>
+              <br>
+              </font></td>
+          </tr></tbody></table>
+</td></tr>
+<tr><td colspan="2"><font face="Arial" size="1" color="Maroon">
+          Non-US add $36 per year for shipping</font></td><td colspan="2"><div class="content7">
+        <input type="Submit" value=" Order " name="Submit" style="width: 80px; size: 10px;"></div>
+</td>
+</tr>
+        </tbody></table>
+      </td>
+    </tr>
+<tr><td><font face="arial" size="1" color="Black"> Service Guarantee: Your subscription will continue for as long as you wish, without interruption at guaranteed savings off the cover price, unless you instruct us otherwise. We will notify and bill you prior to each new subscription term.</font></td>
+    </tr><tr>
+      <td colspan="4">
+        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td align="center" width="50%">
+              <a href="https://secure.cnchost.com/www.zmcirc.com/cgi/custsvc/customer.cgi?id=login&amp;icode=ibmp"><font face="verdana,geneva,lucida,arial" size="1" color="#333366">Customer Service</font></a></td>
+              <td align="center" width="50%"><a href="https://www.zdmcirc.com/zdmcirc/default.asp?LK=GIVE&amp;I=ibmp"><font face="verdana,geneva,lucida,arial" size="1" color="#333366">Give a Gift</font></a></td>
+              
+            
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+</tbody></table>
+  <img src="http://chkpt.zdnet.com/chkpt/zdsubs.inc.imgnet.ibmp.53/http://images.zdnet.com/adverts/imp/dotclear.gif" height="1" width="1">
+</form>
+
+      </td>
+    </tr>
+  </tbody></table>
+
+<!-- Microsites -->
+
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" class="bgcolor12">
+		<tbody><tr valign="top">
+			<td><img src="/images/curve_left_g.gif" width="8" height="9" alt="" border="0"></td>
+			<td width="100%" class="bgcolor11" nowrap=""><span class="dot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+			<td rowspan="2"><img src="/images/hdr_intel_pcm.gif" width="206" height="21" alt="" border="0"></td>
 		</tr>
 		<tr>
-		<td valign="TOP" bgcolor="#FFFFFF">
-	
-		<!-- BOTTOM NAV TABLE -->
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr><td align="LEFT" valign="BOTTOM" bgcolor="#333399" width="125">
-<a href="http://www.zdnet.com"><img src="http://www.zdnet.com/graphics/botnavlogo-top.gif" width="125" height="42" border="0" alt=""></a></td>
-<td align="CENTER" valign="MIDDLE" bgcolor="#333399" height="42" width="100%">
+			<td height="11" class="bgcolor12"><span class="dot">&nbsp;</span></td>
+			<td class="bgcolor12"><img src="/images/showcase_adnotice.gif" height="8" width="68" hspace="0" border="0" alt="ADVERTISEMENT"></td>
+		</tr>		
+		<tr>
+			<td height="11" class="bgcolor12"><span class="dot">&nbsp;</span></td>
+			<td class="bgcolor12"><span class="dot">&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td class="bgcolor12"><span class="dot">&nbsp;</span></td>
+			<td colspan="2" class="content11">
+				<a href="http://ad.doubleclick.net/clk;3166930;6208243;e?http://www.ziffdavisinternet.com/sponsors/dell4me">Shop Now! - Dell Home Solutions Center</a><img src="http://ad.doubleclick.net/ad/test.zdm/textlink/pcmag/dell1;sz=1x1;ord=" 794336200"="" height="1" width="1" hspace="0" border="0" alt="">
+			</td>
+		</tr>
+	</tbody></table>
+<br>
 
-	<nobr><a class="bnav" href="http://techies.zdnet.com">Tech Jobs</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
+<!-- Microsites End-->
+<!-- SPONSORS -->
 
-	<nobr><a class="bnav" href="http://zdnet.e-centives.com/">ZDNet e-centives</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav" href="http://www.zdnetonebox.com">Free E-mail</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav" href="http://www.zdnet.com/filters/email/">Newsletters</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav" href="http://updates.zdnet.com/">Updates</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav" href="http://my.zdnet.com/myzdnet/">MyZDNet</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav" href="http://my.zdnet.com/myzdnet/alerthelp/">Alerts</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav" href="http://cgi.zdnet.com/slink?60865">Rewards</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav" href="http://members.zdnet.com/register/register.cgi">Join ZDNet</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav" href="http://www.zdnet.com/members">Members</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav" href="http://chkpt.zdnet.com/chkpt/jbsitebuilder10/www.zdnet.com/sitebuilder">SiteBuilder</a></nobr>
-</td></tr>
-<tr><td align="LEFT" valign="TOP" bgcolor="#000066" width="125">
-<a href="http://www.zdnet.com"><img src="http://www.zdnet.com/graphics/botnavlogo-bot.gif" width="125" height="26" border="0" alt=""></a></td>
-<td align="CENTER" valign="MIDDLE" bgcolor="#000066" height="26" width="100%">
-
-	<nobr><a class="bnav2" href="http://www.zdnet.com/filters/feedback">Feedback</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav2" href="http://www.zdnet.com/filters/privacy/">Your Privacy</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav2" href="http://www.zdnet.com/filters/terms">Service Terms</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav2" href="http://www.zdnet.com/coinfo/filters/adinfo/">Advertise</a><span class="bnavsep">&nbsp;|&nbsp;</span></nobr>
-
-	<nobr><a class="bnav2" href="http://www.zdnet.com/coinfo/filters/welcome/">About Us</a></nobr>
-</td></tr>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="bgcolor12">
+<tbody><tr valign="top">
+<td><img src="/images/curve_left_g.gif" width="8" height="9" alt="" border="0"></td>
+<td width="100%" class="bgcolor11" nowrap=""><span class="dot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+<td rowspan="2"><img src="/images/hdr_sponsors.gif" width="206" height="21" alt="" border="0"></td>
+</tr>
+<tr>
+<td height="11" class="bgcolor12"><span class="dot">&nbsp;</span></td>
+<td class="bgcolor12"><span class="dot">&nbsp;</span></td>
+</tr>
+<tr>
+<td class="bgcolor12"><span class="dot">&nbsp;</span></td>
+<td colspan="2" class="content11">
+<a href="http://ad.doubleclick.net/clk;3411070;6476728;h?http://www.execsoft.com/diskeeper/diskeeper.asp">High-end system performance  thru automatic defragmentation. Free trialware.</a><img src="http://ad.doubleclick.net/ad/test.zdm/textlink/pcmag/exec;sz=1x1;ord=" 794336200"="" height="1" width="1" hspace="0" border="0"><br><br>
+<a href="http://ad.doubleclick.net/clk;3439231;6399780;s?http://ad.doubleclick.net/clk;3440550;6492491;h?http://www.xeroxphaser.com/15520">From XEROX: WIN A TRIP OR A XEROX PRINTER!</a><img src="http://ad.doubleclick.net/ad/test.zdm/textlink/pcmag/xerox;sz=1x1;ord=" 794336200"="" height="1" width="1" hspace="0" border="0" alt=""><br><br>
+<a href="http://ad.doubleclick.net/clk;3054380;6094410;y?http://secure.webconnect.net/cgi-bin/worldata.dll?G730">Save on RAM upgrades! Get 10% off and free shipping at Crucial.com</a><br><br>
+<a href="http://ad.doubleclick.net/clk;3189355;6056967;y?http://www.ziffdavisinternet.com/sponsors/dell4me">It's FREE!  Buy a select new Dell™ &amp; get free ground shipping!</a><img src="http://ad.doubleclick.net/ad/test.zdm/textlink/pcmag/dell2;sz=1x1;ord=" 794336200"="" height="1" width="1" hspace="0" border="0"><br><br>
+<a href="http://ad.doubleclick.net/clk;3374968;6447129;y?http://ad.doubleclick.net/clk;3406425;6471588;o?http://www.intel.com/eBusiness/macroprocessing/index.htm">Macroprocessing is Intel® Powering the Enterprise. Click for Server Solutions</a><img src="http://ad.doubleclick.net/ad/test.zdm/textlink/pcmag/intel;sz=1x1;ord=" 794336200"="" height="1" width="1" hspace="0" border="0"><br><br>
+<a href="http://ad.doubleclick.net/clk;3365245;6416843;l?http://www.novell.com/products/netware/tracking/pcmag.html">You've read great NetWare®6 reviews. Now try it for yourself.</a><img src="http://ad.doubleclick.net/ad/test.zdm/textlink/pcmag/novell;sz=1x1;ord=" 794336200"="" height="1" width="1" hspace="0" border="0"><br><br>
+</td>
+</tr>
 </tbody></table>
-<!-- /BOTTOM NAV TABLE -->  <table border="0" width="100%" cellpadding="0" cellspacing="0">
-	
-		
-	
-	
-		<tbody><tr><td colspan="2">
-		 
-			<span class="v10">
-		Copyright © 2000 ZD Inc.  All rights reserved.  ZDNet and the ZDNet logo are registered trademarks of ZD Inc. 
-			</span>
-		</td></tr>
-	  </tbody></table>
 
-	</td>
+</td>
+</tr>
+</tbody></table>
+<!-- begin footer -->
+<!-- FOOTER -->
+<!-- SUB FOOTER -->
+	<!-- begin footer -->
+<!-- FOOTER -->
+<!-- SUB FOOTER -->
+	<!--_ START PUBLICATION FOOTER --->
+<table cellpadding="3" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td width="150" class="bgcolor2" align="right" valign="top"><img src="http://www.pcmag.com/images/shim.gif" width="144" height="2"><br>
+			<span class="zfooter1">PC Magazine:</span></td>
+		<td class="bgcolor2" width="100%" valign="top">
+			<a href="https://secure.cnchost.com/www.zmcirc.com/cgi/custsvc/customer.cgi?id=login&amp;icode=ibmp"><span class="zfooter2">Customer Service</span></a>&nbsp;<span class="content5">|</span>
+			<a href="http://www.pcmag.com/article/0,2997,s%253D400%2526a%253D5733,00.asp" id="5733" title="Contact Us"><span class="zfooter2">Contact Us</span></a>&nbsp;<span class="content5">|</span>
+			<a href="http://www.pcmag.com/article/0,2997,s%253D400%2526a%253D5737,00.asp" id="5737" title="About"><span class="zfooter2">About</span></a>&nbsp;<span class="content5">|</span>
+			<a href="http://www.pcmagmedia.com/"><span class="zfooter2">Advertise</span></a>&nbsp;<span class="content5">|</span>
+			<a href="http://www.magjobs.com" title="Find a High-Tech Job"><span class="zfooter2">Find a High-Tech Job</span></a>
+		</td>
 	</tr>
 </tbody></table>
-<script language="JavaScript1.2">
-if (isIE4PC) {document.write('</DIV>');}
-</script></div>
+<!--_ END PUBLICATION FOOTER --->
+<!--- START ZDINTERNET FOOTER --->
+
+<table cellpadding="3" cellspacing="0" border="0" width="100%" class="bgcolor13">
+	<tbody><tr>
+		<td width="150" valign="top" align="right" rowspan="2"><img src="http://www.pcmag.com/images/shim.gif" width="144" height="2"><br><span class="zfooter4">Ziff Davis Media:</span></td>
+		<td class="bgcolor13" width="100%" valign="top"><a href="http://www.ziffdavis.com" class="zfooter3"><span class="zfooter3">About</span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.ziffdavis.com/onlinemediakit" class="zfooter3"><span class="zfooter3">Advertise</span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.pcmag.com/newsletter_manage/0,3020,,00.asp?" class="zfooter3"><span class="zfooter3">Newsletters</span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.circulation.com" class="zfooter3"><span class="zfooter3">Magazine Subscriptions</span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.ziffdavis.com/contactus.htm" class="zfooter3"><span class="zfooter3">Feedback</span></a>
+		</td>
+	</tr>
+	<tr>
+	 	<td>
+			<!--<a href="http://www.baselinemag.com?kc=BAZD01101TTX1B0000450" title="Baseline"><span class="zdfooterCopy">Baseline</span></a> |-->		
+			<a href="http://www.cioinsight.com" target="new" class="zfooter3"><span class="zfooter3">CIO Insight</span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.etestinglabs.com" target="new" class="zfooter3"><span class="zfooter3">eTesting Labs</span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.eweek.com" target="new" class="zfooter3"><span class="zfooter3">eWEEK</span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.etravels.net" target="new" class="zfooter3"><span class="zfooter3">Expedia Travels</span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.extremetech.com" target="new" class="zfooter3"><span class="zfooter3">ExtremeTech</span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.familypc.com" target="new" class="zfooter3"><span class="zfooter3"><nobr>FamilyPC</nobr></span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.interactiveweek.com" target="new" class="zfooter3"><span class="zfooter3"><nobr>Interactive Week</nobr></span></a><span class="zfooter4">&nbsp;|</span>
+			<span class="zfooter4"><nobr>PC Magazine</nobr></span><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.smartbusinessmag.com" target="new" class="zfooter3"><span class="zfooter3"><nobr>Ziff Davis Smart Business</nobr></span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://smartpartnermag.com" target="new" class="zfooter3"><span class="zfooter3"><nobr>Smart Partner</nobr></span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.theneteconomy.com" target="new" class="zfooter3"><span class="zfooter3"><nobr>The Net Economy</nobr></span></a><span class="zfooter4">&nbsp;|</span>
+			<a href="http://www.yil.com" target="new" class="zfooter3"><span class="zfooter3"><nobr>Yahoo! Internet Life</nobr></span></a><br></td>
+		
+    </tr>
+</tbody></table>
+<!--- END ZDINTERNET FOOTER --->
 
 
+
+<!--- START LEGAL FOOTER --->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="legalfooter">
+    <tbody><tr>
+     	<td width="153" rowspan="2"><img src="/images/shim.gif" width="153" height="1"></td>
+      	<td width="100%" class="zfooter3">
+		<a href="http://www.pcmag.com/article/0,2997,s%253D400%2526a%253D5902,00.asp" id="5902" title="Privacy Policy"><span class="zfooter5"><b>Privacy Policy</b></span></a> |
+		<a href="http://www.pcmag.com/article/0,2997,s%253D400%2526a%253D5901,00.asp" id="5901" title="Terms of Use"><span class="zfooter5"><b>Terms of Use</b></span></a>
+		</td>
+	</tr>
+	<tr>
+		<td class="zcopyright2">	
+			Copyright © 2001 Ziff Davis Media Inc. All Rights Reserved.<br>
+			Ziff Davis Media and ZDNet are independent companies and are no longer affiliated with each other.<br>
+Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis Media Inc. is prohibited. 
+ For reprint information: <a href="http://www.pcmag.com/article/0,2997,a%253D12766,00.asp" id="12766" title="Reprints" class="zfooter3"><span class="zfooter3">click here.</span></a> 
+		</td>
+	</tr>
+</tbody></table>
+<!--- END LEGAL FOOTER --->
+<!-- end footer -->
+<!-- end footer -->
+<!--**---------------------------------------------------->
+<!-- ************* End 7 column main table ***********-->
+<!--**---------------------------------------------------->
+
+
+
+<!-- MOD:True
+SKY:True<br>
+C:100%<br>
+RS:5<br>		
+RN:145<br>
+AS:5<br>
+A:160<br> -->
 </body></html>
