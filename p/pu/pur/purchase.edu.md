@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purchase.edu privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618184210id_/http%3A//www.purchase.edu/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purchase.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215932id_/http%3A//www.purchase.edu/policies/privacy.asp) for the most accurate reproduction.*
 
-# Purchase College - College Policies - Privacy
+# Purchase College - Policies - Privacy
 
 ### Purchase College Privacy Policy
 
@@ -73,11 +73,11 @@ Access to and Correction of Personal Information Collected Through this Website
 Any user may submit a request to the Purchase College privacy compliance officer to determine whether personal information pertaining to that user has been collected through this website.  Any such request shall be made in writing and must be accompanied by reasonable proof of identity of the user.  Reasonable proof of identity may include verification of a signature, inclusion of an identifier generally known only to the user, or similar appropriate identification.  The address of the privacy compliance officer is:
 
 > Webmaster  
->  Computing and Information Services  
->  Purchase College, SUNY  
->  735 Anderson Hill Rd.  
->  Purchase, NY 10577  
->  [webmaster@purchase.edu](mailto:webmaster@purchase.edu)
+> Computing and Information Services  
+> Purchase College, SUNY  
+> 735 Anderson Hill Rd.  
+> Purchase, NY 10577  
+> [webmaster@purchase.edu](mailto:webmaster@purchase.edu)
 
 The privacy compliance officer shall, within five (5) business days of the receipt of a proper request, provide access to the personal information; deny access in writing, explaining the reasons therefore; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment.
 
