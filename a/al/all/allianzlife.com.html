@@ -1,0 +1,817 @@
+<!--The following is the downloaded HTML source of the allianzlife.com privacy policy that was archived on 2002-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602210346id_/http%3A//www.allianzlife.com/AllianzLife/PrivacyPolicy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=unicode">
+<meta content="At Allianz Life Insurance Company of North America, protecting your privacy is very important to us. Our goal is to treat the personal information you furnish us with the utmost respect and in accordance with this Privacy Policy." name="description">
+<script type="text/JavaScript">
+	var timerID, timerIDTab;
+
+	function Is() {
+	  var agent = navigator.userAgent.toLowerCase();
+	  this.version = navigator.appVersion;
+	  this.major = parseInt(navigator.appVersion);
+	  this.minor = parseFloat(navigator.appVersion);
+	  this.ns = ((agent.indexOf('mozilla')!=-1) && ((agent.indexOf('spoofer')==-1) && (agent.indexOf('compatible') == -1)));
+	  this.ns2 = (this.ns && (this.major == 3));
+	  this.ns3 = (this.ns && (this.major == 3));
+	  this.ns4b = (this.ns && (this.minor < 4.04));
+	  this.ns4 = (this.ns && (this.major >= 4));
+	  this.ns6 = (this.ns && (this.major >= 5));
+	  this.ie = (agent.indexOf("msie") != -1);
+	  this.ie3 = (this.ie && (this.major == 2));
+	  this.ie4 = (this.ie && (this.major >= 4));
+	  this.op3 = (agent.indexOf("opera") != -1);
+	  this.win = (agent.indexOf("win")!=-1);
+	  this.mac = (agent.indexOf("mac")!=-1);
+	  this.unix = (agent.indexOf("x11")!=-1);
+	}
+
+	var is = new Is();
+
+	var isNav = is.ns;
+	var isIE = is.ie;
+	var isNav6 = is.ns6;
+
+	var nav1DefaultIdx = 0;
+	var nav2DefaultIdx;// = ;
+	var nav3DefaultIdx;// = ;
+
+	var lastNav2hlID = 0;
+	var lastNav1 = nav1DefaultIdx;
+	var lastNav3DropDownhlID = 0;
+	var lastNav3LefthlID = 100;
+	
+	var mypopup = null;
+
+	function navItem(text, offset, width, url, subItemsArray){
+		this.text = text;			
+		this.offset = offset;
+		this.width = width;
+		this.url = url;
+		this.subItems = subItemsArray;  // an array of navItem objects
+	}
+
+	function pageInit(){
+		// fix for NS resize problem when using DHTML that affects layout
+		if(document.layers){
+			origWidth=innerWidth;
+			origHeight=innerHeight;
+			onresize=function(){
+				if(innerWidth!=origWidth||innerHeight!=origHeight)
+					location.reload();
+			}
+		}
+
+		for (i=0;i<nav2Array[nav1DefaultIdx].length;i++) {
+			var nav2Item = nav2Array[nav1DefaultIdx][i]
+			var strUpperURL = "/ALLIANZLIFE/PRIVACYPOLICY.ASP";
+			if (strUpperURL.substring(0,7) == "/PRESS/") {
+				nav2DefaultIdx = 0;
+				nav3DefaultIdx = 100;
+				i = nav2Array[nav1DefaultIdx].length;
+			}
+
+			if (nav2Item.url.toUpperCase() == strUpperURL) {
+				nav2DefaultIdx = i;
+				nav3DefaultIdx = -1;
+				i = nav2Array[nav1DefaultIdx].length;
+			} else if (nav2Item.subItems != null) {
+				var nav3Array = nav2Item.subItems;
+				for (j=0;j<nav3Array.length;j++) {
+					var nav3Item = nav3Array[j];
+					if (nav3Item.url.toUpperCase() == "/ALLIANZLIFE/PRIVACYPOLICY.ASP") {
+						nav2DefaultIdx = i;
+						nav3DefaultIdx = j;
+						i = nav2Array[nav1DefaultIdx].length;
+						j = nav3Array.length;
+					} else if (nav3Item.subItems != null) {
+						var nav4Array = nav3Item.subItems;
+						for (k=0;k<nav4Array.length;k++) {
+							var nav4Item = nav4Array[k];
+							if (nav4Item.url.toUpperCase() == "/ALLIANZLIFE/PRIVACYPOLICY.ASP") {
+								nav2DefaultIdx = i;
+								nav3DefaultIdx = -1;
+								i = nav2Array[nav1DefaultIdx].length;
+								j = nav3Array.length;
+								k = nav4Array.length;
+							}
+						}
+					}
+				}
+			}
+		}
+		showNav2(nav1DefaultIdx, -1);
+		showNav3Left(-1);
+	}
+
+	function showNav2(nav1Idx, hlID){
+		stopTimer();
+		if (nav2Array[nav1Idx] != null){
+			if (lastNav2hlID != hlID || lastNav1 != nav1Idx){  // prevent NS from flashing while mouse moves
+				lastNav2hlID = hlID;
+				lastNav1 = nav1Idx;
+
+				lastNav3DropDownhlID = -2;		// force nav3 to display without highlights nexttime
+				var html = "<table border=0 cellpadding=0 width=774 cellspacing=0 height=25 ";
+				if(isNav6)
+					html+= "style='BACKGROUND-COLOR: #" + navColor[nav1Idx] + "'>";
+				else
+					html+= "bgcolor=" + navColor[nav1Idx] + ">";
+				
+				html+= "<tr><td width=114 nowrap height=26>&nbsp;</td>";
+
+				for (x = 0; x < nav2Array[nav1Idx].length; x++){
+					var nav2Item = nav2Array[nav1Idx][x];
+					var bgcolor;
+					var clickURL;
+					var fontClass;
+					
+					if (x == hlID || (x == nav2DefaultIdx && nav1Idx == nav1DefaultIdx)) {
+						bgcolor = navhlColor[nav1Idx];
+						fontClass = "noulBold" + nav1Idx + "";
+					} else {
+						bgcolor = navColor[nav1Idx];
+						fontClass = "noul" + nav1Idx + "";
+					}
+
+					if (nav2Item.url != null) 
+						clickURL = "href=" + nav2Item.url;
+					else 
+						clickURL = "";
+
+					if(isNav6)
+						html+="<td nowrap align='center' vAlign=middle style='BACKGROUND-COLOR: #" + bgcolor + "'>";
+					else
+						html+="<td nowrap align='center' vAlign=middle bgcolor='#" + bgcolor + "'>";
+
+					html += "<img height=12 width=10 src='../images/trans.gif'><a class='" + fontClass  + "' " + clickURL + 
+							" onmouseover='showNav3DropDown(" + x + 
+							"," + -1 + ");' onmouseout='startTimer()'>" + nav2Item.text +
+							"</a><img height=12 width=10 src='../images/trans.gif'></td>";
+				}
+
+				html += "<td width=100% vAlign=top align=right><img src='../images/corner_part_blue.gif'></td></tr></table>"
+
+				if(isNav6) {
+					document.getElementById("nav2MenuBar").innerHTML=html;
+				} else if(isIE) {
+					nav2MenuBar.innerHTML=html;
+				} else if(isNav) {
+					document.nav2MenuBar.document.write(html);
+					document.nav2MenuBar.document.close();
+				}
+			}
+		}
+	}
+
+	function showNav3DropDown(nav2Idx, hlID) {
+		stopTimer();
+		showNav2(lastNav1, nav2Idx);
+
+		if (lastNav3DropDownhlID != hlID && nav2Array[lastNav1][nav2Idx] != null){  // prevent NS from flashing while mouse moves
+			var html ="<table border=0 cellpadding=0 cellspacing=0 ";
+			if(isNav6)
+				html+= "style='BACKGROUND-COLOR: #25194a'>";
+			else
+				html+= "bgcolor=#25194a>";
+
+			var nav2Item = nav2Array[lastNav1][nav2Idx];
+			var nav3Array = nav2Item.subItems;
+			if (nav3Array != null){
+				for (x = 0; x < nav3Array.length; x++){
+					var nav3Item = nav3Array[x];
+					var bgcolor;
+					var clickURL;
+					var fontClass;
+
+					if (x == hlID || (x == nav3DefaultIdx && nav2Idx == nav2DefaultIdx && lastNav1 == nav1DefaultIdx) ) {
+						bgcolor = navhlColor[lastNav1];
+						lastNav3DropDownhlID = hlID;
+						fontClass = "noulBold" + lastNav1 + "";
+					}else { 
+						bgcolor = navColor[lastNav1];
+						fontClass = "noul" + lastNav1 + "";
+					}
+
+					if (nav3Item.url != null && (x != nav3DefaultIdx || 
+							nav2Idx != nav2DefaultIdx || lastNav1 != nav1DefaultIdx))
+						clickURL = "href=" + nav3Item.url ;
+					else 
+						clickURL = "";
+
+
+					html += "<tr><td height=25 nowrap align='left' valign=middle  ";
+					if(isNav6)
+						html+="style='BACKGROUND-COLOR: #" + bgcolor + "'>";
+					else
+						html+="bgcolor='#" + bgcolor + "'>";
+
+					html += "<img width=6 src='../images/trans.gif'><a class='" + fontClass + "' " + clickURL + 
+					" onmouseover='showNav3DropDown(" + nav2Idx + "," + x + ")' onmouseout='startTimer()'>" + 
+					nav3Item.text + "</a>" +
+					"<img width=6 src='../images/trans.gif'></td></tr><tr><td height=1 bgcolor='25194a'><IMG SRC='../images/trans.gif'></td></tr>";
+				}
+
+				html += "</table>";
+
+				if(isNav6) {
+					var myDropDown = document.getElementById("nav3MenuDropDown");
+					myDropDown.style.left = nav2Array[lastNav1][nav2Idx].offset;
+					myDropDown.style.top = 124;
+					myDropDown.innerHTML = html;
+					myDropDown.style.visibility = 'visible';
+				} else if(isIE) {
+					var myDropDown = document.all.nav3MenuDropDown;
+					myDropDown.style.pixelLeft = nav2Array[lastNav1][nav2Idx].offset;
+					myDropDown.style.pixelTop = 124;
+					myDropDown.innerHTML = html;
+					myDropDown.style.visibility = 'visible';
+				} else if(isNav) {
+					document.nav3MenuDropDown.document.write(html);
+					document.nav3MenuDropDown.document.close();
+					document.nav3MenuDropDown.left = nav2Array[lastNav1][nav2Idx].offset;
+					document.nav3MenuDropDown.top = 124;
+					document.nav3MenuDropDown.visibility = 'show';
+				}
+			}else {
+				hideNav3();
+			}
+		}
+	}
+
+	function showNav3Left(hlID) {
+		stopTimer();
+		var html ="<table width=112 border=0 cellpadding=0 cellspacing=0 ";
+		if(isNav6)
+			html+="style='BACKGROUND-COLOR: #25194a'>";
+		else
+			html+="bgcolor='#25194a'>";
+
+		if (lastNav3LefthlID != hlID && nav2Array[nav1DefaultIdx] != null && 
+								nav2Array[nav1DefaultIdx][nav2DefaultIdx] != null){ 
+
+			var nav2Item = nav2Array[nav1DefaultIdx][nav2DefaultIdx];
+			var nav3Array = nav2Item.subItems;
+			if (nav3Array != null){
+				for (x = 0; x < nav3Array.length; x++){
+					var nav3Item = nav3Array[x];
+					var bgcolor;
+					var clickURL;
+					var fontClass;
+
+					if (x == nav3DefaultIdx || hlID == x) {
+						bgcolor = navhlColor[nav1DefaultIdx];
+						fontClass = "noulBold" + nav1DefaultIdx + "";
+					}else {
+						bgcolor = navColor[nav1DefaultIdx];
+						fontClass = "noul" + nav1DefaultIdx + "";
+					}
+
+					if (nav3Item.url != null  && x != nav3DefaultIdx)
+						clickURL = "href=" + nav3Item.url;
+					else
+						clickURL = "";
+
+					if(isNav6)
+						html+="<tr><td width=6 style='BACKGROUND-COLOR: #" + bgcolor + "'>";
+					else
+						html+="<tr><td width=6 bgcolor='#" + bgcolor + "'>";
+
+					html += "<img width=6 src='../images/trans.gif'></td>" + 
+							"<td height=25 width=114 align='left' valign='middle' ";
+
+					if(isNav6)
+						html+="style='BACKGROUND-COLOR: #" + bgcolor + "'>";
+					else
+						html+="bgcolor='#" + bgcolor + "'>";
+
+					html += "<a onmouseover='showNav3Left(" + x + ")' onmouseout='startTimer()' class='" +
+							fontClass + "' " + clickURL + ">" + nav3Item.text + "</a>" +
+							"<img width=4 src='../images/trans.gif'></td></tr>" +
+							"<tr><td><IMG height=1 SRC='../images/trans.gif'></td></tr>";
+				}
+			}
+		}
+		//spacer
+		html += "<tr><td><IMG height=2 SRC='../images/trans.gif'></td></tr>";
+		
+		
+		//add in home button
+		html += "<tr>" +
+				"<td colspan='2'><A  HREF='/Home/default.asp'><img src='../images/homebttn.gif' width='112' height='21' border='0' alt='Home'></A></td></tr>" +
+				"<tr><td ><IMG height=2 SRC='../images/trans.gif'></td></tr>";
+
+		//add in site map button
+		html += "<tr>" +
+				"<td colspan='2'><A HREF='/Home/SiteMap.asp'><img src='../images/sitemapbttn.gif' width='112' height='21' alt='Site Map' border='0'></A>" +
+				"</td></tr>" +
+				"<tr><td ><IMG height=2 SRC='../images/trans.gif'></td></tr>";
+
+		//add in search window
+		html += "<tr><td colSpan=2><form action='/AllianzLife/Search_Result.asp' method='POST' class='searchBox' name='quickfinder'>" +
+				"<table width=100% border=0 cellspacing=0 cellpadding=0><tr>" +
+				"<td><img src='../images/nav3_search.gif' width='112' height='21' alt='Search' border='0'></td></tr><tr><td colspan='2' class='searchcol-tblDark'>" +
+				"<IMG width=7 SRC='../images/trans.gif'>" + 
+				"<input type='text' class='searchBox' name='SearchString' size='11'></td>" +
+				"</tr><tr><td colspan=2 class='col-tblDark' nowrap>" +
+				"<input type=image name='go' value='submit' src='/images/nav3_go.gif' width='110' height='19' alt='Start search' border=0>" +
+				"</td></tr></table></form></td></tr>"
+ 
+ 		html += "</table>"
+
+		if (lastNav3LefthlID != hlID) {
+			lastNav3LefthlID = hlID;
+			if(isNav6) {
+				document.getElementById("nav3LeftMenu").innerHTML=html;
+			} else if(isIE) {
+				document.all.nav3LeftMenu.innerHTML=html;
+			} else if(isNav) {
+				document.nav3LeftMenu.document.write(html);
+				document.nav3LeftMenu.document.close();
+			}
+		}
+	}
+
+	function timerHandler(){
+		// reset all navs back to initial load state
+		resetTabs();
+		hideNav3();
+		showNav2(nav1DefaultIdx, -1);
+		showNav3Left(-1)
+	}
+
+	function startTimer(){
+		// if no mouseovers's within a half second, then rest the menus
+		stopTimer();
+		timerID = setTimeout("timerHandler()",1000);
+	}
+
+	function stopTimer(){
+		// stop automatic reset process
+		if (isNav6 || isIE) {
+			if (timerID)
+				clearTimeout(timerID); //ns6 stop processsing if timerid not set
+		} else clearTimeout(timerID); //ns4 doesn't like the if (timerID) statement go figure
+	}
+
+	function hideNav3(){
+		if(isNav6) {
+			document.getElementById("nav3MenuDropDown").style.visibility='hidden';
+		} else if(isIE){
+			document.all.nav3MenuDropDown.style.visibility='hidden';
+		} else if(isNav){
+			document.nav3MenuDropDown.visibility='hidden';
+		}
+	}
+
+	var shortImgArray = new Array()
+	shortImgArray[0] = new Image(70,38)
+	shortImgArray[0].src = "../images/bttn1_short.gif"
+	shortImgArray[1] = new Image(70,38)
+	shortImgArray[1].src = "../images/bttn2_short.gif"
+	shortImgArray[2] = new Image()
+	shortImgArray[2].src = "../images/bttn3_short.gif"
+	shortImgArray[3] = new Image()
+	shortImgArray[3].src = "../images/bttn4_short.gif"
+	shortImgArray[4] = new Image()
+	shortImgArray[4].src = "../images/bttn5_short.gif"
+	var tallImgArray = new Array()
+	tallImgArray[0] = new Image()
+	tallImgArray[0].src = "../images/bttn1_tall.gif"
+	tallImgArray[1] = new Image()
+	tallImgArray[1].src = "../images/bttn2_tall.gif"
+	tallImgArray[2] = new Image()
+	tallImgArray[2].src = "../images/bttn3_tall.gif"
+	tallImgArray[3] = new Image()
+	tallImgArray[3].src = "../images/bttn4_tall.gif"
+	tallImgArray[4] = new Image()
+	tallImgArray[4].src = "../images/bttn5_tall.gif"
+	
+	function imageTall(idx){
+		return tallImgArray[idx].src
+	}
+	function imageShort(idx){
+		return shortImgArray[idx].src
+	}
+
+	var mytab0;
+	var mytab1;
+	var mytab2;
+	var mytab3;
+	var mytab4;
+
+	function resetTabs() {
+		for(var i=0;i<=4;i++) {
+			if (i != nav1DefaultIdx)
+				eval("mytab" + i + ".src='" + shortImgArray[i].src + "'");
+		}
+	}
+
+	function mOverTab(idx) {
+		stopTimer();
+		hideNav3();
+		resetTabs();
+		eval("mytab" + idx + ".src='" + tallImgArray[idx].src + "'");
+//		showNav2(idx, -1);
+//uncomment previous line to make second bar show up on rollover
+	}
+	function mOutTab(idx) {
+		stopTimer();
+		timerID = setTimeout("showNav2(" + nav1DefaultIdx + ", -1);" +
+								"mytab" + idx + ".src='" + shortImgArray[idx].src + "';", 1000);
+	}
+
+	function PopUp(URL) {
+		var l = 10;
+		var t = 0;
+		var w = 660;
+		var h = 600;
+		var windowprops = "location=no,scrollbars=yes,menubars=no,toolbar=no,resizable=yes" +
+							",left=" + l + ",top=" + t + ",width=" + w + ",height=" + h;
+
+		if(mypopup)
+			if (mypopup.open) {
+				mypopup.close();
+				mypopup = null;
+				PopUp(URL);
+				return;
+			}
+
+		mypopup = window.open(URL,"MenuPopup",windowprops);
+		return true;
+	}
+
+	function ToolBarPopUp(URL) {
+		var l = 10;
+		var t = 10;
+		var w = 660;
+		var h = 480;
+		var windowprops = "toolbar=yes,scrollbars=yes,resizable=yes," +	
+							"left=" + l + ",top=" + t + ",width=" + w + ",height=" + h;
+
+		if(mypopup)
+			if (mypopup.open) {
+				mypopup.close();
+				mypopup = null;
+				ToolBarPopUp(URL);
+				return;
+			}
+
+		mypopup = window.open(URL,"MenuPopup",windowprops);
+		return true;
+	}
+</script>
+<script type="text/javascript">
+<!--
+	var navColor = ["282d6a", "353b87", "326cb3", "6394ce", "90c1e8"];
+	var navhlColor = ["535788", "5d629f", "5b89c2", "a6cded", "a6cded"];
+	var navFontColor = ["ffffff", "ffffff", "ffffff", "25194a", "25194a"];
+
+	var nav2Array = [
+		[
+			new navItem("Overview",114,78,"/AllianzLife/Overview.asp", [
+						new navItem("Financial Highlights",0,0,"/AllianzLife/FinancialOverview.asp", [
+										new navItem("Investments",0,0,"/AllianzLife/investments.asp",null),
+										new navItem("Capital and Surplus",0,0,"/AllianzLife/capitalandsurplus.asp",null),
+										new navItem("Ratings",0,0,"/AllianzLife/ratings.asp",null)
+									]),
+						new navItem("Community Involvement",0,0,"/AllianzLife/CommunityInvolvement.asp",null),
+						new navItem("Corporate News",0,0,"/AllianzLife/CorporateNews.asp",null)
+						]),
+			new navItem("Allianz&nbsp;Worldwide",253,117,"/AllianzLife/allianzworldwide.asp", null),
+			new navItem("Compliance&nbsp;Statement",426,152,"/AllianzLife/ComplianceStatement.asp", null),
+			new navItem("Privacy&nbsp;Policy",602,98,"/AllianzLife/PrivacyPolicy.asp", null)
+		],[
+			new navItem("Overview",114,100,"/Divisions/Overview.asp", null),
+			new navItem("Products &amp; Services",184,100,"#", [
+						new navItem("Broker-Dealer Services",0,0,"/Divisions/Securities.asp",null),
+						new navItem("Fixed Life and Annuity Products",0,0,"/Divisions/FixedLifeAnnuity.asp",null),
+						new navItem("Long Term Care Products",0,0,"/Divisions/LongTermCare.asp",null),
+						new navItem("Reinsurance Products",0,0,"/Divisions/Reinsurance.asp",null),
+						new navItem("Variable Products",0,0,"/Divisions/Variable.asp",null)
+						])
+		],[
+			new navItem("Employment&nbsp;Information",114,160,"/Employment/Information.asp", [
+						new navItem("Benefits Overview",0,0,"/Employment/medical.asp",null),
+						new navItem("Retirement Benefits",0,0,"/Employment/retirement.asp",null),
+						new navItem("Time Off With Pay",0,0,"/Employment/vacation.asp",null),
+						new navItem("Additional Programs &amp; Services",0,0,"/Employment/programs.asp",null),
+						new navItem("Training Benefits",0,0,"/Employment/training.asp",null)
+						]),
+			new navItem("Employment&nbsp;Opportunities",279,166,"#", [
+						new navItem("Current Openings",0,0,"javascript:GetDocument('Employment+Openings')",null),
+						new navItem("Apply Online",0,0,"javascript:GetDocument('Apply+Online')",null)
+						])
+		],[
+			new navItem("Contact&nbsp;Us",114,126,"/ContactUs/ContactUs.asp", null)
+		],[
+			new navItem("Secured Sites",114,110,"/Agents_Reps/General.asp", [
+						new navItem("Allianz Life Agent Login",0,0,"'/login/Signon.asp' target=_blank",null),
+						new navItem("Allianz LTC Agent Login",0,0,"'/login/Signon.asp' target=_blank",null),
+						new navItem("USAllianz Rep Login",0,0,"'https://www.usallianz.com/SSL/SignOn.asp' target=_blank",null),
+						new navItem("USAllianz Securities Rep Login",0,0,"'/login/Signon.asp' target=_blank",null)
+						])
+		]
+	]
+//-->
+</script>
+<script language="JavaScript">
+<!--
+  // Calls IFRAME page for IE or Popup window for NS
+  function GetDocument(strTitle) {
+    var strURL;
+
+    if (is.ie4) {
+      if (strTitle == "Employment+Openings") {
+        strURL = "/employment/redirect.asp?url=https://azlweb01.allianzlife.com/ccareers.nsf/Home4?ReadForm"
+      } else if (strTitle == "Apply+Online") {
+        strURL = "/employment/redirect.asp?url=https://azlweb01.allianzlife.com/ccareers.nsf/Applicant4"
+      }
+      document.location.href = "opportunities.asp?title=" + escape(strTitle) + "&url=" + escape(strURL);
+    } else {
+      if (strTitle == "Employment+Openings") {
+        strURL = "/employment/redirect.asp?url=https://azlweb01.allianzlife.com/ccareers.nsf/Home4?ReadForm"
+      } else if (strTitle == "Apply+Online") {
+ 		    strURL = "/employment/redirect.asp?url=https://azlweb01.allianzlife.com/ccareers.nsf/Applicant4"
+      }
+      ToolBarPopUp(strURL);
+    }
+  }
+
+// -->
+</script>
+<link rel="stylesheet" type="text/css" href="../includes/azlstyle.css">
+<link rel="stylesheet" type="text/css" href="../includes/ss_stmap.css">
+</head>
+<body bgcolor="#25194a" vlink="#000000" alink="#000000" link="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onload="pageInit()">
+<a name="topOfPage"></a>
+<!-- BEGIN - WOO -->
+<div style="LEFT: 0px; POSITION: absolute; TOP: 0px; VISIBILITY: visible">	
+	<table height="94" width="774" bgcolor="#25194a" border="0" align="left" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+		<td align="center" valign="top">
+			<img src="../images/bg_pfeile.gif" align="left" border="0">
+		</td>
+	  </tr>
+	</tbody></table>
+</div>
+<!-- END - WOO -->
+
+<!-- BEGIN - NAV1  -->
+<div style="LEFT: 0px; POSITION: absolute; TOP: 65px; WIDTH: 110; VISIBILITY: visible; Z-INDEX: 9">
+	<a href="../home/default.asp"><img border="0" height="29" src="../images/allianz_logo.gif" width="113"></a>
+</div>
+
+
+<div style="LEFT: 104px; POSITION: absolute; TOP: 56px; WIDTH: 113; VISIBILITY: visible; Z-INDEX:5" id="tabdiv0"><img border="0" height="38" name="tab0" src="../images/bttn1_tall.gif" width="113"></div>
+
+<div style="LEFT: 211px; POSITION: absolute; TOP: 56px; WIDTH: 120; VISIBILITY: visible; Z-INDEX:4" id="tabdiv1"><a href="../Divisions/Overview.asp" onmouseout="mOutTab(1);" onmouseover="mOverTab(1);"><img border="0" height="38" name="tab1" src="../images/bttn2_short.gif" width="120"></a></div>
+
+<div style="LEFT:325px; POSITION:absolute; TOP:56px; WIDTH:60; VISIBILITY:visible; Z-INDEX:3" id="tabdiv2"><a href="../Employment/Information.asp" onmouseout="mOutTab(2);" onmouseover="mOverTab(2);"><img border="0" height="38" name="tab2" src="../images/bttn3_short.gif" width="60"></a></div>
+
+<div style="LEFT:379px; POSITION:absolute; TOP:56px; WIDTH:76; VISIBILITY:visible; Z-INDEX:2" id="tabdiv3">
+	<a href="../ContactUs/ContactUs.asp" onmouseout="mOutTab(3);" onmouseover="mOverTab(3);">
+	<img border="0" height="38" name="tab3" src="../images/bttn4_short.gif" width="76"></a></div>
+
+<div style="LEFT:449px; POSITION:absolute; TOP:56px; WIDTH:104; VISIBILITY:visible; Z-INDEX:1" id="tabdiv4"><a href="/Agents_Reps/General.asp" onmouseout="mOutTab(4);" onmouseover="mOverTab(4);"><img border="0" height="38" name="tab4" src="../images/bttn5_short.gif" width="104"></a></div>
+
+<script>
+if(isNav && !isNav6) {
+	for(var i=0;i<=4;i++) {
+		eval("mytab" + i + "=document['tabdiv" + i +"'].document.tab" + i);
+	}
+} else {
+	for(var i=0;i<=4;i++) {
+		eval("mytab" + i + "=document.tab" + i);
+	}
+}
+</script>
+<!-- END - NAV1  -->
+<!-- BEGIN - NAV2  -->
+<div id="nav2MenuBar" style="position:absolute; visibility:show; left:0px; top:96px; z-index:9;"><table border="0" cellpadding="0" width="774" cellspacing="0" height="25" style="BACKGROUND-COLOR: #282d6a"><tbody><tr><td width="114" nowrap="" height="26">&nbsp;</td><td nowrap="" align="center" valign="middle" style="BACKGROUND-COLOR: #282d6a"><img height="12" width="10" src="../images/trans.gif"><a class="noul0" href="/AllianzLife/Overview.asp" onmouseover="showNav3DropDown(0,-1);" onmouseout="startTimer()">Overview</a><img height="12" width="10" src="../images/trans.gif"></td><td nowrap="" align="center" valign="middle" style="BACKGROUND-COLOR: #282d6a"><img height="12" width="10" src="../images/trans.gif"><a class="noul0" href="/AllianzLife/allianzworldwide.asp" onmouseover="showNav3DropDown(1,-1);" onmouseout="startTimer()">Allianz&nbsp;Worldwide</a><img height="12" width="10" src="../images/trans.gif"></td><td nowrap="" align="center" valign="middle" style="BACKGROUND-COLOR: #282d6a"><img height="12" width="10" src="../images/trans.gif"><a class="noul0" href="/AllianzLife/ComplianceStatement.asp" onmouseover="showNav3DropDown(2,-1);" onmouseout="startTimer()">Compliance&nbsp;Statement</a><img height="12" width="10" src="../images/trans.gif"></td><td nowrap="" align="center" valign="middle" style="BACKGROUND-COLOR: #535788"><img height="12" width="10" src="../images/trans.gif"><a class="noulBold0" href="/AllianzLife/PrivacyPolicy.asp" onmouseover="showNav3DropDown(3,-1);" onmouseout="startTimer()">Privacy&nbsp;Policy</a><img height="12" width="10" src="../images/trans.gif"></td><td width="100%" valign="top" align="right"><img src="../images/corner_part_blue.gif"></td></tr></tbody></table></div>
+<!-- END - NAV2  -->
+<!-- BEGIN - NAV3  -->
+<div id="nav3MenuDropDown" style="position:absolute; visibility:show; left:0px; top:0px; z-index:9"></div>
+<!-- END - NAV3  -->
+<!-- BEGIN - NAV3 LEFT MENU  -->
+<div id="nav3LeftMenu" style="position:absolute; visibility:show; WIDTH: 112; left:0px; top:124px; z-index:9"><table width="112" border="0" cellpadding="0" cellspacing="0" style="BACKGROUND-COLOR: #25194a"><tbody><tr><td><img height="2" src="../images/trans.gif"></td></tr><tr><td colspan="2"><a href="/Home/default.asp"><img src="../images/homebttn.gif" width="112" height="21" border="0" alt="Home"></a></td></tr><tr><td><img height="2" src="../images/trans.gif"></td></tr><tr><td colspan="2"><a href="/Home/SiteMap.asp"><img src="../images/sitemapbttn.gif" width="112" height="21" alt="Site Map" border="0"></a></td></tr><tr><td><img height="2" src="../images/trans.gif"></td></tr><tr><td colspan="2"><form action="/AllianzLife/Search_Result.asp" method="POST" class="searchBox" name="quickfinder"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="../images/nav3_search.gif" width="112" height="21" alt="Search" border="0"></td></tr><tr><td colspan="2" class="searchcol-tblDark"><img width="7" src="../images/trans.gif"><input type="text" class="searchBox" name="SearchString" size="11"></td></tr><tr><td colspan="2" class="col-tblDark" nowrap=""><input type="image" name="go" value="submit" src="/images/nav3_go.gif" width="110" height="19" alt="Start search" border="0"></td></tr></tbody></table></form></td></tr></tbody></table></div>
+<!-- END - NAV3 LEFT MENU  -->
+
+<table bgcolor="#25194a" border="0" cellspacing="0" cellpadding="0" width="774">
+  <tbody><tr>
+	<td bgcolor="#25194a" valign="top" align="left" colspan="2"><img height="122" width="114" src="../images/trans.gif"></td>
+  </tr>
+  <tr>
+	<td bgcolor="#25194a" valign="top" rowspan="2" align="left" width="112"><img height="2" width="114" src="../images/trans.gif"></td>
+	<td bgcolor="#25194a" align="left" valign="top" width="660"><img height="2" width="660" src="../images/trans.gif"></td>
+  </tr>
+  <tr>
+
+	<td bgcolor="#FFFFFF" align="left" valign="top" width="660">
+    <img height="24" width="660" src="../images/trans.gif"><br>
+
+
+
+<!-- BEGIN CONTENT -->
+<table width="660" cellpadding="0" cellspacing="0" border="0">
+  		<!-- The following row sets up the 4 page columns with indents and spacers //-->
+		<!-- Edit ONLY Class Name -------------- //-->
+		  <tbody><tr class="col-copytext">
+			<td><img src="/images/trans.gif" width="7" height="2"></td><!-- Indent for column 1 -->
+			<td><img src="/images/trans.gif" width="150" height="2"></td><!-- column 1 -->
+			<td><img src="/images/trans.gif" width="7" height="2"></td><!-- Outdent for column 1 -->
+
+			<td><img src="/images/trans.gif" width="7" height="2"></td><!-- Indent for column 2 -->
+			<td><img src="/images/trans.gif" width="150" height="2"></td><!-- column 2 -->
+			<td><img src="/images/trans.gif" width="7" height="2"></td><!-- Outdent for column 2 -->
+
+			<td><img src="/images/trans.gif" width="7" height="2"></td><!-- Indent for column 3 -->
+			<td><img src="/images/trans.gif" width="150" height="2"></td><!-- column 3 -->
+			<td><img src="/images/trans.gif" width="7" height="2"></td><!-- Outdent for column 3 -->
+
+			<td><img src="/images/trans.gif" width="7" height="2"></td><!-- Indent for column 4 -->
+			<td><img src="/images/trans.gif" width="150" height="2"></td><!-- column 4 -->
+			<td><img src="/images/trans.gif" width="7" height="2"></td><!-- Outdent for column 4 -->
+		  </tr>
+
+  <tr>
+	<td valign="top" align="right" colspan="3" class="LifeGraphicBar"><img src="/images/corner_part.gif"></td>
+
+	<td rowspan="2">&nbsp;</td>
+	<td colspan="4" class="h2">Privacy Policy</td>
+	<td rowspan="2">&nbsp;</td>
+
+	<td rowspan="2">&nbsp;</td>
+	<td rowspan="2">&nbsp;<!--empty 4th column --></td>
+	<td rowspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+	<td valign="top" colspan="3" class="LifeGraphicBar"><img src="../images/thumnails/statement.jpg" width="164" height="104" alt="" border="0"></td>
+
+	<td valign="top" rowspan="2" colspan="4" class="normal"><!-- go across 2 columns -->
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		At Allianz Life Insurance Company of North America (Allianz Life), protecting your privacy 
+		is very important to us. Our goal is to treat the personal information you furnish us with 
+		the utmost respect and in accordance with this Privacy Policy. This Privacy Policy is 
+		currently applicable only to our United States customers and visitors when they interact 
+		with our Web site.<br><br>
+
+		Please read on for details about our practices for handling and securing your personal 
+		information.<br>
+		
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		<span class="h3">Anonymous browsing</span><br>
+		You can visit Allianz Life on the World Wide Web without telling us who you are or 
+		revealing any information about yourself, including your e-mail address. In this case, 
+		our Web servers collect the name of the domain you used to access the Internet (such 
+		as aol.com) and the Web site you came from and visit next. This information is used by 
+		us and our business partners to measure the number of visits, average time spent, page 
+		views, and other statistics about visitors to our Web site in general. We also use this 
+		data to monitor site performance and to make the site easier and more convenient to use.<br>
+
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		<span class="h3">Personal information collection</span><br>
+		<table border="0" cellpadding="0" cellspacing="2">
+		  <tbody><tr>
+			<td class="normal">
+				There are times when we may ask you for information about yourself to assist us 
+				in meeting your various needs, including:
+			</td>
+		  </tr>
+		  <tr>
+			<td class="normal">
+				<ul>
+					<li>Providing you with products or services you have requested</li>
+					<li>Servicing your account</li>
+					<li>Improving our services</li>
+					<li>Developing and/or informing you of additional products or services that may be of interest</li>
+				</ul>
+			</td>
+		  </tr>
+		  <tr>
+			<td class="normal">
+				In these cases, your browsing will no longer be anonymous to us. To provide these 
+				services, we may need to ask you directly to provide, among other things, your name, 
+				social security number, physical address, zip code, e-mail address and phone number.<br><br>
+
+				Please note that we do not knowingly solicit information from children and we do not 
+				knowingly market our products or services to children.
+			</td>
+		  </tr>
+		</tbody></table>
+		<br>
+
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		<span class="h3">Cookies</span><br>
+		If you are browsing, a cookie is used to help us measure the number of visits, average time 
+		spent, page views and other statistics relating to our Web site. This cookie, by itself does 
+		not reveal to us your e-mail address or who you are. If you decide to register online with 
+		one of Allianz Life business units, we may collect additional information to provide tailored 
+		offerings or content to you. In this case, we use cookies to recognize you on subsequent 
+		visits and make your online experience more convenient.<br><br>
+
+		Cookies are small pieces of data stored by your internet browser on your computer's hard drive. 
+		They cannot be used to collect data from your hard drive, obtain your e-mail address or 
+		personal-identifying information about you. You may set your browser to notify you when you 
+		receive a cookie or to prevent cookies from being sent. Please note, however, that by not 
+		accepting cookies, you will limit the functionality we can provide you when you visit our site.<br>
+
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		<span class="h3">Sharing information and consumer choice</span><br>
+		When you provide information to us, we may share your information with our affiliated companies 
+		and third parties for the purpose of fulfilling your requests as well as offering you other 
+		services that may be of interest to you. It is not shared with any third party, unless requested
+		by you or permitted by law. We may also aggregate statistics that we gather about our customers, 
+		sales, traffic patterns, and services and provide these statistics to third parties; however, 
+		when we do, these statistics will not include any personal information that identifies individuals.<br>
+
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		<span class="h3">How is your information secured and protected?</span><br>
+		Allianz Life uses encryption and authentication tools to protect your personal information. The 
+		information you provide us through our web site is secure.<br><br>
+
+		We instruct our employees with access to your information that it is to be used only in 
+		adherence with the principles set forth in this Privacy Policy and the laws applicable to 
+		each specific business. Employees who misuse customer information are subject to disciplinary 
+		action.<br>
+
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		<span class="h3">To contact us or correct your information</span><br>
+		You may access the data collected by Allianz Life about you by sending a request to the 
+		address listed below. If you believe that an error has been made in the accuracy of the 
+		data collected from you, Allianz Life will correct such error upon adequate verification 
+		of the error and the identity of the person seeking the correction.<br><br>
+
+		If you wish to access, remove or correct any personally identifying data you have supplied 
+		to Allianz Life or if you have any questions about this Privacy Policy, you may contact 
+		us by sending a letter via the U.S. Mail to:<br>
+		<table border="0" cellpadding="7" cellspacing="0">
+		  <tbody><tr>
+			<td class="normal">
+				Security Administrator<br>
+				Allianz Life Insurance Company of North America<br>
+				5701 Golden Hills Drive<br>
+				Minneapolis, MN 55416-1297<br><br>
+			</td>
+		   </tr>
+		 </tbody></table>
+
+		Please understand that in order to protect your privacy and security, we may also need to take 
+		reasonable steps to verify your identity before granting access or making corrections.<br>
+
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		<span class="h3">What if we change our Privacy Policy?</span><br>
+		Allianz Life reserves the right to modify or supplement this Privacy Policy statement at 
+		anytime. If we make any material change, we will update our Web site to include such 
+		changes.<br>
+		
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		<span class="h3">Disclaimer of Liability</span><br>
+		Under no circumstances shall Allianz Life be liable for any damages, including, but not 
+		limited to, special, incidental, consequential or exemplary damages, that result from the 
+		use of the information or materials posted to or collected as a result of the user accessing 
+		the Allianz Life Web site.<br>
+
+		<img src="/images/trans.gif" width="7" height="24"><br>
+		<span class="h3">Date of last revision: </span>12/17/01<br>
+
+		<br><br><br><br>
+	</td>
+  </tr>
+</tbody></table>		
+<!-- END - CONTENT  -->
+	</td>
+  </tr>
+  <tr>
+	<td valign="bottom" align="left" width="114">&nbsp;</td>
+	<td bgcolor="white" align="center" valign="BOTTOM" height="25">
+		<table height="100%" border="0" cellspacing="0" cellpadding="0" width="660">
+		  <tbody><tr>
+			<td height="1" colspan="6" bgcolor="#DAE4F1"><img src="../images/trans.gif" width="1" height="1" alt="" border="0"><br></td>
+		  </tr>
+		  <tr>
+			<td height="25" align="center" valign="middle" class="copytext">© ALLIANZ LIFE 2002<br></td>
+			<td height="25" align="center" valign="middle"><a class="copytext" href="/AllianzLife/sitereqs.asp">Site Requirements</a><br></td>
+			<td height="25" align="center" valign="middle"><a class="copytext" href="/AllianzLife/ComplianceStatement.asp">Compliance Statement</a><br></td>
+			<td height="25" align="center" valign="middle"><a class="copytext" href="/AllianzLife/PrivacyPolicy.asp">Privacy Policy</a><br></td>
+<td height="25" align="center" valign="middle"><a class="copytext" href="/AllianzLife/legalnotes.asp">Legal Notes</a><br></td>
+			<td height="25" align="right" valign="middle" nowrap=""><a href="#topOfPage"><img src="../images/top_neu.gif" border="0"></a>&nbsp;<br></td>
+		  </tr>
+		</tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+<script>
+	var imgHome = new Image();
+	imgHome.src = "../images/homebttn.gif";
+	var imgsitemap = new Image();
+	imgsitemap.src = "../images/sitemapbttn.gif";
+	var imgsearch = new Image();
+	imgsearch.src = "../images/nav3_search.gif";
+	var imgsearch2 = new Image();
+	imgsearch2.src = "../images/nav3_go.gif";
+</script>
+
+</body></html>
