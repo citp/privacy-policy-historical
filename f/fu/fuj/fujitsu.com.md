@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujitsu.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603174530id_/http%3A//www.fujitsu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujitsu.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207145439id_/http%3A//www.fujitsu.com/privacy/other_privacy.html) for the most accurate reproduction.*
 
 # Privacy - FUJITSU
 
@@ -8,4 +8,4 @@ Fujitsu Group recognizes the importance of the personal data by which you can be
 
 Some Fujitsu Group websites send "cookies" to your computer to better serve you with more tailored information when you return to the website. Cookies are identifiers that include unique characters, but unless you input your Personal Data onto our website you cannot be identified and remain anonymous. You can set most browsers to tell you when you are sent a cookie and to refuse to receive it.
 
-If you have any questions regarding our privacy policy, please contact us at [ webmaster@fujitsu.com](mailto:webmaster@fujitsu.com)
+If you have any questions regarding our privacy policy, please contact us at  [webmaster@fujitsu.com](mailto:webmaster@fujitsu.com)
