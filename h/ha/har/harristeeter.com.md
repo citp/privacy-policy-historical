@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024130114id_/http%3A//www.harristeeter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611090841id_/http%3A//www.harristeeter.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Harris Teeter -- Privacy Policy
 
@@ -8,22 +8,19 @@
   
 [](http://www.harristeeter.com/shopping/index.php)  
 [Go Shopping](http://www.mywebgrocer.com/store/harristeeter.html)  
+[Party To Go](http://www.harristeeter.com/cart/home.php)  
 [Security](http://www.harristeeter.com/shopping/online_security.php)  
   
 [](http://www.harristeeter.com/vic_card/index.php)  
-[Apply Now](http://www.harristeeter.com/vic_card/vic_application.php)  
+[Apply Now](https://www.harristeeter.com/vic_card/vic_application.php)  
 [Sweepstakes & Promotions](http://www.harristeeter.com/vic_card/sweeps_promotions.php)  
-[Sign Up for e-VIC](http://www.valupage.com/vp3.pst?From=HarrisTeeterVW&ZipCode=29730&Chain=165,Banner=1&Next=ht_signup1)  
+[Sign Up for e-VIC](http://www.valupage.com/)  
   
 [](http://www.harristeeter.com/in_the_stores/index.php)  
-[Foodies](http://www.harristeeter.com/in_the_stores/food_to_go.php)  
+[Fresh Foods](http://www.harristeeter.com/in_the_stores/food_to_go.php)  
 [Our Own Brands](http://www.harristeeter.com/in_the_stores/our_brands.php)  
-[Cakes](http://www.harristeeter.com/in_the_stores/cakes.php)  
-[Party Platters](http://www.harristeeter.com/in_the_stores/party_platters.php)  
-[Fruit Baskets](http://www.harristeeter.com/in_the_stores/fruit_baskets.php)  
   
 [](http://www.harristeeter.com/consumer_info/index.php)  
-[Weekly Column](http://www.harristeeter.com/consumer_info/weekly_column.php)  
 [Food Safety](http://www.harristeeter.com/consumer_info/food_safety.php)  
 [Pharmacy Health Line](http://www.harristeeter.com/pharmacy/index.php)  
 [Frequently Asked Questions](http://www.harristeeter.com/consumer_info/faq.php)  
@@ -31,9 +28,9 @@
   
 [](http://www.harristeeter.com/community/index.php)  
 [Together In Education](http://www.harristeeter.com/community/together_ed.php)  
-[Teeter Tots Baby Club](http://www.harristeeter.com/community/baby_club.php)  
 [HT Giving Program](http://www.harristeeter.com/community/giving_program.php)  
   
+[](http://www.harristeeter.com/cart/home.php)  
 |   
 |  |   
 At Harris Teeter, your privacy is our concern. We will not sell or give your name, address, email address or personal information to anyone.
@@ -63,10 +60,7 @@ Matthews, NC 28105
   
 |    
   
-
-
-[](http://www.harristeeter.com/vic_card/promo_panthers.php)
-
+[](http://www.southernliving.com/events/cookoff/default.asp?SID=1)  
   
 
 
