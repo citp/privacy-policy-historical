@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodyeartires.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203023328id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyeartires.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601205630id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Goodyear U. S. Legal - Privacy Policy
 
@@ -40,6 +40,4 @@ Goodyear does not knowingly collect any personally identifiable information (suc
 
 By using a Goodyear site, you signify your assent to the Goodyear On-line Privacy Policy. If you do not agree to this policy, please do not use our sites. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of our sites following the posting of changes to these terms will mean you accept those changes.
 
-**Copyrights**
-
-Copyright 2002 - The Goodyear Tire & Rubber Company., Akron, Ohio, USA. All rights reserved. The text, images, graphics, sound files, animation files, video files and their arrangement on Goodyear's web sites are all subject to Copyright and other intellectual property protection. These objects may not be copied for commercial use or distribution, nor may these objects be modified or posted to other sites. Some Goodyear web sites also contain images that are subject to copyright rights of their providers.
+**[Copyrights](https://web.archive.org/legal/copyright.html)**
