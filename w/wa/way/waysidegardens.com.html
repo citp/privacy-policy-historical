@@ -1,638 +1,1185 @@
-<!--The following is the downloaded HTML source of the waysidegardens.com privacy policy that was archived on 2001-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011210144201id_/http%3A//www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPrivacy.d2w/report) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waysidegardens.com privacy policy that was archived on 2004-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604003734id_/http%3A//www.waysidegardens.com/webapp/wcs/stores/servlet/StoreCatalogDisplay%3FcatalogId%3D10067%26storeId%3D10151%26langId%3D-1%26mainPage%3DPrivacyPolicy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html><head><title>Wayside Gardens: Welcome to Wayside Gardens Online!</title>
 
-<title>Wayside Gardens:  Wayside's Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="The information we learn from our customers helps us personalize and continually improve your on-line gardening experience with WaysideGardens.com. We understand your concerns regarding the exchange and use of personal information over the Internet. At Wayside Gardens, it is our policy to protect your personal information.">
-<meta name="keywords" content="WaysideGardens.com, waysidegardens.com, wayside gardens, Wayside Gardens, Waysidegardens, waysidegardens, policy, Privacy Policy, Park Seed Company">
+	<link rel="stylesheet" href="Wayside/wayside.css" type="text/css">
+	<script language="JavaScript">
 
-
-<style type="text/css"><!--
-.clsBannerFont { FONT-SIZE: 12px; COLOR: black; FONT-WEIGHT: normal;}
-.clsBannerFontBold { FONT-SIZE: 12px; COLOR: black; FONT-WEIGHT: bold;}
-.clsBannerFontSmall { FONT-SIZE: 10px; FONT-WEIGHT: normal;}
-.clsBannerFontSmallBold { FONT-SIZE: 10px; FONT-WEIGHT: bold;}
--->
-</style>
-<script type="text/javascript" language="javascript">
-<!--
-var bookmarkurl="http://www.waysidegardens.com"
-var bookmarktitle="Wayside Gardens"
-function addbookmark() {
-if ( document.all)
-window.external.AddFavorite(bookmarkurl,bookmarktitle)
+// cookies disabled popup
+function cookiesOn() {
+	var testCookieName = "testcookie2";
+	document.cookie=testCookieName+"=TEST";
+	return (getCookie(testCookieName) != null);
 }
-// -->
+if(!cookiesOn()) { //if cookies are enabled on client's browser
+	window.open("PopUpDisplayView?catalogId=10067&storeId=10151&langId=-1&mainPage=cookieinfo&titleText=Please Note!", "CookiesBlockedPopUp", "width=500,height=500,menubar=no,scrollbars=no,status=no");
+}
+
+// Session Timeout PopUp
+
+/*var minutes = 10;
+startTimingPage();*/
+
+function getCookie(NameOfCookie) {
+	if (document.cookie.length > 0) { 
+		var begin = document.cookie.indexOf(NameOfCookie+"="); 
+		if (begin != -1) { 
+			begin += NameOfCookie.length+1; 
+			var end = document.cookie.indexOf(";", begin);
+			if (end == -1) end = document.cookie.length;
+			return unescape(document.cookie.substring(begin, end));
+		} 
+	}
+	return null;
+}
+
+function setCookie(NameOfCookie, value, expiredays) {
+	var ExpireDate = new Date ();
+	ExpireDate.setTime(ExpireDate.getTime() + (expiredays * 24 * 3600 * 1000));
+	document.cookie = NameOfCookie + "=" + escape(value) + ((expiredays == null) ? "" : "; expires=" + ExpireDate.toGMTString());
+}
+
+function delCookie (NameOfCookie) {
+	if (getCookie(NameOfCookie)) {
+		document.cookie = NameOfCookie + ";=expires=Thu, 01-Jan-70 00:00:01 GMT";
+	}
+}
+
+function AlertUser() {
+	var urlStr = "PopUpDisplayView?catalogId=10067&storeId=10151&langId=-1&mainPage=sessiontimeoutpopup";
+	var featuresStr = "width=510,height=540,menubar=no,scrollbars=no,status=no";
+	var popup = window.open(urlStr, "ParkSeedSessionAlert", featuresStr);
+	if (popup.opener == null)
+    	popup.opener = window;
+}
+
+/*function startTimingPage() {
+	setTimeout("AlertUser()", minutes * 60 * 1000);
+}*/
+
+
+// Items in cart PopUp
+
+function openNewWindow() {
+	document.cookie = window.name + "=close";
+	if (event.clientX < 0 && event.clientY < 0) {
+		if (!anyOpenParkWindows()) {
+			var urlStr = "PopUpDisplayView?catalogId=10067&storeId=10151&langId=-1&mainPage=openCart_popup&titleText=Cart Reminder!";
+			var featuresStr = "width=510,height=500,menubar=no,scrollbars=no,status=no";
+			window.open(urlStr, "ParkSeedPopUp", featuresStr);
+			delCookie("Entry");
+		}
+	}
+}
+
+function anyOpenParkWindows() {
+	var cookies = getWindowCookies();
+	for (var i=0; i<cookies.length; i++) {
+		if (cookies[i] == "open") {
+			return true;
+		}
+	}
+	return false;
+}
+
+function getWindowCookies() {
+	var dc = document.cookie;
+	var prefix = "WINDOW";
+	var begin = "0";
+	var cookies = new Array(10);
+	for (var i=0; i<10; i++) {
+		cookies[i] = "close";
+	}
+
+	for (var i=0; i<10 && begin >= 0; i++) {
+		begin = dc.indexOf(prefix, begin);
+		if (begin != -1) {
+			var end = document.cookie.indexOf(";", begin);
+			if (end == -1) {
+				end = dc.length;
+			}
+			cookies[i] = unescape(dc.substring(begin + prefix.length + 15, end));
+			begin = end;
+		}
+	}
+	return cookies;
+}
+
+function loadEntryPopup() {
+	var url = "PopUpDisplayView?catalogId=10067&storeId=10151&langId=-1&mainPage=firstpopup";
+	var settings="width=404,height=324,screenX=100,screenY=100";
+	var entry = getCookie("Entry");
+	if(entry == null || entry != "Yes") {
+		window.open(url, "EntryPopup", settings);
+		setCookie("Entry", "Yes", 1);
+	}
+}
+
+if (window.name == "") {
+	window.name = "WINDOW" + Math.random();
+	window.name = window.name.substring(0, 20);
+}
+document.cookie = window.name + "=open";
+
 </script>
-</head>
-<body bgcolor="#ffffff" marginheight="0" topmargin="0" link="#003399" alink="#689868" vlink="#CC6666">
+
+	</head>
+	<!--  will load entry popup when inside body tag onLoad="loadEntryPopup()" -->
+
+		<body onunload="openNewWindow()">
+
+	
+ 
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="604">
-<tbody><tr>
-<td><img src="/images/topbanner/toplogo.gif" width="249" height="40" alt="Park Seed"></td>
-<td colspan="2" align="right" valign="middle">		
-	<table cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td colspan="4" bgcolor="#9999CC" height="2"><img alt="" src="/images/spacer.gif" width="2" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="1" bgcolor="#9999CC"><img alt="" src="/images/spacer.gif" width="2" height="2" border="0"></td>
-			<td colspan="1" bgcolor="#FFFFFF"><img alt="" src="/images/topbanner/mtcart.gif" width="30" height="30" border="0"></td>
- 			<td colspan="1" bgcolor="#FFFFFF" class="clsBannerFont"><span class="clsBannerFontBold">&nbsp;Your 100% Secure Shopping Cart &nbsp;</span><br>&nbsp;# of items in cart: 0 &nbsp;&nbsp;Total: $ 0.00 &nbsp;&nbsp;&nbsp;</td>
-			<td colspan="1" bgcolor="#9999CC"><img alt="" src="/images/spacer.gif" width="2" height="2" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="4" bgcolor="#9999CC" height="2"><img alt="" src="/images/spacer.gif" width="2" height="2" border="0"></td>
-		</tr>
+
+
+
+
+
+
+
+
+
+	<!-- START Wayside HEADER  -->
+
+	<table width="664" border="0" cellspacing="0" cellpadding="0">
+	 <tbody><tr>
+	  <td width="314"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=page1" alt="Home Page" title="Home Page"><img src="/web_images/Wayside/topbanner/logotopmain.gif" width="314" height="49" border="0"></a>
+	  </td>
+	  <td width="350" valign="bottom" align="right" class="topCart">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+0 items: $ 0.00&nbsp;<a href="ViewCart?catalogId=10067&amp;storeId=10151&amp;langId=-1" alt="View Cart" title="View Cart"><img src="/web_images/Wayside/topbanner/viewCartsm.gif" border="0" height="15" width="73" align="absmiddle" alt="View Cart" class="diff"></a><span class="hiMember">
+
+	<br></span><br>
+
+	  </td>
+	 </tr>
+	 <tr>
+	  <td colspan="2"><img src="/web_images/Wayside/topbanner/logobottommain.gif" width="664" height="20" usemap="#logomap" border="0"></td>
+	 </tr>
+	 <tr>
+	  <td colspan="2"><img src="/web_images/Wayside/topbanner/toptabsmain.gif" width="664" height="18" usemap="#tabsmap" border="0"></td>
+	 </tr>
+	 <tr>
+	  <td colspan="2"><img src="/web_images/Wayside/topbanner/actionbar.gif" width="664" height="28" usemap="#actionmap" border="0"></td>
+	 </tr>
 	</tbody></table>
-	</td>
-</tr>
-<tr>	<td><img src="/images/topbanner/midlogo.gif" width="249" height="32" alt="gardening"></td>
-<td><img src="/images/topbanner/tagline.gif" width="180" height="32" alt="flowers"></td>
-<td align="center" rowspan="3" background="/images/topbanner/membersbg.gif" width="175" height="113">
-	<form method="post" action="http://www.waysidegardens.com/webapp/commerce/command/Logon">
-<input type="hidden" name="url" value="http://www.waysidegardens.com/Home">
-<input type="hidden" name="merchant_rn" value="542">
-<b>Members Login</b><br>
-username <input type="text" name="name" size="8" maxlength="24"><br>
-password <input type="password" name="password" size="5">
-<input type="image" border="0" src="/images/goltgn.gif" width="21" height="20" align="absmiddle"><br>
-<font size="2">
-<a href="http://www.waysidegardens.com/webapp/commerce/command/RegisterForm?url=http://www.waysidegardens.com/Home">New User</a> | <a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psForgotPassword.d2w/report">Forgot Password</a><br></font>
-</form>
-
-</td>
-</tr>
-<tr><td><img src="/images/topbanner/bottomlogo.gif" width="249" height="36" alt="seeds"></td><td><img src="/images/topbanner/1800num.gif" width="180" height="36"></td></tr>
-<tr><td colspan="2">
-<table border="0" cellpadding="0" cellspacing="0" width="429">
-	<tbody><tr>
-<td> <a href="http://www.waysidegardens.com/Home"><img alt="Home Page" src="/images/topbanner/tabstore_on.gif" width="111" height="22" border="0"></a></td>
-<td> <a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psWebSpecials.d2w/report"><img alt="Web Specials" src="/images/topbanner/tabspec_off.gif" width="106" height="22" border="0"></a></td>
-<td> <a href="http://www.waysidegardens.com/Catalog"><img alt="Free Catalog" src="/images/topbanner/tabfreecat_off.gif" width="106" height="22" border="0"></a></td>
-<td> <a href="http://www.waysidegardens.com/Community"><img alt="Community" src="/images/topbanner/tabcomm_off.gif" width="106" height="22" border="0"></a></td>
-</tr>
-<tr>
-<td colspan="4"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/all"><img src="/images/topbanner/prodlink.gif" border="0" width="90" height="23" alt="Products"></a><a href="http://www.waysidegardens.com/QuickOrder"><img src="/images/topbanner/quiclink.gif" border="0" width="148" height="23" alt="Quick Order Form"></a><a href="http://www.waysidegardens.com/OrderStatus"><img src="/images/topbanner/statlink.gif" border="0" width="117" height="23" alt="Order Status"></a><a href="http://www.waysidegardens.com/Home"><img src="/images/topbanner/homelink.gif" border="0" width="74" height="23" alt="Home Page"></a></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>	 <table border="0" cellpadding="0" cellspacing="0" width="604">
-<tbody><tr>
 
 
-<!-- BEGIN NAVBAR -->
-<td><img src="/images/spacer.gif" width="5" height="1"></td>
-<td bgcolor="#9999CC"><img src="/images/spacer.gif" width="2" height="1"></td>
-<td valign="top" bgcolor="#CCCCFF"><img src="/images/spacer.gif" width="120" height="1"></td>
-<td bgcolor="#9999CC"><img src="/images/spacer.gif" width="2" height="1"></td>
-<td><img src="/images/spacer.gif" width="5" height="1"></td>
-<td valign="top"><img src="/images/spacer.gif" width="324" height="1"></td>
-<td><img src="/images/spacer.gif" width="5" height="1"></td>
-<td valign="top"><img src="/images/spacer.gif" width="140" height="1"></td>
-</tr>
-<tr valign="top">
-<td><img src="/images/spacer.gif" width="5" height="5"></td>
-<td bgcolor="#9999CC"><img src="/images/spacer.gif" width="2" height="5"></td>
-<td bgcolor="#CCCCFF">
-<table width="120" border="0" cellpadding="5" cellspacing="0">
-<tbody><tr bgcolor="#FFFFFF">
-<td valign="top" align="center">
-<form action="http://www.waysidegardens.com/webapp/commerce/command/PSENewsletterSignup" method="POST">
-<input type="hidden" name="ENewsletter" value="X">
-<input type="hidden" name="merchant_rn" value="542">
-<input type="hidden" name="PROCESS" value="Subscribe">
-<input name="url" type="hidden" value="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psNewsletter.d2w/ThankYou">
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psNewsletter.d2w/NewsletterRequest"><img src="/images/newslet.gif" width="105" height="79" hspace="0" border="0" alt="Newsletter"></a><br>
-<font size="2">
-your e-mail here:<br>
-<input type="text" name="saemail1" value="" size="10">
-<input type="image" name="go" src="/images/gowt.gif" border="0" id="gobut" alt="go" width="21" height="20">
-</font>
-</form>
-<!-- newsletter signup --></td>
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#9999CC"><font size="2" face="Arial, Helvetica, sans-serif"><b>Search</b></font></td>
-</tr>
-<!-- search area -->
-<tr>
-<td valign="top" align="center" bgcolor="#CCCCFF">
-<font size="2">
-<form id="search" name="search" method="post" action="http://207.49.18.145/servlet/psDoSearch">
-<input type="hidden" name="merchant_rn" value="542">
-<input type="text" name="searchstring" value="" size="10">
-<input type="image" name="go" src="/images/goltgn.gif" border="0" align="absmiddle" id="gobut" alt="go" width="21" height="20"><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psSearchADV.d2w/FIRST">Advanced&nbsp;Search</a>
-<input type="hidden" name="merchant_rn" value="542">
-</form>
-</font>
-</td>
-</tr>
-<!-- search area -->
-<tr>
-<td valign="top" align="center" bgcolor="#9999CC"><font face="Arial, Helvetica, sans-serif" size="2"><b>Highlights</b></font></td>
-</tr>
-<tr>
-<td valign="top" bgcolor="#CCCCFF"> <font size="2">
-&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psWebSpecials.d2w/Report">Web Specials</a><br>
-&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psNewFromPark.d2w/topten">New From Wayside</a><br>
-&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psLongTopTen.d2w/Top10">Bestsellers</a><br>
-&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psExclusive.d2w/report">Exclusives</a><br>
-&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psGiftCertificates.d2w/GiftCert">Gift Certificates</a>
-</font></td>
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#9999CC"><font face="Arial, Helvetica, sans-serif" size="2"><b>Products</b></font></td>
-</tr>
-<tr>
-<td valign="top" bgcolor="#CCCCFF"> <font size="2">
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Trees">Trees</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Shrubs">Shrubs</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Roses">Roses</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Vines">Vines</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Sun%20Perennials">Sun Perennials</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Shade%20Perennials">Shade Perennials</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Ground%20Covers">Ground Covers</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Bulbs">Bulbs</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Edibles">Edibles</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCategory1.d2w/Gate?merchant_rn=542&amp;cat=Accessories">Accessories</a><br>
-</font></td></tr>
-<tr>
-<td valign="top" align="center" bgcolor="#9999CC"><font face="Arial, Helvetica, sans-serif" size="2"><b>Content</b></font></td>
-</tr>
-<tr>
-<td valign="top" bgcolor="#CCCCFF"><font size="2">
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psQuickOrder.d2w/report">Quick Order</a><br>
-<!--
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psTipofDay.d2w/report">GardenTips</a><br>-->
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psNewsletter.d2w/NewsletterRequest">Newsletters</a><br>
-<!--
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=pressroom">Press Room</a><br>-->
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCatalogRequest.d2w/CatalogRequest">Free Catalog</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=guarantee">Our Guarantee</a><br>
-&nbsp;&nbsp;<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/Map?merchant_rn=542">Zone Map</a> </font> </td>
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#9999CC"><font size="2" face="Arial, Helvetica, sans-serif"><b>Free Gift</b></font></td>
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#FFFFFF">
-<form method="post" action="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psReferAFriend.d2w/Start">
-<input type="hidden" name="merchant_rn" value="542">
-<font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psReferAFriend.d2w/Start?merchant_rn=542"><img src="/images/refer.gif" width="105" height="60" border="0" alt="Refer a Friend to Park Seed and You Both Get a Free Gift!"></a>
-your e-mail here: <br></font>
-<input type="text" name="youremail" value="" size="10">
-<br>
-<font size="2">friend's e-mail here: <br></font>
-<input type="text" name="friendemail" size="8">
-<font size="2">
-<input type="image" src="/images/gowt.gif" name="Submit2" value="Submit" border="0" width="21" height="20" align="middle" alt="go!">
-<br>
-<font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psReferAFriend.d2w/Start?merchant_rn=542">Free
-Gift for Both!</a> </font>
+	<map name="logomap">
+	 <area shape="rect" coords="1,0,255,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=page1" alt="Home Page" title="Home Page">
+	 <area shape="rect" coords="469,0,583,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=feedbackform" alt="Contact Us" title="Contact Us">
+	 <area shape="rect" coords="599,0,655,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=LoginForm" alt="My Account" title="My Account">
+	</map>
 
-</font></form></td>
-</tr>
-<tr bgcolor="#9999CC">
-<td valign="top" align="center"><img src="/images/spacer.gif" width="1" height="1"></td>
-</tr>
-</tbody></table>
-</td>
-<td bgcolor="#9999CC"><img src="/images/spacer.gif" width="2" height="5"></td>
-<td><img src="/images/spacer.gif" width="5" height="5"></td>
+	<map name="tabsmap">
+	 <area shape="rect" coords="1,0,81,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homePerennials" alt="Perennials" title="Perennials">
+	 <area shape="rect" coords="82,0,140,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeBulbs" alt="Bulbs" title="Bulbs">
+	 <area shape="rect" coords="141,0,203,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRoses" alt="Roses" title="Roses">
+	 <area shape="rect" coords="203,0,315,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeTrees" alt="Trees &amp; Shrubs" title="Trees &amp; Shrubs">
+	 <area shape="rect" coords="315,0,398,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRare" alt="Rare &amp; Unusual" title="Rare &amp; Unusual">
+	 <area shape="rect" coords="399,0,470,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeSupplies" alt="Supplies &amp; Accessories" title="Supplies &amp; Accessories">
+	 <area shape="rect" coords="471,0,587,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeGifts" alt="Gifts &amp; Garden Art" title="Gifts &amp; Garden Art">
+	 <area shape="rect" coords="590,0,659,18" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=LoginForm" alt="My Account" title="My Account">
+	</map>
 
-	<td valign="top" width="324">
-<!-- BEGIN BODY -->
+	<map name="actionmap">
+	 <area shape="rect" coords="590,0,659,14" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=LoginForm" alt="My Account" title="My Account">
+	 <area shape="rect" coords="3,6,51,26" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=page1" alt="Home Page" title="Home Page">
+	 <area shape="rect" coords="63,6,151,26" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=CatalogRequest" alt="Free Catalog!" title="Free Catalog!">
+	 <area shape="rect" coords="163,6,273,26" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=NewsletterRequest" alt="Free Newsletter!" title="Free Newsletter!">
+	 <area shape="rect" coords="283,6,383,26" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=webspecials" alt="Web-only Specials" title="Web-only Specials">
+	 <area shape="rect" coords="393,6,481,26" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=newQuickOrder" alt="Catalog Quick Order Form" title="Catalog Quick Order Form">
+	 <area shape="rect" coords="495,6,589,26" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=orderstatus" alt="Order Status" title="Order Status">
+	</map>
+
+
+	
+		<script language="javascript1.1" src="/coremetrics/v40/eluminate.js"></script>
+	 	<script language="javascript1.1" src="/coremetrics/cmdatatagutils.inc"></script>
+<script language="javascript"> cmSetProduction(); </script>
+
+	<!--********************************************************************************-->
+	<!--********************COREMETRICS BEGIN*******************************************-->
+	 
+	 
+		<script language="javascript1.1">
+		
+		var cmJv="1.1";
+		
+		</script>
+		<script language="javascript1.2">
+		
+		var cmJv="1.2";
+		
+		</script>
+		<script language="javascript1.3">
+		
+		var cmJv="1.3";
+		
+		</script>
+		<script language="javascript1.4">
+		
+		var cmJv="1.4";
+		
+		</script>
+		<script language="javascript1.5">
+		
+		var cmJv="1.5";
+		
+		</script>
+		
+	<script type="text/javascript">
+	
+	switch ("PrivacyPolicy")
+	{
+
+
+	<!--Home page-->
+	case ("page1"): 	
+		cmCreateTechPropsTag("HOME PAGE","48001");
+		break;
+
+
+
+	<!--Product Details page -->	
+	case ("prod2working"):
+
+	  var itemId="null";   
+	  var productDesc = "null" ;
+	  cmCreateProductviewTag(itemId, productDesc,"null"); 
+	  break;
+
+
+
+	case ("textsearchresults"):  
+	 <!--the coremetrics category code has been moved to textsearchresults.jsp -->
+	  break;
+
+	  case ("advsearchresults"):  	    
+	    var displayRange = 'null';
+	    var pageNo = 'null';
+	    var searchText = "null";
+
+
+	    
+
+	    if(pageNo=='null' && displayRange=='null')
+	    {
+		  <!--enters the loop for page 1 and start of character range(AA): For all other cases, it enters else loop-->
+		  cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg 1","","Advanced Search Results");
+	    }
+	    else
+	    { 	   	
+		if(pageNo=='null' && displayRange!='null')
+		{
+			<!--this is entered for page 1 and different character ranges-->
+			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  1:" + displayRange,"","Advanced Search Results");
+		}
+		else if(pageNo!='null' && displayRange=='null')
+		{
+			<!--this is entered for different pages and fixed character range which is AA-->
+			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  " + pageNo ,"","Advanced Search Results");
+		}
+		else if(pageNo!='null' && displayRange!='null')
+		{
+			<!--this is entered for different pages and different character ranges-->
+			cmCreatePageviewTag("ADV SEARCH RESULTS - Successful pg  " + pageNo + ": " + displayRange ,"","Advanced Search Results");
+		}
+	    }
+	  break;
+
+
+	case ("CatalogRequestSuccess"):
+
 
 		
 
 
-	
-	
-	
-		 
-
-	 
-	 
-		<!-- BANNER -->
-	<p align="center">
-
-<img alt="" src="/images/spacer.gif" width="1" height="8"><br><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psGiftCertificates.d2w/GiftCert"><img src="/images/banners/aniwggift07.gif" alt="Wayside Gardens' Gift Certificate" width="315" height="50" border="0"><br><font size="1">Click here now for Wayside's Gift Certificate</font></a>
-	</p>
-
-	 
-	 
-
-
-<table width="315" border="0" cellpadding="0">
-<tbody><tr>
-<td>
-<p align="center"><font face="Times New Roman, Times, serif" size="2"><b>WAYSIDEGARDENS.COM'S
-PRIVACY POLICY</b> </font></p>
-<p><font face="Times New Roman, Times, serif" size="2"> Thank you for visiting
-our website! This website ("WaysideGardens.com") is owned by George W.
-Park Seed Company, Inc. It is our policy to protect your personal information
-and to use it in accordance with this Privacy Policy. Please take a few
-moments to review our Privacy Policy.<br>
-<i><b><br>
-Information Collection and Use</b></i><br>
-Wayside Gardens asks you to provide certain personally identifiable information
-in order to use certain "Password Required" features and functions of
-the website. By providing such information, you consent to our collection
-and use of it, as described in this Privacy Policy. <br>
-<br>
-The information you provide may include information provided during the
-registration process, including contact information, such as your name,
-address and email address, and financial information, such as a credit
-card number, if you order products or services through the website. This
-information will be used to process your order and if necessary, to contact
-you regarding the status of your order. <br>
-<br>
-Information that you provide is the property of George W. Park Seed Company,
-Inc. All of the information that you provide may be used by Wayside Gardens
-to better serve you. Wayside Gardens may also use this information to
-contact you about new specials, catalogs, products and other opportunities.
-Ways we use information include: <br>
-<br>
-You can contact Wayside Gardens directly with questions or comments regarding
-the services by using the WaysideGardens.com contact <a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psContact.d2w/feedback">
-inquiry form</a>. This contact inquiry form asks you for certain identifying
-information so that Wayside Gardens may respond to your inquiry. <br>
-<br>
-Wayside Gardens may use your contact information to get in touch with
-you regarding the status of your registration or any orders you may place.
-You may also be contacted by us regarding additional services and features
-or requesting your feedback about your experience with our website, WaysideGardens.com.
-<br>
-<br>
-WaysideGardens.com may provide you with bulletin boards and chat rooms
-for your use. In the event you voluntarily disclose personally identifiable
-information using such services, that information, along with any content
-in your communication or post, can be collected, correlated and used by
-third parties. This may result in unsolicited messages from third parties.
-Such activities are beyond the control of Wayside Gardens and George W.
-Park Seed Company, Inc.. Wayside Gardens does not assume any duty to monitor
-or review the contents of any bulletin board or chat room.<br>
-<br>
-Where technically feasible, the domain names of visitors to WaysideGardens.com
-are automatically recognized by our server. George W. Park Seed Company,
-Inc. may use this information to track the number of visitors to the WaysideGardens.com
-website and to see which pages and services on WaysideGardens.com are
-visited most often.<br>
-<br>
-The WaysideGardens.com optional on-line survey may generally ask for demographic
-information like your gender, age, etc. to help us get to know you and
-better understand your gardening needs. This data is used to personalize
-your experience at WaysideGardens.com by displaying content according
-to your preferences. We hope this will enhance your experience with the
-Parkseed.com site.</font></p>
-<p><font face="Times New Roman, Times, serif" size="2"> Wayside Gardens
-may provide links on WaysideGardens.com to other sites of interest. Wayside
-Gardens does not review or endorse the content of these sites or guarantee
-that they will abide by this Privacy Policy. Your use of such linked sites
-is subject to the terms and conditions and privacy policies of the providers
-of those sites. We encourage our users to be aware when they leave our
-website and to read the privacy statements of each website that collects
-identifying information.<br>
-<br>
-Please note that your use of the WaysideGardens.com website and services
-is subject to WaysideGardens.com's <a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=billofrights">Terms and Conditions</a>.
-<br>
-<br>
-<i><b>Sharing Your Information</b></i><br>
-Wayside Gardens recognizes that gardeners may want products other than
-the high-quality plants, bulbs, and accessories that we offer. Therefore,
-from time to time, Wayside Gardens may make customer information available
-to other reputable companies whose products or services we think you might
-find interesting. Please remember that, althoughWayside Gardens endeavors
-to select only reputable companies who share our commitment to customer
-privacy, we are in no way responsible for the actions or policies of these
-other organizations. If you do not want to share your information with
-such other companies, <a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPrivacy.d2w/optout">click here now</a>.<br>
-<b><i><br>
-Other Uses of Information</i></b><br>
-The only other instances in which Wayside Gardens and George W. Park Seed
-Company, Inc. disclose your identifying information to third parties are:<br>
-when it is required by law; when it is necessary to distribute materials
-that you request; and when you expressly request that your information
-be disclosed.<br>
-<br>
-<i><b>Business Transfers </b></i><br>
-We may buy or sell operating divisions, companies or other business assets
-or be acquired by another company. In such transactions, customer information
-generally is one of the transferred business assets.<br>
-<br>
-<i><b>Use of Cookies</b></i> <br>
-The use of cookies enables Wayside Gardens to enhance your visits to the
-WaysideGardens.com website. Cookies enable WaysideGardens.com's systems
-to recognize your browser and provide features that are tailored to your
-gardening needs. For example, cookies enable us to record the items in
-your shopping cart. Wayside Gardens uses this information to monitor product
-sales which help us to plan future offerings.<br>
-<br>
-<b><i> Accessing and Updating Your Information</i></b> <br>
-You can always choose not to provide information, to opt-out of receiving
-communications from us or to update your information at any time. </font></p>
-<p><font face="Times New Roman, Times, serif" size="2">WaysideGardens.com
-gives users the following options: <br>
-<br>
-1. Use the "Change Preferences" feature after entering your member name
-and password to receive access to your account page. At this location,
-you can subscribe or unsubscribe from our e-mail newsletters and you can
-update any information that you have provided to us. <br>
-<br>
-2. Click on the "Unsubscribe" link included at the bottom of any of our
-e-mail newsletters and follow the instructions on the web page.<br>
-<br>
-3. Send an e-mail to our friendly Customer Service representatives at
-<a href="mailto:info@waysidegardens.com">info@WaysideGardens.com</a>. <br>
-<br>
-4. Call our Customer Service representatives toll free at (800) 845-1124.<br>
-<br>
-5. Drop us a line. Send mail to the following postal address: Wayside
-Gardens, 1 Garden Lane, Hodges, SC 29695-0001.<br>
-<br>
-<i><b>Security Measures </b></i><br>
-We work hard to protect the security of your information by using Secure
-Socket Layer (SSL) technology, the current standard for secure transactions
-over the Internet. There are some simple measures that you can take to
-promote protection of your information. First, to help protect the security
-of your account, do not share your password with others. Also, remember
-to "log-off" after using any of our on-line services when you
-have finished using the website. While Wayside Gardens strives to protect
-your information by using SSL and through measures to protect our system,
-such security cannot be ensured. Consequently, Wayside Gardens and George
-W. Park Seed Company, Inc. do not ensure or warrant the security of information
-you transmit, and you do so at your own risk.<br>
-<br>
-<b><font face="Times New Roman, Times, serif" size="2">Encryption</font></b></font></p><p class="title_level1"><font face="Times New Roman, Times, serif" size="2"><b><font face="Times New Roman, Times, serif" size="2">What is Encryption?</font></b></font></p><p class="para"><font face="Times New Roman, Times, serif" size="2"><font face="Times New Roman, Times, serif" size="2">
-Encryption is a process by which we use software to scramble sensitive information while it is in transit to Wayside Gardens.
-</font></font></p><p class="para"><font face="Times New Roman, Times, serif" size="2"><font face="Times New Roman, Times, serif" size="2">
-Please take a moment to read about the steps that we have taken to help protect your information and make your online transmissions safer. We also invite you to review the steps you can take to help protect yourself further.
-</font></font></p><font face="Times New Roman, Times, serif" size="2">
-<p class="title_level1"><b><font face="Times New Roman, Times, serif" size="2">How Does Encryption Work?</font></b></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-Encryption is based on a key that has two different parts. The public part and the private part. The public part of the key is distributed to those you want to communicate with. The private part is for the recipient's use only.
-</font></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-When you send personal information to WaysideGardens.com, you use Wayside Gardens' public key to encrypt your personal information. That means, if at any point during the transmission your information is intercepted, it is scrambled and very difficult to decrypt. Once Wayside Gardens receives your encrypted personal information, we use the private part of our key to decode it.
-</font></p>
-<p class="title_level1"><b><font face="Times New Roman, Times, serif" size="2">What Kind of Encryption Software Does Wayside Gardens Use?</font></b></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-Wayside Gardens currently uses the industry-standard SSL (Secure Sockets Layer) encryption. But we continue to keep up with the current technologies in order to provide the best security for our customers.
-</font></p>
-<p class="title_level1"><b><font face="Times New Roman, Times, serif" size="2">What Information Does Wayside Gardens Encrypt?</font></b></p><p class="para"><font face="Times New Roman, Times, serif" size="2">
-Wayside Gardens encrypts all personal information you give us when you place an order online. Remember, if you feel uncomfortable providing any of this information online, please feel free to call one of our representatives at 1-800-845-1124.
-</font></p>
-<p class="title_level1"><b><font face="Times New Roman, Times, serif" size="2">How Safe is Encryption Really?</font></b></p><p class="para"><font face="Times New Roman, Times, serif" size="2">Providing encrypted information online is as safe as doing it over the phone.</font></p>
-<i><b>Privacy Policy Changes</b></i><br>
-WaysideGardens.com may update this Privacy Policy from time to time to
-better serve you. We encourage you to review this Privacy Policy periodically.
-<br>
-<br>
-<i><b>For Further Information</b></i> <br>
-If you choose to visit WaysideGardens.com, your visit and any dispute
-over privacy is subject to this Privacy Policy. If you have questions
-or comments concerning this Privacy Policy, you may contact us at: </font><p></p>
-<blockquote>
-<p><font face="Times New Roman, Times, serif" size="2"> Wayside Gardens<br>
-1 Garden Lane<br>
-Hodges, SC 29695</font><font face="Times New Roman, Times, serif" size="2"><br>
-Phone: (800) 845-1124 <br>
-Fax: (800) 817-1124<br>
-E-mail: <a href="mailto:info@waysidegardens.com">info@WaysideGardens.com</a></font></p>
-</blockquote>
-</td>
-</tr>
-</tbody></table>
-	
-	
-	
+	case ("edit_registration_success"):	
+	case ("survey"):
+	case ("NewsletterRequest_success"):
+	case ("NewsletterContCmd"):
 		
+		cmCreatePageviewTag("PrivacyPolicy"," ","Registration");
+	break;	
+
+	<!--This is when the user logins-->
+	case ("LoginForm"):
+
+		var loggedIn = "";	
+		if(loggedIn!="")<!--the registration tag would be thrown only when the user is logged in-->
+		{
+			cmCreatePageviewTag("My account",null,"32001");
+			cmCreateRegistrationTag(loggedIn,"","","","",null,null,null);
+		}
+		else
+		{
+			cmCreatePageviewTag("PrivacyPolicy",null,"32001");
+		}
+
+
+
+	break;
+
+	default:  
+	  cmCreatePageviewTag("PrivacyPolicy"," ","32001");
+	  break;
+	}
+	
+	</script>
+	<!-- END COREMETRICS -->
+	<!--********************************************************************************-->
+
+	
+
+
+	<table border="0" cellpadding="0" cellspacing="0" width="664">
+	  <tbody><tr>
+		<td width="130" height="5"><img src="/web_images/Wayside/misc/spacer.gif" width="130" height="5"></td>
+		<td width="15" height="5"><img src="/web_images/Wayside/misc/spacer.gif" width="15" height="5"></td>
+		<td width="364" height="5"><img src="/web_images/Wayside/misc/spacer.gif" width="364" height="5"></td>
+		<td width="15" height="5"><img src="/web_images/Wayside/misc/spacer.gif" width="15" height="5"></td>
+		<td width="140" height="5"><img src="/web_images/Wayside/misc/spacer.gif" width="140" height="5"></td>
+	  </tr>
+
+	  <tr valign="top">
+		<td width="130" rowspan="2" align="center" class="bodyText">
+
+
+
+
+
+
+
+
+
+
+	<!-- Newsletter Signup -->
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+		<td width="1"></td>
+		<td width="4"></td>
+		<td width="120"></td>
+		<td width="4"></td>
+		<td width="1"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_left.gif" height="5" width="5"></td>
+		<td height="1" class="wayBlack"></td>
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_right.gif" height="5" width="5"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="4"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+		<td width="4"></td>
+		<td class="headerLeftNav" valign="top" align="center">FREE Newsletter</td>
+		<td width="4" height="20"></td>
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	  <tr>
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+		<td class="wayLight" colspan="3">
 		
-
-	 
-	 
-		<!-- BANNER -->
-	<p align="center">
-
-<img alt="" src="/images/spacer.gif" width="1" height="8"><br><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psGiftCertificates.d2w/GiftCert"><img src="/images/banners/aniwggift06.gif" alt="Wayside Gardens' Gift Certificate" width="315" height="50" border="0"><br><font size="1">Click here now for Wayside's Gift Certificate</font></a>
-	</p>
-
-	 
-	 
-
-
-
-	</td>
-<td width="5" bgcolor="#ffffff"><img alt="" src="/images/spacer.gif" width="5" height="5"></td>
-<td width="140" valign="top" align="center" bgcolor="#ffffff"><img alt="" src="/images/spacer.gif" height="1" width="140"><br>
-<!-- Bookmark -->
-<table width="140" border="0" cellspacing="0" cellpadding="0" height="74">
-<tbody><tr align="center" valign="top">
-<td><font face="Times New Roman, Times, serif" size="1">Monday, December 10 </font></td>
-</tr>
-
-<tr><td><img src="/images/spacer.gif" width="50" height="5" border="0"></td></tr>
-<tr align="center" valign="top">
-<td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psBookmark.d2w/report" onclick="addbookmark()">Bookmark this site</a></font></b></td>
-</tr>
-<tr><td><img src="/images/spacer.gif" width="50" height="5" border="0"></td></tr>
-
-<!-- Personalize Site -->
-
-<tr><td><center>
-<form action="http://www.waysidegardens.com/webapp/commerce/command/PSKnowZone" method="post">
-<input type="hidden" name="merchant_rn" value="542">
-<input type="hidden" name="url" value="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/Success">
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<b><font color="996666">Personalize this site</font></b></font><br>
-<b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="996666">Enter zip code:</font></b><br>
-<input type="text" name="ZIP" size="5" maxlength="5">
-<input type="image" src="/images/gowt.gif" name="gozip" width="21" height="20" border="0">
-</form>
-</center>
-</td>
-</tr>
-</tbody></table>
-
-<!-- OFFER BOX -->
-<table width="140" border="1" cellspacing="0" cellpadding="0" bordercolor="#669966">
-<tbody><tr>
-<td>
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psBonus.d2w/report">
-<img src="/images/bonus/bonus0112a.gif" width="136" height="150" border="0" alt="Bonus Offer with your Internet Order"></a><br>
-<table width="135" border="0" cellspacing="0" cellpadding="5">
-<tbody><tr>
-<td valign="top" align="center">
-<font size="2">
-Order $200 or more and get Free Standard Shipping!
-<br>
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psBonus.d2w/report">Click for details.</a><br></font>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<p>
-<!-- NEWS O DAY -->
-</p><p align="center"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psNewsBody.d2w/report">
-<img src="/images/newsoday.gif" width="140" height="70" border="0" alt="Read the current News from the Garden!"></a></p>
-
-<!-- TOP TEN -->
-<table width="140" border="1" cellspacing="0" cellpadding="0" bordercolor="#9999CC">
-	<tbody><tr><td colspan="3" height="2" align="center" bgcolor="#FFFFFF">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psLongTopTen.d2w/Top10?AREA=Main"><img src="/images/toptenmain.gif" border="0" width="135" height="46" alt="TopTen"></a><br>
-	<table width="130" border="0" cellspacing="1" cellpadding="1">
-
-<tbody><tr>	<td valign="top" align="right"><font size="2">1.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=47599">Cedar Green Giant</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">2.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=44368">Hellebores Royal Heritage</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">3.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=46948">Hydrangea Snow Queen</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">4.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=45438">Rose Altissimo</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">5.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=41260">Clematis Blue Light™</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">6.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=43924">Iceplant Starburst</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">7.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=43462">Hollyhock Old Barnyard Mix</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">8.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=46953">Hydrangea Annabelle</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">9.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=47513">Willow Weeping Sally</a></font></td></tr>
-
-
-
-<tr>	<td valign="top" align="right"><font size="2">10.&nbsp;</font></td>
-
-<td valign="top"><font size="2"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psProduct2.d2w/report?itemnum=47796">Weeping Japanese Katsura</a></font></td></tr>
-
-
-
-</tbody></table>
-
-</td>
-
-
-</tr>
-
-</tbody></table><p>
-
-
-
-
-<table width="140" border="1" cellspacing="0" cellpadding="0" bordercolor="#9999CC">
-<tbody><tr>
-<td align="center" bgcolor="#CCCCFF"><a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/report?merchant_rn=542"><img src="/images/zone.gif" width="121" height="126" border="0" alt="KnowZone"></a><br>
-<table width="134" border="0" cellspacing="0" cellpadding="1">
-<tbody><tr><td valign="top" align="center">
-<form method="POST" action="http://www.waysidegardens.com/webapp/commerce/command/PSKnowZone">
-<b>Zone Calculator</b><br>Enter Zip Code: <br>
-<input type="hidden" name="merchant_rn" value="542" size="5">
-<input type="hidden" name="url" value="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/Success" size="5">
-<input type="text" name="ZIP" value="" size="5" maxlength="5">
-<input type="image" src="/images/gowt.gif" align="absmiddle" alt="go!" border="0" width="21" height="20">
+			<table width="128" border="0" cellpadding="5" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="center">
+				<form action="StoreCatalogDisplay">
+		<input type="hidden" name="storeId" value="10151">
+		<input type="hidden" name="catalogId" value="10067">
+		<input type="hidden" name="langId" value="-1">
+		<input type="hidden" name="mainPage" value="NewsletterSelect">
+				your e-mail here:<br>
+				<input type="text" name="email" size="10" maxlength="45">
+				<input type="image" name="go" src="/web_images/Wayside/navigation/go.gif" border="0" id="gobut" alt="go" width="21" height="20"><br>
+				<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=NewsletterRequest">Click for information.</a>			
+				</form></td>
+				
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	</tbody></table>
+	<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
+
+	<!-- Search -->
+
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+		<td width="1"></td>
+		<td width="4"></td>
+		<td width="120"></td>
+		<td width="4"></td>
+		<td width="1"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_left.gif" height="5" width="5"></td>
+		<td height="1" class="wayBlack"></td>
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_right.gif" height="5" width="5"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="4"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+		<td width="4"></td>
+		<td class="headerLeftNav" valign="top" align="center">Search</td>
+		<td width="4" height="20"></td>
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	  <tr><td class="wayBlack"><spacer type="block" width="1" height="10"></spacer></td>
+		<td class="wayLight" colspan="3">
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="center">
+
+
+				
+
+
+
+
+
+
+
+
+<form action="StoreCatalogDisplay" method="get">
+<input type="hidden" name="storeId" value="10151">
+<input type="hidden" name="catalogId" value="10067">
+<input type="hidden" name="langId" value="-1">
+<input type="text" name="SearchText" value="" size="10">
+
+<input type="hidden" name="mainPage" value="textsearchresults">
+<input type="hidden" name="RequestType" value="NewRequest">
+<input type="image" name="go" src="/web_images/Wayside/navigation/go.gif" border="0" align="absmiddle" value="submit" alt="go" width="21" height="20">
 </form>
 
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psKnowZone.d2w/Map?merchant_rn=542"><font face="Times New Roman, Times, serif" size="2">Browse another Zone</font></a>
-</td></tr></tbody></table>
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	</tbody></table>
+	<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
+
+	<!-- Highlights -->
+
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+		<td width="1"></td>
+		<td width="4"></td>
+		<td width="120"></td>
+		<td width="4"></td>
+		<td width="1"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_left.gif" height="5" width="5"></td>
+		<td height="1" class="wayBlack"></td>
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_right.gif" height="5" width="5"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="4"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+		<td width="4"></td>
+		<td class="headerLeftNav" valign="top" align="center">Highlights</td>
+		<td width="4" height="20"></td>
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	  <tr><td class="wayBlack"><spacer type="block" width="1" height="10"></spacer></td>
+		<td class="wayLight" colspan="3">
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="left">
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=webspecials&amp;PageNumber=1">Web Specials</a><br>
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=newproducts&amp;PageNumber=1">New Items</a><br>
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=exclusives&amp;PageNumber=1">Wayside Exclusives</a><br>
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=toptenpage&amp;PageNumber=1">Bestsellers</a><br>
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRare&amp;PageNumber=1">Rare Plants</a><br>
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=favorites&amp;PageNumber=1">Our Favorites</a><br>
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=giftcertificate">Gift Certificates</a> 
+	
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	</tbody></table>
+	<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
+	 
+	<!-- Products/Departments -->
+	 
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+		<td width="1"></td>
+		<td width="4"></td>
+		<td width="120"></td>
+		<td width="4"></td>
+		<td width="1"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_left.gif" height="5" width="5"></td>
+		<td height="1" class="wayBlack"></td>
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_right.gif" height="5" width="5"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="4"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+		<td width="4"></td>
+		<td class="headerLeftNav" valign="top" align="center">Departments</td>
+		<td width="4" height="20"></td>
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	  <tr><td class="wayBlack"><spacer type="block" width="1" height="10"></spacer></td>
+		<td class="wayLight" colspan="3">
+		
+			<table width="128" border="0" cellpadding="0" cellspacing="6" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="left">
+	<!-- <a href="StoreCatalogDisplay?catalogId=10067&storeId=10151&langId=-1&mainPage=gateannuals">Annuals</a><br> -->
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homePerennials"><b>Perennials</b></a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeBulbs">Bulbs</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=gatecollections"><b>Collections</b></a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=gatecontainer">Container Plants</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=gateedibles">Edibles</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeGifts"><b>Garden Art</b></a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeSupplies">Garden Supplies</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeGifts">Great Gifts</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=gategroundcovers">Ground Covers</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=gatehouseplants">Indoor Plants</a><br>
+	
+	
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRare">Rare Plants</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRoses"><b>Roses</b></a><br>   
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeTrees">Trees &amp; Shrubs</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=gatevines">Vines and Climbers</a><br>
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	</tbody></table>
+	<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
+	 
+	<!-- About Us -->
+	 
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+		<td width="1"></td>
+		<td width="4"></td>
+		<td width="120"></td>
+		<td width="4"></td>
+		<td width="1"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_left.gif" height="5" width="5"></td>
+		<td height="1" class="wayBlack"></td>
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_right.gif" height="5" width="5"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="4"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+		<td width="4"></td>
+		<td class="headerLeftNav" valign="top" align="center">About Us</td>
+		<td width="4" height="20"></td>
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	  <tr><td class="wayBlack"><spacer type="block" width="1" height="10"></spacer></td>
+		<td class="wayLight" colspan="3">
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="left">
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=newQuickOrder">Catalog Quick Order</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=CatalogRequest">FREE Catalog</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=NewsletterRequest">FREE e-Newsletter</a><br>
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=guarantee">Our Guarantee</a><br>
+	
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=zonemap">USDA Zone Map</a><br>
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	</tbody></table>
+	<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
+
+	<!-- Refer-A-Friend -->
+
+	<table width="130" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+		<td width="1"></td>
+		<td width="4"></td>
+		<td width="120"></td>
+		<td width="4"></td>
+		<td width="1"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_left.gif" height="5" width="5"></td>
+		<td height="1" class="wayBlack"></td>
+		<td height="5" width="5" colspan="2" rowspan="2"><img src="/web_images/Wayside/headers/cornerDark_right.gif" height="5" width="5"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td height="4"></td>
+	  </tr>
+	  <tr class="wayDark">
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+		<td width="4"></td>
+		<td class="headerLeftNav" valign="top" align="center">Refer-a-Friend</td>
+		<td width="4" height="20"></td>
+		<td class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	  <tr><td class="wayBlack"><spacer type="block" width="1" height="10"></spacer></td>
+		<td class="wayLight" colspan="3">
+		
+			<table width="128" border="0" cellpadding="6" cellspacing="0" align="center">
+			  <tbody><tr>
+				<td valign="top" class="bodyText" align="center">
+			<form method="post" action="StoreCatalogDisplay">
+			<input type="hidden" name="storeId" value="10151"> 
+			<input type="hidden" name="catalogId" value="10067">
+			<input type="hidden" name="langId" value="-1">
+			<input type="hidden" name="mainPage" value="referafriend">
+			your e-mail here: <br>
+			<input type="text" name="youremail" value="" size="8" maxlength="45"><br>
+			friend's e-mail here: <br>
+			<input type="text" name="friendsemail" size="8" maxlength="45">
+			<input type="image" src="/web_images/Wayside/navigation/go.gif" name="Submit2" value="Submit" border="0" width="21" height="20" align="middle" alt="go!"><br>
+			<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo">Free Gift for Both!</a>
+			</form>
+				</td>
+			  </tr>
+			</tbody></table>
+		
+		</td>
+		<td width="1" class="wayBlack"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td colspan="5" height="1" class="wayBlack"></td></tr>
+	</tbody></table><br>
+
+	
+
+	
+
 </td>
-</tr>
-</tbody></table>
+		<td width="15" rowspan="2"><img src="/web_images/Wayside/misc/spacer.gif" width="1" height="1"></td>
+		<td width="364" class="bodyText">
+
+		
+
+	
 
 
-</p></td></tr>
-<!-- BEGIN FOOTER -->
-<!-- ROW 3 COLSPAN 2 -->
+				
 
-<tr><td colspan="8" align="center">
 
-<p><br><font size="-1">
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psNewsletter.d2w/NewsletterRequest">Free Newsletter</a> |
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psStoreHome.d2w/report">Online Store</a> |
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psWebSpecials.d2w/report">Web Specials</a> |
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCatalogRequest.d2w/CatalogRequest">Free Catalog</a> |
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psCommunityHome.d2w/report">Community</a><br>
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=billofrights">Customer Bill-of-Rights</a> |
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=shipping">Shipping</a> |
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psSiteInfo.d2w/Map">Site Map</a> |
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPrivacy.d2w/report">Our Privacy Statement</a> |
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psContact.d2w/report">Contact Us</a>
-</font></p><p><font size="-1"><img src="/images/logo.gif" width="115" height="38"><br>
-<b>America's Premier Source for Choice Plants and Bulbs</b><br>
-Wayside Gardens | 1 Garden Lane | Hodges, SC 29695<br>
-800-213-0379&nbsp;&nbsp;&nbsp;www.waysidegardens.com<br>
-<a href="mailto:info@waysidegardens.com">info@waysidegardens.com</a><br>
-<a href="http://www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPage.d2w/report?PAGE=billofrights">Copyright 2000-2001, Wayside Gardens</a></font>
-</p></td></tr></tbody></table>
-<!-- END TABLE 1 -->
 
+
+
+
+
+
+	
+
+		<center>
+
+			<span class="bannerText">
+			<a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47522&amp;coremetricsCategory=53001">
+			<img src="/web_images/Wayside/anibanner/ani47522.gif" width="315" height="50" border="0" alt="Showy Lady Slipper Orchid" class="diff"><br>
+			Click here now for Showy Lady Slipper Orchid!
+			</a><br></span>
+
+
+		</center>
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- Main content starts here -->
+
+	<table width="100%" border="0" cellpadding="3" cellspacing="0">
+	 <tbody><tr class="colorHeader" align="center">
+	  <td>WAYSIDEGARDENS.COM'S PRIVACY POLICY</td>
+	 </tr>
+	</tbody></table><br>
+
+	<p>Thank you for visiting our website! <br>
+	This website ("WaysideGardens.com") is owned by George W. Park Seed Company, Inc. It is our policy to protect your personal information and to use it in accordance with this Privacy Policy. Please take a few moments to review our Privacy Policy.
+
+	</p><p><span class="privacyHead">Information Collection and Use<br></span>
+	Wayside Gardens asks you to provide certain personally identifiable information in order to use certain "Password Required" features and functions of the website. By providing such information, you consent to our collection and use of it, as described in this Privacy Policy. 
+
+	</p><p>The information you provide may include information provided during the registration process, including contact information, such as your name, address and email address, and financial information, such as a credit card number, if you order products or services through the website. This information will be used to process your order and if necessary, to contact you regarding the status of your order. 
+
+	</p><p>Information that you provide is the property of Wayside Gardens Company, Inc. All of the information that you provide may be used by Wayside Gardens to better serve you. Wayside Gardens may also use this information to contact you about new specials, catalogs, products and other opportunities. Ways we use information include: 
+
+	</p><p>You can contact Wayside Gardens directly with questions or comments regarding the services by using the Wayside Gardens <a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=feedbackform">contact inquiry form</a>. This contact inquiry form asks you for certain identifying information so that Wayside Gardens may respond to your inquiry. 
+
+	</p><p>Wayside Gardens may use your contact information to get in touch with you regarding the status of your registration or any orders you may place. You may also be contacted by us regarding additional services and features or requesting syour feedback about your experience with WaysideGardens.com. 
+
+	</p><p>WaysideGardens.com may provide you with bulletin boards and chat rooms for your use. In the event you voluntarily disclose personally identifiable information using such services, that information, along with any content in your communication or post, can be collected, correlated and used by third parties. This may result in unsolicited messages from third parties. Such activities are beyond the control of Wayside Gardens. Wayside Gardens does not assume any duty to monitor or review the contents of any bulletin board or chat room.
+
+	</p><p>Where technically feasible, the domain names of visitors to WaysideGardens.com are automatically recognized by our server. Wayside Gardens may use this information to track the number of visitors to the WaysideGardens.com website and to see which pages and services on WaysideGardens.com are visited most often.
+
+	</p><p>The WaysideGardens.com optional on-line survey generally asks for demographic information like your gender, age, etc. to help us get to know you and better understand your gardening needs. This data is used to personalize your experience at WaysideGardens.com by displaying content according to your preferences. We hope this will enhance your experience with the WaysideGardens.com site.
+
+	</p><p>Wayside Gardens may provide links on WaysideGardens.com to other sites of interest. Wayside Gardens does not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites
+	is subject to the terms and conditions and privacy policies of the providers of those sites. We encourage our users to be aware when they leave our website and to read the privacy statements of each website that collects identifying information.
+
+	</p><p>Please note that your use of the WaysideGardens.com website and services is subject to WaysideGardens.com's <a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=billofrights">Terms
+	and Conditions.</a> 
+
+	</p><p><span class="privacyHead">Sharing Your Information<br></span>
+	Wayside Gardens recognizes that gardeners may want products other than the high-quality seeds, plants, bulbs and accessories that we offer. Therefore, from time to time, Wayside Gardens may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Wayside Gardens endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, call us at 1-800-213-0379 to speak to a customer service representative, email us at <a href="mailto:info@waysidecs.com">info@waysidecs.com</a>, fill out our online <a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=optoutmail">opt-out form</a>, or send a postcard to: Mailing Address Don't Share, Wayside Gardens Company, 1 Garden Lane, Hodges SC 29695-0001.  Be sure to include your own mailing address on your postcard or email.
+
+	</p><p><span class="privacyHead">Other Uses of Information<br></span>
+	The only other instances in which Wayside Gardens discloses your identifying information to third parties are:<br>
+	when it is required by law; when it is necessary to distribute materials that you request; and when you expressly request that your information be disclosed.<br>
+	We send your information to Coremetrics, a company that works on our behalf to provide us with a service that helps us analyze your information. This service allows us to better provide our product or service to you. Coremetrics does not have any right to use the information we provide to them beyond what is necessary to assist us. For more information, including how to opt out, please go to: <a href="http://www.coremetrics.com/info_eluminate2.html">http://www.coremetrics.com/info_eluminate2.html</a>.
+
+	</p><p><span class="privacyHead">Business Transfers <br></span>
+	We may buy or sell operating divisions, companies or other business assets or be acquired by another company. In such  transactions, customer information generally is one of the transferred business assets.
+
+	</p><p><span class="privacyHead">Use of Cookies</span> <br>
+	The use of cookies enables Wayside Gardens to enhance your visits to the WaysideGardens.com website. Cookies enable WaysideGardens.com systems to recognize your browser and provide features that are tailored to your gardening needs. For example, cookies enable us to record the items in your shopping cart. Wayside Gardens uses this information to monitor product sales which help us to plan future offerings.
+
+	</p><p><span class="privacyHead"> Accessing and Updating Your Information</span> <br>
+	You can always choose not to provide information, to opt-out of receiving communications from us or to update your information at any time. WaysideGardens.com gives users the following options: 
+
+	</p><ol>
+		<li>Use the "Change Preferences" feature after entering your member name and password to receive access to your account page. At this location, you can subscribe or unsubscribe from our e-mail newsletters and you can update any information that you have provided to us. 
+		</li><li>Click on the "Unsubscribe" link included at the bottom of each of our e-mails and follow the instructions on the web page.
+		</li><li>Send an e-mail to our friendly Customer Service representatives at <a href="mailto:info@waysidecs.com">info@waysidecs.com</a>.
+		</li><li>Call our Customer Service representatives toll free at (800) 213-0379. 
+		</li><li>Drop us a line. Send mail to the following postal address: Wayside Gardens, 1 Garden Lane, Hodges, SC 29695
+	</li></ol>
+
+	<p><span class="privacyHead">Security Measures <br></span>
+	We work hard to protect the security of your information by using Secure Socket Layer (SSL) technology, the current standard for secure transactions over the Internet. There are some simple measures that you can take to promote protection of your information. First, to help protect the security of your account, do not share your password with others. Also, remember to "log-off" after using any of our on-line services when you have finished using the website. While Wayside Gardens strives to protect your information by using SSL and through measures to protect our system, such security cannot be ensured. Consequently, Wayside Gardens does not ensure or warrant the security of information you transmit, and you do so at your own risk.
+
+	</p><p class="headerText">Encryption</p>
+
+	<p><b>What is Encryption?</b>
+
+	</p><p>Encryption is a process by which we use software to scramble sensitive information while it is in transit to Wayside Gardens.
+
+	</p><p>Please take a moment to read about the steps that we have taken to help protect your information and make your online transmissions safer. We also invite you to review the steps you can take to help protect yourself further.
+
+	</p><p><b>How Does Encryption Work?</b>
+
+	</p><p>Encryption is based on a key that has two different parts. The public part and the private part. The public part of the key is distributed to those you want to communicate with. The private part is for the recipient's use only.
+
+	</p><p>When you send personal information to WaysideGardens.com, you use Wayside Gardens's public key to encrypt your personal information. That means, if at any point during the transmission your information is intercepted, it is scrambled and very difficult to decrypt. Once Wayside Gardens receives your encrypted personal information, we use the private part of our key to decode it.
+
+	</p><p><b>What Kind of Encryption Software Does Wayside Gardens Use?</b>
+
+	</p><p>Wayside Gardens currently uses the industry-standard SSL (Secure Sockets Layer) encryption. But we continue to keep up with the current technologies in order to provide the best security for our customers.
+
+	</p><p><b>What Information Does Wayside Gardens Encrypt?</b>
+
+	</p><p>Wayside Gardens encrypts all personal information you give us when you place an order online. Remember, if you feel uncomfortable providing any of this information online, please feel free to call one of our representatives at 1-800-213-0379.
+
+
+	</p><p><b>How Safe is Encryption Really?</b>
+
+	</p><p>Providing encrypted information online is as safe as doing it over the phone.
+
+	</p><p><span class="privacyHead">Privacy Policy Changes<br></span>
+	WaysideGardens.com may update this Privacy Policy from time to time to better serve you. We encourage you to review this Privacy Policy periodically.
+
+	</p><p><span class="privacyHead">For Further Information</span> <br>
+	If you choose to visit WaysideGardens.com, your visit and any dispute over privacy is subject to this Privacy Policy. If you have questions or comments concerning this Privacy Policy, you may contact us at: <br>
+
+	</p><blockquote>
+	  Wayside Gardens<br>
+	  1 Garden Lane<br>
+	  Hodges, SC 29695<br>
+	  Phone: (800) 213-0379<br>
+	  Fax: (864) 941-4506 E-mail: <a href="mailto:info@waysidecs.com">info@waysidecs.com</a>
+	</blockquote>
+ 
+		</td>
+		<td rowspan="2" width="15"><img src="/web_images/Wayside/misc/spacer.gif" width="1" height="1"></td>
+		<td rowspan="2" width="140" align="center" class="bodyText">
+
+
+
+
+
+
+
+
+
+
+
+
+  	
+
+	<!-- display today's date - table is just for spacing -->
+	<table border="0" cellpadding="0&quot;" cellspacing="0"><tbody><tr><td class="todayText">Thursday, June 03<br>
+	<img src="/web_images/Wayside/misc/spacer.gif" width="1" height="1"></td></tr></tbody></table>
+
+	<!-- Bonus Box -->
+
+
+	
+
+
+
+
+
+
+
+
+			<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo"><img src="/web_images/Wayside/headers/boxtop_bonus.gif" width="140" height="40" alt="Bonus!" title="Get a Bonus with your Internet Order!" border="0"></a></td></tr>    <tr align="center"><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo"><img src="/web_images/Wayside/bonus/bonus0406a.gif" width="140" height="160" alt="Bonus!" title="Get a Bonus with your Internet Order!" border="0"></a></td></tr>    <tr><td class="bonusRed"><spacer type="block" width="1" height="3"></spacer></td>  <td><table width="138" border="0" cellpadding="5" cellspacing="0" valign="top" align="center"><tbody><tr><td class="captionText" align="center">   Receive free standard shipping with your $150 or more order! <br>  <a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=bonusinfo">Click here for more info.</a><br>  </td></tr></tbody></table>  </td><td width="1" class="bonusRed"><spacer type="block" width="1" height="1"></spacer></td></tr>    <tr><td colspan="3" height="1" class="bonusRed"></td></tr></tbody></table>
+
+
+	<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
+
+	<!-- Product Quick Facts & Side Cart -->
+
+
+			<!-- Tips/News -->
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- News -->
+
+		<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+		  <tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=waynews"><img src="/web_images/Wayside/headers/boxtop_news.gif" width="140" height="71" alt="Wayside's Garden News &amp; Tips" title="News &amp; Tips from Chris" border="0"></a></td></tr>
+		  <tr><td class="wayDark"><spacer type="block" width="1" height="10"></spacer></td>
+			<td>
+			
+				<table width="138" border="0" cellpadding="6" cellspacing="0" align="center">
+				  <tbody><tr>
+					<td valign="top" class="bodyText" align="center">
+					<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=waynews">
+					Rediscover a Reliable Favorite!</a>
+					</td>
+				  </tr>
+				</tbody></table>
+			
+		
+			</td>
+			<td width="1" class="wayDark"><spacer type="block" width="1" height="1"></spacer></td>
+		  </tr>
+		  <tr><td colspan="3" height="1" class="wayDark"></td></tr>
+		</tbody></table> 
+
+
+
+	<!-- end news -->
+
+			<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
+			<!-- Top Ten Sellers -->
+
+			
+
+
+  
+
+
+
+
+
+
+
+ 
+ 
+
+
+	<table width="140" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+	  <tbody><tr><td colspan="3"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=toptenpage&amp;ListLocation=Main"><img src="/web_images/Wayside/headers/boxtop_topten.gif" width="140" height="40" alt="Park's Top Ten Bestsellers" title="Park's Top Ten Bestsellers" border="0"></a></td></tr>
+	  <tr>
+		<td width="1" height="3" class="wayDark"><spacer type="block" width="1" height="3"></spacer></td>
+		<td width="138"><spacer type="block" width="138" height="1"></spacer></td>
+		<td width="1" class="wayDark"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr><td class="wayDark"><spacer type="block" width="1" height="1"></spacer></td>
+		<td>
+
+	<!-- nested table for spacing -->
+		<table width="132" border="0" cellspacing="1" cellpadding="1" align="center" class="bodyText">
+
+
+				<tbody><tr>
+				<td valign="top" align="right">1.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=42075&amp;coremetricsCategory=18001">Wayside's Newest &amp; Best Hybrid Tea Collection</a></td>
+
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">2.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=9221&amp;coremetricsCategory=18001">Algoflash All-Purpose Fertilizer</a></td>
+
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">3.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=49584&amp;coremetricsCategory=18001">Echinacea Orange Meadowbrite<tm></tm></a></td>
+
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">4.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=49640&amp;coremetricsCategory=18001">Purple Coneflower Razzmatazz</a></td>
+
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">5.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45342&amp;coremetricsCategory=18001">Rose Knock Out<tm></tm></a></td>
+
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">6.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45440&amp;coremetricsCategory=18001">Rose Zephirine Drouhin</a></td>
+
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">7.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=49551&amp;coremetricsCategory=18001">Cornus Red Pygmy</a></td>
+
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">8.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45053&amp;coremetricsCategory=18001">Rose Leonidas</a></td>
+
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">9.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45047&amp;coremetricsCategory=18001">Rose China Doll</a></td>
+
+				</tr>
+
+				<tr>
+				<td valign="top" align="right">10.&nbsp;</td>
+
+						<td valign="top" align="left"><a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=47199&amp;coremetricsCategory=18001">Foamy Bells Sunspot</a></td>
+
+				</tr>
+
+		</tbody></table>
+
+	<!-- end nested top ten table -->
+	 
+		</td>
+		<td width="1" class="wayDark"><spacer type="block" width="1" height="1"></spacer></td>
+	  </tr>
+	  <tr>
+		<td width="1" height="2" class="wayDark"><spacer type="block" width="1" height="2"></spacer></td>
+		<td width="138" height="2"><spacer type="block" width="138" height="2"></spacer></td>
+		<td width="1" height="2" class="wayDark"><spacer type="block" width="1" height="2"></spacer></td>
+	  </tr>
+	  <tr class="wayDark"><td colspan="3" height="1"><spacer type="block" width="1" height="1"></spacer></td></tr>
+	</tbody></table>
+
+
+
+	<!-- end top ten list -->
+	  
+			<img src="/web_images/Wayside/misc/spacer.gif" height="4" width="4">
+			<!-- Zip/Zone Calc -->
+			<a href="StoreCatalogDisplay?storeId=10151&amp;catalogId=10073&amp;langId=-1&amp;mainPage=zonemap">
+			<img src="/web_images/Wayside/navigation/zoneButton.gif" width="140" height="40" alt="Zone Calculator" title="Know Your Growing Zone!" border="0"></a>
+
+
+
+</td>
+	  </tr>
+    
+	<tr valign="bottom"><td align="center">
+	
+
+
+
+
+
+
+
+
+
+	<img src="/web_images/Wayside/misc/spacer.gif" width="1" height="4">
+
+			
+
+
+
+
+
+
+
+
+	
+
+		<center>
+
+			<span class="bannerText">
+			<a href="StoreCatalogDisplay?catalogId=10073&amp;storeId=10151&amp;langId=-1&amp;mainPage=prod2working&amp;ItemId=45076&amp;coremetricsCategory=53001">
+			<img src="/web_images/Wayside/anibanner/ani45076.gif" width="315" height="50" border="0" alt="Rose Gruss an Aachen" class="diff"><br>
+			Click here now for Rose Gruss an Aachen!
+			</a><br></span>
+
+
+		</center>
+
+
+
+
+		</td>
+	  </tr>
+	  <tr> 
+		<td colspan="5" height="5"><img src="/web_images/Wayside/misc/spacer.gif" width="1" height="4"></td>  
+	  </tr>
+	  <tr>
+		<td colspan="5" align="center" class="bodyText">
+
+
+
+
+
+
+
+  
+
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=page1">Home Page</a> |
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=NewsletterRequest">Free Newsletter</a> |
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=CatalogRequest">Free Catalog</a> |
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=webspecials">Web Specials</a><br>
+
+	<!-- 	<a href="CartCatalogDisplay?catalogId=10067&storeId=10151&langId=-1&mainPage=sitemap">Site Map</a> |
+	 -->	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=shipinfo">Shipping Policies</a> |
+		<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=billofrights">Customer Bill-of-Rights</a> |
+		<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=PrivacyPolicy">Our Privacy Statement</a> |
+		<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=feedbackform">Feedback</a><br>
+
+	<img src="/web_images/Wayside/topbanner/footer75.gif" width="664" height="75" border="0" usemap="#footermap" vspace="5">
+
+	<map name="footermap">
+	 <area shape="rect" coords="6,0,85,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homePerennials" alt="Perennials" title="Perennials">
+	 <area shape="rect" coords="85,0,145,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeBulbs" alt="Bulbs" title="Bulbs">
+	 <area shape="rect" coords="144,0,206,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRoses" alt="Roses" title="Roses">
+	 <area shape="rect" coords="206,0,320,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeTrees" alt="Trees &amp; Shrubs" title="Trees &amp; Shrubs">
+	 <area shape="rect" coords="318,0,402,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeRare" alt="Rare &amp; Collectible" title="Rare &amp; Collectible">
+	 <area shape="rect" coords="402,0,474,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeSupplies" alt="Supplies &amp; Accessories" title="Supplies &amp; Accessories">
+	 <area shape="rect" coords="474,0,590,20" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=homeGifts" alt="Gifts &amp; Garden Art" title="Gifts &amp; Garden Art">
+	 <area shape="rect" coords="593,6,661,27" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=LoginForm" alt="My Account" title="My Account">
+	 <area shape="rect" coords="6,24,54,45" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=page1" alt="Home Page" title="Home Page">
+	 <area shape="rect" coords="64,24,152,45" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=CatalogRequest" alt="Free Catalog!" title="Free Catalog!">
+	 <area shape="rect" coords="168,24,282,45" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=NewsletterRequest" alt="Free Newsletter!" title="Free Newsletter!">
+	 <area shape="rect" coords="292,24,392,45" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=webspecials" alt="Web-only Specials" title="Web-only Specials">
+	 <area shape="rect" coords="470,24,560,45" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=newQuickOrder" alt="Catalog Quick Order Form" title="Catalog Quick Order Form">
+	 <area shape="rect" coords="572,27,664,45" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=orderstatus" alt="Order Status" title="Order Status">
+	 <area shape="rect" coords="522,45,622,67" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=feedbackform">
+	 <area shape="rect" coords="6,46,178,74" href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=page1" alt="Home Page" title="Home Page">
+	</map>
+
+	<b>America's Source for Choice Perennials, Bulbs, Shrubs, and Roses</b><br>
+	Wayside Gardens | 1 Garden Lane | Hodges, SC 29695<br>
+	Toll Free 800-213-0379 &nbsp;&nbsp;&nbsp;www.waysidegardens.com<br>
+	<a href="mailto:info@waysidecs.com">info@waysidecs.com</a><br> 
+	<a href="StoreCatalogDisplay?catalogId=10067&amp;storeId=10151&amp;langId=-1&amp;mainPage=billofrights">© 1997-2004</a>, Wayside Gardens.
+
+</td>
+	  </tr>
+
+	</tbody></table>
+	
+	
 </body></html>
