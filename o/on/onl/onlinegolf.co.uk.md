@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207122814id_/http%3A//www.onlinegolf.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618044153id_/http%3A//www.onlinegolf.co.uk/privacy) for the most accurate reproduction.*
 
 # Online Golf - Information Page
 
