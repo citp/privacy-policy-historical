@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passion.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234001id_/http%3A//passion.com/go/page/privacy.html%3Fdomain_cobrand%3Dpassion) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passion.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207102137id_/http%3A//passion.com/go/page/privacy.html%3Fdcb%3Dpassion) for the most accurate reproduction.*
 
 # Passion.com PRIVACY POLICY
 
