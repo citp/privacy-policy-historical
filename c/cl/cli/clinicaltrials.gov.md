@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218011600id_/http%3A//www.nlm.nih.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602173403id_/http%3A//www.nlm.nih.gov/disclaimer.html) for the most accurate reproduction.*
 
 # Copyright and Privacy Notice
 
@@ -6,6 +6,8 @@
 
 
 **Copyright Status:** Most information at this site is in the public domain. Unless otherwise stated, these documents may be freely distributed and used for non-commercial, scientific, educational or personal purposes. However, you may encounter documents or portions of documents contributed by private companies or organizations. Other parties may retain all rights to publish or reproduce these documents. Commercial use of the documents on this site may be protected under U.S. and foreign copyright laws. 
+
+**License Notice:** For production and display of GIF images, this site uses Unisys patent No. 4,558,302 and/or foreign counterparts, which is licensed by Unisys for use on this site as a public service. 
 
 **Disclaimer of Liability:** For documents available from this server, the U.S. Government does not warrant or assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed. 
 
@@ -29,4 +31,4 @@ When inquiries are e-mailed to us, we store the question and the e-mail address 
 
 A "cookie" is information stored on your computer by a web server and used to customize your web service in some way. The NLM main web site does not send cookies; however, some sites to which it links (including NLM sites such PubMed and DIRLINE) may send cookies. You can set your browser software to disable cookies or to prompt you before a cookie is accepted. 
 
-Questions about NIH privacy policies should be sent to the [ NIH Privacy Act Officer.](mailto:Wheeles@od.nih.gov)
+Questions about NIH privacy policies should be sent to the [ NIH Privacy Act Officer.](mailto:wheelest@od.nih.gov)
