@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205141100id_/http%3A//www.motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613144110id_/http%3A//www.motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
 
-# Motorsport.com: Legal channel
+# Motorsport.com > Legal channel
 
 **Privacy policy** Motorsport.com is committed to protecting the personal information you choose to share with us. Below is our privacy guarantee and some additional information about how we gather information about our registered users, why we gather it, and what we do with it.
 
