@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205064100id_/http%3A//gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613034752id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
 
-# GameZone.com - GameZone Privacy Policy
+# GameZone.com - PC Privacy Policy
 
     
 **GAMEZONE ONLINE PRIVACY STATEMENT**
@@ -79,8 +79,8 @@
 > 
 > WebMaster  
 >  GameZone Online  
->  37655 Pembroke  
->  Livonia, MI 48152  
+>  PO Box 530638  
+>  Livonia, MI 48153-0638  
 >  [webmaster@gamezone.com](mailto:webmaster@gamezone.com)  
 >    
 > 
