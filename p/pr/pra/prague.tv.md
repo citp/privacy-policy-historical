@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prague.tv privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208184717id_/http%3A//www.prague.tv/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prague.tv privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604130022id_/http%3A//www.prague.tv/about/privacy.php) for the most accurate reproduction.*
 
-# Prague TV:
+# Prague TV: About Us: Privacy Policy
 
 Prague TV Privacy Policy
 
@@ -22,4 +22,4 @@ Prague TV contains many links to other sites on the Web. We cannot control and a
 
 Who can I ask if I have any additional questions?
 
-If you have any further questions or concerns about our privacy policy and use of personal information, please send them to [privacy@prague.tv.](mailto:privacy@prague.tv)
+If you have any further questions or concerns about our privacy policy and use of personal information, please send them to [privacy@prague.tv](mailto:privacy@prague.tv). 
