@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208080609id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404032322id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
 
 # Oneupweb :: Privacy Policy
 
@@ -39,8 +39,8 @@ Except as described, Oneupweb® will not willfully disclose any individually ide
 We welcome any questions or comments you have about the Oneupweb® site. 
 
 Oneupweb®   
-416 N. St. Joseph Street  
-Suttons Bay, MI 49682 
+7322 E Duck Lake Rd  
+Lake Leelanau, MI 49653 
 
-Ph: 231.271.8700   
-Fax: 231.271.8701
+Ph: 231.256.9811   
+Fax: 231.256.9877
