@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604142049id_/http%3A//spawn.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091202id_/http%3A//spawn.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # SPAWN.COM >> INFO >> PRIVACY POLICY
 
@@ -34,7 +34,7 @@ Since spawn.com does not accept outside advertising, no images, files or cookies
 PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name or e-mail address) in chat areas or bulletin boards or to third parties, that information may be collected by others outside our control and may result in unsolicited messages from others.
 
 **MAILING LISTS**  
-Spawn.com maintains mailing lists for the weekly McFarlane Update e-mail. Subscribers may opt out of this list at any time. A mailing address and e-mail list is also kept of all McFarlane Toys Collector's Club members so they can be informed of any special offers. Members may request to be removed from this list at any time. Finally, user information is kept to determine winners in contests that are run on spawn.com and to mail out winning prizes. That information is used for no other purpose.
+Spawn.com maintains mailing lists for the McFarlane Update e-mail. Subscribers may opt out of this list at any time. A mailing address and e-mail list is also kept of all McFarlane Toys Collector's Club members so they can be informed of any special offers. Members may request to be removed from this list at any time. Finally, user information is kept to determine winners in contests that are run on spawn.com and to mail out winning prizes. That information is used for no other purpose.
 
 **USER REGISTRATION**  
 Spawn.com does not require user registration to access content at this site, except for those wishing to interact with other fans on the spawn.com message boards or for those who wish to join the McFarlane Toys Collector's Club and purchase items at the online Spawn Store.
@@ -43,4 +43,4 @@ If you have any questions about the privacy policy at spawn.com, please e-mail [
 
 From time to time, this Privacy Policy may be updated. We encourage you to periodically review this Policy to be informed of how we are protecting your information.
 
-_updated July 10th, 2002_
+_updated June 19th, 2003_
