@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204130433id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401185626id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
 
 # PSX Extreme - Privacy Policy -
 
@@ -22,15 +22,11 @@
 **   [Special/Features](http://www.psxextreme.com/scripts/misc/spec.asp)   
 ****   **[ **Release Dates**](http://www.psxextreme.com/home/release_dates.asp)  
 **   [Gaming Trivia  
-](http://www.gamingtrivia.com/gt/home/default.asp?tr=psxmenu) ** ****
+](http://www.gamingtrivia.com/gt/home/default.asp?tr=psxmenu) ** **** ** ******
 
 * * *
 
-****** ****** **
-
-* * *
-
-**************|  |  |  |  | **Privacy Statement for PSX Extreme**  
+****** **************|  |  |  |  | **Privacy Statement for PSX Extreme**  
 ---|---  
   
 PSX Extreme has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [PSX Extreme](http://www.psxextreme.com/)
