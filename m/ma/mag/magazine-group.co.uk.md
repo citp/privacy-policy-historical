@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazine-group.co.uk privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210015936id_/http%3A//www.magazine-group.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine-group.co.uk privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207080929id_/http%3A//www.magazine-group.co.uk/privacy.php) for the most accurate reproduction.*
 
 # The Magazine Group
 
