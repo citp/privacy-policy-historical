@@ -1,0 +1,387 @@
+<!--The following is the downloaded HTML source of the tnvacation.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602204138id_/http%3A//www.tnvacation.com/about/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+        <title>Privacy Policy</title>
+        <link rel="stylesheet" href="/js_css/tnvacation.css" type="text/css">
+        <meta name="keywords" content="Tennessee information, Tennessee vacation, Tennessee travel, Tennessee travel information, Tennessee accommodations, Tennessee attractions, Tennessee lodging, Tennessee beaches, Tennessee recreation, Tennessee activities, Tennessee tourism information">
+        <meta name="description" content="The State of Tennessee's Official Travel Planning Website">        
+                <script language="JavaScript" src="/js_css/tnvacation.js" type="text/javascript"></script>
+      
+<script language="JavaScript" type="text/javascript">
+<!--
+// moock fpi [f.lash p.layer i.nspector]
+// version: 1.3.5
+// written by colin moock
+// code maintained at: http://www.moock.org/webdesign/flash/detection/moockfpi/
+// terms of use posted at: http://www.moock.org/terms/
+
+
+
+// #############################################
+// These are the user defined globals.
+// Modify the following variables to customize the inspection behaviour.
+
+var requiredVersion = 6;   // Version the user needs to view site (max 6, min 2)
+var useRedirect = false;    // Flag indicating whether or not to load a separate
+                           // page based on detection results. Set to true to
+                           // load a separate page. Set to false to embed the
+                           // movie or alternate html directly into this page.
+                           
+// Only set next three vars if useRedirect is true...
+var flashPage = "index.php"      // The location of the flash movie page
+var noFlashPage = "index.php"  // Page displayed if the user doesn't have the plugin or we can't detect it.
+var upgradePage = "index.php"  // Page displayed if we detect an old plugin
+// #############################################
+
+
+
+// *************
+// Everything below this point is internal until after the BODY tag.
+// Do not modify! Proceed to the BODY tag for further instructions.
+// *************
+
+// System globals
+var flash2Installed = false;    // boolean. true if flash 2 is installed
+var flash3Installed = false;    // boolean. true if flash 3 is installed
+var flash4Installed = false;    // boolean. true if flash 4 is installed
+var flash5Installed = false;    // boolean. true if flash 5 is installed
+var flash6Installed = false;    // boolean. true if flash 6 is installed
+var maxVersion = 6;             // highest version we can actually detect
+var actualVersion = 0;          // version the user really has
+var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
+var jsVersion = 1.0;            // the version of javascript supported
+
+// -->
+</script>
+
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+
+// Check the browser...we're looking for ie/win
+var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
+var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if we're on windows
+
+// This is a js1.1 code block, so make note that js1.1 is supported.
+jsVersion = 1.1;
+
+// Write vbscript detection on ie win. IE on Windows doesn't support regular
+// JavaScript plugins array detection.
+if(isIE && isWin){
+  document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
+  document.write('on error resume next \n');
+  document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
+  document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
+  document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
+  document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
+  document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');  
+  document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
+}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+// Next comes the standard javascript detection that uses the 
+// navigator.plugins array. We pack the detector into a function so it loads
+// before we run it.
+
+function detectFlash() {  
+  // If navigator.plugins exists...
+  if (navigator.plugins) {
+    // ...then check for flash 2 or flash 3+.
+    if (navigator.plugins["Shockwave Flash 2.0"]
+        || navigator.plugins["Shockwave Flash"]) {
+
+      // Some version of Flash was found. Time to figure out which.
+      
+      // Set convenient references to flash 2 and the plugin description.
+      var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+      var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
+
+      // DEBUGGING: uncomment next line to see the actual description.
+      // alert("Flash plugin description: " + flashDescription);
+      
+      // A flash plugin-description looks like this: Shockwave Flash 4.0 r5
+      // We can get the major version by grabbing the character before the period
+      // note that we don't bother with minor version detection. 
+      // Do that in your movie with $version or getVersion().
+      var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
+     
+      // We found the version, now set appropriate version flags. Make sure
+      // to use >= on the highest version so we don't prevent future version
+      // users from entering the site.
+      flash2Installed = flashVersion == 2;    
+      flash3Installed = flashVersion == 3;
+      flash4Installed = flashVersion == 4;
+      flash5Installed = flashVersion == 5;
+      flash6Installed = flashVersion >= 6;
+    }
+  }
+  
+  // Loop through all versions we're checking, and
+  // set actualVersion to highest detected version.
+  for (var i = 2; i <= maxVersion; i++) {  
+    if (eval("flash" + i + "Installed") == true) actualVersion = i;
+  }
+  
+  // If we're on webtv, the version supported is 2 (pre-summer2000, 
+  // or 3, post-summer2000). Note that we don't bother sniffing varieties
+  // of webtv. You could if you were sadistic...
+  if(navigator.userAgent.indexOf("WebTV") != -1) actualVersion = 3;  
+  
+  // DEBUGGING: uncomment next line to display flash version
+  // alert("version detected: " + actualVersion);
+
+
+  // We're finished getting the version on all browsers that support detection.
+  // Time to take the appropriate action.
+
+  // If the user has a new enough version...
+  if (actualVersion >= requiredVersion) {
+    // ...then we'll redirect them to the flash page, unless we've
+    // been told not to redirect.
+    if (useRedirect) {
+      // Need javascript1.1 to do location.replace
+      if(jsVersion > 1.0) {
+        // It's safe to use replace(). Good...we won't break the back button.
+        window.location.replace(flashPage);  
+      } else {
+        // JavaScript version is too old, so use .location to load
+        // the flash page.
+        window.location = flashPage;
+      }
+    }
+    
+    // If we got here, we didn't redirect. So we make a note that we should
+    // write out the object/embed tags later.
+    hasRightVersion = true;                
+  } else {  
+    // The user doesn't have a new enough version.
+    // If the redirection option is on, load the appropriate alternate page.
+    if (useRedirect) {
+      // Do the same .replace() call only if js1.1+ is available.
+      if(jsVersion > 1.0) {
+        window.location.replace((actualVersion >= 2) ? upgradePage : noFlashPage);
+      } else {
+        window.location = (actualVersion >= 2) ? upgradePage : noFlashPage;
+      }
+    }
+  }
+}
+
+
+detectFlash();  // call our detector now that it's safely loaded.  
+
+// this function is from macromedia, it's to allow the user to override the flash settings
+function SetCookieType(ctype)
+{
+	document.cookie='FlashRenderOption='+ctype+';path=/;'
+	if ( navigator.appName.indexOf("Microsoft") != -1 )
+		parent.history.go(0);
+	else if ( navigator.userAgent.indexOf("Mozilla/2") != -1 )
+		parent.location = parent.location;
+	else
+		parent.location.reload();
+}
+// -->
+</script>
+
+
+
+</head>
+<body bgcolor="#ffffff" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+<table width="782" cellspacing="0" cellpadding="0" border="0">
+        <tbody><tr>
+                <td width="357"><img src="/images/shell/transparent_dot.gif" width="357" height="1" alt="" border="0"></td>
+                <td width="2"><img src="/images/shell/transparent_dot.gif" width="2" height="1" alt="" border="0"></td>
+                <td width="223"><img src="/images/shell/transparent_dot.gif" width="223" height="1" alt="" border="0"></td>
+                <td width="60"><img src="/images/shell/transparent_dot.gif" width="60" height="1" alt="" border="0"></td>
+                <td width="80"><img src="/images/shell/transparent_dot.gif" width="80" height="1" alt="" border="0"></td>
+                <td width="60"><img src="/images/shell/transparent_dot.gif" width="60" height="1" alt="" border="0"></td>
+        </tr>
+        <tr bgcolor="#00CCCC">
+                <td colspan="2" width="359" class="officialmessage"><!--htdig_noindex-->&nbsp;&nbsp;The State of Tennessee's Official Travel Planning Website.<!--/htdig_noindex--></td>
+                <td width="283" align="right" class="personal"><strong>&nbsp;</strong> &nbsp; &nbsp;</td>
+                <td colspan="3" width="80" valign="bottom"><img src="/images/shell/oval_aats.jpg" width="200" height="19" alt="" border="0"></td>
+                <td width="60" class="personal"></td>
+        </tr>
+        <tr>
+                <td colspan="3" width="582"><img src="/images/shell/transparent_dot.gif" width="582" height="2" alt="" border="0"></td>
+                <td colspan="3" rowspan="4" width="200" valign="top" align="center" background="/images/shell/faded_bg.jpg"><img src="/images/shell/logo_aats.jpg" width="200" height="65" alt="" border="0"><br><br>
+<script language="JavaScript" type="text/javascript"><!--
+	// Allow the cookie to override
+	if (document.cookie && (document.cookie.indexOf("FlashRenderOption=P") >= 0)) {
+		hasRightVersion = 1;
+	} else if (document.cookie && (document.cookie.indexOf("FlashRenderOption=I") >= 0)) {
+		hasRightVersion = 0;
+	}
+	// now do the embedding if necessary
+	if (!useRedirect) {    // if dynamic embedding is turned on
+	  if(hasRightVersion) {  // if we've detected an acceptable version
+	    var oeTags = '<OBJECT CLASSID="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'
+	    + 'ID = "sidenav.swf?pSiteSection"'
+	    + 'WIDTH="200" HEIGHT="170"'
+	    + 'CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'
+	    + '<PARAM NAME="MOVIE" VALUE="/images/swf/sidenav.swf?pSiteSection=all">'
+	    + '<PARAM NAME="PLAY" VALUE="true">'
+	    + '<PARAM NAME="LOOP" VALUE="false">'
+	    + '<PARAM NAME="QUALITY" VALUE="high">'
+	    + '<PARAM NAME="MENU" VALUE="true">'
+	    + '<EMBED SRC="/images/swf/sidenav.swf?pSiteSection=all"'
+	    + 'WIDTH="200" HEIGHT="170"'
+	    + 'NAME="sidenav.swf?pSiteSection"'
+	    + 'PLAY="true"'
+	    + 'LOOP="false"'
+	    + 'QUALITY="high"'
+	    + 'MENU="true"'
+	    + 'TYPE="application/x-shockwave-flash"'
+	    + 'SWLiveConnect="FALSE"'
+	    + 'PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">'
+	    + '</EMBED>'
+	    + '</OBJECT>';
+	    document.write(oeTags);   // embed the flash movie
+	  } else {  // flash is too old or we can't detect the plugin
+	    var alternateContent = '<IMG SRC="/images/swf/sidenav.gif" HEIGHT="170" WIDTH="200" border=0  usemap="#sidenav" >';
+	    document.write(alternateContent);  // insert non-flash content
+	  }
+	} 
+// -->
+</script><img src="/images/swf/sidenav.gif" height="170" width="200" border="0" usemap="#sidenav"><noscript><IMG SRC="/images/swf/sidenav.gif" HEIGHT="170" WIDTH="200" border=0  usemap="#sidenav" ></noscript><br>
+                <form method="get" action="/search/"><!-- move search here 1/8/04-->
+                <input type="hidden" name="config" value="">
+                <input type="hidden" name="exclude" value="">
+                <img src="/images/shell/title_searchsite.gif" width="65" height="15" alt="" border="0"><input type="text" name="words" size="17" maxlength="30" class="legal"><input type="image" src="/images/shell/button_go.gif" width="29" height="15" alt="" border="0"><br>
+                <span class="bodynote"><!--htdig_noindex-->For best results, search for specific name<!--/htdig_noindex--></span>
+                </form>
+                <a href="/contact/order/"><img src="/images/shell/promo_1.gif" width="200" height="44" alt="" border="0"></a><br>
+                
+                
+<a href="/postcards/"><img src="/images/shell/promo_2.gif" width="200" height="44" alt="" border="0"></a>             
+                
+<!--htdig_noindex--><p><table cellpadding="0" cellspacing="1" border="0" width="175"><tbody><tr><td><img src="/images/shell/title_dont_miss.gif" width="129" height="24" alt="" border="0"></td></tr><tr></tr><tr><td class="module"><img src="/images/modules/type3/fristcenter.jpg" width="147" height="226"><br>
+Frist Center, Nashville
+<br><a href="/do/moreinfo.php?Fact_ID=52577">More info...</a></td></tr></tbody></table><br><!--/htdig_noindex-->              
+                </p></td>
+        </tr>
+        <tr>
+                <td width="357" height="149" valign="top"><!--htdig_noindex--><img src="/images/shell/headers/lg_kidsjump.jpg" alt="Grundy Lake near Tracy City"><!--/htdig_noindex--></td>
+                <td width="2" height="149" valign="top"><img src="/images/shell/transparent_dot.gif" width="2" height="149" alt="" border="0"></td>
+                <td width="223" height="149" valign="top"><!--htdig_noindex--><img src="/images/shell/headers/JarrettsTreeFarm2Jonesb_sm.jpg" alt="Christmas tree farm near Jonesborough"><!--/htdig_noindex--></td>
+        </tr>
+        <tr>
+                <td width="357" class="caption" valign="top"><!--htdig_noindex-->Grundy Lake near Tracy City<!--/htdig_noindex--></td>
+                <td width="2"><img src="/images/shell/transparent_dot.gif" width="2" height="1" alt="" border="0"></td>
+                <td width="223" class="caption" valign="top"><!--htdig_noindex-->Christmas tree farm near Jonesborough<!--/htdig_noindex--></td>
+        </tr>
+        <tr>
+                <td colspan="3" valign="top">
+                        <table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/images/shell/transparent_dot.gif" width="35" height="20" alt="" border="0"></td><td class="bodysmall" valign="bottom"><span class="breadcrumb"><b><!--htdig_noindex-->You Are Here:<!--/htdig_noindex--></b>  <a href="/"><!--htdig_noindex-->Home<!--/htdig_noindex--></a><!--htdig_noindex-->&nbsp;/ <!--/htdig_noindex--><a href="/about/"><!--htdig_noindex-->About the State/Contacts<!--/htdig_noindex--></a><!--htdig_noindex-->&nbsp;/ <!--/htdig_noindex-->Privacy Policy</span></td></tr></tbody></table>
+                        <img src="/images/shell/headers/text/h_aats.gif" alt="" border="0"><br>
+                        <img src="/images/shell/transparent_dot.gif" width="1" height="10" alt="" border="0"><br>                
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tbody><tr>
+                                        <td><img src="/images/shell/transparent_dot.gif" width="3" height="550" alt="" border="0"></td>
+                                        <td valign="top">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="sub_navigation">
+<!--htdig_noindex--><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><font color="#990000"><a class="back_sub_navigation" href="/about/"><img src="/images/dec_backarrow.gif" border="0" align="left" valign="middle"></a></font></td><td valign="top"><a class="back_sub_navigation" href="/about/"><font color="#990000">Back to About the State/Contacts</font></a></td></tr></tbody></table>
+<a href="/about/getting_here/">Getting Here &amp; Around</a><br>
+<a href="/about/state/">State Symbols &amp; Facts</a><br>
+<a href="/about/resources/">Tourism Contacts</a><br>
+<a href="/about/links/">Department Links</a><br>
+<a href="/about/welcome/">Welcome Centers</a><br>
+<a href="/about/weather/">Weather</a><br>
+<a href="/about/maps/">Maps</a><br>
+<a href="/about/privacy.php">Privacy Policy</a>
+<!--/htdig_noindex--></td>
+</tr>
+</tbody></table>
+<p>
+<!--htdig_noindex--><!--htdig_noindex--></p><p><table cellpadding="0" cellspacing="1" border="0" width="100"><tbody><tr><td><a href="/my/trip/"><img src="/images/shell/title_mytrip.gif" width="62" height="24" alt="" border="0"></a></td></tr><tr></tr><tr><td class="mytrip_module">Use myTrip to create a travel plan. <b><a href="/my/login.php">Log in</a></b> or <b><a href="/my/register.php">register</a></b><a href="/my/register.php"> now.</a>
+</td></tr></tbody></table><br><!--/htdig_noindex--><!--/htdig_noindex-->                                      
+                                        </p></td>
+                                        <td class="bodytext" valign="top" width="434"><b>Tennessee Department of Tourist Development Web Site Privacy Statement</b><br>
+The privacy, confidence, and trust of individuals who visit State of Tennessee web sites are important to us. No personal information is collected at this site unless it is provided voluntarily by an individual while participating in an activity that asks for the information. The following paragraphs disclose the information gathering and usage practices for the web site.
+<p>
+<b>Collection of Information</b><br>
+The State only collects the personal information that is necessary to provide the information or services requested by an individual. "Personal information" refers to any information relating to an identified or identifiable individual who is the subject of the information. This is the same information that an individual might provide when visiting a government office and includes such items as an individual's name, address, or phone number. We also collect statistical information that helps us understand how people are using the web site so we can continually improve our services. The information collected is not associated with any specific individual and no attempt is made to profile individuals who browse the web site. You may be asked to participate in surveys at this site. Participation is optional, and the choice to participate or not to participate will have no effect on your ability to use other features of the site. 
+</p><p>
+<b>Use of Information</b><br>
+The State uses the collected information to respond appropriately to requests. This may be to respond directly to you or to improve the web site. E-mail or other information requests sent to the State web site may be maintained or forwarded to the appropriate agencies in order to respond to the request. Survey information is used for the purpose designated in the survey. 
+</p><p>
+<b>Retention of Information</b><br>
+Records needed to support State program functions are retained, managed, and accessible in record-keeping or filing systems in accordance with established records disposition authorizations approved by the State's Public Records Commission. Records transmitted to this site will be identified, managed, protected, and retained as long as they are needed to meet historical, administrative, fiscal, or legal requirements. 
+</p><p>
+<b>Public Disclosure</b><br>
+Regardless of whether information is provided to the State by personal visit, mail, or web site, it becomes public record and is open to public inspection unless protected by State or Federal law. Public records are subject to the rules and requirements located in Tennessee Code Annotated Title 10 Chapter 7. A public record is defined as follows: 
+</p><p>
+"Public record(s)" or "state record(s)" means all documents, papers, letters, maps, books, photographs, microfilms, electronic data processing files and output, films, sound recordings or other material, regardless of physical form or characteristics made or received pursuant to law or ordinance or in connection with the transaction of official business by any governmental agency. (T.C.A. 10-7-301 (6)) 
+</p><p>
+Based on the definition of public records, be aware that any information collected at this site could be made available to the public. Requests for public records will be examined for compliance with public record laws. 
+</p><p>
+<b>Cookies</b><br>
+In order to enhance the Vacation Planning features of our site, we use cookie technology. Cookies are short and simple text files that are stored on a user's computer hard drive by web sites. They are used to keep track of and store information so the user does not have to supply the information multiple times. The information that is collected through cookies at this site is handled in the same manner as other information collected here. You can configure your web browser to refuse cookies or to notify you when a web site attempts to send you a cookie. You can also check your hard drive for cookie files and delete them from your computer. 
+</p><p>
+<b>Web Site Security</b><br>
+The State of Tennessee is committed to the security of the information that is either available from or collected by this web site. The State has taken multiple steps to safeguard the integrity of its telecommunications and computing infrastructure, including but not limited to, authentication, monitoring, auditing, and encryption. 
+</p><p>
+<b>Links to Other Sites</b><br>
+This web site has links to many other web sites. These include links to web sites operated by other government agencies, nonprofit organizations, and private businesses. The State of Tennessee is not responsible for the content or privacy practices of these sites and suggests you review their privacy statements. 
+</p><p>
+<b>Contact Information</b><br>
+The Department of Tourist Development welcomes comments regarding this privacy statement. Please feel free to contact us at tourism.webmaster@state.tn.us.
+ 
+
+					</p></td>
+					<td><img src="/images/shell/transparent_dot.gif" width="5" height="1" alt="" border="0"></td>
+				</tr>
+			</tbody></table>
+		<br><br>
+		</td>
+	</tr>
+	<tr>
+				<td colspan="3" width="582" class="legal" align="center">		
+		<a class="legal" href="/contact/order/">Order a Vacation Guide</a>  |  
+		<a class="legal" href="/site_map/">Site Map</a> / <a class="legal" href="/site_map/index/">Index</a>  |  
+		<a class="legal" href="/about/privacy.php">Privacy Policy</a>  |  
+		<a class="legal" href="/contact/">Contact Us</a>  <br>  
+		<a class="legal" href="http://www.data.milesmedia.com" target="new">Update Your Information</a> | 
+		<a class="legal" href="mailto:webmaster@milesmedia.com">Website Feedback</a> | 
+		<a class="legal" href="http://www.tnvacation.com/about/links/">Tourism Contacts</a>
+<br>
+		<em>All materials copyright 2004 Tennessee Department of Tourist Development</em>
+		</td>
+		<td colspan="3" width="200" background="/images/shell/faded_bg.jpg" valign="top"></td>
+		
+	</tr>
+</tbody></table>
+<map name="sidenav">
+<area shape="poly" coords="117,143,200,143,200,159,117,159,117,143" href="/press/">
+<area shape="poly" coords="118,119,200,119,200,135,118,135,118,119" href="http://www.tnstateparks.com">
+<area shape="poly" coords="104,96,200,96,200,112,104,112,104,96" href="/stay/">
+<area shape="poly" coords="65,71,200,71,200,87,65,87,65,71" href="/do/">
+<area shape="poly" coords="81,46,200,46,200,62,81,62,81,46" href="/about/">
+<area shape="poly" coords="80,23,200,23,200,39,80,39,80,23" href="/explore/">
+<area shape="rect" coords="143,0,200,16" href="/">
+</map>
+<map name="explore">
+<area shape="poly" coords="213,71,213,101,284,101,283,91,276,84,277,80,260,57,239,61,233,71" href="/explore/regions/region_home.php?location=4">
+<area shape="poly" coords="115,55,115,99,209,100,208,72,196,65,185,69,150,55,146,48,132,49" href="/explore/regions/region_home.php?location=2">
+<area shape="poly" coords="49,54,45,75,59,77,58,97,109,99,111,56,71,58,62,63" href="/explore/regions/region_home.php?location=5">
+<area shape="poly" coords="33,45,15,71,11,85,4,95,53,97,55,79,39,78,45,53,47,45" href="/explore/regions/region_home.php?location=8">
+<area shape="poly" coords="329,11,351,43,375,36,387,29,401,18,405,6" href="/explore/regions/region_home.php?location=3">
+<area shape="poly" coords="265,12,270,23,259,34,267,47,266,59,276,69,281,77,281,85,292,86,297,75,313,67,347,50,347,44,323,11" href="/explore/regions/region_home.php?location=1">
+<area shape="poly" coords="197,9,202,19,203,29,205,47,197,63,213,69,230,68,237,57,255,57,264,49,255,33,265,23,261,14,259,11" href="/explore/regions/region_home.php?location=6">
+<area shape="poly" coords="113,5,113,19,119,31,113,45,118,53,135,45,151,45,151,51,180,61,193,65,199,46,203,45,197,32,202,22,195,19,195,10,195,10,195,10,113,5" href="/explore/regions/region_home.php?location=7">
+<area shape="poly" coords="43,16,107,15,115,29,110,39,109,47,113,51,70,54,66,59,51,52,47,43,37,45,33,39,43,16" href="/explore/regions/region_home.php?location=9">
+</map>
+<map name="flashrequired">
+<area shape="rect" coords="276,103,331,123" href="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank">
+</map>
+
+
+
+</body></html>
