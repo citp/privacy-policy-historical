@@ -1,0 +1,365 @@
+<!--The following is the downloaded HTML source of the realtyexecutives.com privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206102838id_/http%3A//www.realtyexecutives.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>REALTY EXECUTIVES International</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		</head><body bgcolor="#FFFFFF" text="#000000" topmargin="5" leftmargin="0" marginwidth="0" marginheight="5" onload="preloadImages();CSScriptInit();"><csscriptdict>
+			<script><!--
+CSInit = new Array;
+function CSScriptInit() {
+if(typeof(skipPage) != "undefined") { if(skipPage) return; }
+idxArray = new Array;
+for(var i=0;i<CSInit.length;i++)
+	idxArray[i] = i;
+CSAction2(CSInit, idxArray);}
+CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+CSIsW3CDOM = ((document.getElementById) && !(IsIE()&&CSBVers<6)) ? true : false;
+function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+function CSNSStyl(s) { if (CSIsW3CDOM) return document.getElementById(s).style; else return CSFindElement(s,0);  }
+CSIImg=false;
+function CSInitImgID() {if (!CSIImg && document.images) { for (var i=0; i<document.images.length; i++) { if (!document.images[i].id) document.images[i].id=document.images[i].name; } CSIImg = true;}}
+function CSFindElement(n,ly) { if (CSBVers<4) return document[n];
+	if (CSIsW3CDOM) {CSInitImgID();return(document.getElementById(n));}
+	var curDoc = ly?ly.document:document; var elem = curDoc[n];
+	if (!elem) {for (var i=0;i<curDoc.layers.length;i++) {elem=CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+	return elem;
+}
+function CSGetImage(n) {if(document.images) {return ((!IsIE()&&CSBVers<5)?CSFindElement(n,0):document.images[n]);} else {return null;}}
+CSDInit=false;
+function CSIDOM() { if (CSDInit)return; CSDInit=true; if(document.getElementsByTagName) {var n = document.getElementsByTagName('DIV'); for (var i=0;i<n.length;i++) {CSICSS2Prop(n[i].id);}}}
+function CSICSS2Prop(id) { var n = document.getElementsByTagName('STYLE');for (var i=0;i<n.length;i++) { var cn = n[i].childNodes; for (var j=0;j<cn.length;j++) { CSSetCSS2Props(CSFetchStyle(cn[j].data, id),id); }}}
+function CSFetchStyle(sc, id) {
+	var s=sc; while(s.indexOf("#")!=-1) { s=s.substring(s.indexOf("#")+1,sc.length); if (s.substring(0,s.indexOf("{")).toUpperCase().indexOf(id.toUpperCase())!=-1) return(s.substring(s.indexOf("{")+1,s.indexOf("}")));}
+	return "";
+}
+function CSGetStyleAttrValue (si, id) {
+	var s=si.toUpperCase();
+	var myID=id.toUpperCase()+":";
+	var id1=s.indexOf(myID);
+	if (id1==-1) return "";
+	s=s.substring(id1+myID.length+1,si.length);
+	var id2=s.indexOf(";");
+	return ((id2==-1)?s:s.substring(0,id2));
+}
+function CSSetCSS2Props(si, id) {
+	var el=document.getElementById(id);
+	if (el==null) return;
+	var style=document.getElementById(id).style;
+	if (style) {
+		if (style.left=="") style.left=CSGetStyleAttrValue(si,"left");
+		if (style.top=="") style.top=CSGetStyleAttrValue(si,"top");
+		if (style.width=="") style.width=CSGetStyleAttrValue(si,"width");
+		if (style.height=="") style.height=CSGetStyleAttrValue(si,"height");
+		if (style.visibility=="") style.visibility=CSGetStyleAttrValue(si,"visibility");
+		if (style.zIndex=="") style.zIndex=CSGetStyleAttrValue(si,"z-index");
+	}
+}
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+function CSButtonReturn () { return !CSClickReturn(); }
+CSIm=new Object();
+function CSIShow(n,i) {
+	if (document.images) {
+		if (CSIm[n]) {
+			var img=CSGetImage(n);
+			if (img&&typeof(CSIm[n][i].src)!="undefined") {img.src=CSIm[n][i].src;}
+			if(i!=0) self.status=CSIm[n][3]; else self.status=" ";
+			return true;
+		}
+	}
+	return false;
+}
+function CSILoad(action) {
+	im=action[1];
+	if (document.images) {
+		CSIm[im]=new Object();
+		for (var i=2;i<5;i++) {
+			if (action[i]!='') {CSIm[im][i-2]=new Image(); CSIm[im][i-2].src=action[i];}
+			else CSIm[im][i-2]=0;
+		}
+		CSIm[im][3] = action[5];
+	}
+}
+CSStopExecution=false;
+function CSAction(array) {return CSAction2(CSAct, array);}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var aa = fct[array[i]];
+		if (aa == null) return false;
+		var ta = new Array;
+		for(var j=1;j<aa.length;j++) {
+			if((aa[j]!=null)&&(typeof(aa[j])=="object")&&(aa[j].length==2)){
+				if(aa[j][0]=="VAR"){ta[j]=CSStateArray[aa[j][1]];}
+				else{if(aa[j][0]=="ACT"){ta[j]=CSAction(new Array(new String(aa[j][1])));}
+				else ta[j]=aa[j];}
+			} else ta[j]=aa[j];
+		}			
+		result=aa[0](ta);
+	}
+	return result;
+}
+CSAct = new Object;
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+userAgent = window.navigator.userAgent;
+browserVers = parseInt(userAgent.charAt(userAgent.indexOf("/")+1),10);
+mustInitImg = true;
+function initImgID() {di = document.images; if (mustInitImg && di) { for (var i=0; i<di.length; i++) { if (!di[i].id) di[i].id=di[i].name; } mustInitImg = false;}}
+function findElement(n,ly) {
+	d = document;
+	if (browserVers < 4)		return d[n];
+	if ((browserVers >= 6) && (d.getElementById)) {initImgID; return(d.getElementById(n))}; 
+	var cd = ly ? ly.document : d;
+	var elem = cd[n];
+	if (!elem) {
+		for (var i=0;i<cd.layers.length;i++) {
+			elem = findElement(n,cd.layers[i]);
+			if (elem) return elem;
+		}
+	}
+	return elem;
+}
+function changeImages() {
+	d = document;
+	if (d.images) {
+		var img;
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			img = null;
+			if (d.layers) {img = findElement(changeImages.arguments[i],0);}
+			else {img = d.images[changeImages.arguments[i]];}
+			if (img) {img.src = changeImages.arguments[i+1];}
+		}
+	}
+}
+
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'home',/*URL*/'http://www.realtyexecutives.com/images/border/logo2.gif',/*URL*/'http://www.realtyexecutives.com/images/border/logo2_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'moving',/*URL*/'http://www.realtyexecutives.com/images/border/movingbut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/movingbut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'neighborhood',/*URL*/'http://www.realtyexecutives.com/images/border/neighborbut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/neighborbut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'about',/*URL*/'http://www.realtyexecutives.com/images/border/aboutbut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/aboutbut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'careers',/*URL*/'http://www.realtyexecutives.com/images/border/careersbut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/careersbut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'secure',/*URL*/'http://www.realtyexecutives.com/images/border/securebut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/securebut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'news',/*URL*/'http://www.realtyexecutives.com/images/border/newsbut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/newsbut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'contact',/*URL*/'http://www.realtyexecutives.com/images/border/contactbut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/contactbut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'offices',/*URL*/'http://www.realtyexecutives.com/images/border/officebut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/officebut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'agents',/*URL*/'http://www.realtyexecutives.com/images/border/agentbut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/agentbut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'properties',/*URL*/'http://www.realtyexecutives.com/images/border/propbut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/propbut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'franchising',/*URL*/'http://www.realtyexecutives.com/images/border/franchisingbut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/franchisingbut_over.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'espanol',/*URL*/'http://www.realtyexecutives.com/images/border/languagebut.gif',/*URL*/'http://www.realtyexecutives.com/images/border/languagebut_over.gif',/*URL*/'','');
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		preloadFlag = true;
+	}
+}
+
+// --></script>
+		</csactiondict>
+	
+
+		<div align="center">
+			<table border="0" cellpadding="0" cellspacing="0" width="770">
+				<tbody><tr height="123">
+					<td width="131" valign="top" align="left">
+						<table width="131" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr height="103">
+								<td width="131"><csobj w="131" h="103" t="Home" ht="http://www.realtyexecutives.com/images/border/logo2_over.gif"><a href="http://www.realtyexecutives.com/home.asp" onmouseover="return CSIShow(/*CMP*/'home',1)" onmouseout="return CSIShow(/*CMP*/'home',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/logo2.gif" width="131" height="103" name="home" border="0"></a></csobj></td>
+							</tr>
+							<tr height="20">
+								<td width="131" height="20"><csobj w="131" h="20" t="Offices" ht="http://www.realtyexecutives.com/images/border/officebut_over.gif"><a href="http://www.realtyexecutives.com/offices/offices.asp" onmouseover="return CSIShow(/*CMP*/'offices',1)" onmouseout="return CSIShow(/*CMP*/'offices',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/officebut.gif" width="131" height="20" name="offices" border="0"></a></csobj></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td valign="top" align="left" height="123" width="639"><img src="http://www.realtyexecutives.com/images/border/topleft.gif" width="264" height="35"><img src="http://www.realtyexecutives.com/images/border/topfadright.gif" width="375" height="35"><img src="http://www.realtyexecutives.com/images/border/toppics.jpg" width="639" height="68"><img src="http://www.realtyexecutives.com/images/border/toplines.gif" width="474" height="20"><img src="http://www.realtyexecutives.com/images/border/rightfade.gif" width="165" height="20"></td>
+				</tr>
+				<tr>
+					<td width="131" valign="top" align="left">
+						<table width="131" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr height="19">
+								<td width="131" height="19"><csobj w="131" h="19" t="Agents" ht="http://www.realtyexecutives.com/images/border/agentbut_over.gif"><a href="http://www.realtyexecutives.com/agents/agents.asp" onmouseover="return CSIShow(/*CMP*/'agents',1)" onmouseout="return CSIShow(/*CMP*/'agents',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/agentbut.gif" width="131" height="19" name="agents" border="0"></a></csobj></td>
+							</tr>
+							<tr height="19">
+								<td width="131" height="19"><csobj w="131" h="19" t="Properties" ht="http://www.realtyexecutives.com/images/border/propbut_over.gif"><a href="http://www.realtyexecutives.com/properties/properties.asp" onmouseover="return CSIShow(/*CMP*/'properties',1)" onmouseout="return CSIShow(/*CMP*/'properties',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/propbut.gif" width="131" height="19" name="properties" border="0"></a></csobj></td>
+							</tr>
+							<tr height="19">
+								<td width="131" height="19"><csobj w="131" h="19" t="Moving" ht="http://www.realtyexecutives.com/images/border/movingbut_over.gif"><a href="http://www.realtyexecutives.com/moving/moving.asp" onmouseover="return CSIShow(/*CMP*/'moving',1)" onmouseout="return CSIShow(/*CMP*/'moving',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/movingbut.gif" width="131" height="19" name="moving" border="0"></a></csobj></td>
+							</tr>
+							<tr height="19">
+								<td width="131" height="19"><csobj w="131" h="19" t="Neighborhood" ht="http://www.realtyexecutives.com/images/border/neighborbut_over.gif"><a href="http://www.realtyexecutives.com/moving/school.asp" onmouseover="return CSIShow(/*CMP*/'neighborhood',1)" onmouseout="return CSIShow(/*CMP*/'neighborhood',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/neighborbut.gif" width="131" height="19" name="neighborhood" border="0"></a></csobj></td>
+							</tr>
+							<tr height="14">
+								<td width="131" height="14"><img name="bline" src="http://www.realtyexecutives.com/images/border/bline.gif" width="131" height="14"></td>
+							</tr>
+							<tr height="18">
+								<td width="131" height="18"><csobj w="131" h="18" t="About Us" ht="http://www.realtyexecutives.com/images/border/aboutbut_over.gif"><a href="http://www.realtyexecutives.com/company/historicaloverview.asp" onmouseover="return CSIShow(/*CMP*/'about',1)" onmouseout="return CSIShow(/*CMP*/'about',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/aboutbut.gif" width="131" height="18" name="about" border="0"></a></csobj></td>
+							</tr>
+							<tr height="17">
+								<td width="131" height="17"><csobj w="131" h="17" t="Franchising" ht="http://www.realtyexecutives.com/images/border/franchisingbut_over.gif"><a href="http://www.realtyexecutives.com/franchising/franchising.asp" onmouseover="return CSIShow(/*CMP*/'franchising',1)" onmouseout="return CSIShow(/*CMP*/'franchising',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/franchisingbut.gif" width="131" height="17" name="franchising" border="0"></a></csobj></td>
+							</tr>
+							<tr height="17">
+								<td width="131" height="17"><csobj w="131" h="19" t="Careers" ht="http://www.realtyexecutives.com/images/border/careersbut_over.gif"><a href="http://www.realtyexecutives.com/careers/careers.asp" onmouseover="return CSIShow(/*CMP*/'careers',1)" onmouseout="return CSIShow(/*CMP*/'careers',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/careersbut.gif" width="131" height="19" name="careers" border="0"></a></csobj></td>
+							</tr>
+							<tr height="19">
+								<td width="131" height="19"><csobj w="131" h="19" t="Secure Area" ht="http://www.realtyexecutives.com/images/border/securebut_over.gif"><a href="http://www.realtyexecutives.com/secure/login.asp" onmouseover="return CSIShow(/*CMP*/'secure',1)" onmouseout="return CSIShow(/*CMP*/'secure',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/securebut.gif" width="131" height="19" name="secure" border="0"></a></csobj></td>
+							</tr>
+							<tr height="14">
+								<td width="131" height="14"><img name="bline2" src="http://www.realtyexecutives.com/images/border/bline2.gif" width="131" height="14"></td>
+							</tr>
+							<tr height="17">
+								<td width="131" height="17"><csobj w="131" h="17" t="News" ht="http://www.realtyexecutives.com/images/border/newsbut_over.gif"><a href="http://www.realtyexecutives.com/news.asp" onmouseover="return CSIShow(/*CMP*/'news',1)" onmouseout="return CSIShow(/*CMP*/'news',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/newsbut.gif" width="131" height="17" name="news" border="0"></a></csobj></td>
+							</tr>
+							<tr height="19">
+								<td width="131" height="19"><csobj w="131" h="19" t="Contact Us" ht="http://www.realtyexecutives.com/images/border/contactbut_over.gif"><a href="http://www.realtyexecutives.com/contact.asp" onmouseover="return CSIShow(/*CMP*/'contact',1)" onmouseout="return CSIShow(/*CMP*/'contact',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/contactbut.gif" width="131" height="19" name="contact" border="0"></a></csobj></td>
+							</tr>
+							<tr height="14">
+								<td width="131" height="14"><img name="bline3" src="http://www.realtyexecutives.com/images/border/bline3.gif" width="131" height="14"></td>
+							</tr>
+							<tr height="19">
+								<td width="131" height="19"><csobj w="131" h="19" t="Espanol" ht="http://www.realtyexecutives.com/images/border/languagebut_over.gif"><a href="#" onmouseover="return CSIShow(/*CMP*/'espanol',1)" onmouseout="return CSIShow(/*CMP*/'espanol',0)" onclick="return CSButtonReturn()"><img src="http://www.realtyexecutives.com/images/border/languagebut.gif" width="131" height="19" name="espanol" border="0"></a></csobj></td>
+							</tr>
+							<tr height="179">
+								<td width="131" valign="top" align="left"><img name="botclouds" src="http://www.realtyexecutives.com/images/border/botclouds.gif" width="131" height="127"></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="639" valign="top">
+
+        <table border="0" cellpadding="3" cellspacing="0" width="630">
+          <tbody><tr>
+            <td valign="top">
+              <p>
+              <font face="verdana, tahoma, arial, helvetica" color="#CC0000" size="6">
+              privacy</font><font face="verdana, tahoma, arial, helvetica" size="5" color="#CC0000"><img border="0" src="images/star.gif" width="20" height="30"></font></p>
+            </td>
+            <td valign="top" align="right"><img border="0" src="images/twostar.gif" width="24" height="30"></td>
+          </tr>
+          <tr>
+            <td valign="top" colspan="2">
+              <b><font face="Verdana" color="#CC0000">
+              We Respect Your Privacy</font></b><p><font size="2" face="Arial"> 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> </font>
+              <font face="Arial" size="2">International 
+              respects and protects the privacy of visitors to our Web site.&nbsp; 
+              We have provided this policy statement about our privacy and 
+              information dissemination practices for realtyexecutives.com 
+              because your privacy is a priority to us.</font></p>
+              <p><b><font face="Verdana" color="#CC0000">Information We Gather 
+              Or Track</font></b></p>
+              <p><font size="2" face="Arial"> 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              International does not collect individually identifiable data on 
+              our Web site unless you choose to give it to us by filling out a 
+              form on our Web site.</font></p>
+              <p><font face="Arial" size="2">Our Web site utilizes "cookies" to 
+              maintain  information about an individual's current visit to our 
+              Web site, commonly referred to as a session.&nbsp; Cookies store 
+              small amounts of data on your computer and must be enabled in 
+              order for visitors to utilize certain functions of our Web site.&nbsp; 
+              For our public Web site, session 
+              information does not contain any individually identifiable data, 
+              but only marks each visitor with a unique key.&nbsp; 
+              Session information includes the search criteria specified 
+              by a Web site visitor so that multiple pages of search results can 
+              be displayed.&nbsp; For the Secure Area of our Web site, 
+              session information includes security information so that 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              personnel can update their profile.</font></p>
+              <p><font size="2" face="Arial"> 
+                  Additionally, when guests visit the 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              International Web site, we collect some basic information that 
+              does not identify individual users. This includes the amount of 
+              traffic visiting the site, which pages are visited and for how 
+              long, where the visitors come from, and what ISP they are using. 
+              We use the information we collect to improve the quality of our 
+              Web site, enhance or tailor the information we offer, and make 
+              your experience on our site as valuable and efficient as possible. </font>
+              </p>
+              <p><b><font face="Verdana" color="#CC0000">What We Do With 
+              Collected Information</font></b></p>
+              <p><font size="2" face="Arial"> 
+                  Even when you choose to give us information, we only use it to 
+              fulfill the request you have made.&nbsp; For those 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              personnel that choose to receive information from our 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              Registered Suppliers, we provide information to these suppliers to 
+              enable communications.</font></p>
+              <p><font size="2" face="Arial"> 
+                  Occasionally, 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              International will hire a third party to act on our behalf for 
+              projects such as market research surveys and will provide 
+              information to these third parties specifically for use in 
+              connection with these projects.&nbsp; However, the information 
+              provided does not include any individually identifiable data.&nbsp; 
+              Furthermore, the information we provide to such third parties is 
+              protected by a confidentiality agreement and the use of the 
+              information is limited to completion of the specific project.</font></p>
+              <p><b>
+              <font face="Verdana" color="#CC0000">
+              Links To Other Web Sites</font></b></p>
+              <p><font size="2" face="Arial"> 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              International provides numerous links to  Web sites other than 
+              realtyexecutives.com.&nbsp; 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              International cannot be responsible for the privacy practices or content of these Web 
+              sites. We encourage you to read the posted privacy 
+              statement whenever interacting with any Web site.</font></p>
+              <p><b>
+              <font face="Verdana" color="#CC0000">
+              Terms Of Use</font></b></p>
+              <p><font face="Arial" size="2">By using our Web site, you consent 
+              to 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              International's collection and use of your information as 
+              described in this policy. If 
+                  <img border="0" src="images/re/realty-2-black.gif" width="57" height="15" align="absbottom"><img border="0" src="images/re/executives-2-black.gif" width="85" height="15" align="absbottom"> 
+              International updates this privacy policy, such changes will be 
+              posted on this page.</font></p>
+            </td>
+          </tr>
+        </tbody></table>
+        &nbsp;            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr>
+                <td align="center" colspan="3">
+                  <p align="center">
+                    &nbsp;<br>
+                    <img border="0" src="http://www.realtyexecutives.com/images/border/experience-excellence.gif" width="251" height="20"><br>
+                    <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">Copyright © 2002</font>
+                    <img border="0" src="http://www.realtyexecutives.com/images/re/realty-2-blue.gif" align="absbottom"><img border="0" src="http://www.realtyexecutives.com/images/re/executives-2-blue.gif" align="absbottom">
+                    <font face="arial" size="1" color="#000080"><b>INTERNATIONAL
+                    <img border="0" src="http://www.realtyexecutives.com/images/re/x-2-red.gif" width="12" height="15" align="absbottom"> </b></font>
+                    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+                    <a href="http://www.realtyexecutives.com/privacy.asp" style="color: #000080; font-weight:700">Privacy Policy</a></font><br>
+                    <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">The information on this web site is deemed to be correct but is not guaranteed.
+                  </font></p><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">
+                </font></td>
+              </tr>
+            </tbody></table>
+
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+	
+
+</body></html>
