@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405031425id_/http%3A//www.care2.com/go/redirect/1/1317) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2001-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010804140623id_/http%3A//www.care2.com/go/redirect/1/1317) for the most accurate reproduction.*
 
 # Help Center: Membership
 
@@ -66,7 +66,7 @@ We will not store your credit card information on our servers. Soon after proces
 
 In delivering targeted advertisements, Care2 plays the middleman. Advertisers give us an ad and tell us the type of audience they want to reach (e.g. females over 35). Care2 or one of our ad server partners takes and displays the ad to users meeting those criteria. In this process, only Care2 -- not the advertiser – can access individuals' account information. 
 
-Care2.com works with third party advertisers who serve ads to our site. These ads may contain cookies. This privacy policy only covers the use of cookies by Care2.com and does not cover the use of cookies by any advertisers. Care2.com does not have control, nor access to the information contained in its advertisers' cookies. To find out how one of these third parties, Flycast, manages the privacy of information in conjunction with serving ads on our site, you can check [http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/index.cfm?sub=pri&content=privacy). 
+We use third-party advertising companies to serve some of the ads when you visit our web site. These companies may use information (not including your name, address, email or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. In the course of serving advertisements on Care2.com, our third-party advertisers may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information use by these companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
 Advertising revenues help keep Care2 services free, and provide revenues for donations for Wildlife Conservation. 
 
@@ -180,9 +180,7 @@ What else should I know about my privacy?
 
 ** Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. Furthermore, while we strive to protect your personal information, Care2 cannot ensure or warrant the security of any information you transmit to us over the Internet, and you do so at your own risk. In addition, Care2 partners and third-party Internet sites and services accessible through Care2 have separate, independent privacy and data collection practices. Care2 has no responsibility or liability for these independent policies or actions. The point? You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
 
-Also, Care2 uses reputable third parties to serve some of the advertisements that you see on the pages of Care2. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad servers, please click on the links below: 
-
-[www.sonar.com/content/privacy](http://www.sonar.com/content/privacy.htm) [www.engage.com/privacy](http://www.engage.com/privacy)
+Also, Care2 uses reputable third parties to serve some of the advertisements that you see on the pages of Care2. These companies may use information (not including your name, address, email or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
 
 * * *
 
