@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpath.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815054714id_/http%3A//www.bpath.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpath.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603180639id_/http%3A//www.bpath.com/legal) for the most accurate reproduction.*
 
 # Bpath - People Doing Business Online
 
