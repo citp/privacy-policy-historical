@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adweek.com privacy policy that was archived on 2000-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000516182140id_/http%3A//www.adweek.com/mast/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adweek.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206121600id_/http%3A//adweek.com/mast/privacy.asp) for the most accurate reproduction.*
 
 # Adweek Online
 
-[](http://216.206.68.72/inc/adredir.asp?ciid=281&url=http://www.upside.com/)
+[ ](http://van.ads.link4ads.com/bin/wadredir?req=clickthru&siteid=62777&pageid=1.1&time=code_here)
 
 **ADWEEK ONLINE Privacy Policy:**
 
@@ -47,7 +47,7 @@ QUESTIONS?
 
 [We welcome your questions and/or comments. Please send all queries to ](mailto:webmaster@ADWEEKonline.com)[webmaster@adweek.com.](mailto:webmaster@ADWEEKonline.com)
 
-[ [](http://216.206.68.72/inc/adredir.asp?ciid=65&url=http://www.adweek.com/adweekconf/) ](mailto:webmaster@ADWEEKonline.com)[
+[ ](mailto:webmaster@ADWEEKonline.com)[
 
 * * *
 
