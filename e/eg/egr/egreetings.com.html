@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the egreetings.com privacy policy that was archived on 2003-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603190345id_/http%3A//www.egreetings.com/warrants.pd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egreetings.com privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207055108id_/http%3A//www.egreetings.com/warrants.pd) for the most accurate reproduction.-->
 
 <html><head>
-<meta name="agmips" content="1.549593">
+<meta name="agmips" content="1.402468">
  
 <title>Find out more about Egreetings.com!</title>
  <script language="JavaScript">
 <!-- HIDE FROM OLD BROWSERS
-
 glbStdFeatures = "width=400,height=320,resizable=yes,scrollbars=yes,toolbar=no";
 glbStdFeaturesExcSize = "resizable=yes,scrollbars=yes,toolbar=no";
 
 var newwin;
-
 function encodePurl(purl){
   purl=purl.replace(/http:\/\//,"");
   purl=purl.replace(/\&/g,"|");
   purl=purl.replace(/\?/g,"_");
   purl=purl.replace(/\=/g,":");
+  purl=purl.replace(/\%20/g,"perc20");
+  purl=purl.replace(/ /g,"perc20");
   purl=purl.replace(/\+/g,"%20");
   purl=purl.replace(/#.*$/,"");  
   purl=purl.replace(/%(\d+)/g,"perc$1");
@@ -35,21 +35,6 @@ function decodePurl(purl){
     purl="http://"+purl;
   }
   return purl;
-}
-
-
-function setMyFocus()
-{
-// Keep subscription popup window on top.
-  if (newwin && !newwin.closed) 
-  {
-    newwin.focus(); 
-  }
-// Keep gift partner popup window on top.
-  else if (typeof(popupWindow)!="undefined" && !popupWindow.closed) 
-  {
-    popupWindow.focus(); 
-  } 
 }
 
 //Join Now
@@ -102,37 +87,6 @@ function openJoin(url, purl, width, height, windowname, intX, intY) {
   }
 }
 
-//THESE WERE HARCODED ON INDEX PAGE
-function openTips()
- {
-  aWindow=window.open("/popup/search.html","SearchTips","height=320,width=400,scrollbars=yes,status=yes");
-  aWindow.focus();
-}
-// registration popup
-function openRegisterPop()
-  {
-  aWindow=window.open("/popup/register.html", "RegisterToday",
-    glbStdFeatures);
-  aWindow.focus();
-    }
-// signin popup
-function openSignInPop()
-{
-  var url = "/popup/signin.pd?refresh=1";
-  openJoin(url);
-}
-// signout popup
-function openSignOutPop()
-{
-  var url = "/popup/signout.pd?popup=1";
-  openJoin(url);
-}
-// Flooz stuff
-function openPopup(pageUrl)
-{
-aWindow=window.open("/"+pageUrl, "thewindow",glbStdFeatures);
-  aWindow.focus();
-}
 // Offer Popup
 function openOfferPop(host) {
   var url = "/popup/offer.pd?";
@@ -149,32 +103,9 @@ function openOfferPop(host) {
   openJoin(url,0,0,0,0,intX,0);  
 }
 
-//THIS WAS IN POPUP.JS
-function loadParent(url){
-  if(window.opener.closed == false){
-    window.opener.location.href = url;
-    window.close();  
-  }else{
-    newwin = window.open(url,"","resizable=yes,scrollbars=yes,status=yes,location=yes,toolbar=yes,menubar=yes");
-    newwin.focus();
-    window.close();
-  }
-}
-
-//THIS WAS IN MEMBERS
-function showLogin(strHost)
-{
-  //var url = "/popup/signin.pd?refresh=1";
-  var url = "/popup/offer.pd?"
-  openJoin(url);
-}
-
 function showLoginUpdate(strHost) {
         var url = "/popup/offer.pd?";
         openJoin(url);
-	//winLogin = window.open(strHost + "/popup/offer.pd", "SignIn",
-	//	    glbStdFeatures);
-	//winLogin.focus();
      }
 
 function showLoginWithVars(strHost, strVars) {
@@ -183,39 +114,10 @@ function showLoginWithVars(strHost, strVars) {
       url = strHost + url;
     }
     openJoin(url);  
-    //strVarsA = ""
-    //if (strVars) {
-    //    strVarsA = "&"+strVars
-    //}
-//	winLogin = window.open(strHost + "/popup/offer.pd?refresh=1" + strVarsA,
-//		    "SignIn", glbNonStdFeatures);
-//	winLogin.focus();
      }
-
-function Go(host, value) {
-  var strUrl =  host + value + ".pd";
-  window.self.location.protocol = "http";
-  window.self.location.href = strUrl;
-}
-
-//REMOVED MEMBERS SIGNOUT POPUP SCRIPT THAT WAS HERE IN MEMBERS.JS
-
-function checkRegistration(strHost, mstatus, func) {
-  if(mstatus == "PAID" || mstatus == "PAIDFORGET" || mstatus == "PAIDSUB" || mstatus == "PAIDSUBFORGET" || mstatus == "FREE" || mstatus == "FORGET"){
-    //  user is registered, call passed-in function
-    func();
-  }else{
-    //  open registration pop-up
-    showLogin(strHost)
-  }  
   
-  
-          
-}
-  
+//Generic Open Window  
 function OpenNewWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
-
-function OpenNewKitWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'kit','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
 
 // NO MORE HIDING -->
 </script>
@@ -252,22 +154,22 @@ a.CollNav, a.CollNav:visited, a.CollNav:active {font-family: Arial, helvetica, s
 .siteerror {COLOR: #ff0000; FONT-FAMILY: Arial,Helvetica; FONT-weight: bold; FONT-SIZE: 12px}
 </style> 
 </head> 
-<body background="http://www.imgag.com/eg/header/bg_052703.gif" link="#3333cc" vlink="#3333cc" alink="#3333cc" text="#000000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0"> 
+<body background="http://www.imgag.com/eg/header/bg_112803.gif" link="#3333cc" vlink="#3333cc" alink="#3333cc" text="#000000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0"> 
 <center> 
 <a name="top"></a> 
+<table border="0" cellpadding="4" cellspacing="0" width="770">
+<tbody><tr><td align="center"><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=468x60&amp;page=warrants.pd&amp;memstat=afu&amp;site=eg&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=468x60&page=warrants.pd&memstat=afu&site=eg&cat=DFLT&subcat=DFLT&product="></SCRIPT></iframe></td></tr>
+</tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr>
-<td><img src="http://www.imgag.com/eg/header/logof_052703.gif" width="770" height="42" border="0" usemap="#logo_f"></td>
+<td><img src="http://www.imgag.com/eg/header/logof_112803.gif" width="770" height="42" border="0" usemap="#logo_f"></td>
 </tr>
 <tr>
-<td align="center" bgcolor="#3399FF"><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=468x60&amp;page=warrants.pd&amp;memstat=afu&amp;site=eg&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=468x60&page=warrants.pd&memstat=afu&site=eg&cat=DFLT&subcat=DFLT&product="></SCRIPT></iframe></td>
-</tr>
-<tr>
-<td bgcolor="#3399FF"><img src="http://www.imgag.com/eg/header/nav_home_052703.gif" width="428" height="30" border="0" usemap="#nav"><img src="http://www.imgag.com/eg/header/member03.gif" width="342" height="30" border="0" usemap="#member"></td>
+<td bgcolor="#0099FF"><img src="http://www.imgag.com/eg/header/nav_home_112803.gif" width="428" height="30" border="0" usemap="#nav"><img src="http://www.imgag.com/eg/header/member03.gif" width="342" height="30" border="0" usemap="#member"></td>
 </tr>
 </tbody></table>
 <map name="logo_m">
-<area shape="poly" coords="258,0,591,0,591,41,258,41,258,0" href="http://www.egreetings.com/category.pd?path=36677" alt="Click Here!">
+<area shape="poly" coords="258,0,591,0,591,41,258,41,258,0" href="http://www.egreetings.com/category.pd?path=7298&amp;adisplay=1" alt="Click Here!">
 <area shape="rect" coords="0,0,258,41" href="http://www.egreetings.com" alt="Egreetings">
 <area shape="poly" coords="677,5,745,5,745,27,677,27,677,5" href="http://www.egreetings.com/members/signout.pd?referer=" alt="Sign Out">
 </map>
@@ -275,13 +177,13 @@ a.CollNav, a.CollNav:visited, a.CollNav:active {font-family: Arial, helvetica, s
 <area shape="poly" coords="258,0,591,0,591,41,258,41,258,0" href="http://www.egreetings.com/category.pd?path=36677" alt="Click Here!">
 <area shape="rect" coords="0,0,258,41" href="http://www.egreetings.com" alt="Egreetings">
 <area shape="poly" coords="677,5,745,5,745,27,677,27,677,5" href="http://www.egreetings.com/members/signin.pd?referer=" alt="Sign In">
-<area shape="rect" coords="600,5,676,27" href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=eg&amp;ostatus=B&amp;ahost=http://www.egreetings.com&amp;Params.styles=MKTjoin', '')" alt="Join Now">
+<area shape="rect" coords="600,5,676,27" href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=eg&amp;ostatus=A&amp;ahost=http://www.egreetings.com&amp;partner=dynasty&amp;Params.styles=MKTjoin', '')" alt="Join Now">
 </map>
 <map name="nav">
 <area shape="poly" coords="2,3,90,3,90,28,2,28,2,3" href="http://www.egreetings.com" title="Cards" alt="Cards">
 <area shape="poly" coords="90,3,174,3,174,28,90,28,90,3" href="http://www.egreetings.com/whatsnew.pd" title="New &amp; Cool" alt="New &amp; Cool">
-<area shape="poly" coords="174,3,257,3,257,28,174,28,174,3" href="http://www.egreetings.com/cnp/index.pd" title="Create &amp; Print" alt="Create &amp; Print">
-<area shape="poly" coords="257,3,340,3,340,28,257,28,257,3" href="http://www.beatgreets.com/index.pd?source=bgeg" title="Music Greetings" alt="Music Greetings">
+<area shape="poly" coords="174,3,257,3,257,28,174,28,174,3" href="http://www.beatgreets.com/index.pd?source=bgeg" title="Create &amp; Print" alt="Create &amp; Print">
+
 </map>
 <map name="member">
 <area shape="poly" coords="311,15,337,15,337,26,311,26,311,15" href="http://www.egreetings.com/customer/index.pd">
@@ -374,7 +276,7 @@ We gather certain generic information with respect to customers' use of our web 
 We use a technology nicknamed "cookies" on our web site.  Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes.  We use cookies to make your visit to our web site easier.  For example, cookies allow us to recognize you when you re-enter our web site so that you will not have to sign-in each time you visit.  Cookies also allow us to count the number of unique and return visitors who use our site. 
 <br><br> 
  
-Most browsers are initially set up to accept cookies.  If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies.  It is important to note that you may not be able to use certain features on our web site if you choose not to accept cookies, such as automatic sign-in, Create &amp; Print, address book, outbox, and reminders. In addition, you will not be able to participate in any of our sweepstakes or  contests. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site. 
+Most browsers are initially set up to accept cookies.  If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies.  It is important to note that you may not be able to use certain features on our web site if you choose not to accept cookies, such as automatic sign-in, address book, outbox, and reminders. In addition, you will not be able to participate in any of our sweepstakes or  contests. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site. 
 <br><br> 
  
 <b>Third Party Advertiser Cookies</b><br> 
@@ -392,20 +294,23 @@ From time-to-time, outside third party research companies may set cookies on you
  
  
 <b>IP Addresses</b><br> 
-We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors.  An IP address is a unique number assigned to your computer when you are using your browser on the Internet.  We log this information so that we can monitor things like the number of visitors visiting the web site; however, we do not link your IP address to any personally identifying information. 
+We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet.  An IP address, by itself, cannot identify you personally.  However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.   
+ <br><br> 
+Egreetings.com INCLUDES THE SENDER IP ADDRESS IN THE HEADER INFORMATION OF EACH ECARD NOTIFICATION E-MAIL IT SENDS.  IT IS AVAILABLE TO THE ECARD RECIPIENT AND ANYONE ELSE WHO IS FORWARDED THE NOTIFICATION E-MAIL.  THIS LIMITS YOUR ABILITY TO COMMUNICATE ANONYMOUSLY USING ELECTRONIC ECARDS.  ELECTRONIC ECARDS ARE NEITHER INTENDED NOR APPROPRIATE FOR ANONYMOUS COMMUNICATIONS, AND SUCH ACTIVITY IS EXPRESSLY PROHIBITED BY THE ACCEPTABLE USE POLICY IN OUR <a href="http://www.egreetings.com/legal.pd" target="_blank">TERMS OF SERVICE</a>.   
+ 
 <br><br> 
  
  
-<b>When You Send A Greeting</b><br> 
-If you use our web site to send an online greeting or any other content, we collect your e-mail address and your recipient's e-mail address.  This information is necessary to send the content and provide confirmation that it has been received.  We will not use your recipient's e-mail address for any purpose other than to send the greeting.   We may also use your e-mail address to contact you if you have chosen to receive communications from Egreetings.com or its Partners.  (See Opt-Out/Changing Your Status, below).   
+<b>When You Send An eCard</b><br> 
+If you use our web site to send an eCard or any other content, we collect your e-mail address and your recipient's e-mail address.  This information is necessary to send the content and provide confirmation that it has been received.  We will not use your recipient's e-mail address for any purpose other than to send the eCard.   We may also use your e-mail address to contact you if you have chosen to receive communications from Egreetings.com or its Partners.  (See Opt-Out/Changing Your Status, below).   
 <br><br> 
  
  
 <b>Personalizing Your Experience on the Web Site</b><br> 
-We try to personalize your experience on our web sites by tracking greetings and other content you have sent and gifts you have purchased in order to shape our recommendations about the greetings, cards, games, and gifts that might be of interest to you. We also examine customer traffic patterns and web site usage to help us enhance the design and layout of the site and make it easier to navigate.  
+We try to personalize your experience on our web sites by tracking eCards and other content you have sent and gifts you have purchased in order to shape our recommendations about the eCards, games, and gifts that might be of interest to you. We also examine customer traffic patterns and web site usage to help us enhance the design and layout of the site and make it easier to navigate.  
 <br><br> 
  
-From time to time, we may send you surveys or solicit your feedback.  We use surveys to gauge user interest in new products and premiums we may offer.  We will ask for your feedback on greetings and other site features.  We will use the information we gather to improve our sites and provide a more meaningful experience for our users.  We may also use the information to alert you to offers and products in which you have expressed an interest.   
+From time to time, we may send you surveys or solicit your feedback.  We use surveys to gauge user interest in new products and premiums we may offer.  We will ask for your feedback on eCards and other site features.  We will use the information we gather to improve our sites and provide a more meaningful experience for our users.  We may also use the information to alert you to offers and products in which you have expressed an interest.   
 <br><br> 
  
  
@@ -413,7 +318,7 @@ From time to time, we may send you surveys or solicit your feedback.  We use sur
 We send to all of our users our exclusive Egreetings.com Newsletter, which alerts you to new features, content, and services, premiums available on our site.  From time to time, we will also send you invitations to enhance your Egreetings.com membership, offers for new services from Egreetings.com, special "Members Only" premiums, or special offers from our affiliates and sponsors.  These communications are sent to you directly by Egreetings.com.  We do not share your personally identifiable information with any third parties in connection with the Newsletter.   
 <br><br> 
  
-You can always decline the Newsletter by un-checking the opt-out box on the "Personalize this Card" pages or registration pages on our site.  If you are already receiving the Newsletter and you want to unsubscribe, you can simply follow the "unsubscribe" links at the bottom of each edition.  For other ways to unsubscribe, see Opt-Out/Changing Your Status, below. 
+You can always decline the Newsletter by un-checking the opt-out box on the "Personalize this eCard" pages or registration pages on our site.  If you are already receiving the Newsletter and you want to unsubscribe, you can simply follow the "unsubscribe" links at the bottom of each edition.  For other ways to unsubscribe, see Opt-Out/Changing Your Status, below. 
 <br><br> 
  
  
@@ -421,13 +326,13 @@ You can always decline the Newsletter by un-checking the opt-out box on the "Per
 Egreetings.com also offers you the opportunity to receive money-saving offers, discounts, and promotions from our Business Partners.  These communications may come from Egreetings.com or directly from the Partners themselves.  We may also share with them certain demographic, geographic, preference, and other personally identifiable information we have gathered about you.  This will help them in directing to you offers that are more likely to be of interest.   
 <br><br> 
  
-This program is conducted strictly on an opt-in basis.  In order to receive the offers, you must affirmatively check the clearly marked box on our "Personalize this Card" pages and registration pages on our site.  If you leave the box unchecked, you will not receive any offers.  If you do sign up for the program but later change your mind, you are free at any time to opt-out by following the procedures outlined in Opt-Out/Changing Your Status, below.   
+This program is conducted strictly on an opt-in basis.  In order to receive the offers, you must affirmatively check the clearly marked box on our "Personalize this eCard" pages and registration pages on our site.  If you leave the box unchecked, you will not receive any offers.  If you do sign up for the program but later change your mind, you are free at any time to opt-out by following the procedures outlined in Opt-Out/Changing Your Status, below.   
 <br><br> 
  
  
  <b>Mandatory Communications</b><br> 
  
-Egreetings.com reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our Terms of Service.  These communications are mandatory.   
+Egreetings.com reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our <a href="http://www.egreetings.com/legal.pd" target="_blank">Terms of Service</a>.  These communications are mandatory.   
 <br><br> 
  
  
@@ -436,7 +341,7 @@ Egreetings.com reserves the right to communicate with you from time to time abou
 If you elect to purchase Membership on Egreetings.com, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part. 
 <br><br> 
  
-Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of greetings you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for Egreetings.com Reminders, which are e-mail alerts to track important dates and occasions they specify. The Egreetings.com address book feature allows Members to store addresses of friends and family in order to make sending a greeting even easier. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership. 
+Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of eCards you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for Egreetings.com Reminders, which are e-mail alerts to track important dates and occasions they specify. The Egreetings.com address book feature allows Members to store addresses of friends and family in order to make sending an eCard even easier. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership. 
 <br><br> 
  
 If you become an Unlimited Member of Egreetings.com from one of our co-branded sites, we may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted. 
@@ -458,7 +363,7 @@ If you have provided us your consent, we will use the information we have collec
  
  
 <b>On-Site Advertising</b><br> 
-Egreetings.com may also use information about you to target advertising while you are visiting our site.  For example, we may serve ads from toy companies to users searching the Kids Birthday Greeting pages.  We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area.  We may use cookie files to assure that you will not be served the same ads repeatedly. 
+Egreetings.com may also use information about you to target advertising while you are visiting our site.  For example, we may serve ads from toy companies to users searching the Kids Birthday eCard pages.  We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area.  We may use cookie files to assure that you will not be served the same ads repeatedly. 
 <br><br> 
  
  
@@ -472,24 +377,31 @@ From time to time, you may be given the opportunity to order products and servic
 <br><br> 
  
  
-<b>Privacy of Greeting Card Information </b><br> 
+<b>Privacy of eCard Information </b><br> 
  
-We treat all of our greetings products as private correspondence between the sender and the recipient and will not disclose the contents of any greeting other than to the intended recipient, except under the specific situations outlined in Disclosure Exceptions, below.   
+We treat all of our eCards products as private correspondence between the sender and the recipient and will not disclose the contents of any eCard other than to the intended recipient, except under the specific situations outlined in Disclosure Exceptions, below.   
 <br><br> 
  
-This policy applies to all aspects of our greetings, including your personalized messages, attached photos or graphics, and Create &amp; Print products.  Under normal circumstances, we will not monitor or edit the contents of the online greetings you send.  On occasion, however, we may need to view your message in connection with the technical processing of your greeting or the maintenance of our network.  Also, if you ask one of our customer service representatives to help you send a greeting or to verify that a greeting was sent, that representative will be able to access all information about the card, including the recipient's e-mail address and the message.   
+This policy applies to all aspects of our eCards, including your personalized messages, and attached photos or graphics.  Under normal circumstances, we will not monitor or edit the contents of the eCards you send.  On occasion, however, we may need to view your message in connection with the technical processing of your eCard or the maintenance of our network.  Also, if you ask one of our customer service representatives to help you send an eCard or to verify that an eCard was sent, that representative will be able to access all information about the eCard, including the recipient's e-mail address and the message.   
 <br><br> 
  
 <b>Disclosure Exceptions</b><br> 
  
+ 
 Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary:  
 <ul> 
-<li>To comply with legal process such as a search warrant, subpoena or court order; 
-</li><li>To protect the company's rights and property; 
-</li><li>To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages; 
-</li><li>To protect against misuse or unauthorized use of our web site and/or the Egreetings.com service; or 
-</li><li>During emergencies, such as when we believe someone's physical safety is at risk.    
+<li>To comply with legal process such as a search warrant, subpoena or court order;  
+</li><li>To protect the company's rights and property;  
+</li><li>To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;  
+</li><li>To protect against misuse or unauthorized use of our web site and/or the Egreetings.com  service; or  
+</li><li>During emergencies, such as when we believe someone's physical safety is at risk.  
 </li></ul> 
+Your IP address can be accessed by eCard recipients in the header of the notification e-mail.  Under certain circumstances, recipients, their legal representatives, and/or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication.  By using this service, you knowingly and voluntarily assume any risks associated with such disclosure.   
+<br><br> 
+ 
+ 
+ 
+ 
  
 <b>YOUR CONTROL OVER YOUR PERSONAL INFORMATION</b><br> 
  
@@ -554,7 +466,7 @@ Egreetings.com  will occasionally update this Privacy Policy in response to chan
 Even the best policy can't protect your online privacy and security in all circumstances.  Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets.  Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities. 
 <br><br> 
  
-Be aware that e-mail is an inherently insecure form of communication.  Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings. 
+Be aware that e-mail is an inherently insecure form of communication.  Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including eCards. 
 <br><br> 
  
 Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam).  Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so. 
@@ -594,7 +506,7 @@ As always, if you have any questions, please feel free to contact us at <a href=
 <table bgcolor="#ffcc33" border="0" cellpadding="5" cellspacing="0" width="770">
 <tbody><tr>
 <td bgcolor="#ffcc33" align="center" class="text"><br>
-<a href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=eg&amp;ostatus=B&amp;ahost=http://www.egreetings.com&amp;Params.styles=MKTjoin', '')">Join Now</a> 
+<a href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=eg&amp;ostatus=A&amp;ahost=http://www.egreetings.com&amp;partner=dynasty&amp;Params.styles=MKTjoin', '')">Join Now</a> 
 <span class="bullet"> • </span>
 <a href="http://www.egreetings.com/members/signin.pd?referer=">Sign In</a> 
 <span class="bullet"> • </span>
@@ -604,7 +516,7 @@ As always, if you have any questions, please feel free to contact us at <a href=
 <span class="bullet"> • </span>
 <a href="JavaScript:OpenNewWindow('http://www.egreetings.com/advertise.pd','500','300','no')">Advertise With Us</a> 
 <span class="bullet"> • </span>
-<a href="http://www.egreetings.com/warrants.pd">Privacy Policy</a> (Updated) 
+<a href="http://www.egreetings.com/warrants.pd">Privacy Policy</a>
 <span class="bullet"> • </span>
 <a href="http://www.egreetings.com/legal.pd">Terms of Service</a>
 <span class="bullet"> • </span>
@@ -617,8 +529,7 @@ As always, if you have any questions, please feel free to contact us at <a href=
 </tbody></table> 
  
 </center> 
-<!-- page generated: Tue Jun  3 15:03:55 2003 -->
-<img height="1" width="1" border="0" src="http://ads.bluemountain.com/impression.gif?path=/warrants.pd&amp;uid=3edcf11bd1edeeae1c51220&amp;mstatus=AFU&amp;memnum=0&amp;source=eg">
+<!-- page generated: Sun Dec  7 00:51:01 2003 -->
  
  
  
