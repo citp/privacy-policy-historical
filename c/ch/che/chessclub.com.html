@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chessclub.com privacy policy that was archived on 2004-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210153143id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chessclub.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403075300id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta name="description" content="The Internet Chess Club, where beginners to grandmasters play online. Serious chess. Serious fun!">
@@ -25,9 +25,11 @@ location.reload();		} else if (document.headerform.LANGUAGE.options[i].text == "
 			setNormalCookie("ICCLANG", ".de");
 			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text == "Français") {
 			setNormalCookie("ICCLANG", ".fr");
-			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text == "Italiano") {
+			window.location.href = "/";/*
+		} else if (document.headerform.LANGUAGE.options[i].text == "Italiano") {
 			setNormalCookie("ICCLANG", ".it");
-			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text == "Svenska") {
+			window.location.href = "/";*/
+		} else if (document.headerform.LANGUAGE.options[i].text == "Svenska") {
 			window.location.href = "/swedish/";		
 		}
 	}
@@ -36,9 +38,7 @@ function doquicklinks() {
 	var i = document.headerform.QUICKLINKS.selectedIndex;
 
 	if (i >= 0) {
-		if (document.headerform.QUICKLINKS.options[i].text == "Kramnik-Leko Championship")
-			window.location.href = "/activities/coverage/wcc-2004/";
-		else if (document.headerform.QUICKLINKS.options[i].text == "ICC News Items")
+		if (document.headerform.QUICKLINKS.options[i].text == "ICC News Items")
 			window.location.href = "/activities/news/";
 		else if (document.headerform.QUICKLINKS.options[i].text == "Online Chess Videos")
 			window.location.href = "/chessfm/videos/";
@@ -135,15 +135,16 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 <!-- marginwidth="0" marginheight="0" leftmargin="0" topmargin="0"-->
 
 <map name="menumap">
+<!-- HOME --><area shape="POLY" target="_top" alt="HOME" coords="65,1,141,1,157,15,79,15" href="http://www.chessclub.com/"><!-- TRY/JOIN --><area shape="POLY" target="_top" alt="JOIN ICC" coords="149,1,237,1,252,15,162,15" href="http://www.chessclub.com/tryicc/"><!-- HELP --><area shape="POLY" target="_top" alt="HELP" coords="246,1,301,1,315,15,260,15" href="http://www.chessclub.com/helpcenter/"><!-- ACTIVITES --><area shape="POLY" target="_top" alt="MEMBERS &amp; ACTIVITIES" coords="307,1,475,1,490,15,321,15" href="http://www.chessclub.com/activities/"><!-- NEWS --><area shape="POLY" target="_top" alt="CHESS.FM" coords="481,1,584,1,598,15,494,15" href="http://www.chessclub.com/chessfm/"><!-- RESOURCES --><area shape="POLY" target="_top" alt="RESOURCES" coords="589,1,685,1,698,15,603,15" href="http://www.chessclub.com/resources/"><!-- STORE --><area shape="POLY" target="_top" alt="STORE" coords="689,1,761,1,775,15,704,15" href="http://www.chessclub.com/store/"></map>
 
-<!-- HOME -->     <area alt="HOME" target="_top" shape="poly" coords="72,1,145,1,161,15,86,15" href="/">
-<!-- TRY/JOIN --> <area alt="JOIN ICC" target="_top" shape="poly" coords="153,1,239,1,254,15,166,15" href="/tryicc/">
-<!-- HELP -->     <area alt="HELP" target="_top" shape="poly" coords="246,1,303,1,317,15,260,15" href="/helpcenter/">
-<!-- ACTIVITES --><area alt="MEMBERS &amp; ACTIVITIES" target="_top" shape="poly" coords="309,1,475,1,490,15,323,15" href="/activities/">
+<!-- HOME -->     <area alt="HOME" target="_top" shape="poly" coords="65,1,141,1,157,15,79,15" href="/">
+<!-- TRY/JOIN --> <area alt="JOIN ICC" target="_top" shape="poly" coords="149,1,237,1,252,15,162,15" href="/tryicc/">
+<!-- HELP -->     <area alt="HELP" target="_top" shape="poly" coords="246,1,301,1,315,15,260,15" href="/helpcenter/">
+<!-- ACTIVITES --><area alt="MEMBERS &amp; ACTIVITIES" target="_top" shape="poly" coords="307,1,475,1,490,15,321,15" href="/activities/">
 <!-- NEWS -->     <area alt="CHESS.FM" target="_top" shape="poly" coords="481,1,586,1,600,15,494,15" href="/chessfm/">
-<!-- RESOURCES --><area alt="RESOURCES" target="_top" shape="poly" coords="591,1,687,1,700,15,605,15" href="/resources/">
-<!-- STORE -->    <area alt="STORE" target="_top" shape="poly" coords="691,1,761,1,775,15,706,15" href="/store/">
-</map>
+<!-- RESOURCES --><area alt="RESOURCES" target="_top" shape="poly" coords="589,1,685,1,698,15,603,15" href="/resources/">
+<!-- STORE -->    <area alt="STORE" target="_top" shape="poly" coords="689,1,761,1,775,15,704,15 " href="/store/">
+
 <div align="center">
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
@@ -167,6 +168,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
                   <option selected="">English</option>
                   <option>Español</option>
                   <option>Français</option>
+                  <!-- <option  >Italiano</option> -->
                   <option>Svenska</option>
               </select>
               </p>
@@ -176,7 +178,6 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
          <td height="27" bgcolor="#DDE2F6" align="center" valign="middle">
             <select name="QUICKLINKS" onchange="doquicklinks();" class="input" size="1">
                <option>QUICK LINKS</option>
-               <option>Kramnik-Leko Championship</option>
                <option>ICC News Items</option>
                <option>Online Chess Videos</option>
                <option>Relay Schedule</option>
@@ -193,13 +194,13 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 <tr>
    <td colspan="2" height="24"><table border="0" width="100%" cellpadding="0" cellspacing="0">
       <tbody><tr>
-         <td width="178" rowspan="2" height="24" bgcolor="#DDE2F6" valign="bottom" background="/images/HeaderBelowCounts2.jpg"><img src="/images/HeaderLowerLeft.jpg" width="178" height="24" border="0" alt=""></td>
+         <td width="179" rowspan="2" height="24" bgcolor="#DDE2F6" valign="bottom" background="/images/HeaderBelowCounts2.jpg"><img src="/images/HeaderLowerLeft.jpg" width="179" height="24" border="0" alt=""></td>
          <td height="17" bgcolor="white" background="/images/HeaderBelowCounts2.jpg">
             <span style="font-family : Verdana, Geneva, Arial, Helvetica, sans-serif ;
                 color : blue ;
                 font-size: 10px ; ">
-               Currently online: <b>1956</b>
- players, including <b>14 Grandmasters</b> and <b>28 International Masters</b>.
+               Currently online: <b>1262</b>
+ players, including <b>six Grandmasters</b> and <b>19 International Masters</b>.
 
             </span>
          </td>
@@ -219,7 +220,6 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 </tr>
 
 <!-- END OF HEADER SECTION -->
-
 <!-- START OF left SECTION -->
 <tr>
 <td width="155" valign="top">
@@ -229,7 +229,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 <table width="95%" border="0">
   <tbody><tr> 
     <td> 
-<table class="navbg" width="100%" border="0" cellpadding="3"><tbody><tr class="navheadinglink" onmouseover="this.className='navheadinglinkover'" onmouseout="this.className='navheadinglink'" onclick="location.href='/helpcenter/lookup/'"><td><br><center><b class="navheading">HELP FILES</b></center></td></tr><tr><td>&nbsp;<a href="/help/help-list" class="nav">ICC Commands</a></td></tr><tr><td>&nbsp;<a href="/help/info-list" class="nav">ICC Information</a></td></tr></tbody></table><table width="100%" border="0"><tbody><tr><td valign="middle"><a href="/helpcenter/"><img src="/images/arrowtop.gif" alt="up" border="0"> HELP Top</a></td></tr></tbody></table><font size="2"><br><i>"The support service that ICC provides to members is superb"<br>—&nbsp;Sarah Hurst, Chess on the Web
+<table class="navbg" width="100%" border="0" cellpadding="3"><tbody><tr class="navheadinglink" onmouseover="this.className='navheadinglinkover'" onmouseout="this.className='navheadinglink'" onclick="location.href='/helpcenter/lookup/'"><td><br><center><b class="navheading">HELP FILES</b></center></td></tr><tr><td>&nbsp;<a href="/help/help-list" class="nav">ICC Commands</a></td></tr><tr><td>&nbsp;<a href="/help/info-list" class="nav">ICC Information</a></td></tr></tbody></table><table width="100%" border="0"><tbody><tr><td valign="middle"><a href="/helpcenter/"><img src="/images/arrowtop.gif" alt="up" border="0"> HELP Top</a></td></tr></tbody></table><font size="2"><br><i>"I could not have developed my game to its current level without your service. Thank you very much!"<br>—&nbsp;Ed Isidore
 </i></font><br><br><a href="/tryicc/register/">Get a seven day FREE trial of ICC!</a>    </td>
   </tr>
 </tbody></table>
@@ -240,10 +240,10 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 </td>
    <td background="/images/pg_dev.gif" width="1" height="100%"><img src="/images/spacer.gif" alt="" width="1" height="100%" border="0"></td>
 
-<!-- END OF left SECTION --><td height="100%" width="600" align="center" valign="top">
-<table width="100%" border="0" cellpadding="6" cellspacing="0">
-<tbody><tr>
-<td valign="top">
+<!-- END OF left SECTION -->		<td height="100%" width="600" align="center" valign="top">
+			<table width="100%" border="0" cellpadding="6" cellspacing="0">
+		<tbody><tr>
+		<td valign="top">
 
 <!-- END OF begin SECTION: start content -->
 <h1><img src="/images/bullet.gif" align="absmiddle" width="12" height="12" border="1">
@@ -252,59 +252,59 @@ ICC Help: privacy</h1>
 
 
 <!-- here we go with our help include! -->
-<p>Introduction</p><p>  Chessclub.com handles a variety of different forms of information from
-  its members and guests.  Some of this information is entered manually
-  by the users of Chessclub.com while they are logged in, or during the
-  registration process.  Some of this information is collected
-  automatically by our software without the explicit knowledge of the
-  user.  This document describes what information we do and do not
+<p>Introduction</p><p>  The Internet Chess Club (ICC) handles a variety of different forms of
+  information from its members and guests.  Some of this information is
+  entered manually by the users of the ICC while they are logged in,
+  or during the registration process.  Some of this information is
+  collected automatically by our software without the explicit knowledge of
+  the user.  This document describes what information we do and do not
   collect, who has access to the information that is collected, how to
   change or delete this information, and a number of related issues.</p><p>  We try to ensure that the flow of information is strictly limited in
   accordance with the policies below.  But remember that there are
   unusual circumstances under which they might be violated, and
   information might be revealed to people in violation of these
   policies.  Some examples include: a subpoena, a break-in to
-  Chessclub.com's computers (either physical or electronic), or an
+  the ICC's computers (either physical or electronic), or an
   employee or Administrator who breaks the rules.</p><p>  In the rest of this document the term "Admin" refers to the set of
-  Chessclub.com administrators, the list of which can be seen by typing
+  ICC administrators, the list of which can be seen by typing
   <a href="/help/admins">help admins</a>.</p><p>Registration Information</p><p>  The following information (which you may have specified when you
   registered) can be seen only by Admins: Your name, your email address,
   your password, your postal address, your phone number, your previous
-  Chessclub.com handle, your USCF ID, expiration, and PIN number.
-  Of course you are free to publicize your personal information.</p><p>  Chessclub.com may use your email address to sporadically send you
+  ICC handle, your USCF ID, expiration, and PIN number.
+  Of course you are free to publicize your personal information.</p><p>  The ICC may use your email address to sporadically send you
   important announcements.  (In the past such announcements have been
   sent fewer than once per year.  For example, such a bulk mailing was
   once used to tell all of our members an alternative way to connect to
   our server when the server machine was under attack.)  If you do not
   wish to ever get such announcements, send email to news@chessclub.com
-  stating this fact.</p><p>  Chessclub.com may use your postal address (if you checked the box to
+  stating this fact.</p><p>  The ICC may use your postal address (if you checked the box to
   allow its use) to mail you information about products and services
-  available from 3rd parties.  Chessclub.com will not give your address
+  available from 3rd parties.  The ICC will not give your address
   to these 3rd parties.</p><p>  Naturally your Handle, your rating and title (after verification) 
   are all publically visible.  Your country is also public information. </p><p>  If you want to know the identity, email address, or other information
-  on a Chessclub.com member, please do not ask an Admin.  Ask the member
-  directly.  It is his or her decision to tell you.</p><p>Credit Card Information</p><p>  Credit card numbers are only stored on Chessclub.com servers in
-  encrypted form.  They are not visible to anybody except Chessclub.com
+  on an ICC member, please do not ask an Admin.  Ask the member
+  directly.  It is his or her decision to tell you.</p><p>Credit Card Information</p><p>  Credit card numbers are only stored on the ICC servers in
+  encrypted form.  They are not visible to anybody except ICC
   employees (a small subset of the Admins) involved in the processing of
   payments.  Credit cards are processed by Cybercash.  Cybercash sends
   credit card numbers over the Internet in encrypted form.  (For more
   information see <a href="http://www.cybercash.com">http://www.cybercash.com</a> .)  The name, address, and
   phone number that is entered when a credit card is used is visible to
-  the Admins.  The card number is not.</p><p>Private Communication</p><p>  Chessclub.com does not explicitly log tell-type (that is, "tell" and
+  the Admins.  The card number is not.</p><p>Private Communication</p><p>  The ICC does not explicitly log tell-type (that is, "tell" and
   "say") communication between a pair of users.  Any such conversation
   you have with another member is totally private.  Nobody, including
-  Admins, can listen in on any such conversation that takes place on a
-  Chessclub.com server.  However, there is a debugging log that on rare
+  Admins, can listen in on any such conversation that takes place on an
+  ICC server.  However, there is a debugging log that on rare
   instances contains such a tell message, and it is possible that an
   Admin could inadvertently see such a message.  Such occurrences are
   rare, and are not under the control of the Admins.</p><p>  Admins are sometimes privy to conversations between a pair of
-  Chessclub.com members.  This happens when one of the members of that
-  conversation relays the conversation to the Admin.</p><p>Public Communication</p><p>  Many modes of communication on a Chessclub.com server give the user an
+  ICC members.  This happens when one of the members of that
+  conversation relays the conversation to the Admin.</p><p>Public Communication</p><p>  Many modes of communication on an ICC server give the user an
   opportunity to reveal personal information to many other people.  This
   includes shouts, channels, and kibitzes.  Please remember that any
   information that is disclosed in these areas becomes public
   information and you should exercise caution when deciding to disclose
-  your personal information.</p><p>Implicitly Collected Information</p><p>  For each session on a Chessclub.com server, an entry is made in a
+  your personal information.</p><p>Implicitly Collected Information</p><p>  For each session on an ICC server, an entry is made in a
   permanent connection log.  The following information is recorded in
   that log:</p><p>   - The time of the connection and disconnection
 <br>   - The name of the interface that was used
@@ -312,45 +312,43 @@ ICC Help: privacy</h1>
 <br>   - The Handle name
 <br>   - The Machine ID of the computer from which the connection was made</p><p>  The Machine ID is a string which uniquely identifies the computer on
   which this connection was made.  This allows us to very reliably
-  determine if two different sessions used the same computer.</p><p>  In addition, while you're playing on a Chessclub.com server, several
+  determine if two different sessions used the same computer.</p><p>  In addition, while you're playing on an ICC server, several
   other pieces of information are made available to the server.  The
-  Chessclub.com client program notes when you switch from the client
-  program to some other program and vice versa.  The Chessclub.com
+  ICC client program notes when you switch from the client
+  program to some other program and vice versa.  The ICC
   client and server are also able to determine whether or not you
   currently have a chess program running on your computer.  This
   information is used for the sole purpose of identifying people who are
   cheating by using a chess engine.  The Admins and a few other people
   who help catch computer cheaters are the only ones who have access to
   this information. (Read <a href="/help/computers">help computers</a> for more information on
-  Chessclub.com's computer policies.)</p><p>  Chessclub.com's software does not monitor any activity nor access any
+  the ICC's computer policies.)</p><p>  The ICC's software does not monitor any activity nor access any
   data beyond what is listed above, or what is obviously needed for the
   functioning of the software.  For example, it does access the profiles
-  and PGN files it needs, but it does not access your email file.</p><p>Security</p><p>  While you're connected to a Chessclub.com server using a "timestamped"
+  and PGN files it needs, but it does not access your email file.</p><p>Security</p><p>  While you're connected to an ICC server using a "timestamped"
   client (such as Blitzin), all communication between you and the server
-  is encrypted.  All Chessclub.com servers are located in secure
-  co-location facilities.  Backups of user records are made on a regular
-  basis.</p><p>Viewing Removing or Changing Your Personal Information</p><p>  You can see your personal information by issuing the "personal-info"
-  command while on a Chessclub.com server.
+  is encrypted.  All ICC servers are located in secure co-location
+  facilities.  Backups of user records are made on a regular basis.</p><p>Viewing Removing or Changing Your Personal Information</p><p>  You can see your personal information by issuing the "personal-info"
+  command while on an ICC server.
   You can modify this information by using the "set" command.  (Read
   <a href="/help/set">help set</a> for more details.)  For example, "set telephone 412-521-5553",
-  will set your telephone number.</p><p>  You can also contact the Chessclub.com business office to request that
+  will set your telephone number.</p><p>  You can also contact the ICC business office to request that
   this information be changed or removed.  Here is the contact
   information: </p><p><table class="console" border="0" cellspacing="0"><tbody><tr><td><pre>      Email: icc@chessclub.com   
       Phone: 412-521-5553
       Fax: 412-521-5575
-      Postal:  Chessclub.com
+      Postal:  Internet Chess Club
 	       1722 Murray Ave, 3rd floor
 	       Pittsburgh, PA 15217 </pre></td></tr></tbody></table></p><p>Contact Information</p><p>  If you have any questions about this privacy statement, the practices of
-  this site, or your dealings with this site, you can contact Daniel
-  Sleator (sleator@chessclub.com) at the above phone numbers or postal
-  address. </p><p>See also: <a href="/help/finger">finger</a>, <a href="/help/personal-info">personal-info</a>, <a href="/help/set">set</a>, <a href="/help/agreement">agreement</a>, <a href="/help/safe-kids">safe-kids</a></p>
+  this site, or your dealings with this site, you can contact the ICC
+  at the above phone numbers or postal address. </p><p>See also: <a href="/help/finger">finger</a>, <a href="/help/personal-info">personal-info</a>, <a href="/help/set">set</a>, <a href="/help/agreement">agreement</a>, <a href="/help/safe-kids">safe-kids</a></p>
 
    </td></tr></tbody></table>
    </td>
    <td background="/images/pg_dev.gif" width="1" height="100%"><img src="/images/spacer.gif" alt="" width="1" height="100%" border="0"></td>
    <td>&nbsp;</td>
 
-<!-- START OF footer SECTION: end content -->
+   <!-- START OF footer SECTION: end content -->
 	</tr><tr>
 		<td colspan="5"><img src="/images/spacer.gif" alt="" width="30" height="15"></td>
 	</tr>
@@ -361,13 +359,16 @@ ICC Help: privacy</h1>
 <!-- start footer -->
 <tr>
 	<td colspan="2" bgcolor="#F0EECA"><img src="/images/index_27.gif" alt="" width="100%" height="7"></td>
-</tr>		
+</tr>
 <tr>
-  <td colspan="2" bgcolor="#F0EECA" height="49" align="left"> 
+  <td colspan="2" bgcolor="#F0EECA" height="49" align="left">
     <p align="center"><font size="2" color="#000000"><img src="/images/SmallLogo.gif" alt="logo" width="48" height="54" align="left" hspace="1" vspace="1" border="0">
-	<a href="/tryicc/about.html">About Us</a> | <a href="/helpcenter/contact.html">Contact Us</a> | <a href="http://www.chessclub.com/help/privacy">Privacy Policy</a> | <a href="http://www.chessclub.com/help/agreement">Terms of Service</a>
+	<a href="/tryicc/about.html">About Us</a>
+        | <a href="/helpcenter/contact.html">Contact Us</a>
+        | <a href="http://www.chessclub.com/help/privacy">Privacy Policy</a>
+        | <a href="http://www.chessclub.com/help/agreement">Terms of Service</a>
 	<br></font></p>
-	<p><font size="1" color="#000000">© Copyright 2004 The Internet Chess Club.
+	<p><font size="1" color="#000000">© Copyright 1995-2005 The Internet Chess Club.
 	All Rights Reserved.
 	</font></p>
   </td>
