@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the key.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214015448id_/http%3A//www.key.com/templates/generic.jhtml%3FnodeID%3DK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the key.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407174331id_/http%3A//www.key.com/templates/generic.jhtml%3FnodeID%3DK) for the most accurate reproduction.*
 
 # Key - Protecting the Privacy of Information
 
