@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kropla.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012091648id_/http%3A//www.kropla.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kropla.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604134206id_/http%3A//kropla.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This site features a number of links to external sites.  These are reviewed for
 
 Need to know more?  Please **[e-mail](mailto:info@travel-advisor-online.com)** with any specific questions you might have.  Thank you.
 
-[**Return to the main page**](https://web.archive.org/web/20021012091648id_/http%3A//www.kropla.com/index.html)
+[**Return to the main page**](https://web.archive.org/web/20030604134206id_/http%3A//kropla.com/index.html)
 
 _http://kropla.com/privacy.htm \-- Updated 27 April 2002_  
 Copyright © 2000-2002 Steve Kropla  
