@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2002-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020308055504id_/http%3A//www.ncpa.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202072725id_/http%3A//www.ncpa.org/privacy.html) for the most accurate reproduction.*
 
 # National Center for Policy Analysis - Privacy Policy
 
@@ -11,7 +11,8 @@ National Center For Policy Analysis has created this privacy statement in order 
 www.ncpa.org  
 www.mysocialsecurity.org  
 www.debate-central.org  
-www.womenintheeconomy.org
+www.womenintheeconomy.org  
+www.teamncpa.org
 
 We use your IP address to help diagnose problems with our server, and to administer our website. We use cookies to deliver content specific to your interests. We will not sell, reveal or share your personal information. 
 
