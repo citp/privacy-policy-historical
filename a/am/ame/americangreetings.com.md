@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217182758id_/http%3A//www.americangreetings.com/warrants.pd%23top) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604010843id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
 
-# americangreetings.com
+# AmericanGreetings.com - thousands of greetings for you to send.
 
 **AmericanGreetings.com Privacy Policy**   
 **GENERAL MATTERS**
@@ -12,7 +12,7 @@ At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a
 
   
 **TRUSTe Licensee; Contact Information**  
-AG is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this Policy, you should first email AmericanGreetings.com Customer Service at [chris@americangreetings.com](mailto:chris@americangreetings.com) or contact us by mail at AmericanGreetings.com, Three American Rd., Cleveland, OH 44144. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://www.truste.org](http://www.truste.org/). TRUSTe will then serve as a liaison with the Site to resolve your concerns. **Scope of Policy**  
+AG is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this Policy, you should first email AmericanGreetings.com Customer Service at [chris@americangreetings.com](mailto:chris@americangreetings.com) or contact us by mail at AmericanGreetings.com, One American Road, Cleveland, OH 44144. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://www.truste.org](http://www.truste.org/). TRUSTe will then serve as a liaison with the Site to resolve your concerns. **Scope of Policy**  
 This Policy applies to all AG-branded sites, including the AG organic sites as well as our co-branded sites including AG-AOL sites and Kidzonks. This Policy does not apply to other companies’ or organizations’ web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information. **INFORMATION ABOUT YOU**
 
  **Information Gathered From All Visitors**  
