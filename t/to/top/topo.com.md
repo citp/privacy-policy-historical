@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topo.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602123315id_/http%3A//www.nationalgeographic.com/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topo.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624113252id_/http%3A//www.nationalgeographic.com/community/privacy.html) for the most accurate reproduction.*
 
 # National Geographic Privacy Policy
 
