@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rwjf.org privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204231118id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rwjf.org privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603173550id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/template3.dwt" --><head>
 <!-- #BeginEditable "doctitle" -->
@@ -74,7 +74,8 @@
 
 
         .programs .highlight a:link, .programs .highlight a:visited { font-family: Georgia;font-weight: bold; color: #7B8562; font-size:14px; text-decoration:none }
-
+        .programs .highlightMain a:link, .programs .highlightMain a:visited{ font-family: Georgia;font-weight: bold; color: #7B8562; font-size:17px; text-decoration:none }
+        .programs .highlightMain { font-size:14px;}
 
 
         .highlightimg img { border: 4px solid #E5B958; margin-right: 5px  }
@@ -155,7 +156,9 @@
 
         .sideMenuBorder { border-collapse:collapse; border: 1px solid #B3B995; background-color: #B3B995 }
 
-
+        .sideMenuHeader { height:18px; font-weight:bold; color: #ffffff; font-size: 12px; border-collapse:collapse; background-color: #B3B995; text-indent: 2px  }
+		td.sideMenuHeader a:link,td.sideMenuHeader a:visited {color:#ffffff; text-decoration:none}
+		.sideMenuHeaderOver a:link,.sideMenuHeaderOver a:visited {color:#ffffff; text-decoration:underline}
 
             /* sideMenu: sideNav */
 
@@ -167,7 +170,7 @@
 
             .sideNav TD { font-size: 11px; border: 1px solid #EDF2DE }
 
-            .sideNav a:link,.sideNav a:visited { color: #7B8562; text-decoration: none }
+            td.sideNav a:link,td.sideNav a:visited {  font-size: 11px; color: #7B8562; text-decoration: none }
 
 
 
@@ -505,9 +508,9 @@
 
             /* misc: Generic Table 5 */
 
-            TABLE.chart { border-collapse: collapse }
+            TABLE.chart {  border: 1px solid #DDDBC2; border-collapse: collapse }
 
-            .chart TD { border: 1px solid #DDDBC2; background-color: #FFFFFF }
+            .chart TD { background-color: #FFFFFF }
 
             .chart TH { border: 1px solid #DDDBC2; background-color: #FFFCF3; font-size: 13px; font-weight: bold }
 
@@ -790,7 +793,7 @@ function changeFont(url, fontSize) {
           <table class="topNav" cellspacing="2" cellpadding="1" border="0">
             <tbody><tr>
               <td>
-                &nbsp;<a href="/">Home</a>
+                &nbsp;<a href="/index.jsp">Home</a>
               </td>
               <td width="1"><img src="/images/menuSpacer.gif" width="1" height="8" border="0"></td>
               <td>
@@ -822,7 +825,7 @@ function changeFont(url, fontSize) {
               </td>
               <td width="1"><img src="/images/menuSpacer.gif" width="1" height="8" border="0"></td>
               <td class="topNavGlobal">
-                <a href="/global/signinThanks.jsp">Sign In</a>
+                <a href="/global/services.jsp">Sign In</a>
               </td>
               <td width="1"><img src="/images/menuSpacer.gif" width="1" height="8" border="0"></td>
               <td class="topNavGlobal">
@@ -838,7 +841,10 @@ function changeFont(url, fontSize) {
 <a name="top"></a><table width="765" border="0" cellspacing="10" cellpadding="0" class="body" id="policies">
   <tbody><tr>
     <td valign="top">
-<table width="154" border="1" cellspacing="0" cellpadding="0" class="sideMenuBorder">
+
+
+    
+        <table width="154" border="1" cellspacing="0" cellpadding="0" class="sideMenuBorder">
 <tbody><tr>
 <td>
 <table border="0" width="152" cellspacing="0" cellpadding="0" class="sideNavOuterBorder">
@@ -848,7 +854,7 @@ function changeFont(url, fontSize) {
 <tbody><tr><td><a href="/policies/disclaimer.jhtml">Disclaimer</a></td></tr>
 <tr><td class="sideNavSubmenu" id="ignore">
 <table cellspacing="0" cellpadding="0" border="0" width="100%" class="sideNavSelectedBorder">
-<tbody><tr><td id="ignore"><a href="/policies/privacy.jhtml">Privacy Statement</a></td></tr>
+<tbody><tr><td id="ignore"><a href="/policies/privacy.jhtml">Privacy</a></td></tr>
 </tbody></table></td></tr>
 <tr><td><a href="/policies/copyrights.jhtml">Copyrights</a></td></tr>
 <tr><td><a href="/policies/correspondence.jhtml">Correspondence</a></td></tr>
@@ -861,6 +867,9 @@ function changeFont(url, fontSize) {
 </td>
 </tr>
 </tbody></table>
+
+    
+    
 </td>
     <td valign="top" class="content" height="285">
         <table border="0" cellspacing="5" cellpadding="0" align="right">
