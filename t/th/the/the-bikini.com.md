@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621164146id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204241id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # the-bikini.com: sexy, micro, mini, tiny, sheer, thongs and crochet bikinis for sale. photo galleries. Online shop.
 
@@ -15,17 +15,17 @@ Shave as close as a blade without irritation!
   
 
 
-The [Personal Shaver](http://www.myaffiliateprogram.com/u/pprofits/b.asp?id=1005) is the finest, safest intimate shaver ever made for smooth sexy skin results.
+The [Personal Shaver](http://www.myaffiliateprogram.com/u/pprofits/b.asp?id=1005&img=jb007B.gif&p=pussyshaver.html) is the finest, safest intimate shaver ever made for smooth sexy skin results.
 
 Designed for intimate use, it is ideal for bikini, pubic area or underarm shaving.   
-[ ](http://www.myaffiliateprogram.com/u/pprofits/b.asp?id=1005)
+[ ](http://www.myaffiliateprogram.com/u/pprofits/b.asp?id=1005&img=jb007B.gif&p=pussyshaver.html)
 
   
 
 
 Make Money!
 
-If you have a website, you can sell our bikinis and make money!  
+If you have a website, you can sell our bikinis. Sign up on our affiliate sales program!  
 [CLICK HERE!](http://shop.vicio.com/bikini/affiliates/signup.html)
 
   
@@ -88,4 +88,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternativley, you can [contact us by email](https://web.archive.org/web/20030621164146id_/http%3A//www.the-bikini.com/contact/). 
+Alternativley, you can [contact us by email](https://web.archive.org/web/20031204204241id_/http%3A//www.the-bikini.com/contact/). 
