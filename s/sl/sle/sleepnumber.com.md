@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepnumber.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208143428id_/http%3A//www.selectcomfort.com/customercenter/privacy.cfm%3Fcmref%3Dfooternav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepnumber.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015105id_/http%3A//www.selectcomfort.com/customercenter/privacy.cfm%3Fcmref%3Dfooternav) for the most accurate reproduction.*
 
 # Select Comfort -->Privacy & Security
 
@@ -24,7 +24,7 @@ In some instances, we use third party companies to help us provide our products 
 We understand that you may be concerned about providing your personal information and credit card information online. Please be assured that we have taken precautions to ensure your shopping experience is safe and secure. When you place an online order it is transmitted via industry standard secure protocol commonly referred to as SSL (secure socket layer). The SSL technology that works with Netscape Navigator, Microsoft Internet Explorer, and America Online encrypts (scrambles) the information you input when placing an order, to protect against unauthorized access when the data is transmitted over the Internet. Furthermore, all of the customer data we collect is protected against unauthorized access.
 
 **_Contact Us Any Time_**  
-If you feel more comfortable ordering over the phone or would like to modify your order, you may call us anytime at **  1-800-548-7231 **. If you have questions regarding the Select Comfort Privacy and Security Policy please [e-mail](https://web.archive.org/customerCenter/contactus/contactusForm.cfm?department=webSiteComments) or contact us at: 
+If you feel more comfortable ordering over the phone or would like to modify your order or request a change to your contact information, you may call us anytime at **  1-800-548-7231 **. If you have questions regarding the Select Comfort Privacy and Security Policy please [e-mail](https://web.archive.org/customerCenter/contactus/contactusForm.cfm?department=webSiteComments) or contact us at: 
 
 **Select Comfort Corporation  
 6105 Trenton Lane N  
@@ -45,3 +45,5 @@ Select Comfort contracts with one or more companies that facilitate relationship
 If you are visiting Select Comfort through AOL Shopping, information about your visit through the pages within AOL and your purchasing experience on our site will be accessed by AOL Shopping. If you would like to review the AOL privacy policy, please [click here](http://www.aol.com/info/privacy.html). 
 
 We may participate with certain companies that offer you the ability to establish a membership that would enable you to participate in digital wallets, payment services or rewards programs. In this regard, if you elect to establish membership in a program sponsored by one of these companies, we would disclose only the information to them required to make their programs work and support your membership with them (typically, name of the user and amount of purchases made on selectcomfort.com). Select Comfort is not responsible for the privacy practices of the companies sponsoring these membership programs and we suggest you review the privacy policy of each company with which you may be considering a membership. 
+
+_Effective Date: 6/29/2004_
