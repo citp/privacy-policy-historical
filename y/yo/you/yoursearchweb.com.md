@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursearchweb.com privacy policy that was archived on 2004-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040530000314id_/http%3A//www.yoursearchweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursearchweb.com privacy policy that was archived on 2004-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041225195241id_/http%3A//www.yoursearchweb.com/privacy.htm) for the most accurate reproduction.*
 
 # YourSearchWeb.com - Internet Search Engine
 
