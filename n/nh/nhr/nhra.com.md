@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231506id_/http%3A//nhra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602190727id_/http%3A//nhra.com/privacy.html) for the most accurate reproduction.*
 
 # NATIONAL HOT ROD ASSOCIATION PRIVACY POLICY
 
@@ -138,7 +138,7 @@ When your child wants to buy a product offered from our online NHRA store, we al
 
 **What Do We Do With the Personal Information We Collect?**
 
-We may use the personal information we collect from your child to respond to user requests (e.g., to be added to the E-newsletter mailing list, to contact the winner of a prize, to keep membership records, or to verify or process transactions), or to provide children with information requested in a one-time transaction (e.g., responding to an inquiry about NHRA's next race event or location to purchase products). Personal information collected to comply with a child's one-time request will be discarded after NHRA has responded to the child's request. Non-personally identifying information, such as session cookies, will be used to help us improve and update our site based on recorded use. NHRA cannot not, and does not, condition a child's participation in an activity on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. 
+We may use the personal information we collect from your child to respond to user requests (e.g., to be added to the E-newsletter mailing list, to contact the winner of a prize, to keep membership records, or to verify or process transactions), or to provide children with information requested in a one-time transaction (e.g., responding to an inquiry about NHRA's next race event or location to purchase products). Personal information collected to comply with a child's one-time request will be discarded after NHRA has responded to the child's request. Non-personally identifying information, such as session cookies, will be used to help us improve and update our site based on recorded use. NHRA cannot, and does not, condition a child's participation in an activity on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. 
 
 **Do We Disclose Personal Information About Your Child?**
 
