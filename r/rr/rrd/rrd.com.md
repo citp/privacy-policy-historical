@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205061824id_/http%3A//www.rrd.com/wwwRRD/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212659id_/http%3A//www.rrd.com/wwwRRD/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Legal Notices
 
