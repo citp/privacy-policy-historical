@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateabc.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604035149id_/http%3A//realestateabc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateabc.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203122143id_/http%3A//www.realestateabc.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
