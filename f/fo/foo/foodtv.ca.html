@@ -1,378 +1,695 @@
-<!--The following is the downloaded HTML source of the foodtv.ca privacy policy that was archived on 2001-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010331211826id_/http%3A//www.foodtv.ca/legal/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodtv.ca privacy policy that was archived on 2001-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011117174459id_/http%3A//foodtv.ca/contact/privacypolicy.asp) for the most accurate reproduction.-->
 
-<html><head><meta name="resource-type" content="document"> 
-<meta name="description" content="Food Network Canada offers entertaining information and practical guidance about food, dinning and nutrition.  Food Network Canada is about real people connecting through food. Food Network Canada airs programs including Emeril Live, Cooking Live w/Sarah Moulton, From Martha's Kitchen and Iron Chef, Dish It Out, The Inn Chef, The Great Canadian Food Show and Urban Peasant."> 
-<meta name="keywords" content="Food Network Canada, foodtv.ca, food, recipies, canada, nutrition, Iron Chef, Urban Peasant, Emeril Live, Sarah Moulton, food fun, hungry, foodie"> 
+<html><head>
+<title>FoodTV.ca :: Contact</title>
+	<link rel="stylesheet" type="text/css" href="/css/food.css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-	<title>Food Network: Private Policy</title>
-	
+<!-- ADDED BY JC START -->
+<script language="JavaScript" src="/includes/javascripts.js"></script>
+
+<!-- ADDED BY JC END -->
+
+<script language="JavaScript" src="/scripts/foodtv_javascript.js"></script>
+<script language="JavaScript" src="/includes/AAC_Engage_Banners.js"></script>
+<!-- ImageReady Preload Script (nav1.psd) -->
 <script language="JavaScript">
 <!--
 
-function jumper() {
-	j = "";
-	i = document.nav.picklist.selectedIndex;
-	j = document.nav.picklist.options[i].value;
+function init() {
+	preloadImages();
+}
 
-	if ((j != "") && (j != "default")) {
-		if (self.name != parent.name) {
-			parent.frames["TOP"].location = j;
-		} else {
-			location = j;
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
 		}
 	}
 }
-	
-//-->
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		home_over = newImage("/images/navigation/home-over.gif");
+		home_down = newImage("/images/navigation/home-down.gif");
+		features_over = newImage("/images/navigation/features-over.gif");
+		features_down = newImage("/images/navigation/features-down.gif");
+		tv_over = newImage("/images/navigation/tv-over.gif");
+		tv_down = newImage("/images/navigation/tv-down.gif");
+		recipes_over = newImage("/images/navigation/recipes-over.gif");
+		recipes_down = newImage("/images/navigation/recipes-down.gif");
+		reference_over = newImage("/images/navigation/reference-over.gif");
+		reference_down = newImage("/images/navigation/reference-down.gif");
+		contest_over = newImage("/images/navigation/contest-over.gif");
+		contest_down = newImage("/images/navigation/contest-down.gif");
+		contact_over = newImage("/images/navigation/contact-over.gif");
+		contact_down = newImage("/images/navigation/contact-down.gif");
+		preloadFlag = true;
+	}
+}
+
+function submitNewsletter() {
+			document.forms.subscriptionForm.action = '/includes/subscriptions/foodtv_subscription_thankyou.asp';
+			document.forms.subscriptionForm.target = 'newsletter_results';
+			document.forms.subscriptionForm.method = 'post';
+			windowReference = window.open('','newsletter_results','width=400,height=350,scrollbars=no,toolbar=yes,menubar=no,resizable=yes');
+}			
+
+function validateNewsletter(form){
+	if ((form.userEmail.value == "") || (form.userEmail.value.indexOf('@') == -1) || (form.userEmail.value.indexOf('.') == -1)){
+		alert("Please enter a valid email address!");
+		form.userEmail.focus();
+		return false;
+	}
+		submitNewsletter();
+		return true;
+}
+
+
+// -->
 </script>
-
-
+<!-- End Preload Script -->
 
 </head>
+<body bgcolor="#FFFFFF" onload="init();" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="black" vlink="black" alink="black">
+<center>
 
-<body background="../images/bg_orange2.gif" topmargin="7" leftmargin="11" marginheight="7" marginwidth="11" bgcolor="#FFFFFF" text="#000000" link="#CE3100" alink="#CE3100" vlink="#CE3100">
-<basefont face="Arial, Trebuchet MS, Helvetica, sans-serif" size="3">
-<table border="0" cellpadding="0" cellspacing="0" width="600">
-  <tbody><tr>
-<td height="1" colspan="4" bgcolor="#FFFFFF"><img src="/images/forums/spacer_white.gif" width="1" height="1" alt="" border="0"></td>
+<!-- Begin of Header -->
+
+	<table border="0" cellspacing="0" cellpadding="0" width="760">
+		<tbody><tr> 
+		  <td colspan="2" bgcolor="#CCCC99" height="5"><img src="/images/misc/blank.gif" width="120" height="1" vspace="0" hspace="0" border="0" align="left"></td>
+		</tr>
+		<tr> 
+		  <td width="638" bgcolor="#CCCC99"><img src="/images/misc/food-logo.gif" width="173" height="59" vspace="0" hspace="0" border="0" align="left"><script src="http://alliance.adbureau.net/jserver/SITE=FOODTV/area=HOME/aamsz=468x60"></script></td>
+		  <!--<td width="122" bgcolor="#CCCC99"><a href="/includes/subscriptions/foodtv_newsletter.asp" target="_blank"><img src="/images/ads/foodtv_newsletter_120.jpg" width="120" height="59" border="0"></a></td>-->
+		  <td width="122" bgcolor="#CCCC99" align="center"><a href="javascript:;" onclick="window.open('/includes/subscriptions/foodtv_subscription_submit.asp', 'Tags', 'width=400,height=300,menubar=no,location=no,scrollbars=auto,resize=no')" class="utilitylinks"><img src="/images/ads/getfoodtvca.jpg" width="109" height="59" border="0"></a></td>
+		</tr>
+		<!--<tr bgcolor="#CCCC99" > 
+		  <td width="638" height="10"><img src="/images/misc/blank.gif" width="120" height="1" vspace="0" hspace="0" border="0" align="left"></td>
+		  <td width="122" height="10">&nbsp;</td>
+		</tr>-->
+		<tr>
+			<td colspan="2">
+<!--End of Header -->
+	
+
+	
+		<!-- Begin of Head Navigation  -->   
+		    <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCCC99">
+		      <!--LEVEL 1 NAV BAR-->
+		       <tbody><tr>
+					<td><img src="/images/navigation/nav1_01.gif" width="157" height="18"></td>
+					<td><a href="/" onmouseover="changeImages('home', '/images/navigation/home-over.gif'); return true;" onmouseout="changeImages('home', '/images/navigation/home.gif'); return true;" onmousedown="changeImages('home', '/images/navigation/home-down.gif'); return true;" onmouseup="changeImages('home', '/images/navigation/home-over.gif'); return true;"><img name="home" src="/images/navigation/home.gif" width="61" height="18" border="0"></a></td>
+					<td><a href="/tv/default.asp" onmouseover="changeImages('tv', '/images/navigation/tv-over.gif'); return true;" onmouseout="changeImages('tv', '/images/navigation/tv.gif'); return true;" onmousedown="changeImages('tv', '/images/navigation/tv-down.gif'); return true;" onmouseup="changeImages('tv', '/images/navigation/tv-over.gif'); return true;"><img name="tv" src="/images/navigation/tv.gif" width="43" height="18" border="0"></a></td>
+					<td><a href="/recipes/" onmouseover="changeImages('recipes', '/images/navigation/recipes-over.gif'); return true;" onmouseout="changeImages('recipes', '/images/navigation/recipes.gif'); return true;" onmousedown="changeImages('recipes', '/images/navigation/recipes-over.gif'); return true;" onmouseup="changeImages('recipes', '/images/navigation/recipes-over.gif'); return true;"><img name="recipes" src="/images/navigation/recipes.gif" width="63" height="18" border="0"></a></td>
+					<td><a href="/feature/" onmouseover="changeImages('features', '/images/navigation/features-over.gif'); return true;" onmouseout="changeImages('features', '/images/navigation/features.gif'); return true;" onmousedown="changeImages('features', '/images/navigation/features-down.gif'); return true;" onmouseup="changeImages('features', '/images/navigation/features-over.gif'); return true;"><img name="features" src="/images/navigation/features.gif" width="71" height="18" border="0"></a></td>
+					<td><a href="/reference/" onmouseover="changeImages('reference', '/images/navigation/reference-over.gif'); return true;" onmouseout="changeImages('reference', '/images/navigation/reference.gif'); return true;" onmousedown="changeImages('reference', '/images/navigation/reference-down.gif'); return true;" onmouseup="changeImages('reference', '/images/navigation/reference-over.gif'); return true;"><img name="reference" src="/images/navigation/reference.gif" width="83" height="18" border="0"></a></td>
+					<td><a href="/contest/" onmouseover="changeImages('contest', '/images/navigation/contest-over.gif'); return true;" onmouseout="changeImages('contest', '/images/navigation/contest.gif'); return true;" onmousedown="changeImages('contest', '/images/navigation/contest-down.gif'); return true;" onmouseup="changeImages('contest', '/images/navigation/contest-over.gif'); return true;"><img name="contest" src="/images/navigation/contest.gif" width="80" height="18" border="0"></a></td>
+					<td><a href="/contact/"><img name="contact" src="/images/navigation/contact-over.gif" width="73" height="18" border="0"></a></td>
+					<td><img src="/images/navigation/search.gif" width="129" height="18"></td>
+				</tr>
+		    </tbody></table>
+		 </td>
+	</tr>
+    <tr>
+		<td colspan="2">
+			<table width="100%" border="0" height="100%" cellspacing="0" cellpadding="0">
+				    <tbody><tr> 
+				      <td width="638" valign="top" height="100%"> 
+						  <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+							<tbody><tr> 
+							  <td bgcolor="#FF6600" colspan="2"> 
+								<!--LEVEL 2 NAV BAR--> 
+								
+								<table border="0" cellpadding="0" cellspacing="0" bgcolor="#FF6600" align="left">
+							      
+								  <tbody><tr><td bgcolor="#ff6600"><!-- ImageReady Slices (faq-nav.psd) -->
+										<table width="639" border="0" cellpadding="0" cellspacing="0">
+											<tbody><tr>
+												<td><img height="17" id="IMG1" src="/images/faq-nav_01.jpg" width="557"></td>
+												<td>
+												
+													<img height="17" id="IMG1" src="/images/faq-nav_01.jpg" width="52">
+												</td>
+												<td><img height="17" src="/images/faq-nav_03.jpg" width="30"></td>
+											</tr>
+											<tr> 
+										      <td bgcolor="#ffffff" colspan="3"> <img height="1" src="/images/misc/blank.gif" width="641"></td>
+										    </tr>
+										</tbody></table>
+									</td>
+								</tr>				
+							    
+							    </tbody></table>
+							  </td>
+							</tr>
+	
+			      <tr> 
+			        
+							<td bgcolor="#ff6600"><img border="0" src="/images/misc/privacypolicy.gif"></td>
+							<td bgcolor="#ff6600"><img align="right" border="0" height="41" hspace="0" src="/images/headers/contact-header-image.gif" width="250"></td>
+						
+					
+			      </tr>
+			      <tr>
+					<td colspan="2" bgcolor="#CCCC99">&nbsp;</td>
+			      </tr>
+			    </tbody></table>
+
+							  </td>
+							  <td rowspan="2" bgcolor="#CCCC99"> <img src="/images/misc/foodtv-ca.gif" vspace="0" hspace="0" border="0">                       
+									
+								<!-- Begin of Search Box -->
+								<table border="0" cellpadding="0" cellspacing="0" height="5">
+								  <tbody><tr>
+								    <td><img src="/images/misc/blank.gif" width="5" height="1"></td>
+								    <form name="searchForm" method="post" action="/search/search_result.asp" onsubmit="return validateSearchForm(document.searchForm);"></form>
+								    <td>
+										<input type="text" name="searchText" size="10">
+										<input type="image" src="/images/navigation/findit.gif" border="0" hspace="1" id="image1" name="image1">
+									</td>
+									
+								  </tr>
+								</tbody></table>
+								<!-- End of Search Box -->
+			 
+						  </td>
+					  </tr>
+			  </tbody></table>
+		 </td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#CCCC99" height="10" valign="top">
+			
+<!-- BEGIN BREADCRUMB AND SPONSOR -->
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+	<td>&nbsp;
+			<a href="/contact/" class="crumbs">CONTACT</a> &gt; 
+
+	</td>
+</tr>
+</tbody></table>
+
+<!-- END BREADCRUMB AND SPONSOR -->
+
+						
+	    </td>
+	</tr>
+
+
+
+<!-- End of Head Navigation Bar -->
+    
+
+
+<!--Begin of Body Table -->
+<tr>
+	<td colspan="2">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FF6600">
+		    <tbody><tr> 
+		      <td>
+				<table width="100%" border="0" cellspacing="1" cellpadding="0">
+    <tbody><tr> 
+      <td bgcolor="#ffffff" valign="top">
+			<table width="635" border="0" cellspacing="5" cellpadding="0">
+			       <tbody><tr>
+			         <td valign="top"> 
+			           <p>Quick Reference: <a href="#terms">Terms of Use</a> 
+			             | <a href="#disclaimer">Disclaimer</a> | <a href="/contact/">Contact 
+			             Us</a></p>
+			           
+            <p><b>USER AGREEMENT </b><br>
+			             Alliance Atlantis Communications Inc. and its related 
+			             and affiliated companies ("Alliance Atlantis") 
+			             welcomes you to its family of web site(s). Using this 
+			             web site(s) indicates your consent and agreement to 
+			             be bound by this User Agreement and any policies or 
+			             practices contained herein.<br>
+			             <br>
+              <b>A. PRIVACY POLICY </b><br>
+			             Your privacy and the integrity of any information 
+			             you provide are important to us. We have developed 
+			             the following policy pursuant to the Personal Information 
+			             Protection and Electronic Documents Act, 2000 c.5. 
+			             (the "Privacy Act").<br>
+			             We're Here To Protect You - What This Policy Is About:<br>
+			             This policy applies to the family of Alliance Atlantis 
+			             web site(s) only. It is designed to inform you of 
+			             how and why Alliance Atlantis gathers personal and 
+			             non-personal information about you.<br>
+			             This web site(s) is connected by "hyperlinks" 
+			             to other web site(s). We are not responsible in any 
+			             way for the privacy practices on other web site(s) 
+			             and suggest that you review the privacy policies on 
+			             those linked web site(s) before using them.<br>
+			             We protect the personal information we gather and 
+			             it is used or may be used or disclosed only to Alliance 
+			             Atlantis, its affiliates and related companies, agents, 
+			             suppliers, sponsors and advertisers to enhance products 
+			             or services and our marketing to you. We are accountable 
+			             for our Privacy Policy and our practices on our web 
+			             site(s). If you have any questions or concerns regarding 
+			             the privacy practices on this web site(s), please 
+			             address them, in writing to the following e-mail address: 
+			             privacypolicy@allianceatlantis.com<br>
+			             What Information Is Collected?<br>
+			             Alliance Atlantis collects three kinds of information 
+			             from our web site(s):<br>
+			             (1) your voluntarily provided personal information; 
+			             (2) anonymous information about your visit, and: (3) 
+			             "cookie" based information to help us track 
+			             which pages on our web site(s) you're most interested 
+			             in.<br>
+			             1. Your Personal Information:<br>
+			             During normal Web site(s) usage, you can visit our 
+			             site without communicating any personal information. 
+			             However, to make use of certain features on our site, 
+			             such as contests, quizzes, promotions, personalized 
+			             services, subscriptions or newsletters, users may 
+			             need to register with the Alliance Atlantis web site(s). 
+			             As part of this voluntary registration, Alliance Atlantis 
+			             may request contact information (such as name, mailing 
+			             address, e-mail address, etc.) and other data required 
+			             for operating these services. The only way we can 
+			             collect personal information from you is if you voluntarily 
+			             provide it to us with your consent. By voluntarily 
+			             providing this personal information to us by sending 
+			             us a comment or suggestion, by entering a chatroom 
+			             or bulletin board, or by entering a contest that is 
+			             posted on our web site(s), you will be consenting 
+			             to the collection, use and distribution of your personal 
+			             information by Alliance Atlantis for the purposes 
+			             of running the contest and/or for distribution to 
+			             sponsors who manage the contests and for purposes 
+			             of marketing (for example the sponsor may directly 
+			             contact the contestant to promote products and services) 
+			             and/or distribution to third parties who may participate 
+			             in chatrooms and bulletin boards on the web site(s). 
+			             You are under no obligation to provide us with this 
+			             personal information and can access and enjoy many 
+			             parts of the Alliance Atlantis web site(s) without 
+			             providing us any personal information. However, for 
+			             clarity, please understand that by volunteering this 
+			             personal information you are also agreeing to its 
+			             collection, use and distribution for the purposes 
+			             stated below.<br>
+			             We will or may at our discretion, use the personal 
+			             information collected in the following ways:<br>
+			             · To run contests, select entrants, and choose 
+			             prize winners;<br>
+			             · To respond to your questions or the comments 
+			             you e-mail to us;<br>
+			             · To provide you with newsletters or other 
+			             information about our programming, special offers 
+			             or services;<br>
+			             · To distribute to sponsors and advertisers 
+			             who run the contests and/or for purposes of marketing 
+			             by our sponsors and advertisers;<br>
+			             · To run chatrooms, discussion groups and bulletin 
+			             boards;<br>
+			             · To keep aggregate information on web site(s) 
+			             use. <br>
+			             You should be aware that when you share personal information 
+			             in public areas of our web site(s), such as chat rooms, 
+			             discussion groups or bulletin boards, this information 
+			             might be seen and used by other members of the public. 
+			             We urge you to exercise good judgment when sharing 
+			             personal information in these forums.<br>
+			             2. Anonymous Information About Your Visit:<br>
+			             When you visit our site, information about your visit 
+			             (e.g. how you navigate the site) may be collected 
+			             and stored. This information may include the length 
+			             of your visit, the date and time of your visit, the 
+			             pages you look at and the sites you visit before and 
+			             after leaving our site. It does not include personally 
+			             identifiable information such as your name, mailing 
+			             or e-mail address or telephone number. We use this 
+			             non-identifiable and aggregate information to better 
+			             design our Web site(s). We also may share this information 
+			             with our affiliates, suppliers, sponsors and advertisers. 
+			             We collect the following non-identifiable information 
+			             when you visit our web site(s):<br>
+			             · Your IP address<br>
+			             · Your Internet Service Provider (ISP)<br>
+			             · Your Web Browser <br>
+			             <br>
+			             3. "Cookie"-Based Information:<br>
+			             To tailor our site to the needs and interests of our 
+			             visitors, we keep track of the pages visited by our 
+			             users by placing a small entry-in text file, called 
+			             a "cookie", on your hard drive. A cookie 
+			             is transferred to your browser by a Web server and 
+			             can only be read by the server that gave it to you.<br>
+			             Cookies do not reveal personal information. The only 
+			             personal information a cookie can contain is information 
+			             you supply yourself such as passwords, purchases and 
+			             preferences. Cookies cannot read data from your hard 
+			             drive.<br>
+			             You may visit the site with your cookies turned off. 
+			             However, you may not be able to access some of the 
+			             areas of our site, which require cookies for customization 
+			             and personalization.<br>
+			             This site uses the services of Engage for the serving 
+			             and/or targeting of ads, promotions and other marketing 
+			             messages. To do this, Engage collects anonymous data 
+			             about your visit to this and other Web sites, typically 
+			             through the use of cookies. To learn more about Engage, 
+			             including your ability to opt out of the Engage system, 
+			             go to http://www.engage.com/privacy/.<br>
+			             <br>
+              <b>How Is My Personal Information Protected?</b><br>
+			             Alliance Atlantis is committed to protecting your 
+			             personal information and has developed policies and 
+			             procedures to ensure our compliance with our own Security 
+			             and Privacy Policy and with applicable Federal and 
+			             Provincial laws.<br>
+			             We also understand your concerns about online security 
+			             and we do our best to prevent the loss, misuse or 
+			             alteration of information under our control. We encourage 
+			             parties linked to our site to follow similar practices, 
+			             however we have no control over how other websites 
+			             fulfill their obligations and conduct their privacy 
+			             policies. We encourage you to review the privacy policies 
+			             posted on the websites linked to our website.<br>
+			             <br>
+              <b>Will Alliance Atlantis Share My Information?</b><br>
+			             When you voluntarily provide Alliance Atlantis with 
+			             personally identifiable information online, that information 
+			             is kept within the Alliance Atlantis family of web 
+			             site(s) and may be shared or distributed to our affiliates, 
+			             partners, sponsors or advertisers.<br>
+			             As a general rule, the non-identifiable information 
+			             and passive information we collect on our web site(s) 
+			             will or may be shared with our affiliates, partners, 
+			             sponsors or advertisers.<br>
+			             Our Web site(s) contains hyperlinks to other websites. 
+			             While we encourage these organizations to follow similar 
+			             security practices, Alliance Atlantis is not responsible 
+			             for the policies or content of such Web site(s).<br>
+              <b>How does the Privacy Policy deal with Children?</b><br>
+			             Children should always get permission from their parents 
+			             before sending information about themselves (such 
+			             as their names, e-mail addresses, and phone numbers) 
+			             over the Internet. We will not knowingly encourage 
+			             any minor to register with our site or to access those 
+			             features which require registration. If a child has 
+			             provided us with personal information, Alliance Atlantis 
+			             asks that any concerned parent or guardian of the 
+			             child contact us.<br>
+			             <br>
+              <b>Can I Opt Out?</b><br>
+			             By visiting our web site(s) and voluntarily providing 
+			             personal information to the Alliance Atlantis web 
+			             site(s), you agree to the terms of this online User 
+			             Agreement and the Privacy Policy contained herein. 
+			             If you do not want to be contacted for product, service 
+			             or marketing initiatives, or do not agree with this 
+			             Privacy Policy, do not provide us with any personal 
+			             information. If you have already provided us with 
+			             personal information and you would like to be removed 
+			             from any direct marketing initiatives, or direct mail 
+			             or e-mail list, please e-mail us or call * to remove 
+			             your personal information from our lists.<br>
+			             How Can I Correct Errors In My Information?<br>
+			             You can correct errors in your personally identifiable 
+			             information by sending an e-mail to us or by contacting 
+			             us at privacypolicy@allianceatlantis.com.<br>
+			             What If I Do Not Agree With Your Privacy Policy?<br>
+			             By visiting our web site(s) and voluntarily providing 
+			             personal information to the Alliance Atlantis web 
+			             site(s), you agree to the terms of this online User 
+			             Agreement and the Privacy Policy contained herein. 
+			             However, we welcome your comments and/or suggestions 
+			             on improving our web site(s) and policies. If you 
+			             do not agree to these terms, or wish to limit the 
+			             use of any of your personal information that we may 
+			             have, you may contact us.</p>
+			           
+            <p><a name="terms"></a><b>B. TERMS OF USE</b><br>
+			             All content and information (including, but not limited 
+			             to, broadcast schedules, guides, promotional contests, 
+			             press releases, articles, plans, recipes, reviews, 
+			             photos, images, illustrations, audio clips, and video 
+			             clips) displayed on our web site(s) is owned or licensed 
+			             by Alliance Atlantis and is protected by copyright 
+			             and other intellectual property laws. Any names, titles, 
+			             logos and designs displayed on the web site(s) that 
+			             contain Alliance Atlantis names, titles, logos, or 
+			             brands are the exclusive property and trademarks of 
+			             Alliance Atlantis or its partners. You may not modify, 
+			             publish, transmit, transfer, sell, reproduce, re-post 
+			             or alter any such content. Alliance Atlantis hereby 
+			             grants you a personal, non-exclusive, non-assignable 
+			             and non-transferable license to use and display, for 
+			             home, noncommercial and personal use only, one copy 
+			             of any content that you may download from this web 
+			             site(s). Any other use or reproduction of this web 
+			             site(s), in whole or in part, will be considered to 
+			             be a violation of Alliance Atlantis's intellectual 
+			             property rights.<br>
+			             Your use of this web site(s) constitutes your agreement 
+			             to abide by these terms of use included in this online 
+			             User Agreement. Alliance Atlantis reserves the right 
+			             to modify, alter or otherwise update this User Agreement 
+			             at any time and visitors are encouraged to review 
+			             this User Agreement from time to time.<br>
+			             If you disagree with any of the above terms of use 
+			             or any part of the User Agreement, do not use this 
+			             Alliance Atlantis web site(s).</p>
+			           
+            <p><a name="disclaimer"></a><b>C. DISCLAIMER</b><br>
+			             You are visiting this web site(s) at your own risk. 
+			             Alliance Atlantis, its subsidiaries, affiliates, successors, 
+			             assigns, agents, officers, directors, employees, representatives, 
+			             licensors or licensees shall not be responsible for 
+			             any damages of any nature arising out of or relating 
+			             to the use of this web site(s) or any hyperlinked 
+			             web site(s). <br>
+			             The material that appears on this web site(s) is for 
+			             informational purposes only. Despite our efforts to 
+			             provide useful and accurate information, errors may 
+			             appear from time to time. Before you act on information 
+			             you've found on this web site(s), you should confirm 
+			             any facts that are important to your decision. Alliance 
+			             Atlantis and its information providers make no warranty 
+			             as to the reliability, accuracy, timeliness, usefulness 
+			             or completeness of the information on the web site(s). 
+			             Any opinion, view or idea contained in any article, 
+			             story or column published on the web site(s) is the 
+			             author's own and does not reflect or represent the 
+			             views of Alliance Atlantis or any of its subsidiaries, 
+			             affiliates, successors, assigns, agents, officers, 
+			             directors, employees, representatives, partners, or 
+			             licensees.<br>
+			             Alliance Atlantis is not responsible for, and cannot 
+			             guarantee the performance of, goods and services provided 
+			             by our advertisers or others to whose sites we link. 
+			             A link to another web site does not constitute an 
+			             endorsement of that site (nor of any product, service 
+			             or other material offered on that site) by Alliance 
+			             Atlantis or its licensors, affiliates, information 
+			             providers, advertisers, sponsors or partners. The 
+			             materials on this web site(s) and the hyperlinked 
+			             third party sites are provided "as is" and 
+			             without warranties or representations of any kind 
+			             either express or implied including but not limited 
+			             to the implied warranties of timeliness, merchantability, 
+			             fitness or non-infringement. Further, Alliance Atlantis 
+			             does not represent warrant or endorse the accuracy, 
+			             reliability, completeness or timeliness of any information, 
+			             content, views, opinions, recommendations or advertisements 
+			             distributed through or accessed from any of the services 
+			             contained on this web site(s). Alliance Atlantis does 
+			             not represent, warrant or endorse any product, information 
+			             or material that is displayed, purchased or obtained 
+			             by you as a result of an advertisement or any other 
+			             information or offer displayed on Alliance Atlantis 
+			             web site(s) or any hyperlinked websites.<br>
+			             Alliance Atlantis does not warrant that the functions 
+			             contained on its web site(s) or the third party hyperlinked 
+			             websites will be error-free or accessible on an uninterrupted 
+			             basis, that defects will be corrected, including Discussion 
+			             Groups or bulletin boards, or that the server that 
+			             makes the web site(s) available are free of viruses 
+			             or other harmful components.<br>
+			             By visiting this web site(s) you are agreeing to save 
+			             Alliance Atlantis, its subsidiaries, affiliates, successors, 
+			             assigns, agents, officers, directors, employees, representatives 
+			             and licensors harmless from any damages, actions or 
+			             causes of actions that may now or hereinafter arise 
+			             out of your use of the web site(s).</p>
+			           
+            <p><b>D. JURISDICTION</b><br>
+			             Alliance Atlantis is a Canadian company with headquarters 
+			             in Toronto, Ontario, Canada. Consequently, by visiting 
+			             this web site(s) you agree that in all matters relating 
+			             to this web site(s) you shall be governed by the laws 
+			             of the province of Ontario or Canada, as applicable, 
+			             and further, that you submit to the jurisdiction of 
+			             the courts of the province of Ontario.<br>
+			             You may not use this web site(s) if law prohibits 
+			             you from doing so in the country in which you reside.</p>
+			           
+            <p><b>E. SUBMISSIONS</b><br>
+			             Alliance Atlantis does not condone any lewd, defamatory, 
+			             offensive or discriminatory submissions of its users. 
+			             Alliance Atlantis monitors the contents of its chatrooms, 
+			             discussion groups and bulletin boards and reserves 
+			             the right to pull any submissions from the site at 
+			             its sole discretion.<br>
+			             Alliance Atlantis reminds you to check this User Agreement 
+			             from time to time as it may change without notice.<br>
+              <b><br>
+              BY CONTINUING TO USE THE ALLIANCE ATLANTIS WEB SITE(S), YOU ARE 
+              AGREEING TO ABIDE BY ALL THE TERMS AND CONDITIONS SET OUT IN THIS 
+              USER AGREEMENT.</b><br>
+			           </p>
+			         </td>
+			       </tr>
+			     </tbody></table>
+			     </td>
+			   <td valign="top"> 
+			     <!-- Start of Ad -->
+<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td><div align="center" style="border:1px;"><script language="JavaScript">document.write(AAC_Engage_Banner("SITE=FOODTV/AREA=BUTTON1/AAMSZ=120x90",120,90))</script><a href="https://web.archive.org/web/20011216050106/http://alliance.adbureau.net/accipiter/adclick/SITE=FOODTV/AREA=BUTTON1/AAMSZ=120x90/ACC_RANDOM=1580389452545" target="_blank"><img src="https://web.archive.org/web/20011216050106/http://alliance.adbureau.net/accipiter/nserver/SITE=FOODTV/AREA=BUTTON1/AAMSZ=120x90/ACC_RANDOM=1580389452545" border="0" height="90" width="120&quot;"></a></div></td>
   </tr>
-  <tr>
-    <td width="1" bgcolor="#FFFFFF" rowspan="2">&nbsp;</td>
-    <td width="122" rowspan="2" valign="bottom"><a href="../home.htm" name="top"><img border="0" src="../images/food_logo.gif" width="122" height="95"></a><img border="0" src="../images/food_logo_bottom2.gif" width="122" height="35"></td>
-    <td valign="bottom" colspan="2" bgcolor="#FF6600" align="left"><img border="0" src="../images/banners/tester.jpg" width="468" height="64"></td>
-  </tr><tr><td bgcolor="#FFFFFF" align="left" valign="bottom"><img border="0" src="../images/subtitles/privacy_policy.gif" width="271" height="66"></td>
-    <td bgcolor="#FFFFFF">
-      <div align="right"><table border="0" cellpadding="0" cellspacing="0" width="193" background="../images/our_poll_bg.gif" height="100%">
-        <tbody><tr>
-          <td width="100%" valign="top">
-            <center><a href="../feedback.htm"><img border="0" src="../images/foodtv_feedback.gif" width="170" height="50"></a></center></td>
-        </tr>
-      </tbody></table>
-      </div>
-    </td>
+  <tr> 
+    <td><div align="center" style="border:1px;"><script language="JavaScript">document.write(AAC_Engage_Banner("SITE=FOODTV/AREA=BUTTON2/AAMSZ=120x90",120,90))</script><a href="https://web.archive.org/web/20011216050106/http://alliance.adbureau.net/accipiter/adclick/SITE=FOODTV/AREA=BUTTON2/AAMSZ=120x90/ACC_RANDOM=1580389452554" target="_blank"><img src="https://web.archive.org/web/20011216050106/http://alliance.adbureau.net/accipiter/nserver/SITE=FOODTV/AREA=BUTTON2/AAMSZ=120x90/ACC_RANDOM=1580389452554" border="0" height="90" width="120&quot;"></a></div></td>
+  </tr>
+  <tr> 
+     <td align="center"><a href="/feature/default.asp"><img src="/images/ads/giftsoffood_skyscraper.jpg" border="0"></a></td>
   </tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="600">
-	<tbody><tr>
-        <td width="1" bgcolor="#FFFFFF" rowspan="2">&nbsp;</td>
-		<td align="LEFT" valign="TOP" width="111" bgcolor="#FF9900">
-<table border="0" cellpadding="0" cellspacing="0" width="111">
-			<tbody><tr>
-				<td align="LEFT" valign="TOP" width="1" bgcolor="#666600"><img src="/images/forums/spacer.gif" width="1" height="1" alt="" border="0"></td>
-				<td align="LEFT" valign="TOP" width="95" bgcolor="#FFFFCC">&nbsp;</td>
-				<td align="LEFT" valign="TOP" width="1" bgcolor="#FF6600"><img src="/images/forums/spacer.gif" width="1" height="1" alt="" border="0"></td>
-				<td align="LEFT" valign="TOP" width="14" bgcolor="#FFFFFF"><img src="../images/white_spacer.gif" width="14" height="1" alt="" border="0"></td>
-			</tr>
-			<tr>
-				<td align="LEFT" valign="TOP" width="1" bgcolor="#666600"><img src="/images/forums/spacer.gif" width="1" height="1" alt="" border="0"></td>
-				<td align="LEFT" valign="TOP" bgcolor="#FFFFCC"><table border="0" cellspacing="0" cellpadding="0" width="95">
+</div>
+<!-- End of Ad -->
+			   </td>
+			 </tr>
+			</tbody></table>
 
-	 
-		<tbody><tr>
-		
-			
-				
-					<td width="2"></td>
-		
-			
-				
-					<td><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2" color="#CE3100"><a href="../schedule/monday.htm">TV
-                      Schedule</a></font></td>
-		</tr>
-		<tr>
-			<td width="2"></td>
-			<td height="10"></td>
-		 </tr>
-
-	
-	 
-		<tr>
-		
-			
-				
-					<td width="2"></td>
-		
-			
-				
-					<td><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2" color="#CE3100"><a href="../descriptions.htm">Program
-                      Descriptions</a></font></td>
-		</tr>
-		<tr>
-			<td width="2"></td>
-			<td height="10"></td>
-		 </tr>
-
-	
-	 
-		<tr>
-		
-			
-				
-					<td width="2">
-                    </td>
-		
-			
-				
-					<td><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2" color="#CE3100"><a href="../hosts.htm">Celebrity Chefs &amp; Hosts</a></font>
-                    </td>
-		</tr>
-		<tr>
-			<td width="2"></td>
-			<td height="10"></td>
-		 </tr>
-
-	
-	 
-		<tr>
-		
-			
-				
-					<td width="2">
-                    </td>
-		
-			
-				
-					<td>
-                    <font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2" color="#CE3100"><a href="../recipes.htm">Recipes</a></font>
-                    </td>
-		</tr>
-		<tr>
-			<td width="2"></td>
-			<td height="10"></td>
-		 </tr>
-
-	
-	 
-		<tr>
-		
-			
-				
-					<td width="2">
-                    </td>
-		
-			
-				
-					<td><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2" color="#CE3100"><a href="../whats_new.htm">What's
-                      New</a></font>
-                    </td>
-		</tr>
-        <tr>
-			<td width="2"></td>
-			<td height="10"></td>
-        </tr>
-        <tr>
-		
-			
-				
-					<td width="2">
-                    </td>
-		
-			
-				
-					<td><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2" color="#CE3100"><a href="../contact_us.htm">Contact
-                      Us</a></font>
-                    </td>
-        </tr>
-		<tr>
-			<td width="2"></td>
-			<td height="10"></td>
-		 </tr>
-
-	
-	 
-		<tr>
-			<td width="2"></td>
-			<td height="10"><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2" color="#CE3100"><a href="../contests.htm">Contests</a></font></td>
-		 </tr>
-
-	
-	 
-		<tr>
-			<td width="2"></td>
-			<td height="10"></td>
-		 </tr>
-
-	
-	 
-	</tbody></table></td>
-				<td align="LEFT" valign="TOP" width="1" bgcolor="#FF6600"><img src="/images/forums/spacer.gif" width="1" height="1" alt="" border="0"></td>
-				<td align="LEFT" valign="TOP" width="14" bgcolor="#FFFFFF">&nbsp;</td>
-			</tr>
-			<tr>
-				<td colspan="4" bgcolor="#FFFFFF"><img border="0" src="../images/curves_bottom.gif" width="111" height="39"></td>
-			</tr>
-			<tr>
-				<td colspan="4" bgcolor="#FFFFFF">
-                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                    <tbody><tr>
-                      <td width="100%"><a href="http://www.allianceatlantis.com" target="_blank"><img border="0" src="../images/logos/aa_logo2.gif" width="111" height="53"></a></td>
-                    </tr>
-                    <tr>
-                      <td width="100%"><a href="http://www.lifenetwork.ca" target="_blank"><img border="0" src="../images/logos/life_logo2.gif" width="111" height="61"></a></td>
-                    </tr>
-                    <tr>
-                      <td width="100%"><a href="http://www.hgtv.ca" target="_blank"><img border="0" src="../images/logos/hgtv_logo.gif" width="111" height="49"></a></td>
-                    </tr>
-                    <tr>
-                      <td width="100%"><a href="http://www.history.ca" target="_blank"><img border="0" src="../images/logos/history_logo2.gif" width="111" height="41"></a></td>
-                    </tr>
-                    <tr>
-                      <td width="100%"><a href="http://www.showcase.ca" target="_blank"><img border="0" src="../images/logos/showcase_logo2.gif" width="111" height="46"></a></td>
-                    </tr>
-                  </tbody></table>
-                </td>
-			</tr>
+			  </td>
+		   </tr>
 		</tbody></table>
-        </td>
-		<td width="1" bgcolor="#FFFFFF"><img src="/images/forums/spacer_white.gif" width="1" height="1" alt="" border="0"></td>
-		<td align="LEFT" valign="TOP" bgcolor="#FFFFFF">
-          <table border="0" cellpadding="0" cellspacing="0" width="338">
-            <tbody><tr>
-              <td valign="middle"></td>
-              <td align="right" valign="top"><img border="0" src="../images/right_curve_left.gif" width="47" height="33"></td>
-            </tr>
-            <tr>
-              <td valign="top" colspan="2">
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2"><b><br>
-              </b>This is the web site of Food Network Canada Inc. Our postal
-              address is <b> 121 Bloor Street East, Toronto, ON, M4W 3M5.</b></font></p>
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">We
-              can be reached via e-mail at <i><a href="mailto:privacy@foodtv.ca">privacy@foodtv.ca</a></i>
-              or you can reach us by telephone at 416.934.5254.</font></p>
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">For
-              each visitor to our Web page, our Web server automatically
-              recognizes the consumer's domain name and e-mail address (where
-              possible).</font></p>
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">Please
-              note that we collect the domain name, email address and other
-              user-specific information of visitors to this website and use this
-              information for specific purposes which are described below in
-              this policy. By providing us with this information, you are
-              consenting to the collection, disclosure and specific use of this
-              information as described in this policy. You may withdraw this
-              consent at any time by sending us an email at the above address.</font></p>
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">As
-              mentioned, we collect the domain name and e-mail address (where
-              possible) of visitors to our Web page, the e-mail addresses of
-              those who communicate with us via e-mail, as well as aggregate
-              information on what pages consumers access or visit, user-specific
-              information on what pages consumers access or visit, information
-              volunteered by the consumer, such as survey information and/or
-              site registrations.</font></p>
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">The
-              information we collect is used to improve the content of our Web
-              page, used to customize the content and/or layout of our page for
-              each individual visitor, used to notify consumers about updates to
-              our Web site, used by us to contact consumers for marketing
-              purposes.</font></p>
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">With
-              respect to cookies: Cookies are used in a responsible manner to
-              help our visitors. We use cookies to store visitors preferences,
-              record session information, such as items that consumers add to
-              their shopping cart, record user-specific information on what
-              pages users access or visit, alert visitors to new areas that we
-              think might be of interest to them when they return to our site,
-              record past activity at a site in order to provide better service
-              when visitors return to our site, to help rotate banner
-              advertising, so to ensure that visitors are not repeatedly sent
-              the same banner ads, customize Web page content based on visitors'
-              browser type or other information that the visitor sends. We do
-              not collect or use this information from cookies to develop a
-              profile about our users.</font></p>
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">If
-              you do not want to receive e-mail from us in the future, please
-              let us know by sending us an e-mail at the above address.</font></p>
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">From
-              time to time, we make the e-mail addresses of those who access our
-              site available to other reputable organizations whose products or
-              services we think you might find interesting. If you do not want
-              us to share your e-mail address with other companies or
-              organizations, please let us know by sending us an e-mail at the
-              above address. If you supply us with your postal address on-line
-              you may receive periodic mailings from us with information on new
-              products and services or upcoming events.</font></p>
-              <p><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2">This
-              site, Food Network Canada Inc., uses the services of Engage for
-              the serving and/or targeting of ads, promotions and other
-              marketing messages. To do this, Engage collects anonymous data
-              through the use of cookies. To learn more about Engage, including
-              your ability to opt out of the Engage system, go to <a href="http://www.engage.com/privacy/" target="_blank">http://www.engage.com/privacy/</a>.</font></p>
-              <p>&nbsp;</p>
-              </td>
-            </tr>
-            <tr>
-              <td valign="top" colspan="2">
-                <p align="right"></p></td>
-            </tr>
-            <tr>
-              <td valign="top" colspan="2"></td>
-            </tr>
-          </tbody></table>
-        </td>
-		<td align="LEFT" valign="TOP" width="142" bgcolor="#FF6600">
-          <table border="0" cellpadding="0" cellspacing="0" width="146">
-            <tbody><tr>
-              <td width="100%" colspan="2"><img border="0" src="../images/right_curve_right.gif" width="146" height="33"></td>
-            </tr>
-            <tr>
-              <td width="100%" colspan="2"><p align="center"><a href="../shows/shows_emeril_live.htm"><img border="0" src="../images/shows/prom_ani/gif_b.gif" width="120" height="60"></a></p></td>
-            </tr>
-            <tr>
-              <td width="100%" colspan="2"><img border="0" src="../images/hr_rule.gif" width="146" height="15"></td>
-            </tr>
-            <tr>
-              <td width="100%" colspan="2"><img border="0" src="../images/search_contents.gif" width="89" height="35"></td>
-            </tr>
-            <tr>
-              <td width="16" valign="top">
-                <p align="center"><img border="0" src="../images/bullet.gif" width="16" height="12"></p></td>
-              <td width="130" valign="top"><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2" color="#FFFF99"><a style="color: #FFFF99" href="terms.htm">Terms
-                of Use</a></font></td>
-            </tr>
-            <tr>
-              <td width="16" valign="top"><img border="0" src="../images/bullet.gif" width="16" height="12"></td>
-              <td width="130"><font face="Trebuchet MS, Arial, Helvetica, sans-serif" size="2" color="#FFFF99"><a style="color: #FFFF99" href="copyright.htm">Copyright</a>&nbsp;</font></td>
-            </tr>
-          </tbody></table>
-        </td>
-							     </tr>
-							   </tbody></table>
+	</td>
+</tr>
+<!--End of Body Table -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="600">
-	<tbody><tr>
-        <td width="1" bgcolor="#FFFFFF" rowspan="2">&nbsp;</td>
-		<td align="LEFT" valign="TOP" width="111" rowspan="2" bgcolor="#FFFFFF">
-<table border="0" cellpadding="0" cellspacing="0" width="111">
-			<tbody><tr>
-				<td align="left" valign="TOP" width="111" bgcolor="#FF9900">&nbsp;</td>
-			</tr>
-		</tbody></table>
-        </td>
-		<td valign="top" align="left"><img border="0" src="../images/line_bottom_orange.gif" width="339" height="16"></td>
-							     </tr>
-	<tr>
-		<td width="482" valign="top" align="left">
-    
-        </td>
-							     </tr>
-	<tr>
-        <td width="600" colspan="3"><font face="Trebuchet MS, Arial" color="#FFFFCC" size="2"><br>
-          <a href="http://www.foodtv.com" style="color: #FFFFCC">FoodTV.Com</a> 
-          | <a href="../home.htm" style="color: #FFFFCC">FoodTV.Ca</a>&nbsp;|  <a style="color: #FFFFCC" href="../schedule/monday.htm">TV
-          Schedule</a>
-          | <a style="color: #FFFFCC" href="../descriptions.htm">Program Descriptions</a>
-          | &nbsp;<a style="color: #FFFFCC" href="../hosts.htm">Celebrity Chefs &amp; Hosts
-          </a><br>
-          <a href="../recipes.htm" style="color: #FFFFCC">Recipes</a>&nbsp;| <a style="color: #FFFFCC" href="../whats_new.htm">What's
-          New</a> | <a href="../contact_us.htm" style="color: #FFFFCC">Contact Us</a> 
-          | <a style="color: #FFFFCC" href="../advertising.htm">Advertising Opportunities</a><a style="color: #FFFFCC">
-          </a>| <a style="color: #FFFFCC" href="../contests.htm">Contests</a><br>
-          <a style="color: #FFFFCC" href="../legal/privacy.htm">Privacy Policy</a> | <a style="color: #FFFFCC" href="../legal/terms.htm">Terms of Use</a> | <a style="color: #FFFFCC" href="../legal/copyright.htm">Copyright</a><br>
-	  Copyright © 2000 Food Network Canada, All Rights Reserved</font></td>
-							     </tr>
-							   </tbody></table>
+<!--Begin of Footer -->
+<tr>
+	<td colspan="2">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	  <tbody><tr> 
+	      <td bgcolor="#CC3300"> 
+			<table border="0" cellspacing="0" cellpadding="0" width="760">
+				<tbody><tr> 
+				  <td colspan="7">
+					
+						<img src="/images/footers/footer-decoration19.gif" width="760" height="49" vspace="0" hspace="0" border="0">
+					
+					</td>
+				</tr>
+				<tr>
+				   <td colspan="7">
+						 <!--Start of Tidbits -->
+ <table width="100%">
+  <tbody><tr> 
+    <td><img src="/images/headers/tidbits.gif" width="72" height="18" vspace="15" hspace="5"></td>
+    <td align="right" valign="top"><img src="/images/misc/dot.gif" width="6" height="6" vspace="15" hspace="5"></td>
+    <td><a href="/feature/default.asp?tidbit=1" class="tidbits">The Evolution 
+      of <br>
+      Christmas Puddings</a></td>
+    <td align="right" valign="top"><img src="/images/misc/dot.gif" width="6" height="6" vspace="15" hspace="5"></td>
+    <td><a href="/feature/default.asp?tidbit=2" class="tidbits">Festive Fare <br>
+      On-the-Fly</a><br>
+    </td>
+    <td align="right" valign="top"><img src="/images/misc/dot.gif" width="6" height="6" vspace="15" hspace="5"></td>
+    <td><a href="/feature/default.asp?tidbit=3" class="tidbits">Cranberry Pear 
+      <br>
+      Chutney</a></td>
+  </tr>
+</tbody></table>
+<!-- End of Tidbits -->
+
+				   </td>
+				 </tr>
+			</tbody></table>
+	      </td>
+	    </tr>
+	    <tr> 
+	      
+	    <td><table border="0" cellspacing="0" cellpadding="0" width="100%">
+	        <tbody><tr> 
+	          <td align="center"><img src="/images/misc/allianceatlantis.gif" width="74" height="30"></td>
+	          <td nowrap="" align="center" valign="top"><br>
+	            <a href="http://www.allianceatlantis.com/sales/" class="footerlinks" target="_blank">Advertising</a>&nbsp;&nbsp;&nbsp; 
+	            | &nbsp;&nbsp;&nbsp;<a href="/contact/privacypolicy.asp" class="footerlinks">Privacy 
+	            Policy</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;<a href="/contact/privacypolicy.asp#terms" class="footerlinks">Terms 
+	            of Use</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;<a href="/contact/privacypolicy.asp#disclaimer" class="footerlinks">Disclaimer</a>&nbsp;&nbsp;|&nbsp; 
+	            &nbsp;<a href="/contact/" class="footerlinks">Contact us</a><br>
+	            <br>
+	          </td>
+	          <form name="changeChannels"></form>
+	            <td align="right"> 
+	              <select class="footerdropdown" name="select" size="1" onchange="if (this.options[this.selectedIndex].value != '#') { window.location=this.options[this.selectedIndex].value }">
+	                <option value="#" selected="">&nbsp;&nbsp;&nbsp;Change Channels</option>
+	                <option value="#">ENTERTAINMENT</option>
+	                <option value="http://www.bbccanada.com">&nbsp;&nbsp;BBC CANADA</option>
+	                <option value="http://www.ifctv.ca">&nbsp;&nbsp;IFC</option>
+	                <option value="http://www.newtvchannels.com">&nbsp;&nbsp;NewTVchannels</option>
+	                <option value="http://www.showcase.ca">&nbsp;&nbsp;Showcase</option>
+	                <option value="http://www.showcase.ca/action/">&nbsp;&nbsp;Showcase 
+	                Action</option>
+	                <option value="http://www.showcase.ca/diva/">&nbsp;&nbsp;Showcase 
+	                Diva</option>
+	                <option value="#">INFORMATION</option>
+	                <option value="http://www.discoveryhealth.ca">&nbsp;&nbsp;Discovery 
+	                Health</option>
+	                <option value="http://www.historytelevision.ca">&nbsp;&nbsp;History 
+	                Television</option>
+	                <option value="http://www.nationalgeographic.ca">&nbsp;&nbsp;National 
+	                Geographic</option>
+	                <option value="#">LIFESTYLES</option>
+	                <option value="http://www.foodtv.ca">&nbsp;&nbsp;Food Network</option>
+	                <option value="http://www.hgtv.ca">&nbsp;&nbsp;HGTV</option>
+	                <option value="http://www.lifenetwork.ca">&nbsp;&nbsp;Life Network</option>
+	              </select>
+	            </td>
+	          
+	        </tr>
+	        <tr> 
+	          <td align="center" valign="top" colspan="3" bgcolor="#999999"><img src="images/misc/blank.gif" width="1" height="1"></td>
+	        </tr>
+	        <tr> 
+	          <td align="center" valign="top" colspan="3" class="copyright">Copyright 
+	            © 2001 Food Network Canada, All Rights Reserved </td>
+	        </tr>
+	      </tbody></table>
+	      </td>
+	    </tr>
+	  </tbody></table>
+	 </td>
+	</tr>
+  </tbody></table>
+
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
 
 
 
-</body></html>
+<!-- End of Footer --></center></body></html>
