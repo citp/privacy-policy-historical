@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203013004id_/http%3A//www.hardcoreware.net/about.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629054825id_/http%3A//www.hardcoreware.net/about.php%23Privacy) for the most accurate reproduction.*
 
 # hardCOREware.net - What makes us tick?
 
   
   
-
-
-[](http://rd1.hitbox.com/rd?acct=WQ500226NGRD28EN0)
-
 |   
-|   
+|  [](http://www.hardcoreware.net/hcwads/adclick.php?bannerid=88&zoneid=11&source=&dest=http%3A%2F%2Fwww.corsairmemory.com%2F)  
   
 ---  
   
@@ -200,24 +196,3 @@ If we decide to change our privacy policy, we will post those changes on our Hom
   
   
 
-
-  
-
-
-**Desmond**  
-[12.01.03] @ 8:45 AM   
-To me and me alone **ECC**  
-[11.30.03] @ 4:00 AM   
-Wootwoot woot new mobo, cpu hdd, ram ect **jmke**  
-[11.28.03] @ 5:38 PM   
-[[link](http://hwfaq.be/)] **jenious**  
-[11.28.03] @ 4:16 PM   
-[[link](http://www.resellerrating.com/)] **inquery**  
-[11.27.03] @ 6:30 PM   
-hey, um... what was that site with the list of computer hardware sites (with ratings)? thanks **Velm**  
-[11.27.03] @ 1:58 PM   
-Please HELP !!! **Velm**  
-[11.27.03] @ 1:57 PM   
-Need ATI Radeon 9200 refreshfix to play CS 100 Hz !!! **Diablo**  
-[11.27.03] @ 10:39 AM   
-ei jus visi angli esat lohi un kropli
