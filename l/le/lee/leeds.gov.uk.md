@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601155902id_/http%3A//www.leeds.gov.uk/pageView.asp%3Fidentifier%3D2002620_264095486%26style%3D%26view%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205183720id_/http%3A//www.leeds.gov.uk/pageView.asp%3Fidentifier%3D2002620_264095486%26style%3D%26view%3D) for the most accurate reproduction.*
 
 # Internet Privacy Statement
 
@@ -90,12 +90,12 @@ Visitor Folder
   
   
   
-|  [Add to Folder](https://web.archive.org/web/20030601155902id_/http%3A//www.leeds.gov.uk/pageView.asp?style=&identifier=2002620_264095486&addInfo=True)  
+|  [Add to Folder](https://web.archive.org/web/20031205183720id_/http%3A//www.leeds.gov.uk/pageView.asp?style=&identifier=2002620_264095486&addInfo=True)  
   
   
   
   
-|  [Print Folder](https://web.archive.org/web/20030601155902id_/http%3A//www.leeds.gov.uk/printInfo.asp)  
+|  [Print Folder](https://web.archive.org/web/20031205183720id_/http%3A//www.leeds.gov.uk/printInfo.asp)  
   
   
   
