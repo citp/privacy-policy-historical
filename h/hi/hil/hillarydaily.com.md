@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hillarydaily.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612093943id_/http%3A//www.emazing.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillarydaily.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208094100id_/http%3A//www.emazing.com/info/privacy.htm) for the most accurate reproduction.*
 
-# EMAZING - Privacy
+# EMAZING - Privacy Policy
 
-|  **THE QUICK SUM-UP**      We will not rent or sell your email address to any permission marketer or spammer. By signing-up for an EMAZING.com service, you will not wind up on any spam list. Guaranteed.
+**THE QUICK SUM-UP**      We will not rent or sell your email address to any permission marketer or spammer. By signing-up for an EMAZING.com service, you will not wind up on any spam list. Guaranteed.
 
      We do not provide advertisers with access to any information that would allow them to target you specifically.
 
-     Our site uses cookies, but for good, not evil. We do not use cookies to target advertising.
+     Our site uses cookies, but for good, not evil.
 
      If you are under 18, you should not enter any contest on our site.
 
@@ -52,31 +52,3 @@ The operator of this site is EMAZING, INC., 620 South Third Street, Louisville, 
 .
 
 If you have questions concerning this policy, or if you would like more information, please send an email to [privacy@emazing.com](mailto:privacy@emazing.com). This policy may change as our site develops and grows, so please re-visit this page as often as you wish.
-
-|   |   |   | **[Business](http://www.emazing.com/business/)  
-**[Biz Buzz](http://www.emazing.com/bizbuzz.htm), [Budget Marketing](http://www.emazing.com/budgetmarketing.htm), [ Careers](http://www.emazing.com/career.htm), [E-Commerce](http://www.emazing.com/ecommerce.htm), [Freelance](http://www.emazing.com/freelance.htm), [IPO](http://www.emazing.com/ipo.htm),  [Travel](http://www.emazing.com/business.htm), [Small Business](http://www.emazing.com/small.htm), [Stock Picks](http://www.emazing.com/epredict.htm), [Stocks](http://www.emazing.com/stock.htm)  
-**  
-[Computers  
-& the Internet](http://www.emazing.com/internet/)  
-**[Downloads](http://www.emazing.com/download.htm), [Linux](http://www.emazing.com/linux.htm), [MacOS](http://www.emazing.com/macos.htm), [MP3](http://www.emazing.com/mp3.htm), [Office 2000](http://www.emazing.com/office.htm), [ Online Shopping](http://www.emazing.com/online.htm), [Outlook 2000](http://www.emazing.com/office.htm),  [Palm OS](http://www.emazing.com/palm.htm), [Video Games](http://www.emazing.com/vidgame.htm), [Web Design](http://www.emazing.com/webdesign.htm), [Web Sites](http://www.emazing.com/web.htm), [Windows 98](http://www.emazing.com/windows.htm)  
-  
-**[Comics& Puzzles  
-](http://www.emazing.com/comics/) **[Adam@Home](http://www.emazing.com/adam.htm), [Cathy](http://www.emazing.com/cathy.htm), [Close to Home](http://www.emazing.com/closetohome.htm), [ Daily Crossword](http://www.emazing.com/crossword.htm), [Doonesbury](http://www.emazing.com/doonesbury.htm), [ FoxTrot](http://www.emazing.com/foxtrot.htm), [Mister Boffo](http://www.emazing.com/mrboffo.htm), [Non Sequitur](http://www.emazing.com/nonsequitur.htm), [Stone Soup](http://www.emazing.com/stonesoup.htm)  
-**  
-[Fun](http://www.emazing.com/fun/)  
-**[Books](http://www.emazing.com/book.htm), [British Trivia](http://www.emazing.com/brittrivia.htm), [CAO Cigars](http://www.emazing.com/caocigar.htm), [CDs](http://www.emazing.com/cd.htm), [Culture Maven](http://www.emazing.com/culturemaven/), [Famous Birthdays](http://www.emazing.com/famousbirth.htm), [Gadgets](http://www.emazing.com/gadget.htm), [Joke](http://www.emazing.com/joke.htm), [Movies](http://www.emazing.com/movie.htm), [Oval Office](http://www.emazing.com/ovaloffice.htm), [ Pop Culture Challenge](http://www.emazing.com/pop.htm), [Quotes (British)](http://www.emazing.com/britquote.htm), [ Science Facts](http://www.emazing.com/science.htm), [Strange But True (British)](http://www.emazing.com/britstrange.htm), [Strange Truths](http://www.emazing.com/stupidtrawl.htm), [ Stupid Quotes](http://www.emazing.com/stupid.htm), [T.V. & Film (British)](http://www.emazing.com/brittv.htm), [Video Games](http://www.emazing.com/vidgame.htm), [Wine](http://www.emazing.com/wine.htm), [ Words](http://www.emazing.com/word.htm) **[Greeting Cards](http://www.emazing.com/greetings/)  
-**[Any Occasion](http://www.emazing.com/greetings/anyoccasion.htm), [Birthday](http://www.emazing.com/greetings/birthday.htm), [Love](http://www.emazing.com/greetings/love.htm), [Holiday](http://www.emazing.com/greetings/christmas.htm), [Exclusives](http://www.emazing.com/greetings/exclusives.htm), [More](http://www.emazing.com/greetings/), ... **[Health](http://www.emazing.com/health/)  
-**[Body Building](http://www.emazing.com/bodybuilding.htm), [Diet](http://www.emazing.com/diet.htm), [eFit](http://www.emazing.com/efit.htm), [For Teens Only](http://www.emazing.com/teensonly.htm), [ Health & Fitness](http://www.emazing.com/health.htm), [ Herbal Remedies](http://www.emazing.com/herbal.htm), [ Homeopathic Health](http://www.emazing.com/homeopathic.htm), [InnerWorkout](http://www.emazing.com/innerwork.htm), [Positive Living](http://www.emazing.com/positiveliving.htm), [Relationships](http://www.emazing.com/relationhell.htm), [Wheelchair](http://www.emazing.com/wheelchair.htm)   
-**  
-[Hobbies](http://www.emazing.com/hobbies/)  
-**[Art](http://www.emazing.com/art.htm), [Bartending](http://www.emazing.com/bartending.htm), [Baseball](http://www.emazing.com/baseball.htm), [Bible Verse](http://www.emazing.com/bible.htm), [Billiards](http://www.emazing.com/billiards.htm), [Chess](http://www.emazing.com/chess.htm), [Fishing](http://www.emazing.com/fish.htm), [Gambling](http://www.emazing.com/gambling.htm), [Genealogy](http://www.emazing.com/genealogy.htm), [Golf](http://www.emazing.com/golf.htm), [Guitar](http://www.emazing.com/guitar.htm), [Horse Racing](http://www.emazing.com/horserace.htm), [Outdoor](http://www.emazing.com/outdoor.htm), [Sewing](http://www.emazing.com/sewing.htm), [ Woodworking](http://www.emazing.com/woodworking.htm) **[Horoscopes](http://www.emazing.com/horoscopes/)**  
-[Aries](http://www.emazing.com/aries.htm), [Taurus](http://www.emazing.com/taurus.htm), [Gemini](http://www.emazing.com/gemini.htm), [Cancer](http://www.emazing.com/cancer.htm),  
-[Leo](http://www.emazing.com/leo.htm), [Virgo](http://www.emazing.com/virgo.htm), [Libra](http://www.emazing.com/libra.htm), [Scorpio](http://www.emazing.com/scorpio.htm), [Sagittarius](http://www.emazing.com/sagittarius.htm), [Capricorn](http://www.emazing.com/capricorn.htm), [Aquarius](http://www.emazing.com/aquarius.htm), [ Pisces](http://www.emazing.com/pisces.htm) **[Household Hints](http://www.emazing.com/household/)  
-**[British Cooking](http://www.emazing.com/britcook.htm), [Cats](http://www.emazing.com/cat.htm), [Cooking](http://www.emazing.com/cooking.htm), [Dogs](http://www.emazing.com/dog.htm), [ Domestic Goddess](http://www.emazing.com/domestic.htm), [ Flower Gardening](http://www.emazing.com/flower.htm), [Holidays](http://www.emazing.com/holiday.htm), [ Home Repair](http://www.emazing.com/home.htm), [Horticulture](http://www.emazing.com/horticulture.htm), [ Interior Design](http://www.emazing.com/interior.htm), [Parenting](http://www.emazing.com/parenting.htm), [Recipes](http://www.emazing.com/recipe.htm),  
-[Tools ](http://www.emazing.com/tool.htm)   
-**  
-[Money](http://www.emazing.com/money/)   
-**[British Finance](http://www.emazing.com/britfinance.htm), [IPO](http://www.emazing.com/ipo.htm), [](http://www.emazing.com/business.htm) [](http://www.emazing.com/business.htm) [Personal Finance](http://www.emazing.com/personal.htm), [Small Business](http://www.emazing.com/small.htm), [Stocks](http://www.emazing.com/stock.htm) **[News](http://www.emazing.com/news/)**  
-[ Daily Standard](http://www.emazing.com/news.htm), [ ](http://www.emazing.com/good.htm)[Politics Daily](http://www.emazing.com/politics.htm), [Racer](http://www.emazing.com/racer.htm), [Weekend](http://www.emazing.com/weekend.htm), [ Weird Daily](http://www.emazing.com/weird.htm) [**Travel**](http://www.emazing.com/travel/) **  
-**[Business](http://www.emazing.com/business.htm), [Leisure](http://www.emazing.com/leisure.htm), [Leisure Travel (British Isles)](http://www.emazing.com/empiretravel.htm), [Incidental Tourist ](http://www.emazing.com/tourist.htm)  
----|---|---|---|---
