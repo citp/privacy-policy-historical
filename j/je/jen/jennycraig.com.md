@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408151512id_/http%3A//www.jennycraig.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205101954id_/http%3A//www.jennycraig.com/corporate/privacy.asp) for the most accurate reproduction.*
 
-# Jenny Craig, International - JennyCraig.com Privacy Policy
+# JennyCraig.com Privacy Policy
 
   [Home Page](https://web.archive.org/) > [Corporate](https://web.archive.org/corporate/) : JennyCraig.com Privacy Policy  
 
