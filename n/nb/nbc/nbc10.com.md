@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc10.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204200647id_/http%3A//www.nbc10.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc10.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603043241id_/http%3A//www.nbc10.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # NBC10.com - News - Online Privacy Statement
 
@@ -74,7 +74,7 @@ We reserve the right to change this policy at any time by posting a revised priv
   
 
 
-[](http://www.nbc10.com/weather/)**NBC 10 WeatherBug**  
+**NBC 10 WeatherBug**  
 Real-time weather conditions direct to your computer!  
   
 [ **Get the Bug Now!**](http://www.weatherbug.com/wcau)
