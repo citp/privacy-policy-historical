@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the inthe80s.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211132827id_/http%3A//www.inthe80s.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthe80s.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608205704id_/http%3A//www.inthe80s.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for InThe80s.Com
 
-|  |   
----|---|---  
-  
 ## Overview
 
 InThe80s.Com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
@@ -37,4 +34,4 @@ As the mailing list is hosted by an outside firm, we can not vouch for the priva
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact ChuckyG InThe80s.Com [chuck@worcestermass.com](mailto:chuck@worcestermass.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact ChuckyG InThe80s.Com [chuck@worcestermass.com](mailto:chuck@worcestermass.com) | 
