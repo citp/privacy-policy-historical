@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402094303id_/http%3A//www.innocentive.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206235246id_/http%3A//www.innocentive.com/privacy_notice.html) for the most accurate reproduction.*
 
 # InnoCentive Website Privacy Notice
 
