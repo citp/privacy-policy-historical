@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gophila.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202080320id_/http%3A//www.gophila.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gophila.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601230604id_/http%3A//gophila.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Greater Philadelphia Tourism Marketing Corporation
 
