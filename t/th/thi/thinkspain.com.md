@@ -1,7 +1,14 @@
-> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610004536id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204200136id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Thinkspain - Privacy Policy
 
+|  |  | Saturday, December 4, 2004 - 21:03 (CEST) |  |  [](https://web.archive.org/search/advancedsearch.asp)  
+---|---|---  
+|  |  |   
+---  
+|  |  | The registered owner of the ThinkSpain.com domain is Grup de Premsa Independent S.L. (hereafter referred to as GPI), company registration number B-96610332, of Calle Salelles 2, 46700 Gandia, Valencia, Spain. Tel +34 96 642 53 12. Email [thinkspain@thinkspain.com](mailto:thinkspain@thinkspain.com)   
+  
+---|---  
 GPI is committed to maintaining your personal details confidential, and has taken the appropriate technical, security and administrative measures to avoid unauthorised access, removal or modification of these details in accordance with the data protection law 15/1999 of December 13 of Spain. 
 
 Where the personal details collected are for a third party (eg. An enquiry about a Property, Car/Bike/Boat, Classified Advert, Personal Contact), GPI will only provide the third party with the information as provided by you and with the sole objective of enabling the advertiser to contact the enquirer. Your information will not be stored by GPI for the purposes of our contacting you.
