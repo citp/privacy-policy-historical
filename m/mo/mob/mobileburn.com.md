@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mobileburn.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210224319id_/http%3A//www.mobileburn.com/document.jsp%3FId%3D458) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileburn.com privacy policy that was archived on 2004-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040917234949id_/http%3A//www.mobileburn.com/story.jsp%3FId%3D458) for the most accurate reproduction.*
 
-# Privacy Policy (MobileBurn)
+# Review: Privacy Policy (MobileBurn)
 
 | 
+
+## Privacy Policy 
 
 ## MobileBurn.com Privacy Statement
 
