@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207070216id_/http%3A//www.hottopic.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630091744id_/http%3A//www.hottopic.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
 
 # Hot Topic Privacy Policy
 
 [](https://web.archive.org/default.asp?LS=0&)  
 ---  
-| [Home](https://web.archive.org/default.asp?LS=0&) |  | Radio |  | [Wish List](https://web.archive.org/wishlist/welcome.asp?LS=0&) |  | [Membership](https://hottopic.com/member/login.asp?LS=0&ret=services%2Fprivacy&retarg=) |  | [Cart](https://web.archive.org/cart/showCart.asp?LS=0&retloc=services%2Fprivacy&retarg=) |  | [Find a Store](https://web.archive.org/storeLoc/store_loc.asp?LS=0&ret=services%2Fprivacy&args=)  
+| [Home](https://web.archive.org/default.asp?LS=0&) |  | Radio |  | [Wish List](https://web.archive.org/wishlist/welcome.asp?LS=0&) |  | [Membership](https://www.hottopic.com/member/login.asp?LS=0&ret=services%2Fprivacy&retarg=) |  | [Cart](https://web.archive.org/cart/showCart.asp?LS=0&retloc=services%2Fprivacy&retarg=) |  | [Find a Store](https://web.archive.org/storeLoc/store_loc.asp?LS=0&ret=services%2Fprivacy&args=)  
 ---|---|---|---|---|---|---|---|---|---|---  
 | | |   
 |  |  |   
@@ -17,15 +17,15 @@
   
 The Internet contains a massive amount of information. Unfortunately, it may also contain personal details about you that you don't want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number, or e-mail address. Also, when you go online, sites you visit may be gathering information about you - without your knowledge.   
   
-Hot Topic Online's policy is to respect and protect the privacy of our users. Hot Topic Online will never willfully disclose individually identifiable information about its customers to any third party without first receiving that customer's permission. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so. 
+Hot Topic Online's policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so.
 
-Hot Topic Online occasionally shares information about our users with advertisers, business partners, sponsors and other third parties. However, in most cases, we talk about our users in aggregate, not as individuals. For example, we will say Hot Topic Online's audience is x percent females, and x percent males. This data is used to customize Hot Topic Online content for our users. 
+  With your permission, the personal information you give us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest.
 
-There are cases where Hot Topic Online may ask you for personal information such as your name or address. We do this when you register for membership or contests/promotions or services that require registration or subscription or when you place an order. 
+  Hot Topic Online also occasionally shares other information about our users with advertisers, business partners, sponsors and other third parties in aggregate, not as individuals. For example, we will say Hot Topic Online's audience is x percent females, and x percent males. This data is used to customize Hot Topic Online content for our users.
 
-Hot Topic Online needs to collect this information for fulfilling prizes, tracking/verifying compliance with federal, state and local laws and/or for editorial and feedback solicitation purposes. When we intend to use personal information, we will tell you up front. 
+  There are cases where Hot Topic Online may ask you for personal information such as your name or address. We do this when you register for membership or contests/promotions or services that require registration or subscription or when you place an order.
 
-This way you can decide whether you want to give us the information or not. For example, we may want to post the names of contest winner's on our site or send you materials via e-mail or regular mail at your request. In case any personal information changes, we will endeavor to provide a way to correct, update or remove the personal data you gave us.   
+  Hot Topic Online needs to collect this information for fulfilling prizes, tracking/verifying compliance with federal, state and local laws and/or for editorial and feedback solicitation purposes. When we intend to use personal information, we will tell you up front. This way you can decide whether you want to give us the information or not. For example, we may want to post the names of contest winner's on our site or send you materials via e-mail or regular mail at your request. In case any personal information changes, we will endeavor to provide a way to correct, update or remove the personal data you gave us.   
   
   
 **Security**  
@@ -37,13 +37,13 @@ As a parent, you have the right to prohibit your child from coming to www.hottop
 
 Please print the form, accept or decline consent, and either mail or fax it back to: 
 
-**Director of E-Commerce, Hot Topic Inc.  
+**Director of E-Commerce, Hot Topic Online  
 On-Line Parental Consent   
 18305 East San Jose Avenue   
 City of Industry, CA 91748   
 (626) 839-4686 Fax 
 
-[Consent form](https://web.archive.org/web/20021207070216id_/http%3A//www.hottopic.com/services/parentalconsent.pdf)
+[Consent form](https://web.archive.org/web/20030630091744id_/http%3A//www.hottopic.com/services/parentalconsent.pdf)
 
 **
 
@@ -63,5 +63,5 @@ We reserve the right at our discretion to make changes to this policy at any tim
 |   
 |   
 |  |  |   
-Copyright Hot Topic ©2002. All rights reserved.  
+Copyright Hot Topic ©2003. All rights reserved.  
  
