@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603000818id_/http%3A//www.brassring.com/en/html/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204091839id_/http%3A//www.brassring.com/en/html/privacy.asp) for the most accurate reproduction.*
 
 # BrassRing: Legal/Privacy Notice
 
@@ -84,3 +84,5 @@ BrassRing committed to protecting the privacy needs of children and we encourage
 
 
 See also: [BrassRing Terms of Use](https://web.archive.org/en/html/terms.asp)
+
+Last updated on: 29 December 2003
