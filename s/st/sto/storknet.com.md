@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storknet.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605224705id_/http%3A//www.storknet.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storknet.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212090916id_/http%3A//www.storknet.com/privacy.htm) for the most accurate reproduction.*
 
 # StorkNet - The Pregnancy and Parenting Online Community
 
@@ -21,7 +21,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 **Cookies**
 
-The StorkNet message boards (at StorkNotes.com) use cookies so you don't have to re-enter your user name and password each time you visit the boards. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Cookies are not executable pieces of code and cannot do anything to your hard drive. They are merely pieces of “text” stored on your computer. They are easy to delete from your hard drive (and it's not a bad idea to do this once in awhile).
+The StorkNet message boards (at StorkNotes.com) use cookies so you don't have to re-enter your user name and password each time you visit the boards. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Cookies are not executable pieces of code and cannot do anything to your hard drive. They are merely pieces of "text" stored on your computer. They are easy to delete from your hard drive (and it's not a bad idea to do this once in awhile).
 
 If you would like to know more about cookies, read the US Government Information Bulletin (I-034) regarding cookie technology at <http://www.ciac.org/ciac/bulletins/i-034.shtml>.
 
@@ -31,7 +31,7 @@ We use an outside advertising company to display some of the ads on our site. Th
 
 **Message Board Registration**
 
-Our Message Boards require registration to post, and the registration form requires users to give us their name and email. Users have the option to make their email address private or public. If a user opts to make their email public, StorkNet is not responsible for any spam or other email received from visitors to our message boards. Our message board software gives users the ability to “opt-out” of administrative mailings regarding the message board. 
+Our Message Boards require registration to post, and the registration form requires users to give us their name and email. Users have the option to make their email address private or public. If a user opts to make their email public, StorkNet is not responsible for any spam or other email received from visitors to our message boards. Our message board software gives users the ability to "opt-out" of administrative mailings regarding the message board. 
 
 **Public Forums**
 
@@ -61,4 +61,4 @@ If a user elects to use our referral service for informing a friend about our si
 
 If you have any questions about this privacy statement or the practices of this site, you may contact:  
 Maribeth Doerr  
-**[sninfo@storknet.com](https://web.archive.org/web/20040605224705id_/http%3A//www.storknet.com/contactus.htm)**
+**[sninfo@storknet.com](https://web.archive.org/web/20041212090916id_/http%3A//www.storknet.com/contactus.htm)**
