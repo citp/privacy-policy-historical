@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divx-digest.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205065724id_/http%3A//www.digital-digest.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx-digest.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206184550id_/http%3A//www.digital-digest.com/policy.html) for the most accurate reproduction.*
 
 # Digital Digest - Privacy Statement
 
@@ -7,6 +7,10 @@
 ####  Information Automatically Logged 
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. We do not use your IP address information for any other purposes nor do we allow others (non-site employees) to access this data. 
+
+####  Statistic Tracking 
+
+"WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm)." 
 
 ####  Advertisers 
 
@@ -31,4 +35,4 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All files are encrypted and not passed on to any person(s) or organization(s). 
 
 Please refer to this page   
-[ DIGITAL DIGEST CONTACTS ](https://web.archive.org/web/20011205065724id_/http%3A//www.digital-digest.com/contacts.html)
+[ DIGITAL DIGEST CONTACTS ](https://web.archive.org/web/20021206184550id_/http%3A//www.digital-digest.com/contacts.html)
