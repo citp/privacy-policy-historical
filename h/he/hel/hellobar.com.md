@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hellobar.com privacy policy that was archived on 2003-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030414162531id_/http%3A//www.hellobar.co.uk/Hello_Bar_membership_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobar.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810114649id_/http%3A//www.hellobar.co.uk/Hello_Bar_membership_privacy_policy.htm) for the most accurate reproduction.*
 
 # Dating Services UK Online Internet Dating Service Introductions
 
-**Privacy Policy**
+**Hello Bar Privacy Policy**
 
-**For us, privacy is what it's all about.**
+**Coming Soon**
 
 **1\. Information Collected**  
 When you register as a member and set up a profile certain information is required. This includes personally identifiable information such as your name and email address. This information is stored on our systems, but NO personally identifiable information is ever displayed in your public profile or included in any communication between members sent via the site.
