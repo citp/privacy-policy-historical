@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602172245id_/http%3A//www.wizards.com/company/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211202257id_/http%3A//wizards.com/company/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Wizards' Website Privacy Policy
 
@@ -6,11 +6,7 @@
 
 Wizards of the Coast's website brings you the coolest information about the world of Wizards and provides a firsthand look at some of our games. If you are a parent or guardian and are interested in knowing more about Wizards' policy regarding the online collection of information from children, we recommend reviewing the Note To Parents below.
 
-This Privacy Statement and the certification seal located to your right confirms that Wizards, a division of Hasbro, Inc., is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy we have undertaken this privacy initiative and all our website have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB.
-
-ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers' online privacy and make the Internet a secure, reliable, and private place to share information and conduct business. ESRB Privacy Online promotes and enforces established principles and guidelines for fair information practices that include requirements of full disclosure, notice, and informed consent.
-
-Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of: 
+In our privacy statement, you will find:
 
   * What personal information may be collected and by what means;
   * Who, if anyone, is collecting your personal information;
@@ -90,7 +86,7 @@ All information that Wizards collects, including information which may be used f
 
 ### Where and how to ask questions or file complaints.
 
-If you have any questions, complaints, or comments regarding our privacy statement, please contact [webmaster@wizards.com](mailto:webmaster@wizards.com). You can also contact ESRB Privacy Online directly at (212) 759-0700 or by regular mail at 845 Third Avenue, New York, NY 10022. Address all ESRB Privacy Online correspondence to Marc E. Szafran, General Counsel.
+If you have any questions, complaints, or comments regarding our privacy statement, please contact [webmaster@wizards.com](mailto:webmaster@wizards.com).
 
 ### NOTE TO PARENTS 
 
