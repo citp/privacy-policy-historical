@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401220758id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2003-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030912172308id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
 
-# GoJobsite UK Privacy statement
+# Jobsite UK Privacy statement
 
 The Protection of Your CV 
 
@@ -50,15 +50,15 @@ If you have any concerns over any application form, please contact us for advice
 General Privacy Statement
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and to gather broad demographic information.  
-Our site uses cookies to keep track of your searches in any single visit. These cookies expire half an hour after you leave the site, and do not allow anyone to access your confidential information. If you are using a shared computer, please ensure that you log out of MyGoJobsite or close down the browser before leaving the computer for the next user.  
+Our site uses cookies to keep track of your searches in any single visit. These cookies expire half an hour after you leave the site, and do not allow anyone to access your confidential information. If you are using a shared computer, please ensure that you log out of MyJobsite or close down the browser before leaving the computer for the next user.  
 Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.  
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.  
-We may use your personal data to contact you from time to time and provide you with marketing information about us or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information please e-mail us at [noinfo@gojobsite.co.uk](mailto:noinfo@gojobsite.co.uk)  
+We may use your personal data to contact you from time to time and provide you with marketing information about us or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information please e-mail us at [noinfo@jobsite.co.uk](mailto:noinfo@jobsite.co.uk)  
 
 
 Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. You can gain access to your GoJobsite account and modify the information stored there by supplying an email address and password. You must ensure that this information is kept secret.  
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. You can gain access to your Jobsite account and modify the information stored there by supplying an email address and password. You must ensure that this information is kept secret.  
 
 
 Children
@@ -70,15 +70,15 @@ Opting out of Jobsite UK (Worldwide) Ltd's services
 
 We allow users to opt-out of having Jobs-by-Email Alerts sent to them at any time, and allows users to hide their CVs both at the time that the CV is placed on the site, and at any time afterwards.  
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.  
-You can send email to [cancel@gojobsite.co.uk](mailto:cancel@gojobsite.co.uk)  
-You can visit the following URL: [http://www.gojobsite.co.uk/cgi-bin/myjobsite.cgi](https://web.archive.org/cgi-bin/myjobsite.cgi)  
+You can send email to [cancel@jobsite.co.uk](mailto:cancel@jobsite.co.uk)  
+You can visit the following URL: [http://www.jobsite.co.uk/cgi-bin/myjobsite.cgi](https://web.archive.org/cgi-bin/myjobsite.cgi)  
 In extreme circumstances, you can call the following telephone number: +44 (0)870 7748500  
 
 
 Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided.  
-Visit [http://www.gojobsite.co.uk/cgi-bin/myjobsite.cgi](https://web.archive.org/cgi-bin/myjobsite.cgi)  
+Visit [http://www.jobsite.co.uk/cgi-bin/myjobsite.cgi](https://web.archive.org/cgi-bin/myjobsite.cgi)  
 
 
 Contacting the Web Site
@@ -90,5 +90,5 @@ Langstone Road
 Havant  
 PO9 1SA
 
-[help@gojobsite.co.uk](mailto:help@gojobsite.co.uk)  
+[help@jobsite.co.uk](mailto:help@jobsite.co.uk)  
  
