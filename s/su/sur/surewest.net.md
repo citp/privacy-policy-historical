@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surewest.net privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212081209id_/http%3A//www.surewest.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surewest.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034009id_/http%3A//www.surewest.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SureWest Communications
 
@@ -6,7 +6,7 @@
 
 **Our commitment to privacy**
 
-The SureWest Communications Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. This privacy policy applies to all SureWest Communications family of companies, including SureWest Communications, SureWest Broadband, SureWest Directories, SureWest Foundation, SureWest Internet, SureWest Wireless, Roseville Long Distance, Roseville Telephone Company and its divisions (Roseville Telephone Company Payphones, Roseville Telephone Museum) and RTC Alarm Monitoring.
+The SureWest Communications Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. This privacy policy applies to all SureWest Communications family of companies, including SureWest Communications, SureWest Broadband, SureWest Directories, SureWest Foundation, SureWest Internet, SureWest Wireless, Roseville Long Distance, Roseville Telephone Company and its divisions (Roseville Telephone Company Payphones, Roseville Telephone Museum).
 
 The policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
