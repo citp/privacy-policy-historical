@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013164410id_/http%3A//www.fordvehicles.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408225743id_/http%3A//fordvehicles.com/help/privacy) for the most accurate reproduction.*
 
-# Ford Vehicles: Help
+# Ford Vehicles: Help - Privacy
 
 **We value your trust**   
 The cornerstone of every relationship is built on trust. When you consider purchasing one of our vehicles and visit our web site to conduct your research, that to us, is the beginning of a relationship. We want you to feel comfortable while you're conducting that research. We want you to feel confident that the information we collect, and that you choose to share, will be treated with care. The first step in helping you to achieve that level of comfort and confidence is by explaining (in plain English) exactly what types of information we collect and why we collect it. It is our sincere hope that by being forthright in this communication of our Privacy Policy that the relationship we establish is a long-lasting one. 
