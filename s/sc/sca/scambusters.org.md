@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603094352id_/http%3A//www.scambusters.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223163644id_/http%3A//www.scambusters.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-** Internet ScamBusters   
-Privacy Policy Statement **   
+  
 
 
 **PRIVACY POLICY**  
@@ -110,11 +109,4 @@ If you want to know more, keep reading.
 
   * By using our Web site, you consent to the collection and use of this information by Lanford Inc. We reserve the right to change our privacy policy at any time. If we make changes that need your consent, we will ask for your consent. If we make changes that don't need your consent (like a change in how to contact us), then we will post these changes on this page. Our goal is that you always should be aware of what information we collect, how we use it, and under what circumstances we disclose it.   [Back to Top] 
 
-  
-  
-  
 
-
-* * *
-
-© Copyright Audri and Jim Lanford All Rights Reserved 
