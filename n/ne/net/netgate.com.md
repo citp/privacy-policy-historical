@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206072849id_/http%3A//www.netgate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211037id_/http%3A//netgate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -11,7 +11,7 @@ Spokane, WA 99210-1680
 We can be reached via:  
 e-mail: sales@netgate.com  
 telephone: 509 280 8999  
-fax: 509 268 2369
+fax: 509 267 2369
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
