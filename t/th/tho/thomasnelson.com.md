@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thomasnelson.com privacy policy that was archived on 2003-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030216124214id_/http%3A//www.thomasnelson.com/consumer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnelson.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204014221id_/http%3A//www.thomasnelson.com/consumer/Privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Thomas Nelson, Inc. Web Site Privacy Statement
 
-Your right to privacy while using the World Wide Web is very important to Thomas Nelson, Inc. (“Thomas Nelson”). Thomas Nelson is committed to helping you maintain control over your personal data while fostering the growth of a more interactive, engaging and personalized Web experience. We respect your right to control how much information you provide about yourself. The following Privacy Policy (“Policy”) describes how we collect, protect and use information we receive from visitors to our web site (“[www.thomasnelson.com](https://web.archive.org/web/20030216124214id_/http%3A//www.thomasnelson.com/consumer/default.asp)”) (the “Site”).  This Policy applies only to information collected through this Site and not to information collected offline.
+Your right to privacy while using the World Wide Web is very important to Thomas Nelson, Inc. (“Thomas Nelson”). Thomas Nelson is committed to helping you maintain control over your personal data while fostering the growth of a more interactive, engaging and personalized Web experience. We respect your right to control how much information you provide about yourself. The following Privacy Policy (“Policy”) describes how we collect, protect and use information we receive from visitors to our web site (“[www.thomasnelson.com](https://web.archive.org/web/20031204014221id_/http%3A//www.thomasnelson.com/consumer/default.asp)”) (the “Site”).  This Policy applies only to information collected through this Site and not to information collected offline.
 
   
 **1.       What Personally Identifiable Information of Is Collected**
