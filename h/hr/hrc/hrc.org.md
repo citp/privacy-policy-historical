@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203065735id_/http%3A//www.hrc.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2003-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030208023625id_/http%3A//www.hrc.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement || Human Rights Campaign
 
