@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605035128id_/http%3A//chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208060948id_/http%3A//chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
 
 # Chicagobusiness.com
 
