@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesonline.co.uk privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623084718id_/http%3A//www.nidp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesonline.co.uk privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230044805id_/http%3A//www.nidp.com) for the most accurate reproduction.*
 
 # News International Data Protection
 
