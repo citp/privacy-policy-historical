@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photospin.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203121600id_/http%3A//www.photospin.com/about/index.cfm%3Fpid%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photospin.com privacy policy that was archived on 2001-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011006131527id_/http%3A//www.photospin.com/about/index.cfm%3Fpid%3D7) for the most accurate reproduction.*
 
 # PhotoSpin | About - Privacy
 
