@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the autotrader.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204040145id_/http%3A//www.autotrader.com/privacy.jtmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601104458id_/http%3A//www.autotrader.com/privacy.jtmpl%3Fac_afflt%3Dnone) for the most accurate reproduction.*
 
 # AutoTrader.com - Privacy Policy
-
-|  |  | 
 
 AutoTrader respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. If you have questions about this Privacy Policy, please contact us at [info@autotrader.com](https://web.archive.org/help/email.jtmpl?contact_email=info@autotrader.com&ac_afflt=none).
 
@@ -18,7 +16,7 @@ To help us tailor our site to the needs and interests of our visitors, we keep t
 
 Our web server automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. Your IP address does not tell us who you are.
 
-AutoTrader.com uses the services of third parties to serve advertisements that you see on the pages of our site, to target those ads, to serve and target promotions or other marketing messages on this and other sites, and to collect anonymous tracking information called "clickstream" data from this and other web sites that can be aggregated and used for marketing research and similar purposes. These third parties use cookies much as we do, and they collect information directly from our users. If you would like to know more about their information gathering practices and "opt-out" procedures, please see their privacy statements on the DoubleClick ([http://www.privacychoices.org](http://www.privacychoices.org/?ac_afflt=none)) and Engage ([http://www.engage.com/privacy](http://www.engage.com/privacy?ac_afflt=none)) web sites.
+**Data Collected in Connection with Ad Serving and Targeting** AutoTrader.com uses the services of DoubleClick, a leading third-party advertising company, to serve some of the advertisements that you see on the pages of our site, to target those ads, to serve and target promotions or other marketing messages on this and other sites, and to collect, from this and other web sites, anonymous tracking information called "clickstream" data that DoubleClick, AutoTrader.com, and others can use, sometimes in conjunction with similar anonymous information gathered through other websites, for marketing research, for targeting advertising, and for other similar purposes. We also use DoubleClick software to serve our own ads and collect similar information in the process. DoubleClick uses cookies much as we do, and it collects information directly from our users. If you would like to know more about DoubleClick's information gathering practices and "opt-out" procedures, please see the privacy statement on the DoubleClick ([http://www.privacychoices.org](http://www.privacychoices.org/?ac_afflt=none)) website.
 
 When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our web site -- it is usually in the form of aggregated statistics on traffic to various pages within our site. From time to time, AutoTrader.com may share more particularized information on visitors to the site with marketers of auto-related products and services that we believe may be of interest to you. Please indicate on the pages on which we collect information if you'd prefer we not share such information with them. If you wish to change your election or to review or update your profile (or to deactivate your profile completely), send an email to [info@autotrader.com](https://web.archive.org/help/email.jtmpl?contact_email=info@autotrader.com&ac_afflt=none) and the AutoTrader.com staff will make your requested changes for you. After asking Customer Service to make the change for you (or to deactivate your profile), please allow 24 to 48 hours for implementation.
 
@@ -30,4 +28,6 @@ Information gathered by AutoTrader.com on the AutoTrader.com web site is stored 
 
 The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. By visiting AutoTrader.com, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our [Visitor Agreement](https://web.archive.org/visitor.jtmpl?ac_afflt=none).
 
-|  |  |  | 
+  
+|  |   
+---|---|---
