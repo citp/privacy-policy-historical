@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628010450id_/http%3A//fastweb.monster.com/fastweb/content/aboutus/privacy.ptml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217051402id_/http%3A//fastweb.monster.com/fastweb/content/aboutus/privacy.ptml) for the most accurate reproduction.*
 
 # FastWeb: Privacy at FastWeb
 
