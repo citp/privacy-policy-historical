@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024204904id_/http%3A//www.worldvillage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604064715id_/http%3A//www.worldvillage.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
