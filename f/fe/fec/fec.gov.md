@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218073638id_/http%3A//www.fec.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2001-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010617091711id_/http%3A//www.fec.gov/privacy.html) for the most accurate reproduction.*
 
-# About the Federal Election Commission
+# Privacy Statement
 
-The privacy of our customers has always been very important to the Federal Election Commission. We have never required individuals to identify themselves when they come to our offices or contact us by phone. Our concern for your privacy continues in the electronic age. That view underlies our policy, stated below:
+The privacy of our customers has always been very important to the Federal Election Commission. We do not require individuals to identify themselves when they come to our offices or contact us by phone. Our concern for your privacy continues in the electronic age. That view underlies our policy, stated below:
 
   * You do not have to give us personal information merely to visit our site. 
   * We collect detailed information about you (i.e. more than your internet address) like your name, email address, affiliation with a political committee, etc. only if you specifically and knowingly provide it to us. 
   * When we ask you to identify yourself we explain why at the point of collection (e.g. to download recordkeeping software for electronic filing of campaign finance reports). 
-  * Information is collected for statistical purposes and we sometimes perform analyses of user behavior in order to measure customer interest in the various areas of our site. We will disclose this information to third parties only in aggregate form. 
-  * We do not give, sell or transfer any personal information to a third party. 
-  * We do not enable "cookies." (A "cookie" is a file placed on your hard drive by a Web site that allows it to monitor your use of the site, usually without your knowledge.)
+  * Information is collected for statistical purposes and we sometimes perform analyses of user behavior in order to measure customer interest in the various areas of our site. We will disclose this information to third parties only in aggregate form or as may be required by law. 
+  * We do not sell any personal information to a third party. However, information retained by us may be subject to requests under the Freedom of Information Act.
+  * We do not enable "cookies." (A "cookie" is a file placed on your hard drive by a Web site that allows it to monitor your use of the site, usually without your knowledge.)  Note, however, that when you leave our site through links to other sites they may enable cookies or collect information about you that the FEC does not collect or control.
 
 
 
@@ -19,6 +19,8 @@ If you do nothing during your visit but browse through the website, read pages, 
   * The date and time you access our site; 
   * The pages you visit; 
   * Whether you successfully received the document or image file you requested;
+  * The type of browser you are using;
+  * The site from which you linked to our site;
 
 
 
@@ -29,3 +31,7 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 
 We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals, organizations or their visits.
+
+  If you contact us by email we may forward the message to appropriate staff in order to review it and respond if necessary.  We may retain messages for a period of time to ensure responses and we may delete them when action has been completed.
+
+If you use an online form to receive filing software or register for a conference or for other purposes, information you provide may be retained so that information about changes, upgrades, etc. may be provided where appropriate.
