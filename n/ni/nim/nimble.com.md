@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimble.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091113id_/http%3A//nimble.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimble.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606055657id_/http%3A//www.nimble.com/legal/privacy) for the most accurate reproduction.*
 
 # Nimble Technology: Privacy Policy - provides XML data integration software for real-time unified views of database, data warehouse, and unstructured sources. Create enterprise information portals, business intelligence and other applications.
 
