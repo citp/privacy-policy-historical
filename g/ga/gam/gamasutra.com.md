@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamasutra.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203023603id_/http%3A//gamasutra.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamasutra.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623011501id_/http%3A//www.gamasutra.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Gamasutra - Privacy Policy
 
