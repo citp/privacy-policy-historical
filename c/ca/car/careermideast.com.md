@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careermideast.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607045142id_/http%3A//www.careermideast.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careermideast.com privacy policy that was archived on 2004-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040710112229id_/http%3A//www.careermideast.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CareerMidEast - Privacy Policy
 
@@ -45,10 +45,9 @@ Thank you for using CareerMidEast.com.
 |   
   
 ---  
+    Did you Know?  
+  
+  
     Tell a Friend  
   
-  
-    Poll  
-|  |  |  |   
----|---|---|---  
-[About Us](https://web.archive.org/web/20040607045142id_/http%3A//www.careermideast.com/general/aboutUs.aspx)    |    [Contact Us](https://web.archive.org/web/20040607045142id_/http%3A//www.careermideast.com/general/contactus.aspx)    |    [Advertise on CME](mailto:marketing@CareerMidEast.com)    |    [ Privacy Policy](https://web.archive.org/web/20040607045142id_/http%3A//www.careermideast.com/general/PrivacyPolicy.aspx)    |    [ Terms Of Use](https://web.archive.org/web/20040607045142id_/http%3A//www.careermideast.com/general/TermsOfUse.aspx)
+
