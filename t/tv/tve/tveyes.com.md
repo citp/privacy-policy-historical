@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tveyes.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604053902id_/http%3A//www.tveyes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tveyes.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605202518id_/http%3A//www.tveyes.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
