@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickhire.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206015621id_/http%3A//www.quickhire.com/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickhire.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193542id_/http%3A//www.quickhire.com/policies/privacy.php) for the most accurate reproduction.*
 
 # Welcome to QuickHire
 
@@ -17,20 +17,3 @@ This Website takes every precaution to protect users' information. When users su
 The QuickHire Website contains links to other sites. We are not responsible for the privacy practices of other sites. Read the privacy statements of each website that collects identifiable information. 
 
 This privacy statement discloses the privacy practices for QuickHire, Inc. If you have any questions or comments regarding this policy, please [contact us](https://web.archive.org/contact/index.php). 
-
-|  |  |   
----  
-|   
-The Government of the District of Columbia runs the heart of the nation.  
-[**More**  ](https://web.archive.org/stories/index.php?oid=2.1)  
-   
-[See our client list](https://web.archive.org/about/clients.php)  
-   
----  
-| 
-
-**QuickHire can create** different access levels allowing as many people as needed to be part of the hiring review process. 
-
-**QuickHire easily works** with other systems such as background search companies, voice response, HRIS and HRMS. 
-
-**QuickHire eliminates** virtually all time consuming paper handling. It can automatically respond to candidates, track their progress through the hiring process, and archive all records for future use. 
