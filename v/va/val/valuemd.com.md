@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604042826id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202171029id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
 
 # Residency Program Reviews, Foreign Medical Schools, USMLE, Medical Schools, Caribbean Medical Schools, Offshore Medical Schools,CSA,CSE,IMG,IMGs
 
@@ -7,10 +7,10 @@
   
 | **Statistics**  
 ---  
-We have **2468** registered users  
-The newest registered user is **[markglt](https://web.archive.org/web/20030604042826id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=2473&sid=bb0c868503798077c80b5295f1c5d167)**
+We have **6935** registered users  
+The newest registered user is **[ekovkarova](https://web.archive.org/web/20031202171029id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=6940&sid=7e5565fa2d2237d0c9a5ce49bd4e0cea)**
 
-Our users have posted a total of **10636** articles within **2656** topics
+Our users have posted a total of **49489** articles within **10052** topics
 
 Last Updated On: 01/30/2020   
   
@@ -44,18 +44,6 @@ We will take appropriate steps to protect the information you share with us from
 | **Welcome Guest**  
 ---  
   
-The time now is Wed Jun 04, 2003 12:28 am
+The time now is Tue Dec 02, 2003 12:10 pm
 
-All times are GMT - 4 Hours  
-  
-**Who is Online**  
----  
-In total there are **20** users online :: 5 Registered, 2 Hidden and 13 Guests
-
-Registered Users: [emerson24](https://web.archive.org/web/20030604042826id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=2471&sid=bb0c868503798077c80b5295f1c5d167), [**Hanson**](https://web.archive.org/web/20030604042826id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=17&sid=bb0c868503798077c80b5295f1c5d167), [jek2839](https://web.archive.org/web/20030604042826id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=1552&sid=bb0c868503798077c80b5295f1c5d167), [meernat](https://web.archive.org/web/20030604042826id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=2465&sid=bb0c868503798077c80b5295f1c5d167), [microphage](https://web.archive.org/web/20030604042826id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=932&sid=bb0c868503798077c80b5295f1c5d167)
-
-[ [View complete list](https://web.archive.org/web/20030604042826id_/http%3A//www.valuemd.com/viewonline.php?sid=bb0c868503798077c80b5295f1c5d167) ]  
-Most users ever online was **54** on Wed Mar 05, 2003 9:37 am  
-**Tobi** is online waiting to chat with you 24/7!   
-[ Login to join chat ]   
-****
+All times are GMT - 5 Hours
