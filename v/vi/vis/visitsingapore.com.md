@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401211558id_/http%3A//www.stb.com.sg/legal/stb_ps.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810040902id_/http%3A//www.stb.com.sg/legal/stb_ps.stm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -18,6 +18,6 @@
 
 
 
-> **[back to top](https://web.archive.org/web/20030401211558id_/http%3A//www.stb.com.sg/legal/stb_ps.stm#top)**
+> **[back to top](https://web.archive.org/web/20030810040902id_/http%3A//www.stb.com.sg/legal/stb_ps.stm#top)**
 > 
 > [Copyright](http://www.stb.com.sg/legal/index.stm) © 2003 Singapore Tourism Board. All rights reserved.
