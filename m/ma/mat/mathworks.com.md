@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229170614id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406001136id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # The MathWorks - Company - About Us - Policies&Statements
 
@@ -23,9 +23,9 @@ The MathWorks Store uses an order form to collect contact information and paymen
 
 Important Note: The MathWorks Web site contains links to other sites such as universities and other businesses. If you visit one of those sites, please note that we do not control their privacy practices. Therefore, we urge you to learn about their privacy practices before leaving your contact information with them.
 
-**IP addresses and cookies.** We use your IP address to administer our Web site and, occasionally, to help diagnose problems with our server. The MathWorks does not use IP addresses to link to personally identifiable information. We use data collected in web server log files to determine referrer information (whether this URL is on The MathWorks Web site or not), the Internet browser being used, the type of operating system used, and to identify aggregate site navigation trends.
+**IP addresses and cookies.** We use your IP address to administer our Web site and, occasionally, to help diagnose problems with our server. We also use data collected in web server log files to determine other information useful to The MathWorks for its web site analysis needs and to better understand behavior of visitors to its site, such as, but not limited to: your referring URL (whether this URL is on The MathWorks Web site or not), the Internet browser being used, the type of operating system used, and to identify aggregate Web site traffic and navigation trends. We do not link this collected data to personally identifiable information.
 
-When you visit The MathWorks Web site, one or more cookies may be placed on (or read from) your machine if your browser is set to accept cookies. A cookie is a small data file that we transfer to your computer's hard drive through your web browser. These cookies do not store any personal information on your hard drive; they only store a small code that is used solely by our web server. We use cookies to maintain current session data, to gather broad demographic information, and to help analyze Web site traffic. The MathWorks may use such non-personal information for purposes including, but not limited to, market research, and improving the content of our Web site.
+When you visit The MathWorks Web site, one or more cookies may be placed on (or read from) your machine if your browser is set to accept cookies. A cookie is a small data file that we transfer to your computer's hard drive through your web browser. These cookies do not store any personal information on your hard drive; they only store a small code that is used to maintain current session data, to gather broad demographic information, and to help analyze Web site traffic. The MathWorks may use such non-personal information for a variety of purposes including, but not limited to, market research, and improving the content of our Web site.
 
 A cookie may also be used when you enter the Access Login area of the Web site. This cookie pre-populates forms for your convenience, plus it enables you to look up your license information, get quotes, etc. This cookie contains a simple code, which is used solely by our web server every time you enter the Access Login area from your computer.
 
@@ -57,4 +57,4 @@ The MathWorks may make improvements or changes in the information, services, pro
 
 _If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact[webmasters@mathworks.com](mailto:webmasters@mathworks.com)._
 
-Updated 8/12/04
+Updated 1/5/05
