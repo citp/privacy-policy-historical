@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickyeyes.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602154436id_/http%3A//www.stickyeyes.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickyeyes.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217031042id_/http%3A//www.stickyeyes.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Search engine optimisation and online marketing strategy
 
@@ -14,4 +14,5 @@ For visitors to sites that have installed our statistics package, cookies are us
 
 Opt-In E-Mail Lists
 
-Every new subscriber has the option of not receiving site news and special promotional offers by either unchecking the opt-in check-box on the main signup form, or opting out of future mailings by clicking on the 'Opt-Out' link on any e-mail correspondence sent. Once an user opts-out no further e-mails will be sent except for traffic alerts the user sets up and important administrative notices. 
+Every new subscriber has the option of not receiving site news and special promotional offers by either unchecking the opt-in check-box on the main signup form, or opting out of future mailings by clicking on the 'Opt-Out' link on any e-mail correspondence sent. Once an user opts-out no further e-mails will be sent except for traffic alerts the user sets up and important administrative notices.  
+
