@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216214806id_/http%3A//openwave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607204826id_/http%3A//openwave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
