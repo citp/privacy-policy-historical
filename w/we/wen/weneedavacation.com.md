@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the weneedavacation.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011404id_/http%3A//www.weneedavacation.com/Terms.asp%3FEntry%3Dall) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weneedavacation.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605151939id_/http%3A//weneedavacation.com/Terms.asp%3FEntry%3Dall) for the most accurate reproduction.*
 
 # Vacation Rental Information for Vacationers
 
-  |   | 
+  |   
+---  
+  | 
 
 ### Privacy policy and terms of use 
 
