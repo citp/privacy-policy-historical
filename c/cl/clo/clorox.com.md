@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the clorox.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202200944id_/http%3A//clorox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clorox.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605031214id_/http%3A//www.clorox.com/privacy.html) for the most accurate reproduction.*
 
-# Clorox.com | Privacy Policy
+# The Clorox Company | Privacy Policy
 
-**Privacy Policy** The Clorox Company's Web servers collect the domain names of visitors to our Web sites. This information is aggregated to measure number of visits, average time spent on the site, pages viewed, etc. Clorox uses this information to measure the use of our sites and to improve the content of our sites.
+| 
+
+The Clorox Company's Web servers collect the domain names of visitors to our Web sites. This information is aggregated to measure number of visits, average time spent on the site, pages viewed, etc. Clorox uses this information to measure the use of our sites and to improve the content of our sites.
 
 Clorox's Web sites may contain links to other sites, and we make every effort to only link to sites that share our high standards and respect for privacy. However, we are not responsible for the content or the privacy practices employed by other sites.
 
@@ -19,3 +21,5 @@ Please give us your full name, e-mail address and phone number in case we have q
 Clorox does everything it can to keep all information from our online visitors as secure as possible against unauthorized access and use. All information is protected by Clorox's security measures, which are periodically reviewed.
 
 Clorox is committed to the principles of protecting your privacy on the Internet. Our privacy policy follows the Coalition for Advertising Supported Information and Entertainment Goals for Privacy for Marketing on Interactive Media. However, Clorox reserves the right to change, modify, add to or remove portions of this policy at any time. Please check this page periodically for any changes.
+
+| 
