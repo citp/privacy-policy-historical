@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herselfpics.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206193300id_/http%3A//www.herselfpics.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herselfpics.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308070652id_/http%3A//www.herselfpics.com/policy.html) for the most accurate reproduction.*
 
 # Herselfpics.com
 
@@ -17,7 +17,7 @@ Newark ,  Delaware , 19711
 United States   
 Tel : 514-880-6284 
 
-[](https://web.archive.org/web/20041206193300id_/http%3A//www.herselfpics.com/index.html) |  |  |  |  [](https://web.archive.org/web/20041206193300id_/http%3A//www.herselfpics.com/join.html)  
+[](https://web.archive.org/web/20050308070652id_/http%3A//www.herselfpics.com/index.html) |  |  |  |  [](https://web.archive.org/web/20050308070652id_/http%3A//www.herselfpics.com/join.html)  
 ---|---|---|---|---  
   
 © 2004 HERSELFPICS.COM . and may not be copied, altered, or posted without permission - All Rights Reserved 
