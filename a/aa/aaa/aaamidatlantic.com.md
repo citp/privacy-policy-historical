@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003222418id_/http%3A//www.aaamidatlantic.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604075804id_/http%3A//aaamidatlantic.com/about/privacy.asp) for the most accurate reproduction.*
 
 # AAA Mid-Atlantic - Privacy Policy
 
@@ -14,10 +14,10 @@ Philadelphia, PA 19103
 Attn: Marketing Department
 
 We can be reached via e-mail at  
-[Ecustomerservice@midatlantic.aaa.com](mailto:Ecustomerservice@midatlantic.aaa.com)
+[ecustomerservice@aaamidatlantic.com](mailto:ecustomerservice@aaamidatlantic.com)
 
 Or you can reach us by telephone at   
-1-888-859-5161
+1-800-763-9900
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit and information volunteered by the consumer, such as survey information, applications for membership and requests for member services.
 
