@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolspring.com privacy policy that was archived on 2001-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010627122452id_/http%3A//schoolspring.com/privacy.cfm%3F%26CFID%3D503279%26CFTOKEN%3D49617302) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolspring.com privacy policy that was archived on 2001-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011230133626id_/http%3A//schoolspring.com/privacy.cfm%3F%26CFID%3D774263%26CFTOKEN%3D6442630) for the most accurate reproduction.*
 
 # SchoolSpring.com - Privacy Policy
 
