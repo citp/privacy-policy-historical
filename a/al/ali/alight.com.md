@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014013433id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402075329id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -27,3 +27,5 @@ How to unsubscribe from alight.com's mailing list**
   
 Our unsubscribe information and link is offered on every e–mailed newsletter and promotion.   
 You can remove your name from our mailings at any time by sending a request to: [unsubscribe@alight.com](mailto:unsubscribe@alight.com), and typing "unsubscribe" in the subject line.
+
+[](http://www.safeshoppingnetwork.com/detail.cfm?lstId=2411)
