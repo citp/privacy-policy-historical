@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsmyhome.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204042903id_/http%3A//thatsmyhome.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmyhome.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165426id_/http%3A//www.thatsmyhome.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -20,6 +20,6 @@ This site may contain links to other sites. That's My Home is not responsible fo
 
 Contacting this Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: MaryEllen@thatsmyhome.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:[ **Email me**](https://web.archive.org/web/20050403165426id_/http%3A//www.thatsmyhome.com/email.htm)
 
 August 23, 2003
