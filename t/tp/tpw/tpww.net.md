@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607061947id_/http%3A//www.tpww.net/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204202934id_/http%3A//www.tpww.net/misc/privacy.html) for the most accurate reproduction.*
 
 # TPWW.net - Privacy Statement
 
@@ -28,4 +28,5 @@ We do have a forum which allows people to have discussions. All information is o
 
 TPWW staff will never ask for personal information. Children under 13 years of age must have parent's permission. 
 
+  
 [](http://www.webtrendslive.com/redirect.asp?siteID=22493)
