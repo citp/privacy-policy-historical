@@ -1,63 +1,203 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 1999-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/info/privacy.html) for the most accurate reproduction.*
 
 # SMUD privacy statement
 
-    
+Updated on October 5, 2000
 
-Updated on November 30, 1998
+> **Legal Notices  
+>  **Terms of use | Copyright & Service Mark | Disclaimer | Privacy | Accessibility | Contact Web Site
 
-> Privacy Statement for Sacramento Municipal Utility District Web Site
+**TERMS OF USE**
 
-Sacramento Municipal Utility District has created this privacy statement to demonstrate our firm commitment to privacy. This statement complies with existing information and privacy laws and regulations. The following discloses our information gathering and dissemination practices for this site--SMUD.org.
+By using this site, user acknowledges and accepts all terms of use outlined herein. User understands unauthorized attempts to upload or change information on this web site is prohibited under the [ Computer Fraud and Abuse Act of 1986](http://www.scccd.cc.ca.us/pages/use_pol/cfaa1986.html).
 
-Your IP address is used to gather broad demographic information.
+**COPYRIGHT**
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address). Contact information from the order form may be used on occasion to send information about SMUD to our customers. The customer's contact information is also used to get in touch with the visitor when necessary or requested by the visitor. This information will only be used for SMUD purposes and will be treated with the same security precautions as data gathered by other means (i.e., telephone, written forms, mail-in information, etc.). Information will **not** be given to outside entities, such as contractors, direct marketers, or other non-SMUD public or private sector organizations.
+**General**
 
-Our online surveys ask visitors for contact information (like their name, email address, street address, phone number or possibly account-related information). We may on occasion use contact data from our surveys to send the user information about SMUD. The customer's contact information is also used to contact the visitor when necessary.
+The Communication & Advertising Services department of Sacramento Municipal Utility District (SMUD) produces and maintains this web site as a public service. 
 
-We run contests on our site in which we ask visitors for contact information (like their email address).
+Information on this web site is considered public information, but may not be copied or distributed without prior permission except:
 
-**Other Web Sites**
-
-Within SMUD's Web site are links to various other Web sites operated by government or private sectors entities. Information that may be collected by these external Web sites are not subject to the District's privacy rules.
-
-**Opt-Out**
-
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
-
-**Delete/Deactivate**
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-  1. You can send email to _whardy@smud.org_
+  1. where specific information or material is identified as available for distribution;
+  2. where a single copy of the information is downloaded or printed for personal use;
+  3. under "fair use" provisions of applicable law.
 
 
 
-**Change/Modify**
+Use or modification of materials or information for commercial or profit making purposes is not allowed and may violate the copyrights of SMUD or third parties. Use of appropriate credits and proprietary notices are required on any information used for non-commercial and non-profit purposes.
 
-This site gives users the following options for changing and modifying information previously provided.
+**Trademarks & Logo**
 
-  1. _email whardy@smud.org_
+Sacramento Municipal Utility District reserves all rights for these registered service marks: The Power To Do MoreSM, GreenergySM, and Community SolarSM. 
+
+Sacramento Municipal Utility District reserves all rights in use of the District [logo](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/images/logo1.gif)
+
+**Third Party Materials**
+
+Some materials are used in this site by permission from third parties. All third party content is identified. Users wishing to use or modify third party content for any reason should contact the owner directly.
+
+**Infringement**
+
+If you believe any material on this web site infringes a copyright, trademark, or service mark that you own or are authorized to protect, please notify us immediately. Send a "Notice of Infringement" to [whardy@smud.org](mailto:whardy@smud.org) and fax a confirming copy to 1.916.732.7034. [The Digital Millennium Copyright Act, 17 U.S.C. Section 512 ©(3)(A)](http://www.loc.gov/copyright/legislation/dmca.pdf) specifies required information. 
+
+**DISCLAIMER**
+
+**General Disclaimer of Warranties**
+
+By using this web site, you agree that its information, materials and services are provided "as is" without warranty, express or implied, and that you use this site at your own risk. 
+
+You further agree that SMUD and any other parties involved in creating and delivering this site's contents have no liability for direct, indirect, incidental, punitive, or consequential damages with respect to the information, services, content, or advertisements contained on or otherwise accessed through this web site.
+
+SMUD does not endorse any **third party** web site, content, goods, or services. **Links** to third party web sites are provided for information only. SMUD is not responsible for **privacy policies** of third party web sites.
+
+**PRIVACY**
+
+**General Privacy**
+
+SMUD is firmly committed to user privacy. Any information that can be used to identify individual customers is collected only with user permission.This document discloses types of information collected, how information is collected, and addresses the end use of collected information.
+
+**Information that cannot be used to identify individual users**
+
+Collected information includes your internet service provider address, your browser type and plug-ins, pages visited, time of day you logged on, and your computer's operating system. Raw data logs of the web server may be analyzed to determine general audience interests and web site design requirements. 
+
+**Information that can be used to identify individual users**
+
+Sensitive customer information will never be stored on our web server or in [cookies](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/info/cookie.html). Customer information will only be used for SMUD purposes and will be treated with the same security precautions as data gathered by other means (i.e., telephone, written forms, mail-in information, etc.). Information will **not** be given to outside entities, such as contractors, direct marketers, or other non-SMUD public or private sector organizations.
+
+  1. **Registration forms** for Energy & Technology Center classes, sign-up for specific SMUD programs, or requests for specific information may request a user to submit their name, phone number, fax number, street address, e-mail address, account number, or other information that can be used to identify that individual.
+  2. **Customer contests** may require specific information that can be used to identify that individual.
+  3. This site may use **[cookies](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/info/cookie.html)** to deliver personalized content, remember your entries on interactive pages, surveys, or passwords. 
+  4. **E-mail addresses** will only be used to respond to specific customer requests.
 
 
 
-**Contacting the Web Site**
+Users have the opportunity to **opt-out** of receiving communications from SMUD at the point where we request the information. Users may review, modify, or delete their personal information by sending a request to the operator for SMUD's web site: 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
+|  | 
 
-    Wanda Hardy 
-    _whardy@smud.org_
-    Sacramento Municipal Utility District 
-    P.O. Box 15830 
-    Sacramento 
-    CA 95852-1830 
-    916-732-5135 
-    
-    
+> Wanda Hardy  
+>  Sacramento Municipal Utility District  
+>  P.O. Box 15830 MS-B104  
+>  Sacramento, CA 95852-1830  
+  
+---|---  
+  
+Phone:  
+E-mail: 
 
-[SMUD home](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/index.html) | [Information](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/info/index.html) | [Home services](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/home/index.html) | [Business services](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/commerc/index.html) | [Community](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/commun/index.html) | [News](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/info/news.html) | [Online resources](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/library/library.html) | [Search web site](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/search.html) |[ Site map](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/sitemap.html) | [Help](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/help.html) | [Contact](https://web.archive.org/web/19990502061758id_/http%3A//www.smud.org/info/contact.html)
+| 
+
+> 916.732-5135  
+>  [whardy@smud.org ](mailto:whardy@smud.org%20)  
+  
+**Children's Privacy Notice for Parents**
+
+This web site complies with guidelines specified by the [_Children's Online Privacy Rule_](http://www.ftc.gov/ogc/coppa1.htm) which became effective on April 20, 2000. The FTC maintains a special Web page at [www.ftc.gov/kidsprivacy ](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/)with more information for children and parents.
+
+  * Currently, this web site does not collect personal information from children under 13 years of age. 
+
+Students who are 12 and younger may request information or register to attend SMUD's Science on Saturday or Summer Science classes in the Energy & Technology Center by mail.
+
+      
+Sacramento Municipal Utility District  
+Energy & Technology Center  
+
+    P.O. Box 15830, M.S. A226  
+Sacramento, CA 95852-1830  
+
+    **Fax: (916) 732-6229.**
+  * Students 13 years of age and older may request information or register to attend SMUD's Science on Saturday or Summer Science classes in the Energy & Technology Center through [this web site](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/education/classes/summer.html). Collected information may be used to correspond with the student, and may include: 
+
+    * Name
+
+    * Street address 
+
+    * Phone number
+
+    * E-mail address
+
+
+
+
+> > Information may be used by SMUD to insure successful participation in the activity and to track schools participating in SMUD educational programs, and may include:
+
+    * Age
+
+    * Grade level
+
+    * Specifc experience
+
+    * Name of school
+
+
+
+
+>   * Collected information is not stored on the web server. All student information is maintained by:
+
+
+
+
+> | 
+>
+>> Alan Sulieman  
+>  SMUD Energy & Technology Center  
+>  6301 S Street, MS A226  
+>  Sacramento, CA 95817   
+>   
+> ---|---  
+>   
+> Phone:   
+>  E-mail: 
+> 
+> | 
+>
+>> 916.732.6834  
+>  _[asuleim@smud.org](mailto:asuleim@smud.org)_  
+>  
+>> >   * SMUD does not disclose information collected from children to third parties. 
+
+  * Parents can review their child's personal information, ask to have it deleted and refuse to allow any further collection or use of the child's information by contacting SMUD's web site operator: 
+
+
+
+
+> |  Wanda Hardy  
+>  Sacramento Municipal Utility District  
+>  P.O. Box 15830 MS-B104  
+>  Sacramento, CA 95852-1830   
+> ---|---  
+>   
+> Phone:  
+>  E-mail: 
+> 
+> | 
+> 
+> 916.732-5135  
+>  [whardy@smud.org ](mailto:whardy@smud.org%20)  
+  
+> Identity of the requesting parent will be verified by SMUD using your account number by e-mail, phone call, or written letter.
+
+  * [Cookies](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/info/cookie.html) may be used for remembering user input on interactive pages, such as games.
+
+  * 
+
+
+>   
+> 
+
+**Policy Updates**
+
+Changes to SMUD legal notices and web policies will be posted on this page.
+
+**ACCESSIBILITY**
+
+It is intended that all information on this web site be accessible to all visitors. If you use a voice browser you may request a text version of PDF files and the Greenergysm Power Content label. 
+
+Send requests for text files and report other page formatting problems to [whardy@smud.org](mailto:whardy@smud.org).
+
+[SMUD home](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/index.html) | [Information](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/info/index.html) | [Home services](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/home/index.html) | [Business services](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/commerc/index.html) | [Community](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/commun/index.html) | [News](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/info/news.html) | [Online resources](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/library/library.html) | [Search web site](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/search.html) |[ Site map](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/sitemap.html) | [Help](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/help.html) | [Contact](https://web.archive.org/web/20001205181300id_/http%3A//www.smud.org/info/contact.html)
 
 * * *
 
-©1999 Sacramento Municipal Utility District
+©2000 Sacramento Municipal Utility District
