@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westciv.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202154429id_/http%3A//westciv.com/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westciv.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603001429id_/http%3A//westciv.com/policies/privacy_policy.html) for the most accurate reproduction.*
 
 # Westciv: CSS Resources, Software, Learning
 
