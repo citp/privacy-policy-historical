@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204121734id_/http%3A//siliconsolar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204224822id_/http%3A//www.siliconsolar.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,19 +6,7 @@ Search our online catalog for hundreds of solar lights, solar fountains and many
 
 Trusted Service
 
-We have served over 30,000 customers in over 52 countries, providing 24/7 priority support and service. Manufacturing over 1,000 stock and customized solar components, Silicon Solar passes the savings and quality onto our customers.
-
-Silicon Solar
-
-Solar Park
-
-2917 State HW 7 
-
-Bainbridge, NY 13733 USA
-
-Visit Our NEW Showroom
-
-9AM-5PM EST
+We have served over 30,000 customers in over 52 countries, providing 24/7 priority support and service. Manufacturing over 1,000 stock and customized solar components, Silicon Solar passes the savings and quality on to our customers.
 
 | | 
 
