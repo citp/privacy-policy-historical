@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206162800id_/http%3A//www.funology.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409082239id_/http%3A//www.funology.com/privacy.cfm) for the most accurate reproduction.*
 
 # Funology.com -- Privacy Policy
 
-  
-| 
-
-|  |   
-|   
----|---|---  
 | **Privacy Policy**
 
 We want kids to have a good time at Funology.com, learn things, and be safe. We ask for their e-mail addresses to send them information that they request. But we respect our visitors’ privacy. This is why we promise:
@@ -31,6 +25,4 @@ TEL: (703) 502-1321
 E-MAIL: [webmaster@funology.com](mailto:webmaster@funology.com)
 
 |   
-  
-|   
-| 
+
