@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208231621id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305161137id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
 
 # MacNN | Privacy Policy
 
@@ -8,29 +8,29 @@ Popular Daily
 
 Popular WeeklyHot ReviewsMost CommentedTop Stories
 
-[Apple launches iTunes Music Store for Canada](http://www.macnn.com/news.php?id=27128)
+[Apple announces two-for-one stock split](http://www.macnn.com/news.php?id=28036)
 
-[Apple Store offers refurb Power Mac G5s, iMac G5s](http://www.macnn.com/news.php?id=27022)
+[Apple releases Mac OS X 10.3.8 update](http://www.macnn.com/news.php?id=28022)
 
-[London Apple Store to feature 'The Studio'](http://www.macnn.com/news.php?id=26999)
+[Apple debuts faster PowerBooks with new technologies](http://www.macnn.com/news.php?id=27878)
 
-[Apple releases Mac OS X 10.3.6 update](http://www.macnn.com/news.php?id=26869)
+[Apple sells over 250 million iTunes songs](http://www.macnn.com/news.php?id=27812)
 
-[World of Warcraft to hit stores November 23](http://www.macnn.com/news.php?id=26854)
+[Apple launches second Pepsi/iTunes promo](http://www.macnn.com/news.php?id=27743)
 
-[QuarkXPress 6.5 update available for download](http://www.macnn.com/news.php?id=26814)
+[Apple, Pepsi to launch iTunes, iPod mini giveaway](http://www.macnn.com/news.php?id=27717)
 
-[Apple debuts new U2, Photo iPods; expands EuroTunes](http://www.macnn.com/news.php?id=26759)
+[Apple posts $295 million profit on $3.49B](http://www.macnn.com/news.php?id=27643)
 
-[Apple unveils faster iBooks with built-in networking](http://www.macnn.com/news.php?id=26660)
+[Apple offers QuickTime stream of MWSF Keynote](http://www.macnn.com/news.php?id=27610)
 
-[Apple unveils new "mini" retail stores, locations](http://www.macnn.com/news.php?id=26625)
+[Apple unveils iWork '05 with Keynote 2, Pages](http://www.macnn.com/news.php?id=27606)
 
-[Apple earns $106M on highest Q4 revenue in 9 yrs](http://www.macnn.com/news.php?id=26607)
+[Apple unveils Mac mini for $500](http://www.macnn.com/news.php?id=27603)
 
-[Microsoft releases Virtual PC 7 with Windows XP Pro](http://www.macnn.com/news.php?id=26499)
+[Apple unveils flash-based iPod Shuffle](http://www.macnn.com/news.php?id=27602)
 
-[Apple debuts Logic Pro 7, Logic Express 7](http://www.macnn.com/news.php?id=26419)
+[Apple offers refurb iMacs, Power Macs, PowerBooks](http://www.macnn.com/news.php?id=27524)
 
 | 
 
@@ -73,18 +73,28 @@ Popular WeeklyHot ReviewsMost CommentedTop Stories
 |   
 ---  
   
-[OKI Color Printers -- Up to $150 Cash Back:](http://links.industrybrains.com/click?sid=85&pos=1&lid=300153&pr=2&tstamp=20041208180232&url=http://ad.doubleclick.net/clk%3b11905465%3b10490089%3bf%3fhttp://www.okidata.com/mkt/html/nf/C5200n-C5400pcworld.html) OKI is now offering limited time rebates on the most popular digital color printers from its award-winning line. Spectacular color. High-speed printing. Low cost of operation. Learn more....
+[VONAGE: The #1 Broadband Phone Service:](http://links.industrybrains.com/click?sid=85&pos=1&lid=304676&pr=2&tstamp=20050305111308&url=http://clk.atdmt.com/VON/go/ndstrvon0300000519von/direct/01/) Make all your calls over your high-speed Internet and save big on your monthly phone bill. Plans start at just $14.99/month, with loads of FREE features like Voicemail, Caller ID, and 3-Way Calling. Click for more information!
 
-[Vonage: The BROADBAND Phone Company:](http://links.industrybrains.com/click?sid=85&pos=2&lid=304676&pr=2&tstamp=20041208180232&url=http://clk.atdmt.com/VON/go/ndstrvon0070001557von/direct/01/) Vonage is a digital phone service that replaces your current phone company, offering unlimited calls to U.S. and Canada for $24.99 per month
+[24-Hour PowerBook - iBook Repairs & Upgrades: $79:](http://links.industrybrains.com/click?sid=85&pos=2&lid=312150&pr=2&tstamp=20050305111308&url=http://powerbookrestore.com) Overnight service from any location in the U.S with 24-Hour Turnaround time. Don't risk any downtime without your PowerBook or iBook! Screen repair, G4 Hinge Repair, Hard Drive Upgrades, Superdrive upgrades and much more. Visit TechRestore.com
 
-[Custom menus in OSX - Free 15 day trial:](http://links.industrybrains.com/click?sid=85&pos=3&lid=302284&pr=2&tstamp=20041208180232&url=http://www.yousoftware.com/control/%3fkeyword%3dibcontrol_MacNN_HPROS) Turn a corner of your Mac into a one-stop information center. create custom menus in OS X. Control iTunes, get RSS news, weather and stocks , find any file fast. 15 powerful tools for OS X. Free 15 day trial
+[Get 2 Free digital audiobooks from Audible.com!:](http://links.industrybrains.com/click?sid=85&pos=3&lid=315868&pr=2&tstamp=20050305111308&url=http://www.audible.com/industrybrains) With Audible, you can catch up on your reading anytime, anywhere. Join today and get any two digital audiobooks free! Download your audio in minutes and go! Play on your iPod, listen on your computer or burn to CD!
 
-[Digital Media Training with Job Placement:](http://links.industrybrains.com/click?sid=85&pos=4&lid=195365&pr=2&tstamp=20041208180232&url=http://www.videosymphony.com) Go where inside studio pros train. Nationally Accredited School with Video Editing / Motion Graphics courses and job placement.
+[Find IT Careers at Dice:](http://links.industrybrains.com/click?sid=85&pos=4&lid=312589&pr=2&tstamp=20050305111308&url=http://www.dice.com/%3fgcid%3dC14283x001%26KEYWORD%3dIBContent) Search over 50,000 tech positions. Job matches delivered to your inbox
 
-[Powerbook Battery:](http://links.industrybrains.com/click?sid=85&pos=5&lid=273622&pr=2&tstamp=20041208180232&url=http://www.goelectronic.com/store/powerbook_battery.html) Go Electronic has a large selection of Powerbook and iBook replacement batteries at great prices. Orders usually ship same day (on orders placed by 3:00 E.S.T. M-F).
+[Digital Media Training with Job Placement:](http://links.industrybrains.com/click?sid=85&pos=5&lid=195365&pr=2&tstamp=20050305111308&url=http://www.videosymphony.com) Go where inside studio pros train. Nationally Accredited School with Video Editing / Motion Graphics courses and job placement.
 
 **Buy from[The Apple Store](http://macnn.com/rd.php?id=22254), [iTunes.com](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=78941.10000049&type=3&subid=0), [Amazon.com](http://www.amazon.com/exec/obidos/redirect?tag=themacintosnewsn&path=tg/browse/-/172282/),[Buy.com](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=56785.10000928&type=4&subid=0), [TechDepot](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=77822.10000065&type=3&subid=0), [OfficeDepot](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=27778.10000200&type=3&subid=0), [Computers4Sure](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=77819.10000067&type=3&subid=0), or [donate](https://www.paypal.com/xclick/business=donations%40macnn.com&item_name=MacNN+Forums+Support&amount=15.00&no_note=1&tax=0&currency_code=USD).**  
   
+  
+
+
+|   
+---  
+[VONAGE: The #1 Broadband Phone Service](http://links.industrybrains.com/click?sid=85&pos=1&lid=304676&pr=2&tstamp=20050305111309&url=http://clk.atdmt.com/VON/go/ndstrvon0300000519von/direct/01/)  
+Make all your calls over your high-speed Internet and save big on your monthly phone bill. Plans start at just $14.99/month, with loads of FREE features like Voicemail, Caller ID, and 3-Way Calling. Click for more information!
+
+[24-Hour PowerBook - iBook Repairs & Upgrades: $79](http://links.industrybrains.com/click?sid=85&pos=2&lid=312150&pr=2&tstamp=20050305111309&url=http://powerbookrestore.com)  
+Overnight service from any location in the U.S with 24-Hour Turnaround time. Don't risk any downtime without your PowerBook or iBook! Screen repair, G4 Hinge Repair, Hard Drive Upgrades, Superdrive upgrades and much more. Visit TechRestore.com  
   
   
   
