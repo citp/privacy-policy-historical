@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203234512id_/http%3A//www.thesportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606040642id_/http%3A//www.thesportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # The Sports Authority Helpdesk
 
 |   
 | [](https://web.archive.org/helpdesk/index.jsp)
+
+_Updated February 2004_
 
 GSI Commerce Solutions, Inc. has created this Privacy Policy to inform you of the information gathering and dissemination practices for this Web site, www.thesportsauthority.com. Because we want to demonstrate our commitment to your privacy, we want to notify you of:
 
@@ -12,7 +14,7 @@ GSI Commerce Solutions, Inc. has created this Privacy Policy to inform you of th
   3. How the information is used; 
   4. With whom the information may be shared; 
   5. What choices are available to you regarding collection, use and distribution of the information; 
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under GSI Commerce Solutions, Inc.'s control; and 
+  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under Global Sport Interactive's control; and 
   7. How you can correct any inaccuracies in the information. 
 
 
@@ -27,7 +29,9 @@ Subject to the terms and conditions of this Privacy Policy, any communication or
 
 Using Cookies
 
-"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their shopping experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized www.thesportsauthority.com features. Cookies also allow us to hold selections in your shopping cart when you leave our site without checking out. Most browsers accept cookies automatically, but allow you to disable them if you wish.
+"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their shopping experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized www.thesportsauthority.com features. Cookies also allow us to hold selections in your shopping cart when you leave our site without checking out. Most browsers accept cookies automatically, but allow you to disable them if you wish. 
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
 
 External Links/Framed Pages
 
@@ -79,7 +83,7 @@ Our Third Party Relationships   
 
 We have established several relationships with third parties vendors to best serve our customers.
 
-  * **_Retailer:_** GSI Commerce Solutions, Inc. operates this Web site pursuant to agreements with The Sports Authority, Inc. ("The Sports Authority"). Pursuant to such agreements, The Sports Authority is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions, Inc.. Additionally, The Sports Authority may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. The Sports Authority has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions, Inc. hereunder. 
+  * **_Retailer:_** GSI Commerce Solutions operates this Web site pursuant to agreements with The Sports Authority, Inc. ("The Sports Authority"). Pursuant to such agreements, The Sports Authority is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions. Additionally, The Sports Authority may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. The Sports Authority has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions hereunder. 
   * **_Affiliates:_** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to our site from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs. 
   * **_Order Fulfillment:_** Certain vendors of ours provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose. 
   * **_Credit Card Processing:_** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes. 
