@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the dealmac.com privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204213230id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealmac.com privacy policy that was archived on 2004-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605202946id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
+<!-- 10.1.1.11 -->
 <title>dealnews and Your Right to Privacy</title><meta name="description" content="Hardware/software prices, DVDs, gaming and buying information. dealnews serves as a price tracker and consumer advocate.">
 <meta name="keywords" content="Couponing, coupon, online coupons, buying guide, CPU prices, PCs hardware pricing, computers memory, software deals, games, DVDs, CDs, rebates, free stuff, discounts, gaming consoles, CD-RWs, monitors, RAM, hard drives, disks storage, printers, modems, scanners, accelerators, TNT, Voodoo, speakers">
-<meta name="revisit-after" content="2 days">
+
 <link rel="shortcut icon" href="http://dealnews.com/favicon.ico" type="image/x-icon">
 <style>
 body
@@ -210,7 +211,7 @@ form
     border-bottom: 1px solid #C3BEBA;
     font-family: Verdana, Arial, Helvetica;
     font-size: 11px;
-    z-index: 99;
+    z-index: 98;
 
 }
 
@@ -229,7 +230,7 @@ form
 .main-content
 {
 
-    background-color: White;
+    background-color: White; 
 
     padding: 15px;
 
@@ -241,6 +242,33 @@ form
     font-family: Verdana, Arial, Helvetica;
     font-size: 11px;
 }
+
+.main-floating-content
+{
+    position: absolute;
+    z-index: 0; 
+    top: 202px; 
+    padding: 15px;
+    margin-left: 176px;
+    margin-right: 160px;
+
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 11px;
+}
+
+.special-floating-content
+{
+    position: absolute;
+    z-index: 0; 
+    top: 95px; 
+    padding: 15px;
+    margin-left: 0px;
+    margin-right: 160px;
+
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 11px;
+}
+
 
 .find-more
 {
@@ -280,6 +308,12 @@ form
 .premiere-ad
 {
     padding: 10px 5px 10px 5px;
+}
+
+.tile-ad
+{
+    padding: 10px 5px 0px 5px;
+	border-top: 1px solid #C3BEBA;
 }
 
 .basement-premiere-ad
@@ -331,6 +365,11 @@ form
     font-weight: bold;
 }
 
+.art-headline a
+{
+    text-decoration: none;
+}
+
 .view-old-headline
 {
     font-size: 12px;
@@ -345,7 +384,7 @@ form
     margin-bottom: 15px;
 }
 
-.article a:hover
+.article-body a:hover
 {
     background-color: #6666CC;
     color: White;
@@ -487,12 +526,6 @@ form
     margin-bottom: 15px;
 }
 
-.time-article a:hover
-{
-    background-color: #6666CC;
-    color: White;
-}
-
 
 /* stuff added just for headlines.html */
 
@@ -582,7 +615,8 @@ form
 
 .email-to-friend
 {
-    margin: 20px 0px 20px 0px;
+    display:inline;
+    margin: 0px 0px 0px 5px;
 }
 
 .email-to-friend a
@@ -590,6 +624,31 @@ form
     text-decoration: none;
     font-weight: bold;    
     color: #30309A;
+}
+
+.more-deals
+{
+    display:inline;
+    margin: 0px 0px 0px 0px;
+    font-weight: bold;    
+    color: #30309A;
+}
+
+.more-deals a
+{
+    text-decoration: none;
+}
+
+.more-deals-vendor
+{
+    white-space:nowrap;
+    margin: 0px 30px 2px 0px;
+    font-weight: bold;    
+    color: #30309A;
+}
+.more-deals-vendor a
+{
+    text-decoration: none;
 }
 
 .cold-deal-warn
@@ -633,7 +692,36 @@ form
 }
 
 
+.pref-default {
+	font-size: 12px;
+}
 
+
+.pref-float-highlight {
+ background-color: #FEECD2;  
+}
+
+.pref-text-highlight {
+  color: #6666CC; 
+}
+
+div.mark-sect-head
+{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.mark-sect-sub-head
+{
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+div.mark-sect-items
+{
+    padding: 3px 0px 10px 14px;
+}
 
 /**********  PHORUM STYLES  *********************************/
 
@@ -717,8 +805,8 @@ form
 <div class="logo">
 <table cellspacing="0" border="0" width="100%">
 <tbody><tr>
-    <td class="logo-cell" rowspan="2"><a href="http://dealnews.com/"><img class="logo-graphic" src="http://images.dealnews.com/dealnews/redesign_200303/logos/christmas.gif" border="0"></a></td>
-    <td class="update-time-cell" align="right" valign="bottom"><strong>Updated:</strong> Thu, Dec 4, 3:12 pm ET</td>
+    <td class="logo-cell" rowspan="2"><a href="http://dealnews.com/"><img class="logo-graphic" src="http://images.dealnews.com/dealnews/redesign_200303/logos/default.gif" width="200" height="40" border="0"></a></td>
+    <td class="update-time-cell" align="right" valign="bottom"><strong>Updated:</strong> Fri, Jun 4, 4:40 pm ET</td>
 </tr>
 <tr>
     <td align="right" valign="bottom" class="network-link-cell">
@@ -733,13 +821,15 @@ form
 </div>
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="site-nav-block">
-&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://mydealnews.com/">mydealnews</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/tip_entry.html">send a <span class="orange-text">hot tip!</span></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealcoupon.com/">coupons</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://forums.dealnews.com/">forums</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/basement.html">basement</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/advertising/index.html">advertise</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/contact.html">contact us</a></td></tr></tbody></table>
+&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/mydealnews/">my dealnews</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/tip_entry.html">send a <span class="orange-text">hot tip!</span></a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealcoupon.com/">coupons</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://forums.dealnews.com/">forums</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/basement.html">basement</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/advertising/index.html">advertise</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/contact.html">contact us</a></td></tr></tbody></table>
 
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="banner-top-block" height="90"><a href="http://ads.dealnews.com/Ads/click/8/19/2584.html" onmouseover="status='http://store.yahoo.com/cgi-bin/clink?meritline+eAJU5p+samdvdblanme.html'; return true;" onmouseout="status='Done'; return true;"><img src="http://ads.dealnews.com/Ads/8/19/2584.gif?ts=1070573549" width="468" height="60" alt="Click for Meritline!" hspace="0" vspace="0" border="0"></a></td></tr></tbody></table>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="banner-top-block" height="90"><a href="http://ads.dealnews.com/Ads/click/8/587/3024.html" onmouseover="status='http://store.4linkcomm.com/bu128mb3in1m.html'; return true;" onmouseout="status='Done'; return true;"><img src="http://ads.dealnews.com/Ads/8/587/3024.gif?ts=1086467386" width="468" height="60" alt="" hspace="0" vspace="0" border="0"></a></td></tr></tbody></table>
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="sect-nav-block">
 &nbsp;</td></tr></tbody></table>
+
 
 </div>
 <table width="100%" cellspacing="10" cellpadding="0" border="0"><tbody><tr><td class="left-sidebar-td" valign="top"><div class="left-sidebar">
@@ -753,105 +843,78 @@ form
 </form>
 <!-- End Search Block -->
 
-
-<!-- Start Browser Block -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-white">
-<a href="/rss.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/netscape.gif" border="0" width="175" height="19"></a>
-<div class="left-block-text">
-<table border="0" cellspacing="0" cellpadding="0" align="right"><tbody><tr><td>
-<img src="http://images.dealnews.com/dealnews/96percent.gif" border="0">
-</td></tr></tbody></table>
-<strong>While 96% of our audience uses a standards-compliant web browser, you appear not to be using one.</strong>
-<br><br>
-If that's by choice, that's great. But if you're open to a  suggestion, we'd like to recommend that you upgrade to a  standards-compliant browser. It will vastly improve your web-browsing  experience, both on <strong>dealnews</strong> and on many other web sites.
-<br><br>
-Supporting non-standards-compliant browsers makes our pages load more slowly. Also, it takes a lot of effort ... effort that can be used to help the vast majority of our audience.
-<br><br>
-Here is a list of standards-compliant browsers you can download and install for free. Once you download a new browser, please be sure to run the installer to start using your new browser.
-<br><br>
-<table border="0" cellspacing="2" cellpadding="0">
-<tbody><tr>
-  <td width="1%" nowrap="" valign="top">•&nbsp;</td>
-  <td width="99%" valign="top" align="left"><a href="http://microsoft.com/ie/">Internet Explorer 5</a></td>
-</tr>
-<tr>
-  <td width="1%" nowrap="" valign="top">•&nbsp;</td>
-  <td width="99%" valign="top" align="left"><a href="http://ftp.netscape.com/pub/netscape7/english/7.02/windows/win32/">Netscape 7</a></td>
-</tr>
-<tr>
-  <td width="1%" nowrap="" valign="top">•&nbsp;</td>
-  <td width="99%" valign="top" align="left"><a href="http://mozilla.org/releases/">Mozilla</a></td>
-</tr>
-<tr>
-  <td width="1%" nowrap="" valign="top">•&nbsp;</td>
-  <td width="99%" valign="top" align="left"><a href="http://www.opera.com/download/">Opera 7.1 or higher</a></td>
-</tr>
-</tbody></table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
-ESPN.com has a more detailed explanation of how browsers have evolved and why you should consider a switch. Find it <a href="http://espn.go.com/browserupgrade_long.html">here</a>.
-</td></tr></tbody></table>
-</div>
-
-</td></tr></tbody></table>
-<!-- End Browser Block -->
-
-<!-- Start Newsletter Block -->
+<!-- Start Newsletter Block 
 <form action="/newsletter.html" method="post">
-<input type="hidden" name="type" value="sub">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-white">
-<a href="/newsletter.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/newsletter.png" border="0" width="175" height="19"></a>
+<input type="hidden" name="type" value="sub" />
+<a href="/newsletter.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/newsletter_.png" border="0" width="175" height="19" /></a>
 <div class="left-block-text">
-<a href="/newsletter.html"><img style="margin-top: 3px;" align="right" src="http://images.dealnews.com/dealnews/redesign_200303/pcworld.png" width="121" height="32" border="0"></a>
-Enter your email address to get dealnews via email every day at 3pm ET:<br><br>
-email address:<br>
-<input type="text" id="search-text" name="email" size="10"><input type="image" align="top" src="http://images.dealnews.com/dealnews/redesign_200303/buttons/go.png" border="0" width="21" height="20">
+<a href="/newsletter.html"><img style="margin-top: 3px;" align="right" src="http://images.dealnews.com/dealnews/redesign_200303/pcworld.png" width="121" height="32" border="0" /></a>
+Enter your email address to get dealnews via email every day at 3pm ET:<br /><br />
+email address:<br />
+<input type="text" id="search-text" name="email" size="10"><input type="image" align="" src="http://images.dealnews.com/dealnews/redesign_200303/buttons/go.png" border="0" width="21" height="20" />
 </div>
-</td></tr></tbody></table>
 </form>
-<!-- End Newsletter Block -->
+End Newsletter Block -->
+
+<!-- Start my dealnews Block --> 
+<!--<form action="/mydealnews/" method="post">-->
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-white">
+<a href="/mydealnews/"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/mydealnews_light.png" border="0" width="175" height="19"></a>
+<div class="left-block-text">
+		<div>
+      <b>my dealnews</b> emails you bargains based on what you want to buy, manages 
+      newsletters, and sets display preferences. It puts you in control ... 
+      and it's <b>exclusive to dealnews</b>. 
+		</div>
+		<div style="margin-top: 6px;"><a href="/mydealnews/">Sign up now!</a></div>
+		
+		</div>
+</td></tr></tbody></table>
+<!--</form>-->
+<!-- End my dealnews Block -->
+
 
 <!-- Start Reader Picks Block -->
-<a href="/readerpicks.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/toppicks.png" border="0" width="175" height="19"></a>
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-gray">
+<a href="/readerpicks.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/toppicks_dark.png" border="0" width="175" height="19"></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="">
 <div class="left-block-text">
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td class="bullet-list" width="1%" nowrap="" valign="top" align="right">1.&nbsp;</td>
-    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/58984.html">DeepDiscountDVD: 20% off no min</a></td>
+    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/66841.html">IKEA semi-annual sale: up to 50% off</a></td>
   </tr>
   <tr>
     <td class="bullet-list" width="1%" nowrap="" valign="top" align="right">2.&nbsp;</td>
-    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/59102.html">Sony 5.1 home theater speakers for $200</a></td>
+    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/66820.html">CompUSA stores: buy 3 movies, get 3 free</a></td>
   </tr>
   <tr>
     <td class="bullet-list" width="1%" nowrap="" valign="top" align="right">3.&nbsp;</td>
-    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/58738.html">Gigafast 802.11b PC Card or USB adapter for $0</a></td>
+    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/66962.html">Timex watch/MP3 player + digicam for $60</a></td>
   </tr>
   <tr>
     <td class="bullet-list" width="1%" nowrap="" valign="top" align="right">4.&nbsp;</td>
-    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/58736.html">Home Depot stores: 10% off coupon</a></td>
+    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/66839.html">Toshiba Satellite 2.8GHz 15in laptop for $650</a></td>
   </tr>
   <tr>
     <td class="bullet-list" width="1%" nowrap="" valign="top" align="right">5.&nbsp;</td>
-    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/59249.html">Ahanix G20 ATX case for $10</a></td>
+    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/66905.html">remote control flying saucer for $17</a></td>
   </tr>
   <tr>
     <td class="bullet-list" width="1%" nowrap="" valign="top" align="right">6.&nbsp;</td>
-    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/59291.html">Sears.com: 50% off select items</a></td>
+    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/66536.html">HoldEverything.com sale: up to 60% off</a></td>
   </tr>
   <tr>
     <td class="bullet-list" width="1%" nowrap="" valign="top" align="right">7.&nbsp;</td>
-    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/59134.html">Hauppauge WinTV USB TV tuner for $50</a></td>
+    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/66979.html">Mercury ATX case, 300W PS for $0</a></td>
   </tr>
   <tr>
     <td class="bullet-list" width="1%" nowrap="" valign="top" align="right">8.&nbsp;</td>
-    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/59132.html">4x DVD-RW/DVD+RW EIDE for $80</a></td>
+    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/66961.html">Rockport: printable 50% off coupon</a></td>
   </tr>
   <tr>
     <td class="bullet-list" width="1%" nowrap="" valign="top" align="right">9.&nbsp;</td>
-    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/58871.html">radio-controlled cars, trucks for $10</a></td>
+    <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealnews.com/articles/67021.html">Blaupunkt In-Dash CD/GPS receiver for $275</a></td>
   </tr>
 </tbody></table>
 <div class="sidebar-more-link"><a href="/readerpicks.html">more reader picks&nbsp;<img align="top" src="http://images.dealnews.com/dealnews/redesign_200303/markers/orange_caret.png" width="4" height="11" border="0" alt=""></a></div>
@@ -859,9 +922,31 @@ email address:<br>
 </td></tr></tbody></table>
 <!-- End Reader Picks Block -->
 
+	<!-- Start alerts Block -->
+	<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-white">
+	<a href="/mydealnews/alerts/"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/alerts_light.png" border="0" width="175" height="19"></a>
+	<div class="left-block-text">
+    Get an <strong>email alert</strong> when dealnews finds a deal on what 
+    you're looking for. Choose by keyword, category, or vendor. It's 
+    quick and easy. 
+		<div style="margin-top: 6px;"><a href="/mydealnews/alerts/">Set up an alert now!</a></div>
+	</div>
+	</td></tr></tbody></table>
+	<!-- End alerts Block -->
+		<!-- Start newsletter Block -->
+	<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-gray">
+	<a href="/mydealnews/newsletter/"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/newsletter_dark.png" border="0" width="175" height="19"></a>
+	<div class="left-block-text">
+    <a href="/mydealnews/newsletter/"><img style="margin-top: 3px;" align="right" src="http://images.dealnews.com/dealnews/redesign_200303/pcworld.png" width="121" height="32" border="0"></a>
+		Get an email edition of our site every day at 3 pm ET by subscribing to <b>dealnewsletter</b>.
+		<div style="margin-top: 6px;"><a href="/mydealnews/newsletter/">Subscribe now!</a></div>
+	</div>
+	</td></tr></tbody></table>
+	<!-- End newsletter Block -->
+	
 <!-- Start Archive Block -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-white">
-<img src="http://images.dealnews.com/dealnews/redesign_200303/headers/30day.png" border="0" width="175" height="19">
+<img src="http://images.dealnews.com/dealnews/redesign_200303/headers/30day_light.png" border="0" width="175" height="19">
 <div class="left-block-text">
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
@@ -882,7 +967,7 @@ email address:<br>
 </td>
 <td width="2%" valign="top">&nbsp;</td>
 <td width="49%" valign="top">
-<a href="/sections/movies_etc.html">movies</a><br>
+<a href="/sections/movies__music.html">movies</a><br>
 <a href="/sections/toys.html">toys</a><br>
 <a href="/sections/home.html">home</a><br>
 <a href="/sections/clothing.html">clothing</a><br>
@@ -901,9 +986,19 @@ email address:<br>
 </td></tr></tbody></table>
 <!-- End Archive Block -->
 
+<!-- Start Vendors Block -->
+<a href="/readerpicks.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/find_vendor_dark.png" border="0" width="175" height="19"></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="">
+<div class="left-block-text">
+  dealnews publishes deals from <strong>over 1,000 vendors</strong>. Find deals from your favorite vendor.
+  <div class="sidebar-more-link"><a href="/vendors">see all vendors&nbsp;<img align="top" src="http://images.dealnews.com/dealnews/redesign_200303/markers/orange_caret.png" width="4" height="11" border="0" alt=""></a></div>
+</div>
+</td></tr></tbody></table>
+<!-- End Vendors Block -->
+
 <!-- Start RSS Block -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-gray">
-<a href="/rss.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/rssfeed.png" border="0" width="175" height="19"></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-white">
+<a href="/rss.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/rssfeed_light.png" border="0" width="175" height="19"></a>
 <div class="left-block-text">
 Take <strong>dealnews</strong> with you! <a href="/rss.html">dealnews' RSS/XML feeds</a> provide several options for you to place the latest bargains into your own web site, favorite portal, instant messaging client, and more.
 </div>
@@ -911,10 +1006,10 @@ Take <strong>dealnews</strong> with you! <a href="/rss.html">dealnews' RSS/XML f
 <!-- End RSS Block -->
 
 <!-- Start Avantgo Block -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-white">
-<a href="http://dealnews.com/articles/50038.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/handhelds.png" border="0" width="175" height="19"></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="left-block-gray">
+<a href="http://dealnews.com/articles/50038.html"><img src="http://images.dealnews.com/dealnews/redesign_200303/headers/handhelds_dark.png" border="0" width="175" height="19"></a>
 <div class="left-block-text">
-<strong>dealnews</strong> offers AvantGo and WAP support for Palm OS, PocketPC, and next-generation phones. WAP is automatic; <a href="http://dealnews.com/articles/50038.html">click here</a> to find out how to setup an AvantGo channel.
+<strong>dealnews</strong> offers AvantGo and WAP support for Palm OS, PocketPC, and next-generation phones. WAP is automatic; <a href="http://dealnews.com/articles/50038.html">click here</a> to find out how to set up an AvantGo channel.
 </div>
 </td></tr></tbody></table>
 <!-- End Avantgo Block -->
@@ -940,16 +1035,15 @@ by promoting the use of fair information practices.</p>
 
 <p>If users have questions or concerns regarding this statement, they 
 should first contact Daniel de Grandpre via <a href="http://dealnews.com/contact.html?dept=privacy">this online contact form</a> or via 
-postal mail at 6767 Old Madison Pike, Suite 200, Huntsville, AL 
-35806. If they do not receive acknowledgment of their inquiry or 
+postal mail at 1500 Perimeter Parkway, Suite 225, Huntsville, AL 35806. 
+If they do not receive acknowledgment of their inquiry or 
 their inquiry is not satisfactorily addressed, they should then 
 contact TRUSTe through the <a href="http://www.truste.org/watchdog.html">
 TRUSTe Watchdog Dispute Resolution Process</a>. TRUSTe will serve as a 
 liaison with the Web site to resolve user concerns.</p>
 
 <p>The policies below are applicable to dealnews.com, dealmac.com, dealram.com,
-and other sites published by dealnews.com, Inc. (dealnews), 6767 Old Madison
-Pike Suite 200, Huntsville, AL 35806.</p> 
+and other sites published by dealnews.com, Inc. (dealnews), 1500 Perimeter Parkway, Suite 225, Huntsville, AL 35806.</p> 
 TRUSTe coverage extends to dealnews.com and its functional mirrors, 
 dealmac.com and dealram.com.
 
@@ -1102,7 +1196,7 @@ policy under which the information was collected.</p>
 to and do not create any contractual or other legal rights in or on 
 behalf of any party.</p>
 
-<p><font class="minus1">(Last modified 20030730)</font>
+<p><font class="minus1">(Last modified 20040402)</font>
 
 <br><br>
 
@@ -1114,22 +1208,20 @@ behalf of any party.</p>
 <!-- Start Premiere -->
 <div align="center" class="premiere-ad">
 Advertisement
-<a href="http://ads.dealnews.com/Ads/click/10/535/2593.html" onmouseover="status='http://store.yahoo.com/livewarehouse/dvd-r--dvd-rw-drives-atapi---eide.html'; return true;" onmouseout="status='Done'; return true;"><img src="http://ads.dealnews.com/Ads/10/535/2593.jpg?ts=1070573549" width="140" height="300" alt="" hspace="2" vspace="2" border="0"></a></div>
+<a href="http://ads.dealnews.com/Ads/click/10/634/3045.html" onmouseover="status='http://www.softwareandstuff.com/cgi-softwareandstuff/sb/ref.cgi?storeid=*1041b74e9c072c002f27&amp;name=DEALNEWS1'; return true;" onmouseout="status='Done'; return true;"><img src="http://ads.dealnews.com/Ads/10/634/3045.gif?ts=1086467386" width="125" height="300" alt="" hspace="2" vspace="2" border="0"></a></div>
 <!-- End Premiere -->
 
 <!-- Start sidebar exclusive -->
 <img width="160" height="19" src="http://images.dealnews.com/dealnews/redesign_200303/headers/exclusive.png" border="0">
 <div class="right-block-white">
-Other World Computing offers <b>dealmac</b> readers
-its <a href="/artclick.html?58703,80823">OWC
-Mercury 52x/32x/52x CD-RW FW/USB 2.0</a> drive for $119. Coupon
-code "DEAL5232" drops the price to <b>$108.05</b>, the
-best we've seen. The same code also takes $10.95 off the price
-of the <a href="/artclick.html?58703,80824">Lite-On
-52x/32x/52x CD-RW EIDE</a> drive; it costs <b>$57</b> after
-the discount.<div class="sidebar-more-link"><a href="/sections/exclusives.html">more exclusives!&nbsp;<img align="top" src="http://images.dealnews.com/dealnews/redesign_200303/markers/orange_caret.png" border="0" alt=""></a></div>
+MegaMacs.com offers <b>dealmac</b> readers
+the the <a href="/artclick.html?66699,91658">Archos
+FireHD 40GB FireWire</a> 7200 rpm drive for <b>$79.49</b>, the
+lowest price we've seen by $10. Shipping starts around $8.<div class="sidebar-more-link"><a href="/sections/exclusives.html">more exclusives!&nbsp;<img align="top" src="http://images.dealnews.com/dealnews/redesign_200303/markers/orange_caret.png" border="0" alt=""></a></div>
 </div><!-- End sidebar exclusive -->
 
+<!-- Start Tile Ad -->
+<div align="center" class="tile-ad">Advertisement<div style="padding-bottom: 10px;"><a href="http://ads.dealnews.com/Ads/click/26/639/3036.html"><img src="http://ads.dealnews.com/Ads/26/639/3036.gif?ts=1086467386" width="120" height="60" alt="" hspace="2" vspace="2" border="0"></a></div></div><!-- End Tile Ad -->
 
 <!-- Start also on dealmac -->
 <a href="http://dealmac.com/"><img width="160" height="19" src="http://images.dealnews.com/dealnews/redesign_200303/headers/dealmac.png" border="0"></a>
@@ -1137,43 +1229,43 @@ the discount.<div class="sidebar-more-link"><a href="/sections/exclusives.html">
 <table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59340.html">AppleWorks 6 w/FaxSTF X, PCalc2 for $5</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67119.html">Jam 6 upgrade for $90</a><br>
     </td></tr>
   <tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59339.html">FasterMac.net rate cuts</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67118.html">LaCie 8x DVD-RW/DVD+RW FW for $212</a><br>
     </td></tr>
   <tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59338.html">PowerMac G3/266 for $150</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67110.html">Toast Titanium 6 for $68</a><br>
     </td></tr>
   <tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59333.html">AfterLife for $1</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67109.html">iMac G3/400 for $250</a><br>
     </td></tr>
   <tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59332.html">PowerBook G4 SuperDrive upgrade for $299</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67087.html">PowerMac G3/233 DT for $80</a><br>
     </td></tr>
   <tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59330.html">PowerMac G4/500 for $740</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67085.html">SightLight for $27</a><br>
     </td></tr>
   <tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59321.html">PowerBook G4/1GHz 12.1in from $1,349</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67075.html">LaCie 4x DVD-RW/DVD+RW FW for $180</a><br>
     </td></tr>
   <tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59307.html">PowerMac G5/1.6GHz for $1,499</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67074.html">Poser 5 for $170</a><br>
     </td></tr>
   <tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59300.html">Mac G4/1GHz 17in for $1,549</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67073.html">eMac G4/700 for $599</a><br>
     </td></tr>
   <tr>
       <td class="bullet-list" width="1%" nowrap="" valign="top">•&nbsp;</td>
-      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/59303.html">PowerMac G5 bundles at ExperCom</a><br>
+      <td class="bullet-list" width="99%" valign="top" align="left"><a href="http://dealmac.com/articles/67061.html">Incase Soft-Tech Laptop Sleeve for $20</a><br>
     </td></tr>
 </tbody></table>
 <div class="sidebar-more-link"><a href="http://dealmac.com/">more dealmac&nbsp;<img align="top" src="http://images.dealnews.com/dealnews/redesign_200303/markers/orange_caret.png" width="4" height="11" border="0" alt=""></a></div>
@@ -1186,39 +1278,39 @@ the discount.<div class="sidebar-more-link"><a href="/sections/exclusives.html">
 <table border="0" cellspacing="0" cellpadding="0" width="140">
     <tbody><tr>
 <td class="bullet-list" valign="top" align="right">1.&nbsp;</td>
-<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/22468.html">DeepDiscountDVD: 20% off no min</a> (Excludes preorders.)<br>Code: <span class="coupon-code">usatoday</span></td>
+<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/24787.html">Lowe's: 10% off no min</a></td>
 </tr>
     <tr>
 <td class="bullet-list" valign="top" align="right">2.&nbsp;</td>
-<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/22266.html">Home Depot: 10% off no min</a> (Printable for in-store use. Sent via mail.)</td>
+<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/24612.html">Pizza Hut: Printable online coupons</a> (Email address field is optional.)</td>
 </tr>
     <tr>
 <td class="bullet-list" valign="top" align="right">3.&nbsp;</td>
-<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/22481.html">Staples.com: $15 off $150</a><br>Code: <span class="coupon-code">51105</span></td>
+<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/26328.html">Victoria's Secret: $10 off $35 in beauty</a> (Printable. For in-store use only.)</td>
 </tr>
     <tr>
 <td class="bullet-list" valign="top" align="right">4.&nbsp;</td>
-<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/22480.html">Staples.com: $5 off $18</a><br>Code: <span class="coupon-code">93613</span></td>
+<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/13342.html">Computer Geeks: 10% off no min</a> (Not valid with AMEX or Discover card purchases or on items marked as "GEEK Special!")<br>Code: <span class="coupon-code">DEALNEWS</span></td>
 </tr>
     <tr>
 <td class="bullet-list" valign="top" align="right">5.&nbsp;</td>
-<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/22624.html">Overstock.com: $25 off $300</a></td>
-</tr>
-    <tr>
-<td class="bullet-list" valign="top" align="right">6.&nbsp;</td>
 <td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/9515.html">Amazon.com: Free shipping on $25</a></td>
 </tr>
     <tr>
+<td class="bullet-list" valign="top" align="right">6.&nbsp;</td>
+<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/16409.html">Linens 'n Things: 20% off one item</a> (Excludes Krups, Royal Velvet, Nautica, All-Clad, Henckels, Yankee Candles, and Capresso.)<br>Code: <span class="coupon-code">647500000002</span></td>
+</tr>
+    <tr>
 <td class="bullet-list" valign="top" align="right">7.&nbsp;</td>
-<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/22420.html">Overstock.com: $1 shipping no min</a> (Excludes orders of media only.)</td>
+<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/12971.html">BestBuy.com: Free shipping no min</a> (On everything.)</td>
 </tr>
     <tr>
 <td class="bullet-list" valign="top" align="right">8.&nbsp;</td>
-<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/22595.html">PalmOne: 10% off no min</a> (Plus, free shipping.)<br>Code: <span class="coupon-code">PMAG1</span></td>
+<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/20744.html">InkDaddy: 40% off no min</a> (Good on Epson, Canon, Brother, Xerox ink carts.)<br>Code: <span class="coupon-code">daddy40</span></td>
 </tr>
     <tr>
 <td class="bullet-list" valign="top" align="right">9.&nbsp;</td>
-<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/21742.html">Target.com: Free shipping no min</a> (On over 1,000 items.)</td>
+<td class="bullet-list" valign="top"><a href="http://dealcoupon.com/coupons/26745.html">Target.com: 10% off $100</a><br>Code: <span class="coupon-code">TDWELCME22<br>22</span></td>
 </tr>
 </tbody></table>
 <div class="sidebar-more-link"><a href="http://dealcoupon.com/">more coupons&nbsp;<img align="top" src="http://images.dealnews.com/dealnews/redesign_200303/markers/orange_caret.png" width="4" height="11" border="0" alt=""></a></div>
@@ -1228,11 +1320,11 @@ the discount.<div class="sidebar-more-link"><a href="/sections/exclusives.html">
 </div>
 </td>
 </tr></tbody></table>
-<div class="head-foot">
+<div class="head-foot" style="clear: both;">
 <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="site-nav-block">
 &nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/consumer.html">consumer</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/tools.html">tools</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/share.html">share dealnews</a></td></tr></tbody></table>
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="banner-top-block" height="90"><a href="http://ads.dealnews.com/Ads/click/8/19/2584.html" onmouseover="status='http://store.yahoo.com/cgi-bin/clink?meritline+eAJU5p+samdvdblanme.html'; return true;" onmouseout="status='Done'; return true;"><img src="http://ads.dealnews.com/Ads/8/19/2584.gif?ts=1070573549" width="468" height="60" alt="Click for Meritline!" hspace="0" vspace="0" border="0"></a></td></tr></tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="banner-top-block" height="90"><a href="http://ads.dealnews.com/Ads/click/8/587/3024.html" onmouseover="status='http://store.4linkcomm.com/bu128mb3in1m.html'; return true;" onmouseout="status='Done'; return true;"><img src="http://ads.dealnews.com/Ads/8/587/3024.gif?ts=1086467386" width="468" height="60" alt="" hspace="0" vspace="0" border="0"></a></td></tr></tbody></table>
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="site-nav-block">
 &nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/contact.html">contact us</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/advertising/index.html">advertise on dealnews</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/jobs.html">jobs@dealnews</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a class="site-nav-link-bold" href="http://dealnews.com/categories/310.html">sweepstakes winners</a></td></tr></tbody></table>
