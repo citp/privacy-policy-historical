@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstrepublic.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613140024id_/http%3A//firstrepublic.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstrepublic.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211200007id_/http%3A//firstrepublic.com/privacy/index.html) for the most accurate reproduction.*
 
 # First Republic Bank - Privacy Policy
 
