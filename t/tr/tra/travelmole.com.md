@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604112303id_/http%3A//www.travelmole.com/service/help/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205040718id_/http%3A//www.travelmole.com/service/help/help_privacy.html) for the most accurate reproduction.*
 
 # TravelMole - Privacy Policy
 
@@ -20,7 +20,7 @@
 
 
 **Information Collection and Use**  
-We collect information from our users at several different points on the website - this is for customer service and billing purposes, we also collect data from our users so that we can customise the site according to individual selections. TravelMole is the sole owner of the personal information collected from this site. We will not sell, share, or rent this information to others.
+We collect information from our users at several different points on the website - this is for customer service and billing purposes, we also collect data from our users so that we can customise the site according to individual selections. TravelMole is the sole owner of the personal information collected from this site.
 
 **Registration**  
 In order to receive our email alerts, users have to complete a registration form. During registration a user is required to give contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers, but encouraged so we can provide a more personalised experience. 
@@ -29,12 +29,10 @@ In order to receive our email alerts, users have to complete a registration form
 We request information from users on our order forms. Users have to provide contact information (such as name and delivery address) and financial information (such as credit card number and expiry date). This information is used for billing purposes and to fulfill customer orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
 **Cookies**  
-A cookie is a small text file written to a user’s hard drive that contains information about the user. The cookies do not contain any personal information about users. Once the user closes his or her browser, the cookie simply terminates. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site.
-
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+A cookie is a small text file written to a user’s hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
 
 **Log Files**  
-We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
 
 **Links**  
 This web site contains links to other sites. Please be aware that TravelMole is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of these third party sites. This privacy statement applies solely to information collected by this Web site.
