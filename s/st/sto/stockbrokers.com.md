@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockbrokers.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217044800id_/http%3A//www.stockbrokers.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockbrokers.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604130959id_/http%3A//www.stockbrokers.com/privacy.stm) for the most accurate reproduction.*
 
 # Stock Brokers and Investment information
 
