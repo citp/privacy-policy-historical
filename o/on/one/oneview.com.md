@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneview.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205091400id_/http%3A//www.oneview.com/ueberoneview/ueberoneview_privacy.phtml%3Fcgicountry%3Dus%26cgitt%3Dsimple) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneview.com privacy policy that was archived on 2001-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010421100514id_/http%3A//www.oneview.com/ueberoneview/ueberoneview_privacy.phtml%3Fcgicountry%3Dus%26cgitt%3Dsimple) for the most accurate reproduction.*
 
 # Oneview - About Oneview
 
