@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redhat.com privacy policy that was archived on 1999-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991122050152id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhat.com privacy policy that was archived on 2000-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000510062307id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # redhat.com | legal
 
@@ -48,10 +48,10 @@ This site gives you the option for changing and modifying information previously
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Red Hat, Inc. by sending an email to [webmaster@redhat.com](mailto:webmaster@redhat.com).   
 
 
-[Home](https://web.archive.org/index.html)  |  [Products & Services](https://web.archive.org/products/)  |  [Store](https://web.archive.org/commerce/)  |  [Download](https://web.archive.org/download/)  |  [Product Support](https://web.archive.org/support/)  | [Training](https://web.archive.org/products/training.html)  |  [Partners & Programs](https://web.archive.org/partners/)   
-[Community Center](https://web.archive.org/community/)  |  [News & Views](https://web.archive.org/news/)  |  [Application Marketplace](https://web.archive.org/appindex/)  |  [Join](https://web.archive.org/join/)  |  [My Account](https://web.archive.org/cgi-bin/dispatcher/edit_user)   
+[Home](https://web.archive.org/index.html)  |  [Products](https://web.archive.org/products/)  |  [Services](https://web.archive.org/services/)  |  [Store](https://web.archive.org/commerce/)  |  [Download](https://web.archive.org/download/)  |  [Product Support](https://web.archive.org/support/)  | [Training](https://web.archive.org/products/training.html)  |  [Partners & Programs](https://web.archive.org/partners/)   
+[Community Center](https://web.archive.org/community/)  |  [News & Views](https://web.archive.org/news/)  |  [Linux Applications](https://web.archive.org/appindex/)  |  [Join](https://web.archive.org/join/)  |  [My Account](https://web.archive.org/apps/home/account.html)   
 [About Red Hat](https://web.archive.org/about/)  |  [Legal Statement](https://web.archive.org/legal/legal_statement.html)  |  [Privacy Statement](https://web.archive.org/legal/privacy_statement.html)  |  [Y2K Statement](https://web.archive.org/legal/y2k_statement.html)  |  [Feedback](https://web.archive.org/feedback.html)  
 
 
-Copyright © 1999 Red Hat, Inc. All rights reserved.  
+Copyright © 1999, 2000 Red Hat, Inc. All rights reserved.  
 
