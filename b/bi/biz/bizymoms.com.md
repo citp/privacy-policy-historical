@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603234358id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209095642id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
 
 # Bizy Moms.com - Our Privacy Policy - The site for work at home information, ideas, and advice.
 
@@ -28,7 +28,7 @@ _ ** ****
 She can be reached via e-mail at [bizymoms@bizymoms.com](mailto:bizymoms@bizymoms.com)  
 Or you can reach her by telephone at 530-938-2253.
 
-Mailing Address: Bizymoms, 5709 Brook Ln., Weed, CA 96094
+Mailing Address: Bizymoms, 5828 Brook Ln., Weed, CA 96094
 
 Bizymoms shares your concern for privacy online and has implemented the following privacy policy to make you aware of how your visit, and any information you share with us while on our site, is utilized.
 
