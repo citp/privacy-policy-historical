@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ccbg.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610005129id_/http%3A//www.ccbg.com/website/index.cfm%3FpageID%3D72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccbg.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406204120id_/http%3A//ccbg.com/index.cfm%3FpageID%3D72) for the most accurate reproduction.*
 
 # Capital City Bank Group
 
 **An Important Notice About Your Privacy**
 
-At **Capital City Bank Group, Inc**., we are committed to protecting your privacy.  The following policy applies to Capital City Bank Group, Inc. which presently includes Capital City Bank, Capital City Trust Company. Capital City Services Company, and Capital City Securities Company.  Please take a moment to read this information, and feel free to contact us at **1-888-671-0400** if you have any questions regarding our privacy policy.
+At Capital City Bank Group, Inc., we are committed to protecting your privacy.  The following policy applies to Capital City Bank Group, Inc. which presently includes Capital City Bank, Capital City Trust Company and Capital City Services Company. Another subsidiary, Capital City Securities Company, is governed by a separate privacy policy issued by INVEST Financial Corporation under a joint marketing agreement. It provides the same level of consumer and customer privacy and security as does this policy. Please take a moment to read this information, and you may call us at 1-888-671-0400 if you have any questions.
 
 **Information We Collect About You**
 
@@ -14,7 +14,7 @@ We collect nonpublic personal information about you from the following sources: 
 
 Unlike many financial institutions, we do not currently share your information with outside or non-affiliated companies for marketing purposes. If we ever change our policy to allow us to disclose your information to non-affiliated third parties for marketing purposes, we will provide you with advance notice of such change and you will have a reasonable opportunity to opt-out of such information sharing.  Any opt-out election you make in advance will be honored at that time.
 
-Non-public personal information may be revealed to groups or entities outside our company when (1) it is necessary to provide services required to maintain your accounts or complete transactions **** you have initiated or (2) when mandated or permitted by law, or (3) as necessary in the event of a national emergency.
+Non-public personal information may be revealed to groups or entities outside our company when (1) it is necessary to provide services required to maintain your accounts or complete transactions you have initiated or (2) when mandated or permitted by law, or (3) as necessary in the event of a national emergency.
 
 **Sharing of Your Information Within Capital City Bank Group**
 
@@ -26,4 +26,6 @@ Every effort is made to ensure our records of your information are complete and 
 
 **Security of Your Information**
 
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products and services to you.  We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic information. 
+We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products and services to you. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic information.
+
+03/02/2003 Rev.
