@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurogamer.net privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604002452id_/http%3A//eurogamer.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurogamer.net privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029175617id_/http%3A//eurogamer.net/privacy.php) for the most accurate reproduction.*
 
 # EuroGamer - serving you a fresh slice of gaming morning, noon and night
 
