@@ -1,105 +1,99 @@
-> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209162532id_/http%3A//wcbs880.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628024738id_/http%3A//wcbs880.com/privacy) for the most accurate reproduction.*
 
 # WCBS 880: Privacy
 
-Privacy Statement
+WCBS 880 Privacy Policy
 
-_(Updated 07/03/01)_  
-We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to: 
+TABLE OF CONTENTS  
+[*Collection, Use and Disclosure of Personal Information](http://www.wcbs880.com/privacy/local_story_015135809.html#collection)  
+[*Children’s Privacy Policy](http://www.wcbs880.com/privacy/local_story_015135809.html#children)  
+[*Email Policy](http://www.wcbs880.com/privacy/local_story_015135809.html#email)  
+[*E-Commerce Policy](http://www.wcbs880.com/privacy/local_story_015135809.html#commerce)  
+[*Chat Rooms, Message Boards and Public Forums Policy](http://www.wcbs880.com/privacy/local_story_015135809.html#chat)  
+[*Advertising and Other Third-Party Content](http://www.wcbs880.com/privacy/local_story_015135809.html#advertising)  
+[*Hyperlinks to Other Websites](http://www.wcbs880.com/privacy/local_story_015135809.html#hyperlinks)  
+[*Cookies and Image Tags](http://www.wcbs880.com/privacy/local_story_015135809.html#cookies)  
+[*Security Measures](http://www.wcbs880.com/privacy/local_story_015135809.html#security)  
+[*Review, Update and Deletion of Personal Information](http://www.wcbs880.com/privacy/local_story_015135809.html#review)  
+[*Contact Us](http://www.wcbs880.com/privacy/local_story_015135809.html#contact)
 
-**Privacy Coordinator CBS.com (555/13) 524 West 57th Street New York, New York 10019**
+WCBS880.com “Site,” “us” or “we”) is the official website for Radio Station WCBS Newsradio 880 New York, N.Y.(“Station”). This Site is owned and operated by Infinity Broadcasting Corporation (“Owner and Operator”). 
 
-We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion.
+Your privacy is very important to us. Because we gather certain types of personally identifiable information (“Personal Information”) from users of our website, we feel you should know how we use the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags. The Privacy Policy is a part of the Site’s [Terms of Use Agreement](http://wcbs880.com/terms/), which is binding on all users. 
 
-**KINDS OF INFORMATION**
+Unless specified otherwise on the Site, users must be at least 18 years of age and a legal resident of the United States before participation in any activity that requires the submission of Personal Information. By your participation in our Site activities, you certify that you are at least 18 years of age. All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false or fraudulent. 
 
-There are two kinds of information web sites can obtain about you:
+If you do not agree with this Privacy Policy, please do not participate in the Site’s activities or services that require you to provide your Personal Information. (The type of Personal Information is listed below.) Your continued participation indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, maintenance, management and storage of your Personal Information as described below. This Privacy Policy will remain in full force and effect as long as you are a user of the Site. We reserve the right to revise this policy at any time by updating this posting without advance notice to you. Such revisions shall be effective to you as a user of the Site immediately upon posting. Therefore, we encourage you to check this Privacy Policy often. 
 
-**Aggregate Information** : Aggregate Information is anonymous data that web sites use to diagnose problems on the sites’ servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. 
+Collection, Use and Disclosure of Personal Information
 
-**Personally Identifiable Information** : Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing. 
+Generally, you may browse this Site without providing any Personal Information. For certain activities (such as contest and sweepstakes registrations, membership, awards points and loyal listener clubs, nominations for civic or Best Teacher/Coach awards, or registration for chat rooms and message boards) the Personal Information you voluntarily provide may include your first/middle and last name, home address, business address, email address, telephone number, age, birthdate, gender, employer or personal preferences, depending on the activity. Your Personal Information will be used to implement the specific activity or event and will be used for the marketing of additional events, services and merchandising for this Site and WCBS 880.
 
-We collect Aggregate Information – such as your IP address (a number that’s automatically assigned to your computer whenever you’re surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes. None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. 
+We will not sell, exchange, rent, lease or otherwise disclose your Personal Information to other third-party marketers or any such persons that are not associated with the Station as an advertiser, sponsor, or promotional partner (collectively “Advertisers”) unless it is necessary to 1) conform to regulatory and legal requirements or to comply with legal process, 2) to protect the safety and security of our users, employees, or property, 3) to defend the rights of the Site or the Station, or 4) to enforce the Terms of Use Agreement. (Specifics on how we may share your information with Advertisers are explained below.) 
 
-**COOKIES**
+It is necessary that we share your Personal Information with our operational service providers, the specialists that provide internal support to our Site design, development, hosting and operations including maintenance, management, storage and/or fulfillment of our membership and e-mail clubs, various contests, sweepstakes, services, events and online stores. We use operational service providers to efficiently provide the full range of content, activities and membership services we bring to you and we request that our operational service providers also protect your privacy and not disclose your personal information with third-party marketers that are not associated with the Station or website. 
 
-We use cookies to remember your zip code so that you can maintain a customized view of CBS.com showing your city’s CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, chat rooms and contests to limit multiple responses and registrations. 
+Furthermore, we reserve the right to disclose any and all membership and visitor databases collected by the website, in the event that the assets or stock of WCBS 880, its corporate licensee or parent company are sold or transferred to, or merged with a different company or entity, and to contact you at any time regarding the administration of the Site, its various activities and your membership. 
 
-We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not use information transferred through cookies for any promotional or marketing purposes.
+We explain below what our policy is for the collection, use and disclosure of users’ Personal Information for the Site and Advertisers. 
 
-You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+Advertising support allows us to offer, free of charge, many great activities and services to our users such as contests, sweepstakes and special events. Therefore, we may also use your Personal Information for the marketing of events, products or services of our generous Advertisers. There are two ways users may receive such information from Advertisers, either indirectly via newsletters, email or direct mail from the Site, or directly from the Advertiser. We may use one or both methods depending on the activity and the Advertiser. 
 
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. 
+“OPT-IN” clause for current practice of disclosing information to advertisers, sponsors and promotional partners:] When we plan to share your information with Advertisers, you will receive such notice on the Site and/or in the rules of participation (“Rules of Participation”) for the activity or event. However, please be informed that our Advertisers may not have the same privacy policies that we do. Therefore, we will ask you for your consent first to receive marketing information directly from our Advertisers. You will need to check the “Opt-in” click boxes so indicated on the registration area for the particular activity or event, or notify the Site’s Privacy Administrator at [wcbs880@cbs.com](mailto:wcbs880@cbs.com). However, if you do not wish to receive marketing or promotional materials from the Site and/or Station, you will need to tell us so by clicking the “Opt-Out” click boxes so indicated on the registration area for the particular event, or notify the Site’s Privacy Administrator. Please note that this process is different than the one for Advertisers.
 
-**SURVEYS AND REGISTRATION FORMS**
+We reserve the right to monitor and edit any Personal Information about our users, including information about the use of website activities and services and the contents of users’ email and messages for internal purposes and when necessary, to disclose to law enforcement personnel, and/or the employer and/or Internet Service Provider of a user that is not in compliance with the Terms of Use Agreement. We will take such measures if we believe it is necessary to protect the security and operations of this Site. We provide aggregate statistics about our users, traffic patterns and related website information to Advertisers, reputable third-party vendors or marketing companies, but these statistics do not disclose Personal Information about a particular user.
 
-Sometimes we post surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
+Children’s Privacy Policy
 
-  * To send you information about CBS and this Web site
-  * To give to our content partners, who may send you promotional material
-  * To give to our advertisers, who may send you information about their products and services
+Although persons of all ages may visit our Site and participate in activities that do not require the collection of Personal Information, we do not knowingly or intentionally collect Personal Information from children under the age of 13 and will automatically reject and delete the registration or entry of any person we believe in good faith to be underage. Any false or fraudulent registration or entry from a minor will be deemed to be ineligible and will disqualify the minor from the receipt of a prize, benefit or other participation.
 
-The choice is yours – you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
+This Site has may have contests and prizes that could appeal to children. However, we still do not knowingly or intentionally collect personal Information from children. If we unintentionally receive Personal Information from children under the age of 13 in relation to this activity, we will comply with the Children’s Online Privacy Protection Act of 1998 (“COPPA”) and reject and destroy such correspondence. For more information about COPPA, please see the Federal Trade Commission’s website: [www.ftc.gov](http://www.ftc.gov/).
 
-**CONTESTS AND SWEEPSTAKES**
+Email Policy
 
-From time to time we run contests and sweepstakes in which we ask for Personally Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
+We do not generally keep email correspondence, except for those emails that relate to the on-air programs of WCBS Newsradio 880. As required by Federal law, if any part of your email correspondence relates to Station programming, we must place such correspondence in the Station’s FCC Public File, or make the correspondence available via electronic file access at the Station to anyone that requests such information. Therefore, be informed that your Personal Information contained in certain email will be disclosed to the general public. 
 
-  * To notify you if you are a winner
-  * To send you information about CBS and our site
-  * To give to content partners, who may send you promotional email
-  * To give to advertisers, who may send you emails about their products and services
+E-Commerce Policy
 
-We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by us and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
+If this Site sells goods and/or services or provides auction services we will request Personal Information that includes your credit card or other payment information, full name, billing and shipping address, email address and telephone number and any such information that is required to fulfill your order and to communicate with you regarding your order. Sensitive Personal Information such as credit card account numbers will be collected though a secured Internet connection generally via SSL or S-HTTP protocols. We may use your Personal Information, (but not your credit card number) to contact you about future products, services and discounts from the Station or to provide such information indirectly from our Advertisers, unless you tell us otherwise. We will only use your credit card number to complete the specific transaction you requested.
 
-If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. 
+Chat Rooms, Message Boards and Public Forums Policy  
+For your enjoyment and entertainment, this Site offers user interactive activities such as chat rooms, message boards, and/or public forums (“Public Forums”). We do not share any Personal Information that is entered into the Public Forum registration and/or correspondence areas with Advertisers. 
 
-**OPT OUT**
+We reserve the right, at our sole discretion, to save and archive any content of any nature posted to the Site and that the Station may, without liability to any user, disclose such content if required to do so by law or to comply with legal processes; to respond to claims that any of the content violates the property, privacy, publicity or other rights of others; or to protect the rights, property or safety of the Site, the Station, its employees, users and members of the public. For more information on this Site’s rules of conduct for these Public Forums, please see our [Terms of Use Agreement](http://wcbs880.com/terms/). 
 
-If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don’t want us to share the information or if you don’t want to receive promotional and/or marketing information about products, services, and offerings from CBS and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
+Advertising and Other Third-Party Content on the Site  
+This Privacy Policy does not cover third-party advertising or third-party content that may be present on the Site. This Site may provide banner and general advertising, in addition to other content provided by our Advertisers or operational service providers. Users may from time to time enter into correspondence with or participation in such advertising, promotions or third-party content offered through the Site. Such correspondence and agreements are solely between the user and the Advertiser or the third-party content provider and do not involve the Site. Also, Advertisers and such third-party content providers may not have the same privacy policies that we do and you are encouraged to read their privacy policy first. 
 
-**SUBPOENAS AND LAW ENFORCEMENT AGENCIES**
+Hyper Links to Other Websites  
+This Site often provides links to third parties’ websites that could be of interest to our users, including the websites of our Advertisers. These websites do not have an affiliation with the Site or Station and may have different privacy policies and business practices than we do. We take no responsibility for such websites, as stated in our Terms of Use Agreement. By use of this Site, you have agreed that you will use the hyperlinks to third party sites at your own risk. 
 
-We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal. Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed. We may also share your Personally Identifiable Information in response to an appropriate subpoena. 
+Cookies and Image Tags
 
-**COMMUNITY AND PUBLIC AREAS**
+The use of cookies is an industry standard and they are currently used on most websites, including this Site. Cookies are a small text file containing a unique identification number that is transferred from a website to the hard drive of a user’s computer so that the website administrator may identify the computer and passively track the user’s activities on the website. Image tags work in conjunction with cookies and are small image files that may be located on select pages of our Site, or with-in web-based email newsletters that we may send. (Image tags are also called web beacons, web bugs, clear GIFs or single-pixel GIFs.) Tracking is important because we can better understand what parts of our website are used the most, when to launch new services and how to enhance current offerings. We may share the information we receive from cookies and image tags with third-parties and our Advertisers in aggregate form, which means that such information does not contain specific Personal Information about any one visitor.
 
-Information posted to message boards or chat areas is available to the general public. Please use caution when posting any such information. Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information.
+In short, cookies and image tags collect a user’s Internet protocols and server information. Such data files allow our Site to remember your web browser when you visit our Site and are a necessary tool for quick and efficient access to membership clubs, awards programs and contests. A cookie will not allow the Site to learn any Personal Information (such as your real name and email address) that you have not otherwise disclosed. Cookies and image tags allow the Site to remember important information that will make your use of that Site more helpful. We do not use cookies or image tags to collect other Personal Information unless you give us permission to do so.
 
-**FEEDBACK AND EMAIL**
+You can choose to have your computer warn you each time a cookie or image tag is being sent, or you can choose to turn off all such devices. This is done through your browser. If you turn cookies off, you may not have access to many features at our Site that make your Internet experience more efficient and enjoyable – like the features mentioned above – and some of our other services may not function properly.
 
-On every page there is a link to a "feedback" or "email" form so you can comment, complaint, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type and referring URL to better diagnose technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence.
+Security Measures  
+We conduct the collection, management, maintenance and storage of visitor information in a secure and reasonable manner using acceptable standards of security technology and practices (e.g., electronic security systems and password protections) to protect against the loss, misuse or alteration of Personal Information data. We also request that our operational service providers to also take such precautions.   
+WCBS880.com databases are accessible only by authorized personnel. 
 
-**CBS-TV AFFILIATES**
+However, please note that when users transmit Personal Information over an unsecured Internet connection, the Site is not responsible for the security of that information during the transmission stage as your email or registration could be copied or intercepted by unknown third parties. We use a secured connection only for the sale of goods and services but we do not use a secured connection for other types of activities. Therefore, you understand, acknowledge, and agree that you transmit certain Personal Information over this Site at your own risk. 
 
-CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be “branded” to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
+Review, Update, or Deletion of Personal Information
 
-Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content we produce. And some affiliates sell ads or run contests that will appear on their branded sites only.
+You may review, update or delete your Personal Information collected by the Site. To do so, please email the Site’s Privacy Administrator at [wcbs880@cbs.com](mailto:wcbs880@cbs.com). To have access to your Personal Information, you must provide proof of identification such as full name, street address, city/state and zip code, user ID and password, and/or information about your recent activity on the website. We reserve the right to deny access to any user if we believe there is a question about your identity. Certain types of Personal Information that are necessary to check eligibility, such as birthdate or age, cannot be modified or deleted. 
 
-We are not responsible for content or contests posted by our affiliates or for the use of any information that an affiliate may collect.
+Contact Us
 
-We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. 
+If you have any questions about this privacy policy, please contact our Privacy Administrator at the following email address: [wcbs880@cbs.com](mailto:wcbs880@cbs.com) or:
 
-**LINKS TO OTHER SITES**
+WCBS Newsradio 880  
+524 West 57th Street  
+New York, NY 10019  
+attn: Privacy Administrator
 
-When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. 
-
-**CBS STORE**
-
-The CBS Store uses a third-party fulfillment house to accept orders for CBS products purchased online. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders or for billing questions when necessary. However, neither CBS nor the fulfillment house shares this information with third parties. 
-
-**DELETING OR MODIFYING YOUR INFORMATION**
-
-If you've given us personally identifiable information in the past and then have second thoughts or want to update it, here are your choices:
-
-Email to [privacy@cbs.com](mailto:privacy@cbs.com).
-
-Regular mail to:
-
-**Privacy Coordinator CBS.com (555/13) 524 West 57th Street New York, New York 10019**
-
-Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. 
-
-**SECURITY OF PRIVATE INFORMATION**
-
-Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at CBS, to protect your information from theft, misuse and alteration.
+This Privacy Policy was last updated on January 15, 2003.   
+Copyright 2002 Infinity Broadcasting Corporation. All rights reserved.
