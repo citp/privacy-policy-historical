@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the emaillabs.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605055246id_/http%3A//emaillabs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaillabs.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy - EmailLabs - Uptilt
 
-|   
+[](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/index.html) |   
+|  |   
 ---  
-| 
+|  | 
 
-**Privacy Policy**  
-  
+**Privacy Policy  
+**  
 The following discloses our information gathering and dissemination practices for the Uptilt and Email Labs websites. Please note that this policy in no way supersedes, replaces or complements the privacy policies of our clients (see Uptilt Clients below).
 
 The Uptilt site offers several opportunities for visitors to register for free information, seminars or demonstration copies of our software, and for assistance in evaluating our software and services. These registration forms are often linked to Uptilt mailing lists and require users to give contact information (such as name and e-mail address). We use this contact information to send users information about our company and its products and services. The information is also used to contact site visitors by e-mail for marketing purposes if they have granted permission to us to send it to them on the mailing list form (or other forms on our web site), and for administrative purposes such as time and location of seminars. Users may also be contacted by phone or postal mail for marketing purposes. Any financial information collected is shared with our credit card processor to bill users for Uptilt software, and is stored by our credit card processor and Uptilt 
@@ -22,16 +23,21 @@ Uptilt provides online marketing services and products to its clients. These ser
 
 | 
 
-**_Client A:_**
+**Client A**
 
 | 
 
-**_Client B:_**  
+**Client B**  
   
 ---|---  
-**Customer Name** | **Email Addresses** | **Customer Name** | **Email Addresses**  
+| **Name** | **Email Addresses**  
+---|---  
 John Doe | JohnDoe@someaddress.com  
-JohnDoe@anotheraddress.com | John Doe | JohnDoe@someaddress.com  
+JohnDoe@anotheraddress.com  
+| **Name** | **Email Addresses**  
+---|---  
+John   
+Doe | JohnDoe@someaddress.com  
   
 Uptilt's services sometimes use cookies to help our clients better analyze the success of their email and other online marketing campaigns. The cookies we serve are often correlated with individually identifiable information, but this information is not shared with anyone other than the client. As with the email example above, this data is not shared across multiple clients.
 
@@ -50,8 +56,15 @@ Uptilt provides users the opportunity to opt-in and opt-out of receiving e-mail 
 _**Notice  
 **_Uptilt reserves the right to change its privacy policy at any time. Notifications of changes to our privacy practices will occur through one or more of the following communications: 
 
-  * Posting of a message on the www.Uptilt.com home page 
-  * Users voluntarily viewing the privacy statement for periodic changes
-
+| Posting of a message on the www.Uptilt.com home page   
+---|---  
   
+| Users voluntarily viewing the privacy statement for periodic changes  
+|   
+|  | |  |   
+---|---|---|---  
+[Home](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/index.html "EmailLabs - Email marketing") | [Features](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/features.html "features") | [Solutions](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/solutions.html) | [Product Tour](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/product_tour.html) | [Services](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/services.html) | [Email Marketing Resources](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/resources.html "email marketing resources") | [Clients](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/clients.html) | [Partners](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/partners.html)  
+[Request a Demo](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/demo.html) | [Login](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/login.html) | [Site Map](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/sitemap.html) | [Anti-Spam Policy](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/antispam.html) | [Privacy Policy](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/privacypolicy.html) | [Company](https://web.archive.org/web/20031206090845id_/http%3A//www.emaillabs.com/company.html)  
+EmailLabs - Email Marketing Automation Solutions  
+© 2001-2003, EmailLabs - A Product of Uptilt, Inc. All Rights Reserved  
 
