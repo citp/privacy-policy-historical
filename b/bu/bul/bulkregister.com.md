@@ -1,0 +1,66 @@
+> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407062643id_/http%3A//www2.bulkregister.com/privacy.shtml) for the most accurate reproduction.*
+
+# Wholesale Domain Registration and Management Solutions through BulkRegister
+
+|   
+
+
+####  BulkRegister's Privacy Statement
+
+This Privacy Statement governs the manner in which BulkRegister, LLC ("BulkRegister" or "we") collects, uses, maintains and discloses information collected from members in provisioning web services including domain name registration, basic dns services, geo trust certificates, and other related internet services. BulkRegister reserves the right to change this Privacy Statement and its policies prospectively at any time, subject to applicable laws and regulations, by posting notice of such changes on its web sites.
+
+**Privacy:** BulkRegister is committed to safeguarding the information its members entrust to it. As a sign of our commitment to protect consumer privacy, BulkRegister has submitted a certification for participation in the Safe Harbor program between the United States and the European Union. BulkRegister subscribes to the Safe Harbor principles published by the U.S. Department of Commerce.
+
+**The Personal Information We Collect:** BulkRegister may collect personally identifiable information from members in a variety of ways, including online and offline subscription and order forms, paper or telephone submissions, and other instances where members are invited to volunteer such information. Additionally, contact information may be collected during any correspondence relating to member support, as well as in connection with products and services offered on BulkRegister sites. We collect your name, business name and type, address, phone number, email address, billing information including credit card number and expiration date. We only use your name, address, billing information/credit card information to process your order. The addresses are used for customer support, required notifications, product and policy updates and marketing releases. Under no circumstances will we use this information for anything else not described in this privacy notice. All users may at any time opt-out of our marketing by clicking the unsubscribe link located at the bottom of all marketing and membership notices. 
+
+**Financial Information:** Whenever members apply for web hosting services or sign up for any other product or service through BulkRegister, we require financial information such as a credit card number and billing address before we will process that application. We will not sell, share or rent any financial information collected except as disclosed in this policy or as necessary to fulfill orders.
+
+**Protocol (IP) Addresses:** IP addresses are collected from all visitors to the BulkRegister Site. IP addresses are used to administer the daily operations of our site, to help diagnose problems with our servers, and to help prevent fraud.
+
+**Data Integrity:** We make diligent efforts to maintain accurate information on our members. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, BulkRegister has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. Each new member email address is verified prior to receiving authorized passwords. ICANN mandated WhoIs verification notices are sent out annually for review to ensure accuracy.
+
+**Data Security:** BulkRegister has put stringent security procedures in place to protect information collected about our members. We constantly monitor our systems, which are protected using industry-standard security measures. Secure Sockets Layer ("SSL") connections are used to communicate to our system to protect Member financial information as well as encrypting vital information that members input through BulkRegister's web sites. However, BulkRegister cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
+
+**Data Access:** Member's may access all personal identifiable information that we collect and maintain by logging into their member account or contacting the customer support department 24/7, support@bulkregister.com. To protect privacy and security, BulkRegister reserves the right to take reasonable steps to verify Member identity prior to granting access or processing changes or corrections.
+
+**Cookies:** BulkRegister uses "cookie" technology in order to enhance our Members' online experience and for authentication purposes, associating them with your personally identifiable information. They are also used for measuring certain traffic patterns, and to preclude you from having to re-enter your user handle or password during multiple visits to the site. Additionally, cookies can track your progress in online promotions so you receive coupons that may be available to you. Cookies may also be used by advertising service vendors that place ads on our site and to authenticate access to additional services provided by BulkRegister at other web sites. Web browsers may be set to disable cookies, but please note that certain BulkRegister services may not function correctly if cookies are not enabled.
+
+**How Information is used** _:_ BulkRegister may contact members regarding products and services offered by BulkRegister and its trusted affiliates, business partners, and independent contractors. We may also use information collected through our Web site for research regarding the effectiveness of the Web site and related marketing, advertising and sales efforts. Information will only be made publicly available where mandated by governing agencies or as disclosed in the terms and conditions of our agreements with members. We will not post any testimonials or comments made by our members without their explicit permission.
+
+__ Electronic communications may be sent by BulkRegister using members' personal contact information to inform them of important industry news or about general services and upgrades provided by BulkRegister. If a member does not wish to receive these industry notices, simply click the "unsubscribe" link located at the bottom of any notice email. However, in order to fulfill our service obligations, BulkRegister will continue to send emails regarding Members' account administration or service interruptions for system maintenance.
+
+**Disclosure:** Information collected from customers may be disclosed to independent contractors and business partners who have agreed to hold this information in confidence, not use it for any purpose except to carry out the service they are providing for BulkRegister, and honor our privacy and security policies in the way this information is handled. BulkRegister may also disclose aggregate, anonymous data based on information collected from customers to actual or prospective investors and partners. Should a sale of BulkRegister's business ever occur, collected Customer information may be transferred along with the sale but the information will be treated in the same manner as this privacy policy.
+
+**Contact Information:** ("ICANN"), the Internet Corporation for Assigned Names and Numbers, the organization which assumes responsibility for domain name allocation, requires accredited registrars to collect certain information about Members during the domain name registration process. This information includes Registrant's full name, mailing address, phone number, email address, and, where provided, facsimile number. This collected information may be used, for example, to communicate when necessary with respect to transactions conducted through the Site. Additionally, contact information may be collected during any correspondence relating to customer support, as well as in connection with products and services offered on the Site.
+
+**3rd Party:** If you opt to order third-party products or services made available through our site, we may fill in blanks on the order form for your convenience, using account data that you have previously provided us. This data is displayed for your review before the form is submitted, and you will have the option to delete or modify it before the data is sent. When you click to place your order, the data will be sent those 3rd parties. These 3rd parties have agreed to hold this information in confidence, not use it for any purpose except to carry out the service they are providing us, and honor our organization's privacy and security policies in the way this information is handled. BulkRegister does screen and choose its business partners and affiliates with our privacy goals in mind.
+
+**Miscellaneous Information:** Certain additional non-personal types of information are collected and stored whenever Members interact with us. This information is collected to better develop and offer those products and services which are most desired within our industry. For example, our servers track the page to which Members link from BulkRegister and the type of Web browser used. No personally identifiable information will be linked to this aggregated information, which may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis.
+
+**WHOIS Information:** ICANN requires BulkRegister as an accredited ICANN Registrar to make certain information, collected in connection with the registration of a domain name, available to the public. This information is made public via an interactive Web page and a "port 43" WHOIS service. This information includes (i) the Registrant's full name and those of its Administrative Contact and Technical Contact, (ii) their mailing addresses, phone numbers, email addresses, and, where provided, facsimile numbers; (iii) creation and expiration dates of domain name registrations; and (iv) nameserver information associated with these domain names. This information is referred to collectively as "WHOIS Information." Please note this is publicly available information and BulkRegister may not be able to control how members of the public may use the WHOIS Information.
+
+**Bulk Access:** ICANN requires BulkRegister to make whois information available to third parties who enter into a bulk WHOIS data access agreement with BulkRegister. Whois information is all made available to the public through the "port 43" WHOIS service described above.
+
+Protection of BulkRegister and Others: Account and other personal information may be released when we are required to do so by law, court order, law enforcement authority or regulatory agency, including ICANN.
+
+**Sites Other Than BulkRegister:** We strongly recommend that Members review the privacy statement and policies of any online service prior to submitting personal information. BulkRegister has no control over and is not responsible for the gathering practices of other Web sites, including those to which we may link and those which may link to us.
+
+**Enforcement:** To better protect member privacy we closely monitor our privacy practices and privacy statements through in-house automated and manual procedures. For further protection there are independent recourse mechanisms available to investigate and resolve complaints, such as those provided by BBB Online or ICANN.
+
+**Conditions of Use, Concerns:** By choosing to visit and interact with BulkRegister web sites, members agree that their visit and any dispute regarding the protection of their privacy during such visit is subject to this Privacy Statement including and our Disclaimer http://www2.bulkregister.com/4-4Agreement.shtml, Section 18.2 DISCLAIMER OF WARRANTIES, but not limited to, the provisions regarding limitations on damages and the application of the law of the state of Maryland. Please note that if members enter into other contractual agreements with BulkRegister, privacy terms and conditions of such other agreements may supplement or supersede this policy. Questions and concerns about privacy at BulkRegister should be directed to compliance@bulkregister.com.
+
+**Revisions or Changes:** Regardless of later updates or changes to our privacy notice, we will never use the information you submit under our current privacy notice in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
+
+How to Contact Us: Should questions concerning this privacy policy arise, please send us an email at compliance@bulkregister.com. Please specify "Privacy Statement" in the subject line of this e-mail.
+
+BulkRegister, LLC  
+Attention: Compliance Manager  
+10 East Baltimore St.  
+10th Floor  
+Baltimore, MD 21202  
+compliance@bulkregister.com
+
+Effective Date: 02-04-04
+
+|   
+---|---|---
