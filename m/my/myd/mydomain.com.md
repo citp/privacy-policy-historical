@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydomain.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206064000id_/http%3A//www.mydomain.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydomain.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331002347id_/http%3A//mydomain.com/about/privacy) for the most accurate reproduction.*
 
-# Free domain name management tools - Privacy Statement
+# Domains - Domain Names - DNS Management - Domain Registration - Privacy Statement
 
 [ Home](http://www.mydomain.com/)  >  [ About](http://www.mydomain.com/about)   
 **PRIVACY STATEMENT**
