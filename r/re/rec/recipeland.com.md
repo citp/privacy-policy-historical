@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031162923id_/http%3A//www.recipeland.com/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601102102id_/http%3A//www.recipeland.com/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - RecipeLand.com
 
@@ -59,4 +59,4 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
 _RecipeLand works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to<http://www.flycast.com/about_us/about-privacy.html>._
 
-[Back to the Site](https://web.archive.org/) Want to save that recipe? Want more powerfull searching? Try [My Recipes](http://www.recipeland.com/myrecipes/)
+[Back to the Site](https://web.archive.org/) Want to save that recipe? Want more powerful searching? Try [My Recipes](http://www.recipeland.com/myrecipes/)
