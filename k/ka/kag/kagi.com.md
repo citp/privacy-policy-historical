@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kagi.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604080859id_/http%3A//faq.kagi.com/cgi-bin/WebObjects/ViewFAQs.woa/wa/specificFAQ%3FFAQ%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kagi.com privacy policy that was archived on 2001-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010822200836id_/http%3A//faq.kagi.com/cgi-bin/WebObjects/ViewFAQs.woa/wa/specificFAQ%3FFAQ%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
