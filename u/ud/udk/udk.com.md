@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udk.com privacy policy that was archived on 2000-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000502004750id_/http%3A//www.udk.com/includes/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udk.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206200700id_/http%3A//www.udk.com/includes/misc/privacy.html) for the most accurate reproduction.*
 
 # Kansan.com - Privacy Policy and Internet Safety Tips
 
