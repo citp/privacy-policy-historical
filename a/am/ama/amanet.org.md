@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602205222id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203035051id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ This AMA privacy statement applies solely to information collected by the AMA We
 This Website takes reasonable precautions to protect visitors’ Personally Identifiable Information submitted to AMA via its Website. When possible, Personally Identifiable Information is encrypted and protected using SSL software. To learn more about SSL, [follow this link](http://www.verisign.com/). If you have any questions about privacy at the AMA Website, please send an e-mail to [privacy@amanet.org](mailto:privacy@amanet.org) .
 
 **Correction/Updating Personal Information**  
-If a visitor’s Personally Identifiable Information changes (such as a zip code), or if a visitor no longer desires our service, we will endeavor to provide a way to correct, update or remove that visitor’s Personally Identifiable Information. This can be done through the Website at [www.amanet.org/service](https://web.archive.org/web/20030602205222id_/http%3A//www.amanet.org/service/index.htm) or by calling AMA Customer Service at 1-800-262-9699. AMA Members can also update Personally Identifiable Information from the “Your Member Account” page. 
+If a visitor’s Personally Identifiable Information changes (such as a zip code), or if a visitor no longer desires our service, we will endeavor to provide a way to correct, update or remove that visitor’s Personally Identifiable Information. This can be done through the Website at [www.amanet.org/service](https://web.archive.org/web/20031203035051id_/http%3A//www.amanet.org/service/index.htm) or by calling AMA Customer Service at 1-800-262-9699. AMA Members can also update Personally Identifiable Information from the “Your Member Account” page. 
 
 If you wish to review the data we have on file about you, please send a written request with a check payable to American Management Association for $10 (handling fee) to Database Services Center, P.O. Box 319, Saranac Lake, NY 12983. 
 
