@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootsweb.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205010556id_/http%3A//www.rootsweb.com/rootsweb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootsweb.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602193015id_/http%3A//www.rootsweb.com/rootsweb/privacy.html) for the most accurate reproduction.*
 
 # RootsWeb's Privacy Statement
 
@@ -63,7 +63,7 @@ Demographic data is collected at our site at the users' option. This information
 **Contests & Promotions**  
 RootsWeb.com may occasionally run contests or other special promotions on our site in which we ask members or visitors for contact information (like an e-mail address) or demographic information (like a zip code, age, or income level). We use this data to send users promotional material about our company or our partners. The customer's contact information is also used to contact the visitor when necessary and may be shared with other companies for promotional purposes, but only with your prior permission and under the terms and conditions specified when you take part in the promotion. At any time, users may opt-out of receiving future mailings of this kind, or simply decline to take part in the promotions.
 
-**Policy on the Living**  
+**Policy on the Living**   
 MyFamily.com, Inc. (MyFamily.com, Ancestry.com, RootsWeb.com, and its other holdings) websites include records containing information on the deceased, as well as information for the purpose of locating and contacting living individuals. We reserve the right to remove any content, including, but not limited to, information on the living for the purpose of protecting the security and privacy of living individuals. 
 
 > **Removal of Information Owned by MyFamily.com, Inc:** If you locate your personal information in records provided by MyFamily.com, Inc. it is the policy of MyFamily.com, Inc. that removal of these records will occur 30 days from the receipt of a legitimate written request. In some cases, such as phone and address listings, it will be necessary for you to contact the original source to request the removal of that information. Living individuals may request records removed only for their own selves. Parents may also request records removal for any living minor children. Guardians may request records removal for living wards.
