@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407210733id_/http%3A//www.epocrates.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205183955id_/http%3A//epocrates.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # ePocrates, Inc. - Privacy
 
@@ -8,7 +8,7 @@
 * * *
 
    
-[ FAQs ](https://web.archive.org/web/20020407210733id_/http%3A//www.epocrates.com/company/FAQ/)  
+[ FAQs ](https://web.archive.org/web/20021205183955id_/http%3A//epocrates.com/company/FAQ/)  
    
 
 
@@ -53,7 +53,9 @@ LINKS TO OTHER SITES
 The Site may contain links to or from other sites. We are not responsible for the privacy practices or content of such sites. 
 
 SECURITY  
-We have implemented security measures to protect the loss, misuse and alteration of the information under our control. 
+ePocrates is committed to ensuring the security of your information. We safeguard the security of the data you send us with physical, electronic and managerial procedures. We urge you to take every precaution to protect your personal data while on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
+
+Our commerce site uses industry standard secure sockets layer (SSL) encryption. To make purchases from our store you must use an SSL enabled browser. This protects the confidentiality of your information while it is transmitted over the Internet. As part of real-time payment processing, ePocrates subscribes to a fraud management service. This service provides an extra level of protection to guard against credit card fraud. 
 
 CHOICE/OPT-OUT  
 You may opt out of receiving the following information by updating your profile on our website: E-mails of our newsletter and other updates or information about incentive programs or opportunities to assist ePocrates with product development that we may offer from time to time. To opt out of any of these services, please return to our website, and log in using your ePocrates username and password. Then, click “My Profile” and click “Edit”. Go to the bottom of the form and opt out of your choice, if you select a box, you will NOT receive information. If you wish to opt out of ePocrates' software and services altogether, whereupon we will cease contacting you, please send an e-mail to [info@epocrates.com](mailto:info@epocrates.com) and we will not contact you again. 
