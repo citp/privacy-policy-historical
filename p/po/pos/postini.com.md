@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204951id_/http%3A//www.postini.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001181623id_/http%3A//www.postini.com/company/privacy.html) for the most accurate reproduction.*
 
 # Postini - Privacy Statement
 
@@ -7,7 +7,7 @@
 | Postini Privacy Statement  
   
   
-[](https://www.truste.org/validate/7061)Postini is a licensee of the TRUSTe Privacy Program. TRUSTe's certification covers this website's gathering and dissemination of information not any services or products. 
+[](https://www.truste.org/validate/7061)Postini™ is a licensee of the TRUSTe Privacy Program. TRUSTe's certification covers this website's gathering and dissemination of information not any services or products. 
 
 If you have questions or concerns regarding this statement, you should first contact the webmaster by via email (webmaster@postini.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html> TRUSTe will then serve as a liaison with the website to resolve your concerns. 
 
