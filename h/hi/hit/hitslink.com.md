@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155914id_/http%3A//www.toolshack.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203002953id_/http%3A//www.toolshack.com/privacy.asp) for the most accurate reproduction.*
 
 # Toolshack - web tools: hit counter, banner exchange, search engine submission, promotion, and advertising.
 
