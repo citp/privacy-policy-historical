@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydlink.com privacy policy that was archived on 2002-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021121211352id_/http%3A//www.mydlink.com/prvstatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydlink.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606055011id_/http%3A//www.mydlink.com/prvstatement.html) for the most accurate reproduction.*
 
 # New Page 1
 
