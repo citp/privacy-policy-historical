@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205074957id_/http%3A//www.webmastercourse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114150id_/http%3A//www.webmastercourse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Online Success for Internet Business
 
@@ -37,7 +37,7 @@ Although we write most of our own articles and help with consulting, much of our
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. 
 
-1.  For Web Design Weekly mailing lists you can send email to unsubscribe@webmastercourse.com  **< or>** for Online Success Weekly mailing lists you can send email to remove@onlinesuccesstips.com 
+1.  For Web Design Weekly mailing lists you can send email to unsubscribe@webmastercourse.com **< or>** for Online Success Weekly mailing lists you can send email to remove@onlinesuccesstips.com 
 
 2.  Partners Opt-Out solutions are listed on their respective sites and emails. 
 
@@ -45,15 +45,15 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following option for changing and modifying information previously provided: 
 
-You can send email to [editor@webmastercourse.com](mailto:editor@webmastercourse.com) 
+You can send email to [editor@webmastercourse.com](mailto:editor@webmastercourse.com)
 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-Candice Pardue at [editor@webmastercourse.com](mailto:editor@webmastercourse.com) 
+Candice Pardue at [editor@webmastercourse.com](mailto:editor@webmastercourse.com)
 
 or mail to: 
 
 Online Success For Internet Business    
-115 Chesterfield Hwy    
-Cheraw, SC 29520 
+2566 Old Camden Hwy.   
+Lancaster, SC  29720 
