@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401132453id_/http%3A//www.joonbug.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402071738id_/http%3A//www.joonbug.com../privacypolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy :: New York City nightclubs, Hamptons nightclubs, Los Angeles nightclubs, Chicago nightclubs, New Jersey nightclubs, Boston nightclubs, Miami nightclubs, Philadelphia nightclubs, Washington D.C. nightclubs
 
 **JoonBug.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.JoonBug.com. 
 
