@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the equis.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605031410id_/http%3A//www.equis.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equis.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203004110id_/http%3A//www.equis.com/Company/Legal/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Equis International - How to Order Our Products
-
-|   | **[MetaStock Family](https://web.archive.org/metastock) ** | **[Products](https://web.archive.org/products) ** | **[Customer Corner](https://web.archive.org/customer) ** | **[Partners](https://web.archive.org/partners) ** | **[Free Stuff](https://web.archive.org/free) **  
----|---|---|---|---  
-Privacy Statement of Equis International
+# Equis International Privacy Statement
 
 Equis International has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the following Web sites: www.equis.com, www.metastock.com, www.qchartsmetastockpro.com, and www.reutersdatalink.com ("The Sites").
 
@@ -30,9 +26,15 @@ The sites provide users the opportunity to opt-out of receiving communications f
 
 The sites give users the following options for removing their information from our database to not receive future communications, or to no longer receive our service.
 
-  1. Send email to [sales@equis.com](mailto:sales@equis.com)
-  2. Send mail to the following postal address:  3950 S. 700 E., Suite 100 Salt Lake City, UT 84107 
-  3. Call the following telephone number: 800-508-9180 / 801-265-8886
+  * Send email to [sales@equis.com](mailto:sales@equis.com)  
+ 
+  * Send mail to the following postal address:
+
+3950 S. 700 E.  
+Suite 100  
+Salt Lake City, UT 84107
+
+  * Call either of the following telephone numbers: 800-508-9180 or 801-265-8886
 
 
 
@@ -40,9 +42,15 @@ Change/Modify
 
 The sites give users the following options for changing and modifying information previously provided.
 
-  1. Send email [sales@equis.com](mailto:sales@equis.com)
-  2. Send mail to the following postal address:  3950 S. 700 E., Suite 100 Salt Lake City, UT 84107 
-  3. call the following telephone number: 800-508-9180 / 801-265-8886
+  * Send email [sales@equis.com](mailto:sales@equis.com)  
+ 
+  * Send mail to the following postal address:
+
+3950 S. 700 E.  
+Suite 100  
+Salt Lake City, UT 84107
+
+  * Call either of the following telephone numbers: 800-508-9180 or 801-265-8886
 
 
 
@@ -50,4 +58,9 @@ Contacting the Web Site
 
 If you have any questions regarding this privacy statement, the practices of the sites, or your dealings with the Web sites, you can contact
 
-Equis Web Equis International 3950 S. 700 E. Suite 100 equisweb@equis.com  
+Equis Webmaster  
+Equis International  
+3950 S. 700 E.  
+Suite 100  
+Salt Lake City, UT 84107  
+[webmaster@equis.com](mailto:webmaster@equis.com)
