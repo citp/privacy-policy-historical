@@ -1,19 +1,46 @@
-> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209001500id_/http%3A//www.sgs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610191252id_/http%3A//www.sgs.com/sgsgroup.nsf/pages/privacy.html) for the most accurate reproduction.*
 
-# Matheson Tri-Gas- Privacy Policy
+# SGS Legal Information:: Disclaimer &amp; Terms and Conditions about sgs.com
 
-  | **Help- Privacy Policy**
+|  |  |    
+Privacy Policy  
+  
+The SGS Group companies take the security and privacy of their contacts about which they hold information seriously. The purpose of this policy is to describe to you the information we may hold about you, explain what we use it for and explain your rights in relation to it. By visiting any SGS Group company Web site, you are accepting the practices described in this Privacy Policy.
 
-We want to assure you that individual information requested from you on our web site will **never be supplied to any third parties**. All information will be used to complete transactions, **confidentially** share information or **anonymously** track traffic patterns through our web site.
+**What information do we collect?**
 
-Information collected on our web site can be grouped into the following areas:
+In general, you can access and consult any SGS Web site without disclosing or revealing any personal information about yourself.However, in order to better provide you with products and services, certain SGS Group company Web sites may collect one or both of the following types of information from you: Personally Identifiable Information and Non-Personally Identifiable Information.
 
-  * The Matheson Tri-Gas web site has online purchasing capabilities through our  
-[Online Catalog](http://www.mathesontrigas.com/catalog/) **** using a standard "shopping cart" format. Individualized information will be requested to complete these transactions. This information will not be used for any other activities. Cookies are used when you fill in your billing information, so that the next time you visit our online catalog you won't have to re-type your billing address information.
-  * All inquiries through our [Online Form](http://www.mathesongas.com/onlineform.htm) are followed up within 1 to 3 business days. If the comments are product related, a representative from Matheson Tri-Gas will contact you by phone, fax, email or mail. This information is used strictly to respond to any comments, suggestions or questions you may have.
-  * Matheson Tri-Gas monitors usage patterns throughout our web site in order to improve content and usability. This traffic monitoring is done without reference to any individual's information other than browser type. 
+**_Personally Identifiable Information_** __
+
+refers to information that lets us know the specifics of who you are. Personal information is requested when you order a service, register for an account and send us feedback. For example, this information might include your name, address (both billing and registered), email address, industry and product details, and credit card or other payment information. Such information may be held on our contacts and administration databases either because of the work we have done with you or are currently engaged in, or because we believe you might be interested in receiving material from us about our business and services. This allows us to manage our relationship with you efficiently, improve our web site and the services which we offer to you and to target items of interest we may send to you. 
+
+**_Non-Personally Identifiable Information_**
+
+refers to information that is statistical in nature only and that does not, by itself, identify a specific individual or entity and which depends upon the visiting you do on the SGS Group company Web sites. For example, this information may include the domain from which you access the Internet, the date and time you access any SGS Group company Web site and the Internet address of the web site from which you linked directly to any SGS Group company Web site. This information is used in an aggregate form to make the SGS Group company Web sites more useful and attractive to its users.   
 
 
+**Does SGS share the information it receives?**
 
-If you have any questions or concerns regarding this policy please contact us at [info@mathesongas.com](mailto:info@mathesongas.com). We also encourage you to share suggestions on making our web site more beneficial to you and your company.  
+Information about our clients is an important part of our business and SGS is not in the business of selling it to others. We share personally identifiable information only as set forth below:1\. By transfer to other SGS Group companies where it is necessary to meet the purpose for which you have submitted the information. By submitting data on any SGS Group company Web site, you are providing explicit consent to trans-border transmission of data collected on that Web site. 2\. By sharing with the SGS Allied eMarketplaces (a listing may be found at _<http://www.sgsonsite.com/en/brochureware/sgsonsite.nsf/pages/emarketplaces.jsp>_ ) of which you are a member in order to facilitate your ordering process. **Please note that such information will more than likely already have been divulged by you to the Allied eMarketplaces at the time you applied or registered and, therefore, collection, use and sharing of your information will also be subject to their own privacy policies.** 3\. By transfer to third party agents and subcontractors which perform certain functions on behalf of SGS, such as picking up and delivering samples, fulfilling inspection orders, sending email, removing repetitive information from client lists, analysing data and processing credit card payments. These parties only have access to such information as necessary to perform their functions and may not use it for any other purpose.  
+  
+4\. For any reason if, in SGS' sole discretion, SGS believes it is reasonable to do so, including: to satisfy any laws, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our _User Agreement_ or other terms and conditions; or to otherwise protect the SGS Group of companies.
 
+**How does SGS protect your information?**
+
+We follow strict security procedures in the storage and disclosure of information which you have given us in order to prevent unauthorised access. However, the SGS site contains links to other web sites. SGS does not control and is not responsible for the privacy practices or the content of these other web sites.
+
+**"Cookies" and how SGS uses them  
+**
+
+A "cookie" is a small data file that can be placed on your hard drive when you visit certain web sites. SGS Group company Web sites may use cookies to collect, store and sometimes track information for statistical purposes to improve the products and services SGS Group companies provide and to manage the SGS Group telecommunication networks. If you are a registered user of any SGS Group company Web site which requires registration (such as _www.sgsonsite.com_ ) and have created your own entrance page (such as "My SGSonSITE), we will use a cookie to save your settings and provide customised and personalised services. These cookies do not enable third parties to access any of your personally identifiable informationThird party web sites may also use their own cookies. SGS does not control use of such cookies and expressly disclaims responsibility for information collected through them. **  
+**  
+**Your rights**  
+Regarding the information held about you by SGS, you may, for example, request us to provide you with a list and a description of this information, request us to amend any inaccuracies, or notify us that you do not consent to our continued use of this information by contacting us in the manner set out below. We also welcome questions and your comments about out data protection policy.
+
+**How to contact us?**
+
+At any time using one of the methods below:(i) by emailing us: enquiries@sgsgroup.com(ii) by faxing us: + 41 22 739 98 61(iii) by writing to us: SGS Société Générale de Surveillance SA, 1, place des Alpes, P.O. Box 2152, CH-1211 Geneva 1, Switzerland.(iv) by calling us: + 41 22 739 91 11SGS continually strives to improve its service to its customers and to its potential customers.Page last modified on 01 February 2002  
+© SGS Société Générale de Surveillance SA, 1997 – 2001 used under license  
+All rights reserved  
+|  | 
