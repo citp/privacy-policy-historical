@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessmedicine.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002071502id_/http%3A//www.accessmedicine.com/amed/public/amed_terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessmedicine.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610192221id_/http%3A//accessmedicine.com/amed/public/amed_terms/privacy.html) for the most accurate reproduction.*
 
 # Access Medicine: Privacy Policy
 
@@ -17,7 +17,7 @@ An IP address is a number that's automatically assigned to your computer wheneve
 
 Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect it. To that end, The McGraw-Hill Companies has developed a comprehensive customer privacy policy. If you'd like more information about our use of customer data, please review  [The McGraw-Hill Companies Customer Privacy Policy](http://www.mcgraw-hill.com/privacy.html).
 
-If you have questions or comments about our customer privacy policy or you would like to confirm the accuracy of the information collected from you, please contact [Jennifer Perillo](mailto:jennifer_perillo@mcgraw-hill.com), Director, Web Marketing, McGraw-Hill Professional. If you are an individual trial user or an individual subscriber, you may also review and request changes to the information online at any time by going to the Subscriber Services section.
+If you have questions or comments about our customer privacy policy or you would like to confirm the accuracy of the information collected from you, please write: John Henriquez, Privacy Officer, McGraw-Hill Professional, 2 Penn Plaza, 12th Floor, New York, NY 10121-2298, or call 1-877-833-5524. View our Corporate Privacy Policy at www.mcgraw-hill.com/privacy.html. To learn more about how McGraw-Hill Professional applies this Policy, you can contact privacy@mhedu.com. Copyright (c) 2004. If you are an individual trial user or an individual subscriber, you may also review and request changes to the information online at any time by going to the Subscriber Services section.
 
 If you prefer not to receive promotional materials from companies outside The McGraw-Hill Companies, please submit the [Opt Out form](https://web.archive.org/amed/public/amed_terms/opt_out.html).
 
