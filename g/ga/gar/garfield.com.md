@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410001917id_/http%3A//www.garfield.com/news/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021015610id_/http%3A//www.garfield.com/news/privacy.html) for the most accurate reproduction.*
 
 # The Garfield Gazette
 
@@ -35,6 +35,18 @@ We also encourage you to read our Children's Privacy Policy - it details how we 
   * Paws and uclick will use server logs to track your movement through our Web sites and properties - in addition, we will use this information to customize the user experience or provide registrant continuity between our various Web sites and properties. 
   * We may also use other technologies to verify and track your use of certain services, confirm receipt of certain e-mailed products or to test the integrity of our systems, products and services. 
 
+**Third Party Advertising**
+
+  * The ads appearing on this Web site are delivered to you by our Web advertising partners. Information about your visit to this site, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, one of our partners, cookies, and how to "opt-out," please click here. <http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp>
+
+**Third Party Cookies**
+
+  * In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+
+**Opt-Out of Advertising**
+
+  * This opt-out feature removes the cookie from your browser associated with a particular network advertiser's online preference marketing practices; it does not delete other cookies placed by network advertisers, such as those that are used for aggregate ad reporting or mere ad serving purposes. Such cookies allow network advertisers to rotate ad banners sequentially and track aggregate numbers of impressions. Visit [the NAI web site](http://www.networkadvertising.org/optout_nonppii.asp) and follow the instructions to opt-out. 
+
 **How much control will you have over your account information?**  
 
 
@@ -45,6 +57,24 @@ We also encourage you to read our Children's Privacy Policy - it details how we 
 
   * Paws and uclick utilize access passwords at our Web sites and other properties to help maintain your privacy and security. 
   * In certain other areas Paws and uclick may use certain other industry-standard security measures, techniques and technologies to protect the integrity of data transmissions. 
+
+**Third Party Online Affiliates.**
+
+In addition, there are unrelated companies that have a presence on garfield.com because they are able to provide services that we lack the technical ability to provide, or they offer something that we think will be fun for our fans. The point is, they may "look" like they are part of our site, but they are not under our control, and your use of their service and the information you give them is subject to their rules and polices which we strongly encourage you go read. To help you identify these unrelated companies, you will note language such as "Powered By," or a legend like this: 
+
+This service is brought to you by [Legal Name of Company]. This service, and any information you voluntarily provide by way of registration or otherwise, is subject to the terms of use and privacy policies of [Legal Name of Company]. 
+
+Currently, here are the parties operating on one of our sites:
+
+E-Garfield  
+(Description: online mail program)  
+Name of service: Free electronic mail service  
+Legal name: Everyone.net Incorporated  
+2216 O'Toole Ave.  
+San Jose, CA 95131  
+Contact: Beth McLain  
+Email address: privacypolicy@everyone.net  
+408.519.8200 The personally identifiable information that you share with these unrelated companies is not provided to us unless you have authorized them to do so. In such a case, our use of your information will also of course be in accordance with these policies. 
 
 **Changes to the Garfield.com / uclick Privacy Policy**
 
@@ -89,4 +119,4 @@ Attn: Children's Privacy
 510 West 5th Street  
 Kansas City, MO 64105
 
-[childprivacy@ucomics.com](mailto:childprivacy@ucomics.com?Subject=GarfieldPrivacy) or [webmaster@ucomics.com](mailto:webmaster@ucomics.com?Subject=GarfieldPrivacy)
+[childprivacy@ucomics.com](mailto:privacy@ucomics.com?Subject=GarfieldPrivacy) or [webmaster@ucomics.com](mailto:webmaster@ucomics.com?Subject=GarfieldPrivacy)
