@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the trueswitch.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404061745id_/http%3A//www.trueswitch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueswitch.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207101028id_/http%3A//trueswitch.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to TrueSwitch. Support Center
+
+  
+
 
 Esaya, Inc. ("Esaya") has created this privacy policy ("Privacy Policy") in order to demonstrate our commitment to customer privacy. Privacy on the World Wide Web site located at [http://www.trueswitch.com/ ](http://www.trueswitch.com/)and other computer systems operated by Esaya (collectively, the “Website”), is of great importance to us. Because we gather important information from our users, we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Privacy Policy and will provide notification of the change at least thirty (30) days prior to the change taking effect.
 
