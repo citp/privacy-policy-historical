@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukpropertyshop.co.uk privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203025312id_/http%3A//www.ukpropertyshop.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukpropertyshop.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221600id_/http%3A//ukpropertyshop.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # UK Property Shop: Privacy Policy
 
@@ -10,6 +10,6 @@ As an extension of our Enquiry Service we may also provide a Product Request ser
 
 When you use the Enquiry Service for the first time, we may place a 'cookie' on your own computer. A cookie is a small file that can be accessed only by our own computer system and contains just your registration details; we can then use the cookie to retrieve your details automatically each time you carry out a new search and decide to contact more estate agents. However, if you access UK Property Shop using a shared computing facility, you may wish to disable this feature within your own browser. We sometimes use ad-servers such as DoubleClick to serve the advertisements that you see on the pages of our website, who may also use cookies in the process of serving their advertisements, but it will not collect any personally identifiable information about you; for more information about DoubleClick and how to opt-out please [click here](http://www.doubleclick.net/us/corporate/privacy).
 
-Other than in the circumstances referred to here, we will not sell or distribute your personal information to any other party. UK Property Shop reserves the right to make enquiries about any visitor to our website in order to verify that the information supplied by us is used only for the purposes for which it is authorised. Please also see our [Conditions of Use](https://web.archive.org/web/20031203025312id_/http%3A//www.ukpropertyshop.co.uk/conditions.shtml).
+Other than in the circumstances referred to here, we will not sell or distribute your personal information to any other party. UK Property Shop reserves the right to make enquiries about any visitor to our website in order to verify that the information supplied by us is used only for the purposes for which it is authorised. Please also see our [Conditions of Use](https://web.archive.org/web/20040602221600id_/http%3A//ukpropertyshop.co.uk/conditions.shtml).
 
 Thank you for visiting UK Property Shop.
