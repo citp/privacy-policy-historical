@@ -1,15 +1,23 @@
-> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611211434id_/http%3A//www.netdespatch.com/wpages.php3%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402124622id_/http%3A//netdespatch.com/wpages.php3%3Fprivacy) for the most accurate reproduction.*
 
-# NetDespatch - Supply Chain's Missing Link
+# NetDespatch - Web Services for Transport
 
-**United Kingdom Data Protection Act (1984)  
-Registration PX 4287299 August 1999**
+| 
 
-**P013** | **Customer Client Administration**  
+**United Kingdom Data Protection Act (1998)  
+Registration PZ 703594X September 2002**
+
+| **1** | **Staff Administration**  
 ---|---  
-| The administration of orders and accounts relating to customers or clients  
-**P014** | **Marketing and Selling**  
-| The identification of potential customers and administration of promotional campaigns including selling or promotion to individuals by direct marketing methods.  
+| Personnel matters in relation to employees or sub-contractors  
+**2** | **Advertising Marketing and Public Relations**  
+| Public relations, advertising and marketing.  
+**3** | **Accounts and Records**  
+| Accounts relating to any business or other activity.  
+**4** | **Consultancy and Advisory Service**  
+| Giving advice or rendering professional services.  
+(Software development, Demonstration, Testing and Hosted Web Services)  
+|    
   
 When you visit a web site, you need to be sure of the following:
 
