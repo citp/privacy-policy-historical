@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217052540id_/http%3A//www.dealsea.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618052550id_/http%3A//www.dealsea.com/privacy.php) for the most accurate reproduction.*
 
 # dealsea.com - request a deal.
 
