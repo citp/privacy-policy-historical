@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securetrading.net privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securetrading.net privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/privacystatement.htm) for the most accurate reproduction.*
 
 # SECURETRADING web site privacy statement
 
@@ -76,37 +76,37 @@ LL57 4BF
   
 If you are not satisfied with our response to your concern you may wish to contact the Information Commissioner. Contact details can be found on the web site at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/).
 
-[](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/charitydemo.htm)
+[](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/charitydemo.htm)
 
-See our payment service in action by donating at one of these [charity sites](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/charitydemo.htm)
+See our payment service in action by donating at one of these [charity sites](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/charitydemo.htm)
 
-[](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/contact-inforequest.htm)
+[](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/contact-inforequest.htm)
 
-[Click here](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/contact-inforequest.htm) to request an information pack containing further details about SECURETRADING and our services
+[Click here](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/contact-inforequest.htm) to request an information pack containing further details about SECURETRADING and our services
 
-[](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/partners-findapartner.htm)
+[](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/partners-findapartner.htm)
 
-Need help in setting up your e-commerce site? [Search](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/partners-findapartner.htm) our database of developers who use ST's technology
+Need help in setting up your e-commerce site? [Search](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/partners-findapartner.htm) our database of developers who use ST's technology
 
-[](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/faq-fraud.htm)
+[](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/faq-fraud.htm)
 
-In any commercial arena, you need to take care to avoid fraud, and e-commerce is no different. See our guidelines to combatting fraud [here](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/faq-fraud.htm)
+In any commercial arena, you need to take care to avoid fraud, and e-commerce is no different. See our guidelines to combatting fraud [here](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/faq-fraud.htm)
 
-[](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/docs-carts.htm)
+[](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/docs-carts.htm)
 
-See which [shopping carts](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/docs-carts.htm) integrate with ST's technology
+See which [shopping carts](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/docs-carts.htm) integrate with ST's technology
 
-[](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/faq-financialinstitutions.htm)
+[](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/faq-financialinstitutions.htm)
 
-[Click here](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/faq-financialinstitutions.htm) to see a list of financial institutions with whom we work
+[Click here](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/faq-financialinstitutions.htm) to see a list of financial institutions with whom we work
 
-[](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/services-casestudies.htm)
+[](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/services-casestudies.htm)
 
-Read some [case studies](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/services-casestudies.htm) of companies who use our service
+Read some [case studies](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/services-casestudies.htm) of companies who use our service
 
-[](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/stindago.htm)
+[](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/stindago.htm)
 
-How secure is your network? Let us test it with [STindago](https://web.archive.org/web/20021208033931id_/http%3A//www.securetrading.net/stindago.htm)
+How secure is your network? Let us test it with [STindago](https://web.archive.org/web/20030628091233id_/http%3A//securetrading.net/stindago.htm)
 
   
 
