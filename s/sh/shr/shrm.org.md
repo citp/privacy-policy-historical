@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621165701id_/http%3A//www.shrm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032208id_/http%3A//www2.shrm.org/privacy) for the most accurate reproduction.*
 
 # SHRM Online Privacy Statement
 
@@ -112,7 +112,7 @@ SHRM provides members the opportunity to opt-out of receiving communications fro
 Instructions for opting out of any SHRM e-mail newsletter you receive are included with each e-mail. 
 
 **7\. What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?**  
-SHRM Online has security measures, such as firewalls, in place to attempt to protect against the loss, misuse and alteration of your user data under our control. SHRM has implemented strict rules for employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions to prevent such unfortunate occurrences. Any other particularly sensitive information, such as your credit card number, collected for a commerce transaction is encrypted prior to transmission. 
+SHRM Online has security measures, such as firewalls, in place to attempt to protect against the loss, misuse and alteration of your user data under our control. While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions to prevent such unfortunate occurrences. Any other particularly sensitive information, such as your credit card number, collected for a commerce transaction is encrypted prior to transmission. 
 
 You are ultimately responsible for the security of your SHRM member ID and password. You may not share your SHRM member ID and password with colleagues or friends so they can access content or features on SHRM Online that are restricted to SHRM members only. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
 
