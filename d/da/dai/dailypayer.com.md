@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypayer.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608043823id_/http%3A//www.dailypayer.com/conditions.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypayer.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011215930id_/http%3A//dailypayer.com/conditions.php%3Fref%3D) for the most accurate reproduction.*
 
 # Dailypayer Get paid $10 per referral instantly via paypal
 
