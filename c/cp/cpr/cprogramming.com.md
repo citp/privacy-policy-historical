@@ -1,7 +1,31 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613185049id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204203009id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
-# Cprogramming.com Privacy Policy
+# Cprogramming.com: Privacy Policy
 
-Privacy policy: Cprogramming.com collects information in a few ways. First, our email list asks, but does not require, you to input personal information, except for an email address which is required. Our message board allows you to register, but once again, this is not required. Third, our guestbook asks for information which is, once again, not required. For the information, we only use the general demographic information, such as age, to target our sponsors advertising. On the guestbook, it is publicly available, although it is possible to make it a private message, in which case only we can read it. The message board allows other to read your profile, and keeps a listing of different relevant factors about individuals in separate files, which we don't use for anything, actually. Clearly, the message board allows people to post information which is available to everyone. Ah, the message board keeps ip addresses, which are only available to moderators and administrators and which are used in case it becomes necessary to block certain members from using the message board. We have disabled all non-flycast statistics (other than the above) utilities which could collect demographics data and ip-addresses (except the above message board).  
-Aside from that, in working with flycast:  
-Cprogramming.com: Programming in C++ works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+### Privacy policy
+
+Keeping you informed of our information gathering practices and our policy for how we use that information is important to us at Cprogramming.com. Below, you can find the ways in which we gather data and the ways that we use that data. 
+
+####  Information Collection
+
+##### Log files
+
+The server stores your host, your operating system, your browser, and referring page in the server's log file when you access Cprogramming.com. This information is stored, by default, by most websites. We do not use this information to track individual users; these log files are analyzed by statistical packages to determine trends in visitor patterns, such as which pages are most popular and which referrers send the most visitors. Your host name is used only to determine statistics about the site's percentages of traffic from various countries. 
+
+##### Message Board
+
+You are asked but not required to register when you use the message board. You are not required to give your personal information when signing up and creating a profile. We do not use the information in visitor profiles for any purpose. The message board also tracks IP addresses of visitors. We do not use this information to track individuals, except in cases of visitors spamming the message board. If you register to use the message board, you will be asked for an email address; we do not, and do not intend to, sell your email address to spam houses. 
+
+##### BURST!Media
+
+You are asked, but not required, to fill out a survey by BURST!Media. The information you give will help us choose more appropriate advertisements for the site, which will benefit visitors in the long run. 
+
+####  Information Usage
+
+We do not track individual users on the site, except in extreme cases to respond to persistent attacks on the system, such as when a user spams the message board or hacks the site. We use the information obtained from the server logs to improve the layout of the site and to make educated guesses as to what could be improved. We also use demographics data obtained through BURST!Media's voluntary survey to target ads that are appropriate for our visitors. 
+
+\-----  
+Interested in [advertising with us](http://www.cprogramming.com/advertising.html)?  
+Please read our [privacy policy](http://www.cprogramming.com/privacy.html).  
+[Copyright](http://www.cprogramming.com/use.html) © 1997-2003 Cprogramming.com. All rights reserved.  
+Design by [Geodesy Designs](http://www.geodesydesign.com/)
