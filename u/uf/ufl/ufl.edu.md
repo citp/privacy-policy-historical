@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufl.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202164037id_/http%3A//www.webadmin.ufl.edu/policies/internet_privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufl.edu privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622075238id_/http%3A//www.webadmin.ufl.edu/policies/internet_privacy) for the most accurate reproduction.*
 
 # UF Web Administration
 
