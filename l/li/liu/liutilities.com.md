@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605080331id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207114126id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
 
-# LIUtilities - Support Made Easy
+# Uniblue - Backup Made Easy
 
 Privacy Policy
 
