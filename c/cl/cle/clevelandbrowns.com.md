@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandbrowns.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217225554id_/http%3A//www.clevelandbrowns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandbrowns.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609130617id_/http%3A//www.clevelandbrowns.com/privacy) for the most accurate reproduction.*
 
 # Cleveland Browns - Privacy Policy
 
