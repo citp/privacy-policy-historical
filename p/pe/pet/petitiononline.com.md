@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petitiononline.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623083525id_/http%3A//www.petitiononline.com/privacy-pets.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitiononline.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209091544id_/http%3A//www.petitiononline.com/privacy-pets.html) for the most accurate reproduction.*
 
 # www.PetitionOnline.com - Free Online Petition Hosting
 
