@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407211139id_/http%3A//www.reflector.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013043247id_/http%3A//www.reflector.com/search/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Reflector.com: Privacy Policy
 
@@ -54,4 +54,4 @@ All information gathered on our website is encrypted for storage within a databa
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. 
 
 |   |   
-[](http://ad.doubleclick.net/jump/cni.reflector.text/;sub=index;rr=1;pg=;sz=140x60;tile=1;ord=PLC1tMCoBYMAAFIDOhQ?) [](http://ad.doubleclick.net/jump/cni.reflector.text/;sub=index;rr=2;pg=;sz=140x60;tile=2;ord=PLC1tMCoBYMAAFIDOhQ?) [](http://ad.doubleclick.net/jump/cni.reflector.text/;sub=index;rr=3;pg=;sz=140x60;tile=3;ord=PLC1tMCoBYMAAFIDOhQ?) [](http://ad.doubleclick.net/jump/cni.reflector.text/;sub=index;rr=4;pg=;sz=140x60;tile=4;ord=PLC1tMCoBYMAAFIDOhQ?) [](http://ad.doubleclick.net/jump/cni.reflector.text/;sub=index;rr=5;pg=;sz=140x60;tile=5;ord=PLC1tMCoBYMAAFIDOhQ?)
+
