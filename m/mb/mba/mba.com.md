@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mba.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083201id_/http%3A//www.mba.com/mba/privacypolicy/privacypolicy%3FPreserveOrigin%3D1%26PreserveTarget%3D1%26PreservePaths%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mba.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804013826id_/http%3A//www.mba.com/mba/privacypolicy/privacypolicy%3FPreserveOrigin%3D1%26PreserveTarget%3D1%26PreservePaths%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
 
