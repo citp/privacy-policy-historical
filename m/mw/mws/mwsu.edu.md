@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mwsu.edu privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214122600id_/http%3A//www.mwsu.edu/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwsu.edu privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602030528id_/http%3A//www.mwsu.edu/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # Midwestern State University
 
@@ -39,3 +39,8 @@ MSU uses Web-based forms.  Personally identifiable information collected from t
 All information collected from the MSU Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, is subject to the Texas Public Information Act.
 
 Additional information regarding privacy policies can be found in the draft Privacy Policy Guidelines at <http://www.state.tx.us/Standards/srrpub11-privacy-policy.htm>. The U.S. Federal Trade Commission also provides information for educating consumers and businesses about the importance of personal information privacy at <http://www.ftc.gov/privacy/>.
+
+Midwestern State University  
+3410 Taft Boulevard  
+Wichita Falls, Texas 76308  
+940 397-4000
