@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604024342id_/http%3A//newegg.com/app/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010093219id_/http%3A//www.newegg.com/app/privacy.asp) for the most accurate reproduction.*
 
 # newegg.com
 
