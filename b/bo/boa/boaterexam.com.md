@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boaterexam.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207210954id_/http%3A//www.boaterexam.com/privacy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boaterexam.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404063452id_/http%3A//www.boaterexam.com/privacy1.html) for the most accurate reproduction.*
 
 # BoaterExam.Com
 
@@ -50,7 +50,7 @@ Demographic and profile data is also collected at our site. This data is used to
 
 ### Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All customer information is encrypted with 128 bit encryption using a Secure Socket Layer (SSL) protocol to ensure a secure transmission. A [Entrust Secure Server Digital ID](https://buy.entrust.net/secure-tpl/securityseal.cfm?ID=00078DA3-860D-1E03-969380A9B0ACFF2D-28244) from [Entrust](http://www.entrust.net/) is installed on our server to ensure integrity is maintained.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All customer information is encrypted with 128 bit encryption using a Secure Socket Layer (SSL) protocol to ensure a secure transmission. A [Entrust Secure Server Digital ID](https://buy.entrust.net/secure-tpl/securityseal.cfm?ID=8F0C2A60-AAAE-E51E-26E1F28DB14DA883-49262) from [Entrust](http://www.entrust.net/) is installed on our server to ensure integrity is maintained.
 
 BoaterExam.com does NOT store credit card information on our servers. Credit card information is sent directly to the appropriate financial institution and then removed from our systems.
 
