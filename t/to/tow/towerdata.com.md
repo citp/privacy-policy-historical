@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008092123id_/http%3A//towerdata.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613190408id_/http%3A//towerdata.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Find, Verify, & Correct Email Addresses
 
