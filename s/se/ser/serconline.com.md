@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serconline.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001213213id_/http%3A//www.defenders.org/donate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serconline.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602191944id_/http%3A//www.defenders.org/donate/privacy.html) for the most accurate reproduction.*
 
 # Defenders of Wildlife Privacy Policy
 
