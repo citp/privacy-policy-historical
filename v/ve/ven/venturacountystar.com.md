@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605234951id_/http%3A//web.venturacountystar.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811195940id_/http%3A//web.venturacountystar.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # VenturaCountyStar.com
 
@@ -51,5 +51,5 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 VII. Use of Materials
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20040605234951id_/http%3A//web.venturacountystar.com/info/user.shtml).  
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20040811195940id_/http%3A//web.venturacountystar.com/info/user.shtml).  
 
