@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216074759id_/http%3A//webassist.com/Company/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608024429id_/http%3A//www.webassist.com/Company/Privacy.asp) for the most accurate reproduction.*
 
 # WebAssist :: Privacy Policy
 
@@ -34,10 +34,15 @@ WebAssist may occasionally present a special contest or promotion that is sponso
 **Contact us**
 
 **How to update your personal information and preferences**   
-You can help WebAssist maintain the accuracy of your personal information by notifying us when you change your name, address, title, phone number, e-mail address, or your content preferences. If at any time you wish to update your information or preferences, or you prefer to stop receiving communication from WebAssist, feel free to contact us at any time. WebAssist Privacy contacts include:
+You can help WebAssist maintain the accuracy of your personal information by notifying us when you change your name, address, title, phone number, e-mail address, or your content preferences. If at any time you wish to update your information or preferences, feel free to contact us at any time. 
+
+**How to change your email preferences**   
+WebAssist sends out important email messages about general news, updates, and promotions. Users may choose to opt-out of receiving these emails by logging into our site and updating your [personal preferences](http://www.webassist.com/members/personupdate.asp) to uncheck the "Receive Email Updates" checkbox.
+
+WebAssist Privacy contacts include:
 
 **ONLINE:**  
-[www.webassist.com/members/members.asp](http://www.webassist.com/members/members.asp)
+General Info - <http://www.webassist.com/members/members.asp>
 
 **E-MAIL:**[  
 privacy@webassist.com](mailto:privacy@webassist.com)
@@ -46,8 +51,7 @@ privacy@webassist.com](mailto:privacy@webassist.com)
 WebAssist.com  
 Attn: Privacy   
 2210 Encinitas Blvd. Suite P  
-Encinitas, CA 92024  
-USA 
+Encinitas, CA 92024 USA 
 
 If you change your e-mail or postal address, please contact WebAssist. In order to make the appropriate corrections, please include both your old and new address.
 
