@@ -1,249 +1,472 @@
-<!--The following is the downloaded HTML source of the yesmail.com privacy policy that was archived on 2000-03-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000304215951id_/http%3A//www.yesmail.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yesmail.com privacy policy that was archived on 2002-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603124746id_/http%3A//yesmail.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<title>About The YesMail Network</title>
-
-<!-- Meta Info -->
-<meta name="keywords" content="direct email, permission marketing, direct marketing, opt-in direct email, targeted e-mail marketing, 100% opt-in, online promotions, opt-in email lists, list management, web marketing, list brokers, yesmail, YesMail, webpromote">
-<meta name="description" content="YesMail - a leader in permission email marketing - a revolutionary new direct marketing medium. Get the highest ROI of any medium and we can prove it.">
-
-<!-- General Page JavaScripts -->
+<title>Yesmail - Privacy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="stylesheets/ym_style.css" type="text/css">
 <script language="JavaScript">
-<!-- -->
-<!--This script makes a random image appear in the yesmail banner area  -->
-  var howMany = 7
-  var pic = new Array(howMany+1)
-  pic[0]="image/portraits/1.gif"
-  pic[1]="image/portraits/2.gif"
-  pic[2]="image/portraits/3.gif"
-  pic[3]="image/portraits/4.gif"
-  pic[4]="image/portraits/5.gif"
-  pic[5]="image/portraits/6.gif"
-  pic[6]="image/portraits/7.gif"
-  pic[7]="image/portraits/8.gif"
-
-function rndnumber(){
-   var randscript = -1
-   while (randscript < 0 || randscript > howMany || isNaN(randscript)){
-      randscript = parseInt(Math.random()*(howMany+1))
-   }
-   return randscript
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
-function buildImgSrc() {
-   var randomsub = rndnumber()
-   var sfile = pic[randomsub]
-
-    return sfile
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 
-function randomImage() {
-   var imgTag="<img src='"
-   imgTag = imgTag + buildImgSrc()
-   imgTag = imgTag + "' width=100 height=60 alt='Welcome'"
-   imgTag = imgTag + " hspace='0' border='0'>"
-   return imgTag
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
 }
 
-<!--This script is the rollover for the "General Navigation" and "Sidebar" areas  -->
-
-function MM_preloadImages() { //v2.0
-  if (document.images) {
-    var imgFiles = MM_preloadImages.arguments;
-    if (document.preloadArray==null) document.preloadArray = new Array();
-    var i = document.preloadArray.length;
-    with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#"){
-      preloadArray[i] = new Image;
-      preloadArray[i++].src = imgFiles[j];
-  } }
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
-function MM_swapImgRestore() { //v2.0
-  if (document.MM_swapImgData != null)
-    for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
-      document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
-}
-
-function MM_swapImage() { //v2.0
-  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
-  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
-    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
-    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
-        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
-      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
-    obj = eval(objStr);
-    if (obj != null) {
-      swapArray[j++] = obj;
-      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
-      obj.src = MM_swapImage.arguments[i+2];
-  } }
-  document.MM_swapImgData = swapArray; //used for restore
-}
-
-function MM_displayStatusMsg(msgStr) { //v2.0
-  status=msgStr;
-  document.MM_returnValue = true;
+// press release pop up window launcher
+function launchPR(url) {
+//	window.open (url,'PR','top=10,left=10,toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=0,width=500,height=400');
+	window.open (url,'PR','top=10,left=10,toolbar=no,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=500,height=400');
 }
 //-->
+
 </script>
+<script>
 
-<script language="JavaScript">
-
-<!--
-
-function Certify() {
-
-     popupWin = window.open
-     ('http://www.bbbonline.org/cnfm.cfm?company=04281999102037', 'Participant',
-     'location,scrollbars,width=450,height=300')
-     window.name = 'opener'; 
-
+function emailCheck (emailStr) {
+var emailPat=/^(.+)@(.+)$/
+var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"
+var validChars = "\[^\\s" + specialChars + "\]"
+var quotedUser="(\"[^\"]*\")"
+var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
+var atom=validChars + '+'
+var word = "(" + atom + "|" + quotedUser + ")"
+var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
+var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
+var matchArray = emailStr.match(emailPat)
+if (matchArray==null) {	alert ("Email address seems incorrect, please enter a valid email address.")
+	return false
+}
+var user=matchArray[1]
+var domain=matchArray[2]
+if (user.match(userPat)==null) {
+	alert ("The username before the @ symbol doesn't seem to be valid.")
+return false
+}
+var IPArray = domain.match(ipDomainPat)
+if (IPArray!=null) {
+	for (var i=1;i<=4;i++) {
+		if (IPArray[i]>255) {
+			alert ("Destination IP address is invalid!")
+			return false
+		}
+	}
+	return true
 }
 
-// -->
+// Domain is symbolic name
+var domainArray = domain.match(domainPat)
+if (domainArray==null) {
+	alert ("The domain name doesn't seem to be valid.")
+	return false
+}
+var atomPat=new RegExp(atom,"g")
+var domArr = domain.match(atomPat)
+var len=domArr.length
+if (domArr[domArr.length-1].length<2 ||
+	domArr[domArr.length-1].length>3) {
+	alert ("The address must end in a three-letter domain, or two letter country.")
+	return false
+}
+if (len<2) {
+	var errStr = "This address is missing a hostname!"
+	alert (errStr)
+	return false
+}
+// If we've gotten this far, everything's valid!
+return true;
+}
 
-</script></head>
+function CheckForm()
+{
+	var bOkay = true;
+	var iAt = document.main_form.emailaddress.value.indexOf('@');
+	var iLength = document.main_form.emailaddress.value.length;
+	var sDomain = document.main_form.emailaddress.value.substring(iAt,iLength);
+	if (emailCheck(document.main_form.emailaddress.value) == false) {
+		return false;
+	}
+	if ((sDomain.toLowerCase == 'Yesmail') || (sDomain.toLowerCase == 'myYesmail') || (sDomain.toLowerCase == 'my.Yesmail')) {
+		var sMessage = 'Yesmail does not provide e-mail address services. \n Please go back and enter a valid e-mail address.'
+		if (confirm(sMessage)) {
+			return false;
+		}
+	}
+	// Check for Profile item FirstName
+	if (document.main_form.FirstName.value == '') {
+		alert('Please complete all required fields.');
+		return false;
+	}
+	// Check for Profile item LastName
+	if (document.main_form.LastName.value == '') {
+		alert('Please complete all required fields.');
+		return false;
+	}
+	// Check for Company name
+	if (document.main_form.customfield2.value == '') {
+		alert('Please complete all required fields.');
+		return false;
+	}
+	// Check for Profile item Zip
+	if (document.main_form.Zip.value.length < 5) {
+		alert('The Zip/Postal Code you entered must be at least 5 digits in length.  Please re-enter.');
+		return false;
+	}
+	// Check for Geographic ID #2
+	if ((document.main_form.geo2.selectedIndex == -1) || (document.main_form.geo2.selectedIndex == 0)) {
+		alert('Please complete all required fields.');
+		return false;
+	}
 
-<body bgcolor="#ffffff" link="#669900" vlink="#669900" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onload="">
-  <table width="600" border="0" cellspacing="0" cellpadding="0" align="left">
-    <tbody><tr>
-      <!-- **** Top banner **** -->
-      <td>
-            <table width="600" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="600" height="60"><img src="image/logo_bar.gif" width="600" height="60"></td></tr></tbody></table></td>    
-  </tr><tr> <!-- **** Site Level Navigation **** --> 
-     <td>
-            <table width="600" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td><a href="corporate/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.company','document.company','image/general_nav/company_over_btn.gif','#922138615366');window.status='> company info';return document.MM_returnValue"><img src="image/general_nav/company_up_btn.gif" width="161" height="20" name="company" border="0"></a></td>
-<td width="80" height="20"><a href="home.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.home','document.home','image/general_nav/home_over_btn2.gif','#922138592550');window.status='> home';return true"><img src="image/general_nav/home_up_btn2.gif" width="80" height="20" name="home" border="0"></a></td>
-<td width="100" height="20"><a href="privacy.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.privacy1','document.privacy1','image/general_nav/privacy_over_btn.gif','#922138615366');window.status='> privacy';return document.MM_returnValue"><img src="image/general_nav/privacy_up_btn.gif" width="100" height="20" name="privacy1" border="0"></a></td>
-<td width="169" height="20"><a href="about.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.aboutnet','document.aboutnet','image/general_nav/aboutnet_over_btn.gif','#922138629200');window.status='> about the network';return document.MM_returnValue"><img src="image/general_nav/aboutnet_up_btn.gif" width="169" height="20" name="aboutnet" border="0"></a></td>
-<td width="100" height="20" bgcolor="#99CC33" align="center"> 
-<!--Displays current date --> <b><font face="Geneva, Verdana, Helvetica, sans-serif" size="1" color="#336600">&nbsp;</font></b></td>
-</tr>
-</tbody></table></td>
-  </tr>
-  <tr> <!-- **** Page Level Content **** --> 
-    <td>
-	
-	
-<!-- Start Page Level Content --> 
+	// Check for Custom ID #10353
+	if ((document.main_form.custdem10353.selectedIndex == -1) || (document.main_form.custdem10353.selectedIndex == 0)) {
+		alert('Please complete all required fields.');
+		return false;
+	}
 
-<table width="600" border="0" cellpadding="5" cellspacing="8">
+	// Check for Custom ID #10346
+	if ((document.main_form.custdem10346.selectedIndex == -1) || (document.main_form.custdem10346.selectedIndex == 0)) {
+		alert('Please complete all required fields.');
+		return false;
+	}
+
+	return true;
+}
+
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="88">
   <tbody><tr>
-    <td width="29" valign="top"><img src="image/content_indent.gif" width="29" height="30"></td>
-	<td>
-	  <font face="Geneva, Verdana, Helvetica, sans-serif" size="-1" color="#000000">
-		<p>
-		  <br>
-		  <font color="#669900" size="3" face="verdana, sans-serif">
-		    <b>Privacy</b> 
- 
-		  </font><img src="image/3pix_spacer.gif" border="0" width="300" height="1">
-<a href="https://www.truste.org/validate/3213"><img src="image/clickseal.gif" align="right" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a> 
-		<br>
-		<a href="javascript:Certify();"><img src="image/privacyseal6.gif" alt="BBBOnLine Privacy Seal" width="90" height="31" border="0" align="right"></a>
-        
-      </p><p> <b>YesMail</b> is a powerful concept. The true value 
-                        of this concept, however, is your privacy and your trust 
-                        in our ability to ensure your privacy, as members, 
-                        marketers, and network partners. We created the 
-                        following privacy policy guidelines with a fundamental 
-                        respect for your right to privacy. </p>
-        <p>
-        <b><u>TRUSTe Licensee</u></b><br>
-yesmail.com is a licensee of the 
-                        TRUSTe Privacy Program. This statement discloses the 
-                        privacy practices for yesmail.com. When you visit a Web 
-                        site displaying the TRUSTe trustmark, you can expect to 
-                        be notified of: What personally identifiable information 
-                        of yours is collected; What organization is collecting 
-                        the information; How the information is used; With whom 
-                        the information may be shared; What choices are 
-                        available to you regarding collection, use and 
-                        distribution of the information; What kind of security 
-                        procedures are in place to protect the loss, misuse or 
-                        alteration of information under the company's 
-                        control; and How you can correct any inaccuracies in the 
-                        information.
-</p><p>
-Questions regarding this statement should be directed to <a href="mailto:privacy@yesmail.com">privacy@yesmail.com</a>. If the Web site has not 
-                        responded to your inquiry or your inquiry has not been 
-                        satisfactorily addressed, please contact TRUSTe (<a href="http://www.truste.org/users/watchdog.html">http://www.truste.org/users/watchdog.html</a>).
-</p><p>
-<b><u>BBBOnLine Privacy Program Participant</u></b><br>
-We also participate in the Council of Better Business Bureaus' BBBOnLine
-Privacy Program, and comply with all the BBBOnLine Privacy standards.  Further
-information about this program is available at <a href="http://www.bbbonline.org">http://www.bbbonline.org</a>.
-</p><p>
-<b><u>What Information is 
-                        Collected</u></b><br>YesMail members will provide an 
-                        email address and interest category selection. 
-At their option they may also provide additional personal, geographic and 
-demographic information such as zip code, gender, age, and education. YesMail 
-                        marketers and network partners will provide company 
-                        information via online contact forms such as company 
-                        name, contact person, phone, fax, email, etc. YesMail 
-                        will never knowingly collect or maintain information 
-                        about anyone under the age of 13.</p>
-<p>
-          <b><u>Confidentiality</u></b><br>
-YesMail does not provide individually identifiable information to third parties except as noted under “Limits of Confidentiality”.  YesMail uses proprietary technologies to preserve the anonymity of <b>members</b> while matching their interests with targeted information sent via email. YesMail will under no circumstance reveal any member’s identity to marketers.  It is solely at a YesMail member’s discretion if he or she chooses to provide personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after visiting its web site. 
-</p><p>
-Contact information provided by <b>marketers</b> and  <b>network partners</b> is never provided to third parties except as noted under “Limits of Confidentiality”.
-</p><p>
-<b><u>Limits of Confidentiality</u></b><br>
-
-Due to the existing legal regulatory and security environment, we may be forced 
-to disclose individually identifiable information to third parties. We will use 
-our best efforts to limit disclosure to only these circumstances where necessary 
-by contract, legal process, or the technical operation of the service.
-</p><p>
-<b><u>Use of Information</u></b><br>
-
-A YesMail member’s email address will only be used by YesMail to periodically contact that member about member-selected interests.  
-A marketer’s or network partner’s contact and company information will only 
-be used in response to a direct inquiry about YesMail 
-services.
-</p><p>
-YesMail uses incoming and outgoing website traffic data to help diagnose problems with our server and to administer our website.  We also use it to gather broad demographic information about our users in general.  We may combine demographic information supplied by a user at registration time with site usage data to provide profiles, in aggregate form, about our users and their preferences as it relates to the YesMail Network.
-</p><p>
-As part of providing customizable and personalized services, YesMail uses cookies to store and sometimes track information about members.  A cookie is a small amount of data that is sent to a member’s browser from a Web server and stored on a member’s computer hard drive. Areas of YesMail sites where members are prompted to login or that are customizable require acceptance of cookies. Cookies are also used to help us track the response to messages sent to members on behalf of marketers so that we can report campaign results to the marketer and track response history.
-</p><p>
-<b><u>Security Technology</u></b><br>
-YesMail has made a substantial investment in the latest server, database, backup and firewall technologies to protect the information assets of the YesMail Network.  These technologies are deployed as part of a sophisticated security architecture and protocol. All data resides in a tightly controlled, secure data center.  These investments mean that information about the identity and preferences of individual members is never accessible to anyone outside YesMail.
- </p><p>
-<b><u>Review/Modify/Terminate Membership</u></b><br>
-YesMail members may choose at any time to review, modify or permanently remove all contact and interest information stored by YesMail by accessing their account directly at <a href="http://my.yesmail.com">http://my.yesmail.com</a>.Once removed from the network, a past member will no longer receive any communications from YesMail.  YesMail will never sell, rent, or otherwise use the contact information of former members.
-</p><p>
-For more information see our <a href="terms.asp">Terms and Conditions</a> of service.
-</p><p>
-If you have any questions about this privacy statement, YesMail practices, or feel that your privacy has been compromised, please contact us at <a href="mailto:privacy@yesmail.com">privacy@yesmail.com</a>.
-
-	  
-	</p></font></td>
+    <td align="left" valign="top" background="images/header.jpg" width="680">
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="680" height="21">
+        <param name="movie" value="images/flash/nav.swf">
+        <param name="quality" value="high">
+        <embed src="images/flash/nav.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="680" height="21">
+         
+      </object>
+    </td>
+    <td bgcolor="#000000" valign="top" align="right"><a href="default.asp"><img src="images/ym_logo.gif" width="88" height="88" border="0" alt="Home"></a></td>
   </tr>
 </tbody></table>
-	
-<!-- End Page Level Content --> 
-
-	
-	
-	</td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="84%">
+  <tbody><tr> 
+    <td align="left" valign="top" width="225" background="images/bg1.gif"> 
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" height="500">
+	<tbody><tr><td align="left" valign="top" background="images/general_side_img.jpg">
+      <table width="225" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top" height="76"><img src="images/privacy_hd.gif" width="225" height="76"></td>
   </tr>
-	<tr>
-	<td>
-            <hr noshade="" size="1">
-<p align="center">
-<font face="Geneva, Verdana, Helvetica, sans-serif" size="-2" color="#000000">Copyright © 1999 yesmail.com</font><br>
-<a href="corporate/default.asp"><b><font face="Geneva, Verdana, Helvetica, sans-serif" size="-2" onmouseover="this.style.color='#000000'" onmouseout="this.style.color=''"> Company Information</font></b></a>&nbsp;| &nbsp; 
-<a href="terms.asp"><b><font face="Geneva, Verdana, Helvetica, sans-serif" size="-2" onmouseover="this.style.color='#000000'" onmouseout="this.style.color=''"> Terms and Conditions</font></b></a>&nbsp;| &nbsp; 
-<a href="mailto:webmaster@yesmail.com"><b><font face="Geneva, Verdana, Helvetica, sans-serif" size="-2" onmouseover="this.style.color='#000000'" onmouseout="this.style.color=''">Contact Webmaster</font></b></a><br>
-</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </td>
-	</tr>
-  </tbody></table> 
-
+  <tr>
+    <td background="images/spacer.gif" align="right" valign="top">
+      <table width="145" border="0" cellspacing="5" cellpadding="0">
+        <tbody><tr>
+          <td><img src="images/spacer.gif" width="1" height="30"></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table></td></tr></tbody></table>
+    </td>
+    <td align="left" valign="top">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td colspan="3" align="left" valign="top" background="images/top_bg.gif"><img src="images/spacer.gif" width="1" height="76"></td>
+        </tr>
+        <tr> 
+          <td width="25" align="left" valign="top" background="images/top_bg2.gif"><img src="images/spacer.gif" width="25" height="1"></td>
+          <td align="left" valign="middle" background="images/top_bg2.gif" height="43"><font class="hd">Privacy Policy </font> <br>
+          </td>
+          <td align="left" valign="middle" background="images/top_bg2.gif" height="43" width="25%">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="25" align="left" valign="top">&nbsp;</td>
+          <td align="left" valign="top" class="btext"> <table width="95%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="left" valign="top" class="btext"> <br>
+            Your privacy on the Internet is important to Yesmail™. As part 
+            of the operation of Yesmail, certain pieces of information are gathered 
+            about Yesmail Members. Below are explanations regarding the types 
+            of information collected, what is done with it, and how to correct 
+            or change the information. 
+            <p class="shd">What Information is Collected</p>
+            <p></p>
+            <p>As part of the Yesmail Member registration process, the prospective 
+              member is asked to provide an email address and interest category 
+              selections. The prospective member, at their option, may voluntarily 
+              provide additional information, including personal, geographic and 
+              demographic information. In addition to the information provided 
+              by members, Yesmail may also collect information about Yesmail 
+              Members from third party sources. Furthermore, Yesmail monitors 
+              incoming and outgoing Web site traffic data to help diagnose problems 
+              with its servers and to administer its Web site. Yesmail also 
+              uses this data to assemble broad demographic information about its 
+              members in general. The purpose of this data collection is to ensure 
+              that Yesmail Members receive only the most relevant, targeted offers 
+              and information from Yesmail. </p>
+            <p>Yesmail uses "contact us" forms as a way for clients, 
+              potential clients and members to communicate with Yesmail. Yesmail 
+              collects the information supplied by the sender of the "contact 
+              us" form in order to establish and maintain relationships with 
+              clients, potential clients and members. Yesmail also uses email 
+              links located on various pages of the Yesmail Web site to allow 
+              you to contact Yesmail with questions or comments you may have. 
+              Yesmail welcomes these email communications and makes efforts 
+              to respond to these communications where appropriate. Email communications 
+              and the ideas sent to Yesmail in these email communications 
+              become the property of Yesmail. Yesmail uses the email communications 
+              to evaluate and improve its services and Web site. Yesmail also 
+              may save these email communications for future reference or use. 
+            </p>
+            <p>In an attempt to customize the Yesmail service and provide members 
+              with the information they may be most interested in, Yesmail 
+              also conducts internal research on our users’ demographics, 
+              interests, and behavior based upon information members provide directly 
+              to Yesmail and information that Yesmail may collect from 
+              third party sources and/or through the use of “cookies” 
+              (see below). Yesmail may combine or otherwise overlay some or 
+              all of the foregoing information to build profiles about Yesmail 
+              Members, which may be individual specific or in aggregate form. 
+              By becoming a Yesmail Member, you consent to Yesmail employing 
+              the foregoing techniques in its continuing efforts to better serve 
+              its members by providing them with the information in which they 
+              may be most interested. Yesmail does not use information about 
+              its members for any purposes unrelated to the services offered by 
+              Yesmail. </p>
+            <p>As discussed above, Yesmail may, from time to time, obtain 
+              information about its members from third party sources. In addition, 
+              Yesmail may, from time to time, assist third parties in developing, 
+              implementing and monitoring advertising campaigns using data owned 
+              or supplied by the third party. Please be aware that this Privacy 
+              Policy does not cover the conduct or practices of these third party 
+              sources. However, Yesmail will treat information that it receives 
+              from third party sources according to the terms of this Privacy 
+              Policy. </p>
+            <p class="shd">The Use of Cookies</p>
+            <p>As an important and necessary part of providing customizable and 
+              personalized services to its members, Yesmail uses cookies to 
+              store and sometimes track information about members. A cookie is 
+              a small amount of data that is sent to a member’s browser from 
+              a Web server and stored on a member’s computer hard drive. 
+              Areas of Yesmail’s Web site where members are prompted 
+              to login or that are customizable require acceptance of cookies. 
+              Cookies are also used to help Yesmail track the response to 
+              messages sent to members on behalf of marketers so that Yesmail 
+              can monitor and report campaign results to the marketer and track 
+              response history. With respect to cookies, you have a choice. By 
+              modifying your browser preferences, you have the choice to accept 
+              all cookies, to be notified when a cookie is set, or to reject all 
+              cookies. If you choose to reject all cookies, you will be unable 
+              to use those Yesmail services that require the use of cookies in 
+              order to participate. </p>
+            <p class="shd">Children’s Online Privacy Protection</p>
+            <p>The safety of children is important to us. Yesmail’s Web 
+              site is a general audience site and is not directed to children 
+              under the age of 13. Similarly, Yesmail’s services are 
+              not directed to nor intended for anyone under the age of 13. Yesmail 
+              will not knowingly accept members who are under the age of 13 years 
+              nor will it knowingly collect or maintain personally identifiable 
+              information from or about anyone under the age of 13 years. Accordingly, 
+              when registering to become a Yesmail Member, the new member must 
+              certify that they are not under the age of 13. Yesmail relies 
+              on the truthfulness of this certification when accepting new members. 
+              In the event that Yesmail receives information that establishes 
+              that a member is under the age of 13 years, Yesmail reserves 
+              the right, which it will exercise, to terminate that member's membership. 
+              Yesmail will also delete all information in its databases about 
+              that terminated member. </p>
+            <p>If you believe Yesmail has any information from or about anyone 
+              under 13, please contact us at the address listed below. </p>
+            <p>Email: <a href="mailto:privacy@Yesmail.com">privacy@Yesmail.com</a></p>
+            <p class="shd">Confidentiality</p>
+            <p>Yesmail will not provide personally identifiable information 
+              of a Yesmail Member to third parties except as noted under “Limits 
+              of Confidentiality.” Personally identifiable information means 
+              the member’s name, residence address, email address, social 
+              security number or other information from which the member’s 
+              identity may be reasonably ascertained. Yesmail uses proprietary 
+              technologies to preserve the anonymity of members while matching 
+              the member’s interests with targeted information sent via email. 
+              Yesmail will under no circumstance knowingly reveal any member’s 
+              identity to marketers. It is solely at a Yesmail Member’s discretion 
+              if he or she chooses to provide personally identifiable information 
+              to a marketer by making a purchase, requesting additional information, 
+              or communicating directly with the company or organization after 
+              visiting its Web site or otherwise. </p>
+            <p class="shd">Limits of Confidentiality</p>
+            <p>As part of its day-to-day business activities, Yesmail must 
+              disclose certain aggregate level information about Yesmail Members 
+              to certain third parties; principally, (1) Yesmail’s Network 
+              Partners, and (2) Marketers who use Yesmail’s network. 
+              Below is the information and circumstances under which Yesmail 
+              may be required to disclose information to third parties. </p>
+            <p>(1) Network Partners: When a Yesmail Member registers through the 
+              Web site of a Network Partner, Yesmail is obligated to disclose 
+              to that particular Network Partner the information submitted by 
+              the Yesmail Member during the registration process. In addition 
+              to the foregoing information, Yesmail may also disclose aggregate 
+              level information to the Network Partner about Yesmail Members who 
+              registered through that particular Network Partner’s site. 
+              Such aggregate information may include, for example, the number 
+              of individuals who registered through the Network Partner’s 
+              site; the turnover rate of Yesmail Members who have registered through 
+              the Network Partner’s site; with respect to any particular 
+              campaign, the response rates of the Yesmail Members who registered 
+              through the Network Partner’s site; and statistics on the interest 
+              categories selected by the Yesmail Members who have registered through 
+              the Network Partner’s site. Subject to the exceptions discussed 
+              below, Yesmail will not knowingly disclose any personally identifiable 
+              information about a Yesmail Member to a Network Partner unless such 
+              personally identifiable information was provided during the registration 
+              process through the Network Partner’s Web site. </p>
+            <p>(2) Marketers: Yesmail will disclose aggregate level information 
+              about Yesmail Members to marketers as reasonably necessary to explain 
+              the services that Yesmail can offer, to report on the advertising 
+              campaigns that Yesmail undertakes for any particular marketer, 
+              and/or to implement and explain campaign strategies. Subject to 
+              the exceptions discussed below, Yesmail will not knowingly disclose 
+              any personally identifiable information about a Yesmail Member to 
+              a marketer. </p>
+            <p>Due to the existing legal, regulatory and security environment, 
+              Yesmail may be required, under certain circumstances, to disclose 
+              aggregate level and/or personally identifiable information about 
+              its members. Yesmail will use its best efforts to limit such 
+              disclosure to the following: where Yesmail believes in good 
+              faith that it is required to do so in response to a subpoena or 
+              other legal process; where reasonably required to do so in order 
+              to maintain, update or otherwise implement Yesmail’s data 
+              security measures, equipment, technical operations and the like; 
+              or where reasonably necessary to identify, contact or bring legal 
+              action against persons or entities to preserve and/or enforce Yesmail’s 
+              rights. </p>
+            <p class="shd">Use of Information</p>
+            <p>Yesmail uses member information to deliver the Yesmail services. 
+              Thus, member information is used by Yesmail in identifying information 
+              that may be of interest to its members. A member's email address 
+              will be used by Yesmail to contact that member about member-selected 
+              interests. Yesmail also uses member information to monitor, 
+              interpret, analyze and report campaign results. Yesmail does 
+              not use member information for purposes unrelated to the services 
+              offered by Yesmail. </p>
+            <p class="shd">Protection of Member Information</p>
+            <p>Yesmail undertakes substantial efforts to protect the confidentiality 
+              of the identity, preferences and other information it has collected 
+              about individual members and will never knowingly allow access to 
+              this information to anyone outside Yesmail other than to the 
+              member or as described above under the heading Limits of Confidentiality. 
+              Yesmail has made a substantial investment in its server, database, 
+              backup and firewall technologies to protect the information assets 
+              of the Yesmail Network™, including the confidentiality of information 
+              collected about Yesmail Members. These technologies are deployed 
+              as part of a sophisticated security architecture and protocol. </p>
+            <p>You should also do your part in protecting your information. Your 
+              Yesmail user name and password are confidential and we recommend 
+              that you not divulge them to anyone. Unfortunately, neither Yesmail 
+              network nor data transmission over the Internet can be guaranteed 
+              to be 100% secure. As a result, while we strive to protect member 
+              information, Yesmail cannot ensure or warrant the security of 
+              member information. Thus, any information a member transmits to 
+              us is done so at the member’s own risk. Once we receive member 
+              information, Yesmail undertakes substantial efforts to protect 
+              the confidentiality of this information consistent with this Policy. 
+            </p>
+            <p class="shd">Reviewing or Modifying Member Information or Terminating 
+              Membership</p>
+            <p>A Yesmail Member may choose at any time to review, modify or permanently 
+              remove all information stored by Yesmail about that member by accessing 
+              their account directly at <a href="http://my.yesmail.com">my.Yesmail.com</a>. 
+              A Yesmail Member can also send an email to subs@my.Yesmail.com to 
+              terminate the account. If a member terminates their membership, 
+              the past member will no longer receive any communications from Yesmail. 
+              Yesmail will not sell, rent, or otherwise use the information about 
+              former members. </p>
+            <p>Policy Changes</p>
+            <p>The foregoing policy is effective as of June 2000. Yesmail reserves 
+              the right to change this policy at any time. Please check this page 
+              periodically for changes. Your continued use of Yesmail’s services 
+              following the posting of changes to these terms will mean you accept 
+              those changes. Yesmail will take reasonable measures to notify you 
+              if there is a material change in our privacy practices with respect 
+              to use of the information you have provided to Yesmail. Yesmail 
+              will conspicuously post these changes in our Privacy Policy. Yesmail 
+              also will post a message on the home page of its Web site that states 
+              that the Privacy Policy has been changed, and will provide a link 
+              to the Privacy Policy. These postings will occur on Yesmail’s 
+              Web site at least 30 days prior to any material change. For more 
+              information, see our <a href="terms.asp">Terms and Conditions</a> 
+              of service. If you have any questions about this privacy statement, 
+              Yesmail practices, or feel that your privacy has been compromised, 
+              please contact us at <a href="mailto:privacy@Yesmail.com">privacy@Yesmail.com</a>. 
+            </p>
+            <p>&nbsp;</p></td></tr></tbody></table>
+            </td>
+		  <td align="left" valign="top" background="images/side_bg1.gif"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td bgcolor="#000000" height="10"><img src="images/spacer.gif" width="1" height="10"></td>
+              </tr>
+              <tr> 
+                <td align="center" valign="middle" height="75"><img src="images/logos/privacyBBB.gif" width="90" height="31"></td>
+              </tr>
+              <tr> 
+                <td align="center" valign="middle" height="75"><img src="images/logos/clickseal.gif" width="91" height="73"></td>
+              </tr>
+              <tr> 
+                <td align="center" valign="middle" height="75"><img src="images/logos/cauce.gif" width="85" height="65"></td>
+              </tr>
+              <tr> 
+                <td align="center" valign="middle" height="75"><img src="images/logos/certified.gif" width="94" height="35"></td>
+              </tr>
+              <tr> 
+                <td align="center" valign="middle" height="75"><img src="images/logos/sm_recalogo.gif" width="68" height="65"></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"><a href="privacyseals.asp" class="itxt"><br>
+                  Information on<br>
+Privacy Organizations </a><br>
+                </td>
+              </tr>
+              <tr> 
+                <td align="center" valign="top">&nbsp;</td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+  <tbody><tr>
+    <td align="left" valign="top" bgcolor="#000000"><img src="../images/spacer.gif" width="10" border="0" height="1"><font class="sm">© 2002 
+      yesmail inc. All rights reserved. </font></td>
+      <td align="right" valign="top" bgcolor="#000000"><a href="../privacy.asp"><font class="sm" color="#ffffff">Privacy Policy</font></a><img src="../images/spacer.gif" width="10" border="0" height="1"></td>
+  </tr>
+</tbody></table>
 
 
 </body></html>
