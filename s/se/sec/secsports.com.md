@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secsports.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202032528id_/http%3A//www.secsports.com/new/local/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secsports.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604231151id_/http%3A//www.secsports.com/new/local/privacy.html) for the most accurate reproduction.*
 
 # 
 
