@@ -1,22 +1,46 @@
-> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204211000id_/http%3A//www.profitguide.com/Y/Y5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406185846id_/http%3A//profitguide.com/Y/Y5.html) for the most accurate reproduction.*
 
 # PROFITguide | Privacy Policy
 
   |   
-At PROFITguide, we treat our visitors as valued partners and honored guests.
+Here at PROFITguide.com ("Site"), we respect your right to control the information you give us and how we use it. Please review the following Policies that govern use of the Site and that protect Users' privacy. 
 
-As a product of Rogers Media Inc., PROFITguide will not sell or otherwise release your name, e-mail address or other information about you to any partner outside of Rogers Media without your consent. (This commitment also applies to subscribers to our e-newsletters.) Information will be shared only as required by law or to protect the safety of customers, employees or property.
+By using this Site, you agree to the terms of this Privacy Policy. We review our Privacy Policy periodically, and reserve the right, at our discretion, to modify it at any time. Please bookmark, and/or review this page from time to time. 
 
-We may collect information on visitors to our site through the use of registration screens, cookies, etc. This information will be used only to confirm identities, to maximize browser effectiveness, customize editorial or marketing information to customer preferences, or collect aggregate marketing information on behalf of the sponsors and advertisers who make PROFITguide possible. Again, no personal information will be released.
+PROFITguide.com collects two types of information from our visitors ("Users"): 
 
-If you choose to provide data to our database, you may make a written request at any time to have that data removed from our files.
+**1) Non-personal information**
 
-PROFITguide does not solicit information from children and will not knowingly collect information from children. We urge parents to supervise their children's Internet experiences and encourage their responsible behavior.
+As with all Web sites, each request for a file is recorded by our Web server in a log file. We use this file only to calculate overall site usage statistics, not to identify or track any individual user. 
 
-PROFITguide includes links, ad banners and other references to many other websites and businesses. These other organizations may have different marketing and privacy policies; visitors are urged to review these, as PROFITguide, PROFIT Magazine and Rogers Media will not be responsible for activities and policies at other websites.
+Non-personal, aggregate information about Users may be shared with third parties for marketing, advertising or research purposes. 
 
-If you have any questions about PROFITguide or our privacy policy, or to change or cancel any information we may have on file, please [e-mail us](mailto:feedback@profitmag.ca). 
+**2) Personal information**
 
-Occasionally we make our magazine postal address subscriber list available to reputable companies and organizations whose products or servicies may be of interest to you. If you are a magazine subscriber and do not want your name to be made available, please call us at 1-800-465-0700, or email us, or write to us at Profit, 777 Bay St, Toronto ON M5W 1A7. 
+Personal information refers to information specifically about who a User is, such as your name, age, address, e-mail address or telephone number. 
 
-|  
+The only personal information we may retain is what is provided voluntarily by you when you: 
+
+  * sign up for an e-newsletter
+  * use our subscriber service (or "Customer Care") facilities
+  * contact us with questions or comments about the Site
+  * submit answers to survey, questionnaires or recommendation requests
+
+We use this information to send you information about PROFITguide.com its products, or correspond with you regarding your subscription. 
+
+PROFITguide.com will not sell, distribute, barter or transfer any personal information obtained about our Users to a third party, without giving you, the User, the opportunity to opt-out. 
+
+From time to time we may make our list of customers available to reputable companies and organizations whose products or services may interest you. If you do not wish your name to be made available, please contact PROFITguide.com by [ email](mailto:aszego@generalcontent.com?Subject=Privacy%20Policy%20Page%20Response), telephone or mail as listed below. 
+
+For more detailed information on both the magazine and website Privacy Policy please see the [ Rogers Media Publishing Privacy Policy.](http://www.rogersmagazines.com/privacy.htm)
+
+To contact Rogers Media:
+
+>  **Privacy Request**  
+>  Magazine Subscriber Services  
+>  777 Bay St.  
+>  Toronto, Ontario M5W 1A7
+> 
+> Phone: 416-596-5523 
+
+If you have any questions or concerns about privacy on the PROFITguide.com site, please contact our [ Website Managing Editor](mailto:aszego@generalcontent.com?Subject=Privacy%20Policy%20Page%20Response).  |  
