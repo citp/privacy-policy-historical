@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civic.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203085900id_/http%3A//www.civic.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civic.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405054725id_/http%3A//www.civic.com/privacy.asp) for the most accurate reproduction.*
 
 # FCW Government Technology Group -- Privacy Policy
 
@@ -53,16 +53,6 @@ The information collected from subscribers is used in the following ways:
 
 
 Postal addresses will be used to promote FCW products and services, and may be rented to selected outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully.
-
-## GBuys
-
-FCW's aggregated IT purchasing Web site for the public sector requires user registration for access to certain gBuys functions, including submittal of Deal Requests. FCW uses the registration information to verify buyer eligibility and to communicate current and future gBuys activities. gBuys users who register will be passed a cookie to facilitate the maintenance of a gBuys account. 
-
-Registration information from subscribers to Federal Computer Week and civic.com magazines has been pre-loaded into the GBUYS registration database. That information includes a portion of the demographic information the user submitted on his magazine qualification form.
-
-Once a gBuys user is "in a Deal," FCW will forward the information in the Deal Request (excluding the price) to the responsible. FCW will not publicly release any information on the originator of the Deal Request. FCW may aggregate the results of Deal Requests and post or publish such aggregated information, but individual users will not be identified. 
-
-All remarks, suggestions, materials and ideas (other than the Deal Request) communicated to FCW through gBuys become the property of FCW, and all intellectual property rights therein are transferred to FCW. Users must take responsibility for whatever material they submit, and the individual gBuys users, not FCW, have full responsibility for the message, including its legality, reliability and appropriateness.
 
 The fcw.com Web site is maintained by  
 FCW Government Technology Group  
