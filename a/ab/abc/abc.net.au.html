@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abc.net.au privacy policy that was archived on 2002-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204223706id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abc.net.au privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602051545id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/global_nohilite.dwt" --><head>
 <!-- #BeginEditable "TITLE" --> 
@@ -23,150 +23,51 @@
 <link rel="stylesheet" href="/includes/network.css" type="text/css">
 <style type="text/css">
 <!-- 
-.menuitems {font-family:verdana,sans-serif; font-size: 11px; letter-spacing: 1px; color: #000;}
+.menuitems{font-family:verdana,sans-serif; font-size: 11px; letter-spacing: 1px; color: #000;}
 --> 
 </style>
-
 <script language="JavaScript" type="text/javascript">
-<!-- // (c) Australian Broadcasting Corporation 2001.
+<!-- //(c) Australian Broadcasting Corporation 2001.
 // Annotated version of this script at /includes/annotated_dhtml.txt
-var explorer5 = 0;
-var netscape4 = 0;
-var netscape6 = 0;
-
-var leftPos = 5;
-var topPos = 6;
-
-var hideinterval = 350;
-
-var theDOM, theSuffix, t, hideWord, showWord, theObjectReference, dhtml, theBrowser, lastMenuShown, thePlatform;
-if (navigator.appName.indexOf('Microsoft Internet Explorer',0)>-1){theBrowser='e';}
-if (navigator.appName.indexOf('Netscape',0)>-1){theBrowser='n';}
-if(navigator.platform){
-thePlatform = navigator.platform
-if (thePlatform.indexOf('Win')>-1){theBrowser+='w';}
-if (thePlatform.indexOf('Mac')>-1){theBrowser+='m';}
-}
-theBrowser += (parseInt(navigator.appVersion));
-if(theBrowser == 'ew5' || theBrowser == 'em5' || theBrowser == 'em4' || theBrowser == 'ew4'){explorer5 = true;}
-if(theBrowser == 'nw5' || theBrowser == 'nm5' ){netscape6 = true;}
-if(theBrowser == 'nw4' || theBrowser == 'nm4' ){netscape4 = true;}
-if(explorer5){theDOM='document.all';theSuffix='.style';hideWord='hidden';showWord='visible';dhtml=true;}
-if(netscape4){theDOM='document';theSuffix='';hideWord='hide';showWord='show';dhtml=true;}
-if(netscape6){theDOM="document.getElementsByTagName('*')";theSuffix=".style";hideWord="hidden";showWord="visible";dhtml=true;}
-if(navigator.userAgent.indexOf('iCab',0) >= 0){dhtml = false}
-if(navigator.userAgent.indexOf('Mozilla/5.0',0) >= 0 && navigator.userAgent.indexOf("rv:1.2",0)>=0){dhtml = false}
+e5=0;n4=0;n6=0;h=5;v=6;d=350;
+var D,S,t,H,sh,ob,dh,br,pl;
+if(navigator.appName.indexOf('Microsoft Internet Explorer',0)>-1){br='e';}
+if(navigator.appName.indexOf('Netscape',0)>-1){br='n';}
+if(navigator.platform){pl=navigator.platform;if(pl.indexOf('Win')>-1){br+='w';}if(pl.indexOf('Mac')>-1){br+='m';}}
+br+=(parseInt(navigator.appVersion));
+if(br=='ew5'||br=='em5'||br=='em4'||br=='ew4'){e5=1;}
+if(br=='nw5'||br=='nm5'){n6=1;}
+if(br=='nw4'||br=='nm4'){n4=1;}
+if(n4){dh=0;}if(navigator.userAgent.indexOf('iCab',0)>=0){dh=0}
+if(e5){D='document.all';S='.style';H='hidden';sh='visible';dh=1;}
+if(n6){D="document.getElementsByTagName('*')";S=".style";H="hidden";sh="visible";dh=1;}
 // -->
 </script>
 <script language="JavaScript" type="text/javascript">
 <!--
-if(dhtml){
-	document.write("<script src=\"/includes/menus021115.js\"><\/script>");
-}
+if(dh){document.write("<scr"+"ipt src=\"/includes/menus031905.js\"><\/script>");}
 // -->
 </script>
 <script language="JavaScript" type="text/javascript">
 <!-- //
-function writeExplorerArray(whichArray){
-	myString = '';
-	myString += '<div id="';
-	myString += whichArray[0];
-	myString += '" style="width: auto; position:absolute; z-index:2;';
-	myString += ' left:' + whichArray[leftPos] + 'px; ';
-	myString += ' top: ' + whichArray[topPos] + 'px; ';
-	myString += ' visibility: hidden;">';
-	myString += '<table border="0" cellspacing="0" cellpadding="3" style="background-color: #CCCCCC; cursor: hand; font-family:verdana,sans-serif; ">';
-	for(i=7;i<whichArray.length;i+=2){
-		myString += '<tr><td style="font-size: 11px; letter-spacing: 1px; color: #000;" onMouseOver="clearTimeout(t);this.style.background=\'#ffffff\'"';
-		myString += ' onMouseOut="this.style.background=\'#cccccc\';hide(\'';
-		myString += whichArray[0];
-		myString += '\');"';
-		myString += ' onClick="hideNow(\'' + whichArray[0] + '\');window.location=\'' + whichArray[(i+1)] + '\'">';
-		myString += whichArray[i];
-		myString += '<\/td><\/tr>';
-	}
-	myString += '<\/table><\/div>';
-document.write(myString);
-}
-
-function writeNetscapeArray(whichArray){
-	myString = '';
-	myString += '<layer id="' + whichArray[0] + '" left="' + whichArray[leftPos] + '" top="' + whichArray[topPos] + '" VISIBILITY="hide" BGCOLOR="#cccccc">';
-	myString += '<table border="0" width="120" cellspacing="0" cellpadding="1">';
-	for(i=7;i<whichArray.length;i+=2){
-		myString += '<tr><td><ilayer width="100%"><layer width="100%" bgColor="#cccccc" class="menuitems"';
-		myString += ' onMouseOver="clearTimeout(t);this.bgColor=\'#ffffff\'" onMouseOut="hide(\'' + whichArray[0] + '\');this.bgColor=\'#cccccc\';" onFocus="hideNow(\'' + whichArray[0] + '\');window.location=\'' + whichArray[(i+1)] + '\'">';
-		myString += whichArray[i]; 
-		myString += '<\/layer><\/ilayer><\/td><\/tr>';
-	}
-	myString += '<\/table>';
-	myString += '<\/layer>';
-document.write(myString);
-}
-
-if (netscape4) {
-      startWidth = innerWidth;
-      startHeight = innerHeight;
-   }
-function NS4Reload() {
-   if (innerWidth != startWidth || innerHeight != startHeight) 
-      location.reload();
-}
-if (netscape4) onresize = NS4Reload;
-if(netscape4){
-	for(j=0;j<metaArray.length;j++){
-			writeNetscapeArray(metaArray[j])
-	
-	}
-}
-if(explorer5 || netscape6){
-	for(j=0;j<metaArray.length;j++){
-			writeExplorerArray(metaArray[j])
-	
-	}
-}
-function hide(theMenu){
-	if(dhtml){	
-	{
-	theObjectReference = eval(theDOM + '.' + theMenu + theSuffix)
-		t = setTimeout('theObjectReference.visibility = hideWord' , hideinterval);
-	}
-	}
-}
-function hideNow(aMenu){
-	if(dhtml){	
-	{
-		theObjectReference = eval(theDOM + '.' + aMenu + theSuffix)
-		theObjectReference.visibility = hideWord;
-	}
-	}
-}
-function hideAllMenus(){
-	if(dhtml){
-	//alert(allMenus.length)
-	for(m=0; m < allMenus.length; m++){
-		hideNow(allMenus[m])
-	}
-	}
-}
-function show(theMenu){
-	if(dhtml){
-		hideAllMenus();
-		theObjectReference = eval(theDOM + '.' + theMenu + theSuffix)
-		theObjectReference.visibility = showWord;
-		lastMenuShown = theMenu;
-		return false;
-	} else {
-		return true;
-		}
-	}
-//	-->
+function E(A){st='';st+='<div id="';st+=A[0];st+='" style="width: auto; position:absolute; z-index:2;';st+=' left:'+A[h]+'px; ';st+=' top: '+A[v]+'px; ';st+=' visibility: hidden;">';st+='<table border="0" cellspacing="0" cellpadding="3" style="background-color: #CCCCCC; cursor: hand; font-family:verdana,sans-serif; ">';
+for(i=7;i<A.length;i+=2){st+='<tr><td class="menuitems" onMouseOver="clearTimeout(t);this.style.background=\'#ffffff\'"';st+=' onMouseOut="this.style.background=\'#cccccc\';hide(\'';st+=A[0];st+='\');"';st+=' onClick="hideNow(\''+A[0]+'\');window.location=\''+u+A[(i+1)]+'\'">';st+=A[i];st+='<\/td><\/tr>';}
+st+='<\/table><\/div>';document.write(st);}
+if(n4){sW=innerWidth;sH=innerHeight;}
+function n4R(){if(innerWidth != sW || innerHeight != sH){location.reload();}}
+if(n4) onresize=n4R;
+if(e5||n6){for(j=0;j<metaArray.length;j++){E(metaArray[j])}}
+function hide(theMenu){if(dh){{ob=eval(D+'.'+theMenu+S);t=setTimeout('ob.visibility=H' , d);}}}
+function hideNow(aMenu){if(dh){{ob=eval(D+'.'+aMenu+S);ob.visibility=H;}}}
+function hideAllMenus(){}
+function show(theMenu){if(dh){ob=eval(D+'.'+theMenu+S);ob.visibility=sh;return false;} else{return 1;}}
+// -->
 </script>
 </head>
 <body marginwidth="0" marginheight="0" onunload="hideAllMenus()">
-<map name="corpmap"><area shape="rect" coords="10,0,68,19" href="http://www.abcshop.com.au/" target="_blank" alt="ABC Shop" title="ABC Shop"><area shape="rect" coords="74,0,168,19" href="http://abc.net.au/contact/" alt="Contact the ABC" title="Contact the ABC"><area shape="rect" coords="174,0,264,19" href="http://abc.net.au/search/" alt="Search the ABC" title="Search the ABC"></map>
-<map name="buttonmap"><area shape="rect" onclick="return(show('news'))" onmouseout="hide('news')" coords="4,2,50,17" href="http://abc.net.au/news/" alt="News" title="News"><area shape="rect" onclick="return(show('kids'))" onmouseout="hide('kids')" coords="1,19,51,34" href="http://abc.net.au/children/" alt="Kids" title="Kids"><area shape="rect" onclick="return(show('radio'))" onmouseout="hide('radio')" coords="53,0,123,16" href="http://abc.net.au/radio/" alt="ABC Radio" title="ABC Radio"><area shape="rect" onclick="return(show('youth'))" onmouseout="hide('youth')" coords="54,19,124,35" href="http://abc.net.au/fly/" alt="Youth" title="Youth"><area shape="rect" onclick="return(show('tv'))" onmouseout="hide('tv')" coords="127,0,188,16" href="http://abc.net.au/tv/" alt="ABC TV" title="ABC TV"><area shape="rect" onclick="return(show('science'))" onmouseout="hide('science')" coords="127,19,188,35" href="http://abc.net.au/science/" alt="Science" title="Science"><area shape="rect" onclick="return(show('publicRecord'))" onmouseout="hide('publicRecord')" coords="190,0,274,16" href="http://abc.net.au/public/" alt="Public Affairs" title="Public Affairs"><area shape="rect" onclick="return(show('arts'))" onmouseout="hide('arts')" coords="190,19,274,35" href="http://abc.net.au/arts/" alt="Arts &amp; Culture" title="Arts &amp; Culture"><area shape="rect" onclick="return(show('rural'))" onmouseout="hide('rural')" coords="277,0,341,16" href="http://abc.net.au/rural/" alt="Rural" title="Rural"><area shape="rect" onclick="return(show('education'))" onmouseout="hide('education')" coords="278,19,342,35" href="http://abc.net.au/learn/" alt="Education" title="Education"><area shape="rect" onclick="return(show('ap'))" onmouseout="hide('ap')" coords="345,0,419,16" href="http://abc.net.au/asiapacific/" alt="Asia-Pacific" title="Asia-Pacific"><area shape="rect" onclick="return(show('indigenous'))" onmouseout="hide('indigenous')" coords="345,19,418,34" href="http://abc.net.au/message/" alt="Indigenous" title="Indigenous"><area shape="rect" onclick="return(show('sport'))" onmouseout="hide('sport')" coords="423,0,532,17" href="http://abc.net.au/sport/" alt="Sport" title="Sport"><area shape="rect" href="http://abc.net.au/health/" coords="536,20,593,34" onclick="return(show('health'))" onmouseout="hide('health')" alt="Health" title="Health"><area shape="rect" onclick="return(show('area'))" onmouseout="hide('area')" coords="422,19,531,34" href="http://abc.net.au/backyard/" alt="ABC In Your Area" title="ABC In Your Area"></map>
-<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr bgcolor="#999999"><td align="left"><a href="http://abc.net.au/" title="Australian Broadcasting Corporation Online"><img src="/img3/gn02logo.gif" width="160" height="19" border="0" alt="Australian Broadcasting Corporation Online"></a></td><td align="right"><img src="/img3/gn02links.gif" width="273" height="19" border="0" usemap="#corpmap"></td></tr><tr bgcolor="#CCCCCC"><td colspan="2" background="/img3/gn02barbg.gif" align="left"><img src="/img3/bar020823.gif" width="596" height="36" border="0" usemap="#buttonmap" alt="ABC Online Navigation Bar"></td></tr></tbody></table>
+<map name="corpmap"><area shape="rect" coords="10,0,68,19" href="http://www.abcshop.com.au/" target="_blank" alt="ABC Shop" title="ABC Shop"><area shape="rect" coords="74,0,168,19" href="http://www.abc.net.au/contact/" alt="Contact the ABC" title="Contact the ABC"><area shape="rect" coords="174,0,264,19" href="http://www.abc.net.au/search/" alt="Search the ABC" title="Search the ABC"></map>
+<map name="buttonmap"><area shape="rect" onclick="return(show('news'))" onmouseout="hide('news')" coords="4,2,50,17" href="http://www.abc.net.au/news/" alt="News" title="News"><area shape="rect" onclick="return(show('kids'))" onmouseout="hide('kids')" coords="1,19,51,34" href="http://www.abc.net.au/children/" alt="Kids" title="Kids"><area shape="rect" onclick="return(show('radio'))" onmouseout="hide('radio')" coords="53,0,123,16" href="http://www.abc.net.au/radio/" alt="ABC Radio" title="ABC Radio"><area shape="rect" onclick="return(show('youth'))" onmouseout="hide('youth')" coords="54,19,124,35" href="http://www.abc.net.au/fly/" alt="Youth" title="Youth"><area shape="rect" onclick="return(show('tv'))" onmouseout="hide('tv')" coords="127,0,188,16" href="http://www.abc.net.au/tv/" alt="ABC TV" title="ABC TV"><area shape="rect" onclick="return(show('science'))" onmouseout="hide('science')" coords="127,19,188,35" href="http://www.abc.net.au/science/" alt="Science" title="Science"><area shape="rect" onclick="return(show('publicRecord'))" onmouseout="hide('publicRecord')" coords="190,0,274,16" href="http://www.abc.net.au/public/" alt="Public Affairs" title="Public Affairs"><area shape="rect" onclick="return(show('arts'))" onmouseout="hide('arts')" coords="190,19,274,35" href="http://www.abc.net.au/arts/" alt="Arts &amp; Culture" title="Arts &amp; Culture"><area shape="rect" onclick="return(show('rural'))" onmouseout="hide('rural')" coords="277,0,341,16" href="http://www.abc.net.au/rural/" alt="Rural" title="Rural"><area shape="rect" onclick="return(show('education'))" onmouseout="hide('education')" coords="278,19,342,35" href="http://www.abc.net.au/learn/" alt="Education" title="Education"><area shape="rect" onclick="return(show('ap'))" onmouseout="hide('ap')" coords="345,0,419,16" href="http://www.abc.net.au/asiapacific/" alt="Asia-Pacific" title="Asia-Pacific"><area shape="rect" onclick="return(show('indigenous'))" onmouseout="hide('indigenous')" coords="345,19,418,34" href="http://www.abc.net.au/message/" alt="Indigenous" title="Indigenous"><area shape="rect" onclick="return(show('sport'))" onmouseout="hide('sport')" coords="423,0,532,17" href="http://www.abc.net.au/sport/" alt="Sport" title="Sport"><area shape="rect" href="http://www.abc.net.au/health/" coords="536,20,593,34" onclick="return(show('health'))" onmouseout="hide('health')" alt="Health" title="Health"><area shape="rect" onclick="return(show('area'))" onmouseout="hide('area')" coords="422,19,531,34" href="http://www.abc.net.au/backyard/" alt="ABC In Your Area" title="ABC In Your Area"></map>
+<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr bgcolor="#999999"><td align="left"><a href="http://www.abc.net.au/" title="Australian Broadcasting Corporation Online"><img src="/img3/gn02logo.gif" width="160" height="19" border="0" alt="Australian Broadcasting Corporation Online"></a></td><td align="right"><img src="/img3/gn02links.gif" width="273" height="19" border="0" usemap="#corpmap"></td></tr><tr bgcolor="#CCCCCC"><td colspan="2" background="/img3/gn02barbg.gif" align="left"><img src="/img3/bar020823.gif" width="596" height="36" border="0" usemap="#buttonmap" alt="ABC Online Navigation Bar"></td></tr></tbody></table>
 <table border="0" bordercolor="#FF0000" cellspacing="0" cellpadding="0" width="100%" bgcolor="#FFFFFF">
   <!-- GRID -->
   <tbody><tr valign="top"> 
@@ -202,7 +103,7 @@ function show(theMenu){
 			Online</a> » <!-- #BeginEditable "BREADCRUMB" -->Privacy Policy<!-- #EndEditable --></td>
 		  <td class="breadcrumb" align="right"> 
 			
-			Thursday, December  5, 2002
+			Monday, June  2, 2003
 		  </td>
 		</tr>
 	  </tbody></table>
@@ -236,86 +137,84 @@ function show(theMenu){
 	  <!-- #BeginEditable "PRINT CONTENT" --> 
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr> 
-<td class="head2">&nbsp;&nbsp;<b>Privacy Policy</b></td>
-</tr>
-<tr> 
 <td align="left" valign="top"><img src="/img3/spacer.gif" height="6" alt=""></td>
 </tr>
 <tr> 
-<td align="left" valign="top">ABC Online is strongly committed to protecting your privacy while interacting with our content, products and services. We want to provide a safe and secure environment for you and your children. <p>
-The ABC is concerned about protecting the safety and privacy of young people using our services. We encourage you to participate in your child's online experience. We also encourage you and your child to visit the age-appropriate ABC Online website specifically designed for children, 'The Playground' at <a href="http://abc.net.au/children">abc.net.au/children</a>. </p><p>
-The purpose of this Privacy Policy is to tell you what kind of information we may gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct this information. Our policy allows you to choose what kind and how much information you provide to us and to control how we use whatever information you give us. Our goal is to provide you with a satisfying experience while allowing you to control your privacy and to give you a means to voice any questions or concerns you may have.</p><p>
-This policy applies only to ABC Online and not to other companies' or organisations' websites to which ABC Online is linked.</p><p>
-Please note that the ABC Shop has additional information about how it deals with privacy and personal information you provide ABC Online when dealing with the ABC Shop. Please visit the ABC Shop's <a href="http://abcshop.com.au/help/privacy.shtm">privacy and security page</a>.
-</p><h3> Collection of information</h3>
-<p>
-Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked to provide information such as your name, email address or information about what you like and do not like. It is entirely your choice whether to respond to these questions or not.</p><p>
-ABC Online collects two types of information. The first type is anonymous information. For instance, we may collect information to tell us that five thousand people visit this Privacy Policy today, but we do not know their names, where they live or their date of birth - they are 'anonymous' to us. Many of the individuals who access our services are anonymous to us.
-</p><p> The second type of information that ABC Online collects is personal information. ABC 
-  Online will collect personal information that lets us know the specifics of who you are 
-  such as your name, email address, or postal address, <i>when you provide it to us</i>. 
-  With this information, ABC Online can provide a variety of personalised and enhanced 
-  services that are not available to anonymous users. We hope that you will find it beneficial 
-  to provide individually identifiable information about yourself to us because it will 
-  make our services more valuable to you.
-</p><p>
+<td align="left" valign="top"><!-- START ABC PRIVACY POLICY -->
+<h1>Privacy Policy</h1>
 
-Sometimes, we may specifically ask for personal information about you when you sign up to use a service. Certain information may be required, such as your name, age, internet address or screen name, billing address, type of computer, credit card number, in order to provide that service or product to you. This information may also be used to inform you of additional products and services which may interest you. You can choose not to receive such information when you are undertaking product or service registration on our website. We may also ask about your interests, but it is your choice whether to respond.
-How much of your personal information that you choose to disclose to ABC Online is completely up to you. The only way we know something about you personally is if you provide it to us, for example when you take part in a discussion forum or enter one of the competitions on our websites.
-</p><h3> Use of anonymous information</h3>
-<p>
+<p>ABC Online is strongly committed to protecting your privacy while interacting with our content, products and services. We want to provide a safe and secure environment for you and your children.</p>
 
-ABC Online automatically gathers anonymous information to monitor the use of ABC Online like the numbers and frequency of visitors to ABC Online and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our audiences use parts of the site, so we can improve ABC Online to assure that it is as appealing as we can make it for as many users as possible. ABC Online may publish or provide this aggregate data to other people.
-</p><h3> Use of personal information</h3>
-<p>
-ABC Online will only use the personal information you have chosen to provide us for the purpose for which you provided it. ABC Online will not use it for any other purpose without your consent.
-</p><h3> Cookies</h3>
-<p>
-The ABC Shop site currently uses cookies. For more information about how the ABC Shop uses cookies, please visit the ABC Shop's privacy policy at http://shop.abc.net.au/abcasp/help/security_issues.asp 
-</p>
+<p>The ABC is concerned about protecting the safety and privacy of young people using our services. We encourage you to participate in your child's online experience. We also encourage you and your child to visit the age-appropriate ABC Online website specifically designed for children, 'The Playground' at <a href="http://abc.net.au/children">abc.net.au/children</a>.</p>
 
-<p>
-The ABC will start using cookies across the rest of the ABC Online website from 27 May 2002. 
-</p>
+<p>The purpose of this Privacy Policy is to tell you what kind of information we may gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct this information. Our policy allows you to choose what kind and how much information you provide to us and to control how we use whatever information you give us. Our goal is to provide you with a satisfying experience while allowing you to control your privacy and to give you a means to voice any questions or concerns you may have.</p>
 
-<p>
-For more information see <a href="/about/cookies.htm">this page</a>.
-</p>
+<p>This policy applies only to ABC Online and not to other companies' or organisations' websites to which ABC Online is linked.</p>
 
-<h3> Disclosure</h3>
-<p>
+<p>Please note that the ABC Shop has additional information about how it deals with privacy and personal information you provide ABC Online when dealing with the ABC Shop. Please visit the ABC Shop's <a href="http://abcshop.com.au/help/privacy.shtm">privacy and security page</a>.</p>
 
-There will be occasions where it will be necessary for the ABC to disclose your personal information to third parties. The ABC may be required by law to disclose the information, or the ABC may be required to disclose your personal information to third parties to provide the service you have requested, for example, if you purchase products online from the ABC Shop, the ABC will need to disclose your personal information to third parties in order to bill and deliver your products. However, the disclosure will only be made where it is necessary to fulfil the purpose for which you disclosed your personal information. 
-Otherwise than stated above, we do not disclose personal information that you may give us, such as your name, address, email address or telephone number, to any organisation or person outside the ABC <u>unless you have authorised us to do so</u>. For example, when you contribute to an online forum you may want to publish your name and email address. 
+<h2>Collection of information</h2>
 
-</p><h3> No sale of personal information </h3>
-<p>Under no circumstances will ABC Online sell or receive payment for licensing or disclosing 
-  your personal information. 
-</p><h3> Interacting with ABC Online</h3>
-<p>
+<p>Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked to provide information such as your name, email address or information about what you like and do not like. It is entirely your choice whether to respond to these questions or not.</p>
 
-There are many interactive features on ABC Online that you can contribute to. These include: 
-Guestbooks, Forums, Event Diaries, Reviews, Recipes, Online Voting, Community, Mailing Lists and Email. </p><p>
+<p>ABC Online collects two types of information. The first type is anonymous information. For instance, we may collect information to tell us that five thousand people visit this Privacy Policy today, but we do not know their names, where they live or their date of birth - they are 'anonymous' to us. Many of the individuals who access our services are anonymous to us.</p>
 
-When interacting with ABC Online, we suggest that you use your discretion and exercise caution when providing your personal information.</p><p> 
+<p>The second type of information that ABC Online collects is personal information. ABC Online will collect personal information that lets us know the specifics of who you are such as your name, email address, or postal address, <i>when you provide it to us</i>. With this information, ABC Online can provide a variety of personalised and enhanced services that are not available to anonymous users. We hope that you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you.</p>
 
-Note that whenever you post personal information in publicly accessible places, such as chat rooms or message boards, this information becomes available to anyone with access to the internet. This information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Therefore, we recommend that you refrain from posting any information that you do not want seen in these public areas. For example, when participating in an ABC forum, guest book or chat area, your name will appear on the message board. If you do not want your real name to appear use a false name but do not under any circumstances use somebody else's name.</p><p>
+<p>Sometimes, we may specifically ask for personal information about you when you sign up to use a service. Certain information may be required, such as your name, age, internet address or screen name, billing address, type of computer, credit card number, in order to provide that service or product to you. This information may also be used to inform you of additional products and services which may interest you. You can choose not to receive such information when you are undertaking product or service registration on our website. We may also ask about your interests, but it is your choice whether to respond.</p>
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any personal information. Be responsible whenever you are online.
-</p><h3> Access and correction: personal data</h3>
-<p>
+<p>How much of your personal information that you choose to disclose to ABC Online is completely up to you. The only way we know something about you personally is if you provide it to us, for example when you take part in a discussion forum or enter one of the competitions on our websites.</p>
 
-If ABC Online holds your personal information the ABC will where possible provide you with access to the information. The ABC will take reasonable steps to correct the information so that it is accurate, complete and up to date.
-</p><h3> Security</h3>
-<p>
+<h2>Use of anonymous information</h2>
 
-The ABC operates secure data networks that are designed to protect your privacy and security. The ABC Shop has it's own Security and Privacy Issues document which can be found on The Shop website at <a href="http://shop.abc.net.au/abcasp/help/security_issues.asp">http://shop.abc.net.au/abcasp/help/security_issues.asp</a>.
-</p><h3> Complaints about privacy</h3>
-<p>
-If you have any complaints relating to online privacy issues on our websites, please notify ABC Online at <a href="mailto:webmaster@your.abc.net.au"> webmaster@your.abc.net.au</a>. While the ABC accepts no liability for any material or links posted to the service, we will investigate all complaints. 
-</p><h3> Changes to ABC Online privacy policy</h3>
-<p> If we decide to change the ABC Online Privacy Policy, we will post those changes here.
-</p><p></p></td>
+<p>ABC Online automatically gathers anonymous information to monitor the use of ABC Online like the numbers and frequency of visitors to ABC Online and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our audiences use parts of the site, so we can improve ABC Online to assure that it is as appealing as we can make it for as many users as possible. ABC Online may publish or provide this aggregate data to other people.</p>
+
+<h2> Use of personal information</h2>
+
+<p>ABC Online will only use the personal information you have chosen to provide us for the purpose for which you provided it. ABC Online will not use it for any other purpose without your consent.</p>
+
+<h2>Cookies</h2>
+
+<p>The ABC Shop site currently uses cookies. For more information about how the ABC Shop uses cookies, please visit the ABC Shop's privacy policy at <a href="http://www.abcshop.com.au/help/privacy.shtm">http://www.abcshop.com.au/help/privacy.shtm</a></p>
+
+<p>The ABC will start using cookies across the rest of the ABC Online website from 27 May 2002.</p>
+
+<p>For more information see <a href="http://www.abc.net.au/about/cookies">this page</a>.</p>
+
+<h2>Disclosure</h2>
+
+<p>There will be occasions where it will be necessary for the ABC to disclose your personal information to third parties. The ABC may be required by law to disclose the information, or the ABC may be required to disclose your personal information to third parties to provide the service you have requested, for example, if you purchase products online from the ABC Shop, the ABC will need to disclose your personal information to third parties in order to bill and deliver your products. However, the disclosure will only be made where it is necessary to fulfil the purpose for which you disclosed your personal information. Otherwise than stated above, we do not disclose personal information that you may give us, such as your name, address, email address or telephone number, to any organisation or person outside the ABC <u>unless you have authorised us to do so</u>. For example, when you contribute to an online forum you may want to publish your name and email address.</p>
+
+<h2>No sale of personal information</h2>
+
+<p>Under no circumstances will ABC Online sell or receive payment for licensing or disclosing your personal information.</p>
+
+<h2>Interacting with ABC Online</h2>
+
+<p>There are many interactive features on ABC Online that you can contribute to. These include: Guestbooks, Forums, Event Diaries, Reviews, Recipes, Online Voting, Community, Mailing Lists and Email.</p>
+
+<p>When interacting with ABC Online, we suggest that you use your discretion and exercise caution when providing your personal information.</p> 
+
+<p>Note that whenever you post personal information in publicly accessible places, such as chat rooms or message boards, this information becomes available to anyone with access to the internet. This information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Therefore, we recommend that you refrain from posting any information that you do not want seen in these public areas. For example, when participating in an ABC forum, guest book or chat area, your name will appear on the message board. If you do not want your real name to appear use a false name but do not under any circumstances use somebody else's name.</p>
+
+<p>Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any personal information. Be responsible whenever you are online.</p>
+
+<h2>Access and correction: personal data</h2>
+
+<p>If ABC Online holds your personal information the ABC will where possible provide you with access to the information. The ABC will take reasonable steps to correct the information so that it is accurate, complete and up to date.</p>
+
+<h2>Security</h2>
+
+<p>The ABC operates secure data networks that are designed to protect your privacy and security. The ABC Shop has it's own Security and Privacy Issues document which can be found on The Shop website at <a href="http://www.abcshop.com.au/help/privacy.shtm">http://www.abcshop.com.au/help/privacy.shtm</a>.</p>
+
+<h2>Complaints about privacy</h2>
+
+<p>If you have any complaints relating to online privacy issues on our websites, please notify ABC Online at <a href="mailto:webmaster@your.abc.net.au"> webmaster@your.abc.net.au</a>. While the ABC accepts no liability for any material or links posted to the service, we will investigate all complaints.</p>
+
+<h2>Changes to ABC Online privacy policy</h2>
+
+<p>If we decide to change the ABC Online Privacy Policy, we will post those changes here.</p>
+<!-- END ABC PRIVACY POLICY --></td>
 </tr>
 </tbody></table>
 <!-- #EndEditable --> 
@@ -370,7 +269,7 @@ If you have any complaints relating to online privacy issues on our websites, pl
 	<td width="120" valign="top" colspan="2">&nbsp;</td>
 	<td valign="top" width="10" colspan="2">&nbsp;</td>
 	<td valign="middle" align="center" style="color: #ffffff; font-size:12px;"> 
-	  <span style="color:#FFFFFF;"><a href="http://www.abc.net.au/common/copyrigh.htm" target="_top" title="Copyright" style="color:#FFFFFF;">©&nbsp;2002 ABC</a> | <a href="http://www.abc.net.au/privacy.htm" target="_top" title="Privacy Policy" style="color:#FFFFFF;">Privacy Policy</a></span>
+	  <span style="color: #ffffff;"><a href="http://www.abc.net.au/common/copyrigh.htm" target="_top" title="Copyright" style="color: #ffffff;">©&nbsp;2003 ABC</a> | <a href="http://www.abc.net.au/privacy.htm" target="_top" title="Privacy Policy" style="color: #ffffff;">Privacy Policy</a></span>
 	</td>
 	<td width="10">&nbsp;</td>
 	<td width="20">&nbsp;</td>
