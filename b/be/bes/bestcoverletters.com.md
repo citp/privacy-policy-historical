@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the bestcoverletters.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604180259id_/http%3A//www.bestcoverletters.com/privacy.html) for the most accurate reproduction.*
+
+# Best Cover Letters :: Privacy Policy
+
+At bestcoverletters.com, we respect your right to privacy. We will never sell or rent your name, e-mail address and any other identifying information that you give us with any third party. 
+
+For each visitor, our web server collects no information regarding the domain, location, route or e-mail address. We only check the IP address and uses it for internal purpose. We uses IP address for creating unique hits for our banners. 
+
+By signing up for our FREE service, you agree to receive occasional e-mails from our company or our sponsors. You may remove yourself from these mailings at any time. 
+
+Third Party Advertising:  
+We use BUDS INC, Google, RealCastMedia, Commission Junction, MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
+
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
