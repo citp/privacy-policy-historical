@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oreilly.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060758id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreilly.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206092624id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
-# O'Reilly Network: Privacy Policy [Jan. 31, 2000]
+# O'Reilly Network: Privacy Policy
 
 |  |   
 |    | [](https://web.archive.org/lpt/a/14 "Go to a print-friendly version of this page.")| [Print](https://web.archive.org/lpt/a/14 "Go to a print-friendly version of this page.")  
