@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrfreefree.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401102822id_/http%3A//www.mrfreefree.com/page.tg%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfreefree.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231091210id_/http%3A//www.mrfreefree.com/page.tg%3Fprivacy) for the most accurate reproduction.*
 
-# MrFreeFree - Privacy Statement for Mr.FreeFree.com
+# Mr Free Free - Privacy Statement for Mr.FreeFree.com
 
 Mr.FreeFree.com is committed to protecting the privacy of our online visitors. This privacy policy discloses the privacy practices governing the use of information submitted to Mr.FreeFree.com through newsletter subscription and club membership. 
 
