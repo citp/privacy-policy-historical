@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602113213id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DNabiscoWorld) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202071936id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DNabiscoWorld) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,13 +7,13 @@
    
   
 **Nabisco Online Privacy Policy**  
-This Policy relates only to our online information collection and use practices. At Nabisco we recognize that many consumers who visit our web sites are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy, especially for children who visit our sites, we have developed and implemented this Privacy Policy for our domestic (i.e., U.S.) company. As this policy may change from time to time, we encourage you to periodically check it. 
+This Policy relates only to our online information collection and use practices. At Nabisco we recognize that many consumers who visit our web sites are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy, especially for children who visit our sites, we have developed and implemented this Privacy Policy for our domestic (i.e., U.S.) company. This Policy relates only to our online information collection and use practices. As this policy may change from time to time, we encourage you to periodically check it. 
 
 In short, we do the following: 
 
   * We only collect personally identifiable information that you **voluntarily** and **knowingly** provide us Tell me more;
   * We use the information that you provide us **only** for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent Tell me more;
-  * We do not **share** any information you provide us with anyone outside of Nabisco and its parent company, Kraft Foods, except for suppliers who assist us in maintaining and managing the activities on our sites. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information Tell me more;
+  * We do not **share** any information you provide us with anyone outside of Nabisco and its parent company, Kraft Foods North America, Inc., except for suppliers who assist us in maintaining and managing the activities on our sites. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information Tell me more;
   * For our sites that appeal to **children under 13** , we follow the collection and parental notification requirements of the Children’s On-Line Privacy Protection Act Tell me more;
   * We may use a technology called **“cookies”** to enhance your experience on our sites Tell me more;
   * We employ **appropriate security measures** to protect the loss, misuse and alteration of any information you provide us Tell me more; and
@@ -22,7 +22,7 @@ In short, we do the following:
 What follows is a more detailed explanation of our policy in each of these areas. ******Information We Collect and How We Use It**  
 ---  
 **_General_**  
-We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our sites, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our sites. We collect personally identifiable information primarily to e-mail updates and news, for entry into promotions and to notify subsequent winners, to send out brochures, etc. via regular mail to subscribers, and to respond to your questions or suggestions. We do not sell any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods. We do not transfer or disclose any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods, without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Nabisco in maintaining and managing the activities on its web sites, including, for example, fulfillment of prizes awarded in connection with an online game. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users (for example, the % of male and female visitors to our sites) with advertisers, business partners, sponsors, and other third parties in an effort to customize or enhance the content and advertising on our sites for our users. 
+We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our sites, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our sites. We collect personally identifiable information primarily to e-mail updates and news, for entry into promotions and to notify subsequent winners, to send out brochures, etc. via regular mail to subscribers, and to respond to your questions or suggestions. We do not sell any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods North America, Inc.. We do not transfer or disclose any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods North America, Inc., without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Nabisco in maintaining and managing the activities on its web sites, including, for example, fulfillment of prizes awarded in connection with an online game. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users (for example, the % of male and female visitors to our sites) with advertisers, business partners, sponsors, and other third parties in an effort to customize or enhance the content and advertising on our sites for our users. 
 
 We do reserve the right, in connection with the potential sale or transfer of the interests of Nabisco and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Nabisco’s successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy policy.
 
@@ -37,16 +37,16 @@ In communicating directly with children over the Internet, we recognize the uniq
 
   * collect,use or disclose on-line contact information from children except in connection with on-line promotions,discussed more fully below. Without prior parental consent, such on-line contact information will only be used to respond directly to the child's request and will not be used for other purposes;
   * collect personally identifiable off-line contact information unless for purposes of awarding prizes and only then with prior parental consent;
-  * distribute to third parties any personally identifiable information without prior parental consent;
+  * distribute to third parties any personally identifiable information;
   * enable children to publicly post or otherwise distribute personally identifiable contact information without prior parental consent; or
   * entice children by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
 
   
-We do offer promotions (e.g., contests, sweepstakes) on our web sites that appeal to children. In those cases where children under the age of 13 are allowed to participate, the child is instructed to first obtain his/her parent’s or legal guardian’s consent to participate and to enter the email address of his/her parent or guardian. If the game or contest involves the posting of screen names of the high scorers, we only allow high scorers who are under 13 to select a generic screen name from a list that has been developed in advance so as to prevent the disclosure of any personally identifiable information. If a child under 13 is selected as a prize-winner, an e-mail is sent to the parent or guardian. This e-mail contains a form that requests the child’s complete name and address and a parental permission form. For the child to receive the prize, the parent or guardian must first fill out and sign the form and then mail or fax it to the address or number indicated on the form. We do not use the information collected on the form for any purpose other than the completion of the promotion, and we do not share the information with anyone outside of Nabisco (other than suppliers, as explained above) unless we’ve explicitly advised parents to the contrary in the parental notice. We delete both the child’s and the parent’s personally identifiable information from our databases after a reasonable period of time once the promotion has ended.
+We do offer promotions (e.g., contests, sweepstakes) on our web sites that appeal to children. In those cases where children under the age of 13 are allowed to participate, the child is instructed to first obtain his/her parent’s or legal guardian’s consent to participate and to enter the email address of his/her parent or guardian. If the game or contest involves the posting of screen names of the high scorers, we only allow high scorers who are under 13 to select a generic screen name from a list that has been developed in advance so as to prevent the disclosure of any personally identifiable information. If a child under 13 is selected as a prize-winner, an e-mail is sent to the parent or guardian. This e-mail contains a form that requests the child’s complete name and address and a parental permission form. For the child to receive the prize, the parent or guardian must first fill out and sign the form and then mail or fax it to the address or number indicated on the form. We do not use the information collected on the form for any purpose other than the completion of the promotion, and we do not share the information with anyone outside of Nabisco (other than suppliers, as explained above). We delete both the child’s and the parent’s personally identifiable information from our databases after a reasonable period of time once the promotion has ended.
 
 We may permit a child to send us an e-mail or send an e-mail to a friend through our sites. We will respond to or deliver the e-mail, as the case may be, but we do not store the names, addresses, or the e-mails in our operational database, nor do we share this information with any third parties.
 
-As a parent, you can always ask to review any personal information about your child that we may have collected at one of our sites, have us delete this information (if we still have the information in our databases), and/or instruct us not to collect or use your child’s information in the future. If you are a parent and wish to exercise this right, simply [Contact Us](http://www.kraftapps.com/contact_us/contact_us.asp?referrer=NabiscoWorld).  
+As a parent, you can always ask to review any personal information about your child that we may have collected at one of our sites, have us delete this information (if we still have the information in our databases), and/or instruct us not to collect or use your child’s information in the future. If you are a parent and wish to exercise this right, simply [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=NabiscoWorld).  
   
 **Cookies**  
 Like many companies, we may use a technology called “cookies” to enhance your experience on our sites. The cookies Nabisco uses do not contain any personally identifiable information and can not profile your system or collect information from your hard drive. You are not identified by name or e-mail address, just by a unique string of numbers that we assign the first time you come to our site.  
@@ -57,15 +57,24 @@ We employ appropriate security measures to protect the loss, misuse and alterati
 Our sites provide you the opportunity to opt-in to receive communications from us, as described at each opt-in opportunity. Further, when you receive the requested communication, you are given the opportunity to unsubscribe from receiving any future communications or to change your information.
 
 **_Control_**  
-You can always ask to review any personal information that we may have collected from you at one of our web sites, have us update, correct or delete this information (if we still have the information in our databases), and/or instruct us not to use this information in the future. If you wish to exercise this right, simply [Contact Us](http://www.kraftapps.com/contact_us/contact_us.asp?referrer=NabiscoWorld).
+You can always ask to review any personal information that we may have collected from you at one of our web sites, have us update, correct or delete this information (if we still have the information in our databases), and/or instruct us not to use this information in the future. If you wish to exercise this right, simply [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=NabiscoWorld).
 
 **_Links To Other Sites_**  
 We do our best to make sure that every link on our web sites sends you and/or your child to a safe place on the Internet. However, web sites and addresses change quickly, and we can't always guarantee the content of every site for which we provide a link.  
   
 **How To Contact Us**  
   
-If you have any questions or concerns about our Privacy Policy or your dealings with this web site, please [Contact Us](http://www.kraftapps.com/contact_us/contact_us.asp?referrer=NabiscoWorld).
+If you have any questions or concerns about our Privacy Policy or your dealings with this web site, you can contact us at: 
+
+Kraft Foods North America,Inc.  
+1 Kraft Court  
+Glenview, IL 60025  
+Attention: Legal Department
+
+1-800-543-5335 (9 a.m. to 5 p.m. Eastern Time, Monday through Friday) 
+
+or [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=NabiscoWorld).
 
 **ENJOY THE Nabisco WEB SITES!**
 
-Last Revised:January 4, 2002 
+Last Revised:June 3, 2002 
