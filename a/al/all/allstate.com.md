@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstate.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629082711id_/http%3A//www.allstate.com/about/priv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstate.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224165257id_/http%3A//www.allstate.com/about/priv.asp) for the most accurate reproduction.*
 
 # Allstate.com - Learn More About Allstate Insurance Company
 
@@ -6,15 +6,15 @@
 
 Important Notice - Allstate Privacy Statement
 
- _Revised March 19, 2003_
+ _Revised July 1, 2004_
 
 At Allstate, we value you as a customer.  We share your concerns about privacy. We are providing this notice to explain how we treat personal information (“customer information”) that is not public.  This is information we obtain from you or other sources when we provide you with products and services.
 
 We want you to know that we respect your privacy; and we protect your information.
 
-  * We do not sell customer information.       
-  * We do not share your information with persons, companies, or organizations outside of Allstate that would use that information to contact you about their products and services.       
-  * We expect persons or organizations that provide services on our behalf to keep your information confidential.  We also expect those persons or organizations to use your information only to provide the services we have asked them to perform.       
+  * We do not sell customer information.              
+  * We do not share your information with persons, companies, or organizations outside of Allstate that would use that information to contact you about their products and services.              
+  * We expect persons or organizations that provide services on our behalf to keep your information confidential.  We also expect those persons or organizations to use your information only to provide the services we have asked them to perform.              
   * We convey to our employees about the need to protect your information.  We have established safeguards (these are physical, electronic and procedural) to protect this information.
 
 
@@ -22,10 +22,10 @@ We want you to know that we respect your privacy; and we protect your informatio
  **Attention Internet users . . .  
 ** This notice provides information about your use of our Web site.  This includes:
 
-  * Logging on and our use of online data collecting devices known as “cookies;”      
-  * Our collection of data such as IP address (the number assigned to your computer when you use the Internet).  This also includes browser and platform types, domain names, access times, referral data, and your activity while using our site;      
-  * Who should use our web site;       
-  * The security of data transmitted over the Internet; and      
+  * Logging on and our use of online data collecting devices known as “cookies;”             
+  * Our collection of data such as IP address (the number assigned to your computer when you use the Internet).  This also includes browser and platform types, domain names, access times, referral data, and your activity while using our site;             
+  * Who should use our web site;              
+  * The security of data transmitted over the Internet; and             
   * Links and co-branded sites.
 
 
@@ -37,36 +37,36 @@ We do not sell your customer or medical information to anyone. We do not share t
 
 Your agent or broker may use your information to help you with your insurance needs. We may also contact you about products, features, and options in which you have expressed an interest.   Without your consent, we may provide your information to persons or organizations in and out of Allstate.  This would be done as permitted or required by law.  We may do this to: 
 
-  * Fulfill a transaction you have requested.      
-  * Service your policy.      
-  * Market our products to you.      
-  * Investigate or handle claims.      
-  * Detect or prevent fraud.      
-  * Participate in insurance support organizations. The information in a report prepared by an insurance organization may be retained by that organization and distributed to other persons.      
+  * Fulfill a transaction you have requested.             
+  * Service your policy.             
+  * Market our products to you.             
+  * Investigate or handle claims.             
+  * Detect or prevent fraud.             
+  * Participate in insurance support organizations. The information in a report prepared by an insurance organization may be retained by that organization and distributed to other persons.             
   * Comply with lawful requests from regulatory and law enforcement authorities.
 
 
 
 These persons or organizations may include:
 
-  * Our affiliated companies.      
-  * Companies that perform services, such as marketing, on our behalf.      
-  * Other financial institutions with which we have an agreement for the sale of financial products.      
-  * Other insurance companies.  This would be done so they could perform their role in an insurance transaction involving you.      
-  * Independent claims adjusters.      
-  * A business or businesses that conduct actuarial or research studies.      
-  * People who request information pursuant to a subpoena or court order.      
-  * Repair shops and recommended claims vendors.      
+  * Our affiliated companies.             
+  * Companies that perform services, such as marketing, on our behalf.             
+  * Other financial institutions with which we have an agreement for the sale of financial products.             
+  * Other insurance companies.  This would be done so they could perform their role in an insurance transaction involving you.             
+  * Independent claims adjusters.             
+  * A business or businesses that conduct actuarial or research studies.             
+  * People who request information pursuant to a subpoena or court order.             
+  * Repair shops and recommended claims vendors.             
   * Your agent or broker.
 
 
 
  **What kind of customer information do we have, and where did we get it?  
-** Much of the information that we have about you comes from you. When you perform certain transactions,  you may give us information such as your name, address, and Social Security Number.  These transactions include when you submit an application for insurance, submit a request for insurance, submit a request for products and services we offer, or submit a request for an insurance quote.  We keep information about the types of services you purchase from us and our affiliates.  Examples of this include premiums, account balances, and payment history. We may collect information from our web site.  This includes your activity while using or site and information from online collecting devices known as “cookies” (see below).  We may collect information from outside sources such as consumer reporting agencies and health care providers.  The information we collect may include the following:
+** Much of the information that we have about you comes from you. When you perform certain transactions,  you may give us information such as your name, address, e-mail address, telephone number, family member information, credit/debit card numbers, auto/property ownership and/or Social Security Number.  These transactions include when you submit an application for insurance, submit a request for insurance, submit a request for products and services we offer, or submit a request for an insurance quote.  We keep information about the types of services you purchase from us and our affiliates.  Examples of this include premiums, account balances, and payment history. We may collect information from our web site.  This includes your activity while using or site and information from online collecting devices known as “cookies” (see below).  We may collect information from outside sources such as consumer reporting agencies and health care providers.  The information we collect may include the following:
 
-  * Loss information reports.      
-  * Motor vehicle reports.      
-  * Credit reports.      
+  * Loss information reports.             
+  * Motor vehicle reports.             
+  * Credit reports.             
   * Medical information.
 
 
@@ -115,9 +115,9 @@ We take seriously the issue of safeguarding your privacy online. However, please
  **What can you do as a customer to help maintain the security of information when accessing Allstate over the Internet?**  
 Some steps you can take to maintain the security of your information include:
 
-  * Utilize the latest, generally proven version of the Netscape, Microsoft Explorer or the America Online browser. Our site is most secure when using one of these browsers.      
-  * Keep your User ID and PIN or password confidential. Utilize a PIN or password unique to you and, if possible, change it frequently.      
-  * Make sure others are not watching you enter your User ID, PIN or password on your keyboard when using the Customer Care Center or when using other protected areas of Allstate.com.      
+  * Utilize the latest, generally proven version of the Netscape, Microsoft Explorer or the America Online browser. Our site is most secure when using one of these browsers.             
+  * Keep your User ID and PIN or password confidential. Utilize a PIN or password unique to you and, if possible, change it frequently.             
+  * Make sure others are not watching you enter your User ID, PIN or password on your keyboard when using the Customer Care Center or when using other protected areas of Allstate.com.             
   * Do not leave your computer unattended while logged onto our Customer Care Center or other protected areas of Allstate.com. After you’ve finished accessing your information, exit the Customer Care Center or other protected area within Allstate.com. This ensures that no one can access your policy information if you leave your computer and your session has not been timed out. 
 
 
@@ -125,7 +125,7 @@ Some steps you can take to maintain the security of your information include:
  **Whose Privacy Statement applies to Links and Co-Branded Sites?  
 ** This Web site contains links to other sites (including, but not limited to, sites owned and/or operated by Digital Cars, Inc., FinanCenter, ImproveNet, Inc., Weather.com, the Allstate Arena).  Allstate provides links to other sites as a convenience to persons who visit the Allstate web site.  If you choose to use the services provided by those sites, you may be asked by those sites to provide certain personally identifiable information (some of which may, on an individual or aggregated basis, be shared with Allstate).  Please be aware that Allstate is not responsible for the privacy practices of those sites, even though Allstate's name or logo may appear on those sites.  We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that you visit, as the privacy policies of those sites may differ from ours.  Our Privacy Statement applies solely to this Web site.
 
-We hope you have found this Important Notice helpful. If you are not comfortable with any of the terms or policies described in this Privacy Statement, we ask that you discontinue use of our site.  Please be aware that we may periodically update or revise this Privacy Statement.  If we change our online Privacy Statement, we will post a notice on our homepage notifying users that the policy has been revised.   If you have any questions or would like more information, please don’t hesitate to contact your Allstate agent or call the Allstate CIC at 1-800-Allstate.
+We hope you have found this Important Notice helpful. If you are not comfortable with any of the terms or policies described in this Privacy Statement, we ask that you discontinue use of our site.  Please be aware that we may periodically update or revise this Privacy Statement.  If we change our online Privacy Statement, we will post a notice on our homepage notifying users that the policy has been revised.   If you have any questions or would like more information, please don’t hesitate to contact your Allstate agent or call the Allstate CIC at 1-800-ALLSTATE®.
 
  **About Truste**  
 Allstate is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish business relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.allstate.com](http://www.allstate.com/). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
@@ -153,4 +153,4 @@ Roadway Protection Auto Club, Inc.
   
 
 
-[](http://www.allstate.com/About/Priv.asp?a=print)
+[](http://www.allstate.com/About/Priv.asp?a=print) | 
