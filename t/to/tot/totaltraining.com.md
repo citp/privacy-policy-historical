@@ -1,34 +1,6 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013055431id_/http%3A//www.totaltraining.com/2003privacy.asp%3Fmscsid%3D) for the most accurate reproduction.*
 
-# Total Training - Privacy Policy
-
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/home.html)
-
-  [Catalog Specials](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Store/hot_deals.asp)
-
-  [Shopping Cart](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Store/basket.asp)
-
-  [Join Our Mailing List](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/mailing_list.asp)
-
-|  |  | [](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Demo/index.html) |   
----|---|---|---  
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Demo/index.html) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Store/default.asp) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Store/default.asp) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/About/index.html) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/About/index.html) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Media/index.html) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Media/index.html) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Support/index.html) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Support/index.html) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/index.html) |   
-[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/index.html) |   
-|   
-| 
-
-Our Privacy Declaration
-
-Your right to privacy is important to us.
+# Total Training: Our Privacy Declaration
 
 Total Training respects your privacy. This Online Privacy Statement is made available to you in order to make you aware of how Total Training collects and uses identifying information for individuals who visit Total Training's Web site. Total Training is committed to taking reasonable steps to protect information provided to us. From time to time, we may use information provided to us to better serve our customer's needs. This Statement explains what information is collected, how it is collected, how it may be used, and how you can take steps to safeguard your interests.
 
@@ -44,9 +16,9 @@ These methods are not all-inclusive and Total Training may at some time use othe
 
 Individuals wishing to be removed from the opt-in database may do so in the following ways:
 
-  * Unsubscribe online at [www.totaltraining.com](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/mailing_list.asp). Click on the '[Join Our Mailing List](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/mailing_list.asp)' link, and follow the instructions for removal. 
+  * Unsubscribe online [here](http://echo.bluehornet.com/clients/totaltraining/change.htm). 
   * Send email to [marketing@totaltraining.com](mailto:marketing@totaltraining.com?subject=Unsubscribe). Us the word Unsubscribe in the subject line, and identify the email address that must be removed if the email is not being sent from that address. 
-  * Call Total Training at 1-888-368-6825 (outside of US dial 1-760-944-3900), Monday through Friday, 8:00am-5:00pm Pacific Time. 
+  * Call Total Training at 1-888-368-6825 (outside of US dial 1-760-517-9001), Monday through Friday, 8:00am-5:00pm Pacific Time. 
 
 **Use of Cookies**  
 A cookie is a small piece of data placed on a visitor's computer when certain portions of the site are visited. A cookie contains information that identifies individuals so that Total Training can analyze use of the site and make changes to better suit the needs of visitors. Some cookies also enable Total Training to recognize return visitors and enhance their user experience. Individuals who do not wish to receive cookies can configure their browsers to post a warning when the Web site server is sending a cookie. Visitors can then refuse cookies on a case by case basis. As an alternative, individuals can configure their browsers to refuse all cookies. Cookies are not required for use on any part of the Total Training Web site.
@@ -61,10 +33,11 @@ Total Training does not share or otherwise distribute any information collected 
 Questions regarding our Privacy Policy may be addressed to Total Training in the following ways: 
 
   * By email message addressed to [marketing@totaltraining.com](mailto:marketing@totaltraining.com?subject=Question%20about%20Privacy%20Policy)
-  * By telephone, dial toll-free 1-888-368-6825 (outside of US dial 1-760-944-3900, toll charges may apply) 
+  * By telephone, dial toll-free 1-888-368-6825 (outside of US dial 1-760-517-9001, toll charges may apply) 
   * By letter addressed to:  Total Training  
-324 Encinitas Blvd.  
-Encinitas, CA 92024  
+1819 Aston Ave.  
+Suite 101  
+Carlsbad, CA 92008  
 Attention: Online Marketing
 
 
