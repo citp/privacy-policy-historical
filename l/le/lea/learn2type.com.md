@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211133421id_/http%3A//learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210135624id_/http%3A//learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Learn 2 Type Privacy Statement
 
@@ -25,7 +25,7 @@ RJ Networks
 New York, NY 10014_   
 privacyX@Xlearn2type.com 
 
-Content and materials on this website are Copyright ©1999-2001 RJ Networks. 
+Content and materials on this website are Copyright ©1999-2002 RJ Networks. 
 
 Access to this website and content is provided at no charge, and with no   
 guarantees. While this content has been made available to assist you in   
