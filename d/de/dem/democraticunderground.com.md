@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201225516id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604015547id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
 
 # Democratic Underground Privacy Policy
 
@@ -41,4 +41,4 @@ This site gives users the following options for changing and modifying informati
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-David Allen Democratic Underground, LLC 1612 20th Street, NW Suite 401 Washington, DC 20009 mail@democraticunderground.com
+David Allen Democratic Underground, LLC P.O. Box 53350 Washington, DC 20009 mail@democraticunderground.com
