@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2002-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020430051836id_/http%3A//www.roses.ru/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217063434id_/http%3A//www.roses.ru/privacy.shtml) for the most accurate reproduction.*
 
-# RFS Flowers - Russia and FSU.
+# FAQ related to security and privacy.
 
 * * *
 
@@ -44,8 +44,8 @@ If we decide to change the privacy policy for Russian Florists' Network, we will
 
 How can I contact Russian Florists' Network if I have concerns regarding my privacy?
 
-If you have questions at any time regarding our privacy policy, you may contact Russian Florists' Network by sending a note to [webmaster@florists.ru](mailto:webmaster@florists.ru) or to the following address: 
+If you have questions at any time regarding our privacy policy, you may contact Russian Florists' Network by sending a note to [info@roses.ru](mailto:info@roses.ru) or to the following address: 
 
 Russian Florists' Network  
-17 Pushkina st  
-Kazan Russia 420111 
+185 Dekabristov str  
+Kazan Russia 420084 
