@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netflorist.co.za privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202201112id_/http%3A//www.netflorist.co.za/agent.asp%3Faffid%3D1%26cwpg%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflorist.co.za privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607045309id_/http%3A//www.netflorist.co.za/agent.asp%3Faffid%3D1%26cwpg%3D3) for the most accurate reproduction.*
 
-# NetFlorist - Flowers and gifts for every occasion in South Africa
+# NetFlorist - Netflorist - Flowers and gifts delivered in South Africa
 
 **Security & Privacy Statement**
 
@@ -16,10 +16,10 @@ We respect the privacy of visitors to our website and outline hereunder what vis
 4.  | To introduce new services on the website which would improve your shopping experience or provide additional value to you.  
   
 [**Privacy  
-**](https://web.archive.org/web/20031202201112id_/http%3A//www.netflorist.co.za/agent.asp?cwpg=57)Issues regarding the privacy of all clients of NetFlorist and how the profile system protects your privacy
+**](https://web.archive.org/web/20040607045309id_/http%3A//www.netflorist.co.za/agent.asp?cwpg=57)Issues regarding the privacy of all clients of NetFlorist and how the profile system protects your privacy
 
-[**Security Measures**](https://web.archive.org/web/20031202201112id_/http%3A//www.netflorist.co.za/agent.asp?cwpg=58)  
+[**Security Measures**](https://web.archive.org/web/20040607045309id_/http%3A//www.netflorist.co.za/agent.asp?cwpg=58)  
 How NetFlorist keeps your transactions safe and secure, ensuring your peace of mind
 
-[**Opt-Out Option**](https://web.archive.org/web/20031202201112id_/http%3A//www.netflorist.co.za/agent.asp?cwpg=59)  
+[**Opt-Out Option**](https://web.archive.org/web/20040607045309id_/http%3A//www.netflorist.co.za/agent.asp?cwpg=59)  
 Email migration of NetFlorist newsletters, specials and notifications including unsubscribing your profile from specific mail groups
