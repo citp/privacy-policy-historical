@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invisionpower.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606151901id_/http%3A//www.invisionpower.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionpower.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010100055id_/http%3A//www.invisionpower.com/%3Fprivacy) for the most accurate reproduction.*
 
-# Invision Power Services
+# Invision Power Services, Inc.
 
 How To Contact Us
 
@@ -50,4 +50,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 434-352-9311 or send us an email at privacy@invisionpower.com. 
+Should you have other questions or concerns about these privacy policies, please call us at 434-352-9311 or send us an email at privacy@invisionpower.com.   
+
