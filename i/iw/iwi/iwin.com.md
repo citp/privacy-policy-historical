@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwin.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620214148id_/http%3A//www.iwin.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwin.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203124900id_/http%3A//www.iwin.com/company/privacy.asp) for the most accurate reproduction.*
 
 # iwin.com - Privacy Policy
 
@@ -27,10 +27,10 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 This site employs strict security measures that protect the loss, misuse, and alteration of information under our control. Access to data is limited and strictly enforced. iwin.com periodically reviews each and every security policy to ensure privacy. Registration data is never sent over the Internet.
 
 **Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users options for removing their information from our database to not receive future communications or to no longer receive our service. Click [here](https://web.archive.org/web/20000620214148id_/http%3A//www.iwin.com/login/viewprofile.asp) to change your account preferences.
+Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site also gives users options for removing their information from our database to not receive future communications or to no longer receive our service. Click [here](https://web.archive.org/web/20001203124900id_/http%3A//www.iwin.com/login/viewprofile.asp) to change your account preferences. In addition, this site occasionally offers users the opportunity to "opt-in" to receiving information from third parties. When our users make such a decision, this site will provide certain user information to the third parties in order to help facilitate our users' expressed wishes. For example, if a user wishes to "opt-in" and join a third party's mailing list, we will forward certain information (e.g. the user's name and e-mail address, among other data) to the third party for processing. Please note that if users subsequently wish to remove their information from such third party databases, it may be necessary for the users to contact the third party directly.
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
-[iwin.com, Inc.](https://web.archive.org/web/20000620214148id_/http%3A//www.iwin.com/problems/sendproblems.asp)   
+[iwin.com, Inc.](https://web.archive.org/web/20001203124900id_/http%3A//www.iwin.com/problems/sendproblems.asp)   
 Los Angeles, California
