@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowridermagazine.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201191820id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowridermagazine.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603184046id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Primedia Consumer Privacy Policy
 
