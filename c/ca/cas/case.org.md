@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602235747id_/http%3A//www.case.org/Content/Miscellaneous/Display.cfm%3FcontentItemID%3D3397) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206180020id_/http%3A//www.case.org/Content/Miscellaneous/Display.cfm%3FcontentItemID%3D3397) for the most accurate reproduction.*
 
 # Council for Advancement and Support of Education - Privacy Statement
 
