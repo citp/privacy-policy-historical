@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401130429id_/http%3A//members.freewebs.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2004-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040207105509id_/http%3A//members.freewebs.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# ::. FreeWebs.com .:: Privacy Policy
+# Free Hosting - Web hosting, business personal webhosting, No Banner Ads. No Popup Windows.
 
 **OUR COMMITMENT TO YOUR PRIVACY**
 
