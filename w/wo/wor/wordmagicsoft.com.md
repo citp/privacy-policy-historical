@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the wordmagicsoft.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620183517id_/http%3A//www.wordmagicsoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordmagicsoft.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034840id_/http%3A//wordmagicsoft.com/privacy) for the most accurate reproduction.*
 
 # Word Magic Software: English-Spanish Translation Software and Language Tools: dictionary, thesaurus, verb conjugator, spell checker
 
-**  
-Word Magic Software (WMS): Translation Software and Dictionaries** is adamant about preserving the rights of our customers. The following discloses the information gathering and dissemination practices of this website: **Word Magic Software: Translation Software and Dictionaries.**
+**Word Magic Software (WMS): Translation Software and Dictionaries** is adamant about preserving the rights of our customers. The following discloses the information gathering and dissemination practices of this website: **Word Magic Software: Translation Software and Dictionaries.**
 
 **Registration and Order Forms:** Our site’s registration form requires users to give us contact information (their name, email, and postal address), and demographic information (zip code, age, income level).
 
