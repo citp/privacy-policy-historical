@@ -1,217 +1,326 @@
-<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2004-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208203829id_/http%3A//www.ironplanet.com/cust_support/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2005-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305040848id_/http%3A//www.ironplanet.com/main/privacy.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 TRANSITIONAL//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<title>IronPlanet - Privacy Statement</title>
+		
+	<!-- Meta Tag Include -->
+	<meta name="description" content="IronPlanet is a full service heavy equipment marketplace and auction offering used construction equipment online including Caterpillar dozers, Case backhoes and other heavy equipment for sale.">
+	<meta name="keywords" content="IronPlanet, used heavy equipment, used construction equipment, construction equipment auction, heavy equipment auction, heavy equipment for sale, used caterpillar equipment, used backhoes, used dozers, earthmoving, loader, excavator, skid steer, compactor, grader, scraper, tractor, crawler, Caterpillar, Komatsu, Volvo, Deere, Case, Bobcat, Blaw Knox, Dynapac, Hitachi, Ingersoll-Rand, DynCorp, IronClad, inspections">
+	
+	
+	<!-- Global Stylesheets -->
+	<link rel="stylesheet" href="/css/ip_global.css" type="text/css">
 
-	<title>IronPlanet| Customer Support | Privacy Statement</title>
+	<!-- Common JavaScript -->
+	<script language="JavaScript" type="text/javascript" src="/js/ipscripts.js"></script> 
 
-<link rel="STYLESHEET" type="text/css" href="/ip_nd.css">
-<meta name="description" content="IronPlanet is a full service heavy equipment marketplace and auction offering used construction equipment online including Caterpillar dozers, Case backhoes and other heavy equipment for sale.">
-<meta name="keywords" content="IronPlanet, used heavy equipment, used construction equipment, construction equipment auction, heavy equipment auction, heavy equipment for sale, used caterpillar equipment, used backhoes, used dozers, earthmoving, loader, excavator, skid steer, compactor, grader, scraper, tractor, crawler, Caterpillar, Komatsu, Volvo, Deere, Case, Bobcat, Blaw Knox, Dynapac, Hitachi, Ingersoll-Rand, DynCorp, IronClad, inspections">
 
 </head>
+<body class="wcon">
+<div style="width:765px" id="bigboy">
+<script>
+<!--
+// ========== Menu Scripts  ============================= 
+// Menu Variables
+var mm = 'm1'; // 
+var timeOn;
+var startTime;
+var hide_this; // Used to define whether to hide form elements below pull down menus.
 
-<body marginheight="5" marginwidth="0" topmargin="5" leftmargin="0" rightmargin="0">
-<!---- Begin Nav ----> <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#E5E5E5">
-  <tbody><tr>
-    <td align="left" valign="bottom" width="0%" rowspan="2"><a href="/index.shtml"><img src="/images/nav_logo3a.gif" width="124" height="37" border="0" alt="Home"></a></td>
-    <td width="55%" height="20"><nobr><b>&nbsp;&nbsp;<a href="/index.shtml"><img src="/images/icon_home.gif" width="16" height="16" border="0" align="absmiddle" alt="Home"></a>
-      <a href="/index.shtml">Home</a>
-	  &nbsp;&nbsp;
-      <a href="/j/equip/index.jsp"><img src="/images/icon_search_binoc.gif" border="0" align="absmiddle" width="17" height="14" alt="Equipment Search"></a>
-      <a href="/j/equip/index.jsp">Equipment Search</a>
-	  &nbsp;&nbsp;
-      <a href="/j/equip/current_auction.jsp"><img src="/images/icon_gravel.gif" width="16" height="16" border="0" align="absmiddle" alt="Featured Auction"></a>
-      <a href="/j/equip/current_auction.jsp">Featured Auction</a>
-	  &nbsp;&nbsp;</b></nobr>
-      </td>
-    <td align="right" width="45%" height="20">
-	<nobr><b>
-      <a href="/j/acct/my-account.jsp"><img src="/images/icon_acct.gif" width="16" height="16" border="0" align="absmiddle" alt="My Account"></a>
-      <a href="/j/acct/my-account.jsp">My Account</a></b>&nbsp;&nbsp;
-      <b>
-	  <a href="/help/index.shtml"><img src="/images/icon_help.gif" width="16" height="16" vspace="2" border="0" align="absmiddle" alt="Help &amp; Info"></a>
-      <a href="/help/index.shtml">Help &amp; Info</a>&nbsp;or call:&nbsp;888-433-5426&nbsp;</b></nobr></td>
-  </tr>
-  <tr>
-    <td height="1" bgcolor="#FF9900" colspan="2"><img src="/images/space.gif" width="1" height="1" border="0"></td>
-  </tr>
-</tbody></table>
- <!---- End Nav ----> <!---- Begin Crumbtrail ----> 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="98%">
+function show_menu(mx) {
+	clearTimeout(timeOn);
+	var exp = "menuOn('" + mx + "')";
+  	startTime = setTimeout(exp, 300); // 200ms delay before firing menubars
+}
 
-<tbody><tr>
+function menuOn(mx) {
+	if (document.getElementById) {
+		if (mx != mm) document.getElementById([mm]).style.visibility = "hidden";
+		mm = mx;
+		if (document.forms[0]) {  // This hides form elements in the page
+			for (var j=0; j < document.forms.length; j++) {  // iterate through form elements
+				hide_this = document.forms[j];
+				if (hide_this.className!="lh_form") {   // unless I flagged this form as lh and ok, hide the elements
+		 			for (var i=0; i < hide_this.elements.length; i++) {
+		 				if (hide_this.elements[i].nodeName == 'SELECT') hide_this.elements[i].style.visibility="hidden"; // Only hide select elements... the ones that overlap in IE
+					}
+				}
+			}
+		}
+		document.getElementById([mm]).style.visibility = "visible";
+	}
+}
 
-	<td class="hspace8">&nbsp;</td>
+function hide_menu(mx) {
+	clearTimeout(startTime);
+  	timeOn = setTimeout("menuOut()", 200);
+}
 
-</tr>
+function menuOut() {
+	if (document.getElementById) document.getElementById([mm]).style.visibility = "hidden";	
+	if (document.forms[0]) {  // This reshows form elements in the page
+		for (var j=0; j < document.forms.length; j++) {  // iterate through form elements
+			hide_this = document.forms[j];
+			for (var i=0; i < hide_this.elements.length; i++) {
+				hide_this.elements[i].style.visibility="visible";
+			}
+		}
+	}
+}
+// ========== End Menu Scripts ==============================
 
-<tr>
+// ========== Login Tracking ================================
+function getCookie(name) {
+  var dc = document.cookie;
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) return null;
+  } else
+    begin += 2;
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1)
+    end = dc.length;
+  return unescape(dc.substring(begin + prefix.length, end));
+}
 
-	<td width="100%">&nbsp;<a href="/">Home Page</a> /<a href="/help/index.shtml"> Help &amp; Info</a><b>/</b><a href="/cust_support/index.shtml">Customer Care</a> <b>/</b><a href="/cust_support/legal.shtml">Terms and Fees</a><b>/Privacy Statement</b></td>
-</tr>
+var loggedIn = getCookie("loggedin");
+var loginName = getCookie("login");
+var acsLevel = getCookie("reglevel");
+var termsTips = getCookie(loginName +"-termsTips");
 
-<tr>
+if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
+	var w2 = window.open('/pop/terms_popup.html','Terms','width=695, height=435,scrollbars=yes');
 
-	<td class="hspace">&nbsp;</td>
+	if(w2 != null)
+		w2.focus();
 
-</tr>
+	var today = new Date();
+	var expiry = new Date(today.getTime() + 30 * 24 * 60 * 60 * 1000);
+	document.cookie= loginName +"-termsTips=Y" + "; expires=" + expiry.toGMTString() +"; path=/";
+}
 
-</tbody></table>
-<!---- Begin  Display Table ----->
+// ========== End Login Tracking ================================
 
+// -->
+</script>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="96%">
-  <tbody><tr valign="top"> 
-    <td>&nbsp;</td>
-    <td bgcolor="#F2F2F2" width="100%" valign="top"> 
-      <table border="0" cellpadding="3" cellspacing="0" width="100%">
-        <tbody><tr bgcolor="#999999"> 
-          <td class="white" colspan="4"><b>Privacy Statement</b><b></b></td>
-        </tr>
-        <tr> 
-          <td colspan="3"><img src="/images/space.gif" width="1" height="2" border="0"></td>
-        </tr>
-        <tr bgcolor="#F2F2F2" valign="top"> 
-          <td colspan="3"> 
-            <table width="98%" border="0" cellspacing="3" cellpadding="2" align="center">
-              <tbody><tr align="left" valign="top"> 
-                <td> 
-                  <p>IronPlanet.com, Inc. (hereinafter referred to as "IronPlanet" 
-                    or "we") is committed to protecting your privacy online. You 
-                    are important to us, and we will take special care to maintain 
-                    your trust. In order to fully understand your rights, we encourage 
-                    you to read this Privacy Statement and to consult our <a href="/cust_support/short_terms_printable.shtml" target="new">Terms 
-                    &amp; Conditions</a>. Please direct questions regarding this 
-                    statement to <a href="mailto:customercare@ironplanet.com">CustomerCare@ironplanet.com</a>. 
-                  </p><p><b>When does IronPlanet collect my personal information?<br>
-                    </b> IronPlanet gathers information from users in three ways: 
-                    voluntary registration, cookie technology and IP addresses. 
-                  </p><blockquote> 
-                    <p><b>Voluntary Registration</b>. When you register with IronPlanet, 
-                      we ask for certain necessary personal information. Other 
-                      specific services may have additional registration requirements 
-                      and may require you to provide additional information. 
-                    </p><p><b>Cookies</b>. IronPlanet uses a browser cookie to remember 
-                      your login name (but not your password), as a reminder to 
-                      assist you the next time you log on to our site. 
-                    </p><p><b>IP Address</b>. IronPlanet may also log IP addresses 
-                      for the purposes of systems administration or to report 
-                      information in aggregate form to our advertisers, sponsors, 
-                      and corporate partners. 
-                  </p></blockquote>
-                  <p><b>How is my personally identifiable information used?</b></p>
-                  <blockquote> 
-                    <p><b>Customized Look and Feel</b>. IronPlanet gathers user 
-                      information for the purpose of reviewing our users' preferences, 
-                      demographics, traffic patterns, and other information in 
-                      the aggregate. 
-                    </p><p><b>E-mail</b>. If you register with our site, from time 
-                      to time, IronPlanet may email you with informative messages 
-                      about our services or third party products and services 
-                      we believe may be of interest to you. 
-                  </p></blockquote>
-                  <p><b>Who does IronPlanet share information with?<br>
-                    </b>IronPlanet may share user information with specific third 
-                    parties for the purpose of providing additional services. 
-                    In particular, IronPlanet has several service partners who 
-                    provide services or products and as part of such operations, 
-                    these companies may have access to your personal information. 
-                    In addition, IronPlanet also discloses aggregated user statistics 
-                    in order to describe our services and reach to prospective 
-                    partners, advertisers and other third parties. However aggregate 
-                    data is not traceable to you specifically. Except for these 
-                    situations, we will not disclose your personal information 
-                    to any third parties except to the extent necessary to provide 
-                    you with a requested service or under circumstances required 
-                    by law. We will disclose your personal information when we 
-                    believe in good faith that any applicable law, regulation 
-                    or legal process requires it, or where we believe disclosure 
-                    is necessary to protect or enforce our rights. 
-                  </p><p>Specific uses of personal information that vary from this 
-                    Privacy Statement (if any) may be found in the User Agreement 
-                    or privacy policies applicable to that particular service. 
-                    To the extent that you are notified of uses of your personal 
-                    information which are different from those described in this 
-                    Privacy Statement during your enrollment in any particular 
-                    service, contest or promotion, the uses of which you are specifically 
-                    notified will govern that service, sweepstakes, contest or 
-                    promotion. Please note, however, that we do not control the 
-                    privacy policies of our advertisers and other third party 
-                    sites to which we provide banner ads and links. If you click 
-                    through a banner ad or link and submit your information to 
-                    an advertiser, you will be subject to their own privacy policies. 
-                    IronPlanet assumes no responsibility or liability for these 
-                    third party policies or the actions of non-affiliated third 
-                    parties. 
-                  </p><p><b>What else should I know about my privacy?<br>
-                    </b> You should be aware that if you voluntarily disclose 
-                    personal information online in a public area, that information 
-                    may be collected and used by others. We do not control the 
-                    actions of our visitors and registered users. If you disclose 
-                    personal information in a publicly accessible place in the 
-                    IronPlanet web site ("IronPlanet Site"), you do so at your 
-                    own risk and you understand that your submitted information 
-                    may be collected and used by others to send you unsolicited 
-                    messages, advertisements, or for other purposes. 
-                  </p><p>Please remember that you are solely responsible for maintaining 
-                    the secrecy of any password you use to register and you should 
-                    always be careful and responsible whenever disclosing information 
-                    online. 
-                  </p><p>Although IronPlanet uses reasonable efforts to safeguard 
-                    the privacy of your personal information, transmissions made 
-                    by means of the Internet cannot be made absolutely secure. 
-                    IronPlanet assumes no liability for disclosure of data due 
-                    to errors in transmission or unauthorized third parties. 
-                  </p><p><b>Acceptance of Privacy Policy</b>. By using the IronPlanet 
-                    Site and services, you signify your acceptance of this Privacy 
-                    Statement. If you do not agree or are not comfortable with 
-                    any policy described in this Privacy Statement, your only 
-                    remedy is to discontinue use of the IronPlanet Site. We reserve 
-                    the right to modify this Privacy Statement at any time. Your 
-                    continued use of any portion of the IronPlanet Site following 
-                    notification or posting of such changes, will constitute your 
-                    acceptance of those changes. If you have questions or concerns 
-                    about our specific policies, please send an e-mail to <a href="mailto:customercare@ironplanet.com">CustomerCare@ironplanet.com</a>. 
-                </p></td>
-              </tr>
-            </tbody></table>
-            <img src="/images/space.gif" width="1" height="6" border="0"></td>
-        </tr>
-      </tbody></table>
+<div style="position:absolute; left:15px; top:1px; z-index:4;"><a href="/index.shtml"><img src="/k_images/logo_home.gif" border="0" alt="Home" title="Home"></a></div>
+<table id="yogurt" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr class="hdr_row1">
+    <td width="172px;"><img src="/k_images/dot.gif" width="172" height="1" alt=""></td>
+    <td><img src="/k_images/dot.gif" width="590" height="1" alt=""><br>
+    	<table style="width:100%" cellspacing="0" cellpadding="0" border="0">
+    	<tbody><tr>
+    		<td style="padding-bottom:3px; padding-left:10px; ">
+	    		<script language="javascript">
+					<!-- 
+					if (loginName == null) loginName = "";
+					  if (loggedIn && loginName != "")  {
+					  document.write("Logged in as: <nobr>"+loginName+"</nobr> | <a href=/j/logout_nd.jsp><b>Logout</b></a>");
+					  } else {
+					  document.write("<a href='/j/acct/register.jsp'>Register Now...</a> it's quick, easy, and FREE!");
+					}
+					// -->
+					</script><a href="/j/acct/register.jsp">Register Now...</a> it's quick, easy, and FREE!
+					<noscript>
+						<a href='/j/acct/my-account.jsp'>Login</a> or <a href="/j/acct/register.jsp">Register Now...</a> it's quick, easy, and FREE!
+					</noscript>
+    		</td>
+    		<td style="text-align:right; padding-bottom:3px;"><a href="/main/contact.shtml">Contact Us</a> : <img src="/k_images/icon_phone4_inv.gif" style="position:relative; top:2px;"> 888-433-5426&nbsp;&nbsp;</td>
+    	</tr>
+    	</tbody></table> 
     </td>
-  </tr>
+</tr>
+<tr class="hdr_row2">
+	<td>&nbsp;</td>
+	<td>
+		<table style="width:100%; max-width:800px; width:expression(document.getElementById('yogurt').offsetWidth > 1000 ? '800px': '100%');" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>		
+			<!-- <td><a class="menu_item" href="/index.shtml" id="menu5">HOME</a></td> -->
+			<td class="menu_root" onmouseover="show_menu('m1')" onmouseout="hide_menu('m1')" id="menu1"><a class="menu_item" style="text-align:left; padding-left:10px;" href="/j/equip/index.jsp">EQUIPMENT <img src="/k_images/down_arrow.gif" border="0"></a>
+		   		<div class="sub_menu" id="m1">
+					<a href="/j/find/searchresults.jsp?category=8&amp;command=NewSearch&amp;h=400" style="display:block">Aggregate</a>
+					<a href="/j/find/searchresults.jsp?category=12&amp;command=NewSearch&amp;h=400" style="display:block">Asphalt</a>
+					<a href="/j/find/searchresults.jsp?category=21&amp;command=NewSearch&amp;h=400" style="display:block">Backhoes</a>
+					<a href="/j/find/searchresults.jsp?category=22&amp;command=NewSearch&amp;h=400" style="display:block">Attachments &amp; Parts</a>
+					<a href="/j/find/searchresults.jsp?category=9&amp;command=NewSearch&amp;h=400" style="display:block">Compactors</a>
+					<a href="/j/find/searchresults.jsp?category=1&amp;command=NewSearch&amp;h=400" style="display:block">Dozers</a>
+					<a href="/j/find/searchresults.jsp?category=3&amp;command=NewSearch&amp;h=400" style="display:block">Excavators</a>
+					<a href="/j/find/searchresults.jsp?category=10&amp;command=NewSearch&amp;h=400" style="display:block">Farm Equipment</a>
+					<a href="/j/find/searchresults.jsp?category=18&amp;command=NewSearch&amp;h=400" style="display:block">Forestry</a>
+					<a href="/j/find/searchresults.jsp?category=1197&amp;command=NewSearch&amp;h=400" style="display:block">Forklifs</a>
+					<!-- <a href="/j/find/searchresults.jsp?category=7&command=NewSearch&h=400" style="display:block">Graders</a> -->
+					<a href="/j/find/searchresults.jsp?category=4&amp;command=NewSearch&amp;h=400" style="display:block">Loaders</a>
+					<a href="/j/find/searchresults.jsp?category=1198&amp;command=NewSearch&amp;h=400" style="display:block">Manlifts</a>
+					<!-- <a href="/j/find/searchresults.jsp?category=28&command=NewSearch&h=400" style="display:block">Pumps</a> -->
+					<a href="/j/find/searchresults.jsp?category=29&amp;command=NewSearch&amp;h=400" style="display:block">Skid-Steers</a>
+					<a href="/j/find/searchresults.jsp?category=11&amp;command=NewSearch&amp;h=400" style="display:block">Off Road Trucks</a>
+					<a href="/j/find/searchresults.jsp?category=1201&amp;category=1200&amp;category=1202&amp;command=NewSearch&amp;h=400" style="display:block">On Road Trucks</a>
+					<a href="/j/find/searchresults.jsp?category=15&amp;command=NewSearch&amp;h=400" style="display:block">Trailers</a>
+				
+				<a href="/j/equip/index.jsp">MORE CATEGORIES &gt;&gt;</a>
+				<a href="/j/equip/index.jsp">&nbsp;</a>
+				<a href="/j/equip/index.jsp?page=byLocation">SEARCH BY LOCATION </a>
+				<a href="/j/equip/index.jsp?page=byMake">SEARCH BY MAKE </a>
+
+		   		</div>
+		   	</td>
+			<td class="menu_root" onmouseover="show_menu('m2')" onmouseout="hide_menu('m2')" id="menu2"><a class="menu_item" href="/main/auction_calendar.shtml">AUCTION CALENDAR <img src="/k_images/down_arrow.gif" border="0"></a>
+	   	   		<div class="sub_menu" id="m2">
+					<a href="/j/equip/auction.jsp?groupId=450" style="display:block">Thu Mar 10</a>
+					<a href="/j/equip/auction.jsp?groupId=451" style="display:block">Thu Mar 24</a>
+					<a href="#">&nbsp;</a>
+					<a href="/main/auction_calendar.shtml" style="display:block">Future Auctions</a>
+					<a href="/j/equip/owner-auction.jsp?displayType=all&amp;view=type&amp;h=">Owner Auctions</a>
+					<a href="/main/auction_results.shtml">Past Auction Results</a>
+		   		</div>
+			</td>
+			<td><a class="menu_item" href="/buy/how2buy.shtml" id="menu3">HOW TO BUY</a></td>
+			<td><a class="menu_item" href="/sell/how2sell.shtml" id="menu4">HOW TO SELL</a></td>
+			<td><a class="menu_item" href="/j/acct/my-account.jsp" id="menu5">MY ACCOUNT</a></td>
+			<td><a class="menu_item" href="/j/equip/index.jsp" id="menu6" style="text-align:right; padding-right:8px;">SEARCH</a></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr class="hdr_row3"><td colspan="2"><img src="/k_images/dot.gif" height="2" alt=""></td></tr>
 </tbody></table>
 
 
+<table id="layout" style="width:100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td class="lh_nav" style="vertical-align:top;">
 
-<!---- End Display Table -----> <!---- Begin Footer Table -----> 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr> 
-    <td colspan="3" height="13">&nbsp;<br>
-      </td>
-  </tr>
-  <tr bgcolor="#FF9900"> 
-    <td><img src="/images/space.gif" width="30" height="20" border="0"></td>
-    <td colspan="2" class="white" width="100%"> <a href="/index.shtml" class="white">Home</a>&nbsp;&nbsp;&nbsp; 
-      • &nbsp;&nbsp; <a href="/get_started/ironclad_assur.shtml" class="white">IronClad 
-      Assurance</a>&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp; <a href="/cust_support/privacy.shtml" class="white">Privacy</a>&nbsp;&nbsp;&nbsp; 
-      • &nbsp;&nbsp; <a href="/cust_support/faqs.shtml" class="white">FAQs</a>&nbsp;&nbsp;&nbsp; 
-      • &nbsp;&nbsp; <a href="/help/index.shtml" class="white">Help &amp; Info</a>&nbsp;&nbsp;&nbsp; 
-      • &nbsp;&nbsp; <a href="/cust_support/contact_us.shtml" class="white">Contact 
-      Us</a></td>
-  </tr>
-  <tr> 
-    <td class="hspace3" colspan="3">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td></td>
-    <td align="left" colspan="2">IronPlanet, Inc. © 2004 All Rights Reserved &nbsp;&nbsp;<a href="/cust_support/short_terms_printable.shtml" target="_blank">Terms 
-        and Conditions</a>
-    </td>
-  </tr>
+	
+	<img src="/k_images/dot.gif" width="160" height="1">
+
+
+	</td>
+	<td class="main_body"><p class="crumbtrail"><a href="/index.shtml">Home</a> &gt; Privacy Statement</p>
+	 
+	
+	  <h1>Privacy Statement</h1>
+     
+      <p>IronPlanet.com, Inc. (hereinafter referred to as "IronPlanet" 
+        or "we") is committed to protecting your privacy online. You 
+        are important to us, and we will take special care to maintain 
+        your trust. In order to fully understand your rights, we encourage 
+        you to read this Privacy Statement and to consult our <a href="javascript:popUp('/pop/short_terms.shtml','form','width=620,height=480,menubar,resizable,status,scrollbars')">Terms 
+        &amp; Conditions</a>. Please direct questions regarding this 
+        statement to <a href="mailto:customercare@ironplanet.com">CustomerCare@ironplanet.com</a>. 
+      </p><p><b>When does IronPlanet collect my personal information?<br>
+        </b> IronPlanet gathers information from users in three ways: 
+        voluntary registration, cookie technology and IP addresses. 
+      </p><blockquote> 
+        <p><b>Voluntary Registration</b>. When you register with IronPlanet, 
+          we ask for certain necessary personal information. Other 
+          specific services may have additional registration requirements 
+          and may require you to provide additional information. 
+        </p><p><b>Cookies</b>. IronPlanet uses a browser cookie to remember 
+          your login name (but not your password), as a reminder to 
+          assist you the next time you log on to our site. 
+        </p><p><b>IP Address</b>. IronPlanet may also log IP addresses 
+          for the purposes of systems administration or to report 
+          information in aggregate form to our advertisers, sponsors, 
+          and corporate partners. 
+      </p></blockquote>
+
+      <p><b>How is my personally identifiable information used?</b></p>
+      <blockquote> 
+        <p><b>Customized Look and Feel</b>. IronPlanet gathers user 
+          information for the purpose of reviewing our users' preferences, 
+          demographics, traffic patterns, and other information in 
+          the aggregate. 
+        </p><p><b>E-mail</b>. If you register with our site, from time 
+          to time, IronPlanet may email you with informative messages 
+          about our services or third party products and services 
+          we believe may be of interest to you. 
+      </p></blockquote>
+      <p><b>Who does IronPlanet share information with?<br>
+        </b>IronPlanet may share user information with specific third 
+        parties for the purpose of providing additional services. 
+        In particular, IronPlanet has several service partners who 
+        provide services or products and as part of such operations, 
+        these companies may have access to your personal information. 
+        In addition, IronPlanet also discloses aggregated user statistics 
+        in order to describe our services and reach to prospective 
+        partners, advertisers and other third parties. However aggregate 
+        data is not traceable to you specifically. Except for these 
+        situations, we will not disclose your personal information 
+        to any third parties except to the extent necessary to provide 
+        you with a requested service or under circumstances required 
+        by law. We will disclose your personal information when we 
+        believe in good faith that any applicable law, regulation 
+        or legal process requires it, or where we believe disclosure 
+        is necessary to protect or enforce our rights. 
+      </p><p>Specific uses of personal information that vary from this 
+        Privacy Statement (if any) may be found in the User Agreement 
+        or privacy policies applicable to that particular service. 
+        To the extent that you are notified of uses of your personal 
+        information which are different from those described in this 
+        Privacy Statement during your enrollment in any particular 
+        service, contest or promotion, the uses of which you are specifically 
+        notified will govern that service, sweepstakes, contest or 
+        promotion. Please note, however, that we do not control the 
+        privacy policies of our advertisers and other third party 
+        sites to which we provide banner ads and links. If you click 
+        through a banner ad or link and submit your information to 
+        an advertiser, you will be subject to their own privacy policies. 
+        IronPlanet assumes no responsibility or liability for these 
+        third party policies or the actions of non-affiliated third 
+        parties. 
+      </p><p><b>What else should I know about my privacy?<br>
+
+        </b> You should be aware that if you voluntarily disclose 
+        personal information online in a public area, that information 
+        may be collected and used by others. We do not control the 
+        actions of our visitors and registered users. If you disclose 
+        personal information in a publicly accessible place in the 
+        IronPlanet web site ("IronPlanet Site"), you do so at your 
+        own risk and you understand that your submitted information 
+        may be collected and used by others to send you unsolicited 
+        messages, advertisements, or for other purposes. 
+      </p><p>Please remember that you are solely responsible for maintaining 
+        the secrecy of any password you use to register and you should 
+        always be careful and responsible whenever disclosing information 
+        online. 
+      </p><p>Although IronPlanet uses reasonable efforts to safeguard 
+        the privacy of your personal information, transmissions made 
+        by means of the Internet cannot be made absolutely secure. 
+        IronPlanet assumes no liability for disclosure of data due 
+        to errors in transmission or unauthorized third parties. 
+      </p><p><b>Acceptance of Privacy Policy</b>. By using the IronPlanet 
+        Site and services, you signify your acceptance of this Privacy 
+        Statement. If you do not agree or are not comfortable with 
+        any policy described in this Privacy Statement, your only 
+        remedy is to discontinue use of the IronPlanet Site. We reserve 
+        the right to modify this Privacy Statement at any time. Your 
+        continued use of any portion of the IronPlanet Site following 
+        notification or posting of such changes, will constitute your 
+        acceptance of those changes. If you have questions or concerns 
+        about our specific policies, please send an e-mail to <a href="mailto:customercare@ironplanet.com">CustomerCare@ironplanet.com</a>. 
+        
+		</p></td>
+</tr>
 </tbody></table>
 
- <!---- End Footer Table -----> 
+<table cellspacing="0" cellpadding="0" border="0" style="width:100%">
+<tbody><tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+	<td class="footer" colspan="2" style="text-align:right">
+		<a href="/index.shtml">Home</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+		<a href="/about/about_us.shtml">About Us</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+		<a href="/main/privacy.shtml">Privacy</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+		<a href="/news/news.shtml">News</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+		<a href="/main/forms.shtml">Forms</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+		<a href="/main/contact.shtml">Contact Us</a>
+	</td>
+</tr>
+<tr><td colspan="2" class="sub_footer" style="text-align:right; color:#666; font-size:10px; padding-top:5px;">IronPlanet, Inc. © 2005 All Rights Reserved &nbsp;&nbsp; <a href="/pop/short_terms.shtml" onclick="popUp('/pop/short_terms.shtml','form','width=620,height=480,menubar,resizable,status,scrollbars');return false;">Terms &amp; Conditions</a><br>&nbsp;
+	<div class="WL"><a class="WL" href="/heavy_equipment.shtml">I</a><a class="WL" href="/construction_equipment_auction.html">r</a><a class="WL" href="/heavy_equipment_auction.html">o</a><a class="WL" href="/heavy_equipment_for_sale.html">n</a><a class="WL" href="/used_backhoes.html">P</a><a class="WL" href="/used_dozers.html">l</a><a class="WL" href="/used_caterpillar_equipment.html">a</a><a class="WL" href="/used_construction_equipment.html">n</a><a class="WL" href="/used_heavy_equipment.html">e</a><a class="WL" href="/used_farm_tractors.html">t</a><a class="WL" href="/used_farm_tractors_for_sale.html">&nbsp;I</a><a class="WL" href="/used_case_equipment.html">n</a><a class="WL" href="/used_caterpillar_equipment.html">c</a><a class="WL" href="/used_bulldozers.html">.</a></div>
+</td></tr>
+</tbody></table></div>
 
 </body></html>
