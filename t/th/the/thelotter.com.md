@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609213747id_/http%3A//thelotter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206064646id_/http%3A//thelotter.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,7 +18,7 @@ By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
 
 **If you feel that this company is not abiding by its posted privacy policy, you should first contact our Customer Support Department by E-mail to[customer_support  
-@thelotter.com.](mailto:customer_support@thelotter.com) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **
+@thelotter.com.](mailto:customer_support@thelotter.com) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org/watchdog.html ](http://www.truste.org/watchdog.html) TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **
 
 **Information Collection and Use**  
 **theLotter.com** is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. **theLotter.com** collects information from our users at several different points on our website. 
@@ -67,12 +67,3 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
 **If you have any questions or suggestions regarding our privacy policy, please contact us at:**
-
-E-mail : [customer_support@thelotter.com.](mailto:customer_support@theLotter.com)  
-Postal Address: **theLotter.com**
-
-  | Net-Bet Limited  
-35 Barrack Road  
-Belize City  
-Belize  
----|---
