@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cstv.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080825id_/http%3A//www.cstv.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cstv.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203021814id_/http%3A//www.cstv.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# College Sports Television - CSTV’s Terms and Conditions of Use
+# College Sports Television - Features
 
 CSTV’s Privacy Policy
 
@@ -8,13 +8,13 @@ We are committed to protecting the privacy and security of the users of our site
 
 This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
 
-If you have any questions or concerns about our privacy policy, please send an e-mail to: [privacy@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Privacy%20Policy) or contact us at CSTV, Chelsea Piers, Pier 62, Suite 316, New York, NY 10011 (phone: (212) 342-8700).
+If you have any questions or concerns about our privacy policy, please send an e-mail to:  [ privacy@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Privacy%20Policy) or contact us at CSTV, Chelsea Piers, Pier 62, Suite 316, New York, NY 10011 (phone: (212) 342-8700).
 
 Scope of Privacy Policy
 
 This policy applies to your use of all of the sites and services owned or operated by or affiliated with CSTV, including cstv.com and any other site that we may own or operate currently or in the future (collectively, the “Sites”). Unless we say otherwise, all references to the Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. This policy covers only information collected on the Sites and does not cover any information collected offline by us.
 
-Personal Identification Information
+**Personal Identification Information**
 
 We may request personal identification information from you in connection with your use of, or participation in, membership registration for cstv.com, our contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and in connection with other activities, services or resources we make available on any of our sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us. We will never intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, credit card number or e-mail address) to any third party without having received your permission.
 
@@ -72,11 +72,11 @@ Protecting your privacy and your information is a top priority. We have taken ca
 
 Access To/Correction of Information
 
-If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at [privacy@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Personal%20Information%20Request). To help us address your request, please specify which information you wish to review. Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to [privacy@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Personal%20Information%20Correction). You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon your request.
+If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at  [ privacy@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Personal%20Information%20Request). To help us address your request, please specify which information you wish to review. Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to  [ privacy@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Personal%20Information%20Correction). You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon your request.
 
 Choice/Opt-Out
 
-If you “opt-in” to receive information from us or others, you can change your mind later. If at any time you would like to stop receiving such information or opt-out of a feature, you can let us know by sending an e-mail stating your preference to [optout@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Opt-out). To help us address your request, please specify the feature from which you wish to opt out. You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon your request.
+If you “opt-in” to receive information from us or others, you can change your mind later. If at any time you would like to stop receiving such information or opt-out of a feature, you can let us know by sending an e-mail stating your preference to  [ optout@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Opt-out). To help us address your request, please specify the feature from which you wish to opt out. You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon your request.
 
 Consent to Transfer
 
@@ -87,6 +87,3 @@ Your Acceptance of These Terms
 By using any of the Sites, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Sites following the posting of changes to these terms will mean that you accept those changes.
 
 (Last modified on January 7, 2003.)
-
-  
-
