@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203163723id_/http%3A//www.redherring.com/MediaKit.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605003229id_/http%3A//www.redherring.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Media Kit
+# RED HERRING | PRIVACY POLICY
 
-**The Business of Technology**
+PRIVACY POLICY  
 
-Red Herring, Inc., through its various properties, including but not limited to Redherring.com (collectively hereinafter "Red Herring"), is committed to protecting the privacy of its customers and the users of the Web sites located at [www.redherring.com](http://www.redherring.com/), as such Web sites may change from time to time (collectively, the "Red Herring Site"). This site, as it may be modified from time to time (this “Privacy Policy”), gives you details of our privacy practices, including a) what information we collect about you when you use the Red Herring Site; b) how the information will be used or disclosed; and c) your rights with respect to our collection and use of your data.
+
+**Red Herring, Inc.** , through its various properties, including but not limited to Redherring.com (collectively hereinafter "Red Herring"), is committed to protecting the privacy of its customers and the users of the Web sites located at [www.redherring.com](http://www.redherring.com/) , as such Web sites may change from time to time (collectively, the "Red Herring Site"). This site, as it may be modified from time to time (this "Privacy Policy"), gives you details of our privacy practices, including a) what information we collect about you when you use the Red Herring Site; b) how the information will be used or disclosed; and c) your rights with respect to our collection and use of your data. 
 
 **What information do we collect and why?**
 
