@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102044id_/http%3A//www.k12albemarle.org/NewHome/NewPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308161027id_/http%3A//www.k12albemarle.org/NewHome/NewPages/privacy.htm) for the most accurate reproduction.*
 
 # Albemarle County Public Schools - Privacy Statement
 
@@ -21,4 +21,4 @@ _**°**_ Contains links to other sites.
 
 Neither the County of Albemarle nor Albemarle County Public Schools is responsible for the privacy practices or the content of such web sites. Automatically logs technical information necessary to maintain system security and performance and to generate anonymous usage statistics. 
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, please send an email to Leah Yates, Web Analyst ([lyates@albemarle.org](mailto:lyates@albemarle.org)). 
+If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, please send an email to the [Web Analyst](mailto:sdeale@albemarle.org). 
