@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somuch.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023513id_/http%3A//www.somuch.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somuch.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232516id_/http%3A//www.somuch.com/Privacy.asp) for the most accurate reproduction.*
 
 # SoMuch.com - Privacy Policy
 
@@ -17,21 +17,21 @@ In most cases the mundane details of your unremarkable life will prove to be of 
 Any feature that requires you to enter information will also give you the ability to opt out in the future - your record will be deleted at that time - no information will be saved anywhere.
 
 **Consider this...**  
-The 50-50-90 rule: Anytime you have a 50-50 chance of getting something right, there's a 90% probability you'll get it wrong.
+It takes an enemy and a friend, working together, to hurt you to the heart. The one to slander you, and the other to get the news to you. -- Mark Twain
 
 **Amusing or Irrelevant Facts...**  
-Parker Brothers was founded by George Swinerton Parker, 18, in 1885. The first game produced was 'Banking,' in which the player who amasses the most wealth is the winner.
+The first cover of "Sports Illustrated," in 1954, showed National League umpire, Augie Donatelli, behind the plate with two major-league stars: catcher Wes Westrum, and batter Eddie Matthews.
 
 | 
 
-|  [So Much PUBLISHING CD-ROM](https://web.archive.org/web/20031202023513id_/http%3A//www.somuch.com/SendOff.asp?LinkID=4941&Link=http://www.somuch.com/Publishing/)  
+|  [So Much PUBLISHING CD-ROM](https://web.archive.org/web/20040602232516id_/http%3A//www.somuch.com/SendOff.asp?LinkID=4941&Link=http://www.somuch.com/Publishing/)  
 ---  
   
-[ ](https://web.archive.org/web/20031202023513id_/http%3A//www.somuch.com/SendOff.asp?LinkID=4941&Link=http://www.somuch.com/Publishing/)Online for FREE download. Released in 1994 by Power User Software, Inc. this disc contained clipart, border fonts, backgrounds and more. It was a great disc when you had to buy it - even better when you don't!  
+[ ](https://web.archive.org/web/20040602232516id_/http%3A//www.somuch.com/SendOff.asp?LinkID=4941&Link=http://www.somuch.com/Publishing/)Online for FREE download. Released in 1994 by Power User Software, Inc. this disc contained clipart, border fonts, backgrounds and more. It was a great disc when you had to buy it - even better when you don't!  
   
 **Link to Somuch.com**  
 ---  
   
 If you are a site owner consider becoming a somuch.com link partner. After adding your site, [send me an email](mailto:cd@somuch.com?subject=Link%20Partner) letting me know when you've added a link or graphic to somuch.com from your site. You'll get an enhanced listing that will generate more traffic to your site.  
   
-[](https://web.archive.org/web/20031202023513id_/http%3A//www.somuch.com/ThisDay.asp)
+[](https://web.archive.org/web/20040602232516id_/http%3A//www.somuch.com/ThisDay.asp)
