@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc15.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206063719id_/http%3A//www.abc15.com/help/index.asp%3Fdoc%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc15.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611014739id_/http%3A//abc15.com/help/index.asp%3Fdoc%3Dprivacy.html) for the most accurate reproduction.*
 
 # ABC15.com: Phoenix and Arizona News, Live Weather, Web Cams and More
 
