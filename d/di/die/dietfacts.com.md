@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603234502id_/http%3A//dietfacts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204210120id_/http%3A//dietfacts.com/privacy.asp) for the most accurate reproduction.*
 
 # Brand name nutrition database, free diets, weight loss programs - DietFacts.com
 
@@ -12,34 +12,19 @@ Our site contains a contact signup form. We use the contact information from the
 
 This site contains links to other sites. This site is not responsible for the privacy practices or the content of such Web sites. 
 
-| 
+|    
+Please Visit Our Sponsors:  
 
-[](http://www.healthlinks.net/cgi-bin/directory/hyperseek.cgi?Range=Any&Format=Standard&Terms=nutrition+facts)
 
-Visit Our Sponsors:  
-[ ](http://www.qksrv.net/click-871258-1500116)
-
+Please Visit Our Sponsors:  
 [ ](http://www.qksrv.net/click-871258-9836173)
 
-[ ](http://www.qksrv.net/click-871258-38801)
+[](http://click.linksynergy.com/fs-bin/click?id=EbT4BSOhmpo&offerid=53219.10000093&type=4&subid=0)
 
 [ ](http://www.qksrv.net/click-871258-5029329)
 
-Visit Our Sister Sites:
+[](http://www.dietfacts.com/default.asp?linkout=11548)
 
-[**AnimalSites.com**](http://www.animalsites.com/)   
-For animal lovers, pet owners, and breeders. Read pet care tips and discuss animal welfare issues.
+[ ](http://www.qksrv.net/click-871258-1500116)
 
-[**DojoWeb.com**](http://www.dojoweb.com/)
-
-Get in shape now with TaeBO, Karate, Judo, Taekwondo, Boxing, Sumo, Kick-boxing, Wrestling and more...
-
-[**JokePro.com**](http://www.jokepro.com/)
-
-Hit your funny bone! Read the latest jokes... and submit your own! Also find gag gifts, magic tricks, costumes, and weird news stories. [**SecludedVacations.com**](http://www.secludedvacations.com/)   
-Bed & Breakfast, Vacation Getaways, EcoTourism, Hiking/Camping, Safari, Rafting/Canoeing, Bird Watching, Cruises...
-
-[**SpiritualMinds.com**](http://www.spiritualminds.com/)
-
-Find Enlightenment! Yoga, candles, Zen Buddhism, Reiki, Aromatherapy, Accupuncture, Feng Shui, Psychics, Astrology...   
-
+[ ](http://www.qksrv.net/click-871258-1500116)[](http://click.linksynergy.com/fs-bin/click?id=EbT4BSOhmpo&offerid=50528.10000027&type=4&subid=0)
