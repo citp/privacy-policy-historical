@@ -1,351 +1,266 @@
-<!--The following is the downloaded HTML source of the bowdoinorient.com privacy policy that was archived on 2004-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040809213355id_/http%3A//www.bowdoin.edu/it/policies/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bowdoinorient.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403165133id_/http%3A//www.bowdoin.edu/it/contact/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<title>Bowdoin: IT: Policies: </title> 
-<link rel="stylesheet" type="text/css" href="/it/inc/it.css">
-<style type="text/css" media="print">@import "/it/inc/print.css";</style>
-<script language="Javascript" src="/it/inc/menuExpandable.js" type="text/javascript"></script>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="/includes/global_new/ns4.css">
+<style type="text/css" media="all"> @import "/includes/global_new/base.css"; </style>
+<link rel="stylesheet" type="text/css" href="/includes/global_new/print.css" media="print">
 <script type="text/javascript">
-    <!--
-        window.onload = function() {
-            initializeMenu("helpMenu", "helpActuator");
-  			initializeMenu("servMenu", "servActuator");
-            initializeMenu("resourcesMenu", "resourcesActuator");
-        }
-    //-->
-</script>
+<!--  /* add calls to window.onload */
+function addLoadEvent(func) {
+var oldonload = window.onload;
+if (typeof window.onload != 'function') {
+window.onload = func;
+} else {
+window.onload = function() {
+oldonload();
+func();
+ } } }
 
-
-
-<script language="javascript">
-//worm checker 
-function chooseAction( stat ) {
-
-// alert( navigator.platform.toLowerCase()+":"+stat);
-
-  if( -1 == stat &&  navigator.platform.toLowerCase().indexOf("win") > -1  ) {
-    cho = confirm("MESSAGE FROM BOWDOIN IT:  It appears that your computer needs to be patched in order to protect it from the most recent Internet worms that have been appearing on campus.  Click OK to go straight to Microsoft's website to download the patch.  If you don't feel comfortable download and installing the patch yourself, please contact REACH or the Helpdesk for assistance.");
-
-    if( cho) {
-          window.open("http://windowsupdate.microsoft.com","");
-
-    }
-  }
+startList = function() {
+if (document.all&&document.getElementById) {
+navRoot = document.getElementById("globalmenu");
+for (i=0; i<navRoot.childNodes.length; i++) {
+node = navRoot.childNodes[i];
+if (node.nodeName=="LI") {
+node.onmouseover=function() {
+this.className+=" over";
 }
+node.onmouseout=function() {
+this.className=this.className.replace(" over", "");
+} } } } }
 
+addLoadEvent(startList);
+
+function clearfield(boo) {
+	if (boo.defaultValue==boo.value) boo.value=""
+	if (boo.style) boo.style.cssText="" }
+-->
 </script>
 
+    
+<title>Web Site Privacy Policy (Bowdoin, IT)</title>
 
+<style type="text/css" media="all">
+/* h1.title { background: url(/it/images/title.gif) no-repeat; } */
+</style>
 </head>
-<body id="sub" class="section-5">
-<div id="banner">
-	<a href="http://www.bowdoin.edu/" title="Bowdoin"><img src="/it/img/banner.gif" width="760" height="40" alt="Bowdoin"></a>
-    <table class="menubar" border="0" cellpadding="2" cellspacing="0">
-		<tbody><tr valign="bottom"> <td width="80%"></td> <td nowrap="nowrap"> <a href="http://www.bowdoin.edu/about/">About</a> </td> <td></td> <td nowrap="nowrap"> <a href="http://www.bowdoin.edu/academics/">Academics</a> </td> <td></td> <td nowrap="nowrap"> <a href="http://www.bowdoin.edu/admissions/">Admissions</a> </td> <td></td> <td nowrap="nowrap"> <a href="http://www.bowdoin.edu/campusresources/">Campus Resources</a> </td> <td></td> <td nowrap="nowrap"> <a href="http://www.bowdoin.edu/studentlife/">Student Life</a> </td> <td width="20%"></td></tr>
-    </tbody></table>
+
+<body>
+
+
+
+<p class="hide"><a href="#main-content" title="Go to Main Content">Skip Navigation and go to content</a></p><p class="hide">You may be using a browser that will cause viewing problems on our web site... please <a href="/help/browsers.shtml" title="Upgrade your web browser if you can!">visit our browser upgrade page to learn more.</a></p>
+
+<div id="shadowboxer">
+<div id="column_2">
+<div id="siteutils">
+	<ul>
+	<li class="index"><a href="http://www.bowdoin.edu/help/siteindex.shtml">A-Z Index</a></li>
+	<li class="dir"><a href="http://www.bowdoin.edu/directory/">Directory</a></li>
+	<li class="help"><a href="http://www.bowdoin.edu/help/">Help</a></li>
+	</ul>
 </div>
-
-<!-- LEFT COLUMN -->
-<div id="left">
-<h5><a href="/it/">Information Technology</a></h5>
-<ul id="menuList">
-	<li><a href="/it/staff/">Contact Staff</a></li>
-	
-	<li class="expandable"><a href="/it/help/" id="helpActuator" class="actuator" accesskey="h">Help</a>
-		  <ul id="helpMenu" class="menu">
-			<li><a href="/it/help/">· General Info</a></li>
-			<li><a href="http://academic.bowdoin.edu/etc/resources/sitemanagementhelp.shtml">· Academic Site Mgmt Tool</a></li>
-			<li><a href="/it/help/adminContact.shtml">· Admin Applications</a></li>
-			<li><a href="/it/help/virus">· Antivirus</a></li>
-			<li><a href="http://academic.bowdoin.edu/etc/resources/collaboration.shtml">· Access Collaboration Srvr</a></li>
-			<li><a href="http://academic.bowdoin.edu/etc/resources/html/discussionforumdocs.shtml">· Discussion Forums</a></li>
-			<li><a href="/it/help/email/">· Email</a></li>
-			<li><a href="http://academic.bowdoin.edu/etc/resources/software/index.shtml">· EndNote</a></li>
-			<li><a href="/it/services/internetaccess.shtml">· Internet Access</a></li>
-			<li><a href="/it/help/osx">· Mac OSX</a></li>
-			<li><a href="/it/help/meetingmaker.shtml">· Meeting Maker</a></li>
-			<li><a href="http://academic.bowdoin.edu/etc/resources/multimedia_projects.shtml">· Multimedia Projects</a></li>
-			<li><a href="/it/help/newEmployeeChecklist.shtml">· New Employees</a></li>
-			<li><a href="http://mymail.bowdoin.edu">· Register a Wireless Card</a></li>
-			<li><a href="/it/telecom/">· Telephone</a></li>
-			<li><a href="/it/help/webpages/default.shtml">· Web Pages @ Bowdoin</a></li>
-			<li><a href="/it/help/windowsxp/">· Windows XP</a></li>
-			<li><a href="/it/help/virus/">· Virus / AntiVirus Info</a></li>
-		  </ul>
-	</li>
-
-	<li><a href="/it/training/">Training</a></li>
-
-	<li><a href="/it/help/software.shtml">Software</a></li>
-
-	<li class="expandable" id="services"><a href="/it/services/" id="servActuator" class="actuator" accesskey="s">Services</a>
-		  <ul id="servMenu" class="menu">
-			<li><a href="/it/services/">· General Info</a></li>
-			<li><a href="/it/services/av/default.shtml">· Audio-Visual Services</a></li>
-			<li><a href="/it/services/cabletv/">· Cable TV</a></li>
-			<li><a href="http://cap.bowdoin.edu">· Computer Allocation</a></li>
-			<li><a href="/it/services/equipmentloans.shtml">· Equipment Loans</a></li>
-			<li><a href="/it/services/hardwarerepair.shtml">· Hardware Repair</a></li>
-			<li><a href="/it/services/internetaccess.shtml">· Internet Access</a></li>
-			<li><a href="https://noc.bowdoin.edu/nagios/">· Network Status</a></li>
-			<li><a href="/it/noc/">· Network Statistics</a></li>
-			<li><a href="/it/purchasing/">· Purchasing</a></li>
-			<li><a href="/it/telecom/">· Telephone</a></li>
-			<li><a href="/it/videoconference/">· Video Confererncing</a></li>
-		  </ul>
-	</li>
-	<li class="expandable"><a href="/it/resources/" id="resourcesActuator" class="actuator" accesskey="r">Resources</a>
-		  <ul id="resourcesMenu" class="menu">
-			<li><a href="/it/resources/druckenmiller.shtml">· Druckenmiller 24 Computer Cluster </a></li>
-			<li><a href="/it/resources/public.shtml">· General Use Labs</a></li>
-			<li><a href="http://academic.bowdoin.edu/discussion/restrict.cgi/GIS_discussion?forum=GIS_discussion">· GIS Discussion Group</a></li>
-			<li><a href="/it/resources/default.shtml">· Lab Reservation Information</a></li>
-			<li><a href="/it/resources/restricted.shtml">· Restricted Use Labs</a></li>
-			<li><a href="/it/resources/multimedia.shtml">· Coles Tower Multimedia Lab</a></li>
-			<li><a href="/it/resources/mmservice.shtml">· Multimedia Services</a></li>
-		  </ul>
-	</li>
-	<li><a href="/it/policies/">Policies</a></li>
-	
-</ul>
-
-<div id="feet"> send feedback to <a href="mailto:webmaster@bowdoin.edu">webmaster</a> </div>
-
+<div id="banner"><a href="http://www.bowdoin.edu/" title="Bowdoin Home"><img src="/includes/global_new/images/mark.gif" width="132" height="45" alt="Bowdoin College"></a></div>
+<div id="head">
+<div id="acad"><ul id="globalmenu"><li id="about"><a href="http://www.bowdoin.edu/about/">About</a><ul><li><a href="http://www.bowdoin.edu/about/admin/">Administrative Services</a></li><li><a href="http://www.bowdoin.edu/about/contact/">Contact</a></li><li><a href="http://www.bowdoin.edu/about/employment/">Employment</a></li><li><a href="http://www.bowdoin.edu/about/history/">History &amp; Facts</a></li><li><a href="http://www.bowdoin.edu/about/visiting/">Visiting</a></li></ul></li><li id="academics"><a href="http://academic.bowdoin.edu/academics/">Academics</a><ul><li><a href="http://academic.bowdoin.edu/academics/calendar/academiccalendar.shtml">Academic Calendar</a></li><li><a href="http://academic.bowdoin.edu/academics/programs/">Academic Programs</a></li><li><a href="http://library.bowdoin.edu/">Library</a></li><li><a href="http://academic.bowdoin.edu/academics/museums/">Museums</a></li><li><a href="http://academic.bowdoin.edu/ocs/index.shtml">Off-Campus Study</a></li><li><a href="http://academic.bowdoin.edu/academics/research_centers/index.shtml">Research Centers &amp; Programs</a></li></ul></li><li id="admissions"><a href="http://www.bowdoin.edu/admissions">Admissions</a><ul><li><a href="http://www.bowdoin.edu/admissions/apply/">Apply</a></li><li><a href="http://www.bowdoin.edu/admissions/connect/ask-a-student.shtml">Ask a Student</a></li><li><a href="http://www.bowdoin.edu/admissions/explore/academiclife.shtml">Explore</a></li><li><a href="http://www.bowdoin.edu/admissions/apply/internationalstudents.shtml">International Students</a></li><li><a href="http://www.bowdoin.edu/admissions/connect/requestmaterials.shtml">Request Materials</a></li><li><a href="http://www.bowdoin.edu/admissions/visit/interviewing.shtml">Schedule an Interview</a></li><li><a href="http://www.bowdoin.edu/admissions/studentaid/">Student Aid</a></li><li><a href="http://www.bowdoin.edu/admissions/visit/">Visiting</a></li></ul></li><li id="campuslife"><a href="#">Campus Life</a><ul><li><a href="http://www.bowdoin.edu/athletics/">Athletics</a></li><li><a href="http://www.bowdoin.edu/bookstore/">Bookstore</a></li><li><a href="http://www.bowdoin.edu/dining/">Dining</a></li><li><a href="http://www.bowdoin.edu/campuslife/health-safety.shtml">Health &amp; Safety</a></li><li><a href="http://www.bowdoin.edu/reslife/">Housing</a></li><li><a href="http://www.bowdoin.edu/it/">Information Technology</a></li><li><a href="http://www.bowdoin.edu/news/">News &amp; Events</a></li><li><a href="http://www.bowdoin.edu/campuslife/activities.shtml">Organizations &amp; Activities</a></li><li><a href="http://www.bowdoin.edu/president/">President's Office</a></li></ul></li><li id="gateways"><a href="#">Gateways</a><ul><li><a href="http://www.bowdoin.edu/alumni/">Alumni</a></li><li><a href="http://www.bowdoin.edu/faculty-staff/">Faculty &amp; Staff</a></li><li><a href="http://www.bowdoin.edu/parents-families/">Parents &amp; Families</a></li><li><a href="http://www.bowdoin.edu/students/">Students</a></li><li><a href="http://www.bowdoin.edu/prospectives/">Prospectives</a></li></ul></li></ul>
 </div>
-<!-- BODY /-->
-<div id="middle">
-	<div class="picBox">
-		<img src="/it/img/head.jpg" width="420" height="146" alt="Information Technology">
-	</div>
-	<div id="content">
-		<h2>Web Site Privacy Policy</h2> 
-		<p>
-			<strong>This Website domain, bowdoin. edu, is owned by and is the responsibility of Bowdoin College. The following policies apply to bowdoin.edu and all other Web sites/pages owned and operated by Bowdoin College. The use of College Web sites is governed by the <a href="http://www.bowdoin.edu/it/policies/">Website Terms and Conditions of Use Policy</a>.</strong>
-		</p>
-		<p>
-			Members of the Bowdoin College community are also subject to the the <a href="http://www.bowdoin.edu/it/policies/">Computer and Network Usage Policy</a>. College community members encompass College faculty, students, and staff with official standing, alumni, and others associated with Bowdoin who have access to the College's IT resources.
-		</p>
-		<ol>
-			<li>
-				<strong>BOWDOIN COLLEGE'S COMMITMENT TO PRIVACY</strong>
-				<br>
-				The privacy of visitors to our Web sites is very important to Bowdoin College. The College has adopted this policy to inform visitors about the College's data collection practices — both when a visitor voluntarily enters and transmits information to the College and when data are collected automatically by systems used by the College.
-				<br>
-				<br>
-				Links to this notice are available on the College's <a href="http://www.bowdoin.edu">Homepage</a>, <a href="http://www.bowdoin.edu/siteIndex.shtml#L">Site Index under "Legal Notices"</a>), and on pages where personally identifiable information is collected or requested, such as on the Admissions and Alumni Fund Web pages. 
-			</li>
-			<li>
-				<strong>INFORMATION BOWDOIN COLLEGE COLLECTS FROM WEB SITE VISITORS</strong>
-				<br>
-				Bowdoin collects personally identifiable information at various points on College Web sites/pages. Personally identifiable information (PII) are data which contain personal information that can be associated with or traced back to an individual Web site/page visitor. This includes, for instance, a visitor's name, address, and phone number. If applicable, PII also includes a credit card number and expiration date.
-				<br>
-				<br>
-				Information that is not PII is often referred to as "aggregate information." This includes a user's Internet Protocol (IP) address, Web site/page traffic and other statistics, and demographic data. Most aggregate information is collected automatically.
-				<br>
-				<br>
-				Bowdoin College automatically collects and/or tracks the following information from visitors or individuals who communicate with College community users via e-mail: 
-				<ul>
-					<li>
-						e-mail address;
-					</li>
-					<li>
-						home server domain name and IP address;
-					</li>
-					<li>
-						information knowingly provided by visitors by using online registration forms, e-mail, and surveys; and 
-					</li>
-					<li>
-						information regarding where, when, and how often a visitor visits College Web sites/pages.
-					</li>
-				</ul>
-				In addition, when a visitor uses Bowdoin College's search engine, College systems may record information about the search. This information is collected and analyzed by authorized system administrators to: 
-				<ul>
-					<li>
-						evaluate Web site navigation and accessibility;
-					</li>
-					<li>
-						verify the accuracy and relevance of searches;
-					</li>
-					<li>
-						solve technical issues; 
-					</li>
-					<li>
-						calculate usage statistics; and/or
-					</li>
-					<li>
-						other uses approved by the Chief Information Officer (CIO)
-					</li>
-				</ul>
-			</li>
-			<li>
-				<strong>USE OF INTERNET "COOKIES" BY BOWDOIN COLLEGE</strong>
-				<br>
-				Bowdoin College may place Internet "cookies" on a visitor's computer. Cookies are files inserted automatically on the hard drive of a Web site visitor by the Web site visited. Cookies placed by the College generally do not contain PII. However, the College reserves the right to associate PII with cookies at any time.
-				<br>
-				<br>
-				Most browser software allows users to make choices on how cookies are set by Web sites. This includes the ability to disable cookies. User preferences also allow for the user to be notified when the Web site/page attempts to set a cookie. Setting a browser to disable cookies, however, may restrict a visitor's ability to interact with some or all information available on College Web sites/pages. 
-			</li>
-			<li>
-				<strong>THE WAY BOWDOIN COLLEGE USES INFORMATION COLLECTED</strong>
-				<br>
-				Information collected by Bowdoin Collegeâ€”PII and/or aggregate dataâ€”may be used by Bowdoin College for: 
-				<ul>
-					<li>
-						educational and/or research purposes;
-					</li>
-					<li>
-						editorial and feedback purposes;
-					</li>
-					<li>
-						promotional and recruiting purposes, including soliciting financial contributions and contacting prospective students;
-					</li>
-					<li>
-						statistical analysis of a visitor's online behavior for Web site development;
-					</li>
-					<li>
-						content improvement;
-					</li>
-					<li>
-						analysis of the number of Web site/page "hits;" and
-					</li>
-					<li>
-						Web site/page content and layout customization.
-					</li>
-				</ul>
-				Names, postal and e-mail addresses, and phone numbers provided by visitors via online forms may added to Bowdoin's database(s). This information may be used for correspondence or other uses consistent with Bowdoin's business practices and/or academic mission. Bowdoin may also use such information to provide users with information concerning College events and other College community activities and services.
-				<br>
-				<br>
-				This policy provides a baseline standard; departmental privacy policies may enforce standards that are more rigorous. Some Bowdoin College departments, the College Library and the Office of Student Records for instance, have implemented very restrictive departmental privacy policies and procedures. The College also adheres to legal requirements prescribed by relevant statutes, such as the (FERPA) Family Education Rights and Privacy Act of 1974 — a copy of FERPA is found in the <a href="http://www.bowdoin.edu/communications/publications/pdf/studentHandbook.pdf">Student Handbook</a>.
-			</li>
-			<li>
-				<strong>DISCLOSURE OF PERSONAL DATA TO THIRD PARTIES </strong>
-				<br>
-				Bowdoin College occasionally retains the services of third parties to process information, financial transactions, or other purposes approved by members of Bowdoin's senior management. The College may also, on a very limited basis, share, rent, sell, or otherwise discloses PII to carefully screened third parties. The College will not disclose to third parties any PII collected by Bowdoin if the third party fails to meet and maintain the College's electronic privacy policies.
-				<br>
-				<br>
-				Before providing PII to a third party, Bowdoin College will obtain a non-disclosure and confidentiality agreement from the third party. Aggregate information and/or information that is publicly available is not subject to such agreements. 
-			</li>
-			<li>
-				<strong>BOWDOIN'S COMMITMENT TO DATA SECURITY</strong>
-				<br>
-				To restrict unauthorized access and to enhance data integrity and accuracy, Bowdoin College implements physical, electronic, and administrative security policies and procedures intended to safeguard information the College collects and/or stores online. However, the College cannot assure or warrant absolute effectiveness of the security measures implemented by the College.
-				<br>
-				<br>
-				A separate policyâ€”the College's Data Security Policy — is an important component of the College's comprehensive <a href="http://www.bowdoin.edu/it/policies/">Information Systems Security Policy</a>.
-			</li>
-			<li>
-				<strong>BOWDOIN'S COMMITMENT TO CHILDREN'S PRIVACY </strong>
-				<br>
-				In most cases, Bowdoin College neither collects nor attempts to collect PII from children known to be under the age of thirteen (13). However, Bowdoin College cannot always determine if a visitor is a child. In general, the subject matter provided on the College's Web site(s) is not directed toward children under the age of thirteen (13). 
-			</li>
-			<li>
-				<strong>BOWDOIN COLLEGE'S RIGHT TO CONTACT WEB SITE VISITORS</strong>
-				<br>
-				Bowdoin College reserves the right to contact Web site visitors for legitimate purposes relevant to College transactions, surveys, statistical purposes, and/or other reasons approved by the College's administration. Such contact, if any, will be minimal and will be consistent with Bowdoin's business practices and/or academic mission. 
-			</li>
-			<li>
-				<strong>BOWDOIN'S RIGHT TO CHANGE THIS POLICY</strong>
-				<br>
-				Bowdoin College reserves the right to change this policy at any time. Visitors will not be notified of any changes made to this policy. The version of this policy in effect will be posted on our <a href="http://www.bowdoin.edu/it/policies/">Information Technolofy Policies website</a>. Changes to the College's Web Site Privacy Policy are effective upon posting to this Web site address. 
-			</li>
-			li&gt;<strong>HOW TO CONTACT BOWDOIN COLLEGE REGARDING THIS POLICY</strong>
-		<br>
-		Questions concerning this policy should be directed, in writing, to: 
-		<blockquoute>
-			Chief Information Officer Information Technology Bowdoin College 9600 College Station Brunswick, ME 04011-8496 <a href="mailto:cio@bowdoin.edu">cio@bowdoin.edu </a> 
-		
-	</blockquoute></ol>
-	<p>
-		&nbsp;
-	</p>
-	<br>
-</div>
-</div>
-<!-- RIGHT COLUMN /-->
-<div id="right">
-<div id="pageutils">
-<table cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-<div align="center"><a href="/search/"><img src="/img/gateway/search-it.gif"></a></div>
-
-<!--
-	<form method="post" action="/cgi-bin/search/htsearch">
-		<input type="text" name="words" size="10" style="margin:0px 3px 0px 0px; font-size:x-small;" />
-		<input type="hidden" name="method" value="and" />
-		<input type="hidden" name="sort" value="score" />
-		<input type="hidden" name="format" value="builtin-long" />
-		<input type="hidden" name="config" value="htdig" />
-		<input type="hidden" name="restrict" value="" />
-		<input type="hidden" name="exclude" value="" />
-		<input type="submit" name="Search" value="Search" style="margin:0px 3px 0px 0px; font-size:x-small;" />
-	</form>
--->
-<!-- <input type="text" id="search" size="12" style="width:55px;margin:0px 3px 0px 0px; font&middot; size:x&middot; small;" />  <input
-type="submit" value="Search" style="font&middot; size:x&middot; small;margin:0px 0px 0px 2px;" /> -->
-</td></tr>
-<tr><td>
-<!--
-<select id="quickFind" style="margin:3px 0px 2px 0px;">
-<option selected="selected">IT Quick Find</option>
-<option>Contact Staff</option>
-<option>Help</option>
-<option>&middot; General Info</option>
-<option>&middot; Academic Site Manager</option>
-<option>&middot; Admin Applications</option>
-<option>&middot; Antivirus</option>
-<option>&middot; Collaboration Server</option>
-<option>&middot; Discussion Forums</option>
-<option>&middot; Email</option>
-<option>&middot; Internet Access</option>
-<option>&middot; Mac OSX</option>
-<option>&middot; Meeting Maker</option>
-<option>&middot; Multimedia Projects</option>
-<option>&middot; New Employees</option>
-<option>&middot; Telephone</option>
-<option>&middot; Web Pages @ Bowdoin</option>
-<option>&middot; Windows XP</option>
-<option>Training</option>
-<option>Software</option>
-<option>Services</option>
-<option>&middot; General Info</option>
-<option>&middot; Audio&middot; Visual Services</option>
-<option>&middot; Cable TV</option>
-<option>&middot; Computer Allocation</option>
-<option>&middot; Equipment Loans</option>
-<option>&middot; Hardware Repair</option>
-<option>&middot; Internet Access</option>
-<option>&middot; Purchasing</option>
-<option>&middot; Telephone</option>
-<option>&middot; Video Confererncing</option>
-<option>Resources</option>
-<option>&middot; Druckenmiller 24 Cluster </option>
-<option>&middot; General Use Labs</option>
-<option>&middot; GIS Discussion Group</option>
-<option>&middot; Lab Reservation Info.</option>
-<option>&middot; Multimedia Equipment</option>
-<option>&middot; Multimedia Labs</option>
-<option>&middot; Restricted Use Labs</option>
-<option>&middot; Acad. Multimedia Projects</option></select>
+<div id="search">
+<form method="get" action="http://www.google.com/u/bowdoin" name="s">
+	<input type="text" name="q" size="18" maxlength="255" value="Search Bowdoin" alt="Search Bowdoin" onfocus="clearfield(this)" style="color:#A9A28F; font-style:italic;">
+	<input type="submit" name="sa" value="Search" alt="Search">
 </form>
--->
-</td></tr></tbody></table>
+</div>
+<div id="crumb"><!--  information technology contacts &amp; policies  -->Location: <a href="http://www.bowdoin.edu/">Bowdoin</a> / <a href="/it">Information Technology</a> / <a href="/it/contact">Contacts &amp; Policies</a></div>
+
+
+<h1 class="title">Information Technology</h1>
 </div>
 
-	<div id="news">
-<h5>Policies</h5>
+<!-- LEFT  /-->
+<div id="left">
 <ul>
-	<li><a href="/it/policies/computeruser.shtml">Computer and Network Usage Policy</a></li>
-	<li><a href="/it/policies/privacy.shtml">Web Site Privacy Policy</a></li>
-	<li><a href="/it/policies/terms.shtml">Web Site Terms and Conditions of Use Policy</a></li>
-	<li><a href="/it/policies/pdf/itsecurity.pdf">Information Technology Security Policy</a> [pdf]</li>
-	<li><a href="/it/policies/purchase.shtml">Bowdoin Computer Purchase and Support Policy</a></li>
-	<li><a href="/it/policies/webpolicy.shtml">Web Policy</a></li>
+<li><a href="/it/index.shtml">Information Technology</a></li>
+<li><a href="/it/help/index.shtml">Help Desk</a></li>
+<li><a href="/it/network/index.shtml">Network Services &amp; Internet Access</a></li>
+<li><a href="/it/labs/index.shtml">Classrooms and Labs</a></li>
+<li><a href="/it/training/default.shtml">IT Training</a></li>
+<li><a href="/it/software/index.shtml">Software</a></li>
+<li><a href="/it/erd/index.shtml">Educational Technology</a></li>
+<li><a href="/it/purchasing/index.shtml">Computer Purchasing</a></li>
+<li><a href="/it/loans/index.shtml">Equipment Loans</a></li>
+<li><a href="/it/av/index.shtml">Audio-Visual</a></li>
+<li><a href="/it/email/index.shtml">E-mail Resources</a></li>
+<li><a href="/it/webpage/index.shtml">Web Publishing</a></li>
+<li><a href="/it/telecom/index.shtml">Telephone Information</a></li>
+<li><a href="/it/contact/index.shtml">Contacts &amp; Policies</a></li>
 </ul>
+</div>
 
 
-	</div>
+<!-- MIDDLE /-->
+<div id="content2col"><a id="main-content" name="main-content" title="main content"></a>
+
+
+<span style="display: none;" id="c_start"> </span>
+
+<h2 class="localNav">Web Site Privacy Policy</h2>
+
+<span style="display: none;" id="c_stop"> </span>
+
+    <div class="localNav">
+<h5>Contacts &amp; Policies</h5>
+<ul>
+
+<li><a href="/it/contact/index.shtml">Contact IT Staff</a></li>    
+
+<li><a href="/it/contact/admincontacts.shtml">Business Computing Contacts</a></li>
+    
+<li><a href="/it/contact/policies.shtml">Policies</a></li>
+
+<li><a href="/it/contact/newemployees.shtml">New Employee Checklist</a></li>
+        
+</ul>
+</div>
+
+    
+
+<span style="display: none;" id="c_start"> </span>
+
+<p>
+<strong>This Website domain, bowdoin. edu, is owned by and is the responsibility of Bowdoin College. The following policies apply to bowdoin.edu and all other Web sites/pages owned and operated by Bowdoin College. The use of College Web sites is governed by the <a href="/it/contact/policies.shtml">Website Terms and Conditions of Use Policy</a>.</strong></p>
+
+<p>Members of the Bowdoin College community are also subject to the the <a href="/it/contact/policies.shtml">Computer and Network Usage Policy</a>. College community members encompass College faculty, students, and staff with official standing, alumni, and others associated with Bowdoin who have access to the College's IT resources.</p>
+<ol>
+<li><strong>BOWDOIN COLLEGE'S COMMITMENT TO PRIVACY</strong>
+<br><br>
+The privacy of visitors to our Web sites is very important to Bowdoin College. The College has adopted this policy to inform visitors about the College's data collection practices — both when a visitor voluntarily enters and transmits information to the College and when data are collected automatically by systems used by the College.
+<br>
+<br>
+Links to this notice are available on the College's <a href="http://www.bowdoin.edu">Homepage</a>, <a href="http://staging.bowdoin.edu/help/siteindex.shtml#L">Site Index under "Legal Notices"</a>), and on pages where personally identifiable information is collected or requested, such as on the Admissions and Alumni Fund Web pages.</li>
+
+<li><strong>INFORMATION BOWDOIN COLLEGE COLLECTS FROM WEB SITE VISITORS</strong>
+<br><br>
+Bowdoin collects personally identifiable information at various points on College Web sites/pages. Personally identifiable information (PII) are data which contain personal information that can be associated with or traced back to an individual Web site/page visitor. This includes, for instance, a visitor's name, address, and phone number. If applicable, PII also includes a credit card number and expiration date.
+<br>
+<br>
+Information that is not PII is often referred to as "aggregate information." This includes a user's Internet Protocol (IP) address, Web site/page traffic and other statistics, and demographic data. Most aggregate information is collected automatically.
+<br>
+<br>
+Bowdoin College automatically collects and/or tracks the following information from visitors or individuals who communicate with College community users via e-mail:
+<ul>
+<li>
+e-mail address;
+</li>
+<li>
+home server domain name and IP address;
+</li>
+<li>
+information knowingly provided by visitors by using online registration forms, e-mail, and surveys; and 
+</li>
+<li>
+information regarding where, when, and how often a visitor visits College Web sites/pages.
+</li>
+
+</ul>
+In addition, when a visitor uses Bowdoin College's search engine, College systems may record information about the search. This information is collected and analyzed by authorized system administrators to: 
+<ul>
+<li>
+evaluate Web site navigation and accessibility;
+</li>
+<li>
+verify the accuracy and relevance of searches;
+</li>
+<li>
+solve technical issues; 
+</li>
+<li>
+calculate usage statistics; and/or
+</li>
+<li>
+other uses approved by the Chief Information Officer (CIO)
+</li>
+</ul>
+</li>
+
+<li>
+<strong>USE OF INTERNET "COOKIES" BY BOWDOIN COLLEGE</strong>
+<br><br>
+Bowdoin College may place Internet "cookies" on a visitor's computer. Cookies are files inserted automatically on the hard drive of a Web site visitor by the Web site visited. Cookies placed by the College generally do not contain PII. However, the College reserves the right to associate PII with cookies at any time.
+<br>
+<br>
+Most browser software allows users to make choices on how cookies are set by Web sites. This includes the ability to disable cookies. User preferences also allow for the user to be notified when the Web site/page attempts to set a cookie. Setting a browser to disable cookies, however, may restrict a visitor's ability to interact with some or all information available on College Web sites/pages. 
+</li>
+
+<li>
+<strong>THE WAY BOWDOIN COLLEGE USES INFORMATION COLLECTED</strong>
+<br><br>
+Information collected by Bowdoin College "PII and/or aggregate data" may be used by Bowdoin College for: 
+				<ul>
+	<li>educational and/or research purposes;</li>
+	<li>editorial and feedback purposes;</li>
+	<li>promotional and recruiting purposes, including soliciting financial contributions and contacting prospective students;</li>
+	<li>statistical analysis of a visitor's online behavior for Web site development;</li>
+	<li>content improvement;</li>
+	<li>analysis of the number of Web site/page "hits;" and</li>
+	<li>Web site/page content and layout customization.</li>
+</ul>
+	Names, postal and e-mail addresses, and phone numbers provided by visitors via online forms may added to Bowdoin's database(s). This information may be used for correspondence or other uses consistent with Bowdoin's business practices and/or academic mission. Bowdoin may also use such information to provide users with information concerning College events and other College community activities and services.
+<br>
+<br>
+	This policy provides a baseline standard; departmental privacy policies may enforce standards that are more rigorous. Some Bowdoin College departments, the College Library and the Office of Student Records for instance, have implemented very restrictive departmental privacy policies and procedures. The College also adheres to legal requirements prescribed by relevant statutes, such as the (FERPA) Family Education Rights and Privacy Act of 1974 — a copy of FERPA is found in the <a href="http://staging.bowdoin.edu/communications/pdf/studentHandbook.pdf">Student Handbook</a>.</li>
+
+<li><strong>DISCLOSURE OF PERSONAL DATA TO THIRD PARTIES </strong>
+<br><br>
+	Bowdoin College occasionally retains the services of third parties to process information, financial transactions, or other purposes approved by members of Bowdoin's senior management. The College may also, on a very limited basis, share, rent, sell, or otherwise discloses PII to carefully screened third parties. The College will not disclose to third parties any PII collected by Bowdoin if the third party fails to meet and maintain the College's electronic privacy policies.
+<br>
+<br>
+	Before providing PII to a third party, Bowdoin College will obtain a non-disclosure and confidentiality agreement from the third party. Aggregate information and/or information that is publicly available is not subject to such agreements.</li>
+
+<li><strong>BOWDOIN'S COMMITMENT TO DATA SECURITY</strong>
+<br><br>
+	To restrict unauthorized access and to enhance data integrity and accuracy, Bowdoin College implements physical, electronic, and administrative security policies and procedures intended to safeguard information the College collects and/or stores online. However, the College cannot assure or warrant absolute effectiveness of the security measures implemented by the College.
+<br>
+<br>
+	A separate policy the College's Data Security Policy — is an important component of the College's comprehensive <a href="http://staging.bowdoin.edu/it/contact/policies.shtml">Information Systems Security Policy</a>.</li>
+
+<li>
+<strong>BOWDOIN'S COMMITMENT TO CHILDREN'S PRIVACY </strong>
+<br><br>
+	In most cases, Bowdoin College neither collects nor attempts to collect PII from children known to be under the age of thirteen (13). However, Bowdoin College cannot always determine if a visitor is a child. In general, the subject matter provided on the College's Web site(s) is not directed toward children under the age of thirteen (13). 
+</li>
+
+<li>
+<strong>BOWDOIN COLLEGE'S RIGHT TO CONTACT WEB SITE VISITORS</strong>
+<br><br>
+Bowdoin College reserves the right to contact Web site visitors for legitimate purposes relevant to College transactions, surveys, statistical purposes, and/or other reasons approved by the College's administration. Such contact, if any, will be minimal and will be consistent with Bowdoin's business practices and/or academic mission. </li>
+
+<li>
+<strong>BOWDOIN'S RIGHT TO CHANGE THIS POLICY</strong>
+<br><br>
+Bowdoin College reserves the right to change this policy at any time. Visitors will not be notified of any changes made to this policy. The version of this policy in effect will be posted on our <a href="http://staging.bowdoin.edu/it/contact/policies.shtml">Information Technolofy Policies website</a>. Changes to the College's Web Site Privacy Policy are effective upon posting to this Web site address. 
+</li>
+
+<li><strong>HOW TO CONTACT BOWDOIN COLLEGE REGARDING THIS POLICY</strong>
+<br><br>
+Questions concerning this policy should be directed, in writing, to: 
+<br><br>
+<dl>
+<dd>Chief Information Officer </dd>
+<dd> Information Technology Bowdoin College </dd>
+<dd> 9600 College Station Brunswick, ME 04011-8496 </dd>
+<dd><a href="mailto:cio@bowdoin.edu">cio@bowdoin.edu </a></dd></dl>
+</li></ol>
+	
+	<br>
+
+<span style="display: none;" id="c_stop"> </span>
+
+</div>
+<div id="footer"><p><a href="http://www.bowdoin.edu/help/siteindex.shtml">A - Z Index</a> | <a href="http://www.bowdoin.edu/directory/">Directory</a> | <a href="http://www.bowdoin.edu/help/">Help</a> <span class="feedback"><a href="http://www.bowdoin.edu/help/feedback.shtml">Send Feedback</a></span></p>
+<p class="sub">Bowdoin College · Brunswick, Maine · 04011 · 207-725-3000</p></div>
+</div>
 </div>
 
 
