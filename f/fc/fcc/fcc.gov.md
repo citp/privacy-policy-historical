@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210160745id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402131651id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
 
 # FCC Web Site Policies, Privacy Statement and Notices
 
@@ -7,7 +7,7 @@ FCC Web Site Policies
 
 Customer Service Standards 
 
-You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20021210160745id_/http%3A//www.fcc.gov/css.html) when interacting with us.
+You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20030402131651id_/http%3A//www.fcc.gov/css.html) when interacting with us.
 
   
 
