@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603141352id_/http%3A//support.gradwell.net/article.php%3F81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207004445id_/http%3A//support.gradwell.net/article.php%3F81) for the most accurate reproduction.*
 
 # Privacy Policy
 
