@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2002-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020209111056id_/http%3A//www.imakenews.com/page.asp%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205095743id_/http%3A//www7.imakenews.com/page.asp%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # iMakeNews - Create newsletters and ezines, manage lists, send as HTML email, track results.
 
@@ -10,9 +10,9 @@ iMakeNews is committed to your privacy and your rights as our customer. The foll
 **Customer Data**  
 We collect and store information about our customers which inludes contact information and billing information. We use this information to contact our customers through both email and regular mail regarding the service and to alert them of new products and services. Financial information (like a credit card number) is also collected for the purpose of billing the customer for services purchased.
 
-Through the various services provided by our software we also collect and store information in a secure and private manner on behalf of our customers. This information includes, but is not limited to, email address lists, articles, survey answers, letters, and usage statistics. This information is owned by our customers and is not accessible to us, our partners, or other customers unless permission is granted by the customer using one or more of the sharing options offered by our service.
+Through the various services provided by our software we also collect and store information in a secure and private manner on behalf of our customers. This information includes, but is not limited to, email address lists, articles, survey answers, letters, and usage statistics. This information is owned by our customers and is not accessible to our partners or other customers unless permission is granted by the customer using one or more of the sharing options offered by our service.
 
-We use your IP address to diagnose problems with our service, to administer our Web site, and to gather broad demographic information.
+We use your IP address to diagnose problems with our service, to administer our Web site, and to gather broad demographic information. We also use the information collected by our reporting engines to create aggregate statistical reports that show general industry and performance trends over time.
 
 **Our Partners**  
 iMakeNews does not share personal information regarding its customers with any of its partners without the prior and explicit consent of the customer.
@@ -21,7 +21,7 @@ iMakeNews does not share personal information regarding its customers with any o
 Our site uses cookies to authenticate the user and keep track of the user session. We also use cookies to govern over survey voting. We do not use cookies to collect any information about you. All cookies, except those used for survey validation, expire within several hours after a period of idle use. 
 
 **Data Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20020209111056id_/http%3A//www.imakenews.com/page.asp?p=security)
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20021205095743id_/http%3A//www7.imakenews.com/page.asp?p=security)
 
 **Questions**  
 If you have any questions about this privacy statement, you can email us at [support@imakenews.com](mailto:support@imakenews.com).
