@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219191925id_/http%3A//www.parkers.co.uk/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033020id_/http%3A//www.parkers.co.uk/terms/privacy) for the most accurate reproduction.*
 
 # parkers used car price guides - terms and conditions
 
