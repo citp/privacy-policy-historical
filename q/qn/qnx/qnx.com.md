@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the qnx.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622082315id_/http%3A//www.qnx.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnx.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206192850id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
-# QNX Software Systems Privacy Policy
+# QNX Software Systems Privacy Statement
 
 ### General
 
 QNX Software Systems Ltd. and its subsidiaries ("QSS" or "we") respect each individual's ("you" or "your") right to privacy. This statement outlines how we collect, use, transfer and safeguard your personal information. To protect your personal information QSS does not sell, rent or trade your personal information except as outlined in this Privacy Statement.
 
-### The Context for the QSS Privacy Policy 
+### The Context for the QSS Privacy Statement
 
 To understand how we are going to use your personal information, you need to understand QSS. 
 
