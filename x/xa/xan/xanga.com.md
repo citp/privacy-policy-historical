@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2000-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001116202300id_/http%3A//xanga.com/about/default.asp%3Fitem%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619094028id_/http%3A//xanga.com/About/default.asp%3Fitem%3D19) for the most accurate reproduction.*
 
 # Xanga.com: Privacy Policy
 
