@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010051428id_/http%3A//www.spirithalloween.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001213910id_/http%3A//www.spirithalloween.com/privacy.html) for the most accurate reproduction.*
 
-# Spirit Halloween - Halloween Store - Costumes, Masks & More
+# Welcome to Spirit Halloween Superstores!
 
 Spencer Gifts respects the privacy concerns of the users of its sites. As a general policy, no personal information is automatically collected from users of its Sites. However, certain non-personal information is recorded by the standard operation of the Internet servers. Information, such as the type of browser being used, its operating system, and your domain name is gathered in order to customize your online experience. Other uses of this information include internal review of the number of users to the Sites, but only in an aggregate and non-personally-identifiable form. This data may be provided to other parties for marketing, advertising or other uses.
 
