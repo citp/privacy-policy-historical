@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205001619id_/http%3A//miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610174350id_/http%3A//miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
 
 # Miami Beach 411.com - Your guide to South Beach, Florida
 
