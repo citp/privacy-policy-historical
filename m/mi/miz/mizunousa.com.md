@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mizunousa.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002072214id_/http%3A//www.mizunousa.com/home.nsf/WebDocs/Privacy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mizunousa.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614121334id_/http%3A//www.mizunousa.com/home.nsf/WebDocs/Privacy%3FOpenDocument) for the most accurate reproduction.*
 
 # Mizuno USA: Privacy Policy
 
@@ -6,21 +6,21 @@
 |   
 **MIZUNO USA, INC. PRIVACY POLICY**
 
-_Please read this privacy policy carefully. Your use of the MIZUNO USA Web site constitutes your agreement to this privacy policy(the "Mizuno USA Privacy Policy") and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information._
+_Please read this privacy policy carefully. Your use of the MIZUNO USA Web site constitutes your agreement to this privacy policy(the “Mizuno USA Privacy Policy”) and consent to the terms herein. Please see the section labeled “Information We Collect and How We Use It” to learn more about our collection and use of user information._
 
 **Introduction**
 
-Mizuno USA, Inc. ("Mizuno USA," or "we," as appropriate) is committed to safeguarding the privacy of visitors to our Web site www.mizunousa.com (the "Site") and users of the other services available through our Site (the "Service(s)"). We will use our best efforts to ensure that the information you provide us remains private and is used only for the purposes set forth herein.The Mizuno USA Privacy Policy details our commitment to protect your information and the limited manner in which we will use that information to provide and improve our provision of the Services. 
+Mizuno USA, Inc. (“Mizuno USA,” or “we,” as appropriate) is committed to safeguarding the privacy of visitors to our Web site www.mizunousa.com (the “Site”) and users of the other services available through our Site (the “Service(s)”). We will use our best efforts to ensure that the information you provide us remains private and is used only for the purposes set forth herein.The Mizuno USA Privacy Policy details our commitment to protect your information and the limited manner in which we will use that information to provide and improve our provision of the Services. 
 
 **Important Terms Used Throughout This Privacy Policy**
 
-Throughout the Mizuno USA Privacy Policy we use several specialized terms. "Personally Identifiable Information" is information that tells us specifically who you are, like your name, street address, email address, billing address, credit card number and expiration date. "User Information" means all Personally Identifiable Information and any other forms of information discussed in the Mizuno USA Privacy Policy, including the Internet Protocol (IP) address of a user's computer. We use the term "aggregate" when we combine information from various persons or users. Information is said to be "anonymized" if it does not identify individual persons or entities or associate a particular person or entity with such information.  
+Throughout the Mizuno USA Privacy Policy we use several specialized terms. “Personally Identifiable Information” is information that tells us specifically who you are, like your name, street address, email address, billing address, credit card number and expiration date. “User Information” means all Personally Identifiable Information and any other forms of information discussed in the Mizuno USA Privacy Policy, including the Internet Protocol (IP) address of a user’s computer. We use the term “aggregate” when we combine information from various persons or users. Information is said to be “anonymized” if it does not identify individual persons or entities or associate a particular person or entity with such information.  
   
 **Information We Collect and How We Use It**
 
 _If you visit our site to browse_
 
-. We will only collect and store the domain name and host from which a user accessed the Internet (e.g., aol.com), the IP address of the user's computer, the user's browser software and operating system, the date and time the user accesses the site and the Internet address of any Web site from which the user linked directly to our site or to which the user links after visiting our site. We use this information to measure the number of visitors to sections of our sites, to determine from where our visitors linked and to where our visitors link from the sites and to help us make our sites more useful. For example, we organize and analyze IP addresses so that we can provide efficient service, enhance security, monitor appropriate usage and produce traffic volume statistics. This type of information is sometimes shared with third parties, such as when we aggregate and disclose site traffic information for marketing and commercial purposes. When we share such information with third parties we will require them to abide by the standards of the Mizuno USA Privacy Policy. Mizuno USA is the sole owner of the information collected on this Site. We will not sell, share or rent this information to others in ways different from that disclosed in this Privacy Policy.
+. We will only collect and store the domain name and host from which a user accessed the Internet (e.g., aol.com), the IP address of the user’s computer, the user’s browser software and operating system, the date and time the user accesses the site and the Internet address of any Web site from which the user linked directly to our site or to which the user links after visiting our site. We use this information to measure the number of visitors to sections of our sites, to determine from where our visitors linked and to where our visitors link from the sites and to help us make our sites more useful. For example, we organize and analyze IP addresses so that we can provide efficient service, enhance security, monitor appropriate usage and produce traffic volume statistics. This type of information is sometimes shared with third parties, such as when we aggregate and disclose site traffic information for marketing and commercial purposes. When we share such information with third parties we will require them to abide by the standards of the Mizuno USA Privacy Policy. Mizuno USA is the sole owner of the information collected on this Site. We will not sell, share or rent this information to others in ways different from that disclosed in this Privacy Policy.
 
 _If you register, send us a communication or engage in a transaction while at our Site_
 
@@ -42,7 +42,7 @@ The Mizuno USA Privacy Policy only addresses the use and disclosure of User Info
 
 **Security**
 
-This Site takes every precaution to protect our users' information. Mizuno USA has implemented technology and security features and strict policy guidelines to safeguard the privacy of your customer identifiable information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available. If you have any questions about the security at our Site, you can send an email to security@mizunousa.com.
+This Site takes every precaution to protect our users’ information. Mizuno USA has implemented technology and security features and strict policy guidelines to safeguard the privacy of your customer identifiable information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available. If you have any questions about the security at our Site, you can send an email to security@mizunousa.com.
 
 **Responses to Communications**
 
@@ -54,7 +54,7 @@ We also send the user Site and service announcement updates. We communicate with
 
 **Correction/Updating Personal Information:**
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the by emailing our Customer Support **.**
+If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the by emailing our Customer Support **.**
 
 **Choice/Opt-out**
 
