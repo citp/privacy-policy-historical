@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609154420id_/http%3A//www.sapagroup.com/sapa.asp%3FeventID%3DpublicGetPage%26treeNodeID%3D0000010101%26languageID%3D2%26siteID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2004-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041031055543id_/http%3A//monarch.co.uk/templates/Page.aspx%3Fid%3D314) for the most accurate reproduction.*
 
-# SAPA
+# Privacy Policy - Sapa Group
 
-**Policy for the Processing of Personal Data**
+Policy for the Processing of Personal Data
 
 It is Sapa AB's (Sapa) aim that all persons whose personal data is processed by Sapa shall at all times feel confident that the person's privacy is respected and that due care is taken regarding his or her personal data.
 
 Sapa will comply with the Swedish Data Protection Act (Personuppgiftslagen 1998:204) that controls the collection and use of data relating to individuals (personal data). 
 
-**
-
-Information
-
-**
+## Information
 
 Personal data, including data such as names and addresses with which you provide Sapa, will be processed manually as well as by computers.
 
@@ -26,4 +22,7 @@ Under the Swedish Personal Data Act you have rights of access and rectification 
 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
 
-If you have any questions regarding our personal data processing, you are welcome to [contact us. ](mailto:info@sapagroup.com)
+If you have any questions regarding our personal data processing, you are welcome to [contact us.](mailto:info@sapagroup.com)
+
+  
+
