@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173136id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203175941id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
 
 # Utah.gov
 
@@ -48,7 +48,7 @@ Except where specified, you do not have to provide personally identifiable infor
 
 E-mail or other information requests sent to a State website may be saved and used to respond to the request, forward the request to the appropriate agency, communicate updates to the State site that may be of interest to citizens, or provide the State web designer with valuable customer feedback to assist in improving the website.
 
-Any personally identifiable information an individual provides to a State site will be used solely by the State of Utah, its entities, and third party agents with whom it has contracted to perform a state function on its behalf, unless the information is designated as public record by an individual State agency as authorized under Title 63, Chapter 2 of the Utah Code, entitled "Government Records Access and Management Act" (GRAMA), and the State agency's website provides conspicuous notice that such information is subject to public access.
+Any personally identifiable information an individual provides to a State site will be used solely by the State of Utah, its entities, and third party agents with whom it has contracted to perform a state function on its behalf, unless the information is designated as public record by an individual State agency as authorized under Title 63, Chapter 2, [302](http://www.le.state.ut.us/~code/TITLE63/htm/63_01016.htm), [303](http://www.le.state.ut.us/~code/TITLE63/htm/63_01017.htm), [304](http://www.le.state.ut.us/~code/TITLE63/htm/63_01018.htm) of the Utah Code , entitled "Government Records Access and Management Act" (GRAMA), and the State agency's website provides conspicuous notice that such information is subject to public access.
 
 Collection and Use of Information - Children's Personally Identifiable Information  
 Except as otherwise permitted by law, the State does not knowingly collect and use or disclose the personally identifiable information of a child under the age of 13. 
@@ -68,7 +68,7 @@ A privacy policy issued by a State agency for its website may provide additional
 
 An agency may not substitute its own privacy policy for this policy, unless a state law, federal regulation or federal statute requires an agency to treat personally identifiable information in a way that is inconsistent with this policy. In this case, an agency may opt-out of the specific provision of this policy which conflicts with the state statute, federal regulation or federal statute. If that occurs, the remainder of the provisions of this policy shall apply to the agency.
 
-A full description of how agencies are to inform you if your personal information is treated any differently than as described in this policy is provided in R365-5-1 et seq. of the Utah Administrative Code, which governs the actions of state agencies. 
+A full description of how agencies are to inform you if your personal information is treated any differently than as described in this policy is provided in [R365-5-1 et seq](http://www.rules.state.ut.us/publicat/code/r365/r365-005.htm). of the Utah Administrative Code, which governs the actions of state agencies. 
 
 Non-State Websites  
 Visitors may link to various websites from State web pages. The State is not responsible for the privacy practices or content of external sites. Many of these sites, particularly those in the private sector, may not be subject to GRAMA, other sections of the Utah Code, or federal law. Those visiting external sites are advised to check the applicable privacy statement and be cautious about providing personally identifiable information without a clear understanding of how the information will be used.
