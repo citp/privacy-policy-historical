@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the search4clicks.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013055536id_/http%3A//www.search4clicks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search4clicks.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630130518id_/http%3A//www.search4clicks.com/privacy2.asp) for the most accurate reproduction.*
 
-# Search4Clicks.com - Privacy Policy
+# www.search4clicks.com
 
 This is the web site of Search4Clicks.com, a division of PlattForm Advertising, Inc. 
 
@@ -10,7 +10,7 @@ The e-mail addresses of those who communicate with us via e-mail, information vo
 * to improve the content of our web site.  
 * to notify consumers about updates to our web site.
 
-**We collect no information from individuals below the age of 13.**
+ **We collect no information from individuals below the age of 13.**
 
 Information you share on our web site will not be shared with outside parties unless you provide us with approval to do so. Please read the terms of contests and other offers as the consent may be part of the entry into a contest. We do not sell information to others, but may share some information with our partners, when we have your consent. If you do not wish for us to share information with our partners, please send an e-mail to info@search4clicks.com to unsubscribe.
 
