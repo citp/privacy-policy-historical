@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803031742id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053221id_/http%3A//www.learn2type.com/index.cfm%3Faction%3DHome%26subaction%3DPrivacy) for the most accurate reproduction.*
 
-# Learn 2 Type Privacy Statement
+# Typing Test - Learn2Type.com - learn to type online FREE typing exercises and typing tests
 
-RJ Networks has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learn2Type.com. Your IP address is used to help identify you and tailor your typing lessons and to gather broad demographic information. 
+| [](http://www.learn2type.com/home) |  **Privacy Statement**  
+---|---  
+  
+Learn2Type.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learn2Type.com. Your IP address is used to help identify you and tailor your typing lessons and to gather broad demographic information. 
 
 Our site uses cookies to keep track of your session. We use cookies to tailor typing lessons specific to your continuing progress. 
 
@@ -20,19 +23,21 @@ This site has resonable security measures in place to protect the loss, misuse a
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 _Webmaster  
-RJ Networks   
+Learn2Type.com, Inc.   
 52-A Carmine Street #555   
 New York, NY 10014_   
 privacyX@Xlearn2type.com 
 
-Content and materials on this website are Copyright ©1999-2002 RJ Networks. 
+|   
+
+Content and materials on this website are Copyright ©1999-2003 Learn2Type.com, Inc. 
 
 Access to this website and content is provided at no charge, and with no   
 guarantees. While this content has been made available to assist you in   
 mastering touch typing, no guarantee is made that it will improve your typing. 
 
-RJ Networks is not liable for any damages, consequential or inconsequential, from   
+Learn2Type.com, Inc. is not liable for any damages, consequential or inconsequential, from   
 the ability or disability of using this website. Use these materials at your own risk. 
 
 Usage of this website constitutes acknowledgment of these disclaimers   
-and terms. View our [Privacy Statement](https://web.archive.org/Privacy). 
+and terms. View our [Privacy Statement](http://www.learn2type.com/index.cfm?action=Home&subaction=Privacy). 
