@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rateitall.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206095817id_/http%3A//www.rateitall.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateitall.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622103344id_/http%3A//www.rateitall.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # RateItAll - The Opinion Network
 
@@ -61,16 +61,16 @@ Any information you provide, other than information you chose to provide and mak
 The RateItAll Web site contains hyperlinks and advertisements that, if activated in the manner provided by your browser, will cause your browser to access and display the contents of other Web sites. RateItAll does not control or have any knowledge concerning the provisions of the privacy policies, if any, of those sites. Accordingly, RateItAll is not responsible for the privacy practices or any of the content of those Web sites and RateitAll’s Privacy Policy does not apply to those other sites. If you choose to activate a hyperlink to another Web site, you do so at your own risk and you may wish to review that site’s privacy policy.  
   
  **6\. How do I opt-out of your communication lists?**  
-As mentioned previously, RateItAll provides users the opportunity to opt-out of receiving communications from us and our partners during the registration process. Users can also remove themselves from our e-mailing list by writing to us at [info@rateitall.com](https://web.archive.org/web/20021206095817id_/http%3A//www.rateitall.com/info@rateitall.com).  
+As mentioned previously, RateItAll provides users the opportunity to opt-out of receiving communications from us and our partners during the registration process. Users can also remove themselves from our e-mailing list by writing to us at [info@rateitall.com](https://web.archive.org/web/20030622103344id_/http%3A//www.rateitall.com/info@rateitall.com).  
   
  **7\. How can I change my personal information?**  
-Users can modify their personal information by sending an email to [info@rateitall.com](https://web.archive.org/web/20021206095817id_/http%3A//www.rateitall.com/info@rateitall.com).  
+Users can modify their personal information by sending an email to [info@rateitall.com](https://web.archive.org/web/20030622103344id_/http%3A//www.rateitall.com/info@rateitall.com).  
   
  **8\. What if I have more questions?**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please send an e-mail to [info@rateitall.com](https://web.archive.org/web/20021206095817id_/http%3A//www.rateitall.com/info@rateitall.com).  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please send an e-mail to [info@rateitall.com](https://web.archive.org/web/20030622103344id_/http%3A//www.rateitall.com/info@rateitall.com).  
   
  **9\. How can I be sure that you adhere to your Privacy Policy?**  
-If for any reason you believe that RateItAll has not adhered to the principles contained in this Privacy Policy, please notify us at [info@rateitall.com](https://web.archive.org/web/20021206095817id_/http%3A//www.rateitall.com/info@rateitall.com). We will do our best to address your concerns and to confirm and correct the problem promptly.  
+If for any reason you believe that RateItAll has not adhered to the principles contained in this Privacy Policy, please notify us at [info@rateitall.com](https://web.archive.org/web/20030622103344id_/http%3A//www.rateitall.com/info@rateitall.com). We will do our best to address your concerns and to confirm and correct the problem promptly.  
   
 _Acceptance of Terms._
 
