@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207003000id_/http%3A//www.primagames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602164523id_/http%3A//www.primagames.com/privacy.php) for the most accurate reproduction.*
 
 # Primagames.com: Privacy Policy
 
-   **Privacy Policy** |     
----|---  
-  
 Primagames.com is committed to protecting the privacy and security of our users. The following privacy policy describes what kind of information we collect and how it is used. We believe that this policy will enable our visitors to protect their privacy while having fun at our site. 
 
 **INFORMATION THAT IS COLLECTED AND HOW IT IS USED**
