@@ -1,28 +1,24 @@
-> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602044319id_/http%3A//www.speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203144013id_/http%3A//speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Speedway SuperAmerica: Privacy Policy
 
-|   
+|  |  |   
 ---|---  
-|   | [   About Us](https://web.archive.org/AboutUs/AboutUs.asp) |    
+|  | [   About Us](https://web.archive.org/AboutUs/AboutUs.asp) |   
 ---|---|---  
-  | [   Store Locator](https://web.archive.org/StoreLocator/StoreLocator.asp) |    
-  | [   Special Offers](https://web.archive.org/Promotions/Promotions.asp) |    
-  | [   PrePaid / Credit](https://web.archive.org/CreditCards/CreditCards.asp) |    
-  | [   Career Options](https://web.archive.org/CareerOptions/CareerOptions.asp) |    
-  | [](http://store.yahoo.com/speedwaystore/index.html) |    
-  | [   Truck Stops](https://web.archive.org/TruckStops/TruckStops.asp) |    
-  | [   Food & Drink](https://web.archive.org/FoodService/FoodServices.asp) |    
-  | [   Fund Raising](https://web.archive.org/FundRaising/FundRaising.asp) |    
-  | [   Contact Us](https://web.archive.org/CustomerService/CustomerService.asp) |    
-**Search our site:**  
-   
-  | [](https://web.archive.org/CustomerService/CustomerService.asp) |    
-  |  **Online Coupons**  
-Now Available!  
-  
- |  Bic Coupon #1  
-Bic Coupon #2 |    
+| [   Store Locator](https://web.archive.org/StoreLocator/StoreLocator.asp) |   
+| [   Special Offers](https://web.archive.org/Promotions/Promotions.asp) |   
+| [   PrePaid / Credit](https://web.archive.org/CreditCards/CreditCards.asp) |   
+| [   Career Options](https://web.archive.org/CareerOptions/CareerOptions.asp) |   
+| [   Online Store](http://store.yahoo.com/speedwaystore/index.html) |   
+| [   Truck Stops](https://web.archive.org/TruckStops/TruckStops.asp) |   
+| [   Food & Drink](https://web.archive.org/FoodService/FoodServices.asp) |   
+| [   Fund Raising](https://web.archive.org/FundRaising/FundRaising.asp) |   
+| [   Contact Us](https://web.archive.org/CustomerService/CustomerService.asp) |   
+  **Search our site:**  
+    
+ [Search Gas Prices](https://web.archive.org/StoreLocator/StoreLocator.asp)  
+  |  |    
 |  |    
 ---  
   |  | _PRIVACY STATEMENT_  
