@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208085502id_/http%3A//www.wpi.edu/Web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404064400id_/http%3A//www.wpi.edu/Web/privacy.html) for the most accurate reproduction.*
 
-# WPI: Privacy Statement
+# WPI About This Site - Privacy Statement
 
-Worcester Polytechnic Institute (WPI) has created this privacy statement in order to demonstrate our firm commitment to the privacy of visitors to our Web site. The following discloses our information gathering and dissemination practices for this Web site (www.wpi.edu).
+## Student Information
+
+Student information is protected by the **Federal Family Educational Rights & Privacy Act (FERPA)**. Parents and students should read [WPI's FERPA Compliance Statement](https://web.archive.org/Admin/Registrar/ferpa.html).
+
+Worcester Polytechnic Institute (WPI) has created this privacy statement in order to demonstrate our firm commitment to the _privacy of visitors to our Web site_. The following discloses our information gathering and dissemination practices for this Web site (www.wpi.edu).
 
 _Collection & Use of Personal Information_  
 Many of the forms on our site require visitors to give us contact information (like their name and email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). We use information from registration forms to send each visitor information about our University. This information is also used to contact the visitor when necessary.
 
-Registered users of our [Admissions Café](http://www.wpi.edu/cgi-bin/ubb/ultimatebb.cgi) and Alumni Café, may receive email messages from time to time from our staff - users can choose to opt out of these mailings by going into the Café and editing their profile to be left off the mailing list. Unique identifiers (such as social security numbers) are collected only to verify the user's identity internally.
+Registered users of our [Admissions Café](http://www.wpi.edu/cgi-bin/ubb/ultimatebb.cgi) and [Alumni Café](http://www.wpi.edu/cgi-bin/Alumni/Ubb/ultimatebb.cgi), may receive e-mail messages from time to time from our staff - users can choose to opt out of these mailings by going into the Café and editing their profile to be left off the mailing list. Unique identifiers (such as social security numbers) are collected only to verify the user's identity internally.
 
 Demographic and profile data is also collected through some of our web forms. We use this data to tailor the visitor's experience at our site, showing them content in which we think they might be interested, and displaying the content according to their preferences.
 
@@ -60,4 +64,4 @@ If you have any questions about this privacy statement, the practices of this si
 > 
 
 Maintained by webmaster@wpi.edu  
-Last modified: Aug 18, 2004, 11:06 EDT
+Last modified: Jan 04, 2005, 14:52 EST
