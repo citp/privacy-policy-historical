@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratepoint.com privacy policy that was archived on 2001-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010516045910id_/http%3A//ratepoint.com/main.cfm%3Fget%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratepoint.com privacy policy that was archived on 2001-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011025051416id_/http%3A//ratepoint.com/main.cfm%3Fget%3Dpriv) for the most accurate reproduction.*
 
 # Labtest.com - Lab focused Internet specialists. Web-native result reporting and test ordering application for clinical labs.
 
