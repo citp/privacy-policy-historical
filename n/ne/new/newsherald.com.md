@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsherald.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206200051id_/http%3A//www.newsherald.com/new/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsherald.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307195527id_/http%3A//www.newsherald.com/new/privacypolicy.htm) for the most accurate reproduction.*
 
 # The News Herald, Panama City, FL.
 
