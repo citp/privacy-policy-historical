@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarfan.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613195327id_/http%3A//cougarfan.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarfan.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214083400id_/http%3A//cougarfan.com/about/privacy.html) for the most accurate reproduction.*
 
 # CougarFan.com : Privacy Policy
 
