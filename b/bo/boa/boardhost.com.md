@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardhost.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205092538id_/http%3A//www.boardhost.com/bh/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardhost.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033419id_/http%3A//www.boardhost.com/bh/privacy) for the most accurate reproduction.*
 
 # Boardhost: Privacy Statement
 
@@ -13,7 +13,7 @@ This site contains links to other sites. **Boardhost** is not responsible for th
 
 We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. 
 
-Our site's message board creation forms require users to give us contact information, including an email address and name. The customer contact information collected during Boardhost message board creation is only used to activate the account, to send the user periodic updates and important service changes, and for us to contact the customer when necessary. Your personal information is only released to third parties if you choose to release it to them. However, we may release contact information to proper governmental agencies or courts, if we believe you have commited illegal activites, if you've violated our [terms of service](http://www.boardhost.com/bh/tos/), or in the event that the information is subpoenaed. 
+Our site's message board creation forms require users to give us contact information, including an email address and name. The customer contact information collected during Boardhost message board creation is only used to activate the account, to send the user periodic updates and important service changes, and for us to contact the customer when necessary. Such personal information is only released to third parties if you choose to release it to them. However, we may release contact information to proper governmental agencies or courts, if we believe you have commited illegal activites, if you've violated our [terms of service](http://www.boardhost.com/bh/tos/), or in the event that the information is subpoenaed. 
 
 **Boardhost Message Boards**
 
@@ -46,4 +46,4 @@ Benton, WI 53803
 
 
 **Email:**  
-privacy@boardhost.com 
+support@boardhost.com 
