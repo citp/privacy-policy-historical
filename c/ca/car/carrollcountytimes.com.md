@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carrollcountytimes.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412124035id_/http%3A//carrollcountytimes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrollcountytimes.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203155045id_/http%3A//carrollcountytimes.com/privacy_policy) for the most accurate reproduction.*
 
 # Carroll County Times: Westminster, Maryland
 
 Privacy Notice
 
-The following guidelines apply for information collected from visitors to the Carroll County Online Web site:
+The following guidelines apply for information collected from visitors to the Carroll County Times Online Web site:
 
 The Carroll County Times and Carroll County Times Online are committed to protecting your privacy. We believe you have a right to know what information we collect about you when you visit our Web site and how that information is used and safeguarded.
 
@@ -26,11 +26,11 @@ Send us an e-mail
 
 Submit reader opinions
 
-We do not give or sell any personally identifiable information to advertisers or other outside parties. We may use this information to process and maintain your account, reply to your specific questions and requests, verify submitted editorial information (ie: wedding and birth announcements) and compile aggregate demographic statistics about our users.
+We do not give or sell any personally identifiable information to advertisers or other outside parties. We may use this information to process and maintain your account, reply to your specific questions and requests, verify submitted editorial information (ie: wedding and birth announcements,) inform you of special offers from us and compile aggregate demographic statistics about our users.
 
 The Carroll County Times and Carroll County Times Online are not responsible for the policies or actions of third parties that may collect any information you disclose in the Opinions, Guest Book, Classifieds, Community Calendar or other public forums on this site.
 
-Our partners and other Internet sites and services that may be accessible through the Carroll County Times Online have separate data and privacy practices. These sites include, but are not limited to, Zwire! and dotPhoto. Please contact those sites directly if you have questions about their privacy policies.
+Our partners and other Internet sites and services that may be accessible through the Carroll County Times Online have separate data and privacy practices. These sites include, but are not limited to, TownNews and dotPhoto. Please contact those sites directly if you have questions about their privacy policies.
 
  **Children's Privacy**
 
