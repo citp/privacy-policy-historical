@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203082716id_/http%3A//www.sbcc.edu/index.cfm%3Fsec%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406134414id_/http%3A//www.sbcc.edu/index.cfm%3Fsec%3D71) for the most accurate reproduction.*
 
 # Santa Barbara City College
 
@@ -16,4 +16,4 @@ Privacy
 
 ##### SPECIAL NOTICE TO PARENTS AND CHILDREN 
 
-All information submitted on this site must comply with the Children's Online Privacy Protection Act, effective April 21, 2000. Detailed information about this Act can be found at [http://www.ftc.gov/opa/1999/9910/childfinal.htm](http://www.ftc.gov/opa/1999/9910/childfinal.htm)
+All information submitted on this site must comply with the Children's Online Privacy Protection Act, effective April 21, 2000. Detailed information about this Act can be found at <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>
