@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the hds.com privacy policy that was archived on 2004-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041227052614id_/http%3A//www.hds.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hds.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404051130id_/http%3A//www.hds.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Hitachi Data Systems: Privacy Policy
 
-## HITACHI DATA SYSTEMS CORPORATION
-
-Collectively, the terms below are referred to as the "Agreement." 
+Collectively, the terms below are referred to as the "Agreement."
 
 Hitachi Data Systems Corporation and its corporate affiliates worldwide (collectively "HDS") are committed to taking reasonable steps necessary to protect your privacy. Once you choose to provide your "personal data" to HDS (any information by which you can be individually identified), HDS will endeavor to make sure it is only used in connection with your business relationship with HDS.
 
@@ -38,7 +36,7 @@ When you link to the web site of an HDS affiliated, or an HDS sister company (or
 
 **Consent To Collection And Use**
 
-By voluntarily accessing the applications, services or information provided to you by HDS and any HDS Affiliate on their web sites you acknowledge that such access is requested by you to facilitate our mutually beneficial business purposes. HDS and each HDS Affiliate therefore reserves the right to deny access to such services or information by you, where you decline to provide requested consent, if such consent is required by law in your country of residence in order for HDS or any HDS Affiliate to process or transfer the necessary personal data. You agree that by checking an "I Agree" , "I Consent" or similar box, or voluntarily disclosing your personal data at an HDS web site, you may be deemed to have granted your limited consent to the mutually beneficial uses reasonably contemplated at the time of your consent, including ordinary data processing activities by third parties on HDS' behalf, to the extent such consent is legally sufficient in your country of residence.
+By voluntarily accessing the applications, services or information provided to you by HDS and any HDS Affiliate on their web sites you acknowledge that such access is requested by you to facilitate our mutually beneficial business purposes. HDS and each HDS Affiliate therefore reserves the right to deny access to such services or information by you, where you decline to provide requested consent, if such consent is required by law in your country of residence in order for HDS or any HDS Affiliate to process or transfer the necessary personal data. You agree that by checking an "I Agree", "I Consent" or similar box, or voluntarily disclosing your personal data at an HDS web site, you may be deemed to have granted your limited consent to the mutually beneficial uses reasonably contemplated at the time of your consent, including ordinary data processing activities by third parties on HDS' behalf, to the extent such consent is legally sufficient in your country of residence.
 
 HDS ordinarily uses your data to better understand your needs and provide you with better service. Specifically, we use your data to update you on the benefits and features of HDS Products and Services and to provide you with information and material requested by you. From time to time, we may also use your data to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always do our best give you the opportunity to opt out of receiving such direct marketing or market research material. We will also follow internal requirements for avoiding the delivery of unwanted mail to you, such as allowing you to opt in before receiving unsolicited material, where applicable.
 
@@ -104,6 +102,6 @@ Please contact HDS at [privacy@hds.com](mailto:privacy@hds.com) or at the follow
 
 Hitachi Data Systems Corporation  
 750 Central Expressway  
-Santa Clara, California 95050 
+Santa Clara, California 95050
 
 Attention: Data Privacy Administrator
