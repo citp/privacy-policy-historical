@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209180730id_/http%3A//www.arcadepod.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621174126id_/http%3A//www.arcadepod.com/privacy.php) for the most accurate reproduction.*
 
 # ArcadePod.Com
 
