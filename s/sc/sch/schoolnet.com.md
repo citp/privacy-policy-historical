@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolnet.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003165811id_/http%3A//www.schoolnet.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolnet.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604100603id_/http%3A//www.schoolnet.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Contact Us - SchoolNet
 
@@ -11,9 +11,10 @@
 |  [SchoolNet Solutions](https://web.archive.org/outreach/home/software/)  
 |  [SchoolNet Services](https://web.archive.org/outreach/home/services/)  
 |  [News](https://web.archive.org/outreach/home/news/)  
-|  [Jobs at Schoolnet](https://web.archive.org/outreach/home/jobs/)  
+|  [Jobs at SchoolNet](https://web.archive.org/outreach/home/jobs/)  
 |  [Support](https://web.archive.org/outreach/home/support/)  
 |  [About the Company](https://web.archive.org/outreach/home/about/)  
+|  [EduStat Summit](https://web.archive.org/outreach/home/edustat/)  
 |  |    
 | Privacy Policy |   
 ---|---  
