@@ -1,0 +1,38 @@
+> *The following text is extracted and transformed from the pickuptruck.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205234300id_/http%3A//www.pickuptruck.com/html/privacy_security.html) for the most accurate reproduction.*
+
+# PickupTruck.com - Privacy / Security Statement
+
+**PickupTruck.com -Privacy/Security Policy**
+
+The policies below are applicable to the PickupTruck.com, Inc. web site. PickupTruck.com, Inc. collects personally identifying information only during (1) contest or sweepstakes Registration and (2) subscription Registration for features that require subscription and (3) online shopping. . In addition, Registration is required and information is collected in certain portions of the web site in which guests specifically and knowingly provide such information along with content submissions, community postings (i.e., chat or bulletin boards), suggestions, or rating. PickupTruck.com, Inc. may use such information to fulfill contest prizes, track compliance with our web site terms of use, or for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event PickupTruck.com, Inc. plans to publicly post any such information on a site, guests are provided prior notification of such posting and given the option of preventing such posting. 
+
+**Policies for Individuals**  
+· PickupTruck.com, Inc. encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the site.  
+· No information should be submitted to or posted PickupTruck.com web site by guests under 13 years of age without the consent of their parent or guardian.  
+· Unless otherwise disclosed during collection, PickupTruck.com, Inc. does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever.  
+· Guests' e-mail addresses are never posted on the PickupTruck.com, Inc. web site unless the guest chooses to make their e-mail address viewable to the public.
+
+With the permission of a guest, information submitted at the time of registration or submission may be used for marketing and promotional purposes by PickupTruck.com, Inc. and may be shared with our affiliates or companies that have been pre-screened by PickupTruck.com, Inc. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. By registering with PickupTruck.com, Inc., every effort will be made to maintain your information in a secure environment by PickupTruck.com, Inc. If you wish to modify your registration information or stop receiving e-mail updates from PickupTruck.com, Inc., just send an email to info@pickuptruck.com and make this request. 
+
+**About IP Addresses**  
+PickupTruck.com, Inc. collects IP addresses when submitting posts to the bulletin board and for the purposes of system administration. An IP address is a number that's automatically assigned to your computer whenever you're connected to a network or connected to the Internet. When guests request pages from PickupTruck.com, Inc., our web servers log the guests' IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user's session will be logged, but the user remains anonymous to us.
+
+ **Use of Cookies - The PickupTruck.com, Inc. Cookies Policy**  
+What are cookies? Cookies are pieces of information that a Web site transfers to an individual's hard drive for record keeping purposes. Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you're at our site. The use of cookies is an Industry standard, and you'll find cookies at most major Web sites. 
+
+**Examples of How PickupTruck.com Uses Cookies**  
+The PickupTruck.com, Inc. bulletin board uses cookies to store the following information: the last time you logged in, your username and password, and your preferred "topic view", if you set it in preferences. These cookies are stored on your browser. Cookies are not used to track your movement or perform any function other than to enhance your use of the bulletin board. If your browser does not support cookies, or you have not enabled cookies on your browser, many of these timesaving features will not work properly. Also, you need to have cookies enabled in your browser if you want to enter a private forum. PickupTruck.com, Inc. also uses cookies to let the computer remember that you've registered, which allows us to speed up your future activities at our sites. 
+
+**How PickupTruck.com, Inc. Does Not Use Cookies**  
+PickupTruck.com, Inc. never uses cookies to retrieve information from your computer that was not originally sent in a cookie. Except as described below, PickupTruck.com, Inc. does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. 
+
+PickupTruck.com, Inc. does not use cookies to identify specific individuals, except in such cases as online shopping and contest registration (where a cookie allows you to enter a contest every day without registering again each time). Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some areas of the site, such as the shopping, contests, surveys, etc. will not function properly if you do so.
+
+ **Links to Other Sites**   
+Users should be aware that when you are on the PickupTruck.com web site you could be directed to other sites that are beyond our control. There are links to other sites from PickupTruck.com that take you outside our service. For example, if you "click" on a banner advertisement, the "click" takes you off the PickupTruck.com site. This includes links from advertisers, sponsors and partners that may use PickupTruck.com's logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information. Always be aware of where you end up. Please keep in mind that whenever you give out personal information online - for example, via message boards or chat - that information can be collected and used by people you don't know. While PickupTruck.com strives to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+
+**Security Policy**   
+The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers, utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access, each having signed compressive nondisclosure agreements, which provides explicit legal confidentiality protections. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
+
+**Your Acceptance of These Terms**  
+By using this site, you signify your assent to the PickupTruck.com Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the PickupTruck.com site following the posting of changes to these terms will mean you accept those changes. You can send an e-mail to info@pickuptruck.com with any further questions. 
