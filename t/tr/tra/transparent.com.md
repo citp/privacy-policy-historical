@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transparent.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613181425id_/http%3A//www.transparent.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparent.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204175438id_/http%3A//www.transparent.com/privacy.htm) for the most accurate reproduction.*
 
 # Transparent Language - LanguageNow!
 
