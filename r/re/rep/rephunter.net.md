@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204202639id_/http%3A//www.rephunter.net/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2004-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040416231700id_/http%3A//www.rephunter.net/privacy/privacy.asp) for the most accurate reproduction.*
 
 # RepHunter.net Privacy Policy
 
   
 |    
 ---  
-[](https://web.archive.org/web/20031204202639id_/http%3A//www.rephunter.net/login/login.asp)  
+[](https://web.archive.org/web/20040416231700id_/http%3A//www.rephunter.net/login/login.asp)  
    
   
   
