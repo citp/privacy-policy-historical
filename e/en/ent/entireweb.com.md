@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entireweb.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606202813id_/http%3A//www.entireweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entireweb.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221212520id_/http%3A//www.entireweb.com/privacy.html) for the most accurate reproduction.*
 
 # Entireweb.com - We have the future. You use it!
 
