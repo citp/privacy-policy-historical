@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204181953id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308182527id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
 
 # OrderMotion | A Singular Solution for Multi-Channel Commerce
 
   
-[Home](https://web.archive.org/web/20041204181953id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20041204181953id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)Privacy Statement
+[Home](https://web.archive.org/web/20050308182527id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20050308182527id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)Privacy Statement
 
 The web site you have entered, [www.OrderMotion.com](http://www.ordermotion.com/), is operated by or on behalf of OrderMotion, A CommercialWare Company. 
 
