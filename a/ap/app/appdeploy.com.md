@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appdeploy.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610181215id_/http%3A//www.appdeploy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdeploy.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009161352id_/http%3A//www.appdeploy.com/privacy.asp) for the most accurate reproduction.*
 
 # AppDeploy.com: Privacy
 
@@ -42,9 +42,9 @@ RWK Systems, Inc.'s sites contain links to other sites. RWK Systems, Inc. is not
 Our sites provide you with the opportunity to opt-out of receiving communications from us at any point where we request information. The only communications sent from AppDeploy.com is that of its newsletter, which is an opt-in monthly update of site updates and information. You may unsubscribe from this at any time by sending an email with "unsubscribe" in the subject to [newsletter@appdeploy.com](mailto:newsletter@appdeploy.com). 
 
 **Correct/Update**  
-If you want to change or modify information you have previously provided to us, please either go back to the site where you provided such information or contact us [using this contact form](https://web.archive.org/web/20040610181215id_/http%3A//www.appdeploy.com/contact.asp). 
+If you want to change or modify information you have previously provided to us, please either go back to the site where you provided such information or contact us [using this contact form](https://web.archive.org/web/20041009161352id_/http%3A//www.appdeploy.com/contact.asp). 
 
 **Contacting the Web Site**  
-If you have any questions about RWK Systems, Inc.'s privacy statement or the privacy practices of our sites, please contact us by [using this contact form](https://web.archive.org/web/20040610181215id_/http%3A//www.appdeploy.com/contact.asp). 
+If you have any questions about RWK Systems, Inc.'s privacy statement or the privacy practices of our sites, please contact us by [using this contact form](https://web.archive.org/web/20041009161352id_/http%3A//www.appdeploy.com/contact.asp). 
 
 Copyright © 1999-2003 RWK Systems, Inc. Box #6, Haymarket, VA 20168-0006, USA
