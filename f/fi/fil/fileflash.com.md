@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214080300id_/http%3A//www.fileflash.com/index.asp%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616125345id_/http%3A//www.fileflash.com/index.aspx%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # File Flash - Your Downloads Start Here.
-
-[](https://web.archive.org/)
-
-** File Flash Privacy Policy**
 
 File Flash is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time, so please check back periodically. 
 
@@ -61,35 +57,3 @@ To conform with the [Children's Online Privacy Protection Act of 1998](http://ww
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-|  |  **Last Updated**  
----  
-  
-
-
-[3 Hours, 2 Minutes Ago]   
-  
-**Download Tracking**  
----  
-  
-
-
-No previous downloads.   
-  
-**Comment Tracking**  
----  
-  
-Login required.  
-**Editor's Pick**  
----  
-  
-  
-[[Kaufman Mail Warrior](https://web.archive.org/web/20001214080300id_/http%3A//www.fileflash.com/index.asp?action=info&program=1561)]   
-If you're sick of the bulk of email clients such as Outlook, Outlook Express, Netscape Mail, Eudora, and others you should check out this great alternative. Kaufman Mail Warrior doesn't cost anything, and still has the features of all the leaders. [[Previous Picks](https://web.archive.org/web/20001214080300id_/http%3A//www.fileflash.com/index.asp?action=editor)]  
-**Link To Us**  
----  
-  
-
-
-  
-
