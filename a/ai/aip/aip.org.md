@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201015813id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405100316id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.*
 
 # AIP Privacy Policy
 
