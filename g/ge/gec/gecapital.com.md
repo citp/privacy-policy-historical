@@ -1,55 +1,47 @@
-> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055842id_/http%3A//www.gecapital.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecapital.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214022819id_/http%3A//www.ge.com/en/ge/privacy.htm) for the most accurate reproduction.*
 
-# GE Capital
+# General Electric : Privacy Policy
 
-| **GECapital.Com PRIVACY POLICY**
+##### Information Collected
 
-At GECapital.Com, protecting your privacy is very important to us. Our goal is to treat the personal information you furnish us with the utmost respect, and in accordance with this Privacy Policy. This Privacy Policy is currently applicable only to our United States customers and visitors when they interact with our website.  
-Please read on for details about our practices for handling and securing your personal information. 
+In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site, and to GE promotions on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than GE affiliates and contractors who assist GE in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed.
 
-**ADDITIONAL PRIVACY INFORMATION**  
-Additional privacy information that is specific to certain products or services from a GE Capital business can be found on that business's web site. Various laws or the nature of certain products or services may require additional description and disclosures. We encourage you to read this information, as well as the privacy policies of other web sites you visit. 
+In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. For electronic access to annual reports and proxy statements, we collect your tax identification number to verify your shareholder status. For our supplier diversity site, we necessarily collect information about gender and ethnicity, such as whether your business is female-owned.
 
-**WHAT INFORMATION DO WE COLLECT? HOW DO WE USE IT?**
+This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
 
-**Anonymous Browsing**  
-You can visit the GE companies on the World Wide Web without telling us who you are or revealing any information about yourself, including your email address. In this case, our web servers collect the name of the domain you used to access the Internet (such as aol.com) and the web site you came from and visit next. This information is used by us and our business partners to measure the number of visits, average time spent, page views, and other statistics about visitors to our web site in general. We also use this data to monitor site performance and to make the site easier and more convenient to use. 
+Return to top
 
-**Personal Information Collection**  
-There are times when we may ask you for information about yourself to assist us in meeting your various needs, including:
+##### Use of Collected Information
 
-  * Providing you with products or services you have requested 
-  * Servicing your account 
-  * Improving our services 
-  * Developing and/or informing you of additional products or services that may be of interest 
+Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
 
-In these cases, your browsing will no longer be anonymous to us. To provide these services, we may need to ask you directly to provide, among other things, your name, social security number, physical address, zip code, e-mail address, and phone number. Also, you may elect to apply online for one of our products or services, which may require us to gather additional information to determine your eligibility. 
+When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information. Usually, we use the personal information you provide only to respond to your inquiry or to process your request (such as to receive electronic annual reports or to be added to our supplier diversity database). This information may be shared with other GE businesses, but only if necessary to fulfill your request or for related purposes.
 
-Please note that we do not knowingly solicit information from children and we do not knowingly market our products or services to children.
+We may share the personal information you provide with other companies we have hired to provide services for us. These companies - our vendors - are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. We do not share, sell, or lease personal information about you to any third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances (for example, to protect your account from fraud).
 
-**Cookies**  
-Cookies are small pieces of data stored by your internet browser on your computer's hard drive. If you are browsing, a cookie is used to help us measure the number of visits, average time spent, page views, and other statistics relating to our web site. This cookie, by itself doesn't tell us your e-mail address or who you are. If you decide to register online with one of GE business units, we may collect additional information to provide tailored offerings or content to you. In this case, we use Cookies to recognize you on subsequent visits and make your online experience more convenient.
+If you register with one of GE's business units online, they may use this information to provide you with custom information about GE's offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with that GE business' Web site for further information about that GE business' privacy practices.
 
-Cookies cannot be used to get data from your hard drive, get your e-mail address or personal identifying information about you. You may set your browser to notify you when you receive a cookie or to prevent cookies from being sent. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit our site. 
+Return to top
 
-For Netscape users, Netscape Navigator Version 4.0 began giving users the ability to control cookies. Newer versions of Microsoft's Internet Explorer have a similar capability. Refer to these companies' web sites for additional information. 
+##### Links to Other Sites
 
-**SHARING OF INFORMATION AND CONSUMER CHOICE**  
-When you provide information to us, we may share your information with our affiliated companies and third parties for the purpose of fulfilling your requests as well as offering you other products and services that may be of interest to you. When you submit personal information to us during your visit to GECapital.Com, we will let you know how you can prevent disclosure of this information to third parties for marketing purposes, if you so choose. We may also aggregate statistics that we gather about our customers, sales, traffic patterns, and services and provide these statistics to third parties; however, when we do, these statistics will not include any personal information that identifies individuals. 
+GE's Web site may contain links to other sites such as GE distributors and sales affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites.
 
-**E-MAIL COMMUNICATION AND ONLINE SURVEYS**  
-Occasionally, we will send you e-mail communications with information, which may be useful to you, including information about our products and services or about offerings from affiliates or third parties. When you first provide us with your e-mail address, you will be given the option of not receiving any such e-mail if you choose. We will include instructions in our e-mail messages on how to unsubscribe if you later decide you do not want to receive any future e-mails. 
+##### Security of Collected Information
 
-At times, we conduct online surveys to better understand the needs, profiles, and experience of our visitors. You will be given the option of not participating in such surveys. 
+We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those GE workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
 
-**HOW DO YOU ACCESS AND UPDATE YOUR INFORMATION?**  
-In some cases you may want to update the information that you have provided to us. This may require you to use a unique user name and password (or "PIN"). Also, where the capability exists, you may request that we modify or delete information we have gathered during your visit. See the GECapital.Com [Contact Us](http://www.gefn.com/contact/index.html) page for additional information. 
+##### Access to Collected Information
 
-**HOW IS YOUR INFORMATION SECURED AND PROTECTED?**  
-At GECapital.Com, our goal is to protect your personal information. E-mails you send us are not necessarily secure when they are transmitted to us. If your communication is very sensitive or includes highly confidential information such as a social security number or a credit card number, you may want to send it by regular mail instead.  
-We instruct our employees with access to your information that it is to be used only in adherence with the principles set forth in this Privacy Policy and the laws applicable to each specific business. Employees who misuse customer information are subject to disciplinary action. 
+You may review and update the information that you provide to us through this Web site by contacting us as described below.
 
-**WHAT IF WE CHANGE OUR PRIVACY POLICY?**  
-GE and its affiliated companies reserve the right to modify or supplement this Privacy Policy statement at anytime. If we make any material change, we will update our web site to include such changes. 
+##### Contacting Us
 
-| 
+If you have any questions about this privacy policy, please use the [Contact Us](https://web.archive.org/en/ge/contact.htm) page. We welcome your questions and suggestions about our privacy policy.
+
+##### Changes to this Policy
+
+Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change. 
+
+Return to top
