@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612004929id_/http%3A//www.jamaicans.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211071900id_/http%3A//jamaicans.com/privacy.htm) for the most accurate reproduction.*
 
 # Jamaicans.com Privacy Policy
 
