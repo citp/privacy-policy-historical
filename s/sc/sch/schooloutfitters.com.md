@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416152756id_/http%3A//www.schooloutfitters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216094026id_/http%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.*
 
-# SchoolOutfitters.com - Privacy policy
+# SchoolOutfitters.com
 
-|  | 
-
-_**Your Privacy**_
+|  _**Your Privacy**_
 
 Your privacy is important to us. That’s why we don’t sell any of your information or even require you sign up before you order. Here’s what we do with the information you graciously provide us with:
 
