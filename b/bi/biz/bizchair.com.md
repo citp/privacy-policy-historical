@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bizchair.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020220728id_/http%3A//www.bizchair.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizchair.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009221044id_/http%3A//www.bizchair.com/privacypolicy.html) for the most accurate reproduction.*
 
-# BizChair;Office Chairs:Office furniture, Ergonomic chairs, Chairs
+# BizChair.com
 
-| 
-
-[](http://www.bizchair.com/info.html)
+|  |  | 
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[ Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._  
   
