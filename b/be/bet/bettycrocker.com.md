@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettycrocker.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623133744id_/http%3A//www.bettycrocker.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettycrocker.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801204317id_/http%3A//www.bettycrocker.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # www.BettyCrocker.com: PrivacyPolicy
 
@@ -43,7 +43,7 @@ Please Note: Our Website contains links to the Websites of our subsidiaries and 
 Users of chat rooms and message/bulletin boards that may be on our Websites should be aware that when they voluntarily disclose personally identifiable information (e.g., user name, e-mail address, etc.) on a message/bulletin board, in a chat area, or other interactive area where personal information can be posted, the information can be collected and used by other Web surfers (s/b Users). This may result in unsolicited messages from other posters or parties. We make no representations and undertake no obligations as to the security of information you voluntarily post in chat rooms and message/bulletin boards.
 
 **Our Commitment To Children's Privacy**  
-A SPECIAL NOTE TO PARENTS: To protect the interests of children, no personal information will be requested on our Website from children 13 years of age or under, without notice to and the consent of a parent or guardian. This information, if collected, will be subject to the terms of our [Child Online Privacy Policy.](https://web.archive.org/web/20030623133744id_/http%3A//www.bettycrocker.com/ChildOnlinePrivacyPolicy.asp)
+A SPECIAL NOTE TO PARENTS: To protect the interests of children, no personal information will be requested on our Website from children 13 years of age or under, without notice to and the consent of a parent or guardian. This information, if collected, will be subject to the terms of our [Child Online Privacy Policy.](https://web.archive.org/web/20030801204317id_/http%3A//www.bettycrocker.com/ChildOnlinePrivacyPolicy.asp)
 
 **Notice**  
 This Website is intended for use by residents of the United States of America only. All matters relating to this site are governed by the laws of the State of Minnesota in the United States of America. If you are located outside of the United States of America, in Europe, or elsewhere and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize its transfer.
@@ -52,7 +52,7 @@ This Website is intended for use by residents of the United States of America on
 We reserve the right to change or remove this Privacy Policy at our sole discretion at any time. Please check back from time to time to ensure that you are aware of any updates or changes in this Privacy Policy.
 
 **Your Consent To The Terms Of This Online Privacy Policy**  
-By using this website, you signify your assent to all of the terms of this General Mills Online Privacy Policy and our [Terms of Use](https://web.archive.org/web/20030623133744id_/http%3A//www.bettycrocker.com/TermsOfUse.asp). If you do not agree with any term of this General Mills Online Privacy Policy or our [Terms of Use](https://web.archive.org/web/20030623133744id_/http%3A//www.bettycrocker.com/TermsOfUse.asp), please do not use this site or submit any personally identifiable information.
+By using this website, you signify your assent to all of the terms of this General Mills Online Privacy Policy and our [Terms of Use](https://web.archive.org/web/20030801204317id_/http%3A//www.bettycrocker.com/TermsOfUse.asp). If you do not agree with any term of this General Mills Online Privacy Policy or our [Terms of Use](https://web.archive.org/web/20030801204317id_/http%3A//www.bettycrocker.com/TermsOfUse.asp), please do not use this site or submit any personally identifiable information.
 
 **How You Can Access Or Correct Your Information**  
 You can request to access, review, correct, update or have your personally identifiable information deleted from our database by sending an e-mail to, [Customer Services](mailto:bettycrocker@mail.genmills.com). To protect your privacy and security we will also take reasonable steps to verify your identity before granting access or making corrections. You may also reach us by telephone at 1-800-328-8360 weekdays from 8 a.m. - 5 p.m. Central Time.
