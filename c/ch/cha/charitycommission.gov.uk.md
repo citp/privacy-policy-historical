@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417130110id_/http%3A//www.charitycommission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030126id_/http%3A//www.charitycommission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
 
 # COPYRIGHT STATEMENT
 
-   [ **Text only version**](https://web.archive.org/common/copyright.asp?text=TRUE)
-
-© Crown copyright 2001
+© Crown copyright 2003
 
 The material featured on this site is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material (other than the Register of Charities, the Royal Arms or departmental logos) may be reproduced free of charge in any format or medium provided it is reproduced accurately and not used in a misleading context. Where any of the Crown copyright items on this site are being republished or copied to others, the source of the material must be identified and the copyright status acknowledged. The permission to reproduce Crown protected material does not extend to any material on this site which is identified as being the copyright of a third party. Authorisation to reproduce such material must be obtained from the copyright holders concerned. The Charity Commission encourages users to establish hypertext links to this site. 
 
@@ -70,3 +68,6 @@ What happens when I link to another site?
 www.charitycommission.gov.uk contains links to other websites, both those of government departments and of other organisations. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site which collects personal information.
 
 We do not pass on any personal information you have given us to any other site.
+
+|  BACK | TOP   
+---|---
