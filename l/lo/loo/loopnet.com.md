@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 1999-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991116080055id_/http%3A//loopnet.com/customerservice/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608214544id_/http%3A//www.loopnet.com/customerservice/privacy.asp) for the most accurate reproduction.*
 
-# LoopNet - Privacy Statement
+# LoopNet - The Internet's Leading Commercial Real Estate Marketplace
 
-[](https://www.truste.org/validate/2997)LoopNet Inc. is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the LoopNet web site. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
+  |  **PRIVACY STATEMENT**[](https://www.truste.org/validate/2997)LoopNet, Inc. is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the LoopNet web site. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
 
   * The personally identifiable information collected and which organization is collecting the information 
   * How the information is used and with whom the information may be shared 
@@ -14,13 +14,13 @@
 
 Questions regarding this statement should be directed to [privacy@loopnet.com](mailto:privacy@loopnet.com) or by calling 415.216.1600 ext. 126. If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. (Please return to the LoopNet site by using the "Back" button on your browser.)
 
-## LoopNet's Privacy Statement
+**LoopNet's Privacy Statement**
 
 LoopNet provides a variety of online services for commercial real estate professionals. LoopNet values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not share it without the user's permission. We use this personal information at LoopNet to provide the best quality service possible. The following policy statement summarizes LoopNet's protection and use of any personal information provided by visitors to the LoopNet site.
 
 **Information Collected by LoopNet:**
 
-LoopNet collects user information from several areas of the LoopNet site including the 'Join LoopNet" area; service features; the adding and editing of property listings; technical support email forms; and any surveys or contests that LoopNet may sponsor. LoopNet may track the IP address of a user's computer or place a "cookie" in the browser files of a user's computer. This is required by LoopNet services to provide automated features.
+LoopNet collects user information from several areas of the LoopNet site including the 'Become a Member' area; service features; the adding and editing of property listings; technical support email forms; and any surveys or contests that LoopNet may sponsor. LoopNet may track the IP address of a user's computer or place a "cookie" in the browser files of a user's computer. This is required by LoopNet services to provide automated features.
 
 **Use of Information Collected:**
 
