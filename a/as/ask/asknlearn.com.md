@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asknlearn.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612061112id_/http%3A//asknlearn.com/pages/bottom%2520navigation/privacy%2520statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asknlearn.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215060505id_/http%3A//asknlearn.com/pages/bottom%2520navigation/privacy%2520statement.htm) for the most accurate reproduction.*
 
 # ASKnLearn.com - Privacy Statement
 
