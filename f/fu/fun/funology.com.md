@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204034936id_/http%3A//www.funology.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403083621id_/http%3A//www.funology.com/privacy.htm) for the most accurate reproduction.*
 
 # Funology.com -- Privacy Policy
 
