@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217065911id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601225251id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Auto Products
 
@@ -55,7 +55,7 @@ This site collects and provides content, merchandise, and services from third pa
 
 This site contains links to other sites not owned by AutoProducts.com, these sites or company's offer business opportunities, merchandise, services, etc, the information or data that you provide to these sites or company's are not shared with us, we do not have access to this information. 
 
-This website is hosted and powered by FSI WEBS.com 
+This website is hosted and powered by HOST4PROFIT.com 
 
 ####  Supplementation of Information 
 
@@ -86,9 +86,9 @@ Support hours - Mon to Friday 7AM - 3PM EST.
 **We at AutoProducts.com make every effort to provide the best service to all our customers, and we will honor all customers requests in a timely fashion. We respect your privacy and none of the  information that is collected by this web site is, rented or sold for any purpose whatsoever. 
 
  **   
-ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam.  [SPAM POLICY](https://web.archive.org/web/20021217065911id_/http%3A//www.autoproducts.com/spampolicy.htm)   
+ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam.  [SPAM POLICY](https://web.archive.org/web/20030601225251id_/http%3A//www.autoproducts.com/spampolicy.htm)   
 Report Spam: [ support@autoproducts.com ](mailto:support@autoproducts.com)  
 
 AutoProducts.com will not be responsible for SPAMMING, SPOOFING / FORGED email, or any illegal activity advertisers, affiliates clients or individuals participate in or performs. This type of action will immediately terminate any and all contracts and services with the advertisers, affiliates or clients and all Spammers will be subject to legal action and held responsible for all damages.
 
-Copyright © 1997-2002 [Auto Products.com] All rights reserved. 
+Copyright © 1997-2003 [Auto Products.com] All rights reserved. 
