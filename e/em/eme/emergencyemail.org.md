@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emergencyemail.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206082546id_/http%3A//emergencyemail.org/EMENPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emergencyemail.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611025328id_/http%3A//www.emergencyemail.org/EMENPrivacy.htm) for the most accurate reproduction.*
 
 # Privacy - The Emergency Email Network Homepage
 
