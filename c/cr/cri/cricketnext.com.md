@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the cricketnext.com privacy policy that was archived on 2002-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020614233714id_/http%3A//www.cricketnext.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketnext.com privacy policy that was archived on 2003-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030215144953id_/http%3A//www.cricketnext.com/disclaimer1.html) for the most accurate reproduction.*
 
-# CRICKETNEXT.COM ::: Privacy Policy
+# CRICKETNEXT.COM NEWS ::: Disclaimer
 
 We at cricketnext.com primarily collect information about you to understand you better and to meet your exacting requirements about what cricketnext.com should be all about. Our aim is to provide you a personalized experience! 
 
+**We collect information about you…**
+
 We would collect information from you primarily during the following uses of the Web Site: 
+
+  * when registering for certain services such as [personalization], chat, email, community pages, contests and promotions; 
+  * when providing us feedback on our feedback form; 
+  * when you opt to receive e-mail or other communications from us; 
+  * any other service which requires you to provide personal information. 
+
+
 
 **Your consent**
 
@@ -36,18 +45,6 @@ You may wish to eliminate the use of cookies if You have customized your browser
 
 You may opt not to receive any further information or promotional literature from us or any Third Party providing services on the Web Site. Upon such request from you, we shall discontinue the use of information provided by you about yourself for the purpose of sending further information to you. We shall also not provide such information to any Third Party from the date of your request for discontinuance. 
 
-However, we shall not be liable for the use of any information provided by you which we have already divulged to Third Parties, prior to receiving your request for discontinuance. 
-
-**Contacting Us**
-
-**You may contact us here :**
-
-**Contact Person:** Sonal Barot 
-
-**E-mail:** [sonal@cricketnext.com](mailto:sonal@cricketnext.com)
+However, we shall not be liable for the use of any information provided by you which we have already divulged to Third Parties, prior to receiving your request for discontinuance.
 
 **Address:** 5, Construction House, Walchand Hirachand Marg, Ballard Estate, Mumbai 400001. 
-
-**Phone:** (+91 22) 261 8095 / 261 8096 
-
-**Fax:** (+91 22) 261 0574 
