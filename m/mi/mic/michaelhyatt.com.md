@@ -1,48 +1,38 @@
-> *The following text is extracted and transformed from the michaelhyatt.com privacy policy that was archived on 2001-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010618005521id_/http%3A//www.michaelhyatt.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelhyatt.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101042554id_/http%3A//michaelhyatt.com/privacy.htm) for the most accurate reproduction.*
 
-# Michael S. Hyatt Self-Reliant Living: Our Privacy Statement
+# MorePrivacy.com - Privacy Statement
 
-**OUR PRIVACY STATEMENT**
+| 
 
-**_We are committed to your privacy_**
+PRIVACY STATEMENT 
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+Perhaps it goes without saying, but we are totally committed to your privacy. The following discloses our information gathering and dissemination practices for this Web site.
 
-**  
-General**
+First and foremost, this Web site is a permission-based Web site. This means we will not knowingly do anything with your information without your explicit permission. In particular:
 
-First and foremost, this website is a _permission-based_ website. This means we will not knowingly do anything with your information without your explicit permission. In particular:
-
-  * **_We will tell you when we are collecting information about you._** There is nothing _secret_ or hidden that is going on without your knowledge.
-  * **_We will tell you exactly how we plan to use any information we collect._** For example, we may ask you for your e-mail address in order to access certain parts of the site. If you are uncomfortable with this, you may simply exit the page.
-
-  * _**We will not e-mail anything to you that you have not agreed to receive.**_ In addition, every e-mail message includes an "opt-out" mechanism so that you may remove your e-mail address from our database. If you ever need to do this, you can do so on our [Subscriptions Change](https://web.archive.org/web/20010618005521id_/http%3A//www.michaelhyatt.com/changesub.htm) page.
-
-  * **_We will never sell your information to third parties._** We will not allow anyone else to send solicitations to you, using our mailing list.
-
-  * **_We will protect your information from theft._** All of our database information is stored on an undisclosed, secure server in a remote location.
+  * We will tell you when we are collecting information about you. There is nothing secret or hidden that is going on without your knowledge.
 
 
+  * We will tell you exactly how we plan to use any information we collect. For example, we may ask you for your e-mail address in order to access certain parts of the site. If you are uncomfortable with this, you may simply exit the page.
 
 
-**Links**
+  * We will not e-mail anything to you that you have not agreed to receive. In addition, every e-mail message includes an "opt-out" mechanism so that you may remove your e-mail address from our database.
 
-This site contains links to other sites. We are not responsible for the privacy practices or the content of such websites.
 
-##   
-Public Forums
+  * We will never sell your information to third parties. We will not allow anyone else to send solicitations to you, using our mailing list.
 
-This site includes a public [Discussion Group](http://www.michaelhyatt.com/cgibin/ubbcgi/Ultimate.cgi?). Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-##   
-Contacting the Web Site
+  * We will protect your information from theft. All of our database information is stored on an undisclosed, secure server in a remote location.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us directly via one of the methods on the [Feedback](https://web.archive.org/web/20010618005521id_/http%3A//www.michaelhyatt.com/feedback.htm) page.  |  |  | 
 
-**Other Resources**  
-  
----  
-  
-[](http://www.amazon.com/exec/obidos/ASIN/0967435404/michaehyattsy2kp)  
-  
-[ It's None of Your Business: A Complete Guide to Protecting Your Privacy, Identity, and Assets](http://www.amazon.com/exec/obidos/ASIN/0967435404/michaehyattsy2kp) by Larry Sontag (PMI Enterprises, 1999) shows the reader how to protect his or her assets, family, and personal information from credit thieves, hackers, and the lawsuit-happy public. Has an excellent section on computers and the Internet. Also explains the advantages of offshore entities and trusts in layman's language. Great resource section at the end.
+
+This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
+
+This site includes a public [Discussion Group](http://pub11.ezboard.com/bmoreprivacy). Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We strongly urge you not to post under your real name. 
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us directly via one of the methods on the [Feedback](https://web.archive.org/web/20011101042554id_/http%3A//michaelhyatt.com/feedback.htm) page. 
+
+[Send This Page to a Friend](mailto:?SUBJECT=A%20Privacy%20Article%20You%20Should%20Read&BODY=I%20thought%20you%20might%20find%20the%20following%20article%20interesting:%20https://web.archive.org/web/20011101042554id_/http%3A//michaelhyatt.com/privacy.htm.%20Let%20me%20know%20what%20you%20think. "Click here to send this page to a friend. This feature only works if Outlook or Outlook Express is your e-mail program.")   [ Display Printer-friendly Version](http://www.moreprivacy.com/cgi-bin/MasterPFP.cgi?doc=http://www.moreprivacy.com/privacy.htm&top=http://www.moreprivacy.com/privacy.htm&bottom=http://www.moreprivacy.com/privacy.htm)
+
+|  |  |   
+---|---|---|---|---
