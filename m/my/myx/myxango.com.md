@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myxango.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628022059id_/http%3A//www.myxango.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxango.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211051316id_/http%3A//www.myxango.com/privacy.asp) for the most accurate reproduction.*
 
 # MyXanGo Privacy Policy
 
@@ -65,10 +65,7 @@ By using our Web site, you consent to the collection and use of this information
 
 ## Contact
 
-MyXanGo.com welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at customerservice@myxango.com. Or you can reach us by posted mail at:  
-MyXanGo, LLC  
-146 W. 1230 N. #136  
-Provo, UT 84604
+MyXanGo.com welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at support@myxango.com. 
 
 Or by telephone:  
 801-787-3383
