@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210184900id_/http%3A//www.hardcoreware.net/about.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622080714id_/http%3A//www.hardcoreware.net/about.php%23Privacy) for the most accurate reproduction.*
 
 # hardCOREware.net - What makes us tick?
 
@@ -203,22 +203,22 @@ If we decide to change our privacy policy, we will post those changes on our Hom
   
 
 
-**ME**  
-[12.09.02] @ 11:42 AM   
-Yes, and I am the king of this site. **wilcox**  
-[12.08.02] @ 8:30 PM   
-Did you know Hitler was black? **ME**  
-[12.08.02] @ 5:43 PM   
-There needs to be more traffic to this Shoutbox **JDR**  
-[12.07.02] @ 6:16 PM   
-just ordered a 845pe over a RDRAM; like the logo! **qlz19**  
-[12.07.02] @ 5:24 PM   
-isn't spam the whole purpose of the shoutbox? **ME**  
-[12.06.02] @ 12:23 PM   
-Work shmork! The weekend is here! **Egh**  
-[12.05.02] @ 2:57 PM   
-Stop screaming! I am trying to work here... **Mike**  
-[12.05.02] @ 2:42 AM   
-mikioooo.pointclark.net spammmmm
+**No Fear**  
+[06.21.03] @ 10:57 AM   
+Thanks for voting on my case guys! **mfox**  
+[06.20.03] @ 10:49 AM   
+mmm golf + naked chicks.... **Leo**  
+[06.20.03] @ 10:32 AM   
+OMG,it's the best looking case ever **El Nutsio**  
+[06.20.03] @ 5:34 AM   
+my lasagna is burning **Mick**  
+[06.20.03] @ 3:44 AM   
+Some guys have all the luck and there there's me **borna**  
+[06.19.03] @ 1:00 PM   
+t dizzle, lets not forget canoli **rstarr**  
+[06.19.03] @ 3:16 AM   
+2 hardCORE mods on the main page! **mfox**  
+[06.18.03] @ 8:46 PM   
+wow, big shocker there
 
-[](http://www.hardcoreware.net/hcwads/adclick.php?bannerid=9&zoneid=1&source=&dest=http%3A%2F%2Fwww.cablestore.us%2Fdefault.php%3FcPath%3D37)
+[](http://www.hardcoreware.net/hcwads/adclick.php?bannerid=29&zoneid=1&source=&dest=http%3A%2F%2Fwww.endpcnoise.com%2F)
