@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605161503id_/http%3A//www.eggheadcafe.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017064313id_/http%3A//www.eggheadcafe.com/privacy.asp) for the most accurate reproduction.*
 
 # EggHeadCafe Privacy Policy Statement
 
