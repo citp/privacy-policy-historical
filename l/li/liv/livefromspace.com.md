@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livefromspace.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621210317id_/http%3A//www.onvix.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefromspace.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208055906id_/http%3A//www.onvix.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
 
 # Onvix - Onvix, Inc. Privacy Statement
 
@@ -20,7 +20,7 @@ The following options may be used for removing your information from our databas
 
   * You may visit the following URL provided for [Subscription Management](http://www.onvix.com/index.cfm?fuseaction=info.updates).
 
-  * You may send mail to the following postal address:  750 94th Ave. N. Ste. 213, St. Petersburg, FL  33702-2453
+  * You may send mail to the following postal address:  PO Box 55122, Saint Petersburg, FL  33732-5122
 
   * You may call the following telephone number:  727-578-9600
 
