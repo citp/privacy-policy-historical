@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613180252id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204054513id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - trailspace.com
+# Privacy Policy
 
-[](https://web.archive.org/)  
-| 
-
-|   
----|---|---  
-  
 Individuals who visit the Trailspace website are important to us. Because visitors to our website are important, we do not capture personal information about them without their permission. We endeavor to collect only the minimum amount of information needed to meet the purposes for which the website was created.
 
 ## Log Files
@@ -52,9 +46,3 @@ Various websites may be linked through the Trailspace website. Visitors to those
 ## Contact Information
 
 To offer comments about the Trailspace website or about information presented in this Privacy Statement, contact [feedback@trailspace.com](mailto:feedback@trailspace.com).
-
-  
-
-
-© 2001-2004 [MacLeay Interactive Design, LLC](http://www.macleay.com/). All Rights Reserved.  
-Portions © 1994-2001 Lexi Communications, Inc.
