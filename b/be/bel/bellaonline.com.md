@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212155044id_/http%3A//www.bellaonline.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208082546id_/http%3A//www.bellaonline.com/misc/privacy.asp) for the most accurate reproduction.*
 
-# Bella Online Privacy Policy
-
- You Are Here:  [HOME](https://web.archive.org/index.shtml) > PRIVACY POLICY
-
-  
-
+# Privacy at BellaOnline
 
  P R I V A C Y   P O L I C Y 
 
@@ -20,11 +15,11 @@ This statement discloses the privacy practices for BellaOnline.com ("Website"). 
 
 
 
-Questions regarding this statement should be directed to Bella-Online.com by sending an email to [info@bellaonline.com](mailto:info@bellaonline.com) and writing "Privacy Policy" in the subject line.
+Questions regarding this statement should be directed to BellaOnline.com by sending an email to [info@bellaonline.com](mailto:info@bellaonline.com) and writing "Privacy Policy" in the subject line.
 
-Bella-Online is currently seeking review and certification of its Privacy Policy by an independent privacy organization. The terms of this Privacy Policy are subject to revision in order to obtain certification.
+BellaOnline is currently seeking review and certification of its Privacy Policy by an independent privacy organization. The terms of this Privacy Policy are subject to revision in order to obtain certification.
 
-This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/terms_of_use.shtml). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
+This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20021208082546id_/http%3A//www.bellaonline.com/misc/terms.asp). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
 
 How We Collect Information 
 
@@ -38,7 +33,7 @@ Information We Gather or Track
 
 Information on general usage and any optional personal details you provide to us will be used to provide you with enhanced features such as customized content, access to our Chat Rooms and message boards, and the ability to participate in any of our BellaOnline communities. The following are details of the information we collect: 
 
-  * BellaOnline, Inc. collects data so that we may display personalized content to our visitors. Additionally, usage information may be analyzed so that we can judge our system's performance or execute your customized features. 
+  * BellaOnline collects data so that we may display personalized content to our visitors. Additionally, usage information may be analyzed so that we can judge our system's performance or execute your customized features. 
   * Your computer reaches us via a particular IP, ( **I** nternet **P** rotocol), address. This can tell us things like what part of the world you're connecting from. Or what service provider you are using. 
   * Your browser offers so-called "cookies" which -- if you allow their use -- store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. And when you re-visit our site, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information. 
   * Our registration form asks for contact and demographic information used to send news about our products or promotional material from our partners. You will be able to opt-out of receiving any mailings. Demographic information may be used to customize the display of our site to you by showing content that we think might be of interest or related to your past visits.
@@ -55,19 +50,19 @@ Except as described below or otherwise indicated, we do not sell your personally
 
 We produce aggregate reports for advertisers. For example, we tell advertisers how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of our service. Where available, we may offer additional information about viewer characteristics. _However this does **not** include personally identifiable information about you or your online usage patterns._ Our advertisers allow us to provide our service to you. In return, they need to know how to effectively place their ads to potential customers. 
 
-We'll use your email contact information to provide you with newsletters to which you subscribe, or for similar information we think you may find of interest. However, you can choose to opt out of these mailings. By providing your contact information you will be eligible to acquire user ID's and passwords that will allow you to participate in our community features, including chat and bulletin boards. 
+We'll use your email contact information to provide you with newsletters to which you subscribe, or for similar information we think you may find of interest. However, you can choose to opt out of these mailings. By providing your contact information you will be eligible to acquire user IDs and passwords that will allow you to participate in our community features, including chat and bulletin boards. 
 
 We also share or sell your personally identifiable information with third parties who provide services to our Website or are affiliated with our Website in order to enhance the functionality available to you as part of the Website, and to provide you with new products and services such as email and Member services. 
 
 Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in a postcard or when you order merchandise in the Store. For such activities, a separate warning may not be provided. Your choice to disclose personally identifiable information in these cases is voluntary.
 
-In addition, you agree that Bella-Online.com may assign, sell, license, or otherwise transfer to a third party, your name, address, e-mail address, member name and any other personal information in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of the assets or stock of Bella-Online.com or its affiliated entities.
+In addition, you agree that BellaOnline.com may assign, sell, license, or otherwise transfer to a third party, your name, address, e-mail address, member name and any other personal information in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of the assets or stock of BellaOnline.com or its affiliated entities.
 
 Who Can Use Collected Information and How
 
   * As mentioned above, we provide our advertisers with aggregate reports on advertising activity. 
-  * Feedback is used both by BellaOnline, Inc. staff as well as the individual Hosts for each of the BellaOnline Hosted sites. Hosts not only link to content from their sites and provide their own original content, but would have available to them any information that you send them directly. Hosts use of this information is bound by the principles and practices expressed here.
-  * Please be aware that if you voluntarily disclose information online, personal or otherwise, that information can be collected and used by others. For example, using chat, bulletin boards, or your e-mail, if you post personal information online you may receive unsolicited messages from others. BellaOnline, Inc. will have no means to control this. 
+  * Feedback is used both by BellaOnline staff as well as the individual Hosts for each of the BellaOnline Hosted sites. Hosts not only link to content from their sites and provide their own original content, but would have available to them any information that you send them directly. Hosts use of this information is bound by the principles and practices expressed here.
+  * Please be aware that if you voluntarily disclose information online, personal or otherwise, that information can be collected and used by others. For example, using chat, bulletin boards, or your e-mail, if you post personal information online you may receive unsolicited messages from others. BellaOnline will have no means to control this. 
 
 
 
@@ -81,7 +76,7 @@ We use cookies (see [cookiecentral.com](http://www.cookiecentral.com/) for compl
 
 Other Sites
 
-If you provide any information on your own or directly to parties who provide service to the Website (such as WhoWhere?), any merchants in our Store or any other sites you encounter on the Internet (even if these sites are branded with our branding), Bella-Online Website privacy policies to not apply to the use or disclosure of the personal information you disclose to them. On our website we use Delphi Forums to provide message boards and chat rooms. Delphi collects information through these services and uses that information in accordance with its own privacy and security policies. For more information about Delphi’s policies please see [delphi.com](http://www.delphi.com/).
+If you provide any information on your own or directly to parties who provide service to the Website (such as WhoWhere?), any merchants in our Store or any other sites you encounter on the Internet (even if these sites are branded with our branding), BellaOnline Website privacy policies to not apply to the use or disclosure of the personal information you disclose to them.
 
 Limits on Our Abilities
 
@@ -91,4 +86,4 @@ Security
 
 We use industry-standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers where appropriate. However, "perfect security" does not exist on the Internet.
 
-We hope this policy clarifies our procedures regarding your personal information. We at BellaOnline.com encourage you to learn as much as you can about your privacy on the Internet. To learn more, visit TRUSTe at: <http://www.truste.org/> and GetNetWise at: <http://www.getnetwise.org/>. 
+We hope this policy clarifies our procedures regarding your personal information. We at BellaOnline encourage you to learn as much as you can about your privacy on the Internet. To learn more, visit TRUSTe at: <http://www.truste.org/> and GetNetWise at: <http://www.getnetwise.org/>. 
