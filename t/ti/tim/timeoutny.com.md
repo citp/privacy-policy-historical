@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204221132id_/http%3A//www.timeoutny.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610001015id_/http%3A//www.timeoutny.com/privacy.html) for the most accurate reproduction.*
 
 # Time Out New York []
 
@@ -40,7 +40,9 @@ Subscribers to the print edition of _TONY_ may opt to receive a regular e-mail n
 
 The _TONY_ Personals section is operated by Spring Street Networks. Spring Street Networks's terms of service governs the use of personal information you provide at the Personals site. You may review Spring Street Networks's terms of service at <http://personals.timeoutny.com/accounts/tos.asp>.
 
-The _TONY_ Hotel reservations listings section is operated by 1-800-USAhotels.com. 1-800-USAhotels.com's privacy policy governs the use of personal information you provide at the Hotel reservations listings site. You may review 1-800-USAhotels.com.com's privacy policy at [http://resserver5.vtstravel.com/cgi/ Hotel.exe/HotelList?New%20York_767741](http://resserver5.vtstravel.com/cgi/Hotel.exe/HotelList?New%20York_767741) and clicking on "Privacy Policy" in the footer of the page.
+The _TONY_ Hotel reservations listings section is operated by Lodging.com. Lodging.com's privacy policy governs the use of personal information you provide at the Hotel reservations listings site. You may review Lodging.com's privacy policy at [http://reservations.lodging.com/servlet/lodging.PersonalAccount?action=static&page=privacy&remote=timeoutny](http://reservations.lodging.com/servlet/lodging.PersonalAccount?action=static&page=privacy&remote=timeoutny), or by clicking on "Privacy Policy" in the footer of the page.
+
+The _TONY_ Hostel bookings section is operated by HostelWorld. HostelWorld.com's privacy policy governs the use of personal information you provide at the Hostel bookings site. You may review HostelWorld.com's privacy policy at <http://www.hostelworld.com/privacy.php> and clicking on "Privacy Policy" in the footer of the page.
 
 The _TONY_ restaurant reservations section is operated by OpenTable. OpenTable's privacy policy governs the use of personal information you provide at the OpenTable site. You may review OpenTable's privacy policy at <http://www.opentable.com/info/helpindex.asp>.
 
@@ -68,7 +70,7 @@ Our site is not directed to users under the age of 13. _TONY_ will not knowingly
 
 **_TONY's_** **right to change privacy policy and no impediment on transfer of assets**
 
-This policy is effective as of October 14, 2002. _TONY_ may change this policy at any time. You should periodically revisit our privacy policy to be sure that you are familiar with our current policy. Your use of the site following any modifications to the privacy policy will be conclusively deemed acceptance of the terms of this privacy policy and any changes to the policy. Nothing in this privacy policy is meant to impede _TONY’s_ right or ability to transfer, sell or otherwise dispose of any of its assets.
+This policy is effective as of April 16, 2004. _TONY_ may change this policy at any time. You should periodically revisit our privacy policy to be sure that you are familiar with our current policy. Your use of the site following any modifications to the privacy policy will be conclusively deemed acceptance of the terms of this privacy policy and any changes to the policy. Nothing in this privacy policy is meant to impede _TONY’s_ right or ability to transfer, sell or otherwise dispose of any of its assets.
 
 **Contact us**
 
