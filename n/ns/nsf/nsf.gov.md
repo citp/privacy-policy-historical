@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2002-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021114191204id_/http%3A//www.nsf.gov/home/pubinfo/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621062249id_/http%3A//nsf.gov/home/pubinfo/privacy.htm) for the most accurate reproduction.*
 
 # NSF - Information - About NSF's Privacy Policy and Web Site
 
@@ -22,4 +22,4 @@ Users of NSF's [Custom News Service](https://web.archive.org/home/cns/) fill out
 
 If you conduct business with NSF electronically, such as through FastLane, any information voluntarily submitted as part of that process will be used and protected as explained for the specific function involved. 
 
-Back to [Web and Other Policies](https://web.archive.org/web/20021114191204id_/http%3A//www.nsf.gov/home/pubinfo/webpolicy.htm)
+Back to [Web and Other Policies](https://web.archive.org/web/20030621062249id_/http%3A//nsf.gov/home/pubinfo/webpolicy.htm)
