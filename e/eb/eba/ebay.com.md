@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206064834id_/http%3A//pages.ebay.com/help/community/png-priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630210150id_/http%3A//pages.ebay.com/help/community/png-priv.html) for the most accurate reproduction.*
 
 # eBay Help : Community Standards : Policies and Conduct : Privacy Policy
 
@@ -15,7 +15,7 @@ If you have additional questions, you may send email to [privacy@ebay.com](mailt
   
 Overview
 
-The privacy practices of this statement apply to our services available under the domain and subdomains of [www.ebay.com](http://www.ebay.com/) (the "Site") (including [half.ebay.com](http://half.ebay.com/), [stores.ebay.com](http://stores.ebay.com/)) and apply generally to our subsidiaries or joint venture websites whose specific privacy policies are available from our [Privacy Central](http://pages.ebay.com/help/privacycentral2.html) pages. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site. 
+The privacy practices of this statement apply to our services available under the domain and subdomains of [www.ebay.com](http://www.ebay.com/) (the "Site") (including [stores.ebay.com](http://stores.ebay.com/)) and apply generally to our subsidiaries or joint venture websites whose specific privacy policies are available from our [Privacy Central](http://pages.ebay.com/help/privacycentral2.html) pages. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site. 
 
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about eBay's practices so that you can make informed decisions. All of our subsidiaries and joint ventures operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global eBay trading community. 
 
