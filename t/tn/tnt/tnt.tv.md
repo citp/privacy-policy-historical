@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171125id_/http%3A//www.tnt.tv/FooterPrivacy/0%2C6747%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203912id_/http%3A//www.tnt.tv/title/display/0%2C%2C6620%2C00.html) for the most accurate reproduction.*
 
-# TNT Privacy Policy
+# Privacy Policy
 
-Thank you for visiting TNT.tv a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. Click here for a list of the Time Warner businesses whose sites are governed by this Privacy Notice. _
+**PRIVACY POLICY**
+
+Thank you for visiting TNT.tv a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. Click here for a list of the Time Warner businesses whose sites are governed by this Privacy Notice. 
+
+_
 
 The Information We Collect
 
@@ -149,3 +153,7 @@ Atlanta, GA 30318
 e-mail: [privacy.tnt@turner.com](mailto:%20privacy.tnt@turner.com)
 
 back to top
+
+|   
+  
+---|---
