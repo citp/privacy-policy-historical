@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2001-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011006141301id_/http%3A//ucertify.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405182941id_/http%3A//www.ucertify.com/privacy.htm) for the most accurate reproduction.*
 
-# uCertify.com, Certification Simulation Tests, Online Tests, Study Guides & Book Reviews for MCP, MCSE, MCSD, CPD
+# Privacy Policy
+
+| | 
 
 We are committed to protecting your privacy. We assure you that the personal information you provide to uCertify over the internet is treated with utmost care to ensure safety, security and confidentiality. 
 
@@ -21,4 +23,4 @@ In addition to the circumstances described above, uCertify may disclose member i
 
 Any material changes in the way uCertify uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to [policies@uCertify.com](mailto:policy@ucertify.com?subject=Privacy%20Policy). Please reference the privacy policy in your subject line. uCertify will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. 
 
-[](https://web.archive.org/web/20011006141301id_/http%3A//ucertify.com/index0.htm)
+[](https://web.archive.org/web/20020405182941id_/http%3A//www.ucertify.com/index0.htm)
