@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203215100id_/http%3A//cndb.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215061400id_/http%3A//cndb.com/info/privacy.html) for the most accurate reproduction.*
 
 # CNdb: Privacy Policy
 
