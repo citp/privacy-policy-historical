@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potsdam.edu privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207123000id_/http%3A//www.potsdam.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potsdam.edu privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603000434id_/http%3A//www.potsdam.edu/privacy) for the most accurate reproduction.*
 
 # SUNY Potsdam: Web Site Privacy Policy
 
