@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the neoseeker.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402165812id_/http%3A//neoseeker.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoseeker.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203021114id_/http%3A//www.neoseeker.com/info/privacy.html) for the most accurate reproduction.*
 
 # Neoseeker Privacy Policy
 
 |  |  |  |  **Neoseeker Privacy Policy**
 
 Neoseeker and its Operators, Neo Era Media, Inc. understand and respect the need for the privacy of its users. To keep you informed of our privacy policies, we have provided this document disclosing Neo Era Media's intent, purpose and use of possibly private information, and detailing the methods of gathering of such information. 
+
+Neoseeker works with a third party (Rydium) that serves ads to the site. To find out more about how [**Rydium**](http://www.rydiumnetwork.com/about.html) manages the privacy of information in conjunction with serving ads on our site please follow this link to go to **Rydium's Privacy Policy** section of our privacy page. 
 
 Visitors to Neoseeker are not subject to involuntary information disclosure of any nature, other than those intrinsic to the operation of the site and the World Wide Web in general. Certain operations and features on Neoseeker may require the use of cookies and/or the propagation of session information. These cookies and sessions facilitate the visitor's experience at Neoseeker, but do not represent any other security or privacy concern outside of isolated, per visit session identification and/or recurring sessions for the purpose of storing and maintaining user submitted site preferences. 
 
@@ -29,7 +31,9 @@ Though Neoseeker will take reasonable measures to ensure that users under the ag
 **Neo Era Media, Inc.**  
 620 - 999 W. Broadway  
 Vancouver, BC, Canada, V5Z 1K5  
-Fax: (604)736-8336  
+Fax: (604)736-8318  
 
 
-|  |  | 
+**Rydium Privacy Policy**
+
+> |  |  | 
