@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205120245id_/http%3A//www.perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603163355id_/http%3A//www.perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
 
-# Perfume Emporium - Cheap prices for fragrances, perfumes, cologne, and skin care!
+# Perfume Emporium - Cheap prices for perfume, cologne, and skin care!
 
 **Perfume Emporium** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for Perfume Emporium. 
 
@@ -34,8 +34,8 @@ CHOICE/OPT-OUT
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. 
 
-You can send email to perfume@perfumeemporium.com. Type **"REMOVE FROM LIST"** in subject heading. 
+You can send email to perfumes@perfumeemporium.com. Type **"REMOVE FROM LIST"** in subject heading. 
 
 CONTACTING THE WEB SITE
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: perfume@perfumeemporium.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: perfumes@perfumeemporium.com 
