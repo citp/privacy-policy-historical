@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeboard.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205101235id_/http%3A//www.collegeboard.org/html/privacy001.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeboard.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604050612id_/http%3A//www.collegeboard.com/html/privacy001.html) for the most accurate reproduction.*
 
 # collegeboard.com - Privacy Policy
 
@@ -46,7 +46,7 @@ You will always have the ability to opt not to receive e-mail or other means of 
 Who can I contact for more information?  
 If you have questions or would like to be deactivated from collegeboard.com's lists, you may contact us by e-mail at [Sitetermsandconditions@collegeboard.com](mailto:Sitetermsandconditions@collegeboard.com) or [Webmaster](mailto:cbonline@info.collegeboard.org), or, write us at User Account Manager, collegeboard.com, Inc., 45 Columbus Avenue, New York, New York 10023. collegeboard.com will use reasonable efforts to help you.
 
-For more information about protecting your privacy online, we recommend that you visit [www.nai.org](http://www.nai.org/), [www.netcoalition.com](http://www.netcoalition.com/), and [www.privacyalliance.org](http://www.netcoalition.com/).
+For more information about protecting your privacy online, we recommend that you visit [www.networkadvertising.org](http://www.networkadvertising.org/), [www.netcoalition.com](http://www.netcoalition.com/), and [www.privacyalliance.org](http://www.privacyalliance.org/).
 
 Security
 
