@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024413id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605074518id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
 
 # iHigh.com -- The High School Internet Network
 
 | | |  **Privacy Statement for iHigh.com**  
 ****
 
-**»[About Us](https://web.archive.org/0,1773,2_12_0_36677,00.html)   » [Advertising and Marketing Programs](https://web.archive.org/0,1773,2_12_0_53573,00.html)   » [Privacy Statement for iHigh.com](https://web.archive.org/0,1773,2_12_0_39558,00.html)   » [iHigh Corporate Sponsors](https://web.archive.org/0,1773,2_12_0_38153,00.html)   » [iHigh.com Staff Bios](https://web.archive.org/0,1773,2_12_0_36680,00.html)   » [Join/Contribute](https://web.archive.org/0,1773,2_12_0_39557,00.html)   » [iHigh.com Partners](https://web.archive.org/0,1773,2_12_0_36682,00.html)   » [Linkback](https://web.archive.org/0,1773,2_12_0_36684,00.html)   » [In The News](https://web.archive.org/0,1773,2_12_0_36683,00.html)   » [iHigh Top 300 Schools](http://www.ihigh.com/hs_ranking.html)   » [Press Releases](https://web.archive.org/0,1773,1_13_0,00.html)   » [Contact](https://web.archive.org/national/static/contact/1,1947,,00.html)   **
+**»[iHigh.com Partners](https://web.archive.org/0,1773,2_12_0_36682,00.html)   » [Linkback](https://web.archive.org/0,1773,2_12_0_36684,00.html)   » [iHigh Corporate Sponsors](https://web.archive.org/0,1773,2_12_0_38153,00.html)   » [Join/Contribute](https://web.archive.org/0,1773,2_12_0_39557,00.html)   » [Advertising and Marketing Programs](https://web.archive.org/0,1773,2_12_0_53573,00.html)   » [Privacy Statement for iHigh.com](https://web.archive.org/0,1773,2_12_0_39558,00.html)   » [About Us](https://web.archive.org/0,1773,2_12_0_36677,00.html)   » [iHigh.com Staff Bios](https://web.archive.org/0,1773,2_12_0_36680,00.html)   » [iHigh Top 300 Schools](http://www.ihigh.com/hs_ranking.html)   » [Press Releases](https://web.archive.org/0,1773,1_13_0,00.html)   » [Contact](https://web.archive.org/national/static/contact/1,1947,,00.html)   **
 
-**Jan 08, 2002** \- iHigh.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.ihigh.com](http://www.ihigh.com/). 
+**Jan 08, 2004** \- iHigh.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.ihigh.com](http://www.ihigh.com/). 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information. If you set your browser to reject all cookies, you will still be able to access our site, but it will not be personalized and you may see the same banners repeated in several areas. 
 
@@ -57,7 +57,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. You may change your contact information (such as email, address, or phone number), or demographic information (such as school name, title, or student body size). 
 
-  1. Log on to [go.ihigh.com](https://web.archive.org/web/20031205024413id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
+  1. Log on to [go.ihigh.com](https://web.archive.org/web/20040605074518id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
 
 
 
