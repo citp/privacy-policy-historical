@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffit.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210030124id_/http%3A//www.stuffit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffit.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621085313id_/http%3A//www.stuffit.com/privacy.html) for the most accurate reproduction.*
 
 # StuffIt; File compression Windows & Mac
 
