@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the microlifeline.net privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001180515id_/http%3A//www.microlifeline.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microlifeline.net privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616100614id_/http%3A//www.microlifeline.net/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
-**MicroLifeLine Privacy Policy**
+**                                                                      MicroLifeLine Privacy Policy **
 
-  MicroLifeLine values the privacy of information pertaining to its associates & members. We do not use or disclose information about your individual visits to our site or information that you may give us, such as your name, address, email address or telephone number,mobile no to any outside sources.
+MicroLifeLine values the privacy of information pertaining to its associates & members. We do not use or disclose information about your individual visits to our site or information that you may give us, such as your name, address, email address or telephone number,mobile no to any outside sources.
 
 This Privacy Policy covers MicroLifeLine's treatment of personally identifiable information that MicroLifeLine collects when you are on the MicroLifeLine site, and when you use MicroLifeLine 's services. This policy also covers MicroLifeLine's treatment of any personally identifiable information that MicroLifeLine's business partners share with MicroLifeLine. This policy does not apply to the practices of companies that MicroLifeLine does not own or control, or to people that MicroLifeLine does not employ or manage.
 
