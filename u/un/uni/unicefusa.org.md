@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicefusa.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621093750id_/http%3A//www.unicefusa.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicefusa.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207052939id_/http%3A//www.unicefusa.org/about/privacy.html) for the most accurate reproduction.*
 
 # U.S. Fund for UNICEF: About Us: Privacy Statement
 
@@ -44,7 +44,7 @@ No information regarding a visitor's e-mail address is automatically recognized 
 
   4. **Children**
 
-We are especially concerned about ensuring the privacy of children online. Please note that we try to ensure that all our activities (particularly the "Trick or Treat for UNICEF" program) are coordinated by an adult and therefore make every effort to send information to adults only. If you are aware that a child has provided his or her name to us, please let us know by entering the child's name in the CHILD ALERT box and by providing us with a supervising adult's contact information using the change of address form located at [http://www.unicefusa.org/about/address_change.html](https://web.archive.org/web/20030621093750id_/http%3A//www.unicefusa.org/about/address_change.html)
+We are especially concerned about ensuring the privacy of children online. Please note that we try to ensure that all our activities (particularly the "Trick or Treat for UNICEF" program) are coordinated by an adult and therefore make every effort to send information to adults only. If you are aware that a child has provided his or her name to us, please let us know by entering the child's name in the CHILD ALERT box and by providing us with a supervising adult's contact information using the change of address form located at [http://www.unicefusa.org/about/address_change.html](https://web.archive.org/web/20031207052939id_/http%3A//www.unicefusa.org/about/address_change.html)
 
   5. **Dissemination of Personal Data**
 
