@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202174736id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605104524id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
 **Privacy Statement for BPubs.com**
 
-BPubs.com has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.bpubs.com](http://www.bpub.com/). 
+BPubs.com has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.bpubs.com](http://www.bpubs.com/). 
 
 _BPubs.com works with a third party that serves ads to this site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please go to<http://www.engage.com/privacy>. _
 
