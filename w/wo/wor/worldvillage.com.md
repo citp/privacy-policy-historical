@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldvillage.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411064332id_/http%3A//www.worldvillage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvillage.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230120557id_/http%3A//www.worldvillage.com/privacy.html) for the most accurate reproduction.*
 
 # WorldVillage > Privacy Policy
 
 This is the web site of InfoMedia, Inc.
 
-Our postal address is: 2416 Ashebury Way, Edmond, OK, 73034. We can be reached via e-mail at [jcomm@worldvillage.com](mailto:jcomm@worldvillage.com). Or you can reach us by telephone at (405) 348-2800.
+Our postal address is: 2416 Ashebury Way, Edmond, OK, 73034. We can be reached via e-mail at [worldvillage.com](mailto:joel@worldvillage.com). Or you can reach us by telephone at (405) 348-2800.
 
 The policies below are applicable to worldvillage.com, toylab.com, dealofday.com, freebietracker.com, familyfirst.com and other sites on the World Wide Web portion of the Internet owned and operated by InfoMedia, Inc. 
 
@@ -28,7 +28,7 @@ Guests’ e-mail addresses are never posted on InfoMedia, Inc. Web sites, except
 
 With the permission of a guest who is 13 years of age or over, information submitted at the time of Registration or submission may be used for marketing and promotional purposes by InfoMedia, Inc. and may be shared with our affiliates or companies that have been prescreened by InfoMedia, Inc.. If a guest objects to such use for any reason, he/she may stop that use by e-mail request. Once you have registered with InfoMedia, Inc., every effort will be made to maintain your information in a secure environment by InfoMedia, Inc. and our affiliates. 
 
-If you wish to modify your Registration information or stop receiving e-mail updates from InfoMedia, Inc., just send an email request to [jcomm@worldvillage.com](mailto:jcomm@worldvillage.com).
+If you wish to modify your Registration information or stop receiving e-mail updates from InfoMedia, Inc., just send an email request to [worldvillage.com](mailto:joelworldvillage.com).
 
   
 **About IP Addresses**
@@ -69,10 +69,10 @@ Users should be aware that when you are on InfoMedia, Inc. sites you could be di
 
 Please keep in mind that whenever you give out personal information online – for example, via message boards or chat – that information can be collected and used by people you don’t know. While InfoMedia, Inc. strives to protect its users’ personal information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
+This site uses the services of Tribal Fusion for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Tribal Fusion collects anonymous data typically through the use of cookies. To learn more about Tribal Fusion, including your ability to opt out of the Tribal Fusion system, go to [Tribal Fusion](http://www.tribalfusion.com/).
 
 Your Acceptance of These Terms By using this site, you signify your assent to the InfoMedia, Inc. Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the InfoMedia, Inc. sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions.   
   
-Copyright © 2001 InfoMedia, Inc. All rights reserved worldwide.  
-Read our [Privacy Policy](https://web.archive.org/web/20030411064332id_/http%3A//www.worldvillage.com/privacy.html).  
+Copyright © 2004 InfoMedia, Inc. All rights reserved worldwide.  
+Read our [Privacy Policy](https://web.archive.org/web/20041230120557id_/http%3A//www.worldvillage.com/privacy.html).  
  
