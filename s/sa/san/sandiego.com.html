@@ -1,15 +1,13 @@
-<!--The following is the downloaded HTML source of the sandiego.com privacy policy that was archived on 2003-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031206085216id_/http%3A//sandiego.com/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sandiego.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603151418id_/http%3A//sandiego.com/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd "><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
-	<title>Your Guide to San Diego Web Sites</title>
+	<title>SANDIEGO.COM: Privacy Policy</title>
 	<meta name="author" content="sandiego.com">
 	<meta name="keywords" content="San Diego, legoland, sea world, zoo, chargers, padres, riptide, gulls, wireless, san diego weather, san diego newspaper, cabrillo, ucsd, usd, sdsu, aztecs, toreros, wildfire, beach,wild animal park, fleet, balboa park, legoland, torrey pines, saic, qualcomm, north county, mission valley, tijuana, bonita, carlsbad, vista, oceanside, encinitas, del mar, lakeside, santee, lemon grove, jamul, chula vista, la mesa, national city, solana beach, coronado, san marcos, el cajon, encinitas, escondido, poway, imperial beach, mark burgess, webedit">
 	<meta name="robots" content="index,follow">
 	<meta http-equiv="Content-Script-Type" content="text/javascript">
-	<meta http-equiv="Expires" content="01-JAN-2002 00:00:00 GMT">
-	<meta name="cache-control" content="no-cache">
 	<meta name="description" content="We list every site we can find related to San Diego and local information not available anywhere else.  We also develop and host major local sites like the Convention and Visitors Bureau and the Port.">
 	<style type="text/css">
 		@import url(inc/SDC_Screen.css);
@@ -28,16 +26,21 @@
 	</tr>
 	<tr>
 		<td colspan="3" id="PortalNavigation2">
-			<a href="travel.jsp">Travel</a> | 
+			<!--- PLEASE MAKE SURE TO NOTIFY JONATHAN N. (JON@SANDIEGO.COM) WHEN CHANGING THIS CODE. THE AFFILIATE PAGES MUST BE UPDATED WHEN THIS CODE IS CHANGED. --->
+<a href="travel.jsp">Travel</a> | 
+<a href="http://beach.sandiego.com/portal2003/click.asp?id=251">Night Life</a> | 
 <a href="critichome.jsp">The Arts</a> | 
 <a href="eaterhome.jsp">Dining</a> | 
 <a href="sdbusiness.jsp">Business</a> | 
 <a href="consumerhome.jsp">Consumer</a> | 
-<a href="http://beach.sandiego.com/portaldev/click.asp?i=168">Apartments</a> | 
+<a href="http://beach.sandiego.com/portal2003/click.asp?id=204">Apartments</a> | 
+<a href="http://beach.sandiego.com/portal2003/click.asp?id=205">Real Estate</a> | 
 <a href="oped.jsp">Opinions</a> | 
-<a href="comic.jsp">Comics</a> | 
-<a href="automobiles.jsp">Automobiles</a> | 
+<a href="coupons.jsp">Coupons</a> | 
+<a href="sdhistory.jsp">History</a> | 
+<a href="http://classifieds.sandiego.com/">Classifieds</a> | 
 
+<!--- PLEASE MAKE SURE TO NOTIFY JONATHAN N. (JON@SANDIEGO.COM) WHEN CHANGING THIS CODE. THE AFFILIATE PAGES MUST BE UPDATED WHEN THIS CODE IS CHANGED. --->
 			</td>
 	</tr>
 	<tr>
@@ -46,75 +49,83 @@
 	<tbody><tr>
 		<td>
 			<form action="results.jsp" method="post" name="frmTopSearch2" id="frmTopSearch2">
-			<img src="images/searchsandiego.gif" width="119" height="16" border="0" alt="Search San Diego">
-			<input type="text" name="searchText" size="24" maxlength="50" value="">
-			<input type="image" src="images/go_button.gif" alt="Go" value="Search" name="_!SEARCH">
-			<!-- <img src="images/addyoursite.gif" height="17" width="76" /> -->
+				<img src="images/searchsandiego.gif" width="119" height="16" border="0" alt="Search San Diego">
+				<input type="text" name="searchText" size="24" maxlength="50" value="">
+				<input type="image" src="images/go_button.gif" width="35" height="22" alt="Go" value="Search" name="_!SEARCH"><a href="bb-start.jsp"><img src="images/addyoursite.gif" height="17" width="76" border="0" alt="Add Your Site"></a>
 			</form>
 		</td>
 		<td valign="middle" class="medBlueText">
-
-		<!-- sdcservices pulldown goes here -->
-			<script>
-                function ServicesSelect(theForm)
-                {
-                        var val;
-        
-            val = theForm.sdcservices.options[theForm.sdcservices.selectedIndex].value;
-						if (val == 0) location = "http://www.sandiego.com/";
-                        if (val == 1) location = "http://www.sandiego.com/tools.jsp";
-                        if (val == 2) location = "http://www.sandiego.com/advertising.jsp";
-                        if (val == 3) location = "http://www.sandiego.com/aboutus.jsp";
-       		      		if (val == 4) location = "http://beach.sandiego.com/portaldev/login.asp";
-											}
-											</script>
-				
- 				<form name="frmServices" id="frmServices">
+			<!-- sdcservices pulldown goes here -->
+			<script language="JavaScript" type="text/javascript">
+				function ServicesSelect(theForm) {
+					var val;
+					val = theForm.sdcservices.options[theForm.sdcservices.selectedIndex].value;
+					if (val == 0) location = "http://www.sandiego.com/";
+					if (val == 1) location = "http://www.sandiego.com/tools.jsp";
+					if (val == 2) location = "http://www.sandiego.com/advertising.jsp";
+					if (val == 3) location = "http://www.sandiego.com/aboutus.jsp";
+					if (val == 4) location = "http://beach.sandiego.com/portaldev/login.asp";
+					if (val == 5) location = "http://www.sandiego.com/emarketing.jsp";
+				}
+			</script>
+ 			<form name="frmServices" id="frmServices" method="post">
 				<select name="sdcservices" onchange="ServicesSelect(this.form)">
-		        <option value="0">-- Services --</option>
-		        <option value="1">Net Tools</option>
-		  		<option value="2">Advertising</option>
-		  		<option value="3">About Us</option>
-		  		<option value="4">Ad Login</option>
-			        </select>
-					<!-- <input type="image" src="images/go_button.gif" alt="Go" value="frmServices" name="_!SEARCH" /> -->
-						  </form>
-						
-						
-			</td>		
-			<td valign="middle" class="genText">
-				
-				<script>
-                function CitySelect(theForm)
-                {
-                        var val;
-        
-            val = theForm.sdcities.options[theForm.sdcities.selectedIndex].value;
-                        if (val == 0) location = "http://sandiego.com";
-                        if (val == 1) location = "http://www.chicago.com";
-                        if (val == 2) location = "http://www.atlanta.com";
-    		      		if (val == 3) location = "http://www.neworleans.com";
-						if (val == 4) location = "http://www.lasvegas.com";
-											}
-											</script>
-		<!-- sdcities pulldown goes here -->
-			<form name="frmCities" id="frmCities">
-			<select name="sdcities" onchange="CitySelect(this.form)">
-			<option value="0">Visit These Great City sites!</option>
-			<option value="1">Chicago.com</option>
-			<option value="2">Atlanta.com</option>
-			<option value="3">NewOrleans.com</option>
-			<option value="4">LasVegas.com</option>
-	        </select>
-			<!-- <input type="image" src="images/go_button.gif" alt="Go" value="frmCities" name="_!SEARCH" /> -->
-		    </form>
-			</td>
-			<td>
-				<span class="genText2">
-				Dec 6, 2003 &nbsp; 
-				</span>
-			</td>
-		</tr>
+					<option value="0">-- Services --</option>
+					<option value="1">Net Tools</option>
+					<option value="2">Advertising</option>
+					<option value="3">About Us</option>
+					<option value="4">Ad Login</option>
+					<option value="5">E-marketing</option>
+				</select>
+			</form>
+		</td>
+		<td valign="middle" class="genText">
+			<table cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="right" nowrap="nowrap">Visit these cities:</td>
+<!-- sdcservices pulldown goes here -->
+			<script language="JavaScript" type="text/javascript">
+				function acSelectOnChange(theForm) {
+					var val;
+					val = theForm.acSelect.options[theForm.acSelect.selectedIndex].value;
+					if (val == 0) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=9";
+					if (val == 1) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=24";
+					if (val == 2) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=8";
+					if (val == 3) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=15";
+					if (val == 4) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=25";
+					if (val == 5) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=10";
+					if (val == 6) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=31";
+					if (val == 7) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=26";
+					if (val == 8) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=14";
+					if (val == 9) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=29";
+					if (val == 10) location = "http://www.associatedcities.com/associatedCitiesAdManager/dropdown.php?referrer=14&city=23";
+				}
+			</script>
+      <form name="ac" onchange="acSelect(this.form)" method="post"></form>
+					<td>
+				  <select name="acSelect" onchange="acSelectOnChange(this.form)">
+      <option value="">Choose a City</option>
+      <option value="0">Atlanta.com</option>
+      <option value="1">Charleston.com</option>
+      <option value="2">Chicago.com</option>
+      <option value="3">LasVegas.com</option>
+      <option value="4">MyrtleBeach.com</option>
+      <option value="5">NewOrleans.com</option>
+      <option value="6">NewYorkCity.com</option>
+      <option value="7">ParkCity.com</option>
+      <option value="8">SanDiego.com</option>
+      <option value="9">Toledo.com</option>
+      <option value="10">WestPalm.com</option>
+      </select>
+					</td>
+      
+				</tr>
+			</tbody></table>
+		</td>
+		<td>
+			<span class="genText2">&nbsp;&nbsp;Jun 3, 2004 &nbsp; </span>
+		</td>
+	</tr>
 </tbody></table>
 
 		</td>
@@ -157,13 +168,13 @@ BOOKING BOT BEGINS
 
 			<option value="9">9</option>
 
-			<option value="10">10</option>
+			<option value="10" selected="selected">10</option>
 
 			<option value="11">11</option>
 
 			<option value="12">12</option>
 
-			<option value="13" selected="selected">13</option>
+			<option value="13">13</option>
 
 			<option value="14">14</option>
 
@@ -205,31 +216,31 @@ BOOKING BOT BEGINS
 
 		<select name="aresdate_date_monthyear">
 
-			<option value="2003-12" selected="selected">Dec 2003</option>
-
-			<option value="2004-01">Jan 2004</option>
-
-			<option value="2004-02">Feb 2004</option>
-
-			<option value="2004-03">Mar 2004</option>
-
-			<option value="2004-04">Apr 2004</option>
-
-			<option value="2004-05">May 2004</option>
-
-			<option value="2004-06">Jun 2004</option>
+			<option value="2004-06" selected="selected">Jun 2004</option>
 
 			<option value="2004-07">Jul 2004</option>
 
 			<option value="2004-08">Aug 2004</option>
 
-			<option value="2004-09">Sep 2004</option>
+			<option value="2004-09">Sept 2004</option>
 
 			<option value="2004-10">Oct 2004</option>
 
 			<option value="2004-11">Nov 2004</option>
 
 			<option value="2004-12">Dec 2004</option>
+
+			<option value="2005-01">Jan 2005</option>
+
+			<option value="2005-02">Feb 2005</option>
+
+			<option value="2005-03">Mar 2005</option>
+
+			<option value="2005-04">Apr 2005</option>
+
+			<option value="2005-05">May 2005</option>
+
+			<option value="2005-06">Jun 2005</option>
 
 		</select>
 		<div>
@@ -420,7 +431,12 @@ Put your message here and thousands of visitors will have a chance to find their
 	<input type="submit" name="_!SEARCH" value="Search">
 </form>
 <div class="copyright">
-	&nbsp; 1999-2003. sandiego.com. All rights reserved. Content may not be reproduced without written consent. 
+	&nbsp; 1999-2003. sandiego.com. All rights reserved. Content may not be reproduced without written consent.<br>	&nbsp; 
+Page Last Updated:
+Feb 10, 2004, 0:36 AM (PST)
+
+
+ 
 </div>
 		</td>
 	</tr>
