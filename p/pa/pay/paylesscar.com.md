@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203184000id_/http%3A//www.paylesscarrental.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803185432id_/http%3A//www.paylesscar.com/Privacy.html) for the most accurate reproduction.*
 
 # Car Rental: Payless Car Rental Privacy Policy
 
