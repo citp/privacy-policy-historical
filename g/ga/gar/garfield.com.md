@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406035840id_/http%3A//www.garfield.com/news/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204102016id_/http%3A//www.garfield.com/news/privacy.html) for the most accurate reproduction.*
 
 # The Garfield Gazette
 
@@ -115,8 +115,8 @@ This policy, in addition to the Garfield.com and uclick Privacy Policy, covers t
 **Contacting Paws and uclick about Children's Privacy or to Control a child's access**
 
 uclick  
-Attn: Garfield Children's Privacy  
+Attn: Children's Privacy  
 4520 Main Street, Suite 500  
 Kansas City, MO 64111
 
-[garfield@uclick.com](mailto:garfield@uclick.com?Subject=GarfieldPrivacy) or [webmaster@ucomics.com](mailto:webmaster@ucomics.com?Subject=GarfieldPrivacy)
+[webmaster@ucomics.com](mailto:webmaster@ucomics.com?Subject=GarfieldPrivacy)
