@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603223718id_/http%3A//www.shoes.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054949id_/http%3A//www.shoes.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -69,4 +69,5 @@ Our users are given the opportunity to "opt-out" of having their information use
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
   
-
+  
+---|---
