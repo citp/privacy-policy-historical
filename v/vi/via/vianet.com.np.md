@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vianet.com.np privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034559id_/http%3A//www.vianet.com.np/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vianet.com.np privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232951id_/http%3A//www.vianet.com.np/privacy.html) for the most accurate reproduction.*
 
 # navigation.html
 
