@@ -1,199 +1,1011 @@
-<!--The following is the downloaded HTML source of the coastal.com privacy policy that was archived on 2004-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040609005359id_/http%3A//www.coastal.com/Security_Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coastal.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204233909id_/http%3A//www.coastal.com/Security_Privacy_Policy.html) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
-<title>Coastal Training Technologies Corp. - Privacy Policy </title>
+<title>Privacy Policy -- Coastal Training Technologies Corp.</title>
+<link href="coastal_internal.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+
+div.menuBar,
+div.menuBar a.menuButton,
+div.menu,
+div.menu a.menuItem {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  color: #003366;
+}
+
+div.menuBar {
+  background-color: #99cc33;
+  border: 2px solid #99cc33;
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+}
+
+div.menuBar a.menuButton {
+  background-color: transparent;
+  border: 0px solid #e0e0e0;
+  color: #003366;
+  cursor: link;
+  left: 0px;
+  margin: 0px;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  text-decoration: none;
+  top: 0px;
+  z-index: 100;
+}
+
+div.menuBar a.menuButton:hover {
+  background-color: #99cc99;
+  border: 0px normal #e0e0e0;
+  color: #ffffff;
+}
+
+div.menuBar a.menuButtonActive,
+div.menuBar a.menuButtonActive:hover {
+  background-color: #99cc99;
+  border: 0px normal #e0e0e0;
+  color: #ffffff;
+  left: 0px;
+  top: 0px;
+}
+
+div.menu {
+  background-color: #99cc99;
+  border: 0px outset #e0e0e0;
+  left: 0px;
+  padding: 1px 0px 1px 0px;
+  position: absolute;
+  top: 0px;
+  visibility: hidden;
+  z-index: 101;
+}
+
+div.menu a.menuItem {
+  color: #ffffff;
+  cursor: link;
+  display: block;
+  padding: 0px 1em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+div.menu a.menuItem:hover, div.menu a.menuItemHighlight {
+  background-color: #99cccc;
+  color: #006600;
+}
+
+div.menu a.menuItem span.menuItemText {}
+
+div.menu a.menuItem span.menuItemArrow {
+  margin-right: -.75em;
+}
+
+div.menu div.menuItemSep {
+  border: 1px solid #e0e0e0;
+  margin: 4px 2px;
+}
+
+</style>
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+//*****************************************************************************
+// Do not remove this notice.
+//
+// Copyright 2000-2004 by Mike Hall.
+// See http://www.brainjar.com for terms of use.
+//*****************************************************************************
+
+//----------------------------------------------------------------------------
+// Code to determine the browser and version.
+//----------------------------------------------------------------------------
+
+function Browser() {
+
+  var ua, s, i;
+
+  this.isIE    = false;  // Internet Explorer
+  this.isOP    = false;  // Opera
+  this.isNS    = false;  // Netscape
+  this.version = null;
+
+  ua = navigator.userAgent;
+
+  s = "Opera";
+  if ((i = ua.indexOf(s)) >= 0) {
+    this.isOP = true;
+    this.version = parseFloat(ua.substr(i + s.length));
+    return;
+  }
+
+  s = "Netscape6/";
+  if ((i = ua.indexOf(s)) >= 0) {
+    this.isNS = true;
+    this.version = parseFloat(ua.substr(i + s.length));
+    return;
+  }
+
+  // Treat any other "Gecko" browser as Netscape 6.1.
+
+  s = "Gecko";
+  if ((i = ua.indexOf(s)) >= 0) {
+    this.isNS = true;
+    this.version = 6.1;
+    return;
+  }
+
+  s = "MSIE";
+  if ((i = ua.indexOf(s))) {
+    this.isIE = true;
+    this.version = parseFloat(ua.substr(i + s.length));
+    return;
+  }
+}
+
+var browser = new Browser();
+
+//----------------------------------------------------------------------------
+// Code for handling the menu bar and active button.
+//----------------------------------------------------------------------------
+
+var activeButton = null;
+
+function buttonClick(event, menuId) {
+
+  var button;
+
+
+  // Moded to handle form element.
+  	if (menuId == "aboutMenu") {
+		document.getElementById("preview").style.visibility="hidden";
+	}
+  // End Mod.
+
+
+
+
+  // Get the target button element.
+
+  if (browser.isIE)
+    button = window.event.srcElement;
+  else
+    button = event.currentTarget;
+
+  // Blur focus from the link to remove that annoying outline.
+
+  button.blur();
+
+  // Associate the named menu to this button if not already done.
+  // Additionally, initialize menu display.
+
+  if (button.menu == null) {
+    button.menu = document.getElementById(menuId);
+    if (button.menu.isInitialized == null)
+      menuInit(button.menu);
+  }
+
+  // [MODIFIED] Added for activate/deactivate on mouseover.
+
+  // Set mouseout event handler for the button, if not already done.
+
+  if (button.onmouseout == null)
+    button.onmouseout = buttonOrMenuMouseout;
+
+  // Exit if this button is the currently active one.
+
+  if (button == activeButton)
+    return false;
+
+  // [END MODIFIED]
+
+  // Reset the currently active button, if any.
+
+  if (activeButton != null)
+    resetButton(activeButton);
+
+  // Activate this button, unless it was the currently active one.
+
+  if (button != activeButton) {
+    depressButton(button);
+    activeButton = button;
+  }
+  else
+    activeButton = null;
+
+  return false;
+}
+
+function buttonMouseover(event, menuId) {
+
+  var button;
+
+
+  // Moded to handle form element.
+  	if (menuId == "aboutMenu") {
+		document.getElementById("preview").style.visibility="hidden";
+	}
+  // End Mod.
+
+
+
+
+  // [MODIFIED] Added for activate/deactivate on mouseover.
+
+  // Activates this button's menu if no other is currently active.
+
+  if (activeButton == null) {
+    buttonClick(event, menuId);
+    return;
+  }
+
+  // [END MODIFIED]
+
+  // Find the target button element.
+
+  if (browser.isIE)
+    button = window.event.srcElement;
+  else
+    button = event.currentTarget;
+
+  // If any other button menu is active, make this one active instead.
+
+  if (activeButton != null && activeButton != button)
+    buttonClick(event, menuId);
+}
+
+function depressButton(button) {
+
+  var x, y;
+
+  // Update the button's style class to make it look like it's
+  // depressed.
+
+  button.className += " menuButtonActive";
+
+  // [MODIFIED] Added for activate/deactivate on mouseover.
+
+  // Set mouseout event handler for the button, if not already done.
+
+  if (button.onmouseout == null)
+    button.onmouseout = buttonOrMenuMouseout;
+  if (button.menu.onmouseout == null)
+    button.menu.onmouseout = buttonOrMenuMouseout;
+
+  // [END MODIFIED]
+
+  // Position the associated drop down menu under the button and
+  // show it.
+
+  x = getPageOffsetLeft(button);
+  y = getPageOffsetTop(button) + button.offsetHeight;
+
+  // For IE, adjust position.
+
+  if (browser.isIE) {
+    x += button.offsetParent.clientLeft;
+    y += button.offsetParent.clientTop;
+  }
+
+  button.menu.style.left = x + "px";
+  button.menu.style.top  = y + "px";
+  button.menu.style.visibility = "visible";
+}
+
+function resetButton(button) {
+
+  // Restore the button's style class.
+
+  removeClassName(button, "menuButtonActive");
+
+  // Hide the button's menu, first closing any sub menus.
+
+  if (button.menu != null) {
+    closeSubMenu(button.menu);
+    button.menu.style.visibility = "hidden";
+  }
+}
+
+//----------------------------------------------------------------------------
+// Code to handle the menus and sub menus.
+//----------------------------------------------------------------------------
+
+function menuMouseover(event) {
+
+  var menu;
+
+  // Find the target menu element.
+
+  if (browser.isIE)
+    menu = getContainerWith(window.event.srcElement, "DIV", "menu");
+  else
+    menu = event.currentTarget;
+
+  // Close any active sub menu.
+
+  if (menu.activeItem != null)
+    closeSubMenu(menu);
+}
+
+function displayProp(event) {
+
+  var menu;
+  document.getElementById("preview").style.visibility="hidden";
+
+  // Find the target menu element.
+
+  if (browser.isIE)
+    menu = getContainerWith(window.event.srcElement, "DIV", "menu");
+  else
+    menu = event.currentTarget;
+
+  // Close any active sub menu.
+
+  if (menu.activeItem != null)
+    closeSubMenu(menu);
+}
+
+function menuItemMouseover(event, menuId) {
+
+  var item, menu, x, y;
+
+  // Find the target item element and its parent menu element.
+
+  if (browser.isIE)
+    item = getContainerWith(window.event.srcElement, "A", "menuItem");
+  else
+    item = event.currentTarget;
+  menu = getContainerWith(item, "DIV", "menu");
+
+  // Close any active sub menu and mark this one as active.
+
+  if (menu.activeItem != null)
+    closeSubMenu(menu);
+  menu.activeItem = item;
+
+  // Highlight the item element.
+
+  item.className += " menuItemHighlight";
+
+  // Initialize the sub menu, if not already done.
+
+  if (item.subMenu == null) {
+    item.subMenu = document.getElementById(menuId);
+    if (item.subMenu.isInitialized == null)
+      menuInit(item.subMenu);
+  }
+
+  // [MODIFIED] Added for activate/deactivate on mouseover.
+
+  // Set mouseout event handler for the sub menu, if not already done.
+
+  if (item.subMenu.onmouseout == null)
+    item.subMenu.onmouseout = buttonOrMenuMouseout;
+
+  // [END MODIFIED]
+
+  // Get position for submenu based on the menu item.
+
+  x = getPageOffsetLeft(item) + item.offsetWidth;
+  y = getPageOffsetTop(item);
+
+  // Adjust position to fit in view.
+
+  var maxX, maxY;
+
+  if (browser.isIE) {
+    maxX = Math.max(document.documentElement.scrollLeft, document.body.scrollLeft) +
+      (document.documentElement.clientWidth != 0 ? document.documentElement.clientWidth : document.body.clientWidth);
+    maxY = Math.max(document.documentElement.scrollTop, document.body.scrollTop) +
+      (document.documentElement.clientHeight != 0 ? document.documentElement.clientHeight : document.body.clientHeight);
+  }
+  if (browser.isOP) {
+    maxX = document.documentElement.scrollLeft + window.innerWidth;
+    maxY = document.documentElement.scrollTop  + window.innerHeight;
+  }
+  if (browser.isNS) {
+    maxX = window.scrollX + window.innerWidth;
+    maxY = window.scrollY + window.innerHeight;
+  }
+  maxX -= item.subMenu.offsetWidth;
+  maxY -= item.subMenu.offsetHeight;
+
+  if (x > maxX)
+    x = Math.max(0, x - item.offsetWidth - item.subMenu.offsetWidth
+      + (menu.offsetWidth - item.offsetWidth));
+  y = Math.max(0, Math.min(y, maxY));
+
+  // Position and show the sub menu.
+
+  item.subMenu.style.left = x + "px";
+  item.subMenu.style.top  = y + "px";
+  item.subMenu.style.visibility = "visible";
+
+  // Stop the event from bubbling.
+
+  if (browser.isIE)
+    window.event.cancelBubble = true;
+  else
+    event.stopPropagation();
+}
+
+function closeSubMenu(menu) {
+
+  if (menu == null || menu.activeItem == null)
+    return;
+
+  // Recursively close any sub menus.
+
+  if (menu.activeItem.subMenu != null) {
+    closeSubMenu(menu.activeItem.subMenu);
+    menu.activeItem.subMenu.style.visibility = "hidden";
+    menu.activeItem.subMenu = null;
+  }
+  removeClassName(menu.activeItem, "menuItemHighlight");
+  menu.activeItem = null;
+}
+
+// [MODIFIED] Added for activate/deactivate on mouseover. Handler for mouseout
+// event on buttons and menus.
+
+function buttonOrMenuMouseout(event) {
+
+  var el;
+
+  // If there is no active button, exit.
+
+  if (activeButton == null)
+    return;
+
+  // Find the element the mouse is moving to.
+
+  if (browser.isIE) {
+    el = window.event.toElement;
+	document.getElementById("preview").style.visibility="visible";
+  } else if (event.relatedTarget != null) {
+      el = (event.relatedTarget.tagName ? event.relatedTarget : event.relatedTarget.parentNode);
+	  document.getElementById("preview").style.visibility="visible";
+  }
+
+  // If the element is not part of a menu, reset the active button.
+
+  if (getContainerWith(el, "DIV", "menu") == null) {
+    resetButton(activeButton);
+    activeButton = null;
+  }
+}
+
+// [END MODIFIED]
+
+//----------------------------------------------------------------------------
+// Code to initialize menus.
+//----------------------------------------------------------------------------
+
+function menuInit(menu) {
+
+  var itemList, spanList;
+  var textEl, arrowEl;
+  var itemWidth;
+  var w, dw;
+  var i, j;
+
+  // For IE, replace arrow characters.
+
+  if (browser.isIE) {
+    menu.style.lineHeight = "2.5ex";
+    spanList = menu.getElementsByTagName("SPAN");
+    for (i = 0; i < spanList.length; i++)
+      if (hasClassName(spanList[i], "menuItemArrow")) {
+        spanList[i].style.fontFamily = "Webdings";
+        spanList[i].firstChild.nodeValue = "4";
+      }
+  }
+
+  // Find the width of a menu item.
+
+  itemList = menu.getElementsByTagName("A");
+  if (itemList.length > 0)
+    itemWidth = itemList[0].offsetWidth;
+  else
+    return;
+
+  // For items with arrows, add padding to item text to make the
+  // arrows flush right.
+
+  for (i = 0; i < itemList.length; i++) {
+    spanList = itemList[i].getElementsByTagName("SPAN");
+    textEl  = null;
+    arrowEl = null;
+    for (j = 0; j < spanList.length; j++) {
+      if (hasClassName(spanList[j], "menuItemText"))
+        textEl = spanList[j];
+      if (hasClassName(spanList[j], "menuItemArrow"))
+        arrowEl = spanList[j];
+    }
+    if (textEl != null && arrowEl != null) {
+      textEl.style.paddingRight = (itemWidth 
+        - (textEl.offsetWidth + arrowEl.offsetWidth)) + "px";
+      // For Opera, remove the negative right margin to fix a display bug.
+      if (browser.isOP)
+        arrowEl.style.marginRight = "0px";
+    }
+  }
+
+  // Fix IE hover problem by setting an explicit width on first item of
+  // the menu.
+
+  if (browser.isIE) {
+    w = itemList[0].offsetWidth;
+    itemList[0].style.width = w + "px";
+    dw = itemList[0].offsetWidth - w;
+    w -= dw;
+    itemList[0].style.width = w + "px";
+  }
+
+  // Mark menu as initialized.
+
+  menu.isInitialized = true;
+}
+
+//----------------------------------------------------------------------------
+// General utility functions.
+//----------------------------------------------------------------------------
+
+function getContainerWith(node, tagName, className) {
+
+  // Starting with the given node, find the nearest containing element
+  // with the specified tag name and style class.
+
+  while (node != null) {
+    if (node.tagName != null && node.tagName == tagName &&
+        hasClassName(node, className))
+      return node;
+    node = node.parentNode;
+  }
+
+  return node;
+}
+
+function hasClassName(el, name) {
+
+  var i, list;
+
+  // Return true if the given element currently has the given class
+  // name.
+
+  list = el.className.split(" ");
+  for (i = 0; i < list.length; i++)
+    if (list[i] == name)
+      return true;
+
+  return false;
+}
+
+function removeClassName(el, name) {
+
+  var i, curList, newList;
+
+  if (el.className == null)
+    return;
+
+  // Remove the given class name from the element's className property.
+
+  newList = new Array();
+  curList = el.className.split(" ");
+  for (i = 0; i < curList.length; i++)
+    if (curList[i] != name)
+      newList.push(curList[i]);
+  el.className = newList.join(" ");
+}
+
+function getPageOffsetLeft(el) {
+
+  var x;
+
+  // Return the x coordinate of an element relative to the page.
+
+  x = el.offsetLeft;
+  if (el.offsetParent != null)
+    x += getPageOffsetLeft(el.offsetParent);
+
+  return x;
+}
+
+function getPageOffsetTop(el) {
+
+  var y;
+
+  // Return the x coordinate of an element relative to the page.
+
+  y = el.offsetTop;
+  if (el.offsetParent != null)
+    y += getPageOffsetTop(el.offsetParent);
+
+  return y;
+}
+
+//-->
+</script>
 </head>
 
 <body>
+<table id="maintable" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td colspan="2" id="header">
+	<div id="headimg1"><img src="images/header.jpg" width="800" height="84" alt="Coastal Training Technologies Corp."></div>
+
+	<div id="headimg2"><a href="http://server.iad.liveperson.net/hc/48993548/?cmd=file&amp;file=visitorWantsToChat&amp;site=48993548&amp;byhref=1"><img src="images/get-live-help.gif" alt="Get Live Help" width="90" height="17" border="1"></a></div>
+
+	</td>
+
+  </tr>
+  <tr>
+    <td colspan="2">
+	
+<div class="menuBar" style="width:100%;">
+		&nbsp;&nbsp;&nbsp;
+<a class="menuButton" href="http://www.coastal.com/">Home</a>
+		&nbsp;&nbsp;&nbsp;
+<a class="menuButton" href="" onclick="return buttonClick(event, 'aboutMenu');" onmouseover="buttonMouseover(event, 'aboutMenu');">About Coastal</a>
+		&nbsp;&nbsp;&nbsp;
+<a class="menuButton" href="" onclick="return buttonClick(event, 'alldMenu');" onmouseover="buttonMouseover(event, 'alldMenu');">All Divisions</a>
+		&nbsp;&nbsp;&nbsp;
+<a class="menuButton" href="" onclick="return buttonClick(event, 'prodMenu');" onmouseover="buttonMouseover(event, 'prodMenu');">Products &amp; Services</a>
+		&nbsp;&nbsp;&nbsp;
+<a class="menuButton" href="http://www.coastal.com/digitalservices/">Digital Coastal</a>
+		&nbsp;&nbsp;&nbsp;
+<a class="menuButton" href="" onclick="return buttonClick(event, 'helpMenu');" onmouseover="buttonMouseover(event, 'helpMenu');">Assistance</a>
+		&nbsp;&nbsp;&nbsp;
+<a class="menuButton" href="" onclick="return buttonClick(event, 'intlMenu');" onmouseover="buttonMouseover(event, 'intlMenu');">International</a>
+</div>
+
+
+<!-- Main menus. -->
+<div id="aboutMenu" class="menu" onmouseover="displayProp(event)">
+	<a class="menuItem" href="http://www.coastal.com/Difference/home.html">The Coastal Difference</a>
+	<a class="menuItem" href="http://www.coastal.com/aboutus.html">About Us</a>
+<!-- 	<a class="menuItem" href="http://www.coastal.com/jobs.html">Employment</a> -->
+	<a class="menuItem" href="http://www.coastal.com/news.html">News &amp; Press</a>
+</div>
+
+<div id="alldMenu" class="menu">
+	<a class="menuItem" href="http://www.coastalsafetytraining.com/">Safety &amp; Environmental</a>
+	<a class="menuItem" href="http://www.coastalhealth.com/">Health+Train</a>
+	<a class="menuItem" href="http://www.coastalskills.com/">Industrial Skills</a>
+	<a class="menuItem" href="http://www.coastalhr.com/">Human Resources</a>
+	<a class="menuItem" href="http://www.coastalschools.com/">Schools</a>
+	<a class="menuItem" href="http://www.coastalgovsales.com/">Government</a>
+	<a class="menuItem" href="http://www.claritymultimedia.com/">Clarity Multimedia</a>
+</div>
+
+<div id="prodMenu" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'prodMenu1');">
+	<span class="menuItemText">By Division</span><span class="menuItemArrow">▶</span></a>
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'prodMenu2');">
+	<span class="menuItemText">By Format</span><span class="menuItemArrow">▶</span></a>
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'servMenu1');">
+	<span class="menuItemText">Services &amp; Solutions</span><span class="menuItemArrow">▶</span></a>
+	<a class="menuItem" href="http://www.coastal.com/catalog.html">Order Catalogs</a>
+	<a class="menuItem" href="http://www.coastalskills.com/products.html">Newsletters</a>
+</div>
+
+<div id="helpMenu" class="menu">
+	<a class="menuItem" href="http://www.coastal.com/Streams/olp.html">Online Preview Help</a>
+	<a class="menuItem" href="http://www.coastal.com/orderinfo.html">Ordering Information</a>
+	<a class="menuItem" href="http://www.coastal.com/Streams/copyright.html">Terms &amp; Conditions</a>
+	<a class="menuItem" href="http://www.coastal.com/Security_Privacy_Policy.html">Security/Privacy Policy</a>
+	<a class="menuItem" href="http://support.coastal.com/">Tech Support</a>
+	<a class="menuItem" href="http://www.coastal.com/contactus.html">Contact Us</a>
+</div>
+
+<div id="intlMenu" class="menu">
+	<a class="menuItem" href="http://www.coastalinternational.com/">Home</a>
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'intlMenu1');">
+	<span class="menuItemText">Locations</span><span class="menuItemArrow">▶</span></a>
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'intlMenu2');">
+	<span class="menuItemText">Products</span><span class="menuItemArrow">▶</span></a>
+</div>
+
+<!-- Products & Services sub menus. -->
+<div id="prodMenu1" class="menu">
+	<a class="menuItem" href="http://www.coastalsafetytraining.com/products.html">Safety &amp; Environmental</a>
+	<a class="menuItem" href="http://www.coastalhealth.com/products.html">Health+Train</a>
+	<a class="menuItem" href="http://www.coastalskills.com/products.html">Industrial Skills</a>
+	<a class="menuItem" href="http://www.coastalhr.com/products.html">Human Resources</a>
+	<a class="menuItem" href="http://www.coastalschools.com/products.html">Schools</a>
+</div>
+
+<div id="prodMenu2" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/Category.cfm?&amp;DID=7&amp;CatID=82">Videos</a>
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/Category.cfm?&amp;DID=7&amp;CatID=83">Handbooks</a>
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/Category.cfm?&amp;DID=7&amp;CatID=85">Posters</a>
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/Category.cfm?&amp;DID=7&amp;CatID=99">DVDs</a>
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/Category.cfm?&amp;DID=7&amp;CatID=84">CD-ROMs</a>
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/Category.cfm?&amp;DID=7&amp;CatID=86">Web-Based</a>
+</div>
+
+<div id="servMenu1" class="menu">
+	<a class="menuItem" href="http://www.coastalsafetytraining.com/products.html">Digital Video Files</a>
+	<a class="menuItem" href="http://www.claritynet.com/">ClarityNet</a>
+	<a class="menuItem" href="http://www.claritymultimedia.com/">Clarity CD-ROM</a>
+	<a class="menuItem" href="http://www.coastalecampus.com/">Coastal eCampus</a>
+	<a class="menuItem" href="http://www.claritymultimedia.com/C3.html">C3 Custom Course Creator</a>
+	<a class="menuItem" href="http://www.claritymultimedia.com/CD/clexpress.html">Clarity Express</a>
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/showdetl.cfm?&amp;Product_ID=12898&amp;DID=7">Curriculum Planning Guide</a>
+	<a class="menuItem" href="http://www.coastal.com/Training2Go/home.html">HR Training 2 Go</a>
+	<a class="menuItem" href="http://www.claritymultimedia.com/CD/csn.html">CD Implementation Services</a>
+	<a class="menuItem" href="http://www.claritynet.com/csn.html">Net Implementation Services</a>
+	<a class="menuItem" href="http://www.claritymultimedia.com/clarityesp.html">Clarity ESP</a>
+</div>
+
+
+<!-- International sub menus. -->
+<div id="intlMenu1" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="http://www.coastal.com/">North America</a>
+	<a class="menuItem" href="http://www.coastal.nl/">Europe</a>
+	<a class="menuItem" href="http://www.coastaldobrasil.com.br/">South America</a>
+	<a class="menuItem" href="http://www.coastal.com.mx/">Central America</a>
+	<a class="menuItem" href="http://www.coastal.co.in/">Asia</a>
+</div>
+
+<div id="intlMenu2" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="http://www.coastal.es/">Castillian</a>
+	<a class="menuItem" href="http://www.coastal.nl/">Dutch</a>
+	<a class="menuItem" href="http://www.coastal.de/">German</a>
+	<a class="menuItem" href="http://www.coastaldobrasil.com.br/">Portuguese</a>
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=13&amp;CATID=75&amp;ObjectGroup_ID=932">Russian</a>
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=13&amp;CATID=87&amp;ObjectGroup_ID=1163">Tamil</a>
+	<a class="menuItem" href="http://www.coastal.com.mx/">US Spanish</a>
+	<a class="menuItem" href="http://www.coastal.com/coastalACB/webpage.cfm?WebPage_ID=13&amp;DID=13">All</a>
+</div>
+	
+
+	</td>
+  </tr>
+  <tr>
+    <td colspan="2" height="1">
+	</td>
+  </tr>
+
+  
+<!-- ============================ --->
+<!-- REAL PAGE CONTENT BEGIN HERE --->
+<!-- ============================ --->
+  <tr>
+    <td id="leftcol" width="190">
+	<div id="specialbox">
+		  <form name="browse" id="browse">
+		<h2 class="h2">BROWSE PREVIEWS:</h2>
+	   <select name="preview" class="green" id="preview" onchange="MM_jumpMenu('parent',this,1)">
+	     <option value="#" selected="selected">CHOOSE A CATEGORY</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1130">Back Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1255">Basic Skills</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1117">Behavior-Based</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1220">Coaching</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1118">Communication</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1144">Compliance</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1119">Confined Space</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1156">Conflict Resolution</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1120">Construction Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1133">Crane Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1121">Customer Service</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1123">Diversity</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1124">Driver Training</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1126">Electrical Maintenance</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1264">Electrical Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1132">Emergency</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1146">Employee Development</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1129">Environmental Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1130">Ergonomics</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1131">Fall Protection</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1132">Fire Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1140">First Aid</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1133">Forklift Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1134">General Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1129">Groundskeeping Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1135">Hazard Communication</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1136">Hazardous Materials</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1137">HAZWOPER</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1138">Healthcare</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1122">Homeland Security</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1140">Infection Control</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1220">Leadership Training</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1142">Lockout/Tagout</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1143">Machine Technology</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1257">Mechanical Maintenance</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1129">Outdoor Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1145">PPE</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1150">Process Control</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1147">Predictive Maintenance</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1148">Pro-Active Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1150">Quality</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1123">Respect</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1151">Respiratory Protection</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1119">Rope Rescue</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1271">Sales Training</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1158">Schools</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1152">Sexual Harassment</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1153">Stress Management</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1154">Substance Abuse</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1155">Supervisor Training</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1124">Transportation Safety</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1156">Violence Prevention</option>
+         <option value="http://www.coastal.com/coastalACB/showprod.cfm?&amp;DID=7&amp;CATID=82&amp;ObjectGroup_ID=1157">Welding Technology</option>
+         </select></form>
+
+		<form action="http://www.coastal.com/coastalACB/webpage.cfm?&amp;DID=7&amp;WebPage_ID=5" method="post">
+			<input type="hidden" name="SearchCompany" value="1">
+			<input type="hidden" name="GlobalSearch" value="8">
+			<input type="hidden" name="joinkeywords" value="AND">
+			<input type="hidden" name="days" value="10000">
+			<input type="hidden" name="results" value="25">
+			<input type="hidden" name="Lowrange" value="0">
+			<input type="hidden" name="highrange" value="999999">
+			<h2 class="h2">SEARCH BY KEYWORD:</h2>
+			<input type="text" size="14" name="FILTER" value="">&nbsp;&nbsp;<input type="submit" name="submit" value="GO!" class="blue">
+		</form>
+	</div>
+	<h1 class="h1">ONLINE HELP</h1>
+	<ul>
+      <li><a href="http://www.coastal.com/Streams/olp.html">Online Preview Help</a><br>
+		&nbsp;<a href="http://www.coastal.com/Streams/streaminghelp.html" style="text-transform: none; font-weight: normal;">- Prewiews Technical FAQ</a><br>
+		&nbsp;<a href="http://www.coastal.com/Streams/FindingPreviews.pdf" style="text-transform: none; font-weight: normal;">- Help Finding Previews</a></li>
+      <li><a href="http://www.coastal.com/orderinfo.html">Ordering Information</a><br>
+		&nbsp;<a href="http://www.coastal.com/orders/home.html" style="text-transform: none; font-weight: normal;">- Online Ordering Help</a></li>
+      <li><a href="http://www.coastal.com/Streams/copyright.html">Terms &amp; Conditions</a></li>
+      <li><a href="http://www.coastal.com/Security_Privacy_Policy.html">Security/Privacy Policy</a></li>
+    </ul>
+	</td>
+  
+  
+  
+  
+  
+  
+
+
+
+<!-- ============================ --->
+<!-- MAIN BODY CONTENT BEGIN HERE --->
+<!-- ============================ --->
+    <td id="maincontent1"><h1>PRIVACY POLICY</h1>
 
 <table border="0" width="95%">
   <tbody><tr>
-    <td width="100%"><b><font face="Verdana" size="2">Coastal Training Technologies Corp. - 
-	Privacy Policy</font></b></td>
+    <td width="100%" class="xl"><strong id="a1">Privacy Policy for Coastal Training Technologies Corp.</strong></td>
   </tr>
   <tr>
-    <td width="100%">
-      <p class="MsoNormal"><font size="2" face="Verdana"></font></p><blockquote><font size="2" face="Verdana"><br>This is the web site of <b>Coastal Training 
-	Technologies Corp.</b>.<br> <p>Our postal address is <br> <b>500 Studio Drive<br> Virginia Beach, VA 23452</b></p> 
-	We can be reached via e-mail at <a href="mailto:info@coastal.com">info@coastal.com</a><br>
-	or you can reach us by telephone at 757-498-9014 or<br>1-800-725-3418 
+    <td width="100%" class="medium">
+      <blockquote><br>This is the web site of <strong>Coastal Training Technologies Corp.</strong>
 	<br><br>
-	Coastal Training Technologies Corp. values you –
-      our customer – and we are committed to delivering you a useful and
-      satisfying experience, while protecting your privacy and data security.<span style="mso-spacerun: yes">&nbsp;</span></font>
-      <p class="MsoNormal"><font size="2" face="Verdana">Coastal.com is a site
-      from which you can order and preview products, obtain information about our products and services, 
-	or pay for access to online materials.
-
-
- 	To facilitate that process, a certain amount
-      of data must be collected from you. </font></p>
-      <p class="MsoNormal"><font size="2" face="Verdana">We welcome you to
-      our website and ask that you review the following privacy policy information presented below.<span style="mso-spacerun: yes">&nbsp;
-      </span>By using the coastal.com website and the related Coastal Training Technologies Corp. websites,
-      you express your agreement with the practices of collecting and
-      maintaining user information described herein.<br><br></font>
-      </p></blockquote>
+	  Our postal address is <br> 
+	  <strong>
+		<dd>500 Studio Drive<br> 
+		</dd></strong><dd><strong>Virginia Beach, VA 23452<br>
+	  </strong>
+	<br>
+	  We can be reached via e-mail at <a href="mailto:info@coastal.com" id="a2"><strong>info@coastal.com</strong></a> 
+	  or you can reach us by telephone at 757-498-9014 or 1-800-725-3418 
+	<br><br>
+	  Coastal Training Technologies Corp. values you – our customer – and we are committed 
+	  to delivering you a useful and satisfying experience, while protecting your privacy 
+	  and data security.
+    <br><br>
+	  Coastal.com is a site from which you can order and preview products, obtain information 
+	  about our products and services, or pay for access to online materials.  To facilitate 
+	  that process, a certain amount of data must be collected from you.
+    <br><br>
+	  We welcome you to
+      our website and ask that you review the following privacy policy information presented below.  
+	  By using the coastal.com website and the related Coastal Training Technologies Corp. websites,
+      you express your agreement with the practices of collecting and maintaining user information 
+	  described herein.
+      </dd></blockquote>
    </td>
   </tr>
   <tr>
-    <td width="100%">
-	<h1><font size="2" face="Verdana">The information we collect</font></h1>
+    <td width="100%" class="medium"><br>
+	<div class="large"><strong>The information we collect</strong></div>
 	<blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">You will be prompted to
-      create a user account (or register) at various points throughout the website, and related sites, 
-	in circumstances when you:</font></p>
+      You will be prompted to create a user account (or register) at various points throughout 
+	  the website, and related sites, in circumstances when you:
       <ul>
-        <li><font size="2" face="Verdana">Purchase
-          products - either for shipment, download, or online access</font></li>
-        <li><font size="2" face="Verdana">Register
-          for seminars, webcasts, etc.</font></li>
-        <li><font size="2" face="Verdana">Access
-          online streaming preview programs</font></li>
-        <li><font size="2" face="Verdana">Request
-          catalogs or other print items</font></li>
-        <li><font size="2" face="Verdana">Request
-          technical support</font></li>
-        <li><font size="2" face="Verdana">Etc.</font></li>
+        <li>Purchase products - either for shipment, download, or online access</li>
+        <li>Register for seminars, webcasts, etc.</li>
+        <li>Access online streaming preview programs</li>
+        <li>Request catalogs or other print items</li>
+        <li>Request technical support</li>
+        <li>Etc.</li>
       </ul>
-      <p class="MsoNormal"><font size="2" face="Verdana">You are free to not
-      register, but you may not be able to partake of all aspects of coastal.com or
-      related sites. Any request for purchase will require all requested
-      information.</font><font size="2" face="Verdana"><o:p>
-      </o:p>
-      </font></p>
-
-
-      <p class="MsoNormal"><font size="2" face="Verdana">Part of the information we collect may include
-	first and last name, contact information, and an email address. We also collect the e-mail addresses 
-	of those who communicate with us via e-mail, the e-mail 
-	addresses of those who make postings to our chat areas (when provided), and information volunteered by 
-	the consumer, such as survey information. Where necessary, we also collect information related to payment
-	processing. We collect email addresses as the means by which we confirm orders and provide access
-      to online courses. In these cases, email addresses are required.
-
-</font><font size="2" face="Verdana"><o:p>
-      </o:p>
-      </font></p>
-
-
-
-
-      <p class="MsoNormal"><font size="2" face="Verdana">In addition to the data
-      you supply to us yourself, our sites also collect certain data
-      automatically which helps us better understand our users. This is
-      information that is typically compiled in reports about our website
-      traffic and does not contain data that identifies you personally.</font><font size="2" face="Verdana"><o:p>
-      </o:p>
-      </font></p>
-      <p class="MsoNormal"><font size="2" face="Verdana">Examples of such data
-      include the Internet protocol (IP) address used to connect your computer
-      to the Internet; computer and connection information such as browser type
-      and version, operating system, and platform; the Uniform Resource Locator
-      (URL) clickstream to, through, and from our website, including date and
-      time. Typically our reporting software collects session information,
-      including page response times, download errors, length of visits to
-      certain pages, page interaction information (such as scrolling, clicks,
-      and mouse-overs), and methods used to browse away from the page.</font><font size="2" face="Verdana"><o:p>
-      </o:p>
-      </font></p>
-      </blockquote>
-
-
-
-
-
-
-	      <blockquote>
-
-      <p class="MsoNormal"><font size="2" face="Verdana">The information we collect is used to fulfill orders, help improve 
-	the content of our website, to notify consumers about updates to our website, to contact our consumers for 
-	marketing purposes.
-</font><font size="2" face="Verdana"><o:p>
-      </o:p>
-      </font></p>
-	      </blockquote>
+      You are free to not register, but you may not be able to partake of all aspects of 
+	  coastal.com or related sites. Any request for purchase will require all requested
+      information.
+	<br><br>
+      Part of the information we collect may include first and last name, contact 
+	  information, and an email address. We also collect the e-mail addresses of 
+	  those who communicate with us via e-mail, the e-mail addresses of those who 
+	  make postings to our chat areas (when provided), and information volunteered 
+	  by the consumer, such as survey information. Where necessary, we also collect 
+	  information related to payment processing. We collect email addresses as the 
+	  means by which we confirm orders and provide access to online courses. In 
+	  these cases, email addresses are required.
+	<br><br>
+      In addition to the data you supply to us yourself, our sites also collect certain 
+	  data automatically which helps us better understand our users. This is information 
+	  that is typically compiled in reports about our website traffic and does not contain 
+	  data that identifies you personally.
+	<br><br>
+      Examples of such data include the Internet protocol (IP) address used to 
+	  connect your computer to the Internet; computer and connection information 
+	  such as browser type and version, operating system, and platform; the 
+	  Uniform Resource Locator (URL) clickstream to, through, and from our 
+	  website, including date and time. Typically our reporting software collects 
+	  session information, including page response times, download errors, length 
+	  of visits to certain pages, page interaction information (such as scrolling, 
+	  clicks, and mouse-overs), and methods used to browse away from the page.
+    <br><br>
+	  The information we collect is used to fulfill orders, help improve the content of 
+	  our website, to notify consumers about updates to our website, to contact our 
+	  consumers for marketing purposes.
+	</blockquote>
 	
 
+    <br>
+	<div class="large"><strong>The use of ‘cookies’</strong></div>
+    <blockquote>
+      As part of the method we use to communicate with you, Coastal's websites 
+	  set ‘cookies.’
+    <br><br>
+      Cookies are small text files that are stored on your hard drive. Cookies store information such
+      as passwords, and settings on a particular website. Your browser and our computer don’t have 
+	  any way of knowing who you are and that is why cookies are very helpful. Your browser looks at 
+	  cookies and determines what your settings are on a particular website. We utilize cookies to 
+	  help create a better experience for our users, and allow us to gather data on who is finding 
+	  our site useful.
+    <br><br>
+      With respect to cookies: We use cookies to record session information, such 
+	  as items that consumers add to their shopping cart, record user-specific 
+	  information on what pages users access or visit, customize web page content 
+	  based on visitors' browser type or other information that the visitor sends 
+	  and prevent content abuse.
+	<br><br>
+      If you do not like the use of cookies, it is up to you to adjust the setting on your computer to
+      disallow cookies being set. You will still be able to access the courses and services of these 
+	  sites, though you may lose some of the functionality we have designed into different parts of 
+	  the site, or certain functionality in our online courseware.  For a more detailed explanation of 
+	  cookies, consult your browser's help files.
+    <br><br>
+    </blockquote>
 
-
-      <h1><font size="2" face="Verdana">The use of ‘cookies’</font></h1>
-      <blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">As part of the method
-      we use to communicate with you, Coastal's websites set ‘cookies.’</font><font size="2" face="Verdana"><o:p>
-      </o:p>
-      </font></p>
-      <p class="MsoNormal"><font size="2" face="Verdana">Cookies are small text
-      files that are stored on your hard drive. Cookies store information such
-      as passwords, and settings on a particular website. Your browser and our
-      computer don’t have any way of knowing who you are and that is why
-      cookies are very helpful. Your browser looks at cookies and determines
-      what your settings are on a particular website. We utilize cookies to help
-      create a better experience for our users, and allow us to gather data on
-      who is finding our site useful.</font><font size="2" face="Verdana"><o:p>
-      </o:p>
-      </font></p>
-
-
-
-      <p class="MsoNormal"><font size="2" face="Verdana">With respect to cookies: We use 
-	cookies to record session information, such as items that consumers add to their 
-	shopping cart, record user-specific information on what pages users access or visit, 
-	customize web page content based on visitors' browser type or other information that 
-	the visitor sends and prevent content abuse.
-</font><font size="2" face="Verdana"><o:p>
-      </o:p>
-      </font></p>
-
-
-
-      <p class="MsoNormal"><font size="2" face="Verdana">If you do not like the
-      use of cookies, it is up to you to adjust the setting on your computer to
-      disallow cookies being set. You will still be able to access the
-      courses and services of these sites, though you may lose some of the
-      functionality we have designed into different parts of the site, or certain functionality
-	in our online courseware.  For a more detailed explanation of 
-	cookies, consult your browser's help files.</font></p>
-      <p class="MsoNormal"><font size="2" face="Verdana"></font><font size="2" face="Verdana"><o:p>
-      </o:p>
-      </font></p>
-      </blockquote>
-            <h1><font size="2" face="Verdana">Security of the information you provide</font></h1>
-      <blockquote>
-
-
-      <p class="MsoNormal"><font size="2" face="Verdana">Coastal
-      Training Technologies will not sell, rent or give your
-      personal information to any entity outside of Coastal. Coastal will use
-      the information you provide to offer you updates, announce new products,
-      etc., which we believe will be of interest to you. Any information you
-      provide will be for the exclusive use of Coastal.<span style="mso-spacerun: yes">&nbsp;
-      </span>When you are contacted by Coastal for marketing purposes you will
-      be given the chance to ‘opt out.’</font></p>
-
-
-      <p class="MsoNormal"><font size="2" face="Verdana">Coastal works to
-      protect the security of your information during transmission by using
-      Secure Sockets Layer (SSL) software, which encrypts information you input.
-	With respect to security: 
-	We always use industry-standard encryption technologies when transferring and receiving consumer 
-	data exchanged with our site. We have appropriate security measures in place in our physical 
-	facilities to protect against the loss, misuse or alteration of information that we have collected 
-	from you at our site.</font></p>
-
-
-
-      <p class="MsoNormal"><font size="2" face="Verdana">When confirming your
-      order onscreen or via email, we will reveal only the first or last 4 or 5 digits of
-      your credit card number.<span style="mso-spacerun: yes">&nbsp; </span>  
-
-</font></p>
-      </blockquote>
-
+	<br>
+	<div class="large"><strong>Security of the information you provide</strong></div>
+    <blockquote>
+      Coastal Training Technologies will not sell, rent or give your personal information to 
+	  any entity outside of Coastal. Coastal will use the information you provide to offer 
+	  you updates, announce new products, etc., which we believe will be of interest to you. 
+	  Any information you provide will be for the exclusive use of Coastal.  When you are 
+	  contacted by Coastal for marketing purposes you will be given the chance to ‘opt out.’
+	<br><br>
+      Coastal works to protect the security of your information during transmission by using Secure Sockets 
+	  Layer (SSL) software, which encrypts information you input. With respect to security: We always use 
+	  industry-standard encryption technologies when transferring and receiving consumer data exchanged 
+	  with our site. We have appropriate security measures in place in our physical facilities to protect 
+	  against the loss, misuse or alteration of information that we have collected from you at our site.
+	<br><br>
+      When confirming your order onscreen or via email, we will reveal only the first 
+	  or last 4 or 5 digits of your credit card number.
+	<br><br>
 
 <!--eCampus
       utilizes Verisign for card processing, to whom the entire card number is
@@ -201,113 +1013,87 @@
       credit card data is maintained in offline databases, not accessible via
       the Internet.  -->
 
-
-<p></p>
-
-	<blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">It is important for you
-      to protect against unauthorized access to your password, your computer and
-      therefore websites with whom you are registered. To protect yourself
-      properly, be sure to sign off or log off when finishing a transaction on
-      any website or if you have logged in to a website which has collected
-      personal data.</font></p>
-      </blockquote>
+      It is important for you to protect against unauthorized access to your password, your computer and
+      therefore websites with whom you are registered. To protect yourself properly, be sure to sign off 
+	  or log off when finishing a transaction on any website or if you have logged in to a website which 
+	  has collected personal data.
+    </blockquote>
 
 
-
-            <h1><font size="2" face="Verdana">Providing Notification</font></h1>
-      <blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">If you do not want to receive e-mail from us in the 
-	future, please let us know by sending us an e-mail at the above address, calling us at the above telephone 
-	number, writing to us at the above address or following the "unsubscribe" policies included in marketing 
-	email material and newsletters.
-</font></p>
-      <p class="MsoNormal"><font size="2" face="Verdana">If you supply us with your postal address online 
-	you may receive periodic mailings from us with information on new products and services or upcoming 	
-	events. If you do not wish to receive such mailings, please let us know by calling us at the number 
-	provided above, e-mailing us at the above address, or writing to us at the above address.
-</font></p>
-      <p class="MsoNormal"><font size="2" face="Verdana">Persons who supply us with their telephone numbers 
-	online may receive telephone contact from us with information regarding orders they have 
-	placed online.  They may also receive telephone contact 
-	from us with information regarding new products and services or upcoming events. If you do not wish to 
-	receive such telephone calls, please let us know by sending us e-mail at the above address, calling us 
-	at the above telephone number, or writing to us at the above address.
-
-</font></p>
-      </blockquote>
-
-
-
-
-	<blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">From time to time, we may use customer information for 
-	new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change 
-	at some time in the future we will post the policy changes to our website to notify you of these changes 
-	and provide you with the ability to opt out of these new uses. If you are concerned about how your information 
-	is used, you should check back at our website periodically.
-
-</font></p>
-      </blockquote>
-
-	<blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">Customers may prevent their information from being used for 
-	purposes other than those for which it was originally collected by calling us at the number provided above, 
-	e-mailing us at the above address, writing us at the above address.
-
-</font></p>
-      </blockquote>
-
-
-	<blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">Upon request we offer visitors the ability to have inaccuracies 
-	corrected in contact information, financial information, unique identifiers, transaction information, and communications 
-	that the consumer/visitor has directed to the site. Consumers can have this information corrected by sending us 
-	e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-</font></p>
-      </blockquote>
-
-	
-	<blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">If you feel that this site is not following its stated 
-	information policy, you may contact us at the above addresses or phone number.
-
-</font></p>
-      </blockquote>
-
-
-	<blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">With respect to Ad Servers: We do not partner with or 
-	have special relationships with any ad server companies. 
-
-</font></p>
-      </blockquote>
+	<br>
+	<div class="large"><strong>Providing Notification</strong></div>
+    <blockquote>
+      If you do not want to receive e-mail from us in the future, please let us 
+	  know by sending us an e-mail at the above address, calling us at the above 
+	  telephone number, writing to us at the above address or following the 
+	  "unsubscribe" policies included in marketing email material and newsletters.
+	<br><br>
+      If you supply us with your postal address online you may receive periodic mailings from us with 
+	  information on new products and services or upcoming events. If you do not wish to receive such 
+	  mailings, please let us know by calling us at the number provided above, e-mailing us at the 
+	  above address, or writing to us at the above address.
+	<br><br>
+      Persons who supply us with their telephone numbers online may receive 
+	  telephone contact from us with information regarding orders they have 
+	  placed online.  They may also receive telephone contact from us with 
+	  information regarding new products and services or upcoming events. 
+	  If you do not wish to receive such telephone calls, please let us 
+	  know by sending us e-mail at the above address, calling us at the 
+	  above telephone number, or writing to us at the above address.
+	<br><br>
+      From time to time, we may use customer information for new, unanticipated uses not previously 
+	  disclosed in our privacy notice. If our information practices change at some time in the future 
+	  we will post the policy changes to our website to notify you of these changes and provide you 
+	  with the ability to opt out of these new uses. If you are concerned about how your information 
+	  is used, you should check back at our website periodically.
+	<br><br>
+      Customers may prevent their information from being used for purposes other 
+	  than those for which it was originally collected by calling us at the number 
+	  provided above, e-mailing us at the above address, writing us at the above 
+	  address.
+	<br><br>
+      Upon request we offer visitors the ability to have inaccuracies corrected in contact information, 
+	  financial information, unique identifiers, transaction information, and communications that the 
+	  consumer/visitor has directed to the site. Consumers can have this information corrected by sending 
+	  us e-mail at the above address, calling us at the above telephone number, writing to us at the above 
+	  address.
+	<br><br>
+      If you feel that this site is not following its stated information policy, you 
+	  may contact us at the above addresses or phone number.
+	<br><br>
+	  With respect to Ad Servers: We do not partner with or have special relationships with any ad 
+	  server companies.
+	</blockquote>
 
 
 
+	<br>
+	<div class="large"><strong>Contact Information</strong></div>
+    <blockquote>
+      We enjoy hearing from you. If you have any comments on this or other issues concerning 
+      Coastal, <a href="http://www.coastal.com/contactus.html" id="a1"><strong>visit this page for contact information</strong></a>.
+	</blockquote>
 
-
-
-
-      <h1><font size="2" face="Verdana">Contact Information</font></h1>
-      <blockquote>
-      <p class="MsoNormal"><font size="2" face="Verdana">We enjoy hearing from
-      you. If you have any comments on this or other issues concerning 
-      Coastal, <span style="color:blue"><a href="http://www.coastal.com/contactus.html">visit
-      this page for contact information</a>.</span><span style="mso-spacerun: yes">
-      </span></font></p>      
-      
-      </blockquote>
-
-   </td>
-  </tr>
-  <tr>
-    <td width="100%">
    </td>
   </tr>
 </tbody></table>
 
+		<div id="spanner"></div>
+	</td>
+  </tr>
+  
+  
+<!-- ====== --->
+<!-- FOOTER --->
+<!-- ====== --->
+  <tr>
+    <td colspan="2" id="footer">
+	Copyright© 2004 - Coastal Training Technologies Corp.
+    </td>
+  </tr>
+</tbody></table>
+
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/48993548/x.js?cmd=file&amp;file=chatScript3&amp;site=48993548&amp;imageUrl=http://www.coastal.com/LivePerson/"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 
 
 
