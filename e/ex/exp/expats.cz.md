@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611101257id_/http%3A//www.expats.cz/cgi-bin/go.cgi%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207010638id_/http%3A//www.expats.cz/cgi-bin/go.cgi%3Fprivacy) for the most accurate reproduction.*
 
-# SMS Gate
+# None
 
 **Expats.cz has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by Expats.cz from time to time. Expats.cz will provide notice of materially significant changes to this privacy policy by posting notice on the Expats.cz site.  
 **
@@ -51,21 +51,5 @@ Expats.cz may disclose information about its users if required to do so by law o
 Expats.cz may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of Expats.cz, its users or the general public.  
 
 
-**5\. International Users  
-**
+**5\. International Users** By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of Expats.cz we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United Kingdom. By providing us with your data, you consent to the transfer of such data.  
 
-By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of Expats.cz we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United Kingdom. By providing us with your data, you consent to the transfer of such data.
-
-**6\. Feedback  
-**
-
-We welcome your feedback at the following address:
-
-Expats.cz HQ  
-Moravska 48  
-Praha 2  
-120 00  
-Czech RepublicContact us by telephone on:Tel: +420 776 355 225  
-Tel: +420222 510 133Email:[office@expats.cz  
-](mailto:office@expats.cz)[support@expats.cz  
-](mailto:support@expats.cz)[privacy@expats.cz](mailto:privacy@expats.cz)
