@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setindia.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113514id_/http%3A//www.setindia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setindia.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403122143id_/http%3A//www.setindia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Setindia.com Entertainment E x t e n d e d
 
