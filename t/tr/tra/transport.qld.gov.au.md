@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2002-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021213155246id_/http%3A//www.transport.qld.gov.au/home.nsf/qt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601111749id_/http%3A//www.transport.qld.gov.au/home.nsf/qt/privacy) for the most accurate reproduction.*
 
 # QLD Transport - Privacy
 
@@ -40,7 +40,7 @@ More information on our use of cookies can be found [**_here._**](https://web.ar
 
 E-mail correspondence sent to this site will be treated as a public record and will be retained as required by relevant legislation.
 
-Your name and address details will not be added to a mailing list nor will we disclose these details to third parties without your consent unless required by law. E-mail messages may be monitored by the Department's web team for system troubleshooting and maintenance purposes.
+Your name and address details will not be added to a mailing list nor will we disclose these details to third parties without your consent unless required by law. E-mail messages may be monitored by the Department's web team for system troubleshooting and maintenance purposes. E-mails requesting assistance will be forwarded to the relevant departmental officer and/or transport service provider. 
 
 **Security**
 
