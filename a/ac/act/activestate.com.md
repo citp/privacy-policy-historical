@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2001-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010205003800id_/http%3A//www.activestate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201181754id_/http%3A//www.activestate.com/privacy.html) for the most accurate reproduction.*
 
 # ActiveState - ActiveState Privacy Statement
 
@@ -6,7 +6,7 @@ ActiveState Web site Privacy Statement
 
 Information Collection and Use
 
-ActiveState is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways that differ from those disclosed in this statement. ActiveState collects information from our users at several different points on our website.
+ActiveState is the sole owner of the customer information collected on this site. We will not sell, share, or rent this information to others in ways that differ from those disclosed in this statement. ActiveState collects information from our users at several different points on our website.
 
 Security
 
@@ -42,11 +42,17 @@ From time to time, our site requests information from users via surveys or conte
 
 Mailing lists
 
-Users may be offered the option of subscribing to relevant mailing lists at the time of purchase, for reasons of user convenience only. We send all new mailing list subscribers a welcome email to verify subscription information. We use some ActiveState mailing lists to post announcements regarding products, services, promotions, and a newsletter. It is not necessary to subscribe to any ActiveState mailing list to use our Web site or buy our products.
+Users may be offered the option of subscribing to relevant mailing lists at the time of purchase, for reasons of user convenience only. All new mailing list subscribers will receive a welcome email verifying subscription information. ActiveState's ASPN mailing lists may be used to post announcements regarding products, services, or promotions. It is not necessary to subscribe to any ASPN mailing list to use our Web site or purchase our products. 
+
+ASPN includes archives of mailing lists hosted by other sites. ActiveState does not control or own the data collected from these lists. For information regarding the data collection practices of the hosting site, please contact them directly.
 
 Requested services and product trials
 
 We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. We also send expiration reminder notices by email to users who have obtained a trial license for one of our products.
+
+Public Forums
+
+ASPN makes mailing list archives, chat rooms, forums, message boards, and/or news groups available to its users. As any information that is disclosed in these areas becomes public, caution should be exercised when disclosing personal information. 
 
 Choice/Opt-in
 
