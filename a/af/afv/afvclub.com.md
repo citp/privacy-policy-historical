@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afvclub.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171827id_/http%3A//www.afvclub.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afvclub.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403155019id_/http%3A//www.afvclub.com/privacy.asp) for the most accurate reproduction.*
 
 # Armed Forces Vacation Club
 
