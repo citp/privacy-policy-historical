@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aera.net privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606095356id_/http%3A//www.aera.net/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aera.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204194403id_/http%3A//www.aera.net/about/privacy.htm) for the most accurate reproduction.*
 
 # AERA Launches New Members Only Site
 
