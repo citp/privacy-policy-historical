@@ -1,80 +1,66 @@
-> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603182735id_/http%3A//www.bbb.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2001-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011017030847id_/http%3A//www.bbb.org/about/privacy.asp) for the most accurate reproduction.*
 
-# Better Business Bureau: Privacy Policy (draft)
+# BBB Online Privacy Policy
 
-|  |  |  |  |  |   
----|---|---|---|---|---|---  
-|  |   
-| 
+**The Better Business Bureau Online Privacy Policy**
 
-       
-
-[Search Hints ](http://www.bbb.org/SearchHints.htm)  
-
-
-|  |   
-| [](http://www.bbb.org/) |  |   
-|   
-[](http://www.bbb.org/BBBComplaints/lookup.asp) |   
-|   
-[](http://www.bbb.org/sitemap/index.asp) |   
-|   
-|   
-|   
-  
+  * CBBB's Commitment to Online Security
+  * Personal Information that CBBB May Collect Online
+  * How CBBB Uses Personal Information Collected Online
+  * How Your Information May Be Shared
+  * Keeping Your Personal Information Accurate
+  * Computer Tracking and Cookies
+  * Problems or Complaints with CBBB Privacy Policy
 
 
-##  The Better Business Bureau  
-Online Privacy Policy
 
-The Better Business Bureau (BBB) system is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you provide online.
+The Council of Better Business Bureaus (CBBB) is the umbrella association for the United States Better Business Bureaus (BBBs), and the CBBB works closely with the Canadian Better Business Bureaus (BBBs) through the Canadian Council of Better Business Bureaus. What follows is CBBB's online privacy policy, which governs personal information gathered on our Internet sites ([www.bbb.org](http://www.bbb.org/), [www.bbbonline.org](http://www.bbbonline.org/) and their **aliases** ) but not the sites of BBBs. 
 
-### Basic Confidentiality Policy
+Each BBB has its own privacy and security policies for its web site, consistent with policy established by the CBBB Board of Directors, whether that site is a sub-domain of [www.bbb.org](http://www.bbb.org/) (for example, www.city.bbb.org) or is hosted independently of CBBB. To check out the privacy and security policies of each BBB, please look here for a list of the BBB websites. 
 
-It is BBB policy that **personal information** , such as your name, postal and e-mail address or telephone number, is **private and confidential**. Accordingly, the personal information you provide is stored in a secure location, is accessible _only_ by designated staff, and is used _only_ for the purposes for which you provide the information (such as to reply to your request or to handle your complaint). For example, when you file a complaint about a business online, the personal information you provide will be used to process your complaint.
+**CBBB's Commitment to Online Security**
 
-_If_ you also indicate on our sites that _you would like to receive information about other BBB programs and services_ , such as scam alerts, publications or membership, your personal information will be added to appropriate BBB mailing lists. You can indicate your desire when completing a complaint form or when you send us e-mail. If at any time you change your mind and would like to add or remove your name from the BBB's mailing list, or correct your personal information, please email us at [webwork@mail.bbb.org](mailto:webwork@mail.bbb.org).
+Physical, electronic and managerial procedures have been employed to safeguard the security and integrity of personal information. Billing information is encrypted whenever transmitted or received online. Personal information is accessible only by staff or volunteers designated to handle online complaints or requests. All CBBB agents and contractors with access to personal information obtained on the CBBB web sites are also bound to adhere to this policy. 
 
-### No Release of Information to Third Parties
+To protect the security of information supplied by businesses applying for participation in the BBBOnLine privacy program, businesses are provided user names and passwords to access their information. 
 
-Personal information **will not be released to third parties** _except_ to further the purpose for which you provide the information, such as sending your complaint to the company for action, or if release is required by law or is pertinent to judicial or governmental investigations or proceedings. _There are no other circumstances under which we will provide or sell personal information to third parties._
+**Personal Information that CBBB May Collect Online** ****
 
-### No Computer Tracking of Identifiable Information
+The CBBB collects the following types of personal information: names, postal and e-mail addresses, phone and facsimile numbers, billing information, vehicle information such as vehicle identification numbers and complaint information. The CBBB may also collect business information from sole proprietorships that apply for membership and for program participation, some of which could constitute personal information, as well as personal information from individuals acting solely in their business capacity. The CBBB does not collect or maintain information from those actually known to be under the age of 13, and no part of our sites are structured to attract anyone under the age of 13. 
 
-Our computer is not set up to track, collect or distribute personal information about its visitors. It does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. This information is used only for internal purposes by BBB technical support staff. 
+**How CBBB Uses Personal Information Collected Online** ****
 
-Our computer also recognizes the site where a visitor "clicked-to-check" on the BBB _OnLine_ seal of a BBB _OnLine_ program participant, but we cannot identify the visitor or the visitor's address. Site information is used to confirm participation in the BBB _OnLine_ program, and may be used to advise participants of the numbers of visitors who come to our BBB _OnLine_ site from their sites. No personal information is collected.
+Unless you consent, we will not use your personal information for any purpose other than that for which it is submitted. We use personal information to reply to inquiries, handle complaints, provide operational notices and in program record-keeping. We also process billing and business requests related to program participation. At certain points where personal information is collected on our site, there may be a box where you may indicate you would like to be on a list to receive information about other CBBB programs and services and about ways to support the CBBB and the CBBB Foundation/BBB Wise Giving Alliance. This election box only appears in places where the department collecting personal information maintains such lists. At any time you can add or remove your name from a CBBB list by contacting us at [webwork@mail.bbb.org](mailto:%20webwork@mail.bbb.org). 
 
-In addition, our web sites track information about the visits to our web sites. For example, we compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. 
+**How Your Information May Be Shared** ****
 
-* * *
+In order to process a complaint, the CBBB may send the complaint to the BBB where the company complained about is headquartered. In certain instances, such as for complaints against charities and certain automobile manufacturers, the CBBB may handle the complaint itself without transfer to a BBB. Depending on the type of complaint, either the CBBB or the BBB will also transfer complaints to the company complained about. Further, when we receive a request or inquiry that must be handled by a BBB, we forward the request or inquiry to the appropriate BBB. By completing a complaint form or sending us a request or inquiry, you are allowing us to forward your information to the appropriate BBB, if necessary, and potentially also to the proper business. Without submission of the requested information, the CBBB will not be able to share your information and process your complaint. 
 
-The Better Business Bureau system is not responsible for the privacy practices or policies of participants in its various programs.
+We never sell or rent your personal information. 
 
-April 22, 1998
+The CBBB may also release personal information to appropriate governmental authorities under the following circumstances:
 
-  
+  * Where release is required by law (for example, a subpoena) or regulation, or is requested by a government agency conducting investigations or proceedings;
+  * Where our records indicate a company may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of; 
+  * Where warranted by a company's failure to participate in the advertising self-regulatory process or respond to an online privacy complaint, or where a company fails to honor the recommendations of the National Advertising Division, Children's Advertising Review Unit, National Advertising Review Board or of BBBOnLine's Privacy Program Review Service; or
+  * Where your communication suggests possible harm to others. 
 
 
-* * *
 
-** [Check Out a Company](http://www.bbb.org/reports/bizreports.asp) / [File a Complaint](http://www.bbb.org/bbbcomplaints/Welcome.asp) / [Dispute Resolution](http://www.dr.bbb.org/drprograms.cfm) / [When You Donate](http://www.bbb.org/about/pas.asp) **   
-** [Consumer Guidance](http://www.bbb.org/subpages/consumpg.asp) / [Business Guidance](http://www.bbb.org/subpages/bizsubpg.asp) / [News & Alerts](http://www.bbb.org/subpages/newssubpg.asp) / [About The BBB](http://www.bbb.org/subpages/abbbsubpg.asp)   
-[Supporters](http://www.bbb.org/subpages/supportsubpg.asp) / [Contact Us](http://www.bbb.org/contact/contact.asp) / **[Home](http://www.bbb.org/) ****/ ** [**Site Map**](http://www.bbb.org/sitemap/index.asp) ********/**** ****[**Links**](http://www.bbb.org/subpages/linkssubpg.asp)** [](http://www.bbb.org/sitemap/index.asp)**   
-****[**Employment Opportunities**](http://www.bbb.org/about/jobs.asp)** [](http://www.bbb.org/sitemap/index.asp)****
+**Help Us Keep Your Personal Information Accurate** ****
 
-****[Terms& Conditions of Use](https://web.archive.org/web/20010603182735id_/http%3A//www.bbb.org/about/terms.asp) /** **[Privacy Policy](http://www.bbb.org/about/privacy.asp)****
+If your personal information changes or you would like to review the personal information we may have on file, please e-mail us with the new information or your review request at [webwork@mail.bbb.org](mailto:%20webwork@mail.bbb.org). Let us also know the department or CBBB program that led to your submission of personal information so we may efficiently locate your information. 
 
-****
+**Computer Tracking and Cookies ******
 
-**** Better Business Bureau, BBB, [BBBOnLine](http://www.bbbonline.org/), and the BBB torch, BBBOnLine and BBB CARE logos are [federally registered service marks owned by the Council of Better Business Bureaus, Inc](http://www.bbb.org/about/notice.asp). These marks may be used, with certain restrictions, by Better Business Bureaus and eligible companies participating in Better Business Bureau programs under a license agreement.  
-[It is CBBB policy to take action against all unauthorized use of its marks.](http://www.bbb.org/about/list.asp)  
-  
-**   
-**  
-  
----  
-  
-[](http://www.bizatlarge.com/default_press.htm)
+Our websites are not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. 
 
-Copyright © 2000. Council of Better Business Bureaus. All rights reserved.
+Our websites also recognize the online site where a visitor "clicked-to-check" on the BBBOnLine seal of a BBBOnLine program participant, but we cannot identify the visitor or the visitor's address. Site information is used to confirm participation in the BBBOnLine program, and may be used to advise participants of the numbers of visitors who come to our BBBOnLine site from their sites. No personal information is collected. 
+
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. CBBB uses non-identifying cookies to provide easier site navigation and access to forms. You can still use the CBBB sites if your browser is set to reject cookies. Our cookies do not generate personal data, do not read personal data from your machine and are never tied to anything that could be used to identify you. 
+
+**Problems or Compliants with CBBB Privacy Policy** **** ****
+
+If you have a complaint about CBBB compliance with this privacy policy, you may contact us at [webwork@mail.bbb.org](mailto:%20webwork@mail.bbb.org). If we are unable to resolve your complaint to your satisfaction, you may elect to proceed with BBBOnLine's Privacy Policy Review Service by completing [the complaint form](http://www.bbbonline.org/consumer/submit.asp).
+
+revised June 4, 2001 
