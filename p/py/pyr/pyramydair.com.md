@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610102843id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223163024id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
@@ -37,7 +37,7 @@ We use IP addresses to analyze trends, administer the site, track user’s movem
 
   
 **Sharing  
-**We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+**We do not share any of our customer information with any 3rd parties.
 
   
 **Links  
