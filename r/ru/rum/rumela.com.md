@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rumela.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603145352id_/http%3A//www.rumela.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumela.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211003359id_/http%3A//www.rumela.com/privacy.htm) for the most accurate reproduction.*
 
 # Rumela Privacy Policy
 
