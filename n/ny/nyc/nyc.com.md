@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209024936id_/http%3A//www.nyc.com/gbl.aspx%3Ft%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628070056id_/http%3A//www.nyc.com/gbl.aspx%3Ft%3D7) for the most accurate reproduction.*
 
-# New York City.com : The Authentic Guide to New York City, New York Hotels, New York Restaurants and New York Tourism
+# New York Hotels : New York City.com : The Authentic Guide to New York City, New York Hotels, New York Restaurants and New York Tourism
 
   
 **NYC.COM Privacy Policy**
