@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203011733id_/http%3A//www1.jonesday.com/admin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206103349id_/http%3A//www1.jonesday.com/admin/privacy.asp%3Flanguage%3DEnglish) for the most accurate reproduction.*
 
 # Jones Day - Privacy Statement
 
@@ -26,7 +26,7 @@ Transmission Errors or Unauthorized Acts: Unfortunately, no data transmission ov
 Security: Any information provided to Jones Day is treated with care and discretion. Jones Day will take a proactive approach to ensure the information is kept private and not misused. 
 
 **3\. QUESTIONS ABOUT THE PRIVACY POLICY**  
-Privacy and security is important to us all. We pursue a full-disclosure approach to responsibly care for the information you have entrusted with us, and we depend on information sharing as our principal means to best serve you. This is why we are committed to building a trusting relationship with you. We will continually monitor customer feedback and seek to improve our services to meet your needs. If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with the Web site, or would like to provide comments, you can send us an e-mail at [counsel@jonesday.com](mailto:counsel@jonesday.com), or contact us by telephone at (216) 586-7556 or by regular mail to: 
+Privacy and security is important to us all. We pursue a full-disclosure approach to responsibly care for the information you have entrusted with us, and we depend on information sharing as our principal means to best serve you. This is why we are committed to building a trusting relationship with you. We will continually monitor customer feedback and seek to improve our services to meet your needs. If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with the Web site, or would like to provide comments, you can send us an e-mail using our feedback form, or contact us by telephone at (216) 586-7556 or by regular mail to: 
 
 Jones Day  
 901 Lakeside Avenue  
