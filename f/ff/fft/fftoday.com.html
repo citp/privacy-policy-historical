@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fftoday.com privacy policy that was archived on 2003-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604021547id_/http%3A//www.fftoday.com/privacy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fftoday.com privacy policy that was archived on 2003-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204213642id_/http%3A//fftoday.com/privacy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Privacy Policy - FF Today</title>
@@ -19,50 +19,73 @@
       <td width="480"><img src="../common/spacer_whi.gif" width="1" height="10"><br>
         <table cellpadding="0" cellspacing="0" border="0" width="100%">
           <tbody><tr> 
-            <td> <!-- BEGIN RICH-MEDIA BURST! CODE --> 
-<script language="JavaScript"> 
-<!-- /* © 1997-2001 BURST! Media, LLC. All Rights Reserved.*/ 
-var TheAdcode = 'ad9191a'; 
-var bN = navigator.appName; 
-var bV = parseInt(navigator.appVersion); 
-var base='http://www.burstnet.com/'; 
-var Tv=''; 
-var agt=navigator.userAgent.toLowerCase(); 
-if (bV>=4) 
-  {ts=window.location.pathname+window.location.search; 
-   i=0; Tv=0; while (i< ts.length) 
-      { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;} 
-  else   {Tv=escape(window.location.pathname); 
-   if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
-          else if (Tv.charAt(1)=="/")
-Tv=""; 
-  if( Tv.charAt(Tv.length-1) == "/") 
-    Tv = Tv + "_";} 
-if (bN=='Netscape'){ 
-     if ((bV>=4)&&(agt.indexOf("mac")==-1))
-{  document.write('<s'+'cript src="'+ 
-      base+'cgi-bin/ads/'+TheAdcode+'.cgi/RETURN-CODE/JS' 
-      +Tv+'">'); 
-     document.write('</'+'script>');    
-} 
-     else if (bV>=3) {document.write('<'+'a href="'+base+'ads/'+ 
-        TheAdcode+'-map.cgi'+Tv+'"target=_top>'); 
-        document.write('<img src="' + base + 'cgi-bin/ads/' + 
-        TheAdcode + '.cgi' + Tv + '" ismap width="468" height="60"' + 
-       ' border="0" alt="Click Here"></a>');} 
- } 
-if (bN=='Microsoft Internet Explorer') 
- document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'
-+ 
-  TheAdcode + '.cgi' + Tv + '/RETURN-CODE" width="468" height="60"' + 
-  'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' + 
-  'frameborder="0" scrolling="no"></ifr'+'ame>'); 
-// --> 
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad9191a.cgi/RETURN-CODE/JS/5448"></script> <noscript><a href="http://www.burstnet.com/ads/ad9191a-map.cgi/ns" target="_top"> 
-<img src="http://www.burstnet.com/cgi-bin/ads/ad9191a.cgi/ns" 
-width="468" height="60" border="0" alt="Click Here"></a> 
-</noscript> 
-<!-- END BURST CODE --> <br>
+            <td> <script language="JavaScript"> 
+<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
+function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
+var bN = navigator.appName;
+var bV = parseInt(navigator.appVersion);
+var base='http://www.burstnet.com/';
+var Tv=''; var Itr='';
+var sz=''; var bkgd='';
+var bgc=''; var rfr='';
+var vr='v=1.0J';
+var agt=navigator.userAgent.toLowerCase();
+
+if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
+if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
+if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
+rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
+                            
+if (bV>=4) {
+  ts=window.location.pathname+window.location.search;
+  i=0; Tv=0; while (i< ts.length)
+    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
+} else {Tv=escape(window.location.pathname);
+  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
+    else if (Tv.charAt(1)=="/")
+ Tv="";
+  if( Tv.charAt(Tv.length-1) == "/")
+   Tv = Tv + "_";
+}
+
+var fCode='<ifr'+'ame id="BURST" src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
+ rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
+ height+'"'+'marginwidth="0" marginheight="0"'+
+ 'hspace="0" vspace="0" frameborder="0" '+
+ 'scrolling="no">';
+ var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
+ vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
+ '" border="0" alt="Click Here"></a>';
+var fCodeEnd = '</ifr'+'ame>';
+
+if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
+ Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
+ '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
+}
+
+if (agt.indexOf("mac")==-1) {
+  document.write(fCode+gCode+fCodeEnd+Itr);
+} else {
+  document.write(gCode);
+}
+}
+//-->
+</script>
+<!-- END BURST CODE -->
+
+
+<!-- BEGIN RICH-MEDIA BURST! CODE --> 
+<script language="JavaScript">
+<!--
+ShowBurstAd('ad9191a','468','60','468x60A','2', 'ffffff', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ad9191a.cgi/NI/if/v=1.0J/zgffffff/sz=468x60A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204213642id_%252Fhttp%25253A%252F%252Ffftoday.com%252Fprivacy%252Findex.htm/5041/RETURN-CODE" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ad9191a-map.cgi/v=1.0J/sz=468x60A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204213642id_%252Fhttp%25253A%252F%252Ffftoday.com%252Fprivacy%252Findex.htm/5041" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ad9191a.cgi/v=1.0J/sz=468x60A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204213642id_%252Fhttp%25253A%252F%252Ffftoday.com%252Fprivacy%252Findex.htm/5041" border="0" alt="Click Here"></a></iframe>
+<noscript><a href="http://www.burstnet.com/ads/ad9191a-map.cgi/ns/v=1.0J/sz=468x60A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad9191a.cgi/ns/v=1.0J/sz=468x60A/" border="0" alt="Click Here"></a> 
+</noscript>
+<!-- END BURST CODE -->
+<br>
               <img src="../common/spacer_whi.gif" width="2" height="6" border="0"></td>
           </tr>
         </tbody></table>
@@ -136,12 +159,18 @@ width="468" height="60" border="0" alt="Click Here"></a>
               Today Forums</a></td>
             <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
           </tr>
-          <tr> 
+		  <tr> 
             <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
-            <td width="139" class="navlink" bgcolor="#eeeeee"> ·&nbsp;<a href="../guest/guest.html">Guest 
-              Writers</a></td>
+            <td width="139" class="navlink" bgcolor="#eeeeee"> ·&nbsp;<a href="../compiler/index.htm">Cheatsheet Compiler</a></td>
             <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
           </tr>
+		  <tr> 
+            <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
+            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="http://sportsbuff.com/partner.asp?pname=fftoday">Mr. 
+              Fantasy Football</a> </td>
+            <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
+          </tr>
+          
 		  <tr> 
             <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
             <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../depth/depth.html">Depth Charts</a> </td>
@@ -149,37 +178,60 @@ width="468" height="60" border="0" alt="Click Here"></a>
           </tr>
 		  <tr> 
             <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
-            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../nflnews/nflnews.html">NFL News</a> </td>
+            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../douglass/preview_14.htm">Game Previews</a> </td>
             <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
           </tr>
 		  <tr> 
             <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
-            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../../nflschedule/nflsched.html">NFL Schedule</a> </td>
-            <td width="1"><img src="../../common/spacer_whi.gif" width="1" height="1" border="0"></td>
-          </tr>
-		  <tr> 
-            <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
-            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../1stround/1stround.html">NFL 
-              Draft: 1st Round</a> </td>
+            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../matchups/wk13_qbs.html">Rankings/Matchups</a> </td>
             <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
           </tr>
 		  <tr> 
             <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
-            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../draft/draft.html">NFL 
-              Draft: Team</a> </td>
+            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../guest/hutchins/scr_wk13.htm">Shot Caller's Report</a> </td>
             <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
           </tr>
-		 <tr> 
+		  <tr> 
             <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
-            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../camp/index.htm">Mini Camp Dates</a> </td>
+            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../rumblings/rumblings.html">Rumblings</a> </td>
+            <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
+          </tr>
+		  <tr> 
+                  <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
+                  <td width="139" class="navlink" bgcolor="#eeeeee"> ·&nbsp;<a href="../stats/qbs.htm">'03 Fantasy Stats</a></td>
+                  <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
+                </tr>
+				
+		  <tr> 
+                  <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
+                  <td width="139" class="navlink" bgcolor="#eeeeee"> ·&nbsp;<a href="../stats/02/qbs.htm">'02 Fantasy Stats</a></td>
+                  <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
+                </tr>
+			<tr> 
+            <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
+            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../davis/lms_13.htm">Last Man Standing</a> </td>
+            <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
+          </tr>	 
+		  <tr> 
+            <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
+            <td width="139" class="navlink" bgcolor="#eeeeee"> ·&nbsp;<a href="../dsheet/index.html">Preseason Projections</a></td>
+            <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
+          </tr>
+		 
+		  <tr> 
+            <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
+            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../tod/index.htm">Team 
+              of the Day</a> </td>
             <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
           </tr>
 		  
-				<tr> 
-                  <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
-                  <td width="139" class="navlink" bgcolor="#eeeeee"> ·&nbsp;<a href="../stats/qbs.htm">'02 Fantasy Stats</a></td>
-                  <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
-                </tr>
+		  <tr> 
+            <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
+            <td width="139" class="navlink" bgcolor="#eeeeee">·&nbsp;<a href="../nflschedule/nflsched.html">NFL Schedule</a> </td>
+            <td width="1"><img src="../common/spacer_whi.gif" width="1" height="1" border="0"></td>
+          </tr>
+		  
+		  
 			
 		  <tr> 
             <td width="5" nowrap="" bgcolor="#eeeeee">&nbsp;</td>
@@ -328,31 +380,66 @@ width="468" height="60" border="0" alt="Click Here"></a>
         <table width="140" border="0" cellspacing="0" cellpadding="0" bgcolor="black">
           <tbody><tr> 
             <td valign="top"><img src="../common/spacer_whi.gif" width="2" height="20"><br>
-              <div align="center"><!-- VC active -->
-<script language="JavaScript">
-<!--
-// ValueParameters
-ValueHost = "hs0255422";
-ValueLoaded = false;
-ValueID = "pagebuster";
-ValueVersion = "1.1";
-ValueBannerType = "std";
-ValueWidth = 120;
-ValueHeight = 600;
-      
+              <div align="center"><script language="JavaScript"> 
+<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
+function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
+var bN = navigator.appName;
+var bV = parseInt(navigator.appVersion);
+var base='http://www.burstnet.com/';
+var Tv=''; var Itr='';
+var sz=''; var bkgd='';
+var bgc=''; var rfr='';
+var vr='v=1.0J';
+var agt=navigator.userAgent.toLowerCase();
+if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
+if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
+if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
+rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
+                            
+if (bV>=4) {
+  ts=window.location.pathname+window.location.search;
+  i=0; Tv=0; while (i< ts.length)
+    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
+} else {Tv=escape(window.location.pathname);
+  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
+    else if (Tv.charAt(1)=="/")
+ Tv="";
+  if( Tv.charAt(Tv.length-1) == "/")
+   Tv = Tv + "_";
+}
+var fCode='<ifr'+'ame id="BURST" src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
+ rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
+ height+'"'+'marginwidth="0" marginheight="0"'+
+ 'hspace="0" vspace="0" frameborder="0" '+
+ 'scrolling="no">';
+ var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
+ vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
+ '" border="0" alt="Click Here"></a>';
+var fCodeEnd = '</ifr'+'ame>';
+if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
+ Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
+ '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
+}
+if (agt.indexOf("mac")==-1) {
+  document.write(fCode+gCode+fCodeEnd+Itr);
+} else {
+  document.write(gCode);
+}
+}
 //-->
 </script>
-<script language="Javascript" src="http://oz.valueclick.com/jsmaster"></script>
+<!-- END BURST CODE -->
+<!-- BEGIN RICH-MEDIA BURST! CODE --> 
 <script language="JavaScript">
 <!--
-if (ValueLoaded) ValueShowAd();
-//-->
-</script>
-<!-- vc active -->
-<noscript>
-<A HREF="http://oz.valueclick.com/redirect?host=hs0255422&size=120x600&t=std&b=indexpage&v=0" TARGET="_top"><IMG BORDER="0" WIDTH="120" HEIGHT="600" ALT="Click here to visit our sponsor"
-SRC="http://oz.valueclick.com/cycle?host=hs0255422&size=120x600&t=std&b=indexpage&noscript=1"></A>
-</noscript></div>
+ShowBurstAd('sk9191a','120','600','120x600A','0', '000000', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/sk9191a.cgi/NI/if/v=1.0J/zg000000/sz=120x600A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204213642id_%252Fhttp%25253A%252F%252Ffftoday.com%252Fprivacy%252Findex.htm/5041/RETURN-CODE" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/sk9191a-map.cgi/v=1.0J/sz=120x600A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204213642id_%252Fhttp%25253A%252F%252Ffftoday.com%252Fprivacy%252Findex.htm/5041" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/sk9191a.cgi/v=1.0J/sz=120x600A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031204213642id_%252Fhttp%25253A%252F%252Ffftoday.com%252Fprivacy%252Findex.htm/5041" border="0" alt="Click Here"></a></iframe>
+<noscript><a href="http://www.burstnet.com/ads/sk9191a-map.cgi/ns/v=1.0J/sz=120x600A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/sk9191a.cgi/ns/v=1.0J/sz=120x600A/" border="0" alt="Click Here"></a> 
+</noscript>
+<!-- END BURST CODE --></div>
               <table width="140" border="0" cellspacing="0" cellpadding="0" bgcolor="black">
                 <tbody><tr> 
                   <td align="left"><img src="../misc_images/btm_left_corner_black.gif" width="9" height="10"></td>
