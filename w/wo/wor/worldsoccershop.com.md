@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsoccershop.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203091621id_/http%3A//worldsoccershop.com/more_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsoccershop.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607040142id_/http%3A//worldsoccershop.com/more_info/privacy.asp) for the most accurate reproduction.*
 
 # WorldSoccerShop.com - Official soccer merchandise from top brands - Nike, adidas, Puma, Reebok, Umbro
 
