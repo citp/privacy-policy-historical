@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216205411id_/http%3A//www.dallasnews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603125303id_/http%3A//www.dallasnews.com/registration/privacy.html) for the most accurate reproduction.*
 
-# The Dallas Morning News: Privacy policy
+# DallasNews.com | Dallas-Fort Worth | Registration
 
 This Privacy Policy discloses the general privacy practices for the Belo Interactive web sites, including DallasNews.com. Belo Interactive, Inc. is a subsidiary of Belo Corp. ("Belo Interactive").
 
@@ -70,7 +70,7 @@ You may also at any time choose to change or delete your profile from our databa
 Belo Interactive maintains industry standard safeguards to ensure the security, integrity and privacy of the Personal Information that you provide to Belo Interactive.
 
 **Contacting Us**  
-If you have any questions or comments about our Privacy Policy, please e-mail us at [helpcenter@bimail4.belointeractive.com](mailto:helpcenter@bimail4.belointeractive.com).
+If you have any questions or comments about our Privacy Policy, please e-mail us at [helpcenter@belointeractive.com](mailto:helpcenter@belointeractive.com).
 
 **Effective Date and Changes**  
-This Privacy Policy is effective as of May 21, 2001. Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes.
+This Privacy Policy is effective as of May 21, 2001. Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
