@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204200347id_/http%3A//www.comingsoon.net/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604190558id_/http%3A//www.comingsoon.net/policy.php) for the most accurate reproduction.*
 
 # Coming Soon! - Privacy Policy
 
@@ -32,7 +32,7 @@ This site makes message boards available to its users. Please remember that any 
 
 #### Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may send us an [e-mail](https://web.archive.org/web/20031204200347id_/http%3A//www.comingsoon.net/contactinfo.php). 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may send us an [e-mail](https://web.archive.org/web/20040604190558id_/http%3A//www.comingsoon.net/contactinfo.php). 
 
 **Choice/Opt-Out**
 
@@ -40,7 +40,7 @@ Our site provides users with the opportunity to opt-out of receiving communicati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [e-mail](https://web.archive.org/web/20031204200347id_/http%3A//www.comingsoon.net/contactinfo.php) us.  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [e-mail](https://web.archive.org/web/20040604190558id_/http%3A//www.comingsoon.net/contactinfo.php) us.  
 _The Webmaster  
 Coming Soon!  
 _  
