@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013103335id_/http%3A//national.citysearch.com.au/feature/824/%3Ffeature_name%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2005-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050214092121id_/http%3A//national.citysearch.com.au/feature/824/%3Ffeature_name%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # national.citysearch.com.au >
 
