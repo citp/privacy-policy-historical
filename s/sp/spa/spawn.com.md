@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091202id_/http%3A//spawn.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603070639id_/http%3A//www.spawn.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # SPAWN.COM >> INFO >> PRIVACY POLICY
 
@@ -6,6 +6,13 @@
 PRIVACY POLICY
 
 This policy covers information collected by the spawn.com Web site, which is the business site for Todd McFarlane Productions, McFarlane Toys, McFarlane Entertainment and all related companies, including the online Spawn Store.
+
+**NOTICE TO USERS**  
+We are committed to protecting your online privacy. In addition to the product descriptions, news, information and features, the spawn.com Web site consists of several other pages. Some of these pages, such as the community message boards, contests and user polls are for our users who are age 13 or older. The Spawn Store is primarily for our users over age 18.
+
+If you are under 18 years old, you must have a parent's permission before purchasing products from the Spawn Store. If you are under 13 years old, please read the Notice to Parents, Child Information, and Parental Rights sections of this policy with your parents before you visit our site. These sections may be accessed by clicking on the links below. Please ask questions about things you do not understand. If you are under age 13, you should get a parent's permission before submitting any information about yourself on this Web site.
+
+**Notice to Parents** | **Child Information** | **Parental Rights**
 
 **CUSTOMER INFORMATION**  
 Information is collected at the time of a sale at the Spawn Store in order to complete the sale and deliver the products. Customer lists are not sold or distributed to third parties.
@@ -19,8 +26,25 @@ We will disclose your personal information, without notice, only if required to 
 **CREDIT CARD TRANSACTIONS**  
 Credit card transactions are processed by Verisign, an online professional payment authorization service chosen for added security and reliability. Only vital necessary information provided by the customer is supplied to Verisign to authorize the charge. Information collected during transactions is maintained in their database for accounting and billing purposes. Information from these transactions is not released to third parties. The spawn.com e-commerce server is protected by SSL encryption.
 
+**NOTICE TO PARENTS**  
+The Spawn.com Web site provides detailed information about our past, present and future product lines, including action figures from the Spawn Series, and from popular movies, sports, comic books, and music. Our Web site also has many interactive features such as online shopping at the Spawn Store, surveys, contests, and message boards. Shopping at the Spawn Store, and participation in contests and message boards are not intended for children under the age of thirteen. If your child is under the age of thirteen, we encourage you to help us protect your child's privacy by monitoring his or her use of the Spawn.com Web site, and by instructing him or her never to provide personal information on this site without your permission. Please read the Child Information and Parental Rights sections of this policy for information and instructions on your rights to review and delete any personal information that was collected from your child.
+
 **CHILD INFORMATION**  
-Spawn.com does not attempt to collect personal information from children. Note: We cannot always determine if a user is a child. Spawn.com does not maintain databases about children.
+Registration is required in order to shop at the Spawn Store, to join the McFarlane Toys Collector's Club and to participate in many of our surveys and contests. Please see the Customer Information section of this policy for a description of the type of information we collect from our users during the registration process and the manner in which we use the information. We never sell or distribute user information to third parties without the user's consent. We do not require a child to disclose more information than is reasonably necessary as a condition for participating in a contest, game, or other activity geared toward children of his or her age group. Spawn.com does not attempt to collect personal information from children and Spawn.com does not intentionally maintain databases containing children's information. Note: We cannot always determine if a user is a child, and sometimes children under the age of thirteen will provide information during the registration process despite the presence of age restriction notices. We encourage you to help us protect your child's privacy by monitoring his or her use of the Spawn.com Web site and instructing your child to abide by the age restriction notices posted on the site.
+
+**PARENTAL RIGHTS**  
+You may review any personal information we have collected about your child, request that we delete some or all of the information, and/or prohibit us from further collecting or using any information from your child by submitting a Parental Access Request to us. The Parental Access Request form may be downloaded by clicking on the following link.
+
+[**Parental Access Request form**](https://web.archive.org/web/20040603070639id_/http%3A//www.spawn.com/info/parentalaccess.pdf) (Adobe PDF, 306kb)
+
+Information that we collect from our users is maintained by the Web Department. Parental Access Request forms may be submitted to us at the following address.
+
+TMP International  
+Attn: Web Department  
+P.O. Box 12230  
+Tempe, AZ 85284-0038
+
+Additional questions pertaining to COPPA compliance may be sent to our customer service department by e-mailing [**customerservice@mcfarlane.com**](mailto:customerservice@mcfarlane.com?Subject=COPPA), or by calling (480) 491-7070.
 
 **WEB SITE LOG FILES**  
 Web site log files are generated that collect the information about your computer hardware and software may also be collected which may include IP address of the visitor, date, time and pages visited, browser type and referring Web site addresses. Aggregate reports for Web site visitors are generated that do not contain personally identifiable information other than the IP address. Log files are only used to generate internal reports about various areas of spawn.com and to maintain quality of service.
@@ -39,8 +63,8 @@ Spawn.com maintains mailing lists for the McFarlane Update e-mail. Subscribers m
 **USER REGISTRATION**  
 Spawn.com does not require user registration to access content at this site, except for those wishing to interact with other fans on the spawn.com message boards or for those who wish to join the McFarlane Toys Collector's Club and purchase items at the online Spawn Store.
 
-If you have any questions about the privacy policy at spawn.com, please e-mail [**customerservice@mcfarlane.com**](mailto:customerservice@mcfarlane.com).
+If you have any questions about the privacy policy at spawn.com, please e-mail [**customerservice@mcfarlane.com**](mailto:customerservice@mcfarlane.com). If you desire to submit a Parental Access Request form, please see the **Parental Rights** section of this page.
 
 From time to time, this Privacy Policy may be updated. We encourage you to periodically review this Policy to be informed of how we are protecting your information.
 
-_updated June 19th, 2003_
+_updated February 18th, 2004_
