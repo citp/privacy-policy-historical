@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationarmy.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604135430id_/http%3A//www.salvationarmy.org/webmain.nsf/sub/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmy.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216220131id_/http%3A//www.salvationarmy.org/webmain.nsf/sub/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -65,7 +65,7 @@ Finally, the Salvation Army may also disclose account information in special cas
 
 **Collection, use and distribution of your information**
 
-The Salvation Army does sell or rent user information. If you do not wish to allow your data to be shared, you can choose not to use a particular service or select to opt out of your information being shared on the registration page 
+The Salvation Army does not sell or rent user information. If you do not wish to allow your data to be shared, you can choose not to use a particular service or select to opt out of your information being shared on the registration page 
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, the Salvation Army cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
