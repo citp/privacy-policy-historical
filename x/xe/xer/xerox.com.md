@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xerox.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605091141id_/http%3A//www.xerox.com/go/xrx/template/009.jsp%3Fview%3DPrivacy%26Xcntry%3DUSA%26Xlang%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xerox.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204052939id_/http%3A//www.xerox.com/go/xrx/template/009.jsp%3Fview%3DPrivacy%26Xcntry%3DUSA%26Xlang%3Den_US) for the most accurate reproduction.*
 
-# Xerox - USA - Privacy
+# Xerox - Privacy
 
 |  **This is the Privacy Policy of the Xerox Corporation in the United States.**
 
@@ -87,7 +87,7 @@ Xerox may send commercial email to customers who have expressed an interest in i
 >  Xerox Corporation  
 >  161 Chestnut Street 875-05B  
 >  Rochester, NY  
->  146404-2411   
+>  14604-2411   
 >  []()  
   
 ---|---  
