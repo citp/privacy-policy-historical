@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216205554id_/http%3A//www.newyorkmetro.com/nym/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601150610id_/http%3A//www.newyorkmetro.com/nym/privacy.htm) for the most accurate reproduction.*
 
 # New York Metro Privacy
 
@@ -17,7 +17,7 @@ Cookies and Tracking Devices
 How to Add, Delete or Change Information  
 Our Security Procedures   
 Children's Privacy Policy  
-[Terms of Usage Agreement](https://web.archive.org/web/20011216205554id_/http%3A//www.newyorkmetro.com/nym/terms.htm)  
+[Terms of Usage Agreement](https://web.archive.org/web/20020601150610id_/http%3A//www.newyorkmetro.com/nym/terms.htm)  
 
 
 Safeguarding your privacy is very important to us. We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include registered members of our website communities and any other person that accesses our websites at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below. 
@@ -34,11 +34,11 @@ Attention: Craig Unger, General Manager
 
 **II.   Website Membership and Participation Eligibility**
 
-You must be thirteen (13) years of age or older to be a member of our website and receive membership benefits, and you must be eighteen (18) years of age or older to participate in our A-List Invitations. We may conduct other contests, sweepstakes and/or special events over our site. To participate in these events, you must meet the designated minimum age requirements (for example, twenty-one years of age or older) for the specific event. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20011216205554id_/http%3A//www.newyorkmetro.com/nym/terms.htm) for additional information on membership and/or participation on our website. 
+You must be thirteen (13) years of age or older to be a member of our website and receive membership benefits, and you must be eighteen (18) years of age or older to participate in our A-List Invitations. We may conduct other contests, sweepstakes and/or special events over our site. To participate in these events, you must meet the designated minimum age requirements (for example, twenty-one years of age or older) for the specific event. Please see our [Terms of Usage Agreement](https://web.archive.org/web/20020601150610id_/http%3A//www.newyorkmetro.com/nym/terms.htm) for additional information on membership and/or participation on our website. 
 
 **III.   Collection of Personal Information**
 
-We provide various informative, educational, and entertaining features as part of this website. To operate these features, we collect certain non-personal and personal information from our visitors for specific purposes. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website activities will be canceled without notice if at any time we discover that you provide false information, or violate any term of our Privacy Policy or our [Terms of Usage Agreement](https://web.archive.org/web/20011216205554id_/http%3A//www.newyorkmetro.com/nym/terms.htm). We may retain personal information for an indefinite amount of time to preserve our database and to comply with various federal and state laws. 
+We provide various informative, educational, and entertaining features as part of this website. To operate these features, we collect certain non-personal and personal information from our visitors for specific purposes. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website activities will be canceled without notice if at any time we discover that you provide false information, or violate any term of our Privacy Policy or our [Terms of Usage Agreement](https://web.archive.org/web/20020601150610id_/http%3A//www.newyorkmetro.com/nym/terms.htm). We may retain personal information for an indefinite amount of time to preserve our database and to comply with various federal and state laws. 
 
 **IV.   Registration for Participation in Website Activities and Services**
 
