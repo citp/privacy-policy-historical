@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2000-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000414095750id_/http%3A//www.stacksandstacks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210104200id_/http%3A//www.stacksandstacks.com/phtml/%3Fpage%3Dprivacy%26title%3DSTACKS%2B%2526%2BSTACKS%2BPRIVACY%2BSTATEMENT) for the most accurate reproduction.*
 
-# Privacy Statement for www.stacksandstacks.com
-
- __
-
-| 
+# Welcome to Stacks & Stacks Site
 
 > ##   
 >  Privacy Statement for www.stacksandstacks.com
 > 
 > Stacks & Stacks has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.stacksandstacks.com.**
+> 
+> As an AOL Certified Merchant, we have agreed to abide by the principles outlined in AOL's Privacy Policy at the following URL: <http://legal.web.aol.com/policy/aolpol/privpol.html>. If you have any questions regarding our privacy practices, please contact [mel@stacksandstacks.com](mailto:mel@stacksandstacks.com).
 > 
 > We will **not** sell, give, trade or in any way release any of your personal information to **Anyone**.
 > 
@@ -21,9 +19,9 @@
 > 
 > **Security**
 > 
-> This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  
->    
->  **Encrypted Credit Card Storage** — Credit card numbers are encrypted when stored on the server. If an unauthorized person accesses the order database, the information is useless.
+> This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+> 
+> **Encrypted Credit Card Storage** — Credit card numbers are encrypted when stored on the server. If an unauthorized person accesses the order database, the information is useless.
 > 
 > **Encrypted in Transit** — The system takes advantage of Secure Sockets Layer (SSL) security, protecting both shoppers and merchants while sensitive information is in transit over the internet. 
 > 
@@ -32,7 +30,8 @@
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 > 
 > Mel Ronick  
->  President
+>  President  
+>  Stacks and Stacks  
+>  [mel@stacksandstacks.com](mailto:mel@stacksandstacks.com)
 > 
-> Stacks and Stacks  
->  [mel@stacksandstacks.com](mailto:mel@stacksandstacks.com)[Return to Stacks & Stacks Home Page](https://web.archive.org/web/20000414095750id_/http%3A//www.stacksandstacks.com/list.htm)
+> [Return to Stacks & Stacks Home Page](http://www.stacksandstacks.com/index.htm)
