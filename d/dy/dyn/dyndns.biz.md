@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyndns.biz privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617130013id_/http%3A//www.dyndns.org/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyndns.biz privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022051id_/http%3A//www.dyndns.org/about/legal/privacy.html) for the most accurate reproduction.*
 
 # DynDNS.org -- Legal -- Privacy Policy
 
