@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mouse2house.co.uk privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209173628id_/http%3A//www.mouse2house.co.uk/index.php%3Fshow%3Dhtml%26page%3Dhelpsecurity.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouse2house.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308175005id_/http%3A//www.mouse2house.co.uk/index.php%3Fshow%3Dhtml%26page%3Dhelpsecurity.htm%23privacy) for the most accurate reproduction.*
 
-# Digital Imaging Supplies - Mouse2House
+# Security and Legal - Mouse2House
 
 Our website payment system is operated by Worldpay PLC who are a part of the Nat West and Royal Bank of Scotland Group. Worldpay process all online payments to Mouse2HouseDirect.com using established security techniques to protect our customers and us against fraud. All sensitive data is encrypted to the maximum-security levels using TLS and SSL technology and digitally-signed protocol using PGP, RSA and MD5. Worldpay servers are certified by Thawte. You can rest assured that no unauthorised person can obtain confidential information.
 
@@ -38,6 +38,8 @@ Most products carry warranties from the manufacturer of the product and are subj
 It is the customers responibility to ensure that any items purchased are compatible and suitable for their intended puropose, ie if you order a Flash Memory Card for your digital device, it is your resposibility to ensure you order the correct item. Mouse2HouseDirect.com cannot accept resposibility for any damage or loss caused by incompatability, incorrect installation, handling, inappropriate or incorrect use, or misuse in any way.
 
 It is the customer's responsibility to check goods on receipt for any transit damage, or discrepancy in the items ordered. Mouse2HouseDirect.com must receive any such notification within 10 working days of receipt of the goods. 
+
+Returns of non-faulty goods ie. ordered incorrectly or unwanted etc. are accepted within 10 working days of receipt of the goods. A return after the 10 day period may be considered on request, at our descretion only and subject to agreement. The value of the returned goods may differ to the purchase price paid, depending on the prevailing sale price of the item at the time of return.
 
 All goods remain the property of Mouse2HouseDirect.com until paid for in full, during any period of non-payment the customer may not sell or transfer the goods to any other party. 
 
