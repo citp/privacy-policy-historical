@@ -1,0 +1,543 @@
+<!--The following is the downloaded HTML source of the clove.co.uk privacy policy that was archived on 2003-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031228074817id_/http%3A//www.clove.co.uk/generic/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Clove Technology - Privacy Statement</title>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
+<meta name="description" content="metatag_description">
+<meta name="keywords" content="keyword,keyword,keyword">
+<meta name="version" content="metatag_date">
+<link rel="stylesheet" href="../includes/styles.css" type="text/css">
+<script language="JavaScript">
+
+      today=new Date();
+      jran=today.getTime();
+
+      // ------------------------------------------------------------------------
+      // Flash popup or Gif banner - Banner:
+      // Attributes - Width, height, flash and gif file locations and target href
+      // "bannerTarget" should be the same as the target specified in the flash
+      // ------------------------------------------------------------------------
+
+      var bannerWidth  = "468";
+      var bannerHeight = "60";
+      var bannerFlash  = "../flash/best_practice_banner.swf";
+      var bannerGif    = "../images/best_practice_banner.gif";
+      var bannerTarget = "../multimedia/multimedia.asp";
+
+      // ------------------------------------------------------------------------
+      // Flash popup or Gif banner - Cookie:
+      // Attributes - Cookie name, cookie path
+      // ------------------------------------------------------------------------
+
+      var cookieName   = "redPopupCookie";
+      var cookiePath   = "/bestpractice";
+
+      // ------------------------------------------------------------------------
+      // Flash popup or Gif banner - Popup:
+      // Attributes - Popup page URL, width, height and popup window attributes
+      // ------------------------------------------------------------------------
+
+      var popupPage    = ""; // If this is an empty string, popup will not be shown
+      var popupWidth   = "350";
+      var popupHeight  = "275";
+      var popupAttributes = "toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=" + popupWidth + ",height=" + popupHeight;
+
+      // ------------------------------------------------------------------------
+      // Flash popup or Gif banner - STOP:
+      // You probably won't need to edit any of the code below this point.
+      // ------------------------------------------------------------------------
+
+      var today = new Date();
+      var jran  = today.getTime();
+      var requiredVersion = 5;
+
+      var flash2Installed = false;    // boolean. true if flash 2 is installed
+      var flash3Installed = false;    // boolean. true if flash 3 is installed
+      var flash4Installed = false;    // boolean. true if flash 4 is installed
+      var flash5Installed = false;    // boolean. true if flash 5 is installed
+      var flash6Installed = false;    // boolean. true if flash 6 is installed
+      var maxVersion = 6;             // highest version we can actually detect
+      var actualVersion = 0;          // version the user really has
+      var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
+      var jsVersion = 1.0;            // the version of javascript supported
+
+      var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
+      var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if we're on windows
+      var isMac = (navigator.appVersion.indexOf("Mac") != -1) ? true : false; // true if we're on windows
+      var isMc5 = (navigator.appVersion.indexOf("MSIE 5") != -1) ? true : false; // false if we're not using version 5 - for Mac only
+      var isMc6 = (navigator.appVersion.indexOf("MSIE 6") != -1) ? true : false; // false if we're not using version 5 - for Mac only
+
+      var jsVersion = 1.1;
+
+      // ------------------------------------------------------------------------
+      // GetCookie script - gets the value of the cookie passed to it
+      // ------------------------------------------------------------------------
+
+      function getCookie(name) {
+
+        // returns the value of the cookie
+
+        var dc = document.cookie
+        var prefix = name + "=";
+        var begin = dc.indexOf("; " + prefix);
+        if (begin == -1) {
+          begin = dc.indexOf(prefix);
+          if (begin != 0) {return null;}
+        } else {
+          begin += 2;
+        }
+        var end = document.cookie.indexOf(";", begin);
+        if (end == -1) {end = dc.length;}
+        return unescape(dc.substring(begin + prefix.length, end));
+      }
+
+      // ------------------------------------------------------------------------
+      // Writes out the HTML for the banner ad, whether its flash or gif
+      // ------------------------------------------------------------------------
+
+      function writeBannerAd() {
+
+        var outputstring = "";
+        if (hasRightVersion) {
+
+          // Write out the flash banner
+          document.write ("  <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0' WIDTH='" + bannerWidth + "' HEIGHT='" + bannerHeight + "' id='flashbanner' ALIGN=''>");
+          document.write ("    <PARAM NAME=movie VALUE='" + bannerFlash + "'>");
+          document.write ("    <PARAM NAME=quality VALUE=high>");
+          document.write ("    <PARAM NAME=bgcolor VALUE=#FFFFFF>");
+          document.write ("    <EMBED src='" + bannerFlash + "' quality=high bgcolor=#FFFFFF WIDTH='" + bannerWidth + "' HEIGHT='" + bannerHeight + "' NAME='flashbanner' ALIGN='' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/go/getflashplayer' swLiveConnect='true'></EMBED>");
+          document.write ("  </OBJECT>");
+
+        } else {
+
+          // Write out the gif banner.
+          document.write ("  <A HREF='" + bannerTarget + "'><IMG SRC='" + bannerGif + "' width='" + bannerWidth + "' height='" + bannerHeight + "' border='0'></a>");
+
+        }
+      }
+
+      // ------------------------------------------------------------------------
+      // End Flash Popup of Gif Banner Functions
+      // ------------------------------------------------------------------------
+
+      function ExplorerFix() {
+        for (a in document.links) document.links[a].onfocus = document.links[a].blur;
+      }
+
+      function MM_openBrWindow(theURL,winName,features) { //v2.0
+        window.open(theURL,winName,features);
+      }
+
+      function MM_jumpMenu(targ,selObj,restore){ //v3.0
+        eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+        if (restore) selObj.selectedIndex=0;
+      }
+
+      function writeDate() {
+        // Written by Phil Collins of redweb, v1.0
+        // Outputs date as :: Monday 11th March 2002
+        var isNetscape = (navigator.appName.substring(0,8) == "Netscape") ? true : false;
+        var today = new Date();
+        var day = today.getDate();
+        var year = today.getYear();
+        var endDay = "th";
+        var arrDayofWeek = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+        var arrMonthNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+
+        if (isNetscape) {year = (year - 1) + 1901;}
+        if ((day == "1") || (day == "21") || (day == "31")) {endDay = "st";}
+        if ((day == "2") || (day == "22")) {endDay = "nd";}
+        if ((day == "3") || (day == "23")) {endDay = "rd";}
+        document.write(arrDayofWeek[today.getDay()] + " " + day + endDay + " " + arrMonthNames[today.getMonth()] + " " + year);
+      }
+
+      function addfavourite() {
+       var myurl, mytitle;
+       myurl = "http://www.clove.co.uk";
+       mytitle = "Clove Technology";
+       if (document.all) {
+         window.external.AddFavorite(myurl, mytitle);
+       }
+      }
+
+      function rnd() {
+        ia=9301;
+        ic=49297;
+        im=233280;
+        jran = (jran*ia+ic) % im;
+        return jran/(im*1.0);
+      }
+
+      function rand(number) {
+        return Math.ceil(rnd()*number);
+      }
+
+      function changeImage() {
+        var dimg = document.images;
+        maxNum = 4;                        // the total number of images the script can pick from:
+        myNum=(rand(maxNum));              // ie; image1.jpg; image2.jpg; image3.jpg; image4.jpg
+
+        // Ensure this name .randomimage. is the same as the name given to the image above.
+
+        dimg.randomimage.src = ("../images/random/image" + myNum + ".jpg");
+      }
+
+      // ------------------------------------------------------------------------
+      // Script to confirm user knows that exiting site will clear auto login
+      // ------------------------------------------------------------------------
+
+        function signOut(){
+          var agree=confirm("Signing out will stop automatic login. Are you sure you wish to continue?");
+          if (agree){window.location = "../generic/signin.asp?straction=signout";}
+        }
+
+      // ------------------------------------------------------------------------
+      // Checks the value of the search box when a user clicks into the box
+      // ------------------------------------------------------------------------
+
+        function checkValue() {
+          if (document.forms['search'].strsearch.value == '') {
+            document.forms['search'].strsearch.value='Keyword Search';
+          } else if (document.forms['search'].strsearch.value == 'Keyword Search') {
+            document.forms['search'].strsearch.value='';
+          }
+        }
+
+      // ------------------------------------------------------------------------
+      // Checks the value of the search box when a user clicks the search button
+      // ------------------------------------------------------------------------
+
+    		function checksubmit() {
+    			if (document.forms['search'].strsearch.value != 'Search by keyword') {
+    				document.search.submit();
+    			}
+    		}
+
+      // ------------------------------------------------------------------------
+      // Opens a popup window for images viewed from the Clear CM system
+      // ------------------------------------------------------------------------
+
+        function showImage(strImage, intX, intY) {
+          window.open ("../includes/viewimage.asp?image=" + strImage, "NewWin", "resizable=1,width=" + (intX + 3) + ",height=" + (intY + 40));
+        }
+
+      // ------------------------------------------------------------------------
+      // Flash Popup of Gif Banner actual script
+      // ------------------------------------------------------------------------
+
+      if (popupPage.length != 0) {
+        if (isIE && isWin) {
+          document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
+          document.write('on error resume next \n');
+          document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
+          document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
+          document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
+          document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
+          document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');
+          document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
+        }
+
+        if (navigator.plugins) {
+          if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+
+            var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+            var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
+            var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
+
+            flash2Installed = flashVersion == 2;
+            flash3Installed = flashVersion == 3;
+            flash4Installed = flashVersion == 4;
+            flash5Installed = flashVersion == 5;
+            flash6Installed = flashVersion >= 6;
+          }
+        }
+
+        for (var i = 2; i <= maxVersion; i++) {
+          if (eval("flash" + i + "Installed") == true) {actualVersion = i};
+        }
+
+        if (navigator.userAgent.indexOf("WebTV") != -1) {actualVersion = 3};
+
+        if (actualVersion >= requiredVersion) {
+
+          var PopupCookie = getCookie(cookieName);
+          hasRightVersion = true;
+
+          if (PopupCookie != '1') {
+
+            var hour = today.getHours();
+
+            for (hi=1; hour<24; hi++) {
+              hour = hour + 1;
+            }
+
+            if (document.layers) {hi = hi - 1;}
+            today.setTime(today.getTime() + hi * 60 * 60 * 1000);
+
+            var curCookie = (cookieName + "=1; expires=" + today.toGMTString() + "; path=" + cookiePath);
+            document.cookie = curCookie;
+            window.open(popupPage,'popup',popupAttributes);
+
+          }
+        }
+      }
+
+      if (document.all) { document.onmousedown = ExplorerFix; }
+
+      NS4    = (document.layers);
+      IE4    = (document.all);
+      ver4   = (NS4 || IE4);
+      IE5    = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
+      NS6    = false;
+
+      var strAlert = "";
+      if (strAlert!="") { alert(strAlert); }
+
+      var formfnt1 = "<font face='Verdana, Arial' size='1'>";
+      var formfnt2 = "<font face='Verdana, Arial' size='2'>";
+      var formfnt3 = "<font face='Verdana, Arial' size='3'>";
+
+      if (document.getElementById) {NS6 = true;}
+
+      function MM_swapImgRestore() { //v3.0
+        var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+      }
+
+      function MM_preloadImages() { //v3.0
+        var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+          var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+          if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+      }
+
+      function MM_findObj(n, d) { //v4.0
+        var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+          d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+        if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+        for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+        if(!x && document.getElementById) x=document.getElementById(n); return x;
+      }
+
+      function MM_swapImage() { //v3.0
+        var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+         if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+      }
+    </script>
+
+</head>
+<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onload="MM_preloadImages('../images/tlRo_03.gif','../images/tlRo_06.gif','../images/tlRo_02.gif','../images/tlRo_05.gif','../images/tlRo_07.gif','../images/tlRo_04.gif','../images/tlRo_01.gif')">
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="200"><a href="../index/index.asp"><img src="../images/logo.gif" width="200" height="67" border="0" alt="Clove Technology"></a></td>
+    <td width="580">
+      <table width="580" border="0" cellspacing="0" cellpadding="0" background="../images/tt_01.gif">
+        <tbody><tr>
+          <td width="20" class="dateheader"><img src="../images/tt_01.gif" width="20" height="20"></td>
+          <td width="*" class="dateheader">
+            <script language="Javascript">writeDate();</script>Wednesday 19th February 2020
+          </td>
+          <td width="*" align="right" class="dateheader">
+            <b><a href="../shop/basket.asp" class="dateheader">Shopping Basket</a></b> | Current Total: £0.00
+          </td>
+          <td width="20"><img src="../images/spacer.gif" width="20" height="20"></td>
+        </tr>
+      </tbody></table>
+      <table width="580" border="0" cellspacing="0" cellpadding="0" background="../images/tb_02.gif">
+        <tbody><tr>
+          <td><img src="../images/tt_03.gif" width="20" height="25"></td>
+        </tr>
+      </tbody></table>
+      <table width="580" border="0" cellspacing="0" cellpadding="0" background="../images/tb_02.gif">
+        <tbody><tr>
+          <td>
+            
+          <!-- Primary navigation starts -->
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<table border="0" cellspacing="0" cellpadding="0" height="22">
+  <tbody><tr>
+    <td><a href="../products/products.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_2" id="primary_2" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122902_0,-1,21,null,'primary_2');MM_swapImage('tl02','','../images/tlRo_02.gif',1)}"><img name="tl02" border="0" src="../images/tl_02.gif" width="71" height="22" alt="Products"></a></td>
+    <td><a href="../products/accessories.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="accessories" id="accessories" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122903_0,-1,21,null,'accessories');MM_swapImage('tl09','','../images/tlRo_09.gif',1)}"><img name="tl09" border="0" src="../images/tl_09.gif" width="84" height="22" alt="Accessories"></a></td>
+    <td><a href="../products/special.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_5" id="primary_5" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122905_0,-1,21,null,'primary_5');MM_swapImage('tl051','','../images/tlRo_05.gif',1)}"><img name="tl051" border="0" src="../images/tl_05.gif" width="99" height="22" alt="Special Offers"></a></td>
+    <td><a href="../news/news.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_3" id="primary_3" onmouseover="if (window.mmWroteMenu){MM_swapImage('tl03','','../images/tlRo_03.gif',1)}"><img name="tl03" border="0" src="../images/tl_03.gif" width="48" height="22" alt="News"></a><a href="../downloads/downloads.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_6" id="primary_6" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122906_0,-1,21,null,'primary_6');MM_swapImage('tl06','','../images/tlRo_06.gif',1)}"><img name="tl06" border="0" src="../images/tl_06.gif" width="79" height="22" alt="Downloads"></a></td>
+    <td><a href="../faqs/faq.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_7" id="primary_7" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122907_0,-1,21,null,'primary_7');MM_swapImage('tl07','','../images/tlRo_07.gif',1)}"><img name="tl07" border="0" src="../images/tl_07.gif" width="40" height="22" alt="FAQs"></a></td>
+    <td><a href="../ordering/hub.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_4" id="primary_4" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122904_0,-1,21,null,'primary_4');MM_swapImage('tl04','','../images/tlRo_04.gif',1)}"><img name="tl04" border="0" src="../images/tl_04.gif" width="69" height="22" alt="Ordering"></a></td>
+    <td><a href="../aboutUs/hub.asp" onmouseout="if (window.mmWroteMenu){MM_swapImgRestore()}" name="primary_1" id="primary_1" onmouseover="if (window.mmWroteMenu){MM_showMenu(window.mm_menu_0513122901_0,0,21,null,'primary_1');MM_swapImage('tl01','','../images/tlRo_01.gif',1)}"><img name="tl01" border="0" src="../images/tl_01.gif" width="65" height="22" alt="About Us"></a></td>
+  </tr>
+</tbody></table>
+
+          <!-- Primary navigation ends -->
+
+        
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<!--Central page area starts --> <table width="780" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> <td width="200"> <table width="200" border="0" cellpadding="0" cellspacing="0"> <tbody><tr>
+<td width="20"><img src="../images/tb_01.gif" width="20" height="25"></td><td background="../images/tb_02.gif" width="170">
+
+                      <!--
+                      Searchbox.asp feeds into header.asp
+                      *****************
+                      Search Top 
+                      *****************
+                      -->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <form name="search" method="post" action="../includes/search.asp"></form>
+      <td> 
+        &nbsp;<input type="text" size="13" name="strsearch" value="Keyword Search" style="width:140px" class="bodytext" onfocus="checkValue();" onblur="checkValue();">
+      		<input type="Hidden" name="strReferer" value="english">
+	  </td>
+      <td> <a href="javascript:checksubmit();"><img src="../images/bttnSearch.gif" width="25" height="22" alt="Go" border="0"></a></td>
+    
+  </tr>
+</tbody></table>
+<!-- 
+                      *****************
+                      Search End 
+                      *****************
+                      -->
+ </td><td width="10"><img src="../images/tb_03.gif" width="10" height="25"></td></tr>
+</tbody></table></td><td bgcolor="#FFFFFF" width="580" valign="middle" align="left"> <table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr> <td><img src="../images/spacer.gif" width="8" height="25"></td><td class="breadcrumb" align="left"><font color="#999999">Location:</font>
+<a href="../index/index.asp" class="breadcrumb">Homepage</a> <img src="../images/breadcrumb.gif" width="8" height="8" alt="Next level">
+Privacy Statement</td></tr> </tbody></table></td></tr> </tbody></table><table border="0" cellspacing="0" cellpadding="0" width="780">
+<!--Width of left nav column --> <tbody><tr> <td width="200" valign="top"> <table border="0" cellpadding="0" cellspacing="0" width="200" bgcolor="#336699">
+<tbody><tr> <td><img src="../images/st_01.gif" width="30" height="45"></td><td><img src="../images/stPrivacyStatement.gif" width="160" height="45" alt="E-Newsletter"></td><td><img src="../images/st_03.gif" width="10" height="45"></td></tr>
+<tr> <td background="../images/st_04.gif" valign="top"><img src="../images/st_04.gif" width="30" height="1"></td><td background="../images/st_05.gif" class="sbtext" valign="top">
+<p>This policy sets out our policy on the privacy of the individual. Clove Technology
+takes your privacy seriously and information will be used in accordance with the
+Data Protection Act 1998.</p></td><td background="../images/st_06.gif" valign="top"><img src="../images/st_06.gif" width="10" height="1"></td></tr>
+<tr> <td><img src="../images/st_07.gif" width="30" height="10"></td><td><img src="../images/st_08.gif" width="160" height="10"></td><td><img src="../images/st_09.gif" width="10" height="10"></td></tr>
+</tbody></table></td><td><img src="../images/blank.gif" width="10" height="10" alt="spacer"></td><td align="top" valign="top">
+<!--Width of content area --> <table width="550" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> <td valign="top"> <p><span class="titletext"><br> <br> Privacy statement
+for Clove Technology</span></p><p><span class="titletext">1.0 - Your consent</span><br>
+<font class="bodytext">Your use of this website signifies your consent to us collecting
+and using personal data about you as specified below in accordance with this policy
+statement. Should we choose to change these terms for any reason, the changes
+will be posted here so that you are always kept informed about the collection
+and use of your personal information, and when we disclose it.</font></p><p><b><span class="titletext">2.0
+- How do we collect personal information about you and how is it used?<br> </span></b></p><table border="0" cellspacing="2" cellpadding="0" span="" class="bodytext">
+<tbody><tr align="left" valign="top"> <td width="25"><font class="bodytext">2.1</font></td><td><font class="bodytext">You
+may provide personal information when communicating with us.</font></td></tr>
+<tr align="left" valign="top"> <td><font class="bodytext">2.2</font></td><td><font class="bodytext">You
+may use our services and give your name and e-mail address to make a comment about
+our services or Web site.</font></td></tr> <tr align="left" valign="top"> <td><font class="bodytext">2.3</font></td><td><font class="bodytext">If
+you enter a competition or promotion we will ask your name, address and e-mail
+address.</font></td></tr> <tr align="left" valign="top"> <td><font class="bodytext">2.4</font></td><td><font class="bodytext">We
+will collect information about your tastes and preferences, both when you tell
+us and by analysis of customer traffic, including using "cookies".</font></td></tr>
+<tr align="left" valign="top"> <td><font class="bodytext">2.5</font></td><td><font class="bodytext">It
+may be that some of the personal information you give us (for example, about your
+health and age) is sensitive personal data within the meaning of the Data Protection
+Act 1998. Such information ("sensitive information") will only be disclosed
+with your express consent.</font></td></tr> <tr align="left" valign="top"> <td><font class="bodytext">2.6</font></td><td>
+<p><font class="bodytext">It may be that you provide us details of credit or debit
+cards or bank accounts in making payment to us. Any such information (confidential
+financial information) will be disclosed only in accordance with the disclosure
+policy below.</font></p></td></tr> <tr align="left" valign="top"> <td><font class="bodytext">2.7</font></td><td>
+<p><font class="bodytext">We may use personal information collected about you
+to help us develop the layout of our website to ensure that our site is as useful
+and enjoyable as possible.</font></p></td></tr> <tr align="left" valign="top">
+<td><font class="bodytext">2.8</font></td><td><font class="bodytext">We may use
+personal information collected about you to let you know about functions on our
+Web site or changes to our <a href="terms.asp">terms and conditions</a> of use.</font></td></tr>
+</tbody></table><p><span class="titletext">3.0 - Traffic data</span><br> <font class="bodytext">We
+may provide aggregate statistics about sales, customers, traffic patterns and
+information to third parties, but these statistics will not include any information
+that identifies you.</font> </p><p><span class="titletext">4.0 - Disclosure policy</span><br>
+<font class="bodytext">We reserve the right to access and disclose individually
+identifiable information to enable us to comply with applicable laws and lawful
+government requests to operate its systems and to protect itself or its users.</font>
+</p><p><span class="titletext">5.0 - How do we protect your information?</span><br>
+<font class="bodytext">We have strict security procedures covering the storage
+of your information in order to prevent unauthorised access and to comply with
+the terms of the Data Protection Act 1998. This means that sometimes we may ask
+you for proof of identity or for other personal information before we can process
+your call or enquiry further.</font> </p><p><span class="titletext">6.0 - What
+are cookies and how do we deal with them?</span><br> <font class="bodytext">A
+cookie is a piece of information that is stored on your computer's hard drive.
+It is normally sent by a web server to you and enables the server to collect information
+back from your site visit.</font> </p><p><b><span class="titletext">7.0 - How
+to contact us</span></b><br> <font class="bodytext">If you have any questions
+or concerns about this policy, please call us on <span class="title"><b>0870 7270037</b></span> or email to <a href="mailto:sales@clove.co.uk" class="linktext">sales@clove.co.uk</a></font></p><br>
+<br> </td></tr> </tbody></table></td><td align="top"><img src="../images/blank.gif" width="20" height="10" alt="spacer"></td></tr>
+</tbody></table><!--Central page area ends --> 
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="center">
+    <td class="footertext" colspan="6" valign="top">
+      <p><br>
+        <br>
+        <a href="../index/index.asp" class="footertext" title="Home (Access key = h)" accesskey="h">HOME</a>
+        | <a href="../aboutUs/hub.asp" class="footertext" title="ABOUT US (Access key = 1)" accesskey="1">ABOUT
+        US</a> | <a href="../products/products.asp" class="footertext" title="PRODUCTS (Access key = 2)" accesskey="2">PRODUCTS</a>
+        | <a href="../news/news.asp" class="footertext" title="NEWS (Access key = 3)" accesskey="3">NEWS</a>
+        | <a href="../ordering/hub.asp" class="footertext" title="ORDERING (Access key = 4)" accesskey="4">ORDERING
+        </a> | <a href="../products/special.asp" class="footertext" title="SPECIAL OFFERS (Access key = 5)" accesskey="5">SPECIAL
+        OFFERS</a> | <a href="../downloads/downloads.asp" class="footertext" title="DOWNLOADS (Access key = 6)" accesskey="6">DOWNLOADS</a>
+        | <a href="../faqs/faq.asp" class="footertext" title="FAQs (Access key = 7)" accesskey="7">FAQs</a>
+        | <a href="../generic/contact.asp" class="footertext" title="Contact (Access key = 8)" accesskey="8">CONTACT</a><br>
+      </p>
+      <p><a href="../generic/privacy.asp" class="footertext">Privacy policy</a>
+        | <a href="../generic/terms.asp" class="footertext">Terms &amp; conditions</a><br>
+        <script language="Javascript1.2">
+                  <!--
+                  //if the user is using IE 4+
+                  if (document.all) {
+                    document.write('Bookmark this site - <a href="javascript:addfavourite();" class="footertext">click here</a>');
+                  } else {
+                    // The user is not using IE so don't display the link.
+                  }
+                  // -->
+                </script>
+        <br>
+        <br>
+        © 2003 Clove Technology<br>
+        All rights reserved. All trademarks acknowledged<br>
+        Web site designed and developed by <a href="http://www.redweb.co.uk" target="_blank" class="footertext">redweb
+        Ltd</a></p>
+      <p><br>
+      </p>
+    </td>
+  </tr>
+</tbody></table>
+
+<!-- ******** BEGIN ALLWEBMENUS CODE FOR dropmenu ******** -->
+<img name="awmMenuPathImg-dropmenu" id="awmMenuPathImg-dropmenu" src="../includes/awmmenupath.gif" alt="">
+<script type="text/javascript">var MenuLinkedBy='AllWebMenus [2]', awmBN='502'; awmAltUrl='';</script>
+<script src="../includes/dropmenudyn.js" language="JavaScript1.2" type="text/javascript"></script><script src="https://web.archive.org/web/20031228074817id_/http%3A//www.clove.co.uk/includes/awmData-dropmenu/awmlib2.js"></script>
+<script type="text/javascript">awmBuildMenu();</script>
+<!-- ******** END ALLWEBMENUS CODE FOR dropmenu ******** -->
+
+</body></html>
