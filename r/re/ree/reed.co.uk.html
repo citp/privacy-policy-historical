@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the reed.co.uk privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604181905id_/http%3A//www.reed.co.uk/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reed.co.uk privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207214719id_/http%3A//www.reed.co.uk/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
-<!-- Meta Tag Information(See Adrian Young) -->
+<!-- Meta Tag Information(See Anthony James Merryfield) -->
 
 <meta http-equiv="Content-Type" content="text/html;CHARSET=iso-8859-1">
 <meta name="revisit" content="5 days">
@@ -20,12 +20,12 @@
 
 
 <!-- Include Scripts and Styles here -->
-<link rel="stylesheet" href="/styles/reed.css" type="text/css">
-<link rel="stylesheet" href="/styles/core.css" type="text/css">
-<link rel="stylesheet" href="/styles/font.asp" type="text/css">
-<link rel="shortcut icon" href="/images/core/favicon.ico">
-<script language="javascript" src="/scripts/genericScripts.js" type="text/javascript"></script>
-<script language="javascript" src="/scripts/leftMenu.asp" type="text/javascript"></script>
+<link rel="stylesheet" href="http://www.reed.co.uk/styles/reed.css" type="text/css">
+<link rel="stylesheet" href="http://www.reed.co.uk/styles/core.css" type="text/css">
+<link rel="stylesheet" href="http://www.reed.co.uk/styles/font.asp" type="text/css">
+<link rel="shortcut icon" href="http://www.reed.co.uk/images/core/favicon.ico">
+<script language="javascript" src="http://www.reed.co.uk/scripts/genericScripts.js" type="text/javascript"></script>
+<script language="javascript" src="http://www.reed.co.uk/scripts/leftMenu.asp" type="text/javascript"></script>
 
 
 
@@ -49,8 +49,8 @@
 	<table width="770" border="0" cellpadding="0" cellspacing="0" style="position:relative; top:1px;">
 
 <tbody><tr class="bgColorDark">
-	<td align="left"><a href="/" target="_top"><img src="/images/REED/headerLogoReed.gif" width="150" height="45" alt="reed.co.uk home" border="0"></a></td>
-	<td align="right"><a href="/"><img src="/images/REED/headerStrapline.gif" width="265" height="45" alt="Where the right job looks for you" border="0"></a></td>
+	<td align="left"><a href="/" target="_top"><img src="http://www.reed.co.uk/images/REED/headerLogoReed.gif" width="150" height="45" alt="reed.co.uk home" border="0"></a></td>
+	<td align="right"><a href="/"><img src="http://www.reed.co.uk/images/REED/headerStrapline.gif" width="265" height="45" alt="Where the right job looks for you" border="0"></a></td>
 </tr>
 </tbody></table>
 
@@ -61,11 +61,10 @@
 	<!--
 		getTodaysDate()
 	//-->
-	</script>30th January 2020</b> 
-	| <b>81,391
-</b> jobs online | <b>22,129
-</b> recruiters | <b>283</b> branches
-</div></td>
+	</script></b> 
+	| <b>113,639
+</b> jobs online | <b>31,232
+</b> recruiters</div></td>
 	
 </tr>
 </tbody></table>
@@ -79,7 +78,7 @@
 	<td width="146" valign="top">
 	
 	<!-- Include Left Menu Options Here -->
-	<img src="/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0"><tbody><tr class="navTable"><td class="bgColorDark" height="18"><span class="navHeader">Quick Search</span></td></tr><tr><td><form action="/cgi-bin/search_results.asp" method="POST" name="searchForm">
+	<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0"><tbody><tr class="navTable"><td class="bgColorDark" height="18"><span class="navHeader">Quick Search</span></td></tr><tr><td><form action="/cgi-bin/search_results.asp" method="POST" name="searchForm">
 <input type="hidden" name="Search" value="YES">
 <input type="hidden" name="Searchtype" value="Simple">
 <input type="Text" class="menuForm" name="Occupation" value="Keywords" maxlength="40" "size="13&quot;" onfocus="if(this.value=='Keywords')this.value='';">
@@ -207,8 +206,14 @@
 <option value="203">--Limerick</option>
 <option value="6">Europe</option>
 <option value="172">-Europe excl. UK</option>
-<option value="69">-------Worldwide</option>
+<option value="69">Rest of World</option>
 
+</select><br><select name="JobType" class="menuForm" onchange="JobType_OnChange('');">
+<option value="" selected="">Job Type...</option>
+<option value="1">Permanent</option>
+<option value="2">Contract</option>
+<option value="3">Part-Time</option>
+<option value="4">Temporary</option>
 </select><br><select name="SalRange" class="menuForm">
 <option value=":">Salary Range...</option>
 <option value=":15000.00">Up to £15,000</option>
@@ -220,38 +225,246 @@
 <option value="50000.00:75000.00">£50,000 - £75,000</option>
 <option value="75000.00:100000.00">£75,000 - £100,000</option>
 <option value="100000.00:">£100,000 +</option>
-</select><br><select name="JobType" class="menuForm">
-<option value="" selected="">Job Type...</option>
-<option value="1">Permanent</option>
-<option value="2">Contract</option>
-<option value="3">Part-Time</option>
-<option value="4">Temporary</option>
 </select><br>
+	<script language="JavaScript" type="text/javascript">
+
+	function JobType_OnChange(defaultSal)
+	{
+		var salaryCombo = document.searchForm.SalRange;
+
+		if (defaultSal == '')
+		{
+			var salaryValue = salaryCombo.options[salaryCombo.selectedIndex].value.toString();
+		}
+		else
+		{
+			var salaryValue = defaultSal;
+		}
+
+		
+		var jobTypeCombo = document.searchForm.JobType;
+		var jobTypeValue = jobTypeCombo.options[jobTypeCombo.selectedIndex].value.toString();
+		
+
+		// it is impossible to write the &euro; entity into a combo
+		// box dynamically, so we need to use the € symbol directly
+
+		switch (jobTypeValue)
+		{
+			case '':
+				break;
+			case '2':
+			case '4':
+				salaryCombo.options.length = 10;
+salaryCombo.options[0] = new Option('Pay Rate...', ':', false, false);
+salaryCombo.options[1] = new Option('£4 - £5 per hr', '7800.00:9750.00', false, false);
+salaryCombo.options[2] = new Option('£5 - £7.50 per hr', '9750.00:14625.00', false, false);
+salaryCombo.options[3] = new Option('£7.50 - £10 per hr', '14625.00:19500.00', false, false);
+salaryCombo.options[4] = new Option('£10 - £12.50 per hr', '19500.00:24375.00', false, false);
+salaryCombo.options[5] = new Option('£12.50 - £15 per hr', '24375.00:29250.00', false, false);
+salaryCombo.options[6] = new Option('£15 - £20 per hr', '29250.00:39000.00', false, false);
+salaryCombo.options[7] = new Option('£20 - £25 per hr', '39000.00:48750.00', false, false);
+salaryCombo.options[8] = new Option('£25 - £30 per hr', '48750.00:58500.00', false, false);
+salaryCombo.options[9] = new Option('£30+ per hr', '58500.00:', false, false);
+
+				break;
+			default:
+				salaryCombo.options.length = 10;
+salaryCombo.options[0] = new Option('Salary Range...', ':', false, false);
+salaryCombo.options[1] = new Option('Up to £15,000', ':15000.00', false, false);
+salaryCombo.options[2] = new Option('£15,000 - £20,000', '15000.00:20000.00', false, false);
+salaryCombo.options[3] = new Option('£20,000 - £25,000', '20000.00:25000.00', false, false);
+salaryCombo.options[4] = new Option('£25,000 - £30,000', '25000.00:30000.00', false, false);
+salaryCombo.options[5] = new Option('£30,000 - £40,000', '30000.00:40000.00', false, false);
+salaryCombo.options[6] = new Option('£40,000 - £50,000', '40000.00:50000.00', false, false);
+salaryCombo.options[7] = new Option('£50,000 - £75,000', '50000.00:75000.00', false, false);
+salaryCombo.options[8] = new Option('£75,000 - £100,000', '75000.00:100000.00', false, false);
+salaryCombo.options[9] = new Option('£100,000 +', '100000.00:', false, false);
+
+				break;
+		}
+
+		// first see if we can find an exact match
+		for (var i = 0; i < salaryCombo.options.length; i++)
+		{
+			if (salaryCombo.options[i].value.toString() == salaryValue)
+			{
+				salaryCombo.selectedIndex = i;
+				return;
+			}
+		}
+
+		// no exact match found so we need to map to the closest match
+		if (salaryValue.indexOf(":") < 0)
+		{
+			var minSal = "";
+			var maxSal = "";
+		}
+		else
+		{
+			var minSal = salaryValue.substring(0, salaryValue.indexOf(":"));
+			var maxSal = salaryValue.substring(salaryValue.indexOf(":") + 1, salaryValue.length);
+		}
+
+		if (minSal == "")
+		{
+			if (maxSal == "")
+			{
+				var avgSal = 0;
+			}
+			else
+			{
+				var avgSal = parseFloat(maxSal) * 0.75;
+			}
+		}
+		else
+		{
+			if (maxSal == "")
+			{
+				// £30+ ph (58500.00) needs to map to 75-100k
+				var avgSal = (minSal == "58500.00") ? 80000 : parseFloat(minSal);
+			}
+			else
+			{
+				var avgSal = (parseFloat(minSal) + parseFloat(maxSal)) / 2;
+			}
+		}
+
+		for (var i = 1; i < salaryCombo.options.length; i++)
+		{
+			salaryValue = salaryCombo.options[i].value.toString();
+
+			if (salaryValue.indexOf(":") < 0)
+			{
+				minSal = "";
+				maxSal = "";
+			}
+			else
+			{
+				minSal = salaryValue.substring(0, salaryValue.indexOf(":"));
+				maxSal = salaryValue.substring(salaryValue.indexOf(":") + 1, salaryValue.length);
+			}
+
+			if (minSal == "")
+			{
+				minSal = 0;
+			}
+			else
+			{
+				minSal = parseFloat(minSal);
+			}
+
+			if (maxSal == "")
+			{
+				maxSal = 10000000;
+			}
+			else
+			{
+				maxSal = parseFloat(maxSal);
+			}
+
+			if ((avgSal >= minSal) && (avgSal <= maxSal))
+			{
+				salaryCombo.selectedIndex = i;
+				return;
+			}
+		}
+
+		salaryCombo.selectedIndex = 0;
+	}
+
+	JobType_OnChange('');
+
+	</script>
+	
 	</form></td>
 	</tr>
 	<tr class="navTable">
 	<td class="bgColorMid">
 	<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td valign="bottom">
-	<img src="/images/core/menuCutoff.gif" class="antiNavTable"></td>
+	<img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td>
 	<td align="right">
-	<script language="javascript">
-	<!--
-		submitForm('searchForm','Search')
-	//-->
-	</script><a href="#" onclick="document.forms.searchForm.submit()" class="submitButton">Search</a>
-	<input type="image" src="/images/core/buttonRight.gif" border="0" align="absmiddle" vspace="1" hspace="1"></td>
-	</tr></tbody></table>
+	<a href="javascript:submitSearch('reed')" class="submitButton">Search</a>
+	<a href="javascript:submitSearch('reed')" class="submitButton">
+		<img src="http://www.reed.co.uk/images/core/buttonRight.gif" border="0" align="absmiddle" vspace="1" hspace="1">
+	</a>
+	</td></tr></tbody></table>
 	</td>
 	</tr>
 	
 	</tbody></table>
+	<!-- Added by YN 25/10/2002
+		Modified to check that some search criteria has been selected.
+	-->
+	<script language="javascript">
+	<!--
+	function submitSearch(strStream)
+	{
+		var blnValid=true;
+
+		if ((document.searchForm.Occupation != null) &&
+			(document.searchForm.JobSector != null))
+		{
+			if (((document.searchForm.Occupation.value=="Keywords") ||
+				(document.searchForm.Occupation.value=="")) &&
+				(document.searchForm.JobSector.value==""))
+			{
+				switch (strStream)
+				{
+				case "education":
+					if ((document.searchForm.County.value=="") &&
+						(document.searchForm.JobType.value==""))
+					{
+						blnValid=false;
+					}
+					break;
+
+				case "city":
+					if ((document.searchForm.JobType.value=="") &&
+						(document.searchForm.SalRange.value==":"))
+					{
+						blnValid=false;
+					}
+					break;
+
+				case "temping":
+					if ((document.searchForm.County.value=="") &&
+						(document.searchForm.SalRange.value==":"))
+					{
+						blnValid=false;
+					}
+					break;
+
+				default:
+					if ((document.searchForm.County.value=="") &&
+						(document.searchForm.JobType.value=="") &&
+						(document.searchForm.SalRange.value==":"))
+					{
+						blnValid=false;
+					}
+					break;
+				}
+			}
+		}
+		
+		if (blnValid==false)
+		{
+			alert('In order to search for jobs on reed.co.uk you must select some search criteria');
+		}
+		else
+		{
+			document.searchForm.submit();
+		}
+	}
+	//-->
+	</script>
 	
-			<img src="/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
+			<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr class="navTable">
 				<td class="bgColorDark" height="18"><span class="navHeader">Search Options</span></td>
 			</tr>
 			<tr>
-				<td><img src="/images/core/miscSpacer.gif" height="1"></td>
+				<td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td>
 			</tr>
 			<tr class="navTable">
 				<td class="bgColorMid">
@@ -263,30 +476,18 @@
 					</td>
 			</tr>
 			<tr class="navTable">
-				<td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td>
+				<td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td>
 			</tr>
 			</tbody></table>
-			<img src="/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
+			<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr class="navTable">
 				<td class="bgColorDark" height="18"><span class="navHeader">Quick Navigation</span></td>
 			</tr>
 			<tr>
-				<td><img src="/images/core/miscSpacer.gif" height="1"></td>
+				<td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td>
 			</tr>
 			<tr class="navTable">
-				<td class="bgColorMid"><ilayer height="35px">
-<layer visibility="show">
-<span onclick="dropit2(dropmenu0,-3);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=sectors" onclick="if(document.layers) return dropit(event, 'document.dropmenu0')" class="navContent">Featured Sectors</a></span>
-</layer>
-</ilayer><br>
-
-<ilayer height="35px">
-<layer visibility="show">
-<span onclick="dropit2(dropmenu1,16);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=specialisms" onclick="if(document.layers) return dropit(event, 'document.dropmenu1')" class="navContent">Specialist Interests</a></span>
-</layer>
-</ilayer><br>
-
-<ilayer height="35px">
+				<td class="bgColorMid"><ilayer height="35px"><layer visibility="show"><span onclick="dropit2(dropmenu0,-3);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=sectors" onclick="if(document.layers) return dropit(event, 'document.dropmenu0')" class="navContent">Featured Sectors</a></span></layer></ilayer><br><ilayer height="35px"><layer visibility="show"><span onclick="dropit2(dropmenu1,16);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=specialisms" onclick="if(document.layers) return dropit(event, 'document.dropmenu1')" class="navContent">Specialist Interests</a></span></layer></ilayer><br><ilayer height="35px">
 <layer visibility="show">
 <span onclick="dropit2(dropmenu2,35);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=careerTools" onclick="if(document.layers) return dropit(event, 'document.dropmenu2')" class="navContent">Career Tools</a></span>
 </layer>
@@ -306,27 +507,33 @@
 
 <ilayer height="35px">
 <layer visibility="show">
-<span onclick="dropit2(dropmenu5,92);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=companyInformation" onclick="if(document.layers) return dropit(event, 'document.dropmenu5')" class="navContent">Company Information</a></span>
+<span onclick="dropit2(dropmenu5,92);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=companyInformation" onclick="if(document.layers) return dropit(event, 'document.dropmenu5')" class="navContent">About Reed</a></span>
 </layer>
 </ilayer><br>
 
 <ilayer height="35px">
 <layer visibility="show">
-<span onclick="dropit2(dropmenu6,111);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=help" onclick="if(document.layers) return dropit(event, 'document.dropmenu6')" class="navContent">Help</a></span>
+<span onclick="dropit2(dropmenu6,111);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=contactInformation" onclick="if(document.layers) return dropit(event, 'document.dropmenu6')" class="navContent">Contact Information</a></span>
+</layer>
+</ilayer><br>
+
+<ilayer height="35px">
+<layer visibility="show">
+<span onclick="dropit2(dropmenu7,130);event.cancelBubble=true;return false"><a href="/cgi-bin/alternateMenu.asp?category=help" onclick="if(document.layers) return dropit(event, 'document.dropmenu7')" class="navContent">Help</a></span>
 </layer>
 </ilayer>
 </td>
 			</tr>
 			<tr class="navTable">
-				<td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td>
+				<td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td>
 			</tr>
 			</tbody></table>
 			
-			<img src="/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">	
+			<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">	
 						<tbody><tr class="navTable"><td class="bgColorDark" height="18"><span class="navHeader">Tempted by temping?</span></td></tr>
-						<tr><td><img src="/images/core/miscSpacer.gif" height="1"></td></tr>
-						<tr class="navTable"><td class="bgColorMid"><span class="menuNotLink">You should be! Find a temp job which makes the most of your skills and experience&nbsp;<a href="/temping/"><img src="/images/core/buttonRight.gif" align="absmiddle" border="0"></a></span></td></tr>
-						<tr class="navTable"><td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td></tr>	</tbody></table></td>
+						<tr><td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td></tr>
+						<tr class="navTable"><td class="bgColorMid"><span class="menuNotLink">You should be! Find a temp job which makes the most of your skills and experience&nbsp;<a href="/temping/"><img src="http://www.reed.co.uk/images/core/buttonRight.gif" align="absmiddle" border="0"></a></span></td></tr>
+						<tr class="navTable"><td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td></tr>	</tbody></table></td>
 	<td valign="top" class="contentCell"><!-- Content start -->	<h4>Reed Online Privacy Policy</h4>
 	<b>Why do we have a privacy policy? </b>
 	<br><a href="#reed">Reed</a> is committed to privacy for everyone who accesses the site.  Under the <a href="#protection">Data Protection Acts</a> of 1984 and 1998, we must comply with certain regulations which are designed to ensure that any <a href="#data">data</a> you provide to us is processed with due care and attention.
@@ -353,7 +560,7 @@
 	<br>'Cookies' are ways of saving a small amount of personal information.  We only use them to save your user name or password to allow easy access to our site.  We advise you not to use 'cookies' if your computer is shared by other people.  For more information on 'cookies'<br><a href="/cgi-bin/externalLink.asp?Link=http://www.cookiecentral.com">click here</a>.
 	
 	</p><p><b>How do you remove your name from the database? </b>
-	<br>If you wish to remove your name from our database, please fill in the <a href="#form">e-mail form</a> at the bottom of this page with the word 'unsubscribe' and we will remove your information from our database as soon as possible.</p><p>
+	<br>Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 12 months after it was last used. After 12 months of non-usage we will contact you and ask you if you want to keep your details on our database. If you do not indicate by signing in to reed.co.uk that you wish your details to be retained on our database, we will <a href="#archiving">archive</a> your account.</p><p>
 	
 	</p><hr>
 
@@ -361,7 +568,10 @@
 
 	<a name="aggregate"><b>Aggregate</b> - this is when all data is collected and processed as a total to enable us to look at such information as demographic and geographic trends, so that we can try to produce a better service in the future.
 	
-	</a><p><a name="aggregate"></a><a name="data"><b>Data</b> - information which is being processed by equipment operating automatically in response to instructions given for that purpose, is recorded with the intention that it should be processed by means of such equipment, is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system or forms part of an accessible record.   
+	</a><p><a name="aggregate"></a><a name="archiving"><b>Archiving</b> - this is the process where candidate users are asked if they want their personal data to remain on the reed.co.uk database. If a user does not indicate that they wish their details to be retained, their record is deleted from the database.  This means that the candidate will not be able to sign in to reed.co.uk and also means that their details will not be accessible by any recruiters using reed.co.uk. Please note this process is carried out in accordance with the Employment Agencies Act and the Data Protection Act.
+
+	
+	</a></p><p><a name="data"><b>Data</b> - information which is being processed by equipment operating automatically in response to instructions given for that purpose, is recorded with the intention that it should be processed by means of such equipment, is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system or forms part of an accessible record.   
 	
 	</a></p><p><a name="protection"><b>Data Protection Acts 1984 and 1998</b> - these are the Acts of Parliament which set out principles relating to the use of data to ensure that the rights of the person who is the subject of the data are protected under the law.   
 	
@@ -445,15 +655,15 @@
 
 	<!-- Content end --><tr><td width="146" valign="top">
 	
-	<img src="/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
+	<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
 	<form action="/cgi-bin/login.asp" method="post" name="signIn"></form>
 	<input type="hidden" name="action" value="test">
-	<input type="hidden" name="jumpto" value="/privacy.asp?">
+	<input type="hidden" name="jumpto" value="/privacy.asp">
 	<tbody><tr class="navTable">
 		<td class="bgColorDark" height="18"><span class="navHeader">Sign In</span></td>
 	</tr>
 	<tr>
-		<td><img src="/images/core/miscSpacer.gif" height="1"></td>
+		<td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td>
 	</tr>
 	<tr class="navTable">
 		<td class="bgColorMid"><table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -470,103 +680,111 @@
 		<!--
 			submitForm('signIn','Sign In')
 		//-->
-		</script><a href="#" onclick="document.forms.signIn.submit()" class="submitButton">Sign In</a> 
-		<input type="image" src="/images/core/buttonRight.gif" border="0" align="absmiddle" vspace="1" hspace="1"><br>
-		<a href="http://www.reed.co.uk/cgi-bin/register.asp" class="submitButton">Not Registered?</a>&nbsp;<a href="/cgi-bin/register.asp"><img src="/images/core/buttonRight.gif" border="0" align="absmiddle" vspace="1" hspace="1"></a><br><a href="javascript:openWindow('/cgi-bin/help.asp?Subject=SignIn','helpPane','220','260');" class="submitButton">Help<span style="text-decoration:none;">&nbsp;</span><img src="/images/core/buttonHelp.gif" alt="Help" align="absmiddle" border="0" vspace="1" hspace="1"></a>
+		</script> 
+		<input type="image" src="http://www.reed.co.uk/images/core/buttonRight.gif" border="0" align="absmiddle" vspace="1" hspace="1"><br>
+		<a href="http://www.reed.co.uk/cgi-bin/register.asp" class="submitButton">Not Registered?</a>&nbsp;<a href="/cgi-bin/register.asp"><img src="http://www.reed.co.uk/images/core/buttonRight.gif" border="0" align="absmiddle" vspace="1" hspace="1"></a><br><a href="javascript:openWindow('/cgi-bin/help.asp?Subject=SignIn','helpPane','220','260');" class="submitButton">Help<span style="text-decoration:none;">&nbsp;</span><img src="http://www.reed.co.uk/images/core/buttonHelp.gif" alt="Help" align="absmiddle" border="0" vspace="1" hspace="1"></a>
 		</div>
 		</td>
 	</tr>
 	<tr class="navTable">
-		<td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td>
+		<td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td>
 	</tr>
 	
 	</tbody></table>
 		
 	<!-- Include Right Menu Options here -->
 	<!-- Specialist Info -->
-	<img src="/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
+	<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr class="navTable">
 		<td class="bgColorDark" height="18"><span class="navHeader">Featured Sectors</span></td>
 	</tr>
 	<tr>
-		<td><img src="/images/core/miscSpacer.gif" height="1"></td>
+		<td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td>
 	</tr>
 	<tr class="navTable">
-		<td class="bgColorMid"><a href="/finance/" class="navContent">Accountancy &amp; Banking</a><br>
-		<a href="/admin/" class="navContent">Admin, PA &amp; Secretarial</a><br>
-		<a href="/catering/" class="navContent">Catering &amp; Hospitality</a><br>
-		<a href="/education/" class="navContent">Education</a><br>
-		<img src="/images/core/miscSpacer.gif" height="4"><br><a href="/engineering/" class="navConClose">Engineering, Property &amp; Construction</a><br>
-		<img src="/images/core/miscSpacer.gif" height="3"><br><a href="/graduates/" class="navContent">Graduates</a><br>
-		<a href="/health/" class="navContent">Health &amp; Social Care</a><br>
-		<img src="/images/core/miscSpacer.gif" height="4"><br><a href="/recruitment/" class="navConClose">HR, Recruitment &amp; Training</a><br>
-		<img src="/images/core/miscSpacer.gif" height="7"><br><a href="/insurance/" class="navConClose">Insurance &amp; Financial Services</a><br>
-		<img src="/images/core/miscSpacer.gif" height="3"><br><a href="/it/" class="navContent">IT &amp; Comms</a><br>
-		<a href="/legal/" class="navContent">Legal</a><br>
-		<a href="/marketing/" class="navContent">Marketing &amp; PR</a><br>
-		<a href="/sales/" class="navContent">Sales</a>
+		<td class="bgColorMid"><a href="http://www.reed.co.uk/finance/" class="navContent">Accountancy &amp; Banking</a><br>
+		<a href="http://www.reed.co.uk/admin/" class="navContent">Admin, PA &amp; Secretarial</a><br>
+		<a href="http://www.reed.co.uk/catering/" class="navContent">Catering &amp; Hospitality</a><br>
+		<a href="http://www.reed.co.uk/education/" class="navContent">Education</a><br>
+		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="4"><br><a href="http://www.reed.co.uk/engineering/" class="navConClose">Engineering, Property &amp; Construction</a><br>
+		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="3"><br><a href="http://www.reed.co.uk/graduates/" class="navContent">Graduates</a><br>
+		<a href="http://www.reed.co.uk/health/" class="navContent">Health &amp; Social Care</a><br>
+		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="4"><br><a href="http://www.reed.co.uk/recruitment/" class="navConClose">HR, Recruitment &amp; Training</a><br>
+		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="7"><br><a href="http://www.reed.co.uk/insurance/" class="navConClose">Insurance &amp; Financial Services</a><br>
+		<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="3"><br><a href="http://www.reed.co.uk/it/" class="navContent">IT &amp; Comms</a><br>
+		<a href="http://www.reed.co.uk/legal/" class="navContent">Legal</a><br>
+		<a href="http://www.reed.co.uk/marketing/" class="navContent">Marketing &amp; PR</a><br>
+		<a href="http://www.reed.co.uk/sales/" class="navContent">Sales</a>
 		</td>
 	</tr>
 	<tr class="navTable">
-		<td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td>
+		<td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td>
 	</tr>
 	</tbody></table>
 <!-- End Specialist Info -->
-<img src="/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0"><tbody><tr class="navTable"><td class="bgColorDark" height="18"><span class="navHeader">Freecruitment</span></td></tr><tr><td><img src="/images/core/miscSpacer.gif" height="1"></td></tr><tr class="navTable"><td class="bgColorMid"><div class="menuNotLink">It's free to advertise all your jobs on reed.co.uk</div><div align="right"><a href="/freecruitment/" class="submitButton">Advertise Free<span style="text-decoration:none;">&nbsp;</span><img src="/images/core/buttonRight.gif" align="absmiddle" border="0" hspace="1"></a></div></td></tr><tr class="navTable"><td class="bgColorMid"><img src="/images/core/menuCutoff.gif" class="antiNavTable"></td></tr></tbody></table></td>
+<img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="2"><table width="146" border="0" cellpadding="0" cellspacing="0"><tbody><tr class="navTable"><td class="bgColorDark" height="18"><span class="navHeader">Freecruitment</span></td></tr><tr><td><img src="http://www.reed.co.uk/images/core/miscSpacer.gif" height="1"></td></tr><tr class="navTable"><td class="bgColorMid"><div class="menuNotLink">It's free to recruit through reed.co.uk</div><div align="right"><a href="/freecruitment/" class="submitButton">Recruit now<span style="text-decoration:none;">&nbsp;</span><img src="http://www.reed.co.uk/images/core/buttonRight.gif" align="absmiddle" border="0" hspace="1"></a></div></td></tr><tr class="navTable"><td class="bgColorMid"><img src="http://www.reed.co.uk/images/core/menuCutoff.gif" class="antiNavTable"></td></tr></tbody></table></td>
 </tr>
 </tbody></table></center>
-<div id="dropmenu0" style="position:absolute; width:148; visibility:hidden; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+
+
+
+<div id="dropmenu0" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
 <script language="JavaScript1.2">
 if (document.all)
 for (i=0;i<menu0.length;i++)
 document.write(menu0[i])
 </script>
 </div>
-<div id="dropmenu1" style="position:absolute; width:148; visibility:hidden; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+<div id="dropmenu1" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
 <script language="JavaScript1.2">
 if (document.all)
 for (i=0;i<menu1.length;i++)
 document.write(menu1[i])
 </script>
 </div>
-<div id="dropmenu2" style="position:absolute; width:148; visibility:hidden; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+<div id="dropmenu2" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
 <script language="JavaScript1.2">
 if (document.all)
 for (i=0;i<menu2.length;i++)
 document.write(menu2[i])
 </script>
 </div>
-<div id="dropmenu3" style="position:absolute; width:148; visibility:hidden; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+<div id="dropmenu3" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
 <script language="JavaScript1.2">
 if (document.all)
 for (i=0;i<menu3.length;i++)
 document.write(menu3[i])
 </script>
 </div>
-<div id="dropmenu4" style="position:absolute; width:148; visibility:hidden; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+<div id="dropmenu4" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
 <script language="JavaScript1.2">
 if (document.all)
 for (i=0;i<menu4.length;i++)
 document.write(menu4[i])
 </script>
 </div>
-<div id="dropmenu5" style="position:absolute; width:148; visibility:hidden; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+<div id="dropmenu5" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
 <script language="JavaScript1.2">
 if (document.all)
 for (i=0;i<menu5.length;i++)
 document.write(menu5[i])
 </script>
 </div>
-<div id="dropmenu6" style="position:absolute; width:148; visibility:hidden; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+<div id="dropmenu6" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
 <script language="JavaScript1.2">
 if (document.all)
 for (i=0;i<menu6.length;i++)
 document.write(menu6[i])
 </script>
 </div>
-
-
+<div id="dropmenu7" style="position:absolute; width:148; visibility:hidden; HEIGHT: 0px; border:1px solid white; padding:0px; padding-left:4px;" class="bgColorMid">
+<script language="JavaScript1.2">
+if (document.all)
+for (i=0;i<menu7.length;i++)
+document.write(menu7[i])
+</script>
+</div>
 
 <!-- End of Page -->
 
-<!-- REEDWWW2 --></body></html>
+<!-- REEDWWW1 --></body></html>
