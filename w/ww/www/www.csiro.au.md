@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.csiro.au privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215842id_/http%3A//www.csiro.au/index.asp%3Ftype%3DaboutCSIRO%26xml%3Dprivacy%26stylesheet%3Dgeneric) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.csiro.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208091426id_/http%3A//csiro.au/index.asp%3Ftype%3DaboutCSIRO%26xml%3Dprivacy%26stylesheet%3Dgeneric) for the most accurate reproduction.*
 
 # CSIRO - CSIRO Privacy Statement
 
@@ -102,7 +102,7 @@ Who to Contact
 
 The CSIRO contact on privacy matters is:
 
-Ms Rosemary Caldwell   
+| Ms Rosemary Caldwell   
   
 ---  
   |  FOI and Privacy Coordinator   
@@ -112,5 +112,5 @@ Dickson ACT 2602
 Australia   
 Phone:  |  +61 2 6276 6123   
 Fax:  |  +61 2 6276 6437   
-Email: | [ legal-affairs@cbr.legal.csiro.au ](mailto:legal-affairs@cbr.legal.csiro.au)  
+Email: | [ rosemary.caldwell@csiro.au ](mailto:rosemary.caldwell@csiro.au)  
  |  
