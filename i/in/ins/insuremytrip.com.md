@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231226id_/http%3A//insuremytrip.com/p/gen%3Fpage%3Dprivacy%26pid%3D1000%26rid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402021154id_/http%3A//insuremytrip.com/p/gen%3Fpage%3Dprivacy%26pid%3D1000%26rid%3D1) for the most accurate reproduction.*
 
 # InsureMyTrip.com Privacy Policy
 
