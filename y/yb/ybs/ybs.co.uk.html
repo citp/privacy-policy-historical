@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ybs.co.uk privacy policy that was archived on 2004-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040409040342id_/http%3A//www.ybs.co.uk/security_privacy/index.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ybs.co.uk privacy policy that was archived on 2004-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206175900id_/http%3A//www.ybs.co.uk/security_privacy/index.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -15,15 +15,31 @@ function decision() {
 //--></script>
 <!-- End TESSA gubbins -->
 
+<!-- MORTGAGE Decision Tree popup JS - it'd be worth combining this, the TESSA popup code and the new window code all in one function  (with the URL and attributes defined in the onclick instructions) when some has the time or inclination -->
+<script language="JavaScript"><!--
+function decision_mortgage() {
+	self.name = "main"; 
+    window.open('/mortgages/decision/index.html','decision_mortgage','width=625,height=450,scrollbars=no,status=yes,resizable=yes');  
+}
+//--></script>
+<!-- End MORTGAGE decision popup -->
+
 <!-- Mail to Friend JS -->
 <script language="JavaScript"><!--
 
 u = window.location;
 m = "Yorkshire Building Society mortgage worth a look...  ";
+s = "Yorkshire Building Society savings account worth a look...  ";
 function mailThisUrl(){
    
       // the following expression must be all on one line...
       window.location = "mailto:friend's email address here?subject="+m+"&body=YBS Mortgage - "+u+"?source=mortgage_etaf02";
+   
+}
+function mailThisUrls(){
+   
+      // the following expression must be all on one line...
+      window.location = "mailto:friend's email address here?subject="+s+"&body=YBS Savings - "+u+"?source=savings_etaf02";
    
 }
 //--></script>
@@ -150,12 +166,12 @@ color: #333;
 		<td class="nav-break"><img src="/graphics/blank.gif" width="3" height="5" alt="*"></td>
 		<td class="bg-nav"><span class="hidden">&nbsp;</span><a href="/mortgages/insurance/index.jsp" class="main">insurance</a><span class="hidden">&nbsp;</span></td>
 		<td class="nav-break"><img src="/graphics/blank.gif" width="3" height="5" alt="*"></td>
-		<td class="bg-nav"><span class="hidden">&nbsp;</span><a href="/loans/index.jsp" class="main">loans</a><span class="hidden">&nbsp;</span></td>
-		<td class="nav-break"><img src="/graphics/blank.gif" width="3" height="5" alt="*"></td>
+		<!--<nexus:component classid="nexus/components/Select" code="/System/Components/nexusComponents.jar" select="$node.metadata('Section')"><nexus:select "Loans"><td class="bg-loans"><span class="hidden">&nbsp;</span><a href="/loans/index.jsp" class="main-loans">loans</a><span class="hidden">&nbsp;</span></td></nexus:select><nexus:select><td class="bg-nav"><span class="hidden">&nbsp;</span><a href="/loans/index.jsp" class="main">loans</a><span class="hidden">&nbsp;</span></td></nexus:select></nexus:component>
+		<td class="nav-break"><img src="/graphics/blank.gif" width="3" height="5" alt="*"></td>-->
 		<td class="bg-nav"><span class="hidden">&nbsp;</span><a href="/travel/index.jsp" class="main">travel</a><span class="hidden">&nbsp;</span></td>
 		<td class="nav-break"><img src="/graphics/blank.gif" width="3" height="5" alt="*"></td>
-		<td class="bg-nav"><span class="hidden">&nbsp;</span><a href="/credit_cards/index.jsp" class="main">credit&nbsp;cards</a><span class="hidden">&nbsp;</span></td>
-		<td class="nav-break"><img src="/graphics/blank.gif" width="3" height="5" alt="*"></td>
+		<!--<nexus:component classid="nexus/components/Select" code="/System/Components/nexusComponents.jar" select="$node.meta('Section')"><nexus:select "Credit Cards"><td class="bg-loans"><span class="hidden">&nbsp;</span><a href="/credit_cards/index.jsp" class="main-loans">credit&nbsp;cards</a><span class="hidden">&nbsp;</span></td></nexus:select><nexus:select><td class="bg-nav"><span class="hidden">&nbsp;</span><a href="/credit_cards/index.jsp" class="main">credit&nbsp;cards</a><span class="hidden">&nbsp;</span></td></nexus:select></nexus:component>
+		<td class="nav-break"><img src="/graphics/blank.gif" width="3" height="5" alt="*"></td>-->
 		<td class="bg-shareplans"><span class="hidden">&nbsp;</span><a href="/your_society/index.jsp" class="main-shareplans">your&nbsp;society</a><span class="hidden">&nbsp;</span></td>
 		<td class="nav-break"><img src="/graphics/blank.gif" width="3" height="5" alt="*"></td>
 		<td class="bg-nav"><span class="hidden">&nbsp;</span><a href="/shareplans/index.jsp" class="main">share&nbsp;plans</a><span class="hidden">&nbsp;</span></td>
@@ -192,7 +208,7 @@ color: #333;
   <td align="right" class="bar-shareplans"> 
   <table border="0" cellpadding="4" cellspacing="0">
    <tbody><tr> 
-	<td><a href="https://online.ybs.co.uk/public/authentication/login.jsp" class="login">[ 
+	<td><a href="https://online.ybs.co.uk/public/authentication/login.do" class="login">[ 
 	 LOG-IN ]</a></td>
 	<td><a href="/apply_now/apply_now.jsp" class="login">[ APPLY NOW ]</a></td>
    </tr>
@@ -233,14 +249,15 @@ color: #333;
   <tbody><tr> 
    <td class="relatedlinksheader-shareplans"><strong>Related Links</strong> </td></tr>
   <tr> 
-   <td class="relatedlinks-shareplans"> <a href="/brass_band/index.jsp?source=related_links">Brass 
-   Band</a><br>
-   <a href="/contact_us/index.jsp?source=related_links">Contact Us</a><br>
-   <a href="/about_us/index.jsp?source=related_links">About Us</a><nexus:select></nexus:select></td> </tr>
+   <td class="relatedlinks-shareplans"> 
+
+	<a href="/brass_band/index.jsp?source=related_links">Brass Band</a><br>
+	<a href="/contact_us/index.jsp?source=related_links">Contact Us</a><br>
+	<a href="/about_us/index.jsp?source=related_links">About Us</a><nexus:select></nexus:select></td> </tr>
   <tr> 
    <td align="center">
    
-    <!--- Call to Action --->
+<!--- Calls to Action --->
    
    <!-- no section matches the select key: ''-->
    
@@ -256,7 +273,8 @@ color: #333;
 	   </span></td>
 	 </tr>
 	 <tr> 
-	  <td class="banner"><a href="/contact_us/branch_finder.jsp?source=text_banner"><img src="/graphics/banners/find_your_nearest_branch.gif" border="0" alt="find your nearest branch"></a><span class="hidden"><br>
+	  <td class="banner"><a href="/contact_us/branch_finder.jsp?source=text_banner"><img src="/graphics/banners/find_your_nearest_branch.gif" border="0" alt="find your nearest branch"></a>
+<span class="hidden"><br>
 	   <br>
 	   </span></td>
 	 </tr>
