@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddigest.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206184550id_/http%3A//www.digital-digest.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddigest.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602173326id_/http%3A//www.digital-digest.com/policy.html) for the most accurate reproduction.*
 
 # Digital Digest - Privacy Statement
 
@@ -35,4 +35,4 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All files are encrypted and not passed on to any person(s) or organization(s). 
 
 Please refer to this page   
-[ DIGITAL DIGEST CONTACTS ](https://web.archive.org/web/20021206184550id_/http%3A//www.digital-digest.com/contacts.html)
+[ DIGITAL DIGEST CONTACTS ](https://web.archive.org/web/20030602173326id_/http%3A//www.digital-digest.com/contacts.html)
