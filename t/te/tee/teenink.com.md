@@ -1,21 +1,8 @@
-> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604015515id_/http%3A//www.teenink.com/About/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203025825id_/http%3A//www.teenink.com/About/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Teen Ink: A Magazine Written by Teens for Teens
 
-[](http://teenink.com/Subscribe/)  
-[](http://teenink.com/Sample/)  
-[](http://teenink.com/ubbcgi/Ultimate.cgi?action=intro)  
-[](http://teenink.com/Contests/)  
-[](http://teenink.com/Search/)  
-[](http://teenink.com/Current/)  
-[](http://teenink.com/TeenInkBook/)  
-[](http://teenink.com/Teacher/)  
-[](http://teenink.com/Resources/)  
-[](http://teenink.com/Directory/)  
-[](http://teenink.com/Links/)  
-[](http://teenink.com/Summer/)  
-[](http://teenink.com/About/)  
-|  |    
+[](http://teenink.com/) [](http://teenink.com/Submissions/) [](http://teenink.com/Subscribe/) [](http://teenink.com/Sample/) [](http://teenink.com/ubbcgi/Ultimate.cgi?action=intro) [](http://teenink.com/Friend/) [](http://teenink.com/Contests/) [](http://teenink.com/Current/) [](http://teenink.com/TeenInkBook/) [](http://teenink.com/Teacher/) [](http://teenink.com/Resources/) [](http://teenink.com/Directory/) [](http://teenink.com/Links/) [](http://teenink.com/Summer/) [](http://teenink.com/About/) [](http://teenink.com/About/Contact.html) |  |    
 **Privacy Policy**  
   
 At _Teen Ink_ , we respect your privacy. We do collect information from you, but it is _Teen Ink's_ policy and priority to ensure that all personal information remains private and secure. **1\. General**
