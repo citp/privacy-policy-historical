@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eiu.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607025542id_/http%3A//www.eiu.com/service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eiu.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201073838id_/http%3A//eiu.com/site_info.asp%3Finfo_name%3Dprivacy) for the most accurate reproduction.*
 
-# EIU --> Home
+# EIU.com
 
 The Economist Intelligence Unit Limited (the EIU) is committed to protecting the privacy of **eiu.com** subscribers. This statement outlines our privacy and data protection policy. 
 
@@ -15,7 +15,7 @@ This information is collected for the following purposes:
   * to notify customers of relevant new products 
   * to notify users of promotional activities both within the EIU and across The Economist Group of companies.
 
-User information is retained for in-house research to:- 
+User information is retained for in-house research to: 
   * to improve our understanding of customer needs and product development 
   * build marketing profiles 
   * aid strategic development 
@@ -50,4 +50,4 @@ Occasions will arise when customer information is passed outside the EIU to othe
 Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing **eiu.com** and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. 
 
 **Updating Customer Details**  
-It is important to the EIU that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. To notify us of any changes simply send your new details, along with your old details to the [EIU office nearest you](https://web.archive.org/service/) or you may use this [form](https://web.archive.org/service/enquiries.asp?enquiry=Please%20update%20my%20contact%20details%20with%20the%20information%20below.%20My%20current%20details%20are:) to submit your changes. 
+It is important to the EIU that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. To notify us of any changes simply send your new details, along with your old details to the [EIU office nearest you](https://web.archive.org/web/20011201073838id_/http%3A//eiu.com/site_info.asp?info_name=EIUoffices) or you may use this [form](https://web.archive.org/web/20011201073838id_/http%3A//eiu.com/site_info.asp?info_name=help_enquiry_form) to submit your changes. 
