@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201220400id_/http%3A//arcadepod.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608025712id_/http%3A//arcadepod.com/privacy.htm) for the most accurate reproduction.*
 
-# ArcadePod.Com Privacy Policy
+# ArcadePod.Com: The Ultimate Free Gaming Resource Zone.
 
 **ArcadePod.Com Privacy Policy**
 
@@ -22,10 +22,9 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
 If you have any additional questions about ArcadePod.Com's dedication to consumer privacy, please contact us at [webmaster@arcadepod.com](mailto:webmaster@arcadepod.com). 
 
-* * *
-
 This site, ArcadePod.Com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 
-"ArcadePod.com uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/privacy_policy.htm)." 
+ArcadePod.com uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/privacy_policy.htm). 
 
-* * *
+  
+
