@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housebeautiful.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620144715id_/http%3A//www.women.com/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housebeautiful.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203210800id_/http%3A//www.women.com/membership/privacy.html) for the most accurate reproduction.*
 
 # Women.com Networks - Privacy Policy
 
