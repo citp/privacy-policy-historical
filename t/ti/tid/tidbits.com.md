@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091413id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610183543id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
 
 # TidBITS Privacy Statement
 
-(Last updated 28-Aug-2003.) 
+(Last updated 18-Mar-2004.) 
 
 TidBITS Electronic Publishing takes online privacy very seriously. We actively protect the privacy of users of TidBITS Web sites and people who subscribe to TidBITS publications and mailing lists.
 
@@ -12,7 +12,7 @@ Aggregate information about TidBITS subscriptions lists (such as the total numbe
 
 To receive a TidBITS publication or mailing list via email, you must give us your email address - without it, we can't send you anything. Although we don't require subscribers to tell us their names, your email program or provider may include your name with your subscription request. If so, we'll record your name with your email address; the information helps ensure we don't confuse you with anyone else when sorting out subscription problems.
 
-If you want to read TidBITS publications without subscribing via email, consider using a Web browser's "subscription" or page monitoring feature to be notified of new issues on the Web. You can contact <[editors@tidbits.com](mailto:editors@tidbits.com)> to find out what page(s) to monitor. TidBITS may also provide specific Web-based distribution options you can use.
+If you want to be notified of updates to TidBITS publications on a regular basis without subscribing via email, consider using an RSS news reader and pointing it at our RSS feed at <http://www.tidbits.com/channels/tidbits.rss>.
 
 **Contributions to TidBITS** \-- If you participate in our [voluntary contribution program](http://www.tidbits.com/about/support/contributors.html), TidBITS receives and records information related to your contribution, including your name, email address, postal address, and contribution amount, but _not_ your credit card number. As with our subscriber databases and subscription lists, this information is held in the strictest confidence. The information can be accessed by only a few members of the TidBITS staff and is well protected against theft, tampering, and misuse (electronic or otherwise). 
 
@@ -21,6 +21,10 @@ If you have chosen to list your name and a URL to a Web page of your choice, tha
 If you asked us to remind you to renew in a year, we will send you an email reminder at that time. We may also send you email to aid in resolving problems relating to a contribution or to communicate with you about other issues related specifically to contributors. 
 
 Contribution processing is handled for TidBITS by Kagi. To process your payment, Kagi collects information including your name, postal address, email address, and credit card number. Use of that information is governed by their [privacy policy](http://www.kagi.com/privacy.html). Kagi offers both [secure](https://order.kagi.com/?2WL) and [insecure](http://order.kagi.com/?2WL) Web payment forms, and you can also download a [Kagi Register application](http://www.tidbits.com/about/support/tidbits-register.hqx) that enables you to send in a payment via fax or postal mail if you're uncomfortable giving your credit card number via the Web.
+
+**Take Control Electronic Books** \-- If you purchase one of our Take Control electronic books, TidBITS receives and records information related to your purchase, including your name, email address, and postal address, but _not_ your credit card number. As with our subscriber databases and subscription lists, this information is held in the strictest confidence. The information can be accessed by only a few members of the TidBITS staff and is well protected against theft, tampering, and misuse (electronic or otherwise). We use your email address to inform you of updates to products you've purchased; other communications are governed by you agreeing to be contacted during the order process or signing up for the double opt-in Take Control announcement list. 
+
+Take Control order processing is handled for TidBITS by eSellerate. To process your payment, eSellerate collects information including your name, postal address, email address, and credit card number. Use of that information is governed by their [privacy policy](http://www.esellerate.net/privacy.asp).
 
 **Purchases of TidBITS Tchotchkes** \-- Orders for TidBITS merchandise are handled for us by CafePress.com. To process your order, CafePress.com collects information including your name, postal address, and credit card number. Use of that information is governed by their [privacy statement](http://www.cafepress.com/cp/info/help/privacy.aspx).
 
@@ -56,6 +60,6 @@ Some TidBITS translations are available via both email and the Web. In the cases
 
 Special thanks to [digital.forest](http://www.forest.net/), our Web and mailing list host.
 
-Copyright 2003 TidBITS.   
+Copyright 2004 TidBITS.   
 Send comments to [our webmaster](http://www.tidbits.com/about/webmaster.html).   
-Last updated on Thursday, August 28, 2003
+Last updated on Thursday, March 18, 2004
