@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the controller.com privacy policy that was archived on 2003-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031115094503id_/http%3A//www.aircraft.com/info/privacy.asp%3Fguid%3Dliiwoo00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controller.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606095925id_/http%3A//www.controller.com/info/privacy.asp%3Fguid%3D) for the most accurate reproduction.*
 
 # Controller and Executive Controller Privacy Policy
 
