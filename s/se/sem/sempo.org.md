@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sempo.org privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614031722id_/http%3A//www.sempo.org/sempo-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sempo.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204064051id_/http%3A//www.sempo.org/sempo-privacy-policy.php) for the most accurate reproduction.*
 
 # SEMPO Privacy Policy
 
@@ -28,7 +28,7 @@ SEMPO members may decline to share their personal data with third parties at any
 
 This site gives users the following options to opt-out of data sharing with third parties. 
 
-  1. You can send email to [ info@sempo.org](mailto:info@sempo.org)
+  1. You can send email to [ info@sempo.org ](mailto:info@sempo.org)
   2. You can send mail to the following postal address:  SEMPO  
 665 Lytton Avenue  
 Palo Alto, CA 94301  
