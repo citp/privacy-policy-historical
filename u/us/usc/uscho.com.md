@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602204406id_/http%3A//uscho.com/FAQs/%3Fdata%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211043340id_/http%3A//www.uscho.com/FAQs/%3Fdata%3Dprivacy) for the most accurate reproduction.*
 
 # USCHO Frequently Asked Questions
-
-[USCHO](http://www.uscho.com/) \--> [FAQs](https://web.archive.org/FAQs/) \--> Privacy
 
 ## USCHO Privacy Policy
 
@@ -54,19 +52,12 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 #### How You Can Access Or Correct Your Information
 
-The information you provide USCHO.com when registering for the Fan Forum is accessible for you to change at any time. Should you require any help in changing your information, please e-mail us at board@uscho.com for assistance.
+The information you provide USCHO.com when registering for the Fan Forum is accessible for you to change at any time. Should you require any help in changing your information, please [contact us](https://web.archive.org/contactus.php?uschomail=fanforum) for assistance.
 
 #### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at privacy@uscho.com.
+Should you have other questions or concerns about these privacy policies, please [send us a message](https://web.archive.org/contactus.php?uschomail=privacy).
 
 #### Modifications To This Policy
 
 As we make changes to the site, it may become necessary to modify this policy. Registered users who opt to receive e-mail from USCHO.com will receive notice of any changes in our privacy policy by e-mail, and all changes also will be posted here.
-
-* * *
-
-[USCHO Issues](https://web.archive.org/FAQs/) | [NCAA Issues](https://web.archive.org/FAQs/?data=ncaa) | [Tournament Selection](https://web.archive.org/FAQs/?data=selection) | [Recruiting](https://web.archive.org/FAQs/?data=recruiting) | [PWR Explained](https://web.archive.org/FAQs/?data=pwrexplanation) | [Men's D-III PWR Explained](https://web.archive.org/FAQs/?data=d3pwrexplanation) | [Fan Forum Posting Guidelines](https://web.archive.org/FAQs/?data=board_guidelines) | Privacy Policy 
-
-  
-
