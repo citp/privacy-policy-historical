@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206152137id_/http%3A//www.motivators.com/support.asp%3Ftopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206095406id_/http%3A//www.motivators.com/support.asp%3Ftopic%3DPrivacy) for the most accurate reproduction.*
 
 # Motivators.com: Promotional Products, Promotional Items, Promo Items, Promotional Pen, Promotional Giveaway, Advertising Specialties,
 
