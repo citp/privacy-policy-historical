@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evrsoft.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217134745id_/http%3A//evrsoft.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evrsoft.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605075440id_/http%3A//www.evrsoft.com/privacy.shtml) for the most accurate reproduction.*
 
 # Evrsoft Privacy Policy
 
