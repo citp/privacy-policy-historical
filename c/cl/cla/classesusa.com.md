@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208144630id_/http%3A//classesusa.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624163116id_/http%3A//www.classesusa.com/info/privacy.cfm) for the most accurate reproduction.*
 
-# Classroom Training and Online Classes from ClassesUSA.com
+# Classes USA - Privacy Policy
 
-ClassesUSA.com created this statement in order to assure you that any and all information that we gather about you supports our efforts in providing you with the most fulfilling learning services available. We have taken the proper measures to ensure that your learning experience with us is safe, secure, and enjoyable. 
+**ClassesUSA.com created this statement in order to assure you that any and all information that we gather about you supports our efforts in providing you with the most fulfilling learning services available. We have taken the proper measures to ensure that your learning experience with us is safe, secure, and enjoyable.**
 
-We will never sell your information to other companies, unless otherwise stated. Your privacy is important to us and we do everything possible to protect it. This statement details our information gathering and sharing practices for ClassesUSA.com.  
+**We will never sell your information to other companies, unless otherwise stated. Your privacy is important to us and we do everything possible to protect it. This statement details our information gathering and sharing practices for ClassesUSA.com.**  
 
 
-This Privacy & Security statement is subject to change without notice. We encourage you to review our Privacy and Security statement whenever you use this Web site to make sure you understand how your information will be used. 
+**This Privacy & Security statement is subject to change without notice. We encourage you to review our Privacy and Security statement whenever you use this Web site to make sure you understand how your information will be used. **
 
 **  
 Information We Collect and How We Use It**  
