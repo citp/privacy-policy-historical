@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyetricks.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603025402id_/http%3A//www.eyetricks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyetricks.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215045401id_/http%3A//www.eyetricks.com/privacy.htm) for the most accurate reproduction.*
 
 # eyetricks Privacy Statement - Optical illusions from eyetricks.com.
 
