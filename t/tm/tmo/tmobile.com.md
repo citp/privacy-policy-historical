@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603223135id_/http%3A//tmobile.com/info/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203051512id_/http%3A//www.t-mobile.com/info/legal/privacy.asp) for the most accurate reproduction.*
 
 # T-Mobile - Legal: Privacy Policy
 
