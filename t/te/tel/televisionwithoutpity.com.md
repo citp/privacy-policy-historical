@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621161233id_/http%3A//televisionwithoutpity.com/base.cgi%3Ffile%3Dmisc/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202143607id_/http%3A//televisionwithoutpity.com/base.cgi%3Ffile%3Dmisc/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Television Without Pity » Privacy Policy
 
@@ -66,12 +66,7 @@ You can refuse cookies by turning them off in your browser. If you've set your b
 
 Privacy Policy of Advertising Partners. 
 
-Television Without Pity places advertising from various advertising brokers. We have provided links to their privacy policies below: 
-
-  * [24/7 Media](http://www.247media.com/privacy.html)
-  * [Gorilla Nation](http://www.gorillanation.com/privacypolicy.htm)
-
-
+Television Without Pity places advertising from Yahoo!. [Yahoo Privacy Policy](http://privacy.yahoo.com/privacy/)
 
 **Use of Information**  
 
