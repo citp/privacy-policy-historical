@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630192224id_/http%3A//tourneau.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206182309id_/http%3A//www.tourneau.com/privacy-security.html) for the most accurate reproduction.*
 
 # Tourneau | Privacy and Security Policy
 
