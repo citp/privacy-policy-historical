@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609204225id_/http%3A//www.stockhouse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215154100id_/http%3A//www.stockhouse.com/privacy.asp) for the most accurate reproduction.*
 
-# StockHouse.com -- Investors Click Here -- 6/9/00
+# StockHouse.com -- Investors Click Here -- 12/15/00
 
 **Privacy Policy**
 
