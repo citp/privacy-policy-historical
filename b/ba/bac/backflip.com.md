@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backflip.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621111806id_/http%3A//www.backflip.com/help/gh_privacy_out.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backflip.com privacy policy that was archived on 2001-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011106223358id_/http%3A//www.backflip.com/help/gh_privacy_out.html) for the most accurate reproduction.*
 
 # Backflip | Privacy Policy
 
@@ -15,9 +15,7 @@ You can feel confident that:
 
 
 
-Backflip is a licensee of the TRUSTe Privacy Program
-
-[](https://www.truste.org/validate/5394)TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed with TRUSTe, gladly, to disclose to you the way we use information. Here are the contents of this policy, all of which are in compliance with TRUSTe. 
+Statement of Policy on Privacy
 
   1. How We Provide a Secure Environment for Your Data
   2. The Types of Information We Collect From You
@@ -31,7 +29,7 @@ Backflip is a licensee of the TRUSTe Privacy Program
 
 [Back to Top]
 
-If you have questions or concerns regarding this statement, you should first contact Customer Support by emailing [privacy@backflip.com](mailto:privacy@backflip.com). If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with Backflip to resolve your concerns. 
+If you have questions or concerns regarding this statement, please contact Customer Support by emailing [privacy@backflip.com](mailto:privacy@backflip.com). 
 
 How We Provide A Secure Environment for Your Data
 
@@ -63,7 +61,18 @@ Only when you give us your explicit permission will we collect your personally i
 
 Like many Web sites, Backflip uses a standard Web technology called "cookies" which helps us to improve your experience. Cookies are small pieces of information stored on your hard drive, not on our site. For example, we use cookies to deliver content specific to your interests, and to help you save your password so you don't have to re-enter it each time you visit our site. We do not, and cannot, use cookies to find out the identity of any user. Backflip uses cookies responsibly, creating a great experience for you while respecting your privacy. 
 
-We use an outside advertising company to display ads on our site. These ads may use cookies. The cookies received from banner ads go directly to our ad company, and we do not have access to this information. When you click on the outside links that you have added, outside links that we present to you or any of our advertisers' ads, you will be transferred to their respective Web sites. Due to the nature of Internet, we do not control the privacy practices of other sites and we are not responsible for such practices as well as their respective content. 
+Some of the advertising displayed on our site is delivered by AdForce, LLC. In the course of serving ads, AdForce collects certain non-personally identifiable data by placing a "cookie" (small file containing a unique, randomly selected alphanumeric tag) on a consumer's computer hard drive. The cookies received from banner ads go directly to our ad company, and we do not have access to this information. The non-personally identifiable information collected in connection with a cookie includes: 
+
+  * Browser type (i.e., IE 3.x, etc) 
+  * Operating system (i.e., Macintosh, PC, etc) 
+  * IP Address of the machine (browser/ proxy) connecting to AdForce (this is not your email address) 
+  * Date a particular ad was served 
+  * Time a particular ad was served 
+  * Advertisement tag (place by a website on a web page to call up an ad). 
+
+This information is used by AdForce to deliver tailored ads to you and in the aggregate for statistical purposes. AdForce uses this information for reporting purposes and to bill our advertisers. Please note that AdForce cannot collect any personal information about you (such as your name, address, phone number or email address) when it delivers ads to our website. If you would like to learn more about AdForce's information gathering practices, or if you would like to "opt-out" of having unique cookie on your hard drive placed by AdForce, please [click here.](http://www.adforce.com/home/privacy/PrivacyPolicy.html)
+
+In addition, when you click on the outside links that you have added, outside links that we present to you or any of our advertisers' ads, you will be transferred to their respective Web sites. Due to the nature of Internet, we do not control the privacy practices of other sites and we are not responsible for such practices as well as their respective content. 
 
 [Back to Top]
 
@@ -81,19 +90,21 @@ We will never sell, rent, loan or give away your personally identifiable informa
 
 As with any other Web site, if law enforcement or judicial authorities require Backflip to provide personally identifiable information about a customer - an extremely unlikely event - we must cooperate if they support their requirement with the necessary legal documentation. 
 
+As we continue to develop our business, we might sell or buy assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that Backflip, Inc., part of, or substantially all of its assets are acquired, customer information may be one of the transferred assets. 
+
 [Back to Top]
 
 How You Can Manage How Much Data to Share or Opt Out of the Services We Provide
 
 You control the amount of information that you want to share. We only require your name, email address, year of birth, zip code, country of residence, user name and password to enable you to use the service. In order to fully maximize your experience on Backflip, the more information you provide to Backflip, the more useful the service will be. 
 
-Backflip provides you the opportunity to opt out of receiving email and other non-Web site communications from us and from our partners. If you wish to do so, please go to the Backflip site, click on the My Profile tab and make your updates there. If you are unable to do so, you may contact Customer Support at [support@backflip.com](mailto:support@backflip.com) or fill out our [support form](https://web.archive.org/help/gh_support_out.html). 
+Backflip provides you the opportunity to opt out of receiving email and other non-Web site communications from us and from our partners. If you wish to do so, please go to the Backflip site, click on the My Account tab and make your updates there. If you are unable to do so, you may contact Customer Support at [support@backflip.com](mailto:support@backflip.com) or fill out our [support form](https://web.archive.org/help/gh_support.html). 
 
 [Back to Top]
 
 How You Can Correct and Update Your Information
 
-You can easily update and/or correct any of the information you have. You can do this by clicking the My Profile tab and making your updates there. If you are unable to do so, you may contact Customer Support at [support@backflip.com](mailto:support@backflip.com) or fill out our [support form](https://web.archive.org/help/gh_support_out.html). 
+You can easily update and/or correct any of the information you have. You can do this by clicking the My Account tab and making your updates there. If you are unable to do so, you may contact Customer Support at [support@backflip.com](mailto:support@backflip.com) or fill out our [support form](https://web.archive.org/help/gh_support.html). 
 
 [Back to Top]
 
@@ -105,6 +116,6 @@ You can deactivate your Backflip membership at any time. Contact Customer Suppor
 
 Conclusion 
 
-We at Backflip strongly believe in respecting the privacy of all our users. Users should read this Privacy statement in parallel with our Terms of Use. To ensure that we meet the highest standards in protecting your Privacy, we will update this statement if and when it is necessary. Please check back often to read our most updated statement. If you have any questions regarding this statement, please contact Backflip's Customer Support by using the [feedback form ](https://web.archive.org/help/gh_support_out.html), or by sending an email to [privacy@backflip.com](mailto:privacy@backflip.com). 
+We at Backflip strongly believe in respecting the privacy of all our users. Users should read this Privacy statement in parallel with our Terms of Use. To ensure that we meet the highest standards in protecting your Privacy, we will update this statement if and when it is necessary. Please check back often to read our most updated statement. If you have any questions regarding this statement, please contact Backflip's Customer Support by using the feedback support form available [here](https://web.archive.org/help/gh_support.html), or by sending an email to [privacy@backflip.com](mailto:privacy@backflip.com). 
 
 [Back to Top]
