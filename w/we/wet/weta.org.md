@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217145955id_/http%3A//www.weta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201225304id_/http%3A//www2.weta.org/privacy.html) for the most accurate reproduction.*
 
 # WETA - Online Privacy Policy
 
@@ -19,8 +19,8 @@ The more you tell us about yourself, the more value we can offer you. Supplying 
 
 The areas of the site in which we collect information, the information collected and the purpose for collecting that information are described below:
 
-**Registration for a Personal Search Agent in the WETA Online Career Center**  
-WETA Online’s Career Center features a Personal Search Agent that allows you to enter job search criteria and receive email notification when jobs meeting those criteria are posted. To activate a Personal Search Agent, you must enter job search criteria (including job locations, job descriptions, keywords and salary range), an email address and a Zip Code. This information is shared with WETA’s partner, CareerBuilder, for the sole purpose of providing the Career Center service. The email address is used only to provide notification when jobs meeting the specified criteria are posted. The Zip Code is used for statistical purposes only and is not correlated to any personally-identifying information. To correct or change information in a Personal Search Agent, cancel that Personal Search Agent and activate another with the correct information. To do this, visit the [PSA Cancellation Page](http://careers.weta.org/_540001_/nscps01.html).
+**Registration with the WETA Online Career Center**  
+WETA's online career center is operated by Career Builder, inc. Visitor's may choose to register with the WETA’s Career Center and create a My Career Builder account for the purpose of applying for jobs in the Career Center. Use of the Career Center and the My Career Builder feature is governed by Career Builder's [privacy policy](http://www.careerbuilder.com/corp_privacy.html).
 
 **Subscription to electronic newsletters**  
 WETA TV and FM offer free electronic newsletters to users. These newsletters include highlights of WETA programming, and other information of interest to WETA viewers and listeners. To subscribe, you must provide your email address. To remove yourself from the mailing list, follow the instructions at the bottom of any newsletter.
@@ -80,4 +80,4 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 [Privacy Policy](https://web.archive.org/privacy.html) | [Terms & Conditions](https://web.archive.org/terms.html) | [Site Map](https://web.archive.org/sitemap.html)
 
-© Copyright 2001, GWETA.
+© Copyright 1996-2001, GWETA.
