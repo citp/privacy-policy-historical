@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundclick.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616200452id_/http%3A//www.soundclick.com/docs/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundclick.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209025441id_/http%3A//www.soundclick.com/docs/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
