@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209032302id_/http%3A//www.hondafinancialservices.com/global/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407235138id_/http%3A//www.hondafinancialservices.com/global/privacy.asp) for the most accurate reproduction.*
 
 # Honda Financial Services Privacy Policy
 
@@ -35,7 +35,7 @@ We will gather and store certain anonymous information about your visit, includi
 
 **We use cookies.**
 
-A "cookie" is a small text file or text identifier placed on your computer. We use cookies to provide you with a convenience feature to save you time and provide a more personalized experience on our site. For example, you may log on once during a visit and will be able to access multiple servers without having to log on again and again. We use cookies provided by ClearTrust and WebTrends ecommerce software. You have the ability to accept or decline cookies. Some portions of Owner Link, however, require the use of cookies for proper function. These cookies do not collect personally identifiable or confidential information. [Click here for more information about cookies.](https://web.archive.org/web/20021209032302id_/http%3A//www.hondafinancialservices.com/global/privacy_cookies.asp)
+A "cookie" is a small text file or text identifier placed on your computer. We use cookies to provide you with a convenience feature to save you time and provide a more personalized experience on our site. For example, you may log on once during a visit and will be able to access multiple servers without having to log on again and again. We use cookies provided by ClearTrust and WebTrends ecommerce software. You have the ability to accept or decline cookies. Some portions of Owner Link, however, require the use of cookies for proper function. These cookies do not collect personally identifiable or confidential information. [Click here for more information about cookies.](https://web.archive.org/web/20030407235138id_/http%3A//www.hondafinancialservices.com/global/privacy_cookies.asp)
 
 **Information Use.**
 
