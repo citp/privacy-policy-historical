@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004160122id_/http%3A//fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627074457id_/http%3A//www.fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
 
-# Pay with Credit Card
-
-| 
-
-  * [fedex.com Terms of Use](https://web.archive.org/legal/)
-    * [Copyrights & Trademarks](https://web.archive.org/legal/copyright/)
-    * [Privacy Policy](https://web.archive.org/us/privacypolicy.html)
-
-|  | 
+# Privacy Policy for fedex.com
 
 FedEx Corporation understands the importance of protecting the privacy of fedex.com users. The information collected is used to market and improve the services we and our subsidiaries offer, to improve the fedex.com web site content, and to contact you with updates to the web site or for other marketing purposes. 
 
-Certain areas of fedex.com, including but not limited to [FedEx® Ship Manager at fedex.com](https://www.fedex.com/cgi-bin/ship_it/interNetShip?link=4&origincountry=us&locallang=us&urlparams=us), [FedEx InSightsm](https://insight.fedex.com/fedexiv/us/login/index.jsp) [FedEx Return Managersm](http://www.fedex.com/us/solutions/returnsoverview.html?link=4), [FedEx Invoice Online](https://fedex.ebilling.com/), [FedEx® Global Trade Manager](http://www.fedex.com/us/international/?link=4) and [My FedEx](https://www.fedex.com/myfedex/go/home?cc=US&language=en), require registration or a password for access. Information obtained from registered users of these areas may also be used for FedEx marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas, including, but not necessarily limited to FedEx Ship Manager at fedex.com, FedEx Return Manager, etc. In addition, visitors to fedex.com may choose to register for a fedex.com Login user ID and password to simplify access to some interactive features on fedex.com. Log file data and other information gathered from registered users of fedex.com are used to improve the fedex.com customer experience.
+Certain areas of fedex.com, including but not limited to [FedEx® Ship Manager at fedex.com](https://www.fedex.com/cgi-bin/ship_it/interNetShip?link=4&origincountry=us&locallang=us&urlparams=us), [FedEx InSightsm](https://insight.fedex.com/fedexiv/us/login/index.jsp) [FedEx Return Managersm](http://www.fedex.com/us/solutions/returnsoverview.html?link=4), [FedEx Billing Online](https://web.archive.org/us/account/fbo/), [FedEx® Global Trade Manager](http://www.fedex.com/us/international/?link=4) and [My FedEx](https://www.fedex.com/myfedex/go/home?cc=US&language=en), require registration or a password for access. Information obtained from registered users of these areas may also be used for FedEx marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas, including, but not necessarily limited to FedEx Ship Manager at fedex.com, FedEx Return Manager, etc. In addition, visitors to fedex.com may choose to register for a fedex.com Login user ID and password to simplify access to some interactive features on fedex.com. Log file data and other information gathered from registered users of fedex.com are used to improve the fedex.com customer experience.
 
-fedex.com Login currently provides users with access to [FedEx Ship Manager at fedex.com](https://www.fedex.com/cgi-bin/ship_it/interNetShip?link=4&origincountry=us&locallang=us&urlparams=us), [FedEx Global Trade Manager](http://www.fedex.com/us/international/?link=4), [My FedEx](https://www.fedex.com/myfedex/go/home?cc=US&language=en), and [Simplify My Shipping](https://www.fedex.com/solutions/go/Home?link=4). Currently, other applications require separate registrations. In the future, FedEx may add other features to those accessed through fedex.com Login. (In such event, previously registered users will not be required to re-register.)
+fedex.com Login currently provides users with access to [FedEx Ship Manager at fedex.com](https://www.fedex.com/cgi-bin/ship_it/interNetShip?link=4&origincountry=us&locallang=us&urlparams=us), [FedEx Global Trade Manager](http://www.fedex.com/us/international/?link=4), [My FedEx](https://www.fedex.com/myfedex/go/home?cc=US&language=en), and [Simplify My Shipping](http://www.fedex.com/us/solutions/overview.html?link=4). Currently, other applications require separate registrations. In the future, FedEx may add other features to those accessed through fedex.com Login. (In such event, previously registered users will not be required to re-register.)
 
 Please also see the FedEx Service Guide for terms of carriage, limitations of liability, and disclaimers of warranty and general terms applicable to all delivery services and various information used and provided with FedEx services.
 
@@ -69,7 +61,7 @@ Yes, cookies can be removed from your hard drive. Also, depending on what type o
 Our postal address is:  
 FedEx Corporation  
 P.O. Box 727   
-Memphis, TN 38194-1062
+Memphis, TN 38194-1062 
 
 We can be reached via email at [webmaster@fedex.com](mailto:webmaster@fedex.com) or by telephone at .
 
@@ -82,5 +74,3 @@ FedEx reserves the right to amend the Privacy Policy at any time with or without
 Your use of fedex.com constitutes your agreement to this Privacy Policy.
 
 Back to Top
-
-| 
