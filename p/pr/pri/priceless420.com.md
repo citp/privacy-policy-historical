@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceless420.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207033353id_/http%3A//www.priceless420.com/Priceless-Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceless420.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621112438id_/http%3A//priceless420.com/Priceless-Privacy.htm) for the most accurate reproduction.*
 
 # PRICELESS
 
