@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurepointindia.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008064714id_/http%3A//futurepointindia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurepointindia.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606143103id_/http%3A//futurepointindia.com/privacy.asp) for the most accurate reproduction.*
 
 # FuturePointIndia.com - Privacy Policy
 
