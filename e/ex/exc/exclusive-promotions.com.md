@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusive-promotions.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628144715id_/http%3A//www.namesarecheap.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusive-promotions.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206061557id_/http%3A//www.namesarecheap.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy statement from NamesAreCheap.com
 
@@ -7,7 +7,7 @@ Privacy for our customers is extremely important to NamesAreCheap™. We strongl
 
 Your email addresses are not for sale or trade and are strictly guarded. Our 
 
-[Acceptable Usage Policy](https://web.archive.org/web/20030628144715id_/http%3A//www.namesarecheap.com/terms.shtml#aup) prohibits our customers from sending unsolicited bulk commercial email (aka "spam") using our services. If it is brought to our attention that one of our customers is violating this policy, we take steps to stop them and ensure it doesn't happen again. We also do everything within our power to keep non-customers from using our email servers for spam. 
+[Acceptable Usage Policy](https://web.archive.org/web/20031206061557id_/http%3A//www.namesarecheap.com/terms.shtml#aup) prohibits our customers from sending unsolicited bulk commercial email (aka "spam") using our services. If it is brought to our attention that one of our customers is violating this policy, we take steps to stop them and ensure it doesn't happen again. We also do everything within our power to keep non-customers from using our email servers for spam. 
 
 All client information such as email, phone numbers, addresses, etc is used only for internal purposes. This contact information is used to get in touch with you when necessary and for announcements and server updates. Financial information that is collected is used to bill you for products and services. 
 
