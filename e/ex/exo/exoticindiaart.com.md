@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211204330id_/http%3A//exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610041859id_/http%3A//exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
 # Indian Arts: Exotic India
 
@@ -22,15 +22,15 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  * You can send email to **[unsubscribe@exoticindiaart.com](mailto:unsubscribe@exoticindiaart.com)**
-  * You can visit the following URL: **<http://www.exoticindiaart.com/subscribe.php3>**
+  * You can send email to **[unsubscribe@exoticindia.com](mailto:unsubscribe@exoticindia.com)**
+  * You can visit the following URL: **<http://exoticindiaart.com/subscribe.php3>**
 
 
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided, through the following address :
 
-  * email: **[update@exoticindiaart.com](mailto:update@exoticindiaart.com)**
+  * email: **[update@exoticindia.com](mailto:update@exoticindia.com)**
 
 
 
@@ -39,4 +39,4 @@ If you have any questions about this privacy statement, the practices of this si
  
 
 Kapil Goel Exotic India Art Dot Com Pvt Ltd. 63 Model Basti New Delhi 110005   
-email: **[privacy@exoticindiaart.com](mailto:privacy@exoticindiaart.com)**
+email: **[privacy@exoticindia.com](mailto:privacy@exoticindia.com)**
