@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpfc.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603155656id_/http%3A//www.cpfc.org/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpfc.org privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202222142id_/http%3A//www.cpfc.org/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for CPFC BBS
 
