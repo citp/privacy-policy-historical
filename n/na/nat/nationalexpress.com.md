@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204222209id_/http%3A//www.nationalexpress.com/p.cfm%3Fn%3Dpg-pri) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602233608id_/http%3A//www.nationalexpress.com/p.cfm%3Fn%3Dpg-pri) for the most accurate reproduction.*
 
 # National Express Privacy Statement
 
-This Privacy Policy indicates National Express' procedures regarding the collection and use of your personal information in relation to the website: www.NationalExpress.com. [If you have any requests or queries concerning your personal information, or would like to be removed from our mailing list then please click here to contact us](http://www.nationalexpress.com/fb2.cfm?cat=priv)  
+This Privacy Policy indicates National Express' procedures regarding the collection and use of your personal information in relation to the website: www.NationalExpress.com. [If you have any requests or queries concerning your personal information, or would like to be removed from our mailing list then please click here to contact us](https://www.nationalexpress.com/fb2sec.cfm?cat=priv)  
 
 
 This Privacy Policy will inform you in respect of the following:
 
-  1. What personally identifiable information is collected from you on the website;   
-  2. How this information will be used;   
-  3. With whom the information may be shared; and   
+  1. What personally identifiable information is collected from you on the website;      
+  2. How this information will be used;      
+  3. With whom the information may be shared; and      
   4. What choices are available to you regarding collection, use and distribution of the information.   
 
 
@@ -21,9 +21,9 @@ We will collect the information entered into the registration form when you comp
 
 Our system may also automatically record the following information on your visit to our website:
 
-  *  your browser type (e.g. Netscape Navigator, Internet Explorer)   
-  *  your operating system (e.g. Microsoft Windows, Macintosh)   
-  *  your IP address (a unique identifier for each connection to the internet)   
+  *  your browser type (e.g. Netscape Navigator, Internet Explorer)      
+  *  your operating system (e.g. Microsoft Windows, Macintosh)      
+  *  your IP address (a unique identifier for each connection to the internet)      
   *  your domain name (e.g. freeserve.co.uk, demon.co.uk) 
 
 
@@ -34,11 +34,11 @@ This information is automatically collected and does not require your input - th
 
 We respect your privacy and may use your information:
 
-  *  to log various usage and statistical information about your use of our facilities;   
-  *  to administer the website and gather broad demographic information about users of the site;   
-  *  to send you offers and promotion from National Express Limited;   
-  *  for marketing purposes - providing you with details of special offers, promotions, new products and services;   
-  *  to advise you of changes to our website; and   
+  *  to log various usage and statistical information about your use of our facilities;      
+  *  to administer the website and gather broad demographic information about users of the site;      
+  *  to send you offers and promotion from National Express Limited;      
+  *  for marketing purposes - providing you with details of special offers, promotions, new products and services;      
+  *  to advise you of changes to our website; and      
   *  to improve our website, and to customise our website for you based on your demographics. 
 
 
@@ -49,8 +49,8 @@ Our site provides an opt-in and opt-out facility so that you only receive inform
 
 We may disclose your Information to:
 
-  *   our regulators, lawyers and auditors   
-  *  persons where required by law under a court order or subpoena   
+  *   our regulators, lawyers and auditors      
+  *  persons where required by law under a court order or subpoena      
   *  third party service providers or agents acting on our behalf 
 
 
@@ -69,7 +69,7 @@ You may choose not to receive any promotional communications from us or our part
 
 ### Changes / Modification
 
-You may make a request to us to change or modify your information at any time. Further if you are aware at any time that any of the information that you have given to us has changed then please let us know at the earliest opportunity of the changes that need to be made to your information. [If you would like guidance on how to change the information that we hold on you then click here to send an e-mail](http://www.nationalexpress.com/fb2.cfm?cat=pts)
+You may make a request to us to change or modify your information at any time. Further if you are aware at any time that any of the information that you have given to us has changed then please let us know at the earliest opportunity of the changes that need to be made to your information. [If you would like guidance on how to change the information that we hold on you then click here to send an e-mail](https://www.nationalexpress.com/fb2sec.cfm?cat=pts)
 
 ### Changes to this Privacy Policy
 
