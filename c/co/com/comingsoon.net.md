@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214143931id_/http%3A//www.comingsoon.net/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013924id_/http%3A//www.comingsoon.net/policy.php) for the most accurate reproduction.*
 
 # Coming Soon! - Privacy Policy
 
 ## Privacy Statement for www.comingsoon.net
 
-**Coming Soon! **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of Comingsoon.net. 
+**Coming Soon! **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of Comingsoon.net.
 
 #### Information Automatically Logged
 
 We use your IP address to administer our Web site.  The IP address is only employed to help identify the user when problems occur and when solving the problem.  The IP address will not be used for any other means.
 
-#### Advertisers
+**Third Party Advertising**
 
-We use an outside ad company to display ads on our site. These ads may contain cookies.  Cookies received with banner ads are collected by our ad company, and we do not have access to this information. **
+We use Gorilla Nation, DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-Personal Information
+**Third Party Cookies**
 
-**
+In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique "cookie" on your browser.
+
+**Personal Information**
 
 Our site's mailing list form asks visitors to provide their email address. We use the contact information gathered from the form to send the visitor information about our company and about upcoming entertainment.  The visitor's contact information is also used to contact the visitor when necessary. Visitors may opt-out of receiving future mailings (see the "choice/opt-out" section below). 
 
@@ -34,8 +36,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Choice/Opt-Out**
 
-Our site provides users with the opportunity to opt-out of receiving  
-communications from us at any time.
+Our site provides users with the opportunity to opt-out of receiving communications from us at any time.
 
 ## Contacting the Web Site
 
