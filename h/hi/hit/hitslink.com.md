@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024094525id_/http%3A//www.toolshack.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155914id_/http%3A//www.toolshack.com/privacy.asp) for the most accurate reproduction.*
 
 # Toolshack - web tools: hit counter, banner exchange, search engine submission, promotion, and advertising.
 
-## Privacy Statement for Toolshack.com
+## Privacy Statement
 
-Toolshack.com has created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses our information gathering and dissemination practices for Toolshack.com. 
+We have created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses our information gathering and dissemination practices. 
 
 **Your Information is Private**  
 Subscribers are requested to enter limited personal information during signups.  Under no circumstance will we sell, transfer or disseminate this personal information gathered by our products to any other entity. 
 
-Our statistics (HitsLink.com) product collects information about visitors to the subscriber's website.  This information will also not be sold, transfered or disseminated to any other entity.  We may display aggregated data to show industry trends (such as browser share).  However, this data shall be the average of many thousands of sites and will in no way linked to individual subscribers. 
+Our statistics product collects information about visitors to the subscriber's website.  This information will also not be sold, transfered or disseminated to any other entity.  We may display aggregated data to show industry trends (such as browser share).  However, this data shall be the average of many thousands of sites and will in no way linked to individual subscribers. 
 
 **Your Information is Secure**  
 We employ the use of the following measures to ensure your data is secure:
@@ -22,7 +22,7 @@ We employ the use of the following measures to ensure your data is secure:
 **Cookie Usage**  
 The use of cookies is limited to storing a small amount of non-identifiable information on a visitor's computer.  For visitors to our sites, the data is used only to maintain information about the user's session. 
 
-For visitors to sites that have installed our statistics package (HitsLink.com), cookies are used to enhance the ability of our product to display usage patterns.  This information does not in any way reveal any personal data about visitors.  Visitors to a subscriber's site will receive a cookie that stores only a generic id, the prior page, time since last visit, and number of the visit. 
+For visitors to sites that have installed our statistics package, cookies are used to enhance the ability of our product to display usage patterns.  This information does not in any way reveal any personal data about visitors.  Visitors to a subscriber's site will receive a cookie that stores only a generic id, the prior page, time since last visit, and number of the visit. 
 
 **Access to Personal Account Data**  
 Every subscriber is requested to enter limited personal information that is stored in our databases.  This information may include credit card information for pay subscribers.  At any time, subscribers may modify this information upon logging into the product using an account id and password.  Credit card information is only requested on secure pages (using SSL 128-bit encryption).  Credit card information is never re-displayed once entered. 
@@ -40,7 +40,7 @@ This web site meets the guidelines of TRUSTe's Children's program, which means t
   5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
 
   
-**Contacting the Web SiteIf you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact support@toolshack.com **
+**Contacting the Web SiteIf you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact support@toolshack.com ******
 
 |   
   
