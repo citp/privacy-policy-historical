@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620042607id_/http%3A//ezthemes.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205010800id_/http%3A//ezthemes.iboost.com/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy Statement - EZthemes
 
