@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailworkz.com privacy policy that was archived on 2002-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020213042925id_/http%3A//www.mailworkz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailworkz.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004015753id_/http%3A//www.mailworkz.com/privacy.htm) for the most accurate reproduction.*
 
 # MailWorkz - Privacy
 
@@ -10,7 +10,7 @@ At MailWorkZ.com, it is our intent to give you as much control as possible over 
 **What Information We Gather and Track**  
 There are times when we may need information from you. This generally involves filling out forms so you can download a product or order a MailWorkZ.com product. When you download our products, we require you to fill out a form with your name and email address. If you wish to remove yourself from our mailing lists at any time you may do so by going to the following URL:
 
-[http://www.mailworkz.com/products/unsuball.htm](https://web.archive.org/web/20020213042925id_/http%3A//www.mailworkz.com/unsuball.htm)
+[http://www.mailworkz.com/products/unsuball.htm](https://web.archive.org/web/20021004015753id_/http%3A//www.mailworkz.com/unsuball.htm)
 
 When you submit an order online, your credit card number is submitted to the credit institution for normal, routine processing. Your personal credit history information is not collected by MailWorkZ.com, and MailWorkZ.com does not share credit or credit card information with other companies or third parties.
 
