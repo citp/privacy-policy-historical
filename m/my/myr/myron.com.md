@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614031228id_/http%3A//myron.com/about/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402115945id_/http%3A//myron.com/about/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # Myron Privacy Statement
 
