@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610122146id_/http%3A//www.udayton.edu/%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214060236id_/http%3A//www.udayton.edu/%7Eprivacy) for the most accurate reproduction.*
 
 # privacy
 
