@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2000-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001019002855id_/http%3A//www.metrodate.com/articles/privacypolicy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603015211id_/http%3A//www.metrodate.com/articles/privacypolicy.stm) for the most accurate reproduction.*
 
-# metrodate.com - aboutus
+# Metrodate.com - aboutus
 
 Privacy Statement for metrodate.com
 
@@ -30,6 +30,8 @@ A portion of our advertising is delivered by the Sonar Network, a division of Do
 
 Our audio technology provider, PageTalk.com, uses your basic personal information (ie. age, gender, etc.) for account purposes and to provide general demographic information for their in-house audio ad targeting. PageTalk.com does not have access to your specific personal information. 
 
+**Modified 11/27/00:** The public portion of your personal may be used in our print personals with our newspaper partners. Your print personal would only include the public portions of your online personal, which may include: Member ID, age, religion, race, age, etc. The print personal will NOT include confidential information, such as your real name, e-mail address, mailing address, or phone number. 
+
 ## Choice / Opt-Out
 
 This site gives users the option for removing their information from our database to not receive future communications or to no longer receive our service. This can be accomplished from the Member Services pages.
@@ -42,7 +44,7 @@ This site allows users the ability to change and modify information previously p
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: 
 
-True Communication  
+True Communication, Inc  
 2300 Computer Ave, Box J-52  
 Willow Grove, PA 19090-1742  
 [services@metrodate.com](mailto:services@metrodate.com)
