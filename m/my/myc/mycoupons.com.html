@@ -1,991 +1,403 @@
-<!--The following is the downloaded HTML source of the mycoupons.com privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606074812id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycoupons.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205005355id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<link href="http://images.directtrack.com/mycoupons/css/CSS_coupon.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" src="http://images.directtrack.com/mycoupons/javascript/webmonkey_functions.js"></script>
-
-<script language="Javascript">
-function openWin(url)
-{
-	x = screen.width/2 - 150;
-	y = screen.height/2 - 100;
-	aWindow = window.open(url,"thewindow",'toolbar=0,location=0,directories=0,status=0,menubar=0, width=410, height=350');	
-	aWindow.moveTo(x,y);
-	aWindow.focus();
-}
-function addbookmark()
-{
-	bookmarkurl="http://www.mycoupons.com/"
-	bookmarktitle="Great coupons at MyCoupons"
-	if (document.all)
-		window.external.AddFavorite(bookmarkurl,bookmarktitle)
-}
-
-function showbookmark(){
-	bookimage = '<a href="javascript:addbookmark()"  onMouseOver="'+"MM_swapImage('Image3','','http://images.directtrack.com/mycoupons/images/header_buttons/images/make_homepage_trans_over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img SRC="http://images.directtrack.com/mycoupons/images/header_buttons/images/make_homepage_trans.gif" name="Image3" width="199" height="18" border="0" id="Image3"></a>';
-	document.getElementById("bookmarkimage").innerHTML=bookimage;
-}
-function showmyaccount(){
-	
-	myaccount='<a href="http://www.mycoupons.com/members/login.php?r=/members/" onMouseOver="'+"MM_swapImage('Image1','','http://images.directtrack.com/mycoupons/images/header_buttons/images/myAcct-over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/header_buttons/images/myAcct.gif" name="Image1" width="110" height="30" border="0" id="Image1"></a>';
-	document.getElementById("show_myaccount_image").innerHTML=myaccount;
-}
-function check_URL(){	
-	var mode='1';
-	loc = window.location.hostname;
-	path = window.location.pathname;
-	
-	if(loc.indexOf('boards') >= 0){
-		mode='3';
-	}	
-	else if(loc.indexOf('classifieds') >= 0){
-		mode='9';
-	}
-	else if(loc.indexOf('giftcards') >= 0){
-		mode='7';
-	}
-	else{
-		if(path.indexOf('/advertise') == 0)
-			mode='5';
-		else if(path.indexOf('/newsletter') >= 0)
-			mode='11';
-	}
-	if(window.location.protocol == 'http:')
-		switchTabs(mode);
-}
-function show_login_form(){
-	str = '<form method=POST ACTION="http://www.mycoupons.com/members/login.php?r=%2Fmembers%2F">	<table vspace=0 hspace=0  border=0 cellpadding=2 cellspacing=0>	<tr> <td width="33%" align="right" class=buttonlinks>Username:</td> 	<td width="23%" class=buttonlinks><input name="mcuser" type="text" class=loginText id="username" size="10" autocomplete=off onBlur="'+"javascript:document.getElementById('mcpass').focus();"+'"></td>	<td width="44%" colspan="2"><div align="center"><input name="Submit" type="submit" class=buttonlinks value="Login"></div></td></tr><tr><td class=buttonlinks align="right">Password:</td><td class=buttonlinks><input name="mcpass" id="mcpass" type="password" class=loginText id="password" size="10"></td><td nowrap><span class=buttonlinks>Remember Me</span></td> <td width="44%"><input type="checkbox" name="persistent" value=1> </td> </tr><tr><td colspan=3><a href="'+"javascript:openWin('http://www.mycoupons.com/members/forgot_password.php')"+'" class="buttonlinks">Forgot password?</a></td></tr> </table>	</form>';
-	return str;
-}
-function displayform(){
-
-	var username=null;
-	username= WM_readCookie('mcuser');
-	
-	if((username==false) || (username==null)){
-		str = show_login_form();
-		img= '<a href="https://mycoupons.com/signup/"  onMouseOver="'+"MM_swapImage('Image2','','http://images.directtrack.com/mycoupons/images/header_buttons/images/SignUp-myAcct_over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/header_buttons/images/SignUp.gif" name="Image2" width="58" height="30" border="0" id="Image2"></a>';
-		urlshow='<a href="http://www.mycoupons.com/merchant/">Merchant Coupons</a> | 		<a href="http://www.mycoupons.com/page_faq.html">FAQ</a> | 		<a href="http://www.mycoupons.com/page_feedback.html" class="MCsize7">Feedback</a> | 		<a href="http://www.directresponse.com/press.html" class="MCsize7">Press</a> | 		<a href="http://www.mycoupons.com/page_tella.html">Tell-a-friend</a> | 		<a href="http://www.directresponse.com">About Us</a>';
-	}
-	else{
-		str = '<center> Welcome '+username+'<br>If you are not '+username+' <a href="http://www.mycoupons.com/members/logout.php" class="MCsize7">click here</a></center>';
-		img = '<a href="http://www.mycoupons.com/members/logout.php"  onMouseOver="'+"MM_swapImage('Image2','','http://images.directtrack.com/mycoupons/images/header_buttons/images/SignUp_blank_over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/header_buttons/images/SignUp_blank.gif" name="Image2" width="58" height="30" border="0" id="Image2"></a>';
-		urlshow= '<a href="http://www.mycoupons.com/email" class="MCsize7">Check E-mail</a> | 		<a href="http://members.mycoupons.com" class="MCsize7">View Member Sites</a> | 		<a href="http://www.mycoupons.com/merchant/">Merchant Coupons</a> | 		<a href="http://www.mycoupons.com/page_faq.html">FAQ</a> | 		<a href="http://www.mycoupons.com/page_feedback.html" class="MCsize7">Feedback</a> | 		<a href="http://www.directresponse.com/press.html" class="MCsize7">Press</a> | 		<a href="http://www.mycoupons.com/page_tella.html">Tell-a-friend</a> | 		<a href="http://www.directresponse.com">About Us</a>';
-	}
-	document.getElementById("showurls").innerHTML=urlshow;
-	document.getElementById("welcomenote").innerHTML=str;
-	document.getElementById("show_signin_image").innerHTML=img; 
-}
-
-function refreshfolderIframe(){
-	parent.side_6.location.href='http://www.mycoupons.com/infobar/side_6.html' ;
-}
-function refreshIframe(){
-	parent.side_5.location.href='http://www.mycoupons.com/infobar/side_5.html' ;
-}
-</script>
-<script language="JavaScript">
-<!--
-function switchTabs(mode)
-{	
-	var bgcolor = ['#094163', '#F9B002','#094163','#6699CC','#094163','#08C9C7','#094163','#BABEF7','#094163','#E03D8E','#094163','#EAE709'];
-	if(mode==false || mode==null){
-		mode='1';
-	}	
-	url="http://images.directtrack.com/mycoupons/images/header_buttons/images/";
-	WM_imageSwap("image"+mode,url+mode+"-over.gif");
-	right=parseInt(mode)+1;
-		WM_imageSwap("image"+right,url+right+"-right.gif");
-	if(mode!='1'){		
-		left = parseInt(mode)-1;
-		WM_imageSwap("image" + left,url + left + "-left.gif");
-	}
-	document.getElementById("color").style.background=bgcolor[parseInt(mode)]; 
-	if(mode=='1'){
-		browse='<a href="http://www.mycoupons.com/browse/bea/1/" class=buttonlinks>Beauty & Pharmacy</a> | <a href="http://www.mycoupons.com/browse/ent/1/" class=buttonlinks>Books & CDs</a> | <a href="http://www.mycoupons.com/browse/gro/1/" class=buttonlinks>Grocery & Gourmet</a> | <a href="http://www.mycoupons.com/browse/ter-3/1/" class=buttonlinks>Movies & DVDs</a> | <a href="http://www.mycoupons.com/browse/hom/1/" class=buttonlinks>Home</a><a href="http://www.mycoupons.com/browse/" class=buttonlinks>>><b>MORE</b></a>';
-	}
-	else{
-		browse='<img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="18">';
-	}
-	document.getElementById("show_browse").innerHTML=browse;
-}
-
-//-->
-</script>
-
 <title>MyCoupons - Coupons, Price Comparison, Discounts, Rebates, Gift Cards, Free Stuff, and much more!</title>
 
 <meta name="keywords" content="coupons, sales, rebates, discounts, shopping, grocery coupons, free samples, coupon codes, cool savings, coolsavings, cheap, freebies, promotions, free e-mail, coupon newsletters, free gifts, gift certificates, gift cards, food coupons, mycoupons.com, coupon, shopping ">
 
 <meta name="description" content="Online Coupons and Sales from MyCoupons.com.  Free e-mail gifts and freebies">
 <meta name="classification" content="coupons, free coupons, free stuff, free samples, supermarket coupons">
-</head>
-
-<body bgcolor="#094163" text="#000000" link="#000099" vlink="#000099" alink="#000099">
-<table width="100%" height="66" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="149" height="5" valign="top" bgcolor="#FFFFFF" scope="col"><p>
-	<img src="http://images.directtrack.com/mycoupons/images/dot.gif" width="1" height="4"></p>
-	</td>
-    <td width="604" rowspan="2" nowrap="" background="http://images.directtrack.com/mycoupons/images/backRamp.gif" bgcolor="#E1EAF0" scope="col">
-
-	<table height="60" border="0" cellpadding="0" cellspacing="0" class="buttonlinks" id="search_login" align="right">
-        <tbody><tr> 
-          <td width="352" height="10" align="center" valign="middle" nowrap=""><form method="GET" action="http://www.mycoupons.com/dosearch.html">
-              Search Coupons: <input name="term" type="text" class="loginText" value="" size="19">
-              <input name="Submit" type="submit" class="buttonlinks" value="FIND IT">
-          </form></td>
-		   <td width="247" height="17" align="right" valign="middle" nowrap="" class="buttonlinks">
-		   <!-- BEGIN SHOW USER WELCOME MESSAGE OR FORM -->		   
-		   <script>
-		   if(window.location.protocol == 'https:')
-			   document.write(show_login_form());
-		   </script><form method="POST" action="http://www.mycoupons.com/members/login.php?r=%2Fmembers%2F">	<table vspace="0" hspace="0" border="0" cellpadding="2" cellspacing="0">	<tbody><tr> <td width="33%" align="right" class="buttonlinks">Username:</td> 	<td width="23%" class="buttonlinks"><input name="mcuser" type="text" class="loginText" id="username" size="10" autocomplete="off" onblur="javascript:document.getElementById('mcpass').focus();"></td>	<td width="44%" colspan="2"><div align="center"><input name="Submit" type="submit" class="buttonlinks" value="Login"></div></td></tr><tr><td class="buttonlinks" align="right">Password:</td><td class="buttonlinks"><input name="mcpass" id="mcpass" type="password" class="loginText" size="10"></td><td nowrap=""><span class="buttonlinks">Remember Me</span></td> <td width="44%"><input type="checkbox" name="persistent" value="1"> </td> </tr><tr><td colspan="3"><a href="javascript:openWin('http://www.mycoupons.com/members/forgot_password.php')" class="buttonlinks">Forgot password?</a></td></tr> </tbody></table>	</form>
-		   <div id="welcomenote"></div>		   
-		 <!-- END SHOW USER WELCOME MESSAGE OR FORM -->	   
-	      </td>
-		  </tr>
-      </tbody></table></td>
-		<td width="100%" height="5" border="0" cellpadding="0" cellspacing="0" bgcolor="#E1EAF0"></td>
-  </tr>
-  <tr>
-    <td height="47" valign="top" bgcolor="#FFFFFF" class="MCsize8" scope="col">
-	<a href="http://www.mycoupons.com">
-	<img src="http://images.directtrack.com/mycoupons/images/header_Logo.gif" width="161" height="47" hspace="0" vspace="0" border="0"></a></td>
-		<td width="100%" height="35" bgcolor="#E1EAF0"></td>
-  </tr>
-</tbody></table>
-
-<table width="100%" height="30" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="61" height="30" scope="col"><a href="http://coupons.mycoupons.com"><img name="image1" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/1.gif" alt="" width="61" height="30" border="0"></a></td>
-    <td width="24" height="30" scope="col"><img name="image2" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/end_tab.gif" width="24" height="30" alt=""></td>
-    <td width="96" height="30" scope="col"><a href="http://www.mycoupons.com/boards/"><img name="image3" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/3.gif" width="96" height="30" border="0"></a></td>    
-	<td width="24" height="30" scope="col"><img name="image4" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/end_tab.gif" width="24" height="30" alt=""></td>
-    <td width="85" height="30" scope="col"><a href="http://www.mycoupons.com/advertise/"><img name="image5" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/5.gif" width="85" height="30" border="0" alt=""></a></td>
-    <td width="24" height="30" scope="col"><img name="image6" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/end_tab.gif" width="24" height="30" alt=""></td>
-    <td width="62" height="30" scope="col"><a href="http://mycoupons.giftcards.com"><img name="image7" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/7.gif" width="62" height="30" border="0" alt=""></a></td>
-    <td width="24" height="30" scope="col"><img name="image8" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/end_tab.gif" width="24" height="30" alt=""></td>    
-	<td width="65" height="30" scope="col"><a href="http://classifieds.mycoupons.com"><img name="image9" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/9.gif" width="65" height="30" border="0" alt=""></a></td>
-    <td width="24" height="30" scope="col"><img name="image10" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/end_tab.gif" width="24" height="30" alt=""></td>    
-	<td width="73" height="30" scope="col"><a href="http://www.mycoupons.com/newsletter/"><img name="image11" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/11.gif" alt="" width="73" height="30" hspace="0" vspace="0" border="0"></a></td>    
-	<td width="23" height="30" scope="col"><img name="image12" src="http://images.directtrack.com/mycoupons/images/header_buttons/images/newsletters_end_tab.gif" alt="" width="23" height="30" hspace="0" vspace="0" border="0"></td>
-	<td height="30" scope="col"><!-- BEGIN MYACCOUNT IMAGE --><div id="show_myaccount_image"></div><!-- END MYACCOUNT IMAGE --></td>
-	<!-- BEGIN SIGNIN IMAGE -->    
-	<td scope="col"><div id="show_signin_image"></div></td>
-	<!-- END SIGNIN IMAGE -->  
-	<td width="100%" background="http://images.directtrack.com/mycoupons/images/acct_background.gif"></td>
-  </tr>
-</tbody></table>
-<table width="100%" height="18" border="0" cellpadding="0" cellspacing="0" bgcolor="#094163">
-  <tbody><tr id="color" bgcolor="#094163">
-	<td class="MCsize7" width="554" height="18" scope="col" nowrap=""><div id="show_browse"></div></td>
-	<td width="199" height="18" scope="col"><!-- BEGIN BOOKMARK IMAGE --><div id="bookmarkimage"></div><!-- END BOOKMARK IMAGE --></td>
-	<td width="100%" bgcolor="#094163"><img src="http://images.directtrack.com/mycoupons/images/dot.gif" height="18" width="1"></td>
-  </tr> 
-</tbody></table>
-
-<table width="100%" height="10" border="0" cellpadding="0" cellspacing="0" bgcolor="#094163">
-  <tbody><tr valign="top">  
-    <td valign="top" bgcolor="#094163" scope="col" colspan="3">
-	<div align="right">
-		<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-        <tbody><tr>
-		  <td width="743" rowspan="2" align="right" class="MCsize7" nowrap="">
-			<div id="showurls"></div></td>
-          <td width="10" height="8" align="right" valign="top" bgcolor="#ffffff"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8"></td>		  	
-			<td bgcolor="#094163" width="100%" height="8" rowspan="2"><img src="http://images.directtrack.com/mycoupons/images/dot.gif" height="18" width="1"></td>			
-        </tr>
-        <tr>
-          <td height="8" width="10" align="right" valign="bottom" bgcolor="#ffffff"><img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-        </tr>
-      </tbody></table>
-      </div>
-    </td>
-</tr>
-</tbody></table>
-<table width="100%" height="1" border="0" cellpadding="0" cellspacing="0" bgcolor="#094163">
-<tbody><tr><td>
-<img src="http://images.directtrack.com/mycoupons/images/dot.gif" height="18" width="1"></td></tr>
-</tbody></table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="5" bgcolor="#094163">
-   <tbody><tr>
- 	<td width="100%" bgcolor="#094163" scope="col" valign="top">
- 	<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-	  <tbody><tr>
-		<td width="8" height="10" align="left" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-		<td width="10" height="8" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0"></td>
-	  </tr>
-	  <tr>            
-		<td valign="top">
-		<script language="JavaScript">
-		<!--
-		check_URL();
-		if(window.location.protocol == 'http:')
-		{
-			MM_preloadImages('http://images.directtrack.com/mycoupons/images/header_buttons/images/myAcct-over.gif','http://images.directtrack.com/mycoupons/images/header_buttons/images/SignUp-myAcct_over.gif','http://images.directtrack.com/mycoupons/images/header_buttons/images/make_homepage_trans_over.gif');	
-			
-		}
-		displayform();
-		showmyaccount();
-		showbookmark();
-		//-->
-		</script>		
-  <!-- BEGIN MAIN CONTENT -->
-	
-	<!-- image head -->
-	<br>
-	<img src="http://images.directtrack.com/mycoupons/images/head_privacy.gif" width="148" height="29" border="0" alt="Privacy Policy">
-	<!-- image head -->
-
-
-
-<!-- main content area -->
-<table cellpadding="10" align="center"><tbody><tr><td><font face="verdana" size="1">
-<!--<font size="2"><b>TRUSTe Certification</b></font><a href="https://www.truste.org/validate/4032"><img src="../images/ClickSeal.gif" align=right height=73 width=91 border=0 alt="TRUSTe: Click to Verify"></a>
-<br>Direct Response Technologies, Inc., the owner of MyCoupons and DirectCoupons, is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. Questions regarding this statement should be directed to MyCoupons&#153; or DirectCoupons&#153; - <a href="mailto:office@directresponse.com">office@directresponse.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact <a href="http://www.truste.org/watchdog.html">TRUSTe</a>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-<p>TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because we at Direct Response Technologies, Inc. want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of:
-<p>
-1. What personally identifiable information is collected<br>
-2. How the information is used<br>
-3. With whom the information will be shared<br>
-4. This site's opt-out policy<br>
-5. This site's policy on correcting and updating personally identifiable information<br>
- -->
-<p>
-<b>How Data is Collected:</b><br>
-Signing up for the MyCoupons® service provides Direct Response Technologies, Inc with your name, email address, gender, and zip code. Our method of collection is through our register page (<a href="https://mycoupons.com/signup/">https://mycoupons.com/signup/</a>). After a subscriber enters his/her name, email address, year of birth, gender, and zip code, data is transfered to our server and an account is setup.  For more information about the Terms of Use of MyCoupons®, please read the Terms of use page at:  <a href="https://mycoupons.com/page_terms.html">https://mycoupons.com/page_terms.html</a>
-
-</p><p>
-<b>How the Information is used:</b><br>
-MyCoupons® free email account allows you to forward email received from your MyCoupons address to any existing email account of your choosing. It also allows you to simply read and send email from the web browser. We do not read users email. We offer highest level of privacy offered to protect the users data. We only email your MyCoupons email box, unless we find a problem with your account, then we will email your regular email address. The other demographical data is used only to profile our general user base, and not to market to accordingly.
-
-</p><p>
-<b>With Whom will information be shared:</b><br>
-Direct Response Technologies, Inc., holds all data gathered in strict confidence. Under no circumstances will your e-mail address be sold to, supplied to, or otherwise made available to any third party. However, if you select to have one of the 'opt-in' advertisers to send you offers and emails to your MyCoupons email address, then we supply them with your name, zip code, gender, and your email address. Otherwise, they are never given your personal email address, and you can opt out from their emails whenever you wish.
-</p><p>
-<b>Cookies:</b><br>
-When you log into the MyCoupons site, we administer a single browser cookie, which helps us to keep track of your identity. We also use this cookie to save your username and passcode so you don't have to re-enter it each time you wish to use the site. If you choose not to accept the cookie, you will still be able to use the site, however you will need to log in manually. MyCoupons allows third party advertisers to set cookies. We are not responsible for these cookies and do not have access to the information contained in advertiser's cookies.
-
-</p><p>
-<b>Security Measures:</b><br>
-Employees are made aware of our privacy policy and practices by reviewing this statement upon hire. Access to user data contained in the database is limited to select members of our organization by a double password system. Passwords are changed regularly to provide additional protection.
-
-</p><p>
-<b>Messages and Chat Forum:</b><br>
-Disclosing personally identifiable information on-line through Chat Rooms, Forums, and Message Boards makes the information submitted public information; such disclosure may increase user's chances of receiving "spam" or unsolicited email. Be extra careful and use discretion when disclosing information on-line.
-
-</p><p>
-<b>Tell a Friend:</b><br>
-You can send email to your friends to let them know about the site. The friend will not receive further communication from the site above and beyond the initial email sent.
-</p><p>
-<b>Polls/Contests:</b><br>
-From time to time the site has contests or conduct polls. The polls are completely anonymous and not linked to any personal user information. We also provide contest/prizes. We provide the prizes for the contests from time to time.
-
-</p><p>
-<b>Log Files:</b><br>
-We do keep track of user IP numbers and log browser type, access times, and domain names. We do  not tie this information into any personal information.
-
-</p><p>
-<b>Notification of Changes in the Privacy Policy:</b><br>
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
-
-</p><p>
-
-<b>Change/Update User Information:</b><br>
-To Change user information, a subscriber only needs to click on MyCoupons Account, log in, and click on Edit Account.
-</p><p>
-<b>The Site Opt-Out Policy</b><br>
-Subscribers can opt-out at any time from MyCoupons® by hitting unsubscribe in the newsletters or logging into their account and disabling it.
-
-</p><p>If you opt-in for a newsletter listed on the signup form of MyCoupons®, and you try to opt out of the newsletter that you opt in for while signing up for MyCoupons®, in some cases you may have to confirm your opt out.
-
-
-</p><p>412-921-6881<br>
-<a href="mailto:office@directresponse.com">office@directresponse.com</a>
-</p><p>
-<b>Creating New Accounts:</b><br>
-Subscribers can create new accounts simply by going through the registration process again.
-
-</p><p>
-<b>Business Data Collected:</b><br>
-We collect no business data. 
-</p><p>
-<b>Links to other sites:</b><br>
-We link to may other sites from MyCoupons®.  Our site is a list of coupons and free stuff found on the Internet. Our links are provided to users and users link at their own risk. We do not share information, such as demographical data tracking, to link partners. We ONLY provide our listed 'opt in' partners with name, zipcode, gender, and email address if users opts in.
-
-</p><p>
-<b>Third Party Advertising Networks</b><br>
-This site, MyCoupons®, uses the services of DirectLeads/DirectClicks, for the serving and/or targeting of ads, promotions and other marketing messages.  DirectLeads/DirectClicks are owned by Direct Response Technologies, Inc.  Information is handled in the same manner on those networks, as it is here.
-
-</p><p>
-<b>Privacy of Information</b><br>
-It is Direct Response Technologies, Inc / MyCoupons's policy to respect the privacy of its Users. Direct Response Technologies, Inc / MyCoupons does not censor or control the contents of its Users' email messages. You alone are responsible for the contents of your messages, and the consequences of any such messages. As owner of the equipment and other resources used in providing the Direct Response Technologies, Inc / MyCoupons Service, Direct Response Technologies, Inc / MyCoupons and its suppliers reserve the right to employ blocking or filtering software or other monitoring devices or techniques if deemed necessary or reasonable to detect and/or protect itself from spam with respect to electronic communications received by Users from other persons or entities.
-
-</p><p>Direct Response Technologies, Inc / MyCoupons will cooperate with law enforcement and other legal authorities in investigating claims of illegal activity and to report to law enforcement officials any suspected illegal activity.
-</p></font><p><font face="verdana" size="1">Direct Response Technologies, Inc / MyCoupons will not release any personally-identifiable information regarding its Users to any third party except to the extent necessary or appropriate to cooperate with such law enforcement or other legal authorities, to comply with applicable laws or regulations or in legal or administrative proceedings where such information is relevant, according to the selected options of service listed on the signup page, or to properly provide the Direct Response Technologies, Inc / MyCoupons Service, operate or maintain its systems or protect itself or its customers. Direct Response Technologies, Inc / MyCoupons is not responsible for the privacy of your IP address, or any identifying data that you provide to the public through our Direct Response Technologies, Inc / MyCoupons shopping forum profiles, the auctions, classifieds, or free website. You agree that Direct Response Technologies, Inc / MyCoupons's judgment as to the validity of any court order or government directive to disclose information shall be considered proper and final. <b>Direct Response Technologies, Inc / MyCoupons reserves the right to terminate any User's account if Direct Response Technologies, Inc / MyCoupons learns that such User has provided Direct Response Technologies, Inc / MyCoupons false or misleading registration information. </b> If you select one of the check boxes for additional offers to be sent to you, Direct Response Technologies, Inc / MyCoupons will share your name, Direct Response Technologies, Inc / MyCoupons email address, gender, and zip code with the sites that you select.
-
-</font>
-</p></td>
-</tr>
-</tbody></table>
-<!-- main content area -->
-
-
-
-		<!-- END MAIN CONTENT -->
-</td>
-</tr>
- <tr> 
-<td align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8" hspace="0" vspace="0" border="0"></td>
-<td width="10" align="right" valign="bottom" "=""><img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8" hspace="0" vspace="0" border="0"></td>
-</tr>
-</tbody></table>
- </td>
-<!-- START INFOBAR CONTENT -->
+<link href="http://images.directtrack.com/mycoupons/css/CSS_coupon.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="http://images.directtrack.com/mycoupons/javascript/webmonkey_functions.js"></script>
 <script language="Javascript">
-var click=true;
-function exp(strTag,strDiv, iframe_div){ 
-	var elem = document.getElementById(strTag); 
-
-	if (elem.style.display=="none" || elem.style.display==""){ 
-		elem.style.display="block"; 
-		str="<img src=http://images.directtrack.com/mycoupons/images/infobar/plus.gif border=0>"; 		
-		iframe_location ='http://www.mycoupons.com/infobar/'+iframe_div+'.html';
-		click=true; 
+<!--
+function oldBrowser(theURL,winName,features) 
+{ 
+  window.open(theURL,winName,features);
+}
+if(!document.getElementById)
+{
+	oldBrowser('upgrade.htm','upgrade','width=300,height=350');
+}
+function openWin(url)
+{
+	x = screen.width/2 - 150;
+	y = screen.height/2 - 100;
+	aWindow = window.open(url,"thewindow",'toolbar=0,location=0,directories=0,status=0,menubar=0, width=410, height=350');		
+	if(aWindow)
+	{
+		aWindow.moveTo(x,y);
+		aWindow.focus();
 	}
-	else{ 
-		elem.style.display="none"; 
-		str="<img src=http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif border=0>"; 
-		iframe_location ='http://www.mycoupons.com/infobar/blank.html';
-		click=false; 
-	} 
-	WM_setCookie('INFOBAR_PANEL_'+strTag,elem.style.display,false,"/",".mycoupons.com");	
-	document.getElementById(strDiv).innerHTML=str; 
-	document.getElementById(iframe_div).src=iframe_location;	
-} 
-</script>
-<script language="Javascript">
-var click=true;
-function show_table(){
-	for (count=1;count<10;count++){		
-		displaystate= WM_readCookie('INFOBAR_PANEL_table'+count);
-		if (displaystate=="block"){
-			str="<img src='http://images.directtrack.com/mycoupons/images/infobar/plus.gif' border='0' width='28'>";
-			iframe_location = 'http://www.mycoupons.com/infobar/side_'+count+'.html';					
-			click=true; 
-		}
-		else{ 
-			displaystate="none"; 
-			str="<img src='http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif' border='0' width='28'>"; 
-			iframe_location='http://www.mycoupons.com/infobar/blank.html';			
-			click=false; 
-		}		
-		document.getElementById('table'+count).style.display=displaystate;
-		strDiv = "table"+count+"_div";
-		document.getElementById(strDiv).innerHTML=str; 	
-		iframe_div = "side_"+count;
-		document.getElementById(iframe_div).src=iframe_location;
+	else
+	{		
+		alert('Popup blocking software has prevented us from\nshowing the window.');
+	}
+}
+function xmlfeed(url)
+{
+	cWindow = window.open(url,"getxmlfeed","resizable=1,scrollbars=0,toolbar=0,location=0,directories=0,status=0,menubar=0, width=400, height=100,top=300,left=300");
+	cWindow.focus();
+}
+function switchTabs()
+{
+	path = window.location.pathname;
+	path = path.substring(1,path.length);
+	path = path.substring(0,path.length-1);
+	var buttonbararray = ['feature', 'specialpromo','daily','newsletter'];
+	for (var i = 0; i < buttonbararray.length; i++) 
+	{ 
+		if (buttonbararray[i] == path) 
+		{ 
+			url="http://images.directtrack.com/mycoupons/images/buttonbar_";	
+			WM_imageSwap("buttonbar_"+path,url+path+"-over.gif");		  
+	   } 
 	}	
 }
-</script>
+var click=true;
+function exp(strTag,strDiv)
+{	
+	var elem = document.getElementById(strTag);
+	if (elem.style.display=="none" || elem.style.display=="")
+	{ 
+		elem.style.display="block";
+		str='<img src=http://images.directtrack.com/mycoupons/images/searchButtonClose.gif border=0>';
+		click=true; 
+	}
+	else
+	{ 
+		elem.style.display="none";
+		str='<img src=http://images.directtrack.com/mycoupons/images/searchButtonOpen.gif border=0>'; 
+		click=false; 
+	} 
+	WM_setCookie('SEARCHBOX_table',elem.style.display,false,"/",".mycoupons.com");
+	document.getElementById(strDiv).innerHTML=str;
+}
+function show_searchbox()
+{
+	strTag = 'table1';
+	var elem = document.getElementById(strTag);
+	displaystate= WM_readCookie('SEARCHBOX_table');
+	loc = window.location.hostname;
+	if (displaystate=="none" || "http://"+loc == "http://www.mycoupons.com")
+	{
+		elem.style.display="none";
+		str='<img src=http://images.directtrack.com/mycoupons/images/searchButtonOpen.gif border=0>'; 
+		click=false; 
+	}
+	else
+	{ 
+		elem.style.display="block";
+		str='<img src=http://images.directtrack.com/mycoupons/images/searchButtonClose.gif border=0>';
+		click=true; 
+	}
+	strDiv = "table1_div";
+	document.getElementById(strDiv).innerHTML=str;
+}
+function displayform()
+{
+	var username=null;
+	username= WM_readCookie('mcuser');	
+	if((username==false) || (username==null))
+	{		
+		img= '<a href="https://mycoupons.com/signup/index.html"  onMouseOver="'+"MM_swapImage('buttonbar_signup','','http://images.directtrack.com/mycoupons/images/buttonbar_signup-over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_signup.gif" name="buttonbar_signup" border="0" id="buttonbar_signup"></a>';		
+	}
+	else
+	{
+		img = '<a href="http://www.mycoupons.com/members/logout.php">Logout</a>';
+		img = '<a href="http://www.mycoupons.com/members/logout.php"  onMouseOver="'+"MM_swapImage('buttonbar_logout','','http://images.directtrack.com/mycoupons/images/buttonbar_logout-over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_logout.gif" name="buttonbar_logout" border="0" id="buttonbar_signup"></a>';
+	}	
+	document.getElementById("show_signin_image").innerHTML=img; 
+}
 
-    <td valign="top" bgcolor="#094163">	
-	
-<table vspace="0" hspace="0" width="250" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-	
-  <tbody><tr><td valign="top" width="100%" class="MCsize9" scope="col"><img src="http://images.directtrack.com/mycoupons/images/infobar/topimage.gif">
-	<table width="250" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163" bgcolor="#FFFFFF">
-		<!--start my signup-->
-	<tbody><tr>
-        <td height="46" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66" onclick="exp('table8','table8_div','side_8');">	   
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><a href="Javascript:void(0);" class="buttonlinks">
-	        	<div id="table8_div" style="diplay:inline;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif" border="0" width="28"></div></a>
-			  </td>
-				
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<a href="Javascript:void(0);" class="buttonlinks"><div id="table8_div" style="diplay:inline;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/sendmecoupons.gif" border="0"></a>
-			</td>
-        	</tr>		
-			
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr onclick="exp('table8','table8_div','side_8');">
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-              <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Receive coupons in your e-mail box</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table8" style="display:none;" cellpadding="0" cellspacing="0">
-				  <tbody><tr>
-					<td height="150" colspan="4">
-					  <iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_8"></iframe>		
-					</td>
-				  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-		</tbody></table>
-		</td>
-      </tr>	
-	<!-- end signup-->
-	<!--start list categories-->
-	<tr>
-        <td height="46" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66" onclick="exp('table9','table9_div','side_9');">	   
-	      	<td width="28" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><a href="Javascript:void(0);" class="buttonlinks">
-	        	<div id="table9_div" style="diplay:inline;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif" border="0" width="28"></div></a>
-			  </td>
-				
-            <td width="225" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<a href="Javascript:void(0);" class="buttonlinks"><div id="table9_div" style="diplay:inline;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/viewallcat.gif" border="0"></a>
-			</td>
-        </tr>		
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr onclick="exp('table9','table9_div','side_9');">
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>			  
-              <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">List All Categories</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table9" style="display:none;" cellpadding="0" cellspacing="0">
-				  <tbody><tr>
-					<td height="500" colspan="4" class="buttonlinks">
-						<iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_9"></iframe>								 
-					</td>
-				  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-		</tbody></table>
-		</td>
-      </tr>	
-	<!-- end list categories-->	 
-	 <!-- Recently viewed-->		
-	<tr>
-        <td height="46" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66" onclick="exp('table5','table5_div','side_5');">	   
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><a href="Javascript:void(0);" class="buttonlinks">
-	        	<div id="table5_div" style="diplay:inline;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif" border="0" width="28"></div></a>
-			  </td>
-				
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<a href="Javascript:void(0);" class="buttonlinks"><div id="table5_div" style="diplay:inline;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/recentlyviewed.gif" border="0"></a>
-			</td>
-        	</tr>					
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr onclick="exp('table5','table5_div','side_5');">
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-              <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Coupons you have recently viewed</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table5" style="display:none;" cellpadding="0" cellspacing="0">
-		  <tbody><tr>
-			<td height="150" colspan="4">
-				<iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_5"></iframe>	
-			</td>
-		  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-		</tbody></table>
-		</td>
-      </tr>	
-	<!-- end recently Viewed-->		
-      <!-- begin highest CCI -->
-      <tr>
-        <td height="46" valign="top">	
-	<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66" onclick="exp('table1','table1_div','side_1');">	   
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><a href="Javascript:void(0);" class="buttonlinks">
-	        	<div id="table1_div" style="diplay:inline;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif" border="0" width="28"></div></a>
-		  </td>				
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<a href="Javascript:void(0);" class="buttonlinks"><div id="table1_div" style="diplay:inline;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/cci.gif" border="0"></a>
-			</td>
-       	</tr>			
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr onclick="exp('table1','table1_div','side_1');">
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-              <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Most
-                popular coupons </td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table1" style="display:none;" cellpadding="0" cellspacing="0">
-		  <tbody><tr><td height="400" colspan="4" class="buttonlinks">
-		   <iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_1"></iframe>		
-		</td>		
-		  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-	  </tbody></table>	
-		</td>
-      </tr>
-	  <!-- end highest CCI  -->	  
-	<!-- start big brands -->	
-	<tr>
-        <td height="46" valign="top">
-		<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66" onclick="exp('table2','table2_div','side_2');">	   
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><a href="Javascript:void(0);" class="buttonlinks">
-	        	<div id="table2_div" style="diplay:inline;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif" border="0" width="28"></div></a>
-		  </td>
-				
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<a href="Javascript:void(0);" class="buttonlinks"><div id="table2_div" style="diplay:inline;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/bigbrands.gif" border="0"></a>
-			</td>
-       	  </tr>		
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr onclick="exp('table2','table2_div','side_2');">
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-			  <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Coupons by larger brands</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table2" style="display:none;" cellpadding="0" cellspacing="0">
-		  <tbody><tr><td height="400" colspan="4" class="buttonlinks">
-			 <iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_2"></iframe>	
-		</td>		
-		  </tr>
-		  
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-		</tbody></table>	
-	</td>
-      </tr>
-	<!-- end big brands-->	
-	<!-- start featured items-->
-		<tr><td height="46" valign="top">
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66" onclick="exp('table3','table3_div','side_3');">	   
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><a href="Javascript:void(0);" class="buttonlinks">
-	        	<div id="table3_div" style="diplay:inline;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif" border="0" width="28"></div></a>
-		  </td>				
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<a href="Javascript:void(0);" class="buttonlinks"><div id="table3_div" style="diplay:inline;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/featuredcoupns.gif" border="0"></a>
-			</td>
-       	</tr>					
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr onclick="exp('table3','table3_div',3);">
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-			  <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Most recently posted coupons </td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table3" style="display:none;" cellpadding="0" cellspacing="0">
-		  <tbody><tr><td height="400" colspan="4" class="buttonlinks">
-		   <iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_3"></iframe>	
-		</td>		
-		  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-	  </tbody></table>	
-	</td>
-      </tr>	
-	<!-- end featured titems-->
-	<!-- start pop searches-->	
-	<tr>
-        <td height="46" valign="top">
-	<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66" onclick="exp('table4','table4_div','side_4');">	   
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><a href="Javascript:void(0);" class="buttonlinks">
-	        	<div id="table4_div" style="diplay:inline;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif" border="0" width="28"></div></a>
-		  </td>
-				
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<a href="Javascript:void(0);" class="buttonlinks"><div id="table4_div" style="diplay:inline;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/popsearch.gif" border="0"></a>
-			</td>
-       	</tr>					
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr onclick="exp('table4','table4_div','side_4');">
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-              <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Coupons most frequently searched</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table4" style="display:none;" cellpadding="0" cellspacing="0">
-		  <tbody><tr><td height="415" colspan="4" class="buttonlinks">
-				<iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_4"></iframe>	
-		</td>		
-		  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-	  </tbody></table>	
-	</td>
-      </tr>
-	<!-- end pop searches -->	
-	<!--start my wallet-->
-	<tr>
-        <td height="46" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66" onclick="exp('table6','table6_div','side_6');">	   
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><a href="Javascript:void(0);" class="buttonlinks">
-	        	<div id="table6_div" style="diplay:inline;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif" border="0" width="28"></div></a>
-			  </td>
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<a href="Javascript:void(0);" class="buttonlinks"><div id="table6_div" style="diplay:inline;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/mycouponfolder.gif" border="0"></a>
-			</td>
-        	</tr>
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr onclick="exp('table6','table6_div','side_6');">
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>		
-              <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Coupons saved in your folder</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table6" style="display:none;" cellpadding="0" cellspacing="0">
-				  <tbody><tr>
-					<td height="150" colspan="4">
-					  <iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_6"></iframe>		
-					</td>
-				  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-		</tbody></table>
-		</td>
-      </tr>	
-	<!-- end wallet-->
-	<!-- Start e-mails-->
-		<tr>
-        <td height="46" valign="top">
-				<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66" onclick="exp('table7','table7_div','side_7');">	   
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><a href="Javascript:void(0);" class="buttonlinks">
-	        	<div id="table7_div" style="diplay:inline;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus-over.gif" border="0" width="28"></div></a>
-			  </td>
-				
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<a href="Javascript:void(0);" class="buttonlinks"><div id="table7_div" style="diplay:inline;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/checkemail.gif" border="0"></a>
-			</td>
-        	</tr>					
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr onclick="exp('table7','table7_div','side_7');">
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-              <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Mail @ MyCoupons.com</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table7" style="display:none;" cellpadding="0" cellspacing="0">
-		  <tbody><tr>
-			<td height="50" colspan="4" class="buttonlinks">			
-			<iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_7"></iframe>	
-			</td>
-		  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-		</tbody></table>
-	</td>
-      </tr> 
-	
+function MM_swapImgRestore() { //v3.0
+	if(window.location.protocol == 'https:')
+		return;
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
 
-	  <!-- Start special promotions -->
-	  <tr>
-        <td height="46" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66">	<!-- onclick="exp('table10','table10_div','side_10');" -->   
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><!-- <A href =Javascript:void(0); class="buttonlinks"> -->
-	        	<div id="table10_div" style="diplay:block;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus.gif" border="0"></div><!-- </a> -->
-			  </td>
-				
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<!-- <A href =Javascript:void(0); class="buttonlinks"> --><div id="table10_div" style="diplay:block;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/featurePromotions.gif" border="0"><!-- </a> -->
-			</td>
-        	</tr>				
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr><!-- onclick="exp('table10','table10_div','side_10');" -->
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-              <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Promotions by advertisers</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table10" style="display:block;" cellpadding="0" cellspacing="0">
-		  <tbody><tr>
-			<td height="300" colspan="4" class="buttonlinks">			
-			<iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_10" src="http://www.mycoupons.com/infobar/side_10.html"></iframe>		
-			</td>
-		  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-		</tbody></table>
-		</td>
-      </tr>
-	  <!-- end special promotions -->
-	      <!-- start daily specials -->	
-	 <tr>
-        <td height="46" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tbody><tr bgcolor="#ffcc66">	 <!-- onclick="exp('table11','table11_div','side_11');" -->  
-	      	<td width="11%" height="8" nowrap="" bgcolor="#094163" scope="col" class="MCsize9"><!-- <A href =Javascript:void(0); class="buttonlinks"> -->
-	        	<div id="table11_div" style="diplay:block;"><img src="http://images.directtrack.com/mycoupons/images/infobar/plus.gif" border="0"></div><!-- </a> -->
-			  </td>
-				
-            <td width="81%" height="8" align="left" nowrap="" bgcolor="#094163" class="MCsize9" scope="col">
-			<!-- <A href =Javascript:void(0); class="buttonlinks"> --><div id="table11_div" style="diplay:block;"></div><img src="http://images.directtrack.com/mycoupons/images/infobar/dailyspecials.gif" border="0"><!-- </a> -->
-			</td>
-        	</tr>					
-        <tr>
-          <td height="23" colspan="2" nowrap="" class="MCsize9" scope="col">
-		  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr><!-- onclick="exp('table11','table11_div','side_11');" -->
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-              <td align="center" colspan="2" height="20" rowspan="2" valign="middle" class="buttonlinks">Daily Specials</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border="0" width="100%" id="table11" style="display:block;" cellpadding="0" cellspacing="0">
-		  <tbody><tr>
-			<td height="330" colspan="4" class="buttonlinks">			
-				<iframe frameborder="0" width="100%" height="100%" scrolling="auto" name="sideArea" id="side_11" src="http://www.mycoupons.com/infobar/side_11.html"></iframe>	
-			</td>
-		  </tr>
-	          </tbody></table>
-			  </td>
-              </tr>
-          </tbody></table>
-		  </td>
-        </tr>	      
-		</tbody></table>
-		</td>
-      </tr>
-	 <!-- end daily specials -->
-	  <!-- start goolge ads		
-				<tr>
-        <td height="46" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#094163">
-        <tr bgcolor=#ffcc66>	   
-	      	<td width="11%" height="8" nowrap bgcolor="#094163" scope="col" class ="MCsize9" >
-			  </td>				
-            <td width="81%" height="8" align="left" nowrap bgcolor="#094163" class ="MCsize9" scope="col">
-			</td>
-        	</tr>					
-        <tr>
-          <td height="23" colspan="2" nowrap class ="MCsize9" scope="col" >
-		  <table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0">
-            <tr>
-              <td width="10" align="left" valign="top">
-			  <img src="http://images.directtrack.com/mycoupons/images/upper_left.gif" width="10" height="8"></td>
-              <td align="center" colspan=2 height="20" rowspan="2" valign="middle" class="buttonlinks">&nbsp;</td>
-              <td width="14" align="right" valign="top"><img src="http://images.directtrack.com/mycoupons/images/upper_rightNL.gif" width="10" height="8" hspace="0" vspace="0" border="0" align="top"></td>
-           </tr>
-            <tr>
-              <td rowspan="2" align="left" valign="bottom"><img src="http://images.directtrack.com/mycoupons/images/bottom_left.gif" width="10" height="8"></td>
-              <td width="14" rowspan="2" align="right" valign="bottom">
-			  <img src="http://images.directtrack.com/mycoupons/images/bottom_right.gif" width="10" height="8"></td>
-            </tr>
-            <tr>
-              <td width="100%" height="8" colspan="2" align="center" valign="top" class="buttonlinks">
-			    <table border=0 width=100% style="display:block;" cellpadding="0" cellspacing="0">
-		  <tr>
-			<td height="260" colspan="4">			
-			
-				<script type="text/javascript"><!--
-					google_ad_client = "pub-9433820352171354";
-					google_ad_width = 250;
-					google_ad_height = 250;
-					google_ad_format = "250x250_as";
-					google_ad_channel ="";
-					google_color_border = "CDD5DD";
-					google_color_bg = "FFFFFF";
-					google_color_link = "003366";
-					google_color_url = "008000";
-					google_color_text = "004080";
-				//</script>
-				<script type="text/javascript"
-					src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-				</script>
-			
+function MM_swapImage() { //v3.0
+	if(window.location.protocol == 'https:')
+		return;
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
 
-			</td>
-		  </tr>
-	          </table>
-			  </td>
-              </tr>
-          </table>
-		  </td>
-        </tr>	      
-		</table>
-		</td>
-      </tr>-->
-	 <!-- end google ads -->
-    </tbody></table>
-	</td>	
-  </tr>
-</tbody></table><img src="http://images.directtrack.com/mycoupons/images/infobar/bottomimage.gif">
-	 </td>
-	 <script language="JavaScript">
-<!--
-	show_table();
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function reload_page()
+{
+	search_term = document.search_form.term.value;		
+	if(search_term=='')
+	{
+		alert("Please enter a keyword to search");
+		document.search_form.term.focus();	
+		return false;
+	}
+	return true;
+}
 //-->
 </script>
-	 <!-- END INFOBAR CONTENT -->
-	   </tr>
+
+</head>
+
+<body>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td height="69" width="432">
+		<!-- MY COUPONS LOGO -->
+		<a href="http://www.mycoupons.com/index.html"><img src="http://images.directtrack.com/mycoupons/images/MyCoupons_logosmall.gif" border="0"></a>
+		<!-- MY COUPONS LOGO -->
+	</td>
+	
+	<td align="right" valign="middle">
+		<!-- START GLOBAL LINKS -->
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>			
+				<td width="140" height="16"><a href="http://www.mycoupons.com/members/login.php" onmouseover="MM_swapImage('buttonbar_account','','http://images.directtrack.com/mycoupons/images/buttonbar_account-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_account.gif" name="buttonbar_account" border="0" id="buttonbar_account"></a></td>
+				<td width="61" height="16">					
+					<div id="show_signin_image"><a href="https://mycoupons.com/signup/index.html" onmouseover="MM_swapImage('buttonbar_signup','','http://images.directtrack.com/mycoupons/images/buttonbar_signup-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_signup.gif" name="buttonbar_signup" border="0" id="buttonbar_signup"></a></div>
+					<script language="javascript">
+					if(window.location.protocol == 'https:')
+					{
+						img = '<a href="https://mycoupons.com/signup/index.html"  onMouseOver="'+"MM_swapImage('buttonbar_signup','','http://images.directtrack.com/mycoupons/images/buttonbar_signup-over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_signup.gif" name="buttonbar_signup" border="0" id="buttonbar_signup"></a>';
+						document.getElementById("show_signin_image").innerHTML=img; 
+					}
+					</script>
+				</td>				
+				<td width="91" height="16"><a href="http://www.mycoupons.com/page_feedback.html" onmouseover="MM_swapImage('buttonbar_contact','','http://images.directtrack.com/mycoupons/images/buttonbar_contact-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_contact.gif" name="buttonbar_contact" border="0" id="buttonbar_contact"></a></td>
+			</tr>
+		</tbody></table>
+		<!-- END GLOBAL LINKS -->
+	</td>
+</tr>
 </tbody></table>
-      
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+  </tr><tr>
+		<td width="145" class="repeat"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="145" height="42" alt="" border="0"></td>
+		<td width="2" height="42"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_spaceone.gif" width="2" height="42" alt="" border="0"></td>
+		<td width="109" height="42"><a href="http://www.mycoupons.com/feature/" onmouseover="MM_swapImage('buttonbar_feature','','http://images.directtrack.com/mycoupons/images/buttonbar_feature-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_feature.gif" name="buttonbar_feature" border="0" id="buttonbar_feature"></a></td>
+		<td width="2" height="42"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_spaceone.gif" width="2" height="42" alt="" border="0"></td>
+		<td width="114" height="42"><a href="http://www.mycoupons.com/specialpromo/" onmouseover="MM_swapImage('buttonbar_specialpromo','','http://images.directtrack.com/mycoupons/images/buttonbar_specialpromo-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_specialpromo.gif" name="buttonbar_specialpromo" border="0" id="buttonbar_specialpromo"></a></td>
+		<td width="2" height="42"><img name="buttonbar_spacetwo" src="http://images.directtrack.com/mycoupons/images/buttonbar_spacetwo.gif" width="2" height="42" alt=""></td>
+		<td width="85" height="42"><a href="http://www.mycoupons.com/daily/" onmouseover="MM_swapImage('buttonbar_daily','','http://images.directtrack.com/mycoupons/images/buttonbar_daily-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_daily.gif" name="buttonbar_daily" border="0" id="buttonbar_daily"></a></td>
+		<td width="2" height="42"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_spacethree.gif" width="2" height="42" alt="" border="0"></td>
+		<td height="42"><a href="http://www.mycoupons.com/newsletter/" onmouseover="MM_swapImage('buttonbar_newsletter','','http://images.directtrack.com/mycoupons/images/buttonbar_newsletter-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_newsletter.gif" name="buttonbar_newsletter" border="0" id="buttonbar_newsletter"></a></td>
+  		<td width="2" height="42"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_spacethree.gif" width="2" height="42" alt="" border="0"></td>
+		<td width="100%" class="repeat">&nbsp;</td>
+  </tr>
+</tbody></table>
 
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#094163">
+<table width="100%" border="0" cellpadding="1" cellspacing="0" align="center">
+	<tbody><tr bgcolor="#F5F5F5">
+		<td align="right"><a href="Javascript:void(0);" onclick="exp('table1','table1_div');"><div id="table1_div" style="display:inline;"><img src="http://images.directtrack.com/mycoupons/images/searchButtonClose.gif" width="119" height="20" border="0"></div></a></td>
+	</tr>
+</tbody></table>
+
+
+<table width="618" border="0" cellpadding="4" cellspacing="0" id="table1">
 	<tbody><tr>
-		<td class="categorybackground" width="11%" align="center"><font face="arial" size="1"><a href="http://www.directresponse.com/info/publishers/mycoupons/" class="buttonlinks" target="_parent" style="font-family:arial">Affiliates</a></font></td>
-		<td class="categorybackground" width="11%" align="center"><font face="arial" size="1"><a href="http://www.mycoupons.com/advertise/" class="buttonlinks" target="_parent" style="font-family:arial">Advertise</a></font></td>
-		<td class="categorybackground" width="11%" align="center"><font face="arial" size="1"><a href="http://www.mycoupons.com/page_privacy.html" class="buttonlinks" target="_parent" style="font-family:arial">Privacy</a></font></td>
-		<td class="categorybackground" width="11%" align="center"><font face="arial" size="1"><a href="http://www.mycoupons.com/page_feedback.html" class="buttonlinks" target="_parent" style="font-family:arial">Feedback</a></font></td>
-		<td class="categorybackground" width="11%" align="center"><font face="arial" size="1"><a href="http://www.directresponse.com/press.html" class="buttonlinks" target="_parent" style="font-family:arial">Press</a></font></td>
-		<td class="categorybackground" width="11%" align="center"><font face="arial" size="1"><a href="http://www.mycoupons.com/page_terms.html" class="buttonlinks" target="_parent" style="font-family:arial">Terms of Use</a></font></td>
-		<td class="categorybackground" width="11%" align="center"><font face="arial" size="1"><a href="http://www.mycoupons.com/page_faq.html" class="buttonlinks" target="_parent" style="font-family:arial">FAQ</a></font></td>
-		<td class="categorybackground" width="11%" align="center"><font face="arial" size="1"><a href="http://www.directcoupons.com/" class="buttonlinks" target="_parent" style="font-family:arial">Newsletter</a></font></td>
-		<td class="categorybackground" width="11%" align="center"><font face="arial" size="1"><a href="http://www.mycoupons.com/page_tella.html" class="buttonlinks" target="_parent" style="font-family:arial">Tell-a-Friend</a></font></td>
-	</tr>	
+		<td rowspan="3"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" alt="#" width="1" height="1" border="0"></td>
+		<td width="334" colspan="3">
+		<!-- SEARCH COUPONS LOGO -->
+		<img src="http://images.directtrack.com/mycoupons/images/searchCouponsSmall.gif" alt="#" width="334" height="32" border="0">
+		<!-- SEARCH COUPONS LOGO -->
+		</td>
+		<td width="77" rowspan="3"><img src="http://images.directtrack.com/mycoupons/images/searchDividLineSmall.gif" alt="#" width="77" height="70" border="0"></td>
+		<td width="207" rowspan="3" align="left" valign="top">
+			
+			<!-- START SEARCH COUPONS BY -->
+			<table width="207" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="207" height="26" colspan="3"><img src="http://images.directtrack.com/mycoupons/images/searchCoupons_head.gif" width="207" height="26" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td width="72" height="17"><a href="/browse/" onmouseover="MM_swapImage('buttonbar_browse2','','http://images.directtrack.com/mycoupons/images/buttonbar_browse-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_browse.gif" name="buttonbar_browse" border="0" id="buttonbar_browse2"></a></td>
+					<td width="74" height="17"><a href="/new/-/1" onmouseover="MM_swapImage('buttonbar_newest2','','http://images.directtrack.com/mycoupons/images/buttonbar_newest-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_newest.gif" name="buttonbar_newest" border="0" id="buttonbar_newest2"></a></td>
+					<td width="61" height="17"><a href="/merchant/" onmouseover="MM_swapImage('buttonbar_merchant2','','http://images.directtrack.com/mycoupons/images/buttonbar_merchant-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_merchant.gif" name="buttonbar_merchant" border="0" id="buttonbar_merchant2"></a></td>
+				</tr>
+				<tr>
+					<td width="72" height="25"><a href="/hot/-/1" onmouseover="MM_swapImage('buttonbar_hot2','','http://images.directtrack.com/mycoupons/images/buttonbar_hot-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_hot.gif" name="buttonbar_hot" border="0" id="buttonbar_hot2"></a></td>
+					<td width="74" height="25"><a href="/popular/-/1" onmouseover="MM_swapImage('buttonbar_popular2','','http://images.directtrack.com/mycoupons/images/buttonbar_popular-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_popular.gif" name="buttonbar_popular" border="0" id="buttonbar_popular2"></a>	</td>
+					<td width="61" height="25"><a href="/brand/" onmouseover="MM_swapImage('buttonbar_brand2','','http://images.directtrack.com/mycoupons/images/buttonbar_brand-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_brand.gif" name="buttonbar_brand" border="0" id="buttonbar_brand2"></a>	</td>				
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<form method="GET" action="/dosearch.html" name="search_form" onsubmit="return reload_page();"></form>                    
+		<td width="77" height="22"><img src="http://images.directtrack.com/mycoupons/images/keywords.gif" width="77" height="22" alt="" border="0"></td>
+		<td width="191" height="22"> <input class="textField" name="term" type="text" value="" size="25" maxlength="25">	
+		</td><td width="66" height="22"><input type="image" src="http://images.directtrack.com/mycoupons/images/finditButton.gif" name="Submit" value="FIND IT" border="0"></td>
+						
+	</tr>
+	<tr>
+		<td colspan="3"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="5" alt="" border="0"></td>
+	</tr>
 </tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#094163">
-<tbody><tr bgcolor="#ffffff"><td colspan="9" align="center"><br>
-	<font face="verdana" size="1"><a href="http://www.mycoupons.com/page_copyright.html" class="copyright">© 1994-2004</a> <a href="http://www.directresponse.com" target="_blank" class="copyright">Direct Response Technologies, Inc.</a></font></td></tr>
+<script language="Javascript">
+<!--
+if(window.location.protocol == 'http:')
+{
+	displayform();
+	switchTabs();	
+	show_searchbox();
+	MM_preloadImages('http://images.directtrack.com/mycoupons/images/buttonbar_account-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_signup-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_contacus-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_feature-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_specpro-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_dailyspec-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_category-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_newest-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_brand-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_hot-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_popular-over.gif','http://images.directtrack.com/mycoupons/images/buttonbar_brand-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_news-over.gif', 'http://images.directtrack.com/mycoupons/images/buttonbar_logout-over.gif');
+}
+//-->
+</script>
+  <!-- BEGIN MAIN CONTENT -->	
+<table width="95%" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="35" height="1" alt="" border="0"></td>
+		<td class="mcSmall">
+		
+			<p><img src="http://images.directtrack.com/mycoupons/images/mcHead_privacy.gif" width="372" height="50" border="0"></p>
+			
+			<p>
+			<b>How Data is Collected:</b>
+			<br>Signing up for the MyCoupons® service provides Direct Response Technologies, Inc with your name, email address, gender, and zip code. Our method of collection is through our register page (<a href="https://mycoupons.com/signup/" class="terms">https://mycoupons.com/signup/</a>). After a subscriber enters his/her name, email address, year of birth, gender, and zip code, data is transfered to our server and an account is setup.  For more information about the Terms of Use of MyCoupons®, please read the Terms of use page at:  <a href="" class="terms">http://www.mycoupons.com/page_terms.html</a>
+			</p>
+			
+			<p>
+			<b>How the Information is used:</b>
+			<br>MyCoupons® free email account allows you to forward email received from your MyCoupons address to any existing email account of your choosing. It also allows you to simply read and send email from the web browser. We do not read users email. We offer highest level of privacy offered to protect the users data. We only email your MyCoupons email box, unless we find a problem with your account, then we will email your regular email address. The other demographical data is used only to profile our general user base, and not to market to accordingly.
+			</p>
+			
+			<p>
+			<b>With Whom will information be shared:</b>
+			<br>Direct Response Technologies, Inc., holds all data gathered in strict confidence. Under no circumstances will your e-mail address be sold to, supplied to, or otherwise made available to any third party. However, if you select to have one of the 'opt-in' advertisers to send you offers and emails to your MyCoupons email address, then we supply them with your name, zip code, gender, and your email address. Otherwise, they are never given your personal email address, and you can opt out from their emails whenever you wish.
+			</p>
+			
+			<p>
+			<b>Cookies:</b>
+			<br>When you log into the MyCoupons site, we administer a single browser cookie, which helps us to keep track of your identity. We also use this cookie to save your username and passcode so you don't have to re-enter it each time you wish to use the site. If you choose not to accept the cookie, you will still be able to use the site, however you will need to log in manually. MyCoupons allows third party advertisers to set cookies. We are not responsible for these cookies and do not have access to the information contained in advertiser's cookies.
+			</p>
+			
+			<p>
+			<b>Security Measures:</b>
+			<br>Employees are made aware of our privacy policy and practices by reviewing this statement upon hire. Access to user data contained in the database is limited to select members of our organization by a double password system. Passwords are changed regularly to provide additional protection.
+			</p>
+			
+			<p>
+			<b>Messages and Chat Forum:</b>
+			<br>Disclosing personally identifiable information on-line through Chat Rooms, Forums, and Message Boards makes the information submitted public information; such disclosure may increase user's chances of receiving "spam" or unsolicited email. Be extra careful and use discretion when disclosing information on-line.
+			</p>
+			
+			<p>
+			<b>Tell a Friend:</b>
+			<br>You can send email to your friends to let them know about the site. The friend will not receive further communication from the site above and beyond the initial email sent.
+			</p>
+			
+			<p>
+			<b>Polls/Contests:</b>
+			<br>From time to time the site has contests or conduct polls. The polls are completely anonymous and not linked to any personal user information. We also provide contest/prizes. We provide the prizes for the contests from time to time.
+			</p>
+			
+			<p>
+			<b>Log Files:</b>
+			<br>We do keep track of user IP numbers and log browser type, access times, and domain names. We do  not tie this information into any personal information.</p>
+			
+			<p>
+			<b>Notification of Changes in the Privacy Policy:</b>
+			<br>If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+			</p>
+			
+			<p>
+			<b>Change/Update User Information:</b>
+			<br>To Change user information, a subscriber only needs to click on MyCoupons Account, log in, and click on Edit Account.
+			</p>
+			
+			<p>
+			<b>The Site Opt-Out Policy</b>
+			<br>Subscribers can opt-out at any time from MyCoupons® by hitting unsubscribe in the newsletters or logging into their account and disabling it.
+			</p>
+			
+			<p>
+			If you opt-in for a newsletter listed on the signup form of MyCoupons®, and you try to opt out of the newsletter that you opt in for while signing up for MyCoupons®, in some cases you may have to confirm your opt out.
+			</p>
+			
+			
+			<p>
+			412-921-6881<br>
+			<a href="mailto:office@directresponse.com" class="terms">office@directresponse.com</a>
+			</p>
+			
+			<p>
+			<b>Creating New Accounts:</b>
+			<br>Subscribers can create new accounts simply by going through the registration process again.</p>
+			
+			<p>
+			<b>Business Data Collected:</b>
+			<br>We collect no business data.
+			</p> 
+			
+			<p>
+			<b>Links to other sites:</b>
+			<br>We link to may other sites from MyCoupons®.  Our site is a list of coupons and free stuff found on the Internet. Our links are provided to users and users link at their own risk. We do not share information, such as demographical data tracking, to link partners. We ONLY provide our listed 'opt in' partners with name, zipcode, gender, and email address if users opts in. 
+			</p>
+			
+			<p>
+			<b>Third Party Advertising Networks</b>
+			<br>This site, MyCoupons®, uses the services of DirectLeads/DirectClicks, for the serving and/or targeting of ads, promotions and other marketing messages.  DirectLeads/DirectClicks are owned by Direct Response Technologies, Inc.  Information is handled in the same manner on those networks, as it is here.
+			</p>
+			
+			<p>
+			<b>Privacy of Information</b>
+			<br>It is Direct Response Technologies, Inc / MyCoupons's policy to respect the privacy of its Users. Direct Response Technologies, Inc / MyCoupons does not censor or control the contents of its Users' email messages. You alone are responsible for the contents of your messages, and the consequences of any such messages. As owner of the equipment and other resources used in providing the Direct Response Technologies, Inc / MyCoupons Service, Direct Response Technologies, Inc / MyCoupons and its suppliers reserve the right to employ blocking or filtering software or other monitoring devices or techniques if deemed necessary or reasonable to detect and/or protect itself from spam with respect to electronic communications received by Users from other persons or entities.
+			</p>
+			
+			<p>
+			Direct Response Technologies, Inc / MyCoupons will cooperate with law enforcement and other legal authorities in investigating claims of illegal activity and to report to law enforcement officials any suspected illegal activity.
+			</p>
+			
+			<p>
+			Direct Response Technologies, Inc / MyCoupons will not release any personally-identifiable information regarding its Users to any third party except to the extent necessary or appropriate to cooperate with such law enforcement or other legal authorities, to comply with applicable laws or regulations or in legal or administrative proceedings where such information is relevant, according to the selected options of service listed on the signup page, or to properly provide the Direct Response Technologies, Inc / MyCoupons Service, operate or maintain its systems or protect itself or its customers. Direct Response Technologies, Inc / MyCoupons is not responsible for the privacy of your IP address, or any identifying data that you provide to the public through our Direct Response Technologies, Inc / MyCoupons shopping forum profiles, the auctions, classifieds, or free website. You agree that Direct Response Technologies, Inc / MyCoupons's judgment as to the validity of any court order or government 
+			directive to disclose information shall be considered proper and final. <b>Direct Response Technologies, Inc / MyCoupons reserves the right to terminate any User's account if Direct Response Technologies, Inc / MyCoupons learns that such User has provided Direct Response Technologies, Inc / MyCoupons false or misleading registration information. </b> If you select one of the check boxes for additional offers to be sent to you, Direct Response Technologies, Inc / MyCoupons will share your name, Direct Response Technologies, Inc / MyCoupons email address, gender, and zip code with the sites that you select.
+			</p>
+									
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="0" height="20" alt="" border="0"></td>
+		</tr>
+	</tbody></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="left" bgcolor="ffffff">
+	<tbody><tr>
+		<td bgcolor="#ffffff"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#a4d1dd"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="5" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffffff"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#72b2c4"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="15" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td height="58" align="center">
+			<a href="http://www.mycoupons.com/page_affiliates.html" class="footer">Affiliates</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/page_advertise.html" class="footer">Advertise</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/page_privacy.html" class="footer">Privacy</a>   <font class="footLine">|</font>    <a href="http://www.mycoupons.com/page_terms.html" class="footer">Terms of Use</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/page_faq.html" class="footer">FAQ</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/newsletter" class="footer">Newsletter</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/newsletter/unsubscribe.html" class="footer">Unsubscribe</a>   <font class="footLine">|</font> <a href="http://www.mycoupons.com/page_tella.html" class="footer">Tell-a-Friend</a>   <font class="footLine">|</font> <a href="http://www.mycoupons.com/boards/" class="footer">Shopping Boards</a>
+			<br>
+			<font class="cr">COPYRIGHT 1994 - 2004 DIRECT RESPONSE TECHNOLOGIES, INC.</font> 
+		</td>
+	</tr>
 </tbody></table>
-<br>
-<!-- *** KEYWORDMAX CLICK CODE 2.0 *** -->
-<script language="JavaScript" src="http://keywordmax.com/tracking/show.php?id=918052408&amp;location=Homepage"></script>
-<!-- ^^^ KEYWORDMAX CLICK CODE 2.0 ^^^ -->
-
 
 </body></html>
