@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the wilcom.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607055658id_/http%3A//www.wiltel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilcom.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209044638id_/http%3A//www.wiltel.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-WilTel has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: WilTel. 
+References to “WilTel” herein include WilTel Communications, LLC, its parent, affiliates and subsidiaries, including but not limited to, Vyvx, LLC.
+
+WilTel Communications, LLC has created this privacy statement in order to demonstrate WilTel’s firm commitment to privacy. The following discloses our information gathering and dissemination practices for the WilTel and Vyvx Web sites. 
 
 The information requested on our site is primarily used to be able to reach you to provide the information you request on our forms. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address also is used to gather broad demographic information about who is visiting our site. 
+
+WilTel uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.  For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>
 
 This site contains links to other sites. WilTel is not responsible for the privacy practices or the content of such Web sites.
 
@@ -21,7 +25,7 @@ You can send email to:  [wiltel.webmaster@wiltel.com ](mailto:wiltel.webmaster
 **CORRECT/UPDATE**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-You can send email to:  [wiltel.webmaster@wiltel.com ](mailto:wiltel.webmaster@wiltel.com)
+You can send email to:  [wiltel.webmaster@wiltel.com ](mailto:wiltel.webmaster@wiltel.com%20)**__**
 
 **CONTACTING THE WEB SITE  
 ** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
@@ -30,6 +34,6 @@ WilTel Communications
 Attn: WilTel Webmaster  
 One Technology Center,  MD TC-8J  
 Tulsa, OK 74103  
-[wiltel.webmaster@wiltel.com ](mailto:wiltel.webmaster@wiltel.com)
+[wiltel.webmaster@wiltel.com ](mailto:wiltel.webmaster@wiltel.com%20)**__**
 
-©COPYRIGHT 2003 WilTel, LLC. All rights reserved. 
+ ©COPYRIGHT 2003-2004 WilTel Communications, LLC. All rights reserved. 
