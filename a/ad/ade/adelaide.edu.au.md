@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205114558id_/http%3A//www.adelaide.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410201403id_/http%3A//www.adelaide.edu.au/legals/privacy.html) for the most accurate reproduction.*
 
-# The University of Adelaide Privacy Regulations
+# The University of Adelaide Privacy
 
   
 The following provides an overview of how your privacy is protected during your visit.
@@ -20,9 +20,8 @@ One example of information we collect directly from you is through the use of co
 
 ###### Use of information
 
-We analyse information obtained on this website to determine the effectiveness of our site and modify it to improve the service for users. If information we collect from you is used for any other purpose, you will be advised of our intent when we request information from you. You can then abort your request and therefore no information will be collected from you.
+We analyse information obtained on this web site to determine the effectiveness of our site and modify it to improve the service for users. If information we collect from you is used for any other purpose, you will be advised of our intent when we request information from you. You can then abort your request and therefore no information will be collected from you.
 
 ###### Protection of information
 
-The University of Adelaide does not sell your information to any third party. The University may share information with a third party, but only if that information is provided directly by you and you have been informed in advance of the information's release.  
-
+The University of Adelaide does not sell your information to any third party. The University may share information with a third party, but only if that information is provided directly by you and you have been informed in advance of the information's release.
