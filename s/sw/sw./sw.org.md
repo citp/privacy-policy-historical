@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sw.org privacy policy that was archived on 2001-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010107175700id_/http%3A//sw.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sw.org privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205071836id_/http%3A//sw.org/privacy.htm) for the most accurate reproduction.*
 
 # Scott & White Privacy Policy Statement
 
@@ -42,5 +42,5 @@
   
 
 
-Copyright © 1998-2000 by Scott & White Hospital and Clinic.  
+Copyright © 1998-2001 by Scott & White.  
 All rights reserved.
