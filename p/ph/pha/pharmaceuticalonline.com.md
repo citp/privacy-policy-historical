@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the pharmaceuticalonline.com privacy policy that was archived on 2000-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000522071623id_/http%3A//www.pharmaceuticalonline.com/content/Membership/privacy.asp%3FReturn%3Dhttp%3A//www.pharmaceuticalonline.com) for the most accurate reproduction.*
+
+# M E M B E R S H I P R E G I S T R A T I O N
+
+  
+|  |  |   
+---|---|---  
+  **Privacy Statement**  
+Our policy is to respect and protect the privacy of our users. We will not willfully disclose individually identifiable information about our customers to any third party without first receiving that user's permission. 
+
+**Does VerticalNet ask for personal information?**  
+Yes, we do. VerticalNet may ask for your name, email address, and other personal information when you sign up for our services. We may also ask for such information at other times, such as when you request information from VerticalNet and/or our customers. Will VerticalNet disclose any of my personal information? VerticalNet will not disclose any of your personal information, except as described below, or when we believe in good faith that the law requires it, or to protect the rights or property of VerticalNet. Under confidentiality agreements, VerticalNet may match user information with third party data. Also, VerticalNet does disclose aggregated user statistics (for example, 45% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. If/when we do match user information we endeavor to keep personal information confidential from those third parties. Additionally, if you make a purchase from our site, the information obtained during your visit to these areas, and the information that you give such as your credit card number and contact information, is provided to the merchant of record. These merchants can be VerticalNet or third party companies. These merchants have separate privacy and data collection practices. VerticalNet has no responsibility or liability for these independent policies. 
+
+**How Does VerticalNet use my personal information?**  
+VerticalNet's goal in collecting personal information is to provide you, the user, with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about you, VerticalNet is able to deliver more relevant content and advertisements, and hence a better service, to you. In our role of delivering targeted advertisements, VerticalNet plays the middleman. Advertisers give us an ad and tell us the type of audience they want to reach (for example, males over 35 years old). VerticalNet takes the ad and displays it to users meeting those criteria. In this process, the advertiser never has access to individual account information. Only VerticalNet has access to individuals' accounts. Will VerticalNet use my information for direct mailings? We will send you information about our various products and services, or other products and services we feel may be of interest to you. You can remove yourself from this distribution list via a link in the communication. Only VerticalNet (or agents working on behalf of VerticalNet and under confidentiality agreements) will send you these direct mailings.
+
+**What about kids?**  
+VerticalNet sites are for professionals and usage by children is not intended. With that said, the safety of children is very important to us. Kids(under age 16) should always ask parents for permission before sending personal information to VerticalNet, or to anyone online for that matter.
+
+**Does VerticalNet use cookies and "IP Addresses"?**  
+Yes, cookies are used on VerticalNet in various ways. (1) We use cookies to be reminded of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register. (2) Cookies are used in VerticalNet E-Commerce to help VerticalNet track visits to and business at its store and process the items in your shopping basket. (3) Cookies are also used to estimate our audience size. Each browser accessing VerticalNet is given a unique cookie which is then used to determine repeat usage versus initial usage, and to help in targeting ads based on user interests. (4) Lastly, advertising networks that serve ads onto VerticalNet may also use cookies.
+
+**IP Addresses**  
+VerticalNet collects IP addresses for the purposes of system administration and to report aggregate information to our advertisers and others.
+
+**What else should I know about my privacy?**  
+Please keep in mind that whenever you voluntarily disclose personal information online - for example in discussion forums, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Furthermore, while we strive to protect your personal information, VerticalNet cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In addition, VerticalNet partners and third party Internet sites and services accessible through VerticalNet or parties whom we inform you are collecting data in connection with sweepstakes, promotions, etc., have separate privacy and data collection practices, independent of us. VerticalNet has no responsibility or liability for these independent policies or actions. The point? You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
+
+[Click Here to Return]()
