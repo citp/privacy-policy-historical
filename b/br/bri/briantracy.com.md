@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202018id_/http%3A//www.briantracy.com/main/page.asp%3FPageID%3D13%26B%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080854id_/http%3A//www.briantracy.com/main/page.asp%3FPageID%3D13%26B%3D26) for the most accurate reproduction.*
 
 # Brian Tracy International
 
