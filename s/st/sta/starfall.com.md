@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204211905id_/http%3A//www.starfall.com/n/N-info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206152100id_/http%3A//www.starfall.com/n/N-info/privacy.htm) for the most accurate reproduction.*
 
 # Starfall Website Privacy Policy
 
