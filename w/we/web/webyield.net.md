@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604041648id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204042944id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -22,7 +22,7 @@
 [Search Engine Submission](https://web.archive.org/submit.html)  
 [Check Search Engine Position](https://web.archive.org/position.html)  
 [Link Popularity Analysis](https://web.archive.org/popularity.html)  
-[Keyword Analyzer](https://web.archive.org/keyword_analyzer.html)  
+[Keyword Analyzer](https://web.archive.org/kwa/keyword_analyzer.cgi)  
 [Web Page Optimizer](https://web.archive.org/builder.html)  
 [Meta Tag Generator](https://web.archive.org/metatags.html)  
 [Robot Tag Generator](https://web.archive.org/robot_tags.html)  
