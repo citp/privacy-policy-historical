@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601150911id_/http%3A//www.mysa.com/mysanantonio/aboutus/mysanantonio/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054914id_/http%3A//www.mysanantonio.com/aboutus/mysa/privacy.shtml) for the most accurate reproduction.*
 
 # My San Antonio: Privacy Policy
 
 **Our Privacy Policy**
 
-This privacy policy describes how MSA.com, LLC("MySA") treats the personally identifiable information that is collected about you when you visit MySanAntonio.com, the website of The San Antonio Express-News, a publication of Hearst Newspapers Partnership, LP ("Hearst") and Ken's TV, a station of Belo Communications, Inc. ("Belo"). Hearst and Belo are referred to as our "Partners". The information collected on MySanAntonio.com may be shared with our Partners, and used by them in accordance with the terms set forth in this policy. This privacy policy also applies to those website pages of The San Antonio Express-News and Ken's TV that are accessible through links on MySanAntonio.com. If you have any questions or concerns about these privacy guidelines, please send an e-mail to webmaster at: [feedback@MySanAntonio.com](mailto:feedback@mysanantonio.com)
+This privacy policy describes how MSA.com, LLC("MySA") treats the personally identifiable information that is collected about you when you visit MySanAntonio.com, the website of The San Antonio Express-News, a publication of Hearst Newspapers Partnership, LP ("Hearst") and KENS TV, a station of Belo Communications, Inc. ("Belo"). Hearst and Belo are referred to as our "Partners". The information collected on MySanAntonio.com may be shared with our Partners, and used by them in accordance with the terms set forth in this policy. This privacy policy also applies to those website pages of The San Antonio Express-News and KENS TV that are accessible through links on MySanAntonio.com. If you have any questions or concerns about these privacy guidelines, please send an e-mail to webmaster at: [feedback@MySanAntonio.com](mailto:feedback@mysanantonio.com)
 
 Any information you provide when you visit web sites other than those covered by this policy (including other web sites affiliated with our Partners) or when you purchase any products or services that may be offered or advertised on our web site by companies other than MySA is subject to the privacy policies of the third party organizations who run and/or own these web sites. This policy also does not apply to information you may provide to us or our Partners offline.
 
@@ -19,7 +19,7 @@ MySA and its Partners generally collect personally identifiable information when
 
 MySA and its Partners use this information to provide you with the service you have requested. If you subscribe to the Express-News, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine. Similarly, if you enter online sweepstakes, we will use this information to notify you if you are a winner.
 
-If you elect to customize the site, we collect your log-in, encrypted password, first and last name, email address, zip code, gender, birthdate, and income level. We will also give you the option to tell us your news preferences, favorite hobbies, whether you subscribe to the Express-News and how often you watch Kens-TV. We use this information to provide you with the customized news and features you have indicated you prefer.
+If you elect to customize the site, we collect your log-in, encrypted password, first and last name, email address, zip code, gender, birthdate, and income level. We will also give you the option to tell us your news preferences, favorite hobbies, whether you subscribe to the Express-News and how often you watch KENS-TV. We use this information to provide you with the customized news and features you have indicated you prefer.
 
 We may also use information you provide to serve you ads, and, if you have given your consent for us to do so, to send you e-mails concerning offers from our partners and other third parties that we think may be of interest to you. 
 
@@ -57,3 +57,6 @@ This policy was last updated on October 25, 2002.
 
 **Contacting the Web Site:**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at [feedback@MySanAntonio.com](mailto:feedback@mysanantonio.com)
+
+  
+
