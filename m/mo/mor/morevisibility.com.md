@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605145825id_/http%3A//morevisibility.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803110023id_/http%3A//www.morevisibility.com/privacy_policy.html) for the most accurate reproduction.*
 
 # MoreVisibility - The Leaders in Search Engine Positioning and Marketing
 
-**General Information** This Web site ( **MoreVisibility.com** ) is owned and operated by **MoreVisibility.com, Inc**.
+**General Information**
+
+This Web site ( **MoreVisibility.com** ) is owned and operated by **MoreVisibility.com, Inc**.
 
 **MoreVisibility.com** respects the privacy of every individual who visits our Web site or responds to our interactive communications. This Privacy Statement outlines the information we collect when you visit our Web site or respond to our interactive communications, and how we use that information.
 
