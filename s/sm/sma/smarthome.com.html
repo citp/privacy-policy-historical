@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smarthome.com privacy policy that was archived on 2001-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010608032933id_/http%3A//www.smarthome.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smarthome.com privacy policy that was archived on 2001-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011201234232id_/http%3A//smarthome.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title> Privacy &amp; Information Use Policy</title>
 <meta name="ROBOTS" content="ALL,FOLLOW">
@@ -79,7 +79,14 @@ var expires_date = new Date(todays_date.getTime() + (1024 * 86400000));
 	return (true);
 }
 
+function SH_PopOpen(theURL,winName,features) {
+	window.open(theURL,winName,features);
+	}
 </script>
+
+
+
+
 </head>
 <body bgcolor="#ffffff" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" text="#000000" link="#000000" alink="#000000" vlink="#000000" class="body">
 
@@ -127,28 +134,29 @@ var expires_date = new Date(todays_date.getTime() + (1024 * 86400000));
             if (navigator.appVersion >= "4.0"){
             if (P=="MacPPC" && N=="Netscape" || P=="Mac68k" && N=="Netscape"){document.write ('<input type="text" name="SearchCommand" size="15" maxlength="50" class="formfields1">');}
             else if (P=="MacPPC" && N=="Microsoft Internet Explorer" || P=="Mac68k" && N=="Microsoft Internet Explorer"){document.write ('<input type="text" name="SearchCommand" size="15" maxlength="50" class="formfields1">');}
-            else if (P=="Win32" && N=="Netscape" || P=="Win16" && N=="Netscape"){document.write ('<input type="text" name="SearchCommand" size="10" maxlength="50" class="formfields1">');}
-            else if (P=="Win32" && N=="Microsoft Internet Explorer" || P=="Win16" && N=="Microsoft Internet Explorer"){document.write ('<input type="text" name="SearchCommand" size="20" maxlength="50" class="formfields1">');}
-            else {document.write ('<input type="text" name="SearchCommand" size="10" maxlength="50" class="formfields1">');}}
+            else if (P=="Win32" && N=="Netscape" || P=="Win16" && N=="Netscape"){document.write ('<input type="text" name="SearchCommand" size="15" maxlength="50" class="formfields1">');}
+            else if (P=="Win32" && N=="Microsoft Internet Explorer" || P=="Win16" && N=="Microsoft Internet Explorer"){document.write ('<input type="text" name="SearchCommand" size="18" maxlength="50" class="formfields1">');}
+            else {document.write ('<input type="text" name="SearchCommand" size="15" maxlength="50" class="formfields1">');}}
             
             
             // -->
-            </script><input type="text" name="SearchCommand" size="10" maxlength="50" class="formfields1">
+            </script><input type="text" name="SearchCommand" size="15" maxlength="50" class="formfields1">
             </form></td>
             <td valign="top">
             <script language="JAVASCRIPT">
-				if(Get_Cookie('Search')=='classic')
-					document.write('<font size="-2"><input type="radio" name="searchtype" value="New">New</font></td><td valign="top"><font size="-2"><input type="radio" name="searchtype" value="classic" checked>Classic</font></td>');
-				else
-					document.write('<font size="-2"><input type="radio" name="searchtype" value="New" checked>New</font></td><td valign="top"><font size="-2"><input type="radio" name="searchtype" value="classic">Classic</font></td>');
-            </script><font size="-2"><input type="radio" name="searchtype" value="New" checked="">New</font></td><td valign="top"><font size="-2"><input type="radio" name="searchtype" value="classic">Classic</font></td>
+				if(Get_Cookie('Search')=='new')
+                                       document.write('<font size="-2"><input type="radio" name="searchtype" value="Keyword" checked>Keyword</font></td><td valign="top"><font size="-2"><input type="radio" name="searchtype" value="Part #">Part#</font></td>');					
+                                  
+                               else
+					
+                                        document.write('<font size="-2"><input type="radio" name="searchtype" value="Keyword">Keyword</font></td><td valign="top"><font size="-2"><input type="radio" name="searchtype" value="Part#" checked>Part#</font></td>');
+            </script><font size="-2"><input type="radio" name="searchtype" value="Keyword">Keyword</font></td><td valign="top"><font size="-2"><input type="radio" name="searchtype" value="Part#" checked="">Part#</font></td>
             <td>
             &nbsp;<input type="image" src="images/searchbutton.gif" name="Search" align="absmiddle" value="Search" border="0" onmouseover="window.status='Search' ; return true" onmouseout="window.status='' ; return true">&nbsp;&nbsp;&nbsp;
             
             </td><td valign="middle">
-
+            <a href="searchengine.html#top"><img src="images/searchnav03.gif" width="59" height="14" alt="Part# list" border="0"></a><br>
             <a href="searchinst.html"><img src="images/searchnav02.gif" width="27" height="12" alt="Help" border="0"></a><br>
-            <a href="searchengine.html#top"><img src="images/searchnav03.gif" width="59" height="14" alt="Part# list" border="0"><br></a>
             </td></tr></tbody></table>
 
       </td></tr></tbody></table>
@@ -165,78 +173,31 @@ if (document.all){document.write ("<div Style='Position:Absolute;Left:0;Top:40;W
 </script>
 
 <table border="0" cellpadding="0" cellspacing="0" width="600">
-<tbody><tr valign="top"><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="59">
-      <tbody><tr><td>
-      <a href="starters.html" onmouseover="Show('menu1b')" onmouseout="Hide('menu1b')">
-      <img src="images/nav01t.gif" width="59" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="60">
-      <tbody><tr><td>
-      <a href="x10pclist.html" onmouseover="Show('menu2b')" onmouseout="Hide('menu2b')">
-      <img src="images/nav02t.gif" width="60" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="60">
-      <tbody><tr><td>
-      <a href="hometheatermap.html" onmouseover="Show('menu3b')" onmouseout="Hide('menu3b')">
-      <img src="images/nav03t.gif" width="60" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="60">
-      <tbody><tr><td>
-      <a href="x10map.html" onmouseover="Show('menu4b')" onmouseout="Hide('menu4b')">
-      <img src="images/nav04t.gif" width="60" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="60">
-      <tbody><tr><td>
-      <a href="gadgets.html" onmouseover="Show('menu5b')" onmouseout="Hide('menu5b')">
-      <img src="images/nav05t.gif" width="60" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="60">
-      <tbody><tr><td>
-      <a href="petcare.html" onmouseover="Show('menu6b')" onmouseout="Hide('menu6b')">
-      <img src="images/nav06t.gif" width="60" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="60">
-      <tbody><tr><td>
-      <a href="phonemap.html" onmouseover="Show('menu7b')" onmouseout="Hide('menu7b')">
-      <img src="images/nav07t.gif" width="60" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="60">
-      <tbody><tr><td>
-      <a href="hvacmap.html" onmouseover="Show('menu8b')" onmouseout="Hide('menu8b')">
-      <img src="images/nav08t.gif" width="60" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="60">
-      <tbody><tr><td>
-      <a href="securmap.html" onmouseover="Show('menu9b')" onmouseout="Hide('menu9b')">
-      <img src="images/nav09t.gif" width="60" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td><td>
-      <table border="0" cellpadding="0" cellspacing="0" width="61">
-      <tbody><tr><td>
-      <a href="wirelist.html" onmouseover="Show('menu10b')" onmouseout="Hide('menu10b')">
-      <img src="images/nav10t.gif" width="61" height="30" border="0"></a><br>
-      </td></tr></tbody></table>
-</td></tr>
-<tr><td colspan="10">
+<tbody><tr><td width="600" height="30">
+		<map name="navmap">
+			<area shape="rect" alt="Automation &amp; AV Cable" coords="539,0,600,30" href="wirelist.html" onmouseover="Show('menu10b')" onmouseout="Hide('menu10b')">
+			<area shape="rect" alt="Home Security" coords="480,0,539,30" href="securmap.html" onmouseover="Show('menu9b')" onmouseout="Hide('menu9b')">
+			<area shape="rect" alt="Climate Control" coords="420,0,479,30" href="hvacmap.html" onmouseover="Show('menu8b')" onmouseout="Hide('menu8b')">
+			<area shape="rect" alt="Phones &amp; Intercoms" coords="360,0,419,30" href="phonemap.html" onmouseover="Show('menu7b')" onmouseout="Hide('menu7b')">
+			<area shape="rect" alt="Plant &amp; Pet Care" coords="300,0,359,30" href="petcare.html" onmouseover="Show('menu6b')" onmouseout="Hide('menu6b')">
+			<area shape="rect" alt="Motorized &amp; Gadgets" coords="240,0,299,30" href="gadgets.html" onmouseover="Show('menu5b')" onmouseout="Hide('menu5b')">
+			<area shape="rect" alt="X10 Products" coords="180,0,239,30" href="x10map.html" onmouseover="Show('menu4b')" onmouseout="Hide('menu4b')">
+			<area shape="rect" alt="Home Theater" coords="121,0,179,30" href="hometheatermap.html" onmouseover="Show('menu3b')" onmouseout="Hide('menu3b')">
+			<area shape="rect" alt="Computer Control" coords="61,0,120,30" href="x10pclist.html" onmouseover="Show('menu2b')" onmouseout="Hide('menu2b')">
+			<area shape="rect" alt="Starter Kits" coords="0,1,59,30" href="starters.html" onmouseover="Show('menu1b')" onmouseout="Hide('menu1b')">
+		</map>
+<img src="http://www.smarthome.com/images/menunav.gif" border="0" width="600" height="30" align="bottom" id="IMG1" usemap="#navmap"></td></tr>
+<tr><td>
       <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#adc1e0" height="20">
-      <tbody><tr valign="middle"><td width="160">
-      <a href="g001.html"><font face="arial,geneva,helvetica" color="#000000" size="2" class="nav1">&nbsp;<b><nobr>FREE Gift</nobr> <nobr>With Purchase</nobr></b></font></a><br>
+      <tbody><tr valign="center"><td width="160">
+      &nbsp;&nbsp;<a href="service.html"><font face="arial,geneva,helvetica" color="#000000" size="2" class="nav1"><b>Customer Service</b></font></a><br>
       </td><td align="right" width="160">
       <a href="lowest.html"><font face="arial,geneva,helvetica" color="#000000" size="2" class="nav1"><b><nobr>Low Price</nobr> Guarantee</b></font></a><br>
       </td><td align="right" width="160">
       <a href="whybuy.html"><font face="arial,geneva,helvetica" color="#000000" size="2" class="nav1"><b><nobr>Why Buy</nobr> <nobr>From Us?</nobr></b></font></a><br>
       </td>
       <td align="right" width="120">
-      <a href="securinfo.html"><font face="arial,geneva,helvetica" color="#000000" size="2" class="nav1"><b>Shop Safely</b>&nbsp;</font></a><br>
+      &nbsp;<a href="securinfo.html"><font face="arial,geneva,helvetica" color="#000000" size="2" class="nav1"><b>Shop Safely</b></font></a>&nbsp;<br>
       </td></tr></tbody></table>
 </td></tr></tbody></table>
 <script language="javascript" type="text/javascript">
@@ -267,6 +228,18 @@ else {document.write ("<img src='images/1x1.gif' width='1' height='25' alt='' bo
 <td width="110" bgcolor="#FFFFFF">
 
 <!---¤¤ start of left menu ¤¤--->
+<script language="JAVASCRIPT">
+function validate_email_field_is_not_blank(theForm)
+{
+  if (theForm.address.value == '')
+  {
+    alert("Please enter your email address.");
+    theForm.address.focus();
+    return (false);
+  }
+return (true);
+}
+</script>
 <table cellspacing="0" cellpadding="0" width="110" align="center" bgcolor="#ffffff" border="0">
         <tbody>
         <tr valign="top">
@@ -275,9 +248,12 @@ else {document.write ("<img src='images/1x1.gif' width='1' height='25' alt='' bo
             <div align="left">
             <table cellspacing="0" cellpadding="2" width="110" border="0">
               <tbody>
-              <tr>
+                  <tr>
                 <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
-                <td><a target="_top" href="http://www.smarthome.com/shell-cgi/guided_tour.pl"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Guided Tour</nobr></b></font></a></td></tr>
+                <td><a target="_top" href="http://www.smarthome.com/holiday2001.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>HOLIDAY</nobr></b></font></a></td></tr>
+               <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="http://auction.smarthome.com"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Auction</nobr></b></font></a></td></tr>
               <tr>
                 <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
                 <td><a target="_top" href="newest.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>New Products</nobr></b></font></a></td></tr>
@@ -286,7 +262,13 @@ else {document.write ("<img src='images/1x1.gif' width='1' height='25' alt='' bo
                 <td><a target="_top" href="hotdeals.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Hot Deals</nobr></b></font></a></td></tr>
               <tr>
                 <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="hotdeals90.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Overstock Sale</nobr></b></font></a></td></tr>
+               <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
                 <td><a target="_top" href="clearance.asp"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Clearance</nobr></b></font></a></td></tr>
+               <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="http://www.smarthome.com/shell-cgi/guided_tour.pl"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Guided Tour</nobr></b></font></a></td></tr>
               <tr>
                 <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
                 <td><a target="_top" href="top1.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Best of 2001</nobr></b></font></a></td></tr>
@@ -300,57 +282,41 @@ else {document.write ("<img src='images/1x1.gif' width='1' height='25' alt='' bo
 														<tr>
                 <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
                 <td><a target="_top" href="catreq.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>FREE Catalog</nobr></b></font></a></td></tr>
-</tbody></table></div><br><img height="4" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
-            <table cellspacing="0" cellpadding="0" width="110" bgcolor="#ffffff" border="0">
+</tbody></table></div><br>
+<p align="center">
+ <a href="javascript:SH_PopOpen('https://www.smarthome.com/asp/gc/giftCert.asp','','toolbar=no,status=yes,scrollbars=yes,width=650,height=420')"><img src="images/g-cert.gif" border="0"></a>
+</p>
+           <br>
+            <table align="center" cellspacing="0" cellpadding="0" width="110" bgcolor="#ffffff" border="0">
               <tbody>
               <tr>
-<td align="middle" height="35">
-<font class="navhead10" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b>
+<td align="center">
+<font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b>
 <nobr>SIGN UP FOR</nobr> 
 <nobr>GREAT DEALS!</nobr></b></font>
-<a href="joininfolist.html">
 <font class="navhead11" face="Arial,Geneva,Helvetica" color="#003399" size="2">
-<nobr>click for details</nobr></font></a><br>
+<a href="javascript:SH_PopOpen('http://www.smarthome.com/joininfolist.asp','JoinList','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=320,height=320')" class="navhead11">
+click for details</a></font>
 </td></tr></tbody></table>
-<img height="3" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
-            <table cellspacing="0" cellpadding="0" width="110" border="0">
+<br>
+<img height="10" src="images/1x1.gif" alt="spacer" width="1" border="0">
+<br clear="all">
+<table align="center" cellspacing="0" cellpadding="0" width="105" bgcolor="#FFFFFF" border="0" bordercolor="#ffffff">
               <tbody>
               <tr>
-                <td align="middle">
-<form name="SmartList" onsubmit="ValidateEmail() ; return false" action="/cgi-bin/AddToList.exe?..\..\join+thankinfo" method="post" target="_top"><input type="hidden" value="HASEmailList" name="listname"> <input class="formfields10" maxlength="50" size="12" value="Enter Email Here!" name="address" onclick="this.value='';"><br><img height="2" src="images/1x1.gif" alt="spacer" width="1" border="0"><br><input onmouseover="window.status='Join' ; return true" onmouseout="window.status='' ; return true" type="image" src="images/joinbutton.gif" value="Join" border="0" name="Join"><br></form></td></tr></tbody></table><img height="6" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
-            
-<table cellspacing="0" cellpadding="0" width="110" bgcolor="#ffffff" border="0">
-              <tbody>
-              <tr>
-                <td align="middle" height="80">
-                  <div align="center"><img height="6" src="images/1x1.gif" alt="spacer" width="1" border="0"><a href="ask_laddie.html"><img height="80" alt="Ask Laddie" src="images/askladdie.gif" width="105" align="top" border="0"></a><br><br></div></td></tr></tbody></table>
+              <td align="center" bordercolor="#ffffff">
+                 <div align="center"><a title="Ask Laddie" href="ask_laddie.html">
+                 <img height="51" alt="Ask Laddie" src="images/askladdie2.gif" width="90" border="0"><br>
+        <font class="navhead11" face="Arial,Geneva,Helvetica" color="#000000" size="1">Ask Laddie<br>FAQ</font></a><font class="navhead11" face="Arial,Geneva,Helvetica" color="#000000" size="1">         </font></div></td></tr></tbody></table>
+<br clear="all">
+           <br>
             <table cellspacing="0" cellpadding="0" width="110" bgcolor="#ffffff" border="0">
               <tbody>
               <tr>
                 <td align="middle" height="86">
                   <div align="center"><a onmouseover="window.status='Shipping Information' ; return true" onmouseout="window.status='' ; return true" target="_top" href="shipinfo.html"><img height="86" alt="Order By 6pm" src="images/orderby6pm.gif" width="105" align="top" border="0"></a><br><br></div></td></tr></tbody></table><img height="6" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
-            <table cellspacing="0" cellpadding="2" width="110" border="0">
-              <tbody>
-              <tr>
-                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="4"></td>
-                <td><a target="_top" href="shipinfo.html"><font class="face10" face="arial,geneva,helvetica" color="#000000" size="2">Shipping &amp; Handling Info</font></a></td></tr>
-              <tr>
-                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="4"></td>
-                <td><a target="_top" href="foreign.html"><font class="face10" face="arial,geneva,helvetica" color="#000000" size="2">Foreign 
-                  Orders</font></a></td></tr>
-              <tr>
-                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="4"></td>
-                <td><a target="_top" href="http://www.smarthomepro.com/dlrapp.html"><font class="face10" face="arial,geneva,helvetica" color="#000000" size="2">Dealer/Reseller<br>Information</font></a></td></tr>
-              <tr>
-                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="4"></td>
-                <td><a target="_top" href="returnpolicy.html"><font class="face10" face="arial,geneva,helvetica" color="#000000" size="2">Return Policy</font></a></td></tr></tbody></table>
-            <div onmouseover="window.status='View Shopping Cart' ; return true" onmouseout="window.status='' ; return true" align="center">
-            
-<form action="/cgi-bin/shoppingbasket.exe?1+..\..\baskets\smarthome+hasorder+0" method="post" target="_top"><input type="image" src="images/cartnav01.gif" alt="shopping cart" value="View Contents" border="0" name="action"><br></form></div>
-            
-<div align="center"><a target="_top" href="e_mail.html"><font class="navhead13" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Contact 
-            Us</nobr></b></font></a></div><br><br>
-            
+         <br clear="all">
+           <br>
 <div align="center"><a href="http://www.bizrate.com/merchant/reports/index.xpml?mid=26812" target="bizrate.com"><img src="http://medals.bizrate.com/medals/medal_litebg_102x45.gif" alt="BizRate Customer Certified (GOLD) Site" width="102" height="45" align="top" border="0" target="_blank"></a><br>
 </div>
 </td></tr></tbody></table>
@@ -361,38 +327,58 @@ else {document.write ("<img src='images/1x1.gif' width='1' height='25' alt='' bo
 <!---¤¤ start of body ¤¤--->
 <table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr valign="top"><td width="488">
 <h3 align="center"><font color="#000000" face="Arial" class="indxheadline">SMARTHOME.COM™  <br>&nbsp;&nbsp;Privacy &amp; Information Use Policy</font></h3><br>
-<font face="Geneva, Verdana, Arial" size="2" color="#000000">
-At SMARTHOME.COM™, we are committed to providing a high quality shopping experience with respect for our customers' security and privacy.  In order for us to conduct business with you, we do collect certain information from you, which we use within the guidelines described in this Policy.  We may change or update this policy periodically, so we invite you to check here frequently.
-<br><br>
-<b>Privacy/Protection When Ordering from Us</b>
-To process your order efficiently and to notify you of your order status, we need to know your name, address, phone number, e-mail address, and credit card number and expiration date. We do not provide information collected through on-line transactions to outside parties, except as needed to complete your transaction and deliver your order.
-<br><br>
-To further safeguard your privacy, we offer the use of a secure server using software that encrypts all the information in the transaction once you place the order. Additionally, all of the customer data we collect from the transaction is protected on our servers against unauthorized access. 
-<br><br>
-<b>Joining Our E-Mail List</b>
-When you sign up to join the SMARTHOME.COM™  Discount Club E-mail List, we collect your e-mail address for the purpose of sending you e-mail containing product information, specials, and other company news.  We do not add anyone to our list involuntarily, and once you subscribe we offer you easy access to stop your subscription at the bottom of each e-mail message you receive.  Additionally, Smarthome.com does not currently rent, sell, trade, or otherwise provide your e-mail address to outside parties.
-<br><br>
-<b>Contests &amp; Promotions</b>
-Entry in one of our contests or special promotions is completely voluntary.  If you do choose to enter, we may ask for your name, address, phone number, and/or e-mail address so we can notify you in the event that you win and/or give you credit for your submission on our Website (using your name and city/state only) once we notify you that we intend to use your submission and you agree to that usage. 
-<br><br>
-<b>Use of "Cookies"</b>
-The SMARTHOME.COM™  Website uses a technology called "cookies," small files stored by your browser to help identify you as a unique customer when you visit our Website. Our cookies do not collect any personally identifying information and we do not currently share the information we collect with outside parties.  Cookies do allow you to store items in your shopping basket between visits, making it more convenient for you to shop with us. Most Web Browsers automatically accept cookies, but you can usually change your browser settings to prevent that. Even without a cookie, you can still place items in your shopping basket and purchase them; they simply will not remain in your basket when you leave the site.
-<br><br>
-<b>Your Information &amp; Third Parties</b>
-It is currently not SMARTHOME.COM™ 's policy to rent, sell, trade, or otherwise provide customer mailing or e-mail addresses we collect through an on-line transaction to outside parties.  If, in the future, we identify reputable third parties whose products or services we believe would benefit our customers, we may choose to share this information with those companies.  SMARTHOME.COM™  may disclose personally identifiable information we've collected if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on SMARTHOME.COM™ , or (2) protect and defend the property or rights of SMARTHOME.COM™  or the users of the SMARTHOME.COM™  Website.
- <br><br>
-<b>Ability to Change Your Information</b>
-You may update or change information related to your SMARTHOME.COM™  account by e-mailing us at <a href="mailto:custsvc@smarthome.com">custsvc@smarthome.com</a> with any changes you need to make (e.g., changing your mailing address when you move).
-<br><br>
-<b>Policy Changes</b>
-SMARTHOME.COM™  may periodically make changes to this Privacy &amp; Information Use Policy, so we encourage you to visit this page often.  It is our commitment to keep you aware of any changes to our Policy by posting those changes on this page.
-<br><br>
-<b>Questions?</b>
-If you have additional questions about our Privacy/Information Use Policy, please contact us at  <a href="mailto:custsvc@smarthome.com">custsvc@smarthome.com</a>.
- <br><br>
-<i>This SMARTHOME.COM™  Privacy &amp; Information Use Policy does not cover information that is inherent to the operation of the Internet, and therefore beyond the control of SMARTHOME.COM™ , and is not to be applied in any manner contrary to applicable law or governmental regulation.  This policy is subject to change at any time.</i>
-</font>
-
+<font face="Geneva, Verdana, Arial" size="2" color="#000000"><br>
+At SMARTHOME™, we are committed to providing a high quality shopping experience with respect for our customers' security and privacy.  In order for us to conduct business with you, we do collect certain information from you, which we use within the guidelines described in this Policy.  We may change or update this policy periodically, so we invite you to check here frequently.<br>
+<br>
+<br>
+<br>
+<b>Privacy/Protection When Ordering from Us</b><br>
+To process your order efficiently and to notify you of your order status, we need to know your name, address, phone number, e-mail address, and credit card number and expiration date. We do not provide information collected through on-line transactions to outside parties, except as needed to complete your transaction and deliver your order.<br>
+<br>
+<br>
+<br>
+To further safeguard your privacy, we offer the use of a secure server using software that encrypts all the information in the transaction once you place the order. Additionally, all of the customer data we collect from the transaction is protected on our servers against unauthorized access. <br>
+<br>
+<br>
+<br>
+<b>Joining Our E-Mail List</b><br>
+When you sign up to join the SMARTHOME™  Discount Club E-mail List, we collect your e-mail address for the purpose of sending you e-mail containing product information, specials, and other company news.  We do not add anyone to our list involuntarily, and once you subscribe we offer you easy access to stop your subscription at the bottom of each e-mail message you receive.  Additionally, Smarthome.com does not currently rent, sell, trade, or otherwise provide your e-mail address to outside parties.<br>
+<br>
+<br>
+<br>
+<b>Contests &amp; Promotions</b><br>
+Entry in one of our contests or special promotions is completely voluntary.  If you do choose to enter, we may ask for your name, address, phone number, and/or e-mail address so we can notify you in the event that you win and/or give you credit for your submission on our Website (using your name and city/state only) once we notify you that we intend to use your submission and you agree to that usage. <br>
+<br>
+<br>
+<br>
+<b>Use of "Cookies"</b><br>
+The SMARTHOME™  Website uses a technology called "cookies," small files stored by your browser to help identify you as a unique customer when you visit our Website. Our cookies do not collect any personally identifying information and we do not currently share the information we collect with outside parties.  Cookies do allow you to store items in your shopping basket between visits, making it more convenient for you to shop with us. Most Web Browsers automatically accept cookies, but you can usually change your browser settings to prevent that. Even without a cookie, you can still place items in your shopping basket and purchase them; they simply will not remain in your basket when you leave the site.<br>
+<br>
+<br>
+<br>
+<b>Your Information &amp; Third Parties</b><br>
+It is currently not SMARTHOME™ 's policy to rent, sell, trade, or otherwise provide customer mailing or e-mail addresses we collect through an on-line transaction to outside parties.  If, in the future, we identify reputable third parties whose products or services we believe would benefit our customers, we may choose to share this information with those companies.  SMARTHOME™  may disclose personally identifiable information we've collected if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on SMARTHOME™ , or (2) protect and defend the property or rights of SMARTHOME™  or the users of the SMARTHOME™  Website.<br>
+ <br>
+<br>
+<br>
+<b>Ability to Change Your Information</b><br>
+You may update or change information related to your SMARTHOME™  account by e-mailing us at <a href="mailto:custsvc@smarthome.com">custsvc@smarthome.com</a> with any changes you need to make (e.g., changing your mailing address when you move).<br>
+<br>
+<br>
+<br>
+<b>Policy Changes</b><br>
+SMARTHOME™  may periodically make changes to this Privacy &amp; Information Use Policy, so we encourage you to visit this page often.  It is our commitment to keep you aware of any changes to our Policy by posting those changes on this page.<br>
+<br>
+<br>
+<br>
+<b>Questions?</b><br>
+If you have additional questions about our Privacy/Information Use Policy, please contact us at  <a href="mailto:custsvc@smarthome.com">custsvc@smarthome.com</a>.<br>
+ <br>
+<br>
+<br>
+<i>This SMARTHOME™  Privacy &amp; Information Use Policy does not cover information that is inherent to the operation of the Internet, and therefore beyond the control of SMARTHOME™ , and is not to be applied in any manner contrary to applicable law or governmental regulation.  This policy is subject to change at any time.</i><br>
+</font><br>
+<br>
 <br>
 <br>
 
@@ -408,8 +394,8 @@ If you have additional questions about our Privacy/Information Use Policy, pleas
 <table border="0" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff">
 <tbody><tr><td align="center">
 <p class="footer1">
-<a href="privacy.html" class="privacy">Privacy Policy</a> - Copyright © 1995-2001 SMARTHOME.COM™<br>
-SMARTHOME.COM is trademark of SMARTHOME.COM, INC.<br></p>
+<a href="privacy.html" class="privacy">Privacy Policy</a> - Copyright © 1995-2001 SMARTHOME™<br>
+SMARTHOME is trademark of SMARTHOME™, INC.<br></p>
 </td></tr></tbody></table>
 <!---¤¤ end of footer include ¤¤--->
 </body></html>
