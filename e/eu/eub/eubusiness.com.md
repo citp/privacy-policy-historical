@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016195014id_/http%3A//www.eubusiness.com/help/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601144426id_/http%3A//www.eubusiness.com/help/help_privacy.html) for the most accurate reproduction.*
 
 # EUbusiness - Help Section - Privacy Statement
 
