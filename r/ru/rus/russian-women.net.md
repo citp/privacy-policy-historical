@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603141827id_/http%3A//www.russian-women.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204164312id_/http%3A//www.russian-women.net/privacy.shtml) for the most accurate reproduction.*
 
 # Russian women - Privacy Statement
 
   
-[36 new brides](http://www.russian-women.net/new_profiles_today.shtml) added Wednesday June 2 2004 at 23:44 GMT: [Click here!](http://www.russian-women.net/new_profiles_today_thumbnailed.shtml)   
-[16 previous personals profiles photos](http://www.russian-women.net/updated_photos_today.shtml) updated today. [Click here for thumbs!](http://www.russian-women.net/updated_photos_today_thumbnailed.shtml)   
+[30 new brides](http://www.russian-women.net/new_profiles_today.shtml) added Saturday December 4 2004 at 00:40 GMT: [Click here!](http://www.russian-women.net/new_profiles_today_thumbnailed.shtml)   
+[14 previous personals profiles photos](http://www.russian-women.net/updated_photos_today.shtml) updated today. [Click here for thumbs!](http://www.russian-women.net/updated_photos_today_thumbnailed.shtml)   
 [Photos updated last week - list of profiles](http://www.russian-women.net/updated_photos_weekly.shtml)   
 [Photos updated last week - links with thumbs (may be huge page to load!)](http://www.russian-women.net/updated_photos_thumbnailed_weekly.shtml)   
-Currently there are **27170** Russian personals in [**OUR Dating Album**](http://www.russian-women.net/album).   And **18072** previously listed women are no longer available.    
+Currently there are **28230** Russian personals in [**OUR Dating Album**](http://www.russian-women.net/album).   And **22972** previously listed women are no longer available.    
 
 
 Since we were founded, The Russian Women Network has tried to help its customers retain their privacy while they take advantage of all our site has to offer. We are committed to protecting your privacy and developing technology that gives you the most powerful, safe, online experience that you can get anywhere. If you have questions about this, please write us at [ privacy@russian-women.net](mailto:privacy@russian-women.net?subject=%22Re:Privacy%22)
