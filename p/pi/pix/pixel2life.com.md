@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pixel2life.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080523id_/http%3A//www.pixel2life.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixel2life.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403081308id_/http%3A//www.pixel2life.com/privacy.php) for the most accurate reproduction.*
 
 # Pixel2Life.com - Tutorial Index & Search Engine - Privacy Statement
 
-|  |  | 
+|  | 
 
 |  |   
   
@@ -41,6 +41,6 @@ If we decide to change our privacy policy, we will post those changes on the new
 
 Pixel2life.com will never, under any circumstances give away or displays your IP address. Additionally, pixel2life.com will never sell or transmit e-mail addresses or any other personal identifiers to 3rd parties. Use of the registration system is optional; however it does maximize the user's experience here at the site.
 
-If you have any questions regarding our privacy policy, please do not hesitate to e-mail Rich ([Click here for the Staff & Contacts Page](https://web.archive.org/web/20041204080523id_/http%3A//www.pixel2life.com/contact_info.php)). Thank you for your cooperation.  
+If you have any questions regarding our privacy policy, please do not hesitate to e-mail Rich ([Click here for the Staff & Contacts Page](https://web.archive.org/web/20050403081308id_/http%3A//www.pixel2life.com/contact_info.php)). Thank you for your cooperation.  
   
   |  
