@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604204909id_/http%3A//www.bgs.ac.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209071022id_/http%3A//www.bgs.ac.uk/about/privacy.html) for the most accurate reproduction.*
 
 # BGS Privacy Policy
 
-### Privacy Policy
-
-The British Geological Survey is committed to protecting your privacy on-line. We will treat any personal information (which means data from which you can be identified, including your name, address, e-mail address and the like) that you provide to us, or that we obtain from you, in accordance with the provisions of the Data Protection Act of 1998. This Privacy Policy sets out the way we deal with personal information.
+The British Geological Survey is committed to protecting your privacy online. We will treat any personal information (which means data from which you can be identified, including your name, address, e-mail address and the like) that you provide to us, or that we obtain from you, in accordance with the provisions of the Data Protection Act of 1998. This Privacy Policy sets out the way we deal with personal information.
 
 **Your personal information will be held by the British Geological Survey**
 
-Any information obtained via this web site, or any other web site controlled by the British Geological Survey, will be held by the:
+Any information obtained via this web site, or any other website controlled by the British Geological Survey, will be held by the:
 
 British Geological Survey  
 Kingsley Dunham Centre  
@@ -21,9 +19,9 @@ We will not provide it to any third parties without your permission unless we ar
 
 **What personal information do we obtain and how do we obtain it?**
 
-When you request a particular service or offering, we ask you to provide the personal information that we require in order to provide the service or offering to you in accordance with our usual operating procedures and quality standards.
+When you request a particular service or offering, we ask you to provide the personal information that we require in order to provide the service to you in accordance with our usual operating procedures and quality standards.
 
-The BGS does not use 'cookies', or other forms of information software, to obtain information from visitors to our sites.
+The BGS does not use '[cookies](https://web.archive.org/help/cookies.html)', or other forms of information software, to obtain information from visitors to our sites, we only use cookies to hold shopping baskets within the online shops, these cookies are temporary and are deleted when you close your browser, or when you complete a purchase. 
 
 **What use do we make of personal information?**
 
@@ -35,4 +33,4 @@ We use all reasonable endeavours to protect personal information from loss, misu
 
 **How can you amend your personal information, or ask us to remove it?**
 
-This can be done at any time by e-mailing us at [jorr@bgs.ac.uk](mailto:jorr@bgs.ac.uk) or by writing to the person whom the British Geological Survey has nominated as its representative for the purpose of the Data Protection Act 1998 - James Orr, at the address of the British Geological Survey set out above.
+This can be done at any time by e-mailing us at [**jorr@bgs.ac.uk**](mailto:jorr@bgs.ac.uk) or by writing to the person whom the British Geological Survey has nominated as its representative for the purpose of the Data Protection Act 1998, James Orr, at the address of the British Geological Survey set out above.
