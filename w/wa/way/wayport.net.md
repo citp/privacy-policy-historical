@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wayport.net privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201171116id_/http%3A//www.wayport.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wayport.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603184051id_/http%3A//www.wayport.net/privacy) for the most accurate reproduction.*
 
 # Wayport Privacy Policy
 
