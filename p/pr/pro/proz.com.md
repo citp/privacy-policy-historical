@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401195841id_/http%3A//proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208073828id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
 
-# ProZ.com: Privacy policy
+# Privacy policy
 
 **ProZ.com Privacy Statement**
 
