@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409042722id_/http%3A//itworldcanada.com/itworldcanada/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008101014id_/http%3A//www.itworldcanada.com/index.cfm/ci_id/801.htm) for the most accurate reproduction.*
 
 # ITworldcanada.com - Canada’s Information Technology Resource
-
- 
 
 RESOURCES
 
@@ -12,23 +10,22 @@ EVENTS
 
 NEWS
 
-  
-
+MEDIA RESOURCES
 
 | 
 
-**ITworldcanada.com** is the Web site for, **CIO Canada, CxO.ca, ComputerWorld Canada, Network World Canada, itWorldCanada Print Edition** and **Lac Carling Governments' Review**. This site is maintained by: 
+**ITworldcanada.com** is the Web site for, **IT World Canada Inc.** and its publications: **_CIO Canada_ , _ComputerWorld Canada, Network World Canada, IT Focus_ **and **_CIO Governments' Review_**. This site is maintained by: 
 
 **IT World Canada**  
 302-55 Town Centre Court  
 Scarborough, ON  
-M1P 4X4
+M1P 4X4 
 
 Phone: (416) 290-0240  
 Fax: (416) 290-0238 
 
 **_Personally-identifying information_**  
-**IT World Canada,** collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals, such as when applying for, or renewing a subscription to any of **its'** print publications. 
+ **IT World Canada,** collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals, such as when applying for, or renewing a subscription to any of **its'** print publications. 
 
 **_Non-Personally-Identifiable Information Collected Automatically_**  
 Our Web server logs information about visitors that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement. 
@@ -54,10 +51,10 @@ All E-mail mailing lists maintained by **IT World Canada** contain the names of 
 
 
 
-When a user has given us permission, his/her E-mail address may be rented to third-party firms for promotional purposes. All E-mails that are sent to subscribers on **IT World Canada's** E-mail mailing list – whether directly by **IT World Canada,** or by a third party – clearly identify the source of the E-mail list as an **IT World Canada** publication. We allow users to "opt out" of receiving E-mail from third parties when E-mail information is collected. Users who later decide they want to change their preferences may do so by sending E-mail to IT World Canada [circ@itworldcanada.com](mailto:circ@itworldcanada.com).
+When a user has given us permission, his/her E-mail address may be rented to third-party firms for promotional purposes. All E-mails that are sent to subscribers on **IT World Canada's** E-mail mailing list \-- whether directly by **IT World Canada,** or by a third party -- clearly identify the source of the E-mail list as an **IT World Canada** publication. We allow users to "opt out" of receiving E-mail from third parties when E-mail information is collected. Users who later decide they want to change their preferences may do so by sending E-mail to IT World Canada [circ@itworldcanada.com](mailto:circ@itworldcanada.com). 
 
 **_1x1 Pixel Tags_**  
-This site uses clear gifs, or pixel tags, provided by our adserving company to help manage our on-line advertising. These clear GIFS allow our adserving company to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or email address). For more information about our adserving company or for your choices about not having this anonymous information used please click here [www.doubleclick.net](http://www.doubleclick.net/)
+This site uses clear gifs, or pixel tags, provided by our adserving company to help manage our on-line advertising. These clear GIFS allow our adserving company to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or email address). For more information about our adserving company, or for your choices about not having this anonymous information used, please click here [www.doubleclick.net](http://www.doubleclick.net/)
 
 * * *
 
