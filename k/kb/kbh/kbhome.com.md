@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331105324id_/http%3A//kbhome.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205051611id_/http%3A//www.kbhome.com/privacy.jsp) for the most accurate reproduction.*
 
 # KB HOME
 
