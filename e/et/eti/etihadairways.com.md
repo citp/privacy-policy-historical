@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etihadairways.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611182339id_/http%3A//www.etihadairways.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etihadairways.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217045506id_/http%3A//www.etihadairways.com/Privacy.asp) for the most accurate reproduction.*
 
 # E T I H A D Airways
 
