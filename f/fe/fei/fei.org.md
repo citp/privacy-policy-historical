@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fei.org privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212214404id_/http%3A//fei.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fei.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606030348id_/http%3A//fei.org/privacy.cfm) for the most accurate reproduction.*
 
 # Financial Executives International: CFOs, Treasurers, Controllers
 
