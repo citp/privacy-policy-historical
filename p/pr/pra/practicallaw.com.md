@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicallaw.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610194835id_/http%3A//www.practicallaw.com/subscribers/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicallaw.com privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015014225id_/http%3A//www.practicallaw.com/subscribers/privacy.asp) for the most accurate reproduction.*
 
 # LDN: Privacy policy
 
@@ -10,11 +10,11 @@ When you became a member of practicallaw.com you provided us with information in
 
 We will not disclose any of the information that you provide to us about yourself to any third parties without your express consent.
 
-We may use the information we collect from you to notify you occasionally about important changes or developments to the site. If you would rather not receive this information, please send an e-mail to [info@lcpub.co.uk](https://web.archive.org/web/20020610194835id_/http%3A//www.practicallaw.com/subscribers/info@lcpub.co.uk).
+We may use the information we collect from you to notify you occasionally about important changes or developments to the site. If you would rather not receive this information, please send an e-mail to [info@lcpub.co.uk](https://web.archive.org/web/20021015014225id_/http%3A//www.practicallaw.com/subscribers/info@lcpub.co.uk).
 
 ### Cookies
 
-Cookies are small amounts of information stored by your computer. Our server issues cookies to your computer when you log on to the site in order to make it easier for you to log on, to allow you to personalise the content and to personalise prevent unauthorised access to subscription material. These cookies only contain a unique ID so that we can identify you.
+Cookies are small amounts of information stored by your computer. Our server issues cookies to your computer when you log on to the site in order to make it easier for you to log on, to allow you to personalise the content and to prevent unauthorised access to subscription material. These cookies only contain a unique ID so that we can identify you.
 
 ### Changes to our privacy policy
 
