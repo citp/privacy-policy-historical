@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalhelp.net privacy policy that was archived on 2000-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001117123700id_/http%3A//mentalhelp.net/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalhelp.net privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406153323id_/http%3A//mentalhelp.net/about/privacy.htm) for the most accurate reproduction.*
 
 # Mental Help Net - Privacy Statement
 
@@ -12,7 +12,10 @@ Mental Help Net (MHN) gathers information from the people who use our site so th
 Like most sites, we keep a running record of what pages are requested on our site. Our web server logs contain information about what pages are most popular, and how many pages are viewed in a given time period. 
 
 **b) Search Engines**  
-We **do not** track search engine usage. No records are kept of any searches you might perform on MHN.   
+We **do not** track search engine usage. No records are kept of any searches you might perform on MHN. 
+
+**c) Community Database  
+**We use Webboard software (O'reilly and Associates) for our community. This software mandates users create accounts which are stored in a database. Users need not supply any identifying information upon creating accounts, although they are free to do so if they wish. See notes below concerning the Professional Community for additional data gathering.   
   
 **  Specific Site Resources Where Information Is Collected **  
   
@@ -23,6 +26,8 @@ Collection Point: on the [Community Registration page](http://forums.mentalhelp.
 Registration Information is maintained: On Site
 
 We require that you complete a registration process before you can gain entry into our forums and chats (our community area). We require that you give us your name and a valid email address where you may be reached. You may provide additional optional information if you wish. 
+
+We maintain a professional community that is closed to lay users. We ask that potential users of this system submit information concerning their professional backgrounds to aid MHN staff in determining eligibility for this professional resource. 
 
 **b) Email Newsletter**
 
@@ -62,15 +67,15 @@ Advertising on MHN helps us to bring our services to you at absolutely no cost. 
 MHN uses the information we gather from you for several purposes:  
 
 
-a) We analyze what our customers like and don't like about Mental Health Net's current offerings so that we can design better services. 
+a) We analyze what our customers like and don't like about Mental Help Net's current offerings so that we can design better services. 
 
 b) MHN does not engage in profiling (e.g., matching your computer with your interests). However, our network ad server FlyCast may use profiling 
 
 c) We develop summary -- not individual -- reports for our advertisers. An example of a summary report might be "200 people clicked on your advertisement "X" today." Advertisers use this information to track the effectiveness of their ad campaigns. We never tell our advertisers who it was that saw or clicked on their advertisements. 
 
-d) The community registration information is used in several ways. First, registration serves as a means of allowing you to be uniquely identified, so that users can keep track of who said what. Second, you may optionally have our forum software place your email address into messages you send so that people can mail you personally in response. Third, we use the registration information to identify and communicate with persons who post inappropriate messages in the forums and chats. The registration also serves as a means of blocking known abusive users from entering the community. 
+d) The community registration information is used in several ways. First, registration serves as a means of allowing you to be uniquely identified, so that users can keep track of who said what. Second, you may optionally have our forum software place your email address into messages you send so that people can mail you personally in response. Third, we use the registration information to identify and communicate with persons who post inappropriate messages in the forums and chats. The registration also serves as a means of blocking known abusive users from entering the community. Fourth, we use information gathered by prospective applicants to our professional community to determine eligibility (to aid in our discrimination between lay persons and professional clinicians). 
 
-e) Subscribers to our newsletter receive twice monthly email newsletters including information about new products and services from Mental Health Net. Mental Help Net uses the services of Postmaster General (A third party list-server company) to help with the mailing of our newsletter. Your email address is stored on the Postmaster General computer (and not on MHN's computer). Postmaster General's privacy policy protects the privacy and security of your email address. 
+e) Subscribers to our newsletter receive twice monthly email newsletters including information about new products and services from Mental Help Net. Mental Help Net uses the services of Postmaster General (A third party list-server company) to help with the mailing of our newsletter. Your email address is stored on the Postmaster General computer (and not on MHN's computer). Postmaster General's privacy policy protects the privacy and security of your email address. 
 
 f) MHN clinicians can post yellowpages listings, resumes and jobs to our databases. This information is made available to the public for searching.   
   
@@ -84,8 +89,7 @@ b) We regularly remove users and all of their identifying information from our c
 **  User Control Over The Information **  
  
 
-In most cases, you have the ability to view and modify your information:  
-
+In most cases, you have the ability to view and modify your information:
 
 **a) Community Registration**  
 You may view, modify, and/or control the use of most of your registration information. For instance, you can tell us if you don't want to be listed in service directories, such as user listings in our chat rooms. Access the form for controlling your forum experience by selecting "options" from the navigation bar at the top of the screen while you are viewing a message in the forums. You will need to be logged into the forums in order to access this feature. Click on "Profile" in our chat rooms to update your user information there. If you would like your account completely deleted, please drop us a note and we'll take care of it for you. 
@@ -107,8 +111,7 @@ MHN employs uniform security measures (which are not here disclosed in order to 
 **  Distribution Of The Information**  
  
 
-_Mental Help Net will never willfully disclose individually identifiable information about its users to any third party without first receiving that individual's permission._  
-
+_Mental Help Net will never willfully disclose individually identifiable information about its users to any third party without first receiving that individual's permission._
 
 a) The individually identifiable information that you provide will be used for MHN purposes only. 
 
