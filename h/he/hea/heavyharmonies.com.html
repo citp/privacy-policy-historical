@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heavyharmonies.com privacy policy that was archived on 2001-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011225143031id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heavyharmonies.com privacy policy that was archived on 2002-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020220060109id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 <title>Heavy Harmonies - Privacy Statement</title>
@@ -103,6 +103,31 @@ function CheckBrowser() {
 }
 // -->
 
+var isNS = (navigator.appName == "Netscape") ? 1 : 0;
+var EnableRightClick = 0;
+if(isNS) 
+document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);
+function mischandler(){
+  if(EnableRightClick==1){ return true; }
+  else {return false; }
+}
+function mousehandler(e){
+  if(EnableRightClick==1){ return true; }
+  var myevent = (isNS) ? e : event;
+  var eventbutton = (isNS) ? myevent.which : myevent.button;
+  if((eventbutton==2)||(eventbutton==3)) return false;
+}
+function keyhandler(e) {
+  var myevent = (isNS) ? e : window.event;
+  if (myevent.keyCode==96)
+    EnableRightClick = 1;
+  return;
+}
+document.oncontextmenu = mischandler;
+document.onkeypress = keyhandler;
+document.onmousedown = mousehandler;
+document.onmouseup = mousehandler;
+//-->
 </script>
 <link rel="stylesheet" type="text/css" href="/hh.css" title="bmstyle">
 </head>
@@ -122,9 +147,9 @@ function CheckBrowser() {
 <td align="CENTER"><a href="http://BrutalMetal.Com"><img src="/NewImages/hhtobm.gif" alt="For Heavy Metal, Jump to Brutal Metal" border="0"></a></td></tr>
 <tr><td valign="TOP" align="CENTER"><b><font size="+1" face="Arial,Helvetica,Geneva"><font color="#FF0000">THE</font> Hard Rock and AOR
 Reference on the Internet!</font></b></td></tr>
-<tr><td align="CENTER"><nobr><b>Bands: <font color="#FF0000">990</font></b></nobr><b>&nbsp;&nbsp;&nbsp;&nbsp;
-<nobr>CDs: <font color="#FF0000">2510</font></nobr>&nbsp;&nbsp;&nbsp;&nbsp; <nobr>Songs: <font color="#FF0000">28230</font></nobr>&nbsp;&nbsp;&nbsp;&nbsp;
-<nobr>Audio Samples: <font color="#FF0000">483</font></nobr></b></td></tr>
+<tr><td align="CENTER"><nobr><b>Bands: <font color="#FF0000">1041</font></b></nobr><b>&nbsp;&nbsp;&nbsp;&nbsp;
+<nobr>CDs: <font color="#FF0000">2602</font></nobr>&nbsp;&nbsp;&nbsp;&nbsp; <nobr>Songs: <font color="#FF0000">29161</font></nobr>&nbsp;&nbsp;&nbsp;&nbsp;
+<nobr>Audio Samples: <font color="#FF0000">525</font></nobr></b></td></tr>
 <tr><td colspan="2"><img src="/NewImages/is_single_pixel_gif.gif" width="620" height="1" alt="SPACER"></td></tr>
 </tbody></table>
 <script language="JavaScript">
@@ -142,7 +167,7 @@ Reference on the Internet!</font></b></td></tr>
 <tbody><tr><td valign="TOP" bgcolor="#BBDDFF"><b>
 <img src="/NewImages/is_single_pixel_gif.gif" width="150" height="20" alt="CD covers, reviews, music resource">
 <center>
-<a href="http://www.live365.com/cgi-bin/play.pls?addr=166.90.148.114:11236/&amp;file=filename.pls"><img src="/NewImages/radioradio.jpg" alt="Heavy Harmonies Radio - AOR and hard rock audio all the time!" border="0" width="173" height="62&quot;"></a>
+<a href="http://www.live365.com/stations/151867?play" target="MUSIC"><img src="/NewImages/radioradio.jpg" alt="Heavy Harmonies Radio - AOR and hard rock audio all the time!" border="0" width="173" height="62&quot;"></a>
 </center>
 <img src="/NewImages/is_single_pixel_gif.gif" width="150" height="8" alt=""><br>
 <a href="/cgi-bin/gletter.cgi?Letter=" onclick="exit=0">The&nbsp;Bands!</a><br>
@@ -160,10 +185,11 @@ Reference on the Internet!</font></b></td></tr>
 <a href="/cgi-bin/genre.cgi?Letter=" onclick="exit=0">The&nbsp;Genres</a><br>
 <a href="/cgi-bin/links.cgi?Letter=" onclick="exit=0">Links</a><br>
 <hr><a href="/cgi-bin/donors.cgi?Letter=" onclick="exit=0">Top&nbsp;Donors</a><br>
-<hr><a href="/cgi-bin/cdsampler.cgi?Letter=" onclick="exit=0">Song&nbsp;of&nbsp;the&nbsp;Week&nbsp;CD&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
-<a href="/cgi-bin/songofweek.cgi?Letter=" onclick="exit=0">Song&nbsp;of&nbsp;the&nbsp;Week</a><br>
+<hr><a href="/cgi-bin/songofweek.cgi?Letter=" onclick="exit=0">Song&nbsp;of&nbsp;the&nbsp;Week</a><br>
+<a href="/cgi-bin/cdsampler.cgi?Letter=" onclick="exit=0">Song&nbsp;of&nbsp;the&nbsp;Week&nbsp;CD&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
 <a href="/cgi-bin/radio.cgi?Letter=" onclick="exit=0">HH&nbsp;Radio&nbsp;Playlist</a><br>
 <a href="/cgi-bin/cdfind.cgi?Letter=" onclick="exit=0">CD&nbsp;Hunter</a><br>
+<a href="http://brutalmetal.com/cgi-bin/2001best.cgi" onclick="exit=0">Best&nbsp;CDs&nbsp;of&nbsp;2001&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
 <a href="/cgi-bin/2000best.cgi?Letter=" onclick="exit=0">Best&nbsp;CDs&nbsp;of&nbsp;2000</a><br>
 <hr><a href="/cgi-bin/ultrasound2001.cgi?Letter=" onclick="exit=0">UltraSound&nbsp;2001</a><br>
 <a href="/cgi-bin/ultrasound2000.cgi?Letter=" onclick="exit=0">UltraSound&nbsp;2000</a><br>
@@ -176,13 +202,13 @@ Reference on the Internet!</font></b></td></tr>
 <table border="1" cellpadding="2" cellspacing="0">
 <tbody><tr><td valign="TOP" bgcolor="#CCCCCC" align="LEFT"><font size="-1">
 <b>View Bands by Genre:<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=1">Lite AOR</a> (38)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=2">AOR</a> (263)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=3">Hard Rock</a> (457)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=4">Sleaze Glam</a> (83)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=5">Melodic Metal</a> (97)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=6">Prog Rock</a> (41)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=7">Southern Rock</a> (6)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=1">Lite AOR</a> (39)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=2">AOR</a> (272)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=3">Hard Rock</a> (481)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=4">Sleaze Glam</a> (91)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=5">Melodic Metal</a> (100)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=6">Prog Rock</a> (45)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=7">Southern Rock</a> (8)<br>
 </b></font></td></tr></tbody></table>
 </center>
 </td></tr></tbody></table>
@@ -196,6 +222,18 @@ Reference on the Internet!</font></b></td></tr>
 </form>
 </center>
 <center>
+<table border="1" cellpadding="3" cellspacing="1">
+<tbody><tr><td bgcolor="#FFFFFF" align="CENTER">
+<br>
+<b>I'm moving the site to a new hosting company, so there may be some downtime
+at some point in the next week.
+<br><br></b></td></tr>
+<tr><td bgcolor="#AAFFAA">
+<b>The radio feed has been revamped. All new songs on the playlist. Click on
+the "HH Radio" icon at the left of this page to listen, or click
+<a href="/cgi-bin/radio.cgi">here</a> to see the new playlist.
+</b></td></tr>
+</tbody></table>
 </center>
 <img src="/NewImages/is_single_pixel_gif.gif" width="1" height="6"><br>
 <p align="CENTER">
@@ -262,7 +300,7 @@ webmaster of Heavy Harmonies<br>
 <p align="CENTER">
 <font size="-2">This site designed and maintained by
 <a href="mailto:webmaster\@HeavyHarmonies.Com">Webmaster</a><br>
-© 1998-2001. All rights reserved. <a href="/cgi-bin/privacy.cgi">Privacy Statement</a><br>
+© 1998-2002. All rights reserved. <a href="/cgi-bin/privacy.cgi">Privacy Statement</a><br>
 </font>
 </p>
 <p>&nbsp;</p>
