@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602025925id_/http%3A//www.fantasyleague.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201190028id_/http%3A//www.fantasyleague.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Fantasy League
 
-**PRIVACY STATEMENT**
-
+  
 **This privacy statement discloses the privacy practices for http://www.fantasyleague.com**
 
 Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. We agree to notify you of: 
