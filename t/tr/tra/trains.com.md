@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623075551id_/http%3A//www.trains.com/content/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606065013id_/http%3A//www.trains.com/content/static/privacy.asp) for the most accurate reproduction.*
 
 # Trains.com: Privacy Policy
+
+|  |  |  | 
 
 **PRIVACY POLICY**
 
@@ -50,4 +52,4 @@ Certain areas of our site are designed specifically for minors, including childr
 Unless otherwise disclosed during collection, **trains.com** does not use or provide any personally identifiable information from registrants under the age of 13 for marketing or promotional purposes, except as may be explicitly stated during registration for specific contests or promotions; and if that is the case, the information is used only for that specific contest or promotion.
 
   
-
+|  | 
