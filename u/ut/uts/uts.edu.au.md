@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uts.edu.au privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014133908id_/http%3A//www.uts.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uts.edu.au privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408032723id_/http%3A//www.uts.edu.au/privacy.html) for the most accurate reproduction.*
 
 # UTS: Privacy Statement
 
