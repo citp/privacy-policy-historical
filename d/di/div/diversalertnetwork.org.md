@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621084855id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205052828id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
 
 # Divers Alert Network : Privacy Policy
 
   
 
 
-Your Privacy  
-
+Your Privacy 
 
 DAN is committed to protecting your privacy and uses your personal information only to process orders and provide you with the highest level of service. Please read on for more details about DAN's policy regarding your privacy. 
 
@@ -33,13 +32,13 @@ What about "cookies"?
 
 Will DAN disclose the information it collects to outside parties? 
 
-  * **DAN does not sell, trade, or rent your personal information to others. As a DAN Member, you are eligible to apply for, or may receive, a number of benefits that are provided by companies other than DAN. To protect your privacy, DAN has very specific agreements with these companies that legally prevent the use of your personal information for any purpose other than the DAN Member benefit. For more information, please see below.**
+  * **DAN does not sell, trade, or rent your personal information to others except to companies providing DAN membership benefits. As a DAN Member, you are eligible to apply for, or may receive, a number of benefits that are provided by companies other than DAN. To protect your privacy, DAN has very specific agreements with these companies that legally prevent the use of your personal information for any purpose other than the DAN Member benefit. For more information, please see below.**
 
 
 
 Other than DAN, what companies provide DAN membership benefits? 
 
-  * **MBNA America:** DAN Members are eligible to apply for the DAN/MBNA MasterCard credit card from MBNA America. Each time the card is used, DAN receives additional funding that supports its mission of improving dive safety. Although MBNA may contact existing DAN/MBNA MasterCard cardholders regarding their account, MBNA is legally prevented from using the Member’s information for any other purpose. If you do not want to receive information about the DAN/MBNA MasterCard, please contact DAN Membership Services at 1-800-446-2671 or +1-919-684-2948. 
+  * **MBNA America:** DAN Members are eligible to apply for the DAN/MBNA MasterCard credit card from MBNA America. Each time the card is used, DAN receives additional funding that supports its mission of improving dive safety. If you do not want DAN to provide your information to MBNA, please contact DAN Membership Services at 1-800-446-2671 or +1-919-684-2948. 
   * **Palancar Industries:** DAN Members are eligible to purchase the DAN Tag™, which is manufactured by Palancar Industries. Palancar only receives what personal information the DAN Member voluntarily submits when ordering the product. DAN does not provide any additional information about a DAN Member to Palancar Industries. 
 
 
@@ -62,4 +61,4 @@ Other than DAN, what companies provide DAN membership benefits?
 
 
 
-[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http%3A%2F%2Fwww%2EDiversAlertNetwork%2Eorg%2Fprivacy%2Easp%3F%26ASIMPR%3D23%26ASTAGS%3DAd%2ESize%2EBanner%2Bhome)
+[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http%3A%2F%2Fwww%2EDiversAlertNetwork%2Eorg%2Fprivacy%2Easp%3F%26ASIMPR%3D7%26ASTAGS%3DAd%2ESize%2EBanner%2Bhome)
