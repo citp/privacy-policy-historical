@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boltdns.net privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625204732id_/http%3A//www.bolthosting.net/site/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltdns.net privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210044921id_/http%3A//www.bolthosting.net/site/policy/privacy.html) for the most accurate reproduction.*
 
 # BoltHosting.NET :: Policy : Privacy Policy
 
