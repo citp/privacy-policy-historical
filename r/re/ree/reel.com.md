@@ -1,108 +1,67 @@
-> *The following text is extracted and transformed from the reel.com privacy policy that was archived on 2003-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031215211709id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reel.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060841id_/http%3A//hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# Reel.com: Privacy Policy
+# Hollywood Video - Privacy Policy
 
-_Updated: December 3, 2002_
+This policy applies to the following Hollywood Entertainment internet sites: [hollywoodvideo.com](http://hollywoodvideo.com/), [reel.com](https://web.archive.org/offsite.aspx?url=http://reel.com), [gamecrazy.com](https://web.archive.org/offsite.aspx?url=http://www.gamecrazy.com), and [hollywoodvideogiftcards.com](https://web.archive.org/offsite.aspx?url=http://www.hollywoodvideogiftcards.com). We created this privacy statement to describe our commitment to your privacy. We seek to protect your private information so that you have a pleasurable viewing experience on our Web sites. To remove yourself from one of our mailing lists, click on the “unsubscribe” link at the bottom of the newsletter. We share your personally identifiable information with trusted third parties, only as necessary to provide products or services requested by you. We will not sell, rent, or trade your personal information to third parties for use by them to send you unsolicited commercial offers. We do not collect or retain personally identifiable information from children under 13 years of age. We welcome and encourage your questions, comments, and suggestions. If you have questions or comments, please contact us at [privacy@Hollywoodvideo.com](mailto:privacy@Hollywoodvideo.com). 
 
-Reel.com created this privacy statement to describe our commitment to your privacy. We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. We welcome and encourage questions, comments, and suggestions. If you have questions or comments, please contact us at [privacy@reel.com](mailto:privacy@reel.com). 
+This policy discusses the following topics:
 
-This policy discusses the following topics: 
+Personally Identifiable Information: What It Is, Where We Collect It, How We Use It, and To Whom We Disclose It   
+Cookies: What A Cookie Is and How We Use Them   
+Children: Our Policy For Guests Under Age 13  
+Choices You Have: How To Update Your Personally Identifiable Information, Cancel Your Newsletter Subscription and Disable Cookies   
+Changes To This Privacy Policy: Information About Additions and Deletions To This Page   
+Contact Information: How You Can Contact Us 
 
-  * Personally Identifiable Information  
-_What It Is, Where We Collect It, How We Use It, and To Whom We Disclose It_  
-
-  * Cookies  
-_What A Cookie Is and How We Use Them_  
-
-  * Children  
-_Our Policy For Guests Under Age 18_  
-
-  * Privacy Organizations  
-
-  * Choices You Have  
-_How to Update Your Personally Identifiable Information, Cancel Your Subscription to Our Newsletter, or Disable Cookies_  
-
-  * Changes to this Privacy Policy  
-_Information about Additions and Deletions to this page_  
-
-  * Contact Information  
-_How You Can Contact Us_  
-
-
-
-
-**Personally Identifiable Information**
-
-_What Personally Identifiable Information Is_  
-Personally identifiable information is your name, address, e-mail address, phone number, and credit card information. 
+**Personally Identifiable Information**  
+_What Personally Identifiable Information Is:_  
+Personally identifiable information is any information that identifies you as an individual. It does not include information about what you do on our site, because that information is kept anonymously in aggregated form. It does include your name, address, e-mail address, phone number and/or credit card information. 
 
 _Where We Collect Personally Identifiable Information_  
-Reel.com collects personally identifiable information when you (1) subscribe to our newsletter, (2) enter sweepstakes, trivia, or other contests, and (3) submit feedback, questions, or "contact us" messages. 
+Our sites may collect personally identifiable information submitted by you, if you are over 13 years of age. You are required to provide certain personally identifiable information in order to (1) apply for Online Membership, (2) subscribe to one of our newsletters, (3) enter one of our sweepstakes or trivia contests, (4) buy gift cards, (5) use our Store Locator, and (6) submit feedback, questions or “contact us” messages by email.
 
-For more information about where we collect personally identifiable information, please [click here](https://web.archive.org/web/20031215211709id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
+For more information about where we collect personally identifiable information, please [click here](https://web.archive.org/company/privacy_details.aspx). 
 
-_How We Use Personally Identifiable Information_  
-Reel.com uses your personally identifiable information to personalize your experience on our Web site and to contact you. 
+_How We Use Personally Identifiable Information:_  
+If you sign up for Online Membership, we will use your personally identifiable information to personalize your experience on our sites. If you give us permission, we will use your personal information to contact you for certain purposes, such as our newsletter. 
 
-Reel.com also compiles aggregate data from all of our customers to prepare internal reports about which Web pages are popular, how many total unique users visit our site, and different traffic patterns on the site. Reel.com does not combine your personally identifiable information with information about Web pages visited, purchases made, or any other clickstream data. 
+Our sites compile aggregate data from all of our customers to prepare internal reports about which web pages are popular, how many total unique users visit our site, and different traffic patterns on the site. We do not combine personally identifiable information with information about web pages visited, purchases made, or any other clickstream data. 
 
-For more information about how we use personally identifiable information, please [click here](https://web.archive.org/web/20031215211709id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
+For more information about how we use personally identifiable information, please [click here](https://web.archive.org/company/privacy_details.aspx). 
 
-_Who We Disclose Personally Identifiable Information To_  
-Reel.com will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Reel.com may disclose some personal information to outside companies who help Reel.com with the administration and delivery of newsletters, promotional games, trivia contests, and sweepstakes. For example, a company who administers a sweepstakes for us may use your e-mail address to update you on your status in the sweepstakes. Or, our newsletters may be distributed by another company that will use your e-mail or shipping address for delivery. We do not allow these outside companies to use this information for any reason other than ones we specifically authorize. 
+_Who We Disclose Personally Identifiable Information To:_  
+We will not sell, rent, or trade your personal information to third parties for use by them to send you unsolicited commercial offers. We do share your information with trusted third parties (other companies) that help us with administering our web sites, responding to your requests, and providing you with products and services. We do not allow these other companies to use your information except for the purpose it was provided. We will also disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us, or to prevent violations of the law, injury to person or property, or any harm to us or others. 
 
-The Reel.com Web site contains links to other Web sites. Although we **do not** provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the Reel.com Web site. Reel.com is not responsible for the privacy policies, practices, or content of Web sites with links on our site. Also, shopping services for our customers are now provided by Amazon.com through a link on our site. When you make a purchase, you will enter your personally identifiable information directly on the Amazon.com Web site. Reel.com's privacy policy will not apply on Amazon.com's Web site. You should review Amazon.com's privacy policy if you choose to make purchases. 
+For more information about how and when we may disclose personally identifiable information, please [click here](https://web.archive.org/company/privacy_details.aspx). 
 
-Aggregate statistical data gathered from customers, but NOT personally identifiable information, may be shared with our [Associate Program](https://web.archive.org/web/20031215211709id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=affiliates) associates in order to calculate referral information. Reel.com may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to Reel.com or others. 
+**Cookies**   
+A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer’s hard drive. Cookies store information about your use of a particular Web site or service and are typically used to make services more convenient and personalized. We use anonymous cookies called “session cookies” to measure traffic patterns to areas of our site and to features mentioned in our newsletter. Session cookies are created each time you visit one of our sites, and do not remain on your computer after you leave the site. We use personalized cookies when you have registered as an Online Member, to customize your user experience. Personalized cookies are linked to your personal information and remain on your computer after you leave our site. 
 
-For more information about the disclosure of personally identifiable information to select companies, please [click here](https://web.archive.org/web/20031215211709id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
-
-**Cookies**
-
-_What A Cookie Is_  
-A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. Cookies store information about your use of a particular Web site or service and are typically used to make services more convenient and personalized. Most cookies are "session cookies," which are automatically deleted whenever you leave a Web site, although some cookies remain on your computer until you remove them. 
-
-_How We Use Cookies_  
-We use cookies (1) to estimate the number of visitors to our Web site, (2) to measure general traffic patterns, (3) to help us determine which of our [Associate Program](https://web.archive.org/web/20031215211709id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=affiliates) associates make customer referrals, and (4) to track the number of times you see the newsletter sign-up popup window. 
-
-Companies that place ads on the Reel.com Web site — including, but not limited to 24/7 Real Media, DoubleClick, X10, Avenue A, Mediaplex, Ascendo, and Advertisting.com — may also use their own cookies to help determine the frequency and placement of particular ads (please see [Advertising](https://web.archive.org/web/20031215211709id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/advertising)). It is possible that some parts of the Reel.com site may not function properly if your browser is set to refuse our cookies. 
-
-For more information about cookies, how we use them, and how to access your browser's cookie settings, please [click here](https://web.archive.org/web/20031215211709id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
+For more information about cookies and how we use them, please [click here](https://web.archive.org/company/privacy_details.aspx).
 
 **Children**   
-_Our Policy For Guests Under Age 18_
-
-Reel.com is committed to protecting the privacy of children. Each visitor confirms that he or she is at least 18 years of age upon registration for our newsletter or one of our sweepstakes. Visitors under age 18 should not submit any personally identifiable information to Reel.com. 
-
-Hollywood Entertainment Corporation believes that parents should supervise their children's online activites and consider using parental control tools available from online services and software manufacturers that may help provide a child-friendly online environment. These tools may also prevent children from disclosing online their name, address, and other personal information without parental permission. 
-
-**Privacy Organizations**  
-For more information about other Web sites with online privacy information, please [click here](https://web.archive.org/web/20031215211709id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
+Our sites comply with the requirements of the Children’s Online Privacy Protection Act (COPPA) and the Federal Trade Commission’s rules interpreting COPPA (16 CFR § 512). We do not collect or retain personally identifiable information from children under 13 years of age. We do not permit children under 13 to register as Online Members, and we do not use personalized cookies for children under 13. If we learn that a child under 13 has submitted personally identifiable information to us by misrepresenting his or her age, we will delete that information from our records. 
 
 **Choices You Have**  
-_How to Update Your Personally Identifiable Information, Cancel Your Subscription to Our Newsletter, or Disable Cookies_
+How To Update Your Personally Identifiable Information  
+To update or change the personally identifiable information you have given us, logon to your Online Membership account, or send us an email with your updated information. Send email to [privacy@hollywoodvideo.com](mailto:privacy@hollywoodvideo.com).
 
-_How To Update Your Personally Identifiable Information_  
-To update or change the personally identifiable information you gave us, send an email with the new information to [privacy@reel.com](mailto:privacy@reel.com). 
+**How To Cancel Your Subscription to Our Newsletter**  
+Please open the last newsletter your received and click on the “unsubscribe” link at the bottom. If you have any difficulties or questions please e-mail us at [newsreel@hollywoodvideo.com](mailto:newsreel@hollywoodvideo.com). 
 
-_How To Cancel Your Subscription to Our Newsletter_  
-If you wish to unsubscribe from the Hollywood NewsReel mailing list, please [Click Here](http://host1.4at7.net/cgi-bin/a2bv/host_pages/rel/unsub/en_rel.html). 
+**Changes to this Privacy Policy**   
+Please return to this page from time to time, as we will be updating this statement as our services continue to grow. If we make substantial changes in the way we collect or use your personally identifiable information, we will notify you by posting a prominent announcement on our pages prior to implementation.
 
-_Cookie Notification and Disabling_  
-Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the Reel.com Web site may not function properly if your browser is set to reject cookies.   
-Some of the companies that place advertisements on our site allow you to "opt-out" of receiving their cookies:  
-For DoubleClick's "Opt-Out" link, please [Click Here](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp).  
-For Avenue A's "Opt-Out" link, please [Click Here](http://www.avenuea.com/info/prBlockingCookies.asp).  
-For Media Plex's "Opt-Out" link, please [Click Here](http://www.mediaplex.com/mp/privacy/privacy_f.html).  
-For additional information about the 24/7 Real Media privacy policy, please [Click Here](http://www.247media.com/privacy.html).  
+**External Links**  
+Our sites contain links to other Web sites not owned or operated by us. Although we try to provide links only to trustworthy sites, we are not responsible for the privacy practices or content of external sites. Online purchases of titles described on [reel.com](https://web.archive.org/offsite.aspx?url=http://reel.com) are through [Amazon.com](https://web.archive.org/offsite.aspx?url=http://amazon.com), and submission of your personal information to [Amazon.com](https://web.archive.org/offsite.aspx?url=http://amazon.com) is governed by the privacy policy of [Amazon.com](https://web.archive.org/offsite.aspx?url=http://amazon.com), not by this policy.
 
+**Business Transitions**  
+In the event we go through a business transition, such as a merger, acquisition by another company, or sale of a portion of our assets, your personal information may be part of the assets transferred. You will be notified via prominent notice on our Web site at least 30 days prior to a change of ownership or control of your personal information. If, as a result of the business transition, your personally identifiable information will be used in a manner materially different from that stated at the time of collection, you will be given the option to delete your information from our records.
 
-**Changes to this Privacy Policy**
+**Security**  
+We take commercially reasonable precautions to protect our customers’ information. Because network security measures are not infallible, we cannot guarantee the security of your information. 
 
-Please return to this page from time to time, as we will be updating this statement as our services continue to grow. If we make substantial changes in the way we collect or use your personally identifiable information, we will notify you by posting a prominent announcement on our pages prior to implementation. 
+When you order gift cards or make other online purchases from us, sensitive information such as your credit card number is encrypted. We also make an effort to protect your information off-line. All of our customers’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store your personally identifiable information are housed in a secure environment.
 
-**Contact Information**
-
-Please direct questions, comments, and suggestions regarding this statement to Hollywood Entertainment Corporation, Legal Dept., 9275 Peyton Lane, Wilsonville, OR 97070.   
-  
-
+**Site Ownership and Contact Information**   
+Our sites are owned and operated by Hollywood Entertainment Corporation and/or its affiliates. Subject to your rights as described in this privacy policy, all customer information collected on our sites is the sole property of Hollywood Management Corporation, Inc., an affiliate of Hollywood Entertainment Corporation. Please direct your comments and questions to us via email at [privacy@hollywoodvideo.com](mailto:privacy@hollywoodvideo.com), via telephone at 1-877-325-8687, or via mail at Hollywood Entertainment Corporation, att’n Legal Dept., 9275 Peyton Lane, Wilsonville, OR 97070. 
