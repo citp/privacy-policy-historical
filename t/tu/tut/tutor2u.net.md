@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206051739id_/http%3A//tutor2u.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/privacy.asp) for the most accurate reproduction.*
 
 # Tutor2u - Terms and Conditions
 
@@ -57,14 +57,16 @@ LS23 6DX
 * * *  
   
 ---  
-FAQ about tutor2u™ (Version 5 or later browser required)   
-**[Home](https://web.archive.org/web/20031206051739id_/http%3A//tutor2u.net/default.asp)** | [Privacy Policy ](https://web.archive.org/web/20031206051739id_/http%3A//tutor2u.net/privacy.asp)| [Terms of Use](https://web.archive.org/web/20031206051739id_/http%3A//tutor2u.net/terms.asp) | [Feedback](https://web.archive.org/web/20031206051739id_/http%3A//tutor2u.net/feedback.asp) |   
-Sign up for latest news of new content added to tutor2u™ and special offers for tutor2u users .   
-tutor2u™ was awarded Online Learning Resource of the Year at the 2003 BETT Awards  
-Highly Commended in the UK Online for Business Awards 2003   
+**[Home](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/default.asp)** | [Privacy Policy ](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/privacy.asp)| [Terms of Use](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/terms.asp) | [Contact Us](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/feedback.asp) |   
+Add your email to receive our free, regular email newsletter  
+Online Learning Resource of the Year - 2003 BETT Awards  
+Highly Commended in the UK Online for Business Awards 2003  
+Many tutor2u resources can be purchased using e-learning credits - [please visit our online store for details](https://web.archive.org/web/20040607191210id_/http%3A//tutor2u.net/acatalog/shop.html)   
 |   
-Copyright © 2003 Tutor2u Limited. All Rights Reserved  
+Copyright © 2004 Tutor2u Limited. All Rights Reserved  
 tutor2u™ is a registered trademark (Number: 2332331)  
 Registered Company Number: 4489574; VAT registration Number: 816 8654 00  
 Postal Address: Tutor2u Limited, 19 Westwood Way, Boston Spa, WETHERBY, LS23 6DX  
-Directors: JM Riley FCA MBA BA(Hons); GB Riley MA (Cantab) PGCE
+Directors: JM Riley FCA MBA BA(Hons); GB Riley MA (Cantab) PGCE  
+Other websites: [www.business-studies.co.uk](http://www.business-studies.co.uk/); [www.economics-revision.co.uk](http://www.economics-revision.co.uk/)  
+
