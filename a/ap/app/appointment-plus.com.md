@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209163831id_/http%3A//www.appointment-plus.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206081940id_/http%3A//www.appointment-plus.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Appointments Software and Online Scheduling Software - Features
+# Appointments Software and Online Scheduling Software
 
 Contemporary Web Plus, Inc. is located at 10604 E. Acacia Drive, Scottsdale, Arizona 85255. Contemporary Web Plus owns and operates the Appointment-Plus Web site. 
 
@@ -24,11 +24,11 @@ Contemporary Web Plus does not disclose your personal information to companies o
 
 **What kind of personal information do we have, and where did we get it?**
 
-Much of the personal information that we have about you comes directly from you. You disclosed much of this information on your signup application or other documents which you have provided to us. We may have contacted you by telephone or mail for additional information. We also keep information about the schedules you make with us, as well as account balances and payment history. We may also collect personal information from outside sources, including consumer reporting agencies. This information may include credit reports. Depending on the nature of your relationship with us, you may be required to provide us or our affiliates with information. That information may include, for example, your name, address, birth date, phone number, Social Security number or E-mail address. 
+Much of the personal information that we have about you comes directly from you. You disclosed much of this information on your signup application or other documents which you have provided to us. We may have contacted you by telephone or mail for additional information. We also keep information about the schedules you make with us, as well as account balances and payment history. Depending on the nature of your relationship with us, you may be required to provide us or our affiliates with information. That information may include, for example, your name, address, birth date, phone number, Social Security number or E-mail address. 
 
 **How do we protect your personal information?**
 
-When we share personal information with companies working on our behalf, we protect that personal information where required by law with a confidentiality agreement that obligates those companies to conform to our standards and keep confidential any information about you that we give them. Within Contemporary Web Plus, your personal information is available to those individuals who may need to see it to fulfill and service your needs. In addition, we communicate regarding the need to protect your information to those individuals who have access to it, and we've established physical, electronic, and procedural safeguards to protect your information. Finally, should your relationship with Contemporary Web Plus end, your personal information will remain protected in accordance with our privacy practices as outlined in this policy. 
+Within Contemporary Web Plus, your personal information is available to those individuals who may need to see it to fulfill and service your needs. In addition, we communicate regarding the need to protect your information to those individuals who have access to it, and we've established physical, electronic, and procedural safeguards to protect your information. Finally, should your relationship with Contemporary Web Plus end, your personal information will remain protected in accordance with our privacy practices as outlined in this policy. 
 
 We may provide aggregate statistics about our Appointment-Plus Web site customers, traffic patterns, and related site information to outside parties (i.e., third party partners, industry analysts or the media); however, these statistics will not include personally identifiable information or account information about any of our individual customers. 
 
@@ -38,7 +38,7 @@ In addition, we may sell, buy, transfer, exchange, or merge all or a portion of 
 
 **How we use "cookies" and other electronic devices on the Appointment-Plus Web site.**
 
-A "cookie" is a small file stored on your computer by a Web site which gives you a numeric user ID and stores certain information about your activity on the site. We use cookies and other electronic devices to establish a user session and monitor certain usage while you are on our site. Your usage is tracked primarily so that we can (i) if necessary, modify the Web site according to your usage to make the information you are looking for easier to find in the future, (ii) maintain sufficient hardware, software and personnel to provide you with a high level of service, and (iii) let third parties know about certain usage on our site. The cookies and electronic devices passed to you are seamless, do not reveal your personal identity, will not follow you as you surf on to other Web sites. The electronic devices may allow third parties to identify your usage on our Web site with your consent to accrue or recognize incentives or bonuses provided by the third parties to you in connection with your activity on our Web site. Most web browsers automatically accept cookies, but most allow you to instruct your browser to prevent the use of cookies. However, if you disable this feature, certain aspects of our Web site may not function properly. 
+A "cookie" is a small file stored on your computer by a Web site which gives you a numeric user ID and stores certain information about your activity on the site. We use cookies and other electronic devices to establish a user session while you are on our site. The cookies and electronic devices passed to you are seamless, do not reveal your personal identity, will not follow you as you surf on to other Web sites. Most web browsers automatically accept cookies, but most allow you to instruct your browser to prevent the use of cookies. However, if you disable this feature, certain aspects of our Web site may not function properly. 
 
 **Security**
 
@@ -57,5 +57,3 @@ If you choose to click on certain links on this Web site, you may link to third 
 Subject to the above provisions, by using our Web site, you acknowledge that this privacy policy is part of our Copyright and Customer Agreement and you agree to be bound by all of its terms and conditions. If we decide to change our privacy policy, we will post those changes on this page and changes will become effective upon posting. 
 
 If you have any questions or would like more information, please don't hesitate to contact us in writing at: Customer Service, Appointment-Plus, c/o Contemporary Web Plus, Inc., 10604 E. Acacia, Scottsdale, Arizona 85255 or via the Internet at: [support@appointment-plus.com](mailto:support@appointment-plus.com). 
-
-|  
