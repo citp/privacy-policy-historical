@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the allaboutjazz.com privacy policy that was archived on 2001-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010405105122id_/http%3A//www.allaboutjazz.com/privacy2000.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allaboutjazz.com privacy policy that was archived on 2001-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011015114133id_/http%3A//www.allaboutjazz.com/privacy2000.htm) for the most accurate reproduction.-->
 
 <html><head>
-<title>All About Jazz | Jazz Magazine and Resource</title>
+<title>Jazz Magazine and Resource | ALL ABOUT JAZZ</title>
 <meta name="HOME" content="Jazz: All About Jazz">
 <meta name="AUTHOR" content="Jazz: All About Jazz">
 <meta name="ROBOTS" content="all">
@@ -177,9 +177,15 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-//-->
-</script>
 
+<!--
+function packselect()
+{
+  var URL = document.form.pack.options[document.form.pack.selectedIndex].value;
+  parent.location.href = URL;
+}
+// -->
+</script>
 
 
 </head>
@@ -193,8 +199,8 @@ function MM_swapImage() { //v3.0
    <table cellpadding="0" cellspacing="0" border="0" width="100%">
    <tbody><tr>
    <td><img src="http://www.allaboutjazz.com/2001/row_1.gif" width="3" height="20" border="0"></td>
-   <td valign="CENTER"><font size="1" face="VERDANA,HELVETICA,ARIAL" color="EEEEEE"><b>Welcome to All About Jazz! The Internet Guide to Jazz</b></font></td>
-   <td valign="CENTER" align="RIGHT"><font size="1" face="VERDANA,HELVETICA,ARIAL" color="#EEEEEE"><b><script>document.write(dateString)</script>Today is Saturday, February 1</b></font></td>
+   <td valign="CENTER"><font size="1" face="VERDANA,HELVETICA,ARIAL" color="EEEEEE"><b>Welcome to All About Jazz! The Web's Ultimate Guide to Jazz</b></font></td>
+   <td valign="CENTER" align="RIGHT"><font size="1" face="VERDANA,HELVETICA,ARIAL" color="#EEEEEE"><b><script>document.write(dateString)</script>Today is Saturday, February 1 | <a style="text-decoration:none; color: #FFFFFF" href="http://www.allaboutjazz.com/mediakit/">Media Kit</a></b></font></td>
    <td><img src="http://www.allaboutjazz.com/2001/row_1.gif" width="3" height="20" border="0"></td>
    </tr>
    </tbody></table>
@@ -224,8 +230,8 @@ function MM_swapImage() { //v3.0
    <tbody><tr><td height="68" bgcolor="#CFDDE7" align="CENTER">
 
 
-<a href="http://www.jazzsteps.com?partner=23053"><img src="http://www.allaboutjazz.com/jazzsteps_lg.gif" width="468" height="60" border="0"></a> 
-
+<iframe width="468" height="60" noresize="" scrolling="No" frameborder="0" marginheight="2" marginwidth="0" src="http://www.jazzsteps.com/ads/adrotator.asp?ad_size=1&amp;cust_id=2">
+</iframe>
 
    </td></tr>
    <tr>
@@ -233,11 +239,11 @@ function MM_swapImage() { //v3.0
 	<font size="2" face="VERDANA,HELVETICA,ARIAL">
 
 
-<form method="GET" action="http://allaboutjazz.master.com/texis/master/search/">
-<font size="1" color="#394F79"><b>search aaj:</b></font> <input name="q" value=""><input type="image" value="Search" src="http://www.allaboutjazz.com/find.gif" border="0" align="absmiddle"><input type="hidden" name="s" value="SS">
-</form>
+<form method="GET" action="http://www.google.com/custom">
+<font size="1" color="#394F79"><b>search with google:</b> <input type="text" name="q" maxlength="255" value=""><input type="image" src="http://www.allaboutjazz.com/find.gif" border="0" align="absmiddle" name="sa" value="Search"><input type="hidden" name="cof" value="T:#333333;ALC:#647DAC;LC:#647DAC;BGC:#FFFFFF;AH:center;VLC:#647DAC;AWFID:3b4c2d6292f7975c;"> &nbsp; <input type="hidden" name="domains" value="allaboutjazz.com"><input type="radio" name="sitesearch" value="allaboutjazz.com" checked=""> aaj <input type="radio" name="sitesearch" value=""> www
 
-      </font></td>
+
+      </font></form></font></td>
    </tr>
    <tr valign="CENTER" bgcolor="#011D53"> 
        <td align="LEFT" height="19"><b><font face="VERDANA,HELVETICA,ARIAL" size="1"> 
@@ -308,21 +314,55 @@ function MM_swapImage() { //v3.0
       <tbody><tr>
         <td width="100%" align="CENTER">
         <center>
-        <font size="1" face="VERDANA,ARIAL">
+	
+	<img src="http://www.allaboutjazz.com/2001/left_newsletter.gif" width="165" height="25" border="0">
+        <form action="http://wwww.allaboutjazz.com/maillist/jz-add.cfm" method="POST">
+        <input type="TEXT" name="email" size="15" maxlength="127" value="Your Email Here">
+	<br><input type="image" value="Subscribe" align="absmiddle" src="http://www.allaboutjazz.com/subscribe.gif" width="85" height="22" border="0">
+	</form>
+
+	<p><br>
+
 
 	<img src="http://www.allaboutjazz.com/2001/left_browse.gif" width="165" height="25" border="0">
+
+	<br>
+
+	</p><form name="form" method="post" action="http://www.visionx.com/scripts/url.pl">
+	<select name="pack" onchange="packselect()">
+	<option value="index.html">---- QUICK FIND ----
+	</option><option value="http://www.allaboutjazz.com/articles.htm">Articles
+	</option><option value="http://www.allaboutjazz.com/artist_directory.htm">Artists Directory
+	</option><option value="http://www.allaboutjazz.com/artists/index.html">Artist Profiles
+	</option><option value="http://www.allaboutjazz.com/dryden/">Ask Ken
+	</option><option value="http://www.allaboutjazz.com/events.htm">Festivals
+	</option><option value="http://www.allaboutjazz.com/art.htm">Gallery
+	</option><option value="http://www.allaboutjazz.com/globalgig.htm">Global Gigs
+	</option><option value="http://www.allaboutjazz.com/interviews.htm">Interviews
+	</option><option value="http://www.allaboutjazz.com/news/index.cfm">News
+	</option><option value="http://www.allaboutjazz.com/release/index.html">Publisher's Picks
+	</option><option value="http://www.allaboutjazz.com/reviews.htm">Reviews
+	</option><option value="http://www.allaboutjazz.com/genres.htm">Styles
+	</option><option value="http://www.allaboutjazz.com/timeline.htm">Time Line
+	</option><option value="http://www.allaboutjazz.com/talkin.htm">Topics
+	</option></select>
+	</form>
+
 	<font face="VERDANA,HELVETICA,ARIAL" size="1">
 
-	<p>
+	<p><br>
 	<b><font color="#5A816C">GETTING STARTED</font></b>
+	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/articles/welc1001.htm"><b>Welcome to AAJ!</b></a>
 	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/newgrove.htm"><b>3600+ Biographies</b></a>
         <br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/mp3-list.cfm"><b>Audio Downloads</b></a>
-	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/larmstrong.htm"><b>Louis Armstrong @ AAJ</b></a>
-	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/kenburnsjazz.htm"><b>Ken Burns JAZZ @ AAJ</b></a>
-	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/coltrane/"><b>John Coltrane @ AAJ</b></a>
-
 	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/newbie.htm"><b>New to Jazz?</b></a>
 	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.emusic.com/promo/allaboutjazz/?fref=36537"><b>Fantasy Jazz @ eMusic</b></a>
+
+	</p><p><br>
+	<b><font color="#5A816C">@ ALL ABOUT JAZZ</font></b>
+	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/larmstrong.htm"><b>Louis Armstrong</b></a>
+	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/kenburnsjazz.htm"><b>Ken Burns JAZZ</b></a>
+	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/coltrane/"><b>John Coltrane</b></a>
 
 	</p><p><br>
 	<b><font color="#5A816C">ARTICLES &amp; OPINIONS</font></b>
@@ -353,66 +393,62 @@ function MM_swapImage() { //v3.0
 
 	</p><p><br>
 
-	<img src="http://www.allaboutjazz.com/2001/left_newsletter.gif" width="165" height="25" border="0">
-        </p><form action="http://www.visionx.com/vxsecure/maillist/jz-add.cfm" method="POST">
-        <input type="TEXT" name="email" size="15" maxlength="127" value="Your Email Here">
-	<br><input type="image" value="Subscribe" align="absmiddle" src="http://www.allaboutjazz.com/subscribe.gif" width="85" height="22" border="0">
-	<p>
-	<a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/newsletter.htm"><b>sample newsletter</b></a>
-	</p></form>
-
-	<p><br>
-
+	
 	<img src="http://www.allaboutjazz.com/2001/l_shop.gif" width="165" height="25" border="0">
 
-	</p><p><a href="http://www.jazzsteps.com?partner=23053"><img src="http://www.allaboutjazz.com/cart.jpg" width="50" height="50" border="0"></a>
-	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.jazzsteps.com?partner=23053"><b>JAZZ STEPS<br>Jazz Music Store</b></a>
+	</p><p>
 
+	<a href="http://www.jazzsteps.com?partner=23053"><img src="http://www.allaboutjazz.com/jazzsteps.gif" width="150" height="23" border="0"></a>
+
+	
+	<b>
+	<br>
+	</b></p><form method="get" id="form1" name="form1" action="http://www.jazzsteps.com/browse/search.asp"><b>
+	<input type="hidden" name="partner" value="23053">
+	<b><font color="#5A816C">Search Jazz Steps</font></b><br>
+	<input type="text" name="n" size="12" maxlength="32"><br>
+	<select name="t">
+	<option value="1">Artist</option>
+	<option value="2">Album</option>
+	</select>
+	<input type="image" src="http://www.allaboutjazz.com/gobutton2.gif" width="20" height="16" border="1" alt="GO!">
+	
+
+	<p>
+	<b><font color="#5A816C">RECENT RELEASES</font>
+	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.jazzsteps.com/newreleases/aaj_new.asp">Brand New</a>
+	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.jazzsteps.com/newreleases/aaj_traditional.asp">Traditional Jazz</a>
+	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.jazzsteps.com/newreleases/aaj_indi.asp">Independent Labels</a>
+	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.jazzsteps.com/newreleases/aaj_reissue.asp">Reissues</a>
+	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.jazzsteps.com/newreleases/aaj_smooth.asp">Smooth Jazz</a>
+	</b>
 	</p><p><br>
-
-	<img src="http://www.allaboutjazz.com/2001/forsale.gif" width="165" height="25" border="0">
-
-	</p><p><a href="https://www.schwann.com/aaj/subscribe.html"><img src="http://www.allaboutjazz.com/aajani.gif" width="120" height="60" border="0"></a>
-	<br><a style="text-decoration:none; color: #7CA27D" href="https://www.schwann.com/aaj/subscribe.html"><b>Schwann Inside Mag</b></a>
 
 	<!--
 
-	<P><A HREF="http://www.allaboutjazz.com/jazzlamp.htm"><IMG SRC="http://www.allaboutjazz.com/artlamp.jpg" WIDTH=36 HEIGHT=95 BORDER=0></A>
-	<BR><A STYLE="text-decoration:none; color: #7CA27D" HREF="http://www.allaboutjazz.com/jazzlamp.htm"><B>Ambient Art Lamps</B></A>
+	<IMG SRC="http://www.allaboutjazz.com/2001/left_international.gif" WIDTH=165 HEIGHT=25 BORDER=0>
 
+	<P>
+	<TABLE CELLPADDING=4 CELLSPACING=0 BORDER=0>
+	<TR>
+	<TD WIDTH=50% ALIGN=CENTER VALIGN=BOTTOM>
+        <FONT SIZE=1 FACE=VERDANA,ARIAL>
+	<A HREF="http://www.allaboutjazz.com/italy/" TARGET="_TOP"><IMG SRC="http://www.allaboutjazz.com/italian_flag.gif" WIDTH=40 HEIGHT=27 BORDER=0></A>
+	<BR><A STYLE="text-decoration:none; color: #7CA27D" HREF="http://www.allaboutjazz.com/italy/" TARGET="_TOP"><B>AAJ<BR>(Italy)</B></A>
+	</TD>
 
-	<P><A HREF="http://www.screenthemes.com/packs/bpjz001/"><IMG SRC="http://www.allaboutjazz.com/after-monitor.jpg" WIDTH=100 HEIGHT=100 BORDER=0></A>
-	<BR><A STYLE="text-decoration:none; color: #7CA27D" HREF="http://www.screenthemes.com/packs/bpjz001/"><B>Jazz Screen Savers</B></A>
-
-
-	<P><A HREF="http://activemarketplace.com/w.cgi?wipeout-5689"><IMG SRC="http://www.allaboutjazz.com/wipeout_100x50.gif" WIDTH=100 HEIGHT=50 BORDER=0></A>
-	<BR><A STYLE="text-decoration:none; color: #7CA27D" HREF="http://activemarketplace.com/w.cgi?wipeout-5689"><B>CD Repair Kit</B></A>
+	<TD WIDTH=50% ALIGN=CENTER VALIGN=BOTTOM>
+        <FONT SIZE=1 FACE=VERDANA,ARIAL>
+	<A HREF="http://www.citizenjazz.com/" TARGET="_TOP"><IMG SRC="http://www.allaboutjazz.com/citizenjazz.gif" WIDTH=50 HEIGHT=37 BORDER=0></A>
+	<BR><A STYLE="text-decoration:none; color: #7CA27D" HREF="http://www.citizenjazz.com/" TARGET="_TOP"><B>Citizen Jazz<BR>(France)</B></A>
+	</TD>
+	</TR>
+	</TABLE>
 
 	-->
-
-	</p><p><br>
-
-	<img src="http://www.allaboutjazz.com/2001/left_international.gif" width="165" height="25" border="0">
-
-	</p><p>
-	<table cellpadding="4" cellspacing="0" border="0">
-	<tbody><tr>
-	<td width="50%" align="CENTER" valign="BOTTOM">
-        <font size="1" face="VERDANA,ARIAL">
-	<a href="http://www.allaboutjazz.com/italy/" target="_TOP"><img src="http://www.allaboutjazz.com/italian_flag.gif" width="40" height="27" border="0"></a>
-	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.allaboutjazz.com/italy/" target="_TOP"><b>AAJ<br>(Italy)</b></a>
-	</font></td>
-
-	<td width="50%" align="CENTER" valign="BOTTOM">
-        <font size="1" face="VERDANA,ARIAL">
-	<a href="http://www.citizenjazz.com/" target="_TOP"><img src="http://www.allaboutjazz.com/citizenjazz.gif" width="50" height="37" border="0"></a>
-	<br><a style="text-decoration:none; color: #7CA27D" href="http://www.citizenjazz.com/" target="_TOP"><b>Citizen Jazz<br>(France)</b></a>
-	</font></td>
-	</tr>
-	</tbody></table>
 	
 
-        </p></font></font></center></td>
+        </p></b></form></font></center></td>
       </tr>
       </tbody></table>
       </td>
@@ -480,7 +516,7 @@ you can contact: <a href="mailto:privacy@visionx.com">privacy@visionx.com</a>.
 </tr>
 </tbody></table>
 
-<p><br><br><br>
+
 
 <!-- BOTTOM -->
 
@@ -491,9 +527,8 @@ you can contact: <a href="mailto:privacy@visionx.com">privacy@visionx.com</a>.
 <table border="0" cellpadding="4" cellspacing="0" width="100%" align="CENTER">
 <tbody><tr><td align="CENTER" bgcolor="#CFDDE7" height="4">
 
-<!-- Begin JazzStore Logo -->
-<a href="http://www.thejazzstore.com/index.cfm?affil=AF00026" target="_blank"><img src="http://www.allaboutjazz.com/js-031-trumpet-1-alt.gif" border="0" alt="JazzStore" width="468" height="60"></a>
-<!-- End JazzStore Logo -->
+<iframe width="468" height="60" noresize="" scrolling="No" frameborder="0" marginheight="2" marginwidth="0" src="http://www.jazzsteps.com/ads/adrotator.asp?ad_size=1&amp;cust_id=2">
+</iframe>
 
 
 </td></tr>
@@ -525,7 +560,7 @@ you can contact: <a href="mailto:privacy@visionx.com">privacy@visionx.com</a>.
 <table border="0" cellpadding="2" cellspacing="0" width="100%">
 <tbody><tr>
   <td><font size="1" face="VERDANA,HELVETICA,ARIAL">All material copyright © 1996-2001 All About Jazz and contributing writers. All rights reserved.</font></td>
-  <td align="RIGHT"><font size="1" face="VERDANA,HELVETICA,ARIAL"><b><a href="http://www.allaboutjazz.com/privacy2000.htm">Privacy Policy</a></b></font></td>
+  <td align="RIGHT"><font size="1" face="VERDANA,HELVETICA,ARIAL"><b><a href="http://www.allaboutjazz.com/privacy2000.htm">Privacy Policy</a> | <a href="http://www.allaboutjazz.com/mediakit/">Media Kit</a></b></font></td>
 </tr>
 </tbody></table>
 
@@ -533,4 +568,4 @@ you can contact: <a href="mailto:privacy@visionx.com">privacy@visionx.com</a>.
 
 
 
-</p></body></html>
+</body></html>
