@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409092554id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014014id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
 
 # al.com: Privacy Policy
 
@@ -27,7 +27,7 @@ al.com generally collects personally identifying information with your specific 
 
 al.com uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
 
-al.com does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us by [clicking here](https://web.archive.org/contactus/). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of al.com, you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
+al.com does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, please [contact us](https://web.archive.org/contactus/). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of al.com, you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
 
 We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While al.com will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, al.com does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
 
@@ -53,7 +53,7 @@ al.com is not intended for use by children, especially those under age 13. No on
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to [e-mail our Privacy Policy Coordinator](https://web.archive.org/contactus/).
+If you're worried about your children's activities or their privacy on our site, we encourage you to please [click here to contact our Privacy Policy Coordinator](https://web.archive.org/contactus/).
 
 If you have other concerns or questions about any aspect of this policy, you may also [e-mail our Privacy Policy Coordinator](https://web.archive.org/contactus/). We welcome your feedback. You can also send us regular mail at the following address: 
 
@@ -71,7 +71,7 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads5.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/1673776550/Tile1/ALABAMALIVE/AL_HPOTTERBOOK/harryP_Contest_tile.gif/30613031306134383365393365373130)   
-[](http://ads5.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/596901773/Tile2/ALABAMALIVE/AV_CLASSIFIEDS_08/tile4_al1.gif/30613031306134383365393365373130)   
+[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/2013261925/Tile1/ALABAMALIVE/AV_PERSONALS_AL11/housebanners1251.gif/64316564656561663366636433656630)   
+[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/37674049/Tile2/ALABAMALIVE/AL_TICKETS_02/buytickets5.gif/64316564656561663366636433656630)   
   
 
