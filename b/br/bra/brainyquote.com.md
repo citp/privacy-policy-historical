@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402211448id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024632id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
 
 # BrainyQuote - Privacy
 
@@ -14,7 +14,7 @@ We also use Adtegrity.com for advertising and Adtegrity.com's Privacy Policy can
 Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 Choice/Opt-Out:   
-Our Sites may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any email list to not receive future communications. To ensure immediate removal from any of our communications or subscriptions, click to unsubsribe or follow the specific instructions outlined within the communications you receive from us since BrainyMedia operates numerous sites tailored to specific interests. However, if you are unable click unsubscribe or complete the process indicated in the communications, then send us an email at info@brainymedia.com with a copy of the undesired email attached to the request and state you wish to be removed from the mailing list.  Contact Us:   
+Our Sites may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any email list to not receive future communications. To ensure immediate removal from any of our communications or subscriptions, click to unsubsribe or follow the specific instructions outlined within the communications you receive from us since BrainyMedia operates numerous sites tailored to specific interests. However, if you are unable click unsubscribe or complete the process indicated in the communications, then send us an email at service@brainymedia.com with a copy of the undesired email attached to the request and state you wish to be removed from the mailing list.  Contact Us:   
 If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can contact: service@brainymedia.com  Information provided by you via general email inquiries to BrainyMedia such as your email address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.  To view educational material on consumer privacy, please see http://www.ftc.gov/.  Your Acceptance of These Terms:   
 By using BrainyMedia's Sites, you signify your acceptance of the BrainyMedia Privacy Policy. If you do not agree to this policy, please do not use our Sites. BrainyMedia reserves the right to modify, alter or otherwise update this policy at any time, so visitors are encouraged to review this policy from time to time. Your continued use of the BrainyMedia Sites following the posting of changes to these terms will mean you accept those changes.  Last updated November 1, 2002  Copyright 2001, 2002, 2003 BrainyMedia. All Rights Reserved.  
 Do not duplicate or redistribute in any form.  |  [Home](https://web.archive.org/)  
@@ -23,6 +23,6 @@ Do not duplicate or redistribute in any form.  |  [Home](https://web.archive.org
 [Privacy](https://web.archive.org/inquire/privacy.html)  
 [Terms](https://web.archive.org/inquire/terms.html)  
 [Copyright](https://web.archive.org/inquire/copyright.html)  
-Modesty is the conscience of the body.   
-Honore de Balzac   
+Such seems your beauty still.   
+William Shakespeare   
 
