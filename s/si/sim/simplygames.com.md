@@ -1,0 +1,18 @@
+> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603080618id_/http%3A//www.simplygames.com/information_item.asp%3Fid%3D21) for the most accurate reproduction.*
+
+# Simply Games - Information
+
+  | 
+
+We are committed to protecting your personal information and will keep the information you entrust by keeping it safely and securely. Simply Games may from time to decide or be legally obliged to update this Privacy Policy. Any changes will be posted at this site. Except as required by law, modifications to this Privacy Policy shall not affect Simply Games treatment of data collected prior to the effective date of the Policy change. Why we collect information:Simply Games collects information from you for three reasons:
+
+To process your order, we collect your name; email address, postal address and credit card details.  
+To make your visit more rewarding and useful, we may monitor customer patterns and your use of the store via cookies. Please see the information below on cookies. 
+
+_Cookies:_ There are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not in themselves recognise the individual user but will recognise the computer you are using so that we know when you are returning to Simply Games. Most browsers will automatically accept cookies, but you can change the settings on your browser to prevent this happening. 
+
+_Disclosing information to others:_ Simply Games will never sell or share your personal information with third parties unless it is required to fulfil your order or to fulfil another function, which you have consented to. Should we employ other companies to perform functions on our behalf, including fulfilling orders, sending e-mails and postal mail, and analysing data, we will ensure that these companies only use such information under our direction to perform these functions, and that they have adequate procedures in place to deal with your data securely. Some of these companies may be based outside the EU. If we transfer your data to these companies we will ensure that they process your data in accordance with this privacy policy and the Data Protection Act. 
+
+_Accuracy and access to Personal Information:_ You can check that the information which we are holding is accurate by accessing your account online if you are registered (click on 'My Details’ or ‘Login’) at the top of the screen, enter your email address and password to log on and view your details) or emailing us at [webmaster@simplygames.com](mailto:webmaster@simplygames.com) Also, even if you have consented to receive marketing information from us you can request that we do not contact you with further information by e-mailing us at [customer-support@simplygames.com](mailto:customer-support@simplygames.com)[](mailto:info@simplygames.co.ukBrowsingWith) SimplyGames’s extensive range of electronic gaming products, it is important that you can get to where you want to be as easily as possible. The site is divided into main browsing categories, clearly seen on the navigation bar at the top of the site. These will remain in view throughout your shopping spree. Click on any of these and you will go straight to the main console format areas. Choosing one of these options will take you directly through to the main game categories, enabling extremely easy access to the product level, where individual products are listed complete with small image and a description. If you are interested in the particular product you can click through for a full description and extra information on the product page. 
+
+| 
