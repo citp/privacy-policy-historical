@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiansonline.com.au privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019212708id_/http%3A//www.christiansonline.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiansonline.com.au privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610193910id_/http%3A//www.christiansonline.com.au/content/privacy.asp) for the most accurate reproduction.*
 
 # Christian web site offering online singles, music and bible.
 
