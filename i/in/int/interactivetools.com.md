@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211115429id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408083652id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
 
 # interactivetools.com - Privacy Policy
 
@@ -23,21 +23,21 @@ Give us a call, we promise you won't be disappointed.
 
 We take your privacy very seriously. In order for you to better understand our data collection methods, we have compiled the following list:
 
-**1\. Website Forms.**
+**1\. Website Forms**
 
 > When you fill out a form on our website we may require you to provide your e-mail address or other information. This information is used only to contact you. We do not make this information available to any third parties. 
 
-**2\. Newsletter.**
+**2\. Newsletter**
 
-> If you elect to join our newsletter we will notify you of new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. You may unsubscribe from our newsletter at any time. 
+> If you elect to join our newsletter we will notify you of new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. You may unsubscribe from our newsletter at any time and we do not make email addresses available to any third parties. 
 
-**3\. During Software Purchase.**
+**3\. During Software Purchase**
 
 > It is very important for us to keep accurate purchase records. During this process, we ask for information such as name, company name, e-mail address, etc. This data is used only to identify you in order to give you the full benefits of registration including free technical support and upgrade eligibility. We do not make this information available to any third parties. 
 
-**4\. During Software Installation.**
+**4\. During Software Installation**
 
-> When you install the software, you will be required to enter your company name, domain and serial number. This data is used only to identify you in order to give you the full benefits of registration including free technical support and upgrade eligibility. We do not make this information available to any third parties. 
+> The software will electronically register itself during installation and confirm that you've entered a valid "Product ID". The registration process only sends the license information that you've entered (Company Name, Domain Name, Product ID) and information about the software installed (Program Name, Version, Install URL, Checksum). No other type of information is sent. 
 
 **5\. Cookies**
 
