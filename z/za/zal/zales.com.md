@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the zales.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602063841id_/http%3A//www.zales.com/customer_service/secure.asp%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zales.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203053513id_/http%3A//www.zales.com/customerservice.aspx%3Fpid%3D68%23Privacy) for the most accurate reproduction.*
 
-# | Welcome to Zales Jewelers | Customer Service
+# Zales Privacy Policy - Zales.com
 
-  
+|   
 Zales.com is committed to protecting our customers' personal information. All orders are transmitted in an encrypted format. To be sure that your order is secure, simply check your Web browser while you are in the ordering section. Most browsers use some sort of symbol to alert you to the fact that you are on a secured Web site. For example, Netscape and Internet Explorer use icons - either a padlock or a key - in the bottom left hand corner that appear when the site is secured. 
 
 We will store your shipping and billing information if you create an account with us, but this information will not be used by anyone but Zales as described below in our privacy policy. 
 
-At checkout, we require the credit card customer identification number (CIN) with every online purchase made with American Express, MasterCard and Visa Cards. The CIN is a 3 or 4 digit, numeric value that provides a cryptographic check of the information embossed on the card. This security feature is designed to protect you against consumer fraud. Your CIN will not be stored or maintained on any of our systems and you will need to provide the number every time a purchase is made on Zales.com. Click here to learn more about CIN. 
+At checkout, we require the credit card customer identification number (CIN) with every online purchase made with American Express, MasterCard and Visa Cards. The CIN is a 3 or 4 digit, numeric value that provides a cryptographic check of the information embossed on the card. This security feature is designed to protect you against consumer fraud. Your CIN will not be stored or maintained on any of our systems and you will need to provide the number every time a purchase is made on Zales.com. Click here to learn more about CIN.
 
 **Privacy Policy**  
 At Zales.com, we are committed to providing excellent customer service and outstanding value in fine jewelry while respecting and protecting the privacy of our customers. To better serve you, we may collect and maintain certain information regarding, for example, your product and service preferences, dates of special occasions related to people you buy gifts for (e.g., birthdays), and billing and shipping information. Under no circumstances do we sell or rent this information to other businesses, and we strictly protect and enforce the confidentiality of this information. We respect your privacy and seek to protect the trust you place in Zales. Our Privacy Policy is explained in more detail below.
 
+| 
+
+|  |   
 **1\. What information does Zales.com collect from our online customers?**  
 For those individuals who visit our site but do not make a purchase, we collect and store IP ("Internet Protocol") addresses during the visit. No individualized information is collected, and the IP address is not traced to a particular individual. Similarly, we collect information, using that IP address, about the navigational or browsing activities of our visitors. Again, that information is not tied to any name or other personally identifying information but is used solely to provide generalized demographic data, such as what geographic areas our visitors are from and visitor browsing patterns. We cannot use that data to identify you. For those who make a purchase on Zales.com, in order to fulfill the order, we collect and store your name, address, shipping information, email address, purchase data, and billing information.
 
 **2\. Does Zales.com use "cookies"?**  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Currently, if you place an item in a shopping basket during your visit to Zales.com, we will create a cookie containing a unique customer number on your computer. This function enables us to store items in your shopping cart until you make a purchase. Most web browsers automatically accept cookies, but you can usually change your browser to prevent such acceptance, which will result in your inability to purchase online from us. We do not retain any individualized information as a result of our use of cookies. 
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Currently, if you place an item in a shopping basket during your visit to Zales.com, we will create a cookie containing a unique customer number on your computer. This function enables us to store items in your shopping cart until you make a purchase. Most web browsers automatically accept cookies, but you can usually change your browser to prevent such acceptance, which will result in your inability to purchase online from us. We do not retain any individualized information as a result of our use of cookies.
 
 **3\. How does Zales.com use the individualized information that we collect?**  
 In addition to using the information referenced above to fulfill your purchase order, we also retain your name, address, email address and purchase information in our customer database. We use that information to track your order, to respond to your inquiries and to make subsequent purchases you wish to make easier and faster. We also may use that information, from time to time, to contact you concerning our products, services, sales or special promotions of Zales.com or Zales Jewelers. We try to limit those contacts to ones that might be of interest to you. If you would prefer not to be contacted about our special offers, products or services, please notify us at the mailing address, email address or phone number provided below: 
@@ -28,7 +31,7 @@ Irving, Texas 75038-1003
 or   
 1-800-311-JEWEL (5393)  
 or   
-[Contact Us](https://www.zales.com/customer_service/contact_us.asp)**
+[Contact Us](https://web.archive.org/web/20031203053513id_/http%3A//www.zales.com/customerservice.aspx?pid=67)**
 
 We currently send emails only to those Zales.com customers who request that we provide them with information about our products and services. If you have previously requested such emails, but have changed your mind, contact us by one of the methods referenced above or by unsubscribing to the Zales.com Newsletter.
 
@@ -47,4 +50,6 @@ Our site is not directed or marketed to children under the age of 18. We do not 
 **6\. Will Zales.com privacy policy change?**  
 We may change or enhance our policy to improve our service to you. If we do change our policy, we will note those changes on our Web site. A message will be displayed on our home page for a period of time that a change has been made, and the change will be highlighted within the privacy policy. You are welcome to refer to this policy each time you are considering making a purchase.
 
-**If you have any questions or concerns about our Privacy Policy, please[Contact Us](https://web.archive.org/customer_service/contact_us.asp)**
+**If you have any questions or concerns about our Privacy Policy, please[Contact Us](https://web.archive.org/web/20031203053513id_/http%3A//www.zales.com/customerservice.aspx?pid=67)**
+
+| 
