@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204210838id_/http%3A//www.eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604085257id_/http%3A//www.eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions of Use
 
@@ -51,14 +51,6 @@ Evanston, Illinois 60201
 Wilmington, Massachusetts 01887  
 **Telephone Number:** (978)-661-1300  
 **Email Address:**[Carl Saslow@hmco.com](mailto:Carl_Saslow@hmco.com)
-
-**Division:** HMI Sunburst  
-**Name:** Richard Gialella  
-**Title:** Contract Administrator  
-**Address:** 101 Castleton Street  
-Pleasantville, New York 10570-3405   
-**Telephone:** (914)-747-3310  
-**Email Address:**[Richard_Gialello@hmco.com](mailto:Richard_Gialello@hmco.com)
 
 **Division:** Trade  
 **Name:** Trade Webmaster  
