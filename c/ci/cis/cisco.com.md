@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cisco.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621142652id_/http%3A//www.cisco.com/public/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisco.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204063900id_/http%3A//cisco.com/public/privacy.html) for the most accurate reproduction.*
 
 # Cisco - Online Privacy Statement
 
