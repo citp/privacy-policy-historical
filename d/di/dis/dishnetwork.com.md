@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605193032id_/http%3A//www.dishnetwork.com/content/aboutus/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207220430id_/http%3A//www.dishnetwork.com/content/aboutus/privacy/index.shtml) for the most accurate reproduction.*
 
 # DISH Network -- Privacy Statement
 
@@ -87,6 +87,8 @@ You may also access your account information by calling **1-800-333-DISH (3474)*
 
 **Other Web Sites and Interactive Television Applications:**  
 There are several places throughout DISH Network Web sites and interactive television services where you may link to other organizations' Web sites and/or interactive television applications. When you click through to these sites or applications, DISH Network's Privacy Policy no longer applies. You are then subject to the privacy policy of the new site/application. DISH Network recommends you read the privacy policy for all third-party Web sites and interactive television applications in order to understand how they use your personal information.
+
+We have contracted with Overture Services, Inc. ("Overture") and Google Inc. ("Google") to monitor certain pages of our Web site for the purpose of reporting Web traffic, statistics, advertisement 'click-throughs', and/or other activities on our Web site. Where authorized by us, Overture and/or Google may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics about our Web site visitors. No personally identifiable information is collected by or transferred to Overture or Google. For more information about how the information is collected and used by Overture or Google, please see Overture's and Google's privacy policies at: <http://www.content.overture.com/d/USm/legal/privacy.jhtml> and <http://www.google.com/privacy.html>.
 
 **Notes:**  
 The restrictions on the dissemination of personal information found in this policy may occasionally be updated. All changes will be posted to this Privacy Policy page. 
