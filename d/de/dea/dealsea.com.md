@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004171459id_/http%3A//dealsea.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603094847id_/http%3A//dealsea.com/privacy.php) for the most accurate reproduction.*
 
-# dealsea.com - request a deal.
+# dealsea.com - Privacy Policy
 
 |   
 ---  
   
----  
-  
-  
-
-
     | 
 
 > **Privacy Policy Statement**
