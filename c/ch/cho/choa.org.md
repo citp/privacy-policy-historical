@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the choa.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132947id_/http%3A//www.choa.org/AboutUs/Privacy.asp%3Fid%3D132) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choa.org privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310071537id_/http%3A//www.choa.org/default.aspx%3Fid%3D1564) for the most accurate reproduction.*
 
-# Children's Healthcare of Atlanta : Financial Privacy
+# Children's Healthcare of Atlanta: - Privacy
 
-##   
-Our Commitment To Privacy 
+ 
+
+## Our Commitment To Privacy 
 
 Your privacy is very important to us. To help protect your privacy we provide this notice explaining our online information practices and the choices you can make about how your information is collected and used by Children’s Healthcare of Atlanta®. To make this notice easy to find, we make it available on our home page and at every point where we request your personal information. 
 
@@ -13,13 +14,13 @@ This notice applies to all information collected or submitted on the Children’
 
   * Name 
   * Address 
-  * Email address
-  * Phone number
-  * Credit/Debit card information
+  * Email address 
+  * Phone number 
+  * Credit/Debit card information 
 
 
 
-##  The Way We Use Information
+## The Way We Use Information
 
 We use the information you provide about yourself only to complete the transaction. We never share this information with outside parties. 
 
@@ -29,7 +30,7 @@ We use non-identifying and combined information to better design our Web site an
 
 Finally, we never use or share the personal information provided to us online in ways unrelated to the ones described above without also providing you with an opportunity to prohibit such unrelated uses. 
 
-## Donations ****
+## Donations ** **
 
 Credit card donations will be made through the **Children’s Healthcare of Atlanta** "foundation.choa.org" site. You will be asked to enter your name, credit card number and billing information. This information allows us to process and fulfill your donation and to provide you with an email receipt. 
 
@@ -49,7 +50,7 @@ Cookies, or small text files recorded in a user’s hard drive, are employed by 
 
 ## Our Commitment To Children’s Privacy 
 
-Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Web site from those we know are under age 13, and no part of our Web site is structured to attract anyone under 13. 
+Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Web site from those we know are under age 13, and no part of our Web site is structured to attract anyone under 13\. 
 
 ## How You Can Access Or Correct Your Information 
 
@@ -59,4 +60,4 @@ You can access all personal information that we collect online and maintain by c
 
 Should you have other questions or concerns about these privacy policies send us an email at [info@choa.org.](mailto:info@choa.org)
 
-Return to top
+ 
