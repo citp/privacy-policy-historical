@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntrs.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204012945id_/http%3A//www.ntrs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntrs.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403084447id_/http%3A//www.ntrs.com/privacy.html) for the most accurate reproduction.*
 
 # Consumer Privacy Principles
 
