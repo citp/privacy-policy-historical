@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2000-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001117055900id_/http%3A//www.stjude.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604172513id_/http%3A//www2.stjude.org/privacy.htm) for the most accurate reproduction.*
 
 # St. Jude Children's Research Hospital - Privacy Statement
 
