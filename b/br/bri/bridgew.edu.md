@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the bridgew.edu privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609134201id_/http%3A//www.bridgew.edu/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgew.edu privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208184024id_/http%3A//www.bridgew.edu/Privacy.cfm) for the most accurate reproduction.*
 
-# Bridgewater State College - Web Privacy Policy
+# Web Privacy Policy : Bridgewater State College
 
-[](http://www.bridgew.edu/)   
-  
-[](https://web.archive.org/prospstudents.cfm)  
-  
-[](https://web.archive.org/bscstudents.cfm)  
-  
-[](https://web.archive.org/facnstaff.cfm)  
-  
-[](https://web.archive.org/alumni.cfm)  
-  
-[](https://web.archive.org/visitors.cfm)  
-  
-  
-|   
-| 
+[](http://www.bridgew.edu/)[](http://www.bridgew.edu/prospstudents.cfm)[](http://www.bridgew.edu/bscstudents.cfm)[](http://www.bridgew.edu/facnstaff.cfm)[](http://www.bridgew.edu/alumni.cfm)[](http://www.bridgew.edu/visitors.cfm) |  | 
 
 * * *
 
