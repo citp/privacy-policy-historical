@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623090656id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230053037id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
-[](http://www.usgs.gov/) |  |  [ ](http://www.usgs.gov/index.html) | [USGS Home](http://www.usgs.gov/)  
+[](http://www.usgs.gov/) |  |  [ ](https://web.archive.org/) | [USGS Home](http://www.usgs.gov/)  
 ---  
-[Ask USGS](http://www.usgs.gov/ask/index.html)  
-[Site Map](http://www.usgs.gov/sitemap.html)  
+[Contact USGS](https://web.archive.org/ask/)  
+[Site Map](https://web.archive.org/sitemap.html)  
   
 [Advanced Search](http://search.usgs.gov/?col=&ht=0&qp=&qs=&qc=&pw=100%25&ws=1&la=en&si=0&ql=a&nh=25&lk=1&rf=0&tt=0)  
   
-[](http://www.usgs.gov/125/)  
-[](http://www.usgs.gov/about_us.html)[](http://www.usgs.gov/science.html)[](http://www.usgs.gov/pubprod/)[](http://www.usgs.gov/education/)[](http://www.usgs.gov/newsroom/)  
+[](https://web.archive.org/125/)  
+[](https://web.archive.org/about_us.html)[](https://web.archive.org/science.html)[](https://web.archive.org/pubprod/)[](https://web.archive.org/education/)[](https://web.archive.org/newsroom/)  
 ---  
   
 The following statements and disclaimers apply to all web sites managed by the U.S. Geological Survey (USGS) unless otherwise noted. 
