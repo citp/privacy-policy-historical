@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the southflorida.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207210627id_/http%3A//www.sun-sentinel.com/about/site/sfe-privacypolicy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southflorida.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308170001id_/http%3A//www.sun-sentinel.com/about/site/sfe-privacypolicy.story) for the most accurate reproduction.*
 
 # SouthFlorida.com Privacy Policy: South Florida Sun-Sentinel
-
-|  |  |  |    
-**SouthFlorida.com Privacy Policy**
 
 _Last Updated: July 2003_
 
@@ -59,22 +56,9 @@ SouthFlorida.com reserves the right to change this policy at any time. Please ch
 
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of SouthFlorida.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. SouthFlorida.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
 
-In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.   
-  
----|---  
-|  |  [](http://adserver.trb.com/event.ng/Type=click&FlightID=506594&AdID=143729&Custom=strates&TargetID=168&Segments=82,85,165,246,530,582,673,692,755,793,1480,1553,1600,1652,1708,1857,1929,2167,2436,2475,2571,2819,3356,3391,3539,3753,3907,4079,4709,4948,5020,5041,6733,6764,6787,7030,7909,50226,51082&Targets=8000,3795,168,512,51314,737,4975,6576,2287,2812,6698&Values=34,46,51,63,77,82,91,100,110,131,287,289,301,328,333,356,388,392,591,835,903,1016,1051,1065,1066,1093,1105,1112,1136,1191,1212,1263,1272,1282,1606,1617,1646,1648,1654,1656,1664,1681,1732,1745,1754,1758,1786,1787,1788,1835,1836,1837,1838,1863,1870,1871,1882,1890,1892,1917,1941,1946,1949,1977,1986,2011,2035,2036,2044,2061,2106,2174,2191,2274,2281,2283,2297,2366,2380,2482&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fstraxrejuvenation.com%2Fcontactplatinum.html)
+In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-* * *  
-  
----  
-[](http://adserver.trb.com/event.ng/Type=click&FlightID=502991&AdID=137028&Custom=hospital&TargetID=3795&Segments=82,85,165,246,530,582,673,692,755,763,812,1480,1553,1600,1652,1708,1857,1929,2167,2436,2475,2571,2819,3356,3391,3539,3753,3907,4079,4709,4948,5020,5041,6764,6787,7030,7909,50226,51082&Targets=8000,3795,168,512,51314,737,4972,6576,2287,2812,6698&Values=34,46,51,63,77,82,91,100,110,131,287,289,301,328,334,356,388,392,591,835,903,1016,1051,1065,1066,1093,1105,1112,1136,1191,1212,1263,1272,1282,1606,1617,1646,1648,1654,1656,1664,1681,1732,1745,1754,1758,1786,1787,1788,1835,1836,1837,1838,1863,1870,1871,1882,1890,1892,1917,1941,1946,1949,1977,1986,2011,2035,2036,2044,2061,2106,2174,2191,2274,2281,2283,2297,2366,2380,2482&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www.holy-cross.com/orthopaedics/) [](http://adserver.trb.com/event.ng/Type=click&FlightID=502991&AdID=137028&Custom=hospital&TargetID=3795&Segments=82,85,165,246,530,582,673,692,755,763,812,1480,1553,1600,1652,1708,1857,1929,2167,2436,2475,2571,2819,3356,3391,3539,3753,3907,4079,4709,4948,5020,5041,6764,6787,7030,7909,50226,51082&Targets=8000,3795,168,512,51314,737,4972,6576,2287,2812,6698&Values=34,46,51,63,77,82,91,100,110,131,287,289,301,328,334,356,388,392,591,835,903,1016,1051,1065,1066,1093,1105,1112,1136,1191,1212,1263,1272,1282,1606,1617,1646,1648,1654,1656,1664,1681,1732,1745,1754,1758,1786,1787,1788,1835,1836,1837,1838,1863,1870,1871,1882,1890,1892,1917,1941,1946,1949,1977,1986,2011,2035,2036,2044,2061,2106,2174,2191,2274,2281,2283,2297,2366,2380,2482&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www.holy-cross.com/orthopaedics/)
-
-* * *  
-  
-[](http://adserver.trb.com/event.ng/Type=click&FlightID=35002&AdID=129058&Custom=careerbuilder&TargetID=2287&Segments=82,85,165,246,530,582,673,692,699,755,812,1480,1553,1600,1652,1708,1857,1929,2167,2436,2475,2571,2819,3173,3356,3391,3539,3753,3907,4079,4709,4948,5020,5041,6733,6764,6787,7030,7909,50226,51082&Targets=8000,3795,168,512,51314,737,3656,6576,2287,2812,6698&Values=34,46,51,63,77,82,91,100,110,131,287,289,301,328,335,356,388,392,591,835,903,1016,1051,1065,1066,1093,1105,1112,1136,1191,1212,1263,1272,1282,1606,1617,1646,1648,1654,1656,1664,1681,1732,1745,1754,1758,1786,1787,1788,1835,1836,1837,1838,1863,1870,1871,1882,1890,1892,1917,1941,1946,1949,1977,1986,2011,2035,2036,2044,2061,2106,2174,2191,2274,2281,2283,2297,2366,2380,2482&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.sun-sentinel.com%2Fclassified%2Fjobs%2F%3Ftrack%3Dcareerbuilder_banners)
-
-* * *  
-  
-[](http://adserver.trb.com/event.ng/Type=click&FlightID=28099&AdID=47135&Custom=archive&TargetID=3308&Segments=82,85,165,246,530,582,673,692,755,812,1480,1553,1600,1605,1652,1708,1727,1857,1929,2167,2436,2475,2571,2819,3157,3356,3391,3539,3753,3907,4079,4709,4948,5020,5041,6764,6787,7030,7909,50226,51004,51082&Targets=8000,3795,168,512,51314,737,6576,3308,2287,2812,5072,6698,51499&Values=34,46,51,63,77,82,91,100,110,131,287,289,301,328,336,356,388,392,591,835,903,1016,1051,1065,1066,1093,1105,1112,1136,1191,1212,1263,1272,1282,1606,1617,1646,1648,1654,1656,1664,1681,1732,1745,1754,1758,1786,1787,1788,1835,1836,1837,1838,1863,1870,1871,1882,1890,1892,1917,1941,1946,1949,1977,1986,2011,2035,2036,2044,2061,2106,2174,2191,2274,2281,2283,2297,2366,2380,2482&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fpqasb.pqarchiver.com%2Fsun_sentinel%2F)  
-  
-
+| **Subscribe today to the Sun-Sentinel**  
+and find out how to get one week extra!  
+[Click here](http://www.sun-sentinel.com/services/sfl-startsub,0,2480096.htmlstory) or call 1-877-READ-SUN.  
+---|---
