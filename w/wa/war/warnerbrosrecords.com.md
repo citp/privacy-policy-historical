@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warnerbrosrecords.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208182849id_/http%3A//www.warnerbrosrecords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnerbrosrecords.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403200320id_/http%3A//www.warnerbrosrecords.com/privacy.php) for the most accurate reproduction.*
 
 # Warner Bros. Records | Email Privacy Information
 
@@ -70,4 +70,4 @@ The site you are visiting is one of the Time Warner general audience sites. For 
 
 ### How to Contact Us
 
-If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at [privacy@wmg.com](https://web.archive.org/web/20041208182849id_/http%3A//www.warnerbrosrecords.com/privacy@wmg.com)
+If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at [privacy@wmg.com](https://web.archive.org/web/20050403200320id_/http%3A//www.warnerbrosrecords.com/privacy@wmg.com)
