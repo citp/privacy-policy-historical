@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205170700id_/http%3A//support.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408054156id_/http%3A//www.support.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Support.com Legal Information
+
+  
+
 
 **SUPPORT.COM PRIVACY POLICY**
 
