@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203071855id_/http%3A//www.avidian.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215610id_/http%3A//avidian.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Avidian | Privacy Statement
+# Collaboration Software: Business Contact Manager, contact outlook sharing, client contact software, contact software, contact management software, Contact Managers, Contact Management System
 
 |  |   
 ---  
