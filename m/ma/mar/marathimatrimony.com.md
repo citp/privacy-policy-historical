@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathimatrimony.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209064203id_/http%3A//www.marathimatrimony.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathimatrimony.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204083827id_/http%3A//www.marathimatrimony.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
