@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202073405id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602035150id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
 
 # MEDLINEplus: Privacy Policy
 
-Skip to content  
+Skip navigation  
 ---  
 [](http://medlineplus.gov/) | |   
   
-[](https://web.archive.org/medlineplus/spanish/privacy.html) [](https://web.archive.org/cgi/medlineplus/feedback.pl?from=%2Fmedlineplus%2Fprivacy%2Ehtml) [](https://web.archive.org/medlineplus/faq/faq.html) [](https://web.archive.org/medlineplus/sitemap.html) [](https://web.archive.org/medlineplus/aboutmedlineplus.html) [](http://medlineplus.gov/)  
+[](https://web.archive.org/medlineplus/spanish/privacy.html) [](https://web.archive.org/cgi/medlineplus/feedback.pl?from=%2Fmedlineplus%2Fprivacy%2Ehtml&lang=EN) [](https://web.archive.org/medlineplus/faq/faq.html) [](https://web.archive.org/medlineplus/sitemap.html) [](https://web.archive.org/medlineplus/aboutmedlineplus.html) [](http://medlineplus.gov/)  
   
-[](https://web.archive.org/medlineplus/healthtopics.html) [](https://web.archive.org/medlineplus/druginformation.html) [](https://web.archive.org/medlineplus/encyclopedia.html) [](https://web.archive.org/medlineplus/dictionaries.html) [](https://web.archive.org/medlineplus/newsbydate.html) [](https://web.archive.org/medlineplus/directories.html) [](https://web.archive.org/medlineplus/otherresources.html)  
+[](https://web.archive.org/medlineplus/healthtopics.html) [](https://web.archive.org/medlineplus/druginformation.html) [](https://web.archive.org/medlineplus/encyclopedia.html) [](https://web.archive.org/medlineplus/mplusdictionary.html) [](https://web.archive.org/medlineplus/newsbydate.html) [](https://web.archive.org/medlineplus/directories.html) [](https://web.archive.org/medlineplus/otherresources.html)  
   
 
 
@@ -26,9 +26,7 @@ A "cookie" is a small file that a Web site transfers to your computer's hard dis
 
 #### Personally Provided Information
 
-If you choose to provide us with personal information by sending an email, or by filling out a form with your personal information and submitting it through our Web site, we use that information to respond to your message and to help us provide you with information or material that you request. On occasion, we may conduct a study concerning the types of questions sent to us. These studies help us to improve our Web sites in order to make them more responsive to the needs of our users. We do not give, share, sell, or transfer any personal information to a third party.
-
-When inquiries are e-mailed to us, we store the question and the e-mail address information so that we can respond electronically. Unless otherwise required by statute, we do not identify who sends questions or comments to our web site. We will not obtain information that will allow us to personally identify you when you visit our site, unless you choose to provide such information to us. If provided, personally identifiable information is maintained in a database that is regularly purged. Third party contractors may have access to this information in order to provide an initial response to your question or comment. These contractors are held to strict policies to safeguard the information and provide the same level of privacy protection as guaranteed by NLM. 
+If you choose to provide us with personal information by sending an email, or by filling out a form with your personal information and submitting it through our Web site, we use that information to respond to your message and to help us provide you with information or material that you request. If provided, personally identifiable information is maintained in a database that is regularly purged. Third party contractors may have access to this information in order to provide an initial response to your question or comment. These contractors are held to strict policies to safeguard the information and provide the same level of privacy protection as guaranteed by NLM. On occasion, we may conduct a study concerning the types of questions sent to us. These studies help us to improve our Web sites in order to make them more responsive to the needs of our users. We do not give, share, sell, or transfer any personal information to a third party unless required by law. 
 
 #### Links to Other Sites
 
