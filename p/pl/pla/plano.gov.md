@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610120043id_/http%3A//www.plano.gov/static.aspx%3Fid%3D564) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205015447id_/http%3A//www.plano.gov/static.aspx%3Fid%3D564) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
-|  | Thursday, June 10, 2004  
+|  | Saturday, December 04, 2004  
 ---  
   
 **Privacy Statement** **    **        
