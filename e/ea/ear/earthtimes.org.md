@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthtimes.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604170040id_/http%3A//www.earthtimes.org/policystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthtimes.org privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021123439id_/http%3A//earthtimes.org/policystatement.htm) for the most accurate reproduction.*
 
 # The Earth Times Daily Web Edition: Environment, business, health/Policy Statement
 
@@ -48,8 +48,3 @@ The Earth Times 205 E.42nd Street Suite 1316, New York, NY 10017
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 [**nansari@earthtimes.org**](mailto:nansari@earthtimes.org)
-
-  
-[**Low Graphics Directory**](https://web.archive.org/lowgraphics.htm)
-
-Copyright © 2000 The Earth Times All rights reserved. 
