@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202021601id_/http%3A//www.businessol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401131342id_/http%3A//www.businessol.com/privacy) for the most accurate reproduction.*
 
 # BusinessOL: Privacy Statement
 
