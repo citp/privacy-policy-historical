@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013093151id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401204023id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
 
 # BookRags - Privacy Policy
 
