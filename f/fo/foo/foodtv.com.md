@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodtv.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208184153id_/http%3A//www.foodtv.com/gateway/privacypolicy/0%2C3906%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodtv.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401120210id_/http%3A//www.foodtv.com/gateway/privacypolicy/0%2C3906%2C%2C00.html) for the most accurate reproduction.*
 
 # Food Network: Privacy Policy
 
