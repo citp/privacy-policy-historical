@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the autoanything.com privacy policy that was archived on 2001-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011020014947id_/http%3A//autoanything.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autoanything.com privacy policy that was archived on 2002-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020203064621id_/http%3A//www.autoanything.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>autoanything.com | Privacy Policy</title>
@@ -24,7 +24,7 @@ wood kits, interior, exterior-->
 
 <style type="text/css">
 <!--
-.menu {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; text-decoration: none; color: #FFFFFF; font-weight: normal}
+.menu {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; text-decoration: none; color: #FFFFFF; font-weight: bold}
 .tabletitle {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; text-decoration: none; color: #FFFFFF; font-weight: bold}
 .menu:hover{color:#ffcc00;font-weight:bold;text-decoration:underline}
 .menuON{color:#ffcc00;font-weight:bold;text-decoration:underline}
@@ -46,17 +46,21 @@ wood kits, interior, exterior-->
 .descTXT {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; text-decoration: none; color: #000000 ; font-weight: normal}
 .ratingtext {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; text-decoration: none; color: #808080; font-weight: bold}
 .tree {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; text-decoration: none; color: #3366cc ; font-weight: normal}
+.tree:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; text-decoration: none; color: #FF9900 ; font-weight: normal}
 .redtree {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; text-decoration: none; color: red ; font-weight: normal}
 .treeU {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; text-decoration: underline; color: #3366cc ; font-weight: normal}
+.treeU:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; text-decoration: underline; color: #FF9900 ; font-weight: normal}
 .subtitle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13pt; font-style: normal; text-decoration: none; color: #3366cc ; font-weight: bold}
 .subtitleSM {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; text-decoration: none; color: #3366cc ; font-weight: bold}
 .subtitleU {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13pt; font-style: normal; text-decoration: underline; color: #3366cc ; font-weight: bold}
 .featuresU {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7pt; font-style: normal; text-decoration: underline; color: #3366cc ; font-weight: normal}
 .small {  font-family: Arial, Helvetica, sans-serif; font-size: 7pt; font-style: normal; text-decoration: none; color: black; font-weight: bold}
+.BtextB {  font-family: Arial, Helvetica, sans-serif; font-size: 12pt; font-style: normal; text-decoration: none; color: black; font-weight: bold}
 .textB {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; text-decoration: none; color: black; font-weight: bold}
 .textB:hover{black:navy;text-decoration:underline}
 .small:hover{color:navy;text-decoration:underline}
 .catU {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; text-decoration: underline; color: #0066FF; font-weight: bold}
+.catU:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; text-decoration: underline; color: #FF9900; font-weight: bold}
 .cat {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; text-decoration: none; color: #0066FF; font-weight: bold}
 .cat:hover{color:#FF9900;text-decoration:underline}
 .button			{COLOR: #66CCFF; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE:  8pt; BACKGROUND-COLOR: #333333; BORDER-BOTTOM: #66CCFF 1px solid; BORDER-LEFT: #66CCFF 1px solid; BORDER-RIGHT: #66CCFF 1px solid; BORDER-TOP: #66CCFF 1px solid;}
@@ -141,15 +145,27 @@ function openWindow (url, name, width, height, toolbar, menubar, status, locatio
 </tbody></table>
 <!-- end of top image -->
 <!-- start of left side product categories-->
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td width="150" bgcolor="#3366cc" valign="top"> 
+		<td width="150" bgcolor="#3366cc" valign="top">
+			<form method="post" action="results.asp" name="form1"> 
 			<table width="150" border="0" cellspacing="1" cellpadding="0" bgcolor="#3366CC">
 				<tbody><tr> 
 				  <td align="center" bgcolor="#000099"><img src="images/blank.gif" width="5" height="22"></td>
 				</tr>          
 				<tr> 		  
-				  <td><img src="images/auto_prod.gif" width="150" height="22" name="automotive_products"></td>
+				  <td align="center">
+				  <img src="images/auto_prod.gif" width="150" height="22" name="automotive_products"><br>
+				  <font class="menu">Search:</font><br>				  
+				  <input type="textbox" name="keywords" value="" size="10">
+				  <input type="submit" value="go" id="submit1" name="submit1">
+				  
+					<script language="JavaScript">
+						document.form1.keywords.focus();
+					</script>
+				  </td>
+				  
 				</tr>
 				
 						<tr> 
@@ -181,79 +197,91 @@ function openWindow (url, name, width, height, toolbar, menubar, status, locatio
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off8">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=8&amp;cat=Drink+Holders" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off8','','images/on.gif',1)">Drink Holders</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off8">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=31&amp;cat=Dash+Kits" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off8','','images/on.gif',1)">Dash Kits</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off9">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=9&amp;cat=Driving+Accessories" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off9','','images/on.gif',1)">Driving Accessories</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off9">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=8&amp;cat=Drink+Holders" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off9','','images/on.gif',1)">Drink Holders</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off10">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=27&amp;cat=Exterior+Accessories" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off10','','images/on.gif',1)">Exterior Accessories</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off10">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=9&amp;cat=Driving+Accessories" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off10','','images/on.gif',1)">Driving Accessories</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off11">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=10&amp;cat=Fender+Trim" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off11','','images/on.gif',1)">Fender Trim</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off11">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=27&amp;cat=Exterior+Accessories" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off11','','images/on.gif',1)">Exterior Accessories</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off12">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=11&amp;cat=Floor+Mats" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off12','','images/on.gif',1)">Floor Mats</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off12">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=10&amp;cat=Fender+Trim" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off12','','images/on.gif',1)">Fender Trim</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off13">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=12&amp;cat=Garage+Products" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off13','','images/on.gif',1)">Garage Products</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off13">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=11&amp;cat=Floor+Mats" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off13','','images/on.gif',1)">Floor Mats</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off14">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=13&amp;cat=Grill+Guards" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off14','','images/on.gif',1)">Grill Guards</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off14">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=12&amp;cat=Garage+Products" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off14','','images/on.gif',1)">Garage Products</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off15">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=28&amp;cat=Interior+Accessories" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off15','','images/on.gif',1)">Interior Accessories</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off15">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=13&amp;cat=Grill+Guards" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off15','','images/on.gif',1)">Grill Guards</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off16">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=14&amp;cat=License+Plate+Frames" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off16','','images/on.gif',1)">License Plate Frames</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off16">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=28&amp;cat=Interior+Accessories" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off16','','images/on.gif',1)">Interior Accessories</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off17">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=15&amp;cat=Organizers" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off17','','images/on.gif',1)">Organizers</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off17">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=14&amp;cat=License+Plate+Frames" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off17','','images/on.gif',1)">License Plate Frames</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off18">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=16&amp;cat=Pet+Products" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off18','','images/on.gif',1)">Pet Products</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off18">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=15&amp;cat=Organizers" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off18','','images/on.gif',1)">Organizers</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off19">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=17&amp;cat=Safety" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off19','','images/on.gif',1)">Safety</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off19">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=16&amp;cat=Pet+Products" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off19','','images/on.gif',1)">Pet Products</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off20">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=18&amp;cat=Seat+Covers" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off20','','images/on.gif',1)">Seat Covers</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off20">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=29&amp;cat=RV+Covers" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off20','','images/on.gif',1)">RV Covers</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off21">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=20&amp;cat=Sheep+Skin+Seat+Covers" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off21','','images/on.gif',1)">Sheep Skin Seat Covers</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off21">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=17&amp;cat=Safety" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off21','','images/on.gif',1)">Safety</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off22">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=21&amp;cat=Shift+Knobs" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off22','','images/on.gif',1)">Shift Knobs</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off22">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=18&amp;cat=Seat+Covers" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off22','','images/on.gif',1)">Seat Covers</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off23">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=23&amp;cat=Steering+Wheel+Covers" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off23','','images/on.gif',1)">Steering Wheel Covers</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off23">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=20&amp;cat=Sheep+Skin+Seat+Covers" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off23','','images/on.gif',1)">Sheep Skin Seat Covers</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off24">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=24&amp;cat=Sun+Shades" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off24','','images/on.gif',1)">Sun Shades</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off24">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=21&amp;cat=Shift+Knobs" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off24','','images/on.gif',1)">Shift Knobs</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off25">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=25&amp;cat=Wind+Deflectors" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off25','','images/on.gif',1)">Wind Deflectors</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off25">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=30&amp;cat=Side+Tubes" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off25','','images/on.gif',1)">Side Tubes</a></span></td>
 						</tr>
 						
 						<tr> 
-							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off26">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=26&amp;cat=Wood+Trim" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off26','','images/on.gif',1)">Wood Trim</a></span></td>
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off26">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=23&amp;cat=Steering+Wheel+Covers" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off26','','images/on.gif',1)">Steering Wheel Covers</a></span></td>
+						</tr>
+						
+						<tr> 
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off27">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=24&amp;cat=Sun+Shades" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off27','','images/on.gif',1)">Sun Shades</a></span></td>
+						</tr>
+						
+						<tr> 
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off28">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=25&amp;cat=Wind+Deflectors" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off28','','images/on.gif',1)">Wind Deflectors</a></span></td>
+						</tr>
+						
+						<tr> 
+							<td>&nbsp;<img src="images/off.gif" width="8" height="11" name="off29">&nbsp;<span class="menu"><a href="CategoryDetails.asp?catid=26&amp;cat=Wood+Trim" class="menu" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('off29','','images/on.gif',1)">Wood Trim</a></span></td>
 						</tr>
 						
 				<tr valign="bottom">
@@ -271,9 +299,7 @@ function openWindow (url, name, width, height, toolbar, menubar, status, locatio
 					<img src="images/bizrate.gif" alt="biz"><br>
 					<img src="images/blank.gif" width="5" height="10"><br>
 					<img src="images/sema.gif" alt="sema"><br>
-					<img src="images/blank.gif" width="5" height="10"><br>
-					<img src="images/instaorder.gif" name="instaorder"><br>								
-					<img src="images/blank.gif" width="5" height="10"><br>
+					<img src="images/blank.gif" width="5" height="10"><br>	
 					<img src="images/aaia.gif" border="0"><br>
 					<img src="images/blank.gif" width="5" height="10"><br>
 					<img src="images/trust.gif" border="0"><br>
@@ -281,6 +307,7 @@ function openWindow (url, name, width, height, toolbar, menubar, status, locatio
 					</td>
 				</tr>         
 				</tbody></table>
+				</form>
 				</td>
 <!-- end of left side -->
 <!-- ***************** -->
@@ -439,7 +466,7 @@ function openWindow (url, name, width, height, toolbar, menubar, status, locatio
 						<td valign="top"><img src="images/orange_line.gif" width="135" height="3"></td>
 					</tr>
 					<tr> 
-						<td valign="top"><a href="request.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('request','','images/request_on.gif',1)"><img src="images/request_off.gif" width="135" height="20" name="request" border="0"></a></td>
+						<td valign="top"><a href="http://www.autoanythingstore.com/store/inforequest.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('request','','images/request_on.gif',1)"><img src="images/request_off.gif" width="135" height="20" name="request" border="0"></a></td>
 					</tr>
 					<tr> 
 						<td valign="top"><img src="images/orange_line.gif" width="135" height="3"></td>
@@ -464,7 +491,8 @@ function openWindow (url, name, width, height, toolbar, menubar, status, locatio
 <!-- **************************** -->
 <!-- text navigation --> 
 				<table width="95%">
-					<tbody><tr>
+				<!--
+					<tr>
 						<td class="text">&nbsp;</td>
 					</tr>
 					<tr> 
@@ -473,7 +501,7 @@ function openWindow (url, name, width, height, toolbar, menubar, status, locatio
 					                
 					<tr> 
 						<td class="text">&nbsp;&nbsp;<span class="text">
-						<font color="navy" size="2">Call Us Toll-Free</font> <font color="#FF9900" size="2">800-874-8888 </font><font color="navy" size="2"> | 858-569-8111 | </font><font color="#FF9900" size="2">7am-6pm PST,</font><font color="navy" size="2"> Mon-Sat</font>
+						<font color=navy size=2>Call Us Toll-Free</font> <font color=#FF9900 size=2>800-874-8888 </font><font color=navy  size=2> | 858-569-8111 | </font><font color=#FF9900 size=2>7am-6pm PST,</font><font color=navy size=2> Mon-Sat</font>
 						</span>
 					</td>
 					</tr>
@@ -486,7 +514,8 @@ function openWindow (url, name, width, height, toolbar, menubar, status, locatio
 						| <a href="privacy.asp" class="text">Privacy &amp; Security</a> 
 						</span></td>
 					</tr>
-					<tr> 
+					-->
+					<tbody><tr> 
 						<td class="text">&nbsp;&nbsp;&nbsp;<span class="text"><a href="javascript:new_window('legal.html')" class="text">©2001 Copyright Blue Ribbon Motoring, All Rights reserved.</a><br><br></span></td>
 					</tr>
 				</tbody></table>
@@ -500,8 +529,6 @@ function openWindow (url, name, width, height, toolbar, menubar, status, locatio
 <!-- ***************************** -->
 <!-- end of bottom_text_nav        -->
 <!-- ***************************** -->
-  
-  
 
 
 
