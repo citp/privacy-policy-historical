@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoopshype.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207170619id_/http%3A//www.hoopshype.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopshype.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214617id_/http%3A//www.hoopshype.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # HoopsHype - Privacy Policy
 
@@ -21,5 +21,5 @@ We do not use cookies on this site.
 If you have a complaint about HoopsHype.com compliance with this privacy policy, you may contact us at [**comments@HoopsHype.com**](mailto:comments@hoopshype.com)
 
 **_____________________  
-2002 HOOPSHYPE**  
-Site affiliated to Gigantes | [Terms of Service](https://web.archive.org/web/20021207170619id_/http%3A//www.hoopshype.com/terms_of_service.htm)
+2002-2003 HOOPSHYPE**  
+Site affiliated to Gigantes | [Terms of Service](https://web.archive.org/web/20030603214617id_/http%3A//www.hoopshype.com/terms_of_service.htm)
