@@ -1,0 +1,135 @@
+> *The following text is extracted and transformed from the gophila.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202080320id_/http%3A//www.gophila.com/privacypolicy.htm) for the most accurate reproduction.*
+
+# Greater Philadelphia Tourism Marketing Corporation
+
+The www.gophila.com Web site is owned and operated by the Greater Philadelphia Tourism Marketing Corporation (collectively referred to herein as “GPTMC,” "us" or "we").  GPTMC is dedicated to serving your needs. We know you care about your personal privacy and about the terms and conditions that govern your use of this website. Because we care about you, we have adopted the policies and practices described in this Privacy Policy and Conditions of Use.
+
+**
+
+Our Collection and Use of Your Personally Identifiable Information
+
+**
+
+In general, we collect and use information about you where we reasonably believe it will help us administer our services generally, and improve our response to your requests for regional tourism and vacation information.  The information you give us also allows us to statistically analyze the usage of our Web site (also referred to herein as "Site"), improve our content and informational offerings, and customize our Site's content, layout and services.  Except as described herein, we do not sell, rent or otherwise share or disclose your private, personally identifiable information to third parties.
+
+**
+
+We specifically collect information from you at several different points, including but not limited to the following: 
+
+**
+
+****
+  * ****
+
+**  **Information You Provide To Us
+
+
+
+
+You provide information when you post and submit information through the sections that request information (such as the Contact Us, Newsletter Sign-up, Vacation Guide, Screensavers or Pressroom sections), or when you participate in a contest or questionnaire. For example, you provide information when you ask a question, request the Trip Planner, sign up for access to the Pressroom, complete a questionnaire or a contest entry form. When this information is submitted, your contact information is automatically added to our database of users. This database is used for correspondence which may be sent to you only from within the GPTMC organization.  You may opt-out of inclusion in the database by sending us an opt-out request via one of the following methods.  E-mail:  [ questions@gophila.com](mailto:questions@gophila.com).  Mail: GPTMC, 30 South 17th Street, Suite 1710, Philadelphia, Pennsylvania 19103-4005.
+
+**
+
+  * Automatic Information – URL and IP Addresses
+
+
+**
+
+Examples of the information we automatically collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date, time and pages visited. This information is used to generate reports on Web site usage and visitors and DOES NOT include any personally identifiable information such as name or e-mail address.
+
+**
+
+  * Cookies 
+
+
+**
+
+GPTMC does not employ cookies on this Web site.  A cookie is a text file placed on your hard drive by some Web pages that you visit. When you visit the site again, the Web server retrieves the cookie and reconfigures itself based on your profile and preferences, such as previous pages you visited and any information you provide via a form. Cookies are used in some cases to target advertising and content towards your stated preferences.
+
+**
+
+Restrictions on Disclosing Information To Third Parties
+
+**
+
+Except as described herein, we do not sell, rent or otherwise share or disclose your private, personally identifiable information to third parties unless: (1) you request or authorize it; (2) the information is provided to help provide a service or complete a transaction with you; (3) the information is provided to comply with the law (for example, to comply with a search warrant, subpoena or court order), enforce an agreement we have with you, or to protect our rights, property or safety, or the rights, property or safety of our employees or others; (4) the information is provided to our agents, vendors or service providers who perform functions on our behalf (and who are all contractually bound to maintain the confidentiality of the information); (5) to address emergencies or acts of God; or (6) to address disputes, claims, or to persons holding a legal or beneficial interest. We may also gather aggregated data about our visitors and disclose the results of such aggregated (but not personally identifiable) information to our partners, service providers and/or other third parties for marketing or promotional purposes. **** ****
+
+**
+
+Links to Third Party Web Sites
+
+**
+
+There are a few sections on the GPTMC Web site that are hosted by various partners of GPTMC. These sites maintain the look and feel of our Web site, and sometimes it may not be evident when a user is on one of these sections. These pages are governed by the partner's privacy policy and terms and conditions of use. Below is a list of our partners and links to their Web site privacy policies:
+
+  * ** WorldRes**
+
+ ****
+****
+
+When you click on on-line reservations or any of the “book it” icons, you will be transferred to WorldRes, our online hotel reservation system partner.  It will appear as if you are still on our Web site.  However, this section is controlled and operated by WorldRes.  Please review their privacy policy (<http://www.worldres.com/privacy.html>) for any and all transactions via the online reservation system.  Since WorldRes conducts e-commerce there is important information regarding credit card usage and other information contained in their privacy policy.
+
+**
+
+  * Greater Philadelphia Cultural Alliance
+
+
+**
+
+When you enter the our events calendar, again it will appear as if you are still on our Web site, however this section is controlled and operated by the Greater Philadelphia Cultural Alliance ([http://www.philaculture.org](http://www.philaculture.org/)), which owns and operates phillyfunguide.com.  Their privacy policy is available at:  [ http://www.phillyfunguide.com/calendar/privacyPolicy.do;jsessionid=s4axbfy7a1](http://www.phillyfunguide.com/calendar/privacyPolicy.do;jsessionid=s4axbfy7a1).
+
+GPTMC is also not responsible for the content or privacy policies of other Web sites to which it provides links.  Please review the privacy policies and/or the terms and conditions of each of these additional linked Web sites before providing any personal information.
+
+GPTMC is committed to providing a comprehensive Web site regarding Philadelphia area events and attractions.  However, we do not and will not link to sites with adult content.
+
+**
+
+Contests & Sweepstakes
+
+**
+
+On occasion, GPTMC will conduct online contests, giveaways, or sweepstakes, which require information to be provided for eligibility. The information collected in these contests is subject to our Privacy Policy and Conditions of Use and is not shared. However, if the user does not provide the requested information he/she may not be eligible for the contest. The information submitted is entered into a random drawing of the names to determine the winner. The entrant may choose to receive continued e-mails from GPTMC. If the entrant does not choose to receive e-mail, the information submitted by the entrant is deleted from the database after the contest has ended.
+
+**
+
+Children
+
+**
+
+Our Site is not designed to appeal to children, and we do not knowingly attempt to solicit or receive any information from children.  GPTMC encourages all parents to instruct their children in the safe and responsible use of their personally identifiable data while using the Internet.
+
+**
+
+Disclaimer and Release With Respect to Transactions Entered Into With Any Linked Site or Other Third Party
+
+**
+
+Any transaction that you enter into with any linked site, or other third party via or as a result of viewing our Web site is solely between yourself and such linked site or other third party. By using this Web site, you understand and agree that GPTMC has no responsibility for such transactions.  You further agree that you will hold GPTMC harmless and not liable, and release GPTMC from any all suits and/or claims, should you have any dispute over or problem with any such transaction. You are advised that if you use a credit card to complete a transaction with any linked site, or other third party, and you later have a problem or dispute with the goods or services purchased, you may have charge-back rights. For more information about charge-back rights, contact the financial institution that issued the credit card used for the transaction.
+
+**
+
+General Legal Notice and Disclaimer
+
+**
+
+References herein to any product or service offered by a linked site or other third party do not constitute or imply endorsement or recommendation by GPTMC. While GPTMC makes every effort to present accurate and reliable information on this Web site, GPTMC does not approve or certify such information nor does it guarantee the accuracy, completeness, efficacy, timeliness or correct sequencing of such information. Use of such information is voluntary and reliance on it should only be undertaken after an independent review of its applicability, accuracy, completeness, efficacy and timeliness with regard to the user’s  specific needs and purposes. GPTMC (including its employees and agents) is not responsible for, and expressly disclaims all liability for, damages of any kind arising out of use, reference to, or reliance on the information available through this Web site. No approvals, recommendations, endorsements, guarantees or warranties, including, but not limited to, any express or implied warranties of merchantability or fitness for any particular use or purpose of products or services named on this Internet site are made by GPTMC.
+
+**
+
+Conditions of Use, Notices and Changes to Our Privacy Policy
+
+**
+
+By visiting, using and/or submitting information to this Web site, you agree to the terms and conditions contained in this Privacy Policy and Conditions of Use and/or any other agreement that we might have with you. If you do not agree to any of these terms and conditions you should not use this Web site or any products or services offered by GPTMC, a linked site, or other third party discussed herein. You agree that any dispute over privacy or the terms contained in this Privacy Policy and Conditions of Use, or any other agreement we have with you, will be governed by the laws of the Commonwealth of Pennsylvania. You also agree to arbitrate such disputes in Pennsylvania, and to abide by any limitation on damages contained in any agreement we may have with you.
+
+**
+
+_As our services change from time to time, this Privacy Policy and Conditions of Use is expected to change as well. We reserve the right to amend the Privacy Policy and Conditions of Use at any time, for any reason, without notice to you, other than the posting of the amended Privacy Policy and Conditions of Use at this Site. We may e-mail periodic reminders of our notices and terms and conditions, but you should check our Site frequently to see the current Privacy Policy and Conditions of Use that is in effect and any changes that may have been made to it. The use of your information is subject to the Privacy Policy and Conditions of Use in effect at the most recent time of use. The provisions contained herein supersede all previous notices or policies regarding our privacy practices and the terms and conditions that govern the use of this Web site._
+
+Questions Regarding The Privacy Policy and Conditions of Use
+
+**
+
+If you have any questions about our Privacy Policy and Conditions of Use, any concern about privacy at GPTMC or the use of this Web site in general, or to opt-out of the database of users, please contact us via one of the following methods.  E-mail:  [ questions@gophila.com](mailto:questions@gophila.com).  Mail: GPTMC, 30 South 17th Street, Suite 1710, Philadelphia, Pennsylvania 19103-4005. 
+
+****
