@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208184106id_/http%3A//www.ebookers.com/services/privacy_pol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621172052id_/http%3A//ebookers.com/services/privacy_pol.html) for the most accurate reproduction.*
 
 # ebookers.com, air travel, best flights & holidays
 
@@ -9,7 +9,7 @@ As a member of ebookers.com, we ask you to provide us with some personal informa
 
 * We need your e-mail address in order to send you confirmation of online bookings and to confirm your new member registration. As a member you will occasionally receive email newsletters from us regarding new features and special offers - if you do not wish to receive these newsletters see our Opt Out policy described below.   
 
-* · We collect your credit card number and expiration date to order and book a flight, hotel, or car rental.   
+* We collect your credit card number and expiration date to order and book a flight, hotel, or car rental.   
 
 * We would use your phone number if we need to contact you urgently (for example if you had made a mistake entering your email address).   
 
@@ -54,7 +54,7 @@ We at ebookers.com are constantly researching the latest in technology to ensure
 
 If you want to know when our site is using a cookie from your hard drive, you can set your browser to send you an alert. If you prefer to use our site without utilising cookies, you can set your browser to not accept them at all, however, they will make your life easier. Many web sites are employing this cookie technology and cookies are never to be used to store information of a private nature, such as credit card numbers. However , we tie cookie usage to personally identifiable information on our end to provide personalised travel preferences. Also, you can be assured that the information stored in any cookies initiated by ebookers cannot be accessed by any other web sites. 
 
-ebookers.com works with a third party to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by ebookers.com and does not cover the use of cookies by any advertisers. ebookers.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how DoubleClick, Inc. manages the privacy of information in conjunction with serving ads on this site go to [www.doubleclick.net](https://web.archive.org/web/20021208184106id_/http%3A//www.ebookers.com/services/www.doubleclick.net)
+ebookers.com works with a third party to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by ebookers.com and does not cover the use of cookies by any advertisers. ebookers.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how DoubleClick, Inc. manages the privacy of information in conjunction with serving ads on this site go to [www.doubleclick.net](http://www.doubleclick.net/)
 
 Top
 
