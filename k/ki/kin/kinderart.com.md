@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801190538id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609172716id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # KinderArt - Privacy Policy
 
@@ -23,7 +23,7 @@ What we **WON'T** do with your personal information:
   * KinderArt **will not** offer any information about you to any outside company unless we receive your prior consent. 
 
 **For Newsletter Subscribers Only:**  
-So that we can provide you with a free email newsletter, we request your email information from you. If you have been sent a newsletter and you did not sign up to receive it, please send us an [email message](mailto:color@kinderart.com) with your email address and the word UNSUBSCRIBE. We will remove your name ASAP. 
+So that we can provide you with a free email newsletter, we request your email information from you. If you have been sent a newsletter and you did not sign up to receive it, please send us an [email message](mailto:kacolor@kinderart.com) with your email address and the word UNSUBSCRIBE. We will remove your name ASAP. 
 
 **Children's Privacy**  
 This statement discloses the privacy practices for portions of KinderArt directed at children under 13. 
