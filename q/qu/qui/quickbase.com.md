@@ -1,36 +1,65 @@
-> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206022700id_/http%3A//www.quickbase.com/p/privacy.asp%3Fps%3DHM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603160730id_/http%3A//www.quickbase.com/p/privacy.asp%3Fps%3DHM) for the most accurate reproduction.*
 
 # QuickBase | QuickBase.com privacy statement
 
-  
-At Intuit, we dedicate ourselves to revolutionizing the way individuals manage their financial lives and small businesses manage their business. In that effort, we respect and protect the privacy of those who visit or use our Web sites. When we collect information from you, we want you to know how it is used.
+At Intuit QuickBase, we respect and protect the privacy of our customers. This Privacy Statement is intended to provide you with information about our online data handling practices and our approach to privacy.
 
-This privacy statement defines privacy aspects specific to the QuickBase.com Web site and affiliated Intuit Web servers (referred to as the “QuickBase Web site”).
+We tell you how we intend to use your information.  
+When we ask you for information, we will tell you, or it will be clear, what we need to fulfill your request and how it will be used. While visiting our site, you have the opportunity to learn more about our products, services and programs. We may ask you for demographic and firmagraphic information to facilitate your request and to keep you informed of Intuit products and services that are valuable to your business. 
 
-Because of the nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we don’t knowingly attempt to solicit or receive any information from children.
+We protect your information.  
+We protect the confidentiality and security of your personal information by using industry-recognized security safeguards, such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. When we ask for sensitive information, such as credit card numbers, we encrypt it as it is transmitted to us.
 
-Our Philosophy and Practices  
-At Intuit, we want you to be comfortable and confident when using our Web site. Therefore, we would like to share with you the principles that govern our information practices and other privacy aspects of our Web site:
+Our employees are trained and required to safeguard your information and, by using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
 
-|   
----  
-| We provide you notice of our Web site information practices.  
-| We tell you how and why we use Web technologies.  
-| We give you choices about how the personally identifiable information that you provide us may be used.  
-| We provide you the opportunity to update or correct your personally identifiable information.  
-| We work to protect personally identifiable information from loss, misuse, or unauthorized alteration.  
-| We provide various ways for you to contact us about our information practices and other aspects of privacy.  
-  
-We provide you notice of our Web site information practices  
-We collect certain information, such as personally identifiable information, from you when you use our Web sites. "Personally identifiable information" is that information which can identify you as an individual, such as your name, address, e-mail, and credit card information. Here is a description of the information we collect and how it is used:
+We do not sell or rent your personal information to anyone.  
+We do not share your personal information with third parties for their independent promotional use. 
+
+We have limited relationships with third parties.  
+Sometimes, we enter into contracts with third parties so that they can assist us in servicing you (for example, fulfilling customer orders or providing customer service). The contracts prohibit them from using any of your personal information for their own purposes, and they are required to maintain the confidentiality of the information we provide to them. We may disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required under the law. For example, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities, to comply with a legal process such as court order, subpoena, search warrant, or law enforcement request.
+
+We may also enter into "joint marketing" relationships with carefully selected partners who offer products or services that may be of interest to you. When we do, they are prohibited from using any of your personal information for anything outside the joint venture, unless you choose to give them your information or become their customer. Our contracts with them protect the confidentiality of the limited information we share with them.
+
+You control what marketing information you receive from us.  
+From time to time, we may send you promotional information about QuickBase products and services. If you do not want to receive this type of information about QuickBase products and services, you may specify your preferences at <https://www.quickbase.com/db/9gc8fpum?a=GenNewRecord>. When you decide to decline promotional materials, you will still receive service communications, legally mandated notices, and critical messages that could impact your business and usage of the product.
+
+You can change your information.  
+You can update or correct your contact information anytime by sending an e-mail to: [privacy@quickbase.com](mailto:%20privacy@quickbase.com).
+
+You can contact us with privacy questions.  
+At QuickBase, we do what we say and say what we do. If you have privacy-related questions that are not addressed here, please contact the Privacy Team at [ https://privacy.intuit.com/cpi/do/comments](https://privacy.intuit.com/cpi/do/comments) or write us at:
+
+Privacy Team  
+Intuit Inc.  
+2800 East Commerce Center Place  
+Tucson, AZ 85706
+
+We do not ask children for information.  
+Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. We do not knowingly request or receive any information from children.
+
+We tell you about Web technologies.  
+We use a variety of technologies on our Web site. Among these are "cookies"; a piece of information that our Web sites provide to your browser when you visit our sites. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to make your visit to our Web site easier by recognizing you when you return and helping to provide you with a customized experience. You can choose to decline cookies while at our Web site; however, this may limit your ability to access certain areas of the Web site. Most browsers accept and maintain cookies by default. Check the Help menu of your browser to learn how to change your cookie preferences.
+
+We also keep track of activity on our Web site. We collect information such as IP address, browser type and version, and pages you view. We also keep track of how you got to our site and any links you click to leave our site. Once you leave our site, we do not track you. We use your Web site activity to assist us in offering you a personalized Web experience, assist you with technical support and to tailor our offerings to you.
+
+We may access and set cookies using Web beacons, also known as single-pixel GIFs, which are invisible graphical images. These Web beacons provide us with useful information regarding our site such as which pages users access. When we send you e-mails, we may include a single-pixel GIF to allow us to determine the number of people who open our e-mails. When you click a link in an e-mail, we record this individual response to allow us to customize our offerings to you.
+
+To provide you with a seamless experience, we may occasionally use framing. Though your browser may indicate you are at QuickBase.com, you may be on a partner's site. To determine which site you are on, right-click on the site and then select "Properties." 
+
+We may also gather usage information; including IP address, browser type and version, pages viewed, and pages linked to and off our site. We may use this data to better understand Web site and product performance, activity, and utilization in order to continuously improve our offerings. We may also use this data to provide you with a more personalized Web site experience, assist you with technical support questions, and to send you special offers, product and service updates, or other promotional materials that are relevant to your business. We do not track URLs that you type into your browser, nor do we track you across the Internet once you leave our site.
+
+Additional QuickBase Feature-Specific Information
 
 QuickBase Registration  
-When you register for a QuickBase account, you are required to provide your name, e-mail address and country of primary residence. We ask you to provide a password and a challenge question and answer to protect your information from unauthorized access and alteration. We also request optional demographic information (which helps us understand our QuickBase customers). Providing screen name and demographic information is optional. When registering for a corporate trial, we require name, company name, and phone number. On occasion, we may use your contact information, such as your name, billing address, and e-mail address, to send communications we think you will find useful, including information about special Intuit offers, QuickBase releases and upgrades, other new Intuit products and services, or those of other companies. Intuit does not share your contact information except as disclosed in this privacy statement. To opt out of receiving any of these communications, simply indicate your contact preference at the time of registration or contact us at [https://privacy.intuit.com](https://privacy.intuit.com/cpi/do/home?p_sourceid=12). We may also combine certain information about you with that of other individuals and customers to create aggregate, anonymous data that we will use to, for example, improve our products and services and develop new ones. Aggregate data is general information about groups of customers, but not about you as an individual.
+When you register for a QuickBase account, you are required to provide certain personal and demographic information in order to set up your account. We also request optional demographic information (which helps us understand our QuickBase customers).
+
+QuickBase and Healthcare Information  
+QuickBase, related Services, and Content are not "HIPAA-ready" or "HIPAA-compliant" and will not assist with or ensure compliance with HIPAA. You are solely responsible for using QuickBase, related Services and Content in a manner consistent with all applicable federal and state privacy laws relating to medical or health information. 
 
 QuickBase Billing  
-When you subscribe to a level of QuickBase service requiring a fee, we require that you provide your billing address and your credit card information, including credit card number and expiration date. Credit card information is used solely for the purpose of billing you for QuickBase service. Credit card and purchase order information is not shared with third parties except as required to process payments. 
+When you subscribe to a level of QuickBase service requiring a fee, we require that you provide your billing address and your credit card information, including credit card number and expiration date. Credit card information is used solely for the purpose of billing you for QuickBase service. Credit card and purchase order information is not shared with third parties except as required to process payments.
 
-For your convenience, we give you the option of billing your QuickBase service to a "workgroup." If you choose to join a workgroup for billing purposes, ownership of your QuickBase data will be transferred to that workgroup. The workgroup owner is responsible for payment and can transfer ownership of your data. Workgroup owners and administrators should keep in mind that any other workgroup administrators will have access to the workgroup's billing information.
+For your convenience, we give you the option of billing your QuickBase service to a "workgroup." If you choose to join a workgroup for billing purposes, ownership of your QuickBase data will be transferred to that workgroup. The workgroup owner is responsible for payment and can transfer ownership of your data. Workgroup owners and administrators should keep in mind that all other workgroup administrators will have access to the workgroup's billing information.
 
 QuickBase Database Access  
 Any content you place in a QuickBase database will not be publicly available unless you voluntarily choose to give permission to other QuickBase users, to QuickBase groups, or to the general public for that database. Intuit personnel will not view, use, or distribute the content of any of your databases without your prior permission or the express permission of the database owner, except as stated under "Legal Disclosures."
@@ -40,75 +69,32 @@ You have control over who has access to the data in your databases. When you fir
 Your database information is password protected. We recommend that you do not divulge your password to anyone. Intuit personnel will not require you to divulge your password, even to provide support or assistance. Remember to sign out of your QuickBase account and close your browser window when you have finished your work. This is to prevent others from accessing your databases if you share a computer with someone else, or are using a computer in a public place, like a library or Internet café.
 
 QuickBase Workgroups  
-QuickBase Workgroups allow access and control over database information dependent upon the roles assigned to specific members of the workgroup.
+QuickBase workgroups allow access and control over database information dependent upon the roles assigned to specific members of the workgroup.
 
 A workgroup owner can delete your data without your permission. However, the workgroup owner will not have privileges to view or alter the data unless you grant such access. Workgroup members will be able to see each other's e-mail addresses in addition to their QuickBase screen names. This will increase your ability to correctly identify a QuickBase user within your workgroup, which is helpful when granting access permissions. Workgroup administrators will also be able to deactivate a workgroup member's user account. Please exercise caution when assigning workgroup administration rights.
 
 QuickBase Developer Program  
-When you apply for the QuickBase Developer Program, you are required to provide your company's address, contact information, and tax ID (or social security number) in order for QuickBase to contact you regarding the QuickBase Developer program and to properly process payments. On occasion, we may use your contact information, such as your name, billing address, and e-mail address, to send you other QuickBase related communications. Intuit does not share your contact information except as disclosed in this privacy statement.
+When you apply for the QuickBase Developer Program, you are required to provide your company's address, contact information, and tax ID (or social security number) in order for QuickBase to contact you regarding the QuickBase Developer program and to properly process payments.
 
-Technical Support and Feedback  
-To obtain technical support, we ask you to provide your name and e-mail address. This information may be used to contact you regarding your technical support request. We also offer you the opportunity to provide feedback. When submitting feedback to us, your name and e-mail address may be used to respond to your comments or suggestions.
-
-More on Our General Information Practices  
-Newsletters  
-We provide you the opportunity to subscribe to e-mail newsletters and other e-mail communications. You may unsubscribe by following the instructions provided in each e-mail newsletter.
-
-E-Mail Message Formatting  
-E-Mail Messaging. When sending you e-mail, we may use an image called a single-pixel GIF, that allows us to format messages tailored to your computer's capabilities. We also use this technology to determine, in the aggregate, the number of people who open our e-mails. When you initiate a response by clicking on a link within an e-mail message, you are redirected onto the Internet. We then record your individual response to help us deliver information that is more relevant to your interests.
-
-Contests, Sweepstakes and Surveys  
-From time to time, we may offer you the option to participate in contests, sweepstakes or surveys. If you would like to participate, we may ask you for contact information, preferences, or other information. This information may be used to conduct research, improve our offerings, or award prizes. Our contests may have separate rules and we will identify how the information that you supply will be used in each case.
-
-Mandatory and Optional Information  
-We identify what information is required to fulfill your request and what information is optional. If you choose not to provide mandatory information, we will not be able to provide the service you are requesting.
-
-Intuit and Its Subsidiaries  
-If you are a U.S. customer, Intuit and its subsidiaries may share your personally identifiable information with each other to fulfill your requests or to provide you with information about other products or services that you may find valuable.
-
-Co-Branded or Third-Party Sites  
-Some of the products or services offered on this Web site are provided by third parties who are carefully selected by Intuit. When you request to receive these services, we will forward your customer information to these third parties, as necessary to fulfill your request. When offering the services of another party on an Intuit or co-branded site, the party who will receive your information will be clearly identified. The QuickBase Web site may provide links to third-party Web sites, such as those of our business associates and online advertisers. On these sites, Intuit and/or the identified third party may collect information about you. Intuit is not responsible for the actions of these third parties. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personally identifiable information.
-
-Service Providers  
-In some cases, we will employ or work with service providers, such as consultants, temporary workers, third-party software developers, or outsourcers, to complete a business process or provide a service. For example, we may use service providers to deliver products, to offer online software applications, or to send e-mails on our behalf. When we employ service providers, we may need to share your personally identifiable information. Service providers are strictly prohibited from using your personally identifiable information for purposes other than to act on our behalf.
-
-Service Alerts and Critical Notices  
-To limit any possible interruption of services you request, we may use your contact information to inform you of specific changes that may impact your ability to use this service or for other critical non-marketing purposes, such as bug alerts. We may also contact you to respond to your specific requests or to clarify the order information you provided to us, or to notify you of upcoming subscription updates.
-
-Change of Control  
-Your personally identifiable information may be transferred in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of Intuit and/or its subsidiaries ("Transfer"). You will have the opportunity to opt out of further secondary use of your information following any change of control. In the event of a Transfer of QuickBase to a third party, you consent to the transfer of the personally identifiable information in your customer account to that third party for the sole purpose of enabling the third party to continue to provide you with service.
-
-Changes to Our Privacy Policy  
-If we plan to make significant changes to any of our privacy policies or practices with respect to how we use personally identifiable information, we’ll post those changes to this privacy statement 30 days before they take effect.
+Other things we want you to know.
 
 Transmission of Information Outside of Your Country  
 If you are located outside the U.S., your personally identifiable information and database(s) may be stored and processed outside of the country of which you are a citizen and/or in which you reside. By using QuickBase, you consent to the transmission of your personally identifiable information outside of your country so that it may be used for purposes consistent with those specified in this Privacy Statement and in the "Terms of Services." If you are within the European Economic Area, you should be aware that such extra-territorial transmissions may be to countries outside of the European Economic Area which may have different data protection laws. When this occurs, Intuit shall take appropriate steps to protect the information transmitted.
 
 Legal Disclosures  
-In some cases, we may disclose certain information (including, when applicable, your personally identifiable information) to comply with a legal process, such as a court order, subpoena, search warrant, or law enforcement request.  
-  
-How and why we use Web technologies  
-Here is how and why we use some common Web technologies to help manage our Web site:
+In some cases, we may disclose certain information (including, when applicable, your personally identifiable information) to comply with a legal process, such as a court order, subpoena, search warrant, or law enforcement request.
 
-Cookies  
-A “cookie” is a small piece of information that our Web site may provide to your browser while you are at our site. The QuickBase Web site supplies your browser with cookies that contain a unique identifier used to authenticate registered QuickBase users. This cookie is also used to better understand Web site usage in the aggregate so that we know what areas of our site users prefer (e.g., based on the number of visits to those areas). You do not have to accept cookies from our site. However, in order to register and subsequently log on to the site, you must accept cookies. Most browsers are defaulted to accept and maintain cookies. 
+Mergers and Acquisitions  
+Should we sell, merge or transfer any part of our business, part of the sale may include your personally identifiable information. If so, you will have the opportunity to ask not to receive promotional information following any change of control.
 
-Web Site Usage Data  
-With or without cookies, our Web site keeps track of usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data in the aggregate to better understand Web site usage, including what areas of our Web site users prefer. This information is stored in log files and is used for aggregated and statistical reporting.   
-  
-We give you choices about how the personally identifiable information you provide to us may be used  
-We give you the opportunity to control the use of your personal information for purposes other than to fulfill your request. For example, on occasion we may use your contact information to send you promotional communications about Intuit products and services or those of our partners. If you do not wish to receive such communications, you may specify your contact preferences during the information collect process or by contacting us at [https://privacy.intuit.com](https://privacy.intuit.com/cpi/do/home?p_sourceid=12). You may also use the Edit Profile page to update your preferences at any time.   
-  
-We provide you the opportunity to update or correct your personally identifiable information  
-We provide you the opportunity to update or correct your personally identifiable information at any time using your My User Profile page.  
-  
-We work to protect personally identifiable information from loss, misuse, or unauthorized alteration  
-We use industry standard security safeguards to help protect the personally identifiable information that you have provided to us from loss, misuse, or unauthorized alteration. Whenever we prompt you to transmit sensitive information, such as a credit card number, to us through our Web site, we support SSL (Secure Sockets Layer) encryption of your data as it is transmitted to us.
+Policy and Statement Changes  
+If we make any significant changes to our privacy policies or practices, we will let you know 30 days in advance.
 
-We work to protect personally identifiable information stored on the site’s servers from unauthorized access using industry standard computer security products, such as firewalls, as well as carefully developed security procedures and practices. All Intuit employees must review and sign a written statement of these practices, which include limiting access to sensitive information to only those employees who require the information and enforcing strict password protocols for all employees. We use both internal and external resources to review the adequacy of our security measures on a regular basis.  
-  
-We provide various ways to contact us about our information practices and other aspects of privacy  
-Questions regarding the QuickBase Web site’s privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web site should be directed to us at [https://privacy.intuit.com](https://privacy.intuit.com/cpi/do/home?p_sourceid=12) or by writing to us at Intuit Inc., Customer Communication, 2800 East Commerce Center Place, Tucson, AZ 85706.
+Information from Other Sources  
+We may use other sources to supplement the information you give us. For example, we may validate your address using other sources. We use this data to help us maintain accuracy and provide you with better service.
+
+Intuit Division Processes  
+QuickBase is a division of Intuit Inc. Intuit and its division may exchange customer data to fulfill your requests or to provide you with information about other products or services. We offer you the opportunity to review privacy practices at our divisions' Web sites; please visit Intuit.com for additional information.
 
   
-Last updated Sept 12, 2003
+Last updated March 19, 2004 
