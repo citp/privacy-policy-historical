@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606065538id_/http%3A//www.lilly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204063030id_/http%3A//www.lilly.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
+
+## Data Privacy at Eli Lilly and Company
+
+Eli Lilly and Company has established a comprehensive privacy program, including a global privacy office and a chief privacy officer, designed to help us respect and protect your data privacy rights. This statement includes both Lilly's European Union - U.S. Safe Harbor Privacy Statement and the Website Privacy Statement. 
+
+## U.S. - EU Safe Harbor Privacy Statement
+
+For personal information of employees, consumers, healthcare professionals, medical research subjects and investigators, customers, investors, and government officials that Lilly receives from the European Economic Area, Lilly has committed to handling such personal information in accordance with the Safe Harbor Principles. Lilly's Safe Harbor certification can be found at [http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe%2Bharbor%2Blist). For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/sh_overview.html>.
+
+## Eli Lilly and Company Website Privacy Statement
 
 Eli Lilly and Company respects the privacy of visitors to its websites, as a result, we have developed this website privacy policy. This website privacy policy applies only to the operation of websites that directly link to this policy when you click on "privacy statement" in the website footer. 
 
@@ -8,7 +18,7 @@ Through this website Lilly will collect information that can identify you, such 
 
 Any other information transferred by you in connection with your visit to this site ("Other Information" - that is, information that cannot be used to identify you) may be included in databases owned and maintained by Eli Lilly and Company or its agents. Lilly retains all rights to these databases and the information contained in them. Other Information we collect may include your IP Address and other information gathered through our weblogs and cookies (see below). 
 
-This site may collect **web log** information. Web log information is gathered when you visit one of our websites by the computer that hosts our website (called a "webserver"). The webserver automatically recognizes some non-personal information, such as the date and time you visited our site, the pages you visited, the website you came from, the type of browser you are using (e.g., Internet Explorer), the type of operating system you are using (e.g., Windows 2000), and the domain name and address of your Internet service provider (e.g., AOL). 
+This site may collect **web log** information. Web log information is gathered when you visit one of our websites by the computer that hosts our website (called a "webserver"). The webserver automatically recognizes some non-personal information, such as the date and time you visited our site, the pages you visited, the website you came from, the type of browser you are using (e.g., Internet Explorer), the type of operating system you are using (e.g., Windows 2000), and the domain name and address of your Internet service provider (e.g., AOL).
 
 This website may use a technology called a **"cookie"**. A cookie is a piece of information that our webserver sends to your computer (actually to your browser file) when you access a website. Then when you come back our site will detect whether you have one of our cookies on your computer. Our cookies help provide additional functionality to the site and help us analyze site usage more accurately. For instance, our site may set a cookie on your browser that keeps you from needing to remember and then enter a password more than once during a visit to the site.
 
@@ -36,7 +46,7 @@ Please note that you may continue to receive materials while we are updating our
 
 We may update this Web site Privacy Policy from time to time. When we do update it, for your convenience, we will make the updated policy available on this page. 
 
-Last Updated: May 17, 2002 
+Last Updated: August 17, 2004
 
   
 back to the top
