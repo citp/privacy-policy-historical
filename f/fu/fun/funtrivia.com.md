@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funtrivia.com privacy policy that was archived on 2004-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040408134020id_/http%3A//funtrivia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funtrivia.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208102419id_/http%3A//funtrivia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # FunTrivia Challenge Rules and Guidelines
 
