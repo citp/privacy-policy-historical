@@ -1,30 +1,27 @@
-> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207112601id_/http%3A//www.4templates.com/index.php%3F_p%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205035300id_/http%3A//www.4templates.com/privacy) for the most accurate reproduction.*
 
-# 4Templates.com - web templates, flash templates, website templates, professional, business templates, high tech templates
+# 4Templates.com - Web templates, FrontPage templates, Dreamweaver templates, Flash templates, Logo templates, Website templates
 
-**Cookies**
+Cookies
 
 Cookies are small data files that websites can write to your hard drive when you visit them. Once written, the cookie can only be accessed by the site that originally created it (ie. our site cannot read cookies set by another site you have visited and vice-versa). Our site uses cookies to store personal site preferences, session information, and ordering information specific to you (such as the contents of your shopping cart). 
 
-**External Site Links**
+External Site Links
 
 This site contains links to other websites on the internet. While we provide links to them, we are not responsible for their content or privacy policies. 
 
-**Advertisers**
+Advertisers
 
 Some of the advertisements on our site are provided by outside advertisement companies and may contain cookies. While we use cookies on our site, the cookies associated with these advertisements are collected by their respective companies and are therefore not accessible to us. 
 
-**IP Addresses and Logging**
+IP Addresses and Logging
 
 Our server logs information regarding visitors to our site, such as IP address, date/time, and pages accessed. This information is used to generate reports for statistical purposes. 
 
-**Customer Information**
+Customer Information
 
-Information is collected from the customer at the time of a sale in order to complete the sale and deliver the purchased item(s). This information is not sold or distributed to third parties. 
+Information, such as names and email addresses, are collected from customers at the time of a sale in order to complete the purchase. This information is **NOT** sold or distributed to third parties. We are firmly against spam and neither participate nor promote any activities that assist spammers. 
 
-**Credit Card Transactions**
+Credit Card Transactions
 
-All credit card transactions are securely processed through [Authorize.net](http://www.authorize.net/). The information collected by Authorize.net's payment form is stored only on Authorize.net's network and is not recorded by 4Templates.com. 
-
-Copyright © 2002 Wirezero Communications [[Contact Us]](http://www.4templates.com/index.php?_p=contact&who=2)  
-All trademarks and service marks mentioned herein belong to their respective owners. 
+All credit card transactions are securely processed through [Authorize.net](http://www.authorizenet.com/). The information collected by Authorize.net's payment form is stored only on Authorize.net's network and is not recorded by 4Templates.com. 
