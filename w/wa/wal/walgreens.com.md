@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603202052id_/http%3A//www.walgreens.com/help/privacyandsecurity.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011943id_/http%3A//www.walgreens.com/help/privacyandsecurity.jhtml) for the most accurate reproduction.*
 
 # Walgreens | Help | Walgreens.com Online Privacy & Security Policy
 
@@ -10,7 +10,7 @@ To assist you with reading through our privacy policy, we have provided answers 
 **What information can I access?**  
 Walgreens.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our web site evolves. 
 
-  * [Notice of Privacy Practices](http://www.walgreens.com/help/noticeprivacypractices.jhtml)
+  * [Privacy Practices](http://www.walgreens.com/help/privacypractices.jhtml)
   * [Your Account](https://www.walgreens.com/youraccount/default.jhtml)
   * [PIN](http://www.walgreens.com/help/pin.jhtml)
   * [Place Prescription Order](http://www.walgreens.com/help/orderprescriptions.jhtml)
@@ -84,7 +84,6 @@ We may provide links to other sites that we believe offer our customers useful s
 **Credit Card Fraud**  
 Under the Fair Credit Billing Act, you cannot be held liable for more than $50.00 of fraudulent charges. If your credit card provider requires payment of any of this $50.00 amount as a result of a purchase made at our web site's secure server, we will reimburse you up to that $50.00 limit. 
 
-  
 **Will this privacy policy change?**  
 As our business changes, we will continue to implement new technologies and improve the services and features we provide. This privacy policy and the [Terms of Use](http://www.walgreens.com/termsofuse.jhtml) will be updated to reflect these changes. The use of information that we gather now is subject to the privacy policy in effect at the time of use. If there are changes or additions to this privacy policy, we will post those changes here or in other formats we deem acceptable, so that you will always know what information we collect online or offline, how we use it and what choices you have. 
 
@@ -95,7 +94,6 @@ If you choose to visit Walgreens.com, your visit and any dispute over privacy is
 
 **Related Practices and Information**
 
-  * [Notice of Privacy Practices](http://www.walgreens.com/help/noticeprivacypractices.jhtml)
   * [Terms of Use](http://www.walgreens.com/termsofuse.jhtml)
 
 |  | 
@@ -104,6 +102,6 @@ If you choose to visit Walgreens.com, your visit and any dispute over privacy is
 
 Need additional help? 
 
-[Click here](https://web.archive.org/web/20030603202052id_/http%3A//www.walgreens.com/help/faq/default.jhtml)  
+[Click here](https://web.archive.org/web/20031203011943id_/http%3A//www.walgreens.com/help/faq/default.jhtml)  
   
 ---|---|---
