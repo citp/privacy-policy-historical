@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207124926id_/http%3A//www.checkmyfile.com/HotLinks/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618074821id_/http%3A//www.checkmyfile.com/HotLinks/privacypolicy.asp) for the most accurate reproduction.*
 
-# checkmyfile.com
+# 
 
    
-Privacy Practices
-
+Privacy Practices  
+  
 Credit Reporting Agency has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites **[www.creditreporting.co.uk](http://www.creditreporting.co.uk/) **and **[www.checkmyfile.com](http://www.checkmyfile.com/) **
 
 We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and your search requirements and to gather broad demographic information. We use cookies to deliver content specific to your interests.
@@ -16,6 +16,8 @@ We use customer contact information from the registration form to send you infor
 We do **not** pass your information to any third party for the purpose of sending you unsolicited emails. **You can opt out of receiving emails from us** ** **;** see the choice/opt-out section below.**
 
 When you purchase some of our products we ask for your driving licence number, or National Insurance number. We ask for this information because we have tools available which use this information to help verify your identity. We never reveal exactly how we do this, nor how we validate the rest of the information you provide. This validation information is not kept on any computer and is used only for the purposes of authentication. We also seek your mother's maiden name which we may use to verify your identity during a telephone discussion with us. 
+
+From time to time we may ask you to provide copies of utility bills, bank statements or credit card statements addressed to you at your current and previous addresses. We only seek such information when we need to verify your current address and to protect the privacy of your information. Such copies are kept confidential whilst being processed, are not stored on computer, and are destroyed after being used to verify your addresses.
 
 Unique identifiers (such as your chosen user name) are collected to verify your identity and for use as account numbers in our record system. 
 
@@ -42,24 +44,24 @@ This site gives you the following options for removing your information from our
 > 1\. You can send email to [admin@checkmyfile.com](mailto:admin@checkmyfile.com)
 > 
 > 2\. You can write to us at the following postal address:
-> 
-> Credit Reporting Agency Limited  
->  PO Box 166  
+>
+>> Credit Reporting Agency Limited  
+>  13 High Cross  
 >  TRURO  
->  TR1 2WA
+>  TR1 2AJ
 
 Correct/Update
 
-This site gives you the following options for changing and modifying information previously provided. 
+This site gives you the following options for changing and modifying information previously provided.  
 
 > 1\. email [admin@checkmyfile.com](mailto:admin@checkmyfile.com) 
 > 
 > 2\. write to us at the following postal address: 
-> 
-> Credit Reporting Agency Limited  
->  PO Box 166  
+>
+>> Credit Reporting Agency Limited  
+>  13 High Cross  
 >  TRURO  
->  TR1 2WA
+>  TR1 2AJ
 
 Contacting the Web Site
 
@@ -67,13 +69,13 @@ If you have any questions about this privacy statement, the practices of this si
 
 > 1\. you can email:
 > 
-> [barry.stamp](mailto:webmaster@creditreporting.co.uk)[@](mailto:webmaster@creditreporting.co.uk)[checkmyfile.com ](mailto:webmaster@creditreporting.co.uk)
+> [ barry.stamp@checkmyfile.com](mailto:barry.stamp@checkmyfile.com)
 > 
 > 2\. you can write to   
 
-> Barry Stamp  
+> > Barry Stamp  
 >  Joint Managing Director  
 >  Credit Reporting Agency Limited  
->  PO Box 166  
+>  13 High Cross  
 >  TRURO  
->  TR1 2WA
+>  TR1 2AJ
