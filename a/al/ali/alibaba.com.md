@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607142557id_/http%3A//www.alibaba.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203141800id_/http%3A//www.alibaba.com/bin/servlet/page/static/privacy_statement) for the most accurate reproduction.*
 
-# Alibaba.com Privacy Statement
+# Alibaba.com - Import Export Trade leads
 
-**Alibaba.com Privacy Statement**
-
+**Alibaba.com Privacy Statement**   
 (Updated on 10/7/99)
 
 Welcome to Alibaba! We have created this Privacy Statement to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for our web site: Alibaba.com. Our Privacy Statement is a work in progress. As we expand our services,we will update our Privacy Statement. We welcome your continuous input into this Privacy Statement. Give us your feedback at [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com). 
@@ -34,7 +33,7 @@ BY ACCEPTING THE TERMS OF SERVICE AGREEMENT ("AGREEMENT"),YOU EXPRESSLY CONSENT 
 
 **Security.** Our web site has security measures in place to protect the loss,misuse and alteration of the information under our control. These security measures include backing up data to other servers and encrypting user Passwords. Despite our security measures,please be advised that "perfect security" does not exist on the Internet. 
 
-**Correcting Your Information.** You may change,update,or delete your personally identifiable information and Password (after a successful login process) through our web page at URL [http://www.alibaba.com/bin/user/edit](http://edit.www.alibaba.com/bin/user/edit). ****
+**Correcting Your Information.** You may change,update,or delete your personally identifiable information and Password (after a successful login process) through our web page at URL [http://www.alibaba.com/bin/user/edit](https://web.archive.org/bin/user/edit). ****
 
 **Contacting Us.**
 
