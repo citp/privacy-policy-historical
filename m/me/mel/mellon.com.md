@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mellon.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206010824id_/http%3A//www.mellon.com/privacy/online.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellon.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307195209id_/http%3A//www.mellon.com/privacy/online.html) for the most accurate reproduction.*
 
 # Mellon Financial Corporation Privacy Policy
 
@@ -34,7 +34,7 @@ Mellon uses the information collected from visitors to its site to address the s
 **Children's Information**  
 We respect the privacy of your children and do not knowingly collect or retain personally identifiable information from children under the age of 13 through our Web sites. 
 
-For information on Mellon's CONSUMER PRIVACY POLICY [click here](https://web.archive.org/web/20041206010824id_/http%3A//www.mellon.com/privacy/index.html). 
+For information on Mellon's CONSUMER PRIVACY POLICY [click here](https://web.archive.org/web/20050307195209id_/http%3A//www.mellon.com/privacy/index.html). 
 
 NOTICE TO CALIFORNIA USERS REQUIRED BY STATE LAW: We retain information we receive through this website, including information you give us to open an account or purchase a product or service from us, information you give to us in inquiries and other communications, and records of any transactions you perform. We share this information with affiliated and nonaffiliated parties only as necessary to process and service your transactions with us, or as required by law. Such parties may include those who provide services to us in connection with your accounts or transactions, or who are involved in providing you the services you request. In certain instances they might include a purchaser or potential purchaser of an account. We also report information to credit bureaus in appropriate cases. And we share information with government agencies and law enforcement as necessary. 
 
