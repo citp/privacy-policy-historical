@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2003-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031223085012id_/http%3A//hrw.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630051324id_/http%3A//hrw.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Human Rights Watch Privacy Policy
 
