@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyconnect.com privacy policy that was archived on 2003-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030715225902id_/http%3A//www.searchsys.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyconnect.com privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403191506id_/http%3A//www.searchsys.com/privacy.htm) for the most accurate reproduction.*
 
 # search SYS - Your Search Starts Here
 
