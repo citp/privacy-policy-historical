@@ -1,80 +1,53 @@
-> *The following text is extracted and transformed from the webring.org privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215012400id_/http%3A//webring.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webring.org privacy policy that was archived on 2002-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021229055254id_/http%3A//dir.webring.com/h%3Fprivacy) for the most accurate reproduction.*
 
-# WebRing Privacy Notice
+# WebRing: privacy
 
-  
-**WebRing and the Privacy of our Visitors and Members**   
+WebRing is concerned about your privacy. Please read the following to learn more about our privacy policy. 
 
+**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/edcams/infosecurity/index.html) for important information about safe surfing from the Federal Trade Commission.**
 
-At WebRing, we respect your privacy whether you're a first-time Visitor or a dedicated Member. We do collect information from you, but our policy is to ensure that all personal information remains private to the extent that Members and Visitors wish it to remain private. To earn your trust and confidence in the Internet and in WebRing, we are disclosing our privacy practices and the uses of the information we gather.
+This Privacy Policy covers WebRing's treatment of personal information that WebRing collects when you use the WebRing site, and when you use WebRing's services. This policy also covers WebRing's treatment of any personal information that WebRing's business partners share with WebRing or that WebRing may collect on a partner's site. 
 
-To protect your privacy, WebRing:
+This policy does not apply to the practices of companies that WebRing does not own or control, or to people that WebRing does not employ or manage. 
 
-  * Provides a notice and a link to this Privacy Notice on all pages where we collect personal identifying information.
-  * Will use personal identifying information about you in a manner consistent with this Privacy Notice.
-  * Will not knowingly collect personal identifying information from children under 13 or knowingly use such information without express parental consent.
+**Information Collection and Use**  
 
 
+  * WebRing collects personal information when you register for a WebRing account, when you use WebRing products or services, when you visit WebRing pages. WebRing may also receive personal information from our business partners. 
+  * When you register with WebRing, we ask for your email address and birth date. Once you register with WebRing and sign in to our services, you are not anonymous to us. 
+  * WebRing also automatically receives and records information on our server logs from your browser WebRing cookie information and the page you requested. 
+  * WebRing uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to provide traffic statistics to our RingMasters. None of the statistics reported include personal information about any WebRing user. 
 
-As you may know, WebRing serves as an Internet navigation and linking service, allowing people to find out information about topics of interest and to link with others having interest in similar topics. WebRing does not operate or control the individual Web sites which are part of WebRings. RingMasters and Ring Members may be Members of or subscribers to other Internet services which have their own privacy and content guidelines or restrictions. WebRing does not control what appears on the Web sites contained in Rings.
-
-If you have any questions regarding this Privacy Notice, please contact us at:[privacy@webring.org](mailto:privacy@webring.org)
-
-**A. WEBRING'S COLLECTION AND USE OF GENERAL INFORMATION FROM MEMBERS AND VISITORS**
-
-WebRing collects information from all Visitors to our site, including IP address, operating system, and browser software. Using your IP address, we can determine your Internet Service Provider and your geographic location. This information reflects the population as a whole rather than focusing on individuals, and we use it to identify the most popular Rings, portals and other areas on our Web site and evaluate the effectiveness of our promotional activities.
-
-We also use this information to perform statistical analyses of collective characteristics and behavior, so we can measure overall Visitor demographics and interests regarding the Site. For example, we disclose the aggregate data to advertisers to inform them of the number (and characteristics) of people who have seen and clicked on their advertisements.
-
-WebRing does not collect the e-mail addresses of people who communicate with us via e-mail; we use the addresses only to respond to them.
-
-**B. WEBRING'S COLLECTION AND USE OF PERSONAL IDENTIFYING INFORMATION FROM ITS MEMBERS AND VISITORS**
-
-Personal identifying information includes: 
-
-  * Home or other physical address
-  * Phone number
-  * Any other information that identifies a specific individual
-  * Any information which, when tied to the above listed specific information, can identify a specific individual.
+**Information Sharing and Disclosure**  
 
 
+  * WebRing will not sell or rent your personal information to anyone. 
+  * WebRing may send personal information about you to other companies or people when: 
+    * We have your consent to share the information; 
+    * We need to share your information to provide the product or service you have requested; 
+    * We need to send the information to companies who work on behalf of WebRing to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personal information we provide to them beyond what is necessary to assist us.); 
+    * We respond to subpoenas, court orders or legal process; or 
+    * We find that your actions on our web sites violate the [WebRing Terms of Service](http://dir.webring.com/h?terms), or any of our usage guidelines for specific products or services. 
 
-The only personal identifying information we currently collect is the first and last name and e-mail address of RingMasters and Ring Members. We collect this information at various locations throughout the site, including Create a New Ring and Join an Existing Ring processes. We give notice at each location that asks for personal identifying information, and such information will be used only for the purposes stated at the location of the collection, and/or within this Privacy Statement. When we collect personal identifying information, you will always have the choice of whether or not to provide it. However, you may not be able to receive certain of WebRing?s services without providing the information requested.
+**Cookies**  
 
-We use this information for administrative and other purposes that we believe are necessary to maintain, improve and enhance our services. Such uses include data transmission, surveys of our Members conducted by third parties, sending e-mail messages to all of our Members. We may use third parties to provide these services. 
 
-WebRing fully cooperates with law enforcement agencies in identifying those persons who use our services for illegal activities, and we reserve the right to release personal identifying information about Members when we believe our services are being used unlawfully even without a subpoena, warrant or court order.
+  * WebRing may set and access WebRing cookies on your computer. 
+  * WebRing allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to WebRing's cookies. 
 
-We do not control the actions of our Members or Visitors. If you disclose personal information on your Ring or to others, it may be collected and used by others. WebRing does not assume any responsibility for actions of those other parties. 
+**Your Ability to Edit and Delete Your Account Information and Preferences**  
 
-When you join a Ring, personal identifying information is also collected by the RingMaster. RingMasters are independent of WebRing, and are only permitted to use the information collected in order to administer the Ring, and to send messages to Ring Members. If you believe that any RingMaster is misusing personal identifying information please contact us at: [privacy@webring.org](mailto:privacy@webring.org). 
 
-**C. WEBRING DOES NOT KNOWINGLY COLLECT INFORMATION FROM CHILDREN**
+  * WebRing gives you the ability to edit your WebRing Account Information and preferences at any time. 
 
-We believe that it is especially important to protect children's privacy online. 
+**Security**  
 
-Note: WebRing defines children as minors under the age of 13 years.
 
-We do not knowingly collect any personal identifying information from children. For this reason, children are not knowingly permitted to be RingMasters. 
+  * Your WebRing Account Information is password-protected for your privacy and security. 
 
-**D. MEMBERS? ABILITY TO CHANGE/REMOVE INFORMATION**
+**Changes to this Privacy Policy**  
 
-If, at any time you would like to find out the information WebRing maintains about you, or change or delete any information within WebRing's active database please direct your browser to [Ring Management](http://www.webring.org/manage.html)
 
-If you leave WebRing, we may delete your information from our active database. Residual information will remain within our archived database and records.
+  * WebRing may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
-WebRing does not control the acts of its RingMasters or Members. All RingMasters, Members and Visitors should be aware that, when they disclose personal identifying information to others, the information may be collected and used by others to send that person unsolicited e-mail from other parties, outside WebRing. If you encounter any WebRing Member or RingMaster who is improperly collecting or using information about users, please contact: [privacy@webring.org](mailto:privacy@webring.org)
 
-**E. SECURITY OF INFORMATION COLLECTED BY WEBRING**
-
-Information collected by WebRing is stored on secure servers and access is limited to authorized personnel only.
-
-**F. OUTSIDE PARTY COLLECTION AND USE OF INFORMATION**
-
-Please be aware that WebRing does not control the acts of its Members or Visitors. All Members and Visitors should be aware that, when they disclose personal information, on their Web site or elsewhere on the site, the information might be collected and used by others. Additionally, Members should be aware that when they link, or click on ad banners, they might go to other sites not operated by WebRing. These outside parties may have different privacy policies from those of WebRing. If you are asked to divulge personal identifying information at any point outside WebRing, please be aware that privacy policies other than WebRing may apply to the collection and use of that information. WebRing does not control and does not assume any responsibility for any actions of third parties.
-
-**NOTICE** : [Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for important information about safe surfing from the Federal Trade Commission.
-
-If you have any questions regarding this Privacy Notice please contact us at: [privacy@webring.org](mailto:privacy@webring.org)
-
-Thank you for your interest in [WebRing](https://web.archive.org/web/20001215012400id_/http%3A//webring.org/index.html)!
