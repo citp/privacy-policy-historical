@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gujaratimatrimony.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618074411id_/http%3A//www.gujaratimatrimony.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gujaratimatrimony.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203041420id_/http%3A//www.gujaratimatrimony.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
