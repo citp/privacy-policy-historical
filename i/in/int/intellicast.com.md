@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604161322id_/http%3A//www.intellicast.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008112656id_/http%3A//www9.intellicast.com/About/Privacy) for the most accurate reproduction.*
 
 # Intellicast.com
 
@@ -67,6 +67,16 @@ Intellicast Services
 Building 8  
 Billerica, MA 018211**
 
-[E-mail@intellicast.com](mailto:E-mail@intellicast.com)
+[Contact us](https://web.archive.org/Local/Feedback/)
 
-_Last Revision: March 29, 2002_ __
+**Effective November 1, 2003, WSI will be occupying our new home in Andover, Massachusetts. Though this means a lot big changes for us, our redundant systems ensure this move will involve no interruption of WSI's service to you. However, there is new contact information you need to make note of:
+
+New address:
+
+WSI  
+400 Minuteman Road  
+Andover, MA 01810
+
+**
+
+_Last Revision: October 3, 2003_ __
