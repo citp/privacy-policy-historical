@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017022613id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623142313id_/http%3A//ecsi.net/privacy_statement.html) for the most accurate reproduction.*
 
 # General Privacy Statement
 
@@ -22,7 +22,7 @@ Clients are assigned unique IDs and passwords. These accounts are assigned for t
 **Cookies and Web Bugs**  
 ECSI does not use [cookies](http://www.cookiecentral.com/faq/) for any purpose at this time. If, at a future time, we decide to utilize [cookies](http://www.cookiecentral.com/faq/), ECSI will change this privacy statement and place a notice directly on our home page. 
 
-ECSI does not use [Web Bugs](http://www.tiac.net/users/smiths/privacy/wbfaq.htm) as a means of tracking visitors or providing information to third parties. We believe this practice is at best deceitful and have a firm policy prohibiting the use of [Web Bugs](http://www.tiac.net/users/smiths/privacy/wbfaq.htm) on our site. 
+ECSI does not use [Web Bugs](http://www.privacyfoundation.org/resources/webbug.asp) as a means of tracking visitors or providing information to third parties. We believe this practice is at best deceitful and have a firm policy prohibiting the use of [Web Bugs](http://www.privacyfoundation.org/resources/webbug.asp) on our site. 
 
 **Client Information**  
 ECSI maintains a database of client information including email addresses. The information ECSI has collected is not maintained or stored in a location that exposes this information to the Internet. All client information is contained on separate servers. 
