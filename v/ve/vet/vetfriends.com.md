@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vetfriends.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610023120id_/http%3A//www.vetfriends.com/vetfriends.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetfriends.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622093630id_/http%3A//vetfriends.com/vetfriends.cfm) for the most accurate reproduction.*
 
 # US Military Veteran Locator! VetFriends.com
 
@@ -6,7 +6,7 @@
 
 This privacy statement discloses the privacy practices for www.VetFriends.com. 
 
-If you feel that VetFriends.com is not abiding by its posted privacy policy, you should contact VetFriends' Support Group by emailing [support@VetFriends.com](mailto:support@VetFriends.com)
+If you feel that VetFriends.com is not abiding by its posted privacy policy, you should contact VetFriends' Support Group by [clicking here](https://web.archive.org/contactus.cfm)
 
 **  
 Information Collection and Use**
@@ -36,7 +36,7 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
   
 **Tell-A-Friend  
-** If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address.  VetFriends will automatically send the friend a one-time email inviting them to visit the site.  VetFriends stores this information for the sole purpose of sending this one-time email.  The friend may contact VetFriends at [ support@VetFriends.com](mailto:%20support@vetfriends.com) to request the removal of this information from their database.
+** If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address.  VetFriends will automatically send the friend a one-time email inviting them to visit the site.  VetFriends stores this information for the sole purpose of sending this one-time email.  The friend may [contact us](https://web.archive.org/contactus.cfm) to request the removal of this information from their database.
 
   
 **Security  
@@ -44,7 +44,7 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users’ information is restricted in our and our ISP's (Interland.com) offices.  Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information.
 
-If you have any questions about the security at our website, you can send an email to [support@VetFriends.com](mailto:support@vetfriends.com).
+If you have any questions about the security at our website, please [contact us](https://web.archive.org/contactus.cfm).
 
   
 **  
@@ -57,11 +57,11 @@ Site and Service Updates
 
   
 **Correction/Updating Personal Information:  
-** If a user’s personally identifiable information changes (such as your email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.  This can usually be done at the member information page or by emailing our Customer Support at [support@VetFriends.com](mailto:support@vetfriends.com).
+** If a user’s personally identifiable information changes (such as your email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.  This can usually be done at the member information page or by [contacting us](https://web.archive.org/contactus.cfm).
 
   
 **Choice/Opt-out  
-** Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by updating their member's profile in the members' section of VetFriends.com or emailing us at [ support@VetFriends.com](mailto:support@VetFriends.com)
+** Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by updating their member's profile in the members' section of VetFriends.com or [clicking here.](https://web.archive.org/web/20030622093630id_/http%3A//vetfriends.com/unsubscribe.cfm)
 
 Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
