@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allguitartabs.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004161406id_/http%3A//allguitartabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allguitartabs.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604164732id_/http%3A//allguitartabs.com/privacy.html) for the most accurate reproduction.*
 
 # All Guitar Tabs - Privacy Statement
 
