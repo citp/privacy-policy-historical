@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkshireeagle.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213716id_/http%3A//63.147.65.2/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkshireeagle.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209022107id_/http%3A//extras.berkshireeagle.com/NeBe/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - New England Newspapers Inc.
 
@@ -46,7 +46,7 @@ Children's Guidelines
 
 **
 
-The Newspaper in Education program is a free service the newspaper may offer for teachers which promotes the use of newspapers in the classroom. The information requested on these pages is used solely for participation in the particular activity, and is not stored or sold to third parties. If a question, comment, story, joke, idea or opinion is published, only the student's first name, grade and state/country appear on the site. Students are advised to consult with their parents before giving personal information online. See the [Children's Privacy Policy](http://63.147.65.2/children.htm).
+The Newspaper in Education program is a free service the newspaper may offer for teachers which promotes the use of newspapers in the classroom. The information requested on these pages is used solely for participation in the particular activity, and is not stored or sold to third parties. If a question, comment, story, joke, idea or opinion is published, only the student's first name, grade and state/country appear on the site. Students are advised to consult with their parents before giving personal information online. See the [Children's Privacy Policy](http://extras.berkshireeagle.com/nebe/children.htm).
 
 **PRIVACY COORDINATOR:**
 
