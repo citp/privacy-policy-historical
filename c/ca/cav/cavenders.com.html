@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cavenders.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204150459id_/http%3A//www.cavenders.com/privacy.asp%3Fsblid%3Dbotprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cavenders.com privacy policy that was archived on 2005-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402014214id_/http%3A//www.cavenders.com/privacy.asp%3Fsblid%3Dbotprivacy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy and Security</title>
@@ -43,10 +43,10 @@ self.name = "mainWin";
   </tr>
   <tr>
 		<td>
-			<a href="http://www.cavenders.com/default.asp?sblid=tophome"><img src="images/promotions/topbanner_slices_02.jpg" width="289" height="97" alt="" border="0"></a></td>
+			<a href="http://www.cavenders.com/default.asp?sblid=tophome"><img src="images/promotions/title_02.gif" width="289" height="97" alt="" border="0"></a></td>
 		
 		<td>
-			<a href="http://www.cavenders.com/contest_5.asp?source=site&amp;sblid=topbannercontest"><img src="images/promotions/wrangler_contestfront_03.gif" width="448" height="97" alt="" border="0"></a></td>
+			<a href="http://www.cavenders.com/cowboy_boots.asp?sblid=topbannerboots"><img src="images/promotions/handcrafted_cowboy_title_03.gif" width="448" height="97" alt="Largest Selection of Handcrafted Boots!" border="0"></a></td>
 		
 		<td>
 			<img src="images/promotions/topbanner_slices_04.jpg" width="18" height="97" alt="" border="0"></td>
@@ -135,6 +135,12 @@ function popUpEmail(form){
 			return false;
 		}
 	}	
+}
+
+function brandSubmit(form) {
+	var brand = get_select_text(form.vendor);
+	form.action = "http://www.cavenders.com/BrandProducts.asp?" + "" + "brand=" + brand + "&sblid=brand" + brand + "&" + "";
+	form.submit();
 }
 </script>
 <style type="text/css">	<!--
@@ -255,12 +261,10 @@ function popUpEmail(form){
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<form action="http://www.cavenders.com/BrandProducts.asp?" method="post" name="Main"></form>
+		<form action="" method="post" name="Main"></form>
 		<td>
-			<select name="vendor" size="1" onchange="this.form.submit()" style="font-family:Arial,Helvetica,sans-serif;font-size:8pt;">
+			<select name="vendor" size="1" onchange="brandSubmit(this.form)" style="font-family:Arial,Helvetica,sans-serif;font-size:8pt;">
 				<option value="0" selected="">Select a Brand</option>
-	
-				<option value="91">ANSA®                                             </option>
 	
 				<option value="21">Ariat®                                            </option>
 	
@@ -272,9 +276,9 @@ function popUpEmail(form){
 	
 				<option value="26">Cinch®                                            </option>
 	
-				<option value="68">Cowtown Boots                                     </option>
+				<option value="242">Cowboy Work Wear                                  </option>
 	
-				<option value="156">Cripple Creek®                                    </option>
+				<option value="68">Cowtown Boots                                     </option>
 	
 				<option value="28">Cruel Girl®                                       </option>
 	
@@ -286,9 +290,7 @@ function popUpEmail(form){
 	
 				<option value="234">George Strait™ by Wrangler®                       </option>
 	
-				<option value="137">Harley Davidson Boots®                            </option>
-	
-				<option value="136">Justin :03.1                                      </option>
+				<option value="137">Harley Davidson Footwear®                         </option>
 	
 				<option value="159">Justin Basics                                     </option>
 	
@@ -308,29 +310,29 @@ function popUpEmail(form){
 	
 				<option value="36">Lawman®                                           </option>
 	
-				<option value="38">Lucchese®                                         </option>
+				<option value="38">Lucchese® 1883                                    </option>
 	
 				<option value="126">Lucchese® 2000                                    </option>
 	
 				<option value="127">Lucchese® Classics                                </option>
 	
-				<option value="190">Moa Moa®                                          </option>
+				<option value="240">Lucky Brand®                                      </option>
+	
+				<option value="85">Minnetonka®                                       </option>
 	
 				<option value="99">Montana Silversmiths®                             </option>
 	
-				<option value="71">Old West Boots                                    </option>
-	
 				<option value="42">Resistol® Hats                                    </option>
 	
-				<option value="181">Rocky Boots®                                      </option>
+				<option value="43">Rockies®                                          </option>
 	
-				<option value="43">Rocky Mountain®                                   </option>
+				<option value="181">Rocky Boots®                                      </option>
 	
 				<option value="69">Roper®                                            </option>
 	
 				<option value="141">Scully®                                           </option>
 	
-				<option value="164">Skinny Minnie®                                    </option>
+				<option value="239">Seven for All Mankind®                            </option>
 	
 				<option value="50">Stetson®                                          </option>
 	
@@ -342,11 +344,7 @@ function popUpEmail(form){
 	
 				<option value="61">Wrangler®                                         </option>
 	
-				<option value="219">Wrangler® PBR™                                    </option>
-	
-				<option value="218">Wrangler® Riata™                                  </option>
-	
-				<option value="220">Wrangler®Classic                                  </option>
+				<option value="247">Wrangler® Aura™                                   </option>
 	
 			</select>
 		</td>
@@ -417,6 +415,7 @@ function popUpEmail(form){
 			<a href="http://www.cavenders.com/dept.asp?dept%5Fid=65&amp;sblid=botgifts" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:blue; text-decoration:underline">Great Gift Ideas</a>
 			<br><br>
 			<a href="http://www.cavenders.com/fitchart.asp?sblid=botfitchart" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:blue; text-decoration:underline">Fit Chart</a>&nbsp; <strong>·</strong>&nbsp;
+			<a href="http://www.cavenders.com/sitemap.asp?sblid=botsitemap" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:blue; text-decoration:underline">Site Map</a>&nbsp; <strong>·</strong>&nbsp;
 			<a href="http://www.cavenders.com/about.asp?sblid=botabout" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:blue; text-decoration:underline">About	Us</a>&nbsp; <strong>·</strong>&nbsp;
 			<a href="http://www.cavenders.com/storelist.asp?sblid=botstorelist" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:blue; text-decoration:underline">Store Locator&nbsp;</a> <strong>·</strong>&nbsp;
 			<a href="http://www.cavenders.com/orderinfo.asp?sblid=botorderinfo" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:blue; text-decoration:underline">Order Information</a>&nbsp; <strong>·</strong>&nbsp;
@@ -431,7 +430,7 @@ function popUpEmail(form){
 			<a href="http://www.cavenders.com/contactus.asp?sblid=botcontact" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:blue; text-decoration:underline">Contact Us</a>&nbsp; <strong>·</strong>&nbsp;
 			<a href="http://www.cavenders.com/faqlist.asp?sblid=botfaq" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:blue; text-decoration:underline">FAQ</a>
 			<br><br>
-			Copyright © 2004 Cavender's Out of State Store's LTD<br>
+			Copyright © 2005 Cavender's Out of State Store's LTD<br>
 			<a href="http://www.netxcel.com" target="_blank"><img src="images/netxcel_link.gif" alt="Website by NetXcel" width="200" height="15" border="0"></a>
 		</td>
 	</tr>
