@@ -359,4 +359,610 @@ document[imgName].src = eval(imgName + "_off.src");
 
 
 
+</body></html><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!--@@TITLE@@-->
+<title>Privacy Policy</title>
+<!--@@@@TITLE-->
+	
+	<!--
+		copyright 1999, eFax.com
+		code and artwork by paper(media), llc of san francisco.
+		http://www.papermedia.com
+	-->
+<!--@@TEMPLATE file=home.html@@--><!--@@@@-->
+
+<!--@@SCRIPTINCLUDE@@-->
+<script>
+section = 1;
+/* ***** REFERENCE *****
+	signup 		= 0
+	home 		= 1
+	products	= 2
+	myaccount	= 3
+	help		= 4
+*/
+</script>
+<!--@@@@SCRIPTINCLUDE-->
+
+<script> var relative = ""; var ads = "_noad";</script>
+<script language="JavaScript">
+<!--
+
+// global state & browser variables
+var ok = document.images ? 1:0;
+var ready = false;
+var prev_num = null;
+var prev_ref = "";
+
+// these vars passed in from the HTML
+if ( typeof( home ) == "undefined" )
+    home = 0;
+if ( typeof( section ) == "undefined" )
+    section = 1;
+if ( typeof( pageid ) == "undefined" )
+    pageid = 1;
+if ( typeof( relative ) == "undefined" )
+    relative = "";  
+if ( typeof( ads ) == "undefined" )
+    ads = "_noad";
+if ( typeof( cType ) == "undefined" )
+    cType = null;
+
+// images arrays
+var sideNavOff = new Array(5);
+var sideNavOn = new Array(5);
+var navLines = new Array(5);
+var secNavIcons = new Array(5);
+var secNavLinks = new Array(5);
+var secNavLocations = new Array(8);
+var topLinks = new Array(2);
+var names = new Array("signup", "home", "products", "account", "help", "partner", "contact", "about");
+
+// links arrays
+var blank = new Array(24);
+
+// begin explicit initialization of links arrays
+
+// signup
+var signup = new Array(24);
+var sec_signup = new Array( 4 );
+var sec_signup_icon = new Array( 4 );
+var sec_signup_alts = new Array( 4 );
+sec_signup[0] = "/signup/free_signup.html";
+sec_signup_icon[0] = 1;
+sec_signup_alts[0] = "Free";
+sec_signup[1] = "/signup/pl_signup.html";
+sec_signup_icon[1] = 2;
+sec_signup_alts[1] = "Plus";
+sec_signup[2] = "/signup/tf_signup.html";
+sec_signup_icon[2] = 3;
+sec_signup_alts[2] = "Toll-Free";
+sec_signup[3] = "/signup/all_signup.html";
+sec_signup_icon[3] = 4;
+sec_signup_alts[3] = "Plus & Toll-Free";
+signup[0] = sec_signup[0];
+signup[1] = sec_signup[0];
+signup[2] = sec_signup[0];
+signup[3] = sec_signup[1];
+signup[4] = sec_signup[1];
+signup[5] = sec_signup[1];
+signup[6] = sec_signup[2];
+signup[7] = sec_signup[2];
+signup[8] = sec_signup[2];
+signup[9] = sec_signup[2];
+signup[10] = sec_signup[3];
+signup[11] = sec_signup[3];
+signup[12] = sec_signup[3];
+signup[13] = sec_signup[3];
+signup[14] = sec_signup[3];
+signup[15] = sec_signup[3];
+signup[16] = "#";
+signup[17] = "#";
+signup[18] = "#";
+signup[19] = "#";
+signup[20] = "#";
+signup[21] = "#";
+signup[22] = "#";
+signup[23] = "#";
+
+
+// Help
+var help = new Array(24);
+var sec_help = new Array( 6 );
+var sec_help_icon = new Array( 6 );
+var sec_help_alts = new Array( 6 );
+sec_help[0] = "/help/index.html";
+sec_help_icon[0] = 1;
+sec_help_alts[0] = "Update";
+sec_help[1] = "/help/start.html";
+sec_help_icon[1] = 2;
+sec_help_alts[1] = "Getting Started";
+sec_help[2] = "/help/faqs.html";
+sec_help_icon[2] = 3;
+sec_help_alts[2] = "Questions & Answers";
+sec_help[3] = "/help/howto.html";
+sec_help_icon[3] = 4;
+sec_help_alts[3] = "How To";
+sec_help[4] = "/help/sysreq.html";
+sec_help_icon[4] = 5;
+sec_help_alts[4] = "System Requirements";
+sec_help[5] = "/help/glossary.html";
+sec_help_icon[5] = 6;
+sec_help_alts[5] = "Glossary";
+help[0] = sec_help[0];
+help[1] = sec_help[0];
+help[2] = sec_help[0];
+help[3] = sec_help[1];
+help[4] = sec_help[1];
+help[5] = sec_help[1];
+help[6] = sec_help[1];
+help[7] = sec_help[2];
+help[8] = sec_help[2];
+help[9] = sec_help[2];
+help[10] = sec_help[2];
+help[11] = sec_help[2];
+help[12] = sec_help[2];
+help[13] = sec_help[3];
+help[14] = sec_help[3];
+help[15] = sec_help[4];
+help[16] = sec_help[4];
+help[17] = sec_help[4];
+help[18] = sec_help[4];
+help[19] = sec_help[4];
+help[20] = sec_help[4];
+help[21] = "#";
+help[22] = sec_help[5];
+help[23] = sec_help[5];
+
+// products
+var products = new Array(24);
+var sec_products = new Array( 7 );
+var sec_products_icon = new Array( 7 );
+var sec_products_alts = new Array( 7 );
+sec_products[0] = "/products";
+sec_products_icon[0] = 1;
+sec_products_alts[0] = "Overview";
+sec_products[1] = "/products/free";
+sec_products_icon[1] = 2;
+sec_products_alts[1] = "Free";
+sec_products[2] = "/products/plus";
+sec_products_icon[2] = 3;
+sec_products_alts[2] = "Plus";
+sec_products[3] = "/products/tollfree";
+sec_products_icon[3] = 4;
+sec_products_alts[3] = "Toll-Free";
+sec_products[4] = "/products/all";
+sec_products_icon[4] = 5;
+sec_products_alts[4] = "Plus & Toll-Free";
+sec_products[5] = "/products/voice";
+sec_products_icon[5] = 6;
+sec_products_alts[5] = "Voice";
+sec_products[6] = "/need";
+sec_products_icon[6] = 7;
+sec_products_alts[6] = "Software";
+products[0] = sec_products[0];
+products[1] = sec_products[0];
+products[2] = "#";
+products[3] = sec_products[1];
+products[4] = sec_products[1];
+products[5] = sec_products[1];
+products[6] = sec_products[2];
+products[7] = sec_products[2];
+products[8] = sec_products[2];
+products[9] = sec_products[3];
+products[10] = sec_products[3];
+products[11] = sec_products[3];
+products[12] = sec_products[3];
+products[13] = sec_products[4];
+products[14] = sec_products[4];
+products[15] = sec_products[4];
+products[16] = sec_products[4];
+products[17] = sec_products[4];
+products[18] = "#";
+products[19] = sec_products[5];
+products[20] = sec_products[5];
+products[21] = sec_products[6];
+products[22] = sec_products[6];
+products[23] = sec_products[6];
+
+
+// about us
+var sec_about = new Array(6);
+var sec_about_icon = new Array( 6 );
+var sec_about_alts = new Array( 6 );
+sec_about[0] = "/aboutus";
+sec_about_icon[0] = 6;
+sec_about_alts[0] = "Overview";
+sec_about[1] = "/aboutus/pr";
+sec_about_icon[1] = 1;
+sec_about_alts[1] = "Public Relations";
+sec_about[2] = "http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=efax&script=2100";
+sec_about_icon[2] = 2;
+sec_about_alts[2] = "Investors";
+sec_about[3] = "/aboutus/jobs";
+sec_about_icon[3] = 3;
+sec_about_alts[3] = "Jobs";
+sec_about[4] = "/aboutus/products.html";
+sec_about_icon[4] = 4;
+sec_about_alts[4] = "Additional Products";
+sec_about[5] = "/aboutus/menlopark.html";
+sec_about_icon[5] = 5;
+sec_about_alts[5] = "Directions";
+
+// contact us
+var sec_contact = new Array(5);
+var sec_contact_icon = new Array( 5 );
+var sec_contact_alts = new Array( 5 );
+sec_contact[0] = "/contactus";
+sec_contact_icon[0] = 1;
+sec_contact_alts[0] = "eFax Services";
+sec_contact[1] = "/contactus/corporate.html";
+sec_contact_icon[1] = 5;
+sec_contact_alts[1] = "Corporate";
+sec_contact[2] = "/contactus/pr.html";
+sec_contact_icon[2] = 3;
+sec_contact_alts[2] = "Public Relations";
+sec_contact[3] = "/contactus/investor.html";
+sec_contact_icon[3] = 4;
+sec_contact_alts[3] = "Investor";
+sec_contact[4] = "/contactus/hardware.html";
+sec_contact_icon[4] = 2;
+sec_contact_alts[4] = "Hardware";
+
+// partner
+var sec_partner = new Array(4);
+var sec_partner_icon = new Array( 4 );
+var sec_partner_alts = new Array( 4 );
+sec_partner[0] = "/partners";
+sec_partner_icon[0] = 1;
+sec_partner_alts[0] = "Overview";
+sec_partner[1] = "/partners/affiliate.html";
+sec_partner_icon[1] = 2;
+sec_partner_alts[1] = "Affiliate";
+sec_partner[2] = "/partners/premiere.html";
+sec_partner_icon[2] = 4;
+sec_partner_alts[2] = "Premiere";
+sec_partner[3] = "/partners/advertise.html";
+sec_partner_icon[3] = 5;
+sec_partner_alts[3] = "Advertise";
+
+function msieversion()
+// return Microsoft Internet Explorer (major)
+// version number, or 0 for others.
+// This function works by finding the "MSIE "
+// string and extracting the version number
+// following the space, up to the decimal point
+// for the minor version, which is ignored.
+{
+    var ua = window.navigator.userAgent
+    var msie = ua.indexOf ( "MSIE " )
+    if ( msie > 0 )      // is Microsoft Internet Explorer; return version number
+       return parseInt ( ua.substring ( msie+5, ua.indexOf ( ".", msie ) ) )
+    else
+       return 0          // is other browser
+}
+
+
+
+// the accounts array is passed in to the script
+
+// end links arrays initialization
+	
+function init() {
+
+    // look for good verson of ie
+    var msie = msieversion()
+    if ( msie < 4 && msie > 0 )
+        return;
+
+    if ( home != 1 )
+        names[1] = "home2";
+
+   	prev_num = section;
+	prev_ref = names[prev_num];
+
+    var tmpsection = prev_num;
+    if ( tmpsection > 4 )
+        tmpsection = 1;      // set the section to home if we doing one of the global navs
+
+	if (ok) {
+		// preload images
+		for (var i=0; i<5; i++) {
+
+            // side nav buttons
+			sideNavOff[i] = new Image();
+			sideNavOff[i].src = relative + "/images/nav/sidenav_" + names[i] + "_off.gif";
+			sideNavOn[i] = new Image();
+			sideNavOn[i].src = relative + "/images/nav/sidenav_" + names[i] + "_on.gif";
+
+            // nav lines
+			navLines[i] = new Image();
+            if ( tmpsection == 1 && home == 1 )     // load all for home page
+    			navLines[i].src = relative + "/images/nav/navline_" + names[i] + ".gif";
+            else if ( tmpsection == i )     // or just the section we need
+    			navLines[i].src = relative + "/images/nav/navline_" + names[i] + "_level2" + ads + ".gif";
+
+            // secondary nav icon, only load all of them for the home page otherwise just the one we need
+            if ( home == 1 || tmpsection == i ) {
+			    secNavIcons[i] = new Image();
+			    secNavIcons[i].src = relative + "/images/nav/secnav_" + names[i] + "_icon.gif";
+            }
+
+            // secondary nav bar, only need for home
+            if ( home == 1 ) {
+			    secNavLinks[i] = new Image();
+    			secNavLinks[i].src = relative + "/images/nav/secnav_" + names[i] + "_links.gif";
+            }        
+		}
+		topLinks[0] = new Image();
+		topLinks[1] = new Image();
+		topLinks[0].src = relative + "/images/nav/top_bar_right_off.gif";
+		topLinks[1].src = relative + "/images/nav/top_bar_right_on.gif";
+	}
+    
+    document.images.navline.src = navLines[tmpsection].src;
+	document.images.secnav_icon.src = secNavIcons[tmpsection].src;
+    eval("document.images.sidenav_" + names[tmpsection] + ".src = sideNavOn[tmpsection].src");
+    
+    // only the home page uses this sort of sec nav
+    if ( home == 1)
+    	document.images.secnav_links.src = secNavLinks[section].src;
+
+    for ( var i=0 ; i<24 ; i++ )
+        blank[i] = "#";
+
+	secNavLocations[0] = signup;
+	secNavLocations[1] = blank;
+	secNavLocations[2] = products;
+   	secNavLocations[3] = blank;
+	secNavLocations[4] = help;
+
+    ready = true;
+}
+
+function gotoPage(num) {
+
+    if ( secNavLocations[prev_num][num] != "#" )
+    	window.location = secNavLocations[prev_num][num]
+}
+
+function navOn(ref, num) {
+	if(ok && ready) {
+		if (prev_num != section)
+			eval("document.images.sidenav_" + prev_ref + ".src = sideNavOff[prev_num].src");
+		eval("document.images.sidenav_" + ref + ".src = sideNavOn[num].src");
+
+        // only do for the home page
+        if ( home == 1 ) {
+    		document.images.navline.src = navLines[num].src 
+	    	document.images.secnav_icon.src = secNavIcons[num].src
+		    document.images.secnav_links.src = secNavLinks[num].src
+        }
+
+		prev_num = num;
+		prev_ref = ref;
+	}
+}
+
+function swapTop(nameRef, state) {
+	if(ok && ready) {
+		eval("document.images." + nameRef + ".src = \"" + relative + "/images/nav/topnav_" + nameRef + "_" + state +".gif\"")
+	}
+}
+// -->
+</script>
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0033cc" vlink="#9933cc" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" onload="init()">
+<!-- begin top bar table -->
+<table border="0" cellpadding="0" cellspacing="0" width="651">
+<tbody><tr>
+	<td><img src="/images/nav/top_left.gif" width="384" height="12" alt="" border="0"></td>
+	<td><a href="/contactus" onmouseover="swapTop('contact', 'on')" onmouseout="swapTop('contact', 'off')"><img src="/images/nav/topnav_contact_off.gif" width="71" height="12" alt="Contact Us" border="0" name="contact"></a></td>
+	<td><a href="/partners" onmouseover="swapTop('partners', 'on')" onmouseout="swapTop('partners', 'off')"><img src="/images/nav/topnav_partners_off.gif" width="62" height="12" alt="Partners" border="0" name="partners"></a></td>
+	<td><a href="/aboutus" onmouseover="swapTop('about', 'on')" onmouseout="swapTop('about', 'off')"><img src="/images/nav/topnav_about_off.gif" width="64" height="12" alt="About Us" border="0" name="about"></a></td>
+	<td><a href="/sitemap" onmouseover="swapTop('sitemap', 'on')" onmouseout="swapTop('sitemap', 'off')"><img src="/images/nav/topnav_sitemap_off.gif" width="70" height="12" alt="Site Map" border="0" name="sitemap"></a></td>
+</tr>
+<tr>
+	<td><img src="/images/nav/top_bottom_left2.gif" width="384" height="59" alt="eFax.com Home" border="0" ismap="" usemap="#top_bottom_leftMap"></td>
+	<td colspan="3"><img src="/images/nav/top_bottom_middle.gif" width="197" height="59" alt="" border="0" ismap="" usemap="#top_bottom_middleMap"></td>
+	<td><!--@@URLSIGNUPFREENON@@--><a href="/signup/free_signup.html"><!--@@@@--><img src="/images/nav/top_bottom_right.gif" width="70" height="59" alt="Sign Up Now!" border="0"></a></td>
+</tr>
+</tbody></table>
+<!-- end top bar table -->
+<!-- begin secondary nav, banner, and content area table -->
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tbody><tr>
+	<!-- begin <td> for side nav and login -->
+	<td valign="top" width="114" bgcolor="#ebebeb">
+		<!-- begin side nav rollover table -->
+		<table border="0" cellpadding="0" cellspacing="0" width="114">
+			<tbody><tr>
+				<td><img src="/images/nav/sidenav_top_level2.gif" width="114" height="42" alt="" border="0"></td>
+			</tr>
+			<tr>
+				<td><a href="/" onmouseover="navOn('home2',1)"><img src="https://web.archive.org/images/nav/sidenav_home2_on.gif" width="114" height="44" alt="eFax.com Home" border="0" name="sidenav_home2"></a></td>
+			</tr>
+			<tr>
+				<td><a href="/signup/free_signup.html" onmouseover="navOn('signup',0)"><img src="/images/nav/sidenav_signup_off.gif" width="114" height="44" alt="Sign Up" border="0" name="sidenav_signup"></a></td>
+			</tr>
+			<tr>	
+				<td><a href="/products" onmouseover="navOn('products',2)"><img src="/images/nav/sidenav_products_off.gif" width="114" height="44" alt="Products" border="0" name="sidenav_products"></a></td>
+			</tr>
+			<tr>
+				<td><a href="http://www.efax.com/login" onmouseover="navOn('account',3)"><img src="/images/nav/sidenav_account_off.gif" width="114" height="44" alt="Log In" border="0" name="sidenav_account"></a></td>
+			</tr>
+
+        <!-- No store
+			<tr>
+				<td><a href="#" onMouseOver="navOn('store',xxx)"><img 
+				src="/images/nav/sidenav_store_off.gif" width=114 height=44 alt="Store" border="0" name="sidenav_store"></a></td>
+			</tr>
+        -->
+
+			<tr>
+				<td><a href="/help" onmouseover="navOn('help',4)"><img src="/images/nav/sidenav_help_off.gif" width="114" height="44" alt="Help" border="0" name="sidenav_help"></a></td>
+			</tr>
+
+            <!-- store replacement -->
+		    <tr>
+    			<td><img src="/images/nav/sidenav_bottom.gif" width="114" height="44" alt="" border="0"></td>
+		    </tr>
+		</tbody></table>
+		<!-- end side nav rollover table -->
+	</td>
+	<!-- end <td> for side nav and login -->
+	<!-- this <td> contains the rollover lines -->
+	<td valign="top" width="12"><img src="https://web.archive.org/images/nav/navline_home2_level2_noad.gif" width="12" height="308" alt="" border="0" name="navline">
+	</td>
+	<td valign="top" width="523">
+	<!-- secondary nav -->
+		<table border="0" cellpadding="0" cellspacing="0" width="523">	
+			<tbody><tr>
+				<td align="left"><img src="https://web.archive.org/images/nav/secnav_home2_icon.gif" width="44" height="42" alt="" border="0" name="secnav_icon"></td>
+				<td><script language="JavaScript">
+<!--
+
+if ( typeof( section ) != "undefined" && section != null ) {
+    var slinks, sicons, salts;
+    if ( section != 1 && ( section != 3 || cType != null ) ) {      // watch out for account section but not logged in yet
+        eval( "slinks = sec_" + names[section] );
+        eval( "sicons = sec_" + names[section] + "_icon" );
+        eval( "salts = sec_" + names[section] + "_alts" );
+
+        var ison = "";
+        for ( var i=0 ; i<slinks.length ; i++ ) {
+            if ( sicons[i] == pageid )
+                ison = "_on";
+            else
+                ison = "";
+
+            if ( i != 0 )
+                document.write( "<img src='" + relative + "/images/nav/secnav_divider.gif'>" );
+            document.write( "<a href='" + slinks[i] + "'>" );
+            document.write( "<img src='" + relative + "/images/nav/secnav_" + names[section] + "_" + sicons[i] + ison + ".gif' alt='" + salts[i] +"' border='0'></a>" );
+        }
+    }
+}
+
+
+// -->
+</script></td>
+			</tr>
+            <tr><td><img src="/images/misc/space.gif" height="15" width="1" border="0"></td></tr>
+		</tbody></table>
+		<!-- end secondary nav -->
+		<!-- begin content area -->
+
+<!--begin content-->
+<!--@@BODY@@-->
+<font face="Arial,Helvetica">
+<font size="-1">
+Your privacy is very important to us. However, we collect and, in some cases, disclose information about you as part of the normal operation of our site. This Privacy Policy describes the information we collect about you and what may happen to that information. As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the user agreement, you expressly consent to such use and disclosure of your personally identifiable and other personal information. 
+</font>
+<p>
+<b>Information About You</b><br>
+<font size="-1">
+We ask you to provide information when you register for the eFax.com services. This information includes your name and email address, while other information such as mailing address and phone number remain optional. 
+</font></p><p><font size="-1">
+It is eFax.com's policy to respect the privacy of its members. Although we do not sell or rent any personally identifiable information about you to any third party, we may, in certain cases where you access our site from other third party sites, release your email address to such third party. We do not disclose certain pieces of information, such as your password, PIN, or eFax number at all. We may aggregate personally identifiable information and disclose such information to third parties in aggregate for a number of business purposes, including running an enhancing the services, but in these situations we do not disclose to other entities any information that could be used to personally identify you. Also, we may use information about you to provide you with ads or offers from advertisers that we think may be relevant to you, but in these cases we do not disclose any personally identifiable information about you to third parties. 
+</font></p><p><font size="-1">
+In the course of using our site and our services, we automatically track certain information about you. This information may include the number and source of fax transmissions, the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. We use this information in the normal operation of the site and we may disclose this information on an aggregated basis. 
+</font></p><p><font size="-1">
+We use cookies on our site. Cookies are stored on your hard drive, not on our site. You are always free to decline our cookies if your browser permits, although you may miss out on some shortcuts, automation, special promotions and the like.
+</font></p><p><font size="-1">
+If you send us correspondence, such as emails or letters, or if other users or third parties send us correspondence about your use of our services, we may collect such information into a file specific to you. We use information in the file we maintain about you, and other information we obtain from your current and past use of the service, to resolve disputes, troubleshoot problems and enforce our user agreement. 
+</font>
+</p><p>
+<b>The Content of Your Transmissions</b><br>
+<font size="-1">
+eFax.com acts as a passive conduit for the distribution and receipt of your fax transmissions and therefore will not monitor, edit, or disclose the contents of a Member's private communications unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on eFax.com; (2) protect and defend the rights or property of eFax.com; or (3) act under exigent circumstances to protect the personal safety of its members or the public. Member should also be aware (and hereby agrees) that certain technical processing of and access to fax and email messages and their content, eFax.com may be required to: (a) route the messages; (b) conform to connecting networks' technical requirements; (c) conform to the limitations of the Service; or (d) conform to other similar requirements. 
+</font></p><p><font size="-1">
+eFax.com will store your personal transmissions on its servers for a limited time and will endeavor to purge old transmissions from its servers when the expiration period has run (one to three days for standard service, and up to thirty days for premium services). We use industry-standard efforts to safeguard the confidentiality of your transmissions (as well as your personally identifiable information), such as firewalls and SSL technology. These are the same technologies that most websites use to safeguard credit card information and other personal information. However, that said, "perfect security" does not exist on the Internet (or anywhere, for that matter.) 
+</font>
+</p><p>
+<b>Your Email Address</b><br>
+<font size="-1">
+As part of our service, we will send to you your incoming fax transmissions, but in addition we may send to you periodic emails containing information about us, updates on new service features, service usage tips, information about third party services that are likely to be of interest to our members, and member satisfaction questions. For now, we think we will send about 3-4 such email(s) per month. If you do not want to receive these emails, at any time you can cancel your service notifying us via our <a href="/contactus">eFax.com support form</a> that you wish to cancel your account. In addition to the periodic emails, we may use your email address to send you administrative notices about your account (such as notices about pending activities). 
+</font>
+</p><p>
+<b>Third Party Collectors of Information</b><br>
+<font size="-1">
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since we do not control the privacy policies of third parties, we encourage you to ask questions before you disclose your personal information to others. 
+</font>
+</p><p>
+<b>Nondisclosure Can't Be Guaranteed</b><br>
+<font size="-1">
+Unfortunately (and notwithstanding anything to the contrary in this policy), due to the existing regulatory and technical environment, we cannot guarantee that all of your communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access your transmissions or communications. Further, we can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or communications will remain private.  
+</font>
+</p><p>
+<b>Junk Faxes</b><br>
+<font size="-1">
+Finally, it is our intention to use legally available means to prevent distribution and receipt of unsolicited commercial faxes ("junk faxes") through the service, and we specifically restrict members from taking any actions which impose an unreasonable or disproportionately large load on eFax.com resources. We would like to ask that any member that is annoyed by receipt of such junk faxes, please report such activity to eFax.com via our eFax.com support form so that we can attempt to prevent further junk faxes from the same source. 
+</font></p></font><p><font face="Arial,Helvetica"><font size="-1"><br>
+</font>
+</font>
+<!--@@@@-->
+<!--end content-->
+<!-- end content area -->
+	</p></td>
+</tr>
+<tr><td><img src="/images/misc/space.gif" height="15" width="1"></td></tr>
+
+
+
+<!-- footer -->
+
+<tr><td colspan="3">
+
+	<center>
+
+	<font face="arial,helvetica" size="-2" color="#0033cc">
+
+	<a href="/signup/free_signup.html">sign up</a> | <a href="/">home</a> | <a href="/products">products</a> | <a href="/need">software</a> | <a href="/login">my account</a> | <a href="/help">help</a> | <a href="/contactus">contact us</a> | <a href="/partners">partners</a> | <a href="/aboutus">about us</a> | <a href="/sitemap">site map</a> <br> <a href="/terms.html">terms of service</a> | <a href="/privacy.html">privacy policy</a>
+
+    <br><br>© 1999 eFax.com. All rights reserved.
+
+	</font>
+
+	</center>
+
+</td></tr>
+
+
+
+</tbody></table>
+
+
+<map name="topNav">
+<area shape="rect" coords="0,0,67,11" href="#" onmouseover="swapTop(1)" onmouseout="swapTop(0)"><!-- contact us -->
+
+<area shape="rect" coords="68,0,131,11" href="#" onmouseover="swapTop(1)" onmouseout="swapTop(0)"><!-- partners -->
+
+<area shape="rect" coords="132,0,193,11" href="#" onmouseover="swapTop(1)" onmouseout="swapTop(0)"><!-- about us -->
+
+<area shape="rect" coords="194,0,264,11" href="#" onmouseover="swapTop(1)" onmouseout="swapTop(0)"><!-- site map -->
+
+</map>
+
+<map name="top_bottom_leftMap"> 
+
+ <area shape="rect" coords="0,-7,191,42" href="http://www.efax.com/"> 
+
+ <area shape="rect" coords="190,19,385,41" href="/signup/free_signup.html"> 
+
+</map> 
+
+
+<map name="top_bottom_middleMap"> 
+
+ <area shape="rect" coords="-21,20,124,40" href="/signup/free_signup.html"> 
+
+</map> 
+
+
+<!-- end page container table -->
+
+
 </body></html>
