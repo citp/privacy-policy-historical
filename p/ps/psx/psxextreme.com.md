@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413072929id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204130433id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
 
 # PSX Extreme - Privacy Policy -
 
 | 
 
-**Playstation  
+** Playstation  
   [News](http://www.psxextreme.com/scripts/news/news.asp)   
   [Previews](http://www.psxextreme.com/scripts/previews/previews.asp)   
   [Reviews](http://www.psxextreme.com/scripts/reviews/reviews.asp)   
   [Cheats](http://www.psxextreme.com/scripts/cheats/cheats.asp)   
   [Walkthroughs](http://www.psxextreme.com/scripts/guides/guides.asp)   
   [Screenshots](http://www.psxextreme.com/scripts/scrs/scrs.asp) **  
-**Playstation 2    
+** Playstation 2    
 ****   [News](http://www.psxextreme.com/scripts/news2/news.asp)   
   [Previews](http://www.psxextreme.com/scripts/previews2/previews.asp)   
   [Reviews](http://www.psxextreme.com/scripts/reviews2/reviews.asp)   
@@ -21,12 +21,16 @@
 ](http://www.psxextreme.com/scripts/advtrace/advtrace.asp?url=http://www.psxextreme.com/scripts/urevs2/urevs.asp) Other**   
 **   [Special/Features](http://www.psxextreme.com/scripts/misc/spec.asp)   
 ****   **[ **Release Dates**](http://www.psxextreme.com/home/release_dates.asp)  
-**   [Gaming Trivia  
+**   [Gaming Trivia  
 ](http://www.gamingtrivia.com/gt/home/default.asp?tr=psxmenu) ** ****
 
 * * *
 
-**** ****************|  |  |  |  | **Privacy Statement for PSX Extreme**  
+****** ****** **
+
+* * *
+
+**************|  |  |  |  | **Privacy Statement for PSX Extreme**  
 ---|---  
   
 PSX Extreme has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [PSX Extreme](http://www.psxextreme.com/)
@@ -108,13 +112,13 @@ If you have any questions about this privacy statement, the practices of this si
 
 
 |  |  |    
-  
 |  | 
 
 **Hot DVD Deal**
 
 |   
 ---|---|---  
-    
+  
+  
     
 
