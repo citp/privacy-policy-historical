@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2001-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/Acctpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2001-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/Acctpriv.htm) for the most accurate reproduction.*
 
 # Members 1st Federal Credit Union - Privacy Statement
 
-**Your Privacy**
-
-|  |   
----|---|---  
-  
 February 2001 
 
 Because information is an important part of our business, we understand the importance of the personal information you entrust to us. 
@@ -50,10 +45,10 @@ Attention TeleBranch
 P.O. Box 40  
 Mechanicsburg, PA 17055 
 
-Oor email us at accountinquiries@members1st.org and include their full name, address, and account number. 
+Or email us at accountinquiries@members1st.org and include their full name, address, and account number. 
 
 © 2001 Members 1st Federal Credit Union
 
-[Who We Are](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/history.htm) |[ Branches & ATMs](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/Branches.htm) | [News](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/newsmenu.htm) | [What's New](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/whatsnew.htm)  
-[Membership](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/mbrship.htm) | [Savings](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/deposits.htm) | [Loans](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/loanlist.htm) | [Rates](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/ratemenu.htm) | [Advantages](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/CONVENSV.HTM)   
-[A Great Employee Benefit](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/empleben.htm) | [Employment & Volunteer Opportunities](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/jobs.htm)
+[Who We Are](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/history.htm) |[ Branches & ATMs](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/Branches.htm) | [News](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/newsmenu.htm) | [What's New](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/whatsnew.htm)  
+[Membership](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/mbrship.htm) | [Savings](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/deposits.htm) | [Loans](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/loanlist.htm) | [Rates](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/ratemenu.htm) | [Advantages](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/CONVENSV.HTM)   
+[A Great Employee Benefit](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/empleben.htm) | [Employment & Volunteer Opportunities](https://web.archive.org/web/20010822155538id_/http%3A//www.members1st.org/jobs.htm)
