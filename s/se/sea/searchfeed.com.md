@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchfeed.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205063243id_/http%3A//searchfeed.com/rd/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchfeed.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207083815id_/http%3A//www.searchfeed.com/rd/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Searchfeed.com;Pay Per Click:internet marketing, online marketing, pay per click program, online advertising, ppc, pay per click advertising, pay per click search engine
 
