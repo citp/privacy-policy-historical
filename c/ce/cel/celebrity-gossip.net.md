@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-gossip.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607101119id_/http%3A//www.celebrity-gossip.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-gossip.net privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210233215id_/http%3A//www.celebrity-gossip.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Gossip
 
@@ -31,7 +31,12 @@ If you have any questions about this privacy statement, the practices of this si
 **Changes to This Online Privacy Policy**  
 We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this web site. We encourage you to review this privacy policy whenever you visit our web site to make sure you understand how we use the information we collect.
 
+Our Favorite Celebs: [Aaron Carter](http://www.celebrity-gossip.net/aaron_carter.php) | [Britney Spears](http://www.celebrity-gossip.net/britney-spears.php) | [Brittany Murphy](http://www.celebrity-gossip.net/brittany_murphy.php)  
+[Cameron Diaz](http://www.celebrity-gossip.net/cameron_diaz.php) | [Christina Aguilera](http://www.celebrity-gossip.net/christina_aguilera.php) | [Clay Aiken](http://www.celebrity-gossip.net/clay_aiken.php) | [Enrique Iglesias](http://www.celebrity-gossip.net/enrique_iglesias.php)  
+[Gwyneth Paltrow](http://www.celebrity-gossip.net/gwyneth_paltrow.php) | [Heath Ledger](http://www.celebrity-gossip.net/heath_ledger.php) | [Heidi Klum](http://www.celebrity-gossip.net/heidi_klum.php) | [Hilary Duff](http://www.celebrity-gossip.net/hilary-duff.php) | [Jake Gyllenhaal](http://www.celebrity-gossip.net/jake_gyllenhaal.php)  
+[Jamie Lynn Spears](http://www.celebrity-gossip.net/jamie_lynn_spears.php) | [Janet Jackson](http://www.celebrity-gossip.net/janet_jackson.php) | [Jennifer Lopez](http://www.celebrity-gossip.net/jennifer_lopez.php) | [Justin Timberlake](http://www.celebrity-gossip.net/justin_timberlake.php)  
+[Kate Hudson](http://www.celebrity-gossip.net/kate_hudson.php) | [Katie Holmes](http://www.celebrity-gossip.net/katie_holmes.php) | [Kelis](http://www.celebrity-gossip.net/kelis.php) | [Kelly Clarkson](http://www.celebrity-gossip.net/kelly_clarkson.php) | [Lindsay Lohan](http://www.celebrity-gossip.net/lindsay-lohan.php) | [Madonna](http://www.celebrity-gossip.net/madonna-news.php)  
+[Nick Carter](http://www.celebrity-gossip.net/nick_carter.php) | [Nick Lachey & Jessica Simpson](http://www.celebrity-gossip.net/nick_jessica.php) | [Orlando Bloom](http://www.celebrity-gossip.net/orlando_bloom.php)  
+[Paris Hilton](http://www.celebrity-gossip.net/paris_hilton.php) | [Tara Reid](http://www.celebrity-gossip.net/tara_reid.php) | [The Osbournes](http://www.celebrity-gossip.net/sharon_ozzy_osbourne.php) | [Viggo Mortensen](http://www.celebrity-gossip.net/viggo_mortensen.php) | [Vin Diesel](http://www.celebrity-gossip.net/vin_diesel.php)
+
 [Hot Gossip](https://web.archive.org/news.php) | [Movies](https://web.archive.org/movies.php) | [Music](https://web.archive.org/music.php) | [Television](https://web.archive.org/television.php) | [Reality TV](https://web.archive.org/reality-tv.php) | [The Royals](https://web.archive.org/royalty.php) | [Home](http://www.celebrity-gossip.net/)
-
-  
-
