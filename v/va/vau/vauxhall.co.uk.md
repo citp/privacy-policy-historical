@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vauxhall.co.uk privacy policy that was archived on 2003-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031215225811id_/http%3A//vauxhall.co.uk/terms/termsconditions.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vauxhall.co.uk privacy policy that was archived on 2004-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040205045712id_/http%3A//vauxhall.co.uk/terms/termsconditions.jhtml) for the most accurate reproduction.*
 
 # Vauxhall - Terms and Conditions of access
 
@@ -19,7 +19,7 @@ Vauxhall respects the privacy of every individual who visits the Site. This Clau
 Personal Data  
 Vauxhall will not collect any personally-identifiable information about you (that is, your name, address, telephone number, or email address) ("Personal Data") unless you provide it to us voluntarily. If you do not want your Personal Data collected, please do not submit it.   
 If you have already submitted Personal Data and would like it removed from our records, please contact us at the email address or phone number listed at the bottom of this Clause 4. We will use reasonable efforts to delete your information from our records.   
-If you provide Vauxhall with Personal Data it will store this information about you now and in the future for marketing purposes, market research, tracking of sales data, and in order to contact you. Vauxhall may also disclose this information within its international group of companies (the GM Group) and to its dealers and agents for the above purposes.   
+If you provide Vauxhall with Personal Data it will store this information about you now and in the future for marketing purposes, market research, tracking of sales data, and in order to contact you. Vauxhall may also disclose this information within its international group of companies (the GM Group, some of which are non-automotive) and to its dealers and agents for the above purposes.   
 Non-Personally-Identifiable Information Collected Automatically  
 In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement   
 Information We May Place Automatically On Your Computer's Hard Drive  
