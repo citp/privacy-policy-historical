@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadandtrack.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614200017id_/http%3A//aboutus.hfnm.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadandtrack.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206214007id_/http%3A//aboutus.hfnm.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ HFM U.S. will not knowingly collect personally identifiable information from kid
 
 > **User Provided Information**
 
-HFM U.S. does not collect any Personally Identifying Information such as name, address or e-mail address on its Web sites without the knowledge and consent of the individual concerned. Such information is collected through registration forms, games and contests and through voluntary online questionnaires that appear from time to time on some HFM U.S. Web sites. "Personally Identifying Information", or just “Personal Information,” includes your name, home or other address (like a school), e-mail address, telephone number, or any other information that may identify you or allow online or offline contact with you. 
+HFM U.S. does not collect any Personally Identifying Information such as name, address or e-mail address on its Web sites without the knowledge and consent of the individual submitting such information. Such information is collected through registration forms, games and contests and through voluntary online questionnaires that appear from time to time on some HFM U.S. Web sites. "Personally Identifying Information", or just “Personal Information,” includes your name, home or other address (like a school), e-mail address, telephone number, or any other information that may identify you or allow online or offline contact with you. 
 
 We may also ask you to provide other information about yourself such as your age, hobbies, likes, dislikes, etc. 
 
@@ -82,7 +82,7 @@ By providing Personal Information to this site, you understand and consent to th
 When you are on an HFM U.S. site you will have the opportunity to visit, or link to, other sites not operated by HFM U.S.. These sites, some of which are HFM U.S. advertisers and partners, may collect personally identifiable information about you. HFM U.S. does not control sites that are operated by others and is not responsible for the information practices of these sites and this privacy statement does not address the information practices of those web sites or advertisers.
 
 **HFM U.S.'s Right to Change this Policy**  
-HFM U.S. reserves the right to change or update this Privacy Policy, or any other HFM U.S. policy or practice, at any time without notice to any users of HFM U.S. Web sites. Any changes or updates will be effective immediately upon posting to the Web sites.
+HFM U.S. reserves the right to change or update this Privacy Policy, or any other HFM U.S. policy or practice, at any time and will notify users of such changes or updates by posting them on the Web sites. Any changes or updates will be effective immediately upon posting to the Web sites.
 
 **Security/Enforcement**  
 HFM U.S. will take reasonable steps to protect the security and integrity of all personal information provided to the HFM U.S. Web sites. However, due to the inherent nature of the Internet as an open global communications vehicle, HFM U.S. cannot guarantee that this information will be absolutely safe from intrusion by others, such as hackers. Any unauthorized access to or use of the HFM U.S. Web sites or information collected and maintained by the HFM U.S. Web sites should be immediately brought to the attention of HFM U.S. at the customer service e-mail address below. HFM U.S. will investigate, and if necessary take action to prevent or halt, any violation of this Privacy Policy of which it becomes aware.
@@ -99,7 +99,7 @@ Attention: Legal Department
 1633 Broadway, 40th Floor  
 New York, NY 10019  
 Phone: 212-767-5322  
-**privacy@hfnm.com**
+**[privacy@hfnm.com](mailto:privacy@hfnm.com)**
 
-**Effective Date: March 22, 2004**  
+**Effective Date: November 03, 2004**  
 
