@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingston.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613222852id_/http%3A//kingston.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingston.com privacy policy that was archived on 2001-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010202145300id_/http%3A//www.kingston.com/policy/privacy.asp) for the most accurate reproduction.*
 
 # Kingston Technology Company - Privacy Statement
 
@@ -16,11 +16,14 @@ The information we collect is used to improve the content of our Web page, used 
 
 **Updates and UnSubscribing**
 
-If you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address and telling us that you do not want to receive e-mail from our company. Simply put "REMOVE" in the subject line of your e-mail communication. 
+**Email**   
+If you do not want to receive e-mail from us in the future, please let us know by providing your email address at [www.kingston.com/signup/remove.asp](http://www.kingston.com/signup/remove.asp). 
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending email to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed. 
+**Postal Mail**   
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending email to [webmaster@kingston.com](mailto:webmaster@kingston.com). Please provide us with your exact name and address. We will be sure your name is removed. 
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. They also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending email to us at the above address. Please provide us with your correct phone number. We will be sure your name is removed. 
+**Telephone Number**   
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. They also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending email to us at [webmaster@kingston.com](mailto:webmaster@kingston.com). Please provide us with your correct phone number. We will be sure your name is removed. 
 
 **Your Consent**
 
