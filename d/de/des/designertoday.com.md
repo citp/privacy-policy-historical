@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designertoday.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202161508id_/http%3A//www.tiemdesign.com/Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designertoday.com privacy policy that was archived on 2004-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040212154655id_/http%3A//www.tiemdesign.com/Policy.htm) for the most accurate reproduction.*
 
-# Privacy Statement for TIEMdesign- The Graphic Design Magazine
+# 
 
 **Privacy Statement for TIEMdesign- The Graphic Design Magazine  
 **   
@@ -32,4 +32,4 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We use explicit permissions on any stored information (ASP session logs, contest databases, etc.). We also incorporate proactive intrusion detection and tracing of attempted breaches of the system and server.
 
 **Contacting the Web Site  **  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact us](https://web.archive.org/web/20031202161508id_/http%3A//www.tiemdesign.com/sections/information.htm).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact us](https://web.archive.org/web/20040212154655id_/http%3A//www.tiemdesign.com/sections/information.htm).
