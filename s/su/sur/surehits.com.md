@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surehits.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602194653id_/http%3A//www.surehits.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surehits.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207204950id_/http%3A//www.surehits.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Surehits.com - Privacy Policy
 
