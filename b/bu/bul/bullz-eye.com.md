@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214165302id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602141708id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
 
 # Bullz-eye.com - Guy's Portal to the Web
 
@@ -7,7 +7,7 @@
   
 We at Bullz-Eye.com take your right to privacy seriously. The following discloses our information-gathering and dissemination practices for the Bullz-Eye.com site and any affiliated site. 
 
-Bullz-Eye only collects personal information from a user when the user chooses to give it to us by registering with the site, entering a Bullz-Eye contest or registering for free email on Bullz-Eye. Bullz-Eye will use email addresses to inform registered users of new content, contests, news and other information selected by our editors, unless the user specifically requests to not receive these messages. 
+Bullz-Eye only collects personal information from a user when the user chooses to give it to us by registering with the site, entering a Bullz-Eye contest or registering for free email on Bullz-Eye. Bullz-Eye will use email addresses to inform registered users of new content, contests, news and other information selected by our editors, unless the user specifically requests to not receive these messages. Bullz-Eye will also use email addresses from time to time to deliver email messages from our partners, advertisers and sponsors. In such event the email will disclose that the recipient is receiving the email from Bullz-Eye because the recipient is a registered user.
 
 Users may opt-out of receiving future mailings by sending an email to [webmaster@bullz-eye.com](mailto:webmaster@bullz-eye.com). 
 
