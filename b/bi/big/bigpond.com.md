@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpond.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204204253id_/http%3A//telstra.com/res/docs/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpond.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionstatement.asp) for the most accurate reproduction.*
 
 # Telstra Privacy Statement
 
@@ -6,18 +6,18 @@ Telstra is committed to providing you with the highest levels of customer servic
 
 This statement, called "Protecting Your Privacy Online", sets out important information about privacy protections which we extend to your personal information. It relates to personal information that you provide to us through our websites (eg when you subscribe to our services online).
 
-[How we collect personal information](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy1)  
-[How we use your personal information](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy2)  
-[Telstra Websites](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy3)  
-[Personal information collected from our websites](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy4)  
-[Other information](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy5)  
-[When we disclose your personal information](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy6)  
-[Help us to ensure we hold accurate information](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy7)  
-[You can access your personal information](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy8)  
-[Security of your information](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy9)  
-[Childrens’ privacy](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy10)  
-[What else you should know about privacy](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy11)  
-[How to contact us](https://web.archive.org/web/20021203062014id_/http://telstra.com/res/docs/collectionStatement.asp#Privacy12)
+[How we collect personal information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy1)  
+[How we use your personal information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy2)  
+[Telstra Websites](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy3)  
+[Personal information collected from our websites](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy4)  
+[Other information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy5)  
+[When we disclose your personal information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy6)  
+[Help us to ensure we hold accurate information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy7)  
+[You can access your personal information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy8)  
+[Security of your information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy9)  
+[Childrens’ privacy](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy10)  
+[What else you should know about privacy](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy11)  
+[How to contact us](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy12)
 
 For more detail on Telstra's approach to privacy generally, please refer to [Telstra's PRIVACY POLICY](http://www.telstra.com.au/privacy/)
 
@@ -26,23 +26,23 @@ For more detail on Telstra's approach to privacy generally, please refer to [Tel
 Telstra collects personal information in a number of ways, including: 
 
   * directly from you, such as when you enter your personal details on our websites (eg during registration or application for products and services), when you provide information by phone or in documents such as an application form; 
-  * from third parties such as our related companies, credit reporting agencies or your representatives; 
-  * from publicly available sources of information; 
-  * from the organisations identified below under "When we disclose your personal information"; 
-  * from our own records of how you use your Telstra services: or 
+  * from third parties such as our related companies, credit reporting agencies or your representatives;
+  * from publicly available sources of information;
+  * from the organisations identified below under "When we disclose your personal information";
+  * from our own records of how you use your Telstra services: or
   * when legally required to do so – for example, under the Telecommunications (Service Provider – Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000. 
 
 **How we use your personal information**
 
 Your personal information may be used to: 
 
-  * identify you and to assist you to subscribe to our website services more easily; 
-  * provide the services you require; 
-  * administer and manage those services, including charging, billing and collecting debts; 
+  * identify you and to assist you to subscribe to our website services more easily;
+  * provide the services you require;
+  * administer and manage those services, including charging, billing and collecting debts;
   * gain an understanding of your information and communication needs in order for us to provide you with better, more personalised services that are tailored to your needs; 
-  * inform you of ways the services provided to you could be improved; 
-  * conduct appropriate checks for credit-worthiness and for fraud; 
-  * research and develop our services; 
+  * inform you of ways the services provided to you could be improved;
+  * conduct appropriate checks for credit-worthiness and for fraud;
+  * research and develop our services;
   * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems; 
 
 
@@ -75,33 +75,33 @@ Telstra also uses [Red Sheriff Measurement](http://www.redsheriff.com/) and [Fac
 
 **When we disclose your personal information**
 
-For the purposes set out above (under “How we use your personal information”) we may disclose your personal information to organisations outside Telstra. Where appropriate, these disclosures are subject to privacy and confidentiality protections. The organisations to which we usually disclose information include: 
+For the purposes set out above (under 'How we use your personal information') we may disclose your personal information to organisations outside Telstra. Where appropriate, these disclosures are subject to privacy and confidentiality protections. The organisations to which we usually disclose information include: 
 
   * outsourced service providers who manage the services we provide to you, including: 
-    * customer enquiries; 
-    * mailing systems; 
-    * billing and debt-recovery functions; 
-    * information technology services; 
-    * installation, maintenance and repair services; 
-    * marketing,telemarketing and door-knocking services; 
-    * market research; 
-  * your representatives (eg your authorised representatives or legal advisers); 
-  * credit-reporting and fraud-checking agencies; 
-  * Credit providers for credit related purposes such as creditworthiness, credit rating, credit provision and financing; 
-  * our professional advisers, including our accountants, auditors and lawyers; 
-  * government and regulatory authorities and other organisations, as required or authorised by law; 
+    * customer enquiries;
+    * mailing systems;
+    * billing and debt-recovery functions;
+    * information technology services;
+    * installation, maintenance and repair services;
+    * marketing,telemarketing and door-knocking services;
+    * market research;
+  * your representatives (eg your authorised representatives or legal advisers);
+  * credit-reporting and fraud-checking agencies;
+  * Credit providers for credit related purposes such as creditworthiness, credit rating, credit provision and financing;
+  * our professional advisers, including our accountants, auditors and lawyers;
+  * government and regulatory authorities and other organisations, as required or authorised by law;
   * organisations involved in: 
-    * a transfer/sale of all or part of our assets or business (including accounts and trade receivables);and 
-    * managing our corporate risk and funding functions (eg securitisation); 
+    * a transfer/sale of all or part of our assets or business (including accounts and trade receivables);and
+    * managing our corporate risk and funding functions (eg securitisation);
   * other telecommunication and information service providers; and 
-  * our related companies. 
+  * our related companies.
 
 **Help us to ensure we hold accurate information**
 
 Telstra takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of the information we hold depends to a large extent on the information you provide. That’s why we recommend you: 
 
-  * let us know if there are any errors in your personal information; and 
-  * keep us up to date with changes to your personal information such as your name or address. 
+  * let us know if there are any errors in your personal information; and
+  * keep us up to date with changes to your personal information such as your name or address.
 
 
 
@@ -119,7 +119,7 @@ We take reasonable steps to ensure that your personal information is stored secu
 
 Credit card information is among the most important data we collect. Telstra operates secure servers to minimise the risk of unauthorised use of such information. Credit card information that is transmitted via our secure servers is encrypted in accordance with the highest standards over the EFTPOS network. For obvious reasons, please do not send credit card information through unsecured email. 
 
-**Childrens’ privacy**
+**Childrens' privacy**
 
 Childrens’ privacy is very important to us. We ask that children under the age of 18 have a parent or guardian verify their membership application with Telstra. While Telstra will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children's Internet usage. 
 
@@ -137,8 +137,8 @@ Click here to view the [Privacy Frequently Asked Questions](https://web.archive.
 
 If you have any questions in relation to privacy, please contact us on FREECALL™ 1800 039 059* between 9.00 am and 5.00 pm, Monday to Friday. Please note that this number is not for general service enquiries. Alternatively, you can: 
 
-  * use the [Contact Us](http://www.telstra.com.au/contact/email.cfm?page=22) page to send your questions and comments via email; or 
-  * write to our Privacy Manager, at Locked Bag 5782, Melbourne, VIC 8100. 
+  * use the [Contact Us](http://www.telstra.com.au/contact/email.cfm?page=22) page to send your questions and comments via email; or
+  * write to our Privacy Manager, at Locked Bag 5782, Melbourne, VIC 8100.
 
 
 
