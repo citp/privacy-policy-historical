@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205003636id_/http%3A//effcu.org/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602194038id_/http%3A//www.effcu.org/policy.asp) for the most accurate reproduction.*
 
-# Policy - Eastern Financial Credit Union
+# Eastern Financial Florida Credit Union
 
-**Privacy Statement**
-
+**Privacy Statement**  
 Eastern Financial Florida Credit Union (hereafter referred to as “EFFCU,” “we,” “us,” or “our”) respects the privacy and confidentiality of our members’ personal information. The terms “you” or “your” refers to our members or visitors to our web site. When you trust us with your personal information, you can be certain it will be used only in an appropriate manner. Information communicated electronically is safe, and is kept as secure as information obtained in person or by mail.
 
 The purpose of this policy statement is to explain what type of information EFFCU collects, how it is used, and with whom or under what circumstances it will be shared.
 
 **What Information We Collect**
 
-EFFCU may collect personal and confidential information about you from: (1) information we receive from you on applications or other loan and account forms; (2) information about your transaction with us or others: and, (3) information we receive from third parties such as credit bureaus.
+EFFCU may collect personal and confidential information about you from:(1)information we receive from you on applications or other loan and account forms;(2)information about your transaction with us or others: and,(3)information we receive from third parties such as credit bureaus.
 
 **How Is It Used**
 
-EFFCU collects, retains, and use your information only for specific business purposes to provide you with quality products and services, to enhance the security of your account, process your records, improve our products and services, and comply with laws and regulations
+EFFCU collects, retains, and use your information only for specific business purposes to provide you with quality products and services, to enhance the security of your account, process your records, improve our products and services, and comply with laws and regulations.
 
 **With Whom Is It Shared**
 
@@ -32,20 +31,20 @@ Our servers collect standard non-identifying information about our visitors to t
 
 **e-mail Communications**
 
-The Credit Union may use your e-mail address to send you important information relating to your account, to communicate with you to handle your request, and to inform you about other Credit Union products and services. Information you have provided to us will not be sold or transferred to other parties.
+The Credit Union may use your e-mail address to send you important information relating to your account, to communicate with you to handle your request, and to inform you about other Credit Union products and services. Information you have provided to us will not be sold or transferred to other parties.  
+
 
 Disclosure of information practices with regard  
 to children as required by the  
-Children's Online Privacy Protection Act
+Children's Online Privacy Protection Act  
 
 Personal information such as the name, address, e-mail address, telephone number, social security number, persistent identifier, or combination of various identifying elements, of children under the age of thirteen is not collected by EFFCU. If a child elects to send an e-mail or other electronic request to EFFCU, EFFCU may respond to that e-mail or request. However, the e-mail address of the child will be deleted and no personal information will be collected, stored or disclosed.
 
-**Questions or comments about this site should be directed to:**
-
+**Questions or comments about this site should be directed to:**  
 Eastern Financial Florida Credit Union  
 Marketing Services  
 P.O. Box 829514  
 South Florida, FL 33082-9514  
 
 
- 
+       
