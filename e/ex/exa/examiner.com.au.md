@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examiner.com.au privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003020511id_/http%3A//www.examiner.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.com.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604180335id_/http%3A//www.examiner.com.au/privacy.asp) for the most accurate reproduction.*
 
 # examiner.com.au : Disclaimer
 
