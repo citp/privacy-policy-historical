@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 1999-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990504213806id_/http%3A//www.hcfa.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicare.gov privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617071720id_/http%3A//www.hcfa.gov/privacy.htm) for the most accurate reproduction.*
 
 # HCFA Internet Privacy Policy
 
-[](https://web.archive.org/medicare/medicare.htm) [](https://web.archive.org/medicaid/medicaid.htm) [](https://web.archive.org/init/children.htm) [](https://web.archive.org/init/bba/bbaintro.htm) [](https://web.archive.org/pubforms/pubforms.htm) [](https://web.archive.org/regions/default.htm) [](https://web.archive.org/stats/stats.htm) [](https://web.archive.org/ord/ordhp1.htm) [](https://web.archive.org/regs/regs.htm) [](https://web.archive.org/pubaffr.htm) [](https://web.archive.org/foip/default.htm)   
+[](https://web.archive.org/medicare/medicare.htm) [](https://web.archive.org/medicaid/medicaid.htm) [](https://web.archive.org/init/children.htm) [](https://web.archive.org/pubforms/pubforms.htm) [](https://web.archive.org/regions/default.htm) [](https://web.archive.org/stats/stats.htm) [](https://web.archive.org/ord/ordhp1.htm) [](https://web.archive.org/regs/regs.htm) [](https://web.archive.org/pubaffr.htm) [](https://web.archive.org/foip/default.htm)   
 [](https://web.archive.org/about.htm) [](https://web.archive.org/customer.htm) [](https://web.archive.org/other.htm) [](https://web.archive.org/search.htm) [](https://web.archive.org/help.htm) | 
 
 The privacy of our customers is important to the Health Care Financing Administration (HCFA). We understand that visitors to _**hcfa.gov**_ and _**medicare.gov**_ need to be in control of their personal information. Therefore, the following is HCFA's Internet Privacy Policy:
@@ -25,5 +25,3 @@ The privacy of our customers is important to the Health Care Financing Administr
 
 [ Return to medicare.gov home page](http://www.medicare.gov/)  
 
-
-Last Updated October 27, 1998
