@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603154447id_/http%3A//all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013210649id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # help and info - faq menu page
 
@@ -18,7 +18,7 @@ All-Hotels is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent
 
 
 
-If you have questions or concerns regarding this statement, you should first contact us by email at [privacy@all-hotels.com](mailto:privacy@all-hotels.com) or at the contact telephone number or address at the end of the privacy policy. 
+If you have questions or concerns regarding this statement, you should first contact us by email at [contactus@all-hotels.com](mailto:contactus@all-hotels.com) or at the contact telephone number or address at the end of the privacy policy. 
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
@@ -51,7 +51,7 @@ All-Abroad is All-Hotels' travel magazine. When you subscribe to All-Abroad we d
 Personal Information, Hotel Preferences and Membership   
 You have the option to join all-hotels.com (select the 'join all-hotels' option under the green 'My Account' tab at the top of the page). When you become a member, you can choose to leave your personal information and hotel preferences. You can also choose to receive All-Abroad and the Special Offers and Discounted Hotels Newsletter. The amount of information that you leave is entirely optional. You can update your personal details and subscriptions at any time by signing into all-hotels.com via the 'Login' option under the 'My Account' tab.
 
-If you would like to remove all your membership details from all-hotels.com, simply send an email to [privacy@all-hotels.com](mailto:privacy@all-hotels.com) and put "cancel membership" in the subject line. 
+If you would like to remove all your membership details from all-hotels.com, simply send an email to [contactus@all-hotels.com](mailto:contactus@all-hotels.com) and put "cancel membership" in the subject line. 
 
 **Links to other sites**   
 all-hotels.com contains links to other sites including, but not limited to, sites owned and/or operated by Worldres (Bed and Breakfasts), HRN (Discount Hotels), Click Vacations (Package Holidays), Priceline.com and Travelocity (Flights), and Travelnow (Car Rental). We provide links to other sites as a convenience to persons who visit this web site. If you choose to use the services provided by those sites, you may be asked by those sites to provide certain personally identifiable information (some of which may, on an individual or aggregated basis, be shared with us). Please be aware that we are not responsible for the privacy practices of those sites, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to this Web site. 
@@ -59,7 +59,7 @@ all-hotels.com contains links to other sites including, but not limited to, site
 **How to Contact Us**   
 All-Hotels is committed to protecting your privacy. We do not and will not sell or rent your personal information to anyone. If you have any questions about this privacy statement, or would like more information about our company, please contact us at: 
 
-[privacy@all-hotels.com](mailto:privacy@all-hotels.com)
+[contactus@all-hotels.com](mailto:contactus@all-hotels.com)
 
 All-Hotels Ltd.   
 Sanderson House   
