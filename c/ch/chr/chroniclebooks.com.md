@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 1999-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991103181457id_/http%3A//www.chroniclebooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2000-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000510011157id_/http%3A//www.chroniclebooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -25,3 +25,6 @@ Occasionally, we conduct contests or promotions through our Web site, and ask vi
 KIDS: Make sure you have the permission of your parent or guardian before sending any information about yourself (name, address, email address, etc.) to us or anyone else over the Internet, and before making purchases online.
 
 * * *
+
+[Copyright © 1996 - 2000](https://web.archive.org/copyright.html) Chronicle Books LLC  [frontdesk@chronbooks.com](mailto:frontdesk@chronbooks.com)  
+[Site Map](http://www.chroniclebooks.com/sitemap.html) • [Privacy Policy](https://web.archive.org/web/20000510011157id_/http%3A//www.chroniclebooks.com/privacy.html) • Illustrations by [Aufuldish & Warinner](mailto:aufwar@aol.com)
