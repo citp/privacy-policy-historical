@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203043724id_/http%3A//www.virginmobile.com.au/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609194207id_/http%3A//www.virginmobile.com.au/privacy_security.html) for the most accurate reproduction.*
 
 # Virgin Mobile Australia - mobile phones, cheap calls, free voicemail and no long-term contracts
 
-| **What is this policy about?**
+This Privacy Policy applies to Virgin Mobile Pty Ltd (ABN 67 092 726 442)
+
+**What is this policy about?**
 
 This policy sets out how we handle your personal information. It explains the key measures we have taken to implement the requirements of the Telecommunications Act 1997 and the Privacy Act 1998, which implements the National Privacy Principles. It aims to answer the questions you might have about how we handle your personal information. If you have any further questions about Virgin Mobile's privacy practices, please contact the Virgin Mobile team on 1300 555 100 and ask for the Privacy Officer or e-mail us at [team@virginmobile.com.au](mailto:team@virginmobile.com.au). Media enquiries should be made to Chris Baines on (02) 9338 6174 .   
   
----  
    
 **What information have you collected about me?**
 
@@ -15,7 +16,7 @@ We basically hold information that you have provided to us about yourself, and i
    
 **What do you do with this information?**
 
-Our purpose in collecting this information is to provide you with our services. We collect information about you for uses related to your phone account - such as responding to your questions, solving any technical support problems, knowing about what sorts of services are likely to be most useful for you, approving an application for a post-paid account and to develop a better understanding of our customers' needs.   
+Our purpose in collecting this information is to provide you with our services. We collect information about you for uses related to your phone account \- such as responding to your questions, solving any technical support problems, knowing about what sorts of services are likely to be most useful for you, approving an application for a post-paid account and to develop a better understanding of our customers' needs.   
   
    
 **Are there any other times when you use information about customers for any other purposes or give this information to someone else?**
