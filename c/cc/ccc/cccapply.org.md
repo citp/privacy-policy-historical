@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203081941id_/http%3A//cccapply.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2004-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040211061923id_/http%3A//www.cccapply.org/privacy.asp) for the most accurate reproduction.*
 
 # CCCApply - Privacy Policy Statement
 
