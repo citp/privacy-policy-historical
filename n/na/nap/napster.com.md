@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napster.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216212818id_/http%3A//www.napster.com/terms/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603160259id_/http%3A//www.napster.com/terms/privacypolicy.html) for the most accurate reproduction.*
 
 # Napster | Privacy Policy
 
