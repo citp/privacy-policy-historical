@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the budgetlife.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614003448id_/http%3A//www.budgetlife.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetlife.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216042312id_/http%3A//www.budgetlife.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Budget life insurance - clients say thank you!
 
-**PRIVACY POLICY **
+******  
+Privacy Policy**
 
 Because we want to demonstrate our commitment to your privacy, we are posting this Privacy Policy to notify you of:
 
@@ -59,9 +60,9 @@ If you have any questions about the security at our website, you can send an ema
 **If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, you may email Customer Service at [ info@budgetlife.com](mailto:info@budgetlife.com), or phone or mail us at: 
 
 Budget Life Insurance  
-772 Green Rd. Suite 107  
-Ypsilanti, MI 48188  
-(734) 482-2904. 
+4968 Lakeridge Drive Suite 1A  
+Ypsilanti, MI 48197  
+(734) 417-4176 
 
   
 **Choice/Opt-out   
@@ -70,3 +71,6 @@ Ypsilanti, MI 48188
   
 **Notification of Changes  
 **If we decide to change our privacy policy, we will post those changes at our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+
+  
+
