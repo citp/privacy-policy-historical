@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monotype.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209051636id_/http%3A//www.fonts.com/legal/legal_home.asp%3FnCo%3DAFMT%26con%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monotype.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204071331id_/http%3A//www.fonts.com/legal/legal_home.asp%3FnCo%3DAFMT%26con%3Dprivacy) for the most accurate reproduction.*
 
-# Fonts.com - Download Mac and Windows Fonts: Terms
+# Fonts.com - Download Mac and Windows Fonts - Font: Terms
 
   | 
 
