@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204164204id_/http%3A//tradingcharts.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402225906id_/http%3A//www.tradingcharts.com/privacy_statement.html) for the most accurate reproduction.*
 
 # TradingCharts.Com, Inc. Privacy Statement
 
@@ -28,11 +28,11 @@
 **Why and how we use "cookies" ...**
     TradingCharts.Com, and thousands of other web sites use cookies extensively to enhance the experience of visitors to our site. Cookies can be used to temporarily store information that you have provided to our site in the course of your visits. Cookies are used on our site solely to store your "preferences" on our site. For example, if you use the "My Menu" feature of our site, a cookie is used to remember the selections you made for your customized menu. Similarly, a cookie is used to "remember" the settings you use when viewing a chart, so that the next time you view a chart you will not have to enter your settings again. At no time is personal information recorded in a cookie used on our site. At no time is the content of a cookie served from our site available to anything except our web server software.
  
-**Our advertising representatives, DoubleClick ...**
-    [DoubleClick Inc.](http://www.doubleclick.net/) provides our site with advertising sales. Information about your visit to this site, such as number of times that you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you on this site. They provide an extensive [online privacy statement (http://www.doubleclick.net/us/privacy/)](http://www.doubleclick.net/us/corporate/privacy/) which will answer your questions concerning their use of banner advertising on our site and how to "opt-out". Note that we do not provide specific information to DoubleClick beyond aggregate statistics. Similarly, they do not provide specific information to our site, beyond aggregate statistics. That policy is designed to enhance your privacy while using the TradingCharts.com, Inc online services.
+**Third Party Advertising**
+    We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <<http://www.networkadvertising.org/optout_nonppii.asp>>
  
-**Third party cookies**
-    In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+**Third Party Cookies**
+    In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
  
 **Third party links and fill-in forms**
      We deliver the services of a number of independent service providers, with whom we have no further association. These services can be found in our "premium services" areas and in our online book store. Each of these services use online order forms in the course of doing business. Although we encourage these service providers to assure the privacy of your information, we do not directly control the manner in which this information is used. 
