@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gist.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611043650id_/http%3A//www.gist.com/tv/about/about_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gist.com privacy policy that was archived on 2002-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021029175524id_/http%3A//www.gist.com/tv/about/about_privacy.htm) for the most accurate reproduction.*
 
 # Gist -- Privacy Policy
 
