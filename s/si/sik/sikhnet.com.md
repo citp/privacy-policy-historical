@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2000-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000818081445id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603235029id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
 
 # Sikhnet's Privacy Policy
 
-**PRIVACY POLICY**  
-
+**PRIVACY POLICY**
 
 **Privacy Statement for Sikhnet / SikhMatrimonials.com**
 
@@ -68,7 +67,7 @@ If you have any questions about this privacy statement, the practices of this si
 _Sat Pal Singh Khalsa or Gurumustuk Singh Khalsa_
 
 _Sikhnet_  
-_Route 2 Box 4 Shady Lane_  
+_01-A Ram Das Guru Pl_  
 _Espanola, NM. 87532_  
 _USA_  
 [_SikhnetDev@sikhnet.com_](mailto:SikhnetDev@sikhnet.com)   
