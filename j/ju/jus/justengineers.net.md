@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justengineers.net privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607153623id_/http%3A//www.justengineers.net/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justengineers.net privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202092546id_/http%3A//www.justengineers.net/privacy-statement.html) for the most accurate reproduction.*
 
 # justengineers - Privacy statement. Engineering jobs and recruitment.
 
@@ -18,7 +18,7 @@ Corrections and updates or changing from hide to full details can be made on-lin
 
 **Unsubscribing to ** _just_ engineers.net****
 
-You may remove your CV details at any time by logging in to your personalised [Members Home](https://web.archive.org/web/20020607153623id_/http%3A//www.justengineers.net/member-home.asp) page and under the CV Manager section, click the 'Remove my CV Details' link.
+You may remove your CV details at any time by logging in to your personalised [Members Home](https://web.archive.org/web/20021202092546id_/http%3A//www.justengineers.net/member-home.asp) page and under the CV Manager section, click the 'Remove my CV Details' link.
 
 Please note that although you may remove your CV from our data base at any time, the recruitment agencies who subscribe to our full search may have retained a copy of your CV in their database. Although our terms and conditions to Clients detail the requirements of the data protection act, we can not be held responsible for their actions.
 
