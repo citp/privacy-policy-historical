@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201164625id_/http%3A//www.partsexpress.com/webpage.cfm%3F%26DID%3D7%26WebPage_ID%3D48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601201211id_/http%3A//www.partsexpress.com/webpage.cfm%3F%26DID%3D7%26WebPage_ID%3D48) for the most accurate reproduction.*
 
 # Security / Privacy at Parts Express
 
@@ -42,7 +42,7 @@ We honor the confidentiality of our customers' private e-mail communications wit
 
 ****
 
-**OPT-In and OPT飽ut Newsletter**
+**OPT-In and OPT–Out Newsletter**
 
 The Parts Express online newsletter is an opt-in newsletter, customers at their option can sign up to receive the electronic newsletter. Any customer at anytime can opt-out or unsubscribe to the newsletter. Clear instructions on how to unsubscribe are included with every mailing. This mailing list is never sold, rented or used by a third party.
 
