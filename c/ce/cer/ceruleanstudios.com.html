@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ceruleanstudios.com privacy policy that was archived on 2004-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040403213632id_/http%3A//ceruleanstudios.com/misc/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ceruleanstudios.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204235828id_/http%3A//www.ceruleanstudios.com/misc/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Cerulean Studios -&gt; Privacy Policy</title>
@@ -20,8 +20,11 @@ var bVer5 = (navigator.appVersion=="4.0 (compatible; MSIE 5.0; Macintosh; I; PPC
 var MNS6 = ((appVer == "5") && (MNS == true));
 var MNS4 = ((appVer == "4") && (MNS == true));
 var WNS6 = ((appVer == "5") && (WNS == true));
+var OP = (navigator.userAgent.indexOf("Opera")!=-1);
 
-if (bVer5) {
+if (OP) {
+	document.write("<LINK REL=stylesheet HREF=\"/css/win.css\" TYPE=\"text/css\">");
+	} else if (bVer5) {
 	document.write("<LINK REL=stylesheet HREF=\"/css/mac-ie5.css\" TYPE=\"text/css\">");
 	} else if (MNS6) {
 	// this next line was mac-ns6.css, but ajm changed it to mac on 9/16/2003
