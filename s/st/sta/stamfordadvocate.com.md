@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stamfordadvocate.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607023456id_/http%3A//www.stamfordadvocate.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamfordadvocate.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209223501id_/http%3A//www.stamfordadvocate.com/go/services/privacy) for the most accurate reproduction.*
 
 # The Advocate - Privacy Policy
 
