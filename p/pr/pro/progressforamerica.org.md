@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progressforamerica.org privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619075147id_/http%3A//www.progressforamerica.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progressforamerica.org privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803020553id_/http%3A//progressforamerica.org/privacy.asp) for the most accurate reproduction.*
 
 # Progress for America | Privacy Statement
 
