@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603202705id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605172648id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
 
 # Sikhnet's Privacy Policy
 
@@ -72,7 +72,4 @@ _Espanola, NM. 87532_
 _USA_  
 [_support@sikhnet.com_](mailto:support@sikhnet.com)   
 505-753-3117  
-
-
-[](http://rd1.hitbox.com/rd?acct=WQ500124DCBD89EN0)   
 
