@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034726id_/http%3A//www.sparknotes.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605121255id_/http%3A//www.sparknotes.com/legal/privacy.html) for the most accurate reproduction.*
 
 # SparkNotes.com Privacy Policy
 
