@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyetv.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201165535id_/http%3A//keyetv.com/redirect/cbs_privacy_statement.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyetv.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413082948id_/http%3A//keyetv.com/redirect/cbs_privacy_statement.cgi) for the most accurate reproduction.*
 
 # CBS INFO? - PRIVACY
 
