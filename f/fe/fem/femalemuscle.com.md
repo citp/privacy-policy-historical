@@ -1,58 +1,37 @@
-> *The following text is extracted and transformed from the femalemuscle.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409191452id_/http%3A//www.doubleclick.com/us/corporate/privacy/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femalemuscle.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404002712id_/http%3A//femalemuscle.com/lori/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last updated June 17, 2002_
+**Femalemuscle.com Privacy Policy**
 
-**Brief Overview** | [](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
----|---  
   
-DoubleClick provides digital marketing and Internet advertising technology and services. [Click here](http://www.doubleclick.net/us/corporate/privacy/privacy/policies.asp?asp_object_1=&) for our comprehensive statement covering our services. [Click here for the TRUSTe approved privacy policy](http://www.doubleclick.net/us/corporate/privacy/privacy/doubleclick-sites.asp?asp_object_1=&) of this website, www.doubleclick.net. Read below for a brief overview of DoubleClick's practices. 
+**Our Commitment To Privacy**
 
-****
-  1. **No personal information is used by DoubleClick to deliver Internet ads.**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-DoubleClick does not use your name, address, email address, or phone number to deliver Internet ads. DoubleClick does use information about your browser and Web surfing to determine which ads to show your browser. 
+We do not collect any customer information for the purpose of selling, renting, or any other form of distribution. We use cookies on this site so that customers may access their subscriber accounts. Please see our payment processor's Privacy Policy concerning collected information.
 
-  2. **You can control the technologies used to collect information during ad serving.**
+This notice applies to all information collected or submitted on femalemuscle.com website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-DoubleClick asks website operators to link from their privacy policy to ours to allow consumers to opt-out of the DoubleClick ad-serving cookie, so that no unique information or number is associated with your computer's browser if you choose. [Click here](http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&) for the ad-serving cookie opt-out. You can also use [P3P](http://www.doubleclick.net/us/corporate/privacy/privacy/p3p.asp?asp_object_1=&) to control your browser’s interaction with cookies. 
+Name   
+Address  
+Email address  
+Phone number
 
-  3. **You can control the email you receive.**
+ **Our Commitment To Data Security**
 
-Before companies can use DoubleClick DARTmail technology to send email, that company must commit to us that consumers have agreed to receive such email messages. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-  4. **DoubleClick encourages all companies with which we do business to engage in fair information practices.**
+**How You Can Access Or Correct Your Information:**
 
-DoubleClick asks that these companies disclose their relationship with us by providing notice to consumers about the DoubleClick technologies that they use. 
+You can access all your personally identifiable information that we collect online and maintain by logging into your account using the password you selected. We use this procedure to better safeguard your information. 
 
-  5. **(A) DoubleClick as a technology service provider:**
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
-In most cases, when you see an Internet ad, DoubleClick has been asked by the website to act as an agent for ad delivery, reporting or analysis of usage at their website. The information DoubleClick processes on such a website's behalf belongs to that website and is not further used by DoubleClick. DoubleClick does not own the information collected and cannot use it for its own business purposes or in any way not authorized by our client. 
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-**(B) Websites that share information with DoubleClick that will be used to determine your preferences for future ad serving:**
+**How To Contact Us:**
 
-When websites contract with DoubleClick to share anonymous website data to develop marketing scores for future ad serving across the Internet, those websites must comply with the Network Advertising Initiative guidelines (visit [www.networkadvertising.org](http://www.networkadvertising.org/)). Only websites in the United States share information with DoubleClick for the creation of marketing scores in this manner. DoubleClick does not develop marketing scores that indicate a user's individual health condition, detailed financial information, sexual orientation or behavior, information that appears to relate to children under 13, racial and ethnic origin, political opinions, religious or philosophical opinions, and trade union membership. 
+Should you have other questions or concerns about these privacy policies, please call us at 1-888-235-6149 or send us an email at 
 
-  6. **The promises we make about information you give us online should be upheld.**
-
-DoubleClick may change its policy as new products are added or old ones are changed, but DoubleClick treats information it owns in a manner consistent with the policy under which it was collected, unless we have your consent to use it differently. If part or all of DoubleClick's businesses are sold or transferred, we will take steps to assure that these same principles apply. 
-
-  7. **You shouldn't just have to take our word for it.**
-
-DoubleClick is a member of the Network Advertising Initiative and has been audited for compliance with NAI principles. 
-
-  8. **Questions, concerns and comments**
-
-Questions, concerns, comments and complaints can be addressed to [privacy@doubleclick.net](mailto:%20privacy@doubleclick.net) and to [www.networkadvertising.org](http://www.networkadvertising.org/). For complaints about personal information collected by this website, you can contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). 
-
-  9. **Transparency**
-
-We are committed to transparency about our practices and provide the links to the left for more information about specific DoubleClick products and services. 
-
-  10. **Safe Harbor**
-
-DoubleClick complies with the [Safe Harbor](http://www.doubleclick.net/us/corporate/privacy/privacy/europe.asp?asp_object_1=&) agreement with the European Union. 
-
-
-
+[webmaster@femalemuscle.com](mailto:webmaster@femalemuscle.com). 
