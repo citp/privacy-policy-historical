@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmc.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012195817id_/http%3A//community.healthgate.com/getcontent.asp%3FSiteID%3Dupmc%26DocID%3D/choice/copyright/privacy%26DocType%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmc.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406051335id_/http%3A//community.healthgate.com/getcontent.asp%3FSiteID%3Dupmc%26DocID%3D/choice/copyright/privacy%26DocType%3D4) for the most accurate reproduction.*
 
 # HealthGate's Privacy Policy CHOICE For UPMC Health
 
