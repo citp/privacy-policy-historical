@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214125240id_/http%3A//handbag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604183700id_/http%3A//www.handbag.com/privacy) for the most accurate reproduction.*
 
 # handbag.com : your privacy
 
@@ -62,4 +62,4 @@ In the event that you have provided personal information that has been shared wi
 **How to contact us**  
 If you have any questions about our privacy policy or the practices of Handbag, please contact us at: 
 
-151 Oxford Street, London W1R 1TB 0207 292 0020 marketing@handbag.com
+151 Oxford Street, London W1R 1TB 0207 292 0020 marketing@handbag.com 
