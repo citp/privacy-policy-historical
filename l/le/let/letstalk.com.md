@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005537id_/http%3A//www3.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607035046id_/http%3A//www5.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -7,10 +7,10 @@ LetsTalk.com is committed to protecting your privacy and providing a secure shop
 
 LetsTalk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.letstalk.com](http://www.letstalk.com/). Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If users have questions or concerns regarding this statement, you should first contact [feedback@letstalk.com](mailto:feedback@letstalk.com) by e-mail. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process [www.truste.org/watchdog.html](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/web/20040607035046id_/http%3A//www5.letstalk.com/about/emailsubmit.htm?htId=6) by e-mail. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process [www.truste.org/watchdog.html](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
   * What kind of information do we collect?  
-We collect information at several stages during your interaction with LetsTalk.com. When you first enter out site, we note your IP address in connection to your shopping cart and to help with administrating the site. As you browse the site, we record your preferences via a cookie so we can serve more targeted information on your next visit. (Learn more about cookies) 
+We collect information at several stages during your interaction with LetsTalk.com. When you first enter our site, we note your IP address in connection to your shopping cart and to help with administrating the site. As you browse the site, we record your preferences via a cookie so we can serve more targeted information on your next visit. (Learn more about cookies) 
 
 When you buy a product, you give us contact and shipping information (like your name, address, phone number, e-mail address, etc.) and credit information like Social Security number, date of birth, credit card and driver's license identification. We use this information to process and fulfill your order and to protect you from false purchases made in your name.
 
@@ -23,7 +23,7 @@ Because all we do is provide your information to the service provider, we do not
 
 LetsTalk.com uses your information to follow-up on your order and to send you updated information on our company, products and services. Your service provider and manufacturer may also send you similar information.
 
-Our site provides the opportunity to opt-in to receive mailings without purchasing from LetsTalk.com. All promotional newsletters have instructions on how to be removed from our mailing list. Subscribers may also contact [help@letstalk.com](mailto:help@letstalk.com) to opt-out. We do not collect email addresses of recipients of newsletters forwarded by LetsTalk.com subscribers. 
+Our site provides the opportunity to opt-in to receive mailings without purchasing from LetsTalk.com. All promotional newsletters have instructions on how to be removed from our mailing list. Subscribers may also contact us [via email](https://web.archive.org/web/20040607035046id_/http%3A//www5.letstalk.com/about/emailsubmit.htm?htId=6). We do not collect email addresses of recipients of newsletters forwarded by LetsTalk.com subscribers. 
 
 If you prefer not to receive correspondence from LetsTalk.com, you may contact [customer service](https://web.archive.org/about/contact1.htm) with your request. If you elect not to receive information from the manufacturer of the product you bought or the service provider you selected, please note that in your correspondence. If you prefer NOT to provide personal information over the internet, please place your order directly through Customer Service. 
 
