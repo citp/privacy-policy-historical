@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e3expo.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417130026id_/http%3A//e3expo.com/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3expo.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002204730id_/http%3A//e3expo.com/about/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Electronic Entertainment Expo 2003 -- Privacy Policy
 
