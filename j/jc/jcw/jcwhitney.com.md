@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcwhitney.com privacy policy that was archived on 2001-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010225010843id_/http%3A//jcwhitney.com/Privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcwhitney.com privacy policy that was archived on 2001-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011207214321id_/http%3A//www.jcwhitney.com/Privacy.jhtml%3FBQ%3Djcw2) for the most accurate reproduction.*
 
 # JC Whitney Parts and Accessories for Cars, Trucks, SUVs, Vans, Motorcycles, ATVs, RVs
 
@@ -19,13 +19,13 @@ Today, privacy is everyone’s concern and JC Whitney is committed to protecting
 ****
 
 **What information do we collect and how is it used?  
-**Customer Service, Find-It and e-mail correspondence   
+**Customer Service and e-mail correspondence   
 Our customer service page provides several e-mail addresses for your convenience when contacting us. Information collected on these forms is only used to correspond with you regarding your message. E-mail addresses and other information that you send us from these customer service forms is not used for marketing purposes and is not made available to anyone outside the customer service group. Note that some forms may contain options so that you may select to receive additional information from other reputable companies. If you have selected these options and no longer want to receive this type of information, please e-mail us at [noemail@jcwhitney.com](mailto:noemail@jcwhitney.com) . 
 
 ****
 
 **Opt-In Newsletters  
-**We also offer e-mail newsletters, that contain special offers, sales and information of interest on specific subjects. You may select from a list of categories by visiting _[jcwnewsletters](https://web.archive.org/web/20010225010843id_/http%3A//jcwhitney.com/newsletters.jhtml;$sessionid$2O5VTGIAAANCNWBBJB2SHPWYEFEHSJYG)_. If you have joined one or more of these newsletters, you may change or remove your e-mail address using the option listed at the end of every e-mail newsletter. We occasionally make these newsletter addresses available to carefully selected companies with offers or information directly related to your area of interest. If you do not want your e-mail address released to any third party companies, please e-mail us at [noemail@jcwhitney.com](mailto:noemail@jcwhitney.com).
+**We also offer e-mail newsletters, that contain special offers, sales and information of interest on specific subjects. You may select from a list of categories by visiting _[jcwnewsletters](https://web.archive.org/web/20011207214321id_/http%3A//www.jcwhitney.com/newsletters.jhtml;$sessionid$UQIYLOAAAARHJWBBLJTSFE4YEFNGMIV0)_. If you have joined one or more of these newsletters, you may change or remove your e-mail address using the option listed at the end of every e-mail newsletter. We occasionally make these newsletter addresses available to carefully selected companies with offers or information directly related to your area of interest. If you do not want your e-mail address released to any third party companies, please e-mail us at [noemail@jcwhitney.com](mailto:noemail@jcwhitney.com).
 
 ****
 
