@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmgkb.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605053816id_/http%3A//www.pharmgkb.org/home/policies/web-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmgkb.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206203614id_/http%3A//www.pharmgkb.org/home/policies/web-privacy.jsp) for the most accurate reproduction.*
 
 # PharmGKB: Website Privacy Policy
 
