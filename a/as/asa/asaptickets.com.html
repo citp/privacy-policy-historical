@@ -1,560 +1,379 @@
-<!--The following is the downloaded HTML source of the asaptickets.com privacy policy that was archived on 2003-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030408000646id_/http%3A//www.asaptickets.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asaptickets.com privacy policy that was archived on 2004-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040407175750id_/http%3A//asaptickets.com/policy.php) for the most accurate reproduction.-->
 
-<html><head> 
-<title>ASAP t i c k e t s</title>
-<script language="javascript1.2" src="scripts/date.js" type="text/javascript"></script>
-<script language="JavaScript1.2" src="scripts/detect.js" type="text/javascript"></script><link rel="stylesheet" href="scripts/index_netscape.css" type="text/css">
-<script language="JavaScript">
-
-<!-- Begin
-function popUp1(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1,width=680,height=600,left = 300,top = 100');");
-}
-// End -->
-
-</script>
-<script language="javascript">
-
-
-function Certify(URL) {
-  popupWin = window.open(URL, 'Participant', 'location,scrollbars,width=450,height=300')
-  window.top.name = 'opener';
+<html><head>
+<title>ASAP Tickets</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link href="/css.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
-function popUp(url) {
-sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-self.name = "mainWin";
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 
-</script>
-<script language="javascript">
-var adImages=new Array("images/asapbanner.jpg", "images/asapbanner2.jpg")
-var thisAd=0
-var imgCt=2
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
 
-function cycle(){
-	if (document.images) {
-			thisAd++
-			if (thisAd==imgCt){
-				thisAd=0                         
-				}
-			document.adBanner.src=adImages[thisAd]
-			setTimeout("cycle()",2*1000)
-		}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+
+function checkFields() {
+	missinginfo = "";
+	if (document.forms[0].first_name.value == "") {
+		missinginfo += "\n     - First Name";
 	}
 	
+	if (document.forms[0].last_name.value == "") {
+		missinginfo += "\n     - Last Name";
+	}
+	
+	if ((document.forms[0].email.value == "") || (document.forms[0].email.value.indexOf('@') == -1) || (document.forms[0].email.value.indexOf('.') == -1)) {
+		missinginfo += "\n     - Email address";
+	}
+
+	if(document.forms[0].phone.value == "") {
+		missinginfo += "\n     - Phone";
+	}
+	
+	if (document.forms[0].prefered_contact.options[document.forms[0].prefered_contact.selectedIndex].value == 'phone'){
+		if (document.forms[0].contact_time.value == ""){
+			missinginfo += "\n     - Prefered time to contact";
+		}
+		
+	}
+
+	if (missinginfo != "") {
+		missinginfo = "You failed to correctly fill in your:\n" +
+				"___________________________\n" +
+		missinginfo + "\n___________________________" +
+		"\n\nPlease re-enter and submit again!";
+		alert(missinginfo);
+		return false;
+	}
+	else return true;
+}
+
+
+//-->
 </script>
-<meta name="description" content="Travel portal of leading online agency with the most advanced search engine for direct online purchase.">
-<meta name="keywords" content="ticket, air fare, fares, fares online, cheap fare, cheap tickets, travel, air travel, price, air travel">
-</head> 
- 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="cycle()">
-<div align="center">
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="700">
-<tbody><tr><td><img src="images/asapbanner2.jpg" width="700" height="100" alt="" border="0" name="adBanner"></td></tr>
-<tr><td bgcolor="#ffffff"><img src="images/clear.gif" width="700" height="1" alt="" border="0"></td></tr>
-<tr>
-<td width="700" align="center">
 
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0" id="top_bar" width="700" height="24">
-  <param name="movie" value="top_bar.swf">
-  <param name="quality" value="high">
-  <param name="bgcolor" value="#FFFFFF">
-  <embed name="top_bar" src="top_bar.swf" quality="high" bgcolor="#FFFFFF" width="700" height="24" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-  
-</object>
+<script language="JavaScript"> 
+<!-- 
+function Rcertify() 
+{
+popupWin = window.open('http://www.bbbonline.org/cks.asp?id=10401211511138010', 'Participant','location=yes,scrollbars=yes,width=450,height=300'); 
+window.name = 'opener';
+} 
+// --> 
+</script>  
 
-</td>
-</tr>
-<tr>
-<td width="700" height="10" bgcolor="#ffffff">
-<br>
-<table align="center" width="700" bgcolor="#ffffff" cellspacing="0" cellpadding="2" border="0">
-<tbody><tr>
-    <td align="center" width="700" valign="middle"><a href="index.html"><img src="images/newlogo.gif" alt="" width="200" height="60" border="0"></a><img src="images/middle.gif" alt="" width="500" height="60" border="0"></td>
-</tr>
-</tbody></table>
-	
-</td>
-</tr>
-</tbody></table>
-<br>
+</head>
 
-<!----------------------------- Upper Bar ------------------------------------------->
-
-<table width="700" border="0" cellspacing="0" cellpadding="0" align="center"> 
-<tbody><tr> 
-<td width="185" valign="top" align="left">
-
-
-<!---------------------------------------- #ff0000 Left Bar ----------------------------------->
-
-
-	<table width="185" border="0" cellspacing="0" cellpadding="0"> 
-	<tbody><tr valign="top"> 
-	<td> 
-
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ccccff">
-		<tbody><tr> 
-		<td width="100%" align="center" colspan="2" height="25" bgcolor="#dadada">
-		<font style="COLOR:#000033; font-family:verdana; font-weight:bold; font-size:10px; TEXT-DECORATION: none">Exclusive Deals</font></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr>
-		<tr> 
-		<td width="20%" align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="africa.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Africa</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr> 
-		<tr> 
-		<td align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="asia.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Asia</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr> 
-		<tr> 
-		<td align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="europe.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Europe</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr> 
-		<tr> 
-		<td align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="india.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">India</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr> 
-		<tr> 
-		<td align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="pakistan.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Pakistan</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr>
-		<tr> 
-		<td align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="telaviv.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Tel Aviv</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr>
-		<tr> 
-		<td align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="spacific.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">South Pacific</a></td>
- 		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="2" height="10"></td> 
-		</tr> 
-		</tbody></table> 
-	</td> 
-	</tr> 
-	</tbody></table>
-	
-	
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#CADBED">
-		<tbody><tr> 
-		<td width="100%" align="center" colspan="2" height="25" bgcolor="#dadada">
-		<font style="COLOR:#000033; font-family:verdana; font-weight:bold; font-size:10px; TEXT-DECORATION: none">Package Deals</font></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr>
-		<tr> 
-		<td width="20%" align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="thai.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Bangkok</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr> 
-		<tr> 
-		<td align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="honolulu.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Hawaii</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr> 
-		<tr> 
-		<td align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="templetour.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">India</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr> 
-		<tr> 
-		<td align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="singapore.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Singapore</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="10"></td> 
-		</tr> 
-		</tbody></table> 
-			
-<!---------------------------- Left Bar ----------------------------------> 
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"> 
-	<tbody><tr> 
-	<td valign="top"> 
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<body bgcolor="#FFFFFF" leftmargin="4" topmargin="4" marginwidth="4" marginheight="4" onload="MM_preloadImages('images/header_over_10.png','images/header_over_12.png','images/header_over_14.png','images/header_over_16.png','images/header_over_18.png')">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td align="center" valign="top"><table width="777" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-		<td width="10%" align="right"><img src="images/kolo_blue.gif" width="15" height="17"></td> 
-		<td width="90%"><font face="Verdana, Arial, Helvetica, sans-serif" style="COLOR: #000033; font-size:10px; TEXT-DECORATION:none"><b>Customer Service</b></font></td> 
-		</tr> 
-		<tr> 
-		<td valign="top">&nbsp;</td> 
-		<td align="left" valign="top"> 
-			<table width="100%" border="0" cellspacing="5" cellpadding="0"> 
-			<tbody><tr valign="top"> 
-			<td><a href="viewtrip.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">View Itineary</a></td> 
-			</tr>
-			<tr valign="top"> 
-			<td><a href="payments.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Payments &amp; Refunds</a></td> 
-			</tr>
-			<tr valign="top"> 
-			<td><a href="shiptrack.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Delivery &amp; Tracking</a></td> 
-			</tr>
-			<tr valign="top"> 
-			<td><a href="tickets.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Tickets</a></td> 
-			</tr>
-			<tr valign="top"> 
-			<td><a href="customerservice.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Customer Comments</a></td> 
-			</tr>
-			<tr valign="top"> 
-			<td><a href="subscribe.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Receive Specials</a></td> 
-			</tr> 
-			</tbody></table> 
-		</td> 
-		</tr>
-		<tr>
-		<td width="10%" align="right"><img src="images/kolo_blue.gif" width="15" height="17"></td> 
-		<td width="90%"><font face="Verdana, Arial, Helvetica, sans-serif" style="COLOR: #000033; font-size:10px; TEXT-DECORATION:none"><b>Help Desk</b></font></td> 
-		</tr> 
-		<tr> 
-		<td valign="top">&nbsp;</td> 
-		<td align="left" valign="top"> 
-			<table width="100%" border="0" cellspacing="5" cellpadding="0"> 
-			<tbody><tr valign="top"> 
-			<td><a href="faq.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">FAQ</a></td> 
-			</tr>
-			<tr valign="top"> 
-			<td><a href="feedback.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Feedback</a></td> 
-			</tr>
-			<tr valign="top"> 
-			<td><a href="contact.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Contact us</a></td> 
-			</tr>
-			</tbody></table> 
-		</td> 
-		</tr>
-		<tr>
-		<td width="10%" align="right"><img src="images/kolo_blue.gif" width="15" height="17"></td> 
-		<td width="90%"><font face="Verdana, Arial, Helvetica, sans-serif" style="COLOR: #000033; font-size:10px; TEXT-DECORATION: none"><b>Travel Advisor</b></font></td> 
-		</tr> 
-		<tr> 
-		<td valign="top">&nbsp;</td> 
-		<td align="left" valign="top"> 
-			<table width="100%" border="0" cellspacing="5" cellpadding="0"> 
-			<tbody><tr valign="top"> 
-			<td><a href="visa.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Visa info</a></td> 
-			</tr>
-			<tr valign="top"> 
-			<td><a href="http://www.oanda.com" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Currency Converter</a></td> 
-			</tr>
-			<tr valign="top"> 
-			<td><a href="frequentflyer.html" style=" font-family:Verdana, Arial, Helvetica, sans-serif; color:#0000cc; font-size:8pt;">Frequent Flyers</a></td> 
-			</tr>
-			<tr> 
-		<td colspan="2" bgcolor="#FFFFFF">
-		<img src="images/clear.gif" width="1" height="10"></td> 
-		</tr>
-			</tbody></table> 
-		</td> 
-		</tr>
-		</tbody></table> 
-	</td></tr> 
+          <td width="777" height="92" align="left" valign="top"><table id="Table_01" width="777" height="93" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr> 
+                <td rowspan="5"> <img src="/images/header_01.png" width="6" height="92" alt=""></td>
+                <td colspan="13"> <img src="/images/header_02.png" width="771" height="6" alt=""></td>
+              </tr>
+              <tr> 
+                <td rowspan="2"> <a href="index.php"><img src="/images/header_03.png" width="50" height="30" alt="" border="0"></a></td>
+                <td> <a href="/index.php"><img src="/images/header_04.png" width="182" height="19" alt="" border="0"></a></td>
+                <td colspan="11"> <img src="/images/header_05.png" width="539" height="19" alt=""></td>
+              </tr>
+              <tr> 
+                <td> <img src="/images/header_06.png" width="182" height="11" alt=""></td>
+                <td colspan="11"> <img src="/images/header_07.png" width="539" height="11" alt=""></td>
+              </tr>
+              <tr> 
+                <td> <img src="/images/header_08.png" width="50" height="46" alt=""></td>
+                <td colspan="2"> <img src="/images/header_09.png" width="240" height="46" alt=""></td>
+                <td> <a href="/about.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','images/header_over_10.png',1)"><img src="/images/header_10.png" alt="about us" name="about" width="64" height="46" border="0"></a></td>
+                <td> <img src="/images/header_11.png" width="29" height="46" alt=""></td>
+                <td> <a href="/search.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('flights','','images/header_over_12.png',1)"><img src="/images/header_12.png" alt="search for flights" name="flights" width="72" height="46" border="0"></a></td>
+                <td> <img src="/images/header_13.png" width="24" height="46" alt=""></td>
+                <td> <a href="/index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('specials','','images/header_over_14.png',1)"><img src="/images/header_14.png" alt="specials" name="specials" width="64" height="46" border="0"></a></td>
+                <td> <img src="/images/header_15.png" width="29" height="46" alt=""></td>
+                <td> <a href="/insurance.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('insurance','','images/header_over_16.png',1)"><img src="/images/header_16.png" alt="insurance" name="insurance" width="64" height="46" border="0"></a></td>
+                <td> <img src="/images/header_17.png" width="13" height="46" alt=""></td>
+                <td> <a href="/support.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('support','','images/header_over_18.png',1)"><img src="/images/header_18.png" alt="customer service" name="support" width="93" height="46" border="0"></a></td>
+                <td> <img src="/images/header_19.png" width="29" height="46" alt=""></td>
+              </tr>
+              <tr> 
+                <td colspan="2"> <img src="/images/header_20.png" width="232" height="10" alt=""></td>
+                <td colspan="11"> <img src="/images/header_21.png" width="539" height="10" alt=""></td>
+              </tr>
+              <tr> 
+                <td> <img src="/images/spacer.gif" width="6" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="50" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="182" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="58" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="64" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="29" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="72" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="24" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="64" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="29" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="64" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="13" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="93" height="1" alt=""></td>
+                <td> <img src="/images/spacer.gif" width="29" height="1" alt=""></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td height="35" align="center" valign="middle">
+          <br>
+          <img src="/images/text.gif">
+          <hr width="70%" color="#F4F4F4">
+         </td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="7" align="left" valign="top"><img src="/images/spacer.gif" width="7" height="1"></td>
+<td colspan="3">
+<table width="400" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr> 
+	<td width="400" height="15" align="left" valign="top"><img src="images/sn.gif" width="400" height="15"></td>
+</tr>
+<tr> 
+	<td align="left" valign="top" bgcolor="#70A3C5">
+	<table width="400" border="0" cellspacing="1" cellpadding="3">
+        <tbody><tr> 
+		<td height="1" align="left" valign="top" class="text2"><img src="images/spacer.gif" width="1" height="1"></td>
+        </tr>
+        <tr> 
+		<td align="left" valign="top" bgcolor="#F2F7F9" class="text1"><p class="text1">(Effective January 1, 2003) </p>
+            <p class="text1">ASAPtickets.COM Inc. is committed to protecting your privacy while 
+              you are visiting our Site. </p>
+            <p class="text1">In order to provide the best in customer service, we may ask you 
+              to share "personal information" -- such as your name, 
+              address, e-mail address, and phone number. First, we want you to 
+              understand our policy regarding the collection and use of your personal 
+              information.</p>
+            <p class="text1bold">The Personal Information Collected </p>
+            <p class="text1">You may visit our Site or call our Travel Professionals to search 
+              for great travel deals without providing us with any personal information. 
+            </p>
+            <p class="text1bold"> Membership Information</p>
+            <p class="text1">Membership offers you the flexibility and freedom to complete a 
+              travel purchase on our Site at any time, and becoming a member is 
+              so easy to do. When you register to become a member, you will be 
+              asked to share with us certain basic personal information, such 
+              as your name, e-mail address, and password. Should you choose to 
+              do so, you can supplement the basics with your credit card number, 
+              frequent flyer number, travel preferences, and more. After becoming 
+              a member, you can visit or update the personal information in your 
+              travel profile at any time. By completing and updating your personal 
+              information, you help us tailor our services to better meet your 
+              needs.</p>
+            <p class="text1bold"> Transaction Information</p>
+            <p class="text1">In order to complete a travel purchase, you will be asked to share 
+              with us information required to complete the transaction successfully, 
+              such as billing and shipping addresses, credit card number and expiration 
+              date, etc.</p>
+            <p class="text1bold"> Subscription Information</p>
+            <p class="text1">Even if you're not a member, you have the opportunity to receive 
+              our special travel offers via e-mail. When you sign up for this 
+              service, you will be asked to provide us with your e-mail address. 
+            </p>
+            <p class="text1bold"> Contests/Sweepstakes Participation</p>
+            <p class="text1">you may participate in our contests or sweepstakes without becoming 
+              a member, completing a purchase, or subscribing to receive our e-mails. 
+              When you enter a contest or sweepstakes, you will be asked to share 
+              with us certain personal information.</p>
+            <p class="text1bold">How Personal Information Is Used<br>
+              We will use your personal information in the following ways: </p>
+            <p class="text1"> When you purchase travel products or services, your personal information 
+              will be shared with the third parties necessary to successfully 
+              complete the transaction -- including the vendors you have selected 
+              (for example, airlines, hotels, travel insurance providers, etc.) 
+              and others who facilitate the transaction (for example, your credit 
+              card company).<br>
+              As a member or guest, from time to time, you may receive communications 
+              from us or third parties performing services on our behalf, which 
+              include: (i) specific information we want to communicate to you 
+              regarding your travel requests or arrangements, such as any notification 
+              of a flight cancellation; (ii) notifications regarding updates or 
+              modifications to our Site; and (iii) details regarding any special 
+              offers sponsored by us, such as rewards, rebates, sweepstakes, and 
+              gift promotions.<br>
+              As a member or subscriber, you may also choose to receive from us, 
+              or trustworthy third parties acting on our behalf, special promotions 
+              that we believe will be valuable to you, including, without limitation, 
+              e-mails promoting special travel deals, sponsored by us or third-party 
+              vendors. <br>
+              If you participate in a contest or sweepstakes, your personal information 
+              may be used by us, or trustworthy third parties acting on our behalf, 
+              to process your entry and fulfill any prize awarded to you. <br>
+              From time to time, in an effort to improve our service, we may ask 
+              third parties to conduct marketing-research analyses on our behalf 
+              and, as such, the information we provide to them is restricted to 
+              marketing-research analyses only. Any personal information we provide 
+              to such third parties is protected under confidentiality agreements. 
+              <br>
+              We may disclose your personal information (i) if you violate our 
+              Terms of Use or any law, rule, or regulation, or (ii) if required 
+              by law or regulatory authority (for example, court order or subpoena).<br>
+              In the event that our Company or this Site or certain of our assets 
+              are acquired, your personal information may be one of the transferred 
+              assets. <br>
+              Use of your personal information by third parties distributing promotions 
+              on our behalf shall be subject to our Privacy Policy. </p>
+            <p class="text1bold">What We Won't Do With Personal Information</p>
+            <p class="text1">We will not sell or rent your personal information to any third 
+              parties.</p>
+            <p class="text1bold">Security</p>
+            <p class="text1">Security of our customers' personal information is important to 
+              us.</p>
+            <p class="text1">As a member, your personal information is password-protected. If 
+              you ever forget your password, we will help you create a new one. 
+              Remember to log out of your account and close your browser window 
+              when you have finished visiting our Site in order to ensure that 
+              others cannot access your personal information.</p>
+            <p class="text1">To protect personal information transmitted to us, we use a security 
+              system that includes firewall technologies, intrusion detection 
+              systems, logical network segmentation, restricted access to stored 
+              profile information, and security restrictions to our databases 
+              and systems.</p>
+            <p class="text1">We permit authorized personnel only to access personal information.</p>
+            <p class="text1">We use industry-standard, secure-socket-layer (SSL) technology, 
+              which is utilized by most popular browsers, including Netscape and 
+              Microsoft Explorer, to encrypt (or convert into code) your personal 
+              information before it is transferred across the Internet. To further 
+              safeguard your most sensitive credit card information, we transfer 
+              such information across the Internet in an encrypted format and 
+              then store such information in our secure database.</p>
+            <p class="text1">Since we do not control transmissions over the Internet, via commercial 
+              Internet service providers, and/or the security of your personal 
+              computer, we cannot guarantee 100 percent secure transmission via 
+              the Internet. Use of the Internet is at your own risk. Also, it 
+              is important that you take steps to protect yourself against unauthorized 
+              access to your computer and your password.</p>
+            <p class="text1bold">Other, Non–Personal Information Collected</p>
+            <p class="text1">Like many other Internet sites, we automatically collect non-personal 
+              information regarding our visitors, such as software client information 
+              (for example, IP addresses, browser versions and operating systems) 
+              and aggregate information (for example, number of pages accessed) 
+              in order to analyze Web traffic and usage trends. Information of 
+              this nature does not pertain to your specific identity and is not 
+              associated with your personal information.</p>
+            <p class="text1">To enhance your experience on our Site, we and our third-party 
+              advertiser(s) commonly employ Internet technologies, such as "cookies," 
+              to collect and store non-personal information about our visitors. 
+              "Cookies" are small pieces of information that are transferred 
+              by a website and stored by your Web browser on your computer's hard 
+              drive. With most browsers, you can set the preferences to show a 
+              warning each time a cookie request is received. You can also set 
+              the browser not to accept cookies at all; however, we won't be able 
+              to personalize your experience if we cannot recognize you.</p>
+            <p class="text1">Cookies and Web beacons (also called "pixel tags") may 
+              be used by us or our third-party advertiser(s) to determine how 
+              you reached our Site, to track your usage patterns once you are 
+              on our Site, and to target our Internet banner advertisements on 
+              our Site and other websites. For more information about our third-party 
+              advertiser(s), cookies, and how to opt out, please click here.</p>
+            <p class="text1bold">What Is Not Covered By This Privacy Policy</p>
+            <p class="text1">Except as covered above, this Privacy Policy does not apply to 
+              the practices or policies of any companies or entities that we do 
+              not own or control, including links to sites that are not maintained 
+              by us, or to people that we do not employ or manage. Because these 
+              companies or entities may have privacy policies that differ from 
+              this Privacy Policy (or no privacy policy at all), please be sure 
+              to review their respective privacy policies before providing them 
+              with any personal information.</p>
+            <p class="text1bold">Questions, Comments or Concerns</p>
+            <p class="text1">If you have additional questions or concerns regarding our Privacy 
+              Policy, please e-mail us at <a href="mailto:privacy@ASAPtickets.com" class="main">privacy@ASAPtickets.com</a>.</p>
+            <p class="text1bold">Privacy Policy Updates</p>
+            <p class="text1">We may, in our sole discretion, revise this Privacy Policy at any 
+              time; all such revisions shall be effective when posted. If we change 
+              the way your personal information will be used, we will post an 
+              announcement on our homepage. We encourage you to periodically review 
+              this Privacy Policy in order to keep apprised of our current privacy 
+              practices. </p>
+            <p align="center">**********</p>
+            </td>
+	</tr>
 	</tbody></table>
-	
-	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff"> 
-	<tbody><tr valign="top"> 
-	<td> 
-
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#f5f5f5">
-		<tbody><tr> 
-		<td width="100%" align="center" colspan="2" height="25" bgcolor="#dadada">
-		<font style="COLOR:#000033; font-family:verdana; font-weight:bold; font-size:10px; TEXT-DECORATION: none">About us</font></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF">
-		<img src="images/clear.gif" width="1" height="1"></td> 
-		</tr>
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr>
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr>
-		<tr> 
-		<td width="20%" align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="privacy.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Private Policy</a></td> 
-		</tr> 
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="1" height="1"></td> 
-		</tr>
-		<tr> 
-		<td width="20%" align="right"><img src="images/spot.gif" width="9" height="6"></td> 
-		<td width="80%" height="20">&nbsp;&nbsp;
-		<a href="terms.html" style="COLOR: #ff0000; font-size:10px; font-family:verdana, arial; font-weight:bold; TEXT-DECORATION: none; ">Terms of use</a></td> 
-		</tr>  
-		<tr> 
-		<td colspan="2" bgcolor="#FFFFFF"><img src="images/clear.gif" width="2" height="20"></td> 
-		</tr> 
-		</tbody></table> 
-	</td> 
-	</tr> 
-	</tbody></table> 
-	
-<!--End Sidebar --> 
-	</td> 
-	<td width="500px" valign="top"> 
-		
-<table width="500px" align="center" border="0" cellspacing="0" cellpadding="0"> 
-		
-		<tbody><tr valign="top"> 
-		<td><img src="images/clear.gif" width="15px" height="1px"></td> 
-		<td> 
-			<table width="500" border="0" cellspacing="0" cellpadding="0"> 
-			<tbody><tr valign="top"> 
-			<td colspan="2" width="500px" nowrap="">
-
-
-<!------------------------------------- middle part ------------------------------->
-
-
-<table width="500" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#ffffff"> 
-      <td height="1"><img src="images/clear.gif" width="1" height="20"></td>
-    </tr>
-    <tr> 
-      <td height="5"><img src="images/horizontal_blueline.gif" width="500" height="3"></td>
-    </tr>
-  </tbody></table>
-  
-  <table border="0" cellpadding="0" cellspacing="0" width="500">
-  <tbody> 
-  <tr> 
-    <td align="middle" height="16"> 
-      <div align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="-1" color="#ff3300"><b> 
-      ASAPTickets Privacy Statement</b></font></div>
-    </td>
-  </tr>
-  </tbody> 
-</table>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td><img src="images/horizontal_blueline.gif" width="500" height="3"></td>
-  </tr>
-</tbody></table>
-            <div align="right"><i><font color="#999999">Around the clock customer 
-              service.  Mon - Sat</font></i> </div>
-            <br>
-            <!-- #BeginLibraryItem "/Library/Privacy Information.lbi" --> 
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">ASAPTickets.Com 
-  is extremely aware of your privacy concerns so we have a detailed explanation 
-  of all the information that we collect and it's uses. If you have any questions 
-  or suggestions please feel free to send us some <a href="customerservice.html"><font color="#333333">feedback</font></a>.<br>
-  </font><span style="font-size:10.0pt;font-family:Verdana"></span> 
-</p>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr bgcolor="#666666"> 
-    <td height="1"><img height="1" src="images/clear.gif" width="1"></td>
-  </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr> 
-    <td width="641"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-        <tbody><tr bgcolor="#F5F5F5"> 
-          <td colspan="3"> <font face="Georgia, Times New Roman, Times, serif" size="-1" color="#333333"><b> 
-            </b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><b>Privacy 
-            Policy <span style="font-size:10.0pt;font-family:Verdana;color:#0033CC"></span></b></font></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<h4><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">
-  <input type="hidden" value="4" name="page">
-  <br>
-  ASAPTickets.Com has created this privacy statement in order to demonstrate our 
-  firm commitment to privacy. The following discloses our information gathering 
-  and dissemination practices for this website: ASAPTickets.Com.</font></h4>
-<p>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">We use your IP 
-  address to help diagnose problems with our server, and to administer our Web 
-  site. Your IP address is used to help identify you and your shopping cart and 
-  to gather broad demographic information.</font>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">Our site uses 
-  cookies to keep track of your shopping cart.</font>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">Our site's registration 
-  form requires users to give us contact information (like their name and email 
-  address). We use customer contact information from the registration form to 
-  send the user information about our company. The customer's contact information 
-  is also used to contact the visitor when necessary. Users may opt-out of receiving 
-  future mailings; see the choice/opt-out section below.</font>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">This site contains 
-  links to other sites. <b>ASAPTickets.Com</b> is not responsible for the privacy 
-  practices or the content of such Web sites. </font>
-</p><p> 
-</p><p>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">Our site uses 
-  an order form for customers to request information, products, and services. 
-  We collect visitor's contact information (like their email address) and financial 
-  information (like their account or credit card numbers). Contact information 
-  from the order form is used to send orders and information about our company 
-  to our customers. The customer's contact information is also used to get in 
-  touch with the visitor when necessary. Users may opt-out of receiving future 
-  mailings; see the choice/opt-out section below. Financial information that is 
-  collected is used to bill the user for products and services. </font>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">Our online surveys 
-  ask visitors for contact information (like their email address). We use contact 
-  data from our surveys to send the user information about our company The customer's 
-  contact information is also used to contact the visitor when necessary. Users 
-  may opt-out of receiving future mailings; see the choice/opt-out section below. 
-  </font>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">We run contests 
-  on our site in which we ask visitors for contact information (like their email 
-  address). We use contact data from our contests to send users information about 
-  our company and promotional material from some of our partners. The customer's 
-  contact information is also used to contact the visitor when necessary. Users 
-  may opt-out of receiving future mailings; see the choice/opt-out section below. 
-  </font>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">We use an outside 
-  ad company to display ads on our site. These ads may contain cookies. While 
-  we use cookies in other parts of our Web site, cookies received with banner 
-  ads are collected by our ad company, and we do not have access to this information. 
-  Some customer data is shared with the advertising companies. <br>
-  </font>
-</p><p><span style="font-size:10.0pt;font-family:Verdana"></span> 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr bgcolor="#666666"> 
-    <td height="1"><img height="1" src="images/clear.gif" width="1"></td>
-  </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr> 
-    <td width="641"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-        <tbody><tr bgcolor="#F5F5F5"> 
-          <td colspan="3"> <font face="Georgia, Times New Roman, Times, serif" size="-1" color="#333333"><b> 
-            </b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><b><span style="font-size:10.0pt;font-family:Verdana;
-
-color:#0033CC"><font color="#333333">Choice/ Opt-Out</font></span></b> <b><span style="font-size:10.0pt;font-family:Verdana;color:#0033CC"></span></b></font></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">Our site provides 
-  users the opportunity to opt-out of receiving communications from us and our 
-  partners at the point where we request information about the visitor. </font>
-</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">This site gives 
-  users the following options for removing their information from our database 
-  to not receive future communications or to no longer receive our service. </font>
-</p><p><span style="font-size:10.0pt;font-family:Verdana"></span> 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr bgcolor="#666666"> 
-    <td height="1"><img height="1" src="images/clear.gif" width="1"></td>
-  </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr> 
-    <td width="641"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-        <tbody><tr bgcolor="#F5F5F5"> 
-          <td colspan="3"> <font face="Georgia, Times New Roman, Times, serif" size="-1" color="#333333"><b> 
-            </b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><b><span style="font-size:10.0pt;font-family:Verdana;
-
-color:#0033CC"><font color="#333333">Correct/Update</font></span> <span style="font-size:10.0pt;font-family:Verdana;color:#0033CC"></span></b></font></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</p><h4><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><b>This site 
-  gives users the following options for changing and modifying information previously 
-  provided. </b></font></h4>
-<ol>
-  <li><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">email <a href="feedback.html">admin@ASAPTickets.com</a> 
-    </font>
-</li></ol>
-<p><span style="font-size:10.0pt;font-family:Verdana"></span> 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr bgcolor="#666666"> 
-    <td height="1"><img height="1" src="images/clear.gif" width="1"></td>
-  </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr> 
-    <td width="641"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-        <tbody><tr bgcolor="#F5F5F5"> 
-          <td colspan="3"> <font face="Georgia, Times New Roman, Times, serif" size="-1" color="#333333"><b> 
-            </b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><b><span style="font-size:10.0pt;font-family:Verdana;
-
-color:#0033CC"><font color="#333333">Contact Us</font></span> <span style="font-size:10.0pt;font-family:Verdana;color:#0033CC"></span></b></font></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<br>
-<font face="Verdana, Arial, Helvetica, sans-serif" size="-1">If you have any questions 
-about this privacy statement, the practices of this site, or your dealings with 
-this Web site, go to our <a href="customerservice.html">customer service section</a>. 
-</font> 
-</p><p> 
-</p></td>
+	</td>
 </tr>
-</tbody></table></td>
-</tr>
-</tbody></table></td>
+<tr> 
+	<td width="400" height="15" align="left" valign="top"><img src="images/so2.gif" width="400" height="15"></td>
 </tr>
 </tbody></table>
+<p>&nbsp;</p>
+</td>
 
-
-
-<!---------------------------------------------- footer------------------------------------------------------------------->
-
-<table width="700" border="0" cellspacing="0" cellpadding="0" height="4" align="center">
-<tbody><tr><td bgcolor="#ffffff"><img src="images/clear.gif" width="700" height="20px" alt="" border="0"></td></tr>
+</tr>
 <tr>
-</tr><tr><td><img src="images/horizontal_blueline.gif" width="700" height="5"></td></tr>
-<tr><td bgcolor="#ffffff"><img src="images/clear.gif" width="700" height="20px" alt="" border="0"></td></tr>
-<tr>
-</tr><tr> 
-<td align="center" valign="top">
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.asaptickets.com" style="COLOR: #000099; TEXT-DECORATION: none">Home</a>&nbsp;<font color="#000099">|</font>&nbsp;<a href="contact.html" style="COLOR: #000099; TEXT-DECORATION: none">Contact Us</a>&nbsp;<font color="#000099">|</font>&nbsp;<a href="feedback.html" style="COLOR: #000099; TEXT-DECORATION: none">Feedback</a>&nbsp;<font color="#000099">|</font>&nbsp;<a href="privacy.html" style="COLOR: #000099; TEXT-DECORATION: none">Privacy</a>&nbsp;<font color="#000099">|</font>&nbsp;<font color="#000099">Copyright © 2001-2002 ASAP Tickets, Inc.</font>&nbsp;<font color="#000099">|</font>&nbsp;<font color="#000099">All Rights Reserved</font></font></td>
+         <td height="4" align="left" valign="top"><img src="images/spacer.gif" width="1" height="3"></td>
 </tr>
-</tbody></table>
-</div>
 
-</body></html>
+        <tr>
+          <td align="left" valign="top" colspan="4">
+          <table width="100%" cellspacing="0" cellpadding="0">
+	<tbody><tr> 
+		<td colspan="2" class="text1"><div align="center"> 
+        	<hr align="center" width="70%" noshade="" color="#F4F4F4">
+        	<a href="/index.php" class="footer">Home</a> | 
+        	<a href="/about.php" class="footer">About us</a> | 
+        	<a href="/search.php" class="footer">Flight search</a> | 
+        	<a href="/specials.php" class="footer">Specials</a> | 
+        	<a href="/insurance.php" class="footer">Insurance</a> | 
+        	<a href="/support.php" class="footer">Customer service</a>
+        	<br>
+        	<a class="footer" href="javascript:void(0);" onclick="javascript:window.external.AddFavorite('http://www.asaptickets.com/index.php','ASAPTickets - best fares on international flights');">Bookmark us</a>
+      		</div>
+      		<br>
+      		</td>
+  	</tr>
+  	<tr> 
+    		<td class="cpy1" width="30%">
+		<div align="left">
+		<a href="/policy.php" class="cpy">Privacy Policy</a> | <a href="/terms.php" class="cpy"> Terms and Conditions</a></div></td>
+    		<td class="cpy" width="70%"><div align="right">Copyright © 2000 - 2003 ASAPTickets Inc</div></td>
+  	</tr>
+  	<tr>
+  		<td colspan="2">
+  		
+  		<span style="font-size: 9px; color: #FFFFFF;">Online: 39</span>  		
+  		</td>
+  	</tr>
+  	</tbody></table>
+  	</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+
+
+</td></tr></tbody></table></body></html>
