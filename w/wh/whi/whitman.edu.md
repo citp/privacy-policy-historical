@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210104326id_/http%3A//www.whitman.edu/pieces/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618060407id_/http%3A//www.whitman.edu/pieces/privacy.html) for the most accurate reproduction.*
 
 # Whitman College --
 
@@ -54,11 +54,11 @@ If you have any questions about the security at our web site, you can send an em
 If a person's personal information (such as address or phone number) changes we will endeavor to provide a way to correct, or update that user's personal data. Send corrections to [Whitman Webteam](mailto:webteam@whitman.edu).
 
 **How to contact us with questions or comments**  
-You can reach us through one of the following [contacts](https://web.archive.org/web/20021210104326id_/http%3A//www.whitman.edu/pieces/comments.html) or through the [Office of Communication](mailto:communication@whitman.edu). 
+You can reach us through one of the following [contacts](https://web.archive.org/web/20030618060407id_/http%3A//www.whitman.edu/pieces/comments.html) or through the [Office of Communication](mailto:communication@whitman.edu). 
 
   
 
 
 * * *
 
-[[CAMPUS DIRECTORY](https://web.archive.org/index/directory.html)] [[SITE SEARCH](https://web.archive.org/search/)] [[PRIVACY](https://web.archive.org/pieces/privacy.html)] [[COPYRIGHT](https://web.archive.org/policy/copyright.html)] [[CONTACT & COMMENTS](https://web.archive.org/pieces/comments.html)] 
+[[CAMPUS DIRECTORY](https://web.archive.org/index/directory.html)] [[A-Z INDEX](https://web.archive.org/index/a-z.html)] [[SITE SEARCH](https://web.archive.org/search/)] [[PRIVACY](https://web.archive.org/pieces/privacy.html)] [[COPYRIGHT](https://web.archive.org/policy/copyright.html)] [[CONTACT US](https://web.archive.org/pieces/comments.html)] 
