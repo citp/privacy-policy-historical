@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413073549id_/http%3A//www.ochsner.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2004-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040319145833id_/http%3A//www.ochsner.org/privacy) for the most accurate reproduction.*
 
 # Ochsner Clinic Foundation Medical Information Privacy Policy
 
 **Ochsner Clinic Foundation  
 Patient Privacy Statement**
 
-**(HIPAA Notice of Privacy Practices)**
+**Notice of Privacy Practices**
 
-The record of the medical care you receive at Ochsner Clinic Foundation – your medical information – has always been treated as personal and private. However, this medical information is now also governed by federal privacy laws that we are required to communicate to you.
+The record of the medical care you receive at Ochsner Clinic Foundation – your medical information – has always been treated as personal and private. However, federal privacy laws that we are required to communicate to you now also govern this medical information. 
 
 There are circumstances under which we, as the provider of your health care, are permitted to use and disclose your medical information:
 
 In order to provide you with medical treatment and coordinate your care, physicians, nurses, technicians, medical students and other personnel within the institution may share your medical information with one another. We may communicate it to individuals outside the institution who are involved in your medical care. We may disclose medical information about you to your insurance company for the purposes of reimbursement. We may review your medical information to make sure that your care has met our standards, and we may use it to educate our own staff and students. The medical information of our patients may also be collected, tabulated and analyzed to help us improve overall clinic and hospital services. We may share these statistical data with other healthcare institutions in order to better evaluate our own performance. As the patient, you are entitled to request a restriction on the medical information we use or disclose about you for treatment, payment, or the improvement of clinic and hospital operations.
 
-Appointment reminders, and communications to you about other treatments or services, entail the disclosure of your medical information. You may request that we communicate confidentially with you. If you are a patient in the hospital, certain limited information about you will be entered in the hospital directory for the benefit of your visitors. Your religious affiliation may be revealed to a priest or rabbi. We may disclose your medical information to a family member or friend who is involved in your care, but you may request a limit to the information we share with them. Under certain circumstances your medical information may be used for research purposes. All research projects are carefully monitored. The philanthropic division of our organization may use your contact information to include you in its fundraising efforts.
+Appointment reminders, and communications to you about other treatments or services, entail the disclosure of your medical information. You may request that we communicate confidentially with you. If you are a patient in the hospital, certain limited information about you will be entered in the hospital directory for the benefit of your visitors. If you give us your religious affiliation, it may be revealed to a priest, rabbi, pastor or minister. We may disclose your medical information to a family member or friend who is involved in your care, but you may request a limit to the information we share with them. Under certain circumstances your medical information may be used for research purposes. All research projects are carefully monitored. The philanthropic division of our organization may use your contact information to include you in its fundraising efforts.
 
-Entities to which we may disclose your medical information are funeral directors, the coroner or medical examiner, Workers’ Compensation programs, public health officials, state and federal agencies charged with oversight of the health care system, correctional institutions, military authorities, and national security and intelligence agencies. In serious situations we may release medical information about you to law enforcement agencies. We may disclose medical information in the defense of a malpractice claim, or in response to a court or administrative order.
+Entities to which we may disclose your medical information are funeral directors, the coroner or medical examiner, Workers’ Compensation programs, public health officials, state and federal agencies charged with oversight of the health care system, correctional institutions, military authorities, and national security and intelligence agencies. In serious situations we may release medical information about you to law enforcement agencies. We may disclose medical information in the defense of a malpractice claim, or in response to a court or administrative order. 
 
-Except under special circumstances, you are entitled to view and/or copy your medical record. You have the right to amend your medical information if you have reason to believe it is incorrect or incomplete. You are entitled to receive a list of those entities or individuals to whom we may have disclosed your medical information. You are entitled to receive a paper copy of the full Notice of Privacy Practices. Finally, if you feel your privacy rights have been infringed, you may file a complaint, without fear of penalty, with our institution or with the Federal Government. 
+Except under special circumstances, you are entitled to view and/or copy your medical record. You have the right to amend your medical information if you have reason to believe it is incorrect or incomplete. You are entitled to receive a list of those entities or individuals to whom we may have disclosed your medical information. You are entitled to receive a paper copy of the full Notice of Privacy Practices. Finally, if you feel your privacy rights have been infringed, you may file a complaint, without fear of penalty, with our institution or with the Federal Government.
 
 **OCHSNER CLINIC FOUNDATION  
 HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT  
 NOTICE OF PRIVACY PRACTICES**  
-Version: Number 1  
+Version: Number 2  
 Effective Date: December 16, 2002
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN OBTAIN ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-If you have any questions about this notice, please call **1-800-874-8984** (in-state), or **1-800-348-7876** (out-of-state) and ask to speak with the Patient Relations Department.
+If you have any questions about this notice, please call **1-866-842-7099** and ask to speak with the [Patient Relations Department](https://web.archive.org/patients/relations.html).
 
   
 **OUR PLEDGE REGARDING MEDICAL INFORMATION**  
@@ -61,7 +61,7 @@ The following categories describe several different ways that we use and disclos
 
 **Fundraising Activities** : We may use medical information about you to contact you in an effort to raise money for our organization. We may disclose medical information to our Philanthropy Department so that they may contact you in raising money for the hospital and clinic. However, we would only release contact information, like your name, address and phone number and the dates you received treatment or services.
 
-**Hospital Directory** : We may include certain limited information about you in the hospital directory while you are a patient at the hospital. This information may include your name, location in the hospital, your general condition (e.g., fair, stable, etc.) and your religious affiliation. This directory information would only be given to clergy, for example, a priest or rabbi. The directory information, but not your religious affiliation, may also be released to people who ask for you by name. This is so your family and friends can visit you in the hospital and generally know how you are doing.
+**Hospital Directory** : We may include certain limited information about you in the hospital directory while you are a patient at the hospital. This information may include your name, location in the hospital and your general condition (e.g., fair, stable, etc.). If you give us your religious affiliation, this information would be included in the hospital directory. The directory information, but not your religious affiliation, may also be released to people who ask for you by name. This is so your family and friends can visit you in the hospital and generally know how you are doing.
 
 **Individuals Involved in Your Care** : We may discuss medical information about you with a friend or family member who is involved in your medical care. We may also tell your family or friends your condition and that you are in the hospital. In addition, we may disclose medical information about you to an entity assisting in a disaster relief effort so that your family can be notified about your condition, status and location.
 
@@ -143,17 +143,10 @@ We may deny your request to inspect and copy in certain very limited circumstanc
 
 To request an amendment, your request must be made in writing and submitted to:
 
-> Director, Health Information Management Department  
+> Patient Relations Department  
 >  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
-
-or
-
-> Supervisor, Health Information Management Department  
->  Ochsner Clinic Foundation  
->  9001 Summa Avenue  
->  Baton Rouge, LA 70809
 
 In addition, you must provide a reason that supports your request.
 
@@ -170,17 +163,10 @@ We may deny your request for an amendment if it is not in writing or does not in
 
 To request this list or accounting of disclosures, you must submit your request in writing to:
 
-> Director, Health Information Management Department  
+> Patient Relations Department  
 >  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
-
-or
-
-> Supervisor, Health Information Management Department  
->  Ochsner Clinic Foundation  
->  9001 Summa Avenue  
->  Baton Rouge, LA 70809 
 
 Your request must state a time period, which may not be longer than six years and may not include dates before February 26, 2003\. Your request should indicate in what form you want the list (for example, on paper, electronically). The first list you request within a 12-month period will be free. For additional lists, we may charge you for the costs of providing the list. We will notify you of the cost involved and you may choose to withdraw or modify your request at that time before any costs are incurred.
 
@@ -190,17 +176,10 @@ _We are not required to agree to your request_. If we do agree, we will comply w
 
 To request restrictions, you must make your request in writing to:
 
-> Director, Health Information Management Department  
+> Patient Relations Department  
 >  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
-
-or
-
-> Supervisor, Health Information Management Department  
->  Ochsner Clinic Foundation  
->  9001 Summa Avenue  
->  Baton Rouge, LA 70809
 
 In your request, you must tell us (1) what information you want to limit; (2) whether you want to limit our use, disclosure or both; and (3) what you want to limit, for example, disclosure to your spouse.
 
@@ -208,17 +187,10 @@ In your request, you must tell us (1) what information you want to limit; (2) wh
 
 To request confidential communications, you must make your request in writing to:
 
-> Director, Health Information Management Department  
+> Patient Relations Department  
 >  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
-
-or
-
-> Supervisor, Health Information Management Department  
->  Ochsner Clinic Foundation  
->  9001 Summa Avenue  
->  Baton Rouge, LA 70809
 
 We will not ask you the reason for your request. We will accommodate all reasonable requests. Your request must specify how or where you wish to be contacted.
 
@@ -226,17 +198,12 @@ We will not ask you the reason for your request. We will accommodate all reasona
 
 To obtain a paper copy of this notice, contact:
 
-> Director, Health Information Management Department  
+> Patient Relations Department  
 >  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
-or
-
-> Supervisor, Health Information Management Department  
->  Ochsner Clinic Foundation  
->  9001 Summa Avenue  
->  Baton Rouge, LA 70809
+[Click here for a printable (pdf) version of this notice.](http://www.ochsnerfoundation.org/privacy.pdf)
 
 **  
 CHANGES TO THIS NOTICE**  
@@ -250,13 +217,6 @@ If you believe your privacy rights have been violated, you may file a complaint 
 >  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
-
-or
-
-> Patient Relations Department  
->  Ochsner Clinic Foundation  
->  9001 Summa Avenue  
->  Baton Rouge, LA 70809
 
 All complaints must be submitted in writing.
 
