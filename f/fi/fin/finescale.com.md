@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603171907id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201164517id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
 
 # KALMBACH PUBLISHING CO. - Information Practices
 
@@ -44,7 +44,7 @@ If you subscribe to one or more of our magazines, you will also receive a notice
 
 At the time you volunteer personally identifiable information and at anytime thereafter, you can direct us not to use this information for promotional or informational mailings. At your option, you may also elect to suppress the mailing of renewal notices for any of our magazines. If you do so, your personally identifiable information will be flagged in our system as "do not promote" to correspond with your request, and you will be excluded from the related Kalmbach mailings. You can also elect separately to be excluded from mailings by any third party to whom your address might otherwise be provided. Simply let us know, and we'll be happy to tailor things according to the degree of privacy you may choose!
 
-You can, at any time, send such directions to our Customer Service Department at Kalmbach Publishing Co., P.O. Box 1612, Waukesha WI 53187-1612, or simply e-mail us at [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com) or [webmaster@kalmbach.com](mailto:webmaster@kalmbach.com). Customer Service can also be reached by calling toll-free, 800-446-5489, 8:30am - 5:00pm Central Time, Monday - Friday. Outside the US and Canada, call 262-796-8776. The fax number is 262-796-1615.
+You can, at any time, send such directions to our Customer Service Department at Kalmbach Publishing Co., P.O. Box 1612, Waukesha WI 53187-1612, or simply contact us at [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com) or [webmaster@kalmbach.com](mailto:webmaster@kalmbach.com). Customer Service can also be reached by calling toll-free, 800-533-6644, 8:30am - 5:00pm Central Time, Monday - Friday. Outside the US and Canada, call 262-796-8776. The fax number is 262-796-1615.
 
 There are also national clearinghouse organizations where you can register to suppress unwanted solicitations. The most prominent of these is the Direct Marketing Association (DMA), of which Kalmbach Publishing Co. is a member. The DMA provides mail, e-mail and telephone data base "preference services" free of charge to consumers who wish to block all unsolicited direct mail, e-mail and telemarketing contacts, respectively. For more information, visit DMA's web site at [www.the-dma.org](http://www.the-dma.org/), or contact them at (202) 955-5030.
 
@@ -64,7 +64,7 @@ For other transactions such as those where we have provided online customers wit
 Customer Service Department  
 P.O. Box 1612  
 Waukesha, WI 53187-1612  |   |  [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com)  
-800-446-5489 (US & Canada)  
+800-533-6644 (US & Canada)  
 262-796-8776  
 262-796-1615 (fax)   
 ---|---|---
