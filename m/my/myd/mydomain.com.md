@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the mydomain.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331002347id_/http%3A//mydomain.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydomain.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601120412id_/http%3A//mydomain.com/about/privacy) for the most accurate reproduction.*
 
 # Domains - Domain Names - DNS Management - Domain Registration - Privacy Statement
 
-[ Home](http://www.mydomain.com/)  >  [ About](http://www.mydomain.com/about)   
+[ Home](https://web.archive.org/)  >  About   
 **PRIVACY STATEMENT**
 
 _mydomain.com_ has adopted this Privacy Statement as an expression of our commitment to fair electronic information practices. 
 
 **Your Personal Information**
 
-When you sign up for membership at _mydomain.com_ , we require the personal information listed in our application found at http://www. _mydomain.com_. When you subscribe, you agree to provide and maintain accurate and complete information. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. 
+When you sign up for membership at _mydomain.com_ , we require the personal information listed in our application found at http://www. _mydomain.com_. When you subscribe, you agree to provide and maintain accurate and complete information. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure,  unauthorized alteration or destruction of that information. 
 
-If the information you have provided us requires modification, you can make changes at any time by contacting us via email at [support@mydomain.com](mailto:support@mydomain.com). 
+If the information you have provided us requires modification, you can make changes at any time yourself from within your account.  Simply [Login](https://web.archive.org/members/register) to your account, you will see your domain list (unless you have a large number of domains in your account) From here you can select Update Member Profile, which will take you to the profile editing page.  You are now free to update your contact information. 
+
+As you are responsible for the content of your domain, and website, you should as a rule always list valid contact information.  You can list a PO box, or your parents address that you use to pick up mail, but it should be real. 
 
 **Who Has Access?**
 
@@ -27,4 +29,4 @@ _mydomain.com_ may disclose personal information about you if required to do so 
 
 **Your Privacy Concerns**
 
-If you feel that _mydomain.com_ has violated our Privacy Statement in any way, contact us via email at [support@mydomain.com](mailto:support@mydomain.com). 
+If you feel that _mydomain.com_ has violated our Privacy Statement in any way, contact us via email from our [contact page](https://web.archive.org/about/contactus). 
