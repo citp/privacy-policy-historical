@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitpipe.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604132653id_/http%3A//bitpipe.com/about/privacy_policy_bp.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpipe.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208024523id_/http%3A//www.bitpipe.com/about/privacy_policy_bp.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ We use these tracking technologies for a variety of purposes, including:
 
   * Keeping count of return visits to our site or our partners' sites 
   * Accumulating and reporting anonymous, aggregate, statistical information on Web site and content usage to our partners and customers 
-  * Determining which features visitors like best to help us improve our content and site, and measure overall site effectiveness 
+  * Determining which features visitors like best to help us improve our content and site, personalize your user experience, and measure overall site effectiveness 
   * Saving your password so you don't have to re-enter it each time you visit our sites 
 
 
@@ -66,4 +66,4 @@ Bitpipe may modify or amend this policy from time to time. If we make any materi
 **Contact Details**  
 If you have any queries about this policy, wish to review your personal data to ensure it is accurate or have any other comments, please contact us at privacy@bitpipe.com or 617.350.7771 x 245. 
 
-Updated 20 May 2003 
+Updated 04 October 2004 
