@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hksi.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206222955id_/http%3A//www.hksi.org/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hksi.org privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609225118id_/http%3A//www.hksi.org/eng/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Hong Kong Securities Institute
 
@@ -35,7 +35,7 @@ Except expressly stated otherwise, none of the information and materials mention
 
 
 All enquiries regarding the personal data should be in writing to:  
-Director - of Finance and Administration Department  
+Director - Finance and Administration Department  
 Hong Kong Securities Institute  
 Room 2403-08, 24/F  
 Wing On Centre  
