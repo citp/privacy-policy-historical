@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204192900id_/http%3A//digitaljournal.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409010236id_/http%3A//digitaljournal.com/privacy.php3) for the most accurate reproduction.*
 
 # notopic - DigitalJournal.com - Creative Net For Creative Minds
 
