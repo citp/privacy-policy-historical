@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402000603id_/http%3A//www.translated.net/en/policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216042940id_/http%3A//www.translated.net/en/policy.php3) for the most accurate reproduction.*
 
 # TRANSLATED.NET Translations and Interpreting
 
