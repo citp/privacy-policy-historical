@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603034855id_/http%3A//www.snow-forecast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209153656id_/http%3A//www.snow-forecast.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement for Snow-Forecast.com
 
-##  Privacy Statement for snow-forecast.com 
+## **Privacy Statement for snow-forecast.com**
 
 **snow-forecast.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ snow-forecast.com ](http://www.snow-forecast.com/)
 
@@ -12,7 +12,7 @@ We use your IP address to gather broad demographic information.
 
 ####  Advertisers 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use an outside ad company to display some of our ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
 Some customer data is shared with the advertising companies. 
 
@@ -42,17 +42,17 @@ This site contains links to other sites. **snow-forecast.com** is not responsibl
 
 ####  Public Forums 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 ####  Security 
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. _(** Please elaborate on the security measures that you have in place. **)_
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Our servers are protected by a firewall and UPS. Daily backups are made of the site and data which are stored on separate computers in another part of the Country..
 
 ####  Choice/Opt-Out 
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us . 
 
-  1. You can send email to [ feedback@snow-forecast.com ](mailto:feedback@snow-forecast.com)
+  1. You can send email to [ help@snow-forecast.com ](mailto:help@snow-forecast.com)
 
 
 
@@ -60,7 +60,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [ feedback@snow-forecast.com ](mailto:feedback@snow-forecast.com)
+  1. You can send email to [ help@snow-forecast.com ](mailto:help@snow-forecast.com)
 
 
 
@@ -68,5 +68,3 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
-
-[ privacy@snow-forecast.com ](mailto:privacy@snow-forecast.com)
