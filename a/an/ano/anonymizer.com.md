@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202224400id_/http%3A//www3.anonymizer.com/docs/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331083816id_/http%3A//www3.anonymizer.com/docs/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Anonymizer.com -- Online Privacy Services
 
