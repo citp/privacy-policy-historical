@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2020software.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204173017id_/http%3A//www.2020software.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2020software.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206111821id_/http%3A//www.2020software.com/privacy.asp) for the most accurate reproduction.*
 
 # Top 20 Accounting Systems and Accounting Software from 2020software.com
 
