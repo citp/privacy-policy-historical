@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613162705id_/http%3A//www.neamb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202044427id_/http%3A//www.neamb.com/privacy.html) for the most accurate reproduction.*
 
-# NEA Member Benefits - About NEA MB - Privacy Policy
+# NEA Member Benefits - Privacy Policy
 
   
 
@@ -20,7 +20,7 @@ NEA Member Benefits values the privacy of NEA members, and we believe that the b
 
 When you register on our Web Site as a member of the NEA, you provide your name, address, telephone number, password, a unique login name, and your social security number. This information is collected on the registration form for several reasons: 1) future personal identification, 2) to verify membership (including family member), 3) to maintain a Members Only area on the Site, and 4) to customize the content of our Site to meet your specific needs. In addition, your E-mail address may be used to send you an E-mail message confirming your member registration and to announce future NEA MB Programs and Web Site enhancements. 
 
-All of the www.neamb.com member data are kept secure and confidential and are well protected against unauthorized access. NEA Member Benefits does not sell, trade, rent or lease personal information about our members to any third party–period. 
+All of the www.neamb.com member data are kept secure and confidential and are well protected against unauthorized access. NEA Member Benefits does not sell, trade, rent, lease or share personal information about our members to any third party non-NEA source **(period)**. 
 
 **Online Surveys and Contests**
 
