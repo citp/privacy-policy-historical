@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devhood.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605081312id_/http%3A//devhood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devhood.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017075655id_/http%3A//www.devhood.com/privacy.html) for the most accurate reproduction.*
 
 # Terms and Conditions of DevHood
 
