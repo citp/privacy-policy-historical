@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603161807id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
 
@@ -6,14 +6,14 @@
 ---  
 **·** | 
 
-[United States](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/us/index.htm)  
+[United States](https://web.archive.org/web/20020603161807id_/http%3A//www.interment.net/us/index.htm)  
   
-**·** | [Canada](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/can/index.htm)  
-**·** | [Australia ](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/aus/index.htm)  
-**·** | [New Zealand ](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/nz/index.htm)  
-**·** | [Ireland](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/ireland/index.htm)  
-**·** | [United Kingdom ](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/uk/index.htm)  
-**·** | [Other Countries ](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/other/index.htm)  
+**·** | [Canada](https://web.archive.org/web/20020603161807id_/http%3A//www.interment.net/can/index.htm)  
+**·** | [Australia ](https://web.archive.org/web/20020603161807id_/http%3A//www.interment.net/aus/index.htm)  
+**·** | [New Zealand ](https://web.archive.org/web/20020603161807id_/http%3A//www.interment.net/nz/index.htm)  
+**·** | [Ireland](https://web.archive.org/web/20020603161807id_/http%3A//www.interment.net/ireland/index.htm)  
+**·** | [United Kingdom ](https://web.archive.org/web/20020603161807id_/http%3A//www.interment.net/uk/index.htm)  
+**·** | [Other Countries ](https://web.archive.org/web/20020603161807id_/http%3A//www.interment.net/other/index.htm)  
   
   
   
