@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imagecave.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205124502id_/http%3A//www.imagecave.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagecave.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404193509id_/http%3A//www.imagecave.com/privacy.asp) for the most accurate reproduction.*
 
-# ImageCave - Free Image Hosting and Photo Sharing
+# Imagecave.com privacy statement.
 
 Privacy Statement
 
