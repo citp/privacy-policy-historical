@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203001623id_/http%3A//www.wachovia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402093332id_/http%3A//www.wachovia.com/privacy) for the most accurate reproduction.*
 
 # Wachovia Privacy Statement
 
@@ -10,7 +10,7 @@
 
 ## Privacy At a Glance
 
-Wachovia is your partner in helping you achieve your financial goals.  We are dedicated to providing you with the highest level of service and protecting your privacy.  As technology continues to transform the way information is collected and distributed, we want to make sure you know that we have implemented a number of industry leading practices for safeguarding the privacy and security of financial information about you.
+Wachovia1 is your partner in helping you achieve your financial goals.  We are dedicated to providing you with the highest level of service and protecting your privacy.  As technology continues to transform the way information is collected and distributed, we want to make sure you know that we have implemented important practices for safeguarding the privacy and security of financial information about you.
 
   * We employ safeguards to protect customer information and to prevent fraud.
   * We carefully manage information about you among the companies that make up Wachovia.  By understanding your complete relationship with us, we can provide you with more personalized and efficient service.
@@ -32,32 +32,11 @@ _How to Reach Us to Exercise Your Choices_
 
   * Visit a Wachovia financial center.
   * Call us at (866) 203-5722 to speak to a representative (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114).
-  * Complete our online [Consumer Privacy Preference Form](https://funb.firstunion.com/cgi-bin/privacy/funb_optout.cgi).
+  * Complete our online [Consumer Privacy Preference Form](http://www.wachovia.com/personal/forms/privacy_optout).
 
 
   *   *   *   *   * 
 
-
-Since this is a summary, it is important that you read the rest of this statement below.
-
-About This Statement  
-How We Secure Your Assets and Protect Information About You  
-How We Protect Your Privacy Online  
-How We Gather Information to Understand Your Financial Needs  
-How We Manage Information to Serve Your Needs  
-Your Choices as a Customer  
-Identity Theft Assistance  
-How to Limit Direct Marketing from Other Companies  
-We Strive to Maintain Accurate Information  
-If You Have Questions, Contact Us
-
-## **About This Statement**
-
-This Privacy Statement explains how Wachovia handles and protects customer information. Wachovia Corporation, or Wachovia, includes multiple companies, such as Wachovia Bank, N.A., Wachovia Mortgage Corporation and Wachovia Securities, LLC. This statement applies to consumers who are customers or former customers of the Wachovia companies. Customers of certain Wachovia Corporation businesses, such as Wachovia Mortgage Corporation, will be separately notified of the specific privacy policies that are applicable to those businesses.
-
-We may change this statement from time to time based on our need to accurately reflect how we gather and manage customer information.  All changes to this statement will be effective upon posting on wachovia.com. This statement was last updated on February 6, 2003, and replaces the Privacy Statement previously provided on this website.
-
- Back to Top
 
 ## How We Secure Your Assets and Protect Information About You
 
@@ -87,7 +66,7 @@ For more information on our Internet security measures, please visit our [Secur
 
 ## How We Gather Information to Understand Your Financial Needs
 
-The information we gather about you helps us to better understand your financial needs and to provide more personalized, efficient service to you.  For example, this information may prompt us to suggest overdraft protection for your checking account, or recommend an investment account that has the potential to pay you higher earnings.  
+The information we gather about you helps us to better understand your financial needs and to provide more personalized, efficient service to you.  For example, this information may prompt us to suggest overdraft protection for your checking account, or recommend an investment product that has the potential to pay you higher earnings.  
 
 The information we gather comes from a variety of sources, including:
 
@@ -168,7 +147,7 @@ You also have a choice about how information about you is managed within Wachovi
 
 Whatever your preferences, we will honor your wishes and respect your privacy.  Your preferences will remain in effect until you tell us otherwise.  You do not need to notify us if you have already indicated your preferences to us. 
 
-To discuss your options, inform us of a preference, or provide us with feedback, call us at (866) 203-5722 (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114), visit a Wachovia financial center or complete our online [Consumer Privacy Preference Form](https://funb.firstunion.com/cgi-bin/privacy/funb_optout.cgi).
+To discuss your options, inform us of a preference, or provide us with feedback, call us at (866) 203-5722 (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114), visit a Wachovia financial center or complete our online [Consumer Privacy Preference Form](http://www.wachovia.com/personal/forms/privacy_optout).
 
 If you contact us, we will assume your preferences apply to you only - unless you tell us that they also apply to other individuals listed on your accounts.
 
@@ -180,9 +159,9 @@ Please note that we are committed to providing you with superior service.  Occa
 
 If you believe you may be a victim of identity theft:
 
-  1. Contact us at (888) 647-3648 to place holds on your accounts and obtain a free copy of Wachovia’s [Customer Fraud Assistance Package](https://web.archive.org/file/new_fraud_0728.pdf) .
+  1. Contact us at 888-647-3648 to place holds on your accounts, obtain a free copy of Wachovia’s [Customer Fraud Assistance Package](https://web.archive.org/file/new_fraud_0728.pdf)  or for other assistance.  
   2. Contact the Social Security Administration’s Fraud Hotline at (800) 269-0271 to report fraudulent use of your identification information.
-  3. Report the incident as quickly as possible to each of the credit reporting agencies:
+  3. Report the incident as quickly as possible to the credit reporting agencies:
 
 
 
@@ -223,6 +202,8 @@ If you believe we have reported inaccurate information about your account to any
 ## If You Have Questions, Contact Us
 
 We welcome the opportunity to answer any questions you may have about this statement or the safeguarding and confidentiality of your information.  For more information, please read our [Internet Privacy](http://www.wachovia.com/inside/legal_footer/0,,2157_2158,00.html) section, visit a Wachovia financial center, or call us at (866) 203-5722 (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114) to speak to a representative.
+
+1 Wachovia Corporation, or Wachovia, includes multiple companies, such as Wachovia Bank, N.A., Wachovia Mortgage Corporation and Wachovia Securities, LLC. This Privacy Statement applies to all Wachovia companies unless the Wachovia company provides notice that a separate Privacy Statement applies to that company.  This Privacy Statement explains how we handle and protect information and replaces any Privacy Statements previously provided.  The Privacy Statement applies to consumers who are customers or former customers of Wachovia companies and have established relationships with Wachovia in the United States.  The policies and practices described in this Privacy Statement are subject to change, but we will notify you of any significant changes.
 
   
 
