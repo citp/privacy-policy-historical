@@ -1,45 +1,69 @@
-> *The following text is extracted and transformed from the bitpipe.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004125244id_/http%3A//www.bitpipe.com/about/privacy_policy_bp.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpipe.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208163619id_/http%3A//bitpipe.com/about/privacy_policy_bp.jsp) for the most accurate reproduction.*
 
-# Bitpipe: Privacy Policy
+# Privacy Policy
 
 **Bitpipe's Overall Philosophy**  
-Bitpipe is committed to protecting our users' privacy. This statement is meant to inform our users of how we define, gather and utilize personally identifiable information. Bitpipe will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and the applicable laws. 
+Bitpipe is committed to protecting our users' privacy. This statement is meant to inform our users of how we define, gather and utilize personally identifiable information. Bitpipe will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and the applicable laws.
 
-**Information Collected**   
-As a standard practice, Bitpipe assigns a random number to each user for anonymously tracking content preferences and traffic patterns. This random number lets us keep track of "how many" times folks are doing specific things - like visiting our site each month - without really knowing who those folks are (unless they specifically tell us). We analyze this data for trends and statistics, such as which parts of our site users are visiting and how long they spend there. We also gather information about what folks are searching for. We use all this information in order to improve our content, plan site enhancements, and measure overall site effectiveness, and therefore to make the site better and more hopefully fitting to your needs.
+**Anonymous Information  
+Cookies:** A cookie is a small file, stored on your hard drive, that is used to track your visits. Bitpipe uses both persistent and session cookies. A persistent cookie remains on a user's hard drive for authentication purposes, while a session cookie is temporary file and is only used to track a given visit. Bitpipe uses persistent cookies to link visitors to their registration information that allows our system to confirm a user's identity and access level on the site. Bitpipe also uses that information to track service selections, and save passwords to eliminate logging in each time a user visits the site. 
 
-**Transaction Information**   
-When you order analyst reports or other paid information from our site, we ask you to complete an order form that requests certain information from you, including financial information such as a credit card number and expiration date and general contact details. We use this information to complete the transaction that you have requested, i.e. to deliver information, products or other services that you order and to invoice you. (We do not store your credit card information.) 
+You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be permitted to access certain information.) 
 
-If you order analyst reports or other paid information, some of our reseller agreements provide for your contact information to be shared with the analyst firm partner that has produced the content you are purchasing. Others require us to transmit contact information necessary to effect the transaction and fulfillment of the content. The purpose of this is to ensure that the customer is properly supported with information or other services related to the use of that analyst's content. While we strive to ensure that all of our partners maintain the highest privacy policies possible, Bitpipe cannot control how an individual analyst firm or other information provider may use your contact information. 
+**Clear GIFs & Servers**: We use electronic images known as "clear GIFs" --sometimes called "transparent GIFs", "Web bugs", or "beacons" --that allow us to track general user traffic patterns. Bitpipe also automatically receives and records information from our servers and from your browser, including your IP address, the time, and information about the page you requested. 
 
-**Cookies**   
-This random number is kept in a file on your computer called a "cookie." Cookies, by themselves, cannot be used to determine the identity of any user: unless you specifically tell us (e.g. when you sign up for _KnowledgeAlert_ ). You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be permitted to access certain information.)
+We use these tracking technologies for a variety of purposes, including: 
+
+  * Keeping count of return visits to our site or our partners' sites 
+  * Accumulating and reporting anonymous, aggregate, statistical information on Web site and content usage to our partners and customers 
+  * Determining which features visitors like best to help us improve our content and site, and measure overall site effectiveness 
+  * Saving your password so you don't have to re-enter it each time you visit our sites 
+
+
+
+**Transaction Information**  
+When you order analyst reports or other paid information from our site, we ask you to complete an order form that requests certain information from you, including a credit card number and expiration date and general contact details. We use this information to complete the transaction that you have requested, i.e. to deliver information, products or other services that you order and to invoice you. (We do not store your credit card information.) 
+
+If you order analyst reports or other paid information, some of our reseller agreements provide for your contact information to be shared with the analyst firm that has produced the content you are purchasing. Others require us to transmit contact information necessary to effect the transaction and fulfillment of the content. The purpose of this is to ensure that the customer is properly supported with information or other services related to the use of that analyst's content. Individual analyst firms are responsible for how they handle such user information. Please contact them directly if you have specific questions. 
+
+**Personal Information Collected**  
+Bitpipe collects personal information supplied by visitors who register. That information lets us better tailor our content to visitor interests and helps our advertisers better understand the audience they are reaching. Most of Bitpipe is free and is supported by paid content and sponsorships from our advertisers. 
 
 **Sharing Information**   
-We provide summary reports to the companies that put information into our database. The type of information included in a summary report is "5,000 people looked at your information this week, and of those people 25% clicked through to read the full report." The folks that put content into the database need this information to determine how effective their content is. We don't tell the content companies specifically who it was that saw or clicked on their reports unless you have specifically told us this is acceptable.
+We provide summary reports to the companies that put information into our database. The type of information included in a summary report is "3,000 people looked at your information this week, and of those people 60% clicked through to read the full report." The companies that put content into the database need this information to determine how effective their content is. We don't tell the content companies specifically who it was that saw or clicked on their reports unless you have specifically told us this is acceptable. 
 
 Bitpipe discloses aggregated user statistics (for example, 25% of our users are interested in Networking) in order to describe our services to prospective partners, and other third parties, and for other lawful purposes. 
 
-**Partners and Other Sites**   
-Bitpipe does not control the information collection and distribution policies on sites outside of Bitpipe, although we do encourage our co-branding partners to adopt privacy policies similar to this one.
+Bitpipe may share personal information collected when a visitor registers or logs in to access vendor content. The vendor's use of that personal information is governed by the vendor's privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these vendors directly if you have any questions about their use of this information. 
 
-_**KnowledgeAlert**_   
-_KnowledgeAlert_ is a customizable email delivery system for keeping you up to date on your areas of interest. The quality of the information and services that Bitpipe can provide depends on the accuracy and depth of information that you supply. Bitpipe uses this data to provide a customized, personalized email service. You may edit your _KnowledgeAlert_ Information at any time by using your email address and password. Your _KnowledgeAlert_ account can be deleted or individual subscriptions deactivated, but doing so will result in you not receiving emails on your topics of interest.
+Personal information collected when a visitor registers or logs in on a co-branded partner site may also be shared with that partner. The partner's use of that personal information is governed by the partner's privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these partners directly if you have any questions about their use of this information. 
 
-Summary reports of content accessed via KnowledgeAlert are provided to the companies that put content in our database. We do not give these companies individual details except as noted below under KnowledgeAlert partners. 
+Bitpipe does not share any of your personally identifiable information with any person or entity, unless you register to access vendor content or if you register for our Newsletters. 
 
-**_KnowledgeAlert_ Partners**   
-If you initially sign on to _KnowledgeAlert_ through a partner's website (ie other than on Bitpipe) we will share your name, email address and your interest in that partner's offerings with that partner. We encourage our co-branding partners to adopt privacy policies similar to this one but ultimately they control their use of your information. You should contact these partners directly if you have any questions about their use of this information. If you subsequently sign up for other information via _KnowledgeAlert_ that is not related to the original source partner we do not share those individual details with the original partner or anyone else. Since _KnowledgeAlert_ is customizable by you, you may opt out of (delete or make "inactive") any of your _KnowledgeAlert_ subscriptions at any time.
+**Registration Password**   
+Your Personal Information is password-protected to control access to this personal information. 
 
-_**KnowledgeAlert**_ **Password**   
-Your _KnowledgeAlert_ Account Information is password-protected so that you and only you have access to this personal information.
+We recommend that you do not divulge your password to anyone. Bitpipe never asks for passwords in unsolicited phone calls or unsolicited emails. Remember to sign out and close your browser window when you have finished. This is to ensure that others cannot access your personal information if you share a computer with someone else, or are using a computer in a public place such as a library or Internet cafe.
 
-We recommend that you do not divulge your password to anyone. Bitpipe never asks for passwords in unsolicited phone calls or unsolicited emails. Remember to sign out of your _KnowledgeAlert_ account and close your browser window when you have finished. This is to ensure that others cannot access your personal information if you share a computer with someone else, or are using a computer in a public place such as a library or Internet cafe.
+**Opting Out**   
+Bitpipe will only use your personal information for the purposes listed above or subsequently authorized by you. Please contact us at [privacy@bitpipe.com](mailto:privacy@bitpipe.com) or 617.350.7771 x 245 if you discover that your personal information is being used in a way that is incompatible with these purposes. _If you do not want your Subscriber Information transferred to a Content Provider or Partner, do not access the Content._ If you want your Subscriber Information deleted from the Bitpipe database, please contact us at [privacy@bitpipe.com](mailto:privacy@bitpipe.com) or 617.350.7771 x 245. Personal information provided to us by you is, however, subject to disclosure pursuant to any applicable laws. 
 
-**And Finally**   
-Bitpipe may disclose Personal Information if required to do so by law.
+**Links**   
+This site contains links to other Web sites. Bitpipe is not responsible for the privacy practices or the content of those sites. We encourage our users to be aware of this when they leave our site and urge them to review the privacy statements of each Web site that collects personally identifiable information. The privacy statement applies solely to information collected by this site.
 
-Bitpipe may modify, alter or otherwise update this policy at any time, so we encourage you to review this policy from time to time.
+**Security**  
+Bitpipe has implemented reasonable security measures to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction. Our employees have been made aware of and are accountable for compliance with our privacy policy.
 
-If you have any queries about this policy please feel free to contact our [webmaster](mailto:webmaster@bitpipe.com). 
+**Access and Updating**   
+To review, amend, or delete your information, to ensure that it is up to date and correct, please contact us at [privacy@bitpipe.com](mailto:privacy@bitpipe.com) or 617.350.7771 x 245. 
+
+**Business Transfers**   
+If all or part of Bitpipe is sold, merged or otherwise transferred to another entity, the Personal Information and Activity Data that you have provided to us may be transferred as part of that transaction. In these circumstances, Bitpipe will take steps to ensure that the personal information is used by its successor in a manner that is consistent with the Bitpipe User Agreement in effect at the time Bitpipe received the information.
+
+**Amendments**   
+Bitpipe may modify or amend this policy from time to time. If we make any material changes in the way in which your personal information is collected from you, we will notify you of these changes by e-mail.
+
+**Contact Details**  
+If you have any queries about this policy, wish to review your personal data to ensure it is accurate or have any other comments, please contact us at privacy@bitpipe.com or 617.350.7771 x 245. 
+
+Updated 20 May 2003 
