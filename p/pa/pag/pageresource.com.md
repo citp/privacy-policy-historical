@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602202105id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203224557id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for PageResource.Com
 
 The Web Design Resource has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: PageResource.Com. 
 
-Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20030602202105id_/http%3A//www.pageresource.com/privacych.html)**
+Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20031203224557id_/http%3A//www.pageresource.com/privacych.html)**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
@@ -16,17 +16,14 @@ Our occasional online surveys ask visitors for demographic information (like the
 
 We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies, except in the discussion forums. We do not have access to any information about you from cookies you might receive while visiting our site. Some customer data is shared with the advertising companies on an aggregate basis. You can view the privacy policies of the advertising companies we use through the links below: 
 
-The Web Design Resource works with a third party that serves ads to this site. To find out more about how About.com manages the privacy information in conjunction with serving ads on this site, please go to:   
-<http://home.about.com/gi/pages/privacy.htm>
-
 The Web Design Resource works with a third party that serves ads to this site. To find out more about how Tribal Fusion manages the privacy information in conjunction with serving ads on this site, please go to:   
 <http://www.tribalfusion.com/www/about/privacy.html>
 
+The Web Design Resource works with a third party that serves ads to this site. To find out more about how FastClick manages the privacy information in conjunction with serving ads on this site, please go to:   
+<http://www.fastclick.com/about/privacy2.html>
+
 The Web Design Resource works with a third party that serves ads to this site. To find out more about how Burst! Media manages the privacy information in conjunction with serving ads on this site, please go to:   
 <http://www.burstmedia.com/release/privacy.asp>
-
-The Web Design Resource works with a third party that serves ads to this site. To find out more about how ValueClick manages the privacy information in conjunction with serving ads on this site, please go to:   
-<http://valueclick.com/privacy.html>
 
 ### Public Forums
 
@@ -52,11 +49,11 @@ This site gives users the following options for changing and modifying informati
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact John Pollock The Web Design Resource 936-295-4567 john@pageresource.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact John Pollock The Web Design Resource 936-435-1583 john@pageresource.com
 
 * * *
 
 This statement was generated with help from the Privacy Statement Wizard at: <http://www.truste.org/>. We made the proper adjustments to it to reflect our site's information. The rest was written by the wizard. 
 
 \--------------------  
-Copyright © 1997-2002 [The Web Design Resource](http://www.pageresource.com/). All rights reserved. 
+Copyright © 1997-2003 [The Web Design Resource](http://www.pageresource.com/). All rights reserved. 
