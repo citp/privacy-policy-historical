@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mymotherlode.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004172912id_/http%3A//www.mymotherlode.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymotherlode.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606223315id_/http%3A//www.mymotherlode.com/Privacy) for the most accurate reproduction.*
 
-# MyMotherLode.com Privacy Statement
-
-## _MyMotherLode.com_ Privacy Policy
+# MyMotherLode.com Privacy Policy
 
 _MyMotherLode.com_ is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of _MyMotherLode.com_. This policy may change from time to time so please check back periodically.   
 This policy will let you know: 
