@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickhire.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209040916id_/http%3A//www.quickhire.com/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickhire.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601214123id_/http%3A//www.quickhire.com/policies/privacy.php) for the most accurate reproduction.*
 
 # Welcome to QuickHire
 
@@ -21,8 +21,8 @@ This privacy statement discloses the privacy practices for QuickHire. If you hav
 |  |  |   
 ---  
 |   
-A Hire Education Initiative: Embrace Technology.  
-[**More**  ](https://web.archive.org/stories/index.php?oid=3.1)  
+U.S. Mint saves a fortune with QuickHire.  
+[**More**  ](https://web.archive.org/stories/index.php?oid=1.12)  
    
 [See our client list](https://web.archive.org/about/clients.php)  
    
