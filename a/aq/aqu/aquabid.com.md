@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605033658id_/http%3A//www.aquabid.com/help/helppriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209175951id_/http%3A//www.aquabid.com/help/helppriv.htm) for the most accurate reproduction.*
 
 # AquaBid.com - Privacy Policy
 
@@ -15,7 +15,7 @@ When you do provide us with personal data, we may use that information in the fo
 
 When you provide your personal information to this auction (such as name, address, phone number, company name, email address, credit card number, or the products you are shopping for or purchasing) **we will not give or sell your individual information to any outside company** for its use in marketing or solicitation. We will maintain the confidentiality of your personal information and **it will be used only to support your customer relationship with** **us**. Additionally, internal practices help protect your privacy by limiting employee access to and use of customer data.
 
-If you have any questions or concerns in this area we are happy to respond personally to you; [e-mail us](https://web.archive.org/web/20020605033658id_/http%3A//www.aquabid.com/help/ContactUs.htm).
+If you have any questions or concerns in this area we are happy to respond personally to you; [e-mail us](https://web.archive.org/web/20021209175951id_/http%3A//www.aquabid.com/help/ContactUs.htm).
 
 To elaborate: All exchanges between you and us will remain _confidential_ with no personally identifiable information being sold or provided to any third party.
 
