@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207105439id_/http%3A//www.jcpportraits.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/privacy.shtml) for the most accurate reproduction.*
 
 # JCPenney Portrait Studios - Terms of Use and Privacy Policy
 
 ## JCPenney Portraits Privacy Policy
 
-[Terms and Conditions](https://web.archive.org/web/20031207105439id_/http%3A//www.jcpportraits.com/html/terms.shtml#Terms) | [Security](https://web.archive.org/web/20031207105439id_/http%3A//www.jcpportraits.com/html/terms.shtml#Security) | [ Copyright Notice](https://web.archive.org/web/20031207105439id_/http%3A//www.jcpportraits.com/html/terms2.shtml#Copyright) |   
-[ Disclaimers](https://web.archive.org/web/20031207105439id_/http%3A//www.jcpportraits.com/html/terms2.shtml#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20031207105439id_/http%3A//www.jcpportraits.com/html/terms3.shtml#LIMITATION) | [Privacy](https://web.archive.org/web/20031207105439id_/http%3A//www.jcpportraits.com/html/privacy.shtml)
+[Terms and Conditions](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms.shtml#Terms) | [Security](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms.shtml#Security) | [ Copyright Notice](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms2.shtml#Copyright) |   
+[ Disclaimers](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms2.shtml#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms3.shtml#LIMITATION) | [Privacy](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/privacy.shtml)
+
+[Return to previous page](javascript:window.history.go\(-1\);)
 
 **What information is collected at jcpenneyportraits.com? How is it used?**
 
@@ -39,7 +41,7 @@ A "cookie" is a small data file stored by your web browser on your computer's ha
 Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information or contacts please contact us as follows:
 
   * Call us at 1-800-59-SMILE; or
-  * complete our online [Unsubscribe form](https://web.archive.org/web/20031207105439id_/http%3A//www.jcpportraits.com/html/unsubscribe.asp)
+  * complete our online [Unsubscribe form](http://film.jcpenneyportraits.com/html/unsubscribe.asp)
 
 
 
