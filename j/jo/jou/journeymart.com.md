@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeymart.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204165228id_/http%3A//www.journeymart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeymart.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140141id_/http%3A//journeymart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Third parties with whom we share information involve service providers who are e
 
 JourneyMart.com has agreements with all such third parties binding them to safeguard all information provided and to use any such information for the limited purpose of providing the service required of them.
 
-While sharing information with our advertisers, it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe might be of interest to you. You could indicate on your registeration form if you would want this information to be shared and if you would prefer to receive offers and marketing information. And remember, you can always change your preferences.
+While sharing information with our advertisers, it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe might be of interest to you. You could indicate on your registration form if you would want this information to be shared and if you would prefer to receive offers and marketing information. And remember, you can always change your preferences.
 
 **Surveys & Contests**
 
@@ -62,13 +62,13 @@ JourneyMart.com uses virtual and physical security restrictions to protect datab
 
 Digital certificates have been obtained in order to enable encryption (128 bit ) of information. This will ensure that all information provided by you from through your computer to our server is first transformed into a code before it is dispatched through the Internet. Do look for the locked icon at the bottom of the web browser while on a secure page.
 
-Registeration information is stored in a secure operating environment. Any information provided to the employees or Licensees of JourneyMart.com is restricted to what is absolutely necessary to provide a superior service. All such employees and Licensees are legally bound by the privacy policies adopted by JourneyMart.com..  
+registration information is stored in a secure operating environment. Any information provided to the employees or Licensees of JourneyMart.com is restricted to what is absolutely necessary to provide a superior service. All such employees and Licensees are legally bound by the privacy policies adopted by JourneyMart.com..  
 
 **8\. Updating of Personal Information**
 
-You may change your personally identifiable information and /or your preferences and interests any time you want. Just click on the My Account button on the top navigation bar and access your registeration details. 
+You may change your personally identifiable information and /or your preferences and interests any time you want. Just click on the My Account button on the top navigation bar and access your registration details. 
 
-As mentioned earlier, you may at any time opt out of having your information used for marketing and advertising purposes, again by changing your options within your registeration details. 
+As mentioned earlier, you may at any time opt out of having your information used for marketing and advertising purposes, again by changing your options within your registration details. 
 
 Users who no longer wish to receive our newsletter or promotional materials from us or our Licensees, may unsubscribe by clicking on the unsubscribe button on the communication or sending us an email at [unsubscribe@journeymart.com](mailto:unsubscribe@journeymart.com)
 
