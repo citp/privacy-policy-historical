@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2004-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041222213053id_/http%3A//dimensiondata.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206230533id_/http%3A//www.dimensiondata.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Spreadsheet Software for Budgeting, Forecasting and Management Reporting: A3 Solutions
 
@@ -47,3 +47,17 @@ If we decide to change our privacy policy, we will post those changes to this pr
 ## Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at: [webmaster@a3si.com](mailto:webmaster@a3si.com)
+
+|  |  | 
+
+"We searched for more than a year and evaluated every planning package on the market. Until A3, nothing addressed our need for flexibility, sophisticated modeling, and enterprise integration. The A3 Solution is nothing short of a strategic competitive weapon for us."   
+— _**AVON**_
+
+  
+
+
+**A3 Modeling** helps you automate your enterprise spreadsheet budgeting, planning & forecasting processes.  
+Find out more >>
+
+  
+
