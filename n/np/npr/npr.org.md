@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621225815id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209185840id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
 
 # NPR Linking and Privacy Policy
 
@@ -52,12 +52,12 @@ Under 13: You must be at least 13 years old in order to register for the Discuss
 13 -18: Unless otherwise specified, you must be a least 18 years old in order to participate in any online contests. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for the Discussions, ordering NPR CDs or transcripts, placing an order on the NPR Online Shop, or otherwise sending any personally-identifying information. 
 
 **Corrections to Personal Data; Opting Out**   
-Please write to [nprhelp@npr.org](mailto:nprhelp@npr.org) to a) correct or update any personal information in the NPR database that you state is erroneous, b) opt-out of future communications from NPR or c) request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your Discussions registration. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions. 
+Please contact [NPR Online Help](https://web.archive.org/contact/onlinehelp.html) to a) correct or update any personal information in the NPR database that you state is erroneous, b) opt-out of future communications from NPR or c) request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your Discussions registration. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions. 
 
 **Acceptance of Privacy Policy Terms**   
 NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web site constitutes consent to any policy then in effect. Please make sure that you read NPR’s Terms of Use to understand additional terms and conditions which apply to the use of our Web site. 
 
-If you have any questions or comments concerning our privacy policy, please contact us via e-mail at [nprhelp@npr.org](mailto:nprhelp@npr.org) or by mail at: 
+If you have any questions or comments concerning our privacy policy, please contact us via e-mail from [NPR Online Help](https://web.archive.org/contact/onlinehelp.html) or by mail at: 
 
 National Public Radio, Inc.  
 635 Massachusetts Avenue, N.W.  
