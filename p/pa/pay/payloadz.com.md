@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204020id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411153737id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
 
 # PayLoadz - Sell Digital Goods with PayPal
 
@@ -25,6 +25,8 @@ Take a moment to tell us how we can make this service better.
 
 
  Digital Goods Presentation
+
+Watch our founder, Shannon Sofield, speak about selling digital goods online. 
 
   |  **Privacy**
 
