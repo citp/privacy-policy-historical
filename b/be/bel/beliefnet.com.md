@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125102207id_/http%3A//beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205103834id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Beliefnet.com
 
 | 
 
-Last Revised: May 30, 2001 
+Last Revised: July 12, 2002 
 
 **An Overview**   
-Beliefnet, Inc. ("Beliefnet," "we" or "us") provides a variety of online services and products to its users on the website currently located at www.beliefnet.com (the "Site"). Beliefnet is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users. 
+Beliefnet, Inc. ("Beliefnet," "we" or "us") provides a variety of online services and products to its users on the website currently located at www.beliefnet.com and its e-mail newsletters (collectively known as (the "Site"). Beliefnet is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users. 
 
 **The purpose of this Beliefnet privacy policy (the "Policy") is to help you understand what kinds of information we may gather about you when you visit the Site, how we may use that information, whether we will disclose it, and how you can correct the information. Please note that by using the Site, you signify your agreement with this Policy. If you do not agree to the terms of this Policy, please do not use the Site. Your continued use of the Site after any changes to the Policy will mean that you have accepted the changes; therefore please bookmark this page and review it frequently. If we decide to change the Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it.**
 
@@ -61,13 +61,13 @@ If you elect to use the "Tell-A-Friend" referral service on the optional survey 
 **Beliefnet Shopping and Beliefnet Classifieds**   
 When you make a purchase in either Beliefnet Shopping or Beliefnet Classifieds, we request information from you such as name and shipping address, as well as financial information including a credit card number and an expiration date. This information is used for billing purposes and to fill your order. If we have trouble processing your order, we will use this information to contact you. 
 
-In regards to both Beliefnet Shopping and Beliefnet Classifieds, the sale and fulfillment of items is handled by various third party merchants. However, with regard to the Beliefnet CD entitled Belief: A Collection of World Sacred Music ("Belief CD"), the sale of the item will be handled by a third party, Yahoo! Store and the fulfillment of the item will be handled by Beliefnet. Please note that when you provide information to the Site in connection with the purchase of anything from the Site, you are also providing such information to the respective third party merchant. Beliefnet is not responsible for the information collection or privacy practices of each third party merchant. If you have any questions regarding any of the respective third party merchants’ information gathering or collection practices, we strongly encourage you to visit their respective privacy policies. If you have any questions regarding the fulfillment of the Belief CD, please e-mail [shopping@staff.belienet.com](mailto:shopping@staff.belienet.com). 
+In regards to both Beliefnet Shopping and Beliefnet Classifieds, the sale and fulfillment of items is handled by various third party merchants. However, with regard to the Beliefnet CD entitled Belief: A Collection of World Sacred Music ("Belief CD") and the Beliefnet Community T-Shirt, the sale and the fulfillment of the item will be handled by Beliefnet. Please note that when you provide information to the Site in connection with the purchase of anything from the Site, you are also providing such information to the respective third party merchant. Beliefnet is not responsible for the information collection or privacy practices of each third party merchant. If you have any questions regarding any of the respective third party merchants’ information gathering or collection practices, we strongly encourage you to visit their respective privacy policies. If you have any questions regarding the fulfillment of the Belief CD or T-Shirt, please e-mail [ecommerce@staff.beliefnet.com](mailto:ecommerce@staff.beliefnet.com). 
 
 * * *
 
   
 **Newsletter**   
-If you would like to subscribe to the Beliefnet newsletter, we ask only for your e-mail address. In order to unsubscribe to the newsletter, please send a blank e-mail to [unsubscribe@staff.beliefnet.com](mailto:unsubscribe@staff.beliefnet.com).   
+If you would like to subscribe to the Beliefnet newsletter, please visit [www.beliefnet.com/user/newsletter_choose.asp](https://web.archive.org/user/newsletter_choose.asp). If you would like to unsubscribe from Beliefnet Newsletters, please visit [http://www.beliefnet.com/user/unsubscribe.html](https://web.archive.org/user/unsubscribe.html). If you would like to change the e-mail address to which you currently are receiving Beliefnet Newsletters, please visit [http://www.beliefnet.com/user/nl_updemail.asp](https://web.archive.org/user/nl_updemail.asp). In order to manage the other methods with which Beliefnet or its partners may communicate with you, please visit our [Marketing Preferences](https://web.archive.org/marketing/login.asp) area and follow the directions there.   
 
 
 * * *
@@ -81,14 +81,7 @@ Occasionally, Beliefnet may send Members information on special Member-only offe
 
   
 **Message Board and Chats**   
-We provide a message board and chats on the Site for discussing topics relating to spirituality. Although any visitor may read postings on a message board or in a chat, only Members may make posts. Please note that information you post to a message board or chat, including your profile information, will be available for any user of that service to read, and is therefore no longer private. In addition, we currently use a third party to host our chats.   
-
-
-* * *
-
-  
-**Web Services**   
-Beliefnet offers a web hosting service ("Web Services") to its Members so that they can create and develop personalized websites located at "yourgroupname.beliefnet.com" ("Member Websites"). Member Websites shall be governed by this Policy and the [Beliefnet Terms of Service](https://web.archive.org/about/terms.asp) ("TOS"), and are required to contain links to this Policy and the TOS. You agree not to change, modify, edit, add to or delete from this Policy or the TOS in any way, or post any terms that conflict with or are contrary to, or operate your Member Website in a manner that conflicts with or is contrary to, any of the terms in this Policy or the TOS. COMPLIANCE WITH ALL APPLICABLE LAWS, INCLUDING ANY PRIVACY LAWS, IS ENTIRELY THE RESPONSIBILITY OF MEMBERS, AND BELIEFNET IN NO WAY GUARANTEES OR ENSURES THAT BY POSTING THIS POLICY AND THE TOS, MEMBER WEBSITES WILL BE COMPLIANT WITH APPLICABLE LAWS OR THIS POLICY.   
+We provide a message board and chats on the Site for discussing topics relating to spirituality. Although any visitor may read postings on a message board or in a chat, only Members may make posts. Please note that information you post to a message board or chat, including your profile information, will be available for any user of that service to read, and is therefore no longer private. Beliefnet owns the rights to publish message board posts in other formats.   
 
 
 * * *
@@ -102,7 +95,21 @@ In our effort to provide you with services customized to your interests, we use 
 
   
 **How We Use The Information That We Gather**   
-Beliefnet uses information obtained from its Members and other users as stated in this Policy and to enhance Members' and other users' experiences on the Site. For example, we may provide information about additional products and services that may be of interest to you based upon information supplied by Members and other users. Other than as set forth in this Policy, we do not rent or sell any personal information about our Members and other users. As a general rule, we will not disclose any personal information to any third parties, except when we believe in good faith that the law requires it, or that it is appropriate to protect other users of the Site, or to operate the Site properly, or to respond to an emergency. Information is also disclosed if the Member or other user has given permission, for example by voluntarily entering a contest or making a purchase on the Site, where the information required to register for the contest or to ship your purchases is provided to the third party of that service. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution, or to suspend or terminate your membership in connection with any suspected illegal or infringing activity.   
+Beliefnet uses information obtained from its Members and other users as stated in this Policy and to enhance Members' and other users' experiences on the Site. Beliefnet does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you have requested, when we have your permission, or under the following circumstances: 
+
+  * We provide the information to Beliefnet’s partners who work on behalf of or with Beliefnet under confidentiality agreements. These companies may use your personal information to help Beliefnet or its partners to communicate with you about offers from Beliefnet and our marketing partners. However, these companies do not have any independent right to share this information with other parties; 
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Beliefnet’s terms of use, or as otherwise required by law. 
+
+
+
+To manage your Marketing Preferences, please click [here](https://web.archive.org/marketing/login.asp). 
+
+* * *
+
+  
+**Disclosure of Personal Information in the Event of Merger or Sale of Assets**   
+Beliefnet, or its related entites, could merge with or be acquired by another business entity, or all or substantially all of their respective assets could be acquired. Should such a combination, acquisition or transaction occur, you should expect that Beliefnet would share some or all of your personal information with the acquiring or merged entity to continue serving you and other users of the Site.   
 
 
 * * *
@@ -133,170 +140,14 @@ The Site uses reasonable security methods to protect the data that resides on ou
 
   
 **Correction/Updating Personal Information**   
-If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we allow you to correct, update or remove the personal data that you provided. This can be done at the "Your Profile" page by clicking on the "Edit Your Profile" button. Keep in mind, however, that there will be residual information that will remain within Beliefnet's databases, access logs, and other records, which may or may not contain such personally identifiable information.   
-
-
-* * *
-
-  
-**Choice/Opt in or Opt out**   
-You are given the opportunity to opt in or opt out of having your information used for purposes not directly related to the Site at the point where we ask for the information. For example, our registration form has an opt in and an opt out mechanism so that users who want to become a Beliefnet Member, but don't want any of our free products and services, can keep their e-mail address off of our lists. 
+If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we allow you to correct, update or remove the personal data that you provided. This can be done at the "Your Profile" page by clicking on the "Edit Your Profile" button. Keep in mind, however, that there will be residual information that will remain within Beliefnet's databases, access logs, and other records, which may or may not contain such personally identifiable information. 
 
 You may also opt out of receiving promotional information from Beliefnet and/or from third parties affiliated with Beliefnet at any time by contacting us at [feedback@staff.beliefnet.com](mailto:feedback@staff.beliefnet.com). You may also contact the third parties directly. 
 
-If you no longer wish to receive our newsletter, you may opt-out of receiving it by sending a blank e-mail to [unsubscribe@staff.beliefnet.com](mailto:unsubscribe@staff.beliefnet.com). 
+If you no longer wish to receive our newsletter, you may opt-out of receiving it by visiting [www.beliefnet.com/user/unsubscribe.html](https://web.archive.org/user/unsubscribe.html) and following the directions there. 
 
 * * *
 
   
 **How To Contact Us**   
-Should you have any questions or concerns about the Policy, please send an e-mail to [feedback@staff.beliefnet.com ](mailto:feedback@staff.beliefnet.com). 
-| 
-
-Last Revised: May 30, 2001 
-
-**An Overview**   
-Beliefnet, Inc. ("Beliefnet," "we" or "us") provides a variety of online services and products to its users on the website currently located at www.beliefnet.com (the "Site"). Beliefnet is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users. 
-
-**The purpose of this Beliefnet privacy policy (the "Policy") is to help you understand what kinds of information we may gather about you when you visit the Site, how we may use that information, whether we will disclose it, and how you can correct the information. Please note that by using the Site, you signify your agreement with this Policy. If you do not agree to the terms of this Policy, please do not use the Site. Your continued use of the Site after any changes to the Policy will mean that you have accepted the changes; therefore please bookmark this page and review it frequently. If we decide to change the Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it.**
-
-Please note that the Policy applies only to the Site, and not to other websites to which we link, or to advertisers on the Site. Your use of the Site is governed by Beliefnet's [Terms of Service](https://web.archive.org/about/terms.asp) and by other published rules pertaining to particular products and services offered throughout the Site. 
-
-* * *
-
-  
-**Children's Information**   
-The Site is not directed toward children under thirteen years of age. Beliefnet does not knowingly collect personally identifiable information from children under thirteen years of age. **If you are under 13 years of age, you should not register to become a Member or provide any personally identifiable information through the Site.**   
-
-
-* * *
-
-  
-**The Information We Gather**   
-Beliefnet collects information from you at several different points on the Site in the manner set forth below. Whenever we collect personal information, we will make an effort to include a link to the Policy on that page.   
-
-
-* * *
-
-  
-**Beliefnet Registration**   
-In order to use certain products and services on the Site, a user must first become a Beliefnet member ("Member") by completing our member registration form. During registration you are required to give information such as your name, e-mail address, zip code, and birth date.   
-
-
-* * *
-
-  
-**Your Profile**   
-The information from your registration will automatically become incorporated into  "Your Profile." In the "Your Profile" section of the Site, you have the option to provide further information about yourself, such as your interests, organizations and affiliations, and a written statement of your beliefs. Whenever you make a posting to a message board, your profile information is available to users on the Site to view.   
-
-
-* * *
-
-  
-**Optional Surveys**   
-You may have the opportunity to participate in a number of surveys on the Site. A pop-up survey may appear when you leave the Web Services (defined below) sign-up area on the Site in which you will be asked to provide feedback on our current service. Also, in connection with your registration, users and Members may elect to participate in surveys (by checking the appropriate box) in which you will be asked to provide information such as your income level and education. We encourage you to complete surveys so that we can provide you with a more personalized experience on the Site.   
-
-
-* * *
-
-  
-**Tell-A-Friend**   
-If you elect to use the "Tell-A-Friend" referral service on the optional survey for informing your friend(s) about the Site, we ask for your friend's name(s) and e-mail address(es). Beliefnet will automatically send a one-time e-mail inviting your friend(s) to visit the Site. We will store this information for the sole purpose of sending this one-time e-mail.   
-
-
-* * *
-
-  
-**Beliefnet Shopping and Beliefnet Classifieds**   
-When you make a purchase in either Beliefnet Shopping or Beliefnet Classifieds, we request information from you such as name and shipping address, as well as financial information including a credit card number and an expiration date. This information is used for billing purposes and to fill your order. If we have trouble processing your order, we will use this information to contact you. 
-
-In regards to both Beliefnet Shopping and Beliefnet Classifieds, the sale and fulfillment of items is handled by various third party merchants. However, with regard to the Beliefnet CD entitled Belief: A Collection of World Sacred Music ("Belief CD"), the sale of the item will be handled by a third party, Yahoo! Store and the fulfillment of the item will be handled by Beliefnet. Please note that when you provide information to the Site in connection with the purchase of anything from the Site, you are also providing such information to the respective third party merchant. Beliefnet is not responsible for the information collection or privacy practices of each third party merchant. If you have any questions regarding any of the respective third party merchants’ information gathering or collection practices, we strongly encourage you to visit their respective privacy policies. If you have any questions regarding the fulfillment of the Belief CD, please e-mail [shopping@staff.belienet.com](mailto:shopping@staff.belienet.com). 
-
-* * *
-
-  
-**Newsletter**   
-If you would like to subscribe to the Beliefnet newsletter, we ask only for your e-mail address. In order to unsubscribe to the newsletter, please send a blank e-mail to [unsubscribe@staff.beliefnet.com](mailto:unsubscribe@staff.beliefnet.com).   
-
-
-* * *
-
-  
-**Special Offers/Contests**   
-Occasionally, Beliefnet may send Members information on special Member-only offers, Site updates, Beliefnet Store specials and contests. Beliefnet presents the option to not receive these types of communications and to opt out of participating in any contest. We will not share your contest information with any third party, except in aggregate form. In addition, if and when we sponsor contests or other promotions, or third parties sponsor such promotions in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the sweepstakes or promotion. That privacy information, to the extent it conflicts with this Policy, will govern that particular contest-please remember to read it carefully.   
-
-
-* * *
-
-  
-**Message Board and Chats**   
-We provide a message board and chats on the Site for discussing topics relating to spirituality. Although any visitor may read postings on a message board or in a chat, only Members may make posts. Please note that information you post to a message board or chat, including your profile information, will be available for any user of that service to read, and is therefore no longer private. In addition, we currently use a third party to host our chats.   
-
-
-* * *
-
-  
-**Web Services**   
-Beliefnet offers a web hosting service ("Web Services") to its Members so that they can create and develop personalized websites located at "yourgroupname.beliefnet.com" ("Member Websites"). Member Websites shall be governed by this Policy and the [Beliefnet Terms of Service](https://web.archive.org/about/terms.asp) ("TOS"), and are required to contain links to this Policy and the TOS. You agree not to change, modify, edit, add to or delete from this Policy or the TOS in any way, or post any terms that conflict with or are contrary to, or operate your Member Website in a manner that conflicts with or is contrary to, any of the terms in this Policy or the TOS. COMPLIANCE WITH ALL APPLICABLE LAWS, INCLUDING ANY PRIVACY LAWS, IS ENTIRELY THE RESPONSIBILITY OF MEMBERS, AND BELIEFNET IN NO WAY GUARANTEES OR ENSURES THAT BY POSTING THIS POLICY AND THE TOS, MEMBER WEBSITES WILL BE COMPLIANT WITH APPLICABLE LAWS OR THIS POLICY.   
-
-
-* * *
-
-  
-**Cookies**   
-In our effort to provide you with services customized to your interests, we use "cookies" to assist in the collection of information. A cookie is a small data file containing information such as a user's login name that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies to: access your account information (stored on our computers) in order to deliver better and more personalized services; estimate our audience size for our advertisers; identify which areas of the Site you have visited; and prevent users from voting in polls more than once, all as part of Beliefnet's efforts to streamline your experience on the Site. Tracking information such as cookies is also used to create aggregate reports on user demographics and Site traffic patterns, and then is provided to our advertisers and partners enabling them to better target their advertisements to our Members and other users. We also collect IP (Internet Protocol) addresses to analyze trends, administer the Site, track a user's movement, and gather broad demographic information for aggregate use.   
-
-
-* * *
-
-  
-**How We Use The Information That We Gather**   
-Beliefnet uses information obtained from its Members and other users as stated in this Policy and to enhance Members' and other users' experiences on the Site. For example, we may provide information about additional products and services that may be of interest to you based upon information supplied by Members and other users. Other than as set forth in this Policy, we do not rent or sell any personal information about our Members and other users. As a general rule, we will not disclose any personal information to any third parties, except when we believe in good faith that the law requires it, or that it is appropriate to protect other users of the Site, or to operate the Site properly, or to respond to an emergency. Information is also disclosed if the Member or other user has given permission, for example by voluntarily entering a contest or making a purchase on the Site, where the information required to register for the contest or to ship your purchases is provided to the third party of that service. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution, or to suspend or terminate your membership in connection with any suspected illegal or infringing activity.   
-
-
-* * *
-
-  
-**Cobranded and Other Affiliated Sites**   
-Certain information or services offered or provided on or through the Site from time to time may be provided on or through other sites operated by or in conjunction with third party providers (“Partners”). These sites may have the same “look and feel” of the Site, and are often cobranded, such that a Partner’s logo or name may appear on the site, or the Partner’s name may appear in the URL. Aggregate or personally identifiable information collected about you on these sites may be shared by Beliefnet with that Partner. A Partner will not rent, sell, or disclose any of your personally identifiable information to third parties unless you consent to its doing so, for example, by opting-in while on a particular site to receive information or offers from a Partner’s affiliates, partners, or other third parties.   
-
-
-* * *
-
-  
-**Third Party Links and Member Websites**   
-You acknowledge that we do not monitor, control or endorse the information collection or privacy practices of any third parties, including but not limited to Member Websites, any co-branded or other affiliated sites which may or may not be owned or operated by or in conjunction with Beliefnet, or any credit card order processors, product shippers or other third parties who provide services throughout the Site. While we may set guidelines for information collection and privacy practices of each Member Website and may even engage in a certain degree of content screening, we exercise no control over and are unable to police the information collection and privacy practices of Member Websites. Accordingly, Beliefnet assumes no liability or responsibility for the information collection and privacy practices of any Member Website or any third party. In addition, Beliefnet is not responsible for the content of any Member Website or third party websites, including a third party's use of any cookies or any other information (such as IP address, browser type or operating system) collected when you "click-through" links to their sites or view advertisements served by them. Even though certain information collected by such third parties might not identify you personally, we strongly encourage you to become familiar with their privacy practices, and to contact such third parties if you have any questions about their respective privacy policies. 
-
-In addition, the Site and Member Websites may provide links to other Internet websites or resources ("Linked Sites"). Beliefnet neither controls nor endorses such Linked Sites nor have we reviewed or approved any content that appears on such Linked Sites. You acknowledge and agree that Beliefnet is not responsible for the legality, accuracy or inappropriate nature of any content, advertising, products or other materials on or available from such Linked Sites. You further acknowledge and agree that Beliefnet shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, and services available on or through any such Linked Site. 
-
-Please keep in mind that whenever you participate in an online message board, chat room or other forum or public area on the Site you provide information that can be collected and used by others that you do not know for the purpose of distributing unsolicited communications. Beliefnet cannot guarantee the security of such information that you disclose online in public areas on the Site and Members and other users do so at their own risk. 
-
-* * *
-
-  
-**Security**   
-The Site uses reasonable security methods to protect the data that resides on our servers. However, no security system is impenetrable. Beliefnet cannot warrant or guarantee the security of its servers, nor can it guarantee that information that Members supply will not be intercepted while being transmitted to Beliefnet over the Internet. When our registration/order form asks users to enter credit card numbers, that information is encrypted.   
-
-
-* * *
-
-  
-**Correction/Updating Personal Information**   
-If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we allow you to correct, update or remove the personal data that you provided. This can be done at the "Your Profile" page by clicking on the "Edit Your Profile" button. Keep in mind, however, that there will be residual information that will remain within Beliefnet's databases, access logs, and other records, which may or may not contain such personally identifiable information.   
-
-
-* * *
-
-  
-**Choice/Opt in or Opt out**   
-You are given the opportunity to opt in or opt out of having your information used for purposes not directly related to the Site at the point where we ask for the information. For example, our registration form has an opt in and an opt out mechanism so that users who want to become a Beliefnet Member, but don't want any of our free products and services, can keep their e-mail address off of our lists. 
-
-You may also opt out of receiving promotional information from Beliefnet and/or from third parties affiliated with Beliefnet at any time by contacting us at [feedback@staff.beliefnet.com](mailto:feedback@staff.beliefnet.com). You may also contact the third parties directly. 
-
-If you no longer wish to receive our newsletter, you may opt-out of receiving it by sending a blank e-mail to [unsubscribe@staff.beliefnet.com](mailto:unsubscribe@staff.beliefnet.com). 
-
-* * *
-
-  
-**How To Contact Us**   
-Should you have any questions or concerns about the Policy, please send an e-mail to [feedback@staff.beliefnet.com ](mailto:feedback@staff.beliefnet.com). 
+Should you have any questions or concerns about the Policy, please send an e-mail to [privacy@staff.beliefnet.com](mailto:privacy@staff.beliefnet.com). 
