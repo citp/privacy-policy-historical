@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602235325id_/http%3A//twistmagazine.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170840id_/http%3A//www.twistmagazine.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Twist Magazine
 
   
-We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read TWIST's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please E-mail us at [twistmail@bauerpublishing.com.](mailto:twistmail@bauerpublishing.com)   
+We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read TWIST's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please E-mail us at [twistmail@twistmagazine.com.](mailto:twistmail@twistmagazine.com)   
 Remember, if you sign up for any of TWIST's services or enter any of our contests or sweepstakes, you agree to the terms of this Policy. 
 
 **What types of personal information does twistmagazine.com collect?**   
@@ -52,10 +52,10 @@ Except as otherwise described in this Policy, we do not knowingly collect or use
 twistmagazine.com does not sell or disclose personal information collected from children under 13 to third parties under any circumstances. 
 
 **How can a parent or guardian review this personal information collected from children under 13?**   
-Parents have the right to review all personal information about children under 13 collected by twistmagazine.com, can ask twistmagazine.com to delete the information, and can refuse to permit twistmagazine.com to collect or use the child's information in the future. If a parent or guardian wishes to review a child's personal information or ask twistmagazine.com to delete that information, they should contact TWIST at the address and telephone number listed below, or send an E-mail request to twistmail@bauerpublishing.com. We will verify the identity of the parent or guardian before allowing them to review a child's personal information. 
+Parents have the right to review all personal information about children under 13 collected by twistmagazine.com, can ask twistmagazine.com to delete the information, and can refuse to permit twistmagazine.com to collect or use the child's information in the future. If a parent or guardian wishes to review a child's personal information or ask twistmagazine.com to delete that information, they should contact TWIST at the address and telephone number listed below, or send an E-mail request to twistmail@twistmagazine.com. We will verify the identity of the parent or guardian before allowing them to review a child's personal information. 
 
 **How can you correct or update your information?**   
-If you would like to correct or update information that you have previously provided to TWIST.com, you can let us know by sending us an E-mail at [twistmail@bauerpublishing.com.](mailto:twistmail@bauerpublishing.com) or mailing a letter to our postal address listed below. 
+If you would like to correct or update information that you have previously provided to TWIST.com, you can let us know by sending us an E-mail at [twistmail@twistmagazine.com.](mailto:twistmail@twistmagazine.com) or mailing a letter to our postal address listed below. 
 
 **How can you contact twistmagazine.com?**   
 If you have any questions about our privacy policy, the practices of this site, or want to reach us for any other reason, you can contact us at:   
@@ -64,4 +64,4 @@ TWIST
 Englewood Cliffs, NJ 07632   
 (201) 569-6699   
 or E-mail us at:   
-[twistmail@bauerpublishing.com.](mailto:twistmail@bauerpublishing.com)
+[twistmail@twistmagazine.com.](mailto:twistmail@twistmagazine.com)
