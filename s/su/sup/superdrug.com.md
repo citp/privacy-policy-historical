@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606113452id_/http%3A//www.superdrug.com/superdruglegal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112953id_/http%3A//www.superdrug.com/superdruglegal.php%23privacy) for the most accurate reproduction.*
 
-# Superdrug views
+# Superdrug - Legal Notices
 
 **DISCLAIMER**  
 **The content of this site is intended to provide useful information for customers of Superdrug Stores plc ("Superdrug"). Superdrug has taken all reasonable care in making the information available and in ensuring its accuracy when first posted on the site. Please note however, that Superdrug cannot guarantee the accuracy of any information (including information about goods and services) on this site and no warranty of any kind, whether express or implied, is given. Superdrug reserve the right at any time to time make changes to the site and the information displayed on it.**
