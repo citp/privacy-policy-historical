@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byo.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021064741id_/http%3A//byo.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byo.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607195148id_/http%3A//www.byo.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Brew Your Own (BYO), the How-To Homebrew Beer Magazine
 
