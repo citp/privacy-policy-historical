@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205002823id_/http%3A//www.gateway.com/meta_refresh/global/ftr_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606143726id_/http%3A//www.gateway.com/meta_refresh/global/ftr_privacy.asp) for the most accurate reproduction.*
 
 # Gateway Computers - Privacy & Data Security
 
@@ -17,7 +17,7 @@ When we ask for personal information for any reason, we will provide a link to t
   
 Gateway will take all appropriate steps to keep your personal information confidential. Those steps include limiting access to customer information databases, communicating this policy statement to all Gateway employees and establishing and enforcing penalties for violating this statement. Additionally, Gateway annually certifies itself to the U.S. Department of Commerce Safe Harbor program and ensures its adherence to the Safe Harbor’s standards for privacy protection.
 
-Gateway will not sell, rent, or give away our customers' personal information to other companies for use in selling others' products or services. When we do contract with another company to market or advertise products or services for us, we will insist on binding agreements from those companies protecting our customer information. We will vigorously enforce all privacy agreements we have with other companies.
+Gateway will not sell, rent, or give away our customers' personal information to other companies for use in selling others' products or services. When we do contract with another company to market or advertise products or services for us, we will insist on binding agreements from those companies protecting our customer information. We will vigorously enforce all privacy agreements we have with other companies. However, when you receive services directly from a third party, such as a shipping company or internet service provider, your personal information is treated in accordance with that service provider's privacy policy even though you may have purchased the services through Gateway.
 
 We gather personal information from our customers so we can better develop our relationship with those customers. Occasionally, we seek customer comments on our products and services. These comments allow us to determine which products and services our customers should be made aware of based on their specific needs.
 
