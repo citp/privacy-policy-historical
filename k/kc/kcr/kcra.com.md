@@ -1,84 +1,13 @@
-> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610193127id_/http%3A//www.thekcrachannel.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014234202id_/http%3A//www.thekcrachannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
-# TheKCRAChannel.com - Privacy Policy
-
-| [](https://web.archive.org/news/)  
----  
-|  |  |  [Your Stories](https://web.archive.org/news/newstips/index_yourstories.html)  
-[News Tips](https://web.archive.org/news/newstips/)  
-[E-Mail News](https://web.archive.org/news/email-newsletters.html)  
-[Live Traffic 3](https://web.archive.org/weather/livetraffic3/)  
-[HealthWatch 3](https://web.archive.org/health/)  
-[Call 3](https://web.archive.org/call3/)  
-[Money & Business](https://web.archive.org/money/)  
-[Live Traffic 3](https://web.archive.org/weather/livetraffic3/)  
-[Lottery](http://ia.thekcrachannel.com/news/detail.html?fp=LotteryForm&state=CA)  
-[KCRA 3 Anchors  
-and Reporters](https://web.archive.org/kcratv/kcra3anchorsandreporters/) |  |   
-  
-[Help You Need](https://web.archive.org/thehelpyouneed/)  
-  
----  
-  
-[Career Center](https://web.archive.org/employment/)  
-  
-[Automotive](https://web.archive.org/automotive/)  
-  
-[Travel Getaways](https://web.archive.org/travelgetaways/)  
-  
-[House & Home](http://ia.thekcrachannel.com/houseandhome/)  
-  
-[Legal Center](https://web.archive.org/legalcenter/)  
-  
-[Shopping](https://web.archive.org/shopping/)  
-  
-[Yellow Pages](http://y.ibsys.com/event.ng/Type=click&FlightID=7187&AdID=21129&TargetID=2900&Targets=2900&Values=2624&Redirect=http:%2F%2Fwww.smartpages.com)  
-  
-[Personals](https://web.archive.org/dating/)  
-  
-[News](https://web.archive.org/news/)
+# TheKCRAChannel.com - News
 
 |   
 ---|---  
   
-[WeatherWatch 3](https://web.archive.org/weather/)  
-  
-[Sports](https://web.archive.org/sports/)  
-  
-[Call 3](https://web.archive.org/call3/)  
-  
-[Money &  
-Business](https://web.archive.org/money/)  
-  
-[Noon Recipes](https://web.archive.org/noonrecipes/)  
-  
-[Technology](https://web.archive.org/technology/)  
-  
-[HealthWatch 3](https://web.archive.org/health/)  
-  
-[Entertainment](https://web.archive.org/entertainment/)  
-  
-[Education &  
-Training](https://web.archive.org/education/)  
-  
-[Sky Cams](https://web.archive.org/weather/skycams/)  
-  
-[Contact KCRA](https://web.archive.org/feedback/)  
-  
-[KCRA Talk Back](http://forums.ibsys.com/index.cfm?sitekey=sac)  
-  
-[E-Mail News](https://web.archive.org/news/email-newsletters.html)  
-  
-  
-
-
-## Privacy Policy
-
-### __
+[](https://web.archive.org/news//detail.html)
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheKCRAChannel.com](http://www.thekcrachannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
-
-[](https://www.truste.org/validate/7299)
 
 **Information Collection and Use**  
 This website makes use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a website if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with ads are not being collected by us and we do not have access to this information. Cookies can be rejected by you and if so none of the functions listed above will be performed. 
@@ -115,19 +44,11 @@ Security Administrator
 Internet Broadcasting Systems  
 1333 Northland Drive  
 Mendota Heights, MN 55120  
-[security@ibsys.com](mailto:security@ibsys.com)  
-
+[security@ibsys.com](mailto:security@ibsys.com)
 
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-**TRUSTe Confirmation**  
-This confirms that Internet Broadcasting Systems, Inc. and TheKCRAChannel.com are licensees of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact [security@ibsys.com](mailto:security@ibsys.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
-
-Last Revised 03/11/02 
-
-  
+Last Revised 09/02   
   
 
