@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medem.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152818id_/http%3A//www.medem.com/corporate/corporate_privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medem.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205185205id_/http%3A//www.medem.com/corporate/corporate_privacy_policy.cfm) for the most accurate reproduction.*
 
 # Medem: Privacy Policy
 
@@ -22,15 +22,15 @@ Legal Disclaimer
 
 **Changes to Policy.** While our philosophy will not change, the details of the policy will change over time as we add additional services and form relationships with new business partners. Please refer back to this page periodically. The date the policy was last revised will always appear at the top of the policy pages. 
 
-**Contacting Us.** If you have any questions about this Privacy and Confidentiality Policy, the practices of Medem-powered Web sites, your dealings with Medem, or would like to provide comments, please contact us at [info@medem.com](http://medem.custhelp.com/), or by phone, toll-free, at **1.877.926.3336** within the United States. 
+**Contacting Us.** If you have any questions about this Privacy and Confidentiality Policy, the practices of Medem-powered Web sites, your dealings with Medem, or would like to provide comments, please contact us at [info@medem.com](mailto:info@medem.com), or by phone, toll-free, at **1.877.926.3336** within the United States. 
 
-**Site Ownership, Scope, and Applicability of The Policy.** This Policy applies only when you are within the Medem-powered environment and only to information that Medem collects. ([Click here](https://web.archive.org/web/20020603152818id_/http%3A//www.medem.com/corporate/corporate_privacy_policy_policy_scope.cfm) for more details on the scope of this policy.) Please be advised that individual medical practices with Medem-powered Web sites are the legal owners of those Medem-powered sites and can customize their sites in two ways that fall outside the scope of the Medem Privacy and Confidentiality Policy: 
+**Site Ownership, Scope, and Applicability of The Policy.** This Policy applies only when you are within the Medem-powered environment and only to information that Medem collects. ([Click here](https://web.archive.org/web/20021205185205id_/http%3A//www.medem.com/corporate/corporate_privacy_policy_policy_scope.cfm) for more details on the scope of this policy.) Please be advised that individual medical practices with Medem-powered Web sites are the legal owners of those Medem-powered sites and can customize their sites in two ways that fall outside the scope of the Medem Privacy and Confidentiality Policy: 
 
 > A medical practice could put a link on its site that takes you to a site or service that is not part of the Medem-powered environment. Once there, you will no longer be interacting with a Medem server, and you should no longer see any Medem trademarks or legends that refer to Medem. If you leave the Medem-powered environment in this way, you can no longer be assured that the operator of the other site or service will follow the privacy policies and information security practices that are described in the Medem policy. We generally strive to provide buffer pages to inform you when you are leaving our environment, but we cannot monitor all site customizations made by individual medical practices. 
 > 
 > Within borders bearing a Medem trademark, a practice might publish online forms that ask you to provide information, which is then sent directly to the practice via e-mail (instead of sending it to a database on a Medem server). The most common example would be a practice conducting an online survey or questionnaire among visitors to its site. Medem has no control over information collected in this manner. 
 > 
-> If you ever have reason to believe that a medical practice has used its Medem-powered Web site to obtain information that it has used inappropriately, please contact us at [info@medem.com](http://medem.custhelp.com/).
+> If you ever have reason to believe that a medical practice has used its Medem-powered Web site to obtain information that it has used inappropriately, please contact us at [info@medem.com](mailto:info@medem.com).
 
 **Activity Tracking.** We collect and use activity statistics so we can understand the ways in which our sites and services are being utilized. We also provide this data, stripped of all personal identifiers, to the individual medical practices and physicians that publish Medem-powered Web sites. Activity related data is stored anonymously and it is only used in the form of aggregated statistics. This aggregated, anonymous data may also be shared with business partners. Activity related data cannot be used to target you with solicitations of any kind. 
 
@@ -38,9 +38,9 @@ With the exception of your User ID and Secure Messages, you have full, online ac
 
 **Collection and Stewardship of Other Information.** We only collect information that is required in order to provide you with services. We design our sites so that you must make express, informed choices to use services that ask for personal information. If you do choose to provide us with personal information, we will hold that information in the strictest confidence. 
 
-At any time, you can opt out of any service you have been using. We monitor and adopt best practices from industry guidelines and applicable statutes, and we follow appropriate [information security practices](https://web.archive.org/web/20020603152818id_/http%3A//www.medem.com/corporate/corporate_privacy_policy_security_provisions.cfm). 
+At any time, you can opt out of any service you have been using. We monitor and adopt best practices from industry guidelines and applicable statutes, and we follow appropriate [information security practices](https://web.archive.org/web/20021205185205id_/http%3A//www.medem.com/corporate/corporate_privacy_policy_security_provisions.cfm). 
 
-**Third Parties.** We work with [business partners](https://web.archive.org/web/20020603152818id_/http%3A//www.medem.com/corporate/corporate_privacy_policy_business_partners.cfm) to provide the highest-quality service available. Our partner contracts include protective language regarding consumer privacy in those cases where we feel the nature of the partner's role demands it. We do not disclose personal information to any third party without clearly noting the purpose of such disclosure at the point where you choose to use the service. 
+**Third Parties.** We work with [business partners](https://web.archive.org/web/20021205185205id_/http%3A//www.medem.com/corporate/corporate_privacy_policy_business_partners.cfm) to provide the highest-quality service available. Our partner contracts include protective language regarding consumer privacy in those cases where we feel the nature of the partner's role demands it. We do not disclose personal information to any third party without clearly noting the purpose of such disclosure at the point where you choose to use the service. 
 
 **Use of Cookies.** We use cookies to establish and sustain login sessions with browsers and for other supporting purposes. Other sites cannot use cookies created by our sites, and we do not use cookies to track your activities outside of our own sites. 
 
@@ -57,6 +57,8 @@ At any time, you can opt out of any service you have been using. We monitor and 
 **Legal Requests.** Medem cooperates with law enforcement inquiries as a matter of policy. We will use IP addresses and other available information to attempt to identify a user when we are legally compelled to do so or when we feel it is necessary to protect our services, sites, customers, or others. 
 
 **Legal Disclaimer.** Unfortunately, no data protection method or combination of methods can be guaranteed 100 percent secure. We strive to protect your personal information as described throughout this policy, but we cannot ensure or warrant our ability to do so. As a result, you use Medem content, products, and services at your own risk. Medem will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. 
+
+© 2002 Medem, Inc. 
 
 Back to Top  
   
