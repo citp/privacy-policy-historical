@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digi.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010220426id_/http%3A//www.digi.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digi.com privacy policy that was archived on 2005-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050126011919id_/http%3A//www.digi.com/privacy.jsp) for the most accurate reproduction.*
 
 # Digi International - Making Device Networking Easy
 
