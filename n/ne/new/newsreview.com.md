@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsreview.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208173541id_/http%3A//newsreview.com/issues/static/privacy.asp%3FCity%3DSacto) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsreview.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607012726id_/http%3A//www.newsreview.com/issues/static/privacy.asp%3FCity%3DSacto) for the most accurate reproduction.*
 
 # News & Review AboutSNR Page
 
