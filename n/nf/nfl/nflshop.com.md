@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206224500id_/http%3A//nflshop.com/Templates/Cm/cssecurity.tem%23privacystatements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607013920id_/http%3A//www.nflshop.com/Templates/Cm/cssecurity.tem%23privacystatements) for the most accurate reproduction.*
 
 # Customer Service
 
