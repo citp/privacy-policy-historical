@@ -1,27 +1,28 @@
-> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2001-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/privacy.asp) for the most accurate reproduction.*
 
 # California Lottery - Privacy Policy
 
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/winningnumbers.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/whatsnew.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/mediainformation.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/winningnumbers.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/whatsnew.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/mediainformation.asp)  
 [](http://calottery.com/)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/currentjackpot.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/games.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/winnersgallery.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/heroesineducation.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/heroesineducation/nominate.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/locations.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/feedback.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/contract_opps.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/about.asp)  
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/sitemap.asp)
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/currentjackpot.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/games.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/winnersgallery.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/heroesineducation.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/heroesineducation/nominate.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/locations.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/feedback.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/contract_opps.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/jobopportunities.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/about.asp)  
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/sitemap.asp)
 
-[](https://web.archive.org/web/20010309100720id_/http%3A//www.calottery.com/playresponsibly.asp)
+[](https://web.archive.org/web/20010803004918id_/http%3A//www.calottery.com/playresponsibly.asp)
 
   
 Revision Date:  
-Fri 3/9/01 12:00:00 AM  |   
+Thu 8/2/01 12:00:00 AM  |   
 
 
 **CSL Privacy Policy**
