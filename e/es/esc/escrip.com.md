@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escrip.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211215500id_/http%3A//escrip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escrip.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206060742id_/http%3A//escrip.com/privacy.html) for the most accurate reproduction.*
 
 # eScrip - privacy statement
 
@@ -23,7 +23,7 @@ San Mateo, CA 94402-0029
 [webmaster@escrip.com](mailto:webmaster@escrip.com)
 
    
-[Home](https://web.archive.org/jsp/index.jsp) |  [Family of Merchants](https://web.archive.org/merchants/search/index.html) |  [My eScrip](https://web.archive.org/supporter/index.html) |  [eScrip eXchange](https://web.archive.org/eXchange/index.html)  
-[Program Demo](https://web.archive.org/program/demo/step1.html) |  [About ESI](https://web.archive.org/about/index.html) |  [Contact Us](https://web.archive.org/about/contact.html) |  [Groups](https://web.archive.org/group/index.html) |  [Privacy](https://web.archive.org/privacy.html)
+[Home](https://web.archive.org/) |  [Family of Merchants](https://web.archive.org/merchants/search/index.html) |  [My eScrip](https://web.archive.org/supporter/index.html) |  [eScrip eXchange](https://web.archive.org/eXchange/index.html)  
+[Program Demo](https://web.archive.org/program/demo/step1.html) |  [About ESI](https://web.archive.org/about/index.html) |  [Contact Us](https://web.archive.org/about/contact.html) |  [Privacy](https://web.archive.org/privacy.html)
 
 ©2000 Electronic Scrip Incorporated. All rights reserved.
