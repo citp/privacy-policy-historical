@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bechtel.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404010612id_/http%3A//www.bechtel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bechtel.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205091757id_/http%3A//www.bechtel.com/privacy.htm) for the most accurate reproduction.*
 
 # Bechtel Corporation—Privacy Terms
 
