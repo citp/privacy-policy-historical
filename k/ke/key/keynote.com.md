@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keynote.com privacy policy that was archived on 1999-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991111001850id_/http%3A//keynote.com/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keynote.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620130241id_/http%3A//keynote.com/common/privacy.html) for the most accurate reproduction.*
 
 # Keynote Privacy Policy
 
