@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the mtbr.com privacy policy that was archived on 1999-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991124000215id_/http%3A//www.consumerreview.com/shared/copyright/policy_mtbreview.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtbr.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615030633id_/http%3A//www.consumerreview.com/shared/copyright/policy_mtbreview.html%23privacy) for the most accurate reproduction.*
 
-# ConsumerREVIEW.com - Product Reviews by Consumers for Consumers
+# Consumer Product Reviews - ConsumerREVIEW.com
 
-|  | 
-
-**Terms of Use**
-
-ConsumerReview, Inc., owner and operator of MtbREVIEW, strives to provide a product research resource and Web community of the highest quality and integrity. We encourage open, honest and respectful communication between all of our members. Our community guidelines are based upon these basic values: 
+|  |  Terms of Use ConsumerReview, Inc., owner and operator of MtbREVIEW, strives to provide a product research resource and Web community of the highest quality and integrity. We encourage open, honest and respectful communication between all of our members. Our community guidelines are based upon these basic values: 
 
   * We believe everyone has something to contribute 
   * We believe that an open, honest and respectful environment can generate stimulating discussion and valuable contributions from all of our members 
@@ -80,5 +76,7 @@ Summaries and aggregations of profile data collected on contest entry forms and 
 We gather information on site activity, such as how many viewers access the site, the pages they visit, etc. We use this information on an aggregate, anonymous basis, to improve site content. We also may disclose aggregated information (for example, X% of our viewers visit the product reviews section) to third parties.
 
 Other companies which place advertising or offer products on our site may collect information about you when you view or click on their advertising or content. We do not control their privacy and data collection policies and practices and we cannot be responsible for their policies.
+
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 
 Questions regarding this policy should be directed to [michael@mtbreview.com](mailto:michael@mtbreview.com)
