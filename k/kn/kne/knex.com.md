@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208144112id_/http%3A//www.knex.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603004131id_/http%3A//www.knex.com/parentzone/privacypolicy.php) for the most accurate reproduction.*
 
-# K'NEX | Parent Zone | Privacy Policy
+# K'NEX | Parent Zone
 
+[](https://web.archive.org/parentzone/index.php)  
+[](https://web.archive.org/parentzone/index.php)  
+[](https://web.archive.org/parentzone/activitycenter.php)  
+[](https://web.archive.org/parentzone/birthdays.php)  
+[](https://web.archive.org/parentzone/articles.php)  
 | 
 
-PARENT'S ZONE PRIVACY POLICY
+PARENT ZONE PRIVACY POLICY
 
-The Parents Zone section of www.knex.com is committed to offering you, the parent, helpful and educational information regarding building sets, K'NEX products and the K'NEX website. This section of the site also offers you the opportunity to enter contests and giveaways, and to enroll for email updates that will inform you of new content and offers recently added to the [Parent Zone](https://web.archive.org/parentzone/index.php?KNEX_Cookie=285e7d4360b323c2b698a5ba418a2ac5) and [Catalog](http://catalog.knex.com/cgi-bin/knex/) sections of the site. 
+The Parents Zone section of www.knex.com is committed to offering you, the parent, helpful and educational information regarding building sets, K'NEX products and the K'NEX website. This section of the site also offers you the opportunity to enter contests and giveaways, and to enroll for email updates that will inform you of new content and offers recently added to the [Parent Zone](https://web.archive.org/parentzone/index.php) and [Catalog](http://www.knex.com/customer/home.php) sections of the site. 
 
 Please know that any information collected in conjunction with any of these opportunities will be strictly used for only the intention it was collected. Never, in any case, do we sell or distribute information gathered to anyone, nor do we make our mailing lists available to anyone. We might, however, use this information in conjunction with a marketing partner, where we control when and how we use the information. Any information used in this specific manner would be in the categorized and generic format, and not individual names, email addresses, etc.
 
@@ -45,7 +50,7 @@ Other than that, we will use any personal information you or your child give us 
 
 • If we need to respond to an e-mail inquiry.
 
-• If your child has entered a K'NEX on-line contest and won, we will need an actual address to send the prize; notification will be sent to the parents e-mail address.
+• If your child has entered a K'NEX on-line contest and won, we will need an actual address to send the prize; notification will be sent to the parent's e-mail address.
 
 If you or your child sign up to receive K'NEX information or product updates, we will send an e-mail notification to the parent's e-mail address, with instructions on how to remove the child's e-mail address from the e-mail list, if you so wish. The surveys and contests, where we may ask for age and gender of the child, tell us things we would like to know about K'NEX users. This information is valuable in developing products we believe you and your child will like. We're always interested in comments from consumers. We use the generic, categorized data to help guide our marketing; too, so we can be certain advertising and information get to the real K'NEX fans.
 
@@ -72,17 +77,17 @@ K'NEX uses pixels, or transparent GIF files, to help manage online advertising. 
 
 SECURE ONLINE PURCHASING FROM K'NEX
 
-Only those 18 or older can make an online purchase from K'NEX. The online form requires the purchaser's real name, billing and shipping addresses, phone number, e-mail address and credit card information in order to complete the order. We accept only valid MASTERCARD or VISA credit cards in the name of the purchaser. We, of course, submit this information to the credit card company, which will use it's own methods of verifying addresses and identities. This information will be used only to process and ship the order and will not be retained online after the order has been submitted. It will be kept in a secure off-line database.
+Only those 18 or older can make an online purchase from K'NEX. The online form requires the purchaser's real name, billing and shipping addresses, phone number, e-mail address and credit card information in order to complete the order. We accept only valid MASTERCARD or VISA credit cards in the name of the purchaser. We, of course, submit this information to the credit card company, which will use its own methods of verifying addresses and identities. This information will be used only to process and ship the order and will not be retained online after the order has been submitted. It will be kept in a secure off-line database.
 
 K'NEX's SECURE SERVER connection will safely protect Credit Card information via the VeriSign™ system which you have probably used with other online purchases. This information will be deleted from your browser after you complete your order. Completion of your order can be done by one of the following: A) Complete the Credit Card Processing page, B) Closing your Web Browser.
 
-K'NEX requires that online ordering be done by an adult 18 years or older. Any customer wishing to submit an order who is younger than 18 years of age must have the order submitted by a parent or guardian. These orders will become the responsibility of the parent(s) or guardian(s) that own the valid credit card used in the transaction. If you have any questions regarding a purchase, please contact our Consumer Service Center at 1-800- KID - KNEX (1-800-543-5639), Monday through Friday, 8:30 a.m. to 5:00 p.m. EST (US and Canada callers only).
+K'NEX requires that online ordering be done by an adult 18 years or older. Any customer wishing to submit an order who is younger than 18 years of age must have the order submitted by a parent or guardian. These orders will become the responsibility of the parent(s) or guardian(s) that own the valid credit card used in the transaction. If you have any questions regarding a purchase, please contact our Consumer Service Center at 1-800- KID - KNEX (1-800-543-5639), Monday through Friday, 8:30 a.m. to 5:00 p.m. EST (US and Canadian callers only).
 
 OPTIONAL ORDERING METHOD
 
 If you feel uncomfortable submitting your credit card information over the Internet, you may choose the items you would like to purchase online and then select the "MAIL-IN ORDER FORM" option to print-out your order. Once you have printed your completed order form, send it in with one of the following payment options: A) Credit Card information (MasterCard or VISA only) with Expiration date, or B) Attach a Personal Check or Money Order made out to "K'NEX Industries" for the amount noted on the completed form. We are sorry, but we cannot accept Credit Card orders over the phone.
 
-Please contact our Consumer Service Center regarding any questions and/or inquiries regarding the ordering of K'NEX Parts online and/or through the mail at 1-800-KID-KNEX (1-800-543-5639), Monday through Friday, 8:30am to 5:00pm EST (US and Canada callers only)
+Please contact our Consumer Service Center regarding any questions and/or inquiries regarding the ordering of K'NEX Parts online and/or through the mail at 1-800-KID-KNEX (1-800-543-5639), Monday through Friday, 8:30am to 5:00pm EST (US and Canadian callers only)
 
 SUBMITTING AN IDEA OR PICTURE TO K'NEX
 
@@ -100,9 +105,6 @@ So unless you intend to share your idea or model with us as a gift, please do no
 K'NEX Consumer Services  
 P.O. Box 700  
 Hatfield, PA 19440  
-
-
-Copyright© 2003 K'NEX. All rights reserved. [Disclaimer](https://web.archive.org/parentzone/disclaimer.php?KNEX_Cookie=285e7d4360b323c2b698a5ba418a2ac5) | [Privacy](http://www.knex.com/parentzone/privacypolicy.php) | [Contact Us](https://web.archive.org/contact.php?KNEX_Cookie=285e7d4360b323c2b698a5ba418a2ac5)
-
   
-
+  
+---|---
