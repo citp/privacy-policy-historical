@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605164918id_/http%3A//www.educationcity.com/servlet/dispatch/expertcity/privacy.tmpl%3FSessionInfo%3D0/0/null) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404122150id_/http%3A//educationcity.com/servlet/dispatch/expertcity/privacy.tmpl%3FSessionInfo%3D0/0/null) for the most accurate reproduction.*
 
 # Expertcity, Inc.: privacy policy
 
