@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008102215id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604132050id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Bplans.com
 
