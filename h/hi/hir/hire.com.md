@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hire.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619080746id_/http%3A//www.hire.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hire.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803124359id_/http%3A//www.hire.com/privacy.php3) for the most accurate reproduction.*
 
 # Hire.com
 
@@ -24,13 +24,8 @@
 > 
 
 > 
-> If you have questions or concerns regarding this statement, you should first contact Hire.com by written request at the address located on our website. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watc). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **Information Collection** Hire.com's collection policies enable you to choose how much information you provide and how this information is used. A Hire.com goal is to use this information to help further your experience in an environment that is sensitive to confidentiality. 
-> 
-> **Usage Tracking**
-> 
-> Generally available information about your machine capabilities are used to allow your experience to be a rewarding one. This includes the use of a user's domain name, browser type, MIME capabilities, and IP address provided by every user's browser. Hire.com tracks user traffic patterns via the Web server but does not associate this information with an individual user. This says that a user session may be tailored or tracked by browser or origin, but the user will be confidential.
-> 
-> **  
+> If you have questions or concerns regarding this statement, you should first contact Hire.com by written request at the address located on our website. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watc). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **Information Collection** Hire.com's collection policies enable you to choose how much information you provide and how this information is used. A Hire.com goal is to use this information to help further your experience in an environment that is sensitive to confidentiality.   
+>  **  
 > Our Disclosure of Your Information**
 > 
 > Hire.com will not share, sell or rent any personally identifiable information about you to any third party without your approval. However, aggregate and demographic data, which is not associated with an individual user's personally identifiable information, will be shared to analyze trends and statistics to our web site.
@@ -94,11 +89,14 @@
 > 
 > Our site provides users the opportunity to opt-out of receiving communications from us. Users may change this information any time and as often as necessary ([http://careers.hire.com/](http://careers.hire.com/index.html)). You may set your career profile to not receive future communications or to no longer receive our service by logging into your account, selecting the preferences option and deselecting the Notification and Correspondence boxes respectively. A confirmation email of your changes will be sent to you. For registration via our online comments or demonstration requests, please contact us for removal from the list through our [Contact Us](http://www.hire.com/solutions/sol_demo.php) web page. **Correct/Update**
 > 
-> If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email if you have selected to receive correspondence from us. You will have a choice as to whether or not we use your information in this different manner. You may request your information be removed from future use by [Contacting Us](http://www.hire.com/solutions/sol_demo.php) through our website or updating your profile through the careers section. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post the notice prominently on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+> Users may correct/update their career site registration profile, preferences and any submitted resume at any time and as often as necessary at (<http://careers.hire.com/>). A confirmation email of your changes will be sent to you. To remove your information from our system, please send email to careers-service@hire.com and request removal. .
 > 
->   
+> **Notification of Changes**
+> 
+> If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email if you have selected to receive correspondence from us. You will have a choice as to whether or not we use your information in this different manner. You may request your information be removed from future use by [Contacting Us](http://www.hire.com/solutions/sol_demo.php) through our website or updating your profile through the careers section. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post the notice prominently on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. ****   
+>    
 >  **Contacting the Web Site**
 > 
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact Us](http://www.hire.com/solutions/sol_demo.php) through our website. 
 > 
-> If Hire.com does not respond to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at [http://www.truste.org/users/users_watchdog_intro.html](https://web.archive.org/web/20010619080746id_/http%3A//www.hire.com/%3Cfont%20face=%22Arial,Helvetica,Geneva,Swiss,SunSans-Regular%22%20size=%222%22%3Ehttp://www.truste.org/users/users_watchdog_intro.html%3C/font%3E). 
+> If Hire.com does not respond to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at [http://www.truste.org/users/users_watchdog_intro.html](https://web.archive.org/web/20010803124359id_/http%3A//www.hire.com/%3Cfont%20face=%22Arial,Helvetica,Geneva,Swiss,SunSans-Regular%22%20size=%222%22%3Ehttp://www.truste.org/users/users_watchdog_intro.html%3C/font%3E). 
