@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405214056id_/http%3A//siddhayoga.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205215855id_/http%3A//www.siddhayoga.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Siddha Yoga Meditation || About SYDA
 
@@ -25,7 +25,7 @@ We encourage children to ask parental permission before sending any information 
 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving information from us .   
-1\. You can send email to [webmaster@siddhayoga.org](mailto:webmaster@siddhayoga.org)   
+1\. [Click here](https://web.archive.org/contact/index.html#change_mail) to change status or remove yourself form the mailing list.  
 2\. You can send mail to the following postal address:   
 Web Department SYDA Foundation 371 Brickman Road, P.O. Box 600, South Fallsburg, NY 12779 
 
