@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202172722id_/http%3A//www.lntinfotech.com/lntinfotech/ASPFiles/PrivacyPolicy/I1117PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610101821id_/http%3A//lntinfotech.com/lntinfotech/ASPFiles/PrivacyPolicy/I1117PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # L&T Infotech - Privacy Policy
 
