@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601085542id_/http%3A//www.blockbuster.com/bb/help/privacy_policy/0%2C7644%2C%2C00.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008043818id_/http%3A//www.blockbuster.com/bb/help/privacy_policy/0%2C7644%2C%2C00.html%3F) for the most accurate reproduction.*
 
 # Privacy Policy at Blockbuster
 
@@ -28,6 +28,7 @@ Purchase Cart
 |  [New Releases](http://www.blockbuster.com/bb/game/new_releases/0,7578,,00.html?)  
 [Coming Soon](http://www.blockbuster.com/bb/game/coming_soon/0,7580,,00.html?)  
 [Top 10 Games](http://www.blockbuster.com/bb/game/top10/0,7559,,00.html?)  
+[Game Freedom Pass](http://www.blockbuster.com/gamefreedompass/0,8096,,00.html?)  
 [Ratings Defined](http://www.blockbuster.com/bb/game/esrb/0,7631,,00.html?)  
 | Specials |   
 ---|---|---  
@@ -35,7 +36,7 @@ Purchase Cart
 [Carl & Ray™](https://web.archive.org/bb/carlandray)  
 [GiftCards](http://www.blockbuster.com/bb/article/details/0,7413,ART-528,00.html?)  
 [Pre-viewed Movies](https://web.archive.org/bb/movie/prp)  
-[Pre-played Games](http://www.blockbuster.com/bb/article/details/0,7413,ART-1127,00.html?)  
+[Pre-played Games](http://www.blockbuster.com/bb/article/details/0,7413,ART-1167,00.html?)  
   
 |  |  PRIVACY POLICY |   
 ---|---  
