@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the checkmystats.com.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621130041id_/http%3A//www.checkmystats.com.au/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmystats.com.au privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001180701id_/http%3A//www.checkmystats.com.au/privacy/index.htm) for the most accurate reproduction.*
 
-# Privacy information and checkmystats.com.au
+# Checkmystats.com.au is an online provider of performance based marketing and sales solutions.
 
-**Privacy   Statement.  
-**  
 The checkmystats Team has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [http://www.checkmystats.com.au](http://www.checkmystats.com/) 
 
 Information gathered from your visit by our Web server is data of a general nature, the same that most Web servers would gather. Data such as IP address, pages served, average time of visit, and any errors encountered whilst visiting is collected in the server logs. We use your IP address to help diagnose problems with our server and the web page data helps us diagnose navigation problems, thus improving the layout and navigation of checkmystats.
