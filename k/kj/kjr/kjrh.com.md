@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202214935id_/http%3A//www.teamtulsa.com/help2/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214071216id_/http%3A//www.teamtulsa.com/help2/privacy.shtml) for the most accurate reproduction.*
 
-# Team Tulsa: News Weather Sports Business and Entertainment for Tulsa Oklahoma
+# 2 WORKS FOR YOU--Homepage of KJRH-TV, CHANNEL 2--Tulsa, OK
 
 ****
 
-The TeamTulsa Privacy Policy  
-**TeamTulsa** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At TeamTulsa **** we intend to give you as much control as possible over your personal information.
+The 2 Works For You Privacy Policy  
+**2 Works For You** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At 2 Works For You **** we intend to give you as much control as possible over your personal information.
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
 
@@ -33,9 +33,9 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [rmills@teamtulsa.com](mailto:rmills@teamtulsa.com), or you can reach us by telephone at (918)748-1560. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [rmills@2worksforyou.com](mailto:rmills@2worksforyou.com), or you can reach us by telephone at (918)748-1560. You can also write us at:
 
-TeamTulsa  
+2 Works For You  
 3701 S. Peoria Ave.  
 Tulsa, OK 74105 **  
 **
@@ -52,4 +52,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at rstewart@teamtulsa.com. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [**click here**](http://www.teamtulsa.com/help2/user.shtml).
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at rstewart@2worksforyou.com. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [**click here**](http://2worksforyou.com/help2/user.shtml).
