@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edn.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603113250id_/http%3A//www.reed-electronics.com/ednmag/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edn.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209001442id_/http%3A//www.edn.com/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.*
 
-# EDN.com: The design source for electronics engineers and managers worldwide
+# EDN.com: The design source for electronics engineers and managers worldwide page
 
   
 Overview
@@ -9,7 +9,7 @@ Overview
 
 This Privacy Policy describes the policies of Reed Business Information ("RBI" or "we"), a division of Reed Elsevier Inc. ("Reed Elsevier"), regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you and other users ("you" or "Users") visit the EDN web site (the "Site"). [http://www.reed-electronics.com/ednmag](http://reed-electronics.com/ednmag)
+  * Information obtained when you and other users ("you" or "Users") visit the EDN web site (the "Site"). [http://www.edn.com](http://www.edn.com/)
   * Information obtained through e-mail communications with you related to the Site. 
 
 
