@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203081200id_/http%3A//weta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2001-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010110202100id_/http%3A//www.weta.org/privacy.html) for the most accurate reproduction.*
 
 # WETA - Online Privacy Policy
 
