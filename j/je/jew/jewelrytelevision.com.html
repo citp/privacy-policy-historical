@@ -1,0 +1,945 @@
+<!--The following is the downloaded HTML source of the jewelrytelevision.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602234207id_/http%3A//www.acntv.com/help/default.asp%3Finf%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head>
+<!-- BEGIN COREMETRICS -->
+
+<script language="javascript1.1">
+var cmJv="1.1";
+</script>
+<script language="javascript1.2">
+var cmJv="1.2";
+</script>
+<script language="javascript1.3">
+var cmJv="1.3";
+</script>
+<script language="javascript1.4">
+var cmJv="1.4";
+</script>
+<script language="javascript1.5">
+var cmJv="1.5";
+</script>
+
+<script language="javascript1.1" src="../coremetrics/v31/eluminate.js"></script>
+<script language="javascript1.1" src="../coremetrics/v31/techprops.js"></script>
+<script language="javascript1.1" src="../coremetrics/cmdatatagutils.js"></script>
+
+<script language="JavaScript">
+
+cmSetProduction();
+
+
+<!--//
+	var showPage = false;
+	var cmcatid = null;
+	var productdetails = null;
+	var aucseq = null;
+	var store;
+	var args = null;
+	var by = null;
+	var grp = null;
+	var grp2 = null;
+	var bproduct = null;
+	var product = null;
+	var productname = null;
+	var promo = null;
+	var nav = null;
+	var page = 1;
+	var spacer = "_";
+	var spacer2 = " ";
+	var string1 = null;
+	var string2 = null;
+	var string3 = null;
+	var string4 = null;
+	var bproduct = null;
+	var src = null;
+	var src_d = null;
+	var staticpage = false;
+	var pagename = null;
+	var cartqty = 0;
+
+	//get querystring and parse into an object
+	function getArgs()
+	{
+		var args = new Object();
+		var query = location.search.substring(1);
+		var pairs = query.split("&");
+		for(var i = 0; i < pairs.length; i++)
+		{
+			//alert( "pairs: " + pairs[i] );
+			var pos = pairs[i].indexOf('=');
+			if (pos == -1) continue;
+			var argname = pairs[i].substring(0,pos);
+			var value = pairs[i].substring(pos+1);
+			args[argname] = unescape(value);
+		}
+		return args;
+	}	
+
+	//create coremetrics catolog id
+	function getCmCatId(  )
+	{
+		args = getArgs();
+		
+		if(args["src"] != null)
+		{
+			src = args["src"]
+			//alert("src = " + src);
+		}
+		if (args["src_d"] != null)
+		{
+			src_d = args["src_d"];
+			//alert("src_d = " + src_d);
+		}
+		if (args["product_id"]!=null)
+		{
+			product = args["product_id"];
+		}
+		if (args["pid"]!=null )
+		{
+			product = args["pid"];
+		}
+		if (args["auctionitemid"]!=null)
+		{
+			product = args["auctionitemid"];
+		}
+		if (args["AuctionItemID"]!=null)
+		{
+			product = args["AuctionItemID"];
+		}
+		if (args["promo"]!=null)
+		{
+			promo = args["promo"];
+		}
+
+		if (args["nav"]!=null)
+		{
+			nav = args["nav"];
+		}
+		if (args["page"]!=null)
+		{
+			page = args["page"];
+		}
+
+		if (args["by"]!= null)
+		{
+			by = args["by"];
+		}
+
+		if (args["grp"]!= null)
+		{
+			grp = args["grp"];
+		}
+
+		if (args["aucseq"]!= null)
+		{
+			aucseq = args["aucseq"];
+		}
+		if (args["grp2"] != null)
+		{
+			grp2 = args["grp2"];
+		}
+
+		if (product != null && (grp != null || aucseq != null || nav != null || src=="p"))
+		{
+			productdetails = "PRODUCTDETAILS";
+		}
+
+		store = getStore();
+
+		if (store == "default.as")
+		{
+			cmcatid = "HOME";
+		}
+		else if (grp == null  && grp2 == null && promo == null && src !="p" && nav == null)
+		{
+			cmcatid = store.toUpperCase() + "_FEATURED";
+			pagename = store.toUpperCase();
+		}
+		else if (nav == "clearance")
+		{
+			store = nav;
+			if(grp == null  && (grp2 == null || grp2 == 0))
+			{
+				cmcatid = "CLEARANCE";
+				pagename = cmcatid;
+			}
+			else
+			{
+				if (by == "mat")
+			{
+
+				if(grp == null || grp == 0)
+				{
+
+					string1 = stringManipulation(store,spacer);
+					string2 = stringManipulation(string1,grp2);
+					string3 = stringManipulation(string1,string2);
+					cmcatid = string3.toUpperCase();
+					pagename = grp.toUpperCase();
+
+				}
+				else
+				{
+
+					string1 = stringManipulation(store,spacer);
+					string2 = stringManipulation(string1,grp2);
+					string3 = stringManipulation(string2,spacer);
+					string4 = stringManipulation(string3,grp);
+
+					cmcatid = string4.toUpperCase();
+					pagename = grp2.toUpperCase() + ": " + grp.toUpperCase();
+				}
+			}
+			else
+			{
+				if(grp2 == null || grp2 == 0)
+				{
+
+
+					string1 = stringManipulation(store,spacer);
+					string2 = stringManipulation(string1,grp);
+					cmcatid = string2.toUpperCase();
+					pagename = grp.toUpperCase();
+				}
+				else
+				{
+
+					string1 = stringManipulation(store,spacer);
+					string2 = stringManipulation(string1,grp);
+					string3 = stringManipulation(string2,spacer);
+					string4 = stringManipulation(string3,grp2);
+					cmcatid = string4.toUpperCase();
+					pagename = grp.toUpperCase() + ": " + grp2.toUpperCase();
+
+				}
+			}
+
+			}
+		}
+		else if (promo != null || src =="p")
+		{
+			if(src_d != null)
+			{
+				promo = src_d;
+			}
+			cmcatid = "PROMO_" + promo;
+			pagename = "PROMO " + promo;
+		}
+
+		else
+		{
+			if (by == "mat")
+			{
+
+				if(grp == null || grp == 0)
+				{
+					store = getStore();
+					string1 = stringManipulation(store,spacer);
+					string2 = stringManipulation(string1,grp2);
+					string3 = stringManipulation(string1,string2);
+
+					cmcatid = string3.toUpperCase();
+					pagename = grp2.toUpperCase();
+
+				}
+				else
+				{
+					store = getStore();
+					string1 = stringManipulation(store,spacer);
+					string2 = stringManipulation(string1,grp2);
+					string3 = stringManipulation(string2,spacer);
+					string4 = stringManipulation(string3,grp);
+
+					cmcatid = string4.toUpperCase();
+					pagename = grp2.toUpperCase()+": " + grp.toUpperCase();
+				}
+			}
+			else
+			{
+				if(grp2 == null || grp2 == 0)
+				{
+
+					 store = getStore();
+					string1 = stringManipulation(store,spacer);
+					string2 = stringManipulation(string1,grp);
+					cmcatid = string2.toUpperCase();
+					pagename = grp.toUpperCase();
+				}
+				else
+				{
+					 store = getStore();
+					string1 = stringManipulation(store,spacer);
+					string2 = stringManipulation(string1,grp);
+					string3 = stringManipulation(string2,spacer);
+					string4 = stringManipulation(string3,grp2);
+					cmcatid = string4.toUpperCase();
+					pagename = grp.toUpperCase() + ": " + grp2.toUpperCase();
+				}
+			}
+		}
+		//alert("store: " + store);
+		return cmcatid;
+	}
+
+//get productname
+function getProductName()
+{
+	getProductName( null )
+}
+function getProductName( pid )
+{
+	if( pid != null )
+		product = pid;
+	bproduct = getBaseProduct();
+
+	if(grp == null && grp2 == null)
+	{
+		string1 = bproduct
+		productname = string1;
+	}
+	else if (grp == null)
+	{
+		string1 = stringManipulation(grp2,spacer2);
+		string2 = stringManipulation(string1,bproduct);
+		productname = grp2;
+	}
+	else if (grp2 == null || grp2 ==0)
+	{
+		string1 = stringManipulation(grp,spacer2);
+		string2 = stringManipulation(string1,bproduct);
+		productname = grp;
+	}
+	else
+	{
+		string1 = stringManipulation(grp2,spacer2);
+		string2 = stringManipulation(string1,grp);
+		string3 = stringManipulation(string2,spacer2);
+		string4 = stringManipulation(string3,bproduct);
+
+		productname = string2;
+	}
+	return productname.toUpperCase();
+
+
+}
+
+
+//get base product id
+function getBaseProduct()
+{
+	var baseProduct = product;
+	var b = baseProduct.indexOf("-");
+	var bp = baseProduct.slice(0,b);
+	//alert("base product:" + bp);
+	return bp;
+
+}
+
+
+
+//get storename
+function getStore()
+{
+	var storeName = getDefaultPageID();
+	var n = storeName.indexOf("/");
+	var na = storeName.slice(0,n);
+	//alert(na);
+	store = na;
+	return store;
+
+}
+
+//concat strings together
+function stringManipulation(string1,string2)
+	{
+		var concatString;
+		concatString = string1.concat(string2);
+		//alert(concatString);
+		return concatString;
+	}
+
+  var exist = "true";
+
+  function getCookieVal (offset) {
+  	var cookie = unescape( document.cookie );
+	var endstr = cookie.indexOf (";", offset);
+	 if (endstr == -1)
+	  endstr = cookie.length;
+  	return unescape(cookie.substring(offset,   endstr));
+  }
+
+   function getCookie( name ){
+	var arg = name + "=";
+	var alen = arg.length;
+	var cookie = unescape( document.cookie );
+	var clen = cookie.length;
+	var i = 0;
+	 while (i < clen) {
+	  var j = i + alen;
+	  if (cookie.substring(i, j) == arg)
+	    return getCookieVal (j);
+	  i = cookie.indexOf(" ", i) + 1;
+	  if (i == 0) break;
+	 }
+	 return null;
+	}
+ function openNewWin(filename,iWidth,iHeight)
+ {
+    var AddWin =   window.open(filename,"ACNtv",'menubar=yes,toolbar=yes,scrollbars=yes,width='+iWidth+',height='+iHeight+'');
+ }
+ function sendCMCatIDFrm( frm, pid ){
+  //alert( "cmcatid: " + cmcatid + "\nProductName: " + getProductName( pid ) );
+	frm.cmcid.value = cmcatid;
+	frm.cmpnme.value = getProductName( pid );
+ }
+ function sendCMCatID( url, pid ){
+  //alert( "cmcatid: " + cmcatid + "\nProductName: " + getProductName( pid ) );
+	url.href +="&cmcid=" + cmcatid + "&cmpnme="+ getProductName( pid );
+	return true;
+ }
+
+//-->
+</script>
+
+<title>Jewelry, Loose Gemstones, Diamonds, and More – Jewelry Television™ by ACN: Help </title>
+
+
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="keywords" content="jewelry television, fine jewelry, wedding jewelry, rare gems, exotic gems, gemstones, jewelry auctions, gemstone auctions, acntv, acn tv, jewelry tv, beads, jewelry-making supplies, jeweler’s supplies, acn jewelry television">
+<meta name="description" content="Choose from thousands of fine jewelry pieces, or find the perfect gemstone for a customized creation.">
+<link rel="stylesheet" href="../include/newacnStyle.css" type="text/css">
+<link rel="SHORTCUT ICON" href="/images/favicon.ico">
+</head>
+<body bgcolor="#ffffff" link="#000090" vlink="#000090" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
+
+
+<!--campaign tracking went here -->
+
+
+<font face="Arial,Helvetica" size="2">
+<p align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="730">
+
+
+
+   <!--<tr>     <td colspan="3" valign="middle" bgcolor="#ffffff" align="left">       <img src="../images/spacer.gif" height="4">	 </td>   </tr>-->
+   <tbody><tr>
+     <td rowspan="3" width="145" valign="middle" bgcolor="#ffffff" align="center">
+       <a href="http://www.acntv.com">
+       <!--<img border="0" alt="ACNtv" align="left" src="../images/new_home/hm_2/logo.gif">-->
+       <!--<img border="0" alt="ACNtv" align="center" src="../images/jewelry_television_logo.jpg">-->
+       <img border="0" alt=" Jewelry Television™ by ACN – Changing the way America buys jewelry.™ " align="center" src="../images/jewelry_television_logo.jpg" width="140" height="81">
+       </a>
+     </td>
+     <td valign="middle" align="center">
+       <font size="1">
+       welcome! &nbsp;&nbsp;<a class="rednav" href="https://www.acntv.com/account/default.asp">sign-in</a>
+
+
+	   </font>
+     </td>
+     <td align="right" valign="bottom" bgcolor="#ffffff">
+
+
+	   <table border="0" cellpadding="1" cellspacing="0">
+	     <tbody><tr>
+	      <td rowspan="2" align="left" valign="bottom">
+	       <a href="/estore/cart.asp?sid="><img border="0" src="../new_images/cart.gif" width="23" height="15"></a>
+	      </td>
+
+	 <td align="left" valign="bottom"><font size="1" face="arial, helvetica" color="#666666">shopping </font></td><td align="left" valign="bottom"><font size="1" face="arial, helvetica" color="#666666"></font></td><td rowspan="2" align="left" valign="bottom">&nbsp;&nbsp;</td></tr><tr><td align="left" valign="bottom"><font size="1" face="arial, helvetica" color="#666666">cart </font></td><td align="left" valign="bottom"><font size="1" face="arial, helvetica" color="#666666"></font></td></tr></tbody></table></td></tr>
+
+  <tr>
+     <td colspan="2" align="middle" valign="center">
+     
+<table width="568" border="0" cellpadding="0" cellspacing="0" valign="top" align="center">
+
+	<tbody><tr>
+		<td align="right" valign="top"><img height="20" src="../images/new_home/hm_2/lft_crv.gif"></td>		
+		<td width="65" bgcolor="#cdcdcd">&nbsp;</td>
+		<td bgcolor="#cdcdcd"><a class="nav2" href="http://www.acntv.com/default.asp">shop</a></td>
+		<td valign="middle" bgcolor="#cdcdcd"><font class="homenav">&nbsp;&nbsp;&nbsp;<img width="1" height="15" src="../images/666666.gif">&nbsp;&nbsp;&nbsp;</font></td>
+		<td bgcolor="#cdcdcd"><a class="nav2" href="http://www.acntv.com/auction/default.asp">auction</a></td>
+		<td valign="middle" bgcolor="#cdcdcd"><font class="homenav">&nbsp;&nbsp;&nbsp;<img width="1" height="15" src="../images/666666.gif">&nbsp;&nbsp;&nbsp;</font></td>
+		<td bgcolor="#cdcdcd"><a class="nav2" href="https://www.acntv.com/account/default.asp">my account</a></td>
+		<td valign="middle" bgcolor="#cdcdcd"><font class="homenav">&nbsp;&nbsp;&nbsp;<img width="1" height="15" src="../images/666666.gif">&nbsp;&nbsp;&nbsp;</font></td>
+		<td bgcolor="#cdcdcd"><a class="nav2" href="http://www.acntv.com/acn_affiliates/splash.asp">about us</a></td>
+		<td valign="middle" bgcolor="#cdcdcd"><font class="homenav">&nbsp;&nbsp;&nbsp;<img width="1" height="15" src="../images/666666.gif">&nbsp;&nbsp;&nbsp;</font></td>
+		<td bgcolor="#cdcdcd"><a class="nav2" href="http://www.acntv.com/help/default.asp">help</a></td>
+		<td width="65" bgcolor="#cdcdcd">&nbsp;</td>
+		<td align="left" valign="top"><img height="20" src="../images/new_home/hm_2/rt_crv.gif"></td>			
+	</tr>
+</tbody></table>
+
+     </td>
+   </tr>
+
+</tbody></table>
+
+
+<table align="center" border="0" width="730" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td colspan="2" valign="top" align="right"><font face="arial,helvetica" size="2" color="#666666">&nbsp;
+	  Wednesday, June 02, 2004
+	</font></td>
+  </tr>
+</tbody></table>
+<table valign="top" align="CENTER" border="0" cellpadding="0" cellspacing="0" width="730">
+  <tbody><tr>
+	<td height="10" align="center" valign="top">
+<table height="" bgcolor="#ffffff" border="0" width="140" cellpadding="1" cellspacing="0">
+	    <tbody><tr>
+		    <td align="center" valign="top" bgcolor="#ffffff">
+<!-- SEARCH BOX -->
+	  
+				<form action="../search/default.aspx" method="post" id="form1" name="form1">
+				<input type="hidden" name="type" value="simple" size="25" id="Hidden2">
+				<table cellpadding="0" cellspacing="0" border="0" id="Table1">
+					<tbody><tr>
+						<td align="center" valign="bottom" colspan="3"><img src="../images/search/side_search_curv_top.gif" alt="Search ACNtv"></td>
+					</tr>
+					<tr>
+						<td align="center" valign="top" height="20"><img src="../images/1px_black.gif" height="25" width="1"></td>					
+						<td align="center">
+							<input align="left" name="txtSearch" value="" size="17" id="Text1">			
+						</td>
+						<td align="right" valign="top" height="20"><img src="../images/1px_black.gif" height="25" width="1"></td>						
+					</tr>
+					<tr>
+						<td align="center" valign="top" height="20"><img src="../images/1px_black.gif" height="25" width="1"></td>					
+						<td align="center">
+							<select name="selectStore" id="Select1">
+								<option selected="" value="allacn">All ACNtv</option><option value="estore">Estore</option><option value="auction">Auctions</option><option>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+							</select>
+						</td>
+						<td align="right" valign="top" height="20"><img src="../images/1px_black.gif" height="25" width="1"></td>						
+					</tr>
+					<tr>
+						<td align="center" valign="top" colspan="3"><input type="image" align="top" src="../images/search/side_search_curv_bottom.gif" border="0" name="GoSearch" value="SEARCH" id="Image1"></td>
+					</tr>
+				</tbody></table>
+				</form>
+
+<!-- END SEARCH BOX -->
+<script language="JavaScript">
+<!-- //
+ function openNewWin1(filename)
+ {
+    var NewWin =   window.open(filename,"ACNtv",'menubar=no,toolbar=no,width=740,height=430');
+ }
+ function openNewWin2(filename)
+ {
+    var NewWin =   window.open(filename,"ACNtv",'menubar=no,toolbar=no,width=340,height=360');
+ }
+// -->
+</script>
+		    </td>
+		</tr>
+
+
+<tr>
+    <td height="20" valign="top" align="center" bgcolor="#ffffff">
+    <img width="150" height="32" valign="top" '="" src="../images/shop_estore.gif">
+    </td>
+</tr>
+<tr>
+    <td height="20" bgcolor="#ffffff" valign="top" align="center">
+	  <table valign="top" align="center" width="140" cellpadding="7" cellspacing="0" border="0" bgcolor="#ffffff">
+		<tbody><tr>
+		  <td valign="top">
+          <font face="arial,helvetica" size="2">
+<a href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type"><img border="0" src="../new_images/browsebyType_nav.gif"></a><br><img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=bracelet&amp;grp2=0&amp;type=SEARCH">bracelet</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=necklace&amp;grp2=0&amp;type=SEARCH">necklace</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=earrings&amp;grp2=0&amp;type=SEARCH">earrings</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=pendant&amp;grp2=0&amp;type=SEARCH">pendant</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=pin/brooch&amp;grp2=0&amp;type=SEARCH">pin/brooch</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=ring&amp;grp2=0&amp;type=SEARCH">ring</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=watch&amp;grp2=0&amp;type=SEARCH">watch</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=semi-mount&amp;grp2=0&amp;type=SEARCH">semi-mount</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=tools&amp;grp2=0&amp;type=SEARCH">tools</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=books&amp;grp2=0&amp;type=SEARCH">books</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=castings&amp;grp2=0&amp;type=SEARCH">castings</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=gifts&amp;grp2=0&amp;type=SEARCH">gifts</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=knives&amp;grp2=0&amp;type=SEARCH">knives</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=type&amp;src=e&amp;src_d=type&amp;grp=gemstones&amp;grp2=0&amp;type=SEARCH">gemstones</a></b><br>
+&nbsp;<br>
+<a href="http://www.acntv.com/estore/default.asp?sid=&amp;by=mat&amp;src=e&amp;src_d=mat"><img border="0" src="../new_images/browsebyMat_nav.gif"></a><br>
+<img src="../images/arrow.gif"> 
+<b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=mat&amp;src=e&amp;src_d=mat&amp;grp2=gold">Gold</a></b><br>
+<img src="../images/arrow.gif"> 
+<b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=mat&amp;src=e&amp;src_d=mat&amp;grp2=silver">Silver</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=mat&amp;src=e&amp;src_d=mat&amp;grp2=diamond">Diamond</a></b><br>
+<img src="../images/arrow.gif"> <b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=mat&amp;src=e&amp;src_d=mat&amp;grp2=sapphire">Sapphire</a></b><br>
+<img src="../images/arrow.gif"> 
+<b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=mat&amp;src=e&amp;src_d=mat&amp;grp2=ruby">Ruby</a></b><br>
+<img src="../images/arrow.gif"> 
+<b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=mat&amp;src=e&amp;src_d=mat&amp;grp2=emerald">Emerald</a></b><br>
+<img src="../images/arrow.gif"> 
+<b><a class="newnav" href="http://www.acntv.com/estore/default.asp?sid=&amp;by=mat&amp;src=e&amp;src_d=mat&amp;grp2=pearl">Pearl</a></b><br>
+<br><img src="../images/arrow.gif"> 
+<b><a class="menu" href="http://www.acntv.com/estore/default.asp?sid=&amp;nav=clearance">Clearance</a></b><br>
+
+	  
+				  </font>
+				  </td>
+				</tr>
+			  </tbody></table>
+		   </td>
+		</tr>
+
+
+
+	<tr>
+		<td align="center" valign="top">
+			<a href="http://www.acntv.com:8081/live"><img border="0" src="../images/watch_live_btn.gif"></a>
+			<a href="../schedule/show.schedule.asp"><img border="0" src="../images/view_gde_btn.gif"></a>
+			<!--
+			<a href="../schedule/station.lookup.asp"><img border=0 src="../images/fnd_chnl_btn.gif"></a>
+			-->
+		</td>
+	</tr>	
+	<!--
+	<tr>
+		<td height="1" bgcolor="#ffffff" align="middle" valign="top">
+		   <img height="12" src="../images/7px_white_spacer.gif"><br>
+		   <a href="../account/wishlist.asp?sid=">
+		   <img border="0" alt="My ACNtv WishList" src="../new_images/mywishlist.gif" WIDTH="146" HEIGHT="32">
+		   </a>
+	    </td>
+    </tr>
+
+	<tr>
+		<td height="1" bgcolor="#ffffff" align="left" valign="top">
+		    <table cellpadding="5" cellspacing="0">
+		       <tr>
+		         <td valign="top">
+					<font face="arial,helvetica" size="2">
+					<a class="main" href="../account/wishlist.asp?sid=&amp;wishlist=info">what's this?</a>
+					&nbsp;<br>
+					<a class="main" href="../account/wishlist.asp?sid=&amp;wishlist=view">click here</a>
+					to view someone's wishlist
+					&nbsp;<br>
+					&nbsp;<br></font>
+				 </td>
+				</tr>
+			</table>
+		 </td>
+	</tr>
+	-->
+	<tr>
+	   <td height="1" width="140" bgcolor="#ffffff" align="left" valign="top">
+	   <img alt="Contact at ACNtv.com" src="../new_images/contact.gif" width="146" height="32">
+	   </td>
+	</tr>
+	<tr>
+	   <td height="1" width="140" bgcolor="#ffffff" align="left" valign="top">
+			<table cellpadding="0" width="140" border="0" bgcolor="#ffffff">
+			  <tbody><tr>
+			    <td colspan="2">
+				 <font class="BLACK" face="veranda" size="1">					 
+				 <b>Questions?</b>
+				 </font>
+				 <font face="veranda" size="1">					 
+				 - contact <a class="main" href="mailto:customerservice@acntv.com">
+					customerservice@acntv.com</a> or call 865-692-6100
+				 </font>
+				</td>
+			  </tr>
+			  <tr>
+			    <td colspan="2">
+				 <font face="veranda" size="1">
+					&nbsp;
+				 </font>
+				</td>
+			  </tr>			  		  
+		    </tbody></table>
+	   </td>
+	</tr>		
+	<tr>
+	   <td bgcolor="#ffffff" align="left" valign="top">
+	   &nbsp;
+	   </td>
+	</tr>
+</tbody></table>
+</td>
+
+
+ <script language="JavaScript">
+function popUp(url) {
+sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+self.name = "mainWin"; }
+</script>
+
+<script language="JavaScript">
+staticpage = true; showPage = true;
+cmcatid = "Help";
+pageID = "Help Home";
+</script>
+
+
+<td width="85%" align="center" valign="top" bgcolor="#ffffff">
+<table bgcolor="#ffffff" border="0" width="100%" height="100%" cellpadding="5" cellspacing="0">
+<tbody><tr>
+<td width="100%" bgcolor="#ffffff" align="center" valign="top">
+<!-- BEGIN BODY -->
+
+
+
+<table border="0" cellpadding="5" cellspacing="0" width="95%">
+ <tbody><tr>
+  <td align="center" bgcolor="#dcdcdc">
+   <font size="2" face="arial,helvetica">
+   <a class="main" href="../help/shipping.asp?sid=&amp;inf=ship">Shipping information</a>
+  </font></td>
+ </tr>
+
+ <tr>
+  <td align="center" bgcolor="#dcdcdc">
+   <font size="2" face="arial,helvetica">
+   <a class="main" href="../help/default.asp?sid=&amp;inf=privacy">ACNtv.com privacy and Security</a>
+  </font></td>
+ </tr>
+
+ <tr>
+  <td align="center" bgcolor="#dcdcdc">
+   <font size="2" face="arial,helvetica">
+	<a class="main" href="../help/default.asp?sid=&amp;inf=cust">Customer Service Information</a>
+   </font>
+  </td>
+ </tr>
+
+ <tr>
+  <td align="center" bgcolor="#dcdcdc">
+   <font size="2" face="arial,helvetica">
+	<a class="main" href="../help/useragreement.asp?sid=&amp;inf=cust">ACNtv.com User Agreement</a>
+   </font>
+  </td>
+ </tr>
+
+ <tr>
+  <td align="center" bgcolor="#dcdcdc">
+   <font size="2" face="arial,helvetica">
+	<a class="main" href="../auction/auction_item.asp?sid=&amp;view=rules">Auction FAQ</a>
+   </font>
+  </td>
+ </tr>
+ <tr>
+  <td align="center" bgcolor="#dcdcdc">
+   <font size="2" face="arial,helvetica">
+	<a class="main" href="../help/vendor.asp?sid=">New vendor form</a>
+   </font>
+  </td>
+ </tr>
+
+  <tr>
+  <td align="center" bgcolor="#dcdcdc">
+   <font size="2" face="arial,helvetica">
+	<a class="main" href="../help/gemstone_treatment.asp?sid=">ACN Gemstone Enhancement and Treatment Chart</a>
+   </font>
+  </td>
+ </tr>
+
+</tbody></table>
+
+
+<table border="0" width="90%" cellpadding="3" cellspacing="3"><tbody><tr><td align="left" bgcolor="#dcdcdc"><font size="2" face="arial,helvetica"><font color="#cc0000"><b>ACN privacy agreement</b></font></font></td></tr><tr><td align="left"><font size="2" face="arial,helvetica"><a href='javascript:popUp("https://digitalid.verisign.com/as2/2c6ec111fc7a171b9638722c69595e73")'><img align="left" src="../images/VeriSignSealWhite.gif" width="98" height="100" border="0"></a>ACN now handles <b>all</b> auction and order processing using our secure server!  Click on the image to the left for verification.</font></td></tr></tbody></table>
+<script language="JavaScript">
+staticpage = true; showPage = true;
+cmcatid = "Help";
+pageID = "Privacy Policy";
+</script>
+<table widht="80%" height="" border="0" cellpadding="3" cellspacing="3"><tbody><tr><td align="center"><br><h3>ACN INTERNET PRIVACY POLICY</h3></td></tr><tr><td><font size="2" face="arial,helvetica"><p>Your information is safe and secure with ACN, and your privacy on the <a href="http://www.acntv.com" class="main">www.acntv.com</a> website is a top priority. ACN does not sell, rent or exchange this information for commercial purposes. The information we learn from our customers helps us to provide you  with the best possible service. We share identifiable information only with those parties entrusted with the processing of your account and the fulfillment of your order.</p></font></td></tr><tr><td><font size="2" face="arial,helvetica"><br><p>We have strict procedures in place designed to ensure the privacy of your order and protect your personal information by processing all our auctions and other orders through a VeriSign Secure Site.</p></font></td></tr><tr><td><font size="2" face="arial,helvetica"><br><p>Due to the fact that we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the acquistion and use of this information. By visiting <a href="http://www.acntv.com" class="main">www.acntv.com</a> you are accepting the practices described in this Privacy Notice.</p></font></td></tr><tr><td><font size="2" face="arial,helvetica"><br><p>Consistent with the Federal Childern's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. </p></font></td></tr></tbody></table>
+<script language="JavaScript">
+staticpage = true; showPage = true;
+cmcatid = "HelpFAQS";
+pageID = "General FAQS";
+</script>
+<table widht="80%" height="" border="0" cellpadding="3" cellspacing="3"><tbody><tr><td align="center"><h3>FREQUENTLY ASKED QUESTIONS</h3></td></tr><tr><td><font size="2" face="arial,helvetica">
+<p>
+<u>1.	What information do we collect online?  How do we use it?</u>
+<br><br>
+a)	Information you provide to us.
+<br><br>
+<u>Email.</u> When you subscribe to ACN emails, you only have to provide your email address. If you should choose to purchase products, you will be required to register on the site (see Merchandise Orders).
+<br><br>
+<u>Merchandise Orders.</u>  When you first place an order on our site, we ask you to provide personally identifiable information by filling out and submitting an online customer profile form.  This information includes your name, mailing address, credit card billing address(es), shipping address(es), email address, telephone number, a password, credit card security code (will be requested at point of sale but will not be retained for our records), your credit card number and expiration date.  We use this information to process and fulfill your order and to notify you of your order by email.  When you return to the site and place another order, if you use your password or provide other personally identifiable information, we use this information to provide you with access to your customer and order information.  We save the addresss(es) you provide for shipment, and when you place an order, we provide the address(es) to you as a selectable list for your convenience.  We also ask you for personally identifiable information about other people to whom you are sending gifts.  ACN uses this information only to ship your gifts, and, if you request it, to send each gift recipient an email notification of the gift.
+<br><br>
+Our site users can choose to electronically forward an item link to someone else by clicking “tell a friend.” The user must provide their email address, as well as that of the recipient.  This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email.  The information is not used for any other purpose.
+<br><br>
+<u>Contests.</u> When you enter an ACN contest, sweepstakes, or other promotional event, we collect information to administer the program and notify the winners. Typical information requested includes your name, address, telephone number, email address, and ACN account number. You may receive promotional emails from ACN as a result of entering the contest, but you always have the option of choosing not to receive additional communications.
+<br><br>
+<u>Surveys.</u> Occasionally ACN conducts surveys to improve your customer experience. We may use the site to conduct surveys, or may contact you via email or phone. Surveys are anonymous and you always retain the option not to participate.
+<br><br>
+<u>Testimonials.</u> From time to time, ACN responds to the emails and letters from satisfied customers, requesting to use the positive comments from the customer in various promotional efforts. If you grant us permission to use your information, we pledge to keep your personal information confidential.
+<br><br>
+<u>Customer Service.</u> If you contact our Customer Service via phone, mail or email, ACN keeps a log of the information with your personal account to continue improving our service, follow-up on customer requests, and contact people who may be violating our policies.
+<br><br>
+<u>Job Application.</u> When you submit an application for employment, this information is retained, and should you become an ACN employee it becomes a part of your personnel file.
+<br><br>
+<u>Vendor Applications.</u>  When you submit a vendor application online, ACN requests personally identifying information.  We use this information to evaluate and follow up on your application.  If you become a vendor of ACN, this information can become part of your account records.
+<br><br>
+b)	Other information we collect.
+<br><br>
+<u>Site Optimization.</u> In order to assure your visit to acntv.com is completely satisfactory, our system automatically identifies which browser you are using, the IP (Internet Provider) you used for access, and your Operating System. We do not collect any personal information from your hard drive.
+<br><br>
+<u>Usage Tracking.</u>  ACN tracks user traffic patterns throughout our site.  However, we do not correlate this information with data about individual users.  ACN does break down overall usage statistics according to a user’s domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user’s browser).
+<br><br>
+ACN sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our site users like and don’t like based on traffic to those areas.  We do not track what individual users read, but rather how well each page performs overall.  This helps us continue building a better site for you.
+<br><br>
+<u>Cookies.</u>  We may place a text file called a “cookie” in the browser files of your computer.  The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided.  The only personal information a cookie can contain is information you supply yourself.  A cookie can’t read data off your hard disk or read cookie files created by other sites.  ACN uses cookies to track user traffic patterns (as described above).
+<br><br>
+You can refuse cookies by turning them off in your browser.  If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie.  You do not need to have cookies turned on to use this site.  However, you do need cookies to place an order or participate in an auction.
+<br><br>
+<u>Third Party Companies</u> Jewelry Television™ does use third party companies to store data and help us provide our products and services to you. These companies do not have direct access to your data and are contractually restricted from using your information in any manner. For more information, including how to opt out, 
+
+please visit our <a href="http://www.coremetrics.com/info_eluminate2.html">Opt Out</a> page.</p>
+<p>
+<u>2.	How does ACN use email?</u>
+<br>
+ACN does not share your email address with third parties for any purpose.  We send one email message to confirm each order you make, and we occasionally send you follow-up messages containing information specifically related to your order (such as shipping delays). Through our checkout procedure, ACN gives you the option to receive email notification on new features, specials and services.  You may opt out of receiving these promotional emails by deleting the check mark next to the option to receive promotional emails found in the checkout procedure.
+<br><br>
+You may contact our customer service by email at customerservice@acntv.com. We encourage your communications since we use your input to improve our site, products and and services.  Our customer service representatives review and respond to every email that we receive.
+<br><br>
+<u>3.	How does ACN protect its customer’s information?</u>
+<br>
+ACN is committed to online data security.  Although total security does not exist on the Internet, ACN takes all reasonable steps to assure secure transmission and storage of your information.  We protect transmission of information between your PC and our servers by utilizing industry standard efforts, such as firewalls and Secure Socket Layers provided by VeriSign ™ encryption software.  We store information relating to our customers on a high security server behind a firewall that is safeguarded from Internet access.
+<br><br>
+While we use Secure Socket Layer encryption to protect sensitive information online, we also have procedures to protect your information offline.  All of your information is restricted to our offices.  Only employees who need to use your information to perform a specific job (for example, billing clerks or customer service representatives) are authorized to access personally identifiable information.
+<br><br>
+As we continue to develop our business, we could buy or sell assets.  In such transactions, customer information generally is one of the transferred business assets.  Also, in the event that ACN or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. We will notify our customers if any of these situations occur.
+<br><br>
+<u>4. Does ACN protect email addresses?</u>
+<br>
+When you submit your email to ACN, we protect it with the same high-security methods that we protect all personal information.
+<br><br>
+<u>5. What if I don’t want to send personal information over the Internet?</u>
+<br>
+If you prefer to look for products on acntv.com and order by phone, call us at 865-692-6000, to order.  Any information you give ACN, by telephone or the Internet, is stored on a secure server.
+</p>
+<p>
+If you have any questions regarding ACN’s Privacy Policy, you can email us at  <a href="mailto:customerservice@acntv.com" class="main">customerservice@acntv.com</a>.  Please be sure to include your email address so we can respond to your questions.  In you prefer, call 865-692-6100, and a Customer Service Representative will take your call.  Or, you can write to:  America’s Collectibles Network, Inc., Customer Service, 10001 Kingston Pike, Suite 57, Knoxville, Tennessee 37922.
+</p>
+<p>
+ACN reserves the right to modify, change or replace this policy at its discretion. Our website, <a href="http://www.acntv.com" class="main">www.acntv.com</a>, is owned and operated by ACN.
+</p>
+	</font></td></tr></tbody></table><br><font size="2" face="arial,helvetica"><a class="main" href="?&amp;sid=">back</a></font>
+<!--END BODY-->
+</td>
+</tr>
+</tbody></table>
+ </td>
+    <!--BEGIN SPECIALS BAR-->
+    
+ <!-- </td>		-->
+ </tr>
+</tbody></table>			
+
+
+
+		<font size="2">
+			</font></p><p align="center"><font size="2">
+				<a class="newnav" href="http://www.acntv.com/default.asp">home</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+				<a class="newnav" href="http://www.acntv.com/estore/default.asp">estore</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+				<a class="newnav" href="http://www.acntv.com/auction/default.asp">auction</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+				<a class="newnav" href="http://www.acntv.com/schedule/default.asp">programs</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+				<a class="newnav" href="http://www.acntv.com/account/default.asp">my account</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+				<a class="newnav" href="http://www.acntv.com/help/default.asp">help</a> 
+			</font></p><font size="2">
+		</font>
+					
+		<font size="1">
+			<p align="center">© 2004 Jewelry Television™ by ACN, All rights reserved<br>
+				<a class="newnav" href="http://www.acntv.com/help/useragreement.asp?inf=cust">Legal Notices</a>
+				&nbsp;&nbsp;|&nbsp;&nbsp;
+				<a class="newnav" href="http://www.acntv.com/help/default.asp?inf=privacy">Privacy Statement</a>
+			</p>
+		</font>
+		<p align="center">
+		
+		<!-- BEGIN: BizRate.com Medal (125x73 pixels) -->
+			<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--60117.html" target="bizrate.com">
+			<img src="/images/bizrate/BizRateMetal.gif" alt="Jewelry Television™ by ACN is a BizRate Customer Certified Site" align="top" border="0" target="_blank" width="100" height="30"></a>			
+		<!-- END: BizRate.com Medal (125x73 pixels) -->
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<!-- BEGIN: bbbonline.org -->
+			<a href="http://www.bbbonline.org/cks.asp?id=10305196215532272" target="new"><img src="/images/bbOnline/ReliabilitySeal3.gif" alt="BBBOnLine Reliability Seal for Jewelry Television™ by ACN" border="0" width="135" height="48"></a>
+		<!-- END: bbbonline.org -->
+
+		</p>
+		<!--		<font size="2">		<p align="center">		<a class="newnav" href="http://www.acntv.com/default.asp">home</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 		<a class="newnav" href="http://www.acntv.com/estore/default.asp">estore</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  		<a class="newnav" href="http://www.acntv.com/auction/default.asp">auction</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 		<a class="newnav" href="http://www.acntv.com/schedule/default.asp">programs</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 		<a class="newnav" href="http://www.acntv.com/account/default.asp">my account</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 		<a class="newnav" href="http://www.acntv.com/help/default.asp">help</a> 		</p>		</font>							<font size="1"><p align="center">© 2001 America's Collectibles Network Inc., All rights reserved<br>		<a class="newnav" href="../help/useragreement.asp?inf=cust">Legal Notices</a>		&nbsp;&nbsp;|&nbsp;&nbsp;		<a class="newnav" href="../help/default.asp?inf=privacy">Privacy Statement</a>		</p>		</font>		-->
+	  
+    
+  
+
+<!-- BEGIN COREMETRICS -->
+
+
+<script language="javascript">
+	
+	
+	if( showPage == true ){
+	
+		if (staticpage == false)
+		{
+	
+			cmcatid = getCmCatId();
+			
+
+			if (cmcatid == "HOME")
+			{
+				//alert("home");
+			
+				techprops();  
+				cmCreateTechPropsTag("HOME");
+						
+			}
+			else if (productdetails == "PRODUCTDETAILS")
+			{	
+				var categoryID = cmcatid;
+				
+				var productName = getProductName();
+				var productID = bproduct;
+				//alert("productdetails");
+				//alert("productID: " + productID);
+				//alert("productName: " + productName);
+				//alert("categoryID: " + categoryID);
+
+				cmCreateProductviewTag(productID, productName, categoryID)
+			}
+			else
+			{	
+			
+				var categoryID = cmcatid;
+				var pageID = pagename + " (Catalog-Pg " + page + ")";
+			
+				var searchString = null ;	
+				//alert("everythingelse");
+				//alert("pageID: " + pageID);
+				//alert("searchString: "+ searchString);
+				//alert("categoryID: " + categoryID);
+
+				cmCreatePageviewTag(pageID, searchString, categoryID)
+			}
+		}
+		else if (cmcatid != null && pageID != null) 
+		{
+			var searchString = null ;
+			var categoryID = cmcatid.toUpperCase();		
+			cmCreatePageviewTag(pageID, searchString, categoryID)
+		
+		}
+		else
+		{
+			cmCreateDefaultPageviewTag();
+		}
+	}
+</script><img width="1" height="1" src="https://data.coremetrics.com/eluminate?tid%3D1%26ci%3D90024231%26vn2%3De3.1%26pi%3DGeneral%2520FAQS%26cg%3DHELPFAQS%26vn1%3De3.1%26rnd%3D4082733%26ul%3Dhttps%253A//web.archive.org/web/20040602234207id_/http%25253A//www.acntv.com/help/default.asp%25253Finf%25253Dprivacy%26ts%3DYes%26tp%3DYes"> 
+
+<!-- END COREMETRICS -->
+
+
+		    
+    <!--END SPECIALS BAR-->
+</font></body></html>
