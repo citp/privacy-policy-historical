@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220234646id_/http%3A//tva.gov/abouttva/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407201625id_/http%3A//www.tva.gov/abouttva/privacy.htm) for the most accurate reproduction.*
 
 # TVA: Privacy
 
 | 
-
-#### **TVA Privacy Policy**
 
 Thank you for visiting the Tennessee Valley Authority Web site and reviewing our privacy policy. The privacy of visitors to our site is important to us. This statement informs you of how we use information that may be collected when you visit TVA on the Web.
 
