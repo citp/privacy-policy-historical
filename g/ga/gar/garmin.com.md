@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garmin.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207134408id_/http%3A//www.garmin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garmin.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622174428id_/http%3A//www.garmin.com/privacy) for the most accurate reproduction.*
 
 # Garmin: Garmin International's Privacy Statement
 
@@ -70,7 +70,7 @@ What's your policy regarding children's use of your website?
 While Garmin encourages everyone to visit our site and learn about our company and GPS technology and applications, we have no desire to collect information from those under the age of 18. Any instance of personal information about a minor being collected would be purely accidental and unintentional. If a minor would like to submit information to Garmin, we ask that the child's parent submit the information on his or her behalf. We strongly encourage parents to take an active role in their children's use of the Internet and to take appropriate steps to ensure a positive and safe experience. 
 
 Where can I learn more about using the Internet and protecting my privacy?   
-The United States Federal Trade Commission has a web page <http://www.ftc.gov/privacy/index.html> devoted to providing you with information about protecting your privacy online. Garmin encourages you to familiarize yourself with the concepts discussed on this page. For more information, you may also wish to review _[Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html)_[.](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) This handbook contains useful information regarding how to use the Internet wisely. 
+The United States Federal Trade Commission has a web page <http://www.ftc.gov/privacy/index.html> devoted to providing you with information about protecting your privacy online. Garmin encourages you to familiarize yourself with the concepts discussed on this page.
 
 Privacy/Security Policy changes **  
 ** This Privacy/Security Policy was last changed on January 10, 2003. If Garmin makes changes to any terms or conditions of this Privacy/Security Policy, these changes will be posted on our websites in a timely manner. 
