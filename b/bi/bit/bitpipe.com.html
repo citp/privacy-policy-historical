@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bitpipe.com privacy policy that was archived on 2002-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602142716id_/http%3A//bitpipe.com/about/privacy_policy_bp.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bitpipe.com privacy policy that was archived on 2002-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021004125244id_/http%3A//www.bitpipe.com/about/privacy_policy_bp.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Bitpipe: Privacy Policy</title>
@@ -96,56 +96,9 @@ function preloadImages() {
 // --> 
 </script> 
 <!-- End Preload Script --> 
-<!-- Begin Banner Script --> 
-<script language="JavaScript1.1">
-<!--
-/* Banner Up! - Improve your batting average with real-time banner rotation.
-* Copyright 1999-2000 By Heidi Allen Knowledge Hound - The How-To Hunter Learn how to do almost anything...for free!
-* Please visit us at http://www.knowledgehound.com  License for use of this script is granted if and only if this entire copyright notice is included with it. We do not provide support for this script. It is provided solely as a friendly gesture.
-* Use at your own risk. Thanks! */
-/*Although Banner Up! can rotate multiple instances of each image, only one specific image will be displayed at a 
-time. However, the place-holding images specified in the HTML of your page can be different, provided that they 
-still use the same link.*/
-/*All of the images that you use for Banner Up! must be the same size, although that size can be anything that you 
-choose. Static images are recommended over animated ones.*/
-var image="";
-var banners=0;
-function cycle() {
-  if (++banners > 6) banners=1;
-    loadbanners();
-    document.banner1.src = image;
-//    document.banner2.src = image;
-/* Choose how fast you want your images to cycle here. The default is a new image every 7 seconds. However, take into account different modem speeds.
-Larger images will require more time, especially with slower modems. The timing may be strange the first cycle around. That's because the image
-files have to be retrieved and cached on the user's local drive. All images in a set must be the same size. */
-    window.setTimeout('cycle();',5000);
-  }
-function loadbanners() {
-   if (banners==1)
-      {
-      image="http://images.bitpipe.com/ads/ecomm_ad.gif";
-      }
-} 
-//--> 
-</script> 
-<script language="JavaScript1.1"> 
-<!-- 
-/*The default "link" variable (var link) should be the directory path to the place-holding images specified in the HTML section of the document.*/
-var link = "http://www.bitpipe.com/marketres/ecom_mr.jsp" 
-function urlswitch() { 
-<!--- Ecom --->
-if (banners==1) 
-{ 
-link = "http://www.bitpipe.com/marketres/ecom_mr.jsp"; 
-} 
-return link; 
-} 
-//--> 
-</script> 
-<!-- End Banner Script --> 
 </head>
 
-<body bgcolor="#FFFFFF" onload="window.setTimeout('cycle();',5000);(loadbanners());(urlswitch());" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0">
+<body bgcolor="#FFFFFF" onload="(preloadImages());" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0">
 <!--- Opening Table --->
 	<table border="0" cellpadding="0" cellspacing="0" width="180">
     	<tbody><tr>
@@ -163,8 +116,39 @@ return link;
                     	<td><a href="/bitpipe.jsp"><img src="http://images.bitpipe.com/bitpipe2/bp_logo.gif" width="150" height="71" border="0"></a></td>
 						<!--- Ad Begin --->
 						<td height="68" colspan="2" align="center"> 
-		<a href="/marketres/ecom_mr.jsp" onclick="this.href=urlswitch()"><img width="468" height="60" border="0" src="http://images.bitpipe.com/ads/ecomm_ad.gif" name="banner1"></a> 
-						</td> 
+	<script language="JavaScript"> 
+	<!-- This script and many more are available free online at --> 
+	<!-- The JavaScript Source!! http://javascript.internet.com --> 
+	var how_many_ads = 2; 
+	var now = new Date() 
+	var sec = now.getSeconds() 
+	var ad = sec % how_many_ads; 
+	ad +=1; 
+	if (ad==1) { 
+	txt="About KA"; 
+	url="http://www.bitpipe.com/about/bp_aboutka.jsp?src=kabanner"; 
+	alt="About KA"; 
+	banner="http://images.bitpipe.com/ads/ka_ad.gif"; 
+	width="468"; 
+	height="60"; 
+	} 
+	if (ad==2) { 
+	txt="eCommerce"; 
+	url="http://www.bitpipe.com/marketres/ecom_mr.jsp?src=ecombanner"; 
+	alt="eCommerce"; 
+	banner="http://images.bitpipe.com/ads/ecomm_ad.gif"; 
+	width="468"; 
+	height="60"; 
+	} 
+	document.write('<center>'); 
+	document.write('<a href="' + url + '" target="_top">'); 
+	document.write('<img src="' + banner + '" width=') 
+	document.write(width + ' height=' + height + ' '); 
+	document.write('alt="' + alt + '" border=0><br>'); 
+	document.write('</center>'); 
+	// End --> 
+	</script><center><a href="http://www.bitpipe.com/marketres/ecom_mr.jsp?src=ecombanner" target="_top"><img src="http://images.bitpipe.com/ads/ecomm_ad.gif" width="468" height="60" alt="eCommerce" border="0"><br></a></center><a href="http://www.bitpipe.com/marketres/ecom_mr.jsp?src=ecombanner" target="_top"> 
+						</a></td> 
 						<!--- Ad End --->
                         <td><img src="http://images.bitpipe.com/bitpipe2/it_research.gif" width="161" height="71"></td>
                  	</tr>
@@ -259,7 +243,30 @@ return link;
     </td>
    </tr>
 </tbody></table>
+<p>
 <!--- Powered By End  --->
+<!--- IT Fact of Week  --->
+</p><div align="center">
+<table width="145" border="0" cellspacing="0" cellpadding="3" bgcolor="#ffffff">
+	<tbody><tr>
+  		<td align="center">
+  			
+			<img src="http://images.bitpipe.com/bitpipe2/it_fow.gif" width="138" border="0">
+		</td>
+	</tr>
+  	<tr>
+		<td>
+			<div align="left">
+			<font face="Verdana" size="-2" color="black">
+According to a June 9, 2002, washingtonpost.com article, in a desperate
+attempt to control the flood of <a href="http://www.bitpipe.com/data/rlist?t=987097377_65963295&amp;orgtypegrp=VENDOR&amp;sort_by=status&amp;src=KA_FACT">spam</a> coming through their systems, more than
+a few corporate computer administrators have blocked e-mail from outside the
+United States, since much bounced spam seems to be from foreign computers.
+ </font></div></td>
+   	</tr>
+</tbody></table>
+</div>
+<!--- IT Fact of Week End  --->
 <!--- Left Column End ---> 
 		</td><td valign="top" align="center" width="480"><!-- Content Begin --> 
 <!--- Simple Search Begin --->
@@ -296,7 +303,7 @@ return link;
 	            	    <img src="http://images.bitpipe.com/bitpipe2/browse_bp.gif" width="56" height="13" border="0"><br>
 		   	            <select name="choice" size="1" onchange="jump(this.form)">
         		        <option value="Select Topic"> -- Select Topic -- </option>
-                		<option value="/hottopics/idmgmt/idmgmt.jsp">HOT: Identity Management</option>
+                		<option value="/hottopics/wirelesscomp/wirelesscomp.jsp">HOT: Wireless Computing</option>
                 		<option value="/bp_newterms.jsp">NEW Topics</option>
 	                	<option value="/data/tlist?b=blat_hardware">Computer Hardware</option>
 	    	            <option value="/data/tlist?b=blat_ecommerce">eCommerce</option>
@@ -324,14 +331,10 @@ return link;
         <tbody><tr bgcolor="D80505">
                 <td><img src="http://images.bitpipe.com/common/blank.gif" height="2"></td>
         </tr>
-</tbody></table>	
-<table border="0" width="98%" cellpadding="0">
-	<tbody><tr><td align="left" width="100%">
+	<tr><td align="left" width="100%">
 		<font size="+1"><b>Bitpipe Privacy Policy</b></font>
 	</td></tr>
-</tbody></table>
-<table width="98%" border="0" cellpadding="0">
-        <tbody><tr bgcolor="D80505">
+        <tr bgcolor="D80505">
                 <td><img src="http://images.bitpipe.com/common/blank.gif" height="2"></td>
         </tr>
 </tbody></table>
@@ -504,26 +507,26 @@ policy from time to time.</p>
 <tr>
 <td width="9" valign="top" align="right"><img src="http://images.bitpipe.com/bitpipe2/red_bullet.gif" width="8" height="8" border="0"></td>
 <td width="140"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">
-<a href="/data/detail?id=1017698590_620&amp;type=RES&amp;src=FEATURE_GLOBAL&amp;x=158687849">Adaptec Seamless Streaming™ Technology Maximizes Ultra320 SCSI Performance</a>
-<br>by Adaptec, Inc. <br> </font></td>
+<a href="/data/detail?id=1030637729_458&amp;type=RES&amp;src=FEATURE_GLOBAL&amp;x=606443221">Increase Productivity with an Integrated Software Framework for Measurement and Automation</a>
+<br>by National Instruments <br> </font></td>
 </tr>
 
 <tr>
 <td width="9" valign="top" align="right"><img src="http://images.bitpipe.com/bitpipe2/red_bullet.gif" width="8" height="8" border="0"></td>
 <td width="140"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">
-<a href="/data/detail?id=1015620784_224&amp;type=RES&amp;src=FEATURE_GLOBAL&amp;x=1981714517">Conquering the Catalog Challenge:  How Industrial Manufacturers Can Drive Business Value with an Effective Catalog Management Strategy</a>
-<br>by MRO Software, Inc. <br> </font></td>
+<a href="/data/detail?id=1030971223_322&amp;type=RES&amp;src=FEATURE_GLOBAL&amp;x=1313000535">An Overview of eHealth for System &amp; Applications Management</a>
+<br>by Concord Communications, Inc <br> </font></td>
 </tr>
 
 <tr>
 <td width="9" valign="top" align="right"><img src="http://images.bitpipe.com/bitpipe2/red_bullet.gif" width="8" height="8" border="0"></td>
 <td width="140"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">
-<a href="/data/detail?id=1022011856_702&amp;type=RES&amp;src=FEATURE_GLOBAL&amp;x=1822817576">Synchrologic Evaluation Software Download</a>
-<br>by Synchrologic, Inc. <br> </font></td>
+<a href="/data/detail?id=1028048673_787&amp;type=RES&amp;src=FEATURE_GLOBAL&amp;x=490038062">Pervasive Computing</a>
+<br>by DataMirror <br> </font></td>
 </tr>
 
 </tbody></table>
-<img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1017698590_620&amp;src=FEATURE_GLOBAL&amp;o=920429091_56&amp;y=h&amp;x=1446743173"><img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1015620784_224&amp;src=FEATURE_GLOBAL&amp;o=1014930821_90&amp;y=h&amp;x=1697174"><img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1022011856_702&amp;src=FEATURE_GLOBAL&amp;o=961792906_478&amp;y=h&amp;x=203309709">
+<img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1030637729_458&amp;src=FEATURE_GLOBAL&amp;o=950050847_647&amp;y=h&amp;x=510367258"><img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1030971223_322&amp;src=FEATURE_GLOBAL&amp;o=948612860_611&amp;y=h&amp;x=1924866155"><img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1028048673_787&amp;src=FEATURE_GLOBAL&amp;o=980949552_135&amp;y=h&amp;x=2046866285">
 
 
 
@@ -543,26 +546,26 @@ policy from time to time.</p>
 <tr>
 <td width="9" valign="top" align="right"><img src="http://images.bitpipe.com/bitpipe2/red_bullet.gif" width="8" height="8" border="0"></td>
 <td width="140"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">
-<a href="/data/detail?id=1022092139_57&amp;type=RES&amp;src=FEATURE_ANALYST_GLOBAL&amp;x=1720859091">Desktop Video Conferencing Market Analysis: Opportunities and Challenges on the Horizon</a>
+<a href="/data/detail?id=1027972802_175&amp;type=RES&amp;src=FEATURE_ANALYST_GLOBAL&amp;x=1473366433">What You Need to Know about Business Cases - Helping Your Customers "Get to Green"  Conference Proceedings</a>
+<br>by Federal Sources, Inc. (FSI) <br> </font></td>
+</tr>
+
+<tr>
+<td width="9" valign="top" align="right"><img src="http://images.bitpipe.com/bitpipe2/red_bullet.gif" width="8" height="8" border="0"></td>
+<td width="140"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">
+<a href="/data/detail?id=1030718864_440&amp;type=RES&amp;src=FEATURE_ANALYST_GLOBAL&amp;x=1500284601">Universal Access: Building the Ties that Bind</a>
 <br>by The Yankee Group <br> </font></td>
 </tr>
 
 <tr>
 <td width="9" valign="top" align="right"><img src="http://images.bitpipe.com/bitpipe2/red_bullet.gif" width="8" height="8" border="0"></td>
 <td width="140"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">
-<a href="/data/detail?id=1022502342_971&amp;type=RES&amp;src=FEATURE_ANALYST_GLOBAL&amp;x=2008856229">eBusiness Implementation:  Promises versus Reality</a>
-<br>by Datamonitor plc <br> </font></td>
-</tr>
-
-<tr>
-<td width="9" valign="top" align="right"><img src="http://images.bitpipe.com/bitpipe2/red_bullet.gif" width="8" height="8" border="0"></td>
-<td width="140"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1">
-<a href="/data/detail?id=1020442927_877&amp;type=RES&amp;src=FEATURE_ANALYST_GLOBAL&amp;x=1936553739">Informa Media Management Report</a>
-<br>by Informa Group <br> </font></td>
+<a href="/data/detail?id=1032368086_820&amp;type=RES&amp;src=FEATURE_ANALYST_GLOBAL&amp;x=1270074791">Opportunities and Key Issues for High-Tech Companies: Moving beyond the "Cobblers' Children" Syndrome</a>
+<br>by Giga Information Group <br> </font></td>
 </tr>
 
 </tbody></table>
-<img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1022092139_57&amp;src=FEATURE_ANALYST_GLOBAL&amp;o=926017120_207&amp;y=h&amp;x=515630962"><img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1022502342_971&amp;src=FEATURE_ANALYST_GLOBAL&amp;o=988207065_173&amp;y=h&amp;x=186694411"><img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1020442927_877&amp;src=FEATURE_ANALYST_GLOBAL&amp;o=1004551514_471&amp;y=h&amp;x=1985745722">
+<img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1027972802_175&amp;src=FEATURE_ANALYST_GLOBAL&amp;o=967209083_340&amp;y=h&amp;x=2060709659"><img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1030718864_440&amp;src=FEATURE_ANALYST_GLOBAL&amp;o=926017120_207&amp;y=h&amp;x=1339859080"><img border="0" src="http://log.bitpipe.com/log/log?s=bp&amp;r=1032368086_820&amp;src=FEATURE_ANALYST_GLOBAL&amp;o=903818304_68&amp;y=h&amp;x=1481903342">
 
 
 
@@ -590,9 +593,6 @@ policy from time to time.</p>
 </td>
 </tr>
 </tbody></table></center>
-<table align="center" border="0">
-<tbody><tr><td><a href="/wpawards.html"><img src="http://images.bitpipe.com/bitpipe2/wpa_enter.gif" width="157" height="169" border="0" alt="White Paper Awards! Enter Now!"></a>
-</td></tr></tbody></table>
 <!--- Got IT Begin --->
 <br><div align="center"><a href="/vendors/bp_submitdata.jsp"><img src="http://images.bitpipe.com/bitpipe2/got_it_ad.gif" border="0" alt=""></a></div>
 <!--- Got IT End --->
@@ -608,7 +608,7 @@ policy from time to time.</p>
 
 
 
-<img border="0" src="http://log.bitpipe.com/log/log?sid=50446829&amp;s=bp&amp;f=%2Fabout%2Fprivacy_policy_bp.jsp&amp;x=1946117297">
+<img border="0" src="http://log.bitpipe.com/log/log?sid=68958145&amp;s=bp&amp;f=%2Fabout%2Fprivacy_policy_bp.jsp&amp;x=983281305">
 
 
 
