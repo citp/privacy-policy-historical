@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sun-sentinel.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610193731id_/http%3A//www.sun-sentinel.com/sfl-privacypolicy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sun-sentinel.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202125044id_/http%3A//www.sun-sentinel.com/sfl-privacypolicy.story) for the most accurate reproduction.*
 
 # Sun-Sentinel:
 
