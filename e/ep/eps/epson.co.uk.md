@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208184214id_/http%3A//www.epson.co.uk/corporate/details/EUL_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2005-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050302201829id_/http%3A//www.epson.co.uk/corporate/details/EUL_privacy.htm) for the most accurate reproduction.*
 
 # EPSON privacy policy
 
