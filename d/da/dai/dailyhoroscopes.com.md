@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyhoroscopes.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605062425id_/http%3A//www.dailyhoroscopes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhoroscopes.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210101104id_/http%3A//www.dailyhoroscopes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Daily Horoscopes
 
@@ -14,6 +14,8 @@ Privacy Statement for:
 [www.dajuana.com](http://www.dajuana.com/)   
 [www.psychicgames.com](http://www.psychicgames.com/)  
 [www.mystispetforum.com](http://www.mystispetforum.com/)   
+[www.byrdpublishing.com](http://www.byrdpublishing.com/)  
+[www.ghoststalk.com](http://www.ghoststalk.com/)   
  
 
 Questions should be sent by email to [privacy](mailto:claude@cdbyrd.net?SUBJECT=CDB%20-%20Privacy) or by postal to:   
@@ -80,5 +82,3 @@ This site gives users the following options for changing and modifying informati
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement the practices of this site, or your dealings with this Web site, you can contact:  Claude Byrd at [claude@cdbyrd.net](mailto:claude@cdbyrd.net?SUBJECT=CDB%20-%20Privacy). 
-
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site.  These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm).
