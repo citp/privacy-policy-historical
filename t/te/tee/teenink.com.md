@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205000200id_/http%3A//www.teenink.com/About/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606075337id_/http%3A//www.teenink.com/About/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Teen Ink: A Magazine Written by Teens for Teens
 
@@ -54,7 +54,7 @@ We use information about _Teen Ink_ members and visitors for administrative and 
 
 We send member account passwords only to the e-mail address given during the registration process. All registrants receive e-mail confirming their Registration. NEVER GIVE YOUR PASSWORD TO ANYONE. If someone claiming to represent _Teen Ink_ in an e-mail or chat room asks for your _Teen Ink_ password, DO NOT RESPOND. The only time we ask for your password is when you need to access to the _Teen Ink_ system.
 
-_Teen Ink_ cooperates with law enforcement agencies in identifying those who use _Teen Ink_ services for illegal activities. We reserve the right to release information about members who we believe are in violation of _Teen Ink's_ content guidelines, even without a subpoena, warrant or court order. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful. We save your personal information indefinitely since we may need to contact you in the event we want your permission to publish your work in the future. If you would like us to remove you from our data base, please contact us at admin@teenink.com. We maintain information on members who have been removed for violating _Teen Ink's_ content guidelines in order to identify repeat offenders. From time to time, we may contact members to inform them of improvements or enhancements to _Teen Ink_ services.
+_Teen Ink_ cooperates with law enforcement agencies in identifying those who use _Teen Ink_ services for illegal activities. We reserve the right to release information about members who we believe are in violation of _Teen Ink's_ content guidelines, even without a subpoena, warrant or court order. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful. We save your personal information indefinitely since we may need to contact you in the event we want your permission to publish your work in the future. If you would like us to remove you from our data base, please contact us at administrator@TeenInk.com. We maintain information on members who have been removed for violating _Teen Ink's_ content guidelines in order to identify repeat offenders. From time to time, we may contact members to inform them of improvements or enhancements to _Teen Ink_ services.
 
  **5\. Credit Cards**
 
@@ -81,6 +81,6 @@ Third parties that receive information about you from _Teen Ink_ at your request
   1. Clearly indicate the sender of the e-mail message; and 
   2. Provide you with a method of opting out from receiving future communications. 
 
-If you receive e-mail from a third party stating that is associated with _Teen Ink_ , yet you do not want to receive promotional materials from _Teen Ink_ or its sponsors, please follow the third party's removal procedures. If this procedure is not successful, please contact us at admin@TeenInk.com.
+If you receive e-mail from a third party stating that is associated with _Teen Ink_ , yet you do not want to receive promotional materials from _Teen Ink_ or its sponsors, please follow the third party's removal procedures. If this procedure is not successful, please contact us at administrator@TeenInk.com.
 
 We do not control the actions of _Teen Ink's_ members and visitors. If you disclose personal information on a bulletin board, in a chat room, forum or anywhere else on the site, it may be collected and used by others. Additionally, be aware that when you click on ad banners, they may lead you to other sites not operated by _Teen Ink_. These outside parties may have different privacy policies from ours. _Teen Ink_ does not assume any responsibility for actions of third parties. 
