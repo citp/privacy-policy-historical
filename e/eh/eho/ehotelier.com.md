@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehotelier.com privacy policy that was archived on 2000-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001021041406id_/http%3A//ehotelier.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehotelier.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616134214id_/http%3A//ehotelier.com/privacy.htm) for the most accurate reproduction.*
 
 # Hotels and Hotel Chains, Culinary Art, Food and Beverage, Hotel-industry Related Job Search: Global Information and News Directory
 
