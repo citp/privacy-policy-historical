@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004020705id_/http%3A//www.acousticguitar.com/service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acousticguitar.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200944id_/http%3A//acousticguitar.com/service/privacy.html) for the most accurate reproduction.*
 
 # Acoustic Guitar Central
 
