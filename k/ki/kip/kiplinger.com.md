@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815062039id_/http%3A//www.kiplinger.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605051840id_/http%3A//www.kiplinger.com/about) for the most accurate reproduction.*
 
 # Kiplinger.com: Investing
 
@@ -28,5 +28,7 @@ Users should be aware that when they voluntarily disclose personal information (
 
 If you supply us with your postal address when signing up for any of Kiplinger's print publications, you should be aware that from time to time Kiplinger makes its subscriber list available to carefully screened companies. However, Kiplinger never sells email addresses. If you are a print subscriber and would rather not receive such solicitations, send your mailing label to P.O. Box 3292, Harlan, IA 51593-0472 and instruct Kiplinger to exclude your name.
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.   
+This site uses third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to this site, the third-party advertising company may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.net/us/corporate/privacy/). 
+
+.   
 
