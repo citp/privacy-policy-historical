@@ -1,30 +1,39 @@
-> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2003-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030904161730id_/http%3A//www2.cfl.ca/Help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080007id_/http%3A//cfl.ca/CFLStaff/privacy.html) for the most accurate reproduction.*
 
-# CANOE PRIVACY STATEMENT
-
-**CANOE PRIVACY STATEMENT**
+# The Official Site of the Canadian Football League
 
   
 
 
-CANOE is committed to upholding fundamental principles of honesty and integrity in our relationship with visitors to our web site. Our objective is to build an enduring relationship between CANOE and our users based on a foundation of integrity and trust. 
+The Canadian Football League (the "CFL") does not share or sell data collected through its websites, cfl.ca and cflshop.ca. The CFL collects billing and shipping information in order to process your order and deliver it to its destination. This information is used only by the CFL and the delivery personnel used for the purpose of fulfilling your order. Personal information collected through the sites is used only for internal purposes. The CFL will not sell your personal information or authorize third parties to use such information for any commercial purpose without your prior consent. 
 
-To that end, CANOE has adopted rigorous standards of privacy and makes the following promise to every visitor to our web site: 
+**PERSONAL INFORMATION**
 
-1\. When a visitor to CANOE is required to submit registration information as a prerequisite for accessing any content area of CANOE or to use any of its interactive services, contests, newsgroups or e-commerce applications, CANOE will not share or sell that personal information to any outside agency, advertiser or other third party, unless the user was made aware of this possibility prior to submitting their personal information. 
+We do not automatically collect personal information such as your name, address, telephone number or email address. Such information will be collected only if you provide it to us voluntarily in order to order products, enter a contest or promotion, or sign up to receive our newsletter. We don't require that any personal information be provided in order to view our website. 
 
-2\. Although CANOE will use "[cookies](https://web.archive.org/Help/cookies.html)" to track user patterns, CANOE will not use cookies to learn the identity of its users, nor attempt to track users after they leave CANOE. Further, cookies will not be used by CANOE to gather specific personal information about individual users. The usage patterns tracked by individual cookies will remain confidential and CANOE will not participate in any external site tracking programs. Nor will we share any cookie-generated information about individual users or user patterns with outside agencies or advertisers. A CANOE advertiser may be given summaries of collective user patterns. For example, an advertiser might be told their ad was viewed by 6,000 users on a particular day and 100 clicked on the ad. But an advertiser will never be given information about individual users or their browsing habits. 
+How we use personal information sent to us by consumers: 
 
-3\. CANOE will not supply e-mail addresses to any third party without having obtained the consent of a user. 
+Information collected by the CFL is used to: 
 
-4\. When CANOE asks its users to supply optional, personal information for contests, survey, e-commerce applications, or for any other purpose, that information will remain private and not be shared with any outside agency, advertiser or third party, unless the user was made aware of this possibility prior to submitting their personal information. 
+* allow you to order products and participate in special promotions; 
+* improve the site by observing products that are most popular; and 
+* confirm receipt of your order and deliver merchandise to you. 
 
-5\. CANOE will compile site-wide demographic information that it will share with advertisers, but it will not compile profiles of individual users, including the gathering of names, addresses, e-mail addresses and other personal information, to be shared with an advertiser, unless the user has consented to the compilation of this material and submitted it freely in a registration form or survey. 
+Your personal information may also be used to create statistics about cfl.ca and cflshop.ca that we use to measure our performance. These statistics do not contain any information that could identify you personally. 
 
-6\. CANOE tracks user IP addresses for the purposes of systems administration, demographic profiling and traffic logging, but CANOE will not use IP addresses to try to identify individual users of CANOE. 
+The CFL does not sell your personal information to any organization for any purpose. By law, the CFL must comply with the law and cooperate with law enforcement and other officials in any investigation requiring either personal or account information, including any information provided online through cfl.ca or cflshop.ca. 
 
-7\. CANOE will abide by all court orders, valid search warrants and subpoenas. 
+The CFL does not store credit card information. All transactions are processed with Secure Sockets Layer ("SSL") encryption. 
 
-8\. Questions about CANOE's privacy statement should be sent to [Tim Kraan,](mailto:tkraan@canoe.ca?subject=feedback) Managing Editor, CANOE. 
+The CFL collects certain non-personal information through "cookies". "Cookies" are small text files that identify an individual computer's browser entering a website and allow the tracking of the browser's movement through the site. Cookies are used by the CFL to understand which areas of the site are popular and to continually improve cfl.ca and cflshop.ca. 
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy/>. 
+**Getting Your Consent**
+
+By using cfl.ca or cflshop.ca you are consenting to the collection and use of personal and account information by the CFL, for the purposes set out in this policy. 
+
+**Changes to This Privacy Policy**
+
+All changes will be posted on cfl.ca and cflshop.ca promptly to inform visitors of what information is collected, how it is used, and under what circumstances it may be disclosed. 
+
+  
+
