@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203001902id_/http%3A//dawnsign.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604020136id_/http%3A//dawnsign.com/general/privacy.html) for the most accurate reproduction.*
 
 # DawnSign Press.com Privacy Policy
 
 * **Privacy Notice**
-* [Conditions Of Use](https://web.archive.org/web/20031203001902id_/http%3A//dawnsign.com/general/conditionsofuse.html)
+* [Conditions Of Use](https://web.archive.org/web/20040604020136id_/http%3A//dawnsign.com/general/conditionsofuse.html)
 | 
 
 ## **The following policy applies to the DAWNSIGN.COM site.**
@@ -24,11 +24,11 @@ When teachers register at our site, we use their sign-in information, which cont
 
 ##  **Non-Personally Identifiable Information and the Use of Cookie Technology**
 
-We collect non-personally identifiable information through the use of a software technology called "cookies" and through our visitors voluntary submissions to us and/or upon our request. By non-personally identifiable information, we are referring to information about our visitor's browsers (e.g. Netscape Navigator or Internet Explorer), operating systems (e.g. Windows or MacIntosh), Internet Service Providers (e.g. AOL or Net.com), and other similar information that we track in aggregate form. The non-personally identifiable information that we track is anonymous and will never be identified with or lead us back to any of our visitors.
+We collect non-personally identifiable information through the use of a software technology called "cookies" and through our visitors' voluntary submissions to us and/or upon our request. By non-personally identifiable information, we are referring to information about our visitors' browsers (e.g. Netscape Navigator or Internet Explorer), operating systems (e.g. Windows or MacIntosh), Internet Service Providers (e.g. AOL or Net.com), and other similar information that we track in aggregate form. The non-personally identifiable information that we track is anonymous and will never be identified with or lead us back to any of our visitors. 
 
-Cookie technology helps us to know how many people visit our site and where visitors go within our site. Cookies are small bits of information we send to your computer. Among other things, this non-personally identifiable information allows us to know which areas are favorites, which areas need improvement, or what technologies and internet services are being used by our visitors so that we may continually improve our visitors online experience.
+Cookie technology helps us to know how many people visit our site and where visitors go within our site. Cookies are small bits of information we send to your computer. Among other things, this non-personally identifiable information allows us to know which areas are favorites, which areas need improvement, or what technologies and internet services are being used by our visitors so that we may continually improve our visitors' online experience. 
 
-##  **Security**
+## **Security**
 
 DAWNSIGN.COM ensures that all personally and non-personally identifiable information that it receives via the internet is secure against unauthorized access. This information is kept in a secure system isolated from direct connection to the Internet. This means that no one except DawnSignPress will ever see the information that our visitors send to us, unless we indicate otherwise.
 
