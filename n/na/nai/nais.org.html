@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nais.org privacy policy that was archived on 2002-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205102845id_/http%3A//www.nais.org/about/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nais.org privacy policy that was archived on 2003-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622104726id_/http%3A//nais.org/about/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>National Association of Independent Schools (NAIS)</title>
@@ -57,6 +57,90 @@
 
 
 
+
+
+<script language="JAVASCRIPT" type="text/javascript">
+
+<!--
+
+
+function _CF_onError(form_object, input_object, object_value, error_message)
+    {
+	alert(error_message);
+       	return false;	
+    }
+
+
+
+function _CF_hasValue(obj, obj_type)
+    {
+    if (obj_type == "TEXT" || obj_type == "PASSWORD")
+	{
+    	if (obj.value.length == 0) 
+      		return false;
+    	else 
+      		return true;
+    	}
+    else if (obj_type == "SELECT")
+	{
+        for (i=0; i < obj.length; i++)
+	    	{
+		if (obj.options[i].selected)
+			return true;
+		}
+
+       	return false;	
+	}
+    else if (obj_type == "SINGLE_VALUE_RADIO" || obj_type == "SINGLE_VALUE_CHECKBOX")
+	{
+
+		if (obj.checked)
+			return true;
+		else
+       		return false;	
+	}
+    else if (obj_type == "RADIO" || obj_type == "CHECKBOX")
+	{
+
+        for (i=0; i < obj.length; i++)
+	    	{
+		if (obj[i].checked)
+			return true;
+		}
+
+       	return false;	
+	}
+	}
+
+
+function  _CF_checkCFForm_1(_CF_this)
+
+    {
+
+    if  (!_CF_hasValue(_CF_this.searchTerm, "TEXT" )) 
+
+        {
+
+        if  (!_CF_onError(_CF_this, _CF_this.searchTerm, _CF_this.searchTerm.value, "You must enter a search term."))
+
+            {
+
+            return false; 
+
+            }
+
+        }
+
+
+    return true;
+
+    }
+
+
+//-->
+
+</script>
+
 </head>
 
 <body bgcolor="ffffff" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" onload="HM_f_StartIt();" link="004466" vlink="6700a3" alink="66a2a2">
@@ -90,43 +174,45 @@
 
 		<font class="normal">
 		<table cellpadding="0" cellspacing="0" border="0" width="770">
-			<tbody><tr><td valign="top" align="left">
-					<a href="/default.cfm"><img src="/images/logo.gif" width="148" height="34" border="0"></a></td>
+			<tbody><tr>
+			<td width="150" valign="top"><a href="/index.cfm"><img src="/images/logo.gif" width="148" height="34" border="0"></a></td>
+					
+			
+					<td width="325"><img src="/images/blank.gif" width="325" height="1" border="0"></td>
 					
 				
-				<td align="left"><img src="/images/blank.gif" width="319" height="1" border="0"></td>
+				
+				
+		    <td width="1" height="38" bgcolor="#cccc99"><img src="/images/spacer.gif" width="1" height="38"></td>
+		    
+			
+    <td width="95" height="38" align="center"><img src="/images/iconHomeContact.gif" border="0" usemap="#HomeContact"></td>
+		    
+			<td width="1" height="38" bgcolor="#cccc99"><img src="/images/spacer.gif" width="1" height="38"></td>
+				
+			
+			 <td width="190" align="center">
+			  
+    		  <img src="/images/iconSignInRegister.gif" border="0" usemap="#SignInRegister">
+			 
+			 </td>
 					
-				
-				
-				<td align="right">
-					<a href="/"><img src="/images/home1.gif" border="0" width="51"></a></td>
-				<td align="right">
-					<a href="/contact/"><img src="/images/contactus.gif" border="0" width="84"></a></td>
-				
-				
-				<td align="right">
-					<a href="http://www.nais.org/scriptcontent/index.cfm?ext=1">
-						<img src="/images/login.gif" border="0" width="59"></a></td>
-
-											
-				<td align="right">
-					<img src="/images/blank.gif" width="109" height="1"></td>
-					
-				
+			 
+			
+			<td width="1" height="38" bgcolor="#cccc99"><img src="/images/spacer.gif" width="1" height="38"></td>
 			</tr>
 			
-			<tr><td colspan="11">
-					<img src="/images/bluestripe1.jpg"></td></tr>
+			<tr><td colspan="11"><img src="/images/bluestripe1.jpg"></td></tr>
 					
-			<form action="/nais_search/DocumentSearch_VSearchResult.cfm" onsubmit="self.location='/nais_search/DocumentSearch_VSearchResult.cfm';" method="post"></form>
+			<form name="CFForm_1" action="/search/resultsDocs.cfm" method="POST" onsubmit="return _CF_checkCFForm_1(this)"></form>
 			<tr valign="bottom">
 				<td colspan="11">
 					<table cellpadding="0" cellspacing="0" border="0" width="770">
 						<tbody><tr><td align="left"><img src="/images/logotype2.gif" width="413" height="28"></td>
-							<td align="right"><img src="/images/search.gif" width="70" height="28"></td>
-							<td align="right" bgcolor="ccd8b2">
-								<input type="text" name="Criteria" size="20"></td>
-							<td align="right" bgcolor="ccd8b2">
+							<td align="right"><a href="/search"><img src="/images/search.gif" border="0"></a></td>
+							<td align="right" bgcolor="cccc99">
+								<input type="text" name="searchTerm" size="23"></td>
+							<td align="right" bgcolor="cccc99">
 								<input type="image" src="/images/go2.gif" alt="Search" border="0" width="27" height="28"></td></tr>
 					</tbody></table>
 				</td>
@@ -135,6 +221,20 @@
 			<tr><td colspan="10">
 					<img src="/images/menubar4.gif" width="770" height="40" border="0" usemap="#menubar1_Map"></td></tr>
 		</tbody></table>
+<map name="SignInRegister">
+  <area shape="rect" coords="105,1,153,17" href="/scriptcontent/index.cfm?ext=1" alt="Sign In">
+  <area shape="rect" coords="104,23,182,36" href="/scriptcontent/newUser.cfm" alt="Register Now">
+</map>
+<map name="HomeContact">
+  <area shape="rect" coords="17,3,75,17" href="/" alt="NAIS Homepage">
+  <area shape="rect" coords="9,22,84,35" href="/contact" alt="Contact NAIS">
+</map>
+<map name="logoutProfile">
+  <area shape="rect" coords="14,4,72,18" href="/source/security/member-logoff.cfm?section=Home" alt="Logout">
+  
+    <area shape="rect" coords="7,23,81,35" href="/source/Members/cMemberDisplay.cfm?ID=" alt="My Profile">
+  
+</map>
 
 		
 		
@@ -172,7 +272,7 @@
 		<td><img src="/images/blank.gif" width="10" height="1"></td>
 		<td><img src="/images/redarrow_rev.gif"></td>
 		
-		<td><a href="&#10;/about/membership.cfm" class="navlink">Membership&nbsp;</a></td></tr>
+		<td><a href="&#10;/about/membership.cfm" class="navlink">Membership and Subscriptions&nbsp;</a></td></tr>
 		
 	<tr>
 		<td><br></td>
@@ -199,7 +299,7 @@
 		<td><img src="/images/blank.gif" width="10" height="1"></td>
 		<td><img src="/images/redarrow_rev.gif"></td>
 		
-		<td><a href="&#10;/about/public.cfm" class="navlink">Public Information&nbsp;</a></td></tr>
+		<td><a href="&#10;/about/naismedia.cfm" class="navlink">Public Information&nbsp;</a></td></tr>
 		
 	<tr>
 		<td><br></td>
@@ -343,7 +443,8 @@
 
 <hr color="66a2a2" size="1" noshade="">
 
-© 1997-2002 National Association of Independent Schools <b><a href="/about/copyright.cfm">ALL RIGHTS RESERVED</a></b><br>
+To print this page in full, please change your printer settings to Landscape.
+<br><br>© 1997-2003 National Association of Independent Schools <b><a href="/about/copyright.cfm">ALL RIGHTS RESERVED</a></b><br>
 1620 L Street NW Suite 1100, Washington DC, 20036-5695<br>Phone (202) 973-9700
 <br><a href="/about/privacy.cfm" target="_blank">Privacy Statement</a>
 <br><br><br>
