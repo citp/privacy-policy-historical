@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204234456id_/http%3A//www.dcccd.edu/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603043905id_/http%3A//www.dcccd.edu/policy/privacy.htm) for the most accurate reproduction.*
 
 # DCCCD - Privacy and Security Policy
 
