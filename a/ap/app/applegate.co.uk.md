@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Applegate Directory - Privacy Policy
 
@@ -8,34 +8,35 @@
 |  Add to Desktop   
 |  Bookmark: Use CTRL-D   
 News  
-| [Applegate News](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/applegatenews.htm)  
+| [Applegate News](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/applegatenews.htm)  
   
-| [Industry News](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/pr/prind1.htm)  
+| [Industry News](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/pr/prind1.htm)  
   
 General Information  
-| [Home Page](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/index.htm)  
+| [Home Page](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/index.htm)  
   
-| [About Applegate](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/about.htm)  
+| [About Applegate](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/about.htm)  
   
-| [Add/Edit Information](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/form_chg.htm)  
+| [Add/Edit Information](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/form_chg.htm)  
   
-| [Advertise with Us](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/advertise.htm)  
+| [Advertise with Us](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/advertise.htm)  
   
-| [Site Statistics](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/stats.htm)  
+| [Site Statistics](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/stats.htm)  
   
-| [FAQ](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/faq.htm)  
-| [Your Internet Site](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/internet.htm)  
+| [FAQ](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/faq.htm)  
+| [Your Internet Site](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/internet.htm)  
   
 Directories  
-| [Chemical, Oil and Gas](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/chemical/index.htm)  
-| [Electronics](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/elec/index.htm)  
-| [Engineering](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/engineering/index.htm)  
-| [Plastics & Rubber](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/plastics/index.htm)  
-| [Recruitment Services](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/recruitment/index.htm)  
+| [Chemical, Oil and Gas](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/chemical/index.htm)  
+| [Electronics](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/elec/index.htm)  
+| [Engineering](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/engineering/index.htm)  
+| [Plastics & Rubber](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/plastics/index.htm)  
+| [Recruitment Services](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/recruitment/index.htm)  
+| [All Sectors](http://www.applegate2.co.uk/)  
   
 | [](http://www.applegate.co.uk/testimonials.htm) | 
 
-Last update: Saturday, May 11 2002  
+Last update: Thursday, November 7 2002  
   
 ---|---  
   
@@ -65,7 +66,7 @@ Company and contact details provided by you (such as your company and personal n
   
 You can remove your personal details from the directory by making a request to us in writing. We reserve the right to list your business with its name, address and contact numbers but all other information may be withheld from public view.  
   
-To alter your company or personal details and make information changes to your entry, use the forms at [Add/Edit Information](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/form_chg.htm). You can also send any comments about this website or privacy policy to [contact](https://web.archive.org/web/20020603160619id_/http%3A//www.applegate.co.uk/contact.htm) form  
+To alter your company or personal details and make information changes to your entry, use the forms at [Add/Edit Information](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/form_chg.htm). You can also send any comments about this website or privacy policy to [contact](https://web.archive.org/web/20021206092854id_/http%3A//www.applegate.co.uk/contact.htm) form  
   
 Under the Data Protection Act 1998, you may view any information we hold on you by paying a fee. Details on how to do this are available from the Information Commissioner's Office  
   
