@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaretipsandtricks.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202013947id_/http%3A//www.softwaretipsandtricks.com/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaretipsandtricks.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606205914id_/http%3A//www.softwaretipsandtricks.com/about/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy : SoftwareTipsandTricks.com - [software, hardware, tips, tricks, news, how-to, forums, message boards, support, windows, microsoft, hot downloads, articles]
 
