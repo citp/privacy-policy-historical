@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604161304id_/http%3A//www.cosmeticscop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214095216id_/http%3A//cosmeticscop.com/privacy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -6,7 +6,7 @@ Paula's Choice has created this privacy statement in order to demonstrate our fi
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We do not sell or trade lists with anyone.
 
-Our site uses cookies to keep track of your shopping cart only.
+Our site uses cookies to keep track of your shopping cart and your account settings only.
 
 Our site's registration form requires users to give us contact information (like their name and e-mail address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
@@ -20,9 +20,7 @@ We run contests on our site in which we ask visitors for contact information (li
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. In addition to using a secure server system that encrypts your order information, orders with payment information are not transmitted to us. Instead, a designated individual in the company accesses the orders using a password-protected back office system. Orders are retrieved once via this system and then deleted from the secure server. Each order is then processed manually using the same process we use for fax and telephone orders. At no time is your payment information or any personal data transmitted to a third party for verification or processing. Once the order is retrieved, all portions of the order fulfillment process are handled internally.
 
 **CHOICE/OPT-OUT**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+This site gives users the following options for removing themselves from our mailing lists so they do not receive any e-mail or regular mail communications from us.
 
 1\. Send e-mail to [CustServ@cosmeticscop.com](mailto:CustServ@cosmeticscop.com)  
 2\. Call the following telephone number: (800) 831-4088
@@ -30,10 +28,11 @@ This site gives users the following options for removing their information from 
  **CORRECT/UPDATE**  
 This site gives users the following options for changing and modifying information previously provided.
 
-1\. Send e-mail [CustServ@cosmeticscop.com](mailto:CustServ@cosmeticscop.com)  
-2\. Call the following telephone number: (800) 831-4088
+1\. You can make most changes to your account information using the My Account button on the site and entering your e-mail address and password. If you are unable to make a change, follow steps 2 & 3 below.  
+2\. 
 
- **CONTACTING THE WEB SITE**  
+Send e-mail [CustServ@cosmeticscop.com](mailto:CustServ@cosmeticscop.com)  
+3\. Call the following telephone number: (800) 831-4088 **CONTACTING THE WEB SITE**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  
 
 
