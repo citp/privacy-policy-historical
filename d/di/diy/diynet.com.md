@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diynet.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405205008id_/http%3A//diynet.com/DIY/privacyPolicy/0%2C1034%2C%2CFF.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynet.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203014424id_/http%3A//www.diynet.com/DIY/privacyPolicy/0%2C1034%2C%2CFF.html) for the most accurate reproduction.*
 
 # About DIY - Privacy Policy
 
@@ -17,6 +17,7 @@ Categories
   
   
 [Project Index](https://web.archive.org/DIY/projectIndex/0,2039,,FF.html)  
+[Newsletter](https://web.archive.org/DIY/newsletter/subscribeForm/0,2456,,00.html)  
 [DIY Kits](https://web.archive.org/DIY/kitsMain/0,1800,,FF.html)  
 [Ask DIY](https://web.archive.org/DIY/askDiy/0,1317,,FF.html)  
 [Cool Tools](https://web.archive.org/DIY/toolsMain/0,2324,,FF.html)  
@@ -48,8 +49,7 @@ We may require you to supply us with personal information (demographic informati
 We may perform statistical analyses of aggregate (group) user behavior. This allows us to measure relative consumer interest in the various areas of our Web sites for product development purposes. Any information we collect is used for our own internal purposes to improve the content of the Web site, to enhance users' experiences when visiting our site, to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. Aside from an automatic reply to an e-mail received by us, it is our intent not to e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There may be instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but after an initial mailing gauging your interest this will be continued only with your permission and consent.  
 
 
-DoubleClick, Inc. utilizes certain technologies to deliver specific advertisements, which appear on pages throughout this Web site, to the site's users. Privacy issues surrounding DoubleClick's use of certain non-personally identifiable user information by its technology are discussed in DoubleClick's privacy policy. That policy can be viewed at [www.doubleclick.net/privacy_policy](http://www.doubleclick.net/privacy_policy).  
-
+Third-Party advertising companies such as DoubleClick Inc. utilize certain technologies to deliver specific advertisements, which appear on pages throughout this Web site, to the site's users. These companies may collect, store and use non-personally ientifiable user information. If you want to prevent a third-party advertiser from collecting such user information, you may either visit each third party advertiser's Web site directly and opt-out (for example [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object=1&) for DoubleClick's privacy policy and opt-out options), or [click here](http://www.networkadvertising.org/optout_nonppii.asp) to visit the NAI gateway opt-out site. The NAI gateway opt-out site will allow you to review various third-party advertising companies' privacy policies and opt-out options.
 
 **III. Disclosure to Third Parties**  
 We do not share personal identifying information with any third party without your permission. We disclose only in aggregate (group) form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. This aggregate information does not include names or e-mail addresses. In some instances, we operate shared Web sites with businesses affiliated with us. Our Privacy Policy will apply to these Web sites. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name or e-mail address) in chat areas or bulletin boards or to third parties, that information may be collected by others outside our control and may result in unsolicited messages from others. 
