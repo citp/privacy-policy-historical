@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the corante.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218065015id_/http%3A//www.corante.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corante.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602160354id_/http%3A//www.corante.com/about/pp.shtml) for the most accurate reproduction.*
 
-# C O R A N T E - Tech News. Filtered Daily.
-
-  
-
+# Privacy Policy - Corante: About Pages
 
 **Information Collection and Use**  
 Corante is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
@@ -35,4 +32,4 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:  
 [info@corante.com](mailto:info@corante.com)
 
-Copyright © 2001 Corante. All rights reserved. [Terms of use.](https://web.archive.org/web/20011218065015id_/http%3A//www.corante.com/terms.html)
+Copyright 2002 Corante. All rights reserved. [Terms of use](https://web.archive.org/about/terms.shtml)
