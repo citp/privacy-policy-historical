@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609152243id_/http%3A//www.btabta.com/PDF/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2004-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041221050704id_/http%3A//www.btabta.com/PDF/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
