@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senate.gov privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605185928id_/http%3A//www.senate.gov/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senate.gov privacy policy that was archived on 2002-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021030131458id_/http%3A//www.senate.gov/security.html) for the most accurate reproduction.*
 
 # U.S. Senate
 
