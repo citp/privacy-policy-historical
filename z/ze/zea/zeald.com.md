@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803024325id_/http%3A//www.zeald.com/zeald/static_page_viewer%3Fstaticpage%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308174806id_/http%3A//www.zeald.com/zeald/static_page_viewer/staticpage/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Zeald.com - Websites that Work!
 
