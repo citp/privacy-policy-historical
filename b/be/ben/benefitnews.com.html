@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the benefitnews.com privacy policy that was archived on 2003-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030623084124id_/http%3A//www.benefitnews.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the benefitnews.com privacy policy that was archived on 2003-08-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030801211057id_/http%3A//www.benefitnews.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head><link rel="stylesheet" href="/adinfo/Adinfo.css" type="text/css">
 
@@ -12,7 +12,7 @@
 	<link rel="stylesheet" href="/ebn_fonts.css" type="text/css">
 	<script language="JavaScript"><!-- 
 function checkSearch() {
-	with(document.searchform) {
+	with(document.search) {
 		if (search.value == '') {
 			alert('Please enter words or phrases to use in your search.');
 			return false;
@@ -51,12 +51,12 @@ function checkSearch() {
 	
 
 <!-- AdSpace webid=EBN size=468x60 -->
-<iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.tfimg.com/adserv.asp?webid=EBN&amp;pos=rs&amp;pos2=RS&amp;ord=621205">
-<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.tfimg.com/js_adserv.asp?webid=EBN&pos=rs&pos2=RS&ord=621205">
+<iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.tfimg.com/adserv.asp?webid=EBN&amp;pos=rs&amp;pos2=RS&amp;ord=400264">
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.tfimg.com/js_adserv.asp?webid=EBN&pos=rs&pos2=RS&ord=400264">
 </SCRIPT>
 <NOSCRIPT>
-<a href="http://ads.tfimg.com/link.asp?webid=EBN&pos=rs&pos2=RS&ord=621205">
-<img src="http://ads.tfimg.com/image.asp?webid=EBN&pos=rs&pos2=RS&ord=621205" border=0></A>
+<a href="http://ads.tfimg.com/link.asp?webid=EBN&pos=rs&pos2=RS&ord=400264">
+<img src="http://ads.tfimg.com/image.asp?webid=EBN&pos=rs&pos2=RS&ord=400264" border=0></A>
 </NOSCRIPT>
 </iframe>
 <!-- /AdSpace -->
@@ -81,7 +81,7 @@ function checkSearch() {
   <td bgcolor="001063">
    <table border="0" cellpadding="0" cellspacing="0" width="775">
     <tbody><tr><td height="22" valign="center" align="center">
-      <a href="/index.cfm"><font class="ver10bldwhi">Home</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/registered.cfm"><font class="ver10bldwhi">Register/Log In</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/discussion.cfm"><font class="ver10bldwhi">Discussion Groups</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/contact_info.cfm"><font class="ver10bldwhi">Contact Us</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/adinfo/Adinfo1.cfm"><font class="ver10bldwhi">Advertise</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/sb/"><img src="/images/sourcetp.gif" border="0" alt="Comprehensive directory of  benefit product and service providers"></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/feedback/list.cfm"><font class="ver10bldwhi">Views &amp; Vents</font></a></td>
+      <a href="/index.cfm"><font class="ver10bldwhi">Home</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/registered.cfm"><font class="ver10bldwhi">Register/Log In</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/discussion.cfm"><font class="ver10bldwhi">Discussion Groups</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/feedback/list.cfm"><font class="ver10bldwhi">Views &amp; Vents</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/contact_info.cfm"><font class="ver10bldwhi">Contact Us</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/adinfo/Adinfo1.cfm"><font class="ver10bldwhi">Advertise</font></a><img align="center" src="/images/spacer.gif" width="45" height="1"><a href="/sb/"><img src="/images/sourcetp.gif" border="0" alt="Comprehensive directory of  benefit product and service providers"></a></td>
 	</tr>
    </tbody></table>
   </td>
@@ -92,7 +92,7 @@ function checkSearch() {
 <!-- BEGIN YELLOW NAV -->
  <tr>
 
-<form action="/search.cfm" method="post" name="searchform" target="_top" onsubmit="return checkSearch();"></form>
+<form action="/searchebn.cfm" name="search" target="_top" onsubmit="return checkSearch();"></form>
 										   
   <td height="40" bgcolor="FFEDA9" valign="center">
    <table border="0" cellpadding="0" cellspacing="0" width="775">
@@ -100,20 +100,19 @@ function checkSearch() {
      <td align="center" valign="center" width="70">
       <font class="ver10bldbla">Search:</font></td>
 	 <td width="775">
-<input type="hidden" name="type" value="basic">
-<input type="text" name="search" size="12" maxlength="50" value="">
+<input type="hidden" name="submit" value="yes">
+<input type="text" name="FREETXT" value="" size="12">
       <img width="5" src="/images/spacer.gif">
-	  					           	<select name="category">
-
-<option value="eb">EBN Articles</option>
-<option value="nw">Connect Articles</option>
+<select name="collection">							
+<option value="(eb OR nw OR nw2 OR ar)">All Articles</option>
+<option value="(eb OR 95 OR 96 OR 97 OR 98 OR 99 OR 00 OR 01)">EBN Articles</option>
+<option value="(nw OR nw2)">Connect Articles</option>
 <option value="ar">Other Articles</option>
-<option value="ps">New Products</option>
 <option value="sb">Source Book</option>
 <option value="ln">Links</option>
 <option value="dg">Discussion Groups</option>
-<option value="al">All Categories</option>
-					           	</select>	
+<option value="" selected="">All Categories</option>
+</select>
 								<img width="5" src="/images/spacer.gif">
 	  <input border="0" type="image" value="Search" src="/images/search.gif">
 	  <img width="5" src="/images/spacer.gif">
