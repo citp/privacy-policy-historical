@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609192433id_/http%3A//www.soundblaster.com/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208104113id_/http%3A//www.soundblaster.com/legal/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Soundblaster.com -- Privacy Policy
 
-|    
+  
 **Privacy Policy**  
 \- last updated May 30, 2001
 
