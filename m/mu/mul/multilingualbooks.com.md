@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610154009id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204055209id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ The Internet Language Company is the sole owner of the information collected on 
 
 ## Order Form
 
-We request information from our users on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number and expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. A telephone number is required for orders outside the United States. Order information, including credit card numbers, is transmitted to the Internet Language Company via secure, encrypted (SSL) connections. 
+We request information from our users on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number and expiration date). This information is used for billing purposes and to fill customer�s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. A telephone number is required for orders outside the United States. Order information, including credit card numbers, is transmitted to the Internet Language Company via secure, encrypted (SSL) connections. 
 
 ## Surveys and Polls
 
@@ -26,7 +26,7 @@ Multilingual Books offers a special type of online communication called InstantS
 
 ## Log Files
 
-We use IP addresses to help diagnose problems with our servers, and to administer our Web site. Your IP address is not stored in connection with any personally identifiable information. Multilingual Books InstantService chat sessions are kept in a log file; for more information, see the above section called “InstantService Chat”. 
+We use IP addresses to help diagnose problems with our servers, and to administer our Web site. Your IP address is not stored in connection with any personally identifiable information. Multilingual Books InstantService chat sessions are kept in a log file; for more information, see the above section called �InstantService Chat�. 
 
 ## Sharing
 
@@ -38,7 +38,7 @@ This web site contains links to other sites. Please be aware that the Internet L
 
 ## Security
 
-We take every precaution to protect our users’ information. When users submit sensitive information via this web site, their information is protected both online and off-line. 
+We take every precaution to protect our users� information. When users submit sensitive information via this web site, their information is protected both online and off-line. 
 
 When our order form asks users to enter sensitive information (such as a credit card number), that information is encrypted and protected with industry-standard SSL (Secure Sockets Layer) encryption. Credit card numbers collected on this web site transmitted to the Internet Language Company using secure, encrypted (SSL) email. Ordering online from Multilingual Books is secure and safe. 
 
