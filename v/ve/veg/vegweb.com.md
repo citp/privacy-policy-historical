@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621083126id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207133557id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Website, VegWeb, [www.vegweb.com](http://www.vegweb.com/), is owned and produced by VegWeb.com, Inc. Your privacy is very important at VegWeb. We understand that your health and dietary choices are very personal subjects, and we want you to feel as comfortable as possible visiting our web sites and using the services. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. We may update this Privacy Policy from time to time, so please check back occasionally. By using the VegWeb.com, Inc. web sites (www.veggiesunite.com, www.vegweb.com and www.vegweb.com), you agree to the terms of this Privacy Policy. If you have any questions about our Privacy Policy, you can  [email us.](mailto:admin@vegweb.com)
+  |  VegWeb Privacy Policy 
+
+This Website, VegWeb, [vegweb.com](http://vegweb.com/), is owned and produced by VegWeb.com, Inc. Your privacy is very important at VegWeb. We understand that your health and dietary choices are very personal subjects, and we want you to feel as comfortable as possible visiting our web sites and using the services. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. We may update this Privacy Policy from time to time, so please check back occasionally. By using the VegWeb.com, Inc. web sites (www.veggiesunite.com, vegweb.com and vegweb.com), you agree to the terms of this Privacy Policy. If you have any questions about our Privacy Policy, you can  [email us.](mailto:admin@vegweb.com)
 
 In accordance with the Children's Online Privacy Protection Act of 1998 (COPPA), you must be at least 13 years of age in order to participate in any interactives areas of VegWeb. In otherwords, if you are younger than 13, we cannot allow you to use such utilities as the discussion mailing lists listed in the VegWeb Mailing List Gateway, Personal Ads, Veggie Testimonies, Discussion Boards, Chat, Polls, etc. ([COPPA details](http://www.ftc.gov/opa/1999/9910/childfinal.htm))
 
@@ -27,10 +29,10 @@ TOP
 **We collect information in the following areas:**
 
 **I. Membership**   
-VegWeb does not collect your personal identifiable information unless you provide it to us voluntarily and knowingly. If you wish to use certain features on www.vegweb.com, you must first complete an online membership form. Such features are, but not limited to: 
+VegWeb does not collect your personal identifiable information unless you provide it to us voluntarily and knowingly. If you wish to use certain features on vegweb.com, you must first complete an online membership form. Such features are, but not limited to: 
 
-  * Recipe, Article, and Book Comments
-  * Discussion Boards
+  * Recipe Comments
+  * Q & A Discussion Area
   * Grocery List, Meal Planner, Recipe Box
   * Contests and Promotions
   * Member Profiles
@@ -97,3 +99,5 @@ Fort Wayne, IN 46866-3038
 USA
 
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
+
+|   
