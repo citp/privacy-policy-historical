@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603065059id_/http%3A//www.austin360.com/shared/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217231223id_/http%3A//www.austin360.com/shared/help/privacy_policy.html) for the most accurate reproduction.*
 
 # Austin360.com: Help: Privacy Policy
 
@@ -33,7 +33,7 @@
 
 Cox Interactive Media respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. 
 
-Questions regarding privacy issues should be directed to Cox Interactive Media at [privacy@cimedia.com](mailto:privacy@cimedia.com). 
+Questions regarding privacy issues should be directed to Cox Interactive Media at [privacy@cimedia.com](mailto:privacy@cimedia.com?subject=austin360). 
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with any of our sites or to provide any other personally identifying information. 
 
@@ -61,4 +61,4 @@ We may occasionally release information about our visitors when release is appro
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. By visiting any of our sites, you agree that your visit, and any dispute over our privacy practices, is governed by this Privacy Policy and our Visitor Agreement.
 
-|  |  [](http://ad.doubleclick.net/jump/cim.aus360.text/shopping;sub=;rr=1;pg=shopping;sz=140x60;tile=1;ord=Oxnea8Co@REAAF7uKpI?) [](http://ad.doubleclick.net/jump/cim.aus360.text/shopping;sub=;rr=2;pg=shopping;sz=140x60;tile=2;ord=Oxnea8Co@REAAF7uKpI?) [](http://ad.doubleclick.net/jump/cim.aus360.text/shopping;sub=;rr=3;pg=shopping;sz=140x60;tile=3;ord=Oxnea8Co@REAAF7uKpI?) [](http://ad.doubleclick.net/jump/cim.aus360.text/shopping;sub=;rr=4;pg=shopping;sz=140x60;tile=4;ord=Oxnea8Co@REAAF7uKpI?) [](http://ad.doubleclick.net/jump/cim.aus360.text/shopping;sub=;rr=5;pg=shopping;sz=140x60;tile=5;ord=Oxnea8Co@REAAF7uKpI?)
+|  | 
