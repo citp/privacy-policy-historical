@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605230730id_/http%3A//www.sorcerers.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233359id_/http%3A//www.sorcerers.net/Main/privacy.php) for the most accurate reproduction.*
 
 # Sorcerer's Place - Privacy Policy
+
+**Location: News/Main**
 
 **User Information**
 
@@ -12,8 +14,7 @@ A cookie is a piece of data stored on the user's computer tied to information ab
 
 For example, by setting a cookie on our message boards, users would not have to log in a password more than once, thereby saving time. If users reject the cookie, they may still use our site.
 
-In the course of serving advertisements to this site, our third-party  
-advertisers may place or recognize a unique cookie on your browser.
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
 
 **Advertising and Third Party Content**
 
@@ -21,11 +22,11 @@ The ads appearing on this Web site are delivered to you by our advertising partn
 
 **Disclosure**
 
-Sorcerer's Place openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [sorcerer@sorcerers.net](mailto:sorcerer@sorcerers.net).  
+Sorcerer's Place openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please [contact us](http://www.sorcerers.net/Info/Contact/index.php).  
 
 
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
 
-**[Top](https://web.archive.org/web/20040605230730id_/http%3A//www.sorcerers.net/privacy.htm#top)**
+**Top**
