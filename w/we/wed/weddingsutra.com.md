@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingsutra.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211151400id_/http%3A//weddingsutra.com/about_us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsutra.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604004725id_/http%3A//www.weddingsutra.com/about_us/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Weddingsutra.com
 
