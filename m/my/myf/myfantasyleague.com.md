@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/privacy.html) for the most accurate reproduction.*
 
 # Fantasy Football at myfantasyleague.com: Our Privacy Policy
 
 ---  
 [](https://web.archive.org/)  
-[](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/features.html)  
-[](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/reports.html)  
-[](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/support.html)  
-[](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/faqs.html)  
-[](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/compare.html)  
-[](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/purchase.html)  
+[](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/features.html)  
+[](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/reports.html)  
+[](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/support.html)  
+[](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/faqs.html)  
+[](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/compare.html)  
+[](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/purchase.html)  
 [](https://web.archive.org/)  
 |   
   
@@ -85,5 +85,5 @@ Should you have other questions or concerns about these privacy policies, please
   
 * * *  
   
-[advertise with us](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/advertise.html) | [features](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/features.html) | [reports](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/reports.html) | [faqs](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/faqs.html) | [support](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/support.html) | [compare](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/compare.html) | [purchase](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/purchase.html)   
-[demo](http://fflnet.myfantasyleague.com/fflnet1999/home/0001) | [news](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/news.html) | [mailing list](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/mailing_list.html) | [contact us](https://web.archive.org/web/20000620160257id_/http%3A//www.myfantasyleague.com/contact.html) | [home](https://web.archive.org/)
+[advertise with us](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/advertise.html) | [features](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/features.html) | [reports](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/reports.html) | [faqs](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/faqs.html) | [support](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/support.html) | [compare](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/compare.html) | [purchase](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/purchase.html)   
+[demo](http://fflnet.myfantasyleague.com/fflnet1999/home/0001) | [news](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/news.html) | [mailing list](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/mailing_list.html) | [contact us](https://web.archive.org/web/20001202133400id_/http%3A//myfantasyleague.com/contact.html) | [home](https://web.archive.org/)
