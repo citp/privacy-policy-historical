@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mckinsey.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207071000id_/http%3A//www.mckinsey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckinsey.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613130430id_/http%3A//www.mckinsey.com/privacy.html) for the most accurate reproduction.*
 
 # Legal Notice
 
 **Privacy Policy**
 
-> McKinsey & Company and its affiliates ("McKinsey" or "we") is committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this Web site (the "Site"). The scope of McKinsey’s commitment is detailed in this Privacy Policy. By submitting information, you agree to McKinsey’s use of such information as described herein. Please see our [ Terms of Use](https://web.archive.org/web/20001207071000id_/http%3A//www.mckinsey.com/terms.html) for more information about our on-line policies in general.
+> McKinsey & Company and its affiliates ("McKinsey" or "we") is committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this Web site (the "Site"). The scope of McKinsey’s commitment is detailed in this Privacy Policy. By submitting information, you agree to McKinsey’s use of such information as described herein. Please see our [ Terms of Use](https://web.archive.org/web/20010613130430id_/http%3A//www.mckinsey.com/terms.html) for more information about our on-line policies in general.
 >
 >> _What personally-identifiable information is collected?_
 >> 
