@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206044900id_/http%3A//www.catalogsavings.com/catalog/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603182108id_/http%3A//www.catalogsavings.com/catalog/privacy.asp) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Statement
 
@@ -24,7 +24,7 @@ Whether you’re ordering a catalog or making a purchase, we want you to feel sa
 
  Our site uses an order form for customers to request catalogs and savings certificates from our Catalog Retailers.  To receive a catalog, customers provide their contact information (name, email address and mailing address).
 
- Contact information is used to ship your catalog(s) to you.  With your permission only, the customer’s contact information is also used to send or e-mail material from CatalogSavings.com or some of our Catalog Retailers/Partners to our customers to advise them of new products, services, special offers or upcoming events.  However, we do not share or provide this personal contact information to any parties or individuals.
+ Contact information is used to ship your catalog(s) and catalog email offers to you.  With your permission only, the customer’s contact information is also used to send or e-mail material from CatalogSavings.com or some of our Catalog Retailers/Partners to our customers to advise them of new products, services, special offers or upcoming events.  However, we do not share or provide this personal contact information to any parties or individuals.
 
 Users may elect to decline or “opt-out” of receiving future mailings; see the _choice/opt-out_ section below.
 
@@ -32,9 +32,18 @@ Users may elect to decline or “opt-out” of receiving future mailings; see th
 
 Our Web server automatically recognizes the home server of visitors but not their e-mail addresses.  Therefore, individually identifiable e-mail addresses are not collected unless you provide them by e-mailing CatalogSavings.com or supplying your e-mail in our order form.
 
+**Partner Sites**
+
+ CatalogSavings.com partners with other sites to provide services for our users. These sites may collect information from users and maintain their own Privacy Statements. These sites are not controlled by CatalogSavings.com and they are not subject to Catalogsavings.com's Privacy Statement. If you would like information on the Privacy Statements of our partners click the links below.
+
+[MagMall's Privacy Statement](http://www.magmall.com/webcart/svc/privacystatement_po1.html)  
+[Everyone.net's Privacy Statement](http://www.everyone.net/main/html/p_policy.html)
+
   **Cookies**
 
-Our Site uses cookies strictly for your convenience to deliver content specific to your interests.  We also use cookies to save your user identification so you don’t have to re–enter it each time you visit our site.  We do not store any personal data in the cookie and we do not use it to track and report consumer actions on the Site.  We also do not share or sell any cookie related information.. _ _  
+Our Site uses cookies strictly for your convenience to deliver content specific to your interests.  We also use cookies to save your user identification so you don’t have to re–enter it each time you visit our site.  We do not store any personal data in the cookie and we do not use it to track and report consumer actions on the Site.  We also do not share or sell any cookie related information.
+
+CatalogSavings.com may use third parties to serve ads or track sales/leads on our site. These ads or tracking functions may contain cookies. CatalogSavings.com does not control these cookies, and they are not subject to CatalogSavings.com's Privacy Policy. If you would like more information about the information collection practices of this third-party company and to know your choices about not having this information used by this company,  [click here](http://www.doubleclick.com/us/corporate/privacy/). 
 
   **External Links**
 
@@ -58,7 +67,6 @@ If you have any questions about this privacy statement, the practices of our Web
 
 Jerry Haygood  
 CatalogSavings.com  
-200 SE 15th Road  
-Suite 7G  
-Miami, FL 33129  
+318 Indian Trace #330  
+Weston, FL 33326  
 [jerry@catalogsavings.com ](mailto:jerry@catalogsavings.com)
