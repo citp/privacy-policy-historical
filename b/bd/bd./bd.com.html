@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bd.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202024134id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bd.com privacy policy that was archived on 2004-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604211446id_/http%3A//bd.com/legal/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Legal - Privacy Statement and Consent to Use of Data</title>
@@ -9,197 +9,52 @@
 <meta http-equiv="Expires" content="0"> 
 <meta http-equiv="Pragma" content="no-cache">
 
-<script language="JavaScript">
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-
-var gDomain="statse.webtrendslive.com";
-var gDcsId="dcsn5czig11e5hy76pmpvpqo5_1e8s";
-
-if (gDcsId==""){
-	var gTagPath=gDomain;
-}
-else{
-	var gTagPath=gDomain+"/"+gDcsId;
-}
-
-function dcsVar(uri, query){	// optional parameter for use with PDFs
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	WT.ti=document.title;
-	WT.js="Yes";
-	if (typeof(gVersion)!="undefined"){
-		WT.jv=gVersion;
-	}
-	WT.sp="";
-	if (typeof(uri)!="undefined") {
-		DCS.dcsuri=uri;
-		DCS.dcsqry=query;
-		DCS.dcsref=window.location.pathname; // make the pdfs referrer the uri of the page of its link
-	}
-	else {
-		DCS.dcsuri=window.location.pathname;
-		DCS.dcsqry=window.location.search;
-		if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-			if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-				DCS.dcsref=window.document.referrer;
-			}
-		}
-	}
-
-	DCSext.referrer =  window.document.referrer;	// make a page referrer var for custom reporting
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsdat=dCurrent.getTime();
-
-	// CONTENT DRILLDOWN CODE dmillrod 09/03
-	WT.cg_n = "Root Directory";						// seed in case we find pages directly off of doc root
-	WT.cg_s = "";
-	if (DCS.dcsuri == "/") {
-		WT.cg_n = "Home";
-		}
-	else
-	 {
-		// find first part of the path
-		var pathArray = DCS.dcsuri.match(/^\/(\w*[-_]?\w*)\/.*/); // Allow 2 part names separated by '-' or '_'
-		if (pathArray !=  null)
-			WT.cg_n = pathArray[1];
-		// find second part of the path
-		var pathArray = DCS.dcsuri.match(/^\/.*\/(\w*[-_]?\w*)\/.*/);
-		if (pathArray != null)
-			WT.cg_s = pathArray[1];
-	}
-	DCSext.cg_d = WT.cg_n
-	if (WT.cg_s != "")
-		DCSext.cg_d = DCSext.cg_d +";"+ WT.cg_s;
-	DCSext.cg_d = DCSext.cg_d +";"+ DCS.dcsuri;
-	//alert("Content Group = "+WT.cg_n + "\nSub Group=" +WT.cg_s + "\nDrilldown=" + DCSext.cg_d);
-	// END CONTENT DRILLDOWN CODE
-}
-
-function A(N,V){
-	return "&"+N+"="+escape(V);
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var myDocumentElements;
-	if (document.all){
-		myDocumentElements=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		myDocumentElements=document.getElementsByTagName("meta");
-	}
-	if (typeof(myDocumentElements)!="undefined"){
-		for (var i=1;i<=myDocumentElements.length;i++){
-			myMeta=myDocumentElements.item(i-1);
-			if (myMeta.name){
-				if (myMeta.name.indexOf('WT.')==0){
-					WT[myMeta.name.substring(3)]=myMeta.content;
-				}
-				else if (myMeta.name.indexOf('DCSext.')==0){
-					DCSext[myMeta.name.substring(7)]=myMeta.content;
-				}
-				else if (myMeta.name.indexOf('DCS.')==0){
-					DCS[myMeta.name.substring(4)]=myMeta.content;
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(TagImage){
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+TagImage+"/dcs.gif?";
-	for (N in DCS){
-		if (DCS[N]) {
-			P+=A(N,DCS[N]);
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=A("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			P+=A(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-	//alert(P);
-}
-
-function trackPDF(uri, query){
-	dcsVar(uri, query);
-	dcsTag(gTagPath);
-//	dcsTag("dev.technologyleaders.com:8111");				// for auditing only!
-}
-
-
-	// Flash Version detection code. dmillrod 0903.  Note that this cannot be called within a javascript function.
-	var isFlash;
-	var flashVersion;
-	var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
-	//alert("plug in = " + plugin);
-	if ( plugin ) {
-			var words = navigator.plugins["Shockwave Flash"].description.split(" ");
-			for (var i = 0; i < words.length; ++i){
-				if (isNaN(parseInt(words[i])))
-					continue;
-				flashVersion = words[i];
-			}
-	}
-	else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
-	&& (navigator.appVersion.indexOf("Win") != -1)) {
-		// tries flash versions between version 4 and version 8:
-		for (var i = 8; i > 4; --i){
-			document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
-			document.write('on error resume next \n');
-			document.write('isFlash = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & i)))\n');
-			document.write('</SCR' + 'IPT\> \n');
-			if (isFlash) {
-				var flashVersion = i + '.0';		// add '.0' for compatibility with results from Netscape
-				break;
-			}
-		}
-	}
-	if (flashVersion)
-		DCSext.flashVersion = flashVersion;
-	//   END FLASH DETECTION CODE
-
-dcsVar();
-dcsMeta();
-dcsTag(gTagPath);
-// dcsTag("dev.technologyleaders.com:8111");				// for auditing only!
-</script>
-
-<noscript>
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsn5czig11e5hy76pmpvpqo5_1e8s/njs.gif?dcsuri=/nojavascript&WT.js=No">
-</noscript>
+<!-- BEGIN WEBSIDESTORY CODE v9.1.1 (11up) -->
+<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
+<script language="javascript" id="_hbc">
+var _acct="DM531126I7FB72EN3";	//account number(s)
+var _pn="PUT+PAGE+NAME+HERE"; //page name(s)
+var _mlc="CONTENT+CATEGORY"; //multi-level content category
+var _seg="Leading"; // visitor segmentation
+var _cmp=""; // campaign id
+var _gp="";  // campaign goal
+var _cmpn="";// campaign id in query
+var _gpn=""; // campaign goal in query
+var _fnl=""; // funnels
+var _pec=""; // error codes
+var _fv="";  // form validation function name
+var _dcmp="";// dynamic campaign
+var _dcmpn="";//dynamic campaign in query
+var _hra=""; // response attribute
+var _hcn=""; // conversion
+var _hcv=""; // conversion value
+var _hlt=""; // lead tracking
+var _hla=""; // lead attribute
+var _hqsr="";// response attribute in referrer query
+var _hqsp="";// response attribute in query
+var _hc1=""; // custom 1
+var _hc2=""; // custom 2
+var _hc3=""; // custom 3
+var _hc4=""; // custom 4
+var _lt="auto";  // link tracking
+var _ci="";  // customer id
+var _cp="null"; // campaign
+var _cpd=""; // campaign domain
+var _pndef="title"; //default page name
+var _ctdef="full"; //default content category
+var _dlf="n"; //download filter
+var _elf="n"; //exit link filter
+var _dft="n"; // download file tracker variable, set to y to use the name reference
+var _hrf=""; // custom referrer. use valid url or param name
+var _epg="n"; //event page identifier
+var _vpc="090101r";
+var _gn="ehg-becton.hitbox.com",_mn="we69"; //gateway & machine name
+</script><script language="javascript1.1" defer="" src="http://www.bd.com/includes/hbe-11up.js">
+</script><script language="javascript">if(navigator.appName!='Netscape'&&parseInt(
+navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
+<img src="http://ehg-becton.hitbox.com/HG?hc=we69&cd=1&hv=6&ce=u&hb=DM531126I7FB72EN3&n=PUT+PAGE+NAME+HERE&vcon=CONTENT+CATEGORY&seg=&cmp=&gp=&fnl=&pec=&dcmp=&ra=&gn=&cv=&ld=&la=&c1=&c2=&c3=&c4=&vpc=090101rn" border="0" width="1" height="1">
+</noscript><!--//-->
+<!-- END WEBSIDESTORY CODE  -->
 
 <script language="JavaScript" type="text/javascript">
 <!--//
@@ -444,7 +299,7 @@ function openHistory(filename) {
 	</tr>
 
 	<tr>
-	<td colspan="3" align="right" nowrap=""><a href="http://search.bd.com/"><img src="/images/advanced_search.gif" width="128" height="8" hspace="0" vspace="0" border="0" alt="Advanced Search"></a><a href="/site_help/"><img src="/images/site_help.gif" width="116" height="8" hspace="0" vspace="0" border="0" alt="Site Help"></a></td>
+	<td colspan="3" align="right" nowrap=""><a href="/leaving/?http://search.bd.com/"><img src="/images/advanced_search.gif" width="128" height="8" hspace="0" vspace="0" border="0" alt="Advanced Search"></a><a href="/site_help/"><img src="/images/site_help.gif" width="116" height="8" hspace="0" vspace="0" border="0" alt="Site Help"></a></td>
 	</tr>
 	</tbody></table>
 </td>
@@ -468,6 +323,14 @@ function openHistory(filename) {
 <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#CCE4E4">
 <tbody><tr>
 <td colspan="3"><img alt="" border="0" height="1" hspace="0" src="/images/spacer.gif" vspace="3" width="139"></td>
+</tr>
+<tr>
+<td width="21" valign="top"><img alt="" border="0" height="6" hspace="7" src="/images/orange_square.gif" vspace="5" width="6"></td>
+<td width="113"><a href="/legal/permission_request.asp" id="sidenav"><font face="Arial, Helvetica" size="2" color="#000099" id="sidenav">Permission Request Form</font></a></td>
+<td width="5"><font size="1" id="small">&nbsp;</font></td>
+</tr>
+<tr>
+<td colspan="3"><img alt="" border="0" height="1" hspace="0" src="/images/blue_spacer.gif" vspace="6" width="139"></td>
 </tr>
 <tr>
 <td width="21" valign="top"><img alt="" border="0" height="6" hspace="7" src="/images/orange_square.gif" vspace="5" width="6"></td>
@@ -637,7 +500,7 @@ function openHistory(filename) {
               shall indicate your agreement with the terms of such revised Privacy 
               Statement and Consent. </font></p>
             <p align="center"><font size="2" face="Arial, Helvetica, sans-serif"><u><strong>Welcome<a name="welcome"></a></strong></u></font></p>
-            <p><font size="2" face="Arial, Helvetica, sans-serif">Welcome to <a href="http://www.bd.com">www.bd.com</a> 
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Welcome to <a href="/leaving/?http://www.bd.com">www.bd.com</a> 
               (the “Site”). This Site is operated by Becton, Dickinson 
               and Company (“BD” or “we” or “us”) 
               and has been created to provide our customers the information, products 
@@ -1085,7 +948,7 @@ function openHistory(filename) {
 <td width="136" bgcolor="#ACCCD3" valign="top">
 	<table border="0" cellpadding="0" cellspacing="0">
 	      <tbody><tr> 
-        <td colspan="2"><img src="/images/corporate_links.gif" width="136" height="18" hspace="0" vspace="0" border="0" alt="Corporate Links"><br> 
+        <td colspan="2"><img src="/images/corporate_links.gif" width="136" height="18" hspace="0" vspace="0" border="0" alt="Corporate Links (USA)"><br> 
           <img src="/images/select_gateway.gif" width="136" height="30" hspace="0" vspace="0" border="0" alt="Select another gateway"><br> 
           <img src="/images/spacer.gif" width="136" height="1" hspace="0" vspace="1" border="0" alt=""><br></td>
       </tr>
@@ -1131,13 +994,18 @@ function openHistory(filename) {
             </option><option value="/">&nbsp;&nbsp;- United States
             </option><option value="/americas/">Latin America 
             </option><option value="/brasil/">&nbsp;&nbsp;- Brazil 
+            </option><option value="/chile/">&nbsp;&nbsp;- Chile
             </option><option value="/mexico/">&nbsp;&nbsp;- Mexico
             </option><option value="http://www.bd.com/europe/">Europe 
             </option><option value="http://www.bd.com/belgie/">&nbsp;&nbsp;- Belgium 
             </option><option value="http://www.bd.com/ema/">&nbsp;&nbsp;- Eastern Europe
             </option><option value="http://www.bd.com/france/">&nbsp;&nbsp;- France
             </option><option value="http://www.bd.com/de/">&nbsp;&nbsp;- Germany
+            </option><option value="http://www.bd.com/it/">&nbsp;&nbsp;- Italy
             </option><option value="http://www.bd.com/nederland/">&nbsp;&nbsp;- Netherlands
+            </option><option value="http://www.bd.com/iberia/">&nbsp;&nbsp;- Portugal
+            </option><option value="http://www.bd.com/iberia/">&nbsp;&nbsp;- Spain
+            </option><option value="http://www.bd.com/se/">&nbsp;&nbsp;- Sweden
             </option><option value="">Asia Pacific 
             </option><option value="/anz/">&nbsp;&nbsp;- Australia/NZ 
             </option><option value="/china/">&nbsp;&nbsp;- China
@@ -1173,43 +1041,46 @@ function openHistory(filename) {
 </tbody></table>
 <!----- Footer Include ----->
 <table border="0" cellpadding="0" cellspacing="0" height="145" align="center">
-<tbody><tr>
-<td colspan="2" align="center"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link"><a href="/clinician/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Clinician</font></a> 
-| <a href="/researcher/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Researcher</font></a>
-| <a href="/consumer/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Consumer</font></a>
-| <a href="/industry/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Industry</font></a>
-| <a href="/provider/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Provider</font></a><br>
-<a href="/aboutbd/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">About BD</font></a>
-| <a href="/support/contact/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Contact BD</font></a>
-| <a href="/careers/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Careers</font></a>
-| <a href="/products/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Products</font></a>
-| <a href="/investors/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Investors</font></a>
-| <a href="/press/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Press</font></a>
-| <a href="/distributors/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Distributors</font></a>
-| <a href="/site_help/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Site Help</font></a>
-| <a href="/site_help/site_map.asp" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Site Map</font></a>
-| <a href="/" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">BD Home</font></a></font><br>
-<a href="/legal/privacy_policy.asp" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Privacy</font></a><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">
-|</font> <a href="/legal/terms.asp" id="footer_link"><font face="Arial, Helvetica" size="2" color="#000066" id="footer_link">Terms &amp;
-Conditions</font></a><p></p></td>
-</tr>
-<tr>
-<td valign="top" width="50%"><font face="Arial, Helvetica" size="1" color="#000066" id="footer_text">BD<br>
-1 Becton Drive<br> 
-Franklin Lakes, NJ USA 07417<br>
-201.847.6800</font><p></p></td>
-<td valign="top"><font face="Arial, Helvetica" size="1" color="#000066" id="footer_text">
-<!----- Products Subnavigation ----->
-
-</font></td>
-</tr>
-<tr>
-<td colspan="2"><font face="Arial, Helvetica" size="1" color="#000066" id="footer_link">
-Unless otherwise noted, BD, BD Logo and all other trademarks are the property of Becton, Dickinson and Company. © 2003 BD<br>
-
-
-</font></td>
-</tr>
+  <tbody><tr> 
+    <td colspan="2" align="center"><font face="Arial, Helvetica" size="2" color="#000066"><a href="/clinician/"><font face="Arial, Helvetica" size="2" color="#000066"><br>
+      Clinician</font></a> | <a href="/researcher/"><font face="Arial, Helvetica" size="2" color="#000066">Researcher</font></a> 
+      | <a href="/consumer/"><font face="Arial, Helvetica" size="2" color="#000066">Consumer</font></a> 
+      | <a href="/industry/"><font face="Arial, Helvetica" size="2" color="#000066">Industry</font></a> 
+      | <a href="/provider/"><font face="Arial, Helvetica" size="2" color="#000066">Provider</font></a><br> 
+      <a href="/aboutbd/"><font face="Arial, Helvetica" size="2" color="#000066">About 
+      BD</font></a> | <a href="/support/contact/"><font face="Arial, Helvetica" size="2" color="#000066">Contact 
+      BD</font></a> | <a href="/careers/"><font face="Arial, Helvetica" size="2" color="#000066">Careers</font></a> 
+      | <a href="/products/"><font face="Arial, Helvetica" size="2" color="#000066">Products</font></a> 
+      | <a href="/investors/"><font face="Arial, Helvetica" size="2" color="#000066">Investors</font></a> 
+      | <a href="/press/"><font face="Arial, Helvetica" size="2" color="#000066">Press</font></a> 
+      | <a href="/distributors/"><font face="Arial, Helvetica" size="2" color="#000066">Distributors</font></a> 
+      | <a href="/site_help/"><font face="Arial, Helvetica" size="2" color="#000066">Site 
+      Help</font></a> | <a href="/site_help/site_map.asp"><font face="Arial, Helvetica" size="2" color="#000066">Site 
+      Map</font></a> | <a href="/"><font face="Arial, Helvetica" size="2" color="#000066">BD 
+      Home</font></a><br> <a href="/legal/privacy_policy.asp"><font face="Arial, Helvetica" size="2" color="#000066">Privacy</font></a> 
+      | <a href="/legal/terms.asp"><font face="Arial, Helvetica" size="2" color="#000066">Terms 
+      &amp; Conditions</font></a> | <a href="/legal/trademark_usage.asp"><font face="Arial, Helvetica" size="2" color="#000066">Trademarks</font></a> 
+      | <a href="/legal/permission_request.asp"><font face="Arial, Helvetica" size="2" color="#000066">Permission 
+      Request</font></a><br>
+      <br>
+    </font></td>
+  </tr>
+  <tr> 
+    <td valign="top" width="50%"><font face="Arial, Helvetica" size="1" color="#000066" id="footer_text">BD<br>
+      1 Becton Drive<br>
+      Franklin Lakes, NJ USA 07417<br>
+      201.847.6800</font> <p></p></td>
+    <td valign="top"><font face="Arial, Helvetica" size="1" color="#000066" id="footer_text"> 
+      <!----- Products Subnavigation ----->
+      
+      </font></td>
+  </tr>
+  <tr> 
+    <td colspan="2"><font face="Arial, Helvetica" size="1" color="#000066" id="footer_text"> 
+      Unless otherwise noted, BD, BD Logo and all other <a href="/legal/trademark_usage.asp"><font face="Arial, Helvetica" size="1" color="#000066" id="footer_link">trademarks</font></a> 
+      are the property of Becton, Dickinson and Company. © 2004 BD<br>
+       </font></td>
+  </tr>
 </tbody></table>
 
 
