@@ -1,35 +1,14 @@
-> *The following text is extracted and transformed from the editme.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204152419id_/http%3A//www.editme.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editme.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608090714id_/http%3A//www.editme.com/Privacy) for the most accurate reproduction.*
 
 # EditMe - The web site solution for wikis, blogs, content and collaboration sites. - EditMe Privacy Statement
 
 ****
 
-**The web site solution    
-** **for wikis, blogs, content  
-and collaboration sites.**
+****
 
-| [Home](http://www.editme.com/Home)  
----  
-[News & Updates](http://www.editme.com/News)  
-[Find Out More](http://www.editme.com/FindOutMore)  
-[Suggested Uses](http://www.editme.com/SuggestedUses)  
-[How does it work?](http://www.editme.com/HowDoesItWork)  
-[What Is A Wiki?](http://www.editme.com/WhatIsWiki)  
-[Full List of Features](http://www.editme.com/Features)  
-[Demo Site](http://www.editme.com/Demo)  
-[Plans & Pricing](http://www.editme.com/Pricing)  
-[SIGN UP](http://www.editme.com/_SignUp)  
-[Testimonials](http://www.editme.com/Testimonials)  
-[Customer Survey](http://www.editme.com/Survey)  
-[Support](http://help.editme.com/)  
-[Contact Us](http://www.editme.com/ContactUs)  
-[Public Wiki](http://wiki.editme.com/)  
-  
-[](https://web.archive.org/MailingList)
+[Copyright](http://www.editme.com/Copyright) © EditMe 2003
 
-Copyright © EditMe 2003
-
-| 
+| | 
 
 * * *
 
