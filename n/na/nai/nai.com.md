@@ -1,87 +1,47 @@
-> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 1999-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990429121142id_/http%3A//www.nai.com/about/copyright/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603210830id_/http%3A//nai.com/asp_set/about_nai/copyright/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# About NAI - Privacy Policy Statement
 
-**OUR POSTAL ADDRESS IS:**
+|  | 
 
-> **Network Associates, Inc.  
->  Attn: Corporate Marketing Department  
->  3965 Freedom Circle  
->  Santa Clara, CA 95054  
->  **
+**Privacy Policy Statement**  
+** This is a web site of Network Associates
 
-****YOU CAN REACH US BY:**  
-**
+OUR POSTAL ADDRESS IS: 
 
-> **TEL: 408-988-3832  
->  E-mail: [subscribe@nai.com](mailto:subscribe@nai.com)**
+Network Associates, Inc.  
+Attn: Corporate Marketing Department  
+3965 Freedom Circle  
+Santa Clara, CA 95054 
+YOU CAN REACH US BY:  TEL: 972.308.9960  
+E-mail: [subscribe@nai.com](mailto:subscribe@nai.com) 
+** **Network Associates Statement of Privacy:**
 
-> **N** etwork Associates may ask you to register and provide information to download free evaluation software or to place orders on the www.nai.com site. The information gathered is used to enhance the user experience on our site and to identify frequent visitors. For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
-> 
-> **W** e collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail and information volunteered by the consumer, such as survey information and/or site registrations. 
-> 
-> **T** he information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes and used by us to contact consumers for marketing purposes. 
-> 
-> **I** f you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address and telling us that you do not want to receive e-mail from our company. 
-> 
-> **F** rom time to time, we make our evaluation download or customer list available to other reputable organizations or partners whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. 
-> 
-> **Y** ou may receive periodic mailings from us with information on new products and services or upcoming events. Also you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list if you do not wish to receive such mailings, please let us know by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. 
-> 
-> **P** ersons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line to ensure excellent customer service. They also may receive telephone contact from us with information regarding new products and services or upcoming events. 
-> 
-> **I** f you do not wish to receive such telephone calls, please let us know by sending email to us at the above address or calling us at the above telephone number or writing to us at the above address. They also may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your correct phone number. We will be sure your name is removed from the list we share with other organizations. 
-> 
-> **N** etwork Associates will take appropriate steps to protect the information you share with us. When you provide us with a Credit Card number (and other sensitive information), Network Associates will take commercially reasonable steps to protect this information through a secure connection with your web browser. Credit card numbers are only used for payment processing and are not retained for marketing purposes. 
-> 
-> **I** f you have questions or comments regarding Network Associates privacy practices you can contact us at [webcomments@nai.com](mailto:webcomments@nai.com) and will be sure to address your needs. 
+At Network Associates, and our Affiliates ("NAI"), we recognize the increased importance of electronic commerce and the growth of the Internet as a part of everyday business transactions. As a world leader in network security and network management solutions, we understand and appreciate your need to control your personal data as you take advantage of the Internet. That's why we maintain strict internal policies that exceed industry standards concerning your privacy. 
 
-**SUPPRESSION PROCEDURES:**  
+Questions regarding this statement should be directed to [customer_service_na@nai.com](mailto:customer_service_na@nai.com). 
 
 
-> **T** o be suppressed from future product announcements, send an email to [subscribe@nai.com](mailto:subscribe@nai.com). In the subject, type Unsubscribe. In the body of the email, please include the information you would like us to suppress from future mailings or you do not want us to share with other reputable organizations. (Name, Company, Address, PO Box/Suite/Department, City, State, Zip, Email, Phone, Fax) 
-> 
-> Please click the BACK button to return to the form. 
-**Privacy Policy Statement**   
-**This is the web site of Network Associates**
+**Network Associates and Your Privacy:**
 
-**OUR POSTAL ADDRESS IS:**
+NAI may ask you to register and provide information that personally identifies you, including when you register as a customer or purchase a product from NAI, download free evaluation software, upgrades, or white papers, order email newsletters, respond to a marketing campaign, or to place orders on the www.nai.com site. The information gathered is used to enhance the user experience on our site and to identify frequent visitors. We use your personal information for three primary purposes: 
+    * To improve the content of our web site, products and services 
+    * To alert you to product upgrades, updates and renewal information regarding your product 
+    * To share special offers, product announcements and updated information, and other new services from NAI. 
 
-> **Network Associates, Inc.  
->  Attn: Corporate Marketing Department  
->  3965 Freedom Circle  
->  Santa Clara, CA 95054  
->  **
+You may receive periodic mailings from us with information on new products and services or upcoming events. We may also carefully select other companies to send you information about their products and services. If you do not wish to receive such mailings, please let us know by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your name and information you want on our do-not-share list. We will be sure your name is removed from the list we share with other organizations. 
 
-****YOU CAN REACH US BY:**  
-**
+Additionally, if you do not want NAI to contact you for marketing purposes by email, postal mail, fax and/or phone, you may opt out by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your name and the information you wish to unsubscribe. Place the word UNSUBSCRIBE in the subject. 
 
-> **TEL: 408-988-3832  
->  E-mail: [subscribe@nai.com](mailto:subscribe@nai.com)**
+NAI will take appropriate steps to protect the information you share with us. When you provide us with a Credit Card number (and other sensitive information), NAI will take commercially reasonable steps to protect this information through a secure connection with your web browser. Credit card numbers are only used for payment processing and are not retained for marketing purposes. 
 
-> **N** etwork Associates may ask you to register and provide information to download free evaluation software or to place orders on the www.nai.com site. The information gathered is used to enhance the user experience on our site and to identify frequent visitors. For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
-> 
-> **W** e collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail and information volunteered by the consumer, such as survey information and/or site registrations. 
-> 
-> **T** he information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes and used by us to contact consumers for marketing purposes. 
-> 
-> **I** f you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address and telling us that you do not want to receive e-mail from our company. 
-> 
-> **F** rom time to time, we make our evaluation download or customer list available to other reputable organizations or partners whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. 
-> 
-> **Y** ou may receive periodic mailings from us with information on new products and services or upcoming events. Also you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list if you do not wish to receive such mailings, please let us know by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. 
-> 
-> **P** ersons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line to ensure excellent customer service. They also may receive telephone contact from us with information regarding new products and services or upcoming events. 
-> 
-> **I** f you do not wish to receive such telephone calls, please let us know by sending email to us at the above address or calling us at the above telephone number or writing to us at the above address. They also may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your correct phone number. We will be sure your name is removed from the list we share with other organizations. 
-> 
-> **N** etwork Associates will take appropriate steps to protect the information you share with us. When you provide us with a Credit Card number (and other sensitive information), Network Associates will take commercially reasonable steps to protect this information through a secure connection with your web browser. Credit card numbers are only used for payment processing and are not retained for marketing purposes. 
-> 
-> **I** f you have questions or comments regarding Network Associates privacy practices you can contact us at [webcomments@nai.com](mailto:webcomments@nai.com) and will be sure to address your needs. 
-
-**SUPPRESSION PROCEDURES:**  
+If you have questions or comments regarding NAI privacy practices you can contact us at [customer_service_na@nai.com](mailto:customer_service_na@nai.com) and we will be sure to address your needs. 
 
 
-> **T** o be suppressed from future product announcements, send an email to [subscribe@nai.com](mailto:subscribe@nai.com). In the subject, type Unsubscribe. In the body of the email, please include the information you would like us to suppress from future mailings or you do not want us to share with other reputable organizations. (Name, Company, Address, PO Box/Suite/Department, City, State, Zip, Email, Phone, Fax) 
-> 
-> Please click the BACK button to return to the form. 
+**Cookies**
+
+NAI uses software tags called "cookies" to identify customers when they visit our site. Among other things Cookies help us identify returning users so that we don't ask them to register with every visit. They help us understand your buying preferences and customize our service to your needs. By understanding which areas of the site you visit, cookies allow us to present information, products and specials that are of personal interest. 
+**Suppression Procedures**
+
+To be suppressed from future marketing announcements, send an email to subscribe@nai.com. In the subject, type UNSUBSCRIBE. In the body of the email, please include the information you would like us to suppress from future mailings or information you do not want us to share with other reputable organizations. (Name, Company, Address, PO Box/Suite/Department, City, State, Zip, Email, Phone, Fax) 
+
