@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020050228id_/http%3A//www.infospace.com/_1_4MHZTUD02JJ12Y9__info/about/truste.htm%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405120212id_/http%3A//www.infospace.com/_1_4PHZTUD03168RM1__info/about/truste.htm%3F) for the most accurate reproduction.*
 
 # InfoSpace Visitor Privacy Policy - InfoSpace
 
@@ -14,7 +14,7 @@
 
 InfoSpace is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the InfoSpace Web site located at www.infospace.com. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; how the information is used; with whom the information may be shared; and how you can correct any inaccuracies in the information.
 
-This Web site has agreed to participate in TRUSTe's formal resolution process. If you have questions or concerns regarding this statement, you should first contact our [Customer Service Department](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/feedback.htm). If you do not receive acknowledgement of your inquiry within five business days or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
+This Web site has agreed to participate in TRUSTe's formal resolution process. If you have questions or concerns regarding this statement, you should first contact our [Customer Service Department](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/feedback.htm). If you do not receive acknowledgement of your inquiry within five business days or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
   
 **Privacy Philosophy**
 
@@ -32,9 +32,9 @@ In order to provide you with a personalized experience and also monitor the traf
 
 You may choose not to accept cookies by changing the preferences on your browser. However, your experience will be less personalized and, in addition, certain services may not be available for your use (See below, "Use of the Information").
 
-Other companies that advertise on our site also have the ability to assign a different cookie to you. You may choose not to accept such cookies by changing the preferences on your browser. To find out which advertising firms InfoSpace uses from time to time, see our list of [Advertising Partners](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/advertising_providers.htm).
+Other companies that advertise on our site also have the ability to assign a different cookie to you. You may choose not to accept such cookies by changing the preferences on your browser. To find out which advertising firms InfoSpace uses from time to time, see our list of [Advertising Partners](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/advertising_providers.htm).
 
-Although you may visit our site anonymously, you may elect to provide us with information you want InfoSpace to remember. We hope that you will want to provide information about yourself to InfoSpace because it will make our Web site more valuable to you. If you are comfortable providing us with information about yourself, enhanced services are available to you that are impossible for us to offer to anonymous users. One example of where we collect personal information to serve you better is the My InfoSpace section of our Web site where we collect information to provide you with stock quotes, weather, and lottery results. Our [Chat Rooms](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/chat/index.htm) are another example of such an enhanced service. In these instances, we retain information about you between sessions by using the cookies described above.
+Although you may visit our site anonymously, you may elect to provide us with information you want InfoSpace to remember. We hope that you will want to provide information about yourself to InfoSpace because it will make our Web site more valuable to you. If you are comfortable providing us with information about yourself, enhanced services are available to you that are impossible for us to offer to anonymous users. One example of where we collect personal information to serve you better is the My InfoSpace section of our Web site where we collect information to provide you with stock quotes, weather, and lottery results. Our [Chat Rooms](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/chat/index.htm) are another example of such an enhanced service. In these instances, we retain information about you between sessions by using the cookies described above.
 
 From time to time, InfoSpace will conduct surveys in order to help serve you better. Participation in the surveys is optional and anonymous.  
   
@@ -50,7 +50,7 @@ We develop summary - not individual - reports for our advertisers. An example of
   
 **Information Distribution**
 
-Other companies which place advertising or content on our site may collect information about you by way of cookies when you view or click on their advertising or content. You should contact these advertisers or content providers directly if you have any questions about their use of this information. To find out which advertising firms InfoSpace uses from time to time, see our list of [Advertising Partners](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/advertising_providers.htm). Refer to the section below for information on content providers. On certain pages, credit card numbers are collected in order to conduct a transaction. We utilize a third-party to process your credit card transaction.
+Other companies which place advertising or content on our site may collect information about you by way of cookies when you view or click on their advertising or content. You should contact these advertisers or content providers directly if you have any questions about their use of this information. To find out which advertising firms InfoSpace uses from time to time, see our list of [Advertising Partners](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/advertising_providers.htm). Refer to the section below for information on content providers. On certain pages, credit card numbers are collected in order to conduct a transaction. We utilize a third-party to process your credit card transaction.
 
 Additionally, although partners, affiliates and third parties may link to our Web site, or otherwise be associated with our Web site, InfoSpace cannot control the information collection and distribution policies of such parties. Although we do encourage our partners and affiliates, including co-branding partners, to adopt privacy policies similar to this one, we do not have control over the practices of third parties and these practices may differ from our own. You should check the privacy policy of every Web site you visit to ensure that you are comfortable with the practices of that particular Web site.  
   
@@ -60,7 +60,7 @@ Almost all of the information and activities that are found on the various areas
 
 There are many instances where personal information that is entered is used by one of our content providers. In these cases, the content provider receives any information that you provide, and that information is subject to the privacy policy of that provider. 
 
-An example of this process is signing up for our [Real Time Quotes service](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/rtq/index.htm). Although the sign-up process is done while never leaving the InfoSpace Web site, the information that is gathered goes to [freerealtime.com](http://www.freerealtime.com/), and is subject to the Privacy Policy of that organization.
+An example of this process is signing up for our [Real Time Quotes service](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/rtq/index.htm). Although the sign-up process is done while never leaving the InfoSpace Web site, the information that is gathered goes to [freerealtime.com](http://www.freerealtime.com/), and is subject to the Privacy Policy of that organization.
 
 Some of our other content providers may include from time to time, but are not limited to:
 
@@ -82,7 +82,7 @@ Some of our other content providers may include from time to time, but are not l
 
 If at any time you are uncertain about whether or not your personal information will be provided to InfoSpace or the content provider, please feel free to contact our Customer Service Department.
 
-If at any time you are uncertain about whether or not your personal information will be provided to InfoSpace or the content provider, please feel free to contact our [Customer Service Department](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/feedback.htm).  
+If at any time you are uncertain about whether or not your personal information will be provided to InfoSpace or the content provider, please feel free to contact our [Customer Service Department](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/feedback.htm).  
   
 **Disclosure of Personal Information**
 
@@ -102,18 +102,18 @@ Information that you disclose about yourself in a public chat room, message boar
 
 There are many options available to users to update the information that they have listed in our database.
 
-  * Yellow Pages: You may be able to add a business or personal Web site to the Companies Online directory by visiting our [submission page](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/submit.htm). It will probably take approximately thirty (30) days for us to verify the submission and add your site to our directory. At this time, to request a change to your Web site listing, you must submit a new listing and delete the old one. The option to delete the old listing will be available to you when you find your Web site listing. 
-  * White Pages: You may update or delete your White Pages listing by searching the [White Pages](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/index_ppl.htm) or [email search](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/email1.htm) directory to find your listing. Once you have located it, simply click the **update** or **remove** link to the right of your name. To verify your request, InfoSpace will send an email message to the address that you provide. Once you confirm the request, your listing will be updated or deleted.  
+  * Yellow Pages: You may be able to add a business or personal Web site to the Companies Online directory by visiting our [submission page](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/submit.htm). It will probably take approximately thirty (30) days for us to verify the submission and add your site to our directory. At this time, to request a change to your Web site listing, you must submit a new listing and delete the old one. The option to delete the old listing will be available to you when you find your Web site listing. 
+  * White Pages: You may update or delete your White Pages listing by searching the [White Pages](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/index_ppl.htm) or [email search](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/email1.htm) directory to find your listing. Once you have located it, simply click the **update** or **remove** link to the right of your name. To verify your request, InfoSpace will send an email message to the address that you provide. Once you confirm the request, your listing will be updated or deleted.  
 
   * Chat Rooms: Only your username will be seen by other participants. All of the other information you provide (including your actual name and email address) will not be available to the other participants. The additional information is kept for the purpose of managing your account. Once your username and password have been accepted, you will be unable to update any of this information (except for changing your password). To change your password, follow the instructions available in the "Help" section of the Chat Rooms.  
 
-  * My InfoSpace: To update your user information, including your password, point your browser to [My InfoSpace](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/my.htm). Log in with your user name and password if prompted, and then click the "My InfoSpace" button. Select the "Update" option in the upper left corner and follow the prompts. In order to change your user name, you must re-register. Please refer to our [Frequently Asked Questions](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/faq2.htm), or feel free to contact our [Customer Service Department](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/feedback.htm) with any questions that you have. 
+  * My InfoSpace: To update your user information, including your password, point your browser to [My InfoSpace](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/my.htm). Log in with your user name and password if prompted, and then click the "My InfoSpace" button. Select the "Update" option in the upper left corner and follow the prompts. In order to change your user name, you must re-register. Please refer to our [Frequently Asked Questions](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/faq2.htm), or feel free to contact our [Customer Service Department](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/feedback.htm) with any questions that you have. 
 
   
   
 **Notification of Changes**
 
-InfoSpace reserves the right to change this Visitor Privacy Policy from time to time. If InfoSpace changes this Visitor Privacy Policy with respect to the disclosure of your personally identifiable information, we will post a notice of such change on this Web site or contact users by email or other communication to obtain consent. We welcome any questions or comments you have; please send them to our [Customer Service Department](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/feedback.htm).  
+InfoSpace reserves the right to change this Visitor Privacy Policy from time to time. If InfoSpace changes this Visitor Privacy Policy with respect to the disclosure of your personally identifiable information, we will post a notice of such change on this Web site or contact users by email or other communication to obtain consent. We welcome any questions or comments you have; please send them to our [Customer Service Department](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/feedback.htm).  
   
 **Security**
 
@@ -126,15 +126,14 @@ Thank you for visiting InfoSpace.
   
 * * *
 
-• | [Corporate Profile](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/profile.htm)  
+•| [Corporate Profile](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/profile.htm)  
 ---|---  
-•| [Investor Relations](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/invrelations.htm)  
-•| [Legal Notices](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/legalnote.htm)  
-•| [Press Releases](http://www.prnewswire.com/micro/INSP)  
-•| [Articles on InfoSpace](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/articles.htm)  
-•| [Recognition](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/aboutinfo.htm)  
-•| [Partner with InfoSpace](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/cbsite.htm)  
-•| [Privacy Policy](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/about/truste.htm)  
-•| [FAQ](http://www.infospace.com/_1_4PDLTUC03GBBJMF__info/faq.htm)  
+•| [Investor Relations](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/invrelations.htm)  
+•| [Legal Notices](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/legalnote.htm)  
+•| [Press Releases](http://www.businesswire.com/insp/index.shtml)  
+•| [InfoSpace in the News](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/insp_news.htm)  
+•| [Partner with Us](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/corporate/partnermain.htm)  
+•| [Privacy Policy](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/about/truste.htm)  
+•| [FAQ](http://www.infospace.com/_1_4I1ZT9E0ZVDF42__info/faq.htm)  
   
 * * *
