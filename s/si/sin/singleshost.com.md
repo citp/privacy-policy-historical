@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singleshost.com privacy policy that was archived on 2004-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040210171912id_/http%3A//singleshost.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singleshost.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213162410id_/http%3A//www.singleshost.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy singleshost.com
 
