@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218005820id_/http%3A//www.bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609135914id_/http%3A//www.bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
 
 # Big Blue Interactive Privacy Policy
 
 ****  
-[](https://web.archive.org/web/20011218005820id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20020609135914id_/http%3A//www.bigblueinteractive.com/index.cfm)
 
 * * *
 
@@ -22,7 +22,7 @@ _BBI_ will not _sell_ any personal information gathered to third parties. _BBI_ 
 
 
 
-_BBI_ will remove any personal information gathered from its database(s) upon written request from any registered users within a 30 day time period following the removal request. Removal from the _BBI_ database(s) will no longer afford the registered user the ability to participate in [_The Corner Forum_](http://www.bigblueinteractive.com/petescorner/petes_menu.cfm) or other such activities conducted on the site at _BBI_ 's discretion, and without prior notice. 
+_BBI_ will remove any personal information gathered from its database(s) upon written request from any registered users within a 30 day time period following the removal request. Removal from the _BBI_ database(s) will no longer afford the registered user the ability to participate in [_The Corner Forum_](http://www.bigblueinteractive.com/petescorner2/petes_menu.cfm) or other such activities conducted on the site at _BBI_ 's discretion, and without prior notice. 
 
 **Third Party Advertisers/Advertising Services:**
 
@@ -68,4 +68,4 @@ _This Document Was Last Updated on August 19, 2001_
 
 * * *
 
-[](https://web.archive.org/web/20011218005820id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20020609135914id_/http%3A//www.bigblueinteractive.com/index.cfm)
