@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
 # WBShop.com – Exclusive Warner Bros. merchandise from Harry Potter, Tweety, Taz, Batman, Superman, Scooby-Doo, and more. Privacy Policy
 
 | 
 
-[Home](https://web.archive.org/) > **Privacy Policy**  
+[Home](https://web.archive.org/) »  **Privacy Policy**  
   
 ---  
    
   
 
 
-  * [The Information We Collect](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#collect)
-  * [How We Use the Information](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#use)
-  * [Third-Party Sites and Sponsors](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#sponsors)
-  * [Cookies](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#cookies)
-  * [Our Commitment to Security](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#commitment)
-  * [How You Can Access or Correct Information](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#access)
-  * [Special Note for Parents](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#parents)
-  * [How to Contact Us](https://web.archive.org/web/20040607125612id_/http%3A//www.wbshop.com/content.xml?cid=privacy#contact)
+  * [The Information We Collect](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml?cid=privacy#collect)
+  * [How We Use the Information](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml?cid=privacy#use)
+  * [Third-Party Sites and Sponsors](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml?cid=privacy#sponsors)
+  * [Cookies](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml?cid=privacy#cookies)
+  * [Our Commitment to Security](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml?cid=privacy#commitment)
+  * [How You Can Access or Correct Information](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml?cid=privacy#access)
+  * [Special Note for Parents](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml?cid=privacy#parents)
+  * [Notification of Updates](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml?cid=privacy#updates)
+  * [How to Contact Us](https://web.archive.org/web/20041204182938id_/http%3A//www.wbshop.com/content.xml?cid=privacy#contact)
 
 
 
@@ -79,8 +80,13 @@ For instructions on how you can access the personally identifiable information t
 **Special Note for Parents**  
 The site you are visiting is one of the AOL Time Warner general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested. 
 
+**Notification of Updates**  
+From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this notice so that you always will know what information we collect, how we use it, and to whom we disclose it.
+
 **How to Contact Us**  
 If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at: [privacy@wb.com](mailto:privacy@wb.com). 
+
+The privacy notice posted on this site was updated on or about August 17th, 2004.
 
   
 
