@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2001-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010401013315id_/http%3A//all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2001-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011003235636id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
 
-# about us - All-Hotels privacy statement page
+# help and info - faq menu page
 
-|  |    
+| 
 
-
-Back
+**all-hotels.com Privacy Statement**
 
 All-Hotels is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
@@ -19,7 +18,7 @@ All-Hotels is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent
 
 
 
-If you have questions or concerns regarding this statement, you should first contact Sara Stockdale by email at [privacy@all-hotels.com](mailto:privacy@all-hotels.com) or at the contact telephone number or address at the end of the privacy policy. 
+If you have questions or concerns regarding this statement, you should first contact us by email at [privacy@all-hotels.com](mailto:privacy@all-hotels.com) or at the contact telephone number or address at the end of the privacy policy. 
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
@@ -42,14 +41,15 @@ Like most Web sites, there is certain information we automatically track, includ
 
 We use cookies to help users navigate efficiently between secure and non-secure pages of our site. Cookies are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences. The use of cookies is an industry standard, and many major web sites use them to provide useful features for their customers. We only use cookies to store information about hotels. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of a Web site if you do so. 
 
-**Our policy on correcting and updating personally identifiable information.**   
-_All-Abroad_   
-All-Abroad is All-Hotels' travel magazine. When you subscribe to All-Abroad we direct you to another site that is owned by All-Hotels. To subscribe to All-Abroad you need to give your email address. All-Abroad will be delivered to your email address every two weeks. To unsubscribe or update your email address go to [http://all-hotels.com/](https://web.archive.org/home.htm) and click on 'Login' in the Users section of the left bar. All you have to do is sign in with your email address and password and change your subscription details as required. All-Abroad is the property of All-Hotels and all terms in this privacy policy apply. 
+**Our policy on correcting and updating personally identifiable information.**
 
-_Personal Information, Hotel Preferences and Membership_   
+All-Abroad   
+All-Abroad is All-Hotels' travel magazine. When you subscribe to All-Abroad we direct you to another site that is owned by All-Hotels. To subscribe to All-Abroad you need to give your email address. All-Abroad will be delivered to your email address every two weeks. To unsubscribe or update your email address go to http://all-hotels.com/ and click on 'Login' in the Users section of the left bar. All you have to do is sign in with your email address and password and change your subscription details as required. All-Abroad is the property of All-Hotels and all terms in this privacy policy apply. 
+
+Personal Information, Hotel Preferences and Membership   
 You have the option to join all-hotels.com (select the "Join all-hotels.com" option under 'Users in the left bar). When you become a member, you can choose to leave your personal information and hotel preferences. You can also choose to receive All-Abroad and the Special Offers and Discounted Hotels Newsletter. The amount of information that you leave is entirely optional. You can update your personal details and subscriptions at any time by signing in to all-hotels.com via the "Login" option. 
 
-If you would like to remove all your membership details from all-hotels.com, simply send an email to privacy@all-hotels.com and put "cancel membership" in the subject line. 
+If you would like to remove all your membership details from all-hotels.com, simply send an email to [privacy@all-hotels.com](mailto:privacy@all-hotels.com) and put "cancel membership" in the subject line. 
 
 **Links to other sites**   
 all-hotels.com contains links to other sites including, but not limited to, sites owned and/or operated by Worldres (Bed and Breakfasts), HRN (Discount Hotels), Click Vacations (Package Holidays), Priceline.com and Travelocity (Flights), and Travelnow (Car Rental). We provide links to other sites as a convenience to persons who visit this web site. If you choose to use the services provided by those sites, you may be asked by those sites to provide certain personally identifiable information (some of which may, on an individual or aggregated basis, be shared with us). Please be aware that we are not responsible for the privacy practices of those sites, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to this Web site. 
@@ -69,7 +69,9 @@ Tel: 44-131-625-1070
 Fax: 44-131-625-1066 
 
 **Changes to our Privacy Policy**   
-This policy may be revised over time as new features are added to the web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy.   
- 
+This policy may be revised over time as new features are added to the web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy. 
 
-| 
+Return to Top
+
+  
+  | 
