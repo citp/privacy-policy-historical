@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infoworld.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202030000id_/http%3A//www.infoworld.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoworld.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406151220id_/http%3A//infoworld.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy/Cookie Policy
 
-Below is the current policy regarding the usage of data collected by InfoWorld Media Group. We reevaluate this policy on an ongoing basis based on feedback from readers.
+Below is the current policy regarding the usage of data collected by InfoWorld Media Group. We reevaluate this policy on an ongoing basis based on feedback from readers. 
 
 ### **Visitors Data**
 
@@ -13,7 +13,7 @@ The aggregated information we collect is used for the following purposes:
      1\. to improve the content of our Web pages 
 
      2\. shared with advertisers and potential advertisers to help them   
-         assess InfoWorld's suitability for their ad campaigns
+ assess InfoWorld's suitability for their ad campaigns 
 
      3\. set by our audit bureau to verify our claims of traffic to the site
 
@@ -34,9 +34,6 @@ NOTE: InfoWorld will not be participating in any program to identify visitors us
 ### **Registered Users Data**
 
 Registered users are asked to complete a questionnaire with identifying information and demographic information. The information we collect on registered users is used in the following ways:
-
-The information we collect on registered users is used in the following ways:  
-
 
      1\. to improve the content of our Web pages 
 
@@ -67,7 +64,7 @@ InfoWorld.com List Rentals
 
 San Mateo, CA 94402
 
-and request that their name be removed from the promotion list, or click [here](http://www.iwsubscribe.com/cs/ListUnSub.htm) to [unsubscribe](http://www.iwsubscribe.com/cs/ListUnSub.htm) from mailing lists.
+and request that their name be removed from the promotion list, or click [here](http://www.iwsubscribe.com/newsletters/unsubscribe/) to [unsubscribe](http://www.iwsubscribe.com/newsletters/unsubscribe/) from mailing lists.
 
   
   
@@ -105,7 +102,7 @@ InfoWorld List Rentals
 
 San Mateo, CA 94402
 
-and request that their name be removed from the promotion list, or click [here](http://www.iwsubscribe.com/cs/ListUnSub.htm) to [unsubscribe from mailing lists](http://www.iwsubscribe.com/cs/ListUnSub.htm) from mailing lists. 
+and request that their name be removed from the promotion list, or click [here](http://www.iwsubscribe.com/newsletters/unsubscribe/) to [unsubscribe](http://www.iwsubscribe.com/newsletters/unsubscribe/) from mailing lists. 
 
 **
 
@@ -113,7 +110,17 @@ and request that their name be removed from the promotion list, or click [here](
 
 **
 
-If you registered for InfoJobs, it is now called IT Careers and is part of IT World, another IDG business unit. Click [here](http://www2.itworld.com/CDA/ITW_Privacy_Policy/1,2522,,00.html) to view their privacy policy. 
+If you registered for InfoJobs, it is now called IT Careers and is part of IT World, another IDG business unit. Click [here](http://www.itworld.com/Privacy/) to view their privacy policy. 
+
+**
+
+### InfoWorld Partner Services Data
+
+**
+
+InfoWorld.com will from time to time partner with other companies to provide services to our subscribers and registered users that we feel may be valuable to them. Only in cases where you need to subscribe or register to use these services, InfoWorld.com will share your registration information with the partner company. We share this information to provide the service to you and for better customer service.
+
+If any of these services are discontinued, registered users and subscribers of the service on InfoWorld.com will be given the option to opt out of being contacted by the partner company.
 
 **
 
