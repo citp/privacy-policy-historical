@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606164434id_/http%3A//www.eyeglasses.com/information/about/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207030810id_/http%3A//www.eyeglasses.com/information/about/privacy.page) for the most accurate reproduction.*
 
 # About eyeglasses.com
 
@@ -42,7 +42,7 @@ Because we want our users to feel completely comfortable using the Eyeglasses.co
 
 To request that we not share your personal information with third parties (in cases where you previously granted us permission to share such information - we do not share your personal information with third parties without your permission), or to have all your personal information removed from our database, you can send an e-mail to [never@eyeglasses.com](mailto:never@eyeglasses.com). The request will be honored as soon as we receive it, but does not affect any information which you provided to us and which we shared with third parties prior to our receipt of such request. 
 
-If you would like to change any of your profile information in our database, you can do so by entering the [your account](https://web.archive.org/mydetails/mydetails.page)[](https://web.archive.org/web/20040606164434id_/http%3A//www.eyeglasses.com/information/about/account.page) area in the website, and following the directions. This will automatically change the information contained in our database. 
+If you would like to change any of your profile information in our database, you can do so by entering the [your account](https://web.archive.org/mydetails/mydetails.page)[](https://web.archive.org/web/20041207030810id_/http%3A//www.eyeglasses.com/information/about/account.page) area in the website, and following the directions. This will automatically change the information contained in our database. 
 
 We provide reports to a limited number of companies with which we do business. These reports include aggregate information about our users. The information in these reports will not identify you individually. The outside companies who receive these reports will not be able to contact you from the information contained in the reports. We will not provide individual information to these companies without your permission. 
 
