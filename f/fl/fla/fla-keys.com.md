@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408103110id_/http%3A//www.fla-keys.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207033422id_/http%3A//www.fla-keys.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # The Official Tourism Council Web Site for the Florida Keys! Key Largo, Islamorada, Marathon, Lower Keys, Key West
 
