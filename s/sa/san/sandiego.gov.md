@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207045016id_/http%3A//sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623013949id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
 
 # City of San Diego Privacy Notice
 
@@ -37,7 +37,7 @@ Notwithstanding the above provisions of this section, information submitted to t
 Any information collected by any City of San Diego website from children 13 and under are subject to the same guidelines of the City’s general privacy policy. In addition, for any information collected by or for any child under 13, the following guidelines will be followed: 
 
   * Information that could be collected from or for a minor includes, but not necessarily limited to: name, address, telephone number, e-mail address, school, hobbies and any question or comment submitted. 
-  * Parental Consent. [Parent includes legal guardian.
+  * Parental Consent. [Parent includes legal guardian.]
     * Parental consent will be obtained before collecting, using or disclosing personal information about a child. 
     * In the event that the City changes its practices of collecting, using or disclosing any information in a substantive way, new parental consent will be obtained. An example of a change may include, what material is collected, how the information may be used, or third party access to that information.
     * Upon verification of a child’s parent’s identity, the requesting parent will be able to review the personal information collected from their child.
