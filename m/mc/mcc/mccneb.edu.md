@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccneb.edu privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204100708id_/http%3A//www.mccneb.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccneb.edu privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603160929id_/http%3A//www.mccneb.edu/privacy.asp) for the most accurate reproduction.*
 
 # Metropolitan Community College of Omaha, Nebraska - Privacy Statement
 
