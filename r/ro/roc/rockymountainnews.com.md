@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the rockymountainnews.com privacy policy that was archived on 2002-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020222233410id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockymountainnews.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206065854id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.*
 
 # Rocky Mountain News
 
-**RockyMountainNews.com** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **RockyMountainNews.com** we intend to give you as much control as possible over your personal information. 
+  
+RockyMountainNews.com privacy policy
+
+ **January 10, 2001**
+
+ **RockyMountainNews.com** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **RockyMountainNews.com** we intend to give you as much control as possible over your personal information. 
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -50,5 +55,3 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 **VII. Use of Materials**
 
 The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **talktous@RockyMountainNews.com**. To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/home/article/1,1299,DRMN_1_3088,00.html). 
-
-**January 10, 2001**
