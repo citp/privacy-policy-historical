@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the surveyplanet.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616233853id_/http%3A//www.surveyplanet.com/AboutUs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyplanet.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201231400id_/http%3A//www.surveyplanet.com/AboutUs/privacy.asp) for the most accurate reproduction.*
 
-# SurveyPlanet - Privacy Policy
-
-|   
-**Privacy Policy**
+# SurveyPlanet
 
 At SurveyPlanet.com™ user privacy is of utmost concern. We are committed to your privacy and security, and to providing you the best possible user experience. This policy may be updated by us from time to time, so please check here frequently. 
 
@@ -58,5 +55,3 @@ We reserve the right at our discretion to make changes to this policy at any tim
 (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on SurveyPlanet, Inc., or its affiliates; 
 
 (2) protect and defend the property or rights of SurveyPlanet, Inc., and its affiliates or the users of the SurveyPlanet.com™ family of web sites. 
-
-|  |  
