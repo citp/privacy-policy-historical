@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webce.com privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605141053id_/http%3A//www.webce.com/privacy.asp%3Fvid%3D0456886574074074206132186140) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webce.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202141300id_/http%3A//www.webce.com/privacy.asp%3Fvid%3D020547453703703720417610626) for the most accurate reproduction.*
 
 # WebCE
 
