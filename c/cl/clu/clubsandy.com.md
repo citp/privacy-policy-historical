@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubsandy.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629045437id_/http%3A//www.clubsandy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubsandy.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204040228id_/http%3A//www.clubsandy.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
