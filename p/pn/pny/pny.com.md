@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204025715id_/http%3A//www.pny.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405204526id_/http%3A//www.pny.com/privacy.asp) for the most accurate reproduction.*
 
 # PNY
 
@@ -13,7 +13,7 @@
 | [How to Install](https://web.archive.org/install "How to Install")  
 | [OEM](https://web.archive.org/oem "Oem")  
 | [Configurator](https://web.archive.org/configurator "Configurator")  
-| [Shop PNY](https://web.archive.org/pnystore.asp "Shop PNY")  
+| [Shop PNY](https://pnyestore.pny.com/pnyestore.asp "Shop PNY")  
 |   
 ---  
   
