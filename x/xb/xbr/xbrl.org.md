@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xbrl.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621054318id_/http%3A//www.xbrl.org/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbrl.org privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001155957id_/http%3A//www.xbrl.org/privacypolicy.asp) for the most accurate reproduction.*
 
 # :: XBRL ::
 
@@ -27,7 +27,7 @@ To protect your privacy, XBRL.ORG follows the privacy and security policies outl
 |   
 ---  
   
-| •  **Nov 3-7, Seattle**  
+| •  **Assurance on XBRL**  
 ---  
-•  **"Fast Track to XBRL"**  
-•  **XBRL 2.1 Draft**
+•  **Updated XBRL 2.1**  
+•  **Nov 3-7, Seattle**
