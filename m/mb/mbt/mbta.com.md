@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810152215id_/http%3A//www.mbta.com/footer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614144926id_/http%3A//www.mbta.com/footer/privacy.asp) for the most accurate reproduction.*
 
 # MBTA - Massachusetts Bay Transportation Authority:Privacy Policy
 
@@ -116,7 +116,7 @@ Your feedback is valuable. It helps us meet our goal to provide safe, reliable, 
 
 [For All Inquiries Regarding the Maintenance of this Web Site](mailto:webmaster@mbta.com)
 
-[Feedback for Commendations, Complaints, Suggestions, Requests ](https://web.archive.org/web/20030810152215id_/http%3A//www.mbta.com/contact_us/index.asp)
+[Feedback for Commendations, Complaints, Suggestions, Requests ](https://web.archive.org/web/20040614144926id_/http%3A//www.mbta.com/contact_us/index.asp)
 
 You can also contact us:  
 By Telephone: (617) 222-3200  
