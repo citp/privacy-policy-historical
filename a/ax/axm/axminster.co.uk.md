@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axminster.co.uk privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215144256id_/http%3A//www.axminster.co.uk/default.asp%3Fsubmit%3DPublish%26what%3Dhelp%26page%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axminster.co.uk privacy policy that was archived on 2003-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030415214114id_/http%3A//www.axminster.co.uk/default.asp%3Fsubmit%3DPublish%26what%3Dhelp%26page%3D1) for the most accurate reproduction.*
 
 # Axminster Power Tool Centre
 
@@ -18,13 +18,13 @@ How to Order
   * Once you are happy to proceed click the 'Process Order' button.
   * You will be prompted to enter your personal details, if you have ordered previously your details will be displayed automatically otherwise click 'I am a New Customer' (providing you have 'Cookies' enabled).
   * Once you have entered all your details, click the 'Send Order' button.
-  * You will then receive a confirmation via email, if you do not receive a confirmation please contact Customer Service immediately click [here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactinfo&page=1) for details.
+  * You will then receive a confirmation via email, if you do not receive a confirmation please contact Customer Service immediately click [here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactus&page=1) for details.
 
 
 
 Web Help Line
 
-If you experience difficultly placing an on-line order, or you receive an error message you can speak to one of support personnel. Regrettably our support team can only deal with technical faults or problems with the Axminster Power Tool Centre web site. All other enquiries should be directed to Customer Service click [here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactinfo&page=1) for details.
+If you experience difficultly placing an on-line order, or you receive an error message you can speak to one of support personnel by phoning 0870 2417141 (Monday to Friday, 8am to 5.30pm) or send an email to [helpline@axminster.co.uk](mailto:helpline@axminster.co.uk). Regrettably our support team can only deal with technical faults or problems with the Axminster Power Tool Centre web site. All other enquiries should be directed to Customer Service click [here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactus&page=1) for details.
 
 Payment Information
 
@@ -44,13 +44,13 @@ Customer Service
 
 Our Customer Service team will be pleased to assist with enquiries concerning the processing of an existing order, short or non-delivery, customer returns, faults and any other problems:
 
-  * Complaints - Whilst we endeavour to provide a full and efficient service, errors do occur and any complaints should be advised to Customer Service click _[here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactinfo&page=1)_ for details. We will endeavour to respond to all complaints within five working days either by letter or email.
+  * Complaints - Whilst we endeavour to provide a full and efficient service, errors do occur and any complaints should be advised to Customer Service click _[here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactus&page=1)_ for details. We will endeavour to respond to all complaints within five working days either by letter or email.
 
 
-  * Returns Procedure - If it is necessary to return an item please contact Customer Service click [here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactinfo&page=1) for details, who will allocate an official Return Number and advise the correct procedure. Failure to obtain a Return Number may result in delay in dealing with your return. No replacements will be issued until the original item is returned. In all instances a copy of the invoice will be required. Goods should be returned in original packaging. In some instances handling charges may apply. Regrettably, we cannot be held responsible for postage costs incurred when returning items which have not been authorised by Customer Service or are being returned through no fault of Axminster Power Tool Centre. 
+  * Returns Procedure - If it is necessary to return an item please contact Customer Service click [here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactus&page=1) for details, who will allocate an official Return Number and advise the correct procedure. Failure to obtain a Return Number may result in delay in dealing with your return. No replacements will be issued until the original item is returned. In all instances a copy of the invoice will be required. Goods should be returned in original packaging. In some instances handling charges may apply. Regrettably, we cannot be held responsible for postage costs incurred when returning items which have not been authorised by Customer Service or are being returned through no fault of Axminster Power Tool Centre. 
 
 
-  * Your Right to Cancel - Under current legislation you have the right to cancel your order within 7 days without giving a reason for doing so, starting from the day after you receive your goods. Please contact Customer Service click [here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactinfo&page=1) for details.
+  * Your Right to Cancel - Under current legislation you have the right to cancel your order within 7 days without giving a reason for doing so, starting from the day after you receive your goods. Please contact Customer Service click [here](http://www.axminster.co.uk/default.asp?submit=Publish&what=contactus&page=1) for details.
 
 
 
