@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401095321id_/http%3A//www.fabulousfoods.com/community/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401183224id_/http%3A//www.fabulousfoods.com/community/privacypol.html) for the most accurate reproduction.*
 
 # FABULOUS FOODS
 
