@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019111536id_/http%3A//we.home.agilent.com/cgi-bin/bvpub/agilent/intl_bus/privacy.jsp%3FCOUNTRY_CODE%3DZZ%26LANGUAGE_CODE%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610190911id_/http%3A//we.home.agilent.com/cgi-bin/bvpub/agilent/intl_bus/privacy.jsp%3FCOUNTRY_CODE%3DZZ%26LANGUAGE_CODE%3Deng) for the most accurate reproduction.*
 
 # Agilent Technologies | Privacy Statement
 
 At Agilent Technologies, customers are our most valuable asset. We recognize that building a long-term business relationship with you depends a great deal on trust. This trust begins with our commitment to respecting as well as protecting your privacy. 
 
-An integral part of this commitment is our participation in the BBBOnLine Privacy Program. We proudly display the BBBOnLine Privacy Seal. 
+An integral part of this commitment is our participation in the BBBOnLine Privacy Program. We proudly display the BBOnLine Privacy Seal. Agilent privacy practices are also self-certified to the U.S. Department of Commerce Safe Harbor Program. 
 
 We've structured our web sites so that, in general, you can visit Agilent on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (name, address, e-mail address, phone number, etc.) you can be assured that it will only be used to support your customer relationship with Agilent. 
 
-Our privacy statement covers five main areas: Awareness, Choice, Access & Correction, Security, and Oversight. Please keep in mind that Agilent's privacy practices may vary as required by local laws and policies. 
+Our privacy statement covers six main areas: Notice, Choice, Access & Accuracy, Onward Transfer, Security, and Oversight/Enforcement. Please keep in mind that Agilent's privacy practices may vary as required by local laws and policies. 
 
-**1\. Awareness**
+**1\. Notice**
 
 Agilent provides this Online Privacy Statement to make you aware of our privacy practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and from the bottom of every Agilent.com and its subsidiaries' web pages. 
 
@@ -34,19 +34,25 @@ Agilent will not use or share the personally identifiable information provided t
 
 Your permission will always be secured first, should we ever decide to share your information with third parties that are not acting on our behalf and governed by our privacy policy. 
 
-**3\. Access & Correction **
+**3\. Onward Transfer**
+
+The personal information that you provide to us may be transferred within Agilent across state or country borders. This may be done to consolidate data storage and simplify the management of customer information. Please read the information in the Choice and Security sections regarding the practices that cover such transfers. 
+
+**4\. Access & Accuracy**
 
 Agilent strives to keep your personally identifiable information accurate. We will provide you with access to your information, including making every effort to provide you with online access to your registration data so that you may review, update or correct your information at the Agilent site where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. To access your individually identifiable information, return to the web page where you originally entered it and follow the instructions on that web page. If for some reason you cannot access your information on the web page, please telephone the nearest Agilent Call Center for assistance. You can also send your request to privacy_advocate@agilent.com. 
 
-**4\. Security**
+**5\. Security**
 
 Agilent is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. 
 
-**5\. Oversight**
+**6\. Oversight/Enforcement**
 
 Agilent participates in the Council of Better Business Bureau's BBBOnLine Privacy Program. This program applies to our U.S. and Canadian web sites only. Two integral parts of the BBBOnLine program are a third party oversight function and a dispute resolution process. Further information about BBBOnLine is available at http://www.bbbonline.org. 
 
-In addition, Agilent Technologies has an internal Customer Privacy Program. It is the charter of this program to ensure appropriate privacy processes are in place in order to meet the practices outlined above. 
+Agilent privacy practices are also self-certified to the U.S. Department of Commerce Safe Harbor Program. For more information about the Safe Harbor Program, please go to http://www.export.gov/safeharbor/. 
+
+In addition, Agilent Technologies has an internal Customer Privacy Program.It is the charter of this program to ensure appropriate privacy processes are in place in order to meet the practices outlined above. 
 
 **Additional Information**
 
@@ -56,13 +62,19 @@ Links to third party web sites are provided solely as a convenience to you. If y
 
 **How Agilent Uses Cookies**
 
-A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, then your browser adds the text in a small file. The purpose of a cookie is to help us analyze web traffic or let us know when you visit a particular site. Cookies allow a web application to respond to you as an individual. By gathering and remembering information about your preferences, the web application can tailor its operation to your needs, likes and dislikes. 
+A cookie is a piece of information either stored temporarily in your browser's memory space (session cookie) or placed on your computer's hard drive (stored cookie). Many stored cookies also have a predetermined expiration date after which they disappear from your hard drive or they can be removed explicitly through functionality built into most web browsers. You may set your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, ask for permission to accept them, or decline cookies completely. 
 
-A few Agilent.com web sites use temporary cookies as part of the customer web navigation experience, tracking unique IDs for that particular web site session only. This cookie, by itself, only tells us that a previous Agilent.com visitor has returned. If you deny the cookie, you can still use the site anonymously. Certain Agilent web sites use cookies to provide an automated log-in process for previously registered customers. This insures that you will be accurately identified and linked with your registration data. 
+**Session Cookies**
 
-Overall, cookies help us give you a better web site to use, by letting us monitor what's working and what isn't through site traffic analysis. Agilent wants to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you chose to share with us. This practice is strictly enforced. We know that a lot of people have concerns about cookies, but in talking with many of our customers, we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. Agilent works to continuously improve the Agilent.com web experience and personal data privacy policy and practices. 
+Session cookies are used to help us analyze web traffic or to improve your web navigation experience by tracking a unique ID for that particular web site session only which helps us identify you each time you return to our web site during a browsing session. These cookies are destroyed when you terminate your browsing session by shutting down your browser. Session cookies allow a web application to respond to you as an individual, but without the need to identify you explicitly. 
 
-You may set your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contains cookies; those files are stored as part of your internet browser. 
+**Stored Cookies**
+
+By gathering and remembering information about your preferences, the web application can tailor its operation to your needs, likes and dislikes. Certain Agilent web sites use cookies to provide an automated login process as a convenience for previously registered customers. This insures that you will be accurately identified and linked with your registration data. A cookie may also be placed on your computer to ensure you are not surveyed multiple times during your visit(s) to an Agilent web site. This cookie has a limited life span and will not personally identify you. 
+
+One of the major concerns about stored cookies is the fear that they contain personal data and information identifying you that could be accessed by other web sites. Agilent only stores a randomly chosen unique ID number and a context, both of which are meaningless to others but help us identify you in the context of the specific web functionality you are accessing. 
+
+Overall, cookies help us give you a better web site to use, by letting us monitor what's working and what isn't through site traffic analysis. Agilent wants to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you chose to share with us. This practice is strictly enforced. We know that a lot of people have concerns about cookies, but in talking with many of our customers, we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. Agilent works to continuously improve the your Agilent web experience and our data privacy policies and practices 
 
 **Contact Information**
 
