@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the foodtv.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331100235id_/http%3A//www.foodtv.com/gateway/privacypolicy/0%2C1899%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodtv.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018134353id_/http%3A//www.foodtv.com/gateway/privacypolicy/0%2C3906%2C%2C00.html) for the most accurate reproduction.*
 
 # Food Network: Privacy Policy
 
 |   
-All materials on this site © 2000 Television Food Network, G.P. or used with permission. All rights reserved. Food Network and FoodTV.Com are trademarks of the Company. Some photos on this site copyright 2000 PhotoDisc Inc. 
+All materials on this site © 2001 Television Food Network, G.P. or used with permission. All rights reserved. Food Network and FoodTV.Com are trademarks of the Company. Some photos on this site copyright 2001 PhotoDisc Inc. 
 
 Food Network  
-1180 6th Avenue  
+1180 Avenue of the Americas, 11th Floor  
 New York, NY 10036
 
 **Privacy Policy**  
@@ -34,7 +34,7 @@ Questions regarding our Privacy Policy, the accuracy of your personal informatio
 
 Food Network  
 Attn: Web Site Privacy Policy  
-1177 Avenue of the Americas, 31st Floor  
+1180 Avenue of the Americas, 11th Floor  
 New York, NY 10036 
 
 These privacy policies are effective as of March 1, 1999. We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. 
