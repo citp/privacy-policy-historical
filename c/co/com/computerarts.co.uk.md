@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerarts.co.uk privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209114812id_/http%3A//www.computerarts.co.uk/_library/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerarts.co.uk privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401174647id_/http%3A//www.computerarts.co.uk/_library/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy covering the websites of Future Publishing Ltd
 
