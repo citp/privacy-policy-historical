@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southeasttexas.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206152340id_/http%3A//www.southeasttexas.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southeasttexas.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603055010id_/http%3A//www.southeasttexas.com/privacy.cfm) for the most accurate reproduction.*
 
 # SoutheastTexas.com - Disclaimer
 
