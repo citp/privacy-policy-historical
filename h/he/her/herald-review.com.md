@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207032034id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205005956id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.*
 
 # Herald & Review Newspaper Website - Decatur, Illinois
 
@@ -41,4 +41,4 @@ Children should always get permission from their parents before sending any info
 
 The Herald & Review is affiliated with other online companies, some of which feature our branding. This policy statement does not apply to those companies' web sites; please refer to these affiliated sites to obtain information on their privacy policies. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
 
-E-mail comments to the Herald & Review at [ggrooms@herald-review.com](mailto:ggrooms@herald-review.com)
+E-mail comments to the Herald & Review at [rspangler@herald-review.com](mailto:ggrooms@herald-review.com)
