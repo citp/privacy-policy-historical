@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cari.com.my privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216204958id_/http%3A//www.cari.com.my/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.com.my privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603125145id_/http%3A//www.cari.com.my/privacy_policy.php) for the most accurate reproduction.*
 
-# Malaysia? = CARI !!!
+# Malaysia? = CARI!!
 
 **CARI's Online Privacy Policy**
 
