@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vetfriends.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209003000id_/http%3A//www.vetfriends.com/vetfriends.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetfriends.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605172200id_/http%3A//www.vetfriends.com/vetfriends.html) for the most accurate reproduction.*
 
 # US Military Veteran Locator -- VetFriends.com
 
