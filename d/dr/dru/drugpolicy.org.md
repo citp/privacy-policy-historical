@@ -1,0 +1,28 @@
+> *The following text is extracted and transformed from the drugpolicy.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621085434id_/http%3A//drugpolicy.org/privacy) for the most accurate reproduction.*
+
+# Drug Policy Alliance
+
+We are committed to protecting your privacy. To make your experience at our Website more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information. 
+
+**What personal information do we collect, and how is it used?**  
+We collect information on portions of our website visitors access or visit. We also collect information volunteered by visitors, such as survey information and/or Web site registrations. We keep confidential all personal information entered during registration. When we do collect personally identifiable information, it is always voluntarily submitted by you (e.g., when you fill out registration pages or send us feedback). The information collected is used to send our users email reminders and other information we think will be of interest. If, for any reason, you would like to be removed from our email list, you can unsubscribe by simply visiting the registration section of our website and clicking the unsubscribe button, or you can opt-out of future mailings by simply stating this desire in a reply to any email we send you. We may also monitor and track information such as customer usage patterns of our website. We compile this information into a statistical aggregate which we use, together with your personal information, for internal business and administrative purposes including improving our website, our operations and our client service.
+
+**Exchange of Drug Policy Alliance Member Addresses**  
+Names and postal addresses of current and former members of the Drug Policy Alliance may be rented or exchanged with other organizations or publications under the procedures outlined below. Email addresses, however, will NEVER be shared, traded or otherwise divulged.
+
+Like most other non-profit membership organizations, the Drug Policy Alliance obtains the names of potential new members by renting the membership lists or subscriber lists of like-minded organizations and publications. Lists may also be exchanged with other organizations. Whether by exchange or rental, the lists are protected by strict privacy procedures. All exchanges are made on a ""blind"" basis. Lists are never given into the physical possession of the organization which has rented or exchanged them. This safeguard is necessary to prevent one organization from knowing who the members of any other organization are. Instead, usually through a list broker, the list, either in the form of labels or electronic media, is sent to a mail house which prepares the mailing without the mailing organization ever seeing who is on the rented or exchanged list. The only time an organization gets possession of a name from a rented or exchanged list is when the person receiving the invitation to join responds by sending a reply back to the inviting organization. The Drug Policy Alliance will contractually ensure that vendors involved in this process hold all member addresses in strict confidence and do not offer lists to third parties.
+
+The Drug Policy Alliance will always honor a member's request to be withheld from lists made available for exchange or rental. If you would like to make such a request, please contact the membership department at membership@drugpolicy.org or (212) 613-8046.
+
+We keep confidential any personal information entered during registration, though we may share aggregate information about website usage and traffic patterns, stripped of any personally identifiable information, to third parties to comply with various reporting obligations and for business or marketing purposes. We may also share limited personally identifiable information with third parties on a confidential basis to enable a third party to perform certain tasks, such as maintain an email list or send email alerts and/or newsletters, on our behalf.
+
+**Use of Cookies**  
+Cookies are pieces of information that are stored on your computer and are used for record keeping purposes. We use cookies to make visiting and using our website easier. Cookies can help us see which parts of our website are the most or least popular and provide us direction to improve our customer's online experience.
+
+**Links to Other Sites**  
+This website provides links to several other third party websites. While we make efforts to choose our links carefully, we cannot take any responsibility for the content of linked websites, or for the privacy policies of websites we link to. Since we do not control these websites, we encourage you to review the privacy policies posted on these third party websites prior to any use.
+
+**Privacy Policy Changes**  
+We may amend this privacy policy from time to time. We will post electronic announcements on the website notifying you of any revisions to this Privacy Statement. Please review all revisions to our policy. We maintain the option to change this Privacy Statement at any time by electronic notice posted on our website. Your continued use of our website after the date that such notices are posted will be deemed to be your agreement to the changed terms.
+
+If you have any further questions regarding our privacy practices, please send email to [webmaster@drugpolicy.org](mailto:webmaster@drugpolicy.org)
