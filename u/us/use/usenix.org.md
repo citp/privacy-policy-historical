@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801135833id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607033402id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
 
 # USENIX - USENIX/SAGE Membership - Privacy Statement
 
@@ -24,11 +24,11 @@ USENIX uses the postal addresses of its members to mail invoices, products, and 
 
 ### Opt-Out
 
-Our site gives you the opportunity to opt out from receiving email communications or from having your name and address made available to anyone other than the USENIX Association. When registering for a conference, you have the option not to have your name included on the Attendee list. 
+Our site gives you the opportunity to opt out from receiving email communications or from having your name and address made available to anyone other than the USENIX Association. When registering for a conference, you also have the option not to have your name included on the attendee list. 
 
 ### Change/Modify
 
-The USENIX site gives members the opportunity to change information previously provided, by using the online form found at [ www.usenix.org/membership/](http://www.usenix.org/membership/), by phone to 510 528 8649, by fax to 510 548 5738, or by email to [office@usenix.org](mailto:office@usenix.org). Note: Information is always updated whenever a new conference registration occurs or upon renewal of membership. 
+The USENIX site gives members the opportunity to change information previously provided, by using the [ online form](https://db.usenix.org/cgi-bin/memb/memb.cgi?action=update), by phoning 510 528 8649, by faxing to 510 548 5738, or by sending email to [office@usenix.org](mailto:office@usenix.org). Note: Information is always updated whenever a new conference registration occurs and upon renewal of membership. 
 
 ### Links
 
