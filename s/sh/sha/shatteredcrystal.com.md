@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602051614id_/http%3A//www.shatteredcrystal.com/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018233538id_/http%3A//www.shatteredcrystal.com/pp.shtml) for the most accurate reproduction.*
 
 # SHATTERED CRYSTAL INC Privacy Statement
 
-[](http://www.ugo.com/) |    
-Shattered Crystal Gaming Network | [](http://www.shatteredcrystal.com/)  
+[](http://www.ugo.com/) |  |    
 ---|---|---  
   
 **SHATTERED CRYSTAL INC.** **PRIVACY STATEMENT **
@@ -105,4 +104,6 @@ Users of our site are always notified when their information is being collected 
   
 ---|---  
   
+[](http://www.webtrendslive.com/redirect.asp?siteID=4378)
+
 The fine print: Any information sent in becomes property of Shattered Crystal Inc..  Original artwork and content is owned by Shattered Crystal Inc. and may not be used without written permission.  [You may however link to our site without any need for permissions](http://www.markeedragon.com/link_to_us.asp). All content, Graphics and scripts are copyright © Shattered Crystal Inc 2000 and we do actively protect our content. All copyrights © are held by respective owners on in game screenshots and other in game content that is protected. If you feel that this site or any other site in our network is infringing on your copyright please [email us](mailto:markeedragon@shatteredcrystal.com).  Markee Dragon™ Shattered Crystal Inc. urges you to read our [privacy policy](http://www.shatteredcrystal.com/pp.shtml). 
