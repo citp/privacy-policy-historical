@@ -1,25 +1,33 @@
-> *The following text is extracted and transformed from the easywebpromotion.com privacy policy that was archived on 2002-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020811025919id_/http%3A//easywebpromotion.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easywebpromotion.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611031155id_/http%3A//www.bbfree.com/privacy.php) for the most accurate reproduction.*
 
-# 123 hosting.com
+# BBFree.com - Free Forum Hosting Network
 
-**Privacy Policy **
+  
+  
+Hosting **9346** Forums  
+Since August 5th / 03
 
-This Privacy Policy governs the manner in which unlimitedwebspacehosting.com collects, uses, maintains and discloses information collected from users of this Web site (each, a "User").
+|   | 
 
- **Privacy**  
-Users’ privacy is very important to unlimitedwebspacehosting.com. unlimitedwebspacehosting.com is committed to safeguarding the information Users entrust to unlimitedwebspacehosting.com. This Web site is not directed at children under 13 years of age.
+### Privacy Policy
 
- **The Information We Collect**  
-unlimitedwebspacehosting.com may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. unlimitedwebspacehosting.com may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users’ PC and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site.
+* * *
 
- **How We Use Information**  
-unlimitedwebspacehosting.com may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by unlimitedwebspacehosting.com and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users’ experience with unlimitedwebspacehosting.com and such affiliates, independent contractors and business partners. unlimitedwebspacehosting.com may also use information collected through our Web site for research regarding the effectiveness of the Web site and the marketing, advertising and sales efforts of unlimitedwebspacehosting.com, its trusted affiliates, independent contractors and business partners.
+At BBFREE we are committed to protecting your privacy online. Our Privacy Policy demonstrates our firm commitment to protecting the privacy of our clients. 
 
- **Disclosure of Information**  
-unlimitedwebspacehosting.com may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of unlimitedwebspacehosting.com’s business.
+We use the information that we collect about our clients to fulfill product and service requests, and to create a more personalized online experience. When you register at BBFREE, we collect information, or Personally Identifiable Information, from you such as your name, email address and usernames / passwords. 
 
- **Maintenance of Information**  
-Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
+BBFREE does not sell or rent your information to others. BBFREE uses customer information only for the purposes of filling orders, contacting clients to inform them of their order status, sending promotional information, and enhancing the user experience. At BBFREE you can be assured that your transactional information is secure, consistent with current industry standard encryption technology. 
 
- **Questions**  
-Users may direct questions concerning this Privacy Policy by e-mail to privacy@unlimitedwebspacehosting.com. Users may have their personally identifiable information removed from unlimitedwebspacehosting.com’s database by sending an e-mail with the word "REMOVE" in the subject field to [privacy@unlimitedwebspacehosting.com](mailto:privacy@interland.com).
+The importance of security for all transactional information associated with our customers is of utmost concern to us. Our secure servers protect the information using state of the art firewall technology. All customer transactional account information is kept on a secure server. 
+
+Please be aware that our site may contain advertisements and links to other sites on the Internet that are owned and operated by third parties. The information practices of those websites linking from or to our site are not covered by the BBFREE Privacy Policy. BBFREE has no control over the use or disclosure of user data on other sites on the Internet and we recommend that you review the privacy policies of such sites to determine your privacy rights on such sites. 
+
+Copyright Notice
+
+All content included on this site, such as text, graphics, logos, button icons, images, audio clips, and software, is the property of BBFREE and is protected by international copyright laws. The compilation (meaning the collection, arrangement, and assembly) of all content on this site is the exclusive property of BBFREE and protected by international copyright laws. The content and software on this site may be used as a shopping, selling, and email resource. Any other use, including the reproduction, modification, distribution, transmission, republication, display, or performance, of the content on this site is strictly prohibited
+
+BBFREE will remain committed to protecting your privacy online. We may change our Privacy Policy from time to time. When such a change is made, we will post the revised Privacy policy on our website so please bookmark this page and check back periodically. Any changes, corrections or updates to your transactional information can be edited during the ordering process. 
+
+|    
+---|---|---|---
