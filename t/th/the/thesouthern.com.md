@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the thesouthern.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609231731id_/http%3A//www.thesouthern.com/template.php%3Fp%3Dspecial/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesouthern.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208005712id_/http%3A//www.thesouthern.com/template.php%3Fp%3Dspecial/privacy.php) for the most accurate reproduction.*
 
 # The Southern Illinoisan
 
 **Privacy Policy**
 
-**The Southern Illinoisan Privacy Policy Statement:**
+The Southern Illinoisan Privacy Policy Statement:
+
+Welcome to the Southern Illinoisan. We believe in your right to know what information is collected during your visit to our web site and how the information is used and safeguarded.
 
 The information gathered by the Southern Illinoisan website falls into two categories: 
 
@@ -15,7 +17,7 @@ The information gathered by the Southern Illinoisan website falls into two categ
 
 Other information this Policy Statement site includes:
 
-  * ******Do not call policy**
+  * **Do not call policy**
   * **Information Shared With Other Organizations**
   * **Special Attention to Children**
   * **A final note**
@@ -24,9 +26,9 @@ Other information this Policy Statement site includes:
 
 * * *
 
-**Information Gathered by Voluntary Submission**
+**InformationGathered by Voluntary Submission**
 
-To make use of certain features on our websites (such as free email, personal web pages, chatrooms and other interactive forums) visitors need to register and to provide certain information as part of the registration or participation process. (We may ask, for example, for your name, email address, sex, age, and zip code, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) 
+To make use of certain features on our websites (such as free email, personal web pages, chatrooms and other interactive forums) visitors need to register and toprovide certain information as part of the registration or participation process. (We may ask, for example, for your name, email address, sex, age, and zip code, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) 
 
 The information you supply will help us to offer you more personalized features, to tailor our sites to your interests and make them more useful to you. The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our sites. Of course, even if you want to remain completely anonymous, you're still free to take advantage of the wealth of content available on our sites without registration.
 
