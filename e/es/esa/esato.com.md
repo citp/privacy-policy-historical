@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esato.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216013829id_/http%3A//esato.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esato.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610134305id_/http%3A//www.esato.com/about/privacy.php) for the most accurate reproduction.*
 
-# Esato - Privacy Statement
+# Privacy Statement
 
   
 Privacy Statement for www.esato.com
