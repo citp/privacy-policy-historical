@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wgbh.org privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203202132id_/http%3A//www.wgbh.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wgbh.org privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204090132id_/http%3A//www.wgbh.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 3.2//en"><html><head>
 <title>WGBH Privacy Policy</title>
@@ -188,6 +188,19 @@ function openWindow( url, w, h, name ) {
 }
 </script>
 
+<script language="Javascript">
+function openWindowWithRedirect( url, redirect, w, h, name ) {
+
+	optionStr = "scrollbars=no,location=no,toolbar=no,width=" + w + ",height=" + h;
+    if (name != "") {
+    	helpWindow = window.open( url, name, optionStr );
+    } else {
+    	helpWindow = window.open( url, "content", optionStr );
+    }
+    location.href=redirect
+}
+</script>
+
 
 <script language="JavaScript">
 <!--
@@ -199,11 +212,10 @@ self.name="wgbh_main"
 
 </head>
 
-<body bgcolor="#7389B2" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#ffffff" link="#B0DFFF" vlink="#DCCBEF" onload="P7_setMenuMagic1(10,200,10,'p7menubottom','p7menu1','p7submenu1','p7mbut1','p7menu2','p7submenu2','p7mbut2','p7menu3','p7submenu3','p7mbut3','p7menu4','p7submenu4','p7mbut4','p7menu5','p7submenu5','p7mbut5','p7menu6','p7submenu6','p7mbut6','p7menu7','p7submenu7','p7mbut7','p7menu8','p7submenu8','p7mbut8','p7menu9','p7submenu9','p7mbut9','p7menu10','p7submenu10','p7mbut10','p7menu11','p7submenu11','p7mbut11','p7menu12','p7submenu12','p7mbut12')">
+<body bgcolor="#7389B2" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#ffffff" link="#B0DFFF" vlink="#DCCBEF" onload="P7_setMenuMagic1(10,200,10,'p7menubottom','p7menu1','p7submenu1','p7mbut1','p7menu2','p7submenu2','p7mbut2','p7menu3','p7submenu3','p7mbut3','p7menu4','p7submenu4','p7mbut4','p7menu5','p7submenu5','p7mbut5','p7menu6','p7submenu6','p7mbut6','p7menu7','p7submenu7','p7mbut7','p7menu8','p7submenu8','p7mbut8','p7menu9','p7submenu9','p7mbut9','p7menu10','p7submenu10','p7mbut10','p7menu11','p7submenu11','p7mbut11','p7menu12','p7submenu12','p7mbut12','p7menu13','p7submenu13','p7mbut13','p7menu14','p7submenu14','p7mbut14','p7menu15','p7submenu15','p7mbut15')">
 
 
 <!-- start Magic Menu divs -->
-
 
 
 <div id="p7menu1" style="position:absolute; left:0px; top:102px; width:175px; z-index:111"><a href="/" onmouseover="P7_rollCMenu1(event,'p7menu1',0)" onmouseout="P7_rollCMenu1(event,'p7menu1',0)" onfocus="if(this.blur)this.blur()"><img src="/images/nav/support/home.gif" width="175" height="25" name="p7mbut1" border="0" alt="Home"></a></div>
@@ -220,10 +232,8 @@ self.name="wgbh_main"
 <div id="p7menu11" style="position: absolute; left: 0px; top: 352px; width: 175px; z-index: 121;"><a href="/shop/" onmouseover="P7_rollCMenu1(event,'p7menu11',0)" onmouseout="P7_rollCMenu1(event,'p7menu11',0)" onfocus="if(this.blur)this.blur()"><img src="/images/nav/support/shop.gif" width="175" height="25" name="p7mbut11" border="0" alt="Shop"></a></div>
 
 
-
 <div id="p7submenu1" class="pviimenudiv" style="position: absolute; left: 202px; top: 102px; width: 165px; visibility: visible; z-index: 101;"> 
 </div>
-
 <div id="p7submenu2" class="pviimenudiv" style="position: absolute; left: -185px; top: 127px; width: 165px; visibility: visible; z-index: 102;"> 
   <table width="165" border="0" cellspacing="3" cellpadding="0">
     <tbody><tr> 
@@ -253,9 +263,8 @@ self.name="wgbh_main"
       <td><a href="/webcasts/">Webcasts Home</a></td>
     </tr>
     <tr> 
-      <td><a href="javascript:openWindow('http://streams.wgbh.org/wgbh',386,452,'897_stream');">Listen WGBH 89.7</a></td>
-    </tr>
-    <tr> 
+      <td><a href="javascript:openWindow('http://streams.wgbh.org/wgbh/',386,452, '897_stream');">Listen WGBH 89.7</a></td>
+    </tr><tr> 
       <td><a href="javascript:openWindow('http://streams.wgbh.org/cainan',386,452, 'cainan_stream');">Listen Cape &amp; Islands</a></td>
     </tr>
   </tbody></table>
@@ -270,6 +279,9 @@ self.name="wgbh_main"
     <tr> 
       <td><a href="/resources/">Resources</a></td>
     </tr>
+    <tr> 
+      <td><a href="/support/member_benefits/learntours">WGBH LearningTours</a></td>
+    </tr>
   </tbody></table>
 </div>
 <div id="p7submenu7" class="pviimenudiv" style="position: absolute; left: -185px; top: 252px; width: 165px; visibility: visible; z-index: 107;"> 
@@ -281,7 +293,7 @@ self.name="wgbh_main"
       <td><a href="/support/major_planned_giving/">Major &amp; Planned Giving</a></td>
     </tr>
     <tr> 
-      <td><a href="/support/pledge/">Give Securely Online</a></td>
+      <td><a href="/support/pledge/annualfund">Annual Fund Support</a></td>
     </tr>
     <tr> 
       <td><a href="/support/volunteer">Volunteer</a></td>
@@ -297,16 +309,16 @@ self.name="wgbh_main"
 <div id="p7submenu8" class="pviimenudiv" style="position: absolute; left: -185px; top: 277px; width: 165px; visibility: visible; z-index: 108;"> 
   <table width="165" border="0" cellspacing="3" cellpadding="0">
     <tbody><tr> 
-      <td><a href="/about">Welcome to WGBH</a></td>
-    </tr>
-    <tr> 
       <td><a href="http://main.wgbh.org/wgbh/about/index.html">All About Us</a></td>
     </tr>
     <tr> 
-      <td><a href="http://pressroom.wgbh.org/wgbh_news.html">Latest News</a></td>
+      <td><a href="http://pressroom.wgbh.org/pages/wgbh.html">Latest News</a></td>
     </tr>
     <tr> 
       <td><a href="http://main.wgbh.org/wgbh/jobs/index.html">Careers at WGBH</a></td>
+    </tr>
+    <tr> 
+      <td><a href="http://main.wgbh.org/wgbh/producingfortv/">Producing for WGBH</a></td>
     </tr>
     <tr> 
       <td><a href=" http://main.wgbh.org/wgbh/access/index.html">Services for People with Disabilities</a></td>
@@ -325,8 +337,9 @@ self.name="wgbh_main"
 
 
 
-
 <!-- end Magic Menu divs -->
+
+
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="699">
@@ -357,7 +370,7 @@ self.name="wgbh_main"
 		<!-- left nav -->
 		</td>
 		<!-- start needed for high-bandwidth -->		
-		<td width="15" height="400" rowspan="2" class="contentBody"><img src="/images/spacer.gif" width="15" height="400" hspace="0" vspace="0"></td>
+		<td width="15" height="800" rowspan="2" class="contentBody"><img src="/images/spacer.gif" width="15" height="800" hspace="0" vspace="0"></td>
 		<td width="509" height="7" colspan="2" class="contentBody"><img src="/images/spacer.gif" width="509" height="7" hspace="0" vspace="0"></td>
 		<!-- end needed for high-bandwidth -->
 	</tr>
@@ -539,16 +552,29 @@ By using this site, you signify your agreement to the terms and conditions of th
 						</table -->
                         <a href="/about/privacy">Privacy Policy</a>&nbsp;|&nbsp;
                         <a href="/about/kidsprivacy">Kids Policy</a>&nbsp;|&nbsp;
-						<a href="/about/copyright">Copyright 2003</a>&nbsp;|&nbsp;
+						<a href="/about/copyright">Copyright 2004</a>&nbsp;|&nbsp;
                         <a href="/about/tos">Terms of Service</a>
 					</td>
 				</tr>
 			</tbody></table>
 		</td>
-		<td width="7" height="52" class="thanks"><img src="/images/spacer.gif" width="15" height="52"></td>
+		<td width="7" height="52" class="thanks"><img src="/images/spacer.gif" width="15" height="52">
+
+
+<!-- BEGIN IBM SURFAID CODE -->
+<!-- Copyright IBM Corporation, 2001, 2002 -->
+<script language="JavaScript1.1" type="text/javascript">var SA_ID="nprpix;npr";</script>
+<script language="JavaScript1.1" type="text/javascript" src="http://stats.surfaid.ihost.com/sacdcoc.js"></script>
+<noscript><img src="http://stats.surfaid.ihost.com/rc/images/uc.GIF?1.11&amp;nprpix&amp;npr&amp;noscript" height="1" width="1" alt="" border="0"></noscript>
+<!-- END IBM SURFAID CODE -->
+
+
+
+        </td>
 	</tr>
 </tbody></table>
 
+<!-- 192.168.40.33 -->
 
 
 
