@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216213431id_/http%3A//norml.org/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208112727id_/http%3A//norml.org/about/privacy.shtml) for the most accurate reproduction.*
 
 # NORML's Privacy Statement
 
