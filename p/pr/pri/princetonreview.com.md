@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013012724id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621100106id_/http%3A//princetonreview.com/footer/privacy_policy.asp) for the most accurate reproduction.*
 
 # The Princeton Review
 
@@ -24,6 +24,9 @@ We work with schools and institutions to provide programs such as test preparati
 COPPA Compliance  
 The Princeton Review is in complete accordance with the Children's Online Privacy Protection Act of 1998. Except for K-12 students who participate in our Homeroom or ECOS product, we do not accept personally identifiable information online from children under the age of 13. (For more information on Homeroom or ECOS, please see below.) If we become aware that our records contain such information, we will delete it.
 
+Marketing Lists  
+From time to time, we obtain lists of people who may be interested in our products and services from third-party marketing list suppliers. We use these lists to send direct marketing promotions by mail or by email. We do our best to only obtain these lists from suppliers who have opt-in policies for third-party marketing, but we are not responsible for the conduct and policies of these suppliers. Please note that even if you are a registered customer of ours and have asked us not to use the information you provided to us to send you promotional material, a third-party marketing list supplier could still provide us with your name and address, in which case you will receive the promotional material sent by us to others on the supplier's list. If you have received a promotion from us and do not wish to receive future promotions, please contact us at: [privacy@review.com](mailto:privacy@review.com). 
+
 LIVE COURSES
 
 Subscriptions   
@@ -32,7 +35,7 @@ Many of our course students are given supplemental materials to help them prepar
 * For classes sold directly to students or their parents:  
 TIME: All SAT, ACT, GRE, GMAT, LSAT and MCAT classroom, tutoring and online course students for six months (students in school-based courses are not eligible for this offer)  
 The Wall Street Journal: All GMAT, GRE, MCAT and LSAT classroom, tutoring and online course students for one year  
-BusinessWeek: All GMAT course and tutoring students for one year
+
 
 ON THE INTERNET
 
@@ -144,8 +147,6 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 7\. How you can correct any inaccuracies in the information   
 If you have questions or concerns regarding this statement, you should first contact privacy@review.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-The Princeton Review also participates in the Council of Better Business Bureaus' BBBOnLine Privacy Program, and complies with all the BBBOnLine Privacy standards. Further information about this program is available at www.bbbonline.org. 
 
 Notification of Changes
 
