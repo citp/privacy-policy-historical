@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2000-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000901230500id_/http%3A//news-gazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603033124id_/http%3A//www.news-gazette.com/privacy) for the most accurate reproduction.*
 
 # privacy.html
 
@@ -61,4 +61,4 @@ If you have questions about our privacy policy, please contact Jean McDonald at 
 
 ### [Return to The News-Gazette Online Home Page](http://www.news-gazette.com/)
 
-[©2000 The News-Gazette](https://web.archive.org/web/20000901230500id_/http://news-gazette.com/privacy/AboutNG/copyright/index.html)
+[©2001 The News-Gazette](https://web.archive.org/web/20010603033124id_/http%3A//www.news-gazette.com/AboutNG/copyright/index.html)
