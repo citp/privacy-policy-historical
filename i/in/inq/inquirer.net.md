@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inquirer.net privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217223823id_/http%3A//www.inq7.net/inq7_policy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquirer.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604182004id_/http%3A//www.inq7.net/inq7_policy/privacy_policy.htm) for the most accurate reproduction.*
 
 # INQ7 An Inquirer GMA Network Company
 
@@ -27,7 +27,7 @@ This website has agreed to notify you of:
 
 The Inq7.net is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. The Inq7.net collects information from our users at several different points on our website.
 
-_This site, Inq7.net, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to[http://www.engage.com/privacy](https://web.archive.org/web/20011217223823id_/http%3A//www.inq7.net/inq7_policy/%3Cfont%20SIZE%3D%223%22%3E%3Ci%3Ehttp://www.engage.com/privacy%3C/i%3E%3C/font%3E). _
+_This site, Inq7.net, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to[http://www.engage.com/privacy](https://web.archive.org/web/20020604182004id_/http%3A//www.inq7.net/inq7_policy/%3Cfont%20SIZE%3D%223%22%3E%3Ci%3Ehttp://www.engage.com/privacy%3C/i%3E%3C/font%3E). _
 
 **Online surveys and promos**
 
@@ -57,7 +57,7 @@ These parties are not allowed to use personally identifiable information except 
 
 **Links**
 
-This website contains links to other sites. Please be aware that the Inq7.net is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. Read our [LINK POLICY](https://web.archive.org/web/20011217223823id_/http%3A//www.inq7.net/inq7_policy/link_policy.htm).
+This website contains links to other sites. Please be aware that the Inq7.net is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. Read our [LINK POLICY](https://web.archive.org/web/20020604182004id_/http%3A//www.inq7.net/inq7_policy/link_policy.htm).
 
 **Notification of changes**
 
