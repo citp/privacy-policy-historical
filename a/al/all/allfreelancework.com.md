@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204070515id_/http%3A//www.allfreelancework.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207060652id_/http%3A//allfreelancework.com/privacy.php) for the most accurate reproduction.*
 
 # All Freelance Work : Self-Employed jobs: Contractors : Consultants : Independent Professionals
 
 |   | 
 
-[**Home**](https://web.archive.org/web/20041204070515id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
+[**Home**](https://web.archive.org/web/20050207060652id_/http%3A//allfreelancework.com/indexx.html) **PRIVACY POLICY**
 
 This is the web site of **AllFreelance**.  
 
@@ -57,11 +57,11 @@ Learn Graphic Design or Web Design with Art Institute Online.
 
 [](http://www.tkqlhce.com/4m115vpyvpxCIGJKHJCEEHGJMD)
 
+[](http://allfreelance.tradepub.com/) 
+
 [](http://www.elance.com/c/cats/main/sellers.pl?&rid=12BN)
 
 [ ](http://www.freetrademagazinesource.com/referralsin.aspx?AffiliateID=84798074)[](http://allfreelance.tradepub.com/) 
-
-[](http://click.linksynergy.com/fs-bin/click?id=kaYZeWJa*z8&offerid=61127.10000041&subid=0&type=4)
 
 [](http://hop.clickbank.net/hop.cgi?afwork2%20/howtopub)
 
