@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008101332id_/http%3A//www.ebooks.com/information/privacy.smm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607021159id_/http%3A//www.ebooks.com/information/privacy.smm) for the most accurate reproduction.*
 
 # eBooks.com - Help
 
 ####   About the Privacy Policy
 
-eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](http://www.ebooks.com/information/terms.smm) which govern this Website.   
+eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](https://web.archive.org/information/terms.smm) which govern this Website.   
 
 
 #####   Collection of Personal Information
@@ -48,7 +48,7 @@ eBooks.com takes your privacy and the privacy of all its customers very seriousl
 
 If you have any concerns about your privacy and the use of the Website or any of eBooks.com's services or products, please contact [privacy@eBooks.com](mailto:privacy@eBooks.com). 
 
-You may request that we provide you with a copy of the personal information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](http://www.ebooks.com/help/support-form.smm) and providing the requested details. 
+You may request that we provide you with a copy of the personal information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](https://web.archive.org/help/support-form.smm) and providing the requested details. 
 
 #####   E-commerce Policy
 
