@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the state.nh.us privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217221423id_/http%3A//www.state.nh.us/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nh.us privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204122957id_/http%3A//www.state.nh.us/disclaimer.html) for the most accurate reproduction.*
 
 # NH Disclaimer Statements [Webster]
 
 ****
 
-**[ Government in NH](https://web.archive.org/government/index.html)   
-[Living in NH](https://web.archive.org/living/index.html)   
-[Working in NH](https://web.archive.org/working/index.html)   
+**[ Government](https://web.archive.org/government/index.html)   
+[Living](https://web.archive.org/living/index.html)   
+[Working](https://web.archive.org/working/index.html)   
 [Visit NH](https://web.archive.org/visiting/index.html)   
-[Education in NH](https://web.archive.org/educate/index.html)   
-[Doing Business in NH](https://web.archive.org/business/index.html)   
-[Taxes in NH](https://web.archive.org/living/tax.html)   
-[Cities & Towns in NH](https://web.archive.org/living/towns.html)   
+[Education](https://web.archive.org/educate/index.html)   
+[Doing Business](https://web.archive.org/business/index.html)   
+[Taxes](https://web.archive.org/living/tax.html)   
+[Cities & Towns](https://web.archive.org/living/towns.html)   
 [Facts About NH](https://web.archive.org/facts/index.html)   
 [NH Laws & Rules](https://web.archive.org/government/laws.html)   
 [NH Online Directory](http://sudoc.nhsl.lib.nh.us/buzurl)   
