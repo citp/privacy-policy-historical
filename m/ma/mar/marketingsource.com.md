@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingsource.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206051928id_/http%3A//www.marketingsource.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingsource.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603042236id_/http%3A//www.marketingsource.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Marketing Resource Center
 
