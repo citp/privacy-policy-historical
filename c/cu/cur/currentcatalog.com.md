@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072026id_/http%3A//currentcatalog.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208093840id_/http%3A//currentcatalog.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Current Privacy Policy
 
@@ -12,8 +12,8 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 If you supply us with your postal address online you will only receive information through the mail. You may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know: 
 
-**e-mail** \- [CurrentCustomerService@currentinc.com](mailto:CurrentCustomerService@currentin)
+**e-mail** \- [CurrentCustomerService@currentinc.com](mailto:CurrentCustomerService@currentinc.com)
 
-**call** \- Current Customer Service - 800-525-7170 
+**call** \- Current Customer Service - 1-877-665-4457
 
 **write** \- Box 2559 Colorado Springs CO 80920. Please provide us with your exact name and address. We will remove your name from our mailing list. 
