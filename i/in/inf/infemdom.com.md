@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infemdom.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204025130id_/http%3A//www.risecash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infemdom.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403201339id_/http%3A//www.risecash.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Risecash.com - Privacy Policy
 
 Our postal address is  
 P.O. Box 56675, 3309 Limassol, Cyprus 
@@ -14,4 +14,6 @@ We do not collect any customer information. Please see our payment processor's P
 [IBILL](http://ibill.com/about/privacy.cfm) : [CCBILL](http://about.ccbill.com/html_forms/privacy_policy-english.html)
 
 Should you have other questions or concerns about these privacy policies, please send us an email at:  
-privacy(@)risecash.com 
+support( at )risecash.com 
+
+(c) 2003-2005 RiseCash.com . All rights reserved. 
