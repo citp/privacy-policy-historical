@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218142900id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601101059id_/http%3A//ellisisland.org/EIinfo/privacy.asp%3F) for the most accurate reproduction.*
 
 # Privacy
 
@@ -47,9 +47,9 @@ SOLEIF does not collect any information from children that would allow a child t
   
 **Use Signifies Acceptance**   
   
-Your use of the AFIHC Experience at Ellis Island and online at www.ellisislandrecords.org signifies that you agree to the terms of this Privacy Policy.   
+Your use of the AFIHC Experience at Ellis Island and online at www.ellisisland.org signifies that you agree to the terms of this Privacy Policy.   
   
-Last Updated - May 21, 2001   
+Last Updated - April 19, 2002   
   
   
 ---|---
