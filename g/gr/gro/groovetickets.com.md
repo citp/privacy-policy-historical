@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovetickets.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801185338id_/http%3A//www.groovetickets.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovetickets.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622225849id_/http%3A//www.groovetickets.com/privacy.asp) for the most accurate reproduction.*
 
 # Groove Tickets: Purchase Your Club and Rave Tickets Online
 
@@ -48,6 +48,6 @@ We collect the following information from customers through our online order for
 To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, Groovetickets.com, Inc. has put in place physical, electronic, and managerial procedures to safeguard and secure the information it collects online. You should consider any communication that you transmit to Groovetickets.com, Inc. (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that Groovetickets.com, Inc. will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient. 
 
 **CONTACTING THE WEBSITE**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may write to corporate headquarters using the address listed below or contact one of our customer service agents Monday-Friday 9am-5pm PST at [info@groovetickets.com](mailto:info@groovetickets.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may write to corporate headquarters using the address listed below or contact one of our customer service agents Monday-Friday 9am-5pm PST at [help@groovetickets.com](mailto:help@groovetickets.com). 
 
 | 
