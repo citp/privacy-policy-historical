@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002231040id_/http%3A//www.whitman.edu/pieces/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607055108id_/http%3A//www.whitman.edu/pieces/privacy.cfm) for the most accurate reproduction.*
 
-# Whitman College --
-
-  
-
+# Statement of Privacy
 
 Whitman College respects the privacy of prospective students, parents, current students, faculty, staff, alumni, and other individuals who use our web site. This statement addresses collection, use, security of, and access to information that may be obtained through use of www.whitman.edu. This notice covers the following topics: 
 
@@ -54,11 +51,4 @@ If you have any questions about the security at our web site, you can send an em
 If a person's personal information (such as address or phone number) changes we will endeavor to provide a way to correct, or update that user's personal data. Send corrections to [Whitman Webteam](mailto:webteam@whitman.edu).
 
 **How to contact us with questions or comments**  
-You can reach us through one of the following [contacts](https://web.archive.org/web/20031002231040id_/http%3A//www.whitman.edu/pieces/comments.html) or through the [Office of Communication](mailto:communication@whitman.edu). 
-
-  
-
-
-* * *
-
-[[CAMPUS DIRECTORY](https://web.archive.org/index/directory.html)] [[A-Z INDEX](https://web.archive.org/index/a-z.html)] [[SITE SEARCH](https://web.archive.org/search/)] [[PRIVACY](https://web.archive.org/pieces/privacy.html)] [[COPYRIGHT](https://web.archive.org/policy/copyright.html)] [[CONTACT US](https://web.archive.org/pieces/comments.html)] 
+You can reach us through one of the following [contacts](https://web.archive.org/web/20040607055108id_/http%3A//www.whitman.edu/pieces/comments.html) or through the [Office of Communication](mailto:communication@whitman.edu). 
