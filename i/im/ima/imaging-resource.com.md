@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602214856id_/http%3A//imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204030032id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
 
 # The Imaging Resource: Privacy Policy
 
