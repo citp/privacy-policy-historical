@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scec.org privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008222236id_/http%3A//www.scec.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scec.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605205032id_/http%3A//www.scec.org/privacy.html) for the most accurate reproduction.*
 
 # SCEC Privacy Policy
 
@@ -20,6 +20,6 @@ If you request information or services from SCEC and submit personal information
 
 If you conduct business with SCEC electronically, any information voluntarily submitted as part of that process will be used and protected as explained for the specific function involved.
 
-Policy only pertains to pages beginning with "www.scec.org" or "128.125.23.68". (for example, not www.scign.org or www.relm.org or www.scecdc.scec.org which are maintained by others)
+Policy only pertains to pages beginning with "www.scec.org" or "128.125.23.68". (for example, not www.scign.org or www.relm.org or www.data.scec.org which are maintained by others)
 
 Back
