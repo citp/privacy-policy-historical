@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205015226id_/http%3A//www.directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404135931id_/http%3A//www.directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Directory of Games - Your source for all your gaming needs.
 
