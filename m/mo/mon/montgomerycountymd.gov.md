@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610001159id_/http%3A//montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2004-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041221030233id_/http%3A//www.montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/content/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the Montgomery County Maryland Website
 
 Thank you for using the Montgomery County, Maryland Government (hereafter, the County) web portal. We hope that you find our web portal to be a convenient and valuable resource for interacting with County Governmental organizations. In order to be of value, we know that you must be able to trust that any information you provide while interacting with the County will be kept private and secure. This document represents our Privacy Policy and it is intended to serve two purposes:
 
-  * To provide guidance to County employees regarding how to develop, secure and maintain the County portal and
+  * To provide guidance to County employees regarding how to develop, secure and maintain the County portal and 
   * To assure you that your information will be kept private and secure.  
-It is our statement concerning how your information will be protected. If you have questions or doubts concerning the privacy of your information, you should consult this document. If, after consulting this document you still have questions or doubts, you should contact:
+It is our statement concerning how your information will be protected. If you have questions or doubts concerning the privacy of your information, you should consult this document. If, after consulting this document you still have questions or doubts, you should contact: 
 
 
 
 Montgomery County, Maryland Government   
-ATTN: Renee Yue  
+ATTN: Chris Daniel  
 100 Maryland Avenue  
 Suite 114  
 Rockville, Maryland 20850 
@@ -95,7 +95,7 @@ How to contact the County:
 We welcome your comments and invite you to contact us if you have any questions or concerns regarding this Privacy Policy. Contact us at: 
 
 Montgomery County, Maryland Government   
-ATTN: Renee Yue  
+ATTN: Chris Daniel  
 100 Maryland Avenue  
 Suite 114  
 Rockville, Maryland 20850   
@@ -103,6 +103,6 @@ or
 [Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov)
 
 CUSTOMER SATISFACTION:   
-Questions regarding this statement should be directed to the County by sending an e-mail [Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov). If you do not receive a response to your inquiry within five business days, please contact the County at [renee.yue@montgomerycountymd.gov](mailto:renee.yue@montgomerycountymd.gov). If your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/users/users_watchdog.html. 
+Questions regarding this statement should be directed to the County by sending an e-mail [Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov). If you do not receive a response to your inquiry within five business days, please contact the County at [chris.daniel@montgomerycountymd.gov](mailto:chris.daniel@montgomerycountymd.gov). If your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/users/users_watchdog.html. 
 
 < top >
