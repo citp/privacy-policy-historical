@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unknowncountry.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623084934id_/http%3A//www.unknowncountry.com/contact/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unknowncountry.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224025132id_/http%3A//www.unknowncountry.com/contact/privacy.phtml) for the most accurate reproduction.*
 
 # Whitley Strieber's Unknown Country
 
