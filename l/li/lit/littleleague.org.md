@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/policies/privacy.htm) for the most accurate reproduction.*
 
 # Little League Privacy Statement
 
-[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/news/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/camp/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/museum/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/history/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/about/structure.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/divisions/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/about/worldwide.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/programs/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/about/whyll.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/policies/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/equipment/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/merchandise/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/sponsors/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/media/index.htm)[](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/index.htm) | [ **News and Articles**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/news/index.htm)  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/news/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/camp/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/museum/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/history/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/about/structure.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/divisions/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/about/worldwide.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/programs/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/about/whyll.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/policies/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/equipment/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/merchandise/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/sponsors/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/media/index.htm)[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/index.htm) | [](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/news/index.htm) **News and Articles**  
 ---  
-[**Little League E-News**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/enews/index.htm)  
-[ Summer Camp](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/camp/index.htm)  
-[ **Little League Museum**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/museum/index.htm)  
-[ **Little League History**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/history/index.htm)  
-[ **Little League Structure**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/about/structure.htm)  
-[ Little League Divisions](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/divisions/index.htm)  
-[ **Little League Worldwide**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/about/worldwide.htm)  
-[ **Special Programs**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/programs/index.htm)  
-[ **Why Little League?**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/about/whyll.htm)  
+[**Little League E-News**](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/enews/index.htm)  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/camp/index.htm) Summer Camp  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/museum/index.htm) **Little League Museum**  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/history/index.htm) **Little League History**  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/about/structure.htm) **Little League Structure**  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/divisions/index.htm) Little League Divisions  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/about/worldwide.htm) **Little League Worldwide**  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/programs/index.htm) **Special Programs**  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/about/whyll.htm) **Why Little League?**  
 **Forms & Policies**  
-[**  League/District Forms**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/forms/index.htm)  
-[**  Copyrights & Trademarks**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/policies/trademark.htm)  
-[**  Internet Policy**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/policies/internet.htm)  
-[**  Privacy Statement**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/policies/privacy.htm)  
-[**  Advertising**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/policies/advertising.htm)  
-[**Approved Equipment**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/equipment/index.htm)  
-[**Licensed Merchandise**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/merchandise/index.htm)  
-[ **Corporate Sponsors**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/sponsors/index.htm)  
-[ **Media**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/media/index.htm)  
-[ **Home**](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/index.htm)  
+[**  League/District Forms**](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/forms/index.htm)  
+[**  Copyrights & Trademarks**](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/policies/trademark.htm)  
+[**  Internet Policy**](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/policies/internet.htm)  
+[**  Privacy Statement**](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/policies/privacy.htm)  
+[**  Advertising**](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/policies/advertising.htm)  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/equipment/index.htm)**Approved Equipment**  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/merchandise/index.htm)**Licensed Merchandise**  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/sponsors/index.htm) **Corporate Sponsors**  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/media/index.htm) **Media**  
+[](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/index.htm) **Home**  
   
 [](http://www.myteam.com/)  
   
-[ ](https://web.archive.org/web/20020408162631id_/http%3A//www.littleleague.org/index.htm) |  **Little League Baseball Internet Privacy Policy**
+[ ](https://web.archive.org/web/20021211031600id_/http%3A//www.littleleague.org/index.htm) |  **Little League Baseball Internet Privacy Policy**
 
 The Little League Baseball Internet Privacy Policy has been written to answer questions you might have about online privacy. As a youth organization, we are very concerned about privacy and go to extraordinary measures to safeguard any personal information we may collect about you or your children.
 
