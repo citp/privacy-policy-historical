@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203030433id_/http%3A//www.realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193942id_/http%3A//realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Mission Statement
+# Real Estate Express Real Estate License School
 
 This privacy statement covers the Web site www.realestateexpress.com. It is the express goal of American School of Real Estate Express, LLC to demonstrate our commitment to our users’ privacy.
 
