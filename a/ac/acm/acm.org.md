@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411131235id_/http%3A//www1.acm.org/serving/acm-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622124345id_/http%3A//acm.org/serving/acm-privacy.html) for the most accurate reproduction.*
 
 # ACM: Privacy Policy
 
-**ACM Privacy Policy** As of 11/8/00
+**ACM Privacy Policy**
 
 The Association for Computing Machinery (ACM) is committed to protecting the privacy of its members and customers. ACM recognizes the interest of its members and customers in the confidentiality of their personal information. ACM only maintains personal information that is relevant to ACM activities and seeks to maintain accurate, complete, and timely information. 
 
