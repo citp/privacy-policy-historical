@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footygoss.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204220257id_/http%3A//www.footygoss.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footygoss.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607211933id_/http%3A//footygoss.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -15,8 +15,6 @@ We may use Data to customize and improve your user experience on this site. We w
 
 3\. Cookies.  
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, those third party advertisers may set and access cookies on your computer and are subject to the privacy policy of those parties providing the advertisement. However, those third party advertisers do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.You can click here to find out more information about this practice and to find out about your options including from the following companies that may advertise on our site:
-
-[AffiliateShop ] [AssociatePrograms.com ] [Be Free ] [ Click Trade ] [ Commission Junction ] [ DoubleClick ] [ Linkshare ] 
 
 4\. Children.  
 We do not allow persons who are ages thirteen or younger to register on this site. For more information, please contact our webmaster.
