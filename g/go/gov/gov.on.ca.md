@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.on.ca privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622085913id_/http%3A//www.gov.on.ca/MBS/english/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.on.ca privacy policy that was archived on 2004-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041222012232id_/http%3A//www.gov.on.ca/MBS/english/common/privacy.html) for the most accurate reproduction.*
 
 # Government of Ontario Online Privacy Statement (Government of Ontario, Canada)
 
@@ -16,10 +16,10 @@ If you choose not to use the Internet to provide personal information to a gover
 
 ## Cookies
 
-Some Government of Ontario Web sites use cookies. Cookies are generally used to make it more convenient for users to move around our Web sites. If you choose, they may be used to ‘remember’ your password and make it easier and faster to log-in to certain sites. These types of cookies need to be stored on your computer’s hard drive. Cookies used by the government are encrypted to make the information in cookies unreadable to anyone except the government organization with which you are dealing.
+Some Government of Ontario Web sites use cookies. Cookies are generally used to make it more convenient for users to move around our Web sites. If you choose, they may be used to 'remember' your password and make it easier and faster to log-in to certain sites. These types of cookies need to be stored on your computer's hard drive. Cookies used by the government are encrypted to make the information in cookies unreadable to anyone except the government organization with which you are dealing.
 
 ## More information
 
-We invite you to [learn more about our current online information practices](https://web.archive.org/web/20040622085913id_/http%3A//www.gov.on.ca/MBS/english/common/privacy-detailed.html).
+We invite you to [learn more about our current online information practices](https://web.archive.org/web/20041222012232id_/http%3A//www.gov.on.ca/MBS/english/common/privacy-detailed.html).
 
-[External Links Disclaimer](https://web.archive.org/web/20040622085913id_/http%3A//www.gov.on.ca/MBS/english/common/external_links.html): Some of our Web sites link to other sites created and maintained by other public and/or private sector organizations. We provide these links solely for your information and convenience. When you link to an outside Web site, you are leaving a Government of Ontario Web site and our information management policies no longer apply.
+[External Links Disclaimer](https://web.archive.org/web/20041222012232id_/http%3A//www.gov.on.ca/MBS/english/common/external_links.html): Some of our Web sites link to other sites created and maintained by other public and/or private sector organizations. We provide these links solely for your information and convenience. When you link to an outside Web site, you are leaving a Government of Ontario Web site and our information management policies no longer apply.
