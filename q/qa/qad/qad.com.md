@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602043148id_/http%3A//www.qad.com/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205235807id_/http%3A//www.qad.com/misc/privacy.html) for the most accurate reproduction.*
 
 # QAD
 
 **QAD Privacy Statement**
 
 This statement sets forth QAD's Privacy Statement for QAD.com and describes the practices that QAD will follow with respect to the privacy of users of this site.  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact our webmaster at:[webmaster@qad.com](mailto:webmaster@qad.com)**
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact our Webmaster at:[Webmaster@qad.com](mailto:Webmaster@qad.com)**
 
 **What is personally identifiable information?**  
 "Personally identifiable information" is information about you, such as name, address, e-mail address, user ID, mailing address, and so on.
@@ -31,12 +31,12 @@ If you have voluntarily provided information, you consented to the collection an
 If you have voluntarily provided personally identifiable information, we may, from time to time, send you mail or e-mail regarding products and services. If you do not want to receive such offers and mailings, you can easily indicate that by checking the appropriate box on the submission form.
 
 **How can you correct, access, and update your information?**  
-You may view and edit your personally identifiable information at any time by contacting us using the link provided on the web site. Or if you prefer, you may contact our webmaster at [webmaster@qad.com](mailto:webmaster@qad.com).
+You may view and edit your personally identifiable information at any time by contacting us using the link provided on the web site. Or if you prefer, you may contact our Webmaster at [Webmaster@qad.com](mailto:Webmaster@qad.com).
 
 **How do we protect your information?**  
 We exercise great care to protect your personally identifiable information. This includes, among other things, using industry standard techniques such as firewalls, encryption, intrusion detection and site monitoring. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via e-mail. We have no way of protecting that information until it reaches us. Once we receive your transmission, we make our best effort to ensure its security on our servers.
 
-Internally, we will restrict access to your personally identifiable information to employees who need access to the information in order to do their jobs. These employees are limited in number, and are committed to our privacy policies. We will review our security arrangements from time to time as we deem appropriate. If we make changes to this privacy policy, we will post the changes on this page so that you always will know what information we collect, how we use it, and when and how we will disclose it.
+Internally, we will restrict access to your personally identifiable information to employees who need access to the information in order to do their jobs. These employees are limited in number, and are committed to our privacy policies. We will review our security arrangements from time to time as we deem appropriate. If we make changes to this Privacy Policy, we will post the changes on this page so that you always will know what information we collect, how we use it, and when and how we will disclose it.
 
 **How can you help protect your information?**  
 If you are using a QAD web site for which you registered and chose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site by closing your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer.
