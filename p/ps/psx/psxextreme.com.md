@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816022520id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606144439id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
 
 # PSX Extreme - Privacy Policy
 
@@ -11,8 +11,8 @@
   [Cheats](http://www.psxextreme.com/scripts/cheats/cheats.asp)   
   [Guides](http://www.psxextreme.com/scripts/guides/guides.asp)   
   [Screenshots](http://www.psxextreme.com/scripts/scrs/scrs.asp)   
-  [Reader Reviews](http://www.psxextreme.com/scripts/urevs/urevs.asp) **  
-**Playstation 2  
+  [Reader Reviews](http://www.psxextreme.com/scripts/advtrace/advtrace.asp?url=http://www.psxextreme.com/scripts/urevs/urevs.asp)**  
+**Playstation 2    
 ****   [News](http://www.psxextreme.com/scripts/news2/news.asp)   
   [Previews](http://www.psxextreme.com/scripts/previews2/previews.asp)   
   [Reviews](http://www.psxextreme.com/scripts/reviews2/reviews.asp)   
@@ -20,14 +20,12 @@
   [Guides](http://www.psxextreme.com/scripts/guides2/guides.asp)   
   [Screenshots](http://www.psxextreme.com/scripts/scrs2/scrs.asp)   
   [Reader Reviews  
-](http://www.psxextreme.com/scripts/urevs2/urevs.asp) Other** **  
+](http://www.psxextreme.com/scripts/advtrace/advtrace.asp?url=http://www.psxextreme.com/scripts/urevs2/urevs.asp) Other**   
+**   [Special/Features](http://www.psxextreme.com/scripts/misc/spec.asp)   
 ****   [Letters/Q&A  
 ](http://www.psxextreme.com/scripts/letters/letters.asp)  **[**Release Dates**](http://www.psxextreme.com/home/release_dates.asp)  
-
-
-* * *
-
-* * *
+**   [Gaming Trivia  
+](http://www.gamingtrivia.com/gt/scripts/advtrace.asp?url=http://www.gamingtrivia.com/gt/home/default.asp?tr=psxmenu) **
 
 * * *
 
@@ -35,11 +33,7 @@
 
 * * *
 
-****
-
-* * *
-
-|  |  |  |  | **Privacy Statement for PSX Extreme**  
+********|  |  |  |  | **Privacy Statement for PSX Extreme**  
 ---|---  
   
 PSX Extreme has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [PSX Extreme](http://www.psxextreme.com/)
@@ -100,7 +94,7 @@ We care about children and understand that they have special privacy needs. Ther
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us .
 
-  1. You can send email to [valk@psxextreme.com](mailto:valk@psxextreme.com)
+  1. You can send email to [webmaster@psxextreme.com](mailto:webmaster@psxextreme.com)
 
 
 
@@ -108,16 +102,21 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [valk@psxextreme.com](mailto:valk@psxextreme.com)
+  1. You can send email to [webmaster@psxextreme.com](mailto:webmaster@psxextreme.com)
 
 
 
 ##### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-[valk@psxextreme.com](mailto:valk@psxextreme.com)
+[webmaster@psxextreme.com](mailto:webmaster@psxextreme.com)
+
+  
+
 
 |  |  |    
   
   
+  
+     
 | 
