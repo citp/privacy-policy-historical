@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the shadi.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202122400id_/http%3A//nt9.nyic.com/shadi/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadi.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409175313id_/http%3A//nt9.nyic.com/shadi/html/privacy.html) for the most accurate reproduction.*
 
 # About Us
 
 **[Home](http://www.shadi.com/)**
 
-**[Site Profile](https://web.archive.org/web/20001202122400id_/http%3A//nt9.nyic.com/shadi/html/profile.html)**
+**[Site Profile](https://web.archive.org/web/20010409175313id_/http%3A//nt9.nyic.com/shadi/html/profile.html)**
 
-**[Security](https://web.archive.org/web/20001202122400id_/http%3A//nt9.nyic.com/shadi/html/secrurity.html)**
+**[Security](https://web.archive.org/web/20010409175313id_/http%3A//nt9.nyic.com/shadi/html/secrurity.html)**
 
-**[Privacy Policy](https://web.archive.org/web/20001202122400id_/http%3A//nt9.nyic.com/shadi/html/privacy.html)**
+**[Privacy Policy](https://web.archive.org/web/20010409175313id_/http%3A//nt9.nyic.com/shadi/html/privacy.html)**
 
-**[Advertise](https://web.archive.org/web/20001202122400id_/http%3A//nt9.nyic.com/shadi/html/advertise.html)**
+**[Advertise](https://web.archive.org/web/20010409175313id_/http%3A//nt9.nyic.com/shadi/html/advertise.html)**
 
-**[Feedback](https://web.archive.org/web/20001202122400id_/http%3A//nt9.nyic.com/shadi/html/feedback.html)**
+**[Feedback](https://web.archive.org/web/20010409175313id_/http%3A//nt9.nyic.com/shadi/html/feedback.html)**
 
 | 
 
