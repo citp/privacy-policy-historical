@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211134745id_/http%3A//www.voyetra-turtle-beach.com/site/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603130032id_/http%3A//www.voyetra-turtle-beach.com/site/legal/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the Voyetra Web Store - Privacy Statement
 
