@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622080124id_/http%3A//www.healthcaresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202222857id_/http%3A//www.healthcaresource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -73,7 +73,7 @@ Web beacons collect only a limited set of information including a cookie number,
 
 We have implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. 
 
-**  Children**
+**Children**
 
 Healthcaresource is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. 
 
