@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontime.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202004111id_/http%3A//www.opentext.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontime.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211102224id_/http%3A//www.opentext.com/privacy) for the most accurate reproduction.*
 
 # Open Text Corporation Privacy and Security
 
