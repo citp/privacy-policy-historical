@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204011802id_/http%3A//www.wfmz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306054114id_/http%3A//www.wfmz.com/privacy.html) for the most accurate reproduction.*
 
 # WFMZ Online Privacy Statement
 
@@ -8,7 +8,7 @@
 **as required by the CHILDREN'S ONLINE PRIVACY PROTECTION ACT   
 WFMZ Online - Maranatha Broadcasting Company, Inc.
 
-**Revised: 12-1-2004
+**Revised: 12-17-2004
 
 Maranatha Broadcasting Company, Inc. 
 
@@ -38,9 +38,9 @@ Certain contests that are offered on this site may be geared towards children. M
 **This site offers several services for which registration may be required.  These include (but are not limited to)  Stormcenter Update school closing information, and our Headline Email News Service.   The information gathered is necessary for the functionality of these services.  
 
 **C** **ookies  
-**A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. WFMZ uses a cookie when you register for Stormcenter Update information, when you participate in one of our online surveys, and at other times.  Some ads appearing on this site are delivered to you by a third party ad service provider. In the course of serving ads, the ad service provider may place or recognize their own unique cookie on your browser, and may use non-personally identifiable information about your visit to this site such as the number of times that you have viewed an ad.
+**A cookie is a small text file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Contrary to popular belief, they cannot be used to send viruses.  WFMZ uses a cookie when you register for Stormcenter Update information, when you participate in one of our online surveys, and at other times.  Some ads appearing on this site are delivered to you by a third party ad service provider. In the course of serving ads, the ad service provider may place or recognize their own unique cookie on your browser, and may use non-personally identifiable information about your visit to this site such as the number of times that you have viewed an ad.
 
-The Stormcenter Update cookie allows you to get your information faster, without having to enter your login and password each time you check for updates.  You may [CLICK HERE](https://web.archive.org/web/20041204011802id_/http%3A//www.wfmz.com/stormcenter/cookie.html) to learn about the Stormcenter Update cookie.
+The Stormcenter Update cookie allows you to get your information faster, without having to enter your login and password each time you check for updates.  You may [CLICK HERE](https://web.archive.org/web/20050306054114id_/http%3A//www.wfmz.com/stormcenter/cookie.html) to learn about the Stormcenter Update cookie.
 
 **Special use of information  
 **We may also disclose personally identifiable information to third parties in order to comply with law or requests by law enforcement agencies, or to protect the rights, property, or safety of our website, users of our website, and others.
