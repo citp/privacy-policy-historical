@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015002027id_/http%3A//www.whitepages.com.au/wp/legal/privacy_main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618153836id_/http%3A//www.whitepages.com.au/wp/legal/privacy_main.html) for the most accurate reproduction.*
 
 # White Pages® OnLine
 
@@ -18,7 +18,7 @@ Map Service](https://web.archive.org/wp/legal/map.html)
 
 Updated December 2001. 
 
-This statement should be read together with the [Sensis Collection Statement](https://web.archive.org/web/20021015002027id_/http%3A//www.whitepages.com.au/wp/legal/collection.html). 
+This statement should be read together with the [Sensis Collection Statement](https://web.archive.org/web/20030618153836id_/http%3A//www.whitepages.com.au/wp/legal/collection.html). 
 
 This web site is one of many sites owned and operated by Sensis Pty Ltd, a company that is committed to protecting the privacy of Internet users. Whilst our company strives to deliver more convenient, customised services that meet your present and future needs, Sensis also appreciates the uncertainty that comes with interacting in a constantly changing environment. We are sensitive to the concerns that our users may have with regards to the confidentiality, security and use of their personal information via our web sites, and would like to reassure you of our position on this matter. 
 
@@ -235,10 +235,10 @@ In all cases, the primary purpose in gathering information on our web site users
 
 For specific information on what information is collected on Sensis Pty Ltds' web sites, click the links below: 
 
-[Yellow Pages® _OnLine_](https://web.archive.org/web/20021015002027id_/http%3A//www.whitepages.com.au/wp/legal/privacy_ypol.html)  
-[GOeureka™ Search](https://web.archive.org/web/20021015002027id_/http%3A//www.whitepages.com.au/wp/legal/privacy_go.html)  
-[White Pages® _OnLine_](https://web.archive.org/web/20021015002027id_/http%3A//www.whitepages.com.au/wp/legal/privacy_wp.html)  
-[Whereis™ _OnLine_](https://web.archive.org/web/20021015002027id_/http%3A//www.whitepages.com.au/wp/legal/privacy_where.html)  
+[Yellow Pages® _OnLine_](https://web.archive.org/web/20030618153836id_/http%3A//www.whitepages.com.au/wp/legal/privacy_ypol.html)  
+[GOeureka™ Search](https://web.archive.org/web/20030618153836id_/http%3A//www.whitepages.com.au/wp/legal/privacy_go.html)  
+[White Pages® _OnLine_](https://web.archive.org/web/20030618153836id_/http%3A//www.whitepages.com.au/wp/legal/privacy_wp.html)  
+[Whereis™ _OnLine_](https://web.archive.org/web/20030618153836id_/http%3A//www.whitepages.com.au/wp/legal/privacy_where.html)  
   
   
 How can I control my personal information?  
