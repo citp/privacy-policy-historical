@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080245id_/http%3A//oregonlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172714id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
 
 # OregonLive.com: Privacy Policy
 
@@ -62,9 +62,7 @@ Oregon Live
 521 SW 11th Ave, 4th Floor  
 Portland, OR 97205 
 
-|  | 
-
-  
+|  |    
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
@@ -74,8 +72,8 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads6.udc.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/1101858672/Sponsor1/default/empty.gif/34353032373033313431623136663230)   
-[](http://ads6.udc.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/688028486/Tile1/OREGONLIVE/AV_INTERCO_OR03/neworleans_ad_supertile31.gif/34353032373033313431623136663230)   
+  
+  
   
   
 
