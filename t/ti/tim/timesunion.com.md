@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesunion.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203222023id_/http%3A//www.timesunion.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesunion.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613124832id_/http%3A//timesunion.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Albany, N.Y. : Timesunion.com
 
@@ -6,9 +6,9 @@ Our privacy policy
 
 This privacy policy describes how Hearst Communications Inc., publisher of the Times Union, treats the personally identifiable information that is collected about you when you visit [timesunion.com](http://timesunion.com/), [albany2go.com](http://albany2go.com/) and [CapitalCars.com](http://capitalcars.com/), the Web sites of the Times Union. This policy also applies to information collected by third-party service providers, to the extent we use them, who collect information on our behalf. If you have any questions or concerns about these privacy guidelines, please send e-mail to [webmaster](mailto:webmaster@timesunion.com). 
 
-This privacy policy does not apply to information collected about you by anyone except Hearst Communications ("Hearst") and its third-party service providers and only applies to the Web sites to which this policy is linked. Any information you provide when you visit Web sites other than those covered by this policy (including other Web sites affiliated with Hearst) or when you purchase any products or services that may be offered or advertised on our Web site by companies other than Hearst, is subject to the privacy policies of the organizations who run and/or own these Web sites. This policy also does not apply to information you may provide to us offline.
+This privacy policy does not apply to information collected about you by anyone except Hearst Communications ("Hearst") and its third-party service providers and only applies to the Web sites to which this policy is linked. Any information you provide when you visit Web sites other than those covered by this policy (including other Web sites affiliated with Hearst) or when you purchase any products or services that may be offered or advertised on our Web site by companies other than Hearst, is subject to the privacy policies of the organizations who run and/or own these Web sites. This policy also does not apply to information you may provide to us offline. 
 
- **What information does the Times Union collect?**
+**What information does the Times Union collect?**
 
 For individuals 13 and older, the Times Union collects "personally identifying information" only when you specifically and knowingly provide it. We gather and save this information in the following ways:
 
@@ -38,21 +38,19 @@ If you turn on the cookie notification setting of your browser, you will see tha
 
 
 
-Some of our advertisers may serve you cookies as well. We do not have control over cookies placed by advertisers.
+Some of our advertisers may serve you cookies as well. We do not have control over cookies placed by advertisers. 
 
-If you don't want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our sites may not function efficiently.
+If you don't want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our sites may not function efficiently. 
 
- **How does the Times Union use the information it collects?**
+**How does the Times Union use the information it collects?**
 
-The Times Union uses this information to provide you with the service you have requested. If you subscribe to the Times Union, we may use your e-mail address to send you a confirmation notice and your mailing address to deliver the paper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. The information you provide on CapitalCars is shared with our car dealer partners and may be used by them to contact you about car offers and financing arrangements. We have no control over what those car dealers do with the information you provide.
+The Times Union uses this information to provide you with the service you have requested. If you subscribe to the Times Union, we may use your e-mail address to send you a confirmation notice and your mailing address to deliver the paper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. The information you provide on CapitalCars is shared with our car dealer partners and may be used by them to contact you about car offers and financing arrangements. We have no control over what those car dealers do with the information you provide. 
 
-If you opt-in by checking the box at the bottom of registration forms, your personally identifying information may be used for additional purposes, such as e-mailing you with information about new features and offers from the Times Union, albany2go.com or timesunion.com. In addition, if you opt-in, we may send you advertising information or other offers we think may be of interest. 
-
-Individuals always have the ability to stop receiving these e-mails by sending an e-mail request to us at [webmaster](mailto:webmaster@timesunion.com). You may also make reasonable requests to review the personal data collected from you and to correct any errors. 
+If you opt-in by checking the box at the bottom of registration forms, your personally identifying information may be used for additional purposes, such as e-mailing you with information about new features and offers from the Times Union, albany2go.com or timesunion.com. In addition, if you opt-in, we may send you advertising information or other offers we think may be of interest. Individuals always have the ability to stop receiving these e-mails by sending an e-mail request to us at [webmaster@timesunion.com](mailto:webmaster@timesunion.com). You may also make reasonable requests to review the personal data collected from you and to correct any errors. 
 
 **Does the Times Union share the information with anyone else?**
 
-The Times Union may disclose information with third parties if you have given your consent to that disclosure by opting in by checking the applicable space. Information you provide via our third-party service providers generally is forwarded directly to us, and those providers are instructed not to use the data for any other purpose. However, on CapitalCars.com, the information will be submitted by the service provider directly to the auto dealer partners of the Times Union and, as mentioned, we do not control what use they may make of it.
+The Times Union may disclose information with third parties if you have given your consent to that disclosure by opting in by checking the applicable space. Information you provide via our third-party service providers generally is forwarded directly to us, and those providers are instructed not to use the data for any other purpose. However, on CapitalCars.com, the information will be submitted by the service provider directly to the auto dealer partners of the Times Union and, as mentioned, we do not control what use they may make of it. 
 
 The Times Union may disclose information if it is required by law through a subpoena, search warrant or other legal process or if we need to protect our legal rights (for example, if we are trying to collect money you owe us for a subscription). In this instance, the disclosure may take place without your consent. In addition, we may disclose information to third party service providers we use to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your information and not to use it for any reason except to carry out the purpose for which we hired them. Finally, we may share your information with entities under control of, or under common control with Hearst (for these purposes, a company controlling twenty (20%) percent or more of the voting stock of another entity shall be deemed to control such entity). 
 
@@ -64,9 +62,9 @@ You should be aware that when you voluntarily disclose personal information (e.g
 
 **When was this privacy policy most recently updated?**
 
-We updated this privacy policy on September 16, 2003. We reserve the right to change this policy at any time. Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it.
+We updated this privacy policy on February 18, 2004. We reserve the right to change this policy at any time. Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it. 
 
- **Are you a non-U.S. user?**
+**Are you a non-U.S. user?**
 
 If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this Web site, you consent to this transfer. 
 
@@ -76,9 +74,7 @@ Send e-mail to us at [webmaster](mailto:webmaster@timesunion.com) with any furth
 
 **Children Under 13 Years Old:**
 
-The Times Union does not knowingly collect or solicit personally identifiable information from children under 13 years of age. If you are under 13, please do not send any information about yourself to us -- including information like your name, address, telephone number, or e-mail address. No one under age 13 is allowed to provide any personal information or use our public forums. In the event that we learn that we have collected personal information from a child under 13 without verification of parental consent, we will delete that information as quickly as possible. 
-
-If you believe that we might have any information from or about a child under 13, please contact us at: [webmaster@timesunion.com](mailto:webmaster@timesunion.com).
+The Times Union does not knowingly collect or solicit personally identifiable information from children under 13 years of age. If you are under 13, please do not send any information about yourself to us -- including information like your name, address, telephone number, or e-mail address. No one under age 13 is allowed to provide any personal information or use our public forums. In the event that we learn that we have collected personal information from a child under 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at: [webmaster@timesunion.com](mailto:webmaster@timesunion.com).
 
  **Children, 13-18 Years Old:**
 
