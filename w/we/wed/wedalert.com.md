@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the wedalert.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213045200id_/http%3A//www.wedalert.com/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedalert.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602174611id_/http%3A//wedalert.com/legal/privacy_policy.shtml) for the most accurate reproduction.*
 
 # WedAlert
-
-[](http://wedalert.com/)
 
 **WedAlert, Corp** **  
 Privacy Policy**
 
-WedAlert.com is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. We encourage you to read our policy to understand what types of personal information we collect and how this information is used. 
+WedAlert.com is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. We encourage you to read our policy to understand what types of personal information we collect and how this information is used.   
 
 **_Your Consent_**
 
@@ -23,7 +21,7 @@ _Cookies._ "Cookies” are small pieces of information that are stored by your b
 
 _IP Addresses._ When you connect to our website, we record your IP addresses and information on the type of operating system (e.g. Windows98) and browser software(e.g. Microsoft Internet Explorer and Netscape) you are using. This helps us to diagnose problems with our servers and for system administration. Your IP address is also used to help gather aggregated demographic information. 
 
-_Chat rooms, forums, message boards, and/or news groups._ We make chat rooms, forums, message boards, and/or news groups available to you. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information. Please see [Terms and Conditions of Use. ](https://web.archive.org/web/20001213045200id_/http%3A//www.wedalert.com/legal/terms.htm)
+_Chat rooms, forums, message boards, and/or news groups._ We make chat rooms, forums, message boards, and/or news groups available to you. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information. Please see  [Terms and Conditions of Use. ](https://web.archive.org/web/20010602174611id_/http%3A//wedalert.com/legal/terms.htm)
 
 **With whom your information is shared and how it is used**
 
@@ -41,9 +39,14 @@ As a user, customer, or contest entrant you will occasionally receive e-mail upd
 WedAlert.com provides you with the ability to receive e-mail subscriptions to various services we provide. If you elect to receive such e-mail subscriptions, you can opt-out of receiving future e-mails by logging in to your account and following the appropriate links. 
 
 **Your ability to access, update or correct your information**  
-At any time, you can view and/or update all of the information contained in your Wedding Account and Wedding Website by logging in to your account and following the appropriate links. Your account log-in can be easily accessed by visiting our home page at [www.WedAlert.com.](http://wedalert.com/) However, even if you delete or change some personal information in our registration database, it may still be stored on our, or other third party, databases (including those kept for archival purposes). 
+At any time, you can view and/or update all of the information contained in your Wedding Account and Wedding Website by logging in to your account and following the appropriate links. Your account log-in can be easily accessed by visiting our home page at  [www.WedAlert.com.](http://wedalert.com/) However, even if you delete or change some personal information in our registration database, it may still be stored on our, or other third party, databases (including those kept for archival purposes). 
 
 **Additional information about online privacy and changes to our policy**  
-Please be aware that on our site we have advertisements and links to other websites that may collect personal information about you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read the privacy policies of all such sites, as their policies may be materially different from our Privacy Policy. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices to our General Counsel at [legal@WedAlert.com](mailto:legal@WedAlert.com). Please reference the Privacy Policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. 
+Please be aware that on our site we have advertisements and links to other websites that may collect personal information about you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read the privacy policies of all such sites, as their policies may be materially different from our Privacy Policy. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices to our General Counsel at  [legal@WedAlert.com](mailto:legal@WedAlert.com).  Please reference the Privacy Policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. 
 
-[ABOUT US](https://web.archive.org/web/20001213045200id_/http%3A//www.wedalert.com/content/about_us.htm)  |  [ADVERTISE](https://web.archive.org/web/20001213045200id_/http%3A//www.wedalert.com/content/advertising.htm)  |  [CONTACT US](https://web.archive.org/web/20001213045200id_/http%3A//www.wedalert.com/content/contact_us2.htm)  |  [PRIVACY POLICY ](https://web.archive.org/web/20001213045200id_/http%3A//www.wedalert.com/legal/privacy_policy.htm)| [TERMS OF SERVICE](https://web.archive.org/web/20001213045200id_/http%3A//www.wedalert.com/legal/terms.htm) | [ADD YOUR LISTING](http://216.22.194.77/add_your_business.htm)
+**WedAlert, Corp.**  
+PO Box 231  
+Allendale, NJ  07401  
+201-818-7489  
+[info@WedAlert.com](mailto:info@WedAlert.com)   
+[WedAlert.com](http://wedalert.com/)
