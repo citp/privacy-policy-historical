@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215154052id_/http%3A//www.macdailynews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404001238id_/http%3A//macdailynews.com/index.php/weblog/privacy) for the most accurate reproduction.*
 
-# MacDailyNews - Privacy Policy - Welcome Home
+# MacDailyNews - Apple and Mac News - Welcome Home
 
 ###### **Privacy Policy**
 
@@ -25,7 +25,7 @@ The non-personally identifiable information we collect helps us diagnose problem
 ###### Our site uses both the personal and aggregated information collected for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user and to notify users about updates to the site or promotional offers or opportunities that we believe will be of interest to you.  
 We share aggregated information collected from the site with third parties for both advertising and promotional purposes. We also provide statistical information based on this data to advertisers and other current and potential business partners.
 
-###### **Data collection  regarding minors**
+###### **Data collection regarding minors**
 
 ###### **Children and Privacy**
 
@@ -63,7 +63,7 @@ Our web site may contain links to other Internet web sites, including co-branded
 
 ###### As effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
 
-###### **Law   Enforcement**
+###### **Law Enforcement**
 
 ###### We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
 
