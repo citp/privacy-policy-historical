@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206081544id_/http%3A//www.neimanmarcus.com/store/service/nmSecurity.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630060919id_/http%3A//www.neimanmarcus.com/store/service/nmSecurity.jhtml) for the most accurate reproduction.*
 
 # Neiman Marcus Online
 
@@ -29,7 +29,7 @@ As we continue to develop our Web site and take advantage of advances in technol
 
 If you have a Neiman Marcus credit card, a separate privacy policy describes collection, use, and protection of information about you and your account. To obtain a copy of our credit card privacy policy: 
 
-  * Click to [review NM Credit Card policy](https://web.archive.org/store/service/nmShoppingOnline.jhtml;jsessionid=45M3DZEWMZ2QACQAAJUB5MYKAABGSIAQ#nmccuse) online
+  * Click to [review NM Credit Card policy](https://web.archive.org/store/service/nmShoppingOnline.jhtml;jsessionid=1CQSFSIRUFTAUCQAAJWR5KIKAABGOH4X#nmccuse) online
   * Call 1.800.685.6695
   * Write:  
 Neiman Marcus  
