@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the money.com privacy policy that was archived on 2002-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021201180309id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the money.com privacy policy that was archived on 2003-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030628120900id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Privacy Policy</title>
@@ -16,6 +16,8 @@ document.adoffset=0;
 document.adPopupFile = '/fn_adspaces/adsPopup2_exclude.html';
 document.adPopupDomain = 'money.cnn.com';
 document.adPopupInterval = 'P48';
+document.adPopunderInterval = 'P24';
+adSetOther('&TVAR='+escape('class=us.low'));
 </script>
 
 
@@ -38,25 +40,94 @@ var toggel=P_popupoff;
 </head>
 <body bgcolor="#FFFFFF" link="#003366" alink="#0066CC" vlink="#666666" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="P_checkLoad();" onunload="P_checkUnload();">
 <table width="760" border="0" cellspacing="0" cellpadding="0" bgcolor="#003366">
-<tbody><tr><td colspan="2" bgcolor="#006699"><!-- netscape hat --><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><script language="Javascript" src="http://toolbar.aol.com/dashboard.twhat?dom=cnf" type="text/javascript"></script></td></tr></tbody></table>
+<tbody><tr><td colspan="2" bgcolor="#006699"><!-- netscape hat -->
 </td></tr>
 <tr><td height="1" colspan="2" bgcolor="#336699"><img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="1" hspace="0" width="1" vspace="0"></td></tr>
 <tr><td width="290" height="80" valign="top"><a href="/"><img src="/images/logo/cnnmoney_logo.gif" width="288" height="80" hspace="0" vspace="0" border="0" alt=""></a></td>
-	<td width="470"><!--ad services/general_services/top.468x60 -->
+	<td width="470"><!-- services/general_services/top.468x60 -->
 <script language="JavaScript1.1">
 <!--
-htmlAdWH( (new Array(93107820,93109546,93108144,93108144))[document.adoffset||0] , 468, 60);
+adSetTarget('_top');
+htmlAdWH( (new Array(93107820,93107820,93108144,93108144))[document.adoffset||0] , 468, 60);
+//-->
+</script><noscript><a href="http://ar.atwola.com/link/93107820/aol" target="_top"><img src="http://ar.atwola.com/image/93107820/aol" alt="Click here for our advertiser" width="468" height="60" border="0"></a></noscript></td>
+</tr>
+<tr><td colspan="2" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr bgcolor="#003366"><td colspan="10" align="center"><img src="http://i.cnn.net/money/images/searchbar/dot_rule_enhanced_by.gif" alt="" width="755" height="5" border="0"></td></tr>
+<script language="javascript" type="text/javascript">
+<!--
+function validate(searchBoxValidate) { return searchForm( searchBoxValidate );}
+function searchForm( searchBox ) {
+	 var site;
+	
+	if ( searchBox.sites.options ) {		//	"sites" should be a select
+		site = searchBox.sites.options[searchBox.sites.selectedIndex].value;
+	} else {
+		if ( searchBox.sites ) 
+		{
+			if(searchBox.sites.length)
+			{
+				for(i=0;i<searchBox.sites.length;i++)
+				{
+					if(searchBox.sites[i].checked) {site=searchBox.sites[i].value;}
+				}
+			}
+			else
+			{
+				site = searchBox.sites.value;
+			}
+		} else {
+			return true;
+		}								//	error, but don't show the user
+	} 
+	 switch ( site.toLowerCase() ) {
+		
+		case "money":
+			searchBox.action = "http://search.money.cnn.com/money/search"
+			searchBox.query.value = searchBox.query.value;
+			return true;
+		
+		case "google":
+			searchBox.action = "http://websearch.money.cnn.com/search/search"
+			searchBox.query.value = searchBox.query.value;
+			return true;
+		
+		default:
+			return true;						//	unsupported site?
+	} 
+}
 //-->
 </script>
-<noscript><a href="http://ar.atwola.com/link/93107820/aol"><img src="http://ar.atwola.com/image/93107820/aol" alt="Click Here" width="468" height="60" border="0"></a></noscript>
-</td>
+<!--<form action="http://qs.money.cnn.com/tq/stockquote" method="get">-->
+<form action="http://quote.money.cnn.com/quote/quote" method="get"></form>
+<tr bgcolor="#003366">
+	<td width="60" rowspan="2"><img src="http://i.cnn.net/money/images/searchbar/enter_symbol.gif" alt="" width="49" height="16" hspace="3" vspace="0" border="0"></td>
+	<td width="65" rowspan="2"><input type="text" name="symbols" value="" size="7" maxlength="38" style="font-size: 11px"></td>
+	<td width="60" rowspan="2">	<input type="image" name="submit3" src="http://i.cnn.net/money/images/searchbar/quote_button.gif" width="52" height="17" hspace="0" vspace="0" border="0" align="absmiddle"></td>
+	<td width="39" rowspan="2"><a href="http://money.cnn.com/markets/quotes/quote_search.html"><img src="http://i.cnn.net/money/images/searchbar/symbol_lookup.gif" alt="" width="32" height="19" hspace="0" vspace="0" border="0"></a></td>
+	<td width="5" rowspan="2"><img src="http://i.cnn.net/money/images/searchbar/vert_dot_rule.gif" alt="" width="3" height="29" border="0"></td>
+	
+	<form action="http://search.money.cnn.com/money/search" method="get" onsubmit="return searchForm(this);"></form>
+	<td width="55" rowspan="2"><img src="http://i.cnn.net/money/images/searchbar/enter_search_term.gif" alt="" width="48" height="24" border="0"></td>
+	<td width="180" rowspan="2">
+	<input type="hidden" name="source" value="money">
+	<input type="hidden" name="invocationType" value="search%2Ftop">
+	<input type="text" name="query" value="" size="25" maxlength="40" style="font-size: 11px; width:170px;">
+	</td>
+	<td width="65" rowspan="2"><input type="image" name="search" src="http://i.cnn.net/money/images/searchbar/search_button.gif" width="58" height="17" hspace="0" border="0" align="absmiddle"></td>
+	<td width="130" align="center"><img src="http://i.cnn.net/money/images/searchbar/select_source.gif" alt="" width="122" height="7" border="0"></td>
+	<td width="100" rowspan="2" align="center"><img src="http://i.cnn.net/money/images/searchbar/google_logo.gif" alt="" width="85" height="28" border="0"></td>
 </tr>
+<tr bgcolor="#003366"><td class="searchbarwhite"><input type="radio" name="sites" value="money">CNN/Money<input type="radio" name="sites" value="google" checked="">Web</td></tr>
+
+</tbody></table>
+</td></tr>
 </tbody></table>
 <table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr><!-- begin navigation -->
 		<td width="130" rowspan="2" valign="top" bgcolor="#CCCCCC" class="navbackground">
 	<noindex>
-	</noindex><noindex>
 <style>	<!--
 	A:hover  {
 		TEXT-DECORATION : underline;
@@ -91,6 +162,7 @@ popDown = HM_f_PopDown;
    HM_Mac = (navigator.appVersion.indexOf("Mac") != -1);
   HM_IE4M = HM_IE4 && HM_Mac;
 HM_IsMenu = (HM_DOM || HM_NS4 || (HM_IE4 && !HM_IE4M));
+var HM_BrowserString = "DOM";
 HM_BrowserString = HM_NS4 ? "NS4" : HM_DOM ? "DOM" : "IE4";
 	
 HM_GL_MenuWidth          = 130;
@@ -135,7 +207,33 @@ HM_GL_ShowLinkCursor     = true;
 HM_GL_NSFontOver	 = true;
 if(HM_IsMenu) {
 
-HM_Array1 = [[130,130,294],
+HM_Array1 = [[130,130,190],
+["<b><i>in Money Magazine</i></b>","/best/",1,0,0],
+["Autos","/news/specials/bestcars/",1,0,0],
+["Funds","/funds/money100/",1,0,0],
+["Places to live","/best/bplive",1,0,0],
+["Places to retire","/best/bpretire",1,0,0],
+["Places to vacation","/best/bpvac/",1,0,0],
+["Benefits","/news/specials/benefits/",1,0,0],
+["<img src='http://i.cnn.net/money/images/navigation/nav_calc_icon.gif' width=14 height=15 border=0 vspace=2 hspace=2 align='left'>Find your best place","http://cgi.money.cnn.com/tools/bestplaces/bplive.jsp",1,0,0]
+]
+
+HM_Array2 = [[130,130,210],
+["<b><i>in CNNfn TV</i></b>","/ontv/",1,0,0],
+["CNNmoney Morning","/ontv/cnnmoneymorning/",1,0,0],
+["Market Call","/ontv/marketcall/",1,0,0],
+["The Flip Side","/ontv/flipside/",1,0,0],
+["The Biz","/ontv/thebiz/",1,0,0],
+["The Money Gang","/ontv/themoneygang/",1,0,0],
+["Street Sweep","/ontv/streetsweep/",1,0,0],
+["Money &amp; Markets","/ontv/marketsimpact/",1,0,0],
+["Your Money","/ontv/yourmoney/",1,0,0],
+["Lou Dobbs Tonight","/cnn/CNN/Programs/lou.dobbs.tonight/",1,0,0],
+["Web video","/services/video/",1,0,0],
+["Buy show videos","https://secure.fdchemedia.com/forms/orcnnfn.html",1,0,0]
+]
+
+HM_Array3 = [[130,130,250],
 ["<b><i>in Markets &amp; Stocks</i></b>","/markets/",1,0,0],
 ["ADRs","/markets/adrs",1,0,0],
 ["AM Market Call","/markets/morning_call",1,0,0],
@@ -145,6 +243,7 @@ HM_Array1 = [[130,130,294],
 ["Dow 30","/markets/dow30.html",1,0,0],
 ["Earnings","/news/companies/firstcall/",1,0,0],
 ["Earnings Warnings","/markets/IRC/warnings.html",1,0,0],
+["Hot Stocks","/markets/hotstocks/",1,0,0],
 ["Investor Research Center","/markets/IRC",1,0,0],
 ["IPO Center","/markets/ipo",1,0,0],
 ["Most Active Stocks","/markets/us_actives.html",1,0,0],
@@ -157,22 +256,25 @@ HM_Array1 = [[130,130,294],
 ["<img src='http://i.cnn.net/money/images/navigation/nav_calc_icon.gif' width=14 height=15 border=0 vspace=2 hspace=2 align='left'>Real Time Quotes","/markets/xstream/",1,0,0]
 ]
 
-HM_Array2 = [[130,130,315],
+HM_Array4 = [[130,130,270],
 ["<b><i>in Company News</i></b>","/news/companies",1,0,0],
+["CEO of the week","http://cgi.money.cnn.com/apps/ceonews/",1,0,0],
 ["Company Research","/news/crc",1,0,0],
-["Deals","/news/deals",1,0,0],
+["Deals","/news/deals/mergers/dealchart.html",1,0,0],
+["Top 25 Deals - YTD","/news/deals/mergers/biggest.html",1,0,0],
 ["Financial News in Brief","/news/briefing",1,0,0],
 ["Funny Money","/news/funny/",1,0,0],
 ["Industry Watch","http://cnnmoney.yellowbrix.com",1,0,0],
+["Special Reports","/news/specials/",1,0,0],
 ]
 
-HM_Array3 = [[130,130,336],
+HM_Array5 = [[130,130,290],
 ["<b><i>in Economy</i></b>","/news/economy",1,0,0],
 ["Economic Calendar","/markets/IRC/economic.html",1,0,0],
-["The Hays Files","/commentary/column_hays/",1,0,0],
+["HaysWire","/commentary/column_hays/",1,0,0],
 ]
 
-HM_Array4 = [[130,130,357],
+HM_Array6 = [[130,130,310],
 ["<b><i>in World Biz</i></b>","/news/international/",1,0,0],
 ["World Markets","/markets/world_markets.html",1,0,0],
 ["FTSE 100","/markets/europe/ftse100.html",1,0,0],
@@ -181,28 +283,29 @@ HM_Array4 = [[130,130,357],
 ["<img src='http://i.cnn.net/money/images/navigation/nav_calc_icon.gif' width=14 height=15 border=0 vspace=2 hspace=2 align='left'>Currency Converter","/markets/currencies/",1,0,0],
 ]
 
-HM_Array5 = [[130,130,378],
+HM_Array7 = [[130,130,330],
 ["<b><i>in Technology</i></b>","/technology/",1,0,0],
-["Tech Investor","/technology/techinvestor",1,0,0],
+["Tech Biz","/technology/techinvestor",1,0,0],
 ["Sectors & Stocks","/technology/techstocks",1,0,0],
 ["Techwatch","/technology/techwatch",1,0,0]
 ]
 
-HM_Array6 = [[130,130,399],
+HM_Array8 = [[130,130,350],
 ["<b><i>in Commentary</i></b>","/commentary/",1,0,0],
-["The Bottom Line","/commentary/bottomline",1,0,0],
+["Bid and Ask","/commentary/bidask/",1,0,0],
+["The Bottom Line","/commentary/bottomline/",1,0,0],
 ["Business of Sports","/commentary/column_sportsbiz",1,0,0],
 ["The Dobbs Report","/commentary/dobbs",1,0,0],
 ["Everyday Money","/commentary/everyday/",1,0,0],
 ["Game Over","/commentary/game_over",1,0,0],
-["The Hays Files","/commentary/column_hays",1,0,0],
+["HaysWire","/commentary/column_hays",1,0,0],
 ["Street Life","/commentary/streetlife",1,0,0],
-["Tech Investor","/technology/techinvestor",1,0,0],
+["Tech Biz","/technology/techinvestor",1,0,0],
 ["Wastler's Wanderings","/commentary/wastler",1,0,0]
 ]
 
-HM_Array7 = [[130,130,420],
-["<b><i>in Personal Finance</i></b>","/pf/",1,0,0],
+HM_Array9 = [[130,130,370],
+["<b><i>in Your Money</i></b>","/pf/",1,0,0],
 ["Autos","/pf/autos",1,0,0],
 ["Banking","/pf/banking",1,0,0],
 ["College","/pf/college",1,0,0],
@@ -210,7 +313,7 @@ HM_Array7 = [[130,130,420],
 ["Interest Rates","/pf/banking/ratesearch.html",1,0,0],
 ["Investing","/pf/investing",1,0,0],
 ["Retirement","/retirement",1,0,0],
-["Smart Spending","/pf/saving",1,0,0],
+["Smart Assets","/pf/saving",1,0,0],
 ["Tax Center","/pf/taxes",1,0,0],
 ["Travel","/pf/saving/travel",1,0,0],
 ["Your home","/pf/yourhome",1,0,0],
@@ -223,7 +326,7 @@ HM_Array7 = [[130,130,420],
 ["<img src='http://i.cnn.net/money/images/navigation/nav_calc_icon.gif' width=14 height=15 border=0 vspace=2 hspace=2 align='left'>Asset Allocator","http://cgi.money.cnn.com/tools/assetallocwizard/assetallocwizard.html",1,0,0],
 ]
 
-HM_Array8 = [[130,130,441],
+HM_Array10 = [[130,130,390],
 ["<b><i>in Mutual Funds</i></b>","/funds/",1,0,0],
 ["Money 100","/funds/money100",1,0,0],
 ["Winners & Losers","/funds/morningstar/ytd.html",1,0,0],
@@ -231,19 +334,7 @@ HM_Array8 = [[130,130,441],
 ["<img src='http://i.cnn.net/money/images/navigation/nav_calc_icon.gif' width=14 height=15 border=0 vspace=2 hspace=2 align='left'>Find a Fund","http://cgi.money.cnn.com/tools/findafund/findafund.html",1,0,0]
 ]
 
-HM_Array9 = [[130,130,462],
-["<b><i>in Money's Best</i></b>","/best/",1,0,0],
-["Autos","/news/specials/bestcars/",1,0,0],
-["Funds","/funds/money100/",1,0,0],
-["Online Brokers","/best/brokers",1,0,0],
-["Places to live","/best/bplive",1,0,0],
-["Places to retire","/best/bpretire",1,0,0],
-["Places to vacation","/best/bpvac_winter/",1,0,0],
-["Benefits","/news/specials/benefits/",1,0,0],
-["<img src='http://i.cnn.net/money/images/navigation/nav_calc_icon.gif' width=14 height=15 border=0 vspace=2 hspace=2 align='left'>Find your best place","http://cgi.money.cnn.com/tools/bestplaces/bplive.jsp",1,0,0]
-]
-
-HM_Array10 = [[130,130,495],
+HM_Array11 = [[130,130,420],
 ["<b><i>in Money 101</i></b>","/pf/101/",1,0,0],
 ["Setting Priorities","/pf/101/lessons/1/",1,0,0],
 ["Making a budget","/pf/101/lessons/2/",1,0,0],
@@ -269,7 +360,7 @@ HM_Array10 = [[130,130,495],
 ["401(k)s","/pf/101/lessons/23/",1,0,0]
 ]
 
-HM_Array11 = [[130,130,535],
+HM_Array12 = [[130,130,460],
 ["<b><i>in Calculators</i></b>","/tools/",1,0,0],
 ["<img src='http://i.cnn.net/money/images/navigation/nav_calc_icon.gif' width=14 height=15 border=0 vspace=2 hspace=2 align='left'>Fund Screener","http://cgi.money.cnn.com/tools/fundscreener/fundscreener.jsp",1,0,0],
 ["<img src='http://i.cnn.net/money/images/navigation/nav_calc_icon.gif' width=14 height=15 border=0 vspace=2 hspace=2 align='left'>Retirement Planner","http://cgi.money.cnn.com/tools/retirementplanner/retirementplanner.jsp",1,0,0],
@@ -286,73 +377,42 @@ HM_Array11 = [[130,130,535],
 //-->
 </script><script language="JavaScript1.2" src="http://i.cnn.net/money/javascript/code/HM_ScriptDOM.js" type="text/javascript"></script>
 	</noindex><table width="130" border="0" cellspacing="0" cellpadding="0">
-	<!-- begin quote include -->
-<tbody><tr bgcolor="#003366">
-	<!--QS-->
-	<form action="http://qs.money.cnn.com/tq/stockquote" method="get"></form>
-	<!--GW/CGI-->
-		<td valign="top"><span class="caption" style="color: ffffff;">&nbsp;<b>Enter Ticker Symbol</b><br>&nbsp;</span>
-		<!--QS-->
-		<input name="symbols" size="7" maxlength="38" style="font-size:13px;" type="text">
-		<!--GW/CGI-->
-		<!--<input name="symbol" size="10" maxlength="38" style="font-size:13px;">-->
-		<input type="image" name="submit3" src="http://i.cnn.net/money/images/newhome/button_quote.gif" width="47" height="22" hspace="0" vspace="0" border="0" align="absmiddle"><br>
-		<!--for TAL <input type="submit" value="go" width="20" height="20">-->
-<a href="/markets/quotes/quote_search.html"><img src="http://i.cnn.net/money/images/newhome/symbol_lookup.gif" alt="" width="65" height="9" border="0" hspace="4" vspace="0"></a><br>
-<img src="http://i.cnn.net/money/images/newhome/nav_white_dot_rule.gif" alt="" width="123" height="3" border="0" hspace="3" vspace="0"><br>
-		</td>
-	
-	</tr>
-<!-- end quote include -->
-
-<!-- begin search -->
-<form action="http://search.money.cnn.com/money/search" method="get"></form>
-<tr bgcolor="#003366">
-<td valign="top"><span class="caption" style="color: ffffff;">&nbsp;<b>Search CNN/Money</b><br>
-<input type="hidden" name="source" value="money">
-<input type="hidden" name="invocationType" value="side/top">
-&nbsp;</span><input type="text" name="query" size="7" maxlength="38" style="font-size: 13px">
-<input type="image" name="search" src="http://i.cnn.net/money/images/newhome/button_search.gif" width="48" height="22" hspace="0" border="0" align="absmiddle">
-<img src="http://i.cnn.net/money/images/dot.gif" alt="" width="100" height="4" hspace="0" vspace="0" border="0"></td>
-</tr>
-
-<!-- end search -->
-
-<tr height="75" align="center" bgcolor="#003366">
+<tbody><tr height="75" align="center" bgcolor="#003366">
 		<td height="75" width="130"><img src="http://i.cnn.net/money/images/newhome/advertisement_120.gif" width="120" height="7" hspace="0" vspace="0" border="0" alt=""><br>
-<!--ad services/general_services/left.120x60 -->
+<!-- services/general_services/left.120x60 -->
 <script language="JavaScript1.1">
 <!--
-htmlAdWH( (new Array(93107821,93109540,93108143,93108143))[document.adoffset||0] , 120, 60);
+adSetTarget('_top');
+htmlAdWH( (new Array(93107821,93107821,93108143,93108143))[document.adoffset||0] , 120, 60);
 //-->
-</script>
-<noscript><a href="http://ar.atwola.com/link/93107821/aol"><img src="http://ar.atwola.com/image/93107821/aol" alt="Click Here" width="120" height="60" border="0"></a></noscript>
-
+</script><noscript><a href="http://ar.atwola.com/link/93107821/aol" target="_top"><img src="http://ar.atwola.com/image/93107821/aol" alt="Click here for our advertiser" width="120" height="60" border="0"></a></noscript>
 		</td>
 	</tr>
 
 
 <tr><td valign="top">
 	<table width="130" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr bgcolor="#003366"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td width="122" height="15" bgcolor="#003366">&nbsp;<a href="/" class="homenav" style="color: white;">Home<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="10" hspace="0" width="70" vspace="0"></a></td></tr>
+	<tbody><tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#336699" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#336699'">&nbsp;<a href="/best" class="homenav" onmouseover="HM_f_PopUp('elMenu1',event)" onmouseout="HM_f_PopDown('elMenu1')">Money&nbsp;Magazine</a></td></tr>
+	<tr bgcolor="#336699"><td width="130" colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
+	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#336699" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#336699'">&nbsp;<a href="/ontv/" class="homenav" onmouseover="HM_f_PopUp('elMenu2',event)" onmouseout="HM_f_PopDown('elMenu2')">CNNfn&nbsp;TV<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="14" hspace="0" width="51" vspace="0"></a></td></tr>
+	<tr bgcolor="#003366"><td colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
+	<tr bgcolor="#003366"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td width="122" height="15" bgcolor="#003366">&nbsp;<a href="/" class="homenav" style="color: white;">Home<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="10" hspace="0" width="70" vspace="0"></a></td></tr>
 	<tr bgcolor="#003366"><td width="130" colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/markets" class="homenav" onmouseover="HM_f_PopUp('elMenu1',event)" onmouseout="HM_f_PopDown('elMenu1')">Markets &amp; Stocks</a></td></tr>
+	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/markets" class="homenav" onmouseover="HM_f_PopUp('elMenu3',event)" onmouseout="HM_f_PopDown('elMenu3')">Markets &amp; Stocks</a></td></tr>
 	<tr bgcolor="#003366"><td colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/news/companies/" class="homenav" onmouseover="HM_f_PopUp('elMenu2',event)" onmouseout="HM_f_PopDown('elMenu2')">Company&nbsp;News<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="14" hspace="0" width="19" vspace="0"></a></td></tr>
+	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/news/companies/" class="homenav" onmouseover="HM_f_PopUp('elMenu4',event)" onmouseout="HM_f_PopDown('elMenu4')">Company&nbsp;News<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="14" hspace="0" width="19" vspace="0"></a></td></tr>
 	<tr bgcolor="#003366"><td colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/news/economy/" class="homenav" onmouseover="HM_f_PopUp('elMenu3',event)" onmouseout="HM_f_PopDown('elMenu3')">Economy<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="14" hspace="0" width="51" vspace="0"></a></td></tr>
+	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/news/economy/" class="homenav" onmouseover="HM_f_PopUp('elMenu5',event)" onmouseout="HM_f_PopDown('elMenu5')">Economy<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="14" hspace="0" width="51" vspace="0"></a></td></tr>
 	<tr bgcolor="#003366"><td colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/news/international/" class="homenav" onmouseover="HM_f_PopUp('elMenu4',event)" onmouseout="HM_f_PopDown('elMenu4')">World&nbsp;Biz<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="14" hspace="0" width="51" vspace="0"></a></td></tr>
+	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/news/international/" class="homenav" onmouseover="HM_f_PopUp('elMenu6',event)" onmouseout="HM_f_PopDown('elMenu6')">World&nbsp;Biz<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="14" hspace="0" width="51" vspace="0"></a></td></tr>
 	<tr bgcolor="#003366"><td colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr height="11"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/technology" class="homenav" onmouseover="HM_f_PopUp('elMenu5',event)" onmouseout="HM_f_PopDown('elMenu5')">Technology<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="34" vspace="0"></a></td></tr>
+	<tr height="11"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/technology" class="homenav" onmouseover="HM_f_PopUp('elMenu7',event)" onmouseout="HM_f_PopDown('elMenu7')">Technology<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="34" vspace="0"></a></td></tr>
 	<tr bgcolor="#003366"><td colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/commentary" class="homenav" onmouseover="HM_f_PopUp('elMenu6',event)" onmouseout="HM_f_PopDown('elMenu6')">Commentary<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="31" vspace="0"></a></td></tr>
+	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/commentary" class="homenav" onmouseover="HM_f_PopUp('elMenu8',event)" onmouseout="HM_f_PopDown('elMenu8')">Commentary<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="31" vspace="0"></a></td></tr>
 	<tr bgcolor="#003366"><td colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr height="11"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/pf" class="homenav" onmouseover="HM_f_PopUp('elMenu7',event)" onmouseout="HM_f_PopDown('elMenu7')">Personal&nbsp;Finance</a><br></td></tr>
+	<tr height="11"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/pf" class="homenav" onmouseover="HM_f_PopUp('elMenu9',event)" onmouseout="HM_f_PopDown('elMenu9')">Your&nbsp;Money<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="36" vspace="0"></a><br></td></tr>
 	<tr bgcolor="#003366"><td colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/funds" class="homenav" onmouseover="HM_f_PopUp('elMenu8',event)" onmouseout="HM_f_PopDown('elMenu8')">Mutual&nbsp;Funds<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="26" vspace="0"></a></td></tr>
-	<tr bgcolor="#003366"><td colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/best" class="homenav" onmouseover="HM_f_PopUp('elMenu9',event)" onmouseout="HM_f_PopDown('elMenu9')">Money's&nbsp;Best<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="26" vspace="0"></a></td></tr>
+	<tr height="15"><td width="8" bgcolor="#336699">&nbsp;&nbsp;</td><td valign="middle" bgcolor="#003366" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#003366'">&nbsp;<a href="/funds" class="homenav" onmouseover="HM_f_PopUp('elMenu10',event)" onmouseout="HM_f_PopDown('elMenu10')">Mutual&nbsp;Funds<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="26" vspace="0"></a></td></tr>
 	<tr bgcolor="#003366"><td width="130" colspan="2" align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
 </tbody></table>
 </td></tr>
@@ -366,11 +426,11 @@ htmlAdWH( (new Array(93107821,93109540,93108143,93108143))[document.adoffset||0]
 <tr><td>
 <table border="0" cellspacing="0" cellpadding="0" bgcolor="#336699">
 	<tbody><tr><td><img src="http://i.cnn.net/money/images/newhome/financial_tools.gif" alt="" width="130" height="13" border="0"><br></td></tr>
-	<tr valign="middle" height="17"><td bgcolor="#336699" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#336699'" valign="middle" width="130"><img src="http://i.cnn.net/money/images/newhome/icon_book.gif" alt="" width="17" height="17" border="0" align="left"><a href="/pf/101/" class="homenav" onmouseover="HM_f_PopUp('elMenu10',event)" onmouseout="HM_f_PopDown('elMenu10')">Money 101<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="28" vspace="0"></a><br></td></tr>
+	<tr valign="middle" height="17"><td bgcolor="#336699" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#336699'" valign="middle" width="130"><img src="http://i.cnn.net/money/images/newhome/icon_book.gif" alt="" width="17" height="17" border="0" align="left"><a href="/pf/101/" class="homenav" onmouseover="HM_f_PopUp('elMenu11',event)" onmouseout="HM_f_PopDown('elMenu11')">Money 101<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="28" vspace="0"></a><br></td></tr>
 	<tr bgcolor="#336699"><td align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
 	<tr valign="middle" height="17"><td bgcolor="#336699" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#336699'"><img src="http://i.cnn.net/money/images/navigation/nav_calc_icon.gif" width="14" height="15" border="0" vspace="2" hspace="2" align="left"><a href="/services/portfolio" class="homenav">Portfolio</a><br></td></tr>
 	<tr bgcolor="#336699"><td align="center" bgcolor="#003366"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
-	<tr valign="middle" height="17"><td bgcolor="#336699" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#336699'"><img src="http://i.cnn.net/money/images/navigation/nav_calc_icon.gif" width="14" height="15" border="0" vspace="2" hspace="2" align="left"><a href="/tools" class="homenav" onmouseover="HM_f_PopUp('elMenu11',event)" onmouseout="HM_f_PopDown('elMenu11')">Calculators<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="33" vspace="0"></a><br></td></tr>
+	<tr valign="middle" height="17"><td bgcolor="#336699" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#336699'"><img src="http://i.cnn.net/money/images/navigation/nav_calc_icon.gif" width="14" height="15" border="0" vspace="2" hspace="2" align="left"><a href="/tools" class="homenav" onmouseover="HM_f_PopUp('elMenu12',event)" onmouseout="HM_f_PopDown('elMenu12')">Calculators<img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="12" hspace="0" width="33" vspace="0"></a><br></td></tr>
 	<tr bgcolor="#336699"><td align="center"><img src="http://i.cnn.net/money/images/navigation/html_rule_01.gif" width="128" height="2" border="0"><br></td></tr>
 	<tr valign="middle" height="17"><td bgcolor="#336699" onmouseover="this.bgColor='#99ccff'" onmouseout="this.bgColor='#336699'"><img src="http://i.cnn.net/money/images/navigation/nav_calc_icon.gif" width="14" height="15" border="0" vspace="2" hspace="2" align="left"><a href="/markets/xstream/" class="homenav">Real-time Quotes</a><br></td></tr>
 	<tr><td height="5"><img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="5" hspace="0" width="130" vspace="0"></td></tr>
@@ -381,14 +441,22 @@ htmlAdWH( (new Array(93107821,93109540,93108143,93108143))[document.adoffset||0]
 &nbsp;<span class="tease" style="color: 666666;"><b>CNN/Money</b></span><br>
 &nbsp;<a href="http://money.cnn.com/services/newsletters" class="storystack" style="color: 003366;"><b>Email newsletters</b></a><br>
 &nbsp;<a href="http://money.cnn.com/services/avantgo" class="storystack" style="color: 003366;"><b>Mobile news</b></a><br>
-&nbsp;<a href="http://money.cnn.com/metatraffic/reprint_navbar/reprint.exclude.html" class="storystack" style="color: 003366;"><b>Buy story reprints</b></a><br>
-<div align="center"><img src="http://i.cnn.net/money/images/newhome/nav_gray_dot_rule.gif" alt="" width="130" height="3" border="0" vspace="3"></div>
+&nbsp;<a href="http://money.cnn.com/services/search/moneymag/" class="storystack" style="color: 003366;"><b>Money archives</b></a><br>
+&nbsp;<a href="http://cgi.money.cnn.com/servlets/Redirects?class/navbar/money.cnn.com/services/reprints" class="storystack" style="color: 003366;"><b>Buy story reprints</b></a><br>
+<!--<div align="center"><img src="http://i.cnn.net/money/images/newhome/nav_gray_dot_rule.gif" alt="" width="130" height="3" border="0" vspace="3"></div>
 &nbsp;<span class="tease" style="color: 666666;"><b>CNNfn</b></span><br>
 &nbsp;<a href="http://money.cnn.com/ontv/" class="storystack" style="color: 003366;"><b>on TV</b></a> <span class="tease" style="color: 666666;">|</span> <a href="http://money.cnn.com/services/video" class="storystack" style="color: 003366;"><b>Web video</b></a><br>
-&nbsp;<a href="https://orion.fdch.com/forms/orcnnfn.html" class="storystack" style="color: 003366;"><b>Buy show videos</b></a><br>
+&nbsp;<a href="https://secure.fdchemedia.com/forms/orcnnfn.html" class="storystack" style="color: 003366;"><b>Buy show videos</b></a><br>-->
 <img src="http://i.cnn.net/money/images/dot.gif" border="0" alt="" height="5" hspace="0" vspace="0"><br>
 </td></tr>
 </tbody></table>
+<style>	<!--
+	A:hover  {
+		TEXT-DECORATION : underline;
+		color: black;
+	}
+	-->
+</style>
 
 <!-- consummer marketing ad goes here -->
 
@@ -588,53 +656,37 @@ policy for this site or its implementation you may contact us at <a href="mailto
 	<td width="160" align="center" valign="top">
 	<img src="/images/advertisement.120.gif" width="120" height="7" hspace="20" vspace="0" border="0" alt=""><br>
 	<table width="152" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr><td align="center"><!-- services/general_services/atf_right_commerce_link_1.150x10 -->
+	<tbody><tr><td align="center"><!-- blank "ad" services/general_services/atf_right_commerce_link_1.150x10 --></td></tr>
+	<tr><td align="center"><!-- services/general_services/atf_right_commerce_link_2.150x10 -->
 <span class="aoltextad">
 <script language="JavaScript1.1">
 <!--
 adSetType('J');
-htmlAdWH( (new Array(93109542,93109542,93108146,93108146))[document.adoffset||0] , 150, 10);
+htmlAdWH( (new Array(93107816,93107816,93108147,93108147))[document.adoffset||0] , 150, 10);
 adSetType('');
 //-->
 </script>
-<noscript><a href="http://ar.atwola.com/link/93109542/aol"><img src="http://ar.atwola.com/image/93109542/aol" alt="Click Here" width="150" height="10" border="0"></a></noscript>
 </span></td></tr>
-	<tr><td align="center"><!--ad services/general_services/atf_right_commerce_link_2.150x10 -->
+	<tr><td align="center"><!-- services/general_services/atf_right_commerce_link_3.150x10 -->
 <span class="aoltextad">
 <script language="JavaScript1.1">
 <!--
 adSetType('J');
-htmlAdWH( (new Array(93107816,93109543,93108147,93108147))[document.adoffset||0] , 150, 10);
+htmlAdWH( (new Array(93107817,93107817,93108148,93108148))[document.adoffset||0] , 150, 10);
 adSetType('');
 //-->
 </script>
-<noscript><a href="http://ar.atwola.com/link/93107816/aol" target="_blank"><img src="http://ar.atwola.com/image/93107816/aol" alt="Click Here" width="150" height="10" border="0"></a></noscript>
-</span>
-</td></tr>
-	<tr><td align="center"><!--ad services/general_services/atf_right_commerce_link_3.150x10 -->
+</span></td></tr>
+	<tr><td align="center"><!-- services/general_services/atf_right_commerce_link_4.150x10 -->
 <span class="aoltextad">
 <script language="JavaScript1.1">
 <!--
 adSetType('J');
-htmlAdWH( (new Array(93107817,93109544,93108148,93108148))[document.adoffset||0] , 150, 10);
+htmlAdWH( (new Array(93107818,93107818,93108149,93108149))[document.adoffset||0] , 150, 10);
 adSetType('');
 //-->
 </script>
-<noscript><a href="http://ar.atwola.com/link/93107817/aol" target="_blank"><img src="http://ar.atwola.com/image/93107817/aol" alt="Click Here" width="150" height="10" border="0"></a></noscript>
-</span>
-</td></tr>
-	<tr><td align="center"><!--ad services/general_services/atf_right_commerce_link_4.150x10 -->
-<span class="aoltextad">
-<script language="JavaScript1.1">
-<!--
-adSetType('J');
-htmlAdWH( (new Array(93107818,93109545,93108149,93108149))[document.adoffset||0] , 150, 10);
-adSetType('');
-//-->
-</script>
-<noscript><a href="http://ar.atwola.com/link/93107818/aol" target="_blank"><img src="http://ar.atwola.com/image/93107818/aol" alt="Click Here" width="150" height="10" border="0"></a></noscript>
-</span>
-</td></tr>
+</span></td></tr>
 	</tbody></table><br>
 	<!-- services/general_services/middle_right.120x240 -->
 <script language="JavaScript1.1">
@@ -650,17 +702,36 @@ htmlAdWH( (new Array(93109541,93109541,93108145,93108145))[document.adoffset||0]
 </tbody></table>
 <!-- copyright footer -->
 <noindex>
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#003162"><td height="25">&nbsp;<a href="/"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: White; text-decoration: none;">CNN</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #FFFF33; text-decoration: none;">money</span></a></td>
-	<td align="center"><span class="footerbar"><a href="/services/speakup" class="footerlink">contact us</a> | <a href="https://secure.customersvc.com/servlet/Show?WESPAGE=mo/home.html&amp;MSRSMAG=MO" class="footerlink">magazine customer service</a> <!--| <a href="/" class="footerlink">advertising</a>--> | <a href="/services/sitemap" class="footerlink">site map</a> | <a href="/services/glossary/a.html" class="footerlink">CNN/Money glossary</a></span></td>
+<!-- popunder ad generic/popunder_launch.720x300 -->
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+if (document.adPopupFile) {
+	if (document.adPopupInterval == null) {
+		document.adPopupInterval = '0';
+	}
+	if (document.adPopunderInterval == null) {
+		document.adPopunderInterval = document.adPopupInterval;
+	}
+	if (document.adPopupDomain != null) {
+		adSetPopDm(document.adPopupDomain);
+	}
+	adSetPopupWH('93165927', '720', '300', document.adPopupFile, document.adPopunderInterval, 20, 50, -1);
+}
+// -->
+</script>
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr bgcolor="#003162">
+	<td width="130" height="25">&nbsp;<a href="/"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: White; text-decoration: none;">CNN</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #FFFF33; text-decoration: none;">money</span></a></td>
+	<td align="center"><span class="footerbar"><a href="/services/speakup" class="footerlink">contact us</a> | <a href="https://secure.customersvc.com/servlet/Show?WESPAGE=mo/home.html&amp;MSRSMAG=MO" class="footerlink">magazine customer service</a> <!--| <a href="/" class="footerlink">advertising</a>--> | <a href="/services/sitemap" class="footerlink">site map</a> | <a href="/services/glossary/a.html" class="footerlink">CNN/Money glossary</a> | <a href="/services/pressroom" class="footerlink">press room</a></span></td>
 </tr>
 <tr bgcolor="#999999"><td>&nbsp;</td><td>
-	<span class="footerwhite">OTHER NEWS:</span> <a href="/cnn" class="footerwhite">CNN</a> | <a href="/cnnsi" class="footerwhite">CNNSI</a> | <a href="http://www.fortune.com" class="footerwhite">Fortune</a> | <a href="http://www.business2.com" class="footerwhite">Business 2.0</a> | <a href="http://time.com" class="footerwhite">Time</a><br>
-	<span class="copyright"><i>© 2002 Cable News Network LP, LLLP.</i> An AOL Time Warner Company ALL RIGHTS RESERVED.<br><a href="/services/terms.html">Terms</a> under which this service is provided to you. <a href="/services/privacy/">privacy policy</a> <a href="/metatraffic/reprint_sitefooter/reprint.exclude.html">Reprints</a> of site stories are available.</span>
+	<span class="footerwhite">OTHER NEWS:</span> <a href="/cnn" class="footerwhite">CNN</a> | <a href="/cnnsi" class="footerwhite">SI</a> | <a href="http://www.fortune.com" class="footerwhite">Fortune</a> | <a href="http://www.business2.com" class="footerwhite">Business 2.0</a> | <a href="http://time.com" class="footerwhite">Time</a><br>
+	<span class="copyright"><i>© 2003 Cable News Network LP, LLLP.</i> An AOL Time Warner Company ALL RIGHTS RESERVED.<br><a href="/services/terms.html">Terms</a> under which this service is provided to you. <a href="/services/privacy/">privacy policy</a>&nbsp;&nbsp;<a href="http://cgi.money.cnn.com/servlets/Redirects?class/sitefooter/money.cnn.com/services/reprints">Reprints</a> of site stories are available.</span>
 </td></tr>
 <!--endclickprintexclude-->
 </tbody></table>
 </noindex>
+
 <img src="/cookie.crumb" width="1" height="1">
 <script language="JavaScript1.1" src="http://ar.atwola.com/file/adsEnd.js"></script>
 
