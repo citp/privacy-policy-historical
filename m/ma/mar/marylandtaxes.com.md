@@ -1,51 +1,44 @@
-> *The following text is extracted and transformed from the marylandtaxes.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206183500id_/http%3A//www.marylandtaxes.com/compmd/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marylandtaxes.com privacy policy that was archived on 2001-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010306083145id_/http%3A//www.marylandtaxes.com/main/privacy.asp) for the most accurate reproduction.*
 
-# MDComp - Privacy Statement
+# Welcome to the Comptroller of Maryland's Homepage
 
-### Comptroller of Maryland  
-Online Privacy Statement
+### Privacy Statement
 
 The Comptroller of Maryland respects your privacy and the confidentiality of your tax records. We keep all the information we collect at this site strictly confidential, and we use the latest technology to secure the data on this site. 
 
-  * **What information do we collect?**
-  * **What do we do with that information?**
-  * **What laws protect your privacy on our Web site?**
-  * **If you have any questions...**
+  * **Information we collect**
+  * **How we use the information**
+  * **Laws that protect your privacy**
+  * **If you have any questions....**
 
+**Information We Collect**
 
+Let's start with what we **don't** collect. We **don't collect or capture** names; home, business, or e-mail addresses; telephone numbers; or account information unless you voluntarily give us that information for a specific purpose. If you do give us that information, we use it only for the stated purpose. We **don't** use cookies to track visitors to our Web site; however, for some of the interactive applications we do use them to hold your session information. Once you finish the application the cookie is removed. 
 
-**What information do we collect?**
+Our web server software automatically logs the following information every time someone visits our Web site: 
 
-Let's start with what we don't collect. We don't collect or capture names; homes, business, or e-mail addresses; telephone numbers; or account information from your Internet visit unless you voluntarily give us that information for a specific application. If you do give us that information, we use it only for the stated purpose. We don't use cookies to track visitors to our web site; however for some of the interactive applications we do use them to hold your session information for that application. Once you finish the application the cookie is removed. 
-
-Our web server software automatically logs the following information every time someone visits our Web site:  **Information** | **Definition**  
+**Information** | **Definition**  
 ---|---  
 Date | Date the visit occurred.  
 Time | Time the visit occurred.  
 Client IP | Internet Protocol address of the visitor.  
-Server IP | Internet Protocol address of web server accessed. This will always be the IP address of our web server. We do not and cannot track sites you visit other than our Web site.   
-HTTP Status | Hyper Text Transfer Protocol (HTTP) status or error code.   
+Server IP | Internet Protocol address of Web server accessed. This will always be the IP address of our Web server. We do not and cannot track sites you visit other than our Web site.  
+HTTP Status | Hyper Text Transfer Protocol (HTTP) status or error code.  
 HTTP Request URL | Identifies the Web page or file requested.  
 Bytes Sent | Amount of data sent from the Web server to a visitor during that connection.  
 Bytes Received | Amount of data sent from the visitor to the Web server.  
-User Agent | Type of Web browser or client software that made request to the web server.  
+User Agent | Type of Web browser or client software that made request to the Web server.  
 Referrer | Uniform Resource Locator (URL) that referred a visitor to the requested file.  
-Protocol Version | Version of HTTP used by the visitor's web browser software.  
-|   
+Protocol Version | Version of HTTP used by the visitor's Web browser software.  
   
-**What do we do with the information collected?**
+**How We Use the Information**
 
-We do not and will not sell this information or distribute it to anyone outside the department. 
+We do not and will not sell this information or distribute it to anyone outside the agency. 
 
-We use the information we gather from your visit to help us improve our Web site. For example, by tracking how many people visit the Web site, when they visit, and the pages they visit, we can give visitors more of the kind of information they want and need. And by tracking client software (e.g., browser), we can avoid using features that visitors cannot view or use. 
+We use the information we gather from your visit to help us improve our Web site. For example, by tracking how many people visit the Web site, when they visit, and the pages they visit, we can give visitors more of the kind of information they want and need. And, by tracking client software (e.g., browser type), we can avoid using features on our site that visitors cannot view or use.
 
-**What laws protect your privacy on our Web site?**
+**Laws That Protect Your Privacy**
 
-The privacy of all tax information, including any information you submit to our web site or information accessed through our web site (such as the status of your refund) is protected by the Tax General Article of the Maryland Annotated Code, Section 13 - 202. The tax confidentiality law prohibits any state employee from divulging confidential tax information. 
+The privacy of all tax information, including any information you submit to our Web site or information accessed through our Web site (such as the status of your refund), is protected by the Tax General Article of the Maryland Annotated Code, Section 13 - 202. The tax confidentiality law prohibits any state employee from divulging confidential tax information.
 
 **If you have any questions....**
-
-Contact our Webmaster: [David M. Hildebrand](mailto:dhildebr@comp.state.md.us). 
-
-  
-
