@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecatsite.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023929id_/http%3A//www.thecatsite.com/contact/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecatsite.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604092418id_/http%3A//www.thecatsite.com/contact/privacy.html) for the most accurate reproduction.*
 
 # TheCatSite.com - Privacy Statement
 
@@ -25,8 +25,7 @@ Our site uses a feedback form for visitors to send us their impressions, ideas a
 
 **Newsletter**
 
-Our site also allows you to sign up for a free newsletter. At this time, the list is served through Topica. Your e-mail address is not shared with or sold to any third parties. Only our staff and Topica's have access to the e-mail addresses. You can unsubscribe from the newsletter at sending a blank email to:  
-[TheCatSite-unsubscribe@topica.com](mailto:TheCatSite-unsubscribe@topica.com). 
+Our site also allows you to sign up for a free newsletter. Your e-mail address is not shared with or sold to any third parties. Only this site's administrator has access to the e-mail addresses. You can unsubscribe from the newsletter [follow this link](http://thecatsite.com/cgi-bin/mojo/mojo.cgi?f=u&l=tcs&e=). 
 
 **Polls**
 
