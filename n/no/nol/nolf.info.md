@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nolf.info privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413183341id_/http%3A//nolf.info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolf.info privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203023919id_/http%3A//www.nolf.info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
