@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811074415id_/http%3A//solium.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2004-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040426160905id_/http%3A//www.solium.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Solium Capital Inc. | Privacy Policy
 
@@ -23,11 +23,9 @@ This website privacy policy describes how Solium handles information we collect 
 
 **Privacy for E-SOAP Users**
 
-Solium's privacy policy for E-SOAP users reflect the ten privacy protection principles that form the Canadian Standards Act (CSA), which has been entitled the Model Code for the Protection of Personal Information. The CSA deals with the rights of individuals to have access to their personal information and to have it corrected if necessary, as well as the ways in which an organization collects, uses and discloses personal information. 
+Solium's privacy policy complies with the federal government's Personal Information Protection and Electronic Documents Act (PIPEDA) and the provincial government's Personal Information Protection Act (PIPA). PIPEDA incorporates the ten privacy protection principles that form the Canadian Standards Act (CSA), which has been entitled the Model Code for the Protection of Personal Information. The CSA deals with the rights of individuals to have access to their personal information and to have it corrected if necessary, as well as the ways in which an organization collects, uses and discloses personal information. 
 
-The CSA was approved as a national standard by the Standards Council of Canada and was published in 1996. The Act incorporates the privacy provision of Canada's new Federal Personal Information Protection and Electronic Documents Act, revised in 2000. 
-
-This policy supplements the Electronic Access Agreement and the Client Account Agreement(s) governing your account with Solium. 
+This privacy policy supplements the Electronic Access Agreement and the Client Account Agreement(s) governing your account with Solium. 
 
 Solium's Ten Privacy Protection Principles 
 
@@ -40,11 +38,11 @@ Solium's Ten Privacy Protection Principles
   7. **Safeguards** \- Solium has implemented strict procedures to protect the data stored within our infrastructure. Our data is housed at a secure offsite location with tight physical and electronic security access. All access and collection of personal information within our site requires a 128-bit encrypted browser, to ensure the highest commercial level of security for your Internet transactions. If you contact a Solium Client Account Administrator by phone, you will be asked to provide your personally selected verification word and/or some other personal identification information.
   8. **Openness** \- Our Privacy Policy is available to view on our site at any time or you may request information from us regarding our policies and practices that relates to the management of your personal information.
   9. **Client Access** \- All personal information is readily accessed through your personal account with Solium. You may access this information through our website or by contacting us directly. You may verify the accuracy and completeness of your information, and request amendments to this information if required.
-  10. **Client Complaints and Suggestions** \- You may direct any inquiries regarding the above privacy principles or our practices by contacting us and speaking to the designated person(s) who is accountable for our Privacy and Practices at Solium.
+  10. **Client Complaints and Suggestions** \- You may direct any inquiries regarding the above privacy principles or our practices by contacting us and speaking to the Privacy Officer who is accountable for our Privacy and Practices at Solium.
 
   
   
   |   
    
-COPYRIGHT © 2003 SOLIUM CAPITAL INC. ALL RIGHTS RESERVED. [](https://web.archive.org/html/privacy_policy.html)  
+COPYRIGHT © 2004 SOLIUM CAPITAL INC. ALL RIGHTS RESERVED. [](https://web.archive.org/html/privacy_policy.html)  
 |  | 
