@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the kegworks.com privacy policy that was archived on 2004-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604142826id_/http%3A//kegworks.com/shoppingcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kegworks.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204225307id_/http%3A//kegworks.com/shoppingcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
 
 <html><head>
-<title>KegWorks.com  
-- Help section
+<title> 
+Help section - 
+ KegWorks.com 
 </title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="KegWorks.com is your source for home draft beer dispensing equipment,compact refrigeration, home bar accessories, bar furniture, concession equipment and professional cookware. Secure, online ordering.">
+	<meta name="description" content="KegWorks.com is your source for high quality home bar equipment, draft beer dispenser equipment including kegerators, bar accessories, glass racks, bar rails, and much more.”>
+<meta name=”keywords” content=”home bar equipment, bar accessories, draft beer dispenser, kegerators, glass racks, bar rails, wine racks, wine accessories">
 <link rel="stylesheet" href="../skin1/skin1.css">
 
 <!--Start custom KegWorks.com Code -->
@@ -41,6 +43,60 @@ function Certify(URL) {
   }
   // end script here -->
   </script>
+<!--  Added by John Nichel  -->
+<script language="JavaScript" type="text/javascript">
+	function changeShipping() {
+		if ( document.forms['registerform'].shipeqbill.checked ) {
+			document.forms['registerform'].s_address.value = document.forms['registerform'].b_address.value;
+			document.forms['registerform'].s_address2.value = document.forms['registerform'].b_address2.value;
+			document.forms['registerform'].s_city.value = document.forms['registerform'].b_city.value;
+			document.forms['registerform'].s_name.value = document.forms['registerform'].title[document.forms['registerform'].title.selectedIndex].value + " " + document.forms['registerform'].firstname.value + " " + document.forms['registerform'].lastname.value;
+			document.forms['registerform'].s_company.value = document.forms['registerform'].company.value;
+			document.forms['registerform'].s_state.selectedIndex = document.forms['registerform'].b_state.selectedIndex;
+			document.forms['registerform'].s_country.selectedIndex = document.forms['registerform'].b_country.selectedIndex;
+			document.forms['registerform'].s_zipcode.value = document.forms['registerform'].b_zipcode.value;
+		} else {
+			document.forms['registerform'].s_address.value = '';
+			document.forms['registerform'].s_address2.value = '';
+			document.forms['registerform'].s_city.value = '';
+			document.forms['registerform'].s_state.selectedIndex = '';
+			document.forms['registerform'].s_zipcode.value = '';
+			document.forms['registerform'].s_name.value = '';
+			document.forms['registerform'].s_company.value = '';
+		}
+	}
+	function check_shipping() {
+		var errorStatus = false;
+		var errorMessage = 'Please correct the following errorsnbefore submitting this form :nn';
+		if ( document.forms['registerform'].s_name.value == '' ) {
+			errorStatus = true;
+			errorMessage += 'Please supply a ship to name.n';
+		}
+		if ( document.forms['registerform'].s_address.value == '' ) {
+			errorStatus = true;
+			errorMessage += 'Please supply a shipping address.n';
+		}
+		if ( document.forms['registerform'].s_state[document.forms['registerform'].s_state.selectedIndex].value == '' ) {
+			errorStatus = true;
+			errorMessage += 'Please supply a shipping state.n';
+		}
+		if ( document.forms['registerform'].s_country[document.forms['registerform'].s_country.selectedIndex].value == '' ) {
+			errorStatus = true;
+			errorMessage += 'Please supply a shipping country.n';
+		}
+		if ( document.forms['registerform'].s_zipcode.value == '' ) {
+			errorStatus = true;
+			errorMessage += 'Please supply a shipping zipcode.n';
+		}
+		if ( errorStatus ) {
+			alert ( errorMessage );
+			return false;
+		} else {
+			return true;
+		}
+	}
+</script>
+<!--  / John Nichel  -->
 </head>
 <body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
 
@@ -60,7 +116,7 @@ window.open("how_to_calc.php","howto","width="+w+",height="+h+",resizable,scroll
 <table align="center" border="0" cellpadding="0" cellspacing="0" class="HeadBox" width="100%">  
 <tbody><tr> 
 <td valign="top" width="284"><a href="http://www.kegworks.com/shoppingcart"><img src="../skin1/images/kwhome_toolbar.gif" width="711" height="106" usemap="#Map" border="0"></a></td>
-<td background="../skin1/images/top1.gif" align="right" valign="top">
+<td align="right" valign="top" nowrap="" background="../skin1/images/top1.gif">
 <font size="3" face="Arial, Helvetica, sans-serif">  <strong>Your Shopping Cart
 </strong></font><strong>  </strong>
   <table border="0" cellpadding="1" cellspacing="0">
@@ -102,7 +158,7 @@ window.open("how_to_calc.php","howto","width="+w+",height="+h+",resizable,scroll
 <td width="99%" valign="top" class="HeadBox" background="../skin1/images/top2.gif" style="background-repeat: repeat-x">
 <p align="right"><a href="javascript:howtocalc();"><br>
   <img src="../skin1/images/shipping_image.jpg" width="151" height="59" alt="Explain Quick Shipping Quote" border="0"></a>
-<!-- <P align=right><SPAN class=NumberOfArticles>1413 products online</SPAN></P> -->
+<!-- <P align=right><SPAN class=NumberOfArticles>1672 products online</SPAN></P> -->
 </p></td>
 </tr>
 </tbody></table>
@@ -117,11 +173,11 @@ window.open("how_to_calc.php","howto","width="+w+",height="+h+",resizable,scroll
   <area shape="rect" coords="164,46,250,80" href="/shoppingcart/customer/home.php?cat=265" alt="Commercial Equipment">
   <area shape="rect" coords="253,46,333,81" href="/shoppingcart/customer/home.php?cat=266" alt="Bar Accessories">
   <area shape="rect" coords="335,46,425,81" href="/shoppingcart/customer/home.php?cat=267" alt="Bars and Bar Furniture">
-  <area shape="rect" coords="428,46,501,81" href="pages.php?pageid=36" alt="Beer Books &amp; Posters">
+  <area shape="rect" coords="428,46,501,81" href="/shoppingcart/customer/home.php?cat=529" alt="Wine Accessories">
   <area shape="rect" coords="503,45,577,81" href="/shoppingcart/customer/home.php?cat=268" alt="Concession Equipment">
   <area shape="rect" coords="581,45,664,80" href="/shoppingcart/customer/home.php?cat=269" alt="Professional Cookware">
   <area shape="rect" coords="667,45,708,80" href="http://www.deluxegrills.com" target="_blank" alt="BBQ Grills">
-  <area shape="rect" coords="455,18,495,34" href="error_message.php?login_incorrect">
+  <area shape="rect" coords="455,18,495,34" href="/shoppingcart/customer/cart.php?mode=login">
   <area shape="rect" coords="508,18,561,34" href="JavaScript:document.loginform.submit();">
   <area shape="rect" coords="573,18,635,34" href="register.php">
   <area shape="rect" coords="651,18,708,35" href="cart.php?mode=wishlist">
@@ -140,23 +196,27 @@ window.open("how_to_calc.php","howto","width="+w+",height="+h+",resizable,scroll
 <td class="VertMenuBox" width="100%">
 <table cellpadding="0" cellspacing="1" border="0">
 
-	<tbody><tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=518" class="VertMenuItems">Fathers Day</a></font><br></td></tr>
-	
-		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=263" class="VertMenuItems">Draft Beer Equipment</a></font><br></td></tr>
-	
-		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=264" class="VertMenuItems">Wine &amp; Compact Refrigeration</a></font><br></td></tr>
-	
-		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=265" class="VertMenuItems">Commercial Equipment</a></font><br></td></tr>
+	<tbody><tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=571" class="VertMenuItems">Holiday Specials</a></font><br></td></tr>
 	
 		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=266" class="VertMenuItems">Bar Accessories</a></font><br></td></tr>
 	
 		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=267" class="VertMenuItems">Bars and Bar Furniture</a></font><br></td></tr>
 	
+		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=265" class="VertMenuItems">Commercial Equipment</a></font><br></td></tr>
+	
 		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=268" class="VertMenuItems">Concession Equipment</a></font><br></td></tr>
+	
+		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=263" class="VertMenuItems">Draft Beer Equipment</a></font><br></td></tr>
+	
+		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=495" class="VertMenuItems">New Items</a></font><br></td></tr>
 	
 		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=269" class="VertMenuItems">Professional Cookware</a></font><br></td></tr>
 	
-		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=495" class="VertMenuItems">New Items</a></font><br></td></tr>
+		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=542" class="VertMenuItems">Warehouse Clearance Sale</a></font><br></td></tr>
+	
+		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=529" class="VertMenuItems">Wine Accessories</a></font><br></td></tr>
+	
+		<tr><td nowrap=""> <font class="CategoriesList"><a href="home.php?cat=264" class="VertMenuItems">Wine &amp; Compact Refrigeration</a></font><br></td></tr>
 	
 	<tr><td>
 <a href="giftcert.php" class="VertMenuItems">Gift Certificates</a><br></td></tr></tbody></table><br>
@@ -180,6 +240,7 @@ window.open("how_to_calc.php","howto","width="+w+",height="+h+",resizable,scroll
 <a href="help.php?section=business" class="VertMenuItems">Privacy Statement</a><br>
 <a href="help.php?section=Password_Recovery" class="VertMenuItems">Recover Password</a><br>
 <a href="pages.php?pageid=29" class="VertMenuItems">Secure Shopping</a><br>
+<a href="pages.php?pageid=58" class="VertMenuItems">Shipping Information</a><br>
 <a href="/site-map.html" class="VertMenuItems">Site Map</a><br>
 <a href="help.php?section=conditions" class="VertMenuItems">Terms &amp; Conditions</a><br>
 <a href="pages.php?pageid=35" class="VertMenuItems">FAQs &amp; Tutorials</a><br>
@@ -191,7 +252,7 @@ window.open("how_to_calc.php","howto","width="+w+",height="+h+",resizable,scroll
 <a href="pages.php?pageid=9" class=VertMenuItems>Refrigerator Conversion Kit Instructions</a><br>
 <a href="pages.php?pageid=10" class=VertMenuItems>Catalog Download</a><br>
 <a href="pages.php?pageid=11" class=VertMenuItems>Compact Refrigeration FAQ</a><br>
-<a href="pages.php?pageid=12" class=VertMenuItems>Conversion Kit Parts FAQ</a><br>
+<a href="pages.php?pageid=12" class=VertMenuItems>Draft Beer Parts</a><br>
 <a href="pages.php?pageid=13" class=VertMenuItems>Instructions for Refrigerator Conversion Kits</a><br>
 <a href="pages.php?pageid=14" class=VertMenuItems>Keg Coupler List</a><br>
 <a href="pages.php?pageid=15" class=VertMenuItems>SBC 500 vs. BM23</a><br>
@@ -232,6 +293,9 @@ window.open("how_to_calc.php","howto","width="+w+",height="+h+",resizable,scroll
 <a href="pages.php?pageid=53" class=VertMenuItems>Draft Beer and Wine Refrigeration for your Home Bar</a><br>
 <a href="pages.php?pageid=54" class=VertMenuItems>Site Map for KegWorks.com</a><br>
 <a href="pages.php?pageid=55" class=VertMenuItems>We're Sorry</a><br>
+<a href="pages.php?pageid=56" class=VertMenuItems>Reasons to have a Kegerator</a><br>
+<a href="pages.php?pageid=57" class=VertMenuItems>Sign Up for our Mailing List</a><br>
+<a href="pages.php?pageid=58" class=VertMenuItems>Shipping Information</a><br>
  -->
 
 </td></tr>
@@ -307,8 +371,8 @@ window.open("how_to_calc.php","howto","width="+w+",height="+h+",resizable,scroll
 <font size="2" face="Arial, Helvetica, sans-serif">
 <a href="javascript:howtocalc();">How to calculate shipping</a></font><p><font size="2" face="Arial, Helvetica, sans-serif"> 
 
-<span class="text"><span class="text">Questions...email
-  us at</span> </span><a href="mailto:sales@kegworks.com" class="browsebar">sales@kegworks.com<br>
+<span class="text">Questions...email
+  us at</span> <a href="mailto:sales@kegworks.com" class="browsebar">sales@kegworks.com<br>
   <br>
   </a>Phone Orders Accepted: Monday-Friday 9am-5:00pm Eastern Standard Time<br>
   Toll Free#(US ONLY) 1-877-636-3673 Local# 716-856-9675<br>
@@ -326,6 +390,16 @@ window.open("how_to_calc.php","howto","width="+w+",height="+h+",resizable,scroll
 
 
 
+<table border="0" cellpadding="4" cellspacing="0" width="100%">
+<tbody><tr> 
+<!-- <TD class=VertMenuTitle height=26><img src="../skin1/images/dingbats_news.gif" width="21" height="20" border=0></TD> -->
+<td class="VertMenuTitle" height="26" valign="center" width="100%"><font class="VertMenuBoxNewsTitle">Shipping Information</font></td>
+</tr>
+<tr> 
+<td class="VertMenuBox" width="100%"><a href="http://www.kegworks.com/shoppingcart/customer/pages.php?pageid=58"><img src="../skin1/images/hs.gif" width="151" height="164" border="0"></a>
+
+</td></tr>
+</tbody></table>
 <table border="0" cellpadding="4" cellspacing="0" width="100%">
 <tbody><tr> 
 <!-- <TD class=VertMenuTitle height=26><img src="../skin1/images/dingbats_news.gif" width="21" height="20" border=0></TD> -->
@@ -377,8 +451,11 @@ Subscribe to the monthly<br>newsletter !
 </div></td></tr> -->
 <tbody><tr height="30" valign="center" align="right">
 <td class="Bottom">
-<font size="1">Copyright 1998-2004 <a href="HTTP://www.KegWorks.com"><font class="Bottom">KegWorks.com</font></a>&nbsp;&nbsp;</font></td>
+<font size="1">Copyright 1998-2005 <a href="HTTP://www.KegWorks.com"><font class="Bottom">KegWorks.com</font></a>&nbsp;&nbsp;</font></td>
 </tr>
-</tbody></table><script language="JavaScript" src="../track.js"></script><img src="/shoppingcart/mm_tmon_image.php?width=800&amp;height=600&amp;title=KegWorks.com%20-%20Help%20section&amp;url=https%3A//web.archive.org/web/20040604142826id_/http%253A//kegworks.com/shoppingcart/customer/help.php%253Fsection%253Dbusiness&amp;referer=" border="0">
+</tbody></table><!-- Mods and Services provided by: Cart-Lab.com -->
+<noscript><a href="http://www.cart-lab.com" target="_blank">Cart-Lab</A> X-cart, X-affilaite, Cart, Mods, Templates, Add-ons, Buttons, Security, Services, Marketing</noscript>
+<script language="JavaScript" src="../track.js"></script><img src="/shoppingcart/mm_tmon_image.php?width=800&amp;height=600&amp;title=Help%20section%20-%20KegWorks.com&amp;url=https%3A//web.archive.org/web/20041204225307id_/http%253A//kegworks.com/shoppingcart/customer/help.php%253Fsection%253Dbusiness&amp;referer=" border="0">
+
 
 </td></tr></tbody></table></body></html>
