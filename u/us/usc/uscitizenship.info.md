@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uscitizenship.info privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402020116id_/http%3A//www.uscitizenship.info/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscitizenship.info privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112705id_/http%3A//www.uscitizenship.info/policy.htm) for the most accurate reproduction.*
 
 # USCitizenship.info | Privacy Policy
 
-**USCitizeship.info respects the privacy of the users of our services and web site. To that effect, we have instituted the following Privacy Policy:**
+**USCitizenship.info respects the privacy of the users of our services and web site. To that effect, we have instituted the following Privacy Policy:**
 
 **Collection of Information from Our Clients**
 
@@ -12,7 +12,7 @@ Additionally, USCitizenship.info will not sell, rent, or trade any personal info
 
 **E-mail Updates and Newsletter**
 
-USCitizeship.info may occasionally notify you of new services and special offers via e-mail updates. If you would rather not receive any updates from us, please send a request to be removed from our e-mail update list to cs@uscitizenship.info 
+USCitizenship.info may occasionally notify you of new services and special offers via e-mail updates. If you would rather not receive any updates from us, please send a request to be removed from our e-mail update list to cs@uscitizenship.info 
 
 **Identifiable Information**
 
