@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the simplyscripts.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204192400id_/http%3A//www.simplyscripts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyscripts.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604165702id_/http%3A//simplyscripts.com/privacy.html) for the most accurate reproduction.*
 
-# Simply Scripts - Privacy Statement
+# Simply Scripts - Read Hundreds of Scripts and Screenplays On Line!
+
+Simply Scripts Privacy Statement
 
 Simply Scripts respects your privacy.  All information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned or otherwise disclosed.  Any information you give to Simply Scripts will be held with the utmost care, and will not be used in ways that you have not consented to.  
 
@@ -16,15 +18,11 @@ If you have any questions regarding Simply Scripts' privacy policy, please  not
 
 Simply Scripts Affiliates and their Privacy Policies:  
 [Hitbox.com](http://hitbox.com/) -  [privacy policy  
-](http://resources.hitbox.com/cgi-bin/page.cgi?privacy)[Advertising.com](http://reports.advertising.com/webmaster/signup.jsp?s=1&ref_id=193%22) \- [privacy policy  
-](http://www.privacyalliance.org/resources/ppguidelines.shtml)[AllPosters.com](http://www.allposters.com/link/redirect.asp?AID=4658) -  [privacy policy  
-](http://allposters.com/Privacy.htm)[AllAdvantage.com](http://www.alladvantage.com/go.asp?refid=bam227) -  [ privacy policy  
-](http://alladvantage.com/privacy.asp?refid=)[Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/simplyscripts) \- [ privacy policy  
-](http://www.amazon.com/exec/obidos/subst/misc/policy/privacy.html/104-0915340-1632449)Planet Linkage - no privacy policy  
-[Global 100](http://www.global100.com/vote.asp?AddItem=71709&Chart=8) \- [ privacy policy  
-](http://www.global100.com/policy.asp?Chart=0)[Mamma.com](https://web.archive.org/web/20001204192400id_/http%3A//www.simplyscripts.com/mama.html) \- [privacy policy  
-](http://www.mamma.com/privacy.html)[Goto.com](https://web.archive.org/web/20001204192400id_/http%3A//www.simplyscripts.com/goto.html) \- [privacy policy  
-](http://goto.com/d/about/company/privacypolicy.jhtml)[Windward Studios ](http://store.windward.net/screenwriterstudio.jsp?sourceID=14)\- [privacy policy  
-](http://www.windward.net/privacy_statement.htm)Movie Shock - no privacy policy
+](http://resources.hitbox.com/cgi-bin/page.cgi?privacy)[AllPosters.com](http://www.allposters.com/link/redirect.asp?AID=4658) -  [privacy policy  
+](http://allposters.com/Privacy.htm)[Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/simplyscripts) \- [ privacy policy  
+](http://www.amazon.com/exec/obidos/subst/misc/policy/privacy.html/104-0915340-1632449) [Global 100](http://www.global100.com/vote.asp?AddItem=71709&Chart=8) \- [ privacy policy  
+](http://www.global100.com/policy.asp?Chart=0)[Windward Studios ](http://store.windward.net/screenwriterstudio.jsp?sourceID=14)\- [privacy policy  
+](http://www.windward.net/privacy_statement.htm)
 
-| 
+|   
+---|---
