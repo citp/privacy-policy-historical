@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esignal.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607004448id_/http%3A//www.esignal.com/disclaimer/default.asp%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esignal.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212023718id_/http%3A//www.esignal.com/disclaimer/default.asp%23privacypolicy) for the most accurate reproduction.*
 
-# | eSignal Website Terms & Conditions and Privacy Policy |
+# eSignal Website Terms & Conditions and Privacy Policy
 
 ********  
 Last Updated: March 1, 2004
@@ -209,7 +209,9 @@ Sections 1 (Agreement), 2 (Forward Looking Statements), 5 (Disclaimer Regarding 
 29.0 Your Consent  
 By using our Website, you agree to comply with, and be bound by these Website Terms and Conditions. If you do not agree with some, or all of these Website Terms and Conditions, you are not authorized to visit our Website.
 
-eSignal Privacy Policy
+eSignal Privacy Policy  
+Last Updated: March 1, 2004  
+
 
 This Privacy Policy (“Privacy Policy”) covers eSignal’s treatment of information that you provide to us or that we collect from you when you are visiting the Website and when you use our products and services. This policy does not apply to the practices of companies that eSignal does not own or control or to individuals whom eSignal does not employ or manage, including operators of sites you may link to or from the Website or from which you link to the Website. This Privacy Policy should be read in connection with our Website Terms and Conditions.
 
@@ -293,5 +295,4 @@ PO Box 5028
 Hayward, California 94540-5028   
 Attention: Customer Service  
   
-By email:  [Customer Service](https://web.archive.org/web/20040607004448id_/http%3A//regform/emailformbox.asp?Source=CSD)  
-
+By email:  [Customer Service](https://web.archive.org/web/20041212023718id_/http%3A//regform/emailformbox.asp?Source=CSD)
