@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineguide.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206052451id_/http%3A//www.searchengineguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineguide.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605203758id_/http%3A//www.searchengineguide.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for SearchEngineGuide.com
 
@@ -12,7 +12,9 @@ Our site's registration form requires users to give us contact information (like
 
 This site contains links to other sites. **SearchEngineGuide.com** is not responsible for the privacy practices or the content of such Web sites. 
 
-We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site. Some customer data is shared with the advertising companies. 
+We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. 
+
+Our site does use cookies. Some customer data is shared with the advertising companies. 
 
 ## Security
 
@@ -24,7 +26,7 @@ Users who do not wish to receive communications from us and our partners should 
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [comments@searchengineguide.com](mailto:comments@searchengineguide.com)
+  1. You can send email to [webmaster@searchengineguide.com](mailto:webmaster@searchengineguide.com)
 
 
 
@@ -32,10 +34,10 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [comments@searchengineguide.com](mailto:comments@searchengineguide.com)
+  1. email [webmaster@searchengineguide.com](mailto:webmaster@searchengineguide.com)
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Robert Clough K. Clough, Inc. comments@searchengineguide.com [Back To SearchEngineGuide.com](http://www.searchengineguide.com/)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Robert Clough K. Clough, Inc. webmaster@searchengineguide.com [Back To SearchEngineGuide.com](http://www.searchengineguide.com/)
