@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acnefreein3days.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613031947id_/http%3A//www.acnefreein3days.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnefreein3days.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217090323id_/http%3A//www.acnefreein3days.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Acne Free in 3 Days - Privacy Policy
 
 Last Updated: September 23rd, 2003
 
