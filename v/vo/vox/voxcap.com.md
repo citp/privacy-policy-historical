@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the voxcap.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005832id_/http%3A//moe.speakout.com/about/policies_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxcap.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206170838id_/http%3A//www.voxcap.com/about/policies_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SpeakOut.com
 
-[Privacy Policy](https://web.archive.org/web/20031205005832id_/http%3A//moe.speakout.com/about/policies_privacy.html) | [Service Agreement](https://web.archive.org/web/20031205005832id_/http%3A//moe.speakout.com/about/policies_service.html) | [Our Cookie Policy](https://web.archive.org/web/20031205005832id_/http%3A//moe.speakout.com/about/policies_cookies.html)  
-[Children Under 13](https://web.archive.org/web/20031205005832id_/http%3A//moe.speakout.com/about/policies_children.html) | [Community Standards](https://web.archive.org/web/20031205005832id_/http%3A//moe.speakout.com/about/policies_community.html) | [Terms and Conditions](https://web.archive.org/web/20031205005832id_/http%3A//moe.speakout.com/about/policies_terms.html)
+[Privacy Policy](https://web.archive.org/web/20041206170838id_/http%3A//www.voxcap.com/about/policies_privacy.html) | [Service Agreement](https://web.archive.org/web/20041206170838id_/http%3A//www.voxcap.com/about/policies_service.html) | [Our Cookie Policy](https://web.archive.org/web/20041206170838id_/http%3A//www.voxcap.com/about/policies_cookies.html)  
+[Children Under 13](https://web.archive.org/web/20041206170838id_/http%3A//www.voxcap.com/about/policies_children.html) | [Community Standards](https://web.archive.org/web/20041206170838id_/http%3A//www.voxcap.com/about/policies_community.html) | [Terms and Conditions](https://web.archive.org/web/20041206170838id_/http%3A//www.voxcap.com/about/policies_terms.html)
 
 Our Privacy Policy
 
