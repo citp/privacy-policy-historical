@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217232558id_/http%3A//www.peterglenn.com/pglenn/text_2.asp%3Ftx_id%3D75%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620133121id_/http%3A//www.peterglenn.com/pglenn/text_2.asp%3Ftx_id%3D75%26) for the most accurate reproduction.*
 
 # ski shop, snowboard shop, water ski shop, wakeboard shop, in-line skate shop
 
@@ -30,9 +30,13 @@ You may set your browser to notify you when you receive a cookie, giving you the
 
 **Will Peter Glenn of Vermont disclose the information it collects to outside parties?**
 
-Peter Glenn of Vermont does not sell, trade, or rent your personal information to others. Peter Glenn of Vermont may provide aggregate statistics about our customers as well as sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. **Our Commitment**
+Peter Glenn of Vermont does not sell, trade, or rent your personal information to others. Peter Glenn of Vermont may provide aggregate statistics about our customers as well as sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
 
-We are committed to protecting your privacy. We use the information we collect on the site to make shopping at Peter Glenn of Vermont possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others. **Let us know what you think**
+**Our Commitment**
 
-Peter Glenn of Vermont welcomes your questions and comments about privacy. Please send [info@PeterGlenn.com](e-mailto:info@PeterGlenn.com)  
+We are committed to protecting your privacy. We use the information we collect on the site to make shopping at Peter Glenn of Vermont possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others.
+
+**Let us know what you think**
+
+Peter Glenn of Vermont welcomes your questions and comments about privacy. Please send to [info@PeterGlenn.com](e-mailto:info@PeterGlenn.com)  
 
