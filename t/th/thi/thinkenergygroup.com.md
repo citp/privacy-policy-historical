@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217155551id_/http%3A//www.thinkenergygroup.com/Think.nsf/InfoNFR/Privacy-Security%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607161945id_/http%3A//www.thinkenergygroup.com/Think.nsf/InfoNFR/Privacy-Security%3FOpenDocument) for the most accurate reproduction.*
 
 # Technical Staffing - Press Release - Atlanta, Georgia, Florida
 
@@ -54,5 +54,5 @@ This policy may be revised over time as new features are added to the Web site. 
 **Contacting the Web Site**
 
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [_webmaster@thinkjobs.com_](mailto:Webmaster@ThinkJobs.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [_webmaster@thinkjobs.com_](mailto:Webmaster@ThinkJobs.com). 
 
