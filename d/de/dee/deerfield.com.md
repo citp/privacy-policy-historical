@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601080856id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203053336id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
 
 # Deerfield.com Privacy Statement
 
