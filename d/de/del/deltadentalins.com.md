@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621083838id_/http%3A//www.deltadentalins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008044055id_/http%3A//www.deltadentalins.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,7 +6,7 @@ For information regarding how we protect the privacy of enrollee information, pl
 
 Policy
 
-Delta Dental Plan of California, Delta Dental of Pennsylvania, Delta Dental Insurance Company and Private Medical-Care, Inc. maintain the confidentiality of client, dentist and other information as required by law. Personal information that may be obtained through the use of our web services is not disclosed to other companies for marketing purposes, and personal information is released only as necessary for administration of the dental and vision benefit programs.
+Delta Dental of California, Delta Dental of Pennsylvania, Delta Dental Insurance Company and Private Medical-Care, Inc. maintain the confidentiality of client, dentist and other information as required by law. Personal information that may be obtained through the use of our web services is not disclosed to other companies for marketing purposes, and personal information is released only as necessary for administration of the dental and vision benefit programs.
 
 Security
 
