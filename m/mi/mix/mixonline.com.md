@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixonline.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407171356id_/http%3A//www.primediabusiness.com/company/privacy.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixonline.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202205430id_/http%3A//www.primediabusiness.com/company/privacy.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Certain information—such as your password and credit card number—is not disc
 
 **Terms of Use:** By using our Web sites, you consent to the collection and use of your information by Primedia Business Magazines & Media within the policies stated above. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. As with all areas of our sites, Primedia Business Magazines & Media welcomes your questions and comments. If you have any questions or concerns about our stated privacy policies, please contact us at [privacypolicy@primediabusiness.com](mailto:privacypolicy@primediabusiness.com). 
 
-Copyright 2002 Primedia Business Magazines & Media. All rights reserved.
+Copyright 2003 Primedia Business Magazines & Media. All rights reserved.
 
 _Privacy Policy for subscribers of print magazines_
 
