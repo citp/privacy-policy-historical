@@ -1,479 +1,327 @@
-<!--The following is the downloaded HTML source of the seventeen.com privacy policy that was archived on 2000-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000618171613id_/http%3A//seventeen.com/page.cfm%3Fpage_id%3D262) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seventeen.com privacy policy that was archived on 2002-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021004001901id_/http%3A//www.seventeen.com/about/html/privacypolicy.html%3FSessionCookie%3D69910251-1-0-7D3) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Seventeen Online</title>
+<html><head><title>seventeen.com  | about</title>
+<link rel="stylesheet" type="text/css" href="http://image.seventeen.com/css/main.css">
+<script language="JavaScript" src="http://image.seventeen.com/nav/html/all.js"></script><script language="JavaScript">
+function FlashInstalled()
+{
+	result = false;
 
-	<meta name="description" content="seventeen magazine goes on line.">
-	<meta name="keyword" content="seventeen, teen, stars, pop, movies, books, entertainment, trauma-rama, fashion, love, sex, horoscopes, style, seventeen, stars, pop, movies, books, entertainment, girls, girl, teenagers">
-  
-
-  
-<script language="javascript">
-<!--	
-          var Nav2 = false;
-          var Nav3 = false;
-          var Nav4 = false;
-          var netscape = false;
-          var msie = false;
-          var browsertype;
-          Nav2 = navigator.userAgent.indexOf ("Mozilla/2") != -1;
-          Nav3 = navigator.userAgent.indexOf ("Mozilla/3") != -1;
-          Nav4 = navigator.userAgent.indexOf ("Mozilla/4") != -1;
-          browsertype = navigator.appName;
-          if (browsertype == 'Netscape') netscape = true;
-          if (browsertype == 'Microsoft Internet Explorer') msie = true;
-		  
-var dclkPage = "seventeen.dart/homepage;";
-var abc = Math.random() + "";
-var random = abc.substring(2,abc.length);
-
-
-	var xy = navigator.appVersion;
-	verNum = xy.substring(0,4);	
-		  
-	function BlueDot (imageName) { 
-		if( netscape || ( msie && (verNum >= 4)))
-		document[imageName].src = "/imgs/images/blue_dot.gif";
-	}
-
-	function WhiteDot (imageName) { 
-		if( netscape || ( msie && (verNum >= 4)))
-		document[imageName].src = "/imgs/images/white_dot.gif";
-	}	
-
-
-	function open_notebook(pagename) { 
-
-	var notebook = window.open("/i-17/notebook/bridge.cfm?action=" + pagename,"notebook","Location=No,toolbar=N0,menubar=No, Directories=No,status=No,scrollbars=yes,resizable=yes,width=380,height=550") 
-	self.name = "main";
-	if (Nav2 || msie)
-    {                    
-                   // Do nothing, focus call is not worked in IE3
-    }
-    else  notebook.focus();
-}
-
-	function open_pager()
+	if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"])
 	{
-	var pager = window.open("http://www.newaol.com/aim/73022/adb11.html", "pager", "Location=YES,toolbar=YES,menubar=YES, Directories=YES,status=YES,scrollbars=yes,resizable=yes,width=650,height=500");
-	if (Nav3 || Nav4) pager.focus();
+		result = navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin;
 	}
-	
-	function open_eshare(destination) {
-	winNavi = window.open("/i-17/choose_eshare.cfm?" + destination +"=1","Navigation","toolbar=No,location=No, Directories=No, status=No,scrollbars=yes,resizable=No,width=650,height=470")
-	self.name = "mainmarket"
-	if (Nav2 || msie)
-          {                    
-                   // Do nothing, focus call is not worked in IE3
-          }
-        else {
-               winNavi.focus()
- 	}
+	else if (document.all && (navigator.appVersion.indexOf("Mac")==-1))
+	{
+		// IE Windows only -- check for ActiveX control, have to hide code in eval from Netscape (doesn't like try)
+		eval ('try {var xObj = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");if (xObj)	result = true; xObj = null;	} catch (e)	{}');
+	}
+	return result;
 }
 
-function popUp(url, name) {
-	var x = document.menu.Count.value;
-	x = parseInt (x,10);
-	x = x % 10;
-	if (x == 0) {
-	win = this.open (url, name,'Location=No,toolbar=No,Directories=No,status=No,scrollbars=No,resizable=No,width=300,height=300,left=250,top=150');
-	win.focus();
-	}		
+function FlashWrite(url,width,height)
+{
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" ');
+	document.write('  WIDTH=' + width + ' HEIGHT=' + height + '>');
+	document.write(' <PARAM NAME=movie VALUE="' + url + '"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF>  '); 
+	document.write(' <EMBED src="' + url + '" quality=high bgcolor=#FFFFFF  ');
+	document.write(' swLiveConnect=FALSE WIDTH=' + width + ' HEIGHT=' + height);
+	document.write(' </EMBED></OBJECT>');
 }
+</script></head>
 
-//-->
-</script>
-<script language="JavaScript">
-	<!-- Begin
-	function checkFields() {
-	var err = 0;
-	string = document.forms[2].Bdate.value;
-	var valid = "0123456789/";
-	var ok = "yes";
-	var temp;
-	missinginfo = "";
-	if (document.forms[2].Fname.value == "") {
-	missinginfo += "\n     -  First Name";
-	}
-	if (document.forms[2].Lname.value == "") {
-	missinginfo += "\n     -  Last Name";
-	}
-	if (document.forms[2].Address.value == "") {
-	missinginfo += "\n     -  Address";
-	}
-	if (document.forms[2].City.value == "") {
-	missinginfo += "\n     -  City";
-	}
-	if (document.forms[2].State.value == "") {
-	missinginfo += "\n     -  State";
-	}
-	if (document.forms[2].Zip.value == "") {
-	missinginfo += "\n     -  Zip Code";
-	}
-	if ((document.forms[2].Email.value == "") || 
-	(document.forms[2].Email.value.indexOf('@') == -1) || 
-	(document.forms[2].Email.value.indexOf('.') == -1)) {
-	missinginfo += "\n     -  Email Address";
-	}
-	if (document.forms[2].Phone.value == "") {
-	missinginfo += "\n     -  Phone Number";
-	}
-	for (var i=0; i< string.length; i++) {
-	temp = "" + string.substring(i, i+1);
-	if (valid.indexOf(temp) == "-1") err = 1;
-	}
-	if (string.length != 8) err=1
-	b = string.substring(0, 2) // month
-	c = string.substring(2, 3)// '/'
-	d = string.substring(3, 5) // day
-	e = string.substring(5, 6)// '/'
-	f = string.substring(6, 8) // year
-	if (b<1 || b>12) err = 1
-	if (c != '/') err = 1
-	if (d<1 || d>31) err = 1
-	if (e != '/') err = 1
-	if (f<0 || f>99) err = 1
-	if (b==4 || b==6 || b==9 || b==11){
-	if (d==31) err=1
-	}
-	if (b==2){
-	var g=parseInt(f/4)
-	if (isNaN(g)) {
-	err=1
-	}
-	if (d>29) err=1
-	if (d==29 && ((f/4)!=parseInt(f/4))) err=1
-	}
-	if (err==1) {
-	missinginfo += "\n     -  Incorrect Birth Date";
-	}
-	if (missinginfo != "") {
-	missinginfo ="_____________________________\n" +
-	"You failed to correctly fill in your:\n" +
-	missinginfo + "\n_____________________________" +
-	"\nPlease re-enter and submit again!";
-	alert(missinginfo);
-	return false;
-	}
-	else return true;
-	}
-	//  End -->
-</script>
-</head>	
-	
-	
+<body bgcolor="FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="http://image.seventeen.com/about/images/back.gif">
+<table border="0" cellspacing="0" cellpadding="0" width="730">
+<tbody><tr><td>
+	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="TOP"><!-- TOP NAV -->
+<!-- show channel path
+ 	channel:about	subchannelprivacypolicy	adcode:0	indexF:none	pos:top -- end channel path --->
+  
+<table cellpadding="0" cellspacing="0" border="0" width="608" height="73">
+<tbody><tr><!-- pixel track cell --><td><img src="http://prmpix.about.com/pixel.cgi?dom=www.seventeen.com&amp;pg=/about/privacypolicy&amp;ref=http_referer&amp;lc1=about" width="1" height="1" border="0"><img src="http://abacus.gurl.com/abacus/pixel.gif?dom=www.seventeen.com&amp;pg=/about/privacypolicy&amp;ref=http_referer&amp;lc1=about&amp;lc2=privacypolicy" width="1" height="1" border="0"></td><!-- /pixel track cell -->
+<td colspan="3"><img src="http://image.seventeen.com/nav/images/spacer.gif" border="0" width="2" height="5"></td></tr>
+<tr><td width="10"><img src="http://image.seventeen.com/nav/images/spacer.gif" border="0" width="10" height="60"></td>
+<!-- 468 ad cell --><td width="468"><script>
+WriteRandomDartAd(468,60,'about','privacypolicy','1','3');</script>
+<noscript><A HREF="http://ad.doubleclick.net/jump/seventeen.primedia.com/teens_17_about_privacypolicy;sect=about;pos=3;sz=468x60;tile=1;ord=85622375039434620?&SessionCookie=70157874-1-0-1DD"><IMG SRC="http://ad.doubleclick.net/ad/seventeen.primedia.com/teens_17_about_privacypolicy;sect=about;pos=3;sz=468x60;tile=1;ord=85622375039434620?" border=0 height="60" width="468"></A></noscript>
+</td><!-- /468 ad cell -->
+<td width="10"><img src="http://image.seventeen.com/nav/images/spacer.gif" border="0" width="10" height="60"></td>
 
-
-<body background="/imgs/backgrounds/orange_bkgd.gif" link="CD0000" vlink="CD0000" alink="FF0041">
-                       
-                         
-<table width="630" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<!--  Date Code Goes Here  -->
-	<td>&nbsp;</td><td align="left">
-</td><form name="menu"></form>
-
-
-
-
-
-	
-		
-	
-
-
-	
-		
-	
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-			
-				
-			
-	
-		
-	
-
-
-
-
-
-<input type="HIDDEN" name="Count" value="2075">      
-<td align="right">
-<select name="picker" onchange="window.top.location.href = 'http://prmnewmedia.com/other/counter.cfm?site=seventeen.com&amp;to=' + this.options[this.selectedIndex].value;">
-<option selected="">&nbsp;  - PRIMEDIA Network - </option>
- <option value="www.SoapDigest.com">SoapDigest.com</option>
- <option value="www.ChannelOne.com">ChannelOne.com</option>
-</select>
+<!-- 120x60 ad cell -->
+<td width="120" valign="top">
+<script>
+WriteRandomDartAd(120,60,'about','privacypolicy','2','1');</script>
+<noscript><A HREF="http://ad.doubleclick.net/jump/seventeen.primedia.com/teens_17_about_privacypolicy;sect=about;pos=1;sz=120x60;tile=2;ord=85622375039434620?&SessionCookie=70157874-1-0-1DD"><IMG SRC="http://ad.doubleclick.net/ad/seventeen.primedia.com/teens_17_about_privacypolicy;sect=about;pos=1;sz=120x60;tile=2;ord=85622375039434620?" border=0 height="60" width="120"></A></noscript>
 </td>
-</tr>
-
+<!-- /120x60 ad cell --></tr>
+<tr><td colspan="4"><img src="http://image.seventeen.com/nav/images/spacer.gif" border="0" width="2" height="8"></td></tr>
 </tbody></table>
 
-<table width="630" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="147" valign="top"> 
-<table width="147" cellpadding="0" cellspacing="0" border="0" align="left">
+</td>	
+	<td valign="TOP" rowspan="2" right=""><!-- RIGHT NAV -->
+<!-- show channel path
+        channel:about subchannelprivacypolicy adcode:0 indexF:none pos:top -- end channel path --->
+  <style type="text/css">
+		<!--
+		A.right {color: #CC3300; text-decoration: underline;}
+		-->
+</style>
 
-<tbody><tr><td align="left">
-
-
-<a href="/"><img src="/imgs/images/newgraphics2/seventeen_logo_small.gif" border="0"></a>
-<p>
-<a href="/current_issue/"><img src="/imgs/images/covers/0700cover_nav.gif" border="0"></a><br>
-
-
-</p></td></tr>
-
-<tr><td><table border="0">
-<tbody><tr><td colspan="2" align="left"><br><a href="http://www.enews.com/portal/1,1074,43116,00.html"><img src="/imgs/navigraphics/subscribe_new.gif" border="0" vspace="2"></a><br>
-<a href="/subscriptions/Cutomer_Services/index.cfm"><!--<img src="/imgs/navigraphics/subscriberCS.gif" border="0" vspace="5">--></a>
-<br></td></tr>
-<tr><td valign="top">
-<form action="/search/search_action.cfm">
-<center>
-<font face="Arial,helvetica" size="3"><font face="arial,helvetica" color="Red"><b><a href="/search/index.cfm">search</a></b></font></font>
-<font size="2"><input type="Text" name="keyword" size="6"></font>
-</center></form></td>
-<input type="hidden" name="area_name" value="">
-<td align="LEFT" valign="TOP">
-<input type="Image" name="submit" src="/imgs/images/go.gif" border="0">
-</td>
+<table cellpadding="0" cellspacing="0" border="0" width="120">
+<tbody><tr><td colspan="2"><img src="http://image.seventeen.com/nav/images/spacer.gif" border="0" width="2" height="5"></td>
+</tr>
+<tr><td><img src="http://image.seventeen.com/nav/images/spacer.gif" border="0" width="10" height="2"></td>
+<td width="120"><script>WriteRandomDartAd(120,600,'about','privacypolicy','3','4');</script>
+<noscript><A HREF="http://ad.doubleclick.net/jump/seventeen.primedia.com/teens_17_about_privacypolicy;sect=about;pos=4;sz=120x600;tile=3;ord=85622375039434620?&SessionCookie=70157874-1-0-1DD"><IMG SRC="http://ad.doubleclick.net/ad/seventeen.primedia.com/teens_17_about_privacypolicy;sect=about;pos=4;sz=120x600;tile=3;ord=85622375039434620?" border=0 height="600" width="120"></A></noscript></td>
 </tr></tbody></table>
 
-</td></tr>
-<tr><td><a href="/daily_cafe" onmouseover="BlueDot(&quot;show1&quot;)" onmouseout="WhiteDot(&quot;show1&quot;)"><img name="show1" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>dish of the day</b></font></font></a></td></tr>
-<tr><td><a href="/horoscopes" onmouseover="BlueDot(&quot;show2&quot;)" onmouseout="WhiteDot(&quot;show2&quot;)"><img name="show2" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>horoscopes</b></font></font></a></td></tr>
-<tr><td><a href="/Trauma-rama" onmouseover="BlueDot(&quot;show3&quot;)" onmouseout="WhiteDot(&quot;show3&quot;)"><img name="show3" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>trauma-rama</b></font></font></a></td></tr>
-<tr><td><a href="/entertainment_buzz" onmouseover="BlueDot(&quot;show4&quot;)" onmouseout="WhiteDot(&quot;show4&quot;)"><img name="show4" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>entertainment buzz</b></font></font></a><font size="+1"><br><font size="1"><a href="/entertainment_buzz/movies.cfm">movies</a> | <a href="/entertainment_buzz/music.cfm">music</a> | <a href="/entertainment_buzz/tv.cfm">TV</a> | <a href="/entertainment_buzz/books.cfm">books</a></font></font></td></tr>
+</td>
+	</tr>
+	<tr><td valign="TOP" left=""><script language="JavaScript">
 
-<tr><td><a href="/stylefile" onmouseover="BlueDot(&quot;show5&quot;)" onmouseout="WhiteDot(&quot;show5&quot;)"><img name="show5" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>beauty &amp; fashion </b></font></font></a></td></tr>
-<tr><td><a href="/love_sex" onmouseover="BlueDot(&quot;show6&quot;)" onmouseout="WhiteDot(&quot;show6&quot;)"><img name="show6" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>love &amp; sex</b></font></font></a></td></tr>
-<tr><td><a href="/what_you_say" onmouseover="BlueDot(&quot;show7&quot;)" onmouseout="WhiteDot(&quot;show7&quot;)"><img name="show7" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>what you say</b></font></font></a></td></tr>
-<tr><td><a href="/deal_with_it" onmouseover="BlueDot(&quot;show8&quot;)" onmouseout="WhiteDot(&quot;show8&quot;)"><img name="show8" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>reality check</b></font></font></a></td></tr>
-<tr><td><a href="/college_careers" onmouseover="BlueDot(&quot;show11&quot;)" onmouseout="WhiteDot(&quot;show11&quot;)"><img name="show11" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>college &amp; careers</b></font></font></a></td></tr>
-<tr><td><a href="/contests_quizes" onmouseover="BlueDot(&quot;show9&quot;)" onmouseout="WhiteDot(&quot;show9&quot;)"><img name="show9" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>contests &amp; quizzes</b></font></font></a></td></tr>
+<!-- hide contents from old browsers
 
-<tr><td><a href="/archives" onmouseover="BlueDot(&quot;show10&quot;)" onmouseout="WhiteDot(&quot;show10&quot;)"><img name="show10" src="/imgs/images/white_dot.gif" border="0"><font size="+1"><font face="arial,helvetica" color="CD0000" size="2"><b>the archives</b></font></font></a></td></tr>
+// check browsers
 
-<tr><td><img src="/imgs/navigraphics/spacer.gif" width="100" height="10" border="0"></td></tr>
+if (document.images != null)
+
+{
+        preload();
+}
+
+        
+
+function preload()
+
+{
+
+go_on2 = new Image;
+go_on2.src = "http://image.seventeen.com/nav/images/go_on2.gif";
+
+go_off = new Image;
+go_off.src = "http://image.seventeen.com/nav/images/go_off.gif";
+
+fashion_on2 = new Image;
+fashion_on2.src = "http://image.seventeen.com/nav/images/fashion_on2.gif";
+
+fashion_off = new Image;
+fashion_off.src = "http://image.seventeen.com/nav/images/fashion_off.gif";
+
+beauty_on2 = new Image;
+beauty_on2.src = "http://image.seventeen.com/nav/images/beauty_on2.gif";
+
+beauty_off = new Image;
+beauty_off.src = "http://image.seventeen.com/nav/images/beauty_off.gif";
+
+sex_on2 = new Image;
+sex_on2.src = "http://image.seventeen.com/nav/images/sex_on2.gif";
+
+sex_off = new Image;
+sex_off.src = "http://image.seventeen.com/nav/images/sex_off.gif";
+
+boys_on2 = new Image;
+boys_on2.src = "http://image.seventeen.com/nav/images/boys_on2.gif";
+
+boys_off = new Image;
+boys_off.src = "http://image.seventeen.com/nav/images/boys_off.gif";
+
+real_on2 = new Image;
+real_on2.src = "http://image.seventeen.com/nav/images/real_on2.gif";
+
+real_off = new Image;
+real_off.src = "http://image.seventeen.com/nav/images/real_off.gif";
+
+all_on2 = new Image;
+all_on2.src = "http://image.seventeen.com/nav/images/all_on3.gif";
+
+all_off = new Image;
+all_off.src = "http://image.seventeen.com/nav/images/all_off.gif";
+
+quiz_on2 = new Image;
+quiz_on2.src = "http://image.seventeen.com/nav/images/quiz_on3.gif";
+
+quiz_off = new Image;
+quiz_off.src = "http://image.seventeen.com/nav/images/quiz_off.gif";
+
+horo_on2 = new Image;
+horo_on2.src = "http://image.seventeen.com/nav/images/horo_on2.gif";
+
+horo_off = new Image;
+horo_off.src = "http://image.seventeen.com/nav/images/horo_off.gif";
+
+win_on2 = new Image;
+win_on2.src = "http://image.seventeen.com/nav/images/win_on2.gif";
+
+win_off = new Image;
+win_off.src = "http://image.seventeen.com/nav/images/win_off.gif";
+
+cover_on2 = new Image;
+cover_on2.src = "http://image.seventeen.com/nav/images/cover_on2.gif";
+
+cover_off = new Image;
+cover_off.src = "http://image.seventeen.com/nav/images/cover_off6.jpg";
+
+shop_on2 = new Image;
+shop_on2.src = "http://image.seventeen.com/nav/images/shop_on.gif";
+
+shop_off = new Image;
+shop_off.src = "http://image.seventeen.com/nav/images/shop_off.gif";
+
+}
+
+
+function rollover(imgSwap,imgName) {
+         if (document.images != null) {
+                 imgSwap = eval(imgSwap + ".src");
+                 document [imgName].src = imgSwap;
+         }
+}
+
+
+// end hiding contents from old browsers -->
+
+</script>
+
+<!-- LEFT NAV -->
+<!-- show channel path
+        channel:about subchannelprivacypolicy third:0 fourth:none -- end channel path --->
+<table border="0" cellspacing="0" cellpadding="0" width="135" bgcolor="#FFFFFF">
+<tbody><tr><td colspan="2"><a href="https://www.inetz.com/seventeen/?RF=seventeen&amp;ref=101&amp;SessionCookie=70157874-1-0-1DD" target="subscribe" onmouseover="rollover('cover_on2','cover')" onmouseout="rollover('cover_off','cover')"><img src="http://image.seventeen.com/nav/images/cover_off6.jpg" alt="" width="135" height="122" border="0" name="cover"></a></td></tr>
+<tr><td colspan="2"><a href="https://www.inetz.com/seventeen/?RF=seventeen&amp;ref=101&amp;SessionCookie=70157874-1-0-1DD" target="subscribe"><img src="http://image.seventeen.com/nav/images/subscribe.gif" alt="" width="135" height="26" border="0"></a><br><a href="https://www.inetz.com/seventeen/?RF=seventeen&amp;ref=101&amp;SessionCookie=70157874-1-0-1DD" target="subscribe" onmouseover="rollover('go_on2','go')" onmouseout="rollover('go_off','go')"><img src="http://image.seventeen.com/nav/images/go_off.gif" alt="" width="135" height="16" border="0" name="go"></a></td></tr>
+<tr><td colspan="2"><img src="http://image.seventeen.com/nav/images/spacer.gif" alt="" width="1" height="10" border="0"></td></tr>
+<tr><td rowspan="12"><img src="http://image.seventeen.com/nav/images/spacer.gif" alt="" width="20" height="1" border="0"></td>
+<td><a href="/fashion/index.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('fashion_on2','fashion')" onmouseout="rollover('fashion_off','fashion')"><img src="http://image.seventeen.com/nav/images/fashion_off.gif" alt="" width="43" height="18" border="0" name="fashion"></a></td>
+</tr> 
+<tr><td><a href="/beauty/index.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('beauty_on2','beauty')" onmouseout="rollover('beauty_off','beauty')"><img src="http://image.seventeen.com/nav/images/beauty_off.gif" alt="" width="40" height="17" border="0" name="beauty"></a></td></tr>
+<tr><td><a href="/sexbody/index.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('sex_on2','sex')" onmouseout="rollover('sex_off','sex')"><img src="http://image.seventeen.com/nav/images/sex_off.gif" alt="" width="63" height="16" border="0" name="sex"></a></td></tr>
+<tr><td><a href="/boys/index.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('boys_on2','boys')" onmouseout="rollover('boys_off','boys')"><img src="http://image.seventeen.com/nav/images/boys_off.gif" alt="" width="29" height="16" border="0" name="boys"></a></td></tr>
+<tr><td><a href="/reallife/index.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('real_on2','real')" onmouseout="rollover('real_off','real')"><img src="http://image.seventeen.com/nav/images/real_off.gif" alt="" width="45" height="14" border="0" name="real"></a></td></tr>
+<tr><td><a href="/allaccess/index.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('all_on2','all')" onmouseout="rollover('all_off','all')"><img src="http://image.seventeen.com/nav/images/all_off.gif" alt="" width="57" height="15" border="0" name="all"></a></td></tr>
+<tr><td><img src="http://image.seventeen.com/nav/images/spacer.gif" alt="" width="115" height="20" border="0"></td></tr>
+<tr><td><a href="/quiz/html/quiz.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('quiz_on2','quiz')" onmouseout="rollover('quiz_off','quiz')"><img src="http://image.seventeen.com/nav/images/quiz_off.gif" alt="" width="43" height="15" border="0" name="quiz"></a></td></tr>
+<tr><td><a href="/horoscope/html/index.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('horo_on2','horo')" onmouseout="rollover('horo_off','horo')"><img src="http://image.seventeen.com/nav/images/horo_off.gif" alt="" width="64" height="17" border="0" name="horo"></a></td></tr>
+<tr><td><a href="/win/html/index.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('win_on2','win')" onmouseout="rollover('win_off','win')"><img src="http://image.seventeen.com/nav/images/win_off.gif" alt="" width="32" height="14" border="0" name="win"></a></td></tr>
+<tr><td><a href="/shop/index.html?SessionCookie=70157874-1-0-1DD" onmouseover="rollover('shop_on2','shop')" onmouseout="rollover('shop_off','shop')"><img src="http://image.seventeen.com/nav/images/shop_off.gif" alt="" width="45" height="16" border="0" name="shop"></a></td></tr>
+<tr><td><img src="http://image.seventeen.com/nav/images/spacer.gif" alt="" width="115" height="13" border="0"></td></tr>
+<tr><td colspan="2"><a href="/events/html/index.html?SessionCookie=70157874-1-0-1DD"><img src="http://image.seventeen.com/nav/images/events_promotions.gif" alt="" width="105" height="36" border="0"></a></td></tr>
+<tr><td colspan="2"><img src="http://image.seventeen.com/nav/images/spacer.gif" alt="" width="115" height="7" border="0"></td></tr>
+<tr><td colspan="2"><a href="/newsletter/html/entry.epl?SessionCookie=70157874-1-0-1DD"><img src="http://image.seventeen.com/nav/images/get_newsletter.gif" alt="" width="105" height="49" border="0"></a></td></tr>
+<tr><td colspan="2" class="TD10"><a href="/classifieds/17_index.html?SessionCookie=70157874-1-0-1DD"><img src="http://image.seventeen.com/nav/images/nav_class.gif" alt="" width="106" height="39" border="0"></a><br><br>&nbsp;&nbsp;&nbsp;<a href="https://store.primediamags.com/service/seventeen?SessionCookie=70157874-1-0-1DD" class="blackl" target="blank">subscriber services</a><br><br><img src="http://image.seventeen.com/nav/images/17.gif" alt="" width="105" height="72" border="0"></td></tr>
+</tbody></table>
 
 
 
-<tr>
+</td>
+	<td valign="TOP" main=""><a href="/main/frontpage.html?SessionCookie=70157874-1-0-1DD" class="greyl"><img src="http://image.seventeen.com/main/images/logo6.gif" border="0"></a><br><img src="http://image.seventeen.com/main/images/spacer.gif" border="0" width="430" height="10"><br>
 
-<td align="left">
+<table border="0" cellspacing="0" cellpadding="0" width="430">
+	<tbody><tr>		
+		<td colspan="3" class="nav">you are here: <a href="/main/frontpage.html?SessionCookie=70157874-1-0-1DD" class="greyl">home</a> &gt; <a href="/about/html/about.html?SessionCookie=70157874-1-0-1DD" class="greyl">about us</a> &gt; privacy policy</td>
+	</tr>
+	<tr>		
+		<td colspan="3" class="nav"><img src="http://image.seventeen.com/about/images/spacer.gif" alt="" width="1" height="10" border="0"></td>
+	</tr>
 
-<!--  i-17 layout  -->
-<table width="100" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr><td><img src="/imgs/navigraphics/i17_new.gif" alt="i-17" border="0" vspace="0" hspace="0"></td></tr>
+		<tr><td valign="TOP">
+	<table border="0" cellspacing="0" cellpadding="0">
+	
+	<tbody><tr><!--left column cell-->
+		<td valign="TOP">
+		<table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>		
+		<td><a href="/about/html/about.html?SessionCookie=70157874-1-0-1DD"><img src="http://image.seventeen.com/about/images/header_about_us.gif" alt="" width="273" height="29" border="0"></a><br><img src="http://image.seventeen.com/about/images/privacy_policy.gif" alt="" width="184" height="24" border="0"><br><br></td>
+		</tr>
 		<tr>
+		<td valign="TOP" class="TD">
+		Welcome to <b>seventeen.com</b>, the online home of <b>seventeen</b>  magazine. We're psyched that you're here! This site is where you can get the latest info on entertainment, fashion, and life, and it's where you can express yourself through polls and quizzes. (Also you can win stuff!) We'd like you to read and understand our privacy policy.
+		<br><br>
+		<b>Seventeen.com</b> is owned by PRIMEDIA. <b>Seventeen.com</b> is committed to protecting the privacy of our users. We sometimes collect personal information from our users. This page explains what information we collect, why we collect it, what we do with it and what you can do about it. We also ask girls to always check with their parents before giving out any personal information on our website.
+		<br><br>
+		<b>Collection of personal information</b><br>
+		<b>Seventeen.com</b> maintains the confidentiality, security and integrity of personal information that we obtain from our users. We do not disclose personal information to any outside party. When registering for <b>seventeen.com</b> or any of its related services, we ask you to provide certain personal information. This information is for internal use only and will not be distributed or sold to any parties outside <b>seventeen.com</b>.
+		<br><br>
+		We strive to create sweepstakes, contests and content which require a very minimal amount of information from our users. Our online surveys, sweepstakes, and contests sometimes ask users for contact information (like their e-mail addresses) or information about their hobbies or interests. This information is also only for internal purposes and will not be shared with any party outside <b>seventeen.com</b>.
+		<br><br>
+		<b>Newsletters and Registration</b><br>
+		To subscribe to the <b>seventeen.com</b> newsletter, you must be over the age of thirteen, and we ask for your e-mail and your zip code. When you register with <b>seventeen.com</b> (which gives you access to contests and sweepstakes), we ask for a bit more: your first name, birthdate, zip or postal code, and what country you live in. Again, this information is for internal use only and will not be distributed or sold to any parties outside <b>seventeen.com</b>. Newsletter subscribers generally get two emails per month. We might also send out e-mails to users that have opted in for an online service to announce special offers, services and announcements from our site and/or our advertisers. You can opt out of the newsletter at any time by clicking <a href="/newsletter/html/unsubscribe.epl?SessionCookie=70157874-1-0-1DD" class="greyl">here</a>.
+		<br><br>
+		<b>About IP addresses</b><br>
+		An IP address is a number that's automatically assigned to your computer whenever you're surfing the web. Web servers--the big computers that "serve" up webpages--automatically identify your computer by its IP address. <b>Seventeen.com</b> collects IP addresses for the purposes of system administration and to report anonymous aggregate information to third parties. When guests request pages from <b>seventeen.com</b>, our servers log the users' IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user's session will be logged, but the user remains anonymous to us. We will know your IP address, but not who you are.
+		<br><br>
+		<b>Use of cookies</b><br>
+		Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. They allow a website to remember you and allows for the personalization of webpages. The use of cookies is an industry standard; you'll find them on most major websites. <b>Seventeen.com</b> sometimes uses cookies to understand our users better and to track information for them.
+		<br><br>
+		<b>Links to other sites</b><br>
+		You should be aware that when you are on <b>seventeen.com</b> you might be directed to other sites that are beyond our control. Every site on the web has a different privacy policy and different policies regarding your personal information. The privacy policies and the practices of sites outside of <b>seventeen.com</b> and all of its services are beyond our control. It is your responsibility to read and understand the privacy policies of any and all websites you visit on the internet These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. Always be aware of where you end up on the net.
+		<br><br>
+		<b>Security</b><br>
+		The importance of security for all personally identifiable information associated with our users is of utmost concern to us. We exercise great care in providing secure transmission of our users' personal information from their computers to our servers by utilizing encryption software. Only those employees who need access to our users' information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution.
+		<br><br>
+		<b>Children's privacy</b><br>
+		The Children's Online Privacy Protection Act (COPPA) does not allow the collection of any personal information from anyone under the age of 13.  In compliance with COPPA, <b>seventeen.com</b> does not knowingly collect personal information from anyone under the age of 13.  It is important for you to understand COPPA; we encourage you to read more about COPPA by visiting the FTC's website at www.ftc.gov.
+		<br><br>
+		<b>Your acceptance of these terms</b><br>
+		By using this site, you signify your assent to the <b>seventeen.com</b> privacy policy. If you do not agree to this policy, please do not use our site. Your continued use of our site more than 30 days following the posting of changes to these terms will mean that you accept those changes. You can send e-mail to us with any further questions.
+		<br><br>
+		<b>Deleting your information</b><br>
+		If at any time you wish to be removed from the <b>seventeen.com</b> database, send an e-mail to feedback@<b>seventeen.com</b>. 
+		<br><br>
+		<b>Third party cookies</b><br>
+		In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+		<br><br>
+		<b>Privacy policy disclosure</b><br>
+		We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click on the links below:
+		<br><br>
+		247Media privacy policy<br>
+		SONAR Network privacy policy<br>
+		Doubleclick Network privacy policy<br>
+		<br><br>
+		<b>Contacting us</b><br>
+		If you have any questions about our privacy policy, the practices of this site or your dealings with it, you can contact:<br>
+		seventeen.com<br>
+		1440 Broadway, 20th  Floor<br>
+		New York, NY 10018<br>
+		<br><br>
+		<a href="mailto:feedback@seventeen.com" class="greyl">feedback@seventeen.com</a>
+		</td>
+		</tr>
 		
+		</tbody></table>
+		</td>
+		</tr>
+		</tbody></table>
+		</td><!-- end left column cell-->
 		
-<form action="/i-17/bridgepage.cfm"></form>
-			<td bgcolor="CD0000">
-<!--  Please add action, names, paramters etc. to form -->
-<center>
-					<font face="ARIAL,HELVETICA" size="1" color="#FFFFFF">Seventeen's Online Interactive Community
-					<br><input type="image" src="/imgs/navigraphics/enter.gif" alt="enter" border="0" hspace="0" vspace="0">				
-				<br>Chat, message boards, IM, and more!
-		</font></center></td></tr>
-
-
-
-		<tr><td width="105">
-		<a href="/i-17/registration.cfm"><img src="/imgs/images/register_free.gif" alt="register free" width="105" height="46" border="0"></a>
-		</td></tr>
+		</tr>
+	</tbody></table>
+	</td>
+		
+	</tr>
 </tbody></table>
 
-<!-- end of I-17 table within table -->
 
 
 
-</td></tr>
-
-
-<tr><td align="left">
-<!-- 
-<p>
-<a href="http://www.seventeen.com/advertising/cyberscoop/NEW_STAR1.HTML"><img src="http://www.Seventeen.com/advertising/img/new_star.gif" border="0"></a>
- -->
-
-<p>
-<a href="http://www.seventeen.com/advertising" target="_blank"><img src="/imgs/cyberscoop.gif" border="0"></a>
 
 
 
-</p></td></tr>
 
+
+</td>
+	</tr><tr>
+    <td colspan="3" align="CENTER" bottom=""><table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr><td class="nav" align="center"><img src="http://image.seventeen.com/nav/images/spacer.gif" alt="" width="1" height="60" border="0"></td></tr>
+<tr><td class="nav" align="center">Copyright 2002 PRIMEDIA Magazines Inc.<br>All rights reserved<br><br></td></tr>
+<tr><td class="nav" align="center"><a href="https://www.inetz.com/seventeen/?RF=seventeen&amp;ref=102&amp;SessionCookie=70157874-1-0-1DD" target="subscribe" class="greyl">subscribe</a> | <a href="/about/html/about.html?SessionCookie=70157874-1-0-1DD" class="greyl">about us</a> | <a href="/about/html/privacypolicy.html?SessionCookie=70157874-1-0-1DD" class="greyl">privacy policy</a> | <a href="https://store.primediamags.com/service/seventeen?SessionCookie=70157874-1-0-1DD" target="subscribe" class="greyl">subscriber services</a></td></tr>
+<tr><td class="nav" align="center"><img src="http://image.seventeen.com/nav/images/spacer.gif" alt="" width="1" height="30" border="0"></td></tr>
 </tbody></table>
- </td>
 
- 
-<td width="10"><img src="/imgs/spacer.gif" width="10" border="0"></td><td width="455" valign="top"><br>&nbsp;&nbsp;&nbsp;
-
-
-<script language="JavaScript">
-<!--//
-document.write('<nolayer>');
-document.write('<iframe src="http://ad.doubleclick.net/adi/' + dclkPage + 'sz=468x60;tile=1;ord=' + random + '" width=470 height=62 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor="000000">');
-document.write('<a href="http://ad.doubleclick.net/jump/' + dclkPage + 'sz=468x60;tile=1;ord=' + random + '" target="new">');
-document.write('<img src="http://ad.doubleclick.net/ad/' + dclkPage + 'sz=468x60;tile=1;ord=' + random + '" height=60 width=468 border=0>' + '</a>');
-document.write('</iframe>');
-document.write('</nolayer>');
-document.write('<ilayer id=snap VISIBILITY=hide WIDTH=468 HEIGHT=60></ilayer>');
-// -->
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/seventeen.dart/homepage;sz=468x60;tile=1;ord=09217824992308032" width="470" height="62" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="000000"><a href="http://ad.doubleclick.net/jump/seventeen.dart/homepage;sz=468x60;tile=1;ord=09217824992308032" target="new"><img src="http://ad.doubleclick.net/ad/seventeen.dart/homepage;sz=468x60;tile=1;ord=09217824992308032" height=60 width=468 border=0></a></iframe></nolayer><ilayer id="snap" visibility="hide" width="468" height="60"></ilayer>
-
-
-
-
-<p>
+ </td></tr></tbody></table>
 
 
 
 
 
-
-	</p><center><font face="times new roman" size="5"><b><font size="5" color="red">Seventeen Online Privacy Policy</font></b></font></center>
-	<font size="3" face="times new roman"><p>
-	</p><center>
-	<b> </b><p>
-	
-	</p></center>
-
-	
-
-	
-	
-
-	<font size="3" face="times new roman">Hey, welcome to <b>seventeen.com</b> -one of the few places in the world where you can speak your mind freely. . .and actually be heard. We're so psyched that you're here!  We knew you were coming so we've cooked up a bunch of ways for you to express yourself, meet other teenagers from across the country and find out what they think about everything from the latest gear to the hottest celebs and the coolest music and movies.  Our online community may include chat rooms, message boards, instant messenger, buddy lists, email, newsletters, polls, surveys and quizzes-all designed to make you want to stay awhile. 
-<p>
-Hanging out on <b>seventeen.com</b> is a blast, but the most important thing to us is your privacy.  That's why we promise to protect the privacy of each visitor, and each user who registers with seventeen.com.  When you register with us, you tell us some pretty personal stuff and we want you to fully understand why we ask for that info and what we do with it.  So, we've come up with this privacy statement which will fill you in on what kind of information we gather, how we use it and how you can correct or change it. 
-</p><p>
-Questions regarding the <b>seventeen.com</b> Privacy should be directed to:
-<br><a href="mailto:ask17@seventeen.com">ask17@seventeen.com</a>
-</p><p>
-Frequently Asked Questions 
-</p><p>
-<b>Getting the info</b><br>
-<b>seventeen.com</b> has a handful of ways to gather personal information on the visitors to our site, such as your optional, voluntary participation in message boards, chats, surveys, instant messenger, buddy list, your member profile, email, as well as entry in our contests and sweepstakes.  All subscribers (for things like chat, etc.) are asked to create a fictitious nickname, and provide their first name and e-mail address For sweepstakes, contests and other activities, we might ask you for your date of birth, gender, zip code, state and country.   <b>seventeen.com</b> is designed for teens, so we ask that those under 13 not send us any personal information, like name, address, etc.  And sorry - if you're under 13, you can't enter any contests sponsored by seventeen® at this site.
-</p><p>
-We also get information about the interests of our visitors through "passive identifiers,"  aka cookies.   Now, you might ask, what the heck are cookies?  Good question!  (We knew you were smart!)  They're little bits of data stored on your computer.  Cookies that we set aren't associated with any personal information (like your name or address, or answers to our polls or surveys).  How do we use 'em?  Another good question!  We take all the data from all the cookies from all our visitors.  They tell us when a unique visitor (you) is on our site, help us pinpoint problems with our server, and help us make sure we're doing the cool stuff our visitors really like.  But - and this is important - we want you to tell us what you think, so our polls and surveys and stuff are all anonymous, and won't be linked to you.  
-</p><p>
-<b>What's Elvis got to do with it?</b><br>
-Basically <b>seventeen.com</b> uses the information we gather about you to custom fit our site according to your likes and dislikes, as well as those of our advertisers.  Say we write a quiz about Elvis, you know, the King of Rock 'n Roll and we see that thousands of you took and enjoyed the quiz. Well, that means that we're sure to run a "Do You Love Me Tender?" quiz in honor of Elvis the next chance we get.  Why? Because you told us you were into Elvis. We might also use this same Elvis info to help the folks in marketing develop a line of fat-free Elvis cookies.  And then perhaps one of our advertisers might call <b>seventeen.com</b> and ask how many people "clicked" on the ad they ran next to that wacky Elvis quiz.  See? We get all that useful information from one click of your mouse.
-</p><p>
-We might also send out emails to users that have opted in for an online service to announce special offers, services and announcements from our site and/or our advertisers.  How does it work?  We do the work.  We don't send your name, e-mail address or anything else that's personally identifiable to our advertisers.  That way, if you said you want to hear about new makeup (even though you're already gorgeous), we let you know about offers from our advertisers.  If you don't, don't sign up.  If you do sign up and decide that you don't want to get the e-mails, no problem.  Just unsubscribe by unchecking the appropriate box in your member profile, or following the "unsubscribe" instructions in any email you receive.
-</p><p>
-<b>Sweepstakes, Contests and Ads.</b><br>
-Ya gotta remember one really important thing about contests.  Sometimes we run them, and sometimes they're run by our advertisers or business partners.  If you click on an offer to enter a contest or sweepstakes, check  to see who sponsors it.  (Hint:  look for the URL!)  If it's <b>seventeen.com</b>, our rules apply.  If it's not, ya gotta check out the sponsor's privacy policy to know how they handle personal information.
-</p><p>
-Same thing with an ad.  If, when you click, you leave our site, be sure to check out their privacy policy and understand what information they collect, and how they use it, before giving any personal information. 
-</p><p>
-<b>Sharing secrets</b><br>
-We're the best secret keepers ever!  <b>seventeen.com</b> does not disclose personal information on any individual user to any third party, including our advertisers and other partners, unless we absolutely have to.  That would only happen because it's the law (like, we have to cooperate with the police, the FBI, or other officials), or because there's some sort of court process (you know how those lawyers are), or so we can protect the site from really uncool stuff like jamming or hacking.
-</p><p>
-<b>You want out?</b><br>
-<b>seventeen.com</b> gives users options all the time.  Such choices include: Opting not to receive electronic newsletters when registering for a service.  Opting not to participate in certain interactive areas such as chat and message boards, which completely alleviate the need for any information from our users. Opting not to register and create a member profile.
-</p><p>
-<b>Weirdos, Crazies and Other Privacy Issues</b><br>
-While we do a really good job of keeping ourselves in check, <b>seventeen.com</b> is not responsible for the content or privacy policy of the Web sites we may link to.  And let's talk about chat rooms and message boards.  You need to keep in mind that whenever you voluntarily give personal information online ("I'm 5' 3" and have dark hair like Katie Holmes and I love oatmeal"), by using message boards, instant messengers, through email or in chat areas-it can be collected and used by other people.  If you post personal information online that is accessible to the public, you may receive unsolicited messages from others in return.  All we're saying is, there are weirdos out there who make it a hobby to collect information about unsuspecting surfers, so remember that whatever personal                information you disclose to anyone online you do at your own risk! Do not share your password!  seventeen® or <b>seventeen.com</b> staff will never ask you for your password. Beware of random users posing as seventeen® staffers to gain access to your personal information.
-</p><p>
-AND, if you're chatting or chillin' with someone and they start weirding you out or making you feel uncomfortable, simply turn off your browser or computer, if you must, and e-mail us at ask17@<b>seventeen.com</b> to tell us what happened.  Make sure you get the user name(s) of the person(s) involved.  And remember -or Community Rules apply in our space, so click here to check out how to stay cybercool in our chat areas.
-</p></font><p><font size="3" face="times new roman"></font></p></font><p><font size="3" face="times new roman">
-
-		
-
-
-
-
-
-	</font>
-
-</p></td></tr></tbody></table>
-
-
-
-
-
-
-
-<p>
-
-
-<!-- The tag below must be placed at the base of the page, beyond any tables, above the and tags, tag for the style file -->
-
-
-
-
-<table width="660" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="147" valign="top">&nbsp;</td>
-<td width="30">&nbsp;</td>
-<td width="30">&nbsp;</td>
-<td width="455" valign="top"><script language="JavaScript">
-<!--//
-document.write('<nolayer>');
-document.write('<iframe src="http://ad.doubleclick.net/adi/' + dclkPage + 'sz=468x60;tile=2;ord=' + random + '" width=470 height=62 marginwidth=0 marginheight=0 hspace=10 vspace=0 frameborder=0 scrolling=no bordercolor="000000">');
-document.write('<a href="http://ad.doubleclick.net/jump/' + dclkPage + 'sz=468x60;tile=2;ord=' + random + '" target="new">');
-document.write('<img src="http://ad.doubleclick.net/ad/' + dclkPage + 'sz=468x60;tile=2;ord=' + random + '" height=60 width=468 border=0>' + '</a>');
-document.write('</iframe>');
-document.write('</nolayer>');
-document.write('<ilayer id=snap2 VISIBILITY=hide WIDTH=468 HEIGHT=60></ilayer>');
-// -->
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/seventeen.dart/homepage;sz=468x60;tile=2;ord=09217824992308032" width="470" height="62" marginwidth="0" marginheight="0" hspace="10" vspace="0" frameborder="0" scrolling="no" bordercolor="000000"><a href="http://ad.doubleclick.net/jump/seventeen.dart/homepage;sz=468x60;tile=2;ord=09217824992308032" target="new"><img src="http://ad.doubleclick.net/ad/seventeen.dart/homepage;sz=468x60;tile=2;ord=09217824992308032" height=60 width=468 border=0></a></iframe></nolayer><ilayer id="snap2" visibility="hide" width="468" height="60"></ilayer>
-
-
-<br><p><br><br>
-<font face="arial,helvetica" size="1">
-</font></p><center><font face="arial,helvetica" size="1"><a href="/other/291.html">Community rules</a> | <a href="/other/262.html">Privacy policy</a> |  <a href="/other/1213.html">Contact us</a> | <a href="/other/980.html">Credits</a></font></center><font face="arial,helvetica" size="1">
-</font><p align="center"><font face="arial,helvetica" size="1">
-Copyright 1999 by Seventeen Magazine, a <a href="http://www.PRIMEDIA-Inc.com">PRIMEDIA</a> publication. All rights reserved. Reproduction without permission is prohibited.
-</font></p></td></tr></tbody></table>
-
-<script language="JavaScript">
-<!--
-
-
-document.write('<layer clip="468,60" src="http://ad.doubleclick.net/adl/' + dclkPage + 'sz=468x60;tile=1;ord=' + random + '" visibility=hide onload="moveToAbsolute(snap.pageX+10, snap.pageY-15); visibility=\'show\';"></layer>');
-
-document.write('<layer clip="468,60" src="http://ad.doubleclick.net/adl/' + dclkPage + 'sz=468x60;tile=2;ord=' + random + '" visibility=hide onload="moveToAbsolute(snap2.pageX, snap2.pageY-15); visibility=\'show\';"></layer>');
-
-// -->
-</script><layer clip="468,60" src="http://ad.doubleclick.net/adl/seventeen.dart/homepage;sz=468x60;tile=1;ord=09217824992308032" visibility="hide" onload="moveToAbsolute(snap.pageX+10, snap.pageY-15); visibility='show';"></layer><layer clip="468,60" src="http://ad.doubleclick.net/adl/seventeen.dart/homepage;sz=468x60;tile=2;ord=09217824992308032" visibility="hide" onload="moveToAbsolute(snap2.pageX, snap2.pageY-15); visibility='show';"></layer>
-
-
-
-
-
-
-
-</p></body></html>
+</body></html>
