@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207190858id_/http%3A//www.greenriver.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619233050id_/http%3A//www.greenriver.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Green River Privacy Policy
 
-[Green River Home Page](https://web.archive.org/web/20031207190858id_/http%3A//www.greenriver.edu/default.htm)
+[Green River Home Page](https://web.archive.org/web/20040619233050id_/http%3A//www.greenriver.edu/default.htm)
 
 | 
 
@@ -59,19 +59,19 @@
 
 Thank you for visiting the Green River Community College Web site and reviewing our Privacy Notice. This statement addresses collection, use, and security of and access to information that may be obtained through use of Green River Community College Web site. This notice covers the following topics:
 
-  * Information Collected and How it is Used 
+  * Information Collected and How it is Used
 
-  * Personal Information and Choice 
+  * Personal Information and Choice
 
   * Public Access to Information
 
-  * Nondisclosure of Certain Personal Information 
+  * Nondisclosure of Certain Personal Information
 
   * Cookies
 
   * Security
 
-  * Disclaimer 
+  * Disclaimer
 
   * Contact Information
 
@@ -134,7 +134,7 @@ If personal information is requested on the Web site or volunteered by the user,
 
 If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact the [college name contact person or position] as shown in the Contact Information section of this statement.
 
-Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access.
+Green River's Web site is a general audience site and we do not knowingly collect any personal information from children. Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access. If either (1) Green River's Web site is directed to children, particularly those under 13 years of age, (2) those operating the site have actual knowledge that they collect such information from children, or (3) information collected by Green River is likely to be submitted by a child; and the site collects children's personal information online, whether directly (i.e. name, age, etc.) or indirectly (i.e. via a tracking mechanism); then collect no more personal information than is reasonably necessary and consider creating a separate area in your privacy notice to address the collection of personal information from children.
 
 Top of page
 
@@ -382,6 +382,8 @@ Top of page
 The Green River Community College Web site has many links to other Web sites. These include links to Web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the Green River Community College Web site and this Privacy Notice will not apply. When you link to another Web site, you are subject to the privacy policy of that new site.
 
 Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.
+
+Green River reserves the right to revise this Privacy Notice at any time by posting such revised Privacy Notice at the Green River home page.
 
 Top of page
 
