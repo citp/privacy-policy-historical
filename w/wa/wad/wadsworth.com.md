@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wadsworth.com privacy policy that was archived on 1999-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991009171145id_/http%3A//wadsworth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wadsworth.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610075753id_/http%3A//www.wadsworth.com/privacy.html) for the most accurate reproduction.*
 
 # Wadsworth Publishing Company
 
@@ -12,7 +12,7 @@ Attn: Webmaster
 10 Davis Drive  
 Belmont, CA 94002
 
-Or send us a note [here](https://wwws.thomson.com/pub/wadsworth/contact/).
+Or send us an [email](http://www.wadsworth.com/contact/).
 
 The information we collect is used to improve the content of our Web pages, to notify customers about updates to our Web site, to improve our products, to contact customers for marketing purposes, and to receive feedback from customers about the products we publish and related course and market information. It is not shared with other organizations. 
 
