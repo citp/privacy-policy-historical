@@ -1,15 +1,39 @@
-<!--The following is the downloaded HTML source of the radisson.com privacy policy that was archived on 2003-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604102400id_/http%3A//www.radisson.com/customerservice/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radisson.com privacy policy that was archived on 2003-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030806032936id_/http%3A//radisson.com/customerservice/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script type="text/javascript">
+function showAllPromos()
+{
+  document.localeform.onlyTranslatedPromos.value = 'false';
+  document.localeform.submit();
+}
+function handleLanguageChange()
+{
+  var lLanguageOptions = document.localeform.language.options;
+  var lSelectedOption = lLanguageOptions[lLanguageOptions.selectedIndex];
+  if (lSelectedOption.value == 'en')
+  {
+    document.localeform.onlyTranslatedPromos.value = 'true';
+    document.localeform.submit();
+  }
+  else
+  {
+    window.open('/common/languageoptions.jsp?language=' + lSelectedOption.value, 'languageoptions','width=400,height=300,scrollbars=1');
+  }
+}
+</script>
+
+
+
+
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
 <meta name="Description" content="Hotel accomodations for business travel, leisure travel, vacation getaways and event planning with Radisson Hotels. Make a Radisson, Radisson Edwardian or Radisson SAS hotel reservation online. Join Radisson's Gold Rewards loyalty program - earn GoldPoints for free hotel, air and entertainment.">
 <meta name="Keywords" content="Radisson Hotels, Radisson SAS, Radisson Edwardian, hotel, travel, resort, reservation, vacation, accommodation, event planning, lodging, business travel, leisure travel, business class hotel, airport hotel, family vacation, meeting planning, loyalty program, Gold Rewards, Hot Deals, Gold Points, Radisson Hotels and Resorts, hospitality">
 <link rel="stylesheet" type="text/css" href="/css/rad.css">
 <script type="text/javascript">
 var browserCheck = "true";
-var showAdPopup = "true";
-var popupPage = "false";
 </script>
 <script type="text/javascript" language="JavaScript1.1" src="/js/browser.js"></script>
 <script type="text/javascript">
@@ -66,6 +90,8 @@ function goToLink(pSelect)
 
 
 
+
+
 <!-- BODY LAYOUT  -->
 <body onload="ValidateBrowserVersion()">
 
@@ -85,25 +111,52 @@ function goToLink(pSelect)
   <td class="righttopmenu">
    <table cellpadding="0" cellspacing="0">
     <tbody><tr class="topmenuline1">
-     <form name="localeform" action="/setlocale.jsp"></form>
+     <form name="localeform" action="/setlocale.jsp;jsessionid=1w2LQYmK6Y4AxQoLQjo9AE9g1WvJXtObIJXwzP8nBL5T1EesPbi3!174993261!169870416!7001!7002"></form>
      <td class="righttopmenu">
      
+      <input type="hidden" name="onlyTranslatedPromos" value="false">
       <input type="hidden" name="redisplay" value="true">
-      <input type="hidden" name="url" value="http://radisson.com/customerservice/privacy.jsp">
+      <input type="hidden" name="url" value="http://www.radisson.com:80/customerservice/privacy.jsp">
+      <select class="dataentry" name="language" onchange="handleLanguageChange()">
 
+       <option value="en" selected="">
+         Language: English
+       </option>
+
+       <option value="da">
+         Change to Dansk
+       </option>
+
+       <option value="de">
+         Change to Deutsch
+       </option>
+
+       <option value="fr">
+         Change to Français
+       </option>
+
+       <option value="no">
+         Change to Norsk
+       </option>
+
+       <option value="sv">
+         Change to Svenska
+       </option>
+
+      </select>
       <select name="category" onchange="goToLink(this)" class="dataentry"><option value="">Take me to...</option>
        <option value="/home.jsp">Home</option>
 <option value="/reservation/clearReservation.do">Make a Reservation</option>
 <option value="/adjustment/secure/currentRes.do">Change a Reservation</option>
 <option value="www.radissonhotelsdirectory.com">Find a Hotel</option>
-<option value="www.RadissonDestinations.com/">Destinations &amp; Activities</option>
+<option value="www.radissondestinations.com">Destinations &amp; Activities</option>
 <option value="/customerservice/home.jsp">Contact Us</option>
 <option value="/guestaccess/secure/home.jsp">My Account</option>
 <option value="/aboutus/home.jsp">About Us</option>
 <option value="/plananevent/home.jsp">Plan an Event</option>
 <option value="/news/home.jsp">News</option>
-<option value="/hotdeals/hotdealshome.jsp">Hot Deals</option>
-<option value="/specialoffers/home.jsp">Special offers</option>
+<option value="/hotdeals/home.jsp">Hot Deals</option>
+<option value="/specialoffers/home.jsp">Special Offers</option>
 <option value="/myescapes/home.jsp">My E-scapes</option>
 <option value="/goldrewards/home.jsp">Radisson Gold Rewards</option>
 <option value="/brandoffers/home.jsp">Go Packages</option>
@@ -126,16 +179,16 @@ function goToLink(pSelect)
     </tr>
     
       <tr class="topmenuline2">
-       <td class="lefttopmenu" nowrap="">
+       <td class="lefttopmenu">
         <font class="topmenu">
-    
-          <a class="topmenu" href="/reservation/clearReservation.do">Make a Reservation</a>&nbsp; : &nbsp;
-    
-        <a class="topmenu" href="/adjustment/secure/currentRes.do">Change a Reservation</a>&nbsp; : &nbsp;
-         
-        <a class="topmenu" href="/plananevent/home.jsp">Plan an Event</a>&nbsp; : &nbsp;
-         
-        <a class="topmenu" href="/customerservice/home.jsp">Contact Us</a>&nbsp;</font></td>
+       
+        <span class="nowrap"><a class="topmenu" href="/reservation/clearReservation.do">Make a Reservation</a>&nbsp; : &nbsp;</span>
+       
+        <span class="nowrap"><a class="topmenu" href="/adjustment/secure/currentRes.do">Change a Reservation</a>&nbsp; : &nbsp;</span>
+       
+        <span class="nowrap"><a class="topmenu" href="/plananevent/home.jsp">Plan an Event</a>&nbsp; : &nbsp;</span>
+       
+        <span class="nowrap"><a class="topmenu" href="/customerservice/home.jsp">Contact Us</a>&nbsp;</span></font></td>
        <td></td>
       </tr>
 
@@ -145,7 +198,6 @@ function goToLink(pSelect)
  </tr>
 </tbody></table>
 <!-- end top menu -->
-
 
 
 
@@ -161,7 +213,20 @@ function goToLink(pSelect)
    <table cellpadding="0" cellspacing="0">
     <tbody><tr>
      <td class="triplespacer"></td>
-	 <td class="topmenuwelcome">Welcome to Radisson.com : Please <a class="welcome" href="/secure/login.do?fullProfile=Y">sign in.</a></td>
+	 <td class="topmenuwelcome">
+
+
+
+
+
+
+  Welcome to radisson.com&nbsp;:&nbsp;
+
+  Please <a class="welcome" href="/secure/login.do?fullProfile=Y">sign in</a> 
+
+
+
+</td>
     </tr>
    </tbody></table>
   </td>
@@ -454,6 +519,7 @@ has changed. If we post changes and you continue to use the site, you will be de
   </td>
  </tr>
 </tbody></table>
+
 <!-- end bottom menu -->
 
 
