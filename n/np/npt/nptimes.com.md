@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603154503id_/http%3A//www.nptimes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211021349id_/http%3A//www.nptimes.com/privacy.html) for the most accurate reproduction.*
 
 # NP Times: Privacy Policy
 
@@ -35,5 +35,5 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 
   
-The NonProfit Times [Privacy Policy ](https://web.archive.org/web/20020603154503id_/http%3A//www.nptimes.com/privacy.html)  
+© 2002 The NonProfit Times [Privacy Policy](http://www.nptimes.com/privacy.html)  
 
