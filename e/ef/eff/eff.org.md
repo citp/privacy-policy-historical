@@ -1,107 +1,39 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216192956id_/http%3A//www.eff.org/onsite.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605031150id_/http%3A//www.eff.org/onsite.html) for the most accurate reproduction.*
 
-# EFF
+# EFF Privacy Policy (May 22, 2002)
 
-### 
+The Electronic Frontier Foundation (EFF) is committed to protecting the privacy of visitors to our website, as well as our members and activists. 
 
-This Overall Privacy Statement verifies that Electronic Frontier Foundation is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. This statement discloses the privacy practices for the entire Web site. 
+In this policy "EFF" refers to EFF staff, board members, cooperating attorneys, interns, volunteers and consultants, all of whom are bound by law or contract to keep information they receive as part of their assistance to EFF confidential. 
 
-The Electronic Frontier Foundation (EFF) is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for our web site, [http://www.eff.org](http://www.eff.org/)
+As to all of the information described below, EFF will not give, sell, rent or exchange the information with anyone else without your prior consent except as compelled by law (see the final section). 
 
-TRUSTe is an independent, non-profit initiative whose mission is to build users’ trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe mark, this Web site has agreed to notify you of: of: 
+### Website Privacy Policy
 
-  1. [What personally identifiable information of yours is collected](http://www.eff.org/onsite.html#gather);
-  2. [What organization is collecting the information](http://www.eff.org/onsite.html#who);
-  3. [How the information is used](http://www.eff.org/onsite.html#use);
-  4. [With whom the information may be shared](http://www.eff.org/onsite.html#share);
-  5. [What choices are available to you regarding collection, use and distribution of the information](http://www.eff.org/onsite.html#optout);
-  6. [How you can correct any inaccuracies in this information](http://www.eff.org/onsite.html#update);
-  7. [What kind of security procedures are in place to protect against the loss, misuse or alteration of information under the company's control](http://www.eff.org/onsite.html#security);
-  8. [Other Information About Your Privacy at This Site](http://www.eff.org/onsite.html#other).
+EFF servers may record the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. 
 
+We use this information to measure the number of visitors to different sections of the site, to diagnose and correct system errors, and to improve the site. We delete this information after one month. 
 
+We do not connect this information to your name or identity. 
 
-If you have any questions or concerns regarding the site's privacy statement, you should first contact the site at:
+We do not use "cookies" on this site unless you decide to click on "Remember Me" or other similar functionality. 
 
-> Electronic Frontier Foundation  
->  attn: Membership Director  
->  1550 Bryant Street, Suite 725  
->  San Francisco CA 94103  USA 
-> 
-> membership@eff.org
-> 
-> +1 415 436 9333  
->  +1 415 436 9993 (fax)
+### Membership Privacy Policy
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addresses, you should then contact TRUSTe at: <http://www.truste.org/users/users_watchdog.html>.
+When you join EFF, we collect your name and postal address, and record the date that you joined. The amount and date of donation for your initial membership donation, and any subsequent donation, is recorded for our records. We respect anonymous donations. You may submit voluntarily any other personal information we request, including phone number and email address, which we store with your membership records. 
 
-**To return to the Site, please use the "Back" button on your browser.**
+We do not retain credit card information but only use it to process your present donation. Credit card numbers for monthly donors are kept in a secure location and processed in a secure online batch once per month. 
 
-* * *
+### Action Center Privacy Policy
 
-## What personally identifiable information of yours is collected
+There are a number of ways to subscribe to the EFF Action Center, including submitting a form at our website, opting in when you send a message through our action center, or mailing a sign-up form from a brochure or flier. When you subscribe, you will receive a confirmation message welcoming you to the EFF Action Center. 
 
-We collect aggregate information site-wide, including anonymous site stats. We also log domain names and/or IP addresses. On certain pages such as the EFF Membership Form, we give users the option of providing us with names, addresses, phone numbers, fax numbers, email addresses, demographic, preference and other personal information, and various other kinds of details. This more personal information is not gathered by us without users' knowing and active permission and participation. 
+When you subscribe to the EFF Action Center, we collect your name, email address, city, state, postal code, and country of residence. If you opt in, we will use your email address to send you updates and alerts on protecting your rights in the digital world, so you may take action, such as contacting your representative in Congress or attending an event. 
 
-## What organization is collecting the information
+You may remove your name from our email list at any time by sending a request to [alerts@action.eff.org](http://www.eff.org/alerts@action.eff.org). 
 
-The information is gathered by the Electronic Frontier Foundation itself, generally speaking. Contact and other information about our users might be collected by third parties that fulfill orders, verify credit cards, process orders in online currencies and pseudo-currencies. These off-site assistants and fulfillment houses will be required by us to make no further use of such information, nor disclose it to others, just like in-house EFF employees, whenever they are contracted with EFF. (In other cases, such a service might be independently subscribed to by the user, and any privacy policy of that service will be an agreement between the service and the user, not between the service and EFF.)
+We do not use "cookies" on this site unless you decide to click on "Remember Me" or other similar functionality. 
 
-## How the information is used
+### Compelled Disclosure
 
-We review and discard the information in some cases (e.g. IP address logs for file transfers), while in others we may use the information to tailor our users' web experience, generate anonymous statistics, or to contact users via email or postal mail (e.g. to send newsletters, action alerts, pledge drive promotions, etc.) We do not send such messages without permission. That is, the user must voluntarily subscribe to our mailing lists. Personal information that has been volunteered to us may also be combined with data from third parties, such as Congressional district maps, to improve our services to members. No such combining will be done for marketing purposes. If the user permits, we may also share the information with other, similar, non-profit orgainizations. This option is "off" by default. 
-
-## With whom the information may be shared
-
-EFF may share (but to date has not shared) members' contact information, only with permission, to similar non-profit organizations. This operates on an opt-in basis (i.e. your information will not be shared in this way unless you personally allow it.) 
-
-## What choices are available to you regarding collection, use and distribution of the information
-
-Our opt-out policy is that you may opt out of any use by us of information you have provided to us (and in fact you have to opt in voluntarily for any such use to happen in the first place.) Our delete/deactivate policy is the same as our opt-out policy - if you want to be removed from our membership roster, mailing lists or other databases, just let us know.
-
-If you would like to opt-out of any use of your personally identifiable information by us, or be removed from this site's database, please contact:
-
-> Electronic Frontier Foundation  
->  attn: Membership Director  
->  1550 Bryant Street, Suite 725  
->  San Francisco CA 94103  USA 
-> 
-> membership@eff.org
-> 
-> +1 415 436 9333  
->  +1 415 436 9993 (fax)
-
-## How you can correct any inaccuracies in this information
-
-Our change and update policy is simple - you simply tell us what the correct information is, and we'll update our membership or other relevant records. 
-
-If you would like to correct and/or update your personally identifiable information, please contact:
-
-> Electronic Frontier Foundation  
->  attn: Membership Director  
->  1550 Bryant Street, Suite 725  
->  San Francisco CA 94103  USA 
-> 
-> membership@eff.org
-> 
-> +1 415 436 9333  
->  +1 415 436 9993 (fax)
-
-## What kind of security procedures are in place to protect against the loss, misuse or alteration of information under the company's control
-
-Our databases, including the member database, and system administrations logs, are password protected. Online transactions of a sensitive nature, e.g. credit card numbers, are protected by secure browser connections. Users whose browsers do not support encryption are encouraged to conduct their transactions by encrypted e-mail. Our PGP public key is available at [http://www.eff.org/pub/EFF/effkeys.pgp](http://www.eff.org/pub/EFF/effkey.pgp).
-
-## Other Information About Your Privacy at This Site
-
-This site is a co-founder of the TRUSTe program (an international initiative for establishing consumer trust and confidence in electronic transactions by protecting online privacy via industry-standard online privacy policy disclosure.) 
-
-EFF's site generally stores no information about its visitors, with the exceptions of basic logging for site stats (just machine addresses, not personal email addresses), and information provided by users who fill out our online membership, order, guestbook, or contest forms. Under no circumstances does EFF compile "audit trails" of which users are browsing what pages, and under no circumstances will EFF sell, rent, loan or give personally identifiable user information to marketeers. 
-
-[Here are some genuine examples of what our logs contain.](http://www.eff.org/onsite_logexamples.html)
-
-EFF's site does not monitor private communications (e.g. email) at all, much less make any use of such communications. 
-
-EFF's site does not display or make available users' or members' personal information, such as contact information, even if it is already publicly available. 
-
-  
-
+If we are required by law to disclose the information that you have submitted, we will attempt to provide you with notice (unless we are prohibited) that a request for your information has been made in order to give you an opportunity to object to the disclosure. We will attempt to provide this notice by email, if you have given us an email address, or by postal mail if you have entered a postal address. We will independently object to overly broad requests for access to information about users of our site. If you do not challenge the disclosure request, we may be legally required to turn over your information. 
