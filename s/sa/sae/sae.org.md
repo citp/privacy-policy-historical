@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621110709id_/http%3A//www.sae.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207052508id_/http%3A//www.sae.org/privacy.htm) for the most accurate reproduction.*
 
 # SAE Website Privacy Policy
 
@@ -75,12 +75,7 @@ We share aggregate demographic information with our business partners, including
 If you have comments or questions about this Policy, please contact us at:   
 
 
-> Privacy Policy Officer  
->  SAE World Headquarters  
->  400 Commonwealth Drive  
->  Warrendale, PA 15096-0001  
->  USA  
->  Email: PrivacyPolicy@sae.org  
+> Email: PrivacyPolicy@sae.org  
 >  Phone: +1 877 606 7323 
 
 |  |    
