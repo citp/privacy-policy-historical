@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhschool.com privacy policy that was archived on 2000-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000601035250id_/http%3A//www.mhschool.com/schooldivpriv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhschool.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207151800id_/http%3A//www.mhschool.com/schooldivpriv.html) for the most accurate reproduction.*
 
 # MH School: About Us
 
