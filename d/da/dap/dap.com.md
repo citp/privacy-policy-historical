@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dap.com privacy policy that was archived on 2001-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010617075734id_/http%3A//dap.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dap.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211135200id_/http%3A//dap.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # DAP - Privacy Statement
 
@@ -20,7 +20,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-1\. You can send email to [mriggs@dap.com](mailto:mriggs@dap.com)  
+1\. You can send email to [sbundy@dap.com](mailto:sbundy@dap.com)  
 2\. You can visit the following URL: http://www.dap.com  
 3\. You can send mail to the following postal address: 2400 Boston Street, Suite 200, Baltimore, MD 21224   
 
@@ -29,10 +29,10 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Matthew Riggs  
+Shari Bundy  
 DAP Inc.  
 2400 Boston Street  
 Suite 200  
 Baltimore, Maryland 21224  
-[mriggs@dap.com](mailto:mriggs@dap.com)  
+[sbundy@dap.com](mailto:sbundy@dap.com)  
 
