@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604065704id_/http%3A//www.purolator.com/about_online_ship/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607150714id_/http%3A//www.purolator.com/about_online_ship/privacy_policy.html) for the most accurate reproduction.*
 
 # Purolator Courier Ltd.
+
+**PRIVACY POLICY, SECURITY AND COOKIES**  
+**Privacy Policy**
 
 At Purolator we are committed to protecting your privacy. Purolator collects and retains information about every shipment you tender to us so that we can better provide you with the services and information necessary to make shipping the easiest part of your day. Purolator collects personally identifying information only when you knowingly provide it to us in conjunction with a request for shipping services or a request for information respecting such services. Examples of personally identifying information (i.e. information that can be used to identify you) include such information as your name, employer's name, e-mail address, mailing address, telephone number and credit card number. 
 
@@ -42,11 +45,17 @@ In the event that you have any questions about Purolator's Privacy Policy, or yo
 >  Mississauga, Ontario   
 >  Canada L5R 3T8 
 
-Attention: Webmaster or at [webmaster@purolator.com](https://web.archive.org/web/20010604065704id_/http%3A//www.purolator.com/customer_service/webmaster.html)
+Attention: Webmaster or at [webmaster@purolator.com](https://web.archive.org/customer_service/webmaster.html)
 
 Please note that any comments, suggestions or materials provided to Purolator shall be deemed to be of a non-confidential and non-proprietary nature (becoming the property of Purolator upon Purolator's receipt of same) and Purolator shall be entitled to use and distribute such comments, suggestions or materials to any other parties and for any other purposes, including, but not limited to, developing and marketing products and/or services incorporating or based on any such comments, suggestions or materials.
 
+**Security**
+
 Purolator takes all commercially reasonable efforts to ensure that all information collected from you is protected against loss and unauthorized access. Purolator employs generally accepted information security techniques such as firewalls, access control procedures and cryptography to protect information collected from you against loss and unauthorized access.
+
+A customer may call any of Purolator's call centres at 1-888-SHIP-123 and request that his or her electronic signature for a specific waybill number be removed from our online Proof of Delivery Systems.
+
+**Cookies**
 
 A cookie is a small file containing certain pieces of information that a web site creates when you visit it. A cookie can track how and when you use a web site and/or other web sites which you visited and can store that information. 
 
