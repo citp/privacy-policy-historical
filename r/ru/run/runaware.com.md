@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runaware.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607093743id_/http%3A//www.runaware.com/service%3Drunaware/owner%3Dsys/action%3Dshow_page%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runaware.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211201233id_/http%3A//runaware.com/action%3Dshow_page%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Runaware - Privacy
 
