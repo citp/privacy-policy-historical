@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810232538id_/http%3A//www.snapfish.com/privacy/t_%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606195735id_/http%3A//www.snapfish.com/privacy/t_%3D0) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
@@ -102,8 +102,8 @@ _Notification of Change:_ If we are going to use your personally identifiable in
 
 _Contacting Snapfish:_ If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at: 
 
-Sarah Bacon  
-(415) 820-3888  
+Anton Collins  
+(415) 820-3871  
 [service@snapfish.com](mailto:service@snapfish.com)  
 731 Market Street, Suite 500  
 San Francisco, CA 94103 
