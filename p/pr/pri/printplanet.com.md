@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622042027id_/http%3A//printplanet.com/docs.asp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002075909id_/http%3A//printplanet.com/docs.asp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
 
 # PrintPlanet.com
 
