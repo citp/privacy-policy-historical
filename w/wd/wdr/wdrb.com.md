@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2002-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020816060300id_/http%3A//www.wdrb.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606031829id_/http%3A//wdrb.com/privacy.asp) for the most accurate reproduction.*
 
 # Fox41.com Privacy Policy Statement
 
@@ -29,7 +29,7 @@ From time to time, we make our _customer_ e-mail list available to other reputab
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the above address, visiting us at <http://www.fox41.com/optout.asp> or Sending an email to [optout@fox41feedback.com](mailto:optout@fox41feedback.com).
 
-you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by writing to us at the above address, visiting us at <http://www.fox41.com/optout.asp> or Sending an email to [optout@fox41feedback.com](mailto:optout@fox41feedback.com).
+You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by writing to us at the above address, visiting us at <http://www.fox41.com/optout.asp> or Sending an email to [optout@fox41feedback.com](mailto:optout@fox41feedback.com).
 
 Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
 
@@ -37,7 +37,9 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by, writing to us at the above address, visiting us at <http://www.fox41.com/optout.asp> or Sending an email to [optout@fox41feedback.com](mailto:optout@fox41feedback.com).
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
+
+If you send us email through any form on our site, that email may be posted on our site and may be edited. If you do not want your email to us to be posted on our site, please let us know by writing to us at the above address, visiting us at [http://www.fox41.com/optout.asp](https://web.archive.org/web/20030606031829id_/http%3A//wdrb.com/optout.asp) or Sending an email to [optout@fox41feedback.com](mailto:optout@fox41feedback.com).
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
