@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesshuggins.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesshuggins.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,31 +17,31 @@ Tim Berners-Lee, the inventor of the web, said
 
 On my website, this privacy policy is linked at the bottom of (almost) every page.
 
-I created this privacy policy in order to demonstrate my firm commitment to privacy.   This page discloses my information gathering and dissemination practices for my website: James S. Huggins' Refrigerator Door. As you can see, it was not written by lawyers.
+I created this privacy policy in order to demonstrate my firm commitment to privacy.   This page discloses my information gathering and dissemination practices for my website: James S. Huggins' Refrigerator Door. As you can see, it was _not_ written by lawyers!
 
 **Other Privacy Pages On My Site**
 
 **CIPEA Tone**
 
-On Wednesday, 26.Jul.2000, Senators Spence Abraham, John McCain and John Kerry introduced the Consumer Internet Privacy Enhancement Act (CIPEA). This proposed legislation is a long way from a law. But, even so, this site complies.
+On Wednesday, 26.Jul.2000, Senators Spence Abraham, John McCain and John Kerry introduced the Consumer Internet Privacy Enhancement Act (CIPEA). This proposed legislation never made it into the law. But I used the law as a model to construct a privacy statement which would comply. I did it as an exercise in learning more about privacy principles.
 
-I have created a [special page](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/cipea_tone.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") (which I call [CIPEA Tone](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/cipea_tone.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.")) to clarify the the notices required by CIPEA (Consumer Internet Privacy Enhancement Act). All of the disclosures on the [CIPEA Tone](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/cipea_tone.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page are duplicates of disclosures on my privacy page, but they have been "organized" according to the structure of CIPEA. This page also provides background and impact information regarding CIPEA and links to other articles and resources for CIPEA.
+I have created a [ CIPEA privacy disclosure page](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/cipea-tone.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") (which I call [CIPEA Tone](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/cipea-tone.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.")) to clarify the the notices proposed by CIPEA (Consumer Internet Privacy Enhancement Act). All of the disclosures on the [CIPEA Tone](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/cipea-tone.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page are duplicates of disclosures on my privacy page, but they have been "organized" according to the structure of CIPEA. This page also provides background and impact information regarding CIPEA and links to other articles and resources for CIPEA.
 
 **COPPA Cabana**
 
-I have created a [special page](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/coppa_cabana.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") (which I call [COPPA Cabana](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/coppa_cabana.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.")) to provide the notices required by COPPA (Children's Online Privacy Protection Act) related to information practices of this site regarding personal information and privacy of children. This page also provides background and impact information regarding COPPA and links to other articles and resources for COPPA.
+I have created a [ COPPA Privacy Disclosure page](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/coppa-cabana.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") (which I call [COPPA Cabana](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/coppa-cabana.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.")) to provide the notices required by COPPA (Children's Online Privacy Protection Act) related to information practices of this site regarding personal information and privacy of children. This page also provides background and impact information regarding COPPA and links to other articles and resources for COPPA.
 
 **OECD Privacy Statement**
 
-A long, long time ago, on 23.Sep.1980, the [Organization for Economic Co-operation and Development](http://www.oecd.org/), ([OECD](http://www.oecd.org/)), issued [Guidelines on the Protection of Privacy and Transborder Flows of Personal Data](http://www.oecd.org/dsti/sti/it/secur/prod/PRIV-EN.HTM).
+A long, long time ago, on 23.Sep.1980, the [Organization for Economic Co-operation and Development](http://www.oecd.org/), ([OECD](http://www.oecd.org/)), issued [Guidelines on the Protection of Privacy and Transborder Flows of Personal Data](http://www.uhoh.org/oecd-privacy-personal-data.htm).
 
 (Did you notice that date? 1980!! Privacy issues are _not_ new.)
 
 Recently OECD created the [OECD Privacy Statement Generator](http://cs3-hq.oecd.org/scripts/pwv3/pwhome.htm) to help organizations create privacy statements to post on websites.
 
-I have created a [special page](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") (which I call [OECD Privacy-D](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.")) to stipulate how this site complies with the seven privacy principles.
+I have created an [ OECD Privacy Disclosure page](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") (which I call [OECD Privacy-D](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.")) to stipulate how this site complies with the seven privacy principles.
 
-All of the disclosures on the [OECD Privacy-D](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page are duplicates of disclosures on my privacy page, but they have been "organized" according to the structure of the OECD Privacy Principles. This page also provides background and impact information regarding the OECD Privacy Guidelines links to other resources for the OECD Privacy Guidelines.
+All of the disclosures on the [OECD Privacy-D](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page are duplicates of disclosures on my privacy page, but they have been "organized" according to the structure of the OECD Privacy Principles. This page also provides background and impact information regarding the OECD Privacy Guidelines links to other resources for the OECD Privacy Guidelines.
 
 * * *
 
@@ -55,9 +55,9 @@ I only collect personal information in four ways:
 
   * My webserver,  
  
-  * My _[Snippets](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list,  
+  * My _[Snippets](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list,  
  
-  * This site's [Guestbook](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm), and  
+  * This site's [Guestbook](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm), and  
  
   * Anything you disclose in an email to me
 
@@ -75,7 +75,33 @@ The principles of web/internet personal privacy are based on:
 
 
 
-The Department of Health, Education and Welfare first enumerated these in a 1973 study entitled _Records, Computers, and the Rights of Citizens_. __ These principles became part of the framework for the Privacy Act of 1974. The Organization for Economic Cooperation and Development adopted them as guidelines in 1980. They also form a basis of the EU Privacy Directive. They continue today to be advocated and incorporated into enforcement initiatives, laws and legislative proposals.
+**History of the Privacy Principles**
+
+In 1972, Elliot L. Richardson, as Secretary of HEW (the U.S. Department of Health Education and Welfare), created an Advisory Committee on Automated Personal Data Systems. Their charter was to explore the impact of computerized record keeping on individuals. One year later (1973) the committee published its report. This report, _[Records, Computers, and the Rights of Citizens](http://aspe.os.dhhs.gov/datacncl/1973privacy/tocprefacemembers.htm)_, proposed a [ Code of Fair Information Practice](http://aspe.os.dhhs.gov/datacncl/1973privacy/Summary.htm): 
+
+  * There must be no personal data record keeping systems whose very existence is secret.   
+ 
+  * There must be a way for an individual to find out what information about him is in a record and how it is used.   
+ 
+  * There must be a way for an individual to prevent information about him that was obtained for one purpose from being used or made available for other purposes without his consent.   
+ 
+  * There must be a way for an individual to correct or amend a record of identifiable information about him.   
+ 
+  * Any organization creating, maintaining, using, or disseminating records of identifiable personal data must assure the reliability of the data for their intended use and must take precautions to prevent misuse of the data. 
+
+
+
+These principles began a basis for subsequent codes and laws related to information collection. 
+
+The principles became part of the framework for the [Privacy Act of 1974](http://www.usdoj.gov/foia/privstat.htm). They were elaborated on when the Privacy Protection Study Commission (PPSC) published its report _[Personal Privacy in an Information Age](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/pri1/ppsc-fair-information-practices.htm)._
+
+In 1980, The Organization for Economic Cooperation and Development further refined them in _[ Guidelines on the Protection of Privacy and Transborder Flows of Personal Data](http://www.uhoh.org/oecd-privacy-personal-data.htm). _
+
+They also form a basis of the [EU Privacy Directive](http://www.cdt.org/privacy/eudirective/EU_Directive_.html). 
+
+And, you can see them discussed in [Part III](http://www.ftc.gov/reports/privacy3/fairinfo.htm) of the 1998 Federal Trade Commission report: [Privacy Online](http://www.ftc.gov/reports/privacy3/). 
+
+They continue today to be advocated and incorporated into enforcement initiatives, laws and legislative proposals.
 
 **Notice**
 
@@ -117,7 +143,7 @@ The five principles are important to this site. I take them seriously.
 
 **Notice**
 
-I provide complete (some say _too complete_ ) disclosure on this page. In addition, on my [COPPA Cabana](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/coppa_cabana.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page I disclose information specific to children and privacy. And on my [CIPEA Tone](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/cipea_tone.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page, I disclose this same information in a format more suitable to understanding that proposed law.
+I provide complete (some say _too complete_ ) disclosure on this page. In addition, on my [COPPA Cabana](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/coppa-cabana.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page I disclose information specific to children and privacy. And on my [CIPEA Tone](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/cipea-tone.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page, I disclose this same information in a format more suitable to understanding that proposed law.
 
 **Choice**
 
@@ -143,7 +169,7 @@ I do, James S. Huggins. Just me. No one else. At the bottom of this page I have 
 
 For activities related to this site, I only use the absolute minimum information required.
 
-For example, when you join my _[Snippets](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list I keep your email address (because it really wouldn't make much sense to have an email list if I didn't keep your email address).
+For example, when you join my _[Snippets](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list I keep your email address (because it really wouldn't make much sense to have an email list if I didn't keep your email address). And I keep information necessary to provide an audit trail in order to comply with the [CAN-SPAM Act of 2003](http://www.spamlaws.com/federal/108s877.html).
 
 Also, if you write me, I'll use your email address to write you back. (duh!)
 
@@ -157,7 +183,7 @@ I don't share information. I keep any information you disclose absolutely privat
 
 Spammers are the scum of the earth. I will never give away, sell or disclose your email address.
 
-I never email you just because you visited my site because I won't have your email address. I only email you because you explicitly ask me to (e.g., to respond to a request or because you explicitly asked to join my _[Snippets](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list or to thank you for signing my guestbook.)
+I never email you just because you visited my site because I won't have your email address. I only email you because you explicitly ask me to (e.g., to respond to a request or because you explicitly asked to join my _[Snippets](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list or to thank you for signing my guestbook.)
 
 **Taping Our Phone Conversations**
 
@@ -177,9 +203,9 @@ I collect information in four ways:
 
   * My webserver,  
  
-  * My _[Snippets](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list,  
+  * My _[Snippets](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list,  
  
-  * This site's [Guestbook](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm), and  
+  * This site's [Guestbook](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm), and  
  
   * Anything you disclose in an email to me
 
@@ -197,11 +223,30 @@ If you visit this site, the webserver will automatically collect:
 
 **Information Collected for _Snippets_**
 
-If you sign up to receive my _[Snippets](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm) _email newletter, then I'll have your email address (duh!).
+When you join my _[Snippets](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list I keep your email address (because it really wouldn't make much sense to have an email list if I didn't keep your email address). And I keep information necessary to provide an audit trail in order to comply with the [CAN-SPAM Act of 2003](http://www.spamlaws.com/federal/108s877.html).
+
+Here is a list of Snippets Subscription Information:
+
+  * Email address
+  * Subscriber Name (if specified)
+  * Date/Time of the subscription request
+  * IP Address used for the subscription request
+  * Whether the subscription came via web or email
+  * Date/Time of the subscription confirmation
+  * Email Address used to confirm subscription
+  * IP Address used to confirm the subscription
+  * Date/Time of an unsubscription request
+  * Email Address specified for the unsubscription
+  * Whether the unsubscription came via web or email
+  * Date/Time of the unsubscription confirmation
+  * Email Address used to confirm unsubscription
+  * IP Address used to confirm the unsubscription
+
+
 
 **Information Collected Thru My Guestbook**
 
-If you sign my [Guestbook](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm), the [Guestbook](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm) will show whatever information you leave. If you leave me your email address, it will show your email address. If you leave your name, it will show that. If you leave the URL of your website, it will show that. If you leave your name, your dog's name and your birthday, it will show that.
+If you sign my [Guestbook](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm), the [Guestbook](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm) will show whatever information you leave. If you leave me your email address, it will show your email address. If you leave your name, it will show that. If you leave the URL of your website, it will show that. If you leave your name, your dog's name and your birthday, it will show that.
 
 In addition, it will show the TCP/IP address you use to post as well as information your browser supplies about the browser.
 
@@ -215,7 +260,7 @@ I don't use cookies. Period.
 
 **Children's Data**
 
-I don't knowingly collect data from children. I use simple tools to discourage disclosure by children. And, if I discover personal data from children, I delete it. For more information, see my [COPPA Cabana](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/coppa_cabana.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page.
+I don't knowingly collect data from children. I use simple tools to discourage disclosure by children. And, if I discover personal data from children, I delete it. For more information, see my [COPPA Cabana](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/coppa-cabana.htm "Click here to open my special page regarding COPPA notices that I call COPPA Cabana.") page.
 
 **Information Not Collected**
 
@@ -223,7 +268,7 @@ I don't collect anything else.
 
 I don't have any "real" registration forms for you to fill out.
 
-(I do have parody and joke forms like my [McDonnell Douglas Military Aircraft Warranty Card](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/hum1/mcdonnell_douglas_warranty_card.htm). But the information you fill out there, doesn't really go anywhere and isn't kept.)
+(I do have parody and joke forms like my [McDonnell Douglas Military Aircraft Warranty Card](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/hum1/mcdonnell_douglas_warranty_card.htm). But the information you fill out there, doesn't really go anywhere and isn't kept.)
 
 **Use of Collected Information**
 
@@ -231,13 +276,13 @@ I don't have any "real" registration forms for you to fill out.
 
 When you click around my site, my server log files record how you clicked around. But the information doesn't tell me who you are, only that someone went from one page to another. And I only use that information to analyze traffic and don't keep it or use it beyond that.
 
-Also, you can block that information using a tool like [AdSubtract](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/oth1/adsubtract_pro.htm).
+Also, you can block that information using a tool like [AdSubtract](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/oth1/adsubtract_pro.htm).
 
 If you don't send that information, there are no consequences. I do not require disclosure of that information to browse my site.
 
 **Use of Snippets Email List Information**
 
-This email list is compiled thru requests to me.   The only information included in this related service are: name and email address. And I only use this information to email my [_Snippets_](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm) newsletter.
+This email list is compiled thru requests to me. I only use this information to email my [_Snippets_](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm) newsletter.
 
 If you don't give me your email address, I won't be able to email you the newsletter. But there are no other consequences. I do not require disclosure of that information to browse my site.
 
@@ -261,23 +306,21 @@ This site contains links to other sites. Unfortunately, I can't do much about th
 
 When you link thru my site to other sites (e.g., Amazon.com) your browser may tell the other site that you came from one of my pages. This is called _referrer information_.
 
-Now, I don't actually send that information; your browser does. But you should know that it is possible for you to block this information. To find out how, see my information on the tool [AdSubtract](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/oth1/adsubtract_pro.htm).
+Now, I don't actually send that information; your browser does. But you should know that it is possible for you to block this information. To find out how, see my information on the tool [AdSubtract](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/oth1/adsubtract_pro.htm).
 
 This site doesn't send any personal information to other sites partners.
 
-## **  
-Security**
+## ** Security**
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-For example, my Internet Presence Provider provides userid and password access control to all web captured information (TCP/IP address information). Also, I am the only one with access to the _[Snippets](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list.
+For example, my Internet Presence Provider provides userid and password access control to all web captured information (TCP/IP address information). Also, I am the only one with access to the _[Snippets](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list.
 
-## **  
-Choice/Opt-Out**
+## ** Choice/Opt-Out**
 
 **Opt-Out of Snippets**
 
-You may opt out of the _[Snippets](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list by
+You may opt out of the _[Snippets](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list by
 
   * following the directions included in every mailing, or  
  
@@ -285,36 +328,27 @@ You may opt out of the _[Snippets](https://web.archive.org/web/20031205034217id_
 
 
 
-## **  
-Opt-Out of Guestbook**
+## ** Opt-Out of Guestbook**
 
-There is no "automatic" way to remove your information from my [Guestbook](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm). However, you may [email me](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/email_me.htm#privacy) and I will gladly remove your entry.
+There is no "automatic" way to remove your information from my [Guestbook](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm). However, you may [email me](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/email-me.htm#privacy) and I will gladly remove your entry.
 
-## **  
-Correct/Update**
+## ** Correct/Update**
 
 **Correction of Snippets**
 
-You may correct your information for the _[Snippets](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list by
+You may correct your information for the _[Snippets](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/sni1/snippets.htm)_ email list by following the directions included in every mailing.
 
-  * following the directions included in every mailing, or  
- 
-  * emailing [Snippets-Help@JamesSHuggins.com](mailto:Snippets-Help@JamesSHuggins.com) to receive an autoresponder with directions
+You can also [email me](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/email-me.htm#snippets).
 
+## ** Correction of Guestbook**
 
+There is no "automatic" way to correct your information on my [Guestbook](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm). However, you may [email me](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/email-me.htm#privacy) and I will gladly remove your entry.
 
-## **  
-Correction of Guestbook**
+##  **Contacting the Website**
 
-There is no "automatic" way to correct your information on my [Guestbook](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/guestbook.htm). However, you may [email me](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/email_me.htm#privacy) and I will gladly remove your entry.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can email my [special privacy address](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/email-me.htm#privacy).
 
-## **  
-Contacting the Website**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can email my [special privacy address](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/email_me.htm#privacy).
-
-## **  
-If You Think I Am Not Following My Policy**
+##  **If You Think I Am Not Following My Policy**
 
 If you feel that I am not following these stated information policies, you may contact
 
@@ -332,12 +366,11 @@ If you feel that I am not following these stated information policies, you may c
 
 
 
-## **  
-Privacy Certifications**
+##  **Privacy Certifications**
 
-This site was reviewed by [enonymous.com](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/link_gone.htm?www.enonymous.com) and rated with the 4-Star and Best Privacy designations. This organization has since disbanded.
+This site was reviewed by [enonymous.com](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/link_gone.htm?www.enonymous.com) and rated with the 4-Star and Best Privacy designations. This organization has since disbanded.
 
-[](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/memberships_certifications.htm#enonymous)
+[](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/memberships_certifications.htm#enonymous)
 
 James S. Huggins  
 Attn: Privacy Mail Stop 9911  
@@ -347,14 +380,14 @@ Dallas, Texas 75374-2076
 972 **.** 680 **.** 3904 (phone)  
 270  **.** 596  **.** 0140 (fax)
 
-See also my [special privacy address](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/email_me.htm#privacy)
+See also my [special privacy address](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/email-me.htm#privacy)
 
 * * *
 
 **Links On My Site**
 
-[**COPPA Cabana**](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/coppa_cabana.htm) **:**  Information about and disclosures related to the Children's Online Privacy Protection Act (COPPA).  ([ _coppa_cabana_](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/coppa_cabana.htm))
+[**COPPA Cabana**](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/coppa-cabana.htm) **:**  Information about and disclosures related to the Children's Online Privacy Protection Act (COPPA).  ([ _coppa_cabana_](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/coppa-cabana.htm))
 
-[**CIPEA Tone**](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/cipea_tone.htm) **:**  Information about and disclosures related to the Consumer Internet Privacy Enhancement Act (CIPEA).  ([ _cipea_tone_](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/cipea_tone.htm))
+[**CIPEA Tone**](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/cipea-tone.htm) **:**  Information about and disclosures related to the Consumer Internet Privacy Enhancement Act (CIPEA).  ([ _cipea_tone_](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/cipea-tone.htm))
 
-[**OECD Privacy-D**](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm) **:**  Information about and disclosures related to the OECD Privacy Principles.  ([ _oecd_privacy_d_](https://web.archive.org/web/20031205034217id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm))
+[**OECD Privacy-D**](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm) **:**  Information about and disclosures related to the OECD Privacy Principles.  ([ _oecd_privacy_d_](https://web.archive.org/web/20040606154031id_/http%3A//www.jamesshuggins.com/h/bas1/oecd_privacy_d.htm))
