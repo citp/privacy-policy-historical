@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204101750id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621091335id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
 
 # Syracuse.com: Privacy Policy
 
@@ -53,7 +53,7 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator through our form at **[www.syracuse.com/contactus/](https://web.archive.org/contactus/)**.
+If you're worried about your children's activities or their privacy on our site, we encourage you to please [click here to contact our Privacy Policy Coordinator](https://web.archive.org/contactus/).
 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address: 
 
@@ -62,7 +62,7 @@ Privacy Policy Coordinator
 5795 Widewaters Parkway  
 Syracuse, NY 13214 
 
-|  |  [](http://ads4.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/showcase/sliding.ssf/NQS/1387983746/SponsorRight/default/empty.gif/64316564656561303364656464363430)   
+|  |  [](http://ads5.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/showcase/sliding.ssf/NQS/1608760365/SponsorRight/default/empty.gif/64316564656561643365663432316230)   
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
@@ -75,6 +75,6 @@ INSIDE
   
   
   
-  
+[](http://ads5.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/1380759937/Popup/default/empty.gif/64316564656561643365663432316230)  
   
 
