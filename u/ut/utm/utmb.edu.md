@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the utmb.edu privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204200305id_/http%3A//www.utmb.edu/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utmb.edu privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060436id_/http%3A//www.utmb.edu/privacy_policy.htm) for the most accurate reproduction.*
 
 # The University of Texas Medical Branch
 
-**Privacy Statement  
-****The University of Texas Medical Branch**
+## Privacy Statement
 
 This privacy statement is applicable to [www.utmb.edu](http://www.utmb.edu/) and the public web sites directly created and maintained by the University of Texas Medical Branch in Galveston, Texas (UTMB). The following statement applies to the public and addresses the types and use of information gathered on the university’s web sites.
 
@@ -19,12 +18,8 @@ Likewise, electronic mail and other Internet communications are not always secur
 
 It is possible that some web pages at UTMB may collect information about visitors and use that information for purposes other than those stated above. When this is the case, the details of the data collection and use will be spelled out via a distinct "privacy statement" link on the respective site.
 
-Please address any questions about UTMB’s privacy policy and practices, or use of this web site, to [www@www.utmb.edu](mailto:www@www.utmb.edu). Or, write to the university via the postal service at UTMB Public Affairs, 301 University Boulevard, Galveston, TX, 77555-0802.
-
-_
+Please address any questions about UTMB’s privacy policy and practices, or use of this web site, to [ public.affairs@utmb.edu](mailto:public.affairs@utmb.edu?subject=From%20the%20Privacy%20Policy%20page...). Or, write to the university via the postal service at UTMB Public Affairs, 301 University Boulevard, Galveston, TX, 77555-0144.
 
 This policy is effective August 14, 2000. UTMB reserves the right to modify this policy by notifying users of the existence of a new privacy statement. This statement and the policies outlined are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-_
-
-_Employees of UTMB should refer to_[http://www2.utmb.edu/is/security_frame.htm](https://web.archive.org/web/20020204200305id_/http%3A//is/security_frame.htm), _which outlines the university’s internal policies and employees’ specific responsibilities related to the use and protection of information resources. _
+_Employees of UTMB should refer to_ [ http://www.utmb.edu/is/security/](http://www.utmb.edu/is/security/)  _, which outlines the university’s internal policies and employees’ specific responsibilities related to the use and protection of information resources._
