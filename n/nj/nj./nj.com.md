@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204201252id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621160439id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
 
 # NJ.com: Privacy Policy
 
@@ -27,7 +27,7 @@ It is the goal of **NJ.com** to bring you information that is tailored to your i
 
 **NJ.com** uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
 
-**NJ.com** does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [feedback@ **nj.com**](mailto:feedback@nj.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of ****NJ.com**** , you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
+**NJ.com** does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, please [contact us](https://web.archive.org/contactus/). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of ****NJ.com**** , you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
 
 We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While **NJ.com** will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, **NJ.com** does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
 
@@ -53,7 +53,7 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at [feedback@ **nj.com**](mailto:feedback@nj.com).
+If you're worried about your children's activities or their privacy on our site, we encourage you to please [click here to contact our Privacy Policy Coordinator](https://web.archive.org/contactus/).
 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address: 
 
@@ -64,7 +64,7 @@ Privacy Policy Coordinator
 Jersey City, NJ 07306 
 
 |  |    
-[](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/1122070096/SponsorRight/default/empty.gif/64316564656561303364656536316330)   
+[](http://ads2.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/1807488545/SponsorRight/default/empty.gif/64316564656561633365663438323130)   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
 » [Media Kit](https://web.archive.org/mediakit/)  
@@ -74,6 +74,6 @@ INSIDE
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
   
-[](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/1747490496/Tile1/NJONLINE/AV_HOMES_NJ02/HomesTwr4.gif/64316564656561303364656536316330)   
+[](http://ads2.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/1389534542/Tile1/NJONLINE/AV_CARS_NJ03/Premium_copy4_nj.gif/64316564656561633365663438323130)   
   
 
