@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befree.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206152408id_/http%3A//befree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befree.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602205017id_/http%3A//www.befree.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Be Free, Inc.
 
@@ -12,7 +12,7 @@ Be Free's information usage practices are based on two beliefs: first, that prot
 
 Be Free Is a Licensee of TRUSTe
 
-This confirms that Be Free is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe Trustmark, this web site has agreed to notify you of: 
+Be Free is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe Trustmark, this web site has agreed to notify you of: 
 
 > What personally identifiable information of yours or third party personally identification is collected from you through the web site 
 > 
@@ -28,7 +28,7 @@ This confirms that Be Free is a licensee of the TRUSTe Privacy Program. TRUSTe i
 > 
 > How you can correct any inaccuracies in the information 
 
-If you have questions or concerns regarding this statement, you should first contact [privacy@befree.com](mailto:privacy@befree.com). If your inquiry is not satisfactorily resolved, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog_intro.html>. TRUSTe will then serve as a liaison with Be Free to resolve your concerns. TRUSTe can only cover the activities on [www.befree.com](https://web.archive.org/), and is not able to cover activities outside of this Be Free web site. 
+If you have questions or concerns regarding this statement, you should first contact [privacy@befree.com](mailto:privacy@befree.com). If your inquiry is not satisfactorily resolved, you should then contact TRUSTe at <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with Be Free to resolve your concerns. TRUSTe can only cover the activities on [www.befree.com](https://web.archive.org/), and is not able to cover activities outside of this Be Free web site. 
 
 Collection of Data About Internet End-Users
 
@@ -50,7 +50,7 @@ Be Free empowers end users to access and modify their anonymous profile data thr
 
 Partner Privacy
 
-Because Be Free serves as the data interchange between Partners and Customers, it necessarily has access to a great deal of information about Partners, including contact information and the performance data for their marketing and promotional programs. To ensure the privacy of Partners, Be Free maintains the following policies: 
+Because Be Free serves as the data interchange between Partners and Customers, it necessarily has access to a great deal of information about Partners, including contact information such as name, mailing address, email address and phone number and the performance data for their marketing and promotional programs. To ensure the privacy of Partners, Be Free maintains the following policies: 
 
 Be Free shares neither personally identifiable information about a Partner nor information about a Partner's performance with any parties except to the Partner to whom the information pertains, to the Customer with whom that Partner is affiliated, or to others as directed by the Partner or the Customer with whom the Partner is affiliated. While Be Free does record such information in the application process and retains it in order to serve its Customers through processes such as reporting and payments to Partners, Customers' use of Partner data is governed by the Customers' affiliation agreements with their Partners. For some Customers, Be Free works with third party service providers to analyze Partner information on the Customer's behalf and for the Customer's use and benefit. Such service providers may have access to certain Partner information maintained by Be Free in the course of providing its services. The use of this data is governed by the affiliation agreement between the Customer and the Partner. Partners are always free to verify, alter, or delete the information recorded about them by updating their profiles through reporting.net, Be Free's Partner interface, or by contacting the administrators of the Customers' marketing programs. Partners are encouraged to review all terms of the affiliation agreement before initiating the relationship.
 
@@ -66,11 +66,13 @@ While Be Free encourages Customers and Partners to adopt responsible approaches 
 
 Be Free's Web Site
 
-Personal information gathered through Be Free's web site [www.befree.com](https://web.archive.org/) is used only for the purposes stated on the web site and is not normally shared with third parties. All personally identifying information gathered through the Be Free web site is provided entirely on a voluntary basis, and resulting communications continue only so long as the outside party so desires. The "Customers" contact information form and the "Stay in Touch" form allow interested parties to request more information about Be Free, and we use the contact information from those forms to reach these interested parties. The site provides a number of e-mail addresses on the and on the "Products and Services" page and the "Contact Us" page (Sales, Careers, etc.). These e-mail addresses are provided so that visitors can send their inquiries directly to the people at Be Free best equipped to handle their questions. Be Free endeavors to respond to such inquiries as quickly as possible.
+Personal information gathered through Be Free's web site [www.befree.com](https://web.archive.org/) is used only for the purposes stated on the web site and is not normally shared with third parties. Be Free may request personal information from interested parties, such as name, email address, and mailing address. All personally identifying information gathered through the Be Free web site is provided entirely on a voluntary basis, and resulting communications continue only so long as the outside party so desires. The "Customers" contact information form and the "Stay in Touch" form allow interested parties to request more information about Be Free, and we use the contact information from those forms to reach these interested parties. The site provides a number of e-mail addresses on the and on the "Products and Services" page and the "Contact Us" page (Sales, Careers, etc.). These e-mail addresses are provided so that visitors can send their inquiries directly to the people at Be Free best equipped to handle their questions. Be Free endeavors to respond to such inquiries as quickly as possible.
 
 Be Free employs cookies to observe the online behavior of anonymous visitors to [www.befree.com](https://web.archive.org/). Cookies are small data files that are stored on the browser of a web site visitor. Be Free uses these observations to help optimize and personalize the Internet end user experience and help Customers manage and measure their promotions. Information derived from these cookies is not tied to personal information submitted on the site, nor is it shared with any third parties. You may access the information tied to your cookie at www.yourcontrolpanel.com. At this site you may also alter the information in your anonymous profile or opt out of personalization altogether, which will prevent Be Free from maintaining a profile for you. 
 
 We also employ a software technology called Clear GIFs (or "web beacons" or "web bugs") that help us better manage content on our site by informing us what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web visitors. Clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. The Clear GIFs used by Be Free are not tied to any personally identifiable information about web site visitors. 
+
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, and date/time stamp We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. IP addresses, etc. are not linked to personally identifiable information.
 
 E-mail 
 
@@ -90,7 +92,7 @@ Questions or concerns regarding Be Free's policies on spam and e-mail should be 
 
 Third Party Disclosures
 
-Be Free relies on various third parties in the operation of its business. Accordingly, Be Free shares information with its contractors and service providers (such as providers of technical services, attorneys, and auditors) as needed for them to provide services to Be Free. Information may be transferred as part of a corporate transaction (such as a merger, acquisition, or insolvency proceeding) involving Be Free's assets or businesses. Information may also be disclosed as Be Free determines it to be necessary to comply with any applicable law, regulation, or court order, as required in connection with a third party dispute resolution proceeding, to protect the legal rights of Be Free or others, or to prevent injury or harm to persons or property.
+Be Free relies on various third parties in the operation of its business. Accordingly, Be Free shares information with its contractors and service providers (such as providers of technical services, attorneys, and auditors) as needed for them to provide services to Be Free. Information may be transferred as part of a corporate transaction (such as a merger, acquisition, or insolvency proceeding) involving Be Free's assets or businesses. In the event of a change of site ownership as a result of a merger or acquisition, Partners and Customers will be notified through the Partner Gateway section of the Be Free website. Information may also be disclosed as Be Free determines it to be necessary to comply with any applicable law, regulation, or court order, as required in connection with a third party dispute resolution proceeding, to protect the legal rights of Be Free or others, or to prevent injury or harm to persons or property.
 
 Changes to this Statement
 
@@ -106,7 +108,7 @@ If you have questions or concerns regarding this policy, please contact us by em
 >  Suite 100   
 >  Marlborough, MA 01752
 
-**Updated** : 04/12/02
+**Updated** : 03/11/03
 
   
 
