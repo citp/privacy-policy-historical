@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heavyharmonies.com privacy policy that was archived on 2002-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021217121815id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heavyharmonies.com privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602032334id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 <title>Heavy Harmonies - Privacy Statement</title>
@@ -10,203 +10,97 @@
 <meta http-equiv="revisit-after" content="40 days">
 <meta name="robots" content="INDEX,ALL">
 <meta name="robots" content="INDEX,FOLLOW">
-<script language="JavaScript"> 
-<!--
-function GetCookie(name) {
-   var result = null
-   var myCookie = " " + document.cookie + ";"
-   var searchName = " " + name + "="
-   var startOfCookie = myCookie.indexOf(searchName)
-   var endOfCookie
-   if (startOfCookie != -1) {
-      startOfCookie += searchName.length; // skip past cookie name
-      endOfCookie = myCookie.indexOf(";",startOfCookie)
-      result =
-         unescape(myCookie.substring(startOfCookie,endOfCookie))
-   }
-   return result
-}
-
-function SetCookie(name,value,expires,path) {
-   var expString =
-      ((expires == null) ? "" : ("; expires=" + expires.toGMTString()))
-   var pathString = ((path == null) ? "" : ("; path=" + path))
-   document.cookie = name + "=" + escape(value) +
-                     expString + pathString
-}
-
-function ClearCookie(name) {
-   var ThreeDays = 3 * 24 * 60 * 60 * 1000
-   var expDate = new Date()
-   expDate.setTime(expDate.getTime() - ThreeDays)
-   document.cookie = name + "=ImOutOfHere; expires=" +
-                     expDate.toGMTString()+"; path=/"
-}
-
-function AddItem(artist,title) {
-	var OneYear = 1000 * 60 * 60 * 24 * 365
-	var NewDate = new Date()
-	NewDate.setTime(NewDate.getTime() + OneYear)
-
-	ListOfDiscs = GetCookie("List")
-	
-	if (ListOfDiscs != null) {
-		var Array = ListOfDiscs.split("|")
-
-		if (Array.length > 19) {
-			alert("I'm sorry, but the maximum list quantity is 20")
-			return
-		}
-
-		var regexp = /\'/
-		artist.replace(regexp, "")
-		title.replace(regexp, "")
-		
-		var tempTest = artist.split(" (")
-		var tempTest2 = title.split(" (")
-		var TestString = tempTest[0] + "~"+ tempTest2[0]
-
-		if (ListOfDiscs.search(TestString) != -1) {
-			alert(artist + " - " + title + " is already on your Ebay Monitor list!")
-		} else {
-			var NewArray = Array.join("|")
-			NewArray = NewArray + "|" + TestString
-			SetCookie("List",NewArray,NewDate,"/")
-			alert(artist + " - " + title + " added to your Ebay Monitor list.") 
-		}
-	} else {
-		ToPlace = artist + "~" + title
-		SetCookie("List",ToPlace,NewDate,"/")
-		alert("New Ebay Monitor list created with artist" + " - " + title + ".")
-	}
-}
-
-function CheckBrowser() {
-        var BrowserVersion = parseInt(navigator.appVersion)
-
-        if (BrowserVersion >= 4) {
-                var BrowserName = navigator.appName
-                if (BrowserName == "Netscape") {
-			var NetWid = window.innerWidth - 30
-                        document.write("<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=\"" + NetWid + "\">\n")
-
-                } else if (BrowserName == "Microsoft Internet Explorer") {
-			var MSWid = document.body.clientWidth - 40
-                        document.write("<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=\"" + MSWid + "\">\n")
-                } else {
-                        document.write("<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=\"630\">\n")
-                }
-        } else {
-                        document.write("<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=\"630\">\n")
-        }
-
-}
-// -->
-</script>
 <link rel="stylesheet" type="text/css" href="/hh.css" title="bmstyle">
 </head>
 <body bgcolor="#DDDDAA" text="#000000" link="#0000AA" vlink="#BB0055" alink="#BB0055" leftmargin="0" topmargin="0" marginheight="1" marginwidth="1">
      <!--Heavy Harmonies is a discography reference site for AOR, Hard Rock, Melodic Metal, and Heavy Metal music. Band lineups, track listings, and cover art
      for albums.-->
-<script language="JavaScript">
-<!--
-	CheckBrowser()
-//-->
-</script><noscript>
-<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
-</noscript><table border="0" cellpadding="0" cellspacing="0" width="1336">
+<table width="98%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td width="182" valign="CENTER" align="CENTER"><a href="/cgi-bin/gletter.cgi?Letter=A"><img src="/NewImages/ubb.gif" border="0" width="169" height="76" align="LEFT" alt="hard rock bands, melodic metal reference guide, band discography"></a></td>
+<form method="POST" action="/cgi-bin/mainfind.cgi"></form>
+<td valign="TOP" align="CENTER"><b><font color="#FF0000">THE</font> Hard Rock and AOR Reference on the Internet!</b><br>
+<nobr><font size="-1"><b>Bands: <font color="#FF0000">1629</font>&nbsp;&nbsp;&nbsp;&nbsp;
+CDs: <font color="#FF0000">3770</font>&nbsp;&nbsp;&nbsp;&nbsp; Songs: <font color="#FF0000">42011</font></b></font></nobr><font size="-1"><b>&nbsp;&nbsp;&nbsp;&nbsp;
+Audio Samples: <font color="#FF0000">1459</font></b></font>
+<center>
+<img src="/NewImages/is_single_pixel_gif.gif" width="200" height="5" alt="SPACER"><br>
+<input type="HIDDEN" name="Letter" value="A">
+<input name="Input" size="20" maxlength="29">&nbsp;
+<select name="SearchOption">
+<option value="Artist">Artist</option>
+<option value="Album">Album Title</option>
+<option value="Song">Song Title</option>
+<option value="RecordLabel">Record Label</option>
+<option value="Year">Year Released</option>
+</select>&nbsp;
+<input type="IMAGE" align="ABSMIDDLE" src="/NewImages/search_hh.gif" width="165" height="28" border="0"><br>
+</center>
+</td>
 
-
-<tbody><tr><td rowspan="3" valign="CENTER" align="CENTER"><a href="/cgi-bin/gletter.cgi?Letter=A"><img src="/NewImages/ubb.gif" border="0" width="169" height="76" align="LEFT" alt="hard rock bands, melodic metal reference guide, band discography"></a></td>
-<td align="CENTER"><a href="http://BrutalMetal.Com"><img src="/NewImages/hhtobm.gif" alt="For Heavy Metal, Jump to Brutal Metal" border="0"></a></td></tr>
-<tr><td valign="TOP" align="CENTER"><b><font size="+1" face="Arial,Helvetica,Geneva"><font color="#FF0000">THE</font> Hard Rock and AOR
-Reference on the Internet!</font></b></td></tr>
-<tr><td align="CENTER"><nobr><b>Bands: <font color="#FF0000">1329</font></b></nobr><b>&nbsp;&nbsp;&nbsp;&nbsp;
-<nobr>CDs: <font color="#FF0000">3156</font></nobr>&nbsp;&nbsp;&nbsp;&nbsp; <nobr>Songs: <font color="#FF0000">35207</font></nobr>&nbsp;&nbsp;&nbsp;&nbsp;
-<nobr>Audio Samples: <font color="#FF0000">1176</font></nobr></b></td></tr>
+</tr>
 <tr><td colspan="2"><img src="/NewImages/is_single_pixel_gif.gif" width="620" height="1" alt="SPACER"></td></tr>
 </tbody></table>
-<script language="JavaScript">
-<!--
-	CheckBrowser()
-//-->
-</script><noscript>
-<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
-</noscript><table border="0" cellpadding="0" cellspacing="0" width="1336">
-
-
+<table width="98%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td colspan="3"><img src="/NewImages/is_single_pixel_gif.gif" width="620" height="1" alt="Heavy metal bands, hard rock bands, and AOR bands"></td></tr>
 <tr><td valign="TOP">
-<table width="170" border="0" cellpadding="4" cellspacing="0">
+<table width="169" border="0" cellpadding="4" cellspacing="0">
 <tbody><tr><td valign="TOP" bgcolor="#BBDDFF"><b>
 <center>
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#FFFFFF">
-<script language="javascript" src="http://lapi.ebay.com/ws/eBayISAPI.dll?EKServer&amp;ai=seb%7Fh%60l%7Ff&amp;prvd=1&amp;track=1203765&amp;srchdesc=n&amp;si=&amp;catid=1049&amp;minprice=&amp;maxprice=&amp;endtime=n&amp;numbid=n&amp;width=172&amp;height=80&amp;num=3&amp;popup=y&amp;query=&amp;hdrcolor=0033FF&amp;bdrcolor=0033FF&amp;fs=0&amp;fntcolor=000000&amp;siteid=0&amp;sortby=endtime&amp;sortdir=asc"></script></td></tr></tbody></table>
+<script language="javascript" src="http://lapi.ebay.com/ws/eBayISAPI.dll?EKServer&amp;ai=d%7Bti%7Esiko%7Fi&amp;prvd=1&amp;track=1203765&amp;srchdesc=n&amp;si=&amp;catid=1049&amp;minprice=&amp;maxprice=&amp;endtime=n&amp;numbid=n&amp;width=150&amp;height=0&amp;num=3&amp;popup=y&amp;query=&amp;hdrcolor=0033FF&amp;bdrcolor=0033FF&amp;fs=3&amp;fntcolor=000000&amp;siteid=0&amp;sortby=endtime&amp;sortdir=asc"></script></td></tr></tbody></table>
 </center>
 <img src="/NewImages/is_single_pixel_gif.gif" width="150" height="2" alt="CD covers, reviews, music resource"><br>
-<a href="http://forums.heavyharmonies.com" onclick="exit=0">Message&nbsp;Board!&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
-<a href="/cgi-bin/gletter.cgi?Letter=" onclick="exit=0">The&nbsp;Bands!</a><br>
-<a href="/cgi-bin/newcds.cgi?Letter=" onclick="exit=0">New&nbsp;CDs</a><br>
-<a href="/cgi-bin/newcomments.cgi?Letter=" onclick="exit=0">New&nbsp;Comments&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
-<a href="/cgi-bin/bandurl.cgi?Letter=" onclick="exit=0">Band&nbsp;Homepages</a><br>
-<a href="/cgi-bin/reviews.cgi?Letter=" onclick="exit=0">Reviews</a><br>
-<a href="/cgi-bin/topebay.cgi?Letter=" onclick="exit=0">Ebay&nbsp;Rarities</a><br>
-<a href="/cgi-bin/ebaymon.cgi?Letter=" onclick="exit=0">Ebay&nbsp;Monitor!</a><br>
-<a href="/cgi-bin/audio.cgi?Letter=" onclick="exit=0">Audio&nbsp;Samples</a><br>
-<a href="/cgi-bin/cdv.cgi?Letter=" onclick="exit=0">CD&nbsp;Videos</a><br>
-<a href="/cgi-bin/coversearch.cgi?Letter=" onclick="exit=0">Cover&nbsp;Songs</a><br>
-<a href="/cgi-bin/topten.cgi?Letter=" onclick="exit=0">Top&nbsp;25</a><br>
-<a href="/cgi-bin/submission.cgi?Letter=" onclick="exit=0">Add&nbsp;CDs</a><br>
-<a href="/cgi-bin/genre.cgi?Letter=" onclick="exit=0">The&nbsp;Genres</a><br>
-<a href="/cgi-bin/links.cgi?Letter=" onclick="exit=0">Links</a><br>
-<hr><a href="http://www.cdsniper.com/cgi-bin/forsale.cgi" onclick="exit=0">CDs&nbsp;for&nbsp;Trade!&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
-<hr><a href="/cgi-bin/donors.cgi?Letter=" onclick="exit=0">Top&nbsp;Donors</a><br>
-<hr><a href="/cgi-bin/songofweek.cgi?Letter=" onclick="exit=0">Song&nbsp;of&nbsp;the&nbsp;Week</a><br>
-<a href="/cgi-bin/cdsampler.cgi?Letter=" onclick="exit=0">Song&nbsp;of&nbsp;the&nbsp;Week&nbsp;CD</a><br>
-<a href="/cgi-bin/cdfind.cgi?Letter=" onclick="exit=0">CD&nbsp;Hunter</a><br>
-<a href="http://brutalmetal.com/cgi-bin/2001best.cgi" onclick="exit=0">Best&nbsp;CDs&nbsp;of&nbsp;2001</a><br>
-<a href="/cgi-bin/2000best.cgi?Letter=" onclick="exit=0">Best&nbsp;CDs&nbsp;of&nbsp;2000</a><br>
-<hr><a href="/cgi-bin/ultrasound2001.cgi?Letter=" onclick="exit=0">UltraSound&nbsp;2001</a><br>
-<a href="/cgi-bin/ultrasound2000.cgi?Letter=" onclick="exit=0">UltraSound&nbsp;2000</a><br>
-<hr><a href="/cgi-bin/about.cgi?Letter=" onclick="exit=0">About&nbsp;the&nbsp;Site</a><br>
-<a href="/cgi-bin/contribs.cgi?Letter=" onclick="exit=0">Contributors</a><br>
-<a href="/cgi-bin/contact.cgi?Letter=" onclick="exit=0">Mailing&nbsp;List</a><br>
-<a href="http://cdsniper.com" onclick="exit=0">My&nbsp;CD&nbsp;Collection</a><br>
+<a class="ebay2" href="/cgi-bin/chat.cgi?Letter=">Live&nbsp;Chat!&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
+<a class="ebay2" href="http://forums.heavyharmonies.com">Message&nbsp;Board!</a><br>
+<a class="ebay2" href="/cgi-bin/gletter.cgi?Letter=">Listing&nbsp;of&nbsp;Bands</a><br>
+<a class="ebay2" href="/cgi-bin/newcds.cgi?Letter=">Newest&nbsp;Additions</a><br>
+<a class="ebay2" href="/cgi-bin/newcomments.cgi?Letter=">Newest&nbsp;Comments</a><br>
+<a class="ebay2" href="/cgi-bin/bandurl.cgi?Letter=">Band&nbsp;Homepages</a><br>
+<a class="ebay2" href="/cgi-bin/topebay.cgi?Letter=">Ebay&nbsp;Rarities</a><br>
+<a class="ebay2" href="/cgi-bin/ebaymon.cgi?Letter=">Ebay&nbsp;Monitor!</a><br>
+<a class="ebay2" href="/cgi-bin/newaudio.cgi?Letter=">Newest&nbsp;Audio&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
+<a class="ebay2" href="/cgi-bin/audio.cgi?Letter=">Complete&nbsp;Audio&nbsp;List</a><br>
+<a class="ebay2" href="/cgi-bin/cdv.cgi?Letter=">CDVs/CD&nbsp;Videos</a><br>
+<a class="ebay2" href="/cgi-bin/coversearch.cgi?Letter=">Cover&nbsp;Songs</a><br>
+<a class="ebay2" href="/cgi-bin/topten.cgi?Letter=">Top&nbsp;25&nbsp;Rated&nbsp;CDs</a><br>
+<a class="ebay2" href="/cgi-bin/submission.cgi?Letter=">Submit&nbsp;CDs&nbsp;to&nbsp;HH</a><br>
+<a class="ebay2" href="/cgi-bin/genre.cgi?Letter=">Music&nbsp;Genres&nbsp;at&nbsp;HH</a><br>
+<a class="ebay2" href="/cgi-bin/links.cgi?Letter=">Links</a><br>
+<hr><a class="ebay2" href="http://www.cdsniper.com/cgi-bin/forsale.cgi">CDs&nbsp;for&nbsp;Trade!&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
+<hr><a class="ebay2" href="/cgi-bin/donors.cgi?Letter=">Site&nbsp;Donors</a><br>
+<hr><a class="ebay2" href="/cgi-bin/zrecords.cgi?Letter=">Z&nbsp;Records?&nbsp;<img src="/NewImages/new.gif" width="29" height="12" align="ABSMIDDLE" border="NO" alt="NEW"></a><br>
+<a class="ebay2" href="/cgi-bin/songofweek.cgi?Letter=">Song&nbsp;of&nbsp;the&nbsp;Week</a><br>
+<a class="ebay2" href="/cgi-bin/cdsampler.cgi?Letter=">Song&nbsp;of&nbsp;the&nbsp;Week&nbsp;CD</a><br>
+<a class="ebay2" href="/cgi-bin/2002best.cgi?Letter=">Best&nbsp;CDs&nbsp;of&nbsp;2002</a><br>
+<a class="ebay2" href="http://brutalmetal.com/cgi-bin/2001best.cgi">Best&nbsp;CDs&nbsp;of&nbsp;2001</a><br>
+<a class="ebay2" href="/cgi-bin/2000best.cgi?Letter=">Best&nbsp;CDs&nbsp;of&nbsp;2000</a><br>
+<hr><a class="ebay2" href="/cgi-bin/ultrasound2001.cgi?Letter=">UltraSound&nbsp;2001</a><br>
+<a class="ebay2" href="/cgi-bin/ultrasound2000.cgi?Letter=">UltraSound&nbsp;2000</a><br>
+<hr><a class="ebay2" href="/cgi-bin/about.cgi?Letter=">About&nbsp;the&nbsp;Site</a><br>
+<a class="ebay2" href="/cgi-bin/contribs.cgi?Letter=">Site&nbsp;Contributors</a><br>
+<a class="ebay2" href="/cgi-bin/contact.cgi?Letter=">HH&nbsp;Mailing&nbsp;List</a><br>
+<a class="ebay2" href="http://cdsniper.com">My&nbsp;CD&nbsp;Collection</a><br>
 <hr></b><br>
 <center>
 <table border="1" cellpadding="2" cellspacing="0">
-<tbody><tr><td valign="TOP" bgcolor="#CCCCCC" align="LEFT"><font size="-1">
-<b>View Bands by Genre:<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=1">Lite AOR</a> (49)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=2">AOR</a> (362)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=3">Hard Rock</a> (586)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=4">Sleaze Glam</a> (135)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=5">Melodic Metal</a> (117)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=6">Prog Rock</a> (60)<br>
-<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=7">Southern Rock</a> (15)<br>
+<tbody><tr><td valign="TOP" bgcolor="#CCCCCC" align="LEFT">
+<font class="ebay"><b>View Bands by Genre:<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=1">Lite AOR</a> (73)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=2">AOR</a> (447)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=3">Hard Rock</a> (694)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=4">Sleaze Glam</a> (154)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=5">Melodic Metal</a> (130)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=6">Prog Rock</a> (73)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=7">Southern Rock</a> (21)<br>
+<a href="/cgi-bin/genrelist.cgi?Letter=A&amp;Genre=8">Instrumental Wizards</a> (32)<br>
 </b></font></td></tr></tbody></table>
 </center>
-<p align="CENTER">
-<a href="http://survey.burstmedia.com/cgi-win/client.exe?BurstIntl,welcome,ad9845a,1310"><img src="/NewImages/Listening.120x60.gif" border="0"></a>
-</p></td></tr></tbody></table>
+</td></tr></tbody></table>
 </td>
 <td><img src="/NewImages/is_single_pixel_gif.gif" width="10" height="1" alt="SPACER"></td>
 <td valign="TOP">
-<center>
-<form method="POST" action="/cgi-bin/mainfind.cgi"><input type="HIDDEN" name="Letter" value="A">
-<input name="Input" size="18" maxlength="29">&nbsp;<input type="IMAGE" align="ABSMIDDLE" src="/NewImages/search_hh.gif" width="165" height="28" border="0"><br>
-<font size="-2"><b><nobr><input name="SearchOption" type="RADIO" value="Artist" checked="CHECKED">Artist&nbsp;&nbsp;<input name="SearchOption" type="RADIO" value="Album">Album Title&nbsp;&nbsp;<input name="SearchOption" type="RADIO" value="Song">Song Title&nbsp;<input name="SearchOption" type="RADIO" value="RecordLabel">Record Label&nbsp;<input name="SearchOption" type="RADIO" value="Year">Year Released</nobr></b></font>
-</form>
-</center>
 <!--
-<CENTER>
-<TABLE BORDER=1 CELLPADDING=2 CELLSPACING=1>
-<TR><TD BGCOLOR="#FFFFFF">
-<B>Yes, we've moved yet again. If I have to move this site one more time
-in the next year I'm going to go postal. Oh, if you haven't had the pleasure
-of dealing with them, 99% of hosting companies are scammers and crooks.
-*grumble*</B>
-<TD></TR></TABLE></CENTER>
+<p ALIGN=CENTER class="ebay"><A HREF="http://BrutalMetal.Com">For heavier bands, click here to visit our companion site BRUTALMETAL.COM</A></p>
 //-->
 <img src="/NewImages/is_single_pixel_gif.gif" width="1" height="6"><br>
 <p align="CENTER">
@@ -275,7 +169,7 @@ webmaster of Heavy Harmonies<br>
 </p><p align="CENTER">
 <font size="-2">This site designed and maintained by
 <a href="mailto:webmaster\@HeavyHarmonies.Com">Webmaster</a><br>
-© 1998-2002. All rights reserved. <a href="/cgi-bin/privacy.cgi">Privacy Statement</a><br>
+© 1998-2003. All rights reserved. <a href="/cgi-bin/privacy.cgi">Privacy Statement</a><br>
 </font>
 </p>
 <p>&nbsp;</p>
