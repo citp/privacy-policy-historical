@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the omniture.com privacy policy that was archived on 2003-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031008175146id_/http%3A//www.omniture.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the omniture.com privacy policy that was archived on 2004-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/policy.html) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Omniture - the leading provider of web analytics for large, complex sites</title>
@@ -39,7 +39,7 @@ window.name = 'opener';
                 <tbody><tr>
                     <td rowspan="2" width="200" height="80" align="center"><a href="http://www.omniture.com"><img src="http://www.omniture.com/images/OT_logo_second_128x32.gif" border="0"></a></td>
                     <td align="right" height="60"><img src="http://www.omniture.com/images/tagline_second_244x11.gif">
-					<!-- SiteCatalyst code version: G.4.
+					<!-- SiteCatalyst code version: G.6.
 Copyright 1997-2003 Omniture, Inc. More info available at
 http://www.omniture.com --><script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
@@ -70,11 +70,19 @@ var s_eVar7=""
 var s_eVar8=""
 var s_eVar9=""
 var s_eVar10=""
+var s_eVar11=""
+/* Hierarchy Variables */
+var s_hier1="Home/privacy/policy"
 /*************** DO NOT ALTER THE FOLLOWING 2 LINES ! ***************/
 var s_code=' '//--></script>
 <script language="JavaScript"><!--
+/************************ ADDITIONAL FEATURES ************************
+     Plugins
+*/
 /************************** CONFIG SECTION **************************/
 /* You may add or alter any code config here.                       */
+/* Variables (s_pageName, s_prop1, etc.) not prefixed with "s_" will not be used. */
+var s_disableLegacyVars=true
 /* E-commerce Config */
 var s_eVarCFG=""
 /* Link Tracking Config */
@@ -86,6 +94,77 @@ var s_linkInternalFilters="javascript:,webex,sitecatalyst,omniture"
 var s_linkLeaveQueryString=false
 var s_linkTrackVars="None"
 var s_linkTrackEvents="None"
+/* Plugin Config */
+var s_usePlugins=true
+function s_doPlugins() {
+	/* Add calls to plugins here */
+	s_vp_getCGI('s_campaign','s_cid');
+}
+
+/************************** PLUGINS SECTION *************************/
+/* You may insert any plugins you wish to use here.                 */
+
+/* Overture code begin */
+if(typeof s_eVar11=='undefined'){var s_eVar11=""}
+if(typeof s_eVar12=='undefined'){var s_eVar12=""}
+function s_inquery(a) {
+dm=document.URL.toLowerCase(document.URL);
+a=a.toLowerCase(a);
+return (dm.indexOf(a)>=0);
+}
+function s_qsparam(pid){
+dm=document.URL.toLowerCase();
+wh=dm.indexOf(pid);
+if(wh<0)return "";
+dm=dm.substring(wh+pid.length,dm.length);
+wh=dm.indexOf("&");
+if(wh>=0){dm=dm.substring(0,wh);}
+return dm;
+}
+if(s_inquery("ovkey=")){
+   if(s_inquery("ovmtc=")){s_eVar11=s_qsparam("ovkey=")+":"+s_qsparam("ovmtc=");}
+   if(s_inquery("ovraw=")){s_eVar12=s_qsparam("ovkey=")+":"+s_qsparam("ovraw=");}
+}
+
+/*
+ * Plugin: Get Plugin Modified Value
+ */
+function s_vp_getValue(vs)
+	{var k=vs.substring(0,2)=='s_'?vs.substring(2):vs;return s_wd[
+	's_vpm_'+k]?s_wd['s_vpv_'+k]:s_gg(k)}
+/*
+ * Plugin: Get Query String CGI Variable Value
+ */
+function s_vp_getCGI(vs,k)
+	{var v='';if(k&&s_wd.location.search){var q=s_wd.location.search,
+	qq=q.indexOf('?');q=qq<0?q:q.substring(qq+1);v=s_pt(q,'&',s_cgif,
+	k)}s_vpr(vs,v)}function s_cgif(t,k){if(t){var te=t.indexOf('='),
+	sk=te<0?t:t.substring(0,te),sv=te<0?'True':t.substring(te+1);if(
+	sk==k)return s_epa(sv)}return ''}
+/*
+ * Plugin: Get Value From Cookie
+ */
+function s_vp_getCookie(vs,k)
+	{s_vpr(vs,s_c_r(k))}
+/*
+ * Plugin Utilities v2.0 (Required For All Plugins)
+ */
+function s_vpr(vs,v){if(s_wd[vs])s_wd[vs]=s_wd[vs];else s_wd[vs]=''
+if(vs.substring(0,2) == 's_')vs=vs.substring(2);s_wd['s_vpv_'+vs]=v
+s_wd['s_vpm_'+vs]=1}function s_dt(tz,t){var d=new Date;if(t)d.setTime(
+t);d=new Date(d.getTime()+(d.getTimezoneOffset()*60*1000))
+return new Date(Math.floor(d.getTime()+(tz*60*60*1000)))}
+function s_vh_gt(k,v){var vh='|'+s_c_r('s_vh_'+k),vi=vh.indexOf('|'+v
++'='),ti=vi<0?vi:vi+2+v.length,pi=vh.indexOf('|',ti),t=ti<0?'':
+vh.substring(ti,pi<0?vh.length:pi);return t}function s_vh_gl(k){var
+vh=s_c_r('s_vh_'+k),e=vh?vh.indexOf('='):0;return vh?(vh.substring(0,
+e?e:vh.length)):''}function s_vh_s(k,v){if(k&&v){var e=new Date,st=
+e.getTime(),y=e.getYear(),c='s_vh_'+k,vh='|'+s_c_r(c)+'|',t=s_vh_gt(k,
+v);e.setYear((y<1900?y+1900:y)+5);if(t)vh=s_rep(vh,'|'+v+'='+t+'|','|'
+);if(vh.substring(0,1)=='|')vh=vh.substring(1);if(vh.substring(
+vh.length-1,vh.length)=='|')vh=vh.substring(0,vh.length-1);vh=v
++'=[PCC]'+(vh?'|'+vh:'');s_c_w(c,vh,e);if(s_vh_gt(k,v)!='[PCC]')
+return 0;vh=s_rep(vh,'[PCC]',st);s_c_w(c,vh,e)}return 1}
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_un,s_ios=0,s_q='',s_code='',code='',s_bcr=0,s_lnk='',s_eo='',
@@ -103,30 +182,30 @@ parseFloat(s_i)}else if(s_ns6>0)s_apv=parseFloat(s_u.substring(s_ns6
 for(x in o)n[x]=o[x];return n}function s_num(x){var s=x.toString(),g=
 '0123456789',p,d;for(p=0;p<s.length;p++){d=s.substring(p,p+1);if(
 g.indexOf(d)<0)return 0}return 1}function s_rep(s,o,n){var i=
-s.indexOf(o),l=n.length>0?n.length:1;while(s&&i>=0){s=s.substring(0,i
-)+n+s.substring(i+o.length);i=s.indexOf(o,i+l)}return s}
-function s_ape(s){return s?s_rep(escape(''+s),'+','%2B'):s}
-function s_epa(s){return s?unescape(s_rep(''+s,'+',' ')):s}
-function s_pt(s,d,f,a){var t=s,x=0,y,r;while(t){y=t.indexOf(d);y=y<0?
-t.length:y;t=t.substring(0,y);r=f(t,a);if(r)return r;x+=y+d.length;t=
-s.substring(x,s.length);t=x<s.length?t:''}return ''}function s_isf(t,a
-){if(t.substring(0,2)=='s_')t=t.substring(2);return (t!=''&&t==a)}
-function s_fsf(t,a){if(s_pt(a,',',s_isf,t))s_fsg+=(s_fsg!=''?',':'')+t
-return 0}var s_fsg;function s_fs(s,f){s_fsg='';s_pt(s,',',s_fsf,f)
-return s_fsg}var s_c_d='';function s_c_gdf(t,a){if(!s_num(t))return 1
-return 0}function s_c_gd(){var d=s_wd.location.hostname,n=s_gg(
+s.indexOf(o),l=n.length>0?n.length:1;while(s&&i>=0){s=s.substring(0,i)
++n+s.substring(i+o.length);i=s.indexOf(o,i+l)}return s}function s_ape(
+s){return s?s_rep(escape(''+s),'+','%2B'):s}function s_epa(s){
+return s?unescape(s_rep(''+s,'+',' ')):s}function s_pt(s,d,f,a){var t=
+s,x=0,y,r;while(t){y=t.indexOf(d);y=y<0?t.length:y;t=t.substring(0,y)
+r=f(t,a);if(r)return r;x+=y+d.length;t=s.substring(x,s.length);t=x<
+s.length?t:''}return ''}function s_isf(t,a){if(t.substring(0,2)=='s_')
+t=t.substring(2);return (t!=''&&t==a)}function s_fsf(t,a){if(s_pt(a,
+',',s_isf,t))s_fsg+=(s_fsg!=''?',':'')+t;return 0}var s_fsg
+function s_fs(s,f){s_fsg='';s_pt(s,',',s_fsf,f);return s_fsg}var
+s_c_d='';function s_c_gdf(t,a){if(!s_num(t))return 1;return 0}
+function s_c_gd(){var d=s_wd.location.hostname,n=s_gg(
 'cookieDomainPeriods'),p;if(d&&!s_c_d){n=n?parseInt(n):2;n=n>2?n:2;p=
 d.lastIndexOf('.');while(p>=0&&n>1){p=d.lastIndexOf('.',p-1);n--}
 s_c_d=p>0&&s_pt(d,'.',s_c_gdf,0)?d.substring(p):''}return s_c_d}
 function s_c_r(k){k=s_ape(k);var c=' '+s_d.cookie,s=c.indexOf(' '+k
 +'='),e=s<0?s:c.indexOf(';',s),v=s<0?'':s_epa(c.substring(s+2
-+k.length,e<0?c.length:e));return v}function s_c_w(k,v,e){var d=
-s_c_gd(),l=s_gg('cookieLifetime');v=''+v;l=l?(''+l).toUpperCase():''
-if(e&&l!='SESSION'&&l!='NONE'){l=parseInt(l);if(l){e=new Date
-e.setTime(e.getTime()+(parseInt(l)*1000))}}if(k&&l!='NONE'){
-s_d.cookie=k+'='+s_ape(v)+'; path=/;'+(e&&l!='SESSION'?' expires='
-+e.toGMTString()+';':'')+(d?' domain='+d+';':'');return s_c_r(k)==v}
-return 0}function s_cet(f,a,et,oe,fb){var r,d=0
++k.length,e<0?c.length:e));return v!='[[B]]'?v:''}function s_c_w(k,v,e
+){var d=s_c_gd(),l=s_gg('cookieLifetime');v=''+v;l=l?(''+l
+).toUpperCase():'';if(e&&l!='SESSION'&&l!='NONE'){l=(v!=''?parseInt(l
+):-60);if(l){e=new Date;e.setTime(e.getTime()+(parseInt(l)*1000))}}if(
+k&&l!='NONE'){s_d.cookie=k+'='+s_ape(v!=''?v:'[[B]]')+'; path=/;'+(e&&
+l!='SESSION'?' expires='+e.toGMTString()+';':'')+(d?' domain='+d+';':
+'');return s_c_r(k)==v}return 0}function s_cet(f,a,et,oe,fb){var r,d=0
 /*@cc_on@if(@_jscript_version>=5){try{return f(a)}catch(e){return et(e)}d=1}@end@*/
 if(!d){if(s_ismac&&s_u.indexOf('MSIE 4')>=0)return fb(a);else{
 s_wd.s_oe=s_wd.onerror;s_wd.onerror=oe;r=f(a);s_wd.onerror=s_wd.s_oe
@@ -145,16 +224,16 @@ un:un.substring(0,ci),imn='s_i_'+fun;if(s_d.images&&s_apv>=3&&
 function s_it(un){s_ca(un)}function s_mr(un,sess,q,ta){un=
 un.toLowerCase();var ci=un.indexOf(','),fun=ci<0?un:un.substring(0,ci
 ),unc=s_rep(fun,'_','-'),imn='s_i_'+fun,im,b,e,rs='http'+(s_ssl?'s':''
-)+'://'+(s_ssl?'102':unc)+'.112.2O7.net/b/ss/'+un+'/1/G.4-pd-F/'
-+sess+'?'+'[AQB]&ndh=1'+(q?q:'')+(s_q?s_q:'')+'&[AQE]';if(s_ios){im=
-s_wd[imn]?s_wd[imn]:s_d.images[imn];if(!im)im=s_wd[imn]=new Image
-im.src=rs;if(rs.indexOf('&pe=')>=0&&(!ta||ta=='_self'||ta=='_top'||(
-s_wd.name&&ta==s_wd.name))){b=e=new Date;while(e.getTime()-b.getTime(
-)<500)e=new Date}return ''}return '<im'+'g sr'+'c="'+rs
+)+'://'+(s_ssl?'102':unc)+'.112.2O7.net/b/ss/'+un+'/1/G.6-Pd-F/'
++sess+'?[AQB]&ndh=1'+(q?q:'')+(s_q?s_q:'')+'&[AQE]';if(s_ios){im=s_wd[
+imn]?s_wd[imn]:s_d.images[imn];if(!im)im=s_wd[imn]=new Image;im.src=rs
+if(rs.indexOf('&pe=')>=0&&(!ta||ta=='_self'||ta=='_top'||(s_wd.name&&
+ta==s_wd.name))){b=e=new Date;while(e.getTime()-b.getTime()<500)e=
+new Date}return ''}return '<im'+'g sr'+'c="'+rs
 +'" width=1 height=1 border=0 alt="">'}function s_gg(v){var g='s_'+v
-return s_wd[g]||s_wd.s_disableLegacyVars ? s_wd[g] : s_wd[v]}var
-s_qav='';function s_havf(t,a){var b=t.substring(0,4),s=t.substring(4),
-n=parseInt(s),k='s_g_'+t,m='s_vpm_'+t,q=t,v=s_gg('linkTrackVars'),e=
+return s_wd[g]||s_wd.s_disableLegacyVars?s_wd[g]:s_wd[v]}var s_qav=''
+function s_havf(t,a){var b=t.substring(0,4),s=t.substring(4),n=
+parseInt(s),k='s_g_'+t,m='s_vpm_'+t,q=t,v=s_gg('linkTrackVars'),e=
 s_gg('linkTrackEvents');if(!s_wd['s_'+t])s_wd['s_'+t]='';s_wd[k]=s_wd[
 m]?s_wd['s_vpv_'+t]:s_gg(t);if(s_lnk||s_eo){v=v?v+',pageName,charSet,'
 +'cookieDomainPeriods,cookieLifetime,eVarCFG,purchaseID':'';if(v&&
@@ -162,68 +241,68 @@ m]?s_wd['s_vpv_'+t]:s_gg(t);if(s_lnk||s_eo){v=v?v+',pageName,charSet,'
 ],e)}s_wd[m]=0;if(t=='charSet')q='ce';else if(t=='cookieDomainPeriods'
 )q='cdp';else if(t=='cookieLifetime')q='cl';else if(t=='channel')q=
 'ch';else if(t=='campaign')q='v0';else if(s_num(s)){if(b=='prop')q='c'
-+n;else if(b=='eVar')q='v'+n}if(s_wd[k]&&t!='linkName'&&t!='linkType')
-s_qav+='&'+q+'='+s_ape(s_wd[k]);return ''}function s_hav(){var n,av=
-'charSet,cookieDomainPeriods,cookieLifetime,pageName,channel,server,p'
-+'ageType,campaign,state,zip,events,products,purchaseID,eVarCFG,linkN'
-+'ame,linkType';for(n=1;n<26;n++)av+=',prop'+n+',eVar'+n;s_qav=''
-s_pt(av,',',s_havf,0);return s_qav}function s_lnf(t,h){t=t?
-t.toLowerCase():'';h=h?h.toLowerCase():'';var te=t.indexOf('=');if(t&&
-te>0&&h.indexOf(t.substring(te+1))>=0)return t.substring(0,te)
-return ''}function s_ln(h){if(s_gg('linkNames'))return s_pt(s_gg(
-'linkNames'),',',s_lnf,h);return ''}function s_ltdf(t,h){t=t?
-t.toLowerCase():'';h=h?h.toLowerCase():'';var qi=h.indexOf('?');h=qi>=
-0?h.substring(0,qi):h;if(t&&h.substring(h.length-(t.length+1))=='.'+t)
-return 1;return 0}function s_ltef(t,h){t=t?t.toLowerCase():'';h=h?
-h.toLowerCase():'';if(t&&h.indexOf(t)>=0)return 1;return 0}
-function s_lt(h){var lft=s_gg('linkDownloadFileTypes'),lef=s_gg(
-'linkExternalFilters'),lif=s_gg('linkInternalFilters')?s_gg(
-'linkInternalFilters'):s_wd.location.hostname;h=h.toLowerCase();if(
-s_gg('trackDownloadLinks')&&lft&&s_pt(lft,',',s_ltdf,h))return 'd';if(
-s_gg('trackExternalLinks')&&(lef||lif)&&(!lef||s_pt(lef,',',s_ltef,h)
-)&&(!lif||!s_pt(lif,',',s_ltef,h)))return 'e';return ''}function s_lc(
-e){s_lnk=s_co(this);s_gs('');s_lnk='';if(this.s_oc)return this.s_oc(e)
-return true}function s_ls(){var l,ln,oc
-for(ln=0;ln<s_d.links.length;ln++){l=s_d.links[ln];oc=l.onclick?
-l.onclick.toString():'';if(oc.indexOf("s_gs(")<0&&oc.indexOf("s_lc(")<
-0){l.s_oc=l.onclick;l.onclick=s_lc}}}function s_bc(e){s_eo=
-e.srcElement?e.srcElement:e.target;s_gs('');s_eo=''}function s_ot(o){
-var x=o.type,y=o.tagName;return (x&&x.toUpperCase?x:y&&y.toUpperCase?
-y:o.href?'A':'').toUpperCase()}function s_oid(o){var t=s_ot(o),p=
-o.protocol,c=o.onclick,n='',x=0;if(!o.s_oid){if(o.href&&(t=='A'||t==
-'AREA')&&(!c||!p||p.toLowerCase().indexOf('javascript')<0))n=o.href
-else if(c){n=s_rep(s_rep(s_rep(s_rep(c.toString(),"\r",''),"\n",''),
-"\t",''),' ','');x=2}else if(o.value&&(t=='INPUT'||t=='SUBMIT')){n=
-o.value;x=3}else if(o.src&&t=='IMAGE')n=o.src;if(n){o.s_oid=s_fl(n,100
-);o.s_oidt=x}}return o.s_oid}function s_rqf(t,un){var e=t.indexOf('='
-),u=e>=0?','+t.substring(0,e)+',':'';return u&&u.indexOf(','+un+',')>=
-0?s_epa(t.substring(e+1)):''}function s_rq(un){var c=un.indexOf(','),
-v=s_c_r('s_sq'),q='';if(c<0)return s_pt(v,'&',s_rqf,un);return s_pt(
-un,',',s_rq,0)}var s_sqq,s_squ;function s_sqp(t,a){var e=t.indexOf('='
-),q=e<0?'':s_epa(t.substring(e+1));s_sqq[q]='';if(e>=0)s_pt(
-t.substring(0,e),',',s_sqs,q);return 0}function s_sqs(un,q){s_squ[un]=
-q;return 0}function s_sq(un,q){s_sqq=new Object;s_squ=new Object
-s_sqq[q]='';var k='s_sq',v=s_c_r(k),x,c=0;s_pt(v,'&',s_sqp,0);s_pt(un,
-',',s_sqs,q);v='';for(x in s_squ)s_sqq[s_squ[x]]+=(s_sqq[s_squ[x]]?
-',':'')+x;for(x in s_sqq)if(x&&s_sqq[x]&&(x==q||c<2)){v+=(v?'&':'')
-+s_sqq[x]+'='+s_ape(x);c++}return s_c_w(k,v,0)}function s_wdl(e){
-s_wd.s_wd_l=1;var r=true;if(s_wd.s_ol)r=s_wd.s_ol(e);if(s_wd.s_ls)
-s_wd.s_ls();return r}function s_wds(un){un=un.toLowerCase()
-s_wd.s_wd_l=1;if(s_apv>3&&(!s_isie||!s_ismac||s_apv>=5)){s_wd.s_wd_l=0
-if(!s_wd.s_unl)s_wd.s_unl=new Array;s_wd.s_unl[s_wd.s_unl.length]=un
-if(s_d.body&&s_d.body.attachEvent){if(!s_wd.s_bcr&&
-s_d.body.attachEvent('onclick',s_bc))s_wd.s_bcr=1}else if(s_d.body&&
-s_d.body.addEventListener){if(!s_wd.s_bcr&&s_d.body.addEventListener(
-'click',s_bc,false))s_wd.s_bcr=1}else{var ol=s_wd.onload?
-s_wd.onload.toString():'';if(ol.indexOf("s_wdl(")<0){s_wd.s_ol=
-s_wd.onload;s_wd.onload=s_wdl}}}}function s_iepf(i,a){if(i.substring(
-0,1)!='{')i='{'+i+'}';if(s_d.body.isComponentInstalled(i,'ComponentID'
-)){var n=s_pl.length;s_pl[n]=new Object;s_pl[n].name=i+':'
-+s_d.body.getComponentVersion(i,'ComponentID')}return 0}function s_vs(
-un,x){var s=s_gg('visitorSampling'),g=s_gg('visitorSamplingGroup'),k=
-'s_vsn_'+un+(g?'_'+g:''),n=s_c_r(k),e=new Date,y=e.getYear()
-e.setYear(y+10+(y<1900?1900:0));if(s){s*=100;if(!n){if(!s_c_w(k,x,e))
-return 0;n=x}if(n%10000>s)return 0}return 1}
++n;else if(b=='eVar')q='v'+n;else if(b=='hier')q='h'+n}if(s_wd[k]&&t!=
+'linkName'&&t!='linkType')s_qav+='&'+q+'='+s_ape(s_wd[k]);return ''}
+function s_hav(){var n,av='charSet,cookieDomainPeriods,cookieLifetime'
++',pageName,channel,server,pageType,campaign,state,zip,events,product'
++'s,purchaseID,eVarCFG,linkName,linkType';for(n=1;n<26;n++)av+=',prop'
++n+',eVar'+n+',hier'+n;s_qav='';s_pt(av,',',s_havf,0);return s_qav}
+function s_lnf(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';var
+te=t.indexOf('=');if(t&&te>0&&h.indexOf(t.substring(te+1))>=0)
+return t.substring(0,te);return ''}function s_ln(h){if(s_gg(
+'linkNames'))return s_pt(s_gg('linkNames'),',',s_lnf,h);return ''}
+function s_ltdf(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';var
+qi=h.indexOf('?');h=qi>=0?h.substring(0,qi):h;if(t&&h.substring(
+h.length-(t.length+1))=='.'+t)return 1;return 0}function s_ltef(t,h){
+t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';if(t&&h.indexOf(t)>=0)
+return 1;return 0}function s_lt(h){var lft=s_gg(
+'linkDownloadFileTypes'),lef=s_gg('linkExternalFilters'),lif=s_gg(
+'linkInternalFilters')?s_gg('linkInternalFilters'):
+s_wd.location.hostname;h=h.toLowerCase();if(s_gg('trackDownloadLinks'
+)&&lft&&s_pt(lft,',',s_ltdf,h))return 'd';if(s_gg('trackExternalLinks'
+)&&(lef||lif)&&(!lef||s_pt(lef,',',s_ltef,h))&&(!lif||!s_pt(lif,',',
+s_ltef,h)))return 'e';return ''}function s_lc(e){s_lnk=s_co(this)
+s_gs('');s_lnk='';if(this.s_oc)return this.s_oc(e);return true}
+function s_ls(){var l,ln,oc;for(ln=0;ln<s_d.links.length;ln++){l=
+s_d.links[ln];oc=l.onclick?l.onclick.toString():'';if(oc.indexOf(
+"s_gs(")<0&&oc.indexOf("s_lc(")<0){l.s_oc=l.onclick;l.onclick=s_lc}}}
+function s_bc(e){s_eo=e.srcElement?e.srcElement:e.target;s_gs('')
+s_eo=''}function s_ot(o){var a=o.type,b=o.tagName;return (a&&
+a.toUpperCase?a:b&&b.toUpperCase?b:o.href?'A':'').toUpperCase()}
+function s_oid(o){var t=s_ot(o),p=o.protocol,c=o.onclick,n='',x=0;if(
+!o.s_oid){if(o.href&&(t=='A'||t=='AREA')&&(!c||!p||p.toLowerCase(
+).indexOf('javascript')<0))n=o.href;else if(c){n=s_rep(s_rep(s_rep(
+s_rep(c.toString(),"\r",''),"\n",''),"\t",''),' ','');x=2}else if(
+o.value&&(t=='INPUT'||t=='SUBMIT')){n=o.value;x=3}else if(o.src&&t==
+'IMAGE')n=o.src;if(n){o.s_oid=s_fl(n,100);o.s_oidt=x}}return o.s_oid}
+function s_rqf(t,un){var e=t.indexOf('='),u=e>=0?','+t.substring(0,e)
++',':'';return u&&u.indexOf(','+un+',')>=0?s_epa(t.substring(e+1)):''}
+function s_rq(un){var c=un.indexOf(','),v=s_c_r('s_sq'),q='';if(c<0)
+return s_pt(v,'&',s_rqf,un);return s_pt(un,',',s_rq,0)}var s_sqq,s_squ
+function s_sqp(t,a){var e=t.indexOf('='),q=e<0?'':s_epa(t.substring(e
++1));s_sqq[q]='';if(e>=0)s_pt(t.substring(0,e),',',s_sqs,q);return 0}
+function s_sqs(un,q){s_squ[un]=q;return 0}function s_sq(un,q){s_sqq=
+new Object;s_squ=new Object;s_sqq[q]='';var k='s_sq',v=s_c_r(k),x,c=0
+s_pt(v,'&',s_sqp,0);s_pt(un,',',s_sqs,q);v='';for(x in s_squ)s_sqq[
+s_squ[x]]+=(s_sqq[s_squ[x]]?',':'')+x;for(x in s_sqq)if(x&&s_sqq[x]&&(
+x==q||c<2)){v+=(v?'&':'')+s_sqq[x]+'='+s_ape(x);c++}return s_c_w(k,v,0
+)}function s_wdl(e){s_wd.s_wd_l=1;var r=true;if(s_wd.s_ol)r=s_wd.s_ol(
+e);if(s_wd.s_ls)s_wd.s_ls();return r}function s_wds(un){un=
+un.toLowerCase();s_wd.s_wd_l=1;if(s_apv>3&&(!s_isie||!s_ismac||s_apv>=
+5)){s_wd.s_wd_l=0;if(!s_wd.s_unl)s_wd.s_unl=new Array;s_wd.s_unl[
+s_wd.s_unl.length]=un;if(s_d.body&&s_d.body.attachEvent){if(
+!s_wd.s_bcr&&s_d.body.attachEvent('onclick',s_bc))s_wd.s_bcr=1}
+else if(s_d.body&&s_d.body.addEventListener){if(!s_wd.s_bcr&&
+s_d.body.addEventListener('click',s_bc,false))s_wd.s_bcr=1}else{var
+ol=s_wd.onload?s_wd.onload.toString():'';if(ol.indexOf("s_wdl(")<0){
+s_wd.s_ol=s_wd.onload;s_wd.onload=s_wdl}}}}function s_iepf(i,a){if(
+i.substring(0,1)!='{')i='{'+i+'}';if(s_d.body.isComponentInstalled(i,
+'ComponentID')){var n=s_pl.length;s_pl[n]=new Object;s_pl[n].name=i
++':'+s_d.body.getComponentVersion(i,'ComponentID')}return 0}
+function s_vs(un,x){var s=s_gg('visitorSampling'),g=s_gg(
+'visitorSamplingGroup'),k='s_vsn_'+un+(g?'_'+g:''),n=s_c_r(k),e=
+new Date,y=e.getYear();e.setYear(y+10+(y<1900?1900:0));if(s){s*=100
+if(!n){if(!s_c_w(k,x,e))return 0;n=x}if(n%10000>s)return 0}return 1}
 function s_gs(un){un=un.toLowerCase()
 s_un=un;var trk=1,tm=new Date,sed=Math&&Math.random?Math.floor(
 Math.random()*10000000000000):tm.getTime(),sess='s'+Math.floor(
@@ -272,17 +351,17 @@ s_wd.s_unl)for(var unn=0;unn<s_wd.s_unl.length;unn++){un=s_wd.s_unl[
 unn];if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)),ta)
 s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
 s_wds(un);s_ca(un);return s_gs(un)}
-s_code=s_dc('omniture');if(s_code)document.write(s_code)
-//--></script><img name="s_i_omniture" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/omniture/1/G.4-pd-F/s33876401282566?[AQB]&amp;ndh=1&amp;t=30/0/2020%2016%3A7%3A52%204%200&amp;pageName=policy&amp;ch=privacy&amp;products=%3B&amp;c1=noncustomer&amp;v1=noncustomer&amp;c2=www.omniture.com&amp;v2=www.omniture.com&amp;g=https%3A//web.archive.org/web/20031008175146id_/http%253A//www.omniture.com/policy.html&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
+s_code=s_dc('omniture,omniturevisitor');if(s_code)document.write(s_code)
+//--></script><img name="s_i_omniture" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/omniture,omniturevisitor/1/G.6-Pd-F/s39965296118703?[AQB]&amp;ndh=1&amp;t=30/0/2020%2016%3A7%3A59%204%200&amp;pageName=policy&amp;ch=privacy&amp;products=%3B&amp;c1=noncustomer&amp;v1=noncustomer&amp;h1=Home/privacy/policy&amp;c2=www.omniture.com&amp;v2=www.omniture.com&amp;g=https%3A//web.archive.org/web/20040627072035id_/http%253A//www.omniture.com/policy.html&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
-src="http://omniture.112.2O7.net/b/ss/omniture/1/G.4--NS/0"
+src="http://omniture.112.2O7.net/b/ss/omniture,omniturevisitor/1/G.6--NS/0"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: G.4. -->
+<!-- End SiteCatalyst code version: G.6. -->
 					</td>
                 </tr>
 				<tr>
-                    <td valign="bottom" height="20" nowrap="" align="right"><img src="images/dot.gif" width="434" height="1"><a href="http://www.omniture.com"><img src="http://www.omniture.com/images/home_second_90x17.gif" border="0"></a><a href="https://www.omniture.com/sc9/reports/index.html"><img src="http://www.omniture.com/images/login_second_90x17.gif" border="0"></a></td>
+                    <td valign="bottom" height="20" nowrap="" align="right"><img src="images/dot.gif" width="434" height="1"><a href="http://www.omniture.com"><img src="http://www.omniture.com/images/home_second_90x17.gif" border="0"></a><a href="https://www.omniture.com/sc9_6/reports/index.html"><img src="http://www.omniture.com/images/login_second_90x17.gif" border="0"></a></td>
                 </tr>
             </tbody></table>
         </td>
@@ -322,10 +401,10 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 			            <table cellpadding="20" cellspacing="0" border="0" width="100%">
                 <tbody><tr>
                     <td class="body"><img src="images/dot.gif" width="1" height="15"><br>
-                    	<a href="privacy.html" onmouseover="limgOver('commitment')" onmouseout="limgOut('commitment')" onclick="lresetAll('commitment')"><img src="https://web.archive.org/web/20031008175146id_/http%3A//www.omniture.com/images/commitment_off_120x12.gif" name="commitment" border="0"></a><br>
-                    	<a href="policy.html" onmouseover="limgOver('policy')" onmouseout="limgOut('policy')" onclick="lresetAll('policy')"><img src="https://web.archive.org/web/20031008175146id_/http%3A//www.omniture.com/images/policy_on_120x12.gif" name="policy" border="0"></a><br>
-            		<a href="partnerships.html" onmouseover="limgOver('partnerships')" onmouseout="limgOut('partnerships')" onclick="lresetAll('partnerships')"><img src="https://web.archive.org/web/20031008175146id_/http%3A//www.omniture.com/images/partnerships_off_120x12.gif" name="partnerships" border="0"></a><br>
-                    	<a href="updates.html" onmouseover="limgOver('updates')" onmouseout="limgOut('updates')" onclick="lresetAll('updates')"><img src="https://web.archive.org/web/20031008175146id_/http%3A//www.omniture.com/images/pupdates_off_120x12.gif" name="updates" border="0"></a><br>
+                    	<a href="privacy.html" onmouseover="limgOver('commitment')" onmouseout="limgOut('commitment')" onclick="lresetAll('commitment')"><img src="https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/images/commitment_off_120x12.gif" name="commitment" border="0"></a><br>
+                    	<a href="policy.html" onmouseover="limgOver('policy')" onmouseout="limgOut('policy')" onclick="lresetAll('policy')"><img src="https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/images/policy_on_120x12.gif" name="policy" border="0"></a><br>
+            		<a href="partnerships.html" onmouseover="limgOver('partnerships')" onmouseout="limgOut('partnerships')" onclick="lresetAll('partnerships')"><img src="https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/images/partnerships_off_120x12.gif" name="partnerships" border="0"></a><br>
+                    	<a href="updates.html" onmouseover="limgOver('updates')" onmouseout="limgOut('updates')" onclick="lresetAll('updates')"><img src="https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/images/pupdates_off_120x12.gif" name="updates" border="0"></a><br>
                     </td>
                 </tr>
             </tbody></table> 
@@ -566,7 +645,8 @@ function privacy_popup(){
             <table cellpadding="10" cellspacing="0" border="0" width="775">
                 <tbody><tr>
 			<td align="center"><a href="http://www.omniture.com/privacy.html"><img src="http://www.omniture.com/images/finalmark2.gif" border="0"></a></td>
-                    <td class="body" height="20">Copyright 1996-2003, Omniture Inc. All rights reserved. <span class="bodyblack">Corporate: 801.722.7000&nbsp;&nbsp;|&nbsp;&nbsp;Sales: 877.722.7088</span>
+                    <td class="body" height="20">Copyright 1996-2004, Omniture Inc. All rights reserved.<br>
+<span class="bodyblack">Corporate: 801.722.7000&nbsp;&nbsp;|&nbsp;&nbsp;Sales: 877.722.7088&nbsp;&nbsp;|&nbsp;&nbsp;EMEA Sales: +44.845.226.1125</span>
 <br>
 Omniture and SiteCatalyst are trademarks of Omniture, Inc
 <br>
