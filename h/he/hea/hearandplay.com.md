@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616195500id_/http%3A//hearandplay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101828id_/http%3A//www.hearandplay.com/privacy.html) for the most accurate reproduction.*
 
 # HearandPlay.com - Customer Support Center
 
