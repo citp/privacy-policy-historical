@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220143930id_/http%3A//www.approva.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401175604id_/http%3A//approva.net/privacy.html) for the most accurate reproduction.*
 
 # Approva: Privacy Policy
 
