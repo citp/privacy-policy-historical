@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algebrahelp.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601100854id_/http%3A//algebrahelp.com/misc/siteinfo/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algebrahelp.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208041028id_/http%3A//www.algebrahelp.com/misc/siteinfo/privacypolicy.htm) for the most accurate reproduction.*
 
 # Algebra.help -- Privacy Policy
 
