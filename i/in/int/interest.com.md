@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605162054id_/http%3A//www.interest.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095418id_/http%3A//www.interest.com/privacystatement.html) for the most accurate reproduction.*
 
 # INTEREST.COM - Privacy Statement
 
