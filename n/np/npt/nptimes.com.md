@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211021349id_/http%3A//www.nptimes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621090218id_/http%3A//www.nptimes.com/privacy.html) for the most accurate reproduction.*
 
 # NP Times: Privacy Policy
 
@@ -32,8 +32,4 @@ available to other reputable organizations whose products or services we think y
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us an e-mail at the address provided above.  
-
-
-  
-© 2002 The NonProfit Times [Privacy Policy](http://www.nptimes.com/privacy.html)  
 
