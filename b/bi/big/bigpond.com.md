@@ -1,23 +1,27 @@
-> *The following text is extracted and transformed from the bigpond.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionstatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpond.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionstatement.asp) for the most accurate reproduction.*
 
 # Telstra Privacy Statement
+
+Protecting Your Privacy Online
+
+* * *
 
 Telstra is committed to providing you with the highest levels of customer service. This includes protecting your privacy. From 21 December 2001, we will be bound by new sections of the Commonwealth Privacy Act 1988, which set out a number of principles concerning the protection of your personal information.
 
 This statement, called "Protecting Your Privacy Online", sets out important information about privacy protections which we extend to your personal information. It relates to personal information that you provide to us through our websites (eg when you subscribe to our services online).
 
-[How we collect personal information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy1)  
-[How we use your personal information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy2)  
-[Telstra Websites](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy3)  
-[Personal information collected from our websites](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy4)  
-[Other information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy5)  
-[When we disclose your personal information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy6)  
-[Help us to ensure we hold accurate information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy7)  
-[You can access your personal information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy8)  
-[Security of your information](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy9)  
-[Childrens’ privacy](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy10)  
-[What else you should know about privacy](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy11)  
-[How to contact us](https://web.archive.org/web/20030601213733id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy12)
+[How we collect personal information](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy1)  
+[How we use your personal information](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy2)  
+[Telstra Websites](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy3)  
+[Personal information collected from our websites](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy4)  
+[Other information](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy5)  
+[When we disclose your personal information](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy6)  
+[Help us to ensure we hold accurate information](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy7)  
+[You can access your personal information](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy8)  
+[Security of your information](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy9)  
+[Childrens’ privacy](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy10)  
+[What else you should know about privacy](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy11)  
+[How to contact us](https://web.archive.org/web/20030801120127id_/http%3A//telstra.com/res/docs/collectionStatement.asp#Privacy12)
 
 For more detail on Telstra's approach to privacy generally, please refer to [Telstra's PRIVACY POLICY](http://www.telstra.com.au/privacy/)
 
