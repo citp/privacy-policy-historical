@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyotafinancial.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223164244id_/http%3A//www.toyotafinancial.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyotafinancial.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405081947id_/http%3A//www.toyotafinancial.com/legal/privacy.html) for the most accurate reproduction.*
 
 # ToyotaFinancial.com - Privacy Policy and Terms of Use
 
