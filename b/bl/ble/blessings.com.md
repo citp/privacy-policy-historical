@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020639id_/http%3A//www.blessings.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306161907id_/http%3A//www.blessings.com/priv.html) for the most accurate reproduction.*
 
 # Privacy
 
