@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207093400id_/http%3A//home.verio.com/company/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217233248id_/http%3A//verio.com/company/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Verio.com - Company Information -VERIO Privacy Policy
+
+  
+
 
 ## VERIO Privacy Policy
 
@@ -20,7 +23,7 @@ In addition, VERIO shares its web site usage information about visitors to VERIO
 
 **Opt Out & Modifications**
 
-Customers may opt out of receiving notices of new or upgraded products from VERIO and VERIO partners by sending a request to [privacy@verio.net](mailto:privacy@verio.net). In this request to [privacy@verio.net](mailto:privacy@verio.net), customers must identify: service purchased from Verio, domain name (if applicable), contact information, and the date the service was purchased. However, customers may not opt out of receiving information from VERIO which is essential for maintaining or updating customers' accounts or system information. 
+Customers may opt out of receiving notices of new or upgraded products from VERIO and VERIO partners by filling out this [ on-line No Solicitation Request form](https://web.archive.org/web/20011217233248id_/http%3A//verio.com/company/policies/optoutdb_form.cfm). However, customers may not opt out of receiving information from VERIO which is essential for maintaining or updating customers' accounts or system information. 
 
 Also, DoubleClick provides an opportunity to opt out of DoubleClick's targeting program at <http://www.privacychoices.org/optout.htm>. 
 
@@ -41,4 +44,4 @@ VERIO also will not, except for reasons stated below, disclose to third parties 
 
 
 
-VERIO disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. VERIO will, however, review, delete or block access to communications that may harm VERIO, its customers or third parties. The grounds on which VERIO may take such action include, but are not limited to, actual or potential violations of VERIO's [Acceptable Use Policy.](https://web.archive.org/web/20001207093400id_/http%3A//home.verio.com/company/policies/aup.cfm)
+VERIO disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. VERIO will, however, review, delete or block access to communications that may harm VERIO, its customers or third parties. The grounds on which VERIO may take such action include, but are not limited to, actual or potential violations of VERIO's [Acceptable Use Policy.](https://web.archive.org/web/20011217233248id_/http%3A//verio.com/company/policies/aup.cfm)
