@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-xact.com privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016205618id_/http%3A//www.e-xact.com/public/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-xact.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306230410id_/http%3A//www.e-xact.com/legal) for the most accurate reproduction.*
 
 # E-xact Transactions Ltd. - Privacy Statement
 
@@ -34,7 +34,7 @@ We use email links located throughout our website to allow you to contact us dir
 **Choice/Opt-Out Policy  
 **This site gives users the following options for removing information from our database to not receive future communications.
 
-You can send email to [comments@e-xact.com](https://web.archive.org/web/20041016205618id_/http%3A//www.e-xact.com/public/comments@e-xact.com)
+You can send email to [comments@e-xact.com](https://web.archive.org/web/20050306230410id_/http%3A//www.e-xact.com/comments@e-xact.com)
 
   You can send mail to the following postal address:       
 304-134 Abbott Street  
@@ -47,7 +47,7 @@ V6B 2K4 Canada
 **Correct/Update Policy  
 **This site gives users the following options for changing and modifying information previously provided.
 
-You can send email to [comments@e-xact.com](https://web.archive.org/web/20041016205618id_/http%3A//www.e-xact.com/public/comments@e-xact.com)
+You can send email to [comments@e-xact.com](https://web.archive.org/web/20050306230410id_/http%3A//www.e-xact.com/comments@e-xact.com)
 
   You can send mail to the following postal address:        
 304-134 Abbott Street  
@@ -66,7 +66,7 @@ If you would like to correct and/or update the contact information that you subm
 **E-xact Transactions Ltd. will obtain written or active email consent from the user if the use of the information collected from the user is in a manner different from that stated at the time of collection.
 
 **Contacting the Website  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact our Webmaster at: [webmaster@e-xact.com](https://web.archive.org/web/20041016205618id_/http%3A//www.e-xact.com/public/webmaster@e-xact.com) or mail us at:
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact our Webmaster at: [webmaster@e-xact.com](https://web.archive.org/web/20050306230410id_/http%3A//www.e-xact.com/webmaster@e-xact.com) or mail us at:
 
 E-xact Transactions Ltd.  
 304-134 Abbott Street  
