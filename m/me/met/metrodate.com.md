@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603015211id_/http%3A//www.metrodate.com/articles/privacypolicy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2001-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011030013431id_/http%3A//www.metrodate.com/articles/privacypolicy.stm) for the most accurate reproduction.*
 
 # Metrodate.com - aboutus
 
@@ -34,11 +34,11 @@ Our audio technology provider, PageTalk.com, uses your basic personal informatio
 
 ## Choice / Opt-Out
 
-This site gives users the option for removing their information from our database to not receive future communications or to no longer receive our service. This can be accomplished from the Member Services pages.
+This site gives users the option for removing their information from our database to not receive future communications or to no longer receive our service. This can be accomplished from [here](https://web.archive.org/asp/freeze.asp).
 
 ## Correct / Update
 
-This site allows users the ability to change and modify information previously provided through the Member Services pages.
+This site allows users the ability to change and modify information previously provided through the [Member Services](https://web.archive.org/asp/memberservices.asp) pages.
 
 ## Contacting the Web Site
 
