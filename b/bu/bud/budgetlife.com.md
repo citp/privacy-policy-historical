@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetlife.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204114100id_/http%3A//www.budgetlife.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetlife.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614003448id_/http%3A//www.budgetlife.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,11 +20,11 @@ Because we want to demonstrate our commitment to your privacy, we are posting th
 
 7.   How you can correct any inaccuracies in the information. 
 
-Interlinx, LLC collects information at this website on our own behalf, and on behalf of our customers, so that they may respond to our users' requests for assistance.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  We collect personally identifiable information at several different locations on our website:  
+We collect information at this website on our own behalf, and on behalf of our customers, so that they may respond to our users' requests for assistance.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  We collect personally identifiable information at several different locations on our website:  
  
 
 **Insurance Request**  
-When requesting assistance from a life or health insurance agent, a user is required to give their contact information (such as name, phone, and email address).  This information is used to contact the user to provide the requested assistance.  It is optional for the user to provide additional information (such as age, gender, and health information), but encouraged so the agent can more readily respond to the user's request for assistance. All Insurance Request information is shared with one and only one agent, a third party customer of Interlinx, LLC, so that the agent can provide the requested assistance. 
+When requesting assistance from a life or health insurance agent, a user is required to give their contact information (such as name, phone, and email address).  This information is used to contact the user to provide the requested assistance.  It is optional for the user to provide additional information (such as age, gender, and health information), but encouraged so the agent can more readily respond to the user's request for assistance. All Insurance Request information is shared with one and only one agent, a third party customer of Budget Life, so that the agent can provide the requested assistance. 
 
   **  
 Life Insurance Agent Specials**  
@@ -52,16 +52,16 @@ We use Internet industry standard practices using IP addresses to track visits, 
 
 When our request form asks you to enter sensitive information (such as age, gender or health information), that information is encrypted and is protected with industry standard SSL (Secure Sockets Layer) software.  While on a secure page, such as our Insurance Request form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just "surfing." 
 
-If you have any questions about the security at our website, you can send an email to [info@interlinx.com](mailto:info@interlinx.com).
+If you have any questions about the security at our website, you can send an email to [info@budgetlife.com](mailto:info@budgetlife.com).
 
   
 **Correcting/Updating Personal Information:  
-**If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, you may email Customer Service at [ info@interlinx.com](mailto:info@interlinx.com), or phone or mail us at: 
+**If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, you may email Customer Service at [ info@budgetlife.com](mailto:info@budgetlife.com), or phone or mail us at: 
 
-Interlinx, LLC  
-351 Elmington  
-Canton, MI 48188  
-(734) 844-3799. 
+Budget Life Insurance  
+772 Green Rd. Suite 107  
+Ypsilanti, MI 48188  
+(734) 482-2904. 
 
   
 **Choice/Opt-out   
