@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mgmmiragevacations.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610141610id_/http%3A//www.mgmmiragevacations.com//privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgmmiragevacations.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217084427id_/http%3A//www.mgmmiragevacations.com//privacy.asp) for the most accurate reproduction.*
 
-# MGM MIRAGE Vacations - Las Vegas vacation travel package Las Vegas attractions MGM Grand Hotel & Casino Bellagio, Las Vegas Sale, New York-New York, Treasure Island, The Mirage Hotels & Casinos
+# MGM MIRAGE Vacations - Las Vegas vacation travel packages Las Vegas attractions MGM Grand, Bellagio, New York-New York, Treasure Island, Mirage Hotel & Casino, Las Vegas strip hotels special deal wedding package golf package Las Vegas air/hotel package
 
 Introduction  
 MGM MIRAGE Vacations believes in protecting your privacy. We provide this privacy policy to help you better understand the ways in which your personal information is gathered from our [MGM MIRAGE Vacations website](http://www.mgmmiragevacations.com/) and utilized. Be assured that the information you provide to us via the mgmmiragevacation.com site is confidential. We do not rent or sell your personal information to any third party company or agency without your authorization.
