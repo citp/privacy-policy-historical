@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the queendom.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621172901id_/http%3A//www.queendom.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queendom.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202214837id_/http%3A//www.queendom.com/about/privacy.html) for the most accurate reproduction.*
 
 # Queendom's Privacy Policy
 
+   |  |   
+   
 |  |  |  | 
 
 ** At Queendom.com, your privacy and peace of mind is our top priority. **  
@@ -12,7 +14,7 @@ Collection of personally identifiable data
 
 > Queendom.com does not collect personally identifiable information from any of our visitors without prior consent. 
 > 
-> For My Profile members, the results of each test they take are automatically saved in their My Profile account. This information is secure and protected by a password and login name. Users should keep passwords carefully guarded as they would any other personal information. My Profile takes all necessary precautions to protect this information from third parties, and does not provide any third party access to these results. Users may choose to give therapists or counselors access to their account, but these parties cannot alter the data. My Profile does occasionally use test results for statistical purposes, but only in an aggregated and anonymous form. 
+> For My Profile members, the results of each test they take are automatically saved in their My Profile account. This information is secure and protected by a password and login name. Users should keep passwords carefully guarded as they would any other personal information. My Profile takes all necessary precautions to protect this information from third parties, and does not provide any third party access to these results. My Profile does occasionally use test results for statistical purposes, but only in an aggregated and anonymous form. 
 > 
 > When visitors submit stories to the Fine Kettle of Fish or questions to Chaise Longue, they may be sharing very personal information. They are, however, given the option of excluding their name, e-mail, age, and place of residence. All information that is voluntarily submitted may be posted in these sections. 
 > 
@@ -23,14 +25,14 @@ Collection of personally identifiable data
   
 Collection of test data for validation studies
 
-> We often gather data for further validatation of our tests. Visitor have the choice of allowing or not the use of their information for validation purposes. When conducting validation studies, we always use aggregated (collective) data, never individual identifiable information (name, place of residence, etc.). 
+> We often gather data for further validatation of our tests. Visitors have the choice of allowing or not the use of their information for validation purposes. When conducting validation studies, we always use aggregated (collective) data, never individual identifiable information (name, place of residence, etc.). 
 > 
 > Unless otherwise specified, no records of scored tests and quizzes are kept.   
   
   
 Collection of e-mail addresses
 
-> Queendom.com never sends unsolicited e-mails nor spam. Our mailing lists never sold nor shared. 
+> Queendom.com never sends unsolicited e-mails nor spam. Our mailing lists are never sold nor shared. 
 > 
 > _Mailing lists and newsletters_. Queendom.com sends regular newsletters to subscribers to Queendom's Newsletter and My Profile members. Both of these lists are opt-in. 
 > 
@@ -41,7 +43,7 @@ Collection of e-mail addresses
 > 
 
 > 
-> _A Fine Kttle of Fish and Chaise Longue_. Visitors have the option of including an e-mail address when submitting a story or question to the Fine Kettle of Fish or Chaise Longue. These e-mail addresses are not sold or stored in mailing lists, but they are sometimes posted on Queendom.com by request only (and after an email to the individual to verify). 
+> _A Fine Kettle of Fish and Chaise Longue_. Visitors have the option of including an e-mail address when submitting a story or question to the Fine Kettle of Fish or Chaise Longue. These e-mail addresses are not sold or stored in mailing lists, but they are sometimes posted on Queendom.com by request only (and after an e-mail to the individual to verify). 
 > 
 > _QuizCards_. We do not capture or collect the e-mail addresses of any senders or receivers.   
   
@@ -50,4 +52,9 @@ Advertisers and other sites
 
 > Queendom.Com works with a third party that serves ads to this site. Queendom.com does not control the cookies that may be assigned by advertisers or networks when you click on a banner. 
 > 
-> Queendom.com is not responsible for the content or the privacy policies of any of the sites that we link to. 
+> Queendom.com is not responsible for the content or the privacy policies of any of the sites that we link to.   
+  
+  
+Copyright© 1996 - 2003 [QueenDom.Com](http://www.queendom.com/)TM  
+  
+
