@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the fema.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604183818id_/http%3A//www.fema.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fema.gov privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206185345id_/http%3A//www.fema.gov/help/privacy.shtm) for the most accurate reproduction.*
 
-# FEMA_Viewer Privacy and Security Notice
+# FEMA: Viewer Privacy and Security Notice
 
   
 
 
-### Viewer Privacy and Security Notice
+Viewer Privacy and Security Notice
 
-**Introduction**
+Introduction
 
 1\. This World Wide Web (WWW) site is provided as a public service by the Federal Emergency Management Agency, FEMA. 
 
