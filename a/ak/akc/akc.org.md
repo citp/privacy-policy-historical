@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621062208id_/http%3A//www.akc.org/akc/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005841id_/http%3A//www.akc.org/akc/privacystatement.cfm) for the most accurate reproduction.*
 
 # AKC Web site Privacy Statement
 
-At The American Kennel Club, we are committed to protecting your privacy. We use the information we collect about you on our Web site to process your orders, respond to information requests, provide a more personalized experience while you are browsing or shopping in our Online Store, and create a better experience for our Web site users. Please read on for more details about our Web site privacy policy.
+At The American Kennel Club, we are committed to protecting your privacy. We use the information we collect about you on our Web site to process your orders, respond to information requests, provide a more personalized experience while you are browsing or shopping in our Online Store, and create a better experience for our Web site users. Please read on for more details about our Web site privacy policy. 
 
 **What information do we collect? How do we use it?**  
 An account is required for you to utilize certain services on our Web site, such as making purchases in our Online Store, using Your AKC, and donating to the AKC CAR Canine Support and Relief Fund. When you create an account, we ask for personally identifiable information, that is, information which tells us specifically who you are. We need to know your name, mailing address, phone number, email address, credit card number and expiration date so that we can process and fulfill your purchase orders and notify you of your order status. We also ask for other non-personally identifiable information, such as whether you own an AKC registered dog. We use the information we collect to customize your experience and provide services and features that most likely meet your needs so that your use of our Web site is more enjoyable.
 
-In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you sign up for email message groups. We use this information to notify you of changes to our Web site, of new products in our Online Store and of other promotions.
+In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you sign up for email message groups and newsletters. We use this information to send you the email newsletters you request, to notify you of changes to our Web site, of new products in our Online Store and of other promotions.
 
 We will ask you for personally identifiable information when you take out a subscription to our magazines. AKC uses a reputable third party service provider to collect your personally identifiable information to process and fulfill your subscription request. This third party service provider collects and stores this information in a secure, password-protected database. Your personally identifiable information will only be used by the third party service provider to process and fulfill your subscription request and other uses only as directed by AKC. 
 
@@ -45,5 +45,3 @@ By using our Web site, you consent to the collection and use of this information
 
 **Tell us what you think**  
 AKC welcomes your questions and comments about privacy and our Web site. Please send e-mail to [info@akc.org](mailto:info@akc.org).
-
-**Updated:** August 6, 2002
