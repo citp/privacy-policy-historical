@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeegeek.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008035310id_/http%3A//coffeegeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeegeek.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407172959id_/http%3A//www.coffeegeek.com/resources/privacy) for the most accurate reproduction.*
 
 # CoffeeGeek - CoffeeGeek Privacy Policies
 
@@ -10,7 +10,7 @@ That's the basis of our privacy policy around here. I don't like spam. I get rea
 
 With that said, there's things you should know about how the CoffeeGeek website is run, and the underlying technology that runs it. CoffeeGeek is one of the more database-intensive sites on the Internet today, and it offers very complex tools and programming to allow sometimes unprecedented levels of interactivity. This document will underline exactly how this technology affects you, or more importantly, your information.
 
-This document in some ways is a supplement to the [CoffeeGeek User Terms and Conditions](https://web.archive.org/terms), and our [Copyright Statement](https://web.archive.org/copyright), both of which may be referred to in this document.
+This document in some ways is a supplement to the [CoffeeGeek User Terms and Conditions](https://web.archive.org/resources/terms), and our [Copyright Statement](https://web.archive.org/resources/copyright), both of which may be referred to in this document.
 
  **Members vs. Visitors**  
 CoffeeGeek has two types of site users - those who are registered with the site ("Members"), and those who aren’t. CoffeeGeek is optimized for use by its Members, but Visitors can also get a great experience from the site. 
