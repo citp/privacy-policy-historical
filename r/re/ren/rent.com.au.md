@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406045834id_/http%3A//www.rent.com.au/about_rent5.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212132633id_/http%3A//www.rent.com.au/about_rent5.asp) for the most accurate reproduction.*
 
 # RENT | About
 
