@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sillydog.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604065232id_/http%3A//sillydog.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sillydog.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206215814id_/http%3A//www.sillydog.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy- Silly Dog 701
 
@@ -34,11 +34,11 @@ _(The service of electronic newsletters is not yet implemented.)_ We will offer 
 
 2\. Message boards/forums
 
-Users of the site's Message Boards and Forums such as [Netscape Browser Archive Forum](https://web.archive.org/forum) does not require to register any user information. Name is needed for posting message, however, under no circumstances we insist you to provide full name and nothing more than email address would be asked to provide. E-mail address might be provided at your preference, if you wish to take extra features. 
+Users of the site's Message Board (a.k.a. Forum) such as [Silly Dog 701 Message Centre](https://web.archive.org/forum) do not require to register any personal information. Name is needed for posting message, however, under no circumstances we insist you to provide full name and nothing more than email address would be asked to provide. You do not have to give out your real name. 
 
 3\. "E-mail this to a friend" Service
 
-_(The service of "E-mail this to a friedn" is not yet implemented.)_ Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
+Our site users can choose to electronically forward topic (thread) from the message board to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
 4\. Polling
 
@@ -47,10 +47,6 @@ We may offer interactive polls to users so they can easily share their opinions 
 5\. Surveys
 
 **Silly Dog 701** may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
-
-Children
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
 
 Usage tracking
 
