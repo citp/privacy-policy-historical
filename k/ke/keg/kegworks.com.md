@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204225307id_/http%3A//kegworks.com/shoppingcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207032919id_/http%3A//www.kegworks.com/shoppingcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help section - KegWorks.com
 
-|   |  [KegWorks.com](https://web.archive.org/web/20041204225307id_/http%3A//kegworks.com/shoppingcart/customer/home.php) :: Help :: 
+|   |  [KegWorks.com](https://web.archive.org/web/20050207032919id_/http%3A//www.kegworks.com/shoppingcart/customer/home.php) :: Help :: 
 
 |   Privacy Statement  
 ---  
@@ -32,16 +32,14 @@ If you have any questions about this privacy statement, the practices of this si
 How to calculate shipping
 
 Questions...email us at [sales@kegworks.com](mailto:sales@kegworks.com)Phone Orders Accepted: Monday-Friday 9am-5:00pm Eastern Standard Time  
-Toll Free#(US ONLY) 1-877-636-3673 Local# 716-856-9675  
+Toll Free#(US ONLY) 1-877-636-3673 Local# 716-856-9675
+
 KegWorks.com 737 Main St., Suite 150, Buffalo, NY 14203
 
 Retail Outlet at the above address is open 9am - 5pm M-F  
 737 Main St. Downtown Buffalo (Between W. Tupper and Goodell)
 
-    |  | Shipping Information  
----  
-[](http://www.kegworks.com/shoppingcart/customer/pages.php?pageid=58)  
-Mailing List  
+    |  | Mailing List  
 ---  
 Join the KegWorks.com mailing list and gain access to exclusive "secret" sales, a monthly newsletter to keep you up to date on what's happening with us.   
   
@@ -49,5 +47,5 @@ Subscribe to the monthly
 newsletter !   
   
     
-[](https://web.archive.org/web/20041204225307id_/http%3A//kegworks.com/shoppingcart/customer/pages.php?pageid=7)   
+[](https://web.archive.org/web/20050207032919id_/http%3A//www.kegworks.com/shoppingcart/customer/pages.php?pageid=7)   
 
