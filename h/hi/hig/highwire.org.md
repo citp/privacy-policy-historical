@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612073129id_/http%3A//www.highwire.org/about/privacy.dtl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2004-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041227053915id_/http%3A//www.highwire.org/about/privacy.dtl) for the most accurate reproduction.*
 
-# HighWire -- Privacy Policy
+# HighWire Press -- Privacy Policy
 
 **Privacy Policy for HighWire Press (highwire.stanford.edu)**
 
