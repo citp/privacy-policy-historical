@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the nextel.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627211918id_/http%3A//nextel.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextel.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204222947id_/http%3A//www.nextel.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Nextel - Online Privacy Policy
 
-Nextel Communications respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. If you have any questions about this Online Privacy Policy, please [contact Customer Care online](https://web.archive.org/NASApp/care/WCGeneralQuestionsFeedbackServlet). 
+Nextel Communications respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. 
 
 **Protecting the Privacy of Children**  
 Nextel does not market to children under the age of 13. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you're under 13, please don't provide any personally identifying information during your visit to nextel.com. 
 
 **The Information We Collect**  
-The information gathered by nextel.com falls into two categories: (1) information supplied by visitors to the site when they register or initiate transactions, and (2) tracking information gathered as visitors navigate through the nextel.com site. Third-party providers, whose sites are featured on and accessed via our site, may gather information as well. 
+The information gathered by nextel.com generally falls into two categories: (1) information supplied by visitors to the site when they register or initiate transactions, and (2) tracking information gathered as visitors navigate through the nextel.com site. Third-party providers, whose sites are featured on and accessed via our site, may gather information as well.
 
 The information you provide us during a visit to nextel.com helps us to improve the quality and utility of our site. The more information you share with us, the better we can serve your needs.
 
-When you purchase phones, accessories, or additional services, we request the following information on our order form:
+When you purchase phones, accessories, or additional services, we request the following types of information on our order form:
 
   * Name
   * Shipping and/or billing address
@@ -23,7 +23,7 @@ When you purchase phones, accessories, or additional services, we request the fo
   * Social Security Number
   * Driver's license number
 
-For corporate accounts, we may also request one or more of the following:  
+For corporate accounts, we may also request one or more of the following types of information:  
 
 
   * Federal Tax ID
@@ -42,7 +42,10 @@ To take advantage of personalized services available on nextel.com, you may need
 We use this data to provide you with billing information, equipment discounts, and rate plan promotions. 
 
 **Email Addresses**  
-If you provide us your email address, from time to time we may send you emails about new products and services, or offers that we believe will interest you. We may also share your email address with providers of products or services that we think will interest you. Though we hope you'll find this information useful, if you do not wish to receive such email, please indicate, when you give us your email address, that you'd prefer not to receive such information or offers. You can always change your election by clicking on "Update Registration," which appears on the MyNextel page of our site or by just clicking on this link: [update registration information](https://web.archive.org/NASApp/registration/UpdateRegistrationServlet). You'll need your Member Name and Password to make changes to your profile. If you've forgotten your Password, you can [change your password](https://web.archive.org/web/20030627211918id_/http%3A//nextel.com/NASApp/registration/ChangeMyPasswordServlet) online. We will also use your email address to answer any email you send us. Of course, you can always elect not to receive future emails by clicking on the "unsubscribe" link that we include in all of the emails we send. 
+If you provide us your email address, from time to time we may send you emails about new products and services, or offers that we believe will interest you. We may also share your email address with providers of products or services that we think will interest you. Though we hope you'll find this information useful, if you do not wish to receive such email, please indicate, when you give us your email address, that you'd prefer not to receive such information or offers. You can always change your election by following the instructions for Accessing Your Registration Profile (below). We will also use your email address to answer any email you send us, or to follow up on your visit to nextel.com. Such follow-ups may include inquiries on transactions or submissions of information that appear incomplete. Of course, you can always elect not to receive future emails by clicking on the "unsubscribe" link that we include in all of the emails we send. 
+
+**Accessing Your Registration Profile**   
+To change your contact, phone, account or e-mail preference information, visit the "Update Registration" portion of the MyNextel page of our site, or click [update registration information](https://web.archive.org/NASApp/registration/UpdateRegistrationServlet). You'll need your Member Name and Password to make changes to your profile. If you've forgotten your Password, you can [change your password](https://web.archive.org/web/20031204222947id_/http%3A//www.nextel.com/NASApp/registration/ChangeMyPasswordServlet) online. 
 
 **Cookies**  
 To help us tailor our site to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a small entry in a text file, called a cookie, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. The help function on most browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our site that are available to other visitors. 
@@ -57,16 +60,21 @@ From time to time, we request information from users via pop-up surveys. Partici
 Of course, our site includes links to other Web sites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another Web site or purchase products or services or conduct other transactions through our Web site, use of any information you provide is governed by the privacy policy of the operator of the site you're visiting or the provider of such products or services. The provider's privacy practices may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from the site's home page or from the pages on which the products or services are offered, you should contact the provider directly for more information. 
 
 **Security**  
-The information we collect from our visitors is stored in databases we control. Physical access to the servers on which we store visitor information is restricted. We use your credit card information only to bill you for the products and services you order from us. We don't share your credit card information with anyone, except as may be necessary to process your transactions. To protect the privacy of your credit card number and other ordering information, we encrypt this information for transit over the Internet using a Secure Sockets Layer ("SSL") connection. However, as effective as modern security practices are, no physical or electronic security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted over the Internet. 
+The information we collect from our visitors is stored in databases we control. Physical access to the servers on which we store visitor information is restricted. We use your credit card information only to bill you for the products and services you order from us. We don't share your credit card information with anyone, except as may be necessary to process your transactions. To protect the privacy of your credit card number and other ordering information, we encrypt this information for transit over the Internet using a Secure Sockets Layer ("SSL") connection. However, as effective as modern security practices are, no physical or electronic security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted over the Internet.
 
 Most Web browsers allow use of an SSL connection. If your browser does not support use of an SSL connection, or if you prefer not to send your credit card number over the Internet, you can place your order by calling us toll free at 1-800-NEXTEL9 (U.S. only). 
 
 **Disclosure of Information**  
 We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our site, our customers, the public or Nextel Communications. As our business grows, we may buy or sell various assets. In the unlikely event that Nextel Communications, one of its business units, or substantially all of its assets are acquired by another company, information on our visitors would be among the transferred assets. 
 
-**Changes to This Privacy Policy**  
-This privacy policy is subject to change. The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the new policy promptly. If at any point we decide to use personally identifiable information in a manner different from what was stated at the time it was collected, we will notify you and give you an opportunity to opt out of the proposed use. By using nextel.com, you agree that your visit to our site, and any dispute over privacy, is governed by the then-current version of the Online Privacy Policy and our Visitor Agreement.
+**Retention of Information** All of the information that our visitors provide through nextel.com is retained and destroyed in accordance with the record retention policy, which covers information collected through nextel.com. Click [record retention policy](https://web.archive.org/web/20031204222947id_/http%3A//www.nextel.com/record_retention.shtml) to view the policy. You may also contact our Records Manager at [ RecordsManager@nextel.com](mailto:RecordsManager@nextel.com) if you have questions concerning the applicable retention timetable. 
 
-**This Online Privacy Policy was last revised on November 25, 2002.**
+**Changes to This Privacy Policy**  
+This privacy policy is subject to change. The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the new policy promptly. If at any point we decide to use personally identifiable information in a manner different from what was stated at the time it was collected, we will notify you and give you an opportunity to opt out of the proposed use. By using nextel.com, you agree that your visit to our site, and any dispute over privacy, is governed by the then-current version of the Online Privacy Policy and our Visitor Agreement. 
+
+**Questions or Complaints**   
+If you have any questions about, or complaints that concern, this Online Privacy Policy, please visit [Customer Care Online](https://web.archive.org/NASApp/care/WCGeneralQuestionsFeedbackServlet) or call Customer Care at 1-800-639-6111. Our representatives will respond to your inquiries or help resolve any dispute concerning this Online Privacy Policy. 
+
+**This Online Privacy Policy was last revised on August 1, 2003.**
 
 Back to Top
