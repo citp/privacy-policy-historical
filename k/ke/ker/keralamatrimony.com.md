@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralamatrimony.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020062645id_/http%3A//www.keralamatrimony.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralamatrimony.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603071909id_/http%3A//keralamatrimony.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
