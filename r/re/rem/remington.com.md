@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the remington.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202230400id_/http%3A//www.remington.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remington.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619042243id_/http%3A//www.remington.com/aboutus/privacy.htm) for the most accurate reproduction.*
 
-# On-line Privacy Policy
+# Remington Arms Company, Inc. On-Line Privacy Policy
 
 **
 
@@ -11,7 +11,7 @@ On-line Privacy Policy
 
 Your right to on-line privacy is of utmost importance. We recognize that when you choose to disclose information about yourself, you trust Remington to act in a responsible manner. We believe this information should only be used to help us provide you with better service. That's why we have put a policy in place to better explain how we protect your personal information.
 
-This policy covers Remington’s family of corporate and subsidiary web sites, which include [www.remington.com](http://www.remington.com/), [www.stren.com](http://www.stren.com/), and [www.rempac.org](http://www.rempac.org/). By visiting these sites you are under no obligation to provide any information to Remington except when necessary to receive requested products or services. We encourage you to take the time to read this privacy policy and those of any web site you visit.
+This policy covers Remington’s family of corporate and subsidiary web sites, which include [www.remington.com](http://www.remington.com/), [www.remingtonle.com](http://www.remingtonle.com/) [www.stren.com](http://www.stren.com/), and [www.rempac.org](http://www.rempac.org/). By visiting these sites you are under no obligation to provide any information to Remington except when necessary to receive requested products or services. We encourage you to take the time to read this privacy policy and those of any web site you visit.
 
 We are committed to respecting and protecting your privacy. As part of our commitment to your privacy we have outlined what information we gather from our web site users and how we use that information. Below is a summary of Remington’s on-line privacy policy.
 
@@ -47,24 +47,32 @@ Remington encourages parents to go online with their children. Parents should un
 **Use of cookies**  
 Remington’s web sites use cookies for various reasons. Cookies enable us to provide you with a better experience by allowing us to understand what areas of the web site are of interest to our visitors. This information gathered in our log files is not linked to any personally identifiable information and only utilized for aggregate statistics.
 
-Remington also uses cookies when you submit a question through our on-line help center. In this situation, a cookie will store useful information that enables our web site to remember you when you return to visit us. Remington can only read cookies from Remington web sites. If you choose to disable cookies in your browser, you can still access most of our web sites.
+Remington also uses cookies when you submit a question through our On-line Help Center or sign up through the Remington Country Magazine. In this situation, a cookie will store useful information that enables our web site to remember you when you return to visit us. Remington can only read cookies from Remington web sites. If you choose to disable cookies in your browser, you can still access most of our web sites.
 
 ****
 
 **Updating information**  
 You can help Remington maintain the accuracy of your information by notifying Remington of any changes to your address, phone number or e-mail address.
 
-If you have previously given your personal information to us through our on-line help center and no longer want to be contacted via e-mail, please visit our [Customer Login](http://remington.custhelp.com/cgi-bin/remington/custlogin) page. Once you have arrived at the site, simply follow the below steps:  
+If you have previously given your personal information to us through our On-line Help Center and no longer want to be contacted via e-mail, please visit our ["My Stuff"](http://remington.custhelp.com/) page. You can also update or change any of your personal information through this section. Once you have arrived at the site, simply follow the below steps: 
 
-
+  * Select the "My Stuff" link from the list of menu items on the [On-line Help Center home page](http://remington.custhelp.com/).
   * Login by entering your e-mail address and then click on the icon entitled "Login."
-  * Once you have reached the "Your Incidents" page, click on the gray "Customer Info" button at the bottom of the page.
-  * On the "Customer Information" page select "No" to the question, "May we contact you by e-mail in the future?" Click the gray "Save" button at the bottom of the page.
-  * You may also update your other personal information listed in the On-line Help Center database through the "Customer Information" page.
+  * Once you have reached the "My Stuff" home page, click on the "Account Profile" link at the bottom of the page.
+  * On the "Account Profile" page select "No" to the question, "May we contact you by e-mail in the future?" Click the gray "Save" button at the bottom of the page.
 
 
 
-For those users who submitted information in areas other than the On-line Help Center or if you need assistance in updating your information, please contact our Customer Support team through our [Personal Assistance](http://remington.custhelp.com/cgi-bin/remington/people) page. To aid our processing of your request, please include your contact information (name, address, e-mail), the name of the service to which you register or to which you need the changes applied, and the details of the change (e.g., update email address, unsubscribe from a newsletter). This information that you provide to Remington Customer Support will also be covered by this policy.
+If you have previously given your personal information to us through our on-line magazine and no longer want to be contacted via e-mail, please visit our ["Edit Profile"](http://www.remington.com/include/reg/update_profile.asp) page. You can also update or change any of your personal information through this section. Once you have arrived at the site, simply follow the below steps: 
+
+  * Login by entering your e-mail address and password, and then click on the icon entitled "Login."
+  * Select the "Edit Profile" link from the list of menu items under the "Member Login" section on the right-hand side of the magazine home page.
+  * Once you have reached the "Edit Profile" page, select the "Mailing Lists Information" option and click on the gray "Make my Changes" button at the bottom of the page.
+  * On the "Optional" page uncheck the box to the option. Deselecting the first option will discontinue any further communication from the Remington magazine. Deselecting the second option will prevent your information from being disclosed to a third party. Click the gray "Update" button at the bottom of the page.
+
+
+
+For those users who submitted information in areas other than the On-line Help Center or Remington Country Magazine, or if you need assistance in updating your information, please contact our Customer Support team through our ["Ask a Question"](http://remington.custhelp.com/) page. To aid our processing of your request, please include your contact information (name, address, e-mail), the name of the service to which you register or to which you need the changes applied, and the details of the change (e.g., update email address, unsubscribe from a newsletter). This information that you provide to Remington Customer Support will also be covered by this policy.
 
 ****
 
@@ -76,8 +84,8 @@ If at any time you wish to stop receiving an electronic newsletter from Remingto
 **Questions?**  
 Remington welcomes comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site and will become effective on the date that the modified policy is posted on our site.
 
-If you have any questions or concerns regarding this policy, please notify us through our [Personal Assistance](http://remington.custhelp.com/cgi-bin/remington/people) page.
+If you have any questions or concerns regarding this policy, please notify us through our ["Ask a Question"](http://remington.custhelp.com/) section of our On-line Help Center.
 
 ****
 
-**This policy was last updated on August 2, 2000.**
+**This policy was last updated on May 9, 2000.**
