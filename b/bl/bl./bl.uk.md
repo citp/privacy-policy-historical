@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bl.uk privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075845id_/http%3A//www.bl.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bl.uk privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605070435id_/http%3A//www.bl.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
