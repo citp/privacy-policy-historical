@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igl.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205015744id_/http%3A//www.casesladder.com/moreinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igl.net privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606060838id_/http%3A//www.casesladder.com/moreinfo/privacy) for the most accurate reproduction.*
 
 # Case's Ladder: Case's Ladder/eUniverse Privacy Policy
 
