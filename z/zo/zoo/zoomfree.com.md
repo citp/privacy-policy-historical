@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoomfree.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214022417id_/http%3A//zoomfree.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomfree.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621061649id_/http%3A//zoomfree.com/pp.html) for the most accurate reproduction.*
 
 # Welcome To ZoomFree
 
-**[ZOOMFREE'S PRIVACY POLICY](https://web.archive.org/web/20021214022417id_/http%3A//zoomfree.com/pp.html)**
+**[ZOOMFREE'S PRIVACY POLICY](https://web.archive.org/web/20030621061649id_/http%3A//zoomfree.com/pp.html)**
 
 * * *
 
@@ -48,7 +48,7 @@ Visitors who wish to access or change the information they provided to our Web s
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**  
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via [Email](mailto:jjb@netmgt.com).
 
-[**[ACCEPT]**](https://web.archive.org/web/20021214022417id_/http%3A//zoomfree.com/signup.html)
+[**[ACCEPT]**](https://web.archive.org/web/20030621061649id_/http%3A//zoomfree.com/signup.html)
 
 Any questions regarding this pricay policyshould be directed to:
 
