@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207080722id_/http%3A//www.askmrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621121201id_/http%3A//askmrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Ask Mr. Rebates - Privacy Policy
 
@@ -14,13 +14,13 @@ AskMrRebates.com collects two types of personally identifying information from u
 
 #### Personal Data
 
-Only a user's email address is collected when users provide registration to AskMrRebates.com. You agree that AskMrRebates.com may send you periodical emails promoting coupons, specials and other affiliated services that may be of interest to you.
+Only a user's email address is collected when users provide registration to AskMrRebates.com. You agree that AskMrRebates.com may send you periodical emails promoting coupons, specials and other affiliated services that may be of interest to you.  Email addresses are never shared or sold to third party marketers.
 
 #### Aggregated Information
 
 Aggregated information, such as which page users access or visit and information volunteered by users, is collected through various methods. For example, AskMrRebates.com collects IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers (the computers that "serve up" Web pages) automatically identify your computer by its IP address, and when you request a page from AskMrRebates.com, our servers log your IP address. AskMrRebates.com collects IP addresses for the purposes of system administration and to provide aggregate data to advertisers about the volume of use on AskMrRebates.com.
 
-**Use of Cookies**
+ **Use of Cookies**
 
 AskMrRebates.com also uses “cookies” to collect information. A cookie is a small data file that most major Web sites write to your hard drive for record keeping purposes when you visit them. Cookies allow AskMrRebates.com to measure activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences. Cookies are used by AskMrRebates.com to measure activity on the Site and to make improvements and updates based on which areas are popular and which are not.
 
@@ -42,7 +42,7 @@ AskMrRebates.com requests that children under the age of 18 do not submit or pos
 
 It is important to note that AskMrRebates.com contains links to sites other than AskMrRebates.com, and that those sites may not follow the same privacy policies as AskMrRebates.com. This can include links from advertisers, content providers and partners who may use AskMrRebates.com’s logo and or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that AskMrRebates.com would not.
 
-**USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.**
+ **USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.**
 
 AskMrRebates.com reserves the right to change this policy at any time.  
 
