@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatapower.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206232619id_/http%3A//www.tatapower.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatapower.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308110316id_/http%3A//www.tatapower.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D41) for the most accurate reproduction.*
 
 # The Tata Power Company Limited
 
