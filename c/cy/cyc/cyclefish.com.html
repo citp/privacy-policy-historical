@@ -1,0 +1,315 @@
+<!--The following is the downloaded HTML source of the cyclefish.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603093055id_/http%3A//www.cyclefish.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head> 
+	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1"> 
+    <title>CycleFish.com - Privacy Policy</title> 
+
+	<meta name="Description" content="CycleFish.com - The ultimate resource for motorcycle enthusiasts by motorcycle enthusiasts. Including motorcycle events &amp; rallies, motorcycle ride maps, motorcycle service tips, state motorcycle laws, biker forum and more.">
+	
+	<meta name="robots" content="all">
+	<meta name="author" content="CycleFish.com">
+
+	<link rel="stylesheet" type="text/css" href="master_style.css">
+
+<script type="text/javascript"> 
+<!-- 
+var isDHTML = 0; 
+var isID = 0; 
+var isAll = 0; 
+var isLayers = 0; 
+     if (document.getElementById) { 
+          isID = 1; isDHTML = 1; 
+     } 
+     else { 
+          if (document.all) { 
+               isAll = 1; isDHTML = 1; 
+          } 
+          else { 
+               browserVersion = parseInt(navigator.appVersion); 
+               if ((navigator.appName.indexOf('Netscape') != -1) && (browserVersion == 4)) { 
+                    isLayers = 1; isDHTML = 1; 
+               } 
+          } 
+     } 
+function findDOM(objectID,withStyle) { 
+     if (withStyle == 1) { 
+          if (isID) { 
+               return document.getElementById(objectID).style ; 
+          } 
+          else { 
+               if (isAll) { 
+                    return document.all[objectID].style; 
+               } 
+               else { 
+                    if (isLayers) { 
+                         return document.layers[objectID]; 
+                    } 
+               } 
+          } 
+     } 
+     else { 
+          if (isID) { 
+               return document.getElementById(objectID); 
+          } 
+          else { 
+               if (isAll) { 
+                    return document.all[objectID]; 
+               } 
+               else { 
+                    if (isLayers) { 
+                         return document.layers[objectID]; 
+                    } 
+               } 
+          } 
+     } 
+} 
+var menuTop = 45; 
+var menuLeft = 400; 
+var domSMenu = null; 
+var oldDomSMenu = null; 
+var t = 0; 
+var lDelay = 5; 
+var lCount = 0; 
+var pause = 250; 
+
+function popMenu(menuNum){ 
+     if (isDHTML) { 
+///// Sets the previous menu's visibility to hidden 
+          t = 2; 
+          if (oldDomSMenu) { 
+               oldDomSMenu.visibility = 'hidden'; 
+               oldDomSMenu.zIndex = '0'; 
+               t = 2; 
+               lCount = 0; 
+          } 
+
+///// Defines the DOMs     of the menu objects 
+          var idMenu = 'menuHead'; 
+          var domMenu = findDOM(idMenu,0); 
+
+          var idMenuOpt = 'menuHead' + menuNum; 
+          var domMenuOpt = findDOM(idMenuOpt,0);          
+
+          var idSMenu = 'menu' + menuNum; 
+          var domSMenu = findDOM(idSMenu,1); 
+///// Defines the positions of the sub-menus 
+     if (isID || isAll) {      
+          var menuLeft = (domMenu.offsetLeft) + (domMenuOpt.offsetLeft) + 3; 
+          var menuTop = (domMenu.offsetTop) + (domMenu.offsetHeight) - 7; 
+     } 
+     if (isLayers) { 
+          var menuLeft = document.layers[idMenu].layers[idMenuOpt].pageX - 5; 
+          var menuTop = domMenu.pageY + domMenu.clip.height - 5; 
+     } 
+///// Positions and shows the menu 
+     if (oldDomSMenu != domSMenu) {      
+          domSMenu.left = menuLeft; 
+          domSMenu.top = menuTop; 
+          domSMenu.visibility = 'visible'; 
+          domSMenu.zIndex = '100'; 
+          oldDomSMenu = domSMenu; 
+     } 
+///// Resets oldDom if it is the same as the current DOM 
+     else { 
+          oldDomSMenu = null; 
+          } 
+     } 
+     else { 
+          return null; 
+     } 
+} 
+
+function delayHide() { 
+///// Checks to see if there is a menu showing and whether 
+///// the global variable 't' has been set to 0 
+    if ((oldDomSMenu) && (t == 0)) { 
+///// Hides the old menu, resets menu conditions, 
+///// and stops the function running 
+        oldDomSMenu.visibility = 'hidden'; 
+        oldDomSMenu.zIndex = '0'; 
+        oldDomSMenu = null; 
+        lCount = 0; 
+        return false; 
+    } 
+
+///// Interupts the function if another menu is opened 
+    if (t == 2) { 
+          lCount = 0; 
+          return false; 
+     } 
+
+///// Repeats the function adding 1 to lCount each time until 
+///// lCount is equal to lDelay and then sets 't' to 0 so that 
+///// the menu will hide when it runs again 
+    if (t == 1) { 
+        lCount = lCount + 1; 
+        if (lDelay <= lCount) { 
+               t = 0; 
+          } 
+        if (lDelay >= lCount) { 
+               setTimeout('delayHide(' + t + ')',pause); 
+          } 
+    } 
+} 
+
+var oWidth, oHeight; 
+if (document.layers) { 
+     oWidth = window.innerWidth; oHeight = window.innerHeight; 
+     window.onresize = function() { 
+     if (window.innerWidth != oWidth || window.innerHeight != oHeight) 
+          location.reload(); 
+     } 
+} 
+
+// --> 
+</script> 
+
+</head>
+<body bgcolor="Black" text="White" link="Yellow" vlink="Yellow" alink="Yellow"> 
+      
+<map name="cfLogo">
+<area alt="" coords="1,0,9,51" href="/events">
+<area alt="" coords="11,51,280,0" href="/default.asp" shape="RECT">
+</map>
+      
+<div id="menuHead" class="menuStyle"> 
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="left" valign="bottom"><img src="/img/cfLogo_small.gif" width="280" height="50" border="0" alt="CycleFish.com Home Page" usemap="#cfLogo"></td>
+<td align="right" valign="bottom">
+
+	<a href="/login.asp" class="swlink">Login</a>&nbsp;&nbsp;
+	<a href="/userProfile.asp" class="swlink">Register</a>&nbsp;&nbsp;
+	<a href="/memberBenefits.asp" class="swlink">Member Benefits</a>&nbsp;&nbsp;
+
+</td>
+</tr>
+</tbody></table>
+
+
+<hr width="100%" size="1" color="White" noshade="">
+&nbsp;<a id="menuHead1" class="topmenuLink" href="#" onmouseout="t = 1; delayHide()" onmouseover="popMenu(1)">Hit The Road</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<!-- <a  id="menuHead2" class="topmenuLink" href="#" onMouseOut="t = 1; delayHide()" onMouseOver="popMenu(2)">Products</a>
+&nbsp;&nbsp;|&nbsp;&nbsp; -->
+<a id="menuHead3" class="topmenuLink" href="#" onmouseout="t = 1; delayHide()" onmouseover="popMenu(3)">Service</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a id="menuHead4" class="topmenuLink" href="#" onmouseout="t = 1; delayHide()" onmouseover="popMenu(4)">Resources</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a id="menuHead5" class="topmenuLink" href="#" onmouseout="t = 1; delayHide()" onmouseover="popMenu(5)">Fish Bowl</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a id="menuHead6" class="topmenuLink" href="#" onmouseout="t = 1; delayHide()" onmouseover="popMenu(6)">About Us</a>
+
+<hr width="100%" size="1" color="White" noshade="">
+</div> 
+
+<div id="menu1" class="dropmenuStyle"> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/events.asp">- Event Calendar</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/bikerfriendly.asp">- Biker Friendly</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/motorcycle_camping.asp">- Motorcycle Camping</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/ridemaps.asp">- Ride Maps</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/forum/default.asp?CAT_ID=2">- Ride Forum</a><br> 
+ 
+</div> 
+      
+     <div id="menu2" class="dropmenuStyle"> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="#">- Parts &amp; Accessories</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="#">- Apparel</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="#">- Gifts</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="#">- Our Logo'd Stuff</a><br> 
+ 
+</div> 
+
+<div id="menu3" class="dropmenuStyle"> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/techtips.asp">- Tech Tips</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/serviceTracker.asp">- Service Tracker</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/bikerfriendly.asp?showOnly=shops">- Locate Service</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/forum/default.asp?CAT_ID=3">- Tech Forum</a><br> 
+</div> 
+
+<div id="menu4" class="dropmenuStyle"> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/statelaws.asp">- Motorcycle Laws</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/riderTraining.asp">- Rider Training</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/everything_sturgis.asp">- Sturgis Rally Info</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/motorcycle_books.asp">- Books &amp; Videos</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/links.asp">- Links</a><br> 
+</div> 
+
+<div id="menu5" class="dropmenuStyle"> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/forum">- Forum</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/photo_galleries.asp">- Photo Gallery</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/biker_humor.asp">- Biker Humor</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/greeting_cards.asp">- Biker Greetings</a><br> 
+</div> 
+
+<div id="menu6" class="dropmenuStyle"> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/memberBenefits.asp">- Member Benefits</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/aboutus.asp">- About Us</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/contact.asp">- Contact Us</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="privacy.asp">- Privacy Policy</a><br> 
+     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/advertise.asp">- Advertise With Us</a><br> 
+</div> 
+
+
+<table width="790" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">
+
+
+
+
+<p><table width="100%" border="0" cellspacing="0" cellpadding="4" bgcolor="#303030">
+	<tbody><tr>
+		<td valign="bottom" class="title3">CycleFish.com Privacy Policy</td>
+		<td align="right" valign="bottom">
+		
+		</td>
+	</tr>
+</tbody></table></p>
+
+<p><table width="790" border="0" cellspacing="0" cellpadding="9"><tbody><tr><td>
+
+
+
+
+
+	<title>CycleFish.com - Privacy Policy</title>
+
+
+
+
+<p>We can be contacted through our <a href="/contact.asp">Contact Us</a> or by email at; <a href="mailto:info@cyclefish.com">info@cyclefish.com</a>, page should you have any questions or concerns regarding our privacy policy.</p>
+
+<p>We assign a unique identifier to each user that signs up on our site. We do not share personal information with any participating merchants or other third parties. We use this unique identifier in order to provide you with the most relevant content on our site based on the information you have supplied.</p>
+
+<p>We may also from time to time send emails, directly from us and never from a third party, letting you know of new features and content on CycleFish.com in which you may have an interest.  You may at any time request to not receive these emails and continue to use all of the other services alailable only to registered members on our site.</p>
+
+<p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail to <a href="mailto:opt-out@cyclefish.com">opt-out@cyclefish.com</a>.</p>
+
+<p>With respect to cookies: We use cookies ONLY to store temporary, non-private information during your session on the site.  Absolutely NO information you provided to us during your registration will ever be stored in a cookie.  All CycleFish.com cookies are temporary and destroyed immediately upon leaving our website.</p>
+
+<p>CycleFish.com will never ask you for in any form, your home address, phone number, social security number or any banking or financial data.</p>
+
+<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.</p>
+
+
+
+
+
+
+
+
+</td></tr>
+</tbody></table></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p><hr width="90%" size="1" color="Silver" noshade="">
+<p align="center" class="title1">
+	<a href="/aboutus.asp#copyright" class="swlink">© 2004 CycleFish.com</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/aboutus.asp#disclaimer" class="swlink">Disclaimer</a></p>
+</td></tr></tbody></table>
+ 
+</body></html>
