@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603003619id_/http%3A//www.aleks.com/privacy-ENGLISH.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115652id_/http%3A//www.aleks.com/privacy-ENGLISH.html) for the most accurate reproduction.*
 
 # ALEKS Privacy Statement
 
@@ -6,18 +6,18 @@
 
 ### PRIVACY STATEMENT
 
-> This privacy statement discloses the privacy practices of **ALEKS** Corporation (" **ALEKS** ") for our websites: [www.aleks.com](http://www.aleks.com/), [www.highedmath.aleks.com](http://www.highedmath.aleks.com/), [www.business.aleks.com](http://www.business.aleks.com/), [www.sbsci.aleks.com](http://www.behsci.aleks.com/), [www.highedstudent.aleks.com](http://www.highedstudent.aleks.com/), and [www.bussinessstudent.aleks.com](http://www.businessstudent.aleks.com/).
+> This privacy statement discloses the privacy practices of ALEKS Corporation ("ALEKS") for our websites: [www.aleks.com](http://www.aleks.com/), [www.highedmath.aleks.com](http://www.highedmath.aleks.com/), [www.business.aleks.com](http://www.business.aleks.com/), [www.sbsci.aleks.com](http://www.behsci.aleks.com/), [www.highedstudent.aleks.com](http://www.highedstudent.aleks.com/), and [www.bussinessstudent.aleks.com](http://www.businessstudent.aleks.com/).
 
-**ALEKS** also operates a web site directed to K-12 students using **ALEKS** through their school. This website, [www.k12.aleks.com](http://www.k12.aleks.com/), has a separate privacy statements which is very different than this one. If you would like to see the privacy statement for our K-12 web site, please click [here](http://www.k12.aleks.com/privacy.html).
+ALEKS also operates a web site directed to K-12 students using ALEKS through their school. This website, [www.k12.aleks.com](http://www.k12.aleks.com/), has a separate privacy statements which is very different than this one. If you would like to see the privacy statement for our K-12 web site, please click [here](http://www.k12.aleks.com/privacy.html).
 
-**ALEKS** agrees to notify you of:
+ALEKS agrees to notify you of:
 
   1. What personally identifiable information of yours or third party personally identification is collected from you through our web sites
   2. The organization collecting the information
   3. How the information is used
   4. With whom the information may be shared
   5. What choices are available to you regarding collection, use and distribution of the information
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under **ALEKS** ' control
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ALEKS' control
   7. How you can correct any inaccuracies in the information
   8. The special policy we follow with respect to information regarding children under the age of 13.
 
@@ -27,7 +27,7 @@ If you feel that we are not abiding by its posted privacy policy, you should con
 
 > **Information Collection and Use**
 
-> **ALEKS** is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. **ALEKS** collects information from our users at several different points on our website, including information about your knowledge level as you use our services in order to provide you with the next level of tutoring services suitable to your needs.
+> ALEKS is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. ALEKS collects information from our users at several different points on our website, including information about your knowledge level as you use our services in order to provide you with the next level of tutoring services suitable to your needs.
 
 **Registration**
 
@@ -55,11 +55,11 @@ If you feel that we are not abiding by its posted privacy policy, you should con
 
 **Links**
 
-> This web site contains links to other sites. Please be aware that **ALEKS** is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+> This web site contains links to other sites. Please be aware that ALEKS is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Updates and Student Reports**
 
-> We will notify you of new **ALEKS** features and updates via email, unless you remove the checkmark next to the text requesting such notification which appears under our request for your email address in our Account Creation forms. We also will send you a student report of your or your child/children's progress every two weeks via email, unless you remove the checkmark next to the text requesting such reports which appears under our existing student account or new student registration information in our Account Creation forms. In order to continue to receive student reports while subscribing to our services, you must provide us with your new email address each time you change it.
+> We will notify you of new ALEKS features and updates via email, unless you remove the checkmark next to the text requesting such notification which appears under our request for your email address in our Account Creation forms. We also will send you a student report of your or your child/children's progress every two weeks via email, unless you remove the checkmark next to the text requesting such reports which appears under our existing student account or new student registration information in our Account Creation forms. In order to continue to receive student reports while subscribing to our services, you must provide us with your new email address each time you change it.
 
 **Surveys & Contests**
 
@@ -67,7 +67,7 @@ If you feel that we are not abiding by its posted privacy policy, you should con
 
 **Tell-A-Friend**
 
-> If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. **ALEKS** will automatically send the friend a one-time email inviting them to visit the site. **ALEKS** stores this information for the sole purpose of sending this one-time email. The friend may request the removal of this information from their database by clicking on the removal link at the bottom of the invitation.
+> If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. ALEKS will automatically send the friend a one-time email inviting them to visit the site. ALEKS stores this information for the sole purpose of sending this one-time email. The friend may request the removal of this information from their database by clicking on the removal link at the bottom of the invitation.
 
 **Security**
 
@@ -107,7 +107,7 @@ If you feel that we are not abiding by its posted privacy policy, you should con
 
 > We will not knowingly collect online contact information from a child under 13 without prior verifiable parental consent or direct parental notification of the nature and intended use of this information, which shall include an opportunity for the parent to prevent use of the information and participation in the activity. Where prior verifiable parental consent is not obtained, online contact information shall only be used to directly respond to the child's request and shall not be used to re-contact the child for other purposes.
 > 
-> Children under 13 years old may use **ALEKS** at [www.aleks.com](http://www.aleks.com/) only if the child's parent or guardian has paid for such use with such parent or guardian's credit card; such payment is verifiable parental consent. Children under 13 years old are not permitted to use any **ALEKS** "guest" or "free trial" features, because we are unable to obtain verifiable parental consent for their use of such features.
+> Children under 13 years old may use ALEKS at [www.aleks.com](http://www.aleks.com/) only if the child's parent or guardian has paid for such use with such parent or guardian's credit card; such payment is verifiable parental consent. Children under 13 years old are not permitted to use any ALEKS "guest" or "free trial" features, because we are unable to obtain verifiable parental consent for their use of such features.
 > 
 > We will not collect personally identifiable offline contact information from children under 13 without prior verifiable parental consent. We will not distribute to third parties any personally identifiable information collected from a child under 13 without prior verifiable parental consent. We will not give the ability to children under 13 to publicly post or otherwise distribute personally identifiable contact information without prior verifiable parental consent, and will make best efforts to prohibit a child from posting any contact information. We will not entice a child under 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in such activity.
 
