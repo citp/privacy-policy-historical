@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611140143id_/http%3A//www.emblibrary.com/emblibrary/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205082400id_/http%3A//www.emblibrary.com/emblibrary/privacy.asp%3F) for the most accurate reproduction.*
 
 # Privacy Statement for Embroidery Library
 
-Header
-
-          
-
+|    |  Footer  
+---|---|---  
+  
 ## Privacy Statement for Embroidery Library Inc.  
-This page was last edited on 03/17/00
+This page was last edited on 10/12/00
 
 [](https://www.truste.org/validate/5202)
 
@@ -39,7 +38,11 @@ Our site uses cookies to keep track how customers use the store so that we can m
 
 Our site's registration form requires users to give us contact information (such as their name and email address).   
 The registration form also collects your address and phone number.  This information is completely optional and is used to populate the billing address in the Purchase form.    
-The customer's contact information is used to contact the visitor if necessary. We do not send out any junk email and you will not be contacted unless you request that us to contact or we find a issue with your order in which we need your input.   
+The customer's contact information is used to contact the visitor if necessary.  
+Reasons for email originating from the Embroidery Library include; issues with an order that the customer has placed and updates to our privacy statement that include any changes with how we use your information.  
+We do not send out any junk email.   
+Emails are sent on occasion with updates about the Embroidery Library.  
+You will have an option to be removed from our update email list.  To do this go to the Lobby page after you have signed in to the store and click on the Shopper Update Link.  
 This information is not used in any other way and is _never_ shared with any other companies. 
 
  **Links**
@@ -49,19 +52,19 @@ As privacy practices may be different at other sites please review each site's p
 
  **Orders**
 
-Our site uses an order form for customers to request products. We collect visitor's billing and financial information (such as their account or credit card numbers). Financial information that is collected is used only to bill the user for products and services.  This information is used only for that purpose and is _never_ shared with any other person or company.  We do use a third party ([Cybercash](http://www.cybercash.com/)) to process credit cards.  
+Our site uses an order form for customers to request products. We collect visitor's billing and financial information (such as their account or credit card numbers). Financial information that is collected is used only to bill the user for products and services.  This information is used only for that purpose and is _never_ shared with any other person or company.  We do use a third party ([Verisign](http://www.verisign.com/payment/index.html)) to process credit cards.  
 We don't store credit card information for any use other than processing the credit card transactions.
 
-Our store maintains a list of receipts or Order History for each customer.  This information is accessible by logging in to the store and then clicking on the Order History link located near the bottom of the Lobby page.  
+Our store maintains a list of receipts or Order History for each customer.  This information is accessible by logging in to the store and then clicking on the Order History link located near the bottom of the Lobby page, or on your Basket page.  
 This information is for your convenience.  It is not available to anyone else.  
 Your credit card information is not stored in your Order History. 
 
 **Newsletter**
 
-The Embroidery Library uses the services at Onelist to distribute a newsletter.  
-Onelist does collect information at their site.  
-To join our newsletter please visit their site at [http://www.onelist.com](http://www.onelist.com/).  If you wish to unsubscribe you may do so by sending a blank email to [emblibrary-unsubscribe@eGroups.com](mailto:emblibrary-unsubscribe@eGroups.com).  
-For more detail about Onelist please see their FAQ at <http://www.onelist.com/help/topfaq.html>.
+The Embroidery Library uses the services at Egroups to distribute a newsletter.  
+Egroups does collect information at their site.  
+To join our newsletter please visit their site at [http://www.egroups.com](http://www.egroups.com/).  If you wish to unsubscribe you may do so by sending a blank email to [emblibrary-unsubscribe@eGroups.com](mailto:emblibrary-unsubscribe@eGroups.com).  
+For more detail about Egroups please see their FAQ at <http://www.egroups.com/help/index.html>.
 
 ## Security
 
@@ -73,7 +76,8 @@ This site gives users the following options for changing and modifying informati
 
   1. You may email [stitch@emblibrary.com](mailto:stitch@emblibrary.com)
   2. Or, visit <http://www.emblibrary.com/emblibrary/shopper_update.asp> after you have logged into the store, or click on the Update Shopper link located at the bottom of our Lobby page.
-  3. To remove your information from our database, Please send an email to [stitch@emblibrary.com](mailto:stitch@emblibrary.com) asking that your information be removed from our database.
+  3. If you do not wish to receive updates by email please go to the Lobby page after you sign in to the store and click on the Shopper Update link, or, email us ([stitch@emblibrary.com](mailto:stitch@emblibrary.com)) and we will remove you from our email list. 
+  4. To remove your information from our database, Please send an email to [stitch@emblibrary.com](mailto:stitch@emblibrary.com) asking that your information be removed from our database.
 
 
 
@@ -84,8 +88,5 @@ If we ever make any changes to the way we handle your personal information you w
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Embroidery Library Inc. 16305 36th Ave North  #525 Minneapolis, MN 55446-2698 stitch@emblibrary.com Footer
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Embroidery Library Inc. 16305 36th Ave North  #525 Minneapolis, MN 55446-2698 stitch@emblibrary.com   
 
-[](http://www.emblibrary.com/emblibrary/new.asp?) [ ](http://www.emblibrary.com/emblibrary/sample.asp?) [](http://www.emblibrary.com/emblibrary/faq2.asp?) [ ](http://www.emblibrary.com/emblibrary/showcase.asp?) [ ](http://www.emblibrary.com/emblibrary/links.asp?)
-
-[ ](http://www.emblibrary.com/emblibrary/links.asp?)
