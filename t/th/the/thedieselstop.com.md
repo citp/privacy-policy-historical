@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedieselstop.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008151358id_/http%3A//www.thedieselstop.com/about/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedieselstop.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613181550id_/http%3A//www.thedieselstop.com/about/privacy.php3) for the most accurate reproduction.*
 
 # TheDieselStop.Com - www.thedieselstop.com
 
@@ -39,6 +39,8 @@ TheDieselStop.Com strives to maintain strict security for your private informati
 **Disclosure of Personal Information**
 
 TheDieselStop.Com does not disclose your personally identifying information to any third parties for any purpose without your prior consent. All reasonable care is taken by staff handling personal information to ensure its security both offline and online.
+
+We at TheDieselStop.Com also reserve the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action arising from any message posted by you.
 
 It is also important to be aware that when you voluntarily provide personal information (e.g., last name, address, phone number) in a posting on the bulletin board, that information is publicly available and may be used by someone in a manner unintended by you. For that reason, we discourage the offering of any personally identifying information within the message board itself.
 
