@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604032957id_/http%3A//250free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205101408id_/http%3A//www.250free.com/privacy.php) for the most accurate reproduction.*
 
 # 250Free.com - Get your 250 Megabyte homepage free! Build your website free!
 
@@ -22,11 +22,11 @@ With the exception of the following case, under no circumstances will your perso
 
 **Cookie Tracking**
 
-250Free utilizes cookies solely for the convenience of the user.  Cookies store such information as preferences, last page visited, etc.   We will never use cookies to track your surfing habits outside of 250Free.  To disable Cookies in Netscape 4.xx, go to menu Edit->Preferences and select 'Advanced'.  In Netscape 6, go to menu Edit->Preferences, and select 'Advanced', then 'Cookies'.  In Internet Explorer 5.x, go to menu Tools->Internet Options and select the Security tab, then push the 'Custom Level' button.  Scroll down to the 'Cookies' section and select your preference.  Note that disabling cookies may prevent some features from functioning.
+250Free utilizes cookies solely for the convenience of the user.  Cookies store such information as preferences, last page visited, etc.   We will never use cookies to track your surfing habits outside of 250Free.  To disable Cookies in Netscape 4.xx, go to menu Edit->Preferences and select 'Advanced'.  In Netscape 6, go to menu Edit->Preferences, and select 'Advanced', then 'Cookies'.  In Internet Explorer 5 and 6, go to menu Tools->Internet Options and select the Security tab, then push the 'Custom Level' button.  Scroll down to the 'Cookies' section and select your preference.  Note that disabling cookies may prevent some features from functioning.
 
 **Advertising.com**
 
-We may utilize the advertising services of Advertising.com at 250Free.  Advertising.com invites you to review their privacy policy at <http://www.advertising.com/privacy/privacy.html> .
+We may utilize the advertising services of Advertising.com at 250Free.  Advertising.com invites you to review their privacy policy at <http://www.advertising.com/privacy_policy.htm> .
 
 **Questions or Concerns**
 
