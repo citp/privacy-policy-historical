@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rom-world.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210092540id_/http%3A//www.rom-world.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom-world.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609074746id_/http%3A//rom-world.com/policy.php) for the most accurate reproduction.*
 
 # ROM World | Policies
 
@@ -15,7 +15,7 @@ Affiliates:
 "ROM World" is not responsible for anything on its affiliates web sites. The sites linked to by "ROM World" are developed by people over whom "ROM World" exercises no control. These other sites may send their own cookies to users, collect data, or solicit personal information. We recommend going to the affiliates web site for information on their privacy policy. 
 
 Contact:  
-All question about ROM World's privacy statement should be E-mailed to: matt_66 at NOSPAM angelfire dot com. Feel free to contact us any time and we will answer any additional questions you may have. 
+All question about ROM World's privacy statement should be E-mailed to: webmaster at rom-world.com. Feel free to contact us any time and we will answer any additional questions you may have. 
 
 **Content Policy:**   
 Rom Files:  
