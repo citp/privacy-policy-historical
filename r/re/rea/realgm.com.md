@@ -1,30 +1,32 @@
-> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602085158id_/http%3A//www.realgm.com/src_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004071337id_/http%3A//www1.realgm.com/src_privacy.php) for the most accurate reproduction.*
 
 # Real GM
 
 [**Trade Checker**](https://web.archive.org/src_tradechecker.php)  
-[**Lotto Simulator**](https://web.archive.org/src_lottosim.php)  
+[**Free Agents**](https://web.archive.org/src_freeagents.php)  
 [**Wiretap (News)**](https://web.archive.org/src_wiretap.php)  
 [**Heads Up (E-Mail)**](https://web.archive.org/src_subscription.php)  
 [**Player Profiles**](https://web.archive.org/src_roster.php)  
 [**Message Boards**](https://web.archive.org/boards/index.php)  
 [**Transactions**](https://web.archive.org/src_recent_transactions.php)  
-[**Larry Coon's FAQ**](http://members.cox.net/lmcoon/salarycap.htm) |   
+[**Depth Charts**](https://web.archive.org/src_depthcharts.php)  
+[**Larry Coon's FAQ**](http://members.cox.net/lmcoon/salarycap.htm)|   
 ---  
   
-Q: _Assuming Yao Ming goes first overall, what should Chicago do?_
+Q: _Which Eastern Conference team improved the most this offseason?_
 
 * * *
 
-Draft Jay Williams  
-Trade down  
-Trade for Baron Davis  
-Trade for Wally Szczerbiak  
-Trade for Andre Miller  
-Trade down  
-Draft someone else  
+New Jersey  
+Washington  
+Philadelphia  
+Boston  
+Chicago  
+New York  
+Atlanta  
+Other  
   
-[View old polls](https://web.archive.org/web/20020602085158id_/http%3A//www.realgm.com/src_polls.php)  
+[View old polls](https://web.archive.org/web/20021004071337id_/http%3A//www1.realgm.com/src_polls.php)  
   
   | 
 
@@ -96,7 +98,7 @@ When verifiable parental consent has not yet been obtained, we will use online c
 
 **Third Party Advertising:**
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [**http://www.networkadvertising.org/optout_nonppii.asp**](http://www.networkadvertising.org/optout_nonppii.asp)
+We use Adtegrity and other third-party advertising companies to serve ads when you visit our Web site. To view Adtegrity's Privacy Policy please [_Click Here_](http://www.adtegrity.com/privacy.asp)
 
 **Third Party Cookies:**
 
