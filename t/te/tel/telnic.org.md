@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telnic.org privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605074434id_/http%3A//telnic.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telnic.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208184258id_/http%3A//www.telnic.org/privacy.asp) for the most accurate reproduction.*
 
 # Telnic - Privacy Policy
 
