@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803163702id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618020204id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Win prizes online with MyOffers :: Privacy Statement
 
@@ -9,10 +9,10 @@ MyOffers takes your privacy seriously and takes every reasonable precaution to s
 MyOffers is registered under the Data Protection Act 1998 under registration number Z4685005. The information you provide is safeguarded under the terms of that Act. 
 
 **Data to be Collected and Uses of the Data**  
-MyOffers collects data about you, and on behalf of its sponsor's answers to specific questions asked by those sponsors. This information is used to assist Myoffers, and third parties in communicating with you about their products and services. 
+MyOffers collects data about you, including answers to specific questions asked by MyOffers' sponsors. This information is used to assist MyOffers, and third parties in communicating with you about their products and services. 
 
 **Collection of Data through "Cookies"**  
-Myoffers uses resident cookies to store data on your hard disk for the purpose of prompting you with your email address each time you return to the MyOffers.co.uk site and Log in, and also to identify you as a previous visitor. If you have resident cookies disabled in your browser you are still able to use the MyOffers.co.uk site but you will have to enter your email address manually each time. MyOffers uses sessions to store data on our server which are individually identifiable. This means that a session cookie will be stored on your machine, and will expire once your visit to the site has ended. Functionality of the site depends upon your browser accepting session cookies. MyOffers tracks visitors to and on the MyOffers site by using referrer tracking. Myoffers uses click thru and open mail tracking when sending emails. This process allows Myoffers, its sponsors and clients the ability to profile the recipients of their communications. 
+MyOffers uses resident cookies to store data on your hard disk for the purpose of identifying you when you return to the MyOffers site. If you have resident cookies disabled in your browser you are still able to use the MyOffers site but you will not have the benefit of an automatic login. MyOffers uses sessions to store data on our server which are individually identifiable. This means that a session cookie will be stored on your machine, and will expire once your visit to the site has ended. Functionality of the site depends upon your browser accepting session cookies. MyOffers tracks visitors to and on the MyOffers site by using referrer tracking. MyOffers uses click thru and open mail tracking when sending emails. This process allows MyOffers and it's clients the ability to profile the recipients of their communications. 
 
 **Registration Though Third Party Sites**  
 The collection of data by MyOffers through registration on third party sites may lead to your data also being held by that third party site. 
@@ -33,7 +33,7 @@ Your data may be provided to clients of MyOffers to be appended to information t
 MyOffers may from time to time use third party suppliers to provide all or part of a service to you. MyOffers shall only be entitled to supply such of your personal information as is necessary to enable them to provide the relevant service to you. You should be aware that such outside service providers might be based in countries outside the European Union whose laws provide for a different standard of protection for your personal data than that provided under English law. In such circumstance MyOffers will have in place contractual arrangements which will require your data to be processed at least to a standard compliant with the Data Protection Act 1988. 
 
 **Relevance and Accuracy of Your Data**  
-The data you provide to MyOffers will be held as you have provided it. You may at any time amend or update your data by visiting MyOffers at visiting www.MyOffers.co.uk and selecting the amend details button. 
+The data you provide to MyOffers will be held as you have provided it. You may at any time amend or update your data by visiting MyOffers at www.MyOffers.co.uk and selecting the amend details button. 
 
 **Deregistration**  
 You may at any time deregister from MyOffers by visiting www.MyOffers.co.uk and selecting the deregister button. The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further email communications from MyOffers. 
@@ -42,7 +42,7 @@ You may at any time deregister from MyOffers by visiting www.MyOffers.co.uk and 
 Your data together with that of other subscribers to MyOffers may be aggregated at Postcode or other levels for the building of statistical and analytical tables. At no time will your data be individually identifiable in such tables. 
 
 **Legal Requirements to Provide Data**  
-Except as provided above MyOffers will not provide your personal information to any third party without your prior consent, however, under certain circumstances the force of law may require the provision of information to the legal authorities. In order to maintain the integrity of its website and safeguard the interests of its subscribers MyOffers will comply with any such legally binding request. 
+Except as provided above, MyOffers will not provide your personal information to any third party without your prior consent, however, under certain circumstances the force of law may require the provision of information to the legal authorities. In order to maintain the integrity of its website and safeguard the interests of its subscribers MyOffers will comply with any such legally binding request. 
 
 **Security Of The Internet**  
 The Internet is not a 100% secure medium for communication and, accordingly, MyOffers cannot guarantee the security of any information you send to MyOffers via the Internet. MyOffers is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information. 
