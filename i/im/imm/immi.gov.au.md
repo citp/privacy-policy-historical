@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206024000id_/http%3A//www.immi.gov.au/general/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603084041id_/http%3A//www.immi.gov.au/general/privacy.htm) for the most accurate reproduction.*
 
 # DIMA Website Privacy Statement
 
 ##  
 
- DIMA Internet Site - Privacy Statement
+  DIMA Internet Site - Privacy Statement
 
 The _Privacy Act 1988_ defines personal information as '....information, about an individual whose identity is apparent or can be reasonably ascertained from the information or opinion'.
 
@@ -14,7 +14,9 @@ The Department of Immigration and Multicultural Affairs (DIMA) treats personal i
 
 The _Migration Act 1958_ has specific provisions that prohibit any officer of DIMA (or any other government department) from accessing, recording or disclosing anyone's personal information except in performing their duties or in specific situations permitted by migration laws. Along with the legislation mentioned above, the Migration Act has severe penalties for breaking these provisions. 
 
-Your personal information will not be released unless the law permits it or your permission is given. While DIMA provides a secure environment, you should be aware there are inherent risks associated with the transmission of information via the Internet. For those who do not wish to use the Internet, DIMA provides alternate ways (for example, fax, letter and office visits) of obtaining and providing information. In some circumstances, DIMA guidelines may require us to send particular information by non-electronic means.
+Your personal information will not be released unless the law permits it or your permission is given. While DIMA provides a secure environment, you should be aware there are inherent risks associated with the transmission of information via the Internet. For those who do not wish to use the Internet, DIMA provides alternate ways (for example, fax, letter and office visits) of obtaining and providing information. For alternative contact details, please see the relevant entry in the DIMA [World Index](https://web.archive.org/web/20010603084041id_/http%3A//www.immi.gov.au/wwi/contents.htm). In some circumstances, DIMA guidelines may require us to send particular information by non-electronic means.
+
+To improve security, some (not all) of the electronic forms that include personal information have been secured under the HTTPS protocol ( **H** yper **T** ext **T** ransport **P** rotocol **S** ecure). HTTPS is a standard Web communication protocol that encrypts and decrypts a message for online transmission. In Netscape Navigator 3.0 and earlier, the broken key symbol in the lower-left corner of your browser window becomes solid when you are in secure mode. In Netscape Communicator 4.0 and above, the padlock symbol in the corner, usually open, is closed in secure mode. In Internet Explorer 4.0 and above, a closed padlock appears when you are in secure mode.
 
 ### Site Visit Data
 
@@ -43,12 +45,14 @@ When the Department receives your email or fill-in form, your message becomes ac
 
 ### Need Further Information?
 
-Further information is available on this website, and in the DIMA Personal Information Digest ([PID](https://web.archive.org/web/20001206024000id_/http%3A//www.immi.gov.au/department/pid/intro.htm)). If you have privacy concerns, please contact your nearest DIMA Office for advice. You can also obtain further information from the Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/). 
+Further information is available on this website, and in the DIMA Personal Information Digest ([PID](https://web.archive.org/web/20010603084041id_/http%3A//www.immi.gov.au/department/pid/intro.htm)). If you have privacy concerns, please contact your nearest DIMA Office for advice. You can also obtain further information from the Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/). 
 
-**[[DIMA Home Page](https://web.archive.org/web/20001206024000id_/http%3A//www.immi.gov.au/welcome.htm)]**
+**[[DIMA Home Page](https://web.archive.org/web/20010603084041id_/http%3A//www.immi.gov.au/welcome.htm)]**
 
 * * *
 
 **The Department operates a national telephone inquiry line on 131  881, for the cost of a local call  
-anywhere in Australia. Overseas, please contact your nearest Australian [diplomatic office](https://web.archive.org/web/20001206024000id_/http%3A//www.immi.gov.au/wwi/index.htm). [©](https://web.archive.org/web/20001206024000id_/http%3A//www.immi.gov.au/general/copyright.htm) 2000 Department of Immigration and Multicultural Affairs (DIMA), Australia.   
-Last update: 20 June 2000     [Disclaimer](https://web.archive.org/web/20001206024000id_/http%3A//www.immi.gov.au/general/legal.htm).  **
+anywhere in Australia. Overseas, please contact your nearest Australian [diplomatic office](https://web.archive.org/web/20010603084041id_/http%3A//www.immi.gov.au/wwi/index.htm).**
+
+**[©](https://web.archive.org/web/20010603084041id_/http%3A//www.immi.gov.au/general/copyright.htm) 2001 Department of Immigration and Multicultural Affairs (DIMA), Australia.   
+Last update: 21 February 2001     [Disclaimer](https://web.archive.org/web/20010603084041id_/http%3A//www.immi.gov.au/general/legal.htm). **
