@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216030125id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605030525id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
 
 # The Jerusalem Post Newspaper : Online News From Israel
 
@@ -27,7 +27,9 @@ On some types of The Jerusalem Post Internet Edition promotions and services, we
 **Form Submissions**  
 Certain online purchase options require users to give us financial information (such as their bank account or credit card numbers), and demographic information (such as their zip code, age, or income level). 
 
-Financial information that is collected is used solely to bill the user for products and services. Demographic and profile data is occasionally collected at our site. This information may be shared with advertisers on an aggregate basis. We may use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+Financial information that is collected is used solely to bill the user for products and services.
+
+Demographic and profile data is occasionally collected at our site. This information may be shared with advertisers on an aggregate basis. We may use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). 
 
@@ -50,7 +52,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 You can send email to [privacy@jpost.com](mailto:privacy@jpost.com?Subject=Privacy%20Issues). 
 
 **Special Interest Sites**  
-The Jerusalem Post Internet Edition provides certain services in conjunction with third parties: Jerusalemail.com Ğ provides users with a fully confidential email service. Jpostpersonals.com Ğ provides a discreet and fully confidential personals service. These third parties have their own security and privacy policies. You advised to check them out separately as it pertains to their individual security and privacy policies. 
+The Jerusalem Post Internet Edition provides certain services in conjunction with third parties: Jpostpersonals.com provides a discreet and fully confidential personals service. Such third parties have their own security and privacy policies. You advised to check them out separately as it pertains to their individual security and privacy policies. 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
