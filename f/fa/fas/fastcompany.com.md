@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607053407id_/http%3A//www.fastcompany.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123714id_/http%3A//www.fastcompany.com/about/privacy.html) for the most accurate reproduction.*
 
 # Fast Company | Fast Company Privacy Policy
 
@@ -16,7 +16,16 @@
     We also gather information that can identify you personally, generally to provide you with Fast Company services or products you requested and for Fast Company billing purposes.
     We may also compile and use this information so that we may keep you informed of upcoming events, send you subscription information, customize your visit to fastcompany.com, and offer new products and services that may be of interest to you.
  **Third-party use of this information**
-    Fastcompany.com does not provide its electronic mailing list to third parties. We may be required by law, however, to disclose personal information about you to a third party. (Personal information refers to your name, email address, street address, phone number, and so forth.)
+    
+
+We may use the information you provide about yourself to fulfill your requests for products, programs and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+
+We sometimes use the information to communicate with you, such as to notify you when we make changes to subscriber agreements, to fulfill a request by you for an online newslettter, or to contact you about your account with us.
+
+We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we may also use this information to offer our products, programs, or services to them.
+
+We will disclose the information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+
  **Sensitive information**
     If your relationship with us includes providing one of our business units with personal information that is particularly sensitive, we will protect that information with extra care. We define sensitive data as including Social Security numbers, credit-card numbers, mother's maiden name, personal financial data such as salary-specific information, specific stock holdings and net worth, information regarding someone's specific medical condition, and most information about children. There will be no external distribution of this sensitive data outside of our immediate company.
  **Our use of cookies**
