@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onegreatfamily.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202222628id_/http%3A//www.onegreatfamily.com/static-tpls/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreatfamily.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204722id_/http%3A//www.onegreatfamily.com/static-tpls/privacy.htm) for the most accurate reproduction.*
 
 # Genealogy and Family History - OneGreatFamily.com Family Tree
 
