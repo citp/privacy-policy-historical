@@ -1,52 +1,35 @@
-> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608221048id_/http%3A//www.americarx.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008203942id_/http%3A//www.americarx.com/page.asp%3Fid%3D26) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Americarx.com
 
-  
-**What information do we collect? How do we use it?**
+**Privacy Policy**
 
-**How does AmericaRx.com protect customer information?**
+**Information We Collect _  
+_**  
+We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our site to provide you with a superior shopping experience.
 
-**Will AmericaRx.com disclose the information it collects to outside parties?**
+**Your Account**
 
-**How does AmericaRx.com allow customers to update or change the information it collects?**   
- 
+When you place an order, we will ask you to set up "your account," which includes your name, e-mail address, mailing address, credit card number and expiration date, as well as certain other information. Using your account information, we will only contact you in case we are not able to process your order or we have a problem with any of your information. We will not sell your information to anybody. 
 
-**Your Privacy**   
-At AmericaRx.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.   
-  
-**What information do we collect? How do we use it?**   
-When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date and (personal health and insurance information, if you are a customer for prescription medicines). This allows us to process and fulfill your order and to notify you of your order status. 
+**Your Prescription Information  **
 
-We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new AmericaRx.com services, and special offers we think you'll find valuable.  If you would rather not receive this information, visit the Your Account page to change your preferences. Make sure to change your preferences for each account or e-mail address you have left with us. 
+To fill your prescription drug order, we collect the following additional information: Doctors Name and your Doctors Phone Number which is used by us to Contact your doctor and confirm your prescription , which enables us to process and ship your order. We protect all of your information against unauthorized access or release. We will not share your personal and prescription information with third parties.
 
-TOP    BOTTOM
+**Security**
 
-**How does AmericaRx.com protect customer information?**   
-When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. 
+Appropriate physical, electronic, and managerial procedures are there in place to safeguard and secure the information we collect online. **America Rx.com** uses secure servers to protect all your personal information. Our checkout process uses industry-standard SSL encryption to ensure the privacy and security of your information. 
 
-**What about "cookies"?**   
- "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as filling your name/address information automatically and to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them. 
+**Commitment to Privacy**
 
-**Will AmericaRx.com disclose the information it collects to outside parties?**   
-AmericaRx.com does not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank e-mail message to never@americarx.com. (If you use more than one e-mail address to shop with us, send this message from each e-mail account you use.) Also, AmericaRx.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third party vendors, but these statistics will include no personally identifying information. AmericaRx.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of AmericaRx.com, our users, or others. 
+Your privacy and credit card security is utmost important to us. The personal information we collect includes shipping and billing name and address, email address, phone number and credit card information. This information is used only to complete your order. We do not share your personal information with outside parties for marketing or for any other purpose. However, we do email our customers from time to time with news and special discounts offers, but you always have the option to permanently remove your name from our email list. 
 
-TOP    BOTTOM   
-  
-**How does AmericaRx.com allow customers to update or change the information it collects?**   
-You may update or change information related to your AmericaRx.com account by accessing the Your Account section of the Web site with your e-mail account and password. For other questions related to updating or changing your account information, please send e-mail to feedback@americarx.com. 
+**Unsolicited E-mail (SPAM)**
 
-TOP    BOTTOM
+Your privacy is very important to us.WE assure you that, in accordance with our Privacy Policy, **America Rx.com**, will not distribute our customer list to third parties. 
 
-**In summary**   
-We are committed to protecting your privacy. We use the information we collect on the site to make shopping at AmericaRx.com possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank e-mail message to never@americarx.com. If you never want to receive any announcements or special offers from us,   
-visit the Your Account page to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us. 
+**Your Comments**
 
-**Your consent**   
-By using our Web site, you consent to the collection and use of this information by Americarx.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us an e-mail at privacy@americarx.com.
 
-**Tell us what you think**   
-AmericaRx.com welcomes your questions and comments about privacy. Please send e-mail to feedback@americarx.com.   
-  
-TOP   
- 
+* If we ever change our privacy policy, we will post any changes on this page so that you are always aware of the information that we collect, and how we use it.
