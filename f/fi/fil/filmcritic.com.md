@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2000-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000930064137id_/http%3A//filmcritic.com/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/b6f4c69e3d8ce866082566fb0068dba0%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2001-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010105022600id_/http%3A//www.filmcritic.com/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/b6f4c69e3d8ce866082566fb0068dba0%3FOpenDocument) for the most accurate reproduction.*
 
 # filmcritic.com Our privacy policy
 
-[](http://www.burstnet.com/ads/ad7653a-map.cgi/Ourprivacypolicy)
-
-[**filmcritic.com**](http://www.filmcritic.com/)
-
-\- [About Us](https://web.archive.org/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/78693be8cd1dc4e286256345007d3a40?OpenDocument) \- [New on Video/DVD](https://web.archive.org/misc/emporium.nsf/60e74e041ca9cd6b8625626f0062219f?OpenView) \- [Feature Stories](https://web.archive.org/misc/emporium.nsf/95a45e26914c25ff862562bb006a85f2?OpenView) \- [Search the Site](http://www.filmcritic.com/misc/emporium.nsf/By+Title/$searchForm?SearchView) \- [Mailing List](http://www.egroups.com/group/critic) \- [Advertising](http://www.burstmedia.com/release/advertisers/adcontact.asp?siteurl=www.filmcritic.com)  
-  
+[](http://www.burstnet.com/ads/ad7653a-map.cgi/Ourprivacypolicy)[**filmcritic.com**](http://filmcritic.com/) \- [About Us](https://web.archive.org/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/78693be8cd1dc4e286256345007d3a40?OpenDocument) \- [New on Video/DVD](http://filmcritic.com/misc/emporium.nsf/Video/?OpenView&Count=80) \- [Feature Stories](http://filmcritic.com/misc/emporium.nsf/FeaturesByDate/?OpenView&Count=1000) \- [Search the Site](http://filmcritic.com/misc/emporium.nsf/By+Title/$searchForm?SearchView) \- [Mailing List](http://www.egroups.com/subscribe/critic) \- [Merchandise](http://www.cafepress.com/filmcritic) \- [Advertising](http://www.burstmedia.com/release/advertisers/adcontact.asp?siteurl=www.filmcritic.com)  
  **filmcritic.com Privacy Policy**  
 Internet user privacy and confidentiality is of the utmost importance to filmcritic.com. Our reputation and integrity is directly related to how we serve our clients and customers. Please find below a description of how filmcritic.com strives to protect the privacy of Internet users. 
 
@@ -40,3 +35,6 @@ filmcritic.com reserves the right to change this policy from time to time. A rev
 * * *
 
 Talk back and [**e-mail the editors**](mailto:null@filmcritic.com) \- Want the freshest reviews? Join our [**mailing list**](http://www.egroups.com/group/critic).
+
+[ **filmcritic.com**](http://filmcritic.com/) \- [About Us](https://web.archive.org/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/78693be8cd1dc4e286256345007d3a40?OpenDocument) \- [New on Video/DVD](http://filmcritic.com/misc/emporium.nsf/Video/?OpenView&Count=80) \- [Feature Stories](http://filmcritic.com/misc/emporium.nsf/FeaturesByDate/?OpenView&Count=1000) \- [Search the Site](http://filmcritic.com/misc/emporium.nsf/By+Title/$searchForm?SearchView) \- [Mailing List](http://www.egroups.com/subscribe/critic) \- [Merchandise](http://www.cafepress.com/filmcritic) \- [Advertising](http://www.burstmedia.com/release/advertisers/adcontact.asp?siteurl=www.filmcritic.com)  
+Archives: [By Title](http://www.filmcritic.com/misc/emporium.nsf/By+Title/?OpenView&Count=5000) \- [By Review Rating](http://www.filmcritic.com/misc/emporium.nsf/ReviewRating/?OpenView&Count=5000) \- [By MPAA Rating](http://www.filmcritic.com/misc/emporium.nsf/MPAARating/?OpenView&Count=5000) \- [By Director](http://www.filmcritic.com/misc/emporium.nsf/Director/?OpenView&Count=5000) \- [By Star](http://www.filmcritic.com/misc/emporium.nsf/Star/?OpenView&Count=5000) \- Feature Archives: [By Date](http://www.filmcritic.com/misc/emporium.nsf/FeaturesByDate/?OpenView&Count=1000) \- [By Star](http://www.filmcritic.com/misc/emporium.nsf/FeaturesByStar/?OpenView&Count=1000)
