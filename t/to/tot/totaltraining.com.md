@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/privacy.html) for the most accurate reproduction.*
 
 # Total Training - Privacy Policy
 
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/home.html)
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/home.html)
 
-  [Catalog Specials](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Store/hot_deals.asp)
+  [Catalog Specials](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Store/hot_deals.asp)
 
-  [Shopping Cart](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Store/basket.asp)
+  [Shopping Cart](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Store/basket.asp)
 
-  [Join Our Mailing List](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Contact/mailing_list.asp)
+  [Join Our Mailing List](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/mailing_list.asp)
 
-|  |  | [](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Demo/index.html) |   
+|  |  | [](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Demo/index.html) |   
 ---|---|---|---  
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Demo/index.html) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Store/default.asp) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Store/default.asp) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/About/index.html) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/About/index.html) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Media/index.html) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Media/index.html) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Support/index.html) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Support/index.html) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Contact/index.html) |   
-[](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Contact/index.html) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Demo/index.html) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Store/default.asp) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Store/default.asp) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/About/index.html) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/About/index.html) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Media/index.html) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Media/index.html) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Support/index.html) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Support/index.html) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/index.html) |   
+[](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/index.html) |   
 |   
 | 
 
@@ -44,7 +44,7 @@ These methods are not all-inclusive and Total Training may at some time use othe
 
 Individuals wishing to be removed from the opt-in database may do so in the following ways:
 
-  * Unsubscribe online at [www.totaltraining.com](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Contact/mailing_list.asp). Click on the '[Join Our Mailing List](https://web.archive.org/web/20021205152949id_/http%3A//www.totaltraining.com/Contact/mailing_list.asp)' link, and follow the instructions for removal. 
+  * Unsubscribe online at [www.totaltraining.com](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/mailing_list.asp). Click on the '[Join Our Mailing List](https://web.archive.org/web/20030210122526id_/http%3A//www.totaltraining.com/Contact/mailing_list.asp)' link, and follow the instructions for removal. 
   * Send email to [marketing@totaltraining.com](mailto:marketing@totaltraining.com?subject=Unsubscribe). Us the word Unsubscribe in the subject line, and identify the email address that must be removed if the email is not being sent from that address. 
   * Call Total Training at 1-888-368-6825 (outside of US dial 1-760-944-3900), Monday through Friday, 8:00am-5:00pm Pacific Time. 
 
