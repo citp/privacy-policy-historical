@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dgmarket.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810035530id_/http%3A//www.developmentgateway.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dgmarket.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402172104id_/http%3A//wbes703.worldbank.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
