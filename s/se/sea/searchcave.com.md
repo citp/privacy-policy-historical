@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the searchcave.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207084525id_/http%3A//searchcave.com/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcave.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602210929id_/http%3A//www.searchcave.com/info_privacy.php) for the most accurate reproduction.*
 
 # 
 
   
-[Home](https://web.archive.org/web/20031207084525id_/http%3A//searchcave.com/index.php) : **Privacy**
+[Home](https://web.archive.org/web/20040602210929id_/http%3A//www.searchcave.com/index.php) : **Privacy**
 
   
 Our Privacy Statement
