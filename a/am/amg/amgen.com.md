@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604033637id_/http%3A//www.amgen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203013736id_/http%3A//www.amgen.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Protecting Your Privacy  
-**We are committed to respecting your privacy. Because facts about a person's health, health interests, and health care are private and sensitive, we know that you may have concerns about sharing information with us. This Privacy Policy is designed to answer your important questions about privacy, whether you are a consumer looking for health information, or a health care provider mining Amgen's experience to refine your expertise in meeting the needs of your patients. 
+We are committed to respecting your privacy. Because facts about a person's health, health interests, and health care are private and sensitive, we know that you may have concerns about sharing information with us. This Privacy Policy is designed to answer your important questions about privacy, whether you are a consumer looking for health information, or a health care provider mining Amgen's experience to refine your expertise in meeting the needs of your patients. 
 
 **If you are a consumer** , you'll want to know how we use the information you provide when you register with us as a site user or when you participate in activities on our site, and how we protect this information from unauthorized use or disclosure.
 
@@ -58,26 +57,8 @@ When you access any interactive tool or service on Amgen's Web site, you will be
 
     * **Receive Emai** **l**. When you register with our site, you will be given the option of receiving email with information that we think you might find useful, including promotions, announcements of new services and products, and newsletters on particular health topics. If you decide, at any later time, that you no longer wish to receive these emails you may unsubscribe to our email list by sending an email entitled Unsubscribe to [ webcoordinator@amgen.com](mailto:webcoordinator@amgen.com). 
     * **Accept Cookies**. Your browser software can be set to reject all cookies, but if you reject our cookies certain of the functions and conveniences of our site may not work properly. Cookies and similar technologies are how we ensure that we can promptly retrieve and deliver the information to you when you use our site. 
-    * **Correct/Update Personal Information**. You may correct or update the personal and/or health-related personal information you previously provided to the Web site at any time, using the following options: 
-
-You can contact us through our [feedback page](https://web.archive.org/feedback.html).
-
-You can write to the following address:  
-WebCoordinator, Amgen Inc.  
-One Amgen Center Dr.  
-Thousand Oaks, CA 91320
-
-  
-
-    * **Remove Personal Information**.  
-You may remove previously provided personal and/or health-related personal information at any time using the following options:* 
-
-You can contact us through our [feedback page](https://web.archive.org/feedback.html).
-
-You can write to the following address  
-WebCoordinator, Amgen Inc.  
-One Amgen Center Dr.  
-Thousand Oaks, CA 91320 
+    * **Correct/Update Personal Information**. You may correct or update the personal and/or health-related personal information you previously provided to the Web site at any time by sending an email to [ webcoordinator@amgen.com](mailto:webcoordinator@amgen.com).
+    * **Remove Personal Information**. You may remove the personal and/or health-related personal information you previously provided to the Web site at any time by sending an email to [ webcoordinator@amgen.com](mailto:webcoordinator@amgen.com). 
 
 *Deletion Policy. The information that you provide Amgen is stored in servers that are operated and maintained by Amgen and third parties under contract with Amgen. Amgen site users should be aware that it is not technologically possible to remove from our servers each and every record of the information you have provided to _Amgen_. The need to back-up our systems to protect information from inadvertent loss means that a copy of information about you or your health-related interests may exist in a non-erasable form that will be difficult or impossible for us to locate. Nevertheless, we promise that upon receiving your request, Amgen will delete all personal and/or health-related personal information stored in the databases Amgen actively uses for research and daily business activities, or stored in other readily searchable media. In addition, we will use commercially reasonable efforts not to disclose any personal information stored in a non-erasable format after receiving your request for removal, except as required by law. 
 
