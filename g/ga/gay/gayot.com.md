@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004163745id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020348id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Gayot.com: About Us
 
@@ -54,7 +54,8 @@ Questions regarding this statement should be directed to the Gayot site coordina
 
 The [Gayot website](http://www.gayot.com/) is owned and operated by:   
 Cyberlingot, Inc.   
-6006 Wilshire Boulevard, Ste. 416  
-Los Angeles, CA 90036   
+[4311 Wilshire Blvd.](http://www.gayot.com/aboutus/4311wilshire.html), Suite 405  
+Los Angeles, CA 90010  
+USA  
 Tel.: 323.965.3529   
 Fax: 323.936.2883 
