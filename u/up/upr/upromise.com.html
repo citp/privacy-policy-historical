@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the upromise.com privacy policy that was archived on 2002-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021011100712id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upromise.com privacy policy that was archived on 2003-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030605120450id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.-->
 
 <html><head>
 <title>Upromise - Privacy Statement and Principles</title>
@@ -46,7 +46,7 @@ var usrFullName = usr.substring(pipe3+1,usr.length);
 var usrState="";
 var usrType="";
 }}
-var joinLink = '<a href="/dispatchServlet?tc.mn=enroll&cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree.gif" alt="JOIN FREE" vspace=0 hspace=0 border=0 align=absmiddle></a>';
+var joinLink = '<a href="/displayServlet?su=8000&cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree.gif" alt="JOIN FREE" vspace=0 hspace=0 border=0 align=absmiddle></a>';
 var loginLink = '<a href="/displayServlet?su=8300&cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="LOGIN" vspace=0 hspace=0 border=0 align=absmiddle></a>';
 var logoutLink = '<a href="/displayServlet?su=8107&cx=l0"><img src="http://im.upromise.com/images/nav/l0-logout.gif" alt="LOGOUT" vspace=0 hspace=0 border=0 align=absmiddle></a>';
 var mode = getCookie("mode");
@@ -107,12 +107,18 @@ if ((h > 0) && (h + 4 < thisUrl.length)) {
 if ( document.cookie.indexOf("AOL=")==-1 && ( thisUrlLower.indexOf("aol.upromise.")!=-1 || thisUrlLower.indexOf("aol.s.upromise.")!=-1 ) ) {
 	document.cookie = "AOL=true;path=/;domain=.upromise.com";
 }
+var sx = thisUrlLower.indexOf("?sx=");
+if (sx < 0) { sx = thisUrlLower.indexOf("&sx="); }
+if ((sx > 0) && (sx + 4 < thisUrl.length)) {
+	var sxend = thisUrl.indexOf("&", sx + 4);
+	if ( sxend < 0 ) { sxend = thisUrl.length;  }
+	document.cookie = "SX="+escape(thisUrl.substring(sx + 4, sxend))+";path=/;domain=.upromise.com";
+}
 NS4=document.layers; if(NS4){origWidth=innerWidth;origHeight=innerHeight;} function reDo(){if(innerWidth!=origWidth||innerHeight!=origHeight)location.reload();} if(NS4)onResize=reDo;
 //-->
 </script>
 </head>
-
-<body bgcolor="#ffffff" link="#0033CC" vlink="#0033CC" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" onload="MM_onLoad(1);">
+<body bgcolor="#ffffff" link="#0033CC" vlink="#0033CC" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" onload="MM_onLoad(0);">
 <script language="JavaScript" src="http://im.upromise.com/js/cobrand.js"></script>
 <script language="JavaScript">
 <!--
@@ -133,7 +139,7 @@ if(isUsr){
 </script><img src="http://im.upromise.com/images/nav/l0-uplogowts.gif" alt="Upromise - The Way to Save for College" width="278" height="31" vspace="2" hspace="8" border="0"><noscript><img src="http://im.upromise.com/images/nav/l0-uplogowts.gif" alt="Upromise - The Way to Save for College" width="278" height="31" vspace="2" hspace="8" border="0"></noscript></a></td>
     <td bgcolor="#ffffff" valign="middle" align="right" nowrap="" class="smalltext"><a href="/index.html?cx=l0">Home</a> &nbsp;|&nbsp;
 <a href="/content/faq/index.html?cx=l0">Help</a> &nbsp;|&nbsp;
-<script language="JavaScript">document.write(modeLink);</script><a href="/dispatchServlet?tc.mn=enroll&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree.gif" alt="JOIN FREE" vspace="0" hspace="0" border="0" align="absmiddle"></a> | <a href="/displayServlet?su=8300&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="LOGIN" vspace="0" hspace="0" border="0" align="absmiddle"></a>
+<script language="JavaScript">document.write(modeLink);</script><a href="/displayServlet?su=8000&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree.gif" alt="JOIN FREE" vspace="0" hspace="0" border="0" align="absmiddle"></a> | <a href="/displayServlet?su=8300&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="LOGIN" vspace="0" hspace="0" border="0" align="absmiddle"></a>
 <noscript><a href="/displayServlet?su=8300&cx=l0">Login</a> / <a href="/displayServlet?su=8107&cx=l0">Logout</a></noscript>
 &nbsp;&nbsp;
     </td>
@@ -153,177 +159,236 @@ if(isUsr){
 <tbody><tr><td colspan="3" bgcolor="#cccccc"><img src="http://im.upromise.com/images/1.gif" width="760" height="12" alt="" border="0"></td></tr>
 <tr><td colspan="3" class="text">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><tr bgcolor="white"><td width="144" height="31" bgcolor="#cccccc"><img src="http://im.upromise.com/images/nav/img-headerblank.gif" width="144" height="31" alt="" border="0" hspace="0" vspace="0"></td><td align="left" width="472"><img src="http://im.upromise.com/images/hdr/hdr-upprivacystatement.gif" width="472" height="31" alt="" border="0" hspace="0" vspace="0"></td><td align="right" width="144" bgcolor="#cccccc"><img src="http://im.upromise.com/images/nav/img-headerblank.gif" width="144" height="31" alt="" border="0" hspace="0" vspace="0"></td></tr>
-</tbody></table>
+</table>
 </td></tr></tbody></table>
 <map name="L1nav">
-<area shape="rect" coords="1,1,106,31" href="/displayServlet?su=8300&amp;cx=l1" alt="MY ACCOUNT">
-<area shape="rect" coords="107,1,216,31" href="/content/howitworks/acceleratesavings.html?cx=l1" alt="HOW IT WORKS">
-<area shape="rect" coords="217,1,297,31" href="/nspage?su=8277&amp;cx=l1" alt="GROCERY">
-<area shape="rect" coords="298,1,382,31" href="/nspage?su=8220&amp;cx=l1" alt="SERVICES">
-<area shape="rect" coords="383,1,460,31" href="/nspage?su=8210&amp;cx=l1" alt="STORES">
-<area shape="rect" coords="461,1,563,31" href="/dining" alt="RESTAURANTS">
-<area shape="rect" coords="564,1,664,31" href="/nspage?su=8230&amp;cx=l1" alt="SHOP ONLINE">
-<area shape="rect" coords="665,1,759,31" href="/content/savingsplans/index.html?cx=l1" alt="529 SAVINGS PLANS">
+<area shape="rect" coords="1,1,97,31" href="/displayServlet?su=8300&amp;cx=l1" alt="MY ACCOUNT">
+<area shape="rect" coords="98,1,202,31" href="/content/howitworks/acceleratesavings.html?cx=l1" alt="HOW IT WORKS">
+<area shape="rect" coords="203,1,322,31" href="/nspage?su=8277&amp;cx=l1" alt="GROCERY &amp; DRUG">
+<area shape="rect" coords="323,1,402,31" href="/nspage?su=8220&amp;cx=l1" alt="SERVICES">
+<area shape="rect" coords="403,1,473,31" href="/nspage?su=8210&amp;cx=l1" alt="STORES">
+<area shape="rect" coords="474,1,571,31" href="/dining" alt="RESTAURANTS">
+<area shape="rect" coords="572,1,671,31" href="/nspage?su=8230&amp;cx=l1" alt="SHOP ONLINE">
+<area shape="rect" coords="672,1,759,31" href="/content/savingsplans/index.html?cx=l1" alt="529 PLANS">
 </map>
 <table cellpadding="0" cellspacing="0" border="0" width="760">
- <tbody><tr>
-  <td valign="top" class="text" width="144">
+ <tbody><tr> 
+  <td valign="top" class="text">
+  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tbody><tr>
+  <td colspan="4">
   </td>
-  <td valign="top" width="12"><img src="http://im.upromise.com/images/1.gif" width="12" height="1" border="0"></td>
-  <td valign="top" class="text" width="604">
-   <table cellpadding="0" cellspacing="4" border="0" width="100%">
-    <tbody><tr align="vmiddle">
-   
-     <td class="text">
-     <p class="subheadline2">
-     Privacy Principles
-     </p>
+  <td>	
+  <table cellpadding="0" cellspacing="4" border="0" width="100%">
+   <tbody><tr align="vmiddle">
+  
+    <td class="text">
+    <a name="top"></a><p class="subheadline2a"><font color="##336699">
+    Privacy at Upromise</font></p>
+    </td>
+  
+    <td align="left" valign="middle">
+     <a href="http://www.bbbonline.org/cks.asp?id=201012613533712021" target="new_window"><img src="http://im.upromise.com/images/privacy/PrivacySeal4.gif" width="90" height="31" alt="BBB OnLine" border="0" hspace="5" vspace="8"></a>
+     <a href="http://www.truste.org/validate/8960" target="new_window"><img src="http://im.upromise.com/images/privacy/truste.gif" width="87" height="26" alt="TRUSTe" border="0" hspace="5" vspace="8"></a>
+    </td>
+  
+   </tr>
+  </tbody></table>
+  <table cellpadding="0" cellspacing="4" border="0" width="100%">
+    <tbody><tr>
+     <td class="text" colspan="2">
+     <p class="subheadline2a"><font color="##336699">
+     Privacy Principles</font></p>
+     <p class="text">
+     </p><ol>
+       <b></b><li><b>We respect your privacy.</b> We will not provide your personally identifiable
+         information to third parties (including our contributing companies) for
+         marketing purposes without your permission.<br><br></li>
+       <b></b><li><b>We secure your data.</b> We monitor for intrusion attempts 24 hours a day,
+         7 days a week; deploy encryption technology, firewalls and systems monitoring;
+         and audit our safeguards with the help of leading security firms.<br><br> </li>
+       <b></b><li><b>We offer you choices.</b> You may choose whether and to what extent you receive marketing messages from Upromise and our contributing companies. If you do not wish to receive marketing messages, you may opt out at any time. And we offer you choices, so that you receive only those offers that are of interest to you.
+     </li>
+     </ol>
      </td>
-   
-     <td align="right" valign="middle">
-      <a href="http://www.bbbonline.org/cks.asp?id=201012613533712021" target="new_window"><img src="http://im.upromise.com/images/privacy/PrivacySeal4.gif" width="90" height="31" alt="BBB OnLine" border="0" hspace="5" vspace="8"></a>
-      <a href="http://www.truste.org/validate/8960" target="new_window"><img src="http://im.upromise.com/images/privacy/trusteclick.gif" width="89" height="71" alt="TRUSTe:Click to Verify" border="0" hspace="5" vspace="5"></a>
+    </tr>
+  
+    <tr>
+     <td class="text" align="left">
+     <div class="subheadline2a"><font color="##336699">
+     <a href="#why">Upromise Privacy Statement</a></font></div>
+     <br>
+     <b>Table of Contents</b>
+     <br>
+     <a href="#why">Information we collect, and why</a><br>
+     <a href="#cookies">Cookies</a><br>
+     <a href="#secure">Security</a><br>
      </td>
-   
+     <td class="text" align="left">
+     <br>
+     <br>
+     <br>
+     <br>
+     <a href="#data">Data-Sharing Policies</a><br>
+     <a href="#comm">Marketing Communication</a><br>
+     <a href="#changes">Policy Changes</a><br>
+     </td>
     </tr>
-   </tbody></table>
-   <table cellpadding="0" cellspacing="4" border="0" width="100%">
-     <tbody><tr>
-      <td class="text" colspan="2">
-      <p class="text">
-      </p><ol>
-        <b></b><li><b>We respect your privacy.</b> We will not provide your personally identifiable
-          information (such as your name or address) to our contributing companies for
-          marketing purposes without your permission.<br><br></li>
-        <b></b><li><b>We secure your data.</b> We monitor for intrusion attempts 24 hours a day,
-          7 days a week; deploy encryption technology, firewalls and systems monitoring;
-          and audit our safeguards with the help of leading security firms.<br><br> </li>
-        <b></b><li><b>We offer you choices.</b> You may choose whether and to what extent you receive marketing messages from Upromise and our contributing companies. If you do not wish to receive marketing messages, you may opt out at any time. And we offer you choices, so that you receive only those offers that are of interest to you.
-      </li>
-      </ol>
-      <br>
-      To read more, please select a topic below.
-      <br><br>
-      </td>
-     </tr>
-   
-     <tr>
-      <td class="text" align="left">
-      <a href="#why">Information we collect, and why</a><br>
-      <a href="#comm">Upromise communications</a><br>
-      <a href="#optout">Opt-out</a><br>
-      <a href="#cookies">Cookies</a><br>
-      <a href="#access">Accessing your information</a><br>
-      </td>
-      <td class="text" align="left">
-      <a href="#secure">Security</a><br>
-      <a href="#other">Other sites</a><br>
-      <a href="#changes">Changes to our privacy policies</a><br>
-      <a href="#contact">Contacting Upromise</a><br>
-      </td>
-     </tr>
-   
-     <tr>
-      <td class="text" colspan="2">
-      <br><br>
-   	<a name="why"></a>
-   	<p class="subheadline2"><b>What information does Upromise collect, and why?</b>
-   	
-   	</p><p class="text"><b>Enrollment Information</b>.  To set up your membership with Upromise, you will need to provide certain contact information, such as your name, mailing address, email address, phone number, username, and password. This information will also allow us to contact you about new college savings opportunities, unless you opt out of receiving these messages.
-   	
-   	</p><p><b>Purchase Information</b>. As a Upromise member, you can save for college by shopping with our contributing companies. Upromise may require additional information in order to keep track of and collect your contributions. For example, if you use a credit card to make a purchase, we may use your credit card number to identify the transaction. A phone company might require your telephone number, while an airline might require your frequent flyer account number.  In order to keep track of and collect your contributions, Upromise collects from some contributing companies or third party processors details of your transactions with contributing companies such as the date and amount of your transaction.
-   	
-   	</p><p><b>Upromise Account Information</b>.  Upromise will maintain records to keep track of the contributions you earn from your purchases with our contributing companies. You can use our website at www.upromise.com to view your Upromise account balances and recent account activities, establish college savings goals, add new future college students, or contact our customer care team.
-   	
-   	</p><p><b>Future College Student Information</b>.  In order to tell us how to direct your savings from your Upromise account and to open an investment account for your future college students, you will need to provide certain information about those students. You can also personalize your Upromise account to reflect your progress toward achieving your personal college savings goals by providing additional information about your future college students, such as when they anticipate starting college and whether they plan to attend a public or private institution. Upromise may use this information to contact you about college savings opportunities, unless you opt out of receiving these messages.
-   	
-   	</p><p><b>Investment Account Information</b>.  When you open an investment account, the investment manager is required by law and by industry regulations to obtain certain personal information before creating your investment account. Upromise and its investment manager partners will share certain personal information (such as your or your student's Social Security Number or address) and demographic data with each other to facilitate the application process and monthly processing, and to comply with necessary tax reporting requirements.  This sharing of information is required to manage your account.  Additionally, Upromise may use this demographic information (such as your future college student's date of birth) to contact you about relevant college savings opportunities, unless you opt out of receiving such messages.
-   	
-   	</p><p><b>Family and Friends Network Information</b>.  You may use our Tell-a-Friend service to notify your family and friends about Upromise by providing their names and email addresses.  You can also increase your college savings through Upromise by creating a savings network of family and friends that directs a portion of its Upromise savings to your future college students.
-   	
-   	</p><p>Upromise will automatically send a one-time email inviting your family and friends to visit Upromise.  Upromise stores the information for the purpose of sending these emails and to measure overall response rates to these services.  Your family and friends may  <a href="/nspage?su=8105">contact us</a> to request that their information be removed.
-   	
-   	</p><p>Family and friends who contribute to your future college students' investment accounts will receive confirmation of the name and age of each future college student for whom they are saving. You will soon be able to share access to additional information about these accounts with your family and friends network, including messages and progress towards your goal, if you wish.
-   	
-   	</p><p><b>Computer Information</b>.  We collect certain technical information from your computer each time you request a page during a visit to the Upromise site. This information is collected from your computer's web browser, and may include your current IP address, type of operating system, and type of web browser software.  See the section below on "Use of Cookies," which discusses how we obtain this information.
-   	
-   	</p><p><b>Collection of Information from Children</b>.  Upromise does not knowingly collect, either online or offline, personally identifiable information from children under the age of 13.
-   	
-   	</p><p class="subheadline2"><b>How does Upromise use my information?</b>
-   	
-   	</p><p class="text"><b>Management of Your Account</b>.  When you become a member, Upromise uses your contact and transaction data to manage your account.
-   	
-   	</p><p><b>Use of Third Parties for Fulfillment Purposes</b>.  Upromise may use certain third-party processors to provide administrative services, such as keeping track of your purchases or delivering special college saving offers to you on our behalf. In order to obtain these services, Upromise may need to share certain personally identifiable information about our members. However, those third parties will be bound by legal agreements to not use or disclose the information Upromise provides them for any purpose other than to administer the service.
-   	
-   	<a name="comm"></a></p><p><b>Notification About Products and Services</b>.  Upromise offers you the chance to maximize your savings through new college savings opportunities made available to you on our site and, unless you opt out of receiving them, through email, mail, and telephone messages. Upromise may use information about you to provide you offers tailored to your interests.
-   	
-   	</p><p><b>Use of Information from Third Parties</b>.  We may obtain information about you from our contributing companies and other third parties in order to provide you with college savings opportunities tailored to your interests. You may opt out of receiving these offers. Upromise may also use information obtained from our contributing companies and other third parties in conjunction with member account and enrollment information for marketing and audit purposes. See the section below on "Use of Non-Personally Identifiable Information" for related information.
-   	
-   	<a name="cookies"></a></p><p><b>Use of Cookies</b>.  Our web servers place and read "cookies" on our site's visitors'
-   	computers for a variety of purposes.  Cookies are small data files that are
-   	stored on an Internet user's computer by a web server.
-   	One important use of cookies is to validate your identity while you are logged in to the Upromise site.  Consequently, if your browser does not accept session cookies, you will be unable to enroll or log in to our service.  You will, however, be able to browse our site as a visitor.  The information Upromise collects from cookies and web server logs is used to administer the web service and customize information you receive when visiting our site.  Upromise may also use and share aggregate information from cookies and web server logs to analyze and improve our web service offerings.
-   	
-   	</p><p><b>Use of Non-Personally Identifiable Information</b>.  Upromise may also provide aggregated, non-personally identifiable information about our members and their future college students to third parties for audit and marketing purposes. Because aggregated data is not associated with any particular person, these third parties will not have access to any personally identifiable information about you or your future college students.
-   	
-   	</p><p><b>Transfers of Information for Legal Purposes</b>.  Upromise may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, or search warrant, or in the course of a legal proceeding or lawsuit. If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially used by the purchaser.  If, as a result of such a change of control in Upromise's business, there is a material change in this statement or our information-handling practices as described in this statement, we will post the changes on this privacy statement and on our website at least 30 days prior to their implementation.  We will also send an email notification to our members.  You will have a choice as to whether we use your existing information in a new manner.
-   	
-   	<a name="optout"></a></p><p class="subheadline2"><b>What are my choices regarding how my personal information is used by Upromise?</b>
-   	
-   	</p><p class="text">We reserve the right to send you specific administrative notices that are required by law, regulation, or as needed to service your account. You may choose to receive messages from Upromise and our contributing companies that may better suit your interests based on your preferences and transaction history. If you do not wish to receive these messages from Upromise and our contributing companies, you may opt out during the registration process or by updating your profile at any time on the "Your Account" page.
-   	
-   	<a name="access"></a></p><p class="subheadline2"><b>How can I access and update my Upromise data?</b>
-   	
-   	</p><p class="text">You may access and update information stored in your account profile by visiting the "Your Account" page of the Upromise site. Please keep your contact, account, and preference information up-to-date. Doing so ensures that your contributions are properly tracked and received. It also helps us inform you of new contributing companies who may help you boost your college savings.
-   	
-   	<a name="secure"></a></p><p class="subheadline2"><b>How secure is my personal information?</b>
-   	
-   	</p><p class="text">Upromise is committed to earning and keeping your trust. We understand the need for our members' personal information to remain secure and private, and we have deployed industry-recognized safeguards to protect your personal information, including: monitoring for intrusion attempts; SSL (Secure Socket Layer), data, and password encryption technology; firewalls and systems monitoring; and security audits and inspections. Employee access to member data is restricted.  Approved access requires both a password and a key.
-   	</p><p>
-   	To learn more about the security measures Upromise is taking on your behalf, please review our Security Statement, accessible through the link on the bottom of this page.
-   	
-   	</p><p><i>Please remember that you also play a valuable part in data security. You should never share your Upromise password with anyone. If you feel your password has been compromised, you should change it immediately. After you have finished using our site, you should log out of your Upromise account and exit your browser so that no unauthorized persons can use our site under your name and account information.</i>
-   	
-   	<a name="other"></a></p><p class="subheadline2"><b>What about links to other sites?</b>
-   	
-   	</p><p class="text">Through our various online offerings, we may provide links to third-party websites, such as those of our contributing companies or your investment manager. Each of these sites may have separate privacy and different data-collection practices from Upromise, and Upromise is not responsible for the actions or practices of these third parties, nor for the content on these sites. We encourage you to review the privacy policies of their sites.
-   	
-   	<a name="changes"></a></p><p class="subheadline2"><b>What if Upromise changes its Privacy Statement?</b>
-   	
-   	</p><p class="text">If we materially change this statement or our information-handling practices as described in this statement, we will post the changes on this privacy statement and on our website at least 30 days prior to their implementation. We will also send an email notification to our members.  You will have a choice as to whether we use your existing information in a new manner.
-   	
-   	</p><p class="subheadline2"><b>What is TRUSTe and why is it so important?</b>
-   	
-   	</p><p class="text">Upromise is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  TRUSTe has agreed to review the practices of www.upromise.com because this website wants to demonstrate its commitment to your privacy.
-   	<br><br>
-   	If you have questions or concerns regarding this statement, you should first contact Upromise (see below). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then <a href="http://www.truste.org/users/users_watchdog.html" target="_blank">contact TRUSTe</a>. TRUSTe will then serve as a liaison with Upromise to resolve your concerns.
-   	
-   	<a name="contact"></a></p><p class="subheadline2"><b>How do I contact Upromise about this Privacy Statement?</b>
-   	
-   	</p><p class="text">If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please  <a href="/nspage?su=8105">contact us</a>.
-   	
-   	</p><p>This statement reflects the practices of both Upromise, Inc. and Upromise Investments, Inc., a registered broker-dealer and wholly-owned subsidiary of Upromise, Inc. that enables members to invest their contributions in Section 529 college savings plans.
-     </p></td>
-   
+   <tr><td colspan="2"><img src="http://im.upromise.com/images/1.gif" width="1" height="10" alt="" border="0"></td></tr>
+    <tr>
+     <td class="text" align="left" colspan="2">
+     <div class="subheadline2a"><font color="##336699">
+     <a href="#privacy">Additional Privacy Information for the Upromise Rewards Service</a></font></div>
+     </td>
     </tr>
-   </tbody></table>
+    <tr>
+     <td class="text" align="left">
+     <br>
+     <b>Table of Contents</b>
+     <br>
+     <a href="#info">Information we collect, and why</a><br>
+     <a href="#access">Accessing your information</a><br>
+     <a href="#contact">Contacting Upromise</a><br>
+     </td>
+     <td class="text" align="left">
+     <br>
+     <a href="#useinfo">How we use your information</a><br>
+     <a href="#other">Other sites</a><br>
+     </td>
+    </tr>
+  
+    <tr>
+     <td class="text" colspan="2">
+     <br><br>
+  	<a name="why"></a><p class="subheadline2a"><b>Upromise Privacy Statement</b>
+  	
+  	</p><p class="text">Protecting your privacy is a top priority at Upromise.  We want you to understand how we handle the personal information about you that we may obtain, and how we may and may not share it.  This statement covers all of our information handling practices for Upromise, Inc. and its affiliates (companies under common ownership with Upromise) for the benefit of current and past customers.  Please also see our separate statement, <a href="#privacy">Privacy of Upromise Rewards Service</a>, for additional information about our practices relating to our Rewards service.
+  	
+  	</p><p><b>Information We May Obtain</b>.<br><br>
+  	As part of providing you products or services, we may obtain personal information from the following sources:
+  	</p><ul>
+  	<li><b>Information you provide to us</b> on applications and other forms, that you otherwise enter on our web site, or that you provide to us in writing or by telephone, such as when you contact our customer service staff.  This information may include items such as your name, address, telephone number and social security number.  In addition, please see <b>Use of Cookies</b> below for information we receive automatically when you visit our web site.
+  	</li><li><b>Information from your transactions</b> with us, our affiliates or nonaffiliated third parties such as account activity and your purchase information in our Rewards service.
+  	</li><li><b>Information from third parties</b>, including public sources, such as verification services and consumer reporting agencies (to comply with regulatory requirements, ensure the accuracy of data and prevent fraud, for example), or from other sources (such as from other institutions like a bank or broker you use to  transfer funds into a Upromise account, or public sources).
+  	</li></ul>
+  	We use the information we obtain in order to develop, offer and deliver our products and services, to process transactions in your accounts, and to fulfill legal and regulatory requirements.  We limit the collection and use of customer information to the minimum we require to deliver superior service to our customers (including advising our customers about our products, services and other opportunities) and to administer our business.
+  	
+  	<div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<a name="data"></a><p><b>Sharing Information With Our Affiliates</b><br><br>
+  	By sharing your personal information with our affiliates, we can better understand and meet your college savings needs by letting you know about products, services and promotional offers in which you are most likely to be interested.  For example, if you have a Rewards account that has accumulated sufficient funds, you may be interested in opening an account with the Upromise College Fund, which can contact you directly about how to do that. <br><br>
+  	Unless you tell us not to, we may share with our affiliates all of the information we obtain about you.  If you prefer that we not share with our affiliates consumer report information about you that we may receive from third parties, you may direct us not to do so by sending us an email at <a href="mailto:customercare@upromise.com">customercare@upromise.com</a> containing your name, address and account number, or by calling the following toll free number: 1-800-877-6647.  Please be aware that we may continue to share any <i>other</i> information as permitted by law.
+  	
+  	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<p><b>Sharing Information With Nonaffilated Third Parties</b><br>
+  	Information about our customers is an important part of our business.  We do not share your personal information with third parties except as permitted or required by law, including as provided below:
+  	</p><ul>
+  	<li><b>Agents and Service Providers.</b>  In order to provide our products and services, we may share any of the information we gather about you with agents and service providers to perform functions on our behalf, such as to send email and postal mail, analyze data, provide marketing services, process applications and credit card payments, and service accounts.  These service providers have access to personal information needed to perform their functions, but may not use it for other purposes.
+  	</li><li><b>Protection of Upromise and Others.</b>  We may disclose personal information about you to third parties when we believe such disclosure is appropriate to comply with a legal requirement, such as a law, regulation, court order, subpoena or search warrant, or in the course of a legal proceeding.  We may also disclose personal information as we believe appropriate to enforce or apply our rights under our agreements with customers, to protect the rights, property or safety of Upromise, our customers and others, including exchanging information for fraud protection and credit risk reduction.
+  	</li><li><b>Business Transfers.</b>  If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser.  However, if that business materially changes this statement or the information-handling practices as described in this statement, you will have a choice as to whether your existing information is used in a new manner.
+  	</li></ul>
+  	If we ever make the decision to share customer personal information with third parties so that they may market their products and services directly to you, we will notify you ahead of time, and we will not share your information without your consent.
+  	
+  	<div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<a name="cookies"></a><p><b>Use of Cookies </b><br><br>
+  	Our web servers place and read "cookies" on our site's visitors' computers for a variety of purposes. Cookies are small data files that are stored on an Internet user's computer by a web server. One important use of cookies is to help identify you while you are logged in to the Upromise site. Consequently, if your browser does not accept session cookies, you will be unable to enroll or log in to our service using our site. You will, however, be able to browse our site as a visitor. The information Upromise collects from cookies and web server logs is used to administer the web service and customize information you receive when visiting our site. Upromise may also use and share aggregate information from cookies and web server logs to analyze and improve our web service offerings.  This information does not identify individual visitors or customers.
+  	
+  	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<a name="comm"></a><p><b>Choices Regarding the Receipt of Marketing Messages </b><br><br>
+  	You may choose whether and to what extent you receive marketing messages from Upromise about products and services offered by Upromise or third parties. If you do not wish to receive marketing messages, you may opt out at any time. And we offer you choices, so that you receive offers that are of interest to you in the ways you wish. If you do not wish to receive messages, you may opt out by updating your account profile at any time on the Upromise web site, or by contacting a customer service representative at 1-800-877-6647. We reserve the right to send you specific administrative notices that are required by law, regulation, or as needed to service your account.
+  	
+  	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<a name="secure"></a><p><b>Security of Your Personal Information </b><br><br>
+  	Upromise is committed to earning and keeping your trust. We understand the need for our customers' personal information to remain secure and private, and we have deployed industry-recognized safeguards that meet federal standards for the protection of your personal information, including: monitoring for intrusion attempts; SSL (Secure Socket Layer), data, and password encryption technology; firewalls and systems monitoring; and security audits and inspections. Only authorized employees have access to customer information. <br><br>
+  	<i>Please remember that you also play a valuable part in data security. You should never share your Upromise password with anyone. If you feel your password has been compromised, you should change it immediately. After you have finished using our site, you should log out of your Upromise account and exit your browser so that no unauthorized persons can use our site under your name and account information.</i>
+  	
+  	</p><p><b>Collection of Information from Children.</b><br><br>
+  	None of Upromise's products or services are intended for purchase by children.  Accordingly, Upromise does not knowingly collect, either online or offline, personally identifiable information from children under the age of 13.
+  	
+  	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<a name="changes"><p><b>Changes to This Privacy Statement </b><br><br>
+  	If we materially change this statement or our information-handling practices as described in this statement, we will notify you at least 30 days prior to their implementation. You will have choices as to whether we use your existing information in a new manner.
+  	
+  	</p></a><p class="subheadline2a"><a name="changes"></a><a name="privacy"><b>Privacy of Upromise Rewards Service</b></a>
+  	
+  	<a name="info"></a></p><p class="text"><a name="info"><b>What information does Upromise collect, and why?</b>
+  	
+  	</a></p><p><a name="info"><b>Enrollment Information. </b>To set up your membership with the Upromise Rewards service, you will need to provide certain contact information, such as your name, mailing address, email address, phone number, username, and password. This information will also allow us to contact you about new college savings opportunities, unless you opt out of receiving these messages.
+  	
+  	</a></p><p><a name="info"><b>Purchase Information.</b> As a Rewards service member, you can save for college by shopping with our contributing companies. We may require additional information in order to keep track of and collect your contributions. For example, if you use a credit card to make a purchase, we may use your credit card number to identify the transaction. A phone company might require your telephone number, while an airline might require your frequent flyer account number. To take part in our grocery service, you may need to provide a grocery loyalty card number.  In order to keep track of and collect your contributions, Upromise collects from some contributing companies, grocery retailers or third party processors details of your transactions such as the date and amount of your transaction.
+  	
+  	</a></p><p><a name="info"><b>Rewards Account Information.</b> We will maintain records to keep track of the contributions you earn from your purchases with our contributing companies. You can use our website to view your Rewards service account balances and recent account activities, update your account profile, establish college savings goals, add new future college students, or contact a customer service representative.
+  	
+  	</a></p><p><a name="info"><b>Future College Student Information.</b> In order to tell us how to direct your savings from your Rewards service account and link an investment account to the Rewards service you will need to provide certain information about those students. You can also personalize your Rewards service account to reflect your progress toward achieving your personal college savings goals by providing additional information about your future college students, such as when they anticipate starting college and whether they plan to attend a public or private institution. We may use this information to contact you about college savings opportunities, unless you opt out of receiving these messages.
+  	
+  	</a></p><p><a name="info"><b>Investment Account Information.</b> When you open an investment account, the investment manager is required by law and by industry regulations to obtain certain personal information before creating your investment account. We and our investment manager partners will share certain personal information (such as your or your student's social security number or address) and demographic data with one another to facilitate the application process and monthly processing, and to comply with applicable law. This sharing of information is required to manage your account. Additionally, we may use this demographic information (such as your future college student's date of birth) to contact you about relevant college savings opportunities, unless you opt out of receiving such messages.
+  	
+  	</a></p><p><a name="info"><b>Family and Friends Network Information.</b> You may use our Tell-a-Friend service to notify your family and friends about Upromise by providing their names and email addresses. You can also increase your college savings through Upromise by creating a savings network of family and friends that directs a portion of its Upromise savings to your future college students.
+  	<br><br>
+  	Upromise will automatically send a one-time email inviting your family and friends to visit Upromise. We store the information for the purpose of sending these emails and to measure overall response rates to these services. Your family and friends may </a><a href="/nspage?su=8105">contact us</a> to request that their information be removed.
+  	<br><br>
+  	Family and friends who contribute to your future college students' investment accounts will receive confirmation of the name and age of each future college student for whom they are saving.
+  	
+  	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<a name="useinfo"><p><b>How does Upromise use my information?</b>
+  	
+  	</p><p><b>Management of Your Account.</b> When you become a member, we use your contact and transaction data to manage your account.
+  	
+  	</p><p><b>Use of Third Parties for Fulfillment Purposes.</b> We may use certain third parties to provide marketing and administrative services, such as keeping track of your purchases, analyzing data or delivering special college saving offers to you on our behalf or on behalf of our contributing companies. In order to obtain these services, we may need to share certain personally identifiable information about our members. However, those third parties will be bound by legal agreements to not use or disclose the information we provide them for any purpose other than to perform the requested service.
+  	
+  	</p><p><b>Notification About Products and Services.</b> We offer you the chance to maximize your savings through new college savings opportunities made available to you on our site and, unless you opt out of receiving them, through email, mail, and telephone messages. We may use information about you to provide you offers tailored to your interests.  Sometimes, we send offers to selected groups of members on behalf of our contributing companies.  When we do this, we do not give the contributing company your name and address.  If you do not want to receive offers from contributing companies, you may opt out of receiving them.
+  	
+  	</p><p><b>Use of Information from Third Parties.</b> We may obtain information about you from our contributing companies and other third parties in order to provide you with college savings opportunities tailored to your interests. You may opt out of receiving these offers. We may also use information obtained from our contributing companies and other third parties in conjunction with member account and enrollment information for analytical and audit purposes.
+  	
+  	</p><p><b>Use of Non-Personally Identifiable Information.</b> We may also provide aggregated, non-personally identifiable information about our members and their future college students to third parties for audit, marketing and other purposes. Because aggregated data is not associated with any particular person, these third parties will not have access to any personally identifiable information about you or your future college students.
+  	
+  	
+  	</p></a><div align="right" class="smalltext"><a name="useinfo"></a><a href="#top">Back to Top</a></div>
+  	
+  	<p><b>What are my choices regarding the receipt of marketing messages?</b><br>
+  	We reserve the right to send you specific administrative notices that are required by law, regulation, or as needed to service your account. You may choose to receive messages from Upromise and our contributing companies that may better suit your interests based on your preferences and transaction history. If you do not wish to receive these messages from Upromise and our contributing companies, you may opt out by updating your account profile at any time on our website.
+  	
+  	<a name="access"></a></p><p><a name="access"><b>How can I access and update my Upromise data?</b><br>
+  	You may access and update information stored in your account profile by visiting the Upromise site. Please keep your contact, account, and preference information up-to-date. Doing so ensures that your contributions are properly tracked and received. It also helps us inform you of new contributing companies who may help you boost your college savings.
+  	
+  	</a></p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<a name="other"></a><p><a name="other"><b>What about links to other sites and contributing companies' use of information?</b><br>
+  	Through our various online offerings, we may provide links to third-party websites, such as those of our contributing companies or your investment manager. Each of these sites may have separate privacy and different data-collection practices from Upromise, and we are not responsible for the actions or practices of these third parties, nor for the content on these sites. We encourage you to review the privacy policies of their sites.   In addition, our remindU service is provided by a third party, which also has a separate privacy policy and data-collection practices which can be accessed when you down-load the remindU software.  Finally, please remember that when you shop or do any other business with any of our contributing companies, any information you provide to them is subject to their own privacy and data collection practices, for which Upromise is not responsible.
+  	
+  	</a><a name="transfers"></a></p><p><a name="transfers"><b>Business Transfers and Changes to This Privacy Statement</b><br>
+  	If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser.   We will notify you via prominent notice on the Upromise site for 30 days prior to such a change of ownership or control of your personal information, or prior to the implementation of any material change in this statement or our information-handling practices as described in this statement. You will have choices as to whether we use your existing information in a new manner.
+  	
+  	</a></p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<p><b>What is TRUSTe and why is it so important?</b><br>
+  	Upromise is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  TRUSTe has agreed to review the practices of <a href="http://www.upromise.com" target="_blank">www.upromise.com</a> because this website wants to demonstrate its commitment to your privacy.  Please note that the TRUSTe program does not cover the privacy practices of Upromise, Inc. affiliates.  Please also note that the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.
+  	<br><br>
+  	If you have questions or concerns regarding this statement, you should first contact Upromise (see below). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then <a href="http://www.truste.org/users/users_watchdog.html" target="_blank">contact TRUSTe</a>. TRUSTe will then serve as a liaison with Upromise to resolve your concerns.
+  	
+  	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+  	
+  	<a name="contact"></a><p><a name="contact"><b>How do I contact Upromise about this Privacy Statement?</b><br>
+  	If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please </a><a href="/nspage?su=8105">contact us</a>
+  	
+  	</p><div align="right" class="smalltext"><a href="#top">Back to Top</a></div>
+    </td>
+  
+   </tr>
+  </tbody></table>
   </td>
- </tr>
- <tr>
-  <td valign="top" class="text" width="144">
+  </tr>
+  </tbody></table>
   </td>
-  <td valign="top" width="12"><img src="http://im.upromise.com/images/1.gif" width="12" height="1" border="0"></td>
-  <td valign="top" class="text" width="604">  
-  </td>
- </tr>
- <tr>
-  <td colspan="2" width="156"><img src="http://im.upromise.com/images/1.gif" width="156" height="1" border="0"></td>
-  <td width="604"><img src="http://im.upromise.com/images/1.gif" width="604" height="1" border="0"></td>
  </tr>
 </tbody></table>
 <p>
-<img src="http://im.upromise.com/images/1.gif" width="1" height="20" alt="" border="0">
 <table width="760" cellpadding="0" cellspacing="0">
  <tbody><tr>
   <td></td>
@@ -332,12 +397,11 @@ if(isUsr){
     <a href="/corp/legal.html?cx=f">Legal</a> |
     <a href="/content/faq/sitemap.html?cx=f">Site Map</a> |
     <a href="/nspage?su=8105&amp;cx=f">Contact Us</a> |
-    <a href="/corp/careers/career.html?cx=f">Jobs</a> |
-    <a href="/content/affiliates/affiliatesIndex.html?cx=f">Become an Affiliate</a> |
+    <a href="/corp/careers/career.html?cx=f">Careers</a> |
     <script language="JavaScript">document.write('<a href="' + baseDomain + '/search" class="smalltext">Search</a>');</script><noscript><a href="http://www.upromise.com/search" class="smalltext">Search</a></noscript>
     <div class="smalltext">
     Upromise is a <a href="/corp/security.html?cx=f">secure</a> site that respects your <a href="/corp/privacy.html?cx=f">privacy</a>.<br>
-    © 2001-2002 Upromise, Inc. All rights reserved.<br>
+    © 2001-2003 Upromise, Inc. All rights reserved.<br>
     Brokerage services are provided through Upromise Investments, Inc., member NASD/SIPC.
     <br>
     <script language="JavaScript">
@@ -378,4 +442,6 @@ if (cobrandChecked){
 
 
 <!--<%=com.upromise.app.util.WebUtil.getJSPDataAsXML(fsirequest, true)%>-->
+
+
 </p></body></html>
