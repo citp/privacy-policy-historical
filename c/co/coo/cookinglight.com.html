@@ -1,39 +1,220 @@
-<!--The following is the downloaded HTML source of the cookinglight.com privacy policy that was archived on 2000-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000605215938id_/http%3A//cookinglight.com/customerservice/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cookinglight.com privacy policy that was archived on 2000-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001202141400id_/http%3A//www.cookinglight.com/customerservice/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<title> 		Cooking Light - Privacy Policy</title>
+<title>Cooking Light - Privacy Policy</title>
+<link rel="stylesheet" href="../includes/clstyles.css">
 
-<link rel="stylesheet" href="../publicincludes/clstyles.css">
-<script language="JavaScript" src="/random.js"></script>
-</head>
+<script language="JavaScript">
 
-<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" link="#CC0000" vlink="#666633" alink="#CCCC99" onload="MM_preloadImages('../images/nav_food_on.gif','#932686072240');MM_preloadImages('../images/nav_comm_on.gif','#933003781130');MM_preloadImages('../images/pi_questions_on.gif','#933004157260');MM_preloadImages('../images/pi_about_us_on.gif','#933004180820');MM_preloadImages('../images/pi_advertising_on.gif','#933004227120');MM_preloadImages('../images/pi_jobs_on.gif','#933004249970');MM_preloadImages('../images/pi_site_map_on.gif','#933004278150');MM_preloadImages('../images/pi_notices_on.gif','#933004299570');MM_preloadImages('../images/pi_annual_indexes_on.gif','#933004321150')">
+
+<!--
+var P_isLoaded = false;
+function P_checkUnload() {
+        if(P_isLoaded && (document.layers||document.all))P_closeDown();
+}
+// -->
+
+</script><script language="JavaScript1.2">
+
+<!--
+if(!document.cookie) { 
+        document.cookie = "PopUpCalls=0;path=/;";
+}
+if ((document.layers || document.all) && document.cookie) { 
+        var P_showPop=true;
+} else {
+        var P_showPop=false; 
+}
+
+if (P_showPop) {
+        P_Rules = new Array();
+// section 2: magazine rules
+        P_Mag="CookingLight";
+        P_Rules[0] = "~cookinglight.com/"; // rules array contains definitions of internal links (links that will not get a popup).  "~" means contains and "!" means does not contain.  Rules can be combined with logical "and" using "&&": ~time.com/&&!/digital/ is one way of combining these tools.     
+        P_Rules[1] = "~www.cookinglight.com/";
+        //P_Hours = 0; // number of hours till next popup
+        P_Hours = 3.00; // number of hours till next popup
+        P_Source = "http://www.hotdots.com/includes/OnExit.asp?Mag=" + P_Mag;// URL of popup
+        P_Height = 325; // height of popup window
+        P_Width = 550; // width of popup window
+        P_cookieDomain = false; // if you want to specify a domain for this cookie, add it here, e.g. ".pathfinder.com";
+// section 3: program. minimal comments follow
+        P_today = new Date();
+        P_todayNum = P_today.valueOf();
+        var P_LeftChip="";
+        var P_RightChip="";
+        var P_Chip="";
+        var P_DocCookie = unescape(document.cookie);
+        if(P_DocCookie.length>0) {
+                P_begin=P_DocCookie.indexOf("PopUpCalls=");
+                if(P_begin != -1) {
+                        P_begin += 11; // 11 is length of string "PopUpCalls="
+                        P_end=P_DocCookie.indexOf(";", P_begin);
+                        if (P_end==-1) P_end=P_DocCookie.length;
+                        P_Cookie=P_DocCookie.substring(P_begin, P_end);
+                        P_ChipStart=P_Cookie.indexOf(P_Mag+"=");
+                        if(P_ChipStart>-1) {
+                                P_LeftChip=P_Cookie.substring(0,P_ChipStart);
+                                P_ChipStart+=1+P_Mag.length
+                                P_ChipEnd=P_Cookie.indexOf("|",P_ChipStart);
+                                if(P_ChipEnd==-1) P_ChipEnd = P_Cookie.length;
+                                P_Chip=P_Cookie.substring(P_ChipStart,P_ChipEnd);
+                                P_RightChip=P_Cookie.substring(P_ChipEnd);
+                                if(P_todayNum < parseInt(P_Chip)) P_showPop = false;
+                        } else {
+                                P_LeftChip=P_Cookie;
+                                P_RightChip="";
+                        }
+                }
+        }
+}
+function P_checkClick(ev) { // onClick function
+        if(P_showPop) {
+                P_Link="";
+                if(document.layers) {
+                        P_Test=ev.target.toString().toLowerCase();
+
+                        if(P_Test.substring(0,6)=="<input") {
+                                P_showPop = false;
+                        } else {
+                                P_Link=P_Test;
+                        }
+                } else if (document.all) {
+                                                P_myElement = window.event.srcElement;
+                                                while(P_myElement.tagName.toLowerCase()!="a" &&
+                                                  P_myElement.tagName.toLowerCase()!="body" &&
+                                                  P_myElement.tagName.toLowerCase()!="input" &&
+                                                  P_myElement.tagName.toLowerCase()!="area" ) {
+                                                        P_myElement = P_myElement.parentElement;
+                                                }
+                        P_tag = P_myElement.tagName.toLowerCase();
+                        if (P_tag=="a" || P_tag=="area") {
+                                P_Link=P_myElement.href;
+                        } else if(P_tag=="input") {
+                                P_showPop=false;
+                        }
+
+                }
+                P_Link=P_Link.toLowerCase();
+
+        var P_ToReplace = /\x2F/g;
+        P_URL = self.location.pathname;
+        P_URL = P_URL.replace(P_ToReplace, "\[\/\]"); 
+        var P_ToMatch = new RegExp(P_URL + "[/]{0,1}(index.|default.){0,1}[^.]*#", "i");
+                var P_RV = P_Link.search(P_ToMatch);
+
+                if(P_Link!="" && (P_RV==-1) && (P_Link.substring(0,4)=="http")) {
+                        if(P_isInternal(P_Link)) {
+                                P_showPop=false;
+                        }
+                }
+                if(document.layers) {
+                        routeEvent(ev);
+                        return true;
+                }
+        }
+}
+function P_isInternal(P_URL) { // function to evaluate whether a URL is internal (should not get a popup)
+        for (i=0;i < P_Rules.length;i++) {
+                P_Parts = P_Rules[i].split("&&");
+                P_Result = true;
+                for (j=0;j < P_Parts.length;j++) {
+                        P_Search = P_URL.indexOf(P_Parts[j].substring(1));
+                        P_Call = P_Parts[j].charAt(0);
+                        if ((P_Search==-1 && P_Call=="~") || (P_Search>-1 && P_Call=="!")) {
+                                P_Result = false;
+                                break;
+                        }
+                }
+                if(P_Result) return true; 
+        }
+        return false; 
+}
+function P_closeDown() { // onunload function
+        if(P_showPop) { 
+                popupWin = window.open(P_Source, "POPUP", "height=" + P_Height + ",width=" + P_Width + ","); 
+                P_Chip = P_todayNum + (P_Hours * 60 * 60 * 1000);
+                P_today.setTime(P_today.getTime() + (31 * 24 * 60 * 60 * 1000));
+                document.cookie = "PopUpCalls=" + escape(P_LeftChip + P_Mag + "=" + P_Chip + (P_RightChip.charAt(0)=="|"?"":"|") + P_RightChip) + ";path=/; expires=" + P_today.toGMTString()+(P_cookieDomain?";domain="+P_cookieDomain:"")+";";  //
+        }
+} 
+
+function P_popupoff() { // added by JQ 3/27/00 to disable popup
+    P_showPop = false;
+}
+
+function P_NSform (ev) { // Netscape 4.x form submit capture
+ P_showPop = false;
+    routeEvent(ev);
+    return true;
+}
+ 
+if (P_showPop) { // setting up click capture
+  if(document.layers) { 
+    window.captureEvents(Event.CLICK | Event.SUBMIT);
+    window.onClick=P_checkClick;
+    window.onSubmit=P_NSform;
+  }
+  if(document.all) {
+    document.onclick=P_checkClick;
+  }
+}
+
+// code (vanity plate): Gary Poster, with essential assists from Galyn Norwood, Phiroon Phihakendr, Jose Quijada, Pavandeep Kalra. Copyright 2000 Time Inc.
+// note: we tried to eliminate the need for all body tag event handlers but onunload proved to be necessary because otherwise Netscape produces security errors when the cookie is set (even when the unload event is captured).
+// -->
+P_isLoaded=true;
+
+</script></head>
+<!-- The following seven lines are the error catching routine and should only be necessary on flat pages.  When used, the body tag
+ should address P_checkUnload rather than P_closeDown -->
+
+<!-- the following is the main script, to be placed in the includes.  If it is divided into three segments as listed below, it will be more flexible in the future, but it is not necessary-->
+<!-- section 1: initialize -->
+
+
+<body onunload="P_checkUnload();" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" link="#CC0000" vlink="#666633" alink="#CCCC99" onload="MM_preloadImages('../images/nav_food_on.gif','#932686072240');
+MM_preloadImages('../images/nav_comm_on.gif','#933003781130');
+MM_preloadImages('../images/pi_questions_on.gif','#933004157260');
+MM_preloadImages('../images/pi_about_us_on.gif','#933004180820');
+MM_preloadImages('../images/pi_advertising_on.gif','#933004227120');
+MM_preloadImages('../images/pi_jobs_on.gif','#933004249970');
+MM_preloadImages('../images/pi_site_map_on.gif','#933004278150');
+MM_preloadImages('../images/pi_notices_on.gif','#933004299570');
+MM_preloadImages('../images/pi_annual_indexes_on.gif','#933004321150')">
 <a name="topofpage"></a> 
+
+<meta content="MSHTML 5.00.2314.1000" name="GENERATOR">
+
 <table width="620" border="0" cellspacing="0" cellpadding="2">
-  <tbody><tr> 
-    <td width="468" align="left" valign="top" height="65"><script language="JavaScript">printAd468();</script>
-<noscript>
-<nolayer> <iframe
-SRC="http://ad.doubleclick.net/adi/cookinglight.dart/clrunofsite;sz=468x60"
-width="468" height="60" marginwidth="0" marginheight="0" hspace="0"
-vspace="0" frameborder="0" scrolling="no">
-<a
-HREF="http://ad.doubleclick.net/jump/cookinglight.dart/clrunofsite;sz=468x60
-">
-<img
-SRC="http://ad.doubleclick.net/ad/cookinglight.dart/clrunofsite;sz=468x60"><
-/a></iframe></nolayer>
-<ilayer id="ph2" visibility="hide" height="60" width="468" top="1"></ilayer>
-</noscript>
-<!--Preceeding will generate the ad banner--></td>
-    <td width="144" valign="bottom" align="right" height="65"><div align="right"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CC0000">
+	<tbody><tr>
+		<td colspan="2">
+		
+		</td><td>
+	</td></tr>
+	<tr> 
+		<td width="468" align="left" valign="top" height="65">
+		<nolayer>
+		<iframe src="http://ad.doubleclick.net/adi/cookinglight.dart/clrunofsite;sz=468x60;ord=172525591" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bordercolor="#000000">
+		<a href="http://ad.doubleclick.net/jump/cookinglight.dart/clrunofsite;sz=468x60;ord=172525591"><img src="http://ad.doubleclick.net/ad/cookinglight.dart/clrunofsite;sz=468x60;ord=172525591" width="468" height="60"></a>
+		</iframe>		
+		</nolayer>
+		<ilayer id="ph2" visibility="hide" width="120" height="60">		
+		</ilayer>		
+		</td>
+		<td width="144" valign="bottom" align="right" height="65">
+<div align="right">
+<b>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CC0000">
 <a href="/customerservice/sos_form.asp?Type=0&amp;coverimg=/DCM_Images/sos/std/nonholiday.gif">GET 2 FREE TRIAL ISSUES OF COOKING LIGHT!</a>
 </font></b></div>
-<img src="../images/clear.GIF" width="144" height="6"></td>
-  </tr>
+
+
+		<img height="6" src="../images/clear.GIF" width="144">
+		</td>
+	</tr>
 </tbody></table>
- 
 <script language="JavaScript">
 <!--
 function MM_swapImgRestore() { //v2.0
@@ -70,83 +251,38 @@ function MM_swapImage() { //v2.0
 }
 //-->
 </script>
-
-
 <table width="619" border="0" cellspacing="0" cellpadding="0" height="89">
-  <tbody><tr>
-    <td width="151" height="89"><a href="../index.asp"><img src="../images/cllogo2.gif" width="151" height="89" alt="home" border="0"></a></td>
-    <td width="401" height="89"><img src="../images/nav_top.gif" width="401" height="12"><br>
-      <a href="../food/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.food','document.food','../images/nav_food_on.gif','#932686072240')"><img name="food" border="0" src="../images/nav_food_off.gif" width="55" height="33" alt="food"></a><a href="../healthyliving/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.health','document.health','../images/nav_health_on.gif','#931314044200')"><img src="../images/nav_health_off.gif" width="66" height="33" border="0" alt="healthy living" name="health"></a><a href="../recipefinder/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.recipes','document.recipes','../images/nav_recipe_on.gif','#931314057990')"><img src="../images/nav_recipe_off.gif" width="57" height="33" border="0" alt="recipe finder" name="recipes"></a><a href="../customerservice/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.service','document.service','../images/nav_service_on.gif','#931314131590')"><img src="../images/nav_service_on.gif" width="76" height="33" border="0" alt="customer service" name="service"></a><a href="../store/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.store','document.store','../images/nav_store_on.gif','#931314144610')"><img src="../images/nav_store_off.gif" width="53" height="33" border="0" name="store" alt="store"></a><a href="../community/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.comm','document.comm','../images/nav_comm_on.gif','#933003781130')"><img src="../images/nav_comm_off.gif" width="94" height="33" border="0" name="comm" alt="community"></a><br>
-<font size="1" face="Verdana, Arial, Helvetica, sans-serif"><img src="../images/sub_nav_level1_left.gif" width="7" height="18" border="0"><a href="../customerservice/questions.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image1','document.Image1','../images/pi_questions_on.gif','#933004157260')"><img src="../images/pi_questions_off.gif" width="49" height="18" border="0" name="Image1" alt="questions"></a><img src="../images/sub_nav_bullet.gif" width="13" height="18"><a href="../customerservice/about_us.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image2','document.Image2','../images/pi_about_us_on.gif','#933004180820')"><img src="../images/pi_about_us_off.gif" width="44" height="18" border="0" name="Image2" alt="about us"></a><img src="../images/sub_nav_bullet.gif" width="13" height="18"><a href="../customerservice/ad.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image3','document.Image3','../images/pi_advertising_on.gif','#933004227120')"><img src="../images/pi_advertising_off.gif" width="60" height="18" border="0" name="Image3" alt="advertising"></a><img src="../images/sub_nav_bullet.gif" width="13" height="18"><a href="../customerservice/jobs.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image4','document.Image4','../images/pi_jobs_on.gif','#933004249970')"><img src="../images/pi_jobs_off.gif" width="22" height="18" border="0" name="Image4" alt="jobs"></a></font><img src="../images/sub_nav_bullet.gif" width="13" height="18"><a href="../customerservice/change_address.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image9','document.Image9','../images/pi_change_of_address_on.gif','#940433714810')"><img src="../images/pi_change_of_address_off.gif" width="96" height="18" border="0" name="Image9"></a><img src="../images/sub_nav_level_filler.gif" width="61" height="18"><img src="../images/sub_nav_level1_right.gif" width="10" height="18"><br>
-      <img src="../images/sub_nav_level2_top.gif" width="401" height="2"><br>
-<img src="../images/sub_nav_level2_left.gif" width="7" height="18"><a href="../customerservice/site_map.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image5','document.Image5','../images/pi_site_map_on.gif','#933004278150')"><img src="../images/pi_site_map_off.gif" width="45" height="18" border="0" name="Image5" alt="site map"></a><img src="../images/sub_nav_bullet.gif" width="13" height="18"><a href="../customerservice/notices.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image6','document.Image6','../images/pi_notices_on.gif','#933004299570')"><img src="../images/pi_notices_off.gif" width="37" height="18" border="0" name="Image6" alt="notices"></a><img src="../images/sub_nav_bullet.gif" width="13" height="18"><a href="../customerservice/annual_indexes.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image7','document.Image7','../images/pi_annual_indexes_on.gif','#933004321150')"><img src="../images/pi_annual_indexes_off.gif" width="77" height="18" border="0" name="Image7" alt="annual indexes"></a><img src="../images/sub_nav_bullet.gif" width="13" height="18"><a href="../customerservice/subscribe_email.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image8','document.Image8','../images/pi_email_newsletter_on.gif','#940100221160')"><img src="../images/pi_email_newsletter_off.gif" width="88" height="18" border="0" name="Image8"></a><img src="../images/sub_nav_level_filler.gif" width="98" height="18"><img src="../images/sub_nav_level2_right.gif" width="10" height="18"><br>
-      <img src="../images/sub_nav_level2_bottom.gif" width="401" height="6"></td>
-<td width="67" height="89">
-<a href="../customerservice/sos_form.asp?trkid=10037S67705&amp;Type=0&amp;coverimg=/DCM_Images/sos/std/nonholiday.gif"><img src="/DCM_Images/sos/std/nonholiday.gif" width="67" height="89" border="0" alt="subscribe now!"></a></td></tr>
+	<tbody><tr>
+		<td width="151" height="89"><a href="/default.asp"><img src="/images/cllogo2.gif" width="151" height="89" alt="home" border="0"></a></td><td width="401" height="89"><img src="/images/nav_top.gif" width="401" height="12"><br><a href="/food/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.food','document.food','/images/nav_food_on.gif','#932686072240')"><img name="food" border="0" src="/images/nav_food_off.gif" width="55" height="33" alt="food"></a><a href="/healthyliving/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.health','document.health','/images/nav_health_on.gif','#931314044200')"><img src="/images/nav_health_off.gif" width="66" height="33" border="0" alt="healthy" living="" name="health"></a><a href="/recipefinder/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.recipes','document.recipes','/images/nav_recipe_on.gif','#931314057990')"><img src="/images/nav_recipe_off.gif" width="57" height="33" border="0" alt="recipe" finder="" name="recipes"></a><a href="/customerservice/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.service','document.service','/images/nav_service_on.gif','#931314131590')"><img src="/images/nav_service_on.gif" width="76" height="33" border="0" alt="customer" service="" name="service"></a><a href="/store/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.store','document.store','/images/nav_store_on.gif','#931314144610')"><img src="/images/nav_store_off.gif" width="53" height="33" border="0" name="store" alt="store"></a><a href="/community/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.comm','document.comm','/images/nav_comm_on.gif','#933003781130')"><img src="/images/nav_comm_off.gif" width="94" height="33" border="0" name="comm" alt="community"></a><br><font size="1" face="Verdana," arial,="" helvetica,="" sans-serif=""><img src="/images/sub_nav_level1_left.gif" width="7" height="18" border="0"><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=ck/home.html&amp;MSRSMAG=CK" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image9','document.Image9','/images/pi_subscriber_services_on.gif','#940433714810')"><img src="/images/pi_subscriber_services_off.gif" width="96" height="18" border="0" name="Image9"></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/questions.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image1','document.Image1','/images/pi_questions_on.gif','#933004157260')"><img src="/images/pi_questions_off.gif" width="49" height="18" border="0" name="Image1" alt="questions"></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/about_us.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image2','document.Image2','/images/pi_about_us_on.gif','#933004180820')"><img src="/images/pi_about_us_off.gif" width="44" height="18" border="0" name="Image2" alt="about" us=""></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/ad.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image3','document.Image3','/images/pi_advertising_on.gif','#933004227120')"><img src="/images/pi_advertising_off.gif" width="60" height="18" border="0" name="Image3" alt="advertising"></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/jobs.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image4','document.Image4','/images/pi_jobs_on.gif','#933004249970')"><img src="/images/pi_jobs_off.gif" width="22" height="18" border="0" name="Image4" alt="jobs"></a></font><img src="/images/sub_nav_level_filler.gif" width="61" height="18"><img src="/images/sub_nav_level1_right.gif" width="10" height="18"><br><img src="/images/sub_nav_level2_top.gif" width="401" height="2"><br><img src="/images/sub_nav_level2_left.gif" width="7" height="18"><a href="/customerservice/site_map.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image5','document.Image5','/images/pi_site_map_on.gif','#933004278150')"><img src="/images/pi_site_map_off.gif" width="45" height="18" border="0" name="Image5" alt="site" map=""></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/notices.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image6','document.Image6','/images/pi_notices_on.gif','#933004299570')"><img src="/images/pi_notices_off.gif" width="37" height="18" border="0" name="Image6" alt="notices"></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/annual_indexes.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image7','document.Image7','/images/pi_annual_indexes_on.gif','#933004321150')"><img src="/images/pi_annual_indexes_off.gif" width="77" height="18" border="0" name="Image7" alt="annual" indexes=""></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/subscribe_email.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image8','document.Image8','/images/pi_email_newsletter_on.gif','#940100221160')"><img src="/images/pi_email_newsletter_off.gif" width="88" height="18" border="0" name="Image8"></a><img src="/images/sub_nav_level_filler.gif" width="98" height="18"><img src="/images/sub_nav_level2_right.gif" width="10" height="18"><br><img src="/images/sub_nav_level2_bottom.gif" width="401" height="6"></td>
+		<td width="67" height="89"><a href="/customerservice/sos_form.asp?trkid=10037S67705&amp;Type=0&amp;coverimg=/DCM/Images/sos/std/nonholiday.gif"><img src="/DCM/Images/sos/std/nonholiday.gif" width="67" height="89" border="0" alt="subscribe now!"></a></td>
+	</tr>
 </tbody></table>
 
 <table width="620" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr valign="top" align="left"> 
-    <td width="162" valign="top" align="center" bgcolor="#999966" rowspan="2">
+	<tbody><tr valign="top" align="left"> 
+		<td width="162" valign="top" align="center" bgcolor="#999966" rowspan="2">
+		
 <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr bgcolor="#CCCC99" valign="top"> 
 <td bgcolor="#CCCC99" align="center">
-<!-- query script start --> 
-<script language="javascript">
-var sqlStmt ;
-var keywords ;
-
-function buildQuery() {	
-		sqlStmt = "SELECT recipe_copy.RECIPEUID as rid, recipe_copy.recipename as rname FROM rectxt_copy, recipe_copy, reccat_copy " +
-					" WHERE  rectxt_copy.RECIPEUID = recipe_copy.RECIPEUID " +
-					" AND    rectxt_copy.RECIPEUID = reccat_copy.RECIPEUID AND " ;
-		
-		// parse keywords
-		for ( i=0; i<keywords.length; i++ ) {
-			if ( i == 0 )
-				sqlStmt += " ( " 
-			else 
-				sqlStmt += " or "									
-			sqlStmt += " PATINDEX ( '%" + keywords[i] + "%', rectxt_copy.text ) > 0 " ;
-		}
-		
-		sqlStmt += " ) " ;
-		
-			document.queryform.sqlstmt.value = sqlStmt ;				
-	}
-	
-	function validateForm () {	
-		
-		if ( document.queryform.keywords.value.length < 1 ) {
-			alert ( "please input the keywords" ) ;
-			document.queryform.keywords.focus() ;
-			return;
-		}
-		
-		keywords = document.queryform.keywords.value.split(",") ;
-		buildQuery();
-		document.queryform.action = "/recipefinder/recipe_search_results.asp";
-		document.queryform.submit();
-		return;
-	}
-</script>
-<!-- query script end --> 
-<table border="0" width="100%" cellspacing="0" cellpadding="10" align="center">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr bgcolor="#CCCC99" valign="top" align="center"> 
 <td bgcolor="#CCCC99" colspan="3"> 
-<form name="queryform" method="post" action="javascript:validateForm()">
-  <a href="../recipefinder/index.asp"><img src="../images/ha_recipefinder.gif" height="66" width="136" alt="Recipe Finder Quick Search" border="0"></a><br>
-  <input type="hidden" name="sqlstmt">
-  <input type="text" name="keywords" size="15">
-  <input type="image" src="../images/button.gif" width="18" height="19" border="0">
-</form>
-</td>
+<form name="queryform" method="post" action="/recipefinder/xt_validate.asp">
+        <a href="../recipefinder/default.asp"><img src="../images/ha_recipefinder.gif" height="66" width="136" alt="Recipe Finder Quick Search" border="0"></a><br>
+          <input type="hidden" name="sqlstmt">
+          <input type="text" name="keywords" size="12">
+          <input type="image" src="../images/button.gif" width="18" height="19" border="0">
+        
+        </form><br>
+      <a href="/special/cookiecountdown.asp"><img src="/images/cookiecount2.jpg" width="145" height="168" border="0" alt="cookie coutndown"></a> 
+    </td>
 </tr>
 </tbody></table>
 <table width="162" border="0" cellspacing="0" cellpadding="0" height="1" align="center">
-  <tbody><tr align="left" valign="top"> 
+ <tbody><tr align="left" valign="top"> 
     <td height="1"><img src="../images/white.gif" width="162" height="1"></td>
-  </tr>
+  </tr>   
 </tbody></table>
 <table border="0" width="100%" cellspacing="0" cellpadding="10" align="center">
 <tbody><tr bgcolor="#CCCC99" valign="top" align="center"> 
@@ -194,136 +330,170 @@ We're always on the move. Find out where you can meet <i>Cooking Light</i> in or
  
 </td>
     </tr>
-</tbody></table> </td>
-    
-<td width="458" valign="top" align="left" rowspan="2"> <img src="../images/hd_privacy_policy.gif" width="454" height="34" alt="online notices"> 
-<table width="454" border="0" cellpadding="15">
-        <tbody><tr align="left" valign="top"> 
-          <td><!--Start content-->  
-<p><font color="#000000" size="3">Cooking Light Online is a Web site maintained 
+</tbody></table> </td>    
+		<td width="458" valign="top" align="left" rowspan="2"> <img src="../images/hd_privacy_policy.gif" width="454" height="34" alt="online notices"> 
+			<table width="454" border="0" cellpadding="15">
+				<tbody><tr align="left" valign="top"> 
+					<td>
+					
+<div class="articlebody"> 
+<p>Cooking Light Online is a Web site maintained 
   by Cooking Light, 2100 Lakeshore Drive, Birmingham, AL 35209. We can be reached 
   by e-mail at <a href="mailto:letters@cookinglight.com">letters@cookinglight.com</a>. 
-  </font> </p>
-<p><font color="#000000" size="3">This site collects no personally identifying 
+   </p>
+<p>This site collects no personally identifying 
   information about individuals except when specifically and knowingly provided 
   by such individuals. In addition, most of our advertisements place a "cookie" 
   in the browser files of a user's computer. The cookie itself does not contain 
   any personally identifying information, although it may enable advertisers to 
   relate a user's use of our site to similar information for other Web sites. 
   These cookies are optional and may be refused any time using your Web browser 
-  software. </font></p>
-<p><font color="#000000" size="3">For each visitor to our Web site, our Web server 
+  software. </p>
+<p>For each visitor to our Web site, our Web server 
   automatically recognizes only the name of your Internet Service Provider, but 
   not your e-mail address. We also aggregate information on what pages consumers 
-  access or visit. This information is used to improve our Web site. </font></p>
-<p><font color="#000000" size="3">When you contact us via E-mail or provide your 
+  access or visit. This information is used to improve our Web site. </p>
+<p>When you contact us via E-mail or provide your 
   E-mail address in a message to us, we use it to handle your request. From time 
   to time, we may allow selected companies to send you information via e-mail 
   which may be of interest to you. If you would not like to be contacted by E-mail, 
   please let us know by noting your preference in a message to our E-mail address 
-  listed above. </font></p>
-<p><font color="#000000" size="3">When you become our customer by ordering one 
+  listed above. </p>
+<p>When you become our customer by ordering one 
   of our magazines or other products, you may receive periodic postal mail from 
   us with information on new products and services. If you do not wish to receive 
   such mailings, please let us know by writing to us at the above address. Also 
   you may receive mailings from other selected companies. You can, however, have 
   your name put on our do-not-share list by writing to us at the above address. 
   Please provide us with your exact name and address. We will be sure your name 
-  is removed from the list we share with other organizations. </font></p>
-<p><font color="#000000" size="3">Users should be aware that when they voluntarily 
+  is removed from the list we share with other organizations. </p>
+<p>Users should be aware that when they voluntarily 
   disclose personal information (e.g., user name, e-mail address) on the bulletin 
   boards or in the chat areas, that information can be collected and used by others 
-  and may result in unsolicited messages from other posters or parties. </font></p>
-<p><font color="#000000" size="3"><b>KIDS</b>: Be sure to ask your parents for 
+  and may result in unsolicited messages from other posters or parties. </p>
+<p><b>KIDS</b>: Be sure to ask your parents for 
   permission before you send any information about yourself to us or anyone else 
-  over the Internet. </font></p>
-<p><font color="#000000" size="3">Please feel free to <a href="../community/contact_cl.asp">contact 
-  us</a> if you have questions about this policy. </font></p>
- <!--End content--> 
-          </td>
+  over the Internet. </p>
+<p>Please feel free to <a href="../community/contact_cl.asp">contact 
+  us</a> if you have questions about this policy. </p>
+
+</div>  
+
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr valign="top" align="left"></tr>
+	<tr valign="middle" align="left" bgcolor="#999966"> 
+	<td colspan="2" align="left" height="7">
+	<div align="right"> <a href="#topofpage"> <img src="../images/topofpage.gif" border="0" alt="Top of Page" width="95" height="14"><img src="../images/clear.GIF" width="67" height="12" border="0"></a></div>
+	</td>
+</tr>
+</tbody></table>
+<table width="620" border="0" cellspacing="0" cellpadding="3">
+	<tbody><tr>
+		<td width="441" align="left" valign="top">
+		 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td colspan="3" height="11"> <font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+      <img src="../images/infofromsponsors.gif" width="159" height="17"><img src="../images/dark_green.gif" width="329" height="1" align="absmiddle"> 
+      </font></td>
+  </tr>
+  <tr> 
+    <td valign="top" align="left" height="48"> 
+      <table border="0" cellpadding="1" cellspacing="0" width="136">
+        <tbody><tr> 
+          <td valign="bottom"><img src="../images/button_small.gif" width="10" height="11"></td>
+          <td valign="top"><a href="http://www.mediaservicesinc.com/readerresponse/cookinglight/"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Featured 
+            Partners</font></a></td>
+        </tr>
+        <tr> 
+          <td valign="bottom"><img src="../images/button_small.gif" width="10" height="11"></td>
+          <td valign="top"><a href="/special/travel_service.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">CL 
+            Travel Service</font></a></td>
+        </tr>
+        <tr> 
+          <td valign="top"><img src="../images/button_small.gif" width="10" height="11"></td>
+          <td valign="top"><a href="/community/onthemove.asp"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"></font></a><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.cookinglight.com/special/l%27oreal.asp"></a><a href="/community/onthemove.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">CL 
+            On the Move Tour</font></a></font></td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td valign="top" align="left" height="48"> 
+      <table border="0" cellpadding="1" cellspacing="0" width="166">
+        <tbody><tr> 
+          <td valign="top" height="13">&nbsp;</td>
+          <td valign="top" height="13">&nbsp;</td>
+        </tr>
+        <!--<tr> 
+          <td valign=top><img src="../images/button_small.gif" width="10" height="11"></td>
+          <td valign=top><a href="/community/onthemove.asp"></a><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.cookinglight.com/special/tablepads.asp">Factory 
+            Direct Table Pads Contest</a></font></td>
+        </tr>--> 
+      </tbody></table>
+    </td>
+    <td valign="top" align="left" height="48"> 
+      <table border="0" cellpadding="1" cellspacing="0" width="118">
+        <tbody><tr> 
+          <td valign="top"><img src="../images/button_small.gif" width="10" height="11"></td>
+          <td valign="top"><a href="/customerservice/ad.asp"></a><a href="/customerservice/ad.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Advertise 
+            With Us</font></a></td>
+        </tr>
+        <tr> 
+          <td valign="bottom"><img src="../images/button_small.gif" width="10" height="11"></td>
+          <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="/special/contestwinners.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Contest 
+            Winners</font></a></font></td>
+        </tr>
+        <tr>
+          <td valign="top"><img src="../images/button_small.gif" width="10" height="11"></td>
+          <td valign="top"><a href="/customerservice/ad.asp"></a><a href="/special/classifieds.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Classifieds</font></a></td>
         </tr>
       </tbody></table>
     </td>
   </tr>
-  <tr valign="top" align="left"> </tr>
-  <tr valign="middle" align="left" bgcolor="#999966"> 
-    <td colspan="2" align="left" height="7"> 
-      <div align="right"><a href="#topofpage"><img src="../images/topofpage.gif" border="0" alt="Top of Page" width="95" height="14"><img src="../images/clear.GIF" width="67" height="12" border="0"></a></div>
-    </td>
-  </tr>
-</tbody></table>
-<table width="620" border="0" cellspacing="0" cellpadding="3">
-  <tbody><tr>
-    <td width="441" align="left" valign="top"> 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td colspan="3" height="11"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="../images/infofromsponsors.gif" width="159" height="17"><img src="../images/dark_green.gif" width="329" height="1" align="absmiddle"></font></td>
-  </tr>
-  <tr>  
-    <td valign="top" align="left" height="23"> 
-        <img src="../images/button_small.gif" width="10" height="11" align="absmiddle"> 
-        <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-        <a href="http://www.mediaservicesinc.com/readerresponse/cookinglight/">Featured Partners</a><br>
-        <img src="../images/button_small.gif" width="10" height="11" align="absmiddle"> 
-        <a href="/special/travel_service.asp">CL Travel Service</a></font><br>
-        <img src="../images/button_small.gif" width="10" height="11" align="absmiddle"> 
-        <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-         <a href="/customerservice/ad.asp">Advertise With Us</a></font>
-        </td>
-    
-    
-  
-    
-    <td valign="top" align="left" height="23"> 
-        <img src="../images/button_small.gif" width="10" height="11" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-        <a href="/community/onthemove.asp">CL On the Move Tour</a></font><br>
-        <img src="../images/button_small.gif" width="10" height="11" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-        <a href="/special/classifieds.asp">Classifieds</a></font><br>
-            <img src="../images/button_small.gif" width="10" height="11" align="absmiddle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-        <a href="/special/raleigh_survey.asp?iSurveyID=4">Win a trip to Napa Valley</a></font><br>
-        </td>
-	</tr>
   <tr valign="middle"> 
-    <td align="left" height="16" colspan="3"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="../images/dark_green.gif" width="488" height="1" align="top"></font></td>
+    <td align="left" height="75" colspan="3"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="../images/dark_green.gif" width="488" height="1" align="top"></font></td>
   </tr>
 </tbody></table>
+<p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="/special/contestwinners.asp"></a></font></p>
+<p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"></font></p>
 
-
-
-
-
-</td>
-    <td width="179" align="left" valign="top"><script language="JavaScript">printAd120();</script>
-<noscript>
-<nolayer><iframe
-src="http://ad.doubleclick.net/adi/cookinglight.dart/clrunofsite;sz=120x60"
-width="120" height="60" marginwidth="0" marginheight="0" hspace="0"
-vspace="0" frameborder="0" scrolling="no"><a
-href="http://ad.doubleclick.net/jump/cookinglight.dart/clrunofsite;sz=120x60
-"><img
-src="http://ad.doubleclick.net/ad/cookinglight.dart/clrunofsite;sz=120x60"><
-/a> </iframe> </nolayer>
-<ilayer id="ph1" visibility="hide" height="90" width="120"></ilayer>
-</noscript>
-<!--Preceeding will generate the ad button-->
- </td>
-  </tr>
+		</td>
+		<td width="179" align="left">
+		<nolayer>
+		<iframe src="http://ad.doubleclick.net/adi/cookinglight.dart/clrunofsite;sz=120x60;ord=&#10;&#9;&#9;&#9;172525591;" width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bordercolor="#000000">
+		<a href="http://ad.doubleclick.net/jump/cookinglight.dart/clrunofsite;
+			sz=120x60;
+			ord=172525591;">
+		<img src="http://ad.doubleclick.net/ad/cookinglight.dart/clrunofsite;
+			sz=120x60;
+			ord=172525591;" 
+			width="120" height="60">
+		</a>
+		</iframe>
+		</nolayer>
+		<ilayer id="ph1" visibility="hide" width="120" height="60">
+		</ilayer>
+		</td>
+	</tr>
 </tbody></table>
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1">| <a href="/index.asp">HOME</a> 
-| <a href="/food/index.asp">FOOD</a> | <a href="/healthyliving/index.asp">HEALTHY 
-LIVING</a> | <a href="/recipefinder/index.asp">RECIPE FINDER</a> | <a href="/customerservice/index.asp">CUSTOMER 
-SERVICE</a> | <a href="/store/index.asp">STORE</a> | <a href="/community/index.asp">COMMUNITY</a> 
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1">| <a href="/default.asp">HOME</a> 
+| <a href="/food/default.asp">FOOD</a> | <a href="/healthyliving/default.asp">HEALTHY 
+LIVING</a> | <a href="/recipefinder/default.asp">RECIPE FINDER</a> | <a href="/customerservice/default.asp">CUSTOMER 
+SERVICE</a> | <a href="/store/default.asp">STORE</a> | <a href="/community/default.asp">COMMUNITY</a> 
 |</font><br>
  <font face="Verdana, Arial, Helvetica, sans-serif" size="1">© Copyright 
 Southern Progress Corporation, 2000. All rights reserved. <a href="/customerservice/privacy_policy.asp">Privacy 
 Policy</a> </font>
-<!--following tag goes before closing BODY tag-->
+<layer src="http://ad.doubleclick.net/adl/cookinglight.dart/clrunofsite;sz=120x60;ord=172525591;" visibility="hide" onload="moveToAbsolute(ph1.pageX, ph1.pageY);clip.height=60;
+	clip.width=120;visibility='show';">
+</layer>
+<layer visibility="hide" onload="moveToAbsolute(ph2.pageX, ph2.pageY);clip.height=60;
+	clip.width=468;visibility='show';" src="http://ad.doubleclick.net/adl/cookinglight.dart/clrunofsite;ord=172525591;sz=468x60" ?="">
+</layer>
 
-<layer src="http://ad.doubleclick.net/adl/cookinglight.dart/clrunofsite;sz=120x60" visibility="hide" onload="moveToAbsolute(ph1.pageX, ph1.pageY);
-clip.height=60; clip.width=120; visibility='show';"></layer>
-
-<layer src="http://ad.doubleclick.net/adl/cookinglight.dart/clrunofsite;sz=468x60" "="" visibility="hide" onload="moveToAbsolute(ph2.pageX, ph2.pageY);
-clip.height=60; clip.width=468; visibility='show';"></layer>
 
 
 </body></html>
