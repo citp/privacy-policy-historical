@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205054600id_/http%3A//soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406220225id_/http%3A//soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Sound Feelings - Privacy Policy
 
@@ -48,7 +48,7 @@ Tel: 818-757-0600
 Fax: 818-757-0834   
 email: [comments@soundfeelings.com](mailto:comments@soundfeelings.com)
 
-Please also see our [Security Statement](https://web.archive.org/web/20001205054600id_/http%3A//soundfeelings.com/about/security.htm).
+Please also see our [Security Statement](https://web.archive.org/web/20010406220225id_/http%3A//soundfeelings.com/about/security.htm).
 
 
-
+| 
