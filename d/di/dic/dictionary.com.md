@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2002-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021113003358id_/http%3A//www.dictionary.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210121844id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
 
-# Dictionary.com/Privacy Statement
+# Dictionary.com/Privacy Policy
 
 ## Privacy Policy
 
@@ -19,6 +19,7 @@ Dictionary.com shares only aggregate information with its affiliates, advertiser
 We use [cookies](https://web.archive.org/search?q=cookie) for various purposes, including: 
 
   * to control ad delivery (for example, to limit the number of pop-up ads you see)
+  * to indicate your subscription status (to check whether or not you are signed in as a subscriber)
   * to customize and enhance your experience
 
 
@@ -48,16 +49,14 @@ This Web site meets the guidelines of [TRUSTe's](http://www.truste.org/) Childre
 
 We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Here is a list of advertising networks with whom we have relationships: 
 
-  * [Advertising.com](http://www.advertising.com/)
-  * [Be Free](http://www.befree.com/)
-  * [ClickAgents](http://clickagents.com/)
-  * [Commission Junction](http://www.commissionjunction.com/)
-  * [CPA Bank](http://www.cpabank.com/)
-  * [Fastclick](http://www.fastclick.com/)
-  * [LinkShare](http://www.linkshare.com/)
-  * [QuinStreet](http://www.quinstreet.com/)
-  * [Rydium](http://www.rydium.com/)
-  * [Tribal Fusion](http://www.tribalfusion.com/)
+  * [Advertising.com](https://web.archive.org/go/http://www.advertising.com/)
+  * [Be Free](https://web.archive.org/go/http://www.befree.com/)
+  * [ClickAgents](https://web.archive.org/go/http://clickagents.com/)
+  * [Commission Junction](https://web.archive.org/go/http://www.commissionjunction.com/)
+  * [Fastclick](https://web.archive.org/go/http://www.fastclick.com/)
+  * [LinkShare](https://web.archive.org/go/http://www.linkshare.com/)
+  * [QuinStreet](https://web.archive.org/go/http://www.quinstreet.com/)
+  * [Tribal Fusion](https://web.archive.org/go/http://www.tribalfusion.com/)
 
 
 
@@ -73,23 +72,6 @@ If you have any questions about this privacy statement, the practices of this si
 >  Attn: Customer Service  
 >  13428 Maxella Avenue #236  
 >  Marina del Rey, CA 90292  
->  [webmaster@dictionary.com](http://www.dictionary.com/help/forms/webmaster.html?Privacy%20Policy)
+>  [E-mail](https://web.archive.org/help/contact.html)
 
-|  | [**93% Satisfaction**](https://web.archive.org/go/http://achieve.phoenix.edu/banners.asp?revkey=3586)  
-See why thousands of professionals in your field advance their careers with University of Phoenix.  
----  
-Sponsored Link  
-  
-  
-[**Free College Money**](https://web.archive.org/go/http://www.fastweb.com/ib/dictionary-1f)  
-Use FastWeb's free scholarship search to find information on more than 600,000 scholarships!  
----  
-Sponsored Link  
-  
-[**Unlimited Nationwide Calling**](https://web.archive.org/go/https://www.simpleservice.biz/register/simpleservice/wotdw3)  
-Flat Fee $49.95/mo. - No Contracts - Call Anyone, Anytime - No Hidden Fees - Activated In Minutes!  
----  
-Sponsored Link  
-  
-**[Your ad above...](https://web.archive.org/go/http://www.lexico.com/help/forms/contact.html?Advertising%20and%20Sponsorship%20Sales)**  
-Send us a message to advertise with us
+| 
