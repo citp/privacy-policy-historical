@@ -1,36 +1,97 @@
-<!--The following is the downloaded HTML source of the all4humor.com privacy policy that was archived on 2000-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206140200id_/http%3A//www.all4humor.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the all4humor.com privacy policy that was archived on 2001-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010608015921id_/http%3A//www.all4humor.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
- <title>Privacy - All4Humor.com - humor | fun stuff | funny pictures | jokes!</title>
-<meta name="description" content="A huge humor and funstuff archive: jokes, pictures, stories, greetings and more!">
-<meta name="keywords" content="funny, pictures, fun, pics, photos, cartoon, cartoons, humor, humour, jokes, funnies, ecards, humorous, gallery, free, joke, pranks, story, stories, stuff, game, games, card, cards, e-cards, greeting, greetings, e-greetings, postcard, digital, all4humor, all, for, archive, virtual, bizarre, comics, images">
+ <title>Privacy Policy - All4Humor.com</title>
 <link rel="StyleSheet" href="main.css" type="text/css">
 <script language="JavaScript">
 <!--
 if (window != top) top.location = location;
-// -->
+//-->
 </script>
+
 <script language="JavaScript">
-<!--
-function validateForm() {
-formObj = document.NewsletterForm;
-if (formObj.e_mail.value == "") { alert("Please enter your email address first."); return false; }
-else return true;
+<!-- Hide this script from old browsers --
+
+function GetCookie (name) {
+ var arg = name + "=";
+ var alen = arg.length;
+ var clen = document.cookie.length;
+ var i = 0;
+ while (i < clen) {
+  var j = i + alen;
+  if (document.cookie.substring(i, j) == arg)
+   return getCookieVal (j);
+  i = document.cookie.indexOf(" ", i) + 1;
+  if (i == 0) break;
+ }
+ return null;
 }
-// -->
+
+function SetCookie (name, value) {
+ var argv = SetCookie.arguments;
+ var argc = SetCookie.arguments.length;
+ var expires = (argc > 2) ? argv[2] : null;
+ var path = (argc > 3) ? argv[3] : null;
+ var domain = (argc > 4) ? argv[4] : null;
+ var secure = (argc > 5) ? argv[5] : false;
+ document.cookie = name + "=" + escape (value) +
+ ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+ ((path == null) ? "" : ("; path=" + path)) +
+ ((domain == null) ? "" : ("; domain=" + domain)) +
+ ((secure == true) ? "; secure" : "");
+}
+
+function DeleteCookie (name) {
+ var exp = new Date();
+ exp.setTime (exp.getTime() - 1);
+ // This cookie is history
+ var cval = GetCookie (name);
+ document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+
+var expDays = 5;
+var exp = new Date();
+exp.setTime(exp.getTime() + (expDays*24*3600*1000));
+
+function DoTheCookieStuff(){
+ var count = GetCookie('count')
+ if(count == null) {           // als count nog niet bestaat, dan aanmaken en initialiseren op 1
+  SetCookie('count','1')
+  return 1
+ }
+ if(count == 3) {
+  window.open('http://www.starteasy.com/cgi-bin/topfun/rankem.cgi?id=a4humor','VoteWindow','width=550,height=325,menubar=no,location=no,status=no,scrollbars=yes,toolbar=yes,resizable=yes');
+  var newcount = parseInt(count) + 1;
+  DeleteCookie('count')
+  SetCookie('count',newcount,exp)
+  return count
+ }
+ else {
+  var newcount = parseInt(count) + 1;
+  DeleteCookie('count')
+  SetCookie('count',newcount,exp)
+  return count
+ }
+}
+
+function getCookieVal(offset) {
+ var endstr = document.cookie.indexOf (";", offset);
+ if (endstr == -1)
+  endstr = document.cookie.length;
+ return unescape(document.cookie.substring(offset, endstr));
+}
+// -- End Hiding Here -->
 </script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
 
-<body bgcolor="#ADBED7" text="#000000" link="#000000" vlink="#000000" alink="#990000">
-
-  
-
+<body bgcolor="#DFDBCA" text="#000000" link="#000000" vlink="#000000" alink="#990000" onunload="DoTheCookieStuff()">
+<center>
 
 <!-- UPPER PART STARTS HERE //-->
-<table border="0" width="750" cellspacing="0" cellpadding="0">
+<table width="750" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
  <td width="100%">
    <table border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -39,13 +100,13 @@ else return true;
     <td width="570">
       <table border="0" width="100%" cellspacing="0" cellpadding="0" height="135">
       <tbody><tr>
-       <td width="570" height="84" align="center"><table width="468" align="center" border="1" cellspacing="0" cellpadding="1" bordercolor="#000000" bgcolor="#DFDBCA"><tbody><tr><td align="center"><!-- Start of Amazing Media ad Code --><script src="http://ads.amazingmedia.com/jserver/SITE=ALL4HUMOR/AREA=RICH"></script><noscript><A HREF="http://ads.amazingmedia.com/adclick.exe/SITE=ALL4HUMOR/AREA=NONRICH" target="_top"><IMG SRC="http://ads.amazingmedia.com/adserver.exe/SITE=ALL4HUMOR/AREA=NONRICH" width=468 height=60 ALT="Amazing Media: Web Advertising YOU Control!"></A></noscript><!-- End of Amazing Media Ad Banner Code --></td></tr></tbody></table></td>
+       <td width="570" height="88" align="center"><a href="http://www.qksrv.net/click-593226-444736" target="_blank" onmouseover="window.status='http://TwistedHumor.com';return true;" onmouseout="window.status=' ';return true;"><img src="http://www.qksrv.net/image-593226-444736" width="468" height="60" alt="So funny it's practically BANNED!" border="1"></a><br><font size="1">funny pictures greetings funpages jokes fun stories cool games - free and categorized!</font></td>
       </tr>
       <tr>
-       <td width="570" height="51" background="images/bgrl.gif" valign="top">
+       <td width="570" height="47" background="images/bgrl.gif" valign="top">
          <table border="0" width="570" cellspacing="0" cellpadding="0">
          <tbody><tr>
-          <td width="567" align="center"><script language="JavaScript">var mydate=new Date(); var day=mydate.getDay(); var month=mydate.getMonth(); var daym=mydate.getDate(); if (daym<10) daym="0"+daym; var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"); var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write("<font face='verdana,arial' size=2 color=#FFFFFF><b>"+dayarray[day]+", "+montharray[month]+" "+daym+", 2000</b></font>")</script><font face="verdana,arial" size="2" color="#FFFFFF"><b>Wednesday, February 19, 2000</b></font></td>
+          <td width="567" align="center"><font color="#FFFFFF"><b>Welcome to All4Humor.com - YOUR source for fun on the internet!</b></font></td>
           <td width="3" align="right"><img border="0" src="images/bgr.gif" width="3" height="39"></td>
          </tr>
          </tbody></table>
@@ -58,103 +119,78 @@ else return true;
  </td>
 </tr>
 </tbody></table>
-<table border="0" width="750" height="15" cellspacing="2" cellpadding="0"><tbody><tr><td align="left"><font face="verdana,arial" size="1"><b>You are here: <a href="index.html">Main Page</a>/Privacy Policy</b></font></td><td align="right"><font face="verdana,arial" size="1"><b>[ <a href="/scripts/axs/ax.pl?http://www.spedia.net/cgi-bin/tz.cgi?run=show_svc&amp;fl=8&amp;vid=2057140" target="_blank">Get paid to surf!</a> | <a href="/scripts/axs/ax.pl?http://www.ecardsaddict.com/list" target="_blank">EcardsAddict.com</a> ]</b></font></td></tr></tbody></table>
 <!-- UPPER PART ENDS HERE //-->
 
-<!-- MAIN TABLE STARTS HERE //-->
-<table border="0" width="750" cellspacing="0" cellpadding="0" height="600">
+<!-- VOTE TABLE STARTS HERE //-->
+<table width="750" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td bgcolor="#000000">
+<table width="100%" cellspacing="1" cellpadding="0" border="0">
+ <tbody><tr><td width="100%" align="center" background="images/bg1.gif"><b>Please vote "Yes" for All4Humor (click on one or more of the buttons below)!</b></td></tr>
+ <tr>
+  <td width="100%" align="center" bgcolor="#000000" background="images/bg2.gif">
+   <img src="images/rpoint.gif" width="13" height="31">&nbsp;&nbsp;<a href="http://www.starteasy.com/cgi-bin/tophumor/rankem.cgi?id=a4humor" target="_blank"><img src="http://starteasy.com/tophumor/images/wthum_linkbutton.gif" width="88" height="31" border="0"></a>&nbsp;&nbsp;<img src="images/lpoint.gif" width="13" height="31">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/rpoint.gif" width="13" height="31">&nbsp;&nbsp;<a href="http://www.topgreetings.com/cgi-bin/rank/rankem.cgi?id=a4humor" target="_blank"><img src="http://www.topgreetings.com/images/topgreetings_88x31.gif" width="88" height="31" border="0"></a>&nbsp;&nbsp;<img src="images/lpoint.gif" width="13" height="31">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="images/rpoint.gif" width="13" height="31">&nbsp;&nbsp;<a href="http://www.starteasy.com/cgi-bin/topfun/rankem.cgi?id=a4humor" target="_blank"><img src="http://starteasy.com/topfun/images/wtfun_linkb01.gif" width="88" height="31" border="0"></a>&nbsp;&nbsp;<img src="images/lpoint.gif" width="13" height="31">
+  </td>
+ </tr>
+</tbody></table>
+</td></tr></tbody></table>
+<!-- VOTE TABLE ENDS HERE //-->
+
+<!-- BORDER & BGCOLOR TABLE BEGIN CODE BEGINS HERE //-->
+<table width="750" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%" bgcolor="#000000">
+<table width="100%" cellspacing="1" cellpadding="0" border="0"><tbody><tr><td bgcolor="#CECEDE">
+<!-- BORDER & BGCOLOR TABLE BEGIN CODE ENDS HERE //-->
+
+<!-- privacy message starts here //-->
+<table width="100%" height="400" cellspacing="0" cellpadding="3" border="0">
 <tbody><tr>
- <td width="180" valign="top">
-<!-- LEFT MENU STARTS HERE //-->
-   <!-- Black Navigation Table begins here //--><table width="100%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000"><!-- Begin black border table ends here //--><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#000000" align="center" valign="top"><font face="verdana,arial" size="2" color="#FFFFFF"><b>| Navigation |</b></font></td></tr></tbody></table> <!-- start black border end //--></td></tr></tbody></table><!-- Black Navigation Table ends here //-->
-   <!-- Begin black border table begins here //--><table width="100%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000"><!-- Begin black border table ends here //--><table width="100%" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td bgcolor="#C0C0C0">
-   <table border="0" width="100%" height="700" cellspacing="0" cellpadding="0">
-   <tbody><tr>
-    <td width="100%" bgcolor="#545F84" valign="top">
-      <table border="0" width="100%" cellspacing="6" cellpadding="0">
-      <tbody><tr>
-        <td width="100%" valign="top">
-<!-- NAVIGATION MENU STARTS HERE //-->
-<table width="100%" cellpadding="1" cellspacing="3" border="0"><tbody><tr><td bgcolor="#000000">
-<table width="100%" cellpadding="3" cellspacing="1" border="0">
-<tbody><tr><td bgcolor="#B1BBCB"><img src="images/star.gif" width="16" height="16">&nbsp;<font face="verdana,arial" size="2"><b><a href="index.html">Main Page</a></b></font></td></tr>
-<tr><td bgcolor="#C0C0C0"><img src="images/star.gif" width="16" height="16">&nbsp;<font face="verdana,arial" size="2"><b><a href="category/index.html">Funny Pictures</a></b></font></td></tr>
-<tr><td bgcolor="#C0C0C0"><img src="images/star.gif" width="16" height="16">&nbsp;<font face="verdana,arial" size="2"><b><a href="jokez/index.html">Jokes</a></b></font></td></tr>
-<tr><td bgcolor="#C0C0C0"><img src="images/star.gif" width="16" height="16">&nbsp;<font face="verdana,arial" size="2"><b><a href="stories/index.html">Stories</a></b></font></td></tr>
-<tr><td bgcolor="#C0C0C0"><img src="images/star.gif" width="16" height="16">&nbsp;<font face="verdana,arial" size="2"><b><a href="games/index.html">Games</a></b></font></td></tr>
-<tr><td bgcolor="#C0C0C0"><img src="images/star.gif" width="16" height="16">&nbsp;<font face="verdana,arial" size="2"><b><a href="search.html">Search</a></b></font></td></tr>
+<td width="100%" valign="top" align="center">
+<br>
+<p><b>[ <a href="index.html">Back to the Main Page</a> ]</b></p>
+<br>
+<p><font size="4"><b>Privacy Policy</b></font></p>
+<p>We do not sell, distribute or otherwise disseminate any information collected to any person or company.</p>
+<p>We do collect standard web server log file information such as IP address, referring page data and files accessed.<br>This information is for internal use only and used to gauge performance.</p>
+<p>All4Humor.com uses cookies on some pages for the pop-up voting page. We did this so the pop-up doesn't show up EVERY time you visit the page, which would be very annoying.</p>
+<p>This website works with third parties that serves ads to this site.<br>To find out more about how Commission Junction manages the privacy of information in conjunction with serving ads on this site, please go to section 9 within the Affiliate Service Agreement: <a href="http://members.cj.com/sign-up/Affiliate/Affiliate_Service_Agreement.asp#registration" target="_blank">http://members.cj.com/sign-up/Affiliate/Affiliate_Service_Agreement.asp</a></p>
+<p>Questions about your privacy? <a href="mailto:webmaster@all4humor.com">webmaster@all4humor.com</a></p>
+
+</td>
+</tr>
 </tbody></table>
+<!-- privacy message ends here //-->
+
+<!-- BORDER & BGCOLOR TABLE END CODE STARTS HERE //-->
 </td></tr></tbody></table>
-<!-- NAVIGATION MENU ENDS HERE //-->
-<p><table width="100%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#545F84" align="center">&nbsp;&nbsp;<font face="arial,verdana" size="1" color="#FFFFFF"><b>T O P&nbsp;&nbsp;R E F E R R A L S</b></font></td></tr></tbody></table></td></tr></tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000"><table width="100%" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td bgcolor="#B1BBCB">
-<p><font face="verdana,arial" size="1">
-<img src="/images/b.gif" width="11" height="11">&nbsp;<a href="/scripts/axs/ax.pl?http://www.starteasy.com/cgi-bin/tophumor/rankem.cgi?id=a4humor" target="_blank" class="style2">Top HUMOR</a><br>
-<img src="/images/b.gif" width="11" height="11">&nbsp;<a href="/scripts/axs/ax.pl?http://www.postcardsfrombeyond.com/top100funpages/cgibin/rankem.cgi?id=a4humor" target="_blank" class="style2">Top FunPages</a><br>
-<img src="/images/b.gif" width="11" height="11">&nbsp;<a href="/scripts/axs/ax.pl?http://www.gotlaughs.com/cgi-bin/tophumor/rankem.cgi?id=a4humor" target="_blank" class="style2">GotLaughs</a><br>
-<img src="/images/b.gif" width="11" height="11">&nbsp;<a href="/scripts/axs/ax.pl?http://www.pics4fun.com" target="_blank" class="style2">Funny Pictures</a><br>
-<img src="/images/b.gif" width="11" height="11">&nbsp;<a href="/scripts/axs/ax.pl?http://www.poopyjoe.com" target="_blank" class="style2">PoopyJoe.com</a><br>
-<img src="/images/b.gif" width="11" height="11">&nbsp;<a href="/scripts/axs/ax.pl?http://www.cartoons4fun.com" target="_blank" class="style2">Funny Cartoons</a><br>
-<img src="/images/b.gif" width="11" height="11">&nbsp;<a href="/scripts/axs/ax.pl?http://www.starteasy.com/cgi-bin/topfun/rankem.cgi?id=xargon" target="_blank" class="style2">Top FUN</a><br>
-</font></p></td></tr></tbody></table></td></tr></tbody></table>
+</td></tr><tr></tr></tbody></table>
+<!-- BORDER & BGCOLOR TABLE END CODE ENDS HERE //-->
+
+<table width="750" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+ <td width="100%" align="right"><b>[ <a href="mailto:webmaster@all4humor.com">Contact Us</a> ] [ <a href="javascript:window.external.AddFavorite('http://www.all4humor.com','All4Humor.com');">Bookmark Us</a> ] [ <a href="privacy.html">Privacy</a> ]</b></td>
+</tr>
+</tbody></table>
+
+<p>&nbsp;</p>
+<table width="750" cellspacing="0" cellpadding="2" border="0">
+<tbody><tr>
+<td width="100%" align="center">
+ <a href="http://www.cardmasters-top50.com/topsites/main.cgi?ID=63" target="_blank"><img src="http://www.cardmasters-top50.com/topsites/img.cgi?id=63" border="1" width="88" height="31"></a>&nbsp;&nbsp;
+ <a href="http://www.supertop100.com/aff.prg?greeting,92" target="_blank"><img src="http://www.supertop100.com/greeting/b/0/92.gif" width="88" height="31" border="1"></a>&nbsp;&nbsp;
+ <a href="http://postycity.net/topsites/main.cgi?ID=74" target="_blank"><img src="http://postycity.net/topsites/img.cgi?id=74" width="88" height="31" border="1"></a>&nbsp;&nbsp;
+ <a href="http://www.supertop100.com/aff.prg?humor,21" target="_blank"><img src="http://www.supertop100.com/humor/b/0/21.gif" width="88" height="31" border="1"></a>
+</td>
+</tr>
+</tbody></table>
+
+<!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" -->
+<p>
+<script type="text/javascript" language="JavaScript">var site="sm7a4humor"</script>
+<script type="text/javascript" language="JavaScript1.2" src="http://sm7.sitemeter.com/js/counter.js?site=sm7a4humor"></script>
+<noscript><a href="http://sm7.sitemeter.com/stats.asp?site=sm7a4humor" target="_top"><img src="http://sm7.sitemeter.com/meter.asp?site=sm7a4humor" alt="Site Meter" border=0></a></noscript>
 </p>
-<!-- NEWSLETTER TABLE STARTS HERE //-->
-<form method="post" action="http://www.listbot.com/cgi-bin/subscriber" name="NewsletterForm" onsubmit="return validateForm()">
-<table width="100%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000"><table width="100%" border="0" cellpadding="1" cellspacing="0"><tbody><tr><td bgcolor="#545F84" align="center" valign="middle"><font face="vardana,arial" size="1" color="#FFFFFF"><b>N E W S L E T T E R</b></font></td></tr></tbody></table></td></tr></tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
- <tbody><tr><td bgcolor="#C0C0C0">
-  <table width="100%" cellpadding="4" cellspacing="0"><tbody><tr><td>
-  <font face="verdana,arial" size="1">Subscribe to our newsletter and be the first to be notified about updates! Enter your email address here:</font><br>
-  <input style="background-image: url('images/inputbg.gif')" type="text" name="e_mail" size="14">
-  <input type="hidden" name="list_id" value="All4Humor">
-  <input type="hidden" name="Act" value="subscribe_list"><br>
-  <input type="image" name="submit" src="images/signup.gif" width="51" height="13" border="0" alt="Click here to subscribe!">
-  </td></tr></tbody></table>
- </td></tr>
-</tbody></table>
-</td></tr></tbody></table>
-</form>
-<!-- NEWSLETTER TABLE ENDS HERE //-->
-        </td>
-      </tr>
-      </tbody></table>
-    </td>
-   </tr>
-   <tr><td width="100%" bgcolor="#545F84"><table width="100%" cellspacing="6" border="0"><tbody><tr><td><iframe src="http://www.trafficsites.com/cgi-bin/text2.cgi?id=350&amp;bg=B1BBCB&amp;txt=black" width="120" height="96" scrolling="no" frameborder="0"></iframe></td></tr></tbody></table><br></td></tr>
-   </tbody></table>
-   <!-- End black border table begins here //--></td></tr></tbody></table></td></tr></tbody></table><!-- Black border table ends here //-->
-<!-- LEFT MENU ENDS HERE //-->
- </td>
- <td width="570" align="right" valign="top">
-<!-- RIGHT PART STARTS HERE //-->
-   <!-- Black Welcome Table begins here //--><table width="565" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000"><!-- Begin black border table ends here //--><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#000000" align="center" valign="top"><font face="verdana,arial" size="2" color="#FFFFFF"><b>| Privacy Policy |</b></font></td></tr></tbody></table> <!-- start black border end //--></td></tr></tbody></table><!-- Black Welcome Table ends here //-->
-   <!-- Begin black border table begins here //--><table width="565" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td bgcolor="#000000"><!-- Begin black border table ends here //--><table width="100%" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td bgcolor="#545F84">
-   <table border="0" width="100%" height="700" cellspacing="0" cellpadding="0">
-   <tbody><tr>
-    <td width="100%" bgcolor="#C0C0C0" valign="top">
-      <table border="0" width="100%" cellspacing="6" cellpadding="0">
-      <tbody><tr>
-        <td width="100%" valign="top">
-<font face="verdana,arial" size="2">
-<p>&nbsp;</p><p>We do not sell, distribute or otherwise disseminate any information collected to any person or company.</p><p>We do collect standard web server log file information such as IP address, referring page data and files accessed. This information is for internal use only and used to gauge performance.</p><p>All4Humor.com uses cookies on some pages for the pop-up voting page. We did this so the pop-up doesn't show up EVERY time you visit the page, which would be very annoying.</p>
-<p>This website works with third parties that serves ads to this site. To find out more about how Amazing Media manages the privacy of information in conjunction with serving ads on this site, please go to <a href="http://www.amazingmedia.com/company/privacy.jsp" target="_blank">http://www.amazingmedia.com/company/privacy.jsp</a>.<br>For Commission Junction, see section 9 within the Affiliate Service Agreement: <a href="http://members.cj.com/sign-up/Affiliate/Affiliate_Service_Agreement.asp#registration" target="_blank">http://members.cj.com/sign-up/Affiliate/Affiliate_Service_Agreement.asp</a><br>For ClickXchange, visit: <a href="http://www.clickxchange.com/privacystatement.htm" target="_blank">http://www.clickxchange.com/privacystatement.htm</a></p><p>Questions about your privacy? <a href="mailto:webmaster@all4humor.com">webmaster@all4humor.com</a></p>
-</font>
-   <p align="center"><table width="468" align="center" border="1" cellspacing="0" cellpadding="3" bordercolor="#000000" bgcolor="#DFDBCA"><tbody><tr><td align="center"><font face="verdana,arial" size="2" color="#000000">Free Love Letters and Poems - <a href="http://www.commission-junction.com/track/track.dll?AID=164841&amp;PID=593226&amp;URL=http%3A%2F%2Fwww%2Epassionup%2Ecom" target="_blank">CLICK HERE</a><img src="http://www.commission-junction.com/banners/tracker.exe?AID=164841&amp;PID=593226&amp;banner=0.gif" height="1" width="1" border="0"></font></td></tr></tbody></table></p>
-<p align="center"><!-- TOPSITES TABLE STARTS HERE //--><table width="100%"><tbody><tr><td width="50%" align="center"><a href="/scripts/axs/ax.pl?http://www.starteasy.com/cgi-bin/topfun/rankem.cgi?id=xargon" target="_blank"><img src="http://starteasy.com/topfun/images/wtfun_linkb01.gif" width="88" height="31" border="0"></a></td><td width="50%" align="center"><a href="/scripts/axs/ax.pl?http://www.starteasy.com/cgi-bin/tophumor/rankem.cgi?id=a4humor" target="_blank"><img src="http://starteasy.com/tophumor/images/wthum_linkbutton.gif" width="88" height="31" border="0"></a></td></tr></tbody></table><!-- TOPSITES TABLE ENDS HERE //--></p>
-        </td>
-      </tr>
-      </tbody></table>
-    </td>
-   </tr>
-   <tr><td width="100%" height="15" bgcolor="#C0C0C0" align="center" valign="middle"><font face="verdana,arial" size="1">[ <a href="javascript:window.external.AddFavorite('http://www.all4humor.com','All4Humor.com - Huge Humor Archive!');">Bookmark Us</a> ] [ <a href="links.html">Links</a> ] [ <a href="contact.html">Contact Us</a> ] [ <a href="link2us.html">Link2Us</a> ] [ <a href="copyright.html">Copyright</a> ] [ <a href="privacy.html">Privacy</a> ]</font></td></tr>
-   </tbody></table>
-   <!-- End black border table begins here //--></td></tr></tbody></table></td></tr></tbody></table><!-- Black border table ends here //-->
-    </td>
-  </tr>
-</tbody></table>
-<!-- MAIN TABLE ENDS HERE //-->
+<!-- Copyright (c)2000 Site Meter -->
+<!--WEBBOT bot="HTMLMarkup" Endspan -->
 
-
+</center>
 
 </body></html>
