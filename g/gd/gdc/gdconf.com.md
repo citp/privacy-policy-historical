@@ -1,30 +1,11 @@
-> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2001-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010822174547id_/http%3A//www.gdconf.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605035911id_/http%3A//www.gdconf.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Game Developers Conference - Privacy Policy
+# Game Developers Conference 2002
 
-[ABOUT US](https://web.archive.org/aboutus/)
+[About Us](https://web.archive.org/aboutus/index.htm)>Privacy Policy
 
-[PACKAGES](https://web.archive.org/prices/)
-
-[CONFERENCE](https://web.archive.org/conference/)
-
-[EXPO](https://web.archive.org/expo/)
-
-[CONTACT US ](https://web.archive.org/contactus/)
-
-[ARCHIVES](https://web.archive.org/archives/)
-
-* * *
-
-[**GDC EUROPE**](http://www.gdc-europe.com/)
-
-**[INDEPENDENT  
-GAMES FESTIVAL](http://www.igf.com/)**
-
-|  | 
-
-**Privacy Policy**   
-
+**Privacy Policy   
+**
 
 The Gama Network, producers of the Game Developers Conference and this site, gdconf.com, believe in protecting your privacy in all aspects of our business. We hope you will take the time to read the following policy, which explains what information we collect from you at the sites we own and operate -- gamasutra.com, gdmag.com, gdconf.com and others -- and how we use that information. By using one of our sites, products or services you agree to be bound by this policy. This policy may change from time to time, so please check back periodically.
 
@@ -69,10 +50,3 @@ At the Gama Network, we understand that children's privacy is important. We do n
 **Questions? Here's How To Reach Us**
 
 This website is maintained by the Gama Network, a division of CMP Media, Inc., 600 Harrison Street, San Francisco, California 94107. You can reach us via E-mail at [feedback@gamasutra.com](mailto:feedback@gamasutra.com).
-
-_Copyright © 2001 CMP Media LLC. All rights reserved._  
-If you have any questions or suggestions for this site, please send email to the [Webmaster](mailto:adunne@cmp.com).
-
-[Privacy Policy](https://web.archive.org/policy.html)
-
-|      
