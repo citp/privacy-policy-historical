@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010040129id_/http%3A//www.mediapost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602010451id_/http%3A//www.mediapost.com/privacy.htm) for the most accurate reproduction.*
 
 # MediaPost Help
 
 |   |    
 ---|---  
 | []() **Personal/Company Information.**  
-  | To operate our services, MediaPost Communications asks for personal and company information in the member's registration form, such as your name, title, your company name, company address, and other company only identifying information. We do this, for example, when you register your company (or yourself) as an [immediabuy](http://www.immediabuy.com/) Member, Buyer or Partner on our site. We use this individual company information to notify you of the results of a Buy Offer, to deliver member only newsletters, and other service-related purposes only your company contact information is made available to other members in the member directory. 
+  | To operate our services, MediaPost Communications asks for personal and company information in the member's registration form, such as your name, title, your company name, company address, and other company only identifying information. We do this, for example, when you register your company (or yourself) as an [immediabuy](http://www.mediapost.com/immediabuy/) Member, Buyer or Partner on our site. We use this individual company information to notify you of the results of a Buy Offer, to deliver member only newsletters, and other service-related purposes only your company contact information is made available to other members in the member directory. 
 
 MediaPost Communications may also automatically collect information such as your web browser type or IP address. This information is used to ensure our website displays properly on most commonly used browsers. This information is also used to help identify you on the service and to gather broad demographic information.   
    
