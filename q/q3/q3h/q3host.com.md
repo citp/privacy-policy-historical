@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the q3host.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206204600id_/http%3A//www.q3host.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q3host.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603011053id_/http%3A//www.q3host.com/privacy.php) for the most accurate reproduction.*
 
 # Q3HOST.COM: Game Server Hosting
 
