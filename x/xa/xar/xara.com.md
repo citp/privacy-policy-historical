@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2000-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000505013749id_/http%3A//www.xara.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2000-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001026151846id_/http%3A//www.xara.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement for Xara and BuyFonts
 
@@ -63,5 +63,5 @@ UK
 
 * * *
 
-[© Copyright Xara Ltd](https://web.archive.org/web/20000505013749id_/http%3A//www.xara.com/docs/copyright.html): page last updated Sep 1999  
-For more information, [contact Xara](https://web.archive.org/web/20000505013749id_/http%3A//www.xara.com/feedback/). [Privacy statement.](https://web.archive.org/web/20000505013749id_/http%3A//www.xara.com/docs/privacy.html)
+[© Copyright Xara Ltd](https://web.archive.org/web/20001026151846id_/http%3A//www.xara.com/docs/copyright.html): page last updated Sep 1999  
+For more information, [contact Xara](https://web.archive.org/web/20001026151846id_/http%3A//www.xara.com/feedback/). [Privacy statement.](https://web.archive.org/web/20001026151846id_/http%3A//www.xara.com/docs/privacy.html)
