@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401224353id_/http%3A//www.elicense.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204014853id_/http%3A//elicense.com/privacy.asp) for the most accurate reproduction.*
 
 # ViaTech Technologies, Inc. - Privacy Policy
 
@@ -10,7 +10,7 @@
 [](https://web.archive.org/why/default.asp) |   
 [](https://web.archive.org/how/default.asp) |   
   
-The Internet has changed the way we all communicate and interact with each other. While the Internet allows each of us access to a greater array of information and services than has ever been available; these new online activities do raise new challenges and privacy issues. ViaTech Technologies, Inc. is committed to enforcing your electronic privacy. Most importantly, having a relationship with our customers that is based on trust is extremely important to our business operations and philosophy. We welcome any feedback you may have to help us better meet your privacy concerns. Send your feedback to: [webmaster@elicense.com](mailto:webmaster@elicense.com)
+The Internet has changed the way we all communicate and interact with each other. While the Internet allows each of us access to a greater array of information and services than has ever been available; these new online activities do raise new challenges and privacy issues. ViaTech Technologies, Inc. is committed to enforcing your electronic privacy. Most importantly, having a relationship with our customers that is based on trust is extremely important to our business operations and philosophy. We welcome any feedback you may have to help us better meet your privacy concerns. Send your feedback to: [privacy@elicense.com](mailto:privacy@elicense.com)
 
 **Our Commitment to You:**   
 ViaTech Technologies, Inc. wants to make your online experience satisfying and safe. We pledge that ViaTech will not release your personal data to anyone else without your consent - period.   
@@ -39,10 +39,10 @@ ViaTech does not monitor private communications (e.g. email) at all, much less m
 ViaTech uses all available security measures to protect both personally identifiable information & anonymous information collected from this web site. 
 
 **Opt-out Policy**   
-ViaTech allows users to opt-out of receiving further communications by "unchecking" a check-box on the Registration Page, or by replying to e-mail and putting "unsubscribe" in the subject field. Alternatively, any user who wishes to opt-out of receiving further communications can send an email to webmaster@elicense.com and request that they be removed from our mailing list. 
+ViaTech allows users to opt-out of receiving further communications by "unchecking" a check-box on the Registration Page, or by replying to e-mail and putting "unsubscribe" in the subject field. Alternatively, any user who wishes to opt-out of receiving further communications can send an email to privacy@elicense.com and request that they be removed from our mailing list. 
 
 **Correct/Update Policy**   
-ViaTech allows users to correct or update their information by contacting their account representative. Alternatively, any user who wishes to update their information can send an email to [webmaster@elicense.com](mailto:webmaster@elicense.com) and provide their corrected information. 
+ViaTech allows users to correct or update their information by contacting their account representative. Alternatively, any user who wishes to update their information can send an email to [privacy@elicense.com](mailto:privacy@elicense.com) and provide their corrected information. 
 
 **Delete/Deactivate Policy**   
 This site does not offer a way to delete your information from our database. If you request that your information is no longer be used, your request will be processed & honored. 
@@ -51,11 +51,12 @@ This site does not offer a way to delete your information from our database. If 
 This site contains links to other sites. ViaTech is not responsible for the privacy practices or the content of such Web sites. We encourage you to read the privacy statements of these linked sites, as their Privacy Policy may differ from ours. 
 
 ViaTech Technologies, Inc.  
-7 Lincoln Street  
-Natick, MA 01760  
-(508) 647-0464  
+69 Wexford Street  
+Needham, MA 02494  
+(866) 723-3376 inside USA  
+(781) 449-7601 outside USA  
 [webmaster@elicense.com](mailto:webmaster@elicense.com)
 
 * * *
 
-© 2003 ViaTech Technologies, Inc. [Privacy Policy](https://web.archive.org/privacy.asp)
+© 2004 ViaTech Technologies, Inc. [Privacy Policy.](https://web.archive.org/privacy.asp)
