@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albany.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204052115id_/http%3A//www.albany.edu/webmaster/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albany.edu privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404142126id_/http%3A//www.albany.edu/webmaster/privacy_policy.html) for the most accurate reproduction.*
 
 # University at Albany Privacy Policy
 
@@ -102,7 +102,7 @@ The information provided in this privacy policy should not be construed as givin
   
 **Contact Information**
 
-For questions regarding this Internet privacy policy, please contact our privacy officer via e-mail at [privacy@albany.edu](mailto:privacy@albany.edu) or by regular mail at: 
+For questions regarding this Internet privacy policy, please contact our privacy officer via e-mail at [cio@albany.edu](mailto:cio@albany.edu) or by regular mail at: 
 
 > Privacy Compliance Officer  
 >  University at Albany  
