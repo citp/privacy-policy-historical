@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520013708id_/http%3A//www.eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205121300id_/http%3A//www.eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions of Use
 
@@ -13,12 +13,12 @@ _Involvement of parents:_ In accordance with the provisions of the Children's On
 _How to get in touch with Houghton Mifflin:_ The following list has the names, addresses, and phone numbers of the individuals operating Web sites for the various divisions and subsidiaries of Houghton Mifflin Company. If you would like to ask who to talk to for a particular question, please contact Carla Tishler, Director, Emerging Technologies. 
 
 **Division:** Corporate IT  
-**Name:** Carla Tishler  
-**Title:** Director, Emerging Technologies  
+**Name:** Chris Hogg  
+**Title:** Director, Internet and Web Development  
 **Address:** 222 Berkeley Street, 5th Floor  
 Boston, Massachusetts 02116-3764  
-**Telephone Number:** (617)-351-3739  
-**Email Address:**[Carla_Tishler@hmco.com](mailto:Carla-Tishler@hmco.com)
+**Telephone Number:** (617)-351-3699  
+**Email Address:**[Chris_Hogg@hmco.com](mailto:Chris_Hogg@hmco.com)
 
 **Division:** School  
 **Name:** Pegeen Wright  
