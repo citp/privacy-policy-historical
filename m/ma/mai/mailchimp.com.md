@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609193340id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208210538id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -6,7 +6,7 @@ _Last edited: 12/27/2001_
 
 This is the web site of **[The Rocket Science Group, LLC](http://www.rocketsciencegroup.com/)**.  
 We can be reached via e-mail at [info@mailchimp.com](mailto:info@mailchimp.com)  
-or you can reach us by telephone at 770-980-6698  
+or you can reach us by telephone at (404) 527-3609  
 
 
 ### Quick Summary:
