@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wiley.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207171125id_/http%3A//www.wiley.com/WileyCDA/Section/id-890.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiley.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603063454id_/http%3A//www.wiley.com/WileyCDA/Section/id-890.html) for the most accurate reproduction.*
 
-# Wiley :: Privacy
+# Wiley::Privacy
 
 |  Privacy Policy  
 John Wiley & Sons, Inc. and its related companies (collectively, "Wiley") recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to Wiley you consent to the practices described herein. 
