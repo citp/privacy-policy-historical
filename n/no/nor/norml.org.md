@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603194152id_/http%3A//norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203054012id_/http%3A//norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.*
 
 # NORML Home / Privacy Statement
 
-**[ Home](https://web.archive.org/web/20030603194152id_/http%3A//norml.org/index.cfm?Group_ID=3374) > Privacy Statement**
+**[ Home](https://web.archive.org/web/20031203054012id_/http%3A//norml.org/index.cfm?Group_ID=3374) > Privacy Statement**
 
 **Privacy Statement**
 
@@ -18,7 +18,7 @@ The bottom line is that NORML never provides any information about its web site 
 NORML keeps track of IP addresses to gather usage statistics for its web site. IP addresses are not associated with other information about a user, but only indicate general visitor navigation patterns. 
 
 **Cookies**  
-NORML's web site does NOT use cookies. 
+NORML's web site does not use cookies, except for the case of periodic pop-up windows relating to NORML events and legislative alerts. 
 
 **Email News List**  
 NORML allows you to sign up for a free monthly electronic newsletter. To subscribe, you must provide your name and email address. This information is used only to send you the newsletter. You will also be asked for your postal address, but do not have to provide it. If provided, this information is used by NORML to send you news and informational material. You may unsubscribe to stop receiving future mailings as described below.  
@@ -47,4 +47,4 @@ Washington, DC  20006-2832_
 
 **Contacting the Web Site**
 
-If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](https://web.archive.org/web/20030603194152id_/http%3A//norml.org/index.cfm?Group_ID=3441).
+If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](https://web.archive.org/web/20031203054012id_/http%3A//norml.org/index.cfm?Group_ID=3441).
