@@ -1,7 +1,14 @@
-<!--The following is the downloaded HTML source of the autonews.com privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604053001id_/http%3A//www.autonews.com/page.cms%3FpageId%3D145) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autonews.com privacy policy that was archived on 2002-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021031054810id_/http%3A//www.autonews.com/page.cms%3FpageId%3D145) for the most accurate reproduction.-->
 
 <html><head>
+<script language="JavaScript">
+ if (window.opener) {
+    if (window.opener.openFrom && window.opener.openFrom == "apRedirect") {
+        window.opener.close ();
+    }
+  }
+</script>
  <style> 
  <//--
  a:active {  color: ##003366; text-decoration: none}
@@ -71,8 +78,6 @@
 <style type="text/css">
 @import url(/styles/notForNS4.css);
 </style>
-
-<!------ OAS SETUP begin ------>
 <script language="JavaScript">
 <!--
 //+PMA 12.5.2001 Added for oas tags.
@@ -87,13 +92,10 @@ function MakeArray(n)
   return this;
 }
 
-var ckArray = new MakeArray(6);
-ckArray[0] = "seniority";
-ckArray[1] = "industryType";
-ckArray[2] = "makesMade";
-ckArray[3] = "makesSold";
-ckArray[4] = "areasResp";
-ckArray[5] = "keyCode";
+var ckSecArray = new MakeArray(3);
+ckSecArray[0] = "USER-ID";
+ckSecArray[1] = "CTM-NBR";
+ckSecArray[2] = "ZIP-5";
 
 function GetCookie (name) {
     var arg = name + "=";
@@ -153,6 +155,47 @@ function SwapCharactersInString(fullString, stringToSwap, stringToSwapWith)
   return returnString;
 }
 //End of 12.5.2001
+
+//+PMA 6.21.2001 Added for sec.crain link.
+function WriteSecCrainLink ()
+{
+  var secCrainLink = 'https://sec.crain.com/an/cgi-bin/circulation.pl';
+  var maxParams = 3;
+  var firstTimeIn = true;
+
+  for (var x = 0; x < maxParams; x++)
+  {
+    cookieValue = GetCookie(ckSecArray[x]);
+	if (cookieValue != null)
+    {
+      if (firstTimeIn) { secCrainLink = secCrainLink + "?"; }
+	  firstTimeIn = false;
+	  secCrainLink = secCrainLink + ckSecArray[x] + "=" + cookieValue;
+	  if (x != (maxParams - 1))
+	  {
+	    secCrainLink = secCrainLink + "&";
+	  }
+	}
+  }  
+
+  return secCrainLink;
+}
+//End of 6.21.2001
+
+//-->
+</script>
+
+<!------ OAS SETUP begin ------>
+<script language="JavaScript">
+<!--
+var ckArray = new MakeArray(6);
+ckArray[0] = "seniority";
+ckArray[1] = "industryType";
+ckArray[2] = "makesMade";
+ckArray[3] = "makesSold";
+ckArray[4] = "areasResp";
+ckArray[5] = "keyCode";
+
 //configuration
 OAS_url = 'http://oascentral.autonews.com/RealMedia/ads/';
 //OAS_sitepage = window.location.hostname + window.location.pathname;
@@ -182,12 +225,13 @@ OAS_query = '';
 
 //}
 //End of 12.5.2001
+
 OAS_target = '_top';
 //end of configuration
 OAS_version = 10;
 //OAS_rn = '001234567890'; OAS_rns = '1234567890';
 //OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-OAS_rns = '2041197335';
+OAS_rns = '6446502140';
 function OAS_NORMAL(pos) {
   document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
   document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
@@ -202,7 +246,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.autonews.com/RealMedia/ads/adstream_mjx.ads/www.automotivenews.com/page/privacy_policy/12041197335@Top,Left,Left2,Left3,Right,Right2,Right3?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.autonews.com/RealMedia/ads/adstream_mjx.ads/www.automotivenews.com/page/privacy_policy/16446502140@Top,Left,Left2,Left3,Right,Right2,Right3?"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -218,10 +262,176 @@ function OAS_AD(pos) {
 
 <!------ OAS SETUP end ------>
  </head>
- <body bgcolor="#FFFFFF" topmargin="5" leftmargin="5" marginheight="5" marginwidth="5" onload="MM_preloadImages('/images/global/arrow_orange-blue.gif','#992935312866');MM_preloadImages('/images/global/arrow_orange-blue.gif','#992935343716');MM_preloadImages('/images/global/arrow_orange-blue.gif','#992935356666');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939383966');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939402116');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939411766');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939418350');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939428600');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939440750');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939447783');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939454700');MM_preloadImages('/images/header/homeButton02.jpg','/images/header/dataCenterButton02.jpg','/images/header/pastStoriesButton02.jpg','/images/header/marketingButton02.jpg','/images/header/anEventsButton02.jpg','/images/header/remarketingButton02.jpg','/images/header/forumsButton02.jpg','/images/header/classifiedsButton02.jpg','images/global/arrow_orange-blue.gif')">
- <a name="top"></a> 
- <table width="734" border="0" cellspacing="0" cellpadding="0" height="500">
-   <tbody><tr bgcolor="#003366"> 
+ 
+<body bgcolor="#FFFFFF" topmargin="5" leftmargin="5" marginheight="5" marginwidth="5" onload="MM_preloadImages('/images/global/arrow_orange-blue.gif','#992935312866');MM_preloadImages('/images/global/arrow_orange-blue.gif','#992935343716');MM_preloadImages('/images/global/arrow_orange-blue.gif','#992935356666');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939383966');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939402116');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939411766');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939418350');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939428600');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939440750');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939447783');MM_preloadImages('/images/global/arrow_orange-blue2.gif','#992939454700');MM_preloadImages('/images/header/homeButton02.jpg','/images/header/dataCenterButton02.jpg','/images/header/pastStoriesButton02.jpg','/images/header/marketingButton02.jpg','/images/header/anEventsButton02.gif','/images/header/remarketingButton02.jpg','/images/header/forumsButton02.jpg','/images/header/classifiedsButton02.jpg','images/global/arrow_orange-blue.gif','/images/header/contactUs_over.gif','/images/header/aNEuropeTab02.gif','/images/header/automobilewocheTab02.gif','/images/header/autoweekTab02.gif')">
+<a name="top"></a> 
+
+<!-- BEGIN WEBSIDESTORY CODE v7.3 (no 1.0)-->
+<!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
+
+<script language="javascript" id="_hbc">
+
+	var _pn="index.html"; //page name(s)
+	var _mlc="/AN/page/privacy_policy"; //multi-level content category
+	var _seg=""; // visitor segmentation
+
+	var _seniorityVal = GetCookie(ckArray[0]);
+	var _industryTypeVal = GetCookie(ckArray[1]);
+	var _makesMadeVal = GetCookie(ckArray[2]);
+	var _makesSoldVal = GetCookie(ckArray[3]);
+	var _areasRespVal = GetCookie(ckArray[4]);
+	var _keyCodeVal = GetCookie(ckArray[5]);
+	
+	if (_seniorityVal != "")
+	{
+		var five = /^Chairman/;
+		var six = /^Consultant/;
+		var seven = /^Department/;
+		var eight = /^Director/;
+		var nine = /^Managing/;
+		
+		if (five.test(_seniorityVal))
+		{
+			_seg = _seg + "5,";
+		}
+		
+		if (six.test(_seniorityVal))
+		{
+			_seg = _seg + "6,";
+		}
+		
+		if (seven.test(_seniorityVal))
+		{
+			_seg = _seg + "7,";
+		}
+		
+		if (eight.test(_seniorityVal))
+		{
+			_seg = _seg + "8,";
+		}
+		
+		if (nine.test(_seniorityVal))
+		{
+			_seg = _seg + "9,";
+		}
+		
+	}
+	
+	if (_industryTypeVal != "")
+	{
+		var ten = /^Manufacturing/;
+		var eleven = /^Prof/;
+		var twelve = /^Retail/;
+		
+		if (ten.test(_industryTypeVal))
+		{
+			_seg = _seg + "10,";
+		}
+		
+		if (eleven.test(_industryTypeVal))
+		{
+			_seg = _seg + "11,";
+		}
+		
+		if (twelve.test(_industryTypeVal))
+		{
+			_seg = _seg + "12,";
+		}
+				
+	}
+	
+	if (_makesMadeVal != "")
+	{
+		var thirteen = /^Ford/;
+		var fourteen = /^General/;
+		var fifteen = /^Daimler/;
+		
+		if (thirteen.test(_makesMadeVal))
+		{
+			_seg = _seg + "13,";
+		}
+		
+		if (fourteen.test(_makesMadeVal))
+		{
+			_seg = _seg + "14,";
+		}
+		
+		if (fifteen.test(_makesMadeVal))
+		{
+			_seg = _seg + "15,";
+		}
+	}
+
+	if (_makesSoldVal != "")
+	{
+		var sixteen = /Ford|Lincoln|Mercury/;
+		var seventeen = /Buick|Cadillac|Chevrolet|Oldsmobile|Pontiac|General|AM|Saturn/;
+		var eighteen = /Jeep|Chrysler|Dodge/;
+		
+		if (sixteen.test(_makesSoldVal))
+		{
+			_seg = _seg + "16,";
+		}
+		
+		if (seventeen.test(_makesSoldVal))
+		{
+			_seg = _seg + "17,";
+		}
+		
+		if (eighteen.test(_makesSoldVal))
+		{
+			_seg = _seg + "18,";
+		}
+				
+	}
+	
+	var _subType = GetCookie("subType");
+	if (_subType == 2)
+	{
+		_seg = _seg + "2,";
+	}
+	if (_subType == 3)
+	{
+		_seg = _seg + "3,";
+	}
+	
+	var _keyCode = GetCookie("keyCode");
+	if (_keyCode == "GM2002AN")
+	{
+		_seg = _seg + "4,";
+	}
+	
+	if (_seg)
+	{
+		_seg = _seg.replace(/,$/,'');
+	}
+	else
+	{
+		_seg = "1";
+	}
+
+var _cmp="promotion"; // campaign analysis - id
+var _gp="";  // campaign analysis - goal page
+var _cmpn="";// campaign analysis - query name for id 
+var _gpn=""; // campaign analysis - query name for goal page
+var _cp="null"; // campaign
+var _acct="DM520930DHRS10EN3"; 	//account number(s)
+var _pndef="title"; //default page name
+var _ctdef="full"; //default content category
+var _dlf="n"; //download filter
+var _elf="n"; //exit link filter
+var _epg="n"; //event page identifier
+var _mn="we18"; //machine name
+var _gn="ehg-crain.hitbox.com"; //gateway name
+var _lp=location.protocol.indexOf('https')>-1?'https://':'http://';
+var _hcv=68;</script><script language="javascript1.1" defer="" src="/javascripts/hbe-11up.js"></script>
+<script language="javascript">document.write("<\!--");</script><!--<noscript>
+<img src="http://ehg-crain.hitbox.com/HG?hc=we18&cd=1&hv=6&ce=u&hb=DM520930DHRS10EN3&n=PUT+PAGE+NAME+HERE&vcon=CONTENT+CATEGORY&seg=&cmp=&gp=" border='0' width='1' height='1'>
+</noscript><!--//-->
+<!-- END WEBSIDESTORY CODE  -->
+
+<table width="734" border="0" cellspacing="0" cellpadding="0" height="500"> 
+<tbody><tr bgcolor="#003366"> 
      
   <td colspan="2" height="88"> 
     <table width="100%" border="0" cellspacing="0" cellpadding="0" height="96">
@@ -229,18 +439,14 @@ function OAS_AD(pos) {
         <td valign="top" height="45" colspan="2"> 
           <table width="100%" border="0" cellspacing="5" cellpadding="0">
             <tbody><tr> 
-              <td valign="middle" align="center"><img src="/images/masthead/automotivenews_medlogo.gif" width="250" height="67"></td>
-              <td align="center"> 
-
+              <td valign="middle" align="center"><a href="http://www.autonews.com"><img src="/images/masthead/automotivenews_medlogo.gif" width="250" height="67" border="0"></a></td>
+              <td align="center">  
                 <script language="JavaScript">
 <!--
   OAS_RICH("Top");
 //-->
 </script>
-
-
-
-              </td>
+                  </td>
             </tr>
           </tbody></table>
         </td>
@@ -249,24 +455,30 @@ function OAS_AD(pos) {
         <td height="20" align="center" width="232" class="sidehead"> 
           <table border="0" cellspacing="0" cellpadding="0">
             <!-- width="526" -->
-            <tbody><tr>
-			  <td width="8"><img src="/images/global/spacer.gif" width="8" height="8"></td> 
-              <td width="40"><a href="http://www.autonews.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/images/header/homeButton02.jpg',1)"><img name="Image1" border="0" src="/images/header/homeButton01.jpg" width="40" height="25"></a></td>
-              <td width="74"><a href="datacenter.cms" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/images/header/dataCenterButton02.jpg',1)"><img name="Image2" border="0" src="/images/header/dataCenterButton01.jpg" width="74" height="25"></a></td>
-              <td width="76"><a href="search.cms" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/images/header/pastStoriesButton02.jpg',1)"><img name="Image3" border="0" src="/images/header/pastStoriesButton01.jpg" width="76" height="25"></a></td>
-              <td width="66"><a href="marketing.cms" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/header/marketingButton02.jpg',1)"><img name="Image4" border="0" src="/images/header/marketingButton01.jpg" width="66" height="25"></a></td>
-              <td width="66"><a href="http://www.autonews.com/page.cms?pageId=188" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/images/header/anEventsButton02.jpg',1)"><img name="Image5" border="0" src="/images/header/anEventsButton01.jpg" width="66" height="25"></a></td>
-              <td width="80"><a href="remarketing.cms" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/images/header/remarketingButton02.jpg',1)"><img name="Image6" border="0" src="/images/header/remarketingButton01.jpg" width="80" height="25"></a></td>
-              <td width="70"><a href="https://sec.crain.com/an/circulation.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','/images/header/subscribeButton02.jpg',1)"><img name="Image7" border="0" src="/images/header/subscribeButton01.jpg" width="70" height="25"></a></td>
-              <td width="69"><a href="http://www.anmarketplace.com/anmarketplace.mv" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','/images/header/classifiedsButton02.jpg',1)"><img name="Image8" border="0" src="/images/header/classifiedsButton01.jpg" width="78" height="25"></a></td>
-              
+            <tbody><tr> 
+              <td width="8"><img src="/images/global/spacer.gif" width="8" height="8"></td>
+
+              <td width="74"><a href="datacenter.cms" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/images/header/dataCenterButton02.gif',1)"><img name="Image2" border="0" src="/images/header/dataCenterButton01.gif" width="74" height="25"></a></td>
+              <td width="76"><a href="search.cms" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pastStories','','/images/header/pastStoriesButton02.gif',1)"><img name="pastStories" border="0" src="/images/header/pastStoriesButton01.gif" width="76" height="25"></a></td>
+              <td width="66"><a href="marketing.cms" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/header/marketingButton02.gif',1)"><img name="Image4" border="0" src="/images/header/marketingButton01.gif" width="66" height="25"></a></td>
+              <td width="66"><a href="http://www.autonews.com/page.cms?pageId=188" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/images/header/anEventsButton02.gif',1)"><img name="Image5" border="0" src="/images/header/anEventsButton01.gif" width="66" height="25"></a></td>
+              <td width="80"><a href="remarketing.cms" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/images/header/remarketingButton02.gif',1)"><img name="Image6" border="0" src="/images/header/remarketingButton01.gif" width="80" height="25"></a></td>
+              <td width="70"> 
+<script languange="JavaScript">
+				<!--
+				  document.write('<a href="' + WriteSecCrainLink() + '"');
+				//-->
+				</script><a href="https://sec.crain.com/an/cgi-bin/circulation.pl" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('subscribe','','/images/header/subscribeButton02.gif',1)"><img name="subscribe" border="0" src="/images/header/subscribeButton01.gif" width="70" height="25"></a></td>
+              <td width="69"><a href="http://www.anmarketplace.com/anmarketplace.mv" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','/images/header/classifiedsButton02.gif',1)"><img name="Image8" border="0" src="/images/header/classifiedsButton01.gif" width="78" height="25"></a></td><td width="74"><a href="http://www.autonews.com/ford100/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/images/header/partnersButton02.gif',1)"><img src="/images/header/partnersButton01.gif" width="74" height="25" border="0" name="Image1"></a></td>
+          <td width="74"><a href="http://www.autonews.com/files/mediakit/an/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','/images/header/mediaKitButton02.gif',1)"><img src="/images/header/mediaKitButton01.gif" width="78" height="25" border="0" name="Image9"></a></td>
+        
             </tr>
           </tbody></table>
         </td>
         <td height="20" align="right" width="543"> 
           <table width="100%" border="0" cellspacing="0" cellpadding="3" height="22">
             <tbody><tr> 
-              <td class="sidehead" width="65%" align="center"> 
+              <td class="sidehead" align="center" height="24"> 
                 <script language="JavaScript"><!--
 function makeArray() {
      for (i = 0; i<makeArray.arguments.length; i++)
@@ -283,9 +495,6 @@ var year = (yy < 1000) ? yy + 1900 : yy;
 document.write(months[month] + " " + day + ", " + year);
 //--></script>January 31, 2020
               </td>
-              <td width="35%" align="center" class="sidehead"> 
-                <script>TodaysTime();</script>1:28pm
-              </td>
             </tr>
           </tbody></table>
         </td>
@@ -294,10 +503,23 @@ document.write(months[month] + " " + day + ", " + year);
         <td height="6" colspan="2"><img src="/images/global/spacer.gif" width="1" height="6"></td>
       </tr>
     </tbody></table>
+	
   </td>
    </tr>
+   <tr><td colspan="2"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr> 
+        <td bgcolor="#0D315B" width="135" align="center"><a href="http://www.autonews.com/page.cms?pageId=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contactUs','','/images/header/contactUs_over.gif',1)"><img src="/images/header/contactUs.gif" name="contactUs" width="125" height="29" border="0"></a></td>
+        <td width="127"><a href="http://www.autonews.com"><img name="ImageHome" border="0" src="/images/header/aNTab02.gif" width="127" height="29"></a></td>
+        <td width="125"><a href="http://europe.autonews.com" onmouseover="MM_swapImage('ANE','','/images/header/aNEuropeTab02.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/header/aNEuropeTab01.gif" name="ANE" width="125" height="29" border="0"></a></td>
+        <td width="121"><a href="http://www.automobilwoche.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('AWoche','','/images/header/automobilewocheTab02.gif',1)"><img name="AWoche" border="0" src="/images/header/automobilewocheTab01.gif" width="121" height="29"></a></td>
+        <td width="122"><a href="http://www.autoweek.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Autoweek','','/images/header/autoweekTab02.gif',1)"><img name="Autoweek" border="0" src="/images/header/autoweekTab01.gif" width="122" height="29"></a></td>
+        <td width="160" valign="middle">&nbsp; 
+          
+        </td>
+      </tr>
+    </tbody></table></td></tr>
          <tr align="center" valign="middle"> 
-           <td height="2" style="font-size:2px;">&nbsp;</td>
+           <td height="2"><img src="/images/global/spacer.gif" width="1" height="2"></td>
          </tr>
    <tr> 
      
@@ -305,11 +527,10 @@ document.write(months[month] + " " + day + ", " + year);
      <td align="left" valign="top" width="775">
        <table width="100%" border="0" cellspacing="0" cellpadding="0">
          <tbody><tr> 
-           <td width="165" align="left" valign="top"> 
-             <table width="165" border="0" cellspacing="0" cellpadding="0">
-         
-<!-- BEGINNING OF SEARCH BOX -->
-                                      <script language="JavaScript">
+           <td width="135" align="left" valign="top"> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0" id="leftnavWithout">
+                            <!-- BEGINNING OF SEARCH BOX -->
+                                               <script language="JavaScript">
                    <!--
 				   function SetForm()
 				   {
@@ -320,7 +541,8 @@ document.write(months[month] + " " + day + ", " + year);
 					 document.quickSearchForm.day2.value   = dt.getDate();
 
                      // Get the date for 30 days back from the current date.
-					 dt = new Date(dt.getYear(), dt.getMonth(), (dt.getDate() - 30));
+					 //dt = new Date(dt.getYear(), dt.getMonth(), (dt.getDate() - 30));
+					 dt = new Date(dt - 2592000000);
 				     document.quickSearchForm.year1.value  = dt.getYear();
                      document.quickSearchForm.month1.value = dt.getMonth()+1;
 					 document.quickSearchForm.day1.value   = dt.getDate();
@@ -341,232 +563,491 @@ document.write(months[month] + " " + day + ", " + year);
 					     <input type="hidden" name="day2">
 					   </td>
 					 </tr>
-                     <tr align="center" valign="middle"> 
-                       <td height="22" class="forumnav" bgcolor="#003366"><font color="#FFFFFF">Site 
-                         Search </font></td>
-                     </tr>
                      <tr align="center"> 
-                       <td bgcolor="FFCC33"> 
-
-                         <table width="140" border="0" cellspacing="5" cellpadding="0" height="50">
-                           <tbody><tr> 
-                             <td valign="bottom" align="left"> 
-                               <input type="text" name="keyword" size="7" style="width: 85px;">
-                             </td>
-                             <td align="center" valign="middle" width="28"><!--<a href="javascript:document.quickSearchForm.submit();">--><a href="javascript:SetForm(this.form);"><img src="/images/global/gobutton_blue.gif" width="26" height="26" border="0"></a></td>
-                           </tr>
-                           <tr> 
-                             <td valign="top" align="left" colspan="2"><a href="http://www.autonews.com/search.cms" class="superswhite"><font color="003366">Advanced Search</font></a></td>
-                           </tr>
-                           <tr> 
-                             <td valign="top" align="left" class="feature" colspan="2"></td>
-                           </tr>
-                         </tbody></table>
-                       </td>
+                       
+    <td> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tbody><tr>
+          <td bgcolor="#003366">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td bgcolor="#FFCC33">
+                  <table width="100%" border="0" cellspacing="3" cellpadding="0" height="50">
+                    <tbody><tr>
+                      <td valign="bottom" align="left"><b><font color="#003366">SITE 
+                        SEARCH</font></b></td>
+                      <td align="center" valign="middle" width="28">&nbsp;</td>
+                    </tr>
+                    <tr> 
+                      <td valign="bottom" align="left"> 
+                        <input type="text" name="keyword" size="7" style="width: 75px;">
+                      </td>
+                      <td align="center" valign="middle" width="28"> 
+                        <!--<a href="javascript:document.quickSearchForm.submit();">-->
+                        <a href="javascript:SetForm(this.form);"><img src="/images/global/gobutton_blue.gif" width="26" height="26" border="0"></a></td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" align="left" colspan="2"><a href="http://www.autonews.com/search.cms" class="superswhite"><font color="003366">Advanced 
+                        Search</font></a></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+      
+    </td>
                      </tr>
                    
-
-<!-- ENDING OF SEARCH BOX -->
-<!-- BEGINNING OF LOGIN BOX -->
-                            <tr align="center" valign="middle"> 
-           <td height="2" style="font-size:2px;"></td>
+ 
+                            <!-- ENDING OF SEARCH BOX -->
+                            <!-- BEGINNING OF LOGIN BOX -->
+                                     <tr align="center" valign="middle"> 
+           
+  <td height="2" style="font-size:2px;"></td>
          </tr>
                      <tr> 
-                    <td bgcolor="#003366">
-                      <div align="center"><img src="/images/global/crain_image.gif" width="165" height="55"></div>
-                    </td>
-                     </tr>
-  				
- 					<tr align="center" valign="middle" bgcolor="FFCC33"> 
- 						<td height="20"><a href="http://www.autonewseurope.com" class="copy"><cms:var name="TextAutoGroup">Automotive News Europe</cms:var>
- 							</a></td>
- 					</tr>
-         <tr align="center" valign="middle"> 
-           <td height="1" style="font-size:1px;"></td>
+                  <td height="22" align="center" class="forumnav" bgcolor="#003366"><font color="#FFFFFF">ACCESS</font>
+  </td>
+</tr>
+<tr align="center" valign="middle">
+  <td height="2" style="font-size:2px;"></td>
          </tr>
- 			    <tr align="center" valign="middle" bgcolor="FFCC33"> 
- 			  		<td height="20" width="165"><a href="http://www.automobilwoche.com" class="copy">Automobilwoche</a></td>
- 				</tr>
-         <tr align="center" valign="middle"> 
-           <td height="1" style="font-size:1px;"></td>
-         </tr>
- 			    <tr align="center" valign="middle" bgcolor="FFCC33"> 
- 			  		<td height="20" width="165"><a href="http://www.autoweek.com" class="copy">AutoWeek</a></td>
- 				</tr>
-         <tr align="center" valign="middle"> 
-           <td height="1" style="font-size:1px;"></td>
-         </tr>
- 			    <tr align="center" valign="middle" bgcolor="FFCC33"> 
- 			  		<td height="20" width="165"><a href="http://www.autonews.com/page.cms?pageId=1" class="copy">Contact 
- 				Us</a></td>
- 				</tr>
-         <tr align="center" valign="middle"> 
-           <td height="2" style="font-size:2px;"></td>
-         </tr>
- 		            <tr align="center" valign="middle" bgcolor="#003366"> 
+ 		            <tr align="center" valign="middle"> 
                        <td> 
-                         <table width="150" border="0" cellspacing="7" cellpadding="0" height="50">
-                           <tbody><tr> 
-                             <td width="10"><img src="images/global/spacer.gif" width="10" height="12" name="LOGIN"></td>
-                             <td align="left"><a href="http://www.autonews.com/login.cms" class="login" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LOGIN','','images/global/arrow_orange-blue.gif',1)">LOG&nbsp;IN</a></td>
-                           </tr>
-                           <tr> 
-                             <td width="10"><img src="images/global/spacer.gif" width="10" height="12" name="SIGNUP"></td>
-                             <td align="left"><a href="http://www.autonews.com/defaultProfile.cms" class="login" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SIGNUP','','images/global/arrow_orange-blue.gif',1)">REGISTER&nbsp;/&nbsp;EMAIL</a></td>
-                           </tr>
-                           <tr> 
-                             <td width="10"><img src="images/global/spacer.gif" width="10" height="12" name="UPDATE"></td>
-                             <td align="left"><a href="http://www.autonews.com/profile.cms" class="login" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('UPDATE','','images/global/arrow_orange-blue.gif',1)">UPDATE&nbsp;PROFILE</a></td>
-                           </tr>
-                         </tbody></table>
-                       </td>
-                     </tr>
-
-<!-- END OF LOGIN BOX -->
-<!-- BEGINNING OF COLUMN BOX -->
-                            <tr align="center" valign="middle"> 
-           <td height="2" style="font-size:2px;">&nbsp;</td>
-         </tr>
-                     <tr align="center" valign="middle"> 
-                       <td height="22" class="forumnav" bgcolor="#003366"><font color="#FFFFFF">Columns</font></td>
-                     </tr>
-                     <tr align="center" valign="middle"> 
-                       <td height="20" bgcolor="F9E9B1" valign="top"> 
-                         <table width="155" border="0" cellspacing="7" cellpadding="0">
-                            
-                           <tbody><tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=2" class="leftTopicContentCopy"> 
-                               Keith Crain</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=3" class="leftTopicContentCopy"> 
-                               Peter Brown</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=4" class="leftTopicContentCopy"> 
-                               Edward Lapham</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=5" class="leftTopicContentCopy"> 
-                               John K. Teahen Jr.</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=6" class="leftTopicContentCopy"> 
-                               Legal File</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=8" class="leftTopicContentCopy"> 
-                               Letters to the Editor</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=9" class="leftTopicContentCopy"> 
-                               Editorials</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=16" class="leftTopicContentCopy"> 
-                               Comments</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=17" class="leftTopicContentCopy"> 
-                               Retailing notebook</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=15" class="leftTopicContentCopy"> 
-                               Personnel</a></td>
-                           </tr>
-                            
-                           <tr> 
-                             <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/column.cms?columnId=18" class="leftTopicContentCopy"> 
-                               Obituaries</a></td>
-                           </tr>
-                            
-                         </tbody></table>
+                         
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" height="50">
+      <tbody><tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" name="LOGIN" height="1"></td>
+        <td align="left" bgcolor="#F9E9B1">
+          <div class="leftnavLink"><a href="http://www.autonews.com/login.cms"> 
+            Log&nbsp;In</a></div>
+        </td>
+      </tr>
+      <tr> 
+        <td colspan="2"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1" name="SIGNUP"></td>
+        <td align="left" bgcolor="#F9E9B1">
+          <div class="leftnavLink"><a href="http://www.autonews.com/defaultProfile.cms">Register&nbsp;/&nbsp;Email</a></div>
+        </td>
+      </tr>
+      <tr> 
+        <td colspan="2"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1" name="UPDATE"></td>
+        <td align="left" bgcolor="#F9E9B1">
+          <div class="leftnavLink"><a href="http://www.autonews.com/profile.cms">Update&nbsp;Profile</a></div>
+        </td>
+      </tr>
+      <tr> 
+        <td colspan="2"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+    </tbody></table>
                        </td>
                      </tr>
  
-<!-- ENDING OF COLUMN BOX -->
-<!-- BEGINNING OF RESOURCE BOX -->
-                            <tr align="center" valign="middle"> 
-           <td height="2" style="font-size:2px;">&nbsp;</td>
+                            <!-- END OF LOGIN BOX -->
+							<!-- BEGINNING OF TOPICS BOX -->
+        
+		
+		
+		 <tr align="center" valign="top"> 
+	<td>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+			<tbody><tr align="center"> 
+				
+        <td colspan="2" height="22" bgcolor="#003366" class="forumnav"><font color="#FFFFFF">TOPICS</font></td>
+			</tr>
+			
+      <tr align="center"> 
+        <td colspan="2"> <img src="images/global/spacer.gif" width="1" height="2"></td>
+			</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=1">
+					   OEM</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=2">
+					   Suppliers</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=3">
+					   Dealers</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=4">
+					   Trade Exchanges</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=5">
+					   Technology</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=6">
+					   E-Commerce</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=7">
+					   Legal</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=8">
+					   Mergers</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=9">
+					   Marketing</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			 
+				
+      <tr> 
+        <td width="4" bgcolor="#F9E9B1"><img src="images/global/spacer.gif" width="4" height="1"></td>
+					 
+        <td align="left" bgcolor="#F9E9B1">
+<div class="leftnavLink"><a href="http://www.autonews.com/topic.cms?topicId=10">
+					   Remarketing</a></div></td>
+				</tr>
+				<tr align="center"> 
+					<td colspan="2" height="2"><img src="images/global/spacer.gif" width="1" height="2"></td>
+				</tr>
+			
+		</tbody></table>
+	</td>
+</tr>
+<!-- ENDING OF TOPICS BOX -->
+                            <!-- BEGINNING OF COLUMN BOX -->
+                                     <tr align="center" valign="middle"> 
+           <td height="2"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+         </tr>
+                     <tr align="center" valign="middle"> 
+                       <td height="22" align="center" class="forumnav" bgcolor="#003366"><font color="#FFFFFF">COLUMNS</font></td>
+                     </tr>
+                     <tr align="center" valign="middle"> 
+                       <td height="20" valign="top"> 
+                         
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+       
+	  <tbody><tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=2"> 
+          Keith Crain</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=3"> 
+          Peter Brown</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=4"> 
+          Edward Lapham</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=5"> 
+          John K. Teahen Jr.</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=6"> 
+          Legal File</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=8"> 
+          Letters to the Editor</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=9"> 
+          Editorials</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=16"> 
+          Comments</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=17"> 
+          Retailing notebook</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=15"> 
+          Personnel</a></div></td>
+      </tr>
+      
+       
+	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+      <tr> 
+        <td width="4" valign="top" bgcolor="#F9E9B1"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" colspan="2" bgcolor="#F9E9B1"><div class="leftnavLink"><a href="http://www.autonews.com/column.cms?columnId=18"> 
+          Obituaries</a></div></td>
+      </tr>
+      
+       	  <tr> 
+        <td colspan="3" valign="top"><img src="/images/global/spacer.gif" width="1" height="2"></td>
+      </tr>
+    </tbody></table>
+                       </td>
+                     </tr>
+ 
+                            <!-- ENDING OF COLUMN BOX -->
+                            <!-- BEGINNING OF RESOURCE BOX -->
+                                     <tr align="center" valign="middle"> 
+           <td height="2"><img src="/images/global/spacer.gif" width="1" height="2"></td>
          </tr>
 				<tr align="center" valign="middle"> 
-					<td height="22" class="forumnav" bgcolor="#003366"><font color="#FFFFFF">Standing Features</font></td>
+					
+  <td height="22" class="forumnav" bgcolor="#003366"><font color="#FFFFFF">STANDING 
+    FEATURES</font></td>
 				</tr>
                     
 				<tr align="center" valign="middle"> 
                       
-					<td height="20" bgcolor="F9E9B1"> 
-                        <table width="155" border="0" cellspacing="7" cellpadding="0">
-                                 
- 							    <tbody><tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=13" class="leftTopicContentCopy">
-								Future Products</a></td>
- 								</tr>
-							      
- 							    <tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=6" class="leftTopicContentCopy">
-								Conferences and Conventions</a></td>
- 								</tr>
-							      
- 							    <tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=4" class="leftTopicContentCopy">
-								Auto Shows</a></td>
- 								</tr>
-							      
- 							    <tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=14" class="leftTopicContentCopy">
-								Special Coverage</a></td>
- 								</tr>
-							      
- 							    <tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=5" class="leftTopicContentCopy">
-								All Stars</a></td>
- 								</tr>
-							      
- 							    <tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=11" class="leftTopicContentCopy">
-								Talk  from the Top</a></td>
- 								</tr>
-							      
- 							    <tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=9" class="leftTopicContentCopy">
-								PACE Awards</a></td>
- 								</tr>
-							      
- 							    <tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=8" class="leftTopicContentCopy">
-								100 Leading Women</a></td>
- 								</tr>
-							      
- 							    <tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=7" class="leftTopicContentCopy">
-								75th Anniversary</a></td>
- 								</tr>
-							      
- 							    <tr> 
- 								    <td width="165" valign="top" colspan="2"><a href="http://www.autonews.com/feature.cms?featureId=12" class="leftTopicContentCopy">
-								Total Shareholder Return Index</a></td>
- 								</tr>
-							             
-                        </tbody></table>
+					<td height="20"> 
+                        
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+       
+            <tbody><tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=13"> 
+          Future Products</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=6"> 
+          Conferences and Conventions</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=4"> 
+          Auto Shows</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=14"> 
+          Special Coverage</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=5"> 
+          All Stars</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=11"> 
+          Talk  from the Top</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=9"> 
+          PACE Awards</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=8"> 
+          100 Leading Women</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=7"> 
+          75th Anniversary</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=12"> 
+          Total Shareholder Return Index</a></div></td>
+      </tr>
+       
+            <tr> 
+        <td valign="top" colspan="3"><img src="/images/global/spacer.gif" width="4" height="2"></td>
+      </tr>
+	  <tr> 
+        <td valign="top" bgcolor="#F9E9B1" width="4"><img src="/images/global/spacer.gif" width="4" height="1"></td>
+        <td valign="top" bgcolor="#F9E9B1" colspan="2"><div class="leftnavLink"><a href="http://www.autonews.com/feature.cms?featureId=15"> 
+          Car Cutaways</a></div></td>
+      </tr>
+       
+    </tbody></table>
                         
 					</td>
 				</tr> 
-<!-- ENDING OF RESOURCE BOX -->
-<!-- BEGINNING OF EXTRA NAVIGATION -->
-                   
-<!-- ENDING OF EXTRA NAVIGATION -->
-<!-- BEGINNING OF LEFT ADVERTISEMENT BOX -->
-                     <tr align="center" valign="middle"> 
+                            <!-- ENDING OF RESOURCE BOX -->
+                            <!-- BEGINNING OF EXTRA NAVIGATION -->
+                             
+                            <!-- ENDING OF EXTRA NAVIGATION -->
+                            <!-- BEGINNING OF LEFT ADVERTISEMENT BOX -->
+                              <tr align="center" valign="middle"> 
     <td style="font-size:5px;">&nbsp;</td>
   </tr>
   <tr align="center" valign="middle"> 
@@ -575,9 +1056,9 @@ document.write(months[month] + " " + day + ", " + year);
   OAS_RICH("Left3");
 //-->
 </script></td>
-  </tr>
-<!-- ENDING OF LEFT ADVERTISEMENT BOX -->
-                   </tbody></table>
+  </tr> 
+                            <!-- ENDING OF LEFT ADVERTISEMENT BOX -->
+                          </tbody></table>
                  </td>
 				 
                     
@@ -654,16 +1135,47 @@ document.write(months[month] + " " + day + ", " + year);
      
    </tr>
    <tr align="center"> 
-         <td colspan="2"><a href="#top" class="polloption"><span class="orangeStoryadds"><font color="#FF6600"><b>Back to top</b></font></span></a><br>
- 			<br>
-     </td>
+         <td colspan="2">
+              <p><a href="#top" class="orangeStoryadds"><b>Back to top </b></a></p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr align="center" valign="middle"> 
+                  <td class="forumnav" bgcolor="#CACACA"><img src="/images/global/spacer.gif" width="1" height="1"></td>
+                </tr>
+                <tr align="center" valign="middle"> 
+                  <td class="forumnav"><img src="/images/global/spacer.gif" width="1" height="4"></td>
+                </tr>
+                <tr align="center" valign="middle"> 
+                  <td height="20" class="forumnav" bgcolor="#003366"><font color="#FFFFFF">RESOURCES</font> 
+                  </td>
+                </tr>
+                <tr align="center" valign="middle"> 
+                  <!-- bgcolor="C0C0C0"-->
+                  <td valign="top" bgcolor="#CACACA"> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#CACACA">
+                      <!--  height="50" -->
+                      <tbody><tr>
+<td width="390" class="leftnavLink" valign="top"><a href="/feature.cms"> Standing<br>Features</a></td>
+<td width="390" class="leftnavLink" valign="top"><a href="http://www.autonews.com/calender.cms"> Industry<br>Events</a></td>
+<td width="390" class="leftnavLink" valign="top"><a href="http://www.autonews.com/files/mediakit/an/index.html"> How To<br>Advertise</a></td>
+<td width="390" class="leftnavLink" valign="top"><a href="http://www.autonews.com/page.cms?pageId=85"> Auto<br>Auctions</a></td>
+</tr><tr>
+<td width="390" class="leftnavLink" valign="top"><a href="http://www.autonews.com/page.cms?pageId=117"> Contact<br>Editorial</a></td>
+<td width="390" class="leftnavLink" valign="top"><a href="http://www.autonews.com/page.cms?pageId=133"> Industry<br>Directory</a></td>
+<td width="390" class="leftnavLink" valign="top"><a href="/page.cms?pageId=116"> Contact<br>Advertising</a></td>
+<td width="390" class="leftnavLink" valign="top"><a href="https://sec.crain.com/an/circulation.html"> Subscriber<br>Services</a></td>
+ 
+                    </tr></tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
    </tr>
    <tr bgcolor="#FFCC33"> 
      <td colspan="2"> 
        <table width="100%" border="0" cellspacing="0" cellpadding="0" height="61">
 <!-- BEGINNING BOTTOM NAVIGATION -->
          <tbody><tr bgcolor="#FFCC33"> 
-           <td height="7"><img src="/images/global/spacer.gif" width="1" height="7"></td>
+                  <td height="7" bgcolor="#FFCC33"><img src="/images/global/spacer.gif" width="1" height="7"></td>
          </tr>
          <tr align="center" valign="middle" class="leftTopicContentCopy"> 
                   <td height="21" bgcolor="CACACA"><a href="http://www.autonews.com" class="leftTopicContentCopy">Home</a> 
@@ -672,14 +1184,20 @@ document.write(months[month] + " " + day + ", " + year);
                     Stories</a> | <a href="marketing.cms" class="leftTopicContentCopy">Marketing</a> 
                     | <a href="http://www.autonews.com/page.cms?pageId=188" class="leftTopicContentCopy">Events</a> 
                     | <a href="remarketing.cms" class="leftTopicContentCopy">Remarketing</a> 
-                    | <a href="https://sec.crain.com/an/circulation.html" class="leftTopicContentCopy">Subscribe</a> 
+                    | <script languange="JavaScript">
+				<!--
+				  document.write('<a href="' + WriteSecCrainLink() + '"');
+				//-->
+				</script><a href="https://sec.crain.com/an/cgi-bin/circulation.pl" class="leftTopicContentCopy">Subscribe</a> 
                     <!--<a href="forums.cms" class="leftTopicContentCopy">Forums</a>-->
                     | <a href="http://www.anmarketplace.com/anmarketplace.mv" class="leftTopicContentCopy">Classifieds</a></td>
          </tr>
          <tr valign="middle" align="center" bgcolor="#FFCC33"> 
-           <td height="33" class="pub"><font color="#003366">Entire contents © 
-             2002 <a href="http://www.crain.com">Crain Communications, Inc.</a> Use of editorial content without permission 
-             is strictly prohibited. All Rights Reserved.<br><a href="http://www.autonews.com/page.cms?pageId=145">Privacy Policy</a>.
+                  <td height="33" class="pub"><font color="#003366">Entire contents © 
+                    2002 <a href="http://www.crain.com">Crain 
+                    Communications, Inc.</a> Use of editorial content without 
+                    permission is strictly prohibited. All Rights Reserved.<br>
+                    <a href="http://www.autonews.com/page.cms?pageId=145">Privacy Policy</a>.
              <a href="http://www.netscape.com">Download latest version of Netscape</a>/<a href="http://www.microsoft.com">Download 
              latest version of IE</a>. <a href="http://www.autonews.com/page.cms?pageId=146">Disclaimer</a>. Technology services provided by <a href="http://www.chaffee.com">Chaffee 
              Interactive</a></font></td>
