@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitsend.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202172659id_/http%3A//whitsend.org/library/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitsend.org privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626082043id_/http%3A//www.whitsend.org/library/privacy.cfm) for the most accurate reproduction.*
 
 # Whit's End - Library - Privacy Policy
 
