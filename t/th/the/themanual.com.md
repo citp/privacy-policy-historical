@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themanual.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607222617id_/http%3A//www.znet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themanual.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410190921id_/http%3A//www.znet.com/privacy.html) for the most accurate reproduction.*
 
 # zNET Privacy Policy
 
@@ -31,7 +31,7 @@ We may periodically conduct both business and individual customer surveys. We en
 We take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other zNET customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
 **Special Cases**  
-It is zNET’s policy not to use or share the personal information about Visitors of Subscribers in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, zNET may disclose personal information about Visitors or Subscribers, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Acceptable Use Policy](https://web.archive.org/web/20020607222617id_/http%3A//www.znet.com/terms.html) or other user policies; to operate the Services properly; or to protect zNET and our Subscribers.
+It is zNET’s policy not to use or share the personal information about Visitors of Subscribers in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, zNET may disclose personal information about Visitors or Subscribers, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Acceptable Use Policy](https://web.archive.org/web/20030410190921id_/http%3A//www.znet.com/terms.html) or other user policies; to operate the Services properly; or to protect zNET and our Subscribers.
 
 **zNET's Commitment to Children's Privacy**  
 Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws.
@@ -44,19 +44,19 @@ Finally, zNET recommends that children ask a parent for permission before sendin
 Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
 
 **How to Access or Modify Your Information**  
-zNET offers Subscribers the opportunity to access or modify information provided during registration. To access or modify such information, visit [our "Manage My Account"](https://web.archive.org/web/20020607222617id_/http%3A//www.znet.com/manage.html) page or contact our Customer Service Department at 800.438.9638
+zNET offers Subscribers the opportunity to access or modify information provided during registration. To access or modify such information, visit [our "Manage My Account"](https://web.archive.org/web/20030410190921id_/http%3A//www.znet.com/manage.html) page or contact our Customer Service Department at 800.438.9638
 
 **Where to Direct Questions About zNET's Privacy Policy**  
 If you have any questions about this Privacy Policy or the practices described herein, you may contact:
 
 Customer Care  
 zNET Internet Services, Inc.  
-6215 Ferris Square, Suite 100.  
-San Diego, CA 92121  
+4134 Voltaire Street.  
+San Diego, CA 92107  
 [sales@znet.com](mailto:sales@znet.com),  
 
 
 **Revisions to This Policy**  
-zNET reserves the right to revise, amend, or modify this policy, our [Internet Service Agreement](https://web.archive.org/web/20020607222617id_/http%3A//www.znet.com/general.html) and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the [Internet Service Agreement](https://web.archive.org/web/20020607222617id_/http%3A//www.znet.com/general.html).
+zNET reserves the right to revise, amend, or modify this policy, our [Internet Service Agreement](https://web.archive.org/web/20030410190921id_/http%3A//www.znet.com/general.html) and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the [Internet Service Agreement](https://web.archive.org/web/20030410190921id_/http%3A//www.znet.com/general.html).
 
-Rev. 12/2000
+Rev. 10/2002
