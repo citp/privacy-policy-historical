@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aps.com privacy policy that was archived on 2001-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011025042725id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802183947id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_1.html) for the most accurate reproduction.*
 
 # APS :: Privacy Policy
 
@@ -27,4 +27,4 @@ With respect to security, we use industry-standard encryption technologies when 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number. 
 
-The [Terms of Use](https://web.archive.org/web/20011025042725id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_3.html) provide further information governing your use of APS.com.
+The [Terms of Use](https://web.archive.org/web/20020609133150id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_3.html) provide further information governing your use of APS.com.
