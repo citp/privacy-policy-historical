@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trinidadexpress.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222750id_/http%3A//www.trinidadexpress.com/index.pl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinidadexpress.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208074148id_/http%3A//www.trinidadexpress.com/index.pl/privacy) for the most accurate reproduction.*
 
 # Trinidad News, Trinidad Newspaper, Trinidad Sports, Trinidad politics, Trinidad and Tobago, Tobago News, Trinidad classifieds, Trinidad TV, Sports, Business
 
