@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401081446id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208205322id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
 
-# eBags - luggage, handbags, backpacks, bags and travel accessories
+# eBags- luggage, handbags, backpacks, bags, purses, laptop, travel accessories and more...
 
 | 
 
 #### Our Privacy Pledge
-
-[](http://www.bbbonline.org/cks.asp?id=101031212101015444)
 
 Last Updated: 1/20/03; We understand and share your concern about privacy. We want to assure you that eBags respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [privacy@ebags.com](mailto:privacy@ebags.com). 
 
