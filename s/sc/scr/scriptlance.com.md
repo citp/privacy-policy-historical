@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624045828id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204153927id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
 
-# ScriptLance.com - freelance web programming, c programming, java programming, php programming, perl programming, web design and more...
+# ScriptLance.com - freelance programming, web designers, job listings and more...
 
 ##  Privacy Statement for ScriptLance.com 
 
