@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nra.org privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417173440id_/http%3A//www.nra.org/display_content/show_content.cfm%3Fmod_id%3D63%26id%3D1068) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nra.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206002837id_/http%3A//www.nra.org/display_content/show_content.cfm%3Fmod_id%3D63%26id%3D1068) for the most accurate reproduction.*
 
 # National Rifle Association - MyNRA
 
-The National Rifle Association (NRA) are committed to protecting your privacy. We value our visitors and endeavor to create an enjoyable and valuable experience for you when you are visiting our websites. The following Privacy Policy describes what information that we collect from you when you visit this site, and how we use this information. Please read this Privacy Policy carefully so that you understand our privacy practices. If you have questions about this Privacy Policy, please contact us at [privacy@mynra.com](mailto:privacy@memberdrive.com).
+The National Rifle Association (NRA) are committed to protecting your privacy. We value our visitors and endeavor to create an enjoyable and valuable experience for you when you are visiting our websites. The following Privacy Policy describes what information that we collect from you when you visit this site, and how we use this information. Please read this Privacy Policy carefully so that you understand our privacy practices. If you have questions about this Privacy Policy, please contact us at [membership@nrahq.org](mailto:membership@nrahq.org).
 
 1.0 What information do we collect?
 
@@ -40,7 +40,7 @@ When you consent to NRA's use of information that you provide, you represent tha
 
 1.5 Accessing your personal information
 
-Where applicable, we will provide the means to [update or modify your personal information online](http://www.mynra.com/configure/user_options.cfm). Information regarding the existence, collection, uses or disclosure of your personal information can be accessed by sending an email to [privacy@mynra.com](mailto:privacy@mynra.com). Please NOTE: This will ONLY affect your MyNRA account information. Not your Membership Information. Please send Membership Information changes to [membership@nrahq.org](mailto:membership@nrahq.org). 
+Where applicable, we will provide the means to [update or modify your personal information online](http://www.mynra.com/configure/user_options.cfm). Information regarding the existence, collection, uses or disclosure of your personal information can be accessed by sending an email to [membership@nrahq.org](mailto:membership@nrahq.org). Please NOTE: This will ONLY affect your MyNRA account information. Not your Membership Information. Please send Membership Information changes to [membership@nrahq.org](mailto:membership@nrahq.org). 
 
 We will provide the information to you within a reasonable period of time in a format that is easily understandable. We will only deny access if the information includes the information of another person, it is cost prohibitive, a security risk, proprietary information, or where we are prohibited by law. Proof of your identify will be required before any information is disclosed to you, and depending on the nature of the request, you may be asked to incur the costs associated with supplying the information to you.
 
