@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrollcountytimes.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203155045id_/http%3A//carrollcountytimes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrollcountytimes.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404004357id_/http%3A//www.carrollcountytimes.com/privacy_policy) for the most accurate reproduction.*
 
 # Carroll County Times: Westminster, Maryland
 
