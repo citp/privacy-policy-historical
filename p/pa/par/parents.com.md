@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203111800id_/http%3A//www.parents.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113925id_/http%3A//www.parents.com/other/privacy.jsp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Through your use of this Site, Gruner + Jahr USA Publishing ("G+J") collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this Site and relate it to the information you have provided to us. If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu. 
 
@@ -8,4 +8,4 @@ The above-described information (Personally-Identifying Information) may be used
 
 G+J also may share your Personally-Identifying Information with select companies and organizations for their own marketing and promotional use. While G+J seeks to share Personally-Identifying Information with companies that follow appropriate privacy policies, it does not bear any responsibility for the actions and policies of such third parties. If you wish that we not share your Personally-Identifying Information with third parties, you may "opt out" by emailing us with such request. 
 
-You should be aware that any Personally-Identifying Information, such as your user name and email address, as well as any other information that you post on a bulletin board, share in a "chat room," or otherwise specifically and knowingly disclose by use of the Forums, may be directly collected and used by third parties. Therefore, you may be subject to unsolicited email as a result of your disclosure of such information. YOU SHOULD HAVE NO EXPECTATION OF PRIVACY WITH RESPECT TO YOUR COMMUNICATIONS THROUGH THE FORUMS.
+You should be aware that any Personally-Identifying Information, such as your user name and email address, as well as any other information that you post on a bulletin board, share in a "chat room," or otherwise specifically and knowingly disclose by use of the Forums, may be directly collected and used by third parties. Therefore, you may be subject to unsolicited email as a result of your disclosure of such information. YOU SHOULD HAVE NO EXPECTATION OF PRIVACY WITH RESPECT TO YOUR COMMUNICATIONS THROUGH THE FORUMS. 
