@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2000-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001025180501id_/http%3A//www.afa.net/General_Info/privacy_/privacy_.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604073119id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
 
 # AFA Privacy statement
+
+| 
+
+  
+
+
+[](http://www.afafilter.com/cust.htm?13850)
+
+[](https://admin.ecomstores.com/myweboffice/websites/AFAlogin.cfm)
 
 |  | 
 
 ## Privacy Statement
 
-American Family Association has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.afa.net.
+American Family Association has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.afa.net. 
 
 Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We use cookies to deliver content specific to your interests.
 
@@ -16,15 +25,15 @@ Our site uses an order form for customers to request information, products, and 
 
 Our online surveys ask visitors for contact information and demographic information. We use contact data from our surveys to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-## Public Forums
+### Public Forums
 
 This site makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-## Security
+### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-## Choice/Opt-Out
+### Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
 
@@ -34,7 +43,7 @@ This site gives users the following options for removing their information from 
 
 
 
-## Correct/Update
+### Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
@@ -42,6 +51,9 @@ This site gives users the following options for changing and modifying informati
 
 
 
-## Contacting the Web Site
+### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Web Development Dept. American Family Association P.O. Box 2440 Tupelo MS 38803 [webmaster@afa.net](mailto:webmaster@afa.net) | 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Web Development Dept. American Family Association P.O. Box 2440 Tupelo MS 38803 [webmaster@afa.net](mailto:webmaster@afa.net)   
+|   |    
+  
+---|---|---|---|---
