@@ -1,10 +1,22 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207165619id_/http%3A//www.webcrawler.com/info.wbcrwl/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404101705id_/http%3A//www.webcrawler.com/info.wbcrwl/search/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - WebCrawler
 
-|  | |    
----|---|---  
- | |  **Privacy Policy**  
+ | | [](http://www.webcrawler.com/info.wbcrwl/)  
+---  
+| |  Web Search  | | | | | |   
+---|---|---|---|---|---|---|---  
+| [Yellow Pages](http://www.webcrawler.com/info.wbcrwl/yellow-pages)| |  [White Pages](http://www.webcrawler.com/info.wbcrwl/white-pages)| |   
+|   
+---  
+Web Pages  Images  Audio  Video  News | [Advanced Web Search](http://msxml.webcrawler.com/info.wbcrwl/search/advanced/web.htm?)  
+[Preferences](http://msxml.webcrawler.com/info.wbcrwl/search/preferences.htm?ver=601)  
+[Tools & Tips](http://msxml.webcrawler.com/info.wbcrwl/search/help/index.htm?)  
+|    |   
+Exact Phrase   
+ | |   
+---  
+|  **Privacy Policy**  
 ---  
    
 InfoSpace, Inc. ("InfoSpace") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"). InfoSpace is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who visit the InfoSpace Sites, how that information is used, and InfoSpace's disclosure practices. Please note that this policy applies only to the InfoSpace Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the InfoSpace Sites.  
