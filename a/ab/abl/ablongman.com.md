@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ablongman.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604024340id_/http%3A//www.ablongman.com/privacy/1%2C2909%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ablongman.com privacy policy that was archived on 2002-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021103140743id_/http%3A//www.ablongman.com/privacy/1%2C2909%2C%2C00.html) for the most accurate reproduction.*
 
 # Allyn & Bacon/Longman: Online Privacy Policy
 
