@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careeronestop.org privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216185426id_/http%3A//careeronestop.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careeronestop.org privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404035821id_/http%3A//careeronestop.org/privacy.asp) for the most accurate reproduction.*
 
 # CareerOneStop - Privacy Statement
 
@@ -23,7 +23,7 @@ You also may decide to send us personally-identifying information, for example y
    
 _If you link to other sites outside CareerOneStop:_  
    
-Our Website has many links to other sites. When you link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site.   
+Our Website has many links to other sites. When you link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site.  
    
 _Cookie Use Notice_  
    
@@ -39,6 +39,6 @@ The CareerOneStop limits its use of cookies to "session cookies"... types of coo
    
 For security purposes and to ensure that this service remains available to all users, our website also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.   
    
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996   
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.   
   
 
