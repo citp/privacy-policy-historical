@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoovers.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217213552id_/http%3A//www.hoovers.com/hoov/join/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoovers.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605165039id_/http%3A//www.hoovers.com/hoov/join/privacy.html) for the most accurate reproduction.*
 
 # Hoover's Online - Privacy Policy
 
@@ -10,7 +10,6 @@ The policy listed below is applicable to Hoover's Online and other sites on the 
 
 * * *
 
-  
  **Your Information: What, How, and Why?**  
  **Subscribers**   
 When you subscribe to Hoover's Online, any information sent to us via our subscription form is secure. In order to process your request, we need to know basic contact information such as your full name, address, telephone number, e-mail address, and method of payment. All required information is kept in-house and is not shared with third parties, except in cases where special promotions are offered through a Hoover's partner. Optional information that we may request is kept in-house. We request this information from subscribers so that we can add relevant features to Hoover's Online. 
@@ -28,7 +27,6 @@ Please remember that with the exception of subscriptions to Hoover's Online, all
 
 * * *
 
-  
  **Cookies You Can't Eat**  
  **What is a Cookie and Why Do We Use Them?**   
 A "cookie" is a small piece of information sent by a Web server to store in a Web browser so that it can later be read back from that browser. Hoover's Online uses cookies to store some personal preferences for your future visits to Hoover's Online. 
@@ -49,14 +47,12 @@ In order to make Hoover's Online a more valuable product for our subscribers and
 
 * * *
 
-  
  **In Summary**  
 Hoover's, Inc., is committed to protecting your privacy. Personal information that we collect about you stays within Hoover's, Inc., and any information distributed to third parties is reported in aggregate only. We do not give or sell your information to people who want to send you junk e-mail.  
 
 
 * * *
 
-  
  **Your Consent**  
 By using our Web site and signing up for Hoover's Online services, you consent to the collection and use of the previously mentioned information by Hoover's, Inc. This policy is subject to change. Privacy issues represent a growing concern for all Web users. To keep up-to-date with Hoover's policies, please check this page frequently. 
 
@@ -65,9 +61,12 @@ _We reserve the right to change, modify, add, or remove portions of this policy 
 
 * * *
 
-  
  **Feedback**  
 For more information about Hoover's Online or our privacy policy, please go to the [Customer Service](https://web.archive.org/hoov/help/index.html) area of our site and check out our FAQ, or submit a request using the contact information provided. For more information about Hoover's, Inc., please read our [company profile](https://web.archive.org/hoov/about/profile/).  
 
 
 * * *
+
+  
+  
+
