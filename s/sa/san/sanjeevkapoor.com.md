@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanjeevkapoor.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217201100id_/http%3A//sanjeevkapoor.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanjeevkapoor.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410032258id_/http%3A//www.sanjeevkapoor.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Indian Food Guide: Privacy Policy
 
