@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paylease.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605135615id_/http%3A//paylease.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylease.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204010651id_/http%3A//paylease.com/privacy.php) for the most accurate reproduction.*
 
 # Paylease
 
 Privacy and Security Notice
 
-PayLease is committed to ensuring the privacy and security of information collected through our web site. This privacy notice discloses the privacy practices for[ www.paylease.com](http://www.paylease.com/) This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+PayLease is committed to ensuring the privacy and security of information collected through our web site. This privacy notice discloses the privacy practices for[ www.paylease.com](https://web.archive.org/) This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
   1. What personal identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
   2. What choices are available to you regarding the use of your data. 
