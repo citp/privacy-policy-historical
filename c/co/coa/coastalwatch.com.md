@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215023000id_/http%3A//coastalwatch.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413083448id_/http%3A//coastalwatch.com/privacy.asp) for the most accurate reproduction.*
 
 # Coastalwatch Conditions of Use, Disclaimer and Copyright Information.
 
