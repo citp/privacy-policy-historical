@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142932id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004101626id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
 
 # Strang Communications Online
 
@@ -7,12 +7,10 @@
 [Free Newsletters](http://www.strang.com/newsletters.php)  
 [Subscribe Online](http://www.strang.com/offer.htm)  
 [Bulk Subscriptions](http://www.strang.com/bulksubs.html)  
-[Chat Now!](http://www.christianlife.com/chat)  
 [Interactive Forums](http://forums.strang.com/)  
 [Read Online News](http://www.charismanews.com/)  
 [Today's Devotional](http://www.strang.com/devbgwin.htm)  
 [Women's Devotional](http://www.spiritledwoman.com/devotional/)  
-[ChristianLife.com](http://www.christianlife.com/)  
 [Conference Listings](http://www.strang.com/conference/topics)  
   
 HELP DESK  
@@ -33,13 +31,13 @@ SPECIAL EVENTS
 ---  
   
 Updated as of   
-June 2, 2002  
+October 4, 2002  
   
-**2002 CharismaLife Children's Ministry Conference**  
-September 19-21, 2002  
-The New Marriott Conference Center  
-Lake Mary, Florida (Orlando)  
-[More Information ](http://cl.strang.com/conference/)
+**Charisma 2002 Conference**  
+October 31-November 2, 2002  
+New Marriott Convention Center  
+Lake Mary, FL  
+[More Information ](http://www.charismamag.com/frontlines/front.html)
 
 **Women's Conference 2003**  
 April 24-26, 2003  
@@ -119,8 +117,8 @@ By using our Web site, you consent to the collection and use of this information
 
   
 |  |   
-[](http://www.strang.com/offer.htm)
+[](http://banners.strang.com/adclick.cgi?gid=19&cid=91&mid=134&id=292)
 
-[ ](http://cbw.strang.com/specialdetails.pl?spec=1&Source=CNSITE)
+[](http://www.strang.com/offer.htm)
 
 [](http://www.strang.com/bulksubs.html)
