@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219155641id_/http%3A//www.worldtravelguide.net/includes/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412185803id_/http%3A//www.worldtravelguide.net/includes/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Columbus Privacy Policy
 
@@ -10,7 +10,7 @@ We have adopted a set of information management guidelines that serve as the bas
 
 Questions regarding this statement should be directed to [adsales@columbus-group.co.uk](mailto:adsales@columbus-group.co.uk)
 
-For information on the Data Protection Act 1998 and the Information Commissioner please follow this link. [www.dataprotection.gov.uk](https://web.archive.org/web/20021219155641id_/http%3A//www.worldtravelguide.net/includes/www.dataprotection.gov.uk)
+For information on the Data Protection Act 1998 and the Information Commissioner please follow this link. [www.dataprotection.gov.uk](https://web.archive.org/web/20030412185803id_/http%3A//www.worldtravelguide.net/includes/www.dataprotection.gov.uk)
 
 A summary of the measures taken by CPL to protect our users' privacy is as follows: 
 
