@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207082135id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621074227id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
 
 # Apartment Ratings - insider reviews of apartments
 
@@ -6,16 +6,14 @@
   
 **  Apartments**  
  • [apartment finder](https://web.archive.org/rate/finder) **  Moving**   
- • [plan your move](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.getamover.com%252Frefs%252Fres_rfq.asp%253Fref%253Daptratings%26id%3Dpartner_getamover%26addcid%3DF&return=/) **  Roommates**   
- • [find a roommate](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.RoommateAccess.com%2Findex.htm%3FPartner%3D83&id=partner_roommateaccess&addcid=F) **  Finances**   
- • [free credit report](https://web.archive.org/review/frame_page.jsp?return=/&page=https%3A%2F%2Fqspace.iplace.com%2Fcobrands%2F15%2Forder1_1.asp%3FSC%3D%26TRACKPATH%3D%26SOURCEID%3D00391701935334769134)   
- • [credit cards](https://web.archive.org/rate/cc) **  Insurance**   
+ • [Moving.com](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.moving.com%2Fpartners%2Faptratings%2F%3Fresource%3Dmoving&id=partner_movingcom&addcid=F) **  Roommates**   
+ • [RoommateService](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.roommateservice.com%2Fclickmate%2F%3F0015&id=partner_roommatesvc&addcid=F)  
+ • [EasyRoommate](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.easyroommate.com%2Findex.cfm%3Fac%3Daptratings&id=partner_easyroommate&addcid=F) **  Credit Reports**   
+ • [free credit report](https://web.archive.org/review/frame_page.jsp?return=/&page=https%3A%2F%2Fqspace.iplace.com%2Fcobrands%2F15%2Forder1_1.asp%3FSC%3D%26TRACKPATH%3D%26SOURCEID%3D00391701935334769134) **  Insurance**   
  • [renters insurance](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.netquote.com%252Fhome%253Fstatus%253DAR%2526QT%253DR%26id%3Dpartner_netquote%26addcid%3DF&return=/)  
- • [auto insurance](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.netquote.com%252Fauto%253Fstatus%253DAR%26id%3Dpartner_netquote%26addcid%3DF&return=/) **  Resources**  
- • [renter's tools](https://web.archive.org/rate/resources)  
- • [post a vacancy](https://web.archive.org/review/frame_page.jsp?return=/&page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.rent.com%252Fenter%252Fproperty%252Fnew%252F%253Freferral%253Dbanner_2079%26id%3Dpartner_vivavacancy%26addcid%3DF)   
-**  Extras**  
- • [find a date](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.loveaccess.com%2Findex.htm%3Fpartner%3D38%26flash%3D0&id=partner_loveaccess&addcid=F)  
+ • [auto insurance](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.netquote.com%252Fauto%253Fstatus%253DAR%26id%3Dpartner_netquote%26addcid%3DF&return=/) **  Long Distance**   
+ • [3.5 cents/minute](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.saveonphone.com&id=partner_saveonphone&addcid=F) **  Tools**  
+ • [tenant resources](https://web.archive.org/rate/resources)   
 |  | 
 
   
@@ -90,7 +88,5 @@ AptRatings.com takes your privacy seriously. Please read this to learn about our
 
 > If you have questions or suggestions complete a feedback form or send an email to [staff@aptratings.com](mailto:staff@aptratings.com). 
 
-|  Moving?  
-Get Renter's Insurance.  
-[](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.netquote.com%252Fhome%253Fstatus%253DAR%2526QT%253DR%26id%3Dpartner_netquote%26addcid%3DF&return=/)   
+|    
   | 
