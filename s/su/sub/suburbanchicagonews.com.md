@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2004-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040415101656id_/http%3A//www.suburbanchicagonews.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229210748id_/http%3A//www.suburbanchicagonews.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # SuburbanChicagoNews.com
 
@@ -68,7 +68,7 @@
   
 **Privacy Policy**
 
-This "Web Site" is sponsored and hosted by Digital Chicago, Inc. Click here for a list of the Web Sites governed by Digital Chicago's Privacy Policy and Terms of Use (collectively, "Digital Chicago" or "we" or "us"). Digital Chicago respects the privacy of its users. This Privacy Policy explains what information we collect, how we use your information, and your choices. This Privacy Policy only covers information collected by Digital Chicago at its Web Sites, and does not cover any information collected offline or elsewhere by Digital Chicago (unless specifically stated), Hollinger International, its or their affiliates or any other company. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use,](https://web.archive.org/web/20040415101656id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html) which governs your use of Digital Chicago's Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
+This "Web Site" is sponsored and hosted by Digital Chicago, Inc. Click here for a list of the Web Sites governed by Digital Chicago's Privacy Policy and Terms of Use (collectively, "Digital Chicago" or "we" or "us"). Digital Chicago respects the privacy of its users. This Privacy Policy explains what information we collect, how we use your information, and your choices. This Privacy Policy only covers information collected by Digital Chicago at its Web Sites, and does not cover any information collected offline or elsewhere by Digital Chicago (unless specifically stated), Hollinger International, its or their affiliates or any other company. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use,](https://web.archive.org/web/20041229210748id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html) which governs your use of Digital Chicago's Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
 
 **_Information Digital Chicago Collects_**
 
@@ -145,20 +145,21 @@ This Digital Chicago Privacy Policy was updated on January 15, 2004.
 
 |   
 ---  
+[](https://web.archive.org/mynews/)  
 [](javascript:vote\('/vote/poll.asp?data_file=TOPpoll.js'\);)  
 •[ **VOTE:** One year later, have the events of last Sept. 11 changed your life? ](javascript:vote\('/vote/poll.asp?data_file=TOPpoll.js'\);)  
 [SPECIAL SECTIONS](https://web.archive.org/focus/)  
 | 
 
 [  
-Downtown  
-Voices](https://web.archive.org/photos/voices)
+Tech  
+Talk](https://web.archive.org/features/techtalk/)
 
 | 
 
 [  
-Trooper  
-Talk](https://web.archive.org/trooper/)  
+School  
+reports](https://web.archive.org/rcard/)  
   
 ---|---  
   
@@ -180,4 +181,26 @@ CONTACT US
 • [Ask questions and get answers about the site](https://web.archive.org/aboutus/online_contacts.html)  
 • [Provide a tip about breaking news](https://web.archive.org/aboutus/newstips.html)  
 • [Subscribe to our free daily headlines e-mail](https://web.archive.org/forms/headlines.html)  
-• [Get information about advertising on the site](http://www.scnmedia.com/)
+• [Get information about advertising on the site](http://www.scnmedia.com/)  
+ADVERTISERS  
+[Your Chicago Real Estate and Condo Search](http://www.chicago-real-estate.biz/)
+
+[Best Las Vegas Real Estate and home listings](http://www.las-vegas-real-estate.info/)
+
+[Sunny Boca Raton Florida Real Estate and homes](http://www.boca-raton-real-estate.net/)
+
+[Cash Advances](http://www.jowston.org/)
+
+[Payday Loans](http://www.paydayloans.la/)
+
+[Christmas & Holiday Shopping](http://wwww.shop.com/)
+
+[Web Site Optimization](http://www.netconcepts.com/)
+
+[Digital Video Camera](http://www7.ritzcamera.com/)
+
+[Jobst Compression Stockings](http://www.leghealthwarehouse.com/)
+
+[Athletic Braces & Supports, Wheelchair Cushions & Ortho pillows](http://www.bracewarehouse.com/)
+
+[Place your site here - click here for more info](http://www.suburbanchicagonews.com/ads/textads.html)
