@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeegeek.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408020724id_/http%3A//www.coffeegeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeegeek.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008035310id_/http%3A//coffeegeek.com/privacy) for the most accurate reproduction.*
 
 # CoffeeGeek - CoffeeGeek Privacy Policies
 
@@ -52,7 +52,7 @@ With all this said, I hope that you will patronize our site sponsors, and recogn
  **Contractors and Third Parties**  
 WebMotif Net Services Inc., the sole owner of CoffeeGeek.com, utilizes no services from contractors to run this website, so we have no one to share your information with in this regard. And if we should happen to hire a contractor, they would be bound by our company's privacy and confidentiality agreements, agreements we make all sub contractors sign. These agreements enforce your privacy, as outlined in this document.
 
-Webmotif Net Services Inc., uses a third party to host this website. They have their own stated policies, [](http://www.superwebhost.com/policies/policies.html)[www.superwebhost.com/policies/policies.html](http://www.superwebhost.com/policies/policies.html) and one of those policies is that where legally made and bound, they will abide by their clientele's stated website policies (like this document you are reading here). This means that just by hosting with them and posting this privacy document, they are as bound to it as we are.
+WebMotif Net Services Inc., is the hosting provider for the CoffeeGeek website. We "own" the server that the website is fed from, through the use of a co-location web server service. As such, no third party is currently involved in the management, hosting, or delivery of the CoffeeGeek website, and no third party has access to your confidential information. Should this change in the future, rest assured that any third party we contract out to must abide by and be bound to this website's stated privacy policies before we would enter into any kind of business arrangement with them.
 
  **Government Relations and Lawsuits**  
 In some cases, the governments and legal entities (court of law, police subpoena, etc) can compel the disclosure of information about you, and of course CoffeeGeek will need to comply. However, irrespective of those situations, CoffeeGeek can unilaterally turn over information about you to the government if it believes such disclosure to be appropriate, in which case you authorize it to do so. You also consent to CoffeeGeek disclosing information about you to actual or potential parties to a lawsuit that CoffeeGeek is or may become involved in (a) if it is required to do so, (b) if it reasonably believes that such disclosures will potentially mitigate its liability, or (c) to enforce its rights.
@@ -69,4 +69,4 @@ I ask you to  please keep in mind that there is no such thing as perfect securi
 If you have any questions about this privacy statement, please email them to [info@coffeegeek.com](mailto:info@coffeegeek.com) and we'll do our best to answer them.
 
 Mark Prince  
-Lead CoffeeGeek, January, 2002.
+Lead CoffeeGeek, January, 2002. Revised July 2003.
