@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218230033id_/http%3A//stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208181714id_/http%3A//www.stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
 
 # StripersOnline - Privacy Promise
-
-[](http://www.austinreedoutfitters.com/)  
-
 
 * * *
 
@@ -64,20 +61,4 @@
 >   Should you have other questions or concerns about these privacy policies, please call us at **(732) 681-3962** between 9am and 8pm or send us an email at **[webmaster@stripersonline.com](mailto:webmaster@stripersonline.com) **
 
 [**SOL Tackle Shop**](http://www.stripersonline.net/cart/shop.cgi/page=index.html/SID=PUT_SID_HERE) | [**Fishing Reports**](http://www.stripersonline.net/forms/reports_2000.htm) | [**Photo Pages**](https://web.archive.org/Pages/photo_pages/) | [**Articles**](https://web.archive.org/Pages/Articles/) | [**Tides**](https://web.archive.org/Pages/tides_monthly.shtml) | [**Archives**](https://web.archive.org/Pages/archives/) | [**e-Surf Auction**](http://www.stripersonline.com/cgi-bin/ubb_547C/auction.pl) | [**Guest Book**](http://www.stripersonline.net/forms/guest_book.htm)  
----|---|---|---|---|---|---|---  
-  
-[](http://clickserve.cc-dt.com/link/click?lid=306274)
-
-  
-[](http://gofishin.com/?asid=27349)
-
-[ ](http://www.qksrv.net/click-551524-1199276)
-
-[](http://click.linksynergy.com/fs-bin/click?id=DPj8txUglfM&offerid=6238.10000099&type=4&subid=0)
-
-Copyright © **[Tim Surgent](mailto:tims@stripersonline.com)** and [**StripersOnline**](http://www.stripersonline.com/) 1999-2001. All rights reserved.  
-This page was last updated on December 11, 2001.   
-We take your privacy very seriously, see our [**Privacy Notice**](https://web.archive.org/Pages/privacy.shtml) for details. 
-
-|   
----|---
+---|---|---|---|---|---|---|---
