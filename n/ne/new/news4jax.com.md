@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news4jax.com privacy policy that was archived on 2004-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041227044315id_/http%3A//www.news4jax.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news4jax.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203334id_/http%3A//www.news4jax.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # News4Jax.com - News
 
