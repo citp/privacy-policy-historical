@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nufc.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215191000id_/http%3A//www.nufc.com/html/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nufc.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603070755id_/http%3A//www.nufc.com/html/privacy-policy.html) for the most accurate reproduction.*
 
 # Newcastle United Football Club - Videos
 
