@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2003-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030501040834id_/http%3A//www.oldies.com/about/privacy.cfm%3Fidentity%3D409235-35897341) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202203129id_/http%3A//www.oldies.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Oldies.com : Privacy Statement
 
@@ -6,9 +6,9 @@
 
 ## 
 
-Privacy Statement
+_Privacy Statement_
 
-|  [Print](http://www.oldies.com/about/privacy.cfm?identity=409235-35897341&&print=true) |    
+|  [Print](http://www.oldies.com/about/privacy.cfm?print=true) |    
 ---|---|---|---|---  
   
 **Oldies.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
