@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204202710id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172034id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
 Our Privacy Policy  
-For more than 30 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history. 
+For more than 31 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history. 
 
 If you have any questions or concerns about our Privacy Notice, please call us toll-free at:1-800-955-9091; e-mail us at [webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to: Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911. 
 
@@ -12,7 +12,7 @@ If you have any questions or concerns about our Privacy Notice, please call us t
 By visiting either Crutchfield.com or CrutchfieldAdvisor.com you agree to accept the practices described in this Privacy Notice. 
 
 **Changes to this Privacy Notice, Conditions of Use and Notices:**  
-This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on November 29, 2004. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20041204202710id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia. 
+This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on November 29, 2004. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20050303172034id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia. 
 
 **Personal Information Collected By Crutchfield:**  
 Crutchfield uses information that we collect from our visitors to personalize and improve your visit at Crutchfield.com and CrutchfieldAdvisor.com. We gather the following types of information: 
@@ -56,7 +56,7 @@ As a visitor to Crutchfield.com and CrutchfieldAdvisor.com, you may "opt out" of
 We will release personally identifiable information to third parties and organizations when we believe it is appropriate for us to do so to comply with the law. We will also do so to cooperate with law enforcement investigations, comply with court orders or subpoenas, protect the legal rights of us and our users, or when we believe it is needed for fraud protection and/ or credit risk reduction. 
 
 **Business Transfer:**  
-Crutchfield has been in business independently for years, and our intent is continue for at least another 30 years. However, in the unlikely event that Crutchfield is sold, has substantially all of its assets acquired or merges or becomes affiliated with any other individual or entity any customer information owned or under the control of Crutchfield may be one of the transferred assets. 
+Crutchfield has been in business independently for years, and our intent is continue for at least another 31 years. However, in the unlikely event that Crutchfield is sold, has substantially all of its assets acquired or merges or becomes affiliated with any other individual or entity any customer information owned or under the control of Crutchfield may be one of the transferred assets. 
 
 **Security:**  
 Our Web site protects the security of personal information you transmit to us by using Secure Sockets Layer (SSL) software, which encrypts information you input. We do not reveal your credit card number when we confirm your order. In order to protect against unauthorized access to your account you should sign off when you finish visiting our site. 
