@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213014id_/http%3A//www.autonews.com/page.cms%3FpageId%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204184047id_/http%3A//www.autonews.com/page.cms%3FpageId%3D145) for the most accurate reproduction.*
 
 # Automotive News
 
-This is the web site of Automotive News. Our postal address is 1400 Woodbridge, Detroit, MI 48207. We can be reached by email at [autonews@crain.com](mailto:autonews@crain.com) or by telephone at 313-446-6000. 
+This is the web site of Automotive News. Our postal address is 1155 Gratiot Ave., Detroit, MI 48207. We can be reached by email at [autonews@crain.com](mailto:autonews@crain.com) or by telephone at 313-446-6000. 
 
 The Automotive News Group, publishers of automotivenews.com, has developed this Privacy Policy to advise site users of our possible uses of information collected during an automotivenews.com visit.
 
