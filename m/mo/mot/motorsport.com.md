@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611062159id_/http%3A//www.motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803062517id_/http%3A//www.motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
 
 # Motorsport.com > Legal channel
 
