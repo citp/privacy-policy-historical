@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estudents.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205052016id_/http%3A//estudents.com/terms_policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estudents.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402184156id_/http%3A//www.estudents.com/terms_policies.htm) for the most accurate reproduction.*
 
 # terms_policies
 
