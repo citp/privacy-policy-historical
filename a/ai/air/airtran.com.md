@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001124432id_/http%3A//www.airtran.com/aboutus/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611055208id_/http%3A//airtran.com/aboutus/privacy.jsp) for the most accurate reproduction.*
 
 # AirTran Airways - Privacy Policy
 
@@ -19,13 +19,15 @@ AirTran Airways understands that you may have concerns about your privacy, and w
 >   * Email address
 >   * Credit card number and expiration date
 > 
-This information is only used for the purpose of completing your reservation, emailing a confirmation to you, and providing the air travel services you have purchased from us. 
+This information is used for the purpose of completing your reservation, emailing a confirmation to you, and providing the air travel services you have purchased from us. 
 > 
 > During your purchase, we also give you the option to sign up for our Net Escapes and A-Savers email programs (see below for more details).
 
 **Who do you share my information with?**
 
-> AirTran Airways does not sell or rent any personal information you provide on our web site to any other parties. AirTran may share anonymous, aggregated information about all our users with third parties.
+> AirTran Airways does not sell or rent any personal information you provide on our web site to any other parties. We may share your information with partner companies as necessary in the course of our operations, including the execution of marketing programs, but these partner companies must comply with our privacy policy. AirTran may share anonymous, aggregated information about all our users with third parties.
+> 
+> Additionally, AirTran Airways will comply with applicable law that may require us to share your information with government agencies. 
 
 **Net Escapes and A-Savers Programs**
 
@@ -59,4 +61,4 @@ This information is only used for the purpose of completing your reservation, em
 
 > AirTran Airways reserves the right to modify its Privacy Policy at any time. If we change or update our privacy policy, we will post the revised policy on this page.
 
-Last updated November 15, 2002.
+Last updated January 29, 2004.
