@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kake.com privacy policy that was archived on 2002-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021113074638id_/http%3A//www.kake.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kake.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404065540id_/http%3A//www.kake.com/unclassified/647.html) for the most accurate reproduction.*
 
 # KAKE | GMATV INTERACTIVE PRIVACY POLICY
 
 At Gray MidAmerica TV Interactive Media, LLC, a subsidiary of Gray MidAmerica TV, Inc. ("GMATV Interactive"), we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. This privacy policy applies to those websites that are part of the GMATV Interactive Network. For a list of those websites, click here. 
 
-Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an e-mail message to [rick.stora@gcslink.com](mailto:rick.stora@gcslink.com). 
+Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an e-mail message to [lisa.bishop@bimmail.com](mailto:lisa.bishop@bimmail.com). 
 
 **Collection of Personal Information**
 
@@ -82,11 +82,11 @@ By using a GMATV Interactive website, you signify your agreement to the terms of
 
 If we decide to change this privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. 
 
-If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to [rick.stora@gcslink.com](mailto:rick.stora@gcslink.com) or send a letter to the following address: 
+If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to [lisa.bishop@bimmail.com](mailto:lisa.bishop@bimmail.com) or send a letter to the following address: 
 
 Gray MidAmerica TV Interactive Media  
-Attn: Rick Stora  
-Director of Digital Media  
+Attn: Lisa Bishop  
+Manager, GIM  
 2895 Greenspoint Parkway  
 Suite 250  
 Hoffman Estates, Illinois 60195
@@ -119,4 +119,4 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 
 
-Copyright © 2002 Gray MidAmerica TV Interactive Media, LLC All rights reserved. 
+Copyright © 2003 Gray MidAmerica TV Interactive Media, LLC All rights reserved. 
