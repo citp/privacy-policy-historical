@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustypics.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605222726id_/http%3A//www.mc6.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustypics.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204013728id_/http%3A//www.mc6.com/privacy.html) for the most accurate reproduction.*
 
 # MC6, INC. Privacy Policy 3/24/2004
 
