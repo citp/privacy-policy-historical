@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209183515id_/http%3A//www.newsok.com%3Fprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2003-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030216101632id_/http%3A//www.oklahoman.com%3Fprivacypolicy) for the most accurate reproduction.*
 
 # Welcome to NewsOK.com
 
@@ -44,7 +44,7 @@ ABOUT US
 ](https://web.archive.org/cgi-bin/show_article?ID=904398&TP=get9)  
 [Job Openings  
 ](http://www.jobsok.com/cgi-bin/profilesearch.cgi?Company=KWTV%20News9)  
-[ Staff](https://web.archive.org/?9_staff) | [Bios  
+[ Staff](https://web.archive.org/?9_staff) | [Bios | E-mail  
 ](https://web.archive.org/?9_bios)  
 [ More  
 ](https://web.archive.org/?9_about)  
@@ -52,15 +52,17 @@ ABOUT US
 ](https://web.archive.org/?ok_history)  
 [ Advertise](http://oklahoman.newsok.com/advertising/index.html) | [Classified  
 ](http://www.newsok.com/cgi-bin/ClassifiedForm.cgi)  
-[ Delivery/Services  
+[ Delivery | Services  
 ](https://web.archive.org/?ok_circulation)  
+[ Job Openings  
+](http://www.jobsok.com/cgi-bin/profilesearch.cgi?Company=The%20Oklahoman)  
 [ Page One Store  
 ](http://newsok.com/cgi-bin/page_one/pageonestore.cgi)  
 [ Shopping the Metro  
 ](https://web.archive.org/?shoppingthemetro)  
 [ Toast of the Town  
 ](https://web.archive.org/?toastofthetown)  
-[ Staff  
+[ Contacts  
 ](https://web.archive.org/?ok_staff)  
 [ More  
 ](https://web.archive.org/?ok_history)  
@@ -74,7 +76,7 @@ ABOUT US
 ](http://www.searchok.com/)  
 [ Site Map  
 ](https://web.archive.org/?sitemap)  
-[ Staff  
+[ Staff | E-mail  
 ](https://web.archive.org/?newsok_staff)  
 [ Top 10 Emailed Articles  
 ](http://www.newsok.com/cgi-bin/top_email)  
@@ -178,6 +180,6 @@ The foregoing policy is effective Feb. 7, 2001. NewsOK reserves the right to cha
 * * *
 
 Contact:  [NEWS 9](https://web.archive.org/?9_staff) |  [The Oklahoman](https://web.archive.org/?ok_staff) |  [NewsOK.com](https://web.archive.org/?newsok_staff) |  [Privacy Policy](https://web.archive.org/?privacypolicy) |  [Site Map](https://web.archive.org/?sitemap) |  [FAQ's  
-](https://web.archive.org/?help) © 2002, Produced by NewsOK  
+](https://web.archive.org/?help) © 2003, Produced by NewsOK  
 |   
 |  |  | 
