@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008040134id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605102212id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Belkin
 
