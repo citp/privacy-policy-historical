@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2000-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001117122500id_/http%3A//www.bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331002627id_/http%3A//www.bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
 
 # Big Blue Interactive Privacy Policy
 
 ****  
-[](https://web.archive.org/web/20001117122500id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20010331002627id_/http%3A//www.bigblueinteractive.com/index.cfm)
 
 * * *
 
@@ -17,10 +17,9 @@ _BBI_ employs third-party advertisers and advertising serving services. These pa
 
 To find out more about how third-party advertisers/advertising serving services that _BBI_ works with manage the privacy of information in conjunction with serving ads on this site, please see their respective privacy policies at: 
 
-  * [Engage](http://www.engage.com/privacy/privacy.htm)
+  * [Engage](http://www.engage.com/privacy/)
   * [Burst! Media](http://www.burstmedia.com/release/privacy.asp)
-  * [Advertising.com](http://www.advertising.com/privacy/index.html)
-  * [Inside Football](http://www.insidefootball.com/privacy.htm)
+  * [Advertising.com](http://www.advertising.com/privacy/privacy.html)
 
 
 
@@ -48,4 +47,4 @@ If you have any questions or comments about our privacy policy, please contact u
 
 * * *
 
-[](https://web.archive.org/web/20001117122500id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20010331002627id_/http%3A//www.bigblueinteractive.com/index.cfm)
