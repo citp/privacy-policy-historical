@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbrands.net privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621202701id_/http%3A//www.adbrands.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbrands.net privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004183115id_/http%3A//www.adbrands.net/policy.htm) for the most accurate reproduction.*
 
 # Adbrands.net: Privacy Policy
 
@@ -16,7 +16,7 @@ Adbrands.net's internal ad server uses cookies to make sure you don't see the sa
 
 **Registration Forms**
 
-The subscriber registration form requires users to give us contact information (like their name, email, and postal code) and unique identifiers (like a username and password). Contact information is used if we need to get in touch with customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers are collected from subscribers to verify their identity when logging into the system. The financial information (for example credit card details) that is collected on the registration form is held within the secure server of our transaction agents, Netbanx Ltd, part of the [NetInvest Group](http://www.netinvest.co.uk/). We do not have access to this information, we will not renew subscriptions without the specific instruction of each subscriber. 
+The subscriber registration form requires users to give us contact information (like their name, email, and postal code) and unique identifiers (like a username and password). Contact information is used if we need to get in touch with customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers are collected from subscribers to verify their identity when logging into the system. The financial information (for example credit card details) that is collected on the registration form is held within the secure server of our transaction agents, Netbanx Ltd, part of the [NetInvest Group](http://www.netinvest.co.uk/). We do not have access to this information, and we will not renew subscriptions without the specific instruction of each subscriber. 
 
 **External Links  **
 
@@ -24,7 +24,7 @@ This site contains links to other sites. Adbrands.net is not responsible for the
 
 **Public Forums  **
 
-Adbrands.net also manages a separate free mailing list and discussion forum, hosted at Yahoo Groups. Paid subscribers to Adbrands.net are automatically added to the mailing list. Other Adbrands.net users may choose to sign up to the service. Members of the mailing list will receive periodic announcements from Adbrands.net and possibly from other Adbrands.net users and subscribers. All announcements are moderated. However, please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. You may remove yourself from this list at any time by sending an email to  [adbrands](mailto:adbrands-unsubscribe@yahoogroups.com)[-unsubscribe@yahoogroups.com](mailto:adbrands-unsubscribe@yahoogroups.com). This mailing list is not available to third parties, and only the forum moderator has access to the directory of members. Yahoo Groups.com has a separate privacy policy which is available [here](http://privacy.yahoo.com/privacy/us/).
+Adbrands.net also manages a separate free mailing list. Paid subscribers to Adbrands.net are automatically added to the mailing list. Other Adbrands.net users may choose to sign up to the service. Members of the mailing list will receive periodic announcements from Adbrands.net. You may remove yourself from this list at any time by sending an email to  [unsubscribe@mind-advertising.com](mailto:adbrands-unsubscribe@mind-advertising.com) with "remove" in the subject. This mailing list is not available to third parties, and only the forum moderator has access to the directory of members. 
 
 * * *
 
