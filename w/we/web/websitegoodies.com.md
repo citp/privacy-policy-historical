@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407164006id_/http%3A//www.websitegoodies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013200831id_/http%3A//www.websitegoodies.com/privacy.shtml) for the most accurate reproduction.*
 
 # WebSiteGoodies - Privacy Policy
 
