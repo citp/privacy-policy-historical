@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202190749id_/http%3A//aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207031048id_/http%3A//www.aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # AceProject - Privacy Policy Statement
 
@@ -85,20 +85,16 @@ If, however, we are going to use users’ personally identifiable information in
 
 Contact Information
 
-Would you like to speak with a representative?  You can do so three ways: email, telephone and regular mail.
+Would you like to speak with a representative?  You can do so two ways: email and regular mail.
 
 > **Email and web address:  
 >  **[support@aceproject.com  
 >  ](mailto:support@aceproject.com)[http://www.aceproject.com](http://www.aceproject.com/)
 > 
-> **Phone:  
->  **Toll Free 1-866-227-3183 \ International +011-418-845-1066  
->  We are available between 1 P.M. and 5 P.M. [GMT -5 Eastern Standard Time], Monday to Friday.
-> 
 > **Mailing Address:  
 >  **Websystems Inc.  
->  2580, Lebourgneuf Blvd. Office 101  
->  Quebec, PQ  
->  Canada, G2C 1K5
+>  6724, Soleil-Levant Street  
+>  Saint-Emile, QC  
+>  Canada, G3E 2C7
 
 | 
