@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008070155id_/http%3A//www6.myfantasyleague.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604181957id_/http%3A//myfantasyleague.com/privacy.html) for the most accurate reproduction.*
 
 # Fantasy Football at myfantasyleague.com: Our Privacy Policy
 
