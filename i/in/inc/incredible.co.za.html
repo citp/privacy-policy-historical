@@ -1,0 +1,961 @@
+<!--The following is the downloaded HTML source of the incredible.co.za privacy policy that was archived on 2001-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217061736id_/http%3A//www.incredible.co.za/privacy_statement.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Incredible Connection : Privacy Statement</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Keywords" content="incredible,connection,retail,hardware,software,computers,pc,printers,scanners,shop,south africa,credit,commerce,books,cds,dvd,desktop,laptops,periherals,games,toys,accessories,furniture,consumables,home,business,electronics,cellular,photography">
+<meta name="Description" content="Incredible Connection is the leading computer and technology retail chain of 
+stores in Africa.Incredible Connection Online gives you a relaxed shopping environment with 
+specialised stock, secure credit card transactions and the world-class customer 
+service you've come to expect from us.">
+<link rel="stylesheet" type="text/css" href="http://www.incredible.co.za/icsite.css"><script language="JavaScript">
+<!--
+
+var myRemote;
+
+function MM_reloadPage(init) {  
+//reloads the window if Nav4 resized
+// This function is a global function and must appear on all templates
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+// This command is a global command and must appear on all templates
+MM_reloadPage(true);
+// -->
+
+function MM_findObj(n, d) { //v4.0
+// Modified by Kevin Naicker
+// This function is a global function and must appear on all templates
+// This function does the IE/NS compatibility
+
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_showWizard() { //v3.0
+// modified by Kevin Naicker 2001, and then finally by Alvin Royan 2001.
+// The following function shows/hides the Shopping Wizard
+// Insert script here: set certain images to Dim and certain images to active
+
+  var i,p,v,obj,args=MM_showWizard.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+
+function MM_changePropX(objName,x,theProp,theValue, div, arrID) { //v3.0
+// modified by Kevin Naicker
+	var obj = MM_findObj(objName);  
+	// Which Browser Agent is being used ?
+	if (obj && (theProp.indexOf("style.")==-1 || obj.style))   {		
+		// is for IE
+		// Is the DIV being Opened/Closed
+		if(arrID != -1) {
+			// DIV is Opened
+			// Which way to display the DIV ?
+			if(arrID<=4) {
+				// DIV Rendered Right with minus buttons on Left
+				slot1.src="http://www.incredible.co.za/images/advanced/part1a.gif"
+				slot2.src="http://www.incredible.co.za/images/advanced/part2b.gif"
+				obj.style.top = 45;
+			}
+			else {
+				// DIV Rendered Leftt with minus buttons on Right
+				slot1.src="http://www.incredible.co.za/images/advanced/part1b.gif"
+				slot2.src="http://www.incredible.co.za/images/advanced/part2a.gif"
+				obj.style.top = 46;
+			}
+			// Generate the New options
+			genOptions(arrID);
+
+			// This fix is in place for select boxes that shine tru the DIV
+			fixOuterSelectBoxes('hidden')
+		}
+		else {
+			// DIV is being closed
+
+			// Reverses the actions done by the fix.
+			fixOuterSelectBoxes('visible');
+		}
+		eval("obj."+theProp+"='"+theValue+"'");
+	}
+	else	{	 
+	// Netscape Patch
+	// open Window with Search form and post results back to parent.
+		// alert('Sorry, this feature is not supported by your browser. Please upgrade to Microsoft Internet Explorer 4.0 or later');
+		launchRemote('http://www.incredible.co.za/services/incredible_search/netscape_popup.asp?vc_id='+arrID);
+	}
+}
+
+function launch(newURL, newName, newFeatures, orgName) {
+  var remote = open(newURL, newName, newFeatures);
+  if (remote.opener == null)
+    remote.opener = window;
+  remote.opener.name = orgName;
+  return remote;
+}
+
+function launchRemote(url) {
+  myRemote = launch(url, "thechild", "height=350,width=400,channelmode=0,dependent=0,directories=0,fullscreen=0,location=0,menubar=0,resizable=1,scrollbars=1,status=0,toolbar=0", "theparent");
+}
+
+function closeChild() {
+	if(document.layers) {
+		//alert("closing remote window");
+		if(myRemote) {
+			myRemote.close();
+		}
+	}
+}
+
+function MM_showHideLayers() { //v3.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function genOptions(arrID) {
+	// Strictly IE code Only.
+	var dropDownObj = document.form3.cat;
+	var whichmenuObj = document.form3.vc_id;
+
+	// Clean existing options out
+	optionLength = dropDownObj.options.length;
+	for (x=0; x<=optionLength; x++) {
+		dropDownObj.options[0] = null;
+	}
+
+	// set Vc_id  no
+	whichmenuObj.value = arrID;
+
+
+	// Get the new Options
+	arrayStr = setarray(arrID);
+	var cat_arr = new Array();
+	var catDesc = new Array();
+	var catValue = new Array();
+	var tempArr = new Array();
+	cat_arr = arrayStr.split(/\|\_\|/);
+		
+	//populate the box
+	var tcount=1;
+	var tStr="";
+	dropDownObj.options[0] = new Option('Select a Category');
+	dropDownObj.options[0].value = 'none';
+
+	//Apply Style
+	//alert(dropDownObj.style.class);
+
+	for (var i = 0; i < cat_arr.length; i++) {
+		tempArr = "";
+		tStr = cat_arr[i];
+		tempArr = tStr.split(/\|\|/);
+		dropDownObj.options[tcount] = new Option(tempArr[2]);
+		dropDownObj.options[tcount].value = tempArr[0];
+		tcount++;
+   }
+	// Always make the first option selected when the options are regenerated
+	dropDownObj.options[0].selected=true;
+}
+
+function fixOuterSelectBoxes(status) {
+	var allSelectBoxes = document.all.tags("select");
+	var divSelectBoxes = new Array('usage','lifestyle','brand','pricerange','cat','orderby');
+	/* 
+		Step 1.	Set all the select boxes according to the state of the DIV
+				HIDDEN if DIV is Opened
+				VISIBLE if DIV is Closed
+	*/
+
+	// Tests for presence of least one select box object to avoid js errors.
+	if(allSelectBoxes) {
+		for(x=0;x<allSelectBoxes.length;x++) {
+			allSelectBoxes[x].style.visibility=status;
+		}
+	}
+
+	/*
+		Step 2.	Set those select boxes in the DIV to be visible if DIV is opened.
+	*/
+	// Tests if DIV has been opened
+	if(status == 'hidden') {
+		// set div select boxes visible if DIV is opened
+		for(x=0;x<divSelectBoxes.length;x++) {
+			document.form3[divSelectBoxes[x]].style.visibility='visible';
+		}
+	}
+}
+
+function submitForm() {
+	// Strictly NS code only.
+	alert("submitting Form");
+	return false;
+}
+//-->
+</script><script language="JavaScript" src="http://www.incredible.co.za/include/search/js_search.js"></script><script>
+var menublock=new Array() // no need to change this
+var plus_i=0 // no need to change this
+
+
+menublock[0]="|#|;"+	                    
+"||_self "	
+
+
+menublock[1]="> Hardware|#|;"+	                    
+//"Adding Machines|http://www.incredible.co.za/services/catalog/features.asp?rcat=Adding_Machines&menu_id=1#imhere|_self;"+		// text|URL|target of first sublink		
+"Apple|http://www.incredible.co.za/services/catalog/features.asp?rcat=Apple&menu_id=1#imhere|_self ;"+		
+"Copiers|http://www.incredible.co.za/services/catalog/features.asp?rcat=Copiers&menu_id=1#imhere|_self ;"+					
+"Decoders|http://www.incredible.co.za/services/catalog/features.asp?rcat=Decoders&menu_id=1#imhere|_self;"+				
+"Desktops|http://www.incredible.co.za/services/catalog/features.asp?rcat=Desktops&menu_id=1#imhere|_self ;"+				
+"Gaming Consuls|http://www.incredible.co.za/services/catalog/features.asp?rcat=Gaming_Consuls&menu_id=1#imhere|_self ;"+			
+"Media Reading Devices|http://www.incredible.co.za/services/catalog/features.asp?rcat=Media_Reading_Devices&menu_id=1#imhere|_self ;"+	
+"Handheld's and PDA's|http://www.incredible.co.za/services/catalog/features.asp?rcat=Mobiles&menu_id=1#imhere|_self ;"+					
+"Monitors|http://www.incredible.co.za/services/catalog/features.asp?rcat=Monitors&menu_id=1#imhere|_self ;"+				
+"Multifunction|http://www.incredible.co.za/services/catalog/features.asp?rcat=Multifunction&menu_id=1#imhere|_self ;"+			
+"Multimedia|http://www.incredible.co.za/services/catalog/features.asp?rcat=Multimedia&menu_id=1#imhere|_self ;"+				
+"Printers|http://www.incredible.co.za/services/catalog/features.asp?rcat=Printers&menu_id=1#imhere|_self ;"+	
+"Projectors|http://www.incredible.co.za/services/catalog/features.asp?rcat=Projectors&menu_id=1#imhere|_self ;"+	
+"Scanners|http://www.incredible.co.za/services/catalog/features.asp?rcat=Scanners&menu_id=1#imhere|_self ;"+	
+"Servers|http://www.incredible.co.za/services/catalog/features.asp?rcat=Servers&menu_id=1#imhere|_self "	
+
+
+
+menublock[2]="> Software|#|;"+
+              "Business and Office|http://www.incredible.co.za/services/catalog/features.asp?rcat=Business_and_Office&menu_id=2#imhere|_self;"+
+              "Communication|http://www.incredible.co.za/services/catalog/features.asp?rcat=Communication&menu_id=2#imhere|_self;"+
+              "Education & Instruction|http://www.incredible.co.za/services/catalog/features.asp?rcat=Education_and_Instruction&menu_id=2#imhere|_self;"+
+              "Games|http://www.incredible.co.za/services/catalog/features.asp?rcat=Games&menu_id=2#imhere|_self;"+
+              "Graphics|http://www.incredible.co.za/services/catalog/features.asp?rcat=Graphics&menu_id=2#imhere|_self;"+
+              "Home and Hobbies|http://www.incredible.co.za/services/catalog/features.asp?rcat=Home_and_Hobbies&menu_id=2#imhere|_self;"+
+              "Kids Software|http://www.incredible.co.za/services/catalog/features.asp?rcat=Kids_Software&menu_id=2#imhere|_self;"+
+              "Language and Travel|http://www.incredible.co.za/services/catalog/features.asp?rcat=Language_and_Travel&menu_id=2#imhere|_self;"+
+              "Networking|http://www.incredible.co.za/services/catalog/features.asp?rcat=Networking&menu_id=2#imhere|_self;"+
+              "Operating Systems|http://www.incredible.co.za/services/catalog/features.asp?rcat=Operating_Systems&menu_id=2#imhere|_self;"+
+              "Personal Finance|http://www.incredible.co.za/services/catalog/features.asp?rcat=Personal_Finance&menu_id=2#imhere|_self;"+
+              "Programming|http://www.incredible.co.za/services/catalog/features.asp?rcat=Programming&menu_id=2#imhere|_self;"+
+              "Software for Handhelds|http://www.incredible.co.za/services/catalog/features.asp?rcat=Software_for_Handhelds&menu_id=2#imhere|_self;"+
+              "Utilities|http://www.incredible.co.za/services/catalog/features.asp?rcat=Utilities&menu_id=2#imhere|_self;"+
+              "Video and Music|http://www.incredible.co.za/services/catalog/features.asp?rcat=Video_and_Music&menu_id=2#imhere|_self;"+
+              "Web Development|http://www.incredible.co.za/services/catalog/features.asp?rcat=Web_Development&menu_id=2#imhere|_self"
+
+
+menublock[3]="> Peripherals|#|;"+
+              "Keyboards|http://www.incredible.co.za/services/catalog/features.asp?rcat=Keyboards&menu_id=3#imhere|_self;"+
+              "Mice|http://www.incredible.co.za/services/catalog/features.asp?rcat=Mice&menu_id=3#imhere|_self;"+
+              "Office Equipment|http://www.incredible.co.za/services/catalog/features.asp?rcat=Office_Equipment&menu_id=3#imhere|_self;"+
+              "Media Reading Devices|http://www.incredible.co.za/services/catalog/features.asp?rcat=p_Media_Reading_Devices&menu_id=3#imhere|_self;"+
+              "Multimedia|http://www.incredible.co.za/services/catalog/features.asp?rcat=p_Multimedia&menu_id=3#imhere|_self;"+
+              "Power|http://www.incredible.co.za/services/catalog/features.asp?rcat=Power&menu_id=3#imhere|_self;"+
+              "Speakers|http://www.incredible.co.za/services/catalog/features.asp?rcat=Speakers&menu_id=3#imhere|_self;"+
+              "Storage|http://www.incredible.co.za/services/catalog/features.asp?rcat=Storage&menu_id=3#imhere|_self;"+
+              "CD Writers|http://www.incredible.co.za/services/catalog/features.asp?rcat=CD_Writers&menu_id=3#imhere|_self"
+
+menublock[4]="> Home Electronics|#|;"+
+              "Televisions|http://www.incredible.co.za/services/catalog/features.asp?rcat=Televisions&menu_id=4#imhere|_self;"+
+			  "Media Players|http://www.incredible.co.za/services/catalog/features.asp?rcat=Media_Players&menu_id=4#imhere|_self;"+
+			  "Audio systems|http://www.incredible.co.za/services/catalog/features.asp?rcat=Audio_Systems&menu_id=4#imhere|_self"
+              
+
+
+
+
+menublock[5]="> Photography|#|;"+
+              "Cameras|http://www.incredible.co.za/services/catalog/features.asp?rcat=Cameras&menu_id=5#imhere|_self;"+
+              "Video Cameras|http://www.incredible.co.za/services/catalog/features.asp?rcat=Video_Cameras&menu_id=5#imhere|_self"
+
+
+
+
+menublock[6]="> Books and DVD's|#|;"+
+              "Books|http://www.incredible.co.za/services/catalog/features.asp?rcat=Books&menu_id=6#imhere|_self;"+
+//              "DVDs|http://www.incredible.co.za/services/catalog/features.asp?rcat=DVDs&menu_id=6#imhere|_self;"+
+              "DVDs|http://www.incredible.co.za/dvd/default.asp#imhere|_self;"+
+              "Magazines|http://www.incredible.co.za/services/catalog/features.asp?rcat=Magazines&menu_id=6#imhere|_self;"+
+              "Video Cassettes|http://www.incredible.co.za/services/catalog/features.asp?rcat=Video_Cassettes&menu_id=6#imhere|_self"
+
+menublock[7]="> Consumables|#|;"+
+              "Batteries|http://www.incredible.co.za/services/catalog/features.asp?rcat=Batteries&menu_id=7#imhere|_self;"+
+              "Camera Consumables|http://www.incredible.co.za/services/catalog/features.asp?rcat=Camera_Consumables&menu_id=7#imhere|_self;"+
+              "Cartridges|http://www.incredible.co.za/services/catalog/features.asp?rcat=Cartridges&menu_id=7#imhere|_self;"+
+              "Cleaning Equipment|http://www.incredible.co.za/services/catalog/features.asp?rcat=Cleaning_Equipment&menu_id=7#imhere|_self;"+
+              "Data Storage|http://www.incredible.co.za/services/catalog/features.asp?rcat=Data_Storage&menu_id=7#imhere|_self;"+
+              "Labels|http://www.incredible.co.za/services/catalog/features.asp?rcat=Labels&menu_id=7#imhere|_self;"+
+              "Paper|http://www.incredible.co.za/services/catalog/features.asp?rcat=Paper&menu_id=7#imhere|_self;"+
+              "Ribbons|http://www.incredible.co.za/services/catalog/features.asp?rcat=Ribbons&menu_id=7#imhere|_self;"+
+              "Toners|http://www.incredible.co.za/services/catalog/features.asp?rcat=Toners&menu_id=7#imhere|_self;"+
+              "Cassettes|http://www.incredible.co.za/services/catalog/features.asp?rcat=Cassettes&menu_id=7#imhere|_self"
+
+menublock[8]="> Accessories|#|;"+
+              "Audio Accessories|http://www.incredible.co.za/services/catalog/features.asp?rcat=Audio_Accessories&menu_id=8#imhere|_self;"+
+              "Cable Accessories|http://www.incredible.co.za/services/catalog/features.asp?rcat=Cable_Accessories&menu_id=8#imhere|_self;"+
+              "Cables|http://www.incredible.co.za/services/catalog/features.asp?rcat=Cables&menu_id=8#imhere|_self;"+
+              "Camera Accessories|http://www.incredible.co.za/services/catalog/features.asp?rcat=Camera_Accessories&menu_id=8#imhere|_self;"+
+              "Cellular Accessories|http://www.incredible.co.za/services/catalog/features.asp?rcat=Cellular_Accessories&menu_id=8#imhere|_self;"+
+              "Desk Top Accessories|http://www.incredible.co.za/services/catalog/features.asp?rcat=Desk_Top_Accessories&menu_id=8#imhere|_self;"+
+              "IT Luggage|http://www.incredible.co.za/services/catalog/features.asp?rcat=IT_Luggage&menu_id=8#imhere|_self;"+
+              "Power Accessories|http://www.incredible.co.za/services/catalog/features.asp?rcat=Power_Accessories&menu_id=8#imhere|_self;"+
+              "Printer Accessories|http://www.incredible.co.za/services/catalog/features.asp?rcat=Printer_Accessories&menu_id=8#imhere|_self;"+
+              "Protection|http://www.incredible.co.za/services/catalog/features.asp?rcat=Protection&menu_id=8#imhere|_self;"+
+              "Repair Accessories|http://www.incredible.co.za/services/catalog/features.asp?rcat=Repair_Accessories&menu_id=8#imhere|_self;"+
+              "Television Accessories|http://www.incredible.co.za/services/catalog/features.asp?rcat=Television_Accessories&menu_id=8#imhere|_self;"+
+              "Handhelds|http://www.incredible.co.za/services/catalog/features.asp?rcat=Handhelds&menu_id=8#imhere|_self"
+
+
+
+menublock[9]="> Cell. and Telecom|#|;"+
+              "Cellular Contracts|http://www.incredible.co.za/services/catalog/features.asp?rcat=Cellular_Contracts&menu_id=9#imhere|_self;"+
+              "Cellular Handsets|http://www.incredible.co.za/services/catalog/features.asp?rcat=Cellular_Handsets&menu_id=9#imhere|_self;"+
+              "Faxes|http://www.incredible.co.za/services/catalog/features.asp?rcat=Faxes&menu_id=9#imhere|_self;"+
+              "Telephones|http://www.incredible.co.za/services/catalog/features.asp?rcat=Telephones&menu_id=9#imhere|_self"
+
+
+
+
+
+menublock[10]="> Office Furniture|#|;"+
+              "Chairs|http://www.incredible.co.za/services/catalog/features.asp?rcat=Chairs&menu_id=10#imhere|_self;"+
+              "Computer Stands|http://www.incredible.co.za/services/catalog/features.asp?rcat=Computer_Stands&menu_id=10#imhere|_self;"+
+              "Desks|http://www.incredible.co.za/services/catalog/features.asp?rcat=Desks&menu_id=10#imhere|_self;"+
+              "Trolleys|http://www.incredible.co.za/services/catalog/features.asp?rcat=Trolleys&menu_id=10#imhere|_self"
+
+
+
+
+
+var menusplit
+var urlsplit
+var font_weight_main
+var font_weight_sub
+var font_weight_sub
+var cur_open_menu
+cur_open_menu = -1
+var s_cur_menu
+s_cur_menu = -1
+			 
+var showsubmenus=new Array()
+for (i=0;i<=menublock.length-1;i++) {
+	showsubmenus[i]=-1
+}
+
+function openandclose(visi) {
+	showsubmenus[visi]=(-1)*showsubmenus[visi]
+	if (showsubmenus[visi] > 0)
+	  s_cur_menu = 1
+	else
+	  s_cur_menu = -1
+
+    var menucontent=""
+    menucontent+="<table border=0 bgcolor=#08BD39 cellpadding=0 cellspacing=0>"
+
+	
+
+	for (i=0;i<=menublock.length-1;i++) {
+		menusplit=menublock[i].split(";")
+		urlsplit=menusplit[0].split("|")
+		menucontent+="<tr>"
+        
+        if (menusplit[1].length!=0) {
+            var thismainmenu=i+plus_i
+            menucontent+="<td>"
+            menucontent+="<a  href='javascript:menuclicked("+i+")' ><font class=bold_blue>"
+            menucontent+=urlsplit[0]
+            menucontent+="</font></a></td></tr>"
+   
+		    if (showsubmenus[i]==1) {
+			    for (ii=1;ii<=menusplit.length-1;ii++) {
+				    urlsplit=menusplit[ii].split("|")
+                    menucontent+="<tr><td>"
+                    menucontent+="&nbsp;&nbsp;<a href="+urlsplit[1]+"><font color=white>"
+                    menucontent+=urlsplit[0]
+                    menucontent+="</font></a></td></tr>"
+			    }
+		    }
+		    menucontent+="<tr><td><IMG SRC=http://www.incredible.co.za/images/common/pixel_fffffG.gif WIDTH=138 HEIGHT=9 BORDER=0></td></tr>"
+        }    
+	}
+    menucontent+="</table>"
+	if (document.all) {
+		menu.innerHTML=menucontent
+	}
+	if (document.layers) {
+		document.menu.document.write(menucontent)
+		document.menu.document.close()
+	}
+}
+
+function menuclicked(visi)
+{
+	if ((cur_open_menu != visi) && (s_cur_menu == 1))
+	{	
+		openandclose(cur_open_menu);
+	}
+	cur_open_menu = visi;
+	openandclose(visi);
+}
+</script></head>
+
+
+
+
+
+
+
+
+
+
+
+
+		   <body onload="me()" bgcolor="#FFFFFF" onunload="closeChild()" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><layer id="menu" position="absolute" left="3" top="372" z-index="1" ;=""></layer>
+	
+
+<script>
+ function me() {
+   self.focus()
+   menuclicked()
+   }
+</script>
+
+
+
+<style><!-- body  { SCROLLBAR-FACE-COLOR: #08BD39;  scrollbar-arrow-color : #fffffff; scrollbar-base-color:#08A531; SCROLLBAR-TRACK-COLOR: #3A1580; SCROLLBAR-DARKSHADOW-COLOR: #000000;} --></style>
+
+
+
+
+<layer id="addedtobasket" position="absolute" left="300" top="200" width="200px" height="100" z-index="4" ;="" visibility="hide" bgcolor="white">
+<form name="f1" action="hello.asp" method="post">
+
+<!--around-->
+<table cellspacing="0" width="210" cellpadding="1" border="0"> 
+ <tbody>
+ <tr>
+ <td bgcolor="#08A531">
+                    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tbody>
+                      <tr><td valign="top" align="left" bgcolor="#08A531">
+					  <b><font class="bold_white">&nbsp;Item Added </font></b>
+					  </td><td align="right">
+  					  <a href="#" onclick="hidePopup(); return false"><img src="http://www.incredible.co.za/images/common/x.gif" border="0" hspace="4" alt="Close"> </a>
+                      </td></tr>
+                      <tr>
+                      <td valign="top" bgcolor="#F7F7F7" colspan="3">
+					  
+<!--begin-->					  
+
+
+<table cellpadding="0" border="0" width="230" bgcolor="#F7F7F7">
+<tbody><tr><td colspan="2" height="5"></td></tr>
+<tr><td colspan="2"><b> Your item has been added to cart. </b><hr></td></tr>
+<tr><td align="center" colspan="2">
+<a href="http://www.incredible.co.za/services/basket/basket.asp"><img src="http://www.incredible.co.za/images/common/viewcart.gif" border="0"></a>
+<a href="http://www.incredible.co.za/services/basket/viewbookmarks.asp"><img src="http://www.incredible.co.za/images/common/viewbookmarks.gif" border="0"></a>
+</td></tr>
+<tr><td align="center">
+<input type="checkbox" class="input" id="checkbox1" name="checkbox1" onclick="MysetCookie(this);">
+disable this alert 
+</td><td align="center">
+<a href="#" onclick="hidePopup(); return false"><img src="http://www.incredible.co.za/images/common/ok.gif" id="image2" name="image2" border="0"></a>
+</td></tr>
+</tbody></table>
+    
+
+
+</td></tr></tbody></table>
+
+<!--end-->
+
+					  </td>
+					  </tr>
+					  </tbody>
+					  </table>
+  
+ 
+ 
+<!--around-end-->
+
+
+
+
+<script language="JavaScript">
+<!--
+	added = 0
+	if (added == 1)	{
+	setCookie('popup_is_set','')
+	if (document.all) {
+		addedtobasket.style.visibility='visible';
+	}
+	else {
+		// NS code here
+		document.layers.addedtobasket.visibility='show';
+	}
+}
+
+
+function MysetCookie(ocheckBox) {
+	var Yes = 'yes';
+	var No = 'no';
+	//if (document.f1.checkbox1.status == true) {
+	//alert(ocheckBox.status);
+	if (ocheckBox.status == true) {
+		setCookie('dontshowaddpopup',No)
+	}
+	else
+	{
+		setCookie('dontshowaddpopup',Yes)
+	}
+}
+
+
+function setCookie(name, value, expires, path, domain, secure) {
+	//alert("Setting cookie")
+  var curCookie = name + "=" + escape(value) +
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") +
+      ((secure) ? "; secure" : "");
+  document.cookie = curCookie;
+}
+
+function hidePopup() {
+	if (document.all) {
+		document.all.addedtobasket.style.visibility='hidden';
+	}
+	else if (document.layers) {
+		document.layers.addedtobasket.visibility='hide';
+	}
+}
+
+//-->
+</script>
+		<div id="Wizard" style="position:absolute; left:487px; top:228px; width:137px; height:154px; z-index:2; visibility: hidden"> 
+	
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0">
+<tbody><tr>
+   <td valign="center"> <a href="javascript:MM_showHideLayers('Wizard','','hide')"><img src="http://www.incredible.co.za/images/common/wizard_on.gif" border="0" alt="Use the Shopping Wizard to add multiple items to your basket at once.The Shopping Wizard can also be used to bookmark products for later viewing."></a>
+
+   </td>
+</tr> 
+
+<tr><td colspan="3" bgcolor="#EFEBEF">
+		
+		
+
+
+    
+      </td>
+    </tr>
+   </tbody></table>
+
+</div>
+	
+	
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" align="left" width="772">
+<tbody><tr><td colspan="3">
+ <table border="0" cellspacing="0" cellpadding="0" width="780">
+		<tbody><tr> 
+          <td width="144" align="center"><a href="http://www.incredible.co.za"><img src="http://www.incredible.co.za/images/left/logo.gif" alt=" Back to Incredible Connection : Home" border="0"></a></td>
+<td align="center">
+<img src="http://www.incredible.co.za/images/banners/XmasBanner.jpg">
+</td>
+
+<td align="right">
+<a href="http://www.incredible.co.za/services/help/help.asp#payment_methods"><img src="http://www.incredible.co.za/images/right/New-Payment-Animation.gif" border="0"></a>
+</td>
+</tr></tbody></table>
+   <table border="0" cellspacing="0" cellpadding="0" width="780">
+
+		
+		<tbody><tr> 
+          <td width="259" align="center" bgcolor="#EAE8E8">
+		     <a href="http://www.incredible.co.za"><font class="bold_blue">Web Shopping</font></a>
+		  </td>
+		  <td><img src="http://www.incredible.co.za/images/common/sup.gif"></td>
+          <td width="259" align="center" bgcolor="#EAE8E8">
+		     <a href="http://www.incredible.co.za/services/connections/connections.asp"><font class="bold_blue">Connections</font></a>
+		  </td>
+  		  <td><img src="http://www.incredible.co.za/images/common/sup.gif"></td>
+          <td width="259" align="center" bgcolor="#420094">
+		     <a href="http://www.incredible.co.za/services/help/help.asp"><font class="bold_white">Information</font></a>
+		  </td>
+         </tr>
+
+		<tr> 
+            
+                <td colspan="5" align="right" bgcolor="#420094">
+				 <a href="http://www.incredible.co.za/terms_and_conditions.asp"><font class="white_light">Terms and Conditions</font></a><font class="white_light"> |</font>
+ 				 <a href="http://www.incredible.co.za/about_us.asp"><font class="white_light">About us</font></a><font class="white_light"> |</font>
+ 			     <a href="http://www.incredible.co.za/services/help/how_to_shop.asp"><font class="white_light">How to Shop</font></a><font class="white_light"> | </font>
+				 <a href="http://www.incredible.co.za/services/store_locator/store_locator.asp"><font class="white_light">Store Locator</font></a><font class="white_light"> | </font>
+				 <a href="javascript:open_window('http://www.incredible.co.za/services/glossary/glossary.asp')"><font class="white_light">Glossary</font></a><font class="white_light"> | </font>
+ 			     <a href="http://www.incredible.co.za/services/faq"><font class="white_light">FAQ</font></a><font class="white_light"> | </font>
+   			     <a href="http://www.incredible.co.za/feedback.asp"><font class="white_light">Contact Us</font></a><font class="white_light"> | </font>
+ 				 <a href="http://www.incredible.co.za/services/help/help.asp"><font class="white_light">Help </font></a><font class="white_light">  </font> &nbsp;
+			 
+		  </td>
+         </tr> 
+</tbody></table>
+
+<table border="0" cellspacing="3" cellpadding="0" width="780">
+  <tbody><tr>
+    <td width="144" align="center">
+    <img src="http://www.incredible.co.za/images/common/incredible_mail.gif" border="0">
+  </td>
+
+   <td width="490" valign="top">
+
+     <font class="font75">
+	 Welcome <b></b> to the wired world of Incredible Connection.
+     </font>
+
+	 <br><img src="http://www.incredible.co.za/images/common/pixel_ffffff.gif" height="10" width="100%"><br>
+ 	  <font class="font75">To copy an image of the screen onto the clipboard in windows you can press the PRINT SCREEN button. This only works for non-Windows applications only if they are running in text mode. </font>
+     
+  </td>
+
+
+  <td align="center">
+ <img src="http://www.incredible.co.za/images/common/incredible_call_centre.gif">
+  </td>
+
+
+</tr></tbody></table>
+ </td></tr>
+
+
+
+ <tr><td bgcolor="#08BD39" valign="top" colspan="3">
+<img src="http://www.incredible.co.za/images/common/Xmas_boxes.gif"></td></tr>
+<tr>
+<td bgcolor="#08BD39" valign="top">
+ <!------------------------------- Left Table ----------------------------------->
+		<br><table border="0" cellspacing="2" cellpadding="0" width="138">
+		<tbody><tr>
+	<td bgcolor="#08A531"><img src="http://www.incredible.co.za/images/common/star.gif" align="absmiddle" hspace="3"><font class="bold_white">Keyword Search</font><br>
+	  <img src="http://www.incredible.co.za/images/common/pixel_ffffff.gif" width="140" height="1" border="0" alt=""><br>
+	</td>
+</tr>
+<tr> 
+	<td align="center">
+	<form method="get" action="http://www.incredible.co.za/services/incredible_search/search.asp" id="formsearch" name="formsearch">
+	<input type="hidden" name="etype" value="none">
+	<input type="hidden" name="formtype" value="jou">
+		<table cellpadding="0" cellspacing="4" border="0">
+			<tbody><tr>
+				<td align="right">
+<input type="text" name="keyword" value="" size="8" class="inputbox1"></td>
+<td><input type="submit" name="search" value="GO" class="form_button"></td>
+			</tr>
+		</tbody></table>
+	</form></td>
+  
+
+</tr>
+<tr><td>
+   <a href="http://www.incredible.co.za/services/incredible_search"><font class="bold_blue">&gt; Advance Search</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+ </td>
+</tr>
+<tr><td>
+   <a href="http://www.incredible.co.za/tabloids/"><font class="bold_blue">&gt; Incredible Deals</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+</td></tr>
+<tr><td height="10"></td><td></td></tr>
+<tr>
+	<td bgcolor="#08A531"><img src="http://www.incredible.co.za/images/common/star.gif" align="absmiddle" hspace="3"><font class="bold_white">Catalogue</font><br>
+	  <img src="http://www.incredible.co.za/images/common/pixel_ffffff.gif" width="140" height="1" border="0" alt=""><br>
+	</td>
+</tr>
+<tr><td>
+<!--menu in pos here-->
+
+
+
+
+
+
+
+
+ </td></tr>
+
+<script language="JavaScript">
+  function open_window(url) {
+    // welcome
+	mywin = window.open(url,"ic_popup",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,zlock=1,width=485,height=425,left=30,top=30');
+							}
+
+  function open_window2(url) {
+   // competition
+    mywin = window.open(url,"ic_popup_1",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,zlock=1,width=482,height=425,left=120,top=60');
+							}
+							
+  function open_window3(url) {
+   	mywin = window.open(url,"ic_popup_3",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,zlock=1,width=270,height=300,left=350,top=200');
+							}
+</script>
+   	   </tbody></table>
+    </td>
+    <td align="center" valign="top">
+     <!------------------------------- Main and Sub Navbar Table ----------------------------------->
+	  <table border="0" cellspacing="0" cellpadding="0" bgcolor="white" width="488">
+		<tbody><tr><td bgcolor="#08BD39" height="5">&nbsp;</td></tr>
+        <tr> 
+          <td align="center" valign="top">
+              
+
+<!---------------content begin---------------->
+
+<table cellpadding="8" cellspacing="0" border="0">
+<tbody><tr><td><font class="Title">Privacy Statement</font><hr></td></tr>
+<tr><td>
+
+<table bordercolor="#EBEBEB" border="" cellpadding="10" cellspacing="0"><tbody><tr><td>
+<b>
+Incredible Connection ("we" or "us) have adopted the following privacy policy which applies to all personal information ("information") collected by us from visitors ("you" or "your") to the website ("the site")
+</b>
+</td></tr>
+</tbody></table>
+<p>
+<font class="bold_black">When and how we collect information</font> - Information is collected by specifically requesting it from you, generally this occurs when you register on the site or buy a product online. 
+</p><p>
+
+
+<font class="bold_black">Why we collect information </font>- We collect information to
+ensure that you receive a more customized service, which will add value to
+your online experience. By doing this we are better equipped to meet your
+needs by targeting the best and most appropriate products at you. 
+
+
+</p><p>
+<font class="bold_black">Use of information collected on the site</font> - We want to
+help you maintain your privacy on the Internet.  We will treat 
+your information in total confidence and will
+only share your information with our affiliates, investors, 
+alliance partners and agents and <b>will not sell, share or
+rent this information to any other third-parties</b>.  
+The information which we collect from you may be used for a variety of 
+reasons, such as establishing the general demographics, statistics or
+market information or to compile a broad profile of visitors
+who access and transact via the site. <b>Please note that all information is aggregated, therefore no identifiable individual or company information is shared with other parties</b>.  
+
+</p><p>
+<font class="bold_black">E-Mails of promotions </font>- We may also use the information we collect to be able to better meet your needs by sending you information on new services or products which may be of interest to you. From time to time we will mail you information about us or our partners, if you do not wish to receive this e-mail or mail you can opt out by contacting us or e-mailing us with a request to be removed from our mailing list.
+
+</p><p>
+
+
+<font class="bold_black">Cookie Technology</font> - We use cookie technology. Cookie technology consists of tiny pieces of data or a small text file that is stored on the your computer's hard drive and which contains information about you, so that next time you visit the site the Cookie reminds us of who you are, enabling us to achieve our goal of providing a valuable online experience to you. You can, however, set up your Internet browser to disable this cookie technology.
+
+
+</p><p>
+
+<font class="bold_black">When we will disclose information </font>- We may disclose information if required to do so by law or if it is required to protect the safety of our customers or the public, or if we believe that such action is necessary to protect and defend our rights or property, the site or our customers.
+</p><p>
+
+
+<font class="bold_black">Storage of information</font> - Information collected by us via the site is stored in a secure operating environment ,that is not available to the public. In many instances, such as in the case of credit card numbers, the information is encrypted before you conduct your transaction.
+
+</p><p>
+<font class="bold_black">Hyperlinks to Third-Party websites</font> - This web-site may contain links to other sites. We are not responsible for the privacy policies adopted by the proprietors of these other sites.  
+</p><p>
+
+<font class="bold_black">Right to amend this policy </font>- We reserve the right to amend this privacy policy at any time. All amendments to this privacy policy will be posted on the site ("the current version"). Unless otherwise stated the current version shall supersede and replace all the previous versions of the privacy policy. A print-out signed by the webmaster responsible for maintaining this site will serve as prima facie proof as to the date of publication and content of the current version.
+
+
+
+</p></td></tr>
+
+<tr><td>
+
+
+ </td></tr>
+ </tbody></table>
+ <br>
+
+
+
+
+
+
+<!---------------content end---------------->
+
+	   </td>
+ 	    </tr>
+      </tbody></table>
+   </td>
+    <td bgcolor="#08BD39" valign="top">
+     	<!------------------------------- Right Panel Table ----------------------------------->
+		<br><table border="0" cellspacing="2" cellpadding="0" width="138">
+			    
+
+		<tbody><tr>
+				<td bgcolor="#08A531"><img src="http://www.incredible.co.za/images/common/star.gif" align="absmiddle" hspace="3"><font class="bold_white">My Account</font><br>
+			  <img src="http://www.incredible.co.za/images/common/pixel_ffffff.gif" width="140" height="1" border="0" alt=""><br>
+		</td>
+	   </tr>  
+		<tr><td>
+	   <a href="https://www.incredible.co.za/login/login.asp"><font class="bold_blue">&gt; Login</font></a><br>
+	   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+	 </td>
+	</tr>
+	<tr><td>
+	   <a href="https://www.incredible.co.za/login/register.asp"><font class="bold_blue">&gt; Register</font></a><br>
+	   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+	 </td>
+	</tr>
+
+<tr><td height="10"></td><td></td></tr>
+<tr>
+	<td bgcolor="#08A531"><img src="http://www.incredible.co.za/images/common/star.gif" align="absmiddle" hspace="3"><font class="bold_white">Services</font><br>
+	  <img src="http://www.incredible.co.za/images/common/pixel_ffffff.gif" width="140" height="1" border="0" alt=""><br>
+	</td>
+</tr>
+<tr><td>
+   <a href="http://www.incredible.co.za/request_a_product.asp"><font class="bold_blue">&gt; Request a Product</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="140" height="9" border="0" alt=""><br>
+   <a href="http://www.incredible.co.za/services/buyers_guides"><font class="bold_blue">&gt; Buyers Guide</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="140" height="9" border="0" alt=""><br>
+   <a href="javascript:open_window('http://www.incredible.co.za/services/glossary/glossary.asp')"><font class="bold_blue">&gt; Glossary</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="140" height="9" border="0" alt=""><br>
+ 
+   
+          
+   
+	   <a href="http://www.incredible.co.za/services/competition"><font class="bold_blue">&gt; Competitions</font></a><br>
+	   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="140" height="9" border="0" alt=""><br>
+   
+
+ </td></tr>
+<script>
+function CJOU(Msg)
+					{ 
+						//var reEmail = /^.+\@.+\..+$/;
+						var reEmail = /^[a-z|A-Z|0-9|\.|_|-]+\@[a-z|A-Z|0-9|\.|_|-]+\.[a-z|A-Z|0-9|\.|_|-]+$/
+               		    var reInteger = /^\d+$/;
+						
+                        thef = eval('document.sm.email_cellphone');
+                        the_type = eval('document.sm.etype');
+                      
+                        whatsit = "none";
+						
+						if(reEmail.test(thef.value)) {
+						whatsit = "email"
+                        the_type.value = whatsit;
+						}
+						
+						if(reInteger.test(thef.value)) {
+						whatsit = "cell"
+                        the_type.value = whatsit;
+						}
+						
+						if (whatsit == "none")
+   					    { alert(Msg);
+					      thef.focus();
+                        }
+						else
+						{
+						document.sm.submit();
+						}
+     				} 
+</script> 
+
+<tr><td height="10"></td><td></td></tr>
+<tr>
+	<td>
+	 <font class="bold_white">Join our Mailing List</font><br>
+	</td>
+</tr>
+<tr> 
+  <form action="http://www.incredible.co.za/email_gateway.asp" name="sm" method="get"></form>
+	<td align="left">
+	<input type="hidden" name="etype" value="none">
+	<input type="hidden" name="formtype" value="jou">
+	
+				<table cellpadding="0" cellspacing="4" border="0">
+  			     <tbody><tr>
+				<td align="right">
+				<input class="inputbox1" type="text" name="email_cellphone" onclick="javascript:if (email_cellphone.value==' > Enter e-mail') {email_cellphone.value=''};" value=" > Enter e-mail" size="8">
+				</td><td>
+     			<input type="button" onclick="javascript:CJOU('Not valid email address/cellphone number - no spaces')" name="search" value="GO" class="form_button">
+				</td></tr>
+				</tbody></table>
+	</td>
+  
+
+</tr>
+<tr><td height="10"></td><td></td></tr>
+<tr>
+	<td bgcolor="#08A531"><img src="http://www.incredible.co.za/images/common/star.gif" align="absmiddle" hspace="3"><font class="bold_white">Speciality Stores</font><br>
+	  <img src="http://www.incredible.co.za/images/common/pixel_ffffff.gif" width="138" height="1" border="0" alt=""><br>
+	</td>
+</tr>
+<tr><td>
+   <a href="http://www.incredible.co.za/ebucks/store"><font class="bold_blue">&gt; eBucks.com</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+   <a href="http://www.incredible.co.za/dvd/default.asp"><font class="bold_blue">&gt; Incredible DVD's</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+ </td></tr>
+	
+<tr><td height="10"></td><td></td></tr>
+<tr>
+	<td bgcolor="#08A531"><img src="http://www.incredible.co.za/images/common/star.gif" align="absmiddle" hspace="3"><font class="bold_white">Branded Stores</font><br>
+	  <img src="http://www.incredible.co.za/images/common/pixel_ffffff.gif" width="138" height="1" border="0" alt=""><br>
+	</td>
+</tr>
+<tr><td>
+   <a href="http://www.incredible.co.za/adobe"><font class="bold_blue">&gt; Adobe</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+   <a href="http://www.incredible.co.za/compaq"><font class="bold_blue">&gt; Compaq</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+   <a href="http://www.incredible.co.za/hp"><font class="bold_blue">&gt; Hewlett Packard</font></a><br>
+   <img src="http://www.incredible.co.za/images/common/pixel_fffffG.gif" width="138" height="9" border="0" alt=""><br>
+		
+ </td></tr>
+		</tbody></table>
+     </td>
+  </tr>
+
+
+<tr><td bgcolor="#08BD39">&nbsp;</td>
+<td valign="bottom">
+<p align="right"><a href="#top"><img src="http://www.incredible.co.za/images/common/uparrow.gif" border="0"> Top</a>&nbsp;&nbsp;    
+</p><hr width="98%"><font class="font75">
+&nbsp;&nbsp;&nbsp;&nbsp;<b> Copyright 2001 Incredible Connection</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.incredible.co.za/terms_and_conditions.asp">Terms and Conditions</a> | <a href="http://www.incredible.co.za/privacy_statement.asp ">Privacy</a></font><br>
+</td><td bgcolor="#08BD39" align="center">
+
+
+<a href="https://digitalid.verisign.com/as2/2d6b064368cb49185fde277cd4974521" target="new">
+<img src="http://www.incredible.co.za/images/common/verisign.gif" border="0">
+</a>
+
+
+</td>
+</tr>
+<tr><td bgcolor="#08BD39">&nbsp;</td><td><img src="http://www.incredible.co.za/images/common/Xmas_Ribbon.gif"></td><td bgcolor="#08BD39">&nbsp;</td></tr>
+
+<tr><td bgcolor="#08BD39" height="65" colspan="3">&nbsp;</td></tr>
+</tbody></table>
+
+
+
+
+
+
+
+</form></layer></body></html>
