@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207140412id_/http%3A//www.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192516id_/http%3A//www.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.*
 
-# Alibris - Used, New and Hard-to-find Books, Music and Movies
+# Alibris: Privacy Policy
 
-**Your Privacy Matters to Us  
+**Your privacy matters to us  
 **Welcome to Alibris. Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our Web site or purchasing products or services from us, you agree to be bound by this policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it. Please check back periodically!
 
 **What information we collect and how we use it**  
@@ -41,6 +41,4 @@ Suite 100
 Emeryville, CA 94608  
 510-594-4500
 
-|  | 
-
-[](http://www.truste.org/)
+| 
