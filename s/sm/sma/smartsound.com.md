@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartsound.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204044345id_/http%3A//www.smartsound.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsound.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151015id_/http%3A//www.smartsound.com/company/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# SmartSound - Privacy Statement
 
 This privacy statement discloses the privacy practices for www.smartsound.com and www.sonicdesktop.com. 
 
@@ -48,7 +48,7 @@ We send periodic email updates to our customers to let them know about new softw
 
 Correction/Updating Personal Information
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can be done by calling our sales department at 800-454-1900 or emailing our Customer Service department at [sales@smartsound.com.](https://web.archive.org/web/20041204044345id_/http%3A//www.smartsound.com/company/contact.html)
+If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can be done by calling our sales department at 800-454-1900 or emailing our Customer Service department at [sales@smartsound.com.](https://web.archive.org/web/20050403151015id_/http%3A//www.smartsound.com/company/contact.html)
 
 Notification of Changes
 
