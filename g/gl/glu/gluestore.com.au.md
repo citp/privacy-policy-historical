@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611210730id_/http%3A//www.eglue.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205012615id_/http%3A//www.eglue.com.au/privacy_policy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
