@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2001-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010628180118id_/http%3A//www.macworld.com/marketing/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214104554id_/http%3A//www.macworld.com/marketing/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy Macworld Marketing Site
+# Privacy Policy
 
+|  | Privacy Policy  
+|   
+---|---|---  
+  
 **Principles**  
 
 
