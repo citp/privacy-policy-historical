@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202013741id_/http%3A//www.rolanddga.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606130040id_/http%3A//rolanddga.com/privacy.asp) for the most accurate reproduction.*
 
 # Roland DGA Corporation - Privacy Statement
 
-## Privacy Statement 
-
   
-Roland DGA Corporation recognizes the importance of protecting the privacy of all information provided by users of www.rolanddga.com. We created the following policy guidelines with a fundamental respect for our users´ right to privacy and because we value our relationships with our users.
+Roland DGA Corporation recognizes the importance of protecting the privacy of all information provided by users of www.rolanddga.com. We created the following policy guidelines with a fundamental respect for our users´ right to privacy and because we value our relationships with our users. 
 
   
 Roland DGA Corporation collects information about users during their registration for certain sections of our Website. When users request pages from our Web server, the server automatically attempts to identify the user’s domain name, but not the e-mail address. We also track certain information, in the aggregate, on pages and features that users access or view.
