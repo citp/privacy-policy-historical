@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the ucables.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605115846id_/http%3A//ucables.com/orders/policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucables.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072029id_/http%3A//ucables.com/orders/policy.phtml) for the most accurate reproduction.*
 
 # Orders > Privacy Policy
 
-At ucables.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience. Please read on for more detail about our privacy policy. 
+| 
+
+At ucables.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience.   
+Our secure servers protect this information using encryption. Your personal information can't be read as it travels to our ordering system. Your information will not be shared or distributed or ever compromised for any reason. Security is at the very core of our business, and we take it very seriously.   
+When you conduct a transaction on the our web site, we encrypt all of your private information. That information is stored on a secure server housed in a secure data center. All transactions are conducted through our secure servers. Our business depends on your trust. We aim to earn your trust by collecting only the minimum amount of information that we need to protect Direct International users (and ourselves) against fraud and by keeping your personal information confidential. Please read on for more detail about our privacy policy.   
+
 
 **What information do we collect? How do we use it?**
 
