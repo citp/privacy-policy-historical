@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606213926id_/http%3A//bandwidthplace.com/about/index.html%3Ftask%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205110557id_/http%3A//bandwidthplace.com/about/index.html%3Ftask%3Dprivacy) for the most accurate reproduction.*
 
 # Bandwidth Place >> About Us
 
