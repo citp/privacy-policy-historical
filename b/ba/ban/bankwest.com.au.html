@@ -1,87 +1,79 @@
-<!--The following is the downloaded HTML source of the bankwest.com.au privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603174526id_/http%3A//www.bankwest.com.au/legal/p_and_s_0201.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankwest.com.au privacy policy that was archived on 2001-08-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010803160717id_/http%3A//www.bankwest.com.au/legal/p_and_s_0201.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="bankwest, bank, finance, markets, rates, australia, perth, business, home, loan, bankwise, trustwest, bpay, internet, online, on-line, e commerce, e-commerce, e business, ecommmerce, employment">
 <title>BankWest - Bank of Western Australia Ltd. ABN 22 050 494 454</title>
 <link rel="stylesheet" type="text/css" href="/$css/bankwest_default.css">
-
-<script language="JavaScript" type="text/javascript">
+<meta name="" description="BankWest, We Hear You">
+<script language="JavaScript" src="/$scripts/dhtmllib.js"></script>
+<script language="JavaScript1.2" type="text/javascript">
 <!--
-
-
-
-// ====================
-// Bust out of Frames
-// ====================
-
-	function changePage(){
-	  	if (self.parent.frames.length != 0){
-			  self.parent.location=document.location;
-      }
-		}
-
-  setTimeout ("changePage()", 0);
-
-
-
-// ====================================
-// retrieve current Windows resolution
-// ====================================
+  // ====================================
+  // retrieve current Windows resolution
+  // ====================================
+  	var intWinPosX;
+  	var intWinPosY;
+  	var intWinPosXOffSet = 0;
+  	var intWinPosYOffSet = 90;
   	var intWinWidth;
   	var intWinHeight;
-  	var OPTIMISED_WIN_WIDTH = 800;   // constant. Please do not change
-  	var OPTIMISED_WIN_HEIGHT = 600;  // constant.
+  	var intMaxWindowWidth = 800;   // constant. Please do not change
+  	var intMaxWindowHeight = 600;  // constant. Please do not change
+    var intMaxWindowCoverage = 95;  // % Coverage.
+		var intScreenWidth = getScreenWidth();
+		var intScreenHeight = getScreenHeight();
 
-  	function getScreenWidth(){
-      if (window.screen)
-	       return (screen.width);
-	    else
-	       return OPTIMISED_WIN_WIDTH;
-    	}
-	
-	  function getScreenHeight(){
-	    if (window.screen)
-	       return (screen.height);
-	    else
-	       return OPTIMISED_WIN_HEIGHT;
-    	}
-      
-// Setup Online Services
-    strOnlineService = "BOB";
-		var ScreenWidth = 800;
-		var ScreenHeight = 600;
+  // Setup Online Services Default
+    var strOnlineService = "BOB";
+    var strOnlineAction = "LOGON";
     
-// open BOB window slightly smaller than current screen resolution.
-    intWinWidth = (ScreenWidth - ((ScreenWidth*5)/100));
-    intWinHeight = (ScreenHeight - ((ScreenHeight*5)/100)) - 90;
+  // Open Online Services window slightly smaller than
+  // current screen resolution to a maximum of 800 x 600 pixels.
+    if (intScreenWidth > intMaxWindowWidth){
+      intWinWidth = intMaxWindowWidth;
+    	intWinPosX = ((intScreenWidth - intWinWidth)/2) - intWinPosXOffSet;
+      }else{
+      intWinWidth = (intScreenWidth*(intMaxWindowCoverage/100));
+    	intWinPosX = ((intScreenWidth - intWinWidth)/2) - intWinPosXOffSet;
+    }
+    if (intScreenHeight > intMaxWindowHeight){
+      intWinHeight = intMaxWindowHeight;
+   	  intWinPosY = ((intScreenHeight - intWinHeight)/2) - 50;
+      }else{
+      intWinHeight = (intScreenHeight*(intMaxWindowCoverage/100)) - intWinPosYOffSet;
+   	  intWinPosY = 0;
+    }
 
-// open window in the centre of the screen making allowance for the taskbar
-     	intWinLeft = ((getScreenWidth() - intWinWidth)/2) - 5;
-   	  intWinTop =  ((getScreenHeight() - intWinHeight)/2) - 60;
-      
-// ====================================================
-// Change the Online Service Type to either BOB or BWOS
-// ====================================================
+  // ================================================================
+  // Change the Online Service Type to either BOB, BBS, BWOS or PlanB
+  // ================================================================
 	
-  function ChangeOnlineServiceType(OnlineService){strOnlineService = OnlineService;}
+  function ChangeOnlineServiceType(OnlineService){
+    strOnlineService = OnlineService;
+  }
 
-// ====================================================
-// Change the Online Service Type to either BOB or BWOS
-// ====================================================
+  // ========================================================================
+  // Change the Online Services Action Type to either BOB, BBS, BWOS or PlanB
+  // ========================================================================
 
   function ChangeOnlineActionType(OnlineAction){
-    message = "BANKWEST ONLINE BANKING\n==========================\n\nIMPORTANT NOTICE\n-----------------------------------\n\nDue to the holiday period, if you send a message from within BankWest Online Banking, it will be answered on Wednesday, 28 December 2000.\nIf your query is urgent, please contact the BankWest HelpLine on 13 17 18.\n\nHave a safe and happy holiday."
     strOnlineAction = OnlineAction;
-      if ((strOnlineAction == "LOGON" ) && (strOnlineService == "BOB")){
-        
-          BOB = window.open('https://bob.bankwest.com.au/BWAMain.htm','BOB','Left=' + intWinLeft + ',Top=' + intWinTop + ',width=' + intWinWidth + ',' + 'height=' + intWinHeight + ',toolbar=0,resizable=1,status=1,scrollbars=1,locationbar=0,directories=0,menubar=1,history=0');
-          
-    }
-    if ((strOnlineAction == "MORE" ) && (strOnlineService == "BOB")){document.location.href = '/online/';}
-    if ((strOnlineAction == "LOGON" ) && (strOnlineService == "BWOS")){window.open('https://www.bwos.com.au/sslshy/cgi-bin/boi.direct_login','BWOS','Left=' + intWinLeft + ',Top=' + intWinTop + ',width=' + intWinWidth + ',' + 'height=' + (intWinHeight - 60) + ',toolbar=1,resizable=1,status=1,scrollbars=1,locationbar=1,directories=1,menubar=1,history=0');}
-    if ((strOnlineAction == "MORE" ) && (strOnlineService == "BWOS")){window.open('http://www.bwos.com.au','BWOS','Left=' + intWinLeft + ',Top=' + intWinTop + ',width=' + intWinWidth + ',' + 'height=' + (intWinHeight - 60) + ',toolbar=1,resizable=1,status=1,scrollbars=1,locationbar=1,directories=1,menubar=1,history=0');}
+    if ((strOnlineAction == "LOGON") && (strOnlineService == "BOB")){BOB = window.open('/online/online_bob_messages.asp','BOB','Left=' + intWinPosX + ',Top=' + intWinPosY + ',width=' + intWinWidth + ',' + 'height=' + intWinHeight + ',toolbar=0,resizable=1,status=1,scrollbars=1,locationbar=0,directories=0,menubar=1,history=0');}
+    if ((strOnlineAction == "MORE") && (strOnlineService == "BOB")){document.location.href = '/online/';}
+    
+    if ((strOnlineAction == "LOGON") && (strOnlineService == "BBS")){BBS = window.open('/online/online_bbs_messages.asp','BOB','Left=' + intWinPosX + ',Top=' + intWinPosY + ',width=' + intWinWidth + ',' + 'height=' + intWinHeight + ',toolbar=0,resizable=1,status=1,scrollbars=1,locationbar=0,directories=0,menubar=1,history=0');}
+    if ((strOnlineAction == "MORE") && (strOnlineService == "BBS")){document.location.href = '/online/';}
+
+    if ((strOnlineAction == "LOGON") && (strOnlineService == "BWOS")){BWOS = window.open('https://www.bwos.com.au/sslshy/cgi-bin/boi.direct_login','BWOS','Left=' + intWinPosX + ',Top=' + intWinPosY + ',width=' + intWinWidth + ',' + 'height=' + (intWinHeight + 90) + ',toolbar=1,resizable=1,status=1,scrollbars=1,location=1,directories=1,menubar=1,history=0');}
+    if ((strOnlineAction == "MORE") && (strOnlineService == "BWOS")){BWOS = window.open('http://www.bwos.com.au','BWOS','Left=' + intWinPosX + ',Top=' + intWinPosY + ',width=' + intWinWidth + ',' + 'height=' + (intWinHeight + 90) + ',toolbar=1,resizable=1,status=1,scrollbars=1,location=1,directories=1,menubar=1,history=0');}
+
+    if ((strOnlineAction == "LOGON") && (strOnlineService == "COVER")){COVER = window.open('https://bankwest.royalsun.com.au/dira/bankwest/bankwestpublishing.nsf/Content/YourCurrentInsurance_main','COVER','Left=' + intWinPosX + ',Top=' + intWinPosY + ',width=' + intWinWidth + ',' + 'height=' + (intWinHeight + 90) + ',toolbar=1,resizable=1,status=1,scrollbars=1,location=1,directories=1,menubar=1,history=0');}
+    if ((strOnlineAction == "MORE") && (strOnlineService == "COVER")){COVER = window.open('http://bankwest.royalsun.com.au/','COVER','Left=' + intWinPosX + ',Top=' + intWinPosY + ',width=' + intWinWidth + ',' + 'height=' + (intWinHeight + 90) + ',toolbar=1,resizable=1,status=1,scrollbars=1,location=1,directories=1,menubar=1,history=0');}
+
+    if ((strOnlineAction == "LOGON") && (strOnlineService == "PLANB")){PLANB = window.open('https://www.planbclients.com/','PLANB','Left=' + intWinPosX + ',Top=' + intWinPosY + ',width=' + intWinWidth + ',' + 'height=' + (intWinHeight + 90) + ',toolbar=1,resizable=1,status=1,scrollbars=1,location=1,directories=1,menubar=1,history=0');}
+    if ((strOnlineAction == "MORE") && (strOnlineService == "PLANB")){PLANB = window.open('http://www.planbonline.com/bankwest/default.asp','PLANB','Left=' + intWinPosX + ',Top=' + intWinPosY + ',width=' + intWinWidth + ',' + 'height=' + (intWinHeight + 90) + ',toolbar=1,resizable=1,status=1,scrollbars=1,location=1,directories=1,menubar=1,history=0');}
   }
 //-->
 </script>
@@ -128,7 +120,8 @@
 	<tbody><tr>
   	<td valign="top" width="127">
       <!--navigation start-->
-      <!--menu links starts-->
+      
+<!--menu links starts-->
 <form action="/$scripts/query_new.asp" method="post">
 	<table width="135" cellspacing="0" cellpadding="0" border="0">
 		<tbody><tr>    <td colspan="2" width="127" valign="top" bgcolor="#FFFFFF">      <div align="left"><img border="0" height="13" src="/$images/gr_navtopcurve.gif" width="127"></div>    </td>    <td width="7" bgcolor="#ffffff">      <div align="center" class="nav"></div>    </td></tr>
@@ -143,12 +136,16 @@
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" width="127" valign="top" bgcolor="#ff9900">
-        <div align="center"><img border="0" height="5" width="1" src="/$images/gr_transparent.gif"></div>
-        
-        <div align="left"><img border="0" height="1" width="10" src="/$images/gr_transparent.gif"><a class="hotline8" href="/misc/helpline.asp" onmouseout="window.status=''; return true" onmouseover="window.status='HELPLINE 13 17 18 OPEN 24 HOURS 7 DAYS'; return true"><b>HELPLINE 13 17 18</b><br clear="left" class="hotline8"><img border="0" height="1" src="/$images/gr_transparent.gif" width="10"><b>24 HOURS 7 DAYS</b></a></div><div align="center"><img border="0" height="5" width="1" src="/$images/gr_transparent.gif"></div>
-        
+			<td width="7" bgcolor="#ff9900">
+        <div align="center" class="nav">&nbsp;</div>
 			</td>
+			<td colspan="1" width="127" valign="top" bgcolor="#ff9900">
+        <div align="center"><img border="0" height="5" width="100" src="/$images/gr_transparent.gif"></div>
+        
+        <div align="left"><a class="hotline8" style="font-weight: bold;" href="/misc/helpline.asp" onmouseout="window.status=''; return true" onmouseover="window.status='CUSTOMER HELP CENTRE 13 17 18 OPEN 24 HOURS 7 DAYS'; return true"><b>CUSTOMER HELP<br>CENTRE<span style="color: #000000; font-weight: bold; font-size: 9pt;"> 13 17 18</span><br><b>24 HOURS 7 DAYS</b></b></a></div><b>
+        
+        <div align="center"><img border="0" height="5" width="100" src="/$images/gr_transparent.gif"></div>
+			</b></td>
 			<td width="7" bgcolor="#ffffff">
         <div align="center" class="nav">&nbsp;</div>
 			</td>
@@ -165,7 +162,7 @@
 			</td>
 		</tr>
 
-<tr bgcolor="#ff9900">
+    <tr bgcolor="#ff9900">
 			<td width="20" valign="top">
         <div align="center" class="nav">&gt;</div>
 			</td>
@@ -190,7 +187,7 @@
 			</td>
 		</tr>
 
-<tr bgcolor="#ff9900">
+    <tr bgcolor="#ff9900">
 			<td width="20" valign="top">
         <div align="center" class="nav">&gt;</div>
 			</td>
@@ -249,6 +246,21 @@
         <div align="center" class="nav">&nbsp;</div>
 			</td>
 		</tr>
+
+	<tr bgcolor="#ff9900">
+			<td width="20" valign="top">
+        <div align="center" class="nav">&gt;</div>
+			</td>
+			<td width="107" valign="top">
+        <div align="left"><a class="nav" href="/fees/" onmouseout="window.status=''; return true" onmouseover="window.status='Fees'; return true">Fees</a></div>
+  
+			</td>
+			<td width="7" bgcolor="#ffffff">
+        <div align="center" class="nav">&nbsp;</div>
+			</td>
+		</tr>
+
+
 		<tr bgcolor="#ff9900">
 			<td width="20" valign="top">
         <div align="center" class="nav">&gt;</div>
@@ -394,6 +406,7 @@
 			</td>
 			<td width="107" valign="top">
         <div align="left"><a class="nav" href="/community/" onmouseout="window.status=''; return true" onmouseover="window.status='BankWest in the Community'; return true">BankWest in the Community</a></div>
+      
 			</td>
 			<td width="7" bgcolor="#ffffff">
         <div align="center" class="nav">&nbsp;</div>
@@ -571,14 +584,17 @@
 		</TD>
 	</TR> -->
 
-<tr>
+  <tr>
 		<td width="5">
 			<div align="center"><img src="/$images/gr_transparent.gif" width="5" height="8" border="0"></div>
 		</td>
 		<td width="120">
-		     <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" id="foote2" width="130" height="56">
- <param name="movie" value="/$flash$/foote2.swf"> <param name="quality" value="high"> <param name="bgcolor" value="#FFFFFF"> <embed src="foote2.swf" quality="high" bgcolor="#FFFFFF" width="150" height="65" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-</object>
+		  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" id="foote2" width="130" height="56">
+        <param name="movie" value="/$flash$/foote2.swf">
+        <param name="quality" value="high">
+        <param name="bgcolor" value="#FFFFFF">
+        <embed src="foote2.swf" quality="high" bgcolor="#FFFFFF" width="150" height="65" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </object>
 		</td>
 		<td width="5">
 			<div align="center"><img src="/$images/gr_transparent.gif" width="5" height="8" border="0"></div>
@@ -679,7 +695,7 @@
 		</td>
 		<td width="100%" valign="top"><img src="/$images/gr_transparent.gif" width="1" height="6" border="0"><br>
       <!--start Content here-->
-     	<div align="right" class="date">Monday, June 4,  2001</div>
+     	<div align="right" class="date">Saturday, 4 August 2001</div>
       <div align="left"><h3>Privacy and Security Statement</h3></div>
 	<div align="left"><h5>About this Privacy and Security Statement</h5></div>
 	<br>
@@ -837,18 +853,20 @@ Most web browsers are initially set to accept cookies, but you may configure you
   <tbody><tr>
 
     <td valign="bottom">
+      
    		  <div align="left"><a href="/harry/feedback.asp" onmouseout="window.status=''; return true" onmouseover="window.status='Harry\'s Notebook.'; return true"><img src="/$images/harry/harrywide5.gif" hspace="0" width="54" height="76" border="0" alt="We Hear You..."></a></div>
    		  <div align="left"><a href="/harry/feedback.asp" onmouseout="window.status=''; return true" onmouseover="window.status='Harry\'s Notebook.'; return true"><img src="/$images/harry/wehearyou.gif" hspace="0" width="80" height="24" border="0" alt="We Hear You..."></a></div>
+      
     </td>
 
     <td valign="top">
       <div align="right" class="footer" style="font-size: 7pt">*Source: Banker of the Decade Awards, Australian Banking &amp; Finance magazine November 11, 1999.</div>
       <br>
-      <div align="right" class="footer">This page was last modified Monday, March 19, 2001 @ 03:39pm W.S.T. Australia.</div>
+      <div align="right" class="footer">This page was last modified Monday, 19 March 2001 @ 03:39pm W.S.T. Australia.</div>
       <div align="right" class="footer">© 2000 Bank of Western Australia Ltd. ABN 22 050 494 454. All rights reserved.</div>
 			<div align="right" class="footer">Rates are subject to change without notice. Fees and charges are payable.</div>
 			<div align="right" class="footer">Full details of terms and conditions are available on request.</div>
-      <div align="right" class="footer"><a href="/legal/p_and_s_0201.asp" onmouseout="window.status=''; return true" onmouseover="window.status='Please Read Our Privacy and Security Statement'; return true"><b>Privacy and Security Statement.</b></a>&nbsp;|&nbsp;<a href="/misc/disclaimer.asp" onmouseout="window.status=''; return true" onmouseover="window.status='Please Read Our Disclaimer'; return true"><b>Please read our disclaimer.</b></a></div>
+      <div align="right" class="footer"><b></b>&nbsp;<a href="/legal/p_and_s_0201.asp" onmouseout="window.status=''; return true" onmouseover="window.status='Please Read Our Privacy and Security Statement'; return true"><b>Privacy and Security Statement.</b></a>&nbsp;|&nbsp;<a href="/misc/disclaimer.asp" onmouseout="window.status=''; return true" onmouseover="window.status='Please Read Our Disclaimer'; return true"><b>Please read our disclaimer.</b></a></div>
 
     </td>
   </tr>
