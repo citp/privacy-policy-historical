@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208183823id_/http%3A//www.wilton.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2003-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030201171314id_/http%3A//www.wilton.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Rowoco Division of Wilton Industries
 
