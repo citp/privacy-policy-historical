@@ -1,22 +1,45 @@
-> *The following text is extracted and transformed from the searsportrait.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413015558id_/http%3A//www.searsportrait.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searsportrait.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024183948id_/http%3A//www.searsportrait.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Sears Portrait Studio - Privacy Policy
 
-### Privacy & Security Policies  
-With A Special Note To Parents  
+### Sears Portrait Studio (searsportrait.com) Privacy Policy  
 
 
-Sears Portrait Studio takes care to respect the privacy and security of its on-line visitors. Non-personal information is collected from on-line visitors so that we may continually improve upon visitor's on-line experiences. For example, the total number of visitors in aggregate form is tracked and the types of Internet browsers (e.g. Netscape Navigator or Internet Explorer) and operating systems (e.g. Windows 95 or Macintosh) used is sorted. Personal information, such as a visitor's name, street address, e-mail address and the like is only collected in two areas: on our contest pages when voluntarily submitted by the visitor, and on our birthday program enrollment form when voluntarily submitted by the visitor. In our Story Creation area, personal information is collected when voluntarily submitted by the visitor, for entertainment purposes only. For example, a visitor may choose to submit personal information in response to a contest entry form or choose to sign up for automatic email messages from Sears Portrait Studio. Subscribers have the option of "un-subscribing" at any time. Personal information will be used solely by Sears Portrait Studio or its agents for internal purposes, and will not be sold or otherwise transferred to third parties. Please see our Special Note to Parents below. 
+Sears, Roebuck and Co. values the trust its customers place in the company. As an authorized licensee of Sears, Consumer Programs Incorporated (searsportrait.com) adheres to the Privacy Policies and standards of Sears. This Privacy Policy is intended to explain what searsportrait.com does with your information, and what you can expect from searsportrait.com. If you have additional questions or would like further information on this topic, please feel free to email bjohnson@searsportrait.com, searsportrait.com may update this policy from time to time. Please check the policy periodically for changes. 
 
-### A Special Note To Parents
+### What type of information does searsportrait.com collect and how is it used? 
 
-Sears Portrait Studio recognizes that the Internet is a unique communications medium, and we are committed to ensuring that the Company's fair and ethical practices are continued on-line. Sears Portrait Studio is especially mindful of the need for children to consult with their parents before furnishing personal information or ordering products on-line, and we will make special efforts to advise children to do so. We also urge parents to monitor and supervise all of their children's on-line activities, and recommend that parents become sophisticated in the availability and use of software and other tools that may enhance children's on-line experiences in manners reflective of parental preferences. 
+searsportrait.com gathers only the customer information that we need to administer our business, provide superior service and communicate offers on merchandise and services that we believe will be of interest to you. 
 
-### Children's On-line Privacy Policy
+There are two categories of information we collect about you when you visit our site. The first type of information we may collect about you is personally identifiable information, such as, your name, address, telephone number, e-mail address, and credit card number. This type of information may be provided as part of a purchase process and allows us to process and fulfill your order and notify you of order status. Other examples of when we collect personally identifiable information are if you subscribe to our email program, choose to provide us preference information to allow us to customize your experience, or when you enter a sweepstakes or one of our promotions. 
 
-Sears values the trust its customers place in the company. Accordingly, Sears Portrait Studio adheres to the highest ethical standards in gathering, using and safeguarding children's on-line information that is entrusted to the company. 
+The second category is non-personally identifiable information. Data, such as, your IP address, browser type, domain name, and specific web pages through which you click, is gathered in order to gain a better understanding of site development needs. This data is collected automatically and utilized in aggregate to help us look for trends so that we can improve our Website and your user experience. 
 
-This privacy policy addresses Sears Portrait Studio general policy regarding the following: 
+### What information do we share and with whom? 
+
+searsportrait.com does not rent or sell customer information to outside marketers. We may share your information (as described above) with members of the Sears family of businesses to provide you with products or services that you have requested or to provide you with promotional offers that we believe will be of interest to you. The Sears family of businesses includes all Sears affiliates as well as other selected businesses with which Sears has a relationship and which have agreed to adhere to Sears strict standards for providing quality products and services, responding to your needs, and protecting customer information. 
+
+In certain circumstances, searsportrait.com may share your customer information with trusted service providers that need access to your information to provide operational or other support services. To ensure the confidentiality and security of your information, service providers must agree to safeguard your information in strict compliance with our policy. We also may provide information to regulatory authorities and law enforcement officials in accordance with applicable law or when we otherwise believe in good faith that the law requires it. In the event of a sale of all or part of one of our businesses, we may share customer information related to that business as part of the transaction. 
+
+### Does searsportrait.com use cookies? 
+
+"Cookies" are small pieces of information that are stored by the browser on your hard drive. searsportrait.com may store some information on the visitor's computer in the form of a cookie or similar file. The cookies that are configured by us do not contain any personally identifying information, such as your name, or sensitive information, such as you credit card number. The cookies allow us to recognize you when you return to our site and to provide you with a customized experience that we feel will be of value to you. For example, these files allow us to tailor your user experience to reflect your expressed interests and preferences. 
+
+### Can I disable these cookies? 
+
+Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you do elect to disable a searsportrait.com cookie, please note that you may not be able to take full advantage of a personalized experience. 
+
+### Does searsportrait.com use an advertising network? 
+
+Each Sears Website that may be used by children under 13 will contain a specific version of the Children's Online Privacy Policy that will address specifically each of the points listed above for that site. 
+
+### A Special Note To Parents 
+
+Sears Portrait Studio recognizes that the Internet is a unique communications medium, and we are committed to ensuring that the Company's fair and ethical practices are continued on-line. Sears Portrait Studio is especially mindful of the need for children to consult with their parents before furnishing personal information, and we will make special efforts to advise children to do so. We also urge parents to monitor and supervise all of their children's on-line activities, and recommend that parents become sophisticated in the availability and use of software and other tools that may enhance children's on-line experiences in manners reflective of parental preferences. 
+
+### How does searsportrait.com handle personally identifiable information collected on children? 
+
+The online privacy and safety of children is important to searsportrait.com. Please click here to read the Sears Portrait Studio Children's Online Privacy Policy for more detailed information regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses Sears general policy regarding the following: 
 
   * collection of children's personal information 
   * use of children's personal information 
@@ -25,18 +48,12 @@ This privacy policy addresses Sears Portrait Studio general policy regarding the
 
 
 
-Each sears.com site that may be directed to children under 13 will contain a specific version of our Children's On-line Privacy Policy that will address specifically each of the points listed above for that site. 
+Each Sears Website that may be used by children under 13 will contain a specific version of the Children's Online Privacy Policy that will address specifically each of the points listed above for that site. 
 
-**What type of information does Sears Portrait Studio collect from children?**  
-Some Sears websites may collect on-line information from children under the age of 13 in order to respond once to a specific request from a child. For example, some Sears websites may allow children to submit questions and get a response from a Sears expert. On-line contact information that is collected in this manner will be deleted after a response is made to the child. 
+### Can I "opt out" of receiving promotional e-mails from searsportrait.com? 
 
-Some Sears websites may collect on-line contact information from children under the age of 13 in order to respond more than once to a specific request from a child or to protect the safety of a child. For example, some Sears websites may collect on-line contact information to allow a child to sign up for an on-line newsletter. Each Sears website that collects such on-line contact information requires the child to provide either a parent's or guardian's e-mail address or a parent's or guardian's street address so that Sears can send the child's parent or guardian a notice regarding Sears children's on-line information practices. In such situations, the contact information is only used to respond to the child's request and to notify the child's parent or guardian that the child contacted Sears. Sears will not condition a child's participation in an activity on the provision of more information than is reasonably necessary for the activity. 
+Sears Portrait Studio and Sears may send you e-mails with promotional offers only if you opt-in to receiving such e-mails. 
 
-**What does Sears do with this information?**  
-Sears does not rent, sell or exchange information about its customers, including children who submit information to Sears on-line. Access to information collected in this manner is restricted to the Sears family of businesses, including all businesses that accept Sears payment vehicles. Third parties that access the information in order to provide operational or other support services to Sears must agree to safeguard the information in strict compliance with Sears policy. Sears limits access to customer information to those employees who need it to carry out their business functions. 
+If you would no longer like to receive e-mailed special events information, sales notifications or other messages from searsportrait.com, please click on the link at the bottom of your email "no longer wish to receive E-mail updates" and follow the "Unsubscribe" instructions. 
 
-**How does Sears obtain verifiable parental consent from parents or guardians?**  
-Some Sears websites may collect on-line information from children under the age of 13 for participation in promotions or ongoing programs. Each Sears website that collects such information uses reasonable efforts to obtain verifiable parental consent before collecting such information from a child. Parents or guardians are required to demonstrate their consent for their child's participation in the promotion or program by submitting a signed consent form to Sears, by calling an 800-number, by submitting a credit card number, or by submitting an e-mail message. The method of parental consent will vary, depending upon the specific promotion or program. Additional consent mechanisms may be used in the future. Whenever parent consent is obtained, the parent or guardian will be asked to choose or be given an identification code so that Sears can identify and authenticate future requests from that parent or guardian. 
-
-**How may I review the information that my child provided to Sears?**  
-Parents or guardians whose children have provided information to Sears may review the information provided by their child by sending an e-mail message to webmaster@sears.com or to the e-mail address listed on the sears.com site that collected their child's information. For verification and security purposes, Sears may request that such parental requests must contain the parent's or guardian's name and identification code as well as a valid e-mail address, a street address, or a phone number. Parents or guardians may also request that Sears delete their child's information. If such a parental request is received, Sears will make all reasonable efforts to delete the information from its files. 
+If you would no longer like to receive e-mailed special events information, sales notifications or other messages from sears.com, please [click here](http://www.sears.com/sr/entry.jsp?eid=7) (Link to: <http://www.sears.com/sr/entry.jsp?eid=7>) and follow the "Unsubscribe" instructions. Your e-mail address will be removed from our marketing lists. 
