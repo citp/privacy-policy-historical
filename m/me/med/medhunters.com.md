@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204094500id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613045720id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
 
 # MedHunters.com: Advertising Rates
 
@@ -38,12 +38,6 @@
 > 
 > MedHunters will not share your personally identifiable information with any other entities than with those for whom you give us express permission. 
 > 
-> **Security**
-> 
-> MedHunters.com has security measures in place to protect the loss, misuse and alteration of the information under our control.
-> 
-> We utilize a two-server system when accepting your personal information during our online registration process. Once your information is submitted, it resides on a separate server that is not accessible to external users of MedHunters.com. (You will notice yourself, when you log in again, your contact information is not visible - even to you.) The second server acts like a firewall so that the information is not available on the Internet.
-> 
 > **Choice Opt in/Opt out**
 > 
 > To opt in to our services, you register and we will match you with jobs in areas where you are qualified and where you have expressed a geographic interest. Also you can apply for jobs in all categories directly. If at any point in time you wish to terminate your membership, please let us know by email, phone or fax. You can permanently delete your file. Alternatively you can de-activate your file for a set period of time, if you think you will want to use it again in the future.
@@ -63,7 +57,7 @@
 > 
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please feel free to contact:
 >
->> Deborah Moores, Managing Director  
+>> Kathy Wheeler, Director of Operations and Marketing  
 >  MedHunters, Inc.  
 >  I80 Dundas St. W., Suite 2403  
 >  Toronto ON, M5G 1ZB, CANADA
