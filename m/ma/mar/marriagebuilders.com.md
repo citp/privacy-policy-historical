@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriagebuilders.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212080024id_/http%3A//www.marriagebuilders.com/graphic/mbi051_priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriagebuilders.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602141930id_/http%3A//www.marriagebuilders.com/graphic/mbi051_priv.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Marriage Builders, Inc. does not and will not use information about where you go on our web site, nor give that data out to third parties. We may collect traffic patterns in order to improve the quality of our web site, but we do not review information at the personal level, only the aggregate. 
 
-Please note that the only information automatically logged by [Marriage Builders](https://web.archive.org/index.html) is a user's IP address. _IP information in no way identifies the user, simply the Internet Service Provider._
+Please note that the only information automatically logged by [Marriage Builders®](https://web.archive.org/index.html) is a user's IP address. _IP information in no way identifies the user, simply the Internet Service Provider._
 
 For information regarding the privacy policy for the Marriage Builders Newsletter, please click on the link below. 
 
