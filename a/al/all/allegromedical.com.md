@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601110125id_/http%3A//www.allegromedical.com/Home/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216220825id_/http%3A//www.allegromedical.com/Home/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Allegro Medical- wheelchairs, power scooters, and discount medical supplies.
 
@@ -18,7 +18,7 @@ www.allegromedical.com uses cookies to enhance your shopping and browsing experi
   
 * * *
 
-[Home](https://web.archive.org/web/20020601110125id_/http%3A//www.allegromedical.com/default.asp)  |  [Affiliate Program](https://web.archive.org/web/20020601110125id_/http%3A//www.allegromedical.com/Affiliate/AffiliateIntro.asp)  |  [Allegro Fans](https://web.archive.org/web/20020601110125id_/http%3A//www.allegromedical.com/Home/Allegrofans.asp)     
-Contact Us  |  [View Cart](https://web.archive.org/web/20020601110125id_/http%3A//www.allegromedical.com/Cart/View.asp)  |  [Privacy Policy](https://web.archive.org/web/20020601110125id_/http%3A//www.allegromedical.com/Home/Privacy_Policy.asp)  |  [Terms of Use](https://web.archive.org/web/20020601110125id_/http%3A//www.allegromedical.com/Home/Legal.asp)   
+[Home](https://web.archive.org/web/20021216220825id_/http%3A//www.allegromedical.com/default.asp)  |  [Affiliate Program](https://web.archive.org/web/20021216220825id_/http%3A//www.allegromedical.com/Affiliate/AffiliateIntro.asp)  |  [Allegro Fans](https://web.archive.org/web/20021216220825id_/http%3A//www.allegromedical.com/Home/Allegrofans.asp)     
+Contact Us  |  [View Cart](https://web.archive.org/web/20021216220825id_/http%3A//www.allegromedical.com/Cart/View.asp)  |  [Privacy Policy](https://web.archive.org/web/20021216220825id_/http%3A//www.allegromedical.com/Home/Privacy_Policy.asp)  |  [Terms of Use](https://web.archive.org/web/20021216220825id_/http%3A//www.allegromedical.com/Home/Legal.asp)   
 Copyright© 1996-2002 Allegro Medical   
  
