@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbstx.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205081100id_/http%3A//www.bcbstx.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbstx.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602022906id_/http%3A//www.bcbstx.com/privacy.htm) for the most accurate reproduction.*
 
 # Web Site Privacy Statement - Blue Cross and Blue Shield of Texas
 
@@ -44,7 +44,7 @@ Because we value your relationship with us, we have detailed below our privacy o
 
 
 
-> We use Internet Cookies in places such as the [Rate Finder](http://www.bcbstx.com/indrating/introduction.asp)SM to remember the information you provide during a session. The information is to be retained only for that particular session so you don't have to re-enter it as you progress through the Rate Finder. Please refer to our Frequently Asked Questions section on the Web site for more information on [Internet Cookies](https://web.archive.org/web/20001205081100id_/http%3A//www.bcbstx.com/search/faq-cookies.htm).
+> We use Internet Cookies in places such as the [Rate Finder](http://www.bcbstx.com/indrating/introduction.asp)SM to remember the information you provide during a session. The information is to be retained only for that particular session so you don't have to re-enter it as you progress through the Rate Finder. Please refer to our Frequently Asked Questions section on the Web site for more information on [Internet Cookies](https://web.archive.org/web/20010602022906id_/http%3A//www.bcbstx.com/search/faq-cookies.htm).
 
 [Top of Page]
 
