@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomz.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206060812id_/http%3A//www.atomz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomz.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621170908id_/http%3A//www.atomz.com/privacy) for the most accurate reproduction.*
 
 # Avivo Corporation, the creator of Atomz, is committed to honoring privacy rights.
 
@@ -13,6 +13,8 @@ The customer information is also used to contact the customer periodically about
 This site contains links to other sites. Atomz is not responsible for the privacy practices or the content of such Web sites. 
 
 As part of the Atomz Search product we will index a site or sites that you provide us the URL or URLs for. We clearly identify the Atomz robot when we index these sites and respect the Robots Exclusion Protocol and the Robots metatags. If the owners of the site do not want us to index their site, we will respect their ownership of the site and desist from indexing their Web site. 
+
+From time to time, Atomz may share your contact information with partners who provide services that you have indicated are of interest to you. 
 
 ## Cookies
 
