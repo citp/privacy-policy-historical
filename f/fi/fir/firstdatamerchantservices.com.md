@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstdatamerchantservices.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202074311id_/http%3A//www.firstdatamerchantservices.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstdatamerchantservices.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606214145id_/http%3A//firstdatamerchantservices.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -32,7 +32,7 @@ _**We Give Consumers Choices about How Their Information Will be Used.**_
 
 Generally, where we collect consumer information online, we will inform consumers about how to remove their names from certain lists:
 
-  * Those submitting information to receive our press releases should call Larry Reiff at 631-391-7544 (E-mail to [larry.reiff@firstdata.com](javascript:OpenMailWin\('/mail.asp?to=larry.reiff@firstdata.com','win'\))) or Jeff Fowler at 713-331-7359 (E-mail to [jeff.fowler@telecheck.com](javascript:OpenMailWin\('/mail.asp?to=jeff.fowler@telecheck.com','win'\)).
+  * Those submitting information to receive our press releases should call Larry Reiff at 631-391-7544 (E-mail to [larry.reiff@firstdata.com](javascript:OpenMailWin\('/mail.asp?to=larry.reiff@firstdata.com','win'\))) or Jeff Fowler at 713-331-7359 (E-mail to [jeff.fowler@telecheck.com](javascript:OpenMailWin\('/mail.asp?to=jeff.fowler@telecheck.com','win'\))).
   * Those submitting resumes and other job-related information should E-mail/Fax to:
 
 
