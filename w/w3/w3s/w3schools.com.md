@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-Please visit our sponsors !  [](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/default.asp)
+[ ](http://ad.doubleclick.net/jump/N1951.w3schools/B1097963;sz=468x60;ord=\[timestamp\]?)   
+Please visit our sponsors !  [](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
@@ -54,18 +55,19 @@ W3Schools contains links to other sites. We are not responsible for the privacy 
 
 ## Contacting the Web Site
 
-For any questions about this privacy statement, please contact [postmaster@w3schools.com](mailto:postmaster@w3schools.com)
+For any questions about this privacy statement, please contact [hege@refsnesdata.no](mailto:hege@refsnesdata.no)
 
 * * *
 
-[](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/default.asp)
-
-Jump to: **Top of Page** or [**HOME**](https://web.archive.org/) or [**Printer friendly page**](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/printpage.asp)
+[](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
-  
+Jump to: **Top of Page** or [**HOME**](https://web.archive.org/) or [ **Printer friendly page**](https://web.archive.org/about/about_privacy.asp?output=print)
 
+* * *
+
+## Search W3Schools:
 
 * * *
 
@@ -73,24 +75,24 @@ Jump to: **Top of Page** or [**HOME**](https://web.archive.org/) or [**Printer f
 
 Does the world know about us? Check out these places:
 
-[Alta Vista](http://www.altavista.com/cgi-bin/query?q=W3Schools) [MSN](http://search.msn.com/results.asp?q=W3Schools) [Google](http://www.google.com/search?q=W3Schools) [Excite](http://search.excite.com/search.gw?search=W3Schools) [Lycos](http://search.lycos.com/main/?query=W3Schools) [Yahoo](http://google.yahoo.com/bin/query?p=W3Schools) [Ask Jeeves](http://www.ask.com/main/askJeeves.asp?ask=W3Schools)
+[Dogpile](http://search.dogpile.com/texis/search?q=W3schools) [Alta Vista](http://www.altavista.com/cgi-bin/query?q=W3Schools) [MSN](http://search.msn.com/results.asp?q=W3Schools) [Google](http://www.google.com/search?q=W3Schools) [Excite](http://search.excite.com/search.gw?search=W3Schools) [Lycos](http://search.lycos.com/main/?query=W3Schools) [Yahoo](http://search.yahoo.com/search?p=w3schools) [Ask Jeeves](http://www.ask.com/main/askJeeves.asp?ask=W3Schools)
 
 * * *
 
 ## We Help You For Free. You Can Help Us!
 
-  * [Tell your newsgroup or mailing list](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/tellyourgroup.htm)
-  * [Link to us from your pages](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/about_linking.asp)
-  * [Help us correct errors and broken links](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/about_helpers.asp)
-  * [Help us with spelling and grammar](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/about_helpers.asp)
+  * [Tell your newsgroup or mailing list](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/tellyourgroup.htm)
+  * [Link to us from your pages](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/about_linking.asp)
+  * [Help us correct errors and broken links](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/about_helpers.asp)
+  * [Help us with spelling and grammar](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/about_helpers.asp)
   * [Validate the XHTML code of this page](http://validator.w3.org/check/referer)
 
 
 
 * * *
 
-W3Schools is for training only. We do not warrant its correctness or its fitness for use. The risk of using it remains entirely with the user. While using this site, you agree to have read and accepted our [terms of use](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/about_copyright.asp) and [privacy policy](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/about_privacy.asp).
+W3Schools is for training only. We do not warrant its correctness or its fitness for use. The risk of using it remains entirely with the user. While using this site, you agree to have read and accepted our [terms of use](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/about_copyright.asp) and [privacy policy](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/about_privacy.asp).
 
-[Copyright 1999-2002](https://web.archive.org/web/20020207183950id_/http%3A//www.w3schools.com/about/about_copyright.asp) by Refsnes Data. All Rights Reserved
+[Copyright 1999-2002](https://web.archive.org/web/20021208212329id_/http%3A//www.w3schools.com/about/about_copyright.asp) by Refsnes Data. All Rights Reserved
 
 * * *
