@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611212635id_/http%3A//bestquotes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2002-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021022182519id_/http%3A//www.bestquotes.com/privacy.htm) for the most accurate reproduction.*
 
 # Best Quotes Privacy Statement
 
