@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the dofactory.com privacy policy that was archived on 2002-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020810192208id_/http%3A//www.dofactory.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofactory.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606045900id_/http%3A//dofactory.com/Terms/Privacy.aspx) for the most accurate reproduction.*
 
-# Data & Object Factory privacy statement
+# Privacy
 
+| |   
+---|---  
+  
+| training and education for professional developers  
+---|---  
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 **Statement of Privacy** Data & Object Factory is committed to protecting your privacy. This Statement of Privacy applies to the Data & Object Factory Web site (dofactory.com) and governs information collection and usage of this information. 
@@ -33,4 +38,16 @@ Data & Object Factory customer information is password-protected for your privac
 Data & Object Factory may amend this policy from time to time. If we make any substantial changes in the way we use your information you will see the word "updated" next to the Privacy Statement link on the front page of the Data & Object Factory Web site. Data & Object Factory encourages you to periodically review this Statement so as to be aware of any changes. 
 
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+  
+  
+---  
+| | | | | | | |   
+  
+* * *
+
+| Copyright © 2002 - Data & Object Factory. All rights reserved. data & object factory™, dofactory.com™, and the 'slanting do' logo are trademarks of Data & Object Factory.  
+---  
+This site has been designed, developed, and is supported by data & object factory.  
+[ _Terms of use_](https://web.archive.org/Terms/Terms.aspx) and [_privacy statement_](https://web.archive.org/Terms/Privacy.aspx)  
+ 
