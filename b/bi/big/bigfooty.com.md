@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfooty.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021023758id_/http%3A//www.bigfooty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfooty.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204213538id_/http%3A//www.bigfooty.com/privacy.html) for the most accurate reproduction.*
 
 # BigFooty.com: Aussie Rules Football discussion boards, news, Internet guide, chat, and more!
 
