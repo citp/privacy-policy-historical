@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the boardofwisdom.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217064213id_/http%3A//www.boardofwisdom.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardofwisdom.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627165521id_/http%3A//boardofwisdom.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy  
 
 
-  
 This privacy statement covers the site WWW.BOARDOFWISDOM.COM. Because we want to demonstrate our commitment to our users' privacy, we are disclosing our information practices. This document describes:
 
 1\. What personally identifiable information THE BOARD OF WISDOM collects.  
