@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starcraft2.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618114616id_/http%3A//www.starcraft2.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcraft2.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095034id_/http%3A//starcraft2.com/privacy.shtml) for the most accurate reproduction.*
 
 # Blizzard Entertainment - On-Line Privacy Policy
 
@@ -40,7 +40,7 @@ Lastly, we may use your personal information for internal marketing, profiling, 
 Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in job applicant's resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy. 
 
 **Who is collecting your information?**  
-When you are asked for information while on a Blizzard site, you are sharing that information with Blizzard, its parent, and its [various affiliates and sister companies](https://web.archive.org/web/20030618114616id_/http%3A//www.starcraft2.com/privacy2.shtml), unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by another company other than Blizzard, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
+When you are asked for information while on a Blizzard site, you are sharing that information with Blizzard, its parent, and its [various affiliates and sister companies](https://web.archive.org/web/20031206095034id_/http%3A//starcraft2.com/privacy2.shtml), unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by another company other than Blizzard, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
 
 Please be aware that advertisers or websites with links to our sites may collect personal information about you. And remember, this Privacy Policy does not apply to, and cannot control the activities of, those other advertisers or websites. 
 
@@ -82,6 +82,6 @@ Blizzard has taken steps to assure that all information collected will remain se
 **What if I have a question or complaint?**  
 If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com) or send a letter addressed to Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 6080 Center Drive, Los Angeles, California 90045. 
 
-For complaints, you may also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 845 Third Avenue, New York, NY 10022. By using this Website, you signify your assent tothis Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. 
+For complaints, you may also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 845 Third Avenue, New York, NY 10022. By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. 
 
 This Privacy Policy was last updated on January 29, 2003. 
