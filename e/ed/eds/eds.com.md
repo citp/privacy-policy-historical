@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606054356id_/http%3A//www.eds.com/administrative/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010090655id_/http%3A//www.eds.com/administrative/privacy.shtml) for the most accurate reproduction.*
 
 # eds.com Privacy Policy
 
@@ -23,13 +23,13 @@ Data submitted to the site may be transferred within EDS, including to subsidiar
 
 ****
 
-**Retention:** Eds.com will retain data submitted to the Web site for as long as it is needed to fulfill a user’s request, maintain records of interaction with users, and/or to facilitate and support the use of registration. 
+**Retention:** Eds.com will retain data submitted to the Web site for as long as it is needed to fulfill a user's request, maintain records of interaction with users, and/or to facilitate and support the use of registration. 
 
 **Correct/Update:** Regular users may change or modify information previously provided to this site through e-mail to [info@eds.com](mailto:info@eds.com). Registered users may log in to the registration area to correct and/or update their profile.
 
 **Security:** This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Any EDS employee who may have access to such information is aware of the EDS Web Privacy and Data Protection Policy through direct notification and training. Access to such information is limited to those required to fulfill the applicable user request, and security procedures in place include password protection and, as appropriate, physical protection. 
 
-**Opt-Out:** Regular users may opt-out of receiving further communications through e-mail to [info@eds.com](mailto:info@eds.com). Registered users may log in to the registration area to opt-out of receiving communications.
+**Opt-Out:** Regular users may opt-out of receiving further communications through e-mail to [info@eds.com](mailto:info@eds.com). Users registered for the newsletter may opt-out through the newsletter opt-out field at the bottom of the newsletter or by e-mailing [info@eds.com](mailto:info@eds.com). Job seekers may opt-out of employment-related communication by accessing the job database supported by Yahoo! Resumix at [www.edscareers.com](http://www.edscareers.com/).
 
 **Notification of Changes:** In the event of any changes by EDS of its EDS Web Privacy and Data Protection Policy that may impact the practices described on this Web site will be posted on this site. In no event will any such changes to this policy apply with respect to data previously collected through this site.
 
