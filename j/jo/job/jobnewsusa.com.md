@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobnewsusa.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616133732id_/http%3A//www.jobnewsusa.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnewsusa.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609173955id_/http%3A//www.jobnewsusa.com/privacy.htm) for the most accurate reproduction.*
 
 # JobNewsUSA.com / Privacy Statement
 
