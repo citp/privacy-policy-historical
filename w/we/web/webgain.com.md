@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webgain.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608033042id_/http%3A//www.webgain.com/company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgain.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205234338id_/http%3A//webgain.com/company/privacy_statement.html) for the most accurate reproduction.*
 
 # WebGain | Company : Privacy Statement
 
