@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408095151id_/http%3A//amtrak.com/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206092210id_/http%3A//www.amtrak.com/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Please note that this Policy may change from time to time without special notice
 
  **6**.  How you can access, update, correct, or delete your personal information collected from amtrak.com;
 
- **7**.  What choices are available to you regarding collection, use, and distribution of your personal information, including your ability to choose whether or not to receive promotional information by email or have your information shared with our trustworthy business partners;
+ **7**.  What choices are available to you regarding collection, use, and distribution of your personal information, including your ability to choose whether or not to receive promotional information by email;
 
  **8**.  What the special privacy practices and rules are for the Amtrak Guest Rewards Program;
 
@@ -48,14 +48,14 @@ We never sell or rent the personal information provided to us on the site.
 
 Amtrak has retained certain reputable independent contractors or third party service providers to perform special contract functions for Amtrak such as storing and managing customer information and providing advice about and support of our products and services. By utilizing these contract service providers for various operations of the site, we are better able to offer site visitors and Members of the Amtrak Guest Rewards Program a variety of products and services through the site. These contract services include, but are not limited to, the following:
 
-  *  **Amtrak Guest Rewards Program management**      
-  *  **Amtrak email services**      
-  *  **Customer data storage and processing**      
+  *  **Amtrak Guest Rewards Program management**          
+  *  **Amtrak email services**          
+  *  **Customer data storage and processing**          
   *  **Order fulfillment**
 
 
 
-In addition to our contract service providers, Amtrak also has relationships with certain trustworthy business partners who would like you to be provided with information about their various products and services that we believe would be of interest to you. Amtrak shares your personal information with its business partners. Personal information is collected when you make a reservation on amtrak.com. _If you do not want your personal information shared with our business partners, please remove the checkmark from the box provided on the member profile page in the reservations area of the web site_. Go to [http://tickets.amtrak.com](http://tickets.amtrak.com/).
+In addition to our contract service providers, Amtrak also has relationships with certain trustworthy business partners who would like you to be provided with information about their various products and services that we believe would be of interest to you. Amtrak shares your personal information with its business partners. Personal information is collected when you make a reservation on amtrak.com. 
 
 SHOULD YOU DECIDE TO MAKE A REQUEST FOR INFORMATION ABOUT, SUBSCRIBE TO, OR MAKE AN ONLINE PURCHASE OF GOODS OR SERVICES OFFERED BY ONE OF OUR BUSINESS PARTNERS ON THE AMTRAK.COM SITE, YOU ARE GIVING US YOUR EXPRESS PERMISSION TO SHARE YOUR PERSONAL INFORMATION WITH THAT BUSINESS PARTNER SO THAT YOUR REQUEST, SUBSCRIPTION, OR PURCHASE CAN BE FULFILLED UNDER THAT PARTNER'S OWN ONLINE PRIVACY POLICIES AND PRACTICES. IF YOU ENTER AN AMTRAK SWEEPSTAKES OR CONTEST ONLINE, YOUR PERSONAL INFORMATION MAY BE SHARED WITH THE AMTRAK BUSINESS PARTNERS WHO ARE CO-SPONSORS OF THE SWEEPSTAKES OR CONTEST AND WHO ARE LIKELY TO HAVE DIFFERENT PRIVACY POLICIES AND PRACTICES THAN AMTRAK. 
 
@@ -75,10 +75,10 @@ Amtrak collects personal information in several ways from different parts of the
 
 Amtrak asks for and collects personal information when you:
 
-  *  **Complete a Member Profile in the Reservations area;**      
-  *  **Make an online purchase;**      
-  *  **Enroll in the Amtrak Guest Rewards Program;**      
-  *  **Request travel and promotional information; or**      
+  *  **Complete a Member Profile in the Reservations area;**          
+  *  **Make an online purchase;**          
+  *  **Enroll in the Amtrak Guest Rewards Program;**          
+  *  **Request travel and promotional information; or**          
   *  **Contact Amtrak through the site.  
 **
 
@@ -137,7 +137,7 @@ When you give Amtrak personal information online, that information may be sent e
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Amtrak cannot ensure or warrant the security of any information you transmit to amtrak.com, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. However, Amtrak cannot accept liability for disclosure of any personal information due to errors in transmission or unauthorized acts or errors and omissions of third parties.
 
- _  Back to Top_
+ _Back to Top_
 
  **6.    What is Amtrak's policy on allowing you to access, update, correct, or delete your personal information collected from amtrak.com?**
 
@@ -145,13 +145,13 @@ When you create a Member Profile in the Reservations area, you will have the rig
 
 If you have processed a request to delete, correct, or update any part of your Member Profile, or Membership Account (in the case of the Amtrak Guest Rewards Program), Amtrak will make reasonable effort to see that your instructions to delete and/or make revisions are also communicated to and/or accessed by our contract service providers who may have received the original information and that they too have either deleted and/or revised the information in accordance with your latest instructions. Please note that there will be a passage of time between the time when you seek to update, correct, or delete the information and the time when our contract service providers have changed the information in accordance with your latest instructions. 
 
-_  Back to Top_
+_Back to Top_
 
- **7.   What are your choices regarding collection, use, and distribution of your personal information, including your ability to choose not to receive promotional information by email or have your information shared with our trustworthy business partners?**
+ **7.   What are your choices regarding collection, use, and distribution of your personal information, including your ability to choose not to receive promotional information by email?**
 
-Amtrak may, from time to time, send registered members who have not opted out email regarding Amtrak products and Amtrak services that we believe may be of interest to you. We also may, from time to time, offer you the ability to accept promotional information about our trustworthy business partners by email. If you do not want to receive such emails, you will have the opportunity to indicate your choice when such services are offered. You also may change your email selection(s) at any time by accessing your Member Profile in the Reservations area or Amtrak Guest Rewards Program account information. In addition, if you do not want to have, or continue to have, your information shared with our trustworthy business partners, please remove the checkmark from the box on the Member Profile page in the reservations area of the site. Go to [http://tickets.amtrak.com](http://tickets.amtrak.com/).
+Amtrak may, from time to time, send registered members who have not opted out of the email program email regarding Amtrak products and Amtrak services that we believe may be of interest to you. We also may, from time to time, offer you the ability to accept promotional information about our trustworthy business partners by email. If you do not want to receive such emails, you will have the opportunity to indicate your choice when such services are offered. You also may change your email selection(s) at any time by accessing your Member Profile in the Reservations area or Amtrak Guest Rewards Program account information. 
 
- _  Back to Top_
+_Back to Top_
 
  **8.**   **What are the special privacy practices and rules for the Amtrak Guest Rewards Program?**
 
