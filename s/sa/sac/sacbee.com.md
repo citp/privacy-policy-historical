@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacbee.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407160725id_/http%3A//www.sacbee.com/static/live/bee/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacbee.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208034121id_/http%3A//www.sacbee.com/static/live/bee/privacy.html) for the most accurate reproduction.*
 
 # The Sacramento Bee -- sacbee.com -- An online information service of The Sacramento Bee
 
@@ -15,7 +15,7 @@ Sacbee.com has a firm commitment to privacy. We take your privacy concerns serio
 
 From time to time, we will ask for information that personally identifies you, as in our user surveys or registration for sacbee.com services such as e-mail, forums, or promotions. We use this information to operate sacbee.com's services, provide you with the highest quality services and offer you opportunities we think will be of interest.
 
-We will **not** disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of sacbee.com, or as explained below or in our [User Agreement](https://web.archive.org/web/20020407160725id_/http%3A//www.sacbee.com/static/live/bee/legal.html).
+We will **not** disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of sacbee.com, or as explained below or in our [User Agreement](https://web.archive.org/web/20021208034121id_/http%3A//www.sacbee.com/static/live/bee/legal.html).
 
 In order to describe our services to prospective partners, advertisers and others, we may disclose user information but only in a form that does **not** identify individual users. For example, we might disclose that a certain percentage of our users are male or within a certain age range.
 
@@ -25,7 +25,7 @@ Occasionally, we may disclose personal information in other circumstances, but w
 
 sacbee.com is particularly concerned with providing a safe online environment for kids. Therefore, in areas operated by sacbee.com that are directed to kids or when we learn that a user is under the age of 13, we will ask for parental consent before collecting additional personal information about the child or allowing the child to use the sacbee.com services to provide additional personal information. Parental consent can be provided in two ways: 
 
-  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20020407160725id_/http%3A//www.sacbee.com/static/live/bee/consent.html) (which will be provided in applicable areas on our site); or
+  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20021208034121id_/http%3A//www.sacbee.com/static/live/bee/consent.html) (which will be provided in applicable areas on our site); or
   2. Call our toll-free number at the telephone number provided on the Parental Consent Form.
 
 sacbee.com will not knowingly disclose personal information about users under the age of 13 without prior parental consent, except as required by law. If for any reason you wish to access, update or remove information about your child or terminate your child's account, you may fax or call sacbee.com at the numbers listed above or send an [e-mail](mailto:rfrattura@sacbee.com).
