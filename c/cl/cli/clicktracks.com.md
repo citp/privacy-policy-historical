@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktracks.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606130608id_/http%3A//www.clicktracks.com/newsletter.php%3Fwhat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktracks.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204135413id_/http%3A//clicktracks.com/newsletter.php%3Fwhat%3Dprivacy) for the most accurate reproduction.*
 
 # ClickTracks | Privacy Policy
 
