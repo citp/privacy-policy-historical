@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606020932id_/http%3A//www.schooldude.com/infctr/infctr-privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209043229id_/http%3A//www.schooldude.com/infctr/infctr-privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Info Center
 
@@ -25,7 +25,7 @@ SchoolDude sites are for professionals and usage by children is not intended. Wi
 
 **Does SchoolDude usecookies and "IP Addresses"?**  
 Yes, cookies are used on SchoolDude in various ways.  
-<http://www.schooldude.com/infctr/infctr-privacypolicy.asp>   
+[http://www.schooldude.com/infctr/infctr-privacypolicy.asp](https://web.archive.org/infctr/infctr-privacypolicy.asp)   
 1) We use cookies to be reminded of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register. 
 
 2) Cookies are used in SchoolDude E-Commerce to help SchoolDude track visits to and business at its store and process the items in your shopping basket. 
