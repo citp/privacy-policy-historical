@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206192052id_/http%3A//www.denniskirk.com/assets/en/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624033822id_/http%3A//www.denniskirk.com/assets/en/privacy.asp) for the most accurate reproduction.*
 
 # Dennis Kirk - Parts and Accessories for ATVs, Dirt Bikes, Harley-Davidsons©, Snowmobiles, Street Bikes, and Watercraft.
 
