@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008044055id_/http%3A//www.deltadentalins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltadentalins.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603122204id_/http%3A//www.deltadentalins.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
