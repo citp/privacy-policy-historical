@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foliomag.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210143255id_/http%3A//www.foliomag.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliomag.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627054357id_/http%3A//foliomag.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # PRIMEDIA Business - Online Business Information and News for Industry Communities
 
