@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbafinals.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623045319id_/http%3A//www.nbafinals.com/news/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbafinals.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019044828id_/http%3A//www.nbafinals.com/news/privacy_policy.html) for the most accurate reproduction.*
 
 # NBA.com: NBA.com Network Privacy Policy
 
