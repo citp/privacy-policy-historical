@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacific.net.sg privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155309id_/http%3A//www.pacific.net.sg/article.php%3Fid%3D1747) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacific.net.sg privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203004144id_/http%3A//www.pacific.net.sg/article.php%3Fid%3D1747) for the most accurate reproduction.*
 
 # Pacific Internet (Singapore) - legal - Privacy Policy
 
