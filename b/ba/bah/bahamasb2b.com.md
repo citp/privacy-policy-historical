@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bahamasb2b.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217064937id_/http%3A//www.bahamasb2b.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahamasb2b.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604043524id_/http%3A//www.bahamasb2b.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -46,4 +46,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us:**    
-Should you have other questions or concerns about these privacy policies, please call us at 242-394-0033 or send us an email at [lisa@bahamasb2b.com](mailto:lisa@bahamasb2b.com). 
+Should you have other questions or concerns about these privacy policies, please call us at 242-394-0033 or send us an email at [info@bahamasb2b.com](mailto:info@bahamasb2b.com). 
