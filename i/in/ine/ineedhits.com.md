@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201185954id_/http%3A//www.ineedhits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401225201id_/http%3A//ineedhits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy [ineedhits.com]
 
 [](https://web.archive.org/default.asp) |    
 [Advertise your website below for 1 cent or less per banner display](https://web.archive.org/advertising/)   
 [  
-Click the banner above to be transferred to our client's website](https://web.archive.org/asp/Banner/BannerGo.asp?Id=8043)   
+Click the banner above to be transferred to our client's website](https://web.archive.org/asp/Banner/BannerGo.asp?Id=5242)   
 |  |  | _**_**
 
 **_**_  
@@ -20,28 +20,28 @@ ineedhits.com [Ineedhits.com Pty Ltd] is a licensee of the TRUSTe Privacy Progra
 
 This privacy statement covers the site [www.ineedhits.com]. Because this Web Site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-  1. [What personally identifiable information does ineedhits.com collect?](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#PER)
+  1. [What personally identifiable information does ineedhits.com collect?](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#PER)
   
 
-  2. [What organization/s collects the information?](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#ORG)
+  2. [What organization/s collects the information?](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#ORG)
   
 
-  3. [With whom ineedhits.com may share user information?](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#whom)
+  3. [With whom ineedhits.com may share user information?](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#whom)
   
 
-  4. [How ineedhits.com uses the information?](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#how)
+  4. [How ineedhits.com uses the information?](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#how)
   
 
-  5. [What choices are available to users regarding collection, use and distribution of the information?](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#choices)
+  5. [What choices are available to users regarding collection, use and distribution of the information?](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#choices)
   
 
-  6. [What types of security procedures are in place to protect the loss, misuse or alteration of information under ineedhits.com control?](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#types)
+  6. [What types of security procedures are in place to protect the loss, misuse or alteration of information under ineedhits.com control?](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#types)
   
 
-  7. [How users can correct any inaccuracies in the information.](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#users)
+  7. [How users can correct any inaccuracies in the information.](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#users)
   
 
-  8. [What happens if our Privacy Policy changes?](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#happens)
+  8. [What happens if our Privacy Policy changes?](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#happens)
 
   
 If users have questions or concerns regarding this statement, they should first contact our Webmaster by emailing to [webmaster@ineedhits.com](mailto:webmaster@ineedhits.com). If users do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/watchdog.html) TRUSTe will serve as a liaison with the Web Site to resolve users concerns. 
@@ -53,16 +53,16 @@ This Privacy Policy covers [http://www.ineedhits.com](https://web.archive.org/) 
 
 To place an order on our Web Site, a user must first complete an order form. Whilst placing an order, a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have shown as an interest.
 
-[top](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#Top)
+[top](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#Top)
 
 **Q2:** ** What organization/s collects the information?**
 
 ineedhits.com collects information from our users at several different points on our Web Site and co-branded partner Web Sites. We will not sell, or rent this information to others in ways different from what is disclosed in this statement. When the user signs up for these services, we may share names, or other contact information that is necessary for third parties to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-[top](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#Top) **Q3:** ** With whom ineedhits.com may share user information?**
+[top](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#Top) **Q3:** ** With whom ineedhits.com may share user information?**
 
 **SHARING:**  
-ineedhits.com share personal information with third parties who we use to perform functions on our behalf. For example, we use a third party (Camtech Corporation) to erify and process your credit card information in order for us to bill you for requested services. All third parties are contractually obligated to use your personal information only for the purpose for which it is given. 
+ineedhits.com share personal information with third parties who we use to perform functions on our behalf. For example, we use a third party (Camtech Corporation) to verify and process your credit card information in order for us to bill you for requested services. All third parties are contractually obligated to use your personal information only for the purpose for which it is given. 
 
 When registering your Web Site to 300+ Search Engines, most require us to provide **minimal** personal information such as your…
 
@@ -86,7 +86,7 @@ We may also disclose your personal information when required by law or in the ou
 **LINKS TO OTHER WEB SITES:**  
 ineedhits.com and its co-branded Web Sites’ contain links to other sites. Please be aware that ineedhits.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web Site that collects personally identifiable information. This privacy statement applies solely to information collected on our Web Sites.
 
-[top](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#Top)
+[top](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#Top)
 
 **Q4:** **How ineedhits.com uses the information?**
 
@@ -97,7 +97,7 @@ Second, we keep track of your IP address to help diagnose problems with our serv
 
 Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Except as otherwise stated in this Privacy Policy, we do not provide this information to third parties, except in combined form.
 
-[top](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#Top)
+[top](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#Top)
 
 **Q5:** **What choices are available to users regarding collection, use and      distribution of the information?**
 
@@ -109,7 +109,7 @@ Upon ordering various services from us, customers will receive an email notifica
 
 [www.ineedhits.com/news/](https://web.archive.org/news/) or [www.ineedhits.com/news/unsubscribe.asp](https://web.archive.org/news/unsubscribe.asp)
 
-[top](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#Top)
+[top](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#Top)
 
 **Q6:** **What types of security procedures are in place to protect the loss,  
      misuse or alteration of information under ineedhits.com control?**
@@ -125,13 +125,13 @@ If you have any questions about the security at our Web Site, you can send an em
 
 [ ](mailto:webmaster@ineedhits.com)
 
-[](mailto:webmaster@ineedhits.com)[top](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#Top)
+[](mailto:webmaster@ineedhits.com)[top](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#Top)
 
 **Q7:** **How users can correct any inaccuracies in the information.**
 
 All users of our co-branded Inktomi Search/Submit service can review and modify their account or profile information on the site at [ink.ineedhits.com/secure/login.asp](http://ink.ineedhits.com/secure/login.asp) . Alternatively they can also contact us by email through several avenues provided on pages of our [www.ineedhits.com](https://web.archive.org/) Web Site or directly email us with the customer support links provided in our service report emails. 
 
-[top](https://web.archive.org/web/20021201185954id_/http://ineedhits.com/privacy/default.asp#Top)
+[top](https://web.archive.org/web/20030401225201id_/http://www.ineedhits.com/Privacy/default.asp#Top)
 
 **Q8:** **What happens if our Privacy Policy changes?**
 
@@ -156,12 +156,12 @@ To place an order select the various offers below:
 
 [Advertise your web site below for 1 cent or less per banner display](https://web.archive.org/advertising/)   
 [  
-Click the banner above to be transferred to our client's website](https://web.archive.org/asp/Banner/BannerGo.asp?Id=6245)   
+Click the banner above to be transferred to our client's website](https://web.archive.org/asp/Banner/BannerGo.asp?Id=5932)   
 
 
   
-ineedhits.com "Keeping Websites Alive"  
+ineedhits.com "Driving Visitors (hits) to Your Web Site"  
 ineedhits, ineedhits.com, and their designs, logos, and  
 related marks are trademarks of Ineedhits.com Pty Ltd.  
-© Copyright 2002 ineedhits.com  
+© Copyright 2003 ineedhits.com  
 
