@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morebusiness.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607025745id_/http%3A//www.morebusiness.com/brc/about/privacy.brc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morebusiness.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602203805id_/http%3A//morebusiness.com/brc/about/privacy.brc) for the most accurate reproduction.*
 
-# MoreBusiness.com -- sample business plans, sample contracts, sample marketing plans, business loans, employee manuals.
+# Morebusiness.com -- sample business plans, sample contracts, sample marketing plans, business loans, employee manuals.
 
 ### MoreBusiness.com Privacy Policy
 
@@ -55,6 +55,3 @@ When we transfer and receive certain types of sensitive information such as fina
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site's Privacy Policy page periodically.
 
 [Sign up for our e-mail newsletter and get regular tips on growing your business!](https://web.archive.org/getting_started/newsletter/)
-
-|  [](http://adserver.kcilink.com/?RC=44&AI=43&RANDOM=2001.06.06.23.02.21)   
-
