@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolearnenglish.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210030354id_/http%3A//www.tolearnenglish.com/chat/codeprivacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolearnenglish.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210064943id_/http%3A//www.tolearnenglish.com/chat/codeprivacy.shtml) for the most accurate reproduction.*
 
 # Code of conduct
 
