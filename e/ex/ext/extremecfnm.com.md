@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2003-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031218031517id_/http%3A//www.extremecfnm.com/index.php/cfnm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622133227id_/http%3A//www.extremecfnm.com/index.php/cfnm/privacy) for the most accurate reproduction.*
 
-# 
+# Free CFNM @ WWW.EXTREMECFNM.COM
 
 #### Privacy Policy
 
