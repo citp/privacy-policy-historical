@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-pdf.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210115358id_/http%3A//www.a-pdf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-pdf.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610211253id_/http%3A//www.a-pdf.com/privacy.htm) for the most accurate reproduction.*
 
 # A-PDF.com
 
