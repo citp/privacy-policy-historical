@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danmurphys.com.au privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206182148id_/http%3A//www.danmurphys.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danmurphys.com.au privacy policy that was archived on 2003-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030206011921id_/http%3A//www.danmurphys.com.au/privacy.php) for the most accurate reproduction.*
 
 # Dan Murphy's : Privacy Policy & Disclaimer
 
@@ -7,9 +7,9 @@
 ---  
 Herald Sun Food & Drink Magazine features Dan Murphy exclusives  
 **Chateau London Macon Ige 1999**   
-**** [More Info...](https://web.archive.org/web/20021206182148id_/http%3A//www.danmurphys.com.au/features.php#clondon) |   
+**** [More Info...](https://web.archive.org/web/20030206011921id_/http%3A//www.danmurphys.com.au/features.php#clondon) |   
 **Domaine d'Andezon Cotes du Rhone 2000**  
-**** [More Info...](https://web.archive.org/web/20021206182148id_/http%3A//www.danmurphys.com.au/features.php#dda) |   
+**** [More Info...](https://web.archive.org/web/20030206011921id_/http%3A//www.danmurphys.com.au/features.php#dda) |   
 |   
 Disclaimer  
 Although every effort has been made to ensure the accuracy of the information and data contained on this web site, visitors to the site should note that this information and data is subject to change without notice, and its use, for whatever purpose is at your sole risk. No warranties, either express or implied are provided by Dan Murphy's and all promotional deals and offers are subject to terms and conditions which may vary from time to time and to the availability of stock. Dan Murphy's agents, instrumentalities, officers and employees: **1.** Make no representations, expressed or implied, as to the accuracy of the information and data contained on this site. **2.** Accept no liability for any use of the said information and data or reliance placed on it. **3.** Make no representations, either expressed or implied, as to the suitability of the said information and data for any particular purpose; and **4.** Make no warranties that the said information and data is free of infection by computer viruses or other contamination.    
