@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santamariatimes.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806213827id_/http%3A//www.santamariatimes.com/about_pccn/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santamariatimes.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413042734id_/http%3A//www.santamariatimes.com/about_pccn/privacypolicy.html) for the most accurate reproduction.*
 
 # Puliter Central Coast Newspapers - Privacy Policy
 
