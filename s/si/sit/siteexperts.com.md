@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602075126id_/http%3A//siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031044437id_/http%3A//siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
 
 # SiteExperts.com Privacy Statement
 
@@ -12,13 +12,27 @@
  [Logon SiteExperts](https://web.archive.org/members/logon.asp)   
  [Member Profiles](https://web.archive.org/members/profiles.htm)
 
+**[User Groups](https://web.archive.org/userGroups/home.asp)**  
+ [SiteExperts.com Forums](https://web.archive.org/forums/topics.asp)   
+  -[All Discussions](https://web.archive.org/forums/converse.asp?topic=all)   
+  -[SiteExperts Feedback](https://web.archive.org/forums/converse.asp?topic_id=4)   
+  -[Dynamic HTML](https://web.archive.org/forums/converse.asp?topic_id=9)   
+  -[Site Design/ Critiques](https://web.archive.org/forums/converse.asp?topic_id=6)   
+  -[HTML, CSS, and XML](https://web.archive.org/forums/converse.asp?topic_id=10)   
+  -[The Wireless Internet](https://web.archive.org/forums/converse.asp?topic_id=12)   
+  -[Internet Explorer](https://web.archive.org/forums/converse.asp?topic_id=8)   
+  -[Microsoft .NET](https://web.archive.org/forums/converse.asp?topic_id=13)   
+  -[The Server](https://web.archive.org/forums/converse.asp?topic_id=7)   
+  -[Making Money](https://web.archive.org/forums/converse.asp?topic_id=3)   
+  -[Job Market](https://web.archive.org/forums/converse.asp?topic_id=5)   
+ [Usenet Forums](https://web.archive.org/nntp/newsgroups.asp)   
+ [Client User Group](https://web.archive.org/userGroups/home.asp?type=Client)   
+ [Server User Group](https://web.archive.org/userGroups/home.asp?type=Server)
+
 **[Developer's Paradise](https://web.archive.org/paradise/getList.asp)**  
  [Inside Techniques](https://web.archive.org/paradise/getList.asp?res=Inside+Technique)  
   -[Cross Browser DHTML](https://web.archive.org/paradise/getList.asp?res=Inside+Technique&type=Task&cid=39&rname=Cross%2DBrowser+DHTML)   
    [...More...](https://web.archive.org/paradise/getList.asp?res=Inside+Technique)   
- [Books](https://web.archive.org/paradise/getList.asp?res=Book)   
-  -[Inside Dynamic HTML](https://web.archive.org/dhtml/insideDHTML.asp)   
-   [...More...](https://web.archive.org/paradise/getList.asp?res=Book)   
  [Outside Techniques](https://web.archive.org/paradise/getList.asp?res=Outside+Technique)   
  [Developer Products](https://web.archive.org/paradise/getList.asp?res=Product)   
  [Product Reviews](https://web.archive.org/paradise/getList.asp?res=Review)   
@@ -26,21 +40,6 @@
   **[Submit Resource](https://web.archive.org/paradise/submit.asp)**
 
 **[High-Tech Jobs](https://web.archive.org/jobs/home.asp)**  
-
-
-**[User Groups](https://web.archive.org/userGroups/home.asp)**  
- [SiteExperts Forums](https://web.archive.org/forums/topics.asp)   
- [Usenet Forums](https://web.archive.org/nntp/newsgroups.asp)   
- [Client User Group](https://web.archive.org/userGroups/home.asp?type=Client)   
-  -[Affiliate Programs](https://web.archive.org/userGroups/home.asp?cid=244)   
-  -[HTML, CSS and XML](https://web.archive.org/usergroups/home.asp?cid=230)   
-  -[Internet Explorer 5](https://web.archive.org/usergroups/home.asp?cid=233)   
-  -[Internet Playground](https://web.archive.org/usergroups/home.asp?cid=254)   
-  -[Site Design](https://web.archive.org/usergroups/home.asp?cid=229)   
-  -[Write Once!](https://web.archive.org/usergroups/home.asp?cid=228)   
- [Server User Group](https://web.archive.org/userGroups/home.asp?type=Server)   
-  -[Active Server Pages](https://web.archive.org/usergroups/home.asp?cid=231)   
-  -[PHP Scripting](https://web.archive.org/usergroups/home.asp?cid=245)   
 
 
 **[Site Tools](https://web.archive.org/tools/home.asp)**  
@@ -84,4 +83,4 @@ A _cookie_ is a small file that can be written and accessed by the site that cre
 
 
 
-Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20010602075126id_/http%3A//siteexperts.com/info/privacy@SiteExperts.com). 
+Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20011031044437id_/http%3A//siteexperts.com/info/privacy@SiteExperts.com). 
