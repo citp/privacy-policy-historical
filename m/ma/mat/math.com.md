@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208015232id_/http%3A//www.math.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403220625id_/http%3A//math.com/privacy.html) for the most accurate reproduction.*
 
 # Math.com Privacy Policy
 
@@ -16,9 +16,9 @@
   
    | 
 
-Privacy Policy For Math.com*
+Privacy Policy For Math.com
 
-At Math.com your privacy is important to us. We have created this privacy statement in order to demonstrate our commitment to privacy. Math.com's policy regarding use of your individual identifying information or other information supplied to us or collected during your visit(s) to the Math.com website* covers the following areas: 
+At Math.com your privacy is important to us. We have created this privacy statement in order to demonstrate our commitment to privacy. Math.com's policy regarding use of your individual identifying information or other information supplied to us or collected during your visit(s) to the Math.com website covers the following areas: 
 
   * Information Gathering
   * Opt-Out/Removal from Database
@@ -35,7 +35,7 @@ At Math.com your privacy is important to us. We have created this privacy statem
 [Back to Top] 
 
 3\. **Opt-Out/Removal from Database  
-**The Site gives its users the following options for (i) deleting their Math.com registration, contact and financial information from the Math.com database, (ii) discontinuing communications from Math.com or (iii) discontinuing receipt of Math.com products or services: send email to: [Remove@math.com](mailto:remove@math.com)
+**The Site gives its users the following options for (i) deleting their Math.com registration, contact and financial information from the Math.com database, (ii) discontinuing communications from Math.com or (iii) discontinuing receipt of Math.com products or services: send email to: [webmaster@math.com](mailto:webmaster@math.com)
 
 [Back to Top]
 
@@ -65,16 +65,6 @@ The Site is intended for use by children and adults for educational purposes. Ma
 **Questions/Comments**  
 If you have any questions about the Math.com Privacy Policy, the practices of this Site or your experience with Math.com, please contact the Math.com Webmaster at [webmaster@math.com](mailto:webmaster@math.com).
 
-* For our legal friends, the term "Math.com" refers to Math.com, LLC, and the term "Site" refers to the Math.com website found at http://www.math.com.[Back to Top]
-
-**Advertising**  
-
-
-  * **Third Party Advertising**
+* **Third Party Cookies**
   
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).  
-
-  * **Third Party Cookies**
-  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
-|    | 
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.  |    | 
