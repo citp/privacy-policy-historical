@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cathaypacific.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217223903id_/http%3A//www.cathaypacific.com/intl/site/privacy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathaypacific.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610025502id_/http%3A//www.cathaypacific.com/intl/site/privacy/0%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Cathay Pacific - Data Privacy and Security Policy
 
@@ -80,7 +80,7 @@ We use Secure Socket Layer (SSL) protocol – an industry standard for encryptio
  **Your Choice**  
    | You always have ultimate choice and control of the Data we store, as well as the types of information you would like to receive from us. When you register as a member of The Club or as a general site user, you will have the choice of receiving, or not receiving, promotional materials from us or other partner organizations. We will occasionally send you email updates about our latest products and services, as well as special offers to those who subscribe to such services. 
 
-Should you decide not to receive any email updates from us, feel free to unsubscribe to these services by contacting our [eService Centre](https://web.archive.org/web/20011217223903id_/http%3A//www.cathaypacific.com/intl/contact/e-service).  
+Should you decide not to receive any email updates from us, feel free to unsubscribe to these services by contacting our [eService Centre](https://web.archive.org/web/20020610025502id_/http%3A//www.cathaypacific.com/intl/contact/e-service).  
   
  **Links to Other Sites**  
    | This website contains links to other sites that are operated under different privacy practices. You should remain alert when you leave our site, and read the privacy statements of other websites. We have no control over Data that is submitted to these third parties.
@@ -96,4 +96,4 @@ Please note that the sites of [Cathay Pacific Holidays](http://www.cathaypacific
  **Legal Disclaimer**  
    | We may disclose the Data when required by law or court order, or as requested by other government or law enforcement authorities, or in the good faith that disclosure is otherwise necessary or advisable including and without limitation to protect the rights or properties of Cathay Pacific Airways. This also applies when we have reason to believe that disclosing the Data is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.  
  **How to Contact Us**  
-   | If you have any queries or comments concerning our privacy and security matters, please contact our [eService Centre](https://web.archive.org/web/20011217223903id_/http%3A//www.cathaypacific.com/intl/contact/e-service/).
+   | If you have any queries or comments concerning our privacy and security matters, please contact our [eService Centre](https://web.archive.org/web/20020610025502id_/http%3A//www.cathaypacific.com/intl/contact/e-service/).
