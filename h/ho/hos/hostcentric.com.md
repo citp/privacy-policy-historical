@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostcentric.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204223052id_/http%3A//www.hostcentric.com/Company/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostcentric.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610120617id_/http%3A//hostcentric.com/Company/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Hostcentric - Support: Terms and Conditions Agreement
 
@@ -24,7 +24,7 @@ Information about Users that is maintained on our systems is protected using ind
 **Questions**  
 Users may direct questions concerning this Privacy Policy by email to [privacy@hostcentric.com](mailto:privacy@hostcentric.com). 
 
-Users may elect not to receive solicitations from Hostcentric or from trusted affiliates, independent contractors and business partners by completing the opt-out request form [here](https://web.archive.org/web/20031204223052id_/http%3A//www.hostcentric.com/Company/NewsletterCancel_Submit.asp).
+Users may elect not to receive solicitations from Hostcentric or from trusted affiliates, independent contractors and business partners by completing the opt-out request form [here](https://web.archive.org/web/20040610120617id_/http%3A//hostcentric.com/Company/NewsletterCancel_Submit.asp).
 
 Version 2.1  
 Adopted January 18, 2002
