@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331061921id_/http%3A//www.airtran.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218105003id_/http%3A//airtran.com/aboutus/privacy.jsp) for the most accurate reproduction.*
 
-# AirTran Airways - Travel Policies
+# AirTran Airways - Privacy Policy
 
-    |   
-_
-
-### Online Privacy Policy
-
-_
+|   
+  
+Online Privacy Policy
 
 AirTran Airways understands that you may have concerns about your privacy, and we want to assure you that we handle your personal information confidentially. 
 
@@ -22,7 +19,9 @@ AirTran Airways understands that you may have concerns about your privacy, and w
 >   * Email address 
 >   * Credit card number and expiration date 
 > 
-This information is only used for the purpose of completing your reservation and emailing a confirmation to you. We do not retain your credit card information after processing your purchase. 
+
+> 
+> This information is only used for the purpose of completing your reservation and emailing a confirmation to you. We do not retain your credit card information after processing your purchase. 
 > 
 > During your purchase, we also give you the option to sign up for our Net Escapes and A-Savers email programs (see below for more details). 
 
@@ -38,8 +37,20 @@ This information is only used for the purpose of completing your reservation and
 
 **Technology and Security**
 
-> Our online reservation system resides on a secure server that encrypts your purchase information using Secure Socket Layers (see our [Purchase Process](https://web.archive.org/reservations/cgi-bin/help.cgi) page for more information). After we receive your information, we safeguard the data with both physical and electronic measures. 
+> Our online reservation system resides on a secure server that encrypts your purchase information using Secure Socket Layers (see our Purchase Process page for more information). After we receive your information, we safeguard the data with both physical and electronic measures. 
 
 **Contacting AirTran Airways**
 
-> When you contact AirTran Airways through our web site, we request your name, phone number, email address and comments. We request and retain this information so that we may respond to your concerns effectively and work to improve our service. 
+> When you contact AirTran Airways through our web site, we request your name, phone number, email address and comments. We request and retain this information so that we may respond to your concerns effectively and work to improve our service.   
+  
+  |     
+[ [schedules & reservations](https://web.archive.org/res/index.jsp)  |  [destinations](https://web.archive.org/destinations/index.jsp) |  [specials](https://web.archive.org/specials/index.jsp)  |  [programs](https://web.archive.org/programs/index.jsp)  |  [travel information](https://web.archive.org/info/index.jsp)  ]  
+[  [help](https://web.archive.org/help/index.jsp)  |  [about us](https://web.archive.org/aboutus/index.jsp)  |  [travel agents](https://web.archive.org/res/agent.jsp)  |  [home](https://web.archive.org/index.jsp)  |  [privacy policy](https://web.archive.org/aboutus/privacy.jsp) ] 
+
+* * *
+
+[**Talk to AirTran Airways**](https://web.archive.org/help/customer/index.jsp) \- email us your comments  
+For Reservations, call your travel agent or 1-800-AIRTRAN (1-800-247-8726), in the Atlanta area, please call 770-994-8258, or visit us at [www.airtran.com](http://www.airtran.com/).  
+  
+Copyright © 2001 AirTran Airways HOSTED AT NAVITAIRE  
+ 
