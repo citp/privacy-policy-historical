@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605202754id_/http%3A//guildportal.com/privacy.aspx) for the most accurate reproduction.*
 
-# GuildPortal Guild Hosting
-
-[Testimonials](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/Testimonials.aspx)  
-[Features](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/Features.aspx)  
-[Support/Knowledgebase](https://web.archive.org/Support)  
-[Privacy Policy](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/Privacy.aspx)  
-[Terms of Use](https://web.archive.org/web/20031205003227id_/http%3A//www.guildportal.com/Terms.aspx)  
-
-
-9624 Guilds  
-124687 Members
-
-| 
+# GuildPortal Guild Hosting and Management - EverQuest, Dark Age of Camelot, Lineage 2 and More! - Privacy Policy
 
 **Information Collection**
 
@@ -56,8 +44,4 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 **Contact Information**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 303 680 5428 support@guildportal.com www.guildportal.com 
-
-|   
-  
----|---|---
+If users have any questions or suggestions regarding our privacy policy, please contact us at: 303 680 5428 support@GuildPortal.com www.GuildPortal.com 
