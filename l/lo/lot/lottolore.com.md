@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottolore.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009202403id_/http%3A//www.lottolore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottolore.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614120453id_/http%3A//www.lottolore.com/privacy.html) for the most accurate reproduction.*
 
 # Lotto Lore Privacy Policy
 
