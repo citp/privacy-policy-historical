@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indymacbank.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208080500id_/http%3A//www.indymacbank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indymacbank.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409090341id_/http%3A//indymacbank.com/privacy.asp) for the most accurate reproduction.*
 
 # IndyMac Bank - Privacy Policy
 
@@ -32,7 +32,7 @@ To provide you with superior service, inform you of product and service opportun
 
 The information we provide to our affiliates includes (i) identifying information, such as your name, address and social security number, and (ii) information about the financial product or service you obtain from us, such as your deposit balance, investment history, loan balance and/or payment history, as applicable. 
 
-Under the federal Fair Credit Reporting Act, we are permitted to share your name, address and facts about your transactions and experiences with us (such as your loan payment history) within our affiliated family of companies. However, you have the right to prevent us from sharing with our affiliates information about you other than your name, address and facts about your transactions and experiences with us. If you do not want us to share such other information with our affiliates, please fill out the options out (opt out) form at the end of this privacy policy and return it to us at the address indicated. Once we receive your opt out form, we will not share this information. 
+Under the federal Fair Credit Reporting Act, we are permitted to share your name, address and facts about your transactions and experiences with us (such as your loan payment history) within our affiliated family of companies. 
 
 Information Sharing With Third Party Marketing Service Providers And Joint Marketers 
 
@@ -51,37 +51,3 @@ A Note About Cookies
 A "cookie" marks and identifies visitors to a web site. To provide better service and a more effective web site, we use "cookies" to allow customers to enter customized information and have it available on subsequent visits. You may configure your web browser to determine if and how a "cookie" will be accepted. However, if you configure your web browser so that "cookies" are turned off, our web site will not be able to process your transaction. If this happens, please turn your cookies back on and log onto our site again. 
 
 We appreciate your business and want you to understand our commitment to maintaining the privacy of your personal information, as expressed in this Privacy Policy. This Privacy Policy applies to individual consumers. We reserve the right to amend the policy at any time. Questions regarding this Privacy Policy should be directed to CustomerCare@IndyMacBank.com. 
-
-Opt Out Form 
-
-To: IndyMac Bank  
-From:  
-________________________  
-Name  
-________________________  
-Address  
-________________________  
-City  
-________________________  
-State, Zip  
-
-
-Product Identification Number (include all that apply): 
-
- Account Number: ____________________  
- Loan Number: ____________________  
- Other (please specify) _______________________________________  
- Other (please specify) _______________________________________  
- Other (please specify) _______________________________________  
- Other (please specify) _______________________________________  
-
-
-Please discontinue sharing information about me, other than my name, address and facts about your transactions and experiences with me with your affiliates. I understand that you continue to have the right to share my name and address, and facts about your transactions and experiences with me among your affiliated family of companies. 
-
-Mail this form to: 
-
-IndyMac Bank  
-Consumer Banking  
-155 N. Lake Avenue  
-Pasadena, CA 91101  
-
