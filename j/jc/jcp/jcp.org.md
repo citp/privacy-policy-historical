@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627084138id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229162937id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
 
 # Sun Microsystems - Sun Online Privacy Policy
 
