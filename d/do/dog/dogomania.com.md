@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072911id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607012720id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
 
 # Dog-O-Mania - The biggest dogs related search engine & resource: Privacy policy
 
@@ -16,7 +16,7 @@
 **Breeds:**  
 \- [Breeds](http://www2.dogomania.com/breed/)  
 \- [Breeders](http://www2.dogomania.com/gallery/breeders/) New!  
-\- [Gallery](http://www2.dogomania.com/gallery/breeds/) New!  
+\- [Gallery](http://www2.dogomania.com/gallery/breeds/)  
 \- [Standards](http://www2.dogomania.com/gallery/standards/)  
 
 
@@ -32,9 +32,9 @@
 \- [Titles](http://www.dogomania.com/titles.shtml)
 
 **Discussions:**  
-\- [Read forum](http://www.dogomania.com/forum/index.php)  
-\- [New topic](http://www.dogomania.com/forum/posting.php?mode=newtopic&f=1)  
-\- [Search](http://www.dogomania.com/forum/search.php)
+\- [Read forum](http://forum.dogomania.com/index.php)  
+\- [New topic](http://forum.dogomania.com/posting.php?mode=newtopic&f=1)  
+\- [Search](http://forum.dogomania.com/search.php)
 
 **Resources:**  
 \- [Fun](http://www.dogomania.com/fun.shtml)  
@@ -72,7 +72,6 @@
 \- [Press](http://www.dogomania.com/addpress.shtml)  
 \- [Search box](http://www.dogomania.com/searchbox.shtml)  
 \- [Link to us](http://www.dogomania.com/banners.shtml)  
-\- [Free homepages](http://www.dogomania.com/home/signup.shtml)  
 \- [Free mini sites](http://www.dogomania.com/addbreeder.shtml)  
 \- [Free Email](http://mail.dogomania.com/)  
 \- [Free Topsites list](http://www.m4d.com/cgi-bin/signup.pl)  
