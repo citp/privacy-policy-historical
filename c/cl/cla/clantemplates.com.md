@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the clantemplates.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405234724id_/http%3A//www.clantemplates.com/main.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clantemplates.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204090259id_/http%3A//www.clantemplates.com/%3Fsource%3Dpage%26id%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Clantemplates.com - free pre-built quality gaming templates for clans in multiplayer games
+# Gaming Templates - offering clans Hosting, Design Tutorials, Renders, Free Graphics, Game Scripts, Fonts, Forums, Counters for games like Counterstrike, Call of Duty, Joint Operations, Counter-Strike, Counter Strike
 
-* * *
+  
+
 
 Privacy Policy We can be reached via e
 
 **Privacy Policy  
-**We can be reached via e-mail at [webmaster@clantemplates.com](mailto:webmaster@clantemplates.com)
+**We can be reached via e-mail at webmaster [at] clantemplates[dot]com
 
 ClanTemplates respects the rights of users to their privacy online. None of the information collected on this site and it's partners site is shared with a third party, without willful permission from the user.
 
@@ -34,70 +35,3 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
-
-|  |   
----  
-|   
----  
-  
- »  [](http://www.clantemplates.com/forums/index.php?showforum=24)  
-  
- »  [](http://www.clantemplates.com/forums/index.php?showforum=21)  
-  
- »  [](http://www.clantemplates.com/forums/)  
-  
- »  [](http://www.clantemplates.com/forums/index.php?showforum=3)  
-  
- »  [](http://www.clantemplates.com/forums/index.php?showforum=17)  
-  
- »  [](http://www.clantemplates.com/forums/index.php?showforum=25)  
-  
- »  [](mailto:hosting@clantemplates.com)  
-  
- »  [](http://www.clantemplates.com/main.php?id=premium)  
-  
- »  [](http://www.clantemplates.com/main.php?id=customization)  
-  
- »  [](http://www.clantemplates.com/main.php?id=custom)  
-  
- »  [](http://www.clantemplates.com/main.php?id=add_counters)  
-  
- »  [](http://www.clantemplates.com/main.php?id=fansitekits)  
-  
- »    
-  
- »  [](http://www.clantemplates.com/main.php?id=fonts)  
-  
- »  [](http://www.clantemplates.com/main.php?id=add_getaforum)  
-  
- »  [](http://www.clantemplates.com/main.php?id=imageupload)  
-  
- »  [](http://www.clantemplates.com/main.php?id=generatorsmain)  
-  
- »  [](http://www.clantemplates.com/main.php?id=help)  
-  
- »  [](http://www.clantemplates.com/main.php?id=htmleditors)  
-  
- »  [](http://www.clantemplates.com/main.php?id=add_passprot)  
-  
- »  [](http://www.clantemplates.com/forums/index.php?showforum=26)  
-  
- »  [](http://www.clantemplates.com/renders/gallery/index.php)  
-  
- »  [](http://www.clantemplates.com/main.php?id=splashesmain)  
-  
- »  [](http://www.clantemplates.com/main.php?id=templatesmain)  
-  
- »  [](http://www.clantemplates.com/main.php?id=tips_main)  
-  
- »  [](http://www.clantemplates.com/main.php?id=tutorialsmain)  
-  
- »  [](http://www.clantemplates.com/main.php?id=uploadprogs)  
-  
- »  [](http://www.clantemplates.com/main.php?id=add_urlforward)  
-  
-   
-   
-  
-ClanTemplates.com does not allow any third party to redistribute it's content without expressed ( written ) permission.  
-[Privacy Policy](https://web.archive.org/web/20040405234724id_/http%3A//www.clantemplates.com/main.php?id=privacypolicy) | [Contact](mailto:webmaster@clantemplates.com)
