@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613025427id_/http%3A//www.petco.com/privacy.asp%3Ftab%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216210036id_/http%3A//www.petco.com/privacy.asp%3Ftab%3D0) for the most accurate reproduction.*
 
 # Petco.com - Where the pets go online
 
@@ -8,7 +8,7 @@
 Privacy Policy  
 Surveys, Contests, and Other Special Programs  
 Cookies and How We Use Them  
-Choice/Opt-OutEffective as of 5/30/01  
+Choice/Opt-OutEffective as of 12/19/01  
 **
 
 **Your information is secure**  
@@ -22,9 +22,11 @@ SSL encrypts your order information to avoid the decoding of that information by
 **Privacy Policy**  
 At Petco.com we are concerned with protecting your privacy. We use the information we collect about you to provide a personalized shopping experience. We may also use it to tell you about special offers that we think you'd appreciate. You'll never have to worry about receiving a barrage of unexpected e-mail from us if you have not subscribed with us. We will not sell, rent or trade your information. 
 
-We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using this data for other purposes, and in any way other than to provide the requested services to Petco.com, and may not alter or resell the data.
+We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using this data for other purposes, and in any way other than to provide the requested services to Petco.com, and may not alter or resell the data. 
 
-There is a possibility that Petco, its subsidiaries, its joint ventures, its affiliates, or any combination of such, could merge with, acquire, or be acquired by another business entity. If such an action occurs, Petco would like to let you know that some or all of the personal information collected about you would be shared with this entity in order to continue to provide reliable service. Notice of such an event will be posted on this page, and we will require that all parties follow the practices disclosed in this Privacy Policy unless otherwise noted.
+We may occasionally have third party agents, subsidiaries, affiliates or joint ventures offer promotions on Petco.com. You have the option to specifically opt-in to participate in the promotion and share your personal data with these parties and Petco.com. These promotions may be in the form of a survey or a separate area offering you the opportunity to enter your data for the specific purpose of participating in that program or promotion. Data collected by these third-parties will be covered under the third-party's Privacy Policy agreement.
+
+There is a possibility that Petco, its subsidiaries, its joint ventures, its affiliates, or any combination of such, could merge with, acquire, or be acquired by another business entity. If such an action occurs, Petco would like to let you know that some or all of the personal information collected about you would be shared with this entity in order to continue to provide reliable service. Notice of such an event will be posted on this page, and we will require that all parties follow the practices disclosed in this Privacy Policy unless otherwise noted. 
 
 When registering with petco.com, we will ask for some contact information, such as your name and e-mail address. We will use the customer contact information from the registration form to send you information about our company and promotional material from some of our partners. If you do not wish to receive future mailing, see the "Choice/Opt-Out" section below. 
 
@@ -50,7 +52,7 @@ Petco.com does not share cookie information with other Web sites.
 At Petco.com, we believe that the use of cookies is essential to a seamless online shopping experience. For that reason, it is impossible to purchase items at Petco.com without one. 
 
 **Public Message Boards and Clubs**  
-Petco.com makes message boards and clubs available to users so they can share thoughts, questions, and ideas. While it is our goal to develop a thoughtful and caring pet owner community, please remember that any information disclosed in these areas becomes public. Please exercise caution when deciding whether to disclose your personal information. For more information, [click here](http://www.petco.com/aboutus/helpcommunity.asp?). 
+Petco.com makes message boards and clubs available to users so they can share thoughts, questions, and ideas. While it is our goal to develop a thoughtful and caring pet owner community, please remember that any information disclosed in these areas becomes public. Please exercise caution when deciding whether to disclose your personal information. For more information, [click here](http://www.petco.com/aboutus/helpcommunity.asp?webt=0&). 
 
   
 **Links to Other Sites**  
@@ -65,9 +67,9 @@ We are committed to protecting your children's privacy. If Petco.com knowingly c
 
   
 **Choice/Opt-Out**  
-Petco.com sends registered users ~~monthly~~ regular newsletters and occasional promotional offers. However, Petco.com provides users with the opportunity to opt out of receiving communications from us. If you do not wish to receive correspondence from Petco.com, just follow these easy steps: 
+Petco.com sends registered users regular newsletters and occasional promotional offers. However, Petco.com provides users with the opportunity to opt out of receiving communications from us. If you do not wish to receive correspondence from Petco.com, just follow these easy steps: 
 
-  1. Click on "My Petco" at the top right corner of any page. 
+  1. Click on "Your Account" at the top right corner of any page. 
   2. Log in, using your email address and password. 
   3. Under "In This Section", click on the "Update Your Newsletter Subscriptions" link. 
   4. Follow the instructions you see when you arrive at the "Newsletters" page. You can easily subscribe to or unsubscribe from multiple newsletters. 
@@ -86,4 +88,4 @@ Petco.com's privacy policy may be modified from time to time. Notices of changes
 **Contacting Us**  
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, email us at [cs@orders.petco.com](mailto:cs@orders.petco.com). 
 
-Any Changes are Effective on 6/30/01.
+Any Changes are Effective on 12/19/01.
