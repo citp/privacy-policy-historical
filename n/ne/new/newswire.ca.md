@@ -1,53 +1,55 @@
-> *The following text is extracted and transformed from the newswire.ca privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608051208id_/http%3A//www.newswire.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswire.ca privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221152007id_/http%3A//www1.newswire.ca/privacy.html) for the most accurate reproduction.*
 
 # CNW Resource Center
 
 [](http://www.cnw.ca/commence.html)
 
+[](https://web.archive.org/services/index2.html)  
+CNW products  
+and services
+
 [](https://web.archive.org/cgi-bin/view.cgi?OKEY=12440)  
 Daily listing of  
 news events
-
-[](http://reports.cnw.ca/)  
-Free annual  
-report service
-
-[](https://web.archive.org/services/mindfuleye/)
-
-New!  
-Real-time  
-Internet  
-monitoring
-
-[](http://www.newsdesk.com/)  
-High-tech and  
-health care news
-
-[](http://www.profnet.com/)  
-Find experts  
-online
-
-[](https://web.archive.org/epixlist.html)  
-Electronic photo  
-archive
-
-[](https://web.archive.org/earnings/index.html)  
-Daily listing  
-of Canadian  
-earnings
-
-[](https://web.archive.org/htmindex/commandnews.html)  
-Monitor CP  
-and BN online
 
 [](http://www.ewatch.com/)  
 Internet  
 monitoring  
 service
 
-[](https://web.archive.org/services/index2.html)  
-CNW products  
-and services
+[](https://web.archive.org/earnings/)  
+Daily listing  
+of Canadian  
+earnings
+
+[](http://reports.cnw.ca/)  
+Free annual  
+report service
+
+[](https://web.archive.org/services/newsdesk/)  
+High-tech,  
+healthcare,  
+entertainment and  
+transportation  
+news
+
+[](https://web.archive.org/services/fhro/)  
+Identify mutual  
+fund holdings for  
+publicly owned  
+companies
+
+[](https://web.archive.org/epixlist.html)  
+Electronic photo  
+archive
+
+[](http://www.profnet.com/)  
+Find experts  
+online
+
+[](https://web.archive.org/htmindex/commandnews.html)  
+Monitor CP  
+and BN online
 
 |  |  | [](https://web.archive.org/index.html)| **Canada NewsWire**  
  **PRIVACY POLICY**  
