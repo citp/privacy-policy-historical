@@ -1,20 +1,37 @@
-> *The following text is extracted and transformed from the bresso.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013545id_/http%3A//www.bresso.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bresso.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207122513id_/http%3A//bresso.com/privacy.shtml) for the most accurate reproduction.*
 
-# Bresso.com free mp3 : privacy policy
+# Bresso: Privacy Policy
 
-> Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc). 
-> 
-> Ads served contain links to other sites. Bresso.com is not responsible for the privacy practices or the content of such Web sites. 
-> 
-> Some ads displayed may come from an outside ad company. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads through our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while viewing ads from our site. Some customer data is shared with the advertising companies. 
-> 
-> **** **Security**   
->  This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All information recorded is available only in aggregated form, and is password protected to prevent misuse. 
-> 
-> **Supplementation Information**   
->  This site supplements the information that we receive with information that is received from third parties.   
->  1\. You can send email to accounts@bresso.com   
->  2\. You can call the following telephone number: (888) 835-3268 ext. 5581 
-> 
-> **Correct/Update**   
->  This site gives users the following options for changing and modifying information previously provided. Email accounts@bresso.com
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by BRESSO.COM. The following discloses our Privacy Policy. 
+
+**What information are you collecting and how are you collecting it?**
+
+Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within BRESSO.COM, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the BRESSO.COM, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
+
+**What are cookies?**
+
+From time to time, BRESSO.COM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of BRESSO.COM you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+
+**How do you use single-pixel gifs?** BRESSO.COM and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. BRESSO.COM does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser.
+
+**What information do you collect when I register for something?** BRESSO.COM offers access to some services that require registration. We may use your registration contact information to send notification to you of BRESSO.COM products and services by e-mail.
+
+**What other information do you request?** We may also request your e-mail address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy.   
+We may from time to time send e-mail announcing new BRESSO.COM products and services. Except as stated above, BRESSO.COM will not send you e-mail that you have not agreed to receive.  
+When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.   
+When you use co-branded services, or those provided by a third party, within BRESSO.COM, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
+
+**Will you disclose the information you collect to outside third parties?**  
+BRESSO.COM will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:   
+1) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on BRESSO.COM,   
+2) Protect and defend the rights or property of BRESSO.COM of sites and related properties, or visitors to the BRESSO.COM site and related properties,   
+3) Identify persons who may be violating the law, the BRESSO.COM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing BRESSO.COM,   
+4) Fulfill a user's order or request. BRESSO.COM uses reasonable precautions to keep the information disclosed to us secure. BRESSO.COM reserves the right to transfer all such information in connection with the sale of all or part of BRESSO.COM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users.
+
+**What else should I know about my privacy when online?** The BRESSO.COM contains many hyperlinks to third party Web sites. The BRESSO.COM also contains advertisements of third parties. BRESSO.COM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. BRESSO.COM does not share any of the individual personal information you provide BRESSO.COM with the third parties to which BRESSO.COM links, except as stated elsewhere within this Privacy Policy, although BRESSO.COM may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy.   
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.   
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
+
+**Your Consent To This Agreement**
+
+By using the BRESSO.COM, you consent to the collection and use of information by BRESSO.COM as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
