@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622005245id_/http%3A//www.partrequest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2003-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031011200355id_/http%3A//www.partrequest.com/privacy.htm) for the most accurate reproduction.*
 
 # Used Auto Parts Locator
 
-  
-**Privacy Policy**
+### **Privacy Policy**
 
 PartRequest.com is committed to protecting your privacy. _Here is what you should know about our Privacy Policy_ :
 
