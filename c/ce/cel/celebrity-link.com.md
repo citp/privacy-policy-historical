@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606124454id_/http%3A//www.celebrity-link.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206183513id_/http%3A//www.celebrity-link.com/privacy.html) for the most accurate reproduction.*
 
 # Celebrity Link: Privacy Policy
 
