@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indi.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605074325id_/http%3A//www.indi.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indi.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211220947id_/http%3A//www.indi.com/help/privacy.asp) for the most accurate reproduction.*
 
 # America's Fastest Growing Companies
 
-Individual Investor Group, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.AFGC.com**. 
+Index Development Partners, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.AFGC.com**. 
 
 **WE WILL NEVER SHARE WITH ANY THIRD PARTY ANY INFORMATION THAT SPECIFICALLY IDENTIFIES YOU, WITHOUT FIRST RECEIVING YOUR CONSENT.**
 
