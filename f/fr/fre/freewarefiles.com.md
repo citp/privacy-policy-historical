@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206215330id_/http%3A//www.freewarefiles.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621091610id_/http%3A//www.freewarefiles.com/privacy.php) for the most accurate reproduction.*
 
-# Freeware Files.com - Privacy Policy
+# FreewareFiles.com - Privacy Policy
 
-**Freeware Files.com Privacy Policy**
-
-* * *
+**FreewareFiles.com Privacy Policy**
 
 FreewareFiles.com is aware of the importance in protecting the privacy of information provided by its users. Information is never collected from our visitors without their prior knowledge and consent. This Privacy Policy summarizes how we handle that information. 
 
-**Information Freeware Files.com Collects**
+**Information FreewareFiles.com Collects**
 
 FreewareFiles.com collects information about its users during their registration for our newsletters, software submissions, contests, and polls. Information provided to us is used for internal purposes and for periodic opt-in newsletters to which users have subscribed. Information is never collected without the users knowledge. FreewareFiles.com will not reveal information provided by its users to any third party without their permission.
 
