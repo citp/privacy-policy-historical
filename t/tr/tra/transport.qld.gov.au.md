@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610012245id_/http%3A//www.transport.qld.gov.au/home.nsf/qt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206181937id_/http%3A//www.transport.qld.gov.au/home.nsf/qt/privacy) for the most accurate reproduction.*
 
 # Privacy and security statement - Queensland Transport
 
@@ -33,7 +33,7 @@ E-mail correspondence sent to this site will be treated as a public record and w
 
 **Security**
 
-The vehicle and vessel registration payment facility of this site provides for the secure transmitting of information across the internet. All other sections of this site do not provide facilities for securely transmitting information across the Internet. We recognise that there can be risks with transmitting information across the internet. This site contains links to non-Queensland government websites. Queensland Transport is not responsible for the privacy or security practices or the content of such web sites. 
+The Pay your infringement notice, Book your vehicle inspection or driving test, [Pay your registration renewal](https://www.smartservice.qld.gov.au/AQ/selectItem?formID=1), Change your address and Replacement registration certificate and label within the services online facility of this site provide for the secure transmitting of information across the internet. All other sections of this site do not provide facilities for securely transmitting information across the Internet. We recognise that there can be risks with transmitting information across the internet.This site contains links to non-Queensland government websites. Queensland Transport is not responsible for the privacy or security practices or the content of such web sites. 
 
 **Contact**
 
