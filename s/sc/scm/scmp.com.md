@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405182333id_/http%3A//register.scmp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217182349id_/http%3A//register.scmp.com/privacy.html) for the most accurate reproduction.*
 
 # South China Morning Post - Hong Kong's Leading English Newspaper
 
@@ -145,9 +145,11 @@ We may charge a reasonable fee for processing any data access request.
 You may address data access or correction requests, and questions or complaints to:
 
 Personal Data Privacy Officer  
-SCMP.com Limited  
-3/F., No.1 Leighton Road  
-Hong Kong
+South China Morning Post Publishers Limited,  
+29/F, Dorset House,  
+979 King's Road,  
+Quarry Bay,  
+Hong Kong.
 
 
 **Use of Personal Data in Legal Procedures**
