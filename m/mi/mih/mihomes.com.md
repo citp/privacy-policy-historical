@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mihomes.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402165642id_/http%3A//mihomes.com/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mihomes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204064117id_/http%3A//www.mihomes.com/private.asp) for the most accurate reproduction.*
 
 # MI Homes: Privacy Statement
 
@@ -33,7 +33,7 @@
 * * *  
   
 **Copyright Notice:  ** This site is a project of M/I Homes, Inc.  
-Copyright © 2001 M/I Homes, Inc., All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials of this site is permitted without the written permission of M/I Homes, Inc. For information about the content or management of this site, e-mail the [webmaster.](mailto:comments@mihomes.com)  
+Copyright © 2004 M/I Homes, Inc., All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials of this site is permitted without the written permission of M/I Homes, Inc. For information about the content or management of this site, e-mail the [webmaster.](mailto:comments@mihomes.com)  
    
 **Disclaimer:  ** Information presented is considered reliable, however, M/I Homes, Inc. does not guarantee the accuracy of any information for M/I Homes or Showcase Homes listed as the above pricing, availability, floor plans, elevations and features are all subject to change without notice. It is suggested that before visiting a property, contact the sales consultant to verify the information.   
  
