@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destaco.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204155238id_/http%3A//destaco.com/Portal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destaco.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603161958id_/http%3A//www.destaco.com/Portal/privacy-policy.html) for the most accurate reproduction.*
 
 # clamping
 
