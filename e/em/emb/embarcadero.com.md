@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210124631id_/http%3A//www.embarcadero.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621085200id_/http%3A//embarcadero.com/privacy.asp) for the most accurate reproduction.*
 
 # Embarcadero Tech: Privacy Statement
 
@@ -7,14 +7,14 @@ Embarcadero Privacy Statement
 
 * * *
 
-**© Copyright (1996-2002) Embarcadero Technologies, Inc.,  
+**© Copyright (1996-2003) Embarcadero Technologies, Inc.,  
 425 Market Street, Suite 425,   
 San Francisco, CA 94105 U.S.A.  
 All rights reserved.**
 
 * * *
 
-We can be reached via e-mail at [privacy@embarcadero.com](mailto:privacy@embarcadero.com) or you can reach us by telephone at 415-834-3131. 
+We can be reached via e-mail at [webmaster@embarcadero.com](mailto:webmaster@embarcadero.com) or you can reach us by telephone at 415-834-3131. 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
