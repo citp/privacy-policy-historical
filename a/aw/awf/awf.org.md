@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002172749id_/http%3A//awf.org/act/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604090148id_/http%3A//awf.org/act/privacy.php) for the most accurate reproduction.*
 
 # African Wildlife Foundation: Privacy Policy
 
