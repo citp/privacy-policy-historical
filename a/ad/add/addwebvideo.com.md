@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addwebvideo.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603180737id_/http%3A//www.playstream.com/tc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addwebvideo.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207124751id_/http%3A//www.playstream.com/tc/privacy.asp) for the most accurate reproduction.*
 
 # PlayStream - Terms and Conditions - Privacy Policy
 
@@ -88,7 +88,7 @@ PlayStream, LLC, is the sole owner of the information collected on our Sites. Pl
 
 We will share aggregated demographic information we collect on any of our Sites with selected third parties, including our partners and advertisers. This information is not linked to information that can identify any individual person.
 
-If you just subscribe to our newsletter, we will not share your email address with any third party, except in the event of a merger, qcquisition, or other change of corporate control of PlayStream..
+If you just subscribe to our newsletter, we will not share your email address with any third party, except in the event of a merger, acquisition, or other change of corporate control of PlayStream..
 
 If you provide us with credit card information, we will use that information to process your credit card transactions with us.  We do not share that information with any party that is not related to the direct processing and collection of those transactions. 
 
@@ -120,7 +120,7 @@ If a parent believes that his or her child has submitted personal information to
 > 
 > We also take the following significant steps to protect your information off-line. All of our your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees are each assigned a unique login and password, and must use this login and password to access customer records where your personal and confidential information is recorded and stored.  Our system provides an audit trail of modifications to customer records, which enables management to help monitor activity. Furthermore, all of our employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a firewall in secured premises. 
 > 
-> If you have any questions about the security at our Sites, you can send an email to [legal@playstream.com](mailto:legalprivacy@playstream.com).
+> If you have any questions about the security at our Sites, you can send an email to [legal@playstream.com](mailto:legal@playstream.com).
 
 **B. _PlayStream's Members' Web site_**
 
@@ -153,4 +153,4 @@ If you have any questions or complaints regarding this privacy Policy, you may c
 >  Seattle, WA 98101
 >> 
 >> FAX (206) 709.2396  
->  Email: [legal@playstream.com](mailto:legalprivacy@playstream.com)
+>  Email: [legal@playstream.com](mailto:legal@playstream.com)
