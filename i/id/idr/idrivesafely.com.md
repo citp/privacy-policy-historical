@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603005451id_/http%3A//www.idrivesafely.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205023327id_/http%3A//www.idrivesafely.com/policy.htm) for the most accurate reproduction.*
 
 # I DRIVE SAFELY
 
@@ -30,7 +30,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our user's information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customer's information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
 
-If you have any questions about the security at our website, you can send an email to [security@ContinuedEd.com](https://web.archive.org/web/20020603005451id_/http%3A//www.idrivesafely.com/security@continueded.com). 
+If you have any questions about the security at our website, you can send an email to [security@ContinuedEd.com](mailto:%20security@continueded.com). 
 
 |   
 |  **Special Notifications** |   
@@ -41,5 +41,5 @@ In addition to the registration and payment receipt emails that are sent to all 
 If a user's personally identifiable information changes (such as your zip code), we provide a way to correct or update that user's personal data provided to us. This can be done through our Road Rewards™ account access page or by emailing or calling our Customer Support (800) 723-1955.  |   
 |  **Preview/No Commitment** |   
 |    
-Our users are given the opportunity to "demo" our site prior to registration. We will not collect or require any personal information to be provided during this demo process.  |   
+Our users are given the opportunity to "demo" our site prior to payment.  |   
 | 
