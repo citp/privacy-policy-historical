@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the supermanhomepage.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermanhomepage.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/privacy.html) for the most accurate reproduction.*
 
 # Superman Homepage
 
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/whats-new.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/news.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/comics.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/movies.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/tv.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/radio.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/images.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/shop.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/multimedia.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/inter-action.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/other.html)  
-[](https://web.archive.org/web/20030207081432id_/http%3A//www.supermanhomepage.com/links.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/whats-new.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/news.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/comics.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/movies.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/tv.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/radio.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/images.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/shop.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/multimedia.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/inter-action.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/other.html)  
+[](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/links.html)  
   
 |   
 
 
 ### Superman Homepage Privacy Notice
 
-This is the website of SupermanHomepage.com. We can be reached via e-mail at [superman@younis.com.au](mailto:superman@younis.com.au)
+This is the website of SupermanHomepage.com. We can be reached via [e-mail](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/feedback.html).
 
 **Our Purpose:**
 
@@ -52,17 +52,17 @@ The only time you'll receive an email from the Superman Homepage is (a) as a rep
 
 If our information practices change at some time in the future we will prominently post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses.
 
-If you feel that this site is not following its stated information policy, you may [contact us](mailto:superman@younis.com.au).
+If you feel that this site is not following its stated information policy, you may [contact us](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/feedback.html).
 
-If you have any questions regarding this policy, you are encouraged to [contact us via email](mailto:superman@younis.com.au). 
-
-* * *
-
-  
-DISCLAIMER: SUPERMAN and all related elements are the property of DC Comics. TM & © 2002
+If you have any questions regarding this policy, you are encouraged to [contact us via email](https://web.archive.org/web/20031001092259id_/http%3A//www.supermanhomepage.com/feedback.html). 
 
 * * *
 
   
-This Superman Homepage is Copyright © ajgould 1995-96, Steven Younis 1996-2002  
+DISCLAIMER: SUPERMAN and all related elements are the property of DC Comics. TM & © 2003
+
+* * *
+
+  
+This Superman Homepage is Copyright © ajgould 1995-96, Steven Younis 1996-2003  
 All Rights Reserved 
