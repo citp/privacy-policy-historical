@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611235849id_/http%3A//www2.opb.org/insideopb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205080036id_/http%3A//www.opb.org/insideopb/privacy.html) for the most accurate reproduction.*
 
-# Inside OPB: Privacy Policy
+# Inside OPB
 
 **GATHERING AND USE OF INFORMATION**
 
@@ -27,3 +27,44 @@ OPB's Web site may contain links to other Internet Web sites. OPB encourages its
 By using this site, you signify your agreement to the terms and conditions of this OPB Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. OPB reserves the right, at its sole discretion, to change, modify, add or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the OPB Web site following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please email us at [webmaster@opb.org](mailto:webmaster@opb.org).
 
 Oregon Public Broadcasting
+
+|   |  | [FAQ](https://web.archive.org/insideopb/faq.html)  
+More information about OPB  
+---  
+[Employment](https://web.archive.org/insideopb/employment/)  
+Current job opportunities  
+[Community](https://web.archive.org/insideopb/community/)  
+Information on sponsored events and events calendar submitted by public  
+[Internships](https://web.archive.org/insideopb/internships/)  
+Information and application materials for internships  
+[Newsletters](https://web.archive.org/insideopb/newsletters/)  
+Subscribe to OPB's weekly enewletters and RSS news feeds  
+[Funding](https://web.archive.org/support/)  
+Information on OPB's funding and expenditures  
+[Directory](https://web.archive.org/insideopb/directory/)  
+Contact information for OPB's management  
+[Contact Us](https://web.archive.org/contactus/)  
+Send your suggestions or comments  
+---  
+**Maynard Orme**  
+President & CEO  
+  
+#### **OPB Mission Statement**
+
+The Mission of Oregon Public Broadcasting, an independent not-for-profit corporation, is to provide lifelong learning that informs, educates, and enriches people through the development and delivery of exemplary programming and services.
+
+#### **OPB Original Productions**
+
+[**Oregon Art Beat**](https://web.archive.org/programs/artbeat/)  
+Thursdays at 8pm and Sundays at 6pm, OPB TV
+
+**[Oregon Considered](http://www.publicbroadcasting.net/opb/news.newsmain?action=section&SECTION_ID=1)  
+**Mondays through Thursdays at 4:30-5pm, OPB Radio
+
+[**Oregon Field Guide**](https://web.archive.org/programs/ofg/)  
+Thursdays at 8:30pm and Sundays at 6:30pm, OPB TV
+
+[**Oregon Territory**](https://web.archive.org/programs/oregonterritory/)  
+Fridays at 4:30-5pm, OPB Radio
+
+**[The Oregon Story](https://web.archive.org/programs/oregonstory/) ** series explores Oregon's ever-changing social, cultural and economic relationships with the land.
