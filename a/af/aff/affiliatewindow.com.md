@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affiliatewindow.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214160042id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatewindow.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616161453id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.*
 
-# Affiliate Software from Affiliate Window
+# affiliate network - AffiliateWindow.com
 
 **What personally identifiable information is collected on this site?**  
 Visitors may supply personally identifiable information (such as name, address or telephone numbers) for various purposes on this site. These purposes include registering to receive e-mail newsletters, requesting further information about our products, or simply asking a question about Affiliate Window. Affiliate Window does not collect personal information from you unless you provide it to us. This means that you can visit our site without telling us who you are or revealing any personally identifiable information about yourself.
@@ -50,4 +50,4 @@ We use e-mail links located on this site to allow you to contact us directly via
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on Affiliate Window.
 
 **For more information**  
-If you have any questions, concerns or comments, please e-mail privacy@affiliatewindow.com 
+If you have any questions, concerns or comments, please e-mail [privacy@affiliatewindow.com](mailto:privacy@affiliatewindow.com)
