@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webreference.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620082956id_/http%3A//webreference.com/r/icp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webreference.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604120842id_/http%3A//webreference.com/r/icp) for the most accurate reproduction.*
 
 # Jupitermedia Privacy Policy
 
@@ -73,10 +73,6 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
 By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-Please send any questions about JUPM’s Privacy Policy to: [privacy@internet.com](mailto:privacy@internet.com)
+Please send any questions about JUPM's Privacy Policy to: [privacy@internet.com](mailto:privacy@jupitermedia.com)
 
-Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.internet.com/corporate/legal.html). 
-
-  
-[Legal Notices](http://www.internet.com/corporate/legal.html),  [Licensing](http://www.internet.com/corporate/reprints.html#Licensing), [Reprints](http://www.internet.com/corporate/reprints.html#Reprints), & [Permissions](http://www.internet.com/corporate/reprints.html#Permissions),  [Privacy Policy](http://www.internet.com/corporate/privacy/privacypolicy.html).  
-[](http://www.internet.com/)
+Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
