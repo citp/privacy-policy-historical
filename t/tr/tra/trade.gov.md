@@ -1,19 +1,7 @@
-> *The following text is extracted and transformed from the trade.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604001928id_/http%3A//www.trade.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade.gov privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210081607id_/http%3A//www.trade.gov/privacy.html) for the most accurate reproduction.*
 
 # International Trade Administration (ITA) Privacy Statement
 
-[](http://www.export.gov/)
-
-| 
-
-**International Trade Administration (ITA)  
-[](http://ita.doc.gov/) **
-
-|  |   
----|---|---|---  
-**[Trade Statistics](http://ita.doc.gov/tradestats)** |  ****[State Export Data](http://ese.export.gov/MapInfo2/intro.htm)**** |  **[Site Help](https://web.archive.org/web/20020604001928id_/http%3A//www.trade.gov/siteindex.html)** |  **[Trade Information Center](http://www.trade.gov/td/tic/)** |  **[Export America Magazine](http://www.trade.gov/exportamerica/)**  
----|---|---|---|---  
-  
 **International Trade Administration Web Site Privacy Policy**
 
 Effective Date: **_August 3, 2001_**
@@ -39,7 +27,7 @@ We do not collect or store information that can be used to personally identify v
 
 This information does not identify you personally. This information is used to provide better services to our site visitors.
 
-  * **Information Collected from E-Mail, Forms and through Site Registration:** If you send us an email, information you submit may be viewed by various people within the International Trade Administration, in an effort to respond to your request(s). Users are reminded that email is not necessarily secure against interception. If your communication is sensitive or includes personal information, you may want to send it to us by postal mail instead. If you register on one of our web sites to obtain a benefit, report a trade complaint or use any of our services, you may submit identifying information, such as name, title, name/size of company, address, phone number, and personal email address. Certain ITA services are reserved for U.S. firms only and we may use the registration information to contact you for verification purposes before allowing access to the requested ITA service. All information collected from the public on this site has been authorized by [The Office of Management and Budget (OMB)](http://www.whitehouse.gov/omb/index.html) as required under the [Paperwork Reduction Act](http://www.doc.gov/pra/pralaw.pdf).
+  * **Information Collected from E-Mail, Forms and through Site Registration:** If you send us an email, information you submit may be viewed by various people within the International Trade Administration, in an effort to respond to your request(s). Users are reminded that email is not necessarily secure against interception. If your communication is sensitive or includes personal information, you may want to send it to us by postal mail instead. If you register on one of our web sites to obtain a benefit, report a trade complaint or use any of our services, you may submit identifying information, such as name, title, name/size of company, address, phone number, and personal email address. Certain ITA services are reserved for U.S. firms only and we may use the registration information to contact you for verification purposes before allowing access to the requested ITA service. All information collected from the public on this site has been authorized by [The Office of Management and Budget (OMB)](http://www.whitehouse.gov/omb/index.html) as required under the [Paperwork Reduction Act](http://www.whitehouse.gov/omb/inforeg/pra_memo111401.pdf).
 
 
   * **Security, Intrusion, and Detection:** All data traffic is monitored in order to identify unauthorized attempts to upload or change information, or otherwise cause damage or conduct criminal activity for both site security purposes and to ensure that this service remains available to all users. All users are subject to having all of their activities monitored and recorded by authorized personnel to protect this web site from unauthorized use and to ensure that it is functioning properly. Anyone using this web site expressly consents to such monitoring and is advised that if there is evidence of possible abuse or criminal activity, the results of this monitoring shall be made available to appropriate officials for possible prosecution. Unauthorized attempts to upload or change information, or otherwise cause damage to this Web site, are strictly prohibited and may be punishable under applicable Federal law. 
@@ -49,6 +37,4 @@ This information does not identify you personally. This information is used to p
 
 
 
-For more information, please review the Department of Commerce Privacy Statement at [http://204.193.246.62/public.nsf/docs/privacy-statement](http://204.193.246.62/public.nsf/docs/privacy-statement).
-
-> 
+For more information, please review the Department of Commerce Privacy Statement at [http://www.commerce.gov/privacystatement.html](http://www.commerce.gov/privacystatement.html)
