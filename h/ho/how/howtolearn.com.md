@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtolearn.com privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619120708id_/http%3A//www.howtolearn.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtolearn.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209154504id_/http%3A//www.howtolearn.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Howtolearn.com - How to Learn Anything... FAST!!!
 
@@ -7,7 +7,7 @@
 
 Howtolearn.com is committed to safeguarding your privacy as you use this web site or order products.
 
-All information collected through this site will be kept confidential. It will not be sold, rented, traded, loaned, or otherwise disclosed to any other party unless we receive your explicit consent.
+All information collected through this site will be kept confidential.
 
 The Site contains links to other sites at which personal information may be collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
 
