@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resourcesgraphics.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201023045id_/http%3A//www.jarvisgroup.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcesgraphics.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155438id_/http%3A//www.jarvisgroup.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Jarvis Network Privacy Policy
 
