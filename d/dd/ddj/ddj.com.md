@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddj.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603063319id_/http%3A//www.ddj.com/ddj/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddj.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217223259id_/http%3A//www.ddj.com/ddj/privacy.htm) for the most accurate reproduction.*
 
 # DDJ Privacy Policy
 
