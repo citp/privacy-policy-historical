@@ -1,25 +1,24 @@
-> *The following text is extracted and transformed from the sexetc.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209221438id_/http%3A//www.sexetc.org/genPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexetc.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621220648id_/http%3A//www.sexetc.org/genPrivacy.asp) for the most accurate reproduction.*
 
-# SEX,ETC. -- A Website by Teens for Teens
+# SEX, ETC. - Privacy Statment
 
-|  |  |  **Network for Family Life Education**  
-**SEX, ETC. WEB SITE**
+Privacy Statement
 
-**PRIVACY STATEMENT**  
-  
----  
-It is our goal to respect your online privacy. Your visits to the _SEX, ETC_. Web site remain private and confidential.  
-  
-**_PLEASE NOTE: This site and the information you send to us is completely confidential UNLESS you tell us that you are harming or planning to harm yourself or others. We will also disclose information about you if we are required by law to do so._**  
-  
----  
+It is our goal to respect your online privacy. Your visits to the _SEX, ETC._ Web site remain private and confidential. 
+
+_**PLEASE NOTE: This site and the information you send to us is completely confidential UNLESS you tell us that you are harming or planning to harm yourself or others. We will also disclose information about you if we are required by law to do so.**_
+
 We collect non-personal information via IP addresses and cookies. An IP address is a numeric address assigned to your computer. We use IP addresses for system administration and security and to improve the value of the materials available on the site. Cookies are pieces of information that a Web site places in a file associated with your browser. This information also allows us to improve the usability of the site. 
 
 For example, we want to know how many people visit our site, what pages they view most frequently, and how long they spend on the site. However, we do not link IP addresses or cookies to anything personally identifiable. This means that a user's sessions will be logged, but the user will remain anonymous. 
 
-We only have access to personal identifying information, like your name, age or e-mail address if you voluntarily submit it. For example, users may decide to subscribe to receive an online subscription to _SEX, ETC_. Further, we will only use that information to respond to your specific request or e-mail, and the information will not be shared with or distributed to third parties. Information about users will only be shared with others in aggregate (for example, number of users per day) and no personally identifiable information will be disclosed. 
+We only have access to personal identifying information, like your first name, username, sex, age, country, zip code or e-mail address if you voluntarily submit it. The username selected by the user will also server as his/her “handle” when posting comments to the bulletin boards and chats. Thus, we encourage users to select an unidentifiable username. 
 
-We do operate public bulletin boards and any information you share in these areas becomes public information. **Please exercise caution when deciding to disclose personal information. _SEX, ETC_. urges you to never post personally identifiable information like your name, telephone number, home address or e-mail address.**
+Users may decide to become a member of _SEX, ETC._ Further, we will only use that information to respond to your specific request or e-mail, and the information will not be shared with or distributed to third parties. We use your e-mail address initially to allow you to opt-in to the _SEX, ETC._ Web site registration. The user will need to confirm their profile set up via this e-mail opt-in process. 
+
+All e-mails are opt-in and provide a link to unsubscribe to the e-mail list if the user so desires. Information about users will only be shared with others in aggregate (for example, number of users per day) and no personally identifiable information will be disclosed. 
+
+We do operate public bulletin boards and any information you share in these areas becomes public information. Please exercise caution when deciding to disclose personal information. _SEX, ETC._ urges you to never post personally identifiable information like your name, telephone number, home address or e-mail address. 
 
 If you have any questions or comments about the "Privacy Statement" outlined above, please call contact us at: 
 
@@ -27,6 +26,5 @@ Network for Family Life Education
 Rutgers University   
 41 Gordon Road, Suite A  
 Piscataway, NJ 08854   
-[sxetc@rci.rutgers.edu](mailto:sxetc@rci.rutgers.edu)  
-  
-| 
+[sexetc@rci.rutgers.edu](mailto:sexetc@rci.rutgers.edu)   
+
