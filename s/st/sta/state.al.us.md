@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the state.al.us privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406051312id_/http%3A//www.state.al.us/utility/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.al.us privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206232050id_/http%3A//www.state.al.us/utility/privacystatement.php) for the most accurate reproduction.*
 
-# alabama.gov - Privacy Statement
+# alabama.gov
 
 Privacy Statement
 
