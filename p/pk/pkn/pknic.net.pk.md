@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pknic.net.pk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602130447id_/http%3A//pknic.net.pk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pknic.net.pk privacy policy that was archived on 2003-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031218204209id_/http%3A//www.pknic.net.pk/privacy.htm) for the most accurate reproduction.*
 
 # PKNIC SRS - Privacy
 
