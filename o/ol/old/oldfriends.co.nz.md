@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldfriends.co.nz privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001222721id_/http%3A//oldfriends.co.nz/oldfriends/helpdocs/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldfriends.co.nz privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205712id_/http%3A//oldfriends.co.nz/oldfriends/helpdocs/privacy_policy.asp) for the most accurate reproduction.*
 
 # OldFriends.co.nz - Find your old friends! - School Reunions - New Zealand
 
@@ -12,7 +12,7 @@ We release account and other personal information only when we believe release i
 **Email**  
 It is the policy of OldFriends to send our members email from time to time. It is also our policy to immediately remove any member from our mailing list upon the member's request. In addition, OldFriends may send a monthly newsletter to members. Newsletters will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list. 
 
-We do use email as a means of receiving feedback from our members, and we encourage you to [email us](https://web.archive.org/web/20031001222721id_/http%3A//oldfriends.co.nz/oldfriends/helpdocs/contact_us.asp) with your questions or comments. 
+We do use email as a means of receiving feedback from our members, and we encourage you to [email us](https://web.archive.org/web/20040602205712id_/http%3A//oldfriends.co.nz/oldfriends/helpdocs/contact_us.asp) with your questions or comments. 
 
 **Emailing Tools**  
 OldFriends provides facilities throughout the site to refer a friend to OldFriends. We do not permanently store, sell, or rent these email messages or the email addresses. 
