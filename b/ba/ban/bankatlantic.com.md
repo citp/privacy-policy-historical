@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212140307id_/http%3A//bankatlantic.com/qaprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601122409id_/http%3A//bankatlantic.com/qaprivacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Q and A
 
@@ -49,7 +49,7 @@ If you do not wish to receive cookies, you can set your browser to alert you of 
 
  Customer data is stored in encrypted format in our Internet Banking database, and is transmitted in that encrypted format within the network.  Should you forget your password you will need to call our customer care department toll-free at 1-800-741-1700 so that it may be reset for you.
 
-For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our Privacy Policy.   For more detailed information on our Security Policy, please _[click here](https://web.archive.org/web/20011212140307id_/http%3A//bankatlantic.com/security.asp)_.
+For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our Privacy Policy.   For more detailed information on our Security Policy, please _[click here](https://web.archive.org/web/20020601122409id_/http%3A//bankatlantic.com/security.asp)_.
 
  **Back To Menu**
 
