@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asaptickets.com privacy policy that was archived on 2002-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020624000043id_/http%3A//www.asaptickets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asaptickets.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208092104id_/http%3A//www.asaptickets.com/privacy.html) for the most accurate reproduction.*
 
 # ASAP t i c k e t s
 
@@ -9,7 +9,7 @@ _Around the clock customer service. Mon - Sat_
   
 
 
-ASAPTickets.Com is extremely aware of your privacy concerns so we have a detailed explanation of all the information that we collect and it's uses. If you have any questions or suggestions please feel free to send us some [feedback](https://web.archive.org/web/20020624000043id_/http%3A//www.asaptickets.com/customerservice.html).  
+ASAPTickets.Com is extremely aware of your privacy concerns so we have a detailed explanation of all the information that we collect and it's uses. If you have any questions or suggestions please feel free to send us some [feedback](https://web.archive.org/web/20021208092104id_/http%3A//www.asaptickets.com/customerservice.html).  
 
 
 ####    
@@ -38,9 +38,9 @@ This site gives users the following options for removing their information from 
 
 #### **This site gives users the following options for changing and modifying information previously provided.**
 
-  1. email [admin@ASAPTickets.com](https://web.archive.org/web/20020624000043id_/http%3A//www.asaptickets.com/feedback.html)
+  1. email [admin@ASAPTickets.com](https://web.archive.org/web/20021208092104id_/http%3A//www.asaptickets.com/feedback.html)
 
 
 
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, go to our [customer service section](https://web.archive.org/web/20020624000043id_/http%3A//www.asaptickets.com/customerservice.html). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, go to our [customer service section](https://web.archive.org/web/20021208092104id_/http%3A//www.asaptickets.com/customerservice.html). 
