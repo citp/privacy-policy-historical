@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbsil.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605055633id_/http%3A//bcbsil.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbsil.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209045401id_/http%3A//www.bcbsil.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to BlueCross BlueShield of Illinois
 
@@ -35,7 +35,7 @@ Because we value your relationship with us, we have detailed below our privacy o
 
 > Please use your own best judgment when sending information via the Internet to an e-mail address. E-mail sent via the Internet may pass through private and public networks with varying levels of security. Some networks may have taken steps to secure e-mail transmissions while others have not, thereby compromising the privacy and integrity of an e-mail. An e-mail may be copied, altered or destroyed.
 
-> **If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find in our**[ Contact Us](https://web.archive.org/web/20020605055633id_/http%3A//bcbsil.com/member/contacts.htm) **section.**
+> **If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find in our**[ Contact Us](https://web.archive.org/web/20021209045401id_/http%3A//www.bcbsil.com/member/contacts.htm) **section.**
 
 > We preserve the content of your e-mail, your e-mail address and our response so that we can efficiently respond to questions you might have. We also do this in an effort to meet legal and regulatory requirements. 
 
@@ -48,7 +48,7 @@ Because we value your relationship with us, we have detailed below our privacy o
 
 > Again, please use your own best judgment when sending information via the Internet to an e-mail address. E-mail sent via the Internet may pass through private and public networks with varying levels of security. Some networks may have taken steps to secure e-mail transmissions while others have not, thereby compromising the privacy and integrity of an e-mail. An e-mail may be copied, altered or destroyed.
 
-> **If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find in our**[ Contact Us](https://web.archive.org/web/20020605055633id_/http%3A//bcbsil.com/member/contacts.htm) **section.**
+> **If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find in our**[ Contact Us](https://web.archive.org/web/20021209045401id_/http%3A//www.bcbsil.com/member/contacts.htm) **section.**
 
 > If you do provide personal information, such as an e-mail, telephone or fax number, or other identifying information, we do not plan to disclose it without your consent. We will plan to maintain this information, as well as any other transactions, according to our usual security and confidentiality standards.
 
