@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webink.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231061804id_/http%3A//www.webink.com/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webink.com privacy policy that was archived on 2005-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050218031353id_/http%3A//www.fido.net/policy/privacy.php) for the most accurate reproduction.*
 
 # Fido.Net: Privacy Policy
 
