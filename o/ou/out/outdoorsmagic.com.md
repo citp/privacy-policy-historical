@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205084709id_/http%3A//outdoorsmagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126220609id_/http%3A//www.outdoorsmagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # OUTDOORSmagic - Privacy Policy
 
