@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omg.org privacy policy that was archived on 2000-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001021055456id_/http%3A//www.omg.org/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omg.org privacy policy that was archived on 2001-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011107190542id_/http%3A//www.omg.org/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
