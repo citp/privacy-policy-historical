@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icv2.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603033009id_/http%3A//icv2.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icv2.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113018id_/http%3A//www.icv2.com/other/privacy.html) for the most accurate reproduction.*
 
 # ICv2 - Privacy Statement
 
