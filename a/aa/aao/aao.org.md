@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202124100id_/http%3A//www.eyenet.org/legal.html%23Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406220842id_/http%3A//www.eyenet.org/legal.html%23Privacy%2520Statement) for the most accurate reproduction.*
 
 # Copyright and Disclaimer
 
