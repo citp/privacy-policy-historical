@@ -1,62 +1,67 @@
-<!--The following is the downloaded HTML source of the bid4assets.com privacy policy that was archived on 2002-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021210133308id_/http%3A//www.bid4assets.com/Help/legal/privacypolicy.cfm%3Fct%3DfooterPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bid4assets.com privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603185509id_/http%3A//www.bid4assets.com/Help/legal/privacypolicy.cfm%3Fct%3DfooterPrivacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><script>
 	function help(helpType) {
-		popit=open("","DisplayWindow4","maximize=no,titlebar=0,resizable=yes,statusBar=yes,toolbar=no,scrollbars=auto,width=200,height=300,top=200,left=200");
+		popit=open("","DisplayWindow4","maximize=no,titlebar=0,resizable=yes,statusBar=yes,toolbar=no,scrollbars=yes,width=485,height=256,top=200,left=200");
 		popit.location.href = '/blocks/dsp_help.cfm?i=' + helpType;
+		popit.focus();
 		}
 	function TOS() {
 		popit=open("","DisplayWindow4","maximize=no,titlebar=0,resizable=yes,statusBar=no,toolbar=yes,scrollbars=yes,width=350,height=400,top=200,left=200");
 		popit.location.href = '/blocks/dsp_terms.cfm';
 		}
 	
+	//check if the cookie exists
+	function GetCookie (name) {  
+		var arg = name + "=";  
+		var alen = arg.length;  
+		var clen = document.cookie.length;  
+		var i = 0;  
+		while (i < clen) {    
+			var j = i + alen;    
+			if (document.cookie.substring(i, j) == arg)      
+			return getCookieVal (j);    
+			i = document.cookie.indexOf(" ", i) + 1;    
+			if (i == 0) break;   
+		}  
+		return null;
+	}
+	//get the value of the cookie
+	function getCookieVal(offset) {
+		var endstr = document.cookie.indexOf (";", offset);
+		if (endstr == -1)
+		endstr = document.cookie.length;
+		return unescape(document.cookie.substring(offset, endstr));
+	}
+	//open the pop up only once 
+	function openpopupNewUser(){
+		if(GetCookie('popUpCookie1')==null){
+			var exp = new Date();
+			var expDays = 100;
+			exp.setTime(exp.getTime() + (expDays*24*60*60*1000)); 
+			document.cookie="popUpCookie1=1; expires=" + exp.toGMTString();	
+			var popurl="/display/pop_USAir.cfm"
+			winpops=window.open(popurl,"","width=373,height=475,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,left=300,top=50")
+		}
+				
+	}
 </script>
 
 
-	
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-
-</head><body bgcolor="FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" marginheight="0" marginwidth="0" link="000000" vlink="000000" alink="000000" lang="EN-US" style="tab-interval:.5in"><map name="topNav">
-<area alt="Go to the bidders guide" coords="315,1,375,21" href="/Help/BidderGuide.cfm?ct=InsideTopNavBidderGuide">
-<area alt="Go to the sellers guide" coords="382,2,439,21" href="/Help/sellersGuide/SellerGuide.cfm?ct=InsideTopNavSellerGuide">
-<area alt="Go to products and services" coords="443,1,550,22" href="/products?ct=InsideTopNavProducts">
-<area alt="email alerts" coords="556,1,632,22" href="https://www.bid4assets.com/emailalerts?ct=InsideTopNavEmailAlerts">
-<area alt="about us" coords="637,1,698,22" href="/newsroom/index.cfm?ct=InsideTopNavNewsroom">
-</map>
-
+ </head><body bgcolor="FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" marginheight="0" marginwidth="0" link="000000" vlink="000000" alink="000000"><map name="topNav">
+	<area alt="Buyer Help" coords="224,0,319,23" href="http://www.bid4assets.com/Help/BidderGuide.cfm?ct=InsideTopNavBidderGuide">
+	<area alt="Seller Help" coords="320,0,413,23" href="http://www.bid4assets.com/Help/sellersGuide/SellerGuide.cfm?ct=InsideTopNavSellerGuide">
+	<area alt="Products and Services" coords="415,0,515,23" href="http://www.bid4assets.com/products?ct=InsideTopNavProducts">
+	<area alt="Email alerts" coords="522,0,597,23" href="https://secure.bid4assets.com/emailalerts?ct=InsideTopNavEmailAlerts">
+	<area alt="About us" coords="603,0,655,23" href="http://www.bid4assets.com/newsroom/index.cfm?ct=InsideTopNavNewsroom">
+	<area alt="FAQs" coords="659,0,783,32" href="http://www.bid4assets.com/help/FAQ/?ct=InsideTopNavNewsroom">
+</map> 
 
 <!--Server is Operational-->
 
 
-	
-		
-
-		
-			
-			
-			
-	
-		
-		
 	
 	
 	<title>Bid4Assets, Government Property Auctions, seized property bidding, Government Assets, Kmart Bankruptcy claim</title>
@@ -145,7 +150,7 @@
 	BODY, TD {
 		color : black;
 		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
-		font-size: 10pt;
+		font-size: 9pt;
 	}
 	
 	.orange {
@@ -171,14 +176,17 @@
 
 	SELECT {
 		background : #ffffff;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		font-style: normal;
 	}
 
 
 	INPUT {
-		background : #ffffff;
+		color: #000000;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
 		font-size: 11px;
 	}
-
 
 	.smallBoldNavy {
 		color : navy;
@@ -585,10 +593,27 @@
 			line-height: normal;
 			font-weight: normal;
 			color : #666666;	
+	}
+	.table_skyblue {
+		padding: 4px 5px 4px 5px;
+		border-color: #CCCCCC;
+		border-style: solid none solid none;
+		border-top-width: 1px;
+		border-right-width: 0px;
+		border-bottom-width: 1px;
+		border-left-width: 0px;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		font-style: normal;
+		line-height: normal;
+		font-weight: bold;
+		background-color : #E0F0FF;
+		color : #003399;
+	}				
 </style>
 <table cellpadding="0" cellspacing="0" border="0" width="700">
 	<tbody><tr>
-		<td><img src="/Images/headernew.gif" width="700" height="24" alt="" border="0" usemap="#topNav"></td>
+		<td><img src="http://a1900.g.akamai.net/n/1900/7375/35b54af5a6a824/www.bid4assets.com/Images/headernew.gif" width="700" height="24" alt="" border="0" usemap="#topNav"></td>
 	</tr>
 </tbody></table>
 
@@ -596,63 +621,16 @@
 <table cellpadding="0" cellspacing="0" border="0" width="700">
 	<tbody><tr>
 		<td width="200" valign="top" rowspan="2" nowrap="">
-			<img src="/Images/transparent.gif" width="167" height="7" alt="" border="0">
-			
-						
-						
-						<a href="http://www.bid4assets.com/"><img src="/Images/homepageheader/logowithtagline.gif" alt="Bid4Assets Home" border="0" width="167" height="92"></a>
-					
-					
-					
+			<img src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" width="167" height="7" alt="" border="0">
 				
-			
-			
-			
+						
+						<a href="http://www.bid4assets.com"><img src="http://a1412.g.akamai.net/n/1412/7375/f4e14ce8a7e60e/www.bid4assets.com/Images/homepageheader/logowithtagline.gif" alt="Bid4Assets Home" border="0" width="167" height="92"></a>
+					
 	 			<br><br><br>
 	 		
-			
-			
-			
-			
-			
-			 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-	
-		
-	
-		
-			
-		
-	
-
 
 <map name="custServMap">
-	<area href="mailto:services@bid4assets.com?subject=Need Help" coords="11,64,125,77">
+	<area href="mailto:service@bid4assets.com?subject=Need Help" coords="11,64,125,77">
 </map>
 
 
@@ -670,15 +648,13 @@
 
       
 	
-   
-
-	<table width="167" border="0" cellspacing="0" cellpadding="0">
+   <table width="167" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td align="left" valign="top" width="8" height="17" bgcolor="666666">&nbsp;</td>
 		<td align="left" valign="middle" width="100%" height="17" bgcolor="666666"> 
-            <p><b><img src="/Images//leftBar/header_channel.gif" width="132" height="17"></b></p>
+            <p><b><img src="http://a1732.g.akamai.net/n/1732/7375/ece67ab21118d4/www.bid4assets.com/Images/leftBar/header_channel.gif" width="132" height="17"></b></p>
         </td>
-		<td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="/Images//leftBar/roundright.gif" width="8" height="8"></td>
+		<td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="http://a924.g.akamai.net/n/924/7375/86a49d0fde6ced/www.bid4assets.com/Images/leftBar/roundright.gif" width="8" height="8"></td>
 	</tr>
 </tbody></table>
 		    
@@ -692,85 +668,65 @@
 						
  						<table width="100%" border="0" cellspacing="0" cellpadding="0">
 						
-						
-						
-							 
+						 
 							<tbody><tr>
-								<td valign="top"><a href="/realestate.html" class="smallBoldNavy02"><img align="middle" src="/Images/leftBar/arrow_blue.gif" width="20" height="9" border="0"></a><a href="/realestate.html" class="smallBoldNavy02" style="text-decoration: none">Real Estate</a>
+								<td valign="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=04" class="smallBoldNavy02"><img align="middle" src="http://a1748.g.akamai.net/n/1748/7375/1063d8c32e2d8b/www.bid4assets.com/Images/leftBar/arrow_blue.gif" width="20" height="9" border="0"></a><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=04" class="smallBoldNavy02" style="text-decoration: none">Real Estate</a>
 									<span class="smallNavyArial02"><br>
 										
+											<img src="http://a172.g.akamai.net/n/172/7375/b8ca3b4fe762a7/www.bid4assets.com/Images/leftbar/bullet_menu_blue.gif" width="28" height="12" align="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=drillDown&amp;rs=1&amp;channel=04&amp;category=03&amp;subCategory=04" style="text-decoration: none">Residential</a><br>
 										
-											
-											<img src="/Images/leftbar/bullet_menu_blue.gif" width="28" height="12" align="top"><a href="/realland.html" style="text-decoration: none">Land</a><br>
+											<img src="http://a172.g.akamai.net/n/172/7375/b8ca3b4fe762a7/www.bid4assets.com/Images/leftbar/bullet_menu_blue.gif" width="28" height="12" align="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=drillDown&amp;channel=04&amp;category=04" style="text-decoration: none">Timeshares</a><br>
 										
-											
-											<img src="/Images/leftbar/bullet_menu_blue.gif" width="28" height="12" align="top"><a href="/timeshares.html" style="text-decoration: none">Timeshares</a><br>
-										
-											
-											<img src="/Images/leftbar/bullet_menu_blue.gif" width="28" height="12" align="top"><a href="/realland.html" style="text-decoration: none">And more </a><br>
+											<img src="http://a172.g.akamai.net/n/172/7375/b8ca3b4fe762a7/www.bid4assets.com/Images/leftbar/bullet_menu_blue.gif" width="28" height="12" align="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=04&amp;category=03" style="text-decoration: none">And more </a><br>
 										
 									</span>
 								</td>
 							</tr>
 							
 							  <tr> 
-								<td background="/Images/leftBar/dotline.gif" height="1"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
+								<td background="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif" height="1"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
 							  </tr>
-							  
-						
-						
-							 
+							   
 							<tr>
-								<td valign="top"><a href="/personalproperty.html" class="smallBoldNavy02"><img align="middle" src="/Images/leftBar/arrow_orange.gif" width="20" height="9" border="0"></a><a href="/personalproperty.html" class="smallBoldNavy02" style="text-decoration: none">Personal Property</a>
+								<td valign="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=03" class="smallBoldNavy02"><img align="middle" src="http://a772.g.akamai.net/n/772/7375/dd70b1368cf843/www.bid4assets.com/Images/leftBar/arrow_orange.gif" width="20" height="9" border="0"></a><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=03" class="smallBoldNavy02" style="text-decoration: none">Personal Property</a>
 									<span class="smallNavyArial02"><br>
 										
+											<img src="http://a396.g.akamai.net/n/396/7375/fd42a6ad02ab8d/www.bid4assets.com/Images/leftbar/bullet_menu.gif" width="28" height="12" align="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=03&amp;category=17" style="text-decoration: none">Jewelry</a><br>
 										
-											
-											<img src="/Images/leftbar/bullet_menu.gif" width="28" height="12" align="top"><a href="/techassets.html" style="text-decoration: none">Computer Equipment</a><br>
+											<img src="http://a396.g.akamai.net/n/396/7375/fd42a6ad02ab8d/www.bid4assets.com/Images/leftbar/bullet_menu.gif" width="28" height="12" align="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=drillDown&amp;rs=1&amp;channel=03&amp;category=13&amp;subCategory=03" style="text-decoration: none">Vehicles</a><br>
 										
-											
-											<img src="/Images/leftbar/bullet_menu.gif" width="28" height="12" align="top"><a href="/jewelry.html" style="text-decoration: none">Jewelry</a><br>
+											<img src="http://a396.g.akamai.net/n/396/7375/fd42a6ad02ab8d/www.bid4assets.com/Images/leftbar/bullet_menu.gif" width="28" height="12" align="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=drillDown&amp;channel=03&amp;category=18" style="text-decoration: none">Artwork</a><br>
 										
-											
-											<img src="/Images/leftbar/bullet_menu.gif" width="28" height="12" align="top"><a href="/artwork.html" style="text-decoration: none">Artwork</a><br>
+											<img src="http://a396.g.akamai.net/n/396/7375/fd42a6ad02ab8d/www.bid4assets.com/Images/leftbar/bullet_menu.gif" width="28" height="12" align="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=03&amp;category=10" style="text-decoration: none">Inventory</a><br>
 										
 									</span>
 								</td>
 							</tr>
 							
 							  <tr> 
-								<td background="/Images/leftBar/dotline.gif" height="1"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
+								<td background="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif" height="1"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
 							  </tr>
-							  
-						
-						
-							 
+							   
 							<tr>
-								<td valign="top"><a href="/financial.html" class="smallBoldNavy02"><img align="middle" src="/Images/leftBar/arrow_green.gif" width="20" height="9" border="0"></a><a href="/financial.html" class="smallBoldNavy02" style="text-decoration: none">Financial Instruments &amp; IP</a>
+								<td valign="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=01" class="smallBoldNavy02"><img align="middle" src="http://a968.g.akamai.net/n/968/7375/f29cd20fdbe24f/www.bid4assets.com/Images/leftBar/arrow_green.gif" width="20" height="9" border="0"></a><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=01" class="smallBoldNavy02" style="text-decoration: none">Financial Instruments &amp; IP</a>
 									<span class="smallNavyArial02"><br>
-										
 										
 									</span>
 								</td>
 							</tr>
 							
 							  <tr> 
-								<td background="/Images/leftBar/dotline.gif" height="1"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
+								<td background="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif" height="1"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
 							  </tr>
-							  
-						
-						
-							 
+							   
 							<tr>
-								<td valign="top"><a href="/bankruptcy.html" class="smallBoldNavy02"><img align="middle" src="/Images/leftBar/arrow_purple.gif" width="20" height="9" border="0"></a><a href="/bankruptcy.html" class="smallBoldNavy02" style="text-decoration: none">Bankruptcy Claims</a>
+								<td valign="top"><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=05" class="smallBoldNavy02"><img align="middle" src="http://a712.g.akamai.net/n/712/7375/b54d84b4b32c0a/www.bid4assets.com/Images/leftBar/arrow_purple.gif" width="20" height="9" border="0"></a><a href="http://www.bid4assets.com/channel/index.cfm?fuseaction=05" class="smallBoldNavy02" style="text-decoration: none">Bankruptcy Claims</a>
 									<span class="smallNavyArial02"><br>
-										
 										
 									</span>
 								</td>
 							</tr>
-							
-							
+								
 				
 						</tbody></table>
 					
@@ -779,34 +735,36 @@
 			</tbody></table>
 			
 		</td>
-		<td align="left" valign="top" width="1" bgcolor="666666"><img src="/Images//leftBar/spacer.gif" width="1" height="1"></td>
+		<td align="left" valign="top" width="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
 	</tr>
 </tbody></table>
 
 <table width="167" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="/Images//leftBar/spacer.gif" width="1" height="1"></td>
+		<td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
 	</tr>
 </tbody></table>
-	 
+<script>
 
+function popuplogin(thisForm,w,h){
+	winpops=window.open(thisForm,"winpops","width="+w+",height="+h+",toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,left=200,top=300")
+	winpops.focus();
+}
 
-	  
-
-	
-	<table width="102" border="0" cellspacing="0" cellpadding="0" height="4">
+</script>
+<table width="102" border="0" cellspacing="0" cellpadding="0" height="4">
   <tbody><tr>
-  	<td height="4"><img src="/Images/leftBar/spacer.gif" width="1" height="4"></td>
+  	<td height="4"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="4"></td>
   </tr>
- </tbody></table>
+</tbody></table>
 
      <table width="167" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td align="left" valign="top" width="8" height="17" bgcolor="666666">&nbsp;</td>
           <td align="left" valign="middle" width="100%" height="17" bgcolor="666666"> 
-            <p><b><img src="/Images/leftBar/header_myb4a.gif" width="132" height="17"></b></p>
+            <p><b><img src="http://a724.g.akamai.net/n/724/7375/8cecffe232ffe1/www.bid4assets.com/Images/leftBar/header_myb4a.gif" width="132" height="17"></b></p>
           </td>
-          <td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="/Images/leftBar/roundright.gif" width="8" height="8"></td>
+          <td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="http://a924.g.akamai.net/n/924/7375/86a49d0fde6ced/www.bid4assets.com/Images/leftBar/roundright.gif" width="8" height="8"></td>
         </tr>
       </tbody></table>
      
@@ -819,7 +777,7 @@
 
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tbody><tr> 
-                    <td height="2"><img src="/Images/leftBar/spacer.gif" width="1" height="2"></td>
+                    <td height="2"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="2"></td>
                   </tr>
                 </tbody></table>
 
@@ -832,47 +790,49 @@
 <input type="hidden" name="returnPagePath" value="http://www.bid4assets.com/Help/legal/privacypolicy.cfm?ct=footerPrivacyPolicy">
 	<tbody><tr>
 		<td width="160" valign="top" colspan="2" align="center">
-			<table cellpadding="1" cellspacing="0" border="0" width="147">
-				<tbody><tr><td colspan="3" height="5"><img src="/Images/transparent.gif" alt="" border="0"></td></tr> 
-				
-
-					
-					<tr>
-						<td width="80" colspan="2"><font class="smallArial02">Username:</font><br><input type="text" name="username" size="10"></td>
-					</tr>
-					<tr>		
-						<td valign="middle" width="65%"><font class="smallArial02">Password:</font><br><input type="password" name="password" size="10"></td>
-						<td align="left" valign="middle" rowspan="2"><input align="middle" type="image" src="/Images/leftbar/button_go2.gif" alt="" border="0" name="login"></td>
-					</tr>
-					
-					
-					<tr align="center"> 
-						<td height="20" valign="bottom" colspan="2">
-							<font class="smallBoldNavy02">
-								<a href="https://www.bid4assets.com/register/?ct=LeftNavClickToRegister"></a>
-								<a href="https://www.bid4assets.com/register/?ct=LeftNavClickToRegister" style="text-decoration: none">Register Now</a> | 
-							</font>
-							<font class="smallArial02">
-					  			<a href="/index.cfm?fuseAction=forgotPassword&amp;ct=LeftNavForgotLogin" style="text-decoration: none">forgot login</a>
-							</font>
-						</td>
-				    </tr>
-	
-				
+			
+			<table width="164" border="0" cellspacing="0" cellpadding="0" height="87">
+				<tbody><tr>
+					<td bgcolor="#E5E5E5" valign="middle"> 
+						<table border="0" cellspacing="0" cellpadding="1" align="center">
+							<tbody><tr> 
+								<td align="center"><a href="https://secure.bid4assets.com/register/?fuseaction=startReg&amp;ct=LeftNavClickToRegister"><img src="http://a152.g.akamai.net/n/152/7375/0b832a62302556/www.bid4assets.com/Images/Leftbar/registernow.gif" width="149" height="20" vspace="4" border="0"></a></td>
+							</tr>
+							<tr align="center"> 
+								<td><b class="smallArial02"><a href="https://secure.bid4assets.com/myb4a?fuseaction=startMyB4A" style="text-decoration: none">My Bid4Assets</a></b></td>
+							</tr>
+							<tr align="center"> 
+								<td><img src="http://a732.g.akamai.net/n/732/7375/f29ffaeeedeeaf/www.bid4assets.com/Images/Leftbar/ruleH.gif" width="149" height="2"></td>
+							</tr>
+							<tr align="center"> 
+								<td><b class="smallArial02"><a href="https://secure.bid4assets.com/register/index.cfm?fuseaction=startUpdate" style="text-decoration: none">Update Profile</a></b></td>
+							</tr>
+							<tr align="center"> 
+								<td><img src="http://a732.g.akamai.net/n/732/7375/f29ffaeeedeeaf/www.bid4assets.com/Images/Leftbar/ruleH.gif" width="149" height="2"></td>
+							</tr>
+						</tbody></table>
+						<table border="0" cellspacing="0" cellpadding="1" align="center">
+							<tbody><tr valign="middle"> 
+								<td><b class="smallArial02"><a href="javascript:popuplogin('/display/loginInfo.html', 205,250)" style="text-decoration: none">Login</a></b></td>
+								<td><img src="http://a652.g.akamai.net/n/652/7375/7621d8f64ad5ff/www.bid4assets.com/Images/Leftbar/ruleV.gif" width="2" height="12" hspace="3"></td>
+								
+									<td><b class="smallArial02"><a href="/index.cfm?fuseAction=forgotPassword&amp;ct=LeftNavForgotLogin" style="text-decoration: none">Forgot Login?</a></b></td>
+								
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
 			</tbody></table>
 		</td>
 	</tr>
  
  
-   
-    <tr> 
-        <td height="5" valign="middle" align="center" colspan="2"><img src="/Images/leftBar/spacer.gif" width="1" height="5"></td>
-    </tr>
+
 
  </tbody></table>
   <table width="166" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr> 
-		<td height="1" bgcolor="E5E5E5"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
+		<td height="1" bgcolor="E5E5E5"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
 	</tr>
  </tbody></table>
 	 
@@ -880,28 +840,132 @@
  </td></tr></tbody></table>
      
 	    </td>
-        <td align="left" valign="top" width="1" bgcolor="666666"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
+        <td align="left" valign="top" width="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
         </tr>
       </tbody></table>
      
 	  <table width="167" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
+          <td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
         </tr>
       </tbody></table>
       
 	<table width="100" border="0" cellspacing="0" cellpadding="0" height="4">
 	  <tbody><tr> 
-	     <td height="4"><img src="/Images/leftBar/spacer.gif" width="1" height="4"></td>
+	     <td height="4"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="4"></td>
 	 </tr>
-	</tbody></table>
+	</tbody></table> 
 
+	
+	
+
+		
+		
+		
+			
+		
+		
+		
+		
+		
+		
+		
+			
+		
+			
+		
+			
+		
+		
+		
+		
+		  
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+				
+				
+				
+				
+				
+				
+				
+				
+			
+				
+			
+		
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+	 
+	 <!-- what's hot header -->
+	  <table width="167" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top" width="8" height="17" bgcolor="666666">&nbsp;</td>
+          <td align="left" valign="middle" width="100%" height="17" bgcolor="666666"> 
+            <p><b><img src="http://a292.g.akamai.net/n/292/7375/4a3b0c92d7b235/www.bid4assets.com/Images/leftBar/header_whatshot.gif" width="132" height="17" border="0"></b></p>
+          </td>
+          <td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="http://a924.g.akamai.net/n/924/7375/86a49d0fde6ced/www.bid4assets.com/Images/leftBar/roundright.gif" width="8" height="8"></td>
+        </tr>
+      </tbody></table>
+	  
+	  <!-- what's hot graphics -->
+	  <table width="166" border="0" cellspacing="0" cellpadding="0">
+	  	<tbody><tr>
+        <td align="left" valign="top" width="166"> 
+
+          <table width="166" border="0" cellspacing="0" bgcolor="E5E5E5" cellpadding="0">
+            <tbody><tr> 
+              <td align="left" valign="top" width="166" height="108">
+			  <!-- display results found for  what's hot and limit return to just one row-->
+			  
+			  	<a href="/channel/index.cfm?fuseaction=procLotab&amp;lotabID=1921"><img src="http://a764.g.akamai.net/n/764/7375/ddb5736e0c4364/www.bid4assets.com/Images/leftbar/00/wh_ventura2.gif" border="0"></a>
+			  
+			 </td>
+            </tr>
+          </tbody></table>
+
+        </td>
+        <td align="left" valign="top" width="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
+        </tr>
+      </tbody></table>
+
+      <table width="167" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
+        </tr>
+      </tbody></table>
+
+ 
+      
+	  
+	  
+<table width="100" border="0" cellspacing="0" cellpadding="0" height="4">
+  <tbody><tr> 
+     <td height="4"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="4"></td>
+  </tr>
+</tbody></table>
 
 	  
-
   
-  
-   
   
 	
 	 
@@ -912,18 +976,16 @@
 		
 		
 		
-		
-
-  	
+			
 	 
 	 
 	 <table width="167" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td align="left" valign="top" width="8" height="17" bgcolor="666666">&nbsp;</td>
           <td align="left" valign="middle" width="100%" height="17" bgcolor="666666">
-		  	<p><b><img src="/Images//leftBar/header_specialopp.gif" width="140" height="17"></b></p>
+		  	<p><b><img src="http://a172.g.akamai.net/n/172/7375/36dd6d42244965/www.bid4assets.com/Images/leftBar/header_specialopp.gif" width="140" height="17"></b></p>
           </td>
-          <td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="/Images//leftBar/roundright.gif" width="8" height="8"></td>
+          <td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="http://a924.g.akamai.net/n/924/7375/86a49d0fde6ced/www.bid4assets.com/Images/leftBar/roundright.gif" width="8" height="8"></td>
         </tr>
       </tbody></table>
   
@@ -941,10 +1003,7 @@
 					  
 					  
 					  
-					
-					  
-					  
-					 		<img src="/Images/leftBar/arrow_blue.gif" alt="" border="0" align="absmiddle">
+					 		<img src="http://a1748.g.akamai.net/n/1748/7375/1063d8c32e2d8b/www.bid4assets.com/Images/leftBar/arrow_blue.gif" alt="" border="0" align="absmiddle">
 						  
 					  
 					  
@@ -954,15 +1013,11 @@
 						
 						<table width="100%" border="0" cellspacing="0" cellpadding="0">
 						  <tbody><tr>
-							<td background="/Images/leftBar/dotline.gif"><img height="1" width="1" src="/Images/leftBar/dotline.gif" alt="" border="0" align="absmiddle"></td>
+							<td background="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif"><img height="1" width="1" src="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif" alt="" border="0" align="absmiddle"></td>
 						  </tr>
 						</tbody></table>
 						
-					  
-					
-					  
-					  
-						  	<img src="/Images/leftBar/arrow_orange.gif" alt="" border="0" align="absmiddle">
+						  	<img src="http://a772.g.akamai.net/n/772/7375/dd70b1368cf843/www.bid4assets.com/Images/leftBar/arrow_orange.gif" alt="" border="0" align="absmiddle">
 						  
 					  
 					  
@@ -972,15 +1027,11 @@
 						
 						<table width="100%" border="0" cellspacing="0" cellpadding="0">
 						  <tbody><tr>
-							<td background="/Images/leftBar/dotline.gif"><img height="1" width="1" src="/Images/leftBar/dotline.gif" alt="" border="0" align="absmiddle"></td>
+							<td background="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif"><img height="1" width="1" src="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif" alt="" border="0" align="absmiddle"></td>
 						  </tr>
 						</tbody></table>
 						
-					  
-					
-					  
-					  
-					 		<img src="/Images/leftBar/arrow_blue.gif" alt="" border="0" align="absmiddle">
+					 		<img src="http://a1748.g.akamai.net/n/1748/7375/1063d8c32e2d8b/www.bid4assets.com/Images/leftBar/arrow_blue.gif" alt="" border="0" align="absmiddle">
 						  
 					  
 					  
@@ -990,23 +1041,32 @@
 						
 						<table width="100%" border="0" cellspacing="0" cellpadding="0">
 						  <tbody><tr>
-							<td background="/Images/leftBar/dotline.gif"><img height="1" width="1" src="/Images/leftBar/dotline.gif" alt="" border="0" align="absmiddle"></td>
+							<td background="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif"><img height="1" width="1" src="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif" alt="" border="0" align="absmiddle"></td>
 						  </tr>
 						</tbody></table>
 						
-					  
-					
-					  
-					  
-						  	<img src="/Images/leftBar/arrow_orange.gif" alt="" border="0" align="absmiddle">
+					 		<img src="http://a1748.g.akamai.net/n/1748/7375/1063d8c32e2d8b/www.bid4assets.com/Images/leftBar/arrow_blue.gif" alt="" border="0" align="absmiddle">
 						  
 					  
 					  
-					  	<a href="/index.cfm?fuseaction=procLotab&amp;lotabID=187" class="smallBoldNavy02" style="text-decoration: none">Tech Assets</a>
+					  	<a href="/index.cfm?fuseaction=procLotab&amp;lotabID=1874" class="smallBoldNavy02" style="text-decoration: none">Ventura Cty CA Tax Sale</a>
 
 					 	
 						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						  <tbody><tr>
+							<td background="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif"><img height="1" width="1" src="http://a1388.g.akamai.net/n/1388/7375/46c5a45f244164/www.bid4assets.com/Images/leftBar/dotline.gif" alt="" border="0" align="absmiddle"></td>
+						  </tr>
+						</tbody></table>
+						
+					 		<img src="http://a1748.g.akamai.net/n/1748/7375/1063d8c32e2d8b/www.bid4assets.com/Images/leftBar/arrow_blue.gif" alt="" border="0" align="absmiddle">
+						  
 					  
+					  
+					  	<a href="/index.cfm?fuseaction=procLotab&amp;lotabID=1934" class="smallBoldNavy02" style="text-decoration: none">Modoc County CA Tax Sale</a>
+
+					 	
+						
 					  	
 					  </td>
                   </tr>
@@ -1017,124 +1077,78 @@
     </tbody></table>
 	 
  	</td>
- 	<td align="left" valign="top" width="1" bgcolor="666666"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
+ 	<td align="left" valign="top" width="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
   </tr>
  </tbody></table>
       
 <table width="167" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
+    <td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
       
 <table width="100" border="0" cellspacing="0" cellpadding="0" height="4">
   <tbody><tr> 
-    <td height="4"><img src="/Images//leftBar/spacer.gif" width="1" height="4"></td>
+    <td height="4"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="4"></td>
   </tr>
-</tbody></table>
-  
+</tbody></table> 
 
 
 
-
-
-
-		
-
-
-	
- 	
-
-	
-	
-
-		
-		
-		
-			
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-		
-		
-		  
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		 
-  	
-
-  		
-	 
-	 <!-- what's hot header -->
-	  <table width="167" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td align="left" valign="top" width="8" height="17" bgcolor="666666">&nbsp;</td>
-          <td align="left" valign="middle" width="100%" height="17" bgcolor="666666"> 
-            <p><b><img src="/Images//leftBar/header_whatshot.gif" width="132" height="17" border="0"></b></p>
-          </td>
-          <td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="/Images//leftBar/roundright.gif" width="8" height="8"></td>
-        </tr>
-      </tbody></table>
-	  
-	  <!-- what's hot graphics -->
-	  <table width="166" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr><td align="left" valign="top" width="166"> 
-
+ <table width="167" border="0" cellspacing="0" cellpadding="0">
+     <tbody><tr> 
+       <td align="left" valign="top" width="8" height="17" bgcolor="666666">&nbsp;</td>
+       <td align="left" valign="middle" width="100%" height="17" bgcolor="666666"> 
+         <p><b><img src="http://a1108.g.akamai.net/n/1108/7375/7e0a60e8df9323/www.bid4assets.com/Images/leftBar/header_whatsnew.gif" width="132" height="17"></b></p>
+       </td>
+       <td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="http://a924.g.akamai.net/n/924/7375/86a49d0fde6ced/www.bid4assets.com/Images/leftBar/roundright.gif" width="8" height="8"></td>
+     </tr>
+   </tbody></table>
+   <table width="166" border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+        <td align="left" valign="top" width="166"> 
           <table width="166" border="0" cellspacing="0" bgcolor="E5E5E5" cellpadding="0">
             <tbody><tr> 
-              <td align="left" valign="top" width="166" height="108">
-			  <!-- display results found for  what's hot and limit return to just one row-->
-			  
-			  	<a href="/channel/index.cfm?fuseaction=procLotab&amp;lotabID=540"><img src="/Images/leftbar/00/wh_jewelryHoliday.gif" border="0"></a>
-			  
-			 </td>
-            </tr>
-          </tbody></table>
+              	<td align="center" valign="top" width="166"> 
+		           <table width="138" border="0" cellspacing="0" cellpadding="0">
+	             <tbody><tr>
+	               <td height="5" align="left" valign="top"><a href="http://www.bid4assets.com/marketing/feedback/?fuseaction=buyers" class="smallBoldNavyArial" style="text-decoration: none"><img border="0" src="http://a1896.g.akamai.net/n/1896/7375/5e177f070f8e7b/www.bid4assets.com/Images/leftBar/whatsnew_feedback.gif" width="166" height="42"></a></td>
+	             </tr>
+	           </tbody></table>
+	           
+			   <table width="166" border="0" cellspacing="0" cellpadding="0">
+	            <tbody><tr> 
+	              <td height="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
+	            </tr>
+	          </tbody></table>
+             
+				</td>
+	        	<td align="left" valign="top" width="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
+		     </tr>
+		  </tbody></table>
+		</td>
+	 	</tr>
+  	</tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" height="4">
+		<tbody><tr> 
+			<td height="4"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="4"></td>
+		</tr>
+	</tbody></table>
 
-        </td>
-        <td align="left" valign="top" width="1" bgcolor="666666"><img src="/Images//leftBar/spacer.gif" width="1" height="1"></td>
-        </tr>
-      </tbody></table>
 
-      <table width="167" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="/Images//leftBar/spacer.gif" width="1" height="1"></td>
-        </tr>
-      </tbody></table>
- 
-      
-	  
 
+
+<table width="100" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+     <td><a href="http://www.bid4assets.com/marketing/charity/"><img src="http://a584.g.akamai.net/n/584/7375/b98a877f436654/www.bid4assets.com/Images/home/cg_leftnav.gif" border="0"></a></td>
+  </tr>
+</tbody></table>	 
+	 
  	  
 	  
 <table width="100" border="0" cellspacing="0" cellpadding="0" height="4">
   <tbody><tr> 
-     <td height="4"><img src="/Images/leftBar/spacer.gif" width="1" height="4"></td>
+     <td height="4"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="4"></td>
   </tr>
 </tbody></table>
 
@@ -1142,83 +1156,78 @@
         <tbody><tr> 
           <td align="left" valign="top" width="8" height="17" bgcolor="666666">&nbsp;</td>
           <td align="left" valign="middle" width="100%" height="17" bgcolor="666666"> 
-            <p><b><a href="/search/index.cfm"><img src="/Images/leftBar/header_search.gif" width="132" height="17" border="0"></a></b></p>
+            <p><b><a href="/search/index.cfm"><img src="http://a504.g.akamai.net/n/504/7375/17fd228c661a34/www.bid4assets.com/Images/leftBar/header_search.gif" width="132" height="17" border="0"></a></b></p>
           </td>
-          <td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="/Images/leftBar/roundright.gif" width="8" height="8"></td>
+          <td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="http://a924.g.akamai.net/n/924/7375/86a49d0fde6ced/www.bid4assets.com/Images/leftBar/roundright.gif" width="8" height="8"></td>
         </tr>
       </tbody></table>
 
       <table width="166" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr><td align="left" valign="top" width="166"> 
-
+	  	<tbody><tr>
+        <td align="left" valign="top" width="166"> 
           <table width="166" border="0" cellspacing="0" bgcolor="E5E5E5" cellpadding="0">
             <tbody><tr> 
-              <td align="center" valign="top" width="166"> 
+              	<td align="center" valign="top" width="166"> 
 
-                <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>     
-                		<td height="5"><img src="/Images/leftBar/spacer.gif" width="1" height="8"><img src="/Images/leftBar/spacer.gif" width="8" height="5"></td>
-                  </tr>
-                </tbody></table>
+                	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                	  	<tbody><tr>     
+                			<td height="5"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="8"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="8" height="5"></td>
+                 		</tr>
+               		 </tbody></table>
     	              
-         	       
-            <table width="138" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="7%"> 
-			
-                  <input type="hidden" name="StartRow" value="1">
-                  <input type="hidden" name="MaxRows" value="50">
-                  <input type="hidden" name="Type" value="auctions">
-				  
+	         	       
+		            <table width="138" border="0" cellspacing="0" cellpadding="0">
+	              <tbody><tr> 
+	                <td width="7%"> 
 				
+	                  <input type="hidden" name="StartRow" value="1">
+	                  <input type="hidden" name="MaxRows" value="50">
+	                  <input type="hidden" name="Type" value="auctions">
+					  
 					
-				
-				<font class="smallArial02">Keyword:</font><br>
-				<input type="text" name="criteria" value="" size="8"> <input align="middle" type="image" src="/Images/leftbar/button_go2.gif" alt="" border="0" name="search">
-				</td>
-              
-              </tr>
-
-		
-				
-		
-						
-              <tr align="left"> 
-                <td colspan="2"><img src="/Images/leftBar/arrowL.gif" alt="Bid4Assets Government Property Auctions, seized property bidding, Government Assets, Kmart Bankruptcy claim" border="0" width="12" height="7"><a href="/search/index.cfm" class="smallBoldNavy02" style="text-decoration: none">power search</a> </td>
-              </tr>
-            </tbody></table>
-			
-			
-				  
-           <table width="138" border="0" cellspacing="0" cellpadding="0">
-             <tbody><tr>
-               <td height="5" align="left" valign="top"><img src="/Images/leftBar/spacer.gif" width="8" height="5"></td>
-             </tr>
-           </tbody></table>
-           
-		   <table width="166" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr> 
-              <td height="1" bgcolor="666666"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
-            </tr>
-          </tbody></table>
-             
-		</td>
-        <td align="left" valign="top" width="1" bgcolor="666666"><img src="/Images/leftBar/spacer.gif" width="1" height="1"></td>
-     </tr>
-  </tbody></table>
+					<font class="smallArial02">Keyword:</font><br>
+					<input type="text" name="criteria" value="" size="8"> <input align="middle" type="image" src="http://a724.g.akamai.net/n/724/7375/f001fb96ae97c2/www.bid4assets.com/Images/leftbar/button_go2.gif" alt="" border="0" name="search">
+					</td>
+	              
+	              </tr>
 	
+					
+							
+	              <tr align="left"> 
+	                <td colspan="2"><img src="http://a188.g.akamai.net/n/188/7375/96af767a1fd448/www.bid4assets.com/Images/leftBar/arrowL.gif" alt="Bid4Assets Government Property Auctions, seized property bidding, Government Assets, Kmart Bankruptcy claim" border="0" width="12" height="7"><a href="http://www.bid4assets.com/search/index.cfm" class="smallBoldNavy02" style="text-decoration: none">power search</a> </td>
+	              </tr>
+	            </tbody></table>
+				
+				
+				  
+		           <table width="138" border="0" cellspacing="0" cellpadding="0">
+	             <tbody><tr>
+	               <td height="5" align="left" valign="top"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="8" height="5"></td>
+	             </tr>
+	           </tbody></table>
+	           
+			   <table width="166" border="0" cellspacing="0" cellpadding="0">
+	            <tbody><tr> 
+	              <td height="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
+	            </tr>
+	          </tbody></table>
+             
+				</td>
+	        	<td align="left" valign="top" width="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
+		     </tr>
+		  </tbody></table>
+		</td>
+	 	</tr>
+  	</tbody></table>
 	
 	 
 	
 					
 	  	
-		  	
    
-
-	
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" height="4">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="4">
 	<tbody><tr>
-		<td height="4"><img src="/Images//leftBar/spacer.gif" width="1" height="4"></td>
+		<td height="4"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="4"></td>
 	</tr>
 </tbody></table>
 
@@ -1226,9 +1235,9 @@
 	<tbody><tr>
 		<td align="left" valign="top" width="8" height="17" bgcolor="666666">&nbsp;</td>
 		<td align="left" valign="middle" width="100%" height="17" bgcolor="666666"> 
-            <p><b><a href="/newsroom/?ct=FooterNewsroom"><img src="/Images//leftBar/header_inthenews.gif" width="132" height="17" border="0"></a></b></p>
+            <p><b><a href="/newsroom/?ct=FooterNewsroom"><img src="http://a808.g.akamai.net/n/808/7375/6b6a0bf070917f/www.bid4assets.com/Images/leftBar/header_inthenews.gif" width="132" height="17" border="0"></a></b></p>
 		</td>
-		<td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="/Images//leftBar/roundright.gif" width="8" height="8"></td>
+		<td align="left" valign="top" width="8" height="17" bgcolor="666666"><img src="http://a924.g.akamai.net/n/924/7375/86a49d0fde6ced/www.bid4assets.com/Images/leftBar/roundright.gif" width="8" height="8"></td>
 	</tr>
 </tbody></table>
 
@@ -1237,7 +1246,7 @@
     
 		<table width="166" border="0" cellspacing="0" bgcolor="E5E5E5" cellpadding="0">
 			<tbody><tr>
-				<td colspan="2" height="10" valign="top"><img width="1" height="1" src="/Images/transparent.gif" alt="" border="0"></td>
+				<td colspan="2" height="10" valign="top"><img width="1" height="1" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 			</tr>
 		
 			<tr>
@@ -1246,83 +1255,78 @@
 
 						
 							<tbody><tr>
-								<td width="2%"><img width="1" height="1" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td width="2%"><img width="1" height="1" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 								<td valign="top"><font class="smallArial"><b>-</b></font></td>
 								<td>
 									
 									
+										<a href="http://a1532.g.akamai.net/n/1532/7375/c4bc97aba178d2/www.bid4assets.com/images/uploads/395.pdf">
 									
-										<a href="/images/uploads/315.pdf">
-									
-									<font class="smallArial">Online Auctioneers Squeeze Money Out of Firms' Mistakes</font></a>
+									<font class="smallArial">Online Auctions are a Bargain for Property</font></a>
 								</td>
 							</tr>
 							<tr>
-								<td colspan="3"><img width="1" height="10" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td colspan="3"><img width="1" height="10" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 							</tr>
 						
 							<tr>
-								<td width="2%"><img width="1" height="1" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td width="2%"><img width="1" height="1" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 								<td valign="top"><font class="smallArial"><b>-</b></font></td>
 								<td>
 									
 									
+										<a href="http://a240.g.akamai.net/n/240/7375/344d622fe26961/www.bid4assets.com/images/uploads/363.pdf">
 									
-										<a href="/images/uploads/308.pdf">
-									
-									<font class="smallArial">Online Auctioneer Keeps Going, Going</font></a>
+									<font class="smallArial">Asset Forfeiture Improved By Web Sales</font></a>
 								</td>
 							</tr>
 							<tr>
-								<td colspan="3"><img width="1" height="10" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td colspan="3"><img width="1" height="10" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 							</tr>
 						
 							<tr>
-								<td width="2%"><img width="1" height="1" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td width="2%"><img width="1" height="1" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 								<td valign="top"><font class="smallArial"><b>-</b></font></td>
 								<td>
 									
 									
+										<a href="http://a1120.g.akamai.net/n/1120/7375/102d5c60aab6cb/www.bid4assets.com/images/uploads/362.pdf">
 									
-										<a href="/images/uploads/301.pdf">
-									
-									<font class="smallArial">County Reaps Money From Internet Auction</font></a>
+									<font class="smallArial">County Offering Timeshares in Online Auction</font></a>
 								</td>
 							</tr>
 							<tr>
-								<td colspan="3"><img width="1" height="10" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td colspan="3"><img width="1" height="10" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 							</tr>
 						
 							<tr>
-								<td width="2%"><img width="1" height="1" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td width="2%"><img width="1" height="1" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 								<td valign="top"><font class="smallArial"><b>-</b></font></td>
 								<td>
 									
 									
+										<a href="http://a508.g.akamai.net/n/508/7375/33945c0cc906fd/www.bid4assets.com/images/uploads/358.pdf">
 									
-										<a href="/images/uploads/295.pdf">
-									
-									<font class="smallArial">Winner: Best New Idea</font></a>
+									<font class="smallArial">U.S. Marshals Service Doubles Online Auctions</font></a>
 								</td>
 							</tr>
 							<tr>
-								<td colspan="3"><img width="1" height="10" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td colspan="3"><img width="1" height="10" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 							</tr>
 						
 							<tr>
-								<td width="2%"><img width="1" height="1" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td width="2%"><img width="1" height="1" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 								<td valign="top"><font class="smallArial"><b>-</b></font></td>
 								<td>
 									
 									
+										<a href="http://a528.g.akamai.net/n/528/7375/0643d71516e680/www.bid4assets.com/images/uploads/357.pdf">
 									
-										<a href="/images/uploads/292.pdf">
-									
-									<font class="smallArial">Trade Claim News: Selling Bankruptcy Claims</font></a>
+									<font class="smallArial">Going Once!  Hot Cars, Stolen Yachts</font></a>
 								</td>
 							</tr>
 							<tr>
-								<td colspan="3"><img width="1" height="10" src="/Images/transparent.gif" alt="" border="0"></td>
+								<td colspan="3"><img width="1" height="10" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
 							</tr>
 						
 
@@ -1331,47 +1335,44 @@
 			
 			</tr></tbody></table>
 		</td>
-		<td align="left" valign="top" width="1" bgcolor="666666"><img src="/Images//leftBar/spacer.gif" width="1" height="1">
+		<td align="left" valign="top" width="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1">
 		</td>
 	</tr>
 </tbody></table>
 
 <table width="167" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="/Images//leftBar/spacer.gif" width="1" height="1"></td>
+		<td align="left" valign="top" width="167" height="1" bgcolor="666666"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="1"></td>
 	</tr>
 </tbody></table>
 
-	
-		
+
 		
 
 	
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" height="4">
 			<tbody><tr> 
-				<td height="4"><img src="/Images/leftBar/spacer.gif" width="1" height="4"></td>
+				<td height="4"><img src="http://a1372.g.akamai.net/n/1372/7375/f26805de1a1f27/www.bid4assets.com/Images/leftBar/spacer.gif" width="1" height="4"></td>
 			</tr>
 		</tbody></table>
 	
 		<table width="167" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr> 
 				<td align="left" valign="middle" width="100%" height="17"> 
-					<img src="/Images/leftBar/customercare.gif" width="167" height="108" alt="Customer Service" border="0" usemap="#custServMap">
+					<img src="http://a712.g.akamai.net/n/712/7375/a70498f68a8bc8/www.bid4assets.com/Images/leftBar/customercare.gif" width="167" height="108" alt="Customer Service" border="0" usemap="#custServMap">
 				</td>
 			</tr>
 		</tbody></table>
 		
 	
-	</td></tr><tr>
-</tr></tbody></table>
 
 
 	
-<table width="166" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td colspan="2" height="10" valign="top"><img width="1" height="1" src="/Images/transparent.gif" alt="" border="0"></td>
-	</tr>
-</tbody></table> 
+	<table width="166" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td colspan="2" height="10" valign="top"><img width="1" height="1" src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0"></td>
+		</tr>
+	</tbody></table> 
 
 </form>
 
@@ -1385,57 +1386,27 @@
 		<td height="781" width="500" valign="top">
 
 
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
 <table cellpadding="0" cellspacing="0" border="0" bgcolor="ffffff" width="100%">
    	
 	
 	<tbody><tr>
         <td class="smallArial" height="20" valign="middle">
 			
-			<img align="absmiddle" src="/Images/monthforward.gif" width="6" height="12" alt="" border="0"> <a href="/">Home</a> 
-			<img src="/Images/arrow.gif" width="8" height="8" alt="" border="0"> 
-				<a href="../index.cfm">
-				Help Center
-				</a>
-			
-			<img src="/Images/arrow.gif" width="8" height="8" alt="" border="0">
-				<a href="index.cfm">
-				Legal
-				</a>
-			
-			<img src="/Images/arrow.gif" width="8" height="8" alt="" border="0">
-				
-				Privacy Policy
-				
-			
-			
+			<img align="absmiddle" src="http://a1228.g.akamai.net/n/1228/7375/8a83bc2cf68cb2/www.bid4assets.com/Images/monthforward.gif" width="6" height="12" alt="" border="0"> <a href="/">Home</a> 
+			<img src="http://a940.g.akamai.net/n/940/7375/ff2b75500623dc/www.bid4assets.com/Images/arrow.gif" width="8" height="8" alt="" border="0"> 
+				<a href="../index.cfm"> Help Center </a> <img src="http://a940.g.akamai.net/n/940/7375/ff2b75500623dc/www.bid4assets.com/Images/arrow.gif" width="8" height="8" alt="" border="0">
+				<a href="index.cfm"> Legal </a> <img src="http://a940.g.akamai.net/n/940/7375/ff2b75500623dc/www.bid4assets.com/Images/arrow.gif" width="8" height="8" alt="" border="0">
+				Privacy Policy 
 		</td>
 		<td align="right" class="smallarial">
-			<img src="/Images/transparent.gif" width="1" height="1" alt="" border="0" align="left">December 10, 2002   8:33 AM ET
+			<img src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" width="1" height="1" alt="" border="0" align="left">June 3, 2003 
 		</td>
    	</tr>
-   	<tr><td colspan="2"><img src="/Images/transparent.gif" alt="" border="0" width="1" height="37"></td></tr> 
-</tbody></table>
-
-
-
-
+   	<tr><td colspan="2"><img src="http://a1112.g.akamai.net/n/1112/7375/f26805de1a1f27/www.bid4assets.com/Images/transparent.gif" alt="" border="0" width="1" height="37"></td></tr> 
+</tbody></table> 
 
 	
-<img src="/Images/help/pageTitlelegalPrivacyPolicy.gif" width="494" height="56" alt="" border="0">
+<img src="http://a156.g.akamai.net/n/156/7375/48824bdf4d2b3d/www.bid4assets.com/Images/help/pageTitlelegalPrivacyPolicy.gif" width="494" height="56" alt="" border="0">
 <br><br><br>
 	
 	
@@ -1448,134 +1419,6 @@
 <meta name="Originator" content="Microsoft Word 9">
 <link rel="File-List" href="./Privacy_files/filelist.xml">
 <title>We are committed to protecting your privacy</title>
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>gsilverman</o:Author>
-  <o:Template>Normal</o:Template>
-  <o:LastAuthor>ssmurthwaite</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>1</o:TotalTime>
-  <o:Created>2002-05-10T19:41:00Z</o:Created>
-  <o:LastSaved>2002-05-10T19:41:00Z</o:LastSaved>
-  <o:Pages>3</o:Pages>
-  <o:Words>1178</o:Words>
-  <o:Characters>6716</o:Characters>
-  <o:Company>Silverman &amp; Associates</o:Company>
-  <o:Lines>55</o:Lines>
-  <o:Paragraphs>13</o:Paragraphs>
-  <o:CharactersWithSpaces>8247</o:CharactersWithSpaces>
-  <o:Version>9.4402</o:Version>
- </o:DocumentProperties>
- <o:CustomDocumentProperties>
-  <o:_AdHocReviewCycleID dt:dt="float">-1757104418</o:_AdHocReviewCycleID>
-  <o:_EmailSubject dt:dt="string">terms of sale</o:_EmailSubject>
-  <o:_AuthorEmail dt:dt="string">gsilverman@silvermanlegal.com</o:_AuthorEmail>
-  <o:_AuthorEmailDisplayName dt:dt="string">Gary Silverman</o:_AuthorEmailDisplayName>
- </o:CustomDocumentProperties>
-</xml><![endif]-->
-<style>
-<!--
- /* Font Definitions */
-@font-face
-	{font-family:Tahoma;
-	panose-1:2 11 6 4 3 5 4 4 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:553679495 -2147483648 8 0 66047 0;}
-@font-face
-	{font-family:Verdana;
-	panose-1:2 11 6 4 3 5 4 4 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:536871559 0 0 0 415 0;}
- /* Style Definitions */
-p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-parent:"";
-	margin:0in;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman";
-	mso-fareast-font-family:"Times New Roman";}
-h1
-	{margin-right:0in;
-	mso-margin-top-alt:auto;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	mso-outline-level:1;
-	font-size:24.0pt;
-	font-family:"Times New Roman";
-	mso-font-kerning:18.0pt;
-	font-weight:bold;}
-p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
-	{margin-right:0in;
-	mso-margin-top-alt:auto;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman";
-	mso-fareast-font-family:"Times New Roman";}
-p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
-	{margin-right:0in;
-	mso-margin-top-alt:auto;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	font-size:10.0pt;
-	font-family:Verdana;
-	mso-fareast-font-family:"Times New Roman";
-	mso-bidi-font-family:"Times New Roman";}
-a:link, span.MsoHyperlink
-	{color:black;
-	text-decoration:underline;
-	text-underline:single;}
-a:visited, span.MsoHyperlinkFollowed
-	{color:purple;
-	text-decoration:underline;
-	text-underline:single;}
-p
-	{margin-right:0in;
-	mso-margin-top-alt:auto;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman";
-	mso-fareast-font-family:"Times New Roman";}
-p.BalloonText, li.BalloonText, div.BalloonText
-	{mso-style-name:"Balloon Text";
-	margin:0in;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:8.0pt;
-	font-family:Tahoma;
-	mso-fareast-font-family:"Times New Roman";}
-@page Section1
-	{size:8.5in 11.0in;
-	margin:1.0in 1.25in 1.0in 1.25in;
-	mso-header-margin:.5in;
-	mso-footer-margin:.5in;
-	mso-paper-source:0;}
-div.Section1
-	{page:Section1;}
--->
-</style>
-
-
-
-
-<div class="Section1">
-
-<p class="MsoNormal"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></p>
-
-<p class="MsoNormal"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></p>
-
-<p class="MsoNormal"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></p>
-
 <table border="0" cellspacing="0" cellpadding="0" width="560" style="width:420.0pt;
  mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in">
  <tbody><tr style="height:468.6pt">
@@ -1750,7 +1593,7 @@ div.Section1
 
 <p class="MsoNormal"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></p>
 
-</div>
+
 
 
 
@@ -1759,38 +1602,35 @@ div.Section1
 
 		
 		</td>
-	</tr>
-	
-	
-		
-		
-		
-	
-	<tr>
-		<td class="medArial">
-		<br><hr size="1">
-<a href="/?ct=FooterHome">Home</a> | <a href="https://www.bid4assets.com/register/index.cfm?fuseAction=initialize&amp;ct=FooterRegister">Register</a> | <a href="/Help/contactus?ct=FooterContactUs">Contact Us</a> | <a href="/jobs?ct=FooterJobs">Jobs</a> | <a href="/Help?ct=FooterHelp">Help</a> | <a href="https://www.bid4assets.com/listing?ct=FooterListing">Sell An Asset</a>  |  <a href="/Help/legal/privacypolicy.cfm?ct=footerPrivacyPolicy">Privacy Policy</a>
-<br><a href="/newsroom/?ct=FooterNewsroom">NewsRoom</a> | <a href="https://www.bid4assets.com/EmailAlerts?ct=FooterEmailAlerts">Email Alerts</a> | <a href="https://www.bid4assets.com/help/unsub.cfm">Unsubscribe</a> |  <a href="/newsroom/index.cfm?ct=InsideTopNavNewsroom">About us</a> | <a href="/Help/legal/termsofservice.cfm?ct=footerTermsOfService">Terms of Service</a>
-<hr size="1">
-Copyright © 1999, 2000, 2001 ALL RIGHTS RESERVED Bid4Assets, Inc.
-	</td>
-	</tr>
-	
+	</tr> 
+ 
+    <tr> 
+      <td class="medArial"> <br>
+        <hr size="1"> <a href="http://www.bid4assets.com/?ct=FooterHome">Home</a> 
+        | <a href="https://secure.bid4assets.com/register/index.cfm?fuseAction=startReg&amp;ct=FooterRegister">
+        
+          Register 
+        
+        </a> | <a href="http://www.bid4assets.com/Help/contactus?ct=FooterContactUs">Contact 
+        Us</a> | <a href="http://www.bid4assets.com/jobs?ct=FooterJobs">Jobs</a> 
+        | <a href="http://www.bid4assets.com/Help?ct=FooterHelp">Help</a> | <a href="https://secure.bid4assets.com/listing?ct=FooterListing">Sell 
+        An Asset </a> | <a href="http://www.bid4assets.com/marketing/services">Promote Your Auctions</a>  <br> <a href="http://www.bid4assets.com/Help/legal/privacypolicy.cfm?ct=footerPrivacyPolicy">Privacy 
+        Policy</a> |
+        <a href="http://www.bid4assets.com/newsroom/?ct=FooterNewsroom">NewsRoom</a> 
+        | <a href="https://secure.bid4assets.com/EmailAlerts?ct=FooterEmailAlerts">Email 
+        Alerts</a> | <a href="https://secure.bid4assets.com/help/unsub.cfm">Unsubscribe</a> 
+        | <a href="http://www.bid4assets.com/newsroom/index.cfm?ct=InsideTopNavNewsroom">About 
+        us</a> | <a href="http://www.bid4assets.com/Help/legal/termsofservice.cfm?ct=footerTermsOfService">Terms 
+        of Service</a> <hr size="1">
+        Copyright © 1999-2003 ALL RIGHTS RESERVED Bid4Assets, Inc. <br><br></td>
+    </tr>
+  
+
+
+
+
+
+
+
 </tbody></table>
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br><br>
 </body></html>
