@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019200002id_/http%3A//www.hageltech.com/root/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608202859id_/http%3A//www.hageltech.com/root/privacy.php) for the most accurate reproduction.*
 
 # Hagel Technlologies Privacy Policy
 
-Hagel Technologies has created this Privacy Policy Statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for our web sites: [www.hageltech.com](http://www.hageltech.com/), [www.dumeter.com](http://www.dumeter.com/), [www.tradetrakker.com](http://www.tradetrakker.com/), [www.tweakmaster.com](http://www.tweakmaster.com/) and [www.linkfox.com](http://www.linkfox.com/).
+Hagel Technologies has created this Privacy Policy Statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for our web sites: [www.hageltech.com](http://www.hageltech.com/root/main.php), [www.dumeter.com](http://www.dumeter.com/main.php), [www.tradetrakker.com](http://www.tradetrakker.com/main.php), [www.tweakmaster.com](http://www.tweakmaster.com/main.php) and [www.linkfox.com](http://www.linkfox.com/main.php).
 
 ### What we gather from visitors to our site
 
@@ -44,8 +44,8 @@ If you have questions or concerns regarding this web site's privacy statement, c
 * * *
 
 Send mail to [webmaster@hageltech.com](mailto:webmaster@hageltech.com) with questions or comments about this web site.  
-Copyright © 1997-2001 by [ Hagel Technologies](http://www.hageltech.com/), All Rights Reserved.  
-This page was last updated on July, 26th 2001  
+Copyright © 1997-2002 by [ Hagel Technologies](http://www.hageltech.com/), All Rights Reserved.  
+This page was last updated on March, 8th 2002  
 Site design by Haim Gelfenbeyn.  
   
 
