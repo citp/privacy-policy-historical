@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207234600id_/http%3A//www.state.tx.us/Siteinfo/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603141412id_/http%3A//www.state.tx.us/Siteinfo/privpol.html) for the most accurate reproduction.*
 
-# State of Texas Web Site -
+# State of Texas Web Site - Privacy Policy
+
+**[[Home](http://www.state.tx.us/) | [Search](http://www.state.tx.us/Sitenav/search.html) ]**
 
 **  
 [  
 Business ](http://www.state.tx.us/Business/)**  
 Licensing, Permits, Regulations, Procurement
 
- ****  
+****  
 [**Communities  **](http://www.state.tx.us/Communities/)  
 Cities, Counties,  
 Special Districts
