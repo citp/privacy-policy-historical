@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210133308id_/http%3A//www.bid4assets.com/Help/legal/privacypolicy.cfm%3Fct%3DfooterPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185509id_/http%3A//www.bid4assets.com/Help/legal/privacypolicy.cfm%3Fct%3DfooterPrivacyPolicy) for the most accurate reproduction.*
 
 # Bid4Assets, Government Property Auctions, seized property bidding, Government Assets, Kmart Bankruptcy claim
 
