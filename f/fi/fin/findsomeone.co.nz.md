@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204141932id_/http%3A//www.findsomeone.co.nz/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404014916id_/http%3A//www.findsomeone.co.nz/privacy_policy.asp) for the most accurate reproduction.*
 
 # New Zealand Chat Rooms - findsomeone.co.nz
 
@@ -17,9 +17,9 @@ We believe that you are the sole owner of information about you and that you sho
 
 We have designed a thorough privacy policy with these things in mind. 
 
-If you have any questions regarding our privacy policy, we encourage you to contact our privacy officer on [ privacy@onlineservices.co.nz](mailto:privacy@onlineservices.co.nz)
+If you have any questions regarding our privacy policy, we encourage you to contact our privacy officer through our [contact form.](https://web.archive.org/contact_form.asp)
 
-This privacy policy was last updated on 14th July 2004.
+This privacy policy was last updated on 4th February 2005.
 
 **Collection and use of your information**
 
