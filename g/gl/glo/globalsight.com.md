@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsight.com privacy policy that was archived on 2001-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010626053859id_/http%3A//www.globalsight.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsight.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215115026id_/http%3A//www.globalsight.com/privacy.html) for the most accurate reproduction.*
 
 # GlobalSight Corp
 
