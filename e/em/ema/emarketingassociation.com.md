@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401230123id_/http%3A//www.emarketingassociation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203143809id_/http%3A//www.emarketingassociation.com/privacy.htm) for the most accurate reproduction.*
 
 # eMA privacy policy
 
@@ -16,12 +16,15 @@
 >  We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
 > 
 > **eMail**  
->  All email from the eMA contains opt-out instructions. Newsletter subscribers, members, ecourse students, board members, sponsors, event attendees, certified marketers, inquiries and suppliers may from time to time receive email announcements from the eMA. The eMA does not rent, sell, or transfer it's list to any third parties.
+>  All email from the eMA contains opt-out instructions, except personal business correspondence, and instructor emails to students which is part of their course. Newsletter subscribers, members, ecourse students, board members, sponsors, event attendees, certified marketers, inquiries and suppliers may from time to time receive email announcements from the eMA. The eMA does not send spam. All email lists maintained by the eMA are opt-in lists or lists of members and students which the eMA has a business relationship with, or those who have made inquiries to the association. The eMA does not rent, sell, or transfer it's lists to any third parties for the purposes of sending unsolicited commercial email. Anyone wishing to be permanently removed from our email lists can make that request to: [admin@emarketingassociation.com](mailto:admin@emarketingassociation.com) and your name and email address will be removed within 7 business days. 
 > 
-> We use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+> Additionally, the eMA requires its members to abide by all state and federal laws regarding email, and will revoke the membership of members found in violation of those laws or unethical business practices.
+> 
+> We use an outside credit card processing company to bill users for goods and services, as well as an outside service bureau to maintain our lists. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 > 
 > **Links**  
->  This web site contains links to other sites. Please be aware that we the eMA are not responsible for the privacy practices or other policies of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+>  This web site contains links to other sites. Please be aware that we the eMA are not responsible for the privacy practices or other policies or business practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Please report links that are broken or point to sites engaged in spam or other unethical practices to our administrative department at: [admin@emarketingassociation.com](mailto:admin@emarketingassociation.com)  
+> 
 > 
 > **Newsletter**  
 >  If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
@@ -48,3 +51,9 @@
 > 
 > **Notification of Changes**  
 >  If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+> 
+> **Use of Third Party Ads:**  
+>  Our websites allow other companies, called third-party ad servers or ad networks to display advertisements on our web pages. Some of these ad networks may place a persistent cookie on your computer. Doing this allows the network to know what ads you have seen during your visit and which ads you have clicked on. This is how the program determines what their payments will be for our hosting them on our servers. 
+> 
+> We do not have access and cannot control the information shown by these companies. Any clicking and visiting of these programs is up to the viewer and is not the responsibility of the eMarketing Association.   
+> 
