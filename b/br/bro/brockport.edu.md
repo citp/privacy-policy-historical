@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202021827id_/http%3A//www.brockport.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602203049id_/http%3A//www.brockport.edu/privacy.html) for the most accurate reproduction.*
 
 # SUNY Brockport - Communication Faculty and Staff Profiles
 
@@ -51,7 +51,7 @@ Any _user_ may submit a request to our privacy compliance officer to determine w
 
 The privacy compliance officer shall, within five (5) business days of the receipt of a proper request, provide access to the _personal information_ ; deny access in writing, explaining the reasons therefore; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment.
 
-In the event that we have collected _personal information_ pertaining to a _user_ through our Web site and that information is to be provided to the _user_ pursuant to the _user’s_ request, the privacy compliance officer shall inform the _user_ of his or her right to request that the _personal information_ be amended or corrected under the procedures set forth in [section 95 of the Public Officers Law.](http://www.tenant.net/Other_Laws/Pubofc/pubofc08.txt)
+In the event that we have collected _personal information_ pertaining to a _user_ through our Web site and that information is to be provided to the _user_ pursuant to the _user’s_ request, the privacy compliance officer shall inform the _user_ of his or her right to request that the _personal information_ be amended or corrected under the procedures set forth in [section 95 of the Public Officers Law.](http://www.tenant.net/Other_Laws/Pubofc/pubofc08.html)
 
 ### Confidentiality and Integrity of _Personal Information_ Collected Through Our Web Site
 
