@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622153520id_/http%3A//www.manticoretechnology.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401115000id_/http%3A//www.manticoretechnology.com/privacy.asp) for the most accurate reproduction.*
 
 # Manticore Technology
 
@@ -10,7 +10,7 @@
 |  |   
 ---  
 Audience  
-The following information is intended for Manticore Technology clients and other visitors to our corporate web site. This policy covers how Manticore Technology treats personal information that we collect and receive from our site only. If you are looking for information regarding privacy and the software we produce, please see our information on consumer privacy by [clicking here](https://web.archive.org/web/20030407151048id_/http://www.manticoretechnology.com/ConsumerPrivacy.asp).  
+The following information is intended for Manticore Technology clients and other visitors to our corporate web site. This policy covers how Manticore Technology treats personal information that we collect and receive from our site only. If you are looking for information regarding privacy and the software we produce, please see our information on consumer privacy by [clicking here](https://web.archive.org/web/20040502205827id_/http://www.manticoretechnology.com/ConsumerPrivacy.asp).  
 Data Collection Practices  
 Manticore Technology is very concerned with making all of our site visitors comfortable with and aware of our data collection practices. We respect an individual's right to privacy, and as such provide this statement to fully disclose our data collection practices.  
 For the Manticore Technology corporate site and for our online software services, we leverage our own products, Virtual Traffic Master, Virtual Commerce Master, and Virtual Touchstone for analytic purposes. For specific information about consumer privacy and our software please click here.  
@@ -22,7 +22,7 @@ Manticore Technology will NEVER sell any information that we have collected, per
 Use Of Cookies  
 In addition to cookies set by our web analytic tool, we will also set cookies for users of our software. These cookies enable such features as the Remember Me option when logging in and additionally facilitate the general functionality of our online reporting tool.  
 Opt-out of Email  
-If you have received email from us and would like to opt-out of future mailings, please visit our unsubscribe page at [www.ManticoreTechnology.com/unsubscribe.asp](https://web.archive.org/web/20030407151048id_/http://www.manticoretechnology.com/unsubscribe.asp). Your email address will be permanently removed from our email lists.  
+If you have received email from us and would like to opt-out of future mailings, please visit our unsubscribe page at [www.ManticoreTechnology.com/unsubscribe.asp](https://web.archive.org/web/20040502205827id_/http://www.manticoretechnology.com/unsubscribe.asp). Your email address will be permanently removed from our email lists.  
 Contact  
 If you would like further information, or feel any aspect of this policy has been breached, please e-mail our privacy officer at [privacy@ManticoreTechnology.com](mailto:privacy@ManticoreTechnology.com) or you may write to us at our corporate headquarters at:
 
