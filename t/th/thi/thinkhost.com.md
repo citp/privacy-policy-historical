@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203042349id_/http%3A//thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613191315id_/http%3A//www.thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy statement for the quality web hosting solutions company - ThinkHost
+# Privacy statement - ThinkHost
 
 ThinkHost's policies and procedures for handling customer information have been created in order to demonstrate our firm commitment to maintaining your privacy. This document discloses our information gathering and dissemination practices for the www.thinkhost.com web site.
 
