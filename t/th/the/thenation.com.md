@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205095728id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601144425id_/http%3A//thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
 
 # About The Nation
 
@@ -84,6 +84,8 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, [click here](https://web.archive.org/contact/priv). 
 
-History of Amendments to This Document  | _February 26, 2001_ | Added information on web-based opt-out of e-mailNation.  
+History of Amendments to This Document 
+
+| _February 26, 2001_ | Added information on web-based opt-out of e-mailNation.  
 ---|---  
 _October 13, 2000_ | Document language finalized and published.
