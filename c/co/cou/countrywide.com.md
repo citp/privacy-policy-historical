@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204183013id_/http%3A//my.countrywide.com/Privacy.aspx%3Flinkid%3DPCFT014) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307093500id_/http%3A//my.countrywide.com/Privacy.aspx%3Flinkid%3DPCFT014) for the most accurate reproduction.*
 
 # Countrywide Privacy
 
@@ -9,7 +9,7 @@
 | internet security  
 | cookies, web beacons   
 | identity theft   
-| [site tour](https://web.archive.org/web/20041204183013id_/http%3A//my.countrywide.com/site_tour.aspx)  
+| [site tour](https://web.archive.org/web/20050307093500id_/http%3A//my.countrywide.com/site_tour.aspx)  
 |  |  | Privacy and Security in The Countrywide family  
 ---|---  
 |  | Your Privacy  
@@ -64,9 +64,8 @@ To offer and recommend valuable products and services, we may share customer and
   * Home Loan Servicing \- Countrywide Home Loan Servicing LP provides industry-leading customer service and easy access to your home loan account information. 
   * Insurance \- Countrywide Insurance Services and Balboa Life & Casualty* offer homeowners, life, auto, disability, home warranty and other insurance products. 
   * Loan Closing Services \- The LandSafe family of companies offers title and escrow services, title insurance, credit reporting, property appraisals and flood zone determinations. 
-  * Loans for Less-Than-Perfect Credit \- Full Spectrum Lending specializes in helping people who may not qualify for traditional loans. 
-  * Investments \- Countrywide Investment Services offers financial planning, mutual funds, IRAs, Roth IRAs, IRA and 401(K) rollovers, stocks, bonds and fixed and variable annuities. 
-  * Banking \- Countrywide Bank, a division of Treasury Bank, N.A., offers checking, savings, CDs, money market accounts, new home loans, home equity loans and lines of credit and many refinancing options. 
+  * Investments \- Countrywide Investment Services offers financial planning, mutual funds, IRAs, Roth IRAs, IRA and 401(K) rollovers, stocks, bonds, and fixed and variable annuities. 
+  * Banking \- Countrywide Bank, a division of Treasury Bank, N.A., offers checking, savings, CDs, money market accounts, new home loans, home equity loans and lines of credit, and many refinancing options. 
   * New Products and Services \- We may expand to offer you new products and services by forming, acquiring or merging with a new company.
 
   
@@ -81,7 +80,7 @@ To make products and services available, often at a savings to you, we may prude
 How we obtain and use information | Back to top  
 To fund and service your loan, comply with government regulations, improve our products and services, and better understand your financial needs, we collect and maintain customer and former customer data. We collect information: 
 
-  * you provide us on applications and other forms (such as your phone, Social Security and account numbers, assets, income and employment history); 
+  * you provide us on applications and other forms (such as your name, address, phone, Social Security and account numbers, assets, income and employment history); 
   * about your transactions with us (such as your loan balance, payment history and other account information); 
   * about your credit history from a credit reporting agency; and 
   * about you or your property from business partners and service providers (such as a property appraisal, purchase contract or membership number).
@@ -120,7 +119,6 @@ Please review the website privacy notices of the companies listed below for stat
 [Countrywide Insurance Services](http://www.cwinsurance.com/About/privacy.aspx)  
 [Balboa Life & Casualty](http://www.balboainsurance.com/blcbi/privacypolicy.jsp)  
 [LandSafe family of companies](http://www.landsafe.com/landsafe/privacy/index.html)  
-[Full Spectrum Lending](http://www.fullspectrumlending.com/PrivacySecurity/)  
 [Countrywide Investments](http://www.countrywideinvestments.com/scontent.aspx?cmtag=Content-privacy_security)  
 [Countrywide Bank](http://www.countrywidebank.com/scontent.aspx?cmtag=Content-privacy_policy&from=17557)  
    
@@ -130,7 +128,7 @@ Some companies in the Countrywide family have different information sharing prac
 
 [ DirectNet Insurance](http://www.directnetinsurance.com/about/privacy.xml?FromSource=dni)  
 [Global Home Loans](http://www.globalhomeloans.co.uk/)  
-[ LandSafe Credit, Inc.](http://www.countrywidecreditguard.com/privacy.jsp?login=&reporttype=&source=DEF00000)
+[ LandSafe Credit](http://www.countrywidecreditguard.com/privacy.jsp?login=&reporttype=&source=DEF00000)
 
 Countrywide websites may contain links to other companies not in the Countrywide family for your convenience and information. If you access those links, you will leave the Countrywide website. We encourage you to review the privacy policy of any company before submitting your personal information.  
   
@@ -140,7 +138,7 @@ We commit to maintain accurate and up-to-date information on all of our customer
    
 Notification of changes | Back to top  
 The policies and practices in this section replace all previous notices or statements about your privacy rights at Countrywide. If we make any significant changes, we will notify you and only apply those new changes to future use of your information. If we make such changes, we will also revise the policy effective date, so that you can keep track of when those changes occur.   
-Policy Effective Date: November 22, 2004.  
+Policy Effective Date: December 15, 2004.  
    
 | About Internet Security  
 |  | How Does Browser Security Work? | Back to top  
@@ -151,7 +149,7 @@ Recent versions of most internet browsers support the encrypted transmission of 
 There are two grades of internet security: International-grade encryption uses a 40-bit random number negotiated between your browser and the web-server. This means that only one out of about 1,000,000,000,000 possible decoding keys can be used to decipher your data. Domestic-grade encryption uses a 128-bit key, so that the number of possible keys is vastly larger. The Countrywide site uses the highest grade of encryption supported by your browser and your internet connection.  
   
    
-How Do I Know If Security is Operating? | Back to top  
+How Do I Know If Security Is Operating? | Back to top  
 Your internet session is encrypted if your security-enabled browser is connected to a website using the Secure Hypertext Transport Protocol. URL strings beginning with "HTTPS://" instead of the usual "HTTP://" indicate that the secure protocol is in effect. Your browser may also tell you if security is operating. For example, Netscape Navigator may display the  icon in the lower left corner of your screen in secure mode. If 128-bit security is in effect, it shows the  icon. Microsoft Internet Explorer shows a  icon in either case. Note that security may be operating without any visible indication if the web page you are viewing employs frames (see below). 
 
 If secure transmission is not in effect or only part of a frame-based page is secure, Netscape shows the "broken key"  icon, and Explorer does not show the "lock" icon. 
@@ -207,7 +205,7 @@ Identity theft requires someone to gain access to your personal information. You
   * Guard your PINs. Never give out your Personal Identification Number (PIN). Memorize your PINs and never write them on your cards or carry them in your wallet. 
   * Report lost or stolen credit cards, checks or identification immediately.
   * Store your personal information securely. Keep it where it is not easily available in the event of a burglary or other unauthorized access. 
-  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20041204183013id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
+  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20050307093500id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
   * Check your credit reports. Review your credit report regularly to identify any inquiries or accounts that you are not aware of and did not apply for. 
   * Protect your mailbox. If your residential mailbox is not secure, don’t put outgoing mail in the box and promptly pick up incoming mail or obtain a secure postal mailbox. 
   * Safeguard your checks. Never print your personal information such as a Social Security Number or driver’s license number on your checks.
@@ -230,7 +228,7 @@ Identity Theft Resources | Back to top
 [US Postal Inspection Service](http://www.usps.gov/postalinspectors/idthft_ncpw.htm) | 1-800-372-8347 | [Identity Theft Laws (by state)](http://www.ncvc.org/policy/issues/identitytheft/statetable.html) |    
    
 What is Countrywide Doing to Assist in the Battle Against Identity Theft? | Back to top  
-Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20041204183013id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
+Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20050307093500id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
    
 | Training  
 ---  
