@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603230219id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142932id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
 
 # Strang Communications Online
 
@@ -6,6 +6,7 @@
 ---  
 [Free Newsletters](http://www.strang.com/newsletters.php)  
 [Subscribe Online](http://www.strang.com/offer.htm)  
+[Bulk Subscriptions](http://www.strang.com/bulksubs.html)  
 [Chat Now!](http://www.christianlife.com/chat)  
 [Interactive Forums](http://forums.strang.com/)  
 [Read Online News](http://www.charismanews.com/)  
@@ -15,6 +16,7 @@
 [Conference Listings](http://www.strang.com/conference/topics)  
   
 HELP DESK  
+[FAQ](http://www.strang.com/faq/)  
 [Contact Us](mailto:custsvc@strang.com)  
 [Advertising Info](http://www.charisma.net/gospel/cgi-sc/bannerad/clients/advertis/)  
 [Customer Service](mailto:custsvc@strang.com)  
@@ -31,24 +33,24 @@ SPECIAL EVENTS
 ---  
   
 Updated as of   
-June 3, 2001  
+June 2, 2002  
   
-**New Man Event 2001**  
-Sponsored by New Man magazine  
-August 17-18, 2001  
-Peabody Hotel  
-International Drive  
-Orlando, FL  
-[More Information ](http://www.newmanmag.com/newman2001/)
+**2002 CharismaLife Children's Ministry Conference**  
+September 19-21, 2002  
+The New Marriott Conference Center  
+Lake Mary, Florida (Orlando)  
+[More Information ](http://cl.strang.com/conference/)
 
-**CharismaLife Regional Conferences 2001**  
-2001 Schedule Various Locations Nationwide
+**Women's Conference 2003**  
+April 24-26, 2003  
+2003 Ocean Center Arena  
+Daytona Beach, Florida
 
-[More Information ](http://www.charismalife.com/services/conferences.htm)  
+[More Information ](http://www.spiritledwoman.com/womensconference/)  
 |    
 
 
-## Privacy Statement
+## Privacy Policy
 
 At Strang Communications, we are committed to protecting your privacy. We use the information we collect about you to send you information about the latest products and services and to learn from you about new products and services that you would like us to provide. Please read on for more details about our privacy policy.
 
@@ -56,8 +58,8 @@ At Strang Communications, we are committed to protecting your privacy. We use th
 
   * When you sign up for our newsletters, we need to know your e-mail address, first and last name.   We gather this information only to get a better understanding of who you are and better serve you. We may use your name in order to personalize communications we have with you. 
   * When you sign up for a web-based (online) or print subscription online, we collect your name, address, phone number, payment information and e-mail address. This is done so we can send the issues to you by mail or grant you access to our online subscriber’s area.
-  * Us or our partners may also use the information collected to occasionally notify you about special promotions, events and products updates, services and special offers you may find valuable. You must "opt-in" at [http://www.strang.com.account.php](http://www.strang.com.account.php/) in order to receive this information via email from our partners .
-  * We do not sell your personal information to others. However, we do rent our customer list of subscribers from our print magazine versions and offer our email lists availble to our partners of those subscriber whos have "opt-in." We may provide aggregate statistics about our customers, traffic patterns, and related demographic information to our partners, but these statistics will include no personally identifying information.
+  * Us or our partners may also use the information collected to occasionally notify you about special promotions, events and products updates, services and special offers you may find valuable. You must "opt-in" at <http://www.strang.com/account.php> in order to receive this information via email from our partners, but you will always receive special promotions, events and products updates, services and special offers from us.
+  * We do not sell your personal information to others. However, we do rent our customer list of subscribers from our print magazine versions and offer our email lists availble to our partners of those subscribers who have "opt-in." We may provide aggregate statistics about our customers, traffic patterns, and related demographic information to our partners, but these statistics will include no personally identifying information.
   * Our site's registration, order and survey forms require users to give us contact information (like their name, email, and postal address), financial information (like their bank account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the these forms are used to ship purchases and information about our company. The customer's contact information is also used to get in touch with the you when necessary.
 
 
@@ -116,12 +118,9 @@ Lake Mary, FL 32746
 By using our Web site, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email. ****
 
   
-|  |  [](http://www.newmanmag.com/newman2001/)  
-[](http://www.strang.com/offer.htm)   
-| FROM THE PAGES OF. . .  
----  
-  
-June 3, 2001  
-  
-  
+|  |   
+[](http://www.strang.com/offer.htm)
 
+[ ](http://cbw.strang.com/specialdetails.pl?spec=1&Source=CNSITE)
+
+[](http://www.strang.com/bulksubs.html)
