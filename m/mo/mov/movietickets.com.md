@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201232800id_/http%3A//www.movietickets.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331022447id_/http%3A//www.movietickets.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # MovieTickets - Privacy Policy
 
@@ -21,11 +21,7 @@ Users that MovieTickets.com knows to be under the age of 13 are hereby required 
 
 This site contains links to other sites. **MovieTickets.com** is not responsible for the privacy practices or the content of other websites. 
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Please click [here](http://www.doubleclick.net/privacy_policy/) for more information on DoubleClick and its privacy policy, information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns. 
-
-We use advertising software to service the ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with banner ads are collected by our ad servers generated through advertising software and we do access this information. 
-
-Public Forums This site may contain message boards and forums in which users can paticipate. We may request users to give us contact information, such as name, email, address, occupation, and interests when registers to use these service. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings; see the choice/opt-out section below. Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information. 
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/privacy_policy/).  In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 Security This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We protect the secure areas of our site (including our databases and intranet) by using a firewall. 
 
@@ -42,5 +38,4 @@ This policy may change from time to time so please check back periodically.
 
 Contacting the Website If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact: 
 
-MovieTickets.com, Inc. 2255 Glades Road, Suite 237 W Boca Raton, FL 33431 or email us at feedback@MovieTickets.com  
-[© 2000 MovieTickets.com, Inc. ](https://web.archive.org/web/20001201232800id_/http%3A//www.movietickets.com/legal.asp)
+MovieTickets.com, Inc. 2255 Glades Road, Suite 237 W Boca Raton, FL 33431 or email us at feedback@MovieTickets.com
