@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163915id_/http%3A//www.wdrb.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602214808id_/http%3A//www.wdrb.com/privacy.asp) for the most accurate reproduction.*
 
 # Fox41.com Privacy Policy Statement
 
@@ -17,7 +17,7 @@ For each visitor to our Web page, our Web server automatically recognizes the co
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes.
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes. By providing us your e-mail address in any form, you may be contacted via e-mail for any reason. If you do not wish to receive e-mail from us, please visit our opt-out page at <http://www.fox41.com/optout.asp>, or send us regular mail to the above address advising us of your wish. Please be aware that all requests to "opt-out" are honored and you should not receive any future e-mail from us after completing the opt-out form or mailing us.
 
 With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
@@ -39,7 +39,7 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
 
-If you send us email through any form on our site, that email may be posted on our site and may be edited. If you do not want your email to us to be posted on our site, please let us know by writing to us at the above address, visiting us at [http://www.fox41.com/optout.asp](https://web.archive.org/web/20031202163915id_/http%3A//www.wdrb.com/optout.asp) or Sending an email to [Opt Out Request](mailto:optout@fox41feedback.com) .
+If you send us email through any form on our site, that email may be posted on our site and may be edited. If you do not want your email to us to be posted on our site, please let us know by writing to us at the above address, visiting us at [http://www.fox41.com/optout.asp](https://web.archive.org/web/20040602214808id_/http%3A//www.wdrb.com/optout.asp) or Sending an email to [Opt Out Request](mailto:optout@fox41feedback.com) .
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
