@@ -1,6 +1,28 @@
-> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622093510id_/http%3A//bbb.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204085800id_/http%3A//www.bbb.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Better Business Bureau: Privacy Policy (draft)
+
+|  |  |  |  |  |   
+---|---|---|---|---|---|---  
+|  |   
+| 
+
+       
+
+[Search Hints ](http://216.46.241.4/SearchHints.htm)  
+
+
+|  |   
+| [](http://www.bbb.org/) |  |   
+|   
+[](http://www.bbb.org/contact/contact.asp) |   
+|   
+[](http://www.bbb.org/sitemap/index.asp) |   
+|   
+|   
+|   
+  
+
 
 ##  The Better Business Bureau  
 Online Privacy Policy
@@ -30,3 +52,22 @@ In addition, our web sites track information about the visits to our web sites. 
 The Better Business Bureau system is not responsible for the privacy practices or policies of participants in its various programs.
 
 April 22, 1998
+
+  
+
+
+* * *
+
+** [Check Out a Company](http://www.bbb.org/reports/bizreports.asp) / [File a Complaint](http://www.bbb.org/bbbcomplaints/Welcome.asp) / [Dispute Resolution](http://www.dr.bbb.org/drprograms.cfm) / [When You Donate](http://www.bbb.org/about/pas.asp) **   
+** [Consumer Guidance](http://www.bbb.org/subpages/consumpg.asp) / [Business Guidance](http://www.bbb.org/subpages/bizsubpg.asp) / [News & Alerts](http://www.bbb.org/subpages/newssubpg.asp) / [About The BBB](http://www.bbb.org/subpages/abbbsubpg.asp)   
+[Supporters](http://www.bbb.org/subpages/supportsubpg.asp) / [Privacy Policy](http://www.bbb.org/about/privacy.asp) / [Contact Us](http://www.bbb.org/contact/contact.asp) / **[Home](http://www.bbb.org/) ******/ **[**Site Map**](http://www.bbb.org/sitemap/index.asp)** **********/ **[**Links**](http://www.bbb.org/subpages/linkssubpg.asp)** ****** Better Business Bureau, BBB, [BBBOnLine](http://www.bbbonline.org/), and the BBB torch, BBBOnLine and BBB CARE logos are [federally registered service marks owned by the Council of Better Business Bureaus, Inc](http://www.bbb.org/about/notice.asp). These marks may be used, with certain restrictions, by Better Business Bureaus and eligible companies participating in Better Business Bureau programs under a license agreement.  
+[It is CBBB policy to take action against all unauthorized use of its marks.](http://www.bbb.org/about/list.asp)
+
+Comments to [webmaster@bbb.org](mailto:webmaster@bbb.org). For webmaster/site related mail only: 
+
+  
+Business reports are not available and complaints can not be processed through this address **  
+  
+---  
+  
+Copyright © 2000. Council of Better Business Bureaus. All rights reserved.
