@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Herbalife Independent Distributor, Ronalee Wise.
 
@@ -22,16 +22,16 @@
 ****| [**Healthy Kids**](http://loseit.safeshopper.com/22/cat22.htm?933)  
 ****| [**Skin Care Products**](http://loseit.safeshopper.com/14/cat14.htm?351)  
 ** ** | ****  
-****|  **[BMI Chart](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/bmi_calculator2.htm)**  
-****|  [**Success Stories** ](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/success_stories.html)  
-****|  [**Product Fact Sheets**](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/products/fact.sheets.html)  
-****| [**Weight Loss Support** ](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/weight.loss.support/index.htm)  
-****| [**Weight Loss Articles**](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/weight_loss_free_articles.html)  
-****| [ **Customer Guarantee** ](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/customer_guarantee.html)  
-****| [**Privacy Statement**](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/privacy_policy.html)  
-****| [**Contact Us**](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/contact.us.htm)  
-****| [**Refund Policy**](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/guarantee.refund.htm)  
-****| [**Wholesale Prices**](https://web.archive.org/web/20040610151112id_/http%3A//www.loseit.com/c.wholesale.html)  
+****|  **[BMI Chart](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/bmi_calculator2.htm)**  
+****|  [**Success Stories** ](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/success_stories.html)  
+****|  [**Product Fact Sheets**](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/products/fact.sheets.html)  
+****| [**Weight Loss Support** ](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/weight.loss.support/index.htm)  
+****| [**Weight Loss Articles**](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/weight_loss_free_articles.html)  
+****| [ **Customer Guarantee** ](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/customer_guarantee.html)  
+****| [**Privacy Statement**](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/privacy_policy.html)  
+****| [**Contact Us**](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/contact.us.htm)  
+****| [**Refund Policy**](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/guarantee.refund.htm)  
+****| [**Wholesale Prices**](https://web.archive.org/web/20041205002801id_/http%3A//loseit.com/c.wholesale.html)  
   
 Herbalife Independent Distributor   
 Privacy Policy
