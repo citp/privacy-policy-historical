@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611150750id_/http%3A//www.kgw.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120506id_/http%3A//www.kgw.com/registration/privacy.html) for the most accurate reproduction.*
 
 # kgw.com | News for Oregon and SW Washington | Privacy Policy
 
@@ -92,7 +92,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure.  You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1.                  Enter (or click) [http://signin. **kgw**.com](http://signin.kgw.com/) in your browser.
+1.                  Enter (or click) <http://www.kgw.com/sharedcontent/registration/membercenter.jsp> in your browser.
 
 2.                  Sign in by entering your e-mail address and password.  Your account information will then be displayed.
 
@@ -118,8 +118,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kgw.com/aboutus/982970555/Position1/default/empty.gif/7a2f4869356c3479786b6f4143547864?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kgw.com/aboutus/1385110035/Position1/default/empty.gif/7a2f486834313479786b67414247454b?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kgw.com/aboutus/298558243/Position4/default/empty.gif/7a2f4869356c3479786b6f4143547864?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kgw.com/aboutus/2065366987/Position4/default/empty.gif/7a2f486834313479786b67414247454b?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kgw.com/aboutus/10237106/Position5/default/empty.gif/7a2f4869356c3479786b6f4143547864?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kgw.com/aboutus/153208923/Position5/default/empty.gif/7a2f486834313479786b67414247454b?x)
