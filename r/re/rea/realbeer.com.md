@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the realbeer.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605232340id_/http%3A//realbeer.com/shared/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbeer.com privacy policy that was archived on 2002-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020617124553id_/http%3A//www.realbeer.com/shared/privacy) for the most accurate reproduction.*
 
 # Real Beer Page: Privacy Policy
-
-[](http://realbeer.com/cgi-bin/rbi/banner.cgi?1463-004.gif&1722-18957-1)[](http://realbeer.com/cgi-bin/rbi/banner.cgi?1463-004.gif&1722-18957-1)
 
 At Real Beer, we think the Internet should be fun and we want to help you enjoy it. Our privacy policy was designed with that in mind, to respect and protect the privacy of our users so that they may comfortably enjoy Real Beer sites. We want you to fully understand how we collect information from you and how we use it. 
 
@@ -17,8 +15,6 @@ An IP address is a number that's automatically assigned to your computer wheneve
 **Use of cookies**  
 Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. Cookies can make surfing easier for you by saving your preferences while you're at our site. We never save passwords or credit card information in cookies. The use of cookies is an industry standard and you'll find them at most major websites, but at Real Beer we minimize their use. 
 
-If you shop at [BREWMall](http://www.brewmall.com/), cookies will be used during a single shopping session to make shopping easier, but that cookie is not retained after that session ends. If you contribute to a discussion board you will be asked if want to program to remember you. If you answer yes a cookie will be set that makes posting messages easier in the future. 
-
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. 
 
 **Links to other sites**  
@@ -29,6 +25,3 @@ Real Beer offers users the opportunity to participate in forums, or message boar
 
 **Compliance with legal process**  
 We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of Real Beer on the Internet; or (4) protect the personal safety or property of our users or the public. 
-
-[](http://realbeer.com/cgi-bin/rbi/banner.cgi?18957-014.gif&1847-18957-1)  
-[Michael Jackson's Great Beers of Belgium](http://realbeer.com/cgi-bin/rbi/banner.cgi?18957-014.gif&1847-18957-1)
