@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmogirl.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622102320id_/http%3A//www.cosmogirl.com/magazine/winit/spc/0%2C%2C622478%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmogirl.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208185305id_/http%3A//www.cosmogirl.com/magazine/winit/spc/0%2C%2C622478%2C00.html) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy
 
