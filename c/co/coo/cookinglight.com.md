@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605215938id_/http%3A//cookinglight.com/customerservice/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202141400id_/http%3A//www.cookinglight.com/customerservice/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cooking Light - Privacy Policy
 
@@ -16,4 +16,4 @@ Users should be aware that when they voluntarily disclose personal information (
 
 **KIDS** : Be sure to ask your parents for permission before you send any information about yourself to us or anyone else over the Internet. 
 
-Please feel free to [contact us](https://web.archive.org/web/20000605215938id_/http%3A//cookinglight.com/community/contact_cl.asp) if you have questions about this policy. 
+Please feel free to [contact us](https://web.archive.org/web/20001202141400id_/http%3A//www.cookinglight.com/community/contact_cl.asp) if you have questions about this policy. 
