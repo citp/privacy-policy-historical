@@ -49,3 +49,31 @@ PFAW maintains several email lists to keep PFAW members, the press, and policy m
 **Changes to PFAW Privacy Policy**
 
 As of April 5, the PFAW website and all affiliated sites will use cookies to customize the experience of our visitors and to support some necessary functions (such as shopping carts in our store). 
+PFAW is committed to providing you with information about how we handle your personal information, so you can make a fully informed decision about providing your personal information to us. Outlined below is our online privacy policy for information collected through our website and email lists. If you have questions about these policies, we encourage you to talk to us by either: 
+
+* * *
+
+**Resale or disclosure of information to third parties:**
+
+**We do not share email addresses with other organizations**. From time to time, we may send you information from other reputable organizations whose products or services we think subscribers might find interesting, but we do not give email lists to third parties. 
+
+**Browser information collected on the website:**
+
+As with any website operator, PFAW analyzes our website logs to constantly improve the value of our website. Our website logs **are not personally identifiable** , and we make no attempt to link them with the individuals that actually browse the site. 
+
+**Use of cookies:**  
+(changed April 1999) 
+
+We use cookies on our site to customize the experience of our visitors and to support some necessary functions (such as shopping carts in our store). We also use cookies to better understand how our visitors use our site. Cookies are not shared or revealed to other sites. We do not look at cookies on your machine for other sites. 
+
+_(www.FlagAmendment.org does not use cookies)_
+
+**Privacy of our email lists:**
+
+PFAW maintains several email lists to keep PFAW members, the press, and policy makers informed about breaking events. Individuals must affirmatively request to join our mailing lists. In addition, **we do not share the email addresses on our lists with outside organizations**. 
+
+* * *
+
+**Changes to PFAW Privacy Policy**
+
+As of April 1999, the PFAW website and all affiliated sites may use cookies to customize the experience of our visitors and to support some necessary functions (such as shopping carts in our store). 
