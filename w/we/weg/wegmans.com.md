@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604030046id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206224850id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.*
 
-# Wegmans: Privacy Policy
+# Wegmans Privacy Policy
 
 **Wegmans pledge to you**
 
@@ -50,7 +50,7 @@ If you have a Wegmans Shoppers Club account, the information you provided on you
   * **Employees**  
 Access to customer information is limited to employees who need it in order to serve customers or maintain our information systems. All employees are subject to our company Privacy Policy. We have a Privacy Committee that periodically reviews access, system safeguards, and company policies.
   * **Vendors**  
-We may provide information to vendors in order to bring you special offers on products and services. For example, we may provide information in aggregate form (i.e., customer non-specific) to a supplier. Or, we may provide a list of names and addresses to a mail house so that they can send a direct mail offer from us to you. All vendors who receive information from us are required to sign a strict Nondisclosure Agreement, which prohibits them from disclosing the information to anyone else.
+We may provide purchase information to vendors in aggregate form (i.e., customer non-specific) in order to bring you special offers on products and services. We may also provide a list of names and addresses to a mail house so that they can send a direct mail offer from us to you. The mail house would be required to sign a strict Nondisclosure Agreement, which prohibits them from disclosing the information to anyone else. 
   * **Other situations**  
 We may release customer information when we believe it is necessary to comply with the law, enforce our legal rights; or to protect our customers or us. We may also release your information if you request or authorize us to do so.
 
@@ -77,4 +77,4 @@ We may release customer information when we believe it is necessary to comply wi
 
 > Everyone! All of the content contained on wegmans.com is suitable for people of all ages. 
 
-_Privacy Policy last updated January 5, 2001_
+_Privacy Policy last updated June 15, 2004_
