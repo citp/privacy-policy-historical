@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphisoftus.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404060057id_/http%3A//www.graphisoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphisoftus.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206205618id_/http%3A//www.graphisoft.com/frontpage/privacy.html) for the most accurate reproduction.*
 
 # Graphisoft - Privacy Policy
 
