@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602033807id_/http%3A//www.screenthemes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205075527id_/http%3A//www.screenthemes.com/privacy.htm) for the most accurate reproduction.*
 
 # SCREENTHEMES: pc wallpaper, screen savers, backgrounds, and themes for Windows 95, 98, 2000, NT
 
@@ -20,7 +20,7 @@ We use your IP address to help diagnose problems with our server and to administ
 We use several outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
 **_Personal Information_**   
-Though we do collect email addresses for both the ScreenThemes and All About Jazz newsletters and giveaway contests, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
+Though we do collect email addresses for both the ScreenThemes and All About Jazz newsletters and giveaway contests, we do not share any personal information with any third parties nor do we use any personal information for any purposes other than to better serve you. 
 
 **_External Links_**   
 This site contains links to other sites. Vision X is not responsible for the privacy practices or the content of such Web sites. 
