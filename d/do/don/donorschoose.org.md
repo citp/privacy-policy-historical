@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203015601id_/http%3A//www.donorschoose.org/about.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607025113id_/http%3A//www.donorschoose.org/locale0/about.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# DonorsChoose > About
+# About
 
 **Privacy Policy  
 DonorsChoose.org**
