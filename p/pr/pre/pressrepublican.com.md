@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2002-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021001154557id_/http%3A//www.pressrepublican.com/Aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602004446id_/http%3A//www.pressrepublican.com/Aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ _ **
 
 ****
 
-**Children:** We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on the Ottaway Web Sites without their permission.
+**Children: **We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on the Ottaway Web Sites without their permission.
 
 **_
 
@@ -118,12 +118,22 @@ Comments and Questions
 
 _**
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [pstone@ottaway.com](mailto:pstone@ottaway.com) or by regular mail at: P.C. Box 401, Campbell Hall, NY 10916, Attn: Peter Stone.
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [mailto:alanghoff@ottaway.com](mailto:alanghoff@ottaway.com) or by regular mail at: P.C. Box 401, Campbell Hall, NY 10916, Attn: Andrew Langhoff.
 
 **
 
-All rights reserved. Ottaway Newspapers, Inc. Copyright © 2002.
+All rights reserved. Ottaway Newspapers, Inc. Copyright © 2003.
 
 **
 
 **The Community Newspaper Subsidiary of Dow Jones & Co. Inc.**
+
+|   
+**SITE INDEX  
+**| [Home Page](http://www.pressrepublican.com/index.htm) | [News](http://www.pressrepublican.com/newsfront.htm) | [Sports](http://www.pressrepublican.com/sportsfront.htm) | [Out & About](http://www.pressrepublican.com/o&afront.htm) | [About Us](http://www.pressrepublican.com/aboutusfront.htm) | [Marketplace](https://web.archive.org/web/20030602004446id_/http%3A//www.pressrepublican.com/market/index.htm) |   
+Comments or Suggestions: [Webmaster](mailto:rblack@pressrepublican.com)
+
+**To contact the Press-Republican, Phone: (518) 561-2300 or send mail to:  
+Press-Republican, 170 Margaret St., P.O. Box 459, Plattsburgh, NY 12901**
+
+**Copyright 2003, Plattsburgh Publishing Co., Plattsburgh, NY,   Division of Ottaway Newspapers, Inc., Campbell Hall, NY. The information you receive from Press-Republican Online is protected by the copyright laws of the United States. The copyright laws prohibit any copying, redistributing, retransmitting, or repurposing of any copyright-protected material.**
