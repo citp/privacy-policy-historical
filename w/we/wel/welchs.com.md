@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welchs.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606104335id_/http%3A//www.welchs.com/consumer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welchs.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209151924id_/http%3A//www.welchs.com/consumer/privacy.asp) for the most accurate reproduction.*
 
 # Welch's Privacy Policy
 
@@ -55,7 +55,7 @@ Although we take the utmost care to protect your information, we cannot ensure t
   
 How You Can Access Or Correct Your Information 
 
-After registering with welchs.com, you will always have the option of editing the information you provided in your registration. To do this, visit the "My Grapelink" section of welchs.com, log in using your e-mail and password, and click on the "My Account" link on the "My Grapelink" page. You then may update your personal information or change your password. If you forget your password, go to the login page ("Welcome to Welch's Grapelink") of "My Grapelink", enter your e-mail address and click on the "Retrieve my Password" link. If you would like to unsubscribe from our database, please click here and type "unsubscribe" in your e-mail message.
+After registering with welchs.com, you will always have the option of editing the information you provided in your registration. To do this, visit the "My Grapelink" section of welchs.com, log in using your e-mail and password, and click on the "My Account" link on the "My Grapelink" page. You then may update your personal information or change your password. If you forget your password, go to the login page ("Welcome to Welch's Grapelink") of "My Grapelink", enter your e-mail address and click on the "Retrieve my Password" link. If you would like to unsubscribe from our database, please [click here](mailto:support@welchs.com) and type "unsubscribe" in your e-mail message. 
 
 _OUR COMMITMENT TO CHILDREN'S PRIVACY_
 
