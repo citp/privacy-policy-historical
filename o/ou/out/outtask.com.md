@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outtask.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603125356id_/http%3A//outtask.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outtask.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204012404id_/http%3A//www.outtask.com/privacy.asp) for the most accurate reproduction.*
 
 # Outtask, Inc. Privacy Policy
 
@@ -12,14 +12,14 @@ Outtask, Inc.
 
 **Outtask’s Data Privacy Policy**
 
-Outtask values your right to privacy and takes care to keep your personal identifying, company identifying and security information safe, secure and confidential. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our marketing website. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed. Your continued use of our site signifies your acceptance of our privacy policy. This privacy policy is located at [www.outtask.com/privacy.asp](https://web.archive.org/web/20040603125356id_/http%3A//outtask.com/privacy.asp) and covers all Outtask-owned domains including but not limited to the following web sites: 
+Outtask values your right to privacy and takes care to keep your personal identifying, company identifying and security information safe, secure and confidential. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our marketing website. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed. Your continued use of our site signifies your acceptance of our privacy policy. This privacy policy is located at [www.outtask.com/privacy.asp](https://web.archive.org/web/20041204012404id_/http%3A//www.outtask.com/privacy.asp) and covers all Outtask-owned domains including but not limited to the following web sites: 
 
-  * [www.outtask.com](https://web.archive.org/web/20040603125356id_/http%3A//outtask.com/index.asp)
-  * [www.cliqbook.com](https://web.archive.org/web/20040603125356id_/http%3A//outtask.com/solutions_t_corp.asp)
-  * [www.vinnet.com](https://web.archive.org/web/20040603125356id_/http%3A//outtask.com/solutions_e.asp)
-  * [www.corporatetande.com](https://web.archive.org/web/20040603125356id_/http%3A//outtask.com/solutions_te.asp)
-  * [www.outtask.co.uk](https://web.archive.org/web/20040603125356id_/http%3A//outtask.com/index.asp)
-  * [www.outtask.de](https://web.archive.org/web/20040603125356id_/http%3A//outtask.com/index.asp)
+  * [www.outtask.com](https://web.archive.org/web/20041204012404id_/http%3A//www.outtask.com/index.asp)
+  * [www.cliqbook.com](https://web.archive.org/web/20041204012404id_/http%3A//www.outtask.com/solutions_t_corp.asp)
+  * [www.vinnet.com](https://web.archive.org/web/20041204012404id_/http%3A//www.outtask.com/solutions_e.asp)
+  * [www.corporatetande.com](https://web.archive.org/web/20041204012404id_/http%3A//www.outtask.com/solutions_te.asp)
+  * [www.outtask.co.uk](https://web.archive.org/web/20041204012404id_/http%3A//www.outtask.com/index.asp)
+  * [www.outtask.de](https://web.archive.org/web/20041204012404id_/http%3A//www.outtask.com/index.asp)
 
 This privacy policy **DOES NOT** cover Outtask’s Internet Applications. For users of Outtask’s applications, see the privacy policy located within the respected application, within your personal profile.
 
@@ -83,7 +83,7 @@ The links in portions of this website will let you leave the Outtask marketing w
 
 **Your Consent**
 
-By using our Web site, you consent to the collection and use of the information described in this Privacy Policy in addition to the terms and conditions ([www.outtask.com/legal.asp](https://web.archive.org/web/20040603125356id_/http%3A//outtask.com/legal.asp)) of visiting Outtask’s corporate marketing site.
+By using our Web site, you consent to the collection and use of the information described in this Privacy Policy in addition to the terms and conditions ([www.outtask.com/legal.asp](https://web.archive.org/web/20041204012404id_/http%3A//www.outtask.com/legal.asp)) of visiting Outtask’s corporate marketing site.
 
 **Safe Harbor Enforcement**
 
