@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2000-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000422171557id_/http%3A//www.clontech.com/clontech/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203042500id_/http%3A//www.clontech.com/clontech/legal/privacy.html) for the most accurate reproduction.*
 
 # CLONTECH Labs - Privacy Policy
 
