@@ -1,44 +1,43 @@
-> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211210954id_/http%3A//www.student.com/feature/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603131116id_/http%3A//www.student.com/privacy.php) for the most accurate reproduction.*
 
-# S T U D E N T . C O M - The College Site
+# Student.Com, college site, student, college students, college life, college student, students, university life, college, university
 
-**Student.Com Privacy Policy**  
+**OUR PRIVACY POLICY**
 
+Your privacy is very important to us. You do not have to register on any of our sites or login to use them. The only area that requires login is our chatrooms. You must be 13 or older to participate in our chatrooms, and if you are under 13, we would prefer that you not participate at all in any site on The Student Center Network. All Student Center Network sites are for college students, high school students, and teens. Our sites are not for people under 13. 
 
-Except in the limited circumstances stated below, Student.Com will never intentionally disclose individually identifying information about its members to any third party without that member's permission.
+If you do register on our site, you will have a password. The Student Center Network will make every reasonable effort to protect your password. You are responsible for keeping your password confidential. Do not share it. If you share a computer with other people, make sure that when you leave, you are not signed on to your Student Center Network account and that you have exited your browser. 
 
-**Where do we gather information from you and what do we do with it?**
+Be careful about sharing personal information in public places. If you send personal information through email, or post it on a message board or in a chatroom, then other people can collect it and use it. You may end up getting email messages you do not want from people you do not know. 
 
-When you sign up to be a Student.Com Member, we ask you questions about yourself. A few of those questions are mandatory to receive a Student.Com Member Name. In order to enter Student.Com contests, you must answer more of the questions (for instance, we need to know your address so we can mail you a prize if you win one). In order to receive certain benefits of Student.Com membership, like free e-mail, you must answer some of the questions and give us permission to share that information with our partners like our free e-mail provider. The information is shared with our partners solely to provide you with the services that they offer. 
+When you register at The Student Center Network, we collect some information from you, such as your name, year of birth, and email address. We do not register people under 13. You can update your information at anytime by changing your registration or user record and sending an email to feedback@studentcenter.org 
 
-Additionally, we use this information you provide to tailor the site to you and provide a more comprehensive interactive experience. For example, when you tell us what school you go to, we show you links and content relevant to your school and where you are. 
+We will not sell or give out any of your personal information without telling you and giving you an opportunity to refuse. 
 
-We use cookies, which let us offer features like personals and discussions, where you can contribute to the site. We need a way to make sure that no one else can provide information and pretend to be you. Our cookie is just a small text file - shorter than this sentence \- that your browser sends to our server when it asks for a page on Student.Com. We only send you one cookie - a lot less than many other sites - but you may receive additional cookies from companies that advertise on Student.Com, a process that Student.Com has no control over. Keep in mind that because these anonymous cookies are not from Student.Com, those advertisers can't link them with any personal information you provide to Student.Com. 
+We may release your personal information if required by law, or if we have cause to believe that it might stop someone from harming others. 
 
-We keep track of how Student.Com is accessed. When you request a page from our servers, we store that request and the time you made it, along with the cookie that we've assigned you and the IP address of the computer that made the request. (An IP address is a unique number assigned to every computer on the Internet that other computers, like our servers, use to identify and send data to that computer.) We keep track of these requests in pretty much the same way that every commercial web site out there does. This access information helps us figure out what the most and least popular parts of the site are, so we can make more of the most popular things and less of the least popular things. It also helps us plan the site's growth, so we can make sure we have enough powerful computers to serve you pages speedily. 
+Companies other than The Student Center, Inc. may run some services on the site. They may run promotions as well, and they may collect personal information. Since they are separate companies, we are not responsible for how they handle that information. If you are concerned about how they may handle that information, check out their privacy policies. If you do not want your personal information collected, you may decide not to participate in the contest or promotion. 
 
-Keep in mind that there are other places on Student.Com, such as discussions and chat, where you may have the opportunity to disclose personal information to other Members or, such as in Personalities, display information in a way that is publically accessible. While our Web Site Agreement forbids people from commercially using that information, you should be aware that it is publically accessible. 
+This policy does not cover the information gathering of advertisers or companies that you can link to from The Student Center Network. We are not responsible for the privacy practices of those advertisers or sites. If you are concerned about how these other sites may handle information you provide, check out their privacy policies. By using The Student Center, you may be automatically providing information to other sites. 
 
-**How else do we use the information?**
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.247media.com/privacy). 
 
-We send you periodic e-mail messages about what's happening at Student.Com. This e-mail is only sent to Members who specifically request it when they sign up or edit their [Member Profile](https://web.archive.org/feature/memberprofile), and you can opt in or out at any time. 
+Under 13? Please read this. 
 
-We present reports, in aggregate, to potential and current advertisers about what kinds of people will see or have seen their ads. For example, we might say something to an advertiser like "We could show your ad to 150,000 Phys Ed majors" or "Yesterday, 29,000 people clicked on your ad, and 10% of them go to school in California." Being able to provide this kind of information to advertisers lets us keep Student.Com completely free to you. Remember that without your consent, we never tell advertisers information that individually identifies you, such as your Student.Com Member Name or your e-mail address. 
+The Student Center Network is a web community of sites for college students, high school students, and teens. It is not for people under 13. If you are under 13, we request that you come back and visit us when you are a teen! We do not register users under the age of 13 nor do we knowingly collect personally identifiable information from those under 13. If we receive credible information that a registered user is under 13, we will remove personally identifiable information and close the account. 
 
-We may, however, disclose information that individually identifies you to third parties when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other members or users of Student.Com, or anyone else that could be harmed by such activities. We may also disclose such information to third parties when we believe in good faith that the law requires it. 
+**Cookies**
 
-**Can you opt out?**
+Cookies are small text files that are sent to your computer's hard drive. At The Student Center Network, cookies allow us to track users to help us provide better service. However, the cookies are only active when a person has logged on to their account. If a person uses our sites without logging on or registering, no cookies are involved. But cookies are used by us to get your account information and to tell us where you like to go on the site, what contest and promotions you enter and to determine the number of Student Center Network users. Companies linked on The Student Center and advertisers also may use cookies. They are separate companies, so we have no control over their use of cookies. 
 
-Yes. When you sign up, or when you edit your [Member Profile](https://web.archive.org/feature/memberprofile), you can choose not to receive periodic e-mail messages from Student.Com. When you sign up, you can choose not to give us permission to share some of your information with our partners. You can also [put yourself on our No E-Mail list](https://web.archive.org/feature/noemail), which will prevent you from receiving e-mail from features where other members supply e-mail addresses, like our Reject-O-Matic. 
+**Surveys**
 
-**Can you edit your personal information?**
+The Student Center Network may survey our users from time to time for our own use, for our clients or other sites. If you participate, you will be anonymous. No personally identifying information on individuals will be released from the surveys. 
 
-Yes. The Student.Com [Member Profile Editor](https://web.archive.org/feature/memberprofile) lets you edit the personal information you've provided to us. 
+**Copyright**
 
-**Can you deactivate your personal information?**
+We either own evreything on this site or have permission to use it. You are not allowed to copy or retransmit anything from our site without The Student Center Network's express written permission. If the material is owned or copyrighted by someone else, you must have the copyright owner's permission to use it. You also are not allowed to transmit to The Student Center Network any material that you do not own or do not have permission to use. Violating this policy could result in civil or criminal penalties. 
 
-Yes. You can [write to the Student.Com webmaster](mailto:webmaster@student.com?subject=deactivate+me) to deactivate your account. This will prevent the account from being used on Student.Com. However, any messages you've posted to Student.Com Discussions will remain on the site. 
+**Other Legal Stuff**
 
-**Do we collect individually identifying information from children under the age of 13?**
-
-Student.Com is not directed at individuals under thirteen years of age, and we do not intentionally collect any individually identifying information from such individuals. 
+This Agreement is governed by New York State and Delaware law, without regard to the choice of law provisions, and applicable federal law. If any portion of this Agreement is invalid or unenforceable, it will be considered removed and the remainder of this Agreement will remain in effect. These are all the terms and conditions governing your use of The Student Center Network. 
