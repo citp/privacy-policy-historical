@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonmarket.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221025451id_/http%3A//bostonmarket.com/7_privacy/privacy040501.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmarket.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611193802id_/http%3A//www.bostonmarket.com/7_privacy/privacy040501.htm) for the most accurate reproduction.*
 
 # News Releases
 
