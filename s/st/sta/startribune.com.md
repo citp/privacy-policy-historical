@@ -1,173 +1,122 @@
-> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413055435id_/http%3A//www0.startribune.com/stories/776/40762.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206044548id_/http%3A//startribune.com/stories/776/3847453.html) for the most accurate reproduction.*
 
 # Privacy policy for startribune.com
 
-Privacy policy for startribune.com  
-  
+|  | [](http://www.startribune.com/stories/776)
+
+**index**
+
+|  | 
+
+Privacy policy for startribune.com
+
+|   
 ---  
   
-Published January 13, 2003
+Published April 25, 2003
 
 | 
 
-PRIVACY  
+PRIVACYPOLICY  
   
-Startribune.com has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use any user data we may collect from our users. 
+Startribune.com has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use and share any information we collect. It is important to note that this policy applies only to information collected by startribune.com and does not apply to information obtained or used by Star Tribune or its affiliates through other means.
 
-This privacy policy is subject to change from time to time. If the policy is revised, a notice will be placed on registered users' account information page, where registered users of our service may also update their personal information, subscribe to e-mail newsletters and revise the permissions that they previously granted startribune.com and/or its advertisers. Nonregistered users of startribune.com may view the privacy policy, including any revisions, by clicking on the "Privacy Policy" link on the home page of startribune.com. If the changes represent a material departure from our current policy or affect users' rights and obligations, if feasible, the changes will be posted on this page 30 days in advance of their effective date.
+Startribune.com collects and stores Personally Identifiable Information such as your name, address, e-mail address, etc. What information we collect and store depends on the page you are visiting and the services you elect to participate in. We use this information to operate our services, provide you with the highest quality services, offer you opportunities we think will be of interest, and better tailor the advertising you see from us to suit you. This information is not shared with anyone outside of Star Tribune and startribune.com except as provided for in this Privacy Policy. More specifics on the information we collect are outlined within this policy. 
 
- **Your personal information**
+This privacy policy is subject to change from time to time. If the policy is revised, a notice will be placed in the Member Center where registered members of our service may also update their personal information, subscribe to e-mail newsletters and revise the permissions that they previously granted startribune.com. They may also receive an e-mail outlining the change. Non-registered users of startribune.com may view the privacy policy, including any revisions, by clicking on the "Privacy Policy" link on the home page of startribune.com. If the changes represent a material departure from our current policy or materially affect users' rights and obligations, if feasible, the changes will be posted on this page 30 days in advance of their effective date. 
 
- ****
+**What information we collect and how it is used**  
+Access to the majority of content, services and features on startribune.com requires users to become registered members. Member registration requires you to provide certain Personally Identifiable Information, such as your name, e-mail address, street address, gender, and date of birth. You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. You will also have the opportunity to subscribe to e-mail newsletters and alerts and elect to receive e-mail Offers sent to you on behalf of startribune.com advertisers. Some features and services may require additional Personally Identifiable Information or other demographic information. We may collect other personal information when you provide feedback, comments, engage in chat, message boards, interactive forums or participate in surveys, or if you contact us offline. For example, when you enter contests you will be asked to also provide your phone number so that we can reach you in the event you've won a prize. All users may decline to share such information with us by choosing not to register on the Web site or use our services. Only registered members, however, may access certain content, services and features. 
 
-From time to time, for some of the services on startribune.com, we will require users to register and provide us ask for information that personally identifies you. Examples of services that require registration are as in our Free Flicks contests, or registration for our WorkAvenue employment service, our Minnesota Vikings e-mail newsletter, and or for promotions or surveys. This information will be collected by asking you to fill out the form on our User Registration Page. On this page you will be asked to enter your name, e-mail address, street address, gender, date of birth and phone number. You will also be asked to select a password so that you have access to this information and can revise it in the future. We also will ask you whether you will grant us permission to send you information about startribune.com and (separately) whether you would like to receive communications from advertisers about new products, sales, services and special offers in which you may have interest. Some features and services may require additional information. We use this information to operate our services, provide you with the highest-quality services and offer you opportunities we think will be of interest. The information may be accessed by the user who entered it and by Star Tribune personnel, but is not accessible to other users of startribune.com.
+You may also be asked to create a separate registration account with some of the services provided by partners and other providers on startribune.com. Examples include the Personals, the StribMail e-mail service, MyCast personalized weather service, and Golden Gavel Auction events. Be aware that the information collected by these providers may be subject to the privacy policy and terms of use of that provider, and we recommend reviewing these prior to submitting your registration. 
 
-To participate in our interactive discussions forum (our "Talk") section, we require users to provide us with their name and e-mail address. Users who post their views and opinions in our Talk discussions obviously are making their e-mail addresses available to anyone.
+If you wish to forward an article to a friend, we will ask that you provide your friend's name and e-mail address. While we collect statistics on which articles are forwarded, we do not sell, rent, or market your friend's personal information, and retain the information only as long as necessary to provide this service.
 
-We will not disclose your personal information without your advance permission except as explained in this privacy policy, or when we explained at the time of collecting the information the purpose for which the information will be disclosed, or when we deem it necessary or appropriate in order to comply with the law, to respond to claims, to protect our computer systems and customers, to ensure the integrity and operation of our business and systems, or to protect the rights, property or safety of startribune.com, its affiliates, or others.
+**  
+Passive Data Collection and Use**  
+Like most Web sites, startribune.com also collects and logs information automatically and through the use of electronic tools that may be transparent to you, such as your IP address, the name and location of your Internet Service Provider, the type and version of your browser, the length of time that you stay on startribune.com, search queries, your click-stream data, the location that referred you to startribune.com and the average number of pages viewed. If you visit another Web site prior to browsing startribune.com, that Web site might place personally identifiable information within a URL, which may be logged by us. Your IP address is the identifier assigned to your particular computer when you access the Internet. Depending on how you connect to the Internet, your IP address may always be the same, or it may change each time you access the Internet. Note that logging your IP address does not in and of itself provide us with your name, e-mail address or home or work address. We use this log information for systems administration and troubleshooting purposes and may also use it to gather general demographic information about you such as your general location and your Internet Service Provider. In order to better provide our services to you and to develop member profiles that enable us to focus our site, services and advertisements on your interests, we may correlate this log information with other information about you, such as your registration information or newspaper subscription records.
 
-In order to describe our services to prospective partners, advertisers and others, we may disclose user information in an aggregate form that does not identify individual users. For example, we might disclose that a certain percentage of our users are female or within a certain age range or live within a cluster of zip codes.
+**Use of Cookies**  
+Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use of startribune.com and to allow us to better understand how people use our site through click-stream analysis. For example, cookies are used to store your member name and password, sparing you from having to re-enter that information each time you visit. Another example is that we may use cookie technology to control the number of times you see a particular advertisement while visiting startribune.com. You can turn the cookies feature off by using your browser preference options, but doing so will severely limit your access to startribune.com and may prevent you from registration. 
 
-In addition to the information you supply on our User Registration Page, we may also keep track of your IP address to administer our Web site and to help diagnose problems with our Web servers. (Your IP address is the identifier assigned to your particular computer when you access the Internet. Depending on how you connect to the Internet, your IP address may always be the same, or it may change each time you access the Internet.) This information is stored separately from the User Registration information, and we do not connect registration information with your IP address. We use the IP addresses of our users for systems administration and troubleshooting purposes and to gather general information that does not identify individual users. Examples include users’ type and version of browser, the length of time that users stay on startribune.com, search queries, the links that referred you to startribune.com and the average number of pages viewed by a user. In addition, we may use your IP address to gather general demographic information about you, such as your location and your Internet service provider. We may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site, search queries, browser types, access times, the links that referred you to our site and the pages viewed while you are on our site. 
+Some of startribune.com's third party content providers also may place a cookie on the user's computer. If a user chooses to monitor or restrict cookies that are placed on his computer, the user can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and users should refer to that provider's privacy policy for further information regarding its use of cookies.
 
-Startribune.com offers a service that enables users to e-mail an article to another person. The e-mail address that you supply to use this service will not be used for any other purpose without your permission. We also will not collect and store the e-mail address of a user who sends us a question on our "Feedback" pages. We will use the e-mail address only to respond directly to the user who submitted the feedback.
+We use software developed by another company, RealMedia, to display advertising on startribune.com, and we may use cookies in conjunction with displaying those ads. In addition, advertisers may elect to use other advertising companies to serve their ads on startribune.com, and advertisers themselves may also place a cookie on a user's computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies.
 
-We will not disclose any personal information without your advance permission except as explained in this privacy policy, or when we explained at the time of collecting the information the purpose for which the information will be disclosed, or when we deem it necessary or appropriate in order to comply with the law, to respond to claims, to protect our computer systems and customers, to ensure the integrity and operation of our business and systems, or to protect the rights, property or safety of startribune.com, its affiliates, or others.
+**Use of Personally Identifiable Information**  
+Personally Identifiable Information may be accessed by the user who entered it, by Star Tribune and startribune.com personnel, and by certain third parties, such as those who provide technical support or content services to startribune.com. We ask these third parties to keep any personal information supplied by us confidential. We also endeavor to keep your Personally Identifiable Information inaccessible to other users or advertisers of startribune.com. Note that your member name will be displayed on our homepage when you visit startribune.com as a logged in member. We will also display your e-mail address and contact information in your Member Center. We make every effort to make the Member Center secure; it can only be accessed by logging in with your member name and password. 
 
-In order to describe our services to prospective partners, advertisers and others, we may disclose user information, but only in an aggregate form that does not identify individual users. For example, we might disclose that a certain percentage of our users are male or within a certain age range.
+We also reserve the right to disclose Personally Identifiable Information when deemed necessary or appropriate to comply with the law, respond to claims, protect our computer systems and customers, ensure the integrity and operation of our business and systems, or protect the rights, property or safety of startribune.com, its affiliates, or others.
 
-**
+We will not disclose your Personally Identifiable Information without your advance permission except as explained in this privacy policy or as explained at the time the information was collected. 
 
-What user information do we have?
+**Use of Aggregated information**  
+In order to describe our services to prospective partners, advertisers and others, we may use your Personally Identifiable Information to create a compiled, aggregate view of the startribune.com audience and their usage patterns. We use Aggregated Information to operate our services and to better understand our audience as we develop new content and services. Aggregated Information may also be shared with third parties we contract with to provide content and services on startribune.com as well as advertisers so that they can better understand our audience. For example, we might disclose that a certain percentage of our users are female or within a certain age range or live within a cluster of zip codes. 
 
-**
+**Children's Privacy**  
+Startribune.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of startribune.com in order to access general startribune.com content, features and services. 
 
-Our logging software recognizes and records the home server (IP address) of visitors, but not their e-mail addresses or their identities. We may collect a user's e-mail address or other personal information if the user registers to participate in our Talk discussions, registers for Work Avenue or other similar services, or sends a message to startribune.com. Users who have posted their views and opinions in our Talk discussions obviously are making their e-mail addresses available to anyone (including third parties).
+In the future, parents and legal guardians of children under age 13 who register are able to establish a member account for their child by accessing the Member Center. Other areas and services operated by startribune.com that do not require registration but that ask for Personally Identifiable Information from children under age 13 will require a parental consent before collecting the information. Star Tribune does not ask children under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. Further, we limit most of our contests to people who are at least 18 years of age, making children ineligible to enter. An example of an instance in which we sought parental consent to collect user data from children was the Star Tribune Cranial Cram scholarship contest, in which prizes were awarded to schoolchildren. In this instance, the information was used only to award scholarships and prizes.
 
-Our logging software does not associate any registration information that you may furnish us with the way that you use our site. For instance, even though you may have registered for our Free Flicks or Fantasy Football contests and have supplied us with personal identifying information, that information is not subsequently associated with your viewing of other areas of startribune.com. 
+Parental consent to allow registration and collect information about children can be provided by faxing or mailing a copy of the completed [Parental Consent Form](http://www.startribune.com/stories/776/39475.html), including your signature, to the address or facsimile number provided on the Parental Consent Form. This form will be available in applicable areas of our site. 
 
-**
-
-Children's privacy
-
-**
-
-Startribune.com is particularly concerned with providing a safe online environment for children. Therefore, in areas operated by startribune.com that are directed at children or when we learn that a user is under the age of 13, we will ask for parental consent before collecting information about the child. Further, we limit many most of our contests to people who are at least 18 years of age, and children aren’t eligible to enter most startribune.com contests.
-
-Parental consent to collect information about children can be provided in two ways:
-
-* Send a fax copy of a completed [Parental Consent Form](http://www.startribune.com/stories/776/39475.html), including your signature, to the facsimile number provided on the Parental Consent Form. This form will be available in applicable areas of our site. 
-* Call our telephone number listed on the Parental Consent Form. 
-
-An example of an instance in which we sought parental consent to collect user data from children was the Star Tribune Cranial Cram scholarship contest, in which prizes were awarded to schoolchildren. In this instance, the information was used only to award scholarships and prizes.
-
-Startribune.com will not knowingly disclose personal information about users under the age of 13 without prior parental consent, except as required by law. If for any reason you wish to access, update or remove information about your child that has been previous provided to startribune.com, you may fax us (at 612-673-4840), call us (at 612-673-9022) or send an e-mail to [feedback@startribune.com](mailto:feedback@startribune.com).
+Startribune.com will not knowingly disclose personal information about users under the age of 13 without prior parental or legal guardian consent, except as required by law. If for any reason you wish to access, update or remove information about your child that has been previously provided to startribune.com, you may fax us (at 612-673-4840), call us at 612-288-2830 or use our e-mail [Feedback Form](http://www.startribune.com/feedback).
 
 Startribune.com strongly recommends parental supervision when a child uses the Internet, particularly when a child enters a forum or uses e-mail. We also encourage parents to instruct their children not to give out personal information in these areas.
 
-**
+**Member Mail and E-mail Offers**  
+Startribune.com does not rent, sell, barter or give away its user or member lists or its users' or members' names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific contest or service. If a user granted permission to receive solicitations (referred to as e-mail Offers) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may go to the Member Center and change one or more of the category-specific permissions related to receiving e-mail sent on behalf of startribune.com advertisers. 
 
-Users participating in our Talk discussions
+All registered users will receive periodic Member Mail via e-mail related to their membership account or various features and services on startribune.com that their membership entitles them to access. Because Member Mail is an important part of our service to you, users cannot opt-out of receiving Member Mail.
 
-**
+Separate from startribune.com Member Mail, Star Tribune FYI provides information and opportunities related to the newspaper. If you don't want to receive this information, you can opt out by changing your permission setting for Star Tribune FYI e-mail in the Member Center. 
 
-For the Talk discussion forums on startribune.com, we collect users' names and e-mail addresses when those users register to participate in Talk. On limited occasions startribune.com has sent information about our service via e-mail to these users. The response to the e-mail messages has been highly positive. However, if any user does not wish to receive these e-mail messages, the user may go to his or her account information page and change the permissions question related to receiving e-mail from startribune.com from "Yes" to "No." send a reply to [feedback@startribune.com](mailto:feedback@startribune.com) with REMOVE in the subject field and a request in the text that you not receive future communications. We will promptly remove the user's e-mail address from our mailing list.
+When a user specifically authorizes e-mail solicitations (for example, in the user license for our Working service) we make available the user names and other Personally Identifiable Information in accordance with the applicable license. Please refer to the legal notices and license terms of our Working service for further details.  
+[Legal notice and terms for Job Seekers](http://workavenue.startribune.com/cgi-bin/gx.cgi/AppLogic%2BftContentServer?pagename=wa%2fjobseeker%2flegal_notice)  
+[Legal notice and terms for Employers](http://workavenue.startribune.com/cgi-bin/gx.cgi/AppLogic%2BftContentServer?pagename=wa%2femployer%2flegal_notice)
 
-**
+Our HTML-encoded e-mail messages include graphic files, which we use to gather information about e-mails sent our members. When such a message is opened in an HTML-capable e-mail program, the recipient's computer accesses our server to retrieve the graphic file, and allows us to record and store the date and time, the recipient's e-mail address, and other standard logging information. These HTML-encoded e-mail messages may also read cookies. 
 
-E-mail solicitations
+**Affiliated sites, linked sites and advertisements**  
+Startribune.com expects its partners, providers of content and services and advertisers to respect the privacy of our users. Be aware, however, that third parties, including our partners, providers of content and services, advertisers and others accessible through our site may have their own privacy and data collection policies and practices. For example, during your visit to startribune.com you may link to, or view as part of a frame on a startribune.com page, certain content that is actually created or hosted by a third party. Also through startribune.com you may be introduced to, or be able to access information, services, Web sites, features, contest or sweepstakes offered by other parties, such as the StribMail e-mail service (currently provided by CommTouch). Star Tribune and startribune.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-**
+**Electronic commerce with the Star Tribune**  
+For certain electronic commerce services on startribune.com, such as placing classified ads electronically, subscribing to the Star Tribune newspaper or to our premium online services or ordering Star Tribune merchandise, we require additional information. To complete these transactions, we may collect information from you such as your name, credit card number and other financial or Personally Identifiable Information. We endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology, which encrypts information you submit. The Star Tribune uses the credit card and shipping information for the purpose of completing the transaction and does not provide this information to third parties except for the issuers of credit cards in order to process the transaction, or as otherwise set forth in this policy. 
 
-Startribune.com does not rent, sell, barter or give away its user lists or its users' names or e-mail addresses for use by outside parties for the purpose of e-mail solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific contest or service. If a user granted permission to receive solicitations at the time of registration but subsequently wishes to opt out from receiving such e-mail, the user may go to his or her account information page and change the permissions question related to receiving e-mail from Star Tribune advertisers from "Yes" to "No." From time to time startribune.com itself may send you information about various products or services. If you don't want to receive this information, you can "opt out" by sending an e-mail to [feedback@startribune.com](mailto:feedback@startribune.com) and requesting that you not receive any of these offers.
+**Electronic commerce with other merchants**  
+Startribune.com provides Internet hosting services to a number of online merchants that sell a variety of goods and services. These stores may collect information from you such as your name, credit card number and other contact information. Startribune.com does not collect, use or disclose this information, nor does it own or control the stores or have responsibility for transactions made by those merchants. If you would like to know more about the information collected when you participate in electronic commerce on or through startribune.com, you should check directly with those online merchants, as their privacy policies govern the usage of those merchants' online stores. 
 
-When a user specifically authorizes e-mail solicitations (for example, in the user license for our Work Avenue service) we make available the users's names and other identifying information in accordance with the applicable license. Please refer to the legal notices and license terms of our Work Avenue service for further details.
+**Changing your personal information**  
+In general, a registered member may return to his or her account information page in the Member Center to update the information he or she previously provided to us. To prevent minors from improperly entering contests for which they are not eligible, we may require additional proof from people asking to change their birth date information. Information you provide to startribune.com may be stored by us for an indefinite time. This information includes the registration data as well as information provided in conjunction with various membership services, contests or features available on startribune.com 
 
-* [Legal notice and license terms for Job Seekers ](http://workavenue.startribune.com/cgi-bin/gx.cgi/AppLogic+ftContentServer?pagename=wa%2fjobseeker%2flegal_notice)
-* [Legal notice and license terms for Employers](http://workavenue.startribune.com/cgi-bin/gx.cgi/AppLogic+ftContentServer?pagename=wa%2femployer%2flegal_notice) **
+You can delete your startribune.com membership account in Member Center by clicking on the link labeled "delete my account." By doing so, all but a transactional record of your membership account will be removed from our databases, though some records may remain on back-up media. Note that by deleting your account, you will cancel your membership and no longer be able to access startribune.com.
 
-Electronic commerce with the Star Tribune
+If after visiting your Member Center you are unclear on how to change your information or have other questions, please contact us via e-mail using our [Feedback Form](http://www.startribune.com/feedback) or by phone at 612-288-2830.
 
-**
-
-Different services on startribune.com allow users to place classified ads electronically, subscribe to the Star Tribune newspaper and order Star Tribune merchandise. To complete these transactions, we may collect information from you such as your name, credit card number and other personal identifying information. The Star Tribune uses the credit card and shipping information for the purpose of completing the transaction and does not provide this information to third parties, except for the issuers of credit cards in order to process the transaction.
-
-**
-
-Electronic commerce with other merchants
-
-**
-
-Startribune.com is host provides Internet services to a number of online merchants that sell a variety of goods and services. These stores may collect information from you such as your name, credit card number and other contact information. Startribune.com does not collect, use or disclose this information, nor does it own or control the stores or have responsibility for transactions made by those merchants. If you would like to know more about the information collected when you participate in electronic commerce on or through startribune.com, you should check directly with those online merchants, as their privacy policies govern the usage of those merchants’ online stores.please contact the store merchants directly.
-
-**
-
-Cookies
-
-**
-
-Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Cookies themselves do not contain any personal information, and startribune.com does not use cookies to collect personal information. 
-
-Instead, sStartribune.com makes limited use of cookies to recognize its registered users, to control access to certain features on our Web site, to conduct statistical analyses of user behavior and for other purposes. For instance, we track the frequency with which a user visits startribune.com and the number of times that a user may see a particular advertisement on startribune.com. We also may use cookies and other demographic and preference information to target advertisements on startribune.com so that users see advertising that is most likely to interest them. Any statistical information that we gather in this manner will be disclosed to third parties only in aggregate form, meaning that individual users will not be identified. to try to improve the viewing and navigation experience of users of our Web site. For example, we collect users' search preferences when they are searching for an article on our site or building an index of articles contained in a "folder." Examples include how many articles to display on a search return page, whether to display just the headline or one or two paragraphs, etc. If you change your preferences from the default settings, we store the information on your computer and refer to those preferences the next time you visit startribune.com. In addition, 
-
-Wwe also use cookies in our Talk discussion forums to store the user’s log-in information. Those forums are hosted on multiple Web servers, and a user may be transferred from one server to another during the course of a visit to our Talk area. The use of cookies allows the user to log into Talk just once, and then the cookie stores that log-in information and transfers that information to the other Web servers during the user’s visit. For users who have set their computers not to accept cookies, you may still use our Talk discussion forums, but you may find it necessary to log in more than once, as you are transferred among Web servers during your visit to startribune.com.
-
-Some of startribune.com’s content providers also may place a cookie on the user’s computer. If a user chooses to monitor or restrict cookies that are placed on his computer, the user can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and users should refer to that provider’s privacy policy for further information regarding its use of cookies.
-
-We use software developed by another company, RealMedia, to display advertising on startribune.com, and we may use cookies in conjunction with displaying those ads. In addition, advertisers may elect to use other advertising companies to serve their ads on startribune.com, and advertisers themselves may also place a cookie on a user’s computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies.
-
-Some third-party content providers on startribune.com may also place or recognize a cookie on your browser. Because of the way that the cookies feature is designed, startribune.com cannot and will not view cookies placed on your computer by other Web sites you may have visited. You can turn the cookies feature off by using your browser preference options, but you may not be able to use some startribune.com services properly.
-
-**
-
-Third-party advertising
-
-**
-
-Advertisers who place banner advertising and other types of advertising on startribune.com may place or recognize a cookie on your browser or use cookies to determine whether a user has seen a particular advertisement or for other purpose. Those cookies are controlled by the advertiser, and users should refer to those advertisers' privacy polices for further information regarding their use of cookies.
-
-**
-
-Direct mailings and opting out
-
-**
-
-From time to time we may send you information about various products and services offered by startribune.com or third parties. If you don’t wish to receive this information, you can "opt out" by sending us an e-mail at [feedback@startribune.com](mailto:feedback@startribune.com) and requesting that you not receive any of these offers.
-
-**
-
-Changing your personal information
-
-**
-
-Information you provide to startribune.com may be stored by us for an indefinite time. This information includes the registration data listed in the "Your Personal Information" section of this policy as well as information provided in conjuction with various contests or services available on startribune.com. for various contests or services offered on startribune.com. In general, a registered user may return to his our her account information page to update the information he or she previously have provided us. To prevent minors from improperly entering contests for which they are not eligible, we may require additional proof from people asking to change their birth date information. With that exception, please feel free to have us change, update or delete this information at any time by sending an e-mail to [feedback@startribune.com](mailto:feedback@startribune.com).
-
-**
-
-Remember the risks when you use the Internet
-
-**
-
-You should know that when you voluntarily disclose personal information on the startribune.com Web site (for example, in the Talk discussion forums), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot be responsible for information that you choose to publicly disclose. Further, you are solely responsible for maintaining the secrecy of any passwords or other account information.
+**Remember the risks when you use the Internet**  
+You should know that when you voluntarily disclose personal information on the startribune.com Web site (for example, in the Talk discussion forums), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot be responsible for information that you choose to publicly disclose. Further, you are solely responsible for maintaining the secrecy of any passwords or other account information. Although we make good faith efforts to store the information we collect in a secure operating environment that is not available to the public and to work with responsible third parties, we cannot guarantee complete security for your information. 
 
 In addition, our advertisers, content providers, partners and other Internet sites or services that may be accessible through startribune.com have separate data and privacy practices that are independent of us, and we disclaim any responsibility or liability for their policies or actions. Please contact those sites directly if you have questions about their privacy policies.
 
-**
-
-International users
-
-**
-
+**International users**  
 If you are an international user, by using startribune.com or by registering for any of its services, you agree that startribune.com may collect, use and transfer your personal information as described in this privacy policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by going to your account information page and personally updating the information. in accordance with applicable law by contacting us. In some jurisdictions, you may be charged a reasonable fee for access to information.
 
-**
+**Platform for Privacy Preferences.**  
+Startribune.com supports P3P, the Platform for Privacy Preferences, which allows us to convey our privacy policies, to the extent possible, in standardized, machine-readable code. While our site supports P3P, the resulting code has inherent limitations such that it does not fully and may not accurately express all of our data practices. Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may interpret P3P code in a manner inconsistent with the original intention. Accordingly, your browser's interpretation of the P3P code should only be considered as a short-hand expression of our privacy practices. This Privacy Policy remains our primary policy, and takes precedence over the P3P code for all purposes.
 
-General
-
-**
-
+**General**  
 In the event of the sale or merger of The Star Tribune Company and/or The McClatchy Company, ownership of the user registration information described in this Privacy Policy will be transferred to the acquiring or successor company.
 
-Startribune.com endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at startribune.com, 425 Portland Ave., Minneapolis, MN 55488, at (612) 673-9022 or at [feedback@startribune.com](mailto:feedback@startribune.com)
+Startribune.com endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at:
 
-_Updated May 3, 2002._
+Offices: startribune.com, 425 Portland Ave., Minneapolis, MN 55488  
+E-mail: [Feedback Form](http://www.startribune.com/feedback)
+
+  
+Effective Date: May 14, 2003  
+[Previous policy](http://www.startribune.com/stories/776/40762.html)  
+
+
+|  |  |   
+---|---  
+| 
