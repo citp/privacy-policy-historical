@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the miele.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miele.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html) for the most accurate reproduction.*
 
 # Miele, Inc.: Your Privacy
 
 |    
 ---  
 [Residential Appliances](https://web.archive.org/ "Washing Machines, Vacuum Cleaners, Dishwashers, Cooking appliances")  
-[Vacuum Cleaners](http://www.mielevacuums.com/ "Canister & Upright Vacuum Cleaners")  
+[Vacuum Cleaners](http://www.mielevacuumcleaner.com/ "Canister & Upright Vacuum Cleaners")  
 [Dishwashers](http://www.miele.com/usa/dishwashers/dishwashers.html "Dishwashers")  
 [Cooking Appliances](http://www.miele.com/usa/cooking/cooking2.html "Ovens, Cooktops, Ventilation Hoods, Combisets")  
 [Steam Oven](http://www.miele.com/usa/cooking/steam-oven/benefits.asp "Steam Oven")  
 [Coffee System](http://www.miele.com/usa/cva/cva.html "Built-in Coffee System")  
 [Laundry Products](http://www.miele.com/usa/laundry/fabric_care.html "Washing Machines, Vented Dryers, Condenser Dryers, Rotary Irons")  
 [Dealer Locator](http://www.miele.com/locator.html "Find your local authorized Miele dealer")  
-[Miele Store](https://www.mieledealernet.com/consumer/start "Coming Soon!")  
+[Miele Store](http://www.miele.com/mielestore.asp "Shop Now!")  
 [Professional Products](http://www.miele.com/usa/professional/profIntro.html "Laboratory Glassware, Medical-Dental Disinfectors, Wet Cleaning, Industrial Parts Cleaning")  
 [Lab Glassware Washers](http://www.labwashers.com/ "Undercounter and Large Capacity Laboratory Glassware Washers")  
 [Dental Disinfectors](http://www.dentaldisinfector.com/ "Medical-Dental Equipment Disinfectors")  
@@ -25,19 +25,19 @@ PRIVACY POLICY
 Miele, Inc. ("Miele") is committed to safeguarding your privacy online. Please read this privacy policy to understand how your personal information will be treated as you make full use of this website (the "Site"). This privacy policy is only applicable to the information we collect from the Site. This privacy policy may change from time to time, so please check back periodically.   
    
   
-  1. [What this privacy policy covers](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#I)
-  2. [Information collection & use](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#II)
-  3. [Information sharing & disclosure](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#III)
-  4. [Cookies](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#IV)
-  5. [IP Addresses](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#V)
+  1. [What this privacy policy covers](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#I)
+  2. [Information collection & use](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#II)
+  3. [Information sharing & disclosure](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#III)
+  4. [Cookies](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#IV)
+  5. [IP Addresses](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#V)
 
 | 
 
-  6. [Links to other sites](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#VI)
-  7. [Security & integrity of information](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#VII)
-  8. [Retention of information](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#VIII)
-  9. [Your privacy choices](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#IX)
-  10. [Questions or suggestions](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/privacy.html#X)
+  6. [Links to other sites](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#VI)
+  7. [Security & integrity of information](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#VII)
+  8. [Retention of information](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#VIII)
+  9. [Your privacy choices](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#IX)
+  10. [Questions or suggestions](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html#X)
 
   
   
@@ -89,7 +89,7 @@ When a web browser requests a web page or e-mail from another computer on the In
 Top
   6. LINKS TO OTHER SITES
 
-We may provide [links to external sites](https://web.archive.org/web/20041204012426id_/http%3A//www.miele.com/miele-network/miele-network.asp) as a convenience to you. When you click on any such link, you will leave the Site. The inclusion of any such link does not imply Miele's endorsement of the owner or operator of the external site, the external site itself, or the products or services that the external site describes, promotes or sells. We are not responsible for the privacy practices or the content of external sites. Our privacy policy does not apply to any external site, and Miele is not responsible for the accuracy of any content supplied via any such external site. Should you rely upon that content, or otherwise use it in any way, you do so at your own risk.   
+We may provide [links to external sites](https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/miele-network/miele-network.asp) as a convenience to you. When you click on any such link, you will leave the Site. The inclusion of any such link does not imply Miele's endorsement of the owner or operator of the external site, the external site itself, or the products or services that the external site describes, promotes or sells. We are not responsible for the privacy practices or the content of external sites. Our privacy policy does not apply to any external site, and Miele is not responsible for the accuracy of any content supplied via any such external site. Should you rely upon that content, or otherwise use it in any way, you do so at your own risk.   
 Top
   7. SECURITY AND INTEGRITY OF INFORMATION
 
