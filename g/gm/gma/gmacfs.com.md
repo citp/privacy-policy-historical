@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmacfs.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602150026id_/http%3A//www.gmacfs.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacfs.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024113202id_/http%3A//www.gmacfs.com/privacy/index.htm) for the most accurate reproduction.*
 
 # GMAC Financial Services
 
