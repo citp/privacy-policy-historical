@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thegrocer.co.uk privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034732id_/http%3A//www.grocertoday.co.uk/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocer.co.uk privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605015123id_/http%3A//www.grocertoday.co.uk/privacypolicy.asp) for the most accurate reproduction.*
 
-# Grocer Today : December 5th 2003
+# Grocer Today : June 5th 2004
 
 PRIVACY POLICY
 
 **William Reed Publishing Ltd** takes the privacy of all its users and customers seriously and takes great care with information they provide.  This Privacy Policy outlines how we may use your personal information and forms part of the  
-**[Terms and Conditions](https://web.archive.org/web/20031205034732id_/http%3A//www.grocertoday.co.uk/tandc.asp)** of this site.  In future we may have occasion to modify our Privacy Policy and any modifications will be notified on our homepage. 
+**[Terms and Conditions](https://web.archive.org/web/20040605015123id_/http%3A//www.grocertoday.co.uk/tandc.asp)** of this site.  In future we may have occasion to modify our Privacy Policy and any modifications will be notified on our homepage. 
 
 In order to provide our users and customers with a range of services, we may collect personal information from our websites, from telephone responses, from written information sent to us and from other communications. We may for example, keep a record of your name, mailing address, email address and telephone number. 
 
