@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624071627id_/http%3A//www.armstrong.com/corporatena/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032423id_/http%3A//www.armstrong.com/corporatena/privacy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
@@ -87,9 +87,9 @@ Armstrong provides the following choices regarding the use of your information.
 
   * You may set your browser to reject cookies and to erase cookies that have already been placed on your hard drive. However, if you do so, your ability to navigate this site will be limited. 
   * You may choose not to provide us with any contact information.
-  * If you would like to unsubscribe to any of our services or would like us to remove you from any of our on-line mailing lists, send our webmaster an e-mail at [unsubscribe@armstrong.com](mailto:unsubscribe@armstrong.com) and write "unsubscribe Armstrong" on the subject line. Please include your name and e-mail address in the body of the message. 
+  * If you would like us to manage your contact status or be removed from any of our on-line mailing lists, click [here.](https://web.archive.org/membership/opt_in_acct.jsp)
   * If you do not want your personal or nonpersonal information merged with cookie and other information, you should not use the Armstrong Web site. 
-  * If you would like Armstrong to delete any personal information you have provided, please send an e-mail at [unsubscribe@armstrong.com](mailto:unsubscribe@armstrong.com) and write "Delete Personal Info" on the subject line. 
+  * If you would like Armstrong to delete any personal information you have provided, please send an e-mail at [deletepersonalinfo@armstrong.com](mailto:unsubscribe@armstrong.com) and write "Delete Personal Info" on the subject line. 
 
 
 
