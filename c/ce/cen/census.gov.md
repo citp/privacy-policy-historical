@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620204211id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2000-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001121093500id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
 
 # Census Policy Statements
 
@@ -22,7 +22,7 @@ Thank you for visiting the U.S. Census Bureau's Internet web site and reviewing 
 
 This information does not identify you personally. We maintain the above information in system logs. We use this information to make our site more useful to visitors by learning the number of visitors to our site, the number of pages served, and the level of demand for specific pages. We do not track or record information about identifiable individuals and their visits. 
 
-We generally do not use cookies, which are files or file entries placed on your computer's hard drive by a web site that allows monitoring of your use of the site. Some activities, such as using the American FactFinder, do require the use of transient cookies. Transient cookies are only held in memory and go away when you exit the browser. 
+We generally do not use cookies, which are files or file entries placed on your computer's hard drive by a web site, that allow monitoring of your use of the site. Some activities, such as using the American FactFinder, do require the use of transient cookies. In American FactFinder, transient cookies are used to keep track of user selections so that new requests for specific data or maps can be created more efficiently. No personally identifiable information is permanently retained on either the user's or the Census Bureau's computers. These transient cookies go away completely when you exit the browser. 
 
 **Information Collected from E-mail:** When you send us personally-identifying information in an e-mail, we use the information you provide only to help us gather the information you might request. In an effort to respond to your request, information you submit may be viewed by various people within the Census Bureau. Public notices issued by the Bureau in which interested persons are invited to comment by e-mail will contain a notice of what we intend to do with the data gathered. Once received, the information in your e-mail is protected in accordance with law (e.g., the Privacy Act and the Freedom of Information Act). 
 
@@ -40,7 +40,7 @@ The following additional policies apply to purchasers of Census Bureau products.
 > 
 > If you are providing a credit card number, link to our catalog page to learn about our credit card security policy. Any page describing a product for sale by e-commerce will include a "Buy" box at the bottom. Clicking on the box will take you to a page linking to our credit card security statement. 
 > 
-> Cookies are enabled to track your order through the process. 
+> Transient cookies are enabled to track your order through the process. 
 
 ### Privacy Policy for Respondents to Surveys and Censuses
 
@@ -103,6 +103,6 @@ Whoever, being or having been an employee or staff member referred to in subchap
 2\. The Census Address List Improvement Act of 1994 (P.L. 103-430) amends section 214 making references to section 16 and "census liaisons." 
 
   
-[Census 2000](https://web.archive.org/dmd/www/2khome.htm)  |  [Subjects A to Z](https://web.archive.org/main/www/subjects.html)  |  [Search](https://web.archive.org/main/www/srchtool.html)  |  [Product Catalog](https://web.archive.org/mp/www/censtore.html)  |  [Data Access Tools](https://web.archive.org/main/www/access.html)  |  [Privacy · Policies](https://web.archive.org/main/www/policies.html)  |  [Contact Us](https://web.archive.org/main/www/contacts.html)  |  [Home](https://web.archive.org/index.html)   
+[](http://brillig.ssd.census.gov/surveys/users.html) [Census 2000](https://web.archive.org/dmd/www/2khome.htm)  |  [Subjects A to Z](https://web.archive.org/main/www/subjects.html)  |  [Search](https://web.archive.org/main/www/srchtool.html)  |  [Product Catalog](https://web.archive.org/mp/www/censtore.html)  |  [Data Access Tools](https://web.archive.org/main/www/access.html)  |  [FOIA](https://web.archive.org/po/www/foia/foiaweb.htm)  |  [Privacy · Policies](https://web.archive.org/main/www/policies.html)  |  [Contact Us](https://web.archive.org/main/www/contacts.html)  |  [Home](https://web.archive.org/index.html)   
   
 
