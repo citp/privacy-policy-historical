@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605052617id_/http%3A//www.idg.com.hk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417140743id_/http%3A//www.idg.com.hk/about/privacy) for the most accurate reproduction.*
 
 # IDG Communications - Hong Kong : Privacy
 
 ## IDG Hong Kong Online Privacy Statement
 
-[](https://www.truste.org/validate/7693)This confirms that IDG Communications (HK) Ltd is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for idg.com.hk, cw.com.hk and pcworld.com.hk. If you have questions or concerns regarding this statement, you should first contact the Webmaster by e-mail at [webmasterhk@idg.com.hk](mailto:webmasterhk@idg.com.hk). 
+[](https://www.truste.org/validate/7693)IDG Communications (HK) Ltd is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for idg.com.hk, cw.com.hk and pcworld.com.hk. If you have questions or concerns regarding this statement, you should first contact the Webmaster by e-mail at [webmasterhk@idg.com.hk](mailto:webmasterhk@idg.com.hk). 
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "[TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/watchdog.html)" TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -35,7 +35,11 @@ E-mail: [webmasterhk@idg.com.hk](mailto:webmasterhk@idg.com.hk)
 
 IDG Hong Kong's Web sites collects optional data supplied by visitors to our web site through registration, surveys, sweepstakes or contests, as well as information that we gather from visitors via our server log, such as. IP addresses, access date and time, browser type and version, referrer URLs of all visitors. This data is used solely for the purpose of analyzing traffic on IDG Hong Kong's Web sites. This information enables us to better tailor our content to your interests, and to help our advertisers better understand the audience they are reaching. Our site is completely free, and is supported by paid advertisements and it is therefore critically important for us to be able to identify our audience. Information is only shared with advertisers or any other third parties in aggregate form. We are also firmly committed to identifying whether information presented on our sites is written by our editorial staff or is contributed by a user or vendor.
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+
+**Ad Serving Technology**
+
+IDG.com has contracted with DoubleClick to serve all advertising on http://www.idg.com, both on the Web site and through our email newsletters. When DoubleClick serves ads to the user, it uses cookies to track certain types of non-personally identifiable information: for example, a user's IP address, browser version or type, operating system, service provider, and local time. In addition, IDG.com uses clear GIFs, or pixel tags, provided by DoubleClick to allow the browser's cookie to be recognized when the browser visits IDG.com. Information collected and shared through this technology is not personally identifiable (i.e., it does not include your name, address, telephone number, or email address). DoubleClick does share non-personally identifiable information, such as user profiles based on clickstream profile data, with IDG.com, but strictly in aggregate form. For more details about the information DoubleClick collects and the opportunity to opt out of such data collection, please visit: <http://www.doubleclick.net/privacy_policy/>. 
 
 **IP Addresses**
 
@@ -43,7 +47,7 @@ For each visitor to our site, our web server automatically records the visitor's
 
 **Newsletter**
 
-In order to subscribe to our various newsletters <http://www.idg.com.hk/subscription/> we do require the following information to be provided to us such as, your name, title, address, phone number, fax number and or email address. The fields are clearly marked within each field for proper identification.
+In order to subscribe to our various newsletters <http://www.idg.com.hk/subscription/> we do require the following information to be provided to us such as, your name, title, address, phone number, fax number and or email address. The fields are clearly marked within each field for proper identification.You can also unsubscribe your newsletter, you will receive an e-mail confirming your information has been deleted from our database. No more personal data will be keep for future use.
 
 **Choice/Opt-out**
 
@@ -121,7 +125,7 @@ E-mail: [webmasterhk@idg.com.hk](mailto:webmasterhk@idg.com.hk)
 
 ### What security procedures are in place to protect the loss, misuse, or alteration of information under IDG Hong Kong's control?
 
-IDG Hong Kong Web sites have security measures in place to protect the loss,misuse and alteration of the information under our control. Internally, IDG Hong Kong restricts access to personally identifiable information. These hardened security systems include firewalls, authenticated access to internal databases, and audit of regular procedures. Only employees who need access to the information in order to do their jobs have access. These employees are limited in number, and are committed to our privacy and security policies.
+IDG Hong Kong Web sites have security measures in place to protect the loss,misuse and alteration of the information under our control. Internally, IDG Hong Kong restricts access to personally identifiable information. These hardened security systems include firewalls, authenticated access to internal databases, and audit of regular procedures. Only employees who need access to the information in order to do their jobs have access. These employees are limited in number, and are committed to our privacy and security policies. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the Secure Sockets Layer (SSL) protocol.
 
 ### Legal Disclaimer
 
