@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2002-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020127071957id_/http%3A//babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209162729id_/http%3A//www.babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,8 +18,8 @@ Our site has public areas such as message boards. Please remember that any infor
 
 **E-mail Services** Sign up [here ](https://web.archive.org/register) for free e-mail newsletters at BabyCentre including:
 
-7 BabyCentre Newsletter  our general newsletter with updates, news and polls  
-7 My Baby this Week  a personalised newsletter, written for your stage of pregnancy or your babys age.
+* BabyCentre Newsletter - our general newsletter with updates, news and polls  
+* My Baby this Week - a personalised newsletter, written for your stage of pregnancy or your baby's age.
 
 To unsubscribe to any of our e-mail newsletters, follow the instructions at the end of the newsletter(s) or click [ here.](https://web.archive.org/register/unsubscribe)
 
@@ -53,4 +53,4 @@ By using our Web site, you consent to our Terms of Use policy. To review that no
 
 **Your Questions and Comments**
 
-Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is comments@babycentre.co.uk. See [About BabyCentre ](https://web.archive.org/about)to find out more about our company and our policies.                                                                                                        
+Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is comments@babycentre.co.uk. See [About BabyCentre](https://web.archive.org/about) to find out more about our company and our policies.                                                                                                        
