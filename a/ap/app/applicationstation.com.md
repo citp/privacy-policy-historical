@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the applicationstation.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applicationstation.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/privacy.php) for the most accurate reproduction.*
 
 # ApplicationStation.com :: Personal Privacy Policy
 
 [printable page](http://www.applicationstation.com/privacy.php?printable=1)  
-[Index](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/index.php) > [Personal Privacy Policy](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/privacy.php)  
+[Index](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/index.php) > [Personal Privacy Policy](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/privacy.php)  
 |  |   
 ---  
   
 |   
 ---  
-[Home](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/index.php)   
+[Home](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/index.php)   
    
-[Solutions](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/solutions.php)   
-[Customer Care](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/help.php)   
-[Our Technology](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/technology.php)   
-[Corporate Profile](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/corporate.php)   
-[Our Partners](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/techPartners.php)   
+[Solutions](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/solutions.php)   
+[Customer Care](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/help.php)   
+[Our Technology](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/technology.php)   
+[Corporate Profile](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/corporate.php)   
+[Our Partners](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/techPartners.php)   
    
-[Press Releases](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/press.php)   
+[Press Releases](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/press.php)   
    
-[Careers](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/careers.php)   
-[Contact us](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/contact.php)   
+[Careers](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/careers.php)   
+[Contact us](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/contact.php)   
    
-[Our World](https://web.archive.org/web/20010602123137id_/http%3A//www.applicationstation.com/world.php)   
+[Our World](https://web.archive.org/web/20011021155156id_/http%3A//www.applicationstation.com/world.php)   
   
 ##  Personal Privacy Policy
 
