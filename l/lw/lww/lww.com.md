@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607020236id_/http%3A//lww.com/privacy/1%2C2415%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2002-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020110122144id_/http%3A//lww.com/privacy/0%2C2415%2C%2C00.html) for the most accurate reproduction.*
 
 # Lippincott Williams & Wilkins
 
 **Privacy Policy for LWW**
 
-Lippincott Williams & Wilkins has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Lippincott Williams & Wilkins ([http://www.lww.com](http://www.lww.com/))
+Lippincott Williams & Wilkins has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Lippincott Williams & Wilkins ([http://www.lww.com](https://web.archive.org/home))
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart.
 
@@ -26,7 +26,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-You can visit the following URL: [/e-news/](http://lippincott.rsvp0.com/servlet/website/ResponseForm?spiipgJhmmElNIlJkpIL_Mhkt_gLP)
+You can visit the following URL: [/e-news/](http://lippincott.rsc02.net/servlet/website/ResponseForm?spiipgJhmmElNIlJkpIL_Mhkt_gLP)
 
 
 ## Contacting the Web Site
