@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 1999-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991122095339id_/http%3A//dictionary.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607054308id_/http%3A//www.dictionary.com/help/privacy.html) for the most accurate reproduction.*
 
 # Dictionary.com/Privacy Statement
 
-**Privacy Statement**
-
-Lexico Publishing Group, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Dictionary.com.
+Lexico, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Dictionary.com.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
 
@@ -12,11 +10,15 @@ This site contains links to other sites. **Dictionary.com** is not responsible f
 
 **Dictionary.com** only shares aggregate information with its affiliates, advertisers and business partners. **Dictionary.com** does not share any information about specific visitors.
 
-Our online surveys may ask visitors for contact information (like their email address), demographic information (like their zip code, age, or income level), and other information. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.
+Our online surveys ask visitors for contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.
 
-We may run contests on our site in which we ask visitors for contact information (like their email address), demographic information (like their zip code, age, or income level), and other information. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
+We run contests on our site in which we ask visitors for contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
 We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site.
+
+To find out more about how L90 manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.l90.com/external_site/privacy_policy.html>.
+
+To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
 
 ## Public Forums
 
@@ -45,11 +47,11 @@ This Web site meets the guidelines of TRUSTe's Children's program.
 
 ## Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners **at the point where we request information about the visitor**.
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners _at the point where we request information about the visitor_.
 
-If you did not opt out at the point where we requested information, this site gives you the following option for removing your information from our database in order not to receive future communications from us or to no longer receive our service: 
+This site gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service: 
 
-  * You can send email to [webmaster@dictionary.com](mailto:webmaster@dictionary.com)
+  * You can send email to [webmaster@dictionary.com](http://www.dictionary.com/help/forms/webmaster.html?Choice/Opt-Out)
 
 
 
@@ -57,7 +59,7 @@ If you did not opt out at the point where we requested information, this site gi
 
 This site gives users the following option for changing and modifying information previously provided:
 
-  * email [webmaster@dictionary.com](mailto:webmaster@dictionary.com)
+  * email [webmaster@dictionary.com](http://www.dictionary.com/help/forms/webmaster.html?Correct/Update)
 
 
 
@@ -65,9 +67,8 @@ This site gives users the following option for changing and modifying informatio
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-> Publisher  
->  Lexico Publishing Group, LLC  
->  8505 Gulana Avenue  
->  Suite 6110  
->  Playa del Rey, CA 90293  
->  [webmaster@dictionary.com](mailto:webmaster@dictionary.com)
+> Customer Service  
+>  Lexico, LLC  
+>  554 Rialto Avenue  
+>  Venice, CA 90291  
+>  [webmaster@dictionary.com](http://www.dictionary.com/help/forms/webmaster.html?Privacy%20Policy)
