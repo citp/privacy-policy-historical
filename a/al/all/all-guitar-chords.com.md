@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-guitar-chords.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206121321id_/http%3A//www.all-guitar-chords.com/guitar_chords_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-guitar-chords.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611073205id_/http%3A//all-guitar-chords.com/guitar_chords_privacy.php) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -13,10 +13,6 @@ This site uses outside ad companies to display ads on this site. These ads may c
 Our web sites are not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. 
 
 All Guitar Chords uses non-identifying cookies to provide easier site navigation and access to forms. You can still use the All Guitar Chords sites if your browser is set to reject cookies. Our cookies do not generate personal data, do not read personal data from your machine and are never tied to anything that could be used to identify you. 
-
-**Personal Information Collection Online**
-
-The All Guitar Chords does not collect users personal information like: names, postal and e-mail addresses. 
 
 **Links on the Site**
 
