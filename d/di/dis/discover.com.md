@@ -1,0 +1,93 @@
+> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606030727id_/http%3A//www.discover.com/privacy-policy) for the most accurate reproduction.*
+
+# Science news articles, Discover Magazine subscriptions, Science magazines online - Discover.ComPrivacy Policy
+
+****
+
+Discover Magazine is a part of The Walt Disney Company. The Walt Disney Company also has other direct and indirect subsidiaries and affiliated entities. These subsidiaries and affiliated entities offer or support other products and services outside. These businesses are referred to in this Privacy Policy as the "offline businesses" of The Walt Disney Company.  This Privacy Policy discloses how Discover Magazine collects, protects, uses, and shares information gathered about you on Discover.com ([www.discover.com](https://web.archive.org/)), as well as how Discover Magazine collects, protects, uses, and shares information gathered through any subscription to and/or use you make of Discover.com. Unless specifically mentioned below, this Privacy Policy applies only to information gathered in these ways and does not apply to information collected by other businesses of The Walt Disney Company through other means, such as by telephone, mail or transactions at Disney stores, theme parks and other locations. Finally, of course, the terms of this Privacy Policy are subject to all applicable laws. 
+
+**Q1: What information are we collecting, and how are we collecting it?**
+
+ **Q2: How do we use the personally identifiable information that we have collected?**
+
+ **Q3: How do we share information with other businesses of The Walt Disney Company and with businesses that are not part of The Walt Disney Company?**
+
+**Q4: What type of security do we provide?**
+
+ **Q5: How can I access my account information?**
+
+ **Q6: Whom do I contact with questions or concerns about this Privacy Policy?**
+
+ **Q7: How will you know if we amend this Privacy Policy? **
+
+******  A1: We collect various forms of information in various ways: **
+
+****Information You Provide** **
+
+**When you request information on Discover.com about Discover Magazine, we may ask you to provide us with certain information about yourself and other members of your household. You will always know when Discover.com collects personally identifiable information because you will have to supply that information to us or give your permission for us to collect that information. When you subscribe to Discover Magazine or sign up for Discover.com membership we may request additional information from you, such as credit card information and shipping information. Again, you will know when we collect this additional information from you because you will have to provide it to us. **
+
+****Information Collected From You With Technology ****
+
+****Discover.com uses information collected through technology to make our site more interesting and useful to you. In some circumstances, it may not be readily apparent to you that such information is being collected. For instance, when you come to Discover.com, your IP address is collected. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. ****
+
+****At times we also collect information regarding the frequency with which our visitors visit various parts of Discover.com and where on our site they visit, as well as information regarding our visitors’ responses to e-mails that we send to them. We may combine this information with personally identifiable information to identify a visitor in order to provide relevant content, ads, and e-mails to that visitor, as well as to enforce compliance with our Rules and Terms of Service, and to protect our service, site, visitors, and other parties.****
+
+ ** ** **What Are Cookies and Web Beacons, and How Does Discover.com Use Them? ******
+
+****Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more efficient. Web site operators use cookies for a variety of purposes. For instance, when you return to Discover.com, cookies enable that site to remember who you are, so you don’t have to log in again. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, like the features mentioned above, and some of the services of Discover.com may not function properly.****
+
+ ** **Discover.com also uses Web beacons (which are also known as clear GIFS). Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We use Web beacons to send cookies to your computer. We also use Web beacons to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites. The Web beacons on Discover.com may send data either directly from us or from another party authorized by us, and these Web beacons may transmit information either directly to us or to another party authorized by us to collect information on our behalf. This information is not collected, however, in a form that is personally identifiable. In addition, we use Web beacons in HTML e-mails that we send our members, in order to determine whether our members have opened those e-mails. This information may be gathered in a form that is personally identifiable. Finally, network advertisers who place advertisements on our Web sites may also use Web beacons in accordance with their privacy policies, as described in A4 below. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our sites, and this information may permit us to determine the identity of other sites that you have visited that are also associated with the network advertiser.****
+
+ ** ** **Information Collected From Other Sources ******
+
+****At times, we may supplement the record of a visitor to Discover.com (or the record of a subscriber to Discover.com) with data from third parties in order to determine a potential subscriber’s creditworthiness, as well as to serve our visitors and subscribers by providing, among other things, relevant content, ads, and e-mail and postal mail promotional materials. This third-party data may be either general demographic information or information specific to our individual visitors and subscribers. For example, with respect to general demographic information, there are companies that infer a consumer’s preferences based on the consumer’s zip code. With a zip code, these companies can generally infer home ownership, vacation choices, television viewing habits, and similar characteristics. With this additional information, we can then better customize our content, ads, and e-mail based on these inferred characteristics. Discover Magazine will hold and use the information that it collects from other sources in accordance with this Privacy Policy. Finally, Discover Magazine may collect information from the offline businesses of The Walt Disney Company, as described below in A3. ****
+
+**Q2: How do we use the personally identifiable information that we have collected? **
+
+A2: Discover Magazine uses personally identifiable information that it has collected in a number of ways. One of the ways we use such information is to send you updates and provide you information about Discover.com. We use also use information to complete transactions, such as processing orders for Discover.com. If you contact us for help, we will use the information to respond to you. We also use the information you provide to send you e-mail and postal mail Discover Magazine promotions, as well as offers from other companies and the offline businesses of The Walt Disney Company, unless you have elected not to receive these promotions and offers. 
+
+**Q3: How do we share information with other businesses of The Walt Disney Company and with businesses that are not part of The Walt Disney Company? **
+
+A3: We share your information in various ways: 
+
+**Information Concerning Individuals Who Have Not Yet Subscribed to Discover.com**
+
+If you visit Discover.com and provide us with personal information, we may share that information with other businesses of The Walt Disney Company, as well as with businesses that are not part of The Walt Disney Company, so that these businesses may send you information and special offers about products and services that they offer. Of course, we will provide you an opportunity tell us that you do not wish to have us share your information for this purpose. 
+
+**Companies That Are Involved in Providing Discover.com**
+
+Various companies work with us to provide Discover.com. Other companies help us fulfill your subscription orders and process your requests concerning Discover.com, or help us communicate with you or assist us in gathering your information. Except as otherwise permitted by other provisions of this Privacy Policy, all of these companies are allowed to gather, receive, and use your information, but only for purposes connected with Discover.com. 
+
+**Sale of Business**
+
+In the event that Discover Magazine were sold, the personal information of customers and potential customers of Discover Magazine, including subscribers to Discover.com, likely would be transferred to the buyer of Discover Magazine (including Discover.com). In that event, Discover Magazine will include provisions in the selling contract to require the purchaser to treat your personally identifiable information in the same manner you requested under this Privacy Policy (including any amendments to this Privacy Policy). In addition, Discover Magazine will give notice to individuals whose information is affected by the sale, in accordance with the procedures described in A9 below. 
+
+Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Visitors and Our Sites 
+
+We may disclose personally identifiable information concerning you to a law enforcement agency pursuant to a warrant issued under the Federal Rules of Criminal Procedure, an equivalent State warrant, a grand jury subpoena, and certain court orders. To the extent permitted by law, we may also disclose personally identifiable information concerning you in order to enforce our Terms of Service, our Web site rules, and to protect the safety and security of our Web site, ourselves, and others. 
+
+**Non-Personally Identifiable Information**
+
+Personally identifiable information is information that identifies a particular individual. In addition to sharing personally identifiable information as described above, we may share aggregated or anonymized information concerning you in other ways. 
+
+**Third-Party Advertisers and Network Advertisers**
+
+To ensure our visitors’ privacy, we allow advertising on Discover.com from only those companies that have their own privacy policy. Once you've clicked on an advertisement and have left Discover.com, this Privacy Policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site. 
+
+**Q4: What type of security do we provide?**
+
+A4: The importance of security for all personally identifiable information associated with our customers and potential customers is of great concern to us. Discover Magazine takes technical, contractual, administrative, and physical security steps to protect all visitors' information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. There are some things that you can do to help protect the security of your information as well. For instance, never give out your password, since this is what is used to access all of your account information. Also, remember to sign out of your account and close your browser window when you finish surfing the Web, so that other people using the same computer won't have access to your information. 
+
+**Q5: How can I access my account information?**
+
+A5: You can access the personally identifiable information you gave us during registration at our member services center. Simply click on this link ****[ Discover Customer Care](https://w1.buysub.com/pubs/G4/DCR/DCR_New_EmailEntryForm.jsp?cds_page_id=3097&cds_mag_code=DCR&id=RpOpOII) and then log in with your member name and password. There are instructions on the start page to help you recover your password if you've forgotten it. You can also contact us via e-mail at _[DCRcustserv@CDSfulfillment.com](mailto:DCRcustserv@CDSfulfillment.com)_. Please include information in the e-mail that will help us identify your account so we can assist you with your inquiry or request. By requesting access to your information in this way, you will also be able to access any of your registration information that has been shared with offline businesses of Discover Magazine. Thus, you will know if your registration information has been shared with these businesses, and you will know with which of these businesses it has been shared. 
+
+**Q6: Whom do I contact with questions or concerns about this Privacy Policy?**
+
+A6: If you need further assistance, please send an e-mail with your questions or comments to _[privacyconcerns@discover.com](mailto:privacyconcerns@discover.com)_ or write us at: Discover Magazine, 114 Fifth Avenue, New York, NY 10011. 
+
+**Q7: How will you know if we amend this Privacy Policy?**
+
+A7: We may amend this Privacy Policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by sending you an e-mail at the last e-mail address that you gave us, and/or by prominently posting notice of the changes on Discover.com. Any material changes to this Privacy Policy will be effective upon the earlier of ten (10) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on Discover.com. Changes to this Privacy Policy may affect our use, and use by other companies, of personal information that you gave us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your information, you must notify us prior to the effective date of the changes that you wish to close your account with us.  
+
+Discover Magazine is a licensee of the TRUSTe Privacy Program. If you believe that Discover Magazine has not responded to your inquiry or that your inquiry has not been satisfactorily addressed, please contact **TRUSTe** _[http://www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html)_ **.**
