@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604064523id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202073405id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
 
 # MEDLINEplus: Privacy Policy
 
-Skip to content [](https://web.archive.org/medlineplus/healthtopics.html) |  [](https://web.archive.org/medlineplus/druginformation.html) |  [](https://web.archive.org/medlineplus/dictionaries.html) |  [](https://web.archive.org/medlineplus/directories.html) |  [](https://web.archive.org/medlineplus/otherresources.html) |   
----|---|---|---|---|---  
+Skip to content  
+---  
+[](http://medlineplus.gov/) | |   
+  
+[](https://web.archive.org/medlineplus/spanish/privacy.html) [](https://web.archive.org/cgi/medlineplus/feedback.pl?from=%2Fmedlineplus%2Fprivacy%2Ehtml) [](https://web.archive.org/medlineplus/faq/faq.html) [](https://web.archive.org/medlineplus/sitemap.html) [](https://web.archive.org/medlineplus/aboutmedlineplus.html) [](http://medlineplus.gov/)  
+  
+[](https://web.archive.org/medlineplus/healthtopics.html) [](https://web.archive.org/medlineplus/druginformation.html) [](https://web.archive.org/medlineplus/encyclopedia.html) [](https://web.archive.org/medlineplus/dictionaries.html) [](https://web.archive.org/medlineplus/newsbydate.html) [](https://web.archive.org/medlineplus/directories.html) [](https://web.archive.org/medlineplus/otherresources.html)  
   
 
 
@@ -32,6 +37,3 @@ Some NLM Web sites, such as MEDLINEplus, provide links to other Internet sites t
 #### Security
 
 The U.S. Government maintains this site. For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Causing damage to federal computer systems is a violation of U.S. law and is subject to criminal prosecution in federal court. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
-
-  
-
