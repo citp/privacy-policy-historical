@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the where2go.com privacy policy that was archived on 2001-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011024131324id_/http%3A//where2go.com/html/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the where2go.com privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207225232id_/http%3A//www.where2go.com/html/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 FINAL//EN"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.where2go.com&quot; r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.where2go.com&quot; r (n 0 s 0 v 0 l 0))">
 	<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.where2go.com&quot; on &quot;1999.02.24T14:04-0800&quot; r (n 0 s 0 v 0 l 0))">
 	<title>Where2Go.com - The Place to Find a Business on the Web</title>
 
 <script language="JavaScript">
 <!--
 function OpenScrollingPopup(URL, width, height) {
-	window.self.name = "main";
+	window.self.name = "w2g_pub_main";
 	var now = new Date();
 	var remote = window.open(URL, "popup" + now.getTime(), "width=" + width + ",height=" + height + ",toolbar=0,location=0,directories=0,resizable=1,status=1,menubar=0,scrollbars=yes");
 //	if(navigator.appVersion.indexOf("MSIE 3") < 0)
@@ -19,141 +20,10 @@ function OpenScrollingPopup(URL, width, height) {
 defaultStatus = "";
 // -->
 </script>
-	
-	<script language="JavaScript"><!--
-if (document.images) {
-}
-function di(id,name){
-  if (document.images) {document.images[id].src=eval(name+".src"); }
-}
 
-// function that displays status bar message
+</head>
 
-function dm(msgStr) {
-  document.returnValue = false;
-  if (document.images) { 
-     window.status = msgStr;
-     document.returnValue = true;
-  }
-}
-var showMsg = navigator.userAgent != "Mozilla/4.0 (compatible; MSIE 4.0; Mac_PowerPC)";
-function dmim(msgStr) {
-  document.returnValue = false;
-  if (showMsg) { 
-    window.status = msgStr;
-    document.returnValue = true;
-  }
-}
-// -->
-		</script>
-
-		</head><body bgcolor="ffffff" vlink="#666633" link="#006600" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="CSScriptInit();"><csscriptdict>
-			<script><!--
-CSStopExecution = false;
-CSInit = new Array;
-function CSScriptInit() {
-idxArray = new Array;
-for(var i=0;i<CSInit.length;i++)
-	idxArray[i] = i;
-CSAction2(CSInit, idxArray);
-}
-CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
-function IsIE() { return CSAg.indexOf("MSIE") > 0;}
-function CSIEStyl(s) { return document.all.tags("div")[s].style; }
-function CSNSStyl(s) { return CSFindElement(s,0); }
-function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
-	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
-	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
-		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
-	return elem;
-}
-function CSButtonReturn () {
-	var bAgent = window.navigator.userAgent; 
-	var bAppName = window.navigator.appName;
-	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
-		return false; // follow link
-	else return true; // follow link
-}
-CSIm = new Object();
-function CSIShow(n,i) {
-	if (document.images) {
-		if (CSIm[n]) {
-			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
-			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
-			if(i != 0)
-				self.status = CSIm[n][3];
-			else
-				self.status = " ";
-			return true;
-		}
-	}
-	return false;
-}
-function CSILoad(action) {
-	im = action[1];
-	if (document.images) {
-		CSIm[im] = new Object();
-		for (var i=2;i<5;i++) {
-			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
-			else CSIm[im][i-2] = 0;
-		}
-		CSIm[im][3] = action[5];
-	}
-}
-CSStopExecution = false;
-
-function CSAction(array) { 
-	return CSAction2(CSAct, array);
-}
-function CSAction2(fct, array) { 
-	var result;
-	for (var i=0;i<array.length;i++) {
-		if(CSStopExecution) return false; 
-		var actArray = fct[array[i]];
-		var tempArray = new Array;
-		for(var j=1;j<actArray.length;j++) {
-			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
-				if(actArray[j][0] == "VAR") {
-					tempArray[j] = CSStateArray[actArray[j][1]];
-				}
-				else {
-					if(actArray[j][0] == "ACT") {
-						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
-					}
-				else
-					tempArray[j] = actArray[j];
-				}
-			}
-			else
-				tempArray[j] = actArray[j];
-		}			
-		result = actArray[0](tempArray);
-	}
-	return result;
-}
-CSAct = new Object;
-
-// --></script>
-		</csscriptdict>
-		<csactiondict>
-		<script><!--
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Search Central',/*URL*/'/hdr_images/search_blk.gif',/*URL*/'/hdr_images/search_blk_up.gif',/*URL*/'','Search Central');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Contests',/*URL*/'/hdr_images/contests_blk.gif',/*URL*/'/hdr_images/contests_blk_up.gif',/*URL*/'','Contests');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Hot Links',/*URL*/'/hdr_images/hotlinks_blk.gif',/*URL*/'/hdr_images/hotlinks_blk_up.gif',/*URL*/'','Hot Links');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Services',/*URL*/'/hdr_images/services_blk.gif',/*URL*/'/hdr_images/services_blk_up.gif',/*URL*/'','Member Services');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'About Us',/*URL*/'/hdr_images/about_blk.gif',/*URL*/'/hdr_images/about_blk_up.gif',/*URL*/'','About Where2Go');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'List Your Site',/*URL*/'/hdr_images/signup_blk.gif',/*URL*/'/hdr_images/signup_blk_up.gif',/*URL*/'','List Your Site With Where2Go!');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Help',/*URL*/'/hdr_images/help_blk.gif',/*URL*/'/hdr_images/help_blk_up.gif',/*URL*/'','Help!');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Quick Search',/*URL*/'/gifs/srchcnsl/qtab_grn.gif',/*URL*/'/gifs/srchcnsl/qtab_grn_up.gif',/*URL*/'','Quick Search');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Power Search3',/*URL*/'/gifs/srchcnsl/ptab_grn.gif',/*URL*/'/gifs/srchcnsl/ptab_grn_up.gif',/*URL*/'','Power Search');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Search Tips3',/*URL*/'/gifs/srchcnsl/ttab_grn.gif',/*URL*/'/gifs/srchcnsl/ttab_grn_up.gif',/*URL*/'','Search Tips');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Search Contests',/*URL*/'/gifs/srchcnsl/ctab_grn.gif',/*URL*/'/gifs/srchcnsl/ctab_grn_up.gif',/*URL*/'','Search Contests');
-
-// --></script>
-		</csactiondict>
-
-
-
+<body bgcolor="ffffff" vlink="#666633" link="#006600" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 <a name="top">
 <!-- beging header navigation bar -->
 
@@ -179,31 +49,31 @@ CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Search Contests',/*URL*/'/gifs
 			<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 
-								<td align="center"><csobj w="71" h="21" t="Button" ht="/hdr_images/search_blk_up.gif"><a href="/default.html" onmouseover="return CSIShow(/*CMP*/'Search Central',1)" onmouseout="return CSIShow(/*CMP*/'Search Central',0)" onclick="return CSButtonReturn()"><img src="/hdr_images/search_blk.gif" width="71" height="21" name="Search Central" border="0" alt="The Easiest Way to Find a Business on the Web"></a></csobj></td>
+								<td align="center"><a href="/default.html"><img src="/hdr_images/search_blk.gif" width="71" height="21" name="Search Central" border="0" alt="The Easiest Way to Find a Business on the Web"></a></td>
 
 								<td align="center"><img src="/gifs/clear_pixel.gif" width="2" height="1"></td>
 
-								<td align="center"><csobj w="71" h="21" t="Button" ht="/hdr_images/contests_blk_up.gif"><a href="/contests/" onmouseover="return CSIShow(/*CMP*/'Contests',1)" onmouseout="return CSIShow(/*CMP*/'Contests',0)" onclick="return CSButtonReturn()"><img src="/hdr_images/contests_blk.gif" width="71" height="21" name="Contests" border="0" alt="It's Easy To Find Free Contests On-Line!"></a></csobj></td>
+								<td align="center"><a href="/contests/autogen/home.html"><img src="/hdr_images/contests_blk.gif" width="71" height="21" name="Contests" border="0" alt="It's Easy To Find Free Contests On-Line!"></a></td>
 
 								<td align="center"><img src="/gifs/clear_pixel.gif" width="2" height="1"></td>
 
-								<td align="center"><csobj w="71" h="21" t="Button" ht="/hdr_images/hotlinks_blk_up.gif"><a href="/binn/hotlinks.w2g" onmouseover="return CSIShow(/*CMP*/'Hot Links',1)" onmouseout="return CSIShow(/*CMP*/'Hot Links',0)" onclick="return CSButtonReturn()"><img src="/hdr_images/hotlinks_blk.gif" width="71" height="21" name="Hot Links" border="0" alt="The Hottest Links on the Internet"></a></csobj></td>
+								<td align="center"><a href="/binn/hotlinks.w2g"><img src="/hdr_images/hotlinks_blk.gif" width="71" height="21" name="Hot Links" border="0" alt="The Hottest Links on the Internet"></a></td>
 
 								<td align="center"><img src="/gifs/clear_pixel.gif" width="2" height="1"></td>
 
-								<td align="center"><csobj w="71" h="21" t="Button" ht="/hdr_images/services_blk_up.gif"><a href="/html/member.html" onmouseover="return CSIShow(/*CMP*/'Services',1)" onmouseout="return CSIShow(/*CMP*/'Services',0)" onclick="return CSButtonReturn()"><img src="/hdr_images/services_blk.gif" width="71" height="21" name="Services" border="0" alt="Services for Where2Go® Members"></a></csobj></td>
+								<td align="center"><a href="/html/member.html"><img src="/hdr_images/services_blk.gif" width="71" height="21" name="Services" border="0" alt="Services for Where2Go® Members"></a></td>
 
 								<td align="center"><img src="/gifs/clear_pixel.gif" width="2" height="1"></td>
 
-								<td align="center"><csobj w="71" h="21" t="Button" ht="/hdr_images/about_blk_up.gif"><a href="/html/contact.html" onmouseover="return CSIShow(/*CMP*/'About Us',1)" onmouseout="return CSIShow(/*CMP*/'About Us',0)" onclick="return CSButtonReturn()"><img src="/hdr_images/about_blk.gif" width="71" height="21" name="About Us" border="0" alt="Find out What Where2Go® is All About"></a></csobj></td>
+								<td align="center"><a href="/html/contact.html"><img src="/hdr_images/about_blk.gif" width="71" height="21" name="About Us" border="0" alt="Find out What Where2Go® is All About"></a></td>
 
 								<td align="center"><img src="/gifs/clear_pixel.gif" width="2" height="1"></td>
 
-								<td align="center"><csobj w="71" h="21" t="Button" ht="/hdr_images/signup_blk_up.gif"><a href="/html/signup.html" onmouseover="return CSIShow(/*CMP*/'List Your Site',1)" onmouseout="return CSIShow(/*CMP*/'List Your Site',0)" onclick="return CSButtonReturn()"><img src="/hdr_images/signup_blk.gif" width="71" height="21" name="List Your Site" border="0" alt="List Your Site With Where2Go®"></a></csobj></td>
+								<td align="center"><a href="/html/signup.html"><img src="/hdr_images/signup_blk.gif" width="71" height="21" name="List Your Site" border="0" alt="List Your Site With Where2Go®"></a></td>
 
 								<td align="center"><img src="/gifs/clear_pixel.gif" width="2" height="1"></td>
 
-								<td align="center"><csobj w="58" h="21" t="Button" ht="/hdr_images/help_blk_up.gif"><a href="/html/help.html" onmouseover="return CSIShow(/*CMP*/'Help',1)" onmouseout="return CSIShow(/*CMP*/'Help',0)" onclick="return CSButtonReturn()"><img src="/hdr_images/help_blk.gif" width="58" height="21" name="Help" border="0" alt="Answers for All Your Where2Go® Questions"></a></csobj></td>
+								<td align="center"><a href="/html/help.html"><img src="/hdr_images/help_blk.gif" width="58" height="21" name="Help" border="0" alt="Answers for All Your Where2Go® Questions"></a></td>
 
 				</tr>
 			</tbody></table>
