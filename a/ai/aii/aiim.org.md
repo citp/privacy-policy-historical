@@ -1,6 +1,57 @@
-> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401224723id_/http%3A//www.aiim.org/article_pr.asp%3FID%3D20575) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp%3FID%3D20575) for the most accurate reproduction.*
 
-# 
+# AIIM, The ECM Association - AIIM International Privacy Statement
+
+|    Search:  
+ [Advanced Search](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/search-advanced.asp)  
+---  
+   
+Resource Center  
+[About ECM](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/about-ecm.asp)  
+[Articles and Research](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/articles-research.asp)  
+[Bookstore](https://web.archive.org/bookstore)  
+[AIIM E-DOC Magazine](http://www.edocmagazine.com/)  
+[Press Releases](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/all-press-releases.asp)  
+[Solutions Provider Locator](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/solutions-providers.asp)          
+  
+Discussion Tools  
+[Get Advice](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-advice.asp?ID=26175)  
+[Listservs](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=18284)  
+Professional Development  
+[Awards & Recognition](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/awards.asp)  
+[Educational Events](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/all-events.asp)  
+[eLearning](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/elearning.asp)  
+[Job Center](http://jobs.aiim.org/)  
+[Online Seminars](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=28650)  
+Communities  
+[Committees](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=20965)  
+[Communities](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=28612)  
+[Film-based Imaging Assoc.](http://www.fbia.org/)  
+[Local Chapters](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/chapters.asp)  
+Membership  
+[Benefits](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=23121)  
+[Join/Renew Membership](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/product_category.asp?ID=3)  
+[Manage My Account](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/customer-service.asp)  
+Standards  
+[Standards Program](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/standards.asp?ID=28639)  
+[Join Committees](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/standards.asp?ID=28640)  
+About AIIM  
+[About AIIM](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=18274)  
+[AIIM Press Center](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/presscenter.asp)  
+[Board of Directors](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=23455)  
+[Contact Us](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=21272)  
+  
+Business Development  
+[AIIM Market Reach](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=28701)  
+[Sponsor & Advertise](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=26052)  
+AIIM UK  
+[AIIM UK](http://www.aiim.org.uk/)  
+  
+[Login](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/login.asp)
+
+* * *
+
+AIIM International Privacy Statement
 
 This privacy statement discloses the privacy practices for aiim.org and other AIIM online properties, collectively referred to as aiim.org. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. By displaying this statement, this web site has agreed to notify you of:
 
@@ -18,7 +69,7 @@ This privacy statement discloses the privacy practices for aiim.org and other AI
 
 7\. How you can correct any inaccuracies in the information.
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact Lisa Morris, e-mail at [lmorris@aiim.org](mailto:lmorris@aiim.org) or by phone at 301-755-2626.
+If you feel that this company is not abiding by its posted privacy policy, you should first contact Sherrita Morton, e-mail at [smorton@aiim.org](mailto:smorton@aiim.org?subject=AIIM%27s%20Privacy%20Policy) or by phone at 301-755-2609.
 
 **Information Collection and Use**  
 AIIM International is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. AIIM International collects information from our users at several different points on our website.
@@ -60,7 +111,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees use workstation locking to protect access to their personal workstation when not at their desks. When they return, they must re-enter their password to re-gain access to your information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked door. User data is not stored on individual workstations or notebook computers.
 
-If you have any questions about the security at our website, you can send an e-mail to [lmorris@aiim.org](mailto:lmorris@aiim.org). 
+If you have any questions about the security at our website, you can send an e-mail to [webmaster@aiim.org](mailto:webmaster@aiim.org). 
 
 **Site and Service Updates**  
 We also send the user site and service announcement updates. Registered users of the website and Members of AIIM International are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via e-mail or phone.
@@ -77,3 +128,19 @@ Users of our site are always notified when their information is being collected 
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+| 
+
+Review Your: 
+
+* Personal Information  
+
+* Order History 
+* Shopping Cart   
+  
+
+
+  
+
+
+[](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/redirect.asp?url=http://www.aiim.org/webinars&image=../ads/images/160x216webinar.gif)
