@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605235558id_/http%3A//www.toshiba.ca/web/link%3Fid%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015002916id_/http%3A//www.toshiba.ca/web/link%3Fid%3D87) for the most accurate reproduction.*
 
 # Toshiba Canada - Committed to Protecting Your Privacy
 
@@ -41,15 +41,15 @@ We may use your IP address (the Internet address of your computer) to help diagn
 
 |    
   
-**Changes**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with www.shoptoshiba.ca, you can call us at 1-800-TOSHIBA, Monday to Friday 8:00am to 8:00pm ET. For questions about [www.toshiba.ca](http://www.toshiba.ca/) , contact our [webmaster](mailto:webmaster@toshiba.ca)
-
-|    
-  
 **Cookies**
 
 We use cookies to deliver content specific to your interest "Cookies" are small files that may be placed on your hard disk for record-keeping purposes. 
+
+|    
+  
+**Changes**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with www.shoptoshiba.ca, you can call us at 1-800-TOSHIBA, Monday to Friday 8:00am to 8:00pm ET. For questions about [www.toshiba.ca](http://www.toshiba.ca/) , contact our [webmaster](mailto:webmaster@toshiba.ca)
 
 |    
 | 
