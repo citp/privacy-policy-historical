@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216173800id_/http%3A//www.jesus.org/info/1%2C6351%2C2522%2C00.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406041629id_/http%3A//www.jesus.org/info/0%2C6351%2C2522%2C00.htm) for the most accurate reproduction.*
 
-# Crosswalk.com - The intersection of faith and life
+# Crosswalk.com - - Respecting Your Rights
 
   
-|  |    
+|  |  |   
+  |  |   |   
+---|---|---|---  
+|   
+  
 Respecting Your Rights  
 Crosswalk.com Privacy Policy
 
@@ -77,10 +81,10 @@ Advertisers who use cookies while serving their ads
 [ Avenue A](http://www.avenuea.com/info/privacy.asp)
 
   
-|    
+   
 |   
 |    
-|  | [](http://jonathan.didax.com/RealMedia/ads/click_lx.ads/www.crosswalk.com/info/_vgn283924144236689.htm/6141/TopRight/ccbcvb1200/crosswalk4.gif/64316637323863663361336261386130)  
----  
-   
+|    
+  
+|    
 
