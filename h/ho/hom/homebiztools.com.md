@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebiztools.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebiztools.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Home Biz Tools
 
@@ -41,7 +41,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can
 
 Use the online form at:  
-[http://www.homebiztools.com/contact.htm](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/contact.htm)
+[http://www.homebiztools.com/contact.htm](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/contact.htm)
 
 Email us at:   
 [webmaster@homebiztools.com](mailto:webmaster@homebiztools.com)
@@ -56,9 +56,9 @@ Attn: Brett Krkosska
 1133 S. Rock Rd. Ste. 3-101  
 Wichita, KS 67207_
 
-[home](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/index.htm) | [home biz resources](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/resources.htm) | [starting a home biz](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/start-a-biz.htm) | [home jobs](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/homejobs.htm) | [articles & advice](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/freerprt.htm)  
-[free tools](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/freepage.htm) | [what's new](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/new.htm) | [biz board](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/discuss.htm) | [add your resource](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/addasite.htm) | [hosting](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/hosting.htm) | [services](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/services.htm)
+[home](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/index.htm) | [home biz resources](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/resources.htm) | [starting a home biz](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/start-a-biz.htm) | [home jobs](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/homejobs.htm) | [articles & advice](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/freerprt.htm)  
+[free tools](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/freepage.htm) | [what's new](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/new.htm) | [biz board](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/discuss.htm) | [add your resource](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/addasite.htm) | [hosting](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/hosting.htm) | [services](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/services.htm)
 
   
 HomeBizTools is a division of B-K Publications © 2000  
-[E-Zine Subscriptions](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/subscribe.htm)              [Contact Us](https://web.archive.org/web/20001201232500id_/http%3A//homebiztools.com/contact.htm)
+[E-Zine Subscriptions](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/subscribe.htm)              [Contact Us](https://web.archive.org/web/20010410002930id_/http%3A//www.homebiztools.com/contact.htm)
