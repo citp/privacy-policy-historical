@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009191105id_/http%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403181922id_/http%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
 
 # Domain Name Registration and Web Hosting from Domain Direct
 
@@ -14,7 +14,7 @@ Your credit card information is protected in two ways. First of all, as a result
 
 Secondly, our private links to banking networks ensure that your sensitive information is ALWAYS secure once we have received it. All the information traveling on our banking network is guaranteed 100% secure - in fact, it's more heavily-encrypted than your private telephone conversations!
 
-Domain Direct actively works with international banking institutions and law enforcement to discover and prosecute cases of fraudulent credit card use. All connections to, and transactions within Domain Directare logged and regularly audited. WE USE ALL MEANS AVAILABLE TO US TO PURSUE CRIMINAL PROSECUTION AGAINST PERSONS ATTEMPTING FRAUD OR UNAUTHORIZED ACCESS TO OUR SYSTEMS, IN ALL ICPO/INTERPOL JURISDICTIONS.
+Domain Direct actively works with international banking institutions and law enforcement to discover and prosecute cases of fraudulent credit card use. All connections to, and transactions within Domain Direct are logged and regularly audited. WE USE ALL MEANS AVAILABLE TO US TO PURSUE CRIMINAL PROSECUTION AGAINST PERSONS ATTEMPTING FRAUD OR UNAUTHORIZED ACCESS TO OUR SYSTEMS, IN ALL ICPO/INTERPOL JURISDICTIONS.
 
 ## Private Information Policy
 
@@ -45,7 +45,7 @@ CA
 **+1.4165350123 Fax:** +1.4165312516
 
 **Registration Service Provider:**  
-Domain Direct, [**help@domaindirect.com**](mailto:help@domaindirect.com)  
+Domain Direct, [**dnstech@domaindirect.com**](mailto:dnstech@domaindirect.com)  
 1-416-531-2084  
 **http:** //www.domaindirect.com  
 This company may be contacted for domain login/passwords,  
@@ -61,5 +61,4 @@ NS1.DOMAINDIRECT.COM _**216.40.33.21**_
 NS2.DOMAINDIRECT.COM _**216.40.33.22**_  
 NS3.DOMAINDIRECT.COM _**204.50.180.58**_
 
-**Domain status:**   
-REGISTRAR-LOCK 
+**Domain status:** REGISTRAR-LOCK 
