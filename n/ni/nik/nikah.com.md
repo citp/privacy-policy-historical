@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204031751id_/http%3A//www.nikah.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305122044id_/http%3A//www.nikah.com/privacy.asp) for the most accurate reproduction.*
 
 # Nikah.com: The No.1 Muslim Matrimonials Service Provider
 
@@ -52,8 +52,8 @@ Friday, January 31   120
   
 ---  
   
-We would like to thank all of Nikah.com Staff for helping us to find each other. Your service really a worthwhile for our Muslims, who are searching for a life partner. We wish Nikah.com to join thousands of hands like us.   
-\- Hamdi & Rifaya, KSA   
+"Thank you for everything i am now married to a wonderful man that we met here in nikah.com i cannot thank you enough. "  
+\- Muslima,UK   
   
 | Privacy Policy  
 ---  
