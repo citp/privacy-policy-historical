@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metroguide.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618222423id_/http%3A//metroguide.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroguide.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204015959id_/http%3A//metroguide.org/privacy.html) for the most accurate reproduction.*
 
 # MetroGuide
 
@@ -31,7 +31,7 @@ You can also send us mail at: MetroGuide.com, Inc., c/o Legal Department, 3990 S
   
 _© 1996-2004,[MetroGuide.com, Inc.](http://www.metroguide.com/)_ | [Privacy Policy](http://metroguide.org/privacy.html) | [Terms and Conditions](http://metroguide.org/terms.html)
 
-MetroGuide, LodgingGuide, HotelGuide, CondominiumGuide, DiningGuide, EventGuide, NightGuide, RetailGuide, FareGuide, CruiseGuide, AttractionGuide, CarRentalGuide, VenueGuide, TheaterGuide and "Your Guide for Life" are service marks of MetroGuide.com, Inc. TouchGuide and Metropolitan Networks are registered trademarks of MetroGuide.com, Inc.  
+MetroGuide, LodgingGuide, HotelGuide, CondominiumGuide, DiningGuide, EventGuide, NightGuide, RetailGuide, FareGuide, CruiseGuide, AttractionGuide, CarRentalGuide, VenueGuide, TheaterGuide and "Your Guide for Life" are service marks of MetroGuide.com, Inc. TouchGuide, HotelGuide Network and Metropolitan Networks are registered trademarks of MetroGuide.com, Inc.  
 All other trademarks are the property of their respective owners. 
 
 To Contact Us at MetroGuide : [Click Here](http://forms.metromanager.com/asp/ContactMG.asp?s=mg|hp&p=f1). 
