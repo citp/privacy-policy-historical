@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbrotherafrica.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606054414id_/http%3A//bigbrotherafrica.com/Privacy_Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbrotherafrica.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011203741id_/http%3A//bigbrotherafrica.com/Privacy_Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Big Brother Africa
 
