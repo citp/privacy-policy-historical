@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgamer.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604010236id_/http%3A//pcgamer.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgamer.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209155922id_/http%3A//www.pcgamer.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -24,13 +24,13 @@ We collect information on Web usage, but this information remains anonymous. We 
 
 PCGamer.com may use cookies to assign a unique identification to your computer in order to customize your service on our site in the future. 
 
-As we continue to develop our business, we might sell or buy assets or portions of our business. In such transactions, customer and user information is generally one of the transferred business assets. In the event that PC Gamer or substantially all of its assets (or substantially all of its assets relating to a particular periodical or business area) are acquired, Imagine Media, Inc. may transfer all customer and user information as part of the transferred assets.
+As we continue to develop our business, we might sell or buy assets or portions of our business. In such transactions, customer and user information is generally one of the transferred business assets. In the event that PC Gamer or substantially all of its assets (or substantially all of its assets relating to a particular periodical or business area) are acquired, Future Network USA may transfer all customer and user information as part of the transferred assets.
 
-PC Gamer or Imagine Media, Inc. may assign this Privacy Policy in whole or in part without notice to you.
+PC Gamer or Future Network USA may assign this Privacy Policy in whole or in part without notice to you.
 
  ****
 
-**Magazine Subscribers and Users of Imaginemedia.com**
+**Magazine Subscribers and Users of futurenetworkusa.com**
 
 Our Web server does not automatically recognize information regarding the domain or email address of each visitor 
 
