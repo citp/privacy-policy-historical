@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the esquire.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602124229id_/http%3A//www.esquire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esquire.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205033748id_/http%3A//esquire.com/privacy) for the most accurate reproduction.*
 
 # Esquire:Privacy
+
+---  
+  
+  
+
 
 **Purpose of this Privacy Policy**  
 This privacy policy describes how Hearst Communications, Inc, the company that publishes Esquire magazine ("Hearst") treats the personally identifiable information that is collected about you by Hearst when you visit the web sites to which this policy is linked and the information collected on Hearst's behalf to the extent Hearst uses third- party service providers to host the website or collect information about site users. 
@@ -20,7 +25,7 @@ In addition, Hearst uses information you provide us through emails and in respon
 
 Hearst may share or disclose personally identifiable information about you to other companies or individuals when: 
 
-we have your consent to share the information (you can refuse consent by deselecting the appropriate box or by notifying Hearst at [webmaster@esquiremag.com](mailto:webmaster@esquiremag.com)); we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them; the entity to whom the information is disclosed is one under control of, or under common control with Hearst (for these purposes, a company controlling twenty (20%) percent or more of the voting stock of another entity shall be deemed to control such entity); the entity to whom the information is disclosed is hosting web sites associated with our magazines or magazines we publish in conjunction with a third party, other than those web sites covered by this policy; we need to protect our legal rights (for example, if we are trying to collect money you owe us); we must comply with applicable laws, regulations, or legal or regulatory process; or in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the web sites to which this policy applies. 
+we have your consent to share the information (you can refuse consent by deselecting the appropriate box or by notifying Hearst at [webmail@esquire.com](mailto:webmail@esquire.com)); we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them; the entity to whom the information is disclosed is one under control of, or under common control with Hearst (for these purposes, a company controlling twenty (20%) percent or more of the voting stock of another entity shall be deemed to control such entity); the entity to whom the information is disclosed is hosting web sites associated with our magazines or magazines we publish in conjunction with a third party, other than those web sites covered by this policy; we need to protect our legal rights (for example, if we are trying to collect money you owe us); we must comply with applicable laws, regulations, or legal or regulatory process; or in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the web sites to which this policy applies. 
 
 Hearst also shares web site usage information about visitors to our web sites who have received a targeted promotional campaign with a reputable third party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). For more information about our third party advertising company, please [click here.](http://www.maxworldwide.com/privacy_policy/index.php)
 
@@ -45,7 +50,7 @@ The sites covered by this policy are not intended for use by children, especiall
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail Hearst at [webmaster@esquiremag.com](mailto:webmaster@esquiremag.com)
+If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail Hearst at [webmail@esquire.com](mailto:webmail@esquire.com)
 
 **Non-U.S. Users**  
 If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this web site, you consent to this transfer. 
