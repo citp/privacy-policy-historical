@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onelegal.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206040652id_/http%3A//www.onelegal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelegal.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403105347id_/http%3A//www.onelegal.com/privacy.html) for the most accurate reproduction.*
 
-# One Legal | Customer Web FAQs
+# One Legal - Process Servers California - Privacy Statement
 
 |  |    
  
@@ -21,6 +21,6 @@ At One Legal, we have taken all practical security measures to ensure that your 
 
 As One Legal creates new services that may generate a need to amend this privacy statement, we will highlight such changes on the One Legal web site home page. 
 
-If you have any concerns about this statement, or with One Legals privacy practices, please e-mail us at  [support@onelegal.com](mailto:support@onelegal.com). We can also be reached by telephone at 415-491-0606, or by postal mail at One Legal, Inc. at 504 Redwood Blvd., Suite 223, Novato, CA 94947. 
+If you have any concerns about this statement, or with One Legals privacy practices, please e-mail us at  [support@onelegal.com](mailto:support@onelegal.com). We can also be reached by telephone at 800-938-8815, or by postal mail at One Legal, Inc. at 504 Redwood Blvd., Suite 223, Novato, California 94947. 
 
 |  | 
