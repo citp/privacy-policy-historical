@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2000-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000530110523id_/http%3A//slickdeals.net/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410035720id_/http%3A//slickdeals.net/s/privacy/%3Fsite%3Dslickdeals) for the most accurate reproduction.*
 
-# Slick Deals [New Deals] - Today's Hot Deals!
+# SlickDeals.net [New Deals] - Today's Hot Deals!
 
-**Slick Deals Privacy Policy**
+* * *
 
-We can be reached via e-mail at [slickdeals@slickdeals.net](mailto:slickdeals@slickdeals.net).   
-
+We can be reached via e-mail at [webguru@slickdeals.net](mailto:webguru@slickdeals.net). 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -20,11 +19,12 @@ If you do not want to receive e-mail from us in the future, please let us know b
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: 
 
 [FlyCast](http://www.flycast.com/about_us/about-privacy.html)  
-[Datais](http://www.datais.com/privacy.html)  
 [LinkExchange](http://www.msn.com/help/legal/privacy.htm)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresse.
+If you feel that this site is not following its stated information policy, you may contact us at the above address.
+
+* * *
