@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihs.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218060151id_/http%3A//www.ihs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihs.com privacy policy that was archived on 2002-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020302154808id_/http%3A//www.ihs.com/about/privacy.html) for the most accurate reproduction.*
 
 # Information Handling Services
 
@@ -62,7 +62,8 @@ Some IHS sites use Engage for the serving and/or targeting of ads, promotions an
 
 If IHS decides to change its privacy policy, those changes will be posted here and on other IHS Web sites. Please refer to this page if you have questions about IHS activities. If you have questions about the IHS privacy policy, you can contact:
 
-Rick Cloutier, CMO  
+Mike Clouthier  
+Vice President, Marketing  
 IHS Group   
 15 Inverness Way East   
 Englewood, CO 80112  
