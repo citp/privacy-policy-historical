@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promotionworld.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607165534id_/http%3A//devstart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotionworld.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204070033id_/http%3A//www.devstart.com/privacy.htm) for the most accurate reproduction.*
 
-# DevStart.com - The Web Developers Starting Point | Resources to Create, Maintain, Develope and Promote Your Website
+# DevStart.com - The Web Developers Starting Point | Resources to Create, Maintain, Develop and Promote Your Website
 
 We respect your privacy. This policy covers how DevStart.com treats personal information that is received, including your name, address, email address, or phone number, and that is not otherwise publicly available. We collect information from your browser, including your IP addresses and the page you request. We might ask for your contact information when you correspond with us, call us to request service, register to attend a seminar, or participate in an online survey.
 
