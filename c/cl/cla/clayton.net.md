@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clayton.net privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211164450id_/http%3A//www.clayton.net/index.cfm%3Finclude%3Dprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clayton.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610064633id_/http%3A//www.clayton.net/index.cfm%3Finclude%3Dprivacypolicy.htm) for the most accurate reproduction.*
 
 # Clayton Homes, Inc.
 
-    |  [](https://web.archive.org/web/20031211164450id_/http%3A//www.clayton.net/index.cfm?include=findahome.cfm) [](https://web.archive.org/web/20031211164450id_/http%3A//www.clayton.net/index.cfm?include=findaretailer.cfm) [](https://web.archive.org/web/20031211164450id_/http%3A//www.clayton.net/index.cfm?include=findacommunity.cfm)  
+|  [](https://web.archive.org/web/20040610064633id_/http%3A//www.clayton.net/index.cfm?include=findahome.cfm) [](https://web.archive.org/web/20040610064633id_/http%3A//www.clayton.net/index.cfm?include=findaretailer.cfm) [](https://web.archive.org/web/20040610064633id_/http%3A//www.clayton.net/index.cfm?include=findacommunity.cfm)   
   
 |    
 Legal disclaimer
@@ -50,7 +50,7 @@ Our intent is to maintain any data provided as confidential: however, informatio
   
   
   |  Copyright © 2000-2002 Clayton Homes, Inc.  
-[Legal](https://web.archive.org/web/20031211164450id_/http%3A//www.clayton.net/index.cfm?include=legal_disclaimer.htm)  [Privacy](https://web.archive.org/web/20031211164450id_/http%3A//www.clayton.net/index.cfm?include=privacypolicy.htm)   
+[Legal](https://web.archive.org/web/20040610064633id_/http%3A//www.clayton.net/index.cfm?include=legal_disclaimer.htm)  [Privacy](https://web.archive.org/web/20040610064633id_/http%3A//www.clayton.net/index.cfm?include=privacypolicy.htm)   
   
   |  Best experienced with 800X600 or better resolution  
 
