@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chazhound.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207072300id_/http%3A//chazhound.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chazhound.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602021808id_/http%3A//chazhound.com/privacy.html) for the most accurate reproduction.*
 
 # Chazhound's Privacy Statement
 
@@ -53,7 +53,7 @@ Jacksonville Bch, FL 32250
 
 
      Chazhound makes protecting your privacy a top priority. We want you to feel safe and in total control with your experiences with us. Our goal is to entertain and educate you on everyday life issues. Thank you for your continued support.  
-[Disclosures/Disclaimers](https://web.archive.org/web/20001207072300id_/http%3A//chazhound.com/disclosure.html)   
+[Disclosures/Disclaimers](https://web.archive.org/web/20010602021808id_/http%3A//chazhound.com/disclosure.html)   
 
 
 Back
