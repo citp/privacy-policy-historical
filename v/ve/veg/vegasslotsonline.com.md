@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasslotsonline.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609053714id_/http%3A//www.vegasslotsonline.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasslotsonline.com privacy policy that was archived on 2004-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041018131423id_/http%3A//www.vegasslotsonline.com/terms.htm) for the most accurate reproduction.*
 
 # Terms & Conditions/Disclaimers/Privacy
 
