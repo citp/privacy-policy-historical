@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milb.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624134818id_/http%3A//www.minorleaguebaseball.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milb.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002040924id_/http%3A//milb.com/help/privacy) for the most accurate reproduction.*
 
 # Minor League Baseball
 
