@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexions-direct.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209201345id_/http%3A//www.connexions-direct.com/index.cfm%3Fgo%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexions-direct.com privacy policy that was archived on 2005-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050228103405id_/http%3A//www.connexions-direct.com/index.cfm%3Fgo%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy - Homepage - Connexions Direct
 
