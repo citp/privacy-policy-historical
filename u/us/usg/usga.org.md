@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usga.org privacy policy that was archived on 2000-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000711040518id_/http%3A//www.usga.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usga.org privacy policy that was archived on 2001-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010818152234id_/http%3A//www.usga.org/about/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -34,4 +34,4 @@ By using our web site you are consenting to the collection and use of this infor
 **TELL US WHAT YOU THINK**  
 The USGA welcomes your questions and comments about privacy. Please send us an e-mail at [usga@usga.org](mailto:usga@usga.org).
 
-[BACK](https://web.archive.org/web/20000711040518id_/http%3A//www.usga.org/index.html)
+[BACK TO HOME PAGE](https://web.archive.org/web/20010818152234id_/http%3A//www.usga.org/index.html)
