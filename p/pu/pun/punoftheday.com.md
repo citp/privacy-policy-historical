@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punoftheday.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607223434id_/http%3A//punoftheday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punoftheday.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222807id_/http%3A//www.punoftheday.com/privacy.html) for the most accurate reproduction.*
 
 # Pun of the Day: About this site
 
@@ -10,8 +10,6 @@ How do we use the information you send us? Pun of the Day stores E-mail addresse
 
 Pun of the Day will not sell, trade, rent or otherwise distribute your e-mail address or other personal information to outside parties, should you join our mailing list or send us submissions or feedback.
 
-The Pun of the Day mailing list is hosted by [YahooGroups.com](http://groups.yahoo.com/). They also have a strict [privacy policy](http://privacy.yahoo.com/privacy/us/).
+Cookies are small pieces of information that some web sites use to store data using your browser on your computer's hard drive. Pun of the Day uses cookies to record which puns visitors have rated ([when **voting**](https://web.archive.org/web/20021207222807id_/http%3A//www.punoftheday.com/cgi-bin/morepuns.pl?ord=N&cat=0&sub=0&page=1)). The information is used to ensure that visitors do not vote multiple times for a single pun. No personal information is saved. In addition, some pun of the Day sponsor sites may use cookies to track advertising click-thrus. No personal information is collected.
 
-Cookies are small pieces of information that some web sites use to store data using your browser on your computer's hard drive. Pun of the Day uses cookies to record which puns visitors have rated ([when **voting**](https://web.archive.org/web/20020607223434id_/http%3A//punoftheday.com/cgi-bin/morepuns.pl?ord=N&cat=0&sub=0&page=1)). The information is used to ensure that visitors do not vote multiple times for a single pun. No personal information is saved. In addition, some pun of the Day sponsor sites may use cookies to track advertising click-thrus. No personal information is collected.
-
-Tell us what you think. Pun of the Day welcomes your questions and comments about privacy. Please click [here](https://web.archive.org/web/20020607223434id_/http%3A//punoftheday.com/feedback.html) or send e-mail to [ webmaster@punoftheday.com](mailto:webmaster@punoftheday.com).
+Tell us what you think. Pun of the Day welcomes your questions and comments about privacy. Please click [here](https://web.archive.org/web/20021207222807id_/http%3A//www.punoftheday.com/feedback.html) or send e-mail to [ webmaster@punoftheday.com](mailto:webmaster@punoftheday.com).
