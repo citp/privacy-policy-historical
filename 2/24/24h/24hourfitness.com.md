@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231080521id_/http%3A//www.24hourfitness.com/html/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308130201id_/http%3A//www.24hourfitness.com/html/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,8 +10,6 @@ _Personally Identifiable Information_
 In order to become a member of 24HourFitness.com and have access to our members' only areas, we ask you to register with our site and provide your e-mail address and name. We also ask for your 24 Hour Fitness Club membership number (if you are a member) in order to help us enhance your use of our site and clubs. This Registration Information is personally identifiable information because it allows us to contact you and distinguish you from other users. 
 
 You may also buy health products and club memberships on our site. If you make purchases through 24HourFitness.com, we need to gather information relating to the sale, including what you are buying, how you are paying and where you would like the products shipped. However, we will use that Transactional Information only to complete the transaction, to provide you with an order history and to facilitate future orders. We may also use information about the transaction for aggregate reporting (where we summarize the data in a report that does not contain your personally identifiable information).
-
-Our fitness tracking tools allow you to save Fitness Tracking Information so that you can track your workouts, nutrition or other private information about yourself. This information is linked to your Registration Information. Though we must store your Fitness Tracking Information on our servers in order to provide you with these tools, we will only use that information to provide you with our fitness tracking service and provide you with other services through our web site. Once we separate your fitness tracking information from your personally identifiable information, so that it cannot be linked back to you, we may use the aggregated information for other purposes.
 
 If you are a member of 24HourFitness.com, you may enter contests. If you enter a 24HourFitness.com contest, we record your entry and link it to your 24HourFitness.com Registration Information.
 
@@ -56,7 +54,7 @@ We may reveal user information if we believe that user is harming or interfering
 
 **Accessing and Changing Your Information**
 
-24HourFitness.com is committed to ensuring that you have control over your Registration and Fitness Tracking Information. You can change your password and other Registration Information using the [eClub Member Home](https://web.archive.org/db/content.registered_home) page. Your Fitness Tracking profile and other Fitness Tracking Information can be changed from the [Fitness Tracking Menu](https://web.archive.org/db/fitness_utility.main_menu) page.
+24HourFitness.com is committed to ensuring that you have control over your Registration Information. You can change your password and other Registration Information using the [eClub Member Home](https://web.archive.org/db/content.registered_home) page.
 
 **Data Security**
 
