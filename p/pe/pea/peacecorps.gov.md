@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619023050id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dpchq.Policies.general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214115204id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dpchq.Policies.general) for the most accurate reproduction.*
 
 # Peace Corps | Peace Corps HQ | Policies | General Policies
 
-[Use of Links](https://web.archive.org/web/20040619023050id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#links)  
-[Use of Text and Images](https://web.archive.org/web/20040619023050id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#text)  
-[Accessibility](https://web.archive.org/web/20040619023050id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#access)  
-[Privacy Policy](https://web.archive.org/web/20040619023050id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#policy)  
-[Questions About Our Policies](https://web.archive.org/web/20040619023050id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#Qs)
+[Use of Links](https://web.archive.org/web/20041214115204id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#links)  
+[Use of Text and Images](https://web.archive.org/web/20041214115204id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#text)  
+[Accessibility](https://web.archive.org/web/20041214115204id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#access)  
+[Website Privacy Policy](https://web.archive.org/web/20041214115204id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#policy)  
+[Questions About Our Policies](https://web.archive.org/web/20041214115204id_/http%3A//www.peacecorps.gov/index.cfm?shell=pchq.policies.general#Qs)
 
     
 Throughout our Web pages, we provide links to other servers which may contain information of interest to our readers. The Peace Corps takes no responsibility for, and exercises no control over, the organizations, views, or accuracy of the information contained on other servers.
