@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndsmcobserver.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603033412id_/http%3A//www.ndsmcobserver.com/global_user_elements/privacyPolicy/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndsmcobserver.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210085913id_/http%3A//www.ndsmcobserver.com/global_user_elements/privacyPolicy/privacyPolicy.html) for the most accurate reproduction.*
 
 # Untitled
 
