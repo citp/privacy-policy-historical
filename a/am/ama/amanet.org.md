@@ -1,110 +1,79 @@
-> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014095258id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602205222id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
-This privacy statement discloses the Website privacy practices of American Management Association International (hereinafter referred to as "AMA") and addresses the following items, in compliance with privacy disclosure standards:
+Your privacy on the Internet is important to American Management Association International ("AMA"). This privacy statement discloses AMA’s privacy practices for “Personally Identifiable Information” (that is, information that identifies you or a third party) that is transmitted electronically to AMA via this Website, and addresses the following items:
 
-  * Personally identifiable information of yours or of a third party that is collected from you through the AMA Website. 
-  
-
-  * The organization collecting the information. 
-  
-
-  * How the information is used. 
-  
-
-  * With whom the information may be shared. 
-  
-
-  * The choices available to you, the Website visitor, regarding collection, use and distribution of the information. 
-  
-
-  * The security procedures that are in place to protect the loss, misuse or alteration of information under control. 
-  
-
-  * How you, as a Website visitor, can correct any inaccuracies in the information. 
+  * How AMA uses Personally Identifiable Information. 
+  * With whom AMA shares Personally Identifiable Information. 
+  * The choices available to you, as a Website visitor, regarding collection, use and sharing of Personally Identifiable Information.
+  * The security procedures that AMA has in place to protect the loss, misuse or alteration of Personally Identifiable Information under its control. 
 
 
 
-**Information Collection and Use**  
-AMA is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way that differs from what is disclosed in this statement. AMA collects both anonymous and personal information from our users at several different points on the Website.
+**Collection and Use**  
+AMA does not collect any Personally Identifiable Information from visitors except when they expressly volunteer the information. 
 
-**Registration**  
-In order to purchase seminar products electronically through the Website, a user must first complete the registration form. During registration the user is required to give contact information (such as name and e-mail address). This information is used to communicate timely information and special offers to users. While it is optional for the user to provide demographic information and unique identifiers, the practice is encouraged so we can provide a more personalized experience on our site. In addition, if a user registers and pays for a seminar using a credit card, a user must provide contact information (such as name and shipping address) and financial information (credit card number, expiration date). This information is used for billing purposes and to fill orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+The instances where Personally Identifiable Information is collected on this site include the times a visitor 
 
-**Order**   
-We request information from the user on our order form for the purchase of books, self-study courses, and other products and services. Here a user must provide contact information (such as name and shipping address) and financial information (credit card number, expiration date). This information is used for billing purposes and to fill orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+  * Registers for a seminar, becomes a Member, purchases or downloads an AMA product or service. 
+  * Requests information (electronically or via US Mail) about AMA’s products and services, subscribes to newsletters, or enters a promotional contest. 
+  * Uses various tools to select AMA products and services that are suitable for the Website visitor. 
+  * Requests contact with an AMA sales representative. 
+  * Provides AMA with feedback about AMA products and services or the visitor’s Website experience. 
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on the AMA site. For instance, by setting a cookie on the AMA site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, he may still use the AMA site. The only drawback is that the user may be limited in some areas of our site. 
 
-Cookies enable AMA to track and target the interests of users to enhance the experience on the site.
 
-Some of our business partners use cookies on the AMA site (for example, advertisers). We have no access to or control over these cookies, however.
+AMA is the sole owner of the information collected on this Website and will not sell, share, or rent Personally Identifiable Information other than as disclosed below in this statement. AMA does not sell, share with or rent to others e-mail addresses solely for the purpose of third party marketing, but may include third party advertisements within e-mails. Among other things, this Personally Identifiable Information is used to respond to visitor requests and inquiries, and to communicate timely information and special offers to visitors. A visitor can choose not to receive such information by e-mailing [customerservice@amanet.org](mailto:customerservice@amanet.org) or by calling AMA Customer Service at 1-800-262-9699. If a visitor registers for a seminar or pays for products and services using a credit card, contact information (such as name and shipping address) and financial information (credit card number, expiration date) is required. This information is used for billing purposes and to fill orders. If we have trouble processing an order, this contact information is used to get in touch with the visitor.
 
-**Log Files**  
-We use internet protocol ("IP") addresses to analyze trends, administer the site, track users’ movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+Personally Identifiable Information is also collected when a visitor applies for a position with AMA or a program sponsored by AMA. In these cases, Personally Identifiable Information is used only for the purpose of processing and evaluating the application. 
 
-**Sharing**  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that results in the identification of an individual.
+**Tell-a-Friend**  
+AMA respects the privacy of your friends and co-workers. AMA will not keep or maintain names or e-mail addresses when you use our Tell-a-Friend function. The Tell-a-Friend function is solely to provide your friends and co-workers with the information you have requested we pass along to them.
 
-When an AMA partner uses an outside shipping company to ship orders, and/or a credit card processing company to bill users for goods and services purchased through the AMA Website, our business agreement is that these companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+**Sharing Personally Identifiable Information**  
+AMA shares Personally Identifiable Information collected electronically through its Website in the following ways:
 
-From time to time AMA works with other business partners and sponsors to provide specific services, such as jointly developed and marketed products and services. When the user signs up for such services, we will share names or other contact information necessary for the partner/sponsor to provide these services. These partners/sponsors are not allowed to use personally identifiable information except for the purpose of providing these services. 
+  * AMA or AMA partners may use an outside shipping company to ship orders, and/or a credit card processing company to bill for goods and services purchased through the AMA Website and AMA will share Personally Identifiable Information with those entities. 
+  * From time to time, AMA works with business partners and sponsors to provide specific services, such as jointly developed and marketed products and services. When the visitor signs up for such services, we will share Personally Identifiable Information necessary for the partner/sponsor to provide these services. 
+  * AMA does provide certain of its business partners with its postal mailing address list on a rental basis. In the event the customer wishes to be excluded from receiving third party mailings he/she should e-mail [customerservice@amanet.org](mailto:customerservice@amanet.org) or call AMA Customer Service at 1-800-262-9699. 
+  * E-mailings of AMA newsletters and other materials are processed both in-house and by outsourced service companies. On occasion, where AMA contracts with a service provider, it may request that the provider collect and/or provide information directly from our customers on our behalf. In all situations, AMA restricts how its suppliers and other service providers may access, use and disclose Personally Identifiable Information. AMA does not permit these suppliers and other service providers to sell Personally Identifiable Information to third parties. If information is received through AMA or through a third party supplier which is not desired, the customer should request to be removed from the active mailing list by e-mailing [customerservice@amanet.org](mailto:customerservice@amanet.org) or by calling AMA Customer Service at 1-800-262-9699. 
+  * AMA reserves the right to use Personally Identifiable Information in order to investigate any claim or suspicion that there may have been a violation of the Terms and Conditions governing this site, to assist with law enforcement investigations, or as otherwise required by law.
 
-AMA does provide other qualified business parties with its active mailing address information on a rental basis. This information is exchanged through third party handling services. The exchange is conducted through third party mail handling services, whereby the customer’s name and address is not provided to the renter but rather to the processing house. In the event the customer wishes to be excluded from receiving third party mailings he/she should contact AMA customer service at [customerservice@amanet.org](mailto:customerservice@amanet.org) or by calling customer service at 1-800-262-9699.
 
-E-mailings of AMA newsletters and other materials are processed both in-house and by outsourced service companies. On occasion, where AMA contacts with a service provider, it may request that the provider collect and/or provide information directly from our customer on our behalf. In all situations, AMA restricts how its suppliers and other service providers may access, use and disclose customer information. AMA does not permit these suppliers and other service providers to sell customer information to third parties. If information is received by a customer/subscriber through AMA or through a third party supplier which is not desired, the customer/subscriber should request to be removed from the active mailing list by emailing [customerservice@amanet.org](mailto:customerservice@amanet.org) or by calling AMA customer service at 1-800-262-9699. 
+
+AMA may transfer Personally Identifiable Information to a third party in the event of a sale of stock, merger or consolidation or other transfer of all or a portion of the assets of AMA whether voluntarily or by operation of law.
+
+**Cookies— Not Linked to Personally Identifiable Information**  
+A cookie is a piece of data that is stored on the visitor’s hard drive. These cookies do not identify, monitor, or track any Personally Identifiable Information. AMA uses this information to analyze trends, track visitors’ movements and gather broad demographic information for aggregate use. If a visitor rejects the cookie, the visitor may be limited in some areas of the site. Consult the Help section of your browser software to choose the appropriate setting to accept or reject cookies. 
+
+In addition, AMA uses a service provided by WebSide Story that uses sophisticated cookie technology to measure site traffic and visitor behavior in aggregate. While these cookies remain on your hard drive after the conclusion of your site visit, they do not contain any Personally Identifiable Information and do not read any other information on your computer’s hard drive. To find out more, please visit the WebSide Story privacy policy at [www.websidestory.com/privacy ](http://www.websidestory.com/privacy). 
 
 **Links**  
-This Website contains links to other sites. Please be aware that AMA is not responsible for the privacy practices of such other sites. We trust that our users are aware when they leave the AMA site, and we encourage them to read the privacy statements of each Website to which ours is linked that collects personally identifiable information. The AMA privacy statement applies solely to information collected by the AMA Website. 
+AMA’s Website contains links to other sites. Some links are to Websites of AMA’s partners that offer AMA customers and Members a variety of special products and services. Please be aware that AMA is not responsible for the content, security or privacy practices of such other sites. We trust that our Website visitors are aware when they leave the AMA site, and we encourage them to read the privacy statements of each Website to which ours is linked that collects Personally Identifiable Information. 
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and e-mail address.
+The AMA Website contains links to AMA’s international offices or affiliates. This privacy policy does not apply to those Websites. We encourage our Website visitors to read the privacy statements of our international offices or affiliates which control their collection and use of Personally Identifiable Information.
 
-**Surveys & Contests**   
-From time to time the AMA site requests information from users by way of surveys or contests. Participation in these surveys or contests is completely voluntary and the user has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction level associated with the site.
+This AMA privacy statement applies solely to information collected by the AMA Website. 
 
-**Tell-A-Friend  
-**If a user elects to use our referral service for informing a friend about the AMA site, we ask them for the friend’s name and e-mail address. The friend may contact us at [customerservice@amanet.org](mailto:customerservice@amanet.org) or call AMA Customer Service at 1-800-262-9699 to request the removal of this information from the database.
-
-**Security**   
-This Website takes every precaution to protect users’ information. When users submit sensitive information via the Website, it is protected both online and off-line.
-
-When our registration/order form asks users to enter sensitive information (such as a credit card number and/or social security number), that information is encrypted and protected with the best encryption software in the industry, SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer, becomes locked. When users are just ‘surfing’ the lock icon is open. To learn more about SSL, [follow this link](http://www.verisign.com/).
-
-While we use SSL encryption technology to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users’ information, not just the sensitive information mentioned above, is subject to rigorous controls while in our hands. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their work area. When they return, they must reenter their password to regain access to the information. Furthermore, ALL AMA employees are kept up-to-date on AMA’s security and privacy practices. Finally, the servers on which we store personally identifiable information are kept in a secure locked-door environment.
-
-If you have any questions about privacy at the AMA Website, please send an e-mail to [privacy@amanet.org](mailto:privacy@amanet.org).
-
-**Supplemental Information**  
-In order for the AMA Website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources.
-
-For example, to determine if our customers qualify for one of our credit cards, we use names and social security numbers to request a credit report. 
-
-In order for the AMA Website to enhance our ability to serve individual preferences, we combine information about the purchasing habits of users with similar information from our partners. This results in a personalized user profile. When a user makes a purchase from an AMA partner, the partner collects and shares that information with us. This enables us to tailor the site on an ongoing basis in order for it to reflect user preferences.
-
-**Special Offers**  
-We send all new members a welcoming e-mail to verify password and user name. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
-
-**Site and Service Updates**   
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via e-mail or phone.
+**Security**  
+This Website takes reasonable precautions to protect visitors’ Personally Identifiable Information submitted to AMA via its Website. When possible, Personally Identifiable Information is encrypted and protected using SSL software. To learn more about SSL, [follow this link](http://www.verisign.com/). If you have any questions about privacy at the AMA Website, please send an e-mail to [privacy@amanet.org](mailto:privacy@amanet.org) .
 
 **Correction/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as a zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data. This can usually be done at the member information page or by e-mailing our Customer Service at [customerservice@amanet.org](mailto:customerservice@amanet.org).
+If a visitor’s Personally Identifiable Information changes (such as a zip code), or if a visitor no longer desires our service, we will endeavor to provide a way to correct, update or remove that visitor’s Personally Identifiable Information. This can be done through the Website at [www.amanet.org/service](https://web.archive.org/web/20030602205222id_/http%3A//www.amanet.org/service/index.htm) or by calling AMA Customer Service at 1-800-262-9699. AMA Members can also update Personally Identifiable Information from the “Your Member Account” page. 
 
-**Choice/Opt-Out**   
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to the AMA site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but do not wish to receive marketing material, can exclude their e-mail address from our lists. 
+If you wish to review the data we have on file about you, please send a written request with a check payable to American Management Association for $10 (handling fee) to Database Services Center, P.O. Box 319, Saranac Lake, NY 12983. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the e-mail or by e-mailing Customer Service at [customerservice@amanet.org](mailto:customerservice@amanet.org).
+**Notification of Changes**  
+If we decide to change our privacy policy, we will post those changes in the Privacy Statement section accessible from the AMA Homepage so that our Website visitors are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-Users of our site are always notified when their information is being collected by an outside party. We do this so our users can make an informed choice to proceed with services that require an outside party.
+**Problems or Complaints**  
+If you believe that there has been a violation of the terms of this policy, please contact us at [privacy@amanet.org](mailto:privacy@amanet.org). We will investigate and take appropriate action, and report back to you within a reasonable period of time. 
 
-**Notification of Changes  
-**
+_Last updated 04-03-03_  
 
-If we decide to change our privacy policy, we will post those changes in the Privacy Statement section accessible from the AMA Homepage so that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of e-mail. Users will have a choice as to whether or not we use their information in this different manner. We commit to the use of information solely in accordance with the privacy policy under which the information was collected. 
 
-|  |  |   |  
+|  |  |   |    
+---|---|---|---|---|---
