@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the ci.org privacy policy that was archived on 2001-08-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010802033108id_/http%3A//www.compassion.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ci.org privacy policy that was archived on 2002-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602005350id_/http%3A//www.compassion.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Compassion International: Privacy / Copyright</title>
 
 <script language="javascript">
 <!--
-currentChoice=""
+var SideCurrentChoice=""
+var TopCurrentChoice=""
 
 function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
@@ -17,186 +18,262 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 <body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 
-
 <script language="JavaScript">
 <!--
 
-function openWin(theURL,theName) {
- 
+var ns6 = (document.getElementById)? true:false;
+var ns4 = (document.layers)? true:false;
+var ie4 = (document.all)? true:false;
+var UseLocalDir=false;
+
+
+
+function SendThisPage() {
 	if (document.all) var xMax = screen.width, yMax = screen.height;
 	else if (document.layers) var xMax = window.outerWidth, yMax = window.outerHeight; else var xMax = 640, yMax=480; 
-	var xOffset = (xMax - 600)/2, yOffset = (yMax - 400)/2; 
-	window.open(theURL,theName,'scrollbars,status=yes,width=620,height=400,screenX='+xOffset+',screenY='+yOffset+',top='+yOffset+',left='+xOffset+''); } 
+	var xOffset = (xMax - 700)/2, yOffset = (yMax - 500)/2; 
+	window.open('/SendAPage/SendPage.asp?Page='+escape(document.location),'','scrollbars=no,status=no,location=no,toolbar=no,width=625,height=500,screenX='+xOffset+',screenY='+yOffset+',top='+20+',left='+xOffset+'');  
+	}	
 
 
+function openWin(theURL,theName) {
+	var ShowStatus;
+	ShowStatus = 'no';
+	if (theURL.substr(0 ,6).toUpperCase()=="HTTPS:") ShowStatus = 'yes';
+	if (document.all) var xMax = screen.width, yMax = screen.height;
+	else if (document.layers) var xMax = window.outerWidth, yMax = window.outerHeight; else var xMax = 640, yMax=480; 
+	var xOffset = (xMax - 650)/2, yOffset = (yMax - 550)/2; 
+	window.open(theURL,theName,'scrollbars,status=' + ShowStatus + ',location=no,width=620,height=420,screenX='+xOffset+',screenY='+yOffset+',top='+yOffset+',left='+xOffset+''); 
+	} 
+
+	
 //This function is for the popup Slide Show window
 function openWinss(theURL,theName) {
- 
 	if (document.all) var xMax = screen.width, yMax = screen.height;
 	else if (document.layers) var xMax = window.outerWidth, yMax = window.outerHeight; else var xMax = 640, yMax=480; 
-	var xOffset = (xMax - 600)/2, yOffset = (yMax - 400)/2; 
-	window.open(theURL,theName,'width=640,height=440,screenX='+xOffset+',screenY='+yOffset+',top='+yOffset+',left='+xOffset+''); } 
-
-
-
+	var xOffset = (xMax - 650)/2, yOffset = (yMax - 550)/2; 
+	window.open(theURL,theName,'width=640,height=440,screenX='+xOffset+',screenY='+yOffset+',top='+yOffset+',left='+xOffset+''); 
+	} 
 
 function newImage(arg) {
 	if (document.images) {
 		rslt = new Image();
 		rslt.src = arg;
 		return rslt;
+		}
 	}
-}
 
 function changeImages() {
+
 	if (document.images) {
 		for (var i=0; i<changeImages.arguments.length; i+=2) {
 			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
 		}
-			if (currentChoice != "") {
-			document[currentChoice].src = "/images/" + currentChoice + "-over.gif"
-		}
+			if (SideCurrentChoice != "" && typeof(document[SideCurrentChoice])=='object') {
+			if (!UseLocalDir) document[SideCurrentChoice].src = "/images/" + SideCurrentChoice + "-over.gif"
+			if (UseLocalDir) document[SideCurrentChoice].src = "images/" + SideCurrentChoice + "-over.gif"
 
+		}
+			if (TopCurrentChoice != "" && typeof(document[TopCurrentChoice])=='object') {
+			document[TopCurrentChoice].src = "/images/" + TopCurrentChoice + "-over.gif"
+		}
 	}
 }
 
+var preloadFlag = false;
 function preloadImages() {
-	if (document.images) {
-
+	
+	if (document.images ) {
 		contact_over = newImage("/images/contact-over.gif");
 		search_over = newImage("/images/search-over.gif");
 		home_over = newImage("/images/home-over.gif");
 		map_over = newImage("/images/map-over.gif");
 		about_over = newImage("/images/about-over.gif");
-		member_over = newImage("/images/sponsor-over-25.gif");
+		member_over = newImage("/images/sponsor25-over.gif");
 		involved_over = newImage("/images/involved-over.gif");
 		sponsor_over = newImage("/images/sponsor-over.gif");
 		giving_over = newImage("/images/giving-over.gif");
 		music_over = newImage("/images/music-over.gif");
 		news_over = newImage("/images/news-over.gif");
 		signup_over = newImage("/images/splash_signup-over.gif");
-
-		waiting_over = newImage("/images/splash_waiting-over.gif");
-		splash_faq_over = newImage("/images/splash_faq-over.gif");
-		splash_contact_over = newImage("/images/splash_contact-over.gif");
-		splash_why_over = newImage("/images/splash_why-over.gif");
-
-// highlight current menu choice upon entering page
-
-		if (currentChoice != "") {
-			document[currentChoice].src = "/images/" + currentChoice + "-over.gif"
+		mission_over = newImage("/images/mission-over.gif");
+		financial_over = newImage("/images/financial-over.gif");
+		faqsabout_over = newImage("/images/faqsabout-over.gif");
+		partners_over = newImage("/images/partners-over.gif");
+		jobs_over = newImage("/images/jobs-over.gif");
+		contactabout_over = newImage("/images/contactabout-over.gif");
+		feedbackabout_over = newImage("/images/feedbackabout-over.gif");
+		if (SideCurrentChoice != "" && typeof(document[SideCurrentChoice])=='object') { // Light default choice
+			if (!UseLocalDir) document[SideCurrentChoice].src = "/images/" + SideCurrentChoice + "-over.gif"
+			if (UseLocalDir) document[SideCurrentChoice].src = "images/" + SideCurrentChoice + "-over.gif"
+		}
+		if (TopCurrentChoice != ""  && typeof(document[TopCurrentChoice])=='object') { // Light default choice
+			document[TopCurrentChoice].src = "/images/" + TopCurrentChoice + "-over.gif"
 		}
 	}
 }
-
-
-
 // -->
 </script>
 
+<style>
+<!--
+.rewritable { position: relative; }
+.MyTextArea  { font-family: monospace; font-size: 10pt; }
+.FormButton  { font-family: Arial; font-size: 10pt; }
+input        { font-family: monospace; font-size: 10pt;  }
+
+-->
+</style>
 
 <table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td rowspan="2" nowrap=""><img src="/images/bannertest3top.gif" width="468" height="24"><a href="/about/contact.asp" onmouseover="window.status='Contact Us'; changeImages('contact', '/images/contact-over.gif'); return true;" onmouseout="window.status=''; changeImages('contact', '/images/contact.gif'); return true;"><img name="contact" src="/images/contact.gif" width="71" height="24" border="0" alt="Contact Us"></a><img src="/images/bannera.gif" width="19" height="24"><a href="/search/search.htm" onmouseover="window.status='Search'; changeImages('search', '/images/search-over.gif', 'sponsor022', '/images/sponsor-search_over.gif'); return true;" onmouseout="window.status=''; changeImages('search', '/images/search.gif', 'sponsor022', '/images/sponsor-22.gif'); return true;"><img name="search" src="/images/search.gif" width="57" height="24" border="0" alt="Search"></a><img src="/images/bannerb.gif" width="15" height="24"><a href="/index.htm" onmouseover="window.status='Home'; changeImages('home', '/images/home-over.gif', 'sponsor022', '/images/sponsor-search_over.gif'); return true;" onmouseout="window.status=''; changeImages('home', '/images/home.gif', 'sponsor022', '/images/sponsor-22.gif'); return true;"><img name="home" src="/images/home.gif" width="54" height="24" border="0" alt="Home"></a><img src="/images/headerc.gif" width="10" height="24"><a href="/map.htm" onmouseover="window.status='Site Map'; changeImages('map', '/images/map-over.gif', 'sponsor022', '/images/sponsor-search_over.gif'); return true;" onmouseout="window.status=''; changeImages('map', '/images/map.gif', 'sponsor022', '/images/sponsor-22.gif'); return true;"><img name="map" src="/images/map.gif" width="77" height="24" border="0" alt="Site Map"></a></td>
+   <tbody><tr>
+	<td rowspan="2" nowrap="">
+	<img src="/images/bannertest3top.gif" width="468" height="24"><a href="http://www.compassion.com/contactus" target="_top" onmouseover="window.status='Contact Us'; changeImages('contact', '/images/contact-over.gif'); return true;" onmouseout="window.status=''; changeImages('contact', '/images/contact.gif'); return true;"><img name="contact" src="/images/contact.gif" width="71" height="24" border="0" alt="Contact Us"></a><img src="/images/bannera.gif" width="19" height="24"><a href="http://www.compassion.com/search/search.asp" target="_top" onmouseover="window.status='Search'; changeImages('search', '/images/search-over.gif'); return true;" onmouseout="window.status=''; changeImages('search', '/images/search.gif'); return true;"><img name="search" src="/images/search.gif" width="57" height="24" border="0" alt="Search"></a><img src="/images/bannerb.gif" width="15" height="24"><a href="http://www.compassion.com/index.asp" target="_top" onmouseover="window.status='Home'; changeImages('home', '/images/home-over.gif'); return true;" onmouseout="window.status=''; changeImages('home', '/images/home.gif'); return true;"><img name="home" src="/images/home.gif" width="54" height="24" border="0" alt="Home"></a><img src="/images/headerc.gif" width="10" height="24"><a href="http://www.compassion.com/map.asp" target="_top" onmouseover="window.status='Site Map'; changeImages('map', '/images/map-over.gif'); return true;" onmouseout="window.status=''; changeImages('map', '/images/map.gif'); return true;"><img name="map" src="/images/map.gif" width="77" height="24" border="0" alt="Site Map"></a></td>
   </tr>
 </tbody></table>
-
-<table width="700" border="0" cellpadding="0" cellspacing="0">
+<table width="771" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td valign="top" align="left" nowrap=""><a href="/index.htm" onmouseover="window.status='Compassion International Home';  return true;" onmouseout="window.status='';  return true;"><img src="/images/bannertest3mid.gif" border="0" alt="Compassion International"><img src="/images/bannertest2peice.gif" border="0" alt="Compassion International"><br></a><a href="/about/index.htm" onmouseover="window.status='About Us'; changeImages('about', '/images/about-over.gif'); return true;" onmouseout="window.status=''; changeImages('about', '/images/about.gif'); return true;"><img name="about" src="/images/about.gif" width="69" height="20" border="0" alt="About Us"></a><a href="https://www.compassion.com/member/index.asp" onmouseover="window.status='Sponsor Log-in'; changeImages('sponsor022', '/images/sponsor-over-25.gif'); return true;" onmouseout="window.status=''; changeImages('sponsor022', '/images/sponsor-22.gif'); return true;"><img name="sponsor022" src="/images/sponsor-22.gif" width="95" height="20" border="0" alt="Sponsor Log-in"></a><a href="/giving/index.htm" onmouseover="window.status='Make a Contribution'; changeImages('giving', '/images/giving-over.gif'); return true;" onmouseout="window.status=''; changeImages('giving', '/images/giving.gif'); return true;"><img name="giving" src="/images/giving.gif" width="113" height="20" border="0" alt="Make a Contribution"></a><a href="/involvement/index.htm" onmouseover="window.status='Get Involved'; changeImages('involved', '/images/involved-over.gif'); return true;" onmouseout="window.status=''; changeImages('involved', '/images/involved.gif'); return true;"><img name="involved" src="/images/involved.gif" width="82" height="20" border="0" alt="Get Involved"></a><a href="/music/index.htm" onmouseover="window.status='Musicians/Speakers'; changeImages('music', '/images/music-over.gif'); return true;" onmouseout="window.status=''; changeImages('music', '/images/music.gif'); return true;"><img name="music" src="/images/music.gif" width="76" height="20" border="0" alt="Musicians/Speakers"></a><a href="/news/index.htm" onmouseover="window.status='News Room'; changeImages('news', '/images/news-over.gif'); return true;" onmouseout="window.status=''; changeImages('news', '/images/news.gif'); return true;"><img name="news" src="/images/news.gif" width="77" height="20" border="0" alt="News Room"></a><a href="/sponsor/index.asp" onmouseover="window.status='Sponsor a Child Today'; changeImages('sponsor', '/images/sponsor-over.gif', 'sponsor022', '/images/sponsor-over-24.gif'); return true;" onmouseout="window.status=''; changeImages('sponsor', '/images/sponsor.gif', 'sponsor022', '/images/sponsor-22.gif'); return true;"><img name="sponsor" src="/images/sponsor.gif" width="99" height="20" border="0" alt="Sponsor a Child"></a>
- 
+    <td valign="top" align="left">
+    
+    <a href="http://www.compassion.com/index.asp" target="_top" onmouseover="window.status='Compassion International Home';  return true;" onmouseout="window.status='';  return true;"><img src="/images/bannertest3mid.gif" border="0" alt="Compassion International" width="468" height="55"><img src="/images/bannertest2peice.gif" border="0" alt="Compassion International" width="143" height="55"></a><br><a href="http://www.compassion.com/about/index.asp" target="_top" onmouseover="window.status='Sponsor Log-in'; changeImages('about', '/images/about-over.gif'); return true;" onmouseout="window.status=''; changeImages('about', '/images/about.gif'); return true;"><img name="about" src="/images/about.gif" width="69" height="20" border="0" alt="About Us"></a><a href="https://www.compassion.com/member/index.asp" target="_top" onmouseover="window.status='Sponsor Log-in'; changeImages('sponsor25', '/images/sponsor25-over.gif'); return true;" onmouseout="window.status=''; changeImages('sponsor25', '/images/sponsor25.gif'); return true;"><img name="sponsor25" src="/images/sponsor25.gif" width="95" height="20" border="0" alt="Sponsor Log-in"></a><a href="https://www.compassion.com/giving/index.asp" target="_top" onmouseover="window.status='Make a Contribution'; changeImages('giving', '/images/giving-over.gif'); return true;" onmouseout="window.status=''; changeImages('giving', '/images/giving.gif'); return true;"><img name="giving" src="/images/giving.gif" width="113" height="20" border="0" alt="Make a Contribution"></a><a href="http://www.compassion.com/involvement/index.asp" target="_top" onmouseover="window.status='Get Involved'; changeImages('involved', '/images/involved-over.gif'); return true;" onmouseout="window.status=''; changeImages('involved', '/images/involved.gif'); return true;"><img name="involved" src="/images/involved.gif" width="82" height="20" border="0" alt="Get Involved"></a><a href="http://www.compassion.com/music/index.asp" target="_top" onmouseover="window.status='Musicians/Speakers'; changeImages('music', '/images/music-over.gif'); return true;" onmouseout="window.status=''; changeImages('music', '/images/music.gif'); return true;"><img name="music" src="/images/music.gif" width="76" height="20" border="0" alt="Musicians/Speakers"></a><a href="http://www.compassion.com/Featured/News.asp" target="_top" onmouseover="window.status='News Room'; changeImages('news', '/images/news-over.gif'); return true;" onmouseout="window.status=''; changeImages('news', '/images/news.gif'); return true;"><img name="news" src="/images/news.gif" width="77" height="20" border="0" alt="News Room"></a><a href="http://www.compassion.com/sponsor/index.asp" target="_top" onmouseover="window.status='Sponsor a Child Today'; changeImages('sponsor', '/images/sponsor-over.gif'); return true;" onmouseout="window.status=''; changeImages('sponsor', '/images/sponsor.gif'); return true;"><img name="sponsor" src="/images/sponsor.gif" width="99" height="20" border="0" alt="Sponsor a Child"></a>
 <table border="0" width="600" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td>&nbsp;<p><b><small><font face="Arial">Copyright</font></small></b></p>
-    <p><font face="Arial"><small>Updated February 2, 2000<br>
-    © 2000 Compassion International <br>
-    Compassion is a registered trademark of Compassion International, Inc.</small> </font></p>
-    <p>&nbsp;</p>
-    <p><b><small><font face="Arial">Compassion International Online Privacy Statement </font></small></b></p>
-    <p><font face="Arial"><small>Compassion International is committed to respecting your
-    online privacy and security. We've structured our Web site so that, in general, you can
-    visit us on the Web without identifying yourself or revealing any personal information.
-    Once you choose to provide us personally identifiable information (any information by
-    which you can be identified), you can be assured that it will only be used to support your
-    sponsor relationship with Compassion International.</small> </font></p>
-    <b><p><small><font face="Arial">Awareness </font></small></p></b>
-    <p><small><font face="Arial">Compassion International provides this Online Privacy
-    Statement to make you aware of our privacy policy and security practices, and to inform
-    you about the way your information is collected and used. To make this notice easy to
-    find, we make it available on our homepage and from the bottom of every Compassion
-    International Web page. </font></small></p>
-    <b><p><small><font face="Arial">What we collect </font></small></p></b>
-    <p><small><font face="Arial">On some Compassion International Web pages you can become a
-    sponsor, make donations, and request materials. The types of personal information
-    collected on these pages are name, contact and billing information, transaction, and
-    credit card information. In order to tailor our subsequent communications to you and
-    continuously improve our services, we may also ask you to provide us with information
-    regarding your personal or professional interests, demographics, experiences as a sponsor,
-    and contact preferences. </font></small></p>
-    <b><p><small><font face="Arial">How we use it </font></small></p></b>
-    <p><small><font face="Arial">Compassion International uses your information to understand
-    your needs and provide you with better service. Specifically, we use your information to
-    help you complete a transaction, communicate back to you, update you on your sponsored
-    child and special events, and to personalize our Web site for you. Credit card numbers are
-    used only for payment processing and are not retained for other purposes. From time to
-    time, we may also use your information to contact you for market research or provide you
-    with information we think would be of particular interest. At a minimum, we will always
-    give you the opportunity to decline such direct marketing or market research contact. We
-    will also follow local requirements, such as allowing you to opt in before receiving
-    unsolicited contact, where applicable. Data collected online may also be combined with
-    information you provide when you register online as a Compassion sponsor. </font></small></p>
-    <b><p><small><font face="Arial">Who we share it with </font></small></p></b>
-    <p><small><font face="Arial">Compassion International will not sell, rent, or lease your
-    personally identifiable information to others. Unless we have your permission or are
-    required by law, we will only share the personal data you provide online with Compassion
-    International entities and/or business partners who are acting on our behalf to complete
-    the activities described above. Such Compassion International entities and/or business
-    partners, including those located in other countries, are governed by our privacy policies
-    with respect to the use of this data. </font></small></p>
-    <b><p><small><font face="Arial">Choice </font></small></p></b>
-    <p><small><font face="Arial">Compassion International will not use or share the personally
-    identifiable information, which you provide to us online, in ways unrelated to the ones
-    described above without first letting you know and offering you a choice. As previously
-    stated, you may let us know if you do not wish to receive unsolicited direct marketing
-    materials from us, and we will do everything we can to honor such requests. </font></small></p>
-    <b><p><small><font face="Arial">Accuracy and Access </font></small></p></b>
-    <p><small><font face="Arial">Compassion International strives to keep your personally
-    identifiable information accurate. We make every effort to provide you with online access
-    to your sponsor registration data so that you may update or correct your information at
-    the Compassion International site where it was submitted. To protect your privacy and
-    security, we will also take reasonable steps to verify your identity before granting you
-    access or enabling you to make corrections. </font></small></p>
-    <b><p><small><font face="Arial">Security </font></small></p>
-      </b> 
-      <p><small><font face="Arial">Compassion International is committed to ensuring 
-        the security of your information. To prevent unauthorized access, maintain 
-        data accuracy, and ensure the appropriate use of information, we have 
-        put in place appropriate physical, electronic, and managerial procedures 
-        to safeguard and secure the information we collect online. We use Internet 
-        encryption software, Secure Socket Layer (SSL) protocol, when collecting 
-        or transferring sensitive data such as credit card information. <br>
-        <br>
-        <a href="http://www.ecfa.org"><img src="../images/ECFA.jpg" width="79" height="67" border="0"></a> 
-        <a href="#" onclick="MM_openBrWindow('https://digitalid.verisign.com/as2/ff120cbd8e0900b8e42cfaa00a771b46','Secure','scrollbars=yes,resizable=yes,width=500,height=300')"><img src="../images/verisign3.gif" width="56" height="64" border="0"></a> 
-        </font></small></p>
-<p><b><font face="Arial"><small>Contacting Us</small></font></b></p>
-    <p><small><font face="Arial">If you have comments or questions about our privacy policy,
-    please send us an e-mail at: <a href="mailto:webmaster@us.ci.org">webmaster@us.ci.org</a>.
-    </font></small></p></td>
+          <td valign="top"> 
+            <p>&nbsp;</p>
+            <b><font face="Arial, Helvetica, sans-serif" size="2">Copyright</font></b><font face="Arial, Helvetica, sans-serif" size="2"><br>
+            Updated January 4, 2002<br>
+            © 2002 Compassion International <br>
+            Compassion is a registered trademark of Compassion International, 
+            Inc. </font><font face="Arial, Helvetica, sans-serif" size="2"><b><br>
+            <br>
+            Compassion International Online Privacy Statement </b></font> 
+            <font face="Arial, Helvetica, sans-serif" size="2"><br>
+            Compassion International is committed to respecting your online privacy 
+            and security. We've structured our Web site so that, in general, you 
+            can visit us on the Web without identifying yourself or revealing 
+            any personal information. Once you choose to provide us personally 
+            identifiable information (any information by which you can be identified), 
+            you can be assured that it will only be used to support your sponsor 
+            relationship with Compassion International. </font>
+<p><b><font face="Arial, Helvetica, sans-serif" size="2">Awareness 
+              </font></b> <font face="Arial, Helvetica, sans-serif" size="2"><br>
+              Compassion International provides this Online Privacy Statement 
+              to make you aware of our privacy policy and security practices, 
+              and to inform you about the way your information is collected and 
+              used. To make this notice easy to find, we make it available on 
+              our homepage and from the bottom of every Compassion International 
+              Web page. </font></p>
+            <p><b><font face="Arial, Helvetica, sans-serif" size="2">What 
+              we collect </font></b> <font face="Arial, Helvetica, sans-serif" size="2"><br>
+              On some Compassion International Web pages you can become a sponsor, 
+              make donations, and request materials. The types of personal information 
+              collected on these pages are name, contact and billing information, 
+              transaction, and credit card information. In order to tailor our 
+              subsequent communications to you and continuously improve our services, 
+              we may also ask you to provide us with information regarding your 
+              personal or professional interests, demographics, experiences as 
+              a sponsor, and contact preferences. </font></p>
+            <p><b><font face="Arial, Helvetica, sans-serif" size="2">How 
+              we use it </font></b> <font face="Arial, Helvetica, sans-serif" size="2"><br>
+              Compassion International uses your information to understand your 
+              needs and provide you with better service. Specifically, we use 
+              your information to help you complete a transaction, communicate 
+              back to you, update you on your sponsored child and special events, 
+              and to personalize our Web site for you. Credit card numbers are 
+              used only for payment processing and are not retained for other 
+              purposes. From time to time, we may also use your information to 
+              contact you for market research or provide you with information 
+              we think would be of particular interest. At a minimum, we will 
+              always give you the opportunity to decline such direct marketing 
+              or market research contact. We will also follow local requirements, 
+              such as allowing you to opt in before receiving unsolicited contact, 
+              where applicable. Data collected online may also be combined with 
+              information you provide when you register online as a Compassion 
+              sponsor. </font></p>
+            <p><b><font face="Arial, Helvetica, sans-serif" size="2">Who 
+              we share it with </font></b> <font face="Arial, Helvetica, sans-serif" size="2"><br>
+              Compassion International will not sell, rent, or lease your personally 
+              identifiable information to others. Unless we have your permission 
+              or are required by law, we will only share the personal data you 
+              provide online with Compassion International entities and/or business 
+              partners who are acting on our behalf to complete the activities 
+              described above. Such Compassion International entities and/or business 
+              partners, including those located in other countries, are governed 
+              by our privacy policies with respect to the use of this data. </font></p>
+            <p><b><font face="Arial, Helvetica, sans-serif" size="2">Choice 
+              </font></b> <font face="Arial, Helvetica, sans-serif" size="2"><br>
+              Compassion International will not use or share the personally identifiable 
+              information, which you provide to us online, in ways unrelated to 
+              the ones described above without first letting you know and offering 
+              you a choice. As previously stated, you may let us know if you do 
+              not wish to receive unsolicited direct marketing materials from 
+              us, and we will do everything we can to honor such requests. </font></p>
+            <p><b><font face="Arial, Helvetica, sans-serif" size="2">Accuracy 
+              and Access </font></b> <font face="Arial, Helvetica, sans-serif" size="2"><br>
+              Compassion International strives to keep your personally identifiable 
+              information accurate. We make every effort to provide you with online 
+              access to your sponsor registration data so that you may update 
+              or correct your information at the Compassion International site 
+              where it was submitted. To protect your privacy and security, we 
+              will also take reasonable steps to verify your identity before granting 
+              you access or enabling you to make corrections. </font></p>
+            <p><b><font face="Arial, Helvetica, sans-serif" size="2">Security 
+              </font></b> <font face="Arial, Helvetica, sans-serif" size="2"><br>
+              Compassion International is committed to ensuring the security of 
+              your information. To prevent unauthorized access, maintain data 
+              accuracy, and ensure the appropriate use of information, we have 
+              put in place appropriate physical, electronic, and managerial procedures 
+              to safeguard and secure the information we collect online. We use 
+              Internet encryption software, Secure Socket Layer (SSL) protocol, 
+              when collecting or transferring sensitive data such as credit card 
+              information. <br>
+              <br>
+              <b>Are cookies used?</b><br>
+              Cookies are used to determine the success of Compassion's programs 
+              in attracting new sponsors. This allows us to be good stewards with 
+              the donations that are given to us by determining which marketing 
+              programs are effective, which keeps our marketing expenses low. 
+              A cookie will remember which site a person came from if he or she 
+              directly visited our Sponsor a Child page. <br>
+              <b><br>
+              What is a cookie?</b><br>
+              A cookie is a series of data characters that, when programmed into 
+              a Web site, is placed by the Web server into the browser's application 
+              folder on your computer. Once placed onto your machine, the cookie 
+              will allow the Web site to "recognize" you as a unique 
+              individual. Cookies do not collect data from the end user's hard 
+              drive.<br>
+              <br>
+              <b> Can cookies be removed from my hard drive?</b> <br>
+              Yes, cookies can be removed from your hard drive. Also, depending 
+              on what type of Web browser and what browser version you are using, 
+              you may be able to change the properties on your cookie file so 
+              that cookies are not used or saved. Please check with your browser 
+              provider for more information on removing cookies. <br>
+              <br>
+              <a href="http://www.ecfa.org"><img src="../images/ECFA.jpg" width="79" height="67" border="0"></a> 
+              <a href="#" onclick="MM_openBrWindow('https://digitalid.verisign.com/as2/ff120cbd8e0900b8e42cfaa00a771b46','Secure','scrollbars=yes,resizable=yes,width=500,height=300')"><img src="../images/verisign3.gif" width="56" height="64" border="0"></a> 
+              </font> </p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Contact 
+              Us<br>
+              </b></font><font face="Arial, Helvetica, sans-serif" size="2">If 
+              you have comments or questions about our privacy policy, please 
+              <a href="ContactUs/Index.asp">contact us</a>. </font> </p>
+            </td>
   </tr>
 </tbody></table>
 
-</td> <td valign="top"><a href="/sponsor/index.asp"><img src="/images/main_sponsoranimation.gif" border="0" width="160" height="127"></a>
+</td> <td valign="top"><a href="/sponsor/index.asp" target="_top"><img src="/images/main_sponsoranimation.gif" border="0" width="160" height="127"></a>
 
 
 <table width="160" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr> <td align="center"> <a href="/sponsor/index.asp" onmouseover="window.status='View photos of children who are waiting for a sponsor'; changeImages('waiting', '/images/splash_waiting-over.gif'); return true;" onmouseout="window.status=''; changeImages('waiting', '/images/splash_waiting.gif'); return true;"> <img name="waiting" src="/images/splash_waiting.gif" width="115" height="40" border="0" alt="View children who are waiting for a sponsor"></a></td> </tr>
+<tbody><tr> <td align="center"> <a href="/sponsor/index.asp" onmouseover="window.status='View photos of children who are waiting for a sponsor'; changeImages('splash_waiting', '/images/splash_waiting-over.gif'); return true;" onmouseout="window.status=''; changeImages('splash_waiting', '/images/splash_waiting.gif'); return true;"> <img name="splash_waiting" src="/images/splash_waiting.gif" width="115" height="40" border="0" alt="View children who are waiting for a sponsor"></a></td> </tr>
 
 <tr> <td align="center"> <a href="javascript:openWin('https://www.compassion.com/sponsor/signup_1a.asp','signup')" onmouseover="window.status='Sign up now!'; changeImages('signup', '/images/splash_signup-over.gif'); return true;" onmouseout="window.status=''; changeImages('signup', '/images/splash_signup.gif'); return true;"> <img name="signup" src="/images/splash_signup.gif" width="115" height="40" border="0" alt="Sign up now!"></a></td> </tr>
 
-<tr> <td align="center"> <a href="javascript:openWinss('/sponsor/slideshow/index.htm','slideshow')" onmouseover="window.status='Why sponsor?'; changeImages('why', '/images/splash_why-over.gif'); return true;" onmouseout="window.status=''; changeImages('why', '/images/splash_why.gif'); return true;"> <img name="why" src="/images/splash_why.gif" width="115" height="40" border="0" alt="Why sponsor"></a></td> </tr>
+<tr> <td align="center"> <a href="javascript:openWinss('/sponsor/slideshow/index.asp','slideshow')" onmouseover="window.status='Why sponsor?'; changeImages('why', '/images/splash_why-over.gif'); return true;" onmouseout="window.status=''; changeImages('why', '/images/splash_why.gif'); return true;"> <img name="why" src="/images/splash_why.gif" width="115" height="40" border="0" alt="Why sponsor"></a></td> </tr>
 
-<tr> <td align="center"> <a href="/sponsor/faq.htm" onmouseover="window.status='Frequently asked questions'; changeImages('faq', '/images/splash_faq-over.gif'); return true;" onmouseout="window.status=''; changeImages('faq', '/images/splash_faq.gif'); return true;"> <img name="faq" src="/images/splash_faq.gif" width="115" height="40" border="0" alt="Frequently Asked Questions"></a></td> </tr>
+<tr> <td align="center"> <a href="/SPONSOR/FAQ.asp" onmouseover="window.status='Frequently asked questions'; changeImages('faq', '/images/splash_faq-over.gif'); return true;" onmouseout="window.status=''; changeImages('faq', '/images/splash_faq.gif'); return true;"> <img name="faq" src="/images/splash_faq.gif" width="115" height="40" border="0" alt="Frequently Asked Questions"></a></td> </tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr> <td align="center"> <img src="/images/moore1.jpg" width="115" height="171" border="0" alt=""></td> </tr>
@@ -209,9 +286,9 @@ function preloadImages() {
   </tr>
 </tbody></table>
 
-<p><font face="Arial" size="1">Copyright © 2000 Compassion International. Compassion is a
+<p><font face="Arial" size="1">Copyright © 2002 Compassion International. Compassion is a
 registered trademark of Compassion International, Inc. <br>
-Please review our <a href="/privacy.htm">Privacy Statement</a>.</font></p>
+Please review our <a href="/PRIVACY.asp">Privacy Statement</a>.</font></p>
 
 
 
