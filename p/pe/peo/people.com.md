@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the people.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402185724id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/people%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the people.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211172935id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/people%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # People Privacy Policy
 
@@ -87,7 +87,7 @@ We may also use small pieces of code called "web beacons" or "clear gifs" to col
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. |    
   
 **How You can Access or Correct Information**  
-For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information, please email us by clicking [here](https://secure.customersvc.com/servlet/Show?WESPAGE=pe/Services/wes_email.html&MSRSMAG=PE). 
+For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information, please email us by clicking [here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/wes_email.jsp&MSRSMAG=PE). 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
@@ -97,7 +97,7 @@ To protect your privacy and security, we will take reasonable steps to help veri
 The site you are visiting is one of the Time Inc. general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested. |    
   
 **How to Contact Us**  
-If you have any questions or concerns about the Time Inc. online policy for this site or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=pe/Services/wes_email.html&MSRSMAG=PE) or at the following address:
+If you have any questions or concerns about the Time Inc. online policy for this site or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/wes_email.jsp&MSRSMAG=PE) or at the following address:
 
 Time Customer Service  
 Attention: Consumer Affairs  
