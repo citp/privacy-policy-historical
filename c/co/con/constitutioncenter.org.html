@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the constitutioncenter.org privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606142215id_/http%3A//www.constitutioncenter.org/Misc/Pages/PrivacyPolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the constitutioncenter.org privacy policy that was archived on 2004-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041011214845id_/http%3A//www.constitutioncenter.org/Misc/Pages/PrivacyPolicy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
         <title>National Constitution Center: Terms of Use and Privacy Policy</title>
@@ -9,10 +9,11 @@
         <script language="JavaScript" type="text/Javascript">
         <!--
         function searchSubmit() {
-         document.searchForm.submit();
+         var response = submitmainsearch(0);
+         document.mainsearchform.submit();
         }
         function bodySearchSubmit() {
-         document.bodySearchForm.submit();
+         document.bodySearchform.submit();
         }
         //-->
         <!--    
@@ -55,7 +56,7 @@
         <!--
         function getLessonPlanIndex(theURL){
         if(theURL!="*"){
-        window.location.href="/education/lesson_plans/" + theURL
+        window.location.href="/education/curriculum resources/lesson_plans/" + theURL
         }
         }
         //-->
@@ -128,7 +129,7 @@
            <tr>
           <td><script language="JavaScript1.2">document.write("<IMG src='"+ImgHdr+"' border=0 width=729 height=92 alt='"+ImgAltTag+"'>");</script><img src="/Misc/asset_upload_file244_1295.jpg" border="0" width="729" height="92" alt=""></td>
           </tr><tr>
-          <td><a onmouseover="MM_swapImage('visit','','/images/nav/visiting_museum01.gif',1)" onmouseout="MM_swapImgRestore()" href="/visiting/VisitorInformation/index.shtml"><img height="29" alt="Visit the Museum" src="/images/nav/visiting_museum00.gif" width="183" border="0" name="visit"></a><a onmouseover="MM_swapImage('explore','','/images/nav/explore_constitution01.gif',1)" onmouseout="MM_swapImgRestore()" href="/explore/TheU.S.Constitution/index.shtml"><img height="29" alt="Explore the Constitution" src="/images/nav/explore_constitution00.gif" width="182" border="0" name="explore"></a><a onmouseover="MM_swapImage('edures','','/images/nav/edu_resources01.gif',1)" onmouseout="MM_swapImgRestore()" href="/education/LessonPlans/index.shtml"><img height="29" alt="The Annenberg Center for Education and Outreach" src="/images/nav/edu_resources00.gif" width="182" border="0" name="edures"></a><a onmouseover="MM_swapImage('actctr','','/images/nav/citizens_action01.gif',1)" onmouseout="MM_swapImgRestore()" href="http://capwiz.com/constitutioncenter/home/"><img height="29" alt="Citizen's Action Center" src="/images/nav/citizens_action00.gif" width="182" border="0" name="actctr"></a></td>
+          <td><a onmouseover="MM_swapImage('visit','','/images/nav/visiting_museum01.gif',1)" onmouseout="MM_swapImgRestore()" href="/visiting/VisitorInformation/index.shtml"><img height="29" alt="Visit the Museum" src="/images/nav/visiting_museum00.gif" width="183" border="0" name="visit"></a><a onmouseover="MM_swapImage('explore','','/images/nav/explore_constitution01.gif',1)" onmouseout="MM_swapImgRestore()" href="/explore/TheU.S.Constitution/index.shtml"><img height="29" alt="Explore the Constitution" src="/images/nav/explore_constitution00.gif" width="182" border="0" name="explore"></a><a onmouseover="MM_swapImage('edures','','/images/nav/edu_resources01.gif',1)" onmouseout="MM_swapImgRestore()" href="/education/WelcomeEducatorsandStudents/index.shtml"><img height="29" alt="The Annenberg Center for Education and Outreach" src="/images/nav/edu_resources00.gif" width="182" border="0" name="edures"></a><a onmouseover="MM_swapImage('actctr','','/images/nav/citizens_action01.gif',1)" onmouseout="MM_swapImgRestore()" href="http://capwiz.com/constitutioncenter/home/"><img height="29" alt="Citizen's Action Center" src="/images/nav/citizens_action00.gif" width="182" border="0" name="actctr"></a></td>
           </tr>
         
         <!--- ==== END TOPNAV MODULE ==== --->
@@ -209,15 +210,20 @@
         <td><p class="navInterior">Site Search:</p></td>
            </tr>
            <tr>
-        <td><form action="/htdig/htsearch.cgi" method="post" name="searchForm">
-          <input type="hidden" name="method" value="or">
-           <input type="hidden" name="format" value="builtin-long">
-           <input type="hidden" name="sort" value="score">
-           <input type="hidden" name="config" value="htdig">
-           <input type="hidden" name="restrict">
-           <input type="hidden" name="exclude">
-           <p class="navInterior">
-          <input name="words" value="Keyword" size="15" class="searchField"><a class="navInterior" href="javascript:searchSubmit()">Go</a> 
+        <td><script language="javascript">
+            function submitmainsearch(startval) {
+            document.mainsearchform.query.value = '"'+document.mainsearchform.keywords.value+'"';
+            document.mainsearchform.start.value = startval;
+            return(true);
+            }
+            </script>
+            <form method="POST" name="mainsearchform" action="/swish.cgi" onsubmit="submitmainsearch(0);">
+            <p class="navInterior">
+            <input type="hidden" name="query" value="">
+            <input type="hidden" name="searchtype" value="ncc">
+            <input type="hidden" name="metaname" value="swishdefault">
+            <input type="hidden" name="start" value="0">
+            <input type="text" name="keywords" value="Keyword" size="15" class="searchField"><a class="navInterior" href="javascript:searchSubmit()">Go</a>
         </p></form>
         <p></p></td>
            </tr>
@@ -298,7 +304,9 @@
         
 
 
-  <p><span class="header">Terms of Use and Privacy Policy</span></p>
+  <p><span class="header">Terms of Use and Privacy Policy</span>
+
+</p>
 
 
 
@@ -436,9 +444,9 @@ If you have any questions, please contact us at <a href="mailto:ncc@constitution
            
            
             <tr>
-             <td width="115"><div align="center"><img height="44" alt="" src="/images/american_stories_new.gif" width="115" border="0"></div><p><img height="129" alt="Thomas" w.="" dorr="" courtesy="" of="" corbis="" src="/Features/asset_upload_file716_2472.jpg" width="115"></p>
-                <div align="center" class="sidebarTitle">Thomas W. Dorr (1805-1854)</div><br>
-               <span class="sidebar">He Fought for Voting Rights<br><br>Thomas W. Dorr led a popular rebellion in 1841 and 1842 to expand voting rights in Rhode Island. When the government refused to act, Dorr called a constitutional convention - prompting the legislature to convene one, too. Each organized governments. Eventually the rebellion collapsed. Dorr was indicted for high treason and fled. <br><br>Dorr's rebellion prompted Rhode Island to liberalize its voting requirements and influenced constitutional history. When the Supreme Court was asked in 1849 to decide which of the two Rhode Island governments - the Dorrites' or the legislature's - had been legitimate, it issued a landmark ruling: Questions like that, it said, are political in nature, meant to be answered by the voters and not the judiciary.
+             <td width="115"><div align="center"><img height="44" alt="" src="/images/american_stories_new.gif" width="115" border="0"></div><p><img height="122" alt="S." i.="" hayakawa="" courtesy="" of="" corbis="" src="/Features/asset_upload_file227_3912.jpg" width="115"></p>
+                <div align="center" class="sidebarTitle">S. I. Hayakawa (1906-1992)</div><br>
+               <span class="sidebar">He Curbed Student Protest During The Vietnam War<br><br>Samuel Ichiye Hayakawa, a professor of English at San Francisco State University, became university president in 1968, at the height of the anti-Vietnam War movement.<br>  <br>Student and faculty anti-war demonstrations periodically closed San Francisco State. Impatient with student radicals, Hayakawa used a firm hand in shutting down the protests. The right to free speech, he believed, is balanced against the rights of others to pursue their lives and studies without disruption.<br> <br>As a result of his actions, Hayakawa became a well-known - and popular - figure. California voters elected him to the U.S. Senate in 1976. There, he introduced a constitutional amendment to make English the sole official language of the nation. After serving a single term, Hayakawa retired from the Senate in 1983.
                <br>  <br> <hr>
 American Stories are adapted from an interactive exhibit at the National
 Constitution Center that features the stories of 100 people whose lives,
@@ -465,7 +473,8 @@ constitutionalism.
         <tbody><tr>
         <td align="middle" bgcolor="#3f6388"> <span class="footer"><a class="footer" href="/index.shtml">Home</a> 
            | <a class="footer" href="/forms/_form_feedback.shtml">Feedback</a> | <a class="footer" href="/Misc/Pages/SiteMap.shtml">Site Map</a></span><br>
-        <span class="navBottom">Content Copyright 2004, National Constitution Center. <a class="navbottomlink" href="/Misc/Pages/PrivacyPolicy.shtml">Terms of Use and Privacy Policy</a></span>
+        <span class="navBottom">525 Arch Street, Independence Mall, Philadelphia, Pennsylvania, 19106   ph.215.409.6600<br>
+        Content Copyright 2004, National Constitution Center. <a class="navbottomlink" href="/Misc/Pages/PrivacyPolicy.shtml">Terms of Use and Privacy Policy</a></span>
         </td>
         </tr>
         </tbody></table><!--- ==== END BOTTOM NAV MODULE ==== --->
