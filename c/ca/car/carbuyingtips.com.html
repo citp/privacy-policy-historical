@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carbuyingtips.com privacy policy that was archived on 2004-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041031003543id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carbuyingtips.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403185759id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head>
 <title>CarBuyingTips.com new car buying guide, avoiding dealer scams, used car buying and selling</title>
@@ -16,7 +16,8 @@ var path1 = new Array()
 var pageID = 54
 
 param1[1]="0tekxgl_eoyyqkz_ttky3"
-param2[1]="0"
+<!-- param2[1]="0" --> 
+param2[1]=Date()
 
 
 function readParemeters()
@@ -38,7 +39,8 @@ function readParemeters()
 
 function trackVisitors()
 {
-	path=param2[1]+'x'+pageID;
+	<!-- path=param2[1]+'x'+pageID; -->
+	path=param2[1];
 }
 
 function readCookie(name)
@@ -75,7 +77,7 @@ function eatcookie()
 	}	
 		else
 	{
-		SetCookie('cbt',param1[1]+ '+' +param2[1],30);
+		SetCookie('cbt',param1[1]+ '+' +param2[1],90);
 		var cookie_exists=readCookie('cbt');
 		if (cookie_exists==null)
 		{
@@ -91,7 +93,7 @@ readParemeters();
 
 trackVisitors();
 
-SetCookie('cbt',param1[1]+ '+' +path,30);
+SetCookie('cbt',param1[1]+ '+' +path,90); 
 
    </script>   
 	   
