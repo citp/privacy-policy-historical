@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610130937id_/http%3A//www.learningstrategies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207164824id_/http%3A//www.learningstrategies.com/privacy.html) for the most accurate reproduction.*
 
 # Learning Strategies Corporation Privacy Policy
 
@@ -26,4 +26,4 @@ Will we disclose any personal information we collect to outside parties?
 
          We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
 
-         Please [contact us](https://web.archive.org/web/20040610130937id_/http%3A//www.learningstrategies.com/ReachUs.html) with any questions or concerns. 
+         Please [contact us](https://web.archive.org/web/20041207164824id_/http%3A//www.learningstrategies.com/ReachUs.html) with any questions or concerns. 
