@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2002-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020619063050id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2002-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021213133947id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Privacy, Disclaimer, and Copyrights: U.S. Fish & Wildlife Service
 
@@ -51,13 +51,13 @@ We will identify material we use from sources outside the Service, and request o
 
 ### Restrictions on Using the Service Logo on Web Pages
 
-The Service logo is our official "trademark" and not available for general use. Please use [alternative images if you need a graphic](https://web.archive.org/web/20020619063050id_/http%3A//www.fws.gov/help/altlogo.html). 
+The Service logo is our official "trademark" and not available for general use. Please use [alternative images if you need a graphic](https://web.archive.org/web/20021213133947id_/http%3A//www.fws.gov/help/altlogo.html). 
 
 Use of the Service logo is reserved for official publications, electronic or paper. Restrictions on use of the Service logo were published in the Federal Register on February 13, 1984 (Vol. 49, No. 30, page 5387), and [18 USC 701](http://www.law.cornell.edu/uscode/18/701.shtml) provides for enforcement. 
 
 There are procedures for obtaining approval for the use of the official Service logo on a joint publication with the Service, including electronic publications. Contact [Mitch Snow](mailto:Mitch_Snow@fws.gov) in the Washington Office - External Affairs at (202) 208-5634 for assistance. 
 
-There are also restrictions on the use of the images of the [Federal Duck Stamps](http://www.fws.gov/r9dso/license/index.html) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://federalaid.fws.gov/info/falogos.html), and on the "[blue goose](http://www.fws.gov/directives/library/99fr33904a.html)" image used to identify wildlife refuges. 
+There are also restrictions on the use of the images of the [Federal Duck Stamps](http://duckstamps.fws.gov/Licenseindex.html) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://federalaid.fws.gov/info/falogos.html), and on the "[blue goose](http://policy.fws.gov/library/99fr33904a.html)" image used to identify wildlife refuges. 
 
 * * *
 
