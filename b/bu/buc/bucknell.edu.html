@@ -1,0 +1,420 @@
+<!--The following is the downloaded HTML source of the bucknell.edu privacy policy that was archived on 2004-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041212221558id_/http%3A//www.bucknell.edu/Privacy_Statement.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<script language="JavaScript"><!--
+
+var wpid = 123;
+var directory = ''
+
+var wpid = 123;
+
+var NS4 = (document.layers) ? 1 : 0;
+var IE4 = (document.all) ? 1 : 0;
+var ver4 = (NS4 || IE4);
+window.updatefield = 0;
+
+//if(top.name.length == 0 || top.name == "MainFrame" || top.name.indexOf("eGmain") == 0) {
+//	top.name = "eGmain" + wpid;
+//}
+
+function ow(loc, name, width, height, replace, statusbar, scrollbars)
+{
+// this function opens a window
+	if(!width) width = 540;
+	if(!height) height = 560;
+	if(!name.length) name = "unknown";
+	if(!replace) name += uniqid();
+	if (name == "admin") {
+		hostname = window.location.hostname;
+		i = 0;
+		while (hostname.indexOf(".") > -1 && i < 3) {
+			hostname = hostname.replace(/\./, "_");
+			i++;
+		}
+		name = "eG_" + hostname + directory.replace(/\//g, "_") + "_" + name;
+		name = name.replace(/-/,"_");
+	} else {
+		name = "eG_" + window.name + "_" + name;
+	}
+	
+	xpos = (screen.width - width)/2;
+	ypos = (screen.height - height)/2;
+	
+	wi = window.open(loc, name, 'width=' + width + ',height=' + height + ',resizable=1,status=1,menubar=0,scrollbars=1,screenX='+xpos+',screenY='+ypos+",left="+xpos+",top="+ypos);
+	if(ver4) wi.focus();
+	return(wi);
+}
+
+function NewWizard(loc,width,height)
+{
+	xpos = (screen.width - width)/2;
+	ypos = (screen.height - height)/2;
+		
+	wi = window.open(loc, 'newwindow' + uniqid(), 'width=' + width + ',height=' + height + ',resizable=1,status=0,menubar=0,scrollbars=1,screenX='+xpos+',screenY='+ypos+",left="+xpos+",top="+ypos);
+	if(ver4) wi.focus();
+}
+
+function NewBrowseWindow(loc,width,height)
+{
+	xpos = (screen.width - width)/2;
+	ypos = (screen.height - height)/2;
+		
+	wi = window.open(loc, 'egBrowseWindow', 'width=' + width + ',height=' + height + ',resizable=1,status=0,menubar=0,scrollbars=1,screenX='+xpos+',screenY='+ypos+",left="+xpos+",top="+ypos);
+	if(ver4) wi.focus();
+}
+
+function uniqid()
+{
+        var t = new Date();
+	var m = t.getTime();
+	return(m % 90000);
+}
+
+function getRef(name)
+{	
+	name = "eG" + name + wpid;
+	return(window.open("",name));
+}
+
+function BamfTo(name, loc, focus)
+{
+	rf = getRef(name);
+	rf.location = loc;
+	if(focus && ver4) rf.focus();
+}
+
+function BamfSize(loc,x,y) { ow(loc,"bamfsize",x,y,0); }
+function AdminPanel(loc) { ow(loc,"admin",700,500,1); }
+function NewWindow(loc,w,h,close) { ow(loc,"newwindow",w, h,close); }
+function NewWindowName(loc,name,w,h,close) { ow(loc,name,w,h,close); }
+function bamf(loc) { ow(loc,"justbamf",400,100,0); }
+function BamfHelp(loc) { ow(loc,"bamfhelp",400,300,1); }
+function BamfLink(loc) { self.location = loc; }
+function BamfPanel(loc) { ow(loc,"bamfpanel",300,500,0); }
+function BamfNewPanel(loc) { BamfPanel(loc); }
+function BamfPicker(loc,w,h,field) {
+	if(!w) w = 350;
+	if(!h) h = 250;
+	window.updatefield = field;
+	wr = ow(loc,"picker",w,h,0);
+}
+function CloseBamf() { return true; } 
+function PullDownStart() { return true; }
+function MsMenuInit() { if(IE4) MsMenuInit2(); }
+function SetCookie(Name,Val) { document.cookie = Name + "=" + Val + ";expires=Wed, 23-Dec-2000 03:24:00 GMT;path=/;domain=.egrail.com;"; }
+function setcookie(Name,Val,MyDate) { document.cookie = Name + "=" + Val + ";expires=" + MyDate + ";path=/;domain=.egrail.com;"; }
+function setcookie2(Name,Val,MyDate,Domain) { document.cookie = Name + "=" + Val + ";expires=" + MyDate + ";path=/;domain=" + Domain + ";"; }
+function setcookie3(Name,Val,MyDate,Domain,Path) { document.cookie = Name + "=" + Val + ";expires=" + MyDate + ";path=" + Path + ";domain=" + Domain + ";"; }
+function setsessioncookie(Name,Val,Domain,Path) { document.cookie = Name + "=" + Val + ";path=" + Path + ";domain=" + Domain + ";"; }
+
+function OpenWindow(Loc) { 	
+	window.open(Loc); 
+}
+function ReplaceText(Pre, Post) {
+	if (!IE4) { alert("Sorry, the browser you are using does not support the functions needed\nto perform this action.  Currently they are only available in\nInternet Explorer 4 or later."); return; }	
+	var Selection;
+	var Current;
+	if (!document.selection) { alert("Please select an area of text, and try again."); return; }
+	Selection = document.selection.createRange();
+	Current = Selection.text;
+	if (Current == '') return;
+	Selection.text = Pre + Current + Post;
+	Selection.parentElement().focus();
+}
+function SpellCheck(Obj) {
+	var MyForm = document.forms[0];
+	var oval = MyForm.elements[Obj].value;
+	var ct = ow(directory + "/login.html?" + escape(Obj) + "=" + escape(oval) + "&FormSwitch=SpellCheck|" + escape(Obj),"spelling",400,400,1);
+	ct.focus();
+	return;
+}
+				
+function HiliteThis(Name, Image) { ChangeImage(Name, Image); return true; }
+function RestoreThis (Name, Image) { ChangeImage(Name, Image); return true; }
+function HiliteThread(Name, Image) { ChangeImage(Name, Image); }
+function RestoreThread(Name, Image) { ChangeImage(Name, Image); }
+						
+function ChangeImage(Name, Image) {
+	if (!document.images || Image == null) return false;
+	document.images[Name].src = Image;
+	return true;
+}
+
+
+function BamfMain(loc) {
+	self.location = loc;
+}
+
+
+function BamfMainPanel(loc) {
+        r = getRef("admin");
+        x = r.frames["egrail"]
+        if(x)
+                x.location = loc;
+        else
+                r.location = loc;
+}
+
+function GetFormVarsAsArgs(formname) {
+	if (!formname) formname = 0;
+	elements = document.forms[formname].elements;
+	args = '?';
+	for (i = 0; i < elements.length; i++) {
+		args += elements[i].name + '=' + escape(elements[i].value);
+		if (i+1 < elements.length) {
+                	args += '&';
+		}
+	}       
+	return(args);   
+}       
+
+
+// --></script>
+<title>Bucknell University Internet Privacy Statement</title>
+<style type="text/css" media="all">
+	@import "/img/assets/6995/global.css";
+	@import "/img/assets/6995/color.css";
+</style>
+<meta name="keywords" content="privacy, private, information, statement, policy">
+<meta name="description" content="Bucknell's statement of privacy practices concerning information collected from users of our internet servers">
+<link rel="stylesheet" type="text/css" media="print" href="/img/assets/6995/global-print.css">
+<link rel="alternate stylesheet" type="text/css" title="size1" href="/img/assets/6995/size1.css">
+<link rel="alternate stylesheet" type="text/css" title="size2" href="/img/assets/6995/size2.css">
+<link rel="alternate stylesheet" type="text/css" title="size3" href="/img/assets/6995/size3.css">
+<link rel="alternate stylesheet" type="text/css" title="print" href="/img/assets/6995/global-print.css">
+<script type="text/javascript" src="/img/assets/6958/global.js"></script>
+<script>
+if (document.cookie.indexOf('fontsize=')!=-1) {
+        css = getCookie('fontsize');
+        setActiveStyleSheet(css);
+}
+</script>
+
+</head>
+
+<body>
+<!--begin EG_SiteTools-->
+
+<!--end EG_SiteTools-->
+<!--
+------------------------------------------------------------------------------------------
+
+						header begins here
+------------------------------------------------------------------------------------------
+-->
+
+<table id="fullPage" align="center" border="0" cellspacing="1" cellpadding="0" bgcolor="#ffffff">
+	<tbody><tr id="headerHome">
+		<td id="logo"><a href="http://www.bucknell.edu/"><img src="/img/assets/6957/header_logo.gif" width="186" height="105" alt="Bucknell Unversity"></a></td>
+		<td id="banner1"></td>
+		<td id="banner2">
+			<div><a href="http://mybucknell.bucknell.edu">myBucknell</a> | <a href="/UR/Giving_to_Bucknell/index.html">Giving To Bucknell</a> | <a href="http://www.bucknellbookstore.com/">Bookstore</a></div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3" id="topNav">
+<!---->
+<table cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+<a href="/About_Bucknell/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About Bucknell','','/img/assets/6959/about_over.gif',1)"><img src="/img/assets/6959/about.gif" alt="About Bucknell" name="About Bucknell" width="108" height="25" border="0"></a>
+</td>
+<td>
+<a href="/Admissions_Aid/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Admissions &amp; Aid','','/img/assets/6959/admissions_over.gif',1)"><img src="/img/assets/6959/admissions.gif" alt="Admissions &amp; Aid" name="Admissions &amp; Aid" width="123" height="25" border="0"></a>
+</td>
+<td>
+<a href="/Academics/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Academics &amp; Research','','/img/assets/6959/academics_over.gif',1)"><img src="/img/assets/6959/academics.gif" alt="Academics &amp; Research" name="Academics &amp; Research" width="89" height="25" border="0"></a>
+</td>
+<td>
+<a href="/Campus_Life/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Campus Life','','/img/assets/6959/campus_over.gif',0)"><img src="/img/assets/6959/campus.gif" alt="Campus Life" name="Campus Life" width="98" height="25" border="0"></a>
+</td>
+<td>
+<a href="/Athletics/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Athletics','','/img/assets/6959/athletics_over.gif',0)"><img src="/img/assets/6959/athletics.gif" alt="Athletics" name="Athletics" width="78" height="25" border="0"></a>
+</td>
+<td>
+<a href="/UR/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Alumni, Friends &amp; Family','','/img/assets/6959/alumni_over.gif',0)"><img src="/img/assets/6959/alumni.gif" alt="Alumni, Friends &amp; Family" name="Alumni, Friends &amp; Family" width="167" height="25" border="0"></a>
+</td>
+<td>
+<a href="/News_Events/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('News &amp; Events','','/img/assets/6959/news_over.gif',0)"><img src="/img/assets/6959/news.gif" alt="News &amp; Events" name="News &amp; Events" width="104" height="25" border="0"></a>
+</td>
+</tr>
+</tbody></table>
+
+		</td>
+	</tr>
+	<tr>
+
+<!--
+------------------------------------------------------------------------------------------
+						header end here
+
+------------------------------------------------------------------------------------------
+-->
+					<!--
+------------------------------------------------------------------------------------------
+
+						sideNav begins here
+------------------------------------------------------------------------------------------
+-->
+
+		<td id="sideMenu" valign="top">
+<form name="siteSearch" method="GET" action="http://www.search.bucknell.edu/query.html" style="margin: 0;">
+<input type="hidden" name="qp" value="">
+<input type="hidden" name="desc" value="Bucknell">
+<input type="hidden" name="qs" value="">
+<input type="hidden" name="qc" value="">
+<input type="hidden" name="pw" value="100%">
+<input type="hidden" name="ws" value="0">
+<input type="hidden" name="la" value="">
+<input type="hidden" name="qm" value="0">
+<input type="hidden" name="st" value="1">
+<input type="hidden" name="nh" value="25">
+<input type="hidden" name="lk" value="1">
+<input type="hidden" name="rf" value="0">
+<input type="hidden" name="oq" value="">
+<input type="hidden" name="rq" value="0">
+<table id="search">
+<tbody><tr>
+<td colspan="2"><img src="/img/assets/6957/site_search.gif"></td>
+</tr>
+<tr>
+<td>
+<input type="text" name="qt" id="textBox"></td>
+<td align="left"><input type="image" id="goButton" src="/img/assets/6957/go_button.gif"></td>
+</tr>
+</tbody></table>
+</form>
+
+
+			<table id="infoBar">
+				<tbody><tr>
+<form></form>					<td>					Bucknell Information For:<br>			<select name="InformationFor" onchange="jumpMenu('parent',this,0)" id="jumpBox">
+<option value="#" selected="">Select one</option>					<option value="/For_Prospective_Students.html">Prospective Student</option>
+<option value="/For_Alumni.html">Alumni</option>
+<option value="/For_Parents.html">Parents &amp; Friends</option>
+<option value="http://mybucknell.bucknell.edu">Current Students, Faculty &amp; Staff</option>
+<option value="/For_Visitors.html">Visitors</option>	</select>
+</td>
+
+				</tr>
+			</tbody></table>
+<table id="toolbar" cellpadding="0" cellspacing="4">
+				<tbody><tr><td colspan="3"><a href="/Directory/"><img src="/img/assets/6975/toolbar_people.gif"></a></td></tr>
+				<tr><td colspan="3"><a href="#" onclick="sendToAFriend();"><img src="/img/assets/6975/toolbar_friend.gif"></a></td></tr>
+				<tr><td colspan="3"><a href="#" onclick="setPrintable('print');"><img src="/img/assets/6975/toolbar_print.gif"></a></td></tr>
+<tr><td><a href="#" onclick="toggleFontSize();"><img src="/img/assets/6975/toolbar_font.gif"></a></td>		<td><a href="#" onclick="fontBigger();"><img src="/img/assets/6975/toolbar_fontplus.gif"></a>
+</td>
+					<td><a href="#" onclick="fontSmaller();"><img src="/img/assets/6975/toolbar_fontminus.gif"></a>
+</td>
+</tr>
+</tbody></table>
+		</td>
+
+<!--
+------------------------------------------------------------------------------------------
+						sideNav end here
+
+------------------------------------------------------------------------------------------
+-->
+
+<!--
+------------------------------------------------------------------------------------------
+
+						academics content / right promos begin here
+------------------------------------------------------------------------------------------
+-->
+		<td valign="top" colspan="2" id="contentsBG">
+
+			<table id="bodyPage" cellspacing="0" cellpadding="0" border="0" width="100%">
+				<tbody><tr>
+					<td id="breadcrumbs" colspan="2">
+						<ul>						<li><a href="http://www.bucknell.edu/index.html">Home</a> &gt; Bucknell University Internet Privacy Statement</li>			</ul>
+					</td>
+				</tr>
+				<tr>
+					<td id="contents" valign="top">
+<h1>Bucknell University Internet Privacy Statement</h1>
+<h2> </h2>
+<p></p><p>Bucknell University's Internet and World Wide Web sites, comprising but not limited to the hosts www.bucknell.edu, www.departments.bucknell.edu, www.facstaff.bucknell.edu, www.students.bucknell.edu, www.orgs.bucknell.edu, www.eg.bucknell.edu, www.isr.bucknell.edu, www.bb.bucknell.edu, stories.bucknell.edu, mybucknell.bucknell.edu, www.banner.bucknell.edu, www.search.bucknell.edu, webmail.bucknell.edu, r25web.bucknell.edu, easyweb.bucknell.edu, libcat.bucknell.edu, bucktix.bucknell.edu, and webpay.bucknell.edu, are committed to protecting the privacy and confidentiality of our site users. Among our goals is the intention to give the end user as much control as possible over personal information. Collecting information is an inherent part of the normal operation of our sites (and of practically all Internet sites). This Statement describes what information is collected, how it is collected, why it is collected, and how it may be used. After reading it, users can make informed decisions about whether and how to make use of our various Internet services.</p>
+
+<h3>Server logs</h3>
+
+<p>Like practically all Web servers, our Internet hosts collect and store information sent by the Web browser when it makes a request for Web content. Collected information may include the Internet Protocol (IP) address being used by a user's computer, or by the firewall or proxy server of the user's network; the hostname associated with that address; the date and time the browser made the request; what page or file was requested; the page the browser "came from" immediately before the request; and "User agent" information, which normally includes the browser software and operating system the computer is currently running.</p>
+
+<p>These logs are stored for the purpose of analyzing trends in how people are using our systems. With this information we identify heavy use periods, the most common Web browsers, the most popular content on our sites, and other related information that helps us improve the usefulness and performance of our Web sites.</p>
+
+<h3>Electronic mail and messaging software</h3>
+
+<p>When a user contacts a representative of Bucknell using electronic mail (email) or an Instant Messaging service, information included in that message may be used to respond to the message or to provide a requested service or information. The message, or information in it, may be shared with other employees of the university for the purpose of providing requested information or a requested service. Information collected in this way, including email addresses and messaging usernames, is never distributed to persons or organizations outside Bucknell unless absolutely necessary to fulfill a request. Bucknell does not give or sell lists of email addresses for commercial purposes.</p>
+
+<h3>File transfer protocol (FTP)</h3>
+
+<p>Some of our resources are made available using FTP. Many browsers are configured to provide the user's email address as the "password" for anonymous FTP requests. In those cases, the email address so provided may be recorded in the FTP server's request log. Bucknell does not make any use of addresses stored in this way except to analyze FTP server usage.</p>
+
+<h3>Cookies</h3>
+
+<p>Some of our sites create a "cookie", a record on your computer's own hard disk, which makes it possible for our sites to recognize that a specific computer has made previous requests. Our cookies are used exclusively for providing services requiring such a record. Bucknell does not track cookies for any purpose other than the needs of such Web-based applications. </p>
+
+<h3>Surveys</h3>
+
+<p>Bucknell may occasionally conduct online surveys of its user base, which may include both campus community members and users who are not directly affiliated with Bucknell. As part of such surveys we may, with the user's permission, collect personal and potentially identifying information. Any information gathered in this way is used for quantitive analysis of services, perceived qualities of the university, and users' attitudes towards Bucknell or its Internet sites. If such information is to be made available to other organizations or to be published, that fact will be be made known to users prior to participation, and their permission will be explicitly requested. Users can decline to participate if there is concern about the use of the collected information. Survey information will be released only in aggregate form, and not in connection with any identified individual user.</p>
+
+<h3>Marketing information</h3>
+
+<p>Bucknell may collect information from a user, with the user's permission, for the purpose of providing various services and information, possibly including promotional materials, or periodic updates on offered services or the progress of a previous request. Information collected in this way may be shared with other persons or departments within the university, but will not be shared in any way with persons or organizations that are not part of Bucknell, unless necessary to fulfill a user's request (for example, providing credit card information to a payment processor to complete a payment transaction).</p>
+
+<h3>Outside links</h3>
+
+<p>Much of Bucknell's Web content includes links to content on Internet servers belonging to other persons or organizations, and not to Bucknell. Bucknell can not control or make any representation concerning those persons' or organizations' collection and use of personal information.</p>
+
+<h3>Circumstances beyond our control</h3>
+
+<p>This Statement explains how information collected from users is used by Bucknell. However, it is not a guarantee of privacy. It is possible for collected information to be disclosed without the university's permission or knowledge (for example, if an Internet host is "attacked", or is compromised by a virus). For this reason Bucknell disclaims any warranty or representation of privacy or non-disclosure of information collected through the use of our Internet sites.</p>
+<p></p>
+</td>
+				</tr>
+			</tbody></table>
+
+		</td>
+
+<!--
+------------------------------------------------------------------------------------------
+						academics content / right promos  end here
+
+------------------------------------------------------------------------------------------
+-->
+
+<!--
+------------------------------------------------------------------------------------------
+
+						footer starts here
+------------------------------------------------------------------------------------------
+-->
+
+	</tr>
+	<tr>
+		<td colspan="3" id="bottomLinks"><a href="/Terms_of_Use.html">Terms of Use</a> &nbsp; <a href="/Privacy_Statement.html">Privacy Statement</a> &nbsp; <a href="/Site_Index.html">Site Index</a> &nbsp; <a href="/Bucknell_Contacts.html">Contact Bucknell</a></td>
+	</tr>
+</tbody></table>
+
+<div id="footerContact">
+	<p>MOORE AVENUE • LEWISBURG • PA 17837 • (570) 577-2000<br>
+	© Bucknell University All Rights Reserved</p>
+</div>
+
+<!--
+------------------------------------------------------------------------------------------
+						footer ends here
+
+------------------------------------------------------------------------------------------
+-->
+
+<center>
+<!--begin login-->
+
+<!--end login-->
+</center>
+
+
+</body></html>
