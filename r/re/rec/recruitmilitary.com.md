@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207045642id_/http%3A//recruitmilitary.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605210807id_/http%3A//www.recruitmilitary.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
 
 # RecruitMilitary.com - Privacy Policy
 
