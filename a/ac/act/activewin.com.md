@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622131149id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203012955id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -14,7 +14,7 @@ DirectX
   
 ActiveDVD  
   
-ActiveGaming  
+ActiveMac  
   
 Forums  
   
@@ -44,7 +44,7 @@ Windows/Microsoft
   
 DVD  
   
-Gaming  
+Apple/Mac  
   
 Hardware  
   
@@ -218,8 +218,6 @@ Awards
 ©1997/2003, Active Network, Inc. All Rights Reserved.  
 Layout, & Design by [Designer Dream](http://www.designerdream.co.uk/). Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
   
-[](http://www.winguides.com/media/adclick.cgi?gid=29&id=888)
-
 [  
 ](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
 
