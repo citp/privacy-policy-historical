@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604072529id_/http%3A//theperfumeshop.com/main/static_pages/index.cfm%3Ffsa%3DdspPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206134343id_/http%3A//www.theperfumeshop.com/main/static_pages/index.cfm%3Ffsa%3DdspPrivacyPolicy) for the most accurate reproduction.*
 
 # The Perfume Shop:
 
@@ -34,7 +34,7 @@ These cookies are used:
 • | To identify you as you travel around our site.  
 • | To provide site usage information, which together with purchase information, will further help us improve and develop the products and services we offer.  
 **More Information:** **  
-** | • | If you have any comments, queries or complaints relating to our privacy policy, please contact us on [customerservices@theperfumeshop.com](mailto:customerservices@theperfumeshop.com)  
+** | • | If you have any comments, queries or complaints relating to our privacy policy, please contact us on [customerservices@the-perfume-shop.com](mailto:customerservices@the-perfume-shop.com)  
 ---|---  
   
  
