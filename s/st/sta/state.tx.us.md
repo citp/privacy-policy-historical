@@ -1,54 +1,59 @@
-> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603141412id_/http%3A//www.state.tx.us/Siteinfo/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215803id_/http%3A//www.state.tx.us/Siteinfo/privpol.html) for the most accurate reproduction.*
 
-# State of Texas Web Site - Privacy Policy
+# State of Texas Web Site - Privacy Policy Notice
 
-**[[Home](http://www.state.tx.us/) | [Search](http://www.state.tx.us/Sitenav/search.html) ]**
+  
+[ [Home](http://www.state.tx.us/) | [Search](http://www.state.tx.us/Sitenav/search.html) ]
 
 **  
 [  
 Business ](http://www.state.tx.us/Business/)**  
 Licensing, Permits, Regulations, Procurement
 
+  
 ****  
 [**Communities  **](http://www.state.tx.us/Communities/)  
 Cities, Counties,  
-Special Districts
+Special Districts, Maps
 
+  
 ****  
-[**Criminal Justice & Law**](http://www.state.tx.us/Law/)   
+[**Criminal Justice  
+& Law**](http://www.state.tx.us/Law/)   
 Texas Dept of Criminal Justice, Laws, Courts
 
+  
 ****  
 **[Employment](http://www.state.tx.us/Employment/) **  
-Employment locators, Living in Texas, Laws
+Employment locators, Living in Texas, Labor Laws
 
+  
 ****  
 **[Government](http://www.state.tx.us/Government/) **  
-State Agencies, Senate, Elected Officials, Governor, Legislation
-
-****  
-**[Travel, Tourism  
-& Recreation](http://www.state.tx.us/Travel/) **  
+State Agencies, Senate, Elected Officials, Governor, Legislation ****  
+[**Travel, Tourism  
+& Recreation **](http://www.state.tx.us/Travel/)  
 Highway Conditions, Lodging, State Parks, Texas Tours, Outdoor Adventures
 
+  
 ****  
 [**Health & Human  
 Services **](http://www.state.tx.us/Health/)  
-Texas Department of Health, Birth Certificates
-
-****  
+Texas Department of Health, Birth Certificates ****  
 [**Texas Information**](http://www.state.tx.us/Texasinfo/)    
 History, Postcards, Screensavers, Events, Maps
 
+  
 ****  
 [**Technology  **](http://www.state.tx.us/Technology/)  
-Year 2000, Statewide Strategic Plan, Standards, GIS
+Statewide Strategic Plan, Standards, Geographic Information Services
 
+  
 ****  
 [**Education  **](http://www.state.tx.us/Education/)  
 Educational Resources, Universities, K-12's 
 
-|  |  | **
+|  |  |  **
 
 Privacy Policy Notice
 
@@ -66,8 +71,6 @@ The [State Technology Assessment Center (STAC)](http://www.stac.state.tx.us/) of
 
 We use Log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis:
 
-> ****
-> 
 > **User Client hostname** \- The hostname (or IP address if DNS is disabled) of the user/client requesting access.   
 >  **HTTP header, "user-agent"** \- The user-agent information includes the type of browser, its version, and the operating system it's running on.  
 >  **HTTP header, "referer"** \- The referer specifies the page from which the client accessed the current page.  
