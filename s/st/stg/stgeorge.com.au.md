@@ -1,12 +1,40 @@
-> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014172237id_/http%3A//www.stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622084617id_/http%3A//www.stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
 
-# St.George Bank - Protecting your Privacy
+# St.George Bank - Privacy & Security
 
-Protecting your Privacy    
+Privacy & Security    
 
- **Our privacy assurance to you**
+ **Privacy** : 
+
+  * Our privacy assurance to you
+  * This policy and other privacy statements
+  * What information does St.George hold?
+  * How St.George collects information from its website
+  * How St.George generally collects your information
+  * How may St.George use your personal information?
+  * What rights does St.George have to disclose personal information?
+  * How may the St.George Group use your personal information?
+  * How St.George protects the security of your information
+  * Changes to our Privacy Policy
+  * What are your rights?
+  * Information about our Products and Services
+  * Access to your information
+  * Correction of information
+
+
+
+**Security** : 
+
+  * [Your Security](https://web.archive.org/about/your_security/default.asp?orc=personal)
+  * [Internet Banking Security](https://web.archive.org/int_bank/security/default.asp?orc=personal)
+
+
+
+**Our privacy assurance to you**
 
 At St.George your privacy has always been important to us. We comply with the National Privacy Principles (new privacy laws which apply from 21 December 2001) as well as our existing obligations of confidentiality, the Code of Banking Practice and the credit provider provisions in the Privacy Act.
+
+* * *
 
 **This policy and other privacy statements**
 
@@ -17,6 +45,8 @@ When you apply for a new product or service, the application form includes notic
 When you apply for or use one of our products or services, you consent to us collecting, maintaining, using and disclosing personal information about you and provided by you or by another person in accordance with the privacy statement in the application form and this policy.
 
 This privacy policy does not apply to parties that may be linked or associated with our website. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.
+
+* * *
 
 **What information does St.George hold?**
 
@@ -39,6 +69,8 @@ Sometimes we act as an agent for others when collecting information about you, s
 
 During the course of our relationship with you, we may gather information about you relating to all products and services that we or other members of the St George Group or our preferred suppliers provide to you. This information is used to help us form views about how we can improve our relationship with you.
 
+* * *
+
 **How St.George collects information from its website**
 
 We collect and hold information about you when you: 
@@ -53,9 +85,13 @@ We also collect some statistical information about visitors, from our website (f
 
 Other than statistical information, we do not collect any information about you through our website unless you provide the information to us.
 
+* * *
+
 **How St.George generally collects your information**
 
 Generally, we only collect personal information about you from you, unless it is not reasonable or practical for us to do so or you consent. For example, you may authorise us to collect information from a third party, like your employer to confirm your income details, or we may engage an agent, such as a mortgage broker, to collect information on our behalf, or you may be named as a referee or beneficiary in another application for one of our products or services. We may also collect information about you from other members of the St George Group or from publicly available sources such as company registers or land title registries.
+
+* * *
 
 **How may St.George use your personal information?**
 
@@ -69,6 +105,8 @@ We use your personal information to:
 
 
 When we request your information we may give more specific details about the way we use your information.
+
+* * *
 
 **What rights does St.George have to disclose personal information?**
 
@@ -91,11 +129,15 @@ We will not disclose your health information or information about your medical h
 
 We may at other times give you more details about our disclosure practices in relation to specific products or services - for example on the forms we use to collect personal information about you.
 
+* * *
+
 **How may the St George Group use your personal information?**
 
 Your personal information may also be used by St.George or other members of the St George Group to help assess your total relationship and product holding within the St George Group, analyse products and services, evaluate the needs of our customers and develop new products.
 
 We may also provide access to your personal information to members of the St George Group to inform you of products and services offered by any member of the St George Group or preferred organisations which we think may be of interest or value to you. If you tell us or have previously told us that you do not wish to receive such information, then it will not be sent to you. Your health information or information about your medical history will not be disclosed to other members of the St George Group for this purpose.
+
+* * *
 
 **How St.George protects the security of your information**
 
@@ -109,17 +151,25 @@ Any visitor, for any purpose, to any part of our premises in which customer pers
 
 We use secure methods to destroy or de-identify any personal information as soon as the law permits, provided the information is no longer needed by us for any purpose. Ordinarily, for information about a particular account, we destroy the information seven years from the date you close the account.
 
+* * *
+
 **Changes to our Privacy Policy**
 
 We may amend this policy from time to time. Not all changes to our privacy policy will require your consent, for example where office security procedures are changed. We will notify you of any change to our information handling policy that requires your consent before being implemented. 
+
+* * *
 
 **What are your rights?**
 
 You need not give us any of the personal information about you or any other person which may be requested in our communications with you. However, without that information, we may not be able to process an application, fulfil your request or provide you with an appropriate level of service.
 
+* * *
+
 **Information about our Products and Services**
 
 If you do not want the benefit of receiving information, special offers or exclusive opportunities about products and services (which may be supplied by us or any member of the St George Group or preferred suppliers) which we think may be of interest or value to you, then please tell us. You can do this at any time by writing to us or telephoning us at the contact details listed on our [contact us](https://web.archive.org/contact_us/default.asp?orc=home) page or, if you are an Internet banking customer, contacting us by email when you are using that service.
+
+* * *
 
 **Access to your information**
 
@@ -128,6 +178,8 @@ You can request access at any time to personal information we hold about you. We
 There is no fee for requesting access to your information, however we may charge you the reasonable cost of processing your request.
 
 Sometimes we are not required to provide you with access - for example, if the law says we can deny access. If we refuse you access to your personal information, we will tell you the reason why. If we are not required to provide you with access to the information requested, we will consider, if reasonable, whether the use of a mutually agreed intermediary would allow sufficient access to meet your needs and ours.
+
+* * *
 
 **Correction of information**
 
@@ -139,7 +191,7 @@ If we disagree as to the accuracy of the information, you may request that we at
 
 If there is anything you would like to discuss, please contact us
 
-In this policy, reference to "we/us" means each member of the St George Group. Members of the St.George Group include companies that are related or owned by St.George Bank Limited, for example Advance Asset Management Limited and St.George Life Limited. Members of the St.George Group may change from time to time. If you have any questions, concerns or complaints about our privacy policy or practices or would like more information about particular members’ privacy policies or practices, please contact us on **13 33 30** , from 8am - 9pm (EST), 7 days a week.
+In this policy, reference to "we/us" means each member of the St George Group. Members of the St.George Group include companies that are related or owned by St.George Bank Limited, for example Advance Asset Management Limited and St.George Life Limited. Members of the St.George Group may change from time to time. If you have any questions, concerns or complaints about our privacy policy or practices or would like more information about particular members’ privacy policies or practices, please contact us on **13 33 30** , 8am - 9pm (EST), 7 days a week.
 
 **St.George Bank Limited**  
 ABN 92 055 513 070  
@@ -150,3 +202,5 @@ Locked Bag 1 Kogarah NSW 1485
 
 
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner or the Australian Banking Industry Ombudsman. We will provide you with their contact details if required.
+
+* * *
