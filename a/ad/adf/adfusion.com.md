@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfusion.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018012114id_/http%3A//adfusion.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfusion.com privacy policy that was archived on 2001-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011117120941id_/http%3A//www.adfusion.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Adfusion Privacy Policy
 
