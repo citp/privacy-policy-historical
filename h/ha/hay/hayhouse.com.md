@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hayhouse.com privacy policy that was archived on 2002-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020810170812id_/http%3A//www.hayhouse.com/contact/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hayhouse.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620105511id_/http%3A//www.hayhouse.com/contact/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
