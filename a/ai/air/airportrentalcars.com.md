@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airportrentalcars.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605001308id_/http%3A//airportrentalcars.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportrentalcars.com privacy policy that was archived on 2003-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030828160748id_/http%3A//www.airportrentalcars.com/privacy.htm) for the most accurate reproduction.*
 
 # Guide To Airport Rental Cars Privacy Statement
 
