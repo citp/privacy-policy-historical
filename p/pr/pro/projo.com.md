@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410001732id_/http%3A//projo.com/cgi-bin/include.pl/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217231811id_/http%3A//www.projo.com/cgi-bin/include.pl/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # projo.com/aboutus
 
@@ -40,5 +40,5 @@ Belo Interactive cares about the safety of children and their use of the Interne
 
 This Privacy Policy is effective as of April 11, 2000. Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
 
-[Copyright](https://web.archive.org/cgi-bin/include.pl/aboutus/copy.htm) © 2001 The Providence Journal Company  
-[Privacy policy](https://web.archive.org/cgi-bin/include.pl/aboutus/privacy.htm)
+Copyright, Belo Interactive, Inc.  
+[Help Center](https://web.archive.org/registration/faqs.html) • [Privacy policy](https://web.archive.org/registration/privacy.html) • [Terms of service](https://web.archive.org/registration/termsofservice.html) • [Make this your home page]()
