@@ -1,59 +1,39 @@
-> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209162211id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610042743id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
 
-# AFA Privacy statement
+# AFA - American Family Association - Privacy Statement
 
-| 
-
-  
-
-
-[](http://www.afafilter.com/cust.htm?13850)
-
-[](http://www.myownweboffice.com/login.cfm?SignupSiteID=88&Level=0&SubSS=)
-
-|  | 
+|  |  | 
 
 ## Privacy Statement
 
-American Family Association has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.afa.net. 
+American Family Association (AFA) strives to offer its visitors the many advantages of Internet technology and provide a positive interactive experience. We may use Personally Identifiable Information (your name, e-mail address, street address) subject to the terms of this Privacy Policy. **PLEASE NOTE: We do not sell, lease, rent, or give-away information, including your e-mail address, we collect from you.**
 
-Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We use cookies to deliver content specific to your interests.
+**By accessing or using AFA-related sites, you agree to the terms of the Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use the site. AFA reserves the right to change the Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the current version of the Privacy Policy at the time of such use.**
 
-This site contains links to other sites. **AFA** is not responsible for the privacy practices or the content of such Web sites.
+**How we gather information from users**  
+How we collect and store information depends on the site you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of one of our sites or request certain features, such as newsletters, news updates, or when you purchase one of our products. You may provide information when you participate in voting and polling activities, online activism or advocacy efforts, and other interactive areas of our site.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information and financial information. Contact information from the order form is used to send information about our company to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+Like most web sites, AFA-related sites also collect information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and e-mail address, sparing you from having to re-enter that information each time you visit.
 
-Our online surveys ask visitors for contact information and demographic information. We use contact data from our surveys to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+**What we do with the information we collect**  
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive).
 
-### Public Forums
+**AFA recognizes and appreciates the importance of responsible use of information collected on this site. For this reason, AFA reserves the option of contacting you from time to time about important issues in which the American Family Association is involved. In each communication you receive from us, you are given the opportunity to opt-out by using an unsubscribe function provided at the end of each message.**
 
-This site makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+**Children**  
+AFA does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe AFA has any information from or about anyone under 13, please contact us at the address listed below.
 
-### Security
+**Contacting us**  
+We can be reached by contacting: 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+American Family Association  
+107 Parkgate Dr.  
+Tupelo, MS 38803  
+E-mail: [afa@afa.net](mailto:afa@afa.net)
 
-### Choice/Opt-Out
+Copyright © 2002-2003, [American Family Association](http://www.afa.net/)
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can send email to [webmaster@afa.net](mailto:webmaster@afa.net)
-
-
-
-### Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. email [webmaster@afa.net](mailto:webmaster@afa.net)
-
-
-
-### Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Web Development Dept. American Family Association P.O. Box 2440 Tupelo MS 38803 [webmaster@afa.net](mailto:webmaster@afa.net)   
+  
 |   |    
   
 ---|---|---|---|---
