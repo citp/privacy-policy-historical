@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205205400id_/http%3A//www.win2000mag.net/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404234518id_/http%3A//www.win2000mag.net/about/privacy.cfm) for the most accurate reproduction.*
 
 # Windows 2000 Magazine Network - Privacy
 
