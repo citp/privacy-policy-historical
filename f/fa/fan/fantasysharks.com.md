@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the fantasysharks.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207194924id_/http%3A//www.fantasysharks.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasysharks.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207193708id_/http%3A//www.fantasysharks.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # FantasySharks.com Privacy Policy
 
 |   
 ---  
-[Message Boards](http://www.fantasysharks.com/forum/)  
-[What's This?](https://web.archive.org/web/20021207194924id_/http%3A//www.fantasysharks.com/Signin.htm)  
-   
-[Team Links](https://web.archive.org/web/20021207194924id_/http%3A//www.fantasysharks.com/teamlinks.htm)  
-[Depth Charts](https://web.archive.org/web/20021207194924id_/http%3A//www.fantasysharks.com/NFLCompiledData/depthcharts.php)  
+[Message Boards](https://web.archive.org/forum/)  
+[What's This?](https://web.archive.org/Signin.htm)  
+[Team Links](https://web.archive.org/teamlinks.htm)  
+[Depth Charts](https://web.archive.org/apps/depthcharts.php)  
 [Injury Report](http://www.nfl.com/injuries)  
-[Schedule Grid](https://web.archive.org/web/20021207194924id_/http%3A//www.fantasysharks.com/NFLCompiledData/SchedTeamGrid.htm)  
-[Weekly Schedules](https://web.archive.org/web/20021207194924id_/http%3A//www.fantasysharks.com/NFLCompiledData/SchedWeek.htm)  
-[Team Schedules](https://web.archive.org/web/20021207194924id_/http%3A//www.fantasysharks.com/NFLCompiledData/SchedTeams.htm)  
-   
+[Schedule Grid](https://web.archive.org/NFLCompiledData/SchedTeamGrid.htm)  
+[Weekly Schedules](https://web.archive.org/NFLCompiledData/SchedWeek.htm)  
+[Team Schedules](https://web.archive.org/NFLCompiledData/SchedTeams.htm)  
 [CBS Sportsline](http://cbs.sportsline.com/u/football/nfl/index.html)  
 [CNN/SI](http://sportsillustrated.cnn.com/football/)  
 [ESPN](http://football.espn.go.com/nfl/index)  
@@ -25,10 +23,8 @@
   
 * * *  
   
-[Fantasy Links](https://web.archive.org/web/20021207194924id_/http%3A//www.fantasysharks.com/fantasylinks.htm)  
-   
+[Fantasy Links](https://web.archive.org/fantasylinks.htm)  
 [Email](mailto:contact@fantasysharks.com)  
-   
 |  **FantasySharks.com Privacy Policy**  
 **Last revised: July 27, 2002**
 
