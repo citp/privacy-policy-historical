@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2000-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000901031002id_/http%3A//www.scpr.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607220312id_/http%3A//www.scpr.org/privacy.html) for the most accurate reproduction.*
 
 # KPCC - Privacy Statement
 
@@ -77,6 +77,6 @@ If you have any questions about this privacy policy or any practices on the KPCC
 KPCC reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. 
 
 **Consent**  
-Your use of the KPCC Web site constitutes consent to any policy then in effect. 
+Your use of the KPCC Web site constitutes consent to any policy then in effect.
 
  
