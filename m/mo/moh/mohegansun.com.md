@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810221441id_/http%3A//www.mohegansun.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607203401id_/http%3A//www.mohegansun.com/privacy.jsp) for the most accurate reproduction.*
 
-# a legendary gaming experience
+# Mohegan Sun Casino - A Legendary Gaming Experience
 
 **Mohegan Sun Privacy Policy**
 
@@ -12,7 +12,7 @@ The information collected online is used for email broadcasts utilizing tailored
 
 **Information Collected at Mohegan Sun**
 
-In addition to the information collected online, patrons may sign up to become a Player’s Club member upon visiting Mohegan Sun. All personal information collected at any Player’s Club booth including name, address, phone number and email address is placed in a database that is not shared or sold with any third party. To learn more about the Players Club click here: [http://www.mohegansun.com/players_club/index.jsp](https://web.archive.org/web/20030810221441id_/http%3A//players_club/index.jsp).
+In addition to the information collected online, patrons may sign up to become a Player’s Club member upon visiting Mohegan Sun. All personal information collected at any Player’s Club booth including name, address, phone number and email address is placed in a database that is not shared or sold with any third party. To learn more about the Players Club click here: [http://www.mohegansun.com/players_club/index.jsp](https://web.archive.org/web/20040607203401id_/http%3A//players_club/index.jsp).
 
 **Management of User Information**
 
