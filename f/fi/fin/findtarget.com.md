@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findtarget.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207151345id_/http%3A//www.findtarget.com/privacyft.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtarget.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603112011id_/http%3A//findtarget.com/privacyft.html) for the most accurate reproduction.*
 
-# Findtarget.com - Privacy Policy
+# Findtarget.com - Internet Meta Search Engine
 
   
 **overview  
@@ -13,8 +13,9 @@ Findtarget.com does not utilize cookies to track individual user search behavior
 
 information sharing and disclosure
 
-** Findtarget.com does not share or disclose any personal information that has been obtained during the delivery of its Internet search services to unrelated search parties. As a meta search engine Findtarget.com generates search results from a variety of search providers, in some cases Findtarget.com may deliver a valid IP address and keyword search term to these related third parties in order for them to deliver a valid search result **** that will then be displayed by Findtarget.com in its search results set. **** In all cases the purpose of this information sharing with related third parties is undertaken in order to deliver a better quality search result, to reduce and eliminate the likelihood of fraud and erroneous searches and for accounting purposes.   
+** Findtarget.com does not share or disclose any personal information that has been obtained during the delivery of its Internet search services to unrelated search parties. As a meta search engine Findtarget.com generates search results from a variety of search providers, in some cases Findtarget.com may deliver a valid IP address and keyword search term to these related third parties in order for them to deliver a valid search result that will then be displayed by Findtarget.com in its search results set. In all cases the purpose of this information sharing with related third parties is undertaken in order to deliver a better quality search result, to reduce and eliminate the likelihood of fraud and erroneous searches and for accounting purposes.   
 **  
-** If you have additional questions regarding our privacy policy that have not been answered in this statement please don't hesitate to [contact us](mailto:support@findtarget.com).
+** If you have additional questions regarding our privacy policy please [contact us](mailto:support@findtarget.com).
 
+  
 .
