@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202175423id_/http%3A//help.nochex.com/homepage.asp%3FAction%3DQ%26ID%3D108) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606043330id_/http%3A//help.nochex.com/homepage.asp%3FAction%3DQ%26ID%3D108) for the most accurate reproduction.*
 
 # NOCHEX Email Money | Homepage
 
-****| **Data Protection** – Any information you provide us with will only be disclosed in accordance with the Data Protection Act of 1988.
+****| **Data Protection** – Any information you provide us with will only be disclosed in accordance with the Data Protection Act of 1998.
 
  **Required Information** – To open a Nochex Standard account you must tell us certain personal information such as your name, email address, date of birth and postal address. For security, you must also submit a password and answer security questions. If you wish to open a Nochex Seller Account, additional information will be required including for example nature of your business, web address, and business address. For certain transactions you need to provide financial information such as your debit card details. We only collect the information that is required by regulation and law for us to process your transactions securely and protect you against fraud.
 
