@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universitytickets.com privacy policy that was archived on 2003-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031215131629id_/http%3A//www.universitytickets.com/user_pages/privacy.utix) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universitytickets.com privacy policy that was archived on 2004-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040501221044id_/http%3A//universitytickets.com/user_pages/privacy.utix) for the most accurate reproduction.*
 
 # UniversityTickets: Privacy Statement
 
@@ -14,4 +14,4 @@ Our online surveys ask visitors for contact information (like their email addres
 
 We run contests on our site in which we ask visitors for contact information (like their email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (like social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-[Continue](https://web.archive.org/web/20031215131629id_/http%3A//www.universitytickets.com/user_pages/privacy2.utix)
+[Continue](https://web.archive.org/web/20040501221044id_/http%3A//universitytickets.com/user_pages/privacy2.utix)
