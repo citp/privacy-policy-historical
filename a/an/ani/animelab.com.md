@@ -1,15 +1,23 @@
-> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2000-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000831052804id_/http%3A//www.animelab.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604184605id_/http%3A//www.animelab.com/pri.html) for the most accurate reproduction.*
 
-# Animeland.net - The epicenter of everything anime
+# Animelab.com: Privacy Policy
 
-The Animeland Network(ALN), it's advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+Animelab.com, it's advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
 
-**Consumer Information**
+**Consumer Information**  
+During the process of visiting our web sites, Animelab.com may collect personally identifiable information about you such as name or e-mail address. However this is only required if you are attempting to use one of our webmaster services, and is not given to any third partys.  
+Member sites may ask for your information for use on an Internet Bulleten Board. These services are opt-in, and your information is not sold to any third partys.
 
-During the process of visiting our web sites, ALN does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, ALN does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by ALN is used for the purpose of targeting advertising.
+**Data Collection**  
+Animelab.com, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. Animelab.com cannot use these cookies to personally identify you in any way. 
 
-In some cases, you may voluntarily provide personal information in response to a specific advert (this ad may ask you to fill out a survey or provide year zip code). If this does occur, ALN may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, ALN may combine this information with other users information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website.
+**What are cookies and why do we use them?**  
+A cookie is a piece of data that is provided to you the first time you visit a website. This unique data may later be recovered from your computer. This cookie can help Animelab.com ensure that members cannot cheat our services. 
 
-**Data Collection**
+**Third Party Advertising**  
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here <http://www.doubleclick.net/us/corporate/privacy>
 
-ALN, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. ALN cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a piece of data that is provided to you the first time you visit a website. This unique data may later be recovered from your computer. This cookie can help ALN ensure that we don't serve you the same ad multiple times, and help our advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. We believe that cookies enhance your Internet experience.
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+[ ](http://www.clickxchange.com/sr.phtml?act=48829.3863)
