@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202044232id_/http%3A//www.animewallpapers.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208170019id_/http%3A//www.animewallpapers.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy (Anime Wallpapers.com)
 
@@ -22,7 +22,7 @@ We use BUDS INC, MaxWorldWide and other third-party advertising companies to ser
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-[](http://www.animespider.com/) | [](http://www.animic.com/desktop/) | [](http://www.animelyrics.com/) | [](http://www.eva2000.com/) | [](http://www.anime-genesis.com/) | [](http://www.animeinn.com/) | [](http://www.cganime.com/) | [](http://coolwallpaper.com/cgi-bin/link/in.cgi?id=anime)  
+[](http://www.animespider.com/) | [](http://www.animic.com/desktop/) | [](http://www.animelyrics.com/) | [](http://www.eva2000.com/) | [](http://www.animegalleries.net/) | [](http://www.cganime.com/) | [](http://coolwallpaper.com/cgi-bin/link/in.cgi?id=anime) | [](http://www.neoservers.com/hosting/shared.php?code=awp-0005disc)  
 ---|---|---|---|---|---|---|---  
   
 * * *
