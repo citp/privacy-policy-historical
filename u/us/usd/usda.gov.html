@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usda.gov privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603181723id_/http%3A//www.usda.gov/footers/PrivIndex.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usda.gov privacy policy that was archived on 2004-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040813033235id_/http%3A//www.usda.gov/footers/PrivIndex.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<title>Privacy Policy</title>
@@ -362,6 +362,7 @@ function mw_crumbs_notitle(divider,default_page,root){
 	var inThere13 = h.match(/TravelAndRecreation/gi);
 	var inThere14 = h.match(/USDAEmployeeServices/gi);
 	var inThere19 = h.match(/EarthDay/gi);
+	var inThere21 = h.match(/unavailablepage/gi);
 	
 	if (inThere1) {
 		rExp = /AboutUSDA/gi;
@@ -408,6 +409,9 @@ function mw_crumbs_notitle(divider,default_page,root){
 	} else if (inThere19) {
 		rExp = /EarthDay/gi;
 		newString = new String ("Earth&nbsp;Day&nbsp;2004")
+	} else if (inThere21) {
+		rExp = /unavailablepage/gi;
+		newString = new String ("Unavailable&nbsp;Page")
 	} else {
 		rExp = / /gi;
 		newString = new String (" ")
@@ -416,10 +420,14 @@ function mw_crumbs_notitle(divider,default_page,root){
 	results = h.replace(rExp, newString)
 	
 	var inThere15 = results.match(/AB/g);
+	var inThere20 = results.match(/AskUSDA/gi);
 	
 	if (inThere15) {
 		rExp = /AB/g;
 		newString1 = new String ("Administration&nbsp;Biographies")		
+	} else if (inThere20) {
+		rExp = /AskUSDA/gi;
+		newString1 = new String ("Ask&nbsp;USDA")
 	} else { 
 		return results
 	}
@@ -449,7 +457,7 @@ function mw_crumbs_notitle(divider,default_page,root){
 
 }
 
-</script> 
+</script>
 		<script language="javascript" type="text/javascript">
 		<!--
 			// Navigator 6 and up
@@ -781,8 +789,8 @@ function mw_crumbs_notitle(divider,default_page,root){
 <tr>
 	<td colspan="8" class="BodyTextBlack">If you have any comments or questions about the information presented 
       here please forward them to <a href="mailto:lesia.banks@usda.gov">Lesia.Banks@usda.gov</a>
-     <br><br>Additional information on childrens online privacy protection can be found at the following site:<br><a href="http://cio.gov/Documents/COPPA%5FAct%5F1998%2Ehtml">Children's 
-      Online Privacy Protection Act of 1998</a><p></p>  
+     <br><br>Additional information on childrens online privacy protection can be found at the following site:<br><a href="http://www.ftc.gov/os/1999/10/64fr59888.pdf">Children's 
+      Online Privacy Protection Act of 1998</a> (PDF)<p></p>  
 	</td>
 </tr>
 	
