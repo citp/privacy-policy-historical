@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.co.uk privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016115013id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3DukHomepage%2BFooter_Privacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.co.uk privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605112733id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3DukHomepage%2BFooter_Privacy%26) for the most accurate reproduction.*
 
 # Intel Corporation - Intel Privacy Policy
 
@@ -152,7 +152,7 @@ Intel wants to further demonstrate our commitment to your privacy. To do this, w
 | 
 
   
-All updates to this policy will be posted here. Last update: ~~March 01, 2002~~ July 24, 2002
+All updates to this policy will be posted here. Last update: July 24, 2002
 
   
   
@@ -184,8 +184,8 @@ Check out the privacy policy frequently asked questions (FAQs) listed below. Sho
 
   
 **Q: The policy was last updated on July 24, 2002. What changed?**  
-**A:** ~~Based on customer feedback, we made changes to improve the usability and completeness of this policy. For example, we added this FAQs section, added details on our data retention policy, and gave more information on how to get help from Customer Support.~~ No privacy protections were removed.   
-As part of our ongoing effort to improve the usability and completeness of this policy, additional details have been added to the _Security_ and _Cookies_ sections. For material changes to this policy, Intel will provide a prominent notice on our Web site prior to implementing the change. Should a change involve a material new use of information, Intel will also provide those affected with a prior and meaningful opportunity to opt-out or otherwise prevent that new use. New text appears in this color text. Deleted text appears as ~~strike out~~ characters.
+**A:** No privacy protections were removed.   
+As part of our ongoing effort to improve the usability and completeness of this policy, additional details have been added to the _Security_ and _Cookies_ sections. For material changes to this policy, Intel will provide a prominent notice on our Web site prior to implementing the change. Should a change involve a material new use of information, Intel will also provide those affected with a prior and meaningful opportunity to opt-out or otherwise prevent that new use. 
 
 **Q: What should I do if I have a privacy question after reading the policy and FAQs?**  
 **A:** Like always, you can send your privacy questions and comments to us by using [this form](http://www.intel.com/intel/writeusp.htm). We will use these items as input to future FAQs. Please do not send technical support questions to the privacy feedback form. Refer to [support.intel.com](http://support.intel.com/) for help with your non-privacy-related questions. 
