@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602231638id_/http%3A//www.cardomain.com/service/privacy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2004-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041119095224id_/http%3A//www.cardomain.com/service/privacy.pl) for the most accurate reproduction.*
 
-# SoundDomain.com - Shopping
+# CarDomain Network's Privacy Policy
 
 CarDomain Network takes your privacy seriously. Please read the following to learn more about our Privacy Policy.   
    
@@ -57,7 +57,7 @@ If you wish to subscribe to one of our newsletters, the CarDomain Network asks f
 From time-to-time the CarDomain Network requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include, but not limited to, contact information (such as name, email) demographic information (such as age, zip code).   
    
   **Tell-A-Friend**  
-At various times, the CarDomain Network may decide to promote a referral service for informing a friend about the CarDomain Network suite of sites. We will ask for a friend's name and email address. The CarDomain Network will automatically send them one (1) one-time email inviting them to visit the site. The CarDomain Network stores this information for the sole purpose of sending this one-time email. The friend may contact CarDomain Network at [service@cardomain.com](mailto:service@cardomain.com) to request removal of their information from the CarDomain Network database.   
+At various times, the CarDomain Network may decide to promote a referral service for informing a friend about the CarDomain Network suite of sites. We will ask for a friend's name and email address. The CarDomain Network will automatically send them one (1) one-time email inviting them to visit the site. The CarDomain Network stores this information for the sole purpose of sending this one-time email. The friend may contact CarDomain Network at [support@cardomain.com](mailto:support@cardomain.com) to request removal of their information from the CarDomain Network database.   
    
   **Your Ability to Edit and Delete Your Account Information and Preferences**  
 CarDomain Network gives you the ability to edit your CarDomain Network Account Information and preferences at any time, including whether you want CarDomain Network to contact you about specials and new products.   
