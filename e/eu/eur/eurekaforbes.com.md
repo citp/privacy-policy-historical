@@ -1,0 +1,10 @@
+> *The following text is extracted and transformed from the eurekaforbes.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207185603id_/http%3A//www.eurekaforbes.com/efl2003/bottom/privacy.php) for the most accurate reproduction.*
+
+# Eureka Forbes Limited :: Privacy Policy
+
+  
+
+
+Eureka Forbes Limited is and attempts to be to sensitive to your privacy on the Internet. Whenever possible, Eureka Forbes Limited will attempt to treat the information about you we receive on the Internet with care deemed reasonable under the circumstances. Eureka Forbes Limited uses information provided you (if any) to measure the use of our site and to improve the content of our site. The personal information we may collect is used only by us to respond to your inquiry, process an order or allow you to access specific account information. Occasionally, we may make the e-mail addresses, of those who provide information, available to other Eureka Forbes Limited companies which have equal or better privacy policy than we do.. At times cookies may be used to provide you with certain information. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie. 
+
+Note also that Eureka Forbes Limited Website contain links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites. 
