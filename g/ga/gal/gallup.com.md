@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401182224id_/http%3A//gallup.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210044048id_/http%3A//gallup.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-  | [](https://web.archive.org/web/20040420084617id_/http://www.gallup.com/content/print.aspx?ci=922)|       | [](https://web.archive.org/web/20040420084617id_/http://www.gallup.com/content/email.aspx?ci=922)|     
+  | [](https://web.archive.org/web/20041205173428id_/http://www.gallup.com/content/print.aspx?ci=922)|       | [](https://web.archive.org/web/20041205173428id_/http://www.gallup.com/content/email.aspx?ci=922)|     
 ---|---|---|---|---  
   
 **_Privacy Statement_**
@@ -62,5 +62,5 @@ This Privacy Policy is Gallup's promise to its Web site users. Additional inform
 If you have any additional questions or comments regarding Gallup's Privacy Policy, please e-mail us at [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com). 
 
   
-  | [](https://web.archive.org/web/20040420084617id_/http://www.gallup.com/content/print.aspx?ci=922)|       | [](https://web.archive.org/web/20040420084617id_/http://www.gallup.com/content/email.aspx?ci=922)|     
+  | [](https://web.archive.org/web/20041205173428id_/http://www.gallup.com/content/print.aspx?ci=922)|       | [](https://web.archive.org/web/20041205173428id_/http://www.gallup.com/content/email.aspx?ci=922)|     
 ---|---|---|---|---
