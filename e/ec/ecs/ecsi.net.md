@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605062056id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017022613id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
 
 # General Privacy Statement
 
