@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405160608id_/http%3A//browncafe.net/statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214162248id_/http%3A//browncafe.net/statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
-
-Brown Cafe: Internet Resources for the UPS community, not sponsored by United Parcel Service
 
 ## Privacy Statement for Brown Cafe
 
@@ -97,4 +95,6 @@ If you have any questions about this privacy statement, the practices of this si
   
 The Fine Print
 
-The information herein is obtained from sources that are considered reliable, but accuracy is not guaranteed. By providing links to other sites, BrownCafe does not guarantee, approve or endorse the information or products available at these sites, nor does a link indicate any association with or endorsement by the linked site to BrownCafe. Selected content on the BrownCafe is freely available. We do not claim this information as our own. If, for any reason, we provide information that is copyrighted, please let us know so that we can delete the content from our site.
+The information herein is obtained from sources that are considered reliable, but accuracy is not guaranteed. By providing links to other sites, BrownCafe does not guarantee, approve or endorse the information or products available at these sites, nor does a link indicate any association with or endorsement by the linked site to BrownCafe. Selected content on the BrownCafe is freely available. We do not claim this information as our own. If, for any reason, we provide information that is copyrighted, please let us know so that we can delete the content from our site.  
+  
+design and copyright: BrownCafe
