@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advanta.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604050029id_/http%3A//adv2.advanta.com/index.cfm%3Ffuseaction%3Dprivacy%26session_id%3D%26session_key%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanta.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210044030id_/http%3A//adv2.advanta.com/index.cfm%3Ffuseaction%3Dprivacy%26session_id%3D%26session_key%3D) for the most accurate reproduction.*
 
 # Advanta - Small Business Credit Cards and Services
 
@@ -8,6 +8,6 @@ At Advanta, we recognize that our small business customers are concerned about p
 
 We make a concerted effort to restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you, and to maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information. 
 
-Accessing our Web site may result in the placement of "cookies", a commonly used method to identify recurring visitors. This is done to make your repeated experience more convenient. If you have any concerns about cookies, you can modify the setting of your Internet browser to prevent their use. Also, when using our site please be aware of the "Site Disclaimer" page, as your access to the Web site is subject to the terms described there. 
+Accessing our Web site may result in the placement of a "cookie" on your computer. This is done to make your repeated experience more convenient and to help us identify recurring visitors. If you have any concerns about cookies, you can modify the setting of your Internet browser to prevent their use. Also, when using our site please be aware of the "Site Disclaimer" page, as your access to the Web site is subject to the terms described there. 
 
 Our Web site contains links to other sites that you may find useful. Please be aware that Advanta is not responsible for the privacy practices relating to information collected by others' sites. 
