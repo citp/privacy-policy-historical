@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602163232id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206002745id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
 
 # OrderMotion - Transaction Smartware | A Singular Solution for Multi-Channel Commerce
 
-[Home](https://web.archive.org/web/20030602163232id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20030602163232id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)
-
-Privacy Statement
+  
+[Home](https://web.archive.org/web/20031206002745id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20031206002745id_/http%3A//www.ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)Privacy Statement
 
 The web site you have entered, [www.OrderMotion.com](http://www.ordermotion.com/), is operated by or on behalf of Transaction Smartware, Inc. 
 
