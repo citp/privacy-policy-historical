@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606052140id_/http%3A//ryanseacrest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208233249id_/http%3A//ryanseacrest.com/privacy.html) for the most accurate reproduction.*
 
 # RYAN SEACREST - OFFICIAL SITE
 
-**[**HOME**](https://web.archive.org/home.html)
-
-RYAN SEACREST PRODUCTIONS, INC. ONLINE PRIVACY POLICY
-
-**
+**RYAN SEACREST PRODUCTIONS, INC. ONLINE PRIVACY POLICY**
 
 Welcome to THE OFFICIAL RYAN SEACREST WEBSITE, operated by RYAN SEACREST PRODUCTIONS, INC. (“RSP”). Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We want you to fully understand our privacy practices, therefore please read this Privacy Policy carefully to learn more about the ways in which we use and protect your personal information. 
 
 **  
-A Special Note to Children**
+About Children's Privacy**
 
-Some of our online activities are directed to children (persons under the age of 18), for whom we provide additional privacy protections. If you are under the age of 18, please click here to access our Children’s Privacy Policy. 
+This is the place in cyberspace where fans of Ryan Seacrest can come to find out more about Ryan. In compliance with the Children’s Online Privacy Protection Act (COPPA), we do not knowingly collect from children under age 13 personally identifiable information (information that would allow anyone to locate children under age 13 online or offline, such as full name, email address, home address, telephone number, etc.). Therefore, children under age 13 may not provide any personally identifiable information on this site. However, they can still enjoy our site by viewing the photo galleries, reading about Ryan and other performers, listening to music and participating in other activities that do not require the disclosure of personally identifiable information.
 
 **  
 1\. Collection of Personal Identifiable Information (“PII”)**
