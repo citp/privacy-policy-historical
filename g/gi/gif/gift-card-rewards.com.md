@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gift-card-rewards.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206212112id_/http%3A//www.flowerrewards.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gift-card-rewards.com privacy policy that was archived on 2005-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050313180441id_/http%3A//www.flowerrewards.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
