@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626171417id_/http%3A//boardreader.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2003-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031224222923id_/http%3A//www.boardreader.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,15 +6,9 @@
 
 | 
 
-[ ](https://www.truste.org/validate/11718)
-
 Privacy Policy
 
-Effyis, Inc. (BoardReader.com) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.boardreader.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If users have questions or concerns regarding this statement, they should first contact our legal department at [legal@boardreader.com](mailto:legal@boardreader.com). If they do not receive acknowledgement of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process.](http://www.truste.org/users/users_watchdog.php) TRUSTe will serve as a liaison with the Web site to resolve users concerns.
-
-This Privacy Policy (the "Privacy Policy") is intended to serve as a guideline to describe the ways in which BoardReader.com utlizes information about you, the user. BoardReader.com's User Agreement governs the use of this site. BoardReader.com respects and protects the privacy of the individuals that use BoardReader.com's search services (the "Search Services").
+This Privacy Policy (the "Privacy Policy") is intended to serve as a guideline to describe the ways in which BoardReader.com utlizes information about you, the user. BoardReader.com's User Agreement governs the use of this site. BoardReader.com respects and protects the privacy of the individuals that use BoardReader.com's search services (the "Search Services"). 
 
 **Cookies**    
 BoardReader.com utilizes "cookies" to identify individual users. Cookies help us to tailor our services and improve the quality of those services by tracking and storing user preferences, trends and patterns. BoardReader.com will not disclose or sell cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute or court order. You may customize your browser to refuse all cookies or to indicate when a cookie is being sent but doing so may impair the performance of certain functions of the Search Services.  
@@ -40,8 +34,8 @@ By using BoardReader.com and the Search Services, you consent to the collection 
 If you have questions regarding our Privacy Policy, please email them to [legal@boardreader.com](mailto:legal@boardreader.com) or contact us by mail or telephone:
 
 **BoardReader.com  
-P.O. Box 130503  
-Ann Arbor, MI 48113-0503   
+884 Railroad Street  
+Ypsilanti, Michigan 48197   
 (734) 480-0116**
 
 |   
