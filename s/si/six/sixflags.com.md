@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sixflags.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015157id_/http%3A//www.sixflags.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixflags.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605212837id_/http%3A//www.sixflags.com/privacy.asp) for the most accurate reproduction.*
 
 # Six Flags - Privacy Policy
 
-**PRIVACY POLICY** Six Flags Theme Parks is committed to respecting your privacy. We recognize your need for control of personally identifiable information that you share with us. Personally identifiable information is any information that is associated with your name. This policy was created with our consumers' interests in mind. 
+|  **PRIVACY POLICY** Six Flags Theme Parks is committed to respecting your privacy. We recognize your need for control of personally identifiable information that you share with us. Personally identifiable information is any information that is associated with your name. This policy was created with our consumers' interests in mind. 
 
 **Collecting**  
 This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. This site may collect personally identifiable information through site registrations, coupon or sample requests, online surveys, or other means.
@@ -22,24 +22,16 @@ Our website may contain links to other websites outside of our control. While we
 **Choice/Opt-out**  
 Our site provides you with the opportunity to opt-out of receiving communications from our site or our partners at the point where we request information about you.
 
-**Updating Personal Information**  
-If you would like to modify/update your password, personal information or preferences, we provide a way to do so on our site for your convenience.
-
 **Cookies**  
 Our site uses "Cookies" to simplify site navigation, deliver relevant information and provide a customized user experience. Cookies are lines of text that are sometimes transmitted between your web browser and a server when you click on a link. Cookies provide a way for a server to recall a previous request from a particular web browser. Cookies cannot obtain any information that you do not knowingly volunteer. Many web browsers may be configured to notify you when you are about to receive a Cookie and give you the option of refusing the Cookie. If you refuse Cookies from this site, certain sections of the site may not function properly.
 
 **Mail-to Links**  
-This site may contain mail-to links for submitting information to Six Flags. Information sent to us such as resumes and requests to be contacted are treated as confidential and are not shared with any third parties.
-
-**How and when can I update my account preferences?**  
-Your account profile is available to you 24 hours a day, 7 days a week and you can update your preferences any time you wish. Your changes will be made effective immediately. Please keep your preferences updated in your account profile to take full advantage of our products and services on your terms.
-
-**Changes to this Privacy Policy:**  
-Six Flags reserves the right to change this Privacy Policy at any time, but we will not do so without posting the modified Privacy Policy on our website. We encourage you to review our Privacy and Security Policies whenever you visit our website so you'll always understand how your information will be used.
+This site may contain mail-to links for submitting information to   
+Six Flags. Information sent to us such as resumes and requests to be contacted are treated as confidential and are not shared with any third parties.
 
 **SECURITY POLICY**
 
-At Six Flags Theme Parks, we are committed to safeguarding our customers' privacy. Our pledge is that we will never release your personal information to any third party without your consent and will never release any of the personal data you store on our website to anyone but you. Simply stated:
+At Six Flags Theme Parks, we are committed to safeguarding our customers' privacy. Our pledge is that we will never release your personal information to any third party without your consent. Simply stated:
 
 "We won't sell your name, we won't rent your name, and we won't give your name away without your permission."
 
@@ -59,12 +51,13 @@ To ensure the security of your information, our site uses "Secured Socket Layer 
 **How do I know that my information is being transmitted via a secured connection (SSL)?**  
 In Netscape Navigator 3.0 and earlier, the key icon in the lower left corner of the browser, which is normally broken, is made whole. In Netscape Navigator 4.0 and later and in Microsoft Internet Explorer, the normally open padlock icon becomes shut.
 
-**What information do we collect? How will we use it?**  
+**What information do we collect?  
+How will we use it?**  
 In order to sign up for certain services on our website, you may be asked to provide some required and optional contact and demographic information. The information you provide will be used in the following ways:
 
-  1. To help us serve you better (e.g. to help process your online ticket purchases). To do this, we need to collect pertinent information such as name, email address, password, country, etc.  
+  1. To help us serve you better (e.g. to help process your online ticket purchases). To do this, we need to collect pertinent information such as name, email address, country, phone, etc.  
 
-  2. To send personalized, targeted information regarding your account, enhancements to our products/services and information on how to better take advantage of our special offers. To provide this service, we need to ask your name, email address, state, etc.  
+  2. To send personalized, targeted information regarding your purchase, enhancements to our products/services and information on how to better take advantage of our special offers. To provide this service, we need to ask your name, email address, state, etc.  
 
   3. To send targeted advertising that allows us to notify you of special offers, new rides, new events, etc. To provide this service, we need to ask your email address, state, etc.  
 
@@ -72,5 +65,7 @@ In order to sign up for certain services on our website, you may be asked to pro
 
 
 
-**Changes to this Security Policy**  
-Six Flags reserves the right to change this Security Policy at any time, but we will not do so without posting the modified Security Policy on our website. We encourage you to review our Security and Safety Policies whenever you visit our website so you'll always understand how your information will be used.
+**Changes to the Privacy and Security Policies**  
+Six Flags reserves the right to change the Privacy and Security Policies at any time, but we will not do so without posting the modified policies on our website. We encourage you to review our Privacy and Security Policies whenever you visit our website so you'll always understand how your information will be used.
+
+| 
