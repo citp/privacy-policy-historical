@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolboysecrets.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012074615id_/http%3A//www.schoolboysecrets.com/privacy.php%3Fvipaccess%3D%26g%3D00000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolboysecrets.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306021748id_/http%3A//www.schoolboysecrets.com/privacy.php%3Fvipaccess%3D%26g%3D00000) for the most accurate reproduction.*
 
 # Schoolboysecrets.com legal info
 
@@ -11,4 +11,4 @@ Please see our payment processor's Privacy Policy concerning collected informati
 
 [**Payment Processor's Privacy Policy**](http://www.ibill.com/about/privacy.cfm)
 
-This notice applies to all information collected or submitted on [http://www.schoolboysecrets.com](https://web.archive.org/web/20041012074615id_/http%3A//www.schoolboysecrets.com/index.php?vipaccess=&g=00000)
+This notice applies to all information collected or submitted on [http://www.schoolboysecrets.com](https://web.archive.org/web/20050306021748id_/http%3A//www.schoolboysecrets.com/index.php?vipaccess=&g=00000)
