@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402140626id_/http%3A//mathforum.org/announce/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204905id_/http%3A//mathforum.org/announce/privacy.html) for the most accurate reproduction.*
 
 # Math Forum: Privacy Policy
 
-If you are under 13, please have your parents/guardians read this policy and approve your use of our services. If you are under 13 and you participate in the Problem of the Week services or subscribe to any other Math Forum services, please have your teacher or parent register you for participation. At any time, your parents have the right to request that we remove your personal information by writing to [removal@mathforum.org](mailto:removal@mathforum.org) or by contacting us via postal mail or telephone (800)756-7823.
+If you are under 13, please have your parents/guardians read this policy and approve your use of our services. If you are under 13 and you participate in the Problem of the Week services or subscribe to any other Math Forum services, please have your teacher or parent register you for participation. At any time, your parents have the right to request that we remove your personal information by [e-mailing us](https://web.archive.org/web.comments/contact.html) or by contacting us via postal mail or telephone (800)756-7823.
 
 ### Privacy Policy:
 
@@ -23,7 +23,7 @@ If you identify yourself by sending an email or by providing your email address 
 
 
 
-At any time you may request the removal of your name or other personal information and contributions by writing to [removal@mathforum.org](mailto:removal@mathforum.org) or by contacting us via postal mail or telephone (800)756-7823.
+At any time you may request the removal of your name or other personal information and contributions by [e-mailing us](https://web.archive.org/web.comments/contact.html) or by contacting us via postal mail or telephone (800)756-7823.
 
 We want to be very clear: We will not obtain personal identifying information about you when you visit our site unless you choose to provide such information to us.
 
@@ -37,7 +37,7 @@ This site makes mailing lists, Web discussion forums, and message boards availab
 
 * * *
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [policy@mathforum.org.](mailto:policy@mathforum.org)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web.comments/contact.html)
 
 **Postal address:**  
 The Math Forum  
