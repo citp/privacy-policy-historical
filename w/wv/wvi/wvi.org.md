@@ -1,0 +1,14 @@
+> *The following text is extracted and transformed from the wvi.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603005922id_/http%3A//wvi.org/wvi/privacy/privacy.htm) for the most accurate reproduction.*
+
+# Help make a world of difference - Privacy Policy
+
+  
+You do not have to provide any personal information on our website unless you choose to do so. Various locations within our website may invite visitors who desire more information to give us certain contact information (such as their e-mail address) and other demographic information (such as nationality, zip code etc). We may use this contact information to send the visitor information about World Vision and its programs. The visitor's contact information may also be used to contact the visitor when necessary. Users may opt-out of receiving future communications by visiting the form again and submitting a request.
+
+World Vision International assures you that the identity of all who contact us through this website is kept confidential: we do not rent, sell, or exchange our mailing lists, or otherwise disclose such information to third parties, except as may be required by law, or through voluntary cooperation with law enforcement authorities if we judge that such cooperation is necessary to avoid potential serious harm. We may also provide the visitor's contact information to other member entities in the World Vision Partnership (e.g., the World Vision entity in the visitor's home country), which will handle the information in accordance with their own privacy policies. 
+
+As with most other Internet sites, our web servers record the IP address of each visitor to this site. This IP address tells us which domain you visited from (for instance, aol.com), but not your e-mail address. We use the information we record to help diagnose problems with our server, to administer this website more effectively, and to gather broad demographic information about what countries and domains our visitors hail from. We may share aggregate statistical information (e.g., the number of visitors to our website), whether gathered by our web servers or through submissions from visitors, with third parties. These statistics do not include personal information.
+
+World Vision International does not use "cookies." A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Some websites use cookies to track your personal use of their website.
+
+This site may contain links to other sites, including links which frame the content of the other site within the World Vision name and logo. World Vision International is not responsible for the privacy practices or the content of such other websites, even if our name and logo are still on the top of the screen.
