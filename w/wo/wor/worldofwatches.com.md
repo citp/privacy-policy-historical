@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldofwatches.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013212607id_/http%3A//www.worldofwatches.com/cust/privacypolicy.asp%3Fsn%3D24600017) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofwatches.com privacy policy that was archived on 2003-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030424114501id_/http%3A//worldofwatches.com/cust/privacypolicy.asp%3Fsn%3D31763126) for the most accurate reproduction.*
 
 # Watches, TAG Heuer Watches, Movado Watches, Omega Watches, and TechnoMarine Watches at WorldofWatches.com
 
 > **Privacy Policy**
 > 
-> WorldofWatches.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for our website: [http://www.WorldofWatches.com](http://www.worldofwatches.com/index.asp?sn=24600017)
+> WorldofWatches.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for our website: [http://www.WorldofWatches.com](http://www.worldofwatches.com/index.asp?sn=32734179)
 > 
 > TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because WorldofWatches.com wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, WorldofWatches.com has agreed to notify you of:
 > 
@@ -79,11 +79,11 @@
 > **Security**  
 >  WorldofWatches.com takes every precaution to protect our users' information. When users submit sensitive information via our website, your information is protected both online and off-line.
 > 
-> When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layers (SSLs). While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. To learn more about SSL, click on [http://www.WorldofWatches.com/secure.asp](https://web.archive.org/web/20021013212607id_/http%3A//www.worldofwatches.com/cust/secure.asp?sn=24600017)
+> When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layers (SSLs). While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. To learn more about SSL, click on [http://www.WorldofWatches.com/secure.asp](https://web.archive.org/web/20030424114501id_/http%3A//worldofwatches.com/cust/secure.asp?sn=32734179)
 > 
 > While we use SSL encryption to protect sensitive information (like your credit card information) online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are fully informed about our security and privacy practices and updated as new policies are added or revised. They are regularly notified and/or reminded about the importance we place on privacy, and what they can do to ensure that our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment under restricted access.
 > 
-> If you have any questions about the security at our website, you can send us an  [Online Inquiry](https://web.archive.org/web/20021013212607id_/http%3A//www.worldofwatches.com/customer_email.asp?Sn=24600017&mailID=11).
+> If you have any questions about the security at our website, you can send us an  [Online Inquiry](https://web.archive.org/web/20030424114501id_/http%3A//worldofwatches.com/customer_email.asp?Sn=32734179&mailID=11).
 > 
 > **Supplementation of Information**  
 >  In order for WorldofWatches.com to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources such as our affiliated websites. For example, in order for WorldofWatches.com to enhance its ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our affiliated sites, Diamond.com, DiamondDepot.com and 1-888-WATCHES.com. When a user makes a purchase from any of these companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.
@@ -92,12 +92,12 @@
 >  Established members will occasionally receive information on products, services, special offers and a newsletter. Out of respect for the privacy of our users, we present the option to not receive these types of communications. Please see our choice/opt-out below.
 > 
 > **Correcting/Updating/Deleting/Deactivating**  
->  If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication or by sending us an  [Online Inquiry](https://web.archive.org/web/20021013212607id_/http%3A//www.worldofwatches.com/customer_email.asp?Sn=24600017&mailID=5).
+>  If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication or by sending us an  [Online Inquiry](https://web.archive.org/web/20030424114501id_/http%3A//worldofwatches.com/customer_email.asp?Sn=32734179&mailID=5).
 > 
 > **Choice/Opt-Out**  
 >  Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
 > 
-> Users who no longer wish to receive promotional materials may opt-out of receiving these communications by using the unsubscribe feature in our email or by visiting [www.WorldofWatches.com/unsub.asp](https://web.archive.org/web/20021013212607id_/http%3A//www.worldofwatches.com/cust/unsub.asp?sn=24600017).
+> Users who no longer wish to receive promotional materials may opt-out of receiving these communications by using the unsubscribe feature in our email or by visiting [www.WorldofWatches.com/unsub.asp](https://web.archive.org/web/20030424114501id_/http%3A//worldofwatches.com/cust/unsub.asp?sn=32734179).
 > 
 > If we decided to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 > 
