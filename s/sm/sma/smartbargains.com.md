@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603092639id_/http%3A//www.smartbargains.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2004-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040717050634id_/http%3A//www.smartbargains.com/privacy.aspx) for the most accurate reproduction.*
 
 # SmartBargains: Help Desk - Privacy & Security
 
