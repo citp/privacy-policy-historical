@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reserveamerica.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002072400id_/http%3A//www.reserveamerica.com/jsp/homepage.jsp%3Fgoto%3D/home/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reserveamerica.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606023132id_/http%3A//www.reserveamerica.com/jsp/homepage.jsp%3Fgoto%3D/home/policy.html) for the most accurate reproduction.*
 
 # ReserveAmerica - Welcome!
 
@@ -62,5 +62,5 @@ B) Information that we may have already forwarded to Reservation Partners, credi
 
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [legal@ReserveAmerica.com.](mailto:legal@reserveamerica.com)
 
-You can also send us mail to: Privacy Officer, ReserveAmerica, 2480 Meadowvale Boulevard, Mississauga, Ontario Canada L5N 8M6.   
+You can also send us mail to: Privacy Officer, ReserveAmerica, 40 South Street, Ballston Spa, New York 12020.   
 
