@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213211900id_/http%3A//indiafm.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602140138id_/http%3A//indiafm.com/privacy.shtml) for the most accurate reproduction.*
 
-# IndiaFM privacy statement
+# IndiaFM.com privacy statement
+
+| 
 
 **IndiaFM** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 
 
@@ -19,11 +21,10 @@ Our Site uses cookies to make sure you don't see the same ad repeatedly. We also
 We work with various third party advertising networks namely Intercept Consulting, Focusin, Adforce, Clickagents, Dime Clicks & Iadvertise. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by advertising network, and we do not have access to this information. 
 
 To find out more about how the ad network manages the privacy of information in conjunction with serving ads on this site, please go to :  
-[Focusin ](http://www.focusin.com/)  
 [Adforce ](http://www.adforce.com/)  
+[Advertising ](http://www.advertising.com/)  
+[Doubleclick ](http://www.doubleclick.net/)  
 [Intercept Consulting ](http://www.intercept.co.in/)  
-[Dimeclicks ](http://www.dimeclicks.com/)  
-[Clickagents ](http://www.clickagents.com/)  
 [Iadvertise ](http://www.iadvertise.net/)  
 
 
@@ -55,3 +56,14 @@ This site collects and uses personally identifiable information without prior ve
 ####  Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us.](mailto:privacy@indiafm.com?subject=Privacy%20Statement)
+
+* * *
+
+| [Screensaver](http://www.indiafm.com/screensaver/index.shtml) | [Wallpaper](http://www.indiafm.com/posters/index.shtml) | [Audio](http://www.indiafm.com/audio/index.shtml) | [Video](http://www.indiafm.com/video/index.shtml) | [Jukebox](http://www.indiafm.com/audio/jukebox.shtml) | [Radio](http://radio.indiafm.com/) | [Contests](http://www.indiafm.com/promos/index.shtml) |  
+| [Movie Showcase](http://www.indiafm.com/showcase/index.shtml) | [Downloads](http://www.indiafm.com/downloads/index.shtml) | [Reviews](http://www.indiafm.com/reviews/index.shtml) | [Previews](http://www.indiafm.com/previews/index.shtml) | [Chat](http://www.indiafm.com/chatroom/index.shtml) | [Face 2 Face](http://www.indiafm.com/face2face/index.shtml) |  
+| [Parties & Events](http://www.indiafm.com/memories/index.shtml) | [Release Dates](http://www.indiafm.com/scoop/releasedates.shtml) | [Get it confirmed](http://www.indiafm.com/scoop/rumours.shtml) | [Filmfare Awards](http://www.indiafm.com/filmfare/index.shtml) |  
+| [Box Office](http://www.indiafm.com/boxoffice/index.shtml) | [Stars as kids](http://www.indiafm.com/staraskids/index.shtml) | [Fun & Humour](http://www.indiafm.com/etcetera/index.shtml) | [Star Birthdays](http://www.indiafm.com/wishstars/index.shtml) | [Interviews](http://www.indiafm.com/interviews/index.shtml) |  
+| [Scoop & News](http://www.indiafm.com/scoop/index.shtml) | [Kal ka Sitara?](http://www.indiafm.com/newstar/index.shtml) | [On sets](http://www.indiafm.com/onthesets/index.shtml) | [Concert Schedule](http://www.indiafm.com/concerts.shtml) | [Games](http://www.indiafm.com/games/index.shtml) |  
+
+
+|   
