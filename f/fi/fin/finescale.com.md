@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606070619id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206125206id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
 
 # KALMBACH PUBLISHING CO. - Information Practices
 
@@ -13,7 +13,7 @@ Contact Information
 
 **Kalmbach Publishing Co. Privacy Policy**
 
-Last modified: April 19, 2004.
+Last modified: September 25, 2004.
 
 Kalmbach Publishing Co. is committed to providing service that exceeds expectations while treating all customers as VIPs. This includes maintaining your privacy and that of the members of your family, when it comes to use of any "personally identifiable information" you may voluntarily provide us via the Internet or otherwise.
 
@@ -28,7 +28,7 @@ This explanation of our privacy policy answers the following questions:
 
 **Gathering Information**
 
-Kalmbach Publishing Co. is the publisher of the following magazines and web sites: American Snowmobiler, Astronomy, Art Jewelry, Bead&Button, BeadStyle, Birder's World, Classic Toy Trains, Classic Trains, Dollhouse Miniatures, FineScale Modeler, Garden Railways, Model Railroader, Model Retailer, Scale Auto, Trains, and The Writer.
+Kalmbach Publishing Co. is the publisher of the following magazines and web sites: American Snowmobiler, Astronomy, Art Jewelry, Bead&Button, BeadStyle, Birder's World, Classic Toy Trains, Classic Trains, FineScale Modeler, Garden Railways, Model Railroader, Model Retailer, Scale Auto, Trains, and The Writer.
 
 Kalmbach Publishing Co. is also the host for:  
 
@@ -78,7 +78,7 @@ To promote parental awareness and consent to our use of any personally identifia
 
 For other transactions such as those where we have provided online customers with the option to order and "bill me later," we will - in the very near future -- take special steps to directly notify parents and to obtain verifiable parental consent. We will do this by sending a confirming postcard addressed to the "resident" ( not to the attention / name of the individual) at the address provided with the order. The postcard will display the information provided for the parent/resident's review, advising them that they may request to have it deleted, disallowing any further use of the information. The postcard reiterates the procedures and options spelled out in the section above on "Maintaining Your Personal Privacy," which parents can follow as safeguards against use of the personally identifiable information for unwanted promotions and solicitations. This includes the option for the parent to agree to the collection and use of the information by Kalmbach to fulfill the minor's order, with or without additional parental consent for Kalmbach to provide the information to reputable third parties, subject to the controls and criteria specified by our privacy policy. 
 
-Last modified: April 19, 2004.
+Last modified: September 25, 2004.
 
 **Contact Information**
 
