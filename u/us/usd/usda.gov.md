@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202092819id_/http%3A//www.usda.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601120556id_/http%3A//www.usda.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # USDA Privacy Policy
 
@@ -40,7 +40,7 @@ Information presented on the USDA website is considered public information and m
 
   1. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
   2. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration [General Schedule 20.](http://ardor.nara.gov/grs/grs20.html)
-  3. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](http://www4.law.cornell.edu/uscode/18/1030.text.html) and the [National Information Infrastructure Protection Act.](http://www.usdoj.gov/criminal/cybercrime/compcrime.html)
+  3. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](http://www4.law.cornell.edu/uscode/18/1030.html) and the [National Information Infrastructure Protection Act.](http://www.usdoj.gov/criminal/cybercrime/compcrime.html)
 
 
 
