@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2002-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021225235032id_/http%3A//www.heritage.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2003-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030420162000id_/http%3A//www.heritage.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # The Heritage Foundation: About Us: Privacy Policy
+
+|  |   | 
 
 **The Heritage Foundation's Privacy Policy**  
 Your privacy on the Internet is important to us. As part of the operation and customization feature of The Heritage Foundation's web site ("heritage.org"), we gather certain types of information from users, and we would like to explain the types of information we gather, what we do with them, and how to correct or change the information.  
@@ -14,3 +16,10 @@ Heritage Foundation employees understand the need for user privacy and heritage.
 The Heritage Foundation encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. In general, heritage.org will not contain content that is reasonably considered unsuitable for children. **Links to Other Sites**  
 It is important to note that heritage.org contains links to sites other than heritage.org, and that those sites may not follow the same privacy policies as heritage.org. For instance, a link in the "Helpful Links" section of heritage.org will take you away from heritage.org to an entirely different site. **Changes to the Privacy Policy**  
 The Heritage Foundation reserves the right to change the policy on use of information collected. Any changes in policy will be noted in a revised privacy policy statement and will be posted at least 30 days prior to implementation. You may direct any privacy policy questions to [info@heritage.org](mailto:info@heritage.org). 
+
+* * *
+
+**© 2002 The Heritage Foundation**  
+All Rights Reserved.  
+Read our [privacy guidelines](https://web.archive.org/about/privacy.cfm). | [Contact us](https://web.archive.org/about/contact.cfm). | [Return Home](https://web.archive.org/).  
+---|---|---
