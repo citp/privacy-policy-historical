@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2003-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031223085012id_/http%3A//www.theonion.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630051257id_/http%3A//theonion.com/info/privacy.php) for the most accurate reproduction.*
 
 # The Onion | Privacy Policy
 
@@ -71,6 +71,6 @@ Copyright
 
 **The Onion ®** uses invented names in all its stories, except in cases when public figures are being satirized. Any other use of real names is accidental and coincidental.
 
-The content of this web-site—graphics, text and other elements—is © Copyright 2003 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
+The content of this web-site—graphics, text and other elements—is © Copyright 2004 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
 
 **The Onion ®** is not intended for readers under 18 years of age.
