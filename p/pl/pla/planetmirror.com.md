@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetmirror.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604075437id_/http%3A//public.www.planetmirror.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetmirror.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203002001id_/http%3A//public.www.planetmirror.com/privacy) for the most accurate reproduction.*
 
 # PlanetMirror - Privacy Policy
 
