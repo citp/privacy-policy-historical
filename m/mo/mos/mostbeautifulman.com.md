@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostbeautifulman.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628100425id_/http%3A//mostbeautifulman.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostbeautifulman.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202175047id_/http%3A//www.mostbeautifulman.com/privacy.shtml) for the most accurate reproduction.*
 
 # Most Beautiful Man -- MostBeautifulMan.com -- Privacy Policy
 
@@ -15,6 +15,6 @@ Cookies are used as an important and necessary part of providing customizable an
 
 MostBeautifulMan.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies. We undertake substantial efforts to protect the confidentiality of the identity, preferences and other information we have collected and will never knowingly allow access to this information to anyone outside MostBeautifulMan.com. 
 
-You may at anytime request a removal of information stored on MostBeautifulMan.com server by contacting [privacy@mostbeautifulman.com](mailto:privacy@mostbeautifulman.com). 
+You may at anytime request a removal of information stored on MostBeautifulMan.com server by contacting privacy@ mostbeautifulman.com. 
 
 The foregoing policy is effective as of November 2001, and MostBeautifulMan.com reserves the right to change this policy at any time. Please check this page periodically for changes. This statement and policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
