@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207204331id_/http%3A//www.aande.com/feedback/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411091931id_/http%3A//aetv.com/feedback/privacy.html) for the most accurate reproduction.*
 
-# AandE.com Contact Us
+# AETV.com Contact Us
 
     | 
 
 **A &E Privacy Policy**
 
-Last updated on August 29, 2002
+Last updated on January 28, 2003
 
 **A &E Television Networks ("AETN")**
 
 We can be reached via fax at (212) 907-9497  
 Attn: Interactive Media-Privacy Policy Feedback 
 
-We can be reached via email at [feedback@AandE.com](mailto:feedback@AandE.com). 
+We can be reached via email at [feedback@AETV.com](mailto:feedback@AETV.com). 
 
 AETN supports a general policy of openness about personal data collection and use. We have adopted and implemented this Privacy Policy as part of our commitment to protecting your personal information from misuse.
 
-This Privacy Policy applies to our information-gathering and dissemination practices for the following sites: [www.aande.com](http://www.aande.com/); [www.historychannel.com](http://www.historychannel.com/); [www.biography.com](http://www.biography.com/); [www.mysteries.com](http://www.mysteries.com/); [www.historyinternational.com](http://www.historyinternational.com/); [www.pythonshop.com](http://www.pythonshop.com/); and [www.originalavengers.com](http://www.originalavengers.com/) (collectively, the "Websites"). This Privacy Policy also applies to AETN services contained on other sites, so long as such services contain AETN's branding, and AETN has provided a link to this Privacy Policy in connection with such services.
+This Privacy Policy applies to our information-gathering and dissemination practices for the following sites: [www.aetv.com](http://www.aetv.com/); [www.historychannel.com](http://www.historychannel.com/); [www.biography.com](http://www.biography.com/); [www.mysteries.com](http://www.mysteries.com/); [www.historyinternational.com](http://www.historyinternational.com/); [www.pythonshop.com](http://www.pythonshop.com/); and [www.originalavengers.com](http://www.originalavengers.com/) (collectively, the "Websites"). This Privacy Policy also applies to AETN services contained on other sites, so long as such services contain AETN's branding, and AETN has provided a link to this Privacy Policy in connection with such services.
 
 **The Websites are not directed at children under the age of 13. If you are under 13, please do not provide any personal information on the Websites.**
 
@@ -39,7 +39,7 @@ Demographic information, as well as usage data calculated from logging IP addres
 
 Whenever we request your personal information on our Websites, to the extent that we intend to use it in a manner not disclosed in this Privacy Policy, we will try to explain to you how we intend to use it, and to provide you with a choice to decline certain uses. In addition, if we plan to post any of your personal information on our Websites, we will also notify you of this possibility either when you provide information to us or prior to posting the information. Please note that by entering any contest or quiz, you consent to our announcing your name and home town as part of any list of winners.
 
-We may also disclose personal information if we believe that we are required to do so (i) by law, (ii) to comply with legal process or governmental requests, (iii) to enforce our [Terms of Service](https://web.archive.org/perl/wwwthreads/guidelines.pl), or (iv) to protect the rights, property, or safety of AETN, its users or the public.
+We may also disclose personal information if we believe that we are required to do so (i) by law, (ii) to comply with legal process or governmental requests, (iii) to enforce our [Terms of Service](https://web.archive.org/feedback/termsofservice.html), or (iv) to protect the rights, property, or safety of AETN, its users or the public.
 
 **Service Providers**  
 We work with third parties who provide services including but not limited to website hosting, order processing and fulfillment, credit card clearance, e-commerce affiliation, data analysis, emailing and other services of an administrative nature. Personal information, including financial information, is shared with such third parties for the purpose of providing such services.
@@ -93,7 +93,7 @@ You may inform us if you wish to remove your personal information from our datab
 
 We give you the following options for removing your personal information from our database in order to stop receiving future communications from our Websites.
 
-  1. You can send email to: [feedback@AandE.com](https://web.archive.org/web/20021207204331id_/http%3A//www.aande.com/feedback/feedback@AandE.com)  
+  1. You can send email to: [feedback@AETV.com](mailto:feedback@AETV.com)  
  
   2. You can send mail to the following postal address:  
 A&E Television Networks  
@@ -107,7 +107,7 @@ New York, NY 10017
 **Correct/Update**  
 We give you the following options for informing us of changes to the personal information you have previously provided:
 
-  1. Email [feedback@AandE.com](mailto:feedback@AandE.com)  
+  1. Email [feedback@AETV.com](mailto:feedback@AETV.com)  
  
   2. Send mail to the following postal address:  
 A&E Television Networks  
