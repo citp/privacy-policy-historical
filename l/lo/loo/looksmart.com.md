@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2002-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021120122858id_/http%3A//www.looksmart.com/cgi-bin/go/adname%3Dsearchft%3Aabout%3Badfield%3Dprivpl%3Bref%3D1/aboutus.looksmart.com/corp.jhtml%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602003400id_/http%3A//aboutus.looksmart.com/corp.jhtml%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # LookSmart About Us
 
