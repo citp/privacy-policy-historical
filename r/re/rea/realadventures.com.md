@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413025516id_/http%3A//realadventures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602113844id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
 
-# RealAdventures: Privacy Policy
+# Privacy Policy for RealAdventures
 
 RealAdventures collects information about visitors to our site in several different ways. 
 
@@ -92,3 +92,5 @@ While most companies and individuals access the Internet for legitimate personal
 Any personal information that you reveal while surfing the Internet (through on-line forms, message boards, chat rooms, e-mail messages, etc) can potentially be collected and used by others. As a result, you may receive unsolicited e-mail messages or phone calls.
 
 Protection of personal or professional information, e-mail addresses and passwords is ultimately your responsibility.
+
+"WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/wtl_system/privacy_policy.htm)." 
