@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205044907id_/http%3A//www.pmo.gov.sg/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404094637id_/http%3A//www.pmo.gov.sg/privacy.htm) for the most accurate reproduction.*
 
 # PMO - Government of Singapore Privacy Policy
 
-|  |  [](https://web.archive.org/web/20041205044907id_/http%3A//www.pmo.gov.sg/portfolio.htm)  
+|  |  [](https://web.archive.org/web/20050404094637id_/http%3A//www.pmo.gov.sg/portfolio.htm)  
 ---|---  
 [](http://www.psd.gov.sg/)  
 [](http://www.cpib.gov.sg/)  
-[](https://web.archive.org/web/20041205044907id_/http%3A//www.pmo.gov.sg/elections.htm)  
-[](https://web.archive.org/web/20041205044907id_/http%3A//www.pmo.gov.sg/feedback.htm)  
-[](https://web.archive.org/web/20041205044907id_/http%3A//www.pmo.gov.sg/faq.htm)  
-[](https://web.archive.org/web/20041205044907id_/http%3A//www.pmo.gov.sg/sitemap.htm)  
-[](https://web.archive.org/web/20041205044907id_/http%3A//www.pmo.gov.sg/default.html)  
+[](https://web.archive.org/web/20050404094637id_/http%3A//www.pmo.gov.sg/elections.htm)  
+[](https://web.archive.org/web/20050404094637id_/http%3A//www.pmo.gov.sg/feedback.htm)  
+[](https://web.archive.org/web/20050404094637id_/http%3A//www.pmo.gov.sg/faq.htm)  
+[](https://web.archive.org/web/20050404094637id_/http%3A//www.pmo.gov.sg/sitemap.htm)  
+[](http://www.pmo.gov.sg/)  
 | 
 
-[Printable version](https://web.archive.org/web/20041205044907id_/http%3A//www.pmo.gov.sg/p_privacy.htm)
+[Printable version](https://web.archive.org/web/20050404094637id_/http%3A//www.pmo.gov.sg/p_privacy.htm)
 
   1. This is a Government of Singapore website. Thank you for examining our privacy statement. 
   2. If you are only browsing this website, we do not capture data that allows us to identify you individually. 
