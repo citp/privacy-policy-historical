@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602122230id_/http%3A//www.bridalguide.com/default.cfm%3Ffuseaction%3Dmisc_content%26bridal_file%3D5%26jwp%3D2050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206004457id_/http%3A//bridalguide.com/default.cfm%3Ffuseaction%3Dmisc_content%26bridal_file%3D5%26jwp%3D2050) for the most accurate reproduction.*
 
 # WELCOME TO BRIDALGUIDE.COM
 
 Bridal Guide Online is committed to safeguarding your privacy while you are on our site. The following privacy policy describes what personal information we collect from you and exactly how we use it. 
 
-Bridal Guide Online is owned and operated by RFP LLC. If you have any questions or concerns about our privacy policy, please feel free to contact us by email at customerservice@ebridalguide.com. 
+Bridal Guide Online is owned and operated by RFP LLC. If you have any questions or concerns about our privacy policy, please feel free to contact us by email at customerservice@bridalguide.com. 
 
 **What information will you be asked to provide?**  
 There are three different types of content in Bridal Guide Online, and each has a different level of information requested. All are completely free to users. 
 
 1\. All **articles and tips** included in Bridal Guide Online are completely accessible to all users. You are not required to enroll as a member or to identify yourself in any way. 
 
-2\. Use of our **message boards** does not require membership to read or write messages. If you choose to write and post a message, you will be asked to identify yourself with a user name. You may use your real name, or if you prefer anonymity you may post under a ''handle'' or alias. We do not attempt to associate your message board postings with your true identity, with the single exception that if you violate our posted message board rules, we may contact you privately.  3\. From time to time, we may offer special advertiser-sponsored promotions such as sweepstakes or special discounts. Any additional information you provide as part of an advertising promotion may be provided directly to the sponsoring advertiser. These will be clearly marked as promotions so you can decide whether you want to share your personal information. 
+2\. Use of our **message boards** does not require membership to read or write messages. If you choose to write and post a message, you will be asked to identify yourself with a user name. You may use your real name, or if you prefer anonymity you may post under a ''handle'' or alias. We do not attempt to associate your message board postings with your true identity, with the single exception that if you violate our posted message board rules, we may contact you privately. 
 
-In addition to the content on the site, you may choose to sign up for our free weekly email newsletter, which includes planning tips and site highlights. To receive the newsletter you must provide us with a valid email address, but you may receive the newsletter without signing up for the full membership (which would also allow you to use our tools). You can choose to remove yourself from our newsletter mailing list at any time by following the ''Unsubscribe'' directions printed at the end of each newsletter email. 
+3\. From time to time, we may offer special advertiser-sponsored promotions such as sweepstakes or special discounts. Any additional information you provide as part of an advertising promotion may be provided directly to the sponsoring advertiser. These will be clearly marked as promotions so you can decide whether you want to share your personal information. 
+
+4\. In addition to the content on the site, you may choose to sign up for our free weekly email **newsletter** , which includes planning tips and site highlights. To receive the newsletter you must provide us with a valid email address. You can choose to remove yourself from our newsletter mailing list at any time by following the ''Unsubscribe'' directions printed at the end of each newsletter email. 
 
 **How will Bridal Guide Online use the information we collect?**  
 First and foremost, we will use the information we collect to improve your user experience. We do this by monitoring the number of visits to each area of the site in order to determine what kind of information our users find most useful and which areas we need to enhance. This kind of evaluation is based exclusively on aggregate traffic, not on individual users - in other words, we watch to see how many users overall visit a particular article or tool each week, but we do not examine specifically what any individual user reads. 
 
-Additionally, we may choose to share that aggregate traffic information with advertisers and sponsors. Bridal Guide Online is completely free to users; in order to keep it that way, we need to provide advertiser with evidence that their promotions are being seen by the guaranteed number of users. We do not disclose any personally identifying information about users, and we will never provide any third party with your contact information unless you have given us permission to during the enrollment process. 
+Additionally, we may choose to share that aggregate traffic information with advertisers and sponsors. Bridal Guide Online is completely free to users; in order to keep it that way, we need to provide advertisers with evidence that their promotions are being seen by the guaranteed number of users. We do not disclose any personally identifying information about users, and we will never provide any third party with your contact information unless you have given us permission to during the enrollment process. 
 
 We may also disclose information about our users if that disclosure is ever required by law. 
 
