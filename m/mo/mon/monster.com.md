@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402054433id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204220716id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
 
 # Monster - Privacy Commitment
 
@@ -12,10 +12,6 @@ Monster is committed to respecting the privacy of our users. We strive to provid
 Your data will be stored and processed in whole or in part in the United States. If you access a Monster Web site outside the United States, your usage of that site constitutes consent to the transfer of your data out of your country and to the United States. 
 
 Our sites contain links to other Web sites over which we have no control. Monster is not responsible for the privacy policies or practices of other Web sites to which you choose to link from a Monster Web site. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information. This Privacy Statement applies solely to the information we collect on a Monster Web site, and does not apply to information we collect in any other fashion.
-
-Monster is a participant of the BBBOnLine Privacy Program and is in compliance with BBBOnLine's privacy principles. The BBBOnLine Privacy Program awards the privacy seal to businesses that have proven to meet the high standards set in the program requirements.  BBBOnLine is an independent, nonprofit initiative of the Better Business Bureau whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because Monster wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by BBBOnLine. This policy statement has been verified by BBBOnLine. For further information about BBBOnLine, please click [here](http://www.bbbonline.org/).
-
-[](http://www.bbbonline.org/cks.asp?id=12021999030437)
 
 **Collection and Retention of Information**
 
@@ -107,8 +103,8 @@ If we decide to change our Privacy Statement for Monster, we will post those cha
 
 **Contact Information**
 
-Monster is a name under which TMP Interactive, Inc., a Delaware corporation with its principal place of business at 5 Clock Tower Place, Maynard, MA 01754, and certain of its affiliated companies worldwide, do business. ("Affiliated companies" means entities that control, are controlled by or are under common control with TMP Interactive, Inc.) TMP Interactive, Inc. is the legal entity which determines the purposes and means of processing the information gathered at the Monster Web sites. The information we gather on any Monster Web site may be shared within TMP Interactive, Inc. and its affiliated companies. 
+Monster is a name under which Monster, Inc., a Delaware corporation with its principal place of business at 5 Clock Tower Place, Maynard, MA 01754, and certain of its affiliated companies worldwide, do business. ("Affiliated companies" means entities that control, are controlled by or are under common control with Monster, Inc.) Monster, Inc. is the legal entity which determines the purposes and means of processing the information gathered at the Monster Web sites. The information we gather on any Monster Web site may be shared within Monster, Inc. and its affiliated companies.
 
-We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [notification@Monster.com](mailto:notification@Monster.com) or by calling us at 1-800-MONSTER. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [notification@Monster.com](mailto:notification@Monster.com) or by calling us at 1-800-MONSTER. We will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 Thank you for using Monster.com. 
