@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dailynews.com privacy policy that was archived on 2002-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605041914id_/http%3A//dailynews.com/info/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailynews.com privacy policy that was archived on 2002-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020905234356id_/http%3A//dailynews.com/info/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Dailynews.com: The Los Angeles Daily News Online</title>
@@ -8,6 +8,57 @@
 
 <link rel="stylesheet" type="text/css" href="/includes/style/text.css" title="style1">
 	<script src="/S-Includes/DART_Ads.js"></script>
+
+<script language="JAVASCRIPT" type="TEXT/JAVASCRIPT">
+<!--//Hide from older browsers
+
+//Added for the Email Article link
+
+function sendEmail() {
+	var docTitle = document.title
+	var docURL = document.URL
+	var EmailWindow = window.open("/socal/emaillink.asp?Title=" +
+docTitle + "&url=" + docURL, "remote",
+"scrollbars,status,height=350,width=560,left=20,top=20");
+}
+//--> Stop Hiding
+
+//printer friendly script
+
+var da = (document.all) ? 1 : 0;
+var pr = (window.print) ? 1 : 0;
+var mac = (navigator.userAgent.indexOf("Mac") != -1); 
+
+function printPage() {
+  if (pr) // NS4, IE5
+    window.print()
+  else if (da && !mac) // IE4 (Windows)
+    vbPrintPage()
+  else // other browsers
+    alert("Sorry, your browser doesn't support this feature.");
+  return false;
+}
+
+if (da && !pr && !mac) with (document) {
+  writeln('<OBJECT ID="WB" WIDTH="0" HEIGHT="0" CLASSID="clsid:8856F961-340A-11D0-A96B-00C04FD705A2"></OBJECT>');
+  writeln('<' + 'SCRIPT LANGUAGE="VBScript">');
+  writeln('Sub window_onunload');
+  writeln('  On Error Resume Next');
+  writeln('  Set WB = nothing');
+  writeln('End Sub');
+  writeln('Sub vbPrintPage');
+  writeln('  OLECMDID_PRINT = 6');
+  writeln('  OLECMDEXECOPT_DONTPROMPTUSER = 2');
+  writeln('  OLECMDEXECOPT_PROMPTUSER = 1');
+  writeln('  On Error Resume Next');
+  writeln('  WB.ExecWB OLECMDID_PRINT, OLECMDEXECOPT_DONTPROMPTUSER');
+  writeln('End Sub');
+  writeln('<' + '/SCRIPT>');
+}
+//--> Stop Hiding
+
+</script>
+
 		<script>
 		<!--
 		function land(ref, target)
@@ -39,7 +90,7 @@
 <table width="760" border="0" cellspacing="0" cellpadding="0">
  <tbody><tr> 
   <td width="286" height="62" align="left" valign="middle" bgcolor="#598288"><img src="/graphics/temp/logo_info.jpg" width="286" height="62"></td>
-  <td width="468" height="62" align="right" valign="middle" bgcolor="#598288"><script>GetAd(1, 't', 468, 60, '/inf');</script><table><tbody><tr><td><nolayer><iframe src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adi/web.archive.org/inf;pos=t;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=468x60;tile=1;ord=120841053747063?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/jump/web.archive.org/inf;pos=t;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=468x60;tile=1;ord=120841053747063?"><IMG SRC="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/ad/web.archive.org/inf;pos=t;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=468x60;tile=1;ord=120841053747063?" border=0 height="60" width="468"></A></iframe></nolayer><ilayer id="layer1" visibility="hidden" width="468" height="60"></ilayer></td></tr></tbody></table></td>
+  <td width="468" height="62" align="right" valign="middle" bgcolor="#598288"><script>GetAd(1, 't', 468, 60, '/inf');</script><table><tbody><tr><td><nolayer><iframe src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adi/web.archive.org/inf;pos=t;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=468x60;tile=1;ord=317068687041383?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/jump/web.archive.org/inf;pos=t;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=468x60;tile=1;ord=317068687041383?"><IMG SRC="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/ad/web.archive.org/inf;pos=t;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=468x60;tile=1;ord=317068687041383?" border=0 height="60" width="468"></A></iframe></nolayer><ilayer id="layer1" visibility="hidden" width="468" height="60"></ilayer></td></tr></tbody></table></td>
  </tr>
  <tr> 
   <td colspan="2" height="28"><img src="/graphics/temp/nav_info.jpg" usemap="#InfoMap" width="760" height="28" border="0"></td>
@@ -53,24 +104,24 @@
  <area shape="rect" coords="345,10,446,25" href="http://u.dailynews.com/">
  <area shape="rect" coords="466,10,523,25" href="/business">
  <area shape="rect" coords="543,10,597,25" href="http://u.dailynews.com/living">
- <area shape="rect" coords="617,10,687,25" href="/market">
+ <area shape="rect" coords="617,10,687,25" href="http://ladailynews.abracat.com/">
  <area shape="rect" coords="711,10,747,25" href="/info">
 </map>
 <table width="760" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 	<td width="140" height="10"><img src="/graphics/pix.gif" width="140" height="10"></td>
 	<td height="10" width="10"><img src="/graphics/pix.gif" width="10" height="10"></td>
-	<td width="610" height="10" align="right" class="date"> Los Angeles, CA | Tuesday, June 04, 2002 </td>
+	<td width="610" height="10" align="right" class="date"> Los Angeles, CA | Thursday, September 05, 2002 </td>
 </tr>
 <tr>
 	<td width="140" valign="top" bgcolor="#6b9ca5">
 	<!-- **********************   BEGIN NAVIGATION ********************* -->
 <table border="0" bgcolor="#6b9ca5" cellspacing="0" cellpadding="0" width="140">
-<tbody><tr><td class="navaa"><a class="navaa" target="_self" href="/market">Classifieds</a></td></tr>
+<tbody><tr><td class="navaa"><a class="navaa" target="_self" href="http://ladailynews.abracat.com/">Classifieds</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_new" href="http://www.motorway.com/">Automotive</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_new" href="http://careersite.dailynews.com">Employment</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_new" href="http://lang.dailynews.com/homes/">Real Estate</a></td></tr>
-<tr><td class="navaa"><a class="navaa" target="_self" href="http://lang.dailynews.com/socal/newspaperads/ladn-index.htm">Newspaper Ads</a></td></tr>
+<tr><td class="navaa"><a class="navaa" target="_self" href="http://shopping.newspaperads.com/lang/?look_id=dn">Newspaper Ads</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_self" href="/info/search.asp">Archive Search</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_new" href="http://www.legacy.com/LADailyNews/LegacyHome.asp">Obituaries</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_self" href="/news">News</a></td></tr>
@@ -87,25 +138,27 @@
 <tr><td class="navaa"><a class="navaa" target="_self" href="http://u.dailynews.com/travel">Travel</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_new" href="http://www.dailynews.com/traffic/index-ms.asp">Traffic Report</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_self" href="/market">Marketplace</a></td></tr>
-<tr><td class="navaa"><a class="navaa" target="_self" href="http://www.dailynews.com/socal/ads/">Special Sections</a></td></tr>
+<tr><td class="navaa"><a class="navaa" target="_self" href="http://shopping.newspaperads.com/lang/index.asp?secpass=yes&amp;look_id=dn">Special Sections</a></td></tr>
+<tr><td class="navaa"><a class="navaa" target="_self" href="/market/toma/">Business Directory</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_self" href="/info">Info</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_self" href="/info/subscribe.asp">Subscribe</a></td></tr>
 <tr><td class="navaa"><a class="navaa" target="_self" href="/info/contact.asp">Contact Us</a></td></tr>
 <!-- <tr><td class="navaa"><a class="navaa" target="_self" href="/advertise">Advertise</a></td></tr> -->
 </tbody></table>
 <!-- *************** END NAVIGATION ****************-->
+<p>
 
 <!-- ************   DART Ad table below  ***********************  -->
 <table width="140" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr><td align="center">
-<script>GetAd(2, 'l1', 120, 90, '/inf');</script><table><tbody><tr><td><nolayer><iframe src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adi/web.archive.org/inf;pos=l1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x90;tile=2;ord=120841053747063?" width="120" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/jump/web.archive.org/inf;pos=l1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x90;tile=2;ord=120841053747063?"><IMG SRC="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/ad/web.archive.org/inf;pos=l1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x90;tile=2;ord=120841053747063?" border=0 height="90" width="120"></A></iframe></nolayer><ilayer id="layer2" visibility="hidden" width="120" height="90"></ilayer></td></tr></tbody></table>
+<script>GetAd(2, 'l1', 120, 90, '/inf');</script><table><tbody><tr><td><nolayer><iframe src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adi/web.archive.org/inf;pos=l1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x90;tile=2;ord=317068687041383?" width="120" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/jump/web.archive.org/inf;pos=l1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x90;tile=2;ord=317068687041383?"><IMG SRC="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/ad/web.archive.org/inf;pos=l1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x90;tile=2;ord=317068687041383?" border=0 height="90" width="120"></A></iframe></nolayer><ilayer id="layer2" visibility="hidden" width="120" height="90"></ilayer></td></tr></tbody></table>
 </td></tr>
 <tr><td><img src="/graphics/pix.gif" width="140" height="10" border="0"></td></tr>
 <tr><td align="center">
-<script>GetAd(3, 'l2', 120, 90, '/inf');</script><table><tbody><tr><td><nolayer><iframe src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adi/web.archive.org/inf;pos=l2;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x90;tile=3;ord=120841053747063?" width="120" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/jump/web.archive.org/inf;pos=l2;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x90;tile=3;ord=120841053747063?"><IMG SRC="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/ad/web.archive.org/inf;pos=l2;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x90;tile=3;ord=120841053747063?" border=0 height="90" width="120"></A></iframe></nolayer><ilayer id="layer3" visibility="hidden" width="120" height="90"></ilayer></td></tr></tbody></table>
+<script>GetAd(3, 'l2', 120, 90, '/inf');</script><table><tbody><tr><td><nolayer><iframe src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adi/web.archive.org/inf;pos=l2;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x90;tile=3;ord=317068687041383?" width="120" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/jump/web.archive.org/inf;pos=l2;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x90;tile=3;ord=317068687041383?"><IMG SRC="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/ad/web.archive.org/inf;pos=l2;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x90;tile=3;ord=317068687041383?" border=0 height="90" width="120"></A></iframe></nolayer><ilayer id="layer3" visibility="hidden" width="120" height="90"></ilayer></td></tr></tbody></table>
 </td></tr>
 </tbody></table>
-	</td>
+	</p></td>
 	<td height="10" width="10"><img src="/graphics/pix.gif" width="10" height="10"></td>
 	<td width="610" valign="top">
 
@@ -194,11 +247,141 @@ If you have any questions, comments or concerns regarding our privacy policy and
 									<td width="10" height="10"><img src="/graphics/pix.gif" width="10" height="10"></td>
 									
 									<td width="120" valign="top">
-<!-- start ad column -->
 
-<script>GetAd(4, 'r1', 120, 600, '/inf');</script><table><tbody><tr><td><nolayer><iframe src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adi/web.archive.org/inf;pos=r1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x600;tile=4;ord=120841053747063?" width="120" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/jump/web.archive.org/inf;pos=r1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x600;tile=4;ord=120841053747063?"><IMG SRC="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/ad/web.archive.org/inf;pos=r1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;;sz=120x600;tile=4;ord=120841053747063?" border=0 height="600" width="120"></A></iframe></nolayer><ilayer id="layer4" visibility="hidden" width="120" height="600"></ilayer></td></tr></tbody></table>
+ <!--   ************************   TOPJOBS CODE BEGINS   ***********************************   -->
+<table>
+<tbody><tr>
+       <td width="126" valign="top">
+		
+		<script>
+		<!-- //hide from old browsers
+		  function openWin(windowURL, windowName, windowFeatures)
+			{
+				return window.open(windowURL, windowName, windowFeatures); 
+		  } 
+		//-->
+		</script>
+		<table cellpadding="0" cellspacing="0" bgcolor="#6699FF" border="0" width="118">
+			<tbody><tr>
+			    <td colspan="2">
+						
+								<img src="/s-asp-bin/toplistings/graphics/topjobs.gif" width="118" height="40" alt="" border="0">
+								
+				</td>
+			</tr>
+			
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left" height="22"><a href="JavaScript: newWindow = openWin( '/s-asp-bin/TopListings/displayListing.asp?n=1931&amp;color=6699FF', 'Listings','width=425,height=350,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=1,resizable=1'); newWindow.focus();"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 12px; font-weight:700; text-decoration: none;">RECEPTIONIST</span></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 11px; text-decoration: none;">Detail</span></td>
+				</tr>
+				
+					<tr>
+					   <td align="center" height="15" colspan="2"><img src="/s-asp-bin/toplistings/graphics/line.gif" width="106" height="2" alt="" border="0"></td>
+					</tr>
+					
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left" height="22"><a href="JavaScript: newWindow = openWin( '/s-asp-bin/TopListings/displayListing.asp?n=1933&amp;color=6699FF', 'Listings','width=425,height=350,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=1,resizable=1'); newWindow.focus();"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 12px; font-weight:700; text-decoration: none;">MEDICAL</span></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 11px; text-decoration: none;">Detail</span></td>
+				</tr>
+				
+					<tr>
+					   <td align="center" height="15" colspan="2"><img src="/s-asp-bin/toplistings/graphics/line.gif" width="106" height="2" alt="" border="0"></td>
+					</tr>
+					
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left" height="22"><a href="JavaScript: newWindow = openWin( '/s-asp-bin/TopListings/displayListing.asp?n=1935&amp;color=6699FF', 'Listings','width=425,height=350,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=1,resizable=1'); newWindow.focus();"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 12px; font-weight:700; text-decoration: none;">MEDICAL</span></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 11px; text-decoration: none;">So. Ca. Sports Med.</span></td>
+				</tr>
+				
+					<tr>
+					   <td align="center" height="15" colspan="2"><img src="/s-asp-bin/toplistings/graphics/line.gif" width="106" height="2" alt="" border="0"></td>
+					</tr>
+					
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left" height="22"><a href="JavaScript: newWindow = openWin( '/s-asp-bin/TopListings/displayListing.asp?n=1937&amp;color=6699FF', 'Listings','width=425,height=350,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=1,resizable=1'); newWindow.focus();"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 12px; font-weight:700; text-decoration: none;">INSURANCE</span></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 11px; text-decoration: none;">FACILITIES  CORP</span></td>
+				</tr>
+				
+					<tr>
+					   <td align="center" height="15" colspan="2"><img src="/s-asp-bin/toplistings/graphics/line.gif" width="106" height="2" alt="" border="0"></td>
+					</tr>
+					
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left" height="22"><a href="JavaScript: newWindow = openWin( '/s-asp-bin/TopListings/displayListing.asp?n=1939&amp;color=6699FF', 'Listings','width=425,height=350,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=1,resizable=1'); newWindow.focus();"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 12px; font-weight:700; text-decoration: none;">MEDICAL</span></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 11px; text-decoration: none;">Detail</span></td>
+				</tr>
+				
+					<tr>
+					   <td align="center" height="15" colspan="2"><img src="/s-asp-bin/toplistings/graphics/line.gif" width="106" height="2" alt="" border="0"></td>
+					</tr>
+					
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left" height="22"><a href="JavaScript: newWindow = openWin( '/s-asp-bin/TopListings/displayListing.asp?n=1940&amp;color=6699FF', 'Listings','width=425,height=350,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=1,resizable=1'); newWindow.focus();"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 12px; font-weight:700; text-decoration: none;">MEDICAL</span></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 11px; text-decoration: none;">Detail</span></td>
+				</tr>
+				
+					<tr>
+					   <td align="center" height="15" colspan="2"><img src="/s-asp-bin/toplistings/graphics/line.gif" width="106" height="2" alt="" border="0"></td>
+					</tr>
+					
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left" height="22"><a href="JavaScript: newWindow = openWin( '/s-asp-bin/TopListings/displayListing.asp?n=1941&amp;color=6699FF', 'Listings','width=425,height=350,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=1,resizable=1'); newWindow.focus();"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 12px; font-weight:700; text-decoration: none;">APPLIANCE REPAIR</span></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 11px; text-decoration: none;">EMPIRE FLOOR MACHINES</span></td>
+				</tr>
+				
+					<tr>
+					   <td align="center" height="15" colspan="2"><img src="/s-asp-bin/toplistings/graphics/line.gif" width="106" height="2" alt="" border="0"></td>
+					</tr>
+					
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left" height="22"><a href="JavaScript: newWindow = openWin( '/s-asp-bin/TopListings/displayListing.asp?n=1942&amp;color=6699FF', 'Listings','width=425,height=350,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=1,resizable=1'); newWindow.focus();"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 12px; font-weight:700; text-decoration: none;">CUSTOMER SERVICE</span></a></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left"><span style="font-family: Arial, Helvetica; color: #000000; font-size: 11px; text-decoration: none;">Detail</span></td>
+				</tr>
+				
+			<tr>
+			    <td colspan="2"><img src="/s-asp-bin/toplistings/graphics/bottom.gif" width="118" height="27" alt="" border="0"></td>
+			</tr>
+		</tbody></table>
+		
+</td>
+</tr>
+</tbody></table>
 
-<!-- end ad column -->									
+<!--   ************************   TOPJOBS CODE ENDS   ***********************************   -->
+
+								
 									</td></tr></tbody></table></td></tr></tbody></table>
 <table width="760" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
@@ -253,7 +436,7 @@ If you have any questions, comments or concerns regarding our privacy policy and
 <option value="http://www.motorway.com" target="new">Auto Center</option>
 <option value="http://lang.dailynews.com/home/index.asp" target="new">Home Center</option>
 <option value="http://careersite.dailynews.com" target="new">Career Center</option>
-<option value="http://lang.redlandsdailyfacts.com/socal/newspaperads/ladn-index.htm" target="new">Newspaper Ads</option>
+<option value="http://shopping.newspaperads.com/lang/?look_id=dn" target="new">Newspaper Ads</option>
 <option value="http://www.lamarketplace.com" target="new">Online Shopping</option>
 <option value="http://www.faredata.net" target="new">Travel Center</option>
 <option value="http://dailynews.stubhub.com/index.cfm" target="new">Ticket Center</option>
@@ -335,7 +518,7 @@ function mc_et(){window.onerror=window.oe;return true}var mc_noe=false;var mcr_d
 if(!mcr_done){if(navigator.userAgent.indexOf('Mac')>=0&&navigator.userAgent.indexOf('MSIE 4')>=0){var mc_r=document.referrer;mc_noe=true}
 else{window.oe=window.onerror;window.onerror=mc_et;var mc_r=parent.document.referrer;mc_noe=mc_et()}}
 </script><script language="JavaScript">
-document.write(mc_mkcd());document.write('<'+'!-- ') </script><img src="http://192.168.112.2O7.net/b/ss/laxnws/1/c3.2/1fsi1580487498127?[AQB]r=NULL&amp;s=800x600&amp;c=24&amp;o=Linux%20x86_64&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;t=31%2F0%2F2020%2016%3A18%3A18%205%200&amp;pageName=&amp;server=&amp;ch=&amp;pageType=&amp;pageValue=&amp;product=&amp;c1=Info&amp;c2=&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=&amp;c8=&amp;g=https%3A%2F%2Fweb.archive.org%2Fweb%2F20020605041914id_%2Fhttp%253A%2F%2Fdailynews.com%2Finfo%2Fprivacy.asp&amp;a=Netscape%205&amp;p=[AQE]" height="1" width="1" border="0"><!-- <noscript><img
+document.write(mc_mkcd());document.write('<'+'!-- ') </script><img src="http://192.168.112.2O7.net/b/ss/laxnws/1/c3.2/1fsi1580487501438?[AQB]r=NULL&amp;s=800x600&amp;c=24&amp;o=Linux%20x86_64&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;t=31%2F0%2F2020%2016%3A18%3A21%205%200&amp;pageName=&amp;server=&amp;ch=&amp;pageType=&amp;pageValue=&amp;product=&amp;c1=Info&amp;c2=&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=&amp;c8=&amp;g=https%3A%2F%2Fweb.archive.org%2Fweb%2F20020905234356id_%2Fhttp%253A%2F%2Fdailynews.com%2Finfo%2Fprivacy.asp&amp;a=Netscape%205&amp;p=[AQE]" height="1" width="1" border="0"><!-- <noscript><img
 src="http://192.168.112.2O7.net/b/ss/LaxNws/1"
  height=1 width=1 border=0></noscript>
 <script language="JavaScript">
@@ -343,5 +526,5 @@ document.write(' --'+'>')
 </script> <!-- End SuperStats tracking code. --><!--New Release-->
 
 
-	<script>NetscapeAds();</script><layer src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adl/web.archive.org/inf;pos=t;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=468x60;tile=1;ord=120841053747063?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility='show';"></layer><layer src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adl/web.archive.org/inf;pos=l1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x90;tile=2;ord=120841053747063?" width="120" height="90" visibility="hidden" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=90;clip.width=120; visibility='show';"></layer><layer src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adl/web.archive.org/inf;pos=l2;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x90;tile=3;ord=120841053747063?" width="120" height="90" visibility="hidden" onload="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=90;clip.width=120; visibility='show';"></layer><layer src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adl/web.archive.org/inf;pos=r1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x600;tile=4;ord=120841053747063?" width="120" height="600" visibility="hidden" onload="moveToAbsolute(layer4.pageX,layer4.pageY);clip.height=600;clip.width=120; visibility='show';"></layer>
+	<script>NetscapeAds();</script><layer src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adl/web.archive.org/inf;pos=t;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=468x60;tile=1;ord=317068687041383?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility='show';"></layer><layer src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adl/web.archive.org/inf;pos=l1;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x90;tile=2;ord=317068687041383?" width="120" height="90" visibility="hidden" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=90;clip.width=120; visibility='show';"></layer><layer src="https://web.archive.org/web/20011021231149/http://ad.doubleclick.net/adl/web.archive.org/inf;pos=l2;sec1=200;sec2=htt;sec3=;sec4=dai;sec5=inf;sec6=pri;sz=120x90;tile=3;ord=317068687041383?" width="120" height="90" visibility="hidden" onload="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=90;clip.width=120; visibility='show';"></layer>
 </body></html>
