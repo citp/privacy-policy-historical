@@ -1,23 +1,18 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803000026id_/http%3A//www.consumeraffairs.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608203150id_/http%3A//www.consumeraffairs.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # ConsumerAffairs.Com Privacy Policy
 
 This is the web site of **ConsumerAffairs.Com Inc.** Our postal address is   
-**1620 L St., NW, Suite 875  
-Washington DC 20036**
+**400 N. Capitol St., Suite G-50  
+Washington DC 20001**
 
-We can be reached via e-mail at [consumer@consumeraffairs.com](mailto:consumer@consumeraffairs.com)  
-or you can reach us by telephone at 202 659-1020.
-
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20030608203150id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site. 
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page and used to notify consumers about updates to our Web site. 
 
 Consumer complaints filed by visitors to our site are retained indefinitely in a database intended to assist us in analyzing the performance of commercial vendors. Inquiries are sometimes forwarded to expert consultants, regulatory and law enforcement authorities and responsible members of the news media. Also, the information the consumer reports to us is reviewed by attorneys at no cost to the consumer and can be used in the course of prosecuting claims and therefore may become a part of an official court record and/or proceeding. 
-
-Consumers who file complaints are automatically added to the subscription list of our weekly newsletter, Consumer News & Alerts. If you do not want to receive this newsletter from us in the future, please let us know by sending us e-mail at the above address.
 
 We do not make the e-mail addresses of those who access our site available to commercial organizations for marketing purposes. 
 
