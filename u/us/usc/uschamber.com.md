@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607133213id_/http%3A//www.uschamber.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223181958id_/http%3A//www.uschamber.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for uschamber.com/uschamber.org
 
@@ -26,7 +26,7 @@ As a general matter, Non-Personally Identifiable Information helps us determine 
 
 Our Web site uses "cookies" (i.e., a small data file that our Web site writes to a user's hard drive) to help track your usage of our site, including what advertising you have seen. Uschamber.com's cookies do not include personal information about you, but they are unique to each user and include a member ID # (a randomly generated unique number) that enables the uschamber.com Web site to identify you when you visit, so you: (1) do not have to remember your username and password each time you visit the Web site; and (2) receive any personalized services you requested when you registered. 
 
-Neither our Web site, nor the cookies we write to the hard drives of our users, read any data off of your hard drive outside of our cookies. This includes not reading any cookie files created by other Web sites. You can refuse our cookies by turning them off in your browser (for more information on how to do this, please refer to your browser's documentation). You do not need to have cookies turned on in your browser to use our Web site; however, without cookies certain of the automated functions and features of our Web site will not be available to you. We also use cookies to measure the click through rate on e-mails delivered.
+Neither our Web site, nor the cookies we write to the hard drives of our users, read any data off of your hard drive outside of our cookies. This includes not reading any cookie files created by other Web sites. You can refuse our cookies by turning them off in your browser (for more information on how to do this, please refer to your browser's documentation). You do not need to have cookies turned on in your browser to use our Web site; however, without cookies certain automated functions and features of our Web site will not be available to you. We also use cookies to measure the click through rate on e-mails delivered.
 
 **Third Party use of personal information**
 
@@ -50,7 +50,7 @@ We want to help you protect your child’s privacy. We encourage you to talk to 
 
 **Correcting, Updating or Deleting Information**
 
-The uschamber.com Web site gives users the option, through automated procedures available on the Web site, to correct, update or delete any information previously provided to us by the user; however, we will maintain copies of user information to the extent retained as part of our Web site's standard backup/archive process. In addition, these procedures will not remove such of your information that has been provided by you to, or collected from you by, the Web sites of our business partners. We are not responsible for ensuring the removal or deletion from the Web sites of our business partners of your information provided by us to our business partners as permitted by you or otherwise in accordance with this Privacy Statement.
+The uschamber.com Web site gives users the option, through automated procedures available on the Web site, to correct, update or delete any information previously provided to us by the user; however, we will maintain copies of user information to the extent retained as part of our Web site's standard backup/archive process. In addition, these procedures will not remove your information that has been provided by you to, or collected from you by, the Web sites of our business partners. We are not responsible for ensuring the removal or deletion from the Web sites of our business partners of your information provided by us to our business partners as permitted by you or otherwise in accordance with this Privacy Statement.
 
 **P3P Compliant**
 
