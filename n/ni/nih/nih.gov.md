@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nih.gov privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401224956id_/http%3A//www.nih.gov/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nih.gov privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015093925id_/http%3A//www.nih.gov/about/privacy.htm) for the most accurate reproduction.*
 
 # NIH: About NIH : Privacy Notice
 
@@ -13,4 +13,4 @@ Requests to send cookies from NIH Web pages are not designed to collect informat
 
 To protect your privacy, be sure to close your browser completely after you have finished conducting business with a Web site that uses cookies. If you are concerned about the potential use of information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies.
 
-Questions about NIH privacy policies should be sent to the [NIH Privacy Act Officer](mailto:wheelest@od.nih.gov). 
+Questions about NIH privacy policies should be sent to the [NIH Privacy Act Officer](mailto:NIHPrivacyActOfficer@od.nih.gov). 
