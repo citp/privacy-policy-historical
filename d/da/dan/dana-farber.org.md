@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207010803id_/http%3A//www.dana-farber.org/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207021732id_/http%3A//www.dana-farber.org/privacypolicy.asp) for the most accurate reproduction.*
 
 # Cancer research, cancer information, cancer patient care, cancer news
 
