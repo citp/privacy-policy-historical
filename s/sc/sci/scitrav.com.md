@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606092145id_/http%3A//www.scitrav.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208063148id_/http%3A//www.scitrav.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Science Traveller International
 
@@ -33,14 +33,14 @@ When purchasing or exchanging sensitive information on-line, security is a prima
 
 We use [LinkPoint](http://www.linkpoint.com/), a leading provider of Internet payment technologies, to verify and process credit cards. All transactions with LinkPoint are safe and secure, and cannot be read by third parties. We do NOT keep a copy of your credit card number. 
 
-|  [ ](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=3578b71df9cb4b83c0c210ee107780c8)  
+|  [ ](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&type=GOLD&sealid=2&dn=WWW.SCITRAV.COM&lang=en)  
 ---|---  
   
 **Security**  
 The security of your personal information is very important to us and we are committed to protecting any information we collect. STI uses firewalls and fraud protection, and has security measures in place at its physical facilities to protect against the loss, misuse, or alteration of information collected from you at our web site. 
 
 **Contacting Us**  
-For any questions about our products, services, website or privacy policy, please contact: 
+For enquiries about our products, services, website or privacy policy, please contact: 
 
 **USA** |  **International**  
 ---|---  
@@ -59,7 +59,7 @@ Fax: +613-5441-4897
   
 Don't forget to [visit our Contents Page](http://www.scitrav.com/) for other resources and downloads at our web site.  
 [](http://www.scitrav.com/)  
-Last updated February 22, 2004.
+Last updated June 26, 2004.
 
 [ About Science Traveller International](http://www.scitrav.com/aboutsti.htm) [ Contact Us](http://www.scitrav.com/contact.asp?q=info)
 
