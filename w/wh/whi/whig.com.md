@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405114849id_/http%3A//www.whig.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213044702id_/http%3A//www.whig.com/privacy_policy.php) for the most accurate reproduction.*
 
 # The Quincy Herald-Whig - Privacy Policy
 
