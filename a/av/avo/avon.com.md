@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avon.com privacy policy that was archived on 1999-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991104004639id_/http%3A//www.avon.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619125022id_/http%3A//www.avon.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # AVON.COM: Conditions of Website Use
 
