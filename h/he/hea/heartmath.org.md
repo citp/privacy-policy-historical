@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208163315id_/http%3A//heartmath.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606021752id_/http%3A//heartmath.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Institute of HeartMath privacy policy statement
 
