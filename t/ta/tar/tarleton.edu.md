@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the tarleton.edu privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603123921id_/http%3A//www.tarleton.edu/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarleton.edu privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217014754id_/http%3A//www.tarleton.edu/main/privacy.html) for the most accurate reproduction.*
 
 # WWW Privacy Policy--Tarleton State University
 
-Thank you for visiting the Tarleton State University Web Page.  During your visit to our site, we will not collect personal information from you unless you provide it. 
+Thank you for visiting the Tarleton State University Web Page. 
+
+State Law requires that users of this site be informed that this site collects the following information about users: 
+
+During your visit to our site, we will not collect personal information from you unless you provide it. 
 
 If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically.  This information does not identify you personally.  We automatically collect and store the following information about your visit for statistical purposes: 
 
@@ -19,6 +23,8 @@ If you do nothing during your visit but browse through the website, read pages, 
 We collect this information to measure the number of visitors to the different sections of our site and to make our site more useful to visitors. 
 
 Throughout our website, you may choose to submit personal information to our website either through email or forms.  This information may be seen by various people and may be retained either in electronic or paper format.  Also, email is not secure against interception.  For your own protection, you may wish to contact Tarleton State University directly if your submission includes sensitive information such as your social security number or credit card number. 
+
+On forms where you submit personal information, state law requires that you be informed of the following: (1) You are entitled to request to be informed about the information about yourself collected by use of this form (with a few exceptions as provided by law); (2) you are entitled to receive and review that information; and (3) you are entitled to have the information corrected at not charge to you. 
 
 Personal information collected by Tarleton State University via email and forms will not be sold or transferred to third parties without your permission or as otherwise provided by law. 
 
