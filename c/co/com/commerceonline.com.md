@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095144id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602203847id_/http%3A//commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
 
 # Banking-Commerce-Privacy Policy
 
   
 **Privacy & Security**  
-Commerce Bancorp, Inc., consists of a number of related companies called affiliates. These affiliated companies consist of the Commerce Banks, Commerce National Insurance Services, Inc., Commerce National Insurance Brokerage Services/New York, Inc., and Commerce Capital Markets, Inc. In order to bring you the financial products and services you want and expect, information about current and former customers is shared among the Commerce-affiliated companies. 
+Commerce Bancorp, Inc., consists of a number of related companies called affiliates. These affiliated companies consist of the Commerce Banks, Commerce Capital Markets, Inc., Commerce Insurance Services, Inc., in the state of New York, Commerce National Insurance Brokerage Services, and Commerce National Insurance Brokerage Services/New York, Inc. In order to bring you the financial products and services you want and expect, information about current and former customers is shared among the Commerce-affiliated companies. 
 
 This notice provides detail about the information we collect and disclose, and explains how we handle privacy as it relates to you and your accounts. 
 
@@ -76,33 +76,3 @@ If you believe we have reported inaccurate information about your account to any
 
 **It's Your Choice**  
 Commerce offers a wide array of financial products and services designed to meet your financial goals. We periodically review information regarding our customers' accounts and transactions to select the names, addresses (including e-mail addresses) and telephone numbers of customers to receive special offers of products or services that we believe will be of interest to our customers. We recognize, however, that you might have preferences about how we contact you to let you know about them. Regarding your **non-public, personal** information, such as credit reports and application information, you may also prefer for us not to share it among our Commerce-affiliated companies. Additionally, you may prefer that we not share information with the **non-affiliated, third-party** companies we select to provide products and services that we do not. If you do not want us to share your information for any of these purposes or communicate offers to you, call us at 1-888-937-1050 or [click here](https://secure.commerceonline.com/forms/www/special_offers_status.cfm) to complete our online form. If you have previously informed us of your preference, you do not need to do so again. If there are multiple owners on an account, product or policy, any one of them may request on behalf of any or all of the fellow owners that their information is not to be shared or their names removed from our mailing lists. 
-
-* * *
-
-* * *
-
-[Home](http://www.commerceonline.com/) | [MyCommerceOnline](http://my.commerceonline.com/) | [Customer Service](http://bank.commerceonline.com/information/customer_service/index.cfm)  
-[Banking](http://bank.commerceonline.com/) | [Investments](http://invest.commerceonline.com/) | [Insurance](http://insure.commerceonline.com/) | [Calculators](http://www.commerceonline.com/financial_calculators.cfm) | [Join Our Team](http://www.commerceonline.com/apply_for_a_job/index.cfm)  
-[Locations & Hours](http://bank.commerceonline.com/information/branch_locations/index.cfm) | [Inside Commerce](http://www.commerceonline.com/inside_commerce/index.cfm) | [Investor Relations](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=cbh&script=2100) | [Site Map](http://www.commerceonline.com/general_site_map/index.cfm) | [E-mail Us](https://secure.commerceonline.com/forms/bank/general_cb.cfm)
-
-* * *
-
-1-888-751-9000   
-
-
-Investment & Insurance Products:  
----  
-| Not Insured by FDIC or  
-Any Federal Government  
-Agency | May Lose  
-Value | Not a Deposit of or  
-Guaranteed by the Bank or  
-Any Bank Affiliate  
----|---|---  
-Commerce Capital Markets, Inc., is a registered broker-dealer and a member  
-of the National Association of Securities Dealers (NASD) and the  
-Securities Investor Protection Corporation (SIPC).  
-  
-Clicking on any of these links will take you out of the Commerce Bancorp website: Quicken TurboTax, TimeValue Software, any calculator link, most Commerce In The News article links, Check Card Visa Savings/Rewards, Small Group Life Insurance, InvestView Logon, Trading Logon and Investor Relations. Commerce does not control the content on the sites listed. Commerce is not responsible for, nor do we endorse, any content or material on this list of sites.
-
-###### Copyright © 2001, 2002 Commerce Bank
