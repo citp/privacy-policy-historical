@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soliddocuments.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207151226id_/http%3A//www.soliddocuments.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soliddocuments.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604202539id_/http%3A//www.soliddocuments.com/privacy.htm) for the most accurate reproduction.*
 
 # SolidDocuments - Screen capture and document conversion software
 
