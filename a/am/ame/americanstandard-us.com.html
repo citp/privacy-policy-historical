@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the americanstandard-us.com privacy policy that was archived on 2004-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610015538id_/http%3A//www.americanstandard-us.com/legal.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americanstandard-us.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208222130id_/http%3A//www.americanstandard-us.com/legal.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -41,6 +41,29 @@
 	A.grey:hover  {
 		color : #0000FF;
 	}
+
+	
+	A.white:link  {
+		color : #ffffff;
+		text-decoration : none;
+	}
+
+	A.white:visited  {
+		color : #ffffff;
+		text-decoration : none;
+	}
+
+	A.white:active  {
+		color : #ffffff;
+		text-decoration : underline;
+	}
+
+	A.white:hover  {
+		color : #ffffff;
+		text-decoration : underline;
+	}
+
+
 	
 	A.home:link  {
 	color : #7B7B4D;
@@ -400,7 +423,36 @@ function MM_findObj(n, d) { //v4.01
 }
 //-->
 </script>
-
+<script>
+//-------------------------------------------------------------------
+// Trim functions
+//   Returns string with whitespace trimmed
+//-------------------------------------------------------------------
+function LTrim(str){
+	if (str==null){return null;}
+	for(var i=0;str.charAt(i)==" ";i++);
+	return str.substring(i,str.length);
+	}
+function RTrim(str){
+	if (str==null){return null;}
+	for(var i=str.length-1;str.charAt(i)==" ";i--);
+	return str.substring(0,i+1);
+	}
+function Trim(str){return LTrim(RTrim(str));}
+function LTrimAll(str) {
+	if (str==null){return str;}
+	for (var i=0; str.charAt(i)==" " || str.charAt(i)=="\n" || str.charAt(i)=="\t"; i++);
+	return str.substring(i,str.length);
+	}
+function RTrimAll(str) {
+	if (str==null){return str;}
+	for (var i=str.length-1; str.charAt(i)==" " || str.charAt(i)=="\n" || str.charAt(i)=="\t"; i--);
+	return str.substring(0,i+1);
+	}
+function TrimAll(str) {
+	return LTrimAll(RTrimAll(str));
+	}
+</script>
 
 <!--#updatesessioninclude virtual="/includes/functions.asp"-->
 
@@ -442,7 +494,7 @@ function MM_findObj(n, d) { //v4.01
 				<option value="">by collection</option>
 				<option value="1">---------------------</option>
 
-<option value="1">Amarilis</option><option value="2">Antiquity</option><option value="55">Archive</option><option value="4">Cadet</option><option value="7">Ceramix</option><option value="52">Culinaire</option><option value="19">Ellisse</option><option value="20">Enfield</option><option value="25">Heritage</option><option value="28">Lexington</option><option value="51">Ravenna</option><option value="34">Reminiscence</option><option value="35">Repertoire</option><option value="40">Savona</option><option value="56">Standard</option><option value="50">Town Square</option><option value="59">Williamsburg</option>
+<option value="1">Amarilis</option><option value="2">Antiquity</option><option value="55">Archive</option><option value="4">Cadet</option><option value="7">Ceramix</option><option value="52">Culinaire</option><option value="19">Ellisse</option><option value="20">Enfield</option><option value="44">Hamilton</option><option value="25">Heritage</option><option value="28">Lexington</option><option value="51">Ravenna</option><option value="34">Reminiscence</option><option value="35">Repertoire</option><option value="61">Retrospect</option><option value="40">Savona</option><option value="56">Standard</option><option value="50">Town Square</option><option value="59">Williamsburg</option>
 
 
 		</select></font></td>
@@ -519,7 +571,7 @@ function MM_findObj(n, d) { //v4.01
 	</td>
   </tr>
 </tbody></table>
-
+ 
 <!--- PAGE GUTS ::  below the navigation --->
   <table width="740" border="0" cellpadding="0" cellspacing="0">
     <tbody><tr>
@@ -557,126 +609,278 @@ function MM_findObj(n, d) { //v4.01
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td><img src="/images/speck.gif" width="20" height="1" alt="" border="0"></td>
-				<td><br>
-                  <font face="Verdana,sans-serif" size="1"><span class="bodyText"> 
-	 
+				<td><font face="Verdana,sans-serif" size="1"><span class="bodyText">
+<strong>AMERICAN STANDARD COMPANIES, INC.</strong>
+<br>
+<strong>PRIVACY POLICY </strong>
+<br><br>
+American Standard Companies, Inc. ("American Standard") respects 
+individual privacy and values the confidence of its customers, employees, 
+vendors, consumers, business partners and others. American Standard strives to 
+collect, use and disclose Personal information in a manner consistent with the 
+laws of the countries in which it does business, and has a tradition of 
+upholding the highest ethical standards in its business practices. American 
+Standard abides by the Safe Harbor Principles developed by the U.S. Department 
+of Commerce and the European Commission and the Frequently Asked Questions 
+(FAQs) issued by the Department of Commerce on July 21, 2000. This Safe Harbor 
+Privacy Policy (the "Policy") sets forth the privacy principles that American 
+Standard follows with respect to transfers of Personal information anywhere in 
+the world, including transfers from the European Economic Area (EEA) (which 
+includes the twenty-five member states of the European Union (EU) plus 
+Iceland, Liechtenstein and Norway to the United 
+States.
+<br><br>
+<strong>I. SAFE HARBOR</strong>
+<br>The United States Department of Commerce and the European Commission have 
+agreed on a set of data protection principles and frequently asked questions 
+(the "Safe Harbor Principles") to enable US companies to satisfy the requirement 
+under European Union law that adequate protection be given to Personal 
+information transferred from the EU to the United States. 
+The EEA also has recognized the US Safe Harbor as providing adequate data 
+protection (OJ L 45, 15.2.2001, p.47). Consistent with its commitment to protect 
+Personal privacy, American Standard adheres to the Safe Harbor 
+Principles.
+<br><br>
+American Standard has a Chief Privacy Officer who is responsible for 
+American Standard's compliance with and enforcement of this Policy. American 
+Standard also has a Global Director of Data Protection who assists in ensuring 
+compliance with this Policy and data security issues. American Standard educates 
+its employees concerning compliance with this Policy and has self-assessment 
+procedures in place to assure compliance. American Standard's Chief Privacy 
+Officer Barbara A. Sellinger, Global Director of Data Protection William H. 
+Murray, and Corporate Legal Team are available to any of its valued employees, 
+customers, vendors, business partners or others who may have questions 
+concerning this Policy or data security practices. Relevant contact information 
+is provided herein.
+<br><br>
+<strong>II. SCOPE</strong>
+<br>This Policy applies to all Personal information received by American 
+Standard in any format including electronic, paper or verbal. American Standard 
+collects and processes Personal information concerning current and former 
+employees and their respective family members, as well as applicants for 
+employment through its Internet websites, its intranet site, electronic mail and 
+manually. American Standard is the sole owner of information it collects from 
+current and former employees, applicants for employment, customers, vendors and 
+others. American Standard will not sell or share this information with third 
+parties in ways different than what is disclosed in this Privacy Policy. On a 
+global basis, American Standard will, and will cause its affiliates to, 
+establish and maintain business procedures that are consistent with this 
+Policy.
+<br><br>
+Personal information collected by American Standard from employees and 
+applicants for employment is maintained at its corporate offices in Piscataway, New Jersey
+in the United States as well as the local office of the 
+employee or applicant. American Standard collects Personal information for, 
+among other things, legitimate human resource business reasons such as payroll 
+administration; filling employment positions; administration and operations of 
+its benefit programs; meeting governmental reporting requirements; security, 
+health and safety management; performance management; company network access; 
+and authentication. American Standard does not request or gather information 
+regarding political opinions, religion, philosophy or sexual preference. To the 
+extent American Standard maintains information on an individual’s medical health 
+or ethnicity (as legally required), American Standard will protect, secure and 
+use that information in a manner consistent with this Policy and any applicable 
+law.
+<br><br>
+Personal information collected by American Standard from prospective 
+customers, consumers, vendors, business partners and others may be maintained at 
+its corporate offices in Piscataway, New Jersey or at other American Standard facilities. 
+American Standard collects Personal information for, among other things, 
+legitimate business reasons such as customer service; product, warranty and 
+claims administration; meeting governmental reporting and records requirements; 
+maintenance of accurate accounts payable and receivable records; internal 
+marketing research; safety and performance management; financial and sales data; 
+and contact information. All Personal information collected by American Standard 
+will be used for legitimate business purposes consistent with this 
+Policy.
+<br><br>
+<strong>III. DEFINITIONS</strong>
+<br>
+For purposes of this Policy, the following definitions shall 
+apply:
+<br><br>
+ - "Agent" means any third party that uses Personal information provided by 
+American Standard to perform tasks on behalf of or at the instruction of 
+American Standard.
+<br><br>
+ - "American Standard" means American Standard Companies, Inc., its 
+predecessors, successors, subsidiaries, divisions and groups.
+<br><br>
+ - "Personal information" means any information or set of information that 
+identifies or could be used by or on behalf of American Standard to identify an 
+individual. Personal information does not include information that is encoded or 
+anonymized, or publicly available information that has not been combined with 
+non-public Personal information.
+<br><br>
+ - "Sensitive Personal information" means Personal information that reveals 
+race, ethnic origin, trade union membership, or that concerns health. In 
+addition, American Standard will treat as sensitive Personal information any 
+information received from a third party where that third party treats and 
+identifies the information as sensitive.
+<br><br>
+<strong>IV. PRIVACY PRINCIPLES</strong>
+<br>
+The privacy principles in this Policy are based on the seven Safe Harbor 
+Principles.
+<br><br>
+(1) NOTICE: Where American Standard collects Personal information 
+directly from individuals, it will inform them about the purposes for which it 
+collects and uses Personal information about them, the types of non-agent third 
+parties to which American Standard discloses that information, and the choices 
+and means, if any, American Standard offers individuals for limiting the use and 
+disclosure of their Personal information. Notice will be provided in clear and 
+conspicuous language when individuals are first asked to provide Personal 
+information to American Standard, or as soon as practicable thereafter, and in 
+any event before American Standard uses the information for a purpose other than 
+that for which it was originally collected. American Standard may disclose 
+Personal information if required to do so by law or to protect and defend the 
+rights or property of American Standard.
+<br><br>
+(2) CHOICE: American Standard will offer individuals the opportunity to 
+choose (opt-out) whether their Personal information is (a) to be disclosed to a 
+non-agent third party, or (b) to be used for a purpose other than the purpose 
+for which it was originally collected or subsequently authorized by the 
+individual.
+<br><br>
+For sensitive Personal information, American Standard will give 
+individuals the opportunity to affirmatively and explicitly (opt-in) consent to 
+the disclosure of the information to a non-agent third party or the use of the 
+information for a purpose other than the purpose for which it was originally 
+collected or subsequently authorized by the individual.
+<br><br>
+American Standard will provide individuals with reasonable mechanisms to 
+exercise their choices should requisite circumstances arise.
+<br><br>
+(3) DATA INTEGRITY: American Standard will use Personal information only 
+in ways that are compatible with the purposes for which it was collected or 
+subsequently authorized by the individual. American Standard will take 
+reasonable steps to ensure that Personal information is relevant to its intended 
+use, accurate, complete and current.
+<br><br>
+(4) TRANSFERS TO AGENTS: American Standard will obtain assurances from 
+its Agents that they will safeguard Personal information consistently with this 
+Policy. Examples of appropriate assurances that may be provided by Agents 
+include: a contract obligating the Agent to provide at least the same level of 
+protection as is required by the relevant Safe Harbor Principles, being subject 
+to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor 
+certification by the Agent, or being subject to another European Commission 
+adequacy finding (e.g., companies located in Switzerland). Where American 
+Standard has knowledge that an Agent is using or disclosing Personal information 
+in a manner contrary to this Policy, American Standard will take reasonable 
+steps to prevent or stop the use or disclosure. American Standard holds it 
+Agents accountable for maintaining the trust our employees and customers place 
+in the company.
+<br><br>
+(5) ACCESS AND CORRECTION: Upon request, American Standard will grant 
+individuals reasonable access to Personal information that it holds about them. 
+In addition, American Standard will take reasonable steps to permit individuals 
+to correct, amend or delete information that is demonstrated to be inaccurate or 
+incomplete. Any employees that desire to review or update their Personal 
+information can do so by contacting their local Human Resources 
+Representative.
+<br><br>
+(6) SECURITY: American Standard will take reasonable precautions to 
+protect Personal information in its possession from loss, misuse and 
+unauthorized access, disclosure, alteration and destruction. American Standard 
+protects data in many ways. Physical security is designed to prevent 
+unauthorized access to database equipment and hard copies of sensitive Personal 
+information. Electronic security measures continuously monitor access to our 
+servers and provide protection from hacking or other unauthorized access from 
+remote locations. This protection includes the use of firewalls, restricted 
+access and encryption technology. American Standard limits access to Personal 
+information and data to those persons in American Standard's organization, or as 
+agents of American Standard, that have a specific business purpose for 
+maintaining and processing such Personal information and data. Individuals who 
+have been granted access to Personal information are aware of their 
+responsibilities to protect the security, confidentiality and integrity of that 
+information and have been provided training and instruction on how to do 
+so.
+<br><br>
+(7) ENFORCEMENT: American Standard will conduct compliance audits of its 
+relevant privacy practices to verify adherence to this Policy and the US 
+Department of Commerce Safe Harbor Principles. Any employee that American 
+Standard determines is in violation of this Policy will be subject to 
+disciplinary action up to and including termination of employment.
+<br><br>
+<strong>V. DISPUTE RESOLUTION</strong>
+<br>
+Any questions or concerns regarding the use or disclosure of Personal 
+information should be directed to the American Standard Privacy Office at the 
+address given below. American Standard will investigate and attempt to resolve 
+complaints and disputes regarding use and disclosure of Personal information in 
+accordance with the principles contained in this Policy. For complaints that 
+cannot be resolved between American Standard and the complainant, American 
+Standard has agreed to participate in the dispute resolution procedures of the 
+panel established by the European data protection authorities to resolve 
+disputes pursuant to the Safe Harbor Principles.
+<br><br>
+<strong>VI. INTERNET PRIVACY</strong>
+<br><br>
+American Standard sees the Internet, intranets and the use of other 
+technologies as valuable tools for communicating and interacting with consumers, 
+employees, vendors, business partners and others. American Standard recognizes 
+the importance of maintaining the privacy of Personal information collected 
+through websites that it operates. American Standard's sole purpose for 
+operating its websites is to provide information concerning products and 
+services to the public. In general, visitors can reach American Standard on the 
+Web without revealing any Personal information. Visitors on the Web may elect to 
+voluntarily provide Personal information via American Standard websites but are 
+not required to do so. American Standard collects information from visitors to 
+the websites who voluntarily provide Personal information by filling out and 
+submitting online questionnaires concerning feedback on the website, requesting 
+information on products or services, or seeking employment. The Personal 
+information voluntarily provided by website users is contact information limited 
+to the user's name, home and/or business address, phone numbers and email 
+address. American Standard collects this information so it may answer questions 
+and forward requested information. American Standard does not sell or share this 
+information with non-agent third parties.
+<br><br>
+American Standard may also collect anonymous information concerning 
+website users through the use of "cookies" in order to provide better customer 
+service. "Cookies" are small files that websites place on users’ computers to 
+identify the user and enhance the website experience. None of this information 
+is reviewed at an individual level. Visitors may set their browsers to provide 
+notice before they receive a cookie, giving the opportunity to decide whether to 
+accept the cookie. Visitors can also set their browsers to turn off cookies. If 
+visitors do so, however, some areas of American Standard websites may not 
+function properly.
+<br><br>
+Few, if any, of American Standard's websites are directed toward 
+children. Nevertheless, American Standard is committed to complying with 
+applicable laws and requirements, such as the United States' 
+Children's Online Privacy Protection Act ("COPPA").
+<br><br>
+American Standard website users have the option to request that American 
+Standard not use information previously provided, correct information previously 
+provided, or remove information previously provided to American Standard. Those 
+that would like to correct or suppress information they have provided to 
+American Standard should forward such inquiries to:
+<br><br>
+American Standard Companies Privacy Inquiries
+<br>One Centennial Avenue
+<br>Piscataway, New Jersey  08855-6820
+<br>Attention: William H. Murray, Global Director of Data Protection
+<br><br>
+The inquiries should include the individual's name, address, and other 
+relevant contact information (phone number, email address). American Standard 
+will use all reasonable efforts to honor such requests as quickly as 
+possible.
+<br><br>
+American Standard websites may contain links to other "non-American 
+Standard" websites. American Standard assumes no responsibility for the content 
+or the privacy policies and practices on those websites. American Standard 
+encourages all users to read the privacy statements of those sites; their 
+privacy practices may differ from those of American Standard.
+<br><br>
+<strong>VII. CHANGES TO THIS SAFE HARBOR PRIVACY POLICY</strong>
+<br>
+The practices described in this Policy are current Personal data 
+protection policies as of June 18, 2004. American Standard reserves the right to 
+modify or amend this Policy at any time consistent with the requirements of the 
+Safe Harbor Principles. Appropriate public notice will be given concerning such 
+amendments.<br><br><br><br>
+</span></font>
 
-<b>AMERICAN STANDARD COMPANIES, INC.<br>
-PRIVACY POLICY</b><br>
-<br>
-American Standard Companies, Inc. ("American Standard") respects individual privacy and values the confidence of its customers, employees, vendors, consumers, business partners and others. American Standard strives to collect, use and disclose Personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices. American Standard abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the Frequently Asked Questions (FAQs) issued by the Department of Commerce on July 21, 2000. This Safe Harbor Privacy Policy (the "Policy") sets forth the privacy principles that American Standard follows with respect to transfers of Personal information anywhere in the world, including transfers from the European Economic Area (EEA) (which includes the fifteen member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States.<br>
-<br>
-
-<b>I. SAFE HARBOR</b><br>
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to Personal information transferred from the EU to the United States. The EEA also has recognized the U.S. Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). Consistent with its commitment to protect Personal privacy, American Standard adheres to the Safe Harbor Principles.<br>
-<br>
-American Standard has a Chief Privacy Officer who is responsible for American Standard's compliance with and enforcement of this Policy. American Standard also has a Global Director of Data Protection who assists in ensuring compliance with this Policy and data security issues. American Standard educates its employees concerning compliance with this Policy and has self-assessment procedures in place to assure compliance. American Standard's Chief Privacy Officer Barbara A. Sellinger, Global Director of Data Protection Hugh C. Welsh, and Corporate Legal Team are available to any of its valued employees, customers, vendors, business partners or others who may have questions concerning this Policy or data security practices. Relevant contact information is provided herein.<br>
-<br>
-
-<b>II.	  SCOPE</b><br>
-This Policy applies to all Personal information received by American Standard in any format including electronic, paper or verbal. American Standard collects and processes Personal information concerning current and former employees and their respective family members, as well as applicants for employment through its Internet web-sites, its Intranet site, electronic mail and manually. American Standard is the sole owner of information it collects from current and former employees, applicants for employment, customers, vendors and others. American Standard will not sell or share this information with third parties in ways different than what are disclosed in this Privacy Policy. On a global basis, American Standard will, and will cause its affiliates to, establish and maintain business procedures that are consistent with this Policy.<br>
-<br>
-
-Personal information collected by American Standard from employees and applicants for employment is maintained at its corporate offices in Piscataway, New Jersey in the United States as well as the local office of the employee or applicant. American Standard collects Personal information for, among other things, legitimate human resource business reasons such as payroll administration, to fill employment positions, maintaining accurate benefits records, meeting governmental reporting requirements, security, health and safety management, performance management, company network access and authentication. American Standard does not request or gather information regarding political opinions, religion, philosophy or sexual preference. To the extent American Standard maintains information on an individuals medical health or ethnicity (as legally required) American Standard will protect, secure and use that information consistent with this Policy.<br>
-<br>
-
-Personal information collected by American Standard from prospective customers, consumers, vendors, business partners and others may be maintained at its corporate offices in Piscataway, New Jersey or at other American Standard facilities. American Standard collects Personal information for, among other things, legitimate business reasons such as customer service, product, warranty and claims administration, meeting governmental reporting and records requirements, maintenance of accurate accounts payable and receivable records, internal marketing research, safety and performance management, financial and sales data, and contact information. All Personal information collected by American Standard will be used for legitimate business purposes consistent with this Policy.<br>
-<br>
-
-
-
-<b>III.	  DEFINITIONS</b><br>
-For purposes of this Policy, the following definitions shall apply:
-<br>
-<br>
- - "Agent" means any third party that uses Personal information provided by American Standard to perform tasks on behalf of or at the instruction of American Standard.
-<br>
-<br>
- - "American Standard" means American Standard Companies, Inc., its predecessors, successors, subsidiaries, divisions and groups.
-<br>
-<br>
- - "Personal information" means any information or set of information that identifies or could be used by or on behalf of American Standard to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non?public Personal information.
-<br>
-<br>
- - "Sensitive Personal information" means Personal information that reveals race, ethnic origin, trade union membership, or that concerns health. In addition, American Standard will treat as sensitive Personal information any information received from a third party where that third party treats and identifies the information as sensitive.
-<br>
-<br>
-
-<b>IV.	  PRIVACY PRINCIPLES</b><br>
-The privacy principles in this Policy are based on the seven Safe Harbor Principles.<br>
-<br>
-(1)	  NOTICE: Where American Standard collects Personal information directly from individuals, it will inform them about the purposes for which it collects and uses Personal information about them, the types of non?agent third parties to which American Standard discloses that information, and the choices and means, if any, American Standard offers individuals for limiting the use and disclosure of their Personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal information to American Standard, or as soon as practicable thereafter, and in any event before American Standard uses the information for a purpose other than that for which it was originally collected. American Standard may disclose Personal information if required to do so by law or to protect and defend the rights or property of American Standard.<br>
-<br>
-
-(2)	  CHOICE: American Standard will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non?agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.<br>
-<br>
-
-For sensitive Personal information, American Standard will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.<br>
-<br>
-
-American Standard will provide individuals with reasonable mechanisms to exercise their choices should requisite circumstances arise.<br>
-<br>
-
-(3)	  DATA INTEGRITY: American Standard will use Personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. American Standard will take reasonable steps to ensure that Personal information is relevant to its intended use, accurate, complete, and current.<br>
-<br>
-
-(4)	  TRANSFERS TO AGENTS: American Standard will obtain assurances from its Agents that they will safeguard Personal information consistently with this Policy. Examples of appropriate assurances that may be provided by Agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding (e.g., companies located in Hungary and Switzerland). Where American Standard has knowledge that an Agent is using or disclosing Personal information in a manner contrary to this Policy, American Standard will take reasonable steps to prevent or stop the use or disclosure. American Standard holds it Agents accountable for maintaining the trust our employees and customers place in the company.<br>
-<br>
-
-(5)	  ACCESS AND CORRECTION: Upon request, American Standard will grant individuals reasonable access to Personal information that it holds about them. In addition, American Standard will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Any employee that desires to review or update their Personal information can do so by contacting their local Human Resources Representative.<br>
-<br>
-
-(6)	  SECURITY: American Standard will take reasonable precautions to protect Personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. American Standard protects data in many ways. Physical security is designed to prevent unauthorized access to database equipment and hard copies of sensitive Personal information. Electronic security measures continuously monitor access to our servers and provide protection from hacking or other unauthorized access from remote locations. This protection includes the use of firewalls, restricted access and encryption technology. American Standard limits access to Personal information and data to those persons in American Standard's organization, or as agents of American Standard, that have a specific business purpose for maintaining and processing such Personal information and data. Individuals who have been granted access to Personal information are aware of their responsibilities to protect the security, confidentiality and integrity of that information and have been provided training and instruction on how to do so.<br>
-<br>
-
-(7)	  ENFORCEMENT: American Standard will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy and the U.S. Department of Commerce Safe Harbor Principles. Any employee that American Standard determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment.<br>
-<br>
-
-
-
-<b>V.	DISPUTE RESOLUTION </b><br>
-Any questions or concerns regarding the use or disclosure of Personal information should be directed to the American Standard Privacy Office at the address given below. American Standard will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between American Standard and the complainant, American Standard has agreed to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Safe Harbor Principles.<br>
-<br>
-
-<b>VI.	  INTERNET PRIVACY</b><br>
-American Standard sees the Internet, Intranets and the use of other technologies as valuable tools for communicating and interacting with consumers, employees, vendors, business partners, and others. American Standard recognizes the importance of maintaining the privacy of Personal information collected through web sites that it operates. American Standard's sole purpose for operating its web-sites is to provide information concerning products and services to the public. In general, visitors can reach American Standard on the Web without revealing any Personal information. Visitors on the Web may elect to voluntarily provide Personal information via American Standard web-sites but are not required to do so. American Standard collects information from visitors to the web-sites who voluntarily provide Personal information by filing out and submitting on-line questionnaires concerning feedback on the web-site, requesting information on products or services, or seeking employment. The Personal information voluntarily provided by web-site users is contact information limited to the user's name, home and/or business address, phone numbers and e-mail address. American Standard collects this information so that it may answer questions and forward requested information. American Standard does not sell or share this information with non-agent third parties.<br>
-<br>
-
-American Standard may also collect anonymous information concerning web-site users through the use of "cookies" in order to provide better customer service. "Cookies" are small files that web-sites place on users computers to identify the user and enhance the web-site experience. None of this information is reviewed at an individual level. Visitors may set their browsers to provide notice before they receive a cookie, giving them opportunity to decide whether to accept the cookie. A visitor can also set their browser to turn off cookies. If visitors do so, however, some areas of American Standard web-sites may not function properly.<br>
-<br>
-
-Few, if any, of American Standard's web-sites are directed toward children. Nevertheless, American Standard is committed to complying with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act ("COPPA").<br>
-<br>
-
-American Standard web-site users have the option to request that American Standard not use information previously provided, correct information previously provided, or remove information previously provided to American Standard. Those that would like to correct or suppress information they have provided to American Standard should forward such inquiries to:<br>
-<br>
-<i>	American Standard Companies Privacy Inquiries<br>
-	One Centennial Avenue<br>
-	Piscataway, New Jersey<br>
-	08855-6820<br>
-	Attention: Hugh C. Welsh, Global Director of Data Protection<br>
-	<br></i>
-
-The inquiries should include the individual's name, address, and other relevant contact information (phone number, e-mail address). American Standard will use all reasonable efforts to honor such requests as quickly as possible.<br>
-<br>
-
-American Standard web-sites may contain links to other "non-American Standard" web-sites. American Standard assumes no responsibility for the content or the privacy policies and practices on those web-sites. American Standard encourages all users to read the privacy statements of those sites; their privacy practices may differ from those of American Standard.<br>
-<br>
-
-<b>VII.	  CHANGES TO THIS SAFE HARBOR PRIVACY POLICY</b><br>
-The practices described in this Policy are current Personal data protection policies as of December 31, 2001. American Standard reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning such amendments.
-
-
-
-                  
-				  
-				  
-				  
-				  
-				  </span></font><br>
-                  <br>
-
-	
 				</td>
 				<td><img src="/images/speck.gif" width="20" height="1" alt="" border="0"></td>
 			</tr>
@@ -742,7 +946,9 @@ The practices described in this Policy are current Personal data protection poli
             &nbsp;|&nbsp; <a href="/wish.asp" class="darkClr">my wishlist</a> 
             &nbsp;|&nbsp; <a href="/sitemap.asp" class="darkClr">sitemap</a> &nbsp;|&nbsp; 
             <a href="/buy/Lit.asp" class="darkClr">order literature</a> &nbsp;|&nbsp; 
-            <a href="/buy/D_locator.asp" class="darkClr">store locator</a> &nbsp;&nbsp;&nbsp;</font></td>
+			
+           		 <a href="/buy/D_locator.asp" class="darkClr">store locator</a> &nbsp;&nbsp;&nbsp;</font></td>
+			
         </tr>
       </tbody></table></td>
   </tr>
@@ -794,7 +1000,7 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_w_d2.gif" alt="" border="0"></a><a target="_top" href="/buy/Lit.asp" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_w_orderLit.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_w_d3.gif" alt="" border="0"></a><a target="_top" href="/buy/promo_uglybathroom_entry_splash.asp" onmouseout="MM_swapImgRestore();
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_w_d3.gif" alt="" border="0"></a><a target="_top" href="/buy/promotions/default.asp" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_w_promotions.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_w_d3.gif" alt="" border="0"></a><a target="new" href="http://asd.merchandiseshop.com/plumbing/default.asp?storeID=plumbing&amp;fromID=notcorp&amp;cid=20020815103058760" onmouseout="MM_swapImgRestore();
@@ -829,7 +1035,7 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
     <table width="576" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr> 
         <td width="576" nowrap=""><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="50" border="0"></a><a target="_top" href="/pressroom/newsroom.asp" onmouseout="MM_swapImgRestore();
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="11" border="0"></a><a target="_top" href="/pressroom/newsroom.asp" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_cn.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_c_d2.gif" alt="" border="0"></a><a target="_top" href="/pressroom/newsroom.asp?p=overview" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_co.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
@@ -841,7 +1047,9 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_mc.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_c_d2.gif" alt="" border="0"></a><a target="_top" href="/pressroom/newsroom.asp?p=archive" onmouseout="MM_swapImgRestore(); 
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_an.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="53" border="0"></a></td>
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_c_d2.gif" alt="" border="0"></a><a target="_top" href="/pressroom/imagelibrary/" onmouseout="MM_swapImgRestore(); 
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_il.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="10" border="0"></a></td>
       </tr>
     </tbody></table>
   </div>
@@ -850,7 +1058,7 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
     <table width="576" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr> 
         <td width="576" nowrap=""><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/greydot.gif" height="15" width="25" border="0"></a><a target="_top" href="http://www.amstdmedia.com/" onmouseout="MM_swapImgRestore();
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/greydot.gif" height="15" width="80" border="0"></a><a target="_top" href="http://www.amstdmedia.com/" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_accessCenter.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d1.gif" alt="" border="0"></a><a target="_top" href="/trade/d_locator.asp" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_distributorLocator.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
@@ -877,4 +1085,4 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
   <area shape="rect" coords="183,6,258,19" href="/buy/Lit.asp">
   <area shape="rect" coords="266,6,331,19" href="/buy/D_locator.asp">
 </map>
-</body></html>
+ </body></html>
