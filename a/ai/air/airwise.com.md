@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airwise.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207074032id_/http%3A//www.airwise.com/navigate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airwise.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221043id_/http%3A//www.airwise.com/navigate/privacy.html) for the most accurate reproduction.*
 
 # Airwise Privacy Policy
 
