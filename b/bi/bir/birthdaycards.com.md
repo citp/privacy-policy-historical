@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605041413id_/http%3A//www.birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204231016id_/http%3A//www.birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
 
 # BirthdayCards.com - FREE Electronic Greeting Cards for All Occasions
 
@@ -12,6 +12,8 @@
 >  Darien, CT 06820**  
 >  **(203) 853-8143 (Fax)  
 >  [admin@birthdaycards.com](mailto:admin@birthdaycards.com)**
+> 
+> Email addresses of card senders and receives are for internal use only. We do not sell, rent, lease, or give out your information to any third party without your consent. 
 > 
 > For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 > 
@@ -35,18 +37,17 @@
 > 
 > Consumers can access this information by e-mail us at the above address. Consumers can have this information corrected by or making the appropriate changes in their online account (if applicable). 
 > 
-> With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
-> 
 > If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
 [Support](http://www.birthdaycards.com/support.shtml) \- [Cards](http://www.birthdaycards.com/cat.mod) \- [About](http://www.birthdaycards.com/about.shtml) \- [Contact](http://www.birthdaycards.com/contact.shtml) \- [Artists](http://www.birthdaycards.com/artists.shtml) \- [Terms of Use](http://www.birthdaycards.com/terms.shtml) \- [Privacy](http://www.birthdaycards.com/privacy.shtml) \- [Remove](http://www.birthdaycards.com/remove.mod) \- [Links](http://www.birthdaycards.com/links.shtml)
 
-(C) Copyright 2001,2002,2003 Birthday Cards .com 
-
+|   | (C) Copyright 2001-2004 Birthday Cards .com |   
+---|---|---  
   
-BC Network:  [Hanukkah .com](http://www.hanukkah.com/?BC) \- [Holiday Greetings .com](http://www.holidaygreetings.com/?BC) \- [Christmas Carol .com](http://www.christmascarol.com/?BC) \- [Stocking Stuffer .com](http://www.stockingstuffer.com/?BC)  
-[Labor Day .com](http://www.laborday.com/?BC) \- [Columbus Day .com](http://www.columbusday.com/?BC) \- [Veterans Day .com](http://www.veteransday.com/?BC) \- [St Valentines Day .com](http://www.stvalentinesday.com/?BC)  
-[goClick .com PPC Search](http://www.goclick.com/?AID=21249) \- [Virtual-Free-Greeting-Card.com](http://www.virtual-free-greeting-card.com/?BC)
+  
+BC Network:  [Hanukkah .com](http://www.hanukkah.com/?BC) \- [Holiday Greetings .com](http://www.holidaygreetings.com/?BC) \- [Greeting Cards .com](http://www.greetingcards.com/?BC) \- [Christmas Carol .com](http://www.christmascarol.com/?BC) \- [Stocking Stuffer .com](http://www.stockingstuffer.com/?BC)  
+[Labor Day .com](http://www.laborday.com/?BC) \- [Columbus Day .com](http://www.columbusday.com/?BC) \- [Veterans Day .com](http://www.veteransday.com/?BC) \- [St Valentines Day .com](http://www.stvalentinesday.com/?BC) \- [Take Out .com](http://www.takeout.com/?BC)   
+[Dinner .com](http://www.dinner.com/?BC) \- [goClick .com PPC Search](http://www.goclick.com/?AID=21249) \- [Virtual-Free-Greeting-Card.com](http://www.virtual-free-greeting-card.com/?BC)
 
   
 100% FREE Birthday Cards, Holiday Cards, Greeting Cards, Virtual Cards, Romantic Cards, Holiday Greetings, Birthday Greetings, Virtual Greetings, eCards, e-cards, e-Greetings, Love Cards, Anniversary Cards at Birthday Cards.com. 
