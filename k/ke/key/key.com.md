@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the key.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603031740id_/http%3A//www.key.com/templates/generic.jhtml%3FnodeID%3DK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the key.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020065618id_/http%3A//www.key.com/templates/generic.jhtml%3FnodeID%3DK) for the most accurate reproduction.*
 
 # Key - Protecting the Privacy of Information
 
@@ -110,12 +110,14 @@ If you choose to opt out, you have two separate options.
 Your election to opt out will apply to all products and services you obtain within the KeyCorp family of companies for personal, family or household purposes, either singly or jointly with others. If you have a product or service jointly with another person(s), each of you may opt out individually or for each other. If you elect to opt out, information about other joint parties to your products and services may be disclosed unless their information has also been opted-out. 
 
 **For more information, or to opt out**  
-If you would like more information about your options, or wish to opt out of information sharing, please call 1-800-361-0968. If you have previously opted out of internal or external information sharing, please be assured that your election will remain effective. You do not need to call unless you wish to change your election. 
+If you would like more information about your options, or wish to opt out of information sharing, please call **1-800-361-0968**. If you have previously opted out of internal or external information sharing, please be assured that your election will remain effective. You do not need to call unless you wish to change your election. 
 
 Your relationship with Key is a way for you to gain access to complete, customized financial solutions. We offer innovative products and personal attention. At the same time we work hard to protect the confidentiality and security of information. Thank you for allowing us to provide you with the financial products and services you need. 
 
 **The KeyCorp family of companies is:**  
-KeyBank National Association; Key Bank USA, National Association; McDonald Investments Inc.; Victory Capital Management, Inc.; Champion Mortgage Co., Inc.; Key Bank Life Insurance, Ltd.; Key Financial Services Inc.; KeyCorp Finance Inc.; KeyCorp Insurance Agency, Inc.; KeyCorp Insurance Agency USA Inc. (WA); KeyCorp Insurance Agency USA Inc. (ID); KeyCorp Insurance Agency USA Inc. (OH); Champion Financial Services, Inc.; Gradison Insurance Agency, Inc.; MCD Gradison Agency, Inc.; McD Agency PA, Inc.; KeyTrust Company National Association 
+KeyBank National Association; Key Bank USA, National Association; McDonald Investments Inc.; Victory Capital Management, Inc.; Key Bank Life Insurance, Ltd.; Key Financial Services Inc.; KeyCorp Finance Inc.; KeyCorp Insurance Agency, Inc.; KeyCorp Insurance Agency USA Inc. (WA); KeyCorp Insurance Agency USA Inc. (ID); KeyCorp Insurance Agency USA Inc. (OH); Champion Financial Services, Inc.; Gradison Insurance Agency, Inc.; MCD Gradison Agency, Inc.; McD Agency PA, Inc.; KeyTrust Company National Association 
+
+7/6/2001
 
 
 | 
