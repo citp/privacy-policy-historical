@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607202149id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2004-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040707080626id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
 
 # HSN.com - Customer Service
 
