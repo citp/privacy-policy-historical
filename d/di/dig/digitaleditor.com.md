@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012024806id_/http%3A//www.digitaleditor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2005-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050214133529id_/http%3A//www.digitaleditor.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
-
-**Privacy Policy**
 
 The policies below are applicable to the above-named online services (collectively the "Service") produced and maintained by the Digital Media Publishing ("DMP"). 
 
@@ -35,8 +33,3 @@ ATTENTION KIDS: IF YOU ARE 16 OR UNDER, YOU MUST GET PERMISSION FROM YOUR MOM OR
 
 
 IF YOU GET PERMISSION FROM YOUR MOM OR DAD TO SUBMIT YOUR NAME TO BE PUBLICLY POSTED ON THE SERVICE, YOU SHOULD NEVER USE YOUR FULL NAME. JUST SUBMIT YOUR FIRST NAME OR INITIALS. 
-
-|   |  |  | **Digital Editor.com  
-Current Headlines**  
-**January 30, 2020**  
----
