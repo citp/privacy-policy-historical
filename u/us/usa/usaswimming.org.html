@@ -1,14 +1,20 @@
-<!--The following is the downloaded HTML source of the usaswimming.org privacy policy that was archived on 2000-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001214213900id_/http%3A//www.usaswimming.org/about/template.pl%3Fopt%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usaswimming.org privacy policy that was archived on 2001-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010405022435id_/http%3A//www.usaswimming.org/about/template.pl%3Fopt%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>
 USA Swimming Sub Page -About 
 </title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+BODY {OVERFLOW:scroll;OVERFLOW-X:hidden}
+.DEK {POSITION:absolute;VISIBILITY:hidden;Z-INDEX:200;}
+//-->
+</style>
 
 </head>
-<body bgcolor="#ffffff" text="#000000" link="#cc0000" vlink="#0066cc">
+<body onload="slideit();slideitx();" bgcolor="#ffffff" text="#000000" link="#cc0000" vlink="#0066cc">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
 	 <td colspan="3"><a href="../index.shtml"><img src="../images/sublogo_top.gif" width="151" height="52" alt="USA Swimming Logo" border="0"></a><img src="../images/about_usa_title.gif" width="612" height="52" alt="USA Swimming"></td>
@@ -18,7 +24,62 @@ USA Swimming Sub Page -About
 	<td valign="top"><a href="../index.shtml"><img src="../images/sublogo_bottom.gif" width="151" height="62" alt="USA Swimming Logo" border="0"></a><br>
 	</td>
 	<td valign="top" height="62">
-	<a href="../aps/banner_ads/ad_redirect.pl?http://www.usa-swimming.org/VICL/�"><img src="../images/sponsors/vaseline.jpg�" alt="vaseline.jpg�" border="0" height="60" width="470"></a>
+	<a href="javascript:slidelink()"><img src="../images/sponsors/goodyear.jpg" name="slide" border="0" style="filter:blendTrans(duration=3)"></a>
+
+<script language="JavaScript">
+<!--
+var links = new Array(6)
+var images = new Array(6)
+
+links[1]="http://www.ual.com"
+images[1]="../images/sponsors/United.jpg"
+links[2]="http://www.goodyear.com"
+images[2]="../images/sponsors/goodyear.jpg"
+links[3]="http://www.speedo.com"
+images[3]="../images/sponsors/speedo.jpg"
+links[4]="http://www.usa-swimming.org/whats_new/template.pl?opt=news&pubid=612"
+images[4]="../images/sponsors/phillips.jpg"
+links[5]="http://www.cadillac.com"
+images[5]="../images/sponsors/caddy.jpg"
+links[6]="http://www.daktronics.com"
+images[6]="../images/sponsors/daktronicsbanner.gif"
+
+////change number of images below 
+var number_of_images=6
+//change speed below (in seconds)
+var speed=6
+var step=2
+var whichimage=2
+function slideit(){
+if (!document.images)
+return
+if (document.all)
+slide.filters.blendTrans.apply()
+//document.images.slide.src=eval("image"+step+".src")
+document.images.slide.src=images[step]
+if (document.all)
+slide.filters.blendTrans.play()
+whichimage=step
+if (step<number_of_images)
+step++
+else
+step=1
+if (document.all)
+setTimeout("slideit()",speed*1000+3000)
+else
+setTimeout("slideit()",speed*1000)
+}
+function slidelink(){
+window.location=links[whichimage]
+}
+
+
+
+// in ads.pl
+// -->
+</script>
+
+
 	</td>
 	<td rowspan="2" valign="top">
 	<table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -66,16 +127,16 @@ function inact(imgName) {
 </script>
 
 	<a href="template.pl?opt=marketing" onmouseout="inact('marketing')" onmouseover="act('marketing')">
-	 <img src="../images/subnav_whitetab.gif" name="marketing" alt="marketing" border="0" width="17" height="13"><img src="../images/about_nav_marketing.gif" border="0"></a><br>
+	 <img src="../images/subnav_whitetab.gif" name="marketing" alt="marketing" border="0" vspace="1" width="17" height="13"><img src="../images/about_nav_marketing.gif" border="0" vspace="1"></a><br>
 
 	<a href="template.pl?opt=mission" onmouseout="inact('mission')" onmouseover="act('mission')">
-	 <img src="../images/subnav_whitetab.gif" name="mission" alt="mission" border="0" width="17" height="13"><img src="../images/about_nav_mission.gif" border="0"></a><br>
+	 <img src="../images/subnav_whitetab.gif" name="mission" alt="mission" border="0" vspace="1" width="17" height="13"><img src="../images/about_nav_mission.gif" border="0" vspace="1"></a><br>
 
 	<a href="template.pl?opt=staff" onmouseout="inact('staff')" onmouseover="act('staff')">
-	 <img src="../images/subnav_whitetab.gif" name="staff" alt="staff" border="0" width="17" height="13"><img src="../images/about_nav_staff.gif" border="0"></a><br>
+	 <img src="../images/subnav_whitetab.gif" name="staff" alt="staff" border="0" vspace="1" width="17" height="13"><img src="../images/about_nav_staff.gif" border="0" vspace="1"></a><br>
 
 	<a href="template.pl?opt=faqs" onmouseout="inact('faqs')" onmouseover="act('faqs')">
-	 <img src="../images/subnav_whitetab.gif" name="faqs" alt="faqs" border="0" width="17" height="13"><img src="../images/about_nav_faqs.gif" border="0"></a><br>
+	 <img src="../images/subnav_whitetab.gif" name="faqs" alt="faqs" border="0" vspace="1" width="17" height="13"><img src="../images/about_nav_faqs.gif" border="0" vspace="1"></a><br>
 	  
     </td>
 </tr>
@@ -127,22 +188,24 @@ function inact(imgName) {
 // -->
 </script>
 	<a href="../whats_new/" onmouseout="inact('rtab')" onmouseover="act('rtab')">
-	 <img src="../images/subnav_blue_redtab.gif" name="rtab" alt="Tab" border="0" width="17" height="13"><img src="../images/subnav_whatsnew.gif" height="13" border="0"></a><br>
+	 <img src="../images/subnav_blue_redtab.gif" name="rtab" alt="Tab" border="0" vspace="1" width="17" height="13"><img src="../images/subnav_whatsnew.gif" height="13" border="0" vspace="1"></a><br>
 	  <a href="../searches/template.pl" onmouseout="inact('rtab1')" onmouseover="act('rtab1')">
-	 <img src="../images/subnav_blue_redtab.gif" name="rtab1" alt="Tab" border="0" width="17" height="13"><img src="../images/subnav_clubsearch.gif" height="13" border="0"></a><br>
+	 <img src="../images/subnav_blue_redtab.gif" name="rtab1" alt="Tab" border="0" vspace="1" width="17" height="13"><img src="../images/subnav_clubsearch.gif" height="13" border="0" vspace="1"></a><br>
 	  <a href="../about/template.pl?opt=contact" onmouseout="inact('rtab2')" onmouseover="act('rtab2')">
-	 <img src="../images/subnav_blue_redtab.gif" name="rtab2" alt="Tab" border="0" width="17" height="13"><img src="../images/subnav_contactus.gif" height="13" border="0"></a><br>
+	 <img src="../images/subnav_blue_redtab.gif" name="rtab2" alt="Tab" border="0" vspace="1" width="17" height="13"><img src="../images/subnav_contactus.gif" height="13" border="0" vspace="1"></a><br>
 	  <a href="../media_services/template.pl?opt=linkcity" onmouseout="inact('rtab3')" onmouseover="act('rtab3')">
-	 <img src="../images/subnav_blue_redtab.gif" name="rtab3" alt="Tab" border="0" width="17" height="13"><img src="../images/subnav_linkcity.gif" height="13" border="0"></a><br>
+	 <img src="../images/subnav_blue_redtab.gif" name="rtab3" alt="Tab" border="0" vspace="1" width="17" height="13"><img src="../images/subnav_linkcity.gif" height="13" border="0" vspace="1"></a><br>
 	  <a href="../ubb/cgi-bin/Ultimate.cgi" target="_blank" onmouseout="inact('rtab4')" onmouseover="act('rtab4')">
-	 <img src="../images/subnav_blue_redtab.gif" name="rtab4" alt="Tab" border="0" width="17" height="13"><img src="../images/subnav_forums.gif" height="13" border="0"></a><br>
-	  <a href="http://store.usa-swimming.org/usa/" target="_blank" onmouseout="inact('rtab5')" onmouseover="act('rtab5')">
-	 <img src="../images/subnav_blue_redtab.gif" name="rtab5" alt="Tab" border="0" width="17" height="13"><img src="../images/subnav_shop.gif" height="13" border="0"></a><br> 
+	 <img src="../images/subnav_blue_redtab.gif" name="rtab4" alt="Tab" border="0" vspace="1" width="17" height="13"><img src="../images/subnav_forums.gif" height="13" border="0" vspace="1"></a><br>
+      <a href="../programs/template.pl?opt=news&amp;pubid=704" onmouseout="inact('rtab5')" onmouseover="act('rtab5')">
+	 <img src="../images/subnav_blue_redtab.gif" name="rtab5" alt="Tab" border="0" vspace="1" width="17" height="13"><img src="../images/subnav_shop.gif" height="13" border="0" vspace="1"></a><br> 
 </td>
 </tr>
 </tbody></table>
 
     	 
+	<br>
+	
 	</td>
 
   </tr>
@@ -196,91 +259,221 @@ function inact(imgName) {
   if (document.images)
   document[imgName].src = eval(imgName + "n.src");
 }
-
+//my $image_root = "../images/";
 // -->
 </script>
  <a href="../index.shtml" onmouseover="act('home')" onmouseout="inact('home')">
 	  <img src="../images/subnav_home.gif" name="home" alt="Home" border="0" width="151" height="22"></a><br>
-	  <a href="../events/" onmouseover="act('events')" onmouseout="inact('events')">
-	  <img src="../images/subnav_events.gif" name="events" alt="Events" border="0" width="151" height="22"></a><br>
-	  <a href="../fast_times/" onmouseover="act('fast')" onmouseout="inact('fast')">
-	  <img src="../images/subnav_fasttimes.gif" name="fast" alt="Fast_Times" border="0" width="151" height="22"></a><br>
-	  <a href="../superstars/" onmouseover="act('super')" onmouseout="inact('super')">
-	  <img src="../images/subnav_superstars.gif" name="super" alt="SuperStars" border="0" width="151" height="22"></a><br>
-	  <a href="../swimkids/" onmouseover="act('swimkids')" onmouseout="inact('swimkids')">
-	 <img src="../images/subnav_swimkids.gif" name="swimkids" alt="SwimKids" border="0" width="151" height="22"></a><br>
-	  <a href="../media_services/" onmouseover="act('media')" onmouseout="inact('media')">
-	  <img src="../images/subnav_mediaservice.gif" name="media" alt="MediaServices" border="0" width="151" height="22"></a><br>
-	  <a href="../programs/" onmouseover="act('program')" onmouseout="inact('program')">
-	  <img src="../images/subnav_programservices.gif" name="program" alt="Programs_Services" border="0" width="151" height="22"></a><br>
-	  <a href="../about/" onmouseover="act('about')" onmouseout="inact('about')">
-	  <img src="../images/subnav_about.gif" name="about" alt="About USA Swimming" border="0" width="151" height="22"></a><br>
-	<a href="../aps/banner_ads/ad_redirect.pl?http://store.usa-swimming.org�"><img src="../images/sponsors/storead.jpg�" alt="storead.jpg�" border="0" height="142" width="121"></a><br>		
-	<table cellpadding="0" width="100%" cellspacing="0" border="0">
+	  <a href="../events/" onmouseover="act('events');popup('Click <i>EVENTS</i> for:<br>International<br>National<br>Collegate<br>Age Group<br>Other Events<br>4 Year Calendar');" onmouseout="inact('events');kill();">
+	  <img src="../images/subnav_events.gif" name="events" alt="" border="0" width="151" height="22"></a><br>
+	  <a href="../fast_times/" onmouseover="act('fast');popup('Click <i>FAST TIMES</i> for:<br>Meet Results<br>Star Times<br>Records &amp; Rankings<br>Time Standards');" onmouseout="inact('fast');kill();">
+	  <img src="../images/subnav_fasttimes.gif" name="fast" alt="" border="0" width="151" height="22"></a><br>
+	  <a href="../superstars/" onmouseover="act('super');popup('Click <i>SUPERSTARS</i> for:<br>Splash<br>Poolside<br>Fun Facts<br>Bio Search<br>SwimCam Gallery');" onmouseout="inact('super');kill();">
+	  <img src="../images/subnav_superstars.gif" name="super" alt="" border="0" width="151" height="22"></a><br>
+	  <a href="../swimkids/" onmouseover="act('swimkids');popup('Click <i>SWIMKIDS</i> for:<br>Bios<br>Splash<br>Poolside<br>SwimCam Gallery<br>SwimKids Forum');" onmouseout="inact('swimkids');kill();">
+	 <img src="../images/subnav_swimkids.gif" name="swimkids" alt="" border="0" width="151" height="22"></a><br>
+	  <a href="../media_services/" onmouseover="act('media');popup('Click <i>MEDIA SERVICES</i> for:<br>Clippings<br>Credentials<br>Feature Ideas<br>History<br>Press Kit<br>Press Releases<br>Swim School')" onmouseout="inact('media');kill();">
+	  <img src="../images/subnav_mediaservice.gif" name="media" alt="" border="0" width="151" height="22"></a><br>
+	  <a href="../programs/" onmouseover="act('program');popup('Click <i>PROGRAMS &amp; SERVICES</i> for:<br>Camps &amp; Clinics<br>Sports Science<br>National Team<br>Club Info<br>Open Water<br>Coaches<br>Officials<br>Parents<br>Adapted<br>Coach Tech Support');" onmouseout="inact('program');kill();">
+	  <img src="../images/subnav_programservices.gif" name="program" alt="" border="0" width="151" height="22"></a><br>
+	  <a href="../about/" onmouseover="act('about');popup('Click <i>ABOUT USA SWIMMING</i> for:<br>Marketing Partners<br>Mission Statement<br>The Staff<br>FAQs');" onmouseout="inact('about');kill();">
+	  <img src="../images/subnav_about.gif" name="about" alt="" border="0" width="151" height="22"></a>
+<br><br>
+	<a href="javascript:slidelinkx()"><img src="../images/sponsors/posterad.jpg" name="slidex" border="0" style="filter:blendTrans(duration=3)"></a>
+
+<script language="JavaScript">
+<!--
+var linkx = new Array(3)
+var imagex = new Array(3)
+linkx[1]="http://store.usa-swimming.org/usa/details.asp?ProductID=1383"
+imagex[1]="../images/sponsors/posterad.jpg"
+linkx[2]="http://store.usa-swimming.org"
+imagex[2]="../images/sponsors/storead.jpg"
+linkx[3]="http://store.usa-swimming.org/usa/details.asp?ProductID=1392"
+imagex[3]="../images/sponsors/box.jpg"
+
+////change number of images below 
+var number_of_imagesx=3
+//change speed below (in seconds)
+var speedx=6
+var stepx=1
+var whichimagex=1
+function slideitx(){
+if (!document.images)
+return
+if (document.all)
+slidex.filters.blendTrans.apply()
+document.images.slidex.src=imagex[stepx]
+if (document.all)
+slidex.filters.blendTrans.play()
+whichimagex=stepx
+if (stepx<number_of_imagesx)
+stepx++
+else
+stepx=1
+if (document.all)
+setTimeout("slideitx()",speedx*1000+3000)
+else
+setTimeout("slideitx()",speedx*1000)
+}
+function slidelinkx(){
+window.location=linkx[whichimagex]
+}
+
+
+
+// in logos.pl
+// -->
+</script>
+
+<br><br>
+	<script language="JavaScript">
+<!--
+
+function mySubmit() {
+
+  		sl = document.goform.frmShortCategory.selectedIndex;
+			
+		if (sl != -1)	
+		{
+			selectvalue = document.goform.frmShortCategory.options[sl].value;
+			document.goform.action = "http://www.usa-swimming.org" + selectvalue;
+			quest = selectvalue.indexOf("?opt=");
+			if (quest != -1)
+			{
+
+				len = selectvalue.length;
+				opt = selectvalue.substring(quest+5,len);
+				document.goform.elements[0].name="opt";
+				document.goform.elements[0].value=opt;
+			}
+			document.goform.submit();
+		}
+
+  return true; 
+}
+
+// -->
+</script>
+
+<table cellpadding="0" width="100%" cellspacing="0" border="0">
 <tbody><tr>
 <td width="20%" valign="top">
-<p><img src="../images/sub_but_search.gif"></p>
-<form action="../search/category_search.pl" target="_blank">
-    <select name="frmShortCategory">
+<br>
+<form name="goform" onsubmit="javascript:mySubmit(); return false;">
+     <input type="hidden" name="filler" value="">
+    <select name="frmShortCategory" style="font: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8pt; width=40mm; font-weight: bold">
 	<option value="">Select a section...</option>
         
-            <option value="8">About USA Swimming</option>
+            <option value="/index.shtml�">HOME</option>
         
-            <option value="60">Adapted</option>
+            <option value="/events/template.pl�">EVENTS</option>
         
-            <option value="37">Camps &amp; Clinics</option>
+            <option value="/events/template.pl?opt=international�">- International</option>
         
-            <option value="33">Clippings</option>
+            <option value="/events/template.pl?opt=national�">- National</option>
         
-            <option value="38">Club Toolbox</option>
+            <option value="/events/template.pl?opt=collegiate�">- Collegiate</option>
         
-            <option value="57">Coaches</option>
+            <option value="/events/template.pl?opt=agegroup�">- Age Group</option>
         
-            <option value="34">Credential Information</option>
+            <option value="/events/template.pl?opt=otherevents�">- Other Events</option>
         
-            <option value="2">Events</option>
+            <option value="/events/template.pl?opt=fouryearcalendar�">- 4 Year Calendar</option>
         
-            <option value="29">FAQs</option>
+            <option value="/register�">- Meet Registration</option>
         
-            <option value="3">Fast Times</option>
+            <option value="/fast_times/template.pl�">FAST TIMES</option>
         
-            <option value="31">Feature Ideas</option>
+            <option value="/fast_times/template.pl?opt=meetresults�">- Meet Results</option>
         
-            <option value="22">Fun Facts</option>
+            <option value="/fast_times/template.pl?opt=recordsranking�">- Records &amp; Rankings</option>
         
-            <option value="49">History</option>
+            <option value="/fast_times/template.pl?opt=timestandards�">- Time Standards</option>
         
-            <option value="6">Media Services</option>
+            <option value="/fast_times/template.pl?opt=startimes�">- STAR Times</option>
         
-            <option value="55">National Team</option>
+            <option value="/superstars/template.pl�">SUPERSTARS</option>
         
-            <option value="42">News Releases</option>
+            <option value="/superstars/template.pl?opt=splash�">- Splash</option>
         
-            <option value="58">Officials</option>
+            <option value="/superstars/template.pl?opt=poolside�">- Poolside</option>
         
-            <option value="56">Open Water</option>
+            <option value="/superstars/template.pl?opt=funfacts�">- Fun Facts</option>
         
-            <option value="59">Parents</option>
+            <option value="/superstars/template.pl?opt=biosearch�">- Bio Search</option>
         
-            <option value="21">Poolside</option>
+            <option value="/superstars/template.pl?opt=swimcam�">- Swimcam Gallery</option>
         
-            <option value="51">Press Kit</option>
+            <option value="/superstars/template.pl?opt=appearance�">- Appearances</option>
         
-            <option value="32">Press Releases</option>
+            <option value="/swimkids/template.pl�">SWIM KIDS</option>
         
-            <option value="7">Programs &amp; Services</option>
+            <option value="/swimkids/template.pl?opt=bios�">- Bios</option>
         
-            <option value="35">Publications &amp; Videos</option>
+            <option value="/swimkids/template.pl?opt=splash�">- Splash</option>
         
-            <option value="20">Splash</option>
+            <option value="/swimkids/template.pl?opt=poolside�">- Poolside</option>
         
-            <option value="53">Sports Science</option>
+            <option value="/swimkids/template.pl?opt=swimcam�">- Swimcam Gallery</option>
         
-            <option value="4">Superstars</option>
+            <option value="/ubb/cgi-bin/Ultimate.cgi�">- SwimKids Forum</option>
         
-            <option value="5">Swim Kids</option>
+            <option value="/media_services/template.pl�">MEDIA SERVICES</option>
         
-            <option value="30">Swim School</option>
+            <option value="/media_services/template.pl?opt=swimschool�">- Swim School</option>
+        
+            <option value="/media_services/template.pl?opt=feature_ideas�">- Feature Ideas</option>
+        
+            <option value="/media_services/template.pl?opt=pressreleases�">- Press Releases</option>
+        
+            <option value="/media_services/template.pl?opt=clippings�">- Clippings</option>
+        
+            <option value="/media_services/template.pl?opt=credentials�">- Credential Information</option>
+        
+            <option value="/media_services/template.pl?opt=history�">- History</option>
+        
+            <option value="/media_services/template.pl?opt=linkcity�">- Link City</option>
+        
+            <option value="/media_services/template.pl?opt=presskit�">- Press Kit</option>
+        
+            <option value="/programs/template.pl�">PROGRAMS &amp; SERVICES</option>
+        
+            <option value="/ubb/cgi-bin/Ultimate.cgi�">- Forums</option>
+        
+            <option value="/programs/template.pl?opt=camps�">- Camps &amp; Clinics</option>
+        
+            <option value="/programs/template.pl?opt=clubtoolbox�">- Club Toolbox</option>
+        
+            <option value="/programs/template.pl?opt=sportsscience�">- Sports Science</option>
+        
+            <option value="/programs/template.pl?opt=nationalteam�">- National Team</option>
+        
+            <option value="/programs/template.pl?opt=openwater�">- Open Water</option>
+        
+            <option value="/programs/template.pl?opt=coaches�">- Coaches</option>
+        
+            <option value="/programs/template.pl?opt=officials�">- Officials</option>
+        
+            <option value="/programs/template.pl?opt=parents�">- Parents</option>
+        
+            <option value="/programs/template.pl?opt=adapted�">- Adapted</option>
+        
+            <option value="/programs/template.pl?opt=coachtech�">- Coach Tech Support</option>
+        
+            <option value="/about/template.pl�">ABOUT USA SWIMMING</option>
+        
+            <option value="/about/template.pl?opt=mission�">- Mission Statement</option>
+        
+            <option value="/about/template.pl?opt=staff�">- The Staff</option>
+        
+            <option value="/about/template.pl?opt=contact�">- Contact Information</option>
+        
+            <option value="/about/template.pl?opt=marketing�">- Marketing Partners</option>
+        
+            <option value="/about/template.pl?opt=faqs�">- FAQs</option>
+        
+            <option value="/whats_new/template.pl�">WHAT'S NEW</option>
         
     </select>
     <input type="image" src="../images/sub_but_go.gif" alt="Click here to search for the selected category." border="0"><br>
@@ -346,13 +539,60 @@ function inact(imgName) {
    <tr>
 	<td colspan="3">
 	
+<div align="center"><font face="verdana,arial,sans-serif" size="1"><a href="/about/template.pl?opt=genquestion">Questions/Comments</a></font></div>
 <div align="center"><font face="verdana,arial,sans-serif" size="1"><a href="/about/template.pl?opt=privacy">Privacy Statement</a></font></div>
 <div align="center"><font face="verdana,arial,sans-serif" size="1">©2000 USA Swimming. All rights reserved.</font></div>
-
 
 	</td>
   </tr>
 </tbody></table>
+<div id="dek" class="dek"></div>
+<script type="text/javascript">
+<!--
+
+/*
+Pop up information box II (Mike McGrath (mike_mcgrath@lineone.net,  http://website.lineone.net/~mike_mcgrath))
+Permission granted to Dynamicdrive.com to include script in archive
+For this and 100's more DHTML scripts, visit http://dynamicdrive.com
+*/
+
+Xoffset=0;    // modify these values to ...
+Yoffset= 20;    // change the popup position.
+
+var nav,old,iex=(document.all),yyy=-1000;
+if(navigator.appName=="Netscape"){(document.layers)?nav=true:old=true;}
+
+if(!old){
+var skn=(nav)?document.dek:dek.style;
+if(nav)document.captureEvents(Event.MOUSEMOVE);
+document.onmousemove=get_mouse;
+}
+
+function popup(msg){
+var content="<TABLE  WIDTH=230 BORDER=1 BORDERCOLOR=#cc0000 CELLPADDING=2 CELLSPACING=0 "+
+"BGCOLOR=#000066><TD ALIGN=center><FONT face=Verdana COLOR=white SIZE=1>"+msg+"</FONT></TD></TABLE>";
+if(old){alert(msg);return;} 
+else{yyy=Yoffset;
+ if(nav){skn.document.write(content);skn.document.close();skn.visibility="visible"}
+ if(iex){document.all("dek").innerHTML=content;skn.visibility="visible"}
+ }
+}
+
+function get_mouse(e){
+var x=(nav)?e.pageX:event.x+document.body.scrollLeft;skn.left=x+Xoffset;
+//var x=(nav)?e.pageX:event.x+document.body.scrollLeft;skn.left=Xoffset;
+var y=(nav)?e.pageY:event.y+document.body.scrollTop;skn.top=y+yyy;
+}
+
+function kill(){
+if(!old){yyy=-1000;skn.visibility="hidden";}
+}
+
+//-->
+</script>
+
+
+
 
 
 <font face="Verdana" size="1"><i>Site Design By</i>
