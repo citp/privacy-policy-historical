@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the injuryboard.com privacy policy that was archived on 2001-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011222122955id_/http%3A//www.injuryboard.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the injuryboard.com privacy policy that was archived on 2002-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020610082735id_/http%3A//www.injuryboard.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head></head><body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" bottommargin="0" background="images/background.gif" link="#1a3a5c"><map name="topbar">
 <area shape="RECT" coords="513,50,575,67" href="index.cfm">
@@ -48,7 +48,7 @@ if (csstype)
 //INJURY FUNCTIONS
 //User selected first injury, so now display list of associated second level injurieslvlOneInjury.cfm?varFrom=LevelOneInjury
 function jsfGoToRefreshedFirstLevelInjuryPage(){
-	window.document.frmInjuries.action = "lvlOneInjury.cfm?varFrom=LevelOneInjury";
+	window.document.frmInjuries.action = "lvlOneInjury.cfm?SelectedInjuryOne=#injury1id";
 	window.document.frmInjuries.submit();
 }
 
@@ -564,7 +564,7 @@ function  _CF_checkCFForm_1(_CF_this)
 	    
 		<tbody><tr>
 		<td class="navSY" valign="top">•</td>
-		<td colspan="2" class="navSY"><a href="attorneys.cfm" target="_top">Our Attorneys</a></td>
+		<td colspan="2" class="navSY"><a href="attorneys.cfm" target="_top">Sponsoring Firms</a></td>
 		</tr>
 		
 		<tr>
@@ -647,10 +647,10 @@ document.write('<img src=http://track.did-it.com/e/3bd46c74efb07/' + j + ' borde
 					
 
 
-			<form name="frmInjuries" method="post"></form>		
+			<form name="frmInjuries" method="get" action="lvlOneinjury.cfm"></form>	
             <td width="366" bgcolor="#FEEA9E">
 	<font face="Arial" size="-1">&nbsp;&nbsp;&nbsp;&nbsp;What Injury would you like to learn more about?<br></font>
-	&nbsp;&nbsp;&nbsp;&nbsp;<select name="lstFirstLevelInjuries">
+	&nbsp;&nbsp;&nbsp;&nbsp;<select name="selectedinjuryone">
 	<option value="0">Please select an injury</option>
 	
 	<option value="2">Blood Disorders</option>
@@ -702,7 +702,7 @@ document.write('<img src=http://track.did-it.com/e/3bd46c74efb07/' + j + ' borde
 	</select>
 
 	
-	<input type="image" name="btnFirstLevelInjuries" src="images/go.gif" value="Go" onclick="jsfGoToRefreshedFirstLevelInjuryPage()" valign="top">
+	<input type="image" src="images/go.gif" valign="top">
 			</td>
 			
 		
@@ -739,9 +739,9 @@ document.write('<img src=http://track.did-it.com/e/3bd46c74efb07/' + j + ' borde
 
 InjuryBoard.com aims to be your most trusted guide to personal injury legal and medical information on the Internet.  In order to earn your trust, we at InjuryBoard.com would like to inform you of our policies and procedures as they relate to your privacy.
 <p>
-First and foremost, as members of the legal and medical community, InjuryBoard.com and its management are intimately aware of, and have the utmost respect for, your privacy.  The confidential nature of your communications with InjuryBoard.com and our associated attorneys will always be respected, and we will never reveal the nature of such confidential information to people or entities unassociated with InjuryBoard.com.  
+First and foremost, InjuryBoard.com and its management are intimately aware of, and have the utmost respect for your privacy.  The confidential nature of your communications with InjuryBoard.com and our sponsoring firms will always be respected. 
 </p><p>
-Since InjuryBoard.com is not a lawyer referral service, nor a law firm, employees and managers of InjuryBoard.com will not evaluate the merits of your case.  Rather, your inquiry will be forwarded to an independent attorney associated with InjuryBoard.com.  
+Since InjuryBoard.com is not a lawyer referral service, nor a law firm, employees and managers of InjuryBoard.com will not evaluate the merits of your case.  Rather, your inquiry will be forwarded to an InjuryBoard.com sponsoring firm.  
 </p><p>
 As is true of all licensed attorneys, a duty of confidentiality governs attorneys associated with InjuryBoard.com.  State Bar associations from around the United States enforce this duty of confidentiality.  The duty of confidentiality prohibits attorneys from revealing your confidential information to others.  The American Bar Association defines the duty of confidentiality as follows:
 </p><p>
@@ -755,12 +755,10 @@ As is true of all licensed attorneys, a duty of confidentiality governs attorney
 (1) to prevent the client from committing a criminal act that the lawyer believes is likely to result in imminent death or substantial bodily harm; or
 <p>
 (2) to establish a claim or defense on behalf of the lawyer in a controversy between the lawyer and the client, to establish a defense to a criminal charge or civil claim against the lawyer based upon conduct in which the client was involved, or to respond to allegations in any proceeding concerning the lawyer's representation of a client.
-</p></ul>
-If, in the opinion and discretion of an affiliated attorney, it would be helpful to obtain a further review or consideration of your information from another attorney, InjuryBoard.com or the affiliated attorney may do so without seeking specific authorization from you.  Your submission of a matter to InjuryBoard.com authorizes such sharing of information.
-<p>
+</p></ul>   
 Since InjuryBoard.com is neither a lawyer referral service nor a law firm, we are not subject to the duty of confidentiality.  However, as stated above, we will not reveal any of your private or confidential communications or other information to any outside source without your explicit permission.
-</p><p>
-There are two basic ways that InjuryBoard.com may learn more about you.  The first way, and perhaps most important, is through information that you supply to us through the free "Ask an Attorney" feature, the "Recall Profiler" feature, or by signing up for our Newsletter.  Again, as described above, none of the information that you voluntarily supply thru these features will be revealed or sold to any entity unaffiliated with InjuryBoard.com.  The only people or entities who have access to this information are InjuryBoard.com management and our associated independent attorneys at law.
+<p>
+There are two basic ways that InjuryBoard.com may learn more about you.  The first way, and perhaps most important, is through information that you supply to us through the free "Ask an Attorney" feature, the "Recall Profiler" feature, or by signing up for our Newsletter.  Again, as described above, none of the information that you voluntarily supply thru these features will be revealed or sold to any entity unaffiliated with InjuryBoard.com.  The only people or entities who have access to this information are InjuryBoard.com and/or our sponsoring law firms.
 </p><p>
 We may also collect certain general information through the use of "cookies," which are an integral part of browser technology and are used extensively throughout the Internet.  Cookies allow InjuryBoard.com to customize our site to more adequately reflect your needs and preferences.  Cookies simply associate a particular computer with certain characteristics.  They do not gather personal or confidential information.  For instance, a cookie will never know your name, address, telephone number, social security number, or any other similar information.
 </p><p>
@@ -852,7 +850,7 @@ document.write(zcode)
         </tr>
         <tr>
 			<td width="6" align="left"><img src="images/bottom_left.gif" width="6" height="16" alt="" border="0"></td>
-            <td width="748" bgcolor="#FEEA9E"><div align="center"><font face="Arial" size="-1">All contents copyright © 2001 - Patent Pending - <a href="http://www.clarislaw.com">Claris Law, Inc.</a></font></div></td>
+            <td width="748" bgcolor="#FEEA9E"><div align="center"><font face="Arial" size="-1">All contents copyright © 2002 - Patent Pending - <a href="http://www.clarislaw.com">Claris Law, Inc.</a></font></div></td>
 			<td width="6" align="right"><img src="images/bottom_right.gif" width="6" height="16" alt="" border="0"></td>
         </tr>
         <tr>
