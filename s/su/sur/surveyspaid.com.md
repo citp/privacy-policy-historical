@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surveyspaid.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604195032id_/http%3A//www.surveyspaid.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspaid.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205033238id_/http%3A//www.surveyspaid.com/privacy.php) for the most accurate reproduction.*
 
-# SurveysPaid.com - Privacy Policy
+# SurveysPaid.com - Earn money by filling out online surveys!
 
 SurveysPaid.com takes your privacy very seriously. We will not sell or share any of your information to any third party websites. Your credit card information is kept private and is maintained by a secure third party website. 
 
@@ -38,4 +38,4 @@ You can contact SurveysPaid.com in a number of ways that can be found in our Con
 
 **Privacy Policy Disclaimer**
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site. 
