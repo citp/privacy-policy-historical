@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204225527id_/http%3A//www.ucar.edu/wag/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621141707id_/http%3A//www.ucar.edu/legal/privacy_policy.shtml) for the most accurate reproduction.*
 
-# UCAR Privacy Policy
+# NCAR|UCAR|UOP Privacy Policy
 
-| [Terms of Use](https://web.archive.org/web/20031203231020id_/http://www.ucar.edu/legal/terms_of_use.html) | [Copyright/Disclaimer](https://web.archive.org/web/20031203231020id_/http://www.ucar.edu/legal/terms_of_use.html#copyright) | 
+[Terms of Use](https://web.archive.org/web/20040621141707id_/http%3A//www.ucar.edu/legal/terms_of_use.shtml) | [Copyright/Disclaimer](https://web.archive.org/web/20040621141707id_/http%3A//www.ucar.edu/legal/terms_of_use.shtml#copyright)
 
 **UCAR PRIVACY POLICY**
 
