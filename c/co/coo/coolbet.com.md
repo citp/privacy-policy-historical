@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbet.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202172602id_/http%3A//www.coolbet.com/privacy.asp%3Fmember%3Ddefaultgg%26profile%3Ddefaultgg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbet.com privacy policy that was archived on 2004-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040211015830id_/http%3A//www.coolbet.com/privacy.asp%3Fmember%3Ddefaultgg%26profile%3Ddefaultgg) for the most accurate reproduction.*
 
 # Welcome to Goldgate Casino
 
@@ -44,7 +44,6 @@ If you have any other questions or concerns regarding data privacy and security 
 **Phone Collect or Direct:  
 ** | **1-868-623-4048**  
   |    
-**Toll Free:** |    
 **From: UK , Germany  
 Austria & Switzerland** | **00 800 BET SUNNY  
 00 800 238 78669**  
