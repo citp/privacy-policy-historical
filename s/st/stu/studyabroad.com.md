@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615085744id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205072700id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
 
 # Studyabroad.com Privacy Policy
+
+Studyabroad.com Privacy Policy
 
 ## Privacy Policy
 
@@ -19,6 +21,5 @@ e-mail: [corporate@studyabroad.com](mailto:corporate@studyabroad.com)
 A Pennsylvania corportation since 1992, doing business since 1989.  
 Intellectual Property rights represented by the law firm of Panitch Schwarze Jacobs and Nadel, P.C. 
 
-[](https://web.archive.org/web/20000615085744id_/http%3A//giffile/mainnav.map)
-
-[©Copyright](http://www.studyabroad.com/legal.html) 1995-2000 [Educational Directories Unlimited, Inc.](http://www.edudirectories.com/)
+[©Copyright](http://www.studyabroad.com/legal.html) 1995-2000 [Educational Directories Unlimited, Inc.](http://www.edudirectories.com/)  
+[Contact Studyabroad.com](http://www.studyabroad.com/aboutstudyabroad.com.html)
