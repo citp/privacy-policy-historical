@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217091726id_/http%3A//www.coldwatercreek.com/aspx/CustomerService/CSPrivacy.aspx%3Ffhp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401062847id_/http%3A//www.coldwatercreek.com/aspx/CustomerService/CSPrivacy.aspx) for the most accurate reproduction.*
 
 # Coldwater Creek ~ Privacy & Security
 
