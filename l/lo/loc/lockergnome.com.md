@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204191504id_/http%3A//lockergnome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2002-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020219151739id_/http%3A//lockergnome.com/privacy.html) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Statement
 
@@ -8,24 +8,19 @@
  [Latest Penguin Shell](http://penguinshell.lockergnome.com/)  
  [Latest Digital Media](http://digitalmedia.lockergnome.com/)  
  [Latest Bits & Bytes](http://updates.lockergnome.com/)  
- [Latest Wacky Snaps](http://wacky.lockergnome.com/)  
- [Latest Audio Show](http://www.chrispirilloshow.com/)
+ [Latest Audio Show](http://www.gnomeradio.com/)
 
  [Recommend Us!](https://web.archive.org/recommend.html)  
- [Been Brainbenching?](http://www.brainbench.com/xml/gnome/homepage.xml?XID=Lockergnome&BID=491)  
  [IT Job Search](https://web.archive.org/jobs.html)  
  [Chat With Gnomies](https://web.archive.org/chat.html)  
- [The GnomeSTORE](http://store.lockergnome.com/)  
- [Get Chris's Book](http://www.lockergnome.com/lgstore/producthtml/book-1.html)  
+ [Get Chris's Book](http://lockergnome.pricegrabber.com/search_getprod.php/isbn=0966103254/)  
  [Our Privacy Policy](https://web.archive.org/privacy.html)  
  [Watch The Webcams](https://web.archive.org/webcam.html)  
+ Icon Extravaganza  
+ [GnomeSHOPPER](http://lockergnome.pricegrabber.com/)
 
-
-[](http://www.brainbench.com/xml/gnome/homepage.xml?XID=Lockergnome&BID=540)
-
- [Advertising Info](https://web.archive.org/advertise.html)  
+ [Advertising Info](https://web.archive.org/advertise/)  
  [Visit Our Forums](news://news.lockergnome.com/)  
- [Our AvantGo Channel](https://avantgo.com/mydevice/create_channel.html?title=Lockergnome%20Mobile&url=http%3A%2F%2Fwww.lockergnome.com%2Favantgo.html&max=100&depth=0&images=1&links=0&refresh=always&hours=2&dflags=127&hour=0&quarter=00&s=00)  
  [View More Options](https://web.archive.org/options.html)  
  [Read Past Issues](https://web.archive.org/issues/)  
  [Submit a Link](https://web.archive.org/submit.html)  
@@ -39,19 +34,22 @@
  [General Feedback](mailto:feedback@lockergnome.com?subject=Lockergnome%20Site%20Feedback)  
 
 
-[](http://www.gnomedex.com/)
-
   
- [Mach5 Mailer/Analyzer](http://www.mach5.com/specials/gnomies.html "Dear Valued Customer... ick! Don't do that! Use Mach5 Mailer to send personal messages your recipients will actually appreciate receiving. Have you tapped into the convenience of email merge for your organization?  Download the free trial today!")  
  [FirstStop WebSearch](http://www.firststopwebsearch.com/lockergnomeoffer.html "FirstStop WebSearch\(TM\) Deluxe Edition, a FREE trial version of this incredibly fast, award winning, customizable multi-search engine that has been described as the FASTEST no-nonsense meta search for the net. Now, Gnomies can save 50% when they register a copy of FirstStop WebSearch!")  
- [New! Say The Time 5.0](http://www.impaque.com/lockergnome/ "Say the Time is an attractive timepiece that announces the date, time, or both, at specified intervals using a male or a female voice.  Along with literally telling the time, Say the Time also lets you customize your taskbar's clock, set multiple reminders, synchronize your computer's clock with an atomic clock server, and more.  It's both functional and fun! Try it free for 30 days.  Gnomies save 25% when they register.")  
- [NotePage, Inc](http://www.notepager.com/lockergnome.htm "Do you use pagers, mobile phones, or other wireless messaging devices at work?  Do you want an easy way to let everyone in your company and personal life to send messages to these devices? Download NotePage's alphanumeric paging and wireless messaging software. For a limited time NotePage is offering discounts to Gnomies...")  
- [ThatHostingCompany](http://www.thathostingcompany.com/lgspecial.htm "Got a website?  Need a better way to host it? ThatHostingCompany.com has the best way at a price just for Gnomies!  As an equal opportunity Website host, we promote your success through support of ANY platform in a secure environment!  We have NO bandwidth restrictions!  Click to see for yourself!")  
- [Lost Your Password?](http://www.elcomsoft.com/go?id=1556-6 "Forgot or lost password for ZIP \(PKZip, WinZip\), ARJ/WinARJ, RAR/WinRAR \(2.x\) and ACE/WinACE archives? Need to recover some password-protected files or systems? Former employees leave without un-protecting their files? Our password recovery software will help you! Special limited time offer for Gnomies...")  
+ [Ecobuilder](http://www.ecobuilder.com/lockergnome.cfm "Ecobuilder is the ultimate web application that allows you to get your portal, online community, intranet, extranet or any web site project online by saving time, money and manpower. Gnomies receive $400 off the cost of the software.")  
+ [Visualize Color Combos](http://www.colorcombo.com/ "Choosing color combinations for the web is a careful balance between a
+scheme designed to draw attention; while being respectful of established color-harmony principles.  ColorCombo's four panels scroll, allowing side-by-side color comparisons.  Also text on background checker, 4096 color array, + more. FREE.")  
+ [Tag&Rename](http://www.softpointer.com/tr_2.htm " Organize all your mp3 collection in seconds! You can rename mp3s quickly and easily, write tag information in batch, from file names or import it from cddb. Get your free trial now!")  
+ [Financial Advisor](http://www.othersoft.co.za/fa-gnomies.htm "Take control of your personal finances with this easy to use program. Features include: mortgages, retirement, home budgeting, investments, annuities and many more financial tools and calculators. 25% Discount for Gnomies")  
+ [Back-Office Solutions](http://www.adams-blake.com/item.asp?recordid=sohomain&default=soho "SOHO Order Entry - QuickBooks is a pain. SOHO-123 is a breeze. Finally
+an easy-to-use order-entry, invoice, and customer management program for ")  
+ [MP3 Collector](http://www.collectorz.com/mp3?from=lockergnome "Software for organizing your personal MP3 collection. Group, filter, sort and print your database. Edit ID3 tags, rename files and manage playlists. Click for free trial version.")  
+ [500+ PC Tips](http://www.nerdybooks.com/books/lockergnome/lockergnome.html "40% Lockergnome discounts on Nerdy Books Just the Tips, Man series for Office and Windows software! Over 500 time-saving tips, tricks and shortcuts in each book! And, one of the coolest newsletters around. \(Even Chris likes it!\) Impress your friends, your boss, even your kids. Get fast...Fast!")  
+ [EbooksWriter LITE](http://www.ebookswriter.com/lg.html "Get the EBooksWriter LITE personalized for Lockergnome! The best ebook
+software available, for free! Not just a compiler, a nice all-in-one tool.")  
  [Pretty Good Solitaire](http://www.goodsol.com/lockergnome.html "You will enjoy countless hours of fun with Pretty Good Solitaire!  Play 370 solitaire card games, from classic games like Klondike, FreeCell, and Spider, to original games found nowhere else.  Enjoy lush graphics, large easy-to-read cards, statistics, and quests, a unique new way to play for points.")  
- [Paraben Screen Capture](http://www.paraben.com/html/screen_special.html "Capture all or just a portion of the screen. Set a timer for captures. Capture many forms of multi-media including video and DVD. Once you've captured the screen, use a vast array of editing tools to get it just the way you like it. Then, save the screen capture as an image.")  
- [500+ PC Tips](http://www.nerdybooks.com/books/lockergnome/lockergnome.html "40% Lockergnome discounts on Nerdy Books’ Just the Tips, Man series for Office and Windows software! Over 500 time-saving tips, tricks and shortcuts in each book! And, one of the coolest newsletters around. \(Even Chris likes it!\) Impress your friends, your boss, even your kids. Get fast...Fast!")  
  [Web Tools You Need](http://www.sausagetools.com/lockergnome/index.html "Gnomies get a special rate on the HotDog Web Editing Family.")  
+ More Specials...  
 
 
 [**Get Listed Here**](http://www.lockergnome.com/special.html)
@@ -65,10 +63,8 @@ Search Past Issues:
 **MAKE A CAREER CHANGE THAT COUNTS**  
 Are you ready to [be paid](http://www.lockergnome.com/jobs.html) what you are worth? Change your career - or get a better one! Your [dream job](http://www.lockergnome.com/jobs.html) could be a mouse click away. Visit our [job search](http://www.lockergnome.com/jobs.html) page for a position with a future. Find a [new career](http://www.lockergnome.com/jobs.html) today! 
 
-[](http://store.lockergnome.com/)
-
   
-©2001, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our [Terms of Service](http://www.lockergnome.com/terms.html). Our Web site is hosted by [DigitalDaze](http://www.digitaldaze.com/?lg). Our domains are registered through [DNS Central](http://www.dnscentral.com/). 
+©2002, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our [Terms of Service](http://www.lockergnome.com/terms.html). Our Web site is hosted by [DigitalDaze](http://www.digitaldaze.com/?lg). Our domains are registered through [DNS Central](http://www.dnscentral.com/). 
 
 | 
 
