@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nextel.com privacy policy that was archived on 2001-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010411174854id_/http%3A//www.nextel.com/registration/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextel.com privacy policy that was archived on 2001-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011212141215id_/http%3A//www.nextel.com/registration/privacy_policy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 	 <title>Nextel - Privacy Policy</title>
@@ -40,20 +40,19 @@ store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
 man="'/images/header/hd_face_homeandcontact.jpg'"
 }
 
-if(document.URL.indexOf("/websales/") != -1) {
+if(document.URL.indexOf("/NASApp/nol/StoreLanding") != -1) {
 var header="store";
 store="'/images/header/st_head_button_on.gif'"
 home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
 man="'/images/header/st_face_store.jpg'"
 }
 
-if(document.URL.indexOf("/phone_services/") != -1) {
+if(document.URL.indexOf("/phone_services/") != -1 ||document.URL.indexOf("/kjavaapps/") != -1) {
 var header="store";
 store="'/images/header/st_head_button_on.gif'"
 home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
 man="'/images/header/st_face_store.jpg'"
 }
-
 
 if(document.URL.indexOf("/about/index.shtml") != -1 ||document.URL.indexOf("/about/") != -1) {
 var header="about_home";
@@ -63,7 +62,32 @@ store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
 man="'/images/header/ab_face_about.jpg'"
 }
 
-if(document.URL.indexOf("/NASApp/nol/WWLandingServletindex.shtml") != -1 ||document.URL.indexOf("/NASApp/nol/WWLandingServlet") != -1) {
+
+if(document.URL.indexOf("/wireless/email/pop3def.shtml") != -1 ) {
+var header="wirelessweb_home";
+wirelessweb="'/images/header/ww_head_button_on.gif'"
+home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
+store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
+man="'/images/header/ww_face_wireless.jpg'"
+}
+
+if(document.URL.indexOf("/wireless/web/wireless.shtml") != -1 ) {
+var header="wirelessweb_home";
+wirelessweb="'/images/header/ww_head_button_on.gif'"
+home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
+store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
+man="'/images/header/ww_face_wireless.jpg'"
+}
+
+if(document.URL.indexOf("/wireless/private/wirelessweb.shtml") != -1 ||document.URL.indexOf("/wireless/private/") != -1) {
+var header="wirelessweb_home";
+wirelessweb="'/images/header/ww_head_button_on.gif'"
+home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
+store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
+man="'/images/header/ww_face_wireless.jpg'"
+}
+
+if(document.URL.indexOf("/wireless/private/wirelessweb_plus.shtml") != -1 ||document.URL.indexOf("/wireless/private/") != -1) {
 var header="wirelessweb_home";
 wirelessweb="'/images/header/ww_head_button_on.gif'"
 home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
@@ -88,7 +112,7 @@ man="'/images/header/ma_face_acct_login.jpg'"
 }
 
 
-if(document.URL.indexOf("/support/index.shtml") != -1 ||document.URL.indexOf("/support/") != -1) {
+if(document.URL.indexOf("/support/index.shtml") != -1 ||document.URL.indexOf("/support/") != -1 ||document.URL.indexOf("/keypadlock.shtml") != -1 ) {
 var header="support_home";
 support="'/images/header/cs_head_button_on.gif'"
 home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
@@ -99,7 +123,7 @@ man="'/images/header/cs_face_custsupt.jpg'"
 
 
 
-<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF" link="#000066" vlink="#660066" alink="#660066"> 
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF" link="#000099" vlink="#990099" alink="#990099"> 
   <script language="JavaScript1.2">
 
 switch(header) {
@@ -143,31 +167,31 @@ switch (header) {
 /*  *****This is the blue fade line***** and *****This is the contact us image*****  */
 switch(header) {
 	case "store" :
-		document.write("<td width='15%'><img src='/images/header/hd_top_fade.jpg' width='90' height='32'></td>");
+		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='90' height='32' border='0'></a></td>");
 		document.write("<td width='19%'><a href='/contact/'><img src="+contact+" width='104' height='32' border='0'target='_top'></a></td>");
 		break;
 	case "wirelessweb_home" :
-		document.write("<td width='15%'><img src='/images/header/hd_top_fade.jpg' width='91' height='32'></td>");
+		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='91' height='32' border='0'></a></td>");
 		document.write("<td><a href='/contact/' target='_top'><img src="+contact+" width='104' height='32' border='0'></a></td>");
 		break;
 	case "login" :
-		document.write("<td width='15%'><img src='/images/header/hd_top_fade.jpg' name='blue_fade' width='90' height='32'></td>");
+		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='90' height='32' border='0'></a></td>");
 		document.write("<td width='19%'><a href='/contact/' target='_top'><img src="+contact+" width='104' height='32' border='0'></a></td>");
 		break;
 	case "support_home" :
-		document.write("<td width='15%'><img src='/images/header/hd_top_fade.jpg' name='blue_fade' width='90' height='32'></td>");
+		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='90' height='32' border='0'></a></td>");
 		document.write("<td width='17%'><a href='/contact/' target='_top'><img src="+contact+" width='104' height='32' border='0'></a></td>");
 		break;
 	case "contact" :
-		document.write("<td width='15%'><img src='/images/header/hd_top_fade.jpg' width='91' height='32'></td>");
+		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='91' height='32' border='0'></a></td>");
 		document.write("<td width='19%'><img src="+contact+" width='103' height='32' border='0'></a></td>");
 		break;
 	case "other" :
-		document.write("<td width='15%'><img src='/images/header/hd_top_fade.jpg' width='91' height='32'></td>");
+		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='91' height='32' border='0'></a></td>");
 		document.write("<td width='19%'><a href='/contact/' target='_top'><img src="+contact+" width='103' height='32' border='0'></a></td>");
 		break;
 	default :
-		document.write("<td width='15%'><img src='/images/header/hd_top_fade.jpg' width='91' height='32'></td>");
+		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='91' height='32' border='0'></a></td>");
 		document.write("<td width='19%'><a href='/contact/' target='_top'><img src="+contact+" width='103' height='32' border='0'></a></td>");
 		break;
 }
@@ -204,7 +228,7 @@ document.write("<tr>");
 switch (header) {
 	case "store" :
 		document.write("<td width='61'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/websales/' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
+		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
 		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
@@ -212,7 +236,7 @@ switch (header) {
 		break;
 	case "wirelessweb_home" :
 		document.write("<td width='61' align='left'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/websales/' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
+		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
 		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
 		document.write("<td width='96'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
@@ -221,7 +245,7 @@ switch (header) {
 			
 	case "account_home" :
 		document.write("<td width='61' align='left'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/websales/' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
+		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
 		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
@@ -229,7 +253,7 @@ switch (header) {
 		break;
 	case "support_home" :
 		document.write("<td width='61' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/websales/' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
+		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
 		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
@@ -237,7 +261,7 @@ switch (header) {
 		break;
 	case "about_home" :
 		document.write("<td width='63' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/websales/' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
+		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
 		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
 		document.write("<td width='96'><img src="+about+" width='96' height='29' border='0'></a></td>");
@@ -245,7 +269,7 @@ switch (header) {
 		break;
 	case "home" :
 		document.write("<td width='63' align='right'><img src="+home+" width='61' height='29' border='0'></td>");
-		document.write("<td width='124'><a href='/websales/' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
+		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
 		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
@@ -253,7 +277,7 @@ switch (header) {
 		break;
 	case "login" :
 		document.write("<td width='63' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/websales/' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
+		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
 		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
@@ -261,7 +285,7 @@ switch (header) {
 		break;
 	case "other" :
 		document.write("<td width='63' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/websales/' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
+		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
 		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
@@ -269,7 +293,7 @@ switch (header) {
 		break;
 	default :
 		document.write("<td width='63' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/websales/' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
+		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
 		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
 		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
@@ -281,7 +305,7 @@ document.write("</table>");
 
 /* ***** Header End ***** */
 
-</script><table width="715" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="6"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td colspan="2"><a href="/index.shtml" target="_top"><img src="/images/header/hd_top_register_1.gif" border="0"></a><img src="/images/header/hd_top_register_2.gif" border="0"><a href="/NASApp/nol/InitialRegistrationServlet" target="_top"><img src="/images/header/hd_top_register_3.gif" border="0"></a><img src="/images/header/hd_top_register_4.gif" border="0"></td><td width="15%"><img src="/images/header/hd_top_fade.jpg" width="91" height="32"></td><td width="19%"><a href="/contact/" target="_top"><img src="/images/header/co_head_button_off.jpg" alt="Contact Us" width="103" height="32" border="0"></a></td></tr></tbody></table></td><td rowspan="2" width="113"><img src="/images/header/hd_face_homeandcontact.jpg" width="132" height="61"></td></tr><tr><td width="63" align="right"><a href="/index.shtml" target="_top"><img src="/images/header/hh_head_button_off.jpg" alt="Nextel Home" width="61" height="29" border="0"></a></td><td width="124"><a href="/websales/" target="_top"><img src="/images/header/st_head_button_off.jpg" alt="Phones &amp; Services" width="124" height="29" border="0"></a></td><td width="125"><a href="/support/" target="_top"><img src="/images/header/cs_head_button_off.jpg" alt="Customer Support" width="125" height="29" border="0"></a></td><td width="96"><a href="/NASApp/nol/WWLandingServlet" target="_top"><img src="/images/header/ww_head_button_off.jpg" alt="Wireless Web" width="96" height="29" border="0"></a></td><td width="96"><a href="/about/" target="_top"><img src="/images/header/ab_head_button_off.jpg" alt="About Nextel" width="96" height="29" border="0"></a></td><td width="98"><a href="/NASApp/nol/AMHomeServlet" target="_top"><img src="/images/header/ma_head_button_off.jpg" alt="My Account" width="98" height="29" border="0"></a></td></tr></tbody></table>
+</script><table width="715" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="6"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td colspan="2"><a href="/index.shtml" target="_top"><img src="/images/header/hd_top_register_1.gif" border="0"></a><img src="/images/header/hd_top_register_2.gif" border="0"><a href="/NASApp/nol/InitialRegistrationServlet" target="_top"><img src="/images/header/hd_top_register_3.gif" border="0"></a><img src="/images/header/hd_top_register_4.gif" border="0"></td><td width="15%"><a href="/NASApp/nol/ShoppingCart" target="_top"><img src="/images/header/hd_top_shoppingcart.jpg" width="91" height="32" border="0"></a></td><td width="19%"><a href="/contact/" target="_top"><img src="/images/header/co_head_button_off.jpg" alt="Contact Us" width="103" height="32" border="0"></a></td></tr></tbody></table></td><td rowspan="2" width="113"><img src="/images/header/hd_face_homeandcontact.jpg" width="132" height="61"></td></tr><tr><td width="63" align="right"><a href="/index.shtml" target="_top"><img src="/images/header/hh_head_button_off.jpg" alt="Nextel Home" width="61" height="29" border="0"></a></td><td width="124"><a href="/NASApp/nol/StoreLanding" target="_top"><img src="/images/header/st_head_button_off.jpg" alt="Phones &amp; Services" width="124" height="29" border="0"></a></td><td width="125"><a href="/support/" target="_top"><img src="/images/header/cs_head_button_off.jpg" alt="Customer Support" width="125" height="29" border="0"></a></td><td width="96"><a href="/NASApp/nol/WWLandingServlet" target="_top"><img src="/images/header/ww_head_button_off.jpg" alt="Wireless Web" width="96" height="29" border="0"></a></td><td width="96"><a href="/about/" target="_top"><img src="/images/header/ab_head_button_off.jpg" alt="About Nextel" width="96" height="29" border="0"></a></td><td width="98"><a href="/NASApp/nol/AMHomeServlet" target="_top"><img src="/images/header/ma_head_button_off.jpg" alt="My Account" width="98" height="29" border="0"></a></td></tr></tbody></table>
 
 <table border="0" cellspacing="0" cellpadding="0" width="735">
   <tbody><tr> 
@@ -309,8 +333,8 @@ document.write("</table>");
                 Nextel Communications respects the privacy of visitors to our 
                 site. Please read this Privacy Policy carefully so that you understand 
                 our privacy practices. If you have any questions about this Privacy 
-                Policy, please contact us at <a href="mailto:ecare@nextel.com">ecare@nextel.com</a>. 
-                </span></p>
+                Policy, please contact us at <a href="/NASApp/nol/CustomerCareServlet/">Customer 
+                Care</a>. </span></p>
               <p><span class="bodytext">Children should always get permission 
                 from their parents before sending any information about themselves 
                 (such as their names, email addresses, and phone numbers) over 
@@ -422,14 +446,16 @@ via pop-up surveys. Participation in these surveys is completely voluntary; if
 you don't want to provide the requested information, just don't respond to the 
 survey. The information we gather through these surveys will be used to improve 
 our site. </span></p>
-<p><span class="bodytext">The information we collect from our visitors is encrypted 
-for storage within a database we control. Physical access to the servers on which 
-we store visitor information is restricted. To protect the privacy of your credit 
-card number and other ordering information, we encrypt this information for transit 
-over the Internet using a Secure Socket Layer ("SSL") connection. However, as 
-effective as encryption technology is, no security system is impenetrable. We 
-cannot guarantee the security of our database, nor can we guarantee that information 
-you supply won't be intercepted while being transmitted over the Internet. </span></p>
+              <p><span class="bodytext">The information we collect from our visitors 
+                is stored within a database we control. Physical access to the 
+                servers on which we store visitor information is restricted. To 
+                protect the privacy of your credit card number and other ordering 
+                information, we encrypt this information for transit over the 
+                Internet using a Secure Socket Layer ("SSL") connection. However, 
+                as effective as encryption technology is, no security system is 
+                impenetrable. We cannot guarantee the security of our database, 
+                nor can we guarantee that information you supply won't be intercepted 
+                while being transmitted over the Internet. </span></p>
 <p><span class="bodytext">Most web browsers allow use of an SSL connection. If 
 your browser does not support use of an SSL connection, or if you prefer not to 
 send your credit card number over the Internet, you can place your order by calling 
@@ -465,18 +491,20 @@ transferred assets. </span></p>
   <tbody><tr>
     <td height="29" class="footer"> 
       <div align="center"> 
-        <p><a href="/index.shtml" target="_top">Home</a> 
-          | <a href="/websales/" target="_top">Phones &amp; Services</a> | <a href="/support/index.shtml" target="_top">Customer 
+        <p><a href="/index.shtml" target="_top">Home</a> | <a href="/NASApp/nol/StoreLanding" target="_top">Phones 
+          &amp; Services</a> | <a href="/support/index.shtml" target="_top">Customer 
           Support</a> | <a href="/NASApp/nol/WWLandingServlet" target="_top">Wireless 
-          Web</a> | &nbsp;<a href="/about/index.shtml" target="_top">About 
-          Nextel</a> | <a href="/NASApp/nol/AMHomeServlet" target="_top">My 
-          Account</a> | <a href="/contact/index.shtml" target="_top">Contact 
-          Us</a><br>
-          2001 
-          Nextel Communications. All rights reserved. <a href="/legal.shtml" target="_top">Copyright 
-          and Disclaimer Notice</a> 1-800-639-6111<br>
-	  By accessing this site, you accept the terms of our <a href="/registration/visitor_agreement.shtml" target="_top"> 
-          Visitor Agreement</a> and <a href="/registration/privacy_policy.shtml" target="_top">Privacy Policy</a>. Please read them.</p>
+          Web</a> | &nbsp;<a href="/about/index.shtml" target="_top">About Nextel</a> 
+          | <a href="/NASApp/nol/AMHomeServlet" target="_top">My Account</a> | 
+          <a href="/contact/index.shtml" target="_top">Contact Us</a> <a href="/sitemap.shtml"><br>
+          Site Map</a> | Customer Care 1-800-639-6111 (<a href="/contact/index.shtml">Hours 
+          of Operation</a>) </p>
+        <p> <span class="footer">By accessing this site, you accept the terms 
+          of our <a href="/registration/visitor_agreement.shtml" target="_top"> 
+          Visitor Agreement</a> and <a href="/registration/privacy_policy.shtml" target="_top">Privacy 
+          Policy</a>.<br>
+          ©2001 Nextel Communications. All rights reserved. <a href="/legal.shtml" target="_top">Copyright 
+          and Disclaimer Notice</a></span></p>
         </div>
     </td>
   </tr>
