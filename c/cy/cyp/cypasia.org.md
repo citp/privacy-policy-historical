@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cypasia.org privacy policy that was archived on 2004-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040419222814id_/http%3A//www.cypasia.org/html/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cypasia.org privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214034629id_/http%3A//www.cypasia.org/html/policy.html) for the most accurate reproduction.*
 
 # CYP Asia Centre
 
