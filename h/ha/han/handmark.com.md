@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604013620id_/http%3A//www.handmark.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211111319id_/http%3A//handmark.com/privacy.html) for the most accurate reproduction.*
 
 # Handmark Privacy Policy
 
@@ -33,7 +33,7 @@ Information about our customers is an important part of our business, and we are
   * **Agents** \- We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
   * **Promotional Offers** \- Sometimes we send offers to selected groups of Handmark, Inc. customers on behalf of other businesses. When we do this, we do not give that business your name and address. 
   * **Business Transfers** \- As we continue to develop our business, we might sell or buy products, services or other assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that Handmark, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-  * **Protection of Handmark, Inc. and Others** \- We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our and other agreements; or protect the rights, property, or safety of Handmark, Inc., our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+  * **Protection of Handmark, Inc. and Others** \- We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Handmark, Inc., our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
   * **With Your Consent** \- Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
 
