@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porndollar.com privacy policy that was archived on 2003-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031215035420id_/http%3A//www.porndollar.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porndollar.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403233035id_/http%3A//www.porndollar.com/private.html) for the most accurate reproduction.*
 
 # 
 
