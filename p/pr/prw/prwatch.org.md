@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the prwatch.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101559id_/http%3A//www.prwatch.org/cmd/privacy.html) for the most accurate reproduction.*
+
+# CMD Privacy Policy
+
+The Center for Media & Democracy (CMD) is committed to preserving your privacy and safeguarding your information online. The following statement describes the general information-gathering and usage practices of our website. 
+
+CMD does not sell or trade names or other personal data that we collect on our website, nor do we maintain any credit card information. Credit card donations through our website are processed exclusively by [eGrants.org](https://www.groundspring.org/donate/index.cfm?ID=2344-0|1118-0), which is committed to providing safe, secure and private online transactions. For further details about their privacy practices, please consult their [privacy and security policy directly](http://www.egrants.org/privacy).
+
+When you make a donation to us through the [Donate Now!](https://www.groundspring.org/donate/index.cfm?ID=2344-0|1118-0) button on our website, eGrants shares your contact information (name, address and email address) with us. We maintain this information in our database of supporters in order to keep you abreast of our future work and related issues that may be of interest to you. You may also receive our quarterly publication, _PR Watch_. If you do not want to receive materials from us, you can call (608) 260-9713 or email us at [editor@prwatch.org](mailto:editor@prwatch.org).
+
+Our site does not use any "cookies," except on the [PR Watch Forum](https://web.archive.org/web/20041204101559id_/http%3A//www.prwatch.org/forum/), where they are a standard part of the bulletin board software which runs the forum. We do not use cookies to collect personal information about you or your web browsing activities. "Cookies" are bits of information that are stored by your browser on your hard drive which allow you to have a more personalized experience on a site. You can turn off the "cookie" function through most standard browsers. You will still be able to use the PR Watch Forum if you turn off the cookie function, but the forum may function less smoothly. For a more detailed explanation, visit the description of cookies in the Forum's [Frequently Asked Questions](http://prwatch.org/forum/misc.php?action=faq&page=1#cookies). 
+
+We work hard to ensure that your experience on our site is a positive one. If you have any questions about this privacy policy or your dealings with our site, please contact us at the address below.
