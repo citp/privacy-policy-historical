@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405121500id_/http%3A//www.caller.com/ccct/home/article/1%2C1641%2CCCCT_800_872022%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205095231id_/http%3A//www.caller.com/ccct/home/article/1%2C1641%2CCCCT_800_872022%2C00.html) for the most accurate reproduction.*
 
-# Caller.com
+# Corpus Christi Coastal Bend South Texas news, information, events calendar
+
+  
+Privacy Policy
+
+ **November 8, 2001**
 
 Caller Times New Media is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Caller.com we intend to give you as much control as possible over your personal information. 
 
@@ -49,5 +54,3 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 VII. Use of Materials 
 
 The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at ctinter@scripps.com.
-
- **November 8, 2001**
