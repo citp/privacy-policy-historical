@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621150821id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203020719id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
 
 # OreognLive.com: Privacy Policy
 
@@ -74,8 +74,8 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads7.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/677765607/Sponsor1/default/empty.gif/64316564656561643365663437346530)   
-[](http://ads7.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/1311576704/Tile1/OREGONLIVE/AV_PSA_OR08/adc_loc_ghost_120x240.gif/64316564656561643365663437346530)   
+[](http://ads6.udc.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/815135202/Sponsor1/default/empty.gif/64316564656561633366636434353530)   
+[](http://ads6.udc.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/1976093497/Tile1/OREGONLIVE/OR_COFOOTBALL/collegefb_tower3.gif/64316564656561633366636434353530)   
   
   
 
