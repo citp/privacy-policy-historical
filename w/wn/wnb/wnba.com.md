@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnba.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206095822id_/http%3A//www1.wnba.com/news/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnba.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413055107id_/http%3A//www.wnba.com/news/privacy_policy.html) for the most accurate reproduction.*
 
 # WNBA.com: NBA.com Network Privacy Policy
 
