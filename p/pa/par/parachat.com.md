@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013120834id_/http%3A//www.parachat.com/faq/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602052746id_/http%3A//www.parachat.com/faq/privacypolicy.html) for the most accurate reproduction.*
 
 # ParaChat Privacy Policy
 
 ParaChat Group takes your privacy seriously. To learn more about ParaChat Group's privacy policy, please read our policy below.
 
-The Federal Trade Commission offers information about [ surfing the Internet safely](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html).
+The Federal Trade Commission offers information about [ surfing the Internet safely](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html).
 
 **Privacy Policy Coverage**
 
@@ -53,7 +53,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Editing and Deleting Your Product and/or Account Information**
 
-To edit and/or delete your product and/or account information that has already been provided by you to ParaChat Group, including whether you want ParaChat Group to contact you about specials and new products, please contact [ParaChat Support](mailto:support@parachat.com) for instructions. You may also follow the instructions for editing and/or deleting product and/or account information that were provided to you when your service was initiated, or for mailing list addition or deletion using the instructions that are included in a mailing list email that you may have received.
+To edit and/or delete your product and/or account information that has already been provided by you to ParaChat Group, including whether you want ParaChat Group to contact you about specials and new products, please contact our [support team](mailto:support@parachat.com?subject=) for instructions. You may also follow the instructions for editing and/or deleting product and/or account information that were provided to you when your service was initiated, or for mailing list addition or deletion using the instructions that are included in a mailing list email that you may have received.
 
 **Security**
 
@@ -71,4 +71,4 @@ ParaChat Group may amend this policy from time to time without notice. Please re
 
 **Questions or Suggestions**
 
-If you have any questions or suggestions, please contact [support@parachat.com](mailto:info@parachat.com). 
+If you have any questions or suggestions, please contact our [support team](mailto:support@parachat.com?subject=). 
