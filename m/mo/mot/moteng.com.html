@@ -1,0 +1,360 @@
+<!--The following is the downloaded HTML source of the moteng.com privacy policy that was archived on 2001-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011216220412id_/http%3A//moteng.com/Privacy) for the most accurate reproduction.-->
+
+<html><head>
+<title>Privacy - Moteng International</title>
+	<link rel="SHORTCUT ICON" href="/favicon.ico">
+
+	<meta name="Description" content="">
+	<meta name="KeyWords" content="knife, multipurpose, tools, flashlight, torch, store, lantern, lighter, fishing, hunting, camping, outdoor, cutlery, kitchen, police, public safety, duty gear, coleman, leatherman, maglite, swissarmy, victorinox, zippo, buck, s &amp; w, smith &amp; wesson, smith and wesson, gerber, timex, spiderco, benchmade">
+	<meta name="robots" content="all, index, follow">
+	<meta name="organization-email" content="info@moteng.com">
+	<meta name="copyright" content="Copyright 2001 - Moteng International">
+	<meta name="coverage" content="Worldwide">
+	<meta name="distribution" content="Global">
+	<meta name="" http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<meta name="identifier" content="http://www.moteng.com/">
+	<meta name="classification" content="">
+
+	<style type="text/css">
+	<!--
+		A.Menu:Link {    
+      font-family: "Verdana, Arial, Sans-Serif";
+      font-size: "12px";
+      text-decoration: none;
+		}
+		
+		A.Menu {
+			text-decoration: none;
+		}
+
+		BODY {
+			font-family: "Verdana, Arial, Sans-Serif";
+			font-size: 12px;
+		}
+		
+		SELECT {
+			font-family: "Verdana, Arial, Sans-Serif";
+			font-size: 12px;
+		}
+		
+		OPTION {
+			font-family: "Verdana, Arial, Sans-Serif";
+			font-size: 12px;
+		}
+
+		Input {
+      BACKGROUND-COLOR: #FFFFFF;
+  		font-family: "Verdana, Arial, Sans-Serif";
+  		FONT-SIZE: 12 px;
+		}
+        
+		.YellowButton {
+  		BACKGROUND-COLOR: #EFE734;
+  		font-family: "Verdana, Arial, Sans-Serif";
+  		color: #000000;
+  		FONT-SIZE: 8 pt;
+		}
+    
+    .YellowButtonBig {
+  		BACKGROUND-COLOR: #EFE734;
+  		font-family: "Verdana, Arial, Sans-Serif";
+  		color: #000000;
+  		FONT-SIZE: 10 pt;
+		}
+	// -->
+	</style>
+	
+	<script language="JavaScript">
+	<!--
+
+		var isMinNS4, isMinIE4, isMinIE5, bDHTMLSupport;
+		var iMenuBorder = 0;
+		var iCurrentSectionID = 0;
+		var sServerUrl = "http://moteng.com";
+    var csLoginPage = sServerUrl+URLCreate( "/Home/Login.asp" );
+
+    var ciPublicUser = 0, ciRegisteredUser = 1, ciCustomerUser = 2, ciVendorUser = 3;
+    var csConnectionsImagePrefix = "/Images/Menu/Connections";
+    
+		// the ID for each section
+		var ciSectionDefault=0, ciSectionHome=1, ciSectionAboutUs=2, ciSectionProducts=3;
+		var ciSectionServices=4, ciSectionContactUs=5, ciSectionNews=6, ciSectionConnections=7;
+		
+    // the IDs of the layer and div which surround form elements to hide when over the menu
+    var csWindowElementLayer = "wel";
+    var csWindowElementDiv = "wed";
+		
+		// determine the browser
+		isMinNS4 = (navigator.appName.indexOf("Netscape") >= 0 && parseFloat(navigator.appVersion) >= 4) ? 1 : 0;
+		isMinIE4 = (document.all) ? 1 : 0;
+		isMinIE5 = (isMinIE4 && navigator.appVersion.indexOf("5.") >= 0) ? 1 : 0;    
+		bDHTMLSupport = ( isMinNS4 || isMinIE4 || isMinIE5 );
+    
+		if( bDHTMLSupport )
+			window.onerror = new Function("return true");
+		
+    
+		function URLCreate( psAddress ) {	
+      // Purpose :	Add required fields to an HTML link
+    	// Inputs  :	psAddress - the HTML link
+    	// Returns :	The new URL
+    
+      var sAddress, sDelimiter, sLastChar;
+      
+      sLastChar = psAddress.charAt( psAddress.length-1 );
+      
+      // remove any trailing question mark or ampersand
+      if( sLastChar == "?" || sLastChar == "&" )
+        sAddress = psAddress.substr(0, psAddress.length-1)
+      else
+        sAddress = psAddress
+        
+      // set the delimiter
+    	if( sAddress.indexOf( "?" ) > 0 )
+        sDelimiter = "&";
+      else
+        sDelimiter = "?";
+
+  
+      return sAddress;
+		}
+		
+    function URLCreateQuery( psAddress, psUrlQuery ) {
+    	// Purpose :	Add required fields to an HTML link
+    	// Inputs  :	psAddress  - the HTML link
+    	//			      psUrlQuery - additional query string information
+    	// Returns :	The new URL
+      // Notes   : This function is DEPRECATED - Use URLCreate() instead with the URL query included in the address
+  
+      return URLCreate( psAddress + "?" + psUrlQuery );
+    }
+		
+		
+		var sFeedbackURL = "SPage=http://moteng.com/Privacy/Default.asp&rq=";
+    
+    function SubMenuSetUp() {
+			// Purpose : Store the information of the sub menus
+			// Returns : (None)
+						
+			var oMenu = new Menu();
+			
+			// MenuChildAdd( psParent, psHref, psText ) 
+			
+			oMenu.MenuParentAdd( "Home" );
+			oMenu.MenuParentAdd( "AboutUs" );
+			oMenu.MenuParentAdd( "Products" );
+			oMenu.MenuParentAdd( "Services" );
+			oMenu.MenuParentAdd( "ContactUs" );
+			//oMenu.MenuParentAdd( "News" );
+			oMenu.MenuParentAdd( "Connections" );
+			
+      oMenu.MenuChildAdd( "Home", sServerUrl+URLCreate( "/Home/" ), "Home" );      
+      
+      oMenu.MenuChildAdd( "Home", csLoginPage, "Login" );
+      oMenu.MenuChildAdd( "Home", sServerUrl+URLCreate( "/Home/Search.asp" ), "Search" );
+			oMenu.MenuChildAdd( "Home", sServerUrl+URLCreate( "/Home/Customer.asp?r=1" ), "Become a Customer" );
+			//oMenu.MenuChildAdd( "Home", sServerUrl+URLCreate( "/Home/Vendor.asp" ), "Become a Vendor" );
+			oMenu.MenuChildAdd( "Home", sServerUrl+URLCreate( "/Home/Register.asp" ), "Register" );
+      oMenu.MenuChildAdd( "Home", sServerUrl+URLCreate( "/Home/Customer.asp?r=2" ), "Request a Catalog" );
+      
+			
+      oMenu.MenuChildAdd( "AboutUs", sServerUrl+URLCreate( "/AboutUs/" ), "About Us" );
+			oMenu.MenuChildAdd( "AboutUs", sServerUrl+URLCreate( "/AboutUs/History.asp" ), "History" );
+			
+
+            
+  			oMenu.MenuChildAdd( "Products", sServerUrl+URLCreate( "/Products/" ), "Products" );
+  			oMenu.MenuChildAdd( "Products", sServerUrl+URLCreate( "/Products/Default.asp?list=1" ), "List by Brand" );
+	  		oMenu.MenuChildAdd( "Products", sServerUrl+URLCreate( "/Products/Default.asp?list=2" ), "List by Section" );
+			
+			
+      oMenu.MenuChildAdd( "Services", sServerUrl+URLCreate( "/Services/" ), "Services" );
+			oMenu.MenuChildAdd( "Services", sServerUrl+URLCreate( "/Services/ShippingPolicy.asp" ), "Shipping Policy" );
+			oMenu.MenuChildAdd( "Services", sServerUrl+URLCreate( "/Services/ReturnPolicy.asp" ), "Return Policy" );
+			oMenu.MenuChildAdd( "Services", sServerUrl+URLCreate( "/Services/DropShipProgram.asp" ), "DropShip Program" );
+			
+      oMenu.MenuChildAdd( "ContactUs", sServerUrl+URLCreate( "/ContactUs/" ), "Contact Us" );
+      oMenu.MenuChildAdd( "ContactUs", sServerUrl+URLCreate( "/ContactUs/Admin.asp" ), "Administration" );
+      oMenu.MenuChildAdd( "ContactUs", sServerUrl+URLCreate( "/ContactUs/CustomerService.asp" ), "Customer Service" );
+      oMenu.MenuChildAdd( "ContactUs", sServerUrl+URLCreate( "/ContactUs/Purchasing.asp" ), "Purchasing" );
+			oMenu.MenuChildAdd( "ContactUs", sServerUrl+URLCreate( "/ContactUs/Feedback.asp?"+sFeedbackURL ), "Feedback" );
+			oMenu.MenuChildAdd( "ContactUs", sServerUrl+URLCreate( "/ContactUs/Map.asp" ), "Map" );
+			
+      //oMenu.MenuChildAdd( "News", sServerUrl+URLCreate( "/News/" ), "News" );
+			//oMenu.MenuChildAdd( "News", sServerUrl+URLCreate( "/News/Product.asp" ), "Product" );
+			//oMenu.MenuChildAdd( "News", sServerUrl+URLCreate( "/News/Corporate.asp" ), "Corporate" );
+			
+      
+        oMenu.MenuChildAdd( "Connections", sServerUrl+URLCreate( "/Connections/" ), "Connections" );
+  			oMenu.MenuChildAdd( "Connections", sServerUrl+URLCreate( "/Connections/Customer/" ), "Customer" );
+	  		//oMenu.MenuChildAdd( "Connections", sServerUrl+URLCreate( "/Connections/Vendor/" ), "Vendor" );
+			
+    }
+	// -->
+	</script>
+<script language="JavaScript" src="/Inc/Menu.js"></script></head>
+<body text="#000000" marginwidth="0" leftmargin="0" rightmargin="0" topmargin="0" bgcolor="#FFFFFF">
+	<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bordercolor="black">
+		<tbody><tr bgcolor="#FFFFFF">
+			<!-- header -->
+			<td colspan="2" width="100%" height="" align="center" valign="middle">
+				<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="33%" height="60" align="center" valign="center">
+							<a href="/Home/"><img src="/Images/MotengLogo.gif" alt="Moteng International" border="0" align="center"></a>
+						</td>
+						<td>
+							&nbsp;
+						</td>
+						<td width="33%" align="right" valign="bottom">
+							<font face="Verdana, Arial, Sans-Serif" size="2">
+                </font><form action="/Home/Search.asp" method="post"><font face="Verdana, Arial, Sans-Serif" size="2">
+                  <table border="0">
+                  
+                    <tbody><tr>
+                      <td valign="center">
+                        <font face="Verdana, Arial, Sans-Serif" size="2">Search
+                        <input type="text" name="SearchString" size="10" maxlength="100">
+                        <input type="submit" value="Go" class="YellowButton">
+                        </font>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="2">
+                        <font face="Verdana, Arial, Sans-Serif" size="1">
+                        <b>(800) 367-5900</b>&nbsp;or
+                        <b>(858) 715-2500</b>&nbsp;
+                      </font></td>
+                    </tr>
+                  </tbody></table>
+              </font>
+						</form></td>
+            <!-- Closing the form after the close TD eliminates the empty space below the close form tag -->
+            
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr bgcolor="#EFE734">
+			<!-- menu -->
+			<td align="left" valign="top">
+				&nbsp;
+			</td>
+			<td width="80%" height="" align="left" valign="bottom">
+								<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td valign="bottom" width="51"><a href="/Home/" name="HomeLinkID" onmouseover="MenuEntry('Home', 'HomeOn', 0);" onmouseout="MenuExit('Home', 'HomeOff', 0);"><img width="51" height="25" border="0" id="Home" name="Home" alt="Home" src="/Images/Menu/Home.gif"></a></td>
+						<td valign="bottom" width="65"><a href="/AboutUs/" name="AboutUsLinkID" onmouseover="MenuEntry('AboutUs', 'AboutUsOn', 1);" onmouseout="MenuExit('AboutUs', 'AboutUsOff', 1);"><img width="65" height="25" border="0" id="AboutUs" alt="About Us" name="AboutUs" src="/Images/Menu/AboutUs.gif"></a></td>
+						<td valign="bottom" width="64"><a href="/Products/" name="ProductsLinkID" onmouseover="MenuEntry('Products', 'ProductsOn', 2);" onmouseout="MenuExit('Products', 'ProductsOff', 2);"><img width="64" height="25" border="0" id="Products" name="Products" alt="Products" src="/Images/Menu/Products.gif"></a></td>
+						<td valign="bottom" width="62"><a href="/Services/" name="ServicesLinkID" onmouseover="MenuEntry('Services', 'ServicesOn', 3);" onmouseout="MenuExit('Services', 'ServicesOff', 3);"><img width="62" height="25" border="0" id="Services" name="Services" alt="Services" src="/Images/Menu/Services.gif"></a></td>
+						<td valign="bottom" width="74"><a href="/ContactUs/" name="ContactUsLinkID" onmouseover="MenuEntry('ContactUs', 'ContactUsOn', 4);" onmouseout="MenuExit('ContactUs', 'ContactUsOff', 4);"><img width="74" height="25" border="0" id="ContactUs" name="ContactUs" alt="Contact Us" src="/Images/Menu/ContactUs.gif"></a></td>
+						<td valign="bottom" width="81"><a href="/Connections/" name="ConnectionsLinkID" onmouseover="MenuEntry('Connections', 'ConnectionsOn', 5);" onmouseout="MenuExit('Connections', 'ConnectionsOff', 5);"><img width="81" height="25" border="0" id="Connections" name="Connections" alt="Connections" src="/Images/Menu/Connections.gif"></a></td>
+						<td><img src="/Images/BlankSquare.gif" height="35" width="1"></td>
+					</tr>
+				</tbody></table>
+
+			</td>
+		</tr>
+
+
+	<tr>
+		<!-- left column -->
+		<td width="20%" height="100%" bgcolor="#EFE734" valign="top">
+			<table border="0" cellpadding="5" cellspacing="0" width="100%" height="100%">
+				<tbody><tr>
+					<td valign="top">
+						<img src="/Images/BlankSquare.gif" width="150" height="1" border="0"><br>
+						<font face="Verdana, Arial, Sans-Serif" size="2">
+												<a href="/Home/"><b>Home</b></a><br>		<a href="/Home/Login.asp"><b>Login</b></a><br>
+						<a href="/Home/Search.asp"><b>Search</b></a><p>
+    <a href="/Home/Customer.asp?r=1">Become a Customer</a><br>
+		<!-- <a href="/Home/Vendor.asp">Become a Vendor</a><br>
+		 <a href="/Home/Register.asp">Register</a><br> -->
+    <a href="/Home/Customer.asp?r=2">Request a Catalog</a><br><br>
+
+					</p></font></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<!-- body -->
+		<td width="80%" height="100%" valign="top">
+			<table border="0" cellpadding="10" cellspacing="0" width="100%" height="100%">
+				<tbody><tr>
+					<td valign="top">
+					<font face="Verdana, Arial, Sans-Serif" size="2">
+<title>Privacy</title>
+<table border="0" width="490">
+  <tbody><tr>
+    <td width="100%" valign="top" align="left"><font face="Verdana, Arial, Sans-Serif"><font size="3"><b>Moteng
+      Privacy Statement<br>
+      </b></font><br>
+      </font></td>
+  </tr>
+</tbody></table>
+<table border="0" width="490">
+  <tbody><tr>
+    <td width="100%" valign="top" align="justify"><p align="justify"><font face="Verdana, Arial, Sans-Serif" size="2">Moteng,
+      Inc. is committed to your privacy and guards your data carefully.&nbsp; We
+      realize that your information may be considered sensitive in nature and
+      understand the importance of protecting the privacy of all information
+      provided by those who complete our questionnaire.</font>
+      </p><p align="justify"><font face="Verdana, Arial, Sans-Serif" size="2">Moteng, Inc. may collect some
+      personally identifiable information about you while you are visiting this
+      site.&nbsp; Such information would include your name, telephone number,
+      e-mail address, or professional data.&nbsp; We use this information to
+      help maintain accurate records, answer inquiries, promote efficiencies
+      within our company and to help make our website useful to you.&nbsp;
+      Moteng, Inc. uses reasonable precautions to keep the personal information
+      you have disclosed to us, secure.</font></p>
+      <p align="justify"><font face="Verdana, Arial, Sans-Serif" size="2">For questions regarding the policy
+      above, contact:<br>
+      <br>
+      </font></p></td>
+  </tr>
+</tbody></table>
+<table border="0" width="490">
+  <tbody><tr>
+    <td width="143" valign="top" align="left"><font face="Verdana, Arial, Sans-Serif" size="2"><b>By
+      Phone:&nbsp; </b><br>
+      <b>By Fax:<br>
+      By E-mail:</b></font></td>
+    <td width="333" valign="top" align="left"><font face="Verdana, Arial, Sans-Serif" size="2">(800)
+      367-5900 or (858) 715-2500<br>
+      (800) 367-5903 or (858) 715-2525<br>
+      <a href="mailto:info@moteng.com">info@moteng.com</a></font></td>
+  </tr>
+</tbody></table>
+
+					</font></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	<tr bgcolor="#EFE734">
+
+		<!-- footer -->
+		<td colspan="2" align="center" width="100%" height="">
+			<font face="Verdana, Arial, Sans-Serif" size="2">
+
+			<a href="/Legal/"><font color="black">Legal</font></a> |
+
+			<a href="/ContactUs/"><font color="black">Contact</font></a> |
+
+			<a href="/Privacy/"><font color="black">Privacy</font></a> |
+
+			<a href="/ContactUs/Feedback.asp?SPage=http://moteng.com/Privacy/Default.asp&amp;rq="><font color="black">Feedback</font></a> |
+
+			<a href="/Home/"><font color="black">Home</font></a>
+
+			<img src="/Images/BlankSquare.gif" height="30" width="1" align="absmiddle">
+
+      <br>
+      <a href="/Legal/"><font color="black" size="1">©1998-2001 Moteng Inc.</font></a>
+  	</font></td>
+	</tr>
+</tbody></table>
+
+
+</body></html>
