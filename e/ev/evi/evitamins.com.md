@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010647id_/http%3A//evitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405083956id_/http%3A//evitamins.com/privacy.asp) for the most accurate reproduction.*
 
 # eVitamins : Privacy Policy
 
@@ -11,10 +11,13 @@ eVitamins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent,
 eVitamins  
 Attn: Privacy Concerns  
 6060 Collection Drive  
+Suite 101  
 Shelby Twp., MI  
 48316
 
-If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/watchdog.html>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (
+
+[ _http://www.truste.org/watchdog.html_](http://www.truste.org/watchdog.html)). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 eVitamins respects and is committed to protecting your privacy. We use the information we collect on the site to make shopping at eVitamins possible and to enhance your overall shopping and health experience. **We do not sell, trade, rent or loan your personal information to others, unless instructed by a court of law.** If you do not want to receive any announcements or special offers from us, email us at [promotions@evitamins.com](mailto:promotions@evitamins.com?subject=Remove%20Me) and tell us to remove you.
 
@@ -46,7 +49,7 @@ To place an order on our site, your browser must except SSL. We use some of the 
 
 **Will we send you annoying emails every other day?**
 
-Unlike a lot of websites today, not mentioning any names :), we respect your privacy.  Vitamins-etc. will not send you lots of annoying emails.  On occasion, we may send you an email to see how you are doing and if there is anything we can do to help you.
+Unlike a lot of websites today, not mentioning any names :), we respect your privacy.  eVitamins will not send you lots of annoying emails.  On occasion, we may send you an email to see how you are doing and if there is anything we can do to help you.
 
 **Will eVitamins disclose the information it collects to outside parties?**
 
