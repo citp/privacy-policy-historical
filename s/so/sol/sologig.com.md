@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405192855id_/http%3A//www.sologig.com/noncore/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219025655id_/http%3A//sologig.com/noncore/Privacy.asp) for the most accurate reproduction.*
 
 # Sologig.com | Privacy
 
-|  | 
+| 
 
 |  **Personal Information**
 
@@ -24,6 +24,4 @@ Headhunter.net employs the highest level of encryption for secure credit card tr
 **About Cookies**
 
 At Sologig.com, we use cookies only for the protection and convenience of our users. Cookies enable us to serve secure pages to our users without asking them to login repeatedly. If a user's system is idle for more than an hour, however, the cookie will expire, forcing the user to login again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer.   
-  
-  
-| 
+
