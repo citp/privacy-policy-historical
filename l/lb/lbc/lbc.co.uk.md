@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612053111id_/http%3A//lbc.co.uk/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205021426id_/http%3A//www.lbc.co.uk/article.asp%3Fid%3D26816) for the most accurate reproduction.*
 
 # LBC
+
+|  |  Privacy Policy
 
 This policy applies to the website of LBC 97.3 FM, at www.lbc.co.uk 
 
@@ -43,3 +45,14 @@ It is important to note that this site contains links to other sites, and that t
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY.**
 
 We reserve the right to change this policy at any time by posting a revised privacy policy here. 
+
+|  |  | 
+
+  
+[](https://web.archive.org/ad/click.asp?adID=10189&adRunID=16842)   
+[](https://web.archive.org/ad/click.asp?adID=17611&adRunID=24992)   
+[](https://web.archive.org/ad/click.asp?adID=4487&adRunID=8136)   
+[](https://web.archive.org/ad/click.asp?adID=11738&adRunID=18492)
+
+|   
+---|---|---|---|---|---
