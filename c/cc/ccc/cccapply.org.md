@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622100509id_/http%3A//cccapply.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203081941id_/http%3A//cccapply.org/privacy.asp) for the most accurate reproduction.*
 
 # CCCApply - Privacy Policy Statement
 
@@ -16,6 +16,7 @@ The Chancellor's Office California Community Colleges is offering students and p
   * Ways in which personal identifying information may be used
   * With whom personal identifying information may be shared
   * Security measures to prevent misuse of information entrusted to CCCApply
+  * Notification policy for California residents
   * Cookies
   * Links
   * Modifying and deleting your information
@@ -24,7 +25,7 @@ The Chancellor's Office California Community Colleges is offering students and p
 
 
 **THE INFORMATION WE COLLECT**  
-CCCApply collects personal information from you including your name, date of birth, address, e-mail address, telephone number, grade level, social security number and such additional information as you provide to complete admission applications to the California Community Colleges and Supplements to those applications. When the effective functioning of a CCCApply module does not require personal information, none is collected, and any such module can be accessed without providing any personal data. 
+CCCApply collects personal information from you including your name, date of birth, address, e-mail address, telephone number, grade level, Social Security number and such additional information as you provide to complete admission applications to the California Community Colleges and Supplements to those applications. When the effective functioning of a CCCApply module does not require personal information, none is collected, and any such module can be accessed without providing any personal data. 
 
 **CCCAPPLY PRIVACY POLICY AND ITS EXCEPTIONS**  
 Except as set forth below, the personal identifying data you submit to CCCApply is not made available or distributed to third parties, unless authorized by law or with your express consent. In particular, the Chancellor's Office California Community Colleges and Xap Corporation will not sell or provide access to your personal information to any company, individual or organization for its use in marketing or commercial solicitation. 
@@ -70,6 +71,10 @@ In each of the circumstances described below, data specifically required to perf
 CCCApply enables the data you input to be encrypted when in route between your browser and the CCCApply™ server and when in route between the CCCApply server and some other browser or server. This practice helps prevent unauthorized third parties from intercepting and gaining access to your private data during transmission over the Internet. CCCApply uses 56-bit, Secure Socket Layer encryption supported by both Netscape's and Microsoft's current browsers. 
 
 Data residing on the CCCApply server is password protected, and access is provided only to those employees of Xap Corporation who require such access to administer and maintain the CCCApply system or to provide requested customer support to users of CCCApply. Each Xap Corporation employee who has access to the data residing on the CCCApply server has agreed in writing to respect the privacy of all such personal data. 
+
+**NOTIFICATION POLICY FOR CALIFORNIA RESIDENTS**  
+In the event Xap reasonably believes that your unencrypted personal information has been accessed by an unauthorized person, Xap will notify you promptly regarding such unauthorized access, unless notification is delayed at the request of law enforcement agencies to avoid impeding a criminal investigation. Such notification will be made by e-mail, unless Xap does not have a valid e-mail address for you, in which case notification will be sent by United States mail to the home address indicated in your user account. For this purpose, personal information means (i) your first name or first initial, (ii) your surname and (iii) at least one of (a) your social security number, (b) your driver's license or alternative identification card number, or (c) a financial account number, credit card account number or debit card account number associated with you, in combination with any required security or access code or password needed to access such account.   
+
 
 **COOKIES**  
 A cookie is a small file that a website transfers to a user's computer, which may then be stored on its hard drive. CCCApply uses cookies to remember you and personalize your web-viewing experience by keeping track of your session when logged on to CCCApply. Cookies enable you to maintain continuity as you move from page to page on CCCApply and to avoid the nuisance of being asked to provide the same information repeatedly. Cookies also allow us to make sure that only your browser can exchange information regarding your account with our servers. Cookies cannot be used to steal personal information or to gain access to information that you did not directly provide. The cookies we use are set when you log on to CCCApply and are erased when you log off CCCApply or completely close your browser. 
