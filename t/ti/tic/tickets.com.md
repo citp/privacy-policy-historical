@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604142736id_/http%3A//www.tickets.com/aboutus/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810042924id_/http%3A//www.tickets.com/aboutus/privacy_statement.html) for the most accurate reproduction.*
 
-# Tickets.com - Privacy Policy
+# 
 
 Privacy Principles for Non USA Based Business:   
 **ticket·privacy** SM
