@@ -1,0 +1,126 @@
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607200248id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+
+# Low End Mac Privacy Policy
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/0/clickHTML?ajkey=41348210000016BF000016BC0000000D0000010CFFFFFF91FFFFFF9180F2CFE0421CFAADFFFFFFFF8B298D14)
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/0/clickHTML?ajkey=BBB25454000000D800000D260000002A000002DBFFFFFF91FFFFFF9180F2CFE0421CFAADFFFFFFFF0DFF1534) 1Gig G4 or iMac Kits for $195, or 512mb DIMMs for $99! 512mb PowerBook G4 SO-DIMMs are $199! iMac Flat Panel 512mb SO-DIMMs for $119! eMac & Xserve RAM is now available!
+
+## [](https://web.archive.org/web/20020607200248id_/http%3A//lowendmac.com/index.shtml) Low End Mac's Privacy Policy
+
+International privacy standards require businesses to:
+
+  * notify consumers what they do with personal data such as names and email addresses
+  * use the information only for its stated purpose
+  * allow consumers to examine and correct data collected about them
+  * give them a choice to forbid sharing that information for marketing purposes
+  * store the data in a secure manner
+  * provide recourse for consumers whose privacy has been violated
+
+
+
+Low End Mac does not collect personally identifiable information about visitors unless they specifically provide such information on a voluntary basis, such as subscribing to one of our email lists. In the case of email lists, only the list managers have access to these email addresses.
+
+We cannot protect the identity or email address of those who post to our email lists, since these lists are archived on the Web and available for anyone to peruse. We do what we can to prevent spammers from harvesting email addresses from the archives, but we cannot guarantee that the list archives will not be spidered for email addresses. By posting to any of our lists, you take the risk that your email address will be accessible to spammers. We sincerely wish it weren't so, do what we can to prevent it, but can't promise that some incorrigible lowlife spammer won't get your address.
+
+Our site logs track IP addresses, as well as the browser and operating system used by visitors. This information is used for statistical purposes only.
+
+We do not use any type of cookies on Low End Mac, although BackBeat Media (which handles our display ads) and advertisers may use cookies and track additional information for their own purposes. This information is collected and maintained by these organizations under their own privacy policies, which may be different from Low End Mac's policy.
+
+    [Dan Knight](mailto:dan.knight@lowendmac.com) , publisher, Low End Mac
+
+* * *
+
+| 
+
+### LowEndMac Reader Specials  
+  
+---  
+  
+Crucial Technology can help you find the right upgrade for your Mac with our [Memory Selector](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/0/clickHTML?ajkey=A348A3F40000172B000017380000002A00000CEAFFFFFF91FFFFFF9180F2CFE0421CFAADFFFFFFFFF70865D5)
+
+[**MacMall**](http://www.commission-junction.com/track/track.dll?AID=53427&PID=272632&URL=http%3A%2F%2Fwww%2Emacmall%2Ecom%2Fmacaffiliate) : Visit MacMall for deals on the latest PowerMac G4. Dual 1GHZ NOW!  
+  
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/0/clickHTML?ajkey=A873A3D9000017400000170F0000000D0000010DFFFFFF91FFFFFF9180F2CFE0421CFAADFFFFFFFFCC0840D5)
+
+The entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-2002 by [Cobweb Publishing, Inc.](http://cobwebpublishing.com/), unless otherwise noted. Copyright of individual articles resides with the author. All rights reserved.  
+  Advice presented in good faith, but what works for one may not work for all. Computers are like that. Please report errors to [the webmaster](mailto:webmaster@lowendmac.com).  
+  Letters sent to LEM may be published at our discretion. Email addresses will not be published unless requested. If you prefer that your message not be published, mark it "not for publication." Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
+  [LINK POLICY](https://web.archive.org/link.shtml): This site allows and encourages links to any public page, as long as the linked page does not appear within a frame that prevents bookmarking it. Access our news feed at [http://lowendmac.com/rss.txt](http://lowendmac.com/rss.txt).  
+  [PRIVACY POLICY](https://web.archive.org/privacy.html): In brief, we don't collect personal information unless you explicitly provide it.  
+  [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Computer. Apple, the Apple logo, Macintosh, iBook, iMac, and PowerBook are [registered trademarks of Apple Computer, Inc.](http://www.apple.com/legal/appletmlist.html) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  
+  For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
+
+[**Read Low End Mac ad-free**](https://web.archive.org/subscriptions/index.shtml)
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/0/clickHTML?ajkey=27640F7B0000174D000016E90000002B000003BDFFFFFF91FFFFFF9180F2CFE0421CFAADFFFFFFFFDBA4FEF3)
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/0/clickHTML?ajkey=6C2042400000170700001708000016E20000048DFFFFFF91FFFFFF9180F2CFE0421CFAADFFFFFFFF9FE9CEBA)
+
+[LEM Mobile Edition](https://web.archive.org/home.htm)  
+[LEM for WebTV](https://web.archive.org/webtv.htm)
+
+[ **Read LEM ad-free**](https://web.archive.org/subscriptions/index.shtml) **  
+Mac of the Day**  
+ [PowerBook Duo 230](https://web.archive.org/pb/230.shtml) **  
+List of the Day**  
+ [Apple2list](http://lowendmac.com/lists/apple2.html)  
+ **  
+Book of the Day**  
+ [The Little Mac Book](http://www.amazon.com/exec/obidos/ASIN/0201745801/lowendmac)  
+ **Deal of the Day**  
+ []()  
+ **Channels**  
+ [Power Macs](https://web.archive.org/ppc/index.shtml)  
+ [iMac Channel](https://web.archive.org/imac/index.shtml)  
+ [iBook/PowerBook](https://web.archive.org/ibook/index.shtml)  
+ [MacInSchool](https://web.archive.org/macinschool/index.shtml)  
+ **Computer Profiles**  
+ [iMac](https://web.archive.org/imacs/index.shtml)  
+ [Power Mac](https://web.archive.org/ppc/index.shtml)  
+ [PowerBook/iBook](https://web.archive.org/powerbooks.html)  
+ [Performas](https://web.archive.org/performa.shtml)  
+ [Mac Clones](https://web.archive.org/clones/index.shtml)  
+ [Older Macs](https://web.archive.org/early-macs.html)  
+ [Lisa](https://web.archive.org/lisa/index.shtml) • [NeXT](https://web.archive.org/next/index.html)
+
+[ **Editorial Archive**](https://web.archive.org/editorials.html)  
+[ **Mac Daniel's Advice**](https://web.archive.org/macdan/index.shtml)  
+[ **Email Lists**](https://web.archive.org/lists/index.shtml)  
+[ **LEMchat**](aim:gochat?roomname=LEMchat) (uses AIM)  
+[ **Message Boards**](http://lowendmac.master.com/texis/master/search/msgbd.html)  
+[ **Online Tech Journal**](https://web.archive.org/tech/index.shtml)  
+[ **Consumer**](https://web.archive.org/consumer.html)  
+ advice, reviews  
+ guides, deals  
+[ **Software**](https://web.archive.org/sw.html)  
+[ **Apple History**](https://web.archive.org/history/index.shtml)  
+[ **Best of the Web**](https://web.archive.org/links.shtml)  
+ [Best of the Mac Web surveys](https://web.archive.org/botmw/index.html)  
+ **Miscellaneous Links  
+**  [Best Used Mac Buys](https://web.archive.org/best/index.shtml)  
+ [Used Mac Dealers](https://web.archive.org/dealers/index.shtml)  
+ [Video Cards](https://web.archive.org/video/index.html)  
+ [Mac OS X](https://web.archive.org/osx/index.shtml)  
+ [Mac Linux](https://web.archive.org/linux/index.shtml)  
+ [Macspeak](https://web.archive.org/macspeak.shtml)  
+ [RAM Upgrades](https://web.archive.org/ram/index.shtml)  
+[ **About Low End Mac**](https://web.archive.org/about.shtml) **  
+**[ **Site Contacts**](https://web.archive.org/contact.html)
+
+[](https://web.archive.org/link.shtml)
+
+### [Support LEM](https://web.archive.org/support.shtml)
+
+ **Affiliates**  
+ [eBay](http://www.qksrv.net/click-272632-2202639)  
+ [CoolVCD](http://coolvcd.com/cgi-bin/sc/ref.cgi?storeid=coolvcd&name=Low_End_Mac)  
+ [123Inkjets.com](http://www.commission-junction.com/track/track.dll?AID=512018&PID=272632&URL=http%3A%2F%2Fwww%2E123Inkjets%2Ecom)  
+ [Handspring](http://click.linksynergy.com/fs-bin/stat?id=ORKVdjntKuM&offerid=26018&type=3&subid=0)  
+ [Iomega](http://click.linksynergy.com/fs-bin/click?id=ORKVdjntKuM&offerid=25511.10000018&type=3&subid=0)  
+ [MacMall](http://www.commission-junction.com/track/track.dll?AID=53427&PID=272632&URL=http%3A%2F%2Fwww%2Emacmall%2Ecom%2Fmacaffiliate)  
+ [Mac Zone](http://service.bfast.com/bfast/click?bfmid=1942029&siteid=37976955&bfpage=mac_zone)  
+ [The Sharper Image](http://click.linksynergy.com/fs-bin/click?id=ORKVdjntKuM&offerid=14941.10000005&type=3&subid=0)
+
+[ **Advertise on LEM**](http://www.backbeatmedia.com/) **:  
+** Our advertising is handled by BackBeat Media. For detailed price quotes and advertising information, please contact [Greg Snyder](mailto:lowendmac@backbeatmedia.com) at BackBeat Media (512-441-1852).
