@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursuccessstore.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409205728id_/http%3A//www.yoursuccessstore.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursuccessstore.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011120305id_/http%3A//yoursuccessstore.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Your Success Store: Empowerment & Motivational Training
 
@@ -11,7 +11,7 @@ We aggregate information on what pages and other resources users access or visit
 
 The information we collect is used to improve the content of our Web site, used to notify users about updates to our Web site and used by us to contact user for marketing purposes target to users' specific needs.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address or writing to us at the above address and telling us that you do not want to receive e-mail from our company. We will then, to the best of our abilities, remove your e-mail address from our databases and Web site. This also includes removal from Slight Edge Newsletter E-zine.
+If you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address or writing to us at the above address and telling us that you do not want to receive e-mail from our company. We will then, to the best of our abilities, remove your e-mail address from our databases and Web site. This also includes removal from YourSuccessStore.com Achievement eZine E-zine.
 
 We do not share or rent our email or mailing list information with other companies or marketers.
 
