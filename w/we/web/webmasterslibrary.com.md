@@ -1,41 +1,41 @@
-> *The following text is extracted and transformed from the webmasterslibrary.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206232538id_/http%3A//www.webmasterslibrary.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterslibrary.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206202503id_/http%3A//www.webmasterslibrary.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - Webmasters' Library
 
-  
+### Privacy Statement
 
+This document discloses the processing and use of data collected while visiting WebmastersLibrary.com. Your privacy as a visitor of WebmastersLibrary.com and an Internet user is respected, and every effort has been made to provide complete and accurate information in this section.
 
-Privacy Statement
-
-As Webmasters' Library respects the privacy of its visitors, this document has been put together to disclose the processing and use of data collected while viewing our Website. 
-
-Location of Service:
+#### Location of Service:
 
   * The creator of Webmasters' Library, Brad Culbert, is based in Queensland, Australia
-  
-
-  * Webmasters' Library is hosted by Webstrike Solutions in Colorado USA.
+  * WebmastersLibrary.com is hosted by Webstrike Solutions in Colorado, USA
 
 
 
-Collection of Data:
+#### Collection of Data:
 
-You can access our Website homepage and browse our Site without disclosing your personal data. We do not automatically log personal data, nor do we link information automatically logged by other means with personal data about specific individuals.
+You can access our website without disclosing personally identifiable information. We do not automatically log personal data, nor do we link information automatically logged by other means with personal data about specific individuals.
 
-We do collect non-identifiable web tracking data to gain certain information about the use of our Website. Information collected includes; IP addresses, referring URL, Browser version, page views and Operating System. This information is used solely for statistical purposes and allows us to further improve the services we provide to you.
+We do collect non-identifiable web tracking data to gain information about the use of our website. Information collected includes; Internet Protocol address, referring URL, browser version, page views and operating system. This information is used solely for statistical purposes and allows us to further improve the services we provide to you.
 
-Webmasters' Library is a member of Commission Junction as an affiliate. The advertisements you see on our pages are provided by Commission Junction on behalf of their respective merchants. [Click here](http://www.cj.com/privacy.asp) to view the Commission Junction privacy policy.
+WebmastersLibrary.com is associated with the following third party organisations. Links to respective privacy policies are provided for each:
 
-Disclosure of Personal Information:
+  * Google AdSense to receive context-sensitive search results on website pages. [Google Privacy Policy](http://www.google.com/privacy.html)
+  * Amazon.com for product reviews, images and purchase links. [Amazon.com Privacy Notice](http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-5995969-8081749)
 
-As we do not keep any personal or personally identifiable information about our visitors, we do not disclose personal information to any third parties.
 
-Cookies:
 
-While Webmasters' Library itself, does not create or use any cookies in visitors browsers, the third party advertising programs we are members of, do use anonymous cookies for traffic analysis purposes. Please see the _Collection of Data_ section for links to these third party privacy policies.
+#### Disclosure of Personal Information:
 
-External Site Links:
+As no personal or personally identifiable information about visitors is stored, no personal information is disclosed to any third parties.
 
-Webmasters' Library contains links to other external Websites outside the WebmastersLibrary.com domain. We are in no way responsible for the privacy practices or content of these Websites.
+#### Cookies:
 
-If you have any questions or comments regarding this privacy statement, please email [webmaster@webmasterslibrary.com](mailto:webmaster@webmasterslibrary.com)
+WebmastersLibrary.com itself, does not create or use any cookies in visitors browsers. However, third party content displayed on WebmastersLibrary.com, may use anonymous cookies for traffic analysis purposes. Please see the Collection of Data section for links to these third party privacy policies.
+
+#### External Site Links:
+
+WebmastersLibrary.com contains links to external websites outside the WebmastersLibrary.com domain. We are in no way responsible for the privacy practices or content of these websites.
+
+If you have any questions or comments regarding this privacy statement, please [contact us](https://web.archive.org/web/20050206202503id_/http%3A//www.webmasterslibrary.com/contact.jsp).
