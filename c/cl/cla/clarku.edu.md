@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604052744id_/http%3A//www.clarku.edu/newsite/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408032630id_/http%3A//www.clarku.edu/privacy.shtml) for the most accurate reproduction.*
 
 # Clark University
 
@@ -21,7 +21,7 @@ We only publish e-mail addresses of Clark alumni and students who tell us that t
 
 We reserve the right to publish e-mail addresses of Clark faculty, administration, and staff at our discretion to better serve the academic community, parents, and prospective students.
 
-Our system administrators respect the privacy of the users of on-campus systems under their control. They will not examine, nor allow others to examine the files or e-mail of users without permission except in situations where it is necessary for system administrators to ensure or restore the proper functioning of the system. In the event that it is not possible to obtain permission, the user and the Information Technology Advisory Committee will be notified promptly. However, access may be necessary in situations that call for the investigation of a complaint, when the Dean of Students, Provost, or Human Resources Manager is notified--or when compelled to do so by law. For additional details on this policy please refer to the [OIS Computer Policy page ](http://www.clarku.edu/offices/ois/computerpolicy.html). 
+Our system administrators respect the privacy of the users of on-campus systems under their control. They will not examine, nor allow others to examine the files or e-mail of users without permission except in situations where it is necessary for system administrators to ensure or restore the proper functioning of the system. In the event that it is not possible to obtain permission, the user and the Information Technology Advisory Committee will be notified promptly. However, access may be necessary in situations that call for the investigation of a complaint, when the Dean of Students, Provost, or Human Resources Manager is notified--or when compelled to do so by law. For additional details on this policy please refer to the [ Appropriate Use of Clark's Computer Resources](http://www.clarku.edu/offices/its/policy/acceptableuse.htm). 
 
 **Secure Transmissions**
 
