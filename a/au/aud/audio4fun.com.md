@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203115440id_/http%3A//audio4fun.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602191656id_/http%3A//www.audio4fun.com/privacy.htm) for the most accurate reproduction.*
 
 # Microphone voice changer: alter microphone voice input to favorite singer's voice - Privacy
 
 ** Everyone’s and anyone’s privacy must be respected!**
 
-Audio4fun.com is Avnex Ltd's official website, your online source for the unique softwares.
+Audio4fun.com is Avnex Ltd's official website, your online source for the unique software.
 
 At Avnex Ltd, we are committed to protecting your privacy. When you visit our Web site, our server automatically recognizes your Internet Protocol address (IP address) or domain name. Unless you provide, we do not collect or know your name or e-mail address. We do not follow your browsing path outside of Audio4fun.com.
 
@@ -48,10 +48,10 @@ By using our Web site, you consent to the collection and use of this information
 
 In the event that you desire to purchase our products, the software, you agree not to use the software in any manner that is illegal, unethical, harassing, threatening, intimidating, abusive, obscene, profane, defamatory, hateful or a nuisance.
 
-Under no circumstances shall Avnex Ltd be liable for any indirect, incidental or consequential damages or any liability in tort, contract, or other legal theory for computer failure or malfunction, business interruption , loss of profits, loss of goodwill, or any other damages or losses arising out of your use or inability to use the software.
+Under no circumstances shall Avnex Ltd be liable for any indirect, incidental or consequential damages or any liability in tort, contract, or other legal theory for computer failure or malfunction, business interruption, loss of profits, loss of goodwill, or any other damages or losses arising out of your use or inability to use the software.
 
-Should you have any question concerning this Policy , you may call Avnex Ltd toll free at 1-888-467 3059 and/or send an email to _[office@audio4fun.com](mailto:office@audio4fun.com)_ ****
+Should you have any question concerning this Policy, you can call Avnex Ltd toll free at 1-888-467 3059 and/or send an email to _[office@audio4fun.com](mailto:office@audio4fun.com)_ ****
 
  ****
 
-** Hope you enjoy your visit at our Web site!**
+** Enjoy your visit at our Web site!**
