@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the animalpicturesarchive.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605162352id_/http%3A//www.animalpicturesarchive.com/animal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalpicturesarchive.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211752id_/http%3A//www.animalpicturesarchive.com/animal/privacy.html) for the most accurate reproduction.*
 
 # Animal Pictures Archive's Privacy Policy
 
 **Animal Pictures Archive's Privacy Policy**
 
-[Animal Pictures Archive](https://web.archive.org/animal/) is committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of user information.
+[Animal Pictures Archive](http://www.animalpicturesarchive.com/) is committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of user information.
 
 [User Information] [As an Engage Affiliate]  
 
