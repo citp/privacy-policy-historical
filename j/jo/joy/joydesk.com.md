@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joydesk.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210193300id_/http%3A//joydesk.com/com_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joydesk.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/com_privacy.html) for the most accurate reproduction.*
 
 # Joydesk.com
 
@@ -164,6 +164,6 @@ Website: [_webmaster@virtualtek.com_](mailto:webmaster@virtualtek.com)
 Content: [_content@virtualtek.com_](mailto:content@virtualtek.com)  
 _
 
-| [Home](https://web.archive.org/web/20001210193300id_/http%3A//joydesk.com/index.html) | [Product Tour](https://web.archive.org/web/20001210193300id_/http%3A//joydesk.com/tour/index.html) | [Support](https://web.archive.org/web/20001210193300id_/http%3A//joydesk.com/support.html) | [Contact](https://web.archive.org/web/20001210193300id_/http%3A//joydesk.com/contact.html) | [Site Map](https://web.archive.org/web/20001210193300id_/http%3A//joydesk.com/map.html) |  
+| [Home](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/index.html) | [Product Tour](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/tour/index.html) | [Support](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/support.html) | [Contact](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/contact.html) | [Site Map](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/map.html) |  
 Copyright © 2000 VirtualTek Corporation. All rights reserved.   
 ---|---
