@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075920id_/http%3A//www.wgu.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403160201id_/http%3A//www.wgu.edu/privacy.asp) for the most accurate reproduction.*
 
-# online university - Western Governors University - online continuing education
+# distance learning - WGU - online education - online university
 
 About Your Privacy  
 
