@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220204717id_/http%3A//cerner.com/apps_templates/registration/default.asp%3Fid%3D1344) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401174838id_/http%3A//cerner.com/apps_templates/registration/default.asp%3Fid%3D1344) for the most accurate reproduction.*
 
 # Cerner Corporation.
 
