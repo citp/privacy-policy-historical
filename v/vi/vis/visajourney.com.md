@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606001938id_/http%3A//www.visajourney.com/forums/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208183303id_/http%3A//www.visajourney.com/forums/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# VisaJourney.com : Marriage Based Immigration to the USA (K Visa)
+# VisaJourney.com : Marriage and Family Immigration to the USA (K Visa)
 
 **VisaJourney.com Privacy Policy  
 ****
@@ -23,7 +23,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 Aggregated demographic information may be shared with selected third party advertisers as proof of traffic volume and target audience for the purpose of securing advertising contracts on VisaJourney.com. The information is highly summarized and is in no way linked to individual visitors. 
 
 **Advertising**  
-We use third party advertising companies to serve banners and text ads. Please be aware that we are not responsible for the privacy practices of these companies. We currently use [Commision Junction](http://www.cj.com/), [Advertising.com](http://www.advertising.com/), and [Google.com](http://www.google.com/) for limited advertising. You are encouraged to read their privacy policies by following their respective links. 
+We use third party advertising companies to serve banners and text ads. Please be aware that we are not responsible for the privacy practices of these companies. We currently use [Commision Junction](http://www.cj.com/) and [Google.com](http://www.google.com/) for limited advertising. You are encouraged to read their privacy policies by following their respective links. 
 
 **Links**  
 This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by VisaJourney.com. 
@@ -32,7 +32,7 @@ This web site contains links to other sites. Please be aware that we are not res
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as town of residency, age level). 
 
 **Security**  
-VisaJourney.com takes every precaution to protect your information. The server on which this site resides is administered by [Addaction.net](http://www.addaction.net/), a commercial hosting company. Access to the server is restricted to trusted personnel and contained in a secure data center in Beverly Hills, FL. If you have any questions regarding the security at our website, you can contact us [here](http://www.visajourney.com/contact/). 
+VisaJourney.com takes every precaution to protect your information. The server on which this site resides is restricted to trusted personnel and contained in a secure data center. If you have any questions regarding the security at our website, you can contact us [here](http://www.visajourney.com/contact/). 
 
 **Site and Service Updates**  
 We occasionally send you site and service announcement updates. During registration members are permitted to opt-out of these mailings. Should you choose not to receive these announcements, VisaJourney.com can not be held responsible for notifying you of any any changes made to this policy. 
