@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mindviz.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609005528id_/http%3A//mindviz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindviz.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204071252id_/http%3A//www.mindviz.com/privacy.php) for the most accurate reproduction.*
 
-# MindViz - Tomorrow's Internet Today
+# MindViz
 
 **MindViz Privacy Policy**
 
-The MindViz Network ("MVIZ"), comprised of the Internet sites [mindviz.com](http://mindviz.com/), [mail.mindviz.com](http://mail.mindviz.com/), [mvhosted.com](http://mvhosted.com/), [mvtracker.com](http://mvtracker.com/), [ai-buddy.com](http://ai-buddy.com/), [poetictimes.com](http://poetictimes.com/), [awayhunter.com](http://awayhunter.com/), [profilehunter.com](http://profilehunter.com/), [awayhell.com](http://awayhell.com/), [iconhell.com](http://iconhell.com/), [dollhell.com](http://dollhell.com/), [12gracestreet.com](http://12gracestreet.com/), and [metashark.com](http://metashark.com/) (the "MVIZ Sites"), is committed to protecting the privacy of users of the MVIZ Sites. At MVIZ, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the MVIZ Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
+The MindViz Network ("MVIZ"), comprised of the Internet sites [mindviz.com](http://mindviz.com/), [adlogic.mindviz.com](http://adlogic.mindviz.com/), [mail.mindviz.com](http://mail.mindviz.com/), [mvhosted.com](http://mvhosted.com/), [mvtracker.com](http://mvtracker.com/), [ai-buddy.com](http://ai-buddy.com/), [poetictimes.com](http://poetictimes.com/), [awayhunter.com](http://awayhunter.com/), [profilehunter.com](http://profilehunter.com/), [poetsbest.com](http://poetsbest.com/), [awayhell.com](http://awayhell.com/), [pokerhell.com](http://pokerhell.com/), [aimprank.com](http://aimprank.com/), [picsfolio.com](http://picsfolio.com/), [journalhell.com](http://journalhell.com/), [mylinkbox.com](http://mylinkbox.com/), [forumhell.com](http://forumhell.com/), [audiohell.com](http://audiohell.com/), [avatarhell.com](http://avatarhell.com/), [iconhell.com](http://iconhell.com/), [dollhell.com](http://dollhell.com/), [12gracestreet.com](http://12gracestreet.com/), and [metashark.com](http://metashark.com/) (the "MVIZ Sites"), is committed to protecting the privacy of users of the MVIZ Sites. At MVIZ, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the MVIZ Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
 
 **Information Gathered through the MVIZ Sites:**
 
@@ -56,4 +56,4 @@ To update the Privacy Statement, we will post both the changed version and its e
 
 **While this Privacy Statement expresses MVIZ's standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond MVIZ's control (e.g., "script kiddies", "crackers and other malcontents") that may result in disclosure of data. As a consequence, MVIZ disclaims any warranties or representations relating to maintenance or nondisclosure of private information.**
 
-**Last modified: January 12th, 2004**
+**Last modified: October 1st, 2004**
