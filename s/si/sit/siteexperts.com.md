@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2000-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000416015236id_/http%3A//siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210024200id_/http%3A//www.siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
 
 # SiteExperts.com Privacy Statement
 
@@ -29,7 +29,8 @@
 
 
 **[User Groups](https://web.archive.org/userGroups/home.asp)**  
- [Discussion Forums](https://web.archive.org/forums/topics.asp)   
+ [SiteExperts Forums](https://web.archive.org/forums/topics.asp)   
+ [Usenet Forums](https://web.archive.org/nntp/newsgroups.asp)   
  [Client User Group](https://web.archive.org/userGroups/home.asp?type=Client)   
   -[Affiliate Programs](https://web.archive.org/userGroups/home.asp?cid=244)   
   -[HTML, CSS and XML](https://web.archive.org/usergroups/home.asp?cid=230)   
@@ -83,4 +84,4 @@ A _cookie_ is a small file that can be written and accessed by the site that cre
 
 
 
-Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20000416015236id_/http%3A//siteexperts.com/info/privacy@SiteExperts.com). 
+Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20001210024200id_/http%3A//www.siteexperts.com/info/privacy@SiteExperts.com). 
