@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009035123id_/http%3A//www.skyscape.com/index/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607070333id_/http%3A//www.skyscape.com/index/privacy.asp) for the most accurate reproduction.*
 
 # Skyscape.com: Privacy Policy
 
@@ -20,7 +20,7 @@ Skyscape may use customer information on an aggregate basis to better understand
 
 Skyscape may share any information with third parties or regulatory agencies to comply with any laws, or if we are compelled to do so by force of law. In the unlikely event that Skyscape (or substantially all of its assets) is acquired, personally identifiable and aggregate information may be transferred as part of such assets.
 
-Periodically, we will use the information provided to us to notify you of important announcements regarding special offers or important functionality changes to our Web site. Skyscape also provides free email newsletters to those who are interested in receiving them. If you would rather not receive these updates and/or newsletters, you can request to be excluded from these announcements in your user profile at Skyscape or by replying to the email you receive. We include unsubscribe instructions with each email newsletter we send out.
+Periodically, we will use the information provided to us to notify you of important announcements regarding special offers or important functionality changes to our Web site. Skyscape also provides free email newsletters to those who are interested in receiving them. If you would rather not receive these updates and/or newsletters, you can request to be excluded from these announcements by following the instructions at the bottom of every email. 
 
 The use of ‘cookies’
 
@@ -42,5 +42,5 @@ Change Policy
 
 We may periodically modify this privacy policy and will provide a notification of a change via a posting on the site or email or the software license. Your continued use of the Software, Site, or Services following the posting of changes to this privacy policy will indicate that you have accepted those changes. 
 
-"I use your products daily and find them extremely helpful." _Aaron Boster, Medical Student - Cincinnati, Ohio_   
+"Good quality. Concise." _Kenneth Chan, Internal Medicine - Hayward, CA_   
 [Privacy Policy](http://www.skyscape.com/index/privacy.asp)
