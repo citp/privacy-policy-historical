@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603151532id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2002-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021129061508id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - bizjournals.com
 
-**Last revised November 16, 2001**
+**Last revised November 1, 2002**
 
 Kids and parents click here!
 
-In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20020603151532id_/http%3A//www.bizjournals.com/user_agreement.html). Your use of Bizjournals.com constitutes agreement to its terms and conditions. 
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20021129061508id_/http%3A//www.bizjournals.com/user_agreement.html). Your use of Bizjournals.com constitutes agreement to its terms and conditions. 
 
 Bizjournals.com is produced by American City Business Journals. This policy does not cover information collected on sites linked to or from Bizjournals.com. 
 
@@ -20,9 +20,9 @@ Bizjournals.com generally collects personally identifying information with your 
 
 ### HOW BIZJOURNALS.COM USES INFORMATION PROVIDED BY YOU
 
-Bizjournals.com uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your neeeds. 
+Bizjournals.com uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs. 
 
-Bizjournals.com does not sell any of our users' personal information. We may however, share information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [info@bizjournals.com](mailto:info@bizjournals.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained with the e-mail. If you are registered on any part of Bizjournals.com, you may also change or updated your member preferences or information with any section of the site where you have signed up, registered or created any type of account. 
+Bizjournals.com does not sell our users' email addresses. We may however, share information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [info@bizjournals.com](mailto:info@bizjournals.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained with the e-mail. If you are registered on any part of Bizjournals.com, you may also change or updated your member preferences or information with any section of the site where you have signed up, registered or created any type of account. 
 
 We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Bizjournals.com will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Bizjournals.com does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose. 
 
