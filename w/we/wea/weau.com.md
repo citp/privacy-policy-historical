@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weau.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208142103id_/http%3A//weau.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weau.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207194048id_/http%3A//www.weau.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # WEAU TV-13 Privacy Policy
 
@@ -30,4 +30,4 @@ Minors may participate in our interactive site; however, a minor may not appreci
 
 Contacting Us 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact: [info@weau.com](mailto:info@weau.com) or use our online [feedback form](https://web.archive.org/web/20020208142103id_/http%3A//weau.com/feedback.asp). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact: [info@weau.com](mailto:info@weau.com) or use our online [feedback form](https://web.archive.org/web/20021207194048id_/http%3A//www.weau.com/feedback.asp). 
