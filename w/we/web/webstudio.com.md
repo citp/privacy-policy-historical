@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webstudio.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014201938id_/http%3A//www.webstudio.com/site/about.asp%3FPage%255FId%3D140) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstudio.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602202220id_/http%3A//www.webstudio.com/site/about.asp%3FPage%255FId%3D140) for the most accurate reproduction.*
 
-# Back To The Beach - About Back To The Beach Software
+# - About Back To The Beach Software
 
   
 Back To The Beach's Privacy Policy
@@ -51,7 +51,7 @@ The Beach sites also have message board, where users can exchange ideas and comm
   
 The Beach allows you to control the way that we use personal identifying information that we might obtain. In fact, many of the "mailings" The Beach may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. 
 
-If at any time you wish to opt-out of: (1) providing us your personal information, (2) having your personal information shared with third parties, and/or (3) receiving information (via email or postal mail) about new products, services, or promotions, you can do so by E-mailing us at privacyonline@backtothebeachsoftware.com.   
+If at any time you wish to opt-out of: (1) providing us your personal information, (2) having your personal information shared with third parties, and/or (3) receiving information (via email or postal mail) about new products, services, or promotions, you can do so by E-mailing us at support@webstudio.com.   
 Please indicate in your request what publications or services you no longer wish to receive so that we may better address your needs.
 
   
@@ -74,7 +74,7 @@ An Internet protocol ("IP") address is the unique number assigned to your server
   
 IF you would like to review or correct your personal information, click on [My Account](http://www.webstudio.com/site/shopper_lookup.asp). 
 
-If for any reason you are concerned with the way we are using your personal information, or would like to request that we cease using such personal information, please e-mail us at privacyonline@backtothebeachsoftware.com.
+If for any reason you are concerned with the way we are using your personal information, or would like to request that we cease using such personal information, please e-mail us at support@webstudio.com.
 
   
   
@@ -86,11 +86,11 @@ Your credit card number is encrypted (scrambled) with state-of-the-art technolog
 
   
   
-If you have any questions or wish to file a complaint, please feel free to e-mail us at privacyonline@webstudio.com. 
+If you have any questions or wish to file a complaint, please feel free to e-mail us at support@webstudio.com. 
 
 By using The Beach Web sites listed herein, you signify your assent to the The Beach Privacy Policy. If you do not agree to this policy, please do not use these sites.
 
-[ privacyonline@webstudio.com](mailto:privacyonline@webstudio.com)
+[ support@webstudio.com](mailto:support@webstudio.com)
 
 |  |   
 ---|---|---
