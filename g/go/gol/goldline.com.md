@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624175906id_/http%3A//goldline.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402005434id_/http%3A//www.goldline.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Goldline International, Inc.'s Privacy Policy
 
@@ -21,29 +21,20 @@ _We will never intentionally release any personally identifiable information to 
   
 ****III. Information We Collect** **
 
-**Goldline’s Email Community is a great way to keep updated on current market information, news alerts, and other important information regarding the precious metals market. At any time you wish to stop receiving emails from Goldline, simply send an email to us at[clientservices@goldlinecoins.com](mailto:offmailinglist@amark.com) with “unsubscribe” in the subject line.**
+**Goldline’s Email Community is a great way to keep updated on current market information, news alerts, and other important information regarding the precious metals market. At any time you wish to stop receiving emails from Goldline, simply send an email to us at[unsubscribe@goldline.com](mailto:unsubscribe@goldline.com) with “unsubscribe” in the subject line.**
 
   
 **IV. Modifying Your Email Information**
 
-**If you need to update any _email_ address information you've previously submitted to us, please email the changes to [clientservices@goldlinecoins.com](mailto:clientservices@goldlinecoins.com).**
+**If you need to update any _email_ address information you've previously submitted to us, please email the changes to [info@goldline.com](mailto:info@goldline.com).**
 
   
 ****V. How to Contact Us** **
 
-**If you have any questions or concerns about this privacy policy, please contact us at[clientservices@goldlinecoins.com](mailto:clientservices@goldlinecoins.com) or call Goldline at 1-800-827-4653.**
+**If you have any questions or concerns about this privacy policy, please contact us at[info@goldline.com](mailto:info@goldline.com). You may also call us at   
+1-800-827-4653 or 1-310-587-1420 if you are in Southern California.**
 
   
 **VI. Image Protection **
 
-**The images on this website are the property of Goldline International, Inc. and cannot be used without prior written authorization.   Click [here](https://web.archive.org/web/20030624175906id_/http%3A//goldline.com/TermsofUse.htm) to see learn more about our [Terms of Use](https://web.archive.org/web/20030624175906id_/http%3A//goldline.com/TermsofUse.htm).**
-
-****
-
-**Goldline International, Inc.  
-100 Wilshire Blvd 3rd Floor  
-Santa Monica, CA 90410**
-
-**Serving Investors and Collectors Since 1960.  
-[clientservices@goldlinecoins.com](mailto:president@goldlinecoins.com)   
-1-800-827-4653 **
+**The images on this website are the property of Goldline International, Inc. and cannot be used without prior written authorization.   Click [here](https://web.archive.org/web/20040402005434id_/http%3A//www.goldline.com/TermsofUse.htm) to see learn more about our [Terms of Use](https://web.archive.org/web/20040402005434id_/http%3A//www.goldline.com/TermsofUse.htm).**
