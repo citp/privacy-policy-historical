@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204043459id_/http%3A//www.seatguru.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404215851id_/http%3A//www.seatguru.com/privacy.shtml) for the most accurate reproduction.*
 
 # SeatGuru.com Advertising Information
 
@@ -31,5 +31,5 @@ If you have questions about this privacy policy, please contact us at [info@seat
 
 ##### [Frequently Asked Questions](https://web.archive.org/help.shtml)    **||**    [Site Map](https://web.archive.org/sitemap.html)    **||**    [About SeatGuru](https://web.archive.org/about.shtml)    **||**    [Advertising](https://web.archive.org/adverts.shtml)
 
-Copyright © SeatGuru.com Inc. 2001 - 2004. All Rights Reserved.  
+Copyright © SeatGuru.com Inc. 2001 - 2005. All Rights Reserved.  
 [Privacy Policy](https://web.archive.org/privacy.shtml)      [Terms and Conditions](https://web.archive.org/terms.shtml)
