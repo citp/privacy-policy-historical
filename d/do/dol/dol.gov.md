@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603185942id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135344id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
-# Department of Labor's Privacy and Security Statement
-
-##  Privacy and Security Statement
+# Privacy and Security Statement
 
 Thank you for visiting the Department of Labor (DOL) Website and reviewing our privacy and security statement. DOL is strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personal information, DOL makes every effort to ensure compliance with applicable Federal law, including, but not limited to, the Privacy Act of 1974, the Paperwork Reduction Act of 1995, and the Freedom of Information Act.
 
@@ -10,17 +8,17 @@ As a general rule, the Department of Labor does not collect personally-identifyi
 
 _If you visit our site to read or download information, we collect and store the following information:_
 
-•The name of the domain from which you access the Internet (for example, dol.gov, if you are connecting from the Department of Labor's computer account).
+  * The name of the domain from which you access the Internet (for example, dol.gov, if you are connecting from the Department of Labor's computer account).
+  * The date and time you access our site.
+  * The Internet address of the website from which you linked directly to our site.
 
-•The date and time you access our site.
 
-•The Internet address of the website from which you linked directly to our site.
 
 The above information is used by software programs on our website to create summary statistics which allow us to assess the number of visitors to the different sections of our site, identify what information is of most and least interest, determine technical design specifications, monitor system performance, and help us make our site more useful to visitors.
 
 _If you identify yourself by sending an E-mail containing personal information:_
 
-You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your E-mail to other Government employees who are better able to respond to you. Should you wish to file a request under FOIA, instructions are provided at: <http://www.dol.gov/dol/public/foia/main.htm>
+You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your E-mail to other Government employees who are better able to respond to you. Should you wish to file a request under FOIA, instructions are provided at: [http://www.dol.gov/dol/foia/main.htm](https://web.archive.org/dol/foia/main.htm)
 
 _If you link to other sites outside DOL:_
 
@@ -40,4 +38,7 @@ For security purposes and to ensure that this service remains available to all u
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996. 
 
-[ DOL Home Page](https://web.archive.org/dol/welcome.htm) | [ Top of Document](https://web.archive.org/web/20010603185942id_/http%3A//www.dol.gov/dol/privacynotice.htm)
+  
+|  |    
+  
+
