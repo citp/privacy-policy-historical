@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204357id_/http%3A//www.firstbanknigeria.com/resources/rc_privpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405053947id_/http%3A//www.firstbanknigeria.com/resources/rc_privpolicy.htm) for the most accurate reproduction.*
 
 # First Bank Resource Centre --- P r i v a c y P o l i c y
 
@@ -33,4 +33,4 @@ First Bank of Nigeria Plc may amend this policy from time to time. If we make an
 
 Questions or Suggestions
 
-If you have questions or suggestions complete a "[contact us](https://web.archive.org/web/20031204204357id_/http%3A//www.firstbanknigeria.com/resources/rc_contactus.htm)" form.
+If you have questions or suggestions complete a "[contact us](https://web.archive.org/web/20040405053947id_/http%3A//www.firstbanknigeria.com/resources/rc_contactus.htm)" form.
