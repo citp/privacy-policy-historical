@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613181422id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207184408id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
 
-# When Only the Best will do.. Emulation & Gaming - roms emulators free games snes roms gba roms
+# Top26.net / Gaming - Privacy Policy
+
+**Privacy Policy**
 
 Top 26 Gaming does not sell, rent, or give out any information about our visitors. This includes email addresses, IP addresses, or any other type of information we might collect. 
 
