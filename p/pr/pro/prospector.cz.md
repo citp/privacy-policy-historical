@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospector.cz privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208192709id_/http%3A//www.prospector.cz/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospector.cz privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603230226id_/http%3A//www.prospector.cz/privacy_policy.html) for the most accurate reproduction.*
 
 # free stuff, freebies, sweepstakes, samples - Prospector
 
