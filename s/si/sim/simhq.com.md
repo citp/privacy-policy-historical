@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603150803id_/http%3A//www.simhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219161844id_/http%3A//www.simhq.com/privacy) for the most accurate reproduction.*
 
 # SimHQ.com
 
