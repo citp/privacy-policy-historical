@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206095226id_/http%3A//campus.hws.edu/doit/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416144419id_/http%3A//campus.hws.edu/ADM/doit/admin/privacy.asp) for the most accurate reproduction.*
 
-# HWS Colleges: Web Privacy Policy
+# Hobart and William Smith Colleges :: Administration
+
+  
+
 
 ## Website Privacy Policy
 
