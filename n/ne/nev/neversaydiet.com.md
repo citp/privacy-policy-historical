@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neversaydiet.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215145500id_/http%3A//www.ivillage.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neversaydiet.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411175517id_/http%3A//www.ivillage.com/help/privacy.html) for the most accurate reproduction.*
 
 # iVillage: The Women's Network -- Privacy Policy
 
@@ -6,7 +6,7 @@
 
 As the leading provider of solutions for women online, we want you to feel comfortable searching and exchanging information on our site. We realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we typically request of you while you are within the iVillage Network, as well as ways in which we process and, sometimes, disseminate information collected from you. You are, of course, free to use the majority of our site without providing any personal information. The iVillage Network is defined as all English-language, United States based web sites, web pages and channels owned, controlled and/or operated by iVillage Inc., specifically including but not limited to allHealth, Astrology.com, Beauty, Click! Computing, Diet & Fitness, Food, Home & Garden, Lamaze.com, MoneyLife, Parents Place, ParentSoup, Pets, Readers & Writers, Relationships, Travel, Work from Home, and Working Diva. 
 
-We frequently provide information and links to third party advertisers or partners. Information on how to access the privacy practices of these third parties is included below as well. If you have any questions or concerns that we do not answer in this Policy, please send us an email at [feedback@mail.ivillage.com](mailto:%22feedback@mail.ivillage.com%22)
+We frequently provide information and links to third party advertisers or partners. Information on how to access the privacy practices of these third parties is included below as well. If you have any questions or concerns that we do not answer in this Policy, please send us an email at [feedback@mail.ivillage.com](mailto:feedback@mail.ivillage.com)
 
 We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make use of any personally identifiable information which iVillage gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In addition, iVillage reserves the right to make non-significant changes to our Privacy Policy that will not affect iVillage's use of a user's personally identifiable information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on the iVillage Network. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Policy will include the most recent date in which any revision has been made. 
 
@@ -112,7 +112,7 @@ Upon registration or from time-to-time, you may be asked to indicate whether you
 
       * At any time, you can follow a link provided in every newsletter or email message (except for e-commerce confirmation emails) to unsubscribe from that mailing list or email service.  
 
-      * At any time, you can contact us through [feedback@mail.ivillage.com](mailto:%22feedback@mail.ivillage.com%22) to have your contact preference changed to "Do Not Contact Me." 
+      * At any time, you can contact us through [feedback@mail.ivillage.com](mailto:feedback@mail.ivillage.com) to have your contact preference changed to "Do Not Contact Me." 
     13. **CHANGE/MODIFY/ARCHIVED INFORMATION**  
 iVillage provides you with the ability to access, correct or change certain information in your member portrait at any time, including contact information or other information you've provided to us. However, you cannot currently change your member name although you may re-register and choose a new name. To review, modify or delete your member information, please [click here](http://auth.ivillage.com/register/update_login.html). Please be advised that iVillage currently archives information it collects on its members and visitors. 
     14. **HOW WE PROTECT AND SECURE YOUR INFORMATION**  
@@ -123,6 +123,6 @@ iVillage uses industry-standard tools, such as firewalls, to ensure that your in
     15. **GUIDELINES REGARDING CHILDREN**  
 Personal information about children is a concern for all of us. At iVillage, we take the protection of children's privacy very seriously. iVillage does not encourage participation or visitation by children. Visitors who are known to be under the age of 13 are prohibited from becoming a member. Anyone under the age of eighteen is discouraged from participating in any sex related chats or message boards and we ask that no one less than eighteen years of age become a community volunteer. 
     16. **CONTACT INFORMATION**  
-If you have questions about this Privacy Policy or anything else about iVillage, you can contact us at the following email address: [feedback@mail.ivillage.com](mailto:%22feedback@mail.ivillage.com%22)
+If you have questions about this Privacy Policy or anything else about iVillage, you can contact us at the following email address: [feedback@mail.ivillage.com](mailto:feedback@mail.ivillage.com)
 
 
