@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toysrus.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202074802id_/http%3A//www206.toysrus.com/guest/rusFamiPrivPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625213911id_/http%3A//www10.toysrus.com/guest/rusFamiPrivPolicy.cfm) for the most accurate reproduction.*
 
 # Toys''R''Us, Inc. - Guest - Privacy Policy
 
@@ -10,11 +10,11 @@
   
 
 
-The "R" Us Family includes Toys "R" Us, Inc.; Toysrus.com, Inc.; Toysrus.com, LLC; Babiesrus.com, LLC; Babies "R" Us an operating division of Toys "R" Us, Inc. and its operating affiliates; Kids "R" Us, an operating division of Toys "R" Us, Inc.; Imaginarium, a division of Toys "R" Us, Inc., Geoffrey Stores, a division of Toys "R" Us, Inc.;Imaginarium.com, LLC; and their affiliates and Toysrsus.comassetholdco, LLC d/b/a Giftsrus.com. 
+The "R" Us Family includes Toys "R" Us, Inc.; Toysrus.com, Inc.; Toysrus.com, LLC; Babiesrus.com, LLC; Babies "R" Us an operating division of Toys "R" Us, Inc. and its operating affiliates; Kids "R" Us, an operating division of Toys "R" Us, Inc.; Imaginarium, a division of Toys "R" Us, Inc., Geoffrey Stores, a division of Toys "R" Us, Inc.;Imaginarium.com, LLC; and their affiliates and Toysrsus.com Assethold Co, LLC d/b/a Giftsrus.com. 
 
 This Privacy Policy outlines "R" Us Family practices regarding information collected (a) online at the www.toysrus.com, www.babiesrus.com, and www.imaginarium.com Internet stores operated on the Amazon.com platform(the " ** _Online Stores_** "); (b) online at the www.toysrusinc.com corporate website, www.giftsrus.com and any websites operated by "R" Us Family members (the " ** _"R" Us Sites_** "); and (c) at "R" Us Family retail stores in the United States (the " ** _Retail Stores_** "). 
 
-We suggest that you review this Privacy Policy periodically as we may update it from time to time. This policy was last revised on October 10, 2002. By visiting an "R" Us Family Site or Online Store or otherwise interacting with an "R" Us Family member, you are accepting the practices described in this Privacy Policy. 
+We suggest that you review this Privacy Policy periodically as we may update it from time to time. This policy was last revised on November 12, 2002. By visiting an "R" Us Family Site or Online Store or otherwise interacting with an "R" Us Family member, you are accepting the practices described in this Privacy Policy. 
 
   
  
