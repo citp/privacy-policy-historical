@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the doonesbury.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408220201id_/http%3A//www.doonesbury.ucomics.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doonesbury.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021052225id_/http%3A//www.doonesbury.ucomics.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Doonesbury Electronic Town Hall - Privacy Policy
-
-|  |  **Doonesbury.com / uComics Network Privacy Policies**
 
 **D** oonesbury.com is a general audience entertainment site that has adopted the privacy policy of our network partner, uComics/uclick and is dedicated to providing the Internet-using public with the most complete and enjoyable online comic viewing experience. uComics is also concerned about your privacy and we encourage you to read our Privacy Policy to learn all about how we use information about visitors to our Web site(s). 
 
@@ -27,6 +25,18 @@ We also encourage you to read our Children's Privacy Policy - it details how we 
 \- We are required by law, or we are required to respond to subpoenas, court orders, legal process, to cooperate with a legitimate law enforcement investigation or to investigate a threat to our network or services.  
 \- We are investigating actions by users whose actions violate our Terms of Service and Conditions of Use or any other guideline or rule we have established that controls the use of our service or products
 
+
+**Third Party Advertising**
+
+  * The ads appearing on this Web site are delivered to you by our Web advertising partners. Information about your visit to this site, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, one of our partners, cookies, and how to "opt-out," you can visit this page, <http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp>
+
+**Third Party Cookies**
+
+  * In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+
+**Opt-Out of Advertising**
+
+  * This opt-out feature replaces a network advertiser's unique online preference marketing cookie on your browser with a general opt-out cookie; it does not delete cookies and does not necessarily replace other cookies placed by network advertisers, such as those that are used for aggregate ad reporting or mere ad serving purposes. Such cookies allow network advertisers to rotate ad banners sequentially and track aggregate numbers of impressions. Please see the companies' privacy policies for more details or visit [the NAI web site](http://www.networkadvertising.org/optout_nonppii.asp) for more information. 
 
 **Collection and Use of Computer-Generated Information**
 
@@ -86,6 +96,4 @@ Attn: Children's Privacy
 Kansas City, MO 64105
 
 816-300-6500  
-[childprivacy@doonesbury.com](mailto:childprivacy@doonesbury.com) or [webmaster@doonesbury.com](mailto:webmaster@doonesbury.com)  
-  
----
+[childprivacy@doonesbury.com](mailto:childprivacy@doonesbury.com) or [webmaster@doonesbury.com](mailto:webmaster@doonesbury.com)
