@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationmultimedia.com privacy policy that was archived on 2002-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021124121952id_/http%3A//www.nationmultimedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationmultimedia.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171048id_/http%3A//nationmultimedia.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to The Nation
 
-### Privacy Policy for www.nationmultimedia.com
+### Privacy Policy for www.NationMultiMedia.com
 
 _www.nationmultimedia.com_ regards your online privacy as an important and serious matter. We have created this privacy statement in order to demonstrate our commitment to this issue. 
 
@@ -11,7 +11,7 @@ The following discloses our information gathering and dissemination practices fo
 As _www.nationmultimedia.com_ continues to develop we may add new features, change the type of information we gather or the method by which it is gathered. We will adjust this privacy policy to reflect any future changes, and notify users of any personal information we are requesting. Please review this policy for changes from time to time, and contact us if you have any questions. 
 
 **TOPICS THIS STATEMENT COVERS**  
-IP Addresses \- Surveys \- Children Cookies Contests Security Registration Third Party Advertising Order Forms Public Forums 
+IP Addresses - Surveys - Children Cookies Contests Security Registration Third Party Advertising Order Forms Public Forums 
 
 **IP ADDRESSES:** An IP address is a number assigned to the computer which is requesting a web page from our site. Usually it is not your personal computer, but a computer used by your internet service provider or company network. www.nationmultimedia.com uses IP addresses (of 209.50.230.79) to help diagnose problems with our server, to administer our Web site, and to report aggregate information. 
 
@@ -34,6 +34,8 @@ At the moment, www.nationmultimedia.com, uses the services of Engage for the ser
 Any financial information provided by users is sent via a secure server and encrypted for user protection. 
 
 **CONTACTING THE WEB SITE:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+
+\-------------------
 
 Nation Internet [info@nationmultimedia.com](mailto:info@nationmultimedia.com)  
 (c)2000 Nation Multimedia Group  
