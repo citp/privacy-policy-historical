@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the nurse.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604052956id_/http%3A//www.nurse.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nurse.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206040708id_/http%3A//www.nurse.com/privacy.shtml) for the most accurate reproduction.*
 
-# Nursing: Nurse, RN, LPN, Health Career. Nurse.Com Is A Community For Nurses.
+# Nurse.com Is a Community for Nurses. Nursing, Nurse, RN, LPN, LVN, Health Career.
 
-|  |     |  [](http://www.nurse.com/cgi-local/redirect.cgi/99e333c5?REGION=ROS_Banner&CAMPAIGN=RNNetwork&ACCOUNT=RNnetwork&BANNER=rnnbanner1)  
----|---  
-|  | **Search** | | | **Jump to a Section**|   
+| 
+
+|  |  |  **    Search** |   |  | **Jump to a Section**     |   
 ---|---|---|---|---  
   
-> **NURSE.COM PRIVACY STATEMENT**
+> NURSE.COM PRIVACY STATEMENT
 > 
 > This privacy statement discloses the privacy practices for www.nurse.com. If you feel that nurse.com is not abiding by its posted privacy policy, you should send a message to [support@nurse.com](mailto:support@nurse.com). **Information Collection and Use**  
 >  Nurse.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Nurse.com collects information from our users at several different points on our website. **Registration**  
@@ -25,7 +25,4 @@
 >  We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. **Correction/Updating Personal Information:**  
 >  If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. **Choice/Opt-out**  
 >  Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our registration form has an 'opt-out' mechanism so users who register with us, but don't want any marketing material, can keep their email address off of our lists. Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at support@nurse.com. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. **Notification of Changes**  
->  If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.   
-  
-  
-
+>  If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
