@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the couponfactory.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202104758id_/http%3A//couponfactory.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponfactory.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603111217id_/http%3A//couponfactory.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement - CouponPages.Com
+# Printable Local Coupons for Privacy Statement - CouponPages.Com. Print these coupons and bring them next time you visit.
 
-[](http://www.couponpages.com/) |   
+| [](http://www.couponpages.com/)  
 ---|---  
   
 * * *
@@ -36,4 +36,4 @@ The merchants on our site submit information to us that is needed to provide adv
 * * *
 
 Copyright 1986-2001, Z Publishing Corporation. All rights reserved.  
-1994
+9850
