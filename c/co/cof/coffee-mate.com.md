@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffee-mate.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004014157id_/http%3A//www.coffee-mate.com/tc.asp%3Fdoc%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffee-mate.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408021540id_/http%3A//www.coffee-mate.com/tc.asp%3Fdoc%3Dpp%26wsscontent%3DFrom%2BBottom%2BNav) for the most accurate reproduction.*
 
 # Coffee-mate | Terms and Conditions
 
