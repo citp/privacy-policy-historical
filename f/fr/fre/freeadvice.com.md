@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619033421id_/http%3A//www.freeadvice.com/law/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207042700id_/http%3A//www.freeadvice.com/law/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Advice & Counsel
 
-|  [](http://www.ad1.net/cgi-bin/centralad/redirect.cgi/1823352544)  
+[](http://law.freeadvice.com/) |   
 ---|---  
+   
+|    
   
- [](https://web.archive.org/web/20000619033421id_/http%3A//www.freeadvice.com/law/index.htm) **  : Privacy Policy  
+ [](https://web.archive.org/web/20001207042700id_/http%3A//www.freeadvice.com/law/index.htm) **  : Privacy Policy  
 **
 
 ## Privacy Statement for FreeAdvice.com
 
-FreeAdvice.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the FreeAdvice.com website. Questions regarding this statement should be directed to the Webmaster by emailing [admin@adviceco.com](mailto:admin@adviceco.com)
+Management of FreeAdvice.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the FreeAdvice.com website. Questions regarding this statement should be directed to the Officer named below by emailing [admin@adviceco.com](mailto:admin@adviceco.com)
 
 FreeAdvice, recognized as a leading consumer and small business legal website, is a unit of Advice Company (Advice & Counsel Incorporated), a leading provider of information and advice on the Internet and E-commerce solutions for individuals and small businesses. We invite you to explore our Web site and find out what all the talk is about.
 
@@ -18,7 +20,7 @@ FreeAdvice, recognized as a leading consumer and small business legal website, i
 
 We collect aggregate information site-wide, including anonymous site stats. We also log domain names and/or IP addresses. On certain pages we give users the option of providing us with names, addresses, phone numbers, fax numbers, email addresses, demographic, preference and other personal information, and various other kinds of details. Such personal information is not gathered by us without users` knowing and active permission and participation. 
 
-Portions of our site use “cookies” to keep track of your visit, to help you navigate between sections, thus delivering content specific to your interests and to give us an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a user’s session will be tracked, but the user will be anonymous. A cookie is a small data file that certain Web sites write to your hard drive when you visit them.  A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie contains is information you supply yourself. A cookie does not  read data off your hard disk or read cookie files created by other sites. 
+Portions of our site use ?cookies? to keep track of your visit, to help you navigate between sections, thus delivering content specific to your interests and to give us an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a user?s session will be tracked, but the user will be anonymous. A cookie is a small data file that certain Web sites write to your hard drive when you visit them.  A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie contains is information you supply yourself. A cookie does not  read data off your hard disk or read cookie files created by other sites. 
 
 Most of our site does not require that visitors complete a registration form or give us contact information (such as a name and email address) to visit. Our Bulletin Boards do not require that visitors register or use their actual names to post questions or to provide answers, although those who do register receive certain benefits, such as automatic email notification of responses and edit privileges. Visitors may also register for our Email newsletters. However, we require visitors to register and identify themselves when using our one on one chat feature, FreeAdvice Live! We use customer contact information from the registration form to send the user information about our site and our company. We reserve the right to use customer contact information to contact a visitor when we deem it necessary or appropriate. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
@@ -63,6 +65,6 @@ PO Box 1739
 Mill Valley, CA 94942-1739   
 [admin@adviceco.com ](mailto:admin@adviceco.com)_
 
-###### ® is the leading legal site for consumers and small businesses. It provides general legal information to help people understand their legal rights in 100 legal topics, but is not a substitute for personal legal advice from an attorney. You are welcome to view **FreeAdvice** ® for your own personal, non-commercial purposes, AS IS, subject to our [disclaimer and conditions of use](http://freeadvice.com/conditionsnew.htm). FreeAdvice.com and AttorneyPages.com are units of [Advice Company ](http://www.freeadvice.com/law/about.htm) Read our [Privacy Policy](http://freeadvice.com/law/privacy.htm). © 1996-2000 - All Rights Reserved. FreeAdvice® is a registered trademark. **General Legal Questions Not Covered?** You may submit them to [our Consumer BBS-Forums](http://bbs.freeadvice.com/cgi-bin/Ultimate.cgi). Comments? Please send them to [admin@adviceco.com](mailto:admin@adviceco.com)
+###### ® is the leading legal site for consumers and small businesses. It provides general legal information to help people understand their legal rights in 100 legal topics, but is not a substitute for personal legal advice from an attorney. You are welcome to view **FreeAdvice** ® for your own personal, non-commercial purposes, AS IS, subject to our [disclaimer and conditions of use](http://freeadvice.com/conditionsnew.htm). FreeAdvice.com and AttorneyPages.com are units of [Advice Company ](http://www.freeadvice.com/law/about.htm) Read our [Privacy Policy](http://freeadvice.com/law/privacy.htm). Š 1996-2000 - All Rights Reserved. FreeAdvice® is a registered trademark. **General Legal Questions Not Covered?** You may submit them to [our Consumer BBS-Forums](http://bbs.freeadvice.com/cgi-bin/Ultimate.cgi). Comments? Please send them to [admin@adviceco.com](mailto:admin@adviceco.com)
 
 [**Lawyers \- Want Information on Getting Listed on AttorneyPages?**](http://attorneypages.com/special/getting.htm)
