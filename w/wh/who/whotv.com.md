@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whotv.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216192041id_/http%3A//www.whotv.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whotv.com privacy policy that was archived on 2002-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020223150848id_/http%3A//www.whotv.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Station’s Privacy Policy
 
