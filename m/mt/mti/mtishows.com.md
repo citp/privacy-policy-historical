@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mtishows.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209093730id_/http%3A//www.mtishows.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtishows.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417102320id_/http%3A//mtishows.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # MTI Privacy Policy
 
 | 
 
-> [ ](https://web.archive.org/web/20021209093730id_/http%3A//www.mtishows.com/index.htm)
+> [ ](https://web.archive.org/web/20030417102320id_/http%3A//mtishows.com/index.htm)
 > 
 > **PRIVACY POLICY OF MTI AND THE BROADWAY JUNIOR COLLECTION®**
 > 
