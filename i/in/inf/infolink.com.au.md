@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202075908id_/http%3A//www.infolink.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205035738id_/http%3A//infolink.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
-# Infolink: Architecture & Building: Privacy Policy
+# www.infolink.com.au : Privacy Policy
 
-Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which takes effect in December 2001.
+Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which takes effect in December 2001. 
 
 This privacy policy covers all personal information that we hold.
 
