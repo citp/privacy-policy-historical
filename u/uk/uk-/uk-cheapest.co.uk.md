@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk-cheapest.co.uk privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233818id_/http%3A//uk-cheapest.co.uk/privacy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk-cheapest.co.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404031742id_/http%3A//uk-cheapest.co.uk/privacy.php%3Fref%3D) for the most accurate reproduction.*
 
 # Web Design, Hosting and Maintenance
 
