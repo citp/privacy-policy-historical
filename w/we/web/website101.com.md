@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website101.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214091600id_/http%3A//website101.com/Privacy_issues.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website101.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405053452id_/http%3A//website101.com/Privacy_issues.html) for the most accurate reproduction.*
 
 # WebSite101 Privacy Tutorial for Ecommerce Entrepreneurs expanding to the web
 
@@ -22,7 +22,7 @@ They don't admit to anything other than "providing it in aggregate to advertiser
 
 And therein lies the problem with privacy policies and even in third party audits. You have to trust someone. Third party seal programs like [BBBonline](http://www.bbbonline.com/) and [Truste.com](http://www.truste.com/) have come under fire repeatedly for refusing to ban offending members for privacy infractions. They insist on an audit and review of the bad guys, before they will penalize or revoke their membership. Meanwhile, the seals remain posted reassuringly at sites that don't honor their own privacy policies or those of the seal programs! No wonder public trust in any privacy claims is waning. 
 
-Another option for safer surfing is a software solution by [ZeroKnowledge](http://www.zeroknowledge.com/clickthrough/click.asp?partner_id=4489). Although we have not tested this software personally, it is well recognized as a viable solution for web privacy protection.
+Another option for safer surfing is a software solution by [ZeroKnowledge](http://www.zeroknowledge.com/clickthrough/click.asp?partner_id=4489). Although we have not tested this software personally, it is well recognized as a viable solution for web privacy protection. 
 
 Then there are the sites like Lexis-Nexis "People Locator"  
 <http://www.lexis-nexis.com/lncc/general/privacy_info2.html> At this site they provide "subscribers" of their service with "publicly available" information as well as "some non- publicly available" information. Fortunately there is a way to "opt-out" of their database, by sending your name, address and phone number [mailto:removal@prod.lexis-nexis.com](mailto:removal@prod.lexis-nexis.com)
