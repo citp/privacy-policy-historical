@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2000-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000510185354id_/http%3A//www.redcross.org/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205232800id_/http%3A//www.redcross.org/policy.html) for the most accurate reproduction.*
 
 # American Red Cross - Internet Site Privacy Policy
 
@@ -37,7 +37,5 @@ For information about the American Red Cross and its mission, or to learn about 
 And if you would like to [contact us](http://www.redcross.org/sys/feedback/feedback.html) at any time during your visit, just click on the [feedback](http://www.redcross.org/sys/feedback/feedback.html) mailbox at the bottom of any page. 
 
 * * *
-
-[](http://www.redcross.org/cgi-bin/imagemap.pl/navmap.map)
 
 © [Copyright](http://www.redcross.org/copyright.html) 1999, The American National Red Cross. All Rights Reserved.
