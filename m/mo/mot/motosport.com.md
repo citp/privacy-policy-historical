@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009135929id_/http%3A//www.motosportoutlet.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404103526id_/http%3A//www.motosport.com/about/policy.jsp) for the most accurate reproduction.*
 
-# MotosportOutlet.com- Free Shipping On All Orders Over $100!
+# MotoSport Outlet
 
-**Privacy Policy Statement**
-
-This is the web site of **MotoSport Outlet**.  
-
+  
+This is the web site of **MotoSport Outlet**.
 
 Our postal address is  
-**1855 west 2nd ave.  
-Eugene, OR 97402**
+**115 W. 8th  
+Suite 300  
+Eugene, OR 97401**
 
 We can be reached via e-mail at [sales@motosport.com](mailto:sales@motosport.com)  
-or you can reach us by telephone at 1-541-341-1777  
-
+or you can reach us by telephone at 1-541-341-1777
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -39,4 +37,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above [addresses](http://www.motosportoutlet.com/#address) or [phone number](http://www.motosportoutlet.com/#phone).
+If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number.
