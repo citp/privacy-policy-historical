@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thephoenix.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607141608id_/http%3A//www.thephoenix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephoenix.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209114052id_/http%3A//www.thephoenix.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to the Boston Phoenix- Boston's Alternative Source for Arts and Entertainment
 
