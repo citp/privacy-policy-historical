@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the journeymart.com privacy policy that was archived on 2001-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010505012110id_/http%3A//www.journeymart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeymart.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204165228id_/http%3A//www.journeymart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 JourneyMart.com respects the privacy of its users and is committed to protecting it. The information collected is used to enable the portal and the JourneyMart Licensees to provide efficient service and to personalize your JourneyMart experience. We would like you to understand the ways in which we do and don’t use this information, and the details of our Privacy Policy are given below.
 
 **Community areas - Bulletin Board/Online Chat**  
-These are areas where you interact with other users. It is mandatory to register, if you have not done so already, before you use these services. The purpose is to be able to track any contents or exchange of information which may in anyway be harmful or contrary to law. However there is no legal obligation on the Portal to monitor such material/content/information. 
+These are areas where you interact with other users. It is mandatory to register, if you have not done so already, before you use these services. The purpose is to be able to track any contents or exchange of information which may in anyway be harmful or contrary to law. However there is no legal obligation on the Portal to monitor such material /content /information. 
 
-Kindly note that any personal information provided by you during chat sessions / email exchanges and on message /bulletin boards are considered public and are entirely your responsibility. Do be cautious in sharing your personal information in this manner. It is not covered by the JourneyMart Privacy Policy.
+Kindly note that any personal information provided by you during chat sessions /email exchanges and on message /bulletin boards are considered public and are entirely your responsibility. Do be cautious in sharing your personal information in this manner. It is not covered by the JourneyMart Privacy Policy.
 
 **2.Your Choice**
 
-JourneyMart.com will not send you any unsolicited information, including newsletters. New users will receive a welcome email explaining the features of the site. At all times you are given the opportunity to ‘opt-out’ of receiving information, newsletters or promotional materials from us or our partners. Simply click on the unsubscribe or opt-out buttons or email us at [ unsubscribe@JourneyMart.com](mailto:unsubscribe@JourneyMart.com) .
+JourneyMart.com will not send you any unsolicited information, including newsletters. New users will receive a welcome email explaining the features of the site. At all times you are given the opportunity to ‘opt-out’ of receiving information, newsletters or promotional materials from us or our partners. Simply click on the unsubscribe or opt-out buttons or email us at [unsubscribe@JourneyMart.com](mailto:unsubscribe@JourneyMart.com) .
 
 **3.  IP Addresses / Log Files**
 
@@ -30,7 +30,7 @@ Websites use cookies for the convenience of the user. Setting a cookie on our si
 
 **What kind of information becomes accessible because of the cookie ?**
 
-Usage of a cookie is in no way linked to any personally identifiable information while on our site. It does not actually identify you, just the computer from which you usually access the site. Any information that you do not submit on the website cannot be accessed. Even though the cookie is in your hard disk, it is not equipped to access other information /data on your hard disk.. Also one site cannot access the cookie of another site.
+Usage of a cookie is in no way linked to any personally identifiable information while on our site. It does not actually identify you, just the computer from which you usually access the site. Any information that you do not submit on the website cannot be accessed. Even though the cookie is in your hard disk, it is not equipped to access other information /data on your hard disk. Also one site cannot access the cookie of another site.
 
 **When does a cookie terminate ?**
 
@@ -48,32 +48,32 @@ While sharing information with our advertisers, it is usually in the form of agg
 
 **Surveys & Contests**
 
-Our web site may request information for contests and surveys. Submission of these informations are entirely voluntary. You have the option to deny submission of these informations. The kind of information asked is to enable contact, to inform winners of the contests. The surveys ask for demographic details ( age, post code) for aggregate use. It helps to monitor the use of the website and improve it.
+Our web site may request information for contests and surveys. Submission of these informations are entirely voluntary. You have the option to deny submission of these informations. The kind of information asked is to enable contact, to inform winners of the contests. The surveys ask for demographic details  (age, post code) for aggregate use. It helps to monitor the use of the website and improve it.
 
 **6\. Links**
 
 This web site contains links for the benefit of the user. Some of the JourneyStores link into their existing websites as well. These links allow you to access those websites. Therefore when you click a link you exit our website and enter another. Please be alerted that JourneyMart.com is not responsible and has no control over the privacy policy of these other websites.
 
-We urge our users to read and understand the privacy policy of other websites they access before submitting any information. It is important that Personally identifiable information collected by other web sites are well protected ( not shared/ rented or sold to other parties) . The privacy statement of JourneyMart.com applies strictly to the information collected by JourneyMart.com.            
+We urge our users to read and understand the privacy policy of other websites they access before submitting any information. It is important that personally identifiable information collected by other web sites are well protected (not shared/ rented or sold to other parties) . The privacy statement of JourneyMart.com applies strictly to the information collected by JourneyMart.com.            
 
 **7\. Security of Information.**
 
-JourneyMart.com uses virtual and physical security restrictions to protect database and systems. All sensitive information like your personal information and transactions are protected both online and offline by JourneyMart.com. The highest level of Internet privacy and protection presently available is ensured by the most updated Security-Socket- Layer technology   so that transactions and information like credit card details remain private.
+JourneyMart.com uses virtual and physical security restrictions to protect database and systems. All sensitive information like your personal information and transactions are protected both online and offline by JourneyMart.com. The highest level of Internet privacy and protection presently available is ensured by the most updated Security-Socket- Layer technology, so that transactions and information like credit card details remain private.
 
-Digital certificates have been obtained in order to enable encryption ( 128 bit ) of information. This will ensure that all information provided by you from through your computer to our server is first transformed into a code before it is dispatched through the Internet. Do look for the locked icon at the bottom of the web browser while on a secure page.
+Digital certificates have been obtained in order to enable encryption (128 bit ) of information. This will ensure that all information provided by you from through your computer to our server is first transformed into a code before it is dispatched through the Internet. Do look for the locked icon at the bottom of the web browser while on a secure page.
 
 Registeration information is stored in a secure operating environment. Any information provided to the employees or Licensees of JourneyMart.com is restricted to what is absolutely necessary to provide a superior service. All such employees and Licensees are legally bound by the privacy policies adopted by JourneyMart.com..  
 
 **8\. Updating of Personal Information**
 
-You may change your personally identifiable information and / or your preferences and interests any time you want. Just click on the My Account button on the top navigation bar and access your registeration details. 
+You may change your personally identifiable information and /or your preferences and interests any time you want. Just click on the My Account button on the top navigation bar and access your registeration details. 
 
-As mentioned earlier, you may at any time, opt out of having your information used for marketing and advertising purposes, again by changing your options within your registeration details. 
+As mentioned earlier, you may at any time opt out of having your information used for marketing and advertising purposes, again by changing your options within your registeration details. 
 
-Users who no longer wish to receive our newsletter or promotional materials from us or you Licensees may unsubscribe by clicking on the unsubscribe button on the communication or sending us an email at [ unsubscribe@journeymart.com](mailto:unsubscribe@journeymart.com)
+Users who no longer wish to receive our newsletter or promotional materials from us or our Licensees, may unsubscribe by clicking on the unsubscribe button on the communication or sending us an email at [unsubscribe@journeymart.com](mailto:unsubscribe@journeymart.com)
 
 **9\. Notification of Changes**
 
-The Internet is constantly evolving and our privacy policy is liable to changes. All changes will be posted here and users should check the privacy policy from time to time to always be aware of what information we collect, how we use it, and under what circumstances, if any we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will clearly state that in the privacy policy. Users will have a choice as to whether or not we use their information in this different manner.
+The Internet is constantly evolving and our Privacy Policy is liable to changes. All changes will be posted here and users should check the Privacy Policy from time to time to always be aware of what information we collect, how we use it, and under what circumstances, if any we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will clearly state that in the Privacy Policy. Users will have a choice as to whether or not we use their information in this different manner.
 
-If you have any queries about our Privacy Policy or feel that this company is not abiding by its posted privacy policy, please contact us at [ Privacy@JourneyMart.com](mailto:Privacy@JourneyMart.com) . Your privacy is our concern. 
+If you have any queries about our Privacy Policy or feel that this company is not abiding by its posted Privacy Policy, please contact us at [Privacy@JourneyMart.com](mailto:Privacy@JourneyMart.com) . Your privacy is our concern. 
