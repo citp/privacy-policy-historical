@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecgisite.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210065943id_/http%3A//www.thecgisite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecgisite.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621075159id_/http%3A//www.thecgisite.com/privacy.php) for the most accurate reproduction.*
 
 # TheCgiSite.com: Privacy Policy
 
@@ -41,5 +41,5 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 TheCgiSite.com is provided on an "as is" basis and makes no representations or warranties of any kind with respect to this website or its contents. By downloading, modifying, copying, viewing, or using this website, you agree that neither the author of this site nor the owners or administrators are liable for any breach of security, damages of any kind, including compensatory, direct, indirect or consequential damages, loss of data, income or profit, loss of or damage to property and claims of third parties. You also consent to the collection and use of information as specified above. 
 
 [](http://www.illigio.com/)  
-[Low-Cost Web Hosting from ILLIGIO](http://www.illigio.com/)   
+[Illigio Group: Web Hosting, Web Development, Co-Location and so much more](http://www.illigio.com/)   
 
