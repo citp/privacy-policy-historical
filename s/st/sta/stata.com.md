@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207225422id_/http%3A//www.stata.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605013817id_/http%3A//www.stata.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,4 @@
 
 Contact [webmaster@stata.com](mailto:webmaster@stata.com) with comments or suggestions about this web site. 
 
-**© Copyright 2002 Stata Corporation.   [Terms of Use.](https://web.archive.org/terms.html)   [Privacy Notice.](https://web.archive.org/privacy.html)**
+**© Copyright 2003 Stata Corporation.   [Terms of Use.](https://web.archive.org/terms.html)   [Privacy Notice.](https://web.archive.org/privacy.html)**
