@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190631id_/http%3A//www.demon-tweeks.co.uk/content/default.asp%3Fcategory_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205015740id_/http%3A//www.demon-tweeks.co.uk/content/default.asp%3Fcategory_id%3D37) for the most accurate reproduction.*
 
 # Professional Motorsport equipment from Demon Tweeks
+
+  
+
 
 Privacy issues are very important to us, given the current regulatory and technical environment and we are commited to protecting your privacy.
 
@@ -17,7 +20,7 @@ Protection of Personal Data
 We have taken every possible precaution to create a secure environment to protect the personal information supplied by you to us when making an order or opening an Account. When an order is placed or Account opened we offer the use of a secure service. Essentially we have adopted the industry standard encryption methods in that the secure service software (SSL) encrypts all information input before it is sent to us. In order to comply with the Data Protection Act 1998 and for maximum peace of mind we can advise that we have implemented strict security procedures in relation to the storage and disclosure of information which you have given to us for the purpose of preventing unauthorised access. For security reasons and to protect your right to privacy we may occasionally request proof of identity from you before disclosing any sensitive information to you or accepting any order from you.
 
 Cookies   
-Cookies are small pieces of information that websites transfer to your computer hard drive for record keeping purposes. Our cookies are completely secure in that they do not contain any personally identifying information but they do enable us to keep a record of the items in your basket whilst you are on the site. You should note that most web browsers automatically accept cookies, but you can usually change your browser to prevent this.
+Cookies are small pieces of information that websites transfer to your computer hard drive and we use to enable our website to provide features such as automatic login, personalised greetings and storage of items in your Shopping Basket.  Cookies can be turned off in your browser or you can be notified when you receive a cookie so you choose whether to accept it.  The Help menu of your browser should contain information on how to do this.  However, changing these settings may mean that you will not be able to take advantage of some of the advanced features on the site.  If you do wish to remove cookies after a visit to the site, perhaps because you are using a shared computer, you can clear the cookies by clicking on the sign out link.
 
 Disclosure of Information to Third Parties   
 We do not sell, trade or rent your personal information (data) to others. We may choose to do so in the future with carefully selected and trustworthy third parties. Should you not wish us to do so then kindly advise us by sending an e-mail to [customerservices@demon-tweeks.co.uk](mailto:customerservices@demon-tweeks.co.uk). We may provide statistics or analytical records about our customers, sales, traffic patterns to reputable third party vendors but this information will not include any personally identifying information on you. 
