@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetebook.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207164822id_/http%3A//www.planetebook.com/mainpage.asp%3Fwebpageid%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetebook.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411160303id_/http%3A//www.planetebook.com/mainpage.asp%3Fwebpageid%3D41) for the most accurate reproduction.*
 
 # Planet eBook - eBooks Community - Privacy Policy for the BinaryThing.com Web sites
 
