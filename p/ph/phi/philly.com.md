@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217185132id_/http%3A//philadelphia.realcities.com/rc/support/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601125610id_/http%3A//philadelphia.realcities.com/rc/support/terms.htm) for the most accurate reproduction.*
 
 # Philly.com: Search Help
 
