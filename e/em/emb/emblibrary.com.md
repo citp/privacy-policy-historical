@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608044554id_/http%3A//www.emblibrary.com/emblibrary/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2001-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010806091803id_/http%3A//www.emblibrary.com/emblibrary/privacy.asp%3F) for the most accurate reproduction.*
 
 # Privacy Statement for Embroidery Library
 
