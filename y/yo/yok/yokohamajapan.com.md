@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yokohamajapan.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211030900id_/http%3A//www.citiesunlimited.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yokohamajapan.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208063935id_/http%3A//citiesunlimited.com/privacy.htm) for the most accurate reproduction.*
 
 # Cities Unlimited - Your "Home" Page
 
@@ -26,7 +26,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can send email to [remove@citiesunlimited.com](mailto:remove@citiesunlimited.com)
+  1. You can send email to [postoffice@citiesunlimited.com](mailto:postoffice@citiesunlimited.com)
 
 
 
@@ -42,6 +42,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
-CitiesUnlimited, Inc.  PO Box 2474  Mission, KS 66201  [privacy@citiesunlimited.com](mailto:privacy@citiesunlimited.com)     _Citiesunlimited.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to[ http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html)._
-
-_Citiesunlimited.com works with a third party that serves ads to this site. To find out more about how Sonar manages the privacy of information in conjunction with serving ads on this site, please go to_ _[http://www.sonar.com/content/privacy.htm](http://www.sonar.com/content/privacy.htm)_
+CitiesUnlimited, Inc.  PO Box 2474  Mission, KS 66201  [info@citiesunlimited.com](mailto:info@citiesunlimited.com)     _Citiesunlimited.com works with a third party that serves ads to this site. To find out more about how DoubleClick manages the privacy of information in conjunction with serving ads on this site, please go to_ _[http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1= &](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)_
