@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2002-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020628091026id_/http%3A//www.returnpath.net/priv_promise) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211241id_/http%3A//www.returnpath.net/privacy) for the most accurate reproduction.*
 
 # Return Path - Your Email Change of Address Solution - Your E-mail Change of Address Solution - Privacy Policy
 
@@ -34,7 +34,7 @@ Returnpath.net is a licensee of the TRUSTe Privacy Program. TRUSTe is an indepen
 
 If you have questions or concerns regarding this statement, you should first contact [privacy@returnpath.net](mailto:privacy@returnpath.net). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-Return Path also participates in the Council of Better Business Bureau's BBBOnLine Privacy and Dispute Resolution Programs; and have been certified by BBBOnLine Privacy as meeting all the BBBOnLine Privacy requirements. For more information about either of these programs, please refer to the links below:
+Return Path also participates in the Council of Better Business Bureau's BBBOnLine Privacy and Dispute Resolution Programs; and has been certified by BBBOnLine Privacy as meeting all the BBBOnLine Privacy requirements. For more information about either of these programs, please refer to the links below:
 
   * <http://www.truste.org/>
   * <http://www.bbbonline.org/>
@@ -68,7 +68,7 @@ Return Path treats your personal information as confidential and does not disclo
 
 If we are served with a civil subpoena seeking personal information about a Return Path user, we will use reasonable efforts to notify the specified user of the request prior to disclosure of such personal information, so as to allow the user the opportunity to oppose the subpoena.
 
-Return Path will not provide your e-mail address, name, or other personal identifiers to merchants or marketers without your specific prior permission. Return Path will follow the instructions you indicate through the Return Path software interface.
+Return Path will not provide your e-mail address, name, or other personal identifiers to merchants or marketers without your prior permission. Return Path will follow the instructions you indicate through the Return Path software interface or e-mails we send to you.
 
 Return Path may engage third parties to perform analysis or data processing of our databases that involves access to your personal information, in order to better provide you with the services for which you joined. If Return Path does so, it will ensure that such parties are contractually required to keep the information confidential and not to use it in any way other than as is necessary to perform their work for Return Path.
 
@@ -82,7 +82,7 @@ As a Return Path member, you have access to, and appropriate control over, the d
 
 Return Path gives you easy access to the information maintained about you in the Return Path database in a format that is easy to understand. Our current policy is to collect your old and new e-mail address from you when you register your e-mail address change at the Return Path web site or at a Return Path network partner web site. Return Path limits user access to verification of your old and new e-mail addresses, and settings for handling E-mail Change of Address notifications to personal and commercial contacts. Should this access policy change, Return Path will post the changed policy on this web site.
 
-Return Path provides you with options that enable you to determine how you want to handle notifications to personal and commercial contacts regarding your changed e-mail address. These options let you either specifically select who may receive your new e-mail address, or grant Return Path permission to share your new e-mail address with anyone who knows your old e-mail address and is a Return Path-approved network partner or an individual using the service to get back in touch with you. Regardless of the option you choose, you decide how your information is shared.
+Return Path provides you with options that enable you to determine how you want to handle notifications to personal and commercial contacts regarding your changed e-mail address. These options let you either determine who may receive your new e-mail address, or grant Return Path permission to share your new e-mail address with anyone who knows your old e-mail address and is a Return Path-approved network partner or an individual using the service to get back in touch with you. Regardless of the option you choose, you decide how your information is shared.
 
 To revise or edit your personally identifiable information, simply go to the Address Manager tab on the Return Path web site. Use your new e-mail address as your log-in ID. Return Path, upon recognizing your valid Log-in ID will send an e-mail to your new e-mail address, containing the link for access to Address Manager. However, a request to revise or edit your personally identifiable information may not be accommodated if it would result in incorrect information. Requests for deletion of certain key information, such as e-mail address, may require closing the account.
 
@@ -94,7 +94,7 @@ Information about a member may be withheld or exempted from deletion if this is 
 
 **Unsubscribe Procedures:**
 
-If you decide that you do not wish to participate in our service you can unsubscribe by clicking on the link provided in the e-mail messages Return Path sends you and following the directions provided. Additionally, you can remove your account information directly from the Return Path web site by going to the Address Manager, after logging in, and clicking the link marked "Remove Old addresses".
+If you decide that you do not wish to participate in our service you can unsubscribe by clicking on the link provided in any e-mail message Return Path sends you and following the directions provided. Additionally, you can remove your account information directly from the Return Path web site by going to the Address Manager, after logging in, and clicking the link marked "Remove Old addresses".
 
 back to top
 
@@ -170,13 +170,13 @@ Return Path always specifies the purposes for which it uses personal data, befor
 
 **Who Collects Your Information:**
 
-Return Path collects e-mail address change information at our web sites, [www.returnpath.net](http://www.returnpath.net/) and [www.veripost.net](http://www.veripost.net/), and at network partner web sites with a pop-up window hosted by Return Path. Return Path's network partners may also collect information from you when you update your e-mail address at their web sites, and may then send the information to us if you have opted-in to the Return Path e-mail change of address service.
+Return Path collects e-mail address change information at our web site, [www.returnpath.net](http://www.returnpath.net/), and at network partner web sites with a pop-up window hosted by Return Path. Return Path's network partners may also collect information from you when you update your e-mail address at their web sites, and may then send the information to us if you have opted-in to the Return Path e-mail change of address service.
 
 **Information We Collect:**
 
 When you register your e-mail address change at a Return Path web site or at a Return Path network partner web site, we ask you to provide your new and old e-mail addresses. When you press "submit," Return Path also records the time and date, as well as other administrative information that helps Return Path prevent people from misusing our system.
 
-After you submit your e-mail address change, Return Path sends out a confirmation e-mail to both your new and old e-mail addresses. In order for your e-mail address change to be registered in our system, you must click on a link inside the e-mail message sent to your new address. We also send an e-mail to your old e-mail address to help prevent people from misusing our service. 
+After you submit your e-mail address change, Return Path sends out a confirmation e-mail to both your new and old e-mail addresses. We do this to help prevent people from misusing our service. Our confirmation e-mails provide instructions on how to activate or cancel your registration.
 
 In order to protect your online information and prevent misuse of our system, Return Path regularly records the time and date you opened the confirmation e-mail messages, what links you clicked, as well as other information that may help people you choose to receive your new e-mail address send messages to you in a format that you can receive. 
 
@@ -198,7 +198,7 @@ If you become a Return Path user, you give us permission to use the information 
 
 **Information We Share:**
 
-Once your e-mail address change has been registered, you decide who has access to your updated e-mail address. Individual visitors may come to our web sites, [www.returnpath.net](http://www.returnpath.net/) and [www.veripost.net](http://www.veripost.net/), or a Return Path network partner's web site, to request your updated e-mail address. Return Path's network partners may also send us a list of e-mail addresses in an attempt to re-contact people whose e-mail addresses may have changed. Return Path only provides your new e-mail address if you have given permission for it to be provided. Once you have given your permission, your new e-mail address will be provided to the network partner and the network partner's use of the new e-mail address will be covered by the network partner's privacy policies. Return Path contractually requires each of its network partners to include in its privacy policies a provision that provides you with the option to opt-out at any time from any e-mail communication subscriptions you have with the network partner. If you are unable to opt-out from one of our network partner's e-mail subscription lists, please contact us at [privacy@returnpath.net](mailto:privacy@returnpath.net).
+Once your e-mail address change has been registered, you decide who has access to your updated e-mail address. Individual visitors may come to our web site, [www.returnpath.net](http://www.returnpath.net/) and or a Return Path network partner's web site, to request your updated e-mail address. Return Path's network partners may also send us a list of e-mail addresses in an attempt to re-contact people whose e-mail addresses may have changed. Return Path provides your new e-mail address to requestors according to the permission option you selected when you registered, and/or how you respond to our notification e-mails. Once we have your permission, your new e-mail address will be provided to the network partner and the network partner's use of the new e-mail address will be covered by the network partner's privacy policies. Return Path contractually requires each of its network partners to include in its privacy policies a provision that provides you with the option to opt-out at any time from any e-mail communication subscriptions you have with the network partner. If you are unable to opt-out from one of our network partner's e-mail subscription lists, please contact us at [privacy@returnpath.net](mailto:privacy@returnpath.net).
 
 If you choose to send a greeting card to notify others of your e-mail change of address, Return Path will share your e-mail address with the recipients of the greeting card. Return Path will also share your first name and/or last name with the recipients of the greeting card. Return Path will not use the recipients' names or e-mail addresses other than to deliver a greeting card (although the recipients may be presented with an opportunity to register for Return Path's free e-mail change of address service).
 
@@ -246,7 +246,7 @@ back to top
 
 **_Notification of Changes_**
 
-The foregoing policy is effective as of January 2002. Return Path reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of Return Path's services following the posting of changes to these terms will mean you accept those changes. In the event that Return Path intends to change this policy, Return Path will post a message on the home page of its Web Site that states that the Privacy Policy has been changed, and will provide a link to the Privacy Policy. These postings will occur on Return Path's Web Site for at least 30 days prior to any material change.
+The foregoing policy is effective as of July 2002. Return Path reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of Return Path's services following the posting of changes to these terms will mean you accept those changes. In the event that Return Path intends to change this policy, Return Path will post a message on the home page of its Web Site that states that the Privacy Policy has been changed, and will provide a link to the Privacy Policy. These postings will occur on Return Path's Web Site for at least 30 days prior to any material change.
 
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. However, if you have opted out of all communication with the site, or deleted/deactivated your account, then you will not be contacted. Nor will your personal information be used in this new manner.
 
