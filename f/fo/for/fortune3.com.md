@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fortune3.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607054758id_/http%3A//www.fortune3.com/en/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortune3.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212083059id_/http%3A//www.fortune3.com/en/privacy.shtml) for the most accurate reproduction.*
 
-# Shopping Cart software by Fortune3 - Privacy
+# Fortune3: Ecommerce Solutions, Shopping Cart software & E-Commerce software - Privacy
 
-**_  
-FORTUNE3 Privacy Policy Detailed Review..._** _ ****_
+**  
+FORTUNE3 Privacy Policy Detailed Review...**
 
 ·         [Information We Gather or Track](https://web.archive.org/en/policies/privacy.shtml#info)
 
@@ -19,8 +19,7 @@ FORTUNE3 Privacy Policy Detailed Review..._** _ ****_
 
 Questions regarding this statement should be directed to the FORTUNE3 site coordinator [webmaster@fortune3.com](mailto:webmaster@fortune3.com). Please be aware that this site contains links to other sites. FORTUNE3 is not responsible for the privacy practices or content of such Web sites. 
 
-  
-**_Information We Gather or Track_** _ ****_
+**Information We Gather or Track**
 
 Information on general usage and any optional personal details you provide to us will be used to provide you with enhanced features. The following are details of the information we collect:
 
@@ -35,7 +34,7 @@ Information on general usage and any optional personal details you provide to us
 ·         Users participating in FORTUNE3”s Banner Exchange program display banner ads on their Web sites from other FORTUNE3 Users and from outside companies. These ads may contain cookies. You may have a cookie placed on your browser by Double Click, which is the media company that serves our ads. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers and we do not have access to this information. Cookies in and of themselves do not contain any personally identifiable information about you.   
 
 
-**_What We Do with Collected Information_** _ ****_
+**What We Do with Collected Information**
 
 ·         From time to time we extend various offers through our partner companies. These may include news or additional details on their products and services. Your personal preferences or usage history may result in your being offered special screens or products. These offers would be sent via FORTUNE3 and your personal information is not shared with entities outside the FORTUNE3 network. Some personal information, such as eMail, may be shared with a partner company, but only when you have previously agreed to the transfer. 
 
@@ -43,7 +42,7 @@ Information on general usage and any optional personal details you provide to us
 
 ·         FORTUNE3 may send a newsletter to our Users. This is a required service of FORTUNE3. If you would like to stop receiving the newsletters you may unsubscribe by removing your account. 
 
-**_Who Can Use Collected Information and How_** _ ****_
+**Who Can Use Collected Information and How**
 
 ·         As mentioned in our "What We Do With Collected Information" section, we provide our advertisers with aggregate reports on advertising activity. 
 
@@ -51,17 +50,17 @@ Information on general usage and any optional personal details you provide to us
 
 ·         Please be aware that if you voluntarily disclose information online, personal or otherwise, that information can be collected and used by others. FORTUNE3 will have no means to control this. 
 
-**_Our Disclosure of Your Information_** _ ****_
+**Our Disclosure of Your Information**
 
 ·         FORTUNE3 does not sell or commercially make available specific information about its Users or Users other than in aggregate form, except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. 
 
-_**Our Security Measures**_ _ ****_
+**Our Security Measures**
 
 ·         FORTUNE3 uses secure server software (SSL) to encrypt payment information and User data against unauthorized access. However, we cannot be responsible for how third parties, whose links appear on our site, use your information. You should know that no data transmission is one hundred percent guaranteed. Because your site is ultimately protected by you and your password, much of your information security is up to you. 
 
 ·         FORTUNE3 has implemented additional precautions to ensure the privacy of your personal information. We have a strict firewall in place which does not allow any outside access. Access in the company is limited to only individuals who need to be able to see customer data in order to perform their job functions, such as the billing department. Important personal data is backed up on the network to help insure its integrity. All employees are under a confidentiality agreement. 
 
-**_Corrections & Updates to Personal Information_** _ ****_
+**Corrections & Updates to Personal Information**
 
 ·         By using the _Update Site_ feature of the FORTUNE3 Wizard, Users can change or correct information about themselves previously entered and registered. If there is a problem with a change being accepted by our system, you may contact us at the eMail address:
 
@@ -69,7 +68,7 @@ _**Our Security Measures**_ _ ****_
 
 ·         Users are notified of any changes in the FORTUNE3 Privacy Policy in the newsletter. 
 
-_**Your Choices**_ _ ****_
+**Your Choices**
 
 ·         You may choose not to receive special offers and discounts simply by not registering for any special deals and offers when you sign up. If you signed up for special offers and now wish to unsubscribe, you may do so at any time by replying to the unsubscribe link contained in those mailings. 
 
