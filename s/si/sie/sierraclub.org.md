@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierraclub.org privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601145431id_/http%3A//www.sierraclub.org/website/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierraclub.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205094317id_/http%3A//www.sierraclub.org/website/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Sierra Club
 
@@ -15,10 +15,10 @@ Some of the activist functions of our site also require registration of personal
 
 The Sierra Club makes every effort to insure the secure collection and transmission of sensitive user information using industry accepted data collection and encryption methodologies.
 
-The Sierra Club does not sell or otherwise disclose such user information outside the organization. However, if you become a member of the Sierra Club, some information on our membership lists, such as your name and address, may be exchanged with other organizations. Members may [opt out](https://web.archive.org/web/20020601145431id_/http%3A//www.sierraclub.org/website/optout.asp) of such membership list exchanges.
+The Sierra Club does not sell or otherwise disclose such user information outside the organization. However, if you become a member of the Sierra Club, some information on our membership lists, such as your name and address, may be exchanged with other organizations. Members may [opt out](https://web.archive.org/web/20021205094317id_/http%3A//www.sierraclub.org/website/optout.asp) of such membership list exchanges.
 
 **Cookies:**  
-Like most websites, the Sierra Club may place a "cookie," or small file, in the browser files of a visitor's computer. We use cookies to save information you give us so you don't have to re-enter it each time you visit our site. This allows us to personalize the site to your taste and provide the best web experience possible to our visitors. For more information about cookies, see our [cookie FAQ](https://web.archive.org/web/20020601145431id_/http%3A//www.sierraclub.org/website/cookies.asp).
+Like most websites, the Sierra Club may place a "cookie," or small file, in the browser files of a visitor's computer. We use cookies to save information you give us so you don't have to re-enter it each time you visit our site. This allows us to personalize the site to your taste and provide the best web experience possible to our visitors. For more information about cookies, see our [cookie FAQ](https://web.archive.org/web/20021205094317id_/http%3A//www.sierraclub.org/website/cookies.asp).
 
 [Return to your previous webpage.]()
 
