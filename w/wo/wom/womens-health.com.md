@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womens-health.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405043558id_/http%3A//womens-health.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womens-health.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221041303id_/http%3A//www.womens-health.com/about/privacy.html) for the most accurate reproduction.*
 
 # Women's Health Interactive - Overview of the Company
 
