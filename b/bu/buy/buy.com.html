@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the buy.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202024124id_/http%3A//www.buy.com/corp/privacy_policy_complete.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buy.com privacy policy that was archived on 2004-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040612050957id_/http%3A//www.buy.com/corp/privacy_policy_complete.asp) for the most accurate reproduction.-->
 
-<html><head></head><body bgcolor="#ffffff" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" text="#000000" vlink="#000000" alink="#333333" link="#000000"><buycache time="12/1/2003 12:56:05 PM" web="107" client="" cache="131" db="A">
+<html><head></head><body bgcolor="#ffffff" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" text="#000000" vlink="#000000" alink="#333333" link="#000000"><buycache time="6/11/2004 9:56:09 PM" web="9" client="" cache="67" db="A">
 
-<buycache loc="305" time="12/1/2003 12:56:05 PM" web="" client="" cache="">
+<buycache loc="305" time="6/11/2004 9:56:09 PM" web="" client="" cache="">
 
 
 
@@ -34,12 +34,34 @@ function systranURL(url) {
 } 
 </script>
 
+		
+<script language="Javascript">
+<!--
+	var agt=navigator.userAgent.toLowerCase();
+	var appVer = navigator.appVersion.toLowerCase();
+    var iePos  = appVer.indexOf('msie');
+    if (iePos !=-1) {
+       is_minor = parseFloat(appVer.substring(iePos+5,appVer.indexOf(';',iePos)))
+       is_major = parseInt(is_minor);
+    }
+
+	var is_ie   = ((iePos!=-1));
+    var is_ie6   = (is_ie && is_major == 6);
+    var is_ie6up = (is_ie && is_minor >= 6);
+	
+	if (is_ie && is_major == 6) {
+	var ieCookieExpires = new Date();
+  	ieCookieExpires.setFullYear(ieCookieExpires.getFullYear() + 1);
+	document.cookie = "iebrowser=new; expires= " + ieCookieExpires.toGMTString() + ";";
+	}
+	// -->
+</script>	
 
 <script language="javascript">
 	<!--
 		//document.write (navigator.appName + '###' + navigator.userAgent)
 		//document.write("The value of navigator.appCodeName is " + navigator.appName)
-	var displaySage = true
+	var displaySage = false
 	var mac = navigator.appVersion.indexOf("Mac")>-1
 	var loc = window.location
 	if (navigator.userAgent.indexOf("Netscape6/6.1") != -1)  {
@@ -100,13 +122,84 @@ function systranURL(url) {
     		return true
     	}
     }
-	
 
 //-->
 </script>
 
 
 
+
+	<script language="javascript">
+		<!--
+		//IE5+ required, netscape, macs, and opera are not supported
+		if(mac){
+			musicLink = false;
+			if(navigator.appName == "Netscape")
+				document.cookie = "browser=netscape;";
+				
+			if (GetCookie("macuser") != "mac") {
+				var exp = new Date();
+  				exp.getTime() + (1000 * 60 * 60 * 24);
+				document.cookie = "macuser=mac;";
+			}
+		}else if (navigator.appName == "Netscape" || opera) {
+			musicLink = false;
+			document.cookie = "browser=netscape;";
+			
+		} else {
+	
+			musicLink = true;
+		}
+
+	//check for wmp cookie.  if it doesnt exists then need to check for wmp7.
+	if (document.cookie.indexOf("wmpv=") == -1)
+	{
+		//attempt to create wmp7 object, check for success/failure
+		document.write('<OBJECT ID="testplayer" height="1" width="1" CLASSID="CLSID:6BF52A52-394A-11d3-B153-00C04F79FAA6" style="display:none">');
+		document.write('<PARAM NAME="uiMode" VALUE="invisible"/>');
+  		document.write('</OBJECT>');
+	  	
+  		if(typeof(testplayer) != "undefined" && testplayer.versionInfo != null)
+  		{
+  			//has at least v7, check for 9
+  			if(parseInt(testplayer.versionInfo.substr(0,1)) >= 9)
+  			{
+  				//has v9, write a permanant cookie so we never check again
+  				var cookieExpires = new Date();
+  				cookieExpires.setFullYear(cookieExpires.getFullYear() + 1);
+				document.cookie = "wmpv=" + testplayer.versionInfo + "; expires= " + cookieExpires.toGMTString() + ";";
+			}
+			else
+			{
+				//version is less than 9, display popup
+				var wmpwin
+				if(wmpwin) wmpwin.focus();
+				//make a temp cookie so this popup doesnt happen till their next visit
+				document.cookie = "wmpv=0";
+			}
+			testplayer.close();
+		}
+		else
+		{
+			//wasnt able to create wmp7 object
+			var wmpwin
+			if(wmpwin) wmpwin.focus();
+			//make a temp cookie so this popup doesnt happen till their next visit
+			document.cookie = "wmpv=0";
+		}
+	}
+
+
+
+
+//-->
+</script><object id="testplayer" height="1" width="1" classid="CLSID:6BF52A52-394A-11d3-B153-00C04F79FAA6" style="display:none"><param name="uiMode" value="invisible"></object>
+
+
+
+
+<link rel="icon" href="http://209.67.181.20/favicon.ico" type="image/x-icon"> 
+<link rel="shortcut icon" href="http://209.67.181.20/favicon.ico" type="image/x-icon"> 
 
 <script language="Javascript">
 var childWnd;
@@ -119,20 +212,28 @@ if (childWnd.opener == null) childWnd.opener = self;
 </script>
 
 
-
-
-
+	
 	
 
+	
 <table cellpadding="0" cellspacing="0" border="0" width="100%" id="Table31">
 	<tbody><tr>
 		<td width="100%">
-			<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#006600" id="Table45" background="http://ak.buy.com/buy_assets/v6/header_december/snowflake_tile.gif">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#62829B" id="Table45">
 			<tbody><tr>
 				<td colspan="3">			
 					<table cellpadding="0" cellspacing="0" border="0" width="100%">
 						<tbody><tr>
-							<td valign="bottom"><nobr><a href="http://www.buy.com/default.asp"><img src="http://ak.buy.com/buy_assets/v6/header_december/logo_top2.gif" border="0" align="absbottom" alt="Buy.com"></a></nobr></td>
+							<td valign="bottom" width="50%">
+								<table cellpadding="0" width="100%" cellspacing="0" border="0">
+									<tbody><tr>
+										
+											<td valign="bottom" width="210"><nobr><a href="http://www.buy.com/default.asp"><img src="http://ak.buy.com/buy_assets/v6/header_may/logo_top.gif" border="0" align="absbottom" alt="Buy.com"></a></nobr></td>
+										
+									</tr>
+								</tbody></table>
+							</td>
+												
 							<td valign="top" width="100%" align="right">
 								<table cellpadding="0" cellspacing="0" border="0">
 									<tbody><tr>
@@ -149,14 +250,13 @@ if (childWnd.opener == null) childWnd.opener = self;
 										// -->
 										</script><img src="http://www.buy.com/clickfrom/CreateShopperId.asp" width="1" height="1" border="0">			
 										
-										
-											<img src="http://ak.buy.com/buy_assets/v5/img/gr_transp.gif" width="1" height="34" border="0">
-											<a href="javascript:void(0)" onclick="window.open('http://www.buy.com/corp/promos/freeshipping_051402.asp','pop','width=420,height=550,scrollbars=yes')"><img src="http://ak.buy.com/buy_assets/v6/header_december/icon_fshipping.gif" border="0" align="absbottom" alt="Free Shipping"></a>&nbsp;
-											<a href="https://secure.buy.com/retail/giftcenter/giftcenter.asp?loc=692"><img src="http://ak.buy.com/buy_assets/v6/header_december/icon_giftcerts2.gif" border="0" alt="Gift Certificates" systran="yes"></a>&nbsp;
-											<a href="http://www.buy.com/basket/basket.asp"><img src="http://ak.buy.com/buy_assets/v6/header_december/icon_basket2.gif" border="0" alt="Basket" systran="yes"></a>&nbsp;&nbsp;
-											<a href="https://secure.buy.com/corp/support/login.asp"><img src="http://ak.buy.com/buy_assets/v6/header_december/icon_myaccount2.gif" border="0" alt="My Account" systran="yes"></a>&nbsp;&nbsp;
-											<a href="https://secure.buy.com/corp/support/default.asp?loc=283"><img src="http://ak.buy.com/buy_assets/v6/header_december/icon_help2.gif" border="0" alt="Help" systran="yes"></a>&nbsp;&nbsp;
-											<img src="http://ak.buy.com/buy_assets/v5/img/gr_transp.gif" width="5" height="2" border="0">
+											<nobr><img src="http://ak.buy.com/buy_assets/v5/img/gr_transp.gif" width="1" height="34" border="0">
+											<a href="javascript:void(0)" onclick="window.open('http://www.buy.com/corp/promos/freeshipping_051402.asp','pop','width=420,height=550,scrollbars=yes')"><img src="http://ak.buy.com/buy_assets/v6/header_may/icon_fshipping.gif" border="0" align="absbottom" alt="Free Shipping"></a>&nbsp;
+											<a href="https://secure.buy.com/retail/giftcenter/giftcenter.asp?loc=692"><img src="http://ak.buy.com/buy_assets/v6/header_may/icon_giftcerts.gif" border="0" alt="Gift Certificates" systran="yes"></a>&nbsp;
+											<a href="http://www.buy.com/basket/basket.asp"><img src="http://ak.buy.com/buy_assets/v6/header_may/icon_basket.gif" border="0" alt="Basket" systran="yes"></a>&nbsp;&nbsp;
+											<a href="https://secure.buy.com/corp/support/login.asp"><img src="http://ak.buy.com/buy_assets/v6/header_may/icon_myaccount.gif" border="0" alt="My Account" systran="yes"></a>&nbsp;&nbsp;
+											<a href="https://secure.buy.com/corp/support/default.asp?loc=283"><img src="http://ak.buy.com/buy_assets/v6/header_may/icon_help.gif" border="0" alt="Help" systran="yes"></a>&nbsp;&nbsp;
+											<img src="http://ak.buy.com/buy_assets/v5/img/gr_transp.gif" width="5" height="2" border="0"></nobr>
 											</td>	
 										</tr>
 									</tbody></table>
@@ -172,43 +272,60 @@ if (childWnd.opener == null) childWnd.opener = self;
 								<td>
 									<table cellpadding="0" cellspacing="0" border="0" width="100%">
 										<tbody><tr>
-											<td valign="top" width="198"><a href="http://www.buy.com/default.asp"><img src="http://ak.buy.com/buy_assets/v6/header_december/logo_bottom2.gif" border="0" width="198" height="34" alt="Buy.com" align="abstop" systran="yes"></a></td>
-											<td valign="bottom"><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="108" height="34" border="0"><a href="http://www.buy.com/retail/department.asp?loc=20269"><img src="http://ak.buy.com/buy_assets/v6/header_december/introducing_toys3.gif" border="0" width="79" height="34" alt="Introducing Toys" align="absbottom"></a></td>	
-											<td align="right"><a href="javascript:void(0)" onclick="window.open('http://www.buy.com/corp/support/shipping/holidayshipping.asp','pop','width=400,height=520,scrollbars=no')"><img src="http://ak.buy.com/buy_assets/v6/header_december/icon_deadlines.gif" border="0" align="absbottom" alt="Holiday Shipping Deadlines"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-										</tr>
-										<tr bgcolor="#991818">
-											<td background="http://ak.buy.com/buy_assets/v6/december/nav_thinline.gif" width="50%"><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="1" height="5" border="0"></td>
-											<td background="http://ak.buy.com/buy_assets/v6/december/nav_thinline.gif">
-												<table cellpadding="0" cellspacing="0" border="0" width="539">
+											<td valign="top">
+												<table cellpadding="0" cellspacing="0" border="0">
 													<tbody><tr>
-														<td width="53"><a href="http://www.buy.com/retail/books/department.asp?loc=106"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_books2.gif" border="0" width="33" height="20" alt="Books"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_top_dot.gif" width="20" height="20" border="0"></td>
-														<td width="79"><a href="http://www.buy.com/retail/department.asp?loc=15524"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_magazines2.gif" border="0" width="59" height="20" alt="Magazines"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_top_dot.gif" width="20" height="20" border="0"></td>
-														<td width="48"><a href="http://www.buy.com/retail/department.asp?loc=20269"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_toys2.gif" border="0" width="28" height="20" alt="Toys"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_top_dot.gif" width="20" height="20" border="0"></td>
-														<td width="53"><a href="http://www.buy.com/retail/music/department.asp?loc=109"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_music2.gif" border="0" width="33" height="20" alt="Music"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_top_dot.gif" width="20" height="20" border="0"></td>
-														<td width="50"><a href="http://www.buy.com/retail/videos/department.asp?loc=322"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_dvds2.gif" border="0" width="30" height="20" alt="Dvds"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_top_dot.gif" width="20" height="20" border="0"></td>
-														<td width="57"><a href="http://www.buy.com/retail/games/department.asp?loc=108"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_games2.gif" border="0" width="37" height="20" alt="Games"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_top_dot.gif" width="20" height="20" border="0"></td>
-														<td width="56"><a href="http://www.buy.com/retail/department.asp?loc=17250"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_sports2.gif" border="0" width="36" height="20" alt="Sports"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_top_dot.gif" width="20" height="20" border="0"></td>
-														<td width="48"><a href="http://www.buy.com/retail/department.asp?loc=16234"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_bags2.gif" border="0" width="28" height="20" alt="Bags"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_top_dot.gif" width="20" height="20" border="0"></td>
-														<td width="95"><a href="http://www.buy.com/retail/clearance/todays_deals.asp?loc=33448"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_todaysdeals2.gif" border="0" width="75" height="20" alt="Today's Deals"></a><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="20" height="20" border="0"></td>
+														
+															<td width="198"><a href="http://www.buy.com/default.asp"><img src="http://ak.buy.com/buy_assets/v6/header_may/logo_bottom.gif" border="0" width="198" height="34" alt="Buy.com" align="abstop" systran="yes"></a></td>
+														
+												</tr></tbody></table>
+											</td>
+											<td valign="bottom" colspan="2">
+												<table cellpadding="0" cellspacing="0" border="0" width="100%">
+													<tbody><tr>
+														<td align="left"><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="200" height="34" border="0"><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="45" height="34" border="0"><a href="http://www.buy.com/retail/default.asp?loc=18250"><img src="http://ak.buy.com/buy_assets/v6/header_may/digital-music3.gif" border="0" width="66" height="29" alt="Music Downloads" align="absbottom"></a></td>	
+														<td align="right">
+														
+														</td>
 													</tr>
 												</tbody></table>
-											</td><td background="http://ak.buy.com/buy_assets/v6/december/nav_thinline.gif" width="50%"><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="1" height="5" border="0"></td>
+											</td>
+										</tr>
+										<tr bgcolor="#000000">
+											<td background="http://ak.buy.com/buy_assets/v6/may/nav_thinline.gif" width="47%"><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="1" height="5" border="0"></td>
+											<td background="http://ak.buy.com/buy_assets/v6/may/nav_thinline.gif">
+											<table cellpadding="0" cellspacing="0" border="0" width="634">
+											<tbody><tr>
+												<td width="53"><a href="http://www.buy.com/retail/books/department.asp?loc=106"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_books.gif" border="0" width="33" height="20" alt="Books"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_top_dot.gif" width="20" height="20" border="0"></td>
+												<td width="79"><a href="http://www.buy.com/retail/department.asp?loc=15524"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_magazines.gif" border="0" width="58" height="20" alt="Magazines"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_top_dot.gif" width="20" height="20" border="0"></td>
+												<td width="48"><a href="http://www.buy.com/retail/department.asp?loc=20269"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_toys.gif" border="0" width="27" height="20" alt="Toys"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_top_dot.gif" width="20" height="20" border="0"></td>
+												<td width="53"><a href="http://www.buy.com/retail/music/department.asp?loc=109"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_music.gif" border="0" width="32" height="20" alt="Music"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_top_dot.gif" width="20" height="20" border="0"></td>
+												<td width="116"><a href="http://www.buy.com/retail/default.asp?loc=18250"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_musicdownloads.gif" border="0" width="96" height="20" alt="Music Downloads"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_top_dot.gif" width="20" height="20" border="0"></td>
+												<td width="50"><a href="http://www.buy.com/retail/videos/department.asp?loc=322"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_dvds.gif" border="0" width="30" height="20" alt="Dvds"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_top_dot.gif" width="20" height="20" border="0"></td>
+												<td width="57"><a href="http://www.buy.com/retail/games/department.asp?loc=108"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_games.gif" border="0" width="37" height="20" alt="Games"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_top_dot.gif" width="20" height="20" border="0"></td>
+												<td width="56"><a href="http://www.buy.com/retail/department.asp?loc=17250"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_sports.gif" border="0" width="35" height="20" alt="Sports"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_top_dot.gif" width="20" height="20" border="0"></td>
+												<td width="47"><a href="http://www.buy.com/retail/department.asp?loc=16234"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_bags.gif" border="0" width="27" height="20" alt="Bags"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_top_dot.gif" width="20" height="20" border="0"></td>
+												<td width="75"><a href="http://www.buy.com/retail/clearance/todays_deals.asp?loc=33448"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_todaysdeals.gif" border="0" width="75" height="20" alt="Today's Deals"></a></td>		
+											</tr>
+										</tbody></table>
+									</td><td background="http://ak.buy.com/buy_assets/v6/may/nav_thinline.gif" width="50%"><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="1" height="5" border="0"></td>
 											
 										</tr>
 									</tbody></table>
 								</td>
 								</tr>
-								<tr bgcolor="#006600">
+								<tr bgcolor="#89A2B6">
 									<td align="center">
-										<table cellpadding="0" cellspacing="0" border="0" width="588">
+										<table cellpadding="0" cellspacing="0" border="0" width="679" align="center">
 											<tbody><tr>
-												<td width="70"><a href="http://www.buy.com/retail/specialty_store_2.asp?loc=16125&amp;mp=67"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_giftsh2.gif" border="0" width="50" height="20" alt="Holiday Gift Guide"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
-												<td width="82"><a href="http://www.buy.com/retail/computers/department.asp?loc=101"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_computers2.gif" border="0" width="62" height="20" alt="Computers"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
-												<td width="69"><a href="http://www.buy.com/retail/software/department.asp?loc=105"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_software2.gif" border="0" width="49" height="20" alt="Software"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
-												<td width="119"><a href="http://www.buy.com/retail/department.asp?loc=33410"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_homenetworking2.gif" border="0" width="99" height="20" alt="Home Networking"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
-												<td width="106"><a href="http://www.buy.com/retail/department.asp?loc=33409"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_digitalcameras2.gif" border="0" width="86" height="20" alt="Digital Cameras"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
-												<td width="80"><a href="http://www.buy.com/retail/electronics/department.asp?loc=111"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_electronics2.gif" border="0" width="60" height="20" alt="Electronics"></a><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
-												<td width="62"><a href="http://www.buy.com/retail/wireless/department.asp?loc=12435"><img src="http://ak.buy.com/buy_assets/v6/header_december/tab_cellular2.gif" border="0" width="42" height="20" alt="Cellular"></a></td>
+												<td width="81"><a href="http://www.buy.com/retail/computers/department.asp?loc=101"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_computers.gif" border="0" width="61" height="20" alt="Computers"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
+												<td width="69"><a href="http://www.buy.com/retail/software/department.asp?loc=105"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_software.gif" border="0" width="48" height="20" alt="Software"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
+												<td width="119"><a href="http://www.buy.com/retail/department.asp?loc=33410"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_homenetworking.gif" border="0" width="98" height="20" alt="Home Networking"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
+												<td width="106"><a href="http://www.buy.com/retail/department.asp?loc=33409"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_digitalcameras.gif" border="0" width="85" height="20" alt="Digital Cameras"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
+												<td width="80"><a href="http://www.buy.com/retail/electronics/department.asp?loc=111"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_electronics.gif" border="0" width="59" height="20" alt="Electronics"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
+												<td width="62"><a href="http://www.buy.com/retail/wireless/department.asp?loc=12435"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_cellular.gif" border="0" width="42" height="20" alt="Cellular"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
+												<td width="73"><a href="http://www.buy.com/retail/department.asp?loc=114"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_clearance.gif" border="0" width="53" height="20" alt="Clearance"></a><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_bottom_dot.gif" width="20" height="20" border="0"></td>
+												<td width="89"><a href="http://www.buy.com/retail/morestores.asp?loc=40935"><img src="http://ak.buy.com/buy_assets/v6/header_may/tab_morestores.gif" border="0" width="69" height="20" alt="More Stores"></a><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="20" height="20" border="0"></td>
 											</tr>
 										</tbody></table>
 									</td>
@@ -238,7 +355,7 @@ if (childWnd.opener == null) childWnd.opener = self;
 					<table cellpadding="2" cellspacing="0" border="0" id="Table36">
 						<tbody><tr>
 							<td align="left" valign="middle">&nbsp;&nbsp;
-							<img src="http://ak.buy.com/buy_assets/v6/header_december/search.gif" border="0" align="absmiddle" systran="yes"></td>
+							<img src="http://ak.buy.com/buy_assets/v6/header_may/search.gif" border="0" align="absmiddle" systran="yes"></td>
 							<td>
 	
 		<script language="javascript">
@@ -258,10 +375,12 @@ if (childWnd.opener == null) childWnd.opener = self;
 		<select name="queryType" style="font-weight:normal;font-size:13px;" id="txtBoolean" tabindex="2" size="1">
 			<option value="home" selected="">Search Buy.com&nbsp;&nbsp;&nbsp;
 			</option><option value="comp">Computers
+			</option><option value="digcam">Digital Cameras
 			</option><option value="soft">Software
 			</option><option value="electronics">Electronics
 			</option><option value="wireless">Cellular
 			</option><option value="music">Music
+			</option><option value="load_music">Music Downloads
 			</option><option value="toys">Toys
 			</option><option value="game">Games
 			</option><option value="sports">Sports
@@ -274,22 +393,34 @@ if (childWnd.opener == null) childWnd.opener = self;
 		<input type="hidden" name="searchLoc" value="retail" id="Hidden1">
 		<input type="hidden" name="sloc3" value="305">
         <input type="hidden" name="skdbg" value="12" id="Hidden2">
-		<input tabindex="3" type="image" src="http://ak.buy.com/buy_assets/v6/header_december/go.gif" systran="yes" border="0" align="absmiddle" alt="Go" id="Image1" name="Image1">
+		<input tabindex="3" type="image" src="http://ak.buy.com/buy_assets/v6/header_may/go.gif" systran="yes" border="0" align="absmiddle" alt="Go" id="Image1" name="Image1">
 		
-						<script language="Javascript">
-					<!--
-					if (GetCookie('ShopperManager%2F') != 'null') {
-						var fSid = GetCookie('ShopperManager%2F')
-						var sid = fSid.substr(16)
-					}	
-					else {
-						var sid = ""
-					} 
-					
-					document.write("<img src=\"http://services.buy.com/traffic/traffic.asmx/InsertEvent?EventType=CL&ShopperId=" + sid + "&IP=107&Url=%2Fcorp%2Fprivacy%5Fpolicy%5Fcomplete%2Easp%3F\" width=\"1\" height=\"1\" border=\"0\">");
-					
-					// -->
-					</script><img src="http://services.buy.com/traffic/traffic.asmx/InsertEvent?EventType=CL&amp;ShopperId=&amp;IP=107&amp;Url=%2Fcorp%2Fprivacy%5Fpolicy%5Fcomplete%2Easp%3F" width="1" height="1" border="0">		
+							<script language="Javascript">
+						<!--
+						if (GetCookie('ShopperManager%2F') != 'null') {
+							var fSid = GetCookie('ShopperManager%2F')
+							var sid = fSid.substr(16)
+							var pid = GetRefererWebAddress()
+							
+						}	
+						else {
+							var sid = ""
+							var pid = ""
+						} 
+						
+						document.write("<img src=\"http://services.buy.com/traffic/traffic.asmx/InsertEvent4?EventType=CL&EID=10000&ShopperId=" + sid + "&IP=9&referrer=" + pid + "&Url=%2Fcorp%2Fprivacy%5Fpolicy%5Fcomplete%2Easp%3F\" width=\"1\" height=\"1\" border=\"0\">");
+						
+						function GetRefererWebAddress()
+						{
+							var referer = document.referrer;
+							var re = new RegExp("http://|https://", "gi");
+							referer = referer.replace(re, "");
+							refererParts = referer.split("/");
+							return refererParts[0];															
+						}
+						// -->
+						</script><img src="http://services.buy.com/traffic/traffic.asmx/InsertEvent4?EventType=CL&amp;EID=10000&amp;ShopperId=&amp;IP=9&amp;referrer=&amp;Url=%2Fcorp%2Fprivacy%5Fpolicy%5Fcomplete%2Easp%3F" width="1" height="1" border="0">		
+																
 		
 		
 		</td>
@@ -305,38 +436,9 @@ if (childWnd.opener == null) childWnd.opener = self;
 	</tr>
 </tbody></table>
 
-<br><table cellpadding="0" cellspacing="0" width="100%" border="0" bgcolor="#FFFFFF" id="Table39">
-
-<tbody><tr bgcolor="#FFFFFF">
-
-	<td valign="top" nowrap="" bgcolor="#FFFFFF">
-		
-	</td>
-
-	
-	<td align="right" valign="top">
-		<table cellpadding="0" cellspacing="0" width="300" border="0" id="Table40">
-		
-		<tbody><tr>	
-			<td valign="top" nowrap=""><img src="http://ak.buy.com/buy_assets/v5/img/clear.gif" width="1" height="2" border="0"><br clear="all">
-			</td>	
-		</tr>
-	
-		</tbody></table>
-	</td>
-	
-	
-	
-</tr>
-
-
-</tbody></table>
-
 
 </td>
 </tr>
-
-
 
 
 
@@ -356,8 +458,8 @@ if (childWnd.opener == null) childWnd.opener = self;
 					<td valign="top">
 						<table cellspacing="0" cellpadding="0" width="100%" border="0">
 							<tbody><tr>
-								<td align="right"><img src="http://ak.buy.com/buy_assets/v6/december/rounded_edge.gif" border="0"></td>
-								<td height="23" width="100%" bgcolor="#990000" align="left">&nbsp;<span class="helpTextWhite">Privacy Policy</span></td>
+								<td align="right"><img src="http://ak.buy.com/buy_assets/v6/may/rounded_edge.gif" border="0"></td>
+								<td height="23" width="100%" bgcolor="#62829B" align="left">&nbsp;<span class="helpTextWhite">Privacy Policy</span></td>
 							</tr>
 						</tbody></table>
 						<table cellspacing="0" cellpadding="0" width="100%" border="0">
@@ -387,24 +489,27 @@ if (childWnd.opener == null) childWnd.opener = self;
 				<tr>
 					<td align="left" width="100%">
 								<br><span class="techblue">Overview</span><br>
-								Our Internet Superstore allows you to buy products and services, sign up for a gift registry, 
-								enter contests, receive special discounts, apply for credit, fill out surveys, 
-								and receive newsletters, e-mails or other promotional information from us.  We use 
-								the information that we collect about you to fulfill your product and service purchases 
-								and to create a more personalized online experience.  This is just a brief overview, so 
-								please read on for more details about our Privacy Policy.  This Policy may change from time 
-								to time, so please check back periodically.<br> 
+								Our Internet Superstore allows you to buy products and services, sign up for a gift registry, enter contests, 
+								receive special discounts, apply for credit, fill out surveys, and receive newsletters, e-mails or other promotional 
+								information from us. We use the information that we collect about you to fulfill your product and service purchases 
+								and to create a more personalized online experience. This is just a brief overview, so please read on for more details 
+								about our Privacy Policy. This Policy may change from time to time, so please check back periodically. <u>Except as limited 
+								below, we reserve the right to use or disclose your personally identifiable information for business reasons in whatever 
+								manner desired</u><br> 
 
-								<br>Except as otherwise discussed in this Privacy Policy, this document only addresses 
-								the use and disclosure of information we collect from you online.  For some services, we either 
-								collect and transfer personal information to a service provider you have selected, or you 
-								may visit other merchants through links on our site who may collect and use your personal information.  We encourage you to ask 
-								questions and to be very cautious before you disclose your personal information to others.<br>
-
-								<p>Questions regarding this Policy should be directed to 
-								<a href="mailto:privacy@buy.com" class="techblue"><b>privacy@buy.com</b></a> or may also be contacted directly at the following address:						
+								<br>To ensure the highest quality purchasing experience for you, we have contracted with our affiliated companies, 
+								including without limitation, BuyServices Inc. ("BuyServices") and BuyMusic.com Inc. ("BuyMusic"), to operate certain 
+								portions of our site and provide site related services.  All information collected from you will be shared with Buy.com 
+								and its affiliate companies.<br>
 								
-								</p><p>
+								<br>Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information 
+								we collect from you online. For some services, we either collect and transfer personal information to a service provider you 
+								have selected, or you may visit other merchants through links on our site who may collect and use your personal information.  
+								In those cases the third-party service provider or merchant's privacy policy will govern how your information is handled.   
+								We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
+
+							
+								<p>
 								</p><blockquote>
 								<span class="techblue">Attn:</span> Privacy Compliance Officer<br>
 								BUY.COM, Inc.<br>
@@ -412,9 +517,9 @@ if (childWnd.opener == null) childWnd.opener = self;
 								Aliso Viejo, CA  92656<br>
 								</blockquote>
 								
-								<p>This Privacy Policy will explain the following regarding use of our site:
+								<p>This Privacy Policy will explain the following regarding use of our site: 
 								</p><ol>
-								<li><a href="#whatinfo">What information does Buy.com collect from you?</a><p>
+								<li><a href="#whatinfo">What information does Buy.com collect from you? </a><p>
 								</p></li><li><a href="#wheredo">Where do we collect information from you and how do we use it?</a><p>
 								</p></li><li><a href="#whois">Who is collecting your information?</a><p>
 								</p></li><li><a href="#withwhom">With whom do we share your information?</a><p>
@@ -432,179 +537,185 @@ if (childWnd.opener == null) childWnd.opener = self;
 					</p><hr width="100%" color="#dadada">
 					<ol>
 					<span class="techblue"><li><a name="whatinfo">What information does Buy.com collect from you?</a><br>
-					In order to better provide you with numerous products and services, Buy.com collects two types of information 
-					about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information.  Our 
-					primary goal in collecting information from you is to provide you with a smooth, efficient, and customized 
-					experience while using our site.  
+					In order to better provide you with numerous products and services, Buy.com collects two types of information about its 
+					visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting 
+					information from you is to provide you with a smooth, efficient, and customized experience while using our site. 
 					
 					<p><span class="techblue"><i>Personally Identifiable Information</i></span><br>
-					This refers to information that lets us know the specifics of who you are. Personal information is 
-					requested when you order a product or service, register for a Gift List, enter contests or sweepstakes, 
-					apply for the Buy.com credit card, fill out surveys, and send us feedback. For example, this information might include 
-					your name, billing address, shipping address, telephone number, e-mail address, credit card or other 
-					payment information, and product details. With this information, Buy.com can fill your orders and better 
-					provide you with personalized services. For a few services, we may collect your personal information 
-					on behalf of other merchants and share it with them. For example, on our Cellular Store, we may ask you 
-					for your social security number, driver's license number and date of birth and share that information 
-					with the third-party telephone service provider that you have selected. <i>If you visit one of the stores 
-					available through a link on our site, they will independently collect, use and 
-					share your personal information in accordance with their own privacy policies.</i> If you have questions 
-					about their information practices, please read their privacy policies. In many cases, you can find a 
-					link to their privacy policies on the page offering the Partners' services. 
+					This refers to information that lets us know the specifics of who you are. Personal information is requested when you register 
+					and set up an account, order a product or service, register for a Gift List, enter contests or sweepstakes, apply for the Buy.com 
+					credit card, fill out surveys, and send us feedback. For example, this information might include your name, billing address, 
+					shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this 
+					information, Buy.com can fill your orders and better provide you with personalized services. For a few services, we may collect 
+					your personal information on behalf of other merchants and share it with them. For example, on our Cellular Store, we may ask 
+					you for your social security number, driver's license number and date of birth and share that information with the third-party 
+					telephone service provider that you have selected. <i>If you visit one of the stores available through a link on our site, they 
+					will independently collect, use and share your personal information in accordance with their own privacy policies.</i> If you have 
+					questions about their information practices, please read their privacy policies. In many cases, you can find a link to their 
+					privacy policies on the page offering the Partners' services. 
 
 					</p><p><span class="techblue"><i>Non-Personally Identifiable Information</i></span><br>
-					This refers to information that does not by itself identify a specific individual.  
-					We gather certain information about you based upon where you shop on our site in several ways.  
-					This information is compiled and analyzed on both a personal and an aggregated basis.  For example, 
-					this information may include the Web site's Uniform Resource Locator ("URL") that you just came from, 
-					which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address.  A URL 
-					is the global address of documents and other resources on the World Wide Web.  An IP address is an identifier 
-					for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the 
-					World Wide Web.  Networks like the Web use the TCP/IP protocol to route information based on the IP address 
-					of the destination.  In other words, an IP address is a number that is automatically assigned to your computer 
-					whenever you are surfing the web, allowing web servers to locate and identify your computer.  Computers require 
-					IP addresses in order for users to communicate on the Internet, browse and shop.
+					This refers to information that does not by itself identify a specific individual. We gather certain information about you based 
+					upon where you shop on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated 
+					basis. For example, this information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which 
+					URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of 
+					documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission 
+					Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol 
+					to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically 
+					assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers 
+					require IP addresses in order for users to communicate on the Internet, browse and shop. 
+					</p><p>
+					On an aggregated basis, we collect anonymous data related to the pages, products, downloads and other content that is 
+					sampled, clicked on, streamed, searched for, transferred from and downloaded. Except as otherwise limited in this Policy, 
+					we may disclose, sell, trade, or rent Non-Personally Identifiable Information to others without your consent. 
 					
 					</p><p><span class="techblue"></span></p></li><li><a name="wheredo">Where do we collect information from you and how do we use it?</a><br>
-					Our primary goal in collecting personal information is to provide Buy.com's visitors with a superior customized online 
-					experience.  We use the customer contact information to fill orders, contact purchasers to inform them of their order 
-					status, to send promotional information, to enhance the operation of our site and administer our systems. 
+					Our primary goal in collecting personal information is to provide Buy.com's visitors with a superior customized online experience. 
+					We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional 
+					information, to enhance the operation of our site and administer our systems. 
 					
-					<p>Demographic data also may be collected at our site from third party advertising servers, content servers, 
-					or web site analysis agents who provide us with the zip code and area code associated with a visitor's server, along with pages 
-					viewed on our site.  We review the actions of the Buy.com visitors on an aggregate basis to determine 
-					customers' preferences.  Buy.com also does research on our visitors' demographics, interests, and pages 
-					viewed based on the information provided to us during ordering, a promotion, from our server log files, from our 
-					web site analysis agents, or from contests, drawings or surveys.  We will use this data to tailor the visitor's experience at our site, 
-					to improve our marketing and promotional efforts, to statistically analyze site use, to improve our product 
-					offerings, and to customize our site's content, layout, and services.  We receive reports from third 
-					party ad servers, content servers, or web site analysis agents that tells us how many ads were presented
-					 and clicked upon or what content was served or viewed. 
+					<p>Demographic data also may be collected at our site from third party advertising servers, content servers, or web site analysis 
+					agents who provide us with the zip code and area code associated with a visitor's server, along with pages viewed on our site. We 
+					review the actions of the Buy.com visitors on an aggregate basis to determine customers' preferences. Buy.com also does research 
+					on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, a promotion, 
+					from our server log files, from our web site analysis agents, or from contests, drawings or surveys. We will use this data to 
+					tailor the visitor's experience at our site, to improve our marketing and promotional efforts, to statistically analyze site use, 
+					to improve our product offerings, and to customize our site's content, layout, and services. We receive reports from third party 
+					ad servers, content servers, or web site analysis agents that tells us how many ads were presented and clicked upon or what content 
+					was served or viewed. 
 					
-					</p><p>We may also share your personally identifiable information with third parties who provide services to us, 
-					our customers and web site visitors.  Those third parties include authorized contractors, temporary employees 
-					and consultants and other companies working with us (collectively, "agents").  Where we believe it to be 
-					appropriate (in our sole discretion), we will ask our agents not to disclose or use your personal information 
-					for purposes other than to provide services to you or Buy.com.
+					</p><p>We may also share your personally identifiable information with third parties who provide services to us, our customers and web 
+					site visitors. Those third parties include authorized contractors, temporary employees and consultants and other companies working 
+					with us (collectively, "agents"). Where we believe it to be appropriate (in our sole discretion), we will ask our agents not to 
+					disclose or use your personal information for purposes other than to provide services to you or Buy.com. 
 					
-					</p><p>We gather information in the following ways:
+					</p><p>We gather information in the following ways: :
 					
 					</p><p><span class="techblue"><i>Shopping</i></span><br>
-					We collect IP addresses for the purposes of system administration, to gather broad demographic information, 
-					to enable ads to be served on our site, to report Non-Personally Identifiable Information to our advertisers, 
-					and to monitor the level of activity on our site.  We collect information from visitors to our site regarding 
-					the URLs they came from, domain types (e.g., .com or .org), their IP addresses, the date and time of their visit 
-					or order, the number of visits and orders, the number of visits per browsing session, the server type, the operating 
-					system and browser type used to come to the site, the country, state and telephone area code where their servers are 
-					located, the pages and page titles of our site that visitors viewed during their visit, whether the visitor's computer 
-					is enabled for Java or cookies, browser language, applications and plug-ins, and any search terms entered on our site. 
+					We collect IP addresses for the purposes of system administration, to gather broad demographic information, to enable 
+					ads to be served on our site, to report Non-Personally Identifiable Information to our advertisers, and to monitor the 
+					level of activity on our site. We collect information from visitors to our site regarding the URLs they came from, 
+					domain types (e.g., .com or .org), their IP addresses, the date and time of their visit or order, the number of visits 
+					and orders, the number of visits per browsing session, the server type, the operating system and browser type used to 
+					come to the site, the country, state and telephone area code where their servers are located, the pages and page titles 
+					of our site that visitors viewed during their visit, whether the visitor's computer is enabled for Java or cookies, 
+					browser language, applications and plug-ins, and any search terms entered on our site. 
 					
 					</p><p><span class="techblue"><i>Ordering</i></span><br>
-					When you order from us, we collect personally identifiable information from you.  If you order one of our products 
-					or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone 
-					number, product selections, credit card or other payment information, order number, referring URL, IP address, 
-					page you bought from and a password.  We collect this, and other information, as disclosed in this Policy, in 
-					order to fill your order, to communicate with you about your order and to send you promotional materials.  
-					Before confirming your order, you will have the opportunity to review the product order form and make changes 
-					and additions to the information it contained and these changes will be automatically kept for future use.
+					When you order from us, we collect personally identifiable information from you. If you order one of our products or 
+					services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, 
+					product selections, credit card or other payment information, order number, referring URL, IP address, page you bought 
+					from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, 
+					to communicate with you about your order and to send you promotional materials. Before confirming your order, you will 
+					have the opportunity to review the product order form and make changes and additions to the information it contained 
+					and these changes will be automatically kept for future use. 
 					
 					</p><p></p><p><span class="techblue"><i>Gift Registry</i></span><br>
-					If you decide to create a Gift List through our site, you will create an account, where we will collect and use 
-					your name, e-mail address, credit card or other payment information, billing and shipping address, phone number, 
-					password and product preferences.  This information is subject to the terms of this Privacy Policy except as 
-					explained here.  Others will be able to search for your Gift List using your e-mail address unless you choose 
-					not to make your Gift List searchable.  Those who have access to your Gift List will be able to see your name, 
-					e-mail address, city, state, and may have access to other personal information and product information that you 
-					have entered into the Gift List.  If others place orders for items on your Gift List, they may have access to your 
-					address.  We will use the product preferences that you include in your Gift List to inform you about offers that may 
-					be of interest to you.  If you provide us with the e-mail addresses of your family and friends, we will use their 
-					e-mail addresses to send them your Gift List if you instruct us to.  With your permission, we will send them the 
-					Gift List using your e-mail address as the originating address.  We will not use the e-mail addresses of your 
-					family and friends for any other purpose. 
+					If you decide to create a Gift List through our site, you will create an account, where we will collect and use your name, 
+					e-mail address, credit card or other payment information, billing and shipping address, phone number, password and product 
+					preferences. This information is subject to the terms of this Privacy Policy except as explained here. Others will be able 
+					to search for your Gift List using your e-mail address unless you choose not to make your Gift List searchable. Those who 
+					have access to your Gift List will be able to see your name, e-mail address, city, state, and may have access to other 
+					personal information and product information that you have entered into the Gift List. If others place orders for items 
+					on your Gift List, they may have access to your address. We will use the product preferences that you include in your 
+					Gift List to inform you about offers that may be of interest to you. If you provide us with the e-mail addresses of 
+					your family and friends, we will use their e-mail addresses to send them your Gift List if you instruct us to. With 
+					your permission, we will send them the Gift List using your e-mail address as the originating address. We will not 
+					use the e-mail addresses of your family and friends for any other purpose. 
 					
 					</p><p></p><p><span class="techblue"><i>Gift Certificates</i></span><br>
-					If you purchase a gift certificate from our site, you will give us the recipient's name and e-mail 
-					address if you wish to send the certificate by e-mail.  If you wish to send a certificate by 
-					regular mail, you will give us the name, mailing information and phone number for the recipient.  
-					The recipient information you give us will only be used to send the gift certificate and for no other purpose. 
+					If you purchase a gift certificate from our site, you will give us the recipient's name and e-mail address if you wish to 
+					send the certificate by e-mail. If you wish to send a certificate by regular mail, you will give us the name, mailing 
+					information and phone number for the recipient. The recipient information you give us will only be used to send the gift 
+					certificate and for no other purpose. 
 					
 					</p><p></p><p><i><span class="techblue">Financing</span></i><br>				
-					You may apply for a Buy.com Visa credit card on our site. The credit card is administered by a 
-					third party bank and Buy.com's privacy policy does not apply to information you provide to apply for the credit 
-					card or to purchases you make with that card. Please 
+					You may apply for a Buy.com Visa credit card on our site. The credit card is administered by a third party bank and 
+					Buy.com's privacy policy does not apply to information you provide to apply for the credit card or to purchases you 
+					make with that card. Please  
 					<a href="javascript:void(0)" onclick="window.open ('http://www.firstusa.com/globals/privacy_index.html', 'window', 'width=640,height=480,scrollbars=yes,toolbar=yes')" onmouseover="window.status='FirstUSA Privacy Policy'; return true" onmouseout="window.status=''; return true" )"="" class="techblue">click here</a> 
 					to see the credit card company's privacy policy.
 					
 					</p><p><span class="techblue"><i>Cellular Store Orders</i></span><br>
-					On our Cellular Store, we may collect your social security number, driver's license and date of birth 
-					on behalf of the cellular telephone service provider that you have selected. We will transfer that 
-					information to them and use your other personal information to fulfill any future orders that you may place. 
-					They will use and share that information in accordance with their own privacy policies. To see AT&amp;T's 
-					privacy policy, <a href="http://www.att.com/privacy/" target="_new" class="techblue">click here</a>. To see Nextel's 
-					privacy policy, <a href="http://www.nextel.com/registration/privacy_policy.shtml" target="_new" class="techblue">click here</a>. 
-					To see Cingular's privacy policy, <a href="http://www.cingular.com/privacy/privacy_policy" target="_new" class="techblue">click here</a>.
-					To see Aether Systems' privacy policy, <a href="http://www.aethersystems.com/webfiles/privacy.asp" target="_new" class="techblue">click here</a>.
+					On our Cellular Store, we may collect such information as your social security number, driver's license, 
+					date of birth and order specific information on behalf of the cellular telephone service provider that you 
+					have selected. We use a third party to fulfill your Cellular Store orders.  We may use and transfer to our 
+					Cellular Store fulfillment partners and the cellular telephone service provider such information together 
+					with your other personal information as needed to fulfill any orders that you may place. The cellular 
+					telephone service providers may use and share that information in accordance with their own privacy policies. 
+					Please review the privacy policy of your cellular telephone service provider to understand how such information 
+					may be used and disclosed by such cellular telephone service provider. 
+					
+					</p><p><span class="techblue"><i>Digital Downloads</i></span><br>
+					When you order a download or a product from us, we collect personally identifiable information from you. 
+					We collect and maintain your such personally identifiable information as your name, e-mail address, billing 
+					and shipping address, company name, company, home, facsimile and shipping contact telephone numbers, music 
+					selections, credit card or other payment information, order number, referring URL, IP address, page you bought 
+					from and a password.  We collect this, and other information, as disclosed in this Policy, in order to deliver 
+					the download, ship products to you, to pay royalties and license fees, to administer our site and to send you 
+					promotional materials.  When you download a digital file or other digital content, there are broad but necessary 
+					limits placed upon how you may copy, use and transfer that download to approved computers, electronic devices and 
+					media. In the future, those limits might be extended in exchange for your agreement to allow use of your Personally 
+					Identifiable Information in creative ways (e.g. download a sponsor's screensaver to your cellphone or other electronic devices).
 					
 					</p><p></p><p><span class="techblue"><i>Online Surveys and Polling</i></span><br>
 					In order to improve our services to you, we ask some of our customers to voluntarily complete surveys, 
-					which may be collected by an independent third party.  Individual survey answers are confidential, although 
-					Non-Personally Identifiable Information is collected and disclosed to third parties.  If you do not wish to 
-					participate in a survey, simply decline to participate when asked.  
+					which may be collected by an independent third party. Individual survey answers are confidential, although 
+					Non-Personally Identifiable Information is collected and disclosed to third parties. If you do not wish to 
+					participate in a survey, simply decline to participate when asked. 
 					
 					</p><p></p><p><span class="techblue"><i>Contests and Sweepstakes</i></span><br>
 					When you enter a contest or other promotion, we may ask you for contact information such as your name, 
 					address and e-mail address in order to administer the contest, to send you promotional e-mails, notify 
-					winners and make the winners' list publicly available pursuant to certain states' laws.  Your consent to 
-					such promotional use and disclosure of this information as a condition of your participation.  As a condition 
-					of receiving any prize, you will be required to submit an Affidavit of Eligibility, for us to ensure that 
-					you are eligible to receive the prize according to the Contest Rules.
+					winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to 
+					such promotional use and disclosure of this information is a condition of your participation. As a condition 
+					of receiving any prize, you will be required to submit an Affidavit of Eligibility, for us to ensure that you 
+					are eligible to receive the prize according to the Contest Rules. 
 					
 					</p><p></p><p><span class="techblue"><i>Newsletters &amp; Promotional E-mails</i></span><br>
-					We offer free newsletters, such as our Buy.com magazine, and promotional e-mails as a service to our customers.  We will send you 
-					newsletters and e-mails periodically listing current specials and deals.  To stop receiving our 
-					newsletter, send an e-mail to us at <a href="MAILTO:optout@buy.com" class="techblue">optout@buy.com</a>.
+					We offer free newsletters, such as our Buy.com magazine, and promotional e-mails as a service to our customers. 
+					We will send you newsletters and e-mails periodically listing current specials and deals. 
+					To stop receiving our newsletter, send an e-mail to us at <a href="MAILTO:optout@buy.com" class="techblue">optout@buy.com</a>.
+					<b>Please Note:  If you agree to receive e-mails from any of our third party service providers or any third party merchants on our site, 
+					you will receive e-mails separately from them, and information that you choose to disclose to them will be subject to their privacy policy.  
+					If you later decide that you no longer want to receive their e-mails, you will need to follow their own specific opt-out instructions, 
+					as opting out to "optout@buy.com" as described above will not opt you out of their promotional emails.</b>
 					
 					</p><p></p><p><span class="techblue"><i>Contact Information and Third Party Data</i></span><br>					
-					If you contact Buy.com or our customer service representatives by telephone, e-mail or letter, 
-					we may keep a record of your correspondence or comments.  If you report a problem with our site, 
-					we may collect such information in a file specific to you.  If you contact us through our feedback 
-					area or by calling one of our customer service representatives, we may ask for your name, e-mail 
-					address and order information in order to send you a reply.  If other users or third parties send 
-					us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.  
+					If you contact Buy.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your 
+					correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. 
+					If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, 
+					e-mail address and order information in order to send you a reply. If other users or third parties send us correspondence about your 
+					activities or purchases on our site, we may keep the information in a file specific to you.  
 					
 					</p><p></p><p><span class="techblue"><i>Customer Service</i></span><br>		
-					We use a third party to help us provide customer service.  In order to help you most effectively, 
-					we provide them with your order information.  
+					We use a third party to help us provide customer service. In order to help you most effectively, we provide them with your order information. 
 					
 					</p><p></p><p><span class="techblue"><i>Warranty Information</i></span><br>
-					Our warranty programs are administered and operated by third party warranty companies.  When you purchase a warranty, from them 
-					we pass along your name, address, telephone number, e-mail address, warranty purchased and information 
-					about the product purchased to the warranty company so that they can provide their service to you.
+					Our warranty programs are administered and operated by third party warranty companies. When you purchase a warranty, from them we pass 
+					along your name, address, telephone number, e-mail address, warranty purchased and information about the product purchased to the warranty 
+					company so that they can provide their service to you. 
 					
 					</p><p></p><p><span class="techblue"><i>Affiliate Program</i></span><br>
-					Our Affiliate Program (Affiliate Connection) is administered by a third party, on a third party's Web site.  
-					Any information collected by them is not governed by this Policy.  
+					Our Affiliate Program (Affiliate Connection) is administered by a third party, on a third party's Web site. Any information collected 
+					by them is not governed by this Policy.   
 					
 					</p><p></p><p><span class="techblue"><i>Advertising</i></span><br>
-					We may display advertisements on our site.  By knowing a little about you, Buy.com will be able to deliver 
-					more relevant advertisements and content to you in the form of targeted banners and promotions.  
-					For example, advertisers give us an advertisement and tell us the type of audience they want to 
-					reach (e.g., buyers of Palm Pilots).  Buy.com takes the advertisement and includes it in a Buy.com 
-					e-mail to prior customers meeting that criterion.  We may also have third-party advertising servers 
-					display ads linked to certain search terms that you have entered, or to certain pages that you are viewing.  
-					In this process, advertisers never have access to individual account information.  Additionally, Buy.com 
-					may share aggregated data with advertisers.  
+					We may display advertisements on our site. By knowing a little about you, Buy.com will be able to deliver more relevant 
+					advertisements and content to you in the form of targeted banners and promotions. For example, advertisers give us an 
+					advertisement and tell us the type of audience they want to reach (e.g., buyers of Palm Pilots). Buy.com takes the advertisement 
+					and includes it in a Buy.com e-mail to prior customers meeting that criterion. We may also have third-party advertising servers 
+					display ads linked to certain search terms that you have entered, or to certain pages that you are viewing. In this process, 
+					advertisers never have access to individual account information. Additionally, Buy.com may share aggregated data with advertisers.  
 					
-					</p><p>We also track customers' traffic patterns throughout their online session, including which pages, 
-					information and advertisements a customer views while using the site and what items they place 
-					in their basket or purchase.  We use your IP address to diagnose problems with our servers, software, 
-					to administer our site and to gather demographic information.  
-					
-					</p><p>We may share aggregated statistics about pages viewed on our site, sales and other shopping information 
-					with third parties.
+					</p><p></p><p><span class="techblue"><i>Web Site Use</i></span><br>
+					We also track customers' traffic patterns throughout their online session, including which pages, information and 
+					advertisements a customer views while using the site and what items they place in their basket or purchase. We use your 
+					IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information. 
+					We may share aggregated statistics about pages viewed on our site, sales and other shopping information with third parties. 
 					
 					</p><p></p><p><span class="techblue"><i>Cookies</i></span><br>
-					We use cookies and may allow others to use cookies in the operation of our site; to find out what cookies are and how they are used,  
+					We use cookies and may allow others to use cookies in the operation of our site; to find out what cookies are and how they are used, 
 					<a href="#useof" style="text-decoration : underline" class="techblue">click here</a>.
 					
 					</p><p><span class="techblue"><i>Action Tags/Web Beacons</i></span><br>
@@ -612,240 +723,262 @@ if (childWnd.opener == null) childWnd.opener = self;
 					<a href="#useof" style="text-decoration : underline" class="techblue">click here</a>.
 					
 					</p><p><span class="techblue"></span></p></li><li><a name="whois">Who is collecting your information?</a><br>
-					Ad Servers and Content Servers: We may use third party ad servers or content servers to serve ads, product information,  
-					or other information both on and off our site.  Those third parties 
-					may use "action tags" or web beacons throughout the site to count the number of visitors who click on a banner ad or 
-					other information and to track the number of customers who continue on to make a purchase.  They may 
-					also place their own "cookie" on your computer to help those ads to run and analyze site usage.  We do not provide them with any 
-					of your Personally Identifiable Information.  For more information about the information they collect, 
-					please see the section "Use of Cookies and Action Tags" below.  
+					<p><span class="techblue"><i>Ad Servers and Content Servers</i></span><br>
+					We may use third party ad servers or content servers to serve ads, product information, or other information both on and off our site. 
+					Those third parties may use "action tags" or web beacons throughout the site to count the number of visitors who click on a banner ad 
+					or other information and to track the number of customers who continue on to make a purchase. They may also place their own "cookie" 
+					on your computer to help those ads to run and analyze site usage. We do not provide them with any of your Personally Identifiable 
+					Information. For more information about the information they collect, please see the section "Use of Cookies and Action Tags" below. 
 					
-					<p>Image Servers: We use a third party image serving company to serve the graphics that visitors see on 
-					our site more quickly.  They collect a visitor's IP address and the URLs of any graphics viewed and the 
-					date and time of the visit.  However, they do not collect and we do not provide them with any Personally 
-					Identifiable Information.  They may also use a "cookie."  To learn more about their information practices, 
+					</p><p><span class="techblue"><i>Image Servers</i></span><br>
+					We use a third party image serving company to serve the graphics that visitors see on our site more quickly. 
+					They collect a visitor's IP address and the URLs of any graphics viewed and the date and time of the visit. However, 
+					they do not collect and we do not provide them with any Personally Identifiable Information. They may also use a "cookie." 
+					To learn more about their information practices, 
 					<a href="http://www.akamai.com/en/html/misc/privacy_policy.html" class="techblue" target="_new">Click here</a>.
 					
-					</p><p>E-mail Services:  We use a third party to send promotional e-mails to customers.  
-					Images contained in the email may be served by the third party.  They collect certain information about you 
-					such as your IP address, browser type, your operating system, the country and server your computer is logged 
-					onto, where the servers that your computer is logged onto is located, the time and date that a particular email 
-					was viewed, the area code and zip code associated with your server, and whether you responded to a particular ad 
-					or email, products viewed and whether you continued on to make a purchase.  They may use a "cookie" or "action 
-					tags."  To learn more about their information practices, or to opt out of receiving their cookie, <a href="http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp;" class="techblue" target="new">click here.</a>
+					</p><p><span class="techblue"><i>Email Services</i></span><br>
+					We use a third party to send promotional e-mails to customers. Images contained in the email may be served by the third party. 
+					They collect certain information about you such as your IP address, browser type, your operating system, the country and server 
+					your computer is logged onto, where the servers that your computer is logged onto is located, the time and date that a particular 
+					email was viewed, the area code and zip code associated with your server, and whether you responded to a particular ad or email, 
+					products viewed and whether you continued on to make a purchase. They may use a "cookie" or "action tags." To learn more about 
+					their information practices, or to opt out of receiving their cookie,  
+					<a href="http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp;" class="techblue" target="new">click here.</a>
 					
-					</p><p>Website Analysis Agent: We may contract with several online partners to help manage and 
-					optimize our Internet business and marketing. We use the services of 
-					marketing companies to help us measure the effectiveness of our advertising 
-					and how visitors use our site. To do this, we use Action Tags and cookies 
-					provided by the marketing companies on this site. The type of information we collect includes things such as pages, information and advertisements viewed as well as what items are placed in a shopping basket or purchased, the order number, the amount of a purchase, the product number and the quantity purchased.  By supplementing our records, this information helps us 
-					learn things like what kinds of customers our site attracts, which of our 
-					products most interest our customers, and what kinds of offers our customers 
-					like to see. Although the marketing companies log the information coming from 
-					our site on our behalf, we control how that data may and may not be used. If 
-					you do not want to help us learn how to improve our site, products, offers 
-					and marketing strategy, you can "opt-out" of this web-site analysis tool by 
-					<a href="http://optout.buy.rpts.net/cgi-bin/rpts/optout.pl" class="techblue" target="_new">clicking here</a>. For more information, please see the section "Use of Cookies and Action Tags" below.
+					</p><p><span class="techblue"><i>Website Analysis Agent</i></span><br>
+					We may contract with several online partners to help manage and optimize our Internet business and marketing. We use the services of 
+					marketing companies to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action 
+					Tags and cookies provided by the marketing companies on this site. The type of information we collect includes things such as pages, 
+					information and advertisements viewed as well as what items are placed in a shopping basket or purchased, the order number, the amount 
+					of a purchase, the product number and the quantity purchased. By supplementing our records, this information helps us learn things like 
+					what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like 
+					to see. Although the marketing companies log the information coming from our site on our behalf, we control how that data may and may not 
+					be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this 
+					web-site analysis tool by  
+					<a href="http://optout.buy.rpts.net/cgi-bin/rpts/optout.pl" class="techblue" target="_new">clicking here</a>. 
+					For more information, please see the section "Use of Cookies and Action Tags" below. .
 					
-					</p><p>Financing Services: We use a third party bank to provide the Buy.com credit card and financing to customers 
-					who desire it.  The bank collects personally identifiable information to provide their 
-					financing services. <a href="javascript:void(0)" onclick="window.open ('http://www.firstusa.com/globals/privacy_index.html', 'window', 'width=640,height=300,scrollbars=yes,toolbar=yes')" onmouseover="window.status='FirstUSA Privacy Policy'; return true" onmouseout="window.status=''; return true" )"="" class="techblue">Click here</a> to see the privacy policy of the bank administering the Buy.com 
-					credit card.  
+					</p><p><span class="techblue"><i>Financing Services</i></span><br>
+					We use a third party bank to provide the Buy.com credit card and financing to customers who desire it. The bank collects personally 
+					identifiable information to provide their financing services.  
+					<a href="javascript:void(0)" onclick="window.open ('http://www.firstusa.com/globals/privacy_index.html', 'window', 'width=640,height=300,scrollbars=yes,toolbar=yes')" onmouseover="window.status='FirstUSA Privacy Policy'; return true" onmouseout="window.status=''; return true" )"="" class="techblue">Click here</a> 
+					to see the privacy policy of the bank administering the Buy.com credit card.
 					
-					</p><p>Marketing Partners, Co-branded Services, Framing/Windows on Third-Party Sites:  We may run promotions for merchants where 
-					you may visit the merchants' sites.  In some of those promotions, a window or 
-					frame containing the merchant's site may appear.  Any time you are in a window, you should assume that your personal 
-					information is being collected, used and disclosed in accordance with that merchant's policies.  This Privacy Policy 
-					does not apply to information that you supply to those merchants.  Any information that you share with them will be 
-					used and disclosed in accordance with that merchant's privacy policy.  However, once you click on a return link to 
-					our site, you can expect that further information that you disclose will be treated in accordance with this Policy.
+					</p><p><span class="techblue"><i>Digital Downloads; Sampling and Streaming of Content</i></span><br>
+					In addition to other disclosures as set forth in this Policy, we may make our customer records available to the licensor's of such 
+					digital content and their outside auditing agents on a confidential basis as part of periodic audits of our download sales.  We use a 
+					third party to allow you to sample/stream digital download samples on our site. That service collects your IP address, browser type, 
+					Internet Service Provider (ISP), platform type and a date/time stamp. They also use cookies.
 					
-					</p><p>On occasion, unaffiliated third parties will "frame" Buy.com's site in an effort to collect customer information.  
-					To ensure your privacy, make sure that your order originates from Buy.com's site.  
-					Buy.com is not in any manner responsible in the event that you do disclose information to an unaffiliated framing site.
+					</p><p><span class="techblue"><i>Cellular Store</i></span><br>
+					We use a third party to fulfill your Cellular Store orders.  We may use and transfer to our Cellular Store fulfillment partners and the cellular 
+					telephone service provider with your other personal information as needed to fulfill any orders that you may place. The cellular telephone 
+					service providers may use and share that information in accordance with their own privacy policies. Please review the privacy policy of your 
+					cellular telephone service provider to understand how such information may be used and disclosed by such cellular telephone service provider.
 					
-					</p><p>Links and Banner Ads to Third-Party Sites:  Please be aware that our site may contain links to other sites on the 
-					Internet that are owned and operated by third parties.  The information practices of those websites linking from or 
-					to our site are not covered by this Policy.  These other sites may send their own cookies to users, collect data, or 
-					solicit personal information.  Additionally, other companies or ad servers, which place advertising on our site may 
-					collect information about you through the use of cookies when you view or click on their advertising.  We cannot control 
-					this collection of information.  You should contact advertisers directly if you have any questions about their use of the 
-					information that they collect.
+					</p><p><span class="techblue"><i>General Order Fulfillment and Site Operations</i></span><br>
+					We contract with BuyServices and other third-party service providers to operate many of our website functions.  
+					We may provide BuyServices and such other third-party service providers with your other personal information as 
+					needed to fulfill any orders that you may place.
+					
+					</p><p><span class="techblue"><i>Marketing Partners, Co-Branded Services, Framing/Windows on Third-Party Sites</i></span><br>
+					We may run promotions for merchants where you may visit the merchants' sites. In some of those promotions, a window or frame containing the merchant's 
+					site may appear. Any time you are in a window, you should assume that your personal information is being collected, used and disclosed in accordance 
+					with that merchant's policies. This Privacy Policy does not apply to information that you supply to those merchants. Any information that you share 
+					with them will be used and disclosed in accordance with that merchant's privacy policy. However, once you click on a return link to our site, you can 
+					expect that further information that you disclose will be treated in accordance with this Policy. 
+					</p><p>
+					On occasion, unaffiliated third parties will "frame" Buy.com's site in an effort to collect customer information. To ensure your privacy, 
+					make sure that your order originates from Buy.com's site. Buy.com is not in any manner responsible in the event that you do disclose information 
+					to an unaffiliated framing site. 
+					
+					</p><p><span class="techblue"><i>Links and Banner Ads to Third-Party Sites</i></span><br>
+					Please be aware that our site may contain links to other sites on the Internet that are owned and operated by third parties. 
+					The information practices of those websites linking from or to our site are not covered by this Policy. These other sites may send 
+					their own cookies to users, collect data, or solicit personal information. Additionally, other companies or ad servers, which place 
+					advertising on our site may collect information about you through the use of cookies when you view or click on their advertising. We 
+					cannot control this collection of information. You should contact advertisers directly if you have any questions about their use of 
+					the information that they collect. 
 
 					</p><p><span class="techblue"></span></p></li><li><a name="withwhom">With whom do we share your information?</a><br>
-					Fulfillment:  The information collected by Buy.com is used for processing orders, keeping you informed about your 
-					order status, for statistical purposes, for improving our site and its performance, to serve ads, and to notify you 
-					of products or special offers that may be of interest to you.  We will disclose your Personally Identifiable Information 
-					to third parties to charge your credit card, fill your order, deliver your order, provide customer service, provide you 
-					with credit and deliver promotional e-mails to you from Buy.com.  For example, we must release your credit card information 
-					to the card-issuing bank to confirm payment; and release your address and telephone information to the delivery service to 
-					deliver products that you ordered. 
 					
-					<p>Other Parties:  We do not sell, trade, or rent your Personally Identifiable Information to others without your consent.  
-					We may provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, and related site 
-					information to third parties, but these statistics do not include any Personally Identifiable Information.  
-					We may release account information when we believe that such release is reasonably necessary to enforce or apply our 
-					Terms and Conditions or to protect the rights, property, and safety of Buy.com, our users, or others.  If customers 
-					do not pay us for products ordered, we may submit their account information to a third party collection agency.
+					<p><span class="techblue"><i>Fulfillment</i></span><br>
+					The information collected by Buy.com, BuyMusic.com and BuyServices is used for processing orders, keeping you informed about your order 
+					status, for statistical purposes, for improving our site and its performance, to serve ads, and to notify you of products or special 
+					offers that may be of interest to you. We will disclose your Personally Identifiable Information to third parties to charge your credit 
+					card, fill your order, deliver your order, provide customer service, provide you with credit and deliver promotional e-mails to you from 
+					Buy.com. For example, we must release your credit card information to the card-issuing bank to confirm payment; and release your address 
+					and telephone information to the delivery service to deliver products that you ordered.  As mentioned previously, your Personally 
+					Identifiable Information is shared with BuyServices and our other third-party fulfillment partners and service providers, and with 
+					certain other merchants on our site. 
 					
-					</p><p>Services Provided on Our Site:  Except as otherwise stated in this Policy, without your consent, Buy.com does 
-					not disclose its customers' Personally Identifiable Information to other merchants.  Where you sign up for goods 
-					or services offered through our site, but sold directly to you by a third party, we give your personal information 
-					to that third party (e.g., our Cellular Store and any magazine offers available on our site).  
-					To see our magazine suppliers privacy policy <a href="/retail/toc_feature.asp?loc=15553" class="techblue" target="_new">click here</a>.
+					</p><p><span class="techblue"><i>Other Parties Generally</i></span><br>   
+					We may provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, 
+					and related site information to third parties, but these statistics do not include any Personally Identifiable Information. We may 
+					release account information when we believe that such release is reasonably necessary to enforce or apply our Terms of Use or to protect 
+					the rights, property, and safety of Buy.com, our users, or others. If customers do not pay us for products ordered, we may submit their 
+					account information to a third party collection agency. We may also share your Personally Identifiable Information with third parties who 
+					provide services to us, our customers and web site visitors. Those third parties include authorized contractors, temporary employees and 
+					consultants and other companies working with us such as Buy Services (collectively, "agents"). Where we believe it to be appropriate (in 
+					our sole discretion), we will ask our agents not to disclose or use your personal information for purposes other than to provide services 
+					to you or Buy.com.
 					
-					</p><p>Data Analysis Agents: The information collected by or for Buy.com may be provided to an outside company 
-					for the purpose of analysis.  That analysis is to help us to improve our site and product selection, and to 
-					notify you of special offers that may be of interest to you.  That data analysis agent may not share any 
-					Personally Identifiable Information with others, or use it for any other purpose than to help Buy.com.
+					</p><p><span class="techblue"><i>Products Advertised on Our Site</i></span><br>
+					Where you order or sign up for goods or services offered through our site, but sold directly to you by a 
+					third party or fulfilled by a third party, we give your personal information to that third party to facilitate the sale of such goods or services (e.g., our Cellular Store and any magazine offers available on 
+					our site). 
 					
-					</p><p>Ad Servers, Advertisers, Image Servers and Website Analysis Agents: These third parties 
-					use their cookies' identification numbers and internal web site tracking features to serve ads on our 
-					site and to collect aggregated information to create statistics about our customers and visitors, traffic 
-					patterns, and related site information.  In the event that our ad servers collect any Personally 
-					Identifiable Information on our behalf, it will not be used by them or disclosed to any third parties.  
-					To find out about the information practices of our image server, 
-					<a href="http://www.akamai.com/en/html/misc/privacy_policy.html" class="techblue" taget="_new">click here</a>.
+					</p><p><span class="techblue"><i>Data Analysis Agents</i></span><br>
+					The information collected by or for Buy.com may be provided to an outside company for the purpose of analysis. That analysis 
+					is to help us to improve our site and product selection, and to notify you of special offers that may be of interest to you. 
+					That data analysis agent may not share any Personally Identifiable Information with others, or use it for any other purpose 
+					than to help Buy.com. 
+					
+					</p><p><span class="techblue"><i>Ad &amp; Content Servers, Advertisers, Image Servers and Website Analysis Agents</i></span><br>
+					These third parties use their cookies' identification numbers and internal web site tracking features to serve ads on our site and to 
+					collect aggregated information to create statistics about our customers and visitors, traffic patterns, and related site information. 
+					In the event that our ad servers collect any Personally Identifiable Information on our behalf, it will not be used by them or disclosed 
+					to any third parties. To find out about the information practices of our image server, 
+					<a href="http://www.akamai.com/en/html/misc/privacy_policy.html" class="techblue" target="_new">click here</a>.
 					To find out more information about our current website analysis agents information practices, <a href="http://optout.buy.rpts.net/cgi-bin/rpts/optout.pl" class="techblue" target="_new">click here</a>. 
 
-					</p><p>Compliance with Service of Process or Law Enforcement: Occasionally Buy.com may be asked by law 
-					enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate 
-					governmental authorities.  We will disclose Personally Identifiable Information upon receipt of a court 
-					order, subpoena, or to cooperate with a law enforcement investigation, without prior notice to you.  
-					Buy.com fully cooperates with law enforcement agencies in identifying those who use our services for 
-					illegal activities.  We reserve the right to report to law enforcement agencies any activities that we believe to be unlawful.
+					</p><p><span class="techblue"><i>Compliance with Service of Process or Law Enforcement</i></span><br>
+					Occasionally Buy.com may be asked by law enforcement or judicial authorities to provide Personally Identifiable Information to the 
+					appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, 
+					or to cooperate with a law enforcement investigation, without prior notice to you. Buy.com fully cooperates with law enforcement agencies 
+					in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities 
+					that we believe to be unlawful. 
 					
-					</p><p>Sweepstakes and Drawings: Where you enter a sweepstakes, drawing or other promotion, we may provide entry information, including 
-					name, address, email address and age to the company providing the prize or sponsoring the promotion.  They may use your Personally 
-					Identifiable Information to send you marketing or promotional materials or other communications.  
+					</p><p><span class="techblue"><i>Sweepstakes and Drawings</i></span><br>
+					Where you enter a sweepstakes, drawing or other promotion, we may provide entry information, including name, address, email address and 
+					age to the company providing the prize or sponsoring the promotion. They may use your Personally Identifiable Information to send you 
+					marketing or promotional materials or other communications. 
+					
+					</p><p><span class="techblue"><i>Sale of the Company</i></span><br>
+					Buy.com and its affiliated companies (including without limitation, BuyServices and BuyMusic) each reserve the right to disclose your 
+					Personally Identifiable Information in the event that any such company is sold, in whole or in part, either as an entire corporate 
+					entity or through an asset sale that includes a customer information database. This right is reserved whether or not the customer 
+					database is sold independently of any continuing operations of such company.
 
 					</p><p><span class="techblue"></span></p></li><li><a name="howcan">How can you update or correct your Personally Identifiable Information?</a><br>
-					We believe you should have the ability to access and edit the personal information that you have provided to us.  
-					During the online ordering process you can review, change, or delete the information that you have submitted.  
-					You may change any of your personal information in your account online at any time.  We encourage you to promptly 
-					update your information if it changes.  You may ask to have the information on your account deleted or removed; 
-					however, because we keep track of past purchases, you cannot delete information associated with past purchases.  
-					Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be 
-					completely removed from our databases.  As a result, you should not expect that all of your Personally Identifiable 
-					Information will be completely removed from our backed-up databases.
+					We believe you should have the ability to access and edit the personal information that you have provided to us. During the online ordering 
+					process you can review, change, or delete the information that you have submitted. You may change any of your personal information in your 
+					account online at any time. We encourage you to promptly update your information if it changes. You may ask to have the information on your 
+					account deleted or removed; however, because we keep track of past purchases, you cannot delete information associated with past purchases. 
+					Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our 
+					databases. As a result, you should not expect that all of your Personally Identifiable Information will be completely removed from our 
+					backed-up databases. 
 					
 					<p><span class="techblue"></span></p></li><li><a name="whatare">What are your choices regarding collection, use, and distribution of your information?</a><br>
-					Email: We may from time to time send you e-mail or other communications regarding current promotions, specials 
-					and new additions to the Buy.com site.  You may "opt-out," or unsubscribe from our newsletters by following the 
-					unsubscribe instructions in any e-mail you receive from us, or by sending an e-mail to <a href="MAILTO:optout@buy.com" class="techblue">optout@buy.com</a>. After 
-					doing so, Buy.com users will not receive future promotional emails unless they open a new account, enter a contest, or sign up to receive newsletters or emails.
+					Email: We may from time to time send you e-mail or other communications regarding current promotions, specials and new additions to the Buy.com site. 
+					You may "opt-out," or unsubscribe from our newsletters by following the unsubscribe instructions in any e-mail you receive from us, or by sending an 
+					e-mail to <a href="MAILTO:optout@buy.com" class="techblue">optout@buy.com</a>. After doing so, Buy.com users will not receive future 
+					promotional emails unless they open a new account, enter a contest, or sign up to receive newsletters or emails. <b>Please Note:  If you agree 
+					to receive e-mails from any of our third party service providers or any third party merchants on our site, you will receive e-mails separately 
+					from them, and information that you choose to disclose to them will be subject to their privacy policy.  If you later decide that you no longer 
+					want to receive their e-mails, you will need to follow their own specific opt-out instructions, as opting out to "optout@buy.com" as described 
+					above will not opt you out of their promotional emails.</b>
 					
-					<p>Ad-servers and other Content Servers:  You may also set your browser so that it will not accept "cookies" to prevent assignment from the ad server of a unique identifier; however, you will be unable 
-					to shop on our site if you do so. 
+					<p>Ad-servers and other Content Servers: You may also set your browser so that it will not accept "cookies" to prevent assignment from the ad server of a 
+					unique identifier; however, you may experience difficulty shopping on our site and performing other transactions if you do so. 
 					
-
 					</p><p><span class="techblue"></span></p></li><li><a name="whatsecurity">What security precautions are in place to protect against the loss, misuse, or alteration of your information?</a><br>
-					In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third 
-					party banking, processing agents and distribution institutions.  They receive the information needed to verify and 
-					authorize your credit card or other payment information and to process and ship your order. 
+					In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, 
+					processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other 
+					payment information and to process and ship your order. 
 					
-					<p>When you access your account information, the information is kept on a secure server.  
-					All of the customer data we collect is protected against unauthorized access by physical security means.  
+					<p>Within Buy.com, your information is kept on password protected, limited access servers. Wherever possible and applicable, Buy.com servers reside behind a corporate 
+					firewall that maintains controls on access to the system from both our internal network and the Internet.  
 					
 					</p><p><span class="techblue"></span></p></li><li><a name="aspecial">A special note about children's privacy</a><br>
-					You must be at least 18 years old to have our permission to use this site.  Our policy is that we do not 
-					knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age.  
-					If you are the parent or guardian of a minor under 18 years of age and believe that they have disclosed 
-					personally identifiable information to us, please contact us at <a href="mailto:privacy@buy.com" class="techblue">privacy@buy.com</a> so that we may delete the 
-					minor's information.
+					You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, 
+					use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian 
+					of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please contact 
+					us at <a href="mailto:privacy@buy.com" class="techblue">privacy@buy.com</a> so that we may delete the child's information. 
 
 					<p><span class="techblue"></span></p></li><li><a name="useof">Buy.com and third-party use of "cookies" and "action tags."</a><br>
-					Buy.com Cookies:  When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site.  
-					A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) 
-					that can later be retrieved to identify you to Buy.com.  Our cookies store randomly assigned user identification numbers, 
-					the country where you are located, and your first name to welcome you back to our site.  The cookies make your use of the 
-					site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure 
-					site.  You will be unable to shop on our site without your browser set to accept cookies. 
+					Buy.com Cookies: When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. 
+					A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be 
+					retrieved to identify you to Buy.com. Our cookies store randomly assigned user identification numbers, the country where you are located, 
+					and your first name to welcome you back to our site. The cookies make your use of the site easier, allow you to retrieve an earlier 
+					shopping cart, make the site run more smoothly and help us to maintain a secure site. You will be unable to shop on our site without 
+					your browser set to accept cookies. 
 					
-					<p>Ad Server and Content Server Cookies:  We may use an outside ad serving company or content server to display banner advertisements 
-					and other information on our site or to serve promotional emails.
-					As part of their service, they place a separate cookie on your computer. Except for the company that serves our promotional emails, Buy.com does not provide 
-					third-party ad servers with any of your Personally Identifiable Information.  
-					Buy.com and its third party ad servers do collect and use Non-Personally Identifiable Information about you, such 
-					as your IP address, browser type, the URLs from which you came, referring site's domain types (e.g., .com), 
-					operating system, the country, the server your computer is logged onto, where the servers that your computer 
-					is logged onto is located, the pages of our site and products that visitors viewed during their visit, where an ad was placed 
-					on a specific web site page, the time and date particular ads were served, the area code and zip code associated 
-					with your server and whether you responded to a particular ad, and a receipt identifier.  If you would like to know 
-					more about the information gathering practices of the company that send our promotional emails, please 
+					<p>Ad Server and Content Server Cookies: We may use an outside ad serving company or content server to display banner advertisements 
+					and other information on our site or to serve promotional emails. As part of their service, they place a separate cookie on your computer. 
+					Except for the company that serves our promotional emails, Buy.com does not provide third-party ad servers with any of your Personally 
+					Identifiable Information. Buy.com and its third party ad servers do collect and use Non-Personally Identifiable Information about you, 
+					such as your IP address, browser type, the URLs from which you came, referring site's domain types (e.g., .com), operating system, the 
+					country, the server your computer is logged onto, where the servers that your computer is logged onto is located, the pages of our site 
+					and products that visitors viewed during their visit, where an ad was placed on a specific web site page, the time and date particular 
+					ads were served, the area code and zip code associated with your server and whether you responded to a particular ad, and a receipt 
+					identifier. If you would like to know more about the information gathering practices of the company that send our promotional emails, 
+					please 
 					<a href="http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp;" style="text-decoration : underline" target="_new" class="techblue">click here</a>.
 					
-					</p><p>Our third-party ad servers will occasionally use outside agents, whose computers will serve ads 
-					on our site in the same manner and under the same conditions as above.  In addition, other ad 
-					serving companies or advertisers may place banner ads on our site in the same manner as above, 
-					but we do not disclose to them any Personally Identifiable Information.
+					</p><p>Our third-party ad servers will occasionally use outside agents, whose computers will serve ads on our site in the same manner and 
+					under the same conditions as above. In addition, other ad serving companies or advertisers may place banner ads on our site in the same 
+					manner as above, but we do not disclose to them any Personally Identifiable Information. 
 					
-					</p><p>Image Server Cookies:  As part of the ad-serving process, a third party may serve graphics upon our 
-					site.  In order to customize their service, they may also place a cookie upon your computer.  
-					While Buy.com does not control their use of that cookie, no Personally Identifiable or individual 
-					customers' product information is collected. To see our image server's privacy policy, <a href="http://www.akamai.com/en/html/misc/privacy_policy.html" style="text-decoration : underline" target="_new" class="techblue">click here</a>.
+					</p><p>Image Server Cookies: As part of the ad-serving process, a third party may serve graphics upon our site. In order to customize their 
+					service, they may also place a cookie upon your computer. While Buy.com does not control their use of that cookie, no Personally Identifiable 
+					or individual customers' product information is collected. To see our image server's privacy policy,  
+					<a href="http://www.akamai.com/en/html/misc/privacy_policy.html" style="text-decoration : underline" target="_new" class="techblue">click here</a>.
 					
-					</p><p>Website Analysis Agent Cookies:  We may use a third party to analyze what our visitors find to be most 
-					interesting on our site.  To do that, they will place a cookie on your computer with a randomly assigned 
-					unique number in order to track the pages you view on our site, along with other Non-Personally 
-					Identifiable Information.
+					</p><p>Website Analysis Agent Cookies: We may use a third party to analyze what our visitors find to be most interesting on our site. To do that, 
+					they will place a cookie on your computer with a randomly assigned unique number in order to track the pages you view on our site, along with 
+					other Non-Personally Identifiable Information. 
 					
-					</p><p>Action Tags, Web Beacons and other Data Collection Methods:  An action tag or a web-beacon (also known as a clear gif or a pixel tag) is a method used to track 
-					responses or actions by customers who view certain advertisements or other information on our site. 
-					Action tags are 1x1 pixel images embedded in a website page that are used to transparently collect information.  
-					Our ad server, content servers and website analysis agents  may use action tags to count the number of times that visitors click on a particular 
-					banner ad or visit the pages of our site and to provide information about what products are viewed or purchased.  Without collecting any personally identifiable information, 
-					they use that data to tell us (and other advertisers) which ads are the most effective on particular 
-					sites.  Our ad server, content server and website analysis agents may use an action tag on our basket page, checkout page, and other pages, 
-					to keep anonymous track of the number of times that clicking on a banner ad or views other information on our siteresults in a purchase.  
-					They also collect the amount of the purchase, order confirmation number, stock keeping unit number, 
-					quantity and identity of product purchased.
+					</p><p>Action Tags, Web Beacons and other Data Collection Methods: An action tag or a web-beacon (also known as a clear gif or a pixel tag) is a 
+					method used to track responses or actions by customers who view certain advertisements or other information on our site. Action tags are 1x1 
+					pixel images embedded in a website page that are used to transparently collect information. Our ad server, content servers and website analysis 
+					agents may use action tags to count the number of times that visitors click on a particular banner ad or visit the pages of our site and to 
+					provide information about what products are viewed or purchased. Without collecting any personally identifiable information, they use that 
+					data to tell us (and other advertisers) which ads are the most effective on particular sites. Our ad server, content server and website analysis 
+					agents may use an action tag on our basket page, checkout page, and other pages, to keep anonymous track of the number of times that clicking on 
+					a banner ad or views other information on our siteresults in a purchase. They also collect the amount of the purchase, order confirmation number, 
+					stock keeping unit number, quantity and identity of product purchased. 
 					
-					</p><p>E-mail Distributor's Use of Action Tags:  Our third-party e-mail distributor may also use action tags.  
-					They may, for example, keep track of when a promotional e-mail is opened and provide Buy.com with 
-					ongoing aggregated reports of how many customers have responded. We share with them web site usage information 
-					about visitors to our web site who have received a promotional e-mail or other targeted promotional campaign.  
-					They use the information for the purpose of targeting future campaigns and upgrading visitor information used 
-					in reporting statistics.  For this purpose, we and our third-party e-mail distributor note some of the pages 
-					you visit on our web site through the use of action tags . For more information about our third-party e-mail 
-					distributor's use of action tags and other data collection methods, please <a href="http://www.doubleclick.net/us/corporate/privacy/privacy/email/default.asp?asp_object_1=&amp;" style="text-decoration : underline" target="_new" class="techblue">click here</a>. 
+					</p><p>E-mail Distributor's Use of Action Tags: Our third-party e-mail distributor may also use action tags. They may, for example, 
+					keep track of when a promotional e-mail is opened and provide Buy.com with ongoing aggregated reports of how many customers have 
+					responded. We share with them web site usage information about visitors to our web site who have received a promotional e-mail or 
+					other targeted promotional campaign. They use the information for the purpose of targeting future campaigns and upgrading visitor 
+					information used in reporting statistics. For this purpose, we and our third-party e-mail distributor note some of the pages you 
+					visit on our web site through the use of action tags . For more information about our third-party e-mail distributor's use of 
+					action tags and other data collection methods, please  <a href="http://www.doubleclick.net/us/corporate/privacy/privacy/email/default.asp?asp_object_1=&amp;" style="text-decoration : underline" target="_new" class="techblue">click here</a>. 
 					
 					</p><p><span class="techblue"></span></p></li><li><a name="youshould">You should carefully review privacy policies of any third party sites accessible from Buy.com</a><br>
-					Other sites accessible through our web site have their own privacy policies and data collection, use and disclosure practices.  
-					Please consult each site's privacy policy.  Buy.com is not responsible for the policies or practices of third parties.  
-					Please be aware that this site may contain links to other sites on the Internet that are owned and operated by third parties.  
-					The information practices of those web sites linked to Buy.com are not covered by this Privacy Policy.  These other sites may 
-					send their own cookies to users, collect data, or solicit personal information.  Additionally, other companies that place 
-					advertising on our site may collect information about you when you view or click on their advertising through the use of cookies.  
-					We cannot control this collection of information.  You should contact these advertisers directly if you have any questions 
-					about their use of the information that they collect.
+					Other sites accessible through our web site have their own privacy policies and data collection, use and disclosure practices. 
+					Please consult each site's privacy policy. Buy.com is not responsible for the policies or practices of third parties. Please be 
+					aware that this site may contain links to other sites on the Internet that are owned and operated by third parties. The information 
+					practices of those web sites linked to Buy.com are not covered by this Privacy Policy. These other sites may send their own cookies 
+					to users, collect data, or solicit personal information. Additionally, other companies that place advertising on our site may collect 
+					information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of 
+					information. You should contact these advertisers directly if you have any questions about their use of the information that they collect.
 					
-					<p>On behalf of various sponsors, Buy.com provides sponsored links to third-party web sites.  If you click on a 
-					sponsored link or banner ad, a "window" or "frame" containing a third-party's web site may appear in the foreground 
-					with the Buy.com web site in the background.  Unless you are on Buy.com's web site, any time that you have moved to 
-					a window, you should assume that your personal information is being collected, used and disclosed in accordance 
-					with the windowed site's privacy policy (if any).  If you are unsure as to whose privacy policy applies, please 
-					contact us by e-mail at <a href="MAILTO:privacy@buy.com" class="techblue">privacy@buy.com</a>, or by sending a letter to the address below.
+					<p>On behalf of various sponsors, Buy.com provides sponsored links to third-party web sites. If you click on a sponsored link or banner 
+					ad, a "window" or "frame" containing a third-party's web site may appear in the foreground with the Buy.com web site in the background. 
+					Unless you are on Buy.com's web site, any time that you have moved to a window, you should assume that your personal information is being 
+					collected, used and disclosed in accordance with the windowed site's privacy policy (if any). If you are unsure as to whose privacy policy 
+					applies, please contact us by sending a letter to the address below. 
 					
 					</p><p><span class="techblue"></span></p></li><li><a name="contactingbuy">Contacting Buy.com about privacy questions or concerns</a><br>
-					If you have any questions about this Privacy Policy, the practices of this site, or your dealings with 
-					this site, please contact Buy.com by sending a letter to:
-					<p>
-					</p><blockquote>
+					If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, 
+					please contact Buy.com by sending a letter to:
+					<blockquote>
 					<span class="techblue">Attn:</span> Privacy Compliance Officer<br>
 					BUY.COM, Inc.<br>
 					85 Enterprise<br>
 					Aliso Viejo, CA  92656<br>
 					</blockquote>
-					You may also contact us by e-mail at <a href="MAILTO:privacy@buy.com" class="techblue">privacy@buy.com</a>.
 					
 					<p><span class="techblue"></span></p></li><li><a name="privacypolicy">Privacy Policy changes</a><br>					
-					This Privacy Policy was last changed on April 23, 2003.  If Buy.com makes changes to any terms 
-					or conditions of the Privacy Policy, the changes will be posted in this document so that you will 
-					always know what information we gather, how we might use that information and to whom we will disclose it.  
-					We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective 
-					immediately upon being posted unless we tell you otherwise.
-					</li></span></ol>
+					This Privacy Policy was last changed on April 1, 2004. If Buy.com makes changes to any terms or conditions of the Privacy Policy, 
+					the changes will be posted in this document so that you will always know what information we gather, how we might use that information 
+					and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become 
+					effective immediately upon being posted unless we tell you otherwise.
+					</li></span></ol>	
 					</td>
 				</tr>
 				<tr>
@@ -855,8 +988,8 @@ if (childWnd.opener == null) childWnd.opener = self;
 
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
 	<tbody><tr>
-		<td align="right"><img src="http://ak.buy.com/buy_assets/v6/december/rounded_edge.gif" border="0"></td>
-		<td height="23" width="100%" bgcolor="#990000" align="left">&nbsp;<span class="helpTextWhite">Need more Help?</span></td>
+		<td align="right"><img src="http://ak.buy.com/buy_assets/v6/may/rounded_edge.gif" border="0"></td>
+		<td height="23" width="100%" bgcolor="#62829B" align="left">&nbsp;<span class="helpTextWhite">Need more Help?</span></td>
 	</tr>
 </tbody></table>
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
@@ -878,7 +1011,7 @@ if (childWnd.opener == null) childWnd.opener = self;
 					    				document.write ('or you can <a href="/corp/support/email/default.asp?loc=307&what=anytimehelp" class="techblue">eMail</a> us your question.');
 									}
 									//-->
-								</script>or use the interactive <a href="https://www.netsagecentral.com/browserdetect.asp?customer=buymain" class="techblue" target="_top">Buy.com eXpert</a> to find answers fast.</td>
+								</script>or you can <a href="/corp/support/email/default.asp?loc=307&amp;what=anytimehelp" class="techblue">eMail</a> us your question.</td>
 							</tr>
 						</tbody></table>
 					</td>
@@ -919,13 +1052,18 @@ if (childWnd.opener == null) childWnd.opener = self;
 					<a href="http://www.buy.com/corp/advertising.asp" class="smBlkText">Advertising</a>
 					
 					&nbsp;|&nbsp;
+					<a href="http://www.buy.com/corp/affiliate_b2c.asp?loc=13895" class="smBlkText">Become An Affiliate</a>
+					&nbsp;|&nbsp;
+					<a href="https://secure.buy.com/corp/volumePurchases.asp" class="smBlkText">Volume Purchases</a>
+					&nbsp;|&nbsp;
 					<a href="https://secure.buy.com/corp/support/default.asp?loc=283" class="smBlkText">Help</a>
 					&nbsp;|&nbsp;
 					<a href="http://www.buy.com/corp/legal.asp" class="smBlkText">Terms of Use</a></nobr>
-					<br><nobr><a href="http://www.buy.com/corp/legal.asp" class="smBlkText">Copyright 1997-2003 BUY.COM Inc., All rights reserved.</a>&nbsp;&nbsp;&nbsp;<a href="http://www.buy.com/corp/privacy_policy_complete.asp" class="smBlkText">Buy.com Privacy Policy</a></nobr></span><nobr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</nobr>		
+					<br><nobr><a href="http://www.buy.com/corp/legal.asp" class="smBlkText">Copyright 1997-2004 Buy.com Inc., All rights reserved.</a>&nbsp;&nbsp;&nbsp;<a href="http://www.buy.com/corp/privacy_policy_complete.asp" class="smBlkText">Buy.com Privacy Policy</a></nobr></span><nobr>&nbsp;</nobr>		
 					<br clear="left"><img src="http://ak.buy.com/buy_assets/V5/img/clear.gif" height="5" width="1" border="0"><br clear="left">		
 					
-						<a href="http://www.buyservices.com" target="_new" class="smBlkText">Powered by BuyServices Inc.</a>
+					<a href="http://www.buy.com/retail/toc_feature.asp?loc=45141" class="smBlkText">Powered by BuyServices Inc.</a>
+					
 					</div><br clear="left"><img src="http://ak.buy.com/buy_assets/V5/img/clear.gif" height="10" width="8" border="0"><br>
 					
 					
@@ -939,11 +1077,20 @@ if (childWnd.opener == null) childWnd.opener = self;
 
 			<script language="JavaScript">
 			<!-- 
+				var DCUserID, DCShopperCookie;
+				
+				if (DCLKGetCookie("ShopperManager%2F") != "")
+				{
+					DCShopperCookie = DCLKGetCookie("ShopperManager%2F").split("=");
+					DCUserID = DCShopperCookie[1];
+					//alert(DCUserID);
+				}
+				
 				var begin = new Date();
 				var startYear = new Date("January 1, 1970");
 				startYear.setYear(begin.getYear());
 				var adRandomOrd = (begin.getTime() - startYear.getTime());
-				document.write('<img src="http://buy.rpts.net/sa;src=818341;ord=' + adRandomOrd + '?;sect=corporate;pgnm=corporate+%2d+help+%2d+guarantees+%2d+privacy+policy;pgurl=http%3a%2f%2fwww%2ebuy%2ecom%2fcorp%2fprivacy%5fpolicy%5fcomplete%2easp;ref=http%3a%2f%2fwww%2ebuy%2ecom%2fbasket%2fadditem%2easp%3f" width="1" height="1" border="0">');
+				document.write('<img src="http://buy.rpts.net/sa;src=818341;ord=' + adRandomOrd + '?;sect=corporate;pgnm=corporate+%2d+help+%2d+guarantees+%2d+privacy+policy;pgurl=http%3a%2f%2fwww%2ebuy%2ecom%2fcorp%2fprivacy%5fpolicy%5fcomplete%2easp;u.id=' + DCUserID + '" width="1" height="1" border="0">');
 				
 				function DCLKGetCookie (name)
 				{
@@ -967,17 +1114,10 @@ if (childWnd.opener == null) childWnd.opener = self;
 					if (endstr == -1)    
 						endstr = document.cookie.length;  
 					return unescape(document.cookie.substring(offset, endstr));
-				}
-
-				if (DCLKGetCookie("ShopperManager%2F") != "")
-				{
-					var DCShopperCookie = DCLKGetCookie("ShopperManager%2F").split("=");
-					var DCUserID = DCShopperCookie[1];
-				}
+				}				
 			//-->
-			</script><img src="http://buy.rpts.net/sa;src=818341;ord=59960914616867?;sect=corporate;pgnm=corporate+%2d+help+%2d+guarantees+%2d+privacy+policy;pgurl=http%3a%2f%2fwww%2ebuy%2ecom%2fcorp%2fprivacy%5fpolicy%5fcomplete%2easp;ref=http%3a%2f%2fwww%2ebuy%2ecom%2fbasket%2fadditem%2easp%3f" width="1" height="1" border="0">
+			</script><img src="http://buy.rpts.net/sa;src=818341;ord=59960914618367?;sect=corporate;pgnm=corporate+%2d+help+%2d+guarantees+%2d+privacy+policy;pgurl=http%3a%2f%2fwww%2ebuy%2ecom%2fcorp%2fprivacy%5fpolicy%5fcomplete%2easp;u.id=undefined" width="1" height="1" border="0">
 			
-
 
 
 
