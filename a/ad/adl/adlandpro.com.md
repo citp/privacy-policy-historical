@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601123030id_/http%3A//www.adlandpro.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208054141id_/http%3A//www.adlandpro.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # AdlandPro - Privacy Statement
 
