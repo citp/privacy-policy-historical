@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603032142id_/http%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215001559id_/http%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
 
-# 
+# White House Website Privacy Policy
+
+  
+
+
+**White House Website Privacy Policy**
+
+[En Español](https://web.archive.org/privacy.es.html)
 
 Thank you for visiting the White House Website and reviewing our privacy policy. Our privacy policy is clear: We will collect **no** personal information about you when you visit our website unless you choose to provide that information to us.  
 Here is how we handle information about your visit to our website: 
@@ -19,12 +26,20 @@ We use this information to help us make our site more useful to visitors -- to l
 
 **If You Send Us Personal Information**
 
-If you choose to provide us with personal information by sending an e-mail to the President or someone else in the White House, or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us get you the information you have requested. If you submit your resume through our website, we use that information only in considering your application for employment. We do not collect personal information for any other purposes. Moreover, we do not create individual profiles with the information you provide or give this information to any private organizations. Nor does the White House collect information for commercial marketing. 
+If you choose to provide us with personal information by sending an e-mail to the President or someone else in the White House, or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us provide you with information that you request. If you submit your resume through our website, we use your personal identification information only in considering your application for employment. We do not collect personal information for any other purposes. The information you provide is not given to any private organizations or private persons. The White House does not collect or use information for commercial marketing. 
 
 We would share your e-mail with another federal government agency only if your inquiry related to that agency or if we were required to do so by law. The [Presidential Records Act](https://web.archive.org/cgi-bin/good-bye.cgi?url=http://www.law.cornell.edu/uscode/44/ch22.html) requires us to maintain some documents, including e-mails, received by the White House and requires public disclosure of some of these documents twelve years after President Bush leaves office. In addition, we would release documents, including e-mails, if required to do so by a congressional or judicial subpoena. 
 
-If you submit resume information through the [Presidential Personnel Application](https://web.archive.org/appointments), this information will be shared only with White House employees involved in making hiring decisions and, if you express interest in employment with a federal executive agency other than the White House, with officials responsible for making hiring decisions in that agency. We are required by the Presidential Records Act to maintain your resume as a record, but your personal resume information is not subject to public disclosure under the Act. 
+If you submit resume information through the [Presidential Personnel Application](https://web.archive.org/appointments/), this information will be shared only with White House employees involved in making hiring decisions and, if you express interest in employment with a federal executive agency other than the White House, with officials responsible for making hiring decisions in that agency. We are required by the Presidential Records Act to maintain your resume as a record, but your personal resume information is not subject to public disclosure under the Act. 
 
 **Links to Other Sites**
 
 Our website has links to the websites of many other federal agencies. In a few cases, we link to private organizations, with their permission. Before leaving the White House website, a page will appear informing you that you are leaving our server. Once you link to another site, you are subject to the privacy policy of the new site. 
+
+[En Español](https://web.archive.org/privacy.es.html)
+
+  
+
+
+|  |   
+---|---|---
