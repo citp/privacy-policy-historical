@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610115258id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209172416id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
 
 # JangoMail
 
@@ -29,7 +29,6 @@ JangoMail has made a substantial investment in the latest server, database, back
 
 JangoMail Inquiries  
 JangoMail  
-5335 Far Hills Avenue  
-Suite 222  
-Dayton, OH 45429  
+6302 Far Hills Avenue  
+Dayton, OH 45459  
 help@us.jangomail.com
