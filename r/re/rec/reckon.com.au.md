@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reckon.com.au privacy policy that was archived on 2004-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040511202053id_/http%3A//www.reckon.com.au/aboutUs/securityAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reckon.com.au privacy policy that was archived on 2004-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040701154721id_/http%3A//www.reckon.com.au/aboutUs/securityAndPrivacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -39,7 +39,7 @@ With the exception of the final bullet point above (where the information is dis
 
 The National Privacy Principles provide you with the right to access the personal information that we hold in relation to you. If you would like details of the personal information which we may hold about you or, if you would like to correct any of the information that we hold, please contact us as follows: 
 
-e-mail: [privacy@quicken.com.au](mailto:privacy@quicken.com.au)  
+e-mail: [privacy@quicken.com.au](mailto:privacy@quicken.com.au?subject=Privacy%20Issues)  
 or write to us: 
 
 The Privacy Officer  
