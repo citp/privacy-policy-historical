@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602194739id_/http%3A//www.statesman.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207222554id_/http%3A//www.statesman.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
