@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the gopusa.com privacy policy that was archived on 2002-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021201171014id_/http%3A//gopusa.com/legal/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gopusa.com privacy policy that was archived on 2003-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030623170003id_/http%3A//gopusa.com/legal/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 
 <title>GOPUSA - Privacy Notice</title>
+
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="gop, republican, conservative, politics, republicans, news, Information, internet, campaign, campaigns, congress, senate, president, george w. bush, government, elections, web page design, political, multimedia, fundraising, activists, services, commentary, businesses, professional, source, Eberle, Fairbrother, gopusa.com">
 <meta name="description" content="GOPUSA is THE source for Republican news, information, and commentary.  GOPUSA is bringing the conservative message to America.  We specialize in GOP and conservative politics.">
 
 <script language="javascript">
-<!--
-<!--
+
 var agt = navigator.userAgent.toLowerCase();
 var is_sun = (agt.indexOf("sunos") != -1);
 var is_mac = (agt.indexOf("mac") != -1);
@@ -49,27 +49,12 @@ else {
 	}
 }
 
-// -->
-
 function MM_findObj(n, d) { //v4.01
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
   if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
   if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_showHideLayers() { //v6.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
 function MM_swapImgRestore() { //v3.0
@@ -81,234 +66,176 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
-//-->
 </script><link rel="stylesheet" href="http://gopusa.com/styles/new_pc.css" type="text/css">
 
 <script language="javascript">
-<!--
-function MM_reloadPage(init) { //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if
-  ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; 
-onresize=MM_reloadPage;
-}}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
-  location.reload();
+<!-- Begin
+var expDays = 3; // number of days the cookie should last
+
+var page = "/eagle_popup.html";
+var windowprops = "width=310,height=450,location=no,toolbar=no,menubar=no,scrollbars=yes,resizable=yes";
+
+function GetCookie (name) {  
+var arg = name + "=";  
+var alen = arg.length;  
+var clen = document.cookie.length;  
+var i = 0;  
+while (i < clen) {    
+var j = i + alen;    
+if (document.cookie.substring(i, j) == arg)      
+return getCookieVal (j);    
+i = document.cookie.indexOf(" ", i) + 1;    
+if (i == 0) break;   
+}  
+return null;
 }
-MM_reloadPage(true);
-//-->
+function SetCookie (name, value) {  
+document.cookie = name + "=" + escape (value) + "; path=/; domain=.gopusa.com; expires=" + exp.toGMTString();
+}
+function DeleteCookie (name) {  
+var exp = new Date();  
+exp.setTime (exp.getTime() - 1);  
+var cval = GetCookie (name);  
+document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+function amt(){
+var count = GetCookie('count')
+if(count == null) {
+SetCookie('count','1')
+return 1
+}
+else {
+var newcount = parseInt(count) + 1;
+DeleteCookie('count')
+SetCookie('count',newcount,exp)
+return count
+   }
+}
+function getCookieVal(offset) {
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)
+endstr = document.cookie.length;
+return unescape(document.cookie.substring(offset, endstr));
+}
+
+function checkCount() {
+var count = GetCookie('count');
+if (count == null) {
+count=1;
+SetCookie('count', count, exp);
+
+window.open(page, "", windowprops);
+
+}
+else {
+count++;
+SetCookie('count', count, exp);
+   }
+}
+//  End -->
 </script>
 
 </head>
-<body bgcolor="#FFFFFF" text="#000066" link="#990000" vlink="#990000" onload="MM_preloadImages('/images/menu/resources2.gif','/images/menu/opinion2.gif','/images/menu/funstuff2.gif','/images/menu/company2.gif','/images/menu/close2.gif','/images/menu/close.gif')">
-<div id="opinion" style="position:absolute; left:144px; top:272px; width:150px; height:450px; z-index:1; visibility: hidden; background-color: #990000; layer-background-color: #990000"> 
-  <table width="150" border="0" cellspacing="5" cellpadding="3" align="center" bgcolor="#990000">
-    <tbody><tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/austinbay">Austin Bay</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/mikebayham">Mike Bayham</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/greggbish">Gregg Bish</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/lindachavez">Linda Chavez</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/caroldevinemolin">Carol Devine-Molin</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/davidhorowitz">David Horowitz</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/kerrihouston">Kerri Houston</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/alankeyes">Alan Keyes</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/rachelmarsden">Rachel Marsden</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/frederickmeekins">Frederick Meekins</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/starparker">Star Parker</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/dougpatton">Doug Patton</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/bonniecherninrogoff">Bonnie Chernin Rogoff</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/sartre">SARTRE</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/dorothyanneseese">Dorothy Anne Seese</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/tomsegel">Tom Segel</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/aprilshenandoah">April Shenandoah</a></td>
-    </tr>
-    <tr>
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/opinion">More Opinion</a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="close1" style="position:absolute; left:294px; top:272px; width:49px; height:35px; z-index:2; visibility: hidden"><a href="javascript:MM_showHideLayers('opinion','','hide','close1','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image23" onmousedown="MM_showHideLayers('opinion','','hide','close1','','hide')"></a></div>
-<div id="resources" style="position:absolute; left:144px; top:272px; width:150px; height:185px; z-index:3; background-color: #990000; layer-background-color: #990000; visibility: hidden"> 
-  <table width="150" border="0" cellspacing="5" cellpadding="3">
-    <tbody><tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/bush">Bush News</a></td>
-    </tr>
-    <tr>
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/states.shtml">State News &amp; Info.</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/nat_political.shtml">Political Links</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/nat_govt.shtml">Government Links</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/nat_media.shtml">Media Links</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/documents">Historical Documents</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/calendar.shtml">Event Calendar</a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="close2" style="position:absolute; left:294px; top:272px; width:49px; height:35px; z-index:4; visibility: hidden"><a href="javascript:MM_showHideLayers('resources','','hide','close2','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image30','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image30" onmousedown="MM_showHideLayers('resources','','hide','close2','','hide')"></a></div>
-<div id="funstuff" style="position:absolute; left:144px; top:272px; width:150px; height:185px; z-index:5; visibility: hidden; background-color: #990000; layer-background-color: #990000"> 
-  <table width="150" border="0" cellspacing="5" cellpadding="3">
-    <tbody><tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/bookstore">Book Store</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/cartoons">Cartoons</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/puzzle.shtml">Picture Puzzle</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/flash.shtml">Flash Animations</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/technology.shtml">Technology Help</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/logos.shtml">Logos and Banners</a></td>
-    </tr>
-    <tr>
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/survey.shtml">Visitor Survey</a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="close3" style="position:absolute; left:294px; top:272px; width:49px; height:35px; z-index:6; visibility: hidden"><a href="javascript:MM_showHideLayers('funstuff','','hide','close3','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image38','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image38" onmousedown="MM_showHideLayers('funstuff','','hide','close3','','hide')"></a></div>
-<div id="company" style="position:absolute; left:144px; top:272px; width:150px; height:133px; z-index:7; background-color: #990000; layer-background-color: #990000; visibility: hidden"> 
-  <table width="150" border="0" cellspacing="5" cellpadding="3">
-    <tbody><tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/mission.shtml">Our Mission</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/awards.shtml">Awards and Honors</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/directors.shtml">Directors and Officers</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/presscenter">Press Center</a></td>
-    </tr>
-    <tr> 
-      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/contact.shtml">Contact Us</a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="close4" style="position:absolute; left:294px; top:272px; width:49px; height:35px; z-index:8; visibility: hidden"><a href="javascript:MM_showHideLayers('company','','hide','close4','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image44','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image44" onmousedown="MM_showHideLayers('company','','hide','close4','','hide')"></a></div>
 
+<body bgcolor="#FFFFFF" text="#000066" link="#990000" vlink="#990000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="checkCount()">
 
-<table width="662" border="0" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" align="left">
-
-<tbody><tr valign="top"><td>
-
-<table width="662" border="0" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
-<tbody><tr valign="middle"><td align="left">
-<a href="http://gopusa.com/ads/cbs_dsouza.html&#10;" target="top"><img src="http://gopusa.com/images/ads/dsouza_banner.gif" border="0"></a>
+<table border="0" width="780" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="3"><img src="/images/top_graphic.jpg"></td></tr>
+<tr><td width="170" height="90" align="center"><img src="/images/gopusa_logo_sm.gif"></td>
+<td width="490" align="center">
+<a href="http://gopusa.com/ads/bushcountry.html&#10;" target="top"><img src="http://gopusa.com/images/ads/bushcountry.gif" border="0"></a>
 
 </td>
-<td align="right">
-<a href="/mail"><img src="/images/email2.gif" border="0"></a>
-</td></tr></tbody></table>
-<br>
-<br>
+<td width="120" align="center">
+<img src="/images/squares/picture2.jpg">
 
 </td></tr>
 
-<tr valign="top"><td bgcolor="#000066">
+<tr><td colspan="3">
+<table border="0" cellspacing="0" cellpadding="0">
 
-<img src="/images/web_masthead.jpg" border="0" align="center" width="662" height="144" name="masthead" usemap="#mastheadMap"><map name="mastheadMap"><area shape="rect" coords="359,126,401,145" href="http://gopusa.com"><area shape="rect" coords="406,126,497,142" href="/mail"><area shape="rect" coords="501,127,574,142" href="/forum"><area shape="rect" coords="577,126,661,147" href="/contact.shtml"></map> 
-
+<tbody><tr><td><a href="http://gopusa.com" onmouseover="MM_swapImage('home1','','/images/menu_home2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/menu_home1.gif" name="home1" border="0"></a><a href="/resources" onmouseover="MM_swapImage('resources1','','/images/menu_resources2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/menu_resources1.gif" name="resources1" border="0"></a><a href="/opinion" onmouseover="MM_swapImage('opinion1','','/images/menu_opinion2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/menu_opinion1.gif" name="opinion1" border="0"></a><a href="/cgi-bin/ib3/ikonboard.pl" onmouseover="MM_swapImage('forum1','','/images/menu_forum2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/menu_forum1.gif" name="forum1" border="0"></a><a href="/otherstuff" onmouseover="MM_swapImage('stuff1','','/images/menu_stuff2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/menu_stuff1.gif" name="stuff1" border="0"></a><a href="/mail" onmouseover="MM_swapImage('mail1','','/images/menu_mail2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/menu_mail1.gif" name="mail1" border="0"></a><a href="/contact.shtml" onmouseover="MM_swapImage('contact1','','/images/menu_contact2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/menu_contact1.gif" name="contact1" border="0"></a></td></tr>
+</tbody></table>
 </td></tr>
 
-<tr valign="top"><td bgcolor="#000066">
-
+<tr><td bgcolor="#999999" colspan="3" align="center">
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="662" height="18">
 <param name="movie" value="http://gopusa.com/newsticker.swf">
 <param name="menu" value="false">
 <param name="quality" value="high">
 <param name="scale" value="exactfit">
-<param name="bgcolor" value="#000066">
-<embed src="http://gopusa.com/newsticker.swf" menu="false" quality="high" scale="exactfit" bgcolor="#000066" width="662" height="18" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+<param name="bgcolor" value="#999999">
+<embed src="http://gopusa.com/newsticker.swf" menu="false" quality="high" scale="exactfit" bgcolor="#999999" width="662" height="18" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
 
 </object>
-
 </td></tr>
 
-<tr valign="top"><td>
-
-<table width="662" border="0" bgcolor="#000066" cellspacing="0" cellpadding="1" align="left">
-<tbody><tr valign="top"><td align="center">
-<table width="660" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="5">
+<tr><td colspan="3">
+<table border="0" width="780" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top">
-
-
-<td class="leftcolumn" width="120" align="left">
-<p>
-<a href="/resources.shtml" onmouseover="MM_swapImage('Image1','','/images/menu/resources2.gif',1);MM_showHideLayers('opinion','','hide','close1','','hide','resources','','show','close2','','show','funstuff','','hide','close3','','hide','company','','hide','close4','','hide')" onmouseout="MM_swapImgRestore()"><img src="/images/menu/resources.gif" width="120" height="20" border="0" name="Image1"></a>
+<td bgcolor="#000066" width="165">
 <br>
-<a href="/opinion.shtml" onmouseover="MM_swapImage('Image2','','/images/menu/opinion2.gif',1);MM_showHideLayers('opinion','','show','close1','','show','resources','','hide','close2','','hide','funstuff','','hide','close3','','hide','company','','hide','close4','','hide')" onmouseout="MM_swapImgRestore()"><img src="/images/menu/opinion.gif" width="120" height="20" name="Image2" border="0"></a> 
-<br>              
-<a href="/funstuff.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','/images/menu/funstuff2.gif',1);MM_showHideLayers('opinion','','hide','close1','','hide','resources','','hide','close2','','hide','funstuff','','show','close3','','show','company','','hide','close4','','hide')"><img src="/images/menu/funstuff.gif" width="120" height="20" border="0" name="Image21"></a> 
-<br>                
-<a href="/company.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','/images/menu/company2.gif',1);MM_showHideLayers('opinion','','hide','close1','','hide','resources','','hide','close2','','hide','funstuff','','hide','close3','','hide','company','','show','close4','','show')"><img src="/images/menu/company.gif" width="120" height="20" border="0" name="Image22"></a>
-</p>
 
-<p align="center"><a href="/youngpatriots"><img src="/images/youngpatriots/logo_website_sm.gif" border="0"></a></p>
+<p align="center"><a href="/sponsors"><img src="/images/sponsors/sponsor_button.gif" border="0"></a></p>
 
-<p align="center"><a href="/bumpersticker.shtml"><img src="/images/bumpersticker_get.gif" border="0"></a></p>
+<table border="0" width="150" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr valign="top"><td align="center"><img src="/images/tab_poll.gif"></td></tr>
+<tr><td>
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+<tbody><tr><td bgcolor="#990000">
+<table border="0" width="100%" cellspacing="0" cellpadding="5">
+<tbody><tr><td bgcolor="#CCCCCC">
+<b>Do you consider Saudi Arabia an ally in the War on Terror?</b>
+</td></tr>
+<tr><td bgcolor="#FFFFFF">
+<form method="post" action="http://gopusa.com/cgi-bin/pollvault/processpoll.pl">
+<input type="hidden" name="username" value="gopusa">
+<input type="hidden" name="pollfile" value="0519_saudiarabia">
+<table border="0" width="100%" cellspacing="2">
+<tbody><tr valign="top"><td><input type="radio" name="answer" value="1"></td><td>Yes</td></tr>
+<tr valign="top"><td><input type="radio" name="answer" value="2"></td><td>No</td></tr>
+</tbody></table>
+<p><input type="submit" name="submit" value="Cast Vote"></p>
+</form>
+</td></tr>
+<tr><td bgcolor="#CCCCCC" align="center">
+<p><a href="/pollvault/0519_saudiarabia.shtml">View Results</a></p>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
 
-<p><a href="/ads/cbs_coulter.html" target="top"><img src="/images/ads/coulter_button.gif" border="0"></a></p>
 
-<p align="center"><a href="/oncampus"><img src="/images/on_campus2.gif" border="0"></a></p>
+<p align="center"><a href="/webcast"><img src="/images/webcast/webcast_logo.jpg" border="0"></a></p>
+
+<p align="center"><a href="/resources/states.shtml"><img src="/images/state_news.gif" border="0"></a></p>
+
+<p align="center"><a href="/ads/cbc.html" target="top"><img src="/images/ads/button_cbc.gif" border="0"></a></p>
 
 <p align="center"><a href="/eagle/subscribe.shtml"><img src="/images/eagle_button.jpg" border="0"></a></p>
 
+<p align="center"><a href="/youngpatriots"><img src="/images/youngpatriots/logo_website_sm.gif" border="0"><br>
+<font color="white"><b>GOPUSA Announces National Winner!</b></font></a></p>
+
+<p align="center"><a href="/oncampus"><img src="/images/on_campus2.gif" border="0"></a></p>
+
+<p align="center"><a href="/otherstuff/bumpersticker.shtml"><img src="/images/bumpersticker_get.gif" border="0"></a></p>
+
+<p align="center"><a href="/rsc"><img src="/images/rsclogo.jpg" border="0" alt="Republican Study Committee"></a></p>
+
 </td>
 
+<td width="450">
 
-<td align="center" valign="top" width="530">
+<table border="0" width="440" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr valign="top"><td>
 
-<table width="500" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr> 
-<td align="left" valign="top">
-<p><img src="/images/generic_title.gif" width="500" height="60"></p>
+
+
+<!-- Begin page information -->
+
+<p><img src="/images/title_generic.gif"></p>
 
 <p><a href="privacyp.shtml">Printer-Friendly Version</a></p>
 
@@ -360,47 +287,122 @@ MM_reloadPage(true);
 
 <p>IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, YOU MAY NOT USE THE GOPUSA SITES.  GOPUSA reserves the right to make changes to the GOPUSA Sites and this Agreement at any time without prior notice.  This Agreement may not otherwise be amended except in a writing signed by GOPUSA.</p>
 
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-            
+<!-- End page information -->
+
+
 </td></tr></tbody></table>
 
-</td></tr>
+</td>
 
-<tr valign="top"><td>
-<p>&nbsp;</p>
-</td></tr>
+<td width="165" bgcolor="#CCCCCC">
 
-<tr valign="top"><td>
-
-<table width="662" border="0" bgcolor="#000066" cellspacing="0" cellpadding="1" align="left">
-<tbody><tr valign="top"><td align="center">
-<table width="660" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
+<table border="0" width="160" cellspacing="0" cellpadding="5" align="center">
 <tbody><tr valign="top"><td>
-<p align="center"><img src="/images/footer.gif" width="450" height="25" alt="GOPUSA Footer"><br><br>
-Copyright © 2000-2002, GOPUSA.com, Inc.<br>
+
+<table border="0" width="150" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr valign="top"><td align="left"><img src="/images/tab_news.gif"></td></tr>
+<tr><td>
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+<tbody><tr><td bgcolor="#000066">
+<table border="0" width="100%" cellspacing="0" cellpadding="5">
+<tbody><tr><td bgcolor="#FFFFFF">
+<p><a href="http://www.gopusa.com/news/2003/june/0623_saddam.shtml">New Information Suggests Saddam May Be Still Alive</a></p>
+<p><a href="http://www.gopusa.com/news/2003/june/0623_coulter_clinton.shtml">Hillary's Book May Soon Be History</a></p>
+<p><a href="http://www.gopusa.com/news/2003/june/0623_dems_jewish_vote.shtml">Democrats Worry GOP is Gaining among Jewish Voters</a></p>
+<p><a href="http://www.gopusa.com/news/2003/june/0620_argus_leader.shtml">Argus Leader Breaks Silence, Admits Daschle Link</a></p>
+<p><a href="http://www.gopusa.com/news/2003/june/0620_frist_judicial_nominations.shtml">Frist Considers 'Nuclear Option' For Judicial Nominations</a></p>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<br>
+
+
+<table border="0" width="150" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr valign="top"><td align="center"><img src="/images/tab_forum.gif"></td></tr>
+<tr><td>
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+<tbody><tr><td bgcolor="#990000">
+<table border="0" width="100%" cellspacing="0" cellpadding="5">
+<tbody><tr><td bgcolor="#FFFFFF">
+<p><a href="http://gopusa.com/cgi-bin/ib3/ikonboard.pl?act=ST;f=22;t=4407">Perfect match: Gay marriages and conservative values</a><br>By noPEACEwithoutJUSTICE</p>
+<p><a href="http://gopusa.com/cgi-bin/ib3/ikonboard.pl?act=ST;f=1;t=4399">URGENT NOTICE: Republicans cast your vote in Democratic Primary (6/24)</a><br>By NWGOPMom</p>
+<p><a href="http://gopusa.com/cgi-bin/ib3/ikonboard.pl?act=ST;f=11;t=4252">'Roe' Seeks to Overturn Historic Abortion Ruling</a><br>By stormy</p>
+<p><a href="http://gopusa.com/cgi-bin/ib3/ikonboard.pl?act=ST;f=11;t=4391">Belgian lawmakers propose euthanasia for children</a><br>By jackbenimble</p>
+<p><a href="http://gopusa.com/cgi-bin/ib3/ikonboard.pl?act=ST;f=11;t=4391">Belgian lawmakers propose euthanasia for children</a><br>By stormy</p>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+<br>
+
+<table border="0" width="150" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr valign="top"><td align="right"><img src="/images/tab_commentary.gif"></td></tr>
+<tr><td>
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+<tbody><tr><td bgcolor="#000066">
+<table border="0" width="100%" cellspacing="0" cellpadding="5">
+<tbody><tr><td bgcolor="#FFFFFF">
+<p><a href="/dougpatton/dp_0623.shtml">If You Like Canada, You'll Love Howard Dean</a><br>
+By Doug Patton</p>
+
+<p><a href="/caroldevinemolin/cdm_0623.shtml">Is Iran Next?</a><br>
+By Carol Devine-Molin</p>
+
+<p><a href="/austinbay/ab_0617.shtml">A Trio of Wars</a><br>
+By Austin Bay</p>
+
+<p><a href="/lindachavez/lc_0617.shtml">Indifference for Hillary</a><br>
+By Linda Chavez</p>
+
+<p><a href="/seanturner/st_0623.shtml">To Work or Not to Work</a><br>
+By Sean Turner</p>
+
+<p><a href="/aprilshenandoah/as_0623.shtml">Islamic 'Jihad' Choking Out Western Civilization</a><br>
+By April Shenandoah</p>
+
+<p><a href="/davidhorowitz/dh_0623.shtml">The Guilt of the Son</a><br>
+By David Horowitz</p>
+
+<p><a href="/sartre/sartre_0623.shtml">The CFR - NeoCon Connection</a><br>
+By SARTRE</p>
+
+<p><a href="/mikebayham/mb_0623.shtml">Political Musical Chairs In Louisiana</a><br>
+By Mike Bayham</p>
+
+<p><a href="/bobby/bobby_0616.shtml">A Post-Father's Day Message from a Son</a><br>
+By Bobby Eberle</p>
+
+<p><a href="/jamesbowden/jb_0616.shtml">One Punishing Primary</a><br>
+By James A. Bowden</p>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td>
+</tr>
+
+<tr><td bgcolor="#000066">&nbsp;</td>
+<td align="center">
+<p>&nbsp;</p>
+<p><img src="/images/footer.gif" alt="GOPUSA Footer"><br><br>
+Copyright © 2000-2003, GOPUSA.com, Inc.<br>
 <a href="/legal/privacy.shtml">Privacy Notice</a> | <a href="/legal/agreement.shtml">Subscriber and Member Agreement</a><br>
 281-412-2184 |
 <script language="javascript">
 document.write('<a href=\"mailto:' + 'feedback' + '@' + 'gopusa.com\">' + 'feedback' + '@' + 'gopusa.com</a>');
 </script><a href="mailto:feedback@gopusa.com">feedback@gopusa.com</a>
 </p>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
+<p>&nbsp;</p></td>
+<td bgcolor="#CCCCCC">&nbsp;</td></tr>
 
-</td></tr>
-
-<tr valign="top"><td>
-<p>&nbsp;</p>
-
-            
-</td>
-</tr>
 </tbody></table>
+
+</td></tr></tbody></table>
+
+
 
 
 </body></html>
