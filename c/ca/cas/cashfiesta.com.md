@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013033206id_/http%3A//www.cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603161138id_/http%3A//www.cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.*
 
-# Cashfiesta.com - Earn cash using your computer
+# Make money online: Cashfiesta Policies
 
 **We respect your Privacy**
 
