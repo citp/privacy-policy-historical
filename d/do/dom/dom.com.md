@@ -1,0 +1,18 @@
+> *The following text is extracted and transformed from the dom.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203003045id_/http%3A//www.dom.com/privacy.jsp) for the most accurate reproduction.*
+
+# Privacy Statement
+
+| 
+
+Privacy  
+
+
+At Dominion, your privacy is important to us. Dominion does not collect personally-identifying information about You (such as Your name, address, telephone number, or e-mail address) unless You voluntarily submit that information to us through one of our _Contact_ pages, or by e-mail or other means. We treat any personally-identifying information You submit through this Web Site as confidential and do not sell or otherwise disclose such information to third parties except under strict contracts involving customer service or the enhancement of our customer programs.
+
+When You visit our Web Site, we may automatically collect certain non-identifying information about you, such as the type of browser or computer operating system You use or the domain name of the Web Site from which You linked to us. In addition, we may store some information on your computer’s hard drive as a "cookie" or similar type of file. We use this information internally, to help us enhance the efficiency and usefulness of the Web Site. If You object to this, please consult your Browser’s documentation for information on erasing or blocking cookies. 
+
+Any information we gather, whether voluntarily provided by You or automatically collected, may be used for our internal business and marketing purposes but will not be sold or otherwise disclosed to third parties for any purposes, unless You have expressly requested information about a specific vendor or service identified on our Web Site. In the latter case, your request will be passed along to the vendor or service You have identified. Notwithstanding any other statements or representations here or elsewhere on our Web Site, we reserve our right to disclose any information in our possession if we are required to do so by law, or we believe, in good faith, that such a disclosure is necessary to comply with the law, defend our rights or property, or to respond to an emergency situation.
+
+If You are concerned about the information You have provided to us, or would like to review, update or delete that information, please contact us at [customer service](mailto:Customer_Service@dom.com). We will make reasonable efforts to comply with your wishes. 
+
+Dominion employs reasonable security measures to protect the personal information You submit to us, once it is received. 
