@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601105702id_/http%3A//michiganbulb.com/article_disp.asp%3Fai%3D131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208210903id_/http%3A//michiganbulb.com/article_disp.asp%3Fai%3D131) for the most accurate reproduction.*
 
 # Michigan Bulb Co.
 
