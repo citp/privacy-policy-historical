@@ -1,11 +1,21 @@
-> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/privacystat.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/privacystat.cfm) for the most accurate reproduction.*
 
 # iTnews
 
-| 
-
+| [](https://web.archive.org/crn/)  
+---  
+[](https://web.archive.org/infoweek/)  
+[](https://web.archive.org/windows/)  
+[](https://web.archive.org/index.cfm)  
+[](https://web.archive.org/subscribe/)  
+[](https://secure.itnews.com.au/register/register.asp)  
+[](https://web.archive.org/media/)  
+[](https://web.archive.org/event_sales.cfm)  
+[](https://web.archive.org/contact.cfm)  
+[](http://www.itresellers.com.au/)  
+  
 >   
->  Penton Media Australia Pty Limited ("Penton") is committed to protecting your privacy. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
+>  AJB Publishing Pty Limited is committed to protecting your privacy. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
 > 
 > We take this stance not just to fulfil our legislative obligations under the Privacy Act 1988 ("the Act"), but also because we value your trust and our ongoing relationship. 
 > 
@@ -88,17 +98,17 @@
 >   
 >  (j) an enforcement body performing a lawful security function asks the organisation not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia. 
 > 
-> Where providing access would reveal evaluative information generated within Penton in connection with a commercially sensitive decision-making process, we may give you an explanation for the commercially sensitive decision rather than direct access to the information. 
+> Where providing access would reveal evaluative information generated within AJB Publishing in connection with a commercially sensitive decision-making process, we may give you an explanation for the commercially sensitive decision rather than direct access to the information. 
 > 
 > If we provide you with such an explanation and you believe that direct access to the evaluative information is necessary to provide a reasonable explanation of the reasons for the decision, we will, at your request, undertake a review of the decision. The review will be undertaken by personnel other than the original decision maker. 
 > 
-> Wherever the provision of direct access is impractical or inappropriate, Penton and you should consider whether the use of mutually agreed intermediaries would allow sufficient access to meet the needs of both parties. 
+> Wherever the provision of direct access is impractical or inappropriate, AJB Publishing and you should consider whether the use of mutually agreed intermediaries would allow sufficient access to meet the needs of both parties. 
 > 
 > If we levy charges for providing access to personal information, those charges will not be excessive and will not apply to lodging a request for access. 
 > 
 > If we hold personal information about you and you are able to establish that the information is not accurate, complete and up to date, we will take reasonable steps to correct the information so that it is accurate, complete and up to date. 
 > 
-> If you and Penton disagree about whether the information is accurate, complete and up to date, and you ask us to associate with the information a statement claiming that the information is not accurate, complete or up to date, we will take reasonable steps to do so. 
+> If you and AJB Publishing disagree about whether the information is accurate, complete and up to date, and you ask us to associate with the information a statement claiming that the information is not accurate, complete or up to date, we will take reasonable steps to do so. 
 > 
 > We will provide reasons for denial of access or correction. 
 > 
@@ -112,8 +122,8 @@
 >  We will not transfer personal data outside Australia unless:  
 >  (a) we reasonably believe that the recipient of the information is subject to a statute, binding scheme or contract which effectively upholds principles for fair information handling that are substantially similar to these rules; or  
 >  (b) you consent to the transfer; or  
->  (c) the transfer is necessary for the performance of a contract between you and Penton, or for the implementation of pre-contractual measures taken in respect to your request; or  
->  (d) the transfer is necessary for the conclusion or performance of a contract concluded in your interest between Penton and a third party; or  
+>  (c) the transfer is necessary for the performance of a contract between you and AJB Publishing, or for the implementation of pre-contractual measures taken in respect to your request; or  
+>  (d) the transfer is necessary for the conclusion or performance of a contract concluded in your interest between AJB Publishing and a third party; or  
 >  (e) the transfer is for your benefit and, whilst it is not practicable to obtain your consent to that transfer, you would give consent if it were practicable; or   
 >  (f) we have taken reasonable steps to ensure that the information which we have transferred will not be collected, held, used or disclosed by the recipient of the information inconsistently with these rules   
 > 
@@ -148,28 +158,27 @@
 >  Should you wish to contact us in relation to any of the information contained within this Privacy Policy, or to seek access to information we may hold on you, you may do so by the following writing to:
 > 
 > **The Privacy Officer  
->  Penton Media Australia Pty Limited  
->  Level 2, 157 Walker Street  
->  North Sydney NSW 2060  
->  Australia**
+>  AJB Publishing  
+>  PO Box 275, Beaconsfield  
+>  NSW 2014, Australia.**
 > 
 > Please enclose a stamped self-addressed envelope in which we will send copies of any personal information held on you.  
 > 
 > 
-> If you need assistance in updating the information you have provided to Penton or you have questions or comments about these policies, contact Penton's Manager of Customer Information Protection at [privacyofficer@penton.com.au](mailto:privacyofficer@penton.com.au)
+> If you need assistance in updating the information you have provided to AJB Publishing or you have questions or comments about these policies, contact AJB Publishing's Manager of Customer Information Protection at [privacy@ajb.com.au](mailto:privacy@ajb.com.au)
 > 
 > You may be required to provide identification prior to us releasing personal information. 
 
-> |  | [ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/content.cfm?ID=2)  
+> |  | [ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=2)  
 ---  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/content.cfm?ID=5)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/govt.cfm?ID=3)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/hardware.cfm?ID=7)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/content.cfm?ID=1)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/content.cfm?ID=8)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/content.cfm?ID=9)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/content.cfm?ID=6)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/software.cfm?ID=10)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/content.cfm?ID=4)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/content.cfm?ID=12)  
-[ ](https://web.archive.org/web/20021210162309id_/http%3A//www.itnews.com.au/win2000.cfm)
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=5)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/govt.cfm?ID=3)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/hardware.cfm?ID=7)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=1)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=8)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=9)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=6)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/software.cfm?ID=10)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=4)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=12)  
+[ ](https://web.archive.org/web/20030628220155id_/http%3A//win2000.cfm)
