@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knotts.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212090542id_/http%3A//knotts.com/Coinfo/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knotts.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610064039id_/http%3A//www.knotts.com/Coinfo/privacy.htm) for the most accurate reproduction.*
 
 # Knott's Berry Farm - Privacy Policy
 
