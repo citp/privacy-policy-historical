@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troybilt.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612034447id_/http%3A//troybilt.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troybilt.com privacy policy that was archived on 2004-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040718051014id_/http%3A//www.troybilt.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Troy-Bilt Tillers, Chipper Shredder Vacuums, Snow Blowers, Mowers
 
