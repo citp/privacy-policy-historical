@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210101959id_/http%3A//pennlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407073113id_/http%3A//www.pennlive.com/privacypolicy) for the most accurate reproduction.*
 
 # PennLive.com: Privacy Policy
 
@@ -63,7 +63,7 @@ Privacy Policy Coordinator
 Harrisburg, PA 17110 
 
 |  |    
-[](http://ads6.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/24895845/SponsorRight/PENNLIVE/PN_SPONSOR/sponsorship_house_NEW2.gif/64316564656561313364663562666330)   
+[](http://ads6.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/714466869/SponsorRight/PENNLIVE/PN_SPONSOR/sponsorship_house_NEW2.gif/64316564656561633365393132393430)   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
 » [Media Kit](https://web.archive.org/mediakit/)  
@@ -72,10 +72,10 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-|  [ ](http://ads1.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1134953099/Sponsor1/PENNLIVE/GIANTFO02PA04/giantfood_premium.gif/64316564656561313364663562666330?1134953099)  
+|  [ ](http://ads1.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/2020004466/Sponsor1/PENNLIVE/WAYPOINT01PN02/waypoint_premiumtile.gif/64316564656561633365393132393430)  
 ---  
   
-[](http://ads6.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/341079847/Tile1/PENNLIVE/PN_COMMUNITY/penn-CC.gif/64316564656561313364663562666330)   
+[](http://ads6.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/604075547/Tile1/PENNLIVE/HERSPARK03PN01/hersheypark_springcon03_TI.gif/64316564656561633365393132393430)   
   
   
 
