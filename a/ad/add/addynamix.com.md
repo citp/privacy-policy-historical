@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the addynamix.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619154214id_/http%3A//www.addynamix.com/publishers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addynamix.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204100639id_/http%3A//www.addynamix.com/publishers/privacy.html) for the most accurate reproduction.*
 
 # AdDynamix Pennyweb Network: Break the Limits...
 
-PENNYWEB, INC.'S PRIVACY STATEMENT [](https://www.truste.org/validate/2434)
+PENNYWEB, INC.'S PRIVACY STATEMENT [](https://www.truste.org/ivalidate.php?url=www.pennyweb.com&sealid=101)
 
 Pennyweb, Inc. is a TRUSTe licensee. The TRUSTe program and certification covers only information that is collected and disseminated through this Web site and does not cover any services or products or information that may be collected through software downloaded from the site.
 
-If users have questions or concerns regarding this statement, they should first contact Privacy by [privacy@pennyweb.com](mailto:privacy@pennyweb.com), (888) 867-3669, 3333 Wilshire Blvd. Ste. 300, Los Angeles, CA 90010. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/users/users_watchdog.html>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact [Privacy](https://www.addynamix.com/company/contact.php?Consumer+Privacy) by, (888) 867-3669, 3333 Wilshire Blvd. Ste. 300, Los Angeles, CA 90010. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<https://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 Pennyweb, Inc. is committed to protecting the privacy of consumers, publishers, and advertisers, and to do our part to maintain the integrity of the Internet. 
 
@@ -28,7 +28,7 @@ Pennyweb, Inc. does not use any personally identifiable data about a client for 
 
 _Personally Identifiable Client Data - Opt-Out_ Because Pennyweb, Inc. is a strong proponent of online privacy we are committed to making sure that clear notice and choice is provided to all clients before any personally identifiable data are used for any purposes other than for what was originally intended. When a client joins Pennyweb, Inc.'s network and registers for Pennyweb, Inc.'s services, personally identifiable information is required as a part of doing business. Pennyweb, Inc.'s primary intent in collecting personally identifiable information is for use in administrative purposes including accounting and payouts.
 
-[View detailed information regarding Pennyweb, Inc. Data Collection practices.](https://web.archive.org/web/20040619154214id_/http%3A//www.addynamix.com/publishers/privacy2.html)
+[View detailed information regarding Pennyweb, Inc. Data Collection practices.](https://web.archive.org/web/20041204100639id_/http%3A//www.addynamix.com/publishers/privacy2.html)
 
 **Web Site Tracking**
 
@@ -42,7 +42,7 @@ Pennyweb, Inc. makes every effort to maintain the security of its network and th
 
 **Access to Data**
 
-Pennyweb, Inc. allows clients who have provided personally identifiable data, access their data to ensure that it is correct and to make any changes at anytime through their Pennyweb customer online account by email [privacy@pennyweb.com](mailto:privacy@pennyweb.com) or calling (888) 867-3669.
+Pennyweb, Inc. allows clients who have provided personally identifiable data, access to their data to ensure that it is correct and to make any changes at anytime through their Pennyweb customer online account by sending an email to [Privacy](https://www.addynamix.com/company/contact.php?Consumer+Privacy) or calling (888) 867-3669.
 
 **Pennyweb Network**
 
@@ -50,7 +50,7 @@ _Pennyweb and Client Website Privacy Policy Statements_ In accordance with the N
 
 _Children's Privacy_
 
-As of April 21, 2000 the children's Online Privacy Protection Act became effective. The regulations apply to the online collection of personal information from children under the age of 13. Pennyweb, Inc. is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. Pennyweb, Inc.'s web site, products, and services are not developed for or directed at children. Our policy is not to permit anyone under the age of 13 to do business with us. If you believe your child has provided Pennyweb, Inc. with any personally identifiable data by registering at Pennyweb, Inc.'s web site, please contact [privacy@pennyweb.com](mailto:privacy@pennyweb.com) to have them removed. We also request that all websites using our advertising network disclose in their privacy statements any and all information regarding the collection of information from children.
+As of April 21, 2000 the children's Online Privacy Protection Act became effective. The regulations apply to the online collection of personal information from children under the age of 13. Pennyweb, Inc. is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. Pennyweb, Inc.'s web site, products, and services are not developed for or directed at children. Our policy is not to permit anyone under the age of 13 to do business with us. If you believe your child has provided Pennyweb, Inc. with any personally identifiable data by registering at Pennyweb, Inc.'s web site, please contact [Privacy](https://www.addynamix.com/company/contact.php?Consumer+Privacy) to have them removed. We also request that all websites using our advertising network disclose in their privacy statements any and all information regarding the collection of information from children.
 
 **Involvement with Industry Partners**
 
@@ -66,14 +66,16 @@ _TRUSTe_ Pennyweb, Inc. is a TRUSTe licensee. For more information on the specif
 
 **Opt-Out of Email Communications from Pennyweb, Inc.**
 
-To opt-out of email communications from Pennyweb, Inc., including promotional, marketing, and/or advertising emails, email [privacy@pennyweb.com](mailto:privacy@pennyweb.com&Subject=UNSUBSCRIBE) with the word "UNSUBSCRIBE" in the subject line. 
+To opt-out of email communications from Pennyweb, Inc., including promotional, marketing, and/or advertising emails, email [Privacy](https://www.addynamix.com/company/contact.php?Consumer+Privacy) with the word "UNSUBSCRIBE" in the message body. 
 
 **Changing Personally Identifiable Information with Pennyweb, Inc.**
 
-Advertisers or Publishers who have filled out any of the online forms for more information or for registration with Pennyweb Network can change their personally identifiable information by emailing [privacy@pennyweb.com](mailto:privacy@pennyweb.com) or calling **Toll Free** (888) 867-3669. Current Publishers can update their information by emailing affiliates@ddynamix.com or by calling Toll Free (888) 867-3669. We will contact you via email or phone to confirm that your information has been updated. 
+Advertisers or Publishers who have filled out any of the online forms for more information or for registration with Pennyweb Network can change their personally identifiable information by emailing [Privacy](https://www.addynamix.com/company/contact.php?Consumer+Privacy) or calling **Toll Free** (888) 867-3669. Current Publishers can update their information by contacting the [Affiliate Network](https://www.addynamix.com/company/contact.php?Affiliate+Network) or by calling Toll Free (888) 867-3669. We will contact you via email or phone to confirm that your information has been updated. 
 
 **Contacting Us**
 
-For more information or if you have questions or concerns regarding Pennyweb, Inc.'s Privacy Statement, please send an e-mail to [privacy@pennyweb.com](mailto:privacy@pennyweb.com), or you can send correspondence to the following address:
+For more information or if you have questions or concerns regarding Pennyweb, Inc.'s Privacy Statement, please send an e-mail to [Privacy](https://www.addynamix.com/company/contact.php?Consumer+Privacy), or you can send correspondence to the following address:
 
 Privacy - Pennyweb, Inc. 3333 Wilshire Blvd., Suite #300 Los Angeles, CA 90010. 
+
+Effective: November 2004 
