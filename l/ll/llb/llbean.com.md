@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607042453id_/http%3A//www.llbean.com/customerService/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208054952id_/http%3A//www.llbean.com/customerService/privacy) for the most accurate reproduction.*
 
 # L.L.Bean: Our Commitment to Privacy
 
 Our Commitment to Privacy  
-We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on September 2, 2003, describes the information we collect and how we use it. 
+We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on June 17, 2004, describes the information we collect and how we use it. 
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -16,18 +16,20 @@ preferences@llbean.com
 
 
 **Information We Collect**  
-We request information from you (including name, address, telephone number, email address and, when necessary, credit card information) when you:
+We may collect information (including name, address, telephone number, email address and, when necessary, credit card information) when you:
 
   * Place an order from our catalogs or on our Web site
   * Make a purchase at one of our Retail Stores
   * Return an item or make an exchange
+  * Inquire about our services
   * Request a catalog
   * Receive a gift package
   * Create an account at llbean.com
   * Subscribe to our Email Newsletter
   * Register for an Outdoor Discovery Schools program
   * Enter a contest or sweepstakes
-  * Participate in a promotional event
+  * Are referred to us through a marketing promotion
+  * Participate in a marketing survey, promotion, or event
 
 
 
@@ -62,13 +64,13 @@ On rare occasions, we may disclose specific information upon governmental reques
  return to top
 
 **Your Choices**  
-We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from L.L.Bean, or prefer to receive them less frequently, please contact us at the address shown below. If you no longer wish to receive our Email Newsletter you also may unsubscribe using the link provided in each edition of the email.
+We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from L.L.Bean or if you prefer to receive them less frequently, please contact us at the address shown below. If you no longer wish to receive our Email Newsletter you also may contact us at the address below or unsubscribe using the link provided in each edition of the email.
 
 If you do not want to receive mailings from other carefully screened companies, please contact us at:
 
 L.L.Bean, Dept. CFM  
 Freeport, ME 04033  
-800-559-0747, ext. 38138  
+800-559-0747, ext. 58138  
 [preferences@llbean.com](mailto:preferences@llbean.com)
 
 Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because we plan our mailings in advance, it may take several weeks for your request to become effective. If, due to human error, you continue to receive our communications, please contact us again and we will make every effort to correct the situation.  
@@ -88,7 +90,7 @@ For example, we use cookies to:
 
 If you set your browser to refuse cookies, please call us at 800-221-4221 to place your order.
 
-We also use pixel tags – tiny graphic images – to tell us what parts of our Web site you have visited or to measure the effectiveness on any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.
+We also use pixel tags – tiny graphic images – to tell us what parts of our Web site you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.
 
 We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than L.L.Bean.  
  return to top
@@ -104,7 +106,7 @@ Occasionally we provide links on our Web site to other sites we think you will e
  return to top
 
 **Updating or Reviewing Your Information**  
-To update your customer information (name, address, telephone number and email address), please contact us at the address shown above. A limited amount of purchase information also may be available to you. To protect your privacy, we will need to validate your identity before you update or review your information.  
+To update your customer information (name, address, telephone number and email address), please contact us at the address above. A limited amount of purchase information also may be available to you. To protect your privacy, we will need to validate your identity before you update or review your information.  
  return to top
 
 **Security**  
