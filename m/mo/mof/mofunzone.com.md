@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofunzone.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613163644id_/http%3A//www.mofunzone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofunzone.com privacy policy that was archived on 2001-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010806084407id_/http%3A//www.mofunzone.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement @ MoFunZone.com
 
