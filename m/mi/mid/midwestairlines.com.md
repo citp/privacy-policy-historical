@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestairlines.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605135746id_/http%3A//www2.midwestexpress.com/privacySec/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestairlines.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810202052id_/http%3A//www2.midwestexpress.com/privacySec/default.asp) for the most accurate reproduction.*
 
 # Midwest Express Airlines - Services
 
@@ -43,4 +43,4 @@ Some of our business partners use cookies on our site (for example, advertisers)
 This Web site contains links to other sites. Please be aware that Midwest Express Airlines is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **How can I access or correct my information**  
-You can access your personal profile to make changes by clicking at any time the [“Manage Personal Profile”](https://web.archive.org/web/20030605135746id_/http%3A//www2.midwestexpress.com/personalize/default.asp) button in the upper right hand corner of the site.
+You can access your personal profile to make changes by clicking at any time the [“Manage Personal Profile”](https://web.archive.org/web/20030810202052id_/http%3A//www2.midwestexpress.com/personalize/default.asp) button in the upper right hand corner of the site.
