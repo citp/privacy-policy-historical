@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2002-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021120214703id_/http%3A//www.newscientist.com/thesite/tsprivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602200109id_/http%3A//www.newscientist.com/thesite/tsprivacy.jsp) for the most accurate reproduction.*
 
 # New Scientist
 
@@ -26,8 +26,7 @@ We may ask for further information about you as part of online surveys or if you
 **6.5 'Cookies' ******  
 We make use of cookies to gather valuable information about how users move around the site. This enables us to understand how the site is used and to make improvements. The information we gather by use of cookies does not include personally indentifying information.  
 In addition, the third party companies who sell and provide advertisements to the site make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of websites, please go to:  
-[www.doubleclick.net/us/corporate/privacy/privacy/](http://www.doubleclick.net/us/corporate/privacy/privacy/)  
-[www.engage.com/privacy](http://www.engage.com/privacy)  
+[www.adtech.info/privacy_en.php](http://www.adtech.info/privacy_en.php)  
    
 **6.6 Statistical information ******  
 Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.   
