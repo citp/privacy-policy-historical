@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagetraffic.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622045646id_/http%3A//www.pagetraffic.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagetraffic.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202214220id_/http%3A//pagetraffic.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # PAGE TRAFFIC PRIVACY POLICY - A Search Engine Optimization Web Promotion Company of india
 
@@ -123,17 +123,8 @@ Consistent with the Federal Children's Online Privacy Protection Act of 1998 (CO
 [](https://web.archive.org/search-engine-positioning.htm) | [Pagetraffic RankPlus](https://web.archive.org/search-engine-ranking.htm)  
 | [Pagetraffic RankOne](https://web.archive.org/search-engine-positioning.htm) **[](https://web.archive.org/search-engine-positioning.htm)**  
 **[Search Engine Registration](https://web.archive.org/search-engine-registration.htm)**  
-**[Link Popularity Campaign](https://web.archive.org/search-engine-popularity.htm)**  
+**[Link Popularity Campaign](https://web.archive.org/link-popularity-service.htm)**  
 **[Pay Per Click Advertising](https://web.archive.org/pay-per-click-marketing.htm)**  
 **[Hire a SEO Consultant](https://web.archive.org/search-engine-optimization-consultants.htm)[](https://web.archive.org/search-engine-positioning.htm)**  
 **[Request a Quote](https://web.archive.org/request-seo-quote.asp)**  
-**[Partner with Us](https://web.archive.org/search-engine-optimization-company.asp)**  
-**[Our SEO Approach](https://web.archive.org/search-engine-optimization-process.htm)**  
----  
-**[Our Recent Success Stories](https://web.archive.org/rank.htm)**  
-| [Success Story 1 ](https://web.archive.org/case-study-1.htm)  
-| [Success Story 2 ](https://web.archive.org/case-study-2.htm)  
-**Latest Rank Reports**  
-****| **[Rank Report 1](https://web.archive.org/rank-report1.htm)**  
-****| **[Rank Report 2](https://web.archive.org/rank-report2.htm)**  
-**[Frequently Asked Questions](https://web.archive.org/faq.htm)**
+**[Partner with Us](https://web.archive.org/search-engine-optimization-company.asp)**
