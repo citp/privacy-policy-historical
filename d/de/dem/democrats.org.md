@@ -1,85 +1,71 @@
-> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605225157id_/http%3A//privacy.yahoo.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2002-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020626211437id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# DNC: Privacy Policy
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com)  
-**Special Topics**  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [Childrens' Privacy Policy](https://web.archive.org/privacy/us/kids/details.html)  
-[All special topics...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Yahoo! Category](http://dir.yahoo.com/Computers_and_Internet/Internet/Policy/Privacy/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
-  
-* * *  
-  
-  |  [](https://www.truste.org/validate/361) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy. Also, please read our [Children's Privacy Policy](http://privacy.yahoo.com/privacy/us/kids/details.html) to learn more about how we treat personally identifiable information collected from children. 
+Democratic National Committee Privacy Policy
 
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for important information about safe surfing from the Federal Trade Commission.**
+At the Democratic National Committee (DNC), we are committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide. 
 
-**What this Privacy Policy Covers**  
+The Democratic Party is continually trying to expand online activism and to give voters the information they need in a timely manner. As a result, we may periodically ask you to provide information such as your name, address, phone number and email address in an effort to enhance our ability to work with you as an online activist. If you choose not to give us any information, we may not be able to provide you with timely information regarding events and issues important to you as a politically interested and active citizen.
 
+The Democratic Party maintains several interconnected websites at any given time. The principal website, democrats.org, is permanent. Other issue-specific websites are created and removed as needed to highlight important national issues and events. All websites owned and operated by the Democratic Party are identified by the text "Paid for by the Democratic National Committee". 
 
-  * This Privacy Policy covers Yahoo!'s treatment of personally identifiable information that Yahoo! collects when you are on the Yahoo! site, and when you use Yahoo!'s services. This policy also covers Yahoo!'s treatment of any personally identifiable information that Yahoo!'s business partners share with Yahoo! or that Yahoo! may collect on a partner's site. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, this policy does not apply to [Yahoo! NetRoadshow](http://www.netroadshow.com/), which has its own privacy policy. 
+Our privacy policy explains the information practices we use at democrats.org and other Democratic Party websites related to:
 
-**Information Collection and Use**  
+How we protect your information
 
+How we use your information
 
-  * Yahoo! collects personally identifiable information when you register for a Yahoo! account, when you use certain [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages, and when you enter [ promotions or sweepstakes](http://privacy.yahoo.com/privacy/us/promo/details.html). Yahoo! may also receive personally identifiable information from our business partners. 
-  * When you register with Yahoo!, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! also automatically receives and records information on our server logs from your browser including your [IP address](http://privacy.yahoo.com/privacy/us/ip/details.html), Yahoo! [cookie](http://privacy.yahoo.com/privacy/us/cookies/details.html) information and the page you requested. 
-  * Yahoo! uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
+How to correct information you provided 
 
-**Information Sharing and Disclosure**  
+How to contact us about privacy 
 
+Our site links to a limited number of other websites. The DNC is not responsible for the content or the privacy policies of these websites.
 
-  * Yahoo! will not sell or rent your personally identifiable information to anyone. 
-  * Yahoo! may send personally identifiable information about you to other companies or people when: 
-    * We have your consent to share the information; 
-    * We need to share your information to provide the product or service you have requested; 
-    * We need to send the information to companies who work on behalf of Yahoo! to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); 
-    * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our web sites violate the [Yahoo! Terms of Service](http://docs.yahoo.com/info/terms/), the [Yahoo! GeoCities Terms of Service](http://docs.yahoo.com/info/terms/geoterms.html), or any of our usage guidelines for specific products or services. 
+This privacy policy may be amended by the DNC at any time without notice other than posting of such amendments on this site.
 
-**Cookies**  
+Our website has security measures in place to protect against the loss, misuse or alteration of the information under our control. Our servers are located in a locked, secure environment.
 
+When you contribute online, the DNC uses state-of-the-art security protocols to protect sensitive data, such as personal information and credit card numbers. The integrity of this data is protected with an HMAC keyed hash. The privacy of this data is ensured with a keyed symmetric encryption algorithm. While this data is being transferred, it is protected by the Secure Sockets Layer (SSL) using a 128-bit signed certificate. Encryption keys are secured by Verisign. For more information on SSL and web security, see [http://www.verisign.com](http://www.verisign.com/).
 
-  * Yahoo! may set and access Yahoo! [cookies](http://privacy.yahoo.com/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! allows [other companies](http://privacy.yahoo.com/privacy/us/adservers/details.html) that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [web beacons](http://privacy.yahoo.com/privacy/us/pixels/details.html) to access our cookies within and outside our network of web sites and in connection with Yahoo! products and services.
+When you volunteer online:
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**  
+Our volunteer forms ask you to give us contact information (such as your name and email address) and geographic information (such as your zip code and state). We use this information to send you customized content about campaigns and to help match your interests to campaign activities. If you provide your phone number, we may call you. If you choose to subscribe to an email newsletter, we use your email address to send you that newsletter. You may remove your email address from that subscriber list by visiting the unsubscribe page for that list.
 
+When you contribute money online:
 
-  * Yahoo! gives you the ability to edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile) and preferences at any time, including whether you want Yahoo! to contact you about specials and new products. 
-  * You may request deletion of your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page, verifying your password once more and confirming your choice to terminate the account. Please [click here](http://privacy.yahoo.com/privacy/us/archives/details.html) to read about what information may possibly remain in our archived records after your account has been deleted.
+We are required by federal law to collect and report to the Federal Election Commission the name, mailing address, occupation and name of employers of individuals whose contributions exceed $200 in a calendar year. These records are available to the public. However, they cannot be used by other organizations for fund raising. For additional information, visit the FEC website at [http://www.fec.gov](http://www.fec.gov/). We also make a note of your telephone number and email address, which helps us to contact you quickly if follow-up on your contribution is necessary under Federal election law.
 
-**Security**  
+When you sign up for one of our mailing lists:
 
+We collect your name, contact information, and email address, and certain other information. We use your email address to send you the email newsletter to which you subscribed. You may remove your email address from that subscriber list by visiting the unsubscribe page for that list.
 
-  * Your Yahoo! Account Information is password-protected for your privacy and security. 
-  * In certain areas Yahoo! uses industry-standard SSL-encryption to protect data transmissions.
+When you fill out one of our surveys:
 
-**Changes to this Privacy Policy**  
+Your opinion matters to the Democratic Party and we want your input. As a result, we use surveys to help us understand which issues you are interested in. These aggregate survey results are used to help inform lawmakers, while individual survey results help us deliver to you customized web content.
 
+Cookies:
 
-  * Yahoo! may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+A cookie is a tiny text file that is stored on your computer by democrats.org. We use cookies to tailor your experience on our site according to the preferences you have specified. When you visit democrats.org and other Democratic Party websites, we only access the cookie file that we have stored on your computer. We cannot and do not access any information stored in a cookie by other, non-DNC, websites. Our cookies do not contain any personal identifiable information.
 
-**Questions or Suggestions**  
+IP Addresses and Log File Data:
 
+We log IP address, which is the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. We also use page hits in the aggregate to track the popularity of pages that people visit in order to improve the quality of the site. There is no personal identifiable information collected in our log files.
 
-  * If you have questions or suggestions complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305). 
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/watchdog.html), an independent privacy organization. 
+Information on Children:
 
+Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 whenever age-related information is requested. 
 
+The DNC will not sell your email address or other personal information to an outside, unaffiliated organization or any unauthorized third parties. 
+
+In order to modify the information you have provided to us, you need to register on the website and be issued a password. With your password to verify your identity, you may access your account securely and add or change your personal information. The DNC encourages all website users to register and take personal responsibility for the quality of the information they provide. Website registration also allows users to take advantage of the full range of online services we offer.
+
+If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site or your interaction with this website, send email to: [webmaster@democrats.org.](mailto:webmaster@democrats.org)
+
+You can also reach us via US Mail at:
+
+Privacy  
+Internet Operations Division  
+Democratic National Committee  
+430 South Capitol St SE  
+Washington, DC 20003
