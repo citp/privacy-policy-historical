@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottostrategies.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207085809id_/http%3A//lottostrategies.com/script/showpage/1001029/b/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottostrategies.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609083700id_/http%3A//www.lottostrategies.com/script/showpage/1001029/b/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LottoStrategies.com
 
