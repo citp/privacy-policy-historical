@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locusmag.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008194432id_/http%3A//locusmag.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locusmag.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610114847id_/http%3A//www.locusmag.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Locus Online: Privacy Policy
 
@@ -28,7 +28,7 @@ This site contains links to other sites. **Locus Online** is not responsible for
 
 **Affiliate Relationships**
 
-**Locus Online** is an [associate](https://web.archive.org/web/20031008194432id_/http%3A//locusmag.com/About/AmazonStatement.html) of [Amazon.com Books](http://www.amazon.com/exec/obidos/redirect-home/locusmagazineA) and a branch of [Amazon.co.uk](http://www.amazon.co.uk/exec/obidos/redirect-home/1898). **Locus Online** earns a commission on products purchased from these websites by customers who link to them from our website. These websites may use cookies to identify you or track your order, but **Locus Online** does not have access to this information. Amazon.com and Amazon.co.uk provide us with reports of products browsed, and purchased, by visitors linking from **Locus Online** , but products are not identified by customer, and the information in these reports is not shared with others. 
+**Locus Online** is an [associate](https://web.archive.org/web/20040610114847id_/http%3A//www.locusmag.com/About/AmazonStatement.html) of [Amazon.com Books](http://www.amazon.com/exec/obidos/redirect-home/locusmagazineA) and a branch of [Amazon.co.uk](http://www.amazon.co.uk/exec/obidos/redirect-home/1898). **Locus Online** earns a commission on products purchased from these websites by customers who link to them from our website. These websites may use cookies to identify you or track your order, but **Locus Online** does not have access to this information. Amazon.com and Amazon.co.uk provide us with reports of products browsed, and purchased, by visitors linking from **Locus Online** , but products are not identified by customer, and the information in these reports is not shared with others. 
 
 **Letters to the Editor**
 
