@@ -1,83 +1,20 @@
-> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412164918id_/http%3A//www.auction.com/modules/browse.asp%3Faction%3Dshowtemplate%26template%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802053554id_/http%3A//www.auction.com/program/privacyPolicy.cfm) for the most accurate reproduction.*
 
-# Auction.com - Everyone's Internet Marketplace
+# Auction.com - Privacy Policy
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of Auction.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
+**Information We Collect.**  
+Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier. 
 
-Auction.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website:
+In general, you can browse our site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information, shipping information and other personal information as indicated on the forms throughout our site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature. 
 
-This site contains links to other sites. Auction.com is not responsible for the privacy practices or the content of such Web sites.
+Under some circumstances we may require some additional financial information, such as, but not limited to: if you are registering using an email account at a free email service, or registering to sell on our site. We use your financial information, including credit card information to verify your name, address, and other information, as well as to bill you for your use of our services. 
 
-Users will receive e-mails regarding their account status with us, however, users may opt-out of receiving future mailings from Auction.com or additional third parties regarding a product or service that Auction.com or third parties may think would be of value to you; see the choice/opt-out section below.
+We automatically track certain information based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. 
 
-**1\. Information Auction.com gathers or tracks.**
+We use data collection devices such as "cookies" on certain pages of our site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing customized services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. (For more information about why we use cookies.) Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our site and you may be required to reenter your password more frequently during a session. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. We do not link IP addresses to anything personally identifiable. This means that a user session will be tracked, but the user will be anonymous. 
+Additionally, you may encounter "cookies" or other similar devices on certain pages of our site that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that web page. We do not control the use of cookies by third parties. 
 
-A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information, such as a user ID and password, which the site may use to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Auction.com uses cookies in only two instances--when you log-in as a Auction.com user and when you click an ad:
+If you choose to bid, buy or sell on our site, we collect information about your bidding, buying and selling behavior. We also collect other users' comments about you in our feedback area. 
 
-Log-in: when you log-in, Auction.com uses a cookie to store your username and password. We do not store any other personal information about you. We use this username and password to identify you in our database but do NOT track the pages you visit on our site. Cookies also enable you, when you log-in, to enter Auction.com as a user without having to log on each time, and to visit member-restricted areas of our site. We encrypt the password for added security. 
-
-Ads: We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, our ad company collects cookies received with banner ads, and we do not have access to this information. These cookies are used by our outside ad company to better track ad impressions and click rates.
-
-Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers (like their username and password), and demographic information (like their zip code, age, or income level). The following items are mandatory information we must gather to complete your registration (indicated by an asterisk on the registration page); an active e-mail address, a user name of your choosing, a desired password, your first name, your last name, your current address (including street, city, state, zip/postal code, and country), and daytime phone number. All additional information gathered by our site during the registration process is optional. The customer's contact information is used to contact the visitor when necessary.
-
-Unique identifiers (such as usernames and passwords) are collected to verify the user's identity. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. Auction.com works with a third party that serves ads to this site. 
-
-**2\. Public Forums**
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-**3\. Security**
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All information, database servers, web servers, and Auction.com's offices are sufficiently protected from third party entrance and information gathering.
-
-**4\. Children's Guidelines**
-
-We do NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity.
-
-Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.
-
-We do NOT collect personally identifiable offline contact information without prior parental consent.
-
-We do NOT distribute to third parties any personally identifiable information with out prior parental consent.
-
-We do NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
-
-We do NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
-
-**5\. Choice/Opt-Out**
-
-Our site provides users the opportunity to opt-out of receiving communications from our partners during the registration process. You may make these choices during the registration process. If you decide to allow third parties to contact you regarding additional products or services that Auction.com or third parties may think would be of value to you, Auction.com is not responsible for removing the information from the third party lists that they have previously authorized you to share with them.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service:
-
-You can send email to [support@auction.com](mailto:support@auction.com) or you can send mail to the following postal address:
-
-Auction.com 3 Barnet Road Pinebrook NJ 07058
-
-**6\. Correct/Update**
-
-This site gives users the following options for changing and modifying information previously provided during registration.
-
-You can send email to [support@auction.com](mailto:support@auction.com) or you can send mail to the following postal address:
-
-Auction.com 3 Barnet Road Pinebrook NJ 07058
-
-**7\. "E-Mail This Page To A Friend"**
-
-A user can choose to electronically forward a web page/site information to someone else by clicking the link at the top of that web page/section. The user must provide their email address, as well as that of the recipient. This information is used ONLY in the case of transmission errors and, of course, to let the recipient know who sent the web page/site information. The information is not used for any other purpose. 
-
-**8\. Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-**Privacy/Customer Service**
-
- **
-
-Auction.com 3 Barnet Road Pinebrook NJ 07058
-
-[privacy@Auction.com.com](mailto:privacy@Auction.com.com)
-
-**
+If you establish a credit account with us to pay the fees we charge, we collect some additional information, including a billing address, a credit card number and a credit card expiration date and tracking information from checks or money orders.
