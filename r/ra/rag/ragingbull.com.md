@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 1999-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991004171433id_/http%3A//www.ragingbull.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520022828id_/http%3A//www.ragingbull.com/privacy.html) for the most accurate reproduction.*
 
 # Raging Bull, Inc has created this privacy statement in order to demonstrate our firm commitment to privacy
 
@@ -8,9 +8,9 @@ Protecting Your Personal Privacy
 
 **
 
-When visiting ragingbull.com, we want you to be assured that we would never compromise your personal privacy or share your personal information with anyone with out first gaining your permission. We have created this statement so you will know why we gather data, how we gather data and what we do with the collect data.
+When visiting ragingbull.com, we want you to be assured that we would never compromise your personal privacy or share your personal information with anyone with out first gaining your permission. We have created this statement so you will know why we gather data, how we gather data and what we do with the collected data.
 
-Raging Bull it a free website and the majority of our revenues are derived from advertising. In order to attract and retain advertisers, we aggregate all personal demographic data and provide the results to advertisers so that they will understand the value of Raging Bull’s members as an advertising audience.
+Raging Bull is a free website and the majority of our revenues are derived from advertising. In order to attract and retain advertisers, we aggregate all personal demographic data and provide the results to advertisers so that they will understand the value of Raging Bull’s members as an advertising audience.
 
 We understand that our number one asset is our members and we will never knowingly do anything to harm the trust you have bestowed on us.
 
@@ -62,4 +62,4 @@ Opting not to participate in certain interactive areas, which completely allevia
 
  ****
 
-Raging Bull offers members the ability to correct or change the information collected during registration. Members who wish to change such information should write, [memberupdate@ragingbull.com](mailto:memberupdate@ragingbull.com).
+Raging Bull offers members the ability to correct or change the information collected during registration. Members who wish to change such information should write, [webmaster@ragingbull.com](mailto:webmaster@ragingbull.com).
