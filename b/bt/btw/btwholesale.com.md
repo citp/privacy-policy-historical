@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the btwholesale.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803123115id_/http%3A//www.btwholesale.com/terms/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btwholesale.com privacy policy that was archived on 2002-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020215030649id_/http%3A//www.btwholesale.com/sections/privacy.asp) for the most accurate reproduction.*
 
-# © BT Wholesale.com | Terms and Conditions, and Privacy Policy
+# BT Wholesale.com | Welcome
 
-|  BT Wholesale.com | Privacy Policy
+| 
 
 | 
 
@@ -78,6 +78,4 @@ Third party Internet sites that you can link to through BTWholesale.com are not 
 
 **Managing your contact with BT Wholesale**
 
-If you would like to stop unsolicited telemarketing calls from BT Wholesale and other companies, please contact BT Wholesale Direct on 0800 671045 and register your telephone number(s). Direct marketing calls should stop after 28 days.  
-  
- 
+If you would like to stop unsolicited telemarketing calls from BT Wholesale and other companies, please contact BT Wholesale Direct on 0800 671045 and register your telephone number(s). Direct marketing calls should stop after 28 days.
