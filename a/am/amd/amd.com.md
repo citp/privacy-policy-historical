@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amd.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204072200id_/http%3A//www.amd.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amd.com privacy policy that was archived on 2001-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010201170400id_/http%3A//www.amd.com/legal/privacy.html) for the most accurate reproduction.*
 
 # AMD - Online Privacy Policy
 
