@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207141837id_/http%3A//familylife.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401155040id_/http%3A//www.familylife.com/about/privacy.asp) for the most accurate reproduction.*
 
 # About FamilyLife: Privacy Statement - FamilyLife - Strengthening families, marriages and relationships
 
@@ -18,7 +18,7 @@ Demographic and profile data may also be collected at our site. We use this data
 **Links** |    
 This site contains links to other sites. **FamilyLife** is not responsible for either the privacy practices or the content of such Web sites.   
 **Public Forums** |    
-This site makes chat rooms and forums available to its users through our partnership with crosswalk.com. **FamilyLife** is not responsible for the content of chat rooms and forums. Please remember that any information that is disclosed in these areas becomes _public information_ and you should exercise caution when deciding to disclose your personal information. A copy of crosswalk.com's privacy policy can be found [here.](http://www.crosswalk.com/info/privacy/)  
+This site makes forums available to its users. **FamilyLife** is not responsible for the content of forums. Please remember that any information that is disclosed in these areas becomes _public information_ and you should exercise caution when deciding to disclose your personal information.  
 **Security** |    
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We utilize industry-standard SSL connections during the product ordering process to ensure that your personal data is encrypted and secure throughout the shopping process.   
 **Choice/Opt-Out** |    
@@ -33,4 +33,4 @@ This site gives users the following options for removing their information from 
 **Correct/Update** |    
 This site gives users the following options for changing and modifying information previously provided. Simply call us at 1-800-FLTODAY.   
 **Contacting the Web Site** |    
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact FamilyLife Attn: Internet Team P.O. Box 7111 Little Rock, AR 72223 1-800-FLTODAY [E-Mail FamilyLife](https://web.archive.org/web/20031207141837id_/http%3A//familylife.com/about/contact.asp)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact FamilyLife Attn: Internet Team P.O. Box 7111 Little Rock, AR 72223 1-800-FLTODAY [E-Mail FamilyLife](https://web.archive.org/web/20040401155040id_/http%3A//www.familylife.com/about/contact.asp)
