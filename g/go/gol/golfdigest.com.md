@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfdigest.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604182656id_/http%3A//golfdigest.com/about/index.ssf%3F/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfdigest.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207193215id_/http%3A//www.golfdigest.com/about/index.ssf%3F/about/privacy.html) for the most accurate reproduction.*
 
 # GolfDigest.com | Custom-Fitted For Your Game
 
@@ -12,7 +12,7 @@ Kids and parents click here!
 
 In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/about/index.ssf?/about/user_agreement.html). Your use of GolfDigest.com constitutes agreement to its terms and conditions.
 
-**GolfDigest.com** is owned and operated by **GolfDigest.com** , an affiliate of The Golf Digest Companies. This policy does not cover information collected on sites linked to from **GolfDigest.com**.
+**GolfDigest.com** is a trademark owned by CondeNet, Inc., an affiliated corporation of the Golf Digest family. This policy does not cover information collected on sites linked to from **GolfDigest.com**.
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of **GolfDigest.com** by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
