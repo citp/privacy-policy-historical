@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405012827id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201233145id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
 
-# USENIX - Privacy Statement
+# USENIX - USENIX/SAGE Membership - Privacy Statement
 
-  |  The following statement discloses The USENIX Association's information gathering and dissemination practices. 
+**Our Privacy Statement**
+
+The following statement discloses The USENIX Association's information gathering and dissemination practices. 
 
 The USENIX Association maintains member databases that contain mailing, billing, and member profile information, as well as a record of each member's product purchases and registrations for conferences. The information in these databases is used by authorized USENIX staff members to process orders; mail invoices, purchases, renewal notices, and announcements; and respond to member inquiries. Member records are maintained as long as an individual is a USENIX member and for three years following a membership lapse. Purchase and registration databases may be retained for up to three years. 
 
@@ -26,7 +28,7 @@ Our site gives you the opportunity to opt out from either receiving email commun
 
 ### Change/Modify
 
-The USENIX site gives users the opportunity to change and modify information previously provided by using the online form found at [ www.usenix.org/membership/membership.html](http://www.usenix.org/membership/membership.html), or by phone: 510 528 8649, fax: 510 548 5738, or email: [office@usenix.org](mailto:office@usenix.org). Note: Information is always updated whenever a new conference registration occurs or upon renewal of a membership. 
+The USENIX site gives users the opportunity to change and modify information previously provided by using the online form found at [ www.usenix.org/membership/](http://www.usenix.org/membership/), or by phone: 510 528 8649, fax: 510 548 5738, or email: [office@usenix.org](mailto:office@usenix.org). Note: Information is always updated whenever a new conference registration occurs or upon renewal of a membership. 
 
 ### Links
 
@@ -34,5 +36,4 @@ This site contains links to other sites. The USENIX Association is not responsib
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the USENIX Association, 2560 Ninth Street, Suite 215, Berkeley, CA 94710 [office@usenix.org](mailto:office@usenix.org).  |    
----|---|---
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the USENIX Association, 2560 Ninth Street, Suite 215, Berkeley, CA 94710 [office@usenix.org](mailto:office@usenix.org). 
