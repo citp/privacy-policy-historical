@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602200506id_/http%3A//www.intermatwrestle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207125504id_/http%3A//www.intermatwrestle.com/privacy.asp) for the most accurate reproduction.*
 
 # InterMat Wrestling: A Click Above The Rest
-
-| 
-
-**Privacy Statement for InterMat Wrestling**
-
-* * *
 
 InterMat Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: InterMat Wrestling.
 
@@ -39,4 +33,7 @@ This site gives users the following options for changing and modifying informati
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   
- Tom Owens [tomo@intermatwrestle.com](mailto:tomo@intermatwrestle.com)
+ 
+
+Tom Owens [tomo@intermatwrestle.com](mailto:tomo@intermatwrestle.com)   
+
