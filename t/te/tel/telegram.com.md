@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217203534id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605184312id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.*
 
 # Worcester Telegram & Gazette Online
 
@@ -38,12 +38,9 @@ OnTheCommon, eWorcester's community publishing site, collects personal informati
 
 Personal information is required to complete any of these transactions. The information is maintained in databases offline by the individual departments.
 
-[eWorcester](http://www.eworcester.com/) | [telegram](http://www.telegram.com/) | [OnTheCommon](http://www.onthecommon.com/) | [Family Sites](http://www.onthecommonfamilies.com/)   
-[Yellow Pages](http://telegram.zip2.com/) | [Classifieds](http://classifieds.telegram.com/) | [The Diner](http://thediner.eworcester.com/webx/cgi-bin/WebX) | [Personals](http://relationshipnetwork.com/relnet/index02.asp?PortalId=50100&client_id=279/)   
-[Weather](http://www.telegram.com/weather/) | [Privacy Policy](http://www.telegram.com/tools/telegram/privacy.html) | [Contact us](http://www.telegram.com/tools/contacts/index.html) [©2001](http://www.telegram.com/tools/telegram/copyright.html) Worcester Telegram & Gazette Corp.
-
-[Order the Telegram & Gazette,  
-delivered daily to your home or office!](http://www.telegram.com/homedelivery/)
-
   
+[Get a printer-friendly version of this page](http://cgi.telegram.com/cgi-bin/ezprint.pl)
 
+[eWorcester](http://www.eworcester.com/) | [telegram](http://www.telegram.com/) | [On the Common](http://www.onthecommon.com/)   
+[Yellow Pages](http://eworcester.switchboard.com/) | [Classifieds](http://classifieds.telegram.com/) | [The Diner](http://thediner.eworcester.com/webx/cgi-bin/WebX) | [Personals](http://worcester.webfriends.com/)   
+[Weather](http://www.telegram.com/weather/) | [Privacy Policy](http://www.telegram.com/tools/telegram/privacy.html) | [Contact us](http://www.telegram.com/tools/contacts/index.html) [©2002](http://www.telegram.com/tools/telegram/copyright.html) Worcester Telegram & Gazette Corp. 
