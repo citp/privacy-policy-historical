@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211215645id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603153010id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
@@ -11,7 +11,7 @@ Unleashed Productions, Inc. has created this privacy statement in order to demon
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
-Our site's guestbook form requires users to give us contact information (like their name and email address). We use customer contact information is used to contact the visitor when necessary. Our Graphics Unleashed Newsletter list is hosted by [Topica](http://www.topica.com/). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Our site's guestbook form requires users to give us contact information (like their name and email address). We use customer contact information is used to contact the visitor when necessary. Our Graphics Unleashed Newsletter list is hosted by [Topica emailpublisher](http://www.email-publisher.com/index.html). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 This site contains links to other sites. **Graphics Unleashed** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -37,11 +37,11 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-You can [Unsubscribe](http://www.topica.com/prefs/controls/unsubscribe.html) here, or send an email to [unleash-unsubscribe@topica.com](mailto:unleash-unsubscribe@topica.com). 
+Each of our newsletters contains a link for unsubscribing or send a blank email to [unleash-unsubscribe@topica.email-publisher.com](mailto:unleash-unsubscribe@topica.email-publisher.com). 
 
 ## Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. 
+This site gives users the following options for changing and modifying information previously provided. Note if you are wanting to change the e-mail address at which you receive the newsletter, please unsubscribe as described above and then re-subscribe with the new address. 
 
   1. email [newsletter@unleash.com](mailto:newsletter@unleash.com)
   2. call the following telephone number: 480/595-0065
@@ -60,8 +60,5 @@ Cave Creek, AZ 85327
 webmaster@unleash.com
 
   
-Last Updated Friday August 10 2001. 
-
-[](http://www.hemera.com/downloads/downloadstrial.htm)   
-[](http://www.amazon.com/exec/obidos/redirect?tag=graphicsunleashe&path=tg/stores/recs/gift-wizard-refine/-/holiday) [](http://www.altman.com/corelworld.htm) [](http://www.amazon.com/exec/obidos/redirect?tag=graphicsunleashe&path=tg/stores/recs/gift-wizard-refine/-/holiday)   
+Last Updated Monday February 04 2002.    
 
