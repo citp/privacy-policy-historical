@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101055632id_/http%3A//amsoil.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173253id_/http%3A//amsoil.com/privacy.htm) for the most accurate reproduction.*
 
 # AMSOIL Privacy Policy
 
