@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204030032id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2005-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050330022328id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
 
 # The Imaging Resource: Privacy Policy
 
@@ -15,4 +15,4 @@ The Imaging Resource collects some non user specific information such as the typ
 Refer it to your family and friends!**  
 
 
-###### **This document copyright © 1998 - 2004, The Imaging Resource, all rights reserved.** Visitors to this site may download this document for _local, private, non-commercial use_. Individuals who have _themselves_ downloaded this page may print a copy on their personal printers for convenience of reading and reference. Other than this explicit usage, it may not be published, reproduced, or distributed in print or electronic and/or digital media without the express written consent of 
+###### **This document copyright © 1998 - 2005, The Imaging Resource, all rights reserved.** Visitors to this site may download this document for _local, private, non-commercial use_. Individuals who have _themselves_ downloaded this page may print a copy on their personal printers for convenience of reading and reference. Other than this explicit usage, it may not be published, reproduced, or distributed in print or electronic and/or digital media without the express written consent of 
