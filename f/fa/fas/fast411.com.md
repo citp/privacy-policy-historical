@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204192135id_/http%3A//fast411.com/%26aft/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606031100id_/http%3A//fast411.com/aft/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information
 
-|  [Directory](http://64.81.35.231/) |  |  [Marketplace](https://web.archive.org/web/20031204192135id_/http%3A//fast411.com/marketplace/index.htm) |  |  [Coupon](http://www.adsavers.net/2267) |  |  **Privacy** |  |  [Travel](http://64.81.35.231/&osl/travel.htm) |   
+|  [Directory](http://64.81.35.231/) |  |  [Marketplace](https://web.archive.org/web/20040606031100id_/http%3A//fast411.com/marketplace/index.htm) |  |  [Coupon](http://www.adsavers.net/2267) |  |  **Privacy** |  |  [Travel](http://64.81.35.231/&osl/travel.htm) |   
 ---|---|---|---|---|---|---|---|---|---|---  
   
 ## Privacy Statement for Fast411.com
@@ -52,5 +52,5 @@ If you have any questions about this privacy statement, the practices of this si
   
 Brian C. Bergström  Fast411 Internet Services 5300 Beach Boulevard Suite 269 Buena Park, CA 90621 [brian@fast411.com](mailto:brian@fast411.com)  
 
-Currently Serving: 4,215,585 web pages. Updated: Thursday, 20 November 2003 08:11  
-All Local Content and Graphics Copyright © **1995-2003** _Fast_ 411 Internet Directory All Rights Reserved
+Currently Serving: 4,215,585 web pages. Site Updated: Fri Jan 31 2020 03:11:15 GMT+0000 (Coordinated Universal Time).   
+All Local Content and Graphics Copyright © **1995-2004** _Fast_ 411 Internet Directory All Rights Reserved
