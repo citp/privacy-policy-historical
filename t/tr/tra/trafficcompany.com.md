@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficcompany.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605042734id_/http%3A//www.trafficcompany.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficcompany.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010051156id_/http%3A//www.trafficcompany.com/privacy.htm) for the most accurate reproduction.*
 
 # TrafficCompany.com
 
