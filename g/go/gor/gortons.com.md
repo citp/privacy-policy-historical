@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202013624id_/http%3A//www.gortons.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204024515id_/http%3A//www.gortons.com/privacy.php) for the most accurate reproduction.*
 
 # Gorton's Privacy Policy
 
@@ -31,6 +31,8 @@ When you provide us with Personal Information, you are authorizing us to use tha
 
 **How We Use Your Information**  
 When you supply Personal Information at this web site or offline, it will be used for the express purpose for which it was collected (e.g., to enter you in a sweepstakes). It may also be used, with your consent, to contact you regarding other products, or Gorton's related information, which may be of interest to you. At any time, however, you may opt out of such future contact. (See "Who to Contact" below.) 
+
+In the course of doing business, we employ other companies and individuals to perform a variety of functions on our behalf. For example, we hire agencies to help administer consumer promotions, to analyze data, to fulfill orders you place, and to provide customer service. These agents may have access to personal information if it is needed to perform their functions for Gorton's; however, they are prohibited from using it for other purposes and they are required to maintain the information in confidence. 
 
 We will not sell, trade, rent or give individually identifying information to third parties. At times we may provide Personal Information and aggregate statistics about our visitors, database entries, web traffic patterns, and related site information we collect on our web site to selected vendors or third parties to analyze solely to help us improve our products and our web sites. Finally, please note that we will release your Personal Information if required to do so by law, or by search warrant, subpoena or court order. 
 
