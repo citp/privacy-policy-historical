@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the virtualave.net privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404071101id_/http%3A//www.virtualave.net/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualave.net privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208173850id_/http%3A//www.virtualave.net/about/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Statement
 
   
+
+
+  
+Have a question?   
+Call us toll free at   
+**1-866-323-8825  **
+
 |  |   
 At VirtualAvenue, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.  
 The Information Collected and How It Is Used   
@@ -17,7 +24,7 @@ The Information Collected and How It Is Used
 Security   
 All data collected at VirtualAvenue is done so with the use of secure servers. The secure server software (SSL) encrypts all payment information you input before it is sent to us. Furthermore, all of the data we collect is protected against unauthorized access.  
 Choice/Opt-Out   
-If one has initially opted-in, our site provides users with the opportunity to opt out of receiving communications from VirtualAvenue and our partners that are not directly related to the services we provide. Please note: VirtualAvenue does reserve the right to send account-related e-mail communications to all active customers. To unsubscribe from VirtualAvenue newsletters and promotional mailings, please update your preferences with our [subscription settings tool](https://web.archive.org/utils/Subscribe.bml) or e-mail us at [VirtualAvenue Customer Support](https://web.archive.org/support/supportForm.bml). If you would like to cancel a VirtualAvenue plan completely, please contact VirtualAvenue Customer Support through our online [support form](https://web.archive.org/support/supportForm.bml).   
+During the registration process, you are provided with the opportunity to opt out of receiving marketing and promotional communications from VirtualAvenue and our partners that are not directly related to the services we provide. VirtualAvenue, its affiliates or partners may use the information associated with your account to contact you with these special offers. To unsubscribe from VirtualAvenue newsletters and promotional mailings, please update your preferences with our [subscription settings tool](https://web.archive.org/utils/Subscribe.bml) or e-mail us at [VirtualAvenue Customer Support](https://web.archive.org/support/supportForm.bml). If you would like to cancel a VirtualAvenue plan completely, please contact VirtualAvenue Customer Support through our online [support form](https://web.archive.org/support/supportForm.bml). Please note: VirtualAvenue reserves the right to send e-mail communications relating directly to their accounts to all active members.   
 Correct/Update   
 To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Members Area. Alternatively, you can contact the VirtualAvenue Customer Support through our online [support form](https://web.archive.org/support/supportForm.bml).  
 Contacting VirtualAvenue   
@@ -28,4 +35,4 @@ If you have any questions about this privacy statement, the practices of this si
 >  Burlington, MA 01803  
 > 
 
-Updated September 10, 2002
+Updated June 23, 2004
