@@ -1,34 +1,30 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218084919id_/http%3A//studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407115933id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
 
 # Student travel deals and cheap airfares
 
-Buy tickets here! Real deals on student flights. 
+Buy tickets here! Real deals on student flights.
 
-Buy a rail pass and travel as the Europeans do. 
+Buy a rail pass and travel as the Europeans do.
 
-Sleep on the cheap. Get a hostel membership. 
-
-Study, intern or work abroad. 
+Study, intern or work abroad.
 
 Destination and travel information. 
 
-International ID’s, phone cards, and currency converter. 
+Phone cards, currency converter, and airport codes.
 
-Protect your health, belongings and travel plans. 
+Protect your health, belongings and travel plans.
 
-New! Spring Break trips. 
+Customer service and company information.
 
-Learn about our company and our affiliate program. 
+View your StudentUniverse shopping cart.
 
-View your StudentUniverse shopping cart. 
+Login to StudentUniverse.
 
-Login to StudentUniverse. 
+Join StudentUniverse.
 
-Join StudentUniverse. 
+Logout of your StudentUniverse account.
 
-Logout of your StudentUniverse account. 
-
-View your StudentUniverse account. 
+View your StudentUniverse account.
 
   
   
