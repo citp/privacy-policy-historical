@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217223500id_/http%3A//www.angelo.edu/publications/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603200219id_/http%3A//www.angelo.edu/publications/legal/privacy_policy.htm) for the most accurate reproduction.*
 
-# Directory Services
+# Privacy Policy
+
+| | 
 
 **Draft **(Until Adopted)
 
@@ -12,8 +14,6 @@ Angelo State University has created this privacy statement in order to demonstra
 We may use your  IP address to help diagnose problems with our server, and to administer our Web site. 
 
 Our site uses forms for students, faculty, staff, and visitors to request information, products, and services. We collect contact information (like email addresses) and unique identifiers (like social security number) for university business such as university registration and/or sending catalogues to potential students. 
-
-We do not use cookies to collect information. ( _Note: A cookie file contains unique information a web site can use to track such things as passwords, lists of pages you've visited, and the date when you last looked at a specific page or to identify your session at a particular web site.)_
 
 If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us this information, we will only use the personally-identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question. 
 
@@ -42,10 +42,4 @@ For site management functions, information is collected for analysis and statist
 **Security  
 **This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-
-> > _Information Technology  
->  Angelo State University  
->  2601 W. Ave. N, San Angelo, TX 76909[  
->  it@angelo.edu](mailto:it@angelo.edu) _
+ 
