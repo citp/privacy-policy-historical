@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/shine411_events.cfm%3Fcontent_id%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/shine411_events.cfm%3Fcontent_id%3Dprivacypolicy) for the most accurate reproduction.*
 
 # SHiNE :: SHiNE 411 :: Events
 
 |    
-|  [](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/shine411.cfm) SHiNE's Privacy Policy 
+|  [](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/shine411.cfm) SHiNE's Privacy Policy 
 
 **Users under the age of 13-years-old:**
 
@@ -50,24 +50,26 @@ Users should be aware that when you are on SHiNE, you may be directed other site
   
 | 
 
-[](http://www.shine.com/cfboards/index.cfm?CFB=1)
+[](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/mingle.cfm)
 
-[_"Why can't I have a conversation with a guy without him looking at my chest?"  
-**\- kt03**_](http://www.shine.com/cfboards/thread.cfm?CFB=1&Tid=16035) |    
+[ _"It's wrong for someone to say a person is un-American just because they don't support the war or agree with the president."_   
+\- **_kylie_**](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/mingle.cfm) |    
   
-[](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/shine_benefit.cfm)  
+[](http://www.mtv.com/onair/ffyr/discrimination/)  
   
   
-|    
-[Find out how you can get involved with the **2nd Annual SHiNE Benefit**.](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/shine_benefit.cfm) |    
+|  [**Fight For Your Rights**  
   
-[](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/challenge_grant.cfm)  
+SHiNE is proud to be a part of **MTV's "Fight for Your Rights** : Take a Stand Against Discrimination" initiative.](http://www.mtv.com/onair/ffyr/discrimination/) |    
   
-|  [**Take the Challenge!**  
-Got a bright idea to better your community? Take the **SHiNE/Youth Venture Challenge!**](https://web.archive.org/web/20021013180717id_/http%3A//www.shine.com/challenge_grant.cfm) |    
   
+|  Start Talkin'! Join the SHiNE Chat every Monday at 4 p.m. and Thursday at 5 p.m. (EST)  |    
   
   
   
   
-[](http://www.upoc.com/shine)
+[](http://www.shine.com/support/)  
+  
+  
+[](http://www.upoc.com/shine)  
+[](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/mingle_im.cfm)
