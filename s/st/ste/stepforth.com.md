@@ -1,34 +1,8 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606121152id_/http%3A//www.stepforth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204040642id_/http%3A//www.stepforth.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: StepForth Placement Inc.
+# Privacy Policy :: Search Engine Placement and Optimization Services :: StepForth Placement Inc.
 
-| 
-
-* * *
-
-Recieve Our Search Engine News Updates!
-
-Enter your email below:
-
-_"StepForth Placement's promotion services have resulted in a substantial increase in player accounts for Planet Poker."_ Rhonda E., Marketing  
-Planet Poker Internet Cardroom
-
-_"StepForth Placement delivers a highly personalized level of service. StepForth staff have gone above and beyond my expectations both in levels of customer service and in the results they have achieved for my website. Thank you StepForth."_
-
-Dean Linnell, Realtor  
-Whistler Real Estate
-
-* * *
-
-[](http://www.iimaonline.org/cimbs.html)
-
-Ross Dunn, CEO of StepForth Placement Inc. is a _[Certified Internet Marketing and Business Strategist](http://www.iimaonline.org/cimbs.html)_. 
-
-| 
-
-## StepForth Placement Privacy Policy
-
-StepForth Placement does not collect information about website visitors for the purpose of selling, sharing or otherwise distributing such information. 
+StepForth Search Engine Placement does not collect information about website visitors for the purpose of selling, sharing or otherwise distributing such information. 
 
 StepForth Placement and its partner companies, [WeDoHosting](http://www.wedohosting.com/), [ITMetacreations](http://www.itmeta.ca/) and [Transitional Media](http://www.transitionalmedia.com/) respect the confidentiality of your personal information. Even so, all websites collect information about website visitors in one way or another. Here is what we do with the information we collect.
 
@@ -45,7 +19,7 @@ StepForth does collect personally identifying information from visitors when the
 This review is written by StepForth staff members. We collect your name, email address, a contact phone number, your website address and the name of your hosting company. We need this identifying information to provide a professional and thorough review of your website and search engine marketing strategy. This information is NOT shared with any outside agency, client or partner. It remains a part of an active file at StepForth for a period of 90 days, at which time the file is deleted (unless the file becomes an active client).
 
 **WebSite Design Review:**  
-This review is conducted by Transitional Media Incorporated staff. (www.transitionalmedia.com) Transitional Media is a professional website design and E-Business development company in Victoria BC. Specializing in small to medium sized businesses, Transitional Media bring a wealth of skills and experience to any project group they work with. Here is a link to the privacy policy posted on their website.  
+This review is conducted by Transitional Media Incorporated staff. (www.transitionalmedia.com) Transitional Media is a professional website design and E-Business development company in Victoria BC. Specializing in small to medium sized businesses, Transitional Media brings a wealth of skills and experience to any project group they work with. Here is a link to the privacy policy posted on their website.  
 <http://www.transitionalmedia.com/legal-privacy.php>
 
 **Webhosting Review:**  
@@ -56,8 +30,3 @@ The website hosting review is conducted by [WeDoHosting](http://www.wedohosting.
 
 **Client Folders:  
 **StepForth compiles the following information in hard-copy client folders; contact names, telephone and fax numbers, business and billing address, contact email addresses, type of business, host server access (ftp) information, a record of all communications between StepForth and the client, and all documents, research, website position reports and other documents relating to the promtion of our client's websites. We have two types of client files, ACTIVE and ARCHIVED. Active client files are available to all office staff members. Archived client files are closed, bound and stored in a lockable filing cabinet for a period of two years. **** We do not share any client information with ANY other company.
-
-Now StepForth and be Found,  
-[Click Here & Choose the Service that is Right For You!](https://web.archive.org/web/20040606121152id_/http%3A//www.stepforth.com/search-engine-placement/index.html)
-
-| 
