@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2000-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001021075351id_/http%3A//www.insurancejournal.com/html/ijweb/main/privacy-po.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2001-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010125063600id_/http%3A//insurancejournal.com/html/ijweb/main/privacy-po.htm) for the most accurate reproduction.*
 
-# InsuranceJournal.com
+# InsuranceJournal.com - Privacy Policy
 
 **InsuranceJournal.com Privacy Policy Statement**
 
@@ -20,18 +20,20 @@ By showing how and when guests use the site, cookies help us see which areas are
 
 Examples of How InsuranceJournal.com Uses Cookies: 
 
-¥ A cookie lets the computers remember that you've registered, which allows us to speed up your future activities at our sites. 
+  * A cookie lets the computers remember that you've registered, which allows us to speed up your future activities at our sites. 
+
+
 
 How InsuranceJournal.com Does Not Use Cookies: 
 
-¥ InsuranceJournal.com never uses cookies to retrieve information from your computer that was not originally sent in a cookie. 
+  * InsuranceJournal.com never uses cookies to retrieve information from your computer that was not originally sent in a cookie. 
+  * Except as described below, InsuranceJournal.com does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. 
+  * InsuranceJournal.com does not use cookies to identify specific individuals, except in such cases as contest registration (where a cookie allows to you to enter a contest every day without registering again each time) and personalization features where a guest requests certain information. 
 
-¥ Except as described below, InsuranceJournal.com does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. 
 
-¥ InsuranceJournal.com does not use cookies to identify specific individuals, except in such cases as contest registration (where a cookie allows to you to enter a contest every day without registering again each time) and personalization features where a guest requests certain information. 
 
 Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site will not function properly if you do so. 
 
 By using this site, you signify your assent to the InsuranceJournal.com Privacy Policy. Wells Publishing Inc. reserves the right to make changes to this privacy statement at its sole discretion without notice to the User. 
 
-© Wells Publishing Inc. All rights reserved. 
+© Wells Publishing Inc. All rights reserved.
