@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816081649id_/http%3A//addfreestats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330225914id_/http%3A//addfreestats.com/privacy.html) for the most accurate reproduction.*
 
 # AddFreeStats - Add Free Web Stats on your internet site
 
