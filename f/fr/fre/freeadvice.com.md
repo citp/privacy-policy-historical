@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203024306id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601120406id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
 
@@ -72,7 +72,7 @@ We reserve the right to change our privacy policy from time to time. If we do ch
 
 If you have any questions about this privacy statement, which is effective March 21, 2001, the practices of this site, or your dealings with this Web site, you can contact
 
-_M. Dinday, Esq., Vice-President  
+_Mary Martin, Vice-President  
 FreeAdvice.com / Advice Company  
 150 Shoreline Highway, Bldg. E   
 PO Box 1739   
