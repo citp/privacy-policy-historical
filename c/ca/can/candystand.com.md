@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candystand.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410102547id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DCandystand) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candystand.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812074430id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DCandystand) for the most accurate reproduction.*
 
 # Privacy
 
