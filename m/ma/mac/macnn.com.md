@@ -1,70 +1,95 @@
-> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603071425id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095914id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
 
 # MacNN | Privacy Policy
 
+Popular Daily
+
+[Apple KB: data loss, cable select, Bluetooth](http://www.macnn.com/news.php?id=17569)
+
+[Apps: Mozilla, LiteSwitch X, NUDC...](http://www.macnn.com/news.php?id=17560)
+
+[Mac addicts saved Apple, mustn't be ignored](http://www.macnn.com/news.php?id=17555)
+
+[Tech: Judge speaks out on Sun vs. MS; AOL 9.0](http://www.macnn.com/news.php?id=17572)
+
+[Apps: Analog, ProjectForum, Agenda...](http://www.macnn.com/news.php?id=17552)
+
+[eMac 'Raster shifting' issue reported](http://www.macnn.com/news.php?id=17548)
+
+Popular Weekly
+
+[Photos from SoHo Day After Thanksgiving Event](http://www.macnn.com/news.php?id=17542)
+
+[The Register: distracting from GHz war](http://www.macnn.com/news.php?id=17540)
+
+[New "Switch" advertisement online](http://www.macnn.com/news.php?id=17534)
+
+[Apps: Moho, DockFun!, Workstrip, Imagebuddy](http://www.macnn.com/news.php?id=17538)
+
+[Mac support for U.S. GPRS networks](http://www.macnn.com/news.php?id=17539)
+
+[Apps: pop-pop 1.0.2, shadowIP 2.0.1, more...](http://www.macnn.com/news.php?id=17532)
+
+Hot Reviews
+
+[ShuttlePRO](http://reviews.macnn.com/review.php?id=31)   
+  
+[iPod Case Roundup](http://reviews.macnn.com/review.php?id=30)   
+  
+[Freeverse Software Classic Cribbage](http://reviews.macnn.com/review.php?id=29)   
+  
+[Wacom Graphire2](http://reviews.macnn.com/review.php?id=28)   
+  
+[Lapvantage Dome](http://reviews.macnn.com/review.php?id=27)   
+  
+[Logitech Elite Keyboard](http://reviews.macnn.com/review.php?id=26)   
+
+
+Most Commented
+
+[Mac addicts saved Apple, mustn't be ignored](http://www.macnn.com/news.php?id=17555)  
+46 Comments
+
+[The Register: distracting from GHz war](http://www.macnn.com/news.php?id=17540)  
+40 Comments
+
+[New "Switch" advertisement online](http://www.macnn.com/news.php?id=17534)  
+25 Comments
+
+[eMac 'Raster shifting' issue reported](http://www.macnn.com/news.php?id=17548)  
+24 Comments
+
+[AMD: AAPL relationship would be "interesting](http://www.macnn.com/news.php?id=17558)  
+22 Comments
+
+[Shreve discontinues Mac parts, used Mac sales](http://www.macnn.com/news.php?id=17512)  
+20 Comments
+
 Top Stories
 
-[Macromedia ships new MX line of design apps](http://www.macnn.com/news.php?id=14428)
+[Macromedia intros Director MX for OS X](http://www.macnn.com/news.php?id=17490)
 
-[Apple offers no-fee FireWire brand license](http://www.macnn.com/news.php?id=14427)
+[Apple releases WebObjects 5.2](http://www.macnn.com/news.php?id=17318)
 
-[Some iMac orders to be filled by new vendor](http://www.macnn.com/news.php?id=14416)
+[Apple releases Mac OS X 10.2.2 update](http://www.macnn.com/news.php?id=17300)
 
-[Apple to exhibit at NECC conference in Texas](http://www.macnn.com/news.php?id=14387)
+[Apple updates SuperDrive firmware](http://www.macnn.com/news.php?id=17273)
 
-[Apple launches Apple Consultants Network](http://www.macnn.com/news.php?id=14383)
+[Apple bumps iBook line, lowers prices](http://www.macnn.com/news.php?id=17245)
 
-[Apple starts new promos in US and Europe](http://www.macnn.com/news.php?id=14357)
+[Apple announces 1GHz Titanium PowerBooks](http://www.macnn.com/news.php?id=17244)
 
-[Netscape posts Netscape 7.0PR1 for review](http://www.macnn.com/news.php?id=14338)
+[Apple snubs IDG, declines to go to Boston](http://www.macnn.com/news.php?id=17036)
 
-[Users: Apple cuts SSL email support](http://www.macnn.com/news.php?id=14325)
+[Apple offers free copy of Jaguar to educators](http://www.macnn.com/news.php?id=17033)
 
-[Reviews on reviews.macnn.com](http://www.macnn.com/news.php?id=14296)
+[Apple provides details on FYQ4 Financials](http://www.macnn.com/news.php?id=17021)
 
-[Apple updates iBook product line](http://www.macnn.com/news.php?id=14277)
+[Apple posts net loss of $45M after charges](http://www.macnn.com/news.php?id=17020)
 
-[Apple posts Final Cut Pro 3.0.2](http://www.macnn.com/news.php?id=14240)
+[QuickTime 6 downloads top 25M in 100 days](http://www.macnn.com/news.php?id=16977)
 
-[Photos from Xserve introduction](http://www.macnn.com/news.php?id=14194)
-
-[Apple introduces XServe dedicated server](http://www.macnn.com/news.php?id=14182)
-
-[Utility offers multiple session burning](http://www.macnn.com/news.php?id=14177)
-
-[Apple expected to introduce new server](http://www.macnn.com/news.php?id=14171)
-
-[Apple launches new Power Mac G4 rebates](http://www.macnn.com/news.php?id=14145)
-
-[webMathematica available for OS X](http://www.macnn.com/news.php?id=14123)
-
-[Apple announces Design Award winners at WWDC](http://www.macnn.com/news.php?id=14122)
-
-[AbiWord 1.0.1: free word processing app](http://www.macnn.com/news.php?id=14119)
-
-[Apple releases iPhoto 1.1.1](http://www.macnn.com/news.php?id=14095)
-
-OS X Stories
-
-[MRJ Plugin 1.0 offers Java support in browser](http://osx.macnn.com/news.php?id=14493)
-
-[Ericsson Client beta has new UI](http://osx.macnn.com/news.php?id=14490)
-
-[KDE available for OS X via Fink](http://osx.macnn.com/news.php?id=14484)
-
-[IPNetTunerX optimizes TCP/IP performance](http://osx.macnn.com/news.php?id=14480)
-
-[Trashcan utility for OS X updated](http://osx.macnn.com/news.php?id=14478)
-
-[MouseWorks 2.0b3 adds simplified app settings](http://osx.macnn.com/news.php?id=14476)
-
-[Full-featured graphic FTP/SSH/SFTP client](http://osx.macnn.com/news.php?id=14474)
-
-[PPTP client for OS X in beta testing](http://osx.macnn.com/news.php?id=14473)
-
-[Shareware utility offers basic scheduling](http://osx.macnn.com/news.php?id=14471)
-
-[ThemeShop 0.5: consumer-oriented theme SW](http://osx.macnn.com/news.php?id=14470)
+[Apple to use 64-bit IBM processors in Macs](http://www.macnn.com/news.php?id=16951)
 
 | 
 
@@ -110,36 +135,28 @@ OS X Stories
 
 * * *
 
-[](http://kermit.macnn.com/?RC=45005267&AI=787&RANDOM=97412377219958)
+[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=38687745080404)
 
-[](http://kermit.macnn.com/?RC=45005268&AI=830&RANDOM=97412377220452)   
+[](http://kermit.macnn.com/?RC=45005268&AI=957&RANDOM=38687745081072)   
 
 
 | 
 
-[](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com)  
+[](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com)  
   
 ---  
   
 **Current Specials:**
 
-**[G4](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com%2F) & [iMac](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com%2Fimacdv.asp%2F) RAM:**  
-512MB - $99, 1Gig - $195, 1.5Gig - $289
+**[G4 DDR](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com%2Fg4ddr.asp) RAM:**  
+256MB - $95, 512MB - $149, 1GB - $295
 
-**[G4 Titanium](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com%2Fpbg4.asp+) RAM:**  
-256MB - $69, 512MB - $199, 1GB - $389
+**[G4](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com%2F), [iMac](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com%2Fimacdv.asp%2F) PC133 RAM:**  
+512MB - $69, 1Gig - $135, 1.5Gig - $199
 
-[**iMac Flat Panel**](http://kermit.macnn.com/?RC=45005269&AI=862&RL=http:%2F%2Fwww.ramjet.com%2Fimacflat.asp) **RAM:**  
-256MB - $69, 512MB - $119, 1Gig - $215
+[**iMac Flat Panel**](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com%2Fimacflat.asp) **RAM:**  
+256MB - $39, 512MB - $75, 1Gig - $139
 
 **1-800-831-4569**  
   
-[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=97412377220620)
-
-[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=97412377221142)
-
-[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=97412377220288)
-
-[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=97412377219956)
-
-[](http://kermit.macnn.com/?RC=45005274&AI=441&RANDOM=97412377221147)
+[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=38687745081437)
