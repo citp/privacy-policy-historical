@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rolltide.com privacy policy that was archived on 2003-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030417025728id_/http%3A//www.rolltide.com/Home/5253.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rolltide.com privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207050458id_/http%3A//www.rolltide.com/Home/5253.asp) for the most accurate reproduction.-->
 
 <html><head><meta name="title" content="Privacy Policy">
 <!--/TITLE-->
@@ -112,11 +112,113 @@ function btnSearch_onClick() {
 
 
 
+<script>
+
+<!--
+
+// name - name of the cookie
+// value - value of the cookie
+// [expires] - expiration date of the cookie (defaults to end of current session)
+// [path] - path for which the cookie is valid (defaults to path of calling document)
+// [domain] - domain for which the cookie is valid (defaults to domain of calling document)
+// [secure] - Boolean value indicating if the cookie transmission requires a secure transmission
+// * an argument defaults when it is assigned null as a placeholder
+// * a null placeholder is not required for trailing omitted arguments
+function setCookie(name, value, expires, path, domain, secure) {
+  var curCookie = name + "=" + escape(value) +
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") +
+      ((secure) ? "; secure" : "");
+  document.cookie = curCookie;
+}
+
+// name - name of the desired cookie
+// * return string containing value of specified cookie or null if cookie does not exist
+function getCookie(name) {
+  var dc = document.cookie;
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) return null;
+  } else
+    begin += 2;
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1)
+    end = dc.length;
+  return unescape(dc.substring(begin + prefix.length, end));
+}
+
+// name - name of the cookie
+// [path] - path of the cookie (must be same as path used to create cookie)
+// [domain] - domain of the cookie (must be same as domain used to create cookie)
+// * path and domain default if assigned null or omitted if no explicit argument proceeds
+function deleteCookie(name, path, domain) {
+  if (getCookie(name)) {
+    document.cookie = name + "=" + 
+    ((path) ? "; path=" + path : "") +
+    ((domain) ? "; domain=" + domain : "") +
+    "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+  }
+}
+
+// date - any instance of the Date object
+// * hand all instances of the Date object to this function for "repairs"
+function fixDate(date) {
+  var base = new Date(0);
+  var skew = base.getTime();
+  if (skew > 0)
+    date.setTime(date.getTime() - skew);
+}
+
+
+
+function loadPopUnderOrNot(sCookieName,sExpireDate,sPopUnderURL)
+{
+	var dExpireDate = new Date(sExpireDate)
+	fixDate(dExpireDate)
+
+
+	if(getCookie(sCookieName)!="true")		
+		{
+			var now = new Date();
+			fixDate(now);
+			
+			if(now > dExpireDate)
+			{	
+				return true;
+			}
+
+			now.setTime(now.getTime() + (365 * 24 * 60 * 60 * 1000 * 10));  //10 years from now
+			setCookie(sCookieName,"true",now,"/")
+
+			var width = '400';
+			var height = '300';
+
+			var p = 'scrollbars=no,resizable=no,toolbar=no,' + 'menubar=no,status=no,location=no,left=1,top=1,height=' + height + ',width=' + width;
+
+			win2=window.open(sPopUnderURL,"popunder",p)
+			win2.blur()
+
+		}
+}
+
+loadPopUnderOrNot("Offered-BamaBookstore-6-10-03","10/13/2003","http://www.rolltide.com/promotions/PopUnder_BamaBookstore.htm")
+// -->
+</script>
+
+
+
+<script src="/scripts/banner.js"></script>
+
+
+
 <!--  End Site Header -->
 
 
 <!-- Begin Section Header -->
-</head><body bgcolor="White" link="990030" alink="990030" vlink="990030" topmargin="5" leftmargin="5" marginheight="5" marginwidth="5"><div class="HEADERCONTENT" id="HC1"><map name="Headerbar"><area shape="RECT" coords="1,1,625,100" href="/"><area shape="RECT" coords="626,1,750,20" href="http://netstile.evenue.net/evenue/se/ubama"><area shape="RECT" coords="626,21,750,40" href="http://www.crimsontradition.com"><area shape="RECT" coords="626,41,750,60" href="http://www.rolltideauction.com/cgi-bin/auction.cgi?action=ShowPage&amp;page=entrypage.html"><area shape="RECT" coords="626,61,750,80" href="Misc/4108.asp"><area shape="RECT" coords="626,81,750,100" href="Home/5254.asp"></map></div>
+</head><body bgcolor="White" link="990030" alink="990030" vlink="990030" topmargin="5" leftmargin="5" marginheight="5" marginwidth="5"><div class="HEADERCONTENT" id="HC1"><map name="Headerbar"><area shape="RECT" coords="1,1,625,100" href="/"><area shape="RECT" coords="626,1,750,20" href="http://netstile.evenue.net/evenue/se/ubama"><area shape="RECT" coords="626,21,750,40" href="http://www.crimsontradition.com"><area shape="RECT" coords="626,41,750,60" href="http://www.rolltideauction.com/cgi-bin/auction.cgi?action=ShowPage&amp;page=entrypage.html"><area shape="RECT" coords="626,61,750,80" href="Home/9034.asp"><area shape="RECT" coords="626,81,750,100" href="Home/5254.asp"></map></div>
 
 
 
@@ -147,51 +249,55 @@ function btnSearch_onClick() {
 <tr>
 <td class="lgray-thinborder-notop" align="left"><img src="images/spacer.gif" width="2"><font class="SideHeader">SPOTLIGHT</font></td></tr>
 <tr>
-<td class="crimson" valign="top" height="56"><img height="50" src="images/spacer.gif" width="5" align="left"><a class="SideLink" href="http://www.crimsontradition.com/">Please join Crimson Tradition to support Alabama facility upgrades!</a></td></tr>
+<td class="crimson" valign="top" height="56"><img height="50" src="images/spacer.gif" width="5" align="left"><a class="SideLink" href="http://www.rolltideauction.com">Check out Roll Tide Auction for great gift ideas, guaranteed for Christmas delivery!</a></td></tr>
 <tr>
-<td class="lgray-thinborder" align="left"><img src="images/spacer.gif" width="2"><font class="SideHeader">SPORTS</font></td></tr>
+<td class="lgray-thinborder" align="left"><img src="http://www.rolltide.com/images/spacer.gif" width="2"><font class="SideHeader">SPORTS</font></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Baseball/default.asp">BASEBALL</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Baseball/default.asp">BASEBALL</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Mens%20Basketball/default.asp">BASKETBALL (M)</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Mens%20Basketball/default.asp">BASKETBALL (M)</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Womens%20Basketball/default.asp">BASKETBALL (W)</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Womens%20Basketball/default.asp">BASKETBALL (W)</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Football/default.asp">FOOTBALL</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Football/default.asp">FOOTBALL</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Mens%20Golf/default.asp">GOLF (M)</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Mens%20Golf/default.asp">GOLF (M)</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Womens%20Golf/default.asp">GOLF (W)</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Womens%20Golf/default.asp">GOLF (W)</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Gymnastics/default.asp">GYMNASTICS</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Gymnastics/default.asp">GYMNASTICS</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Soccer/default.asp">SOCCER</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Soccer/default.asp">SOCCER</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Softball/default.asp">SOFTBALL</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Softball/default.asp">SOFTBALL</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Swimming/default.asp">SWIMMING/DIVING</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Swimming/default.asp">SWIMMING/DIVING</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Mens%20Tennis/default.asp">TENNIS (M)</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Mens%20Tennis/default.asp">TENNIS (M)</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Womens%20Tennis/default.asp">TENNIS (W)</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Womens%20Tennis/default.asp">TENNIS (W)</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Mens%20Track/default.asp">TRACK &amp; FIELD (M)</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Mens%20Track/default.asp">TRACK &amp; FIELD (M)</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Womens%20Track/default.asp">TRACK &amp; FIELD (W)</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Womens%20Track/default.asp">TRACK &amp; FIELD (W)</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Volleyball/default.asp">VOLLEYBALL</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltide.com/Volleyball/default.asp">VOLLEYBALL</a></td></tr>
 <tr>
-<td class="crimson"><img height="6" src="images/spacer.gif"></td></tr>
+<td class="crimson"><img height="6" src="http://www.rolltide.com/images/spacer.gif"></td></tr>
 <tr>
-<td class="lgray-thinborder" align="left"><img src="images/spacer.gif" width="2"><a class="SideHeader" href="AthleticDepartment/5496.asp">ATHLETIC DEPT</a></td></tr>
+<td class="lgray-thinborder" align="left"><img src="images/spacer.gif" width="2"><font class="SideHeader">DEPARTMENTS</font></td></tr>
+<tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="AthleticDepartment/default.asp">Athletic Department</a></td></tr>
+<tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="A%20Club/default.asp">A Club</a></td></tr>
 <tr>
 <td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="CASS/default.asp">Academics</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Administration/default.asp">Administration</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Calendar/default.asp">Athletic Calendar</a></td></tr>
 <tr>
 <td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="CT%20Sports%20Network/5653.asp">Audio/Video</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Bryant%20Museum/default.asp">Bryant Museum</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="http://bryant.ua.edu/">Bryant Museum</a></td></tr>
 <tr>
 <td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Camps%20and%20Clinics/default.asp">Camps &amp; Clinics</a></td></tr>
 <tr>
@@ -199,15 +305,17 @@ function btnSearch_onClick() {
 <tr>
 <td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Compliance/default.asp">Compliance</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Facilities/5075.asp">Crimson Tradition</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Development/default.asp">Development</a></td></tr>
 <tr>
 <td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Facilities/default.asp">Facilities</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="CT%20Sports%20Network/4433.asp">Radio/Television</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Marketing/default.asp">Marketing/Licensing</a></td></tr>
+<tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="CT%20Sports%20Network/default.asp">Radio/Television</a></td></tr>
 <tr>
 <td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Cheerleaders/default.asp">Spirit Squads</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Staff%20Directory/4437.asp">Staff Directory</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="Staff%20Directory/default.asp">Staff Directory</a></td></tr>
 <tr>
 <td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="http://netstile.evenue.net/evenue/se/ubama">Ticket Office</a></td></tr>
 <tr>
@@ -230,19 +338,10 @@ function btnSearch_onClick() {
 
 
 <tr>
-<td class="crimson" align="middle">
-		<a href="http://www.rolltide.com/admentor/admentorredir.asp?id=128&amp;way=ban"><img src="/admentor/images/charter_125.gif" alt="" border="0" width="125" height="45"></a>
-</td></tr>
-
-
-<tr>
-<td class="crimson" align="middle">
-		
-</td></tr>
+<td class="crimson" align="middle"><script>gBannerMgr.ShowBanner(BannerMgr.Zone1)</script><br><a class="SideLink" href="http://www.rolltide.com/promotions/apga_2003.asp">Win Tickets from APGA!</a><br><img src="images/spacer.gif" height="4" width="1"><br><a class="SideLink" href="http://www.totalsportstravel.com/packages.cfm?packageid=7734C1D6-F04A-4B3E-903DE25130A636BD&amp;sport=Football">Cruisin' with the Tide</a><br><img src="images/spacer.gif" height="4" width="1"><br><a class="SideLink" href="http://www.SouthernEagleMortgage.com">Southern Eagle Mortgage</a></td></tr>
 
 
 
-<!-- /TILE AD -->
 
 
 <tr>
@@ -256,21 +355,21 @@ function btnSearch_onClick() {
 <div class="HEADERCONTENT" id="HC3"><table cellspacing="0" cellpadding="0" width="100%" border="0">
 <tbody>
 <tr>
-<td class="lgray-thinborder" align="left"><img src="images/spacer.gif" width="2"><font class="SideHeader">OTHER UA SITES</font></td></tr>
+<td class="lgray-thinborder" align="left"><img src="http://www.rolltide.com/images/spacer.gif" width="2"><font class="SideHeader">LINKS</font></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="http://www.ua.edu/">Univ of Alabama</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.ua.edu/">Univ of Alabama</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="http://www.crimsontradition.com/">Crimson Tradition</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.crimsontradition.com/">Crimson Tradition</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltideauction.com/">Roll Tide Auction</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.rolltideauction.com/">Roll Tide Auction</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="http://www.markgottfried.com/">MarkGottfried.com</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.markgottfried.com/">MarkGottfried.com</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="http://www.gymtide.com/">GymTide.com</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.gymtide.com/">GymTide.com</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="http://alumni.ua.edu/">Alumni Association</a></td></tr>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://alumni.ua.edu/">Alumni Association</a></td></tr>
 <tr>
-<td class="crimson-thinborder-notop" valign="top"><img src="images/spacer.gif" width="8"><a class="SideLink" href="http://www.uamdba.org/mdb/">Million Dollar Band</a></td></tr></tbody></table></div>
+<td class="crimson-thinborder-notop" valign="top"><img src="http://www.rolltide.com/images/spacer.gif" width="8"><a class="SideLink" href="http://www.uamdba.org/mdb/">Million Dollar Band</a></td></tr></tbody></table></div>
 </td></tr></tbody></table>
 
 
@@ -287,7 +386,7 @@ function btnSearch_onClick() {
 <td width="485" bgcolor="WHITE" valign="TOP" align="center">
 
 <!--- BEGIN ROTATING BANNER AD SECTION --->
-<img src="images/spacer.gif" width="6"><br><a href="http://www.rolltide.com/admentor/admentorredir.asp?id=120&amp;way=ban"><img src="/admentor/images/CrimsonTradition1.gif" alt="Join Crimson Tradition" border="0" width="468" height="60"></a><br><img src="images/spacer.gif" width="7"><br>
+<img src="images/spacer.gif" width="6"><br><script>gBannerMgr.ShowBanner(BannerMgr.Zone0)</script><br><img src="images/spacer.gif" width="7"><br>
 <!--- END ROTATING BANNER AD SECTION --->
 
 
@@ -341,7 +440,7 @@ function btnSearch_onClick() {
 
 <!--- BEGIN ROTATING BANNER AD SECTION --->
 <!--
-<img src="images/spacer.gif" width=6><br><a href="http://www.rolltide.com/admentor/admentorredir.asp?id=122&way=ban"><img src="/admentor/images/honda.gif" alt="" border=0 width="468" height="60"></a><BR>
+<img src="images/spacer.gif" width=6><br><script>gBannerMgr.ShowBanner(BannerMgr.Zone1)</script><BR>
 -->
 <!--- END ROTATING BANNER AD SECTION --->
 
@@ -383,27 +482,14 @@ if (browser == "Microsoft Internet Explorer") {
 
 
 
-
 <!-- TILE ADS -->
 <tr><td class="crimson-thinborder" align="left"><img src="images/spacer.gif" width="2"><font class="SideLink">SPONSORS</font></td></tr>
 <tr><td class="lgray"><img src="images/spacer.gif" width="130" height="2"></td></tr>
+<tr><td class="lgray" align="center" valign="middle"><script>gBannerMgr.ShowBanner(BannerMgr.Zone1)</script><br><font class="SideHeader"><a href="http://www.rolltide.com/promotions/apga_2003.asp">Win Tickets from APGA!</a></font><br><img src="images/spacer.gif" height="4" width="1"><br><font class="SideHeader"><a href="http://www.totalsportstravel.com/packages.cfm?packageid=7734C1D6-F04A-4B3E-903DE25130A636BD&amp;sport=Football">Cruisin' with the Tide</a></font><br><img src="images/spacer.gif" height="4" width="1"><br><font class="SideHeader"><a href="http://www.southerneagleMortgage.com">Southern Eagle Mortgage</a></font></td></tr>
 
-
-
-
-<tr><td class="lgray" align="center" valign="middle">
-		<a href="http://www.rolltide.com/admentor/admentorredir.asp?id=128&amp;way=ban"><img src="/admentor/images/charter_125.gif" alt="" border="0" width="125" height="45"></a>
-</td></tr>
-
-<tr><td class="lgray" align="center" valign="middle">
-		
-</td></tr>
-
-
-<tr><td class="lgray"><img src="images/spacer.gif" width="130" height="6"></td></tr>
-
-
-
+<tr><td class="lgray" align="middle"><img height="6" src="images/spacer.gif"></td></tr>
+<tr><td class="crimson-thinborder" align="left"><img src="images/spacer.gif" width="2"><font class="SideLink">BAMA STORE</font></td></tr>
+<tr><td class="lgray" valign="top" align="middle"><img src="images/spacer.gif" width="2"><br><font class="SideHeader"><strong><script>gBannerMgr.ShowBanner(BannerMgr.Zone2)</script></strong></font></td>
 
 
 <!-- /TILE ADS -->
@@ -415,133 +501,28 @@ if (browser == "Microsoft Internet Explorer") {
 
 
 
-</tbody></table>
+</tr></tbody></table>
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
 <tbody>
 <tr>
-<td class="crimson-thinborder" align="left" colspan="2"><img src="images/spacer.gif" width="2"><font class="SideLink">BAMA MEMORABILIA</font></td></tr>
-<tr>
-<td class="lgray" valign="top" align="middle" colspan="2">
-<p align="center"><img src="images/spacer.gif" width="2"><br><font class="SideHeader"><strong><a href="http://www.rolltideauction.com/cgi-bin/auction.cgi?action=ShowPage&amp;page=entrypage.html"><img height="125" alt="RollTideAuction graphic" hspace="0" src="images/8817.gif" width="125" align="None" border="1"><br>Bid on great new<br>items today!</a></strong></font></p></td></tr>
-<tr>
 <td class="lgray" align="middle" colspan="2"><img height="6" src="images/spacer.gif"></td></tr>
 <tr>
-<td class="crimson-thinborder" align="left" colspan="2"><img src="images/spacer.gif" width="2"><font class="SideLink">2003 SEC&nbsp;CHAMPIONS</font></td></tr>
+<td class="crimson-thinborder" align="left" colspan="2"><img src="images/spacer.gif" width="2"><font class="SideLink">FAN ZONE</font></td></tr>
 <tr>
 <td class="lgray" valign="top" align="middle" colspan="2">
-<p align="center"><img src="images/spacer.gif" width="2"><br><font class="SideHeader"><strong><a href="Gymnastics/8099.asp"><img height="94" alt="2003 SEC Champions thumb" hspace="0" src="images/12469.jpg" width="125" align="None" border="1"><br>Alabama Gymnastics:<br>2003 SEC Champions</a></strong></font></p></td></tr>
-<tr>
-<td class="lgray" align="middle" colspan="2"><img height="6" src="images/spacer.gif"></td></tr><!-----TR>
-<TD class=crimson-thinborder align=left colSpan=2><IMG src="images/spacer.gif" width=2><FONT class=SideLink>2003 NCAA CHAMPION</FONT></TD></TR>
-<TR>
-<TD class=lgray align=middle colSpan=2>
-<P align=center><FONT class=SideHeader><A href="Swimming/8101.asp"><IMG height=95 alt="Stefan Ghergel NCAAs thumb" hspace=0 src="images/7565.jpg" width=125 align=None border=1><BR><STRONG>2003 NCAA 200 Butterfly Champion<BR>Stefan Ghergel</A></STRONG></P></FONT></TD></TR>
-<TR>
-<TD class=lgray align=middle colSpan=2><IMG height=6 src="images/spacer.gif"></FONT></TD></TR----->
-<tr>
-<td class="crimson-thinborder" align="left" colspan="2"><img src="images/spacer.gif" width="2"><font class="SideLink">LIVE EVENTS</font></td></tr>
-<tr>
-<td class="lgray" width="2"><img height="1" src="images/spacer.gif" width="2"></td>
-<td class="lgray">
-<p><font class="DateText"><font color="black">BASE vs. S. Alabama<br>Wed, Apr 16, 6:00 pm<br><img height="13" alt="Audio Clip" hspace="0" src="http://www.rolltide.com/images/8735.gif" width="16" align="None" border="0"><a href="http://playlist.yahoo.com/makeplaylist.dll?id=1165654&amp;segment=101377"><font color="#990030">Live Audio</font></a><br><font size="1">»</font><a href="http://roll.tide.ua.edu/stats/baseball/live/xlive.htm">Live Statistics</a></font></font><font class="DateText"><font color="black"><font size="1"> 
-</font></font></font></p><hr width="100%" color="black" height="1"><font class="DateText"><font color="black"><font size="1">
-WTEN vs. Miss. State<br>SEC Tournament<br>Thu, Apr 17, 8:00 am<br>Knoxville, TN<br>»</font><a href="http://utladyvols.ocsn.com/extras/03ten_sec_m1.html"><font color="#990030" size="1">Live Scoring</font></a><font size="1"> 
-<hr width="100%" color="black" height="1">
-</font><font size="1">MTEN vs. Miss. State<br>SEC Tournament<br>Thu, Apr 17, 11 am<br>Oxford, MS<br>»<a href="http://olemisssports.ocsn.com/sports/m-tennis/spec-rel/03sectourn.html"><font color="#990030">Live Scoring</font></a></font> 
-<hr width="100%" color="black" height="1">
-<font size="1">WGOLF SEC Champ.<br>Lexington, KY<br>April 18-20<br>»<a href="http://www.golfstat.com/"><font color="#990030">Live Stats &amp; Scoring</font></a></font><font color="#0000ff"> 
-<hr width="100%" color="black" height="1">
-</font>BASE at Ole Miss<br>Fri, Apr 18, 6:30 pm<br><img height="13" alt="Audio Clip" hspace="0" src="http://www.rolltide.com/images/8735.gif" width="16" align="None" border="0"><font color="#990030"><a href="http://playlist.yahoo.com/makeplaylist.dll?id=1165655&amp;segment=101378">Live Audio</a><br></font><font color="#000000" size="1">»</font><a href="http://livestats.olemisssports.ocsn.com/livestats/data/m-basebl/177366/">Live Statistics</a> 
-<hr width="100%" color="black" height="1">
-BASE at Ole Miss<br>Sat, Apr 19, 4:00 pm<br><img height="13" alt="Audio Clip" hspace="0" src="http://www.rolltide.com/images/8735.gif" width="16" align="None" border="0"><a href="http://playlist.yahoo.com/makeplaylist.dll?id=1165656&amp;segment=101379"><font color="#990030">Live Audio</font></a><br><font size="1">»</font><a href="http://livestats.olemisssports.ocsn.com/livestats/data/m-basebl/177367/">Live Statistics</a><br>
-<hr width="100%" color="black" height="1">
-BASE at Ole Miss<br>Sun, Apr 20, 1:30 pm<br><img height="13" alt="Audio Clip" hspace="0" src="http://www.rolltide.com/images/8735.gif" width="16" align="None" border="0"><a href="http://playlist.yahoo.com/makeplaylist.dll?id=1165657&amp;segment=101380"><font color="#990030">Live Audio</font></a><br><font size="1">»</font><a href="http://livestats.olemisssports.ocsn.com/livestats/data/m-basebl/177368/">Live Statistics</a></font></font></td></tr>
-<tr>
-<td class="lgray" align="middle" colspan="2"><img height="6" src="images/spacer.gif"></td></tr>
-<tr>
-<td class="crimson-thinborder" align="left" colspan="2"><img src="images/spacer.gif" width="2"><font class="SideLink">MESSAGE TO VENDORS</font></td></tr>
+<p align="center"><img src="images/spacer.gif" width="2"><br><font class="SideHeader"><strong>
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
 <tr>
 <td class="lgray" valign="top" align="middle" colspan="2">
-<p align="center"><img src="images/spacer.gif" width="2"><br><font class="SideHeader"><strong><a href="AthleticDepartment/7634.asp"><img height="75" alt="Rendering Gateway thumb" hspace="0" src="images/7364.jpg" width="100" align="None" border="1"><br>Vendors Supporting Alabama Athletics</a></strong></font></p></td></tr>
+<p align="center"><a href="http://www.rolltideauction.com/"><img height="65" alt="Tile Roll Tide Auction" hspace="0" src="http://www.rolltide.com/images/14568.gif" width="125" align="None" border="0"></a><br><img src="http://www.rolltide.com/images/spacer.gif" width="2"><br><a href="http://www.crimsontradition.com/"><img height="65" alt="Tile Crimson Tradition" hspace="0" src="images/14873.gif" width="125" align="None" border="0"></a><br><img src="http://www.rolltide.com/images/spacer.gif" width="2"><br><a href="http://pa.yahoo.com/*http://us.rd.yahoo.com/evt=10895/*http://media.yahoo.com/ncaa/sp/aaf/"><img height="65" alt="Tile Yahoo Live Audio" hspace="0" src="http://www.rolltide.com/images/14569.gif" width="125" align="None" border="0"></a><br><img src="http://www.rolltide.com/images/spacer.gif" width="2"><br><a href="http://netstile.evenue.net/evenue/se/ubama"><img height="65" alt="Tile Buy Tickets" hspace="0" src="http://www.rolltide.com/images/14563.gif" width="125" align="None" border="0"></a><br><img src="http://www.rolltide.com/images/spacer.gif" width="2"><br><a href="files/14655.pdf"><img height="65" alt="Tile Booster Guide" hspace="0" src="images/14599.gif" width="125" align="None" border="0"></a><br><img src="http://www.rolltide.com/images/spacer.gif" width="2"><br><font class="SideHeader"><strong><a href="http://www.rolltide.com/Misc/default.asp"><img height="65" alt="Tile Events Calendar" hspace="0" src="http://www.rolltide.com/images/14565.gif" width="125" align="None" border="0"></a><br><img src="http://www.rolltide.com/images/spacer.gif" width="2"><br></strong><a href="Home/9546.asp"><img height="65" alt="Tile Current Weather" hspace="0" src="images/14964.gif" width="125" align="None" border="0"></a></font></p></td></tr>
 <tr>
-<td class="lgray" align="middle" colspan="2"><img height="6" src="images/spacer.gif"></td></tr>
-<tr>
-<td class="crimson-thinborder" align="left" colspan="2"><img src="images/spacer.gif" width="2"><font class="SideLink">FACILITY UPGRADES</font></td></tr>
-<tr>
-<td class="lgray" align="middle" colspan="2"><a href="Facilities/5075.asp"><img src="images/ctsplash.gif" width="126" border="0"><br><img src="images/bryanthall.jpg" width="126" border="0"></a></td></tr>
-<tr>
-<td class="lgray" align="left" colspan="2"><font face="verdana" size="1"><strong>&nbsp;»</strong><strong><a href="Facilities/5075.asp">Campaign Overview</a></strong><br><strong>&nbsp;»</strong><a href="http://www.crimsontradition.com/Information%20Pages/557.asp"><strong>How Can I Help?</strong></a></font></td></tr>
-<tr>
-<td class="lgray" align="middle" colspan="2"><img height="6" src="images/spacer.gif"></td></tr><!-----------TR>
+<td class="lgray" align="middle" colspan="2"><img height="20" src="http://www.rolltide.com/images/spacer.gif"></td></tr><!----------TR>
 <TD class=crimson-thinborder align=left colSpan=2><IMG src="images/spacer.gif" width=2><FONT class=SideLink>CURRENT WEATHER</FONT></TD></TR>
 <TR>
 <TD class=lgray align=middle colSpan=2><A href="http://www.wunderground.com/US/AL/Tuscaloosa.html"><IMG alt="Click for Tuscaloosa, Alabama Forecast" src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/US/AL/Tuscaloosa.gif" width=125></A> </TD></TR>
 <TR>
-<TD class=lgray align=middle colSpan=2><IMG height=6 src="images/spacer.gif"></FONT></TD></TR----------->
-<tr>
-<td class="crimson-thinborder" align="left" colspan="2"><img src="images/spacer.gif" width="2"><font class="SideLink">RANKINGS</font></td></tr>
-<tr>
-<td class="lgray" align="middle" colspan="2">
-<table cellspacing="0" cellpadding="0" width="95%" border="0">
-<tbody>
-<tr>
-<td width="80%"><font class="DateText"><font color="black"><b><a href="Baseball/4412.asp">Baseball</a></b></font></font></td>
-<td width="*"><font class="DateText"><font color="black">21</font></font></td></tr><!---TR>
-<TD><FONT class=DateText><FONT color=black><B><A href="Mens%20Basketball/4413.asp">M Basketball</A></B></FONT></FONT></TD>
-<TD><FONT class=DateText><FONT color=black>NR</FONT></FONT></TD></TR---><!---TR>
-<TD><FONT class=DateText><FONT color=black><B><A href="Womens%20Basketball/4414.asp">W Basketball</A></B></FONT></FONT></TD>
-<TD><FONT class=DateText><FONT color=black>NR</FONT></FONT></TD></TR--->
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Football/4101.asp">Football</a></b></font></font></td>
-<td><font class="DateText"><font color="black">11</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Gymnastics/4415.asp">Gymnastics</a></b></font></font></td>
-<td><font class="DateText"><font color="black">5</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Mens%20Golf/4416.asp">M Golf</a></b></font></font></td>
-<td><font class="DateText"><font color="black">22</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Womens%20Golf/4417.asp">W Golf</a></b></font></font></td>
-<td><font class="DateText"><font color="black">42</font></font></td></tr><!---TR>
-<TD><FONT class=DateText><FONT color=black><B><A href="Soccer/4418.asp">Soccer</A></B></FONT></FONT></TD>
-<TD><FONT class=DateText><FONT color=black>NR</FONT></FONT></TD></TR--->
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Softball/4419.asp">Softball</a></b></font></font></td>
-<td><font class="DateText"><font color="black">16</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Swimming/4420.asp">M Swimming</a></b></font></font></td>
-<td><font class="DateText"><font color="black">12</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Swimming/4420.asp">W Swimming</a></b></font></font></td>
-<td><font class="DateText"><font color="black">15</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Mens%20Tennis/4421.asp">M Tennis</a></b></font></font></td>
-<td><font class="DateText"><font color="black">15</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Womens%20Tennis/4422.asp">W Tennis</a></b></font></font></td>
-<td><font class="DateText"><font color="black">20</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Mens%20Track/4423.asp">M Track (in)</a></b></font></font></td>
-<td><font class="DateText"><font color="black">21</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Mens%20Track/4423.asp">M Track (out)</a></b></font></font></td>
-<td><font class="DateText"><font color="black">11</font></font></td></tr>
-<tr>
-<td><font class="DateText"><font color="black"><b><a href="Mens%20Track/4423.asp">M X Country</a></b></font></font></td>
-<td><font class="DateText"><font color="black">28</font></font></td></tr><!---TR>
-<TD><FONT class=DateText><FONT color=black><B><A href="Womens%20Track/4424.asp">W Track (in)</A></B></FONT></FONT></TD>
-<TD><FONT class=DateText><FONT color=black>NR</FONT></FONT></TD></TR---><!---TR>
-<TD><FONT class=DateText><FONT color=black><B><A href="Womens%20Track/4424.asp">W Track (out)</A></B></FONT></FONT></TD>
-<TD><FONT class=DateText><FONT color=black>NR</FONT></FONT></TD></TR---><!---TR>
-<TD><FONT class=DateText><FONT color=black><B><A href="Womens%20Track/4424.asp">W X Country</A></B></FONT></FONT></TD>
-<TD><FONT class=DateText><FONT color=black>NR</FONT></FONT></TD></TR---><!---TR>
-<TD><FONT class=DateText><FONT color=black><B><A href="Volleyball/4425.asp">Volleyball</A></B></FONT></FONT></TD>
-<TD><FONT class=DateText><FONT color=black>NR</FONT></FONT></TD></TR--->
-<tr>
-<td class="lgray" valign="top" colspan="2">
-<p align="left"><font class="DateText"><font color="black"></font></font>&nbsp;</p></td></tr></tbody></table></td></tr>
-<tr>
-<td class="lgray" align="middle" colspan="2"><img height="6" src="images/spacer.gif"></td></tr></tbody></table></td></tr></tbody></table>
+<TD class=lgray align=middle colSpan=2><IMG height=6 src="images/spacer.gif"></FONT></TD></TR--------></tbody></table></strong></font></p></td></tr></tbody></table></td></tr></tbody></table>
 
 
 
@@ -557,7 +538,7 @@ BASE at Ole Miss<br>Sun, Apr 20, 1:30 pm<br><img height="13" alt="Audio Clip" hs
 <!--- BEGIN FOOTER -->
 <table width="750" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr><td align="CENTER">
-<div class="FOOTERCONTENT" id="FC2"><br><img height="2" src="images/blackfiller.gif" width="750"><br><font class="BodyText"><a href="search.asp">Search News</a> | <a href="Home/5250.asp">Frequently Asked Questions</a> | <a href="Home/5251.asp">Feedback</a> | <a href="Home/5252.asp">Advertisers</a> | <a href="Home/5253.asp">Privacy Policy</a>&nbsp;| <a href="Home/5686.asp">Trademark Licensing</a><br><br></font><font face="verdana" color="black" size="1">RollTide.com is the official web site of University of Alabama Intercollegiate Athletics.<br>Copyright © 2002, <a href="http://www.ua.edu/">The University of Alabama</a>. All rights reserved.<br>No part of this site may be reproduced without written permission.<br>This web site is powered by UniversityST, a <a href="http://www.daxko.com/">DAXKO</a> product. </font></div><font face="verdana" color="black" size="1">
+<div class="FOOTERCONTENT" id="FC2"><br><img height="2" src="images/blackfiller.gif" width="750"><br><font class="BodyText"><a href="search.asp">Search News</a> | <a href="Home/5250.asp">Frequently Asked Questions</a> | <a href="Home/9050.asp">Site Map</a> | <a href="Home/5251.asp">Feedback</a> | <a href="Home/5252.asp">Advertisers</a> | <a href="Home/5253.asp">Privacy Policy</a><br><br></font><font face="verdana" color="black" size="1">RollTide.com is the official web site of University of Alabama Intercollegiate Athletics.<br>Copyright © 2002, <a href="http://www.ua.edu/">The University of Alabama</a>. All rights reserved.<br>No part of this site may be reproduced without written permission.<br>This web site is powered by UniversityST, a <a href="http://www.daxko.com/">DAXKO</a> product. </font></div><font face="verdana" color="black" size="1">
 
 </font></td></tr></tbody></table>
 <!--- END FOOTER --->
