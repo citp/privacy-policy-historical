@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201801id_/http%3A//www.peopleclick.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801095836id_/http%3A//www.peopleclick.com/policy) for the most accurate reproduction.*
 
 # Peopleclick. Online Privacy Statement.
 
