@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203073427id_/http%3A//www.ombwatch.org/article/articlestatic/490/1/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216214355id_/http%3A//www.ombwatch.org/article/articleview/490) for the most accurate reproduction.*
 
 # OMB Watch - Privacy Statement
 
+  
+
+
 Privacy Statement
-
-* * *
-
-» [About Us](https://web.archive.org/article/archive/7/?PHPSESSID=e41e9e834197f4d4cfd24c74c36bd752)
-
-* * *
 
 We respect your right to privacy! Any and all personally identifiable information collected at this site will not be sold or rented, or otherwise disclosed for commercial purposes or activities not consistent with the mission of this organization except pursuant to judicial order. Users or subscribers will receive no cookies (unless it is beyond our control), charges, or downloads from us unless voluntarily agreed to by the user. Any personally identifiable information you give OMB Watch such as your name, address,telephone number, etc., will be held with the utmost care, and will only be used in ways that are consistent with the mission of this organization. A more detailed explanation about how we care for your personal information is described below. If you have any questions, [please let us know](mailto:ombwatch@ombwatch.org).
 
@@ -20,5 +17,6 @@ To protect your email privacy, we configure our mail servers to refuse relays an
 
 We allow individuals to use our RTK NET databases at no charge. We encourage users to identify who they are in order to encourage their participation in policy matters consistent with the mission of this organization. We do not intentionally permit user access privileges to mass mailers or re-mailers.
 
+  
   
 
