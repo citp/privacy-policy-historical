@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203204740id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicy.asp%3FwPg%3D1015%26wSec%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625115638id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicy.asp%3FwPg%3D1015%26wSec%3D8) for the most accurate reproduction.*
 
 # NADAguides.com Privacy Policy
 
@@ -12,12 +12,12 @@ NADAguides.com uses "cookies" throughout our Web site. A cookie is a very small 
 **Privacy Policies**  
 NADAguides.com collects various user information depending on what area of our Web site the user is visiting. For example if a user wants to purchase a guidebook we will collect their name, mailing address, credit card information, etc.. However, if the user just wants to look up a vehicle price, we collect the user's zip code (only for demographic purposes). No personal identifiable information is collected. Additionally, we have a voluntary customer survey which collects demographic information from the user. We have broken down our site into 6 different sections which collect various user information; and created 6 unique privacy policies which explain what information is collected within each section. Each of the 6 policies are listed below.  
   
-  * **[General Policy](https://web.archive.org/web/20021203204740id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyGeneralSite.asp?UserID=064B3463C36&DID=37593&wSec=8&wPg=1015)**
-  * **[Vehicle Value Policy](https://web.archive.org/web/20021203204740id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyVehicleValue.asp?UserID=064B3463C36&DID=37593&wSec=8&wPg=1015)**
-  * **[Shop Cart Policy](https://web.archive.org/web/20021203204740id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyShopCart.asp?UserID=064B3463C36&DID=37593&wSec=8&wPg=1015)**
-  * **[Optional Customer Survey](https://web.archive.org/web/20021203204740id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicySurvey.asp?UserID=064B3463C36&DID=37593&wSec=8&wPg=1015)**
-  * **[Standard Image Link Sign-Up Policy](https://web.archive.org/web/20021203204740id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyStandardImageLink.asp?UserID=064B3463C36&DID=37593&wSec=8&wPg=1015)**
-  * **[Customer Feedback (Contact Us) Policy](https://web.archive.org/web/20021203204740id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyContactUs.asp?UserID=064B3463C36&DID=37593&wSec=8&wPg=1015)**
+  * **[General Policy](https://web.archive.org/web/20030625115638id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyGeneralSite.asp?UserID=54072711B5313&DID=37797&ColorId=&wSec=8&wPg=1015)**
+  * **[Vehicle Value Policy](https://web.archive.org/web/20030625115638id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyVehicleValue.asp?UserID=54072711B5313&DID=37797&ColorId=&wSec=8&wPg=1015)**
+  * **[Shop Cart Policy](https://web.archive.org/web/20030625115638id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyShopCart.asp?UserID=54072711B5313&DID=37797&ColorId=&wSec=8&wPg=1015)**
+  * **[Optional Customer Survey](https://web.archive.org/web/20030625115638id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicySurvey.asp?UserID=54072711B5313&DID=37797&ColorId=&wSec=8&wPg=1015)**
+  * **[Standard Image Link Sign-Up Policy](https://web.archive.org/web/20030625115638id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyStandardImageLink.asp?UserID=54072711B5313&DID=37797&ColorId=&wSec=8&wPg=1015)**
+  * **[Customer Feedback (Contact Us) Policy](https://web.archive.org/web/20030625115638id_/http%3A//www3.nadaguides.com/SiteInfo/PrivacyPolicyContactUs.asp?UserID=54072711B5313&DID=37797&ColorId=&wSec=8&wPg=1015)**
 
   
 **Dispute Resolution and Privacy Seals**  
