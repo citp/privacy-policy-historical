@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hdfcsec.com privacy policy that was archived on 2001-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010408030642id_/http%3A//www.hdfcsec.com/General/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hdfcsec.com privacy policy that was archived on 2001-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010813050454id_/http%3A//hdfcsec.com/General/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="description" content="HDFC securities' services comprise on-line buying and selling of equity shares on the National Stock Exchange (NSE) and the Bombay stock Exchange (BSE) over the internet.
@@ -9,6 +9,8 @@ www.HDFCsec.com will provide the most useful investment guidance and investment-
 <title>HDFC Securities Limited </title>
 <style type="text/css">
 <!--
+.tdbg {background-color:red}
+.tdbg:Hover{background-color:white}
 .new {  color: #FFFF66; text-decoration: none}
 .grey {  color: #666666; text-decoration: none}
 .darkgrey { color: black; text-decoration:none; font-family: Arial, Helvetica, sans-serif; font-size: 9pt}
@@ -19,7 +21,7 @@ a.new:Hover{color:white}
 .black {  color: black; text-decoration: none;Font-Family:Verdana}
 .white {  color: #FFFFFF; text-decoration: none; Font-Family:Arial}
 a.cream {  color: #ffffff; text-decoration: none; Font-Family:Arial}
-a.cream:hover{  color: #ffffca; text-decoration: none; Font-Family:Arial}
+a.cream:hover{  color: #ffffff; text-decoration: none; Font-Family:Arial}
 A.registration
 {
     COLOR: #ffffff;
@@ -75,6 +77,18 @@ INPUT {
 }
 //-->
 </style>
+<style type="text/css">
+<!--
+.toplinks {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #000099; text-decoration: none}
+.sublinks {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: normal; color: #000099; text-decoration: none}
+.headlinks {  font-family: Arial; font-size: 9pt; font-weight: normal; color: #000000; text-decoration: none}
+.headlinkswhite {  font-family: Arial; font-size: 8pt; font-weight: bold; color: #ffffff; text-decoration: none}
+a.headlinkswhite:hover {  font-family: Arial; font-size: 8pt; font-weight: bold; color: #ffffff; text-decoration: none}
+.headlinksblue  {  font-family: Arial; font-size: 9pt; font-weight: normal; color: #000080; text-decoration: none}
+.headlinksbluesmall  {  font-family: Arial; font-size: 8pt; font-weight: normal; color: #000080; text-decoration: none}
+
+-->
+</style>
 <script language="JavaScript">
 
 <!--
@@ -87,38 +101,48 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <script language="JavaScript">
 ns=window.navigator.appName == "Netscape";
 ie=window.navigator.appName == "Microsoft Internet Explorer";
-no_of_elements=5;
+no_of_elements=7;
 screenheight=window.screen.height;
 screenwidth=window.screen.width;
 largerscreen=false;
 if (screenwidth>800)
 {
    largerscreen=true;
-}  
+}
 function openIt(x) {
-
 if(ns) {
 showbox= document.layers[x+1];
 showbox.visibility = "show";
-showbox.top=59;
+showbox.top=65;
 switch(x)
 {
 case 1:
-   
-   showbox.left=(largerscreen?70:10);  
- break;
+   //showBox.style.left=(largerscreen?5:5);
+   showbox.left=screen.availWidth*10/100;
+	break;
 case 2:
-   showbox.left=(largerscreen?250:150);  
+	showbox.left=screen.availWidth*26/100;
  break;
 case 3:
-	showbox.left=(largerscreen?400:270);
+	showbox.left=screen.availWidth*42/100;
  break;
  case 4:
-	showbox.left=(largerscreen?725:525);
- break; 
+	showbox.left=screen.availWidth*58/100;
+ break;
+  case 5:
+	showbox.left=screen.availWidth*(largerscreen?42:31)/100;
+ break;
+ case 6:
+	showbox.left=screen.availWidth*(largerscreen?35:20)/100;
+ break;
+ case 7:
+	showbox.left=screen.availWidth*(largerscreen?78:72)/100;
+ break;
+
 }
 
 var items = no_of_elements;
+var tdno;
 for (i=1; i<=items; i++) {
 elopen=document.layers[i];
 if (i != (x + 1)) {
@@ -129,29 +153,34 @@ if(ie) {
 curEl = event.toElement;
 showBox = document.all.box[x];
 showBox.style.visibility = "visible";
-showBox.style.top = 59;
+showBox.style.top = 65;
 switch(x)
 {
 case 1:
-   
-   showBox.style.left=(largerscreen?70:10);  
- break;
+   //showBox.style.left=(largerscreen?5:5);
+	showBox.style.left=screen.availWidth*10/100;
+	break;
 case 2:
-   showBox.style.left=(largerscreen?250:150);  
- break;
+	showBox.style.left=screen.availWidth*26/100;
+	break;
 case 3:
-	showBox.style.left=(largerscreen?400:270);
- break;
+	showBox.style.left=screen.availWidth*42/100;
+	break;
  case 4:
-	showBox.style.left=(largerscreen?725:525);
- break; 
+	showBox.style.left=screen.availWidth*58/100;
+	break;
+ case 5:
+	showBox.style.right=screen.availWidth*16/100;
+	break;
+ case 6:
+	showBox.style.right=screen.availWidth*0/100;
+	break;
 }
-
 var items = no_of_elements;
 for (i=0; i<items; i++) {
 elOpen=document.all.box[i];
 barEl=document.all.mnubar[i];
- if (i != x){ 
+ if (i != x){
 elOpen.style.visibility = "hidden";
 //barEl.style.color = "white"
  }
@@ -164,12 +193,36 @@ for (i=0; i<items; i++) {
 if(ie){
 document.all.box[i].style.visibility = "hidden";
  barEl=document.all.mnubar[i];
-//barEl.style.color = "black" 
+//barEl.style.color = "black"
 }
  if(ns){ document.layers[i+1].visibility = "hide";}
 }
 }
 </script>
+<script language="JavaScript">
+<!--
+function bcolor(tdno)
+{
+var no_of_td=document.all.td1.length;
+if (document.all)
+{
+ for(i=0;i<no_of_td;i++)
+	{
+		var thestyle= eval ('document.all.td1['+i+'].style');
+		if(i==tdno)
+		{	
+			thestyle.backgroundColor='#b70000';
+		}
+		else
+		{	
+			thestyle.backgroundColor='#000099';
+		}	
+	}
+ }
+}
+//-->
+</script>
+
 <script language="javascript">
 function dosubmit()
 {
@@ -178,380 +231,418 @@ function dosubmit()
 }
 
 </script>
-
 </head>
 
 <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="100%" border="0" cellspacing="1" cellpadding="1" vspace="0" hspace="0" name="Top Navigation Links" height="37" bordercolor="#CCCCFF">
-  <tbody><tr> 
-    <td height="32" colspan="4" bgcolor="#cc3333" width="75%"> 
-      <table border="0" cellspacing="0" cellpadding="0" vspace="0" hspace="0" width="100%">
-        <tbody><tr> 
-          <td align="left" valign="center" bgcolor="#ffffff" width="28%" height="33"><img height="37" src="/images/site_navigation/logo_redbox.gif" width="40"><img height="34" src="/images/site_navigation/logo_hdfctext.gif" width="182"></td>
-          <td align="left" valign="center" bgcolor="#ffffff" width="72%" height="33" nowrap=""> 
-            <div align="right"><font size="1"><a class="blue" href="/index.asp"><font face="Arial, Helvetica, sans-serif"><b>Home</b></font></a> 
-              <b><font face="Arial, Helvetica, sans-serif" color="#cc3333">|</font></b></font><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font size="1"><a class="blue" href="/personalisation/personalisationd.asp"><font face="Arial, Helvetica, sans-serif"><b> 
-              My HDFCsec </b></font></a></font></font></font></font></font><b><font face="Arial, Helvetica, sans-serif"><font size="1" color="#cc3333">|</font></font></b> 
-              <b><font face="Arial, Helvetica, sans-serif"><a class="blue" href="/General/aboutus.asp"> 
-              <font size="1">About Us</font></a><font size="1" color="#cc3333"> 
-              | </font></font> <font face="Arial, Helvetica, sans-serif"><a class="blue" href="/General/contactus.asp"><font size="1">Contact 
-              Us</font></a><font size="1" color="#cc3333">&nbsp;|</font> <a class="blue" href="/Faq/FAQMain.asp"> 
-              </a></font><font face="Arial, Helvetica, sans-serif" size="1"><a class="blue" href="/General/disclaimer.asp">Disclaimer</a></font>&nbsp; </b></div>
-            <table width="100%" border="0">
-              <tbody><tr> 
-                <td height="18" nowrap="" width="100%"> 
-                  <div align="right"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><a class="blue" href="/search.asp"><font size="1"></font></a><font size="1"><a class="blue" href="/personalisation/personalisationd.asp"><font face="Arial, Helvetica, sans-serif"><b> 
-                    </b></font></a> <b><font face="Arial, Helvetica, sans-serif"><a class="blue" href="/Faq/FAQMain.asp"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"></font></b></font></font></font></font></a></font></b></font></font><b><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><a class="blue" target="_self" href="#" onclick="MM_openBrWindow('/News/ticker.asp','w1','resizable=yes,width=790 ,height=20')"><font size="1">Ticker</font></a><font size="1" color="#cc3333"> 
-                    </font></font><font face="Arial, Helvetica, sans-serif"> <font size="1"> 
-                    <font color="#cc3333">|</font></font></font></b></font></font></font></font><font size="1"> 
-                    <a class="blue" href="/Faq/FAQMain.asp">FAQs</a></font> <font size="1"> 
-                    <font color="#cc3333">|</font> <a class="blue" href="/Glossary/glossarymain.asp"> Glossary 
-                    </a></font><font color="#cc3333" size="1">| </font><a class="blue" href="/search.asp"><font color="#000080" size="1"> 
-                    </font></a><a class="blue" href="/general/communities.asp"><font size="1">Communities 
-                    </font></a></b></font><b><font face="Arial, Helvetica, sans-serif" color="#cc3333" size="1">|</font><font face="Arial, Helvetica, sans-serif" color="#cc3333" size="1"> 
-                    </font><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"> 
-                    <b><font face="Arial, Helvetica, sans-serif"><a class="blue" href="#" onclick="MM_openBrWindow('/News/ticker.asp','w1','resizable=yes,width=790 ,height=20')"> 
-                    </a></font><font face="Arial, Helvetica, sans-serif"><font size="1"> 
-                    <a class="blue" href="/search.asp"> Search </a></font></font></b></font></font></font></font><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font size="1"><b><font face="Arial, Helvetica, sans-serif" color="#cc3333">|</font></b></font></font></font></font></font> 
-                    <font face="Arial, Helvetica, sans-serif" color="#cc3333" size="1"><a class="blue" href="/General/sitemap.asp">Site Map</a></font></b></font></font></div>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-          
-        </tr>
-      </tbody></table>
+<table width="100%" border="0" cellspacing="1" cellpadding="1" vspace="0" hspace="0" name="Top Navigation Links" height="37" bordercolor="#ccccff">
+<tbody><tr>
+	<td height="32" colspan="4" bgcolor="#cc3333" width="75%"> 
+		<table border="0" cellspacing="0" cellpadding="0" vspace="0" hspace="0" width="100%">
+		<tbody><tr> 
+		<td align="left" valign="center" bgcolor="#ffffff" width="28%" height="33"><img height="37" src="/images/site_navigation/logo_redbox.gif" width="40"><img height="34" src="/images/site_navigation/logo_hdfctext.gif" width="182"></td><td align="left" valign="center" bgcolor="#ffffff" width="72%" height="33" nowrap="">
+<div align="right"><font size="1"><a class="blue" href="/index.asp"><font face="Arial, Helvetica, sans-serif"><b>Home</b></font></a>
+<b><font face="Arial, Helvetica, sans-serif" color="#cc3333">|</font></b></font><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font size="1"><a class="blue" href="/personalisation/personalisationd.asp"><font face="Arial, Helvetica, sans-serif"><b>
+My HDFCsec </b></font></a></font></font></font></font></font><b><font face="Arial, Helvetica, sans-serif"><font size="1" color="#cc3333">|</font></font></b>
+<b><font face="Arial, Helvetica, sans-serif"><a class="blue" href="/General/aboutus.asp">
+<font size="1">About Us</font></a><font size="1" color="#cc3333"> | </font></font>
+<font face="Arial, Helvetica, sans-serif"><a class="blue" href="/General/contactus.asp"><font size="1">Contact
+Us</font>&nbsp;</a> <!--
+<font size=1 color="#cc3333">&nbsp;|</font> </font>
 
-    </td>
-    <td width="25%" bgcolor="#B50000"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="LightGrey">
-        <form name="formquote" method="post" action="/news/quotelist.asp" target="listwin"></form>
-          <tbody><tr valign="bottom"> 
-            <td height="40" valign="bottom"> 
-              <div align="left"><font face="arial" size="1" color="#B50000"><b>&nbsp;GET</b></font><br>
-                <select name="choice" style="FONT-SIZE: 9pt">
-                  <option value="quote" selected="">Quote</option>
-                  <option value="chart">Chart</option>
-                  <option value="news">News</option>
-                  <option value="background">Background</option>
-                </select>
-              </div>
-            </td>
-            <td height="40" bordercolor="#FFFFFF"> 
-              <div align="left"><font face="arial" size="1" color="#B50000"><b>&nbsp;SCRIP</b></font><br>
-                <input type="text" name="company" size="8" maxlength="15">
-              </div>
-            </td>
-            <td height="40" bordercolor="#FFFFFF"> 
-              <div align="center"> 
-                <input type="button" name="Submit" value="Go" onclick="dosubmit();">
-              </div>
-            </td>
-          </tr>
-        
-      </tbody></table>
-    </td>
-  </tr></tbody></table>
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="1"><A CLASS=blue
+                  HREF="/careers/CareerMain.asp">Careers</A></FONT>
+-->                  
+                  </font></b></div><font face="Arial, Helvetica, sans-serif"><table width="100%" border="0">
+<tbody><tr> <td height="18" nowrap="" width="100%"> <div align="right"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><a class="blue" href="/search.asp"><font size="1"></font></a><font size="1"><a class="blue" href="/personalisation/personalisationd.asp"><font face="Arial, Helvetica, sans-serif"><b>
+</b></font></a> <b><font face="Arial, Helvetica, sans-serif"><a class="blue" href="/Faq/FAQMain.asp"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"></font></b></font></font></font></font></a></font></b></font></font><b><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><a class="blue" onclick="MM_openBrWindow('/News/ticker.asp','w1','resizable=yes,width=790  ,height= 20')" href="#" target="_self"><font size="1">Ticker</font></a><font size="1" color="#cc3333">
+</font></font><font face="Arial, Helvetica, sans-serif"> <font size="1"> <font color="#cc3333">|</font></font></font></b></font></font></font></font><font size="1">
+<a class="blue" href="/Faq/FAQMain.asp">FAQs</a></font> <font size="1"> <font color="#cc3333">|</font> <a class="blue" href="/Glossary/glossarymain.asp"> Glossary
+</a></font><font color="#cc3333" size="1">| </font><a class="blue" href="/search.asp"><font color="#000080" size="1">
+</font></a></b></font><b><font face="Arial, Helvetica, sans-serif" size="1"><a class="blue" href="/General/disclaimer.asp">Disclaimer</a></font> <font face="Arial, Helvetica, sans-serif" color="#cc3333" size="1">|</font><font face="Arial, Helvetica, sans-serif" color="#cc3333" size="1">
+</font><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif">
+<b><font face="Arial, Helvetica, sans-serif"><a class="blue" onclick="MM_openBrWindow('/News/ticker.asp','w1','resizable=yes,width=790 ,height= 20')" href="#">
+</a></font><font face="Arial, Helvetica, sans-serif"><font size="1"> <a class="blue" href="/search.asp">
+Search </a></font></font></b></font></font></font></font><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font face="Arial, Helvetica, sans-serif"><font size="1"><b><font face="Arial, Helvetica, sans-serif" color="#cc3333">|</font></b></font></font></font></font></font>
+<font face="Arial, Helvetica, sans-serif" color="#cc3333" size="1"><a class="blue" href="/General/sitemap.asp">Site Map</a></font></b></font></font></div></td></tr>
+</tbody></table></font></td></tr> </tbody></table></td><td width="25%" bgcolor="#b50000"> <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="lightgrey">
+<form name="formquote" method="post" action="/news/quotelist.asp" target="listwin"></form> <tbody>
+<tr valign="bottom"> <td height="40" valign="bottom"> <div align="left"><font face="arial" size="1" color="#b50000"><b>&nbsp;GET</b></font><br>
+<select name="choice" style="FONT-SIZE: 9pt"> <option value="quote" selected="">Quote</option>
+<option value="chart">Chart</option> <!--<option value="news">News</option>--> <option value="background">Background</option>
+</select> </div></td><td height="40" bordercolor="#ffffff"> <div align="left"><font face="arial" size="1" color="#b50000"><b>&nbsp;SCRIP</b></font><br>
+<input name="company" size="8" maxlength="15"> </div></td><td height="40" bordercolor="#ffffff">
+<div align="center"> <input type="button" name="Submit" value="Go" onclick="dosubmit();">
+</div></td></tr> </tbody></table></td></tr></tbody></table>
+
 <table width="100%" border="0" cellspacing="1" cellpadding="1" vspace="0" hspace="0">
-  <tbody><tr bgcolor="#b70000"> 
-    <td width="17%" height="11"> 
-      <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b><a class="cream" href="https://trade.hdfcsec.com/" id="mnubar" onmouseover="closeIt()" target="_parent">Trading 
-        Zone </a></b></font></div>
-    </td>
-    <td width="17%" height="11"> 
-      <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b><a class="cream" href="/mktcommentry/marketcommentary.asp" id="mnubar" onmouseover="openIt(1)">Capital 
-        Market</a></b></font></div>
-    </td>
-    <td width="16%" height="11"> 
-      <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b><a class="cream" href="/research/reindex.asp" id="mnubar" onmouseover="openIt(2)">Research 
-        </a></b></font></div>
-    </td>
-    <td width="16%" bgcolor="#b70000" height="11"> 
-      <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b><a class="cream" href="/InvBasics/invest_basics.asp" id="mnubar" onmouseover="openIt(3)">Investments</a> 
-        </b></font></div>
-    </td>
-    <td width="17%" height="11"> 
-      <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b><a class="cream" href="/budgetnew/BudgetMain.asp" id="mnubar" onmouseover="closeIt()"> 
-        Budget 2001 - 02</a></b></font></div>
-    </td>
-    <td width="17%" height="11"> 
-      <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><b><a class="cream" href="/News/mainpage.asp" id="mnubar" onmouseover="openIt(4)"> 
-        News &amp; Features</a></b></font></div>
+<tbody><tr bgcolor="#000099"> 
+
+	<td width="10%" height="11" id="td1" onmouseover="bcolor(0);closeIt();"> 
+		<div align="center">
+			<font class="headlinkswhite">
+				<b><a class="headlinkswhite" id="mnubar" onmouseover="closeIt()" href="https://trade.hdfcsec.com" target="_parent">Trade</a></b>
+			</font>
+		</div>
 	</td>
-  </tr>
+		
+	<td width="16%" height="11" id="td1" onmouseover="bcolor(1);openIt(1);">  
+		<div align="center">
+			<font class="headlinkswhite">
+				<b><a class="headlinkswhite" id="mnubar" onmouseover="openIt(1)" href="/mktcommentry/marketcommentary.asp">Capital Market</a></b>
+			</font>
+		</div>
+	</td>
+
+	<td width="16%" height="11" id="td1" onmouseover="bcolor(2);openIt(2);"> 
+		<div align="center">
+			<font class="headlinkswhite">
+				<b><a class="headlinkswhite" id="mnubar" onmouseover="openIt(2)" href="/Mutualfund/reindex.asp">Mutual Funds</a></b>
+			</font>
+		</div>
+	</td>
+
+	<td width="16%" height="11" id="td1" onmouseover="bcolor(3);openIt(3);">  
+		
+      <div align="center"> <font class="headlinkswhite"> 
+        <b><a class="headlinkswhite" id="mnubar" onmouseover="openIt(3)" href="/debt_money/yield_curvenew.asp">Fixed 
+        Income</a></b> </font> </div>
+	</td>
+	<td width="13%" height="11" id="td1" onmouseover="bcolor(4);openIt(4);"> 
+		<div align="center">
+			<font class="headlinkswhite">
+				<b><a class="headlinkswhite" id="mnubar" onmouseover="openIt(4)" href="/news/irisnews.asp?">News</a></b>
+			</font>
+		</div>
+	</td>
+
+	<td width="13%" height="11" id="td1" onmouseover="bcolor(5);openIt(5)">  
+		<div align="center">
+			<font class="headlinkswhite">
+				<b><a class="headlinkswhite" id="mnubar" onmouseover="openIt(5)" href="/Invbasics/getstart/getstart.asp">Basics</a></b>
+			</font>
+		</div>
+	</td>
+	
+	<td width="16%" height="11" id="td1" onmouseover="bcolor(6);openIt(6);">  
+		
+      <div align="center"> <font class="headlinkswhite"> 
+        <b><a class="headlinkswhite" id="mnubar" onmouseover="openIt(6)" href="/Guest/GuestMain.asp">Features</a></b> 
+        </font> </div>
+	</td>
+
+</tr> 
 </tbody></table>
 
 <div onmouseover="closeIt()">
 <layer onmouseover="closeIt()">
 </layer>
+</div><!-- Menu 1 -->
+<div id="box"> 
+<table border="0" id="bluebox" cellspacing="0" cellpadding="0" bgcolor="#fffaf0">
+<tbody><tr>
+	<td>&nbsp;&nbsp;&nbsp;</td>
+	<td><font face="verdana" size="1"><a class="blue" href="#">Link1</a></font></td>
+	<td>&nbsp;&nbsp;&nbsp;</td>
+	<td><font face="verdana" size="1"><a class="blue" href="#">Link2</a></font></td>
+	<td>&nbsp;&nbsp;&nbsp;</td>
+</tr> 
+</tbody></table>
+</div><!-- Sub Menu for Capital Market (2nd Item) -->
+<div id="box">
+<table border="0" id="limebox" cellspacing="0" cellpadding="0" bgcolor="#fffaf0">
+<tbody><tr>
+<td class="tdwidth"></td>
+<td align="middle"><a class="headlinksbluesmall" href="/mktcommentry/marketcommentary.asp">Stock Market</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/company/companymain.asp">Company</a></td>
+<!--<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align=middle><A class=headlinksbluesmall  href="#">Sector</A></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align=middle><A class=headlinksbluesmall href="#">Economy</A></td>-->
+<td height="1" width="1" valign="center">&nbsp;</td>
+<td valign="center" align="middle" width="16"><a class="black" onclick="closeIt()" href="#" target="_self"><img height="12" alt="Close Submenu" src="/images/site_navigation/cross2.gif" width="12" border="0"></a></td>
+<td class="tdwidth"></td>
+</tr>
+</tbody></table>
+</div><!-- Sub Menu for Mutual Fund (3rd Item) -->
+<div id="box">
+<table border="0" id="limebox" cellspacing="0" cellpadding="0" bgcolor="#fffaf0">
+<tbody><tr>
+<td class="tdwidth"></td>
+<td align="middle"><a class="headlinksbluesmall" href="/mutualfund/complist.asp?selection=mutualfund">Fund Directory</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/mutualfund/fundfinder.asp">Scheme Finder</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/MutualFund/snapshot.asp?page=1&amp;order=Lastweek">Snapshot</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/MutualFund/performergainer.asp">Gainers</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/MutualFund/performerloser.asp">Losers</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/news/irisnews.asp?category=Mutual">News</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+
+<td align="middle"><a class="headlinksbluesmall" href="/invbasics/tutor/mutfund.asp?section=6">FAQs</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/mutualfund/downloadform.asp">Download Forms</a></td>
+<td height="1" width="1" valign="center">&nbsp;</td>
+<td valign="center" align="middle" width="16"><a class="black" onclick="closeIt()" href="#" target="_self"><img height="12" alt="Close Submenu" src="/images/site_navigation/cross2.gif" width="12" border="0"></a></td>
+<td class="tdwidth"></td>
+</tr>
+</tbody></table>
+</div><!-- Sub Menu for Fixed Income (4th Item) -->
+<div id="box">
+<table border="0" id="limebox" cellspacing="0" cellpadding="0" bgcolor="#fffaf0">
+<tbody><tr>
+<td class="tdwidth"></td>
+<td align="middle"><a class="headlinksbluesmall" href="/debt_money/yield_curvenew.asp">Yield Curve</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/debt_money/sgl.asp">SGL</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/debt_money/nsewdmtradesnew.asp">WDM Trades</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/debt_money/callrate.asp">Call Rate</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/debt_money/commercialpapers.asp">CP</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/debt_money/corporate.asp">Corporate Bonds</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/debt_money/bankdir.asp">Bank FD</a></td>
+<td height="1" width="1" valign="center">&nbsp;</td>
+<td valign="center" align="middle" width="16"><a class="black" onclick="closeIt()" href="#" target="_self"><img height="12" alt="Close Submenu" src="/images/site_navigation/cross2.gif" width="12" border="0"></a></td>
+<td class="tdwidth"></td>
+</tr>
+</tbody></table>
+</div><!-- Sub Menu for News (5th Item) -->
+<div id="box">
+<table border="0" id="limebox" cellspacing="0" cellpadding="0" bgcolor="#fffaf0">
+<!--<tr>
+<td class='tdwidth'></td>
+<td align=middle><A class=headlinksbluesmall href="/news/mainpage.asp">Reuters</A></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align=middle><A class=headlinksbluesmall href="/news/irisnews.asp?Category=Market">MyIRIS</A></td>
+<td height="1" width="1" valign="center">&nbsp;</td>
+<td valign=center  align=middle width=16><A class=black onclick=closeIt() href="#" target=_self><IMG height=12 alt  ="Close Submenu" src="/images/site_navigation/cross2.gif" width=12 border=0 ></A></td>
+<td class='tdwidth'></td>
+</tr>-->
+</table>
+</div><!-- Sub Menu for Basics (6th Item) -->
+<div id="box">
+<table border="0" id="limebox" cellspacing="0" cellpadding="0" bgcolor="#fffaf0">
+<tbody><tr>
+<td class="tdwidth"></td>
+<td align="middle"><a class="headlinksbluesmall" href="/Invbasics/getstart/getstart.asp">Getting Started</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/Invbasics/Tutor/termrisk.asp">Tutorials</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+      <td align="middle"><a class="headlinksbluesmall" href="/Invbasics/Tecnique/tecknik.asp">Techniques</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/Invbasics/TechAnalysis/new.asp">Technical Analysis</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/Invbasics/strategies/strata.asp">Strategies</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/Invbasics/MktGuide/MktGuide.asp">Market Guide</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/Invbasics/Process/Facts.asp">Process</a></td>
+<td height="1" width="1" valign="center"> <div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/Invbasics/Tools/Tools.asp">Tools</a></td>
+<td height="1" width="1" valign="center">&nbsp;</td>
+<td valign="center" align="middle" width="16"><a class="black" onclick="closeIt()" href="#" target="_self"><img height="12" alt="Close Submenu" src="/images/site_navigation/cross2.gif" width="12" border="0"></a></td>
+<td class="tdwidth"></td>
+</tr>
+</tbody></table>
+</div><!-- Sub Menu for Features (7th Item) -->
+<div id="box">
+<table border="0" id="limebox" cellspacing="0" cellpadding="0" bgcolor="#fffaf0">
+<tbody><tr>
+<td class="tdwidth"></td>
+<td align="middle"><a class="headlinksbluesmall" href="/LectureSeries/LecturerMain.asp">Lecture Series</a></td>
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align="middle"><a class="headlinksbluesmall" href="/Guest/GuestMain.asp">Guest Columns</a></td>
+<!--
+<td height="1" width="1" valign="center"><div align="center"><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div></td>
+<td align=middle><A class=headlinksbluesmall  href="/Diary/DiaryMain.asp">Diary</A></td>
+-->
+<td height="1" width="1" valign="center">&nbsp;</td>
+<td valign="center" align="middle" width="16"><a class="black" onclick="closeIt()" href="#" target="_self"><img height="12" alt="Close Submenu" src="/images/site_navigation/cross2.gif" width="12" border="0"></a></td>
+<td class="tdwidth"></td>
+</tr>
+</tbody></table>
 </div>
-<table width="731" border="0" cellspacing="0" cellpadding="0" background="/images/site_navigation/newbackground.gif" height="43" vspace="0" hspace="0" name="Top Buttons">
-    <tbody><tr valign="bottom"> 
-    <td align="middle" width="731" height="43">&nbsp;</td>
+
+
+<br>  
+<table border="0" cellspacing="0" cellpadding="0" vspace="0" hspace="0" align="left" width="114">
+  <tbody><tr> 
+    <td align="left" valign="top"> 
+      <table border="0" cellspacing="0" cellpadding="0" vspace="0" hspace="0" align="left" width="114">
+        <tbody><tr valign="top"> 
+          <td align="left" height="400">  
+<style>
+.headlinks1 {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; color: #000099; text-decoration: none}
+.mainheadlink { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; text-decoration: none }
+a.mainheadlink:hover{ font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: red; text-decoration: none }
+</style>
+
+<table width="100%" border="0" bgcolor="#E6E6FF">
+  <tbody><tr bgcolor="#000080"> 
+    <td colspan="2"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b>General</b></font></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="2" colspan="2"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="right"><img src="../images/ht.gif" width="4" height="1"></div>
+    </td>
+    <td><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="/General/aboutus.asp" class="headlinks1">&nbsp;About 
+      Us </a></font></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="right"><img src="../images/ht.gif" width="4" height="1"></div>
+    </td>
+    <td><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><a href="/General/contactus.asp" class="headlinks1"> 
+      &nbsp;Contact Us </a></font></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="right"><img src="../images/ht.gif" width="4" height="1"></div>
+    </td>
+    <td><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b><a href="/General/privacy.asp" class="headlinks1">&nbsp;Privacy 
+      Statement </a></b></font></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="right"><img src="../images/ht.gif" width="4" height="1"></div>
+    </td>
+    <td><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;</b><a href="/General/disclaimer.asp" class="headlinks1">Disclaimer 
+      </a></font></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="right"><img src="../images/ht.gif" width="4" height="1"></div>
+    </td>
+    <td>&nbsp;<a href="/faq/faqmain.asp" class="headlinks1">FAQs</a></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="right"><img src="../images/ht.gif" width="4" height="1"></div>
+    </td>
+    <td>&nbsp;<a href="/glossary/glossarymain.asp" class="headlinks1">Glossary</a></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="right"><img src="../images/ht.gif" width="4" height="1"></div>
+    </td>
+    <td>&nbsp;<a href="/Search.asp" class="headlinks1">Search</a></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="right"><img src="../images/ht.gif" width="4" height="1"></div>
+    </td>
+    <td><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b><a href="/General/Sitemap.asp" class="headlinks1">&nbsp;Sitemap</a> 
+      </b></font></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="right"><img src="../images/ht.gif" width="4" height="1"></div>
+    </td>
+    <td><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"><b><a href="/Registration/Registration.asp" class="headlinks1">&nbsp;Register 
+      with us</a></b></font></td>
+  </tr>
+  <tr> 
+    <td colspan="2" height="2"></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td colspan="2" height="2"></td>
   </tr>
 </tbody></table>
-<!-- Menu 1 -->
-<div id="box">
- <table border="0" id="bluebox" cellspacing="0" cellpadding="0" bgcolor="white">
-<tbody><tr><td>&nbsp;&nbsp;&nbsp;</td>
-<td><font face="verdana" size="1"><a class="blue" href="#">Link 1</a></font></td>
-  <td>&nbsp;&nbsp;&nbsp;</td>
- <td><font face="verdana" size="1"><a class="blue" href="#">Link 2</a></font></td>
- <td>&nbsp;&nbsp;&nbsp;</td>
- </tr>
-     </tbody></table>
- </div>
-<!-- Sub Menu for Capital Market (2nd Item) -->
- <div id="box">
- <font face="verdana" size="2" color="white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>|</b></font>
-
-  <table border="0" cellspacing="1" cellpadding="0" bgcolor="#b70000">
- <tbody><tr><td>
-        <table border="0" id="limebox" cellspacing="0" cellpadding="0" bgcolor="white">
-          <tbody><tr>
-            <td colspan="10" class="tdheight"></td>
-          </tr>
-          <tr> 
-            <td class="tdwidth"></td>
-            <td>&nbsp;&nbsp;</td>
-            <td><font face="verdana" size="1"><a class="blue" href="/mktcommentry/marketcommentary.asp">Market 
-              Commentary</a></font></td>
-            <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-            <td><font face="verdana" size="1"><a class="blue" href="/News/Snapshot.asp">Market 
-              Snapshot</a></font></td>
-            <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-            <td><font face="verdana" size="1"><a class="blue" href="/news/marketstatis.asp">Market 
-              Statistics</a></font></td>
-            <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-            <td><font face="verdana" size="1"><a class="blue" href="/news/marketwhisper.asp">Whispers</a></font></td>
-            <td height="1" width="1" valign="middle">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;&nbsp;</td>
-            <td valign="middle" bgcolor="LightGrey" align="center"> <font size="1"><a class="black" href="#" onclick="closeIt()" target="_self">&nbsp;&nbsp;X&nbsp;&nbsp;</a></font> 
-            </td>
-            <td class="tdwidth"></td>
-          </tr>
-          <tr>
-            <td colspan="10" class="tdheight"></td>
-          </tr>
-        </tbody></table>
-  </td></tr></tbody></table> 
  
-  
- </div>
-<!-- Sub Menu for Research (3rd Item) -->
-
-<div id="box">
-<font face="verdana" size="2" color="white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-<b>|</b></font>
-  <table border="0" cellspacing="1" cellpadding="0" bgcolor="#b70000">
-  
- <tbody><tr><td>
-
-<table border="0" id="bluebox" cellspacing="0" cellpadding="0" bgcolor="white">
- <tbody><tr><td colspan="10" class="tdheight"></td></tr>
- <tr> <td class="tdwidth"></td>
-<td>&nbsp;&nbsp;</td>
- <td><font face="verdana" size="1"><a class="blue" href="/research/reindex.asp?item=hdfc">Our Recommendations</a></font></td>
-  <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-
- <td><font face="verdana" size="1"><a class="blue" href="/research/reindex.asp?item=indiainfo">India Infoline Reports</a></font></td>
-    <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-
- <td><font face="verdana" size="1"><a class="blue" href="/research/reindex.asp?item=analystmeets">Analyst Meets</a></font></td>
-  <td>&nbsp;&nbsp;</td>
-   <td valign="middle" bgcolor="LightGrey">
- <font size="1"><a class="black" href="#" onclick="closeIt()" target="_self">&nbsp;&nbsp;X&nbsp;&nbsp;</a></font>
- </td> <td class="tdwidth"></td>
-
- </tr>
-  <tr><td colspan="10" class="tdheight"></td></tr>
-
-</tbody></table>
-</td></tr></tbody></table>
- </div>
-
-<!-- Sub Menu for Investment  (4th Item) -->
-
-<div id="box">
-<font face="verdana" size="2" color="#b70000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>|</b></font>
-
-  <table border="0" cellspacing="1" cellpadding="0" bgcolor="#b70000">
- <tbody><tr><td>
-
- <table border="0" id="limebox" cellspacing="0" cellpadding="0" bgcolor="white">
- <tbody><tr><td colspan="14" class="tdheight"></td></tr>
- <tr>
- <td class="tdwidth"></td>
- <td>&nbsp;&nbsp;</td>
- <td><font face="verdana" size="1"><a class="blue" href="/invbasics/invest_basics.asp">Investment Basics</a></font></td>
-    <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-
-<td><font face="verdana" size="1"><a class="blue" href="/Tools/tools.asp">Tools</a></font></td>
-    <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-<td><font face="verdana" size="1"><a class="blue" href="/debt_money/nsemainpage.asp">Fixed Income</a></font></td>
-   <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-
- <td><font face="verdana" size="1"><a class="blue" href="/mutualfund/reindex.asp">Mutual Funds</a></font></td>
-    <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-<td><font face="verdana" size="1"><a class="blue" href="/ipos/indexipos.asp">IPOs</a></font></td>
-  <td>&nbsp;&nbsp;</td>
-   <td valign="middle" bgcolor="LightGrey">
- <font size="1"><a class="black" href="#" onclick="closeIt()" target="_self">&nbsp;&nbsp;X&nbsp;</a></font>
- </td>
- <td class="tdwidth"></td>
-</tr>
-<tr><td colspan="14" class="tdheight"></td></tr>
-   </tbody></table>
-</td></tr></tbody></table>   
- </div>
-<!-- For News & Features -->
-<div id="box">
-<font face="verdana" size="2" color="#b70000">&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>|</b></font>
-  <table border="0" cellspacing="1" cellpadding="0" bgcolor="#b70000">
-  <tbody><tr><td>
- <table border="0" id="limebox" cellspacing="0" cellpadding="0" bgcolor="white">
- <tbody><tr><td colspan="7" class="tdheight"></td></tr>
- <tr>
-  <td class="tdwidth"></td>
-
- <td>&nbsp;&nbsp;</td>
- <td><font face="verdana" size="1"><a class="blue" href="/News/mainpage.asp">News</a></font></td>
-   <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-
-<td><font face="verdana" size="1"><a class="blue" href="/Guest/Guestmain.asp">Guest Columns</a></font></td>
-    <td height="1" width="1" valign="middle"> 
-              <div align="center"><font color="#CC0000" face="Arial, Helvetica, sans-serif" size="2">&nbsp;|&nbsp;</font></div>
-            </td>
-
- <td><font face="verdana" size="1"><a class="blue" href="/HDFCBank/HDFCBankRep.asp">HDFC 
-              Bank Reports</a></font></td>
-            <td>&nbsp;&nbsp;</td>
-
-   <td valign="middle" bgcolor="LightGrey">
- <font size="1"><a class="black" href="#" onclick="closeIt()" target="_self">&nbsp;&nbsp;X&nbsp;</a></font>
- </td>
- <td class="tdwidth"></td>
- </tr>
- <tr><td colspan="7" class="tdheight"></td></tr>
-   </tbody></table>
-</td></tr></tbody></table>
- </div>
-
-  <table border="0" cellspacing="0" cellpadding="0" vspace="0" hspace="0" align="left" width="114">
-    <tbody><tr> 
-      <td align="left" valign="top"> <img src="../images/inside_navigation/left_bg_top1.gif" width="95" height="63" vspace="0" hspace="0" border="0"></td>
-   </tr>
-   <tr>
-	<td align="left" valign="top"> 
-        <table border="0" cellspacing="0" cellpadding="0" vspace="0" hspace="0" background="../images/inside_navigation/left_bg2_inside.gif" align="left" width="114">
-          <tbody><tr valign="top"> 
-            <td align="left" height="400">&nbsp; </td>
-          </tr>
-          <tr valign="top"> 
-            <td align="left"><img src="../images/inside_navigation/left_bg_top3.gif" width="114" height="113"></td>
-          </tr>
-        </tbody></table>
-   </td>
-   </tr>
-  </tbody></table>
-
-
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr> 
-      <td width="20">&nbsp;</td>
-      
-    <td width="450" align="left" valign="bottom"><br>
-      <img border="0" src="../images/general/header_privacy.gif" width="153" height="22" vspace="0" hspace="0" alt="Privacy Policy"> 
-      <br>
+          </td>
+        </tr>
+        <tr valign="top"> 
+          <td align="left">&nbsp;</td>
+        </tr>
+      </tbody></table>
     </td>
-    </tr>
-  </tbody></table>
+  </tr>
+</tbody></table>
+
+
+  
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="450" align="left" valign="bottom"> 
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr align="left"> 
+          <td valign="top" nowrap=""> 
+            <div align="left"><font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF"><font color="#000099"><b><font face="Verdana, Arial, Helvetica, sans-serif">Privacy 
+              Statement&nbsp;&nbsp;&nbsp;</font> </b></font></font></div>
+          </td>
+        </tr>
+        <tr align="left" bgcolor="#CE0031"> 
+          <td valign="top" height="2"><img src="/images/inside_navigation/ts.gif" height="1" width="1"></td>
+        </tr>
+      </tbody></table>
+      
+    </td>
+  </tr>
+</tbody></table>
   <br>
-  <table border="0" cellspacing="0" cellpadding="0" width="80%">
-    <tbody><tr> 
-      <td width="20">&nbsp;</td>
-      <td align="left" valign="top"> 
-        <p style="text-align: justify"><font size="2" face="Arial, Helvetica, sans-serif"><b>Statement 
-          on privacy and security</b><br>
-          <br>
-          At HDFC Securities we are strongly committed to protecting the personal 
-          and financial information that you submit to us. This information is 
-          provided when you register to receive certain HDFC Securities services 
-          or products, such as online share trading. The personal information 
-          we get from you will help us provide you with improved services and 
-          products that match your needs as closely as possible. <br>
-          <br>
-          We shall not sell your personal information to any third party. However 
-          under certain conditions we would share this information: <br>
-          <br>
-          (1) We share information as part of normal business operations, such 
-          as providing you with any services to which you subscribe, and any activity 
-          related to these services such as collecting fees for those services, 
-          and informing you about these services; <br>
-          <br>
-          (2) as part of normal legal/regulatory purposes required by the Securities 
-          and Exchange Board of India and other regulatory and government entities, 
-          and <br>
-          <br>
-          (3) We may occasionally invite selected third parties to participate 
-          in offers we feel would be attractive to customers of HDFC Securities 
-          customers. <br>
-          <br>
-          It may become necessary for HDFC Securities to disclose your personal 
-          information to our agents and contractors, or to their subcontractors. 
-          However these parties would be required to use the information obtained 
-          from HDFC Securities for such use exclusively. <br>
-          <br>
-          Your account information is protected by placing it in the secure portion 
-          of our Web site, which is why you need to enter your unique login username 
-          and password each time you want to access your account information. 
-          <br>
-          <br>
-          Do help us protect your privacy by maintaining the secrecy of the username 
-          and password you use for any of our services. <br>
-          <br>
-          Please note that this privacy policy does not create any contractual 
-          or other legal rights in or on behalf of any party, nor is it intended 
-          to do so. </font></p>
-      </td>
-      <td align="right" valign="top" width="10">&nbsp; </td>
-    </tr>
-    <tr> 
-      <td width="20">&nbsp;</td>
-      <td width="450" align="center" valign="bottom" height="50"><small><small><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="1">Copyright 
-        © 2000 HDFC Securities Ltd.&nbsp; All rights reserved.<br>
-        SEBI REGN. NO.: INB011109437 (BSE) / INB231109431 (NSE). </font></small></small></td>
-      <td align="center" valign="bottom" width="10">&nbsp;</td>
-    </tr>
-  </tbody></table>
+  
+<table border="0" cellspacing="0" cellpadding="0" width="80%">
+  <tbody><tr> 
+    <td align="left" valign="top"> 
+      <p style="text-align: justify"><font size="2" face="Arial, Helvetica, sans-serif"><b>Statement 
+        on privacy and security</b><br>
+        <br>
+        At HDFC Securities we are strongly committed to protecting the personal 
+        and financial information that you submit to us. This information is provided 
+        when you register to receive certain HDFC Securities services or products, 
+        such as online share trading. The personal information we get from you 
+        will help us provide you with improved services and products that match 
+        your needs as closely as possible. <br>
+        <br>
+        We shall not sell your personal information to any third party. However 
+        under certain conditions we would share this information: <br>
+        <br>
+        (1) We share information as part of normal business operations, such as 
+        providing you with any services to which you subscribe, and any activity 
+        related to these services such as collecting fees for those services, 
+        and informing you about these services; <br>
+        <br>
+        (2) as part of normal legal/regulatory purposes required by the Securities 
+        and Exchange Board of India and other regulatory and government entities, 
+        and <br>
+        <br>
+        (3) We may occasionally invite selected third parties to participate in 
+        offers we feel would be attractive to customers of HDFC Securities customers. 
+        <br>
+        <br>
+        It may become necessary for HDFC Securities to disclose your personal 
+        information to our agents and contractors, or to their subcontractors. 
+        However these parties would be required to use the information obtained 
+        from HDFC Securities for such use exclusively. <br>
+        <br>
+        Your account information is protected by placing it in the secure portion 
+        of our Web site, which is why you need to enter your unique login username 
+        and password each time you want to access your account information. <br>
+        <br>
+        Do help us protect your privacy by maintaining the secrecy of the username 
+        and password you use for any of our services. <br>
+        <br>
+        Please note that this privacy policy does not create any contractual or 
+        other legal rights in or on behalf of any party, nor is it intended to 
+        do so. </font></p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="450" align="center" valign="bottom" height="50"><small><small><font color="#cc0000" face="Arial, Helvetica, sans-serif" size="1">Copyright 
+      © 2000 HDFC Securities Ltd.&nbsp; All rights reserved.<br>
+      SEBI REGN. NO.: INB011109437 (BSE) / INB231109431 (NSE). </font></small></small></td>
+  </tr>
+</tbody></table>
 
 
 </body></html>
