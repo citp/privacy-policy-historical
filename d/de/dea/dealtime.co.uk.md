@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealtime.co.uk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607095858id_/http%3A//dealtime.co.uk/xCPT-privacy_uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealtime.co.uk privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011221342id_/http%3A//dealtime.co.uk/xCPT-privacy_uk) for the most accurate reproduction.*
 
 # DealTime.co.uk: Price Comparison, Store & Product Reviews
 
@@ -61,7 +61,7 @@ Top of page
 **Contact Us**  
 If you have any questions about this privacy statement the practices of this Web site or your dealings with DealTime, you may contact:
 
-Dealtime.com (UK) Ltd  
+Shopping.com (UK) Ltd  
 Lower Ground Floor,  
 Greater London House.  
 Hampstead Road,  
