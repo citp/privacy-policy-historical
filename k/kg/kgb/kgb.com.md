@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgb.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607074139id_/http%3A//kgb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgb.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201172016id_/http%3A//www.kgb.com/privacy.html) for the most accurate reproduction.*
 
 # KGB Report Privacy Statement
 
