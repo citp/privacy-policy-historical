@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801155302id_/http%3A//acefitness.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213020id_/http%3A//www.acefitness.org/privacy.cfm) for the most accurate reproduction.*
 
 # American Council on Exercise (ACE)
 
