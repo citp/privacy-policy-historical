@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608001718id_/http%3A//www.hrw.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208090931id_/http%3A//www.hrw.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Human Rights Watch Privacy Policy
 
@@ -9,7 +9,7 @@
 [](https://web.archive.org/press/2002/index.htm)  
 [](https://web.archive.org/events/index.htm)  
 [](https://web.archive.org/research/nations.html)  
-[](https://web.archive.org/about/about.html)  
+[](https://web.archive.org/about/)  
 [](https://web.archive.org/countries.html) | | [Africa](https://web.archive.org/africa/index.php)  
 ---|---  
 | [Americas](https://web.archive.org/americas/index.php)  
@@ -22,10 +22,11 @@
 | [Arms](https://web.archive.org/arms/)  
 ---|---  
 | [Children's Rights](https://web.archive.org/children/)  
-| [Women's Rights](https://web.archive.org/women/)  
-| [Refugees](https://web.archive.org/refugees/)  
+| [HIV/AIDS](https://web.archive.org/campaigns/aids/)  
 | [International Justice](https://web.archive.org/justice/)  
 | [Prisons](https://web.archive.org/prisons/)  
+| [Refugees](https://web.archive.org/refugees/)  
+| [Women's Rights](https://web.archive.org/women/)  
 | [More...](https://web.archive.org/advocacy/index.htm)  
   
 [](https://web.archive.org/campaigns/campaigns.html)  
