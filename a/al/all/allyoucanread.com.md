@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205032644id_/http%3A//www.allyoucanread.com/corp/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621075111id_/http%3A//www.allyoucanread.com/corp/privacy_policy.asp) for the most accurate reproduction.*
 
 # AllYouCanRead.Com - Privacy Policy
 
-**PRIVACY STATEMENT**
+**PRIVACY STATEMENT  
+**(updated on 9 May, 2003) ****
 
 AMIXIMA Corp ("AMIXIMA") recognizes the importance of protecting the privacy of personal information collected about its users. AMIXIMA adopted this Privacy Policy to inform AllYouCanRead.com users how it does collect, store, and use personal information. "Personal information" includes, but is not limited to, usage data, along with the name, address, telephone number, e-mail address, and credit card information of AllYouCanRead.com users. Therefore, AMIXIMA does not sell or otherwise disclose any individually identifiable personal information about any user without an express and informed consent of such user. Nor does AMIXIMA include in AllYouCanRead.com any functionality for performing "reverse searches" to identify AllYouCanRead.com users from their e-mail addresses. However, AMIXIMA reserves the right to analyze and utilize user data in order to more effectively optimize the user experience and to present certain opportunities to users for their benefit. AMIXIMA also reserves the right to share with its partners and third parties some personal information on the aggregate basis only and provided that such use of personal information does not violate any expectations of privacy of or agreement with any AllYouCanRead.com user. AMIXIMA's intent is to balance its legitimate business interests in collecting and using personal information against the reasonable expectations of privacy of its users.
 
@@ -30,23 +31,22 @@ Like most standard Web site servers we use log files. This includes internet pro
   
 **Sharing**
 
-**Aggregate Information (non-personally identifiable)**
+**Aggregate Information (non-personally identifiable)  
+**AMIXIMA shares aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
 
-AMIXIMA shares aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
+**Third Party Advertising  
+**We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-**Third Party Advertisers**
-
-AMIXIMA shares Web site usage information about users with reputable third party advertisers for the purpose of targeting our Internet banner advertisements on this site. 
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 These are the instances in which we will share users' personal information:
 
-**Legal Disclaimer**
+**Legal Disclaimer  
+**Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our web site.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our web site.
-
-**Business Transitions**
-
-In the event AMIXIMA goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email or prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+**Business Transitions  
+**In the event AMIXIMA goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email or prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
 
 **Choice/Opt-out**
 
