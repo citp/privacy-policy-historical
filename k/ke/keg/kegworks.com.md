@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604142826id_/http%3A//kegworks.com/shoppingcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204225307id_/http%3A//kegworks.com/shoppingcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# KegWorks.com - Help section
+# Help section - KegWorks.com
 
-|   |  [KegWorks.com](https://web.archive.org/web/20040604142826id_/http%3A//kegworks.com/shoppingcart/customer/home.php) :: Help :: 
+|   |  [KegWorks.com](https://web.archive.org/web/20041204225307id_/http%3A//kegworks.com/shoppingcart/customer/home.php) :: Help :: 
 
 |   Privacy Statement  
 ---  
@@ -38,7 +38,10 @@ KegWorks.com 737 Main St., Suite 150, Buffalo, NY 14203
 Retail Outlet at the above address is open 9am - 5pm M-F  
 737 Main St. Downtown Buffalo (Between W. Tupper and Goodell)
 
-    |  | Mailing List  
+    |  | Shipping Information  
+---  
+[](http://www.kegworks.com/shoppingcart/customer/pages.php?pageid=58)  
+Mailing List  
 ---  
 Join the KegWorks.com mailing list and gain access to exclusive "secret" sales, a monthly newsletter to keep you up to date on what's happening with us.   
   
@@ -46,5 +49,5 @@ Subscribe to the monthly
 newsletter !   
   
     
-[](https://web.archive.org/web/20040604142826id_/http%3A//kegworks.com/shoppingcart/customer/pages.php?pageid=7)   
+[](https://web.archive.org/web/20041204225307id_/http%3A//kegworks.com/shoppingcart/customer/pages.php?pageid=7)   
 
