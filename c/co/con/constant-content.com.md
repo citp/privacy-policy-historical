@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606042355id_/http%3A//www.constant-content.com/%3Farea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207152045id_/http%3A//www.constant-content.com/%3Farea%3Dprivacy) for the most accurate reproduction.*
 
-# Constant Content - Web Site Content, Articles, Tutorials, Reviews and other Content for your WebSite
+# Constant Content - Purchase Articles, Tutorials and other Website Content
 
 **PRIVACY STATEMENT**  
 constant-content.com provides a free interactive game on the Internet. We recognize and support the need to protect the privacy rights of our members through disclosure of our practices for collection and use of member information. 
