@@ -1,54 +1,63 @@
-> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205122232id_/http%3A//abouttmcs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205114256id_/http%3A//abouttmcs.com/privacy.html) for the most accurate reproduction.*
 
-# Ticketmaster
+# About Ticketmaster - Privacy Policy
 
-> **Privacy Policy** **Privacy Statement for LiveDaily.com**
-> 
-> LiveDaily.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: LiveDaily.com 
-> 
-> **User Information Collected on Our Site**   
->  We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
-> 
-> Our site's registration form requires users to give us contact information (like their name and email address) if they wish to post messages on our bulletin boards or participate in our chat rooms. We use customer contact information from the registration form to verify the email account of the user, to monitor compliance with our Terms of Use and on occasion to send the user information about our company and promotional material from some of our partners. We run contests on our site in which we ask visitors for contact information (like their email address) in order to contact them if they have won, and also, on occasion to send the user information about our company and/or our partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-> 
-> We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
-> 
-> **Third Party Privacy Policies**   
->  This site contains links to other sites. livedaily.com is not responsible for the privacy practices or the content of such Web sites. 
-> 
-> **Public Disclosure of Personal Information**   
->  This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-> 
-> **Security**   
->  This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-> 
-> **Choice/Opt-Out/Updating Information**   
->  Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. To remove your information from our Site: You can send email to:ldeditor@citysearch.com, and/or you can call the following telephone number: (626) 405-0050, or to update personal message board information about you on our Site, you can go directly to the profile page and update the information at: www.livedaily.com/cgi/boards/ubbmisc.cgi 
-> 
-> **Contact Us**   
->  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   
-> 
->
->> Editor  
->  Livedaily.com  
->  790 E. Colorado Blvd. Suite 200  
->  Pasadena, CA 91101  
->  Or email us at: [ldeditor@citysearch.com](mailto:ldeditor@citysearch.com)
-We at CitySearch, understand your need to maintain your privacy when using the Internet for your communication, shopping, exploration and play. These are the Policies CitySearch.com adheres to in maintaining this site for your use. Please note that each particular web site under the Ticketmaster Online - CitySearch, Inc. network (including [**www.ticketmaster.com**](http://www.ticketmaster.com/h/privacy.html), [**www.match.com**](http://www.match.com/site_entry/privacy.cfm?cfid=6872276&cftoken=8637517), [**www.livedaily.com**](http://www.livedaily.com/privacy.html) and [**www.cityauction.com**](http://www.cityauction.com/scripts/terms.asp)) may have particular privacy policies that apply only to that web site. Therefore, you should refer to those individual web sites for their unique privacy policies.
+Ticketmaster understands the need to maintain privacy when using the Internet for communication, shopping, exploration and play. Please note that each particular web site operated by Ticketmaster (including www.ticketmaster.com , www.match.com , and www.citysearch.com ) may have particular privacy policies that apply only to that web site. Therefore, please refer to those individual web sites for their unique privacy policies.
 
-* * *
+ **Citysearch.com Privacy Policy**
 
-  
- **CitySearch.com Privacy Policies**
+The Citysearch.com business ("Citysearch.com") has created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage ("Transactions"), and data gathered, on the Citysearch.com web site (the "Site") and does not apply to any other web site or offline point of contact between Citysearch.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on June 27, 2002. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
 
- **Policy 1**. We will explicitly ask you when we need information that personally identifies you or allows us to contact you ("Personal Information"). Generally, Personal Information is requested when you register for a site, when you request a particular service or information from us or one of our merchants, when you purchase a product, when you fill out a survey, or when you enter a sweepstakes or contest. When possible, we will give you chance to make sure that your Personal Information is correct and up to date.
+**Your IP Address**
 
- **Policy 2**. We have important business relationships with certain third party service partners ("Service Partners"). These Service Partners allow us to offer you a broader array of services than we could provide to you on our own and assist us in the operation of our site. Our Service Partners and we use your Personal Information to operate the site and services that we offer, and to inform you of new features, services, and products available to you.
+Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you. 
 
- **Policy 3**. We may also carefully select other companies to send you information about their products or services which are related to the site's service but are not necessary to its operation ("Other Companies' Use"). If we intend to use your Personal Information for Other Companies' Use, we will provide you with instructions on how to decline this service. You may also stop the delivery of informational or promotional mail from us, or from other companies referred by us, by following the instructions on the email delivering the information.
+**Cookies**
 
- **Policy 4**. We do not believe that any portion of our site directly solicits children 13 years old or younger. However, if we develop a portion of our site that does directly solicit children age 13 years old or younger, we will not directly solicit Personal Information from children, nor provide it for Other Companies' Use without first attempting to obtain the consent of a parent or guardian. If possible, we will also endeavor to provide e-mail notice to parents that their children have provided Personal Information to the site.
+Like most websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Third parties advertisers on the Site may also place cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas or features of the Site.
 
- **Policy 5**. We may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on us or our affiliates; (b) protect and defend our rights or property or those of our users, and (c) act as immediately necessary in order to protect the personal safety of our users or the public.
+ **Information We Collect From You**
 
- **Policy 6**. If at any time you believe that we have violated these Policies, please notify us by e-mail at [privacy_concerns@citysearch.com](mailto:privacy_concerns@citysearch.com) and we will use all commercially reasonable efforts to promptly investigate and remedy the problem.
+In order to operate the Site and provide you with information on products and services that may be of interest to you, we may collect personal information (i.e. information that could be used to contact you such as full name, postal address, phone number and email address), financial information (e.g. passwords and credit card numbers), demographic information (e.g. zip code, hometown, gender, purchase history information and age), public information such as user ratings and reviews and a user name from you. Please note that nowhere on the Site do we knowingly collect personal information from children under the age of 13. The Site also provides you with the opportunity to save, in a personal account, restaurant listings, event listings and other information you view on the Site. A collection of such listings and other information that is so saved in a personal account is referred to elsewhere in this privacy policy as "Saved Listings." 
+
+**Information Other Web Sites Collect From You**
+
+On the Site, we place links to other web sites operated by other parties. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
+
+**How We Use Personal Information**
+
+We use your personal information to help us efficiently perform Transactions on the Site, to contact you when necessary in connection with Transactions, and to send you information, offers and other promotional materials for Citysearch.com's or third parties' goods or services. We carefully select the information we send to you and attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Site provides you with the option of declining to receive offers from Citysearch.com by "opting-out" of receiving this type of communication. 
+
+To process Transactions on the Site, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose.
+
+By purchasing or making reservations for products or services, electing to receive communications (such as emails or magazine subscriptions), or electing to participate in programs (such as discount or rewards programs), offered by third parties on the Site, you consent to our providing your personal information to those third parties. 
+
+Your personal information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of Citysearch.com. We may also disclose specific information when we determine that such disclosure is necessary to comply with applicable law, to cooperate with law enforcement or to protect the interests or safety of Citysearch.com or other visitors to the Site. We also may disclose your personal information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. However, all of these parent, subsidiary and affiliated legal entities and businesses that receive your personal information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such personal information.
+
+Any third party with whom we are allowed to share your personal information is authorized to use your personal information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your personal information by them. 
+
+Please read the information below under the heading "How We Use Public Information, Reviews, Ratings and User Names" to learn how we may make some of your personal information accessible to the public via the Site or via other means. 
+
+**How We Use Financial Information**
+
+We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a purchase, or engaging in any other kind of Transaction that uses financial information, on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your Transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process the Transaction. By purchasing products or services of third parties offered on the Site, or by participating in programs offered on the Site that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Any of these various third parties are authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control. 
+
+**How We Use Demographic Information and Saved Listings**
+
+We use demographic information and Saved Listings to tailor the Site and communications to the interests of our users. We may share demographic information and Saved Listings with advertisers and other third parties ("Sponsors") so that they can tailor their advertisements and communications to the appropriate audience. If you consent to have us share your personal information as described above, then the demographic information and Saved Listings that we provide to Sponsors may be linked to your personal information so that Sponsors will be able to know about your demographic information and will also know what your Saved Listings are. If you do not consent to have us share your personal information as described above, then we will only provide your demographic information and Saved Listings to Sponsors on an anonymous and aggregated basis. 
+
+**How We Use Public Information, Reviews, Ratings and User Names**
+
+When you register on the Site, you must enter a user name. You will also be given the chance to designate certain of your personal information and other information as "public" or "private." You may change these public/private designations in the Edit My Profile section of the Site. The Site provides you with the opportunity to give user reviews and ratings for restaurants, hotels, bars, events and other items. Your user name and public information may appear next to your user reviews and ratings as they are posted on the Site. Your user name and public information may also appear on a User Profile section of the Site. Please note that if you designate your email address as "public" information, then other Site visitors may see your email address and send you emails. We may also use and disclose your user name, public information and reviews and ratings in any other manner. To read further details about how we may use your user name, public information and reviews, see our [Terms of Use](http://losangeles.citysearch.com/saved/html/my_citysearch/terms_of_use.html). 
+
+**Our Security Precautions, Location of Information**
+
+The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the countries in which these computer networks are located may not have privacy laws as protective as the laws in your country. 
+
+**How You Can Access and Update Your Email Preferences, Personal Information and Public/Private Designations**
+
+When you provide personal information to the Site, you must enter a user name. You may also be given the chance to designate certain of your personal information and other information as "public" or "private" and to opt-out of receiving certain communications from us and third parties, as described above. We also give you the opportunity to opt-out of certain communications and/or modify personal information you have provided to us, or to change public/private designations, at anytime by clicking on the My Profile link, then clicking on the Edit My Profile link and selecting those portions of your profile you would like to update. Please be aware that it may take several hours for the changes you make to your public information or your public/private information designations to take affect on the public areas of the Site. We thank you for your patience. 
+
+Please note that changing or deleting your information through Edit My Profile, or otherwise opting-out of receipt of email communications from Citysearch.com will only change or delete the data in our My Profile database for purposes of future Transactions on the Site and for managing future communications from Citysearch.com. These changes and deletions will not change or delete information that we may have already forwarded to credit card companies or any other third parties, all as provided above in this privacy policy. 
+
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at legal@citysearch.com. You can also send us mail to: Privacy Officer, Citysearch.com, c/o Legal Department, 3701 Wilshire Boulevard, 9th Floor, Los Angeles, CA 90010 
