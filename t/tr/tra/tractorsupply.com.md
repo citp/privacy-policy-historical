@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tractorsupply.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205081220id_/http%3A//www.mytscstore.com/about_TSC.asp%3FpageID%3Dpolicies%26%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractorsupply.com privacy policy that was archived on 2005-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050218094148id_/http%3A//www.mytscstore.com/about_TSC.asp%3FpageID%3Dpolicies%26%23privacy) for the most accurate reproduction.*
 
 # Tractor Supply Company - About TSC
 
@@ -95,7 +95,7 @@ BEFORE USING THIS SITE.
 By using this site, tractorsupplyco.com, tractorsupply.com, or mytscstore.com, you agree to these terms. If you do not agree to these terms, do not use the site.
 
  **Copyright**  
-All site design, graphics, text and the selection and arrangement thereof, and all software are Copyright © 2004, Tractor Supply Company. ALL RIGHTS RESERVED. Redistribution, retransmission, republication or commercial exploitation of the contents of this site is expressly prohibited without the consent of Tractor Supply Company.
+All site design, graphics, text and the selection and arrangement thereof, and all software are Copyright © 2005, Tractor Supply Company. ALL RIGHTS RESERVED. Redistribution, retransmission, republication or commercial exploitation of the contents of this site is expressly prohibited without the consent of Tractor Supply Company.
 
  **Disclaimer**  
 TRACTOR SUPPLY COMPANY IS PROVIDING THIS SITE AND ITS CONTENTS ON AN 'AS IS' BASIS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THIS SITE, ITS CONTENTS OR ANY SITE THAT IS LINKED HERETO. TRACTOR SUPPLY COMPANY DISCLAIMS ALL SUCH REPRESENTATIONS AND WARRANTIES, INCLUDING, FOR EXAMPLE, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN ADDITION, TRACTOR SUPPLY COMPANY DOES NOT REPRESENT OR WARRANT THAT THE INFORMATION ACCESSIBLE VIA THIS SITE OR ANY SITE LINKED HERETO IS ACCURATE, COMPLETE OR CURRENT. PRICE AND AVAILABILITY INFORMATION, AS WELL AS OTHER INFORMATION CONTAINED IN THIS SITE, IS SUBJECT TO CHANGE WITHOUT NOTICE.  
