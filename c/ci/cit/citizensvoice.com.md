@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensvoice.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605095214id_/http%3A//www.scrantontimestribune.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensvoice.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207031624id_/http%3A//www.scrantontimestribune.com/policy.html) for the most accurate reproduction.*
 
 # Times-Shamrock Policy Statement
 
@@ -13,7 +13,13 @@ Times-Shamrock's network of sites contain links to partners, advertisers and thi
 
 **Use of Information**
 
-All of the information Times-Shamrock websites collects, both what you tell us and what we collect through the use of cookies, is "aggregated" \- meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. We may use this aggregated information to evaluate which products and services are successful and which are not, and in order to evaluate which new services we should make available on our Web site. We may use only the anonymous click stream data to help our advertisers deliver better-targeted advertisements. Times-Shamrock websites will not disclose any information about any individual without the individual's consent, except to comply with applicable law or valid legal process. There may be some cases in which some of your personal information may be used by Times-Shamrock websites to target e-commerce promotions and telemarketing activities. In addition, it may be shared with Third Parties who assist Times-Shamrock websites in producing its Web sites or provide a service to Times-Shamrock websites' users.
+Use of Information
+
+All of the information Times-Shamrock websites collects, both what you tell us and what we collect through the use of cookies, is "aggregated" - meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. We may use this aggregated information to evaluate which products and services are successful and which are not, and in order to evaluate which new services we should make available on our Web site. We may use only the anonymous click stream data to help our advertisers deliver better-targeted advertisements. Times-Shamrock websites will not disclose any information about any individual without the individual's consent, except to comply with applicable law or valid legal process. There may be some cases in which some of your personal information may be used by Times-Shamrock websites to target e-commerce promotions and telemarketing activities. In addition, it may be shared with Third Parties who assist Times-Shamrock websites in producing its Web sites or provide a service to Times-Shamrock websites' users.
+
+**Posting & Opinions  
+**  
+Any individual posting a message or opinion in a public guest book, forum, or an opinion posting area is the sole author of and is exclusively and entirely responsible for the opinions and statements in the posted message. Times Shamrock and its affiliates disclaim all responsibility for the content of such messages and are acting merely as an impartial conduit for constitutionally protected free speech and as a provider of an interactive computer service.
 
 **Contacting the Web Site**
 
