@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207135103id_/http%3A//www.cosmeticscop.com/policy/policy.asp%3FTYPE%3DPRI) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119023036id_/http%3A//www.cosmeticscop.com/policy/policy.asp%3FTYPE%3DPRI) for the most accurate reproduction.*
 
 # Policy
 
@@ -23,13 +23,18 @@ We run contests on our site in which we ask visitors for contact information (li
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. In addition to using a secure server system that encrypts your order information, orders with payment information are not transmitted to us. Instead, a designated individual in the company accesses the orders using a password-protected back office system. Orders are retrieved once via this system and then deleted from the secure server. Each order is then processed manually using the same process we use for fax and telephone orders. At no time is your payment information or any personal data transmitted to a third party for verification or processing. Once the order is retrieved, all portions of the order fulfillment process are handled internally. **CHOICE/OPT-OUT**  
 This site gives users the following options for removing themselves from our mailing lists so they do not receive any email or regular mail communications from us. 
 
-1\. Send email to [custserv@cosmeticscop.com](mailto:custserv@cosmeticscop.com).  
-2\. Call the following telephone number: (800) 831-4088. 
+**Online mailing list only:**  
+1\. Visit the [Beauty Bulletin](https://web.archive.org/web/20031119023036id_/http%3A//www.cosmeticscop.com/bulletin/default.asp) page, enter your email address in the box and click "Unsubscribe" to be removed from our email list.  
+2\. To be immediately removed from our email list, send a blank email to [leave-beautybulletin-7970483E@titan.sparklist.com](mailto:leave-beautybulletin-7970483E@titan.sparklist.com). 
+
+**Online and/or postal mailing list(s):**  
+1\. Send an email to [custserv@cosmeticscop.com](mailto:custserv@cosmeticscop.com). We will remove you from our mailing and/or email list.  
+2\. Call our customer service department at (800) 831-4088 and asked to be removed from our mailing and/or email list. 
 
 **CORRECT/UPDATE**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-1\. You can make most changes to your account information using the [Your Account](https://web.archive.org/web/20030207135103id_/http%3A//www.cosmeticscop.com/shop/account.asp) link on the site and entering your email address and password. If you are unable to make a change, follow steps 2 & 3 below.  
+1\. You can make most changes to your account information using the [Your Account](https://web.archive.org/web/20031119023036id_/http%3A//www.cosmeticscop.com/shop/account.asp) link on the site and entering your email address and password. If you are unable to make a change, follow steps 2 & 3 below.  
 2\. Send email to [custserv@cosmeticscop.com](mailto:custserv@cosmeticscop.com).  
 3\. Call the following telephone number: (800) 831-4088. 
 
