@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treocentral.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622133217id_/http%3A//www.treocentral.com/content/About/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treocentral.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203230146id_/http%3A//www.treocentral.com/content/About/policy.htm) for the most accurate reproduction.*
 
 # treocentral.com >> About
 
