@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the moreover.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203104100id_/http%3A//w.moreover.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreover.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610175258id_/http%3A//w.moreover.com/site/about/privacypolicy.html) for the most accurate reproduction.*
 
-# Moreover.com Privacy Policy
+# Moreover :: Privacy Policy
 
-[](http://www.moreover.com/)
-
-Moreover.com takes the privacy of its registered users seriously. This statement explains our privacy and data-protection practices. 
+Moreover.com takes the privacy of its registered users seriously. This statement explains our privacy and data-protection practices.
 
 It is important for Moreover.com to safeguard its users' privacy while providing a personalized and valuable service. Collecting personal information is necessary if Moreover.com is to satisfy the expectations and requirements of its users, eg, by communicating with them and providing an interactive service.
 
@@ -14,6 +12,6 @@ In addition to your email address supplied when signing up to Moreover.com's Too
 
 **What do we do with the information we collect?**
 
-The personal information you supplied when signing up to Moreover.com's Tools, Wizard or any other service will not be disclosed outside Moreover.com. The e-mail address you provided lets us send you information about important changes and improvements to the site, and lets you manage your account. Each time you receive a message, you will have the option to decline to receive further marketing information relating to Moreover.com. 
+The personal information you supplied when signing up to Moreover.com's Tools, Wizard or any other service will not be disclosed outside Moreover.com. The e-mail address you provided lets us send you information about important changes and improvements to the site, and lets you manage your account. Each time you receive a message, you will have the option to decline to receive further marketing information relating to Moreover.com.
 
-If you have any questions in the meantime, or would like to be removed from Moreover.com's service, please contact: [features@moreover.com](mailto:features@moreover.com), cleary specifying the email address you submitted when using Moreover.com's service. 
+If you have any questions in the meantime, or would like to be removed from Moreover.com's service, please contact: features@moreover.com, clearly specifying the email address you submitted when using Moreover.com's service.
