@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209003027id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603192049id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Access Idaho
 
@@ -30,3 +30,5 @@ Access Idaho is committed to data security and the data quality of personally id
 
 **Non State Web Sites**  
 Various Web sites may be linked to from Access Idaho. Visitors to other sites are advised to check the privacy statements of these sites and be cautious about providing personally identifiable information without a clear understanding of how the information will be used. Visitors may also wish to consult privacy guidelines such as those recommended by the [Online Privacy Alliance.](http://www.privacyalliance.org/resources/ppguidelines.shtml)
+
+[Full Text of State Policy](http://www2.state.id.us/itrmc/plan&policies/policies.htm#1020)
