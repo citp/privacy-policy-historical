@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmieducation.no-ip.com privacy policy that was archived on 2003-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030223044555id_/http%3A//pmieducation.no-ip.com/Privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmieducation.no-ip.com privacy policy that was archived on 2003-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031018145421id_/http%3A//pmieducation.no-ip.com/Privacy/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
