@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206010131id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619205417id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
 
-# The Motley Fool UK: Privacy Statement
+# The Motley Fool UK: Privacy and Cookie Statement
 
 |  | 
 
-**Privacy Statement**
+**Privacy and Cookie Statement**
 
-The Motley Fool Limited takes the issue of privacy very seriously and we are committed to protecting and respecting our users' privacy. This Privacy Statement sets out our current data processing practices. If you have any queries or concerns regarding these practices, you should contact us at [UKPrivacy@fool.co.uk](mailto:UKPrivacy@fool.co.uk).
+The Motley Fool Limited takes the issue of privacy very seriously and we are committed to protecting and respecting our users' privacy. This Privacy and Cookie Statement sets out our current data processing practices. If you have any queries or concerns regarding these practices, you should contact us at [UKPrivacy@fool.co.uk](mailto:UKPrivacy@fool.co.uk).
 
 **The Information We Collect**
 
@@ -34,7 +34,7 @@ At The Motley Fool, cookies are used the following ways:
 
 
 
-Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you've received one. If you reject cookies, though, you will not be able to use certain features of our sites such as creating and customizing your portfolio or viewing or posting on our discussion boards. For more on cookies, we encourage you to [read our explanation](https://web.archive.org/community/login/cookies.htm) on how they work.
+Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you've received one. If you reject cookies, though, you will not be able to use certain features of our sites such as creating and customizing your portfolio or viewing or posting on our discussion boards. For more on managing cookies, we encourage you to read the [Interactive Advertising Bureau UK's](http://www.allaboutcookies.org/manage-cookies/index.html) discussion on what you can do.
 
 **Where Your Information is Stored**
 
@@ -92,11 +92,17 @@ If you want to change your email address for delivery of your email subscription
 
 Many of our advertisers or partners, such as brokerages and merchants, link from our site to areas on their own sites where they sell their own goods and services. If you follow these links from our site to theirs, you should be aware that these other sites have their own privacy and data processing practices. The Motley Fool has no responsibility or liability for these independent policies. For more information regarding a site and its privacy policies, check that site.
 
-**Changes to this Privacy Statement**
+**Changes to this Privacy and Cookie Statement**
 
-The Fool may amend this Privacy Statement from time to time. If we make any substantive changes to this policy, we'll announce it on our site.
+The Fool may amend this Privacy and Cookie Statement from time to time. If we make any substantive changes to this policy, we'll announce it on our site.
 
   
+
+
+[](http://click.fool.com/14275/36795/127/http%3A%2F%2Fwww.fool.co.uk%2Fdebt%2Fpowergen1.htm)
+
   
 |  |    
 
+
+[](http://click.fool.com/14228/36737/1718/http%3A%2F%2Fwww.sharepeople.com%2Flinks%2F010604%2F77fool%2F)
