@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607120816id_/http%3A//www3.thomasville.com/Home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091605id_/http%3A//www.thomasville.com/Other/Privacy.asp) for the most accurate reproduction.*
 
 # Thomasville Furniture Ind. - Privacy Policy
 
-  |   | 
-
-privacy policy
-
-* * *
+| 
 
 **Thomasville promises not to sell, rent or give your name to any third parties. It's that simple.** Our lawyers asked us to also point out the following:
 
@@ -36,5 +32,3 @@ Thomasville, NC 27361-0339
 **Please be sure to provide your exact e-mail address, name, address and/or telephone number(s) so that we can handle your request correctly.**
 
 Thomasville reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. You should check this page periodically for changes. Your continued use of this Site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes.
-
-  |  
