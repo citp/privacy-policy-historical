@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604105321id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010025203id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
 
 # Abacin.com
 
-|  [](http://click.linksynergy.com/fs-bin/click?id=jyA1UGz0lAI&offerid=49929&subid=0)  
+|  [](http://click.linksynergy.com/fs-bin/click?id=jyA1UGz0lAI&offerid=65550.10000005&subid=0&type=4)  
 ---  
-**[Abacin Classifieds](http://classifieds.abacin.com/)** _**Special Offer**_ Free full page ads with full HTML format support. You track views on your ads and modify them at any time. _Now we also pay for views to your ads. 100 views/ad within one day guaranteed._  
+**[Abacin Classifieds](http://classifieds.abacin.com/)** _**Special Offer**_ Free full page ads with full HTML format support. You track views on your ads and modify them at any time. Automatic post to popular [Yahoo groups](http://finance.groups.yahoo.com/group/freedealsonline/). _Now we also pay for views to your ads. 100 views/ad within one day guaranteed._  
   
-[](http://service.bfast.com/bfast/click?bfmid=26917872&siteid=40136105&bfpage=vegas_04)   
+[](http://service.bfast.com/bfast/click?bfmid=26917872&siteid=40136105&bfpage=calif_04)   
 **Privacy Statement**   
-The privacy statement discloses the privacy practices for [ http://www.abacin.com/](http://www.abacin.com/). If you have questions or concerns regarding this statement, you should first [ contact Abacin ](https://web.archive.org/web/20040604105321id_/http%3A//www.abacin.com/site/contact.php). Visitors' privacy and confidentiality is of the utmost importance to Abacin. Our reputation and integrity is directly related to how we serve our clients and visitors. Please find below a description of how Abacin strives to protect our visitors' privacy. 
+The privacy statement discloses the privacy practices for [ http://www.abacin.com/](http://www.abacin.com/). If you have questions or concerns regarding this statement, you should first [ contact Abacin ](https://web.archive.org/web/20041010025203id_/http%3A//www.abacin.com/site/contact.php). Visitors' privacy and confidentiality is of the utmost importance to Abacin. Our reputation and integrity is directly related to how we serve our clients and visitors. Please find below a description of how Abacin strives to protect our visitors' privacy. 
 
 **Third-Party Measurement Services**
 
@@ -20,7 +20,7 @@ Abacin employs third-party service providers to serve the advertisements and tra
 > your IP address,  
 > the URLs of sites you visit
 
-This information can be used for online preference marketing and profiling purposes. In these instances, Abacin has no control over the information collected by the third-party service providers, and may not be held responsible for the actions of the third-party measurement services where collected information is concerned. If you have questions regarding different third-party measurement services and their respective methods of information collection, please [contact Abacin](https://web.archive.org/web/20040604105321id_/http%3A//www.abacin.com/site/contact.php). 
+This information can be used for online preference marketing and profiling purposes. In these instances, Abacin has no control over the information collected by the third-party service providers, and may not be held responsible for the actions of the third-party measurement services where collected information is concerned. If you have questions regarding different third-party measurement services and their respective methods of information collection, please [contact Abacin](https://web.archive.org/web/20041010025203id_/http%3A//www.abacin.com/site/contact.php). 
 
 If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, you may either visit each ad server's web site individually and opt out or you may visit the [ Network Advertising Initiative ](http://www.networkadvertising.org/optout_nonppii.asp) to opt-out of many third-party advertising companies' cookies. 
 
