@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602020926id_/http%3A//www.genesys.com/asp/prv_st.asp%3Fcountry%3D4%26language%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215220406id_/http%3A//www.genesys.com/asp/prv_st.asp%3Fcountry%3D4%26language%3D1) for the most accurate reproduction.*
 
 # Genesys.com | Privacy Policy
 
@@ -7,7 +7,7 @@
 Personally identifiable information may be combined with other information about your use of our sites in order to improve our services and products. Some examples of how we might use your personal information include:
 
 * Our server will recognize your domain name and the pages that you visit. This data is gathered for quality control and improvement of our site.
-* When an email is sent to us, we will use your email address in order to respond to your inquiry.
+* When an email is sent to us, we will use your email address in order to respond to your enquiry.
 * We collect information that you volunteer to us on surveys, contests, and registration sites.
 * We ask for your email address in order to communicate with you about your account and other Genesys Conferencing related services and products.
 * We may also contact you to offer new products and services, however if you do not want to receive this information, please go the section above titled “Choice.”
