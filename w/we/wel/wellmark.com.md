@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellmark.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211214752id_/http%3A//www.wellmark.com/scripts/redirect.asp%3FList%3D/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellmark.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207185708id_/http%3A//www.wellmark.com/scripts/redirect.asp%3FList%3D/home/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Wellmark
 
@@ -28,6 +28,6 @@ We do our best to maintain the accuracy of personal information you supply to us
 
 ### Commitment
 
-We are committed to privacy and are dedicated to preserving your privacy rights on the Internet. If you have any comments or questions regarding our Web site privacy practices, please contact us at [InternetTeam@wellmark.com](mailto:). We will address any issue to the best of our abilities.
+We are committed to privacy and are dedicated to preserving your privacy rights on the Internet. If you have any comments or questions regarding our Web site privacy practices, please contact us at [InternetTeam@wellmark.com](mailto:InternetTeam@wellmark.com). We will address any issue to the best of our abilities.
 
 Thank you for your support of these practices and of Wellmark, Inc.
