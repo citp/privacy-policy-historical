@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205223908id_/http%3A//realage.com/company_info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629220352id_/http%3A//realage.com/company_info/privacy.aspx) for the most accurate reproduction.*
 
 # RealAge Privacy Statement
 
