@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602023359id_/http%3A//www.usda.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135654id_/http%3A//www.usda.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # USDA Privacy Policy
 
@@ -24,7 +24,7 @@ We use this information to help us make our site more useful to visitors - to le
 
 **If You Send Us Personal Information**
 
-If you choose to provide us with personal information, as in an e-mail to the Secretary or someone else or by filling out a form with your personal information and submitting it to us through our website, we use that information to respond to your message and to help us locate for you the information you have requested. We treat e-mails the same way that we regard letters sent to the U.S. Department of Agriculture. We are required to maintain many documents under the Presidential Records Act for historical purposes, but we do not collect personal information for any purpose other than to respond to you. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. The U.S. Department of Agriculture does not collect information for commercial marketing.
+If you choose to provide us with personal information, as in an e-mail to the Secretary or someone else or by filling out a form with your personal information and submitting it to us through our website, we use that information to respond to your message and to help us locate for you the information you have requested. We treat e-mails the same way that we regard letters sent to the U.S. Department of Agriculture. We are required to maintain many documents under the Presidential Records Act for historical purposes, but we do not collect personal information for any purpose other than to respond to you. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or give it to any private organizations. The U.S. Department of Agriculture does not collect information for commercial marketing.
 
 **When You Visit USDA Agency/Staff Office Websites**
 
@@ -48,6 +48,6 @@ Information presented on the USDA website is considered public information and m
 
 If you have any comments or questions about the information presented here please forward them to [howard.baker@usda.gov](mailto:howard.baker@usda.gov)
 
-[Children's Online Privacy Protection Act of 1998](http://www.cio.gov/docs/coppa1.htm)
+[Children's Online Privacy Protection Act of 1998](http://cio.gov/Documents/COPPA_Act_1998.html)
 
 #
