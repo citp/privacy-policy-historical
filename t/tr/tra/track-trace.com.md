@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605035945id_/http%3A//www.track-trace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2002-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021221013935id_/http%3A//www.track-trace.com/privacy.html) for the most accurate reproduction.*
 
 # track-trace - Privacy statement
 
@@ -13,8 +13,6 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 **Log files**  
 We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
-
-We use WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm). 
 
 **Links**  
 This web site containslinks to other sites. Please be aware that we are not responsiblefor the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
