@@ -1,27 +1,105 @@
-> *The following text is extracted and transformed from the gamez.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604022612id_/http%3A//www.gamez.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamez.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094939id_/http%3A//gamez.com/info/privacy.x) for the most accurate reproduction.*
 
 # Gamez.com - The Games Database!
 
-|    
-|  |   
+  
+
+
+  
+
+
+  
+
+
+|  Platform  
+  
   
 ---  
+Name of Game  
+  
+  
+  
+  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
   
 |    
-[](http://adj16.thruport.com/servlet/ajrotator/3914/0/clickCGI?)  
-  
 |    
-  
-  
-  
-  
-  
-  
-  
-  
 | 
 
-[Home](https://web.archive.org/) > Privacy Statement   
+[Home](https://web.archive.org/) » Privacy Statement   
   
   
 **Privacy Statement**  
@@ -104,25 +182,9 @@ If you have any questions about this privacy statement, the practices of this si
   
   
   
-  
-  
-  
-  
 
 
 |    
 |    
-  
-[](http://www.qksrv.net/click-727901-5688268)   
-  
-  
-  
 |    
-  
-  
-  
-  
-  
-  
-(C)opyright 2000-2002 by Gamez.com -- View our [Privacy Statement](https://web.archive.org/info/privacy.html) \-- All rights reserved  
 
