@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211102224id_/http%3A//www.opentext.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622091847id_/http%3A//www.opentext.com/privacy) for the most accurate reproduction.*
 
 # Open Text Corporation Privacy and Security
 
@@ -66,10 +66,11 @@ Web Technology
 
 ### Cookies
 
-A "cookie" is a small text file that may be created on your PC when you visit a Web site. The information in a cookie is specific to your computer but does not reveal any personal information about you and cannot be tracked back to you as a visitor to our site. 
+A "cookie" is a small text file that may be created on your PC when you visit a Web site (if your computer accepts cookies). If a cookie exists, it may be read when you return to the site for a subsequent visit. 
 
 We use cookies in these situations. 
 
+  * To assist in the collection of site visit statistics.
   * If you fill out a form, for example, to register for an event, we may store a temporary cookie on your PC to keep track of the information while you complete the form. Once you send or cancel the form, we remove the temporary cookie from your PC.
   * If we invite you to complete a survey while visiting our site, we store a cookie on your PC to indicate that we have shown you the survey. This cookie will expire after time.
 
