@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 1999-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991109064555id_/http%3A//chronicle.com/about-help.dir/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617141827id_/http%3A//www.chronicle.com/about-help.dir/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle: Privacy Statement
 
 ### Privacy Statement
 
-_The Chronicle_ is committed to protecting the privacy of its subscribers and other users of its on-line services. We follow these policies:
+_The Chronicle_ is committed to protecting the privacy of its subscribers and other users of its online services. We follow these policies:
 
 **E-mail addresses**
 
-We ask subscribers who register for our on-line services to provide us with their e-mail addresses so we can send them a daily e-mail news briefing. We also ask for e-mail addresses from users who want to be notified about job openings in their fields.
+We ask subscribers who register for our online services to provide us with their e-mail addresses so we can send them a daily e-mail news briefing. We also ask for e-mail addresses from users who want to be notified about job openings in their fields.
 
-These addresses are used only to send news and job updates and account information to those subscribers. _The Chronicle_ never sells, rents, or lends e-mail addresses of users to anyone.
+These addresses are used only to send news and job updates and account information to those subscribers. **_The Chronicle_ never sells, rents, or lends e-mail addresses of users to anyone.**
 
 Registered subscribers can change the e-mail messages that they receive, or stop receiving them altogether, at any time by visiting our [e-mail settings page.](https://web.archive.org/cgi-bin/circulation/users/mailinglistreset1.cgi)
 
@@ -20,15 +20,17 @@ E-mail addresses that we collect as part of our "e-mail this article" service ar
 
 **Advertising**
 
-_The Chronicle_ has a contract with an outside company, DoubleClick Inc., to use its technology to deliver ads on our site. This allows us to deliver ads to users according to such factors as domain name and editorial content. Our agreement with DoubleClick specifies that any information collected about our users may only be used to deliver ads on our site and may not be aggregated with other information collected by DoubleClick.
+_The Chronicle_ has a contract with an outside company, DoubleClick Inc., to use its technology to deliver ads on our site. This allows us to deliver ads to users according to such factors as domain name and editorial content.
+
+_The Chronicle_ is not a member of the DoubleClick Network. Our agreement with DoubleClick specifies that information about our users may only be used to deliver ads on our site and may not be aggregated with other information collected by DoubleClick. **We do not provide any personal information, such as names, postal addresses, phone numbers, or e-mail addresses, to DoubleClick.** The only information DoubleClick receives is what is automatically passed by a Web browser, such as Internet Protocol number, domain name, and browser type.
 
 **Cookies**
 
-"Cookies" are bits of data sent from a Web server to a user's machine to be retrieved later. This Web site does not use cookies. However, you may encounter cookies when leaving our site to visit an advertiser's site or another site to which we have linked.
+"Cookies" are bits of data sent from a Web server to a user's machine to be retrieved later for purposes of identification. **This Web site does not use cookies.** However, you may encounter cookies when leaving our site to visit an advertiser's site or another site to which we have linked.
 
 **Postal mailing lists**
 
-_The Chronicle_ sometimes rents its postal mailing list (but never e-mail addresses) to organizations that wish to offer products and services to its subscribers. If you do not wish to receive such mailings, please send an e-mail message to [circulation@chronicle.com.](mailto:circulation@chronicle.com) Please include your on-line account number or your name and address at they appear on your mailing label. That will help us to expedite your request.
+_The Chronicle_ sometimes rents its postal mailing list (but never e-mail addresses) to organizations that wish to offer products and services to its subscribers. If you do not wish to receive such mailings, please send an e-mail message to [circulation@chronicle.com.](mailto:circulation@chronicle.com) Please include your online account number or your name and address as they appear on your mailing label. That will help us to expedite your request.
 
 **Survey information**
 
@@ -36,7 +38,7 @@ _The Chronicle_ may ask subscribers or other users to provide demographic or oth
 
 **Financial information**
 
-_The Chronicle_ collects financial information (usually credit-card numbers) only to bill for subscriptions or other products or services. Credit-card information is not kept by _The Chronicle_ or its subscription service bureau.
+_The Chronicle_ collects financial information (usually credit-card numbers) only to bill for subscriptions or other products or services.
 
 **Links to other sites**
 
@@ -48,13 +50,13 @@ This site makes forums (such as the Colloquy discussions and Letters to the Edit
 
 **Modifying or canceling services**
 
-You can modify information in our data base by visiting our subscriber-services page at [http://chronicle.com/services](https://web.archive.org/services/services.htm)
+You can modify information in our database by visiting our subscriber-services page at [http://chronicle.com/services](https://web.archive.org/services/services.htm)
 
 You can also send an e-mail message to [help-today@chronicle.com](mailto:help-today@chronicle.com)
 
 **Contacting The Chronicle**
 
-If you have any questions about this privacy statement, the practices of _The Chronicle_ or its on-line service, or any other aspects of this Web site, please contact:
+If you have any questions about this privacy statement, the practices of _The Chronicle_ or its online service, or any other aspects of this Web site, please contact:
 
 Philip W. Semas  
 Editor, New Media  
