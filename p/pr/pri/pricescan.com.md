@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricescan.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413023627id_/http%3A//www.pricescan.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricescan.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211142728id_/http%3A//pricescan.com/privacy.asp) for the most accurate reproduction.*
 
 # PriceSCAN Privacy Policy
 
