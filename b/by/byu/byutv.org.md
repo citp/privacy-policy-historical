@@ -1,66 +1,53 @@
-> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408045425id_/http%3A//www.kbyu.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204210205id_/http%3A//www.byutv.org/privacy) for the most accurate reproduction.*
 
-# Privacy Statement for kbyu.org
+# BYU Television | Privacy Policy
 
-**Privacy Policy for kbyu.org**
-
-KBYU has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: ** kbyu.org ** . 
-
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
-
-Our site uses cookies to keep track of your shopping cart. 
-
-Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-This site contains links to other sites. **kbyu.org** is not responsible for the privacy practices or the content of such Web sites. 
-
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers (like their phone number), and financial information (like their account or credit card numbers). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as phone numbers) are collected from Web site visitors for use as account numbers in our record system. 
-
-Our online surveys ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-**Security**
-
-We take security of your information seriously. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-**Children's Guidelines**
-
-This Web site meets the guidelines of TRUSTe's Children's program, which include: 
-
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent 
-  2. NOT collect personally identifiable offline contact information without prior parental consent 
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent 
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent 
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+|    
+---  
+ [About](https://web.archive.org/about/ "Information about BYU Television")  
+ [Listings](https://web.archive.org/listings/ "Click to see what's on BYUTV")  
+ [Streaming](https://web.archive.org/streaming/ "Watch BYUTV from your computer")  
+ [Top Programs](https://web.archive.org/topprograms/ "BYUTV's top ten programs")  
+ [Find a Talk](http://byubroadcasting.org/findatalk "Find a Talk in our database")  
+ [Devotional Broadcasts](https://web.archive.org/devotionals/ "Devotionals being shown on BYUTV")  
+ [Sports](http://byubroadcasting.org/sports/ "Get information about BYU Sports")  
+ [Get BYUTV](https://web.archive.org/getbyutv/ "Find out how to get BYUTV")  
+ [Contact](https://web.archive.org/contact/ "Contact BYUTV")  
+ [FAQ](https://web.archive.org/faq/ "Frequently Asked Questions about BYUTV")  
+   
+ [BYUBroadcasting.org](http://www.byubroadcasting.org/)  
+ [KBYUTV.org](http://www.kbyutv.org/)  
+ [KBYUFM.org](http://www.kbyufm.org/)  
+ [BYUTV.org](http://www.byutv.org/ "Visit the BYUTV Web Site")  
+ [BYURadio.org](http://www.byuradio.org/ "Visit the BYURadio Web Site")  
+ [Store](https://www2.kbyu.org/store/)  
+ [Membership](https://www2.kbyu.org/membership/byutvnew.asp)  
+  
+|  |    
+  
+Privacy Policy   
 
 
+We here at BYU Television would like to thank you for visiting our Web site! We are pleased to have the opportunity to help make the Internet a secure, private, and reliable place to share information. This Privacy Statement explains how we collect and use information from our Web site visitors.
 
-**Choice/Opt-Out**
+**What information is collected?**  
+BYU Television only collects information on a voluntary basis. The personal information BYU Television collects is used almost exclusively for internal purposes and will usually take the form of: (1) byutv.org's comment form submission (usually an email, or mailing address, depending on what the submitter chooses); (2) a pledge submission, or membership submission, supplied by the the user (usually mailing and phone information as well as payment information) who wishes to be a pledging member of BYU Television; or (2) other general information contained in an email (e.g., comments). This information is used internally for reports, further contact with the individual (questions on an account, responding to comments or questions, etc.). BYU Television **NEVER** sells or gives this information to third parties. We respect your right to privacy, and will not give this information to anyone outside our organization.
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
+**Is the transmission of this information secure?**  
+BYUtv.org employs the use of the latest encryption technology for transmitting information via your internet browser. To ensure that you are able to fully utilize this technology, it is suggested you upgrade your browser to the latest version available. A secured page can be identified by looking at the URL in your address bar. If it says "https://" instead of "http://" you are using a secured page to safely transmit your information to us. Click the image below to learn more about our secure certification:  
+[ ](https://digitalid.verisign.com/as2/49888d545b4a6043d72f397acc740588)
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+**What about cookies?**  
+Cookies are a feature of your Web browser that allow Websites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. byutv.org does use cookies for the purpose of storing your preferences for listings layout and time zone, but for no other reason. However, because we do offer hyperlinks to other sites of interest, there is the possibility that one of those Websites may use cookies. Most internet browsers are automatically set to accept cookies. If you are concerned about the placement of cookies on your computer, you can set your browser to alert you when cookies are being sent.
 
-  1. You can send email to [kbyu@byu.edu](mailto:kbyu@byu.edu)
-  2. You can visit the following URL: <http://www2.kbyu.org/update/>
-  3. You can call the following telephone number: 801-378-8450 
+**What about internet protocol addresses?**  
+We do log IP addresses for use in our own internal evaluation of the website, to bring users better options, and a better website. An IP address is the unique number assigned to your server or Internet Service Provider ("ISP"). IP addresses do not identify you personally. We never share this information with outside sources, and use it only for internal statistical analysis of the traffic on our website.
 
+**What about links to other Web sites?**  
+You should be aware that there are links to other Web sites from byuradio.org. When you link to other Web sites from us, please be aware that these Web sites are beyond our control. We cannot guarantee that these websites maintain a privacy policy like ours. As always, we recommend that you read the privacy policy of the Web site are linking to.
 
-
-**Correct/Update**
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. You can send email to [kbyu@byu.edu](mailto:kbyu@byu.edu)
-  2. You can call the following telephone number: 801-378-8450 
-
-
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-**Webmaster** **KBYU** **2000 Ironton Blvd.** **Provo, Utah, USA 84606** [**kbyu@byu.edu**](mailto:kbyu@byu.edu)
+**What if I have a question or complaint?**  
+If you have any questions, comments, or criticisms regarding this statement or Callofstory.org's information practices please contact us! You can view our contact information on the [contact page](https://web.archive.org/contact/).
 
   
-**© KBYU. All Rights Reserved.  
-A Service of Brigham Young University.**
+| 
