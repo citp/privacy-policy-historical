@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210122914id_/http%3A//www.myfreeshares.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206184608id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
 
-# MyFreeShares.com
+# MyFreeShares - get paid just for being our member !
+
+active members :  
+38204 | 
 
 **Privacy Policy Statement  
 This is the web site of MyFreeShares.com.**
@@ -22,8 +25,49 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.  
-Consumers can access this information by e-mail us at the above address, visiting us at [http://www.MyFreeShares.com](http://www.myfreeshares.com/).
+Consumers can access this information by e-mail us at the above address. 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+
+  
+
+
+****Copyright (C) 2004. www.myfreeshares.com. All rights reserved****
+
+|  | 
+
+**ADVERTISERS !**  
+Highly effective advertising  
+  
+---  
+**[UNIQUE HITS :](http://www.myfreeshares.com/banner.php?ref=)**  
+**10,000** UNIQUE HITS  
+for only **$15**  
+**20,000** UNIQUE HITS  
+for only **$25**  
+**50,000** UNIQUE HITS  
+for only **$50**  
+**100,000** UNIQUE HITS  
+for only **$80**  
+**[FREE SIGN UPS :](http://www.myfreeshares.com/banner.php?ref=)**  
+**50** FREE SIGN UPS  
+for only **$25**  
+**100** FREE SIGN UPS  
+for only **$45**  
+**150** FREE SIGN UPS  
+for only **$65**  
+**200** FREE SIGN UPS  
+for only **$85**  
+**[BANNER IMPRESSIONS :](http://www.myfreeshares.com/banner.php?ref=)**  
+**100,000** BANNER IMP.  
+for only **$7**  
+**200,000** BANNER IMP.  
+for only **$13**  
+**500,000** BANNER IMP.  
+for only **$30**  
+**1,000,000** BANNER IMP.  
+for only **$50**  
+**> >> [MORE INFO](http://www.myfreeshares.com/banner.php?ref=)  
+>>> [ORDER NOW](http://www.myfreeshares.com/banner.php?ref=)**
