@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldsplanet.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210115447id_/http%3A//www.ldsplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldsplanet.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413095245id_/http%3A//www.ldsplanet.com/privacy) for the most accurate reproduction.*
 
 # LDSplanet.com - Bringing Single LDS Members Together
 
