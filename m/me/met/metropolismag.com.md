@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402165953id_/http%3A//www.metropolismag.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204164216id_/http%3A//www.metropolismag.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Metropolis Magazine
 
-Privacy Statement Bellerophon Publications, Inc., is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+Privacy Statement
+
+Bellerophon Publications, Inc., is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
 **Subscription**  
 We request information from the user on our subscription order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Our subscriber list is sometimes rented to direct-response mailers. If you would prefer that you only be contacted about _Metropolis_ -related billing and processing matters, please let us know by writing to us at _Metropolis_ , P.O. Box 609, Mt. Morris, Illinois 61054 or by calling us at (800) 344-3046.
@@ -55,4 +57,4 @@ New York, NY 10010
 
 USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY
 
-© Bellerophon Publications, Inc. 2003, All rights reserved.
+© Bellerophon Publications, Inc. 2004, All rights reserved.
