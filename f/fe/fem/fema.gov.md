@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fema.gov privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607011035id_/http%3A//www.fema.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fema.gov privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214230129id_/http%3A//www.fema.gov/privacy.htm) for the most accurate reproduction.*
 
 # FEMA_Viewer Privacy and Security Notice
 
