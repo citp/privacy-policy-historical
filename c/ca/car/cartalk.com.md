@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402164029id_/http%3A//cartalk.cars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2002-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021122033931id_/http%3A//cartalk.cars.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
