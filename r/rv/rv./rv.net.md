@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602192157id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031143id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
 
-# RV.NET :: Serving Enthusiasts of the Open Road
-
-## Privacy Policy
+# RV.Net : Privacy Policy
 
 We are committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use, and share information gathered about you on our family of Web sites which includes all of the sites listed below. This privacy policy is the same for all of our sites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet. [www.affinitygroup.com](http://www.affinitygroup.com/)  
 [www.americanrider.com](http://www.riderreport.com/)  
