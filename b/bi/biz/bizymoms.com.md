@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201021133id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603234358id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
 
 # Bizy Moms.com - Our Privacy Policy - The site for work at home information, ideas, and advice.
 
@@ -7,6 +7,7 @@
 [](http://www.bizymoms.com/)  
 [](http://www.bizymoms.com/startup.html)  
 [](http://www.bizymoms.com/main/?10000!chat)  
+[](http://www.bizymoms.com/cgi-bin/sgx/shop.cgi?afnum=10000&page=classlist.html)  
 [](http://www.bizymoms.com/chat.html)  
 [](http://www.bizymoms.com/discus)  
 [](http://www.bizymoms.com/artnadv.html)  
@@ -24,7 +25,7 @@ _ ** ****
 
 **This web site is owned by[Liz Folger](http://www.bizymoms.com/lizfolger.html).**
 
-She can be reached via e-mail at [LizFolger@bizymoms.com](mailto:LizFolger@bizymoms.com)  
+She can be reached via e-mail at [bizymoms@bizymoms.com](mailto:bizymoms@bizymoms.com)  
 Or you can reach her by telephone at 530-938-2253.
 
 Mailing Address: Bizymoms, 5709 Brook Ln., Weed, CA 96094
