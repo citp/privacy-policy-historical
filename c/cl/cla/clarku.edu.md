@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607045649id_/http%3A//www.clarku.edu/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207075400id_/http%3A//www2.clarku.edu/newsite/home/privacy.htm) for the most accurate reproduction.*
 
-# Untitled Document
+# Clark University
 
 Privacy Policy  
 
@@ -28,7 +28,3 @@ Our system administrators respect the privacy of the users of on-campus systems 
 Using an easy point and click interface, we've developed some sections of the site where you can enter your credit card number or bank information and submit it to us. 
 
 Clark does not collect or assemble personal information for sale. The information is transmitted using the latest encryption technology with today's browsers and housed by a third-party affiliate. We strongly feel that your information should be kept on a server that specializes in 24-hour security and do everything we can to ensure we protect our visitors. Access is only given to those qualified professionals who are assigned the job of meeting your requests. 
-
-* * *
-
-_© 1999 Clark University. All Rights Reserved._
