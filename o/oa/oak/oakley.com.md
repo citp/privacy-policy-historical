@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakley.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008182751id_/http%3A//x.oakley.com/help/security/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakley.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607073752id_/http%3A//oakley.com/help/security/privacy_policy) for the most accurate reproduction.*
 
 # OAKLEY - PRIVACY & SECURITY - PRIVACY POLICY
 
