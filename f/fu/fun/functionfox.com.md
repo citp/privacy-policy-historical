@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the functionfox.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207084452id_/http%3A//www.functionfox.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the functionfox.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209041652id_/http%3A//www.functionfox.com/privacy.html) for the most accurate reproduction.*
 
 # FunctionFox - Privacy Statement - Simple, affordable, online timesheets and expense tracking for small creative companies.
 
@@ -36,7 +36,7 @@ We do not use cookies to examine your surfing behavior before or after leaving o
 
 **Is my information safe?**
 
-FunctionFox maintains a secure online environment so you can safely provide information, purchase services, and access information. Stringent security protocols are in place to prevent the loss, misuse, or alteration of any information. We consider your information sensitive and private and we are determined to handle it with the utmost care. We have Verisign Secure Socket Layer (SSL) certification, which is used by major credit card and financial institutions around the world. If you would like more information about our security procedures, see our [Security page](https://web.archive.org/web/20031207084452id_/http%3A//www.functionfox.com/security.asp). 
+FunctionFox maintains a secure online environment so you can safely provide information, purchase services, and access information. Stringent security protocols are in place to prevent the loss, misuse, or alteration of any information. We consider your information sensitive and private and we are determined to handle it with the utmost care. We have Verisign Secure Socket Layer (SSL) certification, which is used by major credit card and financial institutions around the world. If you would like more information about our security procedures, see our [Security page](https://web.archive.org/web/20041209041652id_/http%3A//www.functionfox.com/security.html). 
 
 If you authorize us to send you promotional materials, we may do so using either the e-mail or the mailing addresses you provided on the billing information screens. From time to time we may notify you of special promotions, new products or services, or other information that may interest you. We do not share any information you provide to us, including your e-mail and mail addresses, with any companies outside FunctionFox except where indicated above. 
 
