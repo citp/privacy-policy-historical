@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212151119id_/http%3A//swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408234014id_/http%3A//www.swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
 
 # SWIFT - Home - About SWIFT - SWIFT data privacy
 
