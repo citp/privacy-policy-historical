@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catertrax.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602014654id_/http%3A//www.catertrax.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catertrax.com privacy policy that was archived on 2003-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031006084905id_/http%3A//www.catertrax.com/Privacy.asp) for the most accurate reproduction.*
 
 # CaterTrax Catering, Takeout & Delivery Software by Hospitality101
 
