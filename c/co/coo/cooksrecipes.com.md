@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217193853id_/http%3A//cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604015129id_/http%3A//cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for CooksRecipes.com
 
@@ -18,13 +18,21 @@
 > 
 > Persons who supply CooksRecipes.com with their telephone numbers on-line will only receive telephone contact from us regarding the information for which you provided us your telephone number.
 > 
-> With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+> With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, please consult the privacy policies of:
 > 
->     [Advertising.com ](http://www.advertising.com/privacy/index.html)(Miscellaneous banner ads)
->     [Amazon.com](http://www.amazon.com/exec/obidos/subst/misc/policy/privacy.html/103-2773401-3571001)
->     [Gifts.com ](http://www.gifts.com/)(A Reader's Digest company)
->     [OneShare.com](http://wwwoneshare.com/)
->     [Commission Junction](http://www.cj.com/)
+>     [**Ashford.com**](http://service.bfast.com/bfast/click?bfmid=12750952&siteid=38707972&bfpage=home)
+>     [**Amazon.com**](http://www.amazon.com/exec/obidos/redirect-home?tag=cooksrecipescom)
+>     **[Barnes& Noble.com](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=39243003&categoryid=rn_home)**
+>     [**Be Free**](http://www.befree.com/)
+>     [**Commission Junction**](http://www.cj.com/)
+>     **[Fastclick.com](http://www.fastclick.com/re.f?7609)**
+>     [**KitchenEtc.com**](http://www.kitchenetc.com/)
+>     [**LinenSource.com**](http://www.linensource.com/)
+>     [**"M &M's" Colorworks®**](http://service.bfast.com/bfast/click?bfmid=19698942&siteid=38707972&bfpage=homepage)
+>     [**PETsMART.com**](http://www.petsmart.com/)
+>     [**Shari's Berries®**](http://service.bfast.com/bfast/click?bfmid=6040392&siteid=38181712&bfpage=homepage)
+>     [**The Home Marketplace**](http://www.qksrv.net/click-500065-8234096) ****
+>     [**The Vermont Country Store**](http://www.vermontcountrystore.com/)
 > 
 > If CooksRecipes.com's policy on information practices change at some time in the future, we will use only the data collected from the time of our policy change forward.
 > 
@@ -35,4 +43,4 @@
 > If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 > 
 > Contacting CooksRecipes.com:
-> CooksRecipes.com P. O. Box 403 Grants Pass, Oregon 97528 [CooksRecipes.com@cooksrecipes.com](mailto:CooksRecipes@cooksrecipes.com) Revised December 11, 2001
+> CooksRecipes.com P. O. Box 403 Grants Pass, Oregon 97528 [CooksRecipes.com@cooksrecipes.com](mailto:CooksRecipes@cooksrecipes.com)
