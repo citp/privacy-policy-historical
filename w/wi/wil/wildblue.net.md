@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildblue.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607084443id_/http%3A//www.wildblue.net/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildblue.net privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214091734id_/http%3A//www.wildblue.net/legal/privacy.asp) for the most accurate reproduction.*
 
 # WildBlue Communications - Privacy Policy
 
