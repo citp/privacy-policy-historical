@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acronis.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609191923id_/http%3A//www.acronis.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronis.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207225547id_/http%3A//www.acronis.com/company/privacy.html) for the most accurate reproduction.*
 
 # Acronis.com :: Company :: Privacy Statement
 
@@ -50,4 +50,4 @@ Considering all of us demand our information remain private and secure, and that
 
 If, after reading this statement, you have any questions about Acronis' privacy policy, please send an email to [info@acronis.com](mailto:info@acronis.com).
 
- 
+   
