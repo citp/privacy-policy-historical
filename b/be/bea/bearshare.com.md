@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209114002id_/http%3A//www.bearshare.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622065915id_/http%3A//www.bearshare.com/privacy.htm) for the most accurate reproduction.*
 
 # BearShare - The World's Best Gnutella Client
 
