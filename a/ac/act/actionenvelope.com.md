@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the actionenvelope.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120235id_/http%3A//www.actionenvelope.com/info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionenvelope.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611022816id_/http%3A//www.actionenvelope.com/info.html) for the most accurate reproduction.*
 
 # Action Envelope Info
 
 Welcome to The Action Envelope Customer Service Center.   
 Here you will find the answers to your questions about shopping this site, tracking your order, our policies and more. Simply select from the categories below for complete information.
 
-Send comments and questions to [**support@actionenvelope.com**](mailto:support@actionenvelope.com), or **Call (800) 653-1705**
+Send comments and questions to [**service@actionenvelope.com**](mailto:service@actionenvelope.com), or **Call (800) 653-1705**
 
 Track your order:
 
@@ -35,7 +35,7 @@ UPS 2nd Day Air
 
 We do not ship orders to US Military APO boxes. We Apologize.
 
-If you have any questions regarding our shipping policy contact [support@actionenvelope.com. ](mailto:support@actionenvelope.com.)
+If you have any questions regarding our shipping policy contact [service@actionenvelope.com](mailto:service@actionenvelope.com)
 
  **Payment**
 
@@ -43,10 +43,10 @@ If you have any questions regarding our shipping policy contact [support@actione
 
 Credit cards accepted: 
 
-* Visa   
-* MasterCard   
-* American Express   
-* Discover Card 
+* Visa  
+* MasterCard  
+* American Express  
+* Discover Card
 
 Other forms of payment: 
 
@@ -104,7 +104,7 @@ If your order is cancelled, you will receive an notice regarding your order via 
   
 **Return Policies**
 
-YOU MUST CALL 800-653-1705 TO RECEIVE AN RMA NUMBER TO GET CREDIT FOR RETURNS. Returns must be received no later than 14 days after receipt by customer. All returns will be charged a 25% restocking fee and you will receive a CREDIT for that merchandise. All returns must be sent back in their original packaging in a resellable condition. Please [**Download Return Authorization Form**](https://web.archive.org/lib/actionenvelopes/RMA.pdf) and include it with the return. You can expect a refund in the same form of payment originally used for purchase within 3 days of our receiving your returned product. You will be refunded the shipping cost only if the return is a result of a shipping error on our part. Calls for RMA numbers for incorrect/incomplete orders must be made within 72 hours of receiving the order.
+YOU MUST CALL 800-653-1705 TO RECEIVE AN RMA NUMBER TO GET CREDIT FOR RETURNS. Returns must be received no later than 14 days after receipt by customer. All returns will be charged a 25% restocking fee and you will receive a CREDIT for that merchandise. All returns must be sent back in their original packaging in a resellable condition. Please [**Download Return Authorization Form**](http://lib1.store.vip.sc5.yahoo.com/lib/actionenvelopes/RMA.pdf) and include it with the return. You can expect a refund in the same form of payment originally used for purchase within 3 days of our receiving your returned product. You will be refunded the shipping cost only if the return is a result of a shipping error on our part. Calls for RMA numbers for incorrect/incomplete orders must be made within 72 hours of receiving the order.
 
 **Damaged or Defective Items **
 
@@ -118,19 +118,11 @@ We will not accept any returns of printed envelopes, unless we have printed the 
 
 Emails can be sent to the following addresses:
 
-[support@actionenvelope.com](mailto:support@actionenvelope.com) \- for your general customer service questions
+[service@actionenvelope.com](mailto:service@actionenvelope.com) \- for your customer service questions
 
-[sales@actionenvelope.com](mailto:sales@actionenvelope.com) \- for additional information about our products
-
-[info@actionenvelope.com](mailto:info@actionenvelope.com) \- for general information about our company
-
-[affiliate@actionenvelope.com](mailto:affiliate@actionenvelope.com) \- for information about our affiliate program 
+[art@actionenvelope.com](mailto:art@actionenvelope.com) \- for sending your images and text for printed and custom envelopes
 
 [jobs@actionenvelope.com ](mailto:jobs@actionenvelope.com) \- for questions regarding employment opportunities 
-
-[output@actionenvelope.com](mailto:output@actionenvelope.com) \- for sending Action Envelope your images and text for printed and custom envelopes
-
-[webmaster@actionenvelope.com](mailto:webmaster@actionenvelope.com) \- for comments and questions regarding your experience with our site
 
 We will make every effort to respond promptly to all emails and inquiries.
 
@@ -138,12 +130,12 @@ We will make every effort to respond promptly to all emails and inquiries.
 
 **Toll Free - (800)-653-1705    
 In New York - (631) 249-4545  
-Fax - (631)-249-5484.**
+Fax - (631)-249-5484**
 
 **Your standard mail correspondence should be sent to:**
 
 **Action Envelope  
-245 Adams Boulevard   
+1646 New Highway  
 Farmingdale, NY 11735**
 
  **Safety, Security, and Privacy**
@@ -184,7 +176,7 @@ Our web site contains links to sites developed by other companies and organizati
 
 **"Opt Out" Policy **
 
-By default, we do not send Action Envelope users any unsolicited email. We only send notifications of product updates, etc., if a user has specifically requested this information. The choice of whether or not to receive these notifications can be changed at any time bysending an email to [support@actionenvelope.com](mailto:support@actionenvelope.com)
+By default, we do not send Action Envelope users any unsolicited email. We only send notifications of product updates, etc., if a user has specifically requested this information. The choice of whether or not to receive these notifications can be changed at any time bysending an email to [service@actionenvelope.com](mailto:service@actionenvelope.com)
 
 **Updating Your Information **
 
@@ -204,13 +196,13 @@ If another website attempts to falsely identify itself as www.Action Envelope.co
 
 **How You Can Help Keep Your Information Secure  **
 
-The most important step you can take to keep your information secure is to keep your password secure. Do not give your password to other people and avoid choosing "easily guessed" passwords (e.g. any single word in the dictionary, proper names of people and places easily associated with you, etc.). Change your password immediately if you suspect someone has been accessing your account without your permission (click on the "Profile" section of the Action Envelope web site after logging in). If for any reason you suspect a security violation has occurred, please immediately send an email to [support@actionenvelope.com](mailto:support@actionenvelope.com) with a description of the situation. 
+The most important step you can take to keep your information secure is to keep your password secure. Do not give your password to other people and avoid choosing "easily guessed" passwords (e.g. any single word in the dictionary, proper names of people and places easily associated with you, etc.). Change your password immediately if you suspect someone has been accessing your account without your permission (click on the "Profile" section of the Action Envelope web site after logging in). If for any reason you suspect a security violation has occurred, please immediately send an email to [service@actionenvelope.com](mailto:service@actionenvelope.com) with a description of the situation. 
 
 **Your Consent **
 
 In addition to the circumstances described above, Action Envelope may disclose or release information when we, in good faith, believe that doing so is reasonably necessary to (i) comply with the law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property or safety of Action Envelope, our users, or others. By using our web site, you consent to the collection and use of information by Action Envelope as described in this Privacy Policy. If we decide to change our policy, we will post those changes here so you will always know what information we gather, how we use it and under what circumstances we disclose it. 
 
-If you have any questions regarding Action Envelope's privacy policy and practices, please direct them to the [ Action Envelope Support Team](mailto:support@actionenvelope.com).
+If you have any questions regarding Action Envelope's privacy policy and practices, please direct them to the [Action Envelope Support Team](mailto:service@actionenvelope.com).
 
 (Return to Privacy Statement Contents)
 
@@ -242,13 +234,11 @@ On WebTV, press the "INFO" button on the keyboard (select the "Options" button a
 **We accept the following file formats:**  
 *** EPS  
 * TIF  
-* HIGH RES GIF  
 * HIGH RES JPEG   
 * DOC  
 * TXT  
-* PDF  
-* PNG**
-
+* PDF**  
+* **AI**  
 How to upload your images
 
 **To upload your image, follow these three simple steps:**
