@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215005id_/http%3A//www.e-myth.com/pub/htdocs/20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2004-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041024034150id_/http%3A//www.e-myth.com/pub/htdocs/20) for the most accurate reproduction.*
 
 # E-Myth Worldwide
 
-|  Small business owners, you’ve come to the right place . . .  
-E-Myth Privacy Policy  
-_Because running a small business should be easy_ We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
+We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
 
 **Why did you receive an email from us?**  
 If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
@@ -20,6 +18,3 @@ Please send an email to webmaster@e-myth.com from the email address that you wis
 
 **Traffic Analysis**  
 We use WebTrends Live to analyze traffic to this website. The information we collect is used to improve the content of our website. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services, WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. We recommend that you also review the [WebTrends Live privacy policy](http://www.webtrendslive.com/privacy_policy.htm).
-
-  
-
