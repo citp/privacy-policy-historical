@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referenceusa.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408032058id_/http%3A//www.referenceusa.com/privacy/pr.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referenceusa.com privacy policy that was archived on 2001-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010802073550id_/http%3A//www.referenceusa.com/privacy/pr.asp) for the most accurate reproduction.*
 
 # Reference USA : Privacy Statement
 
@@ -7,7 +7,7 @@
 
 **Overview**
 
-infoUSA Inc. created this privacy statement in order to demonstrate our firm commitment to privacy. We believe that concern for everyone's privacy is a basis for sound business practices within direct marketing and other arenas. This statement is intended to apply to all visitors to the web sites owned and operated by infoUSA Inc. If you have any questions after reading this privacy statement, you may contact infoUSA at 1-877-708-3843. 
+infoUSA Inc. created this privacy statement in order to demonstrate our firm commitment to privacy. We believe that concern for everyone's privacy is a basis for sound business practices within direct marketing and other arenas. This statement is intended to apply to all visitors to the web sites owned and operated by infoUSA Inc. If you have any questions after reading this privacy statement, you may contact infoUSA at 1-800-808-1113. 
 
 **Collection of Information**
 
