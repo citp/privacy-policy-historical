@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621160303id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091912id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
-# InternetDJ.com - The Global Independent Music & DJ Network
+# InternetDJ.com - Privacy Statement for InternetDJ.com
 
-[](https://web.archive.org/web/20030621160303id_/http%3A//www.internetdj.com/search.php?query=&topic=31) Written by [**internetdj**](https://web.archive.org/web/20030621160303id_/http%3A//www.internetdj.com/user.php?op=userinfo&uname=internetdj)  
+[](https://web.archive.org/search.php?query=&topic=31) Written by [**internetdj**](https://web.archive.org/web/20031206091912id_/http%3A//www.internetdj.com/user.php?op=userinfo&uname=internetdj)  
 Thursday, August 09 2001
 
-[](https://web.archive.org/web/20030621160303id_/http%3A//www.internetdj.com/friend.php?op=FriendSend&itemid=30&type=article) [Send to Friend](https://web.archive.org/web/20030621160303id_/http%3A//www.internetdj.com/friend.php?op=FriendSend&itemid=30&type=article)     [](https://web.archive.org/web/20030621160303id_/http%3A//www.internetdj.com/print.php?storyid=30) [Print Article](https://web.archive.org/web/20030621160303id_/http%3A//www.internetdj.com/print.php?storyid=30)
+[](https://web.archive.org/friend.php?op=FriendSend&itemid=30&type=article) [Send to Friend](https://web.archive.org/friend.php?op=FriendSend&itemid=30&type=article)     [](https://web.archive.org/web/20031206091912id_/http%3A//www.internetdj.com/print.php?storyid=30) [Print Article](https://web.archive.org/web/20031206091912id_/http%3A//www.internetdj.com/print.php?storyid=30)
 
 InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
 
