@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beachhouse.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605184045id_/http%3A//www.beachhouse.com/aboutus/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachhouse.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207213035id_/http%3A//beachhouse.com/aboutus/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **1\. WHAT THIS PRIVACY POLICY COVERS**
 
-This Privacy Policy covers Beachhouse.com's treatment of personally identifiable information that Beachhouse.com collects when you are on the Beachhouse.com site, and when you use Beachhouse.com's services. This policy also covers Beachhouse.com's treatment of any personally identifiable information that Beachhouse.com's business partners share with Beachhouse.com or that Beachhouse.com may collect on a partner's site. 
+This Privacy Policy covers Beachhouse.com®'s treatment of personally identifiable information that Beachhouse.com collects when you are on the Beachhouse.com site, and when you use Beachhouse.com's services. This policy also covers Beachhouse.com's treatment of any personally identifiable information that Beachhouse.com's business partners share with Beachhouse.com or that Beachhouse.com may collect on a partner's site. 
 
 This policy does not apply to the practices of companies that Beachhouse.com does not own or control, or to people that Beachhouse.com does not employ or manage.
 
