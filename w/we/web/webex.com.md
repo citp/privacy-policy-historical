@@ -1,24 +1,11 @@
-> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625195742id_/http%3A//www.webex.com/privacy.html%3FTrack%3Dhometext) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206101628id_/http%3A//www.webex.com/webex_privacy.html) for the most accurate reproduction.*
 
-# WebEx - Privacy Policy
-
-[](http://try.webex.com/mk/get/livedemo?TrackID=2)  
-join a free live demo  
-  
-[](http://try.webex.com/mk/get/learnmore)  
-WebEx information  
-and resources  
-  
-  
-Click or call us  
-at **1-877-509-3239**  
-or **+1-408-435-7048**
-
-| 
+# WebEx - Privacy Statement
 
 WebEx respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other Web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Individual Identifying Information that you share with us. "Individual Identifying Information" is information that enables us to identify you, such as your email address, name, title and mailing address. This policy governs Web-sites owned and operated by WebEx. Our policy does not govern Web-sites of other parties to which we may provide links, because WebEx is not responsible, and can not control the privacy practices or content of those sites. To demonstrate our commitment to fair information practices, we have adopted leading communication industry privacy guidelines. Additionally, we urge you at all times to use caution when providing Individual Identifying Information, and suggest that you read the Federal Trade Commission’s suggested safety precautions for internet surfing, which can be found by clicking [here](http://www.ftc.gov/bcp/conline/edcams/infosecurity/index.html).
 
-**Our Philosophy and Practices**  
+## Our Philosophy and Practices
+
 We want to give you the comfort and confidence you need to fully participate in our online offerings so that we can better serve your needs. Therefore, here are the principles governing our information practices and other privacy aspects of our Web sites:
 
   * Information Collection and Use
@@ -34,7 +21,7 @@ We want to give you the comfort and confidence you need to fully participate in 
 
 
 
-**Information Collection and Use**
+### Information Collection and Use
 
   * WebEx collects Individual Identifying Information when you register for a WebEx account, or use certain WebEx products or services, when you visit WebEx pages, and when you enter promotions or sweepstakes. WebEx may also receive Individual Identifying Information from our business partners. 
   * When you register with WebEx, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests, or other information. Once you register with WebEx and sign in to our services, you are not anonymous to us. 
@@ -44,7 +31,7 @@ We want to give you the comfort and confidence you need to fully participate in 
 
 
 
-**Information Sharing and Disclosure**
+### Information Sharing and Disclosure
 
   * WebEx will not sell or rent your Individual Identifying Information to anyone. 
   * WebEx will send Individual Identifying Information about you to other companies or people when: 
@@ -52,18 +39,18 @@ We want to give you the comfort and confidence you need to fully participate in 
     * We need to share your information to provide the product or service you have requested; 
     * We need to send the information to companies who work on behalf of WebEx to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the Individual Identifying Information we provide to them beyond what is necessary to assist us.); 
     * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our Web sites violate the [WebEx Terms of Service](https://web.archive.org/web/20030625195742id_/http%3A//www.webex.com/terms.html), or any of our usage guidelines for specific products or services. 
+    * We find that your actions on our Web sites violate the [WebEx Terms of Service](https://web.archive.org/web/20031206101628id_/http%3A//www.webex.com/webex_terms.html), or any of our usage guidelines for specific products or services. 
 
 
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**
+### Your Ability to Edit and Delete Your Account Information and Preferences
 
   * WebEx gives you the ability to edit your WebEx Account Information and preferences at any time, including whether you want WebEx to contact you about specials and new products. 
   * You may request deletion of your WebEx account by sending an email to [account-remove@webex.com](mailto:account-remove@webex.com). Please click here to read about what information may possibly remain in our archived records after your account has been deleted. 
 
 
 
-**Security**
+### Security
 
 WebEx Meetings take place within the context of a switched communications environment. With WebEx, any session information (such as applications, chat, polling data, documents, video, and voice) provided by participants within a meeting is never saved on the WebEx switching platform but is instead instantly switched between meeting participants. The WebEx switching environment is architected similarly to the telephone switching environment; once the call is over all remnants of the content of that call dissipate, leaving only a record that a call took place. Further, the only means to participate in a meeting is through the WebEx invitation and join process; WebEx employees can therefore only participate in WebEx customer meetings when expressly permitted by our customer.
 
@@ -73,17 +60,17 @@ WebEx Meetings take place within the context of a switched communications enviro
 
 
 
-**Changes to this Privacy Policy**
+### Changes to this Privacy Policy
 
 If we change any of our privacy policies or practices, we'll post those changes to this policy statement at least 30 days before they take effect. In limited cases, we may be required to disclose certain information to comply with a legal process, such as a court order, subpoena or search warrant.
 
-**Questions or Suggestions**
+### Questions or Suggestions
 
   * If you have questions or suggestions complete a feedback form or send an email to [security@webex.com](mailto:security@webex.com). 
 
 
 
-**IP Information Collection and Use Practices**
+### IP Information Collection and Use Practices
 
   * WebEx receives IP addresses from all users because this information is automatically reported by your browser each time you view a Web page. 
   * Your IP address is also stored in our user registration databases when you register with WebEx. 
@@ -95,8 +82,9 @@ If we change any of our privacy policies or practices, we'll post those changes 
 
 
 
-**Cookies  
-**A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a Web site's computers and stored on your computer's hard drive.
+### Cookies
+
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a Web site's computers and stored on your computer's hard drive.
 
 Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
@@ -120,7 +108,7 @@ WebEx uses its own cookies for a number of purposes, including to:
 
 
 
-**Data Storage**
+### Data Storage
 
 _Account Information_
 
@@ -138,11 +126,6 @@ _Servers_
 
 
 
-**Contacting us**  
-
+### Contacting us
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [security@webex.com](mailto:security@webex.com).
-
-      top
-
-|  | 
