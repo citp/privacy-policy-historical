@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002061735id_/http%3A//www.architecturaldepot.com/Merchant2/merchant.mvc%3FScreen%3DCTGY%26Store_Code%3D001%26Category_Code%3D_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610155726id_/http%3A//www.architecturaldepot.com/Merchant2/merchant.mvc%3FScreen%3DCTGY%26Store_Code%3D001%26Category_Code%3D_privacy) for the most accurate reproduction.*
 
-# privacy policy: corbels, columns, moulding, wainscot paneling, louvers, brackets, urethane...
+# privacy policy: ArchitecturalDepot.com
 
-  
+**privacy policy**  
 At ArchitecturalDepot.com, we are committed to protecting your privacy. We use the information we collect about you to process your order and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
 **What information do we collect? How do we use it?**
