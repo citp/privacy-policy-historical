@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607072346id_/http%3A//www.personneltoday.com/pt_general/pt_privacy.asp%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011153205id_/http%3A//www.personneltoday.com/pt_general/pt_privacy.asp%23cookies) for the most accurate reproduction.*
 
 # PersonnelToday.com
 
