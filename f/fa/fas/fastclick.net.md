@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fastclick.net privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622094307id_/http%3A//www.fastclick.net/about/privacy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastclick.net privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810110711id_/http%3A//www.fastclick.net/about/privacy2.html) for the most accurate reproduction.*
 
 # fastclick | Privacy Policy
 
 ### 
 
-(For Member privacy [click here](https://web.archive.org/web/20030622094307id_/http%3A//www.fastclick.net/about/privacy.html))          (To get the Opt-Out cookie [click here](https://web.archive.org/web/20030622094307id_/http%3A//www.fastclick.net/about/opt-out.html))
+(For Member privacy [click here](https://web.archive.org/web/20030810110711id_/http%3A//www.fastclick.net/about/privacy.html))          (To get the Opt-Out cookie [click here](https://web.archive.org/web/20030810110711id_/http%3A//www.fastclick.net/about/opt-out.html))
 
 Fastclick strongly believes in a consumer's right to privacy. Fastclick does not engage in the collection, distribution, sale or use of personally identifiable information about Web Users, such as email address, name, phone number and street address. All web user data collected by Fastclick as part of the ad serving process is not personally identifiable (browser type, for example) and is used in aggregate form. Fastclick does not conduct individual web user "profiling".
 
@@ -16,7 +16,7 @@ Remote "cookies" on web user computers and server databases at Fastclick facilit
 
 Cookies are used to ensure that when a web user clicks on an ad, they are sent to the correct click-through destination. They are also used by our reporting system to estimate the total reach of an ad campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. Cookies are also used to sequence the delivery of a series of ads to a web browser, and to limit the number of times a web browser receives any one advertisement.
 
-Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier's website for details on how to do this. Fastclick also provides an [opt-out cookie](https://web.archive.org/web/20030622094307id_/http%3A//www.fastclick.net/about/opt-out.html) to block Fastclick ad serving cookie placement.
+Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier's website for details on how to do this. Fastclick also provides an [opt-out cookie](https://web.archive.org/web/20030810110711id_/http%3A//www.fastclick.net/about/opt-out.html) to block Fastclick ad serving cookie placement.
 
 #### Information Collection and Use
 
