@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the hotsheet.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605162916id_/http%3A//www.hotsheet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotsheet.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402143342id_/http%3A//www.hotsheet.com/privacy.html) for the most accurate reproduction.*
 
 # HotSheet.com,Inc. Privacy Policy
 
 **Summary of Privacy Policy**  
-The information provided to us through our web sites is held in strict confidence. The purpose of information collected by HotSheet.com,Inc. is to either enhance the user experience through customized features, or to process orders through our ShopSheet paper store. User specific data will not be shared, sold or made available to any outside agencies unless the data is required for specific features you have requested (ie: e-mail) which may be administered by partner companies. 
+The information provided to us through our web sites is held in strict confidence. The purpose of information collected by HotSheet.com,Inc. is to either enhance the user experience through customized features, or to process orders through our ShopSheet paper store. User specific data will not be shared, sold or made available to any outside agencies. 
+
+**This policy does not apply to our e-mail service.** HotSheet e-mail is provided by and administered through an outside partner company with a separate privacy policy. 
 
 **Information Collection and Use**  
 HotSheet.com Inc. collects information from our users at several different points on our web site. HotSheet.com Inc. is the sole owner of the information collected for our e-commerce services and customization features. We will not sell, share, or rent this information to others. 
@@ -65,6 +67,9 @@ If a user's personally identifiable information changes (such as your zip code),
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their e-mail address off of our lists. 
 
 Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the e-mail or e-mail us at webmaster@hotsheet.com . Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+
+**E-Mail Service**  
+This privacy policy does not apply to the HotSheet e-mail service. HotSheet e-mail is provided by and administered through an outside partner company with a separate privacy policy. 
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.   
