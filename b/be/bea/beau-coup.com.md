@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209070809id_/http%3A//www.beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404222442id_/http%3A//www.beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Beaucoup Wedding Favors Security & Privacy Policy
 
-[wedding favors home](http://www.beau-coup.com/) > beaucoup wedding favors security & privacy policy
+[home](http://www.beau-coup.com/) > beaucoup wedding favors security & privacy policy
 
 Beaucoup Wedding Favors security and privacy policy
 
@@ -10,9 +10,9 @@ Beaucoup is committed to protecting the privacy of our customers and using infor
 
 how we use information
 
-Our site does not store personal information we collect in order to process transactions for commercial purposes. Contact information (email address, telephone number, address, etc.) from the order form is used to send your orders and information about our company to you. Your contact information is also used to get in touch with you when necessary. Financial information (credit card numbers, credit card expiration dates, billing address, etc.) that is collected is used only to bill you for products and services and not stored.
+Our site does not store personal information we collect in order to process transactions for commercial purposes. Contact information (email address, telephone number, address, etc.) from the order form is used to send your orders and information about our company to you. Your contact information is also used to get in touch with you when necessary. Financial information (credit card numbers, credit card expiration dates, billing address, etc.) that is collected is used only to bill you for products and services and not stored. Information collected on any of our forms may only be used to contact you, whether in person or via automated emails in response to your form submission. 
 
-**cookies**
+******cookies**
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser. They make it possible for us to store contents of your shopping box until you are ready to check out and recognize your browser when you visit. By doing this, we can personalize your return visits and save you time during checkout. In order to enjoy the benefits of being a registered user, your browser must be set to accept cookies. 
 
