@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellular-news.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408025557id_/http%3A//www.cellular-news.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellular-news.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622080340id_/http%3A//www.cellular-news.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # cellular-news privacy policy
 
@@ -36,3 +36,5 @@ This site has security measures in place to protect the loss, misuse, and altera
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by using the feedback button on the side menu.
+
+[Return to cellular-news](http://www.cellular-news.com/)
