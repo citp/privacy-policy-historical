@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the schwinnbikes.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619042541id_/http%3A//www.schwinnbikes.com/care/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwinnbikes.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403230028id_/http%3A//www.schwinnbikes.com/privacy.php) for the most accurate reproduction.*
 
-# Schwinn Heritage
+# Schwinn Bikes - Privacy
 
-**PRIVACY POLICY**  
 PACIFIC is sensitive to privacy issues on the Internet. We believe that it is important you know how we treat the information about you that we receive via the Site.
 
 In general, you may visit the Site without telling us who you are or revealing any personally identifiable information about you. Our servers capture, but do not collect, the IP addresses, domain names and network identifiers of our users. This information is aggregated to measure the number of visits, average time spent on the Site, pages viewed, etc. PACIFIC uses this information to measure the use of our Site and to improve the content of our Site. E-mail addresses and other personally identifiable information such as first and last name, home or other physical address, telephone number and other similar information are known only when voluntarily provided by a visitor for registration for sweepstakes, contests or other participation of visitors in any available online interactive activities.
