@@ -1,0 +1,20 @@
+> *The following text is extracted and transformed from the scavengeinc.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625110611id_/http%3A//www.scavengeinc.com/catalog/privacy.php) for the most accurate reproduction.*
+
+# Scavenge, Inc.
+
+At Scavengeinc.com, your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our customers, we feel that you should fully understand the terms and conditions surrounding our retrieval and use of that information.
+
+**Protective and Security Measures**  
+Scavenge, Inc. is committed to protecting your private information. To make your shopping experience more convenient, we gather address and payment information from you. We only use the latest in security technologies to adhere and prevent any unauthorized use of your personal information. Passwords and credit card information remain encrypted in our secure database. Any credit information supplied by our customers are transmitted via Secure Socket Layer(SSL) technology and then encrypted in our database. Scavenge, Inc. has taken every known measure to make your shopping with us safe and easy. 
+
+**Credit Card and Address Information**  
+No purchase is charged to your credit card until we ship the merchandise. Backordered items are not charged until they are shipped. Like conventional retail stores, we protect your credit card information and do not provide it to any other organization for any reason. Under no circumstances whatsoever, will we share, sell or rent your private data. However, there may be exceptions where we may be required to release your information to a U.S. governmental agency in order to comply with the law or to protect the rights of Scavenge, Inc. or other customers. Should this happen, you will be contacted prior to any information is released. 
+
+**Cookies**  
+Scavenge, Inc. uses a feature from your Internet browser called a "cookie" to assign a unique identification to your computer. Cookies are files that your web browser places on your computer's hard drive. These files allow you to easily access your customer data on our site. They also save you time by tracking your order information so that you do not have to re-enter this information upon every visit. Scavenge, Inc. does not and cannot use cookies to retrieve other unauthorized personal information about you from your computer. Also note that the Scavenge, Inc. shopping cart will still work regardless of whether or not your cookies are disabled. 
+
+**Orders**  
+Scavenge, Inc. uses an Internet order form for all customers to purchase products on our website. Each credit card and payment address/information will solely be used for such an order. Under no circumstances will Scavenge, Inc. use your credit card and address information for any other use other than to process your order. **SCAVENGE, INC. WILL NEVER ASK FOR YOUR CREDIT INFORMATION** so please do not respond if you receive any such requests via e-mail, telephone, or any other methods. 
+
+**Privacy Policy Changes**  
+Should Scavenge, Inc. be required to update or change the policies mentioned above due to legislative changes, this website will be updated accordingly. Any such changes made will be modified and posted on our website. Alternatively, you can always return to our "Policies" page for any updates or changes.
