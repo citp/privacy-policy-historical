@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mt.gov privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603201349id_/http%3A//www.mt.gov/itsd/policy/policies/ENTINT030.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mt.gov privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224233334id_/http%3A//www.mt.gov/itsd/policy/policies/ENTINT030.asp) for the most accurate reproduction.*
 
 # Enterprise Policy - Internet Privacy and Security
 
@@ -46,7 +46,7 @@ Department of Administration | Date: February 2002
 >   * The website must identify who operates it. 
 >   * The website must provide the address and telephone number, as well as an email address, where a contact can be made. 
 >   * The website must give a general description of the types of third parties that may obtain the information that is being collected. 
->   * The website must provide the website user the ability to "opt-in" for allowing their information to be used in o, ther ways than for the purpose of the website.
+>   * The website must provide the website user the ability to "opt-in" for allowing their information to be used in other ways than for the purpose of the website.
 > 
 
 > 
@@ -93,9 +93,9 @@ If you have any questions about this privacy statement, please contact us at:
 >  406-444-2701 (Fax)  
 >  Email: [webadmin@state.mt.us](mailto:webadmin@state.mt.us)
 
-Return to [Enterprise IT Policies](https://web.archive.org/web/20040603201349id_/http%3A//www.mt.gov/itsd/policy/enterprise.asp "Enterprise IT Policies")
+Return to [Enterprise IT Policies](https://web.archive.org/web/20041224233334id_/http%3A//www.mt.gov/itsd/policy/enterprise.asp "Enterprise IT Policies")
 
-Return to [ITSD Home](https://web.archive.org/web/20040603201349id_/http%3A//www.mt.gov/itsd/default.asp "ITSD Home")
+Return to [ITSD Home](https://web.archive.org/web/20041224233334id_/http%3A//www.mt.gov/itsd/default.asp "ITSD Home")
 
   
 
