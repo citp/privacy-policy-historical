@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeroforum.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202000133id_/http%3A//www.zeroforum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeroforum.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091346id_/http%3A//zeroforum.com/privacy.html) for the most accurate reproduction.*
 
 # zeroforum: privacy statement
 
@@ -15,10 +15,6 @@ We use your Personal Information primarily to:
 > * Provide you with information about ZeroForum products, services, news and events 
 > * Allow you to purchase products, and 
 > * Gather broad demographic information about user trends. 
-
-ZeroForum may carefully select third parties to send you information about their products or services. If you do not want to receive information, you may opt out by contacting us directly. If you do not want ZeroForum to contact you further regarding products or services, you may opt out when you provide Personal Information or you may contact us directly. 
-
-If you choose not to provide Personal Information, you may still use our web sites anonymously. Only the host name from which you access the Internet, the Internet address and the date and time you access our web sites are logged. ZeroForum uses this information to analyze trends and to measure the number of visitors to our web sites.
 
 **Online Payment**
 
