@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchenaid.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202162100id_/http%3A//www.kitchenaid.com/privacy/privacy.htmls) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenaid.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610045128id_/http%3A//www.kitchenaid.com/privacy/privacy.htmls) for the most accurate reproduction.*
 
 # KitchenAid® Privacy Statement
 
