@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218074003id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603131443id_/http%3A//www.videoeta.com/privacy.html) for the most accurate reproduction.*
 
 # VideoETA -- Video & DVD release dates
 
@@ -19,8 +19,8 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 If you have any additional questions about VideoETA's dedication to visitor privacy, please contact us at mail@videoeta.com.
 
-|  [](https://web.archive.org/movie.html?id=592&ad=117)
+|  [](https://web.archive.org/movie.html?id=53256&ad=168)
 
-[**2069: A Sexy Odyssey**](https://web.archive.org/movie.html?id=592&ad=117)   
-Coming Jan 8  
-[Remind me when it's released!](https://web.archive.org/reminder.html?id=592)
+[**Get Well Soon**](https://web.archive.org/movie.html?id=53256&ad=168)   
+Coming Jun 4  
+[Remind me when it's released!](https://web.archive.org/reminder.html?id=53256)
