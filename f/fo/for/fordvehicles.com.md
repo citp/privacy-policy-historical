@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408225743id_/http%3A//fordvehicles.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004181831id_/http%3A//fordvehicles.com/help/privacy) for the most accurate reproduction.*
 
 # Ford Vehicles: Help - Privacy
 
@@ -123,6 +123,9 @@ The My Ford owner website (hereafter referred to as "My Ford") is designed to im
 
 During the course of your visit to My Ford, you may move to other Ford Motor Company (hereafter referred to as "Ford") websites, including sites intended to provide information about financing. In addition, this site may provide links to non-affiliated third party sites not controlled by Ford such as those belonging to third party vehicle resource sites, third party product review sites or third party State transportation sites. It is recommended that you check the specific privacy statements of those sites before providing any personally identifiable information. 
 
+**My Ford & Ford Credit Access**   
+The My Ford owner website provides its users access to Ford Motor Credit Company's online services including account information. All Ford Credit data provided by My Ford is encrypted. The Ford Credit on-line services are subject to Ford Credit's privacy statements. To find out how Ford Credit protects its customers' privacy, please read the [Ford Credit Privacy Policy](http://www.fordcredit.com/legal/privacy.jhtml) and the [Ford Credit Online Privacy Supplement](http://www.fordcredit.com/legal/privacy2.jhtml?_requestid=1086695). 
+
 **Registration**   
 My Ford is available to the principal driver/owner who indicates a desire to "opt in" by logging on to the "owner" section of www.fordvehicles.com and registering online. This is an "opt-in" site, meaning an individual is not registered and eligible for My Ford benefits until the registration form is completed and submitted. A principal driver is defined as the person who generally drives the identified vehicle. Driver is not required to be the titled owner. 
 
@@ -148,8 +151,9 @@ My Ford registrants are eligible for benefits regardless of their location withi
   * Ford authorized merchandise that registrants may order online. (Visa and MasterCard purchases only. Unavailable where prohibited by law).
   * Original Selling Dealer and Preferred Service Dealer information.
   * Self-reported vehicle maintenance log and expense summary.
+  * Ford Credit Services including Account Access and E-Bill
   * External links to the following websites: Department of Motor Vehicles (by State) and Kelley Blue Book.
-  * Ford and vehicle-related articles and multimedia content. My Ford contact information, including an 1-800 number, e-mail address and mailing address by which a registrant can contact Ford Motor Company with questions or comments.
+  * Ford and vehicle-related articles and multimedia content. My Ford contact information, including an 1-800 number, e-mail address and mailing address by which a registrant can contact Ford Motor Company with questions or comments. 
 
 
 
