@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606025445id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080701id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
 
 # Flights.com - discount airline tickets, cheap flights, airfare, hotels, cars, cruises, hostels, insurance
 
@@ -19,7 +19,7 @@ Disclosure
 **  
 Security  
    
-**This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Users should be aware, however, that Flights.com or any of its partners cannot guarantee security and confidentiality.
+**This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Users should be aware, however, that our security measures are not fail-safe.
 
 **  
 FLIGHTS.COM Privacy Policy Changes**
@@ -29,7 +29,7 @@ FLIGHTS.COM Privacy Policy Changes**
 **  
 Contacting the Web Site  
 **  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by US mail:
 
 Flights.com ****  
 96 Engle Street  
