@@ -1,30 +1,11 @@
-> *The following text is extracted and transformed from the hgtv.ca privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607085118id_/http%3A//hgtv.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgtv.ca privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029181409id_/http%3A//hgtv.ca/privacy.asp) for the most accurate reproduction.*
 
-# HGTV Canada - Privacy Policy
-
-  
-
-
-[](https://web.archive.org/schedule.asp)  
-[](https://web.archive.org/hostlist.asp)  
-[](https://web.archive.org/showlist.asp)  
-[](https://web.archive.org/tipslist.asp)  
-
-
-[](https://web.archive.org/show.asp?id=P00240&grp=G)
-
-| [](https://web.archive.org/web/20010607085118id_/http%3A//hgtv.ca/contests.asp)  
----  
-  
- Check back in mid-June for your chance to win a tour on the set of _**Martha Stewart Living**_ , courtesy of Miracle-Gro  
-  
-  
-
+# HGTV Canada - Privacy
 
 ### Privacy Policy
 
-  
-This is the web site of  www.HGTV.ca. Our postal address is 121 Bloor St., Toronto, Ontario, M4W 3M5
+**  
+** This is the web site of  **www.HGTV.com**. Our postal address is 121 Bloor St., Toronto, Ontario, M4W 3M5 
 
   
 We can be reached via e-mail at [privacy@hgtv.ca](mailto:privacy@hgtv.ca) or you can reach us by telephone at 416.934.5254. 
@@ -51,4 +32,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by sending us an e-mail at the above address. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. 
 
   
-This site, HGTV Canada Inc., uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy/>
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data about your visit to this and other Web sites, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy/>
+
+  
+
