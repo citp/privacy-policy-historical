@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2000-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001121052400id_/http%3A//www.brivo.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616142131id_/http%3A//www.brivo.com/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Brivo
-
-  
-
 
 At Brivo™, we are firmly committed to safeguarding your privacy.
 
@@ -26,6 +23,3 @@ If you have any comments, suggestions, or complaints in regards to our privacy s
 
 **Privacy Policy Changes**  
 This policy was created on June 19, 2000. Changes were most recently made on October 3, 2000.
-
-  
-
