@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microstrategy.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206134300id_/http%3A//microstrategy.com/privacyterms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microstrategy.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604010858id_/http%3A//www.microstrategy.com/privacyterms.asp) for the most accurate reproduction.*
 
 # MicroStrategy Terms and Conditions
 
@@ -13,6 +13,6 @@ We have implemented these practices for the MicroStrategy web site ([http://www.
 
 The MicroStrategy site contains links to other web sites. MicroStrategy is not responsible for the privacy practices or the content of such web sites. 
 
-There is a technology called "cookies" which can be used to provide you with tailored information from a web site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Some MicroStrategy pages use cookies so that we can better serve you when you return to our site. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. For more information, please see ["How to work with Cookies"](https://web.archive.org/web/20001206134300id_/http%3A//microstrategy.com/cookies.htm).
+There is a technology called "cookies" which can be used to provide you with tailored information from a web site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Some MicroStrategy pages use cookies so that we can better serve you when you return to our site. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. For more information, please see ["How to work with Cookies"](https://web.archive.org/web/20010604010858id_/http%3A//www.microstrategy.com/cookies.htm).
 
-[Back to Main Contact Us Page](https://web.archive.org/web/20001206134300id_/http%3A//microstrategy.com/ContactUs/index.asp)
+[Back to Main Contact Us Page](https://web.archive.org/web/20010604010858id_/http%3A//www.microstrategy.com/ContactUs/index.asp)
