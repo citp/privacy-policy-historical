@@ -1,139 +1,67 @@
-> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_revised_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009194638id_/http%3A//shopping.com/xCPT-about_privacy) for the most accurate reproduction.*
 
-# AltaVista - Shopping
+# Shopping.com - Find, Compare, and Buy Anything in Seconds
 
-* * *  
-  
-  | [Home](http://www.altavista.com/) > [Shopping](http://www.shopping.altavista.com/) > **Privacy Policy**  
-  
-* * *  
-  
-  
-[Privacy Policy Details](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details) |     
-  
-* * *  
-  
-**AltaVista: PRIVACY POLICY STATEMENT** |    
-  |  |   
-AltaVista is committed to respecting and protecting your personal privacy. Our Privacy Policy is succinctly explained below. You can get additional details by clicking on the highlighted links. Also, please read our [Children's Privacy Policy](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#2) to learn about how we treat information collected from children. | [](https://www.truste.org/validate/4935)  
----|---  
-    
-  
-* * *  
-  
-**TRUSTe Certification** |    
-  | 
+  | **
 
-AltaVista participates in the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization that wants to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we at AltaVista want to demonstrate our commitment to your privacy, we have agreed to describe our information practices and have our privacy practices reviewed by TRUSTe. By displaying the TRUSTe trustmark, we agree to notify you of:
+  * **[About Shopping.com](https://web.archive.org/xCPT-about)**
+  *   * [Customer Support](https://web.archive.org/xCPT-about_cs)
+  * [Jobs](https://web.archive.org/xCPT-about_jobs)
+  * [Corporate Background](https://web.archive.org/xCPT-about_corporate)
+  * [Advertising Opportunities](https://web.archive.org/xCPT-about_partners_advertise)
+  * [Contact Us](https://web.archive.org/xCPT-about_contact)
 
-* What information we collect from you through our site and how we use it;
-* What information third parties might collect through our site and how they use it;
-* With whom this information is shared;
-* Your choices regarding the collection, use, access and editing of your data;
-* The security measures we have in place to protect your data under our control;
-* How you will be notified if we change this privacy policy.
+** |  |   |  **Privacy Policy**  
+Last updated: July 9, 2004
 
-Questions regarding our Privacy Policy should be directed to:
+**Your Privacy**  
+Shopping.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, Shopping.com makes every effort to protect your privacy and the confidentiality of your personal information. 
 
-General Counsel  
-AltaVista Company  
-1070 Arastradero Road  
-Palo Alto, CA 94304
+**Security**  
+We keep a tight watch on the information you give to Shopping.com to protect against the loss, misuse and alteration of the data under our control. 
 
-If you do not receive a satisfactory response, then please contact [TRUSTe](http://www.truste.com/), who will then contact us on your behalf.
+**IP Address Logging**  
+Your access provider assigns an IP address to your computer when you use the Internet. We log each IP address that accesses the site, along with referring/destination URLs. We use this data, as well as other data in our databases, to analyze site and user behavior, troubleshoot technical problems, resolve disputes, address complaints and prepare aggregated reports that we share with others. 
 
-|     
-  
-* * *  
-  
-**What Does the AltaVista Privacy Policy Cover?** |    
-  |   
+**Cookies**  
+Shopping.com uses "cookies" to automatically recognize returning users. A cookie is a small file on your hard drive that allows us to display your previously defined search criteria and notification preferences whenever you visit our site. You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you (e.g., saved searches). 
 
+**User Information**  
+The use of certain Shopping.com features and services requires that you supply personal information that may include but is not limited to your name and e-mail address. At your direction, we may use this information to send you our e-mail newsletter. When you register for unique services on our site, we collect additional information from you in order to provide you with those specific services and to personalize your experience on the site. This information may also be used to contact you when necessary. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service. You may opt-out of receiving future mailings at any time (see the "Choice/Opt-Out" section below). 
 
-  * This privacy policy applies to web pages ending in altavista.com or av.com that contain a link to this privacy policy at the bottom of the web page. For further information, [click here](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#1).
-  * Inclusion of the [AltaVista logo](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#5) at the top of a web page does not necessarily mean that this Privacy Policy applies. Be sure to check the URL that you link to from AltaVista web pages to determine whether this Privacy Policy applies. If you have any questions about this, contact us at [privacy-support@av.com](mailto:privacy-support@av.com).
+**Collecting and Sharing Information**  
+Shopping.com usually collects any requested information. However, Shopping.com has chosen select partners in order to provide certain services. In order to use certain services on the site, it may be necessary for you to enter information that then goes to our partner. The areas of our site in which partners are collecting information may be co-branded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our business partners, please contact that partner directly. Shopping.com does not have control over and is not responsible for the data collection and use practices of our business partners. 
 
+In addition, we may share data with any parent company, subsidiaries, JVs, other companies under a common control or acquirers. It is possible that Shopping.com and/or any of our assets may be acquired. In such a transaction, customer information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect. 
 
+We may disclose data about you to the government if we are required to do so or if we think the disclosure is appropriate; and you authorize these disclosures. We may also disclose data about you in connection with actual or potential lawsuits (a) if we are required to do so, (b) if such disclosures may potentially mitigate our liability, or (c) to enforce our rights. 
 
-Back to Top
+**Links to Other Sites**  
+This site contains links to other Web sites. Shopping.com is not responsible for the privacy practices or the content of these sites. If you have concerns about how other Web sites collect and use information about you, make sure to read that site's own privacy policy. 
 
-|     
-  
-* * *  
-  
-**What Information Does AltaVista Collect From You?** |    
-  |   
+**Special Relationships**  
+Shopping.com enters into special relationships to offer a broader array of services to our users. On occasions when we partner with another service to bring you more comparison-shopping functionality, we do not host these pages on our own servers. In these instances, information may be collected but it is being collected by the partner and not by Shopping.com. Shopping.com may receive information from these partners only when it is clearly stated. Unless you give explicit permission, Shopping.com has a strict policy against sharing or selling your personal information. 
 
+**Choice/Opt-Out of Shopping.com E-mail Communications**  
+At any time, you have the ability to opt-out of receiving communications from Shopping.com and our partners. To unsubscribe from the Shopping.com e-mail newsletter, contact [customersupport@shopping.com](mailto:customersupport@shopping.com) and let us know that you would like to discontinue this service. 
 
-  * You can visit our site and use most of our services without having to tell us who you are or reveal any personally identifiable information to us. There are, however, a few instances where we do collect personally identifiable information in order to fulfill your request. [Click here](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#3f) for examples of these instances.
-  * Whenever you visit AltaVista, our web server logs automatically receive and record [anonymous information](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#3a) from your web browser including your [IP Address](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#3d), AltaVista [cookie](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#3e) information, the AltaVista page(s) you request, the time spent on each web page and any search terms you query.
-  * AltaVista uses this anonymous information to customize your experience on our site, to show you more relevant advertising messages, and to improve our services in general. For example, when you use AltaVista's Toolbar, AltaVista can collect aggregate information such as the web pages visited and the time spent on each page. This information allows other users to benefit from the quality searches you perform, ultimately receiving the most relevant, pertinent information. We ordinarily do not attempt to link this information to a specific person. [Click here](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#3d) for exceptions to this practice.
+**Tell a Friend**  
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Shopping.com collects the email address of your friend for the sole purpose of automatically sending the friend an email inviting them to visit the site and does not store this information. 
 
+**Advertising**  
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
 
+Third party ad servers (including DoubleClick and MaxOnline) may place or recognize a cookie and, using the cookie or otherwise, collect and use data (but not your name, address, email address or telephone number) from your visits to this and other websites to serve ads to you. For more about DoubleClick's practices and your options regarding their data collection and use, see [DoubleClick's Privacy Policy](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&). For more about MaxOnline's practices and your options regarding their data collection and use, see [MaxOnlines' Privacy Policy](http://www.maxonline.com/privacy_policy/index.php). 
 
-Back to Top
+**Notification of Changes**  
+This policy may be revised over time as new features are added to the Web site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check this Web page for information about revisions to our privacy policy. If you would like to receive e-mail notification of any such changes, please contact us at [customersupport@shopping.com](mailto:customersupport@shopping.com) requesting the same. 
 
-|     
-  
-* * *  
-  
-**Do Any Third Parties Receive or Collect Your Information Through AltaVista?** |    
-  |   
+**Contact Us**  
+If you have any questions about this privacy statement the practices of this Web site or your dealings with Shopping.com, you may contact: 
 
-* In the few instances where AltaVista collects personally identifiable information, AltaVista will not share it with other companies or individuals unless: 
-* We have your permission to share the information;
-* We need to share your information with certain [third parties](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#5e) with which we have a business relationship in order to provide a product or service you have requested. Unless we tell you otherwise, these third parties do not have the right to use your personal information we share with them beyond what is necessary to deliver your requested product or service; or
-* We comply with [subpoenas](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#5e) or court orders.
-* Furthermore, AltaVista will not sell or disclose your personally identifiable information as customer lists to anyone. Nor will we share with anyone personally identifiable information about you that is of medical, financial or sexual nature.
-* AltaVista shares some of the user information, such as user trends, search language, and time of day with Engage Technologies, a sister company of AltaVista. In addition, we allow Avenue A, Engage and DoubleClick to set and access cookies on your computer. Other advertisers or advertising services may set cookies but this information is not shared with AltaVista nor is it personally identifiable information. To learn more about Avenue A, Engage and DoubleClick, and your rights and choices regarding the anonymous information they may gather, [click here](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#6).
-* Neither Avenue A, Engage, DoubleClick, nor any other advertiser or advertising service, receives personally identifiable information from AltaVista. However, certain advertisements or contests you see on our site may provide for the collection of personally identifiable information. Such information is never shared with AltaVista. For more information, [click here](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#4).
-
-Back to Top
-
-|     
-  
-* * *  
-  
-**What Choices Do You Have?** |    
-  |   
-
-* Avenue A, DoubleClick and Engage offer you an "opt-out" cookies. To find out more about them, [click here](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#6).
-
-Back to Top
-
-|     
-  
-* * *  
-  
-**What Security Measures Are in Place to Protect Your Information?** |    
-  |   
-
-* AltaVista operates secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect against the loss, misuse or alteration of your user data.
-* Only certain employees have access to the information you provide us.
-
-Back to Top
-
-|     
-  
-* * *  
-  
-**How Will You Be Notified if AltaVista Changes This Privacy Policy?** |    
-  |   
-
-* AltaVista updates this policy from time to time. If we are going to use personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our databases, we will post a prominent notice on our web site notifying users of the change. Bear in mind that the only way to ensure your personal privacy whenever you are on the Internet is to make sure your browser is configured so that you are alerted to all [cookies](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#3e). 
-
-Back to Top
-
-|     
-  
-* * *  
-  
-**Your Questions or Suggestions Regarding This Privacy Policy.** |    
-  |   
-
-* If you have any questions or concerns about this privacy policy or the practices of this site, please email us at [privacy-support@av.com](mailto:privacy-support@av.com), or for New York residents, contact <http://www.oag.state.ny.us/internet/internet.html>, or write to our [General Counsel](https://web.archive.org/web/20011031153203id_/http%3A//www.shopping.com/privacy_details#9) .
-* If you do not receive a satisfactory response, then please contact [TRUSTe](http://www.truste.com/users/users_watchdog.html), an independent privacy organization that will contact us on your behalf.
-
-Last updated August 16, 2001.
-
-|   
+Customer Support  
+Shopping.com, Inc.  
+8000 Marina Boulevard  
+Brisbane, CA 94005  
+USA  
+[customersupport@shopping.com](mailto:customersupport@shopping.com)
