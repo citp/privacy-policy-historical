@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wha.la privacy policy that was archived on 2002-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020518201359id_/http%3A//wha.la/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wha.la privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012094214id_/http%3A//www.wha.la/privacy.asp) for the most accurate reproduction.*
 
 # ChangeIP.com - Privacy Statement
 
@@ -101,6 +101,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 ChangeIP.com  
 [Support@ChangeIP.com](mailto:Support@ChangeIP.com)
 
-1255 Avenida Amistad Suite 200  
-San Marcos, CA  92069  
+310 S. Twin Oaks Valley Road Suite #107  
+PMB 124  
+San Marcos, CA  92078  
 866 474 4246 
