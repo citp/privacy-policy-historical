@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019195146id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604063010id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
 
 # Game Trading Zone - Privacy
 
@@ -26,12 +26,12 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
-Users may de-activate their account if they wish to no longer receive communication from gametz and no longer use our service. 
+Users may de-activate their account if they wish to no longer receive communication from GameTZ and no longer use our service. 
 
-  * You can send email to [bill@gametz.com](mailto:bill@gametz.com)
+  * You can send email to [moderators@gametz.com](mailto:moderators@gametz.com)
   * You can visit the following URL: <http://gametz.com/?A=My+Account>
 
-In either case, any gametz user has the option of removing their information from gametz database. 
+In either case, any GameTZ user has the option of removing their personal information from the GameTZ database. 
 
 ### Correct/Update
 
@@ -44,8 +44,8 @@ This site gives users the following options for changing and modifying informati
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William Marrs Game Trading Zone bill@gametz.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William Marrs Game Trading Zone moderators@gametz.com
 
   
-Copyright © 2000 William Marrs. All rights reserved.  
-[Take our Poll](http://38.148.250.3/cgi-win/client.exe?readers,welcome,ad5418a,2000) \- [Privacy Statement](https://web.archive.org/Privacy.html) \- [Advertising](https://web.archive.org/Advertising.html) \- [Subscribe](https://web.archive.org/Subscribe.html)
+Copyright © 1996-2002 Kenyon Hill LLC. All rights reserved.  
+[Take our Poll](http://38.148.250.3/cgi-win/client.exe?readers,welcome,ad5418a,2000) \- [Privacy Statement](http://gametz.com/Privacy.html) \- [Advertising](http://gametz.com/Advertising.html) \- [Subscribe](http://gametz.com/Subscribe.html)
