@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605163040id_/http%3A//www.freddiemac.com/corporate/about/web_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210061311id_/http%3A//www.freddiemac.com/corporate/about/web_policy.htm) for the most accurate reproduction.*
 
 # About the Freddie Mac Privacy Policy
 
@@ -35,7 +35,7 @@ Freddie Mac does not sell or disclose the information received concerning borrow
 
 ## Security
 
-Freddie Mac has adopted policies and practices designed to protect the security and confidentiality of borrower and consumer information, to protect against anticipated threats and hazards to security and integrity of the information and to protect against unauthorized access to or use of the information that could result in substantial harm or inconvenience. All connections to our web server use SSL (secure socket layer) encryption to protect the transmission of information submitted to us. 
+Freddie Mac has adopted policies and practices designed to protect the security and confidentiality of borrower and consumer information, to protect against anticipated threats and hazards to security and integrity of the information and to protect against unauthorized access to or use of the information that could result in substantial harm or inconvenience. Freddie Mac uses a variety of security measures to protect the transmission of information submitted to us through this website. 
 
   
 
@@ -49,7 +49,7 @@ We reserve the right to revise or change this policy in the future. Any changes 
 
 ## How to Reach Us
 
-If you have a question about the way that your information is used or about Freddie Mac’s information practices with respect to this site, please [contact us](https://web.archive.org/webmaster/feedback.htm).
+If you have a question about the way that your information is used or about Freddie Mac’s information practices with respect to this site, please [contact us](https://web.archive.org/help/contactus.htm).
 
   
 
