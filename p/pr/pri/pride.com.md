@@ -1,138 +1,84 @@
-> *The following text is extracted and transformed from the pride.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210023500id_/http%3A//www.ispoffer.com/online/legals.asp%3Flocid%3D1%26pageid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pride.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209225256id_/http%3A//www.gay.com/help/privacy.html) for the most accurate reproduction.*
 
-# Privacy and Other Policies — Privacy Policy
+# Gay.com Help
 
----  
-  
-|  | Privacy Policy  
-  
-**Your Privacy Matters to PeoplePC!**
+**Gay.com Help**
 
-PeoplePC wants to protect your privacy, while giving you the most benefit from your PeoplePC Membership. We've described below our policies concerning collection, use, and protection of personal information we acquire online ("Personal Data"). This policy covers Personal Data gathered through these Web sites: PeoplePC <[http://www.peoplepc.com](http://www.peoplepc.com/)> and PeoplePC Member Site <[http://home.peoplepc.com](http://home.peoplepc.com/)> (the "PeoplePC Sites").
+**Privacy Policy**
 
-Our site contains links to sites operated by third parties. Each company has its own privacy policies and practices, and PeoplePC is not responsible for the privacy practices or content of third party web sites. Please read these third party policies and use your own judgment when visiting these sites.
+The Gay.com Privacy Policy may be found below. Your use of the Gay.com Site and services constitutes your acceptance of the terms and conditions of the Gay.com Privacy Policy, of our recently updated [User Agreement](https://web.archive.org/web/20041209225256id_/http%3A//www.gay.com/help/useragreement.html) and of the Gay.com [Community Guidelines](https://web.archive.org/web/20041209225256id_/http%3A//www.gay.com/help/community_guidelines.html). You are responsible for reviewing and becoming familiar with all of these terms. 
 
-We may modify this Privacy Policy from time to time by posting a revised policy. Any changes we make will be effective from the date shown as the Effective Date. However, so that our policy applies uniformly to all Members, the Privacy Policy as modified will apply to Personal Data without regard to whether it was collected before or after such Effective Date.
+**Gay.com Privacy Policy**
 
-**Topics you'll find in this Policy:**
+PlanetOut Partners USA, Inc. has created this privacy policy because we value our members and recognize their right to keep personal information private. This statement discloses our information gathering and dissemination practices for the World Wide Web site located at www.gay.com (the "Gay.com Site"). We believe very strongly that private information should remain private. We'd like to hear your feedback about this statement. If you have comments or questions, please e-mail us by clicking [here](mailto:privacy@gay.com). 
 
-**Types of Personal Data You May Provide PeoplePC:**  
----  
-* | Personal registration information.  
-* | Information you decide to publish on the Internet.  
-* | Responses to promotional events.  
-* | Responses to surveys.  
-* | Your communications with us.  
-  
-  
-**Information Automatically Logged:**  
-* | IP address.  
-* | Use of cookies  
-* | Your use of the PeoplePC Sites.  
-  
-  
-**Information Related to PeoplePC's Special Features:**  
-* | The PeoplePC Online Wallet.  
-* | PeoplePC Deals Feature.  
-* | PeoplePages.  
-  
-  
-**Information Exchanged with Our Vendors**  
-  
-  
-**Information Exchanged with Our Merchant Partners**  
-  
-  
-**General:**  
-* | Security.  
-* | Choice/Opt-Out.  
-* | Special circumstances  
-* | Changing/Removing information  
-* | Contacting the website  
-  
-**Types of Personal Data You May Provide PeoplePC:**
+**GAY.COM GATHERS THE FOLLOWING INFORMATION:**
 
-**Personal registration information.** When you register as a PeoplePC Member, you will provide to us contact information (e.g., your name, billing and shipping addresses, and email address) and billing information (e.g., a credit card number). In addition, when you register as a Member, you will choose a password. You may also be asked to provide personal information when registering for other online services provided by PeoplePC.
+**Cookies**  
+Our Web site sets cookies to keep track of the contents of your shopping basket, to administer our site, to gather broad demographic information, to deliver content requested by you or specific to your interests, to customize our Web site for you, and to save your password and member name so that you don't have to enter it each time you visit. 
 
-PeoplePC and its partners (see below) may use your contact information to ship your purchases to you and to provide Membership services to you. 
+A cookie is a small line of data that is stored on your hard drive. Some cookies are only stored for the duration of a single browser session; others persist across sessions. We only save your password and member name if you tell us to do so; your password is encrypted, stored on your computer and transferred over the Internet in an encrypted format. Keep in mind that anyone using your Web browser would be able to access the Gay.com Site as you if you choose to store your member name and password. Gay.com's Web servers also set session ID cookies that are used to allow our servers to deliver information you request (e.g., search results). Members who do not want to receive cookies can instruct their Web browsers to refuse them; however, doing so may prevent certain parts of Gay.com's site from working (e.g., anything that requires login, including member chat, personals, or message boards). Other organizations that place advertising on Gay.com sometimes have the ability to assign a different cookie to you in a process that we do not control. Unless you've saved your member name, cookies aren't useable for identifying individuals (your computer will be assigned a random number and neither Gay.com nor advertisers will know who you are. While cookies set by Gay.com may be used to collect personally identifiable information and can be traced to an individual user, this personally identifiable information is used only for internal purposes; when information collected through cookies is shared with third parties, it is only used in aggregate form. 
 
-We may use your contact information to send various communications to you via email or snail mail. These communications may relate to PeoplePC or to products and/or services offered by our merchant partners. You may opt-out of receiving these communications -- see the choice/opt-out section below. 
+**Registration Form**  
+Membership on the Gay.com Site is completely optional. Gay.com's registration form requires users to give contact information (e.g., your name, address and e-mail address) and demographic information (e.g., your birthdate). On our join form, required fields are marked with an asterisk. We use this information to send members information and announcements about Gay.com (e.g., a weekly newsletter) and our partners. 
 
-If you have become a Member through a program sponsored by your employer or an entity with which you are affiliated (such as a club or association to which you belong), we may give your name and email address to such employer or affiliated entity so that it may communicate with you. We will not share with your employer or affiliated entity any other information about you or your activities on the Internet.
+During registration, you may be offered the opportunity to receive information from third parties or to register for third-party products or services. By choosing to accept such an opportunity, you consent to Gay.com's disclosure of your contact and demographic information to that third party. Please remember that the use of your contact and demographic information by the applicable third party will be governed by that third party's own privacy policy. 
 
- **Information you decide to publish on the Internet.** You may supply additional information about yourself in your online activities. For instance, you may publish your own web page, provide information about yourself through our PeoplePages feature, or participate in on-line chat rooms. You have decided to make this information publicly available on the Internet. Information you voluntarily publish is not subject to this privacy policy.
+At times and only with a member's permission, Gay.com may share names and mailing and e-mail addresses with carefully selected organizations. Members may opt out of these programs by selecting "don't share my mailing address" and/or "don't share my e-mail address" on our registration form. Aggregate demographic information collected through the registration process is shared with advertisers and other partners. This aggregate information is not traceable to an individual user. 
 
- **Responses to promotional events and contests.** From time to time PeoplePC or its partners may conduct contests or other promotional events. As a condition of participating in these events, Members may be asked to provide personal information. You will be notified of the use to be made of such information at the time the information is requested, and you will have the opportunity to decline to participate. Information you provide through promotional events will be used as disclosed in the event solicitation materials. 
+**Order Forms**  
+When purchasing products or services on the Gay.com site, you're asked for credit card, billing, and shipping information. This information is transmitted using a secure, encrypted form. You can see that the transaction is secure from the fact that the URL begins with the secure address https:// and we ensure encryption through the use of standard SSL encryption technologies. If you are not sure whether your browser is set up for security or not, you can check yourself by viewing your frame information. If you are using Windows with Netscape Communicator, just "right click" on the form page you are filling out. Then click "View Frame Info." If you are using Mac with Netscape Communicator, hold down the mouse button on the form page you are filling out until the options show. Then select "Page Info." Our secure information will appear there. 
 
-**Responses to surveys.** From time to time, we may conduct online surveys. Our online surveys may ask for information such as profile data or member experience opinions. Depending on the nature of the survey, we may disclose survey results to third parties on an aggregate basis without restriction. We may also use this data to personalize our site so that you see content in which we think you might be interested. 
+This credit card, billing and shipping information is gathered to bill customers for goods and services purchased and to ship merchandise. Only billing vendors have access to financial information and only for the purpose of billing customers. At times Gay.com may refer users to other Web sites to purchase products. User activity on those sites is covered by the privacy policies on those sites. 
 
-**Communications with us.** You may contact us from time to time regarding matters related to your Membership and the services we provide. If you contact us by phone, email, or snail mail, we may keep a record of our communications with you, and use the information you provide so that we can respond to your inquiry. 
+**Online Surveys**  
+At times Gay.com may run online surveys asking for specific contact or demographic information. These surveys are always optional. At times Gay.com may share both the results of, and individual entries in, surveys with the sponsors of the survey. Results of surveys may be shared with partners and advertisers on an aggregate basis. 
 
-**Information Automatically Logged:**
+**Contests**  
+At times Gay.com may run contests on the Site where we ask for contact or demographic information. These contests are always optional. At times Gay.com may share both the results of, and individual entries in, contests with the sponsors of the contests. Results of contests may be shared with partners and advertisers on an aggregate basis. 
 
-**IP address.** We use your IP address to help diagnose problems with our servers and to administer our Web sites, and to help identify you. We may use this information for such things as helping us to track the success of new features.
+**Message Boards, Chat Rooms, Polls, and Community Tools**  
+Gay.com provides many venues for member interaction and community, including message boards, chat rooms, online polls, and other tools. In some cases use of such tools (e.g., chat rooms and message boards) may reveal a user's member name or e-mail address and may permit users to publish certain personal information (e.g., Web page links and content ratings) on the Gay.com Site. In all cases, users affirmatively choose to expose or place this information in public areas of the Gay.com Site, and thereby agree that such information may be viewed by or forwarded to anyone. Users who do not want this information to be publicly available should not use these optional features on the Gay.com Site. The aggregate result of polls may be shared on the Gay.com Site. 
 
- **Use of cookies.** Our site uses cookies to keep track of your shopping cart, to deliver content specific to your interests, and to allow us to better understand how you like to use our site. For example, we might track which of our site pages you visit and save this information in the form of a "cookie" or similar file. We also use cookies to save your password so you don't have to re-enter it each time you visit our site. Cookies are stored on your computer hard drive, not on our site. Cookies do not spy on you, and they cannot be used to breach the security of your hard drive and steal information. You are always free to decline our cookies if your browser permits, but some parts of our sites may not work optimally in that case.
+**Gay.com Personals and Premium Personals**  
+Gay.com permits users to submit personal information for use in both our Personals and Premium Personals. This information is stored for the purposes of member self-publishing and interaction and we may also use this information to customize your Gay.com experience. By registering for Gay.com Personals and submitting your user information, you understand that anyone may have access to and forward this information. As with all parts of the Gay.com Site, we will not use Gay.com Personals to knowingly collect personal information from children under the age of 13. 
 
- **Your use of the PeoplePC Sites.** In order to provide better service to you, PeoplePC monitors usage of the PeoplePC Sites. For instance, we may track hits to each of the pages in our site. PeoplePC also collects data on transactions you engage in at PeopleShop, PeoplePC's online store. PeoplePC does not collect any information about your activities on the Internet after you leave the PeoplePC Sites. We use data about your usage of the PeoplePC Sites in order to improve our service to you. If we share such information with others, we will do so only on an aggregate basis that does not identify you as an individual.
+Gay.com permits users to submit additional adult-oriented personal information for use in the Gay.com Premium Personals service. This information is also stored for the purposes of member self-publishing and interaction and to customize the user's Gay.com site experience. By registering for Gay.com Premium Personals and submitting your additional user information, you understand that anyone may access and forward this information. Gay.com will not knowingly collect Premium Personals information from those under the age of 18. 
 
- **Information Related to PeoplePC's Special Features:**
+The feature of the site previously known as Member Profiles has been replaced with the new Personals and Premium Personals services and is subject to the terms applicable to Personals and Premium Personals. 
 
-**PeoplePC Online Wallet.** If you make use of the PeoplePC Online Wallet, you will be providing to us personal identification information and other data such as credit card numbers. This information is used when you engage in transactions with merchants to help you fill out on-line forms automatically. We will not use this information for any other purpose, or share the information with any third party. For purposes of improving out service, we keep track of the aggregate number of forms that are filled out, and if there is any problem with auto-filling a form, we record the web address (URL) of the page so that we can address the issue. 
+**Member Feedback**  
+Gay.com stores feedback members send to us. This feedback is used to administer and refine the Gay.com Site and associated services and at times may be shared with Gay.com partners either in aggregate form or individually with specific identifying characteristics about the Member (e.g., e-mail address or name) removed. 
 
-The information you store in your PeoplePC Online Wallet is protected with the same level of security generally associated with the "lock" icon that appears in Internet Explorer when visiting a secure site. Because the Wallet is displayed in an Explorer Bar window in Internet Explorer, the lock icon may not appear when viewing a non-secure web page, even though the Wallet Explorer bar is operating in secure mode. 
+**IP Addresses/Clear GIFs**  
+Gay.com tracks individual IP addresses and uses clear GIFs to help diagnose problems with our service, to administer our site and to gather broad demographic information. User IP address information is used only for our internal purposes. Information gathered through our use of clear GIFs cannot be traced to an individual user and is used only for our internal purposes. 
 
-While we are confident both in the level of security that 128-bit SSL offers and in the design of our systems, due to the public nature of a network like the Internet, there are always potential security risks. 
+**ADDITIONAL DISCLOSURE SCENARIOS**  
+Notwithstanding anything else in this policy, Gay.com may also disclose personal and aggregate information when required by a valid legal mechanism such as a search warrant, subpoena, or court order, or when we deem it necessary, in our sole discretion, to protect our rights and the safety of others, or our members, employees, or properties. 
 
-If you have concerns about storing your credit card information online, you can use the rest of the wallet and simply leave the credit card fields blank. This will allow you to take advantage of the timesaving features of the online wallet while eliminating your exposure to credit card fraud. When you instruct us to do so, we will disclose information you have submitted in connection with the PeoplePC Online Wallet to the merchant with whom you are transacting business.
+Gay.com believes that members' private communications in chat rooms, e-mail, and instant message-like conversations should generally remain confidential. Gay.com does not read or disclose private communications unless ordered to do so through a valid legal mechanism such as a search warrant, subpoena, or court order, to protect the company's rights and property, or during emergencies when we believe safety is at risk. Please remember that what you write or post in public areas such as chat rooms and message boards is available to all Gay.com members, and in many cases other visitors to the Gay.com site. Also keep in mind that Gay.com is not responsible for what other users may do with private communications you've had with them. While chat and instant message-like conversations pass through Gay.com's servers, we do not store logs of these conversations. 
 
- **PeoplePC Deal Finder.** The PeoplePC Deals Finder alerts members when they are browsing a site maintained by a third party merchant that offers a special deal to PeoplePC members. The feature does this by comparing the current web address (URL) being viewed against a table of known URLs. It does not associate individual information, such as your membername, with the URLs being viewed. 
+Gay.com reserves the right to share some or all of your personal information with its parent company, subsidiaries, joint ventures or other companies under common control with Gay.com, in which case Gay.com will require such entities to honor this privacy policy. If Gay.com is acquired by another company, that company will obtain the member information collected by Gay.com and will assume the rights and obligations set forth in this privacy policy regarding that information. 
 
-PeoplePC does not collect or record URLs or other data regarding your activities at sites other than the PeoplePC Sites. PeoplePC only monitors the URLs you visit so that we can bring your attention to deals offered to PeoplePC Members by merchants whose sites you are visiting. PeoplePC will not share the URLs being viewed with any third parties. 
+**OFF-SITE LINKS**  
+Gay.com provides links to other sites. Gay.com is not responsible for the privacy practices or contents of these other sites. 
 
-**PeoplePages.** PeoplePages is a feature that allows you to create a special page on which you can voluntarily post personal information about yourself. Your PeoplePage will be available to anyone surfing the PeoplePages site, including non-PeoplePC members. By posting personal information on your PeoplePage, you are assuming the risk that persons accessing the PeoplePages site may use or misuse such information. PeoplePC will not be responsible or liable for such use or misuse. In addition, PeoplePC may feature your personal PeoplePage (as one of our "Featured Pages" or otherwise) on the PeoplePages site. Information you provide on your PeoplePage may also be used to offer you an improved, more personalized PeoplePC experience. 
+**SYNDICATED GAY.COM CONTENT**  
+Gay.com may syndicate its content to and distribute its content through other sites on the Internet. Although you may see the Gay.com logo on these pages, your activity on these sites is governed by the privacy statement on the site you're visiting. 
 
-**Information Exchanged with Our Vendors:**
+**OPT-OUT**  
+Our site provides users the opportunity upon registration to opt out of receiving communications from us and from our partners, affiliates, and advertisers. These options are available during registration, and through the preferences setting on the "Member Center" page. You may further opt out of certain information uses when providing information on forms such as the Premium Personals profile forms. Please note that even if you have chosen to opt out of receiving communications from us, we reserve the right to contact you by e-mail about material changes to this privacy policy or the Gay.com User Agreement. 
 
-PeoplePC frequently uses third party vendors to help us to provide services to Members. To allow these vendors to create an account for you within their systems and to provide services to you, we must pass on information about you to them. Our third party vendors have agreed to use your personal information only to perform their functions as PeoplePC vendor-partners. Our core partners include: 
+**DELETE/DEACTIVATE INFORMATION**  
+Gay.com gives users the following options for removing their information from our database: • You can send e-mail to feedback@gay.com. Please be sure to include your member name, e-mail address and name. 
 
-| financial vendors who provide financing for purchase of Membership packages;  
----|---  
-| telecommunications and email vendors who work with us to establish and manage Member accounts;  
-| PC manufacturers and warranty service vendors who require product registration information to fulfill warranty obligations;  
-| shipping vendors who work with us to deliver to you the PeoplePC products that you request; and  
-| the merchandising vendor who helps us to offer PeopleShop, the online product and computer accessory store. Our merchandising vendor may contact you directly concerning special offers they extend from time to time to PeoplePC Members. You may opt-out of receiving these communications -- see the choice/opt-out section below.  
+Gay.com is not responsible for removing information from third-party lists or databases with whom users have previously authorized us to share their information. 
 
+**CHANGE/MODIFY INFORMATION**  
+Gay.com gives users the following options for changing or modifying information previously provided: 1\. Visit [http://www.gay.com/members/](https://web.archive.org/members/) 2\. Send e-mail to [feedback@gay.com](mailto:feedback@gay.com). 
 
+**AD SERVER**  
+Gay.com uses a reputable third party to serve some of the advertisements you see on the pages of the Gay.com Site. We use clear GIFs, or pixel tags, provided by our ad serving company to help manage our advertising. These clear GIFs allow our ad serving company to recognize a browser's cookie when the browser visits the Gay.com Site. This allows us to learn which banner ads bring users to our site. The information we collect and share through this technology is not linked to any information that would allow our ad server to personally identify our users. For more information about our ad serving company or for your choices about not having this anonymous information used, please click [here](http://www.privacychoices.org/). 
 
-**Information Exchanged with Merchant Partners:**
-
-Once you're a Member, you will enjoy special deals through our merchants who wish to make special offers to PeoplePC Members. We share with merchant partners aggregate information about the PeoplePC Membership. 
-
-We may also from time to time make your contact information available so that merchants may tell you directly about offers that you might find of interest. When we do so, we will typically use a third party fulfillment house that has agreed to keep the contact information confidential and to use the information only for the purpose of conducting the mailings in question. We will not give your contact information directly to merchants, nor make the information available to any third party for unrestricted use. You may opt-out of receiving these communications -- see the choice/opt-out section below.
-
- **Additional Information:**
-
- **Security.**  
-Our sites have security measures in place to protect the loss, misuse, and alteration of the information under our control. We use commercial industry-standard methods to protect your information from unauthorized access. Among other techniques, we store such information on a computer behind our "firewall" in a secure location. Of course, there is no such thing as perfect security, and whatever the level of security, it is always possible that security breaches could occur. PeoplePC is not responsible for damages caused by the intentional wrongful actions of others that result in a breach of security.
-
- **Choice/Opt-Out.**  
-You may opt-out of receiving email newsletters from PeoplePC by following the specific "unsubscribe" instructions included in the email. To elect not to receive any other emails and /or promotional information from PeoplePC or its merchant vendors or partners, [click here](http://home.peoplepc.com/help/helpinfo/preferences.asp) to update your preferences.
-
-If you want to reduce the amount of national advertising mail you receive at home, send your name and address to the Direct Marketing Association's Mail Preference Service (MPS): Mail Preference Service, Direct Marketing Association, P.O. Box 9008, Farmingdale, NY 11735-9008.
-
- **Special circumstances.**  
-PeoplePC may be required by law enforcement agencies or judicial authorities to provide personal data on individual users. In matters involving a danger to personal or public safety, PeoplePC may voluntarily share personal data with appropriate governmental authorities. In circumstances involving a breach of PeoplePC's Acceptable Use Policy, PeoplePC may share personal data with governmental authorities and with the companies that provide Internet connectivity to PeoplePC. PeoplePC may also disclose personal data where necessary to identify, contact, or bring legal action against someone who may be violating PeoplePC's Acceptable Use Policy or other user policies, to operate PeoplePC's services properly, or to protect PeoplePC or its members.
-
- **Changing/Removing information.**  
-If you wish to have information you have provided to us removed from our records or changed please contact us at one of the addresses listed below, and we will use all reasonable efforts to accommodate your request.
-
- **Contacting us.**  
-Please contact us if you have any questions or concerns about your privacy as a PeoplePC member or on PeoplePC's sites. You can reach PeoplePC via email at [member.services@peoplepc.com](mailto:member.services@peoplepc.com) or via mail at:
-
-Privacy Policy Coordinator  
-PeoplePC Inc.  
-P.O. Box 26909  
-San Francisco, CA 94126-0909 
-
-Effective date: October 29, 2001
+**CHANGE POLICY**  
+From time to time we may revise this privacy notice. If we make a material change, we will post a notice on the Gay.com Web site or notify you by e-mail, at which time you'll be able to "opt out" of these new practices by contacting us (using the contact information above). 
