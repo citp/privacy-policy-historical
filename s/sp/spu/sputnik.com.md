@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233814id_/http%3A//www.sputnik.com/sitestuff/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307233336id_/http%3A//www.sputnik.com/sitestuff/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,6 +11,24 @@ SITE SEARCH
 WHAT THEY’RE SAYING
 
 WHAT'S NEW
+
+February 8, 2005 —  
+New! [SputnikNet Premier](https://web.archive.org/newsroom/releases/pr050208.html) brings credit card and PayPal billing to our hosted hotspot management service.
+
+January 17, 2004 —  
+“Sputnik Takes Off”: Wireless Fidelity Magazine [profiles](http://www.wirelessfidelitymag.com/hotnews/51h1792932.html) how GetLocal uses SputnikNet to bring Wi-Fi to Seattle, and beyond.
+
+December 29, 2004 —  
+Public Company Management Corp. [announces](https://web.archive.org/newsroom/clips.html#200412) SB-2 securities registration contract with Sputnik.
+
+December 15, 2004 —  
+A nice [write-up](https://web.archive.org/newsroom/clips.html#200412) on Sputnik from Wi-Fi Net News.
+
+December 15, 2004 —  
+Sputnik [announces](https://web.archive.org/newsroom/releases/pr041215.html) new software modules for [credit card](https://web.archive.org/products/scc/module_aria.html) and [PayPal](https://web.archive.org/products/scc/module_paypal.html) payments.
+
+December 9, 2004 —  
+Linux Devices [profiles](http://www.linuxdevices.com/articles/AT8048385669.html) the new Sputnik AP 220.
 
 December 1, 2004 —  
 Sputnik and Gemtek Systems announce the [Sputnik AP 220](https://web.archive.org/newsroom/releases/pr041201.html), a carrier-grade access point based on Gemtek hardware and Sputnik software.
