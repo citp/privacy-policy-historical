@@ -1,35 +1,29 @@
-> *The following text is extracted and transformed from the 1stsitefree.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206092653id_/http%3A//1stsitefree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stsitefree.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611032620id_/http%3A//1stsitefree.com/privacy.htm) for the most accurate reproduction.*
 
 # 1st Site Free - Privacy Policy Statement
 
-[The Children's Online Privacy Protection Act](http://www.ftc.gov/ogc/coppa1.htm) (COPPA) is designed to safeguard children's privacy online by regulating the collection of personal information from children under 13. COPPA was passed by Congress in October 1998 and went into effect on April 21, 2000. 
+**1st Site Free respects your privacy.**
 
-  * The primary goal of the Act is to place parents in control over what information is collected from their children online. And as parents, it is important to be involved in children's online activities and educate them about playing it safe. 
-  * Many resources are available to help parents when it comes to children's privacy. I encourage parents to check out these sites for additional information: [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) and [GetNetWise](http://www.getnetwise.org/). 
+Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of 1st Site Free.
 
+**Credit card details**
 
+If you find this Website useful, donate as little as a $1.00 through the [Amazon Honor System](http://www.amazon.com/paypage/P2MIC17XN4LP24) to help me keep it free. Paying is fast and easy: just click the Pay now button to begin. Your credit card is secure. Your privacy is protected. Either a credit card or a check card is required to make an Honor System payment. They accept Visa, MasterCard/EuroCard, Discover, American Express, Diner's Club, and JCB credit cards.
 
-This is how I handle information I learn about you from your visit this Website. The information I receive depends on what you do when you visit this site.
+**External Sites.**
 
- _If you visit this site to browse, or to read or download information:_
+1st Site Free is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
-    I collect and store the name of the domain and host from which you access the Internet (for example, aol.com); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access this site; and the Internet address of the Website from which you linked directly to this site. 
-     
-    I use this information to measure the number of visitors to the different sections of this site, and to help me make this site more useful. I delete this information after one year. 
-     
-    I do _not_ use " **cookies**" on this site.
+**Cookies**
 
-_If you choose to identify yourself by sending me an e-mail:_
+A "cookie" is a small data text file that is placed in your browser and allows 1st Site Free to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and 1st Site Free does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
 
-    You are sending me personal information (i.e. your name, e-mail address or other information). I store this information to resolve and reply to your question(s). I delete this information once your questions are resolved. 
+**Remember The Risks Whenever You Use The Internet**
 
-This Website links to documents located on sites maintained by other Webmasters. Once you access an individual document that links you to another Website, you are subject to the privacy policy of the Website containing that site.
+While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to 1st Site Free and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through 1st Site Free have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. 
 
-If you experience technical problems with the operation or have questions about this site, provide me your suggestions or comments.
+Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-**Cookie**
-    A "cookie"is a small text file that some Websites can place on your computer's hard drive. Your browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server. The main purpose of cookies is to identify users and possibly prepare customized Web pages for them. The only personal information a cookie can contain is information you supply yourself. Most users do not know that "cookies" are being placed on their computers. If you want to know when this happens or to prevent it from happening, you can set your browser to warn you when a website attempts to place a "cookie" on your computer.
+For any other information email [webmaster](mailto:billgreen@1stsitefree.com)
 
-[Do You Need Help?](https://web.archive.org/web/20031206092653id_/http%3A//1stsitefree.com/help.htm) Don't be shy, if you have questions or need help creating your Website, just ask me. I work cheap -- free. The only dumb question is the one not asked!
-
-If you find this Website useful, donate as little as a $1.00 through the [Amazon Honor System](http://www.amazon.com/paypage/P2MIC17XN4LP24) to help me keep it free. _Paying is fast and easy: just click the Pay now button to begin. Your credit card is secure. Your privacy is protected._
+[Do You Need Help?](https://web.archive.org/web/20040611032620id_/http%3A//1stsitefree.com/help.htm) Don't be shy, if you have questions or need help creating your Website, just ask me. I work cheap -- free. The only dumb question is the one not asked!
