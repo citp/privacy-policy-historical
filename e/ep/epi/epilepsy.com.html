@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the epilepsy.com privacy policy that was archived on 2004-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040618173720id_/http%3A//www.epilepsy.com/epilepsy/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epilepsy.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204145959id_/http%3A//www.epilepsy.com/epilepsy/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en-US"><head>
 <title>Privacy Statement : Epilepsy.com</title>
@@ -44,10 +44,6 @@ seniorson = new Image;
 seniorsoff = new Image;
 seniorson.src="/home_img/nav_seniors_on.gif";
 seniorsoff.src="/home_img/nav_seniors_off.gif";
-healthcareon = new Image;
-healthcareoff = new Image;
-healthcareon.src="/home_img/nav_healthcare_on.gif";
-healthcareoff.src="/home_img/nav_healthcare_off.gif";
 var mainepilepsy_x, mainepilepsy_y;
 var diagnosis_x, diagnosis_y;
 var treatment_x, treatment_y;
@@ -119,6 +115,46 @@ function glosswin(term) {
 	glossary.focus();
 }
 
+function setCookie(name, value, expires, path, domain, secure) {
+  var curCookie = name + "=" + escape(value) +
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") +
+      ((secure) ? "; secure" : "");
+  document.cookie = curCookie;
+}
+function getCookie(name) {
+  var dc = document.cookie;
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) return null;
+  } else
+    begin += 2;
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1)
+    end = dc.length;
+  return unescape(dc.substring(begin + prefix.length, end));
+}
+function fixDate(date) {
+  var base = new Date(0);
+  var skew = base.getTime();
+  if (skew > 0)
+    date.setTime(date.getTime() - skew);
+}
+
+var now = new Date();
+fixDate(now);
+now.setTime(now.getTime() + 160 * 24 * 60 * 60 * 1000);
+var visitor = getCookie("visitor");
+// if the cookie wasn't found, this is your first visit and you need to be tagged
+if (!visitor) {
+  // the value for the unique ID for the new user
+  visitor = (String(now.getTime()) + String(Math.round(Math.random() * 10000)));
+}
+setCookie('visitor', visitor, now,'/');
+
 </script>
 
 </head>
@@ -135,9 +171,7 @@ function glosswin(term) {
 <tr>
 <td width="50%"><a href="/"><img src="/home_img/epilepsy_logo.gif" width="193" height="44" border="0" alt="Epilepsy.com"></a></td>
 <td width="50%" align="right">
-<a href="http://www.communityzero.com/epilepsydotcom"><img src="/home_img/community_forum.gif" width="92" height="47" border="0" alt="Community Forum"></a> <img src="/img/pixie.gif" width="5" height="2" alt=""> 
-<a href="/epilepsy/donation.html"><img src="/home_img/make_a_donation.gif" width="92" height="47" border="0" alt="Make a Donation"></a> <img src="/img/pixie.gif" width="5" height="2" alt="">
-<a href="http://www.epilepsyproject.org"><img src="/home_img/epilepsy_cure.gif" width="99" height="47" border="0" alt="Epilepsy Cure Project"></a>
+<a href="http://professionals.epilepsy.com"><img src="/home_img/for_professionals.gif" width="92" height="47" border="0" alt="Epilepsy.com/Professionals"></a><img src="/img/pixie.gif" width="7" height="2" alt=""><a href="http://communities.epilepsy.com"><img src="/home_img/community_forum.gif" width="92" height="47" border="0" alt="Community Forum"></a><img src="/img/pixie.gif" width="7" height="2" alt=""><a href="http://www.epilepsyproject.org"><img src="/home_img/epilepsy_cure.gif" width="99" height="47" border="0" alt="Epilepsy Cure Project"></a>
 </td>
 </tr>
 <tr>
@@ -155,6 +189,7 @@ function glosswin(term) {
 </tbody></table>
 </div>
 <!--/htdig_noindex-->
+
 <!-- the nav and content table -->
 <div align="center">
 <table width="95%" border="0" cellpadding="0" cellspacing="0">
@@ -265,9 +300,16 @@ function glosswin(term) {
 	<td colspan="3"><img src="/img/pixie.gif" width="2" height="10" alt=""></td>
 	</tr>
 
+        <tr>
+        <td colspan="3"><img src="/img/pixie.gif" width="12" height="1" alt=""><a href="/epilepsy/donation.html"><img src="/main_img/o_icon_donate.gif" align="middle" alt="" border="0"><img src="/main_img/o_nav_donate.gif" alt="MAKE A DONATION" hspace="12" border="0"></a></td>
+	</tr>
+	<tr>
+        <td colspan="3"><div style="margin-left:52px; margin-top: 5px; margin-bottom:3px"><img src="/main_img/white_dots.gif" alt=""></div></td>
+        </tr>
 	<tr>
 	<td colspan="3"><img src="/img/pixie.gif" width="12" height="1" alt=""><a href="/who/whois.html"><img src="/main_img/o_icon_who_is.gif" align="middle" alt="" border="0"><img src="/main_img/nav_x.gif" alt="WHO IS EPILEPSY.COM?" hspace="12" border="0"></a></td>
-	</tr><tr>
+	</tr>
+	<tr>
 	<td colspan="3"><div style="margin-left:52px; margin-top: 5px; margin-bottom:3px"><img src="/main_img/white_dots.gif" alt=""></div></td>
 	</tr>
 	<tr>
@@ -284,6 +326,24 @@ function glosswin(term) {
 	<tr>
 	<td colspan="3"><img src="/img/pixie.gif" width="2" height="10" alt=""></td>
 	</tr>
+		<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="tdorangeline"><img src="/img/pixie.gif" width="2" height="1" alt=""></td>
+	</tr>
+
+	<tr bgcolor="#ff6600">
+	<td colspan="3" align="center"><img src="/img/newsletter_icon.gif" width="25" height="42" alt=""><img src="/img/pixie.gif" width="10" height="10" alt=""><a href="http://www.epilepsy.com/epilepsy/newsletter_signup.php"><img src="/img/newsletter_sign_up.gif" width="110" height="42" border="0" alt=""></a><img src="/img/pixie.gif" width="10" height="10" alt=""><a href="http://www.epilepsy.com/epilepsy/newsletter_signup.php"><img src="/img/newsletter_go.gif" width="25" height="18" alt="" border="0"></a>
+	<br>
+	<img src="/img/pixie.gif" width="2" height="5" alt="">
+	</td>
+	</tr>
+	
+	
 	
 	<tr>
 	<td style="background-image: url('/main_img/orange_nav_bottom.gif')"><img src="/main_img/orange_nav_corner_bl.gif" alt="" width="9" height="9"></td>
@@ -368,6 +428,7 @@ Epilepsy.com reserves the right to amend this Policy periodically.  Any amendmen
 <p><b class="main">HOW TO CONTACT EPILEPSY.COM</b><br>
 If you have any questions about this Policy, please contact us at <a href="mailto:EpilepsyCure@aol.com">EpilepsyCure@aol.com</a>.</p>
 
+<p> This Policy became effective on November 1, 2003.</p>
 <p>© 1998 - 2003 The Epilepsy Project and Epilepsy.com. All rights reserved.</p>
 
 
@@ -402,12 +463,12 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 <!-- the bottom bar -->
 <!--htdig_noindex-->
 <div align="center">
-<table width="95%" border="0" cellpadding="0" cellspacing="0">
+<table width="95%" border="0" cellpadding="0" cellspacing="3">
 <tbody><tr>
 <td><img src="/img/pixie.gif" width="2" height="10" alt="" border="0"></td>
 </tr>
 <tr>
-<td align="center"><span class="smalldkgray">© 2004 Epilepsy.com.  All rights reserved.</span> &nbsp;  &nbsp; <a href="/epilepsy/privacy.html"><span class="small">Privacy Statement</span></a> | <a href="/epilepsy/terms.html"><span class="smallorange">Terms of Use</span></a> | <span class="smalldkgray">Problems? Email</span> <a href="mailto:webmaster@zoomedia.com?subject=Epilepsy"><span class="smallorange">webmaster@zoomedia.com</span></a></td>
+<td align="center"><span class="smalldkgray">© 2004 Epilepsy.com.  All rights reserved.</span> &nbsp;  &nbsp; <a href="/epilepsy/privacy.html"><span class="smallorange">Privacy Statement</span></a> | <a href="/epilepsy/terms.html"><span class="smallorange">Terms of Use</span></a> | <span class="smalldkgray">Problems? Email</span> <a href="mailto:webmaster@epilepsyproject.org"><span class="smallorange">webmaster@epilepsyproject.org</span></a></td>
 </tr>
 </tbody></table>
 </div>
@@ -418,7 +479,7 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 <!-- misc layers -->
 <!-- the LNAV menus -->
 <!--htdig_noindex-->
-<div id="menumainepilepsy" style="position: absolute; visibility: hidden; left: 235px; top: 134px;">
+<div id="menumainepilepsy" style="position: absolute; visibility: hidden; left: 235px; top: 128px;">
 <table cellspacing="0" cellpadding="1" border="0" class="tablegray">
 <tbody><tr>
 <td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
@@ -432,10 +493,10 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 <td class="tdmenu"><a href="/epilepsy/types_seizures.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Types of Seizures</span></a></td>
 </tr>
 <tr>
-<td class="tdmenu"><a href="/epilepsy/social_thinking.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Thinking and Behavior</span></a></td>
+<td class="tdmenu"><a href="/epilepsy/types_epilepsy.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Types of Epilepsy</span></a></td>
 </tr>
 <tr>
-<td class="tdmenu"><a href="/epilepsy/types_epilepsy.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Types of Epilepsy</span></a></td>
+<td class="tdmenu"><a href="/epilepsy/moods_behavior.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">Moods &amp; Behavior</span></a></td>
 </tr>
 <tr>
 <td class="tdmenu"><a href="/epilepsy/provoke_seizure.html" onmouseover="show_menu('mainepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'mainepilepsy\')',4000)"><span class="lnav">What Provokes a Seizure?</span></a></td>
@@ -448,7 +509,7 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 </tbody></table>
 </div>
 
-<div id="menudiagnosis" style="position: absolute; visibility: hidden; left: 235px; top: 161px;">
+<div id="menudiagnosis" style="position: absolute; visibility: hidden; left: 235px; top: 155px;">
 <table cellspacing="0" cellpadding="1" border="0" class="tablegray">
 <tbody><tr>
 <td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
@@ -475,7 +536,7 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 </tbody></table>
 </div>
 
-<div id="menutreatment" style="position: absolute; visibility: hidden; left: 235px; top: 188px;">
+<div id="menutreatment" style="position: absolute; visibility: hidden; left: 235px; top: 182px;">
 <table cellspacing="0" cellpadding="1" border="0" class="tablegray">
 <tbody><tr>
 <td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
@@ -492,13 +553,16 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 <td class="tdmenu"><a href="/epilepsy/surgery.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Surgery</span></a></td>
 </tr>
 <tr>
+<td class="tdmenu"><a href="/epilepsy/clinical_trials.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Clinical Trials</span></a></td>
+</tr>
+<tr>
 <td class="tdmenu"><a href="/epilepsy/vns.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Vagus Nerve Stimulation</span></a></td>
 </tr>
 <tr>
 <td class="tdmenu"><a href="/epilepsy/ketogenic_diet.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">The Ketogenic Diet</span></a></td>
 </tr>
 <tr>
-<td class="tdmenu"><a href="/epilepsy/alternative_therapies.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Alternative Therapies</span></a></td>
+<td class="tdmenu"><a href="/epilepsy/alternative_therapies.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">Non-Drug Therapies</span></a></td>
 </tr>
 <tr>
 <td class="tdmenu"><a href="/epilepsy/healthcare_team.html" onmouseover="show_menu('treatment')" onmouseout="timeoutID=setTimeout('hide_menu(\'treatment\')',4000)"><span class="lnav">My Health Care Team</span></a></td>
@@ -508,7 +572,7 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 </tbody></table>
 </div>
 
-<div id="menulivingepilepsy" style="position: absolute; visibility: hidden; left: 235px; top: 215px;">
+<div id="menulivingepilepsy" style="position: absolute; visibility: hidden; left: 235px; top: 209px;">
 <table cellspacing="0" cellpadding="1" border="0" class="tablegray">
 <tbody><tr>
 <td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
@@ -516,10 +580,16 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 <td><a href="/101/101_living.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Living with Epilepsy 101:  The Basics</span></a></td>
 </tr>
 <tr>
+<td class="tdmenu"><a href="/epilepsy/quality_of_life.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Quality of Life</span></a></td>
+</tr>
+<tr>
 <td class="tdmenu"><a href="/epilepsy/social_effects.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Social Effects of Epilepsy</span></a></td>
 </tr>
 <tr>
 <td class="tdmenu"><a href="/epilepsy/firstaid_seizures.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">First Aid for Seizures</span></a></td>
+</tr>
+<tr>
+<td class="tdmenu"><a href="/epilepsy/know_rights.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Know Your Rights</span></a></td>
 </tr>
 <tr>
 <td class="tdmenu"><a href="/epilepsy/safety.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Safety</span></a></td>
@@ -531,6 +601,9 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 <td class="tdmenu"><a href="/epilepsy/people.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">People Stories</span></a></td>
 </tr>
 <tr>
+<td class="tdmenu"><a href="/epilepsy/famous.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Famous People with Epilepsy</span></a></td>
+</tr>
+<tr>
 <td class="tdmenu"><a href="/epilepsy/art.html" onmouseover="show_menu('livingepilepsy')" onmouseout="timeoutID=setTimeout('hide_menu(\'livingepilepsy\')',4000)"><span class="lnav">Artistic Expression</span></a></td>
 </tr>
 </tbody></table></td>
@@ -538,7 +611,7 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 </tbody></table>
 </div>
 
-<div id="menunewsresearch" style="position: absolute; visibility: hidden; left: 235px; top: 242px;">
+<div id="menunewsresearch" style="position: absolute; visibility: hidden; left: 235px; top: 236px;">
 <table cellspacing="0" cellpadding="1" border="0" class="tablegray">
 <tbody><tr>
 <td><table cellspacing="1" cellpadding="3" border="0" class="tablewhite">
@@ -546,13 +619,13 @@ If you have any questions about this Policy, please contact us at <a href="mailt
 <td><a href="/epilepsy/news_feed.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Epilepsy News</span></a></td>
 </tr>
 <tr>
+<td class="tdmenu"><a href="/epilepsy/multimedia.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Multimedia Center</span></a></td>
+</tr>
+<tr>
 <td class="tdmenu"><a href="/epilepsy/research_articles.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Research Articles</span></a></td>
 </tr>
 <tr>
 <td class="tdmenu"><a href="/epilepsy/research_news.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Research News &amp; Notes</span></a></td>
-</tr>
-<tr>
-<td class="tdmenu"><a href="/epilepsy/clinical_trials.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Clinical Trials</span></a></td>
 </tr>
 <tr>
 <td class="tdmenu"><a href="/epilepsy/link_resources.html" onmouseover="show_menu('newsresearch')" onmouseout="timeoutID=setTimeout('hide_menu(\'newsresearch\')',4000)"><span class="lnav">Links</span></a></td>
