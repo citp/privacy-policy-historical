@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605113131id_/http%3A//www.appriver.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208173445id_/http%3A//www.appriver.com/privacy.htm) for the most accurate reproduction.*
 
 # Appriver
 
 _**AppRiver's Privacy Policy**_
 
-| [ ](https://web.archive.org/web/20030605113131id_/http%3A//www.appriver.com/Default.htm)  
+| [ ](https://web.archive.org/web/20031208173445id_/http%3A//www.appriver.com/Default.htm)  
 ---|---  
   
 AppRiver places the privacy, security and protection of our customer’s (and prospective customer’s) data and information as our number one priority.  Because AppRiver wants to demonstrate its commitment to our users’ privacy, we have disclosed our information collection and management practices on this page. 
