@@ -1,0 +1,736 @@
+<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2005-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/privacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- #BeginTemplate "/Templates/generic.dwt" --><!-- DW6 --><head>
+<!-- #BeginEditable "doctitle" --> 
+<title>Privacy Statement</title>
+<link rel="stylesheet" href="Style%20Sheets/maintext.css" type="text/css">
+<link rel="stylesheet" href="Style%20Sheets/pageTitle.css" type="text/css">
+<link rel="stylesheet" href="Style%20Sheets/Blue16.css" type="text/css">
+<!-- #EndEditable -->
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Leerburg Video Productions, 2003">
+<!-- #BeginEditable "tags" -->
+<meta name="Keywords" content="Dog Training Videos, German Shepherd Puppies, Leerburg, Bernhard Flinks, Dog Fights, Puppy Training, German Shepherd, Search &amp; Rescue, domniant dogs, dog bites, KNPV, dog training, S&amp;R, Whelping Puppies, housebreaking puppies, aggressive dogs, training puppies, puppy biting, schutzhund, schutzhund training, Police K9 Training">
+
+<meta name="Description" content="Leerburg Kennel and Video has produced over 100 Dog Training Videos since 1980. Leerburg kennels has bred 300 litters of German Shepherds from imported working bloodlines since 1978. Our web site (3,500 pages) includes 230 training articles, a web discussion board with 3500 registered trainers and 25 extensive Q&amp;A sections on dog training and breeding.">
+<!-- #EndEditable -->
+<link href="leerburg.css" rel="stylesheet" type="text/css">
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+randImgObj.products = new Array("prod1.jpg", "prod2.jpg", "prod3.jpg", "prod4.jpg", "prod5.jpg");
+randImgObj.action1 = new Array("act1.jpg", "act2.jpg", "act3.jpg", "act4.jpg", "act5.jpg");
+randImgObj.action2 = new Array("act6.jpg", "act7.jpg", "act8.jpg", "act9.jpg", "act10.jpg");
+randImgObj.puppies = new Array("pup1.jpg", "pup2.jpg", "pup3.jpg", "pup4.jpg", "pup5.jpg");
+
+randImgObj.imagesPath = "sideBar/";
+
+
+Array.prototype.shuffle = function() {
+  var i, temp, i1, i2;
+  for (i=0; i<this.length; i++) {
+    i1 = Math.floor( Math.random() * this.length );
+    i2 = Math.floor( Math.random() * this.length );
+    temp = this[i1];
+    this[i1] = this[i2];
+    this[i2] = temp;
+  }
+}
+
+randImgObjs = []; // holds all random rotating image objects defined
+
+// constructor
+
+function randImgObj(s)
+ {
+  this.speed=s; this.ctr=0; this.timer=0;
+  this.index = randImgObjs.length; randImgObjs[this.index] = this;
+  this.animString = "randImgObjs[" + this.index + "]";
+ }
+
+randImgObj.prototype =
+ {
+  addImages: function(ar) { // preloads images
+    this.imgObj.imgs = [];
+    for (var i=0; ar[i]; i++)
+    {
+      this.imgObj.imgs[i] = new Image();
+      this.imgObj.imgs[i].src = randImgObj.imagesPath + ar[i];
+    }
+  },
+
+  rotate: function()
+ { // controls rotation
+    var ctr = Math.floor( Math.random() * this.imgObj.imgs.length );
+    if (ctr == this.ctr) ctr = (ctr > 0)? --ctr: ++ctr;
+    this.ctr = ctr;
+    if ( typeof this.imgObj.filters != "undefined" ) {
+   		this.imgObj.style.filter = 'blendTrans(duration=1)';
+      if (this.imgObj.filters.blendTrans) this.imgObj.filters.blendTrans.Apply();
+    }
+    this.imgObj.src = this.imgObj.imgs[this.ctr].src;
+    if ( typeof this.imgObj.filters != "undefined" && this.imgObj.filters.blendTrans )
+      this.imgObj.filters.blendTrans.Play();
+  }
+}
+
+// sets up rotation for all defined randImgObjs
+randImgObj.start = function()
+{
+  for (var i=0; i<randImgObjs.length; i++)
+    randImgObjs[i].timer = setInterval(randImgObjs[i].animString + ".rotate()", randImgObjs[i].speed);
+}
+
+randImgObj.setUpImg = function(imgAr, sp, w, h)
+{
+  var rotator, img, imgStr = "";
+  rotator = new randImgObj(sp);
+  randImgObjs[randImgObjs.length-1].imgAr = imgAr;
+  imgAr.shuffle();
+  img = imgAr[ Math.floor( Math.random() * imgAr.length ) ];
+  imgStr += '<img src="' + randImgObj.imagesPath + img + '" alt="" ';
+  imgStr += 'name="img' + (randImgObjs.length-1) + '" width="' + w + '" height="' + h + '">';
+  document.write(imgStr);
+}
+
+function initRandRotation()
+ {
+  for (var i=0; randImgObjs[i]; i++) {
+    var rotator = randImgObjs[i];
+    rotator.imgObj = document.images["img" + i]; // get reference to the image object
+    rotator.addImages(rotator.imgAr);
+    rotator.rotate();
+  }
+  randImgObj.start();
+}
+
+//-->
+</script>
+<link href="leerburg.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+
+<body bgcolor="#FFFFFF" link="#333399" vlink="#333399" alink="#333399" ,="" onload="initRandRotation();MM_preloadImages('sideBar/QHorse1.gif')" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div align="left"></div>
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="333366">
+  <tbody><tr>
+    <td width="160" height="100" align="left" valign="top"><div align="left">
+	    <table width="75%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td><p>&nbsp;</p>
+            <p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td><a href="table.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Table','','/sideBar/table1.gif',1)"><img src="/sideBar/table.gif" alt="Table of Contents" name="Table" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="articles.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Training Articles','','/sideBar/articles1.gif',1)"><img src="sideBar/articles.gif" alt="Training Articles" name="Training Articles" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="vidolist.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Training Videos','','/sideBar/videos1.gif',1)"><img src="/sideBar/videos.gif" alt="Training Videos" name="Training Videos" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="nr.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('New Releases','','/sideBar/newRelease1.gif',1)"><img src="/sideBar/newRelease.gif" alt="New Releases" name="New Releases" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="dvd.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('DVD','','/sideBar/dvd1.gif',1)"><img src="/sideBar/dvd.gif" alt="DVD" name="DVD" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="vidolist.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('VHS','','/sideBar/vhs1.gif',1)"><img src="/sideBar/vhs.gif" alt="VHS" name="VHS" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="equip.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Training Equipment','','/sideBar/equip1.gif',1)"><img src="/sideBar/equip.gif" alt="Training Equipment" name="Training Equipment" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="books.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Dog Training Books','','/sideBar/books1.gif',1)"><img src="/sideBar/books.gif" alt="Dog Training Books" name="Dog Training Books" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="healthcare.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('K9 Healthcare','','/sideBar/health1.gif',1)"><img src="/sideBar/health.gif" alt="K9 Healthcare" name="K9 Healthcare" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="qa.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Q&amp;A','','/sideBar/qa1.gif',1)"><img src="/sideBar/qa.gif" alt="Q&amp;A" name="Q&amp;A" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="knl1.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Leerburg Kennel','','/sideBar/kennel1.gif',1)"><img src="/sideBar/kennel.gif" alt="Leerburg Kennel" name="Leerburg Kennel" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="litters.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Current Litters','','/sideBar/litters1.gif',1)"><img src="/sideBar/litters.gif" alt="Current Litters" name="Current Litters" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="litters1.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Testimonials','','/sideBar/test1.gif',1)"><img src="/sideBar/test.gif" alt="Testimonials" name="Testimonials" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="studlist.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Stud Dogs','','/sideBar/stud1.gif',1)"><img src="/sideBar/stud.gif" alt="Stud Dogs" name="Stud Dogs" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="adultdogs.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Adult Dogs for Sale','','/sideBar/adult1.gif',1)"><img src="/sideBar/adult.gif" alt="Adult Dogs for Sale" name="Adult Dogs for Sale" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="catalog.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Request a Catalog','','/sideBar/cata1.gif',1)"><img src="/sideBar/cata.gif" alt="Request a Catalog" name="Request a Catalog" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="http://www.leerburg.com/ubbthreads/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Discussion Board','','/sideBar/forum1.gif',1)"><img src="/sideBar/forum.gif" alt="Discussion Board" name="Discussion Board" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="order.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('How to Order','','/sideBar/order1.gif',1)"><img src="/sideBar/order.gif" alt="How to Order" name="How to Order" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="http://www.leerburg.com/cgi-bin/quikstore.cgi?page=quikstore.html&amp;store_type=html&amp;view_cart=yes" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('View Cart','','/sideBar/shopping1.gif',1)"><img src="/sideBar/shopping.gif" alt="View Cart" name="View Cart" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="order.htm#credit" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Foreign Orders','','/sideBar/foreign1.gif',1)"><img src="/sideBar/foreign.gif" alt="Foreign Orders" name="Foreign Orders" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="shiprate.htm#postage" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Shipping','','/sideBar/shipping1.gif',1)"><img src="/sideBar/shipping.gif" alt="Shipping" name="Shipping" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="contact.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contacing Us','','/sideBar/us1.gif',1)"><img src="/sideBar/us.gif" alt="Contacing Us" name="Contacing Us" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="contact.htm#address" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Address','','/sideBar/address1.gif',1)"><img src="/sideBar/address.gif" alt="Address" name="Address" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="contact.htm#phone" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Phone','','/sideBar/phone1.gif',1)"><img src="/sideBar/phone.gif" alt="Phone" name="Phone" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="contact.htm#email" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('email','','/sideBar/email1.gif',0)"><img src="/sideBar/email.gif" alt="email" name="email" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="search.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Search Our Site','','/sideBar/site1.gif',1)"><img src="/sideBar/site.gif" alt="Search Our Site" name="Search Our Site" width="151" height="19" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><a href="quarterhorses.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image29','','sideBar/QHorse1.gif',1)"><img src="sideBar/QHorse.gif" alt="Quarter Horses for Sale" name="Image29" width="151" height="19" border="0"></a></td>
+          </tr>
+        </tbody></table>
+        <p align="center">
+          <applet code="Fader.class" width="150" height="90" codebase="/Assets/Java%20Applets/Fader">
+            <param name="delay" value="40">
+            <param name="stop" value="3000">
+            <param name="bgColor" value="333366">
+            <param name="fgColor" value="FFFFFF">
+            <param name="HIGHLIGHT" value="333399">
+            <param name="fontSize" value="13">
+            <param name="fontStyle" value="1">
+            <param name="fontName" value="verdana">
+            <param name="text0" value="Policetraining.com">
+            <param name="text1" value="Links">
+            <param name="text2" value="Web Discussion Board">
+            <param name="text3" value="Puppies for Sale">
+            <param name="text4" value="Adult Dogs For Sale">
+            <param name="text5" value="Training Videos">
+            <param name="text6" value="Place an Order">
+            <param name="text7" value="Police K9 Info">
+            <param name="text8" value="New Leerburg Products">
+            <param name="url0" value="http://policetraining.com">
+            <param name="url1" value="http://leerburg.com/links.htm">
+            <param name="url2" value="http://www.leerburg.com/cgi-bin/UBB/ultimatebb.cgi">
+            <param name="url3" value="http://leerburg.com/litters.htm#pups">
+            <param name="url4" value="http://leerburg.com/adultdogs.htm">
+            <param name="url5" value="http://leerburg.com/vidolist.htm">
+            <param name="url6" value="http://leerburg.com/order.htm">
+            <param name="url7" value="http://leerburg.com/k9table.htm">
+            <param name="url8" value="http://leerburg.com/new.htm">
+            <param name="TARGET0" value="blank">
+            <param name="TARGET1" value="_parent">
+            <param name="TARGET2" value="blank">
+            <param name="TARGET3" value="_parent">
+            <param name="TARGET4" value="_parent">
+            <param name="TARGET5" value="_parent">
+            <param name="TARGET6" value="_parent">
+            <param name="TARGET7" value="_parent">
+            <param name="TARGET8" value="_parent">
+          </applet>
+        </p>
+    </div></td>
+    <td valign="top"><table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td height="37" valign="top"><font color="#FFFFFF" size="+3" face="Geneva, Arial, Helvetica, sans-serif"><img src="sideBar/title2.jpg" width="600" height="40"></font></td>
+      </tr>
+      <tr>
+        <td height="106" valign="bottom" background="sideBar/tableback.jpg">
+		<table width="600" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <tbody><tr>
+            <td valign="bottom">
+			<a href="http://www.leerburg.com/equip.htm">
+			<script language="JavaScript" type="text/JavaScript">
+ randImgObj.setUpImg(randImgObj.products,8000,150,100);
+            </script><img src="https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/sideBar/prod3.jpg" alt="" name="img0" width="150" height="100">
+			</a>
+</td>
+			
+            <td valign="top">
+			<a href="http://www.leerburg.com/vidolist.htm">
+			<script language="JavaScript" type="text/JavaScript">
+ randImgObj.setUpImg(randImgObj.action1,6000,150,100);
+            </script><img src="https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/sideBar/act3.jpg" alt="" name="img1" width="150" height="100">
+			</a>
+</td>
+			
+            <td valign="top">
+			<a href="http://www.leerburg.com/studlist.htm">
+			<script language="JavaScript" type="text/JavaScript">
+ randImgObj.setUpImg(randImgObj.action2,10000,150,100);
+            </script><img src="https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/sideBar/act10.jpg" alt="" name="img2" width="150" height="100">
+			</a>
+</td>
+			
+            <td valign="top">
+			<a href="http://www.leerburg.com/litters.htm">
+			<script language="JavaScript" type="text/JavaScript">
+ randImgObj.setUpImg(randImgObj.puppies,5000,150,100);
+            </script><img src="https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/sideBar/pup5.jpg" alt="" name="img3" width="150" height="100">
+			</a>
+</td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td valign="top" bgcolor="#FFFFFF"><table height="108" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td width="28" height="45">&nbsp;</td>
+              <td width="572" valign="top">
+			  <!-- #BeginEditable "content" --> 
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td width="18" height="399"></td>
+    <td width="582" valign="top">
+      <div align="center"><b><span class="page_titles">Information about our Organization 
+        and Website</span></b></div>
+      <p class="maintext">Modern information and communication technologies play 
+        a fundamental role in the activities of an organization like Leerburg 
+        Video Production. We are based in the USA.</p>
+      <p class="maintext">Our principal activity is: Produce and sell dog training 
+        videos and equipment and provide dog training information. Our privacy 
+        policy covers Leerburg Video Production and its Web sites.</p>
+      <table width="56%" border="1" class="maintext">
+        <tbody><tr> 
+          <td>Organization name:</td>
+          <td>Leerburg Video Production</td>
+        </tr>
+        <tr> 
+          <td>Address:</td>
+          <td>PO Box 218</td>
+        </tr>
+        <tr> 
+          <td>City, State, Zip:</td>
+          <td>Menomonie, WI 54751</td>
+        </tr>
+        <tr> 
+          <td>Country:</td>
+          <td>USA</td>
+        </tr>
+        <tr> 
+          <td>Controller:</td>
+          <td>Ed Frawley</td>
+        </tr>
+        <tr> 
+          <td>Web Site(s):</td>
+          <td>www.leerburg.com</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td>www.policetraining.com</td>
+        </tr>
+      </tbody></table>
+      <p class="Blue16"> Providing Visitors with Anonymous Access</p>
+      <p class="maintext">You can access our Web sites home page and browse our 
+        sites without disclosing your personal data.</p>
+      <p class="Blue16">The services and links of our Web sites</p>
+      <p class="maintext">Our Web sites do not enable our visitors to communicate 
+        with other visitors or to post information to be accessed by others.</p>
+      <p class="maintext">Our Web sites do not include links to third party Web 
+        service providers.</p>
+      <p class="Blue16">Automatic Collection of Information</p>
+      <p class="maintext">We only use cookies for our shopping cart system &amp;
+        web board. They are used for the functionality of the website and are
+        not used to track any personal information.</p>
+      <p class="maintext">We do not automatically log personal data nor do we 
+        link information automatically logged by other means with personal data 
+        about specific individuals.</p>
+      <p class="Blue16">Data Collection and Purpose Specification</p>
+      <p class="maintext">We collect the personal data that you may volunteer 
+        while using our services. </p>
+      <p class="maintext">We do not collect information about our visitors from 
+        other sources, such as public records or bodies, or private organisations.</p>
+      <p class="maintext">We do not collect or use personal data for any purpose 
+        other than that indicated in the table below.</p>
+      <p class="maintext">If we wish to use your personal data for new purposes, 
+        we offer you the means to consent to those new purposes:</p>
+      <p class="maintext">by sending an email (frawley@leerburg.com ) <br>
+        by sending postal mail to this address ( PO Box 218, Menomonie, WI 54751 
+        ) <br>
+        by calling this telephone number ( (715) 235-6502 ) </p>
+      <p class="Blue16">Children's Privacy</p>
+      <p class="maintext">We do not knowingly collect personal data from children.</p>
+      <p class="maintext">We take specific steps to protect the privacy of children 
+        by:</p>
+      <p class="maintext">Additionally, to ensure that children's privacy is respected 
+        on our Web site, we:</p>
+      <ul>
+        <li class="maintext">Do not enter information given to us by people under 
+          the age of 18 into our mailing list database.</li>
+      </ul>
+      <p class="maintext">We do not provide information about our personal data 
+        practices in relation to children on our home page, or at those sites 
+        on our Web site where we collect personal data.</p>
+      <p class="Blue16">Disclosure and Visitor Choice</p>
+      <p class="maintext">We do not disclose your personal data to our subsidiaries 
+        or other organisations.</p>
+      <p class="Blue16">Confidentiality / Security</p>
+      <p class="maintext">We give you the option of using a secure transmission 
+        method to send us the following types of personal data:</p>
+      <ul>
+        <li class="maintext">primary personal data (such as name and contact details) 
+          <br>
+        </li>
+        <li class="maintext">identifiers (such as credit card details, Web site 
+          password)</li>
+      </ul>
+      <p class="maintext"> We have implemented security policies, rules and technical 
+        measures to protect the personal data that we have under our control from:</p>
+      <ul>
+        <li class="maintext">unauthorised access <br>
+        </li>
+        <li class="maintext">improper use or disclosure <br>
+        </li>
+        <li class="maintext">unauthorised modification <br>
+        </li>
+        <li class="maintext">unlawful destruction or accidental loss</li>
+      </ul>
+      <p class="maintext"> All our employees and data processors, who have access 
+        to, and are associated with the processing of personal data, are obliged 
+        to respect the confidentiality of our visitors' personal data.</p>
+      <p class="maintext">We ensure that your personal data will not be disclosed 
+        to State institutions and authorities except if required by law or other 
+        regulation.<br>
+      </p>
+      <p class="Blue16">Access to the personal data we may hold about you</p>
+      <p class="maintext">You can ask us, by:</p>
+      <ul>
+        <li class="maintext"><span class="maintext">sending an email - frawley@leerburg.com<br>
+          </span></li>
+        <li class="maintext">sending postal mail to this address - PO Box 218, 
+          Menomonie WI 54751<br>
+        </li>
+        <li class="maintext">calling this telephone number - (715) 235-6502</li>
+      </ul>
+      <p class="maintext"> Upon request, which you can indicate by:</p>
+      <ul>
+        <li class="maintext"><span class="maintext">sending an email - frawley@leerburg.com<br>
+          </span></li>
+        <li class="maintext">sending postal mail to this address - PO Box 218, 
+          Menomonie WI 54751<br>
+        </li>
+        <li class="maintext">calling this telephone number - (715) 235-6502</li>
+      </ul>
+      <p class="maintext"> We will provide you with a readable copy of the personal 
+        data which we keep about you, within a week. - although we may before 
+        require proof of your identity -. We will provide the information without 
+        any charge.</p>
+      <p class="maintext">We allow you to challenge the data that we hold about 
+        you and, where appropriate, you may have the data:</p>
+      <ul>
+        <li class="maintext"><span class="maintext">erased <br>
+          </span></li>
+        <li class="maintext">rectified or amended <br>
+        </li>
+        <li class="maintext">completed</li>
+      </ul>
+      <p class="maintext">We do not reserve the right to refuse to provide you 
+        with a copy of your personal data.</p>
+      <p class="maintext">We do, however, allow you to challenge our decision 
+        to refuse to provide you with a copy of your personal data.<br>
+      </p>
+      <p class="Blue16">Privacy Compliance</p>
+      <p class="maintext">There are no national laws or self-regulatory schemes 
+        applicable to our web site or organization.</p>
+      <p class="maintext">There are no global or regional regulatory or self-regulatory 
+        schemes applicable to our web site or organisation.</p>
+      <p class="maintext">In order to demonstrate that our privacy policy accords 
+        with the above privacy instrument, we are:</p>
+      <ul>
+        <li class="maintext">voluntarily committed to a Self Assessment procedure</li>
+      </ul>
+      <p class="Blue16">Self Assessment Procedure:</p>
+      <table width="66%" border="1" class="maintext">
+        <tbody><tr> 
+          <td>Name or designation of the privacy policy person or service: </td>
+          <td>Ed Frawley</td>
+        </tr>
+        <tr> 
+          <td>URL:</td>
+          <td>http://www.leerburg.com</td>
+        </tr>
+        <tr> 
+          <td>Address:</td>
+          <td>PO Box 218<br>
+            Menomonie, WI 54751</td>
+        </tr>
+        <tr> 
+          <td>Country</td>
+          <td>USA</td>
+        </tr>
+      </tbody></table>
+      <p></p>
+      <p> </p>
+      <p> </p>
+      <p class="Blue16">Privacy Support:</p>
+      <p class="maintext">If you have an enquiry or concern about our privacy 
+        policy, please contact:</p>
+      <table width="75%" border="1" class="maintext">
+        <tbody><tr> 
+          <td width="41%">&nbsp;</td>
+          <td width="27%"><span class="maintext">Contact 1</span></td>
+         
+        </tr>
+        <tr> 
+          <td width="41%"><span class="maintext">Name/Designation:</span></td>
+          <td width="27%"><span class="maintext">Ed Frawley</span></td>
+        
+        </tr>
+        <tr> 
+          <td width="41%"><span class="maintext">Dept/Title:</span></td>
+          <td width="27%"><span class="maintext">Owner</span></td>
+         
+        </tr>
+        <tr> 
+          <td width="41%"><span class="maintext">Address:</span></td>
+          <td width="27%"><span class="maintext">PO Box 218<br>
+            Menomonie, WI 54751</span></td>
+          
+        </tr>
+        <tr> 
+          <td width="41%"><span class="maintext">Phone Number</span>:</td>
+          <td width="27%"><span class="maintext">(715)-235-6502</span></td>
+         
+        </tr>
+        <tr> 
+          <td width="41%"><span class="maintext">Fax Number:</span></td>
+          <td width="27%"><span class="maintext">(715)-235-8868</span></td>
+         
+        </tr>
+        <tr> 
+          <td width="41%"><span class="maintext">Email Address:</span></td>
+          <td width="27%"><span class="maintext">frawley@leerburg.com</span></td>
+         
+        </tr>
+        <tr> 
+          <td width="41%"><span class="maintext">URL:</span></td>
+          <td width="27%"><span class="maintext">http://www.leerburg.com</span></td>
+         
+        </tr>
+      </tbody></table>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p class="maintext">We do not recommend another means by which visitors' 
+        concerns may be addressed.</p>
+      <p class="Blue16" align="center">TABLE of personal data collected and purposes 
+        for which they are used</p>
+      <p class="maintext"> x volunteered by each visitor<br>
+        - collected from public records or bodies<br>
+        - collected from private organisations</p>
+      <table width="60%" border="1" class="maintext" height="177">
+        <tbody><tr> 
+          <td width="13%" class="maintext">Primary Personal Data</td>
+          <td width="35%" class="maintext">Technical Administration of the Website</td>
+          <td width="18%" class="maintext">Researh &amp; Development</td>
+          <td width="19%" class="maintext">Customer Administration</td>
+          <td width="10%" class="maintext"><br>
+            Marketing</td>
+          <td width="5%" class="maintext"><br>
+            Trading in Personal Data</td>
+        </tr>
+        <tr> 
+          <td width="13%" class="maintext">Name:</td>
+          <td width="35%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="18%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="19%" class="maintext"> 
+            <div align="center">X</div>
+          </td>
+          <td width="10%" class="maintext"> 
+            <div align="center">X</div>
+          </td>
+          <td width="5%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+        </tr>
+        <tr> 
+          <td width="13%" class="maintext">Gender:</td>
+          <td width="35%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="18%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="19%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="10%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="5%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+        </tr>
+        <tr> 
+          <td width="13%" class="maintext">Address:</td>
+          <td width="35%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="18%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="19%" class="maintext"> 
+            <div align="center">X</div>
+          </td>
+          <td width="10%" class="maintext"> 
+            <div align="center">X</div>
+          </td>
+          <td width="5%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+        </tr>
+        <tr> 
+          <td width="13%" class="maintext">Email Address:</td>
+          <td width="35%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="18%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="19%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="10%" class="maintext"> 
+            <div align="center">X</div>
+          </td>
+          <td width="5%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+        </tr>
+        <tr> 
+          <td width="13%" class="maintext">Phone/Fax:</td>
+          <td width="35%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="18%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="19%" class="maintext"> 
+            <div align="center">X</div>
+          </td>
+          <td width="10%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="5%" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+        </tr>
+        <tr> 
+          <td width="13%" height="21" class="maintext">Other:</td>
+          <td width="35%" height="21" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="18%" height="21" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="19%" height="21" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="10%" height="21" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+          <td width="5%" height="21" class="maintext"> 
+            <div align="center">-</div>
+          </td>
+        </tr>
+      </tbody></table>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p class="Blue16">Other personal details and profiling data is not collected</p>
+      <p class="maintext">These include data that is:</p>
+      <p class="maintext">- volunteered by each visitor</p>
+      <ul>
+        <li class="maintext">Personal Details <br>
+        </li>
+        <li class="maintext">Physical Description <br>
+        </li>
+        <li class="maintext">Family Characteristics <br>
+        </li>
+        <li class="maintext">Education <br>
+        </li>
+        <li class="maintext">Lifestyle <br>
+        </li>
+        <li class="maintext">Financial Resources <br>
+        </li>
+        <li class="maintext">other</li>
+      </ul>
+      <p class="maintext">- collected from public records or bodies<br>
+        - collected from private organisations</p>
+      <b></b></td>
+  </tr>
+</tbody></table>
+<!-- #EndEditable -->
+			  </td>
+              <td width="62">&nbsp;</td>
+            </tr>
+            <tr>
+              <td width="28">&nbsp;</td>
+              <td width="572"><div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.leerburg.com/cgi-bin/birdcast.pl"><br>
+              </a></font><font size="-4" face="Verdana, Arial, Helvetica, sans-serif">Copyright © 2005
+              Leerburg Enterprises<font size="-1">™</font>, Inc. All rights reserved.<br>
+              </font><font size="-4" face="Verdana, Arial, Helvetica, sans-serif"> By
+              accessing any information within Leerburg.com, you agree to abide
+              by the<br>
+              </font><font size="-4" face="Verdana, Arial, Helvetica, sans-serif"> Leerburg.com <a href="privacy.htm">Privacy
+              Policy</a> and <a href="termsofuse.htm">Terms of Use</a>. <br>
+              </font></div></td>
+              <td>&nbsp;</td>
+            </tr>
+          </tbody></table>
+          </td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+
+<!-- #EndTemplate -->
+</body></html>
