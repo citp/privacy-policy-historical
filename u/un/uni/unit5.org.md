@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609072917id_/http%3A//www.unit5.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207081921id_/http%3A//www.unit5.org/privacy.html) for the most accurate reproduction.*
 
 # Unit 5 Online. McLean County Unit 5, Normal, Illinois.
 
@@ -147,7 +147,7 @@ Document Revised 7/11/2001.  Version 1.01
 
 This document is in Adobe PDF format and requires that you have Adobe Acrobat 5 installed on your computer (it's a free download).  Just click on the View PDF! button to see the document you are interested in. 
 
-[](https://web.archive.org/web/20020609072917id_/http%3A//www.unit5.org/pdf/privacypolicy.pdf)
+[](https://web.archive.org/web/20021207081921id_/http%3A//www.unit5.org/pdf/privacypolicy.pdf)
 
 * * *
 
