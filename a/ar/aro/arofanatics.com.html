@@ -1,47 +1,63 @@
-<!--The following is the downloaded HTML source of the arofanatics.com privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602200455id_/http%3A//www.arofanatics.com/index.php%3Fcontent%3Dprivacy%26right%3Dno) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arofanatics.com privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207101807id_/http%3A//www.arofanatics.com/index.php%3Fcontent%3Dprivacy%26right%3Dno) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript"> 
-<!-- /* © 1997-2001 BURST! Media, LLC. All Rights Reserved.*/ 
-function ShowBurstAd(adcode, width, height) {
- var bN = navigator.appName;
- var bV = parseInt(navigator.appVersion);   
- var base='http://www.burstnet.com/';   
- var Tv='';   
- var agt=navigator.userAgent.toLowerCase();   
- if (bV>=4)  
- {ts=window.location.pathname+window.location.search;
+<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
+function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
+var bN = navigator.appName;
+var bV = parseInt(navigator.appVersion);
+var base='http://www.burstnet.com/';
+var Tv=''; var Itr='';
+var sz=''; var bkgd='';
+var bgc=''; var rfr='';
+var vr='v=1.0J';
+var agt=navigator.userAgent.toLowerCase();
+
+if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
+if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
+if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
+rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
+                            
+if (bV>=4) {
+  ts=window.location.pathname+window.location.search;
   i=0; Tv=0; while (i< ts.length)
-    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;}
-  else   {Tv=escape(window.location.pathname);
-  if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
+    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
+} else {Tv=escape(window.location.pathname);
+  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
     else if (Tv.charAt(1)=="/")
- Tv="";     
- if( Tv.charAt(Tv.length-1) == "/")
-   Tv = Tv + "_";}   
- if (bN=='Netscape'){        
-  if ((bV>=4)&&(agt.indexOf("mac")==-1))  
- { document.write('<s'+'cript src="'+ 
-  base+'cgi-bin/ads/'+adcode+'.cgi/RETURN-CODE/JS' 
-  +Tv+'">'); 
-  document.write('</'+'script>');
- }
-   else if (bV>=3) {document.write('<'+'a href="'+base+'ads/' + 
-  adcode + '-map.cgi'+Tv+'"target=_top>');
-  document.write('<img src="' + base + 'cgi-bin/ads/' +
-  adcode + '.cgi' + Tv + '" width="' + width + '" height="' + height + '"' +
-  ' border="0" alt="Click Here"></a>');}   
+ Tv="";
+  if( Tv.charAt(Tv.length-1) == "/")
+   Tv = Tv + "_";
 }
-if (bN=='Microsoft Internet Explorer')    
-document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'  
-+     
-adcode + '.cgi' + Tv + '/RETURN-CODE" width="' + width + '" height="' + height + '"' +     
-'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' +     
-'frameborder="0" scrolling="no"></ifr'+'ame>');  
+
+var fCode='<ifr'+'ame id="BURST" src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
+ rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
+ height+'"'+'marginwidth="0" marginheight="0"'+
+ 'hspace="0" vspace="0" frameborder="0" '+
+ 'scrolling="no">';
+ var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
+ vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
+ '" border="0" alt="Click Here"></a>';
+var fCodeEnd = '</ifr'+'ame>';
+
+if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
+ Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
+ '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
+}
+
+if (agt.indexOf("mac")==-1) {
+  document.write(fCode+gCode+fCodeEnd+Itr);
+} else {
+  document.write(gCode);
+}
 }
 //-->
 </script>
 <!-- END BURST CODE -->
+
+
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title> Arofanatics.com - Arowana Community for Aro collectors around the World! 
@@ -62,7 +78,17 @@ A:hover {  color: #FFFF66}
   <tbody><tr> 
     <td align="left" bgcolor="#246696" rowspan="5" valign="top"><img src="menu/spacer.gif" width="18" height="18"></td>
     <td rowspan="2" width="174"><a href="http://www.arofanatics.com"><img src="menu/logo_arofanatics.gif" hspace="10" vspace="5" width="154" height="73" border="0"></a></td>
-    <td colspan="2"><table cellpadding="0" cellspacing="7" border="0"><tbody><tr><td><!-- adtrace: US (209.237) --><img src="http://www.arofanatics.com/banners/hardware2.gif" width="468" height="60"></td></tr></tbody></table>
+    <td colspan="2"><table cellpadding="0" cellspacing="7" border="0"><tbody><tr><td>
+ <!-- BEGIN RICH-MEDIA BURST! CODE --> 
+<script language="JavaScript">
+<!--
+ShowBurstAd('ad9505a','468','60','468x60A','1', '87B4D4', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ad9505a.cgi/NI/if/v=1.0J/zg87B4D4/sz=468x60A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207101807id_%252Fhttp%25253A%252F%252Fwww.arofanatics.com%252Findex.php%25253Fcontent%25253Dprivacy%252526right%25253Dno/7949/RETURN-CODE" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ad9505a-map.cgi/v=1.0J/sz=468x60A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207101807id_%252Fhttp%25253A%252F%252Fwww.arofanatics.com%252Findex.php%25253Fcontent%25253Dprivacy%252526right%25253Dno/7949" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ad9505a.cgi/v=1.0J/sz=468x60A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207101807id_%252Fhttp%25253A%252F%252Fwww.arofanatics.com%252Findex.php%25253Fcontent%25253Dprivacy%252526right%25253Dno/7949" border="0" alt="Click Here"></a></iframe><div><script src="http://www.burstnet.com/cgi-bin/ads/ad9505a.cgi/sz=0X0MN/v=1.0J/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207101807id_%252Fhttp%25253A%252F%252Fwww.arofanatics.com%252Findex.php%25253Fcontent%25253Dprivacy%252526right%25253Dno/7949/RETURN-CODE/JS/"></script></div>
+<noscript><a href="http://www.burstnet.com/ads/ad9505a-map.cgi/ns/v=1.0J/sz=468x60A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad9505a.cgi/ns/v=1.0J/sz=468x60A/" border="0" alt="Click Here"></a> 
+</noscript>
+<!-- END BURST CODE -->
+ </td></tr></tbody></table>
 </td>
   </tr>
   <tr> 
@@ -112,7 +138,7 @@ A:hover {  color: #FFFF66}
             </form>
 
               <div align="center"><a href="/index.php?content=gallery&amp;categoryid=1&amp;right=movies/movies"><img src="/menu/image_latest_addition.gif" width="107" height="16" vspace="0" hspace="2" border="0"></a> 
-              <br><table width="100" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a href="/members/three/cert/"><img src="http://www.arofanatics.com/members/three/cert/thumbnail.jpg" border="1" width="100" height="60" alt="My yellow tail Cert"></a><br><font face="Arial" size="1" color="#FFFFFF"><b>Cert (three)</b></font><br><img src="/menu/spacer.gif" width="100" height="8"><br>
+              <br><table width="100" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a href="/members/bigjoe/vfsrfromfisherman/"><img src="http://www.arofanatics.com/members/bigjoe/vfsrfromfisherman/thumbnail.jpg" border="1" width="100" height="60" alt="Pic taken on 7th Dec 2003... about 4 inches..."></a><br><font face="Arial" size="1" color="#FFFFFF"><b>VFSR from Fisherman (bigjoe)</b></font><br><img src="/menu/spacer.gif" width="100" height="8"><br>
 </td></tr></tbody></table>
 
             <div align="center"> 
@@ -123,22 +149,22 @@ A:hover {  color: #FFFF66}
                     <a href="http://www.arofanatics.com/forums"><img src="menu/image_latest_postings.gif" vspace="5" hspace="8" border="0"></a><br>
 
 
-  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=69394">Releasing Aro to the reservoir. Your opinion?</a></b></font><b><font face="Verdana" size="1"></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>8 replies 4:03am</i></font><br>
+  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=100408">Dec update of PGS and KKRTG</a></b></font><b><font face="Verdana" size="1"></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>4 replies 6:15pm</i></font><br>
   
-  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=68439">Selling 5x 2x 2.5 Tank</a></b></font><b><font face="Verdana" size="1"></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>7 replies 3:51am</i></font><br>
+  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=100366">How My Aro?</a></b></font><b><font face="Verdana" size="1"> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=100366&amp;pagenumber=2">2</a></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>13 replies 6:14pm</i></font><br>
   
-  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=69407">Wat Breed of Aro?</a></b></font><b><font face="Verdana" size="1"></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>2 replies 3:37am</i></font><br>
+  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=100396">VFSR at Tampines LFS</a></b></font><b><font face="Verdana" size="1"></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>8 replies 6:11pm</i></font><br>
   
-  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=69431">will bichir transmit sickness to aro???</a></b></font><b><font face="Verdana" size="1"></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>4 replies 3:34am</i></font><br>
+  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=100376">December update</a></b></font><b><font face="Verdana" size="1"> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=100376&amp;pagenumber=2">2</a></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>12 replies 6:07pm</i></font><br>
   
-  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=69404">Do silver or Pearl aros fast?</a></b></font><b><font face="Verdana" size="1"></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>3 replies 3:05am</i></font><br>
+  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=99741">Sale of VFSR</a></b></font><b><font face="Verdana" size="1"> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=99741&amp;pagenumber=2">2</a> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=99741&amp;pagenumber=3">3</a> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=99741&amp;pagenumber=4">4</a> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=99741&amp;pagenumber=4"><font face="arial">...Last page</font></a></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>39 replies 6:00pm</i></font><br>
   
-  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=69426">Why mine aro swims overturn?</a></b></font><b><font face="Verdana" size="1"></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>3 replies 2:55am</i></font><br>
+  <font size="1" face="Arial" color="white"><b>·<a href="/forums/showthread.php?s=&amp;threadid=99360">Jebao Cannister Filters</a></b></font><b><font face="Verdana" size="1"> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=99360&amp;pagenumber=2">2</a> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=99360&amp;pagenumber=3">3</a> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=99360&amp;pagenumber=4">4</a> <a style="text-decoration:none" href="/forums/showthread.php?s=&amp;threadid=99360&amp;pagenumber=4"><font face="arial">...Last page</font></a></font></b><br><font size="1" face="Verdana" color="#AABBCC">&nbsp;<i>35 replies 5:39pm</i></font><br>
   
 <img border="0" height="6" src="menu/spacer.gif" width="100"><br>
                       <font face="Arial" color="#FFFFFF"><a href="http://www.arofanatics.com/index.php?content=links&amp;right=no"><img src="menu/image_latest_links.gif" vspace="5" hspace="8" width="107" height="16" border="0"></a></font><br>
                       <font face="Arial" color="#FFFFFF" size="1"> 
-                      <script language="javascript">var desc337="This site shows the photos of all 5 of my fish tanks.  Remember to click on the pictures to see more, and also click on the ''Toronto Fishlovers Forum''."</script><font color="yellow">NEW:</font><a href="http://www.arofanatics.com/links/links_count.php?link_id=337&amp;link_url=http://www.geocities.com/ansonfok" target="_blank" onmouseover="window.status=desc337;return true" onmouseout="window.status=&quot;&quot;;return true">Anson's Aquariums</a><br><script language="javascript">var desc336="Live eartheworms for fish food."</script><font color="yellow">NEW:</font><a href="http://www.arofanatics.com/links/links_count.php?link_id=336&amp;link_url=http://www.organicorigins.com.sg" target="_blank" onmouseover="window.status=desc336;return true" onmouseout="window.status=&quot;&quot;;return true">Organic Origins Pte Ltd</a><br><script language="javascript">var desc335="An US based flowerhorn site specializes in pearl flowerhorns and newest Xbreed cichilds from Southeast Asia."</script><a href="http://www.arofanatics.com/links/links_count.php?link_id=335&amp;link_url=http://www.exoticfins.com" target="_blank" onmouseover="window.status=desc335;return true" onmouseout="window.status=&quot;&quot;;return true">exoticfins</a><br><script language="javascript">var desc334="Fish  All thailand"</script><a href="http://www.arofanatics.com/links/links_count.php?link_id=334&amp;link_url=http://www.showtom.com" target="_blank" onmouseover="window.status=desc334;return true" onmouseout="window.status=&quot;&quot;;return true">showtom</a><br>                      </font>
+                      <script language="javascript">var desc381="No description"</script><font color="yellow">NEW:</font><a href="http://www.arofanatics.com/links/links_count.php?link_id=381&amp;link_url=http://flowerhornusa.ipbhost.com/forums?act=idx" target="_blank" onmouseover="window.status=desc381;return true" onmouseout="window.status=&quot;&quot;;return true">fhusa</a><br><script language="javascript">var desc380="No description"</script><a href="http://www.arofanatics.com/links/links_count.php?link_id=380&amp;link_url=http://www.angelfire.com/empire/hythloth" target="_blank" onmouseover="window.status=desc380;return true" onmouseout="window.status=&quot;&quot;;return true">Blackwater Aquarium</a><br><script language="javascript">var desc379="Aquarium information."</script><a href="http://www.arofanatics.com/links/links_count.php?link_id=379&amp;link_url=http://www.fishyou.com" target="_blank" onmouseover="window.status=desc379;return true" onmouseout="window.status=&quot;&quot;;return true">Fishkeeping</a><br><script language="javascript">var desc378="Singapore based product & services website. Introducing revolutionary aquarium niche."</script><a href="http://www.arofanatics.com/links/links_count.php?link_id=378&amp;link_url=http://www.enatureflow.com" target="_blank" onmouseover="window.status=desc378;return true" onmouseout="window.status=&quot;&quot;;return true">Nature Flow</a><br>                      </font>
                   </td>
                 </tr>
                  
@@ -147,7 +173,7 @@ A:hover {  color: #FFFF66}
               <font face="Arial"><img src="menu/spacer.gif" width="100" height="8"></font><br>
               <b><span class="nodecor"><a href="http://www.arofanatics.com/index.php?content=links_add&amp;right=no"><font face="Arial, Helvetica, sans-serif" size="2"><span class="nodecor">Got 
               a link to add?</span></font></a></span></b><font face="Arial" size="1" color="#87B4D4"><font face="Arial" color="#FFFFFF" size="2"><br>
-              </font> 63,947,702 views</font> </div>
+              </font> 95,212,200 views</font> </div>
           </div></td>
           <td width="1" background="menu/menu_right_background.gif" valign="top" align="left"><font face="Arial"><img src="menu/spacer.gif" width="5" height="5"></font></td>
         </tr>
@@ -158,15 +184,13 @@ A:hover {  color: #FFFF66}
 
 <img src="/menu/spacer.gif" height="15"><br>
 <!-- BEGIN RICH-MEDIA BURST! CODE --> 
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="center">
 <script language="JavaScript">
 <!--
-ShowBurstAd('cb9505a','125','125');
-// --></script><script src="http://www.burstnet.com/cgi-bin/ads/cb9505a.cgi/RETURN-CODE/JS/7946"></script>
-<noscript><a href="http://www.burstnet.com/ads/cb9505a-map.cgi/ns" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/cb9505a.cgi/ns" width="125" height="125" border="0" alt="Click Here"></a> 
+ShowBurstAd('cb9505a','125','125','125x125A','0', '87B4D4', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/cb9505a.cgi/NI/if/v=1.0J/zg87B4D4/sz=125x125A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207101807id_%252Fhttp%25253A%252F%252Fwww.arofanatics.com%252Findex.php%25253Fcontent%25253Dprivacy%252526right%25253Dno/7949/RETURN-CODE" width="125" height="125" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/cb9505a-map.cgi/v=1.0J/sz=125x125A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207101807id_%252Fhttp%25253A%252F%252Fwww.arofanatics.com%252Findex.php%25253Fcontent%25253Dprivacy%252526right%25253Dno/7949" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/cb9505a.cgi/v=1.0J/sz=125x125A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031207101807id_%252Fhttp%25253A%252F%252Fwww.arofanatics.com%252Findex.php%25253Fcontent%25253Dprivacy%252526right%25253Dno/7949" border="0" alt="Click Here"></a></iframe>
+<noscript><a href="http://www.burstnet.com/ads/cb9505a-map.cgi/ns/v=1.0J/sz=125x125A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/cb9505a.cgi/ns/v=1.0J/sz=125x125A/" border="0" alt="Click Here"></a> 
 </noscript>
-</td></tr></tbody></table>
 <!-- END BURST CODE -->    </td>    <td bgcolor="#6099C4" colspan="2" align="left" valign="top">      <table border="0" width="100%" cellspacing="0" cellpadding="10">        <tbody><tr>           <td valign="top"><font face="Arial" size="2"><font size="4"><b>Arofanatics.com Privacy Policy Statement</b></font><br><br>
 This is the privacy policy of Arofanatics.com.
 <br>
@@ -210,8 +234,10 @@ We also receive from time to time, pop-under advertisements from the Everyone.ne
 With respect to security: We have appropriate security measures in place at the physical facilities of our web service provider to protect against the loss, misuse or alteration of information that we have collected from you at Arofanatics.com.
 <br><br>
 If you feel that this site is not following its stated information policy, you may contact the local consumer protection office.<br><br>
-</font><center><br><font face="Arial" size="2">Copyright <small>©</small> 2000 <a href="http://www.arofanatics.com">Arofanatics.com</a><br><a href="http://www.arofanatics.com/index.php?content=privacy&amp;right=no">Our Privacy Policy</a> regarding the use of this website</font><br><br></center></td></tr></tbody></table>		<img height="1" src="menu/spacer.gif" width="410" border="0"><br>    </td>  </tr><tr><td></td><td colspan="2" bgcolor="6099C4">
-<div align="right" style="font-family:verdana; font-size:8px">Page generated in 0.000036 seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><br> 
+</font><center><br><font face="Arial" size="2">Copyright <small>©</small> 2000 <a href="http://www.arofanatics.com">Arofanatics.com</a><br><a href="http://www.arofanatics.com/index.php?content=privacy&amp;right=no">Our Privacy Policy</a> regarding the use of this website</font><br><br></center></td></tr></tbody></table>		<img height="1" src="menu/spacer.gif" width="410" border="0"><br>    </td>  </tr><tr>
+<td></td>
+<td colspan="3" bgcolor="6099C4">
+<div align="right" style="font-family:verdana; font-size:8px">Page generated in 0.000019 seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><br> 
 </td></tr>
 
 
