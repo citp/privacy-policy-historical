@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610182013id_/http%3A//www.250free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204073549id_/http%3A//www.250free.com/privacy.php) for the most accurate reproduction.*
 
 # 250Free.com - Get your 250 Megabyte homepage free! Build your website free!
 
@@ -18,7 +18,7 @@ By signing up for a free account, you agree to receive periodic emails from 250F
 
 **Use of Personal Information**
 
-With the exception of the following case, under no circumstances will your personal information be shared, sold, or given away to any third party.  Credit Card information is shared securely with a third party billing company who specializes in secure credit card transactions.  All other personal information, if collected, is held at 250Free in a restricted, non-web accessible area.
+With the exception of the following case, under no circumstances will your personal information be shared, sold, or given away to any third party.  Credit Card information is shared securely with a third party billing company who specializes in secure credit card transactions.  All other personal information, if collected, is held at 250Free in a restricted area.
 
 **Cookie Tracking**
 
