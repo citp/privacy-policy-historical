@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mapway.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207045516id_/http%3A//www.m-spatial.com/www_mapway_com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapway.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204001855id_/http%3A//www.m-spatial.com/www_mapway_com/privacy_policy.htm) for the most accurate reproduction.*
 
 # MapWay / Turn your phone into a pedestrian navigation system
 
 The following principles govern the use of the information provided by you to m-spatial Limited via this web site.
 
   1. Personal information ("information") - Any information submitted by you (including, but not limited to, your name, e-mail address and delivery address) will be used for one or more of the following purposes: 
-    * Alerting you to product upgrades, special offers or updated information. 
-    * To enable m-spatial Limited to provide services and products most relevant to you. 
-    * Administration, marketing and profiling your requests and preferences. 
+    * Alerting you to product upgrades, special offers or updated information.
+    * To enable m-spatial Limited to provide services and products most relevant to you.
+    * Administration, marketing and profiling your requests and preferences.
   2. Data Protection - m-spatial Limited will keep all information confidential and any information collected by m-spatial Limited is protected by security procedures in the storage and disclosure of information that you have given to us, to prevent unauthorised access, as required by the Data Protection Acts 1994 and 1998. m-spatial Limited does not authorise the transfer of information to countries that do not provide the same level of data protection as the UK.
   3. Third parties - m-spatial Limited may from time to time provides aggregate statistics about our customers, sales, traffic patterns and related site information to reputable organisations, but these statistics will not include any information. However, from time to time, m-spatial Limited may share your information with reputable organisations such as our business partners and we or they may contact you by mail, telephone, fax or e-mail to let you know about any goods, services or promotions that may be of interest to you or to illicit feedback about our products. If you would prefer your details not to be passed to any third party, please send an e-mail to [website@m-spatial.com](mailto:website@m-spatial.com).
   4. Accurate details - You are able to request the information that m-spatial Limited has collected, or correct any inaccurate information by sending an e-mail to [website@m-spatial.com](mailto:website@m-spatial.com).
