@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604104151id_/http%3A//www.mygeek.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216024954id_/http%3A//mygeek.com/privacy.jsp) for the most accurate reproduction.*
 
 # myGeek.com - It's like having your own Personal Shopper
 
