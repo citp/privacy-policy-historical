@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615082352id_/http%3A//www.physioroom.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204105421id_/http%3A//www.physioroom.com/privacy_policy.shtml) for the most accurate reproduction.*
 
-# PhysioRoom.com - PREMIER LEAGUE SPORTS INJURY CENTRE
+# PhysioRoom.com: SPORTS INJURY SHOP, NEWS & ADVICE
 
   
 | 
@@ -16,6 +16,13 @@ Stay up-to-date with the free PhysioRoom.com newsletter.
 
 
 ADVERTISEMENT
+
+  
+
+
+ADVERTISEMENT
+
+[ ](http://www.bid-london2012.co.uk/redir/?affid=21717&im=112)
 
   
 
