@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greekmythology.com privacy policy that was archived on 2001-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010801190218id_/http%3A//www.greekmythology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekmythology.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205075704id_/http%3A//www.greekmythology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for GreekMythology.
 
@@ -10,9 +10,13 @@ GreekMythology.com has created this privacy statement in order to demonstrate ou
 
 We only use your IP address to help diagnose problems with our server and to administer our Web site.
 
-**Advertisers**
+**Third Party Advertising**
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. We do not use cookies in any other parts of our Web site; cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+**Third Party Cookies**
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 **Personal Information**
 
@@ -26,12 +30,11 @@ This site contains links to other sites. GreekMythology.com is not responsible f
 
 **Public Forums**
 
-This site intends to makes chat rooms, forums, message boards, and/or news groups available to its users shortly. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+This site intends to make chat rooms, forums, message boards, and/or news groups available to its users shortly. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Security**
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.  
-This site, Greek Mythology, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
 **Contacting the Web Site**
 
