@@ -1,46 +1,31 @@
-> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205031111id_/http%3A//www.speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602044319id_/http%3A//www.speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Speedway SuperAmerica: Privacy Policy
 
 |   
 ---|---  
-| | |   
+|   | [   About Us](https://web.archive.org/AboutUs/AboutUs.asp) |    
 ---|---|---  
-|  | [   About Us](https://web.archive.org/AboutUs/AboutUs.asp) | |    
-| |   
-| |   
-|  | [   Store Locator](https://web.archive.org/StoreLocator/StoreLocator.asp) | |    
-| |   
-| |   
-|  | [   Promotions](https://web.archive.org/Promotions/Promotions.asp) | |    
-| |   
-| |   
-|  | [   PrePaid / Credit](https://web.archive.org/CreditCards/CreditCards.asp) | |    
-| |   
-| |   
-|  | [   Career Options](https://web.archive.org/CareerOptions/CareerOptions.asp) | |    
-| |   
-| |   
-|  | [](http://store.yahoo.com/speedwaystore/index.html) | |    
-| |   
-| |   
-|  | [   Truck Stops](https://web.archive.org/TruckStops/TruckStops.asp) | |    
-| |   
-| |   
-|  | [   Food Service](https://web.archive.org/FoodService/FoodServices.asp) | |    
-| |   
-| |   
-|  | [   Customer Service](https://web.archive.org/CustomerService/CustomerService.asp) | |    
-| |   
-| |   
- | | | |    
-| |   
-| |   
- | | [](https://web.archive.org/AboutUs/NonProfit/FundRaising.asp)| |    
-| |   
+  | [   Store Locator](https://web.archive.org/StoreLocator/StoreLocator.asp) |    
+  | [   Special Offers](https://web.archive.org/Promotions/Promotions.asp) |    
+  | [   PrePaid / Credit](https://web.archive.org/CreditCards/CreditCards.asp) |    
+  | [   Career Options](https://web.archive.org/CareerOptions/CareerOptions.asp) |    
+  | [](http://store.yahoo.com/speedwaystore/index.html) |    
+  | [   Truck Stops](https://web.archive.org/TruckStops/TruckStops.asp) |    
+  | [   Food & Drink](https://web.archive.org/FoodService/FoodServices.asp) |    
+  | [   Fund Raising](https://web.archive.org/FundRaising/FundRaising.asp) |    
+  | [   Contact Us](https://web.archive.org/CustomerService/CustomerService.asp) |    
+**Search our site:**  
+   
+  | [](https://web.archive.org/CustomerService/CustomerService.asp) |    
+  |  **Online Coupons**  
+Now Available!  
+  
+ |  Bic Coupon #1  
+Bic Coupon #2 |    
 |  |    
 ---  
-  |  | PRIVACY STATEMENT  
+  |  | _PRIVACY STATEMENT_  
 ---  
    
 Speedway SuperAmerica LLC, its affiliates and subsidiaries (“Company”) recognizes and respects the privacy of its customers and visitors to this Web site (the “Web Site”). It is our goal to help our customers retain their privacy when they visit our Web Site.   
@@ -69,7 +54,7 @@ When a visitor performs a search on Company's search engine, Company may record 
    
 (10) **Other Sites**. This privacy statement applies only to this Web Site. While this Web Site may contain links to other third party sites, Company is not responsible for the practices or contents of such third party sites.   
    
-(11) **Enforcement**. If for some reason you believe we have not adhered to these principles, please notify us by e-mail at [custserv@ssallc.com](mailto:custserv@ssallc.com) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.   
+(11) **Enforcement**. If for some reason you believe we have not adhered to these principles, please notify us through the [customer service section](https://web.archive.org/CustomerService/CustomerService.asp) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.   
    
 |   
 ---
