@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thethingsiwant.com privacy policy that was archived on 2001-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011022035209id_/http%3A//www.thethingsiwant.com/commercial/privacy.php4%3FVisitID%3D34938%26GAID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethingsiwant.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609064529id_/http%3A//www.thethingsiwant.com/commercial/privacy.php4%3FVisitID%3D139333) for the most accurate reproduction.*
 
 # TheThingsIWant.com : Privacy Statement.
 
