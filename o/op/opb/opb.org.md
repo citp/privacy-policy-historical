@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205080036id_/http%3A//www.opb.org/insideopb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305185905id_/http%3A//www.opb.org/insideopb/privacy.html) for the most accurate reproduction.*
 
 # Inside OPB
 
