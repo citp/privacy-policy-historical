@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstarnet.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203225857id_/http%3A//www.azstarnet.com/contact/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstarnet.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604215654id_/http%3A//www.azstarnet.com/contact/privacy.html) for the most accurate reproduction.*
 
 # StarNet | Contact | Opinions
 
