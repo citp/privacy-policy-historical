@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207145610id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605133124id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Sitemap - creditinfocenter.com
 
