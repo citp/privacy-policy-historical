@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208191825id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612043550id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.*
 
 # AnotherFriend.Com - Irelands Best Free Internet Dating and Personals Service for Irish Singles
 
@@ -34,9 +34,9 @@ AnotherFriend.com regularly sends email to its members in order to inform them o
 If you have any questions about this privacy statement, the practices of our site, or your dealings with this Web site, you can contact AnotherFriend.com via post, by clicking on the Contact Us button or by emailing us at [info@anotherfriend.com](mailto:info@anotherfriend.com)
 
 AnotherFriend.com  
-C/O WebDev Ltd.  
-Parteen,  
-Nr Limerick  
+70 O'Connell Street,  
+Limerick City  
+Ireland  
 
 
 **Protect Yourself from Spam**  
