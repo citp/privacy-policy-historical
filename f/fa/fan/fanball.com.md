@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605030948id_/http%3A//www.fanball.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208213111id_/http%3A//www.fanball.com/privacy.cfm) for the most accurate reproduction.*
 
 # The Ultimate Fantasy Sports Site
 
@@ -25,24 +25,27 @@ This site also gives users the following options for removing their information 
 
 You can send email to: privacy@fanball.com  
 You can send mail to the following postal address:   
-212 3rd Ave North, Suite 586, Minneapolis, MN 55401  
-You can call the following telephone number: 612.332.0865
+PO Box 583282  
+Minneapolis, MN 55458-3282
 
 **Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided.   
+This site gives users the following options for changing or modifying information previously provided. 
+
 **1.** Email: update@fanball.com  
 **2.** Send mail to the following postal address:   
      Fanball.com  
-     212 3rd Ave North, Suite 586, Minneapolis, MN 55401  
-**3.** Call the following telephone number: 612.332.0865
+     PO Box 583282  
+     Minneapolis, MN 55458-3282  
+**3.** Click on the User Info button found at the top of the left menu.  
+**4.** Click on the Support link found in the left menu.
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 webmaster@fanball.com  
 Fanball.com  
-212 3rd Ave North  
-Suite 586  
-Minneapolis, MN 55401
+PO Box 583282  
+Minneapolis, MN 55458-3282  
+612.332.0865
 
 Back
