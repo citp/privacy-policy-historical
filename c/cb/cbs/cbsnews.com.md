@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbsnews.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610145821id_/http%3A//www.cbsnews.com/stories/1999/07/12/utility/main53940.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsnews.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119033533id_/http%3A//www.cbsnews.com/stories/1999/07/12/utility/main53940.shtml) for the most accurate reproduction.*
 
 # CBS News | CBS.com Privacy Statement | February 27, 2002 14:32:24
 
