@@ -1,27 +1,10 @@
-> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620122419id_/http%3A//pj.ask.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209112500id_/http%3A//www.ask.com/docs/about/privacy.html) for the most accurate reproduction.*
 
-# Ask Jeeves: Privacy Policy
-
-**Ask Jeeves, Inc. Privacy Policy**
-
-This statement discloses the privacy practices for the Ask Jeeves sites. This policy statement answers the following questions: 
-
-[](https://web.archive.org/privacy.asp#infoTracked) |  | What information does Ask Jeeves gather/track and how is it used?  
----|---|---  
-[](https://web.archive.org/privacy.asp#withWhom) |  | With whom does Ask Jeeves share the information it gathers/tracks?  
-[](https://web.archive.org/privacy.asp#dataRemoval) |  | What is Ask Jeeves' data-correction and data removal policy?  
-[](https://web.archive.org/privacy.asp#deActivate) |  | How do I delete or de-activate my name from the Personal Jeeves database?  
-[](https://web.archive.org/privacy.asp#whoAsk) |  | Whom can I ask if I have additional questions?  
-  
-Questions regarding this statement should be directed to [jeeves@askjeeves.com](mailto:jeeves@askjeeves.com)
-
-**Privacy Philosophy**
+# Ask Jeeves About
 
 Ask Jeeves Inc., producer of the Ask Jeeves and Ask Jeeves for Kids Web sites, believes that online privacy is crucial for the ongoing success of the Internet as a service, commercial and entertainment medium. We collect personal information from you primarily to make using the Ask Jeeves services easier and more satisfying. In registering for certain services offered by Ask Jeeves you may be asked to provide your name, e-mail address, zip code, gender and information about what you do and don't like. We request this information from you so that we can provide you with the personalized service necessary to meet Ask Jeeves' goal of humanizing the Internet. However, unless you designate otherwise, the personally identifiable information you provide will be known only to you and to Ask Jeeves. We will always ask you before providing this information to anyone else. If others want this information, including your name or your email address, we will provide it only if you give us permission to do so. 
 
 From time to time, Ask Jeeves may introduce new products and services to its users. To the extent these new products and services affect this policy, this policy will be updated and you will be informed of these updates and any privacy conditions related to these services. 
-
-**What information does Ask Jeeves gather/track and how is it used?**
 
 Information gathered online can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that cannot be traced back to a specific individual. For example, Ask Jeeves knows how many questions are asked each day at each of its Web sites but does not know the names, e-mail addresses or gender of the people asking the questions. 
 
@@ -40,9 +23,7 @@ When appropriate, users will be given the opportunity to receive information fro
 **Use Of Ask Jeeves Cookies**   
 Ask Jeeves' Web sites use cookies to track traffic flow and patterns of travel within and through the sites. Cookies are a standard Internet technology that allow us to both store and retrieve login information on a user's system. Our Web server automatically asks a new user whether his or her browser will agree to accept an Ask Jeeves cookie file. If a visitor accepts, our Web server will identify the user's cookie for Ask Jeeves' use in internal reporting. If a user accepts an Ask Jeeves cookie, but would later like to remove it from his or her computer, he or she can just remove it from the browser. 
 
-**[Back to the Top](https://web.archive.org/privacy.asp#top)**
-
-**With whom does Ask Jeeves share the information it gathers/tracks?**
+****
 
 **Demographic Information**   
 When we do present information to our advertisers, it is in the form of grouped statistics compiled from our users' answers to survey questions and on-site behavior. Ask Jeeves will not disclose the contact or demographic information of any individual user to advertisers or any other outside organization without the express permission of the individual. 
@@ -53,36 +34,13 @@ On occasion, Ask Jeeves will make available to potential advertisers and researc
 **Special Policy With Regards to Information from Children Under Thirteen**   
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Ask Jeeves will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will never voluntarily share their personally identifiable information with third parties, regardless of their stated preference given at registration. 
 
-**[Back to the Top](https://web.archive.org/privacy.asp#top)**
+****
 
-**What is Ask Jeeves' data-correction and data removal policy?**
+To phone the Ask Jeeves main office, dial +1 (510 985-7400). To send us a fax, dial +1 (510) 985-7410.
 
-If you wish to update or correct any of the personal data you've provided Ask Jeeves, or to change your user registration permission status so as not to receive any email promotions administered by Ask Jeeves, please [update your account](https://web.archive.org/editAccount.asp). 
-
-**[Back to the Top](https://web.archive.org/privacy.asp#top)**
-
-**How do I delete or de-activate my name from the Personal Jeeves database?**
-
-You can ask to be deleted from all Ask Jeeves registration lists by [updating your account](https://web.archive.org/editAccount.asp). 
-
-**[Back to the Top](https://web.archive.org/privacy.asp#top)**
-
-**Whom can I ask if I have additional questions?**
-
-You can direct all questions regarding user or customer support to [jeeves@askjeeves.com](mailto:jeeves@askjeeves.com). 
-
-To phone the Ask Jeeves main office, dial +1 (510 985-7400). To send us a fax, dial +1 (510) 985-7410. 
-
-If you're a member of the press and would like to arrange an interview or visit the Ask Jeeves offices, please contact Interactive Public Relations at:   
-Interactive Public Relations, Inc.  
-600 Townsend Street  
-San Francisco, CA 94103  
-(415)703-0400  
-[ipri@askjeeves.com](mailto:ipri@askjeeves.com)
-
-Or email:   
-[pr@askjeeves.com](mailto:pr@askjeeves.com)
-
-If you have any other questions, please visit our "About" page at <http://www.ask.com/docs/about/>
-
-**[Back to the Top](https://web.archive.org/privacy.asp#top)**
+If you're a member of the press and would like to arrange an interview or visit the Ask Jeeves offices, Andrew Fox  
+Text 100 Corporation   
+30 Hotaling Place, 2nd Floor  
+San Francisco, CA 94111   
+(415) 836-5990   
+andrewf@text100.com 
