@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621162842id_/http%3A//www.refdesk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203061636id_/http%3A//refdesk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy refdesk.com
 
@@ -14,8 +14,8 @@ Refdesk has one banner-ad atop each page. The text link ads are served by Interm
 
 **Cookies Opt-Out Procedure:** [Fastclick](http://www.fastclick.com/about/opt-out.html) | [ValueClick](http://www.valueclick.com/perl/optout/do/settarget=_blank).
 
-Refdesk contains links to over 20,000 external Internet sites. Refdesk is not responsible for the privacy practices or the content on these sites. For further information, see the [Disclaimer on External Links](https://web.archive.org/web/20030621162842id_/http%3A//www.refdesk.com/disclaim.html).
+Refdesk contains links to over 20,000 external Internet sites. Refdesk is not responsible for the privacy practices or the content on these sites. For further information, see the [Disclaimer on External Links](https://web.archive.org/web/20031203061636id_/http%3A//refdesk.com/disclaim.html).
 
-Refdesk provides [links](https://web.archive.org/web/20030621162842id_/http%3A//www.refdesk.com/anti.html) to ad blocking, E-mail SPAM blocking, and Privacy Monitoring tools. 
+Refdesk provides [links](https://web.archive.org/web/20031203061636id_/http%3A//refdesk.com/anti.html) to ad blocking, E-mail SPAM blocking, and Privacy Monitoring tools. 
 
 If you have any questions, comments, or suggestions about this privacy statement, site practices, or your Refdesk experiences, please [ Contact Refdesk](https://web.archive.org/cgi-bin/feedback.cgi). Your feedback is welcomed and appreciated.
