@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202170503id_/http%3A//www.equine.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606034009id_/http%3A//www.equine.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Equine.com - Privacy Policy
 
