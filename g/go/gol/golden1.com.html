@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the golden1.com privacy policy that was archived on 2003-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030614135738id_/http%3A//www.golden1.com/about_us/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the golden1.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203065738id_/http%3A//www.golden1.com/about_us/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>The Golden 1 Credit Union</title>
@@ -29,83 +29,65 @@
 <table width="758" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td bgcolor="#CECECE" valign="top"><a href="/about_us/default.asp"><img src="/images/title/about_us.gif" border="0"></a></td>
-	<td align="right" bgcolor="#CECECE">
-	<!-- DHTML Menu Builder Loader Code START -->
-<div id="DMBRI" style="position:absolute;">
-<img src="/DHTML/dmb_i.gif" name="DMBImgFiles" width="1" height="1" border="0" alt="">
-<img src="/DHTML/dmb_m.gif" name="DMBJSCode" width="1" height="1" border="0" alt="">
-</div>
-<script language="JavaScript" type="text/javascript">
-var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['DMBImgFiles'];jImg=document.images['DMBJSCode'];tObj=jImg;}else{tObj=document.layers['DMBRI'];if(tObj){iImg=tObj.document.images['DMBImgFiles'];jImg=tObj.document.images['DMBJSCode'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function FixImages(){var h=null;var f=new Function("h","if(h)for(var i=0;i<h.length;i++)h[i]=xrep(h[i],'%%REL%%',rimPath);");f(hS);f(hshS);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
-</script>
-<script language="JavaScript" type="text/javascript">
-function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
-if(navVer.substr(0,3) >= 4)
-if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
-document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'nsmenu.js"><\/script\>');
-} else {
-document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'iemenu.js"><\/script\>');
-}return true;}LoadMenus();</script><script language="JavaScript" type="text/javascript" src="https://web.archive.org/DHTML/iemenu.js"></script>
-<!-- DHTML Menu Builder Loader Code END -->
+	<td align="right" bgcolor="#CECECE"><!-- DHTML Menu Builder Loader Code START -->
 
 <script language="javascript">
 <!--
-function DoLoan(){
-	var srcE = window.event.srcElement
-	var sLoan= srcE.options[srcE.selectedIndex].value;
-	if(sLoan=="Auto" || sLoan=="RV" || sLoan=="Boat" || sLoan=="Line of Credit" || sLoan=="Personal" || sLoan=="Share/Certificate" || sLoan=="Other")
-		window.location.href="https://www.golden1.com/secure/forms/personal_loan/step1.asp?LoanType=" + sLoan;
-	if(sLoan=="Credit Cards")
-		window.location.href="https://www.golden1.com/secure/forms/Visa/step1.asp?LoanType=" + sLoan;
-	if(sLoan=="First Mortgage")
-		window.location.href="https://www.golden1.com/loans_credit/real_estate/realestate_loans_dwn.asp?LoanType=" + sLoan;
-	if(sLoan=="Home Equity")
-		window.location.href="https://www.golden1.com/secure/forms/equity/step1.asp?LoanType=" + sLoan;
-	if(sLoan=="Become A Member")
-		window.location.href="https://www.golden1.com/become_a_member/step0.asp";
+
+//NQ
+// general purpose function to see if an input value has been entered at all
+function isEmpty(inputStr) {
+	return((inputStr==null) || (inputStr.length == 0));
 }
+
+// general purpose function to strip a given char in string
+function stripCharsInBag (str, bag){  
+	var i;
+    var returnString = "";
+    for (i = 0; i < str.length; i++)
+    {   
+        var c = str.charAt(i);
+        if (bag.indexOf(c) == -1) returnString += c;
+    }
+    return returnString;
+}
+
+
+//validate the required input
+function checkInputReq(frmSearch,SearchString, SearchStringObj){
+     if(isEmpty(SearchString)){
+	    alert('search text is required field');
+	    SearchStringObj.select();
+	    return false;
+	 }
+	 else
+	 {
+	 //if user type "'" then this URL string will not work.  I strip "'" char to avoid the broken link when user search.
+	 var SearchString;
+	 SearchString = stripCharsInBag (SearchString,"'");
+	 //window.location.href  = "/search/Search.asp?SearchString=" + SearchString + "&page=1";
+     document.frmSearch.action="/search/Search.asp?SearchString=" + SearchString + "&page=1";
+	 document.frmSearch.submit();
+	 return true;
+	 }
+}
+
 
 //-->
 </script>
+<form name="frmSearch" action="" method="post" onsubmit="checkInputReq(this, document.frmSearch.SearchString.value,document.frmSearch.SearchString);">
 <table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-	<td><img src="/images/spacer.gif" width="1" height="4" border="0"><br><img src="/images/title/apply_for_loan_g.gif" width="86" height="13"><img src="/images/spacer.gif" width="6" height="13" border="0"></td>
-    <td valign="top">
-	<img src="/images/spacer.gif" width="1" height="8" border="0"><br>
-	<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr> 
-		<td valign="top"><img src="/images/sub_arrow_hi.gif" alt="" name="WebLoan" id="WebLoan" width="9" height="13" border="0"></td>
-		<td><img src="/images/spacer.gif" width="56" height="1" border="0"></td>
-		<td valign="top"><img src="/images/sub_arrow_hi.gif" alt="" name="Traditional" id="Traditional" width="9" height="13" border="0"></td>
-		<td><img src="/images/spacer.gif" width="97" height="1" border="0"></td>
-	</tr>
-	</tbody></table>
-	</td>
-    <td>
-      <form>
-	  <img src="/images/spacer.gif" width="1" height="5" border="0"><br>
-        <select name="cboApply4Loan" id="cboApply4Loan" onchange="javascript:DoLoan();">
-          <option value="0">Select ...</option>
-			<option value="Become A Member">Become A Member</option>
-          <option value="First Mortgage">First Mortgage</option>
-          <option value="Home Equity">Home Equity</option>
-          <option value="Auto">Auto</option>
-          <option value="Boat">Boat</option>
-          <option value="RV">RV</option>
-          <option value="Credit Cards">Credit Cards</option>
-          <option value="Line of Credit">Line of Credit</option>
-          <option value="Personal">Personal</option>
-          <option value="Share/Certificate">Share/Certificate</option>
-          <option value="Other">Other</option>
-        </select>
-    </form></td>
-	<td><img src="/images/spacer.gif" width="4" height="1" border="0"></td>
-  </tr>
-</tbody></table>
+<tbody><tr> 
+	<td><img src="/images/sub_arrow_hi.gif" width="9" height="13" border="0"></td>
+	<td><a href="/loans_credit/apply_for_a_loan.asp" class="g1navtext">Apply for a loan</a></td>
+	<td><img src="/images/spacer.gif" width="20" height="1" border="0"></td>
+	<td align="right"><div class="g1navtext"><b>Site Search</b></div></td>
+	<td><img src="/images/spacer.gif" width="6" height="1" border="0"></td>
+	<td><input type="text" maxlength="100" name="SearchString" id="SearchString" size="15">&nbsp;<input type="submit" class="button1" name="Go" id="Go" value="Search"></td>
+	<td><img src="/images/spacer.gif" width="5" height="1" border="0"></td>
+</tr>
 
-
-
-	</td>
+</tbody></table></form></td>
 </tr>
 </tbody></table>
 <!-- Title Bar: End -->
@@ -383,19 +365,21 @@ function DoLoan(){
 		<img src="/images/nav/buttons/about_us.gif" name="AboutUs" id="AboutUs" width="130" height="26" border="0"></a><a href="/member_service/" onmouseover="img_On('MemberService');" onmouseout="img_Off('MemberService');"><img src="/images/nav/buttons/member_service.gif" name="MemberService" id="MemberService" width="167" height="26" border="0"></a><a href="/scripts/mqinterconnect.exe?link=locator" onmouseover="img_On('OfficesATMs');" onmouseout="img_Off('OfficesATMs');"><img src="/images/nav/buttons/offices_atms.gif" name="OfficesATMs" id="OfficesATMs" width="150" height="26" border="0"></a><a href="/employment/" onmouseover="img_On('Employment');" onmouseout="img_Off('Employment');"><img src="/images/nav/buttons/employment.gif" name="Employment" id="Employment" width="133" height="26" border="0"></a>
   <br><br>
 	<div class="footer">
+	
 		The Golden 1 Credit Union • 6507 4th Avenue • Sacramento, CA 95817
 		<br>
     (916) 732-2900 • 1-877-GOLDEN 1 • TDD: (916) 731-7000 <br>
     <br>
-	<a href="/site_map/site_map.asp">Site Map</a>
-	<br><br>
-    <img src="/images/NCUA_EH.gif" width="273" height="17"> <br>
-    <br>
-    <a href="/about_us/terms_conditions.asp">Terms and Conditions</a> / <a href="/about_us/privacy.asp">Privacy 
-    Policy</a> / <a href="/about_us/security.asp">Security</a> / <a href="/about_us/online_privacy_practices.asp">Online Privacy Practices</a> <br>
+    <a href="/site_map/SearchSiteMap.asp">Site Map</a> / <a href="/about_us/terms_conditions.asp">Terms 
+    and Conditions</a> / <a href="/about_us/privacy.asp">Privacy Policy</a> / 
+    <a href="/about_us/security.asp">Security</a> / <a href="/about_us/online_privacy_practices.asp">Online 
+    Privacy Practices</a> <br>
 		<br>
-		<div class="td10">This site is produced by The Golden 1 Credit Union.<br>
-Copyright © 2003 The Golden 1 Credit Union</div>
+		<div class="td10">
+		This credit union is federally insured by the National Credit Union Administration<br>
+		This site is produced by The Golden 1 Credit Union.<br>
+Copyright © 2003 The Golden 1 Credit Union<br>
+    <img src="/images/equal_housing.gif" border="0"><br></div>
 	</div>
 </center>
 <form name="frmLoan" action="" method="post" id="Form1">
