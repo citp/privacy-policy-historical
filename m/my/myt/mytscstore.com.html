@@ -1,0 +1,233 @@
+<!--The following is the downloaded HTML source of the mytscstore.com privacy policy that was archived on 2003-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030628000101id_/http%3A//www.mytscstore.com/about_TSC.asp%3FpageID%3Dpolicies%26%23privacy) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+function popUp(URL, prodTitle) {
+	window.open('includes/popupWindow.asp?image='+URL+'&prodTitle='+prodTitle, 'popup_window', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=610,height=630,left = 100,top = 100');
+}
+
+function rules() {
+	window.open('rules.asp', 'popup_window', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=610,height=630,left = 100,top = 100');
+}
+
+function thankYou() {
+	window.open('popupMessage.asp', 'popup_window', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=549,height=185,left = 100,top = 100');
+}
+
+
+function showAll(keyword, showFamily) {
+	document.forms.showAll.keyword.value = keyword;
+	document.forms.showAll.showFamily.value = showFamily;
+	document.forms.showAll.submit();
+}
+
+function submitSearch(formName) {
+	if(formName == "searchForm")
+	{
+		keyword=TrimAll(document.forms.searchForm.keyword.value);
+	}else{
+		keyword=TrimAll(document.forms.searchForm2.keyword.value);
+	}
+	
+	if(keyword.length<3) {
+		alert("Please change your search to more than " + keyword.length + ' letters');
+		return false;
+	}else{
+	return true;
+	}
+}
+
+function shoppingList(sku,action){
+	document.forms.shoppingList.sku.value = sku;
+	document.forms.shoppingList.action.value = action;
+	document.forms.shoppingList.submit();
+}
+
+
+function thumbnailHelper(object) {
+    document.forms.thumbnails.orderBy.value = (object.options[object.selectedIndex].value);
+    document.forms.thumbnails.submit();
+}
+
+function MM_executeFlashDispatcher(){
+  var args = MM_executeFlashDispatcher.arguments;
+  MM_FlashDispatch(args[0],args[1],args[2],args[3],args[4],args[5],args[6],args[7],args[8]);
+}
+
+//-------------------------------------------------------------------
+// Trim functions
+//   Returns string with whitespace trimmed
+//-------------------------------------------------------------------
+function LTrim(str){
+	if (str==null){return null;}
+	for(var i=0;str.charAt(i)==" ";i++);
+	return str.substring(i,str.length);
+	}
+function RTrim(str){
+	if (str==null){return null;}
+	for(var i=str.length-1;str.charAt(i)==" ";i--);
+	return str.substring(0,i+1);
+	}
+function Trim(str){return LTrim(RTrim(str));}
+function LTrimAll(str) {
+	if (str==null){return str;}
+	for (var i=0; str.charAt(i)==" " || str.charAt(i)=="\n" || str.charAt(i)=="\t"; i++);
+	return str.substring(i,str.length);
+	}
+function RTrimAll(str) {
+	if (str==null){return str;}
+	for (var i=str.length-1; str.charAt(i)==" " || str.charAt(i)=="\n" || str.charAt(i)=="\t"; i--);
+	return str.substring(0,i+1);
+	}
+function TrimAll(str) {
+	return LTrimAll(RTrimAll(str));
+	}
+
+
+function verifySurvey(){
+var msg = "";
+email = TrimAll(document.forms.survey1.email.value);
+fname = TrimAll(document.forms.survey1.fname.value);
+lname = TrimAll(document.forms.survey1.lname.value);
+address = TrimAll(document.forms.survey1.address.value);
+city = TrimAll(document.forms.survey1.city.value);
+state = TrimAll(document.forms.survey1.state.value);
+zip = TrimAll(document.forms.survey1.zip.value);
+phone1 = TrimAll(document.forms.survey1.phone1.value);
+phone2 = TrimAll(document.forms.survey1.phone2.value);
+phone3 = TrimAll(document.forms.survey1.phone3.value);
+
+
+	if(email.length<6) {
+		msg = msg + " - Email\r\n";
+	}
+	if(fname.length==0) {
+		msg = msg + " - First name\r\n";
+	}
+	if(lname.length==0) {
+		msg = msg + " - Last name\r\n";
+	}
+	if(address.length==0) {
+		msg = msg + " - Address\r\n";
+	}
+	if(city.length==0) {
+		msg = msg + " - City\r\n";
+	}
+	if(state.length<2) {
+		msg = msg + " - State\r\n";
+	}
+	if(zip.length<5) {
+		msg = msg + " - Zip\r\n";
+	}
+	if(phone1.length<3) {
+		msg = msg + " - Area code\r\n";
+	}
+	if(phone2.length<3) {
+		msg = msg + " - Phone prefix\r\n";
+	}
+	if(phone3.length<4) {
+		msg = msg + " - Phone suffix\r\n";
+	}
+
+	//alert(msg.length);
+	if(msg.length>0){
+	alert("Please correct the following:\r\n" + msg);
+	return false;
+	}
+}
+</script>
+
+
+<script src="Dispatcher.js"></script><link rel="stylesheet" type="text/css" href="includes/style_sheet.css"></head><body bgcolor="#FEF7E2" leftmargin="0" topmargin="10" marginwidth="0" marginheight="10" onload="MM_preloadImages('images/navigation/subPage_on/101.gif','images/navigation/subPage_on/103.gif','images/navigation/subPage_on/105.gif','images/navigation/subPage_on/107.gif','images/navigation/subPage_on/109.gif','images/navigation/subPage_on/111.gif','images/navigation/subPage_on/113.gif','images/navigation/subPage_on/115.gif','images/navigation/subPage_on/117.gif','images/navigation/subPage_on/119.gif')"><center><table bgcolor="#FEF7E2" cellpadding="0" cellspacing="0" border="0" width="749" bordercolor="red"><tbody><tr><td valign="middle" width="236"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="default.asp" target="_top"><img border="0" src="images/header/logo.gif"></a></td><td bgcolor="#D26E3D" width="1"><img src="images/cp.gif" width="1" height="45"></td><td><img border="0" src="images/header/the_stuff.gif"></td></tr></tbody></table></td><td bgcolor="#D26E3D" width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="512"><table cellpadding="0" cellspacing="0" border="0" width="512"><tbody><tr><td><table cellpadding="1" cellspacing="0" border="0">	<form action="customer_service.asp" method="post" target="_top"></form>	<input type="hidden" name="pageid" value="s">	<input type="hidden" name="srchtype" value="z">	<tbody><tr>		<td width="1"><img src="images/cp.gif" width="1" height="1"></td>		<td bgcolor="#CCC3AC" width="75"><img src="images/header/store_locator.gif"></td>		<td bgcolor="#CCC3AC" align="right" width="70"><input type="text" name="zip" value="Enter Zip" size="8"></td>		<td bgcolor="#CCC3AC" align="left" width="40"><input type="image" name="zipsrchbutton" src="images/header/button_arrow.gif" border="0"></td>		<td bgcolor="#CCC3AC" width="1"><img src="images/cp.gif" width="1" height="1"></td>	</tr>	</tbody></table></td><td><img src="images/cp.gif" width="2" height="1"></td><td bgcolor="#D26E3D"><img src="images/cp.gif" width="1" height="1"></td><td align="right" width="100%"><a href="customer_service.asp?pageid=r" target="_top">Register / Sign In</a></td></tr><tr><td width="100%" colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td width="100%" colspan="4" bgcolor="#D26E3D"><img src="images/cp.gif" width="1" height="1"></td></tr><tr><td width="100%" colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td><table cellpadding="1" cellspacing="0" border="0"><form action="search.asp" method="post" name="searchForm" onsubmit="return submitSearch(&quot;searchForm&quot;);" target="_top"></form><tbody><tr><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td bgcolor="#CCC3AC" align="right"><input type="text" name="keyword" value="Product Search" size="23" onfocus="this.value='';"></td><td bgcolor="#CCC3AC" align="right" width="40"><input type="image" src="images/header/button_arrow.gif" border="0"></td><td bgcolor="#CCC3AC" width="1"><img src="images/cp.gif" width="1" height="1"></td></tr></tbody></table></td><td><img src="images/cp.gif" width="2" height="1"></td><td bgcolor="#D26E3D"><img src="images/cp.gif" width="1" height="1"></td><td class="bold_10px" align="right" width="100%" nowrap=""><script language="JavaScript">
+{
+top_nav_1_off = new MakeArray(3)
+top_nav_1_on = new MakeArray(3)
+top_nav_1_off[0].src = "images/header/investor_relations_off.gif"
+top_nav_1_on[0].src = "images/header/investor_relations_on.gif"
+top_nav_1_off[1].src = "images/header/about_tsc_on.gif"
+top_nav_1_on[1].src = "images/header/about_tsc_on.gif"
+top_nav_1_off[2].src = "images/header/customer_service_off.gif"
+top_nav_1_on[2].src = "images/header/customer_service_on.gif"
+top_nav_1_off[3].src = "images/header/shopping_list_off.gif"
+top_nav_1_on[3].src = "images/header/shopping_list_on.gif"
+}
+function MakeArray(n) {
+this.length = 3
+for (var i = 0; i<=n; i++) {
+this[i] = new Image()
+}
+return this
+}
+</script>
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="investor_relations.asp" onmouseout="document.nav0.src=top_nav_1_off[0].src" onmouseover="document.nav0.src=top_nav_1_on[0].src" target="_top"><img border="0" name="nav0" src="images/header/investor_relations_off.gif"></a><img src="images/header/splitter_1.gif"><a href="about_tsc.asp" onmouseout="document.nav1.src=top_nav_1_off[1].src" onmouseover="document.nav1.src=top_nav_1_on[1].src" target="_top"><img border="0" name="nav1" src="images/header/about_tsc_on.gif"></a><img src="images/header/splitter_1.gif"><a href="customer_service.asp" onmouseout="document.nav2.src=top_nav_1_off[2].src" onmouseover="document.nav2.src=top_nav_1_on[2].src" target="_top"><img border="0" name="nav2" src="images/header/customer_service_off.gif"></a><img src="images/header/splitter_1.gif"><a href="shopping_list.asp" onmouseout="document.nav3.src=top_nav_1_off[3].src" onmouseover="document.nav3.src=top_nav_1_on[3].src" target="_top"><img border="0" name="nav3" src="images/header/shopping_list_off.gif"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td colspan="3"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td colspan="3" bgcolor="#993300"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td colspan="3"><img src="images/cp.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFCC99"><img src="images/cp.gif" width="1" height="1"></td></tr></tbody></table>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
+	
+
+
+
+
+<table width="749" bgcolor="#FEF7E2" border="0" bordercolor="red" cellpadding="0" cellspacing="0">
+	
+		<tbody><tr><td colspan="19"><img src="images/cp.gif" width="1" height="2"></td></tr>
+	
+
+
+  <tr> 
+    <td><a href="detail.asp?pcID=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Tools','','images/navigation/subPage_on/101.gif',1)" target="_top"><img src="images/navigation/subPage_off/101.gif" alt="Tools" name="Tools" width="56" height="34" border="0"></a></td>
+    <td><img src="images/navigation/subPage_off/102.gif" width="5" height="34"></td>
+    <td><a href="detail.asp?pcID=2" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home Improvement','','images/navigation/subPage_on/103.gif',1)" target="_top"><img src="images/navigation/subPage_off/103.gif" alt="Home Improvement" name="Home Improvement" width="86" height="34" border="0"></a></td>
+    <td><img src="images/navigation/subPage_off/104.gif" width="5" height="34"></td>
+    <td><a href="detail.asp?pcID=3" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Vehicle Mainenance','','images/navigation/subPage_on/105.gif',1)" target="_top"><img src="images/navigation/subPage_off/105.gif" alt="Vehicle Mainenance" name="Vehicle Mainenance" width="83" height="34" border="0"></a></td>
+    <td><img src="images/navigation/subPage_off/106.gif" width="5" height="34"></td>
+    <td><a href="detail.asp?pcID=4" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Agriculture','','images/navigation/subPage_on/107.gif',1)" target="_top"><img src="images/navigation/subPage_off/107.gif" alt="Agriculture" name="Agriculture" width="81" height="34" border="0"></a></td>
+    <td><img src="images/navigation/subPage_off/108.gif" width="5" height="34"></td>
+    <td><a href="detail.asp?pcID=5" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Lawn &amp; Garden','','images/navigation/subPage_on/109.gif',1)" target="_top"><img src="images/navigation/subPage_off/109.gif" alt="Lawn &amp; Garden" name="Lawn &amp; Garden" width="69" height="34" border="0"></a></td>
+    <td><img src="images/navigation/subPage_off/110.gif" width="5" height="34"></td>
+    <td><a href="detail.asp?pcID=6" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Equine Care','','images/navigation/subPage_on/111.gif',1)" target="_top"><img src="images/navigation/subPage_off/111.gif" alt="Equine Care" name="Equine Care" width="64" height="34" border="0"></a></td>
+    <td><img src="images/navigation/subPage_off/112.gif" width="5" height="34"></td>
+    <td><a href="detail.asp?pcID=7" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Pet Care','','images/navigation/subPage_on/113.gif',1)" target="_top"><img src="images/navigation/subPage_off/113.gif" alt="Pet Care" name="Pet Care" width="45" height="34" border="0"></a></td>
+    <td><img src="images/navigation/subPage_off/114.gif" width="5" height="34"></td>
+    <td><a href="detail.asp?pcID=8" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Livestock Care','','images/navigation/subPage_on/115.gif',1)" target="_top"><img src="images/navigation/subPage_off/115.gif" alt="Livestock Care" name="Livestock Care" width="74" height="34" border="0"></a></td>
+    <td><img src="images/navigation/subPage_off/116.gif" width="5" height="34"></td>
+    <td><a href="detail.asp?pcID=9" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Recreation','','images/navigation/subPage_on/117.gif',1)" target="_top"><img src="images/navigation/subPage_off/117.gif" alt="Recreation" name="Recreation" width="79" height="34" border="0"></a></td>
+    <td><img src="images/navigation/subPage_off/118.gif" width="5" height="34"></td>
+    <td><a href="detail.asp?pcID=10" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Apparel','','images/navigation/subPage_on/119.gif',1)" target="_top"><img src="images/navigation/subPage_off/119.gif" alt="Apparel" name="Apparel" width="67" height="34" border="0"></a></td>
+  </tr>
+  
+  <tr> 
+    <td colspan="5" valign="top"><img src="images/navigation/subPage_off/120.gif" width="235" height="17"></td>
+    <td colspan="4" valign="top"><img src="images/navigation/subPage_off/121.gif" width="160" height="17"></td>
+    <td colspan="6" valign="top"><img src="images/navigation/subPage_off/122.gif" width="198" height="17"></td>
+    <td colspan="4" valign="top"><img src="images/navigation/subPage_off/123.gif" width="156" height="17"></td>
+  </tr>
+  
+  <tr><td colspan="19"><img src="images/cp.gif" width="1" height="1"></td></tr><tr><td colspan="19" bgcolor="#993300"><img src="images/cp.gif" width="1" height="2"></td></tr>
+</tbody></table><title>Tractor Supply Company - About TSC</title>
+<table width="749" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top" width="163" align="center"><table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="purple"><tbody><tr><td colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td bgcolor="E3BE94" colspan="3"><img src="images/cp.gif" width="1" height="1"></td><td><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td colspan="2"><img src="images/cp.gif" width="1" height="2"></td><td bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td bgcolor="ccc3ac"><img src="images/cp.gif" width="158" height="8"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td><img src="images/left_nav/dots_158_by_1.gif" width="158" height="1"></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td><img src="images/cp.gif" width="1" height="3"></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td align="center"><img src="images/left_nav/h_aboutTSC.gif" height="8"></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td><img src="images/cp.gif" width="1" height="3"></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td><img src="images/left_nav/dots_158_by_1.gif" width="158" height="1"></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td bgcolor="ccc3ac"><img src="images/cp.gif" width="1" height="5"></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td bgcolor="ccc3ac" width="158"><font color="000000"><table cellpadding="2" cellspacing="0" width="100%"><tbody><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=history" class="Left_Nav_font_black">History</a></td></tr><tr><td><span class="normal_9px">»</span>&nbsp;<a href="about_TSC.asp?pageID=employment" class="Left_Nav_font_black">Employment</a></td></tr><tr><td><span class="normal_9px">»</span>&nbsp;<a href="about_TSC.asp?pageID=policies" class="Left_Nav_font_selected_black">Policies</a></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="about_TSC.asp?pageID=policies&amp;sectionID=refund&amp;#refund" class="Left_Nav_font_black">Refund Policy</a></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="about_TSC.asp?pageID=policies&amp;sectionID=privacy&amp;#privacy" class="Left_Nav_font_black">Privacy</a></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="about_TSC.asp?pageID=policies&amp;sectionID=legal&amp;#legal" class="Left_Nav_font_black">Legal Policy</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=ethics" class="left_nav_font_black">Code of Ethics</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=management" class="left_nav_font_black">Key Management Profiles</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=mission" class="left_nav_font_black">Mission Values</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=expertise" class="left_nav_font_black">Product Category Expertise</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=company" class="left_nav_font_black">Company Profile</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=facts" class="Left_Nav_font_black">Fact Sheet</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=states" class="Left_Nav_font_black">Stores by State</a></td></tr></tbody></table></font></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td bgcolor="ccc3ac"><img src="images/cp.gif" width="1" height="5"></td><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td width="1"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td colspan="2"><img src="images/cp.gif" width="1" height="2"></td><td bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td><td><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td bgcolor="E3BE94" colspan="3"><img src="images/cp.gif" width="1" height="1"></td><td><img src="images/cp.gif" width="1" height="1"></td></tr><tr><td colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td bgcolor="990000" colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr></tbody></table></td><td width="2" bgcolor="#993300"><img src="images/cp.gif" width="2" height="1"></td><td width="100%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" id="Table3"><tbody><tr><td class="bold_16px" colspan="2"><br>&nbsp;POLICIES</td></tr><tr><td colspan="2">&nbsp;</td></tr><tr><td width="2" bgcolor="#B88981"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td width="2" valign="top" bgcolor="#993300"><img src="images/cp.gif" width="2" height="2"></td></tr><tr><td><table width="100%" border="0" cellspacing="4" cellpadding="4" id="Table2"><tbody><tr><td align="center"><p class="Header_990000_bold_12px">We may be outside the city limits,<br>but we still live by the rules.</p></td></tr><tr><td align="center"><ul></ul><table align="center" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><li><a href="#refund">Refund Policy</a></li></td></tr><tr><td><li><a href="#privacy">Privacy</a></li></td></tr><tr><td><li><a href="#legal">Legal Policy</a></li></td></tr></tbody></table><br><br><br><br></td></tr><tr><td align="center">----------------------------------------------------------------------------------------------------------------</td></tr><tr><td><p><a name="#refund">&nbsp;</a><br><table cellspacing="4" cellpadding="4" width="100%" border="0" id="tblRefund"><tbody><tr><td colspan="3"><p align="center" class="Header_990000_bold_12px">Hassle-free refunds up to 30 days<br>from purchase date with receipt.<br><br></p></td></tr><tr><td width="33%"><strong>Return Made</strong></td><td width="33%" valign="top"><strong>If refund occurs within 30 days of purchase and was paid for by...</strong></td><td width="33%" valign="top"><strong>Refund issued in form of...</strong></td></tr><tr><td rowspan="5"><table><tbody><tr><td>With receipt and within 30 days from date of purchase</td><td><img src="images/thingiemabob.gif"></td></tr></tbody></table></td><td>Cash</td><td>Cash<font color="red">*</font></td></tr><tr><td>Check less than 10 business days from purchase date</td><td>Check mailed from our Corporate Office</td></tr><tr><td>Check 10 or more days from purchase date</td><td>Cash if under $100*<br>Check if over $100<br>mailed from our Corporate Office</td></tr><tr><td>Credit Card</td><td>Credit issued to same credit card account</td></tr><tr><td>Gift Card</td><td>Merchandise Return Card <font color="red">*</font></td></tr><tr><td colspan="3"></td></tr><tr><td colspan="3"><br><br><font color="red">*</font>Subject to available cash on hand.</td></tr><tr><td colspan="3">MANAGER APPROVAL IS REQUIRED for any return made without a receipt and/or after 30 days from date of purchase. If approved, the refund will only be issued in the form of a check mailed from our corporate office.</td></tr><tr><td colspan="3" align="center"><br><a href="#Top">Back to Top</a></td></tr></tbody></table></p></td></tr><tr><td align="center">----------------------------------------------------------------------------------------------------------------</td></tr><tr><td><p><a name="#privacy">&nbsp;</a><br><table cellspacing="4" cellpadding="4" width="100%" border="0" id="tblPrivacy"><tbody><tr><td colspan="2"><p align="center"></p><div class="Header_990000_bold_12px" align="center">INTERNET &amp; CONTEST DATA<br>PRIVACY POLICY</div><p></p><div class="bold_12px">CONTESTS</div><br><b>Tractor Supply Company Respects Your Privacy</b><br>Tractor Supply Company (TSC) collects personal information about our users during sign up for our contests. The information we collect is used in the aggregate to give us demographic information about the entire Tractor Supply Company customer base to improve our service and help us sell the advertising that supports the site. Tractor Supply Company does not sell or give visitor information to third parties for the purpose of direct mail or spamming without visitor permission. However, the personal information you provide lets us inform you about updates to Tractor Supply Company and, if you have elected to receive such information, the products and services of Tractor Supply's vendors who we believe may be of interest to you.<p></p><p><b>Contest Entries</b><br>Tractor Supply Company (TSC) collects information from all contest entrants except those under the age of 13 years old. Information collected during this process is used to tell us about your system ownership and preferences for awarding contest prizes, as well as, contact information should you win. In addition, should you also choose to receive promotional mailings from Tractor Supply Company contest sponsors (vendors) your contact and system ownership information may be forwarded to them so that they may contact you with information related to their products and services.</p><p>Tractor Supply Company does not release any e-mail addresses from users unless they have specifically and actively consented to this use during the contest entry process. Tractor Supply Company generally conducts mailings on behalf of third parties to ensure the proper use of such information. Tractor Supply Company permits a third party to use the information for limited purposes only after the agreement to comply with certain safeguards and other requirements.</p><p>Tractor Supply Company respects your right to privacy. As part of the contest entry process, we give you the opportunity to decline to receive any mailings from other parties to whom Tractor Supply Company may provide such information.</p><p><b>Surveys and User Research</b><br>Tractor Supply Company also conducts periodic e-mail and Web-delivered surveys to gather information about our audience. We share the aggregate results of these surveys - not individual data - with our vendors to help them better understand our Internet audience and monitor the reach of their advertising on our Web site. Tractor Supply Company uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that receive the information.</p><p>If you have questions please send an e-mail to <a href="mailto:cseay@tractorsupply.com">cseay@tractorsupply.com</a>.</p><p></p><div class="bold_12px">INTERNET</div><br>Tractor Supply Company does not rent, sell or exchange information about its customers. Access to customer information is limited to those employees who need it to carry out their business functions.<p></p><p>When transmitting sensitive information online (such as credit card information), Tractor Supply Company uses the industry standard security measure called Secure Socket Layer, or SSL, encryption (indicated by the locked icon at the bottom of most browsers).</p><p>Tractor Supply Company collects personally identifiable information (such as name, address, telephone number or e-mail address) from Web site visitors only when visitors voluntarily provide such information. This information may be stored and used by Tractor Supply Company to better understand its customers' needs, to improve Tractor Supply Company products and services, and to contact customers regarding offers that may be of interest to them. Tractor Supply Company also collects information from Web site visitors that is not personally identifiable such as the visitor's operating system, browser, domain name, and the specific Web pages on the Tractor Supply Company Web site that were visited. Tractor Supply Company may implore the use of a 'cookie' or similar file to gather information that is not personally identifiable.</p></td></tr><tr><td colspan="2" align="center"><br><a href="#Top">Back to Top</a></td></tr></tbody></table></p></td></tr><tr><td align="center">----------------------------------------------------------------------------------------------------------------</td></tr><tr><td><p><a name="#legal">&nbsp;</a><br><table cellspacing="4" cellpadding="4" width="100%" border="0" id="tblLegal"><tbody><tr><td colspan="2"><p align="center" class="Header_990000_bold_12px">LEGAL NOTICE/DISCLAIMER<br>TERMS OF USE</p><p align="center"></p><div class="bold_12px">READ THESE TERMS CAREFULLY<br>BEFORE USING THIS SITE.</div><br>By using this site, tractorsupplyco.com, tractorsupply.com, or mytscstore.com, you agree to these terms. If you do not agree to these terms, do not use the site.<p></p><p><b>Copyright</b><br>All site design, graphics, text and the selection and arrangement thereof, and all software are Copyright © 2000, Tractor Supply Company. ALL RIGHTS RESERVED. Redistribution, retransmission, republication or commercial exploitation of the contents of this site is expressly prohibited without the consent of Tractor Supply Company.</p><p><b>Disclaimer</b><br>TRACTOR SUPPLY COMPANY IS PROVIDING THIS SITE AND ITS CONTENTS ON AN 'AS IS' BASIS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THIS SITE, ITS CONTENTS OR ANY SITE THAT IS LINKED HERETO. TRACTOR SUPPLY COMPANY DISCLAIMS ALL SUCH REPRESENTATIONS AND WARRANTIES, INCLUDING, FOR EXAMPLE, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN ADDITION, TRACTOR SUPPLY COMPANY DOES NOT REPRESENT OR WARRANT THAT THE INFORMATION ACCESSIBLE VIA THIS SITE OR ANY SITE LINKED HERETO IS ACCURATE, COMPLETE OR CURRENT. PRICE AND AVAILABILITY INFORMATION, AS WELL AS OTHER INFORMATION CONTAINED IN THIS SITE, IS SUBJECT TO CHANGE WITHOUT NOTICE.</p></td></tr><tr><td colspan="2" align="center"><br><a href="#Top">Back to Top</a></td></tr></tbody></table></p></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="749" border="0" bordercolor="red" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" bgcolor="#993300"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td colspan="5"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td colspan="5" bgcolor="#993300"><img src="images/cp.gif" width="1" height="1"></td></tr><tr><td colspan="5"><img src="images/cp.gif" width="1" height="6"></td></tr><tr><td width="569"><span class="normal_9px">© 2003 Tractor Supply Company is a publicly owned company listed on the NASDAQ under the symbol TSCO</span></td><td align="center" width="10">|</td><td width="75" align="center"><a class="left_nav_font_black" target="_top" href="about_TSC.asp?pageID=policies&amp;#privacy">Privacy</a></td><td align="center" width="10">|</td><td width="95" align="right"><a class="left_nav_font_black" target="_top" href="sitemap.asp">Site Map</a>&nbsp;&nbsp;&nbsp;<font color="#FEF7E2"></font></td></tr></tbody></table><title>Tractor Supply Company</title></center></body></html>
