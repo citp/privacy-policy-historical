@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aessuccess.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602194722id_/http%3A//aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aessuccess.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206194014id_/http%3A//www.aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
 
 # AES - Privacy Policy
 
@@ -97,7 +97,8 @@ Return to Privacy Policy Menu
 
 ****Should you have any questions, concerns or desire additional information concerning the AES Website Privacy Policy please contact AES by one of the following means:
 
-E-mail:[ nettech@aessuccess.org](mailto:%20nettech@pheaa.org)
+E-mail:[ nettech@aessuccess.org](mailto:%20nettech@pheaa.org)  
+Please note: Email is not a secure method of communication. Do not include any sensitive or private information in your email correspondence.
 
 Phone: 1-877-603-6010
 
@@ -113,7 +114,7 @@ Return to Privacy Policy Menu
 * * *
 
   
-1For the purposes of the AES Website Privacy Policy, any reference to PHEAA or AES means PHEAA and all of its divisions including but not limited to: American Education Services (AES), Loan Servicing and Graduate Services. 
+1For the purposes of the AES Website Privacy Policy, any reference to PHEAA or AES means PHEAA and all of its divisions including but not limited to: American Education Services (AES), Loan Servicing and Graduate and Professional Services. 
 
 2PHEAA is a guarantor, servicer, lender, and secondary market of student loans as well as the state agency responsible for administering the Pennsylvania State Higher Educational Assistance Grant Program and various other state and federal higher education financial aid programs. As such, PHEAA has very different relationships with the users of its websites. It is important to note that PHEAA may be required, dependent upon its relationship with website users, to share information about the users with authorized third parties. 
 
