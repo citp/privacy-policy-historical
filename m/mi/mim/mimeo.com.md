@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621115532id_/http%3A//www.mimeo.com/customerCare/security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207030900id_/http%3A//www.mimeo.com/customerCare/security.htm) for the most accurate reproduction.*
 
-# mimeo - security policy
+# Mimeo.com - Customer Care
 
 | 
 
@@ -30,7 +30,7 @@ Note that, by using Mimeo.com's web site (currently located at http://www.mimeo.
 If you have any questions regarding this Security and Privacy Policy, the Service, or Mimeo.com, please email us at [privacy@mimeo.com](mailto:privacy@mimeo.com).
 
   
-  **1\. Our Security Policy**  
+ **1\. Our Security Policy**  
 With respect to using your credit card to conduct transactions through the Services, the credit card issuer's policy regarding unauthorized use will determine what (if any) limits there are on your liability. If you feel that you have been a victim of unauthorized use of your credit card, you must notify your credit card provider in accordance with its own reporting rules and procedures. If you feel that your situation has not been resolved satisfactorily, please contact us at [privacy@mimeo.com](mailto:privacy@mimeo.com) and we will use reasonable efforts to assist you. Please note that you are responsible for maintaining the confidentiality of your Mimeo.com password, and are responsible for any and all activities, including but not limited to all orders (whether or not such orders were authorized by you), that are made through your Mimeo.com account. 
 
 **Measures We Take to Help Ensure the Safety of Your Transactions**
@@ -69,6 +69,6 @@ Occasionally, Mimeo.com may conduct surveys in order to better deliver advertise
 **Changing Personally Identifiable Information**   
 If you would like to change your personally identifiable information in Mimeo.com's databases, you may do so through the Services themselves, or by contacting us at [customerservice@mimeo.com](mailto:customerservice@mimeo.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Mimeo.com databases, access logs, and other records, which may or may not contain inaccurate or outdated personally identifiable information. The residual information will not be used for commercial purposes; however Mimeo.com reserves the right, from time to time, to re-contact former users of the Services.   
   
-[](http://www.mimeo.com/customerCare/contactUs.htm)  
+[](https://web.archive.org/web/20001207030900id_/http%3A//www.mimeo.com/customerCare/contactUs.htm)  
   
-Copyright 1999-2000 Mimeo.com, Inc. All Rights Reserved
+Copyright 1999-2000 Mimeo.com, Inc. All Rights Reserved.
