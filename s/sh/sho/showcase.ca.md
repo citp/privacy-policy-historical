@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showcase.ca privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208183610id_/http%3A//www.showcase.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showcase.ca privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213037id_/http%3A//showcase.ca/privacy.asp) for the most accurate reproduction.*
 
 # Showcase.ca :: Privacy Policy
 
