@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dns2go.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206012400id_/http%3A//www.deerfield.com/corporate/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dns2go.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603074904id_/http%3A//www.deerfield.com/corporate/privacy.cfm) for the most accurate reproduction.*
 
 # Deerfield.com - Leveraging Internet Connectivity
 
@@ -11,7 +11,7 @@ All financial and personal information collected by Deerfield.com is held in the
 
 If at any time, for any reason, Deerfield.com has a need to share customer information, all customers will be contacted via Email for their consent. Instances when we would share information would include the discontinuation of a product, in which case Deerfield.com would like to turn over our customer information to allow for better continuity for our customers. 
 
-There are also instances when Deerfield.com will use a "cookie" in order to track Web site usage. These cookies do not collect personal information and are terminated once customers leave the site. 
+There are also instances when Deerfield.com will use a "cookie" in order to track Web site usage. These cookies do not collect personal information and are usually terminated once customers leave the site. 
 
 Deerfield.com also operates SecureCC, a secure transaction site dedicated to completing secure online orders. When a purchase is made, using a credit card, via the Internet, the transaction will be automatically redirected to SecureCC. All of the Privacy policies of Deerfield.com would apply to SecureCC as well. 
 
@@ -31,7 +31,7 @@ To further protect the privacy of our customers, access to information by our em
 
 From time to time, Deerfield.com will request more specific information about our customers. This is done in the form of surveys and is completely voluntary. The information gathered in these surveys helps us determine who our customer base is and what their needs are. By compiling this data we can work to improve customer experiences with the company. 
 
-Personal information provided by customers, or those who sample Deerfield.com products, is sometimes used to contact individuals regarding new information about Deerfield.com products. Anyone contacted by Deerfield.com with product information can request to be removed from further updates at any time. To be removed from Deerfield.com's mailing list or to modify your information previously provided, please refer to the Corporate Web site at [http://www.deerfield.com/service/mailing_removal/](http://www.deerfield.com/service/mailing_removal/index.cfm). 
+Personal information provided by customers, or those who sample Deerfield.com products, is sometimes used to contact individuals regarding new information about Deerfield.com products. Anyone contacted by Deerfield.com with product information can request to be removed from further updates at any time. To be removed from Deerfield.com's mailing list or to modify your information previously provided, please refer to the Corporate Web site at <http://deerfield.com/service/mailing/index.cfm>. 
 
 More than anything, Deerfield.com tries to treat its customers as each one of us would like to be treated. We value our privacy and we value yours, too. It is our goal to make your experience with Deerfield.com a safe and positive experience. 
 
