@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hanes.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207021502id_/http%3A//www.hanes.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hanes.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604194741id_/http%3A//www.hanes.com/privacy.jsp) for the most accurate reproduction.*
 
 # Hanes.com | Home
 
@@ -8,7 +8,7 @@
 > **We respect your privacy. We will never sell or transfer your name or personal information to a third party. Your information will be kept confidential at all times.** **The full text of the Privacy Statement continues below.**   
 > 
 > 
-> By using Hanes.com (the Site), you are agreeing to the terms set forth in this Privacy Policy Statement. For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20031207021502id_/http%3A//www.hanes.com/copyright.jsp).
+> By using Hanes.com (the Site), you are agreeing to the terms set forth in this Privacy Policy Statement. For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20040604194741id_/http%3A//www.hanes.com/copyright.jsp).
 > 
 > For purposes of this Privacy Policy Statement, "Personal Information" means any information by which you can be personally identified, and includes your name, your address, your telephone number, your e-mail address and the like. Hanes.com does not require that you submit Personal Information. However, Hanes.com may request Personal Information in order to help serve you more effectively. Hanes.com collects Personal Information only when you voluntarily submit such Personal Information to us.
 > 
