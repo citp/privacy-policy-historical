@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the af.mil privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602113154id_/http%3A//www.af.mil/disclaimer.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the af.mil privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207223740id_/http%3A//www.af.mil/disclaimer.shtml) for the most accurate reproduction.*
 
 # Air Force Link II -- Privacy and Security Notice
 
@@ -14,7 +14,7 @@
 
 6\. Unauthorized attempts to deny service, upload information, change information, or to attempt to access a non-public site from this service are strictly prohibited and may be punishable under Title 18 of the U.S. Code to include the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-7\. If you have any questions or comments about the information presented here, please forward them to us using the Air Force Link [Comment Form](https://web.archive.org/web/20020602113154id_/http%3A//www.af.mil/contactus.shtml).
+7\. If you have any questions or comments about the information presented here, please forward them to us using the Air Force Link [Comment Form](https://web.archive.org/web/20021207223740id_/http%3A//www.af.mil/contactus.shtml).
 
 **The Presence of Commercial/External Links  **
 
