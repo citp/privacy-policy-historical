@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theserverside.net privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613124313id_/http%3A//theserverside.net/common/privacyPolicy.tss) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theserverside.net privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209004059id_/http%3A//www.theserverside.net/common/privacyPolicy.tss) for the most accurate reproduction.*
 
 # TheServerSide.NET - Privacy Policy
 
@@ -29,7 +29,7 @@ TheServerSide.NET maintains two separate mailing lists:
 
 **TheServerSide J2EE Marketplace** , an annnouncements list that will help you keep up with special vendor's announcements and offers, specific to the J2EE industry. 
 
-Whether you want to receive these announcement lists is your choice; you should only receive those lists you affirmatively choose to. If you choose to receive a specific announcement list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with TheServerSide.NET to send messages to the list. Personally identifiable information will not be used by TheServerSide.NET for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list under your 'My Profile' settings, by sending an email to [webmaster@theserverside.net](mailto:contact@theserverside.net) or by following the instructions on the e-mails you receive. 
+Whether you want to receive these announcement lists is your choice; you should only receive those lists you affirmatively choose to. If you choose to receive a specific announcement list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with TheServerSide.NET to send messages to the list. Personally identifiable information will not be used by TheServerSide.NET for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list under your 'My Profile' settings, by sending an email to [webmaster@theserverside.net](mailto:webmaster@theserverside.net) or by following the instructions on the e-mails you receive. 
 
 ## The Use of Cookies
 
@@ -47,7 +47,7 @@ When visiting TheServerSide.NET, we reserve the right to store and use the IP ad
 
 ## Ad Serving Technology
 
-TheServerSide.NET has contracted with Zedo (<http://www.zedo.com/>) to serve all advertising on [www.theserverside.net](http://www.theserverside.net/), on the Web site only (not in our emails). Zedo-specific tracking URLs may be used to monitor the effectiveness of advertising campaigns in our newsletters and opt-in announcements; however, these are in no way being used to track your personal information. Your clicks on certain 'monitored' links or images will be recorded as annonymous clicks by Zedo and have no affiliation to you. 
+TheServerSide.NET has contracted with Zedo (<http://www.zedo.com/>) to serve all advertising on www.theserverside.net, on the Web site only (not in our emails). Zedo-specific tracking URLs may be used to monitor the effectiveness of advertising campaigns in our newsletters and opt-in announcements; however, these are in no way being used to track your personal information. Your clicks on certain 'monitored' links or images will be recorded as annonymous clicks by Zedo and have no affiliation to you. 
 
 Zedo uses "cookies" to enhance the Internet user's experience on the Web. Zedo does not use these cookies to personally identify you in any way, and these cookies in no way can damage your system or files. 
 
