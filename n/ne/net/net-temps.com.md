@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402134319id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205011407id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # About Net-Temps
 
 **Privacy Statement**
 
-  
-[](https://www.truste.org/validate/8869) Net-Temps is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Net-Temps wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Net-Temps has agreed to notify you of:
+[](https://www.truste.org/validate/8869) Net-Temps is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users. trust and confidence in the Internet by promoting the use of fair information practices. Because Net-Temps wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Net-Temps has agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the website
   2. The organization collecting the information
   3. How the information is used
-With whom the information may be shared 
-  4. What choices are available to you regarding collection, use and distribution of the information
-  5. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Net-Temps' control
-  6. How you can correct any inaccuracies in the information.
+  4. With whom the information may be shared 
+  5. What choices are available to you regarding collection, use and distribution of the information
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Net-Temps' control
+  7. How you can correct any inaccuracies in the information.
 
 If you have questions or concerns regarding this statement, you should first contact Net-Temps at (978) 251-7272 or by email at [ pr@net-temps.com](mailto:pr@net-temps.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
+
+**Thawte SSL Web Server Certificate**  
+The Net-Temps server is secured through the Thawte SSL (secure sockets layer) Web Server Certificate which ensures that any information sent to the Net-Temps server is encrypted, making it virtually impossible to intercept or steal online communications during transmittal. Personal information and credit card details cannot be viewed by outside parties and once such information has been submitted, the data cannot be tampered with while it is being transmitted.
 
 **Privacy Policy**  
 We understand the power that the Internet holds for changing your life and making things easier for you. These benefits are at risk if people are concerned about their personal privacy. We are committed to providing you with an Internet experience that respects and protects your personal privacy choices and concerns.
@@ -29,13 +31,17 @@ Net-Temps provides email address links located on the Contact Us page so that yo
 Net-Temps is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Net-Temps collects information from our users at several different points on our website.
 
 **Membership Information**  
-Companies wishing to sign up for Net-Temps' service are asked to provide certain data including full name, complete mailing address, phone number and email address.
+Companies wishing to sign up for Net-Temps' service are asked to provide certain data including full name, complete mailing address, phone number and email address. Members can expect to receive periodic email communications including resume search agent results, a hot list of candidates, updates regarding their service and the weekly newsletter. If members do not wish to receive resume search agents results or a daily hotlist, they may remove the agents from their desktop and disable the daily hotlist. An unsubscribe is provided at the bottom of each recruiter newsletter if they wish to opt-out. 
+
+Members have the ability to update/change their company information and user information including contact name, email address, password and phone number. Each account has a designated administrator who has the ability to change any of this information in their password-protected recruiting center. 
+
+Net-Temps membership is a paid service and available on a month-to month basis or 6 or 12-month contract basis. Membership may be cancelled with 30 days prior notice to the contract renewal date. 
 
 **Personal Resume Bank**  
 The Personal Resume Bank allows Net-Temps Recruiters to create a private database of resumes from the Recruiters Desktop. Resumes entered into the Personal Resume Bank from the Net-Temps resume banks are accessible to anyone with an active Net-Temps subscription account. Resumes entered into the Personal Resume Bank from a source other than the Net-Temps resume banks are accessible to only that recruiter; the Recruiters Desktop is password protected. If a recruiter elects to cancel their account, they may email all the resumes in their Personal Resume Bank to any email address they choose and/or print the resumes.
 
 **Forums**  
-Net-Temps provides job seeker career forums for each of its career channels. These areas are not restricted and are accessible by anyone visiting the website and Net-Temps personnel.
+Net-Temps provides job seeker career forums for each of its career channels. These areas are not restricted and are accessible by anyone visiting the website and Net-Temps personnel. The information provided in the forum is publicly displayed and users should use caution when posting online. 
 
 **Personal Information**  
 Net-Temps' resume functionality requires/requests users to give us contact information (such as their email address) and personal information (such as their work histories and academic achievements). The user's contact and personal information is used to contact the visitor when necessary, but is primarily used in the construction of the user's resume and Candidate Profile.
@@ -52,15 +58,20 @@ When you post your resume, you have the option of suppressing your contact infor
 This site gives job seeker users options for changing and modifying information previously provided. Login to your Job Seekers Desktop at <http://my.net-temps.com/login.html> and select 'My Profile' to modify account information. To edit specific resume information, select 'Access Resumes'.
 
 **Delete/Opt-Out**  
-Many of the services available on our site provide you with the opportunity to opt out of receiving communications from our partners and us. In addition, in the majority of our email communications, we will have instructions on how to unsubscribe so that you will not receive any future emails from us if you so choose.
-
-Users who no longer wish to receive our newsletter may unsubscribe by sending an email to [infocus@net-temps.com](mailto:infocus@net-temps.com) or [crossroads@net-temps.com](mailto:crossroads@net-temps.com) with the word 'REMOVE' in the Subject line.
+The majority of our email communications will have instructions on how to unsubscribe so that you will not receive any future emails from us if you so choose. For example, users who no longer wish to receive our newsletter may unsubscribe by sending an email to [infocus@net-temps.com](mailto:infocus@net-temps.com) or [crossroads@net-temps.com](mailto:crossroads@net-temps.com) with the word 'REMOVE' in the Subject line. Job search agents results may also be removed by deleting them from the Job Search Assistant.
 
 **Links**  
 Net-Temps contains links to other websites. These sites have their own policies and practices with respect to online privacy, and Net-Temps cannot be responsible for the privacy practices or the content of these websites. In addition, in certain instances a Net-Temps advertiser may ask you for personal information. Net-Temps cannot be responsible for the privacy practices of its advertisers.
 
 **Troubleshooting**  
-We use your IP address to help diagnose problems with our server and to administer our website. An Internet protocol (I.P.) address is a set of numbers that is automatically assigned to your computer whenever you log on to your Internet service provider or through your company's local area network (LAN) or wide area network (WAN).
+We use your IP address to help diagnose problems with our server and to administer our website. An Internet protocol (I.P.) address is a set of numbers that is automatically assigned to your computer whenever you log on to your Internet service provider or through your company's local area network (LAN) or wide area network (WAN). IP addresses are tied to personally identifiable information to enable our web-based service. 
+
+**Cookies**  
+A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is one stored as a file on your computer, and it remains there when you close Internet Explorer. The cookie can be read by the Web site that created it when you visit that site again. Persistent cookies can be removed by following Internet browser help file directions. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different so check the "Help" menu of your browser to learn how to change your cookie preferences. 
+
+By setting a cookie on our site, users do not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to have career-specific information automatically available upon sign in (hot jobs, search agents and news). 
+
+Some of our business partners and advertisers use cookies on our site. However, we have no access to or control over these cookies once we have given permission for them to set cookies for advertising. 
 
 **Surveys & Contests**  
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contest is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as zip code). Contact information will be used to notify winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
