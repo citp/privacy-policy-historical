@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607052452id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201052357id_/http%3A//artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia Teachers - Privacy Policy
 
@@ -13,7 +13,9 @@ The information you provide to us through the website is used to process orders 
 
 The information you provide to us is for internal business use only by Artsonia and its partners, subsidiaries and affiliates. We do not sell this information to unaffiliated third parties. However, in connection with an assignment, sale, joint venture or other transfer or disposition of some or all of the assets of Artsonia, we may accordingly assign, sell, license or transfer any information, including personally identifying information, to third parties. 
 
-Artsonia may disclose personal information if we believe, in good faith, that such disclosure is necessary to comply with the law, enforce or apply the terms of our user agreements or to protect the property, rights or safety of Artsonia, our users or others. 
+Artsonia may disclose personal information if we believe, in good faith, that such disclosure is necessary to comply with the law, enforce or apply the terms of our user agreements or to protect the property, rights or safety of Artsonia, our users or others.
+
+**Information collected from children:** Artsonia encourages parents and guardians to monitor and participate in their children’s online activities. We do not collect any personally identifying information from users under 18 years of age. Teachers are responsible for obtaining parental permission before they set up a screen-name for students (which is often, but not necessarily, the first name and a numerical suffix). No personally identifying information should be submitted to this site by users under 13 years of age and users under 13 years of age are not allowed to register for newsletters, clubs or activities without the permission of parents and/or teachers. In addition, users under 18 years of age may not make purchases or participate in contests, except those specifically directed to children.
 
 2\. **The information you post publicly on the Artsonia website**
 
