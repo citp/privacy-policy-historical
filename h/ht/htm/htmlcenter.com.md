@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202172449id_/http%3A//www.htmlcenter.com/contacts/index.cfm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605101825id_/http%3A//www.htmlcenter.com/contacts/index.cfm/privacy) for the most accurate reproduction.*
 
 # HTMLCenter - Privacy Policy
 
+|   
+  
 |  | 
 
 HTMLCenter takes your privacy seriously. Please read the following to learn more about our privacy policy. 
