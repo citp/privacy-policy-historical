@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401085339id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206204441id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
 
 # Rodale
 
   
 |  |  ****_Protecting Your Privacy and Servicing Your Needs_****
 
-Rodale is the world's leader in health and well-being. Through our brands ( _Backpacker, Bicycling, Men's Health, Mountain Bike, OG, Organic Style, Prevention, Rodale's Scuba Diving, Runner's World_ , and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest. 
+Rodale is the world's leader in health and well-being. Through our brands ( _Backpacker, BestLife, Bicycling, Men's Health, Mountain Bike, Organic Gardening, Organic Style, Prevention, Runner's World_ , and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest. 
 
 We're a family-run business that treats its customers like family. And we are deeply committed to protecting your privacy and security when you access Rodale owned and operated Web sites. 
 
