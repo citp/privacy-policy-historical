@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicystudio.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209024537id_/http%3A//www.juicystudio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicystudio.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404074613id_/http%3A//juicystudio.com/privacy.html) for the most accurate reproduction.*
 
 # Juicy Studio: Privacy Policy
 
@@ -40,4 +40,4 @@ Best regards, Gez
 
 [](http://validator.w3.org/check/referer) . [](http://jigsaw.w3.org/css-validator/validator?uri=http://www.juicystudio.com/tutorial/studio.css) . [](http://www.w3.org/WAI/WCAG1AAA-Conformance "Explanation of Level Triple-A Conformance") . [ ](http://www.cast.org/bobby/ "Bobby's Home Page")
 
-Copyright © 2000-2002 Juicy Studio. All rights reserved. 
+Copyright © 2000-2003 Juicy Studio. All rights reserved. 
