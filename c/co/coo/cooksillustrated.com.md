@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605070509id_/http%3A//www.cooksillustrated.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013001517id_/http%3A//www.cooksillustrated.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cook's Illustrated
 
 | 
 
-[](https://web.archive.org/web/20040605070509id_/http%3A//www.cooksillustrated.com/join.asp?incode=FT04021)
+[](https://web.archive.org/web/20041013001517id_/http%3A//www.cooksillustrated.com/join.asp?incode=FT04021)
 
 |  | 
 
@@ -50,7 +50,7 @@ We are committed to privacy, and we are actively involved in and support current
   
 
 
-|   | [](https://web.archive.org/web/20040605070509id_/http%3A//www.cooksillustrated.com/show_abooks.asp?80&HPBR) |   |   
+|   | [](https://web.archive.org/web/20041013001517id_/http%3A//www.cooksillustrated.com/show_abooks.asp?80&HPBR) |   |   
 ---|---|---|---|---  
 |  |  |  |   
   
