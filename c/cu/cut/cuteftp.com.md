@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteftp.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209061600id_/http%3A//www.cuteftp.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteftp.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409205809id_/http%3A//cuteftp.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # GlobalSCAPE, Inc. - Copyrights
 
@@ -15,40 +15,70 @@
 [Distribute Software](https://web.archive.org/company/distribute.shtml)  
 [Copyright Infringement](https://web.archive.org/company/copyrightinfringement.shtml)  
 |  |  |   
-**Privacy Policy**
+**GlobalSCAPE, Inc. Privacy Policy**
 
-GlobalSCAPE takes your privacy very seriously. In order for you to better understand our data collection methods, we have compiled the following list:
+We want you to know that we take your privacy seriously. We collect industry standard information to help us provide you with better software and services as described below:
 
-**1\. During the Download of Software.**
+**Personal Information**
 
-> When you download a copy of any GlobalSCAPE software product, we require you to provide your e-mail address. We use this address to notify you of new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. We do not make your e-mail address available to any third parties. 
+We will ask you for limited personal information when you download our software from our website, and when you purchase and register our software. For example, we may ask you for your e-mail address, your name, company name, address, and credit card billing information. 
 
-**2\. During Software Purchase.**
+We use your e-mail address to send registration reminders, and to notify you of new software releases, updates, special offers, news, and possibly to send investor communications. For your convenience, each announcement contains instructions on how to be removed from all future mailings. You may also e-mail us at [webmaster@globalscape.com](mailto:webmaster@globalscape.com) and ask to have your e-mail address removed from future mailings. 
 
-> It is very important for GlobalSCAPE to keep accurate purchase records. During this process, we ask for information such as name, company name, e-mail address, etc. This data is used only to identify you in order to give you the full benefits of registration including free technical support and upgrade eligibility. We do not make this information available to any third parties. 
+We use your name and other personal information to identify you as a registered user in order to give you the full benefits of registration including technical support and upgrade eligibility. 
 
-**3\. During Software Registration.**
+We use your credit card billing information only to obtain payment for our software. 
 
-> Once you have purchased a license to use the software, you will be required to enter a serial number into our software. If you purchased directly from GlobalSCAPE, your purchase will be on file and you will only need to enter the serial number. If you purchased our software from a reseller, we will not have your information on file, and our software will prompt you for purchase information. This data is used only to identify you in order to give you the full benefits of registration including free technical support and upgrade eligibility. We do not make this information available to any third parties. 
+**Non-personal Information**
 
-**4\. During Trial Period**
+**User Surveys** : Your participation in surveys is optional. We may ask you for information regarding your experience with our software or web sites, or to provide demographic information such as age, gender, or areas of interest. We use this information to help us improve our software, plan marketing initiatives, and develop new products that may interest you. We collect this information in a completely anonymous way so that it cannot be tied to any personally identifiable information. 
 
-> When you start your 30-day trial, you will be prompted for demographic information. This does not include information that would identify you personally, such as name or e-mail address. This information is used to deliver banner ads that are best tailored to you and your interests. GlobalSCAPE will keep statistics regarding your use of our software, such as average sessions, average session time, daily ad displays and ad click-through. GlobalSCAPE does not monitor the content of your use of the software, such as the sites selected or files used. We make this information available to our advertising providers. **Registering our programs will disable all banner ads and demographic data collection.**
+**Shopping Cart** : We use a limited duration or "session" cookie to keep track of items in your shopping cart on our web site. We do not tie the cookie to any of your personally- identifiable information. See the section below called "Cookies." 
 
-**5\. Advertising Vendors**
+**Installation Tracking** : To help us accurately count installations of our software, most versions of our software that we release after January 2001 will include a feature that communicates with us over the Internet to let us know the software has been installed and the date and time of installation. As part of this process, our server will log your IP address at the time of installation and the software will assign a unique identifying number to your computer based on system information and the date and time of installation. We do not tie your IP address or the unique identifying number to any personally-identifiable information. 
 
-> GlobalSCAPE uses the services of advertising vendors for the serving and targeting of ads, both on our web sites and during your use of the software. These advertising vendors may also collect information regarding the number of ads you view and click on. To learn more about the information collected by our advertising vendors, go to their respective web sites: 
-> 
-> Conducent: [http://www.conducent.com](http://www.conducent.com/)  
->  EverAd: [http://www.everad.com](http://www.everad.com/)  
->  Radiate: [http://www.radiate.com](http://www.radiate.com/)  
->  Engage Media: [http://www.engage.com](http://www.engage.com/) 
+**Cookies**
+
+A cookie is a small piece of information that our web server places on your computer's hard drive when you visit our web site. Right now we use cookies in three ways: 
+
+We place a test cookie when you visit our site to see if your browser will accept cookies. This test cookie does not contain any unique information that could be used to identify you or your browser. 
+
+The session cookie we use to keep track of items in your shopping cart contains an alphanumeric identifier that is unique to your browser. When you close your browser, the cookie is permanently disabled. 
+
+We use a cookie to identify customers who are referred to us by one of our partners in order to compensate our partner for the referral. 
 
 
-**6\. Cookies**
+If you do not wish to have a cookie on your computer, check the "help" feature of your browser for instructions. Most browsers can be set to refuse cookies. 
 
-> Our site uses "cookies" which are small pieces of information that your browser stores on your computer's hard drive. These cookies allow you to store items in your shopping cart while browsing our web site and store the name and address that you enter on our page. The cookies are also used to identify our customers who are referred to us by one of our partners in order to compensate our partner for the referral. Most browsers automatically accept cookies, but you can usually set your browser to refuse cookies. If you refuse or disable our cookie, you will still be able to order from our web site, but you will not be able to store items in your shopping basket between visits. We do not make any information collected by our cookies available to third parties. 
+**Sharing of Information with Third Parties**
+
+We will not disclose your personally identifiable information except as follows: 
+
+**To protect GlobalSCAPE and others.** We may release personal information and IP addresses when we believe release is appropriate to comply with the law, to enforce our software licenses and other rights, or to protect the rights and safety of others. This may include exchanging information with law enforcement agencies, or with other companies and organizations for fraud protection and credit risk reduction. 
+
+**To persons who help us provide our products and services to you.** We may provide personal and other information to third parties who work for us, such as companies that verify credit card information, process credit card payments, fulfill orders, provide customer service, analyze customer data, remove repetitive information from customer lists, and provide marketing services. We do not permit these persons to use this information for any other purpose. 
+
+**As part of a sale of our assets or a merger of our company.** We may in the future sell all or part of our assets or be involved in a merger. It is customary for user information to be included with the transferred assets in these types of transactions. 
+
+
+We may send promotional messages on behalf of other companies. If we do this, we will not provide them with your personal information. 
+
+We do not share your personally identifiable information with third parties under other circumstances. If we ever wish to share your personally-identifiable information with third parties under other circumstances, we will give you a chance to opt out before we do so. 
+
+We may share non-personally identifiable aggregate statistical information about our users with third parties. 
+
+**Security**
+
+Your credit card information is encrypted before transmission over the Internet through the use of a security protocol known as Secure Sockets Layer, and we have security measures in place to protect your personal information that we maintain here. 
+
+**Children's Online Privacy Protection**
+
+Neither our web sites nor our products are designed for or directed to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13. 
+
+**Contact Information**
+
+If you have a concern about your privacy, please contact us at [webmaster@globalscape.com](mailto:webmaster@globalscape.com). 
 
 * * *
 
-©2000 [GlobalSCAPE, Inc.](http://www.globalscape.com/) All rights reserved. [Privacy Policy](https://web.archive.org/company/privacy.shtml) [Copyright Policy](https://web.archive.org/company/copyrightinfringement.shtml)
+©2001 [GlobalSCAPE, Inc.](http://www.globalscape.com/) All rights reserved. [Privacy Policy](https://web.archive.org/company/privacy.shtml) [Copyright Policy](https://web.archive.org/company/copyrightinfringement.shtml)
