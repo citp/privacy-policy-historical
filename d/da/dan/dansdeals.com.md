@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dansdeals.com privacy policy that was archived on 2004-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040423040657id_/http%3A//www.dansdeals.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dansdeals.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212073515id_/http%3A//www.dansdeals.com/policies.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
