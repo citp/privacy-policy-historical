@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fxtrek.com privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208172608id_/http%3A//www.fxtrek.com/home/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxtrek.com privacy policy that was archived on 2003-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030608024356id_/http%3A//www.fxtrek.com/home/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.FXtrek.com&quot; on &quot;1999.10.01T20:23-0800&quot; r (n 0 s 0 v 0 l 0))">
@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="/default.css">
 </head>
 
-<body bgcolor="#04523D" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" alink="#007f65" link="#007f65" vlink="#007f65" onload="setMenus();" onresize="if (isNS4) nsResizeHandler()">
+<body bgcolor="#04523D" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" alink="#007f65" link="#007f65" vlink="#007f65" onresize="if (isNS4) nsResizeHandler()">
 
 
       
@@ -26,7 +26,7 @@
     <td background="/images/common/backgroundUp2.gif"><nobr><img src="/images/common/space.gif" width="20" height="60"><a href="/default.asp"><img src="/images/home/logo.gif" width="193" height="60" border="0"></a></nobr></td>
     <td width="100%" background="/images/common/backgroundUp2.gif">&nbsp;</td>
     
-      <td background="/images/common/backgroundUp2.gif"><nobr><a href="http://adrun.tradetrek.com/banner/adban.asp?kid=640411&bid=35" target="_blank"><img src="http://adrun.tradetrek.com/images/banners/468DaytradingCenter.gif" width=468 border=0 height=60></a><img src="/images/common/space.gif" width="5" height="60"></nobr></td>
+      <td background="/images/common/backgroundUp2.gif"><nobr><a href="http://adrun.tradetrek.com/banner/adban.asp?kid=640411&bid=39" target="_blank"><img src="http://adrun.tradetrek.com/images/banners/quoteanalysis2.gif" width=468 border=0 height=60></a><img src="/images/common/space.gif" width="5" height="60"></nobr></td>
     
   </tr>
   <tr> 
@@ -73,39 +73,6 @@ function MM_swapImage() {
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
-function test() {
-	widthObj = findWidth('wide');
-	if (widthObj < 965 ){
-	document.ad.src = image1.src;
-	}else{
-	document.ad.src = image2.src;
-	}
-}
-
-function findDOM(objectID) {
-  if (isDOM) { return (document.getElementById(objectID)); }
-	else { 
-		if (isIE4) { return (document.all[objectID]); }
-		else {
-		  if (isNS4) { return (document.layers[objectID]); }
-		}
-	}
-}
-
-function findWidth(objectID) {
-	var dom = findDOM(objectID);
-	if (dom.offsetWidth) 
-		return dom.offsetWidth;
-	if (dom.clip.width)
-		return dom.clip.width;
-	return (null);
-}
-
-image1 = new Image();
-image1.src = "/images/home/t0.jpg";
-image2 = new Image();
-image2.src = "/images/home/t1.jpg";
-
 //-->
 </script>
 <script language="JavaScript" src="/menu.js"></script>
@@ -142,10 +109,30 @@ A.subMenuText:hover {
 	FONT: bold 12px Arial, Helvetica; COLOR: #BD3E00; TEXT-DECORATION: none
 }
 </style>
+<link href="/default.css" rel="stylesheet">
+
+
+
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+  <tbody><tr>
+<!--    
+		<TD><A href="/default.asp"><IMG height=75 src="/images/home/logo.jpg" width=354 border=0></A></TD>
+    <TD width="100%" background="/images/home/backgroundUp.gif">&nbsp;</TD>
+    <TD background="/images/common/backgroundUp.gif"><IMG height=75 src="/images/home/bubble.jpg" width=388></TD>
+-->
+    <td><a href="/default.asp"><img height="75" src="/images/home/logo1.jpg" width="305" border="0"></a></td>
+    <td width="100%" background="/images/home/backgroundUp_1.gif">&nbsp;</td>
+    <td background="/images/common/backgroundUp.gif">
+			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="468" height="60" id="banner" align="">
+				<param name="movie" value="/images/home/schaffBanner.swf"> <param name="quality" value="high"> <param name="bgcolor" value="#FFFFFF"> <embed src="/images/home/schaffBanner.swf" quality="high" bgcolor="#FFFFFF" width="468" height="60" name="banner" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+			</object>    
+    </td>
+  </tr>
+</tbody></table>
 
 <script language="JavaScript">
 <!--
-//var Menu = new Array();
 var menu = new Array();
 var defOver = '#ffffff', defBack = '#EAEBD8';
 var defLength = 22;
@@ -161,10 +148,9 @@ menu[0][5] = new Item('&nbsp;&nbsp;&nbsp;&nbsp;About FXtrek', '/aboutEN/company.
 menu[1] = new Array();
 menu[1][0] = new Menu(true, '', 0, 21, 150, defOver, defBack, 'itemBorder', 'itemText');
 
-  menu[1][1] = new Item('&nbsp;&#149;&nbsp;Login', '/login/login.asp', defLength, 0, 0);
-  menu[1][2] = new Item('&nbsp;&#149;&nbsp;Sign Up', '/members/signup.asp', defLength, 0, 0);
-  menu[1][3] = new Item('&nbsp;&#149;&nbsp;Forgot Password', '/login/passForget.asp', defLength, 0, 0);
-
+menu[1][1] = new Item('&nbsp;&#149;&nbsp;Login', '/login/login.asp', defLength, 0, 0);
+menu[1][2] = new Item('&nbsp;&#149;&nbsp;Sign Up', '/members/signup.asp', defLength, 0, 0);
+menu[1][3] = new Item('&nbsp;&#149;&nbsp;Forgot Password', '/login/passForget.asp', defLength, 0, 0);
 
 menu[2] = new Array();
 menu[2][0] = new Menu(true, '&gt;&gt;', 0, 21, 150, defOver, defBack, 'itemBorder', 'itemText');
@@ -200,25 +186,11 @@ menu[6][0] = new Menu(true, '', 151, 0, 120, '#ffffff', '#B0DFD2', 'itemBorder',
 menu[6][1] = new Item('&nbsp;&nbsp;IntelliChart Online', '/tradePanel/default.asp', 20, 0, 0);
 menu[6][2] = new Item('&nbsp;&nbsp;StreamTrek', '/streamtrek/default.asp', 20, 0, 0);
 
-
 setMenus();
 
 // -->
 </script>
 
-<link href="/default.css" rel="stylesheet">
-
-
-
-
-
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-  <tbody><tr>
-    <td><a href="/default.asp"><img height="75" src="/images/home/logo.jpg" width="354" border="0"></a></td>
-    <td width="100%" background="/images/home/backgroundUp.gif">&nbsp;</td>
-    <td background="/images/common/backgroundUp.gif"><img height="75" src="/images/home/bubble.jpg" width="388"></td>
-  </tr>
-</tbody></table>
 <div id="wide"> 
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
@@ -440,7 +412,7 @@ setMenus();
   <tbody><tr> 
     <td background="/images/common/barD1_1.gif"><img src="/images/common/space.gif" width="50" height="1"></td>
     <td><img src="/images/common/barD2_1.gif" width="18" height="3"></td>
-    <td width="100%" background="/images/common/barD2_2.gif" height="2"><img src="/images/common/space.gif" width="666" height="1"></td>
+    <td width="100%" background="/images/common/barD2_2.gif" height="2"><img src="/images/common/space.gif" width="1" height="1"></td>
     <td><img src="/images/common/barD2_3.gif" width="18" height="3"></td>
     <td background="/images/common/barD3_1.gif"><img src="/images/common/space.gif" width="20" height="1"></td>
   </tr>
@@ -484,8 +456,8 @@ setMenus();
     <td><img src="/images/common/space.gif" width="5" height="52"></td>
     <td width="45%">
 	    <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#B0DFD2"><b>Copyright 
-      © 2001-2002 FXtrek.com</b></font><b><br>
-      <a href="/members/disclaimer.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CCCCCC"><b>Disclaimer</b></font></a></b></div></td>
+      © 2001-2003 FXtrek.com</b></font><br>
+      <a href="/members/disclaimer.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CCCCCC"><b>Disclaimer</b></font></a></div></td>
     
     <!--
     <td width="20%">
@@ -500,6 +472,10 @@ setMenus();
   </tr>
 </tbody></table>
 
+<!--<iframe SRC="http://www.tradetrek.com/Include/style/oneFNFXtrek_inc.asp"
+width="0" height="0" marginwidth="0" marginheight="0" frameborder="0"
+scrolling="no" >
+</iframe>-->
 <!-- End: Copyright -->
 
 
