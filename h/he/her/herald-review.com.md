@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803023959id_/http%3A//www.herald-review.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607233725id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.*
 
-# Herald & Review Privacy Statement
+# Herald & Review News for Central Illinois
 
 ### Welcome to the web site of the Herald & Review, a media company located in central Illinois. We believe in your right to know what information is collected during your visit to our web sites and how the information is used and safeguarded. 
 
@@ -27,7 +27,7 @@ To help make our sites more responsive to the needs of our visitors, we may util
 
 **Information Shared With Other Organizations**
 
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites \-- it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe may be of interest to you. This list can include your e-mail address and, other specific information (such as your phone number or street address) you may have provided us while online. 
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe may be of interest to you. This list can include your e-mail address and, other specific information (such as your phone number or street address) you may have provided us while online. 
 
 **Special Attention to Children**
 
@@ -37,4 +37,12 @@ Children should always get permission from their parents before sending any info
 
 The Herald & Review is affiliated with other online companies, some of which feature our branding. This policy statement does not apply to those companies' web sites; please refer to these affiliated sites to obtain information on their privacy policies. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
 
-E-mail comments to the Herald & Review at [hrweb@herald-review.com](mailto:mtupper@herald-review.com)
+E-mail comments to the Herald & Review at [ggrooms@herald-review.com](mailto:ggrooms@herald-review.com)
+
+[[top of page](http://www.herald-review.com/privacystatement.php#startOfPage)]  
+
+
+Copyright 1996-2001 Herald & Review, Decatur, IL, a division of [Lee Enterprises](http://www.lee.net/). All rights reserved.  
+Herald & Review, 601 East William Street, Decatur, IL, 217-429-5151  
+This, or any file with a copyright notice, may not be published, broadcast, or otherwise distributed without prior written permission.  
+[Read our Privacy Statement](http://www.herald-review.com/privacystatement.php)
