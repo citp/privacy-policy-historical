@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205004551id_/http%3A//www.insurance.com/about_us/security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607200331id_/http%3A//www.insurance.com/about_us/security_privacy.asp) for the most accurate reproduction.*
 
 # About Us - Security & Privacy
 
@@ -23,11 +23,17 @@ We may disclose the information described above to
 
 We restrict access to nonpublic personal information about you to employees of Insurance.com or of our service providers that have agreed to maintain its confidentiality. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
-With respect to health insurance, please see the Health Insurance Privacy Policy jointly developed by Insurance.com and eHealthInsurance Services, Inc. 
+With respect to health and life insurance, please see the Privacy Policy developed by Quotesmith.com, Inc.
+
+With respect to small business health insurance, please see the [Privacy Policy](http://www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html) developed by eHealthInsurance Services, Inc. 
+
+With respect to dental insurance, please see the Privacy Policy developed by Kelsey National Corporation. 
 
 With respect to auto insurance, please see the Comparison Market Insurance Agency Privacy Policy. Please note Comparison Market does not service residents of the following states Alaska, Hawaii, Massachusetts, Michigan, New Jersey, New York, South Dakota, and Texas. Residents of these jurisdictions should reference the Privacy Policies shown on this page.
 
 With respect to Travel Insurance, please see the Travel Insurance Privacy Policy, jointly developed by Insurance.com and Insuractive, Inc.
+
+We use a third party advertising company, Avenue A, to serve ads on our behalf across the Internet. Avenue A may also collect **anonymous** information about your visits to our Web site. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon or an action tag, which we place on various Web pages within our Web site or in a html e-mail that allows Avenue A to collect anonymous information. Avenue A may use **anonymous** information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Avenue A, [click here](http://www.atlasdmt.com/privacy/opting.asp?cookieStatus=activeCookie). 
 
 For more detailed information, please see Privacy Statement and Q & A below.
 
@@ -47,15 +53,19 @@ On the Insurance.com website, we have a variety of areas where you can input inf
 In most cases, the quoting process is anonymous; that is, you do not have to identify yourself or provide information by which you could be identified in order to obtain quote information. (See 2.e., regarding quotes obtained through Comparison Market Insurance Agency.) Should you wish to gain quotes for a particular line of insurance, information will be collected (for example car model, coverage amount, etc.) that is shared by Insurance.com with a third-party quoting provider in order to match your information to a list of quotes. Each quoting provider has agreed with us that this information will be used by them only in connection with services you request. 
   3. **Insurance Agencies and Insurance Carriers - - In General**  
 Should you decide to apply for a particular insurance policy after obtaining a quote through one of our quoting providers, you will be asked to provide additional information needed to complete an insurance application. With your authorization, this information will be forwarded either (1) to an independent insurance agency which has been appointed by the insurance carrier you select and which has agreed to use the information only for the purposes of completing your transaction with the carrier, or (2) directly to the carrier that you have chosen or its affiliated insurance agency. Carriers use personally identifiable information (such as name and address) in combination with other information you provide about your insurance needs to provide an insurance premium estimate. However, the criteria for ratings may vary between participating insurance companies, with each carrier placing a different emphasis on particular items of information you provide. Where permitted by law, your personally identifiable information may be used to verify information that you have provided, to request a credit report or review your claims history from a third party. As your application proceeds, Insurance.com may be updated of your progress. PLEASE NOTE: The insurance carriers are required by law to have their own privacy policies, which likely differ from those of Insurance.com. You may wish to obtain and review the carriers' policies. 
-  4. **Health Insurance**  
-If you are interested in health insurance, please see the Health Insurance Privacy Policy of Insurance.com and eHealthInsurance Services, Inc. 
-  5. **Auto Insurance - - ComparisonMarket Insurance Agency (ComparisonMarket)**  
+  4. **Health and Life Insurance**  
+If you are interested in health or life insurance, please see the Quotesmith.com, Inc. Privacy Policy. 
+  5. **Small Business Health Insurance**  
+If you are interested in small business health insurance, please see the [eHealthInsurance Services, Inc. Privacy Policy](http://www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html). 
+  6. **Dental Insurance**  
+If you are interested in dental insurance, please see the Kelsey National Corporation Privacy Policy. 
+  7. **Auto Insurance - - ComparisonMarket Insurance Agency (ComparisonMarket)**  
 We work with ComparisonMarket Insurance Agency to provide you with auto insurance quotes and other services in all states except for Massachusetts and New Jersey. In states where ComparisonMarket Insurance Agency is available, ComparisonMarket Insurance Agency requests certain personal information during the quote process in an effort to provide more accurate quote information. Residents of those states are encouraged to see the ComparisonMarket Privacy Policy. 
-  6. **Travel Insurance**  
+  8. **Travel Insurance**  
 If you are interested in travel insurance, please see the Travel Insurance Privacy Policy of Insurance.com and Insuractive, Inc. 
-  7. **Links to Third Party Insurance Sites**   
+  9. **Links to Third Party Insurance Sites**   
 In some states, or for some lines of coverage (e.g., homeowners or renters coverage and pet health coverage), we may provide direct links to insurance company or insurance agency sites, usually because we cannot obtain comparative quote information. If you provide information on a carrier web site or purchase insurance from a carrier as a result of visiting Insurance.com, the carrier may share that information with Insurance.com, but Insurance.com will not share it with any unaffiliated third parties. Insurance.com is not responsible for the privacy practices of these third party insurance companies or the content of their web sites. We recommend that you read the privacy statements on the sites of each insurance company or third party agent with which you interact. 
-  8. **Other Third Party Links**  
+  10. **Other Third Party Links**  
 You also have the opportunity to purchase books through links with unaffiliated on-line sellers. If you visit those sellers' sites, information (such as type of book, number of sales, etc.), but no personal information, will be shared with Insurance.com. Insurance.com is not responsible for the privacy practices on these third party sites. We recommend that you read the privacy statements on these sites. 
 
 
@@ -120,5 +130,5 @@ ComparisonMarket
 29001 Solon Rd. Suite A  
 Solon, OH 44139
 
-| **This Privacy Statement was last updated on October 31, 2003.** | [](https://digitalid.verisign.com/as2/B4c65485e448d6cee6cdf0a8eb81930b)  
+| **This Privacy Statement was last updated on March 5, 2004.** | [](https://digitalid.verisign.com/as2/B4c65485e448d6cee6cdf0a8eb81930b)  
 ---|---
