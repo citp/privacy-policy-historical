@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2002-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204094502id_/http%3A//www.newgrounds.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2003-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030411214241id_/http%3A//www.newgrounds.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Newgrounds Privacy Statement</title>
@@ -17,6 +17,8 @@ scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333;
 scrollbar-arrow-color: #FFEB00
 }
 </style>
+
+
 <script language="JavaScript">
 <!--
 
@@ -83,19 +85,29 @@ function OpenFlash(file, height, width, url, name)
 // -->
 </script>
 
-<!--NextLevel Pop up -->
-<script language="JavaScript1.1" src="http://ads.tromaville.com/RealMedia/ads/adstream_jx.ads/www.newgrounds.com/index.html@Top1"></script>
+<!-- VC active -->
+<script language="JavaScript">
+<!--
+// ValueParameters
+ValueHost = "hs0264939";
+ValueLoaded = false;
+ValueID = "pagebuster";
+ValueVersion = "1.1";
+ValueBannerType = "pop";
 
-<map name="menu">
-<area shape="rect" coords="1,1,40,18" href="/lit/portal_faq.html" alt="Help">
-<area shape="rect" coords="42,1,101,18" href="/bbs/" alt="Forums">
-<area shape="rect" coords="103,1,146,18" href="/chat/" alt="Chat">
-<area shape="rect" coords="148,1,178,18" href="/lit/" alt="Literature">
-<area shape="rect" coords="180,1,252,18" href="/webcam/" alt="Webcams">
-<area shape="rect" coords="254,1,303,18" href="/users_list.html" alt="User Ranks">
-<area shape="rect" coords="305,1,367,18" href="/network/net_news.html" alt="Network">
-<area shape="rect" coords="369,1,466,18" href="/submit.html" alt="Submit Content">
-</map>
+ValuePopSize = "large";
+      
+
+//-->
+</script>
+<script language="Javascript" src="http://oz.valueclick.com/jsmaster"></script>
+<script language="JavaScript">
+<!--
+if (ValueLoaded) ValueShowAd();
+//-->
+</script>
+<!-- vc active -->
+
 
 <map name="navbar">
 <area shape="rect" coords="0,2,87,33" href="/index.html" alt="Frontpage Features, News">
@@ -103,22 +115,56 @@ function OpenFlash(file, height, width, url, name)
 <area shape="rect" coords="206,2,293,33" href="/games/index.html" alt="Endless games!">
 <area shape="rect" coords="309,2,396,33" href="/toons/index.html" alt="Cartoons!">
 <area shape="rect" coords="412,2,499,33" href="/collections/hot.html" alt="Collections of related content, series.">
+<area shape="rect" coords="515,2,603,33" href="/audio/" alt="Loops and Sound Effects, free for Flash authors!">
+</map>
+<map name="gg_bar">
+<area shape="rect" coords="0,0,67,21" href="javascript:OpenGGWin()" alt="Sign-In!">
+<area shape="rect" coords="111,0,189,21" href="javascript:OpenSignupWin()" alt="Join NG!">
 </map>
 
 <center>
 <table border="0" width="761" cellpadding="0" cellspacing="0" height="150" bgcolor="#000000">
 <tbody><tr>
-<td rowspan="4" valign="top"><a href="/index.html"><img src="/images/tank_large2002.gif" width="150" height="150" border="0"></a></td>
-<td rowspan="4"><img src="/images/spacer.gif" width="8" height="8"></td>
-<td valign="top"><img src="/images/nav_top2003.gif" width="468" height="18" usemap="#menu" border="0"></td>
-
+<td rowspan="4" valign="top" width="158"><a href="/index.html"><img src="/images/tank_large2002.gif" width="150" height="150" border="0"></a></td>
+<td valign="top" bgcolor="#333333" align="center" height="19">
+<font face="arial" size="1" color="#FFFFFF"><a href="/lit/portal_faq.html">Help</a> | 
+<a href="/bbs/">Forums</a> | 
+<a href="/chat/">Chat</a> | 
+<a href="/lit/">Literature</a> | 
+<a href="/webcam/">Webcams</a> | 
+<a href="/users_list.html">Users</a> | 
+<a href="/network/net_news.html">Network</a> | 
+<a href="/submit.html">Submit Content</a></font></td>
 <td align="right" rowspan="2" valign="top"><a href="/webcam/adult/"><img src="/ads/adult18.gif" width="135" height="80" border="0"></a></td>
 
 </tr>
 
 <tr>
 <!------------------------------- BANNER AD ------------------------------>
-<td valign="top" height="60"><script language="JavaScript1.1" src="http://ads.tromaville.com/RealMedia/ads/adstream_jx.ads/www.newgrounds.com/index.html@Top"></script></td>
+<td valign="top" height="60" width="468">
+<script language="JavaScript">
+var imagearray= new Array("/ads/adult/free_ezine.gif",
+	"/ads/adult/hentai_ad1.gif",
+	"/ads/adult/dating_sims1.gif",
+	"/ads/adult/webcam_ad.jpg",
+	"/ads/adult/comic_ezine.gif",
+	"/ads/adult/webcam_ad2.gif",
+	"/ads/adult/lesbian_ad.gif");
+
+var urlarray= new Array("http://www.freeezinebucks.com/ps.php?s=49&u=newgrounds",
+	"http://www.hentaiplayground.com/?wm_login=newgrounds",
+	"http://www.newgrounds.com/collections/datingsims.html",
+	"http://www.newgrounds.com/webcam/adult/index.html",
+	"http://www.freeezinebucks.com/ps.php?s=57&u=newgrounds",
+	"http://www.newgrounds.com/webcam/adult/index.html",
+	"http://www.freeezinebucks.com/ps.php?s=49&u=newgrounds");
+
+randomno=Math.floor((Math.random()*urlarray.length));
+
+urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0 width=468 height=60></a>";
+document.write (urlstr);
+</script><a href="http://www.newgrounds.com/webcam/adult/index.html" target="_blank"><img src="/ads/adult/webcam_ad.jpg" border="0" width="468" height="60"></a>
+</td>
 <!-- ------------------ END BANNER AD --------------------------------------------------------->
 </tr>
 
@@ -127,7 +173,7 @@ function OpenFlash(file, height, width, url, name)
 	<table border="0" cellpadding="0" cellspacing="0" width="603"><tbody><tr>
 	<td><form name="hotcontent">
 	<select name="directory" size="1" onchange="JumpToHotContent()" ;="">
-		<option value="0">-- Quick Access to Hot Content --
+		<option value="0">-- Popular Features --
         	</option><option value="/assassin/">Assassin
 		</option><option value="/collections/spears.html">Britney Spears
 		</option><option value="/collections/datingsims.html">Dating Sims
@@ -138,9 +184,7 @@ function OpenFlash(file, height, width, url, name)
 		</option><option value="/collections/vg.html">Video Game Parodies
 	</option></select>
  	</form></td>
-	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-	<td><font face="arial" size="-1"><b><a href="javascript:OpenSignupWin()">Join NG!</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="javascript:OpenGGWin()">Sign-In!</a></b></font></td>
-	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td align="center"><img src="/images/gg_button2.gif" width="190" height="22" usemap="#gg_bar" border="0"></td>
 	<td align="right"><form name="search" method="GET" action="/portal/search.php" onsubmit="return(CheckSearch());">
 	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><img src="/images/search.gif" width="42" height="19"></td>
 	<td><input type="hidden" name="kind" value="j"><input type="text" name="terms" size="16"></td>
@@ -151,61 +195,8 @@ function OpenFlash(file, height, width, url, name)
 
 
 <tr>
-<td colspan="2" valign="bottom"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/menu_options.gif" usemap="#navbar" border="0" width="515" height="33"></td>
-<td valign="bottom" align="right">
-<script language="Javascript">
-<!--
-var currentdate = 0
-var core = 0
-
-function StringArray (n) {
-  this.length = n;
-  for (var i =1; i <= n; i++) {
-    this[i] = ' '
-
-  }
-}
-
-image = new StringArray(8)
-image[0] = '/collections/vg.gif'
-image[1] = '/collections/datingsims.gif'
-image[2] = '/collections/assassin.gif'
-image[3] = '/collections/spears.gif'
-image[4] = '/collections/dbz.gif'
-image[5] = '/collections/eminem.gif'
-image[6] = '/collections/clockcrew.gif'
-image[7] = '/collections/stick.gif'
-
-linkurl = new StringArray(8)
-linkurl[0] = '/collections/vg.html'
-linkurl[1] = '/collections/datingsims.html'
-linkurl[2] = '/assassin/index.html'
-linkurl[3] = '/collections/spears.html'
-linkurl[4] = '/collections/dbz.html'
-linkurl[5] = '/collections/eminem.html'
-linkurl[6] = '/collections/clockcrew.html'
-linkurl[7] = '/collections/sticks.html'
-
-var ran = 60/image.length
-
-function ranimage() {
-  currentdate = new Date()
-  core = currentdate.getSeconds()
-  core = Math.floor(core/ran)
-    return(image[core])
-}
-
-function ranlink() {
-  currentdate = new Date()
-  core = currentdate.getSeconds()
-  core = Math.floor(core/ran)
-    return(linkurl[core])
-}
-
-document.write("<a href='" +ranlink()+ "'><img src='" +ranimage()+ "' width=88 height=31 border='0'></a>")
-
-//-->
-</script><a href="/collections/vg.html"><img src="/collections/vg.gif" width="88" height="31" border="0"></a></td></tr>
+<td colspan="3" valign="bottom"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/menu_options2.gif" usemap="#navbar" border="0" width="603" height="33"></td>
+</tr>
 </tbody></table></td></tr></tbody></table>
 </center>
 <p>
@@ -514,57 +505,24 @@ tfulp@fast.net
 <td width="90" valign="top">
 <!------------------------------------ LEFT AD ------------------------------------>
 
-<script language="Javascript">
-<!--
-var currentdate = 0
-var core = 0
+<script language="JavaScript">
+var urlarray= new Array("http://www.jaggedteam.com",
+      	"http://www.rogerceleb.com/?wm_login=newgrounds",
+      	"http://www.rogerceleb.com/?wm_login=newgrounds",
+      	"http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds",
+	"http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds");
 
-function StringArray (n) {
-  this.length = n;
-  for (var i =1; i <= n; i++) {
-    this[i] = ' '
+var imagearray= new Array("/banners/buds/jagged.gif",
+      	"/ads/adult/rc_2.gif",
+      	"/ads/adult/rc_1.gif",
+      	"/ads/adult/tc_1.gif",
+	"/ads/adult/true_celebs1.jpg");
 
-  }
-}
+randomno=Math.floor((Math.random()*urlarray.length));
 
-image = new StringArray(5)
-image[0] = '/banners/buds/jagged.gif'
-image[1] = '/ads/adult/rc_2.gif'
-image[2] = '/ads/adult/rc_1.gif'
-image[3] = '/ads/adult/tc_1.gif'
-image[4] = '/ads/adult/true_celebs1.jpg'
-
-
-linkurl = new StringArray(7)
-linkurl[0] = 'http://www.jaggedteam.com'
-linkurl[1] = 'http://www.rogerceleb.com/?wm_login=newgrounds'
-linkurl[2] = 'http://www.rogerceleb.com/?wm_login=newgrounds'
-linkurl[3] = 'http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds'
-linkurl[4] = 'http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds'
-linkurl[5] = 'http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds'
-linkurl[6] = 'http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds'
-
-
-var ran = 60/image.length
-
-function ranimage() {
-  currentdate = new Date()
-  core = currentdate.getSeconds()
-  core = Math.floor(core/ran)
-    return(image[core])
-}
-
-function ranlink() {
-  currentdate = new Date()
-  core = currentdate.getSeconds()
-  core = Math.floor(core/ran)
-    return(linkurl[core])
-}
-
-document.write("<a href='" +ranlink()+ "' target='top'><img src='" +ranimage()+ "' border='0'></a>")
-
-//-->
-</script><a href="http://www.jaggedteam.com" target="top"><img src="/banners/buds/jagged.gif" border="0"></a>
+urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0></a>";
+document.write (urlstr);
+</script><a href="http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds" target="_blank"><img src="/ads/adult/true_celebs1.jpg" border="0"></a>
 
 <!------------------- END LEFT AD --------------------------------->
 </td>
@@ -574,59 +532,30 @@ document.write("<a href='" +ranlink()+ "' target='top'><img src='" +ranimage()+ 
 <td valign="top" width="468">
 <!------------------------------------ BANNER AD ------------------------------------>
 
-<script language="Javascript">
-<!--
-var currentdate = 0
-var core = 0
+<script language="JavaScript">
+var urlarray= new Array("http://www.adultflics.com/freepasswords/?wm_login=newgrounds",
+      	"http://www.hentaiplayground.com/?wm_login=newgrounds",
+      	"http://www.amateurgirls.com/freepasswords/?wm_login=newgrounds",
+	"http://www.rogerceleb.com/?wm_login=newgrounds",
+	"http://www.adultflics.com/freepasswords/?wm_login=newgrounds",
+	"http://click.silvercash.com/?a=638009&p=1&s=44&r=1",
+	"http://www.hentaiplayground.com/?wm_login=newgrounds",
+	"http://www.amateurgirls.com/freepasswords/?wm_login=newgrounds");
 
-function StringArray (n) {
-  this.length = n;
-  for (var i =1; i <= n; i++) {
-    this[i] = ' '
+var imagearray= new Array("/ads/adult/adulflicks_free.gif",
+      	"/ads/adult/hentai.gif",
+      	"/ads/adult/amateursfree.gif",
+      	"/ads/adult/rc_banner04_06_02_468x60_ani.gif",
+	"/ads/adult/adultflicsfree.gif",
+	"/ads/adult/celebhotel_hor_01.jpg",
+	"/ads/adult/hentai_free.gif",
+	"/ads/adult/amateur_free.gif");
 
-  }
-}
+randomno=Math.floor((Math.random()*urlarray.length));
 
-image = new StringArray(6)
-image[0] = '/ads/adult/ncr_banner02_06_02_468x80.gif'
-image[1] = '/ads/adult/britbch_468x60_01.gif'
-image[2] = '/ads/adult/hentai.gif'
-image[3] = '/ads/adult/amateurs.gif'
-image[4] = '/ads/adult/rc_banner04_06_02_468x60_ani.gif'
-image[5] = '/ads/adult/bangbus3.gif'
-
-
-
-linkurl = new StringArray(6)
-linkurl[0] = 'http://www.nudecelebsrevue.com/?wm_login=newgrounds'
-linkurl[1] = 'http://www.truecelebs.com/specialoffer/?wm_login=newgrounds'
-linkurl[2] = 'http://www.hentaiplayground.com/?wm_login=newgrounds'
-linkurl[3] = 'http://www.amateurgirls.com/cgi-bin/click-ag.cgi?newgrounds'
-linkurl[4] = 'http://www.rogerceleb.com/?wm_login=newgrounds'
-linkurl[5] = 'http://clicks.oxcash.com/?Site=bangbus.com&Webmaster=tomfulp'
-
-
-
-var ran = 60/image.length
-
-function ranimage() {
-  currentdate = new Date()
-  core = currentdate.getSeconds()
-  core = Math.floor(core/ran)
-    return(image[core])
-}
-
-function ranlink() {
-  currentdate = new Date()
-  core = currentdate.getSeconds()
-  core = Math.floor(core/ran)
-    return(linkurl[core])
-}
-
-document.write("<a href='" +ranlink()+ "' target='top'><img src='" +ranimage()+ "' border='0'></a>")
-
-//-->
-</script><a href="http://www.nudecelebsrevue.com/?wm_login=newgrounds" target="top"><img src="/ads/adult/ncr_banner02_06_02_468x80.gif" border="0"></a>
+urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0></a>";
+document.write (urlstr);
+</script><a href="http://www.adultflics.com/freepasswords/?wm_login=newgrounds" target="_blank"><img src="/ads/adult/adultflicsfree.gif" border="0"></a>
 
 <!------------------- END BANNER AD --------------------------------->
 </td>
@@ -637,57 +566,23 @@ document.write("<a href='" +ranlink()+ "' target='top'><img src='" +ranimage()+ 
 
 <!------------------------------------ RIGHT AD ------------------------------------>
 
-<script language="Javascript">
-<!--
-var currentdate = 0
-var core = 0
+<script language="JavaScript">
+var urlarray= new Array("http://www.tshirthell.com/cgi-bin/affiliates/clickthru.cgi?id=tfulp&page=http://www.tshirthell.com/hell.htm",
+      "http://www.tshirthell.com/cgi-bin/affiliates/clickthru.cgi?id=tfulp&page=http://www.tshirthell.com/hell.htm");
 
-function StringArray (n) {
-  this.length = n;
-  for (var i =1; i <= n; i++) {
-    this[i] = ' '
+var imagearray= new Array("/ads/tshirt_saddam.gif",
+      	"/ads/tshirt_saddam.gif");
 
-  }
-}
+randomno=Math.floor((Math.random()*urlarray.length));
 
-image = new StringArray(2)
-image[0] = '/ads/tshirt_jesus.gif'
-image[1] = '/ads/tshirt_jesus.gif'
-
-linkurl = new StringArray(2)
-linkurl[0] = 'http://www.tshirthell.com/cgi-bin/affiliates/clickthru.cgi?id=tfulp&page=http://www.tshirthell.com/hell.htm'
-linkurl[1] = 'http://www.tshirthell.com/cgi-bin/affiliates/clickthru.cgi?id=tfulp&page=http://www.tshirthell.com/hell.htm'
-
-
-
-
-
-var ran = 60/image.length
-
-function ranimage() {
-  currentdate = new Date()
-  core = currentdate.getSeconds()
-  core = Math.floor(core/ran)
-    return(image[core])
-}
-
-function ranlink() {
-  currentdate = new Date()
-  core = currentdate.getSeconds()
-  core = Math.floor(core/ran)
-    return(linkurl[core])
-}
-
-document.write("<a href='" +ranlink()+ "' target='top'><img src='" +ranimage()+ "' border='0'></a>")
-
-//-->
-</script><a href="http://www.tshirthell.com/cgi-bin/affiliates/clickthru.cgi?id=tfulp&amp;page=http://www.tshirthell.com/hell.htm" target="top"><img src="/ads/tshirt_jesus.gif" border="0"></a>
+urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0 width=130height=60></a>";
+document.write (urlstr);
+</script><a href="http://www.tshirthell.com/cgi-bin/affiliates/clickthru.cgi?id=tfulp&amp;page=http://www.tshirthell.com/hell.htm" target="_blank"><img src="/ads/tshirt_saddam.gif" border="0" width="130height=60"></a>
 
 <!------------------- END RIGHT AD --------------------------------->
 </td>
 </tr></tbody></table>
-<font face="arial" size="-1"><a href="/contact.html">Contact Us!</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/banners/index.html">Link to NG</a> | <a href="/webcam/adult/index.html">Adult Links</a> | <a href="http://www.tromaville.com" target="_blank">Tromaville</a></font>
-<br>
-</p></center> 
-
-</center></body></html>
+<font face="arial" size="-1"><a href="/contact.html">Contact Us!</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/banners/index.html">Link to NG</a> | <a href="/webcam/adult/index.html">Adult Links</a></font>
+</p><p>
+<img <="" body="">
+</p></center></center></body></html>
