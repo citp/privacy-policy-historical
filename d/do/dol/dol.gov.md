@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2000-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001115080800id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603185942id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
 # Department of Labor's Privacy and Security Statement
 
@@ -26,10 +26,18 @@ _If you link to other sites outside DOL:_
 
 Our Website has many links to other sites. When you link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site. 
 
+_Cookie Use Notice_
+
+On a limited number of its web pages, the U.S. Department of Labor employs "cookies" to provide better service to its customers. The Department does not use cookies to collect any personally identifying information from users or to track user activities beyond our web site. The Department does not maintain copies of cookies on our web site after you leave our web site. 
+
+Cookies are small pieces of temporary data that are exchanged between a web site and a user's computer which enable a "session", or "dialog", to be established between the two machines. With the session established, the Department is able to tailor its responses (i.e., identify and provide you with the information you want) and help you traverse our web pages in the most efficient and effective manner possible. The session is often broken when the Department's server does not receive further requests from your computer or you simply exit your browser. 
+
+The Department limits its use of cookies to "session cookies"… types of cookies that are temporarily stored in your computer's memory. Session cookies are normally deleted from a user's computer when the user logs off the computer or the user exits the browser. As of January, 2001, the Department does not issue "persistent cookies"…types of cookies that could be stored permanently on your workstation and reused each time you visit the Department's web site. Before January, 2001, however, the Department had a small number of web sites that automatically created persistent cookies. Those cookies may still be stored on some user's computers and, in some cases, may be updated by the user's browser when revisiting the DOL web site. In the event a cookie is found on your workstation which was issued from a Department of Labor web site, you may remove it without adversely affecting your future visits to our web site. 
+
 * * *
 
 For security purposes and to ensure that this service remains available to all users, our website also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996. 
 
-[ DOL Home Page](https://web.archive.org/dol/welcome.htm) | [ Top of Document](https://web.archive.org/web/20001115080800id_/http%3A//www.dol.gov/dol/privacynotice.htm)
+[ DOL Home Page](https://web.archive.org/dol/welcome.htm) | [ Top of Document](https://web.archive.org/web/20010603185942id_/http%3A//www.dol.gov/dol/privacynotice.htm)
