@@ -1,338 +1,35 @@
-<!--The following is the downloaded HTML source of the kisw.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204091919id_/http%3A//kisw.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kisw.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403174711id_/http%3A//www.kisw.com/privacypolicy.asp) for the most accurate reproduction.-->
 
-<html><head><script language="Javascript">
-<!--
-browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 3 )))
-
-printon = new Image();
-printoff = new Image();
-printoff.src = "/images/both_menu_bottom_print_off.gif";
-printon.src = "/images/both_menu_bottom_print_on.gif";
-bookmarkon = new Image();
-bookmarkoff = new Image();
-bookmarkoff.src = "/images/both_menu_bottom_bookmark_off.gif";
-bookmarkon.src = "/images/both_menu_bottom_bookmark_on.gif";
-sendon = new Image();
-sendoff = new Image();
-sendoff.src = "/images/both_menu_bottom_send_off.gif";
-sendon.src = "/images/both_menu_bottom_send_on.gif";
-rockofseattleon = new Image();
-rockofseattleoff = new Image();
-rockofseattleoff.src = "/images/both_menu_rockofseattle_off.gif";
-rockofseattleon.src = "/images/both_menu_rockofseattle_on.gif";
-kiswrockgirlson = new Image();
-kiswrockgirlsoff = new Image();
-kiswrockgirlsoff.src = "/images/both_menu_kiswrockgirls_off.gif";
-kiswrockgirlson.src = "/images/both_menu_kiswrockgirls_on.gif";
-kiswstreetsheeton = new Image();
-kiswstreetsheetoff = new Image();
-kiswstreetsheetoff.src = "/images/both_menu_kiswstreetsheet_off.gif";
-kiswstreetsheeton.src = "/images/both_menu_kiswstreetsheet_on.gif";
-framerockofseattleon = new Image();
-framerockofseattleoff = new Image();
-framerockofseattleoff.src = "/images/frames_menu_framerockofseattle_off.gif";
-framerockofseattleon.src = "/images/frames_menu_framerockofseattle_on.gif";
-framekiswrockgirlson = new Image();
-framekiswrockgirlsoff = new Image();
-framekiswrockgirlsoff.src = "/images/frames_menu_framekiswrockgirls_off.gif";
-framekiswrockgirlson.src = "/images/frames_menu_framekiswrockgirls_on.gif";
-framekiswstreetsheeton = new Image();
-framekiswstreetsheetoff = new Image();
-framekiswstreetsheetoff.src = "/images/frames_menu_framekiswstreetsheet_off.gif";
-framekiswstreetsheeton.src = "/images/frames_menu_framekiswstreetsheet_on.gif";
-rockofseattlebackgroundon = new Image();
-rockofseattlebackgroundoff = new Image();
-rockofseattlebackgroundoff.src = "/images/nav_back.gif";
-rockofseattlebackgroundon.src = "/images/nav_back.gif";
-kiswrockgirlsbackgroundon = new Image();
-kiswrockgirlsbackgroundoff = new Image();
-kiswrockgirlsbackgroundoff.src = "/images/nav_back.gif";
-kiswrockgirlsbackgroundon.src = "/images/nav_back.gif";
-kiswstreetsheetbackgroundon = new Image();
-kiswstreetsheetbackgroundoff = new Image();
-kiswstreetsheetbackgroundoff.src = "/images/nav_back.gif";
-kiswstreetsheetbackgroundon.src = "/images/nav_back.gif";
-
-
-
-	function imageOff(IMGName) {
-		if (browser) {
-			document[IMGName].src = eval(IMGName + "off.src"); 
-		}
-	}
-	
-	function imageOn(IMGName) {
-		if (browser) { 
-			document[IMGName].src = eval(IMGName + "on.src"); 
-		}		
-	}
-
-	function BGimageOn(IMGName) {
-		if (isIE) {
-			
-			document.all[IMGName + "_td"].background = eval(IMGName + "backgroundon.src");
-		}
-	}
-
-	function BGimageOff(IMGName) {
-		if (isIE) {
-			
-			document.all[IMGName + "_td"].background = eval(IMGName + "backgroundoff.src");
-		}
-	}
-
-
-function doNothing() {
-  //Does Nothing
-}
-
-var isNav, isIE, isNS6, isLoaded
-isLoaded = false
-if (document.all) {
-  isIE = true;
-  isNav = false;
-  isNS6 = false;
-}
-else if (document.layers) {
-  isNav = true;
-  isIE = false;
-  isNS6 = false;
-}
-else if (document.getElementById) {
-  isNS6 = true;
-  isIE = false;
-  isNav = false;
-}
-
-var delay = 1000; // time songmenu will stay visible after rollout
-var numberMenus = 5; // the number of song-menus (zero based) 
-var overMenus = false;
-
-// Show song Menu
-function showText(x,imgX,imgY)
-{
-	for (var i = 0; i <= numberMenus; i ++) {
-	  if (i != x) { hideThem(i);	}
-	}
-	overMenus = true;
-	
-	if (isNav) {
-		theObject = eval("document.sub" + x); 
-		theObject.left = imgX;
-		theObject.top = imgY;
-		theObject.visibility = "visible";
-	}
-	if (isIE) {
-		theObject = eval("document.all.sub" + x); 
-		theObject.style.left = imgX;
-		theObject.style.top = imgY;
-		theObject.style.visibility = "visible";
-	}
-	if (isNS6) {
-		theObject = eval("document.getElementById('sub" + x +"')"); 
-		theObject.style.left = imgX;
-		theObject.style.top = imgY;
-		theObject.style.visibility = "visible";
-	}	
-}
-
-
-//Hide sub Menu
-function hideText(x)
-{
-	overMenus = false;
-	if (isNav) {
-  	y = setTimeout("hideThem(" + x + ")",1000);}
-	if (isIE) {
- 	y = setTimeout("hideThem(" + x + ")",1000);}
- 	if (isNS6) {
-  	y = setTimeout("hideThem(" + x + ")",1000);}
-
-}
-function hideThem(x)
-{
-  if (!overMenus) {
-	if (isNav) {
-		theObject = eval("document.sub" + x); 
-		theObject.visibility = "hidden";
-	}
-	if (isIE) {
-		theObject = eval("document.all.sub" + x); 
-		theObject.style.visibility = "hidden";
-	}
-	if (isNS6) {
-		theObject = eval("document.getElementById('sub" + x +"')"); 
-		theObject.style.visibility = "hidden";
-	}	
-  }
-}
-
-function getRealLeft() {
-	xPos = this.offsetLeft;
-	tempEl = this.offsetParent;
-  	while (tempEl != null) {
-  		xPos += tempEl.offsetLeft;
-  		tempEl = tempEl.offsetParent;
-  	}
-	return xPos;
-}
-
-function getRealTop() {
-	yPos = this.offsetTop;
-	tempEl = this.offsetParent;
-  	while (tempEl != null) {
-  		yPos += tempEl.offsetTop;
-  		tempEl = tempEl.offsetParent;
-  	}
-	return yPos;
-}
-
-function getImgX(whichImg){
-	var theImg, theImgX
-	theImg = eval("document." + whichImg);
-	{theImgWidth = theImg.width}
-	if (isIE){ theImg.getRealLeft = getRealLeft; }
-	if (isNS6){ theImg.getRealLeft = getRealLeft; }
-	//theImgX = (isIE) ? theImg.getRealLeft() : theImg.x;
-	if (isIE) {
-	if (whichImg == "kiswrockgirls"){
-		theImgX = theImg.getRealLeft() + 68
-	} else if (whichImg == "framekiswrockgirls"){
-		theImgX = theImg.getRealLeft() + 216
-	} else if (whichImg == "kiswstreetsheet"){
-		theImgX = theImg.getRealLeft() + 94
-	} else if (whichImg == "framekiswstreetsheet"){
-		theImgX = theImg.getRealLeft() + 216
-	} else if (whichImg == "framerockofseattle"){
-		theImgX = theImg.getRealLeft() + 216
-	}else {
-		theImgX = theImg.getRealLeft() + 130
-	}
-	}
-	if (isNav) {
-	if (whichImg == "kiswrockgirls"){
-		theImgX = theImg.x  + 101
-	} else if (whichImg == "framekiswrockgirls"){
-		theImgX = theImg.x  + 215
-	} else if (whichImg == "kiswstreetsheet"){
-		theImgX = theImg.x  + 106
-	} else if (whichImg == "framekiswstreetsheet"){
-		theImgX = theImg.x  + 215
-	} else if (whichImg == "framerockofseattle"){
-		theImgX = theImg.x  + 215
-	}else {
-		theImgX = theImg.x  + 141
-	}
-	}
-	if (isNS6) {
-	if (whichImg == "kiswrockgirls"){
-		theImgX = theImg.getRealLeft() + 68
-	} else if (whichImg == "framekiswrockgirls"){
-		theImgX = theImg.getRealLeft()+ 216
-	} else if (whichImg == "kiswstreetsheet"){
-		theImgX = theImg.getRealLeft()+ 94
-	} else if (whichImg == "framekiswstreetsheet"){
-		theImgX = theImg.getRealLeft()+ 216
-	} else if (whichImg == "framerockofseattle"){
-		theImgX = theImg.getRealLeft()+ 216
-	} else if (whichImg == "kiswstreetsheet"){
-		theImgX = theImg.getRealLeft()+ 94
-	}else {
-		theImgX = theImg.getRealLeft()  + 130
-	}
-	}
-	 // {theImgX = (isIE) ? (theImg.getRealLeft() + 118) : (theImg.x + 118);}
-	return theImgX
-}
-function getImgY(whichImg){
-	var theImg, theImgY
-	theImg = eval("document." + whichImg);
-	theImgHeight = theImg.height
-	if (isIE){ theImg.getRealTop = getRealTop; }
-	if (isNS6){ theImg.getRealTop = getRealTop; }
-	//theImgY = (isIE) ? theImg.getRealTop() : theImg.y;
-	if (isIE) {
-	if (whichImg == "framerockofseattle"){
-	   theImgY = theImg.getRealTop() 
-	}else if (whichImg == "framekiswrockgirls"){
-		theImgY = theImg.getRealTop() 
-	}else if (whichImg == "framekiswstreetsheet"){
-		theImgY = theImg.getRealTop() -55
-	}else {
-		theImgY = theImg.getRealTop() + 48
-	}
-	}
-	if (isNav) {
-	if (whichImg == "framerockofseattle"){
-	   theImgY = theImg.y  
-	}else if (whichImg == "framekiswrockgirls"){
-		theImgY = theImg.y  
-	}else if (whichImg == "framekiswstreetsheet"){
-		theImgY = theImg.y  -50
-	}else {
-		theImgY = theImg.y  + 48
-	}
-	}
-	if (isNS6) {
-	if (whichImg == "framerockofseattle"){
-		theImgY = theImg.getRealTop() 
-	}else if (whichImg == "framekiswrockgirls"){
-		theImgY = theImg.getRealTop()  
-	}else if (whichImg == "framekiswstreetsheet"){
-		theImgY = theImg.getRealTop()  - 42
-
-	}else {
-		theImgY = theImg.getRealTop()  + 48
-	}
-	}
-	//theImgY = (isIE) ? (theImg.getRealTop()) : (theImg.y);	
-	return theImgY
-}
-
-//-->
-</script>
-<style type="text/css">
-<!--
-	#sub0 {position:absolute; left:20; top:167; padding:0px; width:311; z-index:0; visibility:hidden}
-	#sub1 {position:absolute; left:20; top:167; padding:0px; width:311; z-index:1; visibility:hidden}
-	#sub2 {position:absolute; left:20; top:167; padding:0px; width:311; z-index:2; visibility:hidden}
-	#sub3 {position:absolute; left:20; top:0; padding:0px; width:311; z-index:6; visibility:hidden}
-	#sub4 {position:absolute; left:20; top:0; padding:0px; width:311; z-index:4; visibility:hidden}
-	#sub5 {position:absolute; left:20; top:0; padding:0px; width:311; z-index:5; visibility:hidden}
-
-//-->
-</style>
-
-
-
-
+<html><head>
 <title>99.9 KISW</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 
 <style id="Entire">
-A {	font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px;	line-height: 14px; font-weight: bold; color: #FFDA00; text-decoration: underline;}
+A {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFDA00; text-decoration: underline; 
+cursor:url("http://rope.kisw-fm.fimc.net/css/nope.cur");}
 .gDropdown {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #242424; background-color: #666666;}
-.gCopyright {font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px;	color: #7F7A26;}
-.gSubmitButtons {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold;	color: #242424; background-color: #666666; border-top-width: 1px; border-right-width: 1px; 
-
+.gCopyright {font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; color:  #7F7A26;}
+.gSubmitButtons {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold;	color:  #242424; background-color: #666666; border-top-width: 1px; border-right-width: 1px; 
 border-bottom-width: 1px; border-left-width: 1px; 
-
-border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #999999; border-right-color: #444444; border-bottom-color: #444444; 
-
-border-left-color: #999999;}
-.fHeadline {font-family: "Arial bold", Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #868686; font-weight: bolder;}
+border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; 
+border-top-color: #999999; border-right-color: #444444; border-bottom-color: #444444; border-left-color: #999999;}
+.fHeadline {font-family: "Arial bold", Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; 
+color: #868686; font-weight: bolder;}
 .fText {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #ACA890;}
-.gNavText {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #ffffff; text-decoration:none}
-.gNavText:hover {font-family: Arial, Helvetica, sans-serif; font-size: 11px;	line-height: 14px; color: #FFDA00; text-decoration:none }
-.iPageTitles {font-family: Georgia, "Times New Roman", Times, serif; font-size: 24px; line-height: 24px; font-weight: bold; color: #ACA890; text-transform: uppercase;}
+.gNavText {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #ffffff; 
+text-decoration:none}
+.gNavText:hover {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: 
+#FFDA00; text-decoration:none }
+.iPageTitles {font-family: Georgia, "Times New Roman", Times, serif; font-size: 24px; line-height: 24px; 
+font-weight: bold; color: #ACA890; text-transform: uppercase;}
 .iText {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; color: #ffffff; line-height: 14px;}
-.iHeadline {font-family:  "Arial Bold", Times, serif; font-size: 16px;	line-height: 24px; color: #ACA890;  font-weight: bold;}
-.iSubHeadline {font-family: "Arial Bold", Times, serif; font-size: 14px;	line-height: 24px; color: #ACA890; 	font-weight: bold;}
+.iHeadline {font-family: "Arial Bold", Times, serif; font-size: 16px; line-height: 24px; color: #ACA890; font-weight: bold;}
+.iSubHeadline {font-family: "Arial Bold", Times, serif; font-size: 14px; line-height: 24px; color: #ACA890; font-weight: bold;}
 .iLinks {font-family: Georgia, "Times New Roman", Times, serif;	font-size: 11px; line-height: 14px; font-weight: bold; color: #FFDA00; text-decoration: underline;}
-.iLinks:visited {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px;	line-height: 14px; font-weight: bold; color: #ACA890; text-decoration: underline;}
+.iLinks:visited {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #ACA890; text-decoration: underline;}
 .iLinks:active {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF; text-decoration: underline;}
 .iLinks:hover {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF; text-decoration: none;}
 .iDividersHR {color: #50481D;height: 1px;}
@@ -340,19 +37,13 @@ border-left-color: #999999;}
 .cfFeaturetext {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 15px; color: #ffffff;}
 .cfFeaturetitle {font-family: Georgia, "Times New Roman", Times, serif; font-size: 24px;  color: #ACA890; font-weight: bold;}
 .gMemberText {	font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; color: #ACA890; line-height: 14px;}
-.gInputFields {	font-family: Arial, Helvetica, sans-serif;font-size: 11px;font-weight: bold; color: #242424; background-color: #666666; border-top-width: 1px; border-right-width: 1px; 
-
-border-bottom-width: 1px; border-left-width: 1px; border-top-style: 
-
-solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #444444; border-right-color: #999999; border-bottom-color: #999999; border-left-color: 
-
-#444444;}
+.gInputFields {	font-family: Arial, Helvetica, sans-serif;font-size: 11px;font-weight: bold; color: #242424; background-color: #666666; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #444444; border-right-color: #999999; border-bottom-color: #999999; border-left-color: #444444;}
 .gBody {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; color: #ACA890; line-height: 14px; background-color:#000000}
 .fLinks {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px;	font-weight: bold; color: #FFDA00; text-decoration: underline;}
-.fLinks:active {	font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF; text-decoration: underline;}
+.fLinks:active { font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF; text-decoration: underline;}
 .fLinks:hover {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF; text-decoration: none;}
 .fLinks:visited {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #ACA890; text-decoration: underline;}
-.ciCellText {font-family: Georgia, "Times New Roman", Times, serif;	font-size: 11px; line-height: 14px; font-weight: bold; color: #000000; }
+.ciCellText {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #000000; }
 .DJLink {font-family: Georgia, "Times New Roman", Times, arial,helvetica,sans-serif; color:#000000; font-size:11px; font-weight:bold; text-decoration:underline;}
 .DJLink:visited {color:#000000;font-family: Georgia, "Times New Roman", Times, arial,helvetica,sans-serif; font-size:11px; font-weight:bold; text-decoration:underline;}
 .DJLink:hover {font-family: Georgia, "Times New Roman", Times, arial,helvetica,sans-serif; font-size:11px; color:#ffffff; font-weight:bold; text-decoration:underline;}
@@ -362,6 +53,8 @@ solid; border-right-style: solid; border-bottom-style: solid; border-left-style:
 .elsCellData { background-color: #000000; color: #FFFFFF; font-family: arial; font-size: 13px; }
 A.elsCellField { color: #FFFFFF; }
 A.elsCellData { color: #FFFFFF; }
+
+
 
 
 .ListingBlock { color:#ACA890; font-family: Georgia, "Times New Roman", Arial, Verdana; font-size: 11px; }
@@ -465,6 +158,54 @@ A.ListingBlock3:HOVER {
 	text-decoration: none;
 }
 </style>
+<link href="stylesheets/nav.css" rel="stylesheet" type="text/css" id="NavStyles">
+
+<script language="JAVASCRIPT" src="/jsfiles/incDynamicMenus.js"></script><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenusLogic.js"></script>
+
+<script language="JAVASCRIPT" type="text/JavaScript">
+/************************************
+ BUILD THE DATA ARRAYS FOR THE MENUS
+************************************/
+// Menu Item Object
+function objMenuItem(sHTML, sURL, sTarget) {
+	if (sTarget == null) {sTarget = "";}
+
+	this.sHTML = sHTML;
+	this.sURL = sURL;
+	this.sTarget = sTarget;
+}
+// Create the Menu Arrays
+var aryMenu1 = new Array();
+aryMenu1[0] = new objMenuItem('The Rock','','');
+aryMenu1[1] = new objMenuItem('The Rock Girls','','');
+aryMenu1[2] = new objMenuItem('The Street Sheet','','');
+aryMenu1[3] = new objMenuItem('The Other Stuff','','');
+var aryMenu1_1 = new Array();
+aryMenu1_1[0] = new objMenuItem('Metal Shop','/metalshop.asp','');
+aryMenu1_1[1] = new objMenuItem('Loud & Local','/loudnlocal.asp','');
+aryMenu1_1[2] = new objMenuItem('New Music','/newmusic.asp','');
+aryMenu1_1[3] = new objMenuItem('Interviews','/interviews.asp','');
+aryMenu1_1[4] = new objMenuItem('Features','/features.asp','');
+aryMenu1_1[5] = new objMenuItem('Air Staff','/jocks.asp','');
+aryMenu1_1[6] = new objMenuItem('Program Schedule','/programschedule.asp','');
+aryMenu1_1[7] = new objMenuItem('The Rock Report','http://kisw.com/goout.asp?u=http://www.rockdaily.com/rd_news/1,,kisw,00.html','');
+var aryMenu1_2 = new Array();
+aryMenu1_2[0] = new objMenuItem('Meet the Rock Girls','/rockgirls.asp','');
+aryMenu1_2[1] = new objMenuItem('More Rock Girls Photos','/photowall.asp','');
+var aryMenu1_3 = new Array();
+aryMenu1_3[0] = new objMenuItem('KISW on the Streets','/kiswonthestreets.asp','');
+aryMenu1_3[1] = new objMenuItem('Concert Calendar','/concertcalendar.asp','');
+aryMenu1_3[2] = new objMenuItem('Club Calendar','/community/communitycalendar.asp','');
+aryMenu1_3[3] = new objMenuItem('Ticket Exchange','/goout.asp?u=/forum/default.asp','');
+var aryMenu1_4 = new Array();
+aryMenu1_4[0] = new objMenuItem('The Triple 9 Club','/els/','');
+aryMenu1_4[1] = new objMenuItem('Contests','/contests.asp','');
+aryMenu1_4[2] = new objMenuItem('Photos','/photowall.asp','');
+aryMenu1_4[3] = new objMenuItem('Station Info','/stationinfo.asp','');
+aryMenu1_4[4] = new objMenuItem('Advertisers','/advertisers.asp','');
+
+</script>
+
 
 <script language="JavaScript" type="text/JavaScript">
 <!--
@@ -489,7 +230,7 @@ function openFavorites() {
 </script>
 
 </head>
-<body onload="LoadMenus();" bgcolor="#000000" text="#000000" leftmargin="0" topmargin="1" marginwidth="0" marginheight="0">
+<body onload="funPositionMenus();" bgcolor="#000000" text="#000000" leftmargin="0" topmargin="1" marginwidth="0" marginheight="0">
 <table valign="top" width="760" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td align="center" valign="top"><table width="758" border="0" cellspacing="0" cellpadding="0">
@@ -596,7 +337,143 @@ if ( flashenabled ) {
       <table width="750" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td width="2" align="left" background="/images/menu_back.gif"><img src="/images/menu_left.gif" width="2" height="39"></td>
-          <td align="left" valign="top" background="/images/menu_back.gif"><img src="/images/trans.gif" width="15" height="5"><a href="javascript:doNothing();" onmouseover="imageOn('rockofseattle');showText(0,getImgX('rockofseattle'),getImgY('rockofseattle'))" onmouseout="imageOff('rockofseattle');hideText(0)"><img src="/images/both_menu_rockofseattle_off.gif" border="0" alt="Rock of Seattle" name="rockofseattle"></a><img src="/images/trans.gif" width="55" height="5"><a href="javascript:doNothing();" onmouseover="imageOn('kiswrockgirls');showText(1,getImgX('kiswrockgirls'),getImgY('kiswrockgirls'))" onmouseout="imageOff('kiswrockgirls');hideText(1)"><img src="/images/both_menu_kiswrockgirls_off.gif" border="0" alt="KISW Rock Girls" name="kiswrockgirls"></a><img src="/images/trans.gif" width="25" height="5"><a href="javascript:doNothing();" onmouseover="imageOn('kiswstreetsheet');showText(2,getImgX('kiswstreetsheet'),getImgY('kiswstreetsheet'))" onmouseout="imageOff('kiswstreetsheet');hideText(2)"><img src="/images/both_menu_kiswstreetsheet_off.gif" border="0" alt="KISW Street Sheet" name="kiswstreetsheet"></a>
+          <td align="center" valign="center" background="/images/menu_back.gif"><script language="JAVASCRIPT">
+		<!--
+		// Function That Initiates the Menus
+		funCreateNavigation();
+		//-->
+</script><table id="table1" cellpadding="0" cellspacing="0" class="navMainTable"><tbody><tr>
+<td id="td1_1" valign="middle"><div id="div1_1" class="" onmouseover="funShowSub('1_1');" onmouseout="funDelayHideSub('1_1');" style="cursor:default;"><img name="NavImg1_1" id="NavImg1_1" src="https://web.archive.org/images/g_nav_therock_off.gif" border="0"></div>
+</td>
+<td id="td1_2" valign="middle"><div id="div1_2" class="" onmouseover="funShowSub('1_2');" onmouseout="funDelayHideSub('1_2');" style="cursor:default;"><img name="NavImg1_2" id="NavImg1_2" src="https://web.archive.org/images/g_nav_rockgirls_off.gif" border="0"></div>
+</td>
+<td id="td1_3" valign="middle"><div id="div1_3" class="" onmouseover="funShowSub('1_3');" onmouseout="funDelayHideSub('1_3');" style="cursor:default;"><img name="NavImg1_3" id="NavImg1_3" src="https://web.archive.org/images/g_nav_streetsheet_off.gif" border="0"></div>
+</td>
+<td id="td1_4" valign="middle"><div id="div1_4" class="" onmouseover="funShowSub('1_4');" onmouseout="funDelayHideSub('1_4');" style="cursor:default;"><img name="NavImg1_4" id="NavImg1_4" src="https://web.archive.org/images/g_nav_other_off.gif" border="0"></div>
+</td>
+</tr></tbody></table>
+<style type="text/css"><!--
+#sub1_1 {position:absolute; width:0; z-index:1; visibility:hidden;}
+//--></style>
+<div id="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');" style="left: 686px; top: 167px; visibility: hidden;"><layer name="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+<td background="/images/nav_back.gif">
+<table id="table1_1" border="0" class="SubMenuTable" cellpadding="0" cellspacing="0" width="0"><tbody><tr><td>
+<div id="div1_1_2" class="SubMenu" width="0" onmouseover="funShowSub('1_1_2');" onmouseout="funDelayHideSub('1_1_2');" onclick="document.location='/metalshop.asp';" style="cursor:pointer">Metal Shop</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_3" class="SubMenu" width="0" onmouseover="funShowSub('1_1_3');" onmouseout="funDelayHideSub('1_1_3');" onclick="document.location='/loudnlocal.asp';" style="cursor:pointer">Loud &amp; Local</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_4" class="SubMenu" width="0" onmouseover="funShowSub('1_1_4');" onmouseout="funDelayHideSub('1_1_4');" onclick="document.location='/newmusic.asp';" style="cursor:pointer">New Music</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_5" class="SubMenu" width="0" onmouseover="funShowSub('1_1_5');" onmouseout="funDelayHideSub('1_1_5');" onclick="document.location='/interviews.asp';" style="cursor:pointer">Interviews</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_6" class="SubMenu" width="0" onmouseover="funShowSub('1_1_6');" onmouseout="funDelayHideSub('1_1_6');" onclick="document.location='/features.asp';" style="cursor:pointer">Features</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_7" class="SubMenu" width="0" onmouseover="funShowSub('1_1_7');" onmouseout="funDelayHideSub('1_1_7');" onclick="document.location='/jocks.asp';" style="cursor:pointer">Air Staff</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_8" class="SubMenu" width="0" onmouseover="funShowSub('1_1_8');" onmouseout="funDelayHideSub('1_1_8');" onclick="document.location='/programschedule.asp';" style="cursor:pointer">Program Schedule</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_9" class="SubMenu" width="0" onmouseover="funShowSub('1_1_9');" onmouseout="funDelayHideSub('1_1_9');" onclick="document.location='http://kisw.com/goout.asp?u=http://www.rockdaily.com/rd_news/1,,kisw,00.html';" style="cursor:pointer">The Rock Report</div>
+</td></tr></tbody></table>
+</td>
+<td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+</tr>
+<tr>
+<td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+</tr>
+</tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_2 {position:absolute; width:0; z-index:1; visibility:hidden;}
+//--></style>
+<div id="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');" style="left: 702px; top: 167px; visibility: hidden;"><layer name="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+<td background="/images/nav_back.gif">
+<table id="table1_2" border="0" class="SubMenuTable" cellpadding="0" cellspacing="0" width="0"><tbody><tr><td>
+<div id="div1_2_2" class="SubMenu" width="0" onmouseover="funShowSub('1_2_2');" onmouseout="funDelayHideSub('1_2_2');" onclick="document.location='/rockgirls.asp';" style="cursor:pointer">Meet the Rock Girls</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2_3" class="SubMenu" width="0" onmouseover="funShowSub('1_2_3');" onmouseout="funDelayHideSub('1_2_3');" onclick="document.location='/photowall.asp';" style="cursor:pointer">More Rock Girls Photos</div>
+</td></tr></tbody></table>
+</td>
+<td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+</tr>
+<tr>
+<td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+</tr>
+</tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_3 {position:absolute; width:0; z-index:1; visibility:hidden;}
+//--></style>
+<div id="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');" style="left: 718px; top: 167px; visibility: hidden;"><layer name="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+<td background="/images/nav_back.gif">
+<table id="table1_3" border="0" class="SubMenuTable" cellpadding="0" cellspacing="0" width="0"><tbody><tr><td>
+<div id="div1_3_2" class="SubMenu" width="0" onmouseover="funShowSub('1_3_2');" onmouseout="funDelayHideSub('1_3_2');" onclick="document.location='/kiswonthestreets.asp';" style="cursor:pointer">KISW on the Streets</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_3" class="SubMenu" width="0" onmouseover="funShowSub('1_3_3');" onmouseout="funDelayHideSub('1_3_3');" onclick="document.location='/concertcalendar.asp';" style="cursor:pointer">Concert Calendar</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_4" class="SubMenu" width="0" onmouseover="funShowSub('1_3_4');" onmouseout="funDelayHideSub('1_3_4');" onclick="document.location='/community/communitycalendar.asp';" style="cursor:pointer">Club Calendar</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_5" class="SubMenu" width="0" onmouseover="funShowSub('1_3_5');" onmouseout="funDelayHideSub('1_3_5');" onclick="document.location='/goout.asp?u=/forum/default.asp';" style="cursor:pointer">Ticket Exchange</div>
+</td></tr></tbody></table>
+</td>
+<td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+</tr>
+<tr>
+<td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+</tr>
+</tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_4 {position:absolute; width:0; z-index:1; visibility:hidden;}
+//--></style>
+<div id="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');" style="left: 734px; top: 167px; visibility: hidden;"><layer name="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+<td background="/images/nav_back.gif">
+<table id="table1_4" border="0" class="SubMenuTable" cellpadding="0" cellspacing="0" width="0"><tbody><tr><td>
+<div id="div1_4_2" class="SubMenu" width="0" onmouseover="funShowSub('1_4_2');" onmouseout="funDelayHideSub('1_4_2');" onclick="document.location='/els/';" style="cursor:pointer">The Triple 9 Club</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_3" class="SubMenu" width="0" onmouseover="funShowSub('1_4_3');" onmouseout="funDelayHideSub('1_4_3');" onclick="document.location='/contests.asp';" style="cursor:pointer">Contests</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_4" class="SubMenu" width="0" onmouseover="funShowSub('1_4_4');" onmouseout="funDelayHideSub('1_4_4');" onclick="document.location='/photowall.asp';" style="cursor:pointer">Photos</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_5" class="SubMenu" width="0" onmouseover="funShowSub('1_4_5');" onmouseout="funDelayHideSub('1_4_5');" onclick="document.location='/stationinfo.asp';" style="cursor:pointer">Station Info</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_6" class="SubMenu" width="0" onmouseover="funShowSub('1_4_6');" onmouseout="funDelayHideSub('1_4_6');" onclick="document.location='/advertisers.asp';" style="cursor:pointer">Advertisers</div>
+</td></tr></tbody></table>
+</td>
+<td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+</tr>
+<tr>
+<td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+</tr>
+</tbody></table></layer></div>
+<noscript><a href="/metalshop.asp">Metal Shop</a><br>
+<a href="/loudnlocal.asp">Loud & Local</a><br>
+<a href="/newmusic.asp">New Music</a><br>
+<a href="/interviews.asp">Interviews</a><br>
+<a href="/features.asp">Features</a><br>
+<a href="/jocks.asp">Air Staff</a><br>
+<a href="/programschedule.asp">Program Schedule</a><br>
+<a href="http://kisw.com/goout.asp?u=http://www.rockdaily.com/rd_news/1,,kisw,00.html">The Rock Report</a><br>
+<a href="/rockgirls.asp">Meet the Rock Girls</a><br>
+<a href="/photowall.asp">More Rock Girls Photos</a><br>
+<a href="/kiswonthestreets.asp">KISW on the Streets</a><br>
+<a href="/concertcalendar.asp">Concert Calendar</a><br>
+<a href="/community/communitycalendar.asp">Club Calendar</a><br>
+<a href="/goout.asp?u=/forum/default.asp">Ticket Exchange</a><br>
+<a href="/els/">The Triple 9 Club</a><br>
+<a href="/contests.asp">Contests</a><br>
+<a href="/photowall.asp">Photos</a><br>
+<a href="/stationinfo.asp">Station Info</a><br>
+<a href="/advertisers.asp">Advertisers</a><br>
+</noscript>
 </td>
           <td width="2" align="right" valign="top" background="/images/menu_back.gif"><img src="/images/menu_right.gif" width="2" height="39"></td>
         </tr>
@@ -640,13 +517,27 @@ if ( flashenabled ) {
                             <td align="center" valign="top" background="/images/trans.gif"> 
                               <table width="159" border="0" cellspacing="0" cellpadding="5" background="/images/trans.gif">
                                <tbody><tr>
-<td align="center"><a target="_blank" href="/ad/click.asp?adID=15325&amp;adRunID=22486"><img src="http://images.radcity.net/3006/763068.gif" border="0" alt="Merit Financial"></a></td>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=4487&amp;adRunID=15167"><img src="http://images.radcity.net/PublicService/adc_pca_stove_130x100_fmw.gif" border="0" alt="Prevent Child Abuse"></a></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" href="/ad/click.asp?adID=5350&amp;adRunID=10106"><img src="http://images.radcity.net/ads/tiles/Hilton-Tile.gif" border="0" alt="Hilton Los Cabos"></a></td>
+<td align="center"><script type="text/javascript"><!--
+google_ad_client = "pub-3847498974067579";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_channel ="6267851174";
+google_ad_type = "text";
+google_color_border = "333333";
+google_color_bg = "FF3911";
+google_color_link = "FFFFFF";
+google_color_url = "FFFFFF";
+google_color_text = "FFFFFF";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" href="/ad/click.asp?adID=17701&amp;adRunID=25086"><img src="http://images.radcity.net/3006/856992.gif" border="0" alt="1-800-TAXICAB"></a></td>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=12596&amp;adRunID=15167"><img src="http://images.radcity.net/ads/tiles/PSA_JusticeForChildren.gif" border="0" alt="Justice For Children"></a></td>
 </tr>
 <tr>
 <td align="center"><script type="text/javascript"><!--
@@ -716,7 +607,7 @@ google_color_text = "FFFFFF";
                 <td align="center" valign="top" background="/images/trans.gif">
 					<table width="517" border="0" cellspacing="0" cellpadding="5">
 					  <tbody><tr> 
-					    <td align="center" valign="top"><a target="_blank" href="/ad/click.asp?adID=4485&amp;adRunID=15166"><img src="http://images.radcity.net/PublicService/adc_pca_closet.gif" border="0" alt="Prevent Child Abuse"></a></td>
+					    <td align="center" valign="top"><a target="_blank" href="/ad/click.asp?adID=145&amp;adRunID=15166"><img src="http://ad.doubleclick.net/ad/N1395.firstmediaworks/B45822;sz=468x60;ord=[timestamp]?" border="0" alt="Click here to learn more!"></a></td>
 					  </tr>
 					</tbody></table>
 					<table width="517" border="0" cellspacing="0" cellpadding="0">
@@ -945,7 +836,40 @@ google_color_text = "FFFFFF";
       <table width="729" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td width="2" background="/images/both_footer_back.gif"><img src="/images/both_footer_left.gif" width="2" height="40"></td>
-          <td width="725" align="center" background="/images/both_footer_back.gif"><a href="javascript:printWindow();" onmouseover="imageOn('print')" onmouseout="imageOff('print')"><img src="/images/both_menu_bottom_print_off.gif" border="0" alt="Print this Page" name="print"></a><a href="javascript:openFavorites();" onmouseover="imageOn('bookmark')" onmouseout="imageOff('bookmark')"><img src="/images/both_menu_bottom_bookmark_off.gif" border="0" alt="Bookmark This Page" name="bookmark"></a><a href="/sendpage.asp" onmouseover="imageOn('send')" onmouseout="imageOff('send')"><img src="/images/both_menu_bottom_send_off.gif" border="0" alt="Send to a Friend" name="send"></a></td>
+          <td width="725" align="center" background="/images/both_footer_back.gif">
+<script language="Javascript">
+<!--
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 3 )))
+
+
+printon = new Image();
+printoff = new Image();
+printoff.src = "/images/both_menu_bottom_print_off.gif";
+printon.src = "/images/both_menu_bottom_print_on.gif";
+bookmarkon = new Image();
+bookmarkoff = new Image();
+bookmarkoff.src = "/images/both_menu_bottom_bookmark_off.gif";
+bookmarkon.src = "/images/both_menu_bottom_bookmark_on.gif";
+sendon = new Image();
+sendoff = new Image();
+sendoff.src = "/images/both_menu_bottom_send_off.gif";
+sendon.src = "/images/both_menu_bottom_send_on.gif";
+
+
+	function imageOff(IMGName) {
+		if (browser) {
+			document[IMGName].src = eval(IMGName + "off.src"); 
+		}
+	}
+	
+	function imageOn(IMGName) {
+		if (browser) { 
+			document[IMGName].src = eval(IMGName + "on.src"); 
+		}		
+	}
+//-->
+</script>
+<a href="javascript:printWindow();" onmouseover="imageOn('print')" onmouseout="imageOff('print')"><img src="/images/both_menu_bottom_print_off.gif" border="0" alt="Print this Page" name="print"></a><a href="javascript:openFavorites();" onmouseover="imageOn('bookmark')" onmouseout="imageOff('bookmark')"><img src="/images/both_menu_bottom_bookmark_off.gif" border="0" alt="Bookmark This Page" name="bookmark"></a><a href="/sendpage.asp" onmouseover="imageOn('send')" onmouseout="imageOff('send')"><img src="/images/both_menu_bottom_send_off.gif" border="0" alt="Send to a Friend" name="send"></a></td>
           <td width="2" align="right" background="/images/both_footer_back.gif"><img src="/images/both_footer_right.gif" width="2" height="40"></td>
         </tr>
       </tbody></table> 
@@ -959,12 +883,12 @@ google_color_text = "FFFFFF";
 </tbody></table>
 <table align="center" width="729" border="0" cellspacing="0" cellpadding="5">
   <tbody><tr>
-    <td align="center" valign="middle" class="gCopyright"><font class="gCopyright">Copyright © 2004 Entercom Seattle-Tacoma, LLC <br> and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a> - All Rights Reserved<br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=kisw.com">Powered by First MediaWorks</a></font>
+    <td align="center" valign="middle" class="gCopyright"><font class="gCopyright">Copyright © 2005 Entercom Seattle-Tacoma, LLC <br> and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a> - All Rights Reserved<br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=www.kisw.com">Powered by First MediaWorks</a></font>
 <script language="Javascript">
 <!--
 function displayNotice()
 {
-noteWin = window.open("http://firstmediaworks.com/PopUpCopyrightNotice.asp?d=kisw.com", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
+noteWin = window.open("http://firstmediaworks.com/PopUpCopyrightNotice.asp?d=www.kisw.com", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
 noteWin.focus();
 }
 //-->
@@ -974,182 +898,5 @@ noteWin.focus();
 </tbody></table>
 
 
-<div id="sub0" style="width:200px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(0);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(0);"> 
-<table border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-            <td id="rockofseattle_td" background="/images/nav_back.gif" onmouseover="BGimageOn('rockofseattle')"><table border="0" cellspacing="0" cellpadding="5">
-                <tbody><tr> 
-                  <td align="left" valign="top">
-                   
-                   <a class="gNavText" href="/jocks.asp">Air Staff</a><br>
-                   
-                   <a class="gNavText" href="/metalshop.asp">Metal Shop</a><br>
-                   
-                   <a class="gNavText" href="/interviews.asp">Interviews</a><br>
-                   
-                   <a class="gNavText" href="/goout.asp?u=http://www.rockdaily.com/rd_news/1,,kisw,00.html">Rock Report</a><br>
-                   
-                   <a class="gNavText" href="/programschedule.asp">Program Schedule</a><br>
-                   
-                   <a class="gNavText" href="/onairfeatures.asp">Features</a><br>
-                   
-                   <a class="gNavText" href="/els/elsloginfrm.asp">Triple 9 Club</a><br>
-                   
-                   <a class="gNavText" href="/contests.asp">Contests</a><br>
-                   
-                   <a class="gNavText" href="/stationinfo.asp">Station Info</a><br>
-                   
-                   <a class="gNavText" href="/advertisers.asp">Advertisers</a><br>
-                   
-                   </td>
-                </tr>
-              </tbody></table></td>
-            <td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-          </tr>
-          <tr> 
-            <td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
-          </tr>
-        </tbody></table>
-</layer></div>
-<div id="sub1" style="width:200px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(1);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(1);"> 
-<table border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-            <td id="kiswrockgirls_td" background="/images/nav_back.gif" onmouseover="BGimageOn('kiswrockgirls')"><table border="0" cellspacing="0" cellpadding="5">
-                <tbody><tr> 
-                  <td align="left" valign="top">
-                   
-                   <a class="gNavText" href="/rockgirls.asp">Meet the Rock Girls</a><br>
-                   
-                   <a class="gNavText" href="/photowall.asp">More Rock Girls Photos</a><br>
-                   
-                   </td>
-                </tr>
-              </tbody></table></td>
-            <td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-          </tr>
-          <tr> 
-            <td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
-          </tr>
-        </tbody></table>
-</layer></div>
-<div id="sub2" style="width:200px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(2);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(2);"> 
-<table border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-            <td id="kiswstreetsheet_td" background="/images/nav_back.gif" onmouseover="BGimageOn('kiswstreetsheet')"><table border="0" cellspacing="0" cellpadding="5">
-                <tbody><tr> 
-                  <td align="left" valign="top">
-                   
-                   <a class="gNavText" href="/kiswonthestreets.asp">KISW On the Streets</a><br>
-                   
-                   <a class="gNavText" href="/concertcalendar.asp">Concert Calendar</a><br>
-                   
-                   <a class="gNavText" href="/community/communitycalendar.asp">Clubs</a><br>
-                   
-                   <a class="gNavText" href="/goout.asp?u=/forum/default.asp">Ticket Exchange</a><br>
-                   
-                   <a class="gNavText" href="/photowall.asp">KISW Photos</a><br>
-                   
-                   </td>
-                </tr>
-              </tbody></table></td>
-            <td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-          </tr>
-          <tr> 
-            <td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
-          </tr>
-        </tbody></table>
-</layer></div>
 
-<div id="sub3" style="width:200px;height:200px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(3);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(3);"> 
-  <table width="220" border="0" align="center" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-      <td><table border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
-            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-          </tr>
-          <tr>
-            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
-            <td align="left" valign="middle" background="/images/nav_back.gif"> 
-              <table border="0" cellspacing="0" cellpadding="2">
-                <tbody><tr> 
-                   <td align="left" valign="top" class="gNavText">
-                   <a target="_top" class="gNavText" href="/jocks.asp">Air Staff</a><br>
-                   <a target="_top" class="gNavText" href="/metalshop.asp">Metal Shop</a><br>
-                   <a target="_top" class="gNavText" href="/interviews.asp">Interviews</a><br>
-                   <a target="_top" class="gNavText" href="/goout.asp?u=http://www.rockdaily.com/rd_news/1,,kisw,00.html">Rock Report</a><br>
-                   <a target="_top" class="gNavText" href="/programschedule.asp">Program Schedule</a><br></td>
-                  <td align="left" valign="top" class="gNavText"><a target="_top" class="gNavText" href="/els/elsloginfrm.asp">Triple 9 Club</a><br><a target="_top" class="gNavText" href="/contests.asp">Contests</a><br><a target="_top" class="gNavText" href="/stationinfo.asp">Station Info</a><br><a target="_top" class="gNavText" href="/advertisers.asp">Advertisers</a><br></td>
-                </tr>
-              </tbody></table></td>
-            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
-          </tr>
-          <tr>
-            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
-            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-          </tr>
-        </tbody></table></td>
-    </tr>
-  </tbody></table>
-</layer></div>
-<div id="sub4" style="width:200px;height:50px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(4);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(4);"> 
-  <table width="220" border="0" align="center" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-      <td><table border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
-            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-          </tr>
-          <tr>
-            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
-            <td align="left" valign="middle" background="/images/nav_back.gif"> 
-              <table border="0" cellspacing="0" cellpadding="2">
-                <tbody><tr> 
-                  <td align="left" valign="top" class="gNavText"><a target="_top" class="gNavText" href="/rockgirls.asp">Meet the Rock Girls</a><br><a target="_top" class="gNavText" href="/photowall.asp">More Rock Girls Photos</a><br></td>
-                </tr>
-              </tbody></table></td>
-            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
-          </tr>
-          <tr>
-            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
-            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-          </tr>
-        </tbody></table></td>
-    </tr>
-  </tbody></table>
-</layer></div>
-<div id="sub5" style="width:200px;height:50px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(5);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(5);"> 
-  <table width="220" border="0" align="center" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-      <td><table border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
-            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-          </tr>
-          <tr>
-            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
-            <td align="left" valign="middle" background="/images/nav_back.gif"> 
-              <table border="0" cellspacing="0" cellpadding="2">
-                <tbody><tr> 
-                  <td align="left" valign="top" class="gNavText"><a target="_top" class="gNavText" href="/kiswonthestreets.asp">KISW On the Streets</a><br><a target="_top" class="gNavText" href="/concertcalendar.asp">Concert Calendar</a><br><a target="_top" class="gNavText" href="/community/communitycalendar.asp">Clubs</a><br><a target="_top" class="gNavText" href="/goout.asp?u=/forum/default.asp">Ticket Exchange</a><br><a target="_top" class="gNavText" href="/photowall.asp">KISW Photos</a><br></td>
-                </tr>
-              </tbody></table></td>
-            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
-          </tr>
-          <tr>
-            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
-            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
-          </tr>
-        </tbody></table></td>
-    </tr>
-  </tbody></table>
-</layer></div></body></html>
+</body></html>
