@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2002-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021104003659id_/http%3A//wings.buffalo.edu/computing/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601123911id_/http%3A//wings.buffalo.edu/computing/policies/privacy) for the most accurate reproduction.*
 
 # University at Buffalo - Privacy Policy
 
   |    
 **The University at Buffalo's Privacy Policy - Draft v.2**   
-(Updated 7.10.2002) **Introduction**
+(Updated 3.19.2003) **Introduction**
 
 Thank you for visiting this University at Buffalo (UB) website. This website is designed to make it easier and more efficient for individuals and businesses to interact with the University at Buffalo. The University at Buffalo recognizes that it is critical for individuals and businesses to be confident that their privacy is protected when they visit UB websites. 
 
@@ -76,21 +76,21 @@ UB may also disclose _personal information_ to federal, state or local law enfor
 
 **Retention of Information Collected Through this Website**
 
-The information collected through this website is retained by the University at Buffalo in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at <http://www.archives.nysed.gov/services/recmgmt.htm>. In general, the Internet services logs of UB, comprising electronic files or automated logs created to monitor access and use of Agency services provided through this website, are retained for 180 days and then destroyed, or for a period specified in a website Ð specific addendum to this policy. Information, including _personal information_ , that you submit in an e-mail or when you complete a survey, application, financial transaction, registration form, or order form is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information. Information concerning these records retention and disposition schedules may be obtained through the privacy compliance officer. 
+The information collected through this website is retained by the University at Buffalo in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at <http://www.archives.nysed.gov/services/recmgmt.htm>. In general, the Internet services logs of UB, comprising electronic files or automated logs created to monitor access and use of Agency services provided through this website, are retained for 180 days and then destroyed, or for a period specified in a website Ð specific addendum to this policy. Information, including _personal information_ , that you submit in an e-mail or when you complete a survey, application, financial transaction, registration form, or order form is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information. Information concerning these records retention and disposition schedules may be obtained through the privacy compliance office. 
 
 **Access to and Correction of Personal Information Collected Through this Website**
 
-Any _user_ may submit a request to the University at Buffalo privacy compliance officer to determine whether _personal information_ pertaining to that _user_ has been collected through this website. Any such request shall be made in writing and must be accompanied by reasonable proof of identity of the _user_. Reasonable proof of identity may include verification of a signature, inclusion of an identifier generally known only to the _user_ , or similar appropriate identification. The address of the privacy compliance officer is: 
+Any _user_ may submit a request to the University at Buffalo privacy compliance office to determine whether _personal information_ pertaining to that _user_ has been collected through this website. Any such request shall be made in writing and must be accompanied by reasonable proof of identity of the _user_. Reasonable proof of identity may include verification of a signature, inclusion of an identifier generally known only to the _user_ , or similar appropriate identification. The address of the privacy compliance office is: 
 
-> > Privacy Compliance Officer  
+> > Privacy Compliance Office  
 >  c/o The Office of the CIO  
 >  517 Capen Hall  
 >  University at Buffalo  
 >  Buffalo, New York 14260 
 
-The privacy compliance officer shall, within five (5) business days of the receipt of a proper request, provide access to the _personal information_ ; deny access in writing, explaining the reasons therefore; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment. 
+The privacy compliance office shall, within five (5) business days of the receipt of a proper request, provide access to the _personal information_ ; deny access in writing, explaining the reasons therefore; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment. 
 
-In the event that UB has collected _personal information_ pertaining to a _user_ through the UB website and that information is to be provided to the _user_ pursuant to the _user's_ request, the privacy compliance officer shall inform the _user_ of his or her right to request that the _personal information_ be amended or corrected under the procedures set forth in section 95 of the Public Officers Law. 
+In the event that UB has collected _personal information_ pertaining to a _user_ through the UB website and that information is to be provided to the _user_ pursuant to the _user's_ request, the privacy compliance office shall inform the _user_ of his or her right to request that the _personal information_ be amended or corrected under the procedures set forth in section 95 of the Public Officers Law. 
 
 **Confidentiality and Integrity of Personal Information Collected Through this Website**
 
@@ -110,7 +110,7 @@ For questions regarding this Internet privacy policy, please contact:
 
 |  (via e-mail)| [privacy@buffalo.edu](mailto:privacy@buffalo.edu)  
 ---|---  
-(via regular mail)|  Privacy Compliance Officer  
+(via regular mail)|  Privacy Compliance Office  
 c/o The Office of the CIO  
 517 Capen Hall  
 University at Buffalo  
