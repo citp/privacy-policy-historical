@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the allure.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611014846id_/http%3A//www.allure.com/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allure.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023055id_/http%3A//www.allure.com/services/privacypolicy.html) for the most accurate reproduction.*
 
-# CondéNet and Condé Nast Magazines: Allure: Privacy Policy
+# ALLURE : SERVICES
 
-|    
 |   
+---  
+CondéNet and Condé Nast Magazines: Allure: Privacy Policy |  |    
+|   
+---|---|---  
 |  |   
 |  |   
 |  |   
@@ -16,7 +19,7 @@ Last Revised June 27, 2002
 
 Kids and parents click here! 
 
-In addition to reviewing this privacy policy, please read our [User Agreement](http://allure.com/site/useragreement.html). Your use of Allure.com constitutes agreement to its terms and conditions.
+In addition to reviewing this privacy policy, please read our [User Agreement](http://www.allure.com/services/useragreement.html). Your use of Allure.com constitutes agreement to its terms and conditions.
 
 Allure.com is produced by CondéNet, Inc. This policy does not cover information collected on sites linked to from Allure.com.
 
