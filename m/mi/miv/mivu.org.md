@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609171045id_/http%3A//mivu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204061217id_/http%3A//www.mivu.org/privacy) for the most accurate reproduction.*
 
 # Michigan Virtual University - Privacy Statement
 
@@ -16,8 +16,7 @@ This page describes the ways in which Michigan Virtual University, a Michigan no
 [backpack.mivhs.org](http://backpack.mivhs.org/)  
 [www.mois.org](http://www.mois.org/)   
 [www.learnport.org](http://www.learnport.org/)  
-[www.mydreamexplorer.org](http://www.mydreamexplorer.org/), and   
-[www.operationupgrade.org](http://www.operationupgrade.org/). 
+[www.mydreamexplorer.org](http://www.mydreamexplorer.org/)
 
 We provide a variety of information, features, and functions (the “Services”) through these Web sites.
 
