@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014095911id_/http%3A//www.thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604085652id_/http%3A//thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy statement for the quality web hosting solutions company - ThinkHost
 
