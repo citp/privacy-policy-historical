@@ -1,9 +1,31 @@
-> *The following text is extracted and transformed from the snowmobileworld.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614133726id_/http%3A//www.snowmobileworld.com/privacy/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowmobileworld.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202205931id_/http%3A//www.snowmobileworld.com/privacy) for the most accurate reproduction.*
 
-# Snowmobile World.com: Privacy Information
+# Snowmobile World.com: Snowmobile Site Privacy Information
 
-**_Shop@SnowmobileWorld:_  
-When buying products from SnowmobileWorld’s store you will have to enter personal identifying information and financial information such a credit card numbers. This is done via SnowmobileWorld’s secure server. The information is used only to process your order and for no other purpose. All personal data is held offline.
+**Snowmobile World Site Privacy Information**
+
+**PRIVACY POLICY**
+
+SnowmobileWorld takes very seriously the issue of safeguarding your privacy online. Please read the following to understand our views and practices regarding this matter, and how they pertain to you as you make full use of the Site (SnowmobileWorld.com). This statement discloses the privacy practices for our Site:
+
+ **  
+_FREQUENTLY ASKED QUESTIONS_**
+
+Does SnowmobileWorld ask for personal information?
+
+In general, you are not required to divulge any personal information in order to read the content on the Site. However you may be asked for some information when accessing certain areas of the Site such as;
+
+_Mailing lists:_  
+When subscribing to any Site mailing list you will have to supply your email address in order to receive the Email. Lists of the subscribers and their email addresses ARE NOT sold or otherwise distributed to anyone. 
+
+_Message Forum:_  
+You may be asked to supply a name and your email address to prevent abuse of our system. This information is not used for any other purpose. Your email address will NEVER be sold or distributed to anyone. Please note that all communications, public and private are recorded in the forums and is reviewed periodically to address site security issues and problem users.
+
+_Chat Room:_  
+Please note that **all** communications, public and private are recorded in Chat Room in log form and is reviewed to address site security issues and problem users.
+
+_Contests or Sweepstakes:_  
+In order to enter any of SnowmobileWorld's contests or sweepstakes you will be required to enter certain personal identifying information such as your name, address and phone number and may be asked certain demographic information as well. The necessary identifying information such as names and addresses may be supplied to the companies furnishing the prizes for these contests. The demographic information, without any specific personal identifiers, is used by SnowmobileWorld to develop summarized demographic information about our readership. Companies sponsoring contests or sweepstakes in direct partnership with SnowmobileWorld agree not to sell or distribute the information derived from that contest. 
 
 _Site Advertisers:_  
 SnowmobileWorld is an advertising supported Site. Companies may run ads on our Site and those ads may lead to the companies' web sites and/or product order forms. Those sites, ads or order forms, whether hosted on or off our Site, may ask you for certain specific information. SnowmobileWorld has no control over what these outside companies may do with the information that you supply them.
@@ -13,7 +35,9 @@ Companies or individuals seeking information about advertising on SnowmobileWorl
 
 How does SnowmobileWorld use my personal information?  
   
-SnowmobileWorld's goal in collecting the limited personal information it does is to provide you, the user, with the best web experience possible and to prevent the abuse of our services.What if I make a purchase through a site hosted by SnowmobileWorld or a merchant who advertises on SnowmobileWorld?
+SnowmobileWorld's goal in collecting the limited personal information it does is to provide you, the user, with the best web experience possible and to prevent the abuse of our services.
+
+What if I make a purchase through a site hosted by SnowmobileWorld or a merchant who advertises on SnowmobileWorld?
 
 If you place an order at a merchant site hosted by SnowmobileWorld or with a merchant advertising on SnowmobileWorld, they may collect information from you, including your credit card and contact information. This information will be used by the merchant. SnowmobileWorld does not own these businesses and all transactions and use of any customer information are the sole responsibility of the merchant. For further information regarding the merchant’s use of customer information, contact that business or merchant directly. 
 
@@ -35,10 +59,13 @@ SnowmobileWorld collects IP addresses for the purposes of system administration 
 
 What else should I know about my privacy?
 
-Please keep in mind that whenever you voluntarily post or disclose personal information online - for example on message boards, through email, or in chat areas - that same information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+It is also important to note that no area on the site is 100% completely private. Private messages in the message forum are stored in a database until deleted by the user, and until deleted, can be read by the site admin to investigate possible site security issues or identify problem users. The Chat used on this site also keeps a "running" log on all communications, public and private, that takes place in the Chat. A copy of this log is sent to the site admin daily and is reviewed, again, to guard against problem users or site security issues.
+
+Please keep in mind that whenever you voluntarily post or disclose personal information online - for example on message boards, through email, or in chat areas - that same information can be collected and used by others or by this site. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
 
 Furthermore, while we endeavor to take all reasonable precautions to protect your personal information, SnowmobileWorld cannot guarantee or warrant the security of any information you transmit to us, and you do so at your own risk.
 
 In addition, SnowmobileWorld advertisers, merchants, partners, and third party Internet sites and services accessible through or linked to SnowmobileWorld or parties whom we inform you are collecting data in connection with sweepstakes, promotions, etc., have separate privacy and data collection practices, independent of us. SnowmobileWorld has no control over, or responsibility for or liability in regards to these independent policies or actions.
 
-REMEMBER: You are solely responsible for protecting your personal information and the secrecy of your passwords and/or account information. Please be careful and responsible whenever you’re online. We do not have any control over sites that may advertise with us, or merchants that may have various forms of advertising, sites, or storefronts on our servers, or sites which may be linked to us. However, if you become aware of any privacy abuses by any of those merchants, sites or services please inform us so we can take necessary action. **
+REMEMBER: You are solely responsible for protecting your personal information and the secrecy of your passwords and/or account information. Please be careful and responsible whenever you’re online. We do not have any control over sites that may advertise with us, or merchants that may have various forms of advertising, sites, or storefronts on our servers, or sites which may be linked to us. However, if you become aware of any privacy abuses by any of those merchants, sites or services please inform us so we can take necessary action.   
+
