@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202073213id_/http%3A//www.commerce.gov/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603175025id_/http%3A//www.commerce.gov/privacystatement.html) for the most accurate reproduction.*
 
 # Department of Commerce Home Page - Commerce Privacy Statement
 
@@ -33,9 +33,9 @@ Some of our web pages contain links to web sites outside the Department of Comme
 > 
 > **...to send us e-mail:** By sending us an electronic mail message (for example, an e-mail message containing an official Freedom of Information Act request), you may be sending us personally-identifying information. In these cases, we may retain the information as long as necessary to respond to your request or otherwise resolve the subject matter of your e-mail. Please be aware that email is not necessarily secure from interception or misdirection. For your own protection you may wish to communicate sensitive information using a method other than email.
 
-We want to be very clear: **regardless of the information being transmitted to any unit of the Department of Commerce, we will protect all such information consistent with applicable law** including, but not limited to, the [Privacy Act of 1974 and the Freedom of Information Act](http://www4.law.cornell.edu/uscode/5/552.html). It is also the policy of the Department to follow the [Principles for Providing and Using Personal Information](http://www.iitf.nist.gov/ipc/ipc/ipc-pubs/niiprivprin_final.html) ("Privacy Principles"), published by the Information Infrastructure Task Force on June 6, 1995.
+We want to be very clear: **regardless of the information being transmitted to any unit of the Department of Commerce, we will protect all such information consistent with applicable law** including, but not limited to, the [Privacy Act of 1974 and the Freedom of Information Act](http://www4.law.cornell.edu/uscode/5/552.html). It is also the policy of the Department to follow the **Principles for Providing and Using Personal Information** ("Privacy Principles"), published by the Information Infrastructure Task Force on June 6, 1995.
 
   
   
 [  
-](https://web.archive.org/web/20021202073213id_/http%3A//www.commerce.gov/bureau_acronyms.html)[](https://web.archive.org/web/20021202073213id_/http%3A//www.commerce.gov/bureau_acronyms.html)
+](https://web.archive.org/web/20030603175025id_/http%3A//www.commerce.gov/bureau_acronyms.html)[](https://web.archive.org/web/20030603175025id_/http%3A//www.commerce.gov/bureau_acronyms.html)
