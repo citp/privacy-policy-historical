@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605041713id_/http%3A//carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208070405id_/http%3A//carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
 
 # Privacy Policy : carsales.com.au
-
-carsales.com.au Ltd. is bound by the National Principles under the Privacy Act 1988. A copy of the National Principles are available for your perusal at our premises or you may access a copy from the Office of the Federal Privacy Commissioner. 
 
 carsales.com.au Ltd. provides the following privacy statement: 
 
@@ -11,13 +9,9 @@ This privacy policy does not apply to parties that may be linked or associated w
 **What information does carsales.com.au Ltd. collect?**  
 carsales.com.au Limited records information from persons who visit websites operated by carsales.com.au*(see end of this page) and or create an online advertisement, complete online forms, complete surveys or send us emails. This information is collected for business purposes. The types of information we keep on record will depend on the advertisement that you create, or the type of form or survey you complete or the product or service you request. Generally we keep a record of the following types of information about you: 
 
-It is not compulsory for you to provide us with your personal information which we may have requested from you for us to perform a service for you, however, without the specified information, we may not be able to fulfil your request or provide you with the service you require. 
-
 Cookies may be used to store visitors' preferences and to record session information. 
 
 When you visit carsales.com.au, the following information is recorded for statistical purposes: 
-
-**Note:** No attempt will be made to identify individual users with their browsing activities, except in the unlikely event of an investigation, where the law enforcement agency may warrant to inspect the Internet log files. 
 
 **Note:** Some information disclosed to carsales.com.au is passed on to other organisations or individuals so that they can help with browser inquiries; details are described below. Other than what is described below, carsales.com.au will not pass on or sell information that relates to, or can be used to identify any individuals. 
 
@@ -51,12 +45,11 @@ carsales.com.au may undertake surveys to determine your use and satisfaction in 
 **Other Online Forms:**  
 When completing online forms for: 
 
-  * **News and special offers from carsales.com.au Ltd.** , you will be contacted by carsales.com.au via email with newsletters and details of special offers as per your request. You can opt out from this service at any time by following the instructions included in the newsletter or special offers sent to you or by clicking on the "contact us" link at the bottom of this page. 
-  * **Auto Alerts** , you will be contacted by carsales via email updating you on the latest vehicles as per your request. 
-  * **Email a Friend** , the details of the vehicle selected will be forwarded to the email addresses you supply to carsales.com.au. 
+  * **News and special offers from carsales.com.au Ltd.** , you will be contacted by carsales.com.au via email with newsletters and details of special offers as per your request. You can opt out from this service at any time by following the instructions included in the newsletter or special offers sent to you or by clicking on the "contact us" link at the bottom of this page.
+  * **Auto Alerts** , you will be contacted by carsales via email updating you on the latest vehicles as per your request.
+  * **Email a Friend** , the details of the vehicle selected will be forwarded to the email addresses you supply to carsales.com.au.
 
-
-
+  
 All information received from browsers is stored in a secure (see security) format for carsales.com.au's own use. 
 
 If you send us an email we will use your personal information to respond to your request. 
@@ -85,16 +78,20 @@ From time to time, we may use customer information for new, unanticipated uses n
 **Contact Information**  
 Contact details for carsales.com.au Ltd. are as follows:
 
-Address: | 1/144 Highbury Road, Burwood VICTORIA 3125  
+Location: | Level 2, 810 Whitehorse Road, Box Hill VIC 3128  
 ---|---  
-Phone No: | +61 3 9805 3600 (Business Hours EST)  
+Postal Address:    | PO Box 643, Box Hill VIC 3128  
+Phone: | +61 (03) 8803 3000 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click](https://web.archive.org/web/20040605041713id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
+Email: | [Click](https://web.archive.org/web/20041208070405id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
   
-We will try our best to answer any queries as quickly as possible.  
- 
+We will try our best to answer any queries as quickly as possible.
 
-1 | "OPT OUT" is the description of a link on an email which when clicked enables the customer to request that their data nolonger be included for this use.  
+1 | "OPT OUT" is the description of a link on an email which when clicked enables the customer to request that their data no longer be included for this use.  
 ---|---  
   
-*carsales.com.au Ltd operates websites including [www.carsales.com.au](http://www.carsales.com.au/), [www.bikesales.com.au](http://www.bikesales.com.au/) and pages on other websites that may publish our content. 
+*carsales.com.au Ltd operates websites including [www.carsales.com.au](http://www.carsales.com.au/), [www.bikesales.com.au](http://www.bikesales.com.au/), [www.quicksales.com.au](http://www.quicksales.com.au/), 
+
+[www.autogate.com.au](http://www.autogate.com.au/) and pages on other websites that may publish our content. 
+
+**Return to Top**
