@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsj.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610200358id_/http%3A//online.wsj.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsj.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202205746id_/http%3A//online.wsj.com/public/privacy_policy) for the most accurate reproduction.*
 
 # WSJ.com - Privacy Policy
 
@@ -34,14 +34,14 @@ Except as specifically set forth in this Privacy Policy, we will not share your 
 
 We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Subscriber Agreement or Terms of Use (for example, when necessary to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law requires us to do so. 
 
-**Voices**  
-Our Voices section provides you with an opportunity to tell us what you think and read what other readers have to say. When you use our Voices features (for example, by posting a message on our Discussions message boards or responding to our Question of the Day), we may make public any information that you provide including your name, location and e-mail address. 
+**Discussions**  
+Our Discussions section provides you with an opportunity to tell us what you think and read what other readers have to say. When you use our Discussions features (for example, by posting a message on our Discussions message boards, responding to our Question of the Day or by participating in our E-mail Express Yourself forum), we may make public any information that you provide including your name, location and e-mail address. 
 
 **Your Ability to Choose**  
 When you subscribe to WSJ.com, you can let us know that you do not wish to receive information about new features and special offers by opting out at the time you give us your personally identifiable information or by contacting us at <http://online.wsj.com/acct/my_account>. 
 
 **Cookies**  
-We employ cookie technology to help visitors and subscribers move faster through our site. When you sign on to our Web site or take advantage of several key features, we may pass cookies to your computer. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory. Read our [Cookie Disclosure Statement ](http://online.wsj.com/cookie_disclosure) for more information on our use of cookies. 
+We employ cookie technology to help visitors and subscribers move faster through our site. When you sign on to our Web site or take advantage of several key features, we may pass cookies to your computer. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory. Read our [Cookie Disclosure Statement ](http://online.wsj.com/public/cookie_disclosure) for more information on our use of cookies. 
 
 **WSJ.com Ads**  
 When you view an ad for WSJ.com on other sites, our third party advertising company may place or recognize a unique cookie on your browser. WSJ.com and its advertising company may also use Web beacons (invisible images often referred to as pixel tags or clear GIFs) to note which WSJ.com pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track response to our advertising efforts. 
