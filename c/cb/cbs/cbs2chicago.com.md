@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs2chicago.com privacy policy that was archived on 2000-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001117223700id_/http%3A//www.cbs2chicago.com/now/story/0%2C1597%2C53940-225%2C00.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs2chicago.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404225902id_/http%3A//cbs2chicago.com/now/story/0%2C1597%2C53940-225%2C00.shtml) for the most accurate reproduction.*
 
 # CBS.com--CBS.com Privacy Statement
 
