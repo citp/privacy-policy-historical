@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towson.edu privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207050225id_/http%3A//www.towson.edu/tu/events/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towson.edu privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610010923id_/http%3A//towson.edu/tu/events/privacy.html) for the most accurate reproduction.*
 
 # Towson University University Relations Office
 
