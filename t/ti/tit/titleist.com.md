@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031114048id_/http%3A//titleist.com/htm/corp/corp_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207215651id_/http%3A//www.titleist.com/htm/corp/corp_privacy.asp) for the most accurate reproduction.*
 
 # Titleist Privacy
 
@@ -12,6 +12,6 @@ We may also use it to send you information. If you do not want to receive e-mail
 
 Titleist reserves the right to change or update this policy at any time by posting a notice to that effect on this site. 
 
-Please see Titleist's [LEGAL NOTICE](https://web.archive.org/web/20011031114048id_/http%3A//titleist.com/htm/corp/corp_legal.asp) for more information.
+Please see Titleist's [LEGAL NOTICE](https://web.archive.org/web/20021207215651id_/http%3A//www.titleist.com/htm/corp/corp_legal.asp) for more information.
 
 Copyright 2001 Acushnet Company. All rights reserved.
