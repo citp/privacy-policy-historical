@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readinga-z.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604154956id_/http%3A//www.readinga-z.com/razphp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readinga-z.com privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802091756id_/http%3A//readinga-z.com/razphp/privacy.html) for the most accurate reproduction.*
 
 # Readinga-z.com Privacy Policy
 
