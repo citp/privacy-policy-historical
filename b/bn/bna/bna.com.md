@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202101200id_/http%3A//www.bna.com/corp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404235316id_/http%3A//www.bna.com/corp/privacy.htm) for the most accurate reproduction.*
 
-# BNA - Internet Privacy Policy
+# Internet Privacy Policy
+
+  
+**The Bureau of National Affairs, Inc.  
+Internet Privacy Policy**
 
 BNA, Inc. has been a leading publisher of specialized news and information services for business and professionals in many fields--including economics, environmental protection, health care, human resources, labor relations, law, occupational safety, and taxation--since 1929. The BNA family of companies includes the following wholly owned subsidiaries (collectively BNA): BNA International, Inc., BNA Communications, Inc., Tax Management, Inc., BNA Software, Pike & Fischer, and the Institute of Management & Administration, Inc. 
 
