@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 4thegame.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604063222id_/http%3A//www.4thegame.com/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4thegame.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204143932id_/http%3A//www.4thegame.com/pages/privacy_statement.html) for the most accurate reproduction.*
 
-# 4thegame.com Page
-
-**PRIVACY POLICY**
+# Football news, live scores, fixtures and results from 4thegame.com
 
 **_Definitions:_  
 **Us/We:** FastWeb Media Ltd  
