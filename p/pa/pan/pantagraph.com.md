@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609054519id_/http%3A//www.pantagraph.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204172158id_/http%3A//www.pantagraph.com/info/privacy.html) for the most accurate reproduction.*
 
 # Pantagraph.com - Privacy Policy
 
@@ -38,7 +38,7 @@ Pantagraph.com occasionally administers contests in which participants must regi
 
 **Browser cookies**
 
-Cookies are tiny information files sent by some Web pages and stored by your browser. A browser stores a cookie so that it remembers whether or not to take an action the next time you visit a page. For example, a cookie might tell a pop-up window not to appear the next time you visit. Pantagraph.com uses browser cookies only to enhance functionality for visitors. Unless otherwise explicitly stated, we do not use cookies to collect a user's personal identifiable information. From our [cookie management page](https://web.archive.org/web/20040609054519id_/http%3A//www.pantagraph.com/info/cookiemanage.html) you can manage certain cookies to prevent certain pop-up windows from appearing.
+Cookies are tiny information files sent by some Web pages and stored by your browser. A browser stores a cookie so that it remembers whether or not to take an action the next time you visit a page. For example, a cookie might tell a pop-up window not to appear the next time you visit. Pantagraph.com uses browser cookies only to enhance functionality for visitors. Unless otherwise explicitly stated, we do not use cookies to collect a user's personal identifiable information. From our [cookie management page](https://web.archive.org/web/20041204172158id_/http%3A//www.pantagraph.com/info/cookiemanage.html) you can manage certain cookies to prevent certain pop-up windows from appearing.
 
 **Subscribing to the paper or placing a classified ad**
 
