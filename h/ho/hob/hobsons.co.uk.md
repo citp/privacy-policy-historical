@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobsons.co.uk privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610045130id_/http%3A//www.hobsons.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobsons.co.uk privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208211707id_/http%3A//www.hobsons.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # Education services, universities, careers, and job search
 
