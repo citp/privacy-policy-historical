@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202014738id_/http%3A//www.responsibletravel.com/Copy/Copy100068.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603114619id_/http%3A//www.responsibletravel.com/Copy/Copy100068.htm) for the most accurate reproduction.*
 
 # world's best responsible/ecotourism holidays
 
@@ -21,9 +21,11 @@
   | [Budget travel](http://www.responsibletravel.com/TripSearch/Budget%20travel/ActivityCategory100010.htm)  
   | [Community](http://www.responsibletravel.com/TripSearch/Community/ActivityCategory100009.htm)  
   | [Cultural holidays](http://www.responsibletravel.com/TripSearch/Cultural%20holidays/ActivityCategory100002.htm)  
+  | [Ecotourism](http://www.responsibletravel.com/TripSearch/Ecotourism/ActivityCategory100020.htm)  
   | [Family holidays](http://www.responsibletravel.com/TripSearch/Family%20holidays/ActivityCategory100004.htm)  
   | [Gap year](http://www.responsibletravel.com/TripSearch/Gap%20year/ActivityCategory100012.htm)  
   | [Honeymoon ideas](http://www.responsibletravel.com/TripSearch/Honeymoon%20ideas/ActivityCategory100017.htm)  
+  | [Luxury travel](http://www.responsibletravel.com/TripSearch/Luxury%20travel/ActivityCategory100019.htm)  
   | [Over 50's holidays](http://www.responsibletravel.com/TripSearch/Over%2050_s%20holidays/ActivityCategory100015.htm)  
   | [Short breaks](http://www.responsibletravel.com/TripSearch/Short%20breaks/ActivityCategory100018.htm)  
   | [Special interest](http://www.responsibletravel.com/TripSearch/Special%20interest/ActivityCategory100016.htm)  
@@ -37,9 +39,11 @@
 | [B&B](http://www.responsibletravel.com/AccommodationSearch/B%26B/AccommodationCategory100005.htm)  
   | [Backpackers](http://www.responsibletravel.com/AccommodationSearch/Backpackers/AccommodationCategory100006.htm)  
   | [Beach resorts](http://www.responsibletravel.com/AccommodationSearch/Beach%20resorts/AccommodationCategory100007.htm)  
+  | [City accommodation](http://www.responsibletravel.com/AccommodationSearch/City%20accommodation/AccommodationCategory100009.htm)  
   | [Eco lodge](http://www.responsibletravel.com/AccommodationSearch/Eco%20lodge/AccommodationCategory100003.htm)  
   | [Farmstays](http://www.responsibletravel.com/AccommodationSearch/Farmstays/AccommodationCategory100008.htm)  
   | [Honeymoon hotels](http://www.responsibletravel.com/AccommodationSearch/Honeymoon%20hotels/AccommodationCategory100002.htm)  
+  | [Self catering](http://www.responsibletravel.com/AccommodationSearch/Self%20catering/AccommodationCategory100010.htm)  
   | [Wilderness](http://www.responsibletravel.com/AccommodationSearch/Wilderness/AccommodationCategory100004.htm)  
 | Travel services  
 ---|---  
