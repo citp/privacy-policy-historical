@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408083652id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201225613id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
 
 # interactivetools.com - Privacy Policy
 
@@ -12,7 +12,7 @@ Join our newsletter for free info on software updates and new releases. You can 
 
 We don't just want you to use our software, we want you to love it.
 
-That's why you can count on us to support you, with everything from free installation to a 30 day money back guarantee.
+That's why you can count on us to support you, with everything from free installation to a 90-day money back guarantee.
 
 Give us a call, we promise you won't be disappointed.
 
