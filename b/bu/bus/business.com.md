@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202191700id_/http%3A//www.business.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405000841id_/http%3A//www.business.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Business.com Privacy Policy
-
-  
-
 
 **INTRODUCTION**
 
