@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the rateyourmusic.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619082746id_/http%3A//rateyourmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateyourmusic.com privacy policy that was archived on 2002-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020628224807id_/http%3A//rateyourmusic.com/privacy) for the most accurate reproduction.*
 
-# Rateyourmusic.com - Privacy Policy
+# Privacy Policy -- Rate Your Music
+
+  
+
 
 ## rateyourmusic.com Privacy Policy
 
@@ -37,7 +40,7 @@
 > 
 > **What information other users of the website can see:**
 > 
-> If the user provides this information, other users can see his/her username, name, age, sex, the text that the user typed in the location field, homepage, favortie bands and artists, and other comments. In addition, other users will be able to see the albums that are part of the user's lists, as well as the ratings and reviews of those albums. 
+> If the user provides this information, other users can see his/her username, name, age, sex, the text that the user typed in the location field, homepage, favorite bands and artists, and other comments. In addition, other users will be able to see the albums that are part of the user's lists, as well as the ratings and reviews of those albums. 
 > 
 > The user's e-mail address is visible to other users if they wish to share it by checking the box that says "Check here if you would like your e-mail address to be visible to other users of this site." , which is unchecked by default. 
 > 
@@ -49,7 +52,7 @@
 > 
 > rateyourmusic.com does not use your name, the text typed in the location field, homepage, favorite bands, and other comments in any way other than to display them to other users. 
 > 
-> rateyourmusic.com ONLY uses your e-mail address to mail the user's password back to them if they request this service, and to allow other users to contact the user. 
+> rateyourmusic.com ONLY uses e-mail addresses to mail the user's password back to them if they request this service, and to allow other users to contact the user. 
 > 
 > rateyourmusic.com will eventually use the sex, age, and zip code of users to display aggregate statistics to users. For example, when choosing an album, we would like to tell you what percentage of males and females gave it a high rating, what the average age of the owners of the album is, and what areas of the United States the album is popular in. 
 > 
@@ -81,4 +84,5 @@
 
 * * *
 
-Search For in 
+Search For in   
+*Search Tip: just enter a few letters of the artist/album you're searching for.
