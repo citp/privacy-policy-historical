@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207084657id_/http%3A//www.adtegrity.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607020912id_/http%3A//www.adtegrity.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Adtegrity.com :: Insightful :: Internet :: Advertising
-
-| 
 
 Adtegrity.com has created the following privacy policy in order to demonstrate our commitment to assuring privacy for publishers, advertisers, and website visitors. 
 
@@ -31,7 +29,7 @@ If a visitor to a website views an ad served by Adtegrity.com, they are assigned
 Overall, the cookie helps the ad network, Adtegrity.com; determine which advertisements best fit which visitors and which websites. A visitor may choose to opt-out on using cookies at any time by following a simple procedure to manually delete them. Visitors should refer to their respective browser's user manual for instructions. 
 
 **Third Party Advertising**  
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.net/us/corporate/privacy)
+The ads appearing on this Web site are delivered to you by third-party advertisers, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about third-party advertisers, cookies, and how to "opt-out", please [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
