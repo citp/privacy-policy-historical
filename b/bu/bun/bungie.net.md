@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206073704id_/http%3A//www.bungie.net/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2004-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040203191744id_/http%3A//www.bungie.net/privacy_statement.html) for the most accurate reproduction.*
 
 # Bungie.net
 
