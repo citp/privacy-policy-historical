@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602211922id_/http%3A//www.kennedy-center.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217235338id_/http%3A//kennedy-center.org/legal/privacy.html) for the most accurate reproduction.*
 
 # The Kennedy Center and Your Privacy
 
@@ -33,19 +33,23 @@ Certain applications in the Kennedy Center web site invoke a standard feature fo
 We do not solicit personal information from children. Sites specifically geared toward children will not request any personal or contact information. Sites like 'writer review' allow children to enter their name and city and to write comments about Kennedy Center performances, but do not ask for or provide space to enter contact information. 
 
 8\. Contact Us/How to update your personal information  
-You can help the Kennedy Center maintain the accuracy of your personal information by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from the Kennedy Center, our partners, or selected third parties, contact the Kennedy Center by e-mail at [comments@kennedy-center.org](mailto:comments@kennedy-center.org) or by postal mail at: 
+You can help the Kennedy Center maintain the accuracy of your personal information by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from the Kennedy Center, our partners, or selected third parties, [contact the Kennedy Center by e-mail](https://web.archive.org/contact/index.cfm) or by postal mail at: 
 
 The Kennedy Center  
 2700 F Street, NW  
-Washington, DC 20566  
-
+Washington, DC 20566
 
 Please include your old and new contact information so that we can make the appropriate corrections. The Kennedy Center would like to receive your comments and any questions about this policy. Please address comments or questions regarding the Kennedy Center's privacy practices to us at one of the addresses listed above. The Kennedy Center may occasionally update this policy. Notice of revisions will be posted here. 
 
-[](https://web.archive.org/)
+[Text-only](https://web.archive.org/text) | [Accessibility](https://web.archive.org/accessibility) | [Site Map](https://web.archive.org/sitemap) .  
+[Privacy Statement](https://web.archive.org/legal/privacy.html) | [Copyright/Terms](https://web.archive.org/legal/copyright.html) | [Useful Tools](https://web.archive.org/tools)
 
-**The John F. Kennedy Center for the Performing Arts  
-2700 F Street, NW  
-Washington, DC 20566  
-Tickets and Information: 800-444-1324  
-Administrative Offices: 202-416-8000**
+  
+[](https://web.archive.org/ "\[Return to the Kennedy Center home page.\]")  
+**The John F. Kennedy Center for the Performing Arts**  
+2700 F Street, NW   
+Washington, DC 20566   
+Tickets and Information: 800-444-1324 or 202-467-4600  
+Administrative Offices: 202-416-8000   
+[Contact Us](https://web.archive.org/contact/index.cfm)  
+
