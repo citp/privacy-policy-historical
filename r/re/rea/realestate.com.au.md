@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208160232id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604232257id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
 
-# Real Estate Australia - Property for sale lease and rent online Australia wide
+# Real Estate Australia - Property and homes for sale, lease and rent Australia wide
 
 > **www.realestate.com.au** is a web site of realestate.com.au Ltd (“We”, “our” and “us” in this Internet Privacy Policy). By using this site, you agree to the Internet Privacy Policy of our **www.realestate.com.au** web site (“the web site”), which is set out below. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
 > 
@@ -61,7 +61,7 @@
 > 
 > Problems or questions
 > 
-> If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please [contact us](http://www.realestate.com.au/cgi-bin/rsearch?a=feedback&to=ccc&t=res&ag=&cu=).
+> If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please [contact us](http://www.realestate.com.au/cgi-bin/rsearch?a=feedback&to=ccc&t=res).
 > 
 > Further Privacy Information
 > 
