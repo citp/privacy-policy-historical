@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorcycle-superstore.com privacy policy that was archived on 2002-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021011052923id_/http%3A//www.motorcycle-superstore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcycle-superstore.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603222648id_/http%3A//www.motorcycle-superstore.com/helpdesk.asp%3Fid%3D16) for the most accurate reproduction.*
 
 # Motorcycle USA Superstore - Motorcycle Helmet Motorcycle Apparel Motorcycle Accessories Motorcycle Parts Secure Shopping
 
@@ -50,7 +50,6 @@ If you have any questions about the security at our website, you can send an ema
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.  
    
 **SITE & SERVICE UPDATES**  
-   
 We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.  
    
 **CORRECTION/UPDATING PERSONAL INFORMATION**  
