@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the hardwarezone.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024626id_/http%3A//www.hardwarezone.com/corp/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwarezone.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193850id_/http%3A//www.hardwarezone.com/core/privacy.php) for the most accurate reproduction.*
 
-# HardwareZone.com :: PRIVACY POLICY
+# www.hardwarezone.com® :: Privacy Policy
 
-HardwareZone has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [HardwareZone](http://www.hardwarezone.com/)
+www.hardwarezone.com® has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [www.hardwarezone.com®](http://www.hardwarezone.com/)
 
-Information Automatically Logged   
+**Information Automatically Logged**  
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information, and for other purposes. Logged IP address is used to track users as and when necessary, for example, when member has violated our Terms of Service or when required by law. 
 
-Cookies
+**1\. Cookies**
 
 Our Site uses cookies to keep track of your shopping cart, and to deliver content specific to your interests. We also use cookies to save your password so you don't have to re-enter it each time you visit our site. 
 
-Advertisers
+**2\. Advertisers**
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
-Registration Forms
+**3\. Registration Forms**
 
 Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their NRIC number/social security number), and demographic information (like their zip code, age, or income level). 
 
@@ -28,13 +28,13 @@ Unique identifiers (such as NRIC number/social security numbers) are collected f
 Demographic and profile data is also collected at our site.   
 This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-Order Forms
+**4\. Order Forms**
 
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address). 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Surveys
+**5\. Surveys**
 
 Our online surveys ask visitors for contact information (like email address), unique identifiers (like NRIC number/social security number), and demographic information (like zip code, age, or income level). 
 
@@ -47,7 +47,7 @@ Unique identifiers (such as NRIC number/social security numbers) are collected f
 Demographic and profile data is also collected at our site.   
 This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-Contests
+**6\. Contests**
 
 We run contests on our site in which we ask visitors for contact information (like email address), unique identifiers (like NRIC number/social security number), and demographic information (like zip code, age, or income level). 
 
@@ -60,15 +60,15 @@ Unique identifiers (such as NRIC number/social security numbers) are collected f
 Demographic and profile data is also collected at our site.   
 This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-External Links
+**7\. External Links**
 
-This site contains links to other sites. HardwareZone is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. www.hardwarezone.com® is not responsible for the privacy practices or the content of such Web sites. 
 
-Public Forums
+**8\. Discussion Forums**
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-Children's Guidelines 
+**9\. Children's Guidelines**
 
 This site DOES NOT MEET the Online Privacy Protection Act guidelines The following criteria are violated: 
 
@@ -77,11 +77,11 @@ This site does not provide children notice of what information is collected.
 This site des not encourage children to get their parent's permission before sharing personal information online.   
 This site does not allow the parent to obtain the information collected from the child and provide a way for the parent to prevent the future use of that information. 
 
-Choice/Opt-Out
+**10\. Choice/Opt-Out**
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. You can visit the following URL: <http://www.hardwarezone.com/member/mailing.hwz>
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. You can visit the following URL: <http://www.hardwarezone.com/member/mynewsletter.php>
 
-Contacting the Web Site
+**11\. Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-[ feedback@hardwarezone.com ](mailto:feedback@hardwarezone.com%20)
+[ admin@hardwarezone.com ](mailto:admin@hardwarezone.com)
