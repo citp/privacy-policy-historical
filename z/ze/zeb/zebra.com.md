@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204101552id_/http%3A//zebra.com/About/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621173413id_/http%3A//www.zebra.com/About/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement - Zebra Technologies Corporation
+# <b>Zebra Technologies Corporation Privacy Statement</b>
 
   
 Privacy Statement--Zebra Technologies  
