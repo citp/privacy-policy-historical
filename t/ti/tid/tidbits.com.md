@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602200424id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091413id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
 
 # TidBITS Privacy Statement
+
+(Last updated 28-Aug-2003.) 
 
 TidBITS Electronic Publishing takes online privacy very seriously. We actively protect the privacy of users of TidBITS Web sites and people who subscribe to TidBITS publications and mailing lists.
 
@@ -38,6 +40,10 @@ Web-based archives of discussion lists maintained by TidBITS will also include i
 
 **Surveys** \-- TidBITS may ask readers and/or Web site users to participate in surveys. In all cases, participation will be voluntary. If a survey asks for personal information, answering those questions will be optional. 
 
+**DealBITS Drawings** \-- To participate in DealBITS drawings, you must provide us with your email address and name. We will use that information for necessary administrative communications, such as notification of all the participants of the winning entry. We will publish the name (but not the email address) of the winner in TidBITS and in an email message to all DealBITS participants. Lastly, we will share the name and email address of the winner with company providing the prize for purposes of registration or delivery (in which case the winner may be required to provide a postal address to the sponsoring company as well). 
+
+We will not share names or email addresses of any other DealBITS participants with any third party, including the sponsoring company. 
+
 **Translations and Mirror Sites** \-- TidBITS publications are [translated](http://www.tidbits.com/about/translations.html) into a variety of languages, and those translations are hosted by several mirror sites.
 
 TidBITS can't control the privacy policies of mirror sites, and it's possible they differ significantly from ours. If you're concerned, consider accessing TidBITS material directly from our servers, rather than from a mirror. 
@@ -50,6 +56,6 @@ Some TidBITS translations are available via both email and the Web. In the cases
 
 Special thanks to [digital.forest](http://www.forest.net/), our Web and mailing list host.
 
-Copyright 2001 TidBITS.   
+Copyright 2003 TidBITS.   
 Send comments to [our webmaster](http://www.tidbits.com/about/webmaster.html).   
-Last updated on Tuesday, June 12, 2001
+Last updated on Thursday, August 28, 2003
