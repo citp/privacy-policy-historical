@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranmania.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622093003id_/http%3A//www.iranmania.com/company/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranmania.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402060609id_/http%3A//www.iranmania.com/company/privacystatement.asp) for the most accurate reproduction.*
 
 # IranMania Privacy Statement
 
@@ -37,19 +37,19 @@ You can tell us if you don't want to be listed in any of the IranMania sections.
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-You can send email to [info@iranmania.com](mailto:info@iranmania.com)
+You can send email to [General feedback](http://www.iranmania.com/contacts/)
 
 **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided.
 
-Email [info@iranmania.com](mailto:info@iranmania.com)
+Email [General feedback](http://www.iranmania.com/contacts/)
 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
 IranMania System Administrator  
-[privacy@iranmania.com](mailto:Privacy@iranmania.com)
+[General feedback](http://www.iranmania.com/contacts/)
 
 **م** ** 1999-2003 Persicom Limited - All rights reserved**
