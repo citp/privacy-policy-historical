@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the examiner.com.au privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605103006id_/http%3A//www.examiner.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.com.au privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003020511id_/http%3A//www.examiner.com.au/privacy.asp) for the most accurate reproduction.*
 
 # examiner.com.au : Disclaimer
 
-  
 The Examiner is committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised experience. Please read on for more details about our privacy policy. 
 
 **What information do we collect? How do we use it?**   
