@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416135758id_/http%3A//www.calendars.com/help_sp_p.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203155017id_/http%3A//www.calendars.com/help_sp_p.asp) for the most accurate reproduction.*
 
 # Calendars.com
 
