@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123406id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004043545id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
 
 # The Don Juan Center's Privacy Policy
 
