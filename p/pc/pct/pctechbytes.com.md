@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pctechbytes.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202164013id_/http%3A//www.pctechbytes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pctechbytes.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605163755id_/http%3A//www.pctechbytes.com/privacy.htm) for the most accurate reproduction.*
 
-# Computer Help | Privacy Policy
+# Privacy Policy
 
   
 PCTechBytes believes in protecting your privacy and promises it will not sell or trade any information we may collect through cookies or through the registration process in our forums.    
@@ -12,7 +12,3 @@ PCTechBytes reserves the right to view cookies and only uses the information to 
 Most of this site is forum-based.  Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information.  If you put your e-mail address in a forum, for example, we have no way to prevent others from retrieving that information. 
 
 If you have any questions regarding this policy, please feel free to [contact us](mailto:webmaster@pctechbytes.com) today. 
-
-* * *
-
-Copyright 2003 PCTechBytes.com
