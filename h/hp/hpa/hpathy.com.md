@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hpathy.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803025732id_/http%3A//www.hpathy.com/includes/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpathy.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609183157id_/http%3A//hpathy.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Hpathy.com
-
-_Hpathy.com Privacy Statement_
 
 Your privacy is very important to us. Please contact us at [webmaster@Hpathy.com](mailto:webmaster@hpathy.com) if you have any questions or comments about privacy, or how any information you send us may be used. Hpathy.com has created this statement to demonstrate our firm commitment to privacy. The following text discloses our information gathering practices for this Web site, and explains how the information is used, protected, and, in certain limited instances that do not violate your privacy, disseminated.
 
