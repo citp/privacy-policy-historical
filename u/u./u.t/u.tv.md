@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the u.tv privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604192219id_/http%3A//u.tv/privacypolicy.asp) for the most accurate reproduction.*
+
+# ::: u.tv :::
+
+|   
+|   |   
+UTV Internet (part of UTV plc) treats your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and match your needs with relevant services and features on our website. NOTE This policy only applies to the UTV Internet website and not to the companies, individuals, organisations or other websites to which there are links.  | **1.** | **Consent**  
+---|---  
+| Your use of this website signifies your consent to us collecting and using personal information about you as specified below in accordance with this Policy. Should we choose to change our Policy for any reason, the changes will be posted on this website, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it. If you are a UTV Internet customer this policy will be applied subject to the particular limitations or choices you made as part of the membership application procedure.   
+**2.** | **How Do We Collect Information About You and How Is It Used?**  
+**2.1** | You may provide personal information by telephone, online registration, e-mail, automatically by your Internet browser, or by post when communicating with us.   
+**2.2** | When you order a service with UTV Internet you may be asked for your name, address, e-mail address, telephone number, and credit or debit card number details so that your order can be processed. Any 'confidential financial information' will be dealt with as described in Para 3.   
+**2.3** | Our primary reason for collecting data is to personalize your visits to our web site and recommend products or services to you. We may also use the information to help us develop the design and layout of our web site to ensure that our sites are as useful and enjoyable as possible.   
+**2.4** | GlideTime and DeskLine customers have the opportunity to view their monthly Internet bill on line using the appropriate login and password.   
+**2.5** | If you enter a competition we will ask for your name, address, telephone number and e-mail address.   
+**2.6** | We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic by using cookies (see Para 4). This enables us to monitor accessibility of our service, and helps us to develop and improve our service in response to customer requirements.   
+**2.7** | It may be that some of the personal information you give us (for instance about your lifestyle or health) is sensitive personal data within the meaning of the Data Protection Act 1998. Any such information will only be disclosed with your express consent.   
+**2.8** | We may use personal information collected about you to let you know about new products or services, functionality changes to our web site or changes to our terms and conditions of use.   
+**3.** | **How do we protect your Information?**  
+|  UTV Internet is serious about guarding the security of your personal details. When you register data such as credit card details with us, they are protected by a secure server, which encrypts the information that you input before it is transmitted to us. In addition, we have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.   
+**4.** | **Cookies**  
+|  A cookie is a piece of information, like a tag, that is stored on your computer's hard drive by your web browser when you visit a site. As with may other on line services, UTV Internet uses cookies to gather certain usage information such as how and when pages in our site are visited, and by how many people. You can set your browser to refuse cookies or show when a cookie is being set up without affecting your use of most of the features of the UTV Internet site.   
+**5.** | **Third Parties**  
+|  Information collected by cookies are used in the aggregate to provide summative statistics about our sales, customers, and other site information to third parties and do not include any personally identifiable information.NOTE Third party Internet sites that you can link to through utvinternet.com are not covered by our privacy policy and security policy, so we urge you to be careful when you enter any personal information on line. UTV Internet accepts no responsibility or liability for these sites.   
+**6.** | **Disclosures**  
+|  UTV Internet has a responsibility to keep your information confidential and we take all reasonable care to prevent any unauthorised access to your personal data. We do not disclose information that you may give, such as name, address, telephone number or e-mail address to any outside companies. However, UTV Internet reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.   
+**7.** | **Contacting Us**  
+|  If you have any questions or concerns about our use of your personal information you should email us at [support@u.tv](mailto:support@u.tv)  
+| 
+* We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here. <http://www.doubleclick.net/us/corporate/privacy>  
+ 
