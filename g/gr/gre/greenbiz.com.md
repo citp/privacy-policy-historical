@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenbiz.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607032238id_/http%3A//www.greenbiz.com/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenbiz.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801182437id_/http%3A//www.greenbiz.com/policy.cfm) for the most accurate reproduction.*
 
 # GreenBiz | Privacy Policy
 
