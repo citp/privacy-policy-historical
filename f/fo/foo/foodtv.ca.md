@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodtv.ca privacy policy that was archived on 2001-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011117174459id_/http%3A//foodtv.ca/contact/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodtv.ca privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402184127id_/http%3A//foodtv.ca/help/privacypolicy/default.asp) for the most accurate reproduction.*
 
-# FoodTV.ca :: Contact
+# Food Network Canada: Help: Privacy Policy
 
-Quick Reference: Terms of Use | Disclaimer | [Contact Us](https://web.archive.org/contact/)
+Quick Reference: Terms of Use | Disclaimer | [Contact Us](https://web.archive.org/help/)
 
 **USER AGREEMENT**  
 Alliance Atlantis Communications Inc. and its related and affiliated companies ("Alliance Atlantis") welcomes you to its family of web site(s). Using this web site(s) indicates your consent and agreement to be bound by this User Agreement and any policies or practices contained herein.
@@ -76,5 +76,4 @@ You may not use this web site(s) if law prohibits you from doing so in the count
 Alliance Atlantis does not condone any lewd, defamatory, offensive or discriminatory submissions of its users. Alliance Atlantis monitors the contents of its chatrooms, discussion groups and bulletin boards and reserves the right to pull any submissions from the site at its sole discretion.  
 Alliance Atlantis reminds you to check this User Agreement from time to time as it may change without notice.  
 **  
-BY CONTINUING TO USE THE ALLIANCE ATLANTIS WEB SITE(S), YOU ARE AGREEING TO ABIDE BY ALL THE TERMS AND CONDITIONS SET OUT IN THIS USER AGREEMENT.**  
-
+BY CONTINUING TO USE THE ALLIANCE ATLANTIS WEB SITE(S), YOU ARE AGREEING TO ABIDE BY ALL THE TERMS AND CONDITIONS SET OUT IN THIS USER AGREEMENT.**
