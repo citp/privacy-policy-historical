@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifriends.net privacy policy that was archived on 2000-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001121211500id_/http%3A//www.ifriends.net/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifriends.net privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603152956id_/http%3A//www.ifriends.net/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for iFriends.net
 
@@ -36,7 +36,7 @@ However, since there are thousands of commercial web services using DoubleClick 
 
 iFriends' contract with DoubleClick gives iFriends' ultimate ownership of all collected data, and DoubleClick is not entitled to use it other than for general reporting of aggregate information. Should regulations and laws evolve which impose limitations and restrictions on iFriends' collection and use of such data (beyond the self-imposed limitations iFriends already imposes upon itself, set forth in this privacy policy), iFriends will be pleased to abide by such laws/regulations. 
 
-You can prevent DoubleClick from tracking anything related to your iFriends experience by [clicking here](http://www.doubleclick.com:8080/privacy_policy/privacy.htm). 
+You can prevent DoubleClick from tracking anything related to your iFriends experience by [clicking here](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1=&). 
 
 * **Information That May Be Placed Automatically On Your Computer's Hard Drive**
 
