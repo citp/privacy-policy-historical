@@ -1,87 +1,89 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114836id_/http%3A//www.newsok.com/%3Fprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209183515id_/http%3A//www.newsok.com%3Fprivacypolicy) for the most accurate reproduction.*
 
 # Welcome to NewsOK.com
 
-[](https://web.archive.org/?main) | NewsOK  
+|   
+| NEWSOK  
   
 ---  
 [News  
 ](https://web.archive.org/?news)  
-[ Today](https://web.archive.org/?n_local)[ / Norman  
-](https://web.archive.org/?n_norman)  
-[NEWS 9  
-](https://web.archive.org/?news9)  
 [Weather  
 ](https://web.archive.org/?weather)  
 [Sports  
 ](https://web.archive.org/?sports)  
 [Business  
 ](https://web.archive.org/?business)  
-[Photos  
-](https://web.archive.org/?photo)  
+[Health  
+](https://web.archive.org/?health)  
 [Entertainment  
 ](https://web.archive.org/?entertainment)  
+[Photos  
+](https://web.archive.org/?photos)  
+[Video  
+](https://web.archive.org/?video)  
+[Crime Tracker  
+](http://www3.kwtv.com/television/)  
+[Diner's Digest  
+](http://www.dinersdigest.com/)  
+MORE  
+  
+[Cams](https://web.archive.org/?9_cams) |  [Forums  
+](http://chat.newsok.com:8080/digiposts/DigiPosts?site=1)  
 [Lifestyle  
 ](https://web.archive.org/?lifestyle)  
-[ Public Records/Obits  
-](https://web.archive.org/?n_obits)  
-[ Health Report  
-](https://web.archive.org/?healthreport)  
-FEATURES  
-  
-[ Diner's Digest  
-](http://www.dinersdigest.com/)  
-[ News 9 This Morning  
-](https://web.archive.org/?9_thismorning)  
-[ CrimeTracker  
-](http://www3.kwtv.com/television/)  
-[ OKC Bombing  
-](https://web.archive.org/?cc_bombing)  
-[ May 3 tornadoes  
-](https://web.archive.org/?cc_may3)  
-[ Columnists  
-](https://web.archive.org/?columnists)  
-[ Crossword/Comics  
-](https://web.archive.org/?e_comics)  
-[ Event Calendar  
-](http://connectok.newsok.com/calendar/index.shtml)  
-[ Movie times](http://alliance.zap2it.com/zap2it/code/movies_toolkit/cda/zp_mt_main_template/1,1009,27-1-73125-60,00.html)   
-  
-[ Movie reviews  
-](https://web.archive.org/?e_moviereviews)  
-[ TV listings  
-](http://tvlistings.zap2it.com/partners/zipcode.asp?partner_id=okl)  
-[ Nonprofits  
-](http://connections.connectok.com/)  
-[ Opinion  
-](https://web.archive.org/?n_opinion)  
-[ Prayer  
+[Prayer  
 ](https://web.archive.org/?l_prayer)  
-[ Recipes  
-](https://web.archive.org/?l_recipes)  
-[ Stocks  
-](https://web.archive.org/?business)  
-[ Top 10 E-mailed articles  
+[Public Records/Obits  
+](https://web.archive.org/?n_obits)  
+ABOUT US  
+  
+[  
+](https://web.archive.org/?9_about)  
+[ Advertise  
+](https://web.archive.org/cgi-bin/show_article?ID=904398&TP=get9)  
+[Job Openings  
+](http://www.jobsok.com/cgi-bin/profilesearch.cgi?Company=KWTV%20News9)  
+[ Staff](https://web.archive.org/?9_staff) | [Bios  
+](https://web.archive.org/?9_bios)  
+[ More  
+](https://web.archive.org/?9_about)  
+[  
+](https://web.archive.org/?ok_history)  
+[ Advertise](http://oklahoman.newsok.com/advertising/index.html) | [Classified  
+](http://www.newsok.com/cgi-bin/ClassifiedForm.cgi)  
+[ Delivery/Services  
+](https://web.archive.org/?ok_circulation)  
+[ Page One Store  
+](http://newsok.com/cgi-bin/page_one/pageonestore.cgi)  
+[ Shopping the Metro  
+](https://web.archive.org/?shoppingthemetro)  
+[ Toast of the Town  
+](https://web.archive.org/?toastofthetown)  
+[ Staff  
+](https://web.archive.org/?ok_staff)  
+[ More  
+](https://web.archive.org/?ok_history)  
+[  
+](https://web.archive.org/cgi-bin/show_article?ID=888009&TP=getbrief)  
+[ Advertise  
+](https://web.archive.org/?newsokmarketing)  
+[ Email Newsletters  
+](https://web.archive.org/?bnews)  
+[ ShopOK](http://www.shopok.com/) | [ SearchOK  
+](http://www.searchok.com/)  
+[ Site Map  
+](https://web.archive.org/?sitemap)  
+[ Staff  
+](https://web.archive.org/?newsok_staff)  
+[ Top 10 Emailed Articles  
 ](http://www.newsok.com/cgi-bin/top_email)  
-ADVERTISING  
-  
-[Advertising online](http://www.newsok.com/marketing/index.html)  
-  
-[Advertising print](http://oklahoman.newsok.com/advertising/index.html)  
-  
-[Advertising TV](http://www.newsok.com/?9salesstaff)  
-  
-[Print Classifieds](http://www.newsok.com/cgi-bin/ClassifiedForm.cgi)  
-  
-MARKETPLACE  
-  
-[Shopping the Metro](https://web.archive.org/?shoppingthemetro)  
-[Toast of the Town](https://web.archive.org/?toastofthetown)  
-[Yellow Pages](http://www.switchboard.com/bin/cgidir.dll?MEM=1306)  
-[SearchOK](http://www.searchok.com/)  
-[Find a business](http://www.switchboard.com/bin/cgidir.dll?MEM=1306)  
-|  [](http://ad.doubleclick.net/jump/oklahoman.com/main;sz=468x60;ord=1580445164757?)   
-
+[ Wireless  
+](http://www.wireok.com/)  
+[ More  
+](https://web.archive.org/cgi-bin/show_article?ID=888009&TP=getbrief)  
+[   
+](https://web.archive.org/cgi-bin/show_article?ID=888009&TP=getbrief) | 
 
 **PRIVACY POLICY OF NEWSOK.COM**
 
@@ -175,35 +177,7 @@ The foregoing policy is effective Feb. 7, 2001. NewsOK reserves the right to cha
 
 * * *
 
-[Privacy Policy](http://www.newsok.com/?privacypolicy)[ | Site Map](http://www.newsok.com/?sitemap)[ | FAQ's](http://www.newsok.com/?help)[ | Contact Us  
-](http://www.newsok.com/?contactus) © 2002, Produced by NewsOK |  | 
-
-| Events Calendar  
----  
-[June 2002](http://connectok.newsok.com/calendar/index.shtml)  
-  
-[Submit event](http://connectok.newsok.com/calendar/login.html)  
-  
-[Overview  
-](http://connectok.newsok.com/calendar/overview.shtml)  
-  
-  
-MARKETPLACE  
-  
----  
-[General Classifieds](http://www.newsok.com/cgi-bin/showclass)  
-  
-[Sunday Classifieds](http://www.newsok.com/cgi-bin/showclass?type=sunday)  
-  
-[ShopOK](http://www.shopokmall.com/)  
-  
-[Shopping the Metro](https://web.archive.org/?shoppingthemetro)  
-  
-[Toast of the Town](https://web.archive.org/?toastofthetown)  
-  
-[Yellow Pages](http://www.switchboard.com/bin/cgidir.dll?MEM=1306)  
-  
-[SearchOK](http://www.searchok.com/)  
-  
-[Find a Business](http://www.switchboard.com/bin/cgidir.dll?MEM=1306)  
-
+Contact:  [NEWS 9](https://web.archive.org/?9_staff) |  [The Oklahoman](https://web.archive.org/?ok_staff) |  [NewsOK.com](https://web.archive.org/?newsok_staff) |  [Privacy Policy](https://web.archive.org/?privacypolicy) |  [Site Map](https://web.archive.org/?sitemap) |  [FAQ's  
+](https://web.archive.org/?help) © 2002, Produced by NewsOK  
+|   
+|  |  | 
