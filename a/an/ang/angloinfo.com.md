@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201233635id_/http%3A//angloinfo.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114218id_/http%3A//www.angloinfo.com/information/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - French Riviera, Cote d'Azur (AngloINFO)
 
-AngloINFO takes privacy seriously. Please read the following to learn more about our policies on privacy when related to [AngloINFO.com](https://web.archive.org/web/20011201233635id_/http%3A//angloinfo.com/r.asp?http://www.angloinfo.com/). 
+AngloINFO takes privacy seriously. Please read the following to learn more about our policies on privacy when related to [AngloINFO.com](https://web.archive.org/web/20020602114218id_/http%3A//www.angloinfo.com/r.asp?http://www.angloinfo.com/). 
 
 ### This Privacy Policy covers:
 
-  * AngloINFO's use of and treatment of personally identifiable information collected by AngloINFO when you are using the AngloINFO World Wide Web site at [www.AngloINFO.com](https://web.archive.org/web/20011201233635id_/http%3A//angloinfo.com/r.asp?http://www.angloinfo.com), and when you use services provided by AngloINFO. 
+  * AngloINFO's use of and treatment of personally identifiable information collected by AngloINFO when you are using the AngloINFO World Wide Web site at [www.AngloINFO.com](https://web.archive.org/web/20020602114218id_/http%3A//www.angloinfo.com/r.asp?http://www.angloinfo.com), and when you use services provided by AngloINFO. 
   * AngloINFO's use of and treatment of any personally identifiable information that AngloINFO's business partners may share with AngloINFO. 
 
 
 
 ### This Privacy Policy does not cover:
 
-  * The practices of companies or individuals that AngloINFO does not own or control. Specifically, this policy does not apply to [mailbox@AngloINFO.com](https://web.archive.org/web/20011201233635id_/http%3A//angloinfo.com/mailbox.asp), which has [ its own privacy policy](https://web.archive.org/web/20011201233635id_/http%3A//angloinfo.com/r.asp?http://www.everyone.net/main/html/p_policy.html) provided by AngloINFO's [ business partner](https://web.archive.org/web/20011201233635id_/http%3A//angloinfo.com/r.asp?http://www.everyone.net/). 
+  * The practices of companies or individuals that AngloINFO does not own or control. Specifically, this policy does not apply to [mailbox@AngloINFO.com](https://web.archive.org/web/20020602114218id_/http%3A//www.angloinfo.com/mailbox.asp), which has [ its own privacy policy](https://web.archive.org/web/20020602114218id_/http%3A//www.angloinfo.com/r.asp?http://www.everyone.net/main/html/p_policy.html) provided by AngloINFO's [ business partner](https://web.archive.org/web/20020602114218id_/http%3A//www.angloinfo.com/r.asp?http://www.everyone.net/). 
 
 
 
 ### Information collection
 
-  * AngloINFO collects personally identifiable information when you register for the [AngloINFO discussion forums](https://web.archive.org/web/20011201233635id_/http%3A//angloinfo.com/forum/), when you use certain AngloINFO products or services, and when you enter promotions. AngloINFO may also receive personally identifiable information from its business partners. 
+  * AngloINFO collects personally identifiable information when you register for the [AngloINFO discussion forums](https://web.archive.org/web/20020602114218id_/http%3A//www.angloinfo.com/forum/), when you use certain AngloINFO products or services, and when you enter promotions. AngloINFO may also receive personally identifiable information from its business partners. 
   * When you register for an AngloINFO service, you may be asked for your name, e-Mail address and other personal details. Once you have registered, you are no longer anonymous to AngloINFO's systems. 
   * AngloINFO also automatically receives and may record information on its server's logs from your browser including your computer's IP address, AngloINFO's cookie information and the identity of any page or pages you request. 
 
@@ -68,3 +68,16 @@ Anyone who has provided personal information to AngloINFO may request a copy of 
 ### Questions or Suggestions
 
 If you have questions or suggestions, send an e-Mail to [privacy@AngloINFO.com](mailto:privacy@angloinfo.com).
+
+  
+
+
+* * *
+
+[Copyright](http://www.angloinfo.com/information/copyright.asp) © 2000-2002 [AngloINFO](http://www.angloinfo.com/). All rights reserved. [Privacy Policy](http://www.angloinfo.com/information/privacy.asp), [Disclaimer](http://www.angloinfo.com/information/disclaimer.asp), [About](http://www.angloinfo.com/information/about.asp), [Contact](http://www.angloinfo.com/information/contact.asp).
+
+* * *
+
+Can **your** business benefit from reaching AngloINFO's users?  
+See what [**the AngloINFO Showcase**](http://www.angloinfo.com/sales/default.asp)  
+has to offer!
