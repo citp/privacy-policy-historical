@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the esignal.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212023718id_/http%3A//www.esignal.com/disclaimer/default.asp%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esignal.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173357id_/http%3A//esignal.com/disclaimer/default.asp%23privacypolicy) for the most accurate reproduction.*
 
 # eSignal Website Terms & Conditions and Privacy Policy
 
 ********  
-Last Updated: March 1, 2004
+Last Updated: December 16, 2004
 
-To assist you in using our eSignal websites, [www.esignal.com](http://www.esignal.com/), [www.esignalcentral.com](http://www.esignalcentral.com/) and any other websites we may launch from time to time (collectively, the “Website”), and to ensure a clear understanding of the relationship arising from your use of our Website, we have created a set of Website Terms and Conditions and a Privacy Policy. Our Website Terms and Conditions govern your use of our Website generally, and our Privacy Policy explains how we treat information you provide to us through the Website. Please read on to learn more.
+To assist you in using our eSignal websites, [www.esignal.com](http://www.esignal.com/), [www.esignalcentral.com](http://www.esignalcentral.com/), [www.quotek.com](http://www.quotrek.com/), [www.marketcenter.com](http://www.marketcenter.com/), [www.futuresource.com](http://www.futuresource.com/) and any other websites we may launch from time to time (collectively, the “Website”), and to ensure a clear understanding of the relationship arising from your use of our Website, we have created a set of Website Terms and Conditions and a Privacy Policy. Our Website Terms and Conditions govern your use of our Website generally, and our Privacy Policy explains how we protect information you provide to us through the Website. Please read on to learn more.
 
 Your use of our Website constitutes your agreement to follow and be bound by the Website Terms and Conditions and Privacy Policy. If you do not agree to these agreements, you are not authorized to visit or use our Website or the Services (defined below).
 
@@ -132,7 +132,7 @@ If you believe that materials posted on our Website infringe your rights under c
 >  Interactive Data Corporation  
 >  22 Crosby Drive  
 >  Bedford, MA 01730  
->  Attention: Legal Department
+>  Attention: Michael Passanisi 
 > 
 > 12.2. **Content of Notice** : You should notify our Designated Agent of your concerns as follows: 
 >
@@ -209,11 +209,11 @@ Sections 1 (Agreement), 2 (Forward Looking Statements), 5 (Disclaimer Regarding 
 29.0 Your Consent  
 By using our Website, you agree to comply with, and be bound by these Website Terms and Conditions. If you do not agree with some, or all of these Website Terms and Conditions, you are not authorized to visit our Website.
 
-eSignal Privacy Policy  
-Last Updated: March 1, 2004  
+Your Privacy is Important to eSignal   
+Last Updated: December 16, 2004  
 
 
-This Privacy Policy (“Privacy Policy”) covers eSignal’s treatment of information that you provide to us or that we collect from you when you are visiting the Website and when you use our products and services. This policy does not apply to the practices of companies that eSignal does not own or control or to individuals whom eSignal does not employ or manage, including operators of sites you may link to or from the Website or from which you link to the Website. This Privacy Policy should be read in connection with our Website Terms and Conditions.
+We value our relationship with you and respect your right to privacy. Our Privacy Policy ("Privacy Policy") covers eSignal's treatment of information that you provide to us or that we collect from you when you are visiting the Website and when you use our products and services. This policy does not apply to the practices of companies that eSignal does not own or control or to individuals whom eSignal does not employ or manage, including operators of sites you may link to or from the Website or from which you link to the Website. This Privacy Policy should be read in connection with our Website Terms and Conditions.
 
 1.0 Agreement  
 Please read this Privacy Policy carefully; it creates legal obligations. By using the Services and/or accessing our Website, you are acknowledging that you have read and understood this Privacy Policy and agree to be legally bound by it.  
@@ -295,4 +295,4 @@ PO Box 5028
 Hayward, California 94540-5028   
 Attention: Customer Service  
   
-By email:  [Customer Service](https://web.archive.org/web/20041212023718id_/http%3A//regform/emailformbox.asp?Source=CSD)
+By email:  [Customer Service](https://web.archive.org/web/20050403173357id_/http%3A//regform/emailformbox.asp?Source=CSD)
