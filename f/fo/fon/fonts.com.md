@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonts.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204221755id_/http%3A//www.fonts.com/legal/legal_home.asp%3FnCo%3DAFMT%26con%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603031726id_/http%3A//www.fonts.com/legal/legal_home.asp%3FnCo%3DAFMT%26con%3Dprivacy) for the most accurate reproduction.*
 
 # Fonts.com - Download Mac and Windows Fonts: Terms
 
