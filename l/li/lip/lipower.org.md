@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163354id_/http%3A//lipower.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610102110id_/http%3A//lipower.org/privacy.html) for the most accurate reproduction.*
 
 # LIPA: Privacy Policy
 
-| 
-
-Privacy Policy  
+|  Privacy Policy  
 Thank you for visiting the LIPA Web site. We hope your visit is helpful and informative.
 
 This Web site is designed to make it easier and more efficient for visitors to learn about and interact with LIPA. Like all online resources, we recognize that Web site visitors are concerned about issues of privacy and security of information and the quality and accuracy of the information presented. LIPA is committed to preserving your privacy and security while visiting our Internet site, and to giving you the most accurate information possible.
 
-Information provided on this Web site is intended to allow the visitor access to public information. While all attempts are made to provide accurate, current and reliable information, LIPA recognizes the possibility of human and/or mechanical error. LIPA makes no representations as to the accuracy, completeness, currency or suitability of the information provided by this Web site, and deny any expressed or implied warranty as to the same. Reference in this web site to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by LIPA, its employees or agents.
+Information provided on this Web site is intended to allow the visitor access to public information, and does not represent business, legal or other advice. While all attempts are made to provide accurate, current and reliable information, LIPA recognizes the possibility of human and/or mechanical error. LIPA makes no representations as to the accuracy, completeness, currency or suitability of the information provided by this Web site, and deny any expressed or implied warranty as to the same. In offering that information, LIPA, its affiliates, agents and contractors assume no responsibility or liability. Reference in this web site to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by LIPA, its employees or agents.
 
 This policy describes LIPA’s privacy practices regarding information collected from visitors to this Web site. In addition, this policy describes what data is collected and how that information is used. LIPA may, at its sole discretion, change, modify, add or delete portions of this policy. Because this privacy policy only applies to this Web site, you should examine the privacy policy of any Web site, including other State Web sites you access through this Web site.
 
@@ -62,6 +60,6 @@ The information contained in this policy should not be construed in any way as g
 **In order to provide visitors with certain information, this Web site provides links to local, State and federal government agencies, and Web sites of other entities. A link does not constitute an endorsement of the content, viewpoint, accuracy, opinions, policy, products, services, or accessibility of that Web site. Once you link to another Web site from this Web site, including one maintained by the State, you are subject to the terms and conditions of that Web site, including, but not limited to, its privacy policy. 
 
 **Contact Information  
-**For questions regarding the Privacy Policy or the ability to review and correct personal information you submitted to LIPA, please e-mail LIPA at [info@lipower.org](mailto:info@lipower.org).
+**For questions regarding the Privacy Policy or the ability to review and correct personal information you submitted to LIPA, please e-mail LIPA at [lipacustomerservice@liaccount.com](mailto:lipacustomerservice@liaccount.com).
 
 | 
