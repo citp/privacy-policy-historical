@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208151542id_/http%3A//www.jobsearch.co.uk/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404004553id_/http%3A//www.jobsearch.co.uk/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # Job Search - Jobs from the best UK companies
 
