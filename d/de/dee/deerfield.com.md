@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614161611id_/http%3A//www.deerfield.com/corporate/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206012400id_/http%3A//www.deerfield.com/corporate/privacy.cfm) for the most accurate reproduction.*
 
 # Deerfield.com - Leveraging Internet Connectivity
 
