@@ -1,0 +1,125 @@
+> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/legal/privacy.shtml) for the most accurate reproduction.*
+
+# Diet.com: Personality Type Diet, Personality Test, Diet Plan and Weight Loss Program.
+
+We at Diet.com understand that your privacy is very important to you. That's why we've developed this policy to ensure that your privacy is protected while using our services.
+
+Table of Contents
+
+Information We Collect   
+Third Party Information   
+Becoming a Member   
+Cookies   
+Message Boards, Chat Rooms, and Online Meetings   
+Log Files   
+Laws and Legal Rights   
+Third Parties Generally   
+Outside Contractors   
+Third Party Products and Services   
+Other Uses of Information   
+When This Privacy Policy Does Not Apply   
+Security
+
+Diet.com requests personal information when you sign up for our services, including your name, email address, and other information in order to provide you with a personalized program. We will not disclose any of your personal information unless you authorize us to do so, the law requires it, or to protect the rights or property of Diet.com.
+
+Your privacy and the security of your personal information are our highest priority. Diet.com is dedicated to protecting the privacy of those who visit one or more of our Websites ("Sites") and subscribe to our products and services ("Services") at all times. This Privacy Policy governs the Sites owned by us and operated in the United States and explains how we collect information on the Sites, what we do to protect such information, and your choices concerning the use of such information. We will not sell your personal information to outside parties. This Privacy Policy may be amended from time to time and any changes will be posted on this web page. We ask that you refer back to this Privacy Policy so that you will know what our current policy is on the gathering and use of your personal information. The Policy will include the most recent date in which any revision has been made.
+
+Please remember that this Privacy Policy applies only to information you provide to us on the Sites. Diet.com is not responsible for the disclosure of your personal information that you may post in any public forum (e.g. message boards or chat rooms) or for the privacy practices of websites that you may link to from our Sites that are owned or operated by third parties. Diet.com stresses that members do not give out personal information in any public forum. Any harm that comes to a member from his or her own practice of revealing personal information online is not the responsibility of Diet.com. Diet.com is also not responsible for members revealing personal information for the purpose of meeting other members outside of the Diet.com website, should this lead to personal injury. [Join Now!](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php)
+
+Information We Collect
+
+We collect two types of information: personally identifiable information and non-personally identifiable information.
+
+Personally identifiable information is information that identifies you or can be used to identify or contact you ("Personally Identifiable Information"). Personally Identifiable Information may include your name, street address (including city, state and zip code), telephone number, birth date (primarily for eligibility purposes), and billing and credit card information. We may request Personally Identifiable Information from you when you register on our website or take your personality test. We only collect Personally Identifiable Information that you voluntarily submit to us. Should you not desire for us to not, share, license, trade, or rent your Personally Identifiable Information please notify us as [privacy@diet.com](mailto:privacy@diet.com).
+
+You do not have to provide us with any Personally Identifiable Information to visit our free services. However, if you wish to subscribe for membership to our service or purchase products in our store, you will be required to provide Personally Identifiable Information. If you choose to withhold requested information, you will not be able to join our service or purchase goods and services in our store.
+
+When you become a registered user of the Sites, or use our services in any way, we collect other information, such as demographic information (e.g. age or gender), health information (e.g. current weight and height), and email address ("Non-Personally Identifiable Information"). Non-Personally Identifiable Information may also include your IP address, browser type, domain name, and other anonymous statistical data involving the use of our Sites. Non-Personally Identifiable Information is used to help us better understand who you are, what your needs are, and to improve and market our services and products on the Sites.
+
+Third Party Information
+
+We may include your information with information from other sources to assist us in evaluating and improving our Sites and the goods or services that we offer on our Sites and through our store.
+
+Diet.com may collect information from you in connection with, or through, other products we may make available on our Sites that appear from time-to-time. We collect information (both Personally Identifiable Information and Non- Personally Identifiable Information) from you in different manners and at different places and times on our Sites.
+
+Becoming a Member
+
+In order to access certain aspects of the Sites, such as your meal plan, chat rooms, message boards, weight loss tools and food database, you must first complete certain steps to become a member. You will be required to provide us with Personally Identifiable Information. This information is used to help us understand who you are, and to provide you with your customized diet, to contact you about our products and services, and/or for billing purposes. Use of this information is described in the previous sections of this Privacy Policy. In order to get the most out of membership and the customized diet plan, information provided by you must be accurate and truthful. Some areas may be password protected. We recommend you do not reveal your password to anyone. [Join Now!](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php)
+
+Cookies
+
+We also collect Non-Personally Identifiable Information passively using "cookies."
+
+"Cookies" are small text files that are placed on your computer in order to identify (i) your Web browser (ii) the activities of your computer on our Website and (iii) your activity in connection with our advertisements and other marketing and promotional efforts. Cookies may be used to: personalize your experience on our Sites (e.g., to dynamically generate Content specifically designed for you), assist you in using our Sites (e.g., automatically loading your user name), and allow us to compile site usage statistics to better improve our goods, services, and products. Cookies may also be used to conduct marketing and promotional efforts, tailor advertisements to your browser that we think may be of interest to you, or to determine the popularity of our Content.
+
+Finally, please note that advertisers and other third parties may also use their own cookies when you click on their advertisement or link to their website or service through our Sites. This Privacy Policy does not govern the use by such third-party websites or providers of third-party advertising, and we shall not be liable to you as a result of your liking to third party web sites.
+
+Message Boards, Chat Rooms, and Online Meetings
+
+The Sites may include one or more of the following features: chat rooms, message boards, bulletin boards, recipe swaps, online meetings, or similar activities where you and other members can communicate with one another. THIS PRIVACY POLICY DOES NOT PROTECT YOU WHEN YOU WHEN YOU USE OUR MESSAGE BOARDS, CHAT ROOMS, ONLINE MEETINGS OR OTHER PUBLIC TYPE SERVICES AND PROVIDE INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION) ABOUT YOURSELF THROUGH THESE PUBLIC TYPE SERVICES ON THE SITES. Please be aware that any information you share in a public type forum may be seen or collected by third parties that do not adhere to our Privacy Policy. Be cautious about the information you divulge and the user name you choose. Diet.com is not responsible for any personal injury or emotional distress as a result of members choosing to divulge personal information, such as real names and addresses, to other members.
+
+Log Files
+
+We collect Non-Personally Identifiable Information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Sites. This information may be used to analyze trends, to administer the Sites, to monitor Sites usage, and to gather general demographic information. We may link this information to Personally Identifiable Information for these and other purposes such as personalizing your experience on our Sites and evaluating our goods, services, and products generally.
+
+We are committed to protecting the privacy of children. Our Sites are not designed for or directed to children under the age of 13. We do not collect Personally Identifiable Information from any person we actually know is under the age of 13. We urge all parents or guardians to participate in their children's exploration of the Internet, and to teach their children about protecting their personal information while online. Should you desire to subscribe to one or more of our services for you child, please contact us at [help@diet.com](mailto:help@diet.com) prior to doing so.
+
+We use the information we collect to better understand who uses our Sites, how they are used, to personalize your online experience, to assist you in using our services, goods, and products, to improve our Sites, and for billing purposes.
+
+If you become our member or subscribe to one of our free products or services, we may use your information to send you a welcoming email that may confirm your user name and password. If you submit your email address to us, we will send you email newsletters, contact you about our products, services, and goods, and provide you with information and news that may be of interest to you. If you no longer desire to receive these communications, we will provide you with the option to change your preferences. In addition, if you identify yourself to us by sending us an email with questions or comments, we may use your information (including Personally Identifiable Information) to respond to your questions or comments, and we may use your questions or comments in our public type forums or our newsletters. We may also use the information collected to send you important service announcements and updates regarding our Sites, goods, services, and products we offer and if you are a member, about your billing account status. You will not be able to unsubscribe from these service announcements and updates as they contain important information relevant to your use of our Sites. WE WILL NOT REQUEST PERSONALLY IDENTIFIABLE INFORMATION FROM YOU VIA EMAIL. We ask that should you receive what purports to be such a request from us that you immediately forward that email to [help@diet.com](mailto:help@diet.com).
+
+We may also use the information gathered on our Sites to perform statistical analysis of user behavior, to analyze and evaluate issues relating to nutrition, weight loss, behavior and fitness, or to evaluate and improve our goods, services, and the products we offer to you. We may link some of this information to Personally Identifiable Information for internal purposes only or to assist you in your personal weight loss efforts.
+
+Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any information we gather from you on our Sites. [Join Now!](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php)
+
+Laws and Legal Rights
+
+We may also disclose your information (including Personally Identifiable Information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose Personally Identifiable Information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Service Agreement, Privacy Policy, or any other published policy on our Sites, or to protect the safety and/or security of our visitors or members, our Sites, or the Internet community.
+
+Third Parties Generally
+
+We may provide to third parties information about you that does not allow you to be identified or contacted, including where such information is combined with similar information of other users of our Sites. For example, we might inform third parties regarding the number of unique users who visit our Website, the demographic breakdown of our registered user of our Sites, or the activities that visitors to our Sites engage in while on our Sites. The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers, and other similar parties. We may also partner with third parties to provide you with goods, services and/or products to better serve you.
+
+Outside Contractors
+
+We may employ independent contractors, vendors and suppliers ("Contractors") to provide specific services and products related to our Sites, such as web hosting, credit card processing and fraud screening, and developing applications for our Sites and customer relation management. These Contractors may have limited access to information collected on our Sites, including your Personally Identifiable Information, in the course of providing products or services to us. Access to your Personally Identifiable Information by these Contractors is limited to the information reasonably necessary in order for the Contractors to perform their limited function for us. We also require that these Contractors (i) protect the privacy of your Personally Identifiable Information consistent with this Privacy Policy, and (ii) not use or disclose your Personally Identifiable Information for any purpose other than providing us with products or services for which we contracted. We require our Contractors to execute agreements with us to protect your privacy.
+
+Third Party Products and Services
+
+From time-to-time, as a Diet.com member, you may be asked to indicate whether you are interested in receiving information from us about special offers or news about our sites and advertisers. You will also be provided with the opportunity to opt-in to receive offers directly from select companies other than Diet.com. In addition, through our Website, you may be given the opportunity to purchase (or to obtain more information) regarding certain content, products or services that are sold through a person or company other than us ("Third Party Providers"). Similarly, if you purchase a product or service through a co-branded store and not through our Store, you will likely be purchasing the product through a Third Party Providers and not from us. We will attempt to make it clear to you when you are dealing with a Third Party Providers by opening a new browser or otherwise notifying you that you are leaving our Website. For example, if you see a phrase such as "powered by" or "brought to you by" followed by the name of a person or company other than Diet.com, then you are likely on, or about to enter, a web site owned or operated by a Third Party. Third Party Providers may request that you submit certain information to them in order to purchase their products or services, or to obtain additional information from them. We suggest that prior to submitting your information, you check that website's privacy policy and terms and conditions of use. We do not otherwise share or disclose your Personally Identifiable Information to Third Party Providers. You will be notified when third parties are collecting Personally Identifiable Information on our Sites. We do this so you can make an informed choice as to whether you should disclose information to a third party.
+
+Other Uses of Information
+
+In the event that we sell, merge or otherwise transfer all or substantially all of our business assets to a third party, or we liquidate our business, we reserve the right to transfer your information to such third party and we will use reasonable efforts to gain the agreement of such third party to this Privacy Policy. We will notify users of any such transfer through notice on our site and through email. [Join Now!](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php)
+
+When This Privacy Policy Does Not Apply
+
+Our Sites do contain links to other websites not owned or operated by us (e.g., if you "click" on a banner advertisement, you will likely be taken off our Sites). We will make reasonable attempt to make it obvious to you when you leave our Sites and enter these websites by opening a new browser or otherwise notifying you that you are leaving our Sites. However, please be aware that we are not responsible for the privacy practices of such websites. We encourage you to be aware that when our Sites link to other websites that you read the privacy policies or statements of each and every website. This Privacy Policy applies solely to information collected by us.
+
+Security
+
+Diet.com has numerous security measures in place to protect you from the loss, misuse, and alteration of the information under our control, including personal credit card information if you choose to conduct an e-commerce transaction through the Diet.com Sites. To help ensure the integrity and privacy of all of your information provided to us via the Internet, we use Secured Socket Layer (SSL) encryption technology in transmitting such information over the Internet to our servers. We secure your information provided to us on servers located in controlled, secure environments, protected from unauthorized access, use, or alteration. Only employees on a need to know basis have access to your information to perform a specific task or function. Our employees must abide by this Privacy Policy, are kept up-to-date on security practices, and execute written agreements with us to protect private and confidential information. We will meet a violation of this Privacy Policy by an employee with disciplinary action. Notwithstanding the foregoing, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also a risk that others may find a way to break through our security systems. We strive to protect your information but do not ensure the security and privacy of any information you transmit to us, and you do so at your own risk.
+
+Except as otherwise described in this Privacy Policy, we will only use Personally Identifiable Information for the purposes described above or as otherwise disclosed at the time we request such information from you.
+
+You can always contact us in order to (1) update or correct your Personally Identifiable Information, or (2) change your preferences with respect to communications and other information you receive from us by sending an email to [privacy@diet.com](mailto:privacy@diet.com). Such updates, corrections, changes, and deletions will not have an effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change, or deletion.
+
+You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our system. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personally Identifiable Information may exist in a non-erasable form that will be difficult or impossible for us to locate. We promise that promptly after receiving your request, all Personally Identifiable Information stored in databases we actively use and other readily searchable media will be updated, corrected, changed, or deleted, as appropriate, as soon as reasonably practicable.
+
+If we change this Privacy Policy, we will post those changes on our Sites so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The Policy will include the most recent date in which any revision has been made. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personally Identifiable Information. If you do not agree to the terms of this Privacy Policy, you should not use our Website.
+
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us as follows:
+
+[privacy@diet.com](mailto:privacy@diet.com)
+
+Or, write to us: 
+
+Attn: Privacy   
+Diet.com, Inc.   
+767 Corbett Avenue, Suite 6   
+San Francisco, CA   
+94131
+
+[Click here](https://web.archive.org/web/20041206205235id_/http%3A//www.diet.com/member/join_now.php) to join Diet.com - the solution that brings long-term results for life!
+
+© 2004 Diet.com, Inc. All Rights Reserved.
