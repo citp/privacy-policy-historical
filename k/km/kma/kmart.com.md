@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603170857id_/http%3A//www.kmart.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612155527id_/http%3A//www.kmart.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Kmart.com Helpdesk
 
 |  |   
 | [](https://web.archive.org/helpdesk/index.jsp)
+
+_Updated February 2004_
 
 This privacy policy explains how Kmart.com collects, uses, and discloses the information of users of the www.Kmart.com Website (the "Kmart.com Website," or "our Website") and the Kmart.com ISP Services ("the ISP Services"), which are administered by our partners and contractors. ("ISP Service Partners"). 
 
@@ -13,7 +15,7 @@ When reviewing any privacy policy on the Internet, you should be familiar with t
 
 **Collecting your information**
 
-This section explains what information we collect through the Kmart.com Website and ISP Services. Please note that we correlate and supplement this data with both aggregate and personally identifiable information gathered by other companies. For example, Kmart collects personally identifiable information and information relating to customer purchases in its retail stores, and then shares this information with us. 
+This section explains what information we collect through the Kmart.com Website and ISP Services. Please note that we correlate and supplement this data with both aggregate and personally identifiable information gathered by other companies. For example, Kmart collects personally identifiable information and information relating to customer purchases in its retail stores, and then shares this information with us.
 
 Important: Children under the age of 18 should use our Website under the supervision of their parents or guardians.
 
@@ -24,6 +26,8 @@ When you register for the Kmart.com Website we collect personally identifiable i
 When you use our Website we may collect a variety of technical data, which we store in both aggregate and, if you are registered with BlueLight, personally identifiable forms. This data includes (but is not limited to) your IP address (a unique number that identifies your access account on the Internet), domain, and Web browser information. We may track the page you visited before coming to BlueLight, and the page you link to when you leave BlueLight, which of our pages you access, and how long you spend on each page. 
 
 The Kmart.com Website uses "cookies," which are small pieces of information stored on your computer. Cookies let our Website recognize previous visitors to our web page, record a visitor's progress from page to page, and recall certain information a visitor entered previously. For instance, a cookie may store your password, or note that you're interested in electronics. You can choose to decline our cookies (e.g., by setting your browser to reject cookies), but if you do, some parts of the Kmart.com website may not operate properly. We may also use tracking images and applets to collect the same information. 
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
 
 We allow third parties to collect aggregate and other anonymous information about our visitors through the Kmart.com Website. Should we enter into agreements that allow third parties to collect personally identifiable information about our visitors, we will inform visitors of these activities at the location of the collection. 
 
@@ -68,7 +72,7 @@ We have instituted security measures in our physical facilities to protect again
 
 Please keep in mind, however, that no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit using our Website or ISP Services, and you transmit such information at your own risk. Kmart.com further does not assume responsibility for use or disclosure of your information that are the result of unauthorized or illegal access to our systems or those of our vendors or partners. 
 
-Inquiries and requests relating to the Kmart.com Website policy should be sent by email to [customercare@bluelight.com](mailto:customercare@bluelight.com). You can also reach us at our mailing address:
+Inquiries and requests relating to the Kmart.com Website policy should be sent by email to [customersupport@online.kmart.com](mailto:customersupport@online.kmart.com). You can also reach us at our mailing address:
 
     Kmart.com Privacy Policy  
 P.O. Box 417  
