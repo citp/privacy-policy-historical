@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the webmasterslibrary.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204225600id_/http%3A//www.webmasterslibrary.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterslibrary.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603093317id_/http%3A//www.webmasterslibrary.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement - Webmasters' Library
 
-  
-  
   
 
 
@@ -13,7 +11,7 @@ As Webmasters' Library respects the privacy of its visitors, this document has b
 
 Location of Service:
 
-  * The creator of Webmasters' Library, [Brad Culbert](mailto:brad@webmasterslibrary.com), is based in Queensland, Australia
+  * The creator of Webmasters' Library, Brad Culbert, is based in Queensland, Australia
   
 
   * Webmasters' Library is hosted by Webstrike Solutions in Colorado USA.
