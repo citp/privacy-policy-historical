@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalspy.co.uk privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203012941id_/http%3A//www.digitalspy.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalspy.co.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204426id_/http%3A//www.digitalspy.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Digital Spy - Privacy Policy
+# Digital Spy -
 
 This privacy policy is applicable to any personal information which is given by You to Digital Spy ("User Information") via the web site located at www.digitalspy.co.uk and all its related domains ("the Digital Spy Site").
 
@@ -18,4 +18,4 @@ You may notify Digital Spy of any updates, amendments and corrections to previou
 
 Digital Spy reserves the right, at any time, to modify, alter, or update this privacy policy and any changes shall be notified to all users.
 
-Our web site uses third party advert servers (such as DoubleClick) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy). 
+Our web site uses third party advert servers (such as DoubleClick) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).
