@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the snow.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604235636id_/http%3A//snow.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208100052id_/http%3A//www.snow.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Snow - Privacy Policy
+
+Privacy Policy
 
 The Vail Corporation and its subsidiary companies ("VRMC") are committed to protecting the personal privacy of visitors and guests using its Internet sites.
 
@@ -100,5 +102,4 @@ You can send email to [privacy-support@vailresorts.com](mailto:privacy-support@v
 
 VRMC reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will use commercially reasonable efforts to notify you of any significant changes to this privacy policy. However, it is your responsibility to check this site for any such updates as you will be bound by them should you choose to visit our sites.
 
-Privacy Policy   
-
+Privacy Policy
