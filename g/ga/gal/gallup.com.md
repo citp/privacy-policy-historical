@@ -1,39 +1,50 @@
-> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207041400id_/http%3A//gallup.com/Update/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2001-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010617195144id_/http%3A//gallup.com/Update/privacy.asp) for the most accurate reproduction.*
 
 # The Gallup Organization - Privacy Policy
 
 |   |  **The Gallup Organization - Privacy Policy**  
 
 
-Protection of personal privacy has always been a hallmark of The Gallup Organization. Since our inception in 1935, Gallup has maintained the anonymity of survey respondents unless the respondent provides express consent to the release of individual responses or information. In a like manner, we protect the identity of registered users of the _Gallup Tuesday Briefing_ publication as well as the identity of individuals who access our website. 
+Protection of personal privacy has always been a hallmark of The Gallup Organization. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless express consent to the release of a respondent's personal information or individual responses has been provided by that respondent. In a like manner, Gallup protects the identity of individuals who access its Web sites. Please read the following policy for further details as to the types of information collected through Gallup Web sites, including personal information, and how it is treated. 
 
-_**Information Collected by Gallup**_   
-Gallup collects two types of information from registered users: personal data, such as name, address, and e-mail address; and aggregated data, such as information about traffic patterns on Gallup.com (for example, how many users log on to Gallup.com on a daily basis). 
+**INFORMATION COLLECTED BY GALLUP WEB SITES**
 
-_**Personal Data**_   
-Personal data is collected during registration for the _Gallup Tuesday Briefing_ publication. **Gallup will never disclose your identity or personal information to any third party**. Gallup will never barter, trade, or sell access to our database of registered users. 
+Gallup Web sites gather information in two ways: (1) indirectly (for example, through our site's technology), and (2) directly (for example, when you, the site visitor, voluntarily provide information on various pages). 
 
-Personal data is collected during registration for the Gallup News _Alerts_ service. We have chosen Alerts.com, to be the distributor of our News _Alerts_ service and the personal information collected for this service will reside on their server. **Under no circumstances will Gallup disclose your identity or personal information to Alerts.com.** Further, Alerts.com will not have any rights to access or barter, trade or sell, your personal information. 
+_**Information Collected Indirectly**_   
+Gallup indirectly collects a variety of information pertaining to use of its Web sites. One type of this information is that which is related to site traffic volume and patterns, such as the number of visitors to a given site or page on a daily basis. This type of indirectly collected information is gathered through various means, such as an IP address, which is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you visit a page from Gallup, our servers log your computer's IP address. 
 
-_**Aggregated Information**_   
-Gallup gathers aggregated information for both registered and non-registered users. Aggregated information (such as which pages users visit) is collected through various means. One of these ways is through an IP address, a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from Gallup, our servers log your IP address. **Gallup does not link IP addresses to anything personally identifiable, so although your session will be logged, your session will remain anonymous to us.** Gallup collects IP addresses for the purposes of system administration. 
+Only designated administrators can access this information, and it is used only for administrative and planning purposes to meet the needs of our users, such as to improve the content of the site and to customize the content and/or layout of the site for individuals or groups of users. 
 
-_**Use of Cookies**_   
-A cookie is a small data file that most major Web sites write to your hard drive for record-keeping purposes when you visit them. Gallup does not use "cookies" to collect information.
+Other types of indirectly collected information are stored in "cookies." Cookies are small files of electronic information that a Web site can transfer to a visitor's hard drive to help that visitor while on the site. Some Gallup sites use cookies simply to store a user code so that the user does not have to re-enter their information when rejoining the site. The use of cookies is standard on the Internet. Although most Web browsers automatically accept cookies, the decision of whether to accept them is yours. A browser can usually be adjusted to prevent the reception of cookies, or to provide notification whenever a cookie is sent to you. Even without accepting a cookie, users can still access most of the features offered by Gallup Web sites. 
 
-_**Use of Information Collected by Gallup**_   
-Gallup uses both the personal and aggregated information we collect for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for individuals or groups of users, and if requested, to provide information services by e-mail to the user. Gallup reserves the right to change the policy on use of information collected. Any changes in policy will be noted in a revised privacy policy statement and will be posted at least 30 days prior to implementation. 
+_**Information Collected Directly**_   
+Gallup also collects information that is voluntarily provided by site visitors, such as a name or an e-mail address. When Gallup collects this type of information, we will notify you as to why we are asking for the information and how it will be used. It is entirely your decision to provide the requested information. Such personal data is collected when a site visitor registers with a site or requests Web services. This information is kept totally confidential, and will be used only to contact you. You may choose to have this information removed at any time. Gallup will never barter, trade, or sell access to our database of registered users. 
 
 _**Correcting and Changing User Information and Preferences**_   
-If you have registered as a member through our online registration system and have subscribed to one or more of our e-mail newsletters and do not want to receive such e-mail newsletter(s) from us in the future, discontinue your subscriptions by e-mailing us at [tuesdaybriefing@gallup.com](mailto:tuesdaybriefing@gallup.com). 
+If you are receiving e-mail communications from Gallup but wish to discontinue this service, you may request to do so at any time by e-mailing us at [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com). 
 
-_**Information Security at Gallup**_   
-Gallup employees understand the need for user privacy and the company has appointed a Privacy Policy Administrator to monitor privacy practices. Access to user data is strictly limited and can only be accessed by specific individuals who have the necessary user name and password combination. A log is maintained to record who has accessed the data. This log is monitored periodically for security breaches. 
+You also have the option to request a revision of your user information at any time by e-mailing the requested changes to [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com). 
+
+_**Information Security**_   
+Gallup employees understand the need for user privacy, and we maintain strict security procedures to protect your information. Gallup has appointed a Privacy Policy Administrator to monitor privacy practices. Access to user data is strictly limited to specific individuals who are trained to respect user privacy. The access given to these employees is restricted to their need of such information for business reasons. A log of those who accessed the data is maintained and monitored to prevent security breaches. 
+
+_**Third-Party Information Storage**_   
+Some information is stored for Gallup by authorized third-party companies. These companies are carefully selected by Gallup. We limit such third parties in their access to and use of your personal information, and like Gallup, they will never barter, trade, or sell access to your information. 
 
 _**Children and Privacy**_   
-Gallup encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. Gallup's sites will not contain content that is considered unsuitable for children. 
+Gallup encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. Gallup sites will not contain content that is generally considered unsuitable for children. 
 
 _**Links to Other Sites**_   
-It is important to note that the Gallup site may contain links to other sites, and that those sites may not follow the same privacy policies as Gallup. These sites may send their own cookies to you and may collect data and make use of it in ways that Gallup does not. 
+Gallup Web sites may contain links to sites owned and/or operated by other organizations, and the privacy policies of those sites may differ from that of Gallup. These sites may collect data and make use of it in ways that Gallup does not. We encourage you to review the privacy policies posted on all third-party sites. 
+
+_**Transfer of Information to the United States**_   
+In accessing Gallup Web sites, you may be transferring personal data that is used by Gallup for statistical, administration, or marketing purposes. As a worldwide organization, Gallup collects data that may be transferred internationally throughout Gallup offices worldwide. In using any Gallup site you consent to having your information transferred to and processed in the United States or any other country in which Gallup is located. If Gallup seeks to collect any additional personal data, you will be informed of the proposed uses of that data and asked for your consent. 
+
+_**Policy Updates**_   
+This Privacy Policy is Gallup's promise to its Web site users. Additional information that is particular to specific Gallup sites may exist, and updates to this policy may be posted. For these reasons we suggest that users who may have specific concerns about the information being gathered and use of that information regularly view the Privacy Policy on each site. Gallup reserves the right to change the policy on use of information collected at any time. 
+
+_**Additional Questions or Comments**_   
+If you have any additional questions or comments regarding Gallup's Privacy Policy, please e-mail us at [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com)
 
 | 
