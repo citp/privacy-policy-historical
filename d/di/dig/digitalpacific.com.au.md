@@ -1,36 +1,36 @@
-> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205060746id_/http%3A//digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
 
 # Digital Pacific Web Hosting
 
 |   
 ---  
-  | 
+**»**   | 
+
+[Hosted Sites ****](https://web.archive.org/web/20041205060746id_/http%3A//digitalpacific.com.au/sites.php)  
+  
+**»**   | 
+
+[Free web applications](https://web.archive.org/web/20041205060746id_/http%3A//digitalpacific.com.au/powertools.php)  
+  
+**»**   | 
+
+[Plan features ](https://web.archive.org/web/20041205060746id_/http%3A//digitalpacific.com.au/hosting.php)  
+  
+**»**   | 
+
+[Support](https://web.archive.org/web/20041205060746id_/http%3A//digitalpacific.com.au/support.php)  
+  
+**»**   | 
+
+[Order now](https://web.archive.org/web/20041205060746id_/http%3A//digitalpacific.com.au/secure/order)  
+  
+**»**   | 
+
+[Contact](https://web.archive.org/web/20041205060746id_/http%3A//digitalpacific.com.au/contact.php)  
+  
+**»**   | 
 
 [**Web Hosting**](http://www.digitalpacific.com.au/)  
-  
-**»**   | 
-
-[Hosted Sites ](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/sites.php)  
-  
-**»**   | 
-
-[Power Tools ](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/powertools.php)  
-  
-**»**   | 
-
-[Plan features](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/hosting.php)  
-  
-**»**   | 
-
-[Support](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/support.php)  
-  
-**»**   | 
-
-[Order now](http://www.digitalpacific.com.au/secure/order)  
-  
-**»**   | 
-
-[Contact](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/contact.php)  
   
   
   
