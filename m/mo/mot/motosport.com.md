@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606043223id_/http%3A//www.motosportoutlet.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009135929id_/http%3A//www.motosportoutlet.com/policy.htm) for the most accurate reproduction.*
 
 # MotosportOutlet.com- Free Shipping On All Orders Over $100!
 
