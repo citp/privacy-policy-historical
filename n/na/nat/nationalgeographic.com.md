@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgeographic.com privacy policy that was archived on 1999-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990427122602id_/http%3A//www.nationalgeographic.com/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeographic.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619055702id_/http%3A//www.nationalgeographic.com/community/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ nationalgeographic.com
 
@@ -29,7 +29,6 @@ Many browsers are set to accept cookies. You may prefer to set your browser to r
 
 If you have any questions or concerns regarding our privacy policy please direct them to [Privacy@nationalgeographic.com](mailto:privacy@nationalgeographic.com). You may also send a letter to:
 
-Emlyn Christenberry  
 National Geographic Interactive  
 1145 17th Street, N.W.  
 Washington, D.C. 20036  
