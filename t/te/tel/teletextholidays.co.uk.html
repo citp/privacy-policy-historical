@@ -1,87 +1,170 @@
-<!--The following is the downloaded HTML source of the teletextholidays.co.uk privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604031029id_/http%3A//teletextholidays.co.uk/privacy.asp%3Farea%3Doverseas) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teletextholidays.co.uk privacy policy that was archived on 2002-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021210045412id_/http%3A//www.teletextholidays.co.uk/privacy.asp%3Farea%3Doverseas) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Teletext Holidays</title>
 	<link rel="StyleSheet" href="codeincludes/holqb.css" type="text/css">
-	<script language="javascript" src="codeincludes/teletext.js"></script>
+	
+<style>
+<!--
+.wrap1{
+position:relative;
+  color: #ffffff;
+  text-decoration:none;
+}
+td.wrap2{
+position:absolute;
+  color: #ffffff;
+  text-decoration:none;
+}
+#dropmenu0, #dropmenu1, #dropmenu2, #dropmenu3, #dropmenu4, #dropmenu5, #dropmenu6{
+  font-family: "Arial", Verdana, sans-serif;
+  font-size: 12px;
+z-index:100;
+}
+.menuitems{
+  font-family: "Arial", Verdana, sans-serif;
+  font-size: 10px;
+  font-weight: none;
+  text-decoration:none;
+}
 
-<script language="JavaScript" type="text/javascript">
-<!-- 
+.menuitems:hover{
+  background-color: #E8A862;
+  color: #ffffff;
+  text-decoration:none
+}
 
-overseas_menu = new Array();
-uk_menu = new Array();
-flights_menu = new Array();
-general_menu = new Array();
-cruise_menu = new Array();
+-->
+</style>
 
-find_a_holiday_overseas = ["holiday_search.asp?area=overseas|Holiday search", "dpn_menu_qb.asp?area=overseas|Browse latest deals", "accommodation.asp?area=overseas|Accommodation", "france.asp?area=overseas|France holidays"];
+<script language="javascript" src="codeincludes/teletextmenu_2.js"></script>
 
-find_a_holiday_uk = ["holiday_search_uk.asp?area=uk|Holiday search"];
+<style type="text/css">
 
-find_a_holiday_flights = ["fsearch.asp?area=flights|Flight search", "dpn_menu_qb.asp?area=flights|Browse latest deals", "flight_arrivals.asp?area=flights|Flight arrivals", "accommodation.asp?area=flights|Accommodation"];
+div.menuBar,
+div.menuBar a.menuButton {
+  font-family: "Arial", Verdana, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: bold;
+  color: #ffffff;
+}
 
-find_a_holiday_general = ["holiday_search.asp?area=ski|Holiday search", "dpn_view_qb.asp?action=displaydpn&area=ski&menu=index&categoryid=113&labelid=0|Browse latest deals"];
+div.menu,
+div.menu a.menuItem {
+  font-family: "Verdana", Arial, sans-serif;
+  font-size: 9px;
+  font-style: normal;
+  color: #ffffff;
+}
 
-find_a_holiday_cruise = ["holiday_search_cruise.asp?area=cruise|Holiday search", "cruise.asp?area=cruise|Cruise directory", "tv_listings.asp?area=cruise|Browse TV text ads"];
+div.menuBar {
+  background-color: #CC4300;
+  border: 0px outset #e0e0e0;
+  padding: 4px 2px 4px 2px;
+}
 
-where_to_go_overseas = ["holiday_news.asp?area=overseas|News headlines", "holiday_news_depth.asp?area=overseas|News in depth", "destination_guide_home.asp?area=overseas|Destination guides", "ten_of_the_best_browser_theme.asp?area=overseas|Ten of the Best", "http://www.whatsonwhen.com/partners/teletext/overseas/|Worldwide events", "holiday_ideas.asp?area=overseas|Holiday ideas", "http://www.brochurebank.co.uk/TTextHoliday/TTHBrochureSelect.asp?inDB=TTEXT&outDB=TTEXT_HOL&Zero=1&area=overseas|Free brochures", "info_search_home.asp?area=overseas|Information search"];
+div.menuBar a.menuButton {
+  background-color: transparent;
+  border: 0px solid #e0e0e0;
+  color: #ffffff;
+  cursor: normal;
+  left: 0px;
+  margin: 5px;
+  padding: 4px 2px 4px 2px;
+  position: relative;
+  text-decoration: none;
+  top: 0px;
+  z-index: 100;
+}
 
-where_to_go_uk = ["holiday_news.asp?area=uk|News headlines", "holiday_news_depth.asp?area=uk|News in depth", "http://www.dayvisits.co.uk/TTextHoliday/TTHLeafletSelect.asp?Zero=1&outDB=TTEXT|Days out", "destination_guide_home_uk.asp?area=uk|Destination guides", "ten_of_the_best_browser_theme_uk.asp?area=uk|Ten of the Best", "http://www.whatsonwhen.com/partners/teletext/uk/page.asp?file=uk|Events", "http://www.brochurebank.co.uk/TTextHoliday/TTHBrochureSelect.asp?inDB=TTEXT&outDB=TTEXT_HOL&area=uk&Zero=1|Free Brochures", "holiday_ideas.asp?area=uk|Holiday ideas", "info_search_home.asp?area=uk|Information search"];
+div.menuBar a.menuButton:hover {
+  background-color: #E8A862;
+  border: 0px outset #e0e0e0;
+  color: #ffffff;
+}
 
-where_to_go_flights = ["holiday_news.asp?area=flights|News headlines", "holiday_news_depth.asp?area=flights|News in depth", "destination_guide_home.asp?area=flights|Destination guides", "ten_of_the_best_browser_theme.asp?area=flights|Ten of the Best", "http://www.whatsonwhen.com/partners/teletext/flights/|Worldwide events", "holiday_ideas.asp?area=flights|Holiday ideas", "http://www.brochurebank.co.uk/TTextHoliday/TTHBrochureSelect.asp?inDB=TTEXT&outDB=TTEXT_HOL&Zero=1&area=flights|Free brochures", "info_search_home.asp?area=flights|Information search"];
+div.menuBar a.menuButtonActive,
+div.menuBar a.menuButtonActive:hover {
+  background-color: #E8A862;
+  border: 0px inset #e0e0e0;
+  color: #ffffff;
+  left: 0px;
+  top: 0px;
+}
 
-where_to_go_general = ["ski_resort_search.asp?area=ski|Resort guides", "http://www.teletextholidays.co.uk/snow_rock.asp|Ski shop", "ski_snow_search.asp?area=ski|Snow & weather", "http://www.brochurebank.co.uk/TTextHoliday/TTHBrochureDisplay.asp?inDB=TTEXT&outDB=TTEXT_HOL&Zero=1&newSearch=True&area=ski&productLST=WSP|Free brochures"];
+div.menu {
+  background-color: #000000;
+  border: 1px solid #000000;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+  z-index: 100;
+}
 
-where_to_go_cruise = ["cruise_ship_guide_index.asp?area=cruise|Ship guides", "cruise_port_guides_map.asp?area=cruise|Port guides", "cruise_news.asp?area=cruise&lngSlotId=2|Cruise news", "holiday_news_depth.asp?area=cruise|News in depth", "cruise.asp?area=cruise|Cruise directory", "http://www.brochurebank.co.uk/TTextHoliday/TTHBrochureDisplay.asp?inDB=TTEXT&outDB=TTEXT_HOL&Zero=1&newSearch=True&area=cruise&productLST=CRU|Free brochures", "info_search_home.asp?area=cruise|Information search"];
-
-before_you_go_overseas = ["travel_handbook.asp?area=overseas|Travel handbook", "destination_guide_home.asp?area=overseas|Destination guides", "http://www.whatsonwhen.com/partners/teletext/overseas/|Worldwide events", "car_hire.asp?area=overseas|Car hire", "http://www.norwich-union.co.uk/products/insurance/travel/index.htm?source=ZVE5|Travel insurance", "currency.asp?area=overseas|Buy currency", "http://www.teletextholidays.co.uk/frameit.asp?section=overseas&url=http://www.holidayextras.co.uk/ttextoverseas|Airport parking and lounges", "http://www.linguaphone.co.uk/teletextv3/Linguaphone.php3?area=overseas|Learn a language", "weather_home.asp?area=overseas|Weather", "info_search_home.asp?area=overseas|Information search", "http://www.virgintravelstore.com/aff/Teletext/Overseas/main.asp|Attraction Tickets"];
-
-before_you_go_uk = ["travel_handbook.asp?area=uk|Travel handbook", "destination_guide_home_uk.asp?area=uk|Destination guides", "http://www.whatsonwhen.com/partners/teletext/uk/page.asp?file=uk|Events", "car_hire.asp?area=uk|Car hire", "weather_home.asp?area=uk&C=7&Y=78|Weather", "info_search_home.asp?area=uk|Information search"];
-
-before_you_go_flights = ["travel_handbook.asp?area=flights|Travel handbook", "destination_guide_home.asp?area=flights|Destination guides", "http://www.whatsonwhen.com/partners/teletext/flights/|Worldwide events", "car_hire.asp?area=flights|Car hire", "http://www.norwich-union.co.uk/products/insurance/travel/index.htm?source=ZVE5|Travel insurance", "currency.asp?area=flights|Buy currency", "http://www.teletextholidays.co.uk/frameit.asp?section=flights&url=http://www.holidayextras.co.uk/ttextflights|Airport parking and lounges", "http://www.linguaphone.co.uk/teletextv3/Linguaphone.php3?area=flights|Learn a language", "weather_home.asp?area=flights|Weather", "info_search_home.asp?area=flights|Information search", "http://www.virgintravelstore.com/aff/Teletext/flights/main.asp|Attraction Tickets"];
-
-before_you_go_general = ["ski_resort_search.asp?area=ski|Resort guides", "http://www.teletextholidays.co.uk/snow_rock.asp|Ski shop", "ski_snow_search.asp?area=ski|Snow & weather", "http://www.norwich-union.co.uk/products/insurance/travel/index.htm?source=ZVE5|Travel insurance", "http://www.postoffice.co.uk/networkbanking/nbttframe.html?AREA=SKI|Buy currency", "http://www.linguaphone.co.uk/teletextv3/Linguaphone.php3?area=ski|Learn a language", "http://www.teletextholidays.co.uk/frameit.asp?section=ski&url=http://www.holidayextras.co.uk/ttextski|Airport parking and lounges", "car_hire.asp?area=ski|Car hire"];
-
-before_you_go_cruise = ["cruise_travel_handbook.asp?area=cruise|Travel handbook", "cruise_ship_guide_index.asp?area=cruise|Ship guides", "cruise_port_guides_map.asp?area=cruise|Port guides", "weather_home.asp?area=cruise|Weather", "http://www.norwich-union.co.uk/products/insurance/travel/index.htm?source=ZVE5|Travel insurance", "currency.asp?area=cruise|Buy currency", "http://www.teletextholidays.co.uk/frameit.asp?section=cruise&amp;url=http://www.holidayextras.co.uk/ttextcruise|Airport parking and lounges", "http://www.linguaphone.co.uk/teletextv3/Linguaphone.php3?area=cruise|Learn a language", "car_hire.asp?area=cruise|Car hire", "info_search_home.asp?area=cruise|Information search"];
-
-late_deals_overseas = ["dpn_menu_qb.asp?area=overseas|Browse latest deals", "late_availabiltiy.asp?area=overseas|Late availability search"];
-
-late_deals_uk = ["tv_listings.asp?area=uk#UKDestinations|Browse our TV text ads"];
-
-late_deals_flights = ["dpn_menu_qb.asp?area=flights|Browse latest deals"];
-
-late_deals_general = ["dpn_view_qb.asp?action=displaydpn&area=ski&menu=index&categoryid=113&labelid=0|Browse latest deals", "late_availabiltiy.asp?area=ski|Late availability search"];
-
-late_deals_cruise = ["cruise_late_availability.asp?area=cruise|Late availability search", "cruise.asp?area=cruise|Cruise directory", "tv_listings.asp?area=cruise|Browse TV text ads"];
-
-advice_overseas = ["travel_qanda.asp?area=overseas|Travel Q &amp; A", "fo_alerts.asp?area=overseas|Foreign Office travel alerts", "holidays_law.asp?area=overseas|Steps towards a trouble-free holiday", "complaint.asp?area=overseas|What to do if you have a problem", "organisations_explained.asp?area=overseas|Organisations explained", "advertising_guidelines.asp?area=overseas|Advertising guidelines"];
-
-advice_uk = ["travel_qanda.asp?area=uk|Travel Q &amp; A", "holidays_law.asp?area=uk|Steps towards a trouble-free holiday", "complaint.asp?area=uk|What to do if you have a problem", "organisations_explained.asp?area=uk|Organisations explained", "advertising_guidelines.asp?area=uk|Advertising guidelines"];
-
-advice_flights = ["travel_qanda.asp?area=flights|Travel Q and A", "fo_alerts.asp?area=flights|Foreign Office travel alerts", "holidays_law.asp?area=flights|Steps towards a trouble-free holiday", "complaint.asp?area=flights|What to do if you have a problem", "organisations_explained.asp?area=flights|Organisations explained", "advertising_guidelines.asp?area=flights|Advertising guidelines"];
-
-advice_general = ["travel_qanda.asp?area=ski|Travel Q &amp; A", "fo_alerts.asp?area=ski|Foreign Office travel alerts", "holidays_law.asp?area=ski|Steps towards a trouble-free holiday", "organisations_explained.asp?area=ski|Organisations explained", "complaint.asp?area=ski|What to do if you have a problem", "advertising_guidelines.asp?area=ski|Advertising guidelines"];
-
-advice_cruise = ["travel_qanda.asp?area=cruise|Travel Q &amp; A", "holidays_law.asp?area=cruise|Steps towards a trouble-free holiday", "organisations_explained.asp?area=cruise|Organisations explained", "fo_alerts.asp?area=cruise|Foreign Office travel alerts", "complaint.asp?area=cruise|What to do if you have a problem", "advertising_guidelines.asp?area=cruise|Advertising guidelines"];
-
-menuSectionsArray = [find_a_holiday_overseas, find_a_holiday_uk, find_a_holiday_flights, find_a_holiday_general, find_a_holiday_cruise, where_to_go_overseas, where_to_go_uk, where_to_go_flights, where_to_go_general, where_to_go_cruise, before_you_go_overseas, before_you_go_uk, before_you_go_flights, before_you_go_general, before_you_go_cruise, late_deals_overseas, late_deals_uk, late_deals_flights, late_deals_general, late_deals_cruise, advice_overseas, advice_uk, advice_flights, advice_general, advice_cruise, overseas_menu, uk_menu, flights_menu, general_menu, cruise_menu];
- 
-//-->
+div.menu a.menuItem {
+  background-color: #ffffff;
+  color: #000000;
+  cursor: default;
+  left: 0px;
+  right: 23px;
+  display: block;
+  padding: 2px 1em;
+  text-decoration: none;
+  white-space: nowrap;
+}
 
 
-</script>
+div.menu a.menuItem:hover, div.menu a.menuItemHighlight, a.LastmenuItem:hover {
+  background-color: #E8A862;
+  color: #ffffff;
+}
+
+div.menu a.menuItem span.menuItemText {
+}
+
+div.menu a.menuItem span.menuItemArrow {
+  margin-right: -.75em;
+}
+
+div.menu div.menuItemSep {
+  border: 1px inset #e0e0e0;
+  margin: 4px 2px;
+}
+
+</style>
+
 
 </head>
 
 	
 		<body bgcolor="#ffffff" topmargin="5" leftmargin="0" marginheight="5" marginwidth="0" onresize="position();" onclick="hide();">
 		<!-- Ad and logo table -->
-		<a name="top"></a> <!-- used for the back to top links  -->
+		
 <table cellpadding="0" cellspacing="0" border="0" align="center" width="740">
+	<tbody><tr bgcolor="#ffffff">
+		<td width="6" valign="top" colspan="2"><img src="images/left_white_corner.gif" width="8" height="8" alt="" border="0"></td>
+		<td colspan="2"><img src="images/top_white_table.gif" width="724" height="8" border="0"></td>
+		<td align="right" valign="top" width="8" colspan="2"><img src="images/right_white_corner.gif" width="8" height="8" alt="" border="0"></td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td bgcolor="#000000"><img src="images/sp.gif" width="1" height="1" border="0"></td>
+		<td><img src="images/sp.gif" width="7" height="1" border="0"></td>
+		<td colspan="2" valign="bottom"><table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
  <tbody><tr>
-     <td width="272"><a href="home.asp"><img src="images/logo.gif" width="140" height="40" border="0" alt="Home"></a></td>
+     <td width="272"><a href="home.asp"><img src="images/new_nav/new_logo.gif" width="169" height="48" border="0" alt="Home" hspace="8"></a></td>
 	 <td>
+
+<nolayer>
+<iframe src="http://ad.uk.doubleclick.net/adi/teletextholidays.co.uk/home.asp;qbhome=home;sz=1x1;ord=2002121045412A54?" width="1" height="1" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<A HREF="http://ad.uk.doubleclick.net/jump/teletextholidays.co.uk/home.asp;abr=!ie;qbhome=home;sz=1x1;ord=2002121045412A54?"><IMG SRC="http://ad.uk.doubleclick.net/ad/teletextholidays.co.uk/home.asp;abr=!ie;qbhome=home;sz=1x1;ord=72184363761582450?" border=0 height="1" width="1"></A>
+</iframe>
+</nolayer>
+<ilayer id="layer1" visibility="hidden" width="1" height="1"></ilayer>
+
+
 
 <script language="javascript">
 	var isFreeServe = false;
@@ -98,83 +181,110 @@ menuSectionsArray = [find_a_holiday_overseas, find_a_holiday_uk, find_a_holiday_
 	}
 	else {
 		//document.write('<NOLAYER>');
-		//document.write('<IFRAME SRC="http://ad.uk.doubleclick.net/adi/teletextholidays.co.uk/privacy.asp;sect=;;sz=468x60;ord=0.7055475?" width="468" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">');
+		//document.write('<IFRAME SRC="http://ad.uk.doubleclick.net/adi/teletextholidays.co.uk/privacy.asp;sect=;;sz=468x60;ord=0.2357403?" width="468" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">');
 		//document.write('</IFRAME>');
 		//document.write('</NOLAYER>');
 		//document.write('<ILAYER id="layer1" visibility="hidden" width=468 height=60></ILAYER>');
-		
-	ord=Math.random()*10000000000000000; 
-	document.write('<IFRAME SRC="http://ad.uk.doubleclick.net/adi/teletextholidays.co.uk/OverseasBanners;privacy.asp;sect=;;sz=468x60;ord=0.7055475?"  WIDTH="468" HEIGHT="60" MARGINWIDTH="0" MARGINHEIGHT="0" HSPACE="0" VSPACE="0" FRAMEBORDER="0" SCROLLING=no BORDERCOLOR="#000000">');
-	document.write('<   SCRI'+ 'PT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/teletextholidays.co.uk/OverseasBanners;abr=!ie;privacy.asp;sect=;;sz=468x60;ord=0.7055475?"  ><\/SCRIPT>');
-	document.write('</IFRAME>');
+			
+	ord=Math.random()*10000000000000000;
+	document.write('<SCRI' + 'PT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/teletextholidays.co.uk/overseas;dcopt=ist;sz=468x60;ord=' + ord + '?" ><\/SCRIPT>'); 
 
 	}
-</script><iframe src="http://ad.uk.doubleclick.net/adi/teletextholidays.co.uk/OverseasBanners;privacy.asp;sect=;;sz=468x60;ord=0.7055475?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"><   SCRIPT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/teletextholidays.co.uk/OverseasBanners;abr=!ie;privacy.asp;sect=;;sz=468x60;ord=0.7055475?"  ></SCRIPT></iframe>
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/teletextholidays.co.uk/overseas;dcopt=ist;sz=468x60;ord=7388215949451897?"></script>
 
-
-	<noscript>
-	<A HREF="http://ad.uk.doubleclick.net/jump/teletextholidays.co.uk/OverseasBanners;privacy.asp;sect=;;sz=468x60;ord=0.7055475?"  TARGET="_blank">
-	<IMG SRC="http://ad.uk.doubleclick.net/ad/teletextholidays.co.uk/OverseasBanners;privacy.asp;sect=;;sz=468x60;ord=0.7055475?"  WIDTH="468" HEIGHT="60" BORDER="0" ALT=""></A>
-	</noscript>
 <!-- <img src="images/ad.gif" width="468" height="60" alt="" border="0"> --></td>
  </tr>
-</tbody></table><img src="images/sp.gif" width="1" height="5" border="0"><br>
+</tbody></table>
+<br>	<map name="navtabs">
+			<area shape="rect" alt="Home" coords="1,1,103,30" href="home.asp" title="Home">
+			<area shape="rect" alt="Overseas" coords="105,1,233,30" href="home_seg.asp?area=overseas" title="Overseas">
+			<area shape="rect" alt="UK" coords="235,1,391,30" href="home_seg.asp?area=uk" title="UK">
+			<area shape="rect" alt="Flights" coords="393,0,511,30" href="home_seg.asp?area=flights" title="Flights">
+			<area shape="rect" alt="Ski" coords="513,0,615,30" href="home_seg.asp?area=ski" title="Ski">
+			<area shape="rect" alt="Cruise" coords="617,1,713,30" href="home_seg.asp?area=cruise" title="Cruise">
+			<area shape="default" nohref="">
+		</map>
 
-
-
-		<!-- top grey table -->
-
-		<link rel="SHORTCUT ICON" href="favicon.ico">
-
-
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="740">
-	<tbody><tr bgcolor="#ffffff">
-		<td width="6" valign="top" colspan="2"><img src="images/left_white_corner.gif" width="8" height="8" alt="" border="0"></td>
-		<td colspan="2"><img src="images/top_white_table.gif" width="724" height="8" border="0"></td>
-		<td align="right" valign="top" width="8" colspan="2"><img src="images/right_white_corner.gif" width="8" height="8" alt="" border="0"></td>
-	</tr>
-	<tr bgcolor="#ffffff">
-		<td bgcolor="#000000"><img src="images/sp.gif" width="1" height="1" border="0"></td>
-		<td><img src="images/sp.gif" width="7" height="5" border="0"></td>
-		<td><a href="home_seg.asp?area=overseas"><img src="overseas_images/heading.gif" alt="" border="0"></a></td>
-		<td align="right">
-			<table cellpadding="2" cellspacing="0" border="0" width="300">
-				<tbody><tr>
-					<td width="40">&nbsp;</td>					
-					<td class="black" id="menublock" nowrap="">
-						<a href="home_seg.asp?area=overseas" class="navmain" id="navoverseas">Overseas</a> | 
-						<a href="home_seg.asp?area=uk" class="navmain" id="navuk">UK &amp; Ireland</a> | 
-						<a href="home_seg.asp?area=flights" class="navmain" id="navflights">Flights</a> | 
-						<a href="home_seg.asp?area=ski" class="navmain" id="navski">Ski</a> | 
-						<a href="home_seg.asp?area=cruise" class="navmain" id="navcruise">Cruise</a>
-					</td>
-				</tr>	
-			</tbody></table>
-		</td>
+<img src="images/nav/nav_overseas.gif" border="0" width="715" height="28" usemap="#navtabs"></td>
 		<td><img src="images/sp.gif" width="7" height="1" border="0"></td>
 		<td bgcolor="#000000"><img src="images/sp.gif" width="1" height="1" border="0"></td>
 	</tr>
-	<tr>
-		<td bgcolor="#000000"><img src="images/sp.gif" width="1" height="1" border="0"></td>
-		<td bgcolor="#ffffff" colspan="4"><img src="images/sp.gif" width="1" height="7" border="0"></td>
-		<td bgcolor="#000000"><img src="images/sp.gif" width="1" height="1" border="0"></td>
-	</tr>
+
  </tbody></table>
 
+		<!-- top grey table -->
 
- <table background="images/background_pattern.gif" cellpadding="0" cellspacing="0" border="0" align="center" width="740">
- <tbody><tr>
-    <td><img src="images/sp.gif" width="20" height="1" border="0"></td>
-<!-- 	<td  class="title1" width="720" height="39"><img src="images/icons/Privacy_Policy.gif" width="34" height="34" alt="" border="0"></td>
- 		<td class="title1">Privacy Policy</td> -->
- 	<td class="ttitle1white" width="50" height="39"><img src="images/icons/Privacy_Policy.gif" width="34" height="34" alt="" border="0"></td>
- 		<td class="title1white" width="720">Privacy Policy</td>
-<!--<td align="right" width=206><a href="http://www.teletextholidays.co.uk/barclaycard"><img src="images/barclaycard_logo.jpg" alt="Click here for your holiday check list" border=0></a></td>-->
- </tr>
+		
+			<div id="menu1" class="menu" onmouseover="menuMouseover(event)">
+				<a class="menuItem" href="holiday_search.asp?area=overseas">Holiday search</a>
+				<a class="menuItem" href="http://www.leisuredirection.co.uk/TeleText/">Ferry booking</a>
+				<a class="menuItem" href="accommodation.asp?area=overseas">Accommodation</a>
+				<a class="menuItem" href="france.asp?area=overseas">France holidays</a>
+				<a class="menuItem" href="info_search_home.asp?area=overseas">Information search</a>
+			</div>
+			<div id="menu2" class="menu">
+				<a class="menuItem" href="late_availability.asp?area=overseas">Late availability search</a>
+				<a class="menuItem" href="dpn_menu_qb.asp?area=overseas">Browse latest deals</a>
+				<a class="menuItem" href="tv_listings.asp?area=overseas">TV text ads</a>
+			</div>
+			<div id="menu3" class="menu">
+				<a class="menuItem" href="destination_guide_home.asp?area=overseas">Destination guides</a>
+				<a class="menuItem" href="ten_of_the_best_browser_theme.asp?area=overseas">Ten of the best</a>
+				<a class="menuItem" href="holiday_news.asp?area=overseas">News headlines</a>
+				<a class="menuItem" href="holiday_news_depth.asp?area=overseas">News in depth</a>
+				<a class="menuItem" href="http://www.brochurebank.co.uk/TTextHoliday/TTHBrochureSelect.asp?inDB=TTEXT&amp;outDB=TTEXT_HOL&amp;Zero=1&amp;area=overseas">Free brochures</a>
+				<a class="menuItem" href="holiday_ideas.asp?area=overseas">Holiday ideas</a>
+				</div>
+			<div id="menu4" class="menu" onmouseover="menuMouseover(event)">
+				<a class="menuItem" href="travel_handbook.asp?area=overseas">Travel handbook</a>
+				<a class="menuItem" href="weather_home.asp?area=overseas">Weather</a>
+				<a class="menuItem" href="http://www.virgintravelstore.com/aff/Teletext/Overseas/main.asp">Attraction tickets</a>
+				<a class="menuItem" href="car_hire.asp?area=overseas">Car hire</a>
+				<a class="menuItem" href="currency.asp?area=overseas">Buy currency</a>
+				<a class="menuItem" href="http://www.teletextholidays.co.uk/frame_nav.asp?area=overseas&amp;url=http://www.holidayextras.co.uk/ttextoverseas">Airport parking &amp; lounges</a>
+				<a class="menuItem" href="http://www.linguaphone.co.uk/teletextv3/Linguaphone.php3?area=overseas">Learn a language</a>
+				<a class="menuItem" href="http://www.norwichunion.com/teletext/overseas/single_or_multi.htm">Travel insurance</a>
+			</div>
+			<div id="menu5" class="menu">
+				<a class="menuItem" href="travel_qanda.asp?area=overseas">Travel Q &amp; A </a>
+				<a class="menuItem" href="fo_alerts.asp?area=overseas">Foreign Office travel alerts</a>
+				<a class="menuItem" href="holidays_law.asp?area=overseas">Trouble-free holiday</a>
+				<a class="menuItem" href="complaint.asp?area=overseas">If you have a problem</a>
+				<a class="menuItem" href="organisations_explained.asp?area=overseas">Organisations explained</a>
+				<a class="menuItem" href="advertising_guidelines.asp?area=overseas">Advertising guidelines</a>
+			</div>
+		
+	
 
+<table width="740" cellspacing="0" align="center" cellpadding="0" border="0" bgcolor="#CC4300">
+	<tbody><tr>
+		<td align="right" height="28">
+			<div class="menuBar" style="align:right">
+				<a class="menuButton" href="book_a_holiday_overseas.asp?area=overseas" onmouseover="buttonMouseover(event, 'menu1');">
+					Holiday search</a> | 
+				<a class="menuButton" href="find_late_overseas.asp?area=overseas" onmouseover="buttonMouseover(event, 'menu2');">
+					Late deals</a> | 
+				<a class="menuButton" href="where_to_go_overseas.asp?area=overseas" onmouseover="buttonMouseover(event, 'menu3');">
+					Guides &amp; ideas</a> | 
+				<a class="menuButton" href="get_ready_overseas.asp?area=overseas" onmouseover="buttonMouseover(event, 'menu4');">
+					Holiday essentials</a> | 
+				<a class="menuButton" href="holiday_advice_overseas.asp?area=overseas" onmouseover="buttonMouseover(event, 'menu5');">
+					Advice</a>
+			</div>
+		</td>
+		<td width="20">&nbsp;</td>
+	</tr>
 </tbody></table>
 
-                                                                                       
+
+<table background="images/background_pattern.gif" cellpadding="0" cellspacing="0" border="0" align="center" width="740">
+	<tbody><tr>
+		<td><img src="images/sp.gif" width="20" height="1" border="0"></td>
+ 		<td class="ttitle1white" width="50" height="39"><img src="images/icons/Privacy_Policy.gif" width="34" height="34" alt="" border="0"></td>
+ 		<td class="title1white" width="720">Privacy Policy</td>
+	</tr>
+</tbody></table>
+
 
 <table cellpadding="0" cellspacing="0" border="0" width="740" align="center">
  <tbody><tr>
@@ -219,7 +329,7 @@ menuSectionsArray = [find_a_holiday_overseas, find_a_holiday_uk, find_a_holiday_
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr height="20">
 	<td><a href="#top"><img src="overseas_images/up_arrow.gif" width="15" height="15" alt="" border="0" vspace="5" hspace="6"></a></td>
-	<td valign="middle" class="black">&nbsp;<a href="#top" class="black" style="text-decoration: none">to top</a></td>
+	<td valign="middle" class="white">&nbsp;<a href="#top" class="white" style="text-decoration: none">to top</a></td>
 </tr>
 </tbody></table>	 
 		 	</p></td>
@@ -309,7 +419,9 @@ menuSectionsArray = [find_a_holiday_overseas, find_a_holiday_uk, find_a_holiday_
 		</tr>
 	
 </tbody></table>
-	<table cellpadding="0" cellspacing="0" border="0" width="740" align="center" bgcolor="#ffffff">
+	
+
+<table cellpadding="0" cellspacing="0" border="0" width="740" align="center" bgcolor="#ffffff">
 <tbody><tr>
 	<td bgcolor="#000000" width="740" colspan="6"><img src="images/sp.gif" width="1" height="1" alt="" border="0"></td>
 </tr>
@@ -321,7 +433,7 @@ menuSectionsArray = [find_a_holiday_overseas, find_a_holiday_uk, find_a_holiday_
 	 <a href="sitehelp.asp?area=overseas" language="javascript" onmouseover="mouseOver(4);" onmouseout="mouseOut(4);"><img name="help4" src="images/ro_help1_off.gif" width="89" height="31" border="0" alt="" vspace="10" hspace="10"></a>
 	 <!-- DLad(16-05-02): CR185 - Email newsletter icon on homepage -->
 	 <!--<a href="newsletter-registration.asp?area=overseas" language="javascript" onMouseOver="mouseOver(5);" onMouseOut="mouseOut(5);"><img name="help5" src="images/ro_newsletter_off.gif" width="92" height="31" border="0" alt="" vspace=10 hspace=10></a></td>-->
-	 </td><td width="350" align="right<img" src="images/sp.gif" height="10" alt="" border="0"><br>
+	 </td><td width="350" align="right"><img src="images/sp.gif" width="1" height="10" alt="" border="0"><br>
 		<table cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr valign="top">
 		<td><font size="-2" color="black">
@@ -355,8 +467,7 @@ menuSectionsArray = [find_a_holiday_overseas, find_a_holiday_uk, find_a_holiday_
 
 <script language="JAVASCRIPT">
 	function ShortcutSelection()
-	{	
-		//alert ("hi")  
+	{	 
 		// ***** Modified by Dimple Lad - 28/11/01: Amended line below to conform to DOM standards for Netscape 4.7
 		window.location.href=window.document.ShortcutsForm.ShortcutsCombo.options[window.document.ShortcutsForm.ShortcutsCombo.selectedIndex].value;  
 	}	
@@ -417,57 +528,35 @@ menuSectionsArray = [find_a_holiday_overseas, find_a_holiday_uk, find_a_holiday_
 position();
 documentLoaded = 'complete';
 //-->
+
+
 </script>
 
-<!-- Intelli-Tracker code. Begin --> 
-<script language="javascript"><!-- 
-dt=document;nr=navigator;ina=nr.appName;sr="0&0";px=0;sv=10;je=0;
-nw=new Date(); ex=new Date(nw.getTime()+36000000);
-dt.cookie="itc=1; EXPIRES="+ex.toGMTString();ce=2;ce=(dt.cookie.indexOf('itc=')!=-1?1:2);
-nt=(ina.substring(0,3)=="Mic")?0:1;
-//--></script><script language="javascript1.1"><!-- 
-je=(nr.javaEnabled()?1:2); sv=11; 
-//--></script><script language="javascript1.2"><!--
-s=screen;px=(nt==0)?s.colorDepth:s.pixelDepth; sv=12; sr=s.width+"&"+s.height;
-//--></script><script language="javascript1.3">
-sv=13;
-</script><script language="javascript"><!--  
-un=Math.round(Math.random()*2000000000);pr=escape(dt.referrer)+"%20";
-il="http://www.intelli-tracker.com/e/t.dll?156&";
-dt.write("<img src='"+il+un+"&"+pr+"&-1&"+ce+"&"+sr+"&"+px+"&"+je+"&"+sv+"' height=1 width=1 border=0>");
-//--></script><img src="http://www.intelli-tracker.com/e/t.dll?156&amp;1844430467&amp;%20&amp;-1&amp;1&amp;800&amp;600&amp;24&amp;2&amp;13" height="1" width="1" border="0"><script language="javascript"><!--
-dt.write("<"+"!--"); 
-//--></script><!--<noscript>
-<img src='http://www.intelli-tracker.com/e/t.dll?156&0&%20&-1&0&0&0&0&0&0' height=1 width=1 border=0>
-</noscript><script language='javascript'><!--
-dt.write("--"+">"); 
-//-->
-<!-- End Intelli-Tracker code -->
 
-
-	<!-- **************These tags need to go on all Holidays QB Pages (Run Of Site)************** -->
-	<script language="JavaScript">
-	ord=Math.random()*10000000000000000; 
-	document.write('<IFRAME SRC="http://ad.uk.doubleclick.net/adi/teletextholidays.co.uk/ROSholidayspopup;sz=1x1;ord=' + ord + '?" WIDTH="1" HEIGHT="1" MARGINWIDTH="0" MARGINHEIGHT="0" HSPACE="0" VSPACE="0" FRAMEBORDER="0" SCROLLING=no BORDERCOLOR="#000000">');
-	document.write('<   SCRI'+ 'PT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/teletextholidays.co.uk/ROSholidayspopup;sz=1x1;abr=!ie;ord=' + ord + '?" ><\/SCRIPT>');
-	document.write('</IFRAME>');
-	</script><iframe src="http://ad.uk.doubleclick.net/adi/teletextholidays.co.uk/ROSholidayspopup;sz=1x1;ord=7024163062299866?" width="1" height="1" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"><   SCRIPT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/teletextholidays.co.uk/ROSholidayspopup;sz=1x1;abr=!ie;ord=7024163062299866?" ></SCRIPT></iframe>
-	<noscript>
-	<A HREF="http://ad.uk.doubleclick.net/jump/teletextholidays.co.uk/ROSholidayspopup;sz=1x1;ord=123456789?" TARGET="_blank">
-	<IMG SRC="http://ad.uk.doubleclick.net/ad/teletextholidays.co.uk/ROSholidayspopup;sz=1x1;ord=123456789?" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></A>
-	</noscript>
-
-	<!-- *************These tags need to go on all pages in the Overseas Section*************** -->
-	<script language="JavaScript">
-	ord=Math.random()*10000000000000000; 
-	document.write('<IFRAME SRC="http://ad.uk.doubleclick.net/adi/teletextholidays.co.uk/OverseasSection;sz=1x1;ord=' + ord + '?" WIDTH="1" HEIGHT="1" MARGINWIDTH="0" MARGINHEIGHT="0" HSPACE="0" VSPACE="0" FRAMEBORDER="0" SCROLLING=no BORDERCOLOR="#000000">');
-	document.write('<   SCRI'+ 'PT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/teletextholidays.co.uk/OverseasSection;sz=1x1;abr=!ie;ord=' + ord + '?" ><\/SCRIPT>');
-	document.write('</IFRAME>');
-	</script><iframe src="http://ad.uk.doubleclick.net/adi/teletextholidays.co.uk/OverseasSection;sz=1x1;ord=6051741021812398?" width="1" height="1" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"><   SCRIPT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/teletextholidays.co.uk/OverseasSection;sz=1x1;abr=!ie;ord=6051741021812398?" ></SCRIPT></iframe>
-	<noscript>
-	<A HREF="http://ad.uk.doubleclick.net/jump/teletextholidays.co.uk/OverseasSection;sz=1x1;ord=123456789?" TARGET="_blank">
-	<IMG SRC="http://ad.uk.doubleclick.net/ad/teletextholidays.co.uk/OverseasSection;sz=1x1;ord=123456789?" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></A>
-	</noscript>
+	<!-- Intelli-Tracker code. Begin --> 
+	<script language="javascript"><!-- 
+	dt=document;nr=navigator;ina=nr.appName;sr="0&0";px=0;sv=10;je=0;
+	nw=new Date(); ex=new Date(nw.getTime()+36000000);
+	dt.cookie="itc=1; EXPIRES="+ex.toGMTString();ce=2;ce=(dt.cookie.indexOf('itc=')!=-1?1:2);
+	nt=(ina.substring(0,3)=="Mic")?0:1;
+	//--></script><script language="javascript1.1"><!-- 
+	je=(nr.javaEnabled()?1:2); sv=11; 
+	//--></script><script language="javascript1.2"><!--
+	s=screen;px=(nt==0)?s.colorDepth:s.pixelDepth; sv=12; sr=s.width+"&"+s.height;
+	//--></script><script language="javascript1.3">
+	sv=13;
+	</script><script language="javascript"><!--  
+	un=Math.round(Math.random()*2000000000);pr=escape(dt.referrer)+"%20";
+	il="http://www.intelli-tracker.com/e/t.dll?156&";
+	dt.write("<img src='"+il+un+"&"+pr+"&-1&"+ce+"&"+sr+"&"+px+"&"+je+"&"+sv+"' height=1 width=1 border=0>");
+	//--></script><img src="http://www.intelli-tracker.com/e/t.dll?156&amp;192663986&amp;%20&amp;-1&amp;1&amp;800&amp;600&amp;24&amp;2&amp;13" height="1" width="1" border="0"><script language="javascript"><!--
+	dt.write("<"+"!--"); 
+	//--></script><!--<noscript>
+	<img src='http://www.intelli-tracker.com/e/t.dll?156&0&%20&-1&0&0&0&0&0&0' height=1 width=1 border=0>
+	</noscript><script language='javascript'><!--
+	dt.write("--"+">"); 
+	//-->
+	<!-- End Intelli-Tracker code -->
 
 
 
