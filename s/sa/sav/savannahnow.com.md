@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201211929id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604045347id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.*
 
 # Savannah Morning News on the Web
 
