@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205183000id_/http%3A//www.primarygames.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331124149id_/http%3A//primarygames.com/privacy.htm) for the most accurate reproduction.*
 
 # PrimaryGames.com - Privacy Statement
 
@@ -8,10 +8,6 @@ PrimaryGames.com **has created this privacy statement in order to demonstrate ou
 #### Information Automatically Logged
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information.  We use this information to help us design a website that is targeted to the interests of our visitors.
-
-#### Advertisers
-
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we do not use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
 #### External Links
 
