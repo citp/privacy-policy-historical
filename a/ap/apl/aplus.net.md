@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621120454id_/http%3A//www.aplus.net/privstat.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209093400id_/http%3A//www.aplus.net/privstat.html) for the most accurate reproduction.*
 
 # A+Net Internet Access & Web Hosting - Privacy Statement
+
+|  | 
 
 ## A+NET -  Privacy Statement 
 
@@ -51,9 +53,11 @@ Please check with those sites to determine their privacy policy.
 If you have any questions about this privacy statement, the practices of this site, or your dealings with A+Net, please contact: 
 
 Privacy Policy Issues/ Product Management  
-A+Net  Internet Services   
+A+Net Internet Services   
 5266 Eastgate Mall    
 San Diego, CA. 92121   
 [privacy@aplus.net](mailto:privacy@aplus.net)   
 Fax (858) 450-0567   
-
+  
+  
+---|---
