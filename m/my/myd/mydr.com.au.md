@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208144324id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626081514id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.*
 
 # myDr Privacy Policy
 
@@ -60,10 +60,10 @@ In the unlikely event that the assets and operations of the _myDr_ business is t
 
 ## Contact us
 
-If you have questions about our privacy policy and practices, or would like to provide feedback, please contact us. 
+If you have questions about our privacy policy and practices, or would like to provide feedback, please contact our privacy officer. 
 
-> Email:  
-[admin@ _myDr_.com.au](mailto:admin@%3Ci%3EmyDr%3C/i%20%3E.com.au)
+Email:  
+[admin@myDr.com.au](http://www.mydr.com.au/contact.asp)
 
 Mail:  
 __myDr__  
