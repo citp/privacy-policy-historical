@@ -1,343 +1,40 @@
-<!--The following is the downloaded HTML source of the bluenile.com privacy policy that was archived on 2003-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030624143620id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluenile.com privacy policy that was archived on 2003-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205024931id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.-->
 
 <html><head><meta name="imageid" content="/assets/images/item/item_pxlclear.gif">
 <meta name="description" content="Blue Nile is concerned about your privacy. We post and clearly state our privacy policy for your review.">
 <meta name="keyword" content="privacy, privacy policy, information, security">
-
-
-<title>Privacy Policy at Blue Nile</title><!--stopindex-->
-	<style type="text/css">
-	.SideNavMenus {
-		position:absolute;
-		top:0;
-		left:0;
-		z-index:100;
-		visibility:hidden
-	}
-	.SideNavDropDown {
-		width:125;
-		font-family:Verdana;
-		font-size:xx-small
-	}
-	.PagingFilterDropDown {
-		font-family:Verdana;
-		font-size=xx-small
-	}
-	</style>
-	
-	<script language="JavaScript">
-	<!--
-	   NS4 = (document.layers) ? 1 : 0;
-	   IE4 = (document.all) ? 0 : 0;
-	   NS6 = (document.getElementById && !document.all) ? 0 : 0;
-
-	  ver4 = (NS4 || IE4 || NS6) ? 1 : 0;
-	 isMac = (navigator.appVersion.indexOf("Mac") != -1) ? 1 : 0;
-	isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
-	var arrMenuSearch = new Array("/diamond_search.asp?track=54","Search<br>for Diamonds","/jewelry_search.asp?track=54","Gifts by Price")
-	arrMenuSearch.name = "search"
-	var arrMenuProduct = new Array("/diamonds.asp?track=54"," Diamonds","/settings_channel.asp?track=54","Engagement Rings","/band_channel.asp?track=54","Wedding &amp; Anniversary Rings","/ring_channel.asp?track=54","Rings","/earring_channel.asp?track=54","Earrings","/necklace_channel.asp?track=54","Necklaces &amp; Pendants","/bracelet_channel.asp?track=54","Bracelets","/mens_watch_channel.asp?track=54","Men&#8217;s Watches","/womens_watch_channel.asp?track=54","Women&#8217;s Watches","/acc_channel.asp?track=54","Accessories")
-	arrMenuProduct.name = "product"
-	var arrMenuMaterial = new Array("/diamond_jewelry.asp?track=54","Diamond Jewelry","/pearl_jewelry.asp?track=54","Pearl Jewelry","/gold_jewelry.asp?track=54","Gold Jewelry","/platinum_jewelry.asp?track=54","Platinum Jewelry","/silver_jewelry.asp?track=54","Silver Jewelry")
-	arrMenuMaterial.name = "material"
-
-	if (isMenu) {
-		var isOverLink = false;
-
-		//Populate the Menus.
-		imgBulletOff = new Image();
-		imgBulletOff.src = "/assets/images/item/item_purplebullet.gif";
-		imgBulletOn = new Image();
-		imgBulletOn.src = "/assets/images/item/item_whitebullet.gif";
-		imgArrowOff = new Image();
-		imgArrowOff.src = "/assets/images/shell/shell_snav_arrow.gif";
-		imgArrowOn = new Image();
-		imgArrowOn.src = "/assets/images/shell/shell_snav_arrow_on.gif";
-
-		
-
-		function DisplayMenus(MenuName,arrMenus) {
-			
-				strMC = "<LAYER NAME='" + MenuName + "_menu' VISIBILITY='HIDDEN' OnMouseOver='menuShow();' OnMouseOut='hideMenu()'><TABLE WIDTH='127' CELLSPACING='0' CELLPADDING='0' BORDER='0'><TR>";
-				
-			strMC += "<TD WIDTH='127' COLSPAN='3'><IMG SRC='/assets/images/item/item_menutop.gif' WIDTH='127' HEIGHT='3'></TD></TR><TR><TD BGCOLOR='#B1BDCD' WIDTH='125'><TABLE BORDER='0' CELLPADDING='2' CELLSPACING='0' WIDTH='125' OnMouseOver='menuShow();'>"
-			for (i=0;i<arrMenus.length;i=i+2) {
-				strElementName = arrMenus.name + i
-				if (strElementName == 'product4' || strElementName == 'product14') {
-					strMC += "<TR><TD ALIGN='CENTER' COLSPAN='2'><IMG SRC='/assets/images/item/item_menurule.gif' WIDTH='115' HEIGHT='1' VSPACE='3'></TR>";
-				}
-				
-					strMC += "<TR><TD VALIGN='TOP' WIDTH='12'><IMG SRC='/assets/images/item/item_pxlclear.gif' width='5' height='1'><IMG SRC='/assets/images/item/item_purplebullet.gif' WIDTH='5' HEIGHT='5' HSPACE='1' VSPACE='5' NAME='menu_" + strElementName + "'></TD><TD WIDTH='113'><A HREF='" + arrMenus[i] + "' OnMouseOver='window.status=\"" + arrMenus[i+1] + "\";document.menu_" + strElementName + ".src=imgBulletOn.src;return true;' OnMouseOut='window.status=\"\";document.menu_" + strElementName + ".src=imgBulletOff.src;return true;'><font color='#663366' face='Verdana' size='1'>" + arrMenus[i+1] + "</font></A></TD></TR>";
-					
-			}
-			strMC += "</TABLE></TD><TD BGCOLOR='#9F9F9F' WIDTH='1'><IMG SRC='/assets/images/item/item_pxlclear.gif' WIDTH='1' HEIGHT='1'></TD><TD BGCOLOR='#DEDEDE' WIDTH='1'><IMG SRC='/assets/images/item/item_pxlclear.gif' WIDTH='1' HEIGHT='1'></TD></TR><TR><TD WIDTH='127' COLSPAN='3'><IMG SRC='/assets/images/item/item_menubottom.gif' WIDTH='127' HEIGHT='4'></TD></TR></TABLE>";
-			
-				strMC += "</LAYER>";
-				
-			//alert(strMC);
-			return strMC;
-		}
-
-		var activeHeader = null;
-		var activeMenu = null;
-
-		//Sets the current header and menu
-		function setMenu(menu_basename) {
-			if (isMenu) {
-				var top = 0;
-				var left = 0;
-				var currentEle;
-
-				
-					if(activeHeader != null && activeMenu != null) {
-						if(activeMenu.visibility != 'hide') {
-							menuHide();
-						}
-					}
-
-					activeHeader = eval("document.images." + menu_basename + "_image;");
-					activeArrow = eval("document.images." + menu_basename + "_arrow;");
-
-					if (NS6) {
-						activeMenu = eval("document.getElementById('" + menu_basename + "_menu');");
-					} else {
-						activeMenu = eval("document.layers." + menu_basename + "_menu;");
-					}
-
-					top = activeHeader.y;
-					left = activeHeader.x;
-
-					if (menu_basename == "diamondmenu") {
-						top += 36;
-						left += 24;
-					} else if (menu_basename == "productmenu") {
-						top = top + 20;
-						left += 20;
-					} else if (menu_basename == "ringbuildermenu") {
-						top = top + 20;
-						left += 20;
-					} else {
-						
-							top += 1;
-							left += activeHeader.width + 18;
-							
-					}
-
-					activeMenu.pageX = left;
-					activeMenu.pageY = top;
-
-					menuShow();
-					
-			}
-		}
-
-		//Show the current menu
-		idMenuFade = "";
-		function menuShow() {
-			if (isMenu) {
-				if(IE4 || NS6) {
-					clearTimeout(idMenuFade);
-					activeMenu.style.visibility = 'visible';
-				} else {
-					clearTimeout(idMenuFade);
-					activeMenu.visibility = 'show';
-				}
-				if (activeArrow) { activeArrow.src=imgArrowOn.src; }
-			}
-		}
-
-		//Hide the current menu
-		function menuHide() {
-			if (isMenu) {
-				if(IE4 || NS6) {
-					activeMenu.style.visibility = 'hidden';
-				} else {
-					activeMenu.visibility = 'hide';
-				}
-				if (activeArrow) { activeArrow.src=imgArrowOff.src; }
-			}
-		}
-
-		function hideMenu() {
-			if (isMenu) {
-				if(activeHeader != null && activeMenu != null) {
-					idMenuFade = setTimeout("menuHide();",400);
-				}
-			}
-		}
-	}
-	//-->
-	</script>
-	
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#555555" link="#660F57" vlink="#663366" alink="#663366">
-	<script language="JavaScript">
-	<!--
-	if (isMenu) {
-		document.write (DisplayMenus("search",arrMenuSearch));
-		document.write (DisplayMenus("shopbyproduct",arrMenuProduct));
-		document.write (DisplayMenus("shopbymaterial",arrMenuMaterial));
-		
-	}
-	//-->
-	</script>
-	
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366"><tbody><tr>
-	<td align="LEFT"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td width="660"><a href="/default.asp?track=49"><img src="/assets/images/shell/shell_header.gif" width="660" height="68" border="0" alt="Diamonds, Engagement Rings and Fine Jewelry at Blue Nile"></a></td>
-	
-		<td width="117"><font color="#555555" face="Verdana" size="1">
-			<nobr><img src="/assets/images/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="5" align="MIDDLE"><a href="https://secure.bluenile.com/order_status.jsp?track=50"><img src="/assets/images/shell/shell_header_orderstatus.gif" width="105" height="11" border="0" align="MIDDLE" alt="Order Status"></a></nobr><br>
-			<nobr><img src="/assets/images/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="5" align="MIDDLE"><a href="http://secure.bluenile.com/diamond_comparison.jsp?track=50"><img src="/assets/images/shell/shell_header_diamondcomparison.gif" width="105" height="11" border="0" align="MIDDLE" alt="Diamond Comparison"></a></nobr><br>
-			<nobr><img src="/assets/images/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="5" align="MIDDLE"><a href="http://secure.bluenile.com/wish_list.jsp?track=50"><img src="/assets/images/shell/shell_header_wishlist.gif" width="105" height="11" border="0" align="MIDDLE" alt="Wish List"></a></nobr><br>
-			<nobr><img src="/assets/images/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="5" align="MIDDLE"><a href="http://secure.bluenile.com/basket.jsp?track=50"><img src="/assets/images/shell/shell_header_shoppingbasket.gif" width="105" height="11" border="0" align="MIDDLE" alt="Shopping Basket"></a></nobr><br>
-		</font></td>
-		
-	</tr></tbody></table></td>
-</tr></tbody></table>
-
-	<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-		<td align="LEFT" valign="TOP" bgcolor="#E7EBF0" width="130"><table width="130" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><img src="/assets/images/shell/shell_dongle.gif" width="130" height="33"></td></tr>
-<tr><td bgcolor="#FFFFFF"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="3"></td></tr>
-
+<title>Privacy Policy at Blue Nile</title><!--stopindex--><style type="text/css">.smcopy {font:xx-small, verdana; color:#555}.lgcopy {font:x-small, arial; color:#555}.SideNavMenus {position:absolute;top:0;left:0;z-index:100;visibility:hidden}.SideNavDropDown {width:125;font-family:Verdana;font-size:xx-small}.PagingFilterDropDown {font-family:Verdana;font-size=xx-small}</style><script language="JavaScript"><!--
+	   var NS4 = (document.layers) ? 1 : 0;var IE4 = (document.all) ? 0 : 0;var NS6 = (document.getElementById && !document.all) ? 0 : 0;var ver4 = (NS4 || IE4 || NS6) ? 1 : 0;var isMac = (navigator.appVersion.indexOf("Mac") != -1) ? 1 : 0;var isMenu = (NS4 || IE4 || NS6) ? 1 : 0;var arrMenuSearch = new Array("/diamond_search.asp?track=54","Search<br>for Diamonds","/jewelry_search.asp?track=54","Gifts by Price");arrMenuSearch.name = "search";var arrMenuProduct = new Array("/diamonds.asp?track=54"," Diamonds","/settings_channel.asp?track=54","Engagement Rings","/band_channel.asp?track=54","Wedding &amp; Anniversary Rings","/earring_channel.asp?track=54","Earrings","/necklace_channel.asp?track=54","Necklaces &amp; Pendants","/bracelet_channel.asp?track=54","Bracelets","/mens_watch_channel.asp?track=54","Men&#8217;s Watches","/womens_watch_channel.asp?track=54","Women&#8217;s Watches","/acc_channel.asp?track=54","Accessories");arrMenuProduct.name = "product";var arrMenuMaterial = new Array("/diamond_jewelry.asp?track=54","Diamond Jewelry","/pearl_jewelry.asp?track=54","Pearl Jewelry","/gold_jewelry.asp?track=54","Gold Jewelry","/platinum_jewelry.asp?track=54","Platinum Jewelry","/silver_jewelry.asp?track=54","Silver Jewelry");arrMenuMaterial.name = "material";if (isMenu) {var isOverLink = false;imgBulletOff = new Image();imgBulletOff.src = "/ai/blt.gif";imgBulletOn = new Image();imgBulletOn.src = "/ai/item/item_whitebullet.gif";imgArrowOff = new Image();imgArrowOff.src = "/ai/shell/shell_snav_arrow.gif";imgArrowOn = new Image();imgArrowOn.src = "/ai/shell/shell_snav_arrow_on.gif";function DisplayMenus(MenuName,arrMenus) {strMC = "<LAYER NAME='" + MenuName + "_menu' VISIBILITY='HIDDEN' OnMouseOver='menuShow();' OnMouseOut='hideMenu()'><TABLE WIDTH=127 CELLSPACING=0 CELLPADDING=0 BORDER=0><TR>";strMC += "<TD WIDTH=127 COLSPAN=3><IMG SRC='/ai/item/item_menutop.gif' WIDTH=127 HEIGHT=3></TD></TR><TR><TD BGCOLOR='#B1BDCD' WIDTH=125><TABLE BORDER=0 CELLPADDING=2 CELLSPACING=0 WIDTH=125 OnMouseOver='menuShow();'>";for (i=0;i<arrMenus.length;i=i+2) {strElementName = arrMenus.name + i;if (strElementName == 'product4' || strElementName == 'product12') {strMC += "<TR><TD ALIGN=CENTER COLSPAN=2><IMG SRC='/ai/item/item_menurule.gif' WIDTH=115 HEIGHT=1 VSPACE=3></TR>";}strMC += "<TR><TD VALIGN=TOP WIDTH=12><IMG SRC=/ai/pxl.gif width=5 height=1><IMG SRC=/ai/blt.gif WIDTH=5 HEIGHT=5 HSPACE=1 VSPACE=5 NAME='menu_" + strElementName + "'></TD><TD WIDTH=113><A HREF='" + arrMenus[i] + "' OnMouseOver='window.status=\"" + arrMenus[i+1] + "\";document.menu_" + strElementName + ".src=imgBulletOn.src;return true;' OnMouseOut='window.status=\"\";document.menu_" + strElementName + ".src=imgBulletOff.src;return true;'><font color='#663366' face='Verdana' size='1'>" + arrMenus[i+1] + "</font></A></TD></TR>";}strMC += "</TABLE></TD><TD BGCOLOR='#9F9F9F' WIDTH=1><IMG SRC=/ai/pxl.gif WIDTH=1 HEIGHT=1></TD><TD BGCOLOR='#DEDEDE' WIDTH=1><IMG SRC=/ai/pxl.gif WIDTH=1 HEIGHT=1></TD></TR><TR><TD WIDTH=127 COLSPAN=3><IMG SRC='/ai/item/item_menubottom.gif' WIDTH=127 HEIGHT=4></TD></TR></TABLE>";strMC += "</LAYER>";return strMC;}var activeHeader = null;var activeMenu = null;function setMenu(menu_basename) {if (isMenu) {var top = 0;var left = 0;var currentEle;if(activeHeader != null && activeMenu != null) {if(activeMenu.visibility != 'hide') {menuHide();}}activeHeader = eval("document.images." + menu_basename + "_image;");activeArrow = eval("document.images." + menu_basename + "_arrow;");if (NS6) {activeMenu = eval("document.getElementById('" + menu_basename + "_menu');");} else {activeMenu = eval("document.layers." + menu_basename + "_menu;");}top = activeHeader.y;left = activeHeader.x;if (menu_basename == "diamondmenu") {top += 36;left += 24;} else if (menu_basename == "productmenu") {top = top + 20;left += 20;} else if (menu_basename == "ringbuildermenu") {top = top + 20;left += 20;} else {top += 1;left += activeHeader.width + 18;}activeMenu.pageX = left;activeMenu.pageY = top;menuShow();}}idMenuFade = "";function menuShow() {if (isMenu) {if(IE4 || NS6) {clearTimeout(idMenuFade);activeMenu.style.visibility = 'visible';} else {clearTimeout(idMenuFade);activeMenu.visibility = 'show';}if (activeArrow) { activeArrow.src=imgArrowOn.src; }}}function menuHide() {if (isMenu) {if(IE4 || NS6) {activeMenu.style.visibility = 'hidden';} else {activeMenu.visibility = 'hide';}if (activeArrow) { activeArrow.src=imgArrowOff.src; }}}function hideMenu() {if (isMenu) {if(activeHeader != null && activeMenu != null) {idMenuFade = setTimeout("menuHide();",400);}}}}//--></script></head><body bgcolor="#FFFFFF" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#555555" link="#660F57" vlink="#663366" alink="#663366"><script language="JavaScript"><!--
+	if (isMenu) {document.write (DisplayMenus("search",arrMenuSearch));document.write (DisplayMenus("shopbyproduct",arrMenuProduct));document.write (DisplayMenus("shopbymaterial",arrMenuMaterial));}
+	//--></script><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366"><tbody><tr><td align="LEFT"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="660"><a href="/default.asp?track=49"><img src="/ai/shell/shell_h03_header.gif" width="660" height="68" border="0" alt="Diamonds, Engagement Rings and Fine Jewelry at Blue Nile"></a></td><td width="117" class="smcopy"><nobr><img src="/ai/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="5" align="MIDDLE"><a href="https://secure.bluenile.com/order_status.jsp?track=50"><img src="/ai/shell/shell_header_orderstatus.gif" width="105" height="11" border="0" align="MIDDLE" alt="Order Status"></a></nobr><br><nobr><img src="/ai/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="5" align="MIDDLE"><a href="http://secure.bluenile.com/diamond_comparison.jsp?track=50"><img src="/ai/shell/shell_header_diamondcomparison.gif" width="105" height="11" border="0" align="MIDDLE" alt="Diamond Comparison"></a></nobr><br><nobr><img src="/ai/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="5" align="MIDDLE"><a href="http://secure.bluenile.com/wish_list.jsp?track=50"><img src="/ai/shell/shell_header_wishlist.gif" width="105" height="11" border="0" align="MIDDLE" alt="Wish List"></a></nobr><br><nobr><img src="/ai/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="5" align="MIDDLE"><a href="http://secure.bluenile.com/basket.jsp?track=50"><img src="/ai/shell/shell_header_shoppingbasket.gif" width="105" height="11" border="0" align="MIDDLE" alt="Shopping Basket"></a></nobr><br></td></tr></tbody></table></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="LEFT" valign="TOP" bgcolor="#E7EBF0" width="130"><table width="130" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/ai/shell/shell_dongle.gif" width="130" height="33"></td></tr><tr><td bgcolor="#FFFFFF"><img src="/ai/pxl.gif" width="1" height="3"></td></tr><tr><td valign="TOP" width="130"><a href="" onmouseover="setMenu('search');" onmouseout="hideMenu()" onclick="return false;"><img src="/ai/shell/shell_snav_search.gif" name="search_image" border="0" height="17" width="113"><img src="/ai/shell/shell_snav_arrow.gif" name="search_arrow" border="0" height="17" width="17"></a><img src="/ai/pxl.gif" width="1" height="6" border="0"></td></tr><form name="seek1" method="GET" action="http://www.bluenile.com/keyword_content_check.asp"></form><tr><td valign="TOP" width="130"><input type="hidden" name="internal" value="1">&nbsp;&nbsp;<input type="text" name="qt" size="8" value="" maxlength="256"><input type="IMAGE" src="/ai/shell/shell_but_go.gif" border="0" width="25" height="20"><img src="/ai/pxl.gif" width="1" height="6" border="0"></td></tr><script name="JavaScript"><!--
+	if (!isMenu) {document.write ("<FORM NAME='SideNavForm'>");}
+	//--></script><form name="SideNavForm"></form><tr><td valign="TOP" width="130"><img src="/ai/pxl.gif" width="1" height="6"></td></tr><tr><td valign="TOP" width="130"><a href="" onmouseover="setMenu('shopbyproduct');" onmouseout="hideMenu()" onclick="return false;"><img src="/ai/shell/shell_snav_shopbyproduct.gif" name="shopbyproduct_image" border="0" height="17" width="113"><img src="/ai/shell/shell_snav_arrow.gif" name="shopbyproduct_arrow" border="0" height="17" width="17"></a></td></tr><tr><td valign="TOP" width="130"><script name="JavaScript"><!--
+			if (!isMenu) {document.write ("<FONT SIZE='2'><SELECT NAME='Nav2' OnChange='location.href=this.options[this.options.selectedIndex].value' CLASS='SideNavDropDown'>");document.write ("<OPTION VALUE=''>Shop by Product</OPTION>");for (i=0;i<arrMenuProduct.length;i=i+2) {document.write ("<OPTION VALUE='" + arrMenuProduct[i] + "?track=55'>" + arrMenuProduct[i+1] + "</OPTION>");}document.write ("</SELECT>");}
+		//--></script><font size="2"><select name="Nav2" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">Shop by Product</option><option value="/diamonds.asp?track=54?track=55"> Diamonds</option><option value="/settings_channel.asp?track=54?track=55">Engagement Rings</option><option value="/band_channel.asp?track=54?track=55">Wedding &amp; Anniversary Rings</option><option value="/earring_channel.asp?track=54?track=55">Earrings</option><option value="/necklace_channel.asp?track=54?track=55">Necklaces &amp; Pendants</option><option value="/bracelet_channel.asp?track=54?track=55">Bracelets</option><option value="/mens_watch_channel.asp?track=54?track=55">Men’s Watches</option><option value="/womens_watch_channel.asp?track=54?track=55">Women’s Watches</option><option value="/acc_channel.asp?track=54?track=55">Accessories</option></select><img src="/ai/pxl.gif" width="1" height="6"></font></td></tr><tr><td valign="TOP" width="130"><a href="" onmouseover="setMenu('shopbymaterial');" onmouseout="hideMenu()" onclick="return false;"><img src="/ai/shell/shell_snav_shopbymaterial.gif" name="shopbymaterial_image" border="0" height="17" width="113"><img src="/ai/shell/shell_snav_arrow.gif" name="shopbymaterial_arrow" border="0" height="17" width="17"></a></td></tr><tr><td valign="TOP" width="130"><script name="JavaScript"><!--
+			if (!isMenu) {document.write ("<FONT SIZE='2'><SELECT NAME='Nav4' OnChange='location.href=this.options[this.options.selectedIndex].value' CLASS='SideNavDropDown'><OPTION VALUE=''>Shop by Material</OPTION>");for (i=0;i<arrMenuMaterial.length;i=i+2) {document.write ("<OPTION VALUE='" + arrMenuMaterial[i] + "?track=55'>" + arrMenuMaterial[i+1] + "</OPTION>");}document.write ("</SELECT>");}
+		//--></script><font size="2"><select name="Nav4" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">Shop by Material</option><option value="/diamond_jewelry.asp?track=54?track=55">Diamond Jewelry</option><option value="/pearl_jewelry.asp?track=54?track=55">Pearl Jewelry</option><option value="/gold_jewelry.asp?track=54?track=55">Gold Jewelry</option><option value="/platinum_jewelry.asp?track=54?track=55">Platinum Jewelry</option><option value="/silver_jewelry.asp?track=54?track=55">Silver Jewelry</option></select><img src="/ai/pxl.gif" width="1" height="6"></font></td></tr><script name="JavaScript"><!--
+	if (!isMenu) {document.write ("</FORM>");}
+	//--></script>
 	<tr>
-		<td valign="TOP" width="130"><a href="" onmouseover="setMenu('search');" onmouseout="hideMenu()" onclick="return false;"><img src="/assets/images/shell/shell_snav_search.gif" name="search_image" border="0" height="17" width="113"><img src="/assets/images/shell/shell_snav_arrow.gif" name="search_arrow" border="0" height="17" width="17"></a><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6" border="0"></td>
-	</tr>
-	<form name="seek1" method="GET" action="http://www.bluenile.com/keyword_content_check.asp"></form>
-	<tr>
-		<td valign="TOP" width="130">
-		
-			<input type="hidden" name="internal" value="1">
-			
-		&nbsp;&nbsp;<input type="text" name="qt" size="8" value="" maxlength="256">
-		<input type="IMAGE" src="/assets/images/shell/shell_but_go.gif" border="0" width="25" height="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6" border="0"></td>
-	</tr>
-	
-	<script name="JavaScript">
-	<!--
-	if (!isMenu) {
-		document.write ("<FORM NAME='SideNavForm'>");
-	}
-	//-->
-	</script><form name="SideNavForm"></form>
-	<tr>
-		<td valign="TOP" width="130"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></td>
-	</tr>
-	<tr>
-		<td valign="TOP" width="130"><a href="" onmouseover="setMenu('shopbyproduct');" onmouseout="hideMenu()" onclick="return false;"><img src="/assets/images/shell/shell_snav_shopbyproduct.gif" name="shopbyproduct_image" border="0" height="17" width="113"><img src="/assets/images/shell/shell_snav_arrow.gif" name="shopbyproduct_arrow" border="0" height="17" width="17"></a></td>
-	</tr>
-	<tr>
-		<td valign="TOP" width="130"><script name="JavaScript">
-		<!--
-			if (!isMenu) {
-				document.write ("<FONT SIZE='2'><SELECT NAME='Nav2' OnChange='location.href=this.options[this.options.selectedIndex].value' CLASS='SideNavDropDown'>")
-				document.write ("<OPTION VALUE=''>Shop by Product</OPTION>")
-				for (i=0;i<arrMenuProduct.length;i=i+2) {
-					document.write ("<OPTION VALUE='" + arrMenuProduct[i] + "?track=55'>" + arrMenuProduct[i+1] + "</OPTION>")
-				}
-				document.write ("</SELECT>")
-			}
-		//-->
-		</script><font size="2"><select name="Nav2" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">Shop by Product</option><option value="/diamonds.asp?track=54?track=55"> Diamonds</option><option value="/settings_channel.asp?track=54?track=55">Engagement Rings</option><option value="/band_channel.asp?track=54?track=55">Wedding &amp; Anniversary Rings</option><option value="/ring_channel.asp?track=54?track=55">Rings</option><option value="/earring_channel.asp?track=54?track=55">Earrings</option><option value="/necklace_channel.asp?track=54?track=55">Necklaces &amp; Pendants</option><option value="/bracelet_channel.asp?track=54?track=55">Bracelets</option><option value="/mens_watch_channel.asp?track=54?track=55">Men’s Watches</option><option value="/womens_watch_channel.asp?track=54?track=55">Women’s Watches</option><option value="/acc_channel.asp?track=54?track=55">Accessories</option></select><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></font></td>
-	</tr>
-	<tr>
-		<td valign="TOP" width="130"><a href="" onmouseover="setMenu('shopbymaterial');" onmouseout="hideMenu()" onclick="return false;"><img src="/assets/images/shell/shell_snav_shopbymaterial.gif" name="shopbymaterial_image" border="0" height="17" width="113"><img src="/assets/images/shell/shell_snav_arrow.gif" name="shopbymaterial_arrow" border="0" height="17" width="17"></a></td>
-	</tr>
-	<tr>
-		<td valign="TOP" width="130"><script name="JavaScript">
-		<!--
-			if (!isMenu) {
-				document.write ("<FONT SIZE='2'><SELECT NAME='Nav4' OnChange='location.href=this.options[this.options.selectedIndex].value' CLASS='SideNavDropDown'><OPTION VALUE=''>Shop by Material</OPTION>")
-				for (i=0;i<arrMenuMaterial.length;i=i+2) {
-					document.write ("<OPTION VALUE='" + arrMenuMaterial[i] + "?track=55'>" + arrMenuMaterial[i+1] + "</OPTION>")
-				}
-				document.write ("</SELECT>")
-			}
-		//-->
-		</script><font size="2"><select name="Nav4" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">Shop by Material</option><option value="/diamond_jewelry.asp?track=54?track=55">Diamond Jewelry</option><option value="/pearl_jewelry.asp?track=54?track=55">Pearl Jewelry</option><option value="/gold_jewelry.asp?track=54?track=55">Gold Jewelry</option><option value="/platinum_jewelry.asp?track=54?track=55">Platinum Jewelry</option><option value="/silver_jewelry.asp?track=54?track=55">Silver Jewelry</option></select><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></font></td>
-	</tr>
-	<script name="JavaScript">
-	<!--
-	if (!isMenu) {
-		document.write ("</FORM>");
-	}
-	//-->
-	</script>
-	
-	<tr>
-		<td valign="TOP" width="130"><a href="/about.asp"><img src="/assets/images/shell/shell_snav_aboutus.gif" alt="About Us" border="0" height="17" width="130"></a></td>
+		<td valign="TOP" width="130"><a href="/about.asp"><img src="/ai/shell/shell_snav_aboutus.gif" alt="About Us" border="0" height="17" width="130"></a></td>
 	</tr>
 	<tr>
 		<td valign="TOP" width="130">
-		<img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/quality.asp?track=56">Quality &amp; Value</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/shipping.asp?track=56">Free Shipping</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/returns.asp?track=56">30-Day Returns</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/service.asp?track=56">Expert Service</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/customerletters.asp?track=56">Customer Letters</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/history.asp?track=56">Our History</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/in_the_news.asp?track=56">News</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/press_releases.asp?track=56">Press Releases</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/awards.asp?track=56">Customer Service &amp; Business Awards</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/eteam.asp?track=56">Executive Team</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/jobs.asp?track=56">Jobs</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/privacy.asp?track=56">Privacy Policy</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/affiliate/default.asp?track=56">Become an Affiliate</a></font></td></tr></tbody></table>
-		<img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></td>
+		<img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/quality.asp?track=56">Quality &amp; Value</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/shipping.asp?track=56">Free Shipping</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/returns.asp?track=56">Extended Returns</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/service.asp?track=56">Expert Service</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/customerletters.asp?track=56">Customer Letters</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/history.asp?track=56">Our History</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/in_the_news.asp?track=56">News</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/press_releases.asp?track=56">Press Releases</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/awards.asp?track=56">Customer Service &amp; Business Awards</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/eteam.asp?track=56">Executive Team</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/jobs.asp?track=56">Jobs</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/privacy.asp?track=56">Privacy Policy</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/affiliate/default.asp?track=56">Become an Affiliate</a></td></tr></tbody></table>
+		<img src="/ai/pxl.gif" width="1" height="6"></td>
 	</tr>
-	<tr><td valign="TOP" width="130"><img src="/assets/images/shell/shell_snav_relatedlinks.gif" alt="Related Links" border="0" height="17" width="130"></td></tr><tr><td valign="TOP" width="130"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/subscription.asp?track=58">Subscription Status</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></td></tr>
+	<tr><td valign="TOP" width="130"><img src="/ai/shell/shell_snav_relatedlinks.gif" alt="Related Links" border="0" height="17" width="130"></td></tr><tr><td valign="TOP" width="130"><img src="/ai/pxl.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr valign="TOP"><td><img src="/ai/pxl.gif" width="2" height="9"><img src="/ai/blt.gif" width="5" height="5" hspace="1" align="BOTTOM"></td><td class="smcopy"><a href="http://www.bluenile.com/subscription.asp?track=58">Subscription Status</a></td></tr></tbody></table><img src="/ai/pxl.gif" width="1" height="6"></td></tr>
 <tr>
-	<td valign="TOP" width="130"><img src="/assets/images/item/item_pxlclear.gif" width="130" height="1"></td>
+	<td valign="TOP" width="130"><img src="/ai/pxl.gif" width="130" height="1"></td>
 </tr>
-
-		</tbody></table></td>
-		<td rowspan="2" width="3"><img src="/assets/images/item/item_pxlclear.gif" width="3" height="1" border="0"></td>
-		<td width="100%" rowspan="2" valign="TOP">
-			
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366"><tbody><tr>
-<td align="LEFT" rowspan="3"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="643"><tbody><tr>
-<td><a href="http://www.bluenile.com/engagement_segment.asp?track=51"><img src="/assets/images/shell/shell_h02_tab_engagement.gif" width="122" height="37" border="0" alt="Engagement"></a></td>
-<td width="3"><img src="/assets/images/shell/shell_tab_spacer.gif" width="3" height="37"></td>
-<td><a href="http://www.bluenile.com/jewelry_segment.asp?track=51"><img src="/assets/images/shell/shell_h02_tab_jewelry.gif" width="91" height="37" border="0" alt="Jewelry"></a></td>
-<td width="3"><img src="/assets/images/shell/shell_tab_spacer.gif" width="3" height="37"></td>
-<td><a href="http://www.bluenile.com/acc_segment.asp?track=51"><img src="/assets/images/shell/shell_h02_tab_watchesaccessories.gif" width="187" height="37" border="0" alt="Watches &amp; Accessories"></a></td>
-<td width="3"><img src="/assets/images/shell/shell_tab_spacer.gif" width="3" height="37"></td>
-<td><a href="http://www.bluenile.com/gift_channel.asp?track=51"><img src="/assets/images/shell/shell_h02_tab_giftideas.gif" width="122" height="37" border="0" alt="Gift Ideas"></a></td>
-<td width="3"><img src="/assets/images/shell/shell_tab_spacer.gif" width="3" height="37"></td>
-<td><a href="http://www.bluenile.com/educ_channel.asp?track=51"><img src="/assets/images/shell/shell_h02_tab_education.gif" width="109" height="37" border="0" alt="Education"></a></td>
-<td width="3"><img src="/assets/images/item/item_pxlclear.gif" width="3" height="1"></td>
-</tr></tbody></table></td>
-<td bgcolor="#003366"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="33"></td>
-</tr><tr>
-<td bgcolor="#FFFFFF" width="100%"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="3"></td>
-</tr><tr>
-<td bgcolor="#E7EBF0" width="100%"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-</tr></tbody></table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><table width="643" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td bgcolor="#B1BDCD" width="1"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-<td colspan="3">
-<table bgcolor="#E6E6D2" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><font face="Arial" size="2" color="#003366"><center><img src="/assets/images/item/item_truckicon_transparent.gif" width="23" height="17" vspace="4" align="absmiddle"> Free shipping &amp; 30-day returns. Order before 3 PM Eastern Time for same-day shipping.</center></font></td>
-</tr>
-</tbody></table>
-</td>
-<td bgcolor="#B1BDCD" width="1"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-</tr><tr>
-<td bgcolor="#B1BDCD" width="1"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-<td width="30"><img src="/assets/images/item/item_pxlclear.gif" width="30" height="500"></td>
-<td width="596" valign="TOP">
-
-		<table width="100%" border="0" cellpadding="6" cellspacing="0">
-		<tbody><tr>
-			<td align="RIGHT">
-			<font color="#555555" face="Verdana" size="1">
-			<a href="http://www.bluenile.com/default.asp?track=60">Home</a>
-			 &gt; <a href="http://www.bluenile.com/about.asp?track=60">About Us</a> &gt; <b>Privacy Policy</b>
-			</font></td>
-		</tr>
-		</tbody></table>
-		
-<!--startindex-->
+</tbody></table></td><td rowspan="2" width="3"><img src="/ai/pxl.gif" width="3" height="1" border="0"></td><td width="100%" rowspan="2" valign="TOP"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366"><tbody><tr><td align="LEFT" rowspan="3"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="643"><tbody><tr><td><a href="http://www.bluenile.com/engagement_segment.asp?track=51"><img src="/ai/shell/shell_h02_tab_engagement.gif" width="122" height="37" border="0" alt="Engagement"></a></td><td width="3"><img src="/ai/shell/shell_tab_spacer.gif" width="3" height="37"></td><td><a href="http://www.bluenile.com/jewelry_segment.asp?track=51"><img src="/ai/shell/shell_h02_tab_jewelry.gif" width="91" height="37" border="0" alt="Jewelry"></a></td><td width="3"><img src="/ai/shell/shell_tab_spacer.gif" width="3" height="37"></td><td><a href="http://www.bluenile.com/acc_segment.asp?track=51"><img src="/ai/shell/shell_h02_tab_watchesaccessories.gif" width="187" height="37" border="0" alt="Watches &amp; Accessories"></a></td><td width="3"><img src="/ai/shell/shell_tab_spacer.gif" width="3" height="37"></td><td><a href="http://www.bluenile.com/gift_channel.asp?track=51"><img src="/ai/shell/shell_h02_tab_giftideas.gif" width="122" height="37" border="0" alt="Christmas Gifts"></a></td><td width="3"><img src="/ai/shell/shell_tab_spacer.gif" width="3" height="37"></td><td><a href="http://www.bluenile.com/educ_channel.asp?track=51"><img src="/ai/shell/shell_h02_tab_education.gif" width="109" height="37" border="0" alt="Education"></a></td><td width="3"><img src="/ai/pxl.gif" width="3" height="1"></td></tr></tbody></table></td><td bgcolor="#003366"><img src="/ai/pxl.gif" width="1" height="33"></td></tr><tr><td bgcolor="#FFFFFF" width="100%"><img src="/ai/pxl.gif" width="1" height="3"></td></tr><tr><td bgcolor="#E7EBF0" width="100%"><img src="/ai/pxl.gif" width="1" height="1"></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="643" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#B1BDCD" width="1"><img src="/ai/pxl.gif" width="1" height="1"></td><td colspan="3"><table bgcolor="#E6E6D2" width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td><font face="Arial" size="2" color="#003366"><center></center></font></td><td><font face="Arial" size="2" color="#003366"><center><img src="/ai/item/item_truckicon_transparent.gif" width="23" height="17" vspace="4" align="absmiddle">&nbsp;Free shipping &amp; extended holiday returns through Jan. 15, 2004.</center></font></td></tr></tbody></table></td><td bgcolor="#B1BDCD" width="1"><img src="/ai/pxl.gif" width="1" height="1"></td></tr><tr><td bgcolor="#B1BDCD" width="1"><img src="/ai/pxl.gif" width="1" height="1"></td><td width="30"><img src="/ai/pxl.gif" width="30" height="500"></td><td width="596" valign="TOP"><table width="100%" border="0" cellpadding="6" cellspacing="0"><tbody><tr><td align="RIGHT" class="smcopy"><a href="http://www.bluenile.com/default.asp?track=60">Home</a> &gt; <a href="http://www.bluenile.com/about.asp?track=60">About Us</a> &gt; <b>Privacy Policy</b></td></tr></tbody></table><!--startindex-->
 
 
 <img src="assets/images/hdr/hdr_privacypolicy_520x27.gif" width="520" height="27" border="0" vspace="5" alt="Privacy Policy">
 <br>
 <font color="#555555" face="Arial" size="2">
-Blue&nbsp;Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue&nbsp;Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue&nbsp;Nile home page.  Blue Nile encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Blue Nile customer service department at service@bluenile.com or 800-242-2728.
+Blue&nbsp;Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue&nbsp;Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue&nbsp;Nile home page. Blue Nile encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Blue Nile customer service department at service@bluenile.com or 800-242-2728.
 <p>
 
 <img src="assets/images/subhdr/subhdr_howweusetheinformationwegather_300x18.gif" width="300" height="18" alt="How We Use the Information We Gather">
@@ -381,15 +78,17 @@ If you choose to participate in a Blue Nile promotion (contest or sweepstakes), 
 Blue&nbsp;Nile has partnered with MBNA, which will arrange the financing of your purchase from Blue&nbsp;Nile. If you decide to use Blue&nbsp;Nile's financing services, you will be directed to MBNA's financing application. Blue&nbsp;Nile will then provide MBNA with your transaction information and then MBNA will collect the additional information it needs in order to provide you with financing for your Blue&nbsp;Nile purchase. Further, MBNA will provide Blue&nbsp;Nile information regarding the status of your financing application. Once your application is approved by MBNA, you may complete your purchase with Blue&nbsp;Nile.
 </p><p>
 
-<b>Tracking of Advertising Links and Action Tags</b>
+<b>Tracking of Advertising Links, Action Tags, and Cookies</b>
 <br>
-Blue&nbsp;Nile works with Avenue A, a third-party advertising company which serves ads and employs a software technology called clear gifs, or action tags. Avenue A works with Blue&nbsp;Nile to collect information on advertisement performance and Web site usage. Ad banners employ cookie technology to measure the effectiveness of Blue&nbsp;Nile's advertisements. To do so, this company may use information about your visits to the Blue&nbsp;Nile Web site and other Web sites. Unless otherwise notified, Avenue A does not use names, addresses, e-mail addresses, or telephone numbers and does not link any online actions or cookies to an identifiable person. The use of your cookies is subject to the privacy policy of Avenue A. View more information about Avenue A's privacy practices: <a href="http://www.avenueainc.com/privacy/" target="new_window">http://www.avenueainc.com/privacy/</a>
+Blue&nbsp;Nile works with a third-party advertising company to collect information on advertisement performance and Web site usage. This company serves Blue&nbsp;Nile ad banners on our behalf which use action tags and cookies to measure how many times users view and click on an ad and which specific pages of our Web site users visit (e.g. a registration or checkout page). To do so, this company may use information about your visits to the Blue&nbsp;Nile Web site and other Web sites. Unless otherwise notified, our third-party advertising company does not use names, addresses, e-mail addresses, or telephone numbers and does not link any online actions or cookies to an identifiable person. The use of your cookies is subject to the privacy policy of our third-party advertising company. View more information about our third-party advertising company's <a href="http://www.networkadvertising.org/aboutnai_privacy.asp" target="new_window">privacy practices</a>. To learn more about the technology behind cookies, visit our <a href="http://www.networkadvertising.org/aboutopm_cookies.asp" target="new_window">third-party advertising company's Web site</a>.
 </p><p>
 
-Clear gifs or actions tags are used to collect information about how many times users view and click on Blue&nbsp;Nile's advertisements and which specific pages of a our Web site users visit (e.g. a registration or checkout page). No uniquely identifiable information is tracked by Avenue A.  To learn more about the technology behind action tags, visit the <a href="http://www.avenueainc.com/privacy/anonymous.asp" target="new_window">Avenue A Web site</a>.
+To prevent our third-party advertising company from sending and reading cookies on your computer, visit their Web site where you can <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="new_window">opt out</a> of our third-party advertiser cookie.
 </p><p>
 
-To prevent Avenue A from sending and reading cookies on your computer, visit Avenue A's Web site where you can <a href="http://www.avenuea.com/info/optout.asp" target="new_window">opt out</a> of our third-party advertiser cookie.
+<b>Site Usage Tracking and Analysis</b>
+<br>
+Blue Nile, Inc. has contracted with a third party, Omniture, Inc. and/or its authorized partner or reseller, to provide additional tracking and analysis of information and data collected from visitors to our Web site. No uniquely identifiable information is tracked by Omniture. Omniture does not use names, addresses, e-mail addresses, or telephone numbers and does not link any online actions or cookies to an identifiable person. Blue Nile, Inc. reserves the right to provide that information and data to Omniture, Inc. and/or its authorized partner or reseller for those purposes.
 </p><p>
 
 <img src="assets/images/subhdr/subhdr_bluenilecommunication_300x18.gif" width="300" height="18" alt="Blue Nile Communication">
@@ -470,109 +169,9 @@ If you have questions about this privacy statement, please contact the Blue&nbsp
 
 * Blue Nile will cover this liability if the unauthorized use resulted through no fault of yours from purchases made on Blue Nile's secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures.
 </p><br>
-<font size="-1"><b>Updated October 17, 2002</b>
-<!--stopindex-->
-<p><img src="/assets/images/item/item_pxlclear.gif" width="596" height="1"></p></font></font></td>
-<td width="15"><img src="/assets/images/item/item_pxlclear.gif" width="15" height="1"></td>
-<td bgcolor="#B1BDCD" width="1"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-<td bgcolor="#FFFFFF" width="3"><img src="/assets/images/item/item_pxlclear.gif" width="3" height="1"></td>
-</tr></tbody></table>
-
-<table width="643" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td bgcolor="#B1BDCD"><img src="/assets/images/item/item_pxlclear.gif" width="643" height="1"></td></tr>
-<tr><td bgcolor="#FFFFFF"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="3"></td></tr>
-</tbody></table></td>
-<td bgcolor="#E7EBF0" width="100%"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-</tr></tbody></table></td></tr><tr>
-<td valign="BOTTOM" width="130" bgcolor="#E7EBF0"><table width="130" border="0" cellpadding="0" cellspacing="4"><tbody><tr><td valign="BOTTOM" width="130">
-
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td>
-	<img src="/assets/images/subhdr/subhdr_questions.gif" border="0" width="120" height="18"></td></tr><tr><td>
-	<font color="#555555" face="Verdana" size="1"><a href="mailto:service@bluenile.com">service@bluenile.com</a></font></td></tr><tr><td>
-	<img src="/assets/images/subhdr/subhdr_8002422728.gif" border="0" width="120" height="18" vspace="4"></td>
-</tr></tbody></table>
-<font color="#555555" face="Verdana" size="1"></font><p><font color="#555555" face="Verdana" size="1">For phone orders, please mention: <font color="GREEN">NCKY99</font></font></p></td></tr></tbody></table></td>
-</tr>
-</tbody></table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#E7EBF0"><tbody><tr>
-<td align="LEFT">
-
-	<table width="776" border="0" cellpadding="6" cellspacing="0"><tbody><tr>
-	<td width="130"><font color="#555555" face="Arial" size="2">&nbsp;</font></td>
-	
-<td align="CENTER"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/about.asp?track=59">About&nbsp;Us</a></font></td>
-<td><img src="/assets/images/item/item_pxlclear.gif" width="12" height="25"></td>
-<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/contact.asp?track=59">Contact&nbsp;Us</a></font></td>
-<td><img src="/assets/images/item/item_pxlclear.gif" width="12" height="25"></td>
-<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/shipping.asp?track=59">Free&nbsp;Shipping</a></font></td>
-<td><img src="/assets/images/item/item_pxlclear.gif" width="12" height="25"></td>
-<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/returns.asp?track=59">30-Day&nbsp;Returns</a></font></td>
-<td><img src="/assets/images/item/item_pxlclear.gif" width="12" height="25"></td>
-<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/services_channel.asp?track=59">Financing&nbsp;&amp;&nbsp;Insurance</a></font></td>
-<td><img src="/assets/images/item/item_pxlclear.gif" width="12" height="25"></td>
-<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/email_friend.asp?track=59">Refer&nbsp;a&nbsp;Friend</a></font></td>
-<td><img src="/assets/images/item/item_pxlclear.gif" width="12" height="25"></td>
-<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/affiliate/default.asp?track=59">Affiliates</a></font></td>
-</tr></tbody></table></td>
-</tr></tbody></table></td>
-</tr></tbody></table>
-
-	<table width="776" border="0" cellpadding="6" cellspacing="0"><tbody><tr>
-	<td width="130"><font color="#555555" face="Arial" size="2">&nbsp;</font></td>
-	
-<form method="GET" action="/diamond_guide.asp"></form>
-<input type="HIDDEN" name="subscribe_only" value="1">
-<td align="CENTER"><font color="#555555" face="Arial" size="2">
-	Receive holiday gift reminders &amp; special offers:  <input type="TEXT" name="email" value="Enter your e-mail" class="PagingFilterDropDown" onclick="this.value='';"><input type="image" src="/assets/images/but/but_g_enter.gif" align="absmiddle" border="0" width="48" height="20" hspace="6" vspace="2" alt="Enter"><font color="#555555" face="Verdana" size="1"><p>
-	<a href="http://www.bluenile.com/product_policies.asp">Legal Notices</a> &nbsp;
-	<a href="http://www.bluenile.com/privacy.asp?track=59">Privacy Policy</a> &nbsp;
-	© 1999-2003, Blue Nile, Inc.
-</p></font></font></td></tr></tbody></table>
-<script language="JavaScript">
-<!--
-function Certify(URL) {
-	popupWin = window.open(URL, 'Participant', 'location,scrollbars,width=450,height=300')
-	window.top.name = 'opener';
-}
-// -->
-</script>
-<table width="777" border="0" cellpadding="6" cellspacing="0"><tbody><tr>
-<td width="130"><font color="#555555" face="Verdana" size="1">&nbsp;</font></td>
-<td align="CENTER">
-<img src="/assets/images/bug/bug_bottom_logos.gif" width="566" height="51" border="0" usemap="#bottom_logos_Map">
-<map name="bottom_logos_Map">
-<area shape="rect" alt="BBBOnLine Reliability Seal" coords="0,0,150,51" href="javascript:Certify('redirect.asp?goto=http%3A%2F%2Fwww%2Ebbbonline%2Eorg%2Fr%2Ecfm%3FID%3D1296000087&amp;track=62');">
-<area shape="rect" alt="Forbes Favorite" coords="150,0,225,51" href="redirect.asp?goto=http%3A%2F%2Fwww%2Eforbes%2Ecom%2Fbow%2Fb2c%2Freview%2Ejhtml%3Fid%3D2242&amp;track=62" target="bn_external">
-<area shape="rect" alt="BizRate Customer Certified (GOLD) Site" coords="225,0,360,51" href="redirect.asp?goto=http%3A%2F%2Fwww%2Ebizrate%2Ecom%2Fmerchant%2Freports%2Findex%2Expml%3Fmid%3D24298%26cid%3D126%26pos%3Dml%2D12%26r%3Ddesc&amp;track=62" target="bn_external">
-<area shape="rect" alt="Verisign Secure Site" coords="360,0,445,51" href="javascript:void(sealWin=window.open('redirect.asp?goto=https%3A%2F%2Fdigitalid%2Everisign%2Ecom%2Fas2%2F36cee45d35546608f819af84d3b9b520','verisign_win','toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=700,height=450'));sealWin.focus();">
-<area shape="rect" alt="Federal Express" coords="445,0,566,51" href="redirect.asp?goto=http%3A%2F%2Fwww%2Efedex%2Ecom&amp;track=62" target="bn_external">
-</map>
-</td>
-</tr></tbody></table>
-
-<script language="JavaScript">
-<!--
-	document.write ('<IMG SRC="/assets/images/item/item_pxltrack.gif?resolution=' + screen.height + 'x' + screen.width + '&colordepth=' + screen.colorDepth + '" HEIGHT="1" WIDTH="1">')
-//-->
-</script><img src="/assets/images/item/item_pxltrack.gif?resolution=600x800&amp;colordepth=24" height="1" width="1">
-
-<!-- copyright 1999-2003 Blue Nile, Inc.-->
-
-
-	<script language="JavaScript">
-	<!--
-	if (document.cookie.indexOf("GUID=") != -1) {
-		sweepswin = window.open('/sweepstakes_pop.asp','bn_sweeps','resizable=1,scrollbars=0,directories=0,height=300,width=270');
-		sweepswin.focus();
-	}
-	//-->
-	</script>
-	
-	<p>
-	
-	
-	
-<!--startindex--></p></body></html>
+<font size="-1"><b>Updated October 2, 2003</b>
+<!--stopindex--><p><img src="/ai/pxl.gif" width="596" height="1"></p></font></font></td><td width="15"><img src="/ai/pxl.gif" width="15" height="1"></td><td bgcolor="#B1BDCD" width="1"><img src="/ai/pxl.gif" width="1" height="1"></td><td bgcolor="#FFFFFF" width="3"><img src="/ai/pxl.gif" width="3" height="1"></td></tr></tbody></table><table width="643" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#B1BDCD"><img src="/ai/pxl.gif" width="643" height="1"></td></tr><tr><td bgcolor="#FFFFFF"><img src="/ai/pxl.gif" width="1" height="3"></td></tr></tbody></table></td><td bgcolor="#E7EBF0" width="100%"><img src="/ai/pxl.gif" width="1" height="1"></td></tr></tbody></table></td></tr><tr><td valign="BOTTOM" width="130" bgcolor="#E7EBF0"><table width="130" border="0" cellpadding="0" cellspacing="4"><tbody><tr><td valign="BOTTOM" width="130"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="smcopy"><b>Questions?</b> Contact <a href="mailto:service@bluenile.com">service@bluenile.com</a><br> or 800-242-2728</td></tr></tbody></table><font color="#555555" face="Verdana" size="1"></font><p><font color="#555555" face="Verdana" size="1">For phone orders, please mention: <font color="GREEN">NCKY99</font></font></p></td></tr></tbody></table></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#E7EBF0"><tbody><tr><td align="LEFT"><table width="776" border="0" cellpadding="6" cellspacing="0"><tbody><tr><td width="130"><font color="#555555" face="Arial" size="2">&nbsp;</font></td><td align="CENTER"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr class="lgcopy"><td><a href="http://www.bluenile.com/about.asp?track=59">About&nbsp;Us</a></td><td><img src="/ai/pxl.gif" width="12" height="25"></td><td><a href="http://www.bluenile.com/contact.asp?track=59">Contact&nbsp;Us</a></td><td><img src="/ai/pxl.gif" width="12" height="25"></td><td><a href="http://www.bluenile.com/shipping.asp?track=59">Free&nbsp;Shipping</a></td><td><img src="/ai/pxl.gif" width="12" height="25"></td><td><a href="http://www.bluenile.com/returns.asp?track=59">Extended&nbsp;Returns</a></td><td><img src="/ai/pxl.gif" width="12" height="25"></td><td><a href="http://www.bluenile.com/services_channel.asp?track=59">Financing&nbsp;&amp;&nbsp;Insurance</a></td><td><img src="/ai/pxl.gif" width="12" height="25"></td><td><a href="http://www.bluenile.com/email_friend.asp?track=59">Refer&nbsp;a&nbsp;Friend</a></td><td><img src="/ai/pxl.gif" width="12" height="25"></td><td><a href="http://www.bluenile.com/affiliate/default.asp?track=59">Affiliates</a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="776" border="0" cellpadding="6" cellspacing="0"><tbody><tr><td width="130"><font color="#555555" face="Arial" size="2">&nbsp;</font></td><form method="GET" action="/diamond_guide.asp"></form><input type="HIDDEN" name="subscribe_only" value="1"><td align="CENTER"><font color="#555555" face="Arial" size="2">Receive holiday gift reminders &amp; special offers: <input type="TEXT" name="email" value="Enter your e-mail" class="PagingFilterDropDown" onclick="this.value='';"><input type="image" src="/ai/but/but_g_enter.gif" align="absmiddle" border="0" width="48" height="20" hspace="6" vspace="2" alt="Enter"><font color="#555555" face="Verdana" size="1"><p><a href="http://www.bluenile.com/product_policies.asp">Legal Notices</a> &nbsp;<a href="http://www.bluenile.com/privacy.asp?track=59">Privacy Policy</a> (updated) &nbsp;© 1999-2003, Blue Nile, Inc.</p></font></font></td></tr></tbody></table><script language="JavaScript"><!--function Certify(URL) {popupWin = window.open(URL, 'Participant', 'location,scrollbars,width=450,height=300')window.top.name = 'opener';}// --></script><table width="777" border="0" cellpadding="6" cellspacing="0"><tbody><tr><td width="130" class="smcopy">&nbsp;</td><td align="CENTER"><img src="/ai/bug/bug_bottom_logos.gif" width="566" height="51" border="0" usemap="#bottom_logos_Map"><map name="bottom_logos_Map"><area shape="rect" alt="BBBOnLine Reliability Seal" coords="0,0,150,51" href="javascript:Certify('redirect.asp?goto=http%3A%2F%2Fwww%2Ebbbonline%2Eorg%2Fr%2Ecfm%3FID%3D1296000087&amp;track=62');"><area shape="rect" alt="Forbes Favorite" coords="150,0,225,51" href="redirect.asp?goto=http%3A%2F%2Fwww%2Eforbes%2Ecom%2Fbow%2Fb2c%2Freview%2Ejhtml%3Fid%3D2242&amp;track=62" target="bn_external"><area shape="rect" alt="BizRate Customer Certified (GOLD) Site" coords="225,0,360,51" href="redirect.asp?goto=http%3A%2F%2Fwww%2Ebizrate%2Ecom%2Fmerchant%2Freports%2Findex%2Expml%3Fmid%3D24298%26cid%3D126%26pos%3Dml%2D12%26r%3Ddesc&amp;track=62" target="bn_external"><area shape="rect" alt="Verisign Secure Site" coords="360,0,445,51" href="javascript:void(sealWin=window.open('redirect.asp?goto=https%3A%2F%2Fdigitalid%2Everisign%2Ecom%2Fas2%2F36cee45d35546608f819af84d3b9b520','verisign_win','toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=700,height=450'));sealWin.focus();"><area shape="rect" alt="Federal Express" coords="445,0,566,51" href="redirect.asp?goto=http%3A%2F%2Fwww%2Efedex%2Ecom&amp;track=62" target="bn_external"></map></td></tr></tbody></table><script language="JavaScript"><!--document.write ('<IMG SRC="/ai/item/item_pxltrack.gif?resolution=' + screen.height + 'x' + screen.width + '&colordepth=' + screen.colorDepth + '" HEIGHT="1" WIDTH="1">')//--></script><!-- copyright 1999-2003 Blue Nile, Inc.--><script language="JavaScript">
+		<!--
+		if (document.cookie.indexOf("GUID=") != -1) {sweepswin = window.open('/shipping_pop.asp','bn_sweeps','resizable=1,scrollbars=0,directories=0,height=320,width=370');sweepswin.focus();}
+		//-->
+		</script><p></p></body></html>
