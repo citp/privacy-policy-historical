@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207184408id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403084323id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
 
 # Top26.net / Gaming - Privacy Policy
 
