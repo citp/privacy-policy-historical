@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402093332id_/http%3A//www.wachovia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204060904id_/http%3A//www.wachovia.com/privacy) for the most accurate reproduction.*
 
 # Wachovia Privacy Statement
 
@@ -32,7 +32,7 @@ _How to Reach Us to Exercise Your Choices_
 
   * Visit a Wachovia financial center.
   * Call us at (866) 203-5722 to speak to a representative (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114).
-  * Complete our online [Consumer Privacy Preference Form](http://www.wachovia.com/personal/forms/privacy_optout).
+  * Complete our online [Consumer Privacy Preference Form](https://web.archive.org/personal/forms/privacy_optout).
 
 
   *   *   *   *   * 
