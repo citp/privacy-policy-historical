@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209050123id_/http%3A//www.search123.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626162926id_/http%3A//www.search123.com/about/privacy.html) for the most accurate reproduction.*
 
 # Search123 About Search123
 
@@ -25,7 +25,7 @@
   [Advertiser Terms and Conditions](http://www.search123.com/about/advterms.html)  
   [Traffic Partner Terms and Conditions](http://www.search123.com/about/trapartterms.html)  
   
-[Contact Us](https://web.archive.org/web/20021209050123id_/http%3A//www.search123.com/about/contact.html) | 
+[Contact Us](https://web.archive.org/web/20030626162926id_/http%3A//www.search123.com/about/contact.html) | 
 
 Search123 Privacy Policy
 
@@ -45,12 +45,10 @@ Questions regarding this statement should be directed to Search123 by e-mailing 
 
 Attn: Business and Legal Affairs  
 Search123 Inc.  
-5701 Lindero Canyon Road  
-Building 2, Suite 200  
-Westlake Village, CA 91362   
-818-597-2217
+4353 Park Terrace Drive  
+Westlake Village, CA 91361
 
-If you feel that Search123 is not abiding by its posted privacy policy, you should first contact the company by e-mail at [privacy@search123.com](mailto:privacy@search123.com) or by phone at 818-597-4775 or 800-324-9626. 
+If you feel that Search123 is not abiding by its posted privacy policy, you should first contact the company by e-mail at [privacy@search123.com](mailto:privacy@search123.com) or by phone at 877-77-SEARCH. 
 
 Information Collection and Use
 
