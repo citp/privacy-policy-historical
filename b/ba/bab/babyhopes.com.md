@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609192845id_/http%3A//babyhopes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208082159id_/http%3A//www.babyhopes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy / Security Statement - BabyHopes.com
 
+Effective February 1 2001
+
 **Our Commitment To Privacy: **  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+* * *
 
 **The Information We Collect: **  
 This notice applies to all information collected or submitted on the BabyHopes.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
