@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gastongazette.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407061855id_/http%3A//www.gastongazette.com/Portal/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gastongazette.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008085642id_/http%3A//www.gastongazette.com/Portal/privacystatement.htm) for the most accurate reproduction.*
 
 # Gaston Gazette Online
 
