@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611062903id_/http%3A//www.naag.org/naag/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629074807id_/http%3A//naag.org/naag/privacy.php) for the most accurate reproduction.*
 
-# www.naag.org
-
-## Privacy Policy
+# NAAG.org: Privacy Policy
 
 Because we gather information about where you go on the National Association of Attorneys General's (NAAG) network of websites and services, we want you to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. 
 
