@@ -1,27 +1,81 @@
-> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2002-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021130172352id_/http%3A//www.pga.com/About_Us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193054id_/http%3A//www.pga.com/privacy.cfm) for the most accurate reproduction.*
 
-# PGA.com Privacy Statement
+# PGA.com :: Provacy Policy
 
-PGA.com’s policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. 
+Thank you for visiting PGA.com. Turner Sports Interactive, Inc. ("TSI") operates PGA.com pursuant to agreements with the Professional Golfers Association of America ("PGA"). Your privacy is important to TSI and PGA ("we", "us" or "our"). To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at PGA.com. Please be advised that the practices described in this Privacy Notice apply only to information gathered through and in connection with this web site and do not necessarily reflect our practices for other sites we operate. 
 
-**Aggregate and Personal Information**
+##### The Information We Collect
 
-PGA.com shares aggregate information about our users with advertisers, business partners, sponsors, and other third parties. For example, we will share information indicating what percentages of PGA.com’s users are female and male. This data is used to customize PGA.com’s content and advertising to deliver a more relevant product to our users. 
+At our site, you may now or in the future be able to order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be asked to be submitted include: name, address, e-mail address, telephone number, fax number, date of birth, gender, credit card information, and information about your interests in and use of various products, programs, and services. 
 
-Personal information, such as your name, e-mail address, and birth date, provided by users of PGA.com who are 18 years of age or over may be used for marketing and promotional purposes by PGA.com, our affiliates, and parent, and by companies that have been prescreened by PGA.com. To keep you in control of your personal information, we allow you to "opt-out" by indicating that you do not wish to receive communications from PGA.com about new features or services, and/or receive communications from third-party companies that offer a product or service that we think would be of value to you. 
+You may also be able to submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
 
-**Policies for Children Under 18 Years Old**
+Certain features of our site may only be available to persons who provide us with the requested personally identifiable information such as persons ordering products, programs, and services or otherwise participating in the site's activities and offerings. 
 
-PGA.com will not collect or maintain any personal information from children under 18 years of age without the express consent of their parent or guardian. 
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
 
-Certain interactive features of PGA.com require registration to participate. All registrants will be required to enter their full name, age, zip code, e-mail address and such other information as we may on occasion request. When a child under 18 years of age tries to register for such features on PGA.com, we also request an e-mail address of the child’s parent or guardian, which is only used to notify the parent or guardian of the child’s attempted registration. By following the instructions provided in the notice, the parent or guardian will be given the option to approve or decline the child’s registration. If the parent or guardian declines the child’s registration or fails to approve the registration within the time period specified in the notice, the registration will not be activated and PGA.com will not retain any personal information submitted by the child. PGA.com only requests the disclosure of personal information that is reasonably necessary to participate in the feature for which the child is attempting to register. Even after a child’s registration is approved by his or her parent or guardian, PGA.com will not share such information with third-party companies. PGA.com will not contact users who are under the age of 18 about special offers or for marketing purposes. 
+##### How We Use the Information
 
-**Links to Other Sites**
+We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, advertisements, programs or services that we believe may be of interest to you. 
 
-Users should be aware that there are links on our site that take you outside our site to other sites that are beyond our control. The PGA.com Privacy Policy addresses only the use and disclosure of information we collect from you on the PGA.com site. 
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
 
-**Your Acceptance of These Terms**
+We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
 
-By using PGA.com, you signify your consent to the collection and use of personal information by PGA.com as outlined in this Privacy Policy. If you do not agree to this policy, please do not use this Web site. If we make any material changes to the PGA.com Privacy Policy, those changes will be posted on this page so that you are always aware of what personal information PGA.com collects and how that information is used. Since this policy may change from time to time, you should check back periodically. Your continued use of PGA.com following the posting of changes to these terms will mean you accept those changes. 
+If you choose to submit content for publication (e.g., questions for an online chat guest), we may publish your screen name and other information you have provided to us (e.g. transcript of the chat, including your question). 
 
-If you have any questions or concerns regarding PGA.com’s Privacy Policy, you should contact PGA.com at [info@pga.com](mailto:info@pga.com)
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. 
+
+Agents and contractors of PGA.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for PGA.com. 
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that is collected will never be disclosed in a manner that is inconsistent with this Privacy Notice. 
+
+We may also disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non- profit organizations) that want to market products or services to you. If our site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. You can opt out from such disclosures. 
+
+We may on occasion combine information we receive online with other information and outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, read our instructions on how to make your request. 
+
+Finally, PGA.com will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
+
+##### Collection of Information by Third-Party Sites and Sponsors
+
+Our site may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we may not have control over information that is submitted to, or collected by, these third parties. 
+
+We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. PGA.com does not have ultimate control over these third parties' use of this information. PGA.com will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. We may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. You can learn more about this site's use of such third-party ad servers data collection. 
+
+##### Cookies
+
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e- mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
+
+##### Our Commitment to Security
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
+
+##### How You can Access or Correct Information
+
+Read our instructions on how you can access the personally identifiable information that this site has collected about you online, or how to correct factual errors in such information. 
+
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+
+##### Special Note for Parents
+
+The site you are visiting is considered a general audience site. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested. 
+
+##### How to Contact Us
+
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [privacy.pga@turner.com](mailto:privacy.pga@turner.com "Send an email"). 
+
+##### Unsubscribing from e-mail lists
+
+If you have signed up to receive our emails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this site. 
+
+##### Third Party Ad Servers
+
+We currently partner with DoubleClick to serve or present the ads that appear on our site. You'll find [more information about DoubleClick](http://www.doubleclick.com/us/corporate/privacy/ "More info about DoubleClick") on their [web site](http://www.doubleclick.com/us/corporate/privacy/ "DoubleClick web site"). Go to [www.nai.org](http://www.nai.org/ "www.nai.org") for more [general information about third party ad servers](http://www.nai.org/ "General information about third party ad servers"). 
+
+##### Access to personal information
+
+If you created a password-protected account within our site go back to that portion of the site to review the information you provided. 
+
+You may [send an e-mail to request access](mailto:privacy.pga@turner.com "Send an email") to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for said service, if any. 
+
+If you have any questions or concerns regarding PGA.com's Privacy Policy, you should contact PGA.com at [privacy@pga.com](mailto:privacy.pga@turner.com "Send an email")
