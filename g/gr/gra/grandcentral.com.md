@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandcentral.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610040356id_/http%3A//www.grandcentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandcentral.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055349id_/http%3A//www.grandcentral.com/privacy.html) for the most accurate reproduction.*
 
 # Grand Central Communications - Privacy Statement
 
