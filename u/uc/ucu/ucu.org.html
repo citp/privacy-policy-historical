@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ucu.org privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204010952id_/http%3A//ucu.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ucu.org privacy policy that was archived on 2005-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050312080527id_/http%3A//www.ucu.org/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy Policy - University Credit Union, Los Angeles, CA</title>
@@ -76,9 +76,16 @@ function isnArray() {
   this[i+1] = isnArray.arguments[i];
   }
  }
+// Build an Day array initializer
+function jsnArrayDay() {
+ argnr=jsnArrayDay.arguments.length
+ for (var j=0;j<argnr;j++) {
+  this[j] = jsnArrayDay.arguments[j];
+  }
+ }
 // And months and day arrays
 var isnMonths=new isnArray("January","February","March","April","May","June","July","August","September","October","November","December");
-var isnDays= new isnArray("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
+var jsnDays=new jsnArrayDay("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
 
 function yearComplete (Year) {
     if (Year < 100 && Year > 50) {
@@ -198,7 +205,7 @@ function changeImages() {
 				<font face="ARIAL, HELVETICA" size="2" color="#000099">
 				<script language="JavaScript">
 				<!--Hide JavaScript from Java-Impaired Browsers
-				document.write(isnDays[today.getDay()]+", "+isnMonths[today.getMonth()+1]
+				document.write(jsnDays[today.getDay()]+", "+isnMonths[today.getMonth()+1]
 				+" "+today.getDate()+", "+yearComplete(today.getYear()));
 				document.write("&nbsp;&nbsp;")
 				// Finish hiding of script -->
@@ -541,7 +548,7 @@ To provide you with greater access of information, UCU maintains a list of links
 					</p><p align="CENTER">
 					<img src="images/bluepixel.gif" height="1" width="100%">
 					</p><p align="CENTER">
-					<font face="arial, helvetica" size="-2">Copyright © 2002  All rights reserved.</font><br><br>
+					<font face="arial, helvetica" size="-2">Copyright © 2005  All rights reserved.</font><br><br>
 					</p></td>
 					
 					<!-- white space -->
