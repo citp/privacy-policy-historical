@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603153618id_/http%3A//www.buyerzone.com/corporate/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206093737id_/http%3A//www.buyerzone.com/corporate/privacy/index.html) for the most accurate reproduction.*
 
 # BuyerZone.com - Privacy Policy Page
 
 [](https://www.truste.org/validate/7654)
 
-This confirms that BuyerZone.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [http://www.buyerzone.com](https://web.archive.org/web/20020603153618id_/http%3A//www.buyerzone.com/index.html).
+This confirms that BuyerZone.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [http://www.buyerzone.com](https://web.archive.org/web/20021206093737id_/http%3A//www.buyerzone.com/index.html).
 
 TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Web site has agreed to notify you of:
 
@@ -15,7 +15,7 @@ TRUSTe is an independent, non profit organization whose mission is to build user
 5\. What choices are available to you regarding collection, use, and distribution of the information   
 6\. The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under BuyerZone.com control 7\. How you can correct any inaccuracies in the information 
 
-If you have questions or concerns regarding this statement, you should first contact BuyerZone.com by e-mail ([custcare@buyerzone.com](https://web.archive.org/web/20020603153618id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml)) or phone (1-888-393-5000). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe WatchDog Dispute Resolution Process"  
+If you have questions or concerns regarding this statement, you should first contact BuyerZone.com by e-mail ([custcare@buyerzone.com](https://web.archive.org/web/20021206093737id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml)) or phone (1-888-393-5000). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe WatchDog Dispute Resolution Process"  
 (<http://www.truste.org/users/users_watchdog_intro.html>). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 **Information Collection and Use**
@@ -66,7 +66,7 @@ From time to time, our site requests information from users via surveys or conte
 
 **Tell-A-Friend**
 
-If you elect to use our referral service to inform a friend about our site, we ask you for the friend's name and e-mail address. BuyerZone.com will automatically send the friend a one-time e-mail inviting him/her to visit the site. BuyerZone.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact BuyerZone.com at [custcare@buyerzone.com](https://web.archive.org/web/20020603153618id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml) to request the removal of this information from our database.
+If you elect to use our referral service to inform a friend about our site, we ask you for the friend's name and e-mail address. BuyerZone.com will automatically send the friend a one-time e-mail inviting him/her to visit the site. BuyerZone.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact BuyerZone.com at [custcare@buyerzone.com](https://web.archive.org/web/20021206093737id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml) to request the removal of this information from our database.
 
 **Discussion Forums and Live Help**
 
@@ -82,7 +82,7 @@ When our order form asks you to enter sensitive information (such as credit card
 
 While we use encryption to protect sensitive information online, we also do everything in our power to protect user information off line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desks. When they return, they must re-enter their password to regain access to your information. Furthermore, ALL employees are kept up to date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our Web site, please send an e-mail to [custcare@buyerzone.com](https://web.archive.org/web/20020603153618id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml).
+If you have any questions about the security at our Web site, please send an e-mail to [custcare@buyerzone.com](https://web.archive.org/web/20021206093737id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml).
 
 **Supplementation of Information**
 
@@ -100,13 +100,13 @@ We also send you site and service announcement updates. Members are not able to 
 
 **Correction/Updating Personal Information:**
 
-If your personally identifiable information changes, like your ZIP code, or if you no longer desire our service, we will provide a way to correct, update, or remove your personal data. This can usually be done at Buyer's tools ([http://www.buyerzone.com/services/myzone/index.html](https://web.archive.org/services/myzone/index.html)) or by e-mailing [custcare@buyerzone.com](https://web.archive.org/web/20020603153618id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml).
+If your personally identifiable information changes, like your ZIP code, or if you no longer desire our service, we will provide a way to correct, update, or remove your personal data. This can usually be done at Buyer's tools ([http://www.buyerzone.com/services/myzone/index.html](https://web.archive.org/services/myzone/index.html)) or by e-mailing [custcare@buyerzone.com](https://web.archive.org/web/20021206093737id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml).
 
 **Choice/Opt-out**
 
 You are given the opportunity to 'opt-out' of having your information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so that if you buy a product from us, but don't want any marketing material, you can keep your e-mail address off of our lists. 
 
-If you no longer wish to receive our newsletters or promotional materials from our partners, you may opt-out of receiving these communications by following the unsubscribe links in the e-mail, visiting Buyer's tools ([http://www.buyerzone.com/services/myzone/index.html](https://web.archive.org/services/myzone/index.html)) or e-mailing [custcare@buyerzone.com](https://web.archive.org/web/20020603153618id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml).
+If you no longer wish to receive our newsletters or promotional materials from our partners, you may opt-out of receiving these communications by following the unsubscribe links in the e-mail, visiting Buyer's tools ([http://www.buyerzone.com/services/myzone/index.html](https://web.archive.org/services/myzone/index.html)) or e-mailing [custcare@buyerzone.com](https://web.archive.org/web/20021206093737id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml).
 
 You are always notified when your information is being collected by any outside parties. We do this so you can make an informed choice as to whether you should proceed with services that require an outside party.
 
@@ -122,4 +122,4 @@ Though we make every effort to preserve your privacy, we may need to disclose pe
 
 If we decide to change our privacy policy, we will post those changes on our homepage so you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by e-mail. We will use information in accordance with the privacy policy under which the information was collected. You can choose not to have your information used.
 
-We always welcome your questions and comments about our privacy policy. To send us feedback, please contact [custcare@buyerzone.com](https://web.archive.org/web/20020603153618id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml).
+We always welcome your questions and comments about our privacy policy. To send us feedback, please contact [custcare@buyerzone.com](https://web.archive.org/web/20021206093737id_/http%3A//www.buyerzone.com/services/feedback_form/feedback.jhtml).
