@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605150407id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204042036id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
 
 # SAIC: Privacy Statement
 
