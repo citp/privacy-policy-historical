@@ -1,36 +1,65 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204212803id_/http%3A//www.metropcs.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610182631id_/http%3A//metropcs.com/privacy.shtml) for the most accurate reproduction.*
 
 # MetroPCS » privacy policy
 
-MetroPCS understands that your privacy is important, and we have adopted this privacy policy to inform you of the steps we take to protect information about your use of our Service. In offering and providing Service to you, we collect certain information relating to your use of our Service ("Customer Service Information"). Customer Service Information consists of: information contained in bills that we send to you relating to Service; information regarding your payment history with us; and information that is available to us solely by virtue of your customer relationship with us relating to the quantity, type, technical configuration, destination, and amount of your use of Service. Under federal law, you have a right to the protection of, and we have a duty to protect, the confidentiality of Customer Service Information. We protect the privacy of our wireless customers consistent with the applicable federal laws. 
+**_PRIVACY POLICY_**
 
-We may use or disclose Customer Service Information that we collect about you as permitted by law. For example, we may use or disclose Customer Service Information about you:
+_General_
 
-  * to provide you Service under this Agreement or to initiate, render, bill or collect for Service;
-  * to market or provide handsets, related equipment, or information services to you;
-  * to provide services necessary to, or used in, the provision of Service, including the publishing of directories;
-  * to protect our rights or property or to protect customers or other telecommunications carriers from fraudulent, abusive, or unlawful use of, or subscription to, our Service;
-  * to provide information regarding products or services, referrals, or administrative services to you when you contact us and approve of our use of the information during the course of the call; 
-  * to provide call location information about wireless subscribers in emergency situations; and
-  * to comply with governmental laws, regulations and orders (including subpoenas relating to personal or private electronic communications transmitted on our networks and/or other information about our business or our subscribers) and to cooperate with governmental investigations.
+MetroPCS understands that your privacy is important, and we have adopted this privacy policy to inform you of the steps we take to protect information about your use of our Service.  In offering and providing Service to you, we collect certain information relating to your use of our Service, including information that identifies you, such as your name, address or credit card, as well as other information that you provide to us (“Personal Information”).  Personal Information also includes information about you that is available to us solely by virtue of your customer relationship with us, such as information regarding your payment history with us, and other information relating to the quantity, type, technical configuration, destination, and amount of your use of the Service.  In addition, Personal Information includes information provided to us by third parties, such as consumer reporting agencies and vendors, or that we collect from our interactions with you, for example when you visit our web page. 
 
+We protect the privacy of your Personal Information in accordance with applicable federal law. 
 
+For example, we may collect, use, and disclose your Personal Information for the following reasons: 
 
-In addition, you can compel us to disclose Customer Service Information about you to any person by writing to us at the address listed in the ‘Notices’ section of the [Terms and Conditions](https://web.archive.org/terms.shtml) page
+·    to provide you Service under this Agreement or to initiate, render, bill or collect for Service;
 
-MetroPCS is constantly striving to enhance the quality and selection of the products and services that we offer to you as our customer. As a result, we reserve the right to share information, including Customer Service Information, about you with others such as retailers and direct marketers that we select in an effort to make you aware of additional products and services that may be of interest to you. You have the right to opt out of our use and sharing of Customer Service Information for this purpose. If you choose to opt out of this use and disclosure of Customer Service Information, however, it will make it more difficult for us to offer you products and services tailored to your needs. You can direct us at any time:
+·    to market or provide handsets, related equipment, or information services to you;
 
-  * Not to use Customer Service Information to inform you of MetroPCS product and service offers (other than those related to your Service, handsets, information services, or related equipment) that we believe would be of interest to you;
-  * Not to use Customer Service Information to inform you of product and service offers from third-parties that we believe would be of interest to you; and/or
-  * Not to provide Customer Service Information about you to non-affiliated third-parties for marketing purposes,
+·    to provide services necessary to, or used in, the provision of Service, including the publishing of directories;
 
+·    to protect our rights or property or to protect customers or other telecommunications carriers from fraudulent, abusive, or unlawful use of, or subscription to, our Service;
 
+·    to provide information regarding products or services, referrals, or administrative services to you when you contact us and approve of our use of the information during the course of the call; 
 
-by writing to us at the address listed above in the "Notices" section section of the [Terms and Conditions](https://web.archive.org/terms.shtml) page, or by visiting our website at http://www.metropcs.com. Your opt out direction will continue to apply until you notify us that you would like to revoke or limit it. Your decision to opt out will not affect our provision of Service to you. 
+·    to provide call location information about wireless subscribers in emergency situations; and
 
-IN CONNECTION WITH THE SALE OR TRANSFER OF ALL OR A PORTION OF OUR BUSINESS INTERESTS, MetroPCS MAY TRANSFER PERSONALLY-IDENTIFIABLE INFORMATION WE HAVE COLLECTED ABOUT YOU (INCLUDING, BUT NOT LIMITED TO, CUSTOMER SERVICE INFORMATION AND IDENTIFYING INFORMATION SUCH AS YOUR ADDRESS, NAME, AGE, SEX, ZIP CODE, STATE AND COUNTRY OF RESIDENCY) TO A THIRD PARTY ENTITY THAT AGREES TO BE MetroPCS'S SUCCESSOR IN INTEREST WITH REGARD TO THE PROVISION OF SERVICE UNDER THIS AGREEMENT AND THE MAINTENANCE AND PROTECTION OF SUCH INFORMATION.
+·    to comply with governmental laws, regulations and orders (including subpoenas relating to personal or private electronic communications transmitted on our networks and/or other information about our business or our subscribers) and to cooperate with governmental investigations.
 
-Other than as provided above, we will not share Customer Service Information about you. Customer Service Information does not include aggregate customer data (collective data about our customers from which customer names or other identifiers have been removed), and we may create and share reports containing aggregate data about our customers or otherwise use or share aggregate data about our customers. In addition, we may use or share information about our customers, other than Customer Service Information, in any manner that we deem appropriate or necessary.
+MetroPCS is constantly striving to enhance the quality and selection of the products and services that we offer to you as our customer.  As a result, we also may share information, including Personal Information, about you with others such as retailers and direct marketers that we select in an effort to make you aware of additional products and services that may be of interest to you. 
 
-Our privacy policy may change from time to time, so please check with us periodically. You can obtain the most current version of this Privacy Policy through our website, http://www.metropcs.com or by calling us at 1-888-8metro8.  
+You have the right to opt out of our use and sharing of Personal Information for these marketing purposes.  If you choose to opt out of this use and disclosure of Personal Information, however, it will make it more difficult for us to offer you products and services tailored to your needs.  You can direct us at any time:
 
+·    not to use Personal Information to inform you of MetroPCS product and service offers (other than those related to your Service, handsets, information services, or related equipment) that we believe would be of interest to you;
+
+·    not to use Personal Information to inform you of product and service offers from third-parties that we believe would be of interest to you; and/or
+
+·    not to provide Personal Information about you to non-affiliated third-parties for marketing purposes,
+
+by writing to us at the address listed above in the “Notices” section.  Your request to opt out of disclosure of such information will continue to apply until you notify us that you would like to revoke or limit it.  Your decision to opt out will not affect our provision of Service to you. 
+
+In addition, you can direct us to disclose Personal Information about you to any person by writing to us at the address listed above in the “Notices” section. 
+
+Personal Information, as defined above, does not include aggregate customer data (collective data about our customers from which customer names or other identifiers have been removed), and we may create and share reports containing aggregate data about our customers or otherwise use or share aggregate data about our customers.  Personal Information also does not include your name, address and telephone number to the extent you have directed us to make such information available for directory service.  In addition, we may use or share information about our customers, other than Personal Information, in any manner that we deem appropriate or necessary.
+
+_Web Site Privacy Policy_
+
+When you visit our web site to learn more about MetroPCS products and services, access your account, pay your bill, or submit other information to us, we automatically receive and record information on our server logs from your browser, including your IP address and the page you request.  We use this information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+
+We may also set and access MetroPCS cookies on your computer.  A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive.  Each web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
+
+MetroPCS uses cookies for a number of purposes, including to: 
+
+·    access your information when you "sign in," so that we can provide you with customized content; 
+
+·    keep track of preferences you specify while you are accessing our web site; 
+
+·    estimate and report our total audience size and traffic; 
+
+·    conduct research to improve MetroPCS’s products and services; and/or 
+
+·    require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+
+You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)  If you reject all cookies, you may not be able to access or order certain MetroPCS products and services that require you to "sign in," and you may not be able to take full advantage of all offerings.  __
+
+Our privacy policy may change from time to time, so please check with us periodically.  You can obtain the most current version of this Privacy Policy through our website, http://www.metropcs.com.
