@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605121718id_/http%3A//www.nationalenquirer.com/neo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005225139id_/http%3A//www.nationalenquirer.com/neo/privacy.cfm) for the most accurate reproduction.*
 
 # The National Enquirer: Privacy Policy
 
