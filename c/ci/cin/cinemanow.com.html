@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cinemanow.com privacy policy that was archived on 2002-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020203035507id_/http%3A//www.cinemanow.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinemanow.com privacy policy that was archived on 2002-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209154250id_/http%3A//www.cinemanow.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>CinemaNow | Privacy Statement</title>
@@ -43,11 +43,6 @@ function doSearch(theQuery) {
 }
 
 //* Set Flash Page Headers
-function setTextInterval() {
-setInterval("setSectionHead()", 1);
-setInterval("setPageHead()", 1);
-}
-
 function setSectionHead() {
 	document.shObj.SetVariable("/:sectiontext","PRIVACY STATEMENT");
 	document.shObj.SetVariable("/:sectionlink","#");
@@ -76,10 +71,6 @@ function phObj_DoFSCommand(command, args) {
 	}
 }
 
-onload=setTextInterval;
-onload=setSectionHead;
-onload=setPageHead;
-
 
 function getBrowserSize() {
 	browserX = window.innerWidth;
@@ -106,14 +97,17 @@ function hourglass(from) {
 
 
 
+
 //* Handle all the the FSCommand messages in a Flash movie
 
 var InternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
-
 function film_finder_DoFSCommand(command, args) {
   var film_finderObj = InternetExplorer ? film_finder : document.film_finder;
+  //args = args.replace(/'/g,"%27")
+  args = escape(args)
   eval(command + "('" + args + "')")
 }
+
 
 //* Rollover Functions
 
@@ -147,12 +141,14 @@ function showSize() {
 	}
 
 // cn popup 
-function cnPromo() {
-	window.open("/popups/desparate_dan_promo.asp","new","scrollbars=no,resizable=no,location=no,status=no,toolbar=no,width=290,height=290");
-}
 
 
+//set cookie for armitage popup
+//
 </script>
+
+
+
 <style type="text/css">
 .bodywhitesmall {  font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #FFFFFF}
 .browseresults {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; background-color: #FFFFFF; font-weight: bold}
@@ -180,20 +176,24 @@ body { scrollbar-track-color: #000000; scrollbar-face-color: #8C8C8C; scrollbar-
 .shortSyn {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; margin-left: 14px; margin-top:20px; margin-right: 5px;}
 .filmIndex {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #0000FF; text-decoration:none; margin-left: 12px;}
 .filmIndexHead {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #FF6600; background-color: #FFFFFF;font-weight: bold;}
+.pppagetitle {	font-family: Arial, Helvetica, sans-serif;	font-size: 20px;	color: #0000FF;	text-decoration: underline;	font-weight: bold;}
 A:hover {color:"#FF6600";}.popuplarger { font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #000000 ; font-weight: normal}
 .browsepagebodysmall { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000 }
+.white11b {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color:white;}
+A.red {color:red;}
+A.white11b {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color:white;}
 
 </style>
 
 </head>
-<body bgcolor="#000000" text="#000000" link="#000000" vlink="#000000" alink="#FF6600" onload="preloadImages('/images/common_01_how_it_works_on.gif','/images/common_02_store_on.gif','/images/common_03_my_account_on.gif','/images/common_04_about_on.gif','/images/common_05_help_on.gif','/images/common_06a_logout_on.gif');preloadImages('/images/browse_tab_01_all_on.gif','/images/browse_tab_02_premium_on.gif','/images/browse_tab_03_free_on.gif','/images/browse_tab_04_most_watched_on.gif','/images/browse_bar_01_rewind_on.gif','/images/browse_bar_02_previous_on.gif','/images/browse_bar_03_next_on.gif','/images/browse_bar_04_forward_on.gif'); setTextInterval()">	
+<body bgcolor="#000000" text="#000000" link="#000000" vlink="#000000" alink="#FF6600" onload="preloadImages('/images/common_01_how_it_works_on.gif','/images/common_02_store_on.gif','/images/common_03_my_account_on.gif','/images/common_04_about_on.gif','/images/common_05_help_on.gif','/images/common_06a_logout_on.gif');preloadImages('/images/browse_tab_01_all_on.gif','/images/browse_tab_02_premium_on.gif','/images/browse_tab_03_free_on.gif','/images/browse_tab_04_most_watched_on.gif','/images/browse_bar_01_rewind_on.gif','/images/browse_bar_02_previous_on.gif','/images/browse_bar_03_next_on.gif','/images/browse_bar_04_forward_on.gif') ">	
 <form name="movieSearch" action="/browse/browse.asp" method="post"><input type="hidden" name="searchstr"></form>
 
 <center>
 <table width="800" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" height="100%" align="center">
   <tbody><tr>
     <td valign="top" width="10"><img src="/images/common_corner_upper_left.gif" width="10" height="10"></td>
-    <td valign="top"><embed src="/flash/cn_logo.swf" pluginspage="http://www.macromedia.com/shockwave/download/" width="300" height="62"></td>
+    <td valign="top"><embed src="/flash/cn_logo.swf" quality="high" bgcolor="#FFFFFF" width="300" height="62" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></td>
     <td valign="top" align="right" width="100%">&nbsp;</td>
     <td valign="top" align="right" width="468">
 <script>
@@ -206,12 +206,8 @@ function spawnWin(theURL) {
 		<td colspan="7">
 <!-- Start Ad Banner -->
 
-	  <nolayer>
-	  <iframe src="http://ad.doubleclick.net/adi/cinemanow.dart/About;sz=468x60;ord=78570193052?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-	  <A HREF="http://ad.doubleclick.net/jump/cinemanow.dart/About;abr=!ie;sz=468x60;ord=78570193052?" TARGET="_new"><IMG SRC="http://ad.doubleclick.net/ad/cinemanow.dart/About;abr=!ie;sz=468x60;ord=78570193052?" border=0 height="60" width="468"></A>
-	  </iframe>
-	  </nolayer>
-	  <ilayer id="layer2" visibility="hidden" width="468" height="60"></ilayer>	  
+	  <a href="http://ad.doubleclick.net/jump/cinemanow.dart/About;abr=!ie;sz=468x60;ord=48246401548?" target="_new"><img src="http://ad.doubleclick.net/ad/cinemanow.dart/About;abr=!ie;sz=468x60;ord=48246401548?" border="0" height="60" width="468"></a><br>
+
 
 <!-- End Ad Banner -->
 		</td>
@@ -239,7 +235,7 @@ function spawnWin(theURL) {
 	<table id="contentTable" width="608" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td rowspan="2" valign="top">
-                	<embed name="film_finder" src="/flash/film_finder.swf" swliveconnect="true" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="142" height="268" vspace="9">
+                	<embed name="film_finder" src="/flash/film_finder.swf" swliveconnect="true" quality="high" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" width="142" height="268" vspace="9">
 		</td>
 		<td valign="top">
 			<img src="/images/common_trans_spacer.gif" width="10" height="5"><br>
@@ -248,12 +244,12 @@ function spawnWin(theURL) {
 	
         <tbody><tr> 
 		<td valign="top">
-			 <embed name="phObj" src="/flash/page_header.swf" quality="high" swliveconnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="408" height="25"> 
+			 <embed name="phObj" src="/flash/page_header.swf" quality="high" swliveconnect="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" width="408" height="25"> 
                 </td>
         </tr>
         <tr> 
                 <td valign="top">
-			<embed name="shObj" src="/flash/section_header.swf" swliveconnect="true" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="608" height="27"> 
+			<embed name="shObj" src="/flash/section_header.swf" swliveconnect="true" quality="high" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" width="608" height="27"> 
                 </td>
         </tr>
         </tbody></table>
@@ -417,7 +413,7 @@ function spawnWin(theURL) {
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr> 
 			<td colspan="2" class="copyright">
-<p style="margin-left:20px; margin-top:24px;">© Copyright 1999-2002 CinemaNow. All rights reserved. | <a href="/about/privacy.asp">Privacy Policy</a> | <a href="mailto:feedback@cinemanow.com">FEEDBACK</a></p>				
+<p style="margin-left:20px; margin-top:24px;">© Copyright 1999-2002 CinemaNow. All rights reserved. | <a href="/about/privacy.asp">Privacy Policy</a> | <a href="/about/terms_of_use.asp">Terms of Use</a> | <a href="mailto:feedback@cinemanow.com">FEEDBACK</a></p>				
 			</td>
 		</tr>
 		<tr> 
