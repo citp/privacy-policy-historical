@@ -1,73 +1,32 @@
-> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607140529id_/http%3A//www.4templates.com/policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211060713id_/http%3A//www.4templates.com/index.php%3F_p%3Dps) for the most accurate reproduction.*
 
-# 4 Templates - Your source for Website Templates
+# 4Templates.com - web templates, flash templates, website templates, professional, business templates, high tech templates
 
- [T-Shirts and more..](http://www.cafepress.com/4templates)
+|  |  **Cookies**
 
-  
- [Limited Editions](http://www.4templates.com/cgi-bin/index?limited+0)  
- [Art / Design](http://www.4templates.com/cgi-bin/index?artdesign+0)  
- [Business](http://www.4templates.com/cgi-bin/index?business+0)  
- [High-Tech](http://www.4templates.com/cgi-bin/index?hightech+0)  
- [Miscellaneous](http://www.4templates.com/cgi-bin/index?misc+0)  
- [Nature](http://www.4templates.com/cgi-bin/index?nature+0)  
- [Page Sets](http://www.4templates.com/cgi-bin/index?pagesets+0)  
+Cookies are small data files that websites can write to your hard drive when you visit them. Once written, the cookie can only be accessed by the site that originally created it (ie. our site cannot read cookies set by another site you have visited and vice-versa). Our site uses cookies to store personal site preferences, session information, and ordering information specific to you (such as the contents of your shopping cart). 
 
+**External Site Links**
 
-[Specials New!](http://www.4templates.com/cgi-bin/index?specials+0)  
- [FlashBlaster](http://www.qksrv.net/click-699135-4194748)   
-  
- [Ebay Auctions](http://cgi6.ebay.com/aw-cgi/eBayISAPI.dll?ViewListedItems&userid=4templates&include=0&since=-1&sort=2&rows=25)  
- Bidding starts at $1.00  
- [Register to Bid!](http://www.qksrv.net/click-699135-2202639)
+This site contains links to other websites on the internet. While we provide links to them, we are not responsible for their content or privacy policies. 
 
-  
- [Affiliate Program](http://www.4templates.com/linkus.php3)  
- [Resources](http://www.templatesearch.com/)  
- [Support Forum](http://www.4templates.com/support)  
- [Terms of Use](http://www.4templates.com/terms.php3)  
- [FAQ](http://www.4templates.com/faq.php3)
+**Advertisers**
 
-  
-|    
+Some of the advertisements on our site are provided by outside advertisement companies and may contain cookies. While we use cookies on our site, the cookies associated with these advertisements are collected by their respective companies and are therefore not accessible to us. 
 
+**IP Addresses and Logging**
 
-##  Privacy Statement for 4Templates.com 
+Our server logs information regarding visitors to our site, such as IP address, date/time, and pages accessed. This information is used to generate reports for statistical purposes. 
 
-**4Templates.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ 4Templates.com ](http://www.4templates.com/)
+**Customer Information**
 
-####  Information Automatically Logged 
+Information is collected from the customer at the time of a sale in order to complete the sale and deliver the purchased item(s). This information is not sold or distributed to third parties. 
 
-We use your IP address to help identify you and your shopping cart. 
+**Credit Card Transactions**
 
-####  Advertisers 
+All credit card transactions are securely processed through [Authorize.net](http://www.authorize.net/). The information collected by Authorize.net's payment form is stored only on Authorize.net's network and is not recorded by 4Templates.com. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+Copyright © 2002 WireZero Communications, Inc. [[Contact Us]](http://www.4templates.com/index.php?_p=contact&who=2)  
+All trademarks and service marks mentioned herein belong to their respective owners. 
 
-####  Order Forms 
-
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). 
-
-Contact information from the order forms is used to get in touch with the visitor when necessary. 
-
-Financial information that is collected is used to bill the user for products and services. 
-
-Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity. 
-
-Demographic and profile data is also collected at our site.   
-We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-####  External Links 
-
-This site contains links to other sites. **4Templates.com** is not responsible for the privacy practices or the content of such Web sites. 
-
-####  Security 
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
-
-##  Contacting the Web Site 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-[ webmaster@f4templates.com ](mailto:webmaster@f4templates.com)
+|  |  | 
