@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201130313id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401085806id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.*
 
-# MyCoupons - Coupons, Discounts, Rebates and much more!
+# MyCoupons - Coupons, Price Comparison, Discounts, Rebates, Gift Cards, Free Stuff, and much more!
 
 **TRUSTe Certification**[](https://www.truste.org/validate/4032)   
 Direct Response Technologies, Inc., the owner of MyCoupons and DirectCoupons, is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. Questions regarding this statement should be directed to MyCoupons™ or DirectCoupons™ - [office@directresponse.com](mailto:office@directresponse.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
@@ -54,7 +54,7 @@ To Change user information, a subscriber only needs to send their request via ou
 Subscribers can opt-out at any time from MyCoupons/DirectCoupons. Subscribers of MyCoupons Free Email can email [office@Direct Response Technologies, Inc](mailto:office@Direct%20Response%20Technologies,%20Inc) and ask to have the account removed immediately, or, the account will be automatically removed after 180 days of non-activity. Or By: 
 
 412-921-6881  
-[office@directresponse.com](https://web.archive.org/web/20021201130313id_/http%3A//www.mycoupons.com/office@directresponse.com)
+[office@directresponse.com](https://web.archive.org/web/20030401085806id_/http%3A//www.mycoupons.com/office@directresponse.com)
 
 If you opt-in for a newsletter listed on the signup form of MyCoupons/DirectCoupons, and you try to opt out of the newsletter that you opt in for while signing up for MyCoupons/DirectCoupons, in some cases you may have to confirm your opt out. 
 
