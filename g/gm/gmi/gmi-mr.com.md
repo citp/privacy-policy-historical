@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206215757id_/http%3A//www.gmi-mr.com/en/privacypolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306205327id_/http%3A//www.gmi-mr.com/en/privacypolicy.phtml) for the most accurate reproduction.*
 
 # GMI - Global Market Insite, Inc. : Privacy Policy
 
@@ -11,7 +11,8 @@
 [](http://www.gmi-mr.com/es/index.phtml)  
 [](http://www.gmi-mr.com/es/index.phtml)  
 [](http://www.gmi-mr.com/de/index.phtml)  
-[](http://www.gmi-mr.com/jp/index.phtml)
+[](http://www.gmi-mr.com/jp/index.phtml)  
+[](http://www.gmi-mr.com/ch/index.phtml)
 
 |  |   
 
@@ -74,7 +75,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 Additional Information 
 
-Questions regarding this statement should be directed to [info@gmi-mr.com](mailto:info@gmi-mr.com).
+Questions regarding this statement should be directed to [info@gmi-mr.com](https://web.archive.org/web/20050306205327id_/http%3A//www.gmi-mr.com/en/contact.phtml?loc=Privacy%20Policy).
 
 ^^Back to top
 
