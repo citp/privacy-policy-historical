@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osisoft.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604120016id_/http%3A//www.osisoft.com/5_527.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osisoft.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723115615id_/http%3A//www.osisoft.com/5_527.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
