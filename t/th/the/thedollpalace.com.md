@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedollpalace.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205163009id_/http%3A//www.thedollpalace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedollpalace.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619175330id_/http%3A//thedollpalace.com/privacy) for the most accurate reproduction.*
 
 # My Doll Palace The Doll Palace Privacy Statement
 
@@ -19,10 +19,10 @@ If users have questions or concerns regarding this statement, they should contac
 Information Collection and Use
 
 **Information Collection**   
-TheDollPalace.com is the sole owner of the information collected on www.thedollpalace.com. TheDollPalace.com collects information from our users at several different points on our Web site. 
+TheDollPalace.com is the sole owner of the information collected on www.thedollpalace.com. WE DO NOT SHARE ANY USER PERSONAL INFORMATION WITH THIRD PARTIES. We do provide general statistics and demographics for our advertisers; however that information is not related to any particular TDP user profile. TheDollPalace.com collects information from our users at several different points on our Web site. 
 
 **Registration**   
-In order to use some of the features of this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site. 
+In order to use some of the features of this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. It is optional for the user to provide valid demographic information, but encouraged so we can provide a more personalized experience on our site. 
 
 **Order**   
 All current orders are processed with paypal.com. We do not store any information from your order form except your email address. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date) to paypal.com during the order.This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user. 
@@ -33,14 +33,14 @@ Information Use
 We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users.A profile is stored information that we keep on individual users that details their viewing preferences.Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them.We do not share your profile with other third parties. 
 
 **Cookies**   
-A cookie is a piece of data stored on the user’s computer tied to information about the user.Usage of a cookie is in no way linked to any personally identifiable information while on our site.We use both session ID cookies and persistent cookies.For the session ID cookie, once users close the browser, the cookie simply terminates.A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. [(Internet Explorer and Netscape Instructions)](https://web.archive.org/web/20031205163009id_/http://www.thedollpalace.com/privacy/cookies.php)
+A cookie is a piece of data stored on the user’s computer tied to information about the user.Usage of a cookie is in no way linked to any personally identifiable information while on our site.We use both session ID cookies and persistent cookies.For the session ID cookie, once users close the browser, the cookie simply terminates.A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. [(Internet Explorer and Netscape Instructions)](https://web.archive.org/web/20040619175330id_/http://www.thedollpalace.com/privacy/cookies.php)
 
 If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site.For example, the user will not be able to participate in any of our posting sections, contests or monthly drawings that take place. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.See the “Profile” section. 
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
 **Third Party Advertising**   
-The ads appearing on this Web site are delivered to users by Linkshare Network ([ http://www.linkshare.com/](http://www.linkshare.com/)), our Web advertising partner. Information about users’ visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about Linkshare Network please [click here](http://www.linkshare.com/privacy.html)
+The ads appearing on this Web site are delivered to users directly by The Doll Palace. Internal user information is used to serve ads to users on this site, however this information is not shared with any of our advertisers. We provide advertisers only with general click-through banner statistics. 
 
 This privacy statement covers the use of cookies by TheDollPalace.com only and does not cover the use of cookies by any advertisers. 
 
