@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irantalent.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622101954id_/http%3A//www.irantalent.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irantalent.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207111700id_/http%3A//www.irantalent.com/privacy.php) for the most accurate reproduction.*
 
 # Iran Talent Privacy Policy
 
