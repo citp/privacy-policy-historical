@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the emarketer.com privacy policy that was archived on 2001-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010623103144id_/http%3A//emarketer.com/about_us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emarketer.com privacy policy that was archived on 2001-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011218010842id_/http%3A//emarketer.com/about_us/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy</title>
 <!-- BEGIN /home/www.emarketer.com/virtual_html-dev/include/top_row.htm (5 lines) 2000-11-22 16:10 Dean Hannotte -->
-<!-- BEGIN http://www.emarketer.com/include/setup.htm (57 lines) 2001-02-28 16:29 Dean Hannotte -->
+<!-- BEGIN http://www.emarketer.com/include/setup.htm (57 lines) 2001-07-02 13:13 Dean Hannotte -->
 
 <!---------------------------------------------------------------------+
 |                   Load Global eMarketer Libraries                    |
 +---------------------------------------------------------------------->
+<script language="JavaScript" src="/include/esystem_status.js"></script>
 <script language="JavaScript" src="/include/emarketer.js"></script>
 <script language="JavaScript" src="/include/ereports.js"></script>
 <script language="JavaScript" src="/include/etables.js"></script>
@@ -25,8 +26,8 @@
     e_Environment
     (
         'www.emarketer.com',   // HTTP_HOST
-        '209.247.40.105', // REMOTE_ADDR
-        '2260', // REMOTE_PORT
+        '209.247.40.104', // REMOTE_ADDR
+        '2275', // REMOTE_PORT
         'www.emarketer.com', // SERVER_NAME
         '80', // SERVER_PORT
         '(none)'           // TZ
@@ -41,15 +42,15 @@
 +---------------------------------------------------------------------->
 
 
-<body bgcolor="WHITE" link="RED" vlink="RED" alink="RED" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body bgcolor="WHITE" link="#000099" vlink="#000099" alink="#000099" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 <!-- eMarketer provides statistical and demographic data
 about the internet marketplace. Products and services
 include reports, newsletters and discussions. -->
 
 <script language="JavaScript">
-//For some reason, there must be a comment here, in between the e_BodyTag() function
-//and the e_Limesoft() function. Otherwise, the home page doesn't work correctly. -MJ
+//
+//-MJ
 /*--------------------------------------------------------------------*/
 /*                       calling e_Limesoft() function                */
 /*--------------------------------------------------------------------*/
@@ -77,9 +78,9 @@ e_Write("<IMG SRC='/images/one_white_pixel.gif' WIDTH='10' HEIGHT='89'>");
 e_Write("</TD>");
 
 e_Write("<TD>");
-if (e_SubDir[2] == "private") // no ads on the extranet site (/ereports/subscriptions/private/)
+if (e_SubDir[0] == "ereports" && e_SubDir[2] == "private") // no ads on the extranet site (/ereports/subscriptions/private/)
 {
-    e_Write("<IMG SRC='/images/one_white_pixel.gif' WIDTH='468' HEIGHT='60'>");
+    e_Write("<IMG SRC='/images/one_white_pixel.gif' WIDTH='468' HEIGHT='60'><BR>");
 }
 else
 {
@@ -98,12 +99,12 @@ e_Write("<IMG SRC='/images/left_emarketer_logo.gif' WIDTH='150' HEIGHT='51' ALT=
 
 if (e_SectionDir == "newsletters" && e_DefaultPage)
 {
-    e_Write("<IMG SRC='/images/header_bars/default_bar_" + e_SectionGif + "_home.gif' BORDER='0'>");
+    e_Write("<IMG SRC='/images/header_bars/default_bar_" + e_SectionGif + "_home.gif' WIDTH='468' HEIGHT='51' BORDER='0'>");
 }
 else
 {
     e_Write("<IMG SRC='/images/header_bars/default_bar_"
-    + e_SectionGif + ".gif' BORDER='0'>");
+    + e_SectionGif + ".gif' WIDTH='468' HEIGHT='51' BORDER='0'>");
 }
 if (e_SectionDir == "ereports" && e_DefaultPage && !e_SubDir[1])
    {
@@ -151,6 +152,16 @@ e_Write("<TABLE BORDER='0' WIDTH='150' CELLPADDING='0' CELLSPACING='0'>");
         <script language="JavaScript" src="/include/default_menu.js"></script>
         <script language="JavaScript" src="/include/echannels_menu.js"></script>
 
+        <script language="Javascript">
+        if (e_CgiServerName == "secure.e-land.com" && e_SubDir[1] == "estatstore")
+        {
+            e_Write("<P><B>eMarketer accepts:</B><BR>");
+            e_Write("<IMG SRC='/images/estatstore/cc.gif' WIDTH='115' HEIGHT='24' ALT='Credit Cards'><BR>");
+            e_ShowPrivacyNotice();
+            e_ShowOurPromise();
+        }
+
+        </script>
 
     </td>
     <td><img src="/images/one_white_pixel.gif" width="4" height="10"></td>
@@ -189,47 +200,59 @@ e_Write("<TABLE BORDER='0' WIDTH='150' CELLPADDING='0' CELLSPACING='0'>");
 
  <!--content here-->
 
-<p> eMarketer takes the issue of privacy seriously. We let the user decide what information to give us, and explain exactly what is done with it. eMarketer will never sell, distribute, barter or transfer any personally-identifiable information obtained from a user to a third party. <br>
+<p>eMarketer takes the issue of privacy seriously. We let the user decide what information to give us, and explain exactly what is done with it. eMarketer will never sell, distribute, barter or transfer any personally-identifiable information obtained from a user to a third party. 
+
+</p><p>The uniform resource locators (URLs) covered under eMarketer's privacy policy include: <a href="http://www.emarketer.com">www.emarketer.com</a>, <a href="http://www2.emarketer.com">www2.emarketer.com</a>, <a href="http://www3.emarketer.com">www3.emarketer.com</a>, <a href="http://www.estats.com">www.estats.com</a> and <a href="https://secure.e-land.com/bin/estatstore/cart">https://secure.e-land.com/bin/estatstore/cart</a>.
+
+ <br>
 
 </p><h2>Information Gathered</h2>
-<p>eMarketer gathers information about its users in order to offer useful and easily accessible online content while providing privacy protection.<br>
+<p>eMarketer gathers information about its users in order to offer useful and easily accessible online content while providing privacy protection. <br>
 
   <br>
 </p><ol>
 <li><b>Website Visitors and Newsletter Subscribers:</b> <p>
-eMarketer catalogs traffic patterns throughout the site through non-invasive click-through tracking. eMarketer develops summary -- not individual -- reports for our advertisers.  For example, we will report that "12,000 people clicked on advertisement X today and they were in the eStats section of the site."
+eMarketer catalogs traffic patterns throughout the site through non-invasive click-through tracking. eMarketer develops summary -- not individual -- reports for our advertisers. For example, we will report that "12,000 people clicked on advertisement X today and they were in the eStats section of the site." 
 
 </p><p>
 </p></li><li><b>Product Purchasers:</b><p>
-eMarketer sells information products online. At the time of purchase, we require personal, business and financial information, such as name, email, shipping/billing address and credit card number. If you are a repeat customer, you may be asked to update this information. This information is transmitted in 128 bit encryption and we use Secure Socket Layer (SSL) technology to protect your online order. Only our order processing/customer service staff has access to your information. We do not store or access credit card information from our server after your order is processed. 		
+eMarketer sells information products online. At the time of purchase, we require personal, business and financial information, such as name, e-mail address, shipping/billing address, telephone number and credit card number. This information is necessary to process the order and to send the product to the buyer. If you are a repeat customer, you may be asked to update this information. This information is transmitted in 128 bit encryption and we use Secure Socket Layer (SSL) technology to protect your online order. 
+
+</p><p>Only our order processing/customer service staff has access to your information. We do not store or access credit card information from our server after your order is processed. eMarketer allows product purchasers to control the storage of their general contact information. If you would like to access, correct or delete any of your contact information that we have on file, please send an e-mail to <a href="mailto:general@emarketer.com">general@emarketer.com</a>.	
 </p></li></ol>
 
 <h2>Business Relationships</h2>
-<p>eMarketer's website links to other websites. eMarketer is not responsible for
-  the privacy practices or the content of those sites. Advertisers on our site
-  may collect information about you when you view or click on their advertising
-  or content. eMarketer has no control over this data collection. You should contact specific advertisers or content
-  providers directly if you have any questions about their privacy policies. <br>
+<p>eMarketer's website links to other websites. eMarketer is not responsible for the privacy practices or the content of those sites. Advertisers on our site may collect information about you when you view or click on their advertising or content. eMarketer has no control over this data collection. You should contact specific advertisers or content providers directly if you have any questions about their privacy policies. <br>
 
-</p><h2>Cookies </h2>
-<p>Some parts of the eMarketer site use "cookies." A cookie is an element of data that a website sends to your browser, which may then be stored on your computer. The cookies that eMarketer uses do not link to any of the user's personally-identifiable information.
+</p><p>Our privacy policy does not cover all of our affiliates' websites or online services. The following are a list of URLs for the non-covered websites or online services, whose practices will not be covered by our privacy policy: <a href="http://www.strategyweek.com">www.strategyweek.com</a>; <a href="http://www.mckinseyquarterly.com">www.mckinseyquarterly.com</a>; <a href="http://www.eprize.net/">www.eprize.net</a>; <a href="http://www.cybereps.com/MKemarketer.shtml">www.cybereps.com</a>.
+
+</p><h2>Cookies </h2> 
+
+<p>Some parts of the eMarketer site use "cookies." A cookie is an element of data that a website sends to your browser, which may then be stored on your computer. The cookies that eMarketer uses do not contain any of the users' personally-identifiable information.
 
 
-</p><p>If you do not want cookies sent to your computer, you can set your
-  browser to notify you when you receive a cookie. Then you decide whether or
-  not to accept it. If you reject cookies from eMarketer, you will not be able
-  to enter some areas of the site. For more information, see <a href="http://home.netscape.com/products/security/resources/faq/cookies.html">"How
-  To Work With Cookies."</a> <br>
-  </p><h2>Opt-In, Opt-Out Features</h2>
-<p>eMarketer puts control over e-mail communications in the users' hands:</p><blockquote><p></p><li> We provide free e-mail newsletters to those who sign up for them. Newsletter subscribers can easily opt-out at any time. <br>
+</p><p>If you do not want cookies sent to your computer, you can set your browser to notify you when you receive a cookie. Then you decide whether or not to accept it. If you reject cookies from eMarketer, you will not be able to enter some areas of the site. For more information, see <a href="http://home.netscape.com/products/security/resources/faq/cookies.html">"How To Work With Cookies."</a> <br>
 
-        </li><li> Each newsletter has your e-mail address stamped on it with simple instructions on how to unsubscribe that address from our newsletter list.<br>
+</p><h2>Opt-In, Opt-Out Features</h2>
 
-       </li></blockquote>			
+<p>eMarketer puts control over e-mail communications in the users' hands: </p><blockquote>
+
+<p></p><li>We provide free e-mail newsletters to those who sign up for them. We also provide free e-mail updates regarding eMarketer products. These updates are sent only to people who have chosen to receive them, and can be opted-out of at any time. Newsletter subscribers can also be opted-out of at any time. <p>
+
+</p></li><li>Each newsletter has your e-mail address stamped on it with simple instructions on how to unsubscribe that address from our newsletter list. <br>
+
+       </li></blockquote>	
+	   		
+			
  <h2>Contact Information</h2>
-<p>If you would like to update or delete any of your contact information, please send an e-mail to <a href="mailto:general@emarketer.com">general@emarketer.com</a>. 
+<p>If you would like to update or delete any of your contact information, please send an e-mail to <a href="mailto:general@emarketer.com">general@emarketer.com</a>.
 
-</p><p>You can direct any questions or comments about our privacy practices to <a href="mailto:CCenteno@emarketer.com">eMarketer's Website Editor</a>. If eMarketer makes any changes to its privacy policy, those changes will be noted on the eMarketer website. 				
+</p><p>You can direct any questions or comments about our privacy practices to <a href="mailto:CCenteno@emarketer.com">eMarketer's Website Editor</a>. If eMarketer makes any changes to its privacy policy, those changes will be noted on the eMarketer website. Regardless of later updates or changes to our privacy policy, we will never use the information you submit under our current privacy policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
+
+</p><p>By participating in the Council of Better Business Bureau's BBB<i>OnLine</i> Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine.  Further information about this program is available at <a href="http://www.bbbonline.org">www.bbbonline.org</a>.
+
+</p><p>Policy effective date: July 2001.		
+			
 </p><p><a href="#top">Top</a><br>
   <br>
 
@@ -253,7 +276,17 @@ else
 
 <tr><td>
 
-<!-- BEGIN /include/links_at_bottom.htm --> <a href="/about_us/press_room/"><span class="FOOTER1">Press Room</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="http://www.cybereps.com/MKemarketer.shtml"><span class="FOOTER1">Advertise</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/partnerships/"><span class="FOOTER1">Partnerships</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/contact_us/"><span class="FOOTER1">Contact Us</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/"><span class="FOOTER1">About Us</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/privacy/"><span class="FOOTER1">Privacy</span></a><!-- END /include/links_at_bottom.htm
+<!-- BEGIN /include/links_at_bottom.htm --> <a href="/about_us/press_room/"><span class="FOOTER1">Press Room</span></a><img src="/images/one_white_pixel.gif" width="5" height="5">
+
+<script language="Javascript">
+if (e_FnFt != "advertise.html")
+
+   {
+   e_Write("<A HREF='/about_us/advertise.html'><SPAN CLASS='FOOTER1'>Advertise</SPAN></A><IMG SRC='/images/one_white_pixel.gif' WIDTH='5' HEIGHT='5'>");
+   }
+</script>
+
+<a href="/about_us/partnerships/"><span class="FOOTER1">Partnerships</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/contact_us/"><span class="FOOTER1">Contact Us</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/"><span class="FOOTER1">About Us</span></a><img src="/images/one_white_pixel.gif" width="5" height="5"><a href="/about_us/privacy/"><span class="FOOTER1">Privacy</span></a><!-- END /include/links_at_bottom.htm
 -->
 
 
@@ -332,34 +365,52 @@ specifies the dimensions. -->
 
 
 </p><p>
-<!-- BEGIN virtual_html/include/search_box.htm (7 lines) 2000-06-26 11:41 Dean Hannotte -->
+<!-- BEGIN /include/search_box.htm  -->
 
-<script language="JAVASCRIPT">
-if (location.search.indexOf("format=estatdb") != -1) { e_Write(""); }
+<script language="Javascript">
+var format = e_GetParm('format');
+if (format == 'estatdb') { e_Write(""); }
 else { SearchBox(); }
 
 function SearchBox()
 {
-    e_Write("<FORM NAME='SEARCH' METHOD='POST' ACTION='http://www.emarketer.com/bin/AT-emarketersearch.cgi'>");
 
-    e_Write("<IMG SRC='/images/corner_headers/corner_header_search.gif'>");
 
     if (e_HomePage)
     {
-        e_CreateCornerBGImageStart(105, 1);
-        e_TextInput("search", 7, "", 35);
+        if (e_Browser == 'IE')    //Netscape bug...
+        {
+            e_GenerateBoxHeaderVer2("Site Search", 104);
+            e_Write("<TABLE WIDTH='104' BORDER='0' CELLPADDING='0' CELLSPACING='0'>");
+            e_Write("<TR><TD BGCOLOR='#CCCCCC'>");
+            e_Write("<TABLE CELLPADDING='3' CELLSPACING='1'><TR><TD>");
+            e_Write("<FORM NAME='SEARCH' METHOD='POST' ACTION='http://www.emarketer.com/bin/AT-emarketersearch.cgi'>");
+            e_TextInput("search", 7, "", 35);
+            e_Write("<INPUT TYPE='SUBMIT' NAME='GO' VALUE='Go'>");
+            e_Write("<BR><SPAN CLASS='FOOTER2'>For a power search, subscribe to our ");
+            e_Write("<A HREF='" + e_DatabaseHref("/welcome.php") + "'>eStat Database</A> ");
+            e_Write("and get instant access to facts and figures from ");
+            e_Write("hundreds of research sources worldwide.</SPAN>");
+
+            e_Write("</TD></TR></TABLE>");
+            e_Write("</TD></TR>");
+            e_Write("</TABLE>");
+        }
+        else
+        {
+            e_Write("");
+        }
     }
     else
     {
+        e_Write("<FORM NAME='SEARCH' METHOD='POST' ACTION='http://www.emarketer.com/bin/AT-emarketersearch.cgi'>");
+        e_Write("<IMG SRC='/images/corner_headers/corner_header_search.gif' WIDTH='125' HEIGHT='16'>");
         e_CreateCornerBGImageStart(125, 1);
-        e_TextInput("search", 10, "", 35);
+        e_TextInput("search", 9, "", 35);
+        e_Write("<INPUT TYPE='SUBMIT' NAME='GO' VALUE='Go'>");
+        e_CreateCornerEnd();
     }
 
-
-
-
-    e_Write("<INPUT TYPE='SUBMIT' NAME='GO' VALUE='Go'>");
-    e_CreateCornerEnd();
     e_Write("<INPUT TYPE='hidden' NAME='source' VALUE='local' CHECKED>");
     e_Write("<INPUT TYPE='hidden' NAME='backlink' VALUE=''>");
     e_Write("<INPUT TYPE='hidden' NAME='bltext' VALUE=''>");
@@ -368,11 +419,34 @@ function SearchBox()
 }
 
 </script>
-    <!-- END /include/search_box.htm -->
+<!-- END /include/search_box.htm -->
 
+
+<script language="Javascript">
+if (e_SectionDir == "about_us")
+{
+    e_CreateCornerBGImageStart(125,1);
+    e_Write("<A HREF='" + e_NonSecureHref("/about_us/emar_whitepaper8.pdf") + "' TARGET='_blank'><IMG src='/images/emarketer_difference_cover.gif' WIDTH='115' HEIGHT='145' border='0'>");
+    e_Write("<P><SPAN CLASS='FOOTER2'><A HREF='" + e_NonSecureHref("/about_us/emar_whitepaper8.pdf") + "' TARGET='_blank'><B>The eMarketer Difference</B></A> - White Paper in pdf Format</SPAN>");
+    e_CreateCornerEnd();
+}
+
+if (e_SectionDir == "ereports"
+||  e_SectionDir == "about_us"
+||  e_SectionDir == "newsletters")
+{
+    e_Write("<BR>");
+    e_ShowPrivacyNotice();
+}
+
+
+</script>
 
 
 <!-- BEGIN /include/middle_row_right_cell_end.htm -->
+
+
+
 
 
 
