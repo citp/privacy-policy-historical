@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204220911id_/http%3A//www.explocity.com/privacypolicy.asp%3Fcity%3DBLR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623081456id_/http%3A//www.explocity.com/privacypolicy.asp%3Fcity%3DBLR) for the most accurate reproduction.*
 
 # Explocity.com. Bangalore. The city as it happens. Privacy policy.
 
-| |  **
+| |  Where am I? [Bangalore](https://web.archive.org/Bangalore.asp?city=BLR)  Privacy Policy  
+**
 
-Privacy Policy
+### Privacy Policy
 
 **
 
