@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strengthsquest.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607021458id_/http%3A//www.strengthsquest.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strengthsquest.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010070447id_/http%3A//www.strengthsquest.com/privacy.asp) for the most accurate reproduction.*
 
 # STRENGTHSQUEST: Privacy Policy
 
