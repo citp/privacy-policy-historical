@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204014100id_/http%3A//readersdigest.com/custserv/privacy/PrvIndex.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417040821id_/http%3A//readersdigest.com/custserv/privacy/PrvIndex.asp) for the most accurate reproduction.*
 
 # Reader's Digest - United States
 
@@ -22,7 +22,7 @@ Reader's Digest will not share e-mail addresses we collect through our web sites
 Reader’s Digest may provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis, but these statistics will include no personally identifying information.
 
 Opting Out  
-Receiving e-mail messages from Reader’s Digest, our affiliates and partners, is optional. You may choose not to receive e-mail, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive e-mail or wish to correct information you provided to Reader’s Digest, please click here to go to the [Privacy Options Form](https://web.archive.org/web/20001204014100id_/http%3A//readersdigest.com/custserv/privacy/PrvyOptn.asp) in our Online Customer Service area, or send an e-mail message to "[removeme.rdw@readersdigest.com](mailto:removeme.rdw@readersdigest.com)." 
+Receiving e-mail messages from Reader’s Digest, our affiliates and partners, is optional. You may choose not to receive e-mail, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive e-mail or wish to correct information you provided to Reader’s Digest, please click here to go to the [Privacy Options Form](https://web.archive.org/web/20010417040821id_/http%3A//readersdigest.com/custserv/privacy/PrvyOptn.asp) in our Online Customer Service area, or send an e-mail message to "[removeme.rdw@readersdigest.com](mailto:removeme.rdw@readersdigest.com)." 
 
 Reader’s Digest will use commercially reasonable efforts to delete records from our database when we receive requests to do so; however because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance.
 
@@ -83,7 +83,7 @@ Reader’s Digest uses credit card numbers submitted to us through our web sites
 Acceptance of Privacy Policy Terms and Conditions  
 By using this site, you signify your agreement to the terms and conditions of the Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at anytime. Please check this page periodically for any changes. Your continued use of Reader’s Digest on-line sites following the posting of any changes to these terms shall mean that you have accepted those changes.
 
-Legal Notice and Terms of Use  
-Please also read Reader’s Digest "[Legal Notice and Terms of Use](https://web.archive.org/web/20001204014100id_/http%3A//readersdigest.com/custserv/legal.asp)" to understand the additional terms and conditions which apply to use of our sites.
+Legal Terms of Use  
+Please also read Reader’s Digest "[Legal Terms of Use](https://web.archive.org/web/20010417040821id_/http%3A//readersdigest.com/custserv/legal.asp)" to understand the additional terms and conditions which apply to use of our sites.
 
 * * *
