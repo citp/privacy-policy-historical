@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203021749id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401123839id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
 
 # LinesMaker.com: Get your lines and make your bet.
 
@@ -42,7 +42,7 @@ When you access your account information, it is protected by our highly secure e
 **Corrections/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Email: [support@linesmaker.com](mailto:support@linesmaker.com)
+  1. Email: [ support@linesmaker.com](mailto:support@linesmaker.com)
   2. Call the following toll free number: 800-996-5152
 
 
@@ -54,5 +54,5 @@ If we decide to change our privacy policy, we will post those changes here so th
 Protecting your privacy is very important to us. We use the information we collect on the site to facilitate the exchange of  funds and enhance the quality of our product. We do not sell, trade, rent or otherwise disclose your personal information to others.
 
 **Contacting LinesMaker.com**  
-If you have any questions about this privacy statement, our practices or your dealings with us, contact: [support@linesmaker.com  
+If you have any questions about this privacy statement, our practices or your dealings with us, contact: [ support@linesmaker.com  
 ](mailto:support@linesmaker.com)
