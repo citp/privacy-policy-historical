@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2004-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040206091436id_/http%3A//www.adairs.com.au/static.asp%3Fpage%3DPolicies%26section%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803013859id_/http%3A//www.adairs.com.au/static.asp%3Fpage%3DPolicies%26section%3DPrivacyStatement) for the most accurate reproduction.*
 
 # Adairs Online / Policies / Privacy Statement
 
