@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603075242id_/http%3A//www.salford.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009154302id_/http%3A//www.salford.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | University of Salford - A Greater Manchester University
 
