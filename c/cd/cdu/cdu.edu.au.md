@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603035808id_/http%3A//www.cdu.edu.au/informationact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206204008id_/http%3A//www.cdu.edu.au/informationact) for the most accurate reproduction.*
 
-# Information Act
+# Charles Darwin University
 
 The Northern Territory Information Act (the Act) was passed by the Northern Territory Legislative Assembly on 8 October 2002. The Act commences on 1 July 2003 and will effect the way that Northern Territory public sector organisations collect, use and store University and personal information. Under the Act and for the first time in Australia, the related issues of freedom of information (FOI), privacy and records and archives management are brought together. 
 
