@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k-international.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201036id_/http%3A//k-international.com/en_comp_privacy1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k-international.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008065432id_/http%3A//www.k-international.com/en_comp_privacy1.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,4 +12,4 @@ Personal information is information such as your name, birth date, e-mail or mai
 
 Contact information such as name and e-mail address is used to provide you with the services that you have chosen on this website including responding to your comments and requests for services. We may also use your personal information to send you marketing or promotional materials including e-mails although you will have the opportunity 
 
-[continue](https://web.archive.org/web/20030603201036id_/http%3A//k-international.com/en_comp_privacy2.htm)
+[continue](https://web.archive.org/web/20031008065432id_/http%3A//www.k-international.com/en_comp_privacy2.htm)
