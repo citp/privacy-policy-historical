@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205082107id_/http%3A//www.isoc.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202065657id_/http%3A//www.isoc.org/help/privacy) for the most accurate reproduction.*
 
 # ISOC Search/Site Map/Help: Privacy Statement
 
@@ -27,7 +27,7 @@ In keeping with the goals and objectives of the organization, the Internet Socie
 
 As is standard practice for most web sites, certain visitor characteristics are reflected in our web server logs (e.g. operating system, browser version, and Internet Protocol (IP) address). We make no attempt to link them with the individual visitors to the site. 
 
-In the case of online balloting for Internet Society elections, Members are asked to supply numbers corresponding to those on their printed ballots to ensure that only a single vote is registered. We make no attempt to link any information collected to individuals nor do we maintain any association or record between ballot identification numbers and members participating in online voting.
+In the case of online balloting for Internet Society elections, Members are asked to supply numbers corresponding to those on their printed ballots to ensure that only a single vote is registered. The details of the actual votes are maintained only during the election process solely to allow proper verification and audit of the election. 
 
 On its web site, the Internet Society gives visitors the option of providing certain personally identifiable information for purposes such as joining the organization, renewing membership, participating in discussion groups, submitting inquiries and comments, or registering for conferences. This information includes name, postal address, email address, and other pertinent data.
 
@@ -47,7 +47,9 @@ Any further email addresses, phone numbers, or other contact information submitt
 
 **MEMBERSHIP DATABASE**
 
-Internet Society Members may receive periodic email or postal mailings from us with information about the Society, upcoming events, or issues related to the Internet. We offer specific opt-in and opt-out options so if you do not wish to receive such mailings, please inform the Internet Society by email, phone, or postal mail directed to the contact information provided above. Members may also adjust these settings or change their information through the user profile update section of the ISOC Members-Only site at [http://members.isoc.org](http://members.isoc.org/), by email to [membership@isoc.org](mailto:membership@isoc.org), or by contacting the Internet Society at the phone or fax numbers listed above.
+Internet Society Members may receive periodic email or postal mailings from us with information about the Society, upcoming events, or issues related to the Internet. We offer specific opt-in and opt-out options so if you do not wish to receive such mailings, please inform the Internet Society by email, phone, or postal mail directed to the contact information provided above. Members may also adjust these settings or change their information 
+
+by email to [membership@isoc.org](mailto:membership@isoc.org), or by contacting the Internet Society at the phone or fax numbers listed above.
 
 Members have the option to receive mailings of potential interest that are made by third parties on our behalf and only with our approval. These mailings must be requested by checking the applicable box at the time of membership or renewal, or through the manner described in the above paragraph. If this option is not selected, you will not receive these offerings.
 
@@ -71,7 +73,7 @@ If you have any questions regarding our privacy policy or you feel that this sit
 
 **CONSENT AND CHANGES TO THIS POLICY**
 
-Subject to the above provisions, by using our site, you consent to the collection and use of information by us in accordance with this policy. If we decide to change our privacy policy, we will post those changes on this page. Any changes to this privacy statement will also be announced on the Internet Society home page at <http://www.isoc.org/>.
+Subject to the above provisions, by using our site, you consent to the collection and use of information by us in accordance with this policy. If we decide to change our privacy policy, we will post those changes on this page. 
 
-  
+Any changes to this privacy statement will also be announced on the Internet Society home page at http://www.isoc.org/.  
 
