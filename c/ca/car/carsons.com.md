@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsons.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405093921id_/http%3A//carsons.com/who/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsons.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020205436id_/http%3A//carsons.com/who/privacy.html) for the most accurate reproduction.*
 
 # Carson Pirie Scott | Privacy Statement
 
