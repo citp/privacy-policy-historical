@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2002-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020718111138id_/http%3A//www.dietfacts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603234502id_/http%3A//dietfacts.com/privacy.asp) for the most accurate reproduction.*
 
-# DietFacts.com - Weight loss programs, free diets, and brand name nutrition database
+# Brand name nutrition database, free diets, weight loss programs - DietFacts.com
 
 ### Privacy Policy
 
@@ -14,20 +14,32 @@ This site contains links to other sites. This site is not responsible for the pr
 
 | 
 
-**DietFacts Newsletter**  
-Subscribe - Email Address:  
-  
+[](http://www.healthlinks.net/cgi-bin/directory/hyperseek.cgi?Range=Any&Format=Standard&Terms=nutrition+facts)
 
-
-[Suggest a poll](https://web.archive.org/web/20020718111138id_/http%3A//www.dietfacts.com/webpoll.asp?suggest=y)  
-[Discuss this subject](https://web.archive.org/web/20020718111138id_/http%3A//www.dietfacts.com/forum.asp)
-
-[Add a webpoll to your site](https://web.archive.org/web/20020718111138id_/http%3A//www.dietfacts.com/webpoll.asp)
-
-Visit Our Sponsors:
-
+Visit Our Sponsors:  
 [ ](http://www.qksrv.net/click-871258-1500116)
+
+[ ](http://www.qksrv.net/click-871258-9836173)
+
+[ ](http://www.qksrv.net/click-871258-38801)
 
 [ ](http://www.qksrv.net/click-871258-5029329)
 
-[ ](http://www.qksrv.net/click-871258-38801)
+Visit Our Sister Sites:
+
+[**AnimalSites.com**](http://www.animalsites.com/)   
+For animal lovers, pet owners, and breeders. Read pet care tips and discuss animal welfare issues.
+
+[**DojoWeb.com**](http://www.dojoweb.com/)
+
+Get in shape now with TaeBO, Karate, Judo, Taekwondo, Boxing, Sumo, Kick-boxing, Wrestling and more...
+
+[**JokePro.com**](http://www.jokepro.com/)
+
+Hit your funny bone! Read the latest jokes... and submit your own! Also find gag gifts, magic tricks, costumes, and weird news stories. [**SecludedVacations.com**](http://www.secludedvacations.com/)   
+Bed & Breakfast, Vacation Getaways, EcoTourism, Hiking/Camping, Safari, Rafting/Canoeing, Bird Watching, Cruises...
+
+[**SpiritualMinds.com**](http://www.spiritualminds.com/)
+
+Find Enlightenment! Yoga, candles, Zen Buddhism, Reiki, Aromatherapy, Accupuncture, Feng Shui, Psychics, Astrology...   
+
