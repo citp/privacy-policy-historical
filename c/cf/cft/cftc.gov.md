@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212140057id_/http%3A//www.cftc.gov/cftc/cftcprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608231523id_/http%3A//www.cftc.gov/cftc/cftcprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for the CFTC Website
 
@@ -19,3 +19,7 @@ We use the information collected to measure the number of visitors to the differ
 We do not enable "cookies." A "cookie" is a text file placed on your hard drive by a website that can be used to monitor your use of the site. 
 
 If you complete a form or send a comment or e-mail, you may be choosing to send us information which personally identifies you. This information is used generally to respond to your request but may have other uses _**which are identified on each form.**_ For example, if you send us a comment letter on a proposed regulation, that letter becomes part of the comment file and is available to the public. The comments are used to help CFTC and other members of the public evaluate proposed Commission actions. Other forms which you may choose to submit, such as Freedom of Information Act requests or requests for correction of information, contain information which is used by CFTC employees to track and respond to your request. Information provided on the enforcement questionnaire may be shared with other law enforcement agencies, if appropriate. 
+
+If you have questions about CFTC’s privacy policy and information practices you can e-mail [webmaster@cftc.gov](mailto:webmaster@cftc.gov). 
+
+Information on the Commission's systems of records maintained under the Privacy Act can be found [_under Section D of the CFTC Federal Register Notices._](https://web.archive.org/foia/fedreg99/foiprivacy99.htm)
