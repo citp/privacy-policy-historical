@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rvtrader.com privacy policy that was archived on 2003-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030618015350id_/http%3A//www.rvtrader.com/cgi-bin/classifieds/classifieds.cgi%3Fdb%3Da10_forsale%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rvtrader.com privacy policy that was archived on 2003-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031208184828id_/http%3A//www.rvtrader.com/cgi-bin/classifieds/classifieds.cgi%3Fdb%3Da10_forsale%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.-->
 
 <html><head>
 <!-- #BeginEditable "doctitle" --> 
@@ -21,8 +21,40 @@ if (document.images) {
           yeer      = new Date();
         }
 //-->
+
+   function IsEmpty() {
+      temp_string = trim(document.form1.keywords.value);
+      
+      if ((document.form1.keywords.value.length==0) || (temp_string.length == 0)) {
+         alert ("You must type in a key word.");
+         return false;
+      }
+   }	
+
+   function trim(inputString) {
+      // Removes leading and trailing spaces from the passed string. Also removes
+      // consecutive spaces and replaces it with one space. If something besides
+      // a string is passed in (null, custom object, etc.) then return the input.
+      if (typeof inputString != "string") { return inputString; }
+      var retValue = inputString;
+      var ch = retValue.substring(0, 1);
+      while (ch == " ") { // Check for spaces at the beginning of the string
+         retValue = retValue.substring(1, retValue.length);
+         ch = retValue.substring(0, 1);
+      }
+      ch = retValue.substring(retValue.length-1, retValue.length);
+      while (ch == " ") { // Check for spaces at the end of the string
+         retValue = retValue.substring(0, retValue.length-1);
+         ch = retValue.substring(retValue.length-1, retValue.length);
+      }
+      while (retValue.indexOf("  ") != -1) { // Note that there are two spaces in the string - look for multiple spaces within the string
+         retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length); // Again, there are two spaces in each of the strings
+      }
+      return retValue; // Return the trimmed string back to the user
+   } // Ends the "trim" function
+
 </script>
-<link rel="stylesheet" href="https://www.rvtrader.com/rvtrader.css" type="text/css">
+<link rel="stylesheet" href="http://www.rvtrader.com/rvtrader.css" type="text/css">
 <style type="text/css">
 <!--
 -->
@@ -39,13 +71,8 @@ if (document.images) {
           <td background="http://www.rvtrader.com/images/t-mid-head.gif" height="84"><font color="#FF0000" size="5" face="Geneva, Arial, Helvetica, san-serif"><strong><img src="http://www.rvtrader.com/images/logo.gif" width="330" height="84"></strong></font></td>
           <td background="http://www.rvtrader.com/images/t-mid-head.gif" valign="bottom" bgcolor="#FFFFFF"> 
             <div align="center"> 
-<!-- Begin Banner Code --> 
-  <iframe src="https://www.rvtrader.com/cgi-bin/banners/ads.pl?iframe;zone=A" width="418" height="60" marginwidth="0" marginheight="0" space="0" vspace="0" frameborder="0" scrolling="NO">
-    <SCRIPT LANGUAGE="JavaScript" SRC="https://www.rvtrader.com/cgi-bin/banners/ads.pl?jscript;zone=A"></SCRIPT>
-    <NOSCRIPT><A HREF="https://www.rvtrader.com/cgi-bin/banners/ads.pl?banner=NonSSI;page=01;zone=A" TARGET="_blank"><IMG SRC="https://www.rvtrader.com/cgi-bin/banners/ads.pl?page=01;zone=A" WIDTH=418 HEIGHT=60 ALT="Click Here!" BORDER=0></A></NOSCRIPT>
-  </iframe>
-<!-- End Banner Code -->
-            </div></td>
+            <a href="mailto:safari@voyagerrv.ca" target="_blank"><img src="http://www.rvtrader.com/images/banners/top-1.gif" width="418" height="60" border="0">
+            </a></div></td>
         </tr>
         <tr> 
           <td height="24" colspan="2" nowrap="" background="http://www.rvtrader.com/images/t-lwr-head.gif"> 
@@ -85,7 +112,7 @@ if (document.images) {
         <tbody><tr> 
           <td width="129" valign="top" background="http://www.rvtrader.com/images/n-backing.gif"> 
           <div align="center"><font face="Arial" size="1"><br></font></div>
-            <form method="post" action="http://www.rvtrader.com/cgi-bin/classifieds/classifieds.cgi">
+            <form name="form1" method="post" action="http://www.rvtrader.com/cgi-bin/classifieds/classifieds.cgi" onsubmit="return(IsEmpty());">
               <table border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td><input type="hidden" name="boolean" value="all terms"> 
@@ -97,7 +124,7 @@ if (document.images) {
                     <span class="bottommenu">Keyword SEARCH:</span><br>
                     <input name="keywords" type="text" size="9"> 
                     <input name="Submit" type="image" value="Search for Matching Ads" src="http://www.rvtrader.com/images/go-button.gif">
-					<a class="menu" href="http://www.rvtrader.com/cgi-bin/classifieds/classifieds.cgi?db=a10_forsale&amp;website=&amp;language=&amp;session_key=&amp;power_search_button=on"><u>Advanced Search</u></a></td>
+		      <span class="menu">Search by </span><a class="menu" href="http://www.rvtrader.com/cgi-bin/classifieds/classifieds.cgi?db=a10_forsale&amp;website=&amp;language=&amp;session_key=&amp;power_search_button=on"><u>Make/Model/Price<br>/Length/State</u></a></td>
                 </tr>
               </tbody></table>
             </form>
@@ -110,8 +137,7 @@ if (document.images) {
               For Sale</a><br>
               <a href="http://www.rvtrader.com/cgi-bin/classifieds/classifieds.cgi?db=a30_wanted&amp;search_and_display_db_button=on&amp;results_format=headlines&amp;query=browse" class="menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RVs 
               Wanted</a><br>
-              <a href="http://rvtrader.com/cgi-bin/classifieds/classifieds.cgi?db=b10_dealers&amp;website=&amp;language=&amp;session_key=" class="menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dealer 
-              Mall</a><br>
+              <a href="http://rvtrader.com/cgi-bin/classifieds/classifieds.cgi?db=b10_dealers&amp;website=&amp;language=&amp;session_key=" class="menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find a Dealer</a><br>
               <a href="http://rvtrader.com/cgi-bin/classifieds/classifieds.cgi?db=a20_parts&amp;website=&amp;language=&amp;session_key=&amp;search_and_display_db_button=on&amp;results_format=headlines&amp;query=browse" class="menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RV 
               Parts</a><br>
               <img src="http://www.rvtrader.com/images/n-usertools.gif" alt="User Tools" width="129" height="19" vspace="5"><br>
@@ -141,6 +167,7 @@ if (document.images) {
             <p align="center"><br><img src="http://www.rvtrader.com/images/banners/gorving.gif" width="110" height="55"></p>
             <p align="center"><img src="http://www.rvtrader.com/images/banners/rvda-logo.gif" width="100" height="72"></p>
             <p align="center"><img src="http://www.rvtrader.com/images/banners/rvia-logo.gif" width="100" height="38"></p>
+            <p align="center"><script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script></p>
          
               <!-- Main Toolbar End -->
             </td>
@@ -282,10 +309,71 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
                   <td>
   <div align="center">
 <!-- Begin Banner Code -->
-  <iframe src="https://www.rvtrader.com/cgi-bin/banners/ads.pl?iframe;zone=B" width="120" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="NO">
-    <SCRIPT LANGUAGE="JavaScript" SRC="https://www.rvtrader.com/cgi-bin/banners/ads.pl?jscript;zone=B">  </SCRIPT>
-    <NOSCRIPT><A HREF="https://www.rvtrader.com/cgi-bin/banners/ads.pl?banner=NonSSI;page=01;zone=B" TARGET="_blank"><IMG SRC="https://www.rvtrader.com/cgi-bin/banners/ads.pl?page=01;zone=B" WIDTH=120 HEIGHT=60 ALT="Click Here!" BORDER=0></A></NOSCRIPT>
-  </iframe>
+<script language="JavaScript">
+<!-- Begin
+var how_many_ads = 6;
+var now = new Date()
+var sec = now.getSeconds()
+var ad = sec % how_many_ads;
+ad +=1;
+var url = "";
+var alt = "";
+var width = "";
+var height = "";
+var banner = "";
+var txt = "";
+if (ad==1) {
+url="http://www.voyagerrv.ca";
+alt="Click Here!";
+banner="http://www.rvtrader.com/images/banners/right-banner1.gif";
+width="120";
+height="60";
+}
+if (ad==2) {
+url="http://www.voyagerrv.ca";
+alt="Click Here!";
+banner="http://www.rvtrader.com/images/banners/right-banner4.gif";
+width="120";
+height="60";
+}
+if (ad==3) {
+url="http://www.voyagerrv.ca";
+alt="Click Here!";
+banner="http://www.rvtrader.com/images/banners/right-banner5.gif";
+width="120";
+height="60";
+}
+if (ad==4) {
+url="http://www.voyagerrv.ca";
+alt="Click Here!";
+banner="http://www.rvtrader.com/images/banners/NL_1.gif";
+width="120";
+height="60";
+}
+if (ad==5) {
+url="http://www.voyagerrv.ca";
+alt="Click Here!";
+banner="http://www.rvtrader.com/images/banners/NL_2.gif";
+width="120";
+height="60";
+}
+if (ad==6) {
+url="http://www.interstaterv.com/";
+alt="Click Here!";
+banner="http://www.rvtrader.com/images/banners/right-banner2.gif";
+width="120";
+height="60";
+}
+
+document.write('<center>');
+document.write('<a href=\"' + url + '\" target=\"_blank\">');
+document.write('<img src=\"' + banner + '\" width=')
+document.write(width + ' height=' + height + ' ');
+document.write('alt=\"' + alt + '\" border=0><br>');
+document.write('<small>' + txt + '</small></a>');
+document.write('</center>');
+// End -->
+</script><center><a href="http://www.voyagerrv.ca" target="_blank"><img src="http://www.rvtrader.com/images/banners/right-banner5.gif" width="120" height="60" alt="Click Here!" border="0"><br><small></small></a></center>
 <!-- End Banner Code -->
   </div></td>
                 </tr>
@@ -301,7 +389,7 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
                       Magazines</div></td>
                 </tr>
                 <tr> 
-                  <td><div align="center"><a href="http://www.rvcompanion.com" target="_blank"><img src="http://www.rvtrader.com/images/banners/rv-comp.gif" width="120" height="162" border="0"></a></div></td>
+                  <td><div align="center"><a href="http://www.rvcompanion.com" target="_blank"><img src="http://www.rvtrader.com/images/banners/rv-comp-2.gif" width="120" height="162" border="0"></a></div></td>
                 </tr>
                 <tr> 
                   <td bgcolor="#000000" class="yellowtext"><div align="center">RV 
@@ -323,10 +411,12 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
                   <td bgcolor="#000000" class="yellowtext"><div align="center">Feedback</div></td>
                 </tr>
                 <tr>
-                  <td class="mainpage"><div align="center">
+                  <td class="mainpage" align="center">
                      <a href="http://www.rvtrader.com/quicksurvey.htm">
                         <img src="http://www.rvtrader.com/images/banners/survey.jpg" width="120" height="60" border="0">
-                     </a></div></td>
+                     </a><br>
+                     <a href="http://www.rvtrader.com/testimonials.htm"><img src="http://www.rvtrader.com/images/banners/ravereviews.jpg" width="120" height="60" border="0"></a>
+                  </td>
                 </tr>                
               </tbody></table>
             </div></td>
