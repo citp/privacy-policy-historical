@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215090404id_/http%3A//www.teenink.com/About/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305192429id_/http%3A//www.teenink.com/About/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Teen Ink: A Magazine Written by Teens for Teens
 
-[](http://teenink.com/) [](http://teenink.com/Submissions/) [](http://teenink.com/Subscribe/) [](http://teenink.com/Sample/) [](http://teenink.com/ubbcgi/Ultimate.cgi?action=intro) [](http://teenink.com/Friend/) [](http://teenink.com/Contests/) [](http://teenink.com/Current/) [](http://teenink.com/TeenInkBook/) [](http://teenink.com/Teacher/) [](http://teenink.com/Resources/) [](http://teenink.com/Directory/) [](http://teenink.com/Links/) [](http://teenink.com/Summer/) [](http://teenink.com/About/) [](http://teenink.com/About/Contact.html) |  |    
+[](http://teenink.com/) [](http://teenink.com/Submissions/) [](http://teenink.com/Subscribe/) [](http://teenink.com/Sample/) [](http://teenink.com/ubbcgi/Ultimate.cgi?action=intro) [](http://teenink.com/Friend/) [](http://teenink.com/Contests/) [](http://teenink.com/Current/)
+
+[](http://teenink.com/Directory/) [](http://teenink.com/Summer/) [](http://teenink.com/Links/) [](http://teenink.com/Resources/) [](http://teenink.com/Teacher/) [](http://teenink.com/About/) [](http://teenink.com/About/Contact.html)
+
+[](http://teenink.com/TeenInkBook/) [](http://teenink.com/Summer/LondonSummer.html) [](http://teenink.com/Interviews/) [](http://teenink.com/About/About/SubscribSchool.html)
+
+|  |    
 **Privacy Policy**  
   
 At _Teen Ink_ , we respect your privacy. We do collect information from you, but it is _Teen Ink's_ policy and priority to ensure that all personal information remains private and secure. **1\. General**
