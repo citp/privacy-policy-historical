@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the the-nextlevel.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616145505id_/http%3A//the-nextlevel.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-nextlevel.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216184724id_/http%3A//the-nextlevel.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # TNL - Privacy Policy
+
+**Privacy Policy**
+
+Registering  
+Tracker Data / Stats  
+Cookies  
+Third Parties  
+
+
+* * *
 
   
 ****
@@ -16,7 +26,7 @@ Any personal information which is recorded via TNL Forums is only requested so t
 
 **Tracker Data / Stats:**
 
-TNL utilized an tracker under the service provision of Extreme Tracker which is located on our index homepage. The data collected is so that we can obtain information as to where our visitors are referred, and above all to inform us of the frequency of our daily traffic. However, in respects to the personal information such as individual names, email addresses, etc. are not tracked through Extreme Tracker.
+The Next Level uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm)
 
 * * *
 
