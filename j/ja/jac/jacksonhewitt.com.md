@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonhewitt.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171534id_/http%3A//jacksonhewitt.com/about_privacy.asp%3FurlSection%3Dabout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonhewitt.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204131425id_/http%3A//www.jacksonhewitt.com/about_privacy.asp%3FurlSection%3Dabout) for the most accurate reproduction.*
 
 # Jackson Hewitt Tax Service
 
