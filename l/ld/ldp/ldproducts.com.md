@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331160302id_/http%3A//www.ldproducts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205104850id_/http%3A//ldproducts.com/privacy.html) for the most accurate reproduction.*
 
 # LD Products - Privacy statement
 
@@ -72,3 +72,24 @@ To protect your privacy and security, we will also take reasonable steps to veri
     
 
 Should you have other questions or concerns about these privacy policies, please call us at [888-321-2552] or send us an email.
+
+* * *
+
+| 
+
+Phone: 888-321-2552   
+Fax: 562-904-4050
+
+| 
+
+**LD Products**  
+P.O. Box 2549  
+Downey, CA 90242
+
+| 
+
+Any actual, proclaimed, or inferred trademarks mentioned are the property of their respective owners.  LD Products is not endorsed or related to any of the named companies.  
+  
+---|---|---  
+  
+ 
