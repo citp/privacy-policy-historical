@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406152822id_/http%3A//www.printplanet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024154906id_/http%3A//printplanet.com/privacy.html) for the most accurate reproduction.*
 
-# PrintPlanet.com | Privacy Policy
+# PrintPlanet.com
 
   
-[](https://web.archive.org/web/20010406152822id_/http%3A//www.printplanet.com/index.html)[](https://web.archive.org/web/20010406152822id_/http%3A//www.printplanet.com/index.html)  
+[](https://web.archive.org/web/20011024154906id_/http%3A//printplanet.com/index.html)  
   
-[  
-](http://www.fontalicious.com/)[](http://www.dax-it.com/)[  
-](http://www.fontalicious.com/)[](http://www.apc-ny.org/)   
-[](http://www.dax-it.com/)[  
-](http://www.dax-it.com/)  
   
   
   
 |    
-|    
-**PrintPlanet.com Privacy Policy**
+|  **  
+PrintPlanet.com Privacy Policy**
 
 PrintPlanet.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: PrintPlanet.com.
 
@@ -51,24 +46,22 @@ If you have any questions about this privacy statement, the practices of this si
 Web sites may use what we call "cookies" to store member names and passwords. Cookies may allow us to both store and retrieve login information through a user's browser. Cookies, by themselves, cannot be used to find out the identity of any user. PrintPlanet.com will only store information provided voluntarily, but this information is not personally identifiable. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites.If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept. You do not need to have cookies turned on to use PrintPlanet.com at this time, but that may change without notice in the future.
 
 |    
-| 
+|  
 
-**[Help Desk](https://web.archive.org/web/20010406152822id_/http%3A//www.printplanet.com/help/index.html)**  
+**[ Help Desk](https://web.archive.org/web/20011024154906id_/http%3A//printplanet.com/help/index.html)**  
 If you are having problems with your PrintPlanet.com membership, here is where you can get the issues solved.
 
-**[eCommunities](https://web.archive.org/web/20010406152822id_/http%3A//www.printplanet.com/ecomm.html)**  
+**[ eCommunities](https://web.archive.org/web/20011024154906id_/http%3A//printplanet.com/ecomm.html)**  
 Browse more specific information about each of our eCommunities.
 
-**[Register](https://web.archive.org/web/20010406152822id_/http%3A//www.printplanet.com/register/index.html)**  
+**[ Register](https://web.archive.org/web/20011024154906id_/http%3A//printplanet.com/register/index.html)**  
 Ready to join? Here is where you can submit your application.
 
-**[Privacy](https://web.archive.org/web/20010406152822id_/http%3A//www.printplanet.com/privacy.html)**  
+**[ Privacy](https://web.archive.org/web/20011024154906id_/http%3A//printplanet.com/privacy.html)**  
 PrintPlanet.com is very concerned about protecting the privacy of our members. 
 
-**[Get on with it.](http://www.dax-it.com/)**  
-PrintPlanet.com is brought to you by [Digital Art Exchange, Inc.](http://www.dax-it.com/)[DAX], the first managed Internet and application service provider for the graphic communications industry. DAX is the acknowledged leader in providing open digital workflow solutions. Find out more about us and what we do by visiting our web site. 
-
-[](http://www.dax-it.com/)
+**[ Powered by Printable](http://www.printable.com/)**  
+PrintPlanet.com is brought to you by  [Printable Technologies, Inc.](http://www.printable.com/), As the printer’s e-business team, Printable brings the best of e-business to your present business model, increasing your competitive position in your market today
 
 |    
 
