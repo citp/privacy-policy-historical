@@ -1,11 +1,154 @@
-<!--The following is the downloaded HTML source of the astronomy.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603151131id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astronomy.com privacy policy that was archived on 2002-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602144231id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Astronomy.com</title>
+<html><head><script type="text/javascript" language="JavaScript">
+	<!--
+	_version=10;
+	//-->
+	</script>
+
+	<script type="text/javascript" language="JavaScript1.1">
+	<!--
+	_version=11;
+	//-->
+	</script>
+
+	<script type="text/javascript" language="JavaScript">
+	<!--
+
+		if (navigator.userAgent.indexOf('Mozilla/3') != -1){
+			_version=10;
+		}
+
+		// ##### KPC ADSERVER CODE #####
+
+		// Ad Server script for zone implmentation
+		// Mod 20020304 (drv)
+
+		// use the following to enable/disable serving ads on the site
+		var ADserverstatus = 1;
+
+		// initialize the zone/position array
+		arrayAdZones = new Array(4);
+
+		// ad code variables
+		var thispage = '';
+		var ADserver = 'http://ads.kalmbach.com/scripts/asy/';
+		// var thissite = 'www.astronomy.com/';
+		// var sitepage = thissite + thispage;
+		var RN = new String (Math.random());
+		var RNS = RN.substring (2, 11);
+		var wrdScript = 'script'
+
+		// ad insertion function
+		function DisplayAds (affiliate,zoneid,width,height,bannerid,clientid,wtext,name,zoneonly) {
+
+			// ADSERVER STATUS
+			// Check server status variable [0:not ready;1:ready]
+			if (ADserverstatus!=1) {return;}
+
+			// ZONEID TEST
+			// Check to see if there is a valid zoneid, otherwise don't execute the script.
+			// Note: Astronomy.com is restricted to zone-only 03/05/2002
+			if (isNaN(zoneid)==true) {return;}
+			if (zoneid==0) {return;}
+
+			// AFFILIATE TEST
+			if (isNaN(affiliate)==true) {affiliate=1;} // set it to default of 1
+
+			// AD POSITION
+			// Check for thispage variable and set pos_name variable
+			if (thispage.length>1) {
+				pos_name = thispage + '@' + name;
+			} else {
+				pos_name = 'default';
+			}
+
+			// DIMENSIONS
+			// Check for Banner Dimensions (width and height)
+			if (isNaN(width)==true) {
+				ADdimensions = '';
+			} else {
+				(isNaN(height))?ADdimensions='width:'+width:ADdimensions=width+'x'+height;
+			}
+
+			// ZONES
+			// Check for ZoneID
+			if (isNaN(zoneid)==true) {
+				ADzone = '';
+			} else {
+				ADzone = 'zone:'+zoneid;
+			}
+
+			// WHAT PARAM (for zone implementation)
+			if (isNaN(zoneid)==true) {
+				(ADdimensions.length>1)?ADwhat='&what='+ADdimensions:ADwhat='&what=';
+			} else {
+				ADwhat = ADwhat='&what='+ADzone;
+			}
+
+			// WITH TEXT
+			// Check for with text parameter
+			(wtext=1)?ADwtext='&withText=1':ADwtext='&withText=0';
+
+			// ADNAME
+			// Used to keep track of which adview belongs with which adclick when using js ver < 1.1
+			var ADname = pos_name;
+
+
+			// AD REQUEST TO ADSERVER
+			if (_version < 11) {
+				document.write ('<a href="' + ADserver + 'adclick.php?n=' + ADname + '" target="_top" ><img src="' + ADserver + 'adview.php?pos=' + pos_name + ADwtext + ADwhat + '&z=' + zoneonly + '&aid=' + affiliate + '&n=' + ADname + RNS + '&target=_top&cache-id=1' + RNS + '" border="0" width="' + width + '" height="' + height + '"></a>');
+			} else {
+				document.write ('<' + wrdScript + ' type="text/javascript" language="JavaScript1.1" src="' + ADserver + 'adjs.php?pos=' + pos_name + ADwtext + ADwhat + '&z=' + zoneonly + '&aid=' + affiliate + '&target=_top&cache-id=1' + RNS + '">');
+				document.write ('\<\!-- --\>');
+				document.write ('\<\/' + wrdScript + '\>');
+				document.write ('\<\!-- --\>');
+			}
+		}
+
+
+		// TEMPLATE
+		// function DisplayAdsTemplate() {DisplayAds(affiliate,zoneid,width,height,bannerid,clientid,wtext,name,zoneonly);}
+
+
+		// AD WRAPPER FUNCTIONS
+
+		// ASTRONOMY.COM
+		// Ad Positions: TP,SP,L1,L2
+		// Last Modified: 3/04/2002 (drv)
+
+		function DisplayAdsTP(zoneid) {DisplayAds(1,zoneid,468,60,'','',0,'tp',1);}
+		function DisplayAdsSP(zoneid) {DisplayAds(1,zoneid,234,60,'','',0,'sp',1);}
+		function DisplayAdsL1(zoneid) {DisplayAds(1,zoneid,120,120,'','',0,'l1',1);}
+		function DisplayAdsL2(zoneid) {DisplayAds(1,zoneid,120,90,'','',0,'l2',1);}
+
+	//-->
+	</script>
+	
+
+
+	<title>Astronomy.com -- Privacy Policy</title>
 	<link rel="stylesheet" href="/styles/public.css" type="text/css">
 </head>
 <body bgcolor="#000000" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
+<!-- Category: :0,0,0,0 -->
+
+<!-- Zone Array - Conversion script (temporary) -->
+<script type="text/javascript" language="JavaScript">
+<!--
+
+	strAdZoneList = "0,0,0,0";
+	tempAdArray = strAdZoneList.split(",");
+	if (tempAdArray.length == 4) {
+		arrayAdZones[0] = tempAdArray[0];
+		arrayAdZones[1] = tempAdArray[1];
+		arrayAdZones[2] = tempAdArray[2];
+		arrayAdZones[3] = tempAdArray[3];
+	}
+
+//-->
+</script>
 
 
 <center>
@@ -15,37 +158,11 @@
 		<table border="0" cellpadding="0" cellspacing="0" valign="top">
 		<tbody><tr>
 			<td align="center">
-				<script language="JavaScript"> 
+				<script type="text/javascript" language="JavaScript">
 <!--
-_version=10;
-// -->
-</script> 
-<script language="JavaScript1.1"> 
-<!--
-_version=11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1){_version=10;}
-// -->
-</script> 
-<script language="JavaScript"> 
-<!--
-var width = 468;
-var height = 60;
-var OAS = 'http://OAS-Central.RealMedia.com/RealMedia/ads/';
-var sitepage = 'www.astronomy.com/content/static/misc/privacy.asp';
-var RN = new String (Math.random());
-var RNS = RN.substring (2, 11);
-var OASpage= sitepage + '/1' + RNS + '@' +'Top';
-if (_version < 11) {
-document.write ('<A HREF="' + OAS + 'click_nx.cgi/'+ OASpage + '" TARGET="_top" ><IMG SRC="' + OAS + 'adstream_nx.cgi/' + OASpage + '" BORDER="0" WIDTH="' + width + '"	HEIGHT="' + height + '"></a>'); 
-} else {
-document.write ('<SCRIPT type="text/javascript" language="JavaScript1.1" SRC="' + OAS + 'adstream_jx.cgi/' + OASpage + '">'); 
-document.write ('\<\!-- --\>');
-document.write ('\<\/SCRIPT\>');
-document.write ('\<\!-- --\>');
-}
-// -->
-</script><script type="text/javascript" language="JavaScript1.1" src="http://OAS-Central.RealMedia.com/RealMedia/ads/adstream_jx.cgi/www.astronomy.com/content/static/misc/privacy.asp/1543871338@Top"><!-- --></script><!-- -->
-
+	DisplayAdsTP(arrayAdZones[0]);
+//-->
+</script>
 			</td>
 		</tr>
 		<tr>
@@ -64,7 +181,7 @@ document.write ('\<\!-- --\>');
 				<a href="http://astronomy.com/home.asp"><img src="/images/common/contentlogo.gif" width="281" height="65" border="0"></a><br>
 			</td>
 			<td align="right" bgcolor="#FFFFCC" width="532">
-				<img src="/images/spacer.gif" width="1" height="1" border="0">
+				
 				&nbsp;
 			</td>
 		</tr>
@@ -91,55 +208,7 @@ document.write ('\<\!-- --\>');
 
 //-->
 </script>
-<script language="JavaScript1.1">
-<!-- //
-function ScopePrice()
-{
-	document.ProductSearch.chrSubmit.value = 'Price';
-	document.ProductSearch.HighPrice.value = document.ProductSearch.price.options[document.ProductSearch.price.selectedIndex].value;
-	switch (document.ProductSearch.HighPrice.value){
-		case '200':
-			document.ProductSearch.LowPrice.value = '0';
-			break;
-		case '500':
-			document.ProductSearch.LowPrice.value = '200';
-			break;
-		case '1000':
-			document.ProductSearch.LowPrice.value = '500';
-			break;
-		case '':
-			document.ProductSearch.LowPrice.value = '';
-			break;
-		default:
-			document.ProductSearch.LowPrice.value = '1000';
-		}
-	if  (document.ProductSearch.HighPrice.value != '')
-	{
-		document.ProductSearch.submit();
-	}
-}
 
-function PullTwo()
-{
-	document.ProductSearch.chrSubmit.value = 'Pull2';
-	document.ProductSearch.Pull2.value = document.ProductSearch.pulldown2.options[document.ProductSearch.pulldown2.selectedIndex].value;
-	if  (document.ProductSearch.Pull2.value != '')
-	{
-		document.ProductSearch.submit();
-	}
-}
-
-function PullThree()
-{
-	document.ProductSearch.chrSubmit.value = 'Pull3';
-	document.ProductSearch.Pull3.value = document.ProductSearch.pulldown3.options[document.ProductSearch.pulldown3.selectedIndex].value;
-	if  (document.ProductSearch.Pull3.value != '')
-	{
-		document.ProductSearch.submit();
-	}
-}
-// -->
-</script>
 <script language="JavaScript">
 
 function StarChartWindow(id)
@@ -148,7 +217,6 @@ var today = new Date();
 var timezone = today.getTimezoneOffset()/60;
 var strURL = 'http://64.73.24.163/default.asp?tz=' + timezone + '&id=' + id ;
 var StarChartPopup = window.open(strURL, 'StarChartPopup', 'status=yes,menubar=yes,scrollbars=yes,width=643,height=675');
-StarChartPopup.focus();
 }
 </script>
 
@@ -291,18 +359,18 @@ function PullThree()
 		
 			&nbsp;<a class="nolines-lightyellow" href="/signin.asp?Message=signin&amp;skychar=1&amp;Goto=/content/static/misc/privacy.asp">TheSky Online</a><br>
 		
-		&nbsp;<a class="nolines-lightyellow" href="javascript: WeatherWindow()">Weather</a><br>
+		<!--&nbsp;<a class="nolines-lightyellow" href="javascript: WeatherWindow()">Weather</a><br>
+		-->
 		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Content/static/beginners/default.asp">For Beginners</a><br>
-		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Content/static/parentsteachers/default.asp">Parents &amp; Teachers</a> <br>
+		<!-- &nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Content/static/parentsteachers/default.asp">Parents &amp; Teachers</a> <br>
 		<br>
+		-->
 		&nbsp;<a class="nolines-white" href="http://astronomy.com/Forums/">Discussion Forums</a><br>
 		&nbsp;<a class="nolines-white" href="http://astronomy.com/Quiz/">Astronomy Quiz</a><br>
 		<br>
-		&nbsp;<a class="nolines-lightyellow" href="http://www.spacewarn.com/SpaceWarn2/index.asp?stn=Astronomy">Astronomy.com Bulletin</a><br>
 		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Clubs/">Organization Guide</a><br>
 		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Calendar/Default.asp">Calendar of Events</a><br>
 		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Profile/">Update Profile</a><br>
-		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/ClassifiedAds/">Classified Ads</a><br>
 		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Vendors/">Vendor Directory</a><br>
 		<br>
 		</font>
@@ -400,69 +468,17 @@ function SearchBubbleSubmit()
 <tr>
 	<td valign="top" align="right" colspan="2">
 		<img src="/images/spacer.gif" width="1" height="10" border="0"><br>
-<script language="JavaScript"> 
+<script type="text/javascript" language="JavaScript">
 <!--
-_version=10;
-// -->
-</script> 
-<script language="JavaScript1.1"> 
-<!--
-_version=11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1){_version=10;}
-// -->
-</script> 
-<script language="JavaScript"> 
-<!--
-var width = 120;
-var height = 90;
-var OAS = 'http://OAS-Central.RealMedia.com/RealMedia/ads/';
-var sitepage = 'www.astronomy.com/content/static/misc/privacy.asp';
-var RN = new String (Math.random());
-var RNS = RN.substring (2, 11);
-var OASpage= sitepage + '/1' + RNS + '@' +'Left1';
-if (_version < 11) {
-document.write ('<A HREF="' + OAS + 'click_nx.cgi/'+ OASpage + '" TARGET="_top" ><IMG SRC="' + OAS + 'adstream_nx.cgi/' + OASpage + '" BORDER="0" WIDTH="' + width + '"	HEIGHT="' + height + '"></a>'); 
-} else {
-document.write ('<SCRIPT type="text/javascript" language="JavaScript1.1" SRC="' + OAS + 'adstream_jx.cgi/' + OASpage + '">'); 
-document.write ('\<\!-- --\>');
-document.write ('\<\/SCRIPT\>');
-document.write ('\<\!-- --\>');
-}
-// -->
-</script><script type="text/javascript" language="JavaScript1.1" src="http://OAS-Central.RealMedia.com/RealMedia/ads/adstream_jx.cgi/www.astronomy.com/content/static/misc/privacy.asp/1518655043@Left1"><!-- --></script><!-- -->
-<img src="/images/spacer.gif" width="2" height="1" border="0"><br>
+	DisplayAdsL1(arrayAdZones[2]);
+//-->
+</script><img src="/images/spacer.gif" width="2" height="1" border="0"><br>
 <img src="/images/spacer.gif" width="2" height="5" border="0"><br>
-<script language="JavaScript"> 
+<script type="text/javascript" language="JavaScript">
 <!--
-_version=10;
-// -->
-</script> 
-<script language="JavaScript1.1"> 
-<!--
-_version=11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1){_version=10;}
-// -->
-</script> 
-<script language="JavaScript"> 
-<!--
-var width = 120;
-var height = 90;
-var OAS = 'http://OAS-Central.RealMedia.com/RealMedia/ads/';
-var sitepage = 'www.astronomy.com/content/static/misc/privacy.asp';
-var RN = new String (Math.random());
-var RNS = RN.substring (2, 11);
-var OASpage= sitepage + '/1' + RNS + '@' +'Left2';
-if (_version < 11) {
-document.write ('<A HREF="' + OAS + 'click_nx.cgi/'+ OASpage + '" TARGET="_top" ><IMG SRC="' + OAS + 'adstream_nx.cgi/' + OASpage + '" BORDER="0" WIDTH="' + width + '"	HEIGHT="' + height + '"></a>'); 
-} else {
-document.write ('<SCRIPT type="text/javascript" language="JavaScript1.1" SRC="' + OAS + 'adstream_jx.cgi/' + OASpage + '">'); 
-document.write ('\<\!-- --\>');
-document.write ('\<\/SCRIPT\>');
-document.write ('\<\!-- --\>');
-}
-// -->
-</script><script type="text/javascript" language="JavaScript1.1" src="http://OAS-Central.RealMedia.com/RealMedia/ads/adstream_jx.cgi/www.astronomy.com/content/static/misc/privacy.asp/1899052153@Left2"><!-- --></script><!-- -->
-<img src="/images/spacer.gif" width="2" height="1" border="0"><br>
+	DisplayAdsL2(arrayAdZones[3]);
+//-->
+</script><img src="/images/spacer.gif" width="2" height="1" border="0"><br>
 
 	</td>
 </tr>
@@ -478,26 +494,36 @@ document.write ('\<\!-- --\>');
 					<td>
 						<table bgcolor="#FFFFCC" border="0" cellpadding="0" cellspacing="0" valign="top" width="564">
 						<tbody><tr>
-							<td colspan="3">
+							<td colspan="4">
 								&nbsp;
 							</td>
 						</tr>
-						<tr>
-							<td align="left" valign="bottom">
-								<img src="/images/spacer.gif" width="1" height="1" border="0"><br>
+						<tr valign="top">
+							<td>
+								<br>
 							</td>
-							<td align="left">
-								<img src="/images/spacer.gif" width="5" height="1"><br>
+							<td>
+								<img src="/images/spacer.gif" width="5" height="1">
 							</td>
-							<td align="right" valign="bottom"></td>
+							<td align="right">
+								<script type="text/javascript" language="JavaScript">
+<!--
+	DisplayAdsSP(arrayAdZones[1]);
+//-->
+</script>
+							</td>
+							<td>
+								<img src="/images/spacer.gif" width="5" height="1">
+							</td>
 						</tr>
 						</tbody></table>
-					
+
 						<table bgcolor="#FFFFCC" border="0" cellpadding="4" cellspacing="0" valign="top" width="564">
 						<tbody><tr>
 							<td>
 							<!--CONTENT GOES HERE -->
-						
+
+
 <img src="/images/common/t_privacypolicy.gif" alt="PRIVACY POLICY" width="179" height="23"><br><br>
 
 <p><font face="arial,helvetica" size="2" color="#000000">Astronomy.com is committed to providing service that exceeds the expectations of site visitors and those who register for our services or conduct e-commerce via our web site.  This commitment extends to the expectations you may have about maintaining your privacy and that of the members of your family, when it comes to use of any  "personally identifiable information" you may provide.</font></p>
@@ -559,17 +585,18 @@ document.write ('\<\!-- --\>');
 				<tr>
 					<td bgcolor="#000000" align="center" colspan="2">
 						
-<font face="Arial, Helvetica" size="1" color="#FFFFCC">
+<br clear="all">
+<div><font face="Arial, Helvetica" size="1" color="#FFFFCC">
 <a class="nolines-lightyellow" href="/content/static/misc/sitemap.asp">Site Map</a> |
 <a class="nolines-lightyellow" href="/glossary/glossary_search_user.asp">Glossary</a> |
-<a class="nolines-lightyellow" href="/content/static/misc/privacy.asp">Privacy Statement</a> | 
-<a class="nolines-lightyellow" href="/content/static/misc/contactus.asp">Contact Us</a> | 
-<a class="nolines-lightyellow" href="/Content/Static/misc/advertising/webads.asp">Advertising Info</a> | 
-<a class="nolines-lightyellow" href="/content/static/misc/aboutus.asp">About Us</a> | 
-<a class="nolines-lightyellow" href="http://corporate.kalmbach.com/kalmbach/jobs/jobs_opportunities.asp?action=details&amp;job=10">Employment</a><br>
-<br>
-Copyright © 1996-2001 <a class="nolines-lightyellow" href="http://www.kalmbach.com">Kalmbach Publishing Co.</a>
-</font>
+<a class="nolines-lightyellow" href="/content/static/misc/privacy.asp">Privacy Statement</a> |
+<a class="nolines-lightyellow" href="/content/static/misc/contactus.asp">Contact Us</a> |
+<a class="nolines-lightyellow" href="/Content/Static/misc/advertising/webads.asp">Advertising Info</a> |
+<a class="nolines-lightyellow" href="/content/static/misc/aboutus.asp">About Us</a> |
+<a class="nolines-lightyellow" href="http://corporate.kalmbach.com/kalmbach/jobs/jobs_opportunities.asp?action=details&amp;job=10">Employment</a>
+<br> <br>
+Copyright © 1996-2002 <a class="nolines-lightyellow" href="http://www.kalmbach.com">Kalmbach Publishing Co.</a>
+</font></div>
 
 
 
