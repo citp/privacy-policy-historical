@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befree.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607204506id_/http%3A//www.befree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befree.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214084049id_/http%3A//www.befree.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Information - Be Free, Inc.
 
