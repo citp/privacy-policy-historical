@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinjiru.com.my privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803014755id_/http%3A//shinjiru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinjiru.com.my privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606200440id_/http%3A//shinjiru.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
