@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401095846id_/http%3A//nvcc.edu/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204155012id_/http%3A//nvcc.edu/resources/privacy) for the most accurate reproduction.*
 
 # Northern Virginia Community College Privacy Statement:
 
