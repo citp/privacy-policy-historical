@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockcharts.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606013440id_/http%3A//stockcharts.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockcharts.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205092852id_/http%3A//stockcharts.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statements - StockCharts.Com
 
@@ -24,13 +24,13 @@ This site contains links to other sites. StockCharts.com is not responsible for 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we control the use of cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
 **Security Measures**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our mailing list is kept on a separate server that is not directly connected to the Internet.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We only transmit credit card information across the Internet via our secure, encrypted order forms. Unless authorized by you, we destroy your credit card information immediately after processing your transaction. We provide alternative payment methods for people who are uncomfortable sending credit card information via the Internet. Our mailing lists are not electronically accessible by others.
 
 **Choice/Opt-Out**  
 To stop receiving our electronic newsletter, you can send an email message to [listserv@stockcharts.com](mailto:listserv@stockcharts.com) with the phrase **unsubscribe ChartWatchersWeekly** in the message body.
 
 **Contacting Us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [privacy@stockcharts.com](mailto:privacy@stockcharts.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact [privacy@stockcharts.com](mailto:privacy@stockcharts.com). 
 
 **24/7 Media's Privacy Statement**
 
