@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randomhouse.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603235504id_/http%3A//www.randomhouse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomhouse.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218094029id_/http%3A//www.randomhouse.com/privacy.html) for the most accurate reproduction.*
 
 # BOOKS@RANDOM PRIVACY POLICY
 
@@ -8,7 +8,7 @@
 This Web site is maintained by Random House, Inc., 1540 Broadway, New York, NY, 10036, (212) 782-9000. We can be reached by e-mail at [business@randomhouse.com.](mailto:business@randomhouse.com)
 
  **SUMMARY**  
-Random House takes your online privacy seriously. You may visit this site anonymously as often as you like without providing any personally identifying information (such as your name, address or e-mail address). We do not collect personally identifying information from you except when you specifically provide it, and we protect the information we receive. If you ask to be added to a newsletter or other subscription list, we will use a cookie to keep track of your requests so that you can easily check and revise your subscriptions. We also use cookies to identify your browser so that we can provide the best link to our site. We never share your e-mail address with third parties except, in rare instances, to protect our site or to enforce compliance with ours Terms of Use. Please read below for a further explanation of what information we gather and how we use it.
+Random House takes your online privacy seriously. You may visit this site anonymously as often as you like without providing any personally identifying information (such as your name, address or e-mail address). We do not collect personally identifying information from you except when you specifically provide it, and we protect the information we receive. If you ask to be added to a newsletter or other subscription list, we will use a cookie to keep track of your requests so that you can easily check and revise your subscriptions. We also use cookies to identify your browser so that we can provide the best link to our site. We never share your e-mail address with third parties except, in rare instances, to protect our site or to enforce compliance with our Terms of Use. Please read below for a further explanation of what information we gather and how we use it.
 
 **  
 THE INFORMATION YOU PROVIDE**  
