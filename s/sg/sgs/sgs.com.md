@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204030450id_/http%3A//www.sgs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305202302id_/http%3A//www.sgs.com/privacy.htm) for the most accurate reproduction.*
 
 # SGS SA
 
