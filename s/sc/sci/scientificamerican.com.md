@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scientificamerican.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602192128id_/http%3A//www.sciam.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientificamerican.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203015334id_/http%3A//www.scientificamerican.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Scientific American : Privacy Policy
 
-**Scientific American Privacy Policy**
+[](https://web.archive.org/page.cfm?section=privacy)
 
 **ScientificAmerican.com respects and protects the privacy of our users.**   
 Please read the following statement to understand how your personal information will be treated. Note that by using the Services and/or the Sites you signify your agreement to this Privacy Policy. This Privacy Policy may change from time to time. Changes to this Privacy Policy will become effective when those changes are posted to the Site. Your continued use of the Services and the Site subsequent to any changes to this Privacy Policy constitutes your acceptance of the changes. Please review this statement periodically to ensure continuing familiarity with its most current provisions. 
