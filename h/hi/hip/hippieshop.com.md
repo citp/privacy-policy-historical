@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411145412id_/http%3A//www.hippieshop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221214159id_/http%3A//www.hippieshop.com/privacy.htm) for the most accurate reproduction.*
 
 # HippieShop.com -Privacy
 
