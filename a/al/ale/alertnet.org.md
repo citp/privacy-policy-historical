@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertnet.org privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008073723id_/http%3A//www.foundation.reuters.com/privacy1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertnet.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611032553id_/http%3A//www.foundation.reuters.com/privacy1.htm) for the most accurate reproduction.*
 
 # Reuters Foundation Disclaimer
 
@@ -30,7 +30,7 @@ We also provide you with further information on how we collect and use informati
 
 For more details about Reuters Privacy / Data Protection Notice please contact privacy@reuters.com or if you would like to see or change your details at any time please contact esupport.global@reuters.com quoting “Personal Details” in the subject heading.
 
-Please[ click here ](https://web.archive.org/web/20031008073723id_/http%3A//www.foundation.reuters.com/privacy2.htm)to read a summary of the additions / changes made to our Privacy / Data Protection Notice or read on for the full Privacy / Data Protection Notice.
+Please[ click here ](https://web.archive.org/web/20040611032553id_/http%3A//www.foundation.reuters.com/privacy2.htm)to read a summary of the additions / changes made to our Privacy / Data Protection Notice or read on for the full Privacy / Data Protection Notice.
 
  **PRIVACY/ DATA PROTECTION NOTICE**
 
