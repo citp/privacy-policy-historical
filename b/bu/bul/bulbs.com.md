@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207211021id_/http%3A//www.bulbs.com/default.asp%3Fpage%3Dhome%26pagespec%3Dyourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080334id_/http%3A//www.bulbs.com/default.asp%3Fpage%3Dhome%26pagespec%3Dyourprivacy) for the most accurate reproduction.*
 
-# Bulbs.com;Advance ballast:Ballast, Bulb, Commercial lighting, Compact fluorescent bulb, Emergency lighting, Emergency lighting, Exit sign, Flourescent light bulb and Fluorescent bulb
+# bulbs.com;Fluorescent bulbs:Halogen bulbs, Halogen light bulbs, Flourescent light bulbs, Light bulbs, Compact fluorescent bulbs, Full spectrum light bulbs
 
 |  |    
 Our Privacy Statement:  
