@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raywhite.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603151314id_/http%3A//www.raywhite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raywhite.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205114414id_/http%3A//www.raywhite.com/privacy.html) for the most accurate reproduction.*
 
 # Property - Australia - New Zealand - South East Asia - Ray White Real Estate
 
