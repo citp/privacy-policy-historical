@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.*
 
 # JIDAW.COM: Privacy Policy
 
@@ -24,9 +24,9 @@ If you have questions or concerns regarding this statement, you should first con
 
 _**Page Top**_
 
-|  [HOME](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/index.html) |  [ABOUT US](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/about.html) |  [COMMENTS](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/comments.html) |  [CONTACT US](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/contact.html) |  [BOOK SALES](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/books.html)  
+|  [HOME](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/index.html) |  [ABOUT US](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/about.html) |  [COMMENTS](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/comments.html) |  [CONTACT US](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/contact.html) |  [BOOK SALES](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/books.html)  
 ---|---|---|---|---  
-[HELP](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/help2.html) |  [E-LEARNING](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/e-learn.html) |  [CERTIFICATION](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/certification.html) |  [TRAINING](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/training.html) |  [PREVIOUS JOBS](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/previous.html)  
-  | [PRIVACY](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/privacy.html) | [DISCLAIMER](https://web.archive.org/web/20041204232325id_/http%3A//www.jidaw.com/disclaimer.html) |   |    
+[HELP](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/help2.html) |  [E-LEARNING](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/e-learn.html) |  [CERTIFICATION](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/certification.html) |  [TRAINING](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/training.html) |  [PREVIOUS JOBS](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/previous.html)  
+  | [PRIVACY](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/privacy.html) | [DISCLAIMER](https://web.archive.org/web/20050403083642id_/http%3A//www.jidaw.com/disclaimer.html) |   |    
   
 
