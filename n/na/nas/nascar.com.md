@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207165223id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401191321id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
 
 # NASCAR.com : privacy policy
 
 NASCAR.com Privacy Notice
 
-Thank you for visiting NASCAR.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at NASCAR.com.
+Thank you for visiting NASCAR.com. Turner Sports Interactive, Inc. ("TSI") operates NASCAR.com pursuant to agreements with NASCAR. Your privacy is important to TSI and NASCAR ("we", "us" or "our"). To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at NASCAR.com. Please be advised that the practices described in this Privacy Notice apply only to information gathered through and in connection with this web site and do not necessarily reflect our practices for other sites we operate, including the NASCAR.com Store. Please see the [NASCAR.com Store's Privacy Notice](http://store.nascar.com/helpdesk/index.jsp?display=safety&subdisplay=privacy).
 
 The Information We Collect
 
