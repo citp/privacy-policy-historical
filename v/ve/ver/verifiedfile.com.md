@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verifiedfile.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082409id_/http%3A//mp3.earthreactor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verifiedfile.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404031658id_/http%3A//mp3.earthreactor.com/privacy.html) for the most accurate reproduction.*
 
 # MP3 SEARCH ENGINE PRIVACY STATEMENT : DOWNLOAD AUDIO MP3 MUSIC FREE
 
@@ -49,5 +49,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 _**This privacy statement was last modified 12/8/2004.**_
 
-[ [EarthReactor MP3 Search](https://web.archive.org/web/20041204082409id_/http%3A//mp3.earthreactor.com/index.html)] [  [EarthReactor Home Page](http://earthreactor.com/) ] [  [ Advertiser's](mailto:swishmade@yahoo.com?subject=Advertise%20on%20Earthreactor) ] [ [ About Us](https://web.archive.org/web/20041204082409id_/http%3A//mp3.earthreactor.com/about.html) ]   
-[ [Privacy Statement](https://web.archive.org/web/20041204082409id_/http%3A//mp3.earthreactor.com/privacy.html) ]  [ [Advanced MP3 Search](https://web.archive.org/web/20041204082409id_/http%3A//mp3.earthreactor.com/advanced.html) ] [ [ Submit MP3 Music](https://web.archive.org/web/20041204082409id_/http%3A//mp3.earthreactor.com/submit.html) ] [ [ Help](https://web.archive.org/web/20041204082409id_/http%3A//mp3.earthreactor.com/help.html) ] [ [Search Tips](https://web.archive.org/web/20041204082409id_/http%3A//mp3.earthreactor.com/tips.html) ] 
+[ [EarthReactor MP3 Search](https://web.archive.org/web/20050404031658id_/http%3A//mp3.earthreactor.com/index.html)] [  [EarthReactor Home Page](http://earthreactor.com/) ] [  [ Advertiser's](mailto:swishmade@yahoo.com?subject=Advertise%20on%20Earthreactor) ] [ [ About Us](https://web.archive.org/web/20050404031658id_/http%3A//mp3.earthreactor.com/about.html) ]   
+[ [Privacy Statement](https://web.archive.org/web/20050404031658id_/http%3A//mp3.earthreactor.com/privacy.html) ]  [ [Advanced MP3 Search](https://web.archive.org/web/20050404031658id_/http%3A//mp3.earthreactor.com/advanced.html) ] [ [ Submit MP3 Music](https://web.archive.org/web/20050404031658id_/http%3A//mp3.earthreactor.com/submit.html) ] [ [ Help](https://web.archive.org/web/20050404031658id_/http%3A//mp3.earthreactor.com/help.html) ] [ [Search Tips](https://web.archive.org/web/20050404031658id_/http%3A//mp3.earthreactor.com/tips.html) ] 
