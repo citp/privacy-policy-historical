@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studioabroad.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009231324id_/http%3A//studioabroad.com/index.cfm%3FFuseAction%3DStudioAbroad.View%26Page_ID%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studioabroad.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404200351id_/http%3A//www.studioabroad.com/index.cfm%3FFuseAction%3DStudioAbroad.View%26Page_ID%3D14) for the most accurate reproduction.*
 
 # StudioAbroad Corporate Site - Privacy Policy
 
