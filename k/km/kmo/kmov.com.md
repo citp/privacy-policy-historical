@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017222855id_/http%3A//www.kmov.com/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2003-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030223014921id_/http%3A//www.kmov.com/registration/privacy) for the most accurate reproduction.*
 
 # KMOV.com | St. Louis | Privacy Policy
 
