@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridagators.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214141400id_/http%3A//www.floridagators.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridagators.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405174152id_/http%3A//floridagators.com/privacy.html) for the most accurate reproduction.*
 
 # FloridaGators.com - Acceptance Terms for Your Personal Gator Florida Email Address
 
