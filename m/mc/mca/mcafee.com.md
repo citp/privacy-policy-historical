@@ -1,123 +1,81 @@
-> *The following text is extracted and transformed from the mcafee.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218101031id_/http%3A//www.mcafee.com/copyright/privacy.asp%3Fprereg%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafee.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206074540id_/http%3A//us.mcafee.com/root/aboutUs.asp%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# McAfee.com - Privacy Policy
+# McAfee Security - Computer Virus Software and Internet Security For Your PC
 
-[](https://www.truste.org/validate/3040/index.html?)McAfee.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Web site agrees to notify you of: 
+McAfee Security Consumer Privacy Statement   
+  
+This statement discloses the privacy practices for the site www.mcafee.com. Please note that this statement refers to our privacy policies for consumers only. If you are an enterprise customer of McAfee Security or Network Associates, please visit the [privacy policy](http://www.networkassociates.com/us/privacy.htm) statement of Network Associates, Inc. McAfee Consumer is a business unit of Network Associates, Inc. 
 
-  1. What personally identifiable information of yours or a third party is collected from you through the Web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use, and distribution of the information 
-  6. The kind of security procedures that are in place to prevent the loss, misuse, or alteration of information under McAfee.com's control 
-  7. How you can correct any inaccuracies in the information. 
+McAfee Consumer is vigilant about protecting your privacy as a consumer. As a data security company, we understand better than most the need for you to maintain control over your personal data when using the Internet. This statement details for you the following: 
 
-
-
-If you have any questions or concerns regarding this statement, please send them to [privacy@mcafee.com](mailto:privacy@mcafee.com). For questions or concerns regarding non-privacy statement issues, please visit our [Support Center](https://web.archive.org/support/). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. McAfee.com is committed to protecting your privacy! 
-
-McAfee.com is vigilant about protecting your privacy as a consumer. As a data security company, we understand better than most the need for you to maintain control over your personal data when using the Internet. We maintain your privacy through the enforcement of strict internal polices that exceed industry standards. 
-
-**We Protect Your Right to Privacy**   
-McAfee.com respects your privacy. Our guidelines for protecting the information you provide us during a visit to our Web site appear below. Furthermore, McAfee.com is a registered licensee of TRUSTe. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of full disclosure and informed consent. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and to have our privacy practices reviewed and audited for compliance by TRUSTe. These include: 
-
-  * What information we gather/track 
-  * How we use the information 
-  * With whom we share the information 
-  * Our opt-out policy 
-  * Our policy on correcting and updating personally identifiable information 
-  * Our policy on deleting or deactivating your name from our database 
-  * Our policy regarding children who visit our site 
+  1. What information we collect 
+  2. How we use the information 
+  3. With whom we share the information 
+  4. How you can **opt-in to or opt-out of** data collection and use 
+  5. Our policy on correcting and updating personally identifiable information 
+  6. Our policy on deleting or deactivating your name from our database 
 
 
 
-**Privacy Statement**   
-This statement discloses the privacy practices for www.mcafee.com. We have designed McAfee.com so that no personal identifying information is displayed online or is accessible to the general public. 
+**What Information We Collect**  
+We collect and store some or all of the following information about our users: name; email address; and billing information, such as address, phone number and credit card number. If you do not wish to have your credit card number stored, please contact [Customer Support](http://us.mcafee.com/root/support.asp). We also receive and may store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses www.mcafee.com. More information on our use of "cookies" can be found below. 
 
-**What Information We Gather/Track**   
-We collect and store some or all of the following information about our users: name; email address; and billing information, such as address, phone number and credit card number. If you do not wish to have your credit card number stored, please contact [Customer Service](http://www.mcafee.com/support/cust_serv/ms_contact_options.asp?phone=1). We also receive and may store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies", and we obtain certain types of information when your Web browser accesses McAfee.com. 
+In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, experience with our products, and more detailed contact preferences. Customers and visitors always have the option of choosing not to provide us with this information. 
 
-In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, demographics, experience with our products, and more detailed contact preferences. You will have the option of choosing not to provide us with this information. 
+**Web Applications**  
+We may also employ certain applications, such as the various components of Security Center, to retrieve information about your computer system to assist us in the provision of services that you have chosen to subscribe to or use. This information is essential to enable us to provide you with quality service, and for that reason there is no opt-out available for this information collection. 
 
-**Use of Data**   
-McAfee.com uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, including fulfillment of promotional offers, to communicate back to you, to update you on service and benefits, to personalize our web sites for you, and to manage and renew your subscription(s). Credit card numbers are used only for payment processing and fraud protection, and are not used for other purposes without your permission. 
+**Use of Data**  
+McAfee Consumer uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, including fulfillment of orders and promotional offers, to communicate back to you, to update you on service and benefits, to personalize our Web sites for you, and to manage and renew your subscription(s). Credit card numbers are used only for payment processing and fraud protection, and are not used for other purposes without your permission. 
 
-**Web Applications**   
-Certain online applications, such as the various elements of the McAfee.com Clinic, store some components on your hard drive. The software employs proprietary technology to scan your computer system and retrieve information regarding your installed software and hardware. The information that is retrieved is used to provide the services you have chosen to subscribe to or use. In addition, unless you indicate you do not want this service, the information will be used to generate advertising that is appropriate for you. The information gathered by these applications is used only to generate output directed to you and is not aggregated or used for any other purpose. It is not stored along with any identifying information about you, nor is it sold, rented, or shared with any outside parties in any form whatever. TRUSTe is currently developing a program to address the collection of data through downloadable consumer software. However, as this program is not yet ready for implementation, TRUSTe does not yet cover data collected in this manner. As soon this program is put in place, McAfee.com looks forward to working with TRUSTe to address this data practice. 
+**Use of Your Email Address**  
+If you provide us with your email address when you register as a customer or make a purchase from us, we may occasionally send you email with recommendations or notices of new products, prices, and services. This email may include paid advertisements from third parties. At the time you register or make a purchase, you will be given the opportunity **to opt into our out of** this service. If you do not initially choose to opt out, you may still block future email of this type, simply by following the unsubscribe instructions that accompany all such communications. 
 
-**Use of Your Email Address**   
-If you provide us with your email address when you register as a customer or make a purchase from us, we will occasionally send you email with recommendations or notices of new products, prices, and services. This email may include paid advertisements from third parties. You may block future email of this type, simply by following the instructions at the bottom of the update messages. 
+Separately, we send service notifications via email to keep you informed about the status of your service orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our services. Therefore there is no opt-out available for service notifications and these messages cannot be blocked. 
 
-Separately, we send service notifications via email to keep you informed about the status of your service orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our services. Therefore there is no opt-out available for service notifications and these messages cannot be blocked. These emails may also include paid advertisements from third parties. 
+**Who We Share It With**  
+McAfee Consumer will not sell, rent, or lease your personally information to others. 
 
-**Who We Share It With**   
-McAfee.com will not sell, rent, or lease your personally identifiable information to others. Unless we have your permission or are required by law, we will only share the personal data you provide online with other McAfee.com entities and/or business partners who are acting on our behalf for the uses described in "Use of Data". By contract, third parties such as CyberSource and Beyond.com must comply with their own privacy policies with regard to the renting, selling, or sharing of information. As partners of McAfee.com, they must also offer McAfee.com customers the chance to opt out of information sharing. For advertising purposes, visitor and customer information is statistically aggregated and reported to advertisers. However, we do not disclose to these entities any information that could be used to personally identify you, such as your name, email address, account, password, or transaction history. 
+We may share the personal information you provide online with other Network Associates entities and/or business partners who are acting on our behalf, but only for the uses already described in "Use of Data." More information on business partners with whom we may share your information is provided below under "Special Relationships." 
 
-**Special Relationships**   
-McAfee.com has a number of relationships with business partners. These business partners provide a number of different services. 
+For advertising purposes, visitor and customer information is statistically aggregated and reported to advertisers. However, we do not disclose to these entities any information that could be used to personally identify you, such as your name, email address, account, password, or transaction history. 
 
-CyberSource and Telecheck are intermediaries in the purchasing process for McAfee.com. CyberSource provides credit card transaction services for McAfee.com. Telecheck provides electronic check processing services for McAfee.com. Both CyberSource and Telecheck verify your purchase information, such as credit card number or checking account number, and authorize your transaction. In doing so, CyberSource and Telecheck have access to sensitive data about users. They do not use this information for any other purpose. [Read CyberSource's privacy policy](http://www.cybersource.com/privacy.xml).  
-[Read Telecheck's privacy policy](http://www.telecheck.com/home/privacy_policy.html). 
+**Special Relationships**  
+Network Associates and McAfee Consumer have a number of relationships with business partners with whom we may share your personal information for the purpose of providing a service, fulfilling an order or completing a transaction. For example, we use certain vendors for the purpose of providing credit card transaction and check processing services. These vendors verify your purchase information, such as credit card number or checking account number, and authorize your transaction. In doing so, they have access to data about users, but they are prohibited from using this information for any other purpose. 
 
-Beyond.com powers the McAfee Store, and in doing so collects information about users, including credit card information. When a user purchases a product from the McAfee Store, information about the customer and the purchase are shared with McAfee.com. Beyond.com may occasionally notify you of special offers, new products, services, promitions, and other similar information. McAfee.com users can opt out of receiving such mail from Beyond.com by sending an email to [neversell@beyond.com](mailto:neversell@beyond.com).  
-[Read Beyond.com's privacy policy](http://www.beyond.com/company/privacy_policy.htm). 
+**Digital River** powers the McAfee Store, and in doing so collects information about users, including credit card information. When a user purchases a product from the McAfee Store powered by Digital River, information about the customer and the purchase are shared with McAfee Consumer. As of May 2003, when a customer purchases a subscription Digital River shares credit card information with McAfee Consumer so that McAfee consumer can maintain and renew the subscription. Credit card numbers are used only for payment processing and fraud protection, and are not used for other purposes without your permission. Digital River may occasionally notify you of special offers, new products, services, promotions, and other similar information on behalf of McAfee Consumer. McAfee Consumer users can opt out of receiving such mail from Digital River by calling 1-800-656-5426 and asking to be removed from future emails. Read [Digital River's privacy policy](http://drhome.digitalriver.com/livehtml/newsite/dr_privacy_000.html). 
 
-Other McAfee.com partners include Fatbrain.com and OnTrack.com. When users access the services these partners provide, they are taken to a McAfee.com-branded version of each of these partners' sites. These sites do not share specific customer information with McAfee.com, only aggregated information about how many McAfee.com customers have visited. These sites do not share user buying behavior information or purchase history with McAfee.com. 
+The information shared between McAfee Consumer and the specified partners above is processed only for the purpose of performing contractual obligations, and no processing activity will be carried out by McAfee Consumer without prior notice to users, and where necessary, with users' consent. McAfee Consumer hereby expressly disclaims any liability for the data processing activities of the partners above specified, which will act as independent data processing Controllers. Please read carefully such partners' Privacy Policies before providing your personal data. 
 
-**Affiliates**   
-When a user or a company signs up to be a McAfee.com affiliate, they do so through LinkShare. LinkShare does share personally identifiable information about affiliates with McAfee.com. This information is not sold, shared, or rented to any third party, and is used internally only to manage and maintain relationships with affiliates. 
+**Affiliates**  
+When a user or a company signs up to be a McAfee Consumer affiliate, they do so through LinkShare. LinkShare does share personal information about affiliates with McAfee Consumer. This information is not sold, shared, or rented to any third party, and is used internally only to manage and maintain relationships with affiliates. 
 
-**Links**   
-McAfee.com contains links to other Web sites. Please note that when you click on one of these links, you are 'clicking' to another Web site. We encourage you to read the privacy statements of these linked sites, as their privacy policies may differ from ours. 
+**Links**  
+Our site contains links to other Web sites. Please note that when you click on one of these links, you are 'clicking' to another Web site. As McAfee Consumer does not accept liability for misuse of any information by any Web site controller to which we may link, we encourage you to read the privacy statements of these linked sites, as their privacy policies may differ from ours. 
 
-**Cookies**   
-McAfee.com uses software tags called "cookies" to identify customers when they visit our site. Cookies are used to remember user preferences and maximize performance of our services. Additionally, cookies help us to identify returning users so that we don't ask them to enter their email and McAfee.com password with every visit. The information we collect with cookies is not sold, rented, or shared with any outside parties. We also ask that you fill in your first name and last name in a box so that our customer support services can identify and assist you in case of login problems. We cannot provide subscription services to users whose browsers are set to reject all cookies. We also allow advertisers to set cookies in McAfee.com visitors' browsers. DoubleClick.net sets cookies in McAfee.com visitors' browsers. McAfee.com does not require that users accept cookies from DoubleClick.net in order to access our services. McAfee.com does not have access to the information contained in advertisers' cookies. 
+**Cookies**  
+McAfee Consumer uses software tags called "cookies" to identify customers when they visit our site. Cookies are used to remember user preferences and maximize performance of our services. Additionally, cookies help us to identify returning users so that we don't ask them to enter their email and password with every visit. The information we collect with cookies is not sold, rented, or shared with any outside parties. We also ask that you fill in your first name and last name in a box so that our customer support services can identify and assist you in case of login problems. We cannot provide subscription services to users who do not give their consent to the data processing carried out through cookies or whose browsers are set to reject all cookies. 
 
-McAfee.com uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+McAfee Consumer uses an ad server for the serving and/or targeting of ads, promotions and other marketing messages. Cookies may be used to control the type and/or frequency of ads, promotions or other marketing messages the customer views. 
 
-McAfee.com also uses the services of DoubleClick for the serving and/or targeting of ads, promotions, and other marketing messages. To do this, DoubleClick collects non-personal data through the use of cookies about the types of sites you visit and other non-personally identifiable information about you in order to deliver advertisements about goods and services that may be of interest to you. In the course of serving advertisements or providing other marketing services, DoubleClick may place or recognize a unique, non-personally identifiable cookie in your browser. In providing these services, DoubleClick does not link personally identifiable information (such as your name, land address or telephone number) to your Web site visits. If you would like more information about DoubleClick, its business practices, and its privacy policies, please [click here](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&). To opt out of this anonymous online preference marketing service, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We may also use third-party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is non-personal and anonymous. 
 
-**Log Files**   
-McAfee.com maintains log files of the traffic that visits the McAfee.com site. We do not link any information gathered in these log files to personally identifying information. Log files are used to manage traffic loads and information technology requirements for providing reliable service. Information collected includes IP addresses and browser types. 
+McAfee Consumer also uses the services of DoubleClick for the serving and/or targeting of ads, promotions, and other marketing messages. To do this, DoubleClick collects non-personal information through the use of cookies about the types of sites you visit and other non-personally identifiable information about you in order to deliver advertisements about goods and services that may be of interest to you. In the course of serving advertisements or providing other marketing services, DoubleClick may place or recognize a unique, non-personally identifiable cookie in your browser. In providing these services, DoubleClick does not link personal information (such as your name, land address or telephone number) to your Web site visits. If you would like more information about DoubleClick, its business practices, and its privacy policies, please [click here](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&). To opt out of this anonymous online preference marketing service, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
-**Forum**   
-The McAfee.com Forum allows subscribers to post questions and join in discussions about McAfee.com services. This is a moderated message board. All messages will be reviewed and may be edited to shorten the message, or clarify the content of the message, as well as to conceal the identity of the individual posting the message. Any information entered into the Forum should be considered public information. 
+**Log Files**  
+McAfee Consumer maintains log files of the traffic that visits our site. We do not link any information gathered in these log files to personally identifying information. Log files are used to manage traffic loads and information technology requirements for providing reliable service. Information collected includes IP addresses and browser types. 
 
-**Feedback**   
-We collect user feedback. We do not typically respond to user feedback in the form of email. We do cull testimonials that appear on the site from our feedback form, but only after we have obtained permission from the senders. Users who would like a response to specific questions concerning the service or their subscriptions are directed to the customer service area. These questions will be respond to as quickly as possible. We read all of our customer service queries and use the information contained therein only to resolve the question at hand. We also post surveys on our site, ranging from one to ten questions. These surveys are optional and all information is collected anonymously. The information is collected to better understand our user population. It is not sold or transferred to any third party. 
+**Feedback**  
+We collect user feedback, and we cull testimonials that appear on the site from our feedback form, but only after we have duly informed and obtained permission from the senders. We also post surveys on our site to better understand our user population. These surveys are voluntary and anonymous, and the results are statistically aggregated so that no personal information can be associated with survey results. 
 
-**Correct/Update/Delete User Information**   
-Users can update, correct, or delete their personal information on McAfee.com by clicking on the "My Account Information" link in the upper left hand corner of the webview and the upper right hand corner in the desktop view. Users may cancel their accounts by accessing the How to Cancel page at [http://clinic.mcafee.com/clinic/membership/cancel.asp](http://clinic.mcafee.com/clinic/membership/cancel.asp?). 
+**Access/Correct/Update/Delete User Information**  
+Users can access, update, correct, or delete the personal information held by McAfee Consumer by clicking on the "[My Account](https://web.archive.org/root/dashboard.asp)" link. Users may cancel their accounts by accessing the "How to Update your Automatic Renewal and Subscription Status" page. 
 
-**Our Privacy Policy Regarding Children who Visit our Site**
+**Information Security**  
+All information gathered on the site is stored and maintained in secure facilities that limit access to authorized personnel only. The McAfee Consumer Web sites are regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. 
 
-**What Information Is Collected?**   
-It's our policy to create website content that requires minimum collection of information from children visiting our site. From time to time, however, we may request limited personally identifiable information (e.g. a child's email address and/or email address of parent or guardian), as explained below, in order to conduct online contests or sweepstakes or offer other online activities. McAfee.com does not condition a child's participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity. 
+**Retention of Information**  
+McAfee Consumer will keep personal information of its users for as long as they are registered subscribers or users of our products, and for a reasonable time thereafter. 
 
-McAfee.com will not sell, rent, or lease this information to others. Unless required by law, we will only share the personal data provided online with other McAfee.com entities and/or business partners who are acting on our behalf for the uses described in "Use of Data" or for purposes of conducting a contest or sweepstakes. 
-
-  * **Contests and Sweepstakes**   
-McAfee.com occasionally offers contests and sweepstakes, which may be entered online. To participate in a contest or sweepstakes, a **child is asked to provide his or her first name, last name, email address and age. If the child is 13 years old or younger, the last name and the email address are deleted immediately**. He or she is also required to enter the name of a parent and the email address of a parent. We then send the child's parent an email within two business days informing him or her of the child's entry. **The parent must respond and approve the child's entry into the contest or the child's information will be deleted from our records**. All the information collected by McAfee.com is securely maintained and used only for the purpose of conducting the contest or sweepstakes and notifying the winner(s). The parent will be notified if their child wins the contest if the child is under 13, otherwise the child will be contacted. Once the contest or sweepstakes is finished, we then delete any personal information collected. 
-
-**Information for Parents**
-
-  * **How to Update Your Child's Information**   
-Please use the link provided in the email that we send you following your child's enrollment in our contest OR send an email to [kidsinfo@mcafee.com](mailto:kidsinfo@mcafee.com). The email should contain your child's name and email address, as well as which information you would like updated. 
-  * **How to Prevent Use of Your Child's Information (Request Deletion of Record)**   
-Please send an email to [kidsinfo@mcafee.com](mailto:kidsinfo@mcafee.com) with your child's name and email address, along with the request that your child's name should be deleted from our records. 
-  * **How to Contact Us**   
-Privacy Coordinator   
-McAfee.com Corp   
-535 Oakmead Parkway   
-Sunnyvale, CA 94085   
-USA   
-Tel: (408) 992-8100   
-Email: [privacy@mcafee.com](mailto:privacy@mcafee.com)
-
-
-
-**Information Security**   
-All information gathered on the McAfee.com site is stored and maintained in secure facilities that limit access to authorized personnel only. This personnel can only access the information through a series of access-control procedures. All McAfee.com employees are briefed about the company's privacy and security policies on a regular basis. The McAfee.com Web site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. 
-
-**Notification of Changes**   
-If we change our privacy policy, we will post a notice on our site so our users are aware of the change in what information we collect, how we use it, and/or under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice as to whether or not we use their previously submitted information in this different manner. Users may choose to have their information used in accordance with the privacy policy under which the information was collected.
+**Notification of Changes**  
+If we make a change to our privacy policy, we will post a notice on our site so our users are aware of the change. If we make a significant change to the way we use, treat or disclose personal information, we will notify users by email. 
