@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schoollibraryjournal.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606151143id_/http%3A//www.schoollibraryjournal.com/index.asp%3Flayout%3Ddocument%26doc_id%3D111263%26crumb%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoollibraryjournal.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204224858id_/http%3A//www.schoollibraryjournal.com/info/CA446428.html) for the most accurate reproduction.*
 
-# School Library Journal | Reed Business Information
+# School Library Journal document
 
 Last updated: July 17, 2002
 
@@ -110,7 +110,7 @@ Typically, an opt out request will be specific to a particular service or produc
 
 Any opt out request will only be effective after a reasonable period of time for processing.
 
- **Links**
+**Links**
 
 * * *
 
