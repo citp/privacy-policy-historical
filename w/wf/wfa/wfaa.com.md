@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402042912id_/http%3A//www.wfaa.com/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010032747id_/http%3A//www.wfaa.com/registration/privacy) for the most accurate reproduction.*
 
 # WFAA.com | News for Dallas-Fort Worth, Texas | Privacy Policy
 
@@ -91,7 +91,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1\. Enter (or click) [_http://signin.dallasnews.com_](http://signin.dallasnews.com/) in your browser.  
+1\. Enter (or click) [_http://www.wfaa.com/sharedcontent/registration/membercenter.jsp_](http://www.wfaa.com/sharedcontent/registration/membercenter.jsp) in your browser.  
 2\. Sign in by entering your e-mail address and password. Your account information will then be displayed.  
 3\. To change your contact options select "Contact Options," make your selections, and submit the form.  
 4\. To remove your registration profile from our database, select "Delete My Account," make your selections, and submit the form.
@@ -114,12 +114,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/974063472/Position1/default/empty.gif/7a2f4868346c3479312f6b4142314a61?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/1188964490/Position1/default/empty.gif/7a2f486f65563479312f73414453696a?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/2047810649/Position4/default/empty.gif/7a2f4868346c3479312f6b4142314a61?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/1906555942/Position4/default/empty.gif/7a2f486f65563479312f73414453696a?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/807632371/Position5/default/empty.gif/7a2f4868346c3479312f6b4142314a61?x)
-
-[](https://web.archive.org/classifieds)
-
-Search local ads and more!
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/471928125/Position5/default/empty.gif/7a2f486f65563479312f73414453696a?x)
