@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206093207id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413072929id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
 
 # PSX Extreme - Privacy Policy -
 
@@ -109,17 +109,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 |  |  |    
   
-
-
 |  | 
-
-**Free Newsletter**
-
-|   
----|---|---  
-  
-  
-| 
 
 **Hot DVD Deal**
 
