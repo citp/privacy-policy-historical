@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babylon.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023917id_/http%3A//babylon.com/display.php%3Fid%3D62%26tree%3D145%26level%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylon.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208221256id_/http%3A//babylon.com/display.php%3Fid%3D62%26tree%3D145%26level%3D2) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -19,8 +19,8 @@ Users should also be aware of the following:
 
 a. The details users elect to post during the registration procedure or thereafter become the property of Babylon upon receipt by Babylon;
 
-b. Babylon checks for the following information when using Babylon software: your operating system, Babylon Software version, browser version, connectivity, and information regarding your use and the configuration of the Babylon Software ("Parameters") . Parameters are collected in order to provide you with the Software and Services subject to the provisions hereof;
+b. Babylon checks for the following information when using Babylon software: your operating system, Babylon Software version, browser version, connectivity, and information regarding your use and the configuration of the Babylon Software ("Parameters") . Parameters are collected in order to provide you with the Software and Services subject to the provisions of this privacy policy hereof and of the Babylon's License Agreement (the "License"), as well as in order to verify that the terms and conditions of the License are not being violated;
 
-c. Babylon gathers information related to our users' use of the our Software (''Usage Patterns'') to better understand how such users, as a group, use the software and the various features thereof, as well as to help Babylon tailor offerings to user groups with specific profiles, and to conduct market research. The Parameters and the Usage Patterns may be used in the aggregate for commercial purposes, including without limitation, for marketing, co-registration to other services, promotional activities or any other activity, all subject to the provisions herein.
+c. Babylon gathers information related to our users' use of the our Software (''Usage Patterns'') to better understand how such users, as a group, use the software and the various features thereof, as well as to help Babylon tailor offerings to user groups with specific profiles, and to conduct market research. The Parameters and the Usage Patterns may be used in the aggregate for commercial purposes, including without limitation, for marketing, co-registration to other services, promotional activities or any other activity, including, without limitation, the protection of Babylon's proprietary and other rights all subject to the provisions herein.
 
 Questions about this privacy statement should be directed to [privacy@babylon.com](mailto:privacy@babylon.com).
