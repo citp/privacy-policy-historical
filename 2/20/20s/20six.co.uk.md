@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20six.co.uk privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211023111id_/http%3A//www.20six.co.uk/legal/datenschutz.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20six.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308112742id_/http%3A//www.20six.co.uk/legal/datenschutz.htm) for the most accurate reproduction.*
 
 # 20six — Get your own Weblog. Blogging by SMS, MMS or E-Mail, too.
 
