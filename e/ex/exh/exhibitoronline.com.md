@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exhibitoronline.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609191208id_/http%3A//www.exhibitornet.com/misc/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exhibitoronline.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203114927id_/http%3A//www.exhibitoronline.com/misc/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # EXHIBITOR MAGAZINE ONLINE
 
