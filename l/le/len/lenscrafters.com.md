@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenscrafters.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602192553id_/http%3A//lenscrafters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenscrafters.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202150208id_/http%3A//www.lenscrafters.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Our site sometimes includes notices of promotions we are conducting, and we may 
 
 Like many companies, we use "cookie" technology on our website. We may use a temporary "session cookie" during an individual visit to our site; these temporary cookies are eliminated when you exit your browser. Another type of cookie can be stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. We do use the cookie to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want. 
 
-LensCrafters uses pixels, or transparent GIF files, to help manage our online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to[http://www.doubleclick.net/us/corporate/privacy]. **If you have questions about our Privacy Policy, contact us at:**
+**If you have questions about our Privacy Policy, contact us at:**
 
 Attn: Legal Department  
 LensCrafters  
