@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiegoreader.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331120939id_/http%3A//www.sdreader.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegoreader.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204171752id_/http%3A//www.sdreader.com/privacy.html) for the most accurate reproduction.*
 
 # San Diego Reader Online | www.sdreader.com
 
