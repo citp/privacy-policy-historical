@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610143933id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208195602id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use) for the most accurate reproduction.*
 
 # Contact Us : Privacy Policy & Terms of Use -- Philly.com
 
@@ -34,7 +34,7 @@ Please check the registration screens applicable to the service, promotion, or p
 
 **Who does KRD share information with?**
 
-User information is shared within KRD in order to provide you with a more integrated and customized user experience. In general, we will not disclose your personally identifiable information to third parties except to the extent necessary to provide you with a requested product or service. 
+User information is shared within KRD in order to provide you with a more integrated and customized user experience. We will not disclose your personally identifiable information to third parties except (1) to the extent necessary to provide you with a requested product or service, or (2) in order to provide targeted promotional offers during the registration process. If you do not accept any of the offers, your information will not be retained by our registration offers partner. 
 
 To the extent you are notified of uses of your personal information which are different from those described in this Policy Statement during your enrollment in any particular service, sweepstakes, contest or promotion, the uses of which you are specifically notified will govern that service, sweepstakes, contest or promotion. 
 
@@ -50,7 +50,7 @@ Please remember that protection of your privacy begins with you. You are solely 
 
 **PRIVACY PROTECTION FOR CHILDREN.** In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to KRD sites to persons under the age of thirteen (13). If KRD later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to KRD sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis. 
 
-Acceptance of Privacy Policy. By using KRD sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of KRD sites. We reserve the right, to modify this Privacy Statement at any time. Your continued use of any portion of KRD sites following notification or posting of such changes, will constitute your accept of those changes. If you have questions or concerns about our specific policies, please contact us through our [feedback form](https://web.archive.org/web/20040610143933id_/http://www.philly.com/mld/philly/contact_us/feedback/). 
+Acceptance of Privacy Policy. By using KRD sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of KRD sites. We reserve the right, to modify this Privacy Statement at any time. Your continued use of any portion of KRD sites following notification or posting of such changes, will constitute your accept of those changes. If you have questions or concerns about our specific policies, please contact us through our [feedback form](https://web.archive.org/web/20041208195602id_/http://www.philly.com/mld/philly/contact_us/feedback/). 
 
 **Want more information? Check out these helpful links...**
 
