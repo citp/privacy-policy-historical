@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.co.za privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206232319id_/http%3A//cheapflights.co.za/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.za privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311231434id_/http%3A//www.cheapflights.co.za/misc/privacy.html) for the most accurate reproduction.*
 
 # Cheap Flights South Africa: Privacy policy
 
@@ -7,7 +7,7 @@
 
 Our website is located at [www.cheapflights.co.za](http://www.cheapflights.co.za/). 
 
-We invite you to [contact us](https://web.archive.org/web/20041206232319id_/http%3A//cheapflights.co.za/misc/feedback.html) if you have questions about this policy.
+We invite you to [contact us](https://web.archive.org/web/20050311231434id_/http%3A//www.cheapflights.co.za/misc/feedback.html) if you have questions about this policy.
 
 You may contact us by mail at the following address: 
 
