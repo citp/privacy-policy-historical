@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804175949id_/http%3A//www.pull-ups.com/na/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305040921id_/http%3A//www.pull-ups.com/na/help/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# HUGGIES PULL-UPS - Privacy Policy - HUGGIES PULL-UPS TRAINING PANTS
 
 | [](https://web.archive.org/na/images/spacer35.gif) | This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below. 
 
