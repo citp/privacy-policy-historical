@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passports.gov.au privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604024610id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passports.gov.au privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203011036id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The Department - Australian Department of Foreign Affairs and Trade
 
