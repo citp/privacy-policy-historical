@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nus.edu privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618152719id_/http%3A//www.nus.edu/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.edu privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053047id_/http%3A//nus.edu/corporate/privacy.htm) for the most accurate reproduction.*
 
 # NUS: Legal
 
-|   |  | [Disclaimer](https://web.archive.org/web/20030618152719id_/http%3A//www.nus.edu/corporate/legal.htm)  
+|   |  | [Disclaimer](https://web.archive.org/web/20031205053047id_/http%3A//nus.edu/corporate/legal.htm)  
 ---|---|---  
-  |  | [Copyright](https://web.archive.org/web/20030618152719id_/http%3A//www.nus.edu/corporate/copyright.htm)  
-  |  | [Privacy](https://web.archive.org/web/20030618152719id_/http%3A//www.nus.edu/corporate/privacy.htm)  
-  |  | [Non-discrimination Statement ](https://web.archive.org/web/20030618152719id_/http%3A//www.nus.edu/corporate/nondiscrim.htm)  
+  |  | [Copyright](https://web.archive.org/web/20031205053047id_/http%3A//nus.edu/corporate/copyright.htm)  
+  |  | [Privacy](https://web.archive.org/web/20031205053047id_/http%3A//nus.edu/corporate/privacy.htm)  
+  |  | [Non-discrimination Statement ](https://web.archive.org/web/20031205053047id_/http%3A//nus.edu/corporate/nondiscrim.htm)  
   | 
 
 #### National University of Singapore Privacy Statement
