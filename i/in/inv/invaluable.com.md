@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810100003id_/http%3A//www.invaluable.com/invaluable/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607204347id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Invaluable > About Invaluable > Privacy Policy
 
@@ -89,7 +89,7 @@ Invaluable provides you with the opportunity to opt-out of receiving communicati
 Invaluable provides the following options for telling us about your preferences, for example that you do not want to receive email from us: 
 
   * You can email us at [register@invaluable.com](mailto:register@invaluable.com)
-  * You can send a letter to us at the following postal address: Invaluable, Mill Court, Furrlongs, Newport, Isle of Wight, England PO30 2AA 
+  * You can send a letter to us at the following postal address: Invaluable Ltd., Mill Court, Furrlongs, Newport, Isle of Wight, PO30 2AA , United Kingdom. 
   * You can call the following telephone number: +44 0800 018 0209, or +44 01983 826 000 or fax us at +44 01983 826 206. 
 
 
@@ -101,7 +101,7 @@ Removal requests will be made within 10 working days of the request.
 Invaluable provides the following options for changing and updating information you have previously provided to us: 
 
   * You can email us at [register@invaluable.com](mailto:register@invaluable.com)
-  * You can send a letter to us at the following postal address: Invaluable, Mill Court, Furrlongs, Newport, Isle of Wight, England PO30 2AA 
+  * You can send a letter to us at the following postal address: Invaluable Ltd., Mill Court, Furrlongs, Newport, Isle of Wight, England PO30 2AA 
   * You can call us on the following telephone number: +44 0800 018 0209, or +44 01983 826 000 or fax us at +44 01983 826 206.
 
 
@@ -110,9 +110,9 @@ Change requests will be made within 10 working days of your request.
 
 #### 7\. Invaluable details
 
-This web site is operated by Invaluable Group Limited a company registered in England and Wales (registered number 3943402) whose registered office is at: Invaluable, Catherine House, 76 Gloucester Place, London W1H 4DQ. 
+This web site is operated by Invaluable Group Limited a company registered in England and Wales (registered number 3943402) whose registered office is at: Invaluable Ltd., The Mews, 1a Birkenhead Street, London, WC1H 8BA.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Invaluable, you can contact Invaluable by email at [register@invaluable.com](mailto:register@invaluable.com) or write to us at Invaluable, Mill Court, Furrlongs, Newport, Isle of Wight, England PO30 2AA. You may also use this address if you wish to request from Invaluable a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Invaluable, you can contact Invaluable by email at [register@invaluable.com](mailto:register@invaluable.com) or write to us at Invaluable Ltd., Mill Court, Furrlongs, Newport, Isle of Wight, PO30 2AA, United Kingdom. You may also use this address if you wish to request from Invaluable a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
 
 #### 8\. Data Protection Act Registration
 
