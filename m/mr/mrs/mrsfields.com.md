@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816000830id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604131311id_/http%3A//mrsfields.com/privacy) for the most accurate reproduction.*
 
 # Mrs. Fields Cookies
 
@@ -41,7 +41,7 @@ Salt Lake City, Utah 84115
 [nicoler@mrsfields.com.com](mailto:nicoler@mrsfields.com.com)  
 
 
-© 2000 Mrs. Fields Cookies, Inc.  
+© 2001 Mrs. Fields Cookies, Inc.  
 All rights reserved  
 1-800-COOKIES  
 
