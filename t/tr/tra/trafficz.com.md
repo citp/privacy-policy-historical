@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficz.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610180326id_/http%3A//trafficz.com/privacy.asp%3Fo%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficz.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205014347id_/http%3A//www.trafficz.com/privacy.asp%3Fo%3D) for the most accurate reproduction.*
 
 # TrafficZ.com- Paid Domain Parking
 
