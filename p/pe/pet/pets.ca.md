@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets.ca privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082016id_/http%3A//www.pets.ca/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets.ca privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305123642id_/http%3A//www.pets.ca/help/privacy.html) for the most accurate reproduction.*
 
 # Pets.ca - privacy statement
 
@@ -46,9 +46,9 @@ If you have any questions about this privacy statement, the practices of this si
    
   
 [  
-**Heart ID Tag**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=11)  
+**TRIPLE DOG LEASH HOOK**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=74)  
   
    
   
 [  
-**Paw ID Tag**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=14)
+**Black Lab Magnet (Package of 2)**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=81)
