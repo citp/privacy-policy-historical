@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolquiz.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604024937id_/http%3A//www.coolquiz.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolquiz.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604032257id_/http%3A//coolquiz.com/Network/privacy_statement.asp) for the most accurate reproduction.*
 
-# Terms and Conditions
+# 
 
 The Cool Quiz Network, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for all web sites that incorporate the Cool Quiz Network.
 
@@ -36,6 +36,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Cool Quiz Network, Inc.  
-2943 Rushland Rd.  
-Jamison, PA  18929  
 email: [webmaster@coolquiz.net](mailto:webmaster@coolquiz.net)
