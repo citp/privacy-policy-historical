@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutstuff.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206215053id_/http%3A//www.scoutstuff.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutstuff.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621100004id_/http%3A//www.scoutstuff.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.scoutstuff.org
 
