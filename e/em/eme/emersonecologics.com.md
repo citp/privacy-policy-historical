@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210021214id_/http%3A//www.emersonecologics.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308230945id_/http%3A//www.emersonecologics.com/Privacy.asp) for the most accurate reproduction.*
 
 # Emerson Ecologics - Privacy Statement
 
@@ -53,6 +53,6 @@ If you have any questions about this privacy statement, the practices of this si
 * These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. 
 
 Please read our [privacy statement](https://web.archive.org/Privacy.asp).  
-Copyright © 1997-2004. Emerson Ecologics, Inc.  All rights reserved.  
+Copyright © 1997-2005. Emerson Ecologics, Inc.  All rights reserved.  
 phone: 1-800-654-4432  e-mail: [cs@emersonecologics.com](mailto:cs@emersonecologics.com)  
 [www.emersonecologics.com](http://www.emersonecologics.com/)
