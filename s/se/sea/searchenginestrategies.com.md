@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the searchenginestrategies.com privacy policy that was archived on 2004-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040113091010id_/http%3A//internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginestrategies.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230041116id_/http%3A//internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Jupitermedia Privacy Policy
 
   
 Jupitermedia Corporation Privacy Policy
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Jupitermedia, (“JUPM”). (The JUPM Network includes all Web sites and certain other Internet media properties hyper linked from the Jupitermedia home page.) The following discloses our Privacy Policy. 
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, JupiterImages Corporation and Hemera Technologies Inc., (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties hyper linked from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
 
 **What information are you collecting and how are you collecting it?**
 
@@ -71,13 +71,13 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
  **Your Consent To This Agreement**
 
-By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-Please send any questions about JUPM’s Privacy Policy to: [privacy@internet.com](mailto:privacy@internet.com)
+Please send any questions about JUPM's Privacy Policy to: [privacy@jupitermedia.com](mailto:privacy@jupitermedia.com)
 
-Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.internet.com/corporate/legal.html). 
+Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
+
+* * *
 
   
-[Legal Notices](http://www.internet.com/corporate/legal.html),  [Licensing](http://www.internet.com/corporate/reprints.html#Licensing1), [Reprints](http://www.internet.com/corporate/reprints.html#Reprints1), & [Permissions](http://www.internet.com/corporate/reprints.html#Permissions),  [Privacy Policy](http://www.internet.com/corporate/privacy/privacypolicy.html).   
-[](http://www.earthweb.com/)   
-[](http://www.internet.com/)
+
