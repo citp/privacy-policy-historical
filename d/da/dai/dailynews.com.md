@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynews.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605041914id_/http%3A//dailynews.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynews.com privacy policy that was archived on 2002-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020905234356id_/http%3A//dailynews.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Dailynews.com: The Los Angeles Daily News Online
 
