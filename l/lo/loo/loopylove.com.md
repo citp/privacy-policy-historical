@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# LoopyLove : the UK's FIRST FREE online dating site
+# LoopyLove
 
 | 
 
@@ -44,25 +44,25 @@ No transfers of your personal data are currently made outside of the European Ec
   8. **GOVERNING LAW AND DISPUTES**   
 This policy and consent forms part of our website terms of use and as such it shall be governed by and construed in accordance with the laws of England and Wales. You irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or claim of whatever nature arising out of or relating to this policy and consent or otherwise to the use of your personal data, and that the laws of England and Wales shall govern such dispute or claim. However, we retain the right to bring legal proceedings in any jurisdiction where we believe that infringement of our intellectual property rights or breach of those terms is taking place or originating. You are responsible for compliance with any applicable laws and regulations of the jurisdiction from which you are accessing this website. We operate this website from England and make no representation or warranty that the information contained herein is appropriate or available for use in other locations outside England and Wales. 
 
-If you have any questions or comments about our privacy policy, please send [feedback](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=feedback). 
+If you have any questions or comments about our privacy policy, please send [feedback](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=feedback). 
 
 | 
 
 |  |   
 ---  
-[](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=register)  
-[](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=offensive&offensiveuuid=3C4B27AA-A559-4C10-B1DAF6283AEF731C&content=picture&contentid=1363&lookedatplayeruuid=A2E93E44-6B82-43DA-B99EC0CB15DC0DB0&lookedatplayerid=6280)  
-[SCORPIO61](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=register)  
-to find that someone special   
-[](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=register)  
-[](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=offensive&offensiveuuid=3C4B27AA-A559-4C10-B1DAF6283AEF731C&content=picture&contentid=372&lookedatplayeruuid=EAC0107D-2927-4194-8A0E5DC4910B44BE&lookedatplayerid=1863)  
-[LINS](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=register)  
-Devon UK, Fun Fun Fun   
-[](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=register)  
-[](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=offensive&offensiveuuid=3C4B27AA-A559-4C10-B1DAF6283AEF731C&content=picture&contentid=1273&lookedatplayeruuid=7D8509C3-282F-414E-89C2CB4AE4FE79DA&lookedatplayerid=6342)  
-[DUTTIE](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=register)  
-tru thug luv love forb someone to wine dine   
-[](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=register)  
-[](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=offensive&offensiveuuid=3C4B27AA-A559-4C10-B1DAF6283AEF731C&content=picture&contentid=1372&lookedatplayeruuid=5AE2C25B-B247-439C-9BF26AE9853081D3&lookedatplayerid=344)  
-[MARKYBOY123](https://web.archive.org/web/20030601071615id_/http%3A//www.loopylove.com/index.cfm?action=register)  
-I need something more 
+[](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=register)  
+[](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=offensive&offensiveuuid=80823A5E-A7F7-436F-AC19E7E17892B358&content=picture&contentid=15826&lookedatplayeruuid=77186FAA-670C-41C4-AD783159D9975A3D&lookedatplayerid=44825)  
+[BEERBABE876](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=register)  
+me on the left hand side   
+[](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=register)  
+[](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=offensive&offensiveuuid=80823A5E-A7F7-436F-AC19E7E17892B358&content=picture&contentid=15830&lookedatplayeruuid=216A2E17-6D85-4648-9514285F3562D588&lookedatplayerid=44838)  
+[STEWI](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=register)  
+im 5"11 have brown hair and eyes. average build   
+[](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=register)  
+[](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=offensive&offensiveuuid=80823A5E-A7F7-436F-AC19E7E17892B358&content=picture&contentid=15831&lookedatplayeruuid=98929214-A59E-431B-9A6B36B854334ACA&lookedatplayerid=38051)  
+[SIRANDRE](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=register)  
+Try anything once, Just looking for a good time.......   
+[](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=register)  
+[](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=offensive&offensiveuuid=80823A5E-A7F7-436F-AC19E7E17892B358&content=picture&contentid=15832&lookedatplayeruuid=15850AEF-EDDC-4EA7-AE396A8CAE227E8C&lookedatplayerid=44834)  
+[MATCH?](https://web.archive.org/web/20031008063728id_/http%3A//www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=7CCD203E-F344-438D-B6372FB18EFA2E6D&action=register)  
+Looking for fun, adventure nd excitment? 
