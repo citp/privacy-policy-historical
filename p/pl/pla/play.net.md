@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601111725id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212010241id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
 
 # play.net >> Privacy Policy
 
@@ -53,4 +53,4 @@ This site gives users the following options for removing their information from 
 >  Simutronics Corporation  
 >  1500 Wall Street  
 >  St. Charles, MO 63303   
->  [webentity@simutronics.com](mailto:webentity@simutronics.com)
+>  [webmaster@simutronics.com](mailto:webmaster@simutronics.com)
