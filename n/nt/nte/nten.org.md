@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620063354id_/http%3A//216.122.116.160/nten/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816234914id_/http%3A//216.122.116.160/nten/privacystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
