@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215145543id_/http%3A//www.mazda.com.au/articleZone.asp%3FarticleZoneID%3D105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621061527id_/http%3A//mazda.com.au/articleZone.asp%3FarticleZoneID%3D105) for the most accurate reproduction.*
 
 # Mazda Australia web site
 
@@ -83,7 +83,7 @@ Personally identifiable information provided to Mazda through its Website is pro
   
 Each visitor has the right of access to personal data that they have submitted to Mazda.
 
-User updates of information should, in the first instance, be addressed to the privacy officer at [privacy@mazda.com.au](https://web.archive.org/web/20021215145543id_/http%3A//www.mazda.com.au/%22mailto:privacy@mazda.com.au%22). Inquiries about the accuracy of identifying information previously submitted to Mazda through its web site, or requests to have outdated information removed, should be directed to: [cservice@mazda.com.au](https://web.archive.org/web/20021215145543id_/http%3A//www.mazda.com.au/%22mailto:cservice@mazda.com.au%22). Mazda is committed to providing reasonable and practical access to visitors to allow them the opportunity to identify and correct any inaccuracies. When requested, Mazda will suppress identifying information from current operational systems for the purpose of mailings or other communications except in case of recall or similar matters.
+User updates of information should, in the first instance, be addressed to the privacy officer at [privacy@mazda.com.au](https://web.archive.org/web/20030621061527id_/http%3A//mazda.com.au/%22mailto:privacy@mazda.com.au%22). Inquiries about the accuracy of identifying information previously submitted to Mazda through its web site, or requests to have outdated information removed, should be directed to: [cservice@mazda.com.au](https://web.archive.org/web/20030621061527id_/http%3A//mazda.com.au/%22mailto:cservice@mazda.com.au%22). Mazda is committed to providing reasonable and practical access to visitors to allow them the opportunity to identify and correct any inaccuracies. When requested, Mazda will suppress identifying information from current operational systems for the purpose of mailings or other communications except in case of recall or similar matters.
 
 When personally identifiable information is retained, Mazda assumes responsibility for keeping an accurate record of the information once a visitor has submitted and verified their own information. Mazda does not assume responsibility for verifying the ongoing accuracy of the content of personal information. When practically possible, if Mazda is informed that any personal data collected is no longer accurate, Mazda will make appropriate corrections based on the updated information provided by the customer.  
   
@@ -97,7 +97,7 @@ Mazda has implemented generally accepted standards of technology and operational
   
 Mazda reserves the right to modify or amend this Statement at any time and for any reason. Nothing contained in this Statement is intended to create a contract or agreement by Mazda.
 
-In order to keep visitors informed, Mazda will notify users of changes to our Privacy Statement. We will do this by identifying the alteration for a period of not less than two weeks on our home page at [www.mazda.com.au](https://web.archive.org/web/20021215145543id_/http%3A//www.mazda.com.au/%22http://www.mazda.com.au%22) and identifying the effective date at the beginning of such statements.  
+In order to keep visitors informed, Mazda will notify users of changes to our Privacy Statement. We will do this by identifying the alteration for a period of not less than two weeks on our home page at [www.mazda.com.au](https://web.archive.org/web/20030621061527id_/http%3A//mazda.com.au/%22http://www.mazda.com.au%22) and identifying the effective date at the beginning of such statements.  
   
 10\. Children's online privacy protection  
 ---  
@@ -107,4 +107,4 @@ Mazda understands the importance of protecting children's privacy especially in 
 11\. Contact our Privacy Officer  
 ---  
   
-We welcome your inquiries or comments about our privacy statement and any queries or concerns that you may have about any Mazda points of contact. You may direct these to our Privacy Officer at [privacy@mazda.com.au](https://web.archive.org/web/20021215145543id_/http%3A//www.mazda.com.au/%22mailto:privacy@mazda.com.au%22) or alternatively to Private Bag 323, Mount Waverley BC, Victoria 3149. 
+We welcome your inquiries or comments about our privacy statement and any queries or concerns that you may have about any Mazda points of contact. You may direct these to our Privacy Officer at [privacy@mazda.com.au](https://web.archive.org/web/20030621061527id_/http%3A//mazda.com.au/%22mailto:privacy@mazda.com.au%22) or alternatively to Private Bag 323, Mount Waverley BC, Victoria 3149. 
