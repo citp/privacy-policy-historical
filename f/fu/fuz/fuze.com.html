@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fuze.com privacy policy that was archived on 2004-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040622070540id_/http%3A//www.fuzeqna.com/fuzeds/consumer/kbdetail.asp%3Fkbid%3D105%26ao%3Dt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fuze.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208225232id_/http%3A//www.fuzeqna.com/fuzeds/consumer/kbdetail.asp%3Fkbid%3D105%26ao%3Dt) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
@@ -44,6 +44,14 @@ FONT-SIZE: 8pt
 COLOR: #FFFFFF;
 FONT-FAMILY: Verdana;
 FONT-SIZE: 10pt;
+FONT-WEIGHT: bold
+}
+
+.whitelabelsmall
+{
+COLOR: #FFFFFF;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
 FONT-WEIGHT: bold
 }
 
@@ -167,6 +175,24 @@ FONT-WEIGHT: bold;
 text-decoration: none; 
 }
 
+A.pageskiplinksmall:Visited
+{
+color:#FFFFFF;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
+FONT-WEIGHT: bold;
+text-decoration: none; 
+}
+
+A.pageskiplinksmall:Link
+{
+color:#FFFFFF;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
+FONT-WEIGHT: bold;
+text-decoration: none; 
+}
+
 A.mainnavlink
 {
 color: 000000;
@@ -228,13 +254,309 @@ text-decoration: underline;
 
 
 
+
 <script language="JavaScript">
-<!--
+//Description	: Shared javascript validation
+//Last Modified	: S.Wijaya [02/21/2001]
+//Main Changes	: Comments
+
+function showParticipantDetail(iParticipantID)
+{	
+	document.mainform.show.value += "|" + iParticipantID + "|";
+	document.mainform.mode.value = "show";
+	document.mainform.submit();
+}
+
+function hideParticipantDetail(iParticipantID)
+{
+	var startval, valtakeout, beg, end;
+		
+	startval = document.mainform.show.value;
+	valtakeout = "|" + iParticipantID + "|";
+		
+	if (startval.indexOf(valtakeout) != -1) 
+	{
+		beg = startval.substring(0, startval.indexOf(valtakeout));
+		end = startval.substring(startval.indexOf(valtakeout) + valtakeout.length, startval.length);
+		document.mainform.show.value = beg + end;
+	}
+	document.mainform.mode.value = "hide";
+	document.mainform.submit();
+}
+
+function IsNumeric(val) {
+
+	var re = /[A-Za-z]+/
+	var stringFound = val.match(re);
+		
+	if (stringFound) 
+	{
+		return false;
+	}
+	return true;
+}
+
+function getYear(d) { 
+  return (d < 1000) ? d + 1900 : d;
+  }
+
+
+function IsDate(val) {
+	var year,month,day;
+	
+	sDate = val.split("/")
+	if (sDate.length < 3) {
+		return false;
+	}
+	
+	month = parseInt(sDate[0], 10)
+	day = parseInt(sDate[1], 10)
+	year = parseInt(sDate[2], 10)
+	
+	// month argument must be in the range 1 - 12
+	month = month - 1;  // javascript month range : 0- 11
+	var tempDate = new Date(year,month,day);
+	if ( (getYear(tempDate.getYear()) == year) &&
+		(month == tempDate.getMonth()) &&
+		(day == tempDate.getDate()) )
+		return true;
+	else
+		 return false
+}
+
+function IsDateNoYear(val) {
+	var year,month,day;
+	
+	sDate = val.split("/")
+	if (sDate.length < 2) {
+		return false;
+	}
+	
+	month = parseInt(sDate[0], 10)
+	day = parseInt(sDate[1], 10)
+	if (sDate.length > 2) {
+		year = parseInt(sDate[2], 10)
+	} else {
+		year = new Date().getYear();
+	}
+	// month argument must be in the range 1 - 12
+	month = month - 1;  // javascript month range : 0- 11
+	var tempDate = new Date(year,month,day);
+	if ( (getYear(tempDate.getYear()) == year) &&
+		(month == tempDate.getMonth()) &&
+		(day == tempDate.getDate()) )
+		return true;
+	else
+		 return false
+}
+
+function IsZipCodeValid(sZipcode)
+{
+	var re = new RegExp("^[A-Z a-z-0-9]*$","i");
+	var stringFound = sZipcode.match(re);
+
+	//Display error message if the pattern was not found
+	if (!stringFound) 
+	{
+		return false;
+	}
+	return true;
+}
+
+function IsStateValid(sState)
+{
+	var re = new RegExp("^[A-Z a-z-0-9]*$","i");
+	var stringFound = sState.match(re);
+
+	//Display error message if the pattern was not found
+	if (!stringFound) 
+	{
+		return false;
+	}
+	return true;
+}
+
+function IsPhoneValid(sPhone)
+{
+	var counttemp = sPhone.replace(/[^0-9]+/g,'');
+	
+	var re = new RegExp("^[0-9( )-]*$","i");
+	var stringFound = sPhone.match(re);
+
+	//Display error message if the pattern was not found
+	if (!stringFound || (counttemp.length < 10))
+	{
+		return false;
+	}
+	return true;
+}
+
+function IsEmailValid(sEmail)
+{
+	var EmailOk  = true;
+	var str = new String(sEmail)
+	
+	if (str.substr(0,1) == '[' && str.substr(str.length-1,1) == ']') {
+		return true;
+	}
+	//var re = new RegExp("^[a-zA-Z0-9]+[a-zA-Z_0-9.]*[@]{1}[a-zA-Z_0-9]+[.]{1}[a-zA-Z_0-9]+[a-zA-Z_0-9.]*[a-zA-Z0-9]{1}$");
+	var re = new RegExp("^[a-zA-Z0-9]+([a-zA-Z_0-9.]|(-))*[@]{1}([a-zA-Z_0-9]|(-))+[.]{1}[a-zA-Z_0-9]+([a-zA-Z_0-9.]|(-))*[a-zA-Z0-9]{1}$");
+	var stringFound = sEmail.match(re);
+
+	//Display error message if the pattern was not found
+	if (!stringFound) {
+		EmailOk = false;
+	}
+	return EmailOk
+}
+
+function IsPasswordValid(sPassword)
+{
+	var bRepeated = true;
+	var i;
+	var sPrevChar="";
+	
+	for(i=0;i<sPassword.length;i++)
+	{
+		if((sPrevChar != "") && (sPrevChar != sPassword.substr(i,1)))
+		{
+			bRepeated = false;
+			break;
+		}
+		sPrevChar = sPassword.substr(i,1);
+	}
+	
+	if(sPassword.length < 6 || sPassword.length > 20 || bRepeated)
+	{
+		return false;
+	}
+	
+	var re = new RegExp("^[0-9a-zA-Z]*$","i");
+	var stringFound = sPassword.match(re);
+
+	//Display error message if the pattern was not found
+	if (!stringFound) 
+	{
+		return false;
+	}
+
+	return true;
+}
+
+function cat(ID, Desc, parent) 
+{
+	this.ID = ID
+	this.Desc = Desc
+	this.children = new Array()
+	this.parent = parent
+		
+}
+
+function IsValidURL(val)
+{
+	var re = /http:\/\/|https:\/\//
+	var stringFound = val.match(re);
+			
+	if (!stringFound)
+	{
+		return false;
+	}
+					
+	return true;
+}
+
+function IsValidURL(val)
+{
+	var re = /http:\/\/|https:\/\//
+	var stringFound = val.match(re);
+			
+	if (!stringFound)
+	{
+		return false;
+	}
+					
+	return true;
+}
+
+function prependDefaultProtocol(val)
+{
+	var re = /http:\/\/|https:\/\//
+	var stringFound = val.match(re);
+			
+	if (!stringFound)
+	{
+		return 'http://'+val;
+	}
+					
+	return val;
+}
+
+function checkTime(hour1, min1, half1, hour2, min2, half2)
+{
+	hour1 = parseInt(hour1)
+	min1 = parseInt(min1)
+	hour2 = parseInt(hour2)
+	min2 = parseInt(min2)
+	if (hour1 == 12) {
+		hour1 = 0;
+	}
+	if (hour2 == 12) {
+		hour2 = 0;
+	}
+	if (half2 == " AM" && half1 == " PM") {
+		return false;
+	} else if (half1 == " AM" && half2 == " PM") {
+		return true;
+	}
+	if (hour2 < hour1) {
+		return false;
+	} else {
+		return true;
+	}
+	return true;		
+}
+
+// whitespace characters
+      var whitespace = " \t\n\r";
+
+      /****************************************************************/
+
+      // Check whether string s is empty.
+      function isEmpty(s)
+      { return ((s == null) || (s.length == 0)) }
+
+      /****************************************************************/
+
+      function isWhitespace (s)
+      {
+           var i;
+
+           // Is s empty?
+           if (isEmpty(s)) return true;
+
+           // Search through string's characters one by one
+           // until we find a non-whitespace character.
+           // When we do, return false; if we don't, return true.
+
+           for (i = 0; i < s.length; i++)
+           {
+                // Check that current character isn't whitespace.
+                var c = s.charAt(i);
+
+                if (whitespace.indexOf(c) == -1) return false;
+           }
+
+           // All characters are whitespace.
+           return true;
+      }
+
+
+
 function submitalert(alertType)
 {
 	
 		if (confirm("You must log in to add an Alert. Click OK to log in or Cancel to return to the detail page.")) {
-			window.location = "../membership/consumer/login.asp?referer=" + escape("consumer/kbdetail.asp?kbid=105&action=" + alertType);
+			window.location = "../membership/consumer/login.asp?referer=" + escape("consumer/kbdetail.asp?kbid=105&formaction=" + alertType);
 			return false;
 		} else {
 			return false;
@@ -246,6 +568,16 @@ function popup(fileName)
 {
 	newwin = window.open(fileName,'myWindow','scrollbars=yes,status=no,toolbar=yes,resizable=yes,width=600,height=400')
 }
+
+function targetOpener(url)
+{
+	if (window.opener) 	{
+		window.opener.location = url;
+	} else {
+		window.location = url;
+	}
+}
+
 
 function validateSelect(elem, msg) 
 {
@@ -265,6 +597,24 @@ function validateSelect(elem, msg)
 	return true;
 
 }
+
+function Validation(){
+	//alert("validating...")
+	
+	var TestString
+	TestString = "3,4,5"
+	TestVal = document.mainform.question1[document.mainform.question1.selectedIndex].value
+	
+	if(TestString.indexOf(TestVal)>=0){
+		if(isWhitespace(document.mainform.surveycomments.value)){
+			alert("Please supply a comment with your rating.")
+			document.mainform.surveycomments.focus();
+			return false
+		}
+	}
+	
+	return true
+}
 //-->
 </script>
 
@@ -272,6 +622,65 @@ function validateSelect(elem, msg)
 
 
 <body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+
+
+<form name="frmSP">
+	<input type="hidden" name="SpellCheckMethod">
+	<input type="hidden" name="SpellCheckPopUpCreated">
+	<input type="hidden" name="SubmitTest">
+	<input type="hidden" name="FieldsToCheck" value="communitycomment">
+	<input type="hidden" name="NumFields" value="1">
+	<input type="hidden" name="ParentFormName" value="mainform">
+</form>
+<script language="javascript">
+<!--
+	function SetFieldsToCheck(FieldList){
+		document.forms.frmSP.FieldsToCheck.value = FieldList
+	}
+	
+	function SetParentFormName(sName){
+		document.forms.frmSP.ParentFormName.value = sName
+	}
+	
+	function SetNumFields(sNum){
+		document.forms.frmSP.NumFields.value = sNum
+	}
+
+	function ManualLaunchSpellCheck(){
+		var sURL
+		sURL = "../spellcheck/spellcheck_popup.asp?NumFields=" + document.frmSP.NumFields.value
+		document.forms.frmSP.SpellCheckMethod.value="manual"
+		SCWin = window.open(sURL,"SpellCheckWindow",'scrollbars=yes,status=no,width=700,height=500')
+		setTimeout('Init_SpellCheckPopUp();', 500)
+		return false
+	}
+	
+	function AutoSpellCheck(){
+		var sURL
+		sURL = "../spellcheck/spellcheck_popup.asp?NumFields=" + document.frmSP.NumFields.value
+		document.forms.frmSP.SpellCheckMethod.value="auto"
+		SCWin = window.open(sURL,"SpellCheckWindow",'scrollbars=yes,status=no,width=700,height=500')
+		setTimeout('Init_SpellCheckPopUp();', 500)
+		return false
+	}
+	
+	function Init_SpellCheckPopUp(){
+		if(document.forms.frmSP.SpellCheckPopUpCreated.value=="true"){
+			window.SCWin.document.mainform.SpellCheckMethod.value = document.frmSP.SpellCheckMethod.value
+		}else{
+			setTimeout('Init_SpellCheckPopUp();', 500)
+		}
+	}
+//-->
+</script>
+
+	<script language="javascript">
+	<!--
+		SetNumFields(1)
+		SetParentFormName("mainform")
+		SetFieldsToCheck("communitycomment")
+	//-->
+	</script>
 
 <script language="JavaScript">
 <!--
@@ -499,7 +908,7 @@ A.boldbluelink:visited
 			<td valign="top" width="1">
 				<table width="100%" cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
-						<td><img src="/fuzeds/images/spacer.gif" height="360" width="1" border="0"></td>
+						<td><img src="/fuzeds/images/spacer.gif" height="360" width="1" border="0" alt=""></td>
 					</tr>
 				</tbody></table>
 			</td>
@@ -509,8 +918,7 @@ A.boldbluelink:visited
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr><td><img src="../images/spacer.gif" width="1" height="15"></td></tr>
 			<tr><td>
-				<form name="mainform" id="mainform" method="post" action="kbdetail.asp?kbid=105">
-				<input type="hidden" name="action" value="survey">
+				<form name="mainform" id="mainform" method="post" action="kbdetail.asp?kbid=105" onsubmit="return Validation();">
 				<input type="hidden" name="kbid" value="105">
 				<input type="hidden" name="ap" value="">
 				<input type="hidden" name="ao" value="t">
