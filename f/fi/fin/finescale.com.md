@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201164517id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190617id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
 
 # KALMBACH PUBLISHING CO. - Information Practices
 
