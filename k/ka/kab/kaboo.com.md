@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaboo.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616143936id_/http%3A//www.kaboo.com/corporate/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaboo.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101061328id_/http%3A//www.kaboo.com/corporate/legal) for the most accurate reproduction.*
 
 # Kaboo.com : Search
 
