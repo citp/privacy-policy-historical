@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411175434id_/http%3A//dansdata.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204000307id_/http%3A//www.dansdata.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
-[ ](http://ads.websponsors.com/?u=5753&o=1238)
-
-[ ](http://ads.websponsors.com/?u=5753&o=1709)  
-[ ](http://www.websponsors.com/cgi-bin/referral.cgi?userid=5753)
-
-[](http://ads.clickagents.com/cgibin/refer.ca?drutter)  
-**[Earn money from your Web site!](http://ads.clickagents.com/cgibin/refer.ca?drutter)**
-
-[More **FREE** stuff than you can poke a stick at is at Free2Try.com!](http://free2try.com/?userid=5753)
-
-[ ](http://ads.websponsors.com/?u=5753&o=1592)  
-Want to make 15% per annum? [Be a Fool](http://ads.websponsors.com/?u=5753&o=1592), and get valuable financial [freebies](http://ads.websponsors.com/?u=5753&o=1592) too!
+[](https://web.archive.org/web/20011204000307id_/http%3A//www.dansdata.com/email.htm)  
+[**Give Dan some money!**](https://web.archive.org/web/20011204000307id_/http%3A//www.dansdata.com/email.htm)  
+(and no-one gets hurt)
 
 |  | Dan's Data has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for [Dan's Data](http://www.dansdata.com/).
 
