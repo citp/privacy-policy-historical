@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the incorporate.com privacy policy that was archived on 2002-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021210115307id_/http%3A//www.incorporate.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the incorporate.com privacy policy that was archived on 2003-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622034436id_/http%3A//incorporate.com/privacy.cfm) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>www.corporate.com: Incorporate Now!</title>
 	<meta name="Description" content="Incorporate Online. The Internet's Original Online Incorporating Service. Serving Entrepreneurs since 1899."> 
 	<meta name="keywords" content="incorporate, company corporation, incorporate online, incorporating, incorporating services, advantages of incorporating, how to form an llc, incorporation service, incorporate a business, l.l.c., how to incorporate, llc formation, limited liability company, llc, asset protection, incorporate small business, delaware corporation, entrepreneur, incorporate in delaware, home based business, tax shelter, de corporation, limited liability, business start up, forming a corporation, business services">
+
 
 
 
@@ -51,20 +52,22 @@
 			
 			
 			
+			
 		
 
+		
 
 		
 			
 				
 			
-			
-			
+
+				
+
 			
 				
 			
 		
-
 	
 
 
@@ -209,241 +212,173 @@ if (Get_Parm("tidal") == "yes") {
 
 </head>
 
+
+
 <body bgcolor="#ffffff" link="#003399" alink="#003399" vlink="#666666" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 
 
-<script language="JavaScript" type="text/javascript">
-
+<script language="JavaScript">
 <!--
+function gen_brochure_url(anchor) {
 
+	var partner_value = Get_Cookie("PARTNER");
+	var affiliate_value = Get_Cookie("AFFILIATE");
+
+	var anchor1 = "http://www.e-intelligenceport.com/TCC/CORPORATE/free_brochure_TCC.cfm";
+	var anchor2 = "<a href='http://www.e-intelligenceport.com/TCC/CORPORATE/free_brochure_TCC.cfm";
+	var anchor3 = "'>workbook</a>";
+	
+	var param = "";
+	
+	if (partner_value == "no") {
+	} else {
+		param = "?partner=" + escape(partner_value);
+	}
+	
+	if (affiliate_value == "no") {
+	} else {
+		if (param == "") {
+			param = "?affiliate=" + escape(affiliate_value);
+		} else {
+			param = param + "&affiliate=" + escape(affiliate_value);
+		}
+	}
+	
+	if (anchor == 0) {
+		return(anchor1 + param);
+	} else if (anchor == 1) {
+		return(anchor2 + param + anchor3);
+	} else {
+		return(anchor1 + param);
+	}
+	
+}
+//-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
      NS4 = (document.layers);
-
      IE4 = (document.all);
-
     ver4 = (NS4 || IE4);
-
 	IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
-
    isMac = (navigator.appVersion.indexOf("Mac") != -1);
-
   isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
 
-
-
 function popUp() {return};
-
 function popDown() {return};
-
 if (!ver4) event = null;
 
-
-
 //-->
-
 </script>
 
-
-
 <script language="JavaScript1.2" type="text/javascript">
-
 <!--
-
 if (isMenu) {
-
 	menuVersion = 3;
-
 	menuWidth = 155;
-
 	childOverlap = 20;
-
 	childOffset = 5;
-
 	perCentOver = null;
-
 	secondsVisible = .5;
-
 	fntCol = "black";
-
 	fntSiz = "8";
-
 	fntBold = false;
-
 	fntItal = false;
-
 	fntFam = "Arial,Helvetica";
-
 	backCol = "#ffffff";
-
 	overCol = "#FFCCCC";
-
 	overFnt = "000000";
-
 	borWid = 1;
-
 	borCol = "black";
-
 	borSty = "solid";
-
 	itemPad = 1;
-
 	imgSrc = "tri.gif";
-
 	imgSiz = 10;
-
 	separator = 1;
-
 	separatorCol = "black";
-
 	isFrames = false;
-
 	keepHilite = true; 
-
 	clickStart = false;
-
 	clickKill = false;
-
 }
-
 //-->
-
 </script>
 
-
-
 <script language="JavaScript1.2" type="text/javascript">
-
 <!--
-
 if (isMenu) {
-
 	arMenu1 = new Array(
-
 	142,
-
 	155,"206",
-
 	"#000000","#000000",
-
 	"#ffffff","#FFCC00",
-
 	"#000000","#000000",
-
 	"Advantages of Incorporating","inc_adv.cfm",0,
-
 	"Types of Corporations","corp_type.cfm",0,
-
 	"Choosing a State","choosestate.cfm",0,
-
 	"Packages and Prices","compare.cfm",0,
-
-	"Order Workbook","free_brochure.cfm",0,
-
+	"Order Workbook",gen_brochure_url(0),0,
 	"What is Registered Agent","registered_agent.cfm",0,
-
 	"FAQ's","faq.cfm",0
-
 	)
-
-
 
 	arMenu2 = new Array(
-
 	142,
-
 	"155","229",
-
 	"#000000","#000000",
-
 	"#ffffff","#FFCC00",
-
 	"#000000","#000000",
-
 	"FREE Trademark Search","trdmrk_search.cfm",0,
-
-	"Register Your Domain","bus_onl.cfm",0,
-
 	"Compliance Watch<sup>TM</sup>","run_bus17.cfm",0,
-
 	"Mail Forwarding","run_bus10.cfm",0,
-
 	"Tax-on-Time","run_bus3.cfm",0,
-
 	"SCORE Helps Small Business","score.cfm",0
-
 	)
 
-
-
 	arMenu3 = new Array(
-
 	142,
-
 	"155","252",
-
 	"#000000","#000000",
-
 	"#ffffff","#FFCC00",
-
 	"#000000","#000000",
-
 	"Books","dummies.cfm",0,
-
 	"Software","bplanpro.cfm",0,
-
-	"Business Credit","mbnajump.cfm",0)
-
-
+	"Business Credit","mbnajump.cfm",0,
+	"Starter Package","starter_kit.cfm",0)
 
 	arMenu4 = new Array(
-
 	142,
-
 	"155","290",
-
 	"#000000","#000000",
-
 	"#ffffff","#FFCC00",
-
 	"#000000","#000000",
-
 	"LIVE Chat","Javascript:enterLivePerson()",0,
-
 	"Email","",0,
-
 	"Call","",0)
-
 }
-
 //-->
-
 </script>
-
-
-
 
 
 <script language="JavaScript1.2" type="text/javascript">
-
 <!--
-
 if (isMenu) {
-
 document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='include/hierMenus.js'  TYPE='text/javascript'><\/SCRIPT>")
-
 }
-
 //-->
-
 </script>
 
 
 
+
+	
 
 
 	<table width="780" cellspacing="0" cellpadding="0" border="0">
 		<tbody><tr>
 			<td width="180" valign="top"><a href="index.cfm"><img src="img/nav_phone.gif" width="165" height="65" border="0"><img src="img/nav_logo_2.gif" width="15" height="65" border="0"></a></td>
-			<td align="left" height="65" width="599" valign="top"><table width="548" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="468" align="center" valign="middle"><img src="img/home_logo_small.gif" border="0"></td><td width="80" valign="bottom" align="right"><b>December 10, 2002</b></td></tr></tbody></table></td>
+			<td align="left" height="65" width="599" valign="top"><table width="548" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="468" align="center" valign="middle"><img src="img/home_logo_small.gif" border="0"></td><td width="80" valign="bottom" align="right"><b>June 21, 2003</b></td></tr></tbody></table></td>
 			<td width="1" bgcolor="#003399" rowspan="4"><img src="img/spacer.gif" width="1" height="1" border="0"></td>
 		</tr>
 		
@@ -455,9 +390,11 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='include/hierMenus.js'  TYP
 				<table width="165" cellspacing="0" cellpadding="0" border="0">
 					<tbody><tr>
 						<td valign="top" width="165">
+							
 								
 									<a href="https://www.corporate.com/inc1.cfm">
 								
+							
 									<img src="img/nav_incorporate.gif" width="180" height="59" border="0"></a><br>
 
 
@@ -498,10 +435,11 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='include/hierMenus.js'  TYP
 								<a class="menu" href="javascript:disable_enable(this)" onmouseover="popUp('elMenu3', event)" onmouseout="popDown('elMenu3')">Business Tools</a><br>
 								<img src="img/transparent.gif" height="8" border="0" width="20"><br>
 								<a class="menu" href="affiliate_index.cfm"><img src="img/affiliatenew.jpg" border="0">Affiliate Program</a><br>
+								
 								<img src="img/transparent.gif" height="8" border="0" width="20"><br>
 								<a class="menu" href="contact.cfm">Contact Us</a><br>
-								<img src="img/transparent.gif" height="8" border="0" width="20"><br>
 								
+								<img src="img/transparent.gif" height="8" border="0" width="20"><br>
 								<a class="menu" href="about.cfm">About Us</a><br>
 								<img src="img/transparent.gif" height="5" border="0" width="20"><br>
 							
@@ -510,15 +448,23 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='include/hierMenus.js'  TYP
 					
 					<tr>
 						<td width="5" bgcolor="#003399" align="right">
-							<img src="img/transparent.gif" height="32" border="0" width="5">
+							<img src="img/transparent.gif" height="10" border="0" width="5">
 						</td>
 					</tr>
 					
+					<tr>
+						<td colspan="2" align="center">
+							<br>
+							<a href="https://digitalid.verisign.com/as2/d10ab20955e33d75ea48fe16493c995c" target="new">
+							<img src="img/VeriSignSealTrans.gif" border="0"></a>
+						</td>
+					</tr>
 				</tbody></table>
 			</td>
 			<td valign="top" width="599">
 			<br>
 
+	
 
 
 <span class="title">Privacy Policy</span><br><br>
@@ -553,7 +499,7 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='include/hierMenus.js'  TYP
 			<center><br><br>
 				<div class="disclaimer">The Company Corporation is a service company and<br>does not offer legal or financial advice.</div>
 				<br><br>
-				<div class="copyright">© Copyright 1993-2002 The Company Corporation. All rights reserved.</div>
+				<div class="copyright">© Copyright 1993-2003 The Company Corporation. All rights reserved.</div>
 				<br>
 				<font size="1"><a href="privacy.cfm">Privacy Policy</a></font>
 				
