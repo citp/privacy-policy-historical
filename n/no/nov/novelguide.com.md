@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628203748id_/http%3A//novelguide.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202155600id_/http%3A//www.novelguide.com/privacy_statement.html) for the most accurate reproduction.*
 
 # NovelGuide: Privacy Statement
 
 **Privacy Statement for Novelguide**
 
-Novelguide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following  
-discloses our information gathering and dissemination practices for this website: Novelguide.
+Novelguide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Novelguide.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
-Our site's registration form requires users to give us contact information (like their name and email address). We use customer  
-contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving  
-future mailings; see the choice/opt-out section below.
+Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in  
-reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to  
-any information about you from cookies you might receive while visiting our site.
+We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site.
 
  **Security**
 
@@ -23,8 +18,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
  **Ads**
 
-NovelGuide works with third parties that serve ads to this site. These   
-companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by doubleclick, click [here](http://www.sonar.com/naiprivacy).
+NovelGuide works with third parties that serve ads to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by doubleclick, click [here](http://www.sonar.com/naiprivacy).
 
  **Children's Guidelines**
 
@@ -43,22 +37,14 @@ in the activity
 
  **Choice/Opt-Out  
 **  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we  
-request information about the visitor.
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to  
-no longer receive our service. 
-
-1.You can send email to admin@Novelguide.com
+If you would like to remove your information from our database to not receive future communications and services, please send email to [admin@Novelguide.com](mailto:admin@novelguide.com?Subject=Novelguide%20Question)
 
  **Correct/Update**
 
-This site gives users the following options for changing and modifying information previously provided. 
-
-1.email admin@Novelguide.com
+This site gives users the option for changing and modifying information previously provided. You can send email to [admin@Novelguide.com](mailto:admin@novelguide.com?Subject=Novelguide%20Question)
 
  **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-webmaster@novelguide.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@novelguide.com](mailto:webmaster@novelguide.com?Subject=Novelguide%20Question)
