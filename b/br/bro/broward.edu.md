@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broward.edu privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601102841id_/http%3A//www.broward.edu/resources/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broward.edu privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215204803id_/http%3A//www.broward.edu/resources/privacy.jsp) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Broward Community College
 
