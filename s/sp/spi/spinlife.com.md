@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201070657id_/http%3A//spinlife.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605044314id_/http%3A//spinlife.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Wheelchairs, Wheelchair, Wheel chairs - brand name wheelchairs, power wheelchairs, scooters at discount prices - SpinLife.com!
 
