@@ -1,45 +1,38 @@
-> *The following text is extracted and transformed from the bigclicks.com privacy policy that was archived on 2000-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001110071000id_/http%3A//www.bigclicks.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigclicks.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607054549id_/http%3A//www.bigclicks.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement for http://www.bigclicks.com
 
-## Privacy Statement for http://www.bigclicks.com
+Bigclicks.com, Inc has created this privacy statement in order to outline our online information practices. The following fully discloses what kind of information we collect from our visitors, and how we use that information at Bigclicks.com. 
 
-BigClicks.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.bigclicks.com.
+**WEB-BASED E-MAIL ACCOUNT**   
+We consider our customers' mailboxes and the content of all messages to be private. We do not monitor or disclose e-mail messages unless we believe we must do so (i) to enforce our e-mail Terms and Conditions, (ii) because we are required to do so by law, or (iii) to defend Bigclicks in any legal action or to protect the property of Bigclicks. Additionally, our subscribers must agree to respect the privacy and confidentiality of others. Since privacy is, in part, a function of our customers' passwords, we encourage them to change their passwords frequently and to not share them with anyone. Bigclicks Webmail is a separate service provided by BigMailBox.com. Click on the following hyperlinks for the BigMailBox privacy policy and terms and conditions. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies for other purposes, primarily to track traffic from an affiliates site to sites within the InternetFuel Network.
+**WHAT INFORMATION WE COLLECT FROM OUR SUBSCRIBERS:**   
+Our site's registration form requires users to give contact and demographic information such as name, e-mail address, age, gender, zip code and country of residence. We may use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information may also be used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Demographic and profile information may also be used to tailor the visitor's experience at our site, showing them content that we think might interest them. **We may disclose information you enter during the join process to third parties.**
 
-Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used for other purposes. Unique identifiers (such as social security numbers) are collected to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data for other purposes. This information is shared with advertisers on an aggregate basis.
+**DISTRIBUTION OF SUBSCRIBER INFORMATION TO THIRD PARTIES:**   
+During the registration process, and at certain times during any member user session, we may present you with additional offers from third party service providers. These offers are optional and typically presented as "yes/accept or no/decline" questions. A checked response or yes/no button selection indicates your preference. Certain offers may be presented with a pre-checked preference/selection. If you do not deselect (opt-out) the checked boxes on our join form then we may transfer your profile information to the third party service providers. Our third party service providers have their own terms and conditions and privacy policies. We suggest that you visit their sites and review their terms and conditions and privacy policies before you "opt-in" to any offer. 
 
-This site contains links to other sites. **http://www.searchfuel.com** is not responsible for the privacy practices or the content of such Web sites.
+**CHILDREN'S PRIVACY:**   
+We do not structure any part of our Website to attract anyone under the age of 13. Our system does not allow anyone under the age of 13 to join Bigclicks as a subscriber. If parents believe their child (any age under 18) has accessed our system without their permission, they can contact our customer service department Monday-Friday 9am-5pm PST at 213-596-5030 or by e-mail: [support@Bigclicks.com](mailto:support@bigclicks.com). **Visit<http://www.ftc.gov/kidzprivacy> for information from the Federal Trade Commission about protecting children's privacy online. **
 
-SearchFuel is part of the InternetFuel Network. We may use information collected to promote other affiliate programs, products, websites and services.
+**HOW TO CHANGE YOUR PROFILE INFORMATION:**   
+Subscribers to Bigclicks can modify their collected user profile information in the following ways:   
+1\. Go to the "options" section within your Bigclicks e-mail box and click on the "modify user information."   
+2\. Send your requested changes to [support@Bigclicks.com](mailto:support@bigclicks.com)   
+3\. Call our customer service hotline at 213-596-5030 and speak to one of our customer service agents Monday-Friday 9am-5pm PST 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+**USE OF COOKIES:**   
+Cookies are text files placed in your computer's browser to store your preferences when you surf the Web. Our site may use cookies to make sure you don't see the same ad repeatedly, to calculate the number of unique visitors, to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. We do not collect cookies from your computer, or use cookies to monitor usage patterns of our visitors once they leave Bigclicks.com. We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, our ad company collects cookies received with banner ads, and we do not have access to this information. 
 
-## Security
+**CONTACTING THE WEBSITE:**   
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, you can contact: 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+**Please bookmark this page and check back frequently because we do make frequent updates to this privacy policy.**
 
-## Choice/Opt-Out
+    BigClicks.com, Inc.   
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+    9800 D Topanga Cyn Blvd, Suite #318   
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+    Chartsworth, Ca 91311   
 
-  1. You can send email to [bigclicks@internetfuel.com](mailto:bigclicks@internetfuel.com)
-  2. You can send mail to the following postal address:  BigClicks 9800 D Topanga Blvd. Suite #318 Chatsworth, CA. 91311 
-
-
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. email [bigclicks@internetfuel.com](mailto:bigclicks@internetfuel.com)
-  2. visit <http://admin.searchfuel.com/>
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact BigClicks InternetFuel.com, Inc 9800 D Topanga Canyon Blvd Suite #318 bigclicks@internetfuel.com
