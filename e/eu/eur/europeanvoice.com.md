@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2002-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021222210944id_/http%3A//www.europeanvoice.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609184359id_/http%3A//www.europeanvoice.com/privacy.asp) for the most accurate reproduction.*
 
-# European Voice - An Independent View of the EU
+# EU news: An Independent View from European Voice
 
 "EuropeanVoice.com is committed to protecting the privacy of European Voice subscribers. This statement outlines our privacy and data privacy policy. 
 
