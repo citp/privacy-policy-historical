@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gjsentinel.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604025431id_/http%3A//gjsentinel.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gjsentinel.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205095504id_/http%3A//www.gjsentinel.com/search/content/privacypolicy.html) for the most accurate reproduction.*
 
 # GJSentinel.com: Privacy Policy
 
@@ -62,4 +62,4 @@ All information gathered on our website is encrypted for storage within a databa
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. 
 
 |   |   
-[](http://ad.doubleclick.net/jump/cni.gjsent.text/;sub=index;rr=1;pg=;sz=140x60;tile=1;ord=PPwrjsCoBWsAADNb2Vg?) [](http://ad.doubleclick.net/jump/cni.gjsent.text/;sub=index;rr=2;pg=;sz=140x60;tile=2;ord=PPwrjsCoBWsAADNb2Vg?) [](http://ad.doubleclick.net/jump/cni.gjsent.text/;sub=index;rr=3;pg=;sz=140x60;tile=3;ord=PPwrjsCoBWsAADNb2Vg?) [](http://ad.doubleclick.net/jump/cni.gjsent.text/;sub=index;rr=4;pg=;sz=140x60;tile=4;ord=PPwrjsCoBWsAADNb2Vg?) [](http://ad.doubleclick.net/jump/cni.gjsent.text/;sub=index;rr=5;pg=;sz=140x60;tile=5;ord=PPwrjsCoBWsAADNb2Vg?)
+
