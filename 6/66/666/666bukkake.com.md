@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 666bukkake.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015109id_/http%3A//shared.bukkakecash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 666bukkake.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209061350id_/http%3A//docs.eurorevenue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -20,7 +20,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **_What Information About Subscribers is Collected?_**
 
-When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, credit card number and expiration date of the credit card, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
+When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
 
 If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database. 
 
