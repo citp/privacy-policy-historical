@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatetips.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207091100id_/http%3A//affiliatetips.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetips.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607111856id_/http%3A//affiliatetips.com/privacy.htm) for the most accurate reproduction.*
 
 # Affiliate Tips - Affiliate Marketing Tips And Affiliate Program News
 
