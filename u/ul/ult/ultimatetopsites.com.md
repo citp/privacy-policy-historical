@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatetopsites.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609144853id_/http%3A//www.ultimatetopsites.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatetopsites.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060141id_/http%3A//www.ultimatetopsites.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -10,9 +10,9 @@
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. We will use I.P. addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's [terms of use](http://www.ultimatetopsites.com/bin/create/terms.html) or to protect our service, site, or other users. 
 
-####  Advertisers 
+####  Advertisements 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We do not use cookies with banner ads displayed on our site. 
 
 ####  Personal Information 
 
