@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cogcon.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014020105id_/http%3A//www.cogcon.com/privacy/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cogcon.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609194457id_/http%3A//www.cogcon.com/privacy/policy.cfm) for the most accurate reproduction.*
 
 # Cognitive Concepts Privacy Statement
 
@@ -48,4 +48,4 @@ Cognitive Concepts is putting together a way for you to update, correct, and oth
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [webmaster@earobics.com](https://web.archive.org/web/20021014020105id_/http%3A//www.cogcon.com/privacy/webmaster@cogcon.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [webmaster@earobics.com](https://web.archive.org/web/20030609194457id_/http%3A//www.cogcon.com/privacy/webmaster@cogcon.com).
