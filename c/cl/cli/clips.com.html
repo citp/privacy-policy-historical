@@ -1,0 +1,584 @@
+<!--The following is the downloaded HTML source of the clips.com privacy policy that was archived on 2000-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001210164300id_/http%3A//www.clip2.com/privacy.jsp%3FdefeatCache%3D950) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+
+  function redirectThisWindow(redirectString) {
+    top.location.href=redirectString;
+  }
+
+  function openHelpWindow(serverName) {
+		var helpPath = serverName+"help.jsp";
+		window.open(helpPath,'help','toolbar=yes,scrollbars=yes,resizable=yes,width=641,height=480');
+  }
+  function openHelpWindowTo(fileName) {
+		window.open(fileName,'help','toolbar=yes,scrollbars=yes,resizable=yes,width=641,height=480');
+  }
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<title>Clip2.com Privacy Policy</title>
+
+<link rel="stylesheet" href="http://www.clip2.com/clip2_style_other.css" type="text/css">
+
+
+
+<script language="JavaScript"><!--
+var version = 1;
+//--></script>
+
+<script language="JavaScript1.1"><!--
+var version = 1.1;
+//--></script>
+
+<script language="JavaScript1.2"><!--
+var version = 1.2;
+//--></script>
+
+<script language="JavaScript1.3"><!--
+var version = 1.3;
+//--></script>
+
+<script language="JavaScript1.4"><!--
+var version = 1.4;
+//--></script>
+
+<script language="javascript">
+<!--
+var look;
+
+function needsNewWindow(url) {
+	needsWindow = true
+  
+
+	
+		
+    if (url.toLowerCase().indexOf("link=mailto") != -1) {
+			needsWindow = false;
+		}
+	
+	return needsWindow
+}
+
+// Opens the window for browsing, if it is not open already.
+function navigate(url, nlink) {
+		document.theLayer.src = nlink;
+		document.theLayer.src = "/blank.html";
+
+}
+
+
+// Opens an independent window for a given link.
+function fresh(url, nlink) {
+		document.theLayer.src = nlink;
+		document.theLayer.src = "/blank.html";
+
+}
+
+// Point current window at link.
+function relocate(url, nlink) {
+		document.theLayer.src = nlink;
+		document.theLayer.src = "/blank.html";
+
+}
+
+function reloadPage() {
+	if(innerWidth!=origWidth||innerHeight!=origHeight) {
+		location.reload();
+	}
+}
+
+if(document.layers){
+	origWidth=innerWidth;
+	origHeight=innerHeight;
+	onresize=reloadPage();
+}
+
+var shortcuts = false; //used to maintain shortcut state
+
+// -->
+</script>
+
+
+
+<script language="javascript" type="text/javascript">
+
+javascript = true;
+
+function checkAll(check) {
+
+	if (parent.data.document.cliplist) {
+
+		if (parent.data.document.cliplist.elements.type) {
+			for (i=0; i < parent.data.document.cliplist.elements.length; i++) {
+				if (parent.data.document.cliplist.elements[i].type == "checkbox") {
+					parent.data.document.cliplist.elements[i].checked = check;
+				}
+			}
+		} else {
+			for (i=0; i < parent.data.document.cliplist.elements.length; i++) {
+				parent.data.document.cliplist.elements[i].checked = check;
+			}
+		}
+	} else if (parent.data.document.importChecklist) {
+		if (parent.data.document.importChecklist.elements.type) {
+			for (i=0; i < parent.data.document.importChecklist.elements.length; i++) {
+				if (parent.data.document.importChecklist.elements[i].type == "checkbox") {
+					parent.data.document.importChecklist.elements[i].checked = check;
+				}
+			}
+		} else {
+			for (i=0; i < parent.data.document.importChecklist.elements.length; i++) {
+				parent.data.document.importChecklist.elements[i].checked = check;
+			}
+		}
+	}
+	return true;
+}
+
+function doAction(what) {
+	if (parent.data.document.cliplist) {
+		parent.data.document.cliplist.action.value=what;
+		parent.data.document.cliplist.submit();
+		return false;
+	} else {
+		parent.data.location.href="data.jsp";
+	}
+	return true;
+}
+
+function verifyEmail(email) {
+	var emailAlert = "Please enter a valid email address.\nExample: JohnSmith@hotmail.com";
+	var at;
+	var dot;
+	var domain;
+  var otherChars;
+
+	//test for RFC 822 Compliance
+  otherChars = email.indexOf("\"");
+  otherChars += email.indexOf(unescape("%3C")); // Open Chevron
+  otherChars += email.indexOf(unescape("%3E")); // Closed Chevron
+	at = email.indexOf("@");
+	if (at < 1) {
+		alert(emailAlert);
+		theForm.email.focus();
+		return (false);
+	}
+	domain = email.substring(at + 1, email.length);
+	dot = domain.indexOf(".");
+	if ((domain.length == 0) || (dot < 1) ||  dot == (domain.length - 1) || (otherChars > -3)) {
+		alert(emailAlert);
+		return (false);
+	}
+}
+
+function removePunctuation(origString){
+  var newString = "";
+  var c;
+  var stringChanged = false;
+  for(i=0; i<origString.length; i++)
+  {
+    c = origString.charCodeAt(i);
+    if ((c>=97&&c<=122)||(c>=65&&c<=90)||(c>=48&&c<=57)||c==32)
+    {
+      if(!((c == 32) && ((newString.charCodeAt(newString.length-1) == 32) || newString.length == 0))){
+	      newString = newString + origString.charAt(i);
+      }
+    } else {
+      stringChanged = true;
+    }
+  }
+  if(stringChanged == true){
+	  return newString;
+  }else{
+    return origString;
+  }
+}
+
+function isValidPubPassword(reqPassword) {
+  var c;
+  reqPassword = reqPassword.toLowerCase();
+  for(i=0; i<reqPassword.length; i++)
+  {
+    c = reqPassword.charCodeAt(i);
+    if (!((c>=97&&c<=122)||(c>=48&&c<=57)||c==33||c==64||c==36||c==42||c==40||c==41||c==45||c==95||c==46))
+    {
+      return false;
+    }
+  }
+  return true;
+}
+
+function validator(theForm) {
+	if (theForm.newName.value.length < 1 || theForm.newName.value.charCodeAt(0) == 32) {
+		alert("Please give this guide a name.");
+		theForm.newName.focus();
+		return false;
+	}
+	if (theForm.newName.value.length > 50) {
+		alert("Please enter a name for this folder that contains less than 50 characters.");
+		theForm.newName.focus();
+		return false;
+	}
+	if (theForm.keywords.value.length > 0){
+    var newValue = removePunctuation(theForm.keywords.value);
+		if(newValue != theForm.keywords.value){
+			alert("The keywords for this guide cannot contain punctuation.\nThe punctuation you entered has been removed for you.\nPlease check the keywords and resubmit this form.");
+			theForm.keywords.value = newValue;
+	    return false;
+    }
+  }
+	if (theForm.newClipPassword) {
+		if (theForm.newClipPassword.value != theForm.passwordConfirmation.value) {
+			alert("Your password confirmation doesn't match your password. Please re-enter.");
+			theForm.passwordConfirmation.focus();
+			return false;
+		}
+    if (!isValidPubPassword(theForm.newClipPassword.value)) {
+      alert("Guide passwords may only contain alpha-numeric characters and the following: ! @ $ * ( ) _ - .");
+      theForm.newClipPassword.focus();
+      return false;
+    }
+	}
+	if (theForm.passwordRequired.checked) {
+		if (theForm.newClipPassword.value == "") {
+			alert("You checked the 'Password Protect' box, but did not enter a password.");
+			theForm.newClipPassword.focus();
+			return false;
+		}
+	}
+	if (theForm.chosenCategoryID.selectedIndex == 0 && theForm.chosenCategoryID.options[0].value == -1) {
+		alert("Please choose a category for your guide.");
+		theForm.chosenCategoryID.focus();
+		return false;
+	}
+  if (theForm.newClipEmail.value) {
+		if (verifyEmail(theForm.newClipEmail.value) == false) {
+      theForm.newClipEmail.focus();
+			return (false);
+		}
+	}
+}
+
+function f(l,i,o) {
+	nlink = "http://www.clip2.com/log.jsp?defeatCache=459&link=" + escape(l)
+              + "&parent=" + i
+              + "&owner=" + o;
+	fresh(l, nlink);
+	return true;
+}
+
+
+function n(l,i,o) {
+	nlink = "http://www.clip2.com/log.jsp?defeatCache=459&link=" + escape(l)
+              + "&parent=" + i
+              + "&owner=" + o;
+	relocate(l, nlink);
+	return true;
+}
+
+
+function w(l,i,o) {
+	nlink = "http://www.clip2.com/log.jsp?defeatCache=459&link=" + escape(l)
+              + "&parent=" + i
+              + "&owner=" + o;
+	navigate(l, nlink);
+	return true;
+}
+
+
+
+
+	if (self != top) {
+		parent.location = "privacy.jsp?defeatCache=950";
+	}
+
+
+
+function copyEditValues(fromForm, toForm) {
+
+
+	toForm.newName.value = fromForm.newName.value;
+	toForm.keywords.value = fromForm.keywords.value;
+	toForm.searchable.value = fromForm.searchable.value;
+	if (!toForm.searchable.value) {
+		loop:
+		for (j=0; j<2; j++) {
+			if (fromForm.radio1[j].checked) {
+				if (fromForm.radio1[j].value == "public") {
+					toForm.searchable.value = "public";
+					break loop;
+				} else if (fromForm.radio1[j].value == "private") {
+					toForm.searchable.value = "private";
+					break loop;
+				}
+			}
+		}
+	}
+	toForm.passwordRequired.value = fromForm.passwordRequired.checked;
+	toForm.newClipPassword.value = fromForm.newClipPassword.value;
+	toForm.passwordConfirmation.value = fromForm.passwordConfirmation.value;
+	toForm.allowEmail.value = fromForm.allowEmail.checked;
+	toForm.newClipEmail.value = fromForm.newClipEmail.value;
+	toForm.parentFolderNew.value = fromForm.parentFolderNew.value;
+	toForm.newAnnotation.value = fromForm.newAnnotation.value;
+	// CategoryID: convert selected index to selected option's value...
+	var index = fromForm.chosenCategoryID.selectedIndex;
+	toForm.chosenCategoryID.value = fromForm.chosenCategoryID.options[index].value;
+}
+
+	function validateHeaderSearchKeyword(form) {
+		if (form.query.value == "") {
+			alert("Please enter one or more keywords to search for.");
+			return false;
+		}
+		// Replace the "action" tag attribute's value, coded in the FORM tag, below,
+		// with a new value which includes the user's query string, and submit the
+		// form from here. This makes the query string visible in the browser's location
+		// window, whereas posted form data isn't, and our goal is to let users know that
+		// they can query our searchable guides with programmed URLs.
+		form.action = "http://www.clip2.com/search.jsp?query="+escape(form.query.value);
+		form.submit();
+		// Return false to prevent double submit.
+		return false;
+	}
+
+</script>
+</head>
+
+
+
+	<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#ffffff">
+
+
+
+
+
+
+			<table cellpadding="0" cellspacing="0" border="0" width="760"><tbody><tr><td> 
+      <table cellpadding="0" cellspacing="0" border="0" align="left" width="760" bgcolor="#ffffff">
+      <tbody><tr><td width="408" colspan="2" bgcolor="#330099"><a href="http://www.clip2.com/default.jsp"><img src="http://www.clip2.com/images/header_clip2logo.gif" width="165" height="57" border="0"></a><img src="http://www.clip2.com/images/header_rated_by.gif" width="243" height="57" border="0"></td>
+      <form method="post" action="http://www.clip2.com/search.jsp" id="search" name="search" target="_top" onsubmit="return validateHeaderSearchKeyword(this);"></form><td bgcolor="#330099" align="center" valign="bottom" width="188" nowrap=""><nobr><input type="text" size="10" name="query" value="">&nbsp;<input type="image" src="http://www.clip2.com/images/header_search_button.gif" width="40" height="14" border="0" alt="Search Guides" onclick="document.search.submit();"></nobr></td>
+      <td width="164" align="right" bgcolor="#330099"><img src="http://www.clip2.com/images/header_people_photo.gif" width="164" height="57" border="0"></td></tr>
+      <tr><td colspan="4" bgcolor="#330099"><img src="http://www.clip2.com/images/clear.gif" width="1" height="3"></td></tr></tbody></table>
+
+      <noscript>
+      <BR CLEAR=all>
+      <TABLE BORDER=1 ALIGN=left WIDTH="760"><TR><TD>
+      You're seeing this message because JavaScript is not enabled in your browser.
+      You'll need JavaScript and cookies enabled to use most of the Clip2 site.
+      </TD></TR></TABLE>
+      </noscript>
+
+      
+
+      	</td></tr><tr><td> 
+	      <table cellpadding="0" cellspacing="0" border="0" align="left" width="760" bgcolor="#ffffff">
+	      <tbody><tr bgcolor="#ffffff"><td valign="top">
+
+      
+		
+
+  
+
+	  <table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>
+		<table cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr><td><img src="http://www.clip2.com/images/leftnav_leftcolumn_top.gif" width="77" height="164" border="0" usemap="#leftTour"></td></tr>
+		<tr><td><img src="http://www.clip2.com/images/leftnav_leftcolumn_promo.gif" width="77" height="130" border="0" usemap="#leftPromo"></td></tr>
+		<tr><td><img src="http://www.clip2.com/images/leftnav_leftcolumn_bottom.gif" width="77" height="25" border="0"></td></tr>
+	  </tbody></table></td><td><table cellspacing="0" cellpadding="0" border="0">
+ 		<tbody><tr><td><img src="http://www.clip2.com/images/leftnav_rightcolumn_1.gif" width="69" height="26" border="0"></td></tr>
+    
+ 			<tr><td><a href="createUser.jsp" target="_top"><img src="http://www.clip2.com/images/leftnav_rightcolumn_2_loggedout.gif" width="69" height="45" border="0"></a></td></tr>
+ 			<tr><td><a href="default.jsp" target="_top"><img src="http://www.clip2.com/images/leftnav_rightcolumn_3_nonaccount.gif" width="69" height="47" border="0"></a></td></tr>
+ 			<tr><td><img src="http://www.clip2.com/images/leftnav_rightcolumn_blank.gif" width="69" height="47" border="0"></td></tr>
+ 			<tr><td><img src="http://www.clip2.com/images/leftnav_rightcolumn_blank.gif" width="69" height="47" border="0"></td></tr>
+ 			<tr><td><img src="http://www.clip2.com/images/leftnav_rightcolumn_blank.gif" width="69" height="47" border="0"></td></tr>
+ 			<tr><td><img src="http://www.clip2.com/images/leftnav_rightcolumn_7_blank.gif" width="69" height="59" border="0"></td></tr>
+
+    
+
+    </tbody></table></td></tr>
+		
+		</tbody></table></td><td valign="top">
+
+		<map name="leftTour">
+		<area shape="rect" coords="7,59,68,86" href="promoteSiteTour.jsp" alt="Promote Guide Tour" target="_top">
+		<area shape="rect" coords="7,95,68,122" href="expressTour.jsp" alt="Express Yourself Tour" target="_top">
+		<area shape="rect" coords="7,132,68,159" href="earnCashTour.jsp" alt="Earn Cash Tour" target="_top">
+		</map>
+
+		<map name="leftPromo">
+		<area shape="rect" coords="7,5,70,74" href="publisherCenter.jsp" alt="Publisher Center" target="_top">
+		<area shape="rect" coords="10,87,69,125" href="midLogin.jsp?redirect=home.jsp&amp;viewPage=promoteGuide.jsp" alt="Link to My Clip2 Guide" target="_top">
+		</map>
+
+
+
+
+
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="450">
+<tbody><tr>
+<td width="10"><img src="http://www.clip2.com/images/clear.gif" width="10" height="1"></td>
+<td>
+
+
+<table cellpadding="2" width="430">
+<tbody><tr>
+<td valign="top">
+<b class="heading">Clip2 Privacy Policy</b>
+  <br><br>
+            This confirms that Clip2.com, Inc. is a licensee of the TRUSTe Privacy Program.  This privacy statement discloses the privacy practices for <a href="http://www.clip2.com">http://www.clip2.com</a> ("Clip2").<br><br>
+            
+            <a href="https://www.truste.org/validate/3202">
+<img src="images/ClickSealBox.gif" align="left" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a><br><br>&nbsp;Click to verify!<br>
+<br><br>
+
+<br>TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, this Web site has agreed to notify you of
+            <ol>
+            <li>What personally identifiable information of yours is collected from you through the Web site
+            </li><li>The organization collecting the information
+            </li><li>How the information is used
+            </li><li>With whom the information may be shared
+            </li><li>What choices are available to you regarding collection, use and distribution of the information
+            </li><li>The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Clip2.com, Inc. control
+            </li><li>How you can correct any inaccuracies in the information.
+            </li></ol>
+            
+            If you feel that this company is not abiding by its posted privacy policy, you should first contact Clip2 by email at <a href="mailto:privacy@clip2.com">privacy@clip2.com</a>.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org">http://www.truste.org</a>.  TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+           <br><br>
+           <hr noshade="">
+           <br>
+       
+            <b class="heading">Information Collection and Use</b><br><br>
+            Clip2.com, Inc. is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways other than those disclosed in this statement.  Clip2.com, Inc. collects information from our users at several different points on our Web site.
+            <br><br>
+
+						<b class="heading">Registration</b><br><br>
+						In order to use some features of this Web site, a user must first complete the registration form.  During registration a user is required to give contact information (first and last name and email address).  This information is used to contact the user regarding their account, such as when the user has forgotten his password.  It is optional for the user to provide demographic information (such as postal code and gender), but this information helps Clip2.com, Inc. better understand the characteristics of its registered users, and this understanding aids Clip2.com, Inc. in delivering better service.  As described below, this information may be shared in aggregate form with our partners and advertisers, but never in a way that is linked to an individual person.
+						<br><br>
+            
+            <b class="heading">Cookies</b><br><br>
+						Cookies are data placed on a user’s computer by a Web site.  Most browsers enable the user to decide whether or not s/he wants to allow Web sites to place cookies on his/her computer.  To use most features of Clip2, the user's browser must be set to accept cookies.  Clip2 may store two forms of cookies on a user's computer: an "auto-login" cookie and a "session" cookie.  The auto-login cookie is necessary to enable the user to bypass the manual login process on return visits to Clip2, and it contains information necessary to complete the login.  This cookie is persistent and remains on your computer until you delete it.  This cookie is only placed on computers of registered users who have logged in to Clip2.  This cookie contains personally identifiable information.  The session cookie enables Clip2 to recognize that a given series of interactions originate from the same user and therefore constitute a session.  This cookie is transient and is deleted when you close your browser.  This cookie is placed on computers of all visitors to Clip2 who request pages with the filename extension JSP, and it does not contain personally identifiable information.
+            <br><br>
+
+						<b class="heading">Log Files</b><br><br>
+						Clip2.com, Inc. uses IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information. We track usage of links that point off of our site but we do not correlate this tracking with personally identifiable information.
+						<br><br>
+
+            <b class="heading">Sharing</b><br><br>
+            Clip2.com, Inc. may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+						<br><br>
+
+       			<b class="heading">Links</b><br><br>
+            This Web site contains links to other sites. Please be aware that Clip2.com, Inc. is not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site.
+						<br><br>
+
+       			<b class="heading">Tell-A-Friend</b><br><br>
+            If a user elects to use our referral service for informing a friend about guides or links on our site, we ask them for the friend’s email address.  Clip2.com, Inc. will automatically send the friend a one-time email inviting them to visit the site.  We do not store the friend's information for further use.
+						<br><br>
+
+       			<b class="heading">Special Offers</b><br><br>
+            Clip2.com, Inc. sends all new members a welcoming email to verify password and username. Established members will occasionally receive our newsletter and offers from Clip2.com, Inc. partners. Out of respect for the privacy of our users we present the option to decline these types of communications. Please see the choice/opt-out section below.
+						<br><br>
+
+       			<b class="heading">Site and Service Updates</b><br><br>
+            Clip2.com, Inc. also sends the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email.
+						<br><br>
+
+       			<b class="heading">Correction/Updating Personal Information</b><br><br>
+						If a user’s personally identifiable information changes or if a user no longer desires our service, Clip2.com, Inc. will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.  This can be done by visiting the preferences link off of the account page or by emailing our Customer Service at <a href="mailto:service@clip2.com">service@clip2.com</a>.
+						<br><br>
+
+       			<b class="heading">Choice/Opt-out</b><br><br>
+            Users who no longer wish to receive our newsletter or offers from our partners may opt-out of receiving these communications by visiting the preferences link off of the account page and specifying the appropriate settings.
+						<br><br>
+
+       			<b class="heading">Notification of Changes</b><br><br>
+            If at any point Clip2.com, Inc. decides to use personally identifiable information in a manner other than that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+						<br><br>
+
+       			<b class="heading">Contacting the Web Site</b><br><br>
+            If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please contact:
+						<ul>
+            Privacy Contact<br>
+						Clip2.com, Inc.<br>
+						3145-C Porter Drive<br>
+						Palo Alto, CA 94304<br>
+						<a href="privacy@clip2.com">privacy@clip2.com</a>
+            </ul>
+						</td></tr></tbody></table>
+						</td>
+<td width="10"><img src="http://www.clip2.com/images/clear.gif" width="10" height="1"></td>
+</tr></tbody></table>
+
+<img src="http://www.clip2.com/images/clear.gif" width="27" height="60" align="left">
+
+</td></tr></tbody></table></td></tr></tbody></table> 
+
+<br clear="all">
+
+
+
+<br><br>
+
+<table width="760" align="left" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td bgcolor="#330099" colspan="2" width="100%"><img src="http://www.clip2.com/images/clear.gif" width="100%" height="3"></td></tr>
+
+
+<tr><td align="center"><img src="http://www.clip2.com/images/clear.gif" width="1" height="3"><br clear="all">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td rowspan="8"><a href="http://www.clip2.com/privacy.jsp?defeatCache=459" target="_top"><img src="http://www.clip2.com/images/footer_truste_logo.gif" width="116" height="31" border="0" alt="Truste Mark"></a></td>
+<td rowspan="2">&nbsp;</td><td class="small" nowrap="" align="center">
+<a href="http://www.clip2.com/default.jsp?defeatCache=459" target="_top">Home</a> | 
+
+<a href="http://www.clip2.com/aboutClip2.jsp?defeatCache=459" target="_top">About Us</a> |
+<a href="http://www.clip2.com/contactUs.jsp?defeatCache=459" target="_top">Contact Us</a> |
+<a href="http://www.clip2.com/jobs.jsp?defeatCache=459" target="_top">Work Here</a> |
+<a href="http://www.clip2.com/privacy.jsp?defeatCache=459" target="_top">Privacy Policy</a> |
+<a href="http://www.clip2.com/partners.jsp?defeatCache=459" target="_top">Partners</a> |
+<a href="javascript:parent.openHelpWindow('http://www.clip2.com/')">Help</a>
+</td></tr>
+<!-- <tr><td><a href="http://dss.clip2.com">dss home</a></td></tr> -->
+
+
+<tr><td class="comment" align="center">
+© Copyright Clip2.com, Inc. 1999-2000. All rights reserved.
+</td></tr>
+</tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+</body></html>
