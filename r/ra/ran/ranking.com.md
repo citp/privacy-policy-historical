@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ranking.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623102401id_/http%3A//ranking.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ranking.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204043159id_/http%3A//ranking.com/privacy.htm) for the most accurate reproduction.*
 
 # Ranking.com Privacy Policy
 
@@ -30,7 +30,9 @@ Any information submitted by a customer by other means such as the mail, or by f
 You have the option of disabling your computer’s ability to accept or transmit cookies. This will prevent us from gathering certain non-personally identifiable information from your computer. Furthermore, you have the right to opt out of any email list you might have signed up for in the past. You also have the option of requesting not to be notified by email of any new product or service we are offering. Please contact us at [info@ranking.com](mailto:info@ranking.com) in order to complete one of the opt-out choices above. 
 
 **NOTICE OF CHANGES TO THIS PRIVACY POLICY  
-**We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate. Please feel free to contact us if you should have any questions regarding this policy or to report a misuse of your personal information. Our Chief Privacy Officer is Jared Steven Palmer, and he can be reached at [jared@emergency24.com](mailto:jared@emergency24.com). 
+**We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate. Please feel free to contact us if you should have any questions regarding this policy or to report a misuse of your personal information.
+
+Our Chief Privacy Officer is Patrick Devereaux, and he can be reached at  [pjd@emergency24.com](mailto:pjd@emergency24.com). 
 
 * * *
 
