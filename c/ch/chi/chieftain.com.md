@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205000113id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205192356id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
 
 # The Pueblo Chieftain Online - Pueblo, Colorado U.S.A
 
@@ -50,13 +50,13 @@ The Pueblo Chieftain Internet Services reserves the right to restrict access to 
 Weather
 
   
-51°  
+57°  
 Fair 
 
 Poll:
 
-Are you glad to hear a new Xcel plant may be built in Pueblo?  
-[Cast your Vote!](https://web.archive.org/poll/index.php?id=216)
+Do you think more schools should opt out of No Child Left Behind?  
+[Cast your Vote!](https://web.archive.org/poll/index.php?id=253)
 
 Promotions
 
