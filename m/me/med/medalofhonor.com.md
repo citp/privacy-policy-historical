@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medalofhonor.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413070451id_/http%3A//www.medalofhonor.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medalofhonor.com privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214000214id_/http%3A//medalofhonor.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Medal of Honor - Privacy Policy
+# Congressional Medal of Honor - Privacy Policy
 
 **Privacy Statement for MedalofHonor.com**
 
