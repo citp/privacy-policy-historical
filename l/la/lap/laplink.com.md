@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205033125id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602195437id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
 # Laplink Software Inc. Privacy Policy
 
