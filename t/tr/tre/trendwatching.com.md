@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendwatching.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032905id_/http%3A//www.trendwatching.com/privacyandsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendwatching.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207045621id_/http%3A//www.trendwatching.com/privacyandsecurity.html) for the most accurate reproduction.*
 
 # TRENDWATCHING.COM
 
@@ -36,13 +36,13 @@ Contacting TRENDWATCHING.COM
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact:
 
 TRENDWATCHING.COM  
-Emmalaan 21  
-1075 AT The Netherlands  
+Herengracht 562   
+1017 CH The Netherlands  
 Fax: +31 (0)20 575 4281  
 [info@trendwatching.com](mailto:info@trendwatching.com)
 
 TRENDWATCHING.COM and the logo are trademarks of TRENDWATCHING.COM.
 
-The TRENDWATCHING.COM web site and newsletter are copyright © 2002-2003 TRENDWATCHING.COM. All rights reserved.
+The TRENDWATCHING.COM web site and newsletter are copyright © 2002-2005 TRENDWATCHING.COM. All rights reserved.
 
 Other brands or products are trademarks, service marks, registered trademarks or registered service marks of their respective holders.
