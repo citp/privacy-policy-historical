@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the cbs2.com privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126215755id_/http%3A//cbs2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs2.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207124335id_/http%3A//cbs2.com/privacy) for the most accurate reproduction.*
 
-# cbs2.com - Privacy
+# KCBS: Privacy
 
-Privacy Statement - kcbs CBS takes your electronic privacy seriously. We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information.
+Privacy Statement - kcbs
+
+CBS takes your electronic privacy seriously. We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information.
 
 We understand the need to protect the online privacy of children who may not yet be sophisticated enough to determine for themselves what information is appropriate to release. The Kidshow portion of our site is hosted by Nikolai.com. Nikolai.com has a [Children's Privacy Policy](http://cbs.nikolai.com/privacy.shtm) that parents can read.
 
 Questions regarding this statement should be directed to the cbs.com privacy coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to:
 
-**Privacy Coordinator  
-CBS New Media (555/13)  
-524 West 57th Street  
-New York, New York 10019**
+**Privacy Coordinator CBS New Media (555/13) 524 West 57th Street New York, New York 10019**
 
- **Kinds of Information**
+**Kinds of Information**
 
 There are two kinds of information Web sites can obtain about you:
 
@@ -27,9 +26,7 @@ We at CBS.com collect certain Aggregate Information – such as your IP address 
 
 Sometimes CBS.com posts optional surveys in which we ask for Personally Identifiable Information. Here are some ways we might use that information:
 
-To send you information about CBS and this Web site  
-To give to our content partners, who may send you promotional material  
-To give to our advertisers, who may send you information about their products and services
+To send you information about CBS and this Web site To give to our content partners, who may send you promotional material To give to our advertisers, who may send you information about their products and services
 
 The choice is yours – you do not have to answer surveys. If you choose to answer the survey, we will always tell you on the survey form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. 
 
@@ -37,17 +34,9 @@ The choice is yours – you do not have to answer surveys. If you choose to answ
 
 From time to time CBS.com runs contests and sweepstakes in which we ask for Personally Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect:
 
-  
-
   * To notify you if you are a winner
-  
-
   * To send you information about CBS and this Web site
-  
-
   * To give to content partners, who may send you promotional email
-  
-
   * To give to advertisers, who may send you emails about their products and services
 
 
@@ -68,15 +57,15 @@ If we ask you for Personally Identifiable Information, we will tell you if we in
 
 On every page at CBS.com, there is a link to a “feedback” email form so you can comment, complain, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type, and referring URL to better diagnosis technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence.
 
- **Links To Other Sites**
+**Links To Other Sites**
 
 When you visit CBS.com, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave CBS.com. This includes links to sites operated by advertisers, sponsors and partners that may use CBS's logo as part of an agreement with CBS. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to the CBS.com privacy policy and CBS.com is not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect.
 
- **CBS Store**
+**CBS Store**
 
 The CBS Store uses an online, faxable order form for users to buy CBS products. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders when necessary. However, neither CBS.com nor the CBS Store shares this information with third parties.
 
- **Deleting or Modifying Your Information**
+**Deleting or Modifying Your Information**
 
 If you've given us personally identifiable information in the past and then have second thoughts or want to update it, here are your choices: 
 
@@ -84,14 +73,11 @@ Email to [privacy@cbs.com](mailto:privacy@cbs.com).
 
 Regular mail to:
 
-Privacy Coordinator  
-CBS New Media (555/13)  
-524 West 57th Street  
-New York, New York 10019
+Privacy Coordinator CBS New Media (555/13) 524 West 57th Street New York, New York 10019
 
 Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above [remember, we tell you that when we ask the questions] and we've already passed it on, we cannot delete or change the information.
 
- **Security of Private Information**
+**Security of Private Information**
 
 We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at CBS.com, to protect your information from theft, misuse and alteration. 
 
@@ -105,16 +91,10 @@ Email to [privacy@cbs.com](mailto:privacy@cbs.com).
 
 Regular mail to:
 
-**Privacy Coordinator  
-CBS New Media (555/13)  
-524 West 57th Street  
-New York, New York 10019**
+**Privacy Coordinator CBS New Media (555/13) 524 West 57th Street New York, New York 10019**
 
- **The Bottom Line**
+**The Bottom Line**
 
 Sometimes we want personal information from you so that we, our partners and our advertisers can send you some material we think might be of interest to you. 
 
 We promise never to be sneaky about it getting this information from you. We always tell you up front what we’re going to do with the answers, and we always give you a chance to say “no thanks.”
-
-  
-
