@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204211014id_/http%3A//www.compete.com/privacy.xtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622084844id_/http%3A//compete.com/privacy.xtp) for the most accurate reproduction.*
 
 # Compete Delivers The Predictive Edge - Privacy
 
