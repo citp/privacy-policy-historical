@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtv.net privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202133500id_/http%3A//www.webtv.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtv.net privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603104550id_/http%3A//webtv.net/legal/privacy.html) for the most accurate reproduction.*
 
 # WebTV Privacy Policy
 
