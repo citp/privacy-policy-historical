@@ -1,26 +1,29 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211205356id_/http%3A//violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209131916id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
-| [Log In](https://web.archive.org/directory/login.cfm "Our international directory of violinists")  
+| [Log In/Out](https://web.archive.org/directory/login.cfm "Our international directory of violinists")  
 ---  
 [Register](https://web.archive.org/directory/register1.cfm "Create your free listing in our directory")  
 [Change User Info](https://web.archive.org/directory/user.cfm "Registered users click here to change their contact information")  
+[Forget Password?](https://web.archive.org/directory/password.cfm "Registered users click here to get your password resent to you")  
 [Musician Directory](https://web.archive.org/directory/ "Our international directory of violinists")  
-[Create or Change Listing](https://web.archive.org/directory/login.cfm "Registered users click here to change their contact information")  
+[Create or Change Listing](https://web.archive.org/directory/input.cfm "Registered users click here to change their contact information")  
 [Discussion Board](https://web.archive.org/discussion/ "Chat about teachers, conductors, technique, instruments or anything else")  
+[Music Reviews](https://web.archive.org/reviews/ "Reviews of DVDs, CDs, Books, Concerts and More")  
+[Book Reviews](https://web.archive.org/reviews/index.cfm?type=Book)  
+[CD Reviews](https://web.archive.org/reviews/index.cfm?type=CD)  
+[DVD Reviews](https://web.archive.org/reviews/index.cfm?type=DVD)  
+[Video Reviews](https://web.archive.org/reviews/index.cfm?type=Video)  
 [Web Directory](https://web.archive.org/websites/ "Hundreds of orchestra, music school and union local web sites")  
 [Music Schools](https://web.archive.org/websites/schools.cfm)  
 [Orchestras](https://web.archive.org/websites/orchestras.cfm)  
 [Union Locals](https://web.archive.org/websites/unions.cfm)  
-[Auditions](https://web.archive.org/auditions/ "Orchestral positions available")  
-[Store](https://web.archive.org/store/ "Shop for instruments, bows and cases")  
-[Instruments](https://web.archive.org/store/instruments/)  
-[Bows](https://web.archive.org/store/bows/)  
-[CDs](https://web.archive.org/store/cds/)  
-[Books](https://web.archive.org/store/books/)  
-[Videos](https://web.archive.org/store/videos/)  
-|    
+| 
+
+_"Resources, and a gathering place, for professional violinists online."_
+
+  
 [Home](https://web.archive.org/) > **Privacy policy**
 
 Violinist.com requires site users to register in order to access all features of the site. As part of the registration process, users will be asked to provide their name and e-mail address, as well as other identifying information.
