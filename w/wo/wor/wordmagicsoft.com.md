@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordmagicsoft.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605082309id_/http%3A//wordmagicsoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordmagicsoft.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095420id_/http%3A//www.wordmagicsoft.com/privacy) for the most accurate reproduction.*
 
 # Word Magic Software: English-Spanish Translation Software and Language Tools: dictionary, thesaurus, verb conjugator, spell checker
 
