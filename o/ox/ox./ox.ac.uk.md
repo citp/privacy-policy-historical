@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ox.ac.uk privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212194702id_/http%3A//www.admin.ox.ac.uk/councilsec/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ox.ac.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602210403id_/http%3A//www.admin.ox.ac.uk/councilsec/privacy.shtml) for the most accurate reproduction.*
 
 # Council Secretariat:
 
