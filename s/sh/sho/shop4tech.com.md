@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202191955id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619110044id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
-# Shop for Tech; Cdr, cd-r media, cd media, Nokia Face Plate, cd-r, Motorola Face Plate, Panasonic Battery, blank media, Nokia Battery, Nextel Battery, Nokia Case, Samsung Battery, Ericsson Battery, Nextel Case
+# DVD Recorders at Shop 4 Tech: DVD Media, Cell Phone Accessories, Printer Ink, Ink Cartridges
 
 Leda Multimedia Inc has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: shop4tech.com. 
 
