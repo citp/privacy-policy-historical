@@ -1,62 +1,62 @@
-> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/privacy.html) for the most accurate reproduction.*
 
 # The Heritage Foundation -- Privacy Policy
 
 | 
 
 **Heritage**  
-[Who We Are](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/whoweare/)  
+[Who We Are](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/whoweare/)  
 [Membership](http://www.heritage.org/membership/)  
 **Publications**  
 [Bookstore](http://www.heritage.org/bookstore/)  
 [Library  
-](http://www.heritage.org/library/)[News & Views ](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/news&views/)  
+](http://www.heritage.org/library/)[News & Views ](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/news&views/)  
 **Features  
 **[Mandate 2001  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/mandate/)[Policy Calculators](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/calculators/) **  
-**[E-mail Lists](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/listserv/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/news&views/)[Internships](http://www.heritage.org/internships/) _[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/mandate/)[Policy Calculators](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/calculators/) **  
+**[E-mail Lists](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/listserv/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/news&views/)[Internships](http://www.heritage.org/internships/) _[  
 ](http://www.policyreview.com/)_**Events**  
 [Calendar  
-](http://www.heritage.org/events/) [Heritage Live!](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/live/)  
+](http://www.heritage.org/events/) [Heritage Live!](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/live/)  
 **Resources  
 ** [Policy Experts  
-](http://www.policyexperts.org/)[Speakers](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/speakersbureau/)  
+](http://www.policyexperts.org/)[Speakers](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/speakersbureau/)  
 [Job Bank](http://www.heritage.org/jobbank/)  
 [Helpful Links](http://www.heritage.org/links/)
 
-[](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/listserv/)
+[](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/listserv/)
 
 [](https://secure.heritage.org/supportthf.cfm?taxcuts)
 
 **Key Issues  
-**[ABM / Missile Def.](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/missiledefense/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/nationalsecurity/)[Africa](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/africa/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/asia/)[Asia / Pacific](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/asia/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/budget/)[Budget](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/budget/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/crime/)[Crime](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/crime/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/education/)[Education](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/education/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/environment/)[Energy and Env't](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/environment/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/europe/)[Europe](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/europe/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/family/)[Family](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/family/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/govtreform/)[Gov't Reform](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/govtreform/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/healthcare/)[Health Care](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/healthcare/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/intlorganizations/)[Int'l Organizations](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/intlorganizations/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/technology/)[Internet and Tech.](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/technology/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/labor/)[Labor](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/labor/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/latinamerica/)[Latin America  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/latinamerica/)[Legal Issues](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/legal/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/legal/)[Middle East](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/middleeast/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/missiledefense/)[National Security](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/nationalsecurity/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/philosophy/)[Political Philosophy](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/philosophy/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/regulation/)[Regulation](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/regulation/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/russia/)[Russia and Eurasia](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/russia/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/smartgrowth/)[Smart Growth](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/smartgrowth/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/socialsecurity/)[Social Security](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/socialsecurity/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/taxes/)[Taxes](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/taxes/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/trade/)[Trade/Foreign Aid](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/trade/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/urban/)[Urban](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/urban/)[  
-](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/welfare/)[Welfare](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/library/keyissues/welfare/)
+**[ABM / Missile Def.](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/missiledefense/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/nationalsecurity/)[Africa](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/africa/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/asia/)[Asia / Pacific](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/asia/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/budget/)[Budget](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/budget/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/crime/)[Crime](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/crime/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/education/)[Education](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/education/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/environment/)[Energy and Env't](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/environment/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/europe/)[Europe](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/europe/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/family/)[Family](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/family/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/govtreform/)[Gov't Reform](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/govtreform/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/healthcare/)[Health Care](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/healthcare/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/intlorganizations/)[Int'l Organizations](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/intlorganizations/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/technology/)[Internet and Tech.](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/technology/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/labor/)[Labor](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/labor/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/latinamerica/)[Latin America  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/latinamerica/)[Legal Issues](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/legal/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/legal/)[Middle East](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/middleeast/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/missiledefense/)[National Security](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/nationalsecurity/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/philosophy/)[Political Philosophy](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/philosophy/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/regulation/)[Regulation](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/regulation/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/russia/)[Russia and Eurasia](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/russia/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/smartgrowth/)[Smart Growth](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/smartgrowth/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/socialsecurity/)[Social Security](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/socialsecurity/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/taxes/)[Taxes](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/taxes/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/trade/)[Trade/Foreign Aid](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/trade/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/urban/)[Urban](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/urban/)[  
+](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/welfare/)[Welfare](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/library/keyissues/welfare/)
 
 [](https://secure.heritage.org/supportthf.cfm?thfbut)
 
@@ -68,7 +68,7 @@ a friend today!
   
 **[   
 FREE Spring 2001  
-Publications Catalog](https://web.archive.org/web/20011217184611id_/http%3A//www.heritage.org/bookstore/catalog.html)**
+Publications Catalog](https://web.archive.org/web/20020605034349id_/http%3A//www.heritage.org/bookstore/catalog.html)**
 
 | 
 
