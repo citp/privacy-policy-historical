@@ -1,0 +1,53 @@
+> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204215340id_/http%3A//www.nationalservice.org/privacy_pol.html) for the most accurate reproduction.*
+
+# Corporation for National Service : Privacy Policy
+
+**[About Us](https://web.archive.org/web/20011204215340id_/http%3A//www.nationalservice.org/about/index.html) : [Corporation Policies](https://web.archive.org/web/20011204215340id_/http%3A//www.nationalservice.org/about/policies.html) : Privacy Policy** **Disclaimer**  
+Some of the documents on this server may contain live references (or pointers) to information created and maintained by other organizations. Please note that the Corporation does not control and cannot guarantee the relevance, timeliness, or accuracy of these outside materials. Before leaving the Corporation's website, a page will appear informing you that you are leaving our server. Once you link to another site, you are subject to the privacy policy of the new site. 
+
+This web site and the information it contains are considered public information, are provided as a public service by the Corporation for National Service (Corporation), and may be distributed or copied. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for other like purposes. 
+
+Thank you for visiting the Corporation for National Service's website. This policy explains how the Corporation will handle information we learn about you from your visit to our website. The information we receive depends on what you do when visiting our site. It can be categorized as **anonymous information** (which cannot be tied back to you as an individual) or **personally identifiable information** (which tells us specifically who you are, e.g., your name, phone number, e-mail or postal address). 
+
+Anonymous and personally identifiable information are collected and used in the following ways:
+
+**Browsing or Downloading**  
+If you browse through our site to browse or download information, we collect the following anonymous information: 1) the name of the domain from which you access the Internet; 2) the date and time you access our site; and 3) the Internet address of the website from which you linked directly to our site. 
+
+**Sending Us an E-mail**  
+You also may decide to send us personally identifying information. Any information that we collect may be subject to disclosure, but will be handled in accordance with the requirements of the [Privacy Act](https://web.archive.org/web/20011204215340id_/http%3A//www.nationalservice.org/about/policies.html), and the [Freedom of Information Act](https://web.archive.org/web/20011204215340id_/http%3A//www.nationalservice.org/about/foia/index.html) to ensure the greatest protection of personal privacy in the face of any required disclosure. Except as might be required by law, we do not share any information we receive with any outside parties.
+
+**Registering and applying for AmeriCorps** The same policies regarding e-mail, browsing, and downloading information apply to potential AmeriCorps members browsing the [How to Join AmeriCorps](http://www.americorps.org/joining/index.asp) section of the website. In addition, all personally identifiable information is kept confidential and secure. Only projects that you apply to will be able to view your application information. See Privacy Act Notice below for the Registering with AmeriCorps for the Customized Search and Applying to an AmeriCorps project.
+
+**Use of Cookies  
+What is a cookie?** A cookie is a piece of information that is sent to your browser, along with a Web page, when you access a Website. There are two kinds of cookies. A **session cookie** is a line of text that is stored temporarily in your computer's RAM. Because a session cookie is never written to a drive, it is destroyed as soon as you close your browser. A **persistent cookie** is a more permanent line of text that gets saved by your browser to a file on your hard drive. If you have your browser set to notify you before accepting cookies the notice will tell you if the cookie expires some time in the future or not. Persistent cookies have an expiration date in the future. Session cookies have no date associated with them.
+
+**The Corporation for National Service website does not use persistent cookies.** If your browser accepts cookies we may use cookies to secure the connection during a session visit. Only when entering a specific session or page, will a cookie be enabled to ensure your visit is secure. The cookie will be deleted when the visitor ends the session. To ensure your session has ended, close your browser.
+
+**Site Management**  
+For site management, information is collected for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors. This information is only used internally, does not contain personal identifiers, and will only be used for internal management purposes. 
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us at:
+
+Corporation for National Service  
+1201 New York Ave., NW  
+Washington DC 20525  
+202-606-5000  
+[webmaster@cns.gov](mailto:webmaster@cns.gov)
+
+**Registering for the Customized Search - Interest Profile**  
+OMB# 3045-0004 expires 10/31/2003
+
+**PRIVACY ACT NOTICE:** Recipients are advised that providing information herein requested is voluntary and will not be disclosed outside the Corporation for National Service (Auth. 42 USC 12501 et seq.) without your consent.
+
+****
+
+**Public Burden Statement:** The Paperwork Reduction Act of 1995 requires the Corporation to inform all potential person who are to respond to this collection of information that such persons are not required to respond unless it displays a currently valid OMB control number. (See 5 C.F.R. 1320.5(b)(2)(i)). The time required to complete this collection of information is estimated to average 3 minutes per applicant, and will be used for input into the national recruitment referral database and distributed to approved AmeriCorps programs who may contact the individuals who have completed the form and ask them to formally for AmeriCorps member positions. **Effects of Non-Disclosure:** Providing this information is voluntary; however, if the information is not collected, the national AmeriCorps Recruitment Office would be unable to effectively assist the programs with our recruitment and referral of potential AmeriCorps members. **Public Comments:** Comments on the burden or content of this instrument may be sent to the Corporation for National Service, 8th floor, Attn: AmeriCorps Recruitment Office, 1201 New York Avenue, NW Washington, D.C  
+
+
+**Applying to AmeriCorps**  
+OMB# 3045-0054 expires 06/30/2002
+
+**Public Burden Statement:** Public reporting burden for this collection of information is estimated to average 45 minutes per submission, including reviewing instructions, gathering and maintaining the data needed, and completing the form. Comments on the burden or content of this instrument may be sent to the Corporation for National Service, AmeriCorps Recruitment, 8th Floor, Attn: Noel McCaman, 1201 New York Avenue, NW, Washington, D.C. 20525. The Corporation informs people who may respond to this collection of information that they are not required to respond to the collection of information unless the OMB control number and expiration date displayed on page 1 are current and valid. (See 5 C.F.R. 1320.5(b)(2)(i).) 
+
+**PRIVACY ACT NOTICE:** The Privacy Act of 1974 (5 U.S.C § 552a) requires that the following notice be provided to you: The authority for collecting information from you in this application is contained in 42 U.S.C 12592 and 12615 of the National and Community Service Act of 1990 as amended, and 42 U.S.C. 4953 of the Domestic Volunteer Service Act of 1973 as amended. You are advised that submission of the information is entirely voluntary, but the requested information is required in order for you to participate in AmeriCorps programs. The principal purpose for requesting this personal information is to process your application for acceptance into an AmeriCorps program, and for other general routine purposes associated with your participation in an AmeriCorps program. These routine purposes may include disclosure of the information to federal, state, or local agencies pursuant to lawfully authorized requests, to present and former employers, references provided by you in your application, and educational institutions, for the purpose of verifying the information provided by you in your application. In some programs, the information may also be provided to federal, state, and local law enforcement agencies to determine the existence of any prior criminal convictions. The information will not otherwise be disclosed to entities outside of AmeriCorps and the Corporation for National Service without your prior written permission. 
