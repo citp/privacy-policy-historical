@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607033402id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207211118id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
 
 # USENIX - USENIX/SAGE Membership - Privacy Statement
 
@@ -6,13 +6,13 @@
 
 The following statement discloses The USENIX Association's information gathering and dissemination practices. 
 
-The USENIX Association maintains member databases that contain mailing, billing, and member profile information, as well as a record of each member's product purchases and registrations for conferences. The information in these databases is used by authorized USENIX staff members to process orders; mail invoices, purchases, member benefits, renewal notices, and announcements; and respond to member inquiries. Member records are maintained as long as an individual is a USENIX member and for three years following a membership lapse. Purchase and registration databases may be retained for up to three years. 
+The USENIX Association maintains member databases that contain mailing, billing, and member profile information, as well as a record of each member's product purchases and registrations for conferences. The information in these databases is used by authorized USENIX staff members to process orders; mail invoices, member benefits, renewal notices, and announcements; and respond to member inquiries. Member records are maintained as long as an individual is a USENIX member and for five years following a membership lapse. Purchase and registration databases may be retained for up to five years. 
 
 USENIX logs all accesses from your IP address to our Web site, and summary information derived from these logs may be displayed on the Web. 
 
 Personal information is stored in a relational database and standard security methods are used to protect it. We require confirmation of identity before releasing information back to the user for update over the Web. 
 
-Commercial information (such as credit card numbers) is obtained using our secure Web server. We assiduously avoid storing complete credit card information on our machines. If it is necessary to store sensitive data, we use public key encryption on it and require our staff to supply a private key to decrypt it. When passing such information internally over the Internet, we use our secure server. 
+Commercial information (such as credit card numbers) is obtained using our secure Web server. We do not store complete credit card information on our machines. If it is necessary to store sensitive data, we use public key encryption on it and require our staff to supply a private key to decrypt it. When passing such information internally over the Internet, we use our secure server. 
 
 ### Electronic Communication
 
