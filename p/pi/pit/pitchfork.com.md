@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pitchfork.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216003100id_/http%3A//www.pitchfork.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchfork.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603050458id_/http%3A//www.pitchfork.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement for Livestock World
 
 **Livestock World Privacy Notice**  
-Effective **April 25, 2000**
+Updated **April 25, 2000**
 
 **Privacy Notice Table Of Contents:**
     Our Commitment To Privacy
@@ -55,8 +55,8 @@ Protecting the privacy of the very young is especially important. All parts of L
 
 Should you have other questions or concerns about these privacy policies, please call us at 541-865-4366(PST) or send us an email at [webmaster@pitchfork.com](mailto:webmaster@pitchfork.com).
 
-Please click [ HERE ](https://web.archive.org/web/20001216003100id_/http%3A//www.pitchfork.com/main.htm) for the  
+Please click [ HERE ](https://web.archive.org/web/20010603050458id_/http%3A//www.pitchfork.com/main.htm) for the  
 Livestock World Table of Contents Page. 
 
-This page, and all contents, are Copyright © 1995-2000  
+This page, and all contents, are Copyright © 1995-2001  
 Livestock World 
