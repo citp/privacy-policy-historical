@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021814id_/http%3A//learner.org/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000928id_/http%3A//www.learner.org/private.policy.php) for the most accurate reproduction.*
 
-# ACPB : About Us : Privacy Policy
+# Annenberg / CPB
 
-Privacy Policy
+| 
+
+Privacy Policy 
 
 **Your Privacy**  
 Annenberg/CPB wishes to protect your privacy on the Web and in all areas where we connect with you. This privacy statement is divided into two parts: first, our general principles, and, second, the detailed actions we take to behave according to those principles. You can think of this second section as the "small print" or "legalese" section. Please feel free to send any questions you may have about this privacy policy to us at info@learner.org.
@@ -79,4 +81,6 @@ The electronic information our servers collect about visitors depends on what th
 >  [channel@learner.org](mailto:channel@learner.org) (for questions related to the Annenberg/CPB Channel)  
 >  [acpb@ordering.com](mailto:acpb@ordering.com) (for questions related to an online order you have placed) 
 >> 
->> If you are unsure which email address to use, please use [info@learner.org](mailto:info@learner.org).
+>> If you are unsure which email address to use, please use [info@learner.org](mailto:info@learner.org).  
+  
+---|---
