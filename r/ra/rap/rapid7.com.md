@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204224402id_/http%3A//www.rapid7.com/AboutRapid7-PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408023046id_/http%3A//rapid7.com/AboutRapid7-PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Rapid7 Inc. / NeXpose
 
@@ -19,3 +19,6 @@ Commitment
 We are committed to privacy and will only use the information you provide us as you request. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at webmaster@rapid7.com. We will address any issue to the best of our abilities.
 
 Thank you for your support of these policies and of Rapid7.
+
+  
+
