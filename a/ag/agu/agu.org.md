@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604041311id_/http%3A//www.agu.org/pubs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024020723id_/http%3A//www.agu.org/pubs/privacy.html) for the most accurate reproduction.*
 
 # AGU - Privacy Policy
 
