@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbian.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604042405id_/http%3A//www.symbian.com/About/legal-pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbian.com privacy policy that was archived on 2001-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011007051753id_/http%3A//www.symbian.com/About/legal-pp.html) for the most accurate reproduction.*
 
 # Legal Notice and Disclaimer
 
@@ -69,4 +69,4 @@ We may amend this privacy policy from time to time. If we make any changes we wi
 **15\. External Web Sites**  
 This privacy policy only applies to the web sites. The web sites may contain links to external web sites. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through the web sites. 
 
-[back to top](https://web.archive.org/web/20010604042405id_/http%3A//www.symbian.com/About/legal-pp.html)
+[back to top](https://web.archive.org/web/20011007051753id_/http%3A//www.symbian.com/About/legal-pp.html)
