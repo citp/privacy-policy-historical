@@ -38,3 +38,39 @@
 > 
 > Copyright © 1998 [Fodor's Travel Online Inc.](https://web.archive.org/)  
 > 
+[](https://web.archive.org/)
+
+> FODOR'S PRIVACY POLICY
+> 
+> * * *
+> 
+> Fodors.com website is maintained by Fodor's Travel Online Inc., 201 East 50th Street, New York, New York 10022. We can be reached by email at [editors@fodors.com](mailto:editors@fodors.com). 
+> 
+> HOW FODOR'S USES INFORMATION PROVIDED BY YOU: This site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifying information will not be sold or rented to any other party. To enable users to purchase books via Fodors.com, a user's personally identifying information will be shared with a third-party service provider solely for the purpose of order fulfillment. 
+> 
+> Generally, a user's personally identifying information may be used by Fodor's, its parent companies, subsidiaries, and affiliates for editorial, marketing, or promotional purposes. 
+> 
+> Fodor's will always provide an opt-out function when users submit personally identifiable information for such site activities as surveys, contests, sweepstakes, etc. Opting out allows you to elect not to receive unsolicited emails from us. 
+> 
+> For bulletin boards ("Departure Lounge," "Ask Our Expert") and emails to the company ("Write to Us" or "Write to Fodor's"), Fodor's will limit its use of personally identifiable information for editorial purposes (i.e., bulletin-board functions). We will not send you unsolicited emails as a result of your participating in these activities. 
+> 
+> If you have any concerns about the above, feel free to email us at [editors@fodors.com](mailto:editors@fodors.com). In the subject line of your email, please type the phrase "PRIVACY POLICY." 
+> 
+> Fodors.com users should be aware that when they voluntarily disclose personal information (e.g., user name, email address) on the bulletin boards, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. 
+> 
+> While your personally identifying information is protected as outlined above, we sometimes collect anonymous aggregated data and provide it to our advertisers for statistical purposes. For example, we might report to advertisers that a certain percentage of users are between the ages of 35 and 45. 
+> 
+> COOKIES: Fodors.com may place a cookie in the browser files of a Fodors.com user's computer. The cookie itself does not contain any personally identifying information although it will enable Fodors.com to relate a user's use of Fodors.com to information that the user has specifically and knowingly provided to Fodors.com. From time to time, Fodors.com hosts advertiser banners. If you link to our advertisers, you also may occasionally get cookies from them. Fodors.com does not control these cookies and these cookies are not subject to this policy. The use of advertising cookies sent by third-party servers is common in the Internet industry. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some portions of Fodors.com will not function properly if you do so. 
+> 
+> KIDS: Be sure to ask your parent's permission before you send any information about yourself (your name, address, email address, etc.) to us or anyone else over the Internet, and before making any purchases online. 
+> 
+> PARENTS: We encourage you to get involved with your childrens' online usage and to be aware of the activities in which they are participating. Any personally identifying information collected by Fodors.com from children (that we are aware are children) will only be used by Fodor's for internal purposes such as market research, contests, and sweepstakes fulfillment, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to our advertisers for statistical purposes described above. Finally, you should be aware that if your child voluntarily discloses his or her name, email address, etc. on various bulletin boards or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
+> 
+> If you have any concerns, do not hesitate to contact us at the above email address. 
+> 
+> OTHER TERMS: 
+> 
+> Other terms and conditions governing your use of Fodors.com can be found in our [Subscriber's Agreement.](https://web.archive.org/subagree/) Please read it. 
+> 
+> Copyright © 1999 [Fodor's Travel Online Inc.](https://web.archive.org/)  
+> 
