@@ -1,47 +1,75 @@
-> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602153302id_/http%3A//thekcrachannel.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcra.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204220044id_/http%3A//www.thekcrachannel.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
 
 # TheKCRAChannel.com - Privacy Policy
 
 | [](https://web.archive.org/news/)  
 ---  
-|  |  |  [Call 3](https://web.archive.org/call3/)
-
-[HealthWatch 3](https://web.archive.org/health/)
-
-[Money & Business](https://web.archive.org/money/)
-
-[Live Traffic 3](https://web.archive.org/weather/livetraffic3/)
-
-[Newsstand](https://web.archive.org/news/newsstand/)
-
-[News Tips](https://web.archive.org/news/newstips/)
-
-[Lottery](https://web.archive.org/news/lottery/)
-
+|  |  |  [Your Stories](https://web.archive.org/news/newstips/index_yourstories.html)  
+[News Tips](https://web.archive.org/news/newstips/)  
+[My E-News](https://web.archive.org/news/email-newsletters.html)  
+[Live Traffic 3](https://web.archive.org/weather/livetraffic3/)  
+[HealthWatch 3](https://web.archive.org/health/)  
+[Call 3](https://web.archive.org/call3/)  
+[Money & Business](https://web.archive.org/money/)  
+[Newsstand](https://web.archive.org/news/newsstand/)  
+[Live Traffic 3](https://web.archive.org/weather/livetraffic3/)  
+[Lottery](https://web.archive.org/news/lottery/)  
 [KCRA 3 Anchors  
-and Reporters](https://web.archive.org/kcratv/kcra3anchorsandreporters/)
+and Reporters](https://web.archive.org/kcratv/kcra3anchorsandreporters/) |  |   
+  
+[Help You Need](https://web.archive.org/thehelpyouneed/)  
+  
+---  
+  
+[Career Center](https://web.archive.org/employment/)  
+  
+[Automotive](https://web.archive.org/automotive/)  
+  
+[Travel Getaways](https://web.archive.org/travelgetaways/)  
+  
+[House & Home](https://web.archive.org/houseandhome/)  
+  
+[Legal Center](https://web.archive.org/legalcenter/)  
+  
+[Shopping](https://web.archive.org/shopping/)  
+  
+[Yellow Pages](http://y.ibsys.com/event.ng/Type=click&Tracker=localview&Redirect=http:%2f%2fwww.localview.com/)  
+  
+[My E-News](https://web.archive.org/news/email-newsletters.html)  
+  
+[News](https://web.archive.org/news/)
 
-[My E-News](https://web.archive.org/news/email-newsletters.html)
-
-|  |   
-[](https://web.archive.org/powerwatch3/)  
-[](http://www.thekcrachannel.com/news/)  
-[](http://www.thekcrachannel.com/weather/)  
-[](http://www.thekcrachannel.com/sports/)  
-[](http://www.thekcrachannel.com/call3/)  
-[](http://www.thekcrachannel.com/money/)  
-[](http://www.thekcrachannel.com/noonrecipes/)  
-[](http://www.thekcrachannel.com/technology/)  
-[](http://www.thekcrachannel.com/health/)  
-[](http://www.thekcrachannel.com/entertainment/)  
-[](http://www.thekcrachannel.com/travel/)  
-[](http://www.thekcrachannel.com/education/)  
-[](http://www.thekcrachannel.com/weather/skycams/)  
-[](http://forums.ibsys.com/index.cfm?sitekey=sac)  
-[](http://tv.tribune.com/whatson/home/0,1002,kcra,00.html)  
-[](http://www.thekcrachannel.com/kcratv/)  
-[](http://tv.tribune.com/whatson/home/0,1002,kqca,00.html)  
-[](http://www.thekcrachannel.com/kqcatv/)  
+|   
+---|---  
+  
+[WeatherWatch 3](https://web.archive.org/weather/)  
+  
+[Sports](https://web.archive.org/sports/)  
+  
+[Call 3](https://web.archive.org/call3/)  
+  
+[Money &  
+Business](https://web.archive.org/money/)  
+  
+[Noon Recipes](https://web.archive.org/noonrecipes/)  
+  
+[Technology](https://web.archive.org/technology/)  
+  
+[HealthWatch 3](https://web.archive.org/health/)  
+  
+[Entertainment](https://web.archive.org/entertainment/)  
+  
+[Holidays](https://web.archive.org/holidays/)  
+  
+[Education &  
+Training](https://web.archive.org/education/)  
+  
+[Sky Cams](https://web.archive.org/weather/skycams/)  
+  
+[Contact KCRA](https://web.archive.org/feedback/)  
+  
+[KCRA Talk Back](http://forums.ibsys.com/index.cfm?sitekey=sac)  
+  
   
 
 
@@ -87,4 +115,6 @@ Mendota Heights, MN 55120
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We may also decide to notify our users by e-mail of significant changes.
 
-Stock Box [Copyright ©2001](https://web.archive.org/sh/miscellaneous/stories/miscellaneous-75094720010502-100516.html) , Standard & Poor's, a division of The McGraw-Hill Companies, Inc. All rights reserved.
+  
+  
+
