@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020115508id_/http%3A//netsuite.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610010020id_/http%3A//netsuite.com/about/privacy.html) for the most accurate reproduction.*
 
 # About Visionael - Online Privacy Statement
 
@@ -48,5 +48,5 @@ If you have comments or questions about our privacy policy, please email us at [
 
 * * *
 
-© 2001 Visionael Corporation. All rights reserved.  
+© 2002 Visionael Corporation. All rights reserved.  
 [Home](https://web.archive.org/index.html)  |  [Search](https://web.archive.org/search/search.html)  |  [Feedback](mailto:webmaster@visionael.com)  |  [Privacy Statement](https://web.archive.org/about/privacy.html) |  |    
