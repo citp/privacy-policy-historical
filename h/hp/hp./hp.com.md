@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hp.com privacy policy that was archived on 2004-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040528221441id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hp.com privacy policy that was archived on 2005-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050125214850id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
 
 # HP Online privacy statement
 
-|  HP and its subsidiaries respect your privacy and are committed to protecting it. HP provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. We make this notice readily available on our home page and at the bottom of every HP Web page. Some HP Web pages are [P3P-enabled](https://web.archive.org/country/fg/fe/privacy/p3p_popup.html), which allows you additional control over your personal information. 
+|  HP and its subsidiaries respect your privacy and are committed to protecting it. HP provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. We make this notice readily available on our home page and at the bottom of every HP Web page. Some HP Web pages are [P3P-enabled](https://web.archive.org/country/us/en/privacy/p3p_popup.html), which allows you additional control over your personal information. 
 
 HP is a founding sponsor of the Council of Better Business Bureau's [ BBBOnLine](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://www.bbbonline.org/) Privacy Program, the "gold standard" for privacy certification. HP privacy practices meet the requirements of the Privacy Program and we are proud to display the BBBOnLine Privacy Seal. 
 
@@ -57,6 +57,8 @@ To personalize our websites, services or communications and improve our products
 
 HP also provides a Web-based business card e-service, [ ecardfile.com](http://www.ecardfile.com/). If you choose to use it, you supply the personal and business contact information of your choice and can set each element as public or private. Information you designate as public is available to any viewer who looks up your card. Ecardfile.com is not a customer registration service.
 
+» 
+
   * ### Non-personal information
 
 is data about usage and service operation that is not associated with a specific personal identity. HP collects and analyzes non-personal information to evaluate how visitors use the HP websites. 
@@ -110,8 +112,8 @@ HP will not use your personal information for a different purpose than the one s
 >   
 >  You can make your choice regarding these communications by using HP Passport to set your privacy preferences, which are applicable across all HP websites. 
 > 
->   * If you have never registered with HP Passport, [ create your privacy preferences](https://passport.hp.com/hpp2/priprefs.do)
->   * If you have registered with HP Passport in the past, [ edit your privacy preferences](https://passport.hp.com/hpp2/modify.do?SMLOCALE=US-EN&hpbrand=true&hpappid=privacy&smredirect=http://www.hp.com/country/us/en/privacy.html) (requires a user ID and password) 
+>   * If you have never registered with HP Passport, [ create your privacy preferences](https://passport2.hp.com/hpp/priprefs.do?s_lang=en&hpappid=privacy)
+>   * If you have registered with HP Passport in the past, [ edit your privacy preferences](https://passport2.hp.com/hpp/modify.do?s_lang=en&hpappid=privacy&smredirect=http://www.hp.com/country/us/en/privacy.html) (requires a user ID and password) 
 > 
 
 > 
