@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporate-ir.net privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212022037id_/http%3A//ccbn.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporate-ir.net privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205085044id_/http%3A//www.ccbn.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # CCBN's Privacy Policy
 
