@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apple.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602060418id_/http%3A//www.apple.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apple.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202021607id_/http%3A//www.apple.com/legal/privacy) for the most accurate reproduction.*
 
 # Apple - Apple Customer Privacy Statement
 
@@ -52,4 +52,4 @@ To make sure your personal information remains confidential, we communicate thes
 
   The TRUSTe trustmark reflects our promise to tell you what personal information we collect; the types of companies we may share your information with; the choices available to you regarding the collection, use, and distribution of the information; the security procedures in place to protect the loss or misuse of information under our control; and how you can correct inaccuracies in the information. 
 
-  If you have questions or concerns about Apple’s collection, use, or disclosure of your personal information, please email us at [privacy@apple.com](mailto:privacy@apple.com). If Apple doesn’t respond or your inquiry hasn’t been addressed to your satisfaction, please visit the [TRUSTe website](http://www.truste.org/users/watchdog.html) for contact information. This certification applies to all sites under the apple.com domain. However, any communications to TRUSTe must be in English.
+  If you have questions or concerns about Apple’s collection, use, or disclosure of your personal information, please email us at [privacy@apple.com](mailto:privacy@apple.com). If Apple doesn’t respond or your inquiry hasn’t been addressed to your satisfaction, please visit the [TRUSTe website](http://www.truste.org/users/watchdog.html) for contact information. This certification applies to all sites under the apple.com domain.
