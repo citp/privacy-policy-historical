@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604054045id_/http%3A//www.radioshack.com/Legal/PrivacyPolicyIndex.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815073205id_/http%3A//www.radioshack.com/Legal/PrivacyPolicyIndex.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |    | We're Concerned About Privacy  
+| |   
+|     
 ---  
+We're Concerned About Privacy  
 RadioShack.com understands and respects the privacy of its users. As a general policy, no personal information is automatically collected from visitors to its sites. However, certain non-personal information about visitors is recorded by the standard operation of RadioShack.com Internet servers. Information tracked includes the type of browser being used by the visitor (e.g., Netscape, Internet Explorer), the type of operating system (e.g., Macintosh, Windows) in use by the visitor and the domain name of the visitor's Internet service provider (e.g., America Online, Earthlink). This information helps us to optimize RadioShack.com for a particular visitor's computer. This information is also used to track the number of visitors to the site in an aggregate and non-personally-identifiable form, and to save shopping cart information for a specified period of time (see below). 
 
 RadioShack is committed to the protection of the privacy of its customers and website visitors. Currently, our website systems do not automatically capture any personal information identifiable to you, including your e-mail address, unless you specifically give it to us. 
@@ -23,7 +25,7 @@ Our website contains links to other websites that are not operated or controlled
 
 In consideration of young users, it is our intention to adhere to the Better Business Bureau's "Children Advertising Review Unit" (CARU) guidelines, including its guidelines on advertising. When you communicate with RadioShack.com, we make every effort to ensure your privacy and safety. As an added precaution, however, we still encourage parents to monitor their child's use of the Internet, and to help us protect their privacy by reminding them never to exchange personal information with this or any other website without the assistance or express written permission of a parent or other responsible adult.   
   
-Copyright © 2000 RadioShack Corporation. All rights reserved.  
+Copyright © 2001 RadioShack Corporation. All rights reserved.  
    
   
 
