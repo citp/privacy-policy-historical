@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204180855id_/http%3A//mtvasia.com/Bottom/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610031843id_/http%3A//www.mtvasia.com/Bottom/Privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,7 +83,8 @@ MTV ASIA ONLINE gives users options wherever necessary and practical. Such choic
 
 Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter.
 
-**MTV Asia Online**  
-Asiacontent.com  
-152 Beach Road, Gateway East  
-#36-00 Singapore 189721.
+**MTV Asia Online** c/o MTV Asia LDC  
+Robinson Road  
+P. O. Box 2088  
+Singapore 904088  
+
