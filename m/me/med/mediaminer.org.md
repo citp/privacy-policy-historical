@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the mediaminer.org privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201062856id_/http%3A//mediaminer.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaminer.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405210053id_/http%3A//mediaminer.org/privacy.php) for the most accurate reproduction.*
 
 # MediaMiner.org - Privacy Policy
 
+  
   
 **MediaMiner Privacy Policy**  
 This MediaMiner privacy policy describes the privacy practices for MediaMiner. As part of our commitment to your privacy, MediaMiner has posted and maintains our own privacy policy, you should read this policy if you intend to visit MediaMiner.
