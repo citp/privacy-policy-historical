@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203151615id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607025754id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
 
 # iATN - Privacy Policy
 
@@ -29,6 +29,8 @@ Sponsors](http://www.iatn.net/atn/)
 
 [Need Help?](http://www.iatn.net/pubhelp.asp)
 
+[Contact Us](http://www.iatn.net/contact.html)
+
 [iATN Careers](http://www.iatn.net/jobs/)
 
 [Press Kit](http://www.iatn.net/press/)
@@ -39,7 +41,7 @@ Sponsors](http://www.iatn.net/atn/)
 
 Privacy Policy
 
-Revision 1.0.1 \- July 17, 2003
+Revision 1.0.3 \- March 8, 2004
 
 * * *
 
@@ -49,7 +51,7 @@ iATN has always considered the protection of your private personal information t
 
   * We do not sell or rent your personal information to third parties.
   * We do not share your personal information with advertisers or sponsors.
-  * We have zero tolerance for unsolicited commercial email (a.k.a. "spam").
+  * We have zero tolerance for unsolicited commercial email (a.k.a. "spam"). For information on the email iATN sends, please see [this page](http://www.iatn.net/nospam.html).
   * We encrypt credit card information and otherwise secure your personal data.
   * We will display the name, company name, position, and general location (city, state, country, zipcode) of registered members in our public member directory, and may also in other areas of our site, including areas showing who is "online" on our network, and in any Interactive Content created by said member.
   * Any Interactive Content posted to or sent through the network (e.g. TechMail, forum posts, etc.), is not private and is not covered by this privacy policy.
@@ -106,7 +108,7 @@ There may be situations where iATN collects data through a survey, web form, or 
 
 Information about our members is an important part of our business, and we take great pains not to reveal the following private personal information to others: email address, username, password, phone number, street address (not including city, state, country, zipcode), and credit card information. Only authorized iATN staff, agents, and credit card processors have access to private member information, and even then only in a tightly controlled manner. 
 
-  * **Agents of iATN** : We currently employ one outside agency, [L-Soft](http://www.lsoft.com/), which only has access to iATN member names and email addresses, for the express purpose of delivering portions of iATN email to them. In the normal course of the day, no one at L-Soft directly interacts with your information. We have your name and email address securely stored in their "email list server," and only if a problem occurs would any L-Soft staff see your address. Both iATN and L-Soft work hard to ensure the privacy of your information.
+  * **Agents of iATN** : We currently employ one outside agency, [L-Soft](http://www.lsoft.com/), which only has access to iATN member names and email addresses, for the express purpose of delivering portions of iATN email to them. In the normal course of the day, no one at L-Soft directly interacts with your information. We have your name and email address securely stored in their "email list server," and only if a problem occurs would any L-Soft staff see your address. Both iATN and L-Soft work hard to ensure the privacy of your information. For information on the email iATN sends, please see [this page](http://www.iatn.net/nospam.html).
   * **Credit Card Processing** : If you purchase something from the [iATN Store](http://members.iatn.net/store/), or [upgrade your iATN account](http://members.iatn.net/upgrade/) to sponsoring member status, your name, billing & shipping addresses, purchase information, and credit card information is necessarily shared with our credit card processing companies to complete the transaction. We are currently using Authorize.Net and VeriSign for credit card processing services. All communication between our servers and theirs is encrypted with SSL 128-bit security to protect your information while in transit.
   * **Aggregate and Anonymous Information** : iATN may share aggregate and/or anonymous statistics and related information with third parties. At no time will any personally-identifiable information be included. Most of this information will be in the form of network growth, usage statistics and demographics of registered members. 
   * **Corporate Sponsors** : iATN has several [corporate sponsors](http://www.iatn.net/atn/) which subsidize the network and provide great support to our members. At no time have we ever shared your personal information with these companies, nor will we in the future without your express consent.
@@ -118,7 +120,7 @@ In addition, this same personal information is displayed, to some extent, with a
   * **Business Transfers** : In the unlikely event that iATN (or substantially all of its assets) are acquired, member information will most likely be one of the transferred assets. However, before such a transfer takes place, we would require that the acquiring company abide by this privacy policy when dealing with member information, and/or we will give members the opportunity to "opt out," at which point their information would NOT be transferred. 
   * **Third-Party Web Sites** : iATN does not control the privacy practices of its advertisers, sponsors, and other third-party sites that it promotes or links to. If you click through a banner ad or link and submit your information to a third-party, you will be subject to their privacy policies.
   * **Private Email from Members** : As explained in this policy, iATN does not reveal your email address to other members (although you may have decided to release that information in Interactive Content submitted on our network, which we cannot control). However, we DO make it possible for other members to contact you on iATN through the use of a form on our website. Your email address is never revealed to the member in this case. They would see only your non-private personal information, such as your name, company name, position, and general location (city, state, country, zipcode). We may also allow the general public to send private email to members in the same fashion.
-  * **Breach of Terms of Use, Guidelines, Etc.** : In the event that a registered member breaches our [Terms of Use](http://www.iatn.net/disclaim.html), [our guidelines](http://www.iatn.net/guide.html), the [member agreement](http://www.iatn.net/join.asp), or the laws governing iATN and its members, we reserve the right to use any information we have obtained from said member -- personal, or otherwise \-- to (among other things) protect the property, safety, and rights of iATN. Under these circumstances, said information is not governed by this privacy policy.
+  * **Breach of Terms of Use, Guidelines, Etc.** : In the event that a registered member breaches our [Terms of Use](http://www.iatn.net/disclaim.html), [our guidelines](http://www.iatn.net/guide.html), the [member agreement](http://www.iatn.net/join.asp), or the laws governing iATN and its members, we reserve the right to use any information we have obtained from said member -- personal, or otherwise -- to (among other things) protect the property, safety, and rights of iATN. Under these circumstances, said information is not governed by this privacy policy.
   * **With Your Consent** : Other than as set out above, you will receive notice in the unlikely event that information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
   * **Unforeseen Circumstances** : Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this privacy policy. For example: third parties may unlawfully intercept or access transmissions or private communications; authorities may supply search warrants for our premises; a program error, hardware glitch, network problem, or other technical issue may inadvertantly reveal personal information; we may need to disclose personal information to enforce our [Terms of Use](http://www.iatn.net/disclaim.html), or to protect the property, safety, and rights of iATN. Therefore, although we constantly strive to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.  
 
@@ -141,9 +143,9 @@ We provide an [Account Settings](http://members.iatn.net/config/) page where reg
 
 ### **What Choices Do I Have?**
 
-  * You can always choose not to provide information to us[](https://web.archive.org/exec/obidos/tg/cm/top-reviewers-list/-/1/102-7655709-0898503), although this may result in the inability to use certain or all parts of iATN, including the entire members-only area of our network.
+  * You can always choose not to provide information to us, although this may result in the inability to use certain or all parts of iATN, including the entire members-only area of our network.
   * You can add or update certain information in the [Account Settings](http://members.iatn.net/config/) area of our site. When you update information, we usually keep a copy of the prior version for our records.
-  * If you do not wish to receive email from iATN, you must cancel your account, also available near the bottom of the [Account Settings](http://members.iatn.net/config/) page.
+  * If you do not wish to receive email from iATN, you must cancel your account, also available near the bottom of the [Account Settings](http://members.iatn.net/config/) page. For information on the email iATN sends, please see [this page](http://www.iatn.net/nospam.html).
   * Your browser can be configured as to how it receives, handles, and stores "cookies" sent by our site. The degree to which you can manipulate these settings depends on your web browser's capabilities. Restricting the cookies accepted from iATN by your browser may have a negative impact on your ability to use iATN.
   * Many third-party programs exist to allow you to control and limit the information which flows between your computer and the internet. Installation of some of these programs may have a negative impact on your ability to use iATN.
 
@@ -171,7 +173,8 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
 
 ### **Related Practices and Information**
 
-  * [Terms of Use](http://www.iatn.net/disclaim.html)  
+  * [Terms of Use](http://www.iatn.net/disclaim.html)
+  * [The Email iATN Sends](http://www.iatn.net/nospam.html)  
 
   * [Member Agreement (Made When Registering)](http://www.iatn.net/join.asp)
   * [iATN Guidelines](http://www.iatn.net/guide.html)
@@ -185,7 +188,14 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
 >  411 W. Lambert Rd. #409  
 >  Brea, CA, USA 92821
 > 
->   Phone: (714) 257-1335      FAX: (714) 257-0970  
+>   Phone: (714) 257-1335  
 >  Email: [support@iatn.net](mailto:support@iatn.net)
 
-* * *
+### **Privacy Policy - History**
+
+  * **Revision 1.0.3 (March 8, 2004)** Removed our FAX number from the contact information to avoid FAX harvesting by spammers. (Please email [support@iatn.net](mailto:support@iatn.net) if you need our FAX number.)
+  * **Revision 1.0.2 (December 29, 2003)** We added this revision history section to track changes to our privacy policy. We added links to [our page discussing the email we send](http://www.iatn.net/nospam.html) to this privacy policy.
+
+
+
+> * * *
