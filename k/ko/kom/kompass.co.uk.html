@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the kompass.co.uk privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204155135id_/http%3A//www.kompass.co.uk/info/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kompass.co.uk privacy policy that was archived on 2004-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040609175653id_/http%3A//kompass.co.uk/info/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 
-<title>Kompass UK - The Business to Business Search Engine</title>
+<title>Kompass Connects Your Business to Buyers</title>
 <meta name="description" content="Kompass.co.uk contains all the information that UK purchasers and suppliers need to make informed business decisions. Covering all industry sectors, from manufacturers to distributors, Kompass can provide you with the information you need.">
 <meta name="keywords" content="kompass, kompas, kompasss, compass, product, engineering, manufacturers, exporters, uk, united kingdom, suppliers, companies, business, directory, database, information, info, overseas, find, buy">
 <meta name="robots" content="index,follow">
@@ -96,7 +96,213 @@ function get_cookie(Name) {
 </script>
 </head>
 <body bgcolor="#FFFFFF" text="#000000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/images/home2.gif','/images/contact2.gif','/images/sitemap2.gif','/images/RArrow2.gif');UserOn();">
-<script language="javascript" src="/kompassNS.js"></script>
+<script language="javascript" src="/browser_detect.js"></script>
+<script defer="">
+<!--
+
+   document.cookie="UserName=FF"
+   // define the addresses of the kompass.com servers
+   url_kiserver = "http://portal.kompass.com/kinl/";
+   url_adserver = "http://static.kompass.com/kinl/";
+
+function nomad(chaine)
+{
+	NbreCar=3;
+	if ( ( ( (chaine.indexOf("*") != -1) && (chaine.indexOf("*") < NbreCar) ) || ( (chaine.indexOf("%") != -1) && (chaine.indexOf("%") < NbreCar) ) ) )
+	    return true;
+	else
+	    return false;
+}
+
+function mnCheck1(e)
+{
+	var key;
+	if (window.event) {
+		key=window.event.keyCode;
+		if (key==13) {
+			window.event.keyCode = 0; 
+			SaveToCookie();
+			return false;
+			}
+
+		else {
+			return true;
+		     }
+		}
+
+}
+
+function mnCheck2(e)
+{
+	var key;
+	if (window.event) {
+		key=window.event.keyCode;
+		if (key==13) {
+			//alert("here we go...");
+			verifSaisie();
+			}
+		}	
+
+	return true;
+
+}
+
+function verifSaisie(formu)
+{
+	list  = "";
+	myChoice = 0;
+	myType = 0;
+	myLang = "en";
+	myActivity = "";
+	selection =0;
+
+    //busy_mark (false);
+
+    // 09-Jul-2002 JR  - removed URLrechGuidee() function. 
+    // move the focus back to the search word box -- this is crucial to
+	// prevent multiple searches being started by "roller" button mice
+	// being used to select the country.
+    formu._Keyword.focus();
+
+	if (nomad(formu._Keyword.value))
+	{
+		alert("You must enter at least 3 characters before * or % symbols");
+		formu._Keyword.focus();
+		return;
+	}
+
+    // set the search language for all searches
+	//formu._Lang.value=member_language;
+	//formu._Langrech.value=member_language;
+
+	// selection de la recherche
+	for(i=0; i< formu._Choix.length; i++)
+	{
+		if (formu._Choix.options[i].selected == true)
+		{
+			search_type = formu._Choix.options[i].value;
+			switch (search_type)
+			{
+			case 'KW' : //Keyword
+
+				if(formu._Keyword.value == '' )
+				{
+    		        // search word(s) missing - quietly ignore this request
+					return;
+				}
+				busy_mark (true);
+			    formu._Prod.value= "ACTI2";
+				formu._Typerech.value= "1";
+  				formu._Choice.value="company";
+ 				formu._Description.value = "";
+  				formu._Action.value="31";
+  				formu._Prevact.value="SOCRECH";
+ 				formu._Path.value="";
+   				formu._Secteur.value="SOC";
+				formu._Page.value="comp_list";
+  				formu._SearchURL.value=url_kiserver+"cgi-bin/KINL_SOCaction.cgi";
+				formu.action="/searchframe.asp";
+  				formu.submit();
+				break;
+
+			case 'PS' : //Products & services
+
+				if(formu._Keyword.value == '' )
+				{
+    		        // search word(s) missing - quietly ignore this request
+					return;
+				}
+
+				busy_mark (true);
+				formu._Action.value="21";
+				formu._Prevact.value="PRORECH";
+				formu._Page.value="";
+				formu._Path.value="";
+				formu._Level.value="";
+				formu._Secteur.value="SOC";
+				formu._Typerech.value="";
+				formu._Prod.value="";
+				formu._Nbpage.value="1";
+				formu._Pgdebut.value="1";
+				formu._Choice.value="product";
+				formu._SearchURL.value=url_kiserver+"cgi-bin/KINL_PROaction.cgi";
+				formu.action="/searchframe.asp";
+				formu.submit();
+				break;
+
+			case 'GS' : //Guided search
+
+				if(formu._Keyword.value != '' )
+				{
+					alert ("Search word(s) are ignored in guided searches");
+				}
+
+				formu._Action.value="49_RECGUIDEE";
+				formu._Page.value="classif";
+				formu._Path.value="classif";
+				formu._Level.value="1";
+				formu._SearchURL.value=url_kiserver+"cgi-bin/KINL_PROaction.cgi";
+				formu.action="/searchframe.asp";
+				formu.submit();
+			    break;
+
+			case 'CN' :  // company name
+			case 'TN' :  // trade name
+			case 'EN' :  // executive
+
+				if(formu._Keyword.value == '' )
+				{
+    		        // search word(s) missing - quietly ignore this request
+					return;
+				}
+
+				busy_mark (true);
+				formu._Action.value="46_det_fic";
+				formu._Prevact.value="SOCRECH";
+				formu._Typerech.value= "1";
+				formu._Description.value= "";
+				formu._Path.value="";
+				formu._Prod.value="";
+				formu._Secteur.value="SOC";
+				formu._Level.value="";
+				formu._Choice.value="";
+				formu._Page.value="comp_list";
+				formu._SearchURL.value=url_kiserver+"cgi-bin/KINL_SOCaction.cgi";
+				formu.action="/searchframe.asp";
+				formu.submit();
+				break;
+
+			default:
+    		    alert ("Bugcheck: unexpected search type ["+search_type+"]" );
+    		    return;
+				break;
+			}
+		}
+	}
+}
+
+function busy_mark() {
+
+}
+
+
+function SaveToCookie() {
+
+	document.cookie = "UserName=" + document.SignIn._Username.value;
+	document.cookie = "Password=" + document.SignIn._Passwd.value;
+	document.SignIn.method = "Post";
+	document.SignIn.submit();
+	
+}
+
+function ReturnURL(url) {
+	
+	//alert("hello");
+
+}
+
+//-->
+</script>
 <link rel="stylesheet" href="/KUK2002NS.css" type="text/css">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
@@ -127,13 +333,13 @@ function get_cookie(Name) {
           <td height="22" valign="top" width="424"> 
             <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
               <tbody><tr> 
-                <td width="79" height="22" valign="middle"> <a href="/info/products/kshop.htm" class="TopBar" target="_parent">Online 
-                  Shop</a> </td>
-                <td width="77" valign="middle"><a href="/info/form/freelist.htm" class="TopBar" target="_parent">Free 
+                <td width="98" height="22" valign="middle"><a href="/info/privacy.htm" class="TopBar">Privacy 
+            Policy</a></td>
+                <td width="83" valign="middle"><a href="/info/form/freelist.htm" class="TopBar" target="_parent">Free 
                   Listing</a> </td>
-                <td width="67" valign="middle"><a href="/info/form/feedback.htm" class="TopBar" target="_parent">Feedback</a> 
+                <td width="69" valign="middle"><a href="/info/form/feedback.htm" class="TopBar" target="_parent">Feedback</a> 
                 </td>
-                <td width="201" valign="middle"><a href="/info/aboutus.htm" class="TopBar" target="_parent">About 
+                <td width="176" valign="middle"><a href="/info/aboutus.htm" class="TopBar" target="_parent">About 
                   Us</a> </td>
               </tr>
             </tbody></table>
@@ -343,12 +549,12 @@ function get_cookie(Name) {
       </table>
     </td>
     <td width="100%" valign="middle"> 
-      <div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width="440" height="60">
-          <param name="movie" value="/KConnects.swf">
-          <param name="quality" value="high">
-          <embed src="/KConnects.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="440" height="60">
-           
-        </object></div>
+      <div align="center"><!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width="440" height="60">
+          <param name=movie value="/KConnects.swf">
+          <param name=quality value=high>
+          <embed src="/KConnects.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="440" height="60">
+          </embed> 
+        </object>//--></div>
     </td>
   </tr>
   <tr> 
@@ -362,142 +568,42 @@ function get_cookie(Name) {
   </tr>
 </tbody></table>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tbody><tr> 
-    
-	<td width="160" valign="top" rowspan="2"> 
-      <table width="160" border="0" cellpadding="0" cellspacing="0">
+	<td width="150" valign="top" rowspan="2"> 
+      <table width="150" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr> 
-          <td width="160" height="600" valign="top"> 
+          <td width="150" height="600" valign="top"> 
             
-<table width="159" border="0" cellpadding="0" cellspacing="0" height="100%">
+<table width="140" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
-    <td width="140" valign="top" height="1104" bgcolor="#666666"> 
-      <table width="140" border="0" cellpadding="4" cellspacing="1" height="1104">
-        <tbody><tr> 
-          <td width="131" height="25" valign="middle" bgcolor="#F7F7F7" class="MenuHeader">Our 
-            Products</td>
-        </tr>
-        <tr> 
-          <td valign="top" height="104" bgcolor="#FFFFFF"> <a href="/info/products.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Product 
-            Summary</a><br>
-            <a href="/info/products/internet.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Internet</a><br>
-            <a href="/info/products/direct.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">List 
-            Rental</a><br>
-            <a href="/info/products/cdrom.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">CD-Rom</a><br>
-            <a href="/info/products/directories.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Directories</a><br>
-          </td>
-        </tr>
-        <tr> 
-          <td height="25" valign="middle" bgcolor="#F7F7F7" class="MenuHeader">Advertising</td>
-        </tr>
-        <tr> 
-          <td height="64" valign="top" bgcolor="#FFFFFF"> <a href="/info/advertising.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Advertise 
-            in <br>
-            <img src="/images/Spacer.gif" width="16" height="7" border="0">Kompass</a><br>
-          </td>
-        </tr>
-        <tr> 
-          <td height="25" valign="middle" class="MenuHeader" bgcolor="#F7F7F7">Helpdesk</td>
-        </tr>
-        <tr> 
-          <td height="74" valign="top" bgcolor="#FFFFFF"> <a href="/info/helpdesk/techUpdates.htm" class="MenuItem"> 
-            <img src="/images/BArrow1.gif" width="16" height="7" border="0">Technical 
-            Library</a><br>
-            <a href="/info/helpdesk/faqs.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">FAQ's</a><br>
-            <a href="/info/helpdesk/userguides.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">User 
-            Guides</a><br>
-            <br>
-            <img src="/images/Spacer.gif" width="20" height="2"></td>
-        </tr>
-        <tr> 
-          <td height="25" valign="middle" bgcolor="#F7F7F7" class="MenuHeader">Free 
-            Listing</td>
-        </tr>
-        <tr> 
-          <td height="60" valign="top" bgcolor="#FFFFFF"><a href="/info/form/freelist.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Get 
-            Listed in </a><br>
-            <img src="/images/Spacer.gif" width="16" height="7" border="0"><a href="/info/form/freelist.htm" class="MenuItem">Kompass</a><br>
-            <br>
-            <img src="/images/Spacer.gif" width="20" height="2"></td>
-        </tr>
-        <tr> 
-          <td height="25" valign="middle" bgcolor="#F7F7F7" class="MenuHeader">Useful 
-            Links</td>
-        </tr>
-        <tr> 
-          <td height="146" valign="top" bgcolor="#FFFFFF"> <a href="/info/useful_links/government.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Government</a><br>
-            <a href="/info/useful_links/professional.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Professional</a><br>
-            <a href="/info/useful_links/patents.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Patents 
-            &amp;<br>
-            </a><img src="/images/Spacer.gif" width="16" height="7" border="0"><a href="/info/useful_links/patents.htm" class="MenuItem">Trademarks</a><br>
-            <a href="/info/useful_links/stats.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Statistics</a><br>
-            <a href="/info/useful_links/news.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">News</a><br>
-            <a href="/info/useful_links/searchengines.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Search 
-            Engines</a><br>
-            <a href="/info/useful_links/other.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Other</a><br>
-            <br>
-            <img src="/images/Spacer.gif" width="20" height="2"></td>
-        </tr>
-        <tr> 
-          <td height="25" valign="middle" class="MenuHeader" bgcolor="#F7F7F7">Business 
-            Tools</td>
-        </tr>
-        <tr> 
-          <td height="176" valign="top" bgcolor="#FFFFFF"> <a href="/info/dbtracker1.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">D&amp;B 
-            Tracker</a><br>
-            <a href="/external.asp?Address=http://www.do-business.net/microsite/r.asp?l=7886531" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Business 
-            Reports</a><br>
-            <a href="/external.asp?Address=http://www.economist.com/countries/" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Country 
-            Briefings</a><br>
-            <a href="/external.asp?Address=http://www.cofaceuk.com/pages/what-we-do/" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Credit 
-            Solutions</a><br>
-            <a href="/external.asp?Address=http://www.engineeringtalk.com" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">EngineeringTalk</a><br>
-            <a href="/external.asp?Address=http://europa.eu.int/index_en.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">European 
-            Union </a><br>
-            <a href="/external.asp?Address=http://www.zephus.com" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Mergers 
-            &amp; </a><br>
-            <img src="/images/Spacer.gif" width="16" height="7" border="0"><a href="/external.asp?Address=http://www.zephus.com" class="MenuItem">Aquisitions</a><br>
-            <a href="http://www.xe.com/pca/" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Currency 
-            </a><br>
-            <img src="/images/Spacer.gif" width="16" height="7" border="0"><a href="http://www.xe.com/pca/" class="MenuItem">Converter</a><br>
-            <br>
-            <img src="/images/Spacer.gif" width="20" height="2"></td>
-        </tr>
-        <tr> 
-          <td height="25" valign="middle" bgcolor="#F7F7F7" class="MenuHeader">Jobs</td>
-        </tr>
-        <tr> 
-          <td height="60" valign="top" bgcolor="#FFFFFF"> <a href="/info/jobsearch.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Job 
-            Search</a><br>
-            <a href="javascript:Popup()" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Recruiter</a><br>
-            <br>
-            <img src="/images/Spacer.gif" width="20" height="2"></td>
-        </tr>
-        <tr> 
-          <td height="25" valign="middle" class="MenuHeader" bgcolor="#F7F7F7">Kompass 
-            Shop</td>
-        </tr>
-        <tr> 
-          <td height="46" valign="top" bgcolor="#FFFFFF"> 
-            <p><a href="/info/products/kshop.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Kompass 
-              Shop</a><br>
-            </p>
-          </td>
-        </tr>
-        <tr> 
-          <td height="25" valign="middle" class="MenuHeader" bgcolor="#F7F7F7">Link 
-            to Kompass</td>
-        </tr>
-        <tr> 
-          <td height="46" valign="top" bgcolor="#FFFFFF"> 
-            <p><a href="/info/klink.htm" border="0" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Link 
-              to Kompass</a><br>
-          </p></td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td width="20" valign="top"><img src="/Images/Spacer.gif" width="20" height="20"></td>
+	<td width="140" valign="top" bgcolor="#666666"> 
+	  <table width="140" border="0" cellpadding="4" cellspacing="1">
+		<tbody><tr> 
+		  <td width="130" height="25" valign="middle" bgcolor="#F7F7F7"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Menu</b></font></td>
+		</tr>
+		<tr> 
+		  <td valign="top" bgcolor="#FFFFFF"> <a href="/info/advertising.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0"></a><a href="/info/products.htm" class="MenuItem">Product 
+			Summary</a> <br>
+			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/helpdesk/techUpdates.htm" class="MenuItem">Helpdesk</a> 
+			<br>
+			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/helpdesk/faqs.htm" class="MenuItem">FAQ's</a> 
+			<br>
+			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/helpdesk/userguides.htm" class="MenuItem">User 
+			Guides</a> <br>
+			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/form/freelist.htm" class="MenuItem">Add 
+			my Company</a> <br>
+			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/advertising.htm" class="MenuItem">Advertise 
+			with Us</a> <br>
+			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/products/kshop.htm" class="MenuItem">Kompass 
+			Shop</a> <br>
+			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/salesops.htm" class="MenuItem">Jobs in Kompass</a><br>
+			<a href="/info/klink.htm" border="0" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Link 
+			to Kompass</a> <br>
+		  </td>
+		</tr>
+	  </tbody></table>
+	</td>
   </tr>
 </tbody></table>
           
@@ -569,12 +675,10 @@ function get_cookie(Name) {
     <td height="19" colspan="2" valign="top"> 
       <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
 <tbody><tr> 
-  <td width="639" valign="middle" height="22"> <a href="/info/privacy.htm" class="BottomBar">Privacy 
-	Policy</a> <a href="/info/disclaimer.htm" class="BottomBar">Disclaimer</a> <a href="/info/terms.htm" class="BottomBar">Terms 
+  <td width="639" valign="middle" height="22"> <a href="/info/disclaimer.htm" class="BottomBar">Disclaimer</a> <a href="/info/terms.htm" class="BottomBar">Terms 
 	and Conditions</a></td>
-  <td width="364" valign="middle" align="right" class="CopyRight">© 
-	2002 <a href="http://www.reedinfo.co.uk" class="CopyRight" align="right"> 
-	Reed Business Information Ltd</a><img src="/images/Spacer.gif" width="6" height="4"></td>
+    <td width="364" valign="middle" align="right" class="CopyRight">© 2004<a href="http://www.reedinfo.co.uk" class="CopyRight" align="right"> 
+	  Reed Business Information Ltd</a><img src="/images/Spacer.gif" width="6" height="4"></td>
 </tr>
 </tbody></table>
     
