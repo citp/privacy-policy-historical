@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610043517id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209031847id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
 
 # Prophet.Net | Home | Privacy Policy
 
@@ -7,11 +7,11 @@
 |   
 ---  
   
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=33&CampaignID=249&AdvertiserID=40&BannerID=672&SiteID=0&RandomNumber=71454)
+[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=33&CampaignID=272&AdvertiserID=40&BannerID=770&SiteID=0&RandomNumber=46226)
 
 |  | 
 
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=34&CampaignID=225&AdvertiserID=55&BannerID=482&SiteID=0&RandomNumber=77841)  
+[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=34&CampaignID=285&AdvertiserID=55&BannerID=482&SiteID=0&RandomNumber=52614)  
   
 Share the power to profit! Email a friend to tell them about Prophet.Net.
 
@@ -68,4 +68,5 @@ Palo Alto, CA 94301
 
 |  | 
 
+[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=289&AdvertiserID=65&BannerID=760&SiteID=0&RandomNumber=21556)  
 | 
