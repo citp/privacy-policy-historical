@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624143620id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024931id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.*
 
 # Privacy Policy at Blue Nile
 
-|  |    
+| |    
 Blue Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue Nile home page. Blue Nile encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Blue Nile customer service department at service@bluenile.com or 800-242-2728. 
 
   
@@ -34,12 +34,13 @@ If you choose to participate in a Blue Nile promotion (contest or sweepstakes), 
 **Application for Financing**   
 Blue Nile has partnered with MBNA, which will arrange the financing of your purchase from Blue Nile. If you decide to use Blue Nile's financing services, you will be directed to MBNA's financing application. Blue Nile will then provide MBNA with your transaction information and then MBNA will collect the additional information it needs in order to provide you with financing for your Blue Nile purchase. Further, MBNA will provide Blue Nile information regarding the status of your financing application. Once your application is approved by MBNA, you may complete your purchase with Blue Nile. 
 
-**Tracking of Advertising Links and Action Tags**   
-Blue Nile works with Avenue A, a third-party advertising company which serves ads and employs a software technology called clear gifs, or action tags. Avenue A works with Blue Nile to collect information on advertisement performance and Web site usage. Ad banners employ cookie technology to measure the effectiveness of Blue Nile's advertisements. To do so, this company may use information about your visits to the Blue Nile Web site and other Web sites. Unless otherwise notified, Avenue A does not use names, addresses, e-mail addresses, or telephone numbers and does not link any online actions or cookies to an identifiable person. The use of your cookies is subject to the privacy policy of Avenue A. View more information about Avenue A's privacy practices: <http://www.avenueainc.com/privacy/>
+**Tracking of Advertising Links, Action Tags, and Cookies**   
+Blue Nile works with a third-party advertising company to collect information on advertisement performance and Web site usage. This company serves Blue Nile ad banners on our behalf which use action tags and cookies to measure how many times users view and click on an ad and which specific pages of our Web site users visit (e.g. a registration or checkout page). To do so, this company may use information about your visits to the Blue Nile Web site and other Web sites. Unless otherwise notified, our third-party advertising company does not use names, addresses, e-mail addresses, or telephone numbers and does not link any online actions or cookies to an identifiable person. The use of your cookies is subject to the privacy policy of our third-party advertising company. View more information about our third-party advertising company's [privacy practices](http://www.networkadvertising.org/aboutnai_privacy.asp). To learn more about the technology behind cookies, visit our [third-party advertising company's Web site](http://www.networkadvertising.org/aboutopm_cookies.asp). 
 
-Clear gifs or actions tags are used to collect information about how many times users view and click on Blue Nile's advertisements and which specific pages of a our Web site users visit (e.g. a registration or checkout page). No uniquely identifiable information is tracked by Avenue A. To learn more about the technology behind action tags, visit the [Avenue A Web site](http://www.avenueainc.com/privacy/anonymous.asp). 
+To prevent our third-party advertising company from sending and reading cookies on your computer, visit their Web site where you can [opt out](http://www.networkadvertising.org/optout_nonppii.asp) of our third-party advertiser cookie. 
 
-To prevent Avenue A from sending and reading cookies on your computer, visit Avenue A's Web site where you can [opt out](http://www.avenuea.com/info/optout.asp) of our third-party advertiser cookie. 
+**Site Usage Tracking and Analysis**   
+Blue Nile, Inc. has contracted with a third party, Omniture, Inc. and/or its authorized partner or reseller, to provide additional tracking and analysis of information and data collected from visitors to our Web site. No uniquely identifiable information is tracked by Omniture. Omniture does not use names, addresses, e-mail addresses, or telephone numbers and does not link any online actions or cookies to an identifiable person. Blue Nile, Inc. reserves the right to provide that information and data to Omniture, Inc. and/or its authorized partner or reseller for those purposes. 
 
   
 Blue Nile offers customers many ways to keep up to date with the latest product offerings and promotions. Below, we outline how we treat the information you provide to Blue Nile. 
@@ -54,7 +55,7 @@ Using a Blue Nile form, you can also refer a friend to the Blue Nile Web site.
 Blue Nile occasionally requests information from our users and customers via surveys. Participation in these surveys is completely voluntary, and all participants have a choice whether or not to disclose information. The requested information typically includes the customer's first name, as well as information relating to the customer's experience at Blue Nile, or their opinions on products they have purchased. Survey information will be used internally to monitor or improve this site, and after attaining user permission, may be posted on the site to provide information about our products to other users. Users' personally identifiable information is not shared with third parties unless Blue Nile gives prior notice and choice. 
 
 **Opt-Out Policy**   
-To opt out of receiving communications from Blue Nile, just select "unsubscribe" on our [subscription status page](https://web.archive.org/web/20030624143620id_/http%3A//www.bluenile.com/subscription.asp) and enter the requested information. Or you can make your request in person by contacting a diamond and jewelry consultant at 800-242-2728 or by e-mail at service@bluenile.com. 
+To opt out of receiving communications from Blue Nile, just select "unsubscribe" on our [subscription status page](https://web.archive.org/web/20031205024931id_/http%3A//www.bluenile.com/subscription.asp) and enter the requested information. Or you can make your request in person by contacting a diamond and jewelry consultant at 800-242-2728 or by e-mail at service@bluenile.com. 
 
   
 If the personal information Blue Nile has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to service@bluenile.com or contact one of our diamond and jewelry consultants at 800-242-2728. 
@@ -92,6 +93,6 @@ If you have questions about this privacy statement, please contact the Blue Nil
 * Blue Nile will cover this liability if the unauthorized use resulted through no fault of yours from purchases made on Blue Nile's secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures. 
 
   
-**Updated October 17, 2002**
+**Updated October 2, 2003**
 
-|  |  | 
+| | | 
