@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205094633id_/http%3A//www1.salon.com/about/policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2003-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030201150736id_/http%3A//www.salon.com/about/policy/index.html) for the most accurate reproduction.*
 
 # Salon.com
 
