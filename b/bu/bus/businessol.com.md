@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205185950id_/http%3A//www.businessol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603213414id_/http%3A//www.businessol.com/privacy) for the most accurate reproduction.*
 
-# Untitled Document
+# Business OnLine - Privacy Statement
 
 **Business OnLine will not sell or provide any personal information to anyone without your permission.**
 
 Business OnLine is committed to protecting the privacy of visitors to our web site. Business OnLine will never use any personal information collected at this site for any purpose other than internal use unless the registrant chooses to be added to mailing lists (this is a choice made by the registrant on the Registration form).
 
-If you have any questions or concerns about any privacy issues, please contact us at info@BusinessOL.com .
+If you have any questions or concerns about any privacy issues, please contact us at [info@BusinessOL.com](mailto:info@BusinessOL.com).
 
 Types of Information  
 The following is an explanation of the types of information that are collected from visitors at this site. 
