@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ursoftware.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204064629id_/http%3A//www.ursoftware.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ursoftware.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403221316id_/http%3A//www.ursoftware.com/privacy.htm) for the most accurate reproduction.*
 
 # Your Uninstaller! - The 1st Drag&Uninstall uninstaller ,the replacement of Add/Remove program.
 
@@ -50,7 +50,4 @@ A cookie is not a piece of code and cannot be used to run programs or deliver vi
 
 URSoft,Inc uses cookies on its websites to help us publish content relevant to our customers needs and wants. 
 
-Copyright c2004 by URSoft,Inc Ltd. All rights reserved.  
-  
-   
-
+Copyright c2004 by URSoft,Inc Ltd. All rights reserved.
