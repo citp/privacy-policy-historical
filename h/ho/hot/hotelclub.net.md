@@ -1,12 +1,29 @@
-> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215105137id_/http%3A//hotelclub.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2002-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020220064258id_/http%3A//hotelclub.net/privacy.asp) for the most accurate reproduction.*
 
-# HotelClub.net - Privacy
+# Privacy Policy - HotelClub.net
 
-  
-Hotel Club values your patronage and is committed to protecting your privacy. With this in mind, we employ the highest levels of security to keep your personal information strictly confidential. 
+**How we use the information**  
+When you become a member of HotelClub or submit a booking request, we use the collected information in several ways: 
 
-The information that you provide Hotel Club with during the reservation process is used solely for the purpose of determining your accommodation needs. All your personal information is stored in our off-line database and is accessed only for the purposes of assisting your future on-line transactions. 
+In addition, your email address is collected to send you an email message confirming your new member registration and each reservation you transact online. As a member you will occasionally receive updates from us about special rate offers, newsletters and any noteworthy changes to the website. However, you may always decline to receive these email messages. Please see our Opting Out policy described below.
 
-When you make a reservation on-line, we will share the information about you and your purchase only with the hotel or purchase you have selected, ensuring that your accommodation arrangements are confirmed accordingly. 
+We disclose your information to third parties (such as our hotels) only for the purpose of completing your transaction with us, providing the above services to you and for the purposes of associated administration. We do not sell, rent or trade your personal information to third parties for marketing purposes.
 
-Hotel Club will not disclose or sell any of your personal information, including your name, address, credit card number, or transaction history to any third party other than for the purposes mentioned above. 
+Like most Web sites, there is certain information we automatically track, including the URL that you just came from, which URL you go to next, the browser you are using and your IP address. This data is utilised to improve the services of HotelClub and does not include any personally identifying information.
+
+**How to access or correct your information**  
+At any time, HotelClub members can view and/or update all the information in their member profile. To do so, login on the [Membership Homepage](https://web.archive.org/membership.asp) and click on “Update Profile” to view and/or make the required changes. Should you wish to cancel your membership with HotelClub, simply notify us by sending an email to [customer_service@hotelclub.net](mailto:customer_service@hotelclub.net).
+
+**Our commitment to data security**  
+All information you provide to HotelClub is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. To view the THAWTE SSL security certificate, [click here](javascript:openCertDetails\(\)).
+
+**Cookies**  
+We may, from time to time, use "cookies" to store your preferences, record session information and collect information on how you visit and access our Web pages. We collect information on the Web pages visited by our customers in order to help us to continue improving our services.
+
+"Cookies" are pieces of information that our Web page transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard and many Web sites use them to provide useful features for you. Cookies in and of themselves do not personally identify you, only your computer.
+
+**Opting out of promotional information**  
+We at HotelClub work hard to provide our clients with the best possible rates in all our hotels. From time to time, we will send our members newsletters, updates and specials for hotels in certain areas. You will only receive this correspondence if you have chosen to do so and we hope that you will find these items informative and useful. However, should you choose to not receive them in the future, you will have the ability to unsubscribe from the mail database by clicking on the Unsubscribe link at the bottom of each email.
+
+**How to contact us**  
+This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of HotelClub or would like more information, please contact us on [privacy@hotelclub.net](mailto:privacy@hotelclub.net). We will attempt to respond to all reasonable concerns or inquiries within three business days of receipt. 
