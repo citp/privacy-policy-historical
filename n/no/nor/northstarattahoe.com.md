@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the northstarattahoe.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202014732id_/http%3A//www.boothcreek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstarattahoe.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608010415id_/http%3A//www.skinorthstar.com/winter/privacy-policy.html) for the most accurate reproduction.*
 
-# Booth Creek Resorts - Privacy Policy
+# Northstar at Lake Tahoe California ski resorts for year-round excitement
 
+   
+Privacy Policy
+
+**Booth Creek's Privacy Policy**  
 Booth Creek Ski Holdings, Inc. ("Booth Creek" or "we") is committed to your privacy on the Internet. This privacy statement demonstrates our firm commitment to your privacy. This policy applies to various websites operated by Booth Creek, such as www.boothcreek.com, www.skinorthstar.com, www.sierratahoe.com, www.summit-at-snoqualmie.com, www.waterville.com, www.loonmtn.com and www.cranmore.com (the "Sites"). Please read the following policy to understand what personal information we may collect from you and how your personal information may be used as you make full use of our options and Sites. By using the Sites, you agree to this policy. If you do not agree to this policy, please do not use the Sites. This policy may be updated and revised occasionally without prior notice to you, so please check back periodically. Your continued use of the Sites following the posting of changes to this policy will signify your acceptance of those changes. 
 
 PLEASE NOTE THAT WE FOLLOW SPECIAL ADDITIONAL PROCEDURES WHEN COLLECTING INFORMATION FROM CHILDREN UNDER 13, WHICH ARE SET FORTH IN THE "CHILDREN'S PRIVACY" SECTION BELOW. 
@@ -68,7 +72,7 @@ You can contact us by e-mail through any of our Sites or by phone at any of our 
 
 The Sites are general audience web sites that comply with the Children's Online Privacy Protection Act ("COPPA"). Children under 13 are only permitted to submit information to Booth Creek in certain limited circumstances. Any personal information that may be provided to the Sites from children under 13 years old will be collected and maintained in accordance with COPPA. While we encourage parents to supervise their children's online activities, we recognize that parents may not always be able to do so. Therefore, in addition to the foregoing provisions of this privacy policy, Booth Creek has adopted the following special policies to help ensure that parents will be able to know what information their children under 13 are providing to the Sites. 
 
-_Collection and Use of Information; Parental Notice/Consent_
+Collection and Use of Information; Parental Notice/Consent 
 
 In accordance with COPPA, Booth Creek does not require a child under the age of 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation. 
 
@@ -78,14 +82,16 @@ We may collect a child's e-mail address and first name in order to respond direc
 
 We may collect a child's name and e-mail address to the extent reasonably necessary to protect the security of the Sites, to protect against liability, or as required or permitted by law without obtaining a parent's consent. Information collected for these reasons will not be used for any other purpose. 
 
-Prior to any other collection or use of personal information from a child under 13, Booth Creek shall obtain a parent's consent to such collection and use in accordance with COPPA. The parental consent is given for the specific purpose stated in the consent form and is not a blanket consent for collecting the child's information in the future or using the child's information for purposes other than those set forth in the consent form. We may seek a parent's consent to collect information such as a child's name, mailing address, e-mail address, hobbies, etc. _Sharing of Information_ The personal information collected from children under the age of 13 is not shared or forwarded by Booth Creek to business partners, advertisers or other third parties. _Parental Access_
+Prior to any other collection or use of personal information from a child under 13, Booth Creek shall obtain a parent's consent to such collection and use in accordance with COPPA. The parental consent is given for the specific purpose stated in the consent form and is not a blanket consent for collecting the child's information in the future or using the child's information for purposes other than those set forth in the consent form. We may seek a parent's consent to collect information such as a child's name, mailing address, e-mail address, hobbies, etc. 
 
-Parents of children under age 13 may review or delete personal information about their children from our records at any time. If you would like to review or delete your child's personal information, please contact us at **[boothcreek@boothcreek.com](mailto:boothcreek@boothcreek.com)**. When a parent requests deletion of his or her child's information, we will use reasonable efforts to delete as much of the child's information from our database as possible and refrain from collecting any other personally identifiable information from such child. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose. 
+Sharing of InformationThe personal information collected from children under the age of 13 is not shared or forwarded by Booth Creek to business partners, advertisers or other third parties. 
+
+Parental Access 
+
+Parents of children under age 13 may review or delete personal information about their children from our records at any time. If you would like to review or delete your child's personal information, please contact us at boothcreek@boothcreek.com. When a parent requests deletion of his or her child's information, we will use reasonable efforts to delete as much of the child's information from our database as possible and refrain from collecting any other personally identifiable information from such child. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose. 
 
 **Questions**
 
-If you have questions or inquiries about Booth Creek's privacy policy please contact [webmaster@boothcreek.com](mailto:webmaster@boothcreek.com)
+If you have questions or inquiries about Booth Creek's privacy policy please contact webmaster@boothcreek.com 
 
-(c) 2003 Booth Creek Ski Holdings, Inc. All rights reserved. 
-
-* * *
+(c) 2003 Booth Creek Ski Holdings, Inc. All rights reserved.   
