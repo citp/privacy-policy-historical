@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204180609id_/http%3A//www.travelzoo.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408101109id_/http%3A//www.travelzoo.com/Privacy.asp) for the most accurate reproduction.*
 
 # Travelzoo - Privacy Statement
 
-Since 1998, Travelzoo® is a member of the TRUSTe program. This statement discloses the privacy practices for the [**Travelzoo**](http://www.travelzoo.com/) Web site. 
+Since 1998, Travelzoo® is a member of the TRUSTe program. This statement discloses the privacy practices for the Travelzoo Web sites. 
 
 ### TRUSTe Certified
 
@@ -43,5 +43,5 @@ Though we make every effort to preserve your privacy we may need to disclose per
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at the following mailing address: 
 
 > _Travelzoo Inc._   
-> _800 W. El Camino Real, Suite 180_   
+> _800 West El Camino Real, Suite 180_   
 > _Mountain View, CA 94040_
