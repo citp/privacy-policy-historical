@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221010146id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607142824id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Auto Products
 
@@ -27,7 +27,7 @@ No links, banners, ads, or any type of advertising will be available to or for a
 
 Our site's registration form requires users to give us contact information (like their name, email, and postal address). 
 
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
+Contact information from the registration forms is used to ship purchases, information about our company and mailing list. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -37,7 +37,7 @@ None of the information that is collected by this web site is, rented or sold fo
 
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), and financial information (like their account or credit card numbers). 
 
-Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
+Contact information from the order forms is used to ship purchases, and information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -86,9 +86,9 @@ Support hours - Mon to Friday 7AM - 3PM EST.
 **We at AutoProducts.com make every effort to provide the best service to all our customers, and we will honor all customers requests in a timely fashion. We respect your privacy and none of the  information that is collected by this web site is, rented or sold for any purpose whatsoever. 
 
  **   
-ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam. [SPAM POLICY](https://web.archive.org/web/20011221010146id_/http%3A//www.autoproducts.com/spam.htm)   
+ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam. [SPAM POLICY](https://web.archive.org/web/20020607142824id_/http%3A//www.autoproducts.com/spam.htm)   
 Report Spam: [ support@autoproducts.com ](mailto:support@autoproducts.com)  
 
 AutoProducts.com will not be responsible for SPAMMING or any illegal activity advertisers, affiliates or clients participate in or performs. This type of action will immediately terminate any and all contracts and services with the advertisers, affiliates or clients and the Spammer will be held responsible for all damages.
 
-Copyright © 1997-2001 [www.Auto Products.com] All rights reserved. 
+Copyright © 1997-2002 [Auto Products.com] All rights reserved. 
