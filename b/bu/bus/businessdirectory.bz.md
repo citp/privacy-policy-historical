@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessdirectory.bz privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203041458id_/http%3A//www.naturalightproductions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdirectory.bz privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607073048id_/http%3A//www.naturalightproductions.com/privacy.html) for the most accurate reproduction.*
 
 # Naturalight Productions Privacy Statement
 
