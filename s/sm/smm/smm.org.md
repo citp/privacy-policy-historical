@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209035556id_/http%3A//www.smm.org/aboutus/Notices/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207083634id_/http%3A//www.smm.org/aboutus/Notices/Privacy.php) for the most accurate reproduction.*
 
 # Information Privacy Statement
 
-Last updated June 24, 2002
+Last updated January 8, 2003
 
 **Contact Information**   
 Science Museum of Minnesota   
@@ -74,7 +74,7 @@ The Science Museum Adult Computer Education Center (ACEC) operates an educationa
 back to top
 
 **Cookies**  
-Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The Science Museum currently uses temporary cookies to store constituents' preferences and record session information such as items that consumers add to their online shopping carts in the ticketing area or while registering for classes. Cookies on the Science Museum site (http://www.smm.org/) expire when the browser window is closed. Cookies on the ACEC site (http://comped.smm.org/) expire after 15 minutes. Please refer to the Adult Computer Education Center site for detailed information on how that site uses cookies for online class registration. 
+Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The Science Museum currently uses cookies to store constituents' preferences and record session information such as items that consumers add to their online shopping carts in the ticketing area or while registering for classes. Cookies are also used to record page location to assist with navigation and menus on our site. 
 
 back to top
 
