@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the canucks.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204202505id_/http%3A//www.canucks.com/subpage.asp%3FsectionID%3D181) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canucks.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403152209id_/http%3A//www.canucks.com/subpage.asp%3FsectionID%3D181) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Canucks.com&nbsp;-&nbsp;&nbsp;Privacy Policy</title>
@@ -54,135 +54,6 @@
   -- be used in conjunction with the flash animation. -->
 <script language="javascript" src="/js/cookie.js"></script>
 
-<!-- The next three SCRIPTS are for Flash version detection.  
-They must stay together and cannot be placed in a seperate *.js file.  -->
-
-<script language="JavaScript" type="text/javascript">
-// set the base version of javascript supported
-var javascriptVersion = 1.0;
-</script>
-<script language="JavaScript1.1" type="text/javascript">
-// if this code is executing, javascript 1.1 is supported
-var javascriptVersion = 1.1;
-</script>
-<script language="JavaScript" type="text/javascript">
-
-// ##########################################################################################
-// modify the following variables to customize the inspection behaviour
-
-var requiredVersion = 5;  // version the user needs to view site (max is 6,min is 2)
-var useRedirect = false;   // "true" loads new flash or non-flash page into browser
-        // "false" embeds movie or alternate htm code into current page
-
-// set next three vars if useRedirect is true...
-var flashPage = "index.html"  // the location of the flash movie page
-var noFlashPage = "index.html" // send user here if they don't have the plugin or we can't detect it
-var upgradePage = "index.html" // send user here if we detect an old plugin
-// ##########################################################################################
-
-
-
-// *************
-// everything below this point is interal until after the body tag
-// do not modify!
-// *************
-
-// system globals
-var flash2Installed = false;  // boolean. true if flash 2 is installed
-var flash3Installed = false;  // boolean. true if flash 3 is installed
-var flash4Installed = false;  // boolean. true if flash 4 is installed
-var flash5Installed = false;  // boolean. true if flash 5 is installed
-var flash6Installed = false;  // boolean. true if flash 6 is installed
-var maxVersion = 6;     // highest version we can actually detect
-var actualVersion = 0;    // version the user really has
-var hasRightVersion = false;  // boolean. true if it's safe to embed the flash movie in the page
-
-// write vbscript detection if we're not on mac.
-
-var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
- // true if we're on ie
-var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false;
-// true if we're on windows
-
-if(isIE && isWin){ // don't write vbscript tags on anything but ie win
- document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
- document.write('on error resume next \n');
- document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
- document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
- document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
- document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
- document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');
- document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
-}
-
-// next comes the standard javascript detection that uses the navigator.plugins array
-// we pack the detector into a function so it loads before we run it
-
-function detectFlash(){
-
- if (navigator.plugins){        // does navigator.plugins exist?
-  if (navigator.plugins["Shockwave Flash 2.0"]  // yes>> then is Flash 2
-  || navigator.plugins["Shockwave Flash"]){  // or flash 3+ installed?
-
-   // set convenient references to flash 2 and the plugin description
-   var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-   var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-   // a flash plugin-description looks like this: Shockwave Flash 4.0 r5
-   // so we can get the major version by grabbing the character before the period
-   // note that we don't bother with minor version detection. do that in your movie with $version
-   var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
-
-   // we know the version, now set appropriate version flags
-   flash2Installed = flashVersion == 2;
-   flash3Installed = flashVersion == 3;
-   flash4Installed = flashVersion == 4;
-   flash5Installed = flashVersion == 5;
-   flash6Installed = flashVersion == 6;
-  }
- }
-
- // loop through all versions we're checking, and set actualVersion to highest detected version
- for (var i = 2; i <= maxVersion; i++) {
-  if (eval("flash" + i + "Installed") == true) actualVersion = i;
- }
-
- // uncomment next line to display flash version during testing
- // alert("version detected: " + actualVersion);
-
-
- // we've finished getting the version, time to take the appropriate action
-
- if (actualVersion >= requiredVersion) {    // user has a new enough version
-  hasRightVersion = true;       // flag: it's okay to write out the object/embed tags later
-
-  if (useRedirect) {        // if the redirection option is on, load the flash page
-   if(javascriptVersion >= 1.1) {
-    window.location.replace(flashPage); // use replace() so we don't break the back button
-   }
-   else {
-    window.location = flashPage; // have to use .location if javascript version is less than 1.1
-   }
-  }
- }
- else { // user doesn't have a new enough version.
-
-  if (useRedirect) {  // if the redirection option is on, load the appropriate alternate page
-   if(javascriptVersion >= 1.1) {
-    window.location.replace((actualVersion >= 2) ? upgradePage : noFlashPage);
-   }
-   else {
-    window.location = (actualVersion >= 2) ? upgradePage : noFlashPage;
-   }
-  }
- }
-}
-
-
-detectFlash(); // call our detector now that it's safely loaded.
-
-// -->
-</script>
-
 <a name="top"></a>
 
 <!-- Start Header Table -->
@@ -202,50 +73,13 @@ detectFlash(); // call our detector now that it's safely loaded.
 
  
  
-      
- // Get cookie so we can tell if the user has already been to the home page.
- var pageVisited = GetCookie('homepageVisited');
- 
 
-  // Set the header player cookie
-//   if(pageVisited == null) {
-//      SetCookie('headerPlayer','jovanovski');
-//      }
 
- var playerName = 'jovanovski';
-
- 
-  if (!useRedirect) {          // if dynamic embedding is turned on
-   if(hasRightVersion && (pageVisited == null)) {  // if we've detected an acceptable version
-    var oeTags = '<OBJECT CLASSID="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'
-   		+ 'WIDTH="618" HEIGHT="85"'
-   		+ 'CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'
-   		+ '<PARAM NAME="MOVIE" VALUE="/images/hp/'+playerName+'.swf">'
-   		+ '<PARAM NAME="PLAY" VALUE="true">'
-   		+ '<PARAM NAME="QUALITY" VALUE="best">'
-   		+ '<EMBED SRC="/images/hp/'+playerName+'.swf"'
-   		+ 'WIDTH="618" HEIGHT="85"'
-   		+ 'PLAY="true"'
-   		+ 'QUALITY="best"'
-   		+ 'TYPE="application/x-shockwave-flash"'
-   		+ 'PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">'
-   		+ '</EMBED>'
-   		+ '</OBJECT>';
-
-     document.write(oeTags);         // embed the flash movie
-          
-     // Set the homepage visited cookie so we don't display this animation again.
-     SetCookie('homepageVisited','1');
-      } else {        // flash is too old or we can't detect the plugin
-        var alternateContent = '<img src="/images/hp/'+playerName+'.jpg" width="618" height="85" alt="Canucks.com - Love this game, love this team" border="0" onmouseover="clear_delayhide();resetit(event)" usemap="#telus"><map name="telus"><area alt="Powered by TELUS" coords="434,1,609,26" href="http://www.telus.com" target="new"></map>';
+ var playerName = 'linden';
+ var alternateContent = '<img src="/images/hp/new'+playerName+'.jpg" width="618" height="85" alt="Canucks.com - Love this game, love this team" border="0" onmouseover="clear_delayhide();resetit(event)" usemap="#telus"><map name="telus"><area alt="Powered by TELUS" coords="1,1,170,26" href="http://www.telus.com" target="new"></map>';
         document.write(alternateContent);       // insert non-flash content
-  }
-}
-
-
-
 // -->
-</script><!-- <img src="/images/canucks_com.gif" width="310" height="85" alt="Canucks.com - Love this game, love this team" border="0" 
+</script><img src="/images/hp/newlinden.jpg" width="618" height="85" alt="Canucks.com - Love this game, love this team" border="0" onmouseover="clear_delayhide();resetit(event)" usemap="#telus"><map name="telus"><area alt="Powered by TELUS" coords="1,1,170,26" href="http://www.telus.com" target="new"></map><!-- <img src="/images/canucks_com.gif" width="310" height="85" alt="Canucks.com - Love this Team, Love this Game!" border="0" 
   onmouseover="clear_delayhide();resetit(event)"><img src="/images/top_right.jpg" width="307" height="85" alt="Powered by TELUS" border="0" 
   onmouseover="clear_delayhide();resetit(event)"> --></td>
   <!-- <td><img src="/images/top_right_1px.gif" width="1" height="85" alt="" border="0"></td> -->
@@ -485,7 +319,7 @@ var pauseit=1
 //Specify the marquee's content (don't delete <nobr> tag)
 //Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
 
-var marqueecontent='<nobr>Canucks Announce Public Skate Dates..... General Motors Place Hosts Minor Hockey Teams For Practices.... Coaching Day Set For This Saturday </nobr>';
+var marqueecontent='<nobr>NHL OFFICIALLY CANCELS 2004-05 SEASON.... DAVE NONIS PENS OPEN LETTER TO FANS.... NONIS AND MCCAMMON FACE THE MEDIA AT GENERAL MOTORS PLACE </nobr>';
 //var marqueecontent='<nobr>Canucks vs Oilers - Saturday December 14th, 7:00 PM. <a href="">Game Details</a>... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last Game: Canucks (3) - Avalanche (1) <a href="">Game Recap</a>...</nobr>'
 
 
@@ -551,7 +385,7 @@ write('</ilayer>')
 document.write('<img src="/images/p.gif"></td></tr></table>')
 }
 }
-</script><span id="temp" style="visibility:hidden;position:absolute;top:-100;left:-1000"><nobr>Canucks Announce Public Skate Dates..... General Motors Place Hosts Minor Hockey Teams For Practices.... Coaching Day Set For This Saturday </nobr></span><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="27" valign="top" style="height:27px;" background="/images/hp/ticker_on.gif"><div style="position:relative;top:6;width:378;height:15;overflow:hidden;background-color:#ffffff;"><div style="position:absolute;width:378;height:15;" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed"><div id="iemarquee" style="position:absolute;left:0;top:0"></div></div></div><img src="/images/p.gif"></td></tr></tbody></table>
+</script><span id="temp" style="visibility:hidden;position:absolute;top:-100;left:-1000"><nobr>NHL OFFICIALLY CANCELS 2004-05 SEASON.... DAVE NONIS PENS OPEN LETTER TO FANS.... NONIS AND MCCAMMON FACE THE MEDIA AT GENERAL MOTORS PLACE </nobr></span><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="27" valign="top" style="height:27px;" background="/images/hp/ticker_on.gif"><div style="position:relative;top:6;width:378;height:15;overflow:hidden;background-color:#ffffff;"><div style="position:absolute;width:378;height:15;" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed"><div id="iemarquee" style="position:absolute;left:0;top:0"></div></div></div><img src="/images/p.gif"></td></tr></tbody></table>
 
   </div></td>
   <td nowrap="" valign="top" height="27" background="/images/grey_bg_pattern.gif" width="58"><div id="tickerOpen"><img src="/images/p.gif" width="18" height="1" alt="" border="0"><a href="javascript:turnTickerOn();"><img src="/images/hp/ticker_open.gif" width="40" height="27" alt="Open Canucks News Ticker" border="0"></a></div><div id="tickerClose"><img src="/images/hp/ticker_onright.gif" width="18" height="27" alt="" border="0"><a href="javascript:turnTickerOff();"><img src="/images/hp/ticker_close.gif" width="40" height="27" alt="Close Canucks News Ticker" border="0"></a></div></td>
@@ -761,10 +595,10 @@ document.write("<a href='http://ads.canucks.com/adclick.php?n=ac770b99' target='
 document.write("<div style='padding-top:3px;'>");
 document.write("<a href='http://ads.canucks.com/adclick.php?n=aacabfb6' target='_blank'><img src='http://ads.canucks.com/adview.php?what="+ keyword[rnd_no] +"_actvn&amp;n=aacabfb6' border='0' alt=''></a>");
 }
-</script><a href="http://ads.canucks.com/adclick.php?n=ac770b99" target="_blank"><img src="http://ads.canucks.com/adview.php?what=superpages_btn&amp;n=ac770b99" border="0" alt=""></a><div style="padding-top:3px;"><a href="http://ads.canucks.com/adclick.php?n=aacabfb6" target="_blank"><img src="http://ads.canucks.com/adview.php?what=superpages_actvn&amp;n=aacabfb6" border="0" alt=""></a>
+</script><script language="JavaScript" type="text/javascript" src="http://ads.canucks.com/adjs.php?n=&amp;what=gm_btn&amp;exclude=&amp;referer="></script><div class="padding3"><script language="JavaScript" type="text/javascript" src="http://ads.canucks.com/adjs.php?n=&amp;what=gm_actvn&amp;exclude=&amp;referer="></script></div>
 </div><!-- Start Div for Schedule -->        
 <div align="center" class="rightcolumnbox">
-<div align="left" style="margin-left:3px;"><img src="/images/dates/dark/12.gif" height="34"><img src="/images/dates/dark/2004.gif" width="31" height="34"></div>
+<div align="left" style="margin-left:3px;"><img src="/images/dates/dark/4.gif" height="34"><img src="/images/dates/dark/2005.gif" width="31" height="34"></div>
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 <td bgcolor="#ffffff">
@@ -782,46 +616,46 @@ document.write("<a href='http://ads.canucks.com/adclick.php?n=aacabfb6' target='
 <td class="cal">&nbsp;</td>
 <td class="cal">&nbsp;</td>
 <td class="cal">&nbsp;</td>
+<td class="cal">&nbsp;</td>
+<td class="cal">&nbsp;</td>
 <td class="cal">1</td>
-<td class="cal" bgcolor="#9D1129" onclick="mClk(this)" onmouseover="this.bgColor='#9D1129';mOvr(this,'#9D1129');"><a href="javascript:openGameDetail(453);" class="date">2</a></td>
-<td class="cal">3</td>
-<td class="cal" bgcolor="#9D1129" onclick="mClk(this)" onmouseover="this.bgColor='#9D1129';mOvr(this,'#9D1129');"><a href="javascript:openGameDetail(454);" class="date">4</a></td>
+<td class="cal">2</td>
 </tr>
 <tr bgcolor="#9D9C9C">
+<td class="cal">3</td>
+<td class="cal">4</td>
 <td class="cal">5</td>
-<td class="cal" bgcolor="#9D1129" onclick="mClk(this)" onmouseover="this.bgColor='#9D1129';mOvr(this,'#9D1129');"><a href="javascript:openGameDetail(455);" class="date">6</a></td>
+<td class="cal">6</td>
 <td class="cal">7</td>
 <td class="cal">8</td>
-<td class="cal" bgcolor="#11499C" onclick="mClk(this)" onmouseover="this.bgColor='#11499C';mOvr(this,'#11499C');"><a href="javascript:openGameDetail(456);" class="date">9</a></td>
-<td class="cal" bgcolor="#9D1129" onclick="mClk(this)" onmouseover="this.bgColor='#9D1129';mOvr(this,'#9D1129');"><a href="javascript:openGameDetail(457);" class="date">10</a></td>
+<td class="cal">9</td>
+</tr>
+<tr bgcolor="#9D9C9C">
+<td class="cal">10</td>
 <td class="cal">11</td>
-</tr>
-<tr bgcolor="#9D9C9C">
-<td class="cal" bgcolor="#11499C" onclick="mClk(this)" onmouseover="this.bgColor='#11499C';mOvr(this,'#11499C');"><a href="javascript:openGameDetail(458);" class="date">12</a></td>
+<td class="cal">12</td>
 <td class="cal">13</td>
-<td class="cal" bgcolor="#11499C" onclick="mClk(this)" onmouseover="this.bgColor='#11499C';mOvr(this,'#11499C');"><a href="javascript:openGameDetail(459);" class="date">14</a></td>
+<td class="cal">14</td>
 <td class="cal">15</td>
-<td class="cal" bgcolor="#11499C" onclick="mClk(this)" onmouseover="this.bgColor='#11499C';mOvr(this,'#11499C');"><a href="javascript:openGameDetail(460);" class="date">16</a></td>
-<td class="cal">17</td>
-<td class="cal" bgcolor="#9D1129" onclick="mClk(this)" onmouseover="this.bgColor='#9D1129';mOvr(this,'#9D1129');"><a href="javascript:openGameDetail(461);" class="date">18</a></td>
+<td class="cal">16</td>
 </tr>
 <tr bgcolor="#9D9C9C">
+<td class="cal">17</td>
+<td class="cal">18</td>
 <td class="cal">19</td>
 <td class="cal">20</td>
-<td class="cal" bgcolor="#9D1129" onclick="mClk(this)" onmouseover="this.bgColor='#9D1129';mOvr(this,'#9D1129');"><a href="javascript:openGameDetail(462);" class="date">21</a></td>
+<td class="cal">21</td>
 <td class="cal">22</td>
-<td class="cal" bgcolor="#9D1129" onclick="mClk(this)" onmouseover="this.bgColor='#9D1129';mOvr(this,'#9D1129');"><a href="javascript:openGameDetail(463);" class="date">23</a></td>
-<td class="cal">24</td>
-<td class="cal">25</td>
+<td class="cal">23</td>
 </tr>
 <tr bgcolor="#9D9C9C">
-<td class="cal" bgcolor="#11499C" onclick="mClk(this)" onmouseover="this.bgColor='#11499C';mOvr(this,'#11499C');"><a href="javascript:openGameDetail(464);" class="date">26</a></td>
-<td class="cal" bgcolor="#9D1129" onclick="mClk(this)" onmouseover="this.bgColor='#9D1129';mOvr(this,'#9D1129');"><a href="javascript:openGameDetail(465);" class="date">27</a></td>
+<td class="cal">24</td>
+<td class="cal">25</td>
+<td class="cal">26</td>
+<td class="cal">27</td>
 <td class="cal">28</td>
-<td class="cal" bgcolor="#9D1129" onclick="mClk(this)" onmouseover="this.bgColor='#9D1129';mOvr(this,'#9D1129');"><a href="javascript:openGameDetail(466);" class="date">29</a></td>
+<td class="cal">29</td>
 <td class="cal">30</td>
-<td class="cal" bgcolor="#11499C" onclick="mClk(this)" onmouseover="this.bgColor='#11499C';mOvr(this,'#11499C');"><a href="javascript:openGameDetail(467);" class="date">31</a></td>
-<td class="cal">&nbsp;</td>
 </tr>
 <tr bgcolor="#9D9C9C">
 <td colspan="7" class="calwhite" valign="middle">
@@ -833,7 +667,7 @@ document.write("<a href='http://ads.canucks.com/adclick.php?n=aacabfb6' target='
 </tr>
 </tbody></table>
 
-<div align="left">&nbsp;&nbsp;<a href="/subpage.asp?sectionID=181&amp;month=10&amp;year=2004#calendar"><img src="/images/buttons/cal_prev.gif" width="18" height="18" alt="previous month" border="0"></a><a href="/subpage.asp?sectionID=181&amp;month=0&amp;year=2005#calendar"><img src="/images/buttons/cal_next.gif" width="18" height="18" alt="next month" border="0"></a>&nbsp;&nbsp;</div>
+<div align="left">&nbsp;&nbsp;<a href="/subpage.asp?sectionID=181&amp;month=2&amp;year=2005#calendar"><img src="/images/buttons/cal_prev.gif" width="18" height="18" alt="previous month" border="0"></a><a href="/subpage.asp?sectionID=181&amp;month=4&amp;year=2005#calendar"><img src="/images/buttons/cal_next.gif" width="18" height="18" alt="next month" border="0"></a>&nbsp;&nbsp;</div>
 
 <div align="left">&nbsp;<a target="new" href="http://www.ticketmaster.ca/cgi/aff/canucks/artist_ca.idc?searchname=VANCOUVER_CANUCKS&amp;state=bc&amp;city=&amp;type=STATE&amp;minorcatnum=69&amp;MajorCatNum=6"><img src="/images/buttons/buy_tickets.gif" width="23" height="23" alt="buy tickets" border="0" align="absmiddle"></a> 
 <a target="new" href="http://www.ticketmaster.ca/cgi/aff/canucks/artist_ca.idc?searchname=VANCOUVER_CANUCKS&amp;state=bc&amp;city=&amp;type=STATE&amp;minorcatnum=69&amp;MajorCatNum=6">Buy your tickets</a></div>
@@ -844,7 +678,7 @@ document.write("<a href='http://ads.canucks.com/adclick.php?n=aacabfb6' target='
 <!-- End Div for Video Player --><!-- Start Div for Daily Poll -->
 <div class="rightcolumnbox"><img src="/images/titles/daily_poll.gif" width="137" height="35" alt="Canucks Poll" border="0">
 <div style="padding-left:6px;padding-bottom:12px;">
-<script language="javascript" src="http://www.canucks.com/UltimatePollASP/getPollJava.asp?pollID=222&amp;daily=1"></script>
+<script language="javascript" src="http://www.canucks.com/UltimatePollASP/getPollJava.asp?pollID=232&amp;daily=1"></script>
 </div>
 </div>
 <!-- End Div for Daily Poll -->
@@ -862,7 +696,7 @@ document.write("<a href='http://ads.canucks.com/adclick.php?n=aacabfb6' target='
 </div>
 <!-- End Div for Authentix Store -->   
 </div>
-</div></td>
+</td>
    </tr>
   </tbody></table>
   <!-- End Body Table -->
