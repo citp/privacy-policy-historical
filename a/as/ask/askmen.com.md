@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033909id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207124915id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
 
 # AskMen.com : Media Kit
 
@@ -46,8 +46,11 @@ AskMen.com sites sometimes may offer contests, sweepstakes, or promotions that a
 
 "We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.sonar.com/content/privacy.htm)."
 
-**Engage - Privacy Policy**  
-This site, AskMen.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+**Third Party Advertising: Maxworldwide - Privacy Policy**  
+This site, AskMen.com, Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 ### Cookies
 
