@@ -1,20 +1,30 @@
-> *The following text is extracted and transformed from the mexconnect.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209154526id_/http%3A//www.mexconnect.com/mxcprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexconnect.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603182816id_/http%3A//www.mexconnect.com/mxcprivacy.html) for the most accurate reproduction.*
 
 # MEXICO CONNECT'S PRIVACY POLICY & PRACTICES
 
-> [](http://www.mexconnect.com/)
+> [](http://www.mexconnected.com/)
 > 
 > ## **Our Privacy Policy  
 >  Statement and Practice**
 > 
-> This Policy is for the web site of **Mexico Connect**[http://www.mexconnect.com](http://www.mexconnect.com/), a monthly electronic magazine (ISSN #1028-9089) and commerce web site devoted to Mexico.
+> This Policy is for the web site of **Mexico Connect**[http://www.mexconnected.com](http://www.mexconnected.com/) and [http://www.mexconnected.com](http://www.mexconnected.com/) a monthly electronic magazine (ISSN #1028-9089) and web site devoted to Mexico.
 > 
-> **Our postal address is:  
+> **Our postal address in the U.S.A. is:  
+>  705 Martens Court,  
+>  Suite 71-278  
+>  Laredo, TX  
+>  78041-6010  
+>  Tel:   
+>  Our postal address in Mexico is:   
 >  APDO 623,  
 >  Juan Manuel #17  
->  Ajijic, Jalisco, Mexico  
->  We can be reached via e-mail at [mail@mexconnect.com](mailto:mail@mexconnect.com)  
->  Or you can reach us by telephone at +52 (376) 6 - 2267**
+>  Ajijic, 45920  
+>  Jalisco, Mexico  
+>  Tel: +52 (376)766 - 2267
+> 
+> We can be reached via e-mail at [info@mexconnected.com](mailto:info@mexconnected.com)
+> 
+> **
 > 
 > We at Mexico Connect value you, our readers, customers and clients.
 > 
@@ -52,6 +62,6 @@
 > 
 > * * *
 > 
-> [](http://www.mexconnect.com/)
+> [](http://www.mexconnected.com/)
 > 
-> [**© Mexico Connect 1996-2002**](http://www.mexconnect.com/mex_/mxccopy.htm)
+> [**© Mexico Connect 1996-2003**](http://www.mexconnected.com/mex_/mxccopy.htm)
