@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialpad.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207204818id_/http%3A//dialpad.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialpad.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214159id_/http%3A//www.dialpad.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,9 @@ We use reputable outside advertising companies to display advertisements on our 
 
 We use contact information from your registration form to send information to you about Dialpad and, with your permission, to send promotional information from Dialpad and/or its partners.  The contact information is also used to contact you when necessary about issues concerning the use of our service.  If you have provided credit card information, we will not use your credit card information for any purpose other than for processing payments.  We reserve the right to also use personally identifiable information to investigate and help prevent potentially unlawful activity that threatens either Dialpad or any company affiliated with Dialpad.  Moreover, upon the appropriate request of a government agency, law enforcement, court or as otherwise required by law, Dialpad may disclose personally identifiable information. 
 
-We use demographic and web site usage information internally to improve the products and services we provide to you.  Unless you have opted-out as specified below, we reserve the right to share it with third party marketing partners to help us improve how we serve you and to alert you to new products, services and special offers.  If you choose to receive promotional materials from Dialpad and/or its partners, you will be giving Dialpad permission to access your information on behalf of pre-screened third parties for marketing or promotional purposes.  We will not share your personal information with our partners unless you have opted to receive promotional emails from such partners.  In some situations, we will also share your personal information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending emails; however, these parties are not allowed to use personal information except for the limited purpose of providing the particular service on our behalf. 
+We use demographic and web site usage information internally to improve the products and services we provide to you.  Unless you have opted-out as specified below, we reserve the right to share it with third party marketing partners to help us improve how we serve you and to alert you to new products, services and special offers.  If you choose to receive promotional materials from Dialpad and/or its partners, you will be giving Dialpad permission to access your information on behalf of pre-screened third parties for marketing or promotional purposes.  We will not share your personal information with our partners unless you have opted to receive promotional emails from Dialpad and its partners on our site.  Some of our partners and affiliates provide services for direct marketing applications including lookup and reference, data enhancement, suppression and validation.  In some situations, we will also share your personal information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending emails; however, these parties are not allowed to use personal information except for the limited purpose of providing the particular service on our behalf. 
+
+On occasion it may be necessary for Dialpad to send out a strictly service related announcement.  For instance, if our service will be temporarily suspended for maintenance, we may send you an email to that effect.  You may not opt-out of these communications, although you can deactivate your account.  However, these communications are not promotional in nature 
 
 **Choice/Opt-In**
 
@@ -84,6 +86,6 @@ This web site also contains links to other web sites.  Dialpad is not responsib
 If you have any questions about this privacy policy, the practices of this web site, or your dealings with this web site, you can contact: 
 
 Dialpad Communications, Inc.  
-P.O. Box 5445  
-Santa Clara, CA 95056-5445  
+430 N. McCarthy Blvd, Suite 200  
+Milpitas, California 95035  
 [support@dialpad.com](mailto:support@dialpad.com)
