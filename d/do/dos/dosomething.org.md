@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2004-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040816000941id_/http%3A//www.dosomething.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403131736id_/http%3A//www.dosomething.org/about/privacy.php) for the most accurate reproduction.*
 
-# DoSomething.org - Privacy Statement for DoSomething.org
+# privacy
 
 Do Something has a privacy policy. It was created by the Do Something Board of Directors in Summer 2003 to protect one of our greatest assets: your trust. We’ve created this privacy statement in order to demonstrate our firm commitment to online privacy. The following discloses our online information gathering and dissemination practices. 
 
@@ -28,18 +28,10 @@ Children
 Do Something seeks to collect information from children. It is our hope that children participate in Do Something with the blessings of parents and guardians, but also that these parents and guardians become involved with Do Something too! If any child provides us with personally identifiable information, a parent or guardian may notify us and such information will be deleted from our records. 
 
 Choice/Opt-Out  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
-
-  1. You can visit the following URL: <http://www.dosomething.org/remove.htm>
-
-
+Users have the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. To opt-out, please email [help@dosomething.org](mailto:help@dosomething.org). 
 
 Correct/Update  
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. Visit <http://www.dosomething.org/register.htm>
-
-
+To change/modify information previously provided, please email [help@dosomething.org](mailto:help@dosomething.org). 
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact: [help@dosomething.org](mailto:Melissa_richman@hotmail.com&subject=Other%20Information)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact: [help@dosomething.org](mailto:help@dosomething.org)
