@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macvendors.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616123435id_/http%3A//www.megamac.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macvendors.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204175716id_/http%3A//www.megamac.com/privacy.shtml) for the most accurate reproduction.*
 
 # MegaMac.com
 
