@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626162926id_/http%3A//www.search123.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612154056id_/http%3A//search123.com/about/privacy.html) for the most accurate reproduction.*
 
 # Search123 About Search123
 
@@ -25,7 +25,7 @@
   [Advertiser Terms and Conditions](http://www.search123.com/about/advterms.html)  
   [Traffic Partner Terms and Conditions](http://www.search123.com/about/trapartterms.html)  
   
-[Contact Us](https://web.archive.org/web/20030626162926id_/http%3A//www.search123.com/about/contact.html) | 
+[Contact Us](https://web.archive.org/web/20040612154056id_/http%3A//search123.com/about/contact.html) | 
 
 Search123 Privacy Policy
 
