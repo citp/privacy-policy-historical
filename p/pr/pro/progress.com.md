@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2004-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041109072634id_/http%3A//www.progress.com/psc/privacy/pfcpopup.ssp%3F%26%26BANNER%3Dcompany_info.gif) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405075610id_/http%3A//www.progress.com/privacy/index.ssp) for the most accurate reproduction.*
 
-# Privacy Policy: Progress Software Corporation
+# Privacy Policy: Progress Software
 
-Privacy Policy
-
-Last update: Monday, October 4, 2004
+**Last update: Monday, October 4, 2004**
 
 We at Progress Software Corporation ("Progress Software") are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you. To achieve these goals, we occasionally need information about you when you visit our site.
 
@@ -29,7 +27,7 @@ Progress Software does:
 
   * Safeguard customers' information from unauthorized access.
   * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customers' needs (e.g. customer care or new products or services).
-  * Honor customers' requests to remove their names from our telephone or mail solicitation lists in a timely manner. Just [Contact Us](mailto:unsubscribe@progress.com%20alias).
+  * Honor customers' requests to remove their names from our telephone or mail solicitation lists in a timely manner. Just [Contact Us](mailto:unsubscribe@progress.com).
   * Maintain confidentiality of customer information when undertaking projects with other companies.
 
 
@@ -64,7 +62,7 @@ Progress Software's Web sites log Host Names (or IP addresses when the Host Name
 We encourage all visitors to register with Progress Software, although registration is not required, except for access to our premium content areas. The registration forms require users to give us accurate contact information (like name and email address) and references that help us better serve you. Your name and email address may be used to send you information about our company, product updates, special offers, and newsletters. To opt out of receiving communications from Progress Software, please [Contact Us](mailto:unsubscribe@progress.com).
 
 **Order Forms and Enrollment Forms**  
-Our order forms securely collect visitor's contact information and financial information (like your credit card number and other billing information).Contact information on the order form is used for order fulfillment and may be shared with our Partners or Resellers if that is necessary to fulfill your request. The information that we require in our order form is only used to process your order quickly and accurately. Your contact information will only be used to send you the product that you purchase and your billing information will only be used to bill you for that product. During the purchasing process, you may be given the opportunity to sign up for future e-mailings regarding our products, services, and promotions. If you sign up, Progress Software will share your contact information with other Progress Software partner companies only, not with other outside companies. 
+Our order forms securely collect visitor's contact information and financial information (like your credit card number and other billing information).Contact information on the order form is used for order fulfillment and may be shared with our Partners or Resellers if that is necessary to fulfill your request. The information that we require in our order form is only used to process your order quickly and accurately. Your contact information will only be used to send you the product that you purchase and your billing information will only be used to bill you for that product. During the purchasing process, you may be given the opportunity to sign up for future e-mailings regarding our products, services, and promotions. If you sign up, Progress Software will share your contact information with other Progress Software partner companies only, not with other outside companies.
 
 You may also be given the option of registering a profile with Progress Software which would store your name, purchase history, and billing information to make it easier for you to shop and purchase products/services from us in the future. You may opt out of this feature at any time by changing/canceling your profile online.
 
@@ -82,7 +80,7 @@ We have security measures in place to protect the loss, misuse and alteration of
 Our Web sites contain links to other Web sites. Please be aware that our privacy policy does not apply to these other sites.
 
 **Opt-out Policy and Procedure**  
-Our Web sites provide users with the opportunity to opt-out of receiving communications from us (and our partners) at the point where we request information about the visitor. In addition, from within the www.progress.com subscription center ([www.progress.com/subscribe](http://www.progress.com/subscribe)), visitors can unsubscribe to the various communication offerings at any time, by deselecting the vehicles they do not wish to receive or by opting-out of all e-communications. Please note that opting-out of all communications will suppress every piece of electronic information from Progress Software and is not restricted to only the communications listed on the subscription center page. Additionally, visitors who wish to remove their information from our database to not receive future communications or to no longer receive our service can [Contact Us](mailto:unsubscribe@progress.com).
+Our Web sites provide users with the opportunity to opt-out of receiving communications from us (and our partners) at the point where we request information about the visitor. In addition, from within the www.progress.com subscription center ([www.progress.com/subscribe](http://ecoms.progress.com/cgi-bin/ecomm.cgi/system/session/dispatch.w?from=tpc)), visitors can unsubscribe to the various communication offerings at any time, by deselecting the vehicles they do not wish to receive or by opting-out of all e-communications. Please note that opting-out of all communications will suppress every piece of electronic information from Progress Software and is not restricted to only the communications listed on the subscription center page. Additionally, visitors who wish to remove their information from our database to not receive future communications or to no longer receive our service can [Contact Us](mailto:unsubscribe@progress.com).
 
 **Correcting/Update Policy**  
 If you would like to correct and/or update your information, please [Contact Us](mailto:unsubscribe@progress.com).
