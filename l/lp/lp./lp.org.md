@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206132200id_/http%3A//www.lp.org/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606144300id_/http%3A//www.lp.org/legal.html) for the most accurate reproduction.*
 
-# Libertarian Party: WWW.LP.ORG Site Map
+# Libertarian Party: Online Privacy Policy
 
   
 
@@ -9,16 +9,16 @@ Are you a Libertarian?
 [](https://web.archive.org/quiz/)  
 Take the **World's Smallest Political Quiz** and find out!
 
-First time here? Try our new [WWW Site Tour](https://web.archive.org/web/20001206132200id_/http%3A//www.lp.org/tour/index.php?screen=0) and see what we have to offer.
+First time here? Try our new [WWW Site Tour](https://web.archive.org/web/20010606144300id_/http%3A//www.lp.org/tour/index.php?screen=0) and see what we have to offer.
 
-The [LP News](https://web.archive.org/web/20001206132200id_/http%3A//www.lp.org/lpnews/) is the official newspaper of the Libertarian Party.
+The [LP News](https://web.archive.org/web/20010606144300id_/http%3A//www.lp.org/lpnews/) is the official newspaper of the Libertarian Party.
 
 Plan for [Upcoming Events.  
-](https://web.archive.org/web/20001206132200id_/http%3A//www.lp.org/calendar/)
+](https://web.archive.org/web/20010606144300id_/http%3A//www.lp.org/calendar/)
 
   
   
-|  |  **Privacy Policy**
+|  | **Privacy Policy**
 
 This web site is owned and administered by The Libertarian Party.
 
