@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dessci.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607182320id_/http%3A//www.dessci.com/en/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dessci.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204065943id_/http%3A//www.dessci.com/en/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
