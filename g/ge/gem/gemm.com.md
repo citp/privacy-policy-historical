@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401114249id_/http%3A//www7.gemm.com/c/info.cgi%3Ffor_spider%3D1%26doc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008122124id_/http%3A//www7.gemm.com/c/info.cgi%3Ffor_spider%3D1%26doc%3Dprivacy) for the most accurate reproduction.*
 
 # Help, Info & FAQ
 
 * * *
 
-**Privacy Policy**
+**GEMM's Privacy Policy**
 
 * * *
 
@@ -31,8 +31,6 @@ Cookies are small bits of data that are sent to your browser and stored on your 
 
 GEMM uses "cookies" in conjunction with data stored in its own server to track and record your preferences and activity on our Web site. 
 
-GEMM also the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
-
 Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features included in GEMM, including placing items in your shopping cart and purchasing them. 
 
   
@@ -48,4 +46,4 @@ From time to time, we may change our Privacy Policy. If we do so, we will post t
   
 **Tell us what you think**
 
-If you are the least bit uncomfortable using any section or feature of our site, please let us know right away by sending e-mail to [support@gemm.com](mailto:support@gemm.com)
+If you are the least bit uncomfortable using any section or feature of our site, please let us know right away by sending an e-mail to [support@gemm.com](mailto:support@gemm.com)
