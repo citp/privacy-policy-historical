@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232913id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C1836093.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208200434id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C1836093.story) for the most accurate reproduction.*
 
 # calendarlive.com: Calendarlive.com Privacy Policy
 
