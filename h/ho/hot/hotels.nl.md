@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605081807id_/http%3A//www.hotels.nl/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208181457id_/http%3A//www.hotels.nl/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Hotels.nl is a privat organisation with the goal to be a great help between travellers and hotels.
+Hotels.nl is a privat e organisation with the goal to be a great help between travellers and hotels.
 
 Hotels.nl knows the risks of booking trough the internet and will do anything to keep this as safe as possible.
 
@@ -33,7 +33,7 @@ After your stay at the hotel you can request removal of your data by sending an 
 
 **We will never supply your data to any third party for commercial use.**
 
-All date that is not linked to you personal, can be used to generate technical statistics about the use of our web sites.
+All data that is not linked to you personally, can be used to generate technical statistics about the use of our web sites.
 
 Your data could be used to provide our partners that use our booking engine, but there is an agreement, to protect your personal information, between hotel partners and Hotels.nl.  
 Hotels.nl will not take responsibility for the partners behaviour.  
@@ -55,5 +55,5 @@ You will receive e-mails from Hotels.nl in the following cases:
 Hotels.nl will not place cookies on your hard disk without permission.   
 The advertisements and banners on our site could be placing cookies
 
-Hotels.nl reserves the right to change this private statement at any time.  
+Hotels.nl reserves the right to change this privacy statement at any time.  
 Questions about this statement can be send to: [privacy@hotels.nl](mailto:privacy@hotels.nl)
