@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnetasia.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024630id_/http%3A//asia.cnet.com/services/aboutus/editorial/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnetasia.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611030027id_/http%3A//asia.cnet.com/services/aboutus/editorial/privacy.htm) for the most accurate reproduction.*
 
 # Company Profile - CNET Networks
 
@@ -97,7 +97,7 @@ Any modifications to our privacy practices will be reflected first within this a
 Our network of sites is not directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process. 
 
 **Questions, comments**  
-Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to or to our corporate offices at 150 Chestnut St., San Francisco, CA 94111. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site and program, or review and discard the information. 
+Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to or to our corporate offices at 235 Second Street, San Francisco, CA 94105. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site and program, or review and discard the information. 
 
 **_E-mail contacts for questions_**
 
