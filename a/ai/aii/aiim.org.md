@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405125806id_/http%3A//www.aiim.org/article_pr.asp%3FID%3D20575) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208180500id_/http%3A//www.aiim.org/article_pr.asp%3FID%3D20575) for the most accurate reproduction.*
 
 # 
 
