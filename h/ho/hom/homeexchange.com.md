@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202092544id_/http%3A//homeexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402060023id_/http%3A//homeexchange.com/privacy.php) for the most accurate reproduction.*
 
 # Home Exchange (dot) com The premier international home exchange system.
 
@@ -10,9 +10,10 @@ HomeExchange.Com provides and maintains this Web site, www.HomeExchange.Com, for
 
 ******Privacy Policy****  
 Copyright  
+Terms of Use  
 **
 
-Privacy Policy  
+**Privacy Policy**  
 We have provided our online Privacy Policy in order to inform you about our collection and use of your personal information so that you are informed and can make choices about how your personal information is collected and used. This online Privacy Policy reflects the HomeExchange.Com policies covering personal information collected at this Web site
 
 HomeExchange.Com uses consumer information to ensure fast, secure, and accurate processing of your home exchange or vacation rental offer(s). A primary focus of our commitment to you is to ensure that we abide by predetermined privacy policies. These policies are used as guidelines in the collection and use of information as well as defining employee responsibilities in protecting your privacy.
@@ -44,7 +45,7 @@ HomeExchange.Com is committed to meeting the highest level of standards for our 
 
 HomeExchange.Com reserves the right to amend this statement. We may alter this agreement as needed to adopt additional rules and practices consistent with this statement to conform to the policies or requirements of our countries of service. We may alter this statement as needed for certain products and services and to abide by any local laws or regulations. Please review this statement whenever you visit our Web site in order to obtain the most current version of our policy.
 
-Copyright  
+**Copyright**  
 These materials (including without limitation all text, images, logos, and design) are **Copyright© 2002 HomeExchange.Com Inc. All rights reserved**. The information presented here may not under any circumstances be resold or redistributed for compensation of any kind. HomeExchange.Com may be used for noncommercial individual home exchange purposes only.
 
 The design, format and content of the HomeExchange.Com Web site is protected by all applicable national and international copyright and trademark laws. There are no exceptions.
@@ -52,5 +53,8 @@ The design, format and content of the HomeExchange.Com Web site is protected by 
 All listings posted on the HomeExchange.Com Web site are the sole intellectual property of HomeExchange.Com and may not under any circumstances be posted on another Web site or in any other media for any purposes.
 
 HomeExchange.Com claims no responsibility for the accuracy, content, or availability of information accessed or linked to through use of its service.
+
+**Terms of Use**  
+HomeExchange.com reserves the right to remove any members listing at any time for any reason at our discretion.
 
 If you have any questions or concerns regarding the copyright or privacy Policies of HomeExchange.Com which are not covered in this statement, please send us an email with your questions to [admin@HomeExchange.Com](mailto:admin@HomeExchange.Com) with the words "Copyright, Privacy Policy, or Terms of Use policies" in the subject field. We will gladly respond to your inquiry.
