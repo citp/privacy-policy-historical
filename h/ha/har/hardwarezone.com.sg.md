@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwarezone.com.sg privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193850id_/http%3A//www.hardwarezone.com/core/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwarezone.com.sg privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207042033id_/http%3A//www.hardwarezone.com/core/privacy.php) for the most accurate reproduction.*
 
 # www.hardwarezone.com® :: Privacy Policy
 
