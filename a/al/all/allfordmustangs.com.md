@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611051931id_/http%3A//www.allfordmustangs.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207012558id_/http%3A//www.allfordmustangs.com/forums/privacy.php) for the most accurate reproduction.*
 
-# AFM Forums - Privacy Policy
+# All Ford Mustangs Forums - Privacy Policy
 
 Because protecting your privacy is very important to AllFordMustangs.Com, we have established this Privacy Policy, which explains what information we collect from our visitors, how we use that information, and how you can view or control use of the information you submit. Please note that this policy may be revised from time to time, so please check it frequently. We will post notice of any changes to this policy. 
 
@@ -24,10 +24,10 @@ AllFordMustangs.Com offers User Reviews & Ratings and Discussion boards. AllFord
 
 AllFordMustangs.Com may provide links to its partners and other Internet sites. These sites have separate data and privacy practices independent of AllFordMustangs.Com, and AllFordMustangs.Com disclaims any responsibility or liability for their policies or actions. 
 
-Correcting and Updating Your Information. You can view and make changes to the information you have previously provided to AllFordMustangs.Com, by contacting us at [staff@afmmail.com](https://web.archive.org/web/20040611051931id_/http%3A//www.allfordmustangs.com/forums/staff@afmmail.com)
+Correcting and Updating Your Information. You can view and make changes to the information you have previously provided to AllFordMustangs.Com, by contacting us at [staff@allfordmail.com](https://web.archive.org/web/20041207012558id_/http%3A//www.allfordmustangs.com/forums/staff@allfordmail.com)
 
 ## Security.
 
 To protect the security of your Personal Information, AllFordMustangs.Com limits access to user data to authorized AllFordMustangs.Com employees. AllFordMustangs.Com will NOT disclose any Personal Information except as described above or in its Terms & Conditions. AllFordMustangs.Com may disclose user information, including demographic data, in an aggregated form that does not identify individual users in order to describe its services to prospective partners, advertisers and other third parties and for other lawful purposes. AllFordMustangs.Com may disclose information about you if we have a good faith belief that we are required to do so by law or legal process, to respond to claims, or to protect the rights, property, or safety of AllFordMustangs.Com or others. 
 
-If you have any questions about our Privacy Policy, or if you believe AllFordMustangs.Com has not adhered to these principles, please contact us at: [privacy@afmmail.com](mailto:privacy@afmmail.com)
+If you have any questions about our Privacy Policy, or if you believe AllFordMustangs.Com has not adhered to these principles, please contact us at: [privacy@allfordmail.com](mailto:privacy@allfordmail.com)
