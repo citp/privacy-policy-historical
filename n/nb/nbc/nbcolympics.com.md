@@ -1,43 +1,49 @@
-> *The following text is extracted and transformed from the nbcolympics.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203150607id_/http%3A//privacy.msn.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcolympics.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622201214id_/http%3A//privacy.msn.com) for the most accurate reproduction.*
 
 # MSN.com Privacy Statement
 
-[](https://www.truste.org/validate/432)
+[](http://www.truste.org/ivalidate.php?url=www.msn.com)
 
-MSN Statement of Privacy   
-(last updated: October 2002)
+MSN Privacy Statement   
+(last updated: April 2003)
 
-MSN is committed to protecting your privacy. This MSN Statement of Privacy applies to Microsoft's MSN family of Web sites and governs data collection and usage at all MSN sites and services; it does not apply to other online or offline Microsoft sites, products or services. Please read the MSN Statement of Privacy below and also any supplementary information at the end of this statement for additional details about particular MSN sites and services that you may use.
+MSN is committed to protecting your privacy. This MSN Privacy Statement applies to Microsoft's MSN family of Web sites and governs data collection and usage at all MSN sites and services; it does not apply to other online or offline Microsoft sites, products or services. Please read the MSN Privacy Statement below and also any supplementary information at the end of this statement for additional details about particular MSN sites and services that you may use.
 
-MSN is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Statement of Privacy. This Statement contains a section with specific details regarding personal information collected from children. Click here to read more.
+MSN is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Privacy Statement. This Statement contains a section with specific details regarding personal information collected from children. Click here to read more.
 
-Other Microsoft services linked to from this Web site, [.NET Passport](http://www.passport.com/Consumer/PrivacyPolicy.asp?PPlcid=1033), [bCentral](http://www.bcentral.com/help/policy/privacy.asp) and [WindowsMedia.com](http://windowsmedia.com/privacy/privacystatement.asp?) have their own statements of privacy which can be viewed by clicking on the links.
+Other Microsoft services linked to from this Web site, [.NET Passport](http://www.passport.com/Consumer/PrivacyPolicy.asp?PPlcid=1033), [bCentral](http://www.bcentral.com/help/policy/privacy.asp) and [WindowsMedia.com](http://windowsmedia.com/privacy/privacystatement.asp?) have their own privacy statements which can be viewed by clicking on the links.
 
 Collection of your Personal Information
 
 At some sites, MSN collects personal information, such as your e-mail address, name, home or work address or telephone number. MSN may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites. Information collected by MSN may be combined with information obtained from other Microsoft services and other companies.
 
+If you choose to sign up for a paid subscription service (such as MSN Internet Access or MSN Extra Storage), we will collect additional personal information, including your credit card number and billing address, in order to create a Microsoft billing account. You can always add to or update the information in your billing account through the Account Update area located at [https://billing.microsoft.com](https://billing.microsoft.com/).
+
+You can choose to create an optional public profile, containing information about yourself - such as your hobbies and interests. Any information you choose to enter in your public profile will be visible to other users of MSN sites and services; and when you interact with other users (for example, sending an MSN Hotmail message to another MSN email account or interacting in an MSN Chat room), a link to your public profile may be displayed. MSN urges you to be careful only to enter information on your public profile that you are comfortable sharing with the public at large. You may change, edit or delete information about yourself from your public profile at any time while online by going to People & Chat, Public Profiles, Edit Your Public Profile.
+
 MSN also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by MSN for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of MSN.
 
 MSN keeps track of the pages our customers visit within MSN, in order to determine what MSN sites and services are the most popular. This data is also used by MSN to deliver customized content and advertising to customers whose behavior indicates that they are interested in a particular subject area.
 
-MSN uses .NET Passport to provide registration and sign-in services. If you create a .NET Passport at MSN, you are simultaneously registering with MSN and opening a .NET Passport account. All of the registration information you provide will be stored by MSN, and some or all of that information will also be stored by .NET Passport in your Passport profile. To learn more about the Passport service, the information stored in the Passport profile, and how Passport uses and protects your personal information, please read the [.NET Passport Privacy Statement.](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033)
+MSN uses .NET Passport to provide registration and sign-in services. If you create a .NET Passport at MSN, you are simultaneously registering with MSN and opening a .NET Passport account. All of the registration information you provide will be stored by MSN, and some or all of that information will also be stored by .NET Passport in your Passport profile. To learn more about the Passport service, the information stored in the Passport profile, and how Passport uses and helps protect your personal information, please read the [.NET Passport Privacy Statement.](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033)
 
-Please keep in mind that if you directly disclose personal information through MSN Chats, MSN Groups, or other public online forums, this information may be collected and used by others.
+Some MSN services, such as MSN Chat and MSN Groups, request that you create a social nickname, which is the name you will be known by to others in those public places. You may select a different social nickname at any time. Please keep in mind that if you disclose personal information through MSN Chats, MSN Groups, or other public online forums, this information may be collected and used by others. MSN cautions you against giving out personal information to strangers online, which they may use for illegal or harmful purposes.
 
 MSN encourages you to review the privacy statements of Web sites you choose to link to from MSN so that you can understand how those Web sites collect, use and share your information. Microsoft is not responsible for the privacy statements or other content on Web sites outside of the Microsoft and MSN family of Web sites.
 
 Use of your Personal Information
 
-MSN and its operational service partners collect and use your personal information to operate MSN and deliver the services you have requested. MSN also uses your personal information to inform you of other products or services available from Microsoft and its affiliates. MSN may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+MSN and its operational service partners collect and use your personal information to operate MSN and deliver the services you have requested. MSN does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+
+MSN also uses your personal information to inform you of other products or services available from Microsoft and its affiliates. MSN may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
 MSN does not sell, rent or lease its customer lists to third parties. MSN may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party. 
 
+Certain MSN services may be co-branded and offered in conjunction with another company. If you register for or use such services, both MSN and the other company may receive information collected in conjunction with the co-branded services. In such cases, either a joint privacy statement or a link to the other company's privacy statement will be provided, which will provide you with information about how the other company will use the information and how you can contact the other company with requests to access the information or other inquiries.
+
 We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
 
-MSN does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
-
-MSN may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Microsoft or the site; (b) protect and defend the rights or property of Microsoft, including its MSN family of Web sites; or (c) act under exigent circumstances to protect the personal safety of users of Microsoft, its web sites, or the public.
+MSN may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Microsoft or the site; (b) protect and defend the rights or property of Microsoft, including its MSN family of Web sites; or (c) act under exigent circumstances to protect the personal safety of users of MSN services or members of the public.
 
 Personal information collected on this site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
@@ -45,9 +51,9 @@ Control your Personal Information
 
 MSN offers its customers choices for the collection, use and sharing of personal information. You may go to the [MSN Communications Preferences](http://privacy.msn.com/choice/default.asp) page to proactively make choices about the use and sharing of your personal information. You may choose not to receive marketing material from MSN or on behalf of external third party business partners.
 
-In addition, you may visit the "[MSN Personal Information Center](http://privacy.msn.com/profilemgmt/)" to view, edit or delete your personal information from the MSN database. Not all sites are represented at this time; additional MSN sites and services will be added to the Center in the future.
+In addition, you may visit the "[MSN Personal Information Center](http://privacy.msn.com/profilemgmt/)" to view, edit or delete your personal information from the MSN database. Not all sites are represented at this time; additional MSN sites and services will be added to the Center in the future. If you have created a public profile on MSN, you may also edit or delete information in your public profile by going to People & Chat, Public Profiles, Edit Your Public Profile.
 
-In both cases described above, you will be asked to make your requests while logged into a .NET Passport account, so that MSN can associate your preferences with a particular account. This security safeguard prevents someone else from making choices about the usage and control of your personal information. If you do not have a .NET Passport account, you can create one now by clicking [here](http://www.passport.com/).
+In each case described above, you will be asked to make your requests while logged into a .NET Passport account, so that MSN can associate your preferences with a particular account. This security safeguard prevents someone else from accessing your personal information or making choices about the usage and control of your personal information. If you do not have a .NET Passport account, you can create one now by clicking [here](http://www.passport.com/).
 
 You may also stop the delivery of future promotional e-mail from MSN by following the specific instructions in the e-mail you receive. The instructions explain how to stop receiving such e-mails.
 
@@ -61,7 +67,7 @@ Collection and Use of Children's Personal Information
 
 MSN offers a special MSN Kids area that is specifically designed for children at <http://kids.msn.com/>. MSN Kids has a special [privacy statement](http://g.msn.com/0PRKids/enus) that informs children and parents about the MSN Kids area, describes the additional privacy protections provided in this area, and provides children with tips on how to protect themselves online.
 
-The rest of MSN is intended for users of all ages. Children may visit these general audience areas of MSN and provide personal information, which will be collected, used and disclosed as described is this Statement of Privacy. Some, but not all, MSN sites require users to provide age information. For those users who visit such sites and identify themselves as under 13, MSN uses Kids Passport, a service of .NET Passport, to obtain consent from parents for the collection, use and sharing of their children's personal information as described in this Statement of Privacy. If MSN changes this Statement of Privacy in a way that expands the collection, use or disclosure of children's personal information to which a parent has previously consented, the parent will be notified and MSN will be required to obtain the parent's additional consent. To learn more about the Kids Passport service, please visit [www.passport.net](http://www.passport.net/) and read the [.NET Passport Kids Privacy Statement](http://www.passport.net/Consumer/KidsPrivacyPolicy.asp).
+The rest of MSN is intended for users of all ages. Children may visit these general audience areas of MSN and provide personal information, which will be collected, used and disclosed as described is this Privacy Statement. Some, but not all, MSN sites require users to provide age information. For those users who visit such sites and identify themselves as under 13, MSN uses Kids Passport, a service of .NET Passport, to obtain consent from parents for the collection, use and sharing of their children's personal information as described in this Privacy Statement. If MSN changes this Privacy Statement in a way that expands the collection, use or disclosure of children's personal information to which a parent has previously consented, the parent will be notified and MSN will be required to obtain the parent's additional consent. To learn more about the Kids Passport service, please visit [www.passport.net](http://www.passport.net/) and read the [.NET Passport Kids Privacy Statement](http://www.passport.net/Consumer/KidsPrivacyPolicy.asp).
 
 **Please note that if you grant consent for your child to use such general audience communication services as MSN Chat, MSN Groups, MSN Messenger, or MSN Hotmail, your child will be able to communicate with other users of all ages. Before providing consent, please be aware that such services will give your child the ability to disclose personal information (e.g. name, address, e-mail, phone numbers) on his or her own.** We encourage you to talk with your children about communicating with strangers and disclosing personal information online. You and your child can visit [MSN's Stay Safe Online](http://www.msn.staysafeonline.com/) site for additional information about using the Internet safely.
 
@@ -79,7 +85,7 @@ Use of Web Beacons
 
 MSN Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow MSN to count users who have visited those pages and to deliver co-branded services. MSN may include web beacons in promotional e-mail messages or MSN Newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personal information on the MSN network of sites and services; they are a technique we use to compile aggregated statistics about MSN Web site usage.
 
-Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. MSN Web pages may also contain Web beacons placed there by our advertising partners to help determine the effectiveness of our Internet advertising campaigns.
+Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. MSN Web pages may also contain Web beacons placed there by third parties to help determine the effectiveness of our joint promotional or advertising campaigns.
 
 Use of Third Party Ad Networks
 
@@ -91,19 +97,19 @@ MSN maintains relationships with a number of the third-party ad networks current
 
 TRUSTe Certification
 
-MSN is a member of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. Because MSN wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+MSN is a member of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. Because MSN wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-Enforcement of this Statement of Privacy
+Enforcement of this Privacy Statement
 
 If you have questions regarding this statement, you should first contact MSN via [e-mail](mailto:MSNPrivacy@msn.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html). TRUSTe will serve as a liaison with MSN to resolve your concerns.
 
 Changes to this Statement
 
-MSN will occasionally update this Statement of Privacy to reflect company and customer feedback. When MSN posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of MSN. If there are material changes to this Statement or in how MSN will use your personal information, MSN will prominently post such changes prior to implementing the change. MSN encourages you to periodically review this Statement to be informed of how Microsoft is protecting your information.
+MSN will occasionally update this Privacy Statement to reflect company and customer feedback. When MSN posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of MSN. If there are material changes to this Statement or in how MSN will use your personal information, MSN will prominently post such changes prior to implementing the change. MSN encourages you to periodically review this Statement to be informed of how Microsoft is protecting your information.
 
 Contact Information
 
-MSN welcomes your comments regarding this Statement of Privacy. If you believe that MSN has not adhered to this Statement, please contact MSN by telephone, e-mail, or postal mail.
+MSN welcomes your comments regarding this Privacy Statement. If you believe that MSN has not adhered to this Statement, please contact MSN by telephone, e-mail, or postal mail.
 
 MSN Privacy  
 Microsoft Corporation  
@@ -118,36 +124,31 @@ Top
 
 Supplementary Information for Particular MSN Sites and Services
 
-Please click in the links below to view additional information about particular MSN sites and services. Please note that this additional information is intended to supplement and be read in conjunction with the general provisions of the MSN Statement of Privacy above.
+Please click in the links below to view additional information about particular MSN sites and services. Please note that this additional information is intended to supplement and be read in conjunction with the general provisions of the MSN Privacy Statement above.
 
 MSN Internet Access Service | MSN Hotmail | MSN Explorer / MSN Internet Software  
 ---|---|---  
-MSN Calendar | MSN Extra Storage | MSN Groups  
 MSN Health | MSN Messenger | MSN Mobile  
 MSN Money | MSN Newsletters | MSN Wallet & MSN Dollars  
   | MSN Zone |    
   
 MSN Internet Access Service
 
-When you register to subscribe to our MSN Internet Access service, MSN requests personal information such as your name, e-mail address, physical address, telephone number, credit card number, and in some instances, your social security number to register your account ("registration information").
-
 When you create an MSN Internet Access account, you will be simultaneously creating a .Net Passport for each user of the account, which will be used to sign into the service. For more information about .NET Passport, visit [http://www.passport.net](http://www.passport.net/) and read the [.NET Passport Privacy Statement](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033).
 
-New users will receive welcome letters explaining the features provided by the service. MSN Internet Access may contact you regarding the service, such as changes in the service, technical issues or billing questions. You may also receive periodic member letters to announce important service changes, new features, technical issue updates and news about other Microsoft products and services. MSN Internet Access may also contact you to conduct research about your opinion of current and prospective services via e-mail surveys. MSN Internet Access may from time to time contact you, on behalf of external business partners, about a particular offering that may be of interest to you. MSN Internet Access will not share your e-mail address with these business partners.
+New users will receive welcome letters explaining the features provided by the service. MSN Internet Access may contact you regarding the service, such as changes in the service, technical issues or billing questions. You may also receive periodic member letters to announce important service changes, new features, technical issue updates and news about other Microsoft products and services.
 
 You may access and update your information in your MSN Internet Access account in the "Help and Support" area of MSN Internet Access at [memberservices.msn.com](http://memberservices.msn.com/). You may also contact MSN Internet Access Customer Service to determine whether such information has been accurately recorded, and, if not, to request correction of any inaccuracies. You can reach a live interactive online support representative 24 hours a day, 7 days a week at [msn.webhelp.com/msn/](http://msn.webhelp.com/msn/).
-
-If your account was offered in conjunction with another company through a co-promotion, you will be notified upon registration about how to contact the other party in order to check and correct your information if necessary. In some cases, both MSN and the other company with whom you signed up for MSN Internet Access, will receive your registration information.
 
 Top
 
 MSN Hotmail
 
-Hotmail collects information during the registration process. The personal information Hotmail collects includes first and last name. In addition, Hotmail also collects demographic information such as: country, region or state, zip or postal code, time zone, gender, birth date and occupation. You may update your registration information at any time from within your Hotmail account by clicking the "Options" button on the navigation bar, and then clicking on the "Personal" icon. 
+Hotmail collects information during the registration process, including first and last name, country, region or state, zip or postal code, time zone, gender, birth date and occupation. You may update your registration information at any time from within your Hotmail account by clicking the "Options" button on the navigation bar, and then clicking on the "Personal" icon. 
 
-When you create a Hotmail account, you will also simultaneously create a .NET Passport, which you will use for signing in to your Hotmail account. For more information about .NET Passport, visit [http://www.passport.net](http://www.passport.net/) and read the [.NET Passport Privacy Statement](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033).
+When you create a Hotmail account, you will also simultaneously create a .NET Passport, which you will use for signing in to your Hotmail account. If you cancel this .NET Passport account, you will automatically cancel your Hotmail account. For more information about .NET Passport, visit [http://www.passport.net](http://www.passport.net/) and read the [.NET Passport Privacy Statement](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033).
 
-Your registration information is used to operate the site, for demographic statistics, and to display appropriate individualized advertisements. New users will receive a Hotmail welcome letter explaining the features provided by the service. Hotmail may also send periodic member letters to announce important service changes, new features, technical issue updates and news about other Microsoft products and services. Hotmail may also contact you to conduct research about your opinion of current and prospective services via e-mail surveys. Hotmail may from time to time contact you, on behalf of external business partners, about a particular offering that may be of interest to you. Hotmail will not share your e-mail address with these business partners.
+Your registration information is used to operate the site, for demographic statistics, and to display appropriate individualized advertisements. New users will receive a Hotmail welcome letter explaining the features provided by the service. Hotmail may also send periodic member letters to announce important service changes, new features, technical issue updates and news about other Microsoft products and services.
 
 During the Hotmail registration process you are given the choice as to whether you want to be listed in the Hotmail Directory and the Internet White Pages. If you did not make a choice during the initial registration process, your registered name and location is listed in the Hotmail Directory and the Internet White Pages. At any time, you may remove your information from the Hotmail Directory by clicking on the "Options" button on the navigation bar, and then clicking on the "Personal" icon. In the case of the Internet White Pages, we will share your registered name, location, and e-mail address with the Internet White pages provider InfoSpace who may only use your personal information to provide their directory services. To remove your e-mail address from the Internet White Pages, go to [www.msn.com](http://www.msn.com/), click on "More," click on "White Pages", click on "Email Search" where you may register or delete your e-mail address. 
 
@@ -207,45 +208,11 @@ The advanced capabilities of the MSN Address bar can be turned off in MSN Intern
 
 Top
 
-MSN Calendar
-
-When you register for MSN Calendar, MSN requests your first and last name, primary e-mail address and time zone. Your first and last names are used only for the "Invites" feature. This feature allows you to create an appointment and send an invitation for that appointment to another person by e-mail. The time zone is used to display your calendar correctly. Your primary e-mail address is used as the address where we send your appointment "reminders." No information in your calendar date book is used in any other way by MSN.
-
-Top
-
-MSN Extra Storage
-
-If you choose to sign up for MSN Extra Storage, we will collect additional personal information including your credit card number and billing address. Microsoft will use the information contained in your billing account for the following purposes:
-
-  * Billing you (e.g. sending billing information to a credit card clearing house)
-  * Collecting payments from you
-  * Performing service & support for you (e.g. responding to customer inquiries)
-  * Enforcing the terms of the MSN Extra Storage Subscriber Agreement.
-  * Ensuring complete operation and delivery of the MSN Extra Storage service you have requested.
-
-
-
-You can always add to or update the information in your Billing Account through the Account Update area located at [https://billing.microsoft.com](https://billing.microsoft.com/).
-
-Top
-
-MSN Groups
-
-To participate in MSN Chat and MSN Groups, MSN requests that you create a social nickname, which is the name you will be known by to others in those public places. If you do not choose to create a social nickname, you will simply be identified as a "Guest."
-
-At MSN Groups and MSN Chat, you can create a public profile of yourself. The public profile contains personal information - such as your hobbies and interests - that you have volunteered about yourself so that other participants in MSN chat rooms, MSN Groups or other public places can learn something about you. All such information is optional and everything you enter in your public profile will be visible to other users of the site. MSN urges you to be careful only to enter information on your public profile that you are comfortable sharing with the public at large. You may change, edit or delete information about yourself from your public profile at any time while online by going to Public Profiles, Edit Your Public Profile. You may also select a different social nickname at any time.
-
-While participating in chats, communities or other public forums, MSN cautions you against giving out personal information (such as names and addresses, phone numbers, social security numbers, credit card numbers, and driver's license numbers) to strangers online, which they may use for illegal or harmful purposes.
-
-Top
-
 MSN Health
 
-MSN Health is provided by MSN's partner, WebMD. WebMD requests personal information and demographic data in three areas: registration, creation of a member profile, and in the MyHealthRecord section of the site. WebMD uses this information that you have volunteered to provide you with the health related services you have requested. WebMD will not release any of your personal information or associated health information to any third party without your permission. MSN does not collect or use any of this information.
+MSN Health is provided by MSN's partner, WebMD. WebMD requests personal information and demographic data to provide you with the health related services you have requested. MSN does not collect or use any of this information.
 
-You may change the information in your WebMD member profile at any time, or request that your information be deleted by e-mailing [support@webmd.com](mailto:support@webmd.com).
-
-MSN encourages you to read the entire [MSN Health/WebMD Privacy Statement](http://content.health.msn.com/medcast_channel_toc/1761) to understand the extra precautions that WebMD has taken to safeguard your health data.
+You may change the information in your WebMD member profile at any time, or request that your information be deleted by e-mailing [support@webmd.com](mailto:support@webmd.com). MSN encourages you to read the entire [MSN Health/WebMD Privacy Statement](http://content.health.msn.com/medcast_channel_toc/1761) to understand the extra precautions that WebMD has taken to safeguard your health data.
 
 Top
 
@@ -287,7 +254,7 @@ Top
 
 MSN Newsletters
 
-When you subscribe to an MSN Newsletter, MSN requests your e-mail address. MSN uses your e-mail address to send you the newsletter(s) you have requested. You may subscribe and unsubscribe to MSN Newsletters by going to [newsletters.msn.com](http://newsletters.msn.com/). In addition, each MSN newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it. If you have secured your newsletter subscription with a .NET Passport account, you will need to sign-in to Passport to unsubscribe from that newsletter.
+When you subscribe to an MSN Newsletter, MSN requests your e-mail address. MSN uses your e-mail address to send you the newsletter(s) you have requested. You may subscribe and unsubscribe to MSN Newsletters by going to [newsletters.msn.com](http://newsletters.msn.com/). In addition, each MSN newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
 
 Top
 
@@ -323,4 +290,4 @@ The Zone also hosts a small number of premium games. To participate in these opt
 
 Top
 
-©2002 Microsoft Corporation.  All rights reserved.
+©2003 Microsoft Corporation.  All rights reserved.
