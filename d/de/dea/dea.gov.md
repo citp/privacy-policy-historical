@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dea.gov privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208092317id_/http%3A//www.usdoj.gov/privacy-file.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dea.gov privacy policy that was archived on 2003-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030514012053id_/http%3A//www.usdoj.gov/privacy-file.htm) for the most accurate reproduction.*
 
 # PRIVACY AND SECURITY NOTICE
 
