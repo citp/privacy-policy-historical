@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212181207id_/http%3A//nydailynews.com/scontent/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611214635id_/http%3A//nydailynews.com/scontent/private_policy) for the most accurate reproduction.*
 
 # New York Daily News - Private Policy
 
