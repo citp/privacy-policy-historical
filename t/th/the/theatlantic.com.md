@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630051439id_/http%3A//www.theatlantic.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228195557id_/http%3A//www.theatlantic.com/a/privprint.mhtml) for the most accurate reproduction.*
 
 # The Atlantic Online | Privacy Policy
 
   
-[](http://www.cafepress.com/theatlantic/)  
-  
-  
-| 
-
-Privacy Policy    
+[](http://www.cafepress.com/theatlantic/)   
+|  Privacy Policy    
   
 .....  For Web site Visitors
 
@@ -31,4 +27,4 @@ Copyright © 2003 by [The Atlantic Monthly Group](https://web.archive.org/about/
 
 * * *
 
-| 
+|  [](https://web.archive.org/sam/click/175/0)
