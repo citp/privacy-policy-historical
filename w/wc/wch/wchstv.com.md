@@ -1,28 +1,24 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212133508id_/http%3A//wchstv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604052254id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
-  
-[**About WCHS-TV8**](https://web.archive.org/about.html)  
-  
-[**The TV Market**](https://web.archive.org/market.html)  
-  
-[**Privacy Policy**](https://web.archive.org/privacy.html)  
-  
-[**FAQ**](https://web.archive.org/faq.html)  
-  
-[**Now Hiring**](https://web.archive.org/jobs.html)  
-  
-[**Program and Contact FAQ**](https://web.archive.org/programfaq.html)  
-  
-[**Great Buys**](https://web.archive.org/ad/)  
-  
-[**Register**](https://web.archive.org/register.html)  
-  
-[**Search**](https://web.archive.org/8search.phtml)  
-  
+| | [**ABOUT WCHS-TV8**](https://web.archive.org/about.shtml)  
+---|---  
+| [**WCHS-TV8 FREQUENTLY ASKED QUESTIONS**](https://web.archive.org/faq.shtml)  
+| [**PROGRAM CONTACTS & PROGRAM FAQ**](https://web.archive.org/programfaq.shtml)  
+| [**JOBS @ TV8 & FOX11**](https://web.archive.org/jobs.shtml)  
+| [**GUESTBOOK**](https://web.archive.org/register.shtml)  
+| [**SEARCH**](https://web.archive.org/8search.phtml)  
+| [**SATELLITE INFORMATION**](https://web.archive.org/aboutsatellite.shtml)  
+| [**THE TV MARKET**](https://web.archive.org/market.shtml)  
+| [**ONLINE ADVERTISING**](https://web.archive.org/ads/)  
+| [**COMMUNITY SURVEY**](https://web.archive.org/ca/communitysurvey.shtml)  
+| [**SCHOOL CLOSINGS**](https://web.archive.org/newsroom/schoolclosing.phtml)  
+| [**Fashion & Beauty Tips**](http://itnnetmedia.com/?tag=6569)  
+| [**Holiday Info**](http://itnnetmedia.com/?tag=6670)  
+| [**Recipes**](http://itnnetmedia.com/?tag=6617)  
 |  |    
-Privacy Statement for www.wchstv.com
+**Privacy Statement for www.wchstv.com**
 
 WCHS-TV8 has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website, www.wchstv.com.
 
@@ -79,6 +75,16 @@ If you have any questions about this privacy statement, the practices of this si
     PO Box 11138  
     Charleston, WV 25338
 
-    [webmaster@wchstv.com](mailto:webmaster@wchstv.com)
+    [webmaster@wchstv.com](mailto:webmaster@wchstv.com) |  |  |  |    
 
-* * *
+
+[](http://www.supportournation.com/)  
+  
+[](https://web.archive.org/synd_prog/weakestlink/)  
+  
+EYEWITNESS NEWS IS AFFILIATED WITH  
+[](http://cnn.com/LOCAL/regions/southeast/WCHS-TV/)  
+  
+Also Visit:  
+[](http://www.wvah.com/)  
+
