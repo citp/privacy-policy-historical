@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aus.edu privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603040758id_/http%3A//www.aus.edu/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aus.edu privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010083223id_/http%3A//www.aus.edu/misc/privacy.html) for the most accurate reproduction.*
 
 # Antioch University Seattle | Privacy Statement
 
@@ -23,4 +23,4 @@ Antioch University Seattle does not distribute your personal information to outs
 Antioch University Seattle makes every reasonable effort to protect the privacy of personal information submitted via the website.
 
 **Questions?**  
-If you would like more information or have comments about this website, please fill out the [website feedback](https://web.archive.org/web/20040603040758id_/http%3A//www.aus.edu/misc/website_feedback.html) form.
+If you would like more information or have comments about this website, please fill out the [website feedback](https://web.archive.org/web/20041010083223id_/http%3A//www.aus.edu/misc/website_feedback.html) form.
