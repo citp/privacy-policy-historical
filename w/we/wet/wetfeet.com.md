@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetfeet.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208074220id_/http%3A//www.wetfeet.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetfeet.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220600id_/http%3A//www.wetfeet.com/about/privacy.asp) for the most accurate reproduction.*
 
 # WetFeet Inc. Privacy Statement
 
@@ -17,7 +17,7 @@
   
 |    
 **WetFeet Inc. Privacy Statement**  
-[](https://www.truste.org/validate/4995) WetFeet, Inc., is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.wetfeet.com](http://www.wetfeet.com/). It was last updated on 5/5/04.
+[](http://www.truste.org/ivalidate.php?url=www.wetfeet.com&sealid=101) WetFeet, Inc., is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.wetfeet.com](http://www.wetfeet.com/). It was last updated on 5/5/04.
 
 TRUSTe is an independent, nonprofit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of: 
 
@@ -29,7 +29,7 @@ TRUSTe is an independent, nonprofit organization whose mission is to build users
   6. The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under WetFeet control 
   7. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should first contact our webmaster by [e-mail](mailto:webmaster@wetfeet.com). If you do not receive acknowledgment of your inquiry or if your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the website to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our webmaster by [e-mail](mailto:webmaster@wetfeet.com). If you do not receive acknowledgment of your inquiry or if your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.
 
