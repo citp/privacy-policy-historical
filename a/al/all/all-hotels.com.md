@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2001-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011003235636id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603154447id_/http%3A//all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # help and info - faq menu page
 
@@ -27,7 +27,7 @@ If you do not receive acknowledgment of your inquiry or your inquiry has not bee
 All-Hotels regards the privacy and security of our customer's information as a critical component of the service that we offer. When you make a new reservation or make changes to an existing reservation, we offer the use of a secure server. The Secure Sockets Layer (SSL) technology encrypts all information you input before it is sent to our server and when it is sent from our server to the hotel. 
 
 **What information this site gathers/tracks about you**   
-You have the option to join all-hotels.com where you can choose to receive the bi-monthly newsletter "All-Abroad" and the Special Offers and Discounted Hotels newsletter. You will also have the option to store your contact information, hotel preferences, room preferences, currency preferences and destination preferences. At any time, you may opt out from receiving All-Abroad and the Special Offers Newsletter, or update your preferences and contact information. Please see the section below titled "Our policy on correcting and updating personally identifiable information" 
+You have the option to join all-hotels.com where you can choose to receive the monthly newsletter "All-Abroad" and the Special Offers and Discounted Hotels newsletter. You will also have the option to store your contact information, hotel preferences, room preferences, currency preferences and destination preferences. At any time, you may opt out from receiving All-Abroad and the Special Offers Newsletter, or update your preferences and contact information. Please see the section below titled "Our policy on correcting and updating personally identifiable information" 
 
 **What this site does with the information it gathers/tracks.**   
 All the information that you submit for membership makes booking on all-hotels.com easier for you. Contact information allows your booking form to be completed automatically; Hotel Preferences allow you to match hotels with your specific requirements; Currency Preferences will display hotel rates in the currency of your choice; Room Preferences will be forwarded to the hotel with every booking; and Destination Preferences will sign you in to the location that you prefer. 
@@ -41,13 +41,15 @@ Like most Web sites, there is certain information we automatically track, includ
 
 We use cookies to help users navigate efficiently between secure and non-secure pages of our site. Cookies are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences. The use of cookies is an industry standard, and many major web sites use them to provide useful features for their customers. We only use cookies to store information about hotels. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of a Web site if you do so. 
 
+Business Transfers: As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that All-Hotels, Ltd., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+
 **Our policy on correcting and updating personally identifiable information.**
 
 All-Abroad   
-All-Abroad is All-Hotels' travel magazine. When you subscribe to All-Abroad we direct you to another site that is owned by All-Hotels. To subscribe to All-Abroad you need to give your email address. All-Abroad will be delivered to your email address every two weeks. To unsubscribe or update your email address go to http://all-hotels.com/ and click on 'Login' in the Users section of the left bar. All you have to do is sign in with your email address and password and change your subscription details as required. All-Abroad is the property of All-Hotels and all terms in this privacy policy apply. 
+All-Abroad is All-Hotels' travel magazine. When you subscribe to All-Abroad we direct you to another site that is owned by All-Hotels. To subscribe to All-Abroad you need to give your email address. All-Abroad will be delivered to your email address every month. To unsubscribe or update your email address, go to [http://www.all-hotels.com](http://www.all-hotels.com/) and click on the green 'My Account' tab at the top of the page and then click on 'Login'. All you have to do is sign in with your email address and password and change your subscription details as required. All-Abroad is the property of All-Hotels and all terms in this privacy policy apply.
 
 Personal Information, Hotel Preferences and Membership   
-You have the option to join all-hotels.com (select the "Join all-hotels.com" option under 'Users in the left bar). When you become a member, you can choose to leave your personal information and hotel preferences. You can also choose to receive All-Abroad and the Special Offers and Discounted Hotels Newsletter. The amount of information that you leave is entirely optional. You can update your personal details and subscriptions at any time by signing in to all-hotels.com via the "Login" option. 
+You have the option to join all-hotels.com (select the 'join all-hotels' option under the green 'My Account' tab at the top of the page). When you become a member, you can choose to leave your personal information and hotel preferences. You can also choose to receive All-Abroad and the Special Offers and Discounted Hotels Newsletter. The amount of information that you leave is entirely optional. You can update your personal details and subscriptions at any time by signing into all-hotels.com via the 'Login' option under the 'My Account' tab.
 
 If you would like to remove all your membership details from all-hotels.com, simply send an email to [privacy@all-hotels.com](mailto:privacy@all-hotels.com) and put "cancel membership" in the subject line. 
 
@@ -70,6 +72,8 @@ Fax: 44-131-625-1066
 
 **Changes to our Privacy Policy**   
 This policy may be revised over time as new features are added to the web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy. 
+
+If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.
 
 Return to Top
 
