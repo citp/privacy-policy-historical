@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapnames.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602085439id_/http%3A//www.snapnames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapnames.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211712id_/http%3A//www.snapnames.com/privacy.html) for the most accurate reproduction.*
 
 # SnapNames - Privacy Statement
 
@@ -56,4 +56,4 @@ By using SnapNames, you consent to the collection and use of information as outl
 
 We welcome any comments on this policy. You may e-mail any thoughts to [info@SnapNames.com](mailto:info@SnapNames.com). 
 
-See our [Terms & Conditions](https://web.archive.org/web/20020602085439id_/http%3A//www.snapnames.com/terms.html)
+See our [Terms & Conditions](https://web.archive.org/web/20021204211712id_/http%3A//www.snapnames.com/terms.html)
