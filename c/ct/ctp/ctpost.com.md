@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctpost.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608031645id_/http%3A//www.connpost.com/Stories/0%2C1413%2C96%25257E3835%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctpost.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206125823id_/http%3A//www.connpost.com/Stories/0%2C1413%2C96%25257E3835%25257E%2C00.html) for the most accurate reproduction.*
 
 # Connecticut Post Online - Privacy Policy
 
