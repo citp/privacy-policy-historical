@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eolss.net privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204175451id_/http%3A//www.eolss.net/eolss_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eolss.net privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407044403id_/http%3A//www.eolss.net/eolss_policy.aspx) for the most accurate reproduction.*
 
-# EOLSS WEBSITE: Notion of an Encyclopedia
+# Encyclopedia of Life Support Systems - Privacy Policy
 
 ## **Privacy Policy**
 
