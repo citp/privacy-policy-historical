@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 2000-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001010043913id_/http%3A//www.wral-tv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331085520id_/http%3A//www.wral-tv.com/privacy.html) for the most accurate reproduction.*
 
 # WRAL OnLine - Visitor Privacy Statement
 
