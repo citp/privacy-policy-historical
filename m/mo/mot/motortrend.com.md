@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motortrend.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002003017id_/http%3A//motortrend.com/corporate/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motortrend.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404045407id_/http%3A//www.motortrend.com/corporate/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 Primedia Consumer Privacy Policy
 
