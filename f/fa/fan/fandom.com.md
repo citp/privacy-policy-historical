@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203200911id_/http%3A//www1.fandom.com/0/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandom.com privacy policy that was archived on 2004-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040222230150id_/http%3A//www1.fandom.com/0/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cinescape - Home - Editorial
 
