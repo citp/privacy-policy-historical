@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205023219id_/http%3A//www.mscsoftware.com/about/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207231615id_/http%3A//www.mscsoftware.com/about/legal/%23privacy) for the most accurate reproduction.*
 
 # About MSC.Software
 
+  
   
   
   
@@ -101,9 +102,6 @@ We use a secure licensed system for credit card authorization and fraud detectio
 For further details about security on this MSC.Software site, please see our Security Policy.  
   
 **  
-Your Ability to Review or Change Your Personal Information**  
-We encourage our users to update and edit their personal information and keep it current. To do so, please go to the [Member Services](https://www.engineering-e.com/cgi-bin/register/signinform.pl?CASE=protected&refer=https://www.engineering-e.com/misc/member_services.cfm?) page.  
-**  
 Links to Other Sites**  
 As a convenience to you, we sometimes provide links to other, non-MSC.Software websites. These sites are not under the control of MSC.Software, and the fact that MSC.Software provides such links is not an indication that we endorse or are liable for those sites or their content.  |   |  This Privacy Policy does not cover those linked sites. If you provide information to those companies' sites, that information will be subject to their privacy policies.  
 **  
@@ -117,10 +115,8 @@ Anytime you have questions or concerns about our Privacy Policy, please contact 
 
 The trademarks and service marks ("trademarks") displayed on this web site are the property of MSC.Software Corporation or third parties. You are not permitted to use these trademarks without the prior written consent of MSC.Software Corporation or such third parties. 
 
-The following are trademarks or registered trademarks of MSC.Software Corporation or its subsidiaries in the United States and/or other countries: ADAMS, CATCMM, DYTRAN, EASY5, Engineering-e.com, Engineering Exchange, Interactive Physics, MARC, MSC, MSC., MSC/, MSC.Acumen, MSC.ADAMS, MSC.AKUSMOD, MSC.AMS FVA, MSC.Astros, MSC.CATCMM, MSC.Construct, MSC.DropTest, MSC.Dynamic Designer, MSC.Dytran, MSC.EASY5, MSC.Enterprise Mvision, MSC.Explore, MSC.Fatigue, MSC.FEA, MSC.FlightLoads, MSC.GS-Mesher, MSC.Laminate Modeler, MSC.Marc, MSC.Marc Mentat, MSC.Mvision, MSC.Nastran, MSC.NVH Manager, MSC.Patran, MSC.Robust Design, MSC.SuperForge, MSC.SuperForm, MSC.SuperModel, MSC.Thermal, MSC.Ultima, MSC.visualNastran, PATRAN, Working Model, and Simulation Center. The foregoing is not intended to be an exhaustive or comprehensive list of all trademarks owned by MSC.Software Corporation or its subsidiaries. Failure of a trademark to appear on this page does not mean that MSC.Software Corporation does not use the trademark. 
+The following are trademarks or registered trademarks of MSC.Software Corporation or its subsidiaries in the United States and/or other countries: The MSC.Software corporate logo, ADAMS, CATCMM, DYTRAN, EASY5, Engineering-e.com, Engineering Exchange, Interactive Physics, Laminate Modeler, MARC, Mentat, MSC, MSC., MSC/, MSC.Acumen, MSC.ADAMS, MSC.AKUSMOD, MSC.AMS FVA, MSC.Astros, MSC.CATCMM, MSC.Construct, MSC.DropTest, MSC.Dynamic Designer, MSC.Dytran, MSC.EASY5, MSC.Enterprise Mvision, MSC.Explore, MSC.Fatigue, MSC.FEA, MSC.FlightLoads, MSC.GS-Mesher, MSC.Marc, MSC.MasterKey, MSC.Mvision, MSC.Nastran, MSC.NVH Manager, MSC.Patran, MSC.Robust Design, MSC.SimManager, MSC.SOFY, MSC.SuperForge, MSC.SuperForm, MSC.SuperModel, MSC.Thermal, MSC.Ultima, MSC.visualNastran, PATRAN, Working Model, SimDesigner, SimOffice, Simulating Reality, Simulation Center, and SOFY. The foregoing is not intended to be an exhaustive or comprehensive list of all trademarks owned by MSC.Software Corporation or its subsidiaries. Failure of a trademark to appear on this page does not mean that MSC.Software Corporation does not use the trademark.  |   | 
 
-|   | 
-
-NASTRAN is a registered trademark of the National Aeronautics Space Administration. MSC.Nastran is an enhanced proprietary version developed and maintained by MSC.Software Corporation. Linux is a registered trademark of Linus Torvalds. All other trademarks are the property of their respective owners.   
+NASTRAN is a registered trademark of the National Aeronautics Space Administration. MSC.Nastran is an enhanced proprietary version developed and maintained by MSC.Software Corporation. ABAQUS is a registered trademark of ABAQUS, Inc. ANSYS is a registered trademark of SAS IP, Inc., a wholly owned subsidiary of ANSYS, Inc. AutoDesk is a registered trademark of Autodesk, Inc. CATIA is a registered trademark of Dassault Systemes SA. FLEX _lm_ is a registered trademark of Macrovision Corporation. Pro/ENGINEER is a registered trademark of Parametric Technology Corporation. Linux is a registered trademark of Linus Torvalds. LS-DYNA is a trademark or registered trademark of LSTC. Unigraphics, Parasolid and I-DEAS are registered trademarks of UGS Corp. All other brand names, product names or trademarks are the property of their respective owners.   
   
 ---|---|---
