@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403213634id_/http%3A//www.tutor2u.net/privacy.asp) for the most accurate reproduction.*
 
 # Tutor2u - Terms and Conditions
 
@@ -57,16 +57,14 @@ LS23 6DX
 * * *  
   
 ---  
-**[Home](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/default.asp)** | [Privacy Policy ](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/privacy.asp)| [Terms of Use](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/terms.asp) | [Contact Us](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/feedback.asp) | [Meet the Team ](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/team.asp) | [What Our Customers Say](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/testimonials.asp)  |   
-Add your email to receive our free, regular email newsletter  
-Online Learning Resource of the Year - 2003 BETT Awards  
-Highly Commended: UK Online for Business Awards 2003  
-Many tutor2u resources can be purchased using e-learning credits - [please visit our online store for details](https://web.archive.org/web/20041204085649id_/http%3A//www.tutor2u.net/acatalog/shop.html)   
+**[Home](https://web.archive.org/default.asp)** | [Privacy Policy ](https://web.archive.org/privacy.asp)| [Terms of Use](https://web.archive.org/terms.asp) | [Contact Us](https://web.archive.org/feedback.asp) | [Meet the Team ](https://web.archive.org/team.asp) | [What Our Customers Say](https://web.archive.org/testimonials.asp)  
+Online Learning Resource of the Year - BETT Awards  
+Many tutor2u resources can be purchased using e-learning credits - [please visit our online store for details](https://web.archive.org/acatalog/shop.html)   
 |   
-Copyright © 2004 Tutor2u Limited. All Rights Reserved  
+Copyright © 2005 Tutor2u Limited. All Rights Reserved  
 tutor2u™ is a registered trademark (Number: 2332331)  
 Registered Company Number: 4489574; VAT registration Number: 816 8654 00  
 Postal Address: Tutor2u Limited, 19 Westwood Way, Boston Spa, WETHERBY, LS23 6DX  
+Fax: 01937 529236   
 Directors: JM Riley FCA MBA BA(Hons); GB Riley MA (Cantab) PGCE  
-Other websites: [www.business-studies.co.uk](http://www.business-studies.co.uk/); [www.economics-revision.co.uk](http://www.economics-revision.co.uk/)  
-
+[www.economax.co.uk](http://www.economax.co.uk/)  [www.study-economics.org](http://www.study-economics.org/)  [www.economics-revision.co.uk](http://www.economics-revision.co.uk/)   [www.business-studies.co.uk](http://www.business-studies.co.uk/)
