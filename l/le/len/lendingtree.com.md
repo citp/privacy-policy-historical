@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203155123id_/http%3A//www.lendingtree.com/stm/aboutlt/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404090052id_/http%3A//www1.lendingtree.com/stm/aboutlt/privacy/privacy.asp) for the most accurate reproduction.*
 
 # LendingTree -- Privacy Policy
 
@@ -22,7 +22,7 @@
 |  |  |  | 
 
   
-[](https://web.archive.org/web/20021203155123id_/http%3A//www.lendingtree.com/stm/aboutlt/privacy/a)
+[](https://web.archive.org/web/20030404090052id_/http%3A//www1.lendingtree.com/stm/aboutlt/privacy/a)
 
 ###  Privacy Policy
 
@@ -32,7 +32,7 @@
   
 ---  
   
-If you have questions or concerns regarding this statement, you should first contact the LendingTree site coordinator at our [Customer Care Department](https://web.archive.org/stmrc/glossary/asp/emailus.asp?bp=). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the LendingTree site coordinator at our [Customer Care Department](http://www.lendingtree.com/stmrc/glossary/asp/emailus.asp?bp=). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 **Your Privacy is Important to Us**. At LendingTree, your privacy is our chief concern. We understand that you entrust us with your private financial information to help us match you with a bank, lender or loan broker (we refer to all of these as "Lenders") or real estate professional who can meet your needs. In exchange for your trust, you expect and deserve our commitment to treat your information with respect. Rest assured that we protect your privacy. Under no circumstances will LendingTree sell or share any personal information about you to or with any person or organization except: as authorized by you, to participating lenders, real estate professionals or other parties involved in your transaction, or as may be required by law or court order. The Privacy Policy below describes the standards we adhere to in handling information about you and your loan request.
 
@@ -74,22 +74,22 @@ If you have questions or concerns regarding this statement, you should first con
 
 **4\. Altering Information You Submit Through a LendingTree Web Site.** LendingTree puts you in control of your experience on our Web sites. You'll find our sites easy to navigate to find all the information you need to complete your transaction.
 
-  * **Changing your information.** You may be able to review and change personal information in an active qualification form that you completed through LendingTree online. If you are unable to complete this online, you may contact our [Customer Care Department](https://web.archive.org/stmrc/glossary/asp/emailus.asp?bp=) for assistance. More details…
+  * **Changing your information.** You may be able to review and change personal information in an active qualification form that you completed through LendingTree online. If you are unable to complete this online, you may contact our [Customer Care Department](http://www.lendingtree.com/stmrc/glossary/asp/emailus.asp?bp=) for assistance. More details…
   * **Deleting your information.** Federal and state regulations require that we store completed loan and real estate requests for various periods of time. In order to comply with these regulations, we cannot delete information from our databases. More details…
   * **Request to stop receiving emails from us.** Periodically, LendingTree may send you emails to alert you to money saving tips or special offers. If you do not wish to receive any of these offers, please visit our [subscription area](https://web.archive.org/subscriptions) where you can remove yourself from our mailing list.
-  * **Security.** LendingTree sites have security measures in place to protect the loss, misuse and alteration of the information under our control. Please visit our [Security](https://web.archive.org/stmrc/security2.asp?bp=) page for a detailed explanation.
+  * **Security.** LendingTree sites have security measures in place to protect the loss, misuse and alteration of the information under our control. Please visit our [Security](http://www.lendingtree.com/stmrc/security2.asp?bp=) page for a detailed explanation.
 
 
 
 **5\. How Our Policy is Monitored.** LendingTree is proud to hold the TRUSTe seal. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. Because we want to demonstrate our commitment to respecting your privacy, we have agreed to disclose our information practices as stated above. In addition, LendingTree has agreed to have our privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact our [Customer Care Department](https://web.archive.org/stmrc/glossary/asp/emailus.asp?bp=). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our [Customer Care Department](http://www.lendingtree.com/stmrc/glossary/asp/emailus.asp?bp=). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 If we make a change to our Privacy Policy in the future that will affect how we treat your information, we will notify you of the change. In that case, your ability to opt out of the new policy will be determined by applicable laws and we will include that information in our notification. If the change impacts how we use your information, we will notify you even if you have requested that we not contact you.
 
 **More Details**
 
-**1\. Who We Are**. When you visit a LendingTree Web site to request a loan, you will complete one simple qualification form. Based on the information you supply, LendingTree will transmit your data to participating lenders who are best suited to meet your financial needs. When you request the services of a real estate professional through a LendingTree Web site, we will transmit your data, including your credit history, to participating real estate brokers to complete your transaction. LendingTree is a computerized loan originator and is licensed or exempt as a mortgage and/or loan broker and real estate broker in most states. See our [State Licenses](https://web.archive.org/stmrc/disclosure.asp?bp=) section for additional information.
+**1\. Who We Are**. When you visit a LendingTree Web site to request a loan, you will complete one simple qualification form. Based on the information you supply, LendingTree will transmit your data to participating lenders who are best suited to meet your financial needs. When you request the services of a real estate professional through a LendingTree Web site, we will transmit your data, including your credit history, to participating real estate brokers to complete your transaction. LendingTree is a computerized loan originator and is licensed or exempt as a mortgage and/or loan broker and real estate broker in most states. See our [State Licenses](http://www.lendingtree.com/stmrc/disclosure.asp?bp=) section for additional information.
 
 **2\. Information We Collect.**
 
@@ -111,7 +111,7 @@ LendingTree also utilizes Web Logs to track aggregate information about how our 
 
 You will receive an e-mail from LendingTree indicating whether or not you have been approved to participate in the Affiliate Program. If approved, we will use your e-mail address to inform you of Affiliate Program news and updates. You may withdraw your membership from the Affiliate Program at any time by sending an e-mail to 
 
-[affiliates@lendingtree.com](mailto:affiliates@lendingtree.com). If you choose to withdraw, you will not receive any further e-mails regarding the Affiliate Program. If you come to a LendingTree site through an affiliate site, LendingTree will never sell or share your information with that, or any other, affiliate. All transactions take place on LendingTree's servers. Please see our [security page](https://web.archive.org/stmrc/security2.asp?bp=) for more information on how we protect the integrity of your data. 
+[affiliates@lendingtree.com](mailto:affiliates@lendingtree.com). If you choose to withdraw, you will not receive any further e-mails regarding the Affiliate Program. If you come to a LendingTree site through an affiliate site, LendingTree will never sell or share your information with that, or any other, affiliate. All transactions take place on LendingTree's servers. Please see our [security page](http://www.lendingtree.com/stmrc/security2.asp?bp=) for more information on how we protect the integrity of your data. 
   * **Information we collect when you apply for a job at LendingTree.** When you apply for a job through a LendingTree Web site, we may ask you for personally identifiable information such as your name, mailing address, email address, etc. This information will not be sold or shared with any person or organization. All data collected will be used for the purposes of evaluating your application for employment. Your e-mail address or telephone number may be used by authorized LendingTree employees to contact you concerning your application.
 
 
@@ -130,13 +130,13 @@ From time to time, LendingTree may notify you about a special offer from one of 
 **4\. Altering Information You Submit Through a LendingTree Web Site.**
 
   * **Changing your information.** If you want to change the type of loan or make other significant changes to your qualification form, you might need to make another request through our Web site. If you wish to change your subscriptions to LendingTree emails, you can visit our [subscription page](https://web.archive.org/subscriptions).
-  * **Deleting your information.** Even if your qualification form was withdrawn, by law, we cannot delete that information. We store all of the information you might provide securely. You can visit our [Security section](https://web.archive.org/stmrc/security2.asp?bp=) to learn more about how we do this.
+  * **Deleting your information.** Even if your qualification form was withdrawn, by law, we cannot delete that information. We store all of the information you might provide securely. You can visit our [Security section](http://www.lendingtree.com/stmrc/security2.asp?bp=) to learn more about how we do this.
 
 
 
 **5\. How Our Policy is Monitored.** LendingTree is proud to hold the TRUSTe seal. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. Because we want to demonstrate our commitment to respecting your privacy, we have agreed to disclose our information practices as stated above. In addition, LendingTree has agreed to have our privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact our [Customer Care Department](https://web.archive.org/stmrc/glossary/asp/emailus.asp?bp=). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our [Customer Care Department](http://www.lendingtree.com/stmrc/glossary/asp/emailus.asp?bp=). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 If we make a change to our Privacy Policy in the future that will affect how we treat your information, we will notify you of the change. In that case, your ability to opt out of the new policy will be determined by applicable laws and we will include that information in our notification. If the change impacts how we use your information, we will notify you even if you have requested that we not contact you.
 
