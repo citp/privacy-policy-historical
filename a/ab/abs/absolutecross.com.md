@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutecross.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001163851id_/http%3A//www.absolutecross.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutecross.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603224627id_/http%3A//absolutecross.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy -- Absolute Cross
 
@@ -31,7 +31,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can contact us with [this form](https://web.archive.org/web/20031001163851id_/http%3A//www.absolutecross.com/info/contact.php)
+  1. You can contact us with [this form](https://web.archive.org/web/20040603224627id_/http%3A//absolutecross.com/info/contact.php)
   2. To opt-out of a membership to the Absolute Cross Ezine, see this [form](http://www.absolutecross.com/ezine.htm). 
 
 
@@ -40,7 +40,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. contact us with [this form](https://web.archive.org/web/20031001163851id_/http%3A//www.absolutecross.com/info/contact.php)
+  1. contact us with [this form](https://web.archive.org/web/20040603224627id_/http%3A//absolutecross.com/info/contact.php)
 
 
 
@@ -48,10 +48,6 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-David Dunkerley Absolute Cross  3132 N. Ashwood St. Orange, CA 92865 [contact form](https://web.archive.org/web/20031001163851id_/http%3A//www.absolutecross.com/info/contact.php)
-
-Check out these _excellent_ sites:
-
-[](http://absolutecross.com/cgi-bin/i/t.cgi?sp1hostindex_bbtn)[](http://absolutecross.com/cgi-bin/i/t.cgi?out1guistuff_bbtn)[](http://absolutecross.com/cgi-bin/i/t.cgi?out1spoono_bbtn)
+David Dunkerley Absolute Cross  3132 N. Ashwood St. Orange, CA 92865 [contact form](https://web.archive.org/web/20040603224627id_/http%3A//absolutecross.com/info/contact.php)
 
 |  
