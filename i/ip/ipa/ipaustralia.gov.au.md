@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
 
 # IP Australia : About IP Australia > About this Site > Privacy Policy
 
-[Home](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/index.shtml) [About IP Australia](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
+[Home](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/index.shtml) [About IP Australia](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
   
  
 
@@ -41,6 +41,7 @@ The information required for the completion of IP Australia's electronic filing 
   
 
 
-© Commonwealth of Australia, 2003  
-[Site Search](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/site_search.shtml) | [Site Map](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/site_map.shtml) | [Contact Us](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/resources/contacts.shtml) | [Give us your feedback](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/site_feedback.shtml) | [Customer Service Charter](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/charter_index.shtml)  
-[Disclaimer](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/site_disclaimer.shtml) | [Privacy Policy](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) | [Text Only Website](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/text/index.shtml) | [About this Site](https://web.archive.org/web/20031207181510id_/http%3A//www.ipaustralia.gov.au/about/site.shtml)
+  
+© Commonwealth of Australia, 2004  
+[Site Search](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/site_search.shtml) | [Site Map](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/site_map.shtml) | [Contact Us](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/resources/contacts.shtml) | [Give us your feedback](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/site_feedback.shtml) | [Customer Service Charter](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/charter_index.shtml)  
+[Disclaimer](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/site_disclaimer.shtml) | [Privacy Policy](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) | [Text Only Website](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/textindex.shtml) | [About this Site](https://web.archive.org/web/20040603102438id_/http%3A//www.ipaustralia.gov.au/about/site.shtml)
