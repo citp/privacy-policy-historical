@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the servepath.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204201743id_/http%3A//www.servepath.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servepath.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404013233id_/http%3A//www.servepath.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# ServePath Intellectual Property Policy
-
-[**Intellectual Property Claims**](https://web.archive.org/web/20041204201743id_/http%3A//www.servepath.com/intellectual_property.htm)  
-[**ServePath Safe Harbor Privacy Policy**](https://web.archive.org/web/20041204201743id_/http%3A//www.servepath.com/privacy_safeharbor.htm)
+# ServePath: Legal
 
 ServePath Privacy Policy
 
-Effective Date: July 1, 2004
-
 ServePath's policies and procedures for handling customer information have been created with the understanding that Internet technologies are still evolving and that Internet business methods are continuing to evolve to meet the needs and opportunities of the changing technologies. As a result, ServePath's policies and procedures are subject to change. 
 
-In the course of serving its customers, ServePath acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to ServePath by its customers in order to establish service. Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by ServePath in the normal course of providing service. ServePath also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. For example, ServePath uses cookies on the landing pages of products sold online which record the customer information that is required on the order form. This information is then forwarded to an internal sales tracking database within ServePath. In addition, ServePath may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
+In the course of serving its customers, ServePath acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to ServePath by its customers in order to establish service. Other information \- such as the customer's account status, choice of services, and customer logs - is created and maintained by ServePath in the normal course of providing service. ServePath also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. For example, ServePath uses cookies on the landing pages of products sold online which record the customer information that is required on the order form. This information is then forwarded to an internal sales tracking database within ServePath. In addition, ServePath may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
 
 **Data Security**
 
@@ -25,7 +20,7 @@ ServePath is under contract with a professional employment organization (PEO) to
 
 **How is customer information used?**
 
-ServePath may share customer information with selected partners, for example, to provide customers with information about products which might be of interest to the customer or to enable the customer to take advantage of special partner programs. ServePath may also use customer information to provide its customers with system information or information about new or upgraded products.
+ServePath may use customer information to provide its customers with system information or information about new or upgraded products. ServePath does not rent, sell, or share customer data or personal information with any third parties.
 
 **Opt Out & Modifications**
 
