@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004000927id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628025819id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
 
 # Metra Privacy
 
@@ -12,7 +12,7 @@ Your privacy is important to us and Metra is committed to maintaining your confi
 **Information Collected and How We Use It**  
 We collect two types of information about visitors:
 
-**Personal information** , which you have voluntarily submitted to us through Ticket-By-Internet or e-mail address.
+**Personal information** , which you have voluntarily submitted to us through Metra direct mail programs or Ticket-By-Internet.
 
 **Aggregate information** , automatically collected non-identifying statistics, (such as information about how many visitors log on to our sites, the pages they access, etc.) Our web servers collect the IP addresses of visitors, not the e-mail addresses. Metra uses this information to measure the use of our site, to improve the content of our site, and to monitor access for security purposes.
 
