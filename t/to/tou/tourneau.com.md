@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204093214id_/http%3A//www.tourneau.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606212135id_/http%3A//www.tourneau.com/privacy-security.html) for the most accurate reproduction.*
 
 # Tourneau | Privacy and Security Policy
 
@@ -114,7 +114,7 @@ How To Contact Us
 
 **
 
-If you have any questions about this privacy policy, the practices of this web site or your dealings with this web site, you can call us at 1 (800) 348-3332; e-mail us at ehelp@tourneau.com or write to us at:
+If you have any questions about this privacy policy, the practices of this web site or your dealings with this web site, you can call us at 800.348.3332; e-mail us at ehelp@tourneau.com or write to us at:
 
 Tourneau  
 3 East 54th Street — 3rd Floor  
