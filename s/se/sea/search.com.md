@@ -1,105 +1,97 @@
-> *The following text is extracted and transformed from the search.com privacy policy that was archived on 1999-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990503131319id_/http%3A//www.cnet.com/privacy.text.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010185329id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html%3Ftag%3Dsrfd.ft.co) for the most accurate reproduction.*
 
-# CNET privacy statement
+# Editorial Center - CNET Networks.com
 
-**CNET: The Computer Network**  
+|    
+|  |    
+**Privacy policy**  
+CNET Networks, Inc. is the world's leading source of information and services for buyers, sellers and suppliers of technology, including IS/IT professionals, enterprise decision makers, executives, gamers and technology shoppers. A company with established Web sites throughout the United States, Europe and Asia, CNET Networks provides its award-winning content via the Web, wireless devices, broadband, radio and print. Our respected brand portfolio includes CNET, ZDNet, TechRepublic, mySimon, News.com, Download.com, GameSpot, Builder.com, Shopper.com, EDventure.com, _Computer Shopper Magazine_ , and CNET Channel. For more information about the company, go here: <http://www.cnetnetworks.com/>. 
+
+This privacy policy applies to the U.S. operations of all brands and services within the CNET Networks family.
+
 **Overall privacy statement**  
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of CNET's network of sites, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. 
+We take your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated by us directly, our partner, or our affiliate. 
 
-**TRUSTe certification**  
-[](https://www.truste.org/validate/321)This overall privacy statement verifies that CNET: The Computer Network is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. This statement discloses the privacy practices for the entire CNET network of Web sites, which includes [Browsers.com](http://www.browsers.com/), [Builder.com](http://www.builder.com/), [CNET.com](http://www.cnet.com/), [Computers.com](http://www.computers.com/), [Download.com](http://www.download.com/), [Gamecenter.com](http://www.gamecenter.com/), [News.com](http://www.news.com/), [Search.com](http://www.search.com/), and [Shareware.com](http://www.shareware.com/). 
+**1\. What information does CNET Networks collect?**  
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive revenue mainly from advertising, collecting information is essential to keeping our services affordable to users.
 
-TRUSTe is an independent, nonprofit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
+We collect personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for a print magazine or an e-mail newsletter or when you register to use certain services. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our CNET Networks sites you are no longer anonymous to us. We may also receive information about you from other sources and add it to the information you provided to us.
 
-  1. What information this site gathers/tracks about you
-  2. What this site does with the information it gathers/tracks
-  3. With whom this site shares the information it gathers/tracks
-  4. This site's opt-out policy
-  5. This site's policy on correcting and updating personally identifiable information
-  6. This site's policy on deleting or deactivating your name from its database
+This personally identifiable information is limited to: 
 
-
-
-Questions regarding this statement should be directed to CNET ([support@cnet.com](mailto:support@cnet.com)) or TRUSTe ([www.truste.org](http://www.truste.org/)) for clarification. To return to the page you came from, please use the Back button on your browser. 
-
-**1\. Information CNET gathers and tracks**  
-CNET gathers two types of information about users: data that users provide through optional, voluntary registration on several of our sites and through optional, voluntary participation in certain contests and sweepstakes; and aggregated tracking information derived mainly by tallying page views throughout our sites. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because CNET derives its revenue mainly from advertising, providing such aggregated demographic data is essential to keeping our service free to users. The only situation in which CNET divulges information about an individual user to a third party is with certain contests and sweepstakes\--and then, _only with the user's express consent._
-
-CNET gathers user information in the following processes: 
-
-**• Optional registration**  
-Several CNET sites offer free, voluntary registration to users: CNET.com, News.com, and Gamecenter.com. By registering, users can enter the sites without having to log on each time; they gain access to the polling area; and they can take advantage of personalization (the ability to select content according to a user-supplied profile). 
-
-During registration the user **is required** to supply a username, password, and email address, and must answer mandatory survey questions about age, gender, income, Internet connection, zip code, country, employment status, and other employment information. 
-
-During registration the user **has the option** of supplying a first name, last name, and password hint. In addition, the user can opt to subscribe to various CNET electronic newsletters and to have his or her email address and/or URL appear in postings. 
-
-**• Polling**  
-Several CNET sites offer interactive polls to users so they can easily share their opinions with other users and see what the CNET audience thinks about important issues. CNET uses a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
-
-**• Message boards/forums**  
-Users of the CNET Message Boards and of Builder.com's _Builder Buzz_ bulletin board must register separately for these services (both are free of charge). During registration the user **is required** to supply a username, password, and email address. The user **has the option** of supplying a company name. 
-
-**• Electronic newsletters (Dispatches)**  
-All the CNET sites except Search.com offer a free electronic newsletter to users. CNET gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the [subscription management page](https://web.archive.org/Help/Dispatch/). Users can also subscribe to the newsletters at the time of registration. 
-
-**• News.com's "Send this story to a friend" service**  
-A reader can choose to electronically forward a news story to someone else by clicking the link at the top of that story. The user must provide their email address, as well as that of the recipient. This information is used _only_ in the case of transmission errors and, of course, to let the recipient know who sent the story. The information is not used for any other purpose. 
-
-**• Surveys**  
-Occasionally CNET conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party. 
-
-**• Contests and sweepstakes**  
-CNET offers contests and sweepstakes in which we request certain personal information. At a minimum, the required information includes name and email address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form is used to verify the entrant's identity, to send the entrant an email notification that their entry has been received, and to contact winners and/or prize recipients. There are two situations in which CNET will divulge this information to a third party-- _provided the user gives express consent:_
-
-(1) A user may expressly choose to receive additional information from the contest sponsor, in which case the user's personally identifiable information is divulged to the advertiser. 
-
-(2) Some of the contests may be hosted on the CNET site but administered by the sponsor; in such cases, the information a user provides is passed on to the third party _as long as that user gives express consent._
-
-Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event. All contests and sweepstakes are conducted in full accordance with United States federal and state laws. 
-
-**• Usage tracking**  
-CNET tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. CNET does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the _browser string_ (information contained in every user's browser). 
-
-CNET sometimes tracks and catalogs the search terms that users enter in Search.com, but this tracking is never associated with individual users. 
-
-**• Cookies**  
-A _cookie_ is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. CNET uses cookies to track user traffic patterns (as described above), when you register as a CNET member, and when you click an ad: 
-
-> **Registration:** when you register, CNET uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to enter CNET sites as a member without having to log on each time, and to visit member-restricted areas of the sites. We encrypt the user ID for added security. 
-> 
-> **Ads:** CNET's advertising system delivers a one-time cookie to better track ad impressions and click rates.
-
-If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. 
-
-**You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use any CNET site.**
-
-**2\. Use of the information**  
-CNET uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
-
-  * As stated above, CNET uses information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls and message boards. We send out newsletters to subscribers on a regular schedule (daily or weekly, depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. CNET never shares newsletter mailing lists with any third parties, including advertisers or partners.
-  * When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. CNET does not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
-  * We track search terms entered in Search.com as one of many measures of what interests our users. But we don't track which terms a particular user enters.
-  * CNET creates aggregrate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because CNET doesn't track the usage patterns of individual users, an advertiser will never know that a specific user clicked their ad.
+  1. First and last name
+  2. Address, including street name & city
+  3. Email address
+  4. Telephone number
+  5. Credit card information in the event a user purchases products or services online
 
 
 
-**3\. Sharing of the information**  
-CNET uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We do not share information about individual users with any third party, except in the case of some contests and sweepstakes\--and then, _only with a user's express consent._ CNET does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly. 
+**2\. What is CNET Networks' practice regarding cookies?**  
+Your Internet browser has a feature called "cookies" which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information when, in which case we use the information to enhance your services in the ways described below. You may elect not to allow cookies to be collected by adjusting your settings on your browser. 
 
-**4\. Opt-out policy**  
-CNET gives users options wherever necessary and practical. Such choices include: 
+We use technologies, including electronic images known as Web bugs--sometimes called transparent GIFs, clear GIFs, or beacons--that allow us to track general user traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you unless you have specifically given us personally identifiable information, in which case we use the information to enhance your services in the ways described below.
 
-  * Opting not to receive our electronic newsletters when registering for a site
-  * Opting not to provide certain personal information when registering for a site or when participating in some contests (see above)
-  * Opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users
+We use cookies and tracking technologies in a variety of ways, including: 
+
+  * Keeping count of return visits to our site or our advertisers' or partners' sites
+  * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage
+  * Determining which features our overall user population likes best
+  * Saving your password so you don't have to re-enter it each time you visit our sites
+  * Display the most appropriate advertising based on your interests
 
 
 
-**5\. Correct/update policy**  
-CNET offers users the ability to correct or change the information collected during registration for any site (see above). The instructions for doing this can be found in our [Member Services](https://web.archive.org/Community/Mservice/) area. Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at [support@cnet.com](mailto:support@cnet.com). 
+We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the website of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
-**6\. Delete/deactivate policy**  
-Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter. 
+**3\. How does CNET Networks use the information?**  
+We use the information we gather for four general purposes: 
 
-Currently, CNET does not offer users a means by which to completely delete personal information established at the time of registration for any site. 
+  * To customize the advertising and content you see
+  * To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you.
+  * To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in paid services, polls, contests, message boards, and auctions
+  * To send you information you agreed to receive about topics we think will be of interest to you
+
+**4\. How does CNET Networks share the information**  
+_Personally identifiable information_  
+We will make your personally identifiable information available to other companies or people when: 
+
+  * We have your consent to share the information 
+  * We have engaged companies to work with us or on our behalf to provide a product or service that you have requested, such as opt-in e-mail announcements 
+  * You use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
+  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/web/20041010185329id_/http%3A//www.cnet.com/html/aboutcnet/editorial/terms.html) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
+
+_Aggregate information_  
+We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+
+_ChannelOnline data_  
+Companies that use our ChannelOnline services may enter account data for third-party services. This information is necessarily passed on to those third parties when their ordering system is accessed. ChannelOnline users may also enter data about their customer orders. This information is shared only in aggregate form with third parties.
+
+_Business transfers_  
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+
+**5\. What are my options?**  
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.  
+We also give users the following options: 
+
+  * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt-in may remove themselves from mailing lists at any time through the subscription management pages or by following the instructions at the end of the e-mail they received from us;
+  * Opting not to provide certain personal information when registering for a site, provided, however that you may not be able to utilize certain of our products or services without providing us with certain information.
+
+**6\. How can I review and update my personally identifiable information?**  
+You can review, correct or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. Currently, we do not offer users a means by which to completely delete personal information established at the time of registration.
+
+_Places to update personal information on CNET Networks sites_ **7\. How will I know if the privacy policy is changed?**  
+Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection we will send affected users written notice by email of the change.
+
+**8\. Privacy of children**  
+Our network of sites is not directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+
+**Questions, comments**  
+Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail below or to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information
+
+[Click here](http://www.cnet.com/cnetsupport/contact/1,10161,0-3945,00.html) to contact us regarding a privacy issue. Please include the brand you are referring to in your e-mail to us. 
+
+Updated September 2004
+
+  
+|  |  | 
