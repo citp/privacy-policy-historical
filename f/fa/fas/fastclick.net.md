@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastclick.net privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610034220id_/http%3A//www.fastclick.net/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastclick.net privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207211327id_/http%3A//www.fastclick.net/about/privacy.html) for the most accurate reproduction.*
 
 # fastclick | Privacy Policy
 
@@ -6,14 +6,14 @@
 
 Last Reviewed / Updated: August 2001 
 
-(For Web User privacy [click here](https://web.archive.org/web/20020610034220id_/http%3A//www.fastclick.net/about/privacy2.html))          (To Get the Opt-Out cookie [click here](http://www.fastclick.com/about/opt-out.html))
+(For Web User privacy [click here](https://web.archive.org/web/20021207211327id_/http%3A//www.fastclick.net/about/privacy2.html))          (To Get the Opt-Out cookie [click here](http://www.fastclick.com/about/opt-out.html))
 
 |   
 ---|---  
   
 #### **TRUSTe Certification**
 
-This confirms that Fastclick.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.fastclick.com.
+Fastclick.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.fastclick.com.
 
 TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
 
@@ -29,7 +29,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 #### Information Collection and Use
 
-Fastclick.com Inc. (Fastclick) is the sole owner of the information collected on this site. Information collected is in two distinct categories: Member information and aggregated Web User information. This portion of Fastclick's privacy statement applies only to Members of Fastclick. For web user privacy issues regarding the serving of advertisements and the use of cookies, please see the [Web User Privacy Statement](https://web.archive.org/web/20020610034220id_/http%3A//www.fastclick.net/about/privacy2.html).
+Fastclick.com Inc. (Fastclick) is the sole owner of the information collected on this site. Information collected is in two distinct categories: Member information and aggregated Web User information. This portion of Fastclick's privacy statement applies only to Members of Fastclick. For web user privacy issues regarding the serving of advertisements and the use of cookies, please see the [Web User Privacy Statement](https://web.archive.org/web/20021207211327id_/http%3A//www.fastclick.net/about/privacy2.html).
 
 Members of the Fastclick network include publishers and advertisers involved in advertising campaign transactions. Member information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. Payments made to and from Fastclick require the collection of personally identifiable information that may include credit card numbers and bank account information. Phone numbers may be used to contact Members for sales or inventory acquisition purposes. All Member information is collected, modified and stored in a password protected environment. This information is used for service, media delivery, contact, billing and accounts payable purposes. We will not sell, share, or rent this information to others. All Member information collection is explicit, voluntary, manually entered by the Member, and can be opted-out. Fastclick will never share information about you without your permission. 
 
