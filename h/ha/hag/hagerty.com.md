@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612040530id_/http%3A//www.hagerty.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009162754id_/http%3A//www.hagerty.com/privacy.asp) for the most accurate reproduction.*
 
-# || HAGERTY INSURANCE ||
+# 
 
-**_The Information We Collect and How We Use It_ **  
+**_The Information We Collect and How We Use It_**  
   
 At Hagerty Insurance, we are committed to respecting your privacy. For this reason we want to be upfront with you in terms of letting you know what information we may collect and how we might use it.
 
@@ -52,7 +52,7 @@ In order for Hagerty Insurance to properly underwrite your application, it is ne
 
   
   
-**_The Use of Your Information_ **  
+**_The Use of Your Information_**  
   
 First and foremost, we use the information we collect from you to determine whether we can underwrite an insurance policy once you submit an application and to issue the policy if we accept your application
 
@@ -64,31 +64,31 @@ We partner with another party to provide specific services. When the user signs 
 
   
   
-**_The Disclosure of Your Information_ **  
+**_The Disclosure of Your Information_**  
   
 We do not sell or rent any non-public personal information about you to any third party. However, there are certain circumstances in which your non-public personal information may be disclosed. The insurance industry is highly regulated and we may be forced to disclose information to the government or third parties to comply with applicable legal requirements. We may also disclose non-public personal information about you in response to a judicial or administrative order in a criminal, civil, or administrative proceeding or investigation. We may also voluntarily disclose such information if we, in our sole discretion, believe it to be necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, or other activity that is either illegal or tortious, or may expose us to legal liability. In addition, regardless of the security measures that we take, your non-public personal information may be disclosed inadvertently if a third party acts intentionally to intercept them. 
 
   
   
-**_The Notification of Changes_ **  
+**_The Notification of Changes_**  
   
 If we decide to change our privacy policy, we will post those changes on our site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use non-public personal information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice as to whether or not we use their information in this different manner. If the user declines, will use information in accordance with the privacy policy under which the information was collected. 
 
   
   
-**_The Security_ **  
+**_The Security_**  
   
 Hagerty uses industry standard efforts to safeguard the confidentiality of your non-public personal information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet. 
 
   
   
-**_The Public Forums_ **  
+**_The Public Forums_**  
   
 This site may make forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
   
   
-**_Contacting the Web Site_ **  
+**_Contacting the Web Site_**  
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with Hagerty, simply contact us at 1-800-922-4050 or [webmaster@hagerty.com](mailto:webmaster@hagerty.com)
 
