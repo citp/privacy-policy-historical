@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608202513id_/http%3A//cleveland.com/privacy/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205234600id_/http%3A//www.cleveland.com/privacy/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
