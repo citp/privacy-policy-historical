@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620042846id_/http%3A//www.kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207165700id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # KinderArt - Privacy Policy
 
@@ -6,10 +6,11 @@ KinderArt is deeply committed to protecting the privacy of Internet users. Below
 
 Our postal address is:   
 KinderArt c/o Jarea Art Studio  
-RR#6 Site#12 Barrie, ON L4M 5P5 Canada
+166 Montague Street, St. Andrews NB E5B 1J2 Canada
 
-Our e-mail address is: [learn@kinderart.com](mailto:learn@kinderart.com)  
-Our telephone number is: 705-436-6319
+Our e-mail address is: [learn@kinderart.com](mailto:learn@kinderart.com)
+
+You can reach us via telephone (10am - 8pm eastern time) at: 506-529-8417 
 
 For each visitor to our Web page, our Web server automatically recognizes the visitor's domain name and e-mail address (where possible). 
 
@@ -50,4 +51,4 @@ Because KinderArt cares about the safety and privacy of children online, we comp
 
 ### About Advertising
 
-KINDERART WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW ENGAGE MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO <http://www.engage.com/privacy/privacy.htm>
+KINDERART WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW ENGAGE MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO <http://www.engage.com/privacy>
