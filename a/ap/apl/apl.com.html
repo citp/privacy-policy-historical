@@ -1,0 +1,401 @@
+<!--The following is the downloaded HTML source of the apl.com privacy policy that was archived on 2003-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030424043855id_/http%3A//www.apl.com/html/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 FINAL//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<title>Privacy Policy</title>
+<!-- Master script -->
+<meta http-equiv="Expires" content="Mon, 22 Sep 1997 12:00:00 GMT">
+ <script language="javascript">
+<!--hide this script
+
+function isReady(form) {
+    string = new String(form.TRACE.value);
+         if (string.search(/\w/) == -1){    
+		top.document.location.href = "/html/how_to_use_trace.html";
+                return false;
+        }
+        if (string.match("Trace")){
+                //msgWindow=window.open('','window2','resizable=yes,scrollbars=yes,width=600,height=400');
+                //msgWindow.location="/html/how_to_use_trace.html";
+                //msgWindow.focus();      
+		top.document.location.href = "/html/how_to_use_trace.html";
+                return false;
+        } else {
+		top.document.location.href = "/html/how_to_use_trace.html";
+                return true;
+        }
+}
+
+function followLink(newurl) {
+                str = new String(newurl);
+
+                if(str.indexOf("nope")<0) {
+                top.document.location.href = newurl;
+         }
+}
+
+function go_tsrvssel(trdlane) {
+
+        if(trdlane != "no change") {
+                top.document.location.href = "/cgi-bin/tsrvssel.pl?" + trdlane;
+
+        }
+}
+
+function adrwin( url ) {
+str = new String(url);
+                
+        if(str.indexOf("NULL")<0) {                     
+                msgWindow=window.open('','window2','resizable=yes,scrollbars=yes,width=500,height=340');
+                msgWindow.location=url;
+                msgWindow.focus();      
+        }
+}
+
+function adrwinno( url ) {
+str = new String(url);
+                
+                if (str.indexOf("NULL")<0) {                    
+msgWindow2=window.open('','HPwindow','resizable=yes,scrollbars=yes,menubar=yes,toolbar=yes,width=600,height=400');
+                        msgWindow2.location.href=url;
+                        msgWindow2.focus();     
+        }
+}
+
+var cleared = 0;
+function clearField(field){
+   if (cleared != 1){   
+      field.value = "";
+      cleared=1;}
+    else
+           cleared = 0;
+}
+//-->   
+
+</script>
+<style type="text/css">
+A:link {color:#0000CC ; text-decoration:none}
+A:visited {color:#6699FF; text-decoration:none}
+A:hover {color:#993300; text-decoration:none}
+A:active {color:#CC9900; text-decoration:none}
+P.foot {font:11px "Verdana", "Myriad Web", "Arial", "Helvetica", "sans-serif"; font-size-adjustment:0.58}
+.footer_nav {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF; text-decoration: none}
+.header {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 20px; font-style: normal; font-weight: bold; color: #000099}
+</style>
+
+<meta name="Generator" content="NetObjects Authoring Server 2000">
+
+</head>
+
+<body background="../assets/images/backgd.gif" link="#0000CC" vlink="#6699FF" text="#000000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+<!-- Start of the Body for this Page -->
+<!-- Master Body script -->
+<script>
+<!-- Generate top of screen based on login status
+var cookies = document.cookie;
+  
+function set_page_top(top_image) {
+  var start = cookies.indexOf("AA_SESSION_ID=");
+  var filepath = top_image.substr(0,top_image.lastIndexOf("/")+1);
+  var filename = top_image.substr(top_image.lastIndexOf("/")+1,top_image.length);
+    
+  if (start == -1) {
+   // APL Cookie not found so emit the standard heading
+   document.write("<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=773><TR VALIGN=\"top\" ALIGN=\"left\">");
+   document.write("<TD WIDTH=773 HEIGHT =58 ALIGN=\"left\" VALIGN=\"top\"><IMG id=\"Picture13\" HEIGHT=58 WIDTH=773 ");
+   document.write("SRC=\"" + filepath + filename + "\"  BORDER=0  USEMAP=\"#map185\" ><MAP NAME=\"map185\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"140,24,250,53\" HREF=\"/cgi-bin/check_user.pl\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"251,24,352,51\" HREF=\"../html/services.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"353,24,458,51\" HREF=\"../html/news.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"458,25,563,49\" HREF=\"../html/about_apl.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"562,3,649,24\" HREF=\"../html/contact_options.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"706,1,767,22\" HREF=\"../html/search.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"652,1,706,23\" HREF=\"../html/help_center.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"644,27,705,46\" HREF=\"../html/id_registration.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"720,27,767,45\" HREF=\"../html/homeport.html\">");
+  } else {
+   // APL Cookie found, so emit the logged on heading
+   document.write("<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=773><TR VALIGN=top ALIGN=left>");
+   document.write("<TD WIDTH=773 HEIGHT =58 ALIGN=\"left\" VALIGN=\"top\"><IMG id=\"Picture13\" HEIGHT=58 WIDTH=773 ");
+   document.write("SRC=\"" + filepath + "ih" + filename + "\"  BORDER=0  USEMAP=\"#map185\" ><MAP NAME=\"map185\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"480,1,560,23\" HREF=\"javascript:adrwin('/cgi-bin/livehelp.pl')\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"562,1,649,23\" HREF=\"../html/contact_options.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"652,1,705,23\" HREF=\"../html/help_center.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"706,1,767,23\" HREF=\"../html/search.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"140,24,249,51\" HREF=\"/cgi-bin/check_user.pl\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"250,24,351,51\" HREF=\"../html/services.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"352,24,457,51\" HREF=\"../html/news.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"458,24,563,51\" HREF=\"../html/about_apl.html\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"644,24,705,46\" HREF=\"/cgi-bin/contactInfo.pl\">");
+   document.write("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"720,24,767,46\" HREF=\"/cgi-bin/aaut_logoff.cgi\">");
+   }
+ document.writeln("<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"40,11,134,58\" HREF=\"../index.html\"></MAP></TD></TR></TABLE>");   
+}
+  
+set_page_top("../assets/images/helptop.gif");
+  
+//-->
+</script><table border="0" cellspacing="0" cellpadding="0" width="773"><tbody><tr valign="top" align="left"><td width="773" height="58" align="left" valign="top"><img id="Picture13" height="58" width="773" src="../assets/images/helptop.gif" border="0" usemap="#map185"><map name="map185"><area shape="rect" alt="" coords="140,24,250,53" href="/cgi-bin/check_user.pl"><area shape="rect" alt="" coords="251,24,352,51" href="../html/services.html"><area shape="rect" alt="" coords="353,24,458,51" href="../html/news.html"><area shape="rect" alt="" coords="458,25,563,49" href="../html/about_apl.html"><area shape="rect" alt="" coords="562,3,649,24" href="../html/contact_options.html"><area shape="rect" alt="" coords="706,1,767,22" href="../html/search.html"><area shape="rect" alt="" coords="652,1,706,23" href="../html/help_center.html"><area shape="rect" alt="" coords="644,27,705,46" href="../html/id_registration.html"><area shape="rect" alt="" coords="720,27,767,45" href="../html/homeport.html"><area shape="rect" alt="" coords="40,11,134,58" href="../index.html"></map></td></tr></tbody></table>
+
+
+  <table border="0" cellspacing="0" cellpadding="0" width="773">
+   <tbody><tr valign="top" align="left">
+	<td width="159" height="32" align="left" valign="top"><a name="nuhelppar"></a><img id="Picture59" height="32" width="159" src="../assets/images/yllwleft.gif" border="0" usemap="#map579"><map name="map579"><area shape="rect" alt="" coords="42,0,131,14" href="../index.html"></map></td>
+	<td width="614"><table width="614" height="32"><tbody><tr align="left" valign="top"><td><font color="#000000">
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="614"><tbody><tr valign="top" align="left"><td><table border="0" cellspacing="0" cellpadding="0" width="614"><tbody><tr valign="top" align="left">
+<form action="/cgi-bin/tracing.cgi" method="post" onsubmit="return isReady(this)"></form><td valign="top" align="left"><img height="16" width="16" src="../assets/images/shim.gif" vspace="0" hspace="0" align="TOP" border="0"><font size="2"><input id="trace" type="text" name="TRACE" value=" Trace" size="13" maxlength="15" onfocus="clearField(this)"><input type="image" height="24" width="28" src="../assets/images/cleargo.gif" vspace="0" hspace="0" align="TOP" border="0" alt="go"></font></td><td valign="top" width="150"><a href="/html/schedules.html"><img src="../assets/images/schedules_button7.gif" width="112" height="26" border="0" alt="Link to Schedules Page"></a></td><form name="shortcut"></form><td>
+<img height="16" width="30" src="../assets/images/shim.gif" vspace="0" hspace="0" align="TOP" border="0"><font size="2"><select name="shortcuts" id="shortcuts" size="1" onchange="window.open(this.options[this.selectedIndex].value,'_self')">
+<option value="#">Shortcuts</option>
+<option value="http://www.apllogistics.com" target="_blank">- APL Logistics </option>
+<option value="/html/awards_testimonials.html">- Awards</option>
+<option value="/html/bills_of_lading.html">- Bills of Lading</option>
+<option value="/html/careers_at_apl.html">- Careers at APL </option>
+<option value="/html/company_profile.html">- Company Profile </option>
+<option value="/history/index2.htm" target="_blank">- History </option>
+<option value="/html/offices.html">- Offices </option>
+<option value="/html/press_releases.html">- Press Releases </option>
+<option value="/html/refrigerated_services.html">- Refrigerated 
+Cargo</option>
+<option value="/html/rates___tariffs.html">- Tariffs </option>
+</select></font></td></tr></tbody></table></td></tr></tbody></table>
+
+</font></td></tr></tbody></table>
+</td>
+   </tr>
+  </tbody></table><table cellpadding="0" cellspacing="0" border="0" width="773">
+<tbody><tr valign="top" align="left">
+<td>
+
+  <table border="0" cellspacing="0" cellpadding="0" width="187">
+   <tbody><tr valign="top" align="left">
+	<td height="13"></td>
+   </tr>
+   <tr valign="top" align="left">
+	<td width="187" height="82"><table border="0" cellspacing="0" cellpadding="0" width="187" height="82" bgcolor="#FFFFCC"><tbody><tr align="LEFT" valign="TOP"><td>
+
+  <table border="0" cellspacing="0" cellpadding="0" width="187">
+   <tbody><tr valign="top" align="left">
+	<td width="6" height="60"><img src="../assets/images/auto_generated_images/clearpixel.gif" width="6" height="1" border="0"></td>
+	<td width="14" align="left" valign="top"><img id="Picture61" height="60" width="14" src="../assets/images/3arrows.gif" border="0"></td>
+	<td width="167">
+	  <table id="VerticalNavigationBar4" border="0" cellspacing="0" cellpadding="0" width="167">
+	 <tbody><tr valign="top" align="left">
+		<td width="167" height="20"><a href="../html/site_help.html"><img id="NavigationButton1" height="20" width="167" src="../assets/images/auto_generated_images/Site_Help_leftnav3.gif" border="0" alt=" Site Help "></a></td>
+	 </tr>
+	 <tr valign="top" align="left">
+		<td width="167" height="20"><a href="../html/shipping_tools.html"><img id="NavigationButton2" height="20" width="167" src="../assets/images/auto_generated_images/Shipping_Tools_leftnav3_1.gif" border="0" alt=" Shipping Tools "></a></td>
+	 </tr>
+	 <tr valign="top" align="left">
+		<td width="167" height="20"><a href="../html/homeport_help.html"><img id="NavigationButton3" height="20" width="167" src="../assets/images/auto_generated_images/HomePort_Help_leftnav3_1.gif" border="0" alt=" HomePort Help "></a></td>
+	 </tr>
+	  </tbody></table></td>
+   </tr>
+   <tr valign="top" align="left">
+	<td width="187" height="22" colspan="3" align="left" valign="top"><img id="Picture58" height="22" width="187" src="../assets/images/navcap2.gif" border="0"></td>
+   </tr>
+  </tbody></table></td></tr></tbody></table>
+</td>
+   </tr>
+  </tbody></table></td>
+<td>
+
+  <table border="0" cellspacing="0" cellpadding="0" width="586">
+   <tbody><tr valign="top" align="left">
+	<td width="9" height="12"><img src="../assets/images/auto_generated_images/clearpixel.gif" width="9" height="1" border="0"></td>
+	<td width="3"><img src="../assets/images/auto_generated_images/clearpixel.gif" width="3" height="1" border="0"></td>
+	<td></td>
+	<td></td>
+	<td width="12"><img src="../assets/images/auto_generated_images/clearpixel.gif" width="12" height="1" border="0"></td>
+	<td></td>
+	<td width="2"><img src="../assets/images/auto_generated_images/clearpixel.gif" width="2" height="1" border="0"></td>
+	<td></td>
+	<td width="2"><img src="../assets/images/auto_generated_images/clearpixel.gif" width="2" height="1" border="0"></td>
+	<td></td>
+	<td width="163"><img src="../assets/images/auto_generated_images/clearpixel.gif" width="163" height="1" border="0"></td>
+	<td width="11"><img src="../assets/images/auto_generated_images/clearpixel.gif" width="11" height="1" border="0"></td>
+	<td width="11"><img src="../assets/images/auto_generated_images/clearpixel.gif" width="11" height="1" border="0"></td>
+   </tr>
+   <tr valign="top" align="left">
+	<td height="16"></td>
+	
+<td width="577" colspan="12"> 
+<!--<IMG id="LinkMaster30450" HEIGHT=16 WIDTH=577 SRC="../assets/images/auto_generated_images/a_linkmaster.gif"  BORDER=0  ALT="linkmaster" >-->
+<font size="-2" face="Verdana,Myriad Web,Helvetica,sans-serif"><a href="../html/help_center.html" target="_self">Help 
+Center</a></font> : <font size="-2" face="Verdana,Myriad Web,Helvetica,sans-serif"><a href="../html/site_help.html" target="_self">Site 
+Help</a></font> : <font size="-2" face="Verdana,Myriad Web,Helvetica,sans-serif">Privacy 
+Policy </font></td>
+   </tr>
+   <tr valign="top" align="left">
+	<td colspan="13" height="12"></td>
+   </tr>
+   <tr valign="top" align="left">
+	
+<td width="575" height="30" colspan="12"><img id="Banner2" height="30" width="575" src="../assets/images/auto_generated_images/privacy_policy_headbox.gif" border="0" alt="Privacy Policy Statement"></td>
+	<td></td>
+   </tr>
+   <tr valign="top" align="left">
+	<td></td>
+	
+      <td width="555" colspan="10"> 
+        <!-- Start of Text object -->
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><br>
+          APL Limited and its affiliates ("APL" or "we" or 
+          "our") are committed to maintaining the privacy of users who 
+          access our Web site (the "Site"). This Privacy Policy Statement 
+          (the "Privacy Policy") explains the types of information we 
+          gather and what we do with it. By using the Site, you agree to the terms 
+          and policies described in this Privacy Policy.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong><a name="section1"></a>1. 
+          Information Collected on the Site</strong> <br>
+          APL does not request or require any information from anonymous visitors 
+          to the Site. APL collects information only from those users who wish 
+          to conduct business transactions (i.e. buy or sell products or services) 
+          on the Site and who have registered on the Site ("Registered Users"). 
+          When you become a Registered User of HomePort, you provide your name, 
+          address, telephone and fax number, e-mail address and a unique User 
+          id. </font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif">APL needs 
+          the information Registered Users supply for (a) personal identification, 
+          (b) to allow us to contact you for customer service, if necessary, (c) 
+          to make improvements to HomePort and to the Site, and (d) to enable 
+          Registered Users to track shipments, view outstanding charges payable 
+          to APL and obtain other user-specific information. Your e-mail address 
+          is collected to send you an e-mail message confirming your new member 
+          registration as well as confirmations for other services you transact 
+          with APL on-line. In addition, APL may use such information (i) for 
+          demographic profiling, ad targeting, statistical analysis, to conduct 
+          surveys and similar marketing activities; (ii) to notify Registered 
+          Users about important changes to the Site or promotions or opportunities; 
+          and (iii) to investigate violations of either its Privacy Policy or 
+          its "Terms of Use." You may always decline to receive these 
+          messages by following the process to <a href="#section7">Opt Out</a> 
+          as described below.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif">APL will 
+          deactivate accounts of Registered Users that have been inactive for 
+          an extended period of time. </font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif">Registered 
+          Users may access and change their information at any time via the Site.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong>2. 
+          Use of Cookies and Log Files</strong><br>
+          The Site does not use persistent or stored cookies; however, it does 
+          use temporary or per-session cookies. Temporary or per-session cookies 
+          act as a randomly generated session ID; they last only while the Registered 
+          User is logged onto the Web site, and are cancelled at the end of the 
+          session (i.e., the Registered User logs out of the Site or closes their 
+          Web browser program). The Site uses temporary cookies for security purposes. 
+          Each time a Registered User logs onto the Site, the Site server generates 
+          a temporary session ID, which it associates with the user's login name, 
+          password and computer during that particular session. This allows the 
+          Registered User to move from page to page in the Site during a specific 
+          session, without having to re-enter the user login name and/or password. 
+          The temporary cookie allows the Site server to continuously verify that 
+          the user is a permitted user as the user moves from page to page during 
+          a specific session. When the Registered User logs out of the Site the 
+          temporary session ID is cancelled, and is removed from the temporary 
+          memory of the user's computer; and the association in the Site server 
+          between the temporary session ID and the specific user login name and 
+          password is also terminated.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif">APL also 
+          uses log files for anonymous site usage analysis. A "log file" 
+          is a data file that records a Registered User's activity while using 
+          the Site.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong>3. 
+          Security</strong><br>
+          APL stores information received from Registered Users on secure computers. 
+          Only a small number of APL employees and/or contractors of APL have 
+          physical access to these computers. APL uses firewalls and other security 
+          technology to prevent APL computers from being accessed by unauthorized 
+          persons.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif">While 
+          APL has taken measures to protect Registered Users' information, please 
+          know that (i) no computer system is immune from intrusion; and (ii) 
+          information transmitted to the Site may need to pass through many systems 
+          in order to process such information. Therefore, APL cannot guarantee 
+          the absolute security or confidentiality of information transmitted 
+          to the Site.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong>4. 
+          Provision of Information to Others</strong><br>
+          APL does not provide information supplied by users to any third parties, 
+          except where law, court order, or governmental authority requires or 
+          based upon the good faith belief that disclosure is necessary including, 
+          without limitation, to protect the rights of APL when we have reason 
+          to believe that disclosing the information is necessary to identify, 
+          contact or bring legal action against someone who may be causing interference 
+          with our rights or causing harm to third parties. Occasionally, APL 
+          will retain a third party to act on our behalf for the purpose of performing 
+          certain services and will provide information to these third parties 
+          specifically for use in connection with these services. The information 
+          we provide to such third parties is protected by confidentiality agreements 
+          and is to be used solely for the performance of the services.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong>5. 
+          Links to Other Sites</strong><br>
+          The Site may contain links to Web sites other than our own and for which 
+          we are not responsible. These Web sites may send their own cookies to 
+          you, and may collect information and use it in a way inconsistent with 
+          our Privacy Policy. Unless APL explicitly states otherwise, such references 
+          in no way indicate our endorsement, recommendation or preference of 
+          any such products, services or information contained on any other site.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong>6. 
+          Additional Information</strong><br>
+          APL may alter, update or otherwise change this Privacy Policy at any 
+          time to reflect material changes in the way APL uses your information. 
+          Any such changes will be posted on this page. Your continued use of 
+          the Site following the posting of such changes will indicate your full 
+          acceptance of those changes.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong><a name="section7" id="section7"></a>7. 
+          Opt Out Policy</strong> <br>
+          At anytime, you can unsubscribe to HomePort or as a Registered User 
+          of the Site by sending an e-mail to <a href="mailto:homeport@apl.com">homeport@apl.com</a>. 
+          As a Registered User, you will occasionally receive e-mail messages 
+          from us as described in <a href="#section1">Section 1</a> above. If 
+          you would prefer not to receive these messages you may opt out by following 
+          the instructions within the e-mail message or by contacting us at <a href="mailto:homeport@apl.com">homeport@apl.com</a>. 
+          APL reserves the right to limit certain services to Registered Users 
+          who will accept e-mail messages.</font></p>
+        <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"> <strong>8. 
+          Contact Us</strong><br>
+          If you have questions about this Privacy Policy, please send an e-mail 
+          to <a href="mailto:webmaster@apl.com">webmaster@apl.com</a>.</font> 
+          <!-- End Text -->
+        </p>
+        </td>
+	<td colspan="2"></td>
+   </tr>
+   <tr valign="top" align="left">
+	<td colspan="13" height="17"></td>
+   </tr>
+ <!--Begin Server Side Include For Footer Navigation-->
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="773">
+<tbody><tr valign="top" align="left"> 
+<td height="19
+" width="724" valign="middle" align="center" bgcolor="#FFFFFF"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">&nbsp;</font></td>
+<td width="49" rowspan="3" valign="bottom"><img src="../assets/images/footer_lowrightcorner_new3.gif" width="49" height="51"></td>
+</tr>
+<tr valign="top" align="left"> 
+<td height="4"></td>
+</tr>
+<tr valign="top" align="left"> 
+<td height="23" valign="middle" bgcolor="#333333"> 
+<div align="center"> 
+<!--Begin Footer Navigation Using footer_nav embedded span tag--->
+<font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="-2"><span class="footer_nav">Copyright 
+© 2003 APL Limited. All rights reserved. | </span><a href="/html/terms_of_use.html"><span class="footer_nav"><b>Terms 
+of Use</b> | </span></a><a href="/html/privacy_policy.html"><span class="footer_nav"><b>Privacy 
+Policy</b> | </span></a><a href="http://www.nol.com.sg/" target="_blank"><span class="footer_nav"><b>Part 
+of the NOL Group</b></span></a></font></div>
+</td>
+</tr>
+</tbody></table>
+
+<!-- End of the Body for this Page -->
+
+
+</body></html>
