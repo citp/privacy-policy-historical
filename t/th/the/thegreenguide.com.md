@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205032856id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624040921id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
 
 # The Green Guide: Privacy Statement
 
@@ -84,18 +84,4 @@ History of Amendments to This Document
 
 _July 1, 2002:_ Document language finalized and published. 
 
-|  |  |  |    |  |  |  | 
-
-[](https://ssl.thegreenguide.com/subs)
-
-[](https://web.archive.org/user/emailadd.mhtml)
-
-[](https://ssl.thegreenguide.com/support)
-
-| 
-
-Shopping Here Supports The Green Guide  
-  
----  
-  
-| 
+|  |  |  |    |  |  |  |  |  | 
