@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002104840id_/http%3A//www.pressrepublican.com/Aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressrepublican.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607063820id_/http%3A//www.pressrepublican.com/Aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -130,7 +130,7 @@ All rights reserved. Ottaway Newspapers, Inc. Copyright © 2003.
 
 |   
 **SITE INDEX  
-**| [Home Page](http://www.pressrepublican.com/index.htm) | [News](http://www.pressrepublican.com/newsfront.htm) | [Sports](http://www.pressrepublican.com/sportsfront.htm) | [Out & About](http://www.pressrepublican.com/o&afront.htm) | [About Us](http://www.pressrepublican.com/aboutusfront.htm) | [Marketplace](https://web.archive.org/web/20031002104840id_/http%3A//www.pressrepublican.com/market/index.htm) |   
+**| [Home Page](http://www.pressrepublican.com/index.htm) | [News](http://www.pressrepublican.com/newsfront.htm) | [Sports](http://www.pressrepublican.com/sportsfront.htm) | [Out & About](http://www.pressrepublican.com/o&afront.htm) | [About Us](http://www.pressrepublican.com/aboutusfront.htm) | [Marketplace](https://web.archive.org/web/20040607063820id_/http%3A//www.pressrepublican.com/market/index.htm) |   
 Comments or Suggestions: [Webmaster](mailto:rblack@pressrepublican.com)
 
 **To contact the Press-Republican, Phone: (518) 561-2300 or send mail to:  
