@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lwn.net privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209152107id_/http%3A//www.lwn.net/op/Privacy.lwn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lwn.net privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604144026id_/http%3A//lwn.net/op/Privacy.lwn) for the most accurate reproduction.*
 
 # LWN: LWN.net Privacy Statement
 
 LWN cares deeply about the privacy of its readers, and is committed to doing everything it can to preserve that privacy. This document describes in detail the information we collect and how we manage it. Please do not hesitate to drop us a note at lwn@lwn.net if you have any questions. 
+
+This is version $Revision: 1.4 $ of the LWN privacy policy. 
 
 ## What information we collect
 
@@ -25,7 +27,7 @@ With the following exceptions, we will not share your personal information with 
   * Any information you post in a public location - such as comments - is necessarily public. 
   * Standard web server logs could be requested by an advertiser who wishes to audit an advertising campaign on LWN. Thus far, such an audit has never occurred. 
   * Credit card and transaction information must be shared with our credit card processing company. Note that we do _not_ retain credit card information on any server after the completion of a transaction. 
-  * If we are presented with a valid search warrant by a government agency, we will, in all likelihood, have to comply. 
+  * If we are presented with a valid search warrant (or some other sort of PATRIOT-style demand) by a government agency, we will, in all likelihood, have to comply. This has never happened since LWN begin publishing. 
   * Optional demographic information can be given - in statistical form, to potential advertisers. We will never release individual information, with or without an attached name. We do not use demographic information to direct specific advertising at you, or to change your LWN experience in any way. 
 
 
