@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602142534id_/http%3A//www.driverguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123620id_/http%3A//www.driverguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for DriverGuide.com
 
@@ -22,6 +22,14 @@ We use your IP address to identify any contributions you make to the site, such 
 
 This site makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information or email address. 
 
+## User Contributed Content
+
+All of the user contributed content of this site, including files, posts, comments, and ratings is the property of iCentric Corp., and is protected under copyright. None of the material may be reproduced without our written permission, with the exception of downloading or printing a single copy for yourself for offline viewing. 
+
+iCentric Corp. reserves the right to republish the material contributed by our users. By posting a message, you expressly grant the right to iCentric Corp. to republish or sell the message as part of our edited compilations or otherwise. We'll provide proper attribution to the author for any post we republish. 
+
+Users must not contribute material that is copyrighted, or that have licenses prohibiting redistribution. Users violating these terms shall be immediately and permanently banned from the site, and their identity may be revealed to appropriate authorities. 
+
 ## Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This site maintains dedicated servers, and encrypts all user information received. 
@@ -32,8 +40,8 @@ This site gives users the option of removing their information from our database
 
 ## Correct/Update
 
-This site gives users the option of changing and modifying information previously provided. You can email corrections/updates to [webmaster@www3.driversguide.com](mailto:webmaster@www3.driversguide.com). 
+This site gives users the option of changing and modifying information previously provided. You can email corrections/updates [to us](mailto:webmaster4@driverguide.com). 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@www3.driversguide.com](mailto:webmaster@www3.driversguide.com). We consider privacy issues to be a top priority; we will respond to all questions immediately. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](mailto:webmaster4@driverguide.com). We consider privacy issues to be a top priority; we will respond to all questions immediately. 
