@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602172701id_/http%3A//trafficswarm.com/privacy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202184801id_/http%3A//www.trafficswarm.com/privacy.pl) for the most accurate reproduction.*
 
 # A Swarm of Free Traffic to Your Site Guaranteed! Get Targeted Free Advertising with TrafficSwarm.com
 
   
-  
-|   | 
-
 TrafficSwarm.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy.
 
 Please read the following to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
@@ -39,18 +36,12 @@ This web site has security measures in place to protect against loss, misuse and
 TrafficSwarm.com provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in the following ways:
 
 1\. Email: [support@trafficswarm.com](mailto:support@trafficswarm.com)  
-2\. Postal Mail: 5333 Balboa Blvd., Encino, CA 91316  
-3\. Telephone: 928-833-3880  
-4\. Facsimile: 928-833-3880
+2\. Postal Mail: 475 Gate Five Road, Suite 107, Sausalito, CA 94965  
+3\. Telephone: 415-332-9900  
+4\. Facsimile: 415-480-2090
 
-If you simply want to cancel your TrafficSwarm.com account, you may also do so at the following URL: <http://www.trafficswarm.com/cancelacct.pl>
-
-**Contacting TrafficSwarm.com**
+If you simply want to cancel your TrafficSwarm.com account, you may also do so at the following URL: [http://www.trafficswarm.com/cancelacct.pl](https://web.archive.org/cancelacct.pl)  
+**  
+Contacting TrafficSwarm.com**
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above. All disputes will be handled promptly and fairly.
-
-**[Home](https://web.archive.org/) • [How It Works](https://web.archive.org/howitworks.pl) • [Join for Free](https://web.archive.org/joinfree.pl) • [Contact Us](https://web.archive.org/contactus.pl)**
-
-Copyright © 2002. TrafficSwarm.com. All Rights Reserved.  
-[Advertise](https://web.archive.org/advertise.pl) • [Terms of Service](https://web.archive.org/tos.pl) • [Anti-Cheat](https://web.archive.org/anticheat.pl) • Privacy Policy • [Cancel Account](https://web.archive.org/cancelacct.pl) • [Report Abuse](https://web.archive.org/abuse.pl)  
-
