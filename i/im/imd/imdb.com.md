@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203020331id_/http%3A//us.imdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602175216id_/http%3A//us.imdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Database (IMDb)
 
@@ -85,7 +85,7 @@ IMDb is not intended for use by children under the age of 13\. If you are under 
 
 **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit IMDb, your visit and any dispute over privacy is subject to this Notice and our [Terms and Conditions of Use](https://web.archive.org/terms), including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at IMDb, please send us a thorough description to [privacy@imdb.com](mailto:privacy@imdb.com), and we will try to resolve it. Our business changes constantly. This Notice and the [Terms and Conditions of Use](https://web.archive.org/terms) will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. 
+If you choose to visit IMDb, your visit and any dispute over privacy is subject to this Notice and our [Terms and Conditions of Use](https://web.archive.org/terms), including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at IMDb, please send us a thorough description to [our help desk](https://web.archive.org/help/feedback/contact?target=1), and we will try to resolve it. Our business changes constantly. This Notice and the [Terms and Conditions of Use](https://web.archive.org/terms) will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. 
 
 Related Practices and Information 
 
