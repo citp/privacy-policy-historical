@@ -1,26 +1,11 @@
-> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603231631id_/http%3A//www.rephunter.net/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204202639id_/http%3A//www.rephunter.net/privacy/privacy.asp) for the most accurate reproduction.*
 
 # RepHunter.net Privacy Policy
 
   
 |    
 ---  
-[](https://web.archive.org/web/20030603231631id_/http%3A//www.rephunter.net/login/login.asp)  
-   
-  
-  
-  
----  
-[](https://web.archive.org/manufacturers/registerman.asp)  
-  
-**»** LOW-COST!
-
-**»** No more wading through hundreds of unqualified resumes.
-
-**»** TARGETED approach to locating highly qualified Representatives.
-
-**»** Expand your market reach today.  
-  
+[](https://web.archive.org/web/20031204202639id_/http%3A//www.rephunter.net/login/login.asp)  
    
   
   
