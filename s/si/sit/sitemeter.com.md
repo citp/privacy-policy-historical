@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2000-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001028054728id_/http%3A//www.sitemeter.com/whatsnew/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413132717id_/http%3A//sitemeter.com/whatsnew/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
