@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017095247id_/http%3A//www.iconocast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165301id_/http%3A//www.iconocast.com/privacy.html) for the most accurate reproduction.*
 
 # ICONOCAST - Privacy Statement
 
