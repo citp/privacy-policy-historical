@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610064126id_/http%3A//celebrity-link.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203040934id_/http%3A//www.celebrity-link.com/privacy.html) for the most accurate reproduction.*
 
 # Celebrity Link: Privacy Policy
 
@@ -7,7 +7,7 @@
 **Consumer Information**  
 Celebrity Link does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Celebrity Link does obtain some types of non-personally identifiable information such as your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by Celebrity Link is used for the purpose of improving our website for all our visitors.
 
-In some cases, you may voluntarily provide personal information for example when adding a site or subscribing to our newsletter. If this occurs, Celebrity Link will not give this information to a third party.
+In some cases, you may voluntarily provide personal information for example when adding a site. If this occurs, Celebrity Link will not give this information to a third party.
 
 **Opt Out Procedure**  
 If you voluntarily provided personal information and want this information removed, you can do so by sending e-mail to [privacypolicy@celebrity-link.com](mailto:privacypolicy@celebrity-link.com) stating what information you want removed.
