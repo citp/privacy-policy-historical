@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616102908id_/http%3A//www.kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210094345id_/http%3A//www.kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
 
 # Kidzworld | Kids Community | Online Entertainment | Safe Chat | Message Forums
 
-**Kidzworld Media** ,. has developed this policy statement to reflect our commitment to our users' privacy. The privacy of our members is most important so please read on, as it will help you understand a little bit more about privacy. 
+**Kidzworld Media** , has developed this policy statement to reflect our commitment to our users' privacy. The privacy of our members is most important so please read on. 
 
 We use IP addresses to help diagnose problems with our server (big computers) and to administer our web site. IP addresses are used to help identify our members (you) and to collect broad demographic information (like your age, gender, regional information and what you like to do). Do not submit information to **Kidzworld** or anyone, for that matter, if it makes you feel uncomfortable. 
 
@@ -14,7 +14,7 @@ Our site contains links to other sites. **Kidzworld** is not responsible for the
 
 Our site uses an order form for customers to request information, products and services. We collect visitor's unique identifiers (like their **Kidzworld** on-screen name). These unique identifiers are collected from visitors to the site to verify the user identity and for use as account numbers in our record-keeping system. 
 
-We also run contests at our site in which we ask visitors for contact information (like their e-mail address). This information is used strictly to contact entrants when necessary (like to let them know they have won). Contact information collected for contests is deleted once winners have been confirmed. You do not need to be a registered member to enter contests. 
+We also run sweepstakes at our site in which we ask visitors for contact information (like their e-mail address). This information is used strictly to contact entrants when necessary (like to let them know they have won). Contact information collected for contests is deleted once winners have been confirmed. You do not need to be a registered member to enter sweepstakes. 
 
 **Chat Rooms**
 
@@ -36,11 +36,11 @@ If you would like to remove your name and information from our members' list and
 
 **THIRD PARTY ADVERTISING**
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal informa-tion), is used to serve ads to you on this site. For more infor-mation about DoubleClick, cookies, and how to "opt-out", please click here.
+The ads appearing on this Web site are delivered to you by BURST! Media, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about BURST! Media, cookies, and how to "opt-out", please click here.
 
 **THIRD PARTY COOKIES**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
 
 **Contacting Us**
 
