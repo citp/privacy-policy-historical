@@ -1,0 +1,282 @@
+<!--The following is the downloaded HTML source of the kindercare.com privacy policy that was archived on 2003-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205080356id_/http%3A//www.kindercare.com/privacy.php3) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>KinderCare Learning Centers - KinderCare Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="../main.css">
+
+<!-- JavaScript include - begins here -->
+	
+<script language="JavaScript1.1">
+	// Pre-cache rollover images
+	var standardImages = new Array();
+	var rolloverImages = new Array();
+	standardImages[0] = new Image(55,23);	// Home
+	standardImages[1] = new Image(107,23);	// Philosophy
+	standardImages[2] = new Image(71,23);	// Programs
+	standardImages[3] = new Image(96,23);	// Find Center
+	standardImages[4] = new Image(117,23);	// Compare
+	standardImages[5] = new Image(71,23);	// About
+	standardImages[6] = new Image(93,23);	// Topnav Tour
+	standardImages[7] = new Image(127,22);	// Body (tour this classroom) Tour
+	
+	rolloverImages[0] = new Image(55,23);
+	rolloverImages[1] = new Image(107,23); 
+	rolloverImages[2] = new Image(71,23);
+	rolloverImages[3] = new Image(96,23);
+	rolloverImages[4] = new Image(117,23);
+	rolloverImages[5] = new Image(71,23);
+	rolloverImages[6] = new Image(93,23);
+	rolloverImages[7] = new Image(127,22);
+	
+	// Set image paths
+	standardImages[0].src = "../images/nv1_home.gif";
+	standardImages[1].src = "../images/nv2_philos.gif";
+	standardImages[2].src = "../images/nv3_programs.gif"; 
+	standardImages[3].src = "../images/nv4_find.gif";
+	standardImages[4].src = "../images/nv5_compare.gif";
+	standardImages[5].src = "../images/nv6_about.gif"; 
+	standardImages[6].src = "../images/nv4a_tour.gif"; 
+	standardImages[7].src = "../images/nv_touroom.gif"; 
+	
+	rolloverImages[0].src = "../images/nv1_home_ro.gif";
+	rolloverImages[1].src = "../images/nv2_philos_ro.gif";
+	rolloverImages[2].src = "../images/nv3_programs_ro.gif"; 
+	rolloverImages[3].src = "../images/nv4_find_ro.gif";
+	rolloverImages[4].src = "../images/nv5_compare_ro.gif";
+	rolloverImages[5].src = "../images/nv6_about_ro.gif"; 
+	rolloverImages[6].src = "../images/nv4a_tour_ro.gif"; 
+	rolloverImages[7].src = "../images/nv_touroom_ro.gif"; 
+	
+	// Swap the rollover image with the standard image when the user mouses over the image
+	function rolloverImage(imageName, i) {
+		document.images[imageName].src = rolloverImages[i].src;
+	}
+	
+	// Return the rollover image to the standard image when the user mouses out of the image
+	function standardImage(imageName, i) {
+		document.images[imageName].src = standardImages[i].src;
+	}
+	
+	// Set the status bar message
+	function setMessage(message) {
+		window.status = message;
+		return true;
+	}
+</script>
+
+
+<script language="javascript">
+	function selectSection() {
+		temp = document.gotoSection.where.options[document.gotoSection.where.selectedIndex].value;
+		
+		if ( (temp.length >= 6) && (temp.substring(0,5) == "TOUR-") ) {
+			// If this is a tour link, spawn a new window without the "TOUR-" as the URL
+			temp2 = temp.substring(5);
+			standard_open(temp2,'flash','701','526');
+		}
+		else {
+			// Otherwise, just open the selected URL
+			location = temp;
+		}
+	}
+</script>
+
+<script language="JavaScript">
+	function standard_open(page, name, width, height) {
+		if (document.layers){
+			window.open(page, name,"innerWidth=" + width + ",innerHeight=" + height + "");
+		}
+		else {
+			window.open(page, name,"width=" + width + ",height=" + height + "");
+		}
+		return;
+		}
+</script>
+	<script language="JavaScript">
+		// ======================================================================================================================
+		// Standard Pop-Up Window Open
+		// Open a pop-up window. The window should open with the same dimensions in IE and Netscape.
+		// page - page name (ex: xyz.asp)
+		// name - the title of the new window
+		// width - the width of the new window
+		// height - the height of the new window
+		// extra (optional) - any additional parameters to the window.open. Here is a list of the most common items:
+		//			location,menubar,status,toolbar,scrollbars,resizable
+		//			an example would be: "location,resizable"
+		//
+		function special_open(page, name, width, height, extra) {
+			var tmpString;
+	
+			tmpString = "width=" + width + ",height=" + height + ",innerWidth=" + width + ",innerHeight=" + height;
+	
+			// If there are parameters in the extra field, append them to the string
+			if ((extra != null) && (extra != "")) {
+				tmpString = tmpString + "," + extra;
+			}
+	
+			// Open the window
+			window.open(page, name, tmpString);
+	
+			return;
+		}
+	</script><!-- JavaScript include - ends here -->
+
+</head>
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="FFFFFF">
+<a name="top"></a>
+
+<!-- Heading - begins here -->
+	
+
+	<table width="760" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr><td width="130" align="right" rowspan="2"><img src="images/kinderlc_logo.gif" width="75" height="69" alt="KinderCare Learning Centers" border="0"><img src="../images/1x1.gif" width="7" height="73"><br><img src="../images/1x1.gif" width="130" height="7"></td>
+		<td width="55">&nbsp;</td>
+		<td width="325" align="center"><img src="../images/1x1.gif" width="325" height="1"><br><img src="../images/kinder_head.gif" width="196" height="23" alt="KinderCare.com"><br><img src="../images/1x1.gif" width="325" height="1"></td>
+		<td width="250" align="center"><img src="../images/1x1.gif" width="250" height="7"><br>
+				
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr><form name="gotoSection" onsubmit="selectSection(); return false"></form><td valign="middle" class="pulldown"> 
+				<select name="where" size="1" class="pulldown">
+				<option selected="">Go to a section</option>
+				<option value="../home.php3">Home</option>
+				<option value="../philosophy_4.php3">Our Philosophy</option>
+				<option value="../philosophy_4.php3">&nbsp;&nbsp;Overview</option>
+				<option value="../philosophy_42.php3">&nbsp;&nbsp;A Learning Environment</option>
+				<option value="../philosophy_43.php3">&nbsp;&nbsp;Commitment to Quality</option>
+				<option value="../infants_2.php3">Programs</option>
+				<option value="../infants_2.php3">&nbsp;&nbsp;Infants</option>
+				<option value="../infants_2.php3">&nbsp;&nbsp;&nbsp;&nbsp;Overview</option>
+				<option value="../infants_212.php3">&nbsp;&nbsp;&nbsp;&nbsp;Environment</option>
+				<option value="../infants_213.php3">&nbsp;&nbsp;&nbsp;&nbsp;Learning</option>
+				<option value="../infants_214.php3">&nbsp;&nbsp;&nbsp;&nbsp;A Day in the Life</option>
+				<option value="../infants_215.php3">&nbsp;&nbsp;&nbsp;&nbsp;Special Considerations</option>
+				<option value="../infants_216.php3">&nbsp;&nbsp;&nbsp;&nbsp;Take the Next Step</option>
+				<option value="../toddlers_221.php3">&nbsp;&nbsp;Toddlers</option>
+				<option value="../toddlers_221.php3">&nbsp;&nbsp;&nbsp;&nbsp;Overview</option>
+				<option value="../toddlers_222.php3">&nbsp;&nbsp;&nbsp;&nbsp;Environment</option>
+				<option value="../toddlers_223.php3">&nbsp;&nbsp;&nbsp;&nbsp;Learning</option>
+				<option value="../toddlers_224.php3">&nbsp;&nbsp;&nbsp;&nbsp;A Day in the Life</option>
+				<option value="../toddlers_225.php3">&nbsp;&nbsp;&nbsp;&nbsp;Special Considerations</option>
+				<option value="../toddlers_226.php3">&nbsp;&nbsp;&nbsp;&nbsp;Take the Next Step</option>
+				<option value="../twos_overview.php3">&nbsp;&nbsp;Twos</option>
+				<option value="../preschoolers_231.php3">&nbsp;&nbsp;Preschoolers</option>
+				<option value="../preschoolers_231.php3">&nbsp;&nbsp;&nbsp;&nbsp;Overview</option>
+				<option value="../preschoolers_232.php3">&nbsp;&nbsp;&nbsp;&nbsp;Environment</option>
+				<option value="../preschoolers_233.php3">&nbsp;&nbsp;&nbsp;&nbsp;Learning</option>
+				<option value="../preschoolers_234.php3">&nbsp;&nbsp;&nbsp;&nbsp;A Day in the Life</option>
+				<option value="../preschoolers_235.php3">&nbsp;&nbsp;&nbsp;&nbsp;Special Considerations</option>
+				<option value="../preschoolers_236.php3">&nbsp;&nbsp;&nbsp;&nbsp;Take the Next Step</option>
+				<option value="../kindergartners_241.php3">&nbsp;&nbsp;Kindergartners</option>
+				<option value="../kindergartners_241.php3">&nbsp;&nbsp;&nbsp;&nbsp;Overview</option>
+				<option value="../kindergartners_242.php3">&nbsp;&nbsp;&nbsp;&nbsp;Environment</option>
+				<option value="../kindergartners_243.php3">&nbsp;&nbsp;&nbsp;&nbsp;Learning</option>
+				<option value="../kindergartners_244.php3">&nbsp;&nbsp;&nbsp;&nbsp;A Day in the Life</option>
+				<option value="../kindergartners_245.php3">&nbsp;&nbsp;&nbsp;&nbsp;Take the Next Step</option>
+				<option value="../schoolagers_251.php3">&nbsp;&nbsp;School-Agers</option>
+				<option value="../schoolagers_251.php3">&nbsp;&nbsp;&nbsp;&nbsp;Overview</option>
+				<option value="../schoolagers_252.php3">&nbsp;&nbsp;&nbsp;&nbsp;Environment</option>
+				<option value="../schoolagers_253.php3">&nbsp;&nbsp;&nbsp;&nbsp;Learning</option>
+				<option value="../schoolagers_254.php3">&nbsp;&nbsp;&nbsp;&nbsp;A Day in the Life</option>
+				<option value="../schoolagers_255.php3">&nbsp;&nbsp;&nbsp;&nbsp;Take the Next Step</option>
+				<option value="../parents_261.php3">&nbsp;&nbsp;Parents</option>
+				<option value="../parents_261.php3">&nbsp;&nbsp;&nbsp;&nbsp;Overview</option>
+				<option value="../findcenter_5.php3">Find Your Local Center</option>
+
+				<option value="TOUR-../tour/check_start.html">Tour a Center</option>
+				<option value="TOUR-../tour/check_infant.html">&nbsp;&nbsp;Infant Room</option>
+				<option value="TOUR-../tour/check_toddler.html">&nbsp;&nbsp;Toddler Room</option>
+				<option value="TOUR-../tour/check_preschool.html">&nbsp;&nbsp;Preschool Room</option>
+				<option value="TOUR-../tour/check_kindergarten.html">&nbsp;&nbsp;Kindergarten Room</option>
+				<option value="TOUR-../tour/check_schoolage.html">&nbsp;&nbsp;Schoolage Room</option>
+
+				<option value="../compare_3.php3">Compare Quality</option>
+				<option value="../compare_3.php3">&nbsp;&nbsp;Checklist for Quality</option>
+				<option value="../compare_311.php3">&nbsp;&nbsp;Infant Checklist</option>
+				<option value="../compare_toddler.php3">&nbsp;&nbsp;Toddler Checklist</option>
+				<option value="../compare_312.php3">&nbsp;&nbsp;Preschl Checklist</option>
+				<option value="../compare_kindergarten.php3">&nbsp;&nbsp;Kinder Checklist</option>
+				<option value="../compare_313.php3">&nbsp;&nbsp;School-age Checklist</option>
+				<option value="../compare_314.php3">&nbsp;&nbsp;Other Resources</option>
+				<option value="../about_6.php3">About Us</option>
+				<option value="../about_6.php3">&nbsp;&nbsp;About KinderCare</option>
+				<option value="../about_62.php3">&nbsp;&nbsp;Contact KinderCare</option>
+				<option value="../about_63.php3">&nbsp;&nbsp;Career Opportunities</option>
+				<option value="../about_news_events.php3">&nbsp;&nbsp;News and Events</option>
+				<option value="../about_66.php3">&nbsp;&nbsp;Get More Information</option>
+				<option value="../about_atwork.php3">&nbsp;&nbsp;KinderCare @ Work</option>
+				<option value="../about_ir.php3">&nbsp;&nbsp;Investor Relations</option>
+				
+				<option value="../activities_email.php3">Activities</option>
+				<option value="../celeb_reader.php3">Celebrity Reader</option>
+				<option value="../open_house.php3">Open House</option>
+				<option value="../summer_explorations_intro.php3">Summer Explorations</option>
+				
+				<option value="../howto_02.php3">How to Use KinderCare.com</option>
+				<option value="../privacy.php3">Privacy Policy</option>
+				<option value="../copyright.php3">Copyright Notice</option>
+				<option value="../hop.php3">Hooked On Phonics</option>
+				<option value="../naeyc.php3">NAEYC Accredited</option></select></td>
+				<td valign="middle" class="pulldown"><input name="goButton" type="image" src="../images/go.gif" border="0"></td></tr>
+			</tbody></table>
+<!-- Heading - ends -->
+
+<!-- TOP Nav begins here -->
+	
+
+			<br><img src="../images/1x1.gif" width="250" height="1"></td></tr>
+ 		<tr><td valign="bottom" align="right"><a href="../home.php3" onmouseover="rolloverImage('homeNav', 0); return setMessage('KinderCare Learning Centers Home')" onmouseout="standardImage('homeNav', 0); return setMessage('')"><img name="homeNav" src="../images/nv1_home.gif" width="55" height="23" border="0" alt="KinderCare Learning Centers Home"></a></td>
+		<td valign="bottom" colspan="2"><img src="../images/1x1.gif" width="1" height="1"><a href="../philosophy_4.php3" onmouseover="rolloverImage('philosophyNav', 1); return setMessage('The KinderCare Philosophy')" onmouseout="standardImage('philosophyNav', 1); return setMessage('')"><img name="philosophyNav" src="../images/nv2_philos.gif" width="107" height="23" border="0" alt="The KinderCare Philosophy"></a><img src="../images/1x1.gif" width="1" height="1"><a href="../infants_2.php3" onmouseover="rolloverImage('programsNav', 2); return setMessage('KinderCare Learning Center Programs')" onmouseout="standardImage('programsNav', 2); return setMessage('')"><img name="programsNav" src="../images/nv3_programs.gif" width="74" height="23" border="0" alt="KinderCare Learning Center Programs"></a><img src="../images/1x1.gif" width="1" height="1"><a href="../findcenter_5.php3" onmouseover="rolloverImage('findNav', 3); return setMessage('Find a KinderCare Center near you!')" onmouseout="standardImage('findNav', 3); return setMessage('')"><img name="findNav" src="../images/nv4_find.gif" width="96" height="23" border="0" alt="Find a KinderCare Center near you!"></a><img src="../images/1x1.gif" width="1" height="1"><a href="#" onclick="standard_open('tour/check_start.html','flash','701','526');return false;" onmouseover="rolloverImage('tourNav', 6); return setMessage('Take a Tour of a KinderCare Center!')" onmouseout="standardImage('tourNav', 6); return setMessage('')"><img name="tourNav" src="../images/nv4a_tour.gif" width="93" height="23" border="0" alt="Take a Tour of a KinderCare Center!"></a><img src="../images/1x1.gif" width="1" height="1"><a href="../compare_3.php3" onmouseover="rolloverImage('compareNav', 4); return setMessage('Compare the Quality of KinderCare')" onmouseout="standardImage('compareNav', 4); return setMessage('')"><img name="compareNav" src="../images/nv5_compare.gif" width="117" height="23" border="0" alt="Compare the Quality of KinderCare"></a><img src="../images/1x1.gif" width="1" height="1"><a href="../about_6.php3" onmouseover="rolloverImage('aboutNav', 5); return setMessage('About KinderCare Learning Centers')" onmouseout="standardImage('aboutNav', 5); return setMessage('')"><img name="aboutNav" src="../images/nv6_about.gif" width="71" height="23" border="0" alt="About KinderCare Learning Centers"></a></td></tr>
+	</tbody></table>
+
+
+	
+<!-- Top Nav ends Here -->
+
+<!-- Main window begins Here -->
+<table width="760" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr><td colspan="5"><img src="../images/1x1.gif" width="760" height="25"></td></tr>
+	<tr><td width="65" rowspan="17"><img src="../images/1x1.gif" width="65" height="1"></td>
+		<td class="header" valign="top" width="630">KinderCare.com Privacy Policy</td>
+		<td width="65" rowspan="17"><img src="../images/1x1.gif" width="65" height="1"></td></tr>
+	<tr><td><img src="../images/1x1.gif" width="630" height="12"></td></tr>
+	<tr><td class="greyline"><img src="../images/1x1.gif" width="1" height="1"></td></tr>
+	<tr><td><img src="../images/1x1.gif" width="1" height="12"></td></tr>
+	<tr><td>KinderCare understands the importance of protecting the privacy of all KinderCare customers, including visitors to KinderCare.com.  This privacy policy explains how we treat all information collected online at KinderCare.com.  Through this site, KinderCare collects two kinds of information: general information and personal information.</td></tr>
+	<tr><td><img src="../images/1x1.gif" width="1" height="10"></td></tr>
+	<tr><td>General information is not specific to you and cannot be traced in any way to you.  Such information includes certain non-personal information from visitors to the site (such as the time of day the site is accessed) and certain information in aggregate form (such as statistics relating to the number and frequency of visitors).  KinderCare uses general information only in ways that do not identify you, the specific user, meaning that it is never linked to personal information.  Personal information is specific to you and includes such things as your email address or name and mailing address. This type of information is sometimes called "personally identifiable information." The only personal information collected through the KinderCare.com site is information you choose to supply in response to a request or offer.  In order to improve our site and to better serve you, KinderCare may share your personal information with its subsidiaries, affiliates, legal successors and trusted third parties.  From time to time, KinderCare may also contact you about updates or special offers.  If you do not wish your personal information to be shared in this way, or you do not wish to be contacted beyond our initial response to your request for more information, please send an e-mail indicating your preferences to our Customer Service Department at <a href="mailto:cservice@mail.kindercare.com">cservice@mail.kindercare.com</a>.</td></tr>
+	<tr><td><img src="../images/1x1.gif" width="1" height="10"></td></tr>
+	<tr><td>KinderCare also uses the technology called "cookies" which involves placing a small text file on your computer.  The cookie assigns a unique identifying number to your web browser, allowing the Kindercare.com site to recognize your browser (but not otherwise identify you) and passively track activities on the site.  Data collected from Kindercare.com cookies is general data and used only in the aggregate; our cookies do not access, collect or reveal any personal information or other data stored on your computer.</td></tr>
+	<tr><td><img src="../images/1x1.gif" width="1" height="10"></td></tr>
+	<tr><td>KinderCare has designed this site for parents and adult caregivers, not children.  For that reason, KinderCare does not knowingly collect personal information from children who may visit this site, and KinderCare does not want to include any such information in its customer databases.  We recommend that parents monitor their children's use of the Internet.</td></tr>
+	<tr><td><img src="../images/1x1.gif" width="1" height="10"></td></tr>
+	<tr><td>KinderCare may change its privacy policy from time to time in its sole discretion, and if our privacy policy changes, we will change this statement and post those changes here to keep you informed about how we treat your personal information.  Feel free to check our privacy statement for current updates whenever you visit this site.</td></tr>
+<!-- Bottom Nav Bar - begins here -->
+	<tr><td><img src="../images/1x1.gif" width="1" height="40"></td></tr>
+	<tr><td align="center"><a class="bottomNav" href="#top"><img src="../images/top.gif" width="21" height="21" border="0" align="texttop">Back to Top</a></td></tr>
+	<tr><td height="10"><img src="../images/1x1.gif" width="1" height="10"></td></tr>
+	<tr><td height="1" class="greyline"><img src="../images/1x1.gif" width="1" height="1"></td></tr>
+</tbody></table>
+<!-- Bottom Nav Bar - ends here -->
+		
+
+<!-- Main window ends Here -->
+
+<!-- Footer - begins here -->
+	
+
+	<table width="760" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr><td colspan="4" height="20"><img src="../images/1x1.gif" width="1" height="20"></td></tr>
+		<tr><td rowspan="4" width="65" height="1"><img src="../images/1x1.gif" width="65" height="1"></td>
+			<td width="630" height="1"><img src="../images/1x1.gif" width="630" height="1"></td>
+			<td rowspan="4" width="65" height="1"><img src="../images/1x1.gif" width="65" height="1"></td>
+		</tr>
+		<tr><td align="center"><a class="bottomNav" href="../home.php3">Home</a>&nbsp;|&nbsp;<a class="bottomNav" href="../philosophy_4.php3">Our Philosophy</a>&nbsp;|&nbsp;<a class="bottomNav" href="../infants_2.php3">Programs</a>&nbsp;|&nbsp;<a class="bottomNav" href="../findcenter_5.php3">Find A Center</a>&nbsp;|&nbsp;<a class="bottomNav" href="../compare_3.php3">Compare Quality</a>&nbsp;|&nbsp;<a class="bottomNav" href="../about_6.php3">About Us</a></td></tr>
+		<tr><td align="center">&nbsp;<br><a class="bottomNav" href="#" onclick="standard_open('tour/check_start.html','flash','701','526');return false;">Tour A Center</a>&nbsp;|&nbsp;<a class="bottomNav" href="../howto_02.php3">How to Use This Site</a></td></tr>
+		<tr><td class="footer" align="center">&nbsp;<br><a class="footer" href="../about_62.php3">Contact Us</a>&nbsp;|&nbsp;<a class="footer" href="../privacy.php3">Privacy Policy</a>&nbsp;|&nbsp;<a class="footer" href="../copyright.php3">© Copyright 2003</a></td></tr>
+	</tbody></table>
+<!-- Footer - ends -->
+
+
+
+</body></html>
