@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorcountry.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/privacy.php%3Fmenu%3D15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorcountry.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/privacy.php%3Fmenu%3D15) for the most accurate reproduction.*
 
 # Gator Country - FLORIDA GATORS - GATORCOUNTRY.COM -- The #1 Florida Gator fan site since 1996!
 
@@ -9,28 +9,29 @@ Main Menu
 ---|---  
 | 
 
-[Home Page](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/index.php?menu=1)  
-[GC Gator Fan Shop!](http://www.footballfanatics.com/?partner_id=82)  
+[Home Page](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/index.php?menu=1)  
 [Gator Insider Club](http://www.gatorinsider.com/)  
-[Swamp Gas Forums](http://www.gatorcountry.com/phpBB)  
-[News & Columns](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/topics.php?menu=4)  
+[GC Gator Fan Shop!](http://www.footballfanatics.com/?partner_id=82)  
+[Swamp Gas](http://www.gatorcountry.com/phpBB)  
+[News & Columns](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/topics.php?menu=4)  
 [GC Photo Galleries](http://www246.pair.com/autoybkh/gallery/)  
 [GC Auctions!](http://www.gatorcountry.com/auction)  
-[GC Chat Room](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/chat.php?menu=13)  
+[GC Chat Room](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/chat.php?menu=13)  
 [GC Picks Contests](http://www.gatorcountry.com/picks)  
-[FREE GatorNews](http://www.gatorcountry.com/gatornews.php)  
-[Gator Sports Events](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/sportsevents.php?menu=14)  
-[Gator Manuel Radio](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/gatormanuel.php?menu=18)  
-[GC Links](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/links.php?menu=2)  
-[GC Greeting Cards](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/cards?menu=19)  
-[Top 10 Stats](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/top.php?menu=7)  
-[Submit News & More](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/submit.php?menu=8)  
-[](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/privacy.php%3Fmenu%3D15?menu=20)  
-[Advertise on GC!](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/sponsors.php?menu=16)  
-[](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/privacy.php%3Fmenu%3D15?menu=21)  
+[FREE GatorNews](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/gatornews.htm?menu=11)  
+[Gator Sports Events](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/sportsevents.php?menu=14)  
+[Gator Baseball](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/baseball.php?menu=26)  
+[Gator Manuel Radio](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/gatormanuel.php?menu=18)  
+[GC Links](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/links.php?menu=2)  
+[GC Greeting Cards](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/cards?menu=19)  
+[Top 10 Stats](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/top.php?menu=7)  
+[Submit News & More](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/submit.php?menu=8)  
+[](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/privacy.php%3Fmenu%3D15?menu=20)  
+[Advertise on GC!](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/sponsors.php?menu=16)  
+[](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/privacy.php%3Fmenu%3D15?menu=21)  
 [Email Gator Country](http://www.gatorcountry.com/helpdesk.php)  
-[Privacy Statement](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/privacy.php?menu=15)  
-[Entire Site Map](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/site_map.php?menu=17)  
+[Privacy Statement](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/privacy.php?menu=15)  
+[Entire Site Map](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/site_map.php?menu=17)  
   
   
 | 
@@ -39,7 +40,7 @@ GET YOUR FAN GEAR!
   
 | 
 
-[](http://www.gatorcountry.com/phpAdsNew/adclick.php?bannerID=7)  
+[](http://www.footballfanatics.com/?partner_id=82)  
   
 | 
 
@@ -47,7 +48,12 @@ SPONSOR GATOR COUNTRY!
   
 | 
 
-Get the most out of your sales - advertise on Gator Country! Interested? [Click here!](https://web.archive.org/web/20011018111325id_/http%3A//gatorcountry.com/sponsors.php?menu=16)  
+Get the most out of your sales - advertise on Gator Country! Interested? [Click here!](https://web.archive.org/web/20020605051307id_/http%3A//www.gatorcountry.com/sponsors.php?menu=16)  
+  
+|   
+| 
+
+[](http://www.webtrendslive.com/redirect.asp?siteID=122216)  
   
 | 
 
@@ -55,35 +61,35 @@ GatorInsider
   
 | 
 
-[Gator News and World Report 10/17/01](http://www.gatorinsider.com/article.php?sid=289)
+[Prospect 2003: FB/DE Joe Cohen](http://www.gatorinsider.com/article.php?sid=763)
 
-[Time for agony... and a killer instinct](http://www.gatorinsider.com/article.php?sid=288)
+[Zook confirms Vickers injury](http://www.gatorinsider.com/article.php?sid=762)
 
-[Q&A with OL Ryan Carter](http://www.gatorinsider.com/article.php?sid=287)
+[Basketball Recruiting Spring Recap](http://www.gatorinsider.com/article.php?sid=761)
 
-[Ryan Carter commits to UF](http://www.gatorinsider.com/article.php?sid=286)
+[05/31/02 Insider Football Tidbits](http://www.gatorinsider.com/article.php?sid=760)
 
-[Gator News and World Report 10/15/01](http://www.gatorinsider.com/article.php?sid=285)
+[Exclusive Interview: Offensive Tackle Lance Butler](http://www.gatorinsider.com/article.php?sid=759)
 
-[Coach Billy Donovan talks about the new season](http://www.gatorinsider.com/article.php?sid=284)
+[Ten Questions with Russell and Vettel (Part II)](http://www.gatorinsider.com/article.php?sid=758)
 
-[AP Poll: Florida falls six places](http://www.gatorinsider.com/article.php?sid=283)
+[Exclusive Interview with Anaheim Angels Shortstop David Eckstein](http://www.gatorinsider.com/article.php?sid=757)
 
-[Grading the Gators: UF vs. AUB](http://www.gatorinsider.com/article.php?sid=282)
+[Ten Questions with Russell and Vettel (Part I)](http://www.gatorinsider.com/article.php?sid=756)
 
-[Auburn vs. Gators - Post Game Quotes](http://www.gatorinsider.com/article.php?sid=281)
+[Exclusive Interview: Gator Baseball Signee Alan Rick](http://www.gatorinsider.com/article.php?sid=755)
 
-[Gator Game Day: UF vs. AUB](http://www.gatorinsider.com/article.php?sid=280)
+[New tidbits from another Coach Zook Gator Gathering](http://www.gatorinsider.com/article.php?sid=754)
 
-[Gator News and World Report 10/12/01](http://www.gatorinsider.com/article.php?sid=279)
+[Exclusive: Interview w/Baseball signee John Paul Castro](http://www.gatorinsider.com/article.php?sid=751)
 
-[10/12/01 Recruiting News & Notes](http://www.gatorinsider.com/article.php?sid=278)
+[05/10/02 This, that, and the other...](http://www.gatorinsider.com/article.php?sid=750)
 
-[10/11/01 Gator Hotline Recap](http://www.gatorinsider.com/article.php?sid=277)
+[Zook Ft. Myers Gator Gathering Report](http://www.gatorinsider.com/article.php?sid=749)
 
-[Gator News and World Report 10/11/01](http://www.gatorinsider.com/article.php?sid=276)
+[Sun-Tzu? Try Sun-Zook](http://www.gatorinsider.com/article.php?sid=748)
 
-[Brady's Bits - The Ack takes a look at the Auburn Game](http://www.gatorinsider.com/article.php?sid=275)  
+[Pre-Summer Basketball Recruiting Overview](http://www.gatorinsider.com/article.php?sid=747)  
   
 | 
 
@@ -91,45 +97,45 @@ LATEST...FORUM...POSTS
   
 | 
 
-[Glad to see Clint Mitchell back?](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17819&forum=1)
+[ATTENTION wings Fans](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10691&forum=1)
 
-[UF Special Teams Spin](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17838&forum=1)
+[Castro's Latest Speech Sounds like Lava, StPete, etc.](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10405&forum=5)
 
-[Roll Call!!!!!!](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17837&forum=5)
+[The Shamans of Scientism](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10617&forum=5)
 
-[2003 Recruiting Target: Trevor Ariza](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17735&forum=12)
+[Help, What Can Be Done?](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10383&forum=2)
 
-[scUM talkin Smack](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17808&forum=1)
+[Tasmanian devil or sylvester?](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10689&forum=4)
 
-[I know we say God must be a Gator.....](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17775&forum=1)
+[What poster would you most like to meet?](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10622&forum=4)
 
-[Rex says: (10/17):](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17836&forum=1)
+[Atlanta Gators, ATTENTION!!!](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10665&forum=1)
 
-[Lava? Lava bin Ladan](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17835&forum=5)
+[Whos your Top 5 NBA players???](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=9960&forum=2)
 
-[Hurricanes atop polls, and coach has 'vision'](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17446&forum=1)
+[Things I really hate (not important)](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10692&forum=4)
 
-[Opelika-Auburn News about Spurrier vs Tuberville.](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17823&forum=1)
+[Poll: Who is the Most "Computer-Savvy" Pubster??](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10654&forum=4)
 
-[Unusually disconcerting](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17682&forum=1)
+[AIM chat in Volunbeers Doublewide!!!](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10684&forum=4)
 
-[Ingle Martin](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17225&forum=1)
+[Amen to this!! Quote of the day!!!!](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10643&forum=5)
 
-[Boo!!!](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17834&forum=4)
+[ARENA FOOTBALL](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10560&forum=1)
 
-[Zogby poll - Bush 72%, Clinton 20%](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17685&forum=5)
+[Patrick WAAAAAAHHHHHH!!!](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10340&forum=1)
 
-[The Toll of Football](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17832&forum=1)
+[Good read on a high school stud](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10447&forum=1)
 
-[Canes admitting they have pathetic attendance!](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17828&forum=1)
+[Gatorade commercial is the best PR for UF](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10671&forum=1)
 
-[fred gibson....](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17662&forum=1)
+[Raw oysters: Yum or Yuck?](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10667&forum=4)
 
-[Any Gator "Bandwagoneers".. the bus leaves as....](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17705&forum=1)
+[Pubsters = Commies!!!](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10690&forum=4)
 
-[Nate Harris Article](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17827&forum=3)
+[Are you a cheapskate?](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10561&forum=4)
 
-[More evidence that the republicans weakened our security.](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=17815&forum=5)  
+[better sound system: record players or 8-track?](http://www.gatorcountry.com/phpBB/viewtopic.php?topic=10663&forum=4)  
   
 | 
 
@@ -137,15 +143,7 @@ LATEST..GC..AUCTIONS
   
 | 
 
-[Another Level-A Review of 1991 Season-Full Color](http://www.gatorcountry.com/auction/index.cgi?category=gatorme&item=1003551931)
-
-[Video Labels](http://www.gatorcountry.com/auction/index.cgi?category=gatormez&item=1003552662)
-
-[400 Address Labels Flordia Gators ](http://www.gatorcountry.com/auction/index.cgi?category=gatormez&item=1003556333)
-
-[(2) Tennessee/Florida Tickets](http://www.gatorcountry.com/auction/index.cgi?category=tickets&item=1003884607)
-
-[Trade Tenn. Tickets for FSU](http://www.gatorcountry.com/auction/index.cgi?category=tickets&item=1004487963)  
+[Huge country Bundt cake candle ](http://www.gatorcountry.com/auction/index.cgi?category=other&item=1023667711)  
   
 |   
 |  | 
