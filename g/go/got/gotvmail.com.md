@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205001901id_/http%3A//www.gotvmail.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204014024id_/http%3A//www.gotvmail.com/privacy.htm) for the most accurate reproduction.*
 
-# Small Business Voicemail & Toll Free Numbers - GotVMail Communications
+# GotVMail - Privacy Policy
 
-> **   
->  **TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site www.GotVMail.com.  Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.   
+> TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site www.GotVMail.com.  Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.   
 > 
 > 1.      What personally identifiable information GotVMail Communications collects.
 > 
@@ -24,7 +23,7 @@
 > If users have questions or concerns regarding this statement, they should first contact Customer Service by calling 888-460-5409 or emailing support@gotvmail.com. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the _ [ TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/users_watchdog.php) (http://www.truste.org/users/users_watchdog.php)._ TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 > 
 > ####   
->  Information Collection
+> Information Collection
 > 
 > GotVMail Communications is the sole owner of the information collected on www.GotVMail.com. GotVMail Communications collects information from our users at several different points on our Web site.
 > 
@@ -45,7 +44,7 @@
 > 
 > Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called "analog 4.13" that uses log files to analyze user movement.
 > 
-> ** Communications from the Site**
+> **Communications from the Site**
 > 
 > ## Special Offers and Updates
 > 
@@ -55,7 +54,7 @@
 > 
 > If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.  Out of respect for our users privacy we provide a way to opt-out of these communications.  Please see the Choice and Opt-out sections.
 > 
-> ##   
+> ##  
 > 
 > ## Service Announcements
 > 
@@ -65,7 +64,7 @@
 > 
 > We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
 > 
-> ** Sharing**
+> **Sharing**
 > 
 > ## Legal Disclaimer
 > 
@@ -111,7 +110,7 @@
 > 
 > If users have any questions about the security at our Web site, users can send an email to support@gotvmail.com
 > 
-> ##  Supplementation of Information 
+> ## Supplementation of Information 
 > 
 > In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
 > 
@@ -123,7 +122,7 @@
 > 
 > If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done by emailing our Customer Support at support@gotvmail.com
 > 
-> ##  Notification of Changes
+> ## Notification of Changes
 > 
 > If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 > 
@@ -133,7 +132,7 @@
 > 
 > If users have any questions or suggestions regarding our privacy policy, please contact us at:
 > 
-> 888-460-5409  
+> 800-820-8210  
 >  [support@gotvmail.com](mailto:support@gotvmail.com)  
->  233 Needham Street, Suite 300, Newton, MA 02464  
+> 188 Needham Street, Suite 255, Newton, MA 02464  
 >  [http://www.gotvmail.com](http://www.gotvmail.com/)
