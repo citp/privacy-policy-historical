@@ -1,0 +1,521 @@
+<!--The following is the downloaded HTML source of the paretologic.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403110633id_/http%3A//paretologic.com%3Fw%3D3) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>XoftSpy Spyware Removal by ParetoLogic</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="style.css" type="text/css">
+<script src="js/flash.js" type="text/javascript"></script>
+<script language="JavaScript1.2">
+
+isIE=document.all;
+isNN=!document.all&&document.getElementById;
+isN4=document.layers;
+isHot=false;
+
+function ddInit(e){
+  topDog=isIE ? "BODY" : "HTML";
+  whichDog=isIE ? document.all.theLayer : document.getElementById("theLayer");  
+  hotDog=isIE ? event.srcElement : e.target;  
+  while (hotDog.id!="titleBar"&&hotDog.tagName!=topDog){
+    hotDog=isIE ? hotDog.parentElement : hotDog.parentNode;
+  }  
+  if (hotDog.id=="titleBar"){
+    offsetx=isIE ? event.clientX : e.clientX;
+    offsety=isIE ? event.clientY : e.clientY;
+    nowX=parseInt(whichDog.style.left);
+    nowY=parseInt(whichDog.style.top);
+    ddEnabled=true;
+    document.onmousemove=dd;
+  }
+}
+
+function dd(e){
+  if (!ddEnabled) return;
+  whichDog.style.left=isIE ? nowX+event.clientX-offsetx : nowX+e.clientX-offsetx; 
+  whichDog.style.top=isIE ? nowY+event.clientY-offsety : nowY+e.clientY-offsety;
+  return false;  
+}
+
+function ddN4(whatDog){
+  if (!isN4) return;
+  N4=eval(whatDog);
+  N4.captureEvents(Event.MOUSEDOWN|Event.MOUSEUP);
+  N4.onmousedown=function(e){
+    N4.captureEvents(Event.MOUSEMOVE);
+    N4x=e.x;
+    N4y=e.y;
+  }
+  N4.onmousemove=function(e){
+    if (isHot){
+      N4.moveBy(e.x-N4x,e.y-N4y);
+      return false;
+    }
+  }
+  N4.onmouseup=function(){
+    N4.releaseEvents(Event.MOUSEMOVE);
+  }
+}
+
+function hideMe(){
+  if (isIE||isNN) whichDog.style.visibility="hidden";
+  else if (isN4) document.theLayer.visibility="hide";
+}
+
+function showMe(){
+  if (isIE||isNN) whichDog.style.visibility="visible";
+  else if (isN4) document.theLayer.visibility="show";
+}
+
+document.onmousedown=ddInit;
+document.onmouseup=Function("ddEnabled=false");
+
+</script>
+
+
+</head>
+<body marginheight="0" marginwidth="0" rightmargin="0" topmargin="0" bottommargin="0" leftmargin="0" text="#4B5F7D" vlink="#204084" alink="#204084" bgcolor="#D3DEE6" link="#204084">
+
+
+<div id="theLayer" style="position:absolute;width:671px;height:300px;left:50px;top:200px;visibility:visible;
+border: solid 2px #0077B0; 
+overflow: scroll; 
+scrollbar-face-color: #D3DEE6;
+scrollbar-shadow-color: #3D5054;
+scrollbar-highlight-color: #C3D6DA;
+scrollbar-3dlight-color: #3D5054;
+scrollbar-darkshadow-color: #85989C;
+scrollbar-track-color: #0077B0;
+scrollbar-arrow-color: #000000;
+padding: 0px;
+margin: 0px;
+">
+<table border="0" width="650" bgcolor="#0077B0" cellspacing="0" cellpadding="5">
+<tbody><tr>
+<td width="100%">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="36">
+  <tbody><tr>
+  <td id="titleBar" style="cursor:move" width="100%" align="left">
+  <ilayer width="100%" onselectstart="return false">
+  <layer width="100%" onmouseover="isHot=true;if (isN4) ddN4(theLayer)" onmouseout="isHot=false">
+  <font face="verdana" color="#FFFFFF" size="2"><b>Privacy Policy</b></font>
+  </layer>
+  </ilayer>
+  </td>
+  <td style="cursor:hand" valign="top">
+  <a href="#" onclick="hideMe();return false"><font color="#ffffff" size="2" face="arial" style="text-decoration:none"><img src="/images/close.gif" border="0"></font></a>
+  </td>
+  </tr>
+  <tr>
+  <td width="100%" bgcolor="#F5F8FA" style="padding:4px" colspan="2" align="left">
+<font color="#000000" size="1" face="verdana" style="text-decoration:none">
+<div align="center">
+<table width="500"><tbody><tr><td>
+<font color="#000000" size="1" face="verdana" style="text-decoration:none">
+<b></b>
+</font>
+</td></tr></tbody></table>
+</div>
+<b>PARETOLOGIC INC - PRIVACY POLICY </b>
+<br><br>
+ParetoLogic is committed to the privacy of personal information provided to us when using any of our online services. This Privacy Policy describes how we treat information we receive when you transmit data to ParetoLogic Inc. 
+<br><br>
+<b>Web Information</b><br>
+When you register ParetoLogic software, we may collect personal identifiable information including your name, address, email address, etc. for the purpose of recording the transaction.  When we use a payment processing merchant we ensure that the same strict privacy criteria is in place. We do not (knowingly) collect personal information from persons under the age of eighteen.  We also give users the option of receiving useful product information (such as updates, pest alerts and associated product offerings), via opt-in permission based email. We fully ensure your privacy and value your trust. We will never give your information to a 3rd party unless required so by law. You may opt out of receiving emails from us at any time by clicking the unsubscribe link in the email or by visiting our website at www.paretologic.com
+<br><br>
+<b>Web Site Usage</b> <br>
+We may automatically collect IP addresses and Web site usage information when you access our online services. This information helps us evaluate how our visitors navigate our sites on an aggregate basis, including but not limited to the number and frequency of visitors, length of visits, etc. 
+<br><br>
+<b>How Information Is Used When Collected</b> <br>
+We may use information in the following ways: <br>
+• For purposes you specifically provided the information such as to enable us to process, validate and verify purchases. <br>
+• To register you as a customer and open and maintain a support account for you. <br>
+• To send email notifications about new, existing, enhanced products or services. Information on special offers, or to contact you to reconfirm or verify accuracy of information provided.<br>
+• To obtain your feedback to help enhance existing features or provide added products and services. <br>
+• To enable us to personalize content, advertising and promotions based on personal characteristics, preferences, needs, suggestions, or recommendations. <br>
+<br>
+We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law may require us to do so.
+<br><br>
+<b>Cookies</b> <br>
+We define a cookie as any string of data and information that is automatically stored on your computer upon access to our services. ParetoLogic employs cookies to assign temporary identification numbers to machines that access our services. This information enables us to deliver faster service capabilities to our customers or to our affiliates, prevent denial of service attacks on our systems, detect and prevent fraudulent transactions, and assist with awarding proper sales credit to our partners. All ParetoLogic cookies are 1) of limited duration, 2) less than 5KB in length, 3) only visible to ParetoLogic, and 4) devoid of any personally identifiable information. Our Cookies are mainly maintained to track our affiliates to ensure proper payments for their sales and tracking activities relating to their affiliate relationship with us.
+<br><br>
+<b>Security</b><br>
+The personally identifiable information we collect about you is stored in limited access servers. We maintain such safeguards to protect security of servers and your personally identifiable information. We retain personally identifiable information only as long as necessary to complete a purchase, thwart fraud, provide customer service, or maintain your account with us.
+<br><br>
+<b>Policy Modifications</b><br>
+We may change this Privacy Policy from time to time. However, any changes will be posted promptly here, so please check back periodically.
+<br><br>
+If you have any questions regarding this privacy policy, please contact us at info@paretologic.com. 
+<br><br>
+</font>
+  </td>
+  </tr>
+  </tbody></table> 
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+		<td style="background: url('images/_bg1.gif'); " width="100%">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr><td width="777"><script type="text/javascript">showFlash('flash=flash/head.swf','image=images/main.jpg','height=132','width=777','quality=high');</script></td></tr>
+			   	<tr><td><img src="images/line.jpg" width="777" height="4" border="0" alt=""></td></tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr><td style="background: url('images/_bg2.gif'); "><img src="images/menu_left.gif" width="36" height="24" border="0" alt=""><a href="/"><img src="images/menu1.gif" width="82" height="24" border="0" alt="Home"></a><a href="products.aspx"><img src="images/menu2.gif" width="88" height="24" border="0" alt="Products"></a><a href="affiliates.aspx"><img src="images/menu3.gif" width="88" height="24" border="0" alt="Affiliates"></a><a href="support.asp"><img src="images/menu4.gif" width="87" height="24" border="0" alt="Support"></a><a href="contact.aspx"><img src="images/menu5.gif" width="88" height="24" border="0" alt="Contact Us"></a><a href="about_us.aspx"><img src="images/menu6.gif" width="88" height="24" border="0" alt="About Us"></a><img src="images/menu_right.jpg" width="220" height="24" border="0" alt=""></td></tr>
+	<tr><td bgcolor="#6883B6"><img src="images/spacer.gif" width="1" height="2" border="0" alt=""></td></tr>
+	<tr>
+		<td>
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+					<td width="31" bgcolor="#D3DEE6" valign="top">
+						<table border="0" cellspacing="0" cellpadding="0" width="31">
+							<tbody><tr><td bgcolor="#6782B5" align="right"><img src="images/c_left_corner1.gif" width="2" height="13" border="0" alt=""></td></tr>
+						</tbody></table>
+					</td>
+					<td valign="top" width="452" bgcolor="#D3DEE6">
+						<table border="0" cellspacing="0" cellpadding="0" width="452" bgcolor="#ffffff">
+							<tbody><tr>
+								<td rowspan="3" colspan="2" width="4" height="5"><img src="images/c_left_corner2.gif" width="4" height="5" border="0" alt=""></td>
+								<td bgcolor="#4F699F" height="1"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+								<td rowspan="3" colspan="2" width="4" height="5"><img src="images/c_right_corner2.gif" width="4" height="5" border="0" alt=""></td>
+							</tr>
+							<tr><td bgcolor="#AFBDD7" height="1"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+							<tr><td height="3"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+							<tr>
+								<td bgcolor="#B0BED8" width="1"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+								<td width="3"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+								<td>
+									<table border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr><td rowspan="50"><img src="images/spacer.gif" width="8" height="1" border="0" alt=""></td><td colspan="2"><img src="images/spacer.gif" width="1" height="5" border="0" alt=""></td><td rowspan="50"><img src="images/spacer.gif" width="8" height="1" border="0" alt=""></td></tr>
+										<tr><td width="17" height="16"><img src="images/item1.gif" width="17" height="16" border="0" alt=""></td><td width="100%"><img src="images/leading_edge.gif" width="118" height="17" border="0" alt="Leading Edge" hspace="4"></td></tr>
+										<tr><td><img src="images/spacer.gif" width="1" height="5" border="0" alt=""></td></tr>
+										<tr><td colspan="2"><font class="txt" face="Tahoma" size="1">
+
+<!-- Main Content -->
+
+<table>
+<tbody><tr>
+<td valign="top" style="font-size:11; font-family: Tahoma;">
+ParetoLogic offers leading edge integrated application solutions to give you peace of mind that your computer is secure and your privacy is protected.  We will protect you from unwanted Spyware, Adware, Malware, W32/Spybot, Keyloggers, Unwanted Toolbars, Browser Hijacking, Pop-up Generators and more!
+</td>
+<td valign="top" width="150">
+<a href="http://www.supportunicef.org/site/pp.asp?c=iuI1LdP0G&amp;b=276341" target="_blank"><img src="/images/donate.jpg" border="0" hspace="10"></a>
+</td>
+</tr>
+</tbody></table>
+
+We specialize in privacy and security software.  Our applications are designed to search and eliminate all known computer parasites that bog down the speed and capabilities of your PC. 
+<br><br>
+Possibly undesired items can record your surfing habits and the sites you visit, bombard you with unwanted promotional material and share your personal information with their partners.  Any personal information, in the wrong hands, can leave you a victim of "identity theft" by stealing your credit card details, birth records, and other confidential information. 
+<br><br>
+We offer a Free Scan that will allow you to determine if you have been infected with possibly undesired items.  &nbsp;<a href="download.asp" class="txtlink">Download Our Free Scanner</a>.
+
+<br>
+<!-- Main  Content -->
+
+<br></font></td></tr>
+</tbody></table>
+								</td>
+								<td width="3"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+								<td bgcolor="#B0BED8" width="1"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+							</tr>
+							<tr>
+								<td rowspan="2" colspan="2"><img src="images/c_left_corner2b.gif" width="4" height="4" border="0" alt=""></td>
+								<td height="3"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+								<td rowspan="2" colspan="2"><img src="images/c_right_corner2b.gif" width="4" height="4" border="0" alt=""></td>
+							</tr>
+							<tr><td bgcolor="#B0BED8" height="1"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+							<tr><td align="right" colspan="5" bgcolor="#D3DEE6"><img src="images/shadow.gif" width="214" height="8" border="0" alt=""></td></tr>
+							<tr>
+								<td colspan="5" bgcolor="#D3DEE6" width="452">
+									<table border="0" cellspacing="0" cellpadding="0" width="452">
+										<tbody><tr>
+											<td width="26"><img src="images/item3.gif" width="16" height="16" border="0" alt="" hspace="5"></td><td width="200"><img src="images/t_affilate-program.gif" width="117" height="10" border="0" alt="Affiliate program"></td>
+											<td width="26"><img src="images/item3.gif" width="16" height="16" border="0" alt="" hspace="5"></td><td width="200"><img src="images/t_free-trial.gif" width="61" height="10" border="0" alt="Free trial"></td>
+										</tr>
+										<tr><td colspan="4"><img src="images/spacer.gif" width="1" height="5" border="0" alt=""></td></tr>
+										<tr>
+											<td colspan="2"><a href="affiliates.aspx"><img src="images/pic1.gif" width="222" height="54" border="0" alt="Look into our affiliate program"></a></td>
+											<td colspan="2"><a href="download.asp"><img src="images/pic2.gif" width="222" height="54" border="0" alt="Download a free scan"></a></td>
+										</tr>
+										<tr>
+											<td align="right" colspan="2"><img src="images/shadow.gif" width="214" height="8" border="0" alt="" hspace="8"></td>
+											<td align="right" colspan="2"><img src="images/shadow.gif" width="214" height="8" border="0" alt=""></td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="4" bgcolor="#D3DEE6" valign="top">
+						<table border="0" cellspacing="0" cellpadding="0" width="4">
+							<tbody><tr><td bgcolor="#6782B5"><img src="images/c_right_corner1.gif" width="4" height="13" border="0" alt=""></td></tr>
+						</tbody></table>
+					</td>
+				    <td bgcolor="#D3DEE6">&nbsp;</td>
+				    <td width="274" valign="top" bgcolor="#D3DEE6">
+						<table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+							<tbody><tr>
+								<td rowspan="7" valign="top"><img src="images/cor_l.gif" width="4" height="5" border="0" alt=""></td>
+								<td bgcolor="#4F699F" width="266"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+								<td rowspan="7" valign="top"><img src="images/cor_r.gif" width="4" height="5" border="0" alt=""></td>
+							</tr>
+							<tr><td height="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+							<tr>
+								<td valign="top">
+									<table border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<td rowspan="5" valign="top" style="background: url('images/spacer2.gif') repeat-y left; "><img src="images/pic_soft_box.jpg" width="98" height="117" border="0" alt=""></td>
+											<td colspan="3" height="24"><img src="images/pic_soft_box2.jpg" width="169" height="24" border="0" alt="Software box"></td>
+										</tr>
+										<tr><td height="3" colspan="3"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+										<tr>
+											<td bgcolor="#C6C696" height="1" width="167"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+											<td rowspan="2" colspan="2"><img src="images/corner_r.gif" width="5" height="5" border="0" alt=""></td>
+										</tr>
+										<tr><td height="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+										<tr>
+											<td valign="top">
+												<table cellpadding="3" border="0">
+												<tbody><tr>
+												<td>
+												<font class="txt" face="Tahoma" size="1">
+
+<!-- XoftSpy Content -->				
+								
+XoftSpy 4.10 is the latest and most advanced application on the Internet for detection and removing possibly undesired items.
+
+<!-- XoftSpy Content -->
+
+												</font>
+												</td>
+												</tr>
+												<tr>
+												<td>
+													<table border="0" cellspacing="0" cellpadding="0">
+													<tbody><tr>
+													<td width="17">
+													<a href="download.asp">
+													<img src="images/item2.gif" width="17" height="19" border="0" alt=""></a></td>
+													
+													<td bgcolor="#6782B5" width="140"><a href="download.asp"><img src="images/b_freescan.gif" width="51" height="10" border="0" alt="Free scan" hspace="5"></a></td>
+													<td width="4"><img src="images/item2_2.gif" width="4" height="19" border="0" alt=""></td>
+													</tr>
+													</tbody></table>
+													
+												</td>
+												</tr>
+												<tr>
+												<td>
+												
+												</td>
+												</tr>
+												</tbody></table>
+												
+											</td>
+											<td><img src="images/spacer.gif" width="4" height="1" border="0" alt=""></td>
+											<td bgcolor="#C9C99C" width="1"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+										</tr>
+										<tr>
+											<td colspan="4">
+												<table border="0" cellspacing="0" cellpadding="0">
+													<tbody><tr>
+														<td rowspan="2" colspan="2"><img src="images/corner_l2.gif" width="5" height="5" border="0" alt=""></td>
+														<td height="4" width="257" colspan="2"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+														<td rowspan="2" colspan="2"><img src="images/corner_r2.gif" width="5" height="5" border="0" alt=""></td>
+													</tr>
+													<tr><td bgcolor="#C6C696" height="1" colspan="2"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+												</tbody></table>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr><td><img src="images/spacer.gif" width="1" height="5" border="0" alt=""></td></tr>
+							<tr>
+								<td><table border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr><td><img src="images/item1.gif" width="17" height="16" border="0" alt="" hspace="5"></td><td><img src="images/t_further-details.gif" width="104" height="11" border="0" alt="Further details"></td></tr>
+								</tbody></table></td>
+							</tr>
+							<tr><td><img src="images/spacer.gif" width="1" height="5" border="0" alt=""></td></tr>
+							<tr>
+								<td bgcolor="#D3DEE6">
+									<table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+										<tbody><tr>
+											<td rowspan="2" colspan="2"><img src="images/corner_l.gif" width="5" height="5" border="0" alt=""></td>
+											<td height="1" bgcolor="#C6C696" width="257"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+											<td rowspan="2" colspan="2"><img src="images/corner_r.gif" width="5" height="5" border="0" alt=""></td>
+										</tr>
+										<tr><td height="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+										<tr>
+											<td width="1" bgcolor="#C9C99C"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+											<td width="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+											<td>
+												<table border="0" cellspacing="0" cellpadding="0" width="257" bgcolor="#F3EFDD">
+													<tbody><tr>
+														<td><img src="images/corner1_l.gif" width="3" height="3" border="0" alt=""></td>
+														<td align="right"><img src="images/corner1_r.gif" width="3" height="3" border="0" alt=""></td>
+													</tr>
+													<tr><td colspan="2">
+															<table border="0" cellspacing="0" cellpadding="0">
+																<tbody><tr>
+																	<td rowspan="100"><img src="images/spacer.gif" width="10" height="1" border="0" alt=""></td>
+																	<td valign="top"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="4"></td>
+																	<td rowspan="100"><img src="images/spacer.gif" width="6" height="1" border="0" alt=""></td>
+																  <td><font class="txt" face="Tahoma" size="1">Complete PC scanning: memory, registry entries, files and folders</font></td>
+																</tr>
+																<tr>
+																	<td valign="top"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="4"></td>
+																	<td><font class="txt" face="Tahoma" size="1">Removes Adware, Spyware, W32/Spybot, Malware, Pop-up Generators, Keyloggers, Unwanted Toolbars, CWS, Trojans and Browser Hijackers.<br></font></td>
+																</tr>
+																<tr>
+																	<td valign="top"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="4"></td>
+																	<td><font class="txt" face="Tahoma" size="1">One of the largest databases in the industry</font></td>
+																</tr>
+																<tr>
+																	<td valign="top"></td>
+																  <td><p><font class="txt" face="Tahoma" size="1"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="1">&nbsp; 36,000+ Definitions </font></p>															      </td>
+																</tr>
+																<tr>
+																	<td valign="top"></td>
+																	<td><p><font class="txt" face="Tahoma" size="1"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="1">&nbsp; New definitions added Weekly </font></p>																    </td>
+																</tr>
+																<tr>
+																	<td valign="top"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="4"></td>
+																	<td><font class="txt" face="Tahoma" size="1">Free definition updates<br></font></td>
+																</tr>
+																<tr>
+																	<td valign="top"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="4"></td>
+																  <td><font class="txt" face="Tahoma" size="1">Backup and restore capabilities</font></td>
+																</tr>
+																<tr>
+																	<td valign="top"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="4"></td>
+																	<td><font class="txt" face="Tahoma" size="1">Prevents identity and credit card theft<br></font></td>
+																</tr>
+																<tr>
+																	<td valign="top"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="4"></td>
+																	<td><font class="txt" face="Tahoma" size="1">Increases your computer's speed<br></font></td>
+																</tr>
+																<tr>
+																	<td valign="top"><img src="images/arrow.gif" width="5" height="5" border="0" alt="" vspace="4"></td>
+																	<td><font class="txt" face="Tahoma" size="1">User-friendly interface<br></font></td>
+																</tr>
+															</tbody></table>
+													</td></tr>
+													<tr><td align="right" colspan="2"><img src="images/corner1_r2.gif" width="3" height="3" border="0" alt=""></td></tr>
+													<tr>
+														<td colspan="2" height="22">
+															<table border="0" cellspacing="0" cellpadding="0">
+																<tbody><tr>
+																	<td height="22" width="89" valign="bottom"><img src="images/corner1_l2.gif" width="3" height="3" border="0" alt=""></td>
+																	<td width="3" valign="bottom"><img src="images/corner1_r2.gif" width="3" height="3" border="0" alt=""></td>
+																	<td valign="top" width="4" bgcolor="#ffffff"><img src="images/corner.gif" width="3" height="3" border="0" alt=""></td>
+																	<td valign="bottom" bgcolor="#ffffff">
+																		<table border="0" cellspacing="0" cellpadding="0">
+																			<tbody><tr><td width="17"><a href="/xoftspy/purchase.asp"><img src="images/item2.gif" width="17" height="19" border="0" alt=""></a></td><td bgcolor="#6782B5" width="140"><a href="/xoftspy/purchase.asp"><img src="images/t_order-now.gif" width="63" height="9" border="0" alt="Order now" hspace="5"></a></td>
+																			<td width="4"><img src="images/item2_2.gif" width="4" height="19" border="0" alt=""></td></tr>
+																		</tbody></table>
+																	</td>
+																</tr>
+															</tbody></table>
+														</td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td width="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+											<td width="1" bgcolor="#C9C99C"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+										</tr>
+										<tr>
+											<td rowspan="2" colspan="2"><img src="images/corner_l2.gif" width="5" height="5" border="0" alt=""></td>
+											<td height="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+											<td rowspan="2" colspan="2"><img src="images/corner_r2.gif" width="5" height="5" border="0" alt=""></td>
+										</tr>
+										<tr><td height="1" bgcolor="#C6C696" width="257"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td><img src="images/cor_l2.gif" width="3" height="3" border="0" alt=""></td>
+								<td height="2"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+								<td align="right"><img src="images/cor_r2.gif" width="3" height="3" border="0" alt=""></td>
+							</tr>
+							<tr><td colspan="3" bgcolor="#D3DEE6" align="right"><img src="images/shadow.gif" width="214" height="8" border="0" alt=""></td></tr>
+						</tbody></table>
+					    <table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                          <tbody><tr>
+                            <td rowspan="2" colspan="2"><img src="images/corner_l.gif" width="5" height="5" border="0" alt=""></td>
+                            <td height="1" bgcolor="#C6C696" width="257"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                            <td rowspan="2" colspan="2"><img src="images/corner_r.gif" width="5" height="5" border="0" alt=""></td>
+                          </tr>
+                          <tr>
+                            <td height="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                          </tr>
+                          <tr>
+                            <td width="1" bgcolor="#C9C99C"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                            <td width="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                            <td>
+							<a href="http://labs.paretologic.com/"><img src="images/labslogo2.gif" border="0" alt="ParetoLogic Labs"></a>
+							</td>
+                            <td width="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                            <td width="1" bgcolor="#C9C99C"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                          </tr>
+                          <tr>
+                            <td rowspan="2" colspan="2"><img src="images/corner_l2.gif" width="5" height="5" border="0" alt=""></td>
+                            <td height="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                            <td rowspan="2" colspan="2"><img src="images/corner_r2.gif" width="5" height="5" border="0" alt=""></td>
+                          </tr>
+                          <tr>
+                            <td height="1" bgcolor="#C6C696" width="257"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+                          </tr>
+                        </tbody></table>
+					    <img src="images/clearpixel.gif" width="1" height="5"></td>
+					<td bgcolor="#D3DEE6" valign="top" width="100%">
+						<table border="0" cellspacing="0" cellpadding="0" width="100%">
+							<tbody><tr><td bgcolor="#6782B5"><img src="images/c_right-right_corner1.gif" width="2" height="13" border="0" alt=""></td></tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellspacing="0" cellpadding="0" style="background: url('images/bottom1_bg.gif'); " width="100%">
+				<tbody><tr>
+					<td style="background: url('images/bottom1.gif') no-repeat left; " width="545">
+						<table border="0" cellspacing="0" cellpadding="0" width="545">
+							<tbody><tr>
+								<td width="41" rowspan="3"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+								<td><font class="txt" face="Tahoma" size="1" color="#204084"><a href="/">HOME</a> | <a href="products.aspx">PRODUCTS</a> | <a href="affiliates.aspx">AFFILIATES</a> | <a href="support.asp">SUPPORT</a> | <a href="contact.aspx">CONTACT US</a> | <a href="about_us.aspx">ABOUT US</a> | <a href="press_release.aspx">PRESS RELEASE</a></font><br></td>
+							</tr>
+							<tr><td><img src="images/spacer.gif" width="1" height="4" border="0" alt=""></td></tr>
+							<tr><td><font class="txt1" face="Tahoma" size="1" color="#ffffff">Copyright © 2004 ParetoLogic Inc.<br>All Rights Reserved. <a href="/?w=2" style="color:#ffffff">Terms of Use.</a> <a href="/?w=3" style="color:#ffffff">Privacy Policy.</a></font></td></tr>
+						</tbody></table>
+					</td>
+					<td width="29"><img src="images/bottom2.gif" width="29" height="56" border="0" alt=""></td>
+					<td width="100%" style="background: url('images/bottom2_bg.gif'); "><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr><td height="1" bgcolor="#7E96C2"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+	<tr><td height="1" bgcolor="#DBE5F6"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+	<tr><td height="1" bgcolor="#96A9CC"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+	<tr><td height="1" bgcolor="#AEBFD5"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td></tr>
+</tbody></table>
+
+<!--
+<table border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td></td>
+	</tr>
+</table>
+-->
+
+</body></html>
