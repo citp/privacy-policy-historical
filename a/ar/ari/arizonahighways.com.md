@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608235304id_/http%3A//www.arizonahighways.com/page.cfm%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207012432id_/http%3A//www.arizonahighways.com/page.cfm%3Fname%3DPrivacy) for the most accurate reproduction.*
 
 # Arizona Highways
 
