@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sonomalibrary.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622064410id_/http%3A//www.sonoma.lib.ca.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonomalibrary.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192640id_/http%3A//sonomalibrary.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for the Sonoma County Library Web Pages
 
-###  Privacy Statement
+* * *
 
-[ En Español](https://web.archive.org/web/20030622064410id_/http%3A//www.sonoma.lib.ca.us/espprivacy.html)
+[ En Español](https://web.archive.org/web/20040602192640id_/http%3A//sonomalibrary.org/espprivacy.html)
 
 Thank you for visiting the Sonoma County Library’s web site. We are committed to preserving the privacy of our visitors and patrons. We do not collect personal information about you just because you visit this site. 
 
@@ -41,3 +41,14 @@ If you would like your email address removed from your patron record, you may se
 ### Web site contact
 
 If you have any questions about this privacy statement or the web site you can contact the web coordinator at: [wm@sonoma.lib.ca.us](mailto:wm@sonoma.lib.ca.us). 
+
+* * *
+
+Related documents:
+
+  * [Internet Access Policy](https://web.archive.org/policy.html)
+  * [Library Measures to Promote the Responsible Use of Computer Workstations](https://web.archive.org/Inetpolicy.html)
+  * [Public Computer Workstation Procedures](https://web.archive.org/workstation.html)
+  * [Web Guidelines](https://web.archive.org/guide.html)
+
+
