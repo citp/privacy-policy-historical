@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.ca privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201132015id_/http%3A//www.readersdigest.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.ca privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619002549id_/http%3A//www.readersdigest.ca/privacy.html) for the most accurate reproduction.*
 
 # Reader's Digest Canada - Privacy Policy
 
@@ -15,7 +15,7 @@ Some functions and services offered through our site require that you provide ce
 
   
 **Receiving E-mail and Postal Correspondence**  
-By submitting a form on this site you will be entitled to receive e-mail correspondence from Reader's Digest. This e-mail correspondence may include opportunities to enter sweepstakes as well as subscriber-only special offers, including discounts, free gifts, and opportunities to win cash and prizes. You may opt out of being included in our mailing list by updating your communications preferences by [clicking here](https://web.archive.org/web/20021201132015id_/http%3A//www.readersdigest.ca/comm_prefs.html). Our purpose is to provide visitors with useful information and offers that will interest them. Every e-mail we send out will include an explanation on how to opt-out from receiving future e-mail correspondence. 
+By submitting a form on this site you will be entitled to receive e-mail correspondence from Reader's Digest. This e-mail correspondence may include opportunities to enter sweepstakes as well as subscriber-only special offers, including discounts, free gifts, and opportunities to win cash and prizes. You may opt out of being included in our mailing list by updating your communications preferences by [clicking here](https://web.archive.org/web/20030619002549id_/http%3A//www.readersdigest.ca/comm_prefs.html). Our purpose is to provide visitors with useful information and offers that will interest them. Every e-mail we send out will include an explanation on how to opt-out from receiving future e-mail correspondence. 
 
 Reader's Digest will not share e-mail addresses we collect through our web sites with any unaffiliated third parties unless we specify at the point of collection. Occasionally, Reader's Digest may make names and postal addresses we collect through our web sites available to reputable companies whose products and/or services may interest you unless you opt out of being included in our postal mailing list. 
 
@@ -23,7 +23,7 @@ Reader's Digest may provide aggregate statistics about our customers, traffic pa
 
   
 **Opting Out**  
-Receiving e-mail messages from Reader's Digest is optional. You may choose not to receive e-mail, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive e-mail or wish to correct information you provided to Reader's Digest, please [click here](https://web.archive.org/web/20021201132015id_/http%3A//www.readersdigest.ca/comm_prefs.html) to go to the Communications Preferences Form. 
+Receiving e-mail messages from Reader's Digest is optional. You may choose not to receive e-mail, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive e-mail or wish to correct information you provided to Reader's Digest, please [click here](https://web.archive.org/web/20030619002549id_/http%3A//www.readersdigest.ca/comm_prefs.html) to go to the Communications Preferences Form. 
 
 Reader's Digest will use commercially reasonable efforts to delete records from our database when we receive requests to do so; however because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance. 
 
