@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2004-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040426160905id_/http%3A//www.solium.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011000845id_/http%3A//solium.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Solium Capital Inc. | Privacy Policy
 
