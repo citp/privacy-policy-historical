@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chessgames.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202204548id_/http%3A//www.chessgames.com/chessprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessgames.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603200856id_/http%3A//www.chessgames.com/chessprivacy.html) for the most accurate reproduction.*
 
 # ChessGames.com Privacy Notice
 
