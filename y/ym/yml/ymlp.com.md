@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymlp.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605095811id_/http%3A//www.ymlp.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymlp.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204164853id_/http%3A//www.ymlp.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Your Mailinglist Provider - Professional yet easy-to-use mailing list hosting
 
