@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sxsw.com privacy policy that was archived on 2001-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011216220817id_/http%3A//www.sxsw.com/general/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sxsw.com privacy policy that was archived on 2002-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603175709id_/http%3A//www.sxsw.com/general/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
@@ -27,8 +27,8 @@
    into your rotator, change the "sponnr" variable
    to the actual number of sponsor .gifs you plan to
    load. */
-
 number_of_sponsors=3;
+
 
 var sctr=0;
 var halt=0;
@@ -52,9 +52,11 @@ for (i=0;i<number_of_sponsors;i++){
 //durl[0]="http://www.sxsw.com/ClickThruTracker.php?ClickThru=www.cirrus.com";
 //durl[2]="http://www.sxsw.com/ClickThruTracker.php?ClickThru=www.nextel.com";
 
-isn[0].src="/_img/JBeamTrans.gif";
+isn[0].src="/_img/JimBeamnew.gif";
 isn[1].src="/_img/AusChronTrans.gif";
 isn[2].src="/_img/MLiteTrans.gif";
+
+
 
 /* Finally, replace the URL's below with those of
    your sponsors IN THE SAME ORDER. */
@@ -62,6 +64,9 @@ var durl=new Array();
 durl[0]="http://www.sxsw.com/ClickThruTracker.php?ClickThru=www.jimbeam.com";
 durl[1]="http://www.sxsw.com/ClickThruTracker.php?ClickThru=www.auschron.com";
 durl[2]="http://www.sxsw.com/ClickThruTracker.php?ClickThru=www.millerlite.com";
+
+
+
 
 /* This script is set to rotate every 10 seconds.
    (5000=5 seconds, so 30000 would equal 30, etc)
@@ -126,6 +131,12 @@ table, td {
 	color:		black;
 }
 
+h1 {
+	font-family:	Helvetica, Verdana, Arial;
+	font-size:	24px;
+	color:		grey;
+}
+
 h2 {
 	font-family:	Helvetica, Verdana, Arial;
 	font-size:	21px;
@@ -135,6 +146,12 @@ h2 {
 h3 {
 	font-family:	Helvetica, Verdana, Arial;
 	font-size:	16px;
+	color:		#663300;
+}
+
+h4 {
+	font-family:	Helvetica, Verdana, Arial;
+	font-size:	13px;
 	color:		#663300;
 }
 
@@ -231,8 +248,12 @@ h3 {
 		<a class="imglink" href="/registrant_directory/" onmouseover="document.images['reg'].src='/_img/regTXToverBLU.gif'" onmouseout="document.images['reg'].src='/_img/regTXToutBLU.gif'">
 			<img src="/_img/regBLU.gif" width="60" height="60" border="0" alt="REGISTRANT DIRECTORY"></a></td>
 
-		<td width="117">
-		<img src="/_img/1PixelTrans.gif" width="117" height="70" alt=""></td>
+		<td align="center" valign="bottom" width="60">
+		<a class="imglink" href="/forum/" onmouseover="document.images['forum'].src='/_img/forumTXToverBLU.gif'" onmouseout="document.images['forum'].src='/_img/forumTXToutBLU.gif'">
+			<img src="/_img/forumBLU.gif" width="60" height="60" border="0" alt="FORUM"></a></td>
+
+		<td width="57">
+		<img src="/_img/1PixelTrans.gif" width="57" height="70" alt=""></td>
 
 		<td colspan="2" width="120" align="center" valign="bottom">
 		<a href="npgspo.htm" onclick="doIt();return false;" onmouseover="dispIt();return true;" class="imglink">
@@ -268,12 +289,17 @@ h3 {
 			<img src="/_img/merchTXToutBLU.gif" width="60" height="13" border="0" name="merch" alt=""></a></td>
 
 		<td width="90" bgcolor="#6699CC" align="center" background="/_img/1PixelBlackBLU.gif" alt="">
+
 		<!-- REGISTRANT DIRECTORY -->
 		<a class="imglink" href="/registrant_directory/" onmouseover="document.images['reg'].src='/_img/regTXToverBLU.gif'" onmouseout="document.images['reg'].src='/_img/regTXToutBLU.gif'">
 			<img src="/_img/regTXToutBLU.gif" width="90" height="13" border="0" name="reg" alt=""></a></td>
 
-		<td width="117" bgcolor="#6699CC"><!-- SPACER -->
-		<img src="/_img/1PixelBlackBLU.gif" width="117" height="13" border="0" alt=""></td>
+		<td align="center" valign="bottom" width="60" bgcolor="6699cc">
+		<a class="imglink" href="/forum/" onmouseover="document.images['forum'].src='/_img/forumTXToverBLU.gif'" onmouseout="document.images['forum'].src='/_img/forumTXToutBLU.gif'">
+			<img src="/_img/forumTXToutBLU.gif" width="60" height="13" border="0" alt="FORUM" name="forum"></a></td>
+
+		<td width="57" bgcolor="#6699CC"><!-- SPACER -->
+		<img src="/_img/1PixelBlackBLU.gif" width="57" height="13" border="0" alt=""></td>
 
 		<td width="107" bgcolor="#6699CC"><!-- SPACER -->
 		<img src="/_img/1PixelBlackBLU.gif" width="107" height="13" border="0" alt=""></td>
@@ -288,7 +314,7 @@ h3 {
 		<td width="13">
 		<img src="/_img/TLcornBLU.gif" width="13" height="13" border="0" alt=""></td>
 
-		<td colspan="7" bgcolor="#ffffff" background="/_img/TopBorderBLU.gif">
+		<td colspan="8" bgcolor="#ffffff" background="/_img/TopBorderBLU.gif">
 		<img src="/_img/1PixelTrans.gif" alt=""></td>
 
 		<td width="13"><img src="/_img/TRcornBLU.gif" width="13" height="13" alt=""></td>
@@ -296,10 +322,10 @@ h3 {
 	<tr>
 		<td valign="top" height="300">
 
-		
+ 		
 		<p>
 
-		<a href="/attend/plat.php">
+		<a href="/attend/">
 		<img src="/_img/REG_trans.gif" border="0"></a><br>
 
 <!------------------------------------>
@@ -307,11 +333,17 @@ h3 {
 <!------------------------------------>
 
 		<a align="left" href="/attend/"><img src="/_includes/_img/REG_formlink.gif" border="0" alt="SXSW REGISTRATION"></a><br>
+<!--
+		<a align=left href="/schedule/">
+		<img src="/_img/SKED_TXTlinkLeft.gif" border=0
+alt="SXSW SCHEDULES"></a><br>
+		 
 
-
+-->
 		<a class="leftnav" href="/film/"><img src="/_img/FItrans.gif" width="150" height="27" border="0" alt="FILM HOME"></a><br>
-				<a href="_pdf/FormsFIApp.pdf">
-		<img src="/_includes/_img/FI_formlink.gif" border="0" alt="FILM SUBMISSION FORM"></a><br>
+
+		
+
 		<a class="leftnav" href="/interactive/">
 		<img src="/_img/IAtrans.gif" width="150" height="27" border="0" alt="INTERACTIVE HOME"></a><br>
 		<!--	
@@ -320,14 +352,22 @@ h3 {
 -->
 		<a class="leftnav" href="/music/"><img src="/_img/MUtrans.gif" width="150" height="27" border="0" alt="MUSIC HOME"></a><br>
 
-				<a class="leftnav" href="_pdf/FormsMuApp.pdf">
-		<img src="/_includes/_img/MU_formlink.gif" border="0" alt="SHOWCASE APPLICATION"></a><br>
+		<br><br>
+
+<!--
+
+    
+  
+
+  
+-->
+
 		</p></td>
 
 		<td rowspan="2" bgcolor="#ffffff" align="left" background="/_img/LeftBorderBLU.gif">
 		<img src="/_img/1PixelBlackBLU.gif" width="1" height="100%" alt="">&nbsp;</td>
 
-		<td colspan="7" rowspan="2" bgcolor="#ffffff" align="center" valign="top">
+		<td colspan="8" rowspan="2" bgcolor="#ffffff" align="center" valign="top">
 
 		<table width="550" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
@@ -432,7 +472,7 @@ Austin, TX 78765 <br>
 		<td>
 		<img src="/_img/BLcornBLU.gif" width="13" height="13" border="0" alt=""></td>
 
-		<td colspan="7" background="/_img/BottomBorderBLU.gif">
+		<td colspan="8" background="/_img/BottomBorderBLU.gif">
 		<img src="/_img/1PixelTrans.gif" height="1" width="1" alt=""></td>
 
 		<td>
@@ -444,7 +484,7 @@ Austin, TX 78765 <br>
 		<td>
 		<img src="/_img/1PixelTrans.gif" height="3" border="0" alt=""></td>
 
-		<td colspan="9" background="/_img/1PixelBlackBLU.gif">
+		<td colspan="10" background="/_img/1PixelBlackBLU.gif">
 		<img src="/_img/1PixelTrans.gif" height="1" width="1" border="0" alt=""></td>
 	</tr>
 	<tr>
@@ -454,7 +494,7 @@ Austin, TX 78765 <br>
 		</a></td>
 
 <!-- FOOTER NAVIGATION LINKS -->
-		<td colspan="9" align="center">
+		<td colspan="10" align="center">
 		<font size="-2">
 
 		<a class="bottomnav" href="#top">TOP</a> &nbsp; &nbsp; 
