@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cjonline.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217224631id_/http%3A//cjonline.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjonline.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033245id_/http%3A//www.cjonline.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # CJOnline.com | The Topeka Capital-Journal
 
