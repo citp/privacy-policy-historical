@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the aaaagencysearch.com privacy policy that was archived on 2000-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001121071000id_/http%3A//www.aaaagencysearch.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaaagencysearch.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211173437id_/http%3A//aaaagencysearch.com/privacy.asp) for the most accurate reproduction.*
 
 # AAAAgencySearch.com > Privacy Policy
+
+| [](https://web.archive.org/web/20011211173437id_/http%3A//aaaagencysearch.com/default.htm)  
+---  
+| Agencies - Edit yourprofile  
+| [Privacy Policy](https://web.archive.org/web/20011211173437id_/http%3A//aaaagencysearch.com/privacy.asp)  
+| [Contact](https://web.archive.org/web/20011211173437id_/http%3A//aaaagencysearch.com/contact.asp)  
+| Agency Quick Search  
+  
+[](http://www.aaaa.org/)  
+  
+  
+Searchers    Agencies  
+
 
 ### Searchers
 
@@ -23,14 +36,14 @@ If you identify any errors in your company or personal information or need to ed
   
  **-or-**  
 
-  * contact Elaine Bonner at Little Tornadoes and she will promptly update your records.
+  * contact Abbi Davis at Little Tornadoes and she will promptly update your records.
 
 
 
 If you have any questions or concerns, please contact us as follows: 
 
-  * Elaine Bonner, Project Manager, Little Tornadoes  
-[Elaineb@littletornadoes.com](mailto:Elaineb@littletornadoes.com)
+  * Abbi Davis, Project Manager, Little Tornadoes  
+[Abbid@littletornadoes.com](mailto:abbid@littletornadoes.com)
 
 
 
@@ -59,13 +72,13 @@ If you identify any errors in your company or personal information or need to ed
   
  **-or-**  
 
-  * contact Elaine Bonner at Little Tornadoes and she will promptly update your records.
+  * contact Abbi Davis at Little Tornadoes and she will promptly update your records.
 
 
 
 If you have any questions or concerns, please contact us as follows: 
 
-  * Elaine Bonner, Project Manager, Little Tornadoes  
-[Elaineb@littletornadoes.com](mailto:Elaineb@littletornadoes.com)
+  * Abbi Davis, Project Manager, Little Tornadoes  
+[Abbid@littletornadoes.com](mailto:abbid@littletornadoes.com)
 
 
