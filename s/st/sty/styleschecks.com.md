@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618012024id_/http%3A//www.styleschecks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201225500id_/http%3A//www.styleschecks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy ... The Styles Check Company
 
@@ -19,9 +19,11 @@ We never make the e-mail addresses of those who access our site available to oth
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. Please provide us with your correct phone number. This information is never shared with other organizations. 
 
-[](http://www.checkcrafters.com/)[Home](https://web.archive.org/web/20000618012024id_/http%3A//www.styleschecks.com/index.html) | [Personal Checks & Accessories](https://web.archive.org/web/20000618012024id_/http%3A//www.styleschecks.com/personal.html) | [Prices](https://web.archive.org/web/20000618012024id_/http%3A//www.styleschecks.com/prices.html) | [Contact Styles](https://web.archive.org/web/20000618012024id_/http%3A//www.styleschecks.com/contact.html) | [Order](https://web.archive.org/web/20000618012024id_/http%3A//www.styleschecks.com/order.html)
+[](http://www.checkcrafters.com/)[Home](https://web.archive.org/web/20001201225500id_/http%3A//www.styleschecks.com/index.html) | [Personal Checks & Accessories](https://web.archive.org/web/20001201225500id_/http%3A//www.styleschecks.com/personal.html) | [Prices](https://web.archive.org/web/20001201225500id_/http%3A//www.styleschecks.com/prices.html) | [Contact Styles](https://web.archive.org/web/20001201225500id_/http%3A//www.styleschecks.com/contact.html) | [Order](https://web.archive.org/web/20001201225500id_/http%3A//www.styleschecks.com/order.html)
 
 * * *
 
-©2000 The Styles Check Company, Inc.   
-[Privacy Policy](https://web.archive.org/web/20000618012024id_/http%3A//www.styleschecks.com/privacy.html)
+[](http://www.cpsa-checks.org/)
+
+©2000 The Styles Check Company, Inc.  
+[Privacy Policy](https://web.archive.org/web/20001201225500id_/http%3A//www.styleschecks.com/privacy.html)
