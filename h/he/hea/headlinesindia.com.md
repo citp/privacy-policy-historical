@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headlinesindia.com privacy policy that was archived on 2002-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020907142057id_/http%3A//www.headlinesindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headlinesindia.com privacy policy that was archived on 2003-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030418132311id_/http%3A//www.headlinesindia.com/privacy.html) for the most accurate reproduction.*
 
 # EARTHQUAKE AND RELIEF in GUJARAT
 
