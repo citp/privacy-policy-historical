@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209074353id_/http%3A//www.pbs.org/hplink/redir/aboutsite/aboutsite_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608143547id_/http%3A//www.pbs.org/hplink/redir/aboutsite/aboutsite_privacy.html) for the most accurate reproduction.*
 
 # PBS | About This Site . Privacy Policy
 
@@ -45,4 +45,4 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 **Rules of the Road**
 
-Please also make sure to read pbs.org's [Rules of the Road](https://web.archive.org/web/20031204102542id_/http://www.pbs.org/aboutsite/aboutsite_rules.html) to understand the additional terms and conditions which apply to your use of our sites.
+Please also make sure to read pbs.org's [Rules of the Road](https://web.archive.org/web/20040610175241id_/http://www.pbs.org/aboutsite/aboutsite_rules.html) to understand the additional terms and conditions which apply to your use of our sites.
