@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202090952id_/http%3A//www.fertilethoughts.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602115651id_/http%3A//www.fertilethoughts.net/privacystatement.html) for the most accurate reproduction.*
 
 # Fertile Thoughts
 
@@ -6,6 +6,18 @@
 **FertileThoughts.com** **is an online community site for people who are dealing with family building issues.** ** Our mission is to provide timely, comprehensive, and accessible medical information on infertility treatments and family building matters, and to give people a place to share their experiences with others dealing with similar situations. We are independent of any drug company, HMO, medical practice, or other health care organization in order to ensure unbiased, objective, credible information. We keep the right to choose who will advertise with us, in order to make sure that no harmful or offensive products or services are offered on our site.**
 
 **We respect our users’ privacy by limiting the gathering of personal and identifying information, using this information only to ensure that online activities within FertileThoughts are appropriate, and share this information with affiliates and partners only at the aggregate or anonymous level.**
+
+**Confidentiality and privacy are important not only to you but also to your fellow members. We highly encourage the following practices:**
+
+ **
+  1. What is said in one post should not be taken to another post by a different member.
+  2. Avoid mentioning your personal information publicly. This includes but not limited to full real names, employment and phone numbers of the employees in their own buildings, address, email addresses, etc. 
+  3. Similarly to the above please don't expose fellow members' personal information in your posts. 
+  4. Please don't discuss other members' personal affairs in your posts. This includes any item from their private life and health condition. After all, you probably wouldn't like someone else discussing your private affairs in public. 
+**
+
+
+**We hope that you adopt our privacy policy as your own when it comes to discussions.**
 
 **Following is our complete privacy policy.**
 
@@ -79,6 +91,4 @@ We have business relationships that can be viewed under our [Partners and Affili
 
 **Contacting FertileThoughts**
 
-If you have any questions about this privacy statement, the practices of **FertileThoughts** , or if you ever feel uncertain about whether **FertileThoughts** is following the privacy policy we have described here, please notify us by e-mail to [rond@yrd.com](mailto:rond@yrd.com). We will make every reasonable effort to find and correct the problem promptly.
-
-**Advertising on FertileThoughts is managed by 24/7 Media. The following is their privacy policy:** 24/7 Media recognizes that continuing respect for Internet users' privacy is of the utmost importance in ensuring that advertisers will find the Internet an effective vehicle to reach consumers. 24/7 Media is deeply committed to protecting privacy and fostering consumer confidence. We honor Internet users' privacy rights by giving our consumers Notice, Choice, Access, and Security regarding the collection and use of information about them. 24/7 Media provides this Privacy Policy to make clear to consumers what we do, how we do it, and how the public may direct our collection and use of marketing information. We provide all users the opportunity to contact us at [privacy@247media.com](mailto:privacy@247media.com) with any questions or concerns.
+If you have any questions about this privacy statement, the practices of **FertileThoughts** , or if you ever feel uncertain about whether **FertileThoughts** is following the privacy policy we have described here, please notify us by e-mail to [privacy@fertilethoughts.com](mailto:privacy@fertilethoughts.com). We will make every reasonable effort to find and correct the problem promptly.
