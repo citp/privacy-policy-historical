@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritypro.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201131231id_/http%3A//www.celebritypro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritypro.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602110508id_/http%3A//www.celebritypro.com/privacy.htm) for the most accurate reproduction.*
 
 # CelebrityPro.com - Privacy Statement
 
@@ -6,13 +6,6 @@
 
 
 **Navigation Menu**
-
-  
-[](http://www.celebritypro.com/headlines.htm)
-
-[](http://www.recommend-it.com/l.z.e?s=379843)
-
-[](http://apps.flycast.com/webkit/main.cgi?2509512)
 
 |  |   
 
