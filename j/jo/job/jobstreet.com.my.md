@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstreet.com.my privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603124544id_/http%3A//www.jobstreet.com.my/trust_e.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.my privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010004559id_/http%3A//www.jobstreet.com.my/trust_e.htm) for the most accurate reproduction.*
 
 # JobStreet.com - Trust-E
 
