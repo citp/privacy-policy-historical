@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604145755id_/http%3A//brockport.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202021827id_/http%3A//www.brockport.edu/privacy.html) for the most accurate reproduction.*
 
 # SUNY Brockport - Communication Faculty and Staff Profiles
-
-  
-
 
 ## **Web Privacy Policy**
 
@@ -46,7 +43,7 @@ Further, the disclosure of information, including _personal information_ , colle
 
 ### Retention of Information Collected Through Our Web Site
 
-We retain the information collected through our Web site in accordance with the records retention and disposition requirements of the [New York State Arts & Cultural Affairs Law](http://www.archives.nysed.gov/services/recmgmt.htm).  In general, our Internet services logs, comprising electronic files or automated logs created to monitor access and use of our Web site, are maintained for not less than three backup cycles or the end of the budget year to facilitate departmental annual reporting, whichever is greater.  Public reports generated from the information in these logs provide only aggregate information and will remain on file indefinitely for purposes of comparison.  Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed at the end of this policy.
+We retain the information collected through our Web site in accordance with the records retention and disposition requirements of the [New York State Arts & Cultural Affairs Law](http://www.archives.nysed.gov/a/nysaservices/ns_mgr_start_rmlaw.shtml).  In general, our Internet services logs, comprising electronic files or automated logs created to monitor access and use of our Web site, are maintained for not less than three backup cycles or the end of the budget year to facilitate departmental annual reporting, whichever is greater.  Public reports generated from the information in these logs provide only aggregate information and will remain on file indefinitely for purposes of comparison.  Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed at the end of this policy.
 
 ### Access to and Correction of _Personal Information_ Collected Through Our Web Site
 
@@ -96,6 +93,3 @@ SUNY Brockport ITS
 Brockport, NY  14420
 
 Policy effective June 16, 2002.
-
-  
-
