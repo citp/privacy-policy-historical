@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602141930id_/http%3A//www.phillymag.com/content.php%3Fname%3Dprivacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205112538id_/http%3A//www.phillymag.com/content.php%3Fname%3Dprivacy.txt) for the most accurate reproduction.*
 
 # PhillyMag.com Home Page
 
@@ -38,7 +38,7 @@ Philadelphia Magazine may co-sponsor Promotions with other companies, in which c
 
 **Chats, Clubs, Forums, and Message Boards**
 
-Please consult our [Terms of Use](https://web.archive.org/web/20020602141930id_/http%3A//www.phillymag.com/terms.html) for a description of our chats, clubs, forums, and message boards ("Forum"). You should be aware that any Personal Information, such as your name and email address, as well as any other information or content that you post on a Forum, or otherwise specifically and knowingly disclose by use of a Forum, may be directly collected and used by Philadelphia Magazine and third parties. Therefore, you may receive unsolicited email as a result of your disclosure of such information. **You should have no expectation of privacy with respect to your communications through these forums.**
+Please consult our [Terms of Use](https://web.archive.org/web/20021205112538id_/http%3A//www.phillymag.com/terms.html) for a description of our chats, clubs, forums, and message boards ("Forum"). You should be aware that any Personal Information, such as your name and email address, as well as any other information or content that you post on a Forum, or otherwise specifically and knowingly disclose by use of a Forum, may be directly collected and used by Philadelphia Magazine and third parties. Therefore, you may receive unsolicited email as a result of your disclosure of such information. **You should have no expectation of privacy with respect to your communications through these forums.**
 
 **Surveys and Polls**
 
