@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimelibrary.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402051141id_/http%3A//crimelibrary.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimelibrary.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207090729id_/http%3A//www.crimelibrary.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # The Crime Library Privacy Policy
 
@@ -30,8 +30,4 @@
 > 
 >   
 >      
->  **Advertising**
->      
-> The Crime Library works with a third party that serves ads to this site. To find more about how FlyCast manages the privacy of information in conjunction with serving ads on this site, please go to:
->
->> <http://www.flycast.com/about_us/about-privacy.html>
+> 
