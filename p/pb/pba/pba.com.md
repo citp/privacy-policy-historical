@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pba.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215131219id_/http%3A//www.pba.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pba.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630033717id_/http%3A//www1.pba.com/privacy.asp) for the most accurate reproduction.*
 
 # PBA.com - Official site of the Professional Bowlers Association
 
