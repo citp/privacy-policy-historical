@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbcc.edu privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000504id_/http%3A//www.pbcc.edu/ipolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbcc.edu privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603121500id_/http%3A//www.pbcc.edu/ipolicy.asp) for the most accurate reproduction.*
 
 # Palm Beach Community College
 
