@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcstate.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607205920id_/http%3A//www.mcdonalds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcstate.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231013131id_/http%3A//www.mcdonalds.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Use the options in your web browser if you do not wish to receive a cookie or if
 
 **Links to Other Sites**
 
-We may offer links to sites that are not operated by McDonald's Corporation. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies. 
+We may offer links to sites that are not operated by McDonald's Corporation. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies. 
 
 **Other McDonald's Web Sites**
 
@@ -56,15 +56,16 @@ Many McDonald's restaurants are owned and operated by franchisees, who are indep
 
 **Changes to our Privacy Policy**
 
-From time to time, it may be necessary for McDonald's to change this privacy policy, so we suggest that you check here periodically. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information. 
+This privacy policy is effective as of June 8, 2004.From time to time, it may be necessary for McDonald's to change this privacy policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
 
-**How to Contact Us**
+ **How to Contact Us**
 
 If you have any [questions about our McDonald's Internet Privacy Policy](https://web.archive.org/usa/contact.html), please contact us at: 
 
 Privacy at McDonald's  
-McDonald's Customer Satisfaction Department  
+Dept. 062  
 One Kroc Drive  
 Oak Brook, IL 60523  
 USA  
-630/623-7644
+(800) 261-9827  
+or e-mail us at contact.privacy@mcd.com
