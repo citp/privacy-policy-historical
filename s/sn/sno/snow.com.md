@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snow.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207121900id_/http%3A//www.snow.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604120421id_/http%3A//snow.com/privacy.asp) for the most accurate reproduction.*
 
 # Snow.com | Vail Beaver Creek Breckenridge Keystone - Legal
 
@@ -69,7 +69,7 @@ If you indicate to us that you do not want to receive certain types of communica
 > 
 > An Internet protocol (IP) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your company’s local area network (LAN) or wide area network (WAN). Web servers - the powerful computers that provide web pages for viewing - automatically identify your computer by the IP address assigned to it during your session online. 
 > 
-> VRMC may collect IP addresses for purposes of system administration, to report user Traffic Data to our corporate partners (as explained above), and to audit the use of our site. We do not ordinarily link a user’s IP address to the Personal Information of that user, which means each user’s session will be logged, but the user remains anonymous to us. However, we can and will use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with our site’s [Terms and Conditions of Use](https://web.archive.org/web/20001207121900id_/http%3A//www.snow.com/legal.asp) or terms of service, or to protect our service, site, or other users. 
+> VRMC may collect IP addresses for purposes of system administration, to report user Traffic Data to our corporate partners (as explained above), and to audit the use of our site. We do not ordinarily link a user’s IP address to the Personal Information of that user, which means each user’s session will be logged, but the user remains anonymous to us. However, we can and will use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with our site’s [Terms and Conditions of Use](https://web.archive.org/web/20010604120421id_/http%3A//snow.com/legal.asp) or terms of service, or to protect our service, site, or other users. 
 > 
 > **PLEASE NOTE:** Under certain circumstances, IP addresses and/or domain names may be linked to personally identifiable information, when said information is stored in databases managed by Internet registrars or registries such as [Network Solutions](http://www.networksolutions.com/). 
 > 
