@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211224222id_/http%3A//www.mivu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606202802id_/http%3A//mivu.org/privacy) for the most accurate reproduction.*
 
 # Michigan Virtual University - Privacy Statement
 
@@ -19,4 +19,4 @@ Chief Technology Officer
 Michigan Virtual University  
 3101 Technology Parkway, Suite G  
 Lansing, MI 48910  
-E-mail: [kmilton@mivu.org](mailto:kmilton@mivu.org)**
+E-mail: kmilton at mivu dot org**
