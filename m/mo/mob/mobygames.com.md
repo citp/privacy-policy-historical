@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603235049id_/http%3A//mobygames.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204193332id_/http%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,6 +77,15 @@ Our users are given the opportunity to 'opt-out' of having their information use
 Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at mobygames@mobygames.com. 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+
+## Advertising Networks
+
+MobyGames uses various Ad Networks to resell unsold advertising inventory. Please be aware that we MobyGames are not responsible for the privacy practices of such other Advertising Networks. This privacy statement applies solely to information collected by this Web site. We encourage our users to be aware that these Advertising Networks may have different privacy policies than MobyGames and to read the privacy statements of each and every web site that collects personally identifiable information.   
+
+
+* [ValueAd.com Privacy Statement](http://www.valuead.com/privacy.html "ValueAd.com Privacy Statement")
+* [ValueClick Privacy Statement](http://www.valueclick.com/privacy.html "ValueClick Privacy Statement")
+* [Adtegrity Privacy Statement](http://www.adtegrity.com/privacy.asp "Adtegrity Privacy Statement")
 
 ## Notification of Changes
 
