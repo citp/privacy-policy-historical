@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630082327id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214084430id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
 
 # Cheap Tickets and Student Travel Airfare Deals
 
@@ -84,9 +84,9 @@ Unique identifiers (such as email addresses) are collected to verify your identi
 We realize the sensitive nature of this information, and guard this information very carefully.
 
 **Cookies**  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies, but we do not store your personal data in those cookies. Rather, we use cookies to collect and store non-personal data, such as the name of the domain and host from which you access the Internet (for example, yahoo.com or princeton.edu); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. 
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies, but we do not store your personal data in those cookies. Rather, we use cookies to collect and store non-personal data, such as the name of the domain and host from which you access the Internet (for example, yahoo.com or princeton.edu); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site.
 
-Some of our business partners use cookies on our site, but we have no access to or control over these cookies. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future.
+Some of our business partners use cookies and action tags (also known as single pixel gifs or web beacons) on our site to measure advertising effectiveness, but we have no access to or control over these cookies and action tags. Any information that these third parties collect via cookies and action tags is completely anonymous. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Sharing Information**  
 No personally identifiable information will be shared with our partners except as part of an explicit transaction- for example, providing your customer data to the airline on which you've purchased a ticket. Some of your information may be shared on an aggregate basis only, but that information will not be sufficient to permit the recipient to identify you.
@@ -111,7 +111,7 @@ Children 17 and under are not permitted to create an account at StudentUniverse.
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-If you want to remove your information from our database, to not receive future communications, or to no longer receive our service, you can opt-out online on our homepage by clicking on "get our deal alerts" and completing the opt-out form, or by [clicking here](http://www.studentuniverse.com/aboutus/feedbackForm.jsp) to send us an email.
+If you want to remove your information from our database, to not receive future communications, or to no longer receive our service, you can opt-out online on our homepage by clicking on "Get our DealAlerts" and completing the opt-out form, or by [clicking here](http://www.studentuniverse.com/aboutus/feedbackForm.jsp) to send us an email.
 
 **Correct/Update**  
 You can correct or update your account profile information at any time by visiting:  
