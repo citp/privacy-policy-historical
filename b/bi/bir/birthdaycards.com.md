@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203214759id_/http%3A//www.birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605041413id_/http%3A//www.birthdaycards.com/privacy.shtml) for the most accurate reproduction.*
 
-# <!--TITLE-->
+# BirthdayCards.com - FREE Electronic Greeting Cards for All Occasions
 
   
 
@@ -25,8 +25,6 @@
 > 
 > Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 > 
-> Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
-> 
 > With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 > 
 > From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will use for these new purposes only data collected from the time of the policy change forward .
@@ -41,9 +39,9 @@
 > 
 > If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-[Support](http://www.birthdaycards.com/support.shtml) \- [Cards](http://www.birthdaycards.com/cat.mod) \- [About](http://www.birthdaycards.com/about.shtml) \- [Contact](http://www.birthdaycards.com/contact.shtml) \- [Artists](http://www.birthdaycards.com/artists.shtml) \- [Terms of Use](http://www.birthdaycards.com/terms.shtml) \- [Privacy](http://www.birthdaycards.com/privacy.shtml) \- [Remove](http://www.birthdaycards.com/remove.mod)
+[Support](http://www.birthdaycards.com/support.shtml) \- [Cards](http://www.birthdaycards.com/cat.mod) \- [About](http://www.birthdaycards.com/about.shtml) \- [Contact](http://www.birthdaycards.com/contact.shtml) \- [Artists](http://www.birthdaycards.com/artists.shtml) \- [Terms of Use](http://www.birthdaycards.com/terms.shtml) \- [Privacy](http://www.birthdaycards.com/privacy.shtml) \- [Remove](http://www.birthdaycards.com/remove.mod) \- [Links](http://www.birthdaycards.com/links.shtml)
 
-(C) Copyright 2001,2002,2003 Birthday Cards .com, Inc. 
+(C) Copyright 2001,2002,2003 Birthday Cards .com 
 
   
 BC Network:  [Hanukkah .com](http://www.hanukkah.com/?BC) \- [Holiday Greetings .com](http://www.holidaygreetings.com/?BC) \- [Christmas Carol .com](http://www.christmascarol.com/?BC) \- [Stocking Stuffer .com](http://www.stockingstuffer.com/?BC)  
@@ -53,4 +51,4 @@ BC Network:  [Hanukkah .com](http://www.hanukkah.com/?BC) \- [Holiday Greetings
   
 100% FREE Birthday Cards, Holiday Cards, Greeting Cards, Virtual Cards, Romantic Cards, Holiday Greetings, Birthday Greetings, Virtual Greetings, eCards, e-cards, e-Greetings, Love Cards, Anniversary Cards at Birthday Cards.com. 
 
-[](http://www.cardmasters-top50.com/topsites/main.cgi?ID=256)   [](http://www.supertop100.com/aff.prg?greeting,193)
+[](http://www.cardmasters-top50.com/topsites/main.cgi?ID=256)   [](http://www.supertop100.com/aff.prg?greeting,193)   [](http://www.ultimate50.com/aff.prg?greeting,1)
