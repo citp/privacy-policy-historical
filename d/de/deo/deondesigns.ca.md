@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208025624id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305065031id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
 
 # Deon Designs offer Web site design database development hosting and E-commerce solutions shopping carts search engine submitions photo gallery flash multimedia animations for small businesses and large companies
 
@@ -33,4 +33,4 @@ After your User session, always remember to log out to ensure that others cannot
 
 **Questions**
 
-Users may direct questions concerning this Privacy Policy and [contact us](https://web.archive.org/web/20041208025624id_/http%3A//www.deondesigns.ca/contact.php) any time.
+Users may direct questions concerning this Privacy Policy and [contact us](https://web.archive.org/web/20050305065031id_/http%3A//www.deondesigns.ca/contact.php) any time.
