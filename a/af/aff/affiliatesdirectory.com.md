@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2000-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000505124526id_/http%3A//www.affiliatesdirectory.com/Contact_Us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201190300id_/http%3A//affiliatesdirectory.com/contact-us/privacy.shtml) for the most accurate reproduction.*
 
-# 
-
-  
-|   | Your privacy is important to us - check out our Privacy Policy  
----|---|---  
-  
-
+# We repect your privacy at AffiliatesDirectory.com
 
 ## Privacy Statement for AffiliatesDirectory.com
 
@@ -16,7 +10,7 @@ We only use your IP address to help diagnose problems with our server, and to ad
 
 This site contains links to other sites. AffiliatesDirectory.com is not responsible for the privacy practices or the content of such Web sites. 
 
-When you subscribe to any of our Newsletters we ask for your Name and E-Mail address. We do **NOT** sell, distribute or in any way release your name or Email address to any third party and your details are only ever used for the management of the Newsletter and EZine. 
+When you subscribe to any of our Newsletters we ask for your Name and E-Mail address. We do **NOT** sell, distribute or in any way release your name or Email address to any third party and your details are only ever used for the management of the Newsletter and ezine. 
 
 ### Public Forums
 
@@ -38,14 +32,14 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/web/20000505124526id_/http%3A//www.affiliatesdirectory.com/Contact_Us/index.shtml)
+  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/web/20001201190300id_/http%3A//affiliatesdirectory.com/contact-us/index.shtml)
 
 
 
 If you are subscribed to our Newsletter and at any time you wish to unsubscribe you can do so automatically, and we give an undertaking never to contact you once you unsubscribe. To unsubscribe.
 
   1. Send an email to [the following address](mailto:Affiliate-News-request@affiliatesdirectory.com?subject=UNSUBSCRIBE)
-  2. Visit the E-Zine [Subscribe/Unsubscribe Page](https://web.archive.org/web/20000505124526id_/http%3A//www.affiliatesdirectory.com/EZine/)
+  2. Visit the E-Zine [Subscribe/Unsubscribe Page](https://web.archive.org/web/20001201190300id_/http%3A//affiliatesdirectory.com/ezine/)
   3. Use any of the subscribe/unsubscribe boxes which are placed on most pages of the site.
 
 
@@ -54,12 +48,15 @@ If you are subscribed to our Newsletter and at any time you wish to unsubscribe 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Please send an email by [using the following form.](https://web.archive.org/web/20000505124526id_/http%3A//www.affiliatesdirectory.com/Contact_Us/index.shtml)
+  1. Please send an email by [using the following form.](https://web.archive.org/web/20001201190300id_/http%3A//affiliatesdirectory.com/contact-us/index.shtml)
 
 
 
-If it is in relation to updating information contained in our Directory of Affiliate Programs please visit our [Modify an Affiliate Program](https://web.archive.org/web/20000505124526id_/http%3A//www.affiliatesdirectory.com/cgi-bin/links/modify.cgi) page.
+If it is in relation to updating information contained in our Directory of Affiliate Programs please visit our [Modify an Affiliate Program](https://web.archive.org/web/20001201190300id_/http%3A//affiliatesdirectory.com/cgi-bin/links/modify.cgi) page.
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Clint Pheeney PO Box 2087 Griffith NSW 2680 Australia
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+
+Webmaster  
+AffiliatesDirectory.com  PO Box 2087 Griffith NSW 2680 Australia
