@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueunplugged.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618153505id_/http%3A//www.blueunplugged.com/customersupport/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueunplugged.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025141id_/http%3A//blueunplugged.com/customersupport/privacy.asp) for the most accurate reproduction.*
 
 # BlueUnplugged :: The Worlds First & Only Bluetooth Store
 
@@ -32,7 +32,9 @@ By submitting your information you consent to the use of your information as set
 If you have any questions or comments relating to the privacy statement then please e-mail us at [customerservice@blueunplugged.com](mailto:customerservice@blueunplugged.com) or write to: 
 
 E-Commerce Administrator,  
-blueunplugged.com  
-4F Newton Court,  
-Wavertree Technology Park,   
-Liverpool L13 1EJ
+Blueunplugged.com  
+11 Meadow Avenue,  
+Birkdale,  
+Southport, PR8 5HF,  
+United Kingdom  
+
