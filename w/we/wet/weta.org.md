@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2001-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010110202100id_/http%3A//www.weta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217145955id_/http%3A//www.weta.org/privacy.html) for the most accurate reproduction.*
 
 # WETA - Online Privacy Policy
 
-WETA Online Privacy Policy
+  
+
+
+## WETA Online Privacy Policy
 
 Protecting the privacy of our web site visitors is very important to us. Because we gather certain types of information about our users, we want to make sure you understand the ways in which we may and may not use the information you transmit to us when you visit WETA Online. This statement discloses the privacy practices for all WETA Web sites. 
 
@@ -75,6 +78,6 @@ Some members have already instructed us to code their membership. If the label o
 
 By using this site, you signify your agreement to the terms and conditions of this WETA Online Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of WETA Online following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/contact.html).
 
-**back to top**
+[Privacy Policy](https://web.archive.org/privacy.html) | [Terms & Conditions](https://web.archive.org/terms.html) | [Site Map](https://web.archive.org/sitemap.html)
 
-© Copyright 2000, GWETA.
+© Copyright 2001, GWETA.
