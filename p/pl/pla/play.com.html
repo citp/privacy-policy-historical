@@ -1,0 +1,457 @@
+<!--The following is the downloaded HTML source of the play.com privacy policy that was archived on 2004-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604170543id_/http%3A//www.play.com/play247.asp%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head><script language="javascript">
+
+<!--
+// Set up Screen Size and Co-Ordinate information
+/*	var screenheight = screen.availHeight - 10;
+	var screenwidth = screen.availWidth - 10;
+	var popupWidth = 600;
+	var popupHeight = 600;
+
+	var popupX = screenwidth - popupWidth;
+	var popupY = 10;
+
+	// for changing lanes pop up to go in middle of screen
+	var popx = screenwidth - 750;
+	popx = popx/2;
+	var popy = screenheight - popupHeight;
+	popy = popy/2;
+*/
+
+// Main Competition PopUp
+function PromoCompetitionPopUp(aspFile, productid,productRegion,width,height,x,y)
+{	
+	// Set up Screen Size and Co-Ordinate information
+	var screenheight = screen.availHeight - 10;
+	var screenwidth = screen.availWidth - 10;
+	var popupWidth = width;
+	var popupHeight = height;
+
+	var popupX = screenwidth - popupWidth;
+	var popupY = 10;
+
+	// for changing lanes pop up to go in middle of screen
+	var popx = screenwidth - 750;
+	popx = popx/2;
+	var popy = screenheight - popupHeight;
+	popy = popy/2;
+
+
+	// Ensure No competitions on PlayUsa.com for now
+	if(aspFile != null && aspFile != 'undefined' &&  productid != null && productid != 'undefined' )
+	{
+
+		 var win = null;
+		 var servercopy = '';
+
+		
+
+				if(aspFile.indexOf("http://") == -1)
+				{
+
+					 win = window.open("http://competition.play.com/"+aspFile+"?s="+escape(servercopy),
+					productid,
+					 			"width="+popupWidth+",height="+popupHeight+",left="+popupX+",top=0,resizable=no,scrollbars=yes");
+				}
+				else
+				{
+					 win = window.open(aspFile, productid,
+					 			"width="+popupWidth+",height="+popupHeight+",left="+popupX+",top=0,resizable=no,scrollbars=yes");
+				}
+			
+			
+			if(productid != '')
+			{
+				productid.toLowerCase();
+				if(productid.indexOf("promo_") == -1)
+				{
+					document.location.href = "play247.asp?page=title&r="+ productRegion + "&title="+productid;
+				}
+				else
+				{
+					// getrid of the promo
+					productid=productid.replace("promo_", "");
+					document.location.href = "play247.asp?page=promo&r="+ productRegion + "&id="+productid;
+				}
+			}
+			win.focus();
+	}
+
+	
+}
+
+
+
+
+// -->
+</script>
+
+
+
+
+
+<title>Play.com: DVDs, Music and Video Games</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="keywords" content="dvd, dvds, cd, cds, region 1, region 2, uk, import, online, buy, movie, video, region one, region two, playstation, ps2">
+<meta name="description" content="Play.com is the top site for multi region dvds in the UK. We stock all major region 1 and region 2 movies on DVD.">
+<link rel="stylesheet" href="playstylesheet3.css" type="text/css">
+<script language="JavaScript" src="menupopup.js"></script>
+<script language="JavaScript">
+<!--
+if (top.location != self.location) top.location = self.location;
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+function changeSelectStatus(theForm,boxchecked)
+{
+	if (boxchecked=="wlcball1")
+	{
+		if (theForm.wlcball1.checked)
+		{
+			theForm.wlcball2.checked = true;
+		}
+		else
+		{
+			theForm.wlcball2.checked = false;
+		}
+	}
+	if (boxchecked=="wlcball2")
+	{
+		if (theForm.wlcball2.checked)
+		{
+			theForm.wlcball1.checked = true;
+		}
+		else
+		{
+			theForm.wlcball1.checked = false;
+		}
+	}
+    for (i=0,n=theForm.elements.length;i<n;i++)
+        if (theForm.elements[i].name.indexOf('wlcb_') !=-1)
+			if (theForm.wlcball1.checked || theForm.wlcball2.checked)
+			{
+	            theForm.elements[i].checked = true;
+	        }
+	        else
+	        {
+				theForm.elements[i].checked = false;
+	        }
+}
+//-->
+</script>
+
+
+<script language="javascript">
+<!--
+
+function dojump() 
+	{ 
+	document.location.href = "play247.asp?page=promo&id=316&r=R2";
+	}
+
+
+function xmasjump()
+	{
+	document.location.href = "play247.asp?page=xmas";
+	}
+
+
+
+function jansalejump()
+	{
+	document.location.href = "play247.asp?page=jansale";
+	}
+
+function valentinesjump()
+	{
+	document.location.href = "play247.asp?page=valentines";
+	}
+
+function easterjump()
+	{
+	document.location.href = "play247.asp?page=easter";
+	}
+
+function jansaleregionjump(theLink)
+	{
+	document.location.href = theLink;
+	}
+
+
+
+	var screenheight = screen.availHeight - 10;
+	var screenwidth = screen.availWidth - 10;
+	var popupWidth = 600;
+	var popupHeight = 600;
+	var popupX = screenwidth - popupWidth;
+	var popupY = 10;
+
+
+	var popx = screenwidth - 750;
+	popx = popx/2;
+	var popy = screenheight - popupHeight;
+	popy = popy/2;
+
+
+
+function PopUpDoublePurchase(id,mainsite,pageArgs,localpur)
+{
+	
+	var copy = ',';
+	if(id != null && id != 'undefined' && id != '')
+	{
+	 if(copy.indexOf(id + ',') == -1  ) 
+			{
+			document.location.href=mainsite+pageArgs+localpur;
+			}
+		else
+			{
+			alert("You already have this item in your basket!");
+			}
+	}
+
+	
+}
+
+function PopUpLargeGadget(id,mainsite,pageArgs,localpur)
+{
+		var myString = new String();
+		myString = pageArgs;
+		var newString = new String ("+%26%+");
+		var results = myString.replace("+&+", newString);
+
+	alert("Please note that for security reasons this item will be shipped to your billing address.");	
+	document.location.href=mainsite+results+localpur;
+}
+
+function showsearchtips (url)
+	{
+	var win = window.open(url,"","width=400,height=400,resizable=no,scrollbars=yes");
+	win.focus();
+	}
+
+
+function showMobilePhoneNetworks (url)
+	{
+	var win = window.open(url,"","width=400,height=400,resizable=no,scrollbars=yes");
+	win.focus();
+	}
+
+
+function flagcorrections (url,id,region)
+	{
+	var win = window.open
+			  (url+"?mode=correct&pid="+id+"&r="+region,
+			   "corrections",
+			   "width=400,height=400,resizable=no,scrollbars=no");
+	win.focus();
+	}
+
+
+function siteseal()
+	{
+	var win = window.open("https://servicecenter.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&remote_host=https://digitalid.trustwise.com/globalServer/cgi-bin/haydn.exe&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=c84ad9c2c59c6c67e514b9cea5bf676d", "win", "toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=0,width=720,height=450");
+	win.focus();
+
+	}
+
+
+function goquicklinks()
+	{
+	var target = document.quicklinks.qldest[document.quicklinks.qldest.selectedIndex].value;			
+	if( target != "0" )
+		document.location.href=target;
+	}
+
+
+function browseGenre()
+	{
+	var target = document.frmBrowsegenre.browsegenre[document.frmBrowsegenre.browsegenre.selectedIndex].value;			
+	if( target != "0" )
+		document.location.href=target;
+	}
+
+
+function hyperlaunchPromo(url, windowName, width, height)
+	{
+		newWin = window.open(url,windowName,'width=' + width + ',height=' + height + ',alwaysLowered=0,alwaysRaised=1,channelmode=0,dependent=1,directories=0 ,fullscreen=0,hotkeys=0,location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=0,toolbar=0,z-lock=0,screenX=50,screenY=50,left=50,top=50"');
+	}
+
+
+
+
+
+
+function openATrailer(trailer, name, width, height) 
+	{
+	var moviewin = window.open(trailer, name, "toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=" + width + ",height="+height);
+	moviewin.focus();
+	}
+
+// -->
+</script><script language="JavaScript" type="text/javascript">
+<!--
+// Comments removed on 11th September 2003
+var	requiredVersion = 5;   
+var	useRedirect = false;
+var	flashPage = "movie.html"  
+var	noFlashPage = "noflash.html" 						  
+var	upgradePage = "upgrade.html"
+var	flash2Installed = false;
+var	flash3Installed = false;
+var	flash4Installed = false;
+var	flash5Installed = false;  
+var	flash6Installed = false;
+var	maxVersion = 6;          
+var	actualVersion = 0;    
+var	hasRightVersion = false;
+var	jsVersion = 1.0;
+// -->
+</script><script language="JavaScript1.1" type="text/javascript">
+<!--
+
+var	isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
+var	isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if we're on windows
+
+
+jsVersion = 1.1;
+
+if(isIE	&& isWin){
+  document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
+  document.write('on error resume next \n');
+  document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
+  document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
+  document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
+  document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
+  document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');  
+  document.write('</SCR' + 'IPT\> \n');
+}
+// -->
+</script><script language="JavaScript" type="text/javascript">
+<!--
+function detectFlash() {  
+    if (navigator.plugins) {
+	if (navigator.plugins["Shockwave Flash 2.0"]
+		|| navigator.plugins["Shockwave Flash"]) {
+	  var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+	  var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
+
+	  // DEBUGGING: uncomment next line to see the actual description.
+	  // alert("Flash plugin description: " + flashDescription);
+	  
+	  var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1)); 
+	  flash2Installed = flashVersion == 2;    
+	  flash3Installed = flashVersion == 3;
+	  flash4Installed = flashVersion == 4;
+	  flash5Installed = flashVersion == 5;
+	  flash6Installed = flashVersion >= 6;
+	}
+  }
+  
+for (var i = 2; i <= maxVersion; i++) {  
+if (eval("flash" + i + "Installed") == true) actualVersion = i;
+  }
+  
+  if(navigator.userAgent.indexOf("WebTV") != -1) actualVersion = 3;  
+  
+  // DEBUGGING: uncomment next line to display flash version
+  // alert("version detected: " + actualVersion);
+ if (actualVersion >= requiredVersion) {
+	if (useRedirect) {
+	  if(jsVersion > 1.0) {
+		window.location.replace(flashPage);  
+	  } else {
+		window.location = flashPage;
+	  }
+	}
+	
+	hasRightVersion = true;                
+  } else {  
+	if (useRedirect) {
+	  if(jsVersion > 1.0) {
+		window.location.replace((actualVersion >= 2) ? upgradePage : noFlashPage);
+	  } else {
+		window.location = (actualVersion >= 2) ? upgradePage : noFlashPage;
+	  }
+	}
+  }
+}
+
+
+detectFlash();	
+
+// -->
+</script></head>
+
+
+
+
+
+
+
+
+
+
+
+<body bgcolor="#ffffff" topmargin="0" marginheight="0"><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><map name="uppertabmap"><area shape="rect" coords="9,0,69,32" href="/play247.asp?page=front&amp;r=home" alt="Home"><area shape="rect" coords="70,9,121,32" href="/play247.asp?page=front&amp;r=R2" alt="DVD"><area shape="rect" coords="122,9,180,32" href="/play247.asp?page=front&amp;r=CD" alt="Music"><area shape="rect" coords="181,9,243,32" href="/play247.asp?page=front&amp;r=PS2" alt="Games"><area shape="rect" coords="244,9,330,32" href="/play247.asp?page=front&amp;r=ELEC" alt="Electronics"><area shape="rect" coords="331,9,403,32" href="/play247.asp?page=front&amp;r=GADG" alt="Gadgets"><area shape="rect" coords="404,9,495,32" href="/play247.asp?page=front&amp;r=ABCD" alt="Audiobooks"><area shape="rect" coords="496,9,574,32" href="/play247.asp?page=topsellers&amp;r=MOB_MONO" alt="Ringtones"></map><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td rowspan="2"><a href="/play247.asp" title="return to home page"><img src="newimages/playlogo2.gif" width="165" height="48" border="0" alt="play.com"></a></td><td align="right"><table cellpadding="0" cellspacing="0" border="0" height="17"><tbody><tr><td width="107" height="17" valign="top" align="right"><form action="https://www.playsecureserver1.com/order.asp" method="post" class="nomargin"><input type="hidden" name="action" value="myaccount"><input type="hidden" name="returnURL" value="http://www.play.com/play247.asp?page=privacy&amp;r=home&amp;title=0&amp;id=0&amp;adudisc=y&amp;cpage=1"><input type="hidden" name="transfer" value="transfer"><input type="hidden" name="source" value=""><input type="hidden" name="currency" value="257"><input type="hidden" name="regions" value="undefined"><input type="image" name="Account login" border="0" alt="Account login" src="newimages/tnav_myaccount.gif" width="77" height="17"></form></td><td width="96" height="17" valign="top" align="right"><form action="https://www.playsecureserver1.com/order.asp" method="post" name="chkform_top" class="nomargin"><input type="hidden" name="transfer" value="transfer"><input type="hidden" name="returnURL" value="http://www.play.com/play247.asp?page=privacy&amp;r=home&amp;title=0&amp;id=0&amp;adudisc=y&amp;cpage=1"><input type="hidden" name="source" value=""><input type="hidden" name="currency" value="257"><input type="hidden" name="regions" value="undefined"><input type="hidden" name="numitems" value="0"><input type="image" border="0" alt="checkout" src="newimages/tnav_checkout.gif" width="66" height="17"></form></td><td width="74" height="17" valign="top" align="right"><a href="/play247.asp?page=ordering"><img src="newimages/tnav_help.gif" width="44" height="17" alt="Help" border="0"></a></td><td width="102" height="17" valign="top" align="right"><a href="/play247.asp?page=contact"><img src="newimages/tnav_contactus.gif" width="72" height="17" alt="Contact Us" border="0"></a></td><td width="111" height="17" valign="top" align="right"><a href="http://www.playusa.com"><img src="newimages/tnav_international.gif" width="81" height="17" alt="International Sites: North America"></a></td>
+</tr></tbody></table></td></tr><tr valign="top"><td align="right">
+<script language="javascript">
+<!--
+// in this section we set up the content to be placed dynamically on thepage
+// customize movie tags and alternate html content below
+// if dynamic embedding is turned on
+if (!useRedirect)
+	{
+    // if we've detected an acceptable version
+    if( hasRightVersion )
+		{
+        var oeTags =
+			'<OBJECT CLASSID="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'+
+			'WIDTH="221" HEIGHT="31'+
+			'CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'+
+			'<PARAM NAME="MOVIE" VALUE="newimages/freedelivery_rocket.swf">'+
+			'<PARAM NAME="PLAY" VALUE="true">'+
+			'<PARAM NAME="LOOP" VALUE="False">'+
+			'<PARAM NAME="QUALITY" VALUE="high">'+
+			'<PARAM NAME="MENU" VALUE="false">'+
+			'<EMBED SRC="newimages/freedelivery_rocket.swf" '+
+			'WIDTH="221" HEIGHT="31" '+
+			'PLAY="true" LOOP="False" QUALITY="high" MENU="false" '+
+	        'TYPE="application/x-shockwave-flash"'+
+			'PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">'+
+			'</EMBED>'+
+			'</OBJECT>';
+
+		// embed the flash movie
+        document.write(oeTags);
+		}
+	else
+		{
+	    // flash is too old or we can't detect the plugin
+        var alternateContent =""; 
+        
+			alternateContent +='<IMG SRC="newimages/freeshipping2.gif" HEIGHT="31" WIDTH="221" border="0" alt="">';
+		
+
+
+		// insert non-flash content
+        document.write(alternateContent);
+		}
+	}
+
+// -->
+</script><img src="newimages/freeshipping2.gif" height="31" width="221" border="0" alt="">
+
+</td></tr></tbody></table>
+<img src="newimages/1pixel.gif" width="5" height="5" border="0"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="bottom" align="center"><img src="newimages/bar_uk2_none.gif" width="584" height="32" border="0" name="map" usemap="#uppertabmap"></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"><img src="newimages/bar_uk2_left.gif" width="10" height="26"></td><td><img src="newimages/bar_uk2_slice4.gif" height="6" width="1"></td><td width="50%" bgcolor="#FF6600" background="newimages/bar_uk2_slice4.gif"><img src="newimages/1pixel.gif" width="1" height="1"></td><td bgcolor="#FF6600" background="newimages/bar_uk2_slice4.gif"><img src="newimages/bar_uk2_none_.gif" width="584" height="6"></td><td width="50%" align="right" bgcolor="#FF6600" background="newimages/bar_uk2_slice4.gif"><img src="newimages/1pixel.gif" width="1" height="1"></td><td rowspan="2"><img src="newimages/bar_uk2_right.gif" width="10" height="26"></td></tr><tr><td><img src="newimages/bar_uk2_slice5.gif" height="20" width="1"></td><td colspan="3" align="center" valign="top" bgcolor="#FF6600" background="newimages/bar_uk2_slice5.gif"></td></tr></tbody></table><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="165" valign="top"><img src="newimages/t_search_2.gif" width="165" height="26" alt="Search"><table width="165" border="0" cellspacing="0" cellpadding="4" bgcolor="#EFEFEF" class="sideboxnotop"><tbody><tr><td align="left" class="textblack"><form class="nomargin" name="search" method="get" action="/play247.asp?page=search&amp;adudisc=y"><select class="textblack" name="searchtype"><option selected="" value="allproducts">All Products</option><option value="r2title">-----------------------</option><option value="r2title">DVD Title</option><option value="r2actor">DVD Actor</option><option value="r2director">DVD Director</option><option value="r2language">DVD Language</option><option value="r2subtitles">DVD Subtitles</option><option value="cdall">-----------------------</option><option value="cdall">All Music</option><option value="cdartisttitle">&nbsp;&nbsp; All CD</option><option value="cdtitle">&nbsp;&nbsp; CD Title</option><option value="cdartist">&nbsp;&nbsp; CD Artist</option><option value="sacdtitle">&nbsp;&nbsp; SACD</option><option value="dvdatitle">&nbsp;&nbsp; DVD Audio</option><option value="rmtitle">&nbsp;&nbsp; Music DVD</option><option value="abcdtitle">-----------------------</option><option value="abcdtitle">Audiobooks</option><option value="abcdnarrator">&nbsp;&nbsp; Narrator</option><option value="gameall">-----------------------</option><option value="gameall">All Games</option><option value="PC">&nbsp;&nbsp; PC</option><option value="PS2">&nbsp;&nbsp; PS2</option><option value="GBA">&nbsp;&nbsp; GBA</option><option value="GC">&nbsp;&nbsp; GameCube</option><option value="XBOX">&nbsp;&nbsp; Xbox</option><option value="MBL">&nbsp;&nbsp; Mobile</option><option value="ringtoneall">-----------------------</option><option value="ringtoneall">All Ringtones</option><option value="MOB_MONO">&nbsp;&nbsp; Standard</option><option value="MOB_POLY">&nbsp;&nbsp; Polyphonic</option><option value="MOB_T68">&nbsp;&nbsp; Backgrounds</option><option value="GADG">-----------------------</option><option value="GADG">Gadgets</option><option value="ELEC">-----------------------</option><option value="ELEC">Electronics</option></select><br><img src="newimages/spacer.gif" border="0" height="3" width="3"><br><input class="searchedit" type="text" name="searchstring" size="15" value=""><br><img src="newimages/spacer.gif" border="0" height="3" width="3"><br><input type="hidden" name="page" value="search"><input type="image" name="Go" border="0" src="newimages/b_go_2.gif"></form></td></tr><tr><td align="center" class="sidedashedline_2"><img src="newimages/spacer.gif" height="1" width="100"></td></tr><tr><td class="textblack"><a href="javascript:showsearchtips('http://www.play.com/searchtips.htm');">search tips »</a></td></tr></tbody></table><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><img src="newimages/t_shopping_2.gif" width="165" height="26" alt="Shopping basket"><table width="165" border="0" cellspacing="0" cellpadding="4" bgcolor="#EFEFEF" class="sideboxnotop"><tbody><tr><td></td></tr><tr><td class="textblack" align="left" valign="top" bgcolor="#EFEFEF">Your basket is empty.</td></tr><tr><td align="center" class="sidedashedline_2"><img src="newimages/spacer.gif" height="1" width="100"></td></tr><tr align="left"><td align="center" class="textblack"><strong>Currency:</strong><br>£ British Pounds</td></tr><tr align="left"><td class="textblack" align="center" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center"><a href="/play247.asp?page=privacy&amp;r=home&amp;title=0&amp;id=0&amp;adudisc=y&amp;cpage=1&amp;Cur=258"><img src="newimages/euro_flag.jpg" border="0"></a></td><td align="center"><a href="/play247.asp?page=privacy&amp;r=home&amp;title=0&amp;id=0&amp;adudisc=y&amp;cpage=1&amp;Cur=257"><img src="newimages/flag_uk_2.jpg" border="0"></a></td></tr><tr><td colspan="3"></td></tr><tr><td align="center"></td><td align="center"><img src="newimages/Arrow_Currency.gif" border="0" align="top" vspace="0"></td></tr></tbody></table></td></tr></tbody></table><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><img src="newimages/t_hotpick_paulross_2.gif" width="165" height="26" alt="Hot Pick"><table width="165" border="0" cellspacing="0" cellpadding="4" class="sideboxnotop"><tbody><tr><td class="sidecolumnpanel"><table cellpadding="2" cellspacing="0" border="0" width="130"><tbody><tr><td colspan="2" class="textblack"><a href="/play247.asp?pa=hp&amp;page=title&amp;r=R2&amp;title=122665">Saving Private Ryan </a></td></tr><tr><td valign="top"><a class="sideimagelink" href="/play247.asp?pa=hp&amp;page=title&amp;r=R2&amp;title=122665"><img src="/covers/122665s.jpg" width="58" height="88" class="sideimageline"></a></td><td class="textblack" valign="top"><div style="margin-left: 2px;"><span class="orangeprice">£7.99 Delivered</span><br>RRP: <span class="orange"><strike>£15.99</strike></span> You save: <span class="orange">£8.00</span><br></div></td></tr></tbody></table></td></tr></tbody></table><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><div id="TopSellers" style="cursor: default; left: 0; top: 0; width: 0; height: 0; position: absolute; visibility: hidden;"><table cellpadding="1" cellspacing="1"><tbody><tr><td align="center" valign="top" bgcolor="FFFFFF"><table cellpadding="0" cellspacing="0" class="sidepopupbox_2" width="100%"><tbody><tr><td align="center" class="sidepopupheader"><img src="newimages/t_topsellers_sidebar_2.gif" border="0"></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=R2" class="submenu">&nbsp;&nbsp;DVD&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=CD" class="submenu">&nbsp;&nbsp;Music&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=ABCD" class="submenu">&nbsp;&nbsp;Audiobooks&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=XBOX" class="submenu">&nbsp;&nbsp;Xbox Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=PS2" class="submenu">&nbsp;&nbsp;PS2 Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=GBA" class="submenu">&nbsp;&nbsp;GBA Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=GC" class="submenu">&nbsp;&nbsp;GameCube Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=PC" class="submenu">&nbsp;&nbsp;PC Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?page=topsellers&amp;r=MOB_MONO" class="submenu">&nbsp;&nbsp;Ringtones&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?page=topsellers&amp;r=MOB_POLY" class="submenu">&nbsp;&nbsp;Polyphonic&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?page=topsellers&amp;r=MOB_T68" class="submenu">&nbsp;&nbsp;Backgrounds&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=MBL" class="submenu">&nbsp;&nbsp;Mobile Phone Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_TopSellers(-1);clearTimeOuts();" onmouseout="hide_TopSellers(0);" href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=GADG" class="submenu">&nbsp;&nbsp;Gadgets&nbsp;</a></td></tr></tbody></table></td></tr></tbody></table></div><div id="ComingSoon" style="cursor: default; left: 0; top: 0; width: 0; height: 0; position: absolute; visibility: hidden;"><table cellpadding="1" cellspacing="1"><tbody><tr><td align="center" valign="top" bgcolor="FFFFFF"><table cellpadding="0" cellspacing="0" class="sidepopupbox_2" width="100%"><tbody><tr><td align="center" class="sidepopupheader"><img src="newimages/t_comingsoon_sidebar_2.gif" border="0"></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=R2" class="submenu">&nbsp;&nbsp;DVD&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=CD" class="submenu">&nbsp;&nbsp;Music&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=ABCD" class="submenu">&nbsp;&nbsp;Audiobooks&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=XBOX" class="submenu">&nbsp;&nbsp;Xbox Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=PS2" class="submenu">&nbsp;&nbsp;PS2 Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=GBA" class="submenu">&nbsp;&nbsp;GBA Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=GC" class="submenu">&nbsp;&nbsp;GameCube Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=PC" class="submenu">&nbsp;&nbsp;PC Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=MBL" class="submenu">&nbsp;&nbsp;Mobile Phone Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_ComingSoon(-1);clearTimeOuts();" onmouseout="hide_ComingSoon(0);" href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=GADG" class="submenu">&nbsp;&nbsp;Gadgets&nbsp;</a></td></tr></tbody></table></td></tr></tbody></table></div><div id="RecentReleases" style="cursor: default; left: 0; top: 0; width: 0; height: 0; position: absolute; visibility: hidden;"><table cellpadding="1" cellspacing="1"><tbody><tr><td align="center" valign="top" bgcolor="FFFFFF"><table cellpadding="0" cellspacing="0" class="sidepopupbox_2" width="100%"><tbody><tr><td align="center" class="sidepopupheader"><img src="newimages/t_recent_2.gif" border="0"></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=R2" class="submenu">&nbsp;&nbsp;DVD&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=CD" class="submenu">&nbsp;&nbsp;Music&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=ABCD" class="submenu">&nbsp;&nbsp;Audiobooks&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=XBOX" class="submenu">&nbsp;&nbsp;Xbox Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=PS2" class="submenu">&nbsp;&nbsp;PS2 Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=GBA" class="submenu">&nbsp;&nbsp;GBA Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=GC" class="submenu">&nbsp;&nbsp;GameCube Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=PC" class="submenu">&nbsp;&nbsp;PC Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=MBL" class="submenu">&nbsp;&nbsp;Mobile Phone Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_RecentReleases(-1);clearTimeOuts();" onmouseout="hide_RecentReleases(0);" href="/play247.asp?pa=ch&amp;page=front&amp;r=GADG" class="submenu">&nbsp;&nbsp;Gadgets&nbsp;</a></td></tr></tbody></table></td></tr></tbody></table></div><div id="Top100" style="cursor: default; left: 0; top: 0; width: 0; height: 0; position: absolute; visibility: hidden;"><table cellpadding="1" cellspacing="1"><tbody><tr><td align="center" valign="top" bgcolor="FFFFFF"><table cellpadding="0" cellspacing="0" class="sidepopupbox_2" width="100%"><tbody><tr><td align="center" class="sidepopupheader"><img src="newimages/t_top100_2.gif" border="0"></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_Top100(-1);clearTimeOuts();" onmouseout="hide_Top100(0);" href="/play247.asp?pa=ch&amp;page=alltime&amp;r=R2" class="submenu">&nbsp;&nbsp;DVD&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_Top100(-1);clearTimeOuts();" onmouseout="hide_Top100(0);" href="/play247.asp?pa=ch&amp;page=alltime&amp;r=CD" class="submenu">&nbsp;&nbsp;Music&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_Top100(-1);clearTimeOuts();" onmouseout="hide_Top100(0);" href="/play247.asp?pa=ch&amp;page=alltime&amp;r=XBOX" class="submenu">&nbsp;&nbsp;Xbox Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_Top100(-1);clearTimeOuts();" onmouseout="hide_Top100(0);" href="/play247.asp?pa=ch&amp;page=alltime&amp;r=PS2" class="submenu">&nbsp;&nbsp;PS2 Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_Top100(-1);clearTimeOuts();" onmouseout="hide_Top100(0);" href="/play247.asp?pa=ch&amp;page=alltime&amp;r=GBA" class="submenu">&nbsp;&nbsp;GBA Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_Top100(-1);clearTimeOuts();" onmouseout="hide_Top100(0);" href="/play247.asp?pa=ch&amp;page=alltime&amp;r=GC" class="submenu">&nbsp;&nbsp;GameCube Games&nbsp;</a></td></tr><tr><td class="chartcell" height="16"><a onmouseover="hide_Top100(-1);clearTimeOuts();" onmouseout="hide_Top100(0);" href="/play247.asp?pa=ch&amp;page=alltime&amp;r=PC" class="submenu">&nbsp;&nbsp;PC Games&nbsp;</a></td></tr></tbody></table></td></tr></tbody></table></div><img src="newimages/t_charts_2.gif" width="165" height="26" alt="Charts Menu"><table width="165" border="0" cellspacing="0" cellpadding="0" class="sideboxnotop"><tbody><tr><td class="chartcell"><img src="newimages/spacer.gif" border="0" height="2" width="2"></td></tr><tr><td class="chartcell" height="16" align="left" valign="top"><div class="wrap1"><span class="wrap2">&nbsp;<a href="/play247.asp?pa=ch&amp;page=topsellers&amp;r=R2" onmouseover="hideallmenus();sm_TopSellers(event);event.cancelBubble=true;return false" onmouseout="hide_TopSellers(0);">Top Sellers</a></span></div></td></tr><tr><td class="chartcell" height="16" align="left" valign="top"><div class="wrap1"><span class="wrap2">&nbsp;<a href="/play247.asp?pa=ch&amp;page=comingsoon&amp;r=R2" onmouseover="hideallmenus();sm_ComingSoon(event);event.cancelBubble=true;return false" onmouseout="hide_ComingSoon(0);">Coming Soon</a></span></div></td></tr><tr><td class="chartcell" height="16" align="left" valign="top"><div class="wrap1"><span class="wrap2">&nbsp;<a href="/play247.asp?pa=ch&amp;page=front&amp;r=R2" onmouseover="hideallmenus();sm_RecentReleases(event);event.cancelBubble=true;return false" onmouseout="hide_RecentReleases(0);">Recent Releases</a></span></div></td></tr><tr><td class="chartcell" height="16" align="left" valign="top"><div class="wrap1"><span class="wrap2">&nbsp;<a href="/play247.asp?pa=ch&amp;page=alltime&amp;r=R2" onmouseover="hideallmenus();sm_Top100(event);event.cancelBubble=true;return false" onmouseout="hide_Top100(0);">Top 100</a></span></div></td></tr><tr><td class="chartcell" height="1"><img src="newimages/spacer.gif" border="0" height="1" width="1"></td></tr></tbody></table><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><img src="newimages/t_aboutus_2.gif" width="165" height="26" alt="About Play.com"><table width="165" border="0" cellspacing="0" cellpadding="4" class="sideboxnotop"><tbody><tr><td class="textblack" align="left" valign="top" bgcolor="#EFEFEF"><a href="/play247.asp?page=ordering">How to order</a><br><a href="/play247.asp?page=delivery">Delivery information</a><br><a href="/play247.asp?page=returns">Returns policy</a><br><a href="/play247.asp?page=gadgetspolicy">Gadgets policy</a><br><a href="/play247.asp?page=privacy">Privacy</a><br><a href="/play247.asp?page=copyright">Copyright information</a><br><a href="/play247.asp?page=terms_conditions">Terms and conditions</a><br><a href="/play247.asp?page=contact">Contact us</a></td></tr></tbody></table><!--googleoff: all--><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><a href="/play247.asp?page=promo&amp;r=R2&amp;id=511" border="0"><img src="/sidebanners/BOGOF_SPECED.jpg" height="130" width="165" border="0" alt="Special Editions"></a><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><a href="/play247.asp?page=promo&amp;R=R2&amp;id=510" border="0"><img src="/sidebanners/startrek599.jpg" height="135" width="165" border="0" alt="Star Trek Movies"></a><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><a href="/play247.asp?page=promo&amp;r=R2&amp;id=519" border="0"><img src="/sidebanners/mgm80.jpg" height="135" width="165" border="0" alt="MGM 80th Anniversary!"></a><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><a href="/play247.asp?page=promo&amp;R=CD&amp;id=514" border="0"><img src="/sidebanners/4cdsfor20.gif" height="110" width="165" border="0" alt="4 CDs for £20!"></a><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><!--googleon: all--></td><td width="10"><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"></td><td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="5" valign="top" align="left" bgcolor="#CCCCCC"><img src="newimages/leftcorner.gif" width="9" height="26" border="0"></td><td class="mptitle_2" align="left" valign="middle" width="100%">Privacy</td><td align="right" width="8" valign="top" bgcolor="#333366"><img src="newimages/rightcorner.gif" width="9" height="26" border="0"></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="middleboxnotop" width="100%"><tbody><tr><td align="left" valign="top"><div class="lrmargin"><div class="textbig"><br>We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document.<br><br><span class="subheadblue">What information do we collect and why?</span><br>We only use the information you give us to process your order and provide a quick and convenient service to you in the future.<br><br>For us to process your order, we will need to know your name, e-mail address, delivery address, credit card number and expiry date.<br><br>Access is given to all information collected.<br><br><span class="subheadblue">Use of Cookies</span><br>Play.com uses "cookies" to collect information. A cookie is a small data file that most major Web sites write to your hard drive for record keeping purposes when you visit them. Cookies allow Play.com to improve your user experience, for example by remembering viewing preferences or displaying your recently viewed items. Play.com does not use cookies to retrieve information from your computer that was not originally sent in a cookie. Play.com does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever.<br><br><span class="subheadblue">Who has access to the information we collect?</span><br>We do not sell mailing lists to other companies, or divulge any of your personal details to other companies or individuals, unless it is to comply with legal requirement (for example, we are required to pass the details of any UK customers buying a television to the TV licensing authority).<br><br><span class="subheadblue">How is your information kept secure?</span><br>When you type in credit card information to the Play.com web site our secure servers ensure all details are encrypted at your browser before they are sent to us. While your order is being processed we store your personal details on our in-house servers. Our database is encrypted and the processing servers are not connected to the internet. The servers are physically secured under lock and key.<br><br>If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the information below <br><br><span class="subheadblue">Our Address:</span> <br><br>Play.com <br>PO Box 192<br>Jersey<br>JE4 8RP<br><br><a href="mailto:info@play.com">info@play.com</a><br>&nbsp;</div></div></td></tr></tbody></table></td><!--googleoff: all--><td width="10"><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"></td><td width="165" valign="top"><table width="165" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="/play247.asp?pa=sb&amp;page=title&amp;r=R2&amp;title=154406"><img src="banners/sb_R2_154406.jpg" border="0"></a></td></tr><tr><td><img src="newimages/spacer.gif" border="0" height="10" width="10"></td></tr><tr><td><a href="/play247.asp?pa=sb&amp;page=title&amp;r=R2&amp;title=147838"><img src="banners/sb_R2_147838.jpg" border="0"></a></td></tr></tbody></table><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><img src="newimages/t_countdown_2.gif" width="165" height="26" alt="COUNTDOWN"><table width="165" border="0" cellspacing="0" cellpadding="4" class="sideboxnotop"><tbody><tr><td class="sidecolumnpanel"><table cellpadding="0" cellspacing="2" border="0" width="100%"><tbody><tr><td valign="top"><a href="/play247.asp?page=title&amp;r=R2&amp;title=160727" undefined=""><img src="/covers/160727s.jpg" width="58" height="88" class="sideimageline"></a></td><td align="left" valign="top"><img src="newimages/24.gif" border="0"></td></tr><tr><td colspan="2" class="textblack"><a class="cn" href="/play247.asp?page=title&amp;r=R2&amp;title=160727">Lost In Translation </a></td></tr><tr><td colspan="2" class="textblack"><span class="orangeprice">£12.99 Delivered</span><br></td></tr></tbody></table></td></tr></tbody></table><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><img src="newimages/t_competition_2.gif" width="165" height="26" alt="Competition"><table width="165" border="0" cellspacing="0" cellpadding="4" class="sideboxnotop"><tbody><tr valign="top"><td class="textblack" bgcolor="#EFEFEF">Our "American Splendor" competition has now closed, the winner will be announced shortly.</td></tr></tbody></table><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><img src="newimages/t_secureshopping_2.gif" width="165" height="26" alt="Secure Shopping"><table width="165" border="0" cellspacing="0" cellpadding="0" class="sideboxnotop"><tbody><tr><td><a href="javascript:siteseal()" border="0"><img src="newimages/siteseal2.gif" width="163" height="47" border="0"></a></td></tr></tbody></table><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><a href="/play247.asp?page=promotions&amp;r=R2" border="0"><img src="/sidebanners/dvdbargslower.gif" height="125" width="165" border="0" alt="DVD Bargains"></a><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><a href="/play247.asp?page=promo&amp;R=R2&amp;id=492" border="0"><img src="/sidebanners/buffyboxsets.jpg" height="140" width="165" border="0" alt="Buffy Box Sets Half Price!"></a><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><a href="/play247.asp?page=promo&amp;r=R2&amp;id=525" border="0"><img src="/sidebanners/dday.jpg" height="130" width="165" border="0" alt="D-Day 60th Anniversary."></a><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><a href="/play247.asp?page=promo&amp;id=472&amp;r=ELEC" border="0"><img src="/sidebanners/memorex_str.gif" height="134" width="165" border="0" alt="Memorex Storage Solutions"></a><img src="newimages/10pxspacer.gif" width="10" height="10" border="0"><!--googleon: all--></td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td><img src="newimages/spacer.gif" border="0" height="20" width="10"></td></tr><tr><td align="center" class="textblack"><a href="/play247.asp?r=home&amp;page=front">Home</a> | <a href="/play247.asp?r=R2&amp;page=front">DVD</a> | <a href="/play247.asp?r=CD&amp;page=front">Music</a> | <a href="/play247.asp?r=PS2&amp;page=front">Games</a>&nbsp;|&nbsp;<a href="/play247.asp?r=ELEC&amp;page=front">Electronics</a>&nbsp;|&nbsp;<a href="/play247.asp?r=GADG&amp;page=front">Gadgets</a>&nbsp;|&nbsp;<a href="/play247.asp?r=ABCD&amp;page=front">Audiobooks</a>&nbsp;|&nbsp;<a href="/play247.asp?r=MOB_MONO&amp;page=front">Ringtones</a></td></tr><tr><td><img src="newimages/spacer.gif" border="0" height="10" width="10"></td></tr></tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="4" align="center"><tbody><tr><td class="dashedline"><img src="newimages/spacer.gif" border="0" height="2" width="1"></td></tr><tr><td class="textblack" align="center" valign="middle">we accept the following cards:</td></tr><tr><td align="center" valign="middle"><table border="0" cellspacing="3" cellpadding="0"><tbody><tr align="center" valign="middle"><td width="54"><img src="newimages/card_delta.gif" width="54" height="36"></td><td width="54"><img src="newimages/card_mastercard.gif" width="54" height="36"></td><td width="54"><img src="newimages/card_solo.gif" width="54" height="36"></td><td width="54"><img src="newimages/card_switch.gif" width="54" height="36"></td><td width="54"><img src="newimages/card_visa.gif" width="54" height="36"></td></tr></tbody></table>
+</td></tr><tr><td align="center" valign="middle" class="phone">0845-800-1020</td></tr><tr><td class="textblack" align="center" valign="middle"></td></tr><tr><td align="center" class="textblack">V7.187/1/157, © 1998-2004 Play.com</td></tr></tbody></table><!--© 1998-2002 Play.com-->
+
+
+</body></html>
