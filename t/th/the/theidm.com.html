@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the theidm.com privacy policy that was archived on 2004-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040625125138id_/http%3A//www.theidm.com/index.cfm%3FfuseAction%3DcontentDisplay.%26chn%3D1%26tpc%3D6) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theidm.com privacy policy that was archived on 2004-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209105359id_/http%3A//www.theidm.com/index.cfm%3FfuseAction%3DcontentDisplay.%26chn%3D1%26tpc%3D6) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
  	<title>The IDM respects and safeguards your privacy</title>
 	<meta http-equiv="PRAGMA" content="NO-CACHE">
 	<meta http-equiv="CACHE-CONTROL" content="NO-CACHE"> 
-	<meta http-equiv="Expires" content="Thu, 24 Jun 2004 13:35:16 GMT">
+	<meta http-equiv="Expires" content="Wed, 08 Dec 2004 10:49:39 GMT">
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<meta name="description" content="The Institute of Direct Marketing is the recognised leading body for the development of direct and interactive marketing. The IDM has a worldwide reputation for its membership, training, qualifications, consultancy, education, research and information services that keep direct and interactive marketing professionals abreast of new technologies, new media, new techniques and applications. The IDM's education, student and careers services help maintain a steady flow of talented graduates entering the profession.">
 	<meta name="keywords" content="institute of direct marketing, uk, teddington, professional, body, direct, marketing, practitioners, membership, vocational, dipdm, residential, training, advice, careers, consultancy, continuing, professional, development, diploma, events, research, college, vacancies, support, information, centre, regional, national">
@@ -27,188 +27,6 @@
 		}
 	 //-->
 	</script>
-
-
-<script language="JAVASCRIPT" type="text/javascript">
-
-<!--
-
-
-function _CF_onError(form_object, input_object, object_value, error_message)
-    {
-	alert(error_message);
-       	return false;	
-    }
-
-
-
-function _CF_hasValue(obj, obj_type)
-    {
-    if (obj_type == "TEXT" || obj_type == "PASSWORD")
-	{
-    	if (obj.value.length == 0) 
-      		return false;
-    	else 
-      		return true;
-    	}
-    else if (obj_type == "SELECT")
-	{
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj.options[i].selected)
-			return true;
-		}
-
-       	return false;	
-	}
-    else if (obj_type == "SINGLE_VALUE_RADIO" || obj_type == "SINGLE_VALUE_CHECKBOX")
-	{
-
-		if (obj.checked)
-			return true;
-		else
-       		return false;	
-	}
-    else if (obj_type == "RADIO" || obj_type == "CHECKBOX")
-	{
-
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj[i].checked)
-			return true;
-		}
-
-       	return false;	
-	}
-	}
-
-
-
-function _CF_checkinteger(object_value)
-    {
-    //Returns true if value is a number or is NULL
-    //otherwise returns false	
-
-    if (object_value.length == 0)
-        return true;
-
-    //Returns true if value is an integer defined as
-    //   having an optional leading + or -.
-    //   otherwise containing only the characters 0-9.
-	var decimal_format = ".";
-	var check_char;
-
-    //The first character can be + -  blank or a digit.
-	check_char = object_value.indexOf(decimal_format)
-    //Was it a decimal?
-    if (check_char < 1)
-	return _CF_checknumber(object_value);
-    else
-	return false;
-    }
-
-
-
-function _CF_checknumber(object_value)
-    {
-    //Returns true if value is a number or is NULL
-    //otherwise returns false	
-
-    if (object_value.length == 0)
-        return true;
-
-    //Returns true if value is a number defined as
-    //   having an optional leading + or -.
-    //   having at most 1 decimal point.
-    //   otherwise containing only the characters 0-9.
-	var start_format = " .+-0123456789";
-	var number_format = " .0123456789";
-	var check_char;
-	var decimal = false;
-	var trailing_blank = false;
-	var digits = false;
-
-    //The first character can be + - .  blank or a digit.
-	check_char = start_format.indexOf(object_value.charAt(0))
-    //Was it a decimal?
-	if (check_char == 1)
-	    decimal = true;
-	else if (check_char < 1)
-		return false;
-        
-	//Remaining characters can be only . or a digit, but only one decimal.
-	for (var i = 1; i < object_value.length; i++)
-	{
-		check_char = number_format.indexOf(object_value.charAt(i))
-		if (check_char < 0)
-			return false;
-		else if (check_char == 1)
-		{
-			if (decimal)		// Second decimal.
-				return false;
-			else
-				decimal = true;
-		}
-		else if (check_char == 0)
-		{
-			if (decimal || digits)	
-				trailing_blank = true;
-        // ignore leading blanks
-
-		}
-	        else if (trailing_blank)
-			return false;
-		else
-			digits = true;
-	}	
-    //All tests passed, so...
-    return true
-    }
-
-
-function  _CF_checkFlogin(_CF_this)
-
-    {
-
-    if  (!_CF_hasValue(_CF_this.userName, "TEXT" )) 
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.userName, _CF_this.userName.value, "Please enter a valid member/user No."))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-
-    if  (!_CF_checkinteger(_CF_this.userName.value))
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.userName, _CF_this.userName.value, "Please enter a valid member/user No."))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-
-    return true;
-
-    }
-
-
-//-->
-
-</script>
-
 </head>
 
 <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -252,7 +70,7 @@ function  _CF_checkFlogin(_CF_this)
 
 <a class="HeaderText_Small" tabindex="2" href='javascript:if (document.search_form.searchText.value != ""){document.search_form.submit();}else{alert("Please provide a search term");};' target="_self" onmouseout="document.images['search_button'].src='/_format/images/hme/newhome/go_24x19.gif'" onmouseover="document.images['search_button'].src='/_format/images/hme/newhome/go_24x19_r.gif'"><img src="/_format/images/hme/newhome/go_24x19.gif" width="24" height="19" alt="Go" border="0" name="search_button"></a>
 
-<img src="_format/images/shim.gif" width="1">
+<img src="/_format/images/shim.gif" width="1">
 <input type="hidden" name="searchType" value="free">
 </form>
 			
@@ -399,6 +217,12 @@ text-decoration :none;
 	
 	  
 			<div id="MC0Item0" name="mItem0" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
+					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=1&amp;tpc=222" class="HeaderText_Small">Direct, data, digital</a>
+			</div>
+	
+	
+	  
+			<div id="MC0Item0" name="mItem0" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
 					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=1&amp;tpc=198" class="HeaderText_Small">Press releases</a>
 			</div>
 	
@@ -466,7 +290,7 @@ text-decoration :none;
 			<a name="links1" class="Headertextb" href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=2">Membership</a>
 		</div>
 		
-		<div class="Norm" id="MenuContainer1" name="MenuContainer1" onmouseover="showMenu('MenuContainer1');" style="position:absolute; top:90px; left:71.625px; width:200px; border-color:white;visibility:hidden; z-index:10011" onmouseout="Hidemenu('MenuContainer1');">
+		<div class="Norm" id="MenuContainer1" name="MenuContainer1" onmouseover="showMenu('MenuContainer1');" style="position:absolute; top:90px; left:71.625px; width:200px; border-color:white;visibility:hidden; z-index:10012" onmouseout="Hidemenu('MenuContainer1');">
 	
 		
 		
@@ -477,6 +301,12 @@ text-decoration :none;
 	  
 			<div id="MC0Item1" name="mItem1" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
 					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=2&amp;tpc=129" class="HeaderText_Small">JOIN TODAY</a>
+			</div>
+	
+	
+	  
+			<div id="MC0Item1" name="mItem1" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
+					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=2&amp;tpc=34" class="HeaderText_Small">MY MEMBERSHIP/RECORD</a>
 			</div>
 	
 	
@@ -494,12 +324,6 @@ text-decoration :none;
 	
 	  
 			<div id="MC0Item1" name="mItem1" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
-					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=2&amp;tpc=34" class="HeaderText_Small">MY MEMBERSHIP/RECORD</a>
-			</div>
-	
-	
-	  
-			<div id="MC0Item1" name="mItem1" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
 					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=2&amp;tpc=37" class="HeaderText_Small">Directory of Members</a>
 			</div>
 	
@@ -507,6 +331,18 @@ text-decoration :none;
 	  
 			<div id="MC0Item1" name="mItem1" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
 					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=2&amp;tpc=133" class="HeaderText_Small">Events calendar</a>
+			</div>
+	
+	
+	  
+			<div id="MC0Item1" name="mItem1" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
+					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=2&amp;tpc=228" class="HeaderText_Small">Conferences</a>
+			</div>
+	
+	
+	  
+			<div id="MC0Item1" name="mItem1" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
+					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=2&amp;tpc=217" class="HeaderText_Small">Annual Symposium</a>
 			</div>
 	
 	
@@ -561,7 +397,7 @@ text-decoration :none;
 			<a name="links2" class="Headertextb" href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=3">Knowledge</a>
 		</div>
 		
-		<div class="Norm" id="MenuContainer2" name="MenuContainer2" onmouseover="showMenu('MenuContainer2');" style="position:absolute; top:90px; left:154px; width:200px; border-color:white;visibility:hidden; z-index:10023" onmouseout="Hidemenu('MenuContainer2');">
+		<div class="Norm" id="MenuContainer2" name="MenuContainer2" onmouseover="showMenu('MenuContainer2');" style="position:absolute; top:90px; left:154px; width:200px; border-color:white;visibility:hidden; z-index:10026" onmouseout="Hidemenu('MenuContainer2');">
 	
 		
 		
@@ -625,6 +461,12 @@ text-decoration :none;
 	
 	  
 			<div id="MC0Item2" name="mItem2" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
+					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=3&amp;tpc=216" class="HeaderText_Small">Campaign Showcase</a>
+			</div>
+	
+	
+	  
+			<div id="MC0Item2" name="mItem2" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
 					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=3&amp;tpc=22" class="HeaderText_Small">Legal briefings</a>
 			</div>
 	
@@ -632,12 +474,6 @@ text-decoration :none;
 	  
 			<div id="MC0Item2" name="mItem2" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
 					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=3&amp;tpc=214" class="HeaderText_Small">Best practice</a>
-			</div>
-	
-	
-	  
-			<div id="MC0Item2" name="mItem2" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
-					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=3&amp;tpc=155" class="HeaderText_Small">Euromonitor research</a>
 			</div>
 	
 	
@@ -686,7 +522,7 @@ text-decoration :none;
 			<a name="links3" class="Headertextb" href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=5">Training</a>
 		</div>
 		
-		<div class="Norm" id="MenuContainer3" name="MenuContainer3" onmouseover="showMenu('MenuContainer3');" style="position:absolute; top:90px; left:227px; width:200px; border-color:white;visibility:hidden; z-index:10040" onmouseout="Hidemenu('MenuContainer3');">
+		<div class="Norm" id="MenuContainer3" name="MenuContainer3" onmouseover="showMenu('MenuContainer3');" style="position:absolute; top:90px; left:227px; width:200px; border-color:white;visibility:hidden; z-index:10043" onmouseout="Hidemenu('MenuContainer3');">
 	
 		
 		
@@ -757,7 +593,7 @@ text-decoration :none;
 			<a name="links4" class="Headertextb" href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=6">Qualifications</a>
 		</div>
 		
-		<div class="Norm" id="MenuContainer4" name="MenuContainer4" onmouseover="showMenu('MenuContainer4');" style="position:absolute; top:90px; left:284px; width:200px; border-color:white;visibility:hidden; z-index:10048" onmouseout="Hidemenu('MenuContainer4');">
+		<div class="Norm" id="MenuContainer4" name="MenuContainer4" onmouseover="showMenu('MenuContainer4');" style="position:absolute; top:90px; left:284px; width:200px; border-color:white;visibility:hidden; z-index:10051" onmouseout="Hidemenu('MenuContainer4');">
 	
 		
 		
@@ -767,13 +603,13 @@ text-decoration :none;
 	
 	  
 			<div id="MC0Item4" name="mItem4" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
-					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=6&amp;tpc=125" class="HeaderText_Small">Portfolio</a>
+					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=6&amp;tpc=125" class="HeaderText_Small">Qualifications portfolio</a>
 			</div>
 	
 	
 	  
 			<div id="MC0Item4" name="mItem4" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
-					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=6&amp;tpc=126" class="HeaderText_Small">Start dates</a>
+					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=6&amp;tpc=126" class="HeaderText_Small">Course start dates</a>
 			</div>
 	
 	
@@ -786,12 +622,6 @@ text-decoration :none;
 	  
 			<div id="MC0Item4" name="mItem4" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
 					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=6&amp;tpc=135" class="HeaderText_Small">Free study aids</a>
-			</div>
-	
-	
-	  
-			<div id="MC0Item4" name="mItem4" class="HeaderText_Small" style="position:relative; top:0px; left:0px; visibility: inherit">
-					&nbsp;&nbsp;&nbsp;<a href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=6&amp;tpc=136" class="HeaderText_Small">International studies</a>
 			</div>
 	
 	
@@ -816,7 +646,7 @@ text-decoration :none;
 			<a name="links5" class="Headertextb" href="http://www.theidm.com/index.cfm?fuseAction=contentDisplay.&amp;chn=8">Universities</a>
 		</div>
 		
-		<div class="Norm" id="MenuContainer5" name="MenuContainer5" onmouseover="showMenu('MenuContainer5');" style="position:absolute; top:90px; left:377px; width:200px; border-color:white;visibility:hidden; z-index:10054" onmouseout="Hidemenu('MenuContainer5');">
+		<div class="Norm" id="MenuContainer5" name="MenuContainer5" onmouseover="showMenu('MenuContainer5');" style="position:absolute; top:90px; left:377px; width:200px; border-color:white;visibility:hidden; z-index:10056" onmouseout="Hidemenu('MenuContainer5');">
 	
 		
 		
@@ -909,6 +739,12 @@ createRequestObject();
 					<tbody><tr valign="top">
 						<td width="10px"><img src="/_format/images/shim.gif" alt="" width="9" height="9" border="0"></td>
 						<td width="149px" colspan="3"><a class="menu_level1" href="http://www.theidm.com/index.cfm?fuseaction=contentDisplay.&amp;chn=1&amp;tpc=1">Mission</a></td>
+					</tr>
+					
+				
+					<tr valign="top">
+						<td width="10px"><img src="/_format/images/shim.gif" alt="" width="9" height="9" border="0"></td>
+						<td width="149px" colspan="3"><a class="menu_level1" href="http://www.theidm.com/index.cfm?fuseaction=contentDisplay.&amp;chn=1&amp;tpc=222">Direct, data, digital</a></td>
 					</tr>
 					
 				
@@ -1136,17 +972,18 @@ createRequestObject();
 				
 				
 					
-
 <script language="JavaScript1.2">
 function checkLogin() {
-	if (document.Flogin.userName.value != '' && document.Flogin.password.value != '')
+
+
+if (document.testlogin.userName.value != '' && document.testlogin.password.value != '')
 		{
-		if(isNaN(document.Flogin.userName.value))
+		if(isNaN(document.testlogin.userName.value))
 			{
 			alert('To log in please enter a valid member/user no.');
 			}else{
-		popupform('Flogin', 'login', 500, 440);
-		document.Flogin.submit();
+		popupform('testlogin', 'login', 500, 440);
+		document.testlogin.submit();
 		}
 		}
 	else
@@ -1155,7 +992,11 @@ function checkLogin() {
 		};
 }
 </script>
-    <form name="Flogin" action="http://www.theidm.com/index.cfm?fuseaction=popups.login-2" method="POST" onsubmit="return _CF_checkFlogin(this)" target="login">	
+     
+
+
+<form name="testlogin" action="http://www.theidm.com/index.cfm?fuseaction=popups.login-2" method="post" target="login">	 
+
 <table border="0" cellspacing="0" cellpadding="0">  
 	<tbody><tr>
 		<td valign="top">
@@ -1168,7 +1009,9 @@ function checkLogin() {
 					<td width="44"><span class="bodytxtsmall">&nbsp;User&nbsp;no.</span></td>
 					<td>							
 							
-					    <input type="text" name="userName" class="SearchInput" tabindex="2">
+					     <input class="SearchInput" type="text" name="userName" tabindex="2">
+					    
+					
 					</td>
 				</tr>
 				<tr valign="middle">
@@ -1195,10 +1038,13 @@ function checkLogin() {
 					<td colspan="2"><a href="/index.cfm?fuseAction=deliveryZone." class="LNavLink8"><img hspace="2" src="/_format/images/hme2/big_arrow.gif" alt="" width="9" height="9" border="0">Delivery zone (0 items) </a></td>
 				</tr>
 			</tbody></table>	
-					
+				
 		</td>
 	</tr>
+	
 </tbody></table>
+
+
 </form>
 			
 				
