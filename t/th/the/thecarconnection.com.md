@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626000635id_/http%3A//thecarconnection.com/index.asp%3Farticle%3D164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214012333id_/http%3A//www.thecarconnection.com/index.asp%3Farticle%3D164) for the most accurate reproduction.*
 
 # The Car Connection [ The Web's Automotive Authority ]
 
