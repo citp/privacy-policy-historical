@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204104635id_/http%3A//www.dcup.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307000850id_/http%3A//www.dcup.com/private.html) for the most accurate reproduction.*
 
 # Private Policy
 
@@ -9,11 +9,14 @@ HTTP Electronic Publishing, Inc. has created this privacy statement in order to 
 Our site's registration form requires users to give us contact information (like their name and email address) and financial information (like their account or credit card numbers). 
   * Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. 
   * Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is NOT shared with anyone outside of our company. 
-  * This site contains links to other sites. DCUP.COM is not responsible for the privacy practices or the content of such Websites.   
+  * This site contains links to other sites. DCUP.COM is not responsible for the privacy practices or the content of such Websites. 
 
 
 
-
-SECURITY This site has high-level encryption and state-of-the-art security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+SECURITY This site has high-level encryption and state-of-the-art security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
 CONTACTING THE WEB SITE If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us. Email cs@DCUP.COM
+
+Close This Window
+
+[**Return Back To Main Page**](https://web.archive.org/web/20050307000850id_/http%3A//www.dcup.com/index.html)
