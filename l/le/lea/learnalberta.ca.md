@@ -1,47 +1,6 @@
-> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812125219id_/http%3A//www.learnalberta.ca/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213113601id_/http%3A//www.learnalberta.ca/Templates/Login/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# LearnAlberta.ca
-
-|    
----  
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-**
-
-[Overview
-
-](https://web.archive.org/web/20030812125219id_/http%3A//www.learnalberta.ca/Overview.asp)**  
-**
-
-[Guided Tour
-
-](https://web.archive.org/web/20030812125219id_/http%3A//www.learnalberta.ca/GuidedTour.asp)**  
-**
-
-[Resources
-
-](https://web.archive.org/web/20030812125219id_/http%3A//www.learnalberta.ca/LearningResources.asp)**  
-**
-
-[Activities
-
-](https://web.archive.org/web/20030812125219id_/http%3A//www.learnalberta.ca/Activities.asp)**  
-   
-   
-   
-  | 
+# LearnAlberta.ca Privacy Policy
 
 #### Alberta Learning Web Site Privacy Statement
 
