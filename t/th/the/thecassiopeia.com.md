@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023072937id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122319id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy For Internet Business Consultants For 3rd Millennium
 
@@ -62,13 +62,8 @@ with respect to information gathered on their web pages. Such information is rec
 
   We work with third parties that serve ads to our network of sites. These third parties may use the demographic and/or behavioural data provided by Partners to deliver relevant, targeted advertisements to the Partner Site. This demographic and behavioural data is obtained and maintained in a manner such that no connection can be drawn between the profiles supplied to the third parties and the End-User's personally identifiable information.
 
-  To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on one of our Network, please go to [ http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html).  
-To find out more about how DoubleClick manages the privacy of information in conjunction with serving ads on our Network, please see the commitment to protect internet user privacy at [ http://www.doubleclick.net:8080/privacy_policy](http://www.doubleclick.net:8080/privacy_policy).  
-To find out more about how Advertising.com manages the privacy of information in conjunction with serving ads on our Network, please go to <http://www.advertising.com/privacy/index.html>.
-
   **Conclusion**
 
 In case you have any more questions on the topic, please email us at the above addresses.
 
-**Internet Business Consultants For 3rd Millennium** [**Home**](https://web.archive.org/Portal/Home.html) [About Us](https://web.archive.org/AboutUs) [Privacy Policy](https://web.archive.org/ppolicy.html) [Contact Us](https://web.archive.org/Portal/ContactUs.html) [ Link To Us](https://web.archive.org/Guide/Links.html) **Copyright 2000-2001 ©©[ theCassiopeia.com](https://web.archive.org/) All Rights Reserved**  
-
+**Internet Business Consultants For 3rd Millennium**
