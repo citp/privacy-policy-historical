@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasb.org privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626170041id_/http%3A//www.tasb.org/help/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasb.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204003708id_/http%3A//www.tasb.org/help/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy. TASB On Line
 
@@ -16,7 +16,7 @@ We use your IP address (your computer's Internet address) to help diagnose probl
 
 **Cookies**
 
-TASB uses cookies (text files placed on your hard drive by a Web server) to help personalize and maximize your experience and time on line. Cookies are not used to run programs or deliver viruses to your computer. They are uniquely assigned to your computer and can only be read by a Web server in the domain that issued the cookie to you. (Read more about how to manage cookies in [Terms and Conditions](https://web.archive.org/web/20030626170041id_/http%3A//www.tasb.org/help/terms_conditions.shtml).)
+TASB uses cookies (text files placed on your hard drive by a Web server) to help personalize and maximize your experience and time on line. Cookies are not used to run programs or deliver viruses to your computer. They are uniquely assigned to your computer and can only be read by a Web server in the domain that issued the cookie to you. (Read more about how to manage cookies in [Terms and Conditions](https://web.archive.org/help/terms_conditions.shtml).)
 
 **Registration and Forms**
 
@@ -33,7 +33,7 @@ From our site, you may register to attend events or obtain services. These regis
 
 
 
-**On-line Forums and Message Boards**
+**Online Forums and Message Boards**
 
 The TASB Web Site makes forums and message boards available to our members. Information you disclose in these areas becomes public information, so exercise caution when deciding what information to disclose.
 
