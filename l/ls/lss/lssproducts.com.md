@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409204042id_/http%3A//lssproducts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203174741id_/http%3A//lssproducts.com/privacy.html) for the most accurate reproduction.*
 
 # LS&S, LLC - Products for the Visually Impaired & Hard of Hearing
 
@@ -18,7 +18,7 @@ This privacy statement covers the site LSSPRODUCTS.COM.  Because this Web site 
 
 
 
-If users have questions or concerns regarding this statement, they should first contact info@lssonline.net by email.  
+If users have questions or concerns regarding this statement, they should first contact info@lssproducts.com by email.  
 
 #### Information Collection 
 
@@ -84,7 +84,7 @@ Choice/Opt-out
 
 Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information.   For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.  
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at info@lssonline.net. 
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at info@lssproducts.com. 
 
 Users of our site are always notified when their information is being collected by any outside parties.   We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
@@ -104,11 +104,11 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.   All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.   Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.   Furthermore, ALL employees are kept up-to-date on our security and privacy practices.   Every year, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected.   Finally, the servers that store personally identifiable information are in a secure environment. 
 
-If users have any questions about the security at our Web site, users can send an email to info@lssonline.net. 
+If users have any questions about the security at our Web site, users can send an email to info@lssproducts.com. 
 
 ## Correcting/Updating/Deleting/Deactivating Personal Information 
 
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at info@lssonline.net **.**   Or, contact us by telephone or postal mail at the contact information listed below. 
+If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at info@lssproducts.com **.**   Or, contact us by telephone or postal mail at the contact information listed below. 
 
 ##  
 
@@ -126,6 +126,6 @@ Phone 847-498-9777
 
 Fax 847-498-1482 
 
-Email [info@lssonline.net](mailto:info@lssonline.net)
+Email [info@lssproducts.com](mailto:info@lssproducts.com)
 
 Postal Address PO Box 673   Northbrook, IL   60065
