@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsbtv.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210122831id_/http%3A//www.wsbtv.com/station/1869260/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbtv.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613225613id_/http%3A//www.wsbtv.com/station/1869260/detail.html) for the most accurate reproduction.*
 
 # WSBTV.com - WSB-TV - Privacy Policy
 
