@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004161127id_/http%3A//www.entergy.com/corp/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603121727id_/http%3A//www.entergy.com/corp/legal/privacy.asp) for the most accurate reproduction.*
 
 # Entergy Corporate | Privacy
 
@@ -33,7 +33,7 @@ Our Web server does not automatically recognize or record the domain name or e-m
 
 Customers that voluntarily supply their e-mail address on-line may receive periodic e-mail messages from Entergy with information on new products and services or upcoming events or news that may be of interest.
 
-If you do not want to receive such e-mail from Entergy in the future, please let us know by sending us e-mail at the above address and tell us that you do not want to receive these types of e-mail messages from our company in the future.
+If you do not want to receive such e-mail from Entergy in the future, please let us know by sending us an e-mail at the above address and tell us that you do not want to receive these types of e-mail messages from our company in the future.
 
 Entergy does not make customer e-mail addresses available to other organizations nor do we make our customer e-mail list available to other organizations.
 
@@ -41,13 +41,13 @@ Entergy does not make customer e-mail addresses available to other organizations
 
 Customers that supply their postal address on-line may receive periodic mailings from Entergy with information on new products and services or upcoming events or news that may be of interest.
 
-If you do not want to receive such mailings from Entergy in the future, please let us know by sending us e-mail at the above address and tell us that you do not want to receive these types of mailings from our company in the future.
+If you do not want to receive such mailings from Entergy in the future, please let us know by sending us an e-mail at the above address and tell us that you do not want to receive these types of mailings from our company in the future.
 
 **Telephone**
 
 Customers that supply their telephone number on-line may receive telephone contact from Entergy with information on new products and services or upcoming events or news that may be of interest.
 
-If you do not want to receive such telephone calls from Entergy in the future, please let us know by sending us e-mail at the above address and tell us that you do not want to receive these types of telephone calls from our company in the future. 
+If you do not want to receive such telephone calls from Entergy in the future, please let us know by sending us an e-mail at the above address and tell us that you do not want to receive these types of telephone calls from our company in the future. 
 
   
 
