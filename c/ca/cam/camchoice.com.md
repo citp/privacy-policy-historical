@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the camchoice.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601192925id_/http%3A//www.camchoice.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camchoice.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604192646id_/http%3A//www.camchoice.com/privacy.htm) for the most accurate reproduction.*
 
-# Webcam Directory Camchoice The best live webcams
+# Camchoice - Privacy
 
 **Information Automatically Logged**
 
@@ -29,6 +29,8 @@ Unique identifiers (such as social security numbers) are collected from Web site
 
 Demographic and profile data is also collected at our site.   
 We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+
+We cannot guarantee that every submited site is actually entered by the legal owner, if you find your site listed in Camchoice, and you do not agree with the listing , please let us know per e-mail and the site will be removed asap. We cannot take any responsibility on copyrighted material like text and images submited by camchoice users.
 
   
 **Surveys**
@@ -73,4 +75,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us . 
 
 You can visit the following URL: <http://www.camchoice.com/cgi-bin/cam/mlist.cgi>  
-You can remove yourself from each service we offer as explained in each of the services. 
+You can remove yourself from each service we offer as explained in each of the services.
