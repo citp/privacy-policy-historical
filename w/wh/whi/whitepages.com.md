@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213170905id_/http%3A//whitepages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204014936id_/http%3A//whitepages.com/10001/privacy) for the most accurate reproduction.*
 
 # WhitePages.com - Online Directory Assistance
 
