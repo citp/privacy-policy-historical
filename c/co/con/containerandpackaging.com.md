@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the containerandpackaging.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121141240id_/http%3A//containerandpackaging.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the containerandpackaging.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613095915id_/http%3A//www.containerandpackaging.com/privacy.htm) for the most accurate reproduction.*
 
 # Plastic Containers
 
