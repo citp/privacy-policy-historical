@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albertsons.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401201944id_/http%3A//www.albertsons.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertsons.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020517id_/http%3A//www.albertsons.com/privacy.asp) for the most accurate reproduction.*
 
 # Albertsons - Security & Privacy
 
@@ -17,14 +17,14 @@ We send periodic emails for notification of monthly specials or site enhancement
 
 Albertsons.com contains links to other Web sites and is not responsible for the privacy practices or the content of such Web sites. This includes our Corporate Web Site Recipe Center powered by Meals.com.
 
-To contact Albertsons.com directly, regarding your personal information or our privacy policies and security practices, you may write to [cs_online@albertsons.com](mailto:cs_online@albertsons.com) or phone us at 1-888-746-7252.
+To contact Albertsons.com directly, regarding your personal information or our privacy policies and security practices, you may write to [cs_online@albertsons.com](mailto:cs_online@albertsons.com) or phone us at 1-877-932-7948.
 
 Security  
 Albertsons.com has implemented the leading encryption technology available to provide you with a safe and secure shopping experience. Confidential information is encrypted using Secure Socket Layer (SSL) and Secure Electronic Transaction (SET) technology to ensure privacy and security when submitting an order.
 
 PIN (personal identification number);
 
-If you choose not to send your credit card information across the internet, call one of our customer service representatives at **1-888-746-7252** and they will help set up your own PIN account. The customer service representative will ask you for your credit card information and you will be asked to select a 6 - 8 digit pin number. This can be a combination of letters or numbers. Choose PIN as your payment method and enter the PIN number given to you in the required field and your order will be processed.
+If you choose not to send your credit card information across the internet, call one of our customer service representatives at **1-877-932-7948** and they will help set up your own PIN account. The customer service representative will ask you for your credit card information and you will be asked to select a 6 - 8 digit pin number. This can be a combination of letters or numbers. Choose PIN as your payment method and enter the PIN number given to you in the required field and your order will be processed.
 
 Cookies  
 A "cookie" is a small file stored on your computer by a Web site to give you a unique identification. Cookies help make it easier for you to use our Web site, and they help us provide you with the information you need - when and where you need it. Albertsons.com uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests, including the ability to set preferences so that you can optimize your shopping experience, and to save your password so you don't have to re-enter it each time you visit our site.
