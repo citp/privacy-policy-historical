@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608173520id_/http%3A//handbag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205004255id_/http%3A//www.handbag.com/aboutus/yourprivacy) for the most accurate reproduction.*
 
 # handbag.com : About us
 
@@ -16,20 +16,21 @@ You can access handbag.com and browse through certain parts of handbag.com witho
 If you choose not to provide the information that is requested, you may not be able to use the service which is being offered or obtain the information you seek. Handbag may also collect information that you provide as part of registrations, orders, surveys, contests and promotions and other communications with us. Handbag will collect your personal information only with your knowledge and your consent. 
 
 **Cookies**  
-Handbag.com Limited uses cookies in order to track your visit to handbag.com. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. The use of cookies is an industry standard, and many websites use them to provide useful features for their customers. Most browsers are initially set to accept cookies. If you'd prefer, you can set your browser to refuse cookies. You should be aware that areas of certain websites (which may include handbag.com) will not operate properly if you do not accept the cookies sent by it (For example, in Horoscopes you can select to always show your star sign first. If you do not accept cookies this selection can not be made.) 
+Handbag.com Limited uses cookies in order to track your visit to handbag.com. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. The use of cookies is an industry standard, and many websites use them to provide useful features for their customers. handbag.com may associate the information stored in a user's cookie with other personal data and information that the user has provided to Handbag. 
 
-Additionally, Handbag may associate the information stored in a user's cookie with other personal data and information that the user has provided to Handbag. Advertisers and business partners that you access on or through handbag.com may also send you cookies. Handbag does not control these cookies. 
+In addition handbag.com also embeds cookies from a number of third parties in the site to monitor usage and to help improve the service provided to its customers.
 
-IP Addresses  
-When you visit handbag.com your IP address will be automatically logged with Handbag. Your IP address is the number which is assigned to your computer when you access the Internet. Your IP address can be used to identify your computer and your point of access to the Internet. 
+Nedstat, an independent measurement company, gathers anonymous data regarding the visitors to the site on handbag.com's behalf to provide non-personal statistical information about visits to pages on the site, data on visitors' browser type and other general information.
 
-Third-party ad serving  
-The ads appearing on handbag.com are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to handbag.com, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve you ads. For more information about DoubleClick, its cookies, and how to opt out, please visit www.doubleclick.net/us/corporate/privacy 
+Doubleclick, an independent advertisement delivery company gathers anonymous data regarding the visitors to the site on handbag.com's behalf to provide non-personal statistical information about the number and type of adverts served on the site. 
 
-Third-party cookies  
-In the course of serving ads to handbag.com, our third-party advertiser may place or recognise a unique cookie on your browser. 
+Survey.com use cookies on the site to track the number of surveys running on the site and to limit the number of times a user will be presented with a customer research questionnaire.
 
-**How your information is used**  
+Advertisers and business partners that you access through handbag.com may also send you cookies. Handbag does not control these cookies.
+
+Most browsers are initially set to accept cookies. If you'd prefer, you can set your browser to refuse cookies (details can be found at www.aboutcookies.org). You should be aware that areas of certain websites (including handbag.com) do not operate properly if you refuse to accept cookies.
+
+ **How your information is used**  
 The personal information that you disclose to Handbag may be used to provide you with goods, services and features and to communicate with you. Such information may also be used for verification purposes, fulfilling orders, prizes, tracking compliance with the terms and conditions of use for handbag.com, http://www.handbag.com/copyright/ compliance with applicable laws and the performance of legal obligations. 
 
 Handbag uses the information obtained from cookies for several purposes. The cookies enable us to understand your own personal preferences and tailor your experience on handbag.com by using those preferences. Handbag also uses cookies to track user trends and patterns. The information which Handbag receives from cookies enables us to modify and improve handbag.com to meet the needs of our users, including yourself. 
