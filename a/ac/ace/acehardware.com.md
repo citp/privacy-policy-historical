@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acehardware.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034819id_/http%3A//www.acehardware.com/root/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acehardware.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210163054id_/http%3A//www.acehardware.com/root/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@
 
 Ace Hardware Corporation has created this privacy statement to explain our firm commitment to privacy. The following discloses our information gathering and dissemination practices for all Ace Hardware corporate web sites (
 
-[www.acehardware.com](https://web.archive.org/web/20020604034819id_/http%3A//www.acehardware.com/index.asp); [www.helpfulhardwareclub.com](http://www.helpfulhardwareclub.com/); [www.acecisupply.com](http://www.acecisupply.com/); and [www.acelbm.com](http://www.acelbm.com/)).  
+[www.acehardware.com](https://web.archive.org/web/20021210163054id_/http%3A//www.acehardware.com/index.asp); [www.helpfulhardwareclub.com](http://www.helpfulhardwareclub.com/); [www.acecisupply.com](http://www.acecisupply.com/); and [www.acelbm.com](http://www.acelbm.com/)).  
   
 **_Children_**  
 We recommend parents to supervise their children's on-line activities, including the use of our site, and possibly consider using parental control software available that can assist children from disclosing personal information without prior consent. For additional information about parental control tools and software, please consult the "Consumer Assistance" page of the [Direct Marketing Association Web](http://www.the-dma.org/).  
