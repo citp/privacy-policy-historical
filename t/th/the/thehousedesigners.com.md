@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210023112id_/http%3A//www.thehousedesigners.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602210030id_/http%3A//www.thehousedesigners.com/privacy.asp) for the most accurate reproduction.*
 
 # The House Designers; House Blueprints: Home blueprints, house plans,home plans, house design, home design, house plan, home plan, home design,house design and custom home design
 
 |  |  |  **Welcome to The House Designers  
-Today is December 9, 2002** |    |  [ **Contact Us** ](https://web.archive.org/contactus.asp) |   
+Today is June 2, 2003** |    |  [ **Contact Us** ](https://web.archive.org/contactus.asp) |   
 ---|---|---|---|---  
 Privacy & Security  
 ---  
