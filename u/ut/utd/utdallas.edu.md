@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utdallas.edu privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114001id_/http%3A//www.utdallas.edu/ir/policies/privacy_web.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utdallas.edu privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203014711id_/http%3A//www.utdallas.edu/ir/policies/privacy_web.html) for the most accurate reproduction.*
 
 # The University of Texas at Dallas (UTD) respects your privacy
 
