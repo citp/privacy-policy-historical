@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208105436id_/http%3A//www.homedecoratorsoutlet.com/page.php%3Ffile%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413174138id_/http%3A//homedecoratorsoutlet.com/page.php%3Ffile%3Dprivacy) for the most accurate reproduction.*
 
 # Home Decorators Collection
 
@@ -21,7 +21,7 @@ We do have forms on our site where a visitor may be asked to provide personal in
 
 If a visitor does wish to submit personal information, the information we collect is used to service the visitor's request (for example, to send one of our print catalogs). In addition, we may use the collected information to improve the content of our Web site, share it with other reputable organizations to help them contact consumers for marketing purposes, and use it internally to contact consumers for marketing purposes. 
 
-If you choose to supply us with your e-mail address, we will not share the e-mail address with other companies. You may receive a promotional e-mail from us periodically. If you wish to be removed from this mailing list, please click [HERE](https://web.archive.org/web/20021208105436id_/http%3A//www.homedecoratorsoutlet.com/subscribe.php) or write to us at the above address and tell us that you do not want to receive e-mail from our company. 
+If you choose to supply us with your e-mail address, we will not share the e-mail address with other companies. You may receive a promotional e-mail from us periodically. If you wish to be removed from this mailing list, please click [HERE](https://web.archive.org/web/20030413174138id_/http%3A//homedecoratorsoutlet.com/subscribe.php) or write to us at the above address and tell us that you do not want to receive e-mail from our company. 
 
 If you choose to supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please click [HERE](mailto:custserv@imail.kwcorp.com) to send an e-mail informing us of your request, or write to us at the above address. Also, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by clicking [HERE](mailto:custserv@imail.kwcorp.com) to send an e-mail, or by writing to us at the above address. If you do choose to be added to the do-not-share list, please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. 
 
