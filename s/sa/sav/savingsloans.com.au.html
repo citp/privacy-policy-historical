@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the savingsloans.com.au privacy policy that was archived on 2001-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011022024649id_/http%3A//savingsloans.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the savingsloans.com.au privacy policy that was archived on 2002-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601183252id_/http%3A//savingsloans.com.au/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Savings &amp; Loans Credit Union - Privacy</title>
@@ -44,22 +44,27 @@ function openSite2() { //v1.0
   status = ''
   RemoteWin = window.open("https://netteller.savingsloans.com.au","tsw_window","top=0,left=0,width=780,height=560,toolbar=no,location=0,scrollbars=yes,directories=no,status=yes,menubar=no,resizable=yes")
 }
+function openSite9() { //v1.0
+  status = ''
+  RemoteWin = window.open("pclink_check.asp","tsw_window","top=0,left=0,width=780,height=560,toolbar=no,location=0,scrollbars=yes,directories=no,status=yes,menubar=no,resizable=yes")
+}
 function openpopup(popurl){
-winpops=window.open(popurl,"","width=600,height=450,status,scrollbar=no,resizable=0,")
+winpops=window.open(popurl,"","width=600,height=450,status,scrollbars=no,resizable=0,")
+}
+function opensurvey(popurl){
+winpops=window.open(popurl,"","width=455,height=450,status,scrollbars=yes,resizable=0,")
 }
 
-//-->
-</script>
+// Pops up a window small enough to display the CALENDAR.ASP page
+function PopUpCalendar(myurl) {
+  RemoteWin = open(myurl, "calendarbits", 'toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=0,resizeable=0,left=300,top=250,width=205,height=130')
+}
 
-<link rel="stylesheet" href="teststyles.css" type="text/css">
-<script language="JavaScript1.2">
-<!--
-// begin absolutely positioned scrollable area object scripts 
 	function verifyCompatibleBrowser(){ 
-		this.ver=navigator.appVersion 	
+		this.ver=navigator.appVersion 
 		this.dom=document.getElementById?1:0 
 
-		this.ie5=((this.ver.indexOf("MSIE 5")>-1 || this.ver.indexOf("MSIE 6")>-1) && this.dom)?1:0; 	
+		this.ie5=((this.ver.indexOf("MSIE 5")>-1 || this.ver.indexOf("MSIE 6")>-1) && this.dom)?1:0; 
 		this.ie4=(document.all && !this.dom)?1:0; 
 		this.ns5=(this.dom && parseInt(this.ver) >= 5) ?1:0; 
 		this.ns4=(document.layers && !this.dom)?1:0; 
@@ -70,13 +75,6 @@ winpops=window.open(popurl,"","width=600,height=450,status,scrollbar=no,resizabl
 	bw=new verifyCompatibleBrowser() 
 
 
-	lstart=120 
-	loop=true  
-	speed=50 
-	pr_step=5 
-	iMyIcons=11
-	scrolling=true
-	currentSanta=1
 
 	function ConstructObject(obj,nest){ 
 	    nest=(!nest) ? '':'document.'+nest+'.' 
@@ -84,7 +82,8 @@ winpops=window.open(popurl,"","width=600,height=450,status,scrollbar=no,resizabl
 	  	this.css=bw.dom?document.getElementById(obj).style:bw.ie4?document.all[obj].style:bw.ns4?eval(nest+'document.'+obj):0; 
 		this.scrollHeight=bw.ns4?this.css.document.height:this.el.offsetHeight 
 		this.scrollWidth=bw.ns4?this.css.document.width:this.el.offsetWidth 
-		this.newsScroll=newsScroll;	
+
+		this.moveIt=b_moveIt; this.x; this.y; 
 		this.obj = obj + "Object" 
 		eval(this.obj + "=this") 
 		return this 
@@ -92,127 +91,78 @@ winpops=window.open(popurl,"","width=600,height=450,status,scrollbar=no,resizabl
 
 
 
-	//Makes the object scroll up 
-	function newsScroll(speed,ipos,iend,myTimer){ 
+	function b_moveIt(x,y){ 
+		this.x=x;this.y=y 
+
+		this.css.left=this.x 
+		this.css.top=this.y 
+	} 
+
+
+
+	function ClientX(){
 		if(bw.ns4 || bw.ns5){
-			subnavscroll=false
-		}
-		if (parseInt(this.css.left)>iend){
-			if(scrolling==true){
-
-				this.css.left=parseInt(this.css.left)-pr_step
-				this.css.top = (parseInt(ClientY())-95)+WindowScrollTop()
-				if(bw.ns4){
-					document.layers['santalayer'].document.images['mysanta'].src=sPic[currentSanta].src
-				}else{
-					document.images['mysanta'].src=sPic[currentSanta].src
-				}
-
-				currentSanta=currentSanta+1
-				if(currentSanta>12){
-					currentSanta=1
-				}
-			}
-
-			santa=setTimeout(this.obj+".newsScroll("+speed+","+ipos+","+iend+","+myTimer+")",speed) 
-		}else if(bw.ns4 || bw.ns5){
-			subnavscroll=true
-			scroll()
-		}		
-
-
-
-	} 
-	
-	
-	function stopScroll(){
-		scrolling=false
-		return true;
-	}
-
-
-	function restartScroll(){
-		scrolling=true
-	}
-
-function ClientY(){
-	if(bw.ns4 || bw.ns5){
-		return window.innerHeight
-	}else if (bw.ie4 || bw.ie5){
-		check=parseInt(document.body.clientHeight)
-		if(check>0){
-			return document.body.clientHeight
-		}else{
-			return window.innerHeight
-		}
-	}
-}
-
-function WindowScrollTop(){
-	if(bw.ns5){
-		return window.pageYOffset
-	}else if (bw.ns4){
-		return top.pageYOffset
-	} else {
-		return document.body.scrollTop
-	}
-}
-
-function ClientX(){
-	if(bw.ns4 || bw.ns5){
-		return window.innerWidth
-	}else if (bw.ie4 || bw.ie5){
-		check=parseInt(document.body.clientWidth)
-		if(check>0){
-			return document.body.clientWidth
-		}else{
 			return window.innerWidth
+		}else if (bw.ie4 || bw.ie5){
+			check=parseInt(document.body.clientWidth)
+			if(check>0){
+				return document.body.clientWidth
+			}else{
+				return window.innerWidth
+			}
 		}
 	}
-}
-
-	//Makes the object 
-	function InitialiseAutoScrollArea(){ 
-		objSanta=new ConstructObject('santalayer') 
-		objSanta.css.left=parseInt(ClientX())-85
-		objSanta.css.visibility='visible' 
-		objSanta.newsScroll(speed,640,-100,1)
-
-	} 
 
 
-// This loads all the button images into two arrays
-function loadSantas(){
-	sPic = new Array(12);
-	for (var i = 1; i < 13; i++){
-		sPic[i] = new Image();
-		sPic[i].src = ("santa/santa000" + (i) + ".gif");
+
+	function ClientY(){
+		if(bw.ns4 || bw.ns5){
+			return window.innerHeight
+		}else if (bw.ie4 || bw.ie5){
+			check=parseInt(document.body.clientHeight)
+			if(check>0){
+				return document.body.clientHeight
+			}else{
+				return window.innerHeight
+			}
+		}
 	}
-}
+	
+	myObjLS=""
+	glhref=""
+	gltarget=""
+
+	function linkstat(myObj,Vars){
+		glhref=myObj.href
+		myObj.href="javascript: void(0);"
+		gltarget=myObj.target
+		myObj.target=""
+		document.statimage.src=Vars
+		myObjLS=myObj
 
 
-loadSantas()
-
-
-// for SANTA
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-		if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-			document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }
+		if(gltarget!=""){
+			setTimeout("window.open('"+glhref+"','"+gltarget+"');myObjLS.target='"+gltarget+"';myObjLS.href='"+glhref+"';",500)
+		}else if(glhref.indexOf('javascript:',0)!=-1){
+			eval(glhref.substring(11,glhref.length))
+		}else{
+			setTimeout("document.location.href='"+glhref+"'",500)
 		}
-  		else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-		}
-MM_reloadPage(true);
+	}
+
 
 //-->
-</script></head>
+</script>
 
-<!-- START Christmas Animation Code -->
+<link rel="stylesheet" href="teststyles.css" type="text/css">
+</head>
+<!-- START PCLink Availability TEST-->
 
+<!-- END PCLink Availability TEST-->
 
+<!-- START Survey Popup TEST -->
 
-<!-- PLEASE NOTE THAT CODE EXISTS AT END OF BODY TAG TOO AND WITHIN inc_bottom.asp -->
-<!-- END Christmas Animation Code  -->
-
+<!-- END Survey Popup TEST -->
 
 <body bgcolor="#FFFFFF" text="#444444" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#004176" vlink="444444" alink="444444" onload="scroll();MM_preloadImages('images/logo_.gif','images/bar_pclink_.gif','images/bar_bpay_.gif','images/bar_newusers_.gif','images/button_homepage_.gif','images/but_talktous_.gif','images/bar_search_.gif');">
 <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
@@ -221,7 +171,8 @@ MM_reloadPage(true);
 	
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#00386E">
   <tbody><tr> 
-          <td width="37"><img src="images/spacer.gif" width="37" height="8"></td>
+          
+    <td width="24"><img src="images/spacer.gif" width="24" height="8"></td>
           <td> 
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
@@ -246,7 +197,8 @@ MM_reloadPage(true);
               </tr>
             </tbody></table>
           </td>
-          <td width="37"><img src="images/spacer.gif" width="37" height="1"></td>
+          
+    <td width="24"><img src="images/spacer.gif" width="24" height="1"></td>
         </tr>
       </tbody></table>
 
@@ -358,13 +310,13 @@ function killLayer(){
    
 <table width="100%" border="0" cellspacing="0" cellpadding="0" background="images/orange.gif" bgcolor="#FBA800">
   <tbody><tr> 
-    <td width="32"><img src="images/orange.gif" width="32" height="30"></td>
+    <td width="20"><img src="images/orange.gif" width="20" height="30"></td>
     <td nowrap="" width="100%" valign="bottom"><a href="#" onmouseover="showLayer('layer_aboutus', event);window.status='About Us';return true"><img src="images/1.gif" width="67" height="24" border="0"></a><img src="images/spacer.gif" width="10" height="1"><a href="#" onmouseover="showLayer('layer_loans', event);window.status='Loans';return true"><img src="images/2.gif" width="50" height="24" border="0"></a><img src="images/spacer.gif" width="11" height="1"><a href="#" onmouseover="showLayer('layer_investments', event);window.status='Savings &amp; Investments';return true"><img src="images/3.gif" width="147" height="24" border="0"></a><img src="images/spacer.gif" width="10" height="1"><a href="#" onmouseover="showLayer('layer_insurance', event);window.status='Insurance';return true"><img src="images/4.gif" width="76" height="24" border="0"></a><img src="images/spacer.gif" width="11" height="1"><a href="#" onmouseover="showLayer('layer_planning', event);window.status='Financial Planning';return true"><img src="images/5.gif" width="127" height="24" border="0"></a><img src="images/spacer.gif" width="12" height="1"><a href="#" onmouseover="showLayer('layer_visa', event);window.status='Visa';return true"><img src="images/6.gif" width="38" height="24" border="0"></a><img src="images/spacer.gif" width="13" height="1"><a href="#" onmouseover="showLayer('layer_business', event);window.status='Business';return true"><img src="images/7.gif" width="64" height="24" border="0"></a><img src="images/spacer.gif" width="16" height="1"><a href="#" onmouseover="showLayer('layer_travel', event);window.status='Travel';return true"><img src="images/8.gif" width="49" height="24" border="0"></a></td>
   </tr>
 </tbody></table>
 
       
-<!-- layer_insurance -->  <div id="layer_insurance" onmouseout="hideLayer('layer_insurance', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:327px; top:60; height:200px"> 
+<!-- layer_insurance -->  <div id="layer_insurance" onmouseout="hideLayer('layer_insurance', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:315px; top:60; height:200px"> 
  
 
   <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='Insurance';return true" onmouseout="window.status=' '; return true"><img src="images/4_.gif" width="76" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="50" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="61" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="144"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="140" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_motor.asp" class="submenu">Motor 
@@ -373,7 +325,7 @@ function killLayer(){
                     Repayment</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_plcraft.asp" class="submenu">Pleasure 
                     Craft</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_caravan.asp" class="submenu">Caravan</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_landlord.asp" class="submenu">Landlord 
                     Protection</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_bus.asp" class="submenu">Business</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_mbike.asp" class="submenu">Motor 
-                    Bike</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C" width="130" background="images/drop_bottom.gif"><img src="images/drop_bottom.gif" width="130" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
+                    Bike</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_calc.asp" class="submenu">Calculators</a></td> </tr></tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C" width="130" background="images/drop_bottom.gif"><img src="images/drop_bottom.gif" width="130" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
 
 </div>
 
@@ -381,18 +333,47 @@ function killLayer(){
 
 <!-- layer_aboutus -->
 
-	<div id="layer_aboutus" onmouseout="hideLayer('layer_aboutus', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:32px; top:60; height:200px"> 
+	<div id="layer_aboutus" onmouseout="hideLayer('layer_aboutus', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:20px; top:60; height:200px"> 
  
 
- <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='About Us';return true" onmouseout="window.status=' '; return true"><img src="images/1_.gif" width="67" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="70" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="144"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="140" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_ourstory.asp" class="submenu">Our 
-                    Story </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="talk_to_us.asp" class="submenu">Contact Us</a></td> </tr><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_easyacc.asp" class="submenu">Easy 
-                    Access </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_comsup.asp" class="submenu">Community 
-                    Support </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_career.asp" class="submenu">Career 
-                    Opportunities </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_join.asp" class="submenu">How 
-                    to join</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_news.asp" class="submenu">News 
-                    &amp; Reports</a></td> </tr>  <tr> 
+ <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='About Us';return true" onmouseout="window.status=' '; return true"><img src="images/1_.gif" width="67" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> 
+ 
+ <tr> 
+ <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> 
+ <td valign="bottom"><img src="images/drop_verytop2.gif" width="70" height="8"></td> 
+ <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> 
+ </tbody></table> </td> </tr> 
+ <tr> 
+ <td> 
+ <table border="0" cellspacing="0" cellpadding="0" width="144"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> 
+ 
+ <table class="menu" width="140" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> 
+ <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_ourstory.asp" class="submenu">Our 
+                    Story </a></td> </tr>				
+
+					<tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_easyacc.asp" class="submenu">Easy 
+                    Access </a></td> </tr> 
+				
+					<tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_member.asp" class="submenu">How Our Fees Work</a></td></tr> 
+					
+					 <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_join.asp" class="submenu">How 
+                    to Join</a></td> </tr> 
+					
+					<tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_news.asp" class="submenu">News 
+                    &amp; Reports</a></td> </tr>
+					
+										<tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_comsup.asp" class="submenu">Community Support</a></td></tr> 
+					
+					<tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_career.asp" class="submenu">Career 
+                    Opportunities </a></td> </tr>
+					
+			 <tr> 
                   <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="about_partner.asp" class="submenu">Partners &amp; Links</a></td> 
-                </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="130" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
+                </tr> 
+				
+									<tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="talk_to_us.asp" class="submenu">Contact Us</a></td> </tr>
+				
+				</tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="130" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
 
 </div>
 
@@ -401,7 +382,7 @@ function killLayer(){
 
 <!-- layer_loans -->
 
-	<div id="layer_loans" onmouseout="hideLayer('layer_loans', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:109px; top:60; height:200px"> 
+	<div id="layer_loans" onmouseout="hideLayer('layer_loans', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:97px; top:60; height:200px"> 
  
 
  <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='Loans';return true" onmouseout="window.status=' '; return true"><img src="images/2_.gif" width="50" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="87" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="144"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="140" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_personal.asp" class="submenu">Personal Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_home.asp" class="submenu">Home Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_equity.asp" class="submenu">Home Equity Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_invest.asp" class="submenu">Investment Loans</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_construct.asp" class="submenu">Construction Loan </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="loans_calc.asp" class="submenu">Loan Calculator</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#1" class="submenu">Interest Rates </a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="130" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
@@ -412,17 +393,11 @@ function killLayer(){
 
 <!-- layer_investments -->
 
-	<div id="layer_investments" onmouseout="hideLayer('layer_investments', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:149px; left:170px; top:60; height:150px"> 
+	<div id="layer_investments" onmouseout="hideLayer('layer_investments', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:149px; left:158px; top:60; height:150px"> 
  
 
  <table border="0" cellspacing="0" cellpadding="0" width="147"> <tbody><tr align="right"> <td> <table width="149" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td colspan="3"><a href="#" onmouseover="window.status='Savings &amp; Investments';return true" onmouseout="window.status=' '; return true"><img src="images/3_.gif" width="147" height="24" border="0"></a></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="149"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="145" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td><img src="images/spacer.gif" width="3" height="1"></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_accounts.asp" class="submenu">Savings 
-                    Accounts </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_invest.asp" class="submenu">Investments</a></td> </tr> 
-
-
-
-
-
-<tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#2" class="submenu">Interest 
+                    Accounts </a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_invest.asp" class="submenu">Investments</a></td> </tr>  <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="save_calculators.asp" class="submenu">Calculators</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="interest_rates.asp#2" class="submenu">Interest 
                     Rates </a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table width="149" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> <td bgcolor="#FFD77C"><img src="images/drop_bottom.gif" width="136" height="8"></td> <td width="7"><img src="images/drop_bot_right.gif" width="7" height="8"></td> </tr> </tbody></table> </td> </tr> </tbody></table>  
 
 </div>
@@ -431,7 +406,7 @@ function killLayer(){
 
 <!-- layer_planning -->
 
-	<div id="layer_planning" onmouseout="hideLayer('layer_planning', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:185px; left:414px; top:60; height:175px"> 
+	<div id="layer_planning" onmouseout="hideLayer('layer_planning', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:185px; left:402px; top:60; height:175px"> 
  
 
  <table border="0" cellspacing="0" cellpadding="0" width="180"> <tbody><tr align="left"> <td> <table width="180" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='Financial Planning';return true" onmouseout="window.status=' '; return true"><img src="images/5_.gif" width="127" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="45" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="50" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="184"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="180" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="finance_short.asp" class="submenu">Short 
@@ -448,7 +423,7 @@ function killLayer(){
 
 <!-- layer_visa -->
 
-	<div id="layer_visa" onmouseout="hideLayer('layer_visa', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:100px; left:553px; top:60; height:100px"> 
+	<div id="layer_visa" onmouseout="hideLayer('layer_visa', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:100px; left:541px; top:60; height:100px"> 
  
 
  <table border="0" cellspacing="0" cellpadding="0" width="95"> <tbody><tr align="left"> <td> <table border="0" cellspacing="0" width="95" cellpadding="0"> <tbody><tr> 
@@ -460,7 +435,7 @@ function killLayer(){
 
 <!-- layer_business -->
 
-	<div id="layer_business" onmouseout="hideLayer('layer_business', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:145px; left:604px; top:60; height:155px"> 
+	<div id="layer_business" onmouseout="hideLayer('layer_business', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:145px; left:592px; top:60; height:155px"> 
  
 
  <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td><a href="#" onmouseover="window.status='Business';return true" onmouseout="window.status=' '; return true"><img src="images/7_.gif" width="64" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td bgcolor="#FFD77C"><img src="images/brown_pixel.gif" width="1" height="8"></td> <td valign="bottom"><img src="images/drop_verytop2.gif" width="73" height="8"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="144"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="140" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="bus_trans.asp" class="submenu">Transaction 
@@ -476,7 +451,7 @@ function killLayer(){
 
 <!-- layer_travel -->
 
-	<div id="layer_travel" onmouseout="hideLayer('layer_travel', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:125px; left:616px; top:60; height:155px"> 
+	<div id="layer_travel" onmouseout="hideLayer('layer_travel', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:125px; left:604px; top:60; height:155px"> 
  
 
  <table border="0" cellspacing="0" cellpadding="0" width="120"> <tbody><tr align="right"> <td> <table width="120" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> <td>&nbsp;</td> <td valign="bottom" align="right"><a href="#" onmouseover="killLayer();window.status=' '; return true"><img src="images/spacer.gif" width="60" height="24" border="0"></a></td> <td valign="bottom"><a href="#" onmouseover="window.status='Travel';return true" onmouseout="window.status=' '; return true"><img src="images/8_.gif" width="49" height="24" border="0"></a></td> <td valign="bottom">&nbsp;</td> </tr> <tr> <td><img src="images/drop_top_left2.gif" width="6" height="8"></td> <td><img src="images/drop_verytop2.gif" width="62" height="8"></td> <td valign="bottom" bgcolor="#FFD77C"><img src="images/spacer.gif" width="1" height="1"></td> <td valign="bottom"><img src="images/drop_top_right.gif" width="8" height="8"></td> </tr> </tbody></table> </td> </tr> <tr> <td> <table border="0" cellspacing="0" cellpadding="0" width="120"> <tbody><tr> <td width="1" bgcolor="#4C4025"><img src="images/spacer.gif" width="1" height="1"></td> <td bgcolor="#FFD77C"> <table class="menu" width="120" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFD77C"> <tbody><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="travel_spec.asp" class="submenu">Current Specials</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="travel_mem.asp" class="submenu">Member 
@@ -489,10 +464,36 @@ Benefits</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> 
       
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#DBDBDB">
   <tbody><tr> 
-    <td><img src="images/spacer.gif" width="41" height="1"><img src="images/home_banking_bar.gif" width="85" height="32" alt="Home Banking"> 
+    <td><img src="images/spacer.gif" width="28" height="8"><img src="images/home_banking_bar.gif" width="85" height="32" alt="Home Banking"> 
     </td>
-    <td width="100%" valign="middle"><a href="javascript:openSite2();" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('pclink','','images/bar_pclink_.gif',1);window.status='PCLink Login';return true"><img src="images/bar_pclink.gif" width="92" height="21" border="0" name="pclink"></a><a href="https://www.cubpay.com.au/bpay/index.jsp?brandId=805023" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('bpay','','images/bar_bpay_.gif',1);window.status='BPay';return true" target="_blank"><img src="images/bar_bpay.gif" width="92" height="21" border="0" name="bpay" hspace="10" alt="Pay a Bill Now"></a><a href="bank.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('users','','images/bar_newusers_.gif',1);window.status='New Users';return true"><img src="images/bar_newusers.gif" width="92" height="21" border="0" name="users"></a></td>
-    <td align="right" nowrap="" valign="middle"><a href="default.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('home','','images/button_homepage_.gif',1);window.status='Return to Homepage';return true;"><img src="images/button_homepage.gif" width="92" height="21" border="0" alt="Return to Homepage" name="home"></a><img src="images/spacer.gif" width="10" height="1" border="0"><a href="talk_to_us.asp" onmouseout="MM_swapImgRestore();window.status='';return true;" onmouseover="MM_swapImage('talk','','images/but_talktous_.gif',1);window.status='Talk to Us';return true;"><img src="images/but_talktous.gif" width="92" height="21" border="0" alt="Contact Us" name="talk"></a></td>
+    <td width="100%" valign="middle">
+	
+	  <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr valign="top"> 
+          <td> <a href="javascript:openSite9();" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('pclink','','images/bar_pclink_.gif',1);window.status='PCLink Login';return true"><img src="images/bar_pclink.gif" width="82" height="22" border="0" name="pclink"></a> 
+          </td>
+          <td> <img src="images/spacer.gif" width="4" height="1"> </td>
+          <td><script>
+function openPCLinkSite(myPage) {
+  RemoteWin = open(myPage, "PCLink", "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=792,height=550,left=0,top=0'")
+}
+</script>
+            <a href="bank_pclink.asp#4" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('Image1','','images/bar_demo_.gif',1);window.status='PCLink Demo';return true"><img src="images/bar_demo.gif" width="82" height="22" border="0" name="Image1" alt="PCLink Demo"></a> 
+          </td>
+          <td> <img src="images/spacer.gif" width="4" height="1"> </td>
+          <td> <a href="javascript:;" onclick="openSite1('bpay_popup.asp')" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('bpay','','images/bar_bpay_.gif',1);window.status='BPay';return true"><img src="images/bar_bpay.gif" width="82" height="22" border="0" name="bpay" alt="Pay a Bill Now"></a> 
+            
+          </td>
+          <td> <img src="images/spacer.gif" width="4" height="1"> </td>
+          <td> <a href="bank.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('users','','images/bar_newusers_.gif',1);window.status='New Users';return true"><img src="images/bar_newusers.gif" width="82" height="22" border="0" name="users"></a> 
+          </td>
+        </tr></tbody></table>
+	
+	
+	</td>
+    
+	
+	<td align="right" nowrap="" valign="middle"><a href="default.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('home','','images/button_homepage_.gif',1);window.status='Return to Homepage';return true;"><img src="images/button_homepage.gif" width="92" height="21" border="0" alt="Return to Homepage" name="home"></a><img src="images/spacer.gif" width="4" height="1" border="0"><a href="talk_to_us.asp" onmouseout="MM_swapImgRestore();window.status='';return true;" onmouseover="MM_swapImage('talk','','images/but_talktous_.gif',1);window.status='Talk to Us';return true;"><img src="images/but_talktous.gif" width="92" height="21" border="0" alt="Contact Us" name="talk"></a></td>
     <td width="37"><img src="images/spacer.gif" width="37" height="1"></td>
   </tr>
   <tr> 
@@ -515,8 +516,9 @@ Benefits</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> 
           <td width="42"><img src="images/spacer.gif" width="42" height="1"></td>
           <td class="text">
             <p class="heading"><a name="1"></a>Privacy and Security</p>
-            <p>Your use of the Savings &amp; Loans Credit Union website is governed 
-              by the Privacy Statement set out below.</p>
+            <p>Your use of the Savings &amp; Loans Credit Union (S.A.) Ltd ('Savings 
+              &amp; Loans Credit Union') website is governed by the Website Privacy 
+              Statement set out below.</p>
             <p>Please read this information carefully. The use of this website 
               by you indicates an acceptance of and agreement to be bound by the 
               Privacy statement set out below. If you do not agree with the statement 
@@ -525,19 +527,20 @@ Benefits</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> 
               at any time. Any such modifications will become effective upon the 
               date they are first posted to the website.</p>
             <ol>
-              <li><b>Privacy Statement for Savings &amp; Loans Credit Union </b><br>
+              <li><b>Website Privacy Statement for Savings &amp; Loans Credit 
+                Union</b><br>
                 <br>
                 Any information that you provide to Savings &amp; Loans Credit 
-                Union will be maintained in accordance with this privacy statement. 
-                Please ensure that you read the statement carefully and understand 
-                the purposes that information provided to Savings &amp; Loans 
-                Credit Union will be used. Savings &amp; Loans Credit Union may 
-                change this statement from time to time and if so, Savings &amp; 
-                Loans Credit Union will use reasonable efforts to publish such 
-                changes to its privacy statement.<br>
+                Union through this website will be maintained in accordance with 
+                this website privacy statement. Please ensure that you read the 
+                statement carefully and understand the purposes that information 
+                provided to Savings &amp; Loans Credit Union will be collected 
+                used or disclosed. Savings &amp; Loans Credit Union may change 
+                this statement from time to time and if so, Savings &amp; Loans 
+                Credit Union will use reasonable efforts to publish such changes.<br>
                 <br>
               </li>
-              <li><b>Anonymous use of this website</b><br>
+              <li><b> Anonymous use of this website</b><br>
                 <br>
                 When you browse this website you will do so anonymously. Personal 
                 information, such as your name, address, telephone number or email 
@@ -562,16 +565,17 @@ Benefits</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> 
                 to prevent the acceptance of cookies.<br>
                 <br>
               </li>
-              <li><b> What information does Savings &amp; Loans Credit Union gather?</b><br>
+              <li><b>What information does Savings &amp; Loans Credit Union gather 
+                from users of this website?</b><br>
                 <br>
-                Savings &amp; Loans Credit Union may gather specific information 
-                from you including your name and address among other personal 
-                data. Savings &amp; Loans Credit Union limits the collection of 
-                information from you to what is needed to provide its products 
-                and services, to offer new products and services, and to fulfil 
-                any legal and regulatory requirements. Savings &amp; Loans Credit 
-                Union may combine the information it obtains from this website 
-                with information that it already holds.<br>
+                Savings &amp; Loans Credit Union may gather information from you 
+                including your name and address among other personal data. Savings 
+                &amp; Loans Credit Union limits the collection of information 
+                from you to what is needed to provide its products and services, 
+                to offer new products and services, and to fulfil any legal and 
+                regulatory requirements. For more information in relation to the 
+                collection use and disclosure of information by Savings &amp; 
+                Loans Credit Union please read the 'Your Privacy' Brochure. <br>
                 <br>
                 Information that is essential to the provision of services or 
                 products will be indicated as such on this website. All other 
@@ -579,44 +583,45 @@ Benefits</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> 
                 Savings &amp; Loans Credit Union with flexibility in the provision 
                 of services. For example a fax number may not be essential but 
                 will provide Savings &amp; Loans Credit Union with another means 
-                of communication with you. Such information may be used for internal 
-                statistical studies and market research. <br>
+                of communication with you. <br>
                 <br>
                 The choice of how much personally identifiable information you 
                 disclose to Savings &amp; Loans Credit Union is completely at 
                 your discretion. Savings &amp; Loans Credit Union will advise 
                 of the general uses of information in this privacy statement and 
-                will provide additional explanation to you, if requested. Our 
-                fundamental concern is that you control the use of your own personal 
-                information. To this end, it is not mandatory for you to answer 
-                any questions, although in some circumstances if you choose to 
-                not answer questions it may limit the services and products Savings 
-                &amp; Loans Credit Union is able to offer. <br>
+                will provide additional explanation to you, if requested. Further 
+                information is contained in the Savings &amp; Loans Credit Union 
+                'Your Privacy' and 'Privacy FAQ' Brochures. Our fundamental concern 
+                is that you control the use of your own personal information. 
+                To this end, it is not mandatory for you to answer any questions, 
+                although in some circumstances if you choose to not answer questions 
+                it may limit the services and products Savings &amp; Loans Credit 
+                Union is able to offer. <br>
                 <br>
               </li>
-              <li><b>How does Savings &amp; Loans Credit Union use personal information?</b><br>
+              <li> <b>How does Savings &amp; Loans Credit Union use information 
+                collected from this website?</b><br>
                 <br>
                 In providing personal information to Savings &amp; Loans Credit 
-                Union you are agreeing to allow Savings &amp; Loans Credit Union, 
-                its subsidiaries and its affiliates access to, storage of and 
-                use of the data.<br>
-                <br>
-                Savings &amp; Loans Credit Union may use the personal information 
-                you submit for any purposes related to Savings &amp; Loans Credit 
-                Union's business, including but not limited to generating statistical 
-                studies, conducting market research, improving its products and 
-                services, sending new surveys and notifying you of new products, 
-                special offers, seminars and conventions and any other changes 
-                within Savings &amp; Loans Credit Union that may affect you.<br>
+                Union you are agreeing to allow Savings &amp; Loans Credit Union 
+                to use the personal information you submit for any purposes related 
+                to Savings &amp; Loans Credit Union's business, including but 
+                not limited to generating statistical studies, conducting market 
+                research, improving its products and services, sending new surveys 
+                and notifying you of new products, special offers, seminars and 
+                conventions and any other changes within Savings &amp; Loans Credit 
+                Union that may affect you. Savings &amp; Loans Credit Union may 
+                combine the information it obtains from this website with information 
+                that it already holds.<br>
                 <br>
                 If you wish to limit the use of your personal information to purposes 
                 other than those outlined in these paragraphs you should advise 
-                Savings &amp; Loans Credit Union forthwith in writing.<br>
+                Savings &amp; Loans Credit Union in writing as soon as possible.<br>
                 <br>
               </li>
               <li><b>What choices do you have about how your personal information 
-                is used and what is Savings &amp; Loans Credit Union's commitment 
-                to data quality and reliability?</b><br>
+                collected on this website is used and what is Savings &amp; Loans 
+                Credit Union's commitment to data quality and reliability?</b><br>
                 <br>
                 Savings &amp; Loans Credit Union respects your privacy and realises 
                 that not everyone likes to receive special offers or information. 
@@ -628,60 +633,22 @@ Benefits</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> 
                 telephone number, information contained in the Savings &amp; Loans 
                 Credit Union mailer and/or other necessary information requested 
                 for removal. If you believe that Savings &amp; Loans Credit Union 
-                may not have your correct and current personal information, you 
-                may update your information at any time by using the contact information 
-                below to inform Savings &amp; Loans Credit Union of changes in 
-                your personal information.<br>
-                <br>
-                Savings &amp; Loans Credit Union will use reasonable efforts to 
-                honour your requests, but we appreciate your patience in allowing 
-                us a reasonable amount of time for processing.<br>
+                may not have your correct and current personal information, please 
+                update your information by using the contact information below 
+                to inform Savings &amp; Loans Credit Union of changes in your 
+                personal information.<br>
                 <br>
               </li>
-              <li><b>Does Savings &amp; Loans Credit Union share the information 
-                that it gathers with third parties?<br>
-                </b><br>
-                Savings &amp; Loans Credit Union may share data with third parties 
-                as a value-added service that will assist you in finding products 
-                or services. Savings &amp; Loans Credit Union carefully reviews 
-                the materials of third parties and only selects those, which it 
-                believes would interest you. However, Savings &amp; Loans Credit 
-                Union does not assume responsibility for any actions of third 
-                parties.<br>
-                <br>
-                Should you decide you would not like your information shared with 
-                third parties, please use the contact information below to request 
-                that Savings &amp; Loans Credit Union remove you from its lists. 
-                Savings &amp; Loans Credit Union will use reasonable efforts to 
-                honour your requests. Please be aware that Savings &amp; Loans 
-                Credit Union has no control over removing your personal information 
-                from the lists of third parties. If you continue to receive materials 
-                from third parties after informing Savings &amp; Loans Credit 
-                Union to remove your name, please notify the particular third 
-                parties regarding removal of your personal information.<br>
-                <br>
-              </li>
-              <li>Your information will be processed using the Web Site Trust 
-                Services provided by VeriSign. For more information see <a href="http://www.verisign.com" target="_blank">www.verisign.com</a><br>
-                <br>
-              </li>
-              <li><b>Does Savings &amp; Loans Credit Union share the information 
-                that it gathers with government agencies or law enforcement?</b><br>
-                <br>
-                Savings &amp; Loans Credit Union reserves the right to monitor, 
-                and disclose to, government officials or law enforcement, without 
-                your consent, any communications and personally identifiable information, 
-                whenever prompted to do so, by legal authorities, even when you 
-                have requested that your information not be disclosed to third 
-                parties.<br>
-                <br>
-              </li>
-              <li><b>What is Savings &amp; Loans Credit Union's commitment to data security?</b><br>
+              <li><b>What is Savings &amp; Loans Credit Union's commitment to 
+                data security for this website?</b><br>
                 <br>
                 Savings &amp; Loans Credit Union recognises your concern for security, 
                 and will use reasonable efforts to establish secure connections 
                 with you and to limit access to databases containing personal 
                 information to authorised personnel only.<br>
+                <br>
+                Your information will be processed using the Web Site Trust Services 
+                provided by VeriSign. For more information see <a href="http://www.verisign.com" target="_blank">www.verisign.com</a><br>
                 <br>
               </li>
               <li><b>Links with other Websites</b><br>
@@ -691,7 +658,31 @@ Benefits</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> 
                 other terms and conditions may apply. <br>
                 <br>
               </li>
-              <li><b>What are Savings &amp; Loans Credit Union's contact procedures?</b><br>
+              <li><b>Does this Website Privacy Statement refer to non-website 
+                interactions between you and the Savings &amp; Loans Credit Union?</b><br>
+                <br>
+                This Website Privacy Statement is intended to relate only to information 
+                that is collected from you while you are using this website. The 
+                Savings &amp; Loans Credit Union privacy policy for the collection 
+                use and disclosure of personal or sensitive information by the 
+                Savings &amp; Loans Credit Union during non-website interactions 
+                is outlined in the Savings &amp; Loans Credit Union 'Your Privacy' 
+                Brochure. This brochure will also provide you with important information 
+                in relation to the handling of, and access to your personal information. 
+                We suggest that you read the 'Your Privacy' and the 'Privacy FAQ' 
+                Brochures to obtain further information, however we invite you 
+                at any time to make further inquiries with Savings &amp; Loans 
+                Credit Union in relation to Privacy.<br>
+                <br>
+                Although Savings &amp; Loans Credit Union consider that no inconsistency 
+                exists between this Website Privacy Statement and its other privacy 
+                policies, in the event of an inconsistency this Website Privacy 
+                Statement will take precedent for any information collected from 
+                the use of this website by you. In any other circumstances, the 
+                Savings &amp; Loans Credit Union privacy policies apply equally.<br>
+                <br>
+              </li>
+              <li> <b>What are Savings &amp; Loans Credit Union's contact procedures?</b><br>
                 <br>
                 If you believe Savings &amp; Loans Credit Union has not adhered 
                 to its privacy statement, if you would like to be removed from 
@@ -700,28 +691,72 @@ Benefits</a></td> </tr> </tbody></table> </td> <td width="1" bgcolor="#000000"> 
                 Loans Credit Union by e-mail, telephone, fax, or postal mail. 
                 Savings &amp; Loans Credit Union will use reasonable efforts to 
                 promptly resolve any issues.<br>
-                <br>
-              </li>
-              <li><b>Who can I contact if I have concerns about privacy?</b><br>
+                <b><br>
+                </b></li>
+              <li><b> Who can I contact if I have concerns about privacy?</b><br>
                 <br>
                 Savings &amp; Loans Credit Union would welcome comments by you 
                 in relation to privacy issues generally, or any privacy issues 
                 that concern you. You may also contact the Privacy Commissioner 
                 if you want to know more about privacy issues. Their web address 
-                is: <a href="http://www.privacy.gov.au" target="_blank">http://www.privacy.gov.au</a><br>
+                is: http://www.privacy.gov.au<br>
                 <br>
               </li>
-              <li><b>Savings &amp; Loans Credit Union Contact Information</b><br>
+              <li><b> Savings &amp; Loans Credit Union Contact Information</b><br>
                 <br>
-                Savings &amp; Loans Credit Union (S.A.) Limited<br>
-                50 Flinders Street Adelaide S.A. 5000<br>
-                Telephone: (08) 8305 8305<br>
+                Savings &amp; Loans Credit Union (S.A.) Ltd<br>
+                50 Flinders Street <br>
+                Adelaide S.A. 5000<br>
+                Telephone: 13 11 82 or (08) 8305 8305<br>
                 Facsimile: (08) 8305 8318<br>
                 <br>
-    Savings &amp; Loans Credit Union has also made it convenient for you to be 
-    removed from Savings &amp; Loans Credit Union's e-mail bulletins. Just go 
-    to <a href="talk_to_us.asp">Contact Us</a></li>
+                Savings &amp; Loans Credit Union has also made it convenient for 
+                you to be removed from Savings &amp; Loans Credit Union's e-mail 
+                bulletins. Just go to <a href="talk_to_us.asp">Contact Us</a>. 
+              </li>
             </ol>
+            <p></p>
+            <table width="90%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="14"><img src="images/to_top.gif" width="14" height="14" alt="Top of Page"></td>
+                <td class="text">&nbsp;<a href="#top"><font size="1">TOP OF PAGE</font></a></td>
+              </tr>
+            </tbody></table>
+            <img src="images/blueline.gif" width="100%" height="2"> 
+            <p><a name="2"></a><span class="heading">Your Privacy</span></p>
+            <p>The protection of your privacy is very important to us. Download 
+              the 'Your Privacy' brochure for further information.</p>
+            <p><b><a href="pdf/privacyDL.pdf" target="_blank">Your Privacy brochure</a></b> 
+              <span class="formtext">(File size = 91 kb) <br>
+              </span> </p>
+            <table width="90%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="14"><img src="images/to_top.gif" width="14" height="14" alt="Top of Page"></td>
+                <td class="text">&nbsp;<a href="#top"><font size="1">TOP OF PAGE</font></a></td>
+              </tr>
+            </tbody></table>
+            <img src="images/blueline.gif" width="100%" height="2"> 
+            <p><a name="3"></a><span class="heading">Frequently Asked Questions</span></p>
+            <p class="text">We have developed a Frequently Asked Questions (FAQ) 
+              brochure to provide you with an understanding of our privacy policy 
+              in relation to the management of personal information.</p>
+            <p class="text"><b><a href="pdf/PrivacyFAQs.pdf" target="_blank">FAQ 
+              brochure</a></b> <span class="formtext">(File size = 57kb) </span></p>
+            
+<table width="80%" border="0" cellspacing="0" cellpadding="0" bgcolor="#004176">
+  <tbody><tr> 
+    <td> 
+      <table width="100%" border="0" cellspacing="2" cellpadding="5">
+        <tbody><tr valign="top"> 
+          <td bgcolor="#f1f1f1" class="formtext">To view these documents you will 
+            need to <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank">download</a> 
+            Acrobat PDF reader.</td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
             <p></p>
             <table width="90%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
@@ -897,7 +932,7 @@ var bExplorer4plus = true
 timeoutNextCheck=10
 xOffSet=35
 yOffSet=145
-
+var subnavscroll=true
 
 function scroll() {
 
@@ -911,7 +946,6 @@ function scroll() {
 		}else if(parseInt(navigator.appVersion)>= 4){
 			oMenu=document.rightbar
 			yMenuTo = top.pageYOffset
-			window.status=	top.pageYOffset
 		}
 
 		if(yMenuTo<(yOffSet-20)){
@@ -934,7 +968,9 @@ function scroll() {
 		oMenu.visibility="visible"	
 	}
 
-	setTimeout ("scroll()", timeoutNextCheck);
+	if (subnavscroll==true) {
+		scroller=setTimeout ("scroll()", timeoutNextCheck);
+	}
 }
 
 //  End -->
@@ -946,16 +982,14 @@ function scroll() {
   <table width="100%" cellpadding="0" cellspacing="0" border="0">
     <tbody><tr>
       <td align="right">
-            <p class="mainheading">Privacy</p>
-          	<!--   <p><a href="#1"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Privacy and Security</font></a></p>
+      <p></p>
 
- 		<p><a href="#2"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Collection of Information</font></a></p>
-             <p><a href="#3"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">E-mails</font></a></p>
-             <p><a href="#4"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Cookies</font></a></p>
-             <p><a href="#5"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Use and Disclosure of Information</font></a></p>
-             <p><a href="#6"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Security</font></a></p>
-             <p><a href="#7"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Acceptance and Changes to the Privacy and Security 
-              Statement</font></a></p>-->
+            <p class="mainheading"><b>Privacy</b></p>
+        <p><a href="#1"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Privacy &amp; Security</font></a></p>
+
+             <p><a href="#2"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Your Privacy</font></a></p>
+             <p><a href="#3"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Frequently Asked Questions</font></a></p>
+            
 
 
             <p><img src="images/rings_funky_2.gif" width="144" height="68"></p>
@@ -973,7 +1007,7 @@ function scroll() {
   <p><img src="images/spacer.gif" width="1" height="5"><br>
   
 </p></td>
-          <td width="37"><img src="images/spacer.gif" width="37" height="1"></td>
+          <td width="37"><img src="images/spacer.gif" width="37" height="1" name="statimage"></td>
         </tr>
       </tbody></table>
       <p>&nbsp;</p>
@@ -1013,9 +1047,6 @@ function scroll() {
   </tr>
 </tbody></table>
 
-<!-- START Christmas Animation Code-->
-  <div id="santalayer" style="position:absolute; top:0; left:0;z-index:3;visibility:hidden"><a href="christmas_form.asp"><img src="santa/santa0001.gif" width="84" height="94" name="mysanta" border="0"></a></div>
-<!-- END Christmas Animation Code  -->
 
 
 </body></html>
