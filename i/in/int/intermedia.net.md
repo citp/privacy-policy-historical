@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205090233id_/http%3A//intermedia.net/legal/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603063534id_/http%3A//intermedia.net/legal/privacy_statement) for the most accurate reproduction.*
 
 # Intermedia.NET - Legal: Legal & Policies
 
 **Purpose**
 
-Intermedia.NET, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Intermedia.NET, Inc. websites, including intermedia.net, deskpilot.com, hostpilot.com, 0effort.com and all sub-domains under these domains. Scope
+Intermedia.NET, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Intermedia.NET, Inc. websites, including intermedia.net, deskpilot.com, hostpilot.com, 0effort.com and all sub-domains under these domains. 
+
+**Scope**
 
 This privacy statement only covers the information collected on Intermedia.NET's web sites. The Intermedia.NET's web sites contain links to other sites. Intermedia.NET is not responsible for the privacy practices, actions, or the content of such web sites. 
 
