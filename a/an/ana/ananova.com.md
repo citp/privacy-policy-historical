@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ananova.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212182154id_/http%3A//www.ananova.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ananova.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611064417id_/http%3A//www.ananova.com/about/privacy.html) for the most accurate reproduction.*
 
 # Ananova and your personal data
 
 This is Ananova's Privacy Statement. It sets out how we deal with your personal data.
 
-If you have any queries about this statement, please contact us by email at [privacy.policy@ananova.com](mailto:privacy.policy@ananova.com).
+If you have any queries about this statement, please write to us at: The Data Protection Officer, Ananova Ltd. PO Box 36, Leeds, LS11 9YJ, United Kingdom.
 
 PRIVACY STATEMENT
 
@@ -20,7 +20,7 @@ PRIVACY STATEMENT
 
 6\. You agree that for the purposes of providing the Ananova service to you it may be necessary for your Personal Data to be passed by us or other organisations involved in providing the Ananova service to companies outside the European Union.
 
-7\. If you have any questions about the handling or protection of your Personal Data or your rights under this privacy statement please contact us by email at [privacy.policy@ananova.com](mailto:privacy.policy@ananova.com)
+7\. If you have any questions about the handling or protection of your Personal Data or your rights under this privacy statement please write to us at : The Data Protection Officer, Ananova Ltd, PO Box 36, Leeds, LS11 9YJ, United Kingdom.
 
 8\. Ananova Limited may disclose your Personal Data acting in good faith if it believes such action is necessary to conform with a legal requirement or comply with the legal process, protect and defend the rights or property of Ananova Limited or other members of the Orange group of companies, enforce this Online Agreement, act to protect the interests of its registered users or others.
 
