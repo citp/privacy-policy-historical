@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002000328id_/http%3A//www.westminster.gov.uk/tools/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607164528id_/http%3A//www.westminster.gov.uk/tools/privacy.cfm) for the most accurate reproduction.*
 
 # Data Protection and Privacy
 
@@ -12,7 +12,21 @@ In some areas, we may ask you to register your name and email address. We will a
 
 ### What do we use personal information for?
 
-If you choose to complete any of our on-line forms, WESTMINSTER CITY COUNCIL will not use the personal information you provide us with for marketing purposes. We may pass your details on to third party service providers who are contracted to WESTMINSTER CITY COUNCIL in the course of dealing with your request. These third parties are obliged to keep your details securely, will use them only to fulfil the request and will dispose of the details when the request is complete.
+If you choose to complete any of our on-line forms, WESTMINSTER CITY COUNCIL will not use the personal information you provide us with for marketing purposes or between council services unless you agree that we may do so. We may pass your details on to third party service providers who are contracted to WESTMINSTER CITY COUNCIL in the course of dealing with your request. These third parties are obliged to keep your details securely, will use them only to fulfil the request and will dispose of the details when the request is complete.
+
+### Allowing your details to be used across other council services
+
+We at the Council are in the process of transforming our services in line with the Civic Renewal Programme and have committed to significantly improve the quality of our Customers’ experience when they contact us.
+
+We are all frustrated on occasion when we have to repeat the same basic information about ourselves, such as name and contact details, each time we contact an organisation or, even worse, within the same contact with that organisation.
+
+In recognition of this we are focussing on making it easier for people to do business with us, whenever and however they choose, and with the ability be able to complete a range of different sorts of transactions with the council, all through a single contact – but we can only do that with your help!
+
+By agreeing to allow your details to be used across other council services, we will be able to capture this information when you first contact us and then re-use this information to minimise the length of time each future contact will take.
+
+The information we gather will also enable us to better understand your needs and how you use council services so that we can continue to improve our performance over time. 
+
+Please note that in agreeing to share these details you have not forfeited your rights as prescribed under the Data Protection Act 1998 and the Council will continue to apply the same level of care to safeguard your privacy and use of your information across all our services. Your service entitlement from the Council will not be affected should you decide not to allow your data to be shared in this way or you change your mind at any time in the future.
 
 ### Email Messages
 
