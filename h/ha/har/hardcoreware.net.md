@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629054825id_/http%3A//www.hardcoreware.net/about.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230155123id_/http%3A//www.hardcoreware.net/about.php%23Privacy) for the most accurate reproduction.*
 
 # hardCOREware.net - What makes us tick?
 
   
   
 |   
-|  [](http://www.hardcoreware.net/hcwads/adclick.php?bannerid=88&zoneid=11&source=&dest=http%3A%2F%2Fwww.corsairmemory.com%2F)  
-  
+|   
 ---  
   
 **About hardCOREware.net - NO BS**
@@ -194,5 +193,8 @@ If we decide to change our privacy policy, we will post those changes on our Hom
   
   
   
+  
+
+
   
 
