@@ -1,125 +1,219 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803160717id_/http%3A//www.bankwest.com.au/legal/p_and_s_0201.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015012156id_/http%3A//www.bankwest.com.au/newsroom/aboutus/legal/disclaimer_privacy_policy.asp) for the most accurate reproduction.*
 
-# BankWest - Bank of Western Australia Ltd. ABN 22 050 494 454
+# BankWest - Bank of Western Australia Ltd.
 
-This Privacy and Security Statement applies to this Web Site which is operated by Bank of Western Australia Ltd (ABN 22 050 494 454) (" **BankWest** ") under the domain name www.bankwest.com.au.
+## Legal Notices
 
-  * jetaway.bankwest.com.au;
+### Privacy Policy
+
+Current as at 21 December 2001
+
+This Privacy Policy applies to Bank of Western Australia (ABN 22 050 494 454) ("BankWest").
+
+BankWest is bound by the National Privacy Principles of the Privacy Act, 1988 and is committed to safeguarding personal information it may hold at any time in respect of any individual, in accordance with the requirements of the those Principles."Personal information" for the purposes of this Policy is information about and which identifies individuals. It includes information obtained from an individual or a third party and, for individual credit applicants and guarantors, includes anything about credit worthiness, standing, history and capacity which, under and in accordance with the Privacy Act may lawfully be exchanged. In general, BankWest will not use or disclose personal information collected about you otherwise than for a purpose set out in the Privacy Policy, for a purpose you would reasonably expect, a purpose required or permitted by law, or a purpose otherwise disclosed to, or authorised by, you.
+
+We may, in connection with particular services we offer or provide to you, make other privacy disclosures to you or seek your authority to use your personal information in ways which are different from or more specific than those stated in this Privacy Policy. In the event of any inconsistency between the provisions of this Privacy Policy and those other disclosures, the other disclosures will prevail.
+
+### Personal Information collected before 21 December 2001
+
+The National Privacy Principles came into force on 21 December 2001 but some of the Principles have application to personal information collected prior to as well as after that date. This means that for personal information we hold, which was collected prior to 21 December 2001, we will, in accordance with those particular Principles:
+
+  
+
+
+  * take reasonable steps to ensure that such information, if used, is accurate, complete and up-to-date;
+
+  * take reasonable steps to protect it from misuse, loss or unauthorised access or disclosure;
+
+  * provide you with access to the information if we still use it;
+
+  * not use any government identifier to identify you; and
+
+  * only transfer such information overseas with your consent or as authorised by the Principles.
+
+
+
+
+Except in so far as this Privacy Policy further addresses the particular Principles reflected in those five matters, the remainder of this document is concerned with personal information which is collected on or after 21 December 2001.
+
+### Collection of personal information
+
+BankWest will not ordinarily collect any information about you except where you provide it to us or it is provided to us with your authority.
+
+The types of personal information BankWest collects generally includes your name, address, telephone number, email address, tax file number, date of birth, employment and income details and other financial details including credit history.
+
+In certain circumstances, we may also collect personal information which is sensitive. Sensitive information includes information about your health, religious or philosophical beliefs, membership of professional or trade associations or a criminal record. Unless the collection of sensitive information is required or permitted by or under law, we will obtain your consent to its collection. If the sensitive information relates directly to your ability to meet a financial obligation to us, you consent to our collection of it.
+
+We will collect personal information directly from you when you open an account with us, complete an application form for one of our products or services, deal with us over the telephone or in person, send us a letter or visit our website. We may, for purposes of security, training, or information or transaction verification, listen to and/or record telephone calls to which you are a party with us.
+
+On occasions, BankWest may need to collect personal information about you from third parties, such as credit reporting agencies, our business alliance partners, your agents or third party brokers. If required by law, we will obtain your consent to collect information from third party sources.
+
+BankWest only collects personal information about you that is necessary for our functions and activities and, ordinarily, you will be told the purposes for which we collect that information when it is collected.
+
+As a general rule the collection of your personal information will be necessary for us to provide a service to you or to maintain our relationship with you.
+
+Additionally, the purposes for which we will generally collect and use your personal information will include:
+
+  
+
+
+  * complying with legislative and regulatory requirements;
+
+  * considering any application you make to us;
+
+  * performing BankWest's administrative operations, including accounting, risk management, record keeping, archiving, systems development and testing, credit scoring and staff training;
+
+  * managing our rights and obligations in relation to external payment systems;
+
+  * conducting market or customer satisfaction research;
+
+  * developing, establishing and administering alliances and other arrangements (including rewards programs) with other organisations in relation to the promotion, administration and use of our respective products and services;
+
+  * developing and identifying products and services that may interest you; and
+
+  * (unless you ask us not to) telling you about products and services.
+
+
+
+
+We also advise that each time our website is visited, we use cookies to record the date and time of access to the site and any information read or downloaded but this information does not identify the user and therefore is not personal information. A cookie is a small text file placed on your computer hard drive by a web page server, which can then be accessed by our web servers. You may configure your web browser not to accept cookies, however this may mean that you are not able to make full use of the BankWest website.
+
+### Personal information about third parties
+
+If at any time you supply us with personal information about another person (for example, a referee or a person to whom you may wish a payment to be directed), you should ensure that you are authorised to do so and you must agree to inform that person who we are, that we will use and disclose their personal information and that they may gain access to it should we hold that information.
+
+### Use and disclosure of personal information
+
+BankWest will not use or disclose information collected about you other than for a purpose made known to you, a purpose you would reasonably expect, a purpose required or permitted by or under any law or a purpose otherwise authorised by you.
+
+You authorise BankWest to disclose necessary information to related companies and to any agents or contractors who provide services to us in connection with the provision of products or services you have sought from us. These parties are prohibited from using your personal information except for the specific purpose for which we supply it to them.
+
+Subject to what is permitted by law, the types of third parties we may disclose your personal information to include:
+
+  
+
+
+  * credit reporting agencies;
+
+  * our agents, contractors and external advisers whom we engage from time to time to carry out, or advise on, our functions and activities;
+
+  * your agents and contractors, including your finance broker, builder and settlement agent and your legal or financial adviser;
+
+  * your executor, administrator, trustee, guardian or attorney;
+
+  * your referees;
+
+  * regulatory bodies, government agencies, law enforcement bodies and courts;
+
+  * any person or organisation who introduces you to us;
+
+  * other organisations with whom we have alliances or arrangements (including rewards programs) for the purpose of promoting our respective products and services (and any agents used by us and our business partners in administering such an arrangement or alliance);
+
+  * anyone supplying goods or services to you in connection with a rewards program associated with a facility provided to you;
+
+  * debt collecting agencies;
+
+  * other financial institutions;
+
+  * external payment systems operators;
+
+  * any mortgage insurer used by us and any reinsurer of any such mortgage insurer;
+
+  * your and our insurers or prospective insurers and their underwriters;
+
+  * your sureties and guarantors and prospective sureties and guarantors;
+
+  * any person considering purchasing the loan, guarantee or security, that person's advisers, persons involved in assessing the risks and funding of the purchase and, after purchase, the purchaser and any manager on an ongoing basis;
+
+  * any person to the extent necessary, in our view in order to carry out any instruction you give to the Bank;
+
+  * (unless you tell us not to) other organisations (including our related bodies corporate) and their agents for the marketing of specific products and services.
+
+
+
+
+In some cases, we may need to transfer your personal information outside Australia. If we believe that the overseas third party is not subject to privacy obligations equivalent to those which apply to us we will seek your consent to transfer the information, except where the National Privacy Principles do not require us to do so.
+
+### Your access to your personal information
+
+If at any time you wish to know what personal information we are holding about you, you are welcome to apply for your details by telephoning our Customer Help Centre on 13 17 18.
+
+Under certain circumstances, BankWest may not be able to tell you what personal information we hold about you. This includes where:
+
+  
+
+
+  * it would have an unreasonable impact on the privacy of other individuals;
+
+  * the information relates to legal proceedings with you;
+
+  * the information would reveal BankWest's commercially sensitive decision-making process; or
+
+  * we are prevented by law from disclosing the information, or providing access would prejudice certain investigations.
+
+
+
+
+We may charge a fee for accessing your personal information.
+
+BankWest will take reasonable steps to ensure that your personal information is accurate, complete and up-to-date. If at any time you believe that personal information that we hold about you is inaccurate, incomplete or out of date, please advise us by telephoning our Customer Help Centre on 13 17 18 or call into any BankWest Customer Service Centre and we will take all reasonable steps to correct the information.
+
+### Security of your personal information
+
+BankWest maintains strict procedures and standards and takes all reasonable care to prevent unauthorised access to, and modification and disclosure of, your personal information. We will take all reasonable steps to protect your personal information from misuse and loss.
+
+BankWest also protects the security of your personal information when transmitted over the Internet. We use a Secure Socket Layer (SSL) to transfer personal information between you and our web servers, and DSS encryption when we transfer data to third parties. However no data transmission over the Internet can be guaranteed as fully secure and accordingly, we cannot guarantee or warrant the security of any information you send to us using our on-line forms or products. You submit information over the Internet at your own risk.
+
+If we no longer need your information, we will destroy or de-identify it.
+
+### Direct marketing
+
+BankWest adheres to the Direct Marketing Code of Conduct produced by ADMA.
+
+BankWest will use your personal details, including your email address, to provide you with information, specific promotions and products that may be of interest to you. We also provide your details to other organisations (including our related companies) but only for specific marketing purposes.
+
+If at any time you do not wish to receive further marketing information, you have the option to ask us not to send you any further information about products and services and not to disclose your information to other organisations for that purpose. You may do this by telephoning our Customer Help Centre on 13 17 18.
+
+### Government identifiers
+
+BankWest does not use your tax file number, Medicare number, pension number or any other government identifier as your account, policy or application number. BankWest will only use and disclose these numbers for the purposes required by law.
+
+### Complaints about breaches of privacy
+
+If you believe that the privacy of your personal information has been compromised or is not being adequately protected, you should contact us by telephoning our Customer Help Centre on 13 17 18. We will make every effort to resolve your complaint internally.
+
+If we do not resolve your complaint to your satisfaction, you may apply to the Federal Privacy Commissioner to have your complaint investigated. For more information about how you may lodge a complaint with the Federal Privacy Commissioner, please contact the Commissioner's hotline service on 1300 363 992.
+
+### Changes to this Privacy Policy
+
+This statement sets out our current Privacy Policy. It replaces any other BankWest Privacy Policy or website Privacy Policy to date.
+
+Please note that this Privacy Policy may change from time to time. Our current Privacy Policy is available from our website, www.bankwest.com.au or at any BankWest Customer Service Centre or telephone our Customer Help Centre on 13 17 18.
+
+We encourage you to periodically review our Privacy Policy for any changes.
+
+### BankWest's Internet Website
+
+This Privacy Policy applies to any website operated by BankWest under the domain name www.bankwest.com.au, and to the following domain names:
+
+  
+
+
   * nsafinancialclub.bankwest.com.au;
+
   * secureforms.bankwest.com.au;
-  * bob.bankwest.com.au; 
+
+  * bob.bankwest.com.au;
+
   * perthcam.com.au;
-  * adelaidecam.perthcam.com.au;
-  * brisbanecam.perthcam.com.au;
-  * melbournecam.perthcam.com.au;
-  * sydneycam.perthcam.com.au; and
-  * bnow.com.au.
 
 
 
-BankWest aims to provide users of this Web Site with up to date technology and information that meets the needs of the individual users. To do this, we collect information about you each time you visit our Web Site.
 
-BankWest recognises that users are concerned with their privacy and understands that it is important for you to know how we deal with your personal and financial information. BankWest is committed to protecting the privacy of that information and BankWest's practices conform to the privacy, security and authentication standards set out in the Federal Best Practice Model, "Building Consumer Sovereignty in Electronic Commerce: A Best Practice Model for Business". Click [here](http://www.ecommerce.treasury.gov.au/html/ecommerce.htm) to view a copy of the Best Practice Model. 
+When you use a link from the BankWest website to the websites of third parties, those websites are not subject to BankWest's privacy standards. Those third parties are responsible for informing you of their own privacy policies.
 
-There may also be additional privacy provisions, which apply to certain parts of our Web Site, specific to accounts you hold with us or services we provide to you. These provisions will operate in addition to the provisions of this Privacy and Security Statement. In the event of any inconsistency between the provisions of this Privacy and Security Statement and those other additional privacy provisions, the additional provisions will prevail. 
+If personal information about you is collected by third parties on any websites you have accessed through the BankWest website, BankWest may also collect or have access to that information as part of our arrangement with those third parties.
 
-This Privacy and Security Statement is designed to inform you of how BankWest collects and treats your personal information when you access and use our Web Site. 
+### Contacting BankWest
 
-  
-
-
-##### Collection of Personal Information
-
-We will not collect personal information about you except where you knowingly provide it to us through our Web Site. 
-
-The information we collect about you will depend on how you use the Web Site. For instance, if you visit our Web Site to read or download information, our system will record the date and time of your access to the site and the information viewed or downloaded. 
-
-If you use the Web Site to complete an online application form, we will only collect the information contained in that application form if you submit the form to us. If you log out of the Web Site or cancel the application prior to submitting the form, the information you had entered will be automatically deleted.
-
-  
-
-
-##### Cookies
-
-A cookie is a small-text file placed on your computer hard drive by a web page server. Cookies may then be accessed later by our web servers. Cookies store information about your use of our Web Site, and allow us to provide you with more personalised service when using the Web Site. 
-
-We use cookies to: 
-
-  * determine whether you have previously used the BankWest Web Site;
-  * identify pages you have accessed; and
-  * personalise your experience on the BankWest Web Site.
-
-
-
-Most web browsers are initially set to accept cookies, but you may configure your browser not to accept cookies. If your browser is set to reject cookies, you may not be able to make full use of the BankWest Web Site (for instance, services on the Web Site that require cookies in order for you to participate). 
-
-  
-
-
-##### Use and Disclosure of Information
-
-We will not use or disclose information collected about you, including information collected using cookies, otherwise than for a purpose made known to you, a purpose you would reasonably expect, a purpose required, authorised or permitted by or under any law, or a purpose otherwise authorised by you.
-
-You authorise us to disclose such information to BankWest's subsidiaries and related companies and to any agents or contractors who provide services to us in connection with the provision of products or services you have sought from our Web Site.
-
-If you tell us you do not wish to have your personal information used for a particular purpose, we will respect your wishes.
-
-  
-
-
-##### Your Access to Your Personal Information
-
-If at any time you wish to know what personal information about you we are holding, you may request your details by E-mailing us at [online@bankwest.com.au](mailto:online@bankwest.com.au).
-
-If at any time you would like to change your personal information that is inaccurate, incomplete or out of date advise us and we will take all reasonable steps to correct the information so that it is accurate, complete and up-to-date.
-
-  
-
-
-##### Security
-
-We maintain strict procedures and standards and take all reasonable care to prevent unauthorised access to your personal information, and to protect the security of your personal information when transmitted over the Internet. We use a 128 bit Secure Socket Layer (SSL) to transfer personal information between you and our web servers, and 1024 bit DSS encryption when we transfer data to third parties. 
-
-At BankWest, we constantly monitor developments in security and encryption technology. We review and update processes and procedures in line with industry standards.
-
-No data transmission over the Internet can be guaranteed as fully secure. Accordingly, BankWest cannot guarantee or warrant the security of any information you send to us using our on-line forms or products. You submit information at your own risk. Once we receive your information, we will take all reasonable steps to protect the data held in our system. If we no longer need your information, we will destroy or de-identify it.
-
-  
-
-
-##### Direct Marketing
-
-BankWest adheres to the Direct Marketing Code of Conduct produced by ADMA. BankWest will use your contact details, including your e-mail address, to inform you of competitions and changes to BankWest Online Banking, provide you with annual statements, and advise of fees and product changes.
-
-In addition, BankWest will use your personal details to provide you with information, specific promotions and products that may be of interest to you (including products and promotions of BankWest's subsidiaries and related companies).
-
-BankWest does not supply or sell customer lists or other personal information to third parties for their marketing purposes.
-
-If you do not wish to receive direct e-mail marketing materials, you may withdraw your contact details from our mailing list at any time by e-mailing us at unsubscribe@bankwest.com.au.
-
-  
-
-
-##### Links to Other Web Sites
-
-When you use a link from the BankWest Web Site to the web sites of third parties, those web sites are not subject to BankWest's privacy and security standards. Those third parties are responsible for informing you of their own privacy policies.
-
-If personal information about you is collected by third parties on any web sites you have accessed through the BankWest Web Site, BankWest may also collect or have access to that information as part of our arrangement with those third parties.
-
-  
-
-
-##### Acceptance of and Changes to this Privacy and Security Statement
-
-This statement sets out our current Privacy and Security Policy. It replaces any other Privacy and Security Statements for the BankWest Web Site to date.
-
-Your use of the BankWest Web Site acknowledges your acceptance of this Privacy and Security Statement.
-
-BankWest may change the content or services found on our Web Site at any time without notice. Accordingly, our Privacy and Security Statement may change from time to time. The updated document will be available on this Web Site. We encourage you to periodically review this Statement for changes. Your continued access to, or use of, this Web Site means that you agree to and accept the changes we make.
-
-  
-
-
-##### Queries
-
-If you have any questions regarding this Privacy and Security Statement, the operation of this Web Site, or your dealings with this Web Site then E-mail us at [online@bankwest.com.au](mailto:online@bankwest.com.au) for more information.
+If you have any questions regarding this Privacy Policy or would like more information about the way BankWest manages your personal information, telephone our Customer Help Centre on 13 17 18.
