@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diynot.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211145736id_/http%3A//www.diynot.com/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynot.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621073136id_/http%3A//diynot.com/docs/privacy.php) for the most accurate reproduction.*
 
 # DIY - Privacy Statement
 
@@ -23,13 +23,8 @@
 > 
 > If you supply us with your postal address on-line you will only receive the information for which you provided us your address. 
 > 
-> Persons who supply us with their telephone numbers on-line will only receive telephone contact from us in the unlikely event of a problem with an auction that they have taken part in on-line. 
-> 
 > **What security precautions are in place to protect the loss, misuse, or alteration of my information?**  
 >  Your personal registration information are password-protected so that you and only you have access to this personal information. You may edit your personal details by using your password at [www.diynot.com/mydiynot](https://web.archive.org/mydiynot). We recommend that you do not divulge your password to anyone. DIYnot.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out DIYnot.com and close your browser window when you have finished your work. This is to ensure that other users cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, DIYnot.com cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
-> 
-> **Public Auctions**  
->  This site makes public auctions available to its users. To be eligible to take part in the auctions you must register your address and phone number with us. Persons who supply us with their address and telephone number will only be contacted in this way in the unlikely event of a problem with an auction that they have taken part in on-line. Your email address will be disclosed to the winner of your auction you have created or by the seller of an auction you have won, your address and telephone number will NOT be disclosed to anyone under any circumstance unless required by law. 
 > 
 > **Public Forums**  
 >  This site makes forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
