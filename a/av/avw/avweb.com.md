@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the avweb.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611043219id_/http%3A//avweb.com/help_desk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avweb.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206175411id_/http%3A//www.avweb.com/help_desk/privacy.html) for the most accurate reproduction.*
 
 # AVweb Privacy Policy
 
   
-75 Holly Hill Lane, P.O. Box 2626  
-Greenwich, CT 06836-2626
+800 Connecticut Ave, P.O. Box 5656  
+Norwalk, CT 06854
 
-Telephone: 203-661-6111  
+Telephone: 203-857-3100  
 Email: [AVweb Help Desk](https://web.archive.org/cgi-bin/udt/fdc.collector?client_id=avweb&form_id=maileditform&link_id=110)
 
 * * *
