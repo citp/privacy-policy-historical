@@ -1,17 +1,21 @@
-> *The following text is extracted and transformed from the nasa.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604000148id_/http%3A//www.nasa.gov/hqpao/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasa.gov privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204193908id_/http%3A//www.nasa.gov/hqpao/privacy.html) for the most accurate reproduction.*
 
-# NASA Website Privacy, Disclaimer and Accessibility Statement
+# None
 
 * * *
 
 [Sean O'Keefe, Administrator](https://web.archive.org/bios/okeefe.html)
 
-[NASA's Vision for the Future](https://web.archive.org/bios/vision.html)  
-To improve life here  
-To extend life to there  
-To find life beyond
+[NASA's Mission](https://web.archive.org/bios/vision.html)
 
-[The President's Management Agenda](https://web.archive.org/newsinfo/agenda.html)   
+* To understand and protect our home planet  
+
+* To explore the Universe and search for life  
+
+* To inspire the next generation of explorers  
+_. . . as only NASA can_
+
+[ The President's Management Agenda](https://web.archive.org/newsinfo/agenda.html)   
 
 
 * * *
@@ -22,20 +26,8 @@ Search NASA's Web
 
 * * *
 
-Two NASA Web sites have been nominated for [Webby Awards:](http://www.webbyawards.com/main/webby_awards/nominees.html)
-
-[ Vote for your choices](http://www.webbyawards.com/peoplesvoice/)  
-
-
-* * *
-
 [Find It on the NASA Web](https://web.archive.org/hqpao/help.html)  
 
-
-* * *
-
- **[Navigating NASA's Strategic Enterprises  
-](https://web.archive.org/enterprises.html)**
 
 * * *
 
@@ -45,13 +37,15 @@ Two NASA Web sites have been nominated for [Webby Awards:](http://www.webbyaward
 * * *
 
  **More About NASA:  
-**| [ciencia@nasa, en espanol](http://ciencia.nasa.gov/)  
+**| [Careers and Internships](http://www.nasajobs.nasa.gov/)  
 ---  
 [Doing Business with NASA](http://www.hq.nasa.gov/office/procurement/index.html)  
 [Educational Resources](http://education.nasa.gov/)  
 [Freedom of Information Act](http://www.hq.nasa.gov/office/pao/FOIA/)  
+[Freedom to Manage](http://f2m.nasa.gov/)  
 [History](http://history.nasa.gov/)  
-[Jobs and Internships](http://www.nasajobs.nasa.gov/)  
+[NASA Data Quality Guidelines](https://web.archive.org/misc/data_quality.html)  
+[NASA en Español](https://web.archive.org/hqpao/espanol.html)  
 [NASA Technology Portal](http://nasatechnology.nasa.gov/)  
 [News & Information](https://web.archive.org/newsinfo/index.html)  
 [](https://web.archive.org/budget/budget2003_index.html)
@@ -66,10 +60,16 @@ Two NASA Web sites have been nominated for [Webby Awards:](http://www.webbyaward
   * [Press Releases](https://web.archive.org/newsinfo/archive.html)
 
   
-[](https://web.archive.org/web/20020604000148id_/http%3A//www.nasa.gov/hqpao/newsinfo/publicreports.html)
+[](http://www.nasa.gov/newsinfo/publicreports.html)
 
-[](https://web.archive.org/web/20020604000148id_/http%3A//www.nasa.gov/hqpao/newsinfo/publicreports.html)
-  * [Reports](https://web.archive.org/web/20020604000148id_/http%3A//www.nasa.gov/hqpao/newsinfo/publicreports.html)
+[](http://www.nasa.gov/newsinfo/publicreports.html)
+  * [Reports & Plans](http://www.nasa.gov/newsinfo/publicreports.html)
+
+  
+[](http://www.nasa.gov/newsinfo/fy01_performance_report.html)
+
+[](http://www.nasa.gov/newsinfo/fy01_performance_report.html)
+  * [FY 01 Performance Report](http://www.nasa.gov/newsinfo/fy01_performance_report.html)
 
   
 [Organization and Subject Index](https://web.archive.org/nasaorgs/index.html)  
@@ -81,6 +81,11 @@ Two NASA Web sites have been nominated for [Webby Awards:](http://www.webbyaward
 [Speakers Bureau](https://web.archive.org/speakers/index.html)  
 [Spinoffs and Commercial Technology](http://nctn.hq.nasa.gov/)  
 [Visiting NASA](https://web.archive.org/visitors.html)  
+  
+* * *
+
+ **[Navigating NASA's Strategic Enterprises  
+](https://web.archive.org/enterprises.html)**
 |  This policy establishes how NASA will use information we gather about you from your visit to our website. The privacy of our customers is of utmost importance to NASA. 
 
 If you visit a NASA site... 
@@ -107,24 +112,25 @@ If you visit a NASA site...
 download page containing all Adobe Acrobat products and versions including
 accessibility plug-ins")
 > 
-> [If you have any difficulty viewing any page with adaptive technology, click here to let us know.](mailto:credmond@hq.nasa.gov)
+> [If you have any difficulty viewing any page with adaptive technology, click here to let us know.](mailto:sglasser@hq.nasa.gov)
+
+> The majority of pages on this website can be translated for individuals with limited English proficiency in accordance with the Executive Order 13166. Information on this website can be available in the following languages: Spanish, Arabic, Korean, Chinese and Vietnamese. If you have difficulty reading the information on the website in English please forward all translation requests to [Chris Rodriguez](mailto:crodrigu@mail.hq.nasa.gov), Code CE. 
 
   
 _Use your browser's "BACK" button to return to previous page._
 
 * * *
 
-[[Hot Topics](https://web.archive.org/hotopics/index.html)] [[Multimedia Gallery](https://web.archive.org/gallery/index.html)] [[NASA Television](https://web.archive.org/ntv/)] [[Text Only Version](https://web.archive.org/textonly.html)] [[NASA Privacy Statement, Disclaimer, and Accessibility Certification](http://www.nasa.gov/hqpao/privacy.html)] [[Site Maps](https://web.archive.org/siteindex.html)]
+[[Multimedia Gallery](https://web.archive.org/gallery/index.html)] [[NASA Television](https://web.archive.org/ntv/)] [[Text Only Version](https://web.archive.org/textonly.html)] [[NASA Privacy Statement, Disclaimer, and Accessibility Certification](http://www.nasa.gov/hqpao/privacy.html)] [[Site Map](https://web.archive.org/siteindex.html)]
 
 * * *
 
 |  [](http://www.firstgov.gov/) | 
 
-**Author:** Elvia Thompson  
+**Author:** Beth Beck  
 **Responsible NASA Official:** Brian Dunbar  
-**Site Maintainer:** K F Chow  
 [Comments and Questions ](https://web.archive.org/hqpao/comments.html)  
-**Last Updated:** June 3, 2002   
+**Last Updated:** December 3, 2002   
   
   
 ---|---
