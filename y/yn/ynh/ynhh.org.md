@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ynhh.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207064946id_/http%3A//www.ynhh.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynhh.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602011747id_/http%3A//www.ynhh.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Yale-New Haven Hospital
 
@@ -75,11 +75,21 @@ Yale-New Haven Hospital
 New Haven, CT  
 06510-3202  
 |  |    
+  
 **Our policies regarding your privacy**   
   
 Yale-New Haven Hospital is dedicated to providing you with health care, information and referral services of the highest quality, while at the same time protecting your privacy. 
 
-We insist that our staff observe patient confidentiality—respecting your right to privacy about your medical records and experience with this hospital—unless there are legal reasons we must share data outside the patient care team. While you may be asked to provide personal data in using this Web site, we can assure you this information will be treated with the same care we treat all patient information. Any data we collect about you will be used only to help us develop customized programs and services suited to your needs and interests. 
+We insist that our staff observe patient confidentiality—respecting your right to privacy about your medical records and experience with this hospital.  
+
+
+  * [Notice of Privacy Policy](https://web.archive.org/web/20030602011747id_/http%3A//www.ynhh.org/resource/ynhhprivacypolicy.pdf), Yale-New Haven Hospital (pdf file, 94.2 KB)  
+_Note:_ You will need [Adobe Acrobat Reader](http://www.adobe.com/prodindex/acrobat/readstep.html "Adobe Acrobat Free Reader") installed in order to read the pdf file. 
+
+**Web Site Privacy Policy**  
+  
+  
+While you may be asked to provide personal data in using this Web site, we can assure you this information will be treated with the same care we treat all patient information. Any data we collect about you will be used only to help us develop customized programs and services suited to your needs and interests. 
 
 We will not share your personal data with any party outside Yale-New Haven Hospital or Yale New Haven Health System.   
   
@@ -137,7 +147,7 @@ If you are concerned about the security of your message before it reaches the ho
 Visitors to our "Ask the Expert" forums on breastfeeding and women's heart issues have the opportunity to post a message to the forums and receive a posted reply from either YNHH lactation specialists or nursing staff of our Call Center's nurse triage program. Your message is posted to the forum and the specialist/nurse is notified a new message is waiting there. You may sign your message (question or reply) with any name or initials you choose. We explain at the time you post your question or reply that we need your E-mail address in order to notify you of replies to your message. We may use your address to notify you of events or opportunities in which we think you might be interested. If you prefer that we not use and retain your address, leave the line blank and select "Do not send any replies." Your question or reply will still appear on the forum, but it will be up to you to check the forum for a response from our specialists/nurses.  
   |    
 | **Communications with our Patient Relations staff**  
-Our site provides an [E-mail link](https://web.archive.org/web/20021207064946id_/http%3A//www.ynhh.org/patients/patients.html#assistance) to our Patient Relations staff who will treat your communications with the same regard to your privacy we strive to employ in every patient interaction. If you are concerned about the security of your message before it reaches the hospital network, we invite you to instead call or write our Patient Relations staff:  
+Our site provides an [E-mail link](https://web.archive.org/web/20030602011747id_/http%3A//www.ynhh.org/patients/patients.html#assistance) to our Patient Relations staff who will treat your communications with the same regard to your privacy we strive to employ in every patient interaction. If you are concerned about the security of your message before it reaches the hospital network, we invite you to instead call or write our Patient Relations staff:  
 Patient Relations  
   
 Yale-New Haven Hospital  
@@ -200,7 +210,7 @@ In addition, the Federal Trade Commission provides useful information about onli
 Questions about this site's information gathering and privacy practices can be addressed to the [site editor](http://www.ynhh.org/comments.html).
 
   
-Last revised: May 18, 2002 (KP)  
+Last revised: April 11, 2003 (JT)  
   
   
   
