@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603160828id_/http%3A//www.orlandoinfo.com/other/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2002-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021106202258id_/http%3A//www.orlandoinfo.com/other/privacy/index.cfm) for the most accurate reproduction.*
 
 # Orlandoinfo.com
 
