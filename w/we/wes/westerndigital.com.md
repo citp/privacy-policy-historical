@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westerndigital.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607183109id_/http%3A//westerndigital.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westerndigital.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204100344id_/http%3A//www.westerndigital.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
