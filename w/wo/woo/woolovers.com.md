@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolovers.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605002050id_/http%3A//www.woolovers.com/shop/security_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolovers.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209155823id_/http%3A//www.woolovers.com/shop/security_policy.asp) for the most accurate reproduction.*
 
 # Lambswool and cotton jerseys, cardigans and slipovers from the knitwear specialist - Wool Overs
 
