@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethsoft.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethsoft.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,43 +20,43 @@ ESRB Privacy Online is a third-party seal provider whose mission is to protect c
 
 Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of the following:
 
-  * [The websites and information covered by this Privacy Policy;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-1)
+  * [The websites and information covered by this Privacy Policy;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-1)
   
 
-  * [Whether this Privacy Policy applies to information collected offline;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-2)
+  * [Whether this Privacy Policy applies to information collected offline;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-2)
   
 
-  * [Exactly what information may be collected and how it will be used;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-3)
+  * [Exactly what information may be collected and how it will be used;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-3)
   
 
-  * [The consequences, if any, resulting from your refusal to provide personal information;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-4)
+  * [The consequences, if any, resulting from your refusal to provide personal information;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-4)
   
 
-  * [Whether a company uses cookies, tracks IP addresses, or uses other passive means to collect information;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-5)
+  * [Whether a company uses cookies, tracks IP addresses, or uses other passive means to collect information;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-5)
   
 
-  * [Who, if anyone, is collecting your personal information;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-6)
+  * [Who, if anyone, is collecting your personal information;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-6)
   
 
-  * [With whom, if anyone, is your personal information shared;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-7)
+  * [With whom, if anyone, is your personal information shared;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-7)
   
 
-  * [What is a company's policy regarding links to third party sites;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-8)
+  * [What is a company's policy regarding links to third party sites;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-8)
   
 
-  * [What choices you have with regard to the use of your personal information;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-9)
+  * [What choices you have with regard to the use of your personal information;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-9)
   
 
-  * [How you can access, and if necessary, change the personal information a company collects and maintains;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-10)
+  * [How you can access, and if necessary, change the personal information a company collects and maintains;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-10)
   
 
-  * [Whether and how information is collected from children under 13;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-11)
+  * [Whether and how information is collected from children under 13;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-11)
   
 
-  * [How a company ensures data security, quality, and integrity; and,](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-12)
+  * [How a company ensures data security, quality, and integrity; and,](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-12)
   
 
-  * [Where and how to ask questions or file complaints.](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-13)
+  * [Where and how to ask questions or file complaints.](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-13)
   
 
 
@@ -85,7 +85,7 @@ This Privacy Policy currently applies to the following websites operated by Zeni
 In addition, ZeniMax may own several other domain names that point to the websites listed above. From time to time, we may add new websites and we will take reasonable steps to update the list.
 
 Please note that this Privacy Policy applies only to information submitted and collected online through a website operated by ZeniMax (listed above), and does not apply to information collected by ZeniMax offline. In addition, this Privacy Policy applies only to sites maintained by ZeniMax, and not to websites maintained by other companies or organizations to which we link. ZeniMax is therefore _not_ responsible for the content or activities provided on such sites. **What types of information does ZeniMax collect and how will it be used?**   
-In order to give you the best experience on our site, ZeniMax may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask a user to submit personal and/or demographic information, and it will usually take the form of either: [(1) product and warranty registration;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-1) [(2) community forum registration;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-2) [(3) contests and sweepstakes,](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-3) [(4) technical support;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-4) (5) the purchase of a product or service at our [online store;](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-5) and (6) personal information submitted in a [business capacity](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-6) (e.g., resumes). The types of information that may be requested for each activity and the way the information may be used are detailed below. In the event that demographic information is requested on the same page as personal information, the demographic and personal information may be combined.
+In order to give you the best experience on our site, ZeniMax may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask a user to submit personal and/or demographic information, and it will usually take the form of either: [(1) product and warranty registration;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-1) [(2) community forum registration;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-2) [(3) contests and sweepstakes,](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-3) [(4) technical support;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-4) (5) the purchase of a product or service at our [online store;](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-5) and (6) personal information submitted in a [business capacity](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#subanchor-6) (e.g., resumes). The types of information that may be requested for each activity and the way the information may be used are detailed below. In the event that demographic information is requested on the same page as personal information, the demographic and personal information may be combined.
 
   * _Product and Warranty Registration_
 
@@ -145,7 +145,7 @@ Through the use of log files, we may also collect certain demographic informatio
 
  **Who is collecting my personal information?**
 
-Any personal information that you disclose while visiting any of our websites is collected by ZeniMax or its vendors, and is used in the manner specified [above](https://web.archive.org/web/20040604141819id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-5).
+Any personal information that you disclose while visiting any of our websites is collected by ZeniMax or its vendors, and is used in the manner specified [above](https://web.archive.org/web/20041204103530id_/http%3A//www.zenimax.com/legal_privacy.htm#anchor-5).
 
  **With whom does ZeniMax share my personal information?**
 
