@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613123531id_/http%3A//taxbrain.com/privacy.asp%3Fsct%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024210332id_/http%3A//taxbrain.com/privacy.asp%3Fsct%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # TaxBrain - Privacy Policy
 
