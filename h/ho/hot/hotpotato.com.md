@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotpotato.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604201940id_/http%3A//byowner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpotato.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080426id_/http%3A//www.byowner.com/privacy) for the most accurate reproduction.*
 
-# ByOwner.com 1-800-ByOwner
+# ByOwner.com 1-800-ByOwner, For Sale By Owner, Homes For Sale
 
 |  ByOwner.com may distribute from time to time your name, email address and interests(if stated) to identifiable companies or vendors which we authorize. We will not knowingly distribute any of your personal home address information or credit card information to other users without your permission. 
 
