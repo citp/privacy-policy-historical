@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605164013id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208215711id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Security - FamilyChristian.com
 
-|   |    
-
-
-**Father's Day Is 06.16.02** ****** Standard Ship: 06.06  
-2nd Day: 06.10  
-Overnight: 06.11**  
-  
----|---  
-  
-  | 
+|   | 
 
 **Our commitment to You, Our Customer** **  
 ** FamilyChristian.com respects and wants to protect the privacy of our users. We do not sell, rent, or loan any identifiable information regarding our customers to any third party. Any personal information you give us will not be given to other third parties without your consent. 
