@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005231724id_/http%3A//www.cruisingworld.com/cw_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2004-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040410044435id_/http%3A//www.cruisingworld.com/cw_privacy.jsp) for the most accurate reproduction.*
 
-# Cruising World - Privacy Statement
+# Cruising World
+
+| 
+
+Web Privacy Statement 
+
+  
+
 
 At the Sailing Company, our goal is to be your favorite destination for sailing information on the Internet. We do this by providing you with the sailing information, services and products that are essential to you. To achieve this goal, we sometimes ask to collect data to help us understand what information, services and products will be most useful to you. 
 
@@ -18,6 +25,13 @@ Please be aware that by voluntarily disclosing personal information on bulletin 
 
 In addition, please be aware that advertisers have links on our sites that take you to other sites that may collect personally identifiable information about you. We hope that all third parties involved adhere to policies that protect users' privacy. However, this privacy policy does not cover third party data collection practices and the Sailing Company does not assume any responsibility for any actions of third parties. 
 
-**Cookies** \- To provide better service and a more effective web site, we and our advertising partner Real Media use "cookies" as part of our interaction with your browser. A "cookie" is a small text file placed on your hard drive by our web page server. Cookies are commonly used on web sites and do not harm your system. By configuring your preferences or options in your browser, you determine if and how a cookie will be accepted. We use cookies to determine if you have previously visited our web site and for a number of administrative purposes. These cookies do not collect personally identifiable information, and we do not combine information collected through cookies with other personal information to determine who you are or your e-mail address. 
+**Cookies** \- To provide better service and a more effective web site, we use "cookies" as part of our interaction with your browser. A "cookie" is a small text file placed on your hard drive by our web page server. Cookies are commonly used on web sites and do not harm your system. By configuring your preferences or options in your browser, you determine if and how a cookie will be accepted. We use cookies to determine if you have previously visited our web site and for a number of administrative purposes. These cookies do not collect personally identifiable information, and we do not combine information collected through cookies with other personal information to determine who you are or your e-mail address. 
 
-08/07/2002
+|  |  |   |  |    
+---|---|---  
+|  |   
+  |  |    
+|  |   
+  |  |    
+|  |   
+  |  |  
