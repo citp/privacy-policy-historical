@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 1999-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991104130817id_/http%3A//www.starwars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202013900id_/http%3A//starwars.com/privacy.html) for the most accurate reproduction.*
 
-# Star Wars: Copyright
+# Star Wars: Privacy Policy
 
 
-      
       
 
 **Lucasfilm Ltd. Online Privacy Policy**
