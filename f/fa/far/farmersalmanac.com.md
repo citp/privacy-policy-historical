@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205222107id_/http%3A//www.farmersalmanac.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622090851id_/http%3A//farmersalmanac.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Farmers' Almanac Privacy Statement
 
@@ -31,7 +31,7 @@ If you have any questions regarding these Terms and Usage Agreement, please cont
 
 This Web site is controlled and operated from the office of the Farmers' Almanac, Lewiston, Maine 04241 USA and is owned by the Almanac Publishing Company located in Lewiston, Maine.
 
-[Geiger](http://www.geiger.com/) is the sole distributor of the [promotional Farmers' Almanac](https://web.archive.org/web/20021205222107id_/http%3A//www.farmersalmanac.com/promofa/promoteyourbusiness.html); the largest privately held promotional products distributor in the nation, and an internationally renowned manufacturer of calendars and planners. Headquarted in Maine, Geiger is affiliated with 450 sales representatives who are available to provide you with an array of innovative concepts and cutting-edge tools designed to meet all of your marketing and promotional needs.  
+[Geiger](http://www.geiger.com/) is the sole distributor of the [promotional Farmers' Almanac](https://web.archive.org/web/20030622090851id_/http%3A//farmersalmanac.com/promofa/promoteyourbusiness.html); the largest privately held promotional products distributor in the nation, and an internationally renowned manufacturer of calendars and planners. Headquarted in Maine, Geiger is affiliated with 450 sales representatives who are available to provide you with an array of innovative concepts and cutting-edge tools designed to meet all of your marketing and promotional needs.  
 
 
 | 
