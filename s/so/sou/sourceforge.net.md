@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601181205id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008152129id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
 
 # SourceForge.net: A5. SourceForge.net Privacy Statement
 
