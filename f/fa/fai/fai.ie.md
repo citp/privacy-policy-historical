@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fai.ie privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009001147id_/http%3A//www.fai.ie/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fai.ie privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607120522id_/http%3A//www.fai.ie/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to the FAI!
 
