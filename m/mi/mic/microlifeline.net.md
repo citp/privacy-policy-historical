@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microlifeline.net privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618100510id_/http%3A//www.microlifeline.net/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microlifeline.net privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001180515id_/http%3A//www.microlifeline.net/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
