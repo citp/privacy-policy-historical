@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210202429id_/http%3A//www.opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404003711id_/http%3A//opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
 
 # openDemocracy
 
@@ -36,7 +36,7 @@ After registering online, users will receive free weekly email newsletters and o
 
 **Unsubscribe, data removal and data modification policies**
 
-openDemocracy allows users to opt-out of receiving communications from us and to modify information we hold on our system any time. Sign in to the website and visit the [My Account](https://web.archive.org/web/20041210202429id_/http%3A//www.opendemocracy.net/accounts/my_accounts.jsp) page to edit your details or unsubscribe from the email yourself, or send an email to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net) with instructions.
+openDemocracy allows users to opt-out of receiving communications from us and to modify information we hold on our system any time. Sign in to the website and visit the [My Account](https://web.archive.org/web/20050404003711id_/http%3A//opendemocracy.net/accounts/my_accounts.jsp) page to edit your details or unsubscribe from the email yourself, or send an email to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net) with instructions.
 
 **Send this article to a friend (or foe!)**
 
@@ -63,4 +63,4 @@ openDemocracy will not use or disclose your personal information without your co
 
 We are a UK company bound by English law, and we are registered under and operate according to the Data Protection Act. Any legal requirements placed on us are those imposed by English law. This policy shall be governed by and construed in accordance with the laws of England and Wales. Any disputes arising from matters relating to the policy shall be exclusively subject to the jurisdiction of the courts of England and Wales.
 
-More questions? Please direct them to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net) or take a look at openDemocracy's [FAQs](https://web.archive.org/web/20041210202429id_/http%3A//www.opendemocracy.net/other_content/help.jsp)
+More questions? Please direct them to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net) or take a look at openDemocracy's [FAQs](https://web.archive.org/web/20050404003711id_/http%3A//opendemocracy.net/other_content/help.jsp)
