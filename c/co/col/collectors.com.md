@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the collectors.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604031431id_/http%3A//www.collectors.com/join/privacy.chtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectors.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095301id_/http%3A//www.collectors.com/join/privacy.chtml) for the most accurate reproduction.*
 
 # Collectors.com -- The Ultimate Collectors Destination --
 
-## Privacy Statement for Collectors Universe
+#### Privacy Statement for Collectors Universe
 
-  
 Collectors Universe has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: collectorsuniverse.com. 
 
 In the course of using our site, we automatically track certain information about you. This information includes the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. Many sites automatically collect this information. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
@@ -37,22 +36,22 @@ Users will be notified by email of any change in the way Collectors Universe use
 
 Users will be notified by email of any change in our privacy policy with the new privacy policy. This policy will be posted 30 days prior to the effective date. 
 
-### Public Forums
+##### Public Forums
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personally identifiable information. 
 
-### Security
+##### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All credit card information is accessed only through secure servers using SSL encryption for the protection of our customers. Credit card information is not stored and is discarded between usages. All databases are secured behind a firewall. 
 
-### Choice/Opt-Out
+##### Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us at any point. Upon joining, you may opt-out at that time or later: 
 * You may opt-out by email to [**customerservice@collectors.com**](mailto:customerservice@collectors.com)
 * Or you may opt-out by modifying your personal profile at: [**Update your account**](http://www.collectors.com/join/register.chtml?action=update)
 * Or you may opt-out by clicking on an unsubscribed link in our email newsletters. 
 
-### Correct/Update
+##### Correct/Update
 
 You can change or modify your user information at [**Update your account**](http://www.collectors.com/join/register.chtml?action=update)
 
