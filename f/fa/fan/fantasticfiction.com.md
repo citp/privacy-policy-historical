@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasticfiction.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402220138id_/http%3A//www.fantasticfiction.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfiction.com privacy policy that was archived on 2002-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020810235645id_/http%3A//www.fantasticfiction.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
