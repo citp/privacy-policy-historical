@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614220446id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202011500id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
 
 # Party411 Privacy Policy
 
@@ -9,6 +9,7 @@
 • [New Product News](http://www.party411.com/news.html)  
 • [The Shops](http://www.party411.com/theshops.html)  
     [@ Party411.com](http://www.party411.com/theshops.html)  
+• [e-Party Greetings](http://www.party411.com/eparty.html)  
 • [Discussion Forums](http://www.party411.com/forums.html)  
 • [Party Girl Help](http://www.party411.com/partyhelp.html)  
 • [Tips, Dips & Jokes](http://www.party411.com/week.html)  
@@ -20,16 +21,17 @@
     [Yellow Pages](http://www2.party411.com/cgi-win/catlist.dll?NAT+2)
 
   
+• [PartyMenu411](http://www.party411.com/partymenu.html)  
 • [Party Themes](http://www.party411.com/themes.html)  
 • [Party Games](http://www.party411.com/gameguide.html)  
 • [Planning Guides](http://www.party411.com/guides.html)  
-• Ask the Experts:  
+• Expert Advice:  
     \- [The Party Doctor](http://www.party411.com/doctor.html)  
     \- [The Party Girl](http://www.party411.com/advice.html)  
+    \- [The Party Prof.](http://www.party411.com/partyprofessor.html)  
     \- [The Game Girl](http://www.party411.com/gamegirl.html)  
     \- [Etiquette Queen](http://www.party411.com/queen.html)  
-• [Party Invitations](http://www.party411.com/invitations.html)  
-• [Links](http://www.party411.com/directories.html)
+• [Party Invitations](http://www.party411.com/invitations.html)
 
 * * *
 
@@ -49,7 +51,7 @@
 
 Our site uses cookies to keep track of the city you are from, and only during the current website visit. 
 
-Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20000614220446id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
+Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20001202011500id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
 
 This site contains links to other sites. **Party411.com** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -87,7 +89,7 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact    411Unlimited, LLC.  4925 Galaxy Parkway, Suite E, Cleveland, Ohio, 44128, USA   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact    411Unlimited, LLC.  4925 Galaxy Parkway, Suite I, Cleveland, Ohio, 44128, USA   
 [mail@party411.com](mailto:mail@party411.com)   
 216-514-8411   
   
