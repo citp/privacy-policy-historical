@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoono.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020439id_/http%3A//www.spoono.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoono.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607024828id_/http%3A//www.spoono.com/privacy.php) for the most accurate reproduction.*
 
 # Spoono - Privacy Policy
 
@@ -28,7 +28,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ### CORRECT/UPDATE
 
-Spoono gives users the following options for changing and modifying information previously provided. 
+Spoono gives users the following options for changing and modifying information previously provided.
 
   1. Remove or change your infomation from our database at the place of data collection.
   2. Email [webmaster@spoono.com](mailto:webmaster@spoono.com).
@@ -37,11 +37,10 @@ Spoono gives users the following options for changing and modifying information 
 
 ### CONTACTING SPOONO
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may contact: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may contact:
 
 _Spoono, LLC  
-Spoono  
 106 Michelle Circle  
 Bethel Park, PA 15102_
 
-Fax: 412-831-5077
+Fax: 412-831-5077 
