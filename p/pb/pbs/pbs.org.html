@@ -1,516 +1,497 @@
-<!--The following is the downloaded HTML source of the pbs.org privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602200114id_/http%3A//www.pbs.org/aboutsite/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pbs.org privacy policy that was archived on 2003-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031209074353id_/http%3A//www.pbs.org/hplink/redir/aboutsite/aboutsite_privacy.html) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
-<script language="JavaScript">
+	<title>PBS | About This Site . Privacy Policy</title>
 
-<!--
-//Determine Operating System
-system=navigator.appVersion;
-if (navigator.appVersion.indexOf("Mac") != -1 ) OS = "Mac";
-else if (navigator.appVersion.indexOf("PowerPC") != -1 ) OS = "Mac";
-else if (navigator.appVersion.indexOf("Win") != -1 ) OS = "Win";
-else if (navigator.appVersion.indexOf("SunOS") != -1 ) OS = "Solaris";
-else  OS = "Linux";
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
-//Determine Browser Version
-bName = navigator.appName;
-bVer = parseInt(navigator.appVersion);
+	<meta name="author" content="PBS">
 
+	<meta name="keywords" content="PBS, Public Broadcasting Service,television, PBS Online, public television, neighborhoods, CPB, Sesame Street, NPR, FRONTLINE, NOVA, Ernie, Bert, Big Bird, NewsHour, Jim Lehrer, This Old House, Barney, Arthur, Teletubbies, American Experience, Zoom, Cringely">
 
+	<meta name="who" content="parent,librarian,childcareprovider,districtadministrator,elementaryschoolprincipal,middleschoolprincipal,highschoolprincipal,elementaryschoolteacher,middleschoolteacher,highschoolteacher,preschoolstudent,elementaryschoolstudent,middleschoolstudent,highschoolstudent,adultlearner,collegeuniversityfaculty">
 
-//Write Style Sheets
-if (OS == "Mac" && bName=="Netscape"){
-        document.write("<style type='text/css'><!-- td { font-size: 11pt; font-family: Verdana, Arial, Helvetica, sans-serif} .text { font-size: 11pt; font-family: Verdana, Arial, Helvetica, sans-serif}   .small { font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif} .large { font-size: 13pt; font-family: Verdana, Arial, Helvetica, sans-serif} --></style>");
-    }
-else if (OS =="Mac" && bName=="Microsoft Internet Explorer"){
-        document.write("<style type='text/css'><!-- td { font-size: 11pt; font-family: Verdana, Arial, Helvetica, sans-serif} .text { font-size: 11pt; font-family: Verdana, Arial, Helvetica, sans-serif} .small { font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif} .large { font-size: 13pt; font-family: Verdana, Arial, Helvetica, sans-serif} --></style>");
-    }
-else if (OS =="Win" | OS == "Linux" && bName=="Netscape"){
-        document.write("<style type='text/css'><!-- td { font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif} .text { font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif} .small { font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif} .large { font-size: 12pt; font-family: Verdana, Arial, Helvetica, sans-serif} --></style>");
-    }
-else if (OS =="Solaris" && bName=="Netscape"){
-        document.write("<style type='text/css'><!-- td { font-size: 14px; font-family: sans-serif} .text { font-size: 12pt; font-family: sans-serif} .small { font-size: 10pt; font-family: sans-serif} .large { font-size: 16pt; font-family: sans-serif} --></style>");
-    }
-else if (OS =="Win" | OS == "Linux" && bName=="Microsoft Internet Explorer"){
-        document.write("<style type='text/css'><!--  td { font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif} .text { font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif} .small { font-size: 7pt; font-family: Verdana, Arial, Helvetica, sans-serif} .large { font-size: 11pt; font-family: Verdana, Arial, Helvetica, sans-serif} --></style>");
-        }
+	<meta name="curriculum" content="arts business computersandtechnology healthandmedicine internationalstudies languages literacy literatureandwriting  mathematics parentingskills philosophyandreligion professionaldevelopment science socialstudies">
+
+	<meta name="description" content="This Web site, provided by the Public Broadcasting Service (PBS), is home to more than 350 television show companion sites in addition to Web-original sites. PBS Online hosts interactive content for everyone — including kids, parents, educators, and the general audience.">
+
+	<meta name="program" content="PBS Online">
+
+	<link rel="stylesheet" href="/includes/common/pbsshell.css" type="text/css">
+
+	<!-- PAGE HEADER -->
 
 
-function changeImages(){
-  if (document.images) {
-    for (var i=0; i<changeImages.arguments.length; i+=2) {
-      document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
-    }
-  }
+
+	
+
+
+<script language="JavaScript" type="text/javascript">
+
+// Explore dropdown function
+function goUrl(neighborhood){
+  document.location.href = neighborhood;
 }
 
-function sitesatoz() {
-  newwin = window.open("http://www.pbs.org/sitesa2z/", "sitesatoz", 'toolbar=0,location=0,directories=0,scrollbars=1,status=0,menubar=0,resizable=1,width=390,height=300');
+// Validate Stationfinder zip submit
+function validateStationfinderzip(myForm) {
 
-  //check to see if this is launched from a frame
-  // Set focus if version is IE 5 or Netscape.
-  //
-  if (bName=="Microsoft Internet Explorer" && parseInt(bVer)<5){
-      newwin.opener = self;
-  }
-  else {
-     newwin.creator = self;
-  }
+	if(myForm.name == 'stationfinderzip') {
+	
+		var zipcode = new RegExp("\\d{5}", "g");
+
+		if(zipcode.test(myForm.zipcode.value)) {
+			return true;
+			}
+		else {
+			alert("Please enter your 5 digit Zip code to continue.");
+			return false;
+			}
+	}
 }
 
-// -->
-</script><style type="text/css"><!-- td { font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif} .text { font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif} .small { font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif} .large { font-size: 12pt; font-family: Verdana, Arial, Helvetica, sans-serif} --></style>
+
+// Validate Stationfinder state submit
+function validateStationfinderstate(myForm) {
+
+	if(myForm.name == 'stationfinderstate') {
+	
+		if(myForm.state.selectedIndex == 0) {
+			alert("Please select a state from the dropdown menu to continue.");
+			return false;
+			}
+		else {
+			return true;
+			}
+	
+	}
+}	
+		
+</script>
 
 
 
+<!-- PAGE HEADER END -->
 
-<title>PBS - Privacy Policy</title>
 
 </head>
 
-<body background="/images/bg.gif" vlink="#663399" link="#9900FF" text="#000000">
+<body bgcolor="#4A494A" text="#000000" link="#000000" vlink="#000000" alink="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" background="/images/common/bg.gif">
 
+<!-- BIG DADDY TABLE centers content and provides a three column format including two single-pixel vertical borders -->
 
+<table width="765" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#333333">
 
+	<tbody><tr>
 
+<!-- COLUMN ONE border -->
 
-<form method="GET" action="search_results.html">
+		<td width="1" align="left" valign="top" bgcolor="#333333"><img src="/images/common/blank.gif" height="1" hspace="0" width="1" border="0" alt=""></td>
 
-<a name="top"></a>
+<!-- COLUMN TWO page area -->
 
-<table cellpadding="0" cellspacing="0" border="0" align="CENTER">
+<!-- PAGE AREA -->
 
+		<td width="763" valign="top" bgcolor="#333333">
 
+<!-- MAIN TABLE -->
 
-<!--BANNER AD GOES HERE-->
+			<table width="763" border="0" cellspacing="0" cellpadding="0" align="center">
 
-  <tbody><tr>
+<!-- ROW ONE global nav only -->
 
-  	<td colspan="8" align="RIGHT"><!-- Begin PBS.org House Ad: 20011101 -->
-
-
-
-<a href="/adbanners/aboutsite/redir/http://www.pbs.org/parents/ecard/"><img src="/images/log/adbanners/pbsparentsecard.gif" border="0"></a>
-
-<!-- End PBS.org House Ad: 20011101 -->
-</td></tr>
-
-  <tr>
-
-  	<td colspan="9" width="614" align="RIGHT"><!--Global Navigation Goes Here-->
-
-<!-- popup code for INAV -->
-<script language="JavaScript">
-<!--
-function sitesatoz() {
-        newwin = window.open("http://www.pbs.org/inav/sitesa2z.html", "sitesatoz", 'toolbar=0,location=0,directories=0,scrollbars=1,status=0,menubar=0,resizable=1,width=420,height=300');
-        newwin.creator = top;
-}
-function whatson() {
-        newwin = window.open("http://www.pbs.org/inav/whatson.html", "whatson", 'toolbar=0,location=0,directories=0,scrollbars=1,status=0,menubar=0,resizable=1,width=420,height=300');
-        newwin.creator = top;
-}
-function stationsearch() {
-        newwin = window.open("http://www.pbs.org/inav/search_frames.html", "stationsearch", 'toolbar=0,location=0,directories=0,scrollbars=1,status=0,menubar=0,resizable=1,width=420,height=225');
-        newwin.creator = top;
-}
-function stationshop() {
-        newwin = window.open("http://www.pbs.org/inav/shop_frames.html", "stationshop", 'toolbar=0,location=0,directories=0,scrollbars=1,status=0,menubar=0,resizable=1,width=420,height=225');
-        newwin.creator = top;
-}
-function membership() {
-        newwin = window.open("http://www.pbs.org/inav/membership.html", "membership", 'toolbar=0,location=0,directories=0,scrollbars=1,status=0,menubar=0,resizable=1,width=500,height=300');
-        newwin.creator = top;
-}
-
-
-// -->
-</script>
-<!-- /popup code for INAV -->
-
-
-<script language="JavaScript">
-<!-- //
-function checkStationName () {
-	//reloads stationlogo if detects new station
-	if(document.images.nav_stationlogo) {
-		allcookies = document.cookie;
-		var pos = allcookies.indexOf("pbsol.station=");
-		if(pos != -1) {
-			var start = pos + 14;
-			var end = allcookies.indexOf(";",start);
-			if (end == -1) end = allcookies.length;
-			var station = allcookies.substring(start, end);
-			station = unescape(station);
-			if(station) {
-				document.images.nav_stationlogo.src = '/stationfinder/images/stations/pbsnav/' + station + '.gif';
-			} else {
-				document.images.nav_stationlogo.src = '/stationfinder/images/stations/pbsnav/PBS.gif';
-			} 
-		} else {
-			document.images.nav_stationlogo.src = '/stationfinder/images/stations/pbsnav/PBS.gif';
-		}
-	}
-	return true;
-}
-
-// -->
-</script>
-
-<table cellpadding="0" cellspacing="0" border="0" valign="TOP">
-  <tbody><tr>  	
-    <td width="2" height="3"><img src="/images/pbsnav/empty.gif" width="2" height="2" alt="" border="0"></td>
-    <td valign="BOTTOM" rowspan="2" height="34" width="82"><a href="/cgi-registry/stationlink.cgir"><img src="/cgi-registry/stationlogo?pbsnav" width="82" height="34" alt="Visit Your Local Station's Site" border="0" name="nav_stationlogo"></a></td>
-    <td rowspan="3" height="36" width="53" valign="BOTTOM"><a href="/"><img src="/images/pbsnav/phead2.gif" width="53" height="36" alt="PBS Logo" border="0" onload="checkStationName()"></a></td>
-    <td rowspan="2" valign="BOTTOM"><a href="/"><img src="/images/pbsnav/pbsnav_1_home.gif" width="70" height="34" alt="PBS Home" border="0"></a></td>
-    <td rowspan="2" valign="BOTTOM"><a href="/search"><img src="/images/pbsnav/pbsnav_2_search.gif" width="66" height="34" alt="Search" border="0"></a></td>
-    <td rowspan="2" valign="BOTTOM"><a href="javascript:sitesatoz();"><img src="/images/pbsnav/pbsnav_3_programs.gif" width="94" height="34" alt="Programs A-Z" border="0"></a></td>
-    <td rowspan="2" valign="BOTTOM"><a href="/whatson"><img src="/images/pbsnav/pbsnav_4_schedules.gif" width="103" height="34" alt="TV Schedules" border="0"></a></td>
-    <td rowspan="2" valign="BOTTOM"><a href="http://shop.pbs.org/"><img src="/images/pbsnav/pbsnav_5_shop.gif" width="49" height="34" alt="shopPBS" border="0"></a></td>
-
-    <td rowspan="2" valign="BOTTOM"><a href="#" onclick="membership()"><img src="/images/pbsnav/pbsnav_6_membership.gif" width="93" height="34" alt="Station Finder" border="0"></a></td>
-    <td width="2" height="3"><img src="/images/empty_space.gif" width="2" height="2" alt="" border="0"></td>
-  </tr>
-  <tr>
-    <td width="2" height="30" bgcolor="#FFFFFF"><img src="/images/pbsnav/empty.gif" width="2" height="2" alt="" border="0"></td>
-    <td width="2" height="30" bgcolor="#FFFFFF"><img src="/images/pbsnav/empty.gif" width="2" height="2" alt="" border="0"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" colspan="2"><img src="/images/pbsnav/white_border.gif" height="2" alt="Empty Space" border="0"></td>
-    <td bgcolor="#FFFFFF" colspan="7"><img src="/images/pbsnav/white_border.gif" height="2" alt="Empty Space" border="0"></td>
-  </tr>
-
+<form name="f" action="/search/search_results.html" method="get"></form>
+<tbody><tr><td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td bgcolor="#ffffff" width="78"><a href="http://www.pbs.org/cgi-registry/stationlink.cgir" target="_top"><img src="/images/stations/smallbw/PBS.gif" width="78" height="28" border="0" alt="Visit Your Local PBS Station"></a></td>
+<td bgcolor="#333333" width="30"><a href="/" target="_top"><img src="/images/nav/global/globalnav_pbslogo.gif" width="30" height="28" border="0" alt="PBS"></a></td>
+<td bgcolor="#333333"><img src="/images/common/blank.gif" width="1" height="28" border="0" alt=""></td>
+<td bgcolor="#333333" align="center" valign="middle"><a href="/" target="_top"><img src="/images/nav/global/globalnav_pbshome.gif" width="62" height="9" border="0" alt="PBS Home"></a></td>
+<td bgcolor="#333333" width="2" align="center" valign="middle"><img src="/images/nav/global/globalnav_divider.gif" width="2" height="28" border="0" alt=""></td>
+<td bgcolor="#333333" align="center" valign="middle"><a href="/search/search_programsaz.html" target="_top"><img src="/images/nav/global/globalnav_programs.gif" width="87" height="9" border="0" alt="Programs A-Z"></a></td>
+<td bgcolor="#333333" width="2" align="center" valign="middle"><img src="/images/nav/global/globalnav_divider.gif" width="2" height="28" border="0" alt=""></td>
+<td bgcolor="#333333" align="center" valign="middle"><a class="footernav" href="/hplink/redir/tvschedules/" target="_top">
+						<img src="/images/nav/global/globalnav_schedules.gif" width="81" height="9" border="0" alt="TV Schedules"></a></td>
+<td bgcolor="#333333" width="2" align="center" valign="middle"><img src="/images/nav/global/globalnav_divider.gif" width="2" height="28" border="0" alt=""></td>
+<td bgcolor="#333333" align="center" valign="middle"><a class="footernav" href="/hplink/redir/aboutpbs/aboutpbs_support.html" target="_top">
+						<img src="/images/nav/global/globalnav_support.gif" width="76" height="9" border="0" alt="Support PBS"></a></td>
+<td bgcolor="#333333" width="2" align="center" valign="middle"><img src="/images/nav/global/globalnav_divider.gif" width="2" height="28" border="0" alt=""></td>
+<td bgcolor="#333333" align="center" valign="middle"><a href="http://shop.pbs.org/" target="_top"><img src="/images/nav/global/globalnav_shop.gif" width="55" height="9" border="0" alt="Shop PBS"></a></td>
+<td bgcolor="#333333" width="2" align="center" valign="middle"><img src="/images/nav/global/globalnav_divider.gif" width="2" height="28" border="0" alt=""></td>
+<td bgcolor="#333333" width="175" align="center" valign="middle"><table border="0" cellpadding="0" cellspacing="0" align="center"><tbody><tr><td valign="middle"><a href="/search/" target="_top"><img src="/images/nav/global/globalnav_search.gif" width="44" height="9" border="0" alt="Search PBS"></a></td><td valign="middle">&nbsp;<input type="text" size="12" maxlength="250" name="q"></td><td valign="top">&nbsp;<input type="image" src="/images/common/buttons/button_go.gif" width="16" height="15" border="0" alt="Go" align="middle" name="btnG"></td></tr></tbody></table></td>
+</tr>
 </tbody></table>
-
 </td></tr>
 
 
+<!-- ROW ONE END -->
 
-<!--2nd Row, 1st Column-->
+<!-- ROW TWO silhouette bar only -->
 
-  <tr>
-
-  	<td bgcolor="#FFFFFF" width="2" rowspan="2"><img src="/images/empty_space.gif" width="2" height="2" alt="Empty Space" border="0"></td>
-
-  	<td bgcolor="#CC66CC" width="107" valign="TOP">
-
-  		<table cellpadding="0" cellspacing="0" border="0" valign="top" width="107">
-
-  		  <tbody><tr>
-
-<!--Page Header Graphic Goes Here-->
-
-  		  	<td colspan="3" valign="top"><img src="images/privacy_title_1.gif" width="107" height="116" alt="PBS - Search" border="0"></td></tr>
-
-  		  <tr>
-
-  		  	<td width="8"><img src="/images/empty_space.gif" width="8" height="2" alt="Empty Space" border="0"></td>
-
-  		  	<td width="91"><img src="/images/empty_space.gif" width="91" height="20" alt="Empty Space" border="0"><br>
-
-<!--Left Hand Side Announcements-->
-
-  		  	<font size="1" color="#FFFFFF" class="small"><!--This would be a hint or tip about this screen.--></font></td>
-
-  		  	<td width="8"><img src="/images/empty_space.gif" width="8" height="300" alt="Empty Space" border="0"></td></tr>
-
-  		</tbody></table></td>
-
-  	<td bgcolor="#FFFFFF" width="2" rowspan="2" valign="TOP"><img src="images/privacy_title_2.gif" width="2" height="116" alt="PBS - Search" border="0"></td>
-
-	<td bgcolor="#FFFFCC" width="25" rowspan="2" valign="TOP"><img src="images/privacy_title_3.gif" width="25" height="116" alt="PBS - Search" border="0"></td>
-
-	<td width="347" bgcolor="#FFFFCC" valign="TOP">
-
-		<table cellpadding="0" cellspacing="0" border="0" valign="top" width="347">
-
-		  <tbody><tr>
-
-		  	<td><img src="/images/empty_space.gif" width="8" height="17" alt="Empty Space" border="0"></td></tr>
-
-<!--Main Body Begins Here-->
-
-<!--First Subsection of Body Begins Here-->
-
-		  <tr>
-
-		  	<td bgcolor="#CC66CC" height="24" width="347" valign="middle"><img src="/images/empty_space.gif" width="7" height="5" alt="Empty Space" border="0"><br>
-
-		  	&nbsp;&nbsp;&nbsp;<font size="1" color="#FFFFFF"><b>PBS Online Privacy Policy</b></font><br>
-
-		  	<img src="/images/empty_space.gif" width="7" height="5" alt="Empty Space" border="0"></td></tr>
+<!-- SILHOUETTE BAR -->
 
 
 
-		  <tr>
-
-		  	<td><img src="/images/empty_space.gif" width="8" height="10" alt="Empty Space" border="0"></td></tr>
+				<tr><td width="763" align="left" valign="top" bgcolor="#333333">
 
 
 
-<!--Begin body text-->
+					<table width="763" border="0" cellspacing="0" cellpadding="0" align="center" background="/images/headers/aboutsite/header_silhouette_aboutsite.jpg">
 
-		  <tr>
 
-		  	<td><font size="1">
+
+						<tbody><tr><td width="5" height="34" align="left" valign="top"><img src="/images/common/blank.gif" height="34" hspace="0" width="5" border="0" alt="blank"></td>
+
+
+
+							<td width="500" height="34" align="left" valign="bottom" class="date"><img src="/images/common/blank.gif" height="1" hspace="0" width="500" border="0" alt="blank"><br>
+
+
+
+							Thursday, December  4, 2003<br>
+
+
+
+							<img src="/images/common/blank.gif" height="2" hspace="0" width="500" border="0" alt="blank"></td>
+
+
+
+							<td width="253" height="34" align="right" valign="middle">
+
+							
+
+														<img src="/images/common/explore.gif" height="15" hspace="0" width="58" align="middle" border="0" alt="Explore">
+
+							<select name="neighborhood" onchange="goUrl(document.f.neighborhood.options[selectedIndex].value)" target="_top">
+							
+							<option value="none" selected="selected">by topic...</option>
+							
+							<option value="/arts/">Arts &amp; Drama</option>
+							
+							<option value="/history/">History</option>
+
+							<option value="/home/">Home &amp; Hobbies</option>
+
+							<option value="/life/">Life &amp; Culture</option>
+
+							<option value="/news/">News &amp; Views</option>
+
+							<option value="/science/">Science &amp; Nature</option>
+
+							</select>&nbsp;<a href="javascript:goUrl(document.f.neighborhood.options[selectedIndex].value)" target="_top"><img src="/images/common/buttons/button_go.gif" height="15" hspace="0" width="16" align="middle" border="0" alt="Go" name="btnG"></a>&nbsp;&nbsp;
+
+							
+
+							</td>
+
+
+
+							<td width="5" height="34" align="left" valign="top"><img src="/images/common/blank.gif" height="34" hspace="0" width="5" border="0" alt="blank"></td>
+
+
+
+						</tr>
+
+
+
+					</tbody></table>
+
+
+
+				</td></tr>
+
+
+
+<!-- END SILHOUETTE BAR -->
+
+<!-- ROW TWO END -->
+
+<!-- ROW THREE content and subnav -->
+
+				<tr><td width="763" align="left" valign="top" bgcolor="#000000">
+
+<!-- ---------------------- BIG CONTENT AND SUBNAV TABLE --------------------------- -->
+
+					<table width="763" border="0" cellspacing="0" cellpadding="0" align="center">
+
+						<tbody><tr>
+
+<!-- LEFT (MAIN) COLUMN START -->
+
+							<td width="580" align="left" valign="top">
+
+								<table width="580" border="0" cellspacing="0" cellpadding="0" align="center">
+
+<!-- ROW ONE page header only -->
+
+<!-- PAGE HEADER -->
+
+									<tbody><tr align="left" valign="top">
+                      <td bgcolor="#000000" width="580" align="left" valign="top"><a href="aboutsite_privacy.html"><img src="/images/headers/aboutsite/header_main_privacy.gif" height="30" hspace="0" width="580" align="top" border="0" alt=" About This Site - Privacy Policy"></a></td></tr>
+
+<!-- END PAGE HEADER -->
+
+<!-- ROW ONE END -->
+
+<!-- ROW TWO page content and subnav includes nested table cellpadded for appropriate spacing around main page content -->
+
+									<tr align="left" valign="top" bgcolor="#f7e18b"><td>
+
+										<table width="580" border="0" cellspacing="25" cellpadding="0" align="left" bgcolor="#f7e18b">
+
+											<tbody><tr align="left" valign="top"><td>
+
+
+
+<span class="shellpagehead">pbs.org Privacy Policy</span>
+<br><br>
 
 <p>
 
-	Nothing is more important to us than protecting the private information of our visitors. From the PBS homepage to more than 85,000 pages of content produced by our affiliates, the “pbs.org” domain remains a safehaven. All PBS affiliated web sites adhere to a strict policy for ensuring the privacy of your—and your children’s—personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information) and preserving the integrity of this online medium.
+Nothing is more important to us than protecting the private information of our visitors. From the pbs.org homepage to more than 150,000 pages of content produced by our affiliates, the "pbs.org" domain remains a safehaven. All PBS-affiliated web sites adhere to a strict policy for ensuring the privacy of your—and your children's—personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information) and preserving the integrity of this online medium.
 
+</p>
+<span class="shellpagesubhead"><b>Gathering and Use of Information</b></span> 
+<p>
+
+</p><ol><li>We will not collect personally identifiable 
+  information from you, other than what you supply to us on a voluntary basis.<p></p>
+
+</li><li>In order to participate in some activities, you might 
+  be asked to provide some personally identifiable information. This could be in 
+  connection with the following:<p>
+
+</p><ul><li>contest or sweepstakes registration 
+    
+
+</li><li>subscription registration for sites or services 
+    which require subscription (such as e-mail newsletters) 
+    
+
+</li><li>requests for membership information to local 
+    television stations 
+    
+
+</li><li>transactions in shopPBS 
+    
+
+</li><li>content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, or voting</li></ul><p></p>
+
+</li><li>PBS Online will not willfully disclose your personal 
+  information to any third party without first receiving your permission.<p></p>
+
+</li><li>pbs.org may use your personally identifiable 
+  information for activities explained above, for internal and marketing 
+  promotional purposes, or when shopPBS customer mailing lists are made 
+  available to carefully screened companies whose products or services might 
+  interest individuals who have shopped on the PBS web site (this is the only 
+  case where such information is provided to third parties, at your approval). 
+  <p></p>
+
+</li><li>We will always explain the extent of its use at the time you are asked to provide personal information.  If you do not want this information to be collected or used by us for these purposes, you can simply "opt out."  Under certain circumstances, opting out may prevent your participation in activities for which personal information is needed, as in contests.</li></ol>
+
+
+<span class="shellpagesubhead"><b>Tracking and Use of Cookies</b></span> 
+
+
+<p>As you surf around PBS.org, it is possible that several cookies* will be set on your computer. PBS uses the information from cookies to deliver relevant local resources, remember browser preferences, and improve our visitors’ experiences on the site.</p>   
+
+<p>No personal information is ever stored in a PBS cookie, even if you have entered your name or e-mail address on other parts of PBS Online.  PBS does not sell information collected by cookies nor use the information for commerce-related purposes. In addition, PBS will not filter content based on your preferences without permission.</p>
+
+<p>PBS uses cookies at the following times:</p>
+<ul>
+<li><strong>If you <a href="http://www.pbs.org/stationfinder/index.html">localize</a> pbs.org to the PBS station nearest you, a cookie will tell us your station's call letters</strong>. PBS only keeps track of how many computers choose each station. You can choose to have your computer <a href="http://www.pbs.org/stationfinder/index.html">remember a different station</a>, or <a href="http://www.pbs.org/stationfinder/index.html">no station</a> at all, at any time. Please note that if you come to pbs.org from a local station site, and you were not previously localized to a station, you may be automatically localized to that station.<p>
+  
+</p></li><li><strong>If you watch a video clip or listen to an audio clip on pbs.org, a cookie may remember which media player (such as Real Player or Windows Media Player) and which type of clip (high or low bandwidth) you prefer to use on your computer.</strong>  You can change your video and audio preferences at any time, or choose a player each time you view or listen to a clip.<p>
+  
+</p></li><li><strong>As you explore pbs.org, a session cookie will tell us which pages you visit and the amount of time between each page visit.</strong>  This cookie does not remember any information about you or your computer, it just tells us at PBS how long visitors spend on our sites and which pages receive the most traffic. A "session cookie" only remembers information about your current visit to the site.<p>
+</p></li></ul>
+<p><strong>*What's a cookie?</strong>  A cookie is information a Web site puts on your computer's hard drive so that the site can remember your preferences or which pages you visited on that site.  </p>
+
+
+
+<p><span class="shellpagesubhead"><b>PBS Kids Privacy Policy</b></span></p>
+
+<p>
+
+Because PBS Kids speaks to a special audience, web sites that provide components for children must follow additional guidelines above and beyond the pbs.org policies.  For complete guidelines on information collection and sponsorship, please visit the <a href="http://pbskids.org/privacy">PBS Kids Privacy Policy</a>.
+
+</p><p> <span class="shellpagesubhead"><b>Acceptance of pbs.org Privacy Policy 
+  Terms and Conditions</b></span>
 </p><p>
 
-<b><font size="1">Gathering and Use of Information</font></b></p><p>
+By using this site, you signify your agreement to the terms and conditions of this pbs.org Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of pbs.org following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please e-mail us at <a href="mailto:www@pbs.org">www@pbs.org</a>.
 
-</p><ol><li>We will not collect personally identifiable information from you, other than what you supply to us on a voluntary basis.</li><p>
+</p><p> <span class="shellpagesubhead"><b>Rules of the Road</b> </span>
+</p><p> Please also make sure to read pbs.org's <a href="../aboutsite/aboutsite_rules.html">Rules 
+  of the Road</a> to understand the additional terms and conditions which apply 
+  to your use of our sites.<br>
+  <br><!-- PAGE CONTENT END --></p>
 
+											</td></tr>
 
+										</tbody></table>
 
-</p><li>In order to participate in some activities, you might be asked to provide some personally identifiable information.  This could be in connection with the following:</li><p>
+									</td></tr>
 
-</p><ul><li>contest or sweepstakes registration</li>
+<!-- ROW TWO END -->
 
-<li>subscription registration for sites or services which require subscription (such as e-mail newsletters)</li>
+								</tbody></table>
 
-<li>requests for membership information to local television stations</li>
+							</td>
 
-<li>transactions in shopPBS</li>
+<!-- LEFT (MAIN) COLUMN END -->
 
-<li>content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, or voting</li></ul><p>
+<!-- RIGHT (NAV) COLUMN -->
 
+							<td width="183" align="left" valign="top" bgcolor="#4D4D4D">
 
+								<table width="183" border="0" cellspacing="0" cellpadding="0" align="left" bgcolor="#4D4D4D">
 
-</p><li>PBS Online will not willfully disclose your personal information to any third party without first receiving your permission.</li><p>
+<!-- ABOUT PBS -->
 
+									<tbody><tr align="left" valign="center">
+                        <td width="15" height="17" bgcolor="#424542"><a href="/aboutpbs/"><img src="/images/common/arrows/arrow_shellsubnav_grey.gif" width="15" height="17" align="top" border="0" alt="About PBS" hspace="0"></a></td><td><a href="/aboutpbs/"><img src="/images/nav/shellsub/nav_aboutpbs_off.gif" width="167" height="17" align="top" border="0" alt="About PBS" hspace="0"></a><br></td></tr>
 
+<!-- ABOUT THIS SITE -->
 
-</p><li>PBS Online may use your personally identifiable information for activities explained above, for internal and marketing promotional purposes, or when shopPBS customer mailing lists are made available to carefully screened companies whose products or services might interest individuals who have shopped on the PBS web site (this is the only case where such information is provided to third parties, at your approval).</li>  <p>
+									<tr align="left" valign="center">
+                        <td width="15" height="17" bgcolor="#424542"><a href="/aboutsite/"><img src="/images/common/arrows/arrow_shellsubnav_white.gif" width="15" height="17" align="top" border="0" alt="About This Site" hspace="0"></a></td><td><a href="/aboutsite/"><img src="/images/nav/shellsub/nav_aboutsite_on.gif" width="167" height="17" align="top" border="0" alt="About This Site" hspace="0"></a><br></td></tr>
 
 
+<!-- INTERIOR SECTION NAV -->
+									<tr align="left" valign="middle" bgcolor="#d9a102"><td><a href="aboutsite_copyright.html"><img src="/images/common/arrows/arrow_white.gif" height="17" hspace="0" width="15" align="top" border="0" alt="About This Site - Copyright Agent"></a></td><td><a class="shellsubnavmain" href="aboutsite_copyright.html">Copyright Agent</a><br></td></tr>
 
-</p><li>We will always explain the extent of its use at the time you are asked to provide personal information.  If you do not want this information to be collected or used by us for these purposes, you can simply "opt out."  Under certain circumstances, opting out may prevent your participation in activities for which personal information is needed, as in contests.</li></ol>
+									<tr align="left" valign="middle" bgcolor="#d9a102"><td><a href="aboutsite_feedback.html"><img src="/images/common/arrows/arrow_white.gif" height="17" hspace="0" width="15" align="top" border="0" alt="About This Site - Feedback"></a></td><td><a class="shellsubnavmain" href="aboutsite_feedback.html">Feedback</a><br></td></tr>
 
+									<tr align="left" valign="middle" bgcolor="#d9a102"><td><a href="aboutsite_plugins.html"><img src="/images/common/arrows/arrow_white.gif" height="17" hspace="0" width="15" align="top" border="0" alt="About This Site - Plugins &amp; Downloads"></a></td><td><a class="shellsubnavmain" href="aboutsite_plugins.html">Plugins &amp; Downloads</a><br></td></tr>
 
+									<tr align="left" valign="middle" bgcolor="#d9a102"><td><a href="aboutsite_privacy.html"><img src="/images/common/arrows/arrow_white.gif" height="17" hspace="0" width="15" align="top" border="0" alt="About This Site - Privacy Policy"></a></td><td><a class="shellsubnavmain" href="aboutsite_privacy.html">Privacy Policy</a><br></td></tr>
 
-<b><font size="1">Tracking and Use of Cookies</font></b><p>
+									<tr align="left" valign="middle" bgcolor="#d9a102"><td><a href="aboutsite_rules.html"><img src="/images/common/arrows/arrow_white.gif" height="17" hspace="0" width="15" align="top" border="0" alt="About This Site - Rules of the Road"></a></td><td><a class="shellsubnavmain" href="aboutsite_rules.html">Rules of the Road</a><br></td></tr>
 
-Special computer code allows PBS Online to track user activity on our site. This computer code, when implemented, is called a "cookie."  PBS Online uses cookie technology through our localization options. When you enter your zip code and then select your station, a cookie will assign you a unique number (with no meaning whatsoever outside the customization process) that recalls this information each time you visit. As a result, you are able to customize your browsing experiences for your local PBS station, putting your local public television schedule, community events, calendars and a link to your local station site at your fingertips every time you visit PBS Online. At no time will this cookie reveal to others your name, e-mail address, street address, or telephone number (even if you have entered these in other areas of PBS Online). Please note that if you arrive at PBS.org from a local station Web site, you will be automatically localized to that station. If you wish to change your local station preference, please visit <a href="http://www.pbs.org/stationfinder/">Station Finder</a>.
+<!-- END INTERIOR SECTION NAV -->
 
+									<tr align="left" valign="middle" bgcolor="#d9a102"><td colspan="2"><img src="/images/common/blank.gif" height="4" width="1" border="0" alt=""><br></td></tr>
 
 
-</p><p>
+<!--  STATIONFINDER   -->
+<tr align="left" valign="middle"><td width="15" height="17" bgcolor="#424542"><a href="/stationfinder/"><img src="/images/common/arrows/arrow_shellsubnav_grey.gif" width="15" height="17" align="top" border="0" alt="Station Finder" hspace="0"></a></td><td><a href="/stationfinder/"><img src="/images/nav/shellsub/nav_stationfinder_off.gif" width="167" height="17" align="top" border="0" alt="Station Finder" hspace="0"></a><br></td></tr>
 
-<b><font size="1">PBS Kids Privacy Policy</font></b></p><p>
+<!-- END STATIONFINDER -->
+									</tbody></table>
 
+							</td>
 
+<!-- RIGHT (NAV) COLUMN END -->
 
-Because PBS Kids speaks to a special audience, web sites that provide components for children must follow additional guidelines above and beyond the PBS Online policies.  For complete guidelines on information collection and sponsorship, please visit the <a href="http://www.pbs.org/kids/privacy">PBS Kids Privacy Policy</a>.
+						</tr>
 
+					</tbody></table>
 
+<!-- ------------------------- BIG CONTENT AND SUBNAV TABLE END ------------------------- -->
 
-</p><p>
+				</td>
 
-<b><font size="1">Acceptance of PBS Online Privacy Policy Terms and Conditions</font></b></p><p>
+			</tr>
 
+<!-- ROW THREE END -->
 
-
-By using this site, you signify your agreement to the terms and conditions of this PBS Online Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of PBS Online following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please e-mail us at <a href="mailto:www@pbs.org">www@pbs.org</a>.
-
-
-
-</p><p>
-
-<b><font size="1">Rules of the Road</font></b></p><p>
-
-
-
-Please also make sure to read PBS Online's <a href="../aboutsite/roadrules.html">Rules of the Road</a> to understand the additional terms and conditions which apply to your use of our sites.
-
-
-
-
-</p><p align="right"><i>Last modified on 7/30/2002</i></p>
-			<br>
-
-
-
-			</font><p><font size="1">
-
-
-
-			<img src="/images/empty_space.gif" width="7" height="10" alt="Empty Space" border="0"><br>
-
-
-
-			</font></p></td></tr>
-
-		</tbody></table></td>
-
-	<td bgcolor="#FFFFCC" width="20" rowspan="2" valign="TOP"><img src="/images/empty_space.gif" width="20" height="10" alt="Empty Space" border="0"></td>
-
-	<td bgcolor="#FFFFFF" width="2" rowspan="2" valign="TOP"><img src="/images/empty_space.gif" width="2" height="10" alt="Empty Space" border="0"></td>
-
-	<td bgcolor="#00CCFF" width="107" valign="TOP">&nbsp;
-
-<!--Right Side Nav Area-->
-
-<br><br><table cellpadding="0" cellspacing="0" border="0" valign="top" width="107">
-
-		  <tbody><tr>
-
-		  	<td width="8" rowspan="16"><img src="/images/empty_space.gif" width="8" height="2" alt="Empty Space" border="0"></td></tr>
-
-
+<!-- ROW FOUR footer nav -->
 
 			<tr>
 
-  		  <td valign="top" colspan="2"><font size="-1" class="small"><b><br><br>
+				<td width="763" align="left" valign="top" bgcolor="#000000">
 
-  		  	<a href="../aboutsite/index.html">About This Site Index Page </a>
+<!-- FOOTER -->
 
-  		  	</b></font><br><br></td></tr>
+					<table width="763" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#000000">
 
+					<tbody><tr>
 
+						<td width="763" align="center" valign="top" class="footernav"><img src="/images/common/blank.gif" height="5" hspace="0" width="1" border="0" alt=""><br>
 
-  		<tr>
+						<a class="footernav" href="/aboutpbs/" target="_top">About PBS</a> | 
 
-  		  
+						<a class="footernav" href="/aboutsite/" target="_top">About this Site</a> | 
 
-  		  	<td valign="top" colspan="2"><font size="-1" class="small"><b>
+						<a class="footernav" href="/hplink/redir/aboutpbs/aboutpbs_support.html" target="_top">
+						
+						Support PBS</a> | 
+						
+						<a class="footernav" href="http://www.pbs.org/producers/" target="_top">Producing for PBS</a> | 
 
+						<a class="footernav" href="/aboutsite/aboutsite_feedback.html" target="_top">Feedback</a> | 
 
+						<a class="footernav" href="/aboutsite/aboutsite_privacy.html" target="_top">Privacy Policy</a> | 
 
+						<a class="footernav" href="/hplink/redir/tvschedules/" target="_top">
+						
+						TV Schedules</a> | 
+						
+						<a class="footernav" href="/stationfinder/" target="_top">Station Finder</a>
+						<br><img src="/images/common/blank.gif" height="5" hspace="0" width="1" border="0" alt=""><br>
 
 
+						<a class="footernav" href="/arts/" target="_top">Arts &amp; Drama</a> | 
 
+						<a class="footernav" href="/history/" target="_top">History</a> | 
+						
+						<a class="footernav" href="/home/" target="_top">Home &amp; Hobbies</a> | 
 
-  		  </b></font></td></tr><tr>
+						<a class="footernav" href="/life/" target="_top">Life &amp; Culture</a> | 
+						
+						<a class="footernav" href="/news/" target="_top">News &amp; Views</a> | 
 
-  		  <td valign="top" colspan="2"><font size="-1" class="small"><b>
+						<a class="footernav" href="/science/" target="_top">Science &amp; Nature</a>
 
-  		  	<a href="../aboutsite/faq.html">FAQs</a>
+<br><img src="/images/common/blank.gif" height="15" hspace="0" width="1" border="0" alt=""><br>
 
-  		  	</b></font><br><br></td></tr>
 
+						Copyright © 1995 - 2003 Public Broadcasting Service (PBS). All rights reserved.<br>
 
+						<img src="/images/common/blank.gif" height="6" hspace="0" width="1" border="0" alt=""><br>
 
-			<tr>
+						</td>
 
-  		  <td valign="top" colspan="2"><font size="-1" class="small">
+					</tr>
 
-  		  	<b><a href="../aboutsite/contactlist.html">Program Contacts</a></b><a href="../aboutsite/contactlist.html">
+					</tbody></table>
 
-  		  	</a></font><a href="../aboutsite/contactlist.html"><br><br></a></td></tr>
+<!-- END FOOTER -->
 
+				</td>
 
+			</tr>
 
-<tr>
+<!-- ROW FOUR END -->
 
-  		  <td valign="top" colspan="2"><font size="-1" class="small"><b>
+				</tbody></table></td>
 
-  		  	<font color="#ffffff">Privacy Policy </font>
+			</tr>
 
-  		  	</b></font><br><br></td></tr>
+<!-- ROW FOUR END -->
 
+		</tbody></table>
 
+<!-- MAIN TABLE END -->
 
-			<tr>
+	
 
-  		  <td valign="top" colspan="2"><font size="-1" class="small"><b>
+<!-- PAGE AREA END -->
 
-  		  	<a href="../aboutsite/roadrules.html">Rules of the Road</a>
+<!-- COLUMN THREE border -->
 
-  		  	</b></font><br><br></td></tr>
+	<img src="/images/common/blank.gif" height="1" hspace="0" width="1" border="0" alt="">
 
 
 
 
 
-
-
-				<tr>
-
-  		  <td valign="top" colspan="2"><font size="-1" class="small"><b>
-
-  		  	<a href="http://sponsorship.pbs.org/">Sponsorship Opportunities</a>
-
-  		  	</b></font><br><br></td></tr>
-
-
-
-
-
-
-			<tr>
-
-  		  <td valign="top" colspan="2"><font size="-1" class="small"><b>
-
-  		  	<a href="../aboutsite/awards.html">Site Awards and Reviews</a>
-
-  		  	</b></font><br><br></td></tr>
-
-
-
-
-
-<tr>
-
-  		  	<td valign="top" colspan="2"><font size="-1" class="small"><b>
-
-  		  	<a href="../aboutsite/feedback.html">Feedback</a>
-
-  		  	</b></font><br><br></td></tr>
-
-
-
-<tr>
-
-  		  	<td valign="top" colspan="2"><font size="-1" class="small"><b>
-
-  		  	<a href="../aboutsite/copyright_contact.html">Copyright Agent</a>
-
-  		  	</b></font><br><br></td></tr>
-
-
-
-
-
-  		</tbody></table>
-
-		<!--End Right Side Nav Area-->
-
-  	</td>
-
-
-
-  	<td bgcolor="#FFFFFF" width="2" rowspan="2"><img src="/images/empty_space.gif" width="2" height="2" alt="Empty Space" border="0"></td></tr>
-
-
-
-<!--Back to Top-->
-
-  <tr>
-
-  	<td bgcolor="#CC66CC" width="107"><a href="#top"><img src="/images/backto.gif" width="107" height="21" alt="Back to Top of Page" border="0"></a></td>
-
-  	<td width="347" bgcolor="#FFFFCC" valign="TOP">&nbsp;</td>
-
-	<td bgcolor="#00CCFF" width="107">&nbsp;</td>
-
-  </tr>
-
-
-
-  <tr>
-
-  	<td colspan="9" bgcolor="#FFFFFF" height="2"><img src="/images/empty_space.gif" width="8" height="2" alt="Empty Space" border="0"></td></tr>
-
-  </tbody></table>
-
-</form>
-
+<!--  BIG DADDY TABLE END -->
 
 
 
