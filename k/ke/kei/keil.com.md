@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813003024id_/http%3A//www.keil.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604072302id_/http%3A//keil.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Keil Software Privacy Statement
 
@@ -126,7 +126,7 @@ We partner with other embedded tools companies and chip manufacturers to provide
 
 ### What Security Precautions are in Effect?
 
-[ ](https://digitalid.verisign.com/as2/55464fbce992c07ab00982a6524b5f46) **Keil Software** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line. 
+[ ](https://digitalid.verisign.com/as2/d5bdae13abd5799759e12c3c650c78da) **Keil Software** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line. 
 
 All forms on this web site are available in both non-secure and secure formats. Secure forms encrypt and protect information with the best encryption software in the industry -- SSL. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just _surfing_. To learn more about SSL, refer to [http://www.verisign.com](http://www.verisign.com/). 
 
@@ -190,5 +190,5 @@ To remove your e-mail address from one of our list servers, follow the direction
 If we decide to change our privacy policy, we will post those changes at <http://www.keil.com/company/privacy_changes.htm> so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
     
-[Copyright](http://www.keil.com/company/copyright.htm) © 2001 [Keil Software, Inc](http://www.keil.com/company/).  All rights reserved.  
+[Copyright](http://www.keil.com/company/copyright.htm) © 2002 [Keil Software, Inc](http://www.keil.com/company/).  All rights reserved.  
 Report any problems to the [webmaster](mailto:webmaster@keil.com). 
