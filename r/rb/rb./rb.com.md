@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606005307id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206185859id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,7 +82,7 @@ If you choose to visit BentleyPublishers.com, your visit and any dispute over pr
 
 ##### Information You Give Us
 
-You provide most such information when you search, buy, participate in a questionnaire, or communicate with customer service. For example, you provide information when you search for a product; make an order; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire form; participate in [Technical Discussion Forums](http://tech.bentleypublishers.com/rbIdentify.jsp). As a result of those actions, you might supply us with such information as your name, address, and phone number; credit card information; people to whom purchases have been shipped, including address and phone number; content of feedback, comments and e-mails to us.
+You provide most such information when you search, buy, participate in a questionnaire, or communicate with customer service. For example, you provide information when you search for a product; make an order; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire form; participate in [Technical Discussion Forums](http://tech.bentleypublishers.com/). As a result of those actions, you might supply us with such information as your name, address, and phone number; credit card information; people to whom purchases have been shipped, including address and phone number; content of feedback, comments and e-mails to us.
 
 ##### Automatic Information
 
