@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624111237id_/http%3A//www.diversityinc.com/public/department26.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2004-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040824222333id_/http%3A//www.diversityinc.com/public/department26.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.diversityinc.com/bannergate/BannerGateRotator.cfm?CatIndex=4&LinkIndex=11)
+[](http://www.diversityinc.com/bannergate/BannerGateRotator.cfm?CatIndex=4&LinkIndex=1)
 
 Privacy Policy 
 
@@ -37,4 +37,4 @@ Our site gives users the opportunity to opt-in to receive communications from us
 DiversityInc will share information with the government when required by law. DiversityInc will not share information unless it has been given a valid court order or subpoena. DiversityInc will not disclose whether or not law enforcement agencies have sought or obtained information under the Patriot Act.
 
  **Other**  
-If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20040624111237id_/http%3A//www.diversityinc.com/public/main.cfm?page=7).
+If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20040824222333id_/http%3A//www.diversityinc.com/public/main.cfm?page=7).
