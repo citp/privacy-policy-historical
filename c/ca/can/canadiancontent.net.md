@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606100951id_/http%3A//www.canadiancontent.net/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011033849id_/http%3A//canadiancontent.net/corp/privacy.html) for the most accurate reproduction.*
 
 # Canadian Content - Privacy Policy
 
