@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2003-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030518143938id_/http%3A//www.sitecore.net/Global/Menu/Privacy%2520policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2003-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031011083841id_/http%3A//www.sitecore.net/menu/privacy%2520policy.aspx) for the most accurate reproduction.*
 
-# SiteCore .Net - Internet Development and Content Management System
+# SiteCore .Net CMS - Internet Development and Content Management System
 
-The following statement outlines the privacy policy of  SiteCore ApS. This policy is based on our fundamental goal to provide our visitors with quality information and resources while maintaining individual anonymity and personal privacy. Please forward any comments you may have regarding this policy to [webmaster@sitecore.net](mailto:webmaster@sitecore.net).
+The following statement outlines the privacy policy of  SiteCore A/S. This policy is based on our fundamental goal to provide our visitors with quality information and resources while maintaining individual anonymity and personal privacy. Please forward any comments you may have regarding this policy to [webmaster@sitecore.net](mailto:webmaster@sitecore.net).
 
-**Visitor data collected by SiteCore ApS**
+**Visitor data collected by SiteCore A/S**
 
 When you access our web pages, the client information and the essential and nonessential technical information listed below is automatically collected - we refer to those categories collectively as "access" information. No other information is collected through the SiteCore ApS web site except when you deliberately decide to send it to us (for example, by clicking on a link to send us an e-mail). The information you might choose to send us is listed below as "optional information."
 
@@ -18,7 +18,7 @@ When you access our web pages, the client information and the essential and none
 
 **Optional information**
 
-  * When you send us an e-mail: your name, e-mail address, and the content of your e-mail.
+  * When you send us an e-mail: your name, e-mail address, and the content of your e-mail. 
   * When you complete online forms: all the data you choose to fill in or confirm.
 
 
@@ -37,7 +37,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 **Use of cookies**
 
-The SiteCore ApS website uses "cookies," a small data file transferred by a website to your computer's hard drive. We send cookies when you surf [www.sitecore.net](http://www.sitecore.net/), respond to online surveys or polls, or request information. Accepting the cookies used on our site does not give us access to your Personally Identifiable Information, but we can use the cookies to identify your computer. The aggregate information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide you with a better experience by improving the content and making it easier to use. 
+The SiteCore A/S website uses "cookies," a small data file transferred by a website to your computer's hard drive. We send cookies when you surf [www.sitecore.net](http://www.sitecore.net/), respond to online surveys or polls, or request information. Accepting the cookies used on our site does not give us access to your Personally Identifiable Information, but we can use the cookies to identify your computer. The aggregate information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide you with a better experience by improving the content and making it easier to use. 
 
 **Providing information is your choice**
 
@@ -50,5 +50,3 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 **How to contact us**
 
 Should you have other questions or concerns about our privacy policies and practices, please call us at (+45) 70 23 66 60 or send us an e-mail at [webmaster@sitecore.net](mailto:webmaster@sitecore.net). 
-
-Copyright © SiteCore ApS 2002. All rights reserved.
