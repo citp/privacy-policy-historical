@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208173255id_/http%3A//nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607070015id_/http%3A//nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/web/20031208173255id_/http%3A//nanotech-now.com/) > [About Us](https://web.archive.org/web/20031208173255id_/http%3A//nanotech-now.com/about_us.htm) > Privacy Policy
+[Home](https://web.archive.org/web/20040607070015id_/http%3A//nanotech-now.com/) > [About Us](https://web.archive.org/web/20040607070015id_/http%3A//nanotech-now.com/about_us.htm) > Privacy Policy
 
 **Privacy Notice:**
 
