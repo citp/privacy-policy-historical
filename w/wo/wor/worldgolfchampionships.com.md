@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the worldgolfchampionships.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205114257id_/http%3A//www.pgatour.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgolfchampionships.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603212320id_/http%3A//www.pgatour.com/information/privacy.html) for the most accurate reproduction.*
 
-# GolfWeb@PGATOUR.COM
-
-**Privacy statement for SportsLine.com**
+# GolfWeb@PGATOUR.COM Privacy Statement
 
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of SportsLine.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for SportsLine.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites (including those to which the Website links and third party sites or services with which SportsLine.com) may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to [privacy@sportsline.com](mailto:privacy@sportsline.com). 
 
@@ -82,9 +80,22 @@ Attn: Privacy Statement
 2200 W. Cypress Creek Road  
 Fort Lauderdale, Florida 33309**
 
-|   |  |   
----  
-Find a course  
-that matches your game  
-with our Course Guide.  
-[Click Here!](http://courseguide.golfweb.com/html.cgi?page=index.html)
+|   |  [Play the Charity Challenge](http://golf.fantasy.pgatour.com/splash/golf/pgatour/challenge) [Perry finds groove again](http://www.pgatour.com/u/ce/multi/0,1977,6405675,00.html) [Ahern wraps up win](http://www.pgatour.com/u/ce/multi/0,1977,6405620,00.html) [Sörenstam wins 44th LPGA title](http://www.pgatour.com/u/ce/multi/0,1977,6405634,00.html) [More news](https://web.archive.org/news/index.html) [Join PGA TOUR Partners Club and dad joins free](http://www.sportsline.com/redir?url=975)
+
+[Get shot-by-shot info on your favorite players with TOURCast](http://www.pgatour.com/tourcast/totourcast.html)
+
+[Play TOUR Fantasy today](http://www.pgatour.com/fantasy/index.html)
+
+[Play the Charity Challenge](http://golf.fantasy.pgatour.com/splash/golf/pgatour/challenge)
+
+[Giving back is at the heart of the PGA TOUR](http://www.pgatour.com/charity/index.html)
+
+[Read The Daily Dozen](https://web.archive.org/partner/wtw/index.html)
+
+[TOUR Academy](https://web.archive.org/practicetee/touracademy/)
+
+[Pro Tips](https://web.archive.org/practicetee/protips/index.html)
+
+[Equipment news](https://web.archive.org/practicetee/equipment/index.html)
+
+[Travel](https://web.archive.org/travel/index.html)
