@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftbits.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608205914id_/http%3A//www.craftbits.com/html/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftbits.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203023423id_/http%3A//www.craftbits.com/html/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
