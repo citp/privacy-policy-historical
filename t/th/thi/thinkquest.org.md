@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215621id_/http%3A//www.thinkquest.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605050146id_/http%3A//www.thinkquest.org/privacy_policy.html) for the most accurate reproduction.*
 
 # ThinkQuest Privacy Policy
 
@@ -24,6 +24,3 @@ The ThinkQuest Library entries are made up of Web pages prepared by our contesta
 
 **Information for Parents**   
 We ask that all participants in the ThinkQuest programs, who have not reached the age of legal majority, get the permission of their parents or legal guardians in order to participate in ThinkQuest programs.
-
-**Contacting the Web Site**   
-If you have any questions about the practices of this site, or your dealings with this Web site, you can contact our [Help Desk](https://web.archive.org/help/ask_question.html)
