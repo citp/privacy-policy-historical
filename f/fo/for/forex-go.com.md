@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-go.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610012147id_/http%3A//www.forexgo.com/index.ncre%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-go.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209173734id_/http%3A//www.forexgo.com/index.ncre%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # ForexGo! - Privacy Policy
 
