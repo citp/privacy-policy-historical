@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114214id_/http%3A//blackamericaweb.com/index.cfm%3FCatID%3D997) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207171330id_/http%3A//www.blackamericaweb.com/index.cfm%3FCatID%3D997) for the most accurate reproduction.*
 
 # BlackAmericaWeb.com Home
 
