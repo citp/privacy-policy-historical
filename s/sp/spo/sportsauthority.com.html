@@ -1,120 +1,116 @@
-<!--The following is the downloaded HTML source of the sportsauthority.com privacy policy that was archived on 2002-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021201174356id_/http%3A//www.thesportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsauthority.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203234512id_/http%3A//www.thesportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 
 	<title>The Sports Authority Helpdesk</title>
 	<script language="Javascript">
+	function emailCheck(type)
+	{
+	var EmailOk  = true
+	var Temp     = document.emailForm.emailAddress.value
+	var AtSym    = Temp.indexOf('@')
+	var Period   = Temp.lastIndexOf('.')
+	var Space    = Temp.indexOf(' ')
+	var Length   = Temp.length - 1   // Array is from 0 to length-1
 
-//	THIS POWERS THE DROP DOWN MENUS
-	function selectCat2(URL) {
-	//--If the selected file name isn't blank, send it to reader.
-	if (URL != "") {
-	
-		if (URL == "allSports") {
-			self.location.href = ('http://www.thesportsauthority.com/home/index.jsp');
-			}
-			
-		else if (URL == "allItems") {
-			self.location.href = ('/shopByItem/index.jsp');
+	if ((AtSym < 1) ||                     // '@' cannot be in first position
+	    (Period <= AtSym+1) ||             // Must be atleast one valid char btwn '@' and '.'
+	    (Period == Length ) ||             // Must be atleast one valid char after '.'
+	    (Space  != -1))                    // No empty spaces permitted
+	   {
+	      EmailOk = false;
+	      alert('Please enter a valid e-mail address.');
+	      return false;
+	   }
+		if(type == 1)
+		{
+		document.emailForm.submit();
 		}
-		
-		else if (URL == "fanZone") {
-			self.location.href = ('/category/index.jsp?categoryId=18082');
-		}		
-	
-		else {
-			self.location.href = URL;
-			}
-		}
-	}
-
-//	BROWSER CHECK	
-	var containerBrowser = "Unknown";
-	var containerBrowser = parseFloat( navigator.appVersion);
-	
-	if	(navigator.appName == "Microsoft Internet Explorer")	{
-	containerBrowser = "IE";
-	}
-	
-	else if	(navigator.appName == "Netscape")	{
-	containerBrowser = "NN";
 	}
 
 
-    var agt=navigator.userAgent.toLowerCase();
-    var is_mac    = (agt.indexOf("mac")!=-1);	
 
 
 
-
-
-	function showCustomPopUp(thisUrl,thisName,theseParams) {
+function showCustomPopUp(thisUrl,thisName,theseParams)
+{
 	remote = open(thisUrl, thisName, theseParams);
-	}	
-	
-//	GENERIC POP-UP
-	function showPopUp3x2(thisUrl) {
-	remote = open(thisUrl, "PopUp3x2", "width=300,height=200,left=150,top=0");
-	}
-	
-//	LARGE IMAGE POP-UP WINDOW
-	function showLargeImage(thisImage) {
-	remote = open(thisImage, "largeImage", "width=505,height=525,left=0,top=0");
-	}
-	
+}
+
+
+// WE SHOULD NOT NEED THESE jh
+
+
+
 //	verisign POP-UP WINDOW
-	function popUp(url) {
+function popUp(url)
+{
 	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-	self.name = "mainWin"; }
-	
+	self.name = "mainWin";
+}
+
+function jump(url)
+{
+	if (url != "" && url != null)
+	{
+		self.location.href = url;
+	}
+}
 </script>
 
-<meta name="description" content="Welcome to www.thesportsauthority.com, the ultimate authority for athletic equipment selection, quality sporting goods and value. Whether you're looking for discount sports equipment, athletic apparel online, investment or career information, we have everything you need to get into your game. Any time. Any team. Any player. Any sport. Always priced right.">
-
-<meta name="keywords" content="sports authority,athletic equipment shopping,inline skating,athletic equipment online,athletic apparel,treadmill shopping,sporting goods retail,shop for scooters,sporting goods shopping,athletic equipment shopping,sporting goods,exercise equipment,sports gear,discount sports equipment,workout clothes shopping,treadmills,lowest prices,sports equipment,discount sporting goods online shopping,lowest online price,treadmill,baseballs,basketballs,soccer clothes,running shoes,balls,football uniform,baseball bat,exercise treadmills,sports apparel online,discount athletetic equipment,exercise clothes,inline skates,scooters,workout apparel,basketball shoes,price guarentee">
     <link rel="stylesheet" type="text/css" href="../include/store.css">
 
 </head>
 <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" border="0">
+ <script>
+	function newWindowScroll(url) {
+  	theWindow = window.open(url,
+  	'mapWinScroll', 'width=410,height=400,scrollbars=yes,resizable=no')
+	theWindow.focus();
+	}
+
+</script>
 <br>
 <table width="96%" align="center" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td>&nbsp;</td>
-	<td align="right" class="topnavlink"><a href="/home/index.jsp" class="topnavlink">HOME</a> &nbsp;|&nbsp; <a href="https://www.thesportsauthority.com/coreg/index.jsp?step=register" class="topnavlink">MY ACCOUNT</a> &nbsp;|&nbsp; <a href="/helpdesk/index.jsp" class="topnavlink">HELP</a> &nbsp;|&nbsp; <a href="https://www.thesportsauthority.com/coreg/index.jsp?step=ot" class="topnavlink">TRACK YOUR ORDER</a> &nbsp;|&nbsp; <a href="/corp/index.jsp?page=storeLocator" class="topnavlink">STORE LOCATOR</a> &nbsp;|&nbsp; <a href="/cart/index.jsp" class="topnavlink">CART <img src="http://TSA.imageg.net/@v=0274@/images/header_carticon.gif" width="17" height="10" align="absmiddle" border="0"></a></td>
+	<td align="right" class="topnavlink" colspan="2"><a href="https://www.thesportsauthority.com/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" class="topnavlink">MY ACCOUNT</a> &nbsp;|&nbsp; <a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="topnavlink">HELP</a> &nbsp;|&nbsp; <a href="https://www.thesportsauthority.com/coreg/index.jsp?step=ot&amp;clickid=topnav_track_txt" class="topnavlink">TRACK YOUR ORDER</a> &nbsp;|&nbsp; <a href="/corp/index.jsp?page=storeLocator&amp;clickid=topnav_locator_txt" class="topnavlink">STORE LOCATOR</a> &nbsp;|&nbsp; <a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink">CART</a>&nbsp;&nbsp;$0.00&nbsp;(0 Items)</td>
 </tr>
 <tr>
-	<td width="419" height="53" rowspan="2"><a href="/home/index.jsp"><img src="http://TSA.imageg.net/@v=0274@/images/header_logo_xmas.jpg" width="419" height="53" alt="Return to the Homepage" border="0"></a></td>
-	<td width="100%" height="6"><img src="http://TSA.imageg.net/@v=0274@/images/pixel.gif" width="1" height="6"></td>
+	<td width="184" height="53" rowspan="2"><a href="/home/index.jsp?clickid=topnav_logo_img"><img src="http://TSA.imageg.net/images/header_logo.gif" width="184" height="53" alt="Return to the Homepage" border="0"></a></td>
+	<td width="100%" height="6" colspan="2"><img src="http://TSA.imageg.net/images/pixel.gif" width="1" height="6"></td>
 </tr>
-<tr>
-	<td height="47" align="right" valign="bottom" bgcolor="#D52311" colspan="2">
+<tr bgcolor="#D82217">
+    <td><img src="http://TSA.imageg.net/images/FS_header_holiday.gif" border="0" usemap="#freeShip">
+	</td>
+	<td height="47" align="right" valign="bottom" bgcolor="#D82217">
 	
-	<table border="0" cellpadding="0" cellspacing="0" align="right">
+	<table border="0" cellpadding="0" cellspacing="0" align="right" bgcolor="#D82217"> 
 	<tbody><tr>
-		<td bgcolor="#FFFFFF" height="20">&nbsp;&nbsp;<a href="/groupsales/index.jsp" style="color:#D52311;font-size:10px;"><b>TEAM &amp; CORPORATE SALES</b></a>&nbsp;&nbsp;</td>
-		<td width="4" height="20"><img src="http://TSA.imageg.net/@v=0274@/images/pixel.gif" width="4" height="20"></td>
-		<td bgcolor="#FFFFFF" height="20">&nbsp;&nbsp;<a href="/giftCenter/index.jsp" style="color:#D52311;font-size:10px;"><b>GIFT SHOP</b></a>&nbsp;&nbsp;</td>
-		<td width="4" height="20"><img src="http://TSA.imageg.net/@v=0274@/images/pixel.gif" width="4" height="1"></td>
-		<td bgcolor="#FFFFFF" height="20">&nbsp;&nbsp;<a href="/outlet/index.jsp" style="color:#D52311;font-size:10px;"><b>OUTLET</b></a>&nbsp;&nbsp;</td>
-		<td width="8" height="20"><img src="http://TSA.imageg.net/@v=0274@/images/pixel.gif" width="8" height="1"></td>
+		<td nowrap="" bgcolor="#D82217" height="25"><a href="/giftCenter/index.jsp?clickid=topnav_giftcenter_txt"><img src="http://TSA.imageg.net/images/tab_giftCenter.gif" border="0"></a></td>
+		<td nowrap="" bgcolor="#D82217" height="25"><a href="/groupsales/index.jsp?clickid=topnav_grsales_txt"><img src="http://TSA.imageg.net/images/tab_teamsales.gif" border="0"></a></td>
+		<td bgcolor="#D82217" height="25"><a href="/outlet/index.jsp?clickid=topnav_outlet_txt"><img src="http://TSA.imageg.net/images/tab_outlet.gif" border="0"></a></td>
 	</tr>
 	</tbody></table></td>
 </tr>
 <tr>
-	<td width="100%" height="8" colspan="2"><img src="http://TSA.imageg.net/@v=0274@/images/pixel.gif" width="1" height="8"></td>
+	<td width="100%" height="8" colspan="3"><img src="http://TSA.imageg.net/images/pixel.gif" width="1" height="8"></td>
 </tr>
 </tbody></table>
 <table width="96%" align="center" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#D5D5D5"><form name="search" action="/searchHandler/index.jsp" method="get"></form>
-	<td height="31" width="100%" align="right" colspan="2"><font style="color:#005F90;font-size:10px;"><b>SEARCH BY</b> Keyword or Online Item #</font> <input name="keywords" class="pagetext" size="16"> &nbsp;<input type="image" src="http://TSA.imageg.net/@v=0274@/images/header_gobutton.gif" width="21" height="17" border="0" align="absmiddle" cache=""></td>
-	<td align="center"><img src="http://TSA.imageg.net/@v=0274@/images/header_divline.gif" width="2" height="16" hspace="18"></td>
-	<td align="right">
-	<form name="sform" action=""><select onchange="jump(this.options[selectedIndex].value)" class="pagetext" style="font-weight:bold;color:#555555;"><option>Browse the Store</option><option value="/category/index.jsp?categoryId=710537">Accessories</option><option value="/category/index.jsp?categoryId=702126">Apparel</option><option value="/category/index.jsp?categoryId=711608">Baseball/Softball</option><option value="/category/index.jsp?categoryId=711651">Basketball</option><option value="/category/index.jsp?categoryId=712859">Boating/Watersports</option><option value="/category/index.jsp?categoryId=711743">Bowling</option><option value="/category/index.jsp?categoryId=710957">Boxing/Martial Arts</option><option value="/category/index.jsp?categoryId=713364">Camping/Hiking</option><option value="/category/index.jsp?categoryId=713103">Cycling</option><option value="/category/index.jsp?categoryId=1063924">Deck/Patio Center</option><option value="/category/index.jsp?categoryId=991053">Electronics/Optics</option><option value="/category/index.jsp?categoryId=710956">Exercise</option><option value="/category/index.jsp?categoryId=715322">Fan Shop-Pro/College</option><option value="/category/index.jsp?categoryId=716957">Fishing</option><option value="/category/index.jsp?categoryId=711652">Football</option><option value="/category/index.jsp?categoryId=766034">Footwear</option><option value="/category/index.jsp?categoryId=726087">Games</option><option value="/category/index.jsp?categoryId=714659">Golf</option><option value="/category/index.jsp?categoryId=712508">Hunting/Archery</option><option value="/category/index.jsp?categoryId=711662">Ice/Roller Hockey</option><option value="/category/index.jsp?categoryId=701917">In-Line/Roller Skating</option><option value="/category/index.jsp?categoryId=711658">Lacrosse</option><option value="/category/index.jsp?categoryId=712507">Paintball</option><option value="/category/index.jsp?categoryId=714771">Racquetball/Squash</option><option value="/category/index.jsp?categoryId=702279">Running</option><option value="/category/index.jsp?categoryId=701959">Skateboarding</option><option value="/category/index.jsp?categoryId=702243">Skiing</option><option value="/category/index.jsp?categoryId=702245">Snowboarding</option><option value="/category/index.jsp?categoryId=711653">Soccer</option><option value="/category/index.jsp?categoryId=711654">Softball</option><option value="/category/index.jsp?categoryId=714770">Tennis</option><option value="/category/index.jsp?categoryId=754008">Winter Recreation</option><option value="/category/index.jsp?categoryId=710961">Yoga</option><option value="/category/index.jsp?categoryId=717754">More Sports</option><option>-----------------------------</option></select><img src="http://TSA.imageg.net/@v=0274@/images/pixel.gif" width="6" height="1"></form></td>
+<tbody><tr bgcolor="#D5D5D5"><form name="search" action="/searchHandler/index.jsp?clickid=topnav_search_img" method="get"></form>
+	<td height="31" width="100%" align="right" nowrap="">&nbsp;&nbsp;<font style="color:#005F90;font-size:10px;"><b>SEARCH BY</b> Keyword or Online Item #</font> <input name="keywords" class="pagetext" size="16"> &nbsp;<input type="image" src="http://TSA.imageg.net/images/header_gobutton.gif" width="21" height="17" border="0" align="absmiddle" cache=""></td>
+	<td align="center"><img src="http://TSA.imageg.net/images/header_divline.gif" width="2" height="16" hspace="18"></td>
+	<td align="right"> 
+	<form name="sform" action=""><select onchange="jump(this.options[selectedIndex].value)" class="pagetext" style="font-weight:bold;color:#555555;"><option>Browse the Store</option><option value="/category/index.jsp?categoryId=710537&amp;clickid=topnav_dropdown_txt">Accessories</option><option value="/category/index.jsp?categoryId=702126&amp;clickid=topnav_dropdown_txt">Apparel</option><option value="/category/index.jsp?categoryId=711608&amp;clickid=topnav_dropdown_txt">Baseball/Softball</option><option value="/category/index.jsp?categoryId=711651&amp;clickid=topnav_dropdown_txt">Basketball</option><option value="/category/index.jsp?categoryId=710957&amp;clickid=topnav_dropdown_txt">Boxing/Martial Arts</option><option value="/category/index.jsp?categoryId=713364&amp;clickid=topnav_dropdown_txt">Camping/Hiking</option><option value="/category/index.jsp?categoryId=1232576&amp;clickid=topnav_dropdown_txt">Customized Product</option><option value="/category/index.jsp?categoryId=713103&amp;clickid=topnav_dropdown_txt">Cycling</option><option value="/category/index.jsp?categoryId=702278&amp;clickid=topnav_dropdown_txt">Electronics</option><option value="/category/index.jsp?categoryId=710956&amp;clickid=topnav_dropdown_txt">Exercise</option><option value="/category/index.jsp?categoryId=715322&amp;clickid=topnav_dropdown_txt">Fan Shop</option><option value="/category/index.jsp?categoryId=716957&amp;clickid=topnav_dropdown_txt">Fishing</option><option value="/category/index.jsp?categoryId=711652&amp;clickid=topnav_dropdown_txt">Football</option><option value="/category/index.jsp?categoryId=766034&amp;clickid=topnav_dropdown_txt">Footwear</option><option value="/category/index.jsp?categoryId=726087&amp;clickid=topnav_dropdown_txt">Games</option><option value="/shop/index.jsp?categoryId=714659&amp;clickid=topnav_dropdown_txt">Golf</option><option value="/category/index.jsp?categoryId=712508&amp;clickid=topnav_dropdown_txt">Hunting/Archery</option><option value="/category/index.jsp?categoryId=711662&amp;clickid=topnav_dropdown_txt">Ice/Roller Hockey</option><option value="/category/index.jsp?categoryId=701917&amp;clickid=topnav_dropdown_txt">In-Line Skating</option><option value="/category/index.jsp?categoryId=711658&amp;clickid=topnav_dropdown_txt">Lacrosse</option><option value="/category/index.jsp?categoryId=1395436&amp;clickid=topnav_dropdown_txt">Optics / Telescopes</option><option value="/category/index.jsp?categoryId=712507&amp;clickid=topnav_dropdown_txt">Paintball</option><option value="/category/index.jsp?categoryId=714771&amp;clickid=topnav_dropdown_txt">Racquetball/Squash</option><option value="/category/index.jsp?categoryId=702279&amp;clickid=topnav_dropdown_txt">Running</option><option value="/category/index.jsp?categoryId=713104&amp;clickid=topnav_dropdown_txt">Scooters</option><option value="/category/index.jsp?categoryId=701959&amp;clickid=topnav_dropdown_txt">Skateboarding</option><option value="/category/index.jsp?categoryId=702243&amp;clickid=topnav_dropdown_txt">Skiing</option><option value="/category/index.jsp?categoryId=702245&amp;clickid=topnav_dropdown_txt">Snowboarding</option><option value="/category/index.jsp?categoryId=711653&amp;clickid=topnav_dropdown_txt">Soccer</option><option value="/category/index.jsp?categoryId=714770&amp;clickid=topnav_dropdown_txt">Tennis</option><option value="/category/index.jsp?categoryId=711661&amp;clickid=topnav_dropdown_txt">Volleyball</option><option value="/category/index.jsp?categoryId=863840&amp;clickid=topnav_dropdown_txt">Water Recreation</option><option value="/category/index.jsp?categoryId=754008&amp;clickid=topnav_dropdown_txt">Winter Recreation</option><option value="/category/index.jsp?categoryId=711660&amp;clickid=topnav_dropdown_txt">Wrestling</option><option value="/category/index.jsp?categoryId=710961&amp;clickid=topnav_dropdown_txt">Yoga / Pilates</option><option value="/category/index.jsp?categoryId=717754&amp;clickid=topnav_dropdown_txt">More Sports</option><option>-----------------------------</option></select><img src="http://TSA.imageg.net/images/pixel.gif" width="6" height="1" border="0"></form></td>
 </tr>
 
 </tbody></table>
+	<map name="freeShip">
+<area shape="rect" alt="" coords="119,30,162,46" href="javascript:void(0);" onclick="newWindowScroll('../home/popup_12.html?clickid=topnav_freeship_img'); return false;" style="color:#FF0000;">
+</map>
 <table border="0" width="96%" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
     <td valign="top"><table cellpadding="6" border="0" width="100%">
@@ -127,7 +123,7 @@
 
     </td></tr>
 </tbody></table>
-
+    
     
 
 <table width="98%" border="0" cellpadding="0" cellspacing="0">
@@ -143,37 +139,39 @@
 		<table border="0">
 		<tbody><tr>
 			<td valign="top"><font class="subheadNumber">»</font> </td>
-			<td><a class="hd_pagelink" href="index.jsp?display=safety&amp;subdisplay=secure&amp;WebLogicSession=PepKXEREIH3JSlMg2oPtOBhaXfrMqUJdsVlwqXCIahsVpzl6fe2JvGneivfXDdw0FjrbPSUIw0Q3|2653523434555356900/-1408236265/5/8880/8880/7002/7002/-1">Secure Shopping Guarantee</a></td>
+			<td><a class="hd_pagelink" href="index.jsp?display=safety&amp;subdisplay=secure&amp;WebLogicSession=P851hIulD8iRO3j2V2oxBcIBNOL48N98dEQvUwH1yPKTIg872JDk2MUBTT2S3Hl1gbYiKBaqX1I3|802958324899106193/-1408170715/5/8880/8880/7002/7002/-1">Secure Shopping Guarantee</a></td>
 		</tr><tr>
 			<td valign="top"><font class="subheadNumber">»</font> </td>
-			<td><a class="hd_pagelink" href="index.jsp?display=safety&amp;subdisplay=terms&amp;WebLogicSession=PepKXEREIH3JSlMg2oPtOBhaXfrMqUJdsVlwqXCIahsVpzl6fe2JvGneivfXDdw0FjrbPSUIw0Q3|2653523434555356900/-1408236265/5/8880/8880/7002/7002/-1">Terms &amp; Conditions</a></td>
+			<td><a class="hd_pagelink" href="index.jsp?display=safety&amp;subdisplay=terms&amp;WebLogicSession=P851hIulD8iRO3j2V2oxBcIBNOL48N98dEQvUwH1yPKTIg872JDk2MUBTT2S3Hl1gbYiKBaqX1I3|802958324899106193/-1408170715/5/8880/8880/7002/7002/-1">Terms &amp; Conditions</a></td>
 		</tr><tr>
 			<td valign="top"><font class="subheadNumber">»</font> </td>
-			<td><a class="hd_pagelink" href="index.jsp?display=safety&amp;subdisplay=privacy&amp;WebLogicSession=PepKXEREIH3JSlMg2oPtOBhaXfrMqUJdsVlwqXCIahsVpzl6fe2JvGneivfXDdw0FjrbPSUIw0Q3|2653523434555356900/-1408236265/5/8880/8880/7002/7002/-1">Privacy Policy</a></td>
+			<td><a class="hd_pagelink" href="index.jsp?display=safety&amp;subdisplay=privacy&amp;WebLogicSession=P851hIulD8iRO3j2V2oxBcIBNOL48N98dEQvUwH1yPKTIg872JDk2MUBTT2S3Hl1gbYiKBaqX1I3|802958324899106193/-1408170715/5/8880/8880/7002/7002/-1">Privacy Policy</a></td>
 		</tr></tbody></table></td>
 	</tr>
 	</tbody></table></td>
 	<td width="20"><img src="../images/pixel.gif" height="1" width="20"><br></td>
-	<td valign="top"><a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" height="27" width="143" border="0"></a><br><a href="javascript:showCustomPopUp('http://www.truste.org/validate/4891','','width=650,height=500,left=25,top=25,scrollbars=yes');"><img src="../images/truste_clickseal.gif" border="0" height="73" width="91"></a> 
+	<td valign="top"><a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" height="27" width="143" border="0"></a> 
 
 
 
 <br><br>
+<!--You are running on prod4app2_5-->
+
 
 
 
 <table border="0" width="100%"><tbody><tr><td align="left" class="hd_TD" bgcolor="#FFFFFF"><a name="1"></a><b>Our Privacy Policy</b></td></tr></tbody></table>
-<p>Global Sports Interactive, Inc. has created this Privacy Policy to inform you of the information gathering and dissemination practices for this Web site, www.thesportsauthority.com.  Global Sports Interactive, which operates this Web site, is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, we have agreed to notify you of:</p>
+<p>GSI Commerce Solutions, Inc. has created this Privacy Policy to inform you of the information gathering and dissemination practices for this Web site, www.thesportsauthority.com. Because we want to demonstrate our commitment to your privacy, we want to notify you of:</p>
 <ol>
 <li>What personally identifiable information of yours is collected through this Web site;
 </li><li>The organization collecting the information;
 </li><li>How the information is used;
 </li><li>With whom the information may be shared;
 </li><li>What choices are available to you regarding collection, use and distribution of the information;
-</li><li>The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under Global Sport Interactive's control; and
+</li><li>The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under GSI Commerce Solutions, Inc.'s control; and
 </li><li>How you can correct any inaccuracies in the information.
 </li></ol>
-<p>If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at 1.888.801.9164.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org/users/users_watchdog.html" class="navtop2" target="_blank">http://www.truste.org/users/users_watchdog.html</a>. TRUSTe will then serve as a liaison with Global Sports Interactive to address your concerns.</p>
+<p>If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at 1.888.801.9164.</p>
 
 <font class="header">Visiting www.thesportsauthority.com</font>
 <p>Your IP address, browser and reference site domain name are logged every time you visit our site.  This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
@@ -223,7 +221,7 @@ We may also contact you with promotional offers if you have entered one of our c
 <font class="header">Our Third Party Relationships</font>
 &nbsp;&nbsp;<p>We have established several relationships with third parties vendors to best serve our customers.</p>
 <ul>
-<li><b><u>Retailer:</u></b>  Global Sports Interactive operates this Web site pursuant to agreements with The Sports Authority, Inc. ("The Sports Authority").  Pursuant to such agreements, The Sports Authority is entitled to access and use the information collected through this Web site to the same extent and in the same manner as Global Sports Interactive.  Additionally, The Sports Authority may contact those customers who have agreed to receive promotional offers about offers in its land-based stores.  The Sports Authority has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to Global Sports Interactive hereunder.
+<li><b><u>Retailer:</u></b>  GSI Commerce Solutions, Inc. operates this Web site pursuant to agreements with The Sports Authority, Inc. ("The Sports Authority").  Pursuant to such agreements, The Sports Authority is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions, Inc..  Additionally, The Sports Authority may contact those customers who have agreed to receive promotional offers about offers in its land-based stores.  The Sports Authority has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions, Inc. hereunder.
 </li><li><b><u>Affiliates:</u></b> From time to time we may establish an affiliate program.  An affiliate program allows other Web sites to earn money by linking customers to our site from their sites.  These affiliates can only access data about the number of transactions and their resulting earnings.  They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you.  We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs.  Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs.
 </li><li><b><u>Order Fulfillment:</u></b> Certain vendors of ours  provide customer order fulfillment and shipping services on our behalf.  These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors.  These vendors have agreed to not use any personally identifiable information of customers for any other purpose.
 </li><li><b><u>Credit Card Processing:</u></b> We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes.
@@ -241,8 +239,7 @@ Additionally, from time to time, we share non-personal, non-individual statistic
 
 <font class="header">Questions about our Policies</font>
 <p>If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at 1.888.801.9164.
-<br><br>
-If you have questions pertaining to our compliance with TRUSTe, contact our Customer Service Department first.  If you still have questions or concerns, we invite you to contact TRUSTe directly.  TRUSTe will then act as a liaison between you and Global Sports Interactive to address any of your concerns.</p>
+</p>
 
 
 <br><br></td>
@@ -254,44 +251,50 @@ If you have questions pertaining to our compliance with TRUSTe, contact our Cust
 <br>
 <table width="96%" align="center" border="0" cellpadding="5" cellspacing="1">
 <tbody><tr bgcolor="#D5D5D5">
-	<td valign="top" width="20%"><a href="/infohome/index.jsp" class="footerlink">COACH'S CORNER</a></td>
+	<td valign="top" width="20%"><a href="/infohome/index.jsp?clickid=botnav_coach_txt" class="footerlink">COACH'S CORNER</a></td>
 	<td valign="top" width="20%"><font class="footerlink">GIFT IDEAS</font></td>
-	<td valign="top" width="20%"><a href="/affiliate/index.jsp" class="footerlink">AFFILIATE</a></td>
-	<td valign="top" width="20%"><a href="/helpdesk/index.jsp" class="footerlink">HELP</a></td>
-	<td valign="top" width="20%"><a href="/corp/index.jsp" class="footerlink">ABOUT US</a></td>
+	<td valign="top" width="20%"><a href="/affiliate/index.jsp?clickid=botnav_affiliate_txt" class="footerlink">AFFILIATE</a></td>
+	<td valign="top" width="20%"><a href="/helpdesk/index.jsp?clickid=botnav_help_txt" class="footerlink">HELP</a></td>
+	<td valign="top" width="20%"><a href="/corp/index.jsp?clickid=botnav_aboutus_txt" class="footerlink">ABOUT US</a></td>
 </tr>
 <tr>
 	<td valign="top" width="20%">
-	<a href="/infodept/index.jsp?categoryId=222976" class="leftnavlink">Buyers Guides</a><br>
-	<a href="/infodept/index.jsp?categoryId=222993" class="leftnavlink">Sizing / Selection</a><br>
-	<a href="/infodept/index.jsp?categoryId=222990" class="leftnavlink">Pro Tips</a><br></td>
+	<a href="/infodept/index.jsp?categoryId=222976&amp;clickid=botnav_buyguide_txt" class="leftnavlink">Buyers Guides</a><br>
+	<a href="/infodept/index.jsp?categoryId=222993&amp;clickid=botnav_sizing_txt" class="leftnavlink">Sizing / Selection</a><br></td>
 	
 	<td valign="top" width="20%">
-	<a href="/giftCenter/index.jsp" class="leftnavlink">Gift Shop</a><br>
-	<a href="/giftCertificates/index.jsp" class="leftnavlink">Gift Cards/Certificates</a><br></td>
+	<a href="/giftCenter/index.jsp?clickid=botnav_giftshop_txt" class="leftnavlink">Gift Shop</a><br>
+	<a href="/giftCertificates/index.jsp?clickid=botnav_giftcards_txt" class="leftnavlink">Gift Cards/Certificates</a><br></td>
 	
 	<td valign="top" width="20%">
-	<a href="/affiliate/index.jsp" class="leftnavlink">Join Our Affiliate<br>program and earn cash!</a><br></td>
+	<a href="/affiliate/index.jsp?clickid=botnav_joinaffiliate_txt" class="leftnavlink">Join Our Affiliate<br>program and earn cash!</a><br></td>
 	
 	<td valign="top" width="20%">
-	<a href="https://www.thesportsauthority.com/coreg/index.jsp?step=ot" class="leftnavlink">Order Tracking</a><br>
-	<a href="/helpdesk/index.jsp?display=ship" class="leftnavlink">Shipping</a><br>
-	<a href="/helpdesk/index.jsp?display=returns" class="leftnavlink">Returns &amp; Warranties</a><br></td>
+	<a href="https://www.thesportsauthority.com/coreg/index.jsp?step=ot&amp;clickid=botnav_track_txt" class="leftnavlink">Order Tracking</a><br>
+	<a href="/helpdesk/index.jsp?display=ship&amp;clickid=botnav_shipping_txt" class="leftnavlink">Shipping</a><br>
+	<a href="/helpdesk/index.jsp?display=returns&amp;clickid=botnav_returns_txt" class="leftnavlink">Returns &amp; Warranties</a><br></td>
 	
 	<td valign="top" width="20%">
-	<a href="http://investor.thesportsauthority.com" class="leftnavlink">Investor Relations</a><br>
-	<a href="/corp/index.jsp?page=storeLocator" class="leftnavlink">Store Locator</a><br>
-	<a href="/corp/index.jsp?page=events" class="leftnavlink">Event Calendar</a><br></td>
+	<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=79757&amp;p=irol-IRHome" class="leftnavlink">Investor Relations</a><br>
+	<a href="/corp/index.jsp?page=storeLocator&amp;clickid=botnav_locator_txt" class="leftnavlink">Store Locator</a><br>
+	<a href="/corp/index.jsp?page=events&amp;clickid=botnav_events_txt" class="leftnavlink">Event Calendar</a><br></td>
 </tr>
 </tbody></table><br>
 <table width="96%" align="center" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr bgcolor="#D92318">
-	<td height="31" width="60"><img src="http://TSA.imageg.net/@v=0274@/images/footer_logo.gif" width="60" height="31"></td>
-	<td>&nbsp;<font style="font-size:9.5px;color:#ffffff"> COPYRIGHT © 1999-2002.</font></td>
-	<td align="center">&nbsp;<font style="font-size:9.5px;color:#ffffff"><img src="http://TSA.imageg.net/@v=0274@/images/footer_xmas.gif" width="94" height="31" align="absmiddle"></font></td>
-	<td align="right"><font style="font-size:9.5px;color:#ffffff">*List price is for reference only.  No sales may have occurred at this price.</font>&nbsp;&nbsp;</td>
+<tbody><tr bgcolor="#D82217">
+	<td height="31" width="60"><img src="http://TSA.imageg.net/images/footer_logo.gif" width="60" height="31"></td>
+	<td>&nbsp;<font style="font-size:9.5px;color:#ffffff"> © 1999-2003.</font></td>
+	<td><img src="http://TSA.imageg.net/images/footer_xmas.gif" width="56" height="31"></td>		
+	<td align="right"><font style="font-size:9.5px;color:#ffffff">*List price is for reference only.  No sales may have occurred at this price.&nbsp;**See product page for details.</font>&nbsp;&nbsp;</td>
 </tr>
 </tbody></table><br>
+<table width="50%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+    <td colspan="3">The products available through thesportsauthority.com may vary from those appearing in Sports
+Authority stores. Contact your local store for specific product information.</td>
+</tr>
+</tbody></table><br><br>
+
 
 
 </body></html>
