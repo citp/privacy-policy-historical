@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210134709id_/http%3A//www.bookcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206055134id_/http%3A//www.bookcrossing.com/privacy) for the most accurate reproduction.*
 
 # BookCrossing - privacy - FREE YOUR BOOKS!
 
@@ -25,52 +25,4 @@ By using the BookCrossing site, you consent to the collection and use of your in
 **What can I do if I have additional questions?**  
 Feel free to [contact us](https://web.archive.org/contact) any time and we'll answer any additional questions you may have. 
 
-©2001-2004 BookCrossing.com  All Rights Reserved 
-
-**Join  
-BookCrossing  
- Now!**
-
-Our global community of book lovers and book releasers needs **you** — help us make literary history by turning the whole world into a library! BookCrossing is fun, friendly and _free_. [Click here to Join Now](https://web.archive.org/join).
-
-  
-bookcrossing.com  
-entire web  
-
-
-[](https://web.archive.org/link/?url=http%3A%2F%2Fwww%2Eqpb%2Ecom%2Fdoc%2Fqpb%2Fms%2Fms%5F1625%2Ehtml%3Fsrc%5Ftype%3Dmedia%26src%3DAP2%5F01%5Fb87%5F729%5F001%5F11781)  
-
-
-BookCrossing has partnered with QPB to bring you early release softcovers at up to 87% off publishers' hardcover prices. Choose from a diverse collection of quality titles, and directly support BookCrossing while you save! [Click here to browse titles](https://web.archive.org/link/?url=http%3A%2F%2Fwww%2Eqpb%2Ecom%2Fdoc%2Fqpb%2Fms%2Fms%5F1625%2Ehtml%3Fsrc%5Ftype%3Dmedia%26src%3DAP2%5F01%5Fb87%5F729%5F001%5F11781)
-
-[](https://web.archive.org/link/?url=http%3A%2F%2Fstore%2Eyahoo%2Ecom%2Fcgi%2Dbin%2Fclink%3Fphotoframesplus%2BGUWmHK%2Bfurnishings%2Ddesk%2Dsets%2Daccessories%2Dbookends%2Ehtml)  
-
-
-Just in time for holiday shopping, we've partnered with PhotoFramesPlus.com to bring you beautiful bookends. Choose from an extensive selection of corporate gifts, desk accessories, home furnishings and world globes, too—each purchase directly supports BookCrossing! [Click here to browse bookends](https://web.archive.org/link/?url=http%3A%2F%2Fstore%2Eyahoo%2Ecom%2Fcgi%2Dbin%2Fclink%3Fphotoframesplus%2BGUWmHK%2Bfurnishings%2Ddesk%2Dsets%2Daccessories%2Dbookends%2Ehtml)
-
-[](https://secure.bookcrossing.com/store)  
-
-
-Shop online at our secure [Supply Store](https://secure.bookcrossing.com/store) to buy Bookplate Labels, Bookmarks, Sticky-notes, Release Kits, and Stamps. Every purchase or donation made there directly supports the BookCrossing website, and will earn your [Wings](https://web.archive.org/wings)!
-
-[](https://web.archive.org/link/PCMagTop100)  
-
-
-BookCrossing.com is selected as one of PC Magazine's _Top 100 You Can't Live Without Sites_ for 2004! 
-
-[](https://web.archive.org/link/magazania)  
-
-
-Like magazines? Then you'll love our new [Newsstand](https://web.archive.org/link/magazania), powered by Magazania. Subscribe to, renew or gift any of your favorite titles - like _Oprah_ , _Utne_ , _National Geographic_ , _Book Page_ , and thousands more - at the best prices anywhere! [Learn more](https://web.archive.org/link/magazania) and subscribe or renew for yourself or for others (it's gift-giving season) today.
-
-[](https://web.archive.org/link/meetup)  
-
-
-Did you know BookCrossers are meeting-up together in cities all over the world, the second Tuesday of each month? Go to [Meetup.com](https://web.archive.org/link/meetup) and find out where _your_ meeting will be! 
-
-[](https://web.archive.org/link/mentalfloss)  
-
-
-The Chicago Tribune says "For the discerning intellect, **mental** _floss cleans out the cobwebs." The Washington Post calls it "a delightfully eccentric and eclectic new magazine." If you like books, we know you'll like it. [Learn more](https://web.archive.org/link/mentalfloss) and [subscribe](https://web.archive.org/link/mentalflosssubscribe).
-
-"After all, all he did was string together a lot of old, well-known quotations."
+©2001-2005 BookCrossing.com  All Rights Reserved 
