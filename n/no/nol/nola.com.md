@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nola.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601232734id_/http%3A//www.nola.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nola.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206103649id_/http%3A//www.nola.com/privacypolicy) for the most accurate reproduction.*
 
 # NOLA.com: Privacy Policy
 
@@ -70,8 +70,8 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.nola.com/privacypolicy/index.ssf/NQS/731414900/Sponsor1/default/empty.gif/64316564656561303365646138626530)   
-[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.nola.com/privacypolicy/index.ssf/NQS/63227733/Tile1/NOLALIVE/AV_PERSONALS_NL03/190_400_copy1_no2.jpg/64316564656561303365646138626530)   
+[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.nola.com/privacypolicy/index.ssf/NQS/2079269936/Sponsor1/default/empty.gif/34353032373034323366643162313430)   
+[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.nola.com/privacypolicy/index.ssf/NQS/1062882163/Tile1/NOLALIVE/AV_AUTOTIPS_NL03/190_240_no2.gif/34353032373034323366643162313430)   
   
   
 
