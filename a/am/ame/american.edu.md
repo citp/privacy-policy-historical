@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207000000id_/http%3A//www.american.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203133900id_/http%3A//www.american.edu/privacy.html) for the most accurate reproduction.*
 
 # American University Privacy Policy
 
@@ -40,7 +40,7 @@ If you do not want to be contacted by us in the future, please let us know.
 4400 Massachusetts Avenue, NW  
 
      WWW Operations
-     e-Operations
+     e-operations
 
 Washington, D.C.  20016 | **We can be reached via e-mail at:  **
 
