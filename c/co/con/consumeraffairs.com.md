@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215123200id_/http%3A//www.consumeraffairs.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405011412id_/http%3A//www.consumeraffairs.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # ConsumerAffairs.Com Privacy Policy
 
