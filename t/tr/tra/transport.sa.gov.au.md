@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.sa.gov.au privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211101129id_/http%3A//www.transport.sa.gov.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.sa.gov.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606035416id_/http%3A//www.transport.sa.gov.au/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Transport SA
 
@@ -34,7 +34,7 @@ Collection of personal information
 
 Email addresses
 
-Transport SA will only record your e-mail address if you send us a message by e-mail or you include it in an online form. 
+Transport SA will only record your email address if you send us a message by email or you include it in an online form. 
 
 It will only be used to send you a reply and not added to a mailing list or used for any other purpose without your consent.
 
@@ -58,4 +58,4 @@ Privacy guidelines
 
 This privacy statement will be continually reviewed in line with the ongoing development of this Internet site. It is based on national and international privacy standards and follows the guidelines set out in the South Australian Government's Information Privacy Principles <http://www.archives.sa.gov.au/services/public/privacy_index.html>. 
 
-If you have any questions about our privacy policies please[ email us](https://web.archive.org/web/20031211101129id_/http%3A//contact_us/email_contact_form.asp)
+If you have any questions about our privacy policies please[ email us](https://web.archive.org/web/20040606035416id_/http%3A//contact_us/email_contact_form.asp)
