@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erank.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202172500id_/http%3A//erank.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erank.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331153303id_/http%3A//www.erank.com/policy.htm) for the most accurate reproduction.*
 
 # eRank.com Privacy Policy
 
@@ -12,13 +12,9 @@ We use your IP address to help diagnose problems with our server and to administ
 
 #### Advertisers
 
-We use outside ad companies to display ads on our site. These ads may contain cookies. While we do not use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information.
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here ([www.sonar.com/naiprivacy](http://www.sonar.com/naiprivacy)).
 
-We have ads served onto our site by Advertising.com. To visit their privacy statement, please click here:  
-<http://www.advertising.com/privacy/index.html>.
-
-Some ads appearing on this Web site are delivered to you by our Web advertising partner, Sonar Network, using DoubleClick's DART technology.  In the course of delivering an ad to you, our advertising partner collects certain non-personally identifiable information about you. If you would like to know more about the information gathering practices and "opt-out" procedures of Sonar Network, please click here:  
-<http://www.sonar.com/content/privacy.htm>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 #### Personal Information
 
@@ -58,5 +54,5 @@ We care about children and understand that they have special privacy needs. Ther
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](https://web.archive.org/web/20001202172500id_/http%3A//erank.com/feedback.htm).  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](https://web.archive.org/web/20010331153303id_/http%3A//www.erank.com/feedback.htm).  
 
