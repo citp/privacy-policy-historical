@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pffcu.org privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014112828id_/http%3A//www.pffcu.org/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pffcu.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604232117id_/http%3A//www.pffcu.org/privacypolicy.asp) for the most accurate reproduction.*
 
 # PFFCU - Privacy Policy
 
@@ -10,7 +10,7 @@ Police and Fire Federal Credit Union and PFFCU Financial Services LLC. are commi
 
 As a member of PFFCU and/or customer of PFFCU Financial Services, LLC, you also have a responsibility to safeguard your financial information. To ensure that you can rely upon the quality of products and services we make available, PFFCU and PFFCU Financial Services, LLC stand behind the following privacy policy:
 
-  * **PFFCU and PFFCU Financial Services, LLC will only collect the personal information that is necessary to conduct our business.** This means just what is necessary to provide competitive financial products and services—and no more. We may collect nonpublic information about you from the following sources:
+  * **PFFCU and PFFCU Financial Services, LLC will only collect the personal information that is necessary to conduct our business.** This means just what is necessary to provide competitive financial products and services--and no more. We may collect nonpublic information about you from the following sources:
     * Information we receive from you on applications and other forms
     * Information about your transactions with us, our affiliates, or others; and
     * Information we receive from a consumer reporting agency.
@@ -40,4 +40,4 @@ Our Internet Branch is best viewed through Internet Explorer.
 You can download the latest version for free by [clicking here.](http://www.microsoft.com/windows/ie/default.htm)  
 This version allows you to access PC EXPRESS safely and securely.
 
-Copyright © 2002 Police and Fire Federal Credit Union. All Rights Reserved. 
+Copyright © 2003 Police and Fire Federal Credit Union. All Rights Reserved. 
