@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203170426id_/http%3A//www.smartcruiser.com/privacy.rvlx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606195751id_/http%3A//www.smartcruiser.com/privacy.rvlx) for the most accurate reproduction.*
 
 # A Discount Cruise Site for the Savvy Traveler
 
