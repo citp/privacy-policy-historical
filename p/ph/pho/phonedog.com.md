@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203071258id_/http%3A//phonedog.com/us/en/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402043349id_/http%3A//phonedog.com/us/en/content/privacy.html) for the most accurate reproduction.*
 
-# long distance and cell phone providers rates and services comparison
+# PhoneDog.com privacy policy - your telecommunications resource
 
 ## Privacy Policy
 
@@ -44,3 +44,6 @@ PhoneDog.com
 Thank you for your support.  
 Sincerely,  
 PhoneDog.com CIO
+
+|   
+|       
