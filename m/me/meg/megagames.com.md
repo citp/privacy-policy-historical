@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204222405id_/http%3A//megagames.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2004-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040408225557id_/http%3A//www.megagames.com/policy.htm) for the most accurate reproduction.*
 
 # MegaGames - Privacy Statement
 
 |   
 ---  
-| [](http://www.couponsandoffers.com/co/rchelicopter/MG/rcstuntcar.asp?sid=shopad) |  |   
+| [](http://www.gamingtrivia.com/adimages/match/click-url.asp) |  |   
 ---|---|---  
   
 **Privacy Statement for MegaGames**
