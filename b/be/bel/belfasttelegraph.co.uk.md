@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211634id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212093821id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
 
 # Belfast Telegraph
 
   
 |   |  Privacy Policy  
 Please read this carefully  
-09 December 2003 
+09 October 2004 
 
 Before using the Website (that is, any site operated by **Independent News & Media plc** companies) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties. 
 
 **The basic principles**
 
-By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20040602211634id_/http%3A//www.belfasttelegraph.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
+By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20041212093821id_/http%3A//www.belfasttelegraph.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
 
 ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably. 
 
