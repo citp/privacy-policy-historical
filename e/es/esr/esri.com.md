@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2000-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000510004452id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207110000id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
 
 # ESRI Web Site Privacy Statement
 
@@ -17,7 +17,7 @@ When you buy data through ArcData Online that has been provided by a third party
 
 ### Information Collected Automatically
 
-We collect your domain name (such as esri.com), the type if Internet browser you use, and the operating system you use automatically. This information is used **only** for internal review to help us improve the content of our Web page. The information is not shared with any other company or used by ESRI to contact clients.
+We collect your domain name (such as esri.com), the type of Internet browser you use, and the operating system you use automatically. This information is used **only** for internal review to help us improve the content of our Web page. The information is not shared with any other company or used by ESRI to contact clients.
 
 ### Children
 
