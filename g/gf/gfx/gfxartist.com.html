@@ -1,28 +1,27 @@
-<!--The following is the downloaded HTML source of the gfxartist.com privacy policy that was archived on 2004-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610090011id_/http%3A//www.gfxartist.com/about/privacy_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gfxartist.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208074437id_/http%3A//www.gfxartist.com/about/privacy_statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Privacy statement - GFXartist.com - Served over 20,000,000 artworks</title>
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="Generator" content="GFXartist Engine 1.0">
-<meta name="Author" content="Martijn van Zal, Martin Kool, Arno Drost">
-<meta name="Keywords" content="">
-<meta name="Description" content="">
+<meta name="Author" content="Martijn van Zal, Martin Kool, Arno Drost, Marvin Ronk">
+<meta name="Keywords" content="GFXartist, 3dpalette, digital art, art, multimedia, 3d, animation, art, gallery, pic of the day, adobe, blender, softimage, 3dmax, tutorials, interviews, resources, articles, news, flash, photoshop, painter, saywhat, events, links, brothers in art, brothersinart, games, gaming news, game creation, sound, motion, fantasy art">
+<meta name="Description" content="GFXartist.com the best place to be a digital artist and to become one. Digital art resource. Digital art community">
 <meta name="Robots" content="index,follow">
 <meta name="Revisit-after" content="3">
 <link rel="Shortcut Icon" type="image/ico" href="http://www.gfxartist.com/favicon.ico">
-<link rel="alternate" type="application/rss+xml" href="/rss" title="GFXartist news RSS">
-<link href="/gfxartist.css" rel="stylesheet" type="text/css">
-
-
-<title>Privacy statement - GFXartist.com - Over 36,000 pages of digital expression</title>
-
-
-<style type="text/css">
-.adHeadline { font-size:8pt; font-weight:bold; }
-.adText { font-size:8pt; font-weight:normal; text-decoration:none; }
-</style>
-
+<link href="/styles/default.css" rel="stylesheet" type="text/css" title="GFXartist">
+<!--[if IE]>
+  <link href="/styles/msie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 5.5]>
+  <link href="/styles/msie55.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 5]>
+  <link href="/styles/msie55.css" rel="stylesheet" type="text/css" />
+<![endif]-->
 <base href="http://www.gfxartist.com/">
 
 <script type="text/javascript">
@@ -44,61 +43,59 @@ function popvid(what)
 
 
 function BrowserCheck() {
-	var b = navigator.appName
-	if (b=="Netscape") this.b = "ns"
-	else if (b=="Microsoft Internet Explorer") this.b = "ie"
-	else this.b = "ie";
+  var b = navigator.appName
+  if (b=="Netscape") this.b = "ns"
+  else if (b=="Microsoft Internet Explorer") this.b = "ie"
+  else this.b = "ie";
 
-	this.v = parseInt(navigator.appVersion)
-	this.ns = (this.b=="ns" && this.v==4)
-	this.ns4 = (this.b=="ns" && this.v==4)
-	this.ie = ((this.b=="ie" && this.v>=4)||(this.b=="ns" && this.v>=5))
-	this.ie4 = (navigator.userAgent.indexOf('MSIE 4')>0)
-	this.ie5 = (navigator.userAgent.indexOf('MSIE 5')>0)
-	this.moz = (this.b=="ns" && this.v>=5)
+  this.v = parseInt(navigator.appVersion)
+  this.ns = (this.b=="ns" && this.v==4)
+  this.ns4 = (this.b=="ns" && this.v==4)
+  this.ie = ((this.b=="ie" && this.v>=4)||(this.b=="ns" && this.v>=5))
+  this.ie4 = (navigator.userAgent.indexOf('MSIE 4')>0)
+  this.ie5 = (navigator.userAgent.indexOf('MSIE 5')>0)
+  this.moz = (this.b=="ns" && this.v>=5)
 
-	if (this.ie5) this.v = 5
-	this.min = (this.ns||this.ie)
+  if (this.ie5) this.v = 5
+  this.min = (this.ns||this.ie)
 
-	if(!this.ns) this.ie=true;
+  if(!this.ns) this.ie=true;
 }
 
 is = new BrowserCheck()
 
 // Show/Hide script
 function show(id) { 
- if (loaded)
- {
+// if (loaded)
+// {
     if (is.ns) document.layers[id].visibility = "show"
-        else if (is.ie4) document.all[id].style.visibility = "visible"
-		else if (is.ie)	document.getElementById(id).style.visibility = 'visible'
- }
+    else if (is.ie4) document.all[id].style.visibility = "visible"
+    else if (is.ie) document.getElementById(id).style.visibility = 'visible'
+// }
 }
 
 function hide(id) {
- if (loaded) {
+ //if (loaded) {
         if (is.ns) document.layers[id].visibility = "hide"
         else if (is.ie4) document.all[id].style.visibility = "hidden"
-		else if (is.ie) document.getElementById(id).style.visibility = 'hidden'
-}
+    else if (is.ie) document.getElementById(id).style.visibility = 'hidden'
+//}
 }
 
 
 function hideall() 
 {
- if (loaded)
- {
+// if (loaded)
+// {
 
    hide('general');
 changeImage('nav', 'general', 'general_inactive');   hide('community');
 changeImage('nav', 'community', 'community_inactive');   hide('features');
 changeImage('nav', 'features', 'features_inactive');   hide('about');
 changeImage('nav', 'about', 'about_inactive');   hide('personal');
-   hide('rss');
-   hide('forumrss');
-   hide('wap');
+   hide('x');
 
- }
+// }
 }
 
 function reset() 
@@ -110,25 +107,23 @@ if (loaded){
     changeImage('nav', 'community', 'community_inactive');    hide('features');
     changeImage('nav', 'features', 'features_inactive');    show('about');
     changeImage('nav', 'about', 'about_active');    hide('personal');
-        hide('rss');
-        hide('forumrss');
-        hide('wap');
+        hide('x');
     
  }
 }
 
 function preload(imgObj,imgSrc) {
-	if (document.images) {
-		eval(imgObj+' = new Image()')
-		eval(imgObj+'.src = "'+imgSrc+'"')
-	}
+  if (document.images) {
+    eval(imgObj+' = new Image()')
+    eval(imgObj+'.src = "'+imgSrc+'"')
+  }
 }
 
 function changeImage(layer,imgName,imgObj) {
-	if (document.images) {
-		if (document.layers && layer!=null) eval('document.'+layer+'.document.images["'+imgName+'"].src = '+imgObj+'.src')
-		else document.images[imgName].src = eval(imgObj+".src")
-	}
+  if (document.images) {
+    if (document.layers && layer!=null) eval('document.'+layer+'.document.images["'+imgName+'"].src = '+imgObj+'.src')
+    else document.images[imgName].src = eval(imgObj+".src")
+  }
 }
 
 function checkwidth(o,rh) {
@@ -152,78 +147,106 @@ preload('about_inactive','http://images.gfxartist.com/gfx/nav_tab_about_inactive
 
 </head>
 <body onload="loaded=true; ">
-<div id="memberbar" style="position:absolute; left:0px; top:0px; width:970px; height:23px;"><form action="/actions/login.php" method="post"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="memberbar" style="width:13px;"><img src="http://images.gfxartist.com/gfx/memberbar_left.gif" width="13" height="23" alt="["></td><td class="memberbar" style="width:721px;"> <input type="text" name="login" class="form" style="width: 80px;" value="Username Here" onfocus="if (this.value=='Username Here') this.value=''" onblur="if (this.value=='') this.value='Username Here'" onmouseover="window.status='Enter your username here to log in';" onmouseout="window.status='';"><input type="password" name="password" class="form" style="width: 80px;"><input type="submit" value="login" class="button"><input type="checkbox" name="stayLoggedIn" value="1"> Keep me logged in<img src="http://images.gfxartist.com/gfx/memberbar_seperator2.gif" alt="|" class="memberbar_seperator">Not registered yet? <a href="/about/FAQ/481/">Why should I register?</a>  <a href="/community/register"><b>Sign up now!</b></a><div id="beats" class="memberbar" style="position:absolute; left:700; top:5">@409</div></td><td class="memberbar" style="width:7px;"><img src="http://images.gfxartist.com/gfx/memberbar_middle.gif" width="7" height="23" alt="]["></td><td background="http://images.gfxartist.com/gfx/memberbar_greybg.gif" class="content" style="background-color:#9FA9B5; background-image=url(http://images.gfxartist.com/gfx/memberbar_greybg.gif); width:225; text-align:center;"><a href="http://www.gfxartist.com/community/community_stats" class="memberbar"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="members" class="icon"> Members: 23299<img src="http://images.gfxartist.com/gfx/icons/user_1_male_1.gif" alt="elite members" class="icon"> Elite members: 70</a></td><td class="memberbar" style="background-color:#9FA9B5; background-image=url(http://images.gfxartist.com/gfx/memberbar_greybg.gif); width:4px;"><img src="http://images.gfxartist.com/gfx/memberbar_right.gif" width="4" height="23" alt="]"></td></tr></tbody></table></form></div> 
-<div id="nav" style="position:absolute; left:5px; top:28px; width:656px; height:43px; z-index:50; visibility: visible">
+  <div id="memberbar">
+    <div class="nav">
+     <form action="/actions/login.php" method="post"> 
+      <ul>
+        <li>&nbsp;&nbsp;Log in:&nbsp;
+        <div class="login"><input type="text" name="login" class="form_input"></div>
+        <div class="pass"><input type="password" name="password" class="form_input"></div>
+        <input type="submit" value="login" class="form_button">
+         <img src="http://images.gfxartist.com/gfx/member_navsep.gif" alt="|">
+        </li>
+        <li><input type="checkbox" name="stayLoggedIn" value="1" class="form_checkbox"> Remember me &nbsp;&nbsp;<img src="http://images.gfxartist.com/gfx/member_navsep.gif" alt="|"></li>
+        <li><a href="/personal/lost_password" title="You can retrieve a new password here">Lost password</a> <img src="http://images.gfxartist.com/gfx/member_navsep.gif" alt="|"></li>
+        <li><a href="/community/register" title="Click to sign up at GFXartist"><strong>BECOME A MEMBER!</strong></a></li>
+      </ul>
+     </form>
+    </div>
+    <div class="beats">
+      <div class="button" style="width: 68px;"><a href="http://www.gfxartist.com/about/FAQ/184/" title="Read more about this time notation"><img src="http://images.gfxartist.com/gfx/icons/clock.gif" width="16" height="16" alt="Time"> @364</a></div>
+    </div>
+    <div class="stats">
+      <ul>
+        <li><a href="http://www.gfxartist.com/community/community_stats" title="View member statistics"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" title="Members" class="icon"> Members: 28416</a> <img src="http://images.gfxartist.com/gfx/member_statsep.gif" alt="|"></li>
+        <li><a href="http://www.gfxartist.com/community/community_stats" title="View member statistics"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_1.gif" alt="" title="Elite members" class="icon"> Elites: 87</a></li>
+      </ul>
+    </div>
+  </div>  <div id="container">
+    <div id="main">
+ 
+      <div id="navigation" style="position:relative; width:656px; height:54px;margin-top:3px;">
+        <div id="general" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;">
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/general/general_news">general news</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/general/saywhat">saywhat!?</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/general/poll">poll</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/general/archive">pic of the day archive</a>&nbsp;&nbsp;   
+        </div>
+        <div id="community" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;">
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/community/forum">forum</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/community/elite_nominations">elite nominations</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/community/elite_galleries">elite galleries</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/community/member_galleries">member galleries</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/community/g-spot">g-spot</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/community/member_list">member list</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/community/chat">chat</a>&nbsp;&nbsp;   
+        </div>
+        <div id="features" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;">
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/features/tutorials">tutorials</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/features/interviews">interviews</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/features/articles">articles</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/features/links">links</a>&nbsp;&nbsp;   
+        </div>
+        <div id="about" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: visible;">
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/about/about_gfx">about gfx</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/about/contact">contact</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/about/FAQ">faq</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/about/donate">subscription</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/about/advertising">advertising</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/about/team_gfx">team gfx</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/about/devlog">devlog</a>&nbsp;&nbsp;   
+        </div>
+        <div id="personal" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;">
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/personal/settings">settings</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/personal/inbox">inbox</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/personal/outbox">outbox</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/personal/send_message">send message</a>&nbsp;&nbsp;   
+        </div>
+        <div id="x" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;">
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/x/profile">profile</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/x/artworks">artworks</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/x/blog">blog</a>&nbsp;&nbsp;   
+          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="icon" alt="-"> <a href="/x/interview">interview</a>&nbsp;&nbsp;   
+        </div>
+        <table width="728" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr align="left" valign="top">
+            <td style="width:63px; height:47px;"><img src="http://images.gfxartist.com/gfx/nav_icon.gif" width="63" height="47" alt=""></td>
+            <td>
+              <table width="665" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td style="background:url(http://images.gfxartist.com/gfx/nav_top_bg.gif);" height="15"><a href="#" onclick="hideall(); show('general'); changeImage('nav', 'general', 'general_active'); this.blur(); return false;"><img name="general" src="http://images.gfxartist.com/gfx/nav_tab_general_inactive.gif" height="15" border="0" alt="general"></a><a href="#" onclick="hideall(); show('community'); changeImage('nav', 'community', 'community_active'); this.blur(); return false;"><img name="community" src="http://images.gfxartist.com/gfx/nav_tab_community_inactive.gif" height="15" border="0" alt="community"></a><a href="#" onclick="hideall(); show('features'); changeImage('nav', 'features', 'features_active'); this.blur(); return false;"><img name="features" src="http://images.gfxartist.com/gfx/nav_tab_features_inactive.gif" height="15" border="0" alt="features"></a><a href="#" onclick="hideall(); show('about'); changeImage('nav', 'about', 'about_active'); this.blur(); return false;"><img name="about" src="http://images.gfxartist.com/gfx/nav_tab_about_active.gif" height="15" border="0" alt="about"></a></td>
+                  <td height="15" width="12"><img src="http://images.gfxartist.com/gfx/nav_top_right.gif" width="12" height="15" alt=""></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" height="32" bgcolor="#A2A8C3" style="background:url(http://images.gfxartist.com/gfx/nav_bottom_bg.gif);"></td>
+                  <td width="12" height="32" align="left" valign="top"><img src="http://images.gfxartist.com/gfx/nav_bottom_right.gif" width="12" height="32" alt=""></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+      <script type="text/javascript"><!--
+        reset();
+      --></script><div class="ad">
+  <iframe id="a1457fe7" name="a1457fe7" src="http://advertising.gfxartist.com/adframe.php?n=a1457fe7&amp;what=zone:3" frameborder="0" scrolling="no" width="728" height="90"><a href="http://advertising.gfxartist.com/adclick.php?n=a1457fe7" target="_blank"><img src="http://advertising.gfxartist.com/adview.php?what=zone:3&amp;n=a1457fe7" alt="" /></a></iframe>
+</div>
+      <div class="window">
+        <div class="top"><img src="http://images.gfxartist.com/gfx/win_main_topright.gif" width="19" height="20" class="topright" alt=""><img src="http://images.gfxartist.com/gfx/win_main_topleft.gif" width="19" height="20" class="topleft" alt=""><div class="header">Privacy statement</div></div>
+        <div class="body">
 
-                            <div id="general" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;" class="content">
-                                                                                                                                                                                                            <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/general/general_news2" class="nav">general news</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                                                                                                                                                                          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/general/saywhat" class="nav">saywhat!?</a>&nbsp;&nbsp;   
-                                                                                                                          <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/general/pic_of_the_day" class="nav">pic of the day</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </div>
-                                <div id="community" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;" class="content">
-                                                                                                                                                    <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/community/forum" class="nav">forum</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                                                                                  <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/community/elite_nominations" class="nav">elite nominations</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                              <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/community/elite_galleries" class="nav">elite galleries</a>&nbsp;&nbsp;   
-                                                                                                                                        <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/community/member_galleries" class="nav">member galleries</a>&nbsp;&nbsp;   
-                                                                                                                                                      <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/community/g-spot" class="nav">g-spot</a>&nbsp;&nbsp;   
-                                                                                                                                                      <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/community/member_list" class="nav">member list</a>&nbsp;&nbsp;   
-                                                                                              <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/community/buttons" class="nav">buttons</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
-                      <div id="features" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;" class="content">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/features/tutorials" class="nav">tutorials</a>&nbsp;&nbsp;   
-                                                                                                            <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/features/interviews" class="nav">interviews</a>&nbsp;&nbsp;   
-                                                                                                                                                                            <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/features/articles" class="nav">articles</a>&nbsp;&nbsp;   
-                                                                                <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/features/links" class="nav">links</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </div>
-                <div id="about" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: visible;" class="content">
-                                                                                                                                                                                                                                                                                                                            <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/about/about_gfx" class="nav">about gfx</a>&nbsp;&nbsp;   
-                                                                                                                                                                                  <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/about/contact" class="nav">contact</a>&nbsp;&nbsp;   
-                                                                                                                                                                                  <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/about/FAQ" class="nav">faq</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                                            <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/about/donate" class="nav">subscription</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/about/team_gfx" class="nav">team gfx</a>&nbsp;&nbsp;   
-                                                                                              <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/about/advertising" class="nav">advertising</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
-                      <div id="personal" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;" class="content">
-                                                                                                                                                                                                                                                                                                <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/personal/settings" class="nav">settings</a>&nbsp;&nbsp;   
-                                                                                                                                                                                  <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/personal/inbox" class="nav">inbox</a>&nbsp;&nbsp;   
-                                                                                                                                                      <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/personal/outbox" class="nav">outbox</a>&nbsp;&nbsp;   
-                                                                                                                                                      <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/personal/send_message" class="nav">send message</a>&nbsp;&nbsp;   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <img src="http://images.gfxartist.com/gfx/nav_sub_dot_inactive.gif" class="nav" alt="-"> <a href="/personal/my_artworks" class="nav">my artworks</a>&nbsp;&nbsp;   
-                                                                      </div>
-                    <div id="rss" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;" class="content">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
-                <div id="forumrss" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;" class="content">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
-                        <div id="wap" style="position:absolute; left:70px; top:22px; width:580px; height:18px; z-index:10; visibility: hidden;" class="content">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
-                                                                                            
-   <table width="728" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr align="left" valign="top">
-      <td style="width:63px; height:43px;"><img src="http://images.gfxartist.com/gfx/nav_icon.gif" width="63" height="43" alt=""></td>
-      <td>
-      <table width="665" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-            <td background="http://images.gfxartist.com/gfx/nav_top_bg.gif" height="15"><a href="#" onclick="hideall(); show('general'); changeImage('nav', 'general', 'general_active'); this.blur(); return false;"><img name="general" src="http://images.gfxartist.com/gfx/nav_tab_general_inactive.gif" height="15" border="0" alt="general"></a><a href="#" onclick="hideall(); show('community'); changeImage('nav', 'community', 'community_active'); this.blur(); return false;"><img name="community" src="http://images.gfxartist.com/gfx/nav_tab_community_inactive.gif" height="15" border="0" alt="community"></a><a href="#" onclick="hideall(); show('features'); changeImage('nav', 'features', 'features_active'); this.blur(); return false;"><img name="features" src="http://images.gfxartist.com/gfx/nav_tab_features_inactive.gif" height="15" border="0" alt="features"></a><a href="#" onclick="hideall(); show('about'); changeImage('nav', 'about', 'about_active'); this.blur(); return false;"><img name="about" src="http://images.gfxartist.com/gfx/nav_tab_about_active.gif" height="15" border="0" alt="about"></a></td>
-	        <td height="15" width="12"><img src="http://images.gfxartist.com/gfx/nav_top_right.gif" width="12" height="15" onmouseover="reset();" alt=""></td>
-	      </tr>
-	      <tr>
-	        <td align="left" valign="top" height="28" bgcolor="#A2A8C3" background="http://images.gfxartist.com/gfx/nav_bottom_bg.gif"> </td>
-	        <td width="12" height="28" align="left" valign="top"><img src="http://images.gfxartist.com/gfx/nav_bottom_right.gif" width="12" height="28" onmouseover="reset();" alt=""></td>
-		</tr>
-     </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
-</div><script type="text/javascript"><!-- 
-reset();
- --></script><font style="font-size:6pt; margin:0px; padding:0px;"><div id="logo" style="position:absolute; left:743px; top:27px; width:222px; height:139px; z-index:2; visibility: visible"><a href="/"><img src="http://images.gfxartist.com/gfx/logo_big.gif" style="width:222px; height:139px; border-style:none; alt=" gfxartist="" logo"=""></a></div><div id="content" style="position:absolute; left:5px; top:80px; width:728px; height:60px; z-index:12; visibility: visible;"><table width="656" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left">
 
-<iframe id="a1457fe7" name="a1457fe7" src="http://advertising.gfxartist.com/adframe.php?n=a1457fe7&amp;what=zone:3" framespacing="0" frameborder="no" scrolling="no" width="728" height="90"><a href='http://advertising.gfxartist.com/adclick.php?n=a1457fe7' target='_blank'><img src='http://advertising.gfxartist.com/adview.php?what=zone:3&amp;n=a1457fe7' border='0' alt=''></a></iframe>
-
-
-</td></tr></tbody></table><br><table width="728" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#7E85AA" background="http://images.gfxartist.com/gfx/main_header_bg.gif" width="13" height="18" align="left" valign="top" alt="["><img src="http://images.gfxartist.com/gfx/main_header_left.gif" width="13" height="18"></td><td bgcolor="#7E85AA" background="http://images.gfxartist.com/gfx/main_header_bg.gif" width="721"><span class="header">Privacy statement</span></td><td bgcolor="#7E85AA" background="http://images.gfxartist.com/gfx/main_header_bg.gif" width="4" height="18" align="left" valign="top"><img src="http://images.gfxartist.com/gfx/main_header_right.gif" width="4" height="18" alt="]"></td></tr></tbody></table><table width="728" border="0" cellspacing="1" cellpadding="5" bgcolor="#495271"><tbody><tr><td bgcolor="#A2A8C3" class="content">
-
-<b>Collection of your Personal Information</b>
+<strong>Collection of your Personal Information</strong>
 <br><br>
 GFXartist.com collects personally identifiable information, such as your e-mail address, name, home or work address, telephone number, demographic information, and information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 <br><br>
@@ -233,14 +256,14 @@ Please keep in mind that if you directly disclose personally identifiable inform
 <br><br>
 There is also information about your connection and software on your computer. that is automatically collected by GFXartist.com. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by GFXartist.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of GFXartist.com.
 <br><br>
-<b>Use of your Personal Information</b>
+<strong>Use of your Personal Information</strong>
 <br><br>
 GFXartist.com does not sell, rent or lease its member lists to third parties. GFXartist.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, GFXartist.com may share data with trusted partners to help us perform statistical analysis. All such third parties are prohibited from using your personal information except to provide these services to GFXartist.com, and they are required to maintain the confidentiality of your information.<br><br>
 
 GFXartist.com keeps track of the pages our visitors visit within GFXartist.com, in order to determine what pages on GFXartist.com are the most popular. This data is used to get a better idea of the interests of our visitors.
 <br><br>
 
-<b>Use of Cookies</b>
+<strong>Use of Cookies</strong>
 <br><br>
 GFXartist.com uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 <br><br>
@@ -248,7 +271,7 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of GFXartist.com.
 <br><br>
-<b>Use of Third Party Ad Networks</b>
+<strong>Use of Third Party Ad Networks</strong>
 <br><br>
 The majority of the online banner advertisements you see GFXartist.com are displayed by GFXartist.com.
 <br><br>
@@ -257,7 +280,7 @@ In addition, GFXartist.com also allows other companies, called third-party ad se
 If you want to prevent third-party companies from sending and reading cookies on your computer, you will need to visit each ad network's Web site individually and request that you be removed from its system.<br><br>
 GFXartist.com has currently advertising partnerships with:<br><a href="http://www.burstmedia.com/">Burstmedia.com</a> and <a href="http://www.valueclick.com">Valueclick.com</a><br>
 <br><br>
-<b>Control your Personal Information</b>
+<strong>Control your Personal Information</strong>
 <br><br>
 GFXartist.com offers its members choices for the collection, use and sharing of personal information. You may go to your personal profile to proactively make choices about the use and sharing of your personal information. You may choose not to publicly expose your real name and or email address.
 <br><br>
@@ -265,7 +288,7 @@ In addition, you may visit your profile to view, edit or delete your personal in
 <br><br>
 In both cases described above, you will be asked to make your requests while logged into your GFXartist.com member account, so that GFXartist.com can associate your preferences with a particular account. This security safeguard prevents someone else from making choices about the usage and control of your personal information.<br><br>
 
-<b>Security of your Personal Information</b>
+<strong>Security of your Personal Information</strong>
 <br><br>
 GFXartist.com secures your personal information from unauthorized access, use or disclosure. GFXartist.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. 
 <br><br>
@@ -273,7 +296,7 @@ Changes to this Statement
 
 GFXartist.com will occasionally update this Statement of Privacy to reflect our and your feedback. When GFXartist.com posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of GFXartist.com. If there are material changes to this Statement or in how GFXartist.com will use your personally identifiable information, GFXartist.com will prominently post such changes prior to implementing the change. GFXartist.com encourages you to periodically review this Statement to be informed of how GFXartist.com is protecting your information.
 <br><br>
-<b>Contact Information</b>
+<strong>Contact Information</strong>
 <br><br>
 GFXartist.com welcomes your comments regarding this Statement of Privacy. If you believe that GFXartist.com has not adhered to this Statement, please contact GFXartist.com by telephone, e-mail, or postal mail.
 <br><br>
@@ -286,9 +309,81 @@ The Netherlands<br>
 <br><br>
 Click here to send <a href="support@gfxartist.com">e-mail</a>.
 <br><br>
-</td></tr></tbody></table><br><table width="728" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#7E85AA" background="http://images.gfxartist.com/gfx/main_header_bg.gif" width="13" height="18" align="left" valign="top" alt="["><img src="http://images.gfxartist.com/gfx/main_header_left.gif" width="13" height="18"></td><td bgcolor="#7E85AA" background="http://images.gfxartist.com/gfx/main_header_bg.gif" width="721"><span class="header">Search</span></td><td bgcolor="#7E85AA" background="http://images.gfxartist.com/gfx/main_header_bg.gif" width="4" height="18" align="left" valign="top"><img src="http://images.gfxartist.com/gfx/main_header_right.gif" width="4" height="18" alt="]"></td></tr></tbody></table><table width="728" border="0" cellspacing="1" cellpadding="5" bgcolor="#495271"><tbody><tr><td bgcolor="#A2A8C3" class="content"><table width="100%" height="50" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="center" valign="middle" class="contentsmall"><form method="GET" action="http://www.google.com/custom" target="_blank">Search GFXartist... powered by <img src="http://images.gfxartist.com/images/general_images/google.gif" width="43" height="18" align="absmiddle" alt="Google"><br><input type="text" name="q" class="form" style="width:300px;" onfocus="this.value=''"><input type="hidden" name="cof" value="GALT:#F9AD3F;S:http://www.gfxartist.com;VLC:#46455C;AH:center;LH:120;LC:#777FA3;GFNT:#333333;L:http://www.oddend.com/GFXoogle.gif;ALC:#46455C;LW:303;T:#111111;GIMP:#F9AD3F;AWFID:2af19f8553d960bd;"><input type="hidden" name="domains" value="GFXartist.com"><input type="hidden" name="sitesearch" value="www.gfxartist.com"><input name="sa" type="submit" value="Find" class="form" style="width:80px;"></form></td></tr></tbody></table></td></tr></tbody></table><br><center class="contentsmall">Found a rip-off? <a href="/general/report">Report it!</a><br>Copyright © 2002-2003 All rights reserved <a href="http://www.brothersinart.nl/">Brothers in art V.O.F.</a> Read the <a href="/about/terms_of_use">Terms of use</a> and <a href="/about/privacy_statement">Privacy Statement</a>.<br>GFXartist is a registered trademark of <a href="http://www.brothersinart.net/">Brothers in art V.O.F.</a> For more information and support, contact <script language="JavaScript" type="text/javascript"> document.write("<a href='mailto:"); document.write("support"); document.write("\100"); document.write("gfxartist.com"); document.write("'>"); document.write("support"); document.write("\100"); document.write("gfxartist.com"); document.write("</a>"); </script><a href="mailto:support@gfxartist.com">support@gfxartist.com</a> .</center><br></div>
-<div id="rightside" style="position:absolute; left:747px; top:170px; width:213px; height:200px; z-index:13; visibility: visible">
-<form action="/actions/saywhatadd.php" method="post" style="margin: 0px; padding: 0px"><table width="214" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#7E85AA" background="http://images.gfxartist.com/gfx/main_header_bg.gif" width="13" height="18" align="left" valign="top"><img src="http://images.gfxartist.com/gfx/main_header_left.gif" width="13" height="18" alt="["></td><td bgcolor="#7E85AA" background="http://images.gfxartist.com/gfx/main_header_bg.gif" width="207"><span class="header">SayWhat</span></td><td bgcolor="#7E85AA" background="http://images.gfxartist.com/gfx/main_header_bg.gif" width="4" height="18" align="left" valign="top"><img src="http://images.gfxartist.com/gfx/main_header_right.gif" width="4" height="18" alt="]"></td></tr></tbody></table><table width="214" border="0" cellspacing="1" cellpadding="5" bgcolor="#495271"><tbody><tr><td bgcolor="#A2A8C3" class="contentsmall">
-<b>Thursday, 10 June</b><br>@988&nbsp;<a href="http://Juro.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0_1.gif" alt="GFXartist sponsor" class="icon">&nbsp;<b>Juro</b></a>:&nbsp; hi matey<br>@988&nbsp;<a href="http://Juro.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0_1.gif" alt="GFXartist sponsor" class="icon">&nbsp;<b>Juro</b></a>:&nbsp; I'm thin king of moving to the U.S<br>@992&nbsp;<a href="http://veyselsayli.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" class="icon">&nbsp;<b>veyselsayli</b></a>:&nbsp; hi my friend :)<br>@009&nbsp;<a href="http://animeidiot.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" class="icon">&nbsp;<b>animeidiot</b></a>:&nbsp; hey guys<br>@039&nbsp;<a href="http://gridlock.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0_1.gif" alt="GFXartist sponsor" class="icon">&nbsp;<b>gridlock</b></a>:&nbsp; Cool Juro! Where do you plan to move to?<br>@064&nbsp;<a href="http://kariefury.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_female_0_1.gif" alt="GFXartist sponsor" class="icon">&nbsp;<b>kariefury</b></a>:&nbsp; Don't move to New York if you do<br>@064&nbsp;<a href="http://kariefury.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_female_0_1.gif" alt="GFXartist sponsor" class="icon">&nbsp;<b>kariefury</b></a>:&nbsp; It's fun here but it cost's so much<br>@104&nbsp;<a href="http://Prinova.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" class="icon">&nbsp;<b>Prinova</b></a>:&nbsp; pls,Artists rate my latest art and help me to improve my skills ...<br>@109&nbsp;<a href="http://mono90.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_female_0.gif" alt="" class="icon">&nbsp;<b>mono90</b></a>:&nbsp; wow!alot can happen in 2weeks;)<br>@202&nbsp;<a href="http://mastergwaha.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0_1.gif" alt="GFXartist sponsor" class="icon">&nbsp;<b>mastergwaha</b></a>:&nbsp; hey i got 2 new pieces up! everyone take a look please?<br>@285&nbsp;<a href="http://Findecano.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" class="icon">&nbsp;<b>Findecano</b></a>:&nbsp; Morning everyone!]<br>@313&nbsp;<a href="http://arenhaus.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0_1.gif" alt="GFXartist sponsor" class="icon">&nbsp;<b>arenhaus</b></a>:&nbsp; Prinova - get books by Loomis from fineart.sk ...<br>@314&nbsp;<a href="http://arenhaus.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0_1.gif" alt="GFXartist sponsor" class="icon">&nbsp;<b>arenhaus</b></a>:&nbsp; ... and practice, practice, practice...<br><center><span class="contentsmall">Please login to post in the saywhat</span><br><br>
-<a href="/general/saywhat">More saywhat</a> - <a href="#" onclick="return popup('/about/faqpopup/466');">Help</a></center><center><b><a href="http://www.gfxartist.com/about/FAQ/11671/">join #gfxartist on irc.gfxartist.com</a></b></center>
-</td></tr></tbody></table><br></form></div></font></body></html>
+      <div class="clear" style="height:1px;overflow:hidden;"></div>
+        </div>
+        <div class="bottom"><img src="http://images.gfxartist.com/gfx/win_main_botright.gif" width="8" height="9" class="botright" alt=""><img src="http://images.gfxartist.com/gfx/win_main_botleft.gif" width="8" height="9" class="botleft" alt=""></div>
+      </div>	
+	<div class="sitesearch">
+	      <div class="window">
+        <div class="top"><img src="http://images.gfxartist.com/gfx/win_main_topright.gif" width="19" height="20" class="topright" alt=""><img src="http://images.gfxartist.com/gfx/win_main_topleft.gif" width="19" height="20" class="topleft" alt=""><div class="header">Search the site</div></div>
+        <div class="body">
+	<!-- SiteSearch Google -->
+	<form method="get" action="http://www.google.com/custom" target="google_window">
+	<table width="100%" cellpadding="5">
+	<tbody><tr><td nowrap="nowrap" valign="top" align="left" width="215" rowspan="2">
+	<img src="http://images.gfxartist.com/gfx/search_title.gif" border="0" alt="SiteSearch" width="166" height="52">
+	</td>
+	<td nowrap="nowrap">
+	<input type="hidden" name="domains" value="www.gfxartist.com">
+	<input type="text" name="q" size="31" maxlength="255" value="" class="form_input">
+	<input type="submit" name="sa" value="Search" class="form_button"><br>
+	<h4>
+	<input type="radio" name="sitesearch" value="" class="form_checkbox">
+	Web
+	<input type="radio" name="sitesearch" value="www.gfxartist.com" checked="checked" class="form_checkbox">
+	GFXartist.com</h4>
+	
+	<input type="hidden" name="client" value="pub-9748514448963376">
+	<input type="hidden" name="forid" value="1">
+	<input type="hidden" name="ie" value="ISO-8859-1">
+	<input type="hidden" name="oe" value="ISO-8859-1">
+	<input type="hidden" name="safe" value="active">
+	<input type="hidden" name="cof" value="GALT:#46455C;GL:1;DIV:#444B66;VLC:5C5B72;AH:center;BGC:FFFFFF;LBGC:8B91A9;ALC:EC6E14;LC:EC6E14;T:111111;GFNT:46455C;GIMP:46455C;LH:50;LW:151;L:http://images.gfxartist.com/gfxoogle.gif;S:http://www.gfxartist.com;FORID:1;">
+	<input type="hidden" name="hl" value="en">
+	
+	</td></tr></tbody></table>
+	</form>
+	<!-- SiteSearch Google -->
+	      <div class="clear" style="height:1px;overflow:hidden;"></div>
+        </div>
+        <div class="bottom"><img src="http://images.gfxartist.com/gfx/win_main_botright.gif" width="8" height="9" class="botright" alt=""><img src="http://images.gfxartist.com/gfx/win_main_botleft.gif" width="8" height="9" class="botleft" alt=""></div>
+      </div>	</div>
+
+      <div id="copyright">
+        Found a rip-off? <a href="/general/report">Report it!</a>        <br>Copyright © 2000-2004 All rights reserved <a href="http://www.brothersinart.net/"><img src="http://images.gfxartist.com/brothersinart.gif" width="97" height="20" class="icon" alt="Brothers in Art"></a> Read the <a href="/about/terms_of_use">Terms of use</a> and <a href="/about/privacy_statement">Privacy Statement</a>.<br>
+        This site is a property of <a href="http://www.brothersinart.net/">Brothers in art</a> For more information and support, contact <script type="text/javascript"> //<![CDATA[ 
+document.write("<a href='mailto:"); document.write("support"); document.write("\100"); document.write("gfxartist.com"); document.write("'>"); document.write("support"); document.write("\100"); document.write("gfxartist.com"); document.write("</a>"); 
+//]]> 
+</script><a href="mailto:support@gfxartist.com">support@gfxartist.com</a> .
+      </div>
+    </div>
+    <div id="side">
+      <div id="logo"><a href="/"><img src="http://images.gfxartist.com/gfx/logo_big.gif" alt="GFXartist Logo"></a></div>
+      <div class="win_saywhat">
+        <div class="window">
+          <div class="sidetop"><img src="http://images.gfxartist.com/gfx/win_side_topright.gif" width="19" height="20" class="topright" alt=""><img src="http://images.gfxartist.com/gfx/win_side_topleft.gif" width="19" height="20" class="topleft" alt=""><div class="header">SayWhat</div></div>
+          <div class="sidebody">
+            <strong>Wednesday,  8 December</strong><br>
+            @053&nbsp;<a href="http://Grafiker.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_1_1.gif" alt="" title="Elite, GFXartist sponsor" class="icon"> <strong>Grafiker</strong></a>:&nbsp; yeah congratulations<br>
+            @055&nbsp;<a href="http://MsMichelleLynn.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_female_0_1.gif" alt="" title="GFXartist sponsor" class="icon"> <strong>MsMichelleLynn</strong></a>:&nbsp; Hi everyone<br>
+            @055&nbsp;<a href="http://MsMichelleLynn.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_female_0_1.gif" alt="" title="GFXartist sponsor" class="icon"> <strong>MsMichelleLynn</strong></a>:&nbsp; Hi everyone<br>
+            @059&nbsp;<a href="http://MsMichelleLynn.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_female_0_1.gif" alt="" title="GFXartist sponsor" class="icon"> <strong>MsMichelleLynn</strong></a>:&nbsp; There's an echo in here!<br>
+            @059&nbsp;<a href="http://MsMichelleLynn.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_female_0_1.gif" alt="" title="GFXartist sponsor" class="icon"> <strong>MsMichelleLynn</strong></a>:&nbsp; Hi Gary!!!!<br>
+            @066&nbsp;<a href="http://ThruMyEyez.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_1_1.gif" alt="" title="Elite, GFXartist sponsor" class="icon"> <strong>ThruMyEyez</strong></a>:&nbsp; Hi Michelle<br>
+            @080&nbsp;<a href="http://crashoverride.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" title="" class="icon"> <strong>crashoverride</strong></a>:&nbsp; hello guys!!<br>
+            @180&nbsp;<a href="http://Xris.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" title="" class="icon"> <strong>Xris</strong></a>:&nbsp; Hey artists!  Good monring GFXA!  :)<br>
+            @234&nbsp;<a href="http://bigkate.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_female_0.gif" alt="" title="" class="icon"> <strong>bigkate</strong></a>:&nbsp; Hey artists good night :ZZZZ<br>
+            @249&nbsp;<a href="http://Wysiwyg.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0_1.gif" alt="" title="GFXartist sponsor" class="icon"> <strong>Wysiwyg</strong></a>:&nbsp; Ah geez, Bea I'm sorry :(<br>
+            @263&nbsp;<a href="http://Galdor.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" title="" class="icon"> <strong>Galdor</strong></a>:&nbsp; morning all godly artists =]<br>
+            @327&nbsp;<a href="http://Sven.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" title="" class="icon"> <strong>Sven</strong></a>:&nbsp; I got 26 votes :) Thats kinda good because i was against Dax and Andrzej!!<br>
+            @327&nbsp;<a href="http://Sven.gfxartist.com"><img src="http://images.gfxartist.com/gfx/icons/user_1_male_0.gif" alt="" title="" class="icon"> <strong>Sven</strong></a>:&nbsp; Thank you all! And congratulations new ELITES!! :D<br>
+          </div>
+          <div class="sidebottom"><img src="http://images.gfxartist.com/gfx/win_side_botright.gif" width="8" height="9" class="botright" alt=""><img src="http://images.gfxartist.com/gfx/win_side_botleft.gif" width="8" height="9" class="botleft" alt=""></div>
+        </div>
+      </div>
+    </div>
+    <div class="clear">&nbsp;</div>
+  </div>
+  <div id="footer"> &nbsp; </div>
+
+</body></html>
