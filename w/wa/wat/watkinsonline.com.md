@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410132203id_/http%3A//www.watkinsonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204211923id_/http%3A//www.watkinsonline.com/privacy.cfm) for the most accurate reproduction.*
 
 # Watkins Online
 
