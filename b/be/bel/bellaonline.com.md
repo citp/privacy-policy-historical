@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604002142id_/http%3A//www.bellaonline.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212155044id_/http%3A//www.bellaonline.com/privacy.shtml) for the most accurate reproduction.*
 
 # Bella Online Privacy Policy
 
