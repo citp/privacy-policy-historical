@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the eastbayexpress.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021143205id_/http%3A//eastbayexpress.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastbayexpress.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609053905id_/http%3A//eastbayexpress.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# East Bay Express Online | eastbayexpress.com
+# East Bay Express | eastbayexpress.com | About
 
-[](https://web.archive.org/about/index.html)
-
-**Our Privacy Policy   
-**
+****
 
 **New Times**   
 Parent of _East Bay Express_ and eastbayexpress.com 
@@ -21,9 +18,6 @@ We do track how our visitors use this site so that we can see what people like a
 **Your Letter to the Editor Contributions**   
 As with our print editions, we insist that you supply your real name, daytime telephone number or e-mail address. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line. 
 
-**Discussion boards**   
-_Discussions_ is our interactive discussion area. Unlike our Letters section, comments posted here are not edited by New Times personnel prior to posting on that portion of the site. We only require that you provide us with your on-line name (real or fictitious), your correct e-mail address and that you accept our **User Agreement**. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. Any personal information you may disclose in _Discussions_ can be collected and used by third parties beyond New Times' control. 
-
 **Communication from New Times**   
 Any ongoing communication you may receive from New Times via e-mail, such as newsletters, subscriptions, contest results, survey inquiries, etc. may be terminated via a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. 
 
@@ -33,11 +27,11 @@ New Times does not orient this site toward children or target them as an audienc
 **Links to Other Sites**   
 This site provides links and pointers to Web sites maintained by other organizations. New Times provides these links as a convenience to users, but it does not operate, control or endorse such sites. New Times also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. New Times does not make any warranties or representations that any linked sites (or even this site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. 
 
+_**E-Commerce and Our Secure Server**   
+All commerce transactions that take place on this site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. Any transactions that take place on other sites that have link from our site are not necessarily handled in this fashion. New Times disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. (This section posted and effective as of October 25, 2001)_
+
 **Policy Changes**   
 This privacy policy is effective as of July 28, 1999. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will post any changes to this policy as soon as they go into effect. 
 
 **More Questions?**   
 If you have any questions about this privacy policy, e-mail them to [_privacyadministrator@newtimes.com_](mailto:privacyadministrator@newtimes.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. 
-
-  
-
