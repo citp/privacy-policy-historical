@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muziqpakistan.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020063557id_/http%3A//www.muziqpakistan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muziqpakistan.com privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210144041id_/http%3A//www.muziqpakistan.com/privacy.php) for the most accurate reproduction.*
 
 # Muziqpakistan - The Largest collection of Pakistani songs and media on the web
 
@@ -6,13 +6,13 @@
 
 MuziqPakistan.com has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy. 
 
-**Use of Internet Protocol Address**
+**Use of Internet Protocol Address and other Data**
 
-We use your Internet protocol (IP) address for several reasons: to help diagnose problems with our server, to administer our Web site, to help identify you and to gather broad demographic information. 
+We use your Internet protocol (IP) address and other data submitted from your client for several reasons: to help diagnose problems with our server, to administer our Web site, to help identify you and to gather broad demographic information. 
 
 **Use of Registration Information**
 
-Our site's registration area requires customers to supply contact information, such as name and e-mail address, and demographic information, such as your ZIP code, age, or income level. We use this information to send you promotional materials from our company and from some of our partners. However, we stress that we only send email promotions which users request, WE WILL NOT SEND YOU SPAM .Demographic and profile data is also collected at our site and used to personalize future visits by displaying the content we feel would most interest you. 
+Our site's registration area requires customers to supply contact information, such as name and e-mail address, and demographic information, such as your ZIP code, age, or income level. We use this information to send you promotional materials from our company and from some of our partners. WE WILL NOT SEND YOU SPAM . 
 
 **Use of Demographic Information**
 
@@ -20,7 +20,7 @@ We also collect demographic and profile data that we use to tailor your experien
 
 **Public Forums Guidelines**
 
-MuziqPakistan.com offers chat rooms and bulletin boards. Please note that information that is disclosed in these arenas becomes public. 
+MuziqPakistan.com offers chat rooms and bulletin boards. Please note that information that is disclosed in these arenas becomes public. MuziqPakistan.com reserves to right to deny or revoke access to users. 
 
 **Disclaimer**
 
