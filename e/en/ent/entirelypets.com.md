@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630124851id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213193431id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-| | [](https://web.archive.org/web/20040630124851id_/http%3A//www.entirelypets.com/index.html)
+| | [](https://web.archive.org/web/20041213193431id_/http%3A//www.entirelypets.com/index.html)
 
 EntirelyPets.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EntirelyPets.com.
 
