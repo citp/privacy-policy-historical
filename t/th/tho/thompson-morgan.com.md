@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202142106id_/http%3A//www.thompson-morgan.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610170451id_/http%3A//www.thompson-morgan.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Thompson & Morgan: Privacy Statement of Thompson & Morgan (Group) Ltd
 
@@ -15,7 +15,7 @@ Thompson & Morgan will not collect any personally identifying information except
 
 The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. If you prefer we do not share your name and address with marketing partners, please e-mail us at [Customer Care](mailto:ccare@thompson-morgan.com).
 
-If you agreed to receive e-mail from our marketing partners, we will share with them your e-mail address and the information as described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you opted in by checking the box on the registration page. Additionally, each e-mail our partners send you will include a description of the simple opt-out process to enable you to stop receiving future e-mail.
+Please note that if you have provided us with your **email address** we will not share this with any third party.
 
 **Surveys**  
 Thompson & Morgan may occasionally conduct online surveys asking visitors for demographic information (like your gender, age, or income level). We use this data to tailor your experience at Thompson & Morgan displaying content to you according to your preferences.
@@ -33,7 +33,7 @@ Thompson & Morgan provides users the opportunity to opt-out of receiving communi
 
 
 
-    Thompson and Morgan Customer Care
+    Thompson & Morgan Customer Care
     Poplar Lane
     Ipswich
     Suffolk
@@ -49,7 +49,7 @@ Thompson & Morgan gives users the following options for changing and modifying i
 
 
 
-    Thompson and Morgan Customer Care
+    Thompson & Morgan Customer Care
     Poplar Lane
     Ipswich
     Suffolk
@@ -61,11 +61,11 @@ If at any time Thompson & Morgan is required by law or by a legal process to rel
 **Contacting the Website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-    Thompson and Morgan Customer Care
+    Thompson & Morgan Customer Care
     Poplar Lane
     Ipswich
     Suffolk
     United Kingdom IP8 3BU
     Telephone: 
 
-In addition, full contact details for all Thompson and Morgan departments are given on our Contacts Page - see link at the bottom of the page.
+In addition, full contact details for all Thompson & Morgan departments are given on our Contacts Page - see link at the bottom of the page.
