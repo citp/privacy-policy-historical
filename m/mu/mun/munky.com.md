@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the munky.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609190352id_/http%3A//munky.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the munky.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204130047id_/http%3A//munky.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Munky.com
 
@@ -26,6 +26,6 @@ Munky may collect any or all of the following three types of information: (a) tr
 To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, Munky has put in place physical, electronic, and managerial procedures to safeguard and secure the information it collects online. However, data security is a constantly evolving art and science. You should consider any communication that you transmit to Munky (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that Munky will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient. 
 
 **How do I find out more about Munky's information practices?**  
-If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, do not hesitate to [contact us](https://web.archive.org/web/20030609190352id_/http%3A//munky.com/ContactUs.php). 
+If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, do not hesitate to [contact us](https://web.archive.org/web/20031204130047id_/http%3A//munky.com/ContactUs.php). 
 
 This Privacy Policy was last revised on January 1, 2003.
