@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210113245id_/http%3A//www.battle.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012075238id_/http%3A//www.battle.net/privacy.shtml) for the most accurate reproduction.*
 
 # Battle.net - Blizzard Entertainment On-Line Privacy Policy
 
