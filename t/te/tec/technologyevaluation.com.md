@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202164441id_/http%3A//technologyevaluation.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619062855id_/http%3A//www.technologyevaluation.com/Privacy.asp) for the most accurate reproduction.*
 
 # TechnologyEvaluation.Com (TEC)
 
@@ -10,12 +10,12 @@
   
 ---  
   
-| _**Acceptance of Terms**_ | Your use of our Website constitutes acceptance of the Privacy Statement. We may modify the Privacy Statement herein at any time without prior notice. Your continued use of our Website constitutes acceptance of the new conditions.  
+| _**Acceptance of Terms**_ | The use of our web site constitutes acceptance of the present Privacy Statement. We may modify the Privacy Statement at any time without prior notice. Your continued use of our web site constitutes acceptance of the new conditions.  
 ---|---  
 |    
 _**Confidentiality**_ | To help us protect your privacy, you must ensure the secrecy of your user identification and password.  
 |     
-_**Information Submitted**_ | You may submit information to us through forms available on our Website, namely our newsletter registration and information request forms. Also, you may submit information to us via direct email messages. This information may be stored, in part or in its entirety, on our mail server for future reference and may be added to our database.  
+_**Information Submitted**_ | You may submit information to us through forms available on our web site, namely our newsletter registration and information request forms. Also, you may submit information to us via direct email messages. This information may be stored, in part or in its entirety, on our mail server for future reference and may be added to our database.  
 |    
 _**Use of the Information**_ | The information submitted may be shared, at our discretion, with affiliates, subsidiaries and other partners.   
 |    
@@ -23,17 +23,24 @@ _**Opting-out**_ | The information submitted to us may also be used to inform yo
 |    
 _**Access to your Profile**_ | You may access the information you have submitted to us by going to the  [**Profile**](http://www.technologyevaluation.com/mp.asp) section on our web site at which point you may choose to update or modify your information.   
 |    
-_**Use of Cookies**_ | We use cookies to enable registered clients to move quickly and securely through restricted areas of our Website. Although cookies are designed to improve your online experience, you may choose to set your browser to refuse cookies. However, it must be noted that our cookies do not track personal information, extract information from your computer or provide us with a way of contacting you.  
+_**Use of Cookies**_ | We use cookies to enable registered clients to move quickly and securely through restricted areas of our web site. Although cookies are designed to improve your online experience, you may choose to set your browser to refuse cookies. However, it must be noted that our cookies do not track personal information, extract information from your computer or provide us with a way of contacting you.  
 |    
-_**Hypertext Links**_ | Our Website contains hypertext links to other sites for your convenience. However, TEC is not, in any way, responsible for the privacy practices or the content of other Websites.  
+_**Hypertext Links**_ | Our web site contains hypertext links to other sites for your convenience. However, TEC is not, in any way, responsible for the privacy practices or the content of other web sites.  
+  
+   
+  
+---  
+| 
+
+| 
+
+**[](http://rfp-templates.technologyevaluation.com/)**  
+  
+---  
   
 |  |   
 ---|---  
-| 
-
-[](http://ad.technologyevaluation.com/?web=http://www.technologyevaluation.com&dst=/ads/stp/ad_link_1.asp&id=Banner_STP_125X65_1&area=RIGHT_AD)   
-   
-  
+|   
 | 
 
 | 
@@ -42,9 +49,20 @@ _**Hypertext Links**_ | Our Website contains hypertext links to other sites for 
   
 ---  
   
-|   
+| 
+
+| 
+
+**T o d a y ' s   A r t i c l e**  
+  
 ---  
   
-Place our Technology Research articles on your Web site/desktop using our [XML feeds](https://web.archive.org/RSS/TEC.xml).
+  
 
-The feeds are compliant with RSS, which is a widely adopted format for syndicating news over web sites and other applications. 
+
+[**Brain of Supply Chain System**](http://www.technology-evaluation.com/Research/ResearchHighlights/Scm/2004/06/research_notes/TN_SC_XAA_06_19_04_1.asp)
+
+  
+June 19, 2004
+
+A software tool called advanced planning and optimization, APO, for short, is used to make a supply chain system cost effective and integrated. Since this tool works on top of all other software tools which are used to plan, monitor, and control supply chain activities and control them, APO can effectively be called the brain of a supply chain system. This article explores advantages of having an APO tool for managing supply chain functions even if a business already has invested in a supply chain management (SCM) system. If a company has not made the investment then the APO tool can be used together with the upcoming SCM system.
