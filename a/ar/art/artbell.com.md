@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artbell.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621095954id_/http%3A//coasttocoastam.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artbell.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030812id_/http%3A//www.coasttocoastam.com/privacy_policy.html) for the most accurate reproduction.*
 
 # COAST TO COAST AM WITH GEORGE NOORY
 
