@@ -1,504 +1,281 @@
-<!--The following is the downloaded HTML source of the importatlanta.com privacy policy that was archived on 2003-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603192705id_/http%3A//www.importsouth.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the importatlanta.com privacy policy that was archived on 2004-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605091852id_/http%3A//www.importatlanta.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-        <meta http-equiv="Content-Type" content="text/html charset=iso-8859-1">
-        <title>Importsouth.com</title>
-        <link href="ia.css" type="text/css" rel="stylesheet">
-        <script language="javascript" src="scripts/main.js" type="text/javascript"></script>
-        <script type="text/javascript" language="javascript">
-            window.status="ImportSouth.com";
-            
-            function closeWin(){
-                chatWin.close();
-            }
+<html><head>
+    <title>IA Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript"> 
+<!--
+/*  You can get this script and many others 
+    by visiting JavaScript City at: http://www.javascriptcity.com . */
 
-            var win=null;
+pic_width=640;   /*change to match the height of all your images */
+pic_height=133;   /* change to match the width of all your images */
+border_size=0;   /* change to the border size you want on the images */
+alignment=1;      /* 0=left,1=center */
 
-            function NewWindow(mypage,myname,w,h,scroll,pos){
-                if(pos=="random"){
-                    LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;
-                    TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;
-                }
-                if(pos=="center"){
-                    LeftPosition=(screen.width)?(screen.width-w)/2:100;
-                    TopPosition=(screen.height)?(screen.height-h)/2:100;
-                }
-                else if((pos!="center" && pos!="random") || pos==null){
-                    LeftPosition=0;TopPosition=20
-                }
-                settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';
-                win=window.open(mypage,myname,settings);
-            }             
-        </script>
-    </head>
-<body text="#FFFFFF" background="images/standard/background.gif" onload="MM_preloadImages('images/standard/15.gif')" link="#F9D917" vlink="#999999" alink="#333333">
+/* define image urls */
 
-<!-- TOP AREA, I-S.com Banner, Main Image, Etc.. //-->
-  
-  
-    
-      <table height="85" cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody>
-              <tr>
-                <td width="700" background="http://www.importsouth.com/images/topbarbkg.jpg">
-                <script language="JavaScript"> 
+if (document.images)
+ {
+     pic1= new Image(pic_width,pic_height);
+     pic1.src="images/toppic.gif";  
+     pic2= new Image(pic_width,pic_height); 
+     pic2.src="images/toppic1.gif"; 
+     pic3= new Image(pic_width,pic_height);
+     pic3.src="images/toppic2.gif";  
+ }    
+
+/* define banner urls */
+
+urlad1="";
+urlad2="";
+urlad3="";
+
+/* no need to edit past this point (unless you want to add more image and url slots) */
+
+if (alignment==1)
+ {
+  cent_it="<CENTER>";
+  cent_it2="<\/CENTER>";
+ }
+else
+ {
+  cent_it="";
+  cent_it2="";
+ }
  
-var NumberOfAds =3; 
-var now = new Date() 
-var sec = now.getSeconds() 
-var AdNumber = sec % NumberOfAds; 
-AdNumber +=1; 
- 
-if (AdNumber==1) 
- 
-{ 
- 
-Graphic="http://www.importsouth.com/images/top1.jpg";
-
-width = "700" 
-height = "147" 
- 
-} 
-
-if (AdNumber==2)
-
-{ 
- 
-Graphic="http://www.importsouth.com/images/top2.jpg"; 
-width = "700" 
-height = "147" 
-
+function get_random(maxNum)
+{
+  if (Math.random && Math.round)
+  {
+    var ranNum= Math.round(Math.random()*(maxNum-1));
+    ranNum+=1;
+    return ranNum;
+  }
+  else
+  {
+  today= new Date();
+  hours= today.getHours();
+  mins=   today.getMinutes();
+  secn=  today.getSeconds();
+  if (hours==19)
+   hours=18;
+  var ranNum= (((hours+1)*(mins+1)*secn)%maxNum)+1;
+  return ranNum;
+  }
 }
 
-if (AdNumber==3)
+function get_Image()
+{
+ if (document.images)
+ {
+  var choose_one= get_random(3);  
+  choose_one--;
 
-{ 
- 
-Graphic="http://www.importsouth.com/images/top3.jpg"; 
-width = "700" 
-height = "147" 
+  var pics= new Array(3) 
+   pics[0]=pic1.src;
+   pics[1]=pic2.src;
+   pics[2]=pic3.src;
 
+  var aurl= new Array(3)
+  aurl[0]=urlad1;
+  aurl[1]=urlad2;
+  aurl[2]=urlad3;
+
+  document.write(cent_it+"<A HREF='"+aurl[choose_one]+"'><IMG SRC='"+pics[choose_one]+"' width='"+pic_width+"' height='"+pic_height+"' border='"+border_size+"'></A>"+cent_it2);
+ }
 }
+//-->
+</script>
+<link rel="stylesheet" type="text/css" href="default.css">
+<script type="text/javascript">
+<!-- Hide from JavaScript-Impaired Browsers
+// Script generated at http://riverdrift.com/
+var currentdate = 0;
+var index = 0;
+function initArray() {
+this.length = initArray.arguments.length;
+for (var i = 0; i < this.length; i++) { this[i] =
+initArray.arguments[i];
+}
+}
+pic = new initArray("banners/audiopro.gif","banners/batlground.gif","banners/mahdavi.gif","banners/balanced2.gif","banners/uab.gif","banners/knowledge.gif","banners/tweeter_bn.gif");
+lnks = new initArray("http://www.importatlanta.com","http://www.batlground.com","http://www.mahdavimotorsports.com","http://www.balancedperformance.com","http://www.uabcustomcars.com","http://www.knowledgeperformance.net","http://www.tweeter.com","http://www.importatlanta.com");
+var currentdate = new Date();
+var index = currentdate.getSeconds() % pic.length;
+var Dopic = pic[index];
+var Dolnks  = lnks[index];
+// End Hiding -->
+</script>
+</head>
+<body bgcolor="#666666" link="ffffff" text="#999999" alink="999999" vlink="ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 
-
-document.write('<left>'); 
-document.write('<img src="' + Graphic + '" width=') 
-document.write(width + ' height=' + height + ' '); 
-document.write('border=0>'); 
-document.write('</a>'); 
-document.write('</left>'); 
- 
-
-</script><left><img src="http://www.importsouth.com/images/top3.jpg" width="700" height="147" border="0"></left><ctrl><left></left></ctrl></td>
-                <td width="100%" background="http://www.importsouth.com/images/topbarbkg.jpg">
-                 </td>
-              </tr>
-              </tbody>
-      </table>
-    
-  
-  
-
-
-<!-- End Top Area //-->
-
-<table cellpadding="0" cellspacing="0" border="0">
+<center>
+  <table width="598" border="0" align="left">
     <tbody><tr>
-        <td height="2"><!-- THIS TABLE IS A SPACER //--></td>
+      <td height="847" align="right" valign="top"> 
+        <p><img src="images/logo.gif" width="57" height="308"></p>
+        <p> <a href="http://www.radioia.com"><img src="images/radioia.gif" width="57" height="40" border="0"></a><br>
+           </p></td><td align="center" valign="top"> 
+        <table border="0" cellpadding="0" cellspacing="0" width="640">
+          <tbody><tr bgcolor="EF3121"> 
+            <td align="left" valign="top"> <div align="right"><b> <a href="http://forums.importatlanta.org/">forum</a> 
+                &nbsp;&nbsp;|&nbsp;&nbsp; <a href="features.htm">features</a> 
+                &nbsp;&nbsp;|&nbsp;&nbsp; <a href="events.htm">events</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+                <a href="coverage.htm">coverage</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="wtf.htm">wtf</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="store.htm">store</a> 
+                &nbsp;&nbsp;|<a href="downloads.htm">&nbsp;&nbsp;downloads</a> 
+                &nbsp;&nbsp;|&nbsp;&nbsp; <a href="links.htm">links</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+                <a href="index.htm">home</a> &nbsp;&nbsp;|&nbsp; </b></div></td>
+          </tr>
+          <tr> 
+            <td bgcolor="ffffff"> <img src="images/space.gif" height="1"></td>
+          </tr>
+          <tr> 
+            <td><script language="JavaScript">
+<!--
+ get_Image()
+//-->
+</script><center><a href=""><img src="https://web.archive.org/web/20040605091852id_/http%3A//www.importatlanta.com/images/toppic1.gif" width="640" height="133" border="0"></a></center></td>
+          </tr>
+          <tr> 
+            <td bgcolor="ffffff"> <img src="images/space.gif" height="1"></td>
+          </tr>
+          <tr> 
+            <td height="810"> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td height="694" rowspan="2" valign="top" bgcolor="333333"> 
+                    <div align="center"><img src="images/space.gif" height="1"> 
+                      <strong>
+                      <script type="text/javascript">
+<!-- Hide from JavaScript-Impaired Browsers
+document.write('<p align="center"><a href="'+Dolnks+'" target="_blank">');
+document.write('<img src="'+Dopic+'" border="0" width="468" height="60" alt="" /></a></p>');
+// End Hiding -->
+</script><p align="center"><a href="http://www.batlground.com" target="_blank"><img src="banners/batlground.gif" border="0" width="468" height="60" alt=""></a></p>
+                      </strong></div>
+                    <table border="0" align="center" cellpadding="10" cellspacing="0">
+                      <tbody><tr> 
+                        <td height="675" rowspan="4" valign="top"> 
+                          <p class="mash"> 
+                            Privacy Policy: April 2003</p>
+                          <img src="images/space.gif" width="250" height="10" border="0"><br>
+                          <font size="1"> IMPORTATLANTA.COM respects your privacy. 
+                          That's why we have created this Privacy Statement to 
+                          explain how and why we collect certain information online, 
+                          and how we use that information. This statement also 
+                          explains how you can prevent collection of certain information 
+                          about yourself, if you choose. Please take a few moments 
+                          to read our Privacy Statement. This statement applies 
+                          to all information we collect from visitors to the Importatlanta.com 
+                          Web site / Message Board. <br>
+                          As Importatlanta.com is constantly innovating and enhancing 
+                          our site and message forums it provides to its users, 
+                          this Privacy Statement will also continue to change 
+                          to match our changes we make available. As such, we 
+                          reserve the right to change this statement to match 
+                          our changes we make. If we make any material change 
+                          to this statement, we will change the date at the top 
+                          of this statement to reflect the effective date of the 
+                          change. When you visit our site we encourage you to 
+                          check the date of this Privacy Statement to ensure you 
+                          are aware of any updates. 
+                          <p>However, regardless of how this Privacy Statement 
+                            may change or evolve over time, Importatlanta.com 
+                            will not collect or maintain your private and personally 
+                            identifiable information without your consent. Further, 
+                            if you consent to give us your personal information, 
+                            we will keep it confidential and will not sell, license 
+                            or disclose your personal information to any third 
+                            party without your consent, unless we are compelled 
+                            to do so under the law or to comply with a court order. 
+                            <br>
+                            Types of Information We Collect:<br>
+                            Generally, you are free to browse Importatlanta.com 
+                            site without submitting any personal information. 
+                            We do not collect any of your personal information 
+                            (such as a name, address or e-mail address) when you 
+                            visit the Importatlanta.com, Unless You register to 
+                            use our site or otherwise agree to submit to us such 
+                            information. As part of such processes, you have the 
+                            opportunity to decline further promotional materials 
+                            or other notifications from us regarding special information 
+                            from Importatlanta.com.. <br>
+                            Registration on Our Site:<br>
+                            Importatlanta.com requires users who want to participate 
+                            in our message board to register. In order to register, 
+                            you must provide us with a username (which does not 
+                            have to be your real name), password and a valid e-mail 
+                            address. This allows us to protect our community from 
+                            abusive postings and provides a verifiable point of 
+                            contact should legal questions arise. At any time, 
+                            you have the ability to keep your e-mail address hidden 
+                            from other users by selecting that option within your 
+                            user profile.When you register, you have the option 
+                            of providing some additional information such as occupation, 
+                            interests, and homepage URL. This optional information 
+                            is made available to other bulletin or message board 
+                            users to foster a sense of community. If you have 
+                            any concerns about providing this information, simply 
+                            leave the fields blank and your registration will 
+                            still be processed.IF YOU ARE UNDER 18 YEARS OF AGE 
+                            you are not allowed to participate in the Importatlanta.com 
+                            Forum, or to provide any personal information on our 
+                            site.</p>
+                          <p>Contact for Privacy Inquiries:<br>
+                            If you have any questions about this Privacy Statement 
+                            or other questions about privacy on Importatlanta.com, 
+                            please contact:Info@importatlanta.com <br>
+                            Postings on Message Boards:<br>
+                            It is important for you to remain aware that when 
+                            you provide personal information (e.g., last name, 
+                            address, phone number) in a posting on any message 
+                            board, that information is available to any other 
+                            person or user having access and use of that message 
+                            board, and may be used by someone in a manner unintended 
+                            by you. For that reason, we discourage you from offering 
+                            any personally identifying information within a posting 
+                            to any message board.<br>
+                            Importatlanta.com Staff is not responsible for what 
+                            is said by any registered user that might affect you 
+                            emotionally or mentally.<br>
+                            This is a free forum, everyone has opinions.</p>
+                          <p>Importatlanta.com is Privately owned and operated. 
+                            <br>
+                            Site Maitained By <a href="http://www.5pointstudios.com%20">5pointStudios.com<br>
+                            </a>Site Hosted By <a href="http://www.es-hosting.com/client/step_one.php">Es-hosting.com</a><br>
+                            Message Board Provided ByVBULLTIN and<br>
+                            maintained by Importatlanta.com's Moderators and Administrators.<br>
+                            2001- 2004<br>
+                            Reagards,<br>
+                            Julio Morillo<br>
+                            Founder/Owner</p>
+                          </font></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+              </tbody></table> 
+              <p align="center"><a href="about_us.htm">about us</a> | <a href="privacy.html">privacy 
+                statement</a> | <a href="st_team.htm">street team </a> | <a href="contact_us.htm">contact 
+                us<br>
+                </a>Copyright Import Atlanta/Importatlanta.com 2001-2004 This, 
+                or any file, may not be published, broadcast or otherwise distributed 
+                without the prior written permission of ImportAtlanta.com<br>
+                Site is maintained by <a href="http://www.5pointstudios.com">5pointStudios.com</a> 
+                &amp; hosted by <a href="http://www.es-hosting.com/">Es-hosting.com</a><br>
+                Best if viewed at 1024 x 768 resolution. </p></td>
+          </tr>
+        </tbody></table>
+      </td>
+       <td align="left" valign="top"><img src="banners/tweeter.gif" width="120" height="156"><br>
+        <p><img src="images/audioprolong.gif" width="120" height="156"></p> 
+        <p><img src="images/knowledgelong.gif" width="120" height="156"></p>
+        <p><img src="images/madavilong.gif" width="120" height="156"></p>
+        <p><img src="images/uablong.gif" width="120" height="156"></p></td>
     </tr>
-</tbody></table>
+  </tbody></table>
+  </center>
 
-<!-- Main Table //-->
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-    <tbody><tr height="100%">
-        <!-- LEFT COL //-->
-        <td width="146" valign="top" height="100%">
-            <table cellspacing="0" cellpadding="0" width="100%" border="0">
-                <tbody><tr>
-                    <td width="146" valign="top">
-                    <img src="images/standard/menutop.gif" width="115" height="35" alt=""><br><table cellpadding="0" cellspacing="0" border="0">
 
-		    
-		    <!-- LOGIN/LOGOUT //-->
-                    <tbody><tr>
-<td>
-	
-				<a href="/login.php"><img src="images/login.gif" border="0" width="115" height="9" alt="Login"></a><br>
-</td>
-</tr>
-<tr>
-<td>
-				<a href="/signup.php"><img src="images/signup.gif" border="0" width="115" height="9" alt="Signup"></a><br>
-</td>
-</tr>
-                    <!-- End Login/Logout //-->
-		    <!-- MENU AREA //-->
-                    
-		    <!--STANDARD MENU //-->
-                        </tbody></table><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: #5E656E" width="124" id="AutoNumber6">
-
-<tbody><tr>
-		<td>
-				<img src="images/menu_04.gif" width="115" height="19" border="0" alt=""></td>
-
-	</tr>   
-		<tr>
-		<td>
-			<a href="/">
-				<img src="images/menu_05.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="http://is.infopop.cc/6/ubb.x">
-				<img src="images/menu_06.gif" width="115" height="9" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="chat.php">
-				<img src="images/menu_07.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="vshow.php">
-				<img src="images/menu_08.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-<tr>
-		<td>
-			<a href="isjamz.php">
-				<img src="images/menu_09.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-		<tr>
-		<td>
-			<a href="slacker.php">
-				<img src="images/menu_10.gif" width="115" height="9" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="events.php">
-				<img src="images/menu_11.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="vendors.php">
-				<img src="images/menu_12.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="eventcoverage.php">
-				<img src="images/menu_13.gif" width="115" height="9" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="ots.php">
-				<img src="images/menu_14.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="dailygrind.php">
-				<img src="images/menu_15.gif" width="115" height="9" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="crews.php">
-				<img src="images/menu_16.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="models.php">
-				<img src="images/menu_17.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="rom.php">
-				<img src="images/menu_18.gif" width="115" height="10" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td>
-			<a href="store.php">
-				<img src="images/menu_19.gif" width="115" height="12" border="0" alt=""></a></td>
-	</tr>
-		    <!-- END STANDARD MENU //-->
-		    </tbody></table>
-                    <!-- END MENU AREA //-->
-		    </td>
-		</tr>
-		    
-		
-
-	    </tbody></table>
-            <table cellspacing="0" cellpadding="5" width="1" border="0" style="border-collapse: collapse; border-color: #111111">
-                <tbody><tr>
-                    <td height="100%" valign="top" width="146">
-                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-color: #000000" width="100%" id="AutoNumber5">
-                            <tbody><tr>
-                                <td width="100%">
-                                                                   <a href="sponsors.php?sponsor_id=1"><img border="0" src="images/balancedbanner.jpg" alt=""></a><br><br>
-				   <a href="sponsors.php?sponsor_id=9"><img border="0" src="images/wheelmerchantsbanner.jpg" alt=""></a><br><br>
-				<!--
-                                <img border="0" src="images/change/index_pos2.jpg" alt=""><br><br>
-                                <img border="0" src="images/change/index_pos3.jpg" alt="">
-                                //-->
-
-                                </td>
-                            </tr>
-                            <tr>
-                                <td width="100%">&nbsp;</td>
-                            </tr>
-                        </tbody></table>
-                    </td>
-                </tr>
-            </tbody></table>        
-        </td>
-        <!-- END LEFT COL //-->
-        <!-- CENTER COL //-->
-        <td width="100%" valign="top" align="center" height="100%">
-            <br>
-            <table cellpadding="0" cellspacing="0" border="0">
-                <tbody><tr width="70%">
-<td width="70%" class="class7">
-
-<img src="images/privacy.gif"><br><br>
-
-<p>Welcome to ImportSouth.com by Vizionx, LLC! (Hereafter referred to as ImportSouth.com). ImportSouth.com wants you to feel comfortable and secure when you use our services. To that end, we are committed to protecting your privacy.
-<br><br>
-</p><p>Be assured that ImportSouth.com will not share private information with anyone! You also play a role in guaranteeing your privacy and safety. Please exercise common sense when providing personal information to ImportSouth.com and its users. Don't reveal sensitive information to other. Make sure you are totally comfortable when meeting or exchanging phone numbers with other members. Refrain from revealing your address. Never share sensitive business or financial information.
-<br><br>
-</p><p>ImportSouth.com's primary goal in collecting personal information is to provide our members with the most useful and best and services. Be advised that Findapix will not sell or distribute confidential personal information to any institutions. Your profile information will be solely used to generate for market research.
-<br><br>
-</p><p>PRIVATE INFORMATION is any information that allows others to contact a user other than through ImportSouth.com or allows the collection of information about the user other than what is displayed on the site. Private information is gathered regular members. This information includes, but is not limited to, email address, rectd dress, first name, last name, credit card number, and address.
-<br><br>
-</p><p>PUBLIC INFORMATION is personal information that may be displayed on the site, such as gender, age and height, but cannot be linked to a particular user. Public information is personal information such as gender, age, ethnic background, appearance, and more. This information is meant to be seen by members and visitors to the site but cannot be used to identify a specific member by name, address, or other profile information.
-<br><br>
-</p><p>ImportSouth.com makes forum's available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information online. ImportSouth.com also offers a internal messaging system, and be advised that when you are using this system, whatever you are transmitting will be in the public information.
-<br><br>
-</p><p>We have designed ImportSouth.com to be a simple, safe, fun and discreet way to meet others. Ultimately, you are responsible for the manner in which you use our site. If you have any questions or comments about our services or policies, please contact us at admin@importsouth.com.
-
-</p></td>
-</tr>
-
-            </tbody></table>
-        </td>
-        <!-- END CENTER COL //-->
-        <!-- RIGHT COL //-->
-        <td width="180" valign="top" align="left" height="100%">
-            <table cellpadding="0" cellspacing="0" border="0" width="150">
-                <tbody><tr>
-                    <!-- Quick Search //-->
-                    <td width="150" valign="top" align="right">
-                                            <!-- spacing table //-->
-                        <!--
-                        <table cellpadding="0" cellspacing="0" border="0">
-                            <tr>
-                                <td></td>
-                            </tr>
-                        </table>
-                        //-->
-                        <!-- end spacing table //-->
-                        <form action="qsearch.php" method="POST">
-                        <table cellspacing="0" cellpadding="0" border="0">
-                            <tbody><tr>
-                                <td height="4"></td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <img border="0" src="images/quicksearchsmall.gif" alt="">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="3"></td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <img src="images/standard/make.gif" alt="Make"><br>
-                                    <select name="make" style="font-size: 11px">
-                                        <option value="0">All Models</option>
-                                        <option value="1">Acura</option>
-<option value="2">AM General</option>
-<option value="3">Aston Martin</option>
-<option value="4">Audi</option>
-<option value="5">Bentley</option>
-<option value="6">BMW</option>
-<option value="7">Buick</option>
-<option value="8">Cadillac</option>
-<option value="9">Chevrolet</option>
-<option value="10">Chrysler</option>
-<option value="11">Daewoo</option>
-<option value="12">Dodge</option>
-<option value="13">Ferrari</option>
-<option value="14">Ford</option>
-<option value="15">GMC</option>
-<option value="16">Honda</option>
-<option value="17">Hyundai</option>
-<option value="18">Infiniti</option>
-<option value="19">Isuzu</option>
-<option value="20">Jaguar</option>
-<option value="21">Jeep</option>
-<option value="22">Kia</option>
-<option value="23">Lamborghini</option>
-<option value="24">Land Rover</option>
-<option value="25">Lexus</option>
-<option value="26">Lincoln</option>
-<option value="27">Lotus</option>
-<option value="28">Mazda</option>
-<option value="29">Mercedes-Benz</option>
-<option value="30">Mercury</option>
-<option value="31">Mitsubishi</option>
-<option value="32">Nissan</option>
-<option value="33">Oldsmobile</option>
-<option value="45">Other</option>
-<option value="34">Plymouth</option>
-<option value="35">Pontiac</option>
-<option value="36">Porsche</option>
-<option value="37">Rolls-Royce</option>
-<option value="38">Saab</option>
-<option value="39">Saturn</option>
-<option value="40">Subaru</option>
-<option value="41">Suzuki</option>
-<option value="42">Toyota</option>
-<option value="43">Volkswagen</option>
-<option value="44">Volvo</option>
-
-                                    </select>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="4"></td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <img src="images/standard/model.gif" alt="Model"><br>
-                                    <input type="text" name="model" style="font-size: 11px" value="" size="14">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="4"></td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <img src="images/standard/state.gif" alt=""><br>
-                                    <select name="state" style="font-size: 11px">
-                                        <option value="0">All States</option>
-                                        <option value="1">Alabama</option>
-<option value="2">Alaska</option>
-<option value="3">Arizona</option>
-<option value="4">Arkansas</option>
-<option value="5">California</option>
-<option value="6">Colorado</option>
-<option value="7">Connecticut</option>
-<option value="8">Delaware</option>
-<option value="9">Florida</option>
-<option value="10">Georgia</option>
-<option value="11">Hawaii</option>
-<option value="12">Idaho</option>
-<option value="13">Illinois</option>
-<option value="14">Indiana</option>
-<option value="15">Iowa</option>
-<option value="16">Kansas</option>
-<option value="17">Kentucky</option>
-<option value="18">Louisiana</option>
-<option value="19">Maine</option>
-<option value="20">Maryland</option>
-<option value="21">Massachusetts</option>
-<option value="22">Michigan</option>
-<option value="23">Minnesota</option>
-<option value="24">Mississippi</option>
-<option value="25">Missouri</option>
-<option value="26">Montana</option>
-<option value="27">Nebraska</option>
-<option value="28">Nevada</option>
-<option value="29">New Hampshire</option>
-<option value="30">New Jersey</option>
-<option value="31">New Mexico</option>
-<option value="32">New York</option>
-<option value="33">North Carolina</option>
-<option value="34">North Dakota</option>
-<option value="35">Ohio</option>
-<option value="36">Oklahoma</option>
-<option value="37">Oregon</option>
-<option value="51">Other</option>
-<option value="38">Pennsylvania</option>
-<option value="39">Rhode Island</option>
-<option value="40">South Carolina</option>
-<option value="41">South Dakota</option>
-<option value="42">Tennessee</option>
-<option value="43">Texas</option>
-<option value="44">Utah</option>
-<option value="45">Vermont</option>
-<option value="46">Virginia</option>
-<option value="47">Washington</option>
-<option value="48">West Virginia</option>
-<option value="49">Wisconsin</option>
-<option value="50">Wyoming</option>
-
-                                    </select>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="4"></td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <input type="submit" name="submit" value="Search" style="font-size: 10px">
-                                </td>
-                            </tr>
-                        </tbody></table>
-                        <input type="hidden" name="section" value="qsearch">
-                        </form>
-
-                    </td>
-                    <!-- End Quick Search //-->
-                </tr>
-                <tr>
-                    <!-- Ride of the Month //-->
-                    <td width="150" valign="top" align="right">
-                                            <table cellpadding="0" cellspacing="0" border="0">
-                            <tbody><tr>
-                                <td height="25"></td>
-                            </tr>
-                            <tr>
-                                <td align="left">
-                                    <img border="0" src="images/romsmall.gif" alt="">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td align="left">
-                                    <a href="/rom.php"><img src="images/romjune03side.jpg" border="0" alt=""></a>
-                                </td>
-                            </tr>
-                        </tbody></table>
-
-                    </td>
-                    <!-- End Ride of the Month //-->
-                </tr>
-                <tr>
-                    <!-- Daily Grind //-->
-                    <td width="150" valign="top" align="left">
-                    
-                    </td>
-                    <!-- End Daily Grind //-->
-                </tr>
-            </tbody></table>
-        </td>
-        <!-- END RIGHT COL //-->
-    </tr>
-</tbody></table>
-<br><br>
-<table cellspacing="0" cellpadding="0" width="100%" border="0" style="border-collapse: collapse; border-color: #111111">
-    <tbody>
-        <tr>
-            <td width="20%" bgcolor="#666666"></td>
-            <td align="center" bgcolor="#666666" width="40%">
-                <font face="Arial, Helvetica, sans-serif" color="#ffffff" size="1">
-                    © 2003 Importsouth.com
-                </font>
-            </td>
-            <td bgcolor="#666666" width="20%" align="right">
-                <font face="Arial, Helvetica, sans-serif" color="#ffffff" size="1">
-                    <a href="terms.php" class="class7">terms of service</a> | <a href="privacy.php" class="class7">privacy statement</a> | <a href="linkto.php" class="class7">link to us</a> | <a href="contact.php" class="class7">contact us</a> &nbsp;&nbsp;
-                </font>
-            </td>
-        </tr>
-    </tbody>
-</table>
 </body></html>
