@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610144752id_/http%3A//www.cmiregistration.com/user/about/privacy.jxp%3Forg%3D114) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2002-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021108155713id_/http%3A//www.cmiregistration.com/user/about/privacy.jxp%3Forg%3D114) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,6 +40,4 @@ This policy statement has a version number and date. If we change the policy, we
 
 Please contact the ParentMap at (206) 709-9026 if you have questions or need additional information not provided here. 
 
-|  |  [](http://www.cmiregistration.com/user/directory/learnMore.jxp?org=114)  
----  
- 
+|   
