@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningstar.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101958id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311083815id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ If you want to stop the tracking process with respect to a particular ad service
 
 <http://www.networkadvertising.org/optout_nonppii.asp>   
 <http://www.planninggroup.com/PGI_Privacy_Policy.htm>   
-<http://www.mediaplex.com/mplx_privacy.shtml#_Toc41282072>
+<http://www.mediaplex.com/privacy.shtml>
 
 **How Is Portfolio Information Used and Protected?**  
 We recognize that your portfolio information is very sensitive, and protecting the privacy of this information is a top priority for us. The contents of your portfolio are kept strictly confidential and are not voluntarily shared with any third parties.
