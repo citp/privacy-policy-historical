@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambest.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604023227id_/http%3A//www.ambest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambest.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201080923id_/http%3A//ambest.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for A.M. Best Company
 
@@ -22,7 +22,7 @@ This site contains links to other sites. A.M. Best is not responsible for the pr
 
 This site provides you with the opportunity to opt-out of receiving communication from A.M. Best at the point where information about you is requested. 
 
-  1. Use the on-line form at [www.ambest.com/customer/pausemail.html](https://web.archive.org/web/20010604023227id_/http%3A//www.ambest.com/customer/pausemail.html)
+  1. Use the on-line form at [www.ambest.com/customer/pausemail.html](https://web.archive.org/web/20011201080923id_/http%3A//ambest.com/customer/pausemail.html)
   2. You can send e-mail to [webadmin@ambest.com](mailto:webadmin@ambest.com)  
 
 
@@ -30,7 +30,7 @@ This site provides you with the opportunity to opt-out of receiving communicatio
 
 You have the following option for changing and modifying information previously provided. 
 
-  1. To notify us of a new e-mail address, use the on-line form at [www.ambest.com/customer/e-mailchange.html](https://web.archive.org/web/20010604023227id_/http%3A//www.ambest.com/customer/e-mailchange.html)
+  1. To notify us of a new e-mail address, use the on-line form at [www.ambest.com/customer/e-mailchange.html](https://web.archive.org/web/20011201080923id_/http%3A//ambest.com/customer/e-mailchange.html)
   2. E-mail other changes to [webadmin@ambest.com](mailto:webadmin@ambest.com)
 
 
