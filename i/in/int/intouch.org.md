@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607174342id_/http%3A//intouch.org/privacy_37329364.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208155746id_/http%3A//www.intouch.org/privacy_37329364.html) for the most accurate reproduction.*
 
 # Privacy Policy - In Touch Ministries
 
