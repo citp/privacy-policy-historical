@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertclick.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203044804id_/http%3A//www.expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertclick.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602200558id_/http%3A//www.expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
 
 # Yearbook.com
 
