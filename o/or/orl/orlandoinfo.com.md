@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204020414id_/http%3A//www.orlandoinfo.com/other/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606070711id_/http%3A//www.orlandoinfo.com/other/privacy) for the most accurate reproduction.*
 
 # orlandoinfo.com -The Official Site to plan your Orlando vacation presented by the Orlando/Orange County Convention&Visitors Bureau, Inc.
 
