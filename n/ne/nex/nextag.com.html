@@ -1,0 +1,232 @@
+<!--The following is the downloaded HTML source of the nextag.com privacy policy that was archived on 1999-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19991117211914id_/http%3A//nextag.com/buyer/privacy_statement.jsp) for the most accurate reproduction.-->
+
+<html><head>
+
+
+	<title>NexTag.com Service Agreement</title>
+	<link rel="stylesheet" href="/nextag.css" type="text/css">
+</head>
+
+<body bgcolor="#ffffff" topmargin="2" leftmargin="2" marginheight="2" marginwidth="2">
+
+
+
+<script language="JavaScript">
+// whitespace characters
+var whitespace = " \t\n\r";
+
+function showHelp() {
+//	var helpWin = window.open("/buyer/help.html","Help","resizable=1,menubars=1,width=475,height=400");
+	popupWindow("/buyer/help.html","Help","resizable=1,menubars=1,width=475,height=400");
+}
+
+function showHelp2(page) {
+	popupWindow("/buyer/help.jsp?page="+page,"Help","resizable=1,menubars=1,width=475,height=400");
+}
+
+function selectValue(slt) {
+	return slt==null ? null : slt.options[slt.selectedIndex].value;
+}
+
+// Removes all characters which appear in string bag from string s.
+function stripCharsInBag (s, bag) {   
+	var i;
+    var returnString = "";
+
+    // Search through string's characters one by one.
+    // If character is not in bag, append to returnString.
+    for (i = 0; i < s.length; i++) {   
+        // Check that current character isn't whitespace.
+        var c = s.charAt(i);
+        if (bag.indexOf(c) == -1) {
+        	returnString += c;
+        }
+    }
+
+    return returnString;
+}
+
+// Removes all characters which do NOT appear in string bag 
+// from string s.
+function stripCharsNotInBag (s, bag){   
+	var i;
+    var returnString = "";
+
+    // Search through string's characters one by one.
+    // If character is in bag, append to returnString.
+    for (i = 0; i < s.length; i++) {   
+        // Check that current character isn't whitespace.
+        var c = s.charAt(i);
+        if (bag.indexOf(c) != -1) returnString += c;
+    }
+
+    return returnString;
+}
+
+// Removes all whitespace characters from s.
+// Global variable whitespace
+// defines which characters are considered whitespace.
+function stripWhitespace(s){   
+	return stripCharsInBag(s, whitespace);
+}
+	//-->
+
+function popupWindow(url,name,features) {
+	// kludged for IE
+	var x = name;
+	if( document[name]!=null && !document[name].closed ) {
+//		document[name].focus();
+		document[name].close();
+		name += "x";
+	}
+	document[x] = window.open(url,name,features);
+}
+	
+</script>
+
+
+
+<!-- Header -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+<!-- Top bar and Spacer -->
+
+<script language="Javascript">
+function showReputationText() {
+	var dx = 500;
+	var dy = 300;
+
+	popupWindow("/buyer/ReputationDescription.jsp", "", "scrollbars=no,resizable=0,width="+dx+",height="+dy+"");
+}
+</script>
+
+<!-- Header area -->
+<tbody><tr>
+<td>
+<a href="http://nextag.com/buyer/Home.jsp;$sessionid$9428729074SJc1yuOdmo"><img src="/images/finallogo_small.gif" width="171" height="36" border="0" alt="NexTag.com Logo"></a><br>
+</td>
+
+<td align="center">
+<span class="navigation">
+
+<a href="javascript:showHelp();">Help</a><br>
+</span>
+</td>
+</tr>
+
+</tbody></table>
+
+
+
+
+
+<div align="center">
+<table cellspacing="0" border="0" cellpadding="0">
+<tbody><tr valign="bottom">
+<td width="50%"><br></td>
+<td><a href="Home.jsp;$sessionid$9428729074SJc1yuOdmo"><img src="../images/home_tab_b.gif" alt="" border="0"></a><br></td>
+<td><a href="FindProd.jsp;$sessionid$9428729074SJc1yuOdmo"><img src="../images/find_products_tab_b.gif" alt="Find Products" border="0"></a><br></td>
+<td><a href="WishList.jsp;$sessionid$9428729074SJc1yuOdmo"><img src="../images/saved_lists_tab_b.gif" alt="Wish List" border="0"></a><br></td>
+<td><a href="MyBids.jsp;$sessionid$9428729074SJc1yuOdmo"><img src="../images/negotiations_tab_b.gif" alt="My Bids" border="0"></a><br></td>
+<td><a href="Deals.jsp;$sessionid$9428729074SJc1yuOdmo"><img src="../images/order_history_tab_b.gif" alt="Order History" border="0"></a><br></td>
+<td width="50%"><br></td>
+</tr>
+
+<tr valign="bottom">
+<td width="50%" height="1" bgcolor="#000000"><spacer type="block" height="1"></spacer></td>
+
+<td width="120" height="1" bgcolor="#000000"><spacer type="block" height="1"></spacer></td>
+<td width="120" height="1" bgcolor="#000000"><spacer type="block" height="1"></spacer></td>
+<td width="120" height="1" bgcolor="#000000"><spacer type="block" height="1"></spacer></td>
+<td width="120" height="1" bgcolor="#000000"><spacer type="block" height="1"></spacer></td>
+<td width="120" height="1" bgcolor="#000000"><spacer type="block" height="1"></spacer></td>
+
+<td width="50%" height="1" bgcolor="#000000"><spacer type="block" height="1"></spacer></td>
+</tr>
+
+
+</tbody></table>
+</div>
+
+
+
+
+
+<!-- Hint -->
+<table cellspacing="0" cellpadding="3" border="0" width="100%" bgcolor="#ffffcc">
+<tbody><tr>
+<td align="center"><div class="tip">Click a tab above to explore NexTag.com</div></td>
+</tr>
+</tbody></table><br>
+
+<div class="content">
+<h1>Privacy Statement for www.nextag.com</h1> 	
+
+
+
+
+<p>NexTag.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.nextag.com.</p>
+
+<p>We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.</p>
+
+<p>Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests.</p>
+
+<p>Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company.   We collect, store, and forward customers' credit card numbers and billing information to a participating seller only when our customers have agreed to purchase from that seller through our service.  This information encrypted and delivered securely.  The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.</p>
+
+<p>This site contains links to other sites. www.nextag.com is not responsible for the privacy practices or the content of such Web sites.</p>
+
+<p>Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information(like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our
+customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications and bill the user for products and services.</p><p>
+
+</p><h3>Choice/Opt-Out</h3>
+
+<p>Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.</p>
+
+<p>This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. </p>
+
+<p>You can send email to <a href="mailto:privacy@nextag.com">privacy@nextag.com</a></p>
+
+
+
+
+
+<h3>Contacting the Web Site</h3>
+
+<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact</p>
+
+<pre>NexTag.com
+1670 South Amphlett
+Suite 214
+San Mateo, CA 94402
+<a href="mailto:privacy@nextag.com">privacy@nextag.com</a>
+</pre>
+
+
+
+<hr noshade="" size="1" align="left" width="300">
+« <a href="javascript:history.back();">Go Back</a> 
+
+</div>
+
+<p></p><hr noshade="" size="1">
+
+<table border="0" width="100%">
+<tbody><tr><td align="center"><div class="smaller">
+Copyright © 1999, NexTag.com(sm) All Rights Reserved.<br>
+Comments, questions, or suggestions? E-mail us at <a href="mailto:support@nextag.com">support@nextag.com</a><br>
+<a href="/about/about.jsp">About NexTag.com</a> 
+| <a href="/buyer/service_agreement.jsp">Service Agreement</a> 
+| <a href="/buyer/privacy_statement.jsp">Our Privacy Policy</a><br>
+<a href="/about/about.jsp">Affiliates Program</a> | <a href="/buyer/submit_your_store.jsp">Become a Seller</a>
+<p>
+</p></div></td>
+
+</tr></tbody></table>
+
+
+
+
+
+
+</body></html>
