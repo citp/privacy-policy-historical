@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigdoggie.net privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604015802id_/http%3A//bigdoggie.net/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdoggie.net privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401171706id_/http%3A//www.bigdoggie.net/support/privacy.html) for the most accurate reproduction.*
 
-# BigDoggie.net
+# BigDoggie.net - Escort Reviews and Listings
 
-Netventures LTD has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.bigdoggie.net. 
+Netvestors Limited (T&C) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.bigdoggie.net. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. We use cookies for other purposes. 
 
@@ -37,5 +37,5 @@ This site gives users the following options for changing and modifying informati
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-Netventures LTD   
-[support@bigdoggie.net](mailto:support@bigdoggie.net)
+Netvestors Limited (T&C)   
+at [support@bigdoggie.net](mailto:support@bigdoggie.net)
