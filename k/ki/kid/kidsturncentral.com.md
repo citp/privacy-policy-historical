@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsturncentral.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621134228id_/http%3A//www.kidsturncentral.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsturncentral.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207170023id_/http%3A//www.kidsturncentral.com/privacy.htm) for the most accurate reproduction.*
 
 # Kids' Turn Central - Privacy Policy
 
