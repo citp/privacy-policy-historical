@@ -1,556 +1,455 @@
-<!--The following is the downloaded HTML source of the channelonline.com privacy policy that was archived on 2002-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020405171841id_/http%3A//www.channelonline.com/en/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the channelonline.com privacy policy that was archived on 2002-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021202153343id_/http%3A//www.channelonline.com/us/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>CNET ChannelOnline</title>
-<meta name="resource-type" content="document">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en-us"><head>
+<title>ChannelOnline - Privacy policy</title>
+
+<!-- *** Meta-Tags *** -->
+<meta http-equiv="content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="distribution" content="Global">
-<script language="javascript">
-var ns4 = (document.layers)? true:false;
-var ns6 = (document.getElementById)? true:false;
-var ie = (document.all)? true:false;
+<meta name="revisit-after" content="15 days">
+<meta name="copyright" content="Copyright (c) 1995-2002 CNET Networks, Inc.">
+<meta name="author" content="CNET Channel">
+<meta name="publisher" content="CNET Channel">
+<meta name="author-corporate" content="CNET Channel">
+<meta name="coverage" content="Worldwide">
+<meta name="identifier-URL" content="www.channelonline.com/us/">
+<meta name="category" content="Computing,IT,Internet,Software,ASP,Sales,ERP,CRM">
+<meta name="keywords" lang="en-us" content="cnet, channel, cnetchannel, IT, technology, e-business, ebusiness, e-commerce, ecommerce, CAT, DataSource, Instant, DataSheets, ChannelOnline, Vendorbase, asp, sku, product, data, TPD, information, B2B, B2C, var, manufacturer, distributor, reseller, e-tailer, retailer, isp, online, vendor, quote, platform, content, tool, solution, procurement, price, pricing, source, database, DB, computer, supplier, advertising, marketing, search, timely, accurate, complete, quick, expert, part, number, specs, specifications, intranet, extranet, electronic format, searching, comparing, configuring, europe, usa, us, asia, pacific">
+<meta name="description" lang="en-us" content="CNET Channel (www.cnetchannel.com), a business unit of CNET Networks, offers e-business solutions to IT manufacturers, distributors, resellers and portals worldwide, providing them with the content, data, infrastructures and services they need to conduct frictionless online commerce. At the core of CNET Channel's multiple products and services is its unique Transactive Product Data™ (TPD™), granular and highly structured product information that can be stored in any e-commerce platform product database to enable transactive functionalities. CNET Channel has built a worldwide production and distribution network of TPD™ that reaches, through its thousands of customers, a vast community of 150 million IT buyers and users in 40 markets and in 18 languages.">
+<meta name="abstract" lang="en-us" content="CNET Channel (www.cnetchannel.com), a business unit of CNET Networks, offers e-business solutions to IT manufacturers, distributors, resellers and portals worldwide, providing them with the content, data, infrastructures and services they need to conduct frictionless online commerce. At the core of CNET Channel's multiple products and services is its unique Transactive Product Data™ (TPD™), granular and highly structured product information that can be stored in any e-commerce platform product database to enable transactive functionalities. CNET Channel has built a worldwide production and distribution network of TPD™ that reaches, through its thousands of customers, a vast community of 150 million IT buyers and users in 40 markets and in 18 languages.">
+<!-- /// Meta-Tags *** -->
+<link rel="STYLESHEET" type="text/css" href="/css/channelonline.css">
+<script language="JavaScript">
+<!--
+var totalSections=0;
+var lastOver=-1;
+var currentOver=-1;
+var activeSection=0;
+var imagePrefix="/i/us/menu/";
+var check=false;
 
-if (ns4) {
-	document.writeln('This site does not support Netscape 4. Please use Netscape 6.1 or Internet Explorer 4.0+<br><br><br>')
+if (document.images) 
+check=true;
+
+function sectionObj (name) {
+        this.name        = name;
+                if (check) {
+                this.off         = new Image ();
+                this.off.src     = imagePrefix + name + ".gif";
+                this.on          = new Image ();
+                this.on.src      = imagePrefix + name + "1.gif";
+                this.pick        = new Image ();
+                this.pick.src    = imagePrefix + name + "1.gif";
+                }
 }
 
-else if (ie) {
-	document.write('<link rel="StyleSheet" href="/css/ie.css" type="text/css">')	
+function createSectionObj (name) {
+        totalSections++;
+        sectionObj [totalSections] = new sectionObj (name);
 }
 
-else if (ns6) {
-	document.write('<link rel="StyleSheet" href="/css/ns6.css" type="text/css">')
+function sectionMouseOver(sectionNumber) {
+        if (check){
+        currentOver = sectionNumber;
+                if (sectionNumber != lastOver) {
+                if (sectionNumber != activeSection) {
+                        document.images [sectionObj [sectionNumber].name].src = sectionObj [sectionNumber].on.src;
+                        }
+                        if (lastOver != -1 && lastOver != activeSection) {
+                                document.images [sectionObj [lastOver].name].src = sectionObj[lastOver].off.src;
+                        }
+                        lastOver = currentOver;
+                }
+        }
 }
 
-else {
-	alert("Your browser does not support css! Try a new version.");
+function sectionMouseOut() {
+        if (check) {
+                if (currentOver != -1 && currentOver != activeSection) {
+                        document.images [sectionObj [currentOver].name].src = sectionObj [currentOver].off.src;
+                }
+                lastOver = -1;
+                currentOver = -1;
+        }
 }
 
-</script><link rel="StyleSheet" href="/css/ns6.css" type="text/css">
-<script src="/scripts/popup.js"></script>
-<script src="/scripts/rollover.js"></script>
+function updatennavFrameImages (newActiveSection, oldActiveSection){
+        if (check) {
+                if (top.CurSection != null) {
+                top.CurImage.src = top.CurSection.off.src
+                if (top.CurWin != window) {
+                        top.CurWin.activeSection = 0;
+                }
+        }
+        top.CurSection = sectionObj [newActiveSection];
+        top.CurImage = document.images [sectionObj [newActiveSection].name];
+        top.CurWin = window;
+     
+        document.images [sectionObj [newActiveSection].name].src = sectionObj[newActiveSection].pick.src;
+        if (oldActiveSection != 0) 
+                        if (newActiveSection != oldActiveSection) 
+                                document.images [sectionObj [oldActiveSection].name].src = sectionObj [oldActiveSection].off.src;
+        }
+}
 
+function sectionClick(sectionNumber) {
+  updatennavFrameImages (sectionNumber, activeSection);
+  activeSection = sectionNumber;
+}
+
+createSectionObj("menu_solution");
+createSectionObj("menu_benefits");
+createSectionObj("menu_partners");
+createSectionObj("menu_pronetwork");
+createSectionObj("menu_aboutus");
+createSectionObj("menu_home");
+createSectionObj("menu_daily");
+createSectionObj("menu_contact");
+
+function selectCountry(){
+if (document.formCountry.formSelectCountry.options[document.formCountry.formSelectCountry.selectedIndex].value != "none") {
+location = document.formCountry.formSelectCountry.options[document.formCountry.formSelectCountry.selectedIndex].value
+		}
+	}
+//-->
+</script>
 </head>
-
-
-<body bgcolor="#ffffff" text="#000000" topmargin="5" leftmargin="5" marginheight="5" marginwidth="5" onload="preloadImages();">
-
-<!-- *** logo *** -->
-<table border="0" cellpadding="0" cellspacing="0" width="760" summary="top table">
-  <tbody><tr>
-    <td bgcolor="#ffffff" height="65">
-    <img src="/i/spacer.gif" width="20" height="1"><br>
-    </td>
-    <td bgcolor="#ffffff">
-    <a href="/en/default.asp"><img src="/i/co_logo.gif" width="253" height="41" alt="ChannelOnline" border="0"></a><br>
-    </td>
-    <td bgcolor="#ffffff">
-    <img src="/i/spacer.gif" width="47" height="1"><br>
-    </td>
-		<td bgcolor="#000000">
-    <a href="pro.asp"><img src="/i/ads/banner_home1.gif" width="420" height="40" alt="click here!" border="0"></a><br>
-    </td>
-    <td bgcolor="#000000">
-    <img src="/i/spacer.gif" width="20" height="1"><br>
-    </td>
-  </tr>
-</tbody></table>
-<!-- /// logo *** -->
-<!-- *** when no top menu *** -->
-<table border="0" cellpadding="0" cellspacing="0" width="760" summary="languages">
+<body bgcolor="#ececec" rightmargin="0" leftmargin="0" bottommargin="0" marginwidth="0" marginheight="0" margintop="0" marginbottom="0" topmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" width="797">
+<!-- *** Logo *** -->
+<tbody><tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
-		<td bgcolor="#ffffff" height="13">
-    <img src="/i/spacer.gif" width="320" height="1"><br>
-		&nbsp;<!-- <a href="#en" class="menu2">en</a> | <a href="#fr" class="menu2">fr</a> | <a href="#de" class="menu2">de</a> -->
-    </td>
-		<td bgcolor="#000000">
-		<img src="/i/spacer.gif" width="440" height="1"><br>
+		<td width="623" bgcolor="#ffffff" align="left" valign="top"><a name="#top"></a><a href="/us/"><img src="/i/us/co_logo_us.gif" width="265" height="55" alt="Home" border="0"></a></td>
+		<td width="174" bgcolor="#ececec" align="right" valign="top">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<form name="formCountry" method="get"></form>
+		<tbody><tr>
+			<td colspan="6"><img src="/i/nbsp.gif" width="1" height="8" border="0"></td>
+		</tr>
+		<tr>
+			<td valign="middle"><span class="current2"><a href="http://lite.channelonline.com/login.aspx?market=US">Login</a> | <a href="/us/contactus.asp">Contact us</a></span></td>
+			<td><img src="/i/nbsp.gif" width="8" height="1" border="0"></td>
+			<td valign="middle"><img src="/i/icones/flag_us.jpg" width="16" height="11" border="0"></td>
+			<td><img src="/i/nbsp.gif" width="8" height="1" border="0"></td>
+			<td valign="middle">
+			<script language="JavaScript" type="text/javascript">
+			<!--
+			document.write('<select name="formSelectCountry" size="1" class="select1" onchange="selectCountry();">');
+			document.write('<option value="/us/">US');
+			document.write('<option value="/en/">UK');
+			document.write('<option value="/fr/">FR');
+			document.write('<option value="/de/">DE');
+			document.write('</select>');
+			//-->
+			</script><select name="formSelectCountry" size="1" class="select1" onchange="selectCountry();"><option value="/us/">US</option><option value="/en/">UK</option><option value="/fr/">FR</option><option value="/de/">DE</option></select>
+			</td>
+			<td><img src="/i/nbsp.gif" width="5" height="1" border="0"></td>
+		</tr>
+		
+		</tbody></table>
 		</td>
 	</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="760" summary="gray line all accross">
+	</tbody></table>
+	</td>
+</tr>
+<!-- /// Logo *** -->
+<tr>
+	<td bgcolor="#000000">
+	<table border="0" cellpadding="0" cellspacing="0" width="797">
+	<!-- *** Menu *** -->
 	<tbody><tr>
-		<td bgcolor="#999999">
-    <img src="/i/spacer.gif" width="1" height="1"><br>
-    </td>
-	</tr>
-</tbody></table>
-<!-- /// when no top menu *** -->
-
-<!-- *** main table *** -->
-<table border="0" cellpadding="0" cellspacing="0" width="760" summary="left, middle and right columns">
-  <tbody><tr>
-		<td bgcolor="#999999">
-    <img src="/i/spacer.gif" width="1" height="1"><br>
-    </td>
-    <td bgcolor="#dddddd" valign="top">
-		
-		
-		
-		
-		
-  		<!-- left column -->
-      <table border="0" cellpadding="0" cellspacing="0" width="135" summary="left column">
-    	<tbody><tr bgcolor="#dddddd">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td width="124" height="18" class="menu2">
-      		<a href="/en/default.asp" class="menu2">Home</a>
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-  		<tr>
-  				<td colspan="4" bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-  		<tr bgcolor="#dddddd">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td width="124" height="18" class="menu2">
-      		Solutions
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-
-			
-  		<tr bgcolor="#dddddd">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td width="124" height="18" class="menu2">
-      		• <a href="/en/lite.asp" class="menu2">ChannelOnline Lite</a>
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			<tr bgcolor="#dddddd">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td width="124" height="18" class="menu2">
-      		• <a href="/en/pro.asp" class="menu2">ChannelOnline Pro</a>
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-  		<tr>
-  				<td colspan="4" bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-			<tr bgcolor="#dddddd">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td width="124" height="18" class="menu2">
-      		<a href="/en/faq.asp" class="menu2">FAQ</a>
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-  		<tr>
-  				<td colspan="4" bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-			<tr bgcolor="#dddddd">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td width="124" height="18" class="menu2">
-      		<a href="/en/pricing.asp" class="menu2">Pricing</a>
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-  		<tr>
-  				<td colspan="4" bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-			<tr bgcolor="#dddddd">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td width="124" height="18" class="menu2">
-      		<a href="/en/news.asp" class="menu2">News &amp; Events</a>
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-  		<tr>
-  				<td colspan="4" bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-			<tr bgcolor="#dddddd">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td width="124" height="18" class="menu2">
-      		<a href="/en/contactus.asp" class="menu2">Contact us</a>
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-  		<tr>
-  				<td colspan="4" bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-			<tr bgcolor="#990000">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td height="18" class="menu2">
-      		<a href="../../en/signup.asp" class="white"><b>Sign up now</b></a>
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-  		    <img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-  		<tr>
-  				<td colspan="4" bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			
-			
-			
-			<tr bgcolor="#666666">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td height="18" class="menu2">
-      		<a href="http://lite.channelonline.com/login.aspx" class="white"><b>Login &gt;&gt;</b></a>
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-  		    <img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-  		<tr>
-  				<td colspan="4" bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-			<tr bgcolor="#333333">
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td class="customers" valign="top">
-					<br class="pixel"><br class="pixel">
-      		<b>Customers</b><br>
-					<br class="pixel">
-					<img src="/i/persona/josh_tabin.gif" alt="Josh Tabin, CEO">
-					<br>
-					<i>"ChannelOnline is absolutely essential. It’s integral to our business...." </i><br><br class="pixel"><br class="pixel">
-					<a href="/en/customers.asp" class="link1"><b>More testimonials...</b></a>
-					<br><br class="pixel"><br class="pixel"><br class="pixel"><br class="pixel">
-      		</td>
-  				<td>
-      		<img src="/i/spacer.gif" width="5" height="1"><br>
-      		</td>
-  				<td bgcolor="#999999">
-  		    <img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-  		<tr>
-  				<td colspan="4" bgcolor="#999999">
-      		<img src="/i/spacer.gif" width="1" height="1"><br>
-      		</td>
-  		</tr>
-  		</tbody></table>
-			
-			<a href="http://www.cnetchannel.com" target="_blank"><img src="/i/a_product_from2.gif" width="135" height="51" alt="a product from" vspace="2" border="0"></a><br>
-  		<!-- /left column -->			
-
-			
-			
-			
-    </td>
-    <td bgcolor="#ffffff" valign="top">
-		
-		
-		
-      <!-- central column -->
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" summary="central column">
-    	<tbody><tr>
-  				<td>
-      		<img src="/i/spacer.gif" width="10" height="1"><br>
-      		</td>
-  				<td valign="top" width="9999">
-  				<br>
-      		<b class="title1">Privacy policy</b><br>
-					<br class="pixel"><br class="pixel"><br class="pixel">
-      		</td>
-  		</tr>
-			</tbody></table>
-			
-  		<table border="0" cellpadding="0" cellspacing="0" width="100%" summary="central column">
+		<td colspan="4">
+		<table border="0" cellpadding="0" cellspacing="0" width="797">
+		<tbody><tr>
+			<td><img src="/i/co_sales.gif" width="217" height="19" border="0"></td>
+			<td background="/i/background_1.gif" width="1"><img src="/i/nbsp.gif" width="1" height="19" border="0"></td>
+			<td align="right">
+			<table border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
-  				<td>
-      		<img src="/i/spacer.gif" width="10" height="1"><br>
-      		</td>
-  				<td valign="top">
-  				
-CNET ChannelOnline takes your privacy concerns extremely 
-seriously. When it comes to protecting data and information 
-relating to you and your business, CNET ChannelOnline 
-wants you, the user, to feel comfortable and confident 
-that your privacy is being protected at all times on our 
-site. The following provisions explain how CNET ChannelOnline 
-treats information that may be collected from you through 
-the use of its services.<br>
-<br>
-<b>TRUSTe member</b> <br>
-CNET Networks is a member of the TRUSTe program, an independent, 
-nonprofit initiative whose mission is to build users' 
-trust and confidence in the Internet by promoting the 
-principles of disclosure and informed consent. Because 
-CNET ChannelOnline wants to demonstrate its commitment 
-to privacy, it has agreed to disclose its information 
-practices and have its privacy practices reviewed and 
-audited for compliance by TRUSTe. For a complete description 
-regarding the TRUSTe Certification, see <b><a href="http://www.cnet.com/aboutcnet/0-13611-7-811039.html?tag=st.cn.ros.ft.13611-7-811039">CNET 
-Networks' Privacy Policy</a></b>. If you have any questions 
-about this program, please <b><a href="http://www.channelonline.com/en/contactus.asp">contact 
-us</a></b>. <br>
-<br>
-<b>Collection of information</b> <br>
-CNET ChannelOnline is committed to keeping your personal 
-and organizational information private and abides by <b><a href="http://www.cnet.com/aboutcnet/0-13611-7-811039.html?tag=st.cn.ros.ft.13611-7-811039">CNET 
-Networks broad Privacy Policy</a></b>. To provide its 
-users with personalized services and custom data, CNET 
-ChannelOnline collects registration information and distributors' 
-access information from its users. <br>
-<br>
-<b>Registration information</b> <br>
-When creating a new account on CNET ChannelOnline, you 
-are required to disclose certain customer registration 
-information. This information includes customer contact 
-information (name, address, phone, fax, e-mail, website, 
-and password) and billing information (credit card information). 
-This information is not disclosed to third parties but 
-is used to notify you of any system upgrades, technical 
-support issues or other relevant information. <br>
-<br>
-<b>Distributor's access information</b> <br>
-CNET ChannelOnline requires you to provide relevant distributor 
-information in order to display custom pricing and availability 
-such as usernames and passwords. Any and all distributor 
-information is kept confidential. The information you 
-enter about your customers while using CNET ChannelOnline's 
-services is also kept confidential. <br>
-<br>
-<b>Sharing of information</b> <br>
-CNET ChannelOnline takes the privacy of its users extremely 
-seriously. As a consequence, CNET ChannelOnline has a 
-strict policy against sharing individual user data with 
-third parties, except in certain select instances. CNET 
-ChannelOnline may disclose or exchange user information 
-when required by law, or, if necessary, to protect the 
-rights or property of CNET ChannelOnline or its users. 
-<br>
-<br>
-In certain other instances, CNET ChannelOnline will share user data with a closely 
-integrated partner, like a distributor, in order to provide a service that a user 
-has specifically requested, or provide limited user contact information to potential 
-suppliers who require it in order to make their products available on CNET ChannelOnline.  
-CNET ChannelOnline may also obtain user consent in order to share specific information 
-with individual third parties so as to generally improve its services. <br>
-<br>
-CNET ChannelOnline reserves the right to use aggregated 
-data to report user demographics, track sales and traffic 
-patterns and monitor other related trends. This aggregate 
-information may be provided to third parties such as advertisers. 
-In the interest of protecting your privacy, this aggregated 
-data does not contain any personally identifiable information. 
-<br>
-<br>
-It is important for CNET ChannelOnline users to realize 
-that CNET ChannelOnline's privacy policy applies solely 
-to information collected on this Site. Although the Site 
-contains links to other sites, CNET ChannelOnline is not 
-responsible for the privacy practices of other sites. 
-For privacy information regarding other sites, please 
-refer to their individual privacy policies. <br>
-<br>
-<b>Security</b> <br>
-CNET ChannelOnline has security measures in place to protect 
-against the loss, misuse and unauthorized alteration of 
-the information under its control. <br>
-<br>
-SSL. Any and all of your confidential transactions, between 
-you and CNET ChannelOnline, are protected within Secure 
-Socket Layer, the industry standard protocol for maintaining 
-security. CNET ChannelOnline supports up to 128-bit encryption, 
-the strongest available encryption used through a web-browser. 
-<br>
-<br>
-Cookies. CNET ChannelOnline utilizes encrypted "Cookies" 
-(bits of data that can be placed on a user's hard drive 
-as a kind of "ID") for user identification purposes. For 
-a detailed explanation of Cookies, see <b><a href="http://www.cnet.com/aboutcnet/0-13611-7-811039.html?tag=st.cn.ros.ft.13611-7-811039">CNET 
-Networks' Privacy Policy</a></b>. <br>
-<br>
-User responsibility. CNET ChannelOnline takes every precaution 
-to keep any and all confidential information secure. However, 
-due to required functionality of this application, information 
-may be shared between users and their customers. CNET 
-ChannelOnline shall not be liable for disbursal of such 
-information resulting from user activity. <br>
-<br>
-<b>Correcting/updating personal information</b> <br>
-Your personal information may be accessed and updated 
-by you at any time. To edit your personal information, 
-you can log in to your CNET ChannelOnline account and 
-click the "My Account" button and then click the "Edit" 
-button. This will allow you to make any changes and modify 
-the information you have previously shared with us. <br>
-<br>
-<b>Contacting CNET ChannelOnline</b> <br>
-Any modifications to CNET ChannelOnline's privacy practices 
-will be reflected first within this area of the company's 
-web site. If you have any questions regarding this privacy 
-statement, or regarding any other aspects of CNET ChannelOnline, 
-please <b><a href="contactus.asp">contact</a></b> us.
-
-
-<br>
-<br>
-
-      		</td>
-  				<td>
-          <img src="/i/spacer.gif" width="10" height="1"><br>
-          </td>
-					
-  		</tr>
-  		</tbody></table>
-  		<!-- /central column -->
-    </td>
-		<td bgcolor="#999999">
-    <img src="/i/spacer.gif" width="1" height="1"><br>
-    </td>
-  </tr>
-	
-</tbody></table>
-<!-- /// main table *** -->
-
-<!-- *** footer *** -->
-<table border="0" cellpadding="0" cellspacing="0" width="760" summary="bottom links table">
-  <tbody><tr bgcolor="#000000">
-    <td height="20" class="white" width="700">
-    <span class="text2">&nbsp;<a href="http://www.cnetnetworks.com" class="white" target="_blank">CNET Networks</a>: <a href="http://www.cnet.com" class="white" target="_blank">CNET</a> | <a href="http://www.gamespot.com" class="white" target="_blank">GameSpot</a> | <a href="http://www.mysimon.com" class="white" target="_blank">mySimon</a> | <a href="http://www.techrepublic.com" class="white" target="_blank">TechRepublic</a> | <a href="http://www.zdnet.com" class="white" target="_blank">ZDNet</a> | <a href="http://www.cnetchannel.com" class="white" target="_blank">CNET Channel</a></span>
-    </td>
-		<td width="60" class="white" align="right">
-		<span class="text2"><a href="#top" class="white">Back to top</a></span>&nbsp;
+				<td><img src="/i/menu/left_firstCorner_off.gif" width="17" height="19" border="0"></td>
+				<td><a href="/us/sol_01.asp" onclick="sectionClick(1);" onmouseover="sectionMouseOver(1);" onmouseout="sectionMouseOut(1);"><img name="menu_solution" src="/i/us/menu/menu_solution.gif" width="74" height="19" border="0"></a></td>
+				<td><img src="/i/menu/left_corner_off.gif" width="16" height="19" border="0"></td>
+				<td><a href="/us/ben_01.asp" onclick="sectionClick(2);" onmouseover="sectionMouseOver(2);" onmouseout="sectionMouseOut(2);"><img name="menu_benefits" src="/i/us/menu/menu_benefits.gif" width="91" height="19" border="0"></a></td>
+				<td><img src="/i/menu/left_corner_off.gif" width="16" height="19" border="0"></td>
+				<td><a href="/us/par_01.asp" onclick="sectionClick(3);" onmouseover="sectionMouseOver(3);" onmouseout="sectionMouseOut(3);"><img name="menu_partners" src="/i/us/menu/menu_partners.gif" width="75" height="19" border="0"></a></td>
+				<td><img src="/i/menu/left_corner_off.gif" width="16" height="19" border="0"></td>
+				<td><a href="/us/pro_01.asp" onclick="sectionClick(4);" onmouseover="sectionMouseOver(4);" onmouseout="sectionMouseOut(4);"><img name="menu_pronetwork" src="/i/us/menu/menu_pronetwork.gif" width="85" height="19" border="0"></a></td>
+				<td><img src="/i/menu/left_corner_off.gif" width="16" height="19" border="0"></td>
+				<td><a href="/us/abo_01.asp" onclick="sectionClick(5);" onmouseover="sectionMouseOver(5);" onmouseout="sectionMouseOut(5);"><img name="menu_aboutus" src="/i/us/menu/menu_aboutus.gif" width="79" height="19" border="0"></a></td>
+				<td><img src="/i/menu/left_corner_off.gif" width="16" height="19" border="0"></td>
+				<td><a href="/us/" onclick="sectionClick(6);" onmouseover="sectionMouseOver(6);" onmouseout="sectionMouseOut(6);"><img name="menu_home" src="/i/us/menu/menu_home.gif" width="62" height="19" border="0"></a></td>
+				<td><img src="/i/menu/right_lastCorner_off.gif" width="16" height="19" border="0"></td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
 		</td>
-  </tr>
-</tbody></table>
-<br class="pixel">
-
-<table border="0" cellpadding="0" cellspacing="0" width="760" summary="network table">
-  <tbody><tr bgcolor="#ffffff">
-		<td class="text1">
-		&nbsp;<a href="/en/copyright.asp">Copyright</a> © 1995-2002 CNET Networks, Inc. All rights reserved. <a href="/en/privacy.asp">Privacy policy</a>.
+	</tr>
+	<!-- /// Menu *** -->
+	<tr>
+		<td><img src="/i/nbsp.gif" width="5" height="10" border="0"></td>
+		<td width="790" bgcolor="#990000"><img src="/i/nbsp.gif" width="790" height="10" border="0"></td>
+		<td bgcolor="#ffffff"><img src="/i/nbsp.gif" width="1" height="10" border="0"></td>
+		<td><img src="/i/nbsp.gif" width="1" height="10" border="0"></td>
+	</tr>
+	<!-- *** Content *** -->
+	<tr>
+		<td><img src="/i/nbsp.gif" width="5" height="1" border="0"></td>
+		<td width="790" bgcolor="#ffffff">
+		<table border="0" cellpadding="0" cellspacing="0" width="790" height="350">
+		<tbody><tr>
+			<td width="616" align="left" valign="top">
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td colspan="4"><img src="/i/nbsp.gif" width="1" height="12" border="0"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top">
+				<table border="0" cellpadding="0" cellspacing="0" width="157">
+				<!-- *** Loop *** -->
+				<tbody><tr>
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><img src="/i/icones/arrow_on.gif" width="9" height="9" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="6" height="1" border="0"></td>
+					<td width="138"><span class="menu1">Privacy policy</span></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="9" height="9" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="6" height="1" border="0"></td>
+					<td width="138"><span class="menu1"><a href="#trust">TRUSTe member</a></span></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="9" height="9" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="6" height="1" border="0"></td>
+					<td width="138"><span class="menu1"><a href="#collection">Collection of information</a></span></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="9" height="9" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="6" height="1" border="0"></td>
+					<td width="138"><span class="menu1"><a href="#registration">Registration information</a></span></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="9" height="9" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="6" height="1" border="0"></td>
+					<td width="138"><span class="menu1"><a href="#distributor">Distributor's access information</a></span></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="9" height="9" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="6" height="1" border="0"></td>
+					<td width="138"><span class="menu1"><a href="#sharing">Sharing of information</a></span></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="9" height="9" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="6" height="1" border="0"></td>
+					<td width="138"><span class="menu1"><a href="#security">Security</a></span></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="9" height="9" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="6" height="1" border="0"></td>
+					<td width="138"><span class="menu1"><a href="#correcting">Correcting/updating personal information</a></span></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<tr>
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="9" height="9" border="0"></td>
+					<td><img src="/i/nbsp.gif" width="6" height="1" border="0"></td>
+					<td width="138"><span class="menu1"><a href="#contacting">Contacting ChannelOnline</a></span></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<tr>
+					<td colspan="4" background="/i/bullet_1.gif"><img src="/i/nbsp.gif" width="157" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td colspan="4"><img src="/i/nbsp.gif" width="157" height="3" border="0"></td>
+				</tr>
+				<!-- /// Loop *** -->
+				</tbody></table>
+				<!-- *** Buttons *** -->
+				<br>
+				<br>
+				<table border="0" cellpadding="0" cellspacing="0" width="157">
+				<tbody><tr> 
+					<td colspan="2"><img src="/i/nbsp.gif" width="157" height="8" border="0"></td>
+				</tr>
+				<tr> 
+					<td colspan="2" background="/i/bullet_1.gif"><img src="/i/nbsp.gif" width="157" height="1" border="0"></td>
+				</tr>
+				<tr> 
+					<td colspan="2"><img src="/i/nbsp.gif" width="157" height="8" border="0"></td>
+				</tr>
+				<tr> 
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><a href="/us/sol_09.asp" onclick="sectionClick(7);" onmouseover="sectionMouseOver(7);" onmouseout="sectionMouseOut(7);"><img name="menu_daily" src="/i/us/menu/menu_daily.gif" width="153" height="16" border="0" alt="Daily Demo"></a></td>
+				</tr>
+				<tr> 
+					<td colspan="2"><img src="/i/nbsp.gif" width="157" height="8" border="0"></td>
+				</tr>
+				<tr> 
+					<td colspan="2" background="/i/bullet_1.gif"><img src="/i/nbsp.gif" width="157" height="1" border="0"></td>
+				</tr>
+				<tr> 
+					<td colspan="2"><img src="/i/nbsp.gif" width="157" height="8" border="0"></td>
+				</tr>
+				<tr> 
+					<td><img src="/i/nbsp.gif" width="4" height="1" border="0"></td>
+					<td><a href="/us/contactus.asp" onclick="sectionClick(8);" onmouseover="sectionMouseOver(8);" onmouseout="sectionMouseOut(8);"><img name="menu_contact" src="/i/us/menu/menu_contact.gif" width="153" height="16" border="0" alt="Contact Sales"></a></td>
+				</tr>
+				<tr> 
+					<td colspan="2"><img src="/i/nbsp.gif" width="157" height="8" border="0"></td>
+				</tr>
+				<tr> 
+					<td colspan="2" background="/i/bullet_1.gif"><img src="/i/nbsp.gif" width="157" height="1" border="0"></td>
+				</tr>
+				<tr> 
+					<td colspan="2"><img src="/i/nbsp.gif" width="157" height="8" border="0"></td>
+				</tr>
+				</tbody></table>
+				<!-- /// Buttons *** -->
+				</td>
+				<td><img src="/i/nbsp.gif" width="15" height="1" border="0"></td>
+				<td align="left" valign="top">
+				<span class="title1"><b>Privacy policy</b><br><br></span>
+				<span class="current1"><b>ChannelOnline takes your privacy concerns extremely seriously. When it comes to protecting data and information relating to you and your business, ChannelOnline wants you, the user, to feel comfortable and confident that your privacy is being protected at all times on our site. The following provisions explain how ChannelOnline treats information that may be collected from you through the use of its services.</b><br><br></span>
+				<span class="current1"><b><a name="#trust">TRUSTe member</a></b><br></span>
+				<span class="current1">CNET Networks is a member of the TRUSTe program, an independent, nonprofit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because ChannelOnline wants to demonstrate its commitment to privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe. For a complete description regarding the TRUSTe Certification, see <a href="http://www.cnet.com/aboutcnet/0-13611-7-811039.html?tag=st.cn.ros.ft.13611-7-811039" target="_blank">CNET Networks' Privacy Policy</a>. If you have any questions about this program, please <a href="/us/contactus.asp">contact us</a>.<br><br></span>
+				<span class="current1"><b><a name="#collection">Collection of information</a></b><br></span>
+				<span class="current1">ChannelOnline is committed to keeping your personal and organizational information private and abides by <a href="http://www.cnet.com/aboutcnet/0-13611-7-811039.html?tag=st.cn.ros.ft.13611-7-811039" target="_blank">CNET Networks broad Privacy Policy</a>. To provide its users with personalized services and custom data, ChannelOnline collects registration information and distributors' access information from its users.<br><br></span>
+				<span class="current1"><b><a name="#registration">Registration information</a></b><br></span>
+				<span class="current1">When creating a new account on ChannelOnline, you are required to disclose certain customer registration information. This information includes customer contact information (name, address, phone, fax, e-mail, website, and password) and billing information (credit card information). This information is not disclosed to third parties but is used to notify you of any system upgrades, technical support issues or other relevant information.<br><br></span>
+				<span class="current1"><b><a name="#distributor">Distributor's access information</a></b><br></span>
+				<span class="current1">ChannelOnline requires you to provide relevant distributor information in order to display custom pricing and availability such as usernames and passwords. Any and all distributor information is kept confidential. The information you enter about your customers while using ChannelOnline's services is also kept confidential.<br><br></span>
+				<span class="current1"><b><a name="#sharing">Sharing of information</a></b><br></span>
+				<span class="current1">ChannelOnline takes the privacy of its users extremely seriously. As a consequence, ChannelOnline has a strict policy against sharing individual user data with third parties, except in certain select instances. ChannelOnline may disclose or exchange user information when required by law, or, if necessary, to protect the rights or property of ChannelOnline or its users.<br><br></span>
+				<span class="current1">In certain other instances, ChannelOnline will share user data with a closely integrated partner, like a distributor, in order to provide a service that a user has specifically requested, or provide limited user contact information to potential suppliers who require it in order to make their products available on ChannelOnline. ChannelOnline may also obtain user consent in order to share specific information with individual third parties so as to generally improve its services.<br></span>
+				<span class="current1">ChannelOnline reserves the right to use aggregated data to report user demographics, track sales and traffic patterns and monitor other related trends. This aggregate information may be provided to third parties such as advertisers. In the interest of protecting your privacy, this aggregated data does not contain any personally identifiable information.<br><br></span>
+				<span class="current1">It is important for ChannelOnline users to realize that ChannelOnline's privacy policy applies solely to information collected on this Site. Although the Site contains links to other sites, ChannelOnline is not responsible for the privacy practices of other sites. For privacy information regarding other sites, please refer to their individual privacy policies.<br><br></span>
+				<span class="current1"><b><a name="#security">Security</a></b><br></span>
+				<span class="current1">ChannelOnline has security measures in place to protect against the loss, misuse and unauthorized alteration of the information under its control.<br><br></span>
+				<span class="current1">SSL. Any and all of your confidential transactions, between you and ChannelOnline, are protected within Secure Socket Layer, the industry standard protocol for maintaining security. ChannelOnline supports up to 128-bit encryption, the strongest available encryption used through a web-browser.<br><br></span>
+				<span class="current1">Cookies. ChannelOnline utilizes encrypted "Cookies" (bits of data that can be placed on a user's hard drive as a kind of "ID") for user identification purposes. For a detailed explanation of Cookies, see <a href="http://www.cnet.com/aboutcnet/0-13611-7-811039.html?tag=st.cn.ros.ft.13611-7-811039" target="_blank">CNET Networks' Privacy Policy</a>.<br><br></span>
+				<span class="current1">User responsibility. ChannelOnline takes every precaution to keep any and all confidential information secure. However, due to required functionality of this application, information may be shared between users and their customers. ChannelOnline shall not be liable for disbursal of such information resulting from user activity.<br><br></span>
+				<span class="current1"><b><a name="#correcting">Correcting/updating personal information</a></b><br></span>
+				<span class="current1">Your personal information may be accessed and updated by you at any time. To edit your personal information, you can log in to your ChannelOnline account and click the "My Account" button and then click the "Edit" button. This will allow you to make any changes and modify the information you have previously shared with us.<br><br></span>
+				<span class="current1"><b><a name="#contacting">Contacting ChannelOnline</a></b><br></span>
+				<span class="current1">Any modifications to ChannelOnline's privacy practices will be reflected first within this area of the company's web site. If you have any questions regarding this privacy statement, or regarding any other aspects of ChannelOnline, please <a href="/us/contactus.asp">contact us</a>.<br></span>
+				</td>
+				<td><img src="/i/nbsp.gif" width="10" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="4"><img src="/i/nbsp.gif" width="1" height="35" border="0"></td>
+			</tr>
+			</tbody></table>
+			</td>
+			<td background="/i/background_2.gif" width="174" bgcolor="#990000" align="left" valign="top">
+			<!-- *** RightColumn *** -->
+			<table border="0" cellpadding="0" cellspacing="0" width="174">
+			<tbody><tr>
+				<td rowspan="3"><img src="/i/nbsp.gif" width="8" height="1" border="0"></td>
+				<td><img src="/i/nbsp.gif" width="1" height="15" border="0"></td>
+				<td rowspan="3" background="/i/nbsp_red.gif"><img src="/i/nbsp.gif" width="8" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<!-- rowspan -->
+				<td background="/i/nbsp_red.gif">
+				<p>&nbsp;</p>
+				</td>
+				<!-- rowspan -->
+			</tr>
+			<tr>
+				<!-- rowspan -->
+				<td><img src="/i/nbsp.gif" width="1" height="15" border="0"></td>
+				<!-- rowspan -->
+			</tr>
+			</tbody></table>
+			<!-- /// RightColumn *** -->
+			</td>
+		</tr>
+		</tbody></table>
 		</td>
-  </tr>
+		<td bgcolor="#ffffff"><img src="/i/nbsp.gif" width="1" height="1" border="0"></td>
+		<td><img src="/i/nbsp.gif" width="1" height="1" border="0"></td>
+	</tr>
+	<!-- /// Content *** -->
+	</tbody></table>
+	</td>
+</tr>
+<!-- *** Affiliate *** -->
+<tr>
+	<td bgcolor="#000000"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+	<td colspan="5"><img src="/i/nbsp.gif" width="1" height="3" border="0"></td>
+</tr>
+<tr>
+	<td><img src="/i/nbsp.gif" width="8" height="1" border="0"></td>
+	<td width="100%" align="left" valign="top"><a href="http://www.cnetchannel.com" target="_blank"><span class="current8"><u>CNET Channel</u></span></a><span class="current8">&nbsp;:&nbsp;</span><a href="/us/"><span class="current8"><u>ChannelOnline™</u></span></a><span class="current8">&nbsp;|&nbsp;</span><a href="http://www.vendorbase.com/index.asp?rid=channelonlineUS" target="_blank"><span class="current8"><u>Vendorbase™</u></span></a></td>
+	<td><img src="/i/nbsp.gif" width="15" height="1" border="0"></td>
+	<td align="right" valign="top"><img src="/i/nbsp.gif" width="1" height="1" border="0"></td>
+	<td><img src="/i/nbsp.gif" width="8" height="1" border="0"></td>
+</tr>
+<tr>
+	<td colspan="5"><img src="/i/nbsp.gif" width="1" height="3" border="0"></td>
+</tr>
+</tbody></table></td>
+</tr>
+<!-- /// Affiliate *** -->
+<!-- *** Copyright *** -->
+<tr>
+	<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+	<td colspan="4"><img src="/i/nbsp.gif" width="1" height="3" border="0"></td>
+</tr>
+<tr>
+	<td><img src="/i/nbsp.gif" width="8" height="1" border="0"></td>
+	<td width="100%" align="left" valign="top">
+	<span class="current2"><a href="/us/copyright.asp">Copyright ©</a> 1995-2002 <a href="http://www.cnetnetworks.com" target="_blank">CNET Networks, Inc</a>. All rights reserved. <a href="/us/privacy.asp">Privacy policy</a>.<br></span>
+	<span class="current2">CNET <a href="/us/disclaimer.asp">disclaims</a> any responsibility for product information and products described on this site. Some product information may be confusing without additional explanation. All product information, including prices, features, and availability, is subject to change without notice.<br></span>
+	</td>
+	<td><img src="/i/nbsp.gif" width="15" height="1" border="0"></td>
+	<td align="right" valign="top"><a href="http://www.cnetchannel.com/" target="_blank"><img src="/i/us/cc_logo_solution_us.gif" width="200" height="36" border="0"></a></td>
+</tr>
+<tr>
+	<td colspan="4"><img src="/i/nbsp.gif" width="1" height="3" border="0"></td>
+</tr>
+</tbody></table></td>
+</tr>
+<!-- /// Copyright *** -->
 </tbody></table>
-<br class="pixel">
-
-<table border="0" cellpadding="0" cellspacing="0" width="760" summary="network table">
-  <tbody><tr bgcolor="#ffffff">
-		<td>&nbsp;</td>
-    <td height="20" class="text1">
-   CNET <a href="/en/disclaimer.asp">disclaims</a> any responsibility for product information and products described on this site. Some product information may be confusing without additional explanation.<br>
-All product information, including prices, features, and availability, is subject to change without notice.
-		</td>
-  </tr>
-</tbody></table>
 
 
-
-<!-- /// footer *** --></body></html>
+</body></html>
