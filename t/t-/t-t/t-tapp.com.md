@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-tapp.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619031616id_/http%3A//www.t-tapp.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-tapp.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218070447id_/http%3A//www.t-tapp.com/privacy.asp) for the most accurate reproduction.*
 
 # T-Tapp.com - Better Body Basics
 
