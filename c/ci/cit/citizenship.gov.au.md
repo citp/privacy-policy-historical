@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604221141id_/http%3A//www.citizenship.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195334id_/http%3A//www.citizenship.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Citizenship Website - Privacy Statement
 
