@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611204809id_/http%3A//popdirt.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208053007id_/http%3A//www.popdirt.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Popdirt.com :
 
@@ -18,6 +18,11 @@ http://www.fastclick.com/help/privacy.html
 http://www.befree.com/docs/includes/stopspam.htm   
 http://www.linkshare.com/privacy.html   
 http://www.musicvision.com/network_privacy_policy.html   
-http://www.adtegrity.com/privacy.asp
+http://www.adtegrity.com/privacy.asp   
+http://www.valuead.com/privacy.html   
+http://valueclick.com/privacy.html   
+http://www.fineclicks.com/privacypolicy1.html   
+http://www.cj.com/privacy.asp   
+http://smni.com/ui/privacy.asp
 
 [ Back to Top ]
