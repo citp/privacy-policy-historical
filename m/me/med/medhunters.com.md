@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211012851id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207230535id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
 
 # MedHunters.com: Privacy Policy
 
