@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209175950id_/http%3A//www.careerjunction.co.za/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605122608id_/http%3A//www.careerjunction.co.za/legal/privacy.asp) for the most accurate reproduction.*
 
 # CareerJunction
 
