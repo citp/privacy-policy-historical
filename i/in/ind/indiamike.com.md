@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiamike.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806051045id_/http%3A//www.indiamike.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamike.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306235051id_/http%3A//www.indiamike.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# IndiaMike.com
+# IndiaMike.com- India Travel Forum
 
 Any information submitted by the user for membership remains confidential and is released to **no one**. 
 
@@ -43,7 +43,6 @@ For further information on managing cookies on this site please see our [F.A.Q](
 
 The following features on the site:
 
-  * Private Bookmarks 
   * Private Calendar Events 
   * Private Messages 
   * Email 
