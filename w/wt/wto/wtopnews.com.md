@@ -1,90 +1,26 @@
-> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405075851id_/http%3A//www.wtopnews.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2002-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020329144424id_/http%3A//www.wtopnews.com/policies/privacy_policy.cfm) for the most accurate reproduction.*
 
-# wtopnews
+# WTOPNEWS.com
 
-**
-
-Wtopnews.com  
-3400 Idaho Avenue, NW
-
-Second Floor
-
-Washington, DC 20016  
-202-895-5000  
-PrivacyPolicy@wtopnews.com
-
-Wtopnews.com’s Commitment to Privacy
-
-**
-
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
-
-**
-
-The Information We Collect
-
-**
-
-This notice applies to all information collected or submitted on Wtopnews.com. Wtopnews.com does not collect any personally identifiable information unless offered by the visitor. On some pages Wtopnews.com will ask for personal information such as name, address, phone number, age, gender etc. 
-
-**
-
-How the information is used
-
-**
-
-Wtopnews.com uses the information collected to:
-
-  * Enter a visitor into a contest and fulfill any prize obligation Wtopnews.com might have to a prizewinner.
+Privacy Policy  
 
 
-  * Send visitor requested information about news, events, contests etc.
+PRIVACY STATEMENT  
+(Last Revised September 27, 2001)
 
+  
+**General**. This web site (the "Site") is operated by WTOP AM/FM, a division of Bonneville International Corp. ("Operator"). The following Privacy Statement (the "Statement") supplements the [Terms of Use](https://web.archive.org/web/20020329144424id_/http%3A//www.wtopnews.com/policies/terms_of_use.cfm) available at the site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. Operator may change the Statement at any time by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. You should review the Statement from time to time. If you do not agree to all of the terms and conditions set forth in the Statement, you must exit the Site immediately.
 
-  * Tailor Wtopnews.com to best meet the needs of its visitors.
+**No Use by Children.** The Site is not directed to, or intended for use by, children (defined as anyone age twelve or younger). Children should not use the Site or submit any information to Operator.
 
+**What Information is Collected.** In connection with your use of the Site, Operator may collect personally identifiable information (such as your name, address, telephone number and email address) and aggregate information (such as your IP address \- a number used to identify your computer when you are on the Internet \- or the type of browser you are using).
 
+**Personally Identifiable Information.** You may be asked to voluntarily provide personally identifiable information about yourself ("Personal Information") in order to participate in some features of the Site. (For example, you may be asked to provide Personal Information in order to enter an online contest or to receive news updates by email.) In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at the Site. In either case, you can always refuse to provide Personal Information, but this may result in decreased functionality of the Site for you and limit Operator's ability to inform you about products or services that may be of particular interest. 
 
-Wtopnews.com will never _sell_ its information to advertisers or other list services.
+**Aggregate Information/Cookies.** Operator may collect aggregate information through the use of "cookies" or by other electronic means. In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer's hard drive. With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. You can refer to the instructions for your browser to learn more about these functions. If you choose to reject cookies, the functionality of the Site for you will be severely limited.
 
-In certain instances visitor provided information will be shared with an advertiser who is involved with a particular promotion/contest. In such a case notice will be given at the point where personally identifiable information may be requested.
+**Ownership and Use of Information.** Any information collected by Operator in connection with your use of the Site - regardless of whether characterized as Personal Information or aggregate - shall belong exclusively to Operator and will be used, maintained, updated, disclosed or sold by Operator at its sole discretion.
 
-**
+**Forums**. The Site may include forums (such as message boards and chat rooms) that enable users to communicate with each other. Operator will not moderate the forums and will not be responsible for the content or use of any material posted on any forum at the Site. 
 
-Children’s Guidelines
-
-**
-
-Protecting the privacy of the very young is especially important. We never collect or maintain information in our databases from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If you are under 13 years of age, and would like to participate in wtopnews.com’s website, you must provide written parental consent to the station at the above listed address.
-
-For more information check out this link: [www.ftc.gov/opa/2000/04/coppa1.htm](http://www.ftc.gov/opa/2000/04/coppa1.htm)
-
-**
-
-Our Commitment to Data Security
-
-**
-
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect.
-
-**
-
-Removal/Corrections
-
-**
-
-If you would like to be removed from the Wtopnews.com database please click below.
-
-To unsubscribe, click[ ](mailto:pirvacypolicy)[here](mailto:privacypolicy@wtopnews.com). Please type unsubscribe in the Subject line.  
-
-
-If your information is incorrect, please send the correct information to [PrivacyPolicy@wtopnews.com.](mailto:privacypolicy@wtopnews.com)
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-Scott Levy  
-Bonneville International Corporation  
-3400 Idaho Ave, NW  
-Washington, DC 20016  
-(202) 895-5000  
-[Slevy@bicdc.com](mailto:slevybic@bicdc.com)
+**Contact Information.** Questions concerning the foregoing materials or the Site should be directed to [webmail@wtopnews.com](mailto:webmail@wtopnews.com).
