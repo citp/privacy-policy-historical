@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cavenders.com privacy policy that was archived on 2002-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603155009id_/http%3A//www.cavenders.com/privacy.asp%3F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cavenders.com privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207212852id_/http%3A//www.cavenders.com/privacy.asp%3F) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy and Security</title>
@@ -14,34 +14,101 @@
 	</script>
 </head>
 <body topmargin="8" leftmargin="10" bgcolor="White">
-<script language="JavaScript">
+
+<script language="JavaScript" type="text/javascript">
 <!--
-function popUp(url) {
-sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=285,height=355');
-self.name = "mainWin";
+function popUp(url, winname, width, height, resize, scroll) {
+	if (!winname) {winname = "win";}
+	if (!width) {width = "295";}
+	if (!height) {height = "355";}
+	if (!resize) {resize = "0";}
+	if (!scroll) {scroll = "0";}
+	winParams="toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=" + scroll + ",resizable=" + resize + ",width=" + width + ",height=" + height
+	sealWin = window.open(url,winname,winParams);
+	self.name = "mainWin";
 }
+function popUp2(url, winname, width, height, resize, scroll) {
+	if (!winname) {winname = "win2";}
+	if (!width) {width = "350";}
+	if (!height) {height = "400";}
+	if (!resize) {resize = "0";}
+	if (!scroll) {scroll = "0";}
+	winParams="toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=" + scroll + ",resizable=" + resize + ",width=" + width + ",height=" + height
+	sealWin = window.open(url,winname,winParams);
+	self.name = "mainWin2";
+}
+
+now = new Date
+thisYr = now.getYear()
+if (thisYr < 1900) {
+thisYr = thisYr + 1900
+}
+nextYr = thisYr + 1
+
+theevent = new Date(thisYr, 11, 25 )
+if(theevent.getTime() < now.getTime()) {
+theevent.setYear(nextYr)
+}
+
+function dayToDays(inTime) {
+return (Math.floor(inTime.getTime() / (1000 * 60 * 60 * 24)))
+}
+
+function daysTill(inDate) {
+return dayToDays(inDate) - dayToDays(now)
+}
+
 //-->
 </script>
 
-<img src="Images/header.jpg" alt="" border="0" usemap="#navmap" width="748" height="100">
-<map name="navmap">
-<area alt="Home" coords="175,11,376,77" href="http://www.cavenders.com/default.asp?" shape="RECT">
-<area alt="Home" coords="388,25,451,42" href="http://www.cavenders.com/default.asp?" shape="RECT">
-<area alt="Shopping Wagon" coords="456,25,574,42" href="http://www.cavenders.com/basket.asp?" shape="RECT">
-<area alt="Checkout" coords="579,25,650,42" href="https://www.cavenders.com/shipping.asp?" shape="RECT">
-<area alt="Specials" coords="654,25,719,42" href="specials.asp?specials=1" shape="RECT">
-<area alt="Search" coords="388,47,451,65" href="http://www.cavenders.com/find.asp?" shape="RECT">
-<area alt="Account Settings" coords="456,47,574,65" href="https://www.cavenders.com/account.asp?" shape="RECT">
-<area alt="Site Map" coords="579,47,650,65" href="http://www.cavenders.com/sitemap.asp?" shape="RECT">
-<area alt="Help" coords="654,47,719,65" href="http://www.cavenders.com/help.asp?" shape="RECT">
-</map>
+			<table width="746" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td colspan="2"><img src="images/holiday_free_shipping_header.jpg" width="746" height="91" alt="" border="0" usemap="#navmap"></td>
+				</tr>
+				<tr>
+					
+					<td width="144" height="20" align="center">
+						<div style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: Red;"><script language="JavaScript">document.write(" " + daysTill(theevent) + " ")</script> 330 
+					  	Days till XMAS!</div>
+					</td>  
+					
+					<td align="right"><a href="javascript:popUp('shipping_popup.htm');"><img src="images/holiday_free_shipping_banner.gif" width="602" height="20" alt="" border="0"></a></td>
+				</tr>
+			</tbody></table>
+			<map name="navmap" id="navmap">
+			<area alt="Home" coords="175,11,376,77" href="http://www.cavenders.com/default.asp?">
+			<area alt="Home" coords="388,25,451,42" href="http://www.cavenders.com/default.asp?">
+			<area alt="Shopping Wagon" coords="456,25,574,42" href="http://www.cavenders.com/basket.asp?">
+			<area alt="Checkout" coords="579,25,650,42" href="https://www.cavenders.com/shipping.asp?">
+			<area alt="Specials" coords="654,25,719,42" href="specials.asp?specials=1">
+			<area alt="Search" coords="388,47,451,65" href="http://www.cavenders.com/find.asp?">
+			<area alt="Account Settings" coords="456,47,574,65" href="https://www.cavenders.com/account.asp?">
+			<area alt="Site Map" coords="579,47,650,65" href="http://www.cavenders.com/sitemap.asp?">
+			<area alt="Help" coords="654,47,719,65" href="http://www.cavenders.com/help.asp?">
+			</map>
+	
+	
+	<map name="navmap" id="navmap">
+	<area alt="Home" coords="175,11,376,77" href="http://www.cavenders.com/default.asp?">
+	<area alt="Home" coords="388,25,451,42" href="http://www.cavenders.com/default.asp?">
+	<area alt="Shopping Wagon" coords="456,25,574,42" href="http://www.cavenders.com/basket.asp?">
+	<area alt="Checkout" coords="579,25,650,42" href="https://www.cavenders.com/shipping.asp?">
+	<area alt="Specials" coords="654,25,719,42" href="specials.asp?specials=1">
+	<area alt="Search" coords="388,47,451,65" href="http://www.cavenders.com/find.asp?">
+	<area alt="Account Settings" coords="456,47,574,65" href="https://www.cavenders.com/account.asp?">
+	<area alt="Site Map" coords="579,47,650,65" href="http://www.cavenders.com/sitemap.asp?">
+	<area alt="Help" coords="654,47,719,65" href="http://www.cavenders.com/help.asp?">
+	
+	<area alt="Free Shipping" coords="156,85,748,109" href="javascript:popUp('shipping_popup.htm');">
+	
+	</map>
 
 <link rel="stylesheet" type="text/css" href="styles/user_text.css"><table width="733" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 	<td width="150" valign="top">
 		 
-<script language="JavaScript" src="Scripts/form_validation.js"></script>
-<script language="JavaScript">
+<script language="JavaScript" src="Scripts/form_validation.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
 function popUpEmail(form){
 	if (!validEmail(form.email.value)){
 		alert("The email address you entered is invalid.");
@@ -49,8 +116,12 @@ function popUpEmail(form){
 		return false;
 	}else{		
 		email = form.email.value;
-		if (confirm("Is this your email address: " + email + " ?\nIf not please click cancel and correct your email address.")){			
-			url = "new_email.asp?new=" + email;
+		if (confirm("Is this your email address: " + email + " ?\nIf not please click cancel and correct your email address.")){
+			if (form.pop_from){
+				url = "new_email.asp?new=" + email + "&pop_from=" + form.pop_from.value;
+			} else {
+				url = "new_email.asp?new=" + email;
+			}
 			sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=275,height=300');
 			self.name = "mainWin";
 			form.email.value = "";
@@ -82,13 +153,13 @@ function popUpEmail(form){
 
 <table width="160" border="0" cellspacing="1" cellpadding="0" bordercolor="Blue">
 	<tbody><tr>
-		<td colspan="2"><img src="Images/email.gif" border="0" alt="On-line Shopping" width="160" height="30"></td>
+		<td colspan="2"><img src="Images/email.gif" border="0" alt="Great offers!" width="160" height="30"></td>
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
 		<form action="default.asp" method="post" name="email_form" id="email_form" onsubmit="return popUpEmail(this)"></form>
 		
-			<td><table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td colspan="2" style="color:#8B0000;font-family:Verdana,Geneva,Arial,Helvetica,sans-serif;font-size:8pt;text-decoration:none;">Signup to get hot deals and exclusive offers, enter E-mail address:</td></tr><tr><td valign="center"><input type="text" name="email" size="16" maxlength="50"> </td><td valign="center" align="center" width="25%"><input type="image" name="go_button" src="images/go-button.gif" alt="Go!" onclick="return popUpEmail(this.form)" width="21" height="21"></td></tr></tbody></table></td>
+			<td><table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td colspan="2" style="color:#8B0000;font-family:Verdana,Geneva,Arial,Helvetica,sans-serif;font-size:8pt;text-decoration:none;">Sign-up to get hot deals and exclusive offers, enter E-mail address:</td></tr><tr><td valign="middle"><input type="text" name="email" size="18" maxlength="50"> </td><td valign="middle" align="center" width="25%"><input type="image" name="go_button" src="images/go-button.gif" alt="Go!" onclick="return popUpEmail(this.form)" width="21" height="21"></td></tr></tbody></table></td>
 		
 		
 	</tr>	
@@ -113,11 +184,6 @@ function popUpEmail(form){
 
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=20">Work &amp; Outdoor Wear</a></td>
-	</tr>
-
-	<tr>
-		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
 		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=25">Ladies' Boots &amp; Shoes</a></td>
 	</tr>
 
@@ -133,12 +199,17 @@ function popUpEmail(form){
 
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=40">Children's Department</a></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=40">Children's Apparel</a></td>
 	</tr>
 
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=45">Cowboy Hats</a></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=42">Children's Boots &amp; Shoes</a></td>
+	</tr>
+
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=45">Cowboy Hats &amp; Caps</a></td>
 	</tr>
 
 	<tr>
@@ -167,6 +238,11 @@ function popUpEmail(form){
 	</tr>
 
 	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left" valign="top"><a href="http://www.cavenders.com/dept.asp?dept%5Fid=80">Leather &amp; Hat Care</a></td>
+	</tr>
+
+	<tr>
 		<td colspan="2"><img src="Images/shopbybrand.gif" border="0" alt="" width="160" height="30"></td>
 	</tr>
 	<tr>
@@ -174,7 +250,7 @@ function popUpEmail(form){
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<form action="BrandProducts.asp" method="post" name="Main"></form>
+		<form action="http://www.cavenders.com/BrandProducts.asp?" method="post" name="Main"></form>
 		<td>
 			<select name="vendor" size="1" onchange="this.form.submit()" style="font-family:Arial,Helvetica,sans-serif;font-size:8pt;">
 				<option value="0" selected="">Select a Brand</option>
@@ -191,15 +267,21 @@ function popUpEmail(form){
 	
 				<option value="29">Dan Post®                                         </option>
 	
+				<option value="143">Dickies®                                          </option>
+	
 				<option value="30">Double H®                                         </option>
 	
 				<option value="31">Durango®                                          </option>
 	
 				<option value="32">Eddy Bros®                                        </option>
 	
-				<option value="137">Harley Davidson Boots                             </option>
+				<option value="137">Harley Davidson Boots®                            </option>
 	
 				<option value="136">Justin :03.1                                      </option>
+	
+				<option value="159">Justin Basics                                     </option>
+	
+				<option value="157">Justin Original Workboots®                        </option>
 	
 				<option value="33">Justin®                                           </option>
 	
@@ -207,15 +289,21 @@ function popUpEmail(form){
 	
 				<option value="125">Larry Mahan® Boots                                </option>
 	
+				<option value="36">Lawman®                                           </option>
+	
 				<option value="38">Lucchese®                                         </option>
 	
 				<option value="64">Milano® Hat                                       </option>
 	
 				<option value="99">Montana Silversmiths®                             </option>
 	
+				<option value="75">Panhandle Slim®                                   </option>
+	
 				<option value="42">Resistol®                                         </option>
 	
 				<option value="43">Rocky Mountain®                                   </option>
+	
+				<option value="141">Scully Western Legends®                           </option>
 	
 				<option value="48">Scully-Wahmaker®                                  </option>
 	
@@ -278,7 +366,7 @@ function popUpEmail(form){
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
-		<td align="left"><a href="http://www.cavenders.com/careers.asp?">Career Opportunities</a></td>
+		<td align="left"><a href="http://www.cavenders.com/jobs.asp?">Career Opportunities</a></td>
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
@@ -295,12 +383,9 @@ function popUpEmail(form){
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
 		<td>
-			<a href="javascript:popUp('https://digitalid.verisign.com/as2/58d40f85bda097dfc94a19e8d4b85aa4')">
-			<img src="Images/verisign_seal.gif" width="98" height="100" border="0"></a>
+			<a href="javascript:popUp('https://digitalid.verisign.com/as2/58d40f85bda097dfc94a19e8d4b85aa4','sealwin','600','450','1','1')">
+			<img src="Images/verisign_seal_sm.gif" width="98" height="73" border="0" alt=""></a>
 		</td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="Images/leather_bottom.jpg" border="0" alt="" width="160" height="74"></td>
 	</tr>
 </tbody></table>
 
