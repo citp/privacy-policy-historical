@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606102857id_/http%3A//theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224053934id_/http%3A//www.theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.*
 
 # The Weather Network · Help · About TWN
 
