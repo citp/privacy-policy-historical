@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611204235id_/http%3A//www.solveyourproblem.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217123700id_/http%3A//www.solveyourproblem.com/privacy.html) for the most accurate reproduction.*
 
-# SolveYourProblem.com - Our Privacy Policy
-
-**Our Privacy Policy -**
+# Privacy Policy Of SolveYourProblem.com
 
 Thank you for visiting SolveYourProblem.com and for reviewing our Privacy Policy. Our policy on the collection of personal information is as follows:
 
-Unless you provide additional information, we collect only the following  
-information as you browse through our web site:
+Unless you provide additional information, we collect only the following information as you browse through our web site:
 
   * the domain name and browser you use to access the Internet;
 
