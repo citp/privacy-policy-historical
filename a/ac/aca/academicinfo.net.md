@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217214106id_/http%3A//www.academicinfo.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605040914id_/http%3A//www.academicinfo.net/privacy.html) for the most accurate reproduction.*
 
 # Academic Info: Privacy Statement
 
 * * *
 
-[Home](https://web.archive.org/web/20011217214106id_/http%3A//www.academicinfo.net/index.html) / [Keyword Search](https://web.archive.org/web/20011217214106id_/http%3A//www.academicinfo.net/search.html) / [Subject Index](https://web.archive.org/web/20011217214106id_/http%3A//www.academicinfo.net/table.html) / [Reference Desk](https://web.archive.org/web/20011217214106id_/http%3A//www.academicinfo.net/ref.html) / [Student Center](https://web.archive.org/web/20011217214106id_/http%3A//www.academicinfo.net/student.html)
+[Home](https://web.archive.org/web/20020605040914id_/http%3A//www.academicinfo.net/index.html) / [Keyword Search](https://web.archive.org/web/20020605040914id_/http%3A//www.academicinfo.net/search.html) / [Subject Index](https://web.archive.org/web/20020605040914id_/http%3A//www.academicinfo.net/table.html) / [Reference Desk](https://web.archive.org/web/20020605040914id_/http%3A//www.academicinfo.net/ref.html) / [Student Center](https://web.archive.org/web/20020605040914id_/http%3A//www.academicinfo.net/student.html)
 
 ## Academic Info  
 Privacy Statement 
