@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2000-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000603164118id_/http%3A//www.micron.com/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2000-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001011060108id_/http%3A//www.micron.com/corporate/privacy.htm) for the most accurate reproduction.*
 
 # Micron Technology, Inc. - Privacy Policy
 
    
-| [LEGAL](https://web.archive.org/web/20000603164118id_/http%3A//www.micron.com/corporate/legal.htm "Legal Information") | TRADEMARKS | LINKS & LOGOS | TERMS OF USE |
+| [LEGAL](https://web.archive.org/web/20001011060108id_/http%3A//www.micron.com/corporate/legal.htm "Legal Information") | TRADEMARKS | LINKS & LOGOS | TERMS OF USE |
 
   
 **This privacy statement applies to all web sites owned and operated by Micron Technology, Inc. and its subsidiaries, excluding Micron Electronics, Inc. ("Micron")**
