@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604055337id_/http%3A//www.owlpages.com/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204201051id_/http%3A//www.owlpages.com/statement.html) for the most accurate reproduction.*
 
 # The Owl Pages - privacy statement
 
@@ -21,7 +21,7 @@ This site contains links to other sites. **The Owl Pages** is not responsible fo
 This site has a Guestbook, and uses e-mail forums, and in the future, may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 #### Choice/Opt-Out  
-"The Owl Pages" provides users the opportunity to opt-out of receiving The Updates Newsletter or any other mailing list from the Owl Pages, by visiting our [Mailing list page](https://web.archive.org/web/20020604055337id_/http%3A//www.owlpages.com/mailinglists.html).
+"The Owl Pages" provides users the opportunity to opt-out of receiving The Updates Newsletter or any other mailing list from the Owl Pages, by visiting our [Mailing list page](https://web.archive.org/web/20021204201051id_/http%3A//www.owlpages.com/mailinglists.html).
 
 ## Contacting the Web Site
 
