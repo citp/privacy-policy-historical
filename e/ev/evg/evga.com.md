@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601214112id_/http%3A//evga.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202232827id_/http%3A//www.evga.com/policy.asp) for the most accurate reproduction.*
 
 # eVGA.com Home Page
 
