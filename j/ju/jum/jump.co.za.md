@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jump.co.za privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206224705id_/http%3A//www.jump.co.za/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jump.co.za privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173325id_/http%3A//www.jump.co.za/PrivacyPolicy) for the most accurate reproduction.*
 
-# Computer Hardware, Software, Games, Digital Cameras, Wireless and Networks - South Africa - Jump Shopping
+# Jump Shopping - South Africa - DVD, Music, Games, Computers, Cameras, Sport & Outdoors and Much More
 
 **Jump Shopping** has created this privacy policy in order to demonstrate our company commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Jump Shopping 
 
@@ -66,4 +66,4 @@ You can visit the following URL: http://www.jump.co.za/members/profile.asp
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: webmaster@jump.co.za 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [_webmaster@jump.co.za_](mailt:webmaster@jump.co.za)
