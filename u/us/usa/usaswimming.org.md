@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaswimming.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217003942id_/http%3A//usaswimming.org/about/template.pl%3Fopt%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaswimming.org privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601145902id_/http%3A//usaswimming.org/about/template.pl%3Fopt%3Dprivacy) for the most accurate reproduction.*
 
 # USA Swimming Sub Page -About
 
