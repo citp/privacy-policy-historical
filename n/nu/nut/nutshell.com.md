@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutshell.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017070422id_/http%3A//corporate.kalmbach.com/kalmbach/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutshell.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601234329id_/http%3A//corporate.kalmbach.com/kalmbach/privacy.asp) for the most accurate reproduction.*
 
 # KALMBACH PUBLISHING CO. - Information Practices
 
