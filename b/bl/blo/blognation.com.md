@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the blognation.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008114841id_/http%3A//www.tnl.net/what/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blognation.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206202634id_/http%3A//www.tnl.net/who/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Site > TNL.net Privacy Policy
 
 Your privacy is important, so we'd like to explain what information we collect when you visit TNL.net (http://www.tnl.net), why we collect it and how it is used. We'd also like to explain your options to access and control your information, our data security practices and other matters. This Policy is governed by our Terms of Service.
 
@@ -8,7 +10,7 @@ Your privacy is important, so we'd like to explain what information we collect w
 
 We have registered with PrivacyBot.com, an independent privacy seal program. We display the PrivacyBot Trustmark to show our commitment to good privacy practices. Click the Trustmark to see our standing with PrivacyBot.
 
-[](http://www.privacybot.com/cgi-bin/registry.plx?siteID=ZFK02391)
+[PrivacyBot](http://www.privacybot.com/cgi-bin/registry.plx?siteID=ZFK02391)
 
 **SPECIAL NOTE ABOUT CHILDREN**
 
@@ -76,4 +78,4 @@ TNL.net
 Attn: Tristan Louis  
 140 East 28th street, Apt. 8C  
 New York, NY 10016  
-United States of America 
+United States of America
