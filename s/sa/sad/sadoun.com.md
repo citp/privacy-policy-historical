@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202013946id_/http%3A//www.sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405230946id_/http%3A//sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# privacy_policy_statement
 
-> We can be reached via e-mail at [ info@sadoun.com](mailto:jamalsadoun@globalssc.com?subject=GlobalSSC%20Privacy%20Policy%20Question)
+> We can be reached via e-mail at [info@sadoun.com](mailto:jamalsadoun@globalssc.com?subject=GlobalSSC%20Privacy%20Policy%20Question)
 > 
 > For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 > 
