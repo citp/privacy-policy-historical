@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207195840id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305222249id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
 
 # KIROTV.com - KIRO-TV - Privacy Policy
 
@@ -17,7 +17,9 @@ Seattle, WA 98121
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you're under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). 
 
-**TYPES OF INFORMATION WE COLLECT** The information we gather falls into two categories: (1) information (for example, your name and address) that you voluntarily supply when you register or initiate transactions, and (2) information gathered on usage patterns and preferences as visitors navigate through our sites, use our services such as free email, or read our email newsletters. In some cases, it is an agent or affiliate of ours that collects the information on our behalf. Third party providers featured on or linked to by our site, such as vendors of products and services offered through our site, may be gathering the same kinds of information. 
+**TYPES OF INFORMATION WE COLLECT**
+
+The information we gather falls into two categories: (1) information (for example, your name and address) that you voluntarily supply when you register or initiate transactions, and (2) information gathered on usage patterns and preferences as visitors navigate through our sites, use our services such as free email, or read our email newsletters. In some cases, it is an agent or affiliate of ours that collects the information on our behalf. Third party providers featured on or linked to by our site, such as vendors of products and services offered through our site, may be gathering the same kinds of information. 
 
 **Registration Information.** To make use of certain features on our site (such as to receive email newsletters, or post a classified ad) visitors need to register and to provide certain information as part of the registration process. We may also ask for information from those who buy products or services or conduct other transactions on our site. (We may ask, for example, for your name, email address, sex, age, zip code or credit card number, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) The information you supply will help us to offer you more personalized features, to tailor our site to your interests and make them more useful to you, and to process e-commerce transactions that may be made available on our site. 
 
@@ -74,7 +76,3 @@ All information gathered on our site is stored within a database operated by us 
 **CHANGES TO THIS PRIVACY POLICY**
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
-
-  
-  
-
