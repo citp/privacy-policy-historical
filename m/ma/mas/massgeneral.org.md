@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the massgeneral.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207082045id_/http%3A//www.massgeneral.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massgeneral.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221236id_/http%3A//www.massgeneral.org/privacy.htm) for the most accurate reproduction.*
 
 # MGH Privacy Statement
 
-****At Massachusetts General Hospital (MGH}, we are committed to protecting the privacy and security of the users of our site. We understand that health is a very personal, private subject, and we are committed to protecting the privacy and security of visitors to our site. This Privacy Policy will tell you what information we collect, how it is used, and what your choices are. Please read this policy carefully.
+**  
+Privacy Notice**  
+At Massachusetts General Hospital (MGH), we are committed to protecting the privacy and security of the users of our site. We understand that health is a very personal, private subject, and we are committed to protecting the privacy and security of visitors to our site. This Privacy Policy will tell you what information we collect, how it is used, and what your choices are. Please read this policy carefully. 
 
 **1\. What personal information does MGH collect?  
 ** You may use most of the MGH site without providing any personal information. 
@@ -46,5 +48,27 @@ Please note, that for encryption to work, your browser must be Netscape or Inter
 **7\. Your Consent.  
 ** By using the MGH Web site, you agree to acceptance of this Privacy Policy. We may occasionally need to make changes to our Privacy Policy, to reflect changes in our site and address new issues. Changes will be posted here, so please refer to this policy regularly. 
 
-**April 2002  
-**
+**April 2002**
+
+* * *
+
+  
+**Information for Reporting Claims of Copyright Infringement**
+
+**In accordance with the Digital Millennium Copyright Act, 17 U.S.C. § 512 (the “DCMA”) Massachusetts General Hospital (“MGH”) and the Massachusetts General Physicians Organization ("MGPO") are registered as Service Providers with the United States Copyright Office. Notifications of copyright infringement claims occurring on MGH or MGPO's network should be reported to our designated agent, as follows:**
+
+Robert Pappagianopoulos  
+Partners Healthcare System, Inc.  
+One Constitution Center, 2nd floor  
+Charlestown, MA 02129
+
+Email: [dmca-agent@partners.org](mailto:dmca-agent@partners.org)
+
+**Any such notice must be in writing, and must include the following information as required by the DMCA:**  
+· A physical or electronic signature of the copyright owner or the person authorized to act on its behalf;   
+· A description of the copyrighted work claimed to have been infringed;   
+· A description of the infringing material and information reasonably sufficient to permit MGH and MGPO to locate the material;   
+· Your contact information, including your address, telephone number, and email;   
+· A statement by you that you have a good faith belief that use of the material in the manner complained of is    not authorized by the copyright owner, its agent, or the law; and   
+· A statement that the information in the notification is accurate, and, under the pains and penalties of perjury,    that you are authorized to act on behalf of the copyright owner.   
+
