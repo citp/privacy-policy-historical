@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205211559id_/http%3A//www.grandecom.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604100423id_/http%3A//www.grandecom.com/privacy.jsp) for the most accurate reproduction.*
 
-# Grande Communications
+# Grande Communications®
 
 Grande Communications respects your privacy and works hard to safeguard the privacy of your personal data. We realize that the exciting growth of the Internet and online services has created additional privacy issues concerning the nature, use and confidentiality of information collected about consumers.
 
