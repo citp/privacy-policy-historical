@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the workingmother.com privacy policy that was archived on 2003-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030809041922id_/http%3A//workingmother.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workingmother.com privacy policy that was archived on 2004-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040622141006id_/http%3A//www.workingmother.com/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>WorkingMother</title>
@@ -21,21 +21,6 @@ function MM_findObj(n, d) { //v4.01
   if(!x && d.getElementById) x=d.getElementById(n); return x;
 }
 
-function P7_autoLayers() { //v1.2 by PVII
- var g,b,k,f,args=P7_autoLayers.arguments;
- var a = parseInt(args[0]);if(isNaN(a))a=0;
- if(!document.p7setc) {p7c=new Array();document.p7setc=true;
-  for (var u=0;u<10;u++) {p7c[u] = new Array();}}
- for(k=0; k<p7c[a].length; k++) {
-  if((g=MM_findObj(p7c[a][k]))!=null) {
-   b=(document.layers)?g:g.style;b.visibility="hidden";}}
- for(k=1; k<args.length; k++) {
-  if((g=MM_findObj(args[k])) != null) {
-   b=(document.layers)?g:g.style;b.visibility="visible";f=false;
-   for(j=0;j<p7c[a].length;j++) {
-    if(args[k]==p7c[a][j]) {f=true;}}
-  if(!f) {p7c[a][p7c[a].length++]=args[k];}}}
-}
 //-->
 </script>
 
@@ -66,101 +51,176 @@ function MM_preloadImages() { //v3.0
 </script>
 <script language="JavaScript">
 <!--
-function P7_Snap() { //v2.62 by PVII
-  var x,y,ox,bx,oy,p,tx,a,b,k,d,da,e,el,args=P7_Snap.arguments;a=parseInt(a);
-  for (k=0; k<(args.length-3); k+=4)
-   if ((g=MM_findObj(args[k]))!=null) {
-    el=eval(MM_findObj(args[k+1]));
-    a=parseInt(args[k+2]);b=parseInt(args[k+3]);
-    x=0;y=0;ox=0;oy=0;p="";tx=1;da="document.all['"+args[k]+"']";
-    if(document.getElementById) {
-     d="document.getElementsByName('"+args[k]+"')[0]";
-     if(!eval(d)) {d="document.getElementById('"+args[k]+"')";if(!eval(d)) {d=da;}}
-    }else if(document.all) {d=da;} 
-    if (document.all || document.getElementById) {
-     while (tx==1) {p+=".offsetParent";
-      if(eval(d+p)) {x+=parseInt(eval(d+p+".offsetLeft"));y+=parseInt(eval(d+p+".offsetTop"));
-      }else{tx=0;}}
-     ox=parseInt(g.offsetLeft);oy=parseInt(g.offsetTop);var tw=x+ox+y+oy;
-     if(tw==0 || (navigator.appVersion.indexOf("MSIE 4")>-1 && navigator.appVersion.indexOf("Mac")>-1)) {
-      ox=0;oy=0;if(g.style.left){x=parseInt(g.style.left);y=parseInt(g.style.top);
-      }else{var w1=parseInt(el.style.width);bx=(a<0)?-5-w1:-10;
-      a=(Math.abs(a)<1000)?0:a;b=(Math.abs(b)<1000)?0:b;
-      x=document.body.scrollLeft + event.clientX + bx;
-      y=document.body.scrollTop + event.clientY;}}
-   }else if (document.layers) {x=g.x;y=g.y;var q0=document.layers,dd="";
-    for(var s=0;s<q0.length;s++) {dd='document.'+q0[s].name;
-     if(eval(dd+'.document.'+args[k])) {x+=eval(dd+'.left');y+=eval(dd+'.top');break;}}}
-   if(el) {e=(document.layers)?el:el.style;
-   var xx=parseInt(x+ox+a),yy=parseInt(y+oy+b);
-   if(navigator.appName=="Netscape" && parseInt(navigator.appVersion)>4){xx+="px";yy+="px";}
-   if(navigator.appVersion.indexOf("MSIE 5")>-1 && navigator.appVersion.indexOf("Mac")>-1){
-    xx+=parseInt(document.body.leftMargin);yy+=parseInt(document.body.topMargin);
-    xx+="px";yy+="px";}e.left=xx;e.top=yy;}}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function P7_autoLayers() { //v1.4 by PVII
+ var g,b,k,f,args=P7_autoLayers.arguments;a=parseInt(args[0]);if(isNaN(a))a=0;
+ if(!document.p7setc){p7c=new Array();document.p7setc=true;for(var u=0;u<10;u++){
+ p7c[u]=new Array();}}for(k=0;k<p7c[a].length;k++){if((g=MM_findObj(p7c[a][k]))!=null){
+ b=(document.layers)?g:g.style;b.visibility="hidden";}}for(k=1;k<args.length;k++){
+ if((g=MM_findObj(args[k]))!=null){b=(document.layers)?g:g.style;b.visibility="visible";f=false;
+ for(var j=0;j<p7c[a].length;j++){if(args[k]==p7c[a][j]) {f=true;}}
+ if(!f){p7c[a][p7c[a].length++]=args[k];}}}
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+<script language="JavaScript">
+<!--
+function P7_Snap() { //v2.63 by PVII
+ var x,y,ox,bx,oy,p,tx,a,b,k,d,da,e,el,tw,q0,xx,yy,w1,pa='px',args=P7_Snap.arguments;a=parseInt(a);
+ if(document.layers||window.opera){pa='';}for(k=0;k<(args.length);k+=4){
+ if((g=MM_findObj(args[k]))!=null){if((el=MM_findObj(args[k+1]))!=null){
+ a=parseInt(args[k+2]);b=parseInt(args[k+3]);x=0;y=0;ox=0;oy=0;p="";tx=1;
+ da="document.all['"+args[k]+"']";if(document.getElementById){
+ d="document.getElementsByName('"+args[k]+"')[0]";if(!eval(d)){
+ d="document.getElementById('"+args[k]+"')";if(!eval(d)){d=da;}}
+ }else if(document.all){d=da;}if(document.all||document.getElementById){while(tx==1){
+ p+=".offsetParent";if(eval(d+p)){x+=parseInt(eval(d+p+".offsetLeft"));y+=parseInt(eval(d+p+".offsetTop"));
+ }else{tx=0;}}ox=parseInt(g.offsetLeft);oy=parseInt(g.offsetTop);tw=x+ox+y+oy;
+ if(tw==0||(navigator.appVersion.indexOf("MSIE 4")>-1&&navigator.appVersion.indexOf("Mac")>-1)){
+  ox=0;oy=0;if(g.style.left){x=parseInt(g.style.left);y=parseInt(g.style.top);}else{
+  w1=parseInt(el.style.width);bx=(a<0)?-5-w1:-10;a=(Math.abs(a)<1000)?0:a;b=(Math.abs(b)<1000)?0:b;
+  x=document.body.scrollLeft+event.clientX+bx;y=document.body.scrollTop+event.clientY;}}
+ }else if(document.layers){x=g.x;y=g.y;q0=document.layers,dd="";for(var s=0;s<q0.length;s++){
+  dd='document.'+q0[s].name;if(eval(dd+'.document.'+args[k])){x+=eval(dd+'.left');y+=eval(dd+'.top');
+  break;}}}e=(document.layers)?el:el.style;xx=parseInt(x+ox+a),yy=parseInt(y+oy+b);
+ if(navigator.appVersion.indexOf("MSIE 5")>-1 && navigator.appVersion.indexOf("Mac")>-1){
+  xx+=parseInt(document.body.leftMargin);yy+=parseInt(document.body.topMargin);}
+ e.left=xx+pa;e.top=yy+pa;}}}
 }
 //-->
 </script>
 
-</p><div id="About" style="position:absolute; left:359px; top:128px; width:89px; z-index:8; visibility: hidden"> 
+</p><div id="About" style="position:absolute; left:334px; top:153px; width:89px; z-index:8; height: 102px; visibility: hidden"> 
   <table width="100%" border="0" cellspacing="0" cellpadding="0" height="78">
     <tbody><tr> 
-      <td valign="top"><a href="http://www.workingmother.com/aboutus.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('aboutus','','/images/puAabout2.gif',1)"><img name="aboutus" border="0" src="/images/puAabout1.gif" width="92" height="27"></a><a href="http://www.workingmother.com/management.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('management','','/images/puAmanage2.gif',1)"><br>
-        </a><a href="management.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('management','','/images/puAmanage2.gif',1)"><img name="management" border="0" src="/images/puAmanage1.gif" width="92" height="25"></a><a href="http://www.workingmother.com/properties.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('properties','','/images/puAproperties2.gif',1)"><br>
-        <img name="properties" border="0" src="/images/puAproperties1.gif" width="92" height="24"><br>
-        </a><a href="http://www.workingmother.com/contact.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','/images/puAcontact2.gif',1)"><img name="contact" border="0" src="/images/puAcontact1.gif" width="92" height="25"></a></td>
+      <td valign="top" height="94"><a href="our_company.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('company','','images/puAourcompany2.gif',1)"><img name="company" border="0" src="images/puAourcompany1.gif" width="153" height="26"></a><a href="http://www.workingmother.com/management.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('management','','images/puAmanage2.gif',1)"><br>
+        </a><a href="management.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('management','','images/puAmanage2.gif',1)"><img name="management" border="0" src="images/puAmanage1.gif" width="153" height="25"></a><a href="http://www.workingmother.com/properties.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('properties','','images/puAproperties2.gif',1)"><br>
+        </a><a href="media7.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mediakit','','images/puAwmmedia2.gif',1)"><img name="mediakit" border="0" src="images/puAwmmedia1.gif" width="153" height="38"></a></td>
     </tr>
   </tbody></table>
 </div>
-<div id="Closer" style="position:absolute; left:272px; top:155px; width:334px; z-index:1; visibility: hidden"><a href="javascript:;" onmouseover="P7_autoLayers(0)"><img src="/images/spacer.gif" width="337" height="234" border="0"></a></div>
-<div id="Subscribe" style="position:absolute; left:282px; top:128px; width:127px; z-index:9; visibility: hidden"> 
-  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="149">
+<div id="Closer" style="position:absolute; left:272px; top:155px; width:456px; z-index:1; height: 341px; visibility: hidden"><a href="javascript:;" onmouseover="P7_autoLayers(0)"><img src="images/spacer.gif" width="437" height="329" border="0"></a></div>
+<div id="Subscribe" style="position:absolute; left:259px; top:152px; width:150px; z-index:9; height: 126px; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
       <td valign="top" height="101"> 
-        <p><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_page_id=8141&amp;cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('subscribe','','/images/puSubscribe2.gif',0)"><img name="subscribe" border="0" src="/images/puSsubscribe1.gif" width="144" height="27"></a><a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gift','','/images/puSgift2.gif',1)"><br>
-          <img name="gift" border="0" src="/images/puSgift1.gif" width="144" height="24"><br>
-          </a><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('customer','','/images/puScustomer2.gif',1)"><img name="customer" border="0" src="/images/puScustomer1.gif" width="144" height="25"><br>
-          </a><a href="http://www.workingmother.com/corpsub.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('corpsub','','/images/puScorporate2.gif',1)"><img name="corpsub" border="0" src="/images/puScorporate1.gif" width="144" height="24"></a><br>
-          <a href="http://www.workingmother.com/reprints.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('reprints','','/images/puSreprints2.gif',1)"><img name="reprints" border="0" src="/images/puSreprints1.gif" width="144" height="24"></a><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_page_id=8141&amp;cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('reprints','','/images/puSreprints2.gif',0)"><br>
-          </a><a href="http://www.workingmother.com/back.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('back','','/images/puSback2.gif',1)"><img name="back" border="0" src="/images/puSback1.gif" width="144" height="25"></a></p>
+        <p><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('customer','','images/puScustomer2.gif',1)"><img name="customer" border="0" src="images/puScustomer1.gif" width="143" height="27"></a><a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gift','','images/puSgift2.gif',1)"><br>
+          </a><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_page_id=8141&amp;cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','images/puSsubscribe2.gif',1)"><img name="Image22" border="0" src="images/puSsubscribe1.gif" width="143" height="24"></a><a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gift','','images/puSgift2.gif',1)"><br>
+          </a><a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gift','','images/puSgift2.gif',1)"><img name="gift" border="0" src="images/puSgift1.gif" width="143" height="25"></a><a href="https://stagemmp.cdsfulfillment.com/cgi-bin/ncommerce3/ProductDisplay?prrfnbr=172557&amp;prmenbr=724" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('single','','images/puSsingle2.gif',1)" target="_blank"><br>
+          </a><a href="back.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('backissues','','images/puSback2.gif',1)"><img name="backissues" border="0" src="images/puSback1.gif" width="143" height="24"></a><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WOM" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('customer','','images/puScustomer2.gif',1)"><br>
+          </a><a href="corpsub.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('corpsub','','images/puScorporate2.gif',1)"><img name="corpsub" border="0" src="images/puScorporate1.gif" width="143" height="24"></a></p>
         </td>
     </tr>
   </tbody></table>
 </div>
-<div id="Events" style="position:absolute; left:436px; top:128px; width:145px; z-index:10; visibility: hidden"> 
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td height="23"><a href="http://www.workingmother.com/events.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wlc','','/images/puEwlcongress2.gif',1)"><img name="wlc" border="0" src="/images/puEwlcongress1.gif" width="144" height="27"><br>
-        </a><a href="http://www.workingmother.com/events.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('woc','','/images/puEwoc2.gif',1)"><img name="woc" border="0" src="/images/puEwoc1.gif" width="143" height="25"></a><a href="events.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wlc','','/images/puEwlcongress2.gif',1)"><br>
-        </a><a href="http://www.workingmother.com/events.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nafe','','/images/puEnafe2.gif',1)"><img name="nafe" border="0" src="/images/puEnafe1.gif" width="144" height="24"></a></td>
+<div id="Events" style="position:absolute; left:413px; top:152px; width:244px; z-index:10; height: 325px; visibility: hidden"> 
+  <table width="243" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td height="22" valign="top"> 
+        <p><a href="markcalendar.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wmevents','','images/puEwmevents2.gif',1)"><img name="wmevents" border="0" src="images/puEwmevents1.gif" width="243" height="25"></a></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="22" valign="top"><a href="clorox_ruckus.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ruckus','','images/puEruckus2.gif',1)"><img name="ruckus" border="0" src="images/puEruckus1.gif" width="243" height="25"></a></td>
+    </tr>
+    <tr> 
+      <td height="23" valign="top"><a href="womenofcolor.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('womenofcolor','','images/puEwoc2.gif',1)"><img name="womenofcolor" border="0" src="images/puEwoc1.gif" width="243" height="38"></a></td>
+    </tr>
+    <tr> 
+      <td height="23" valign="top"><a href="townhall.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('townhalls','','images/puEtownhalls2.gif',1)"><img name="townhalls" border="0" src="images/puEtownhalls1.gif" width="243" height="25"></a></td>
+    </tr>
+    <tr> 
+      <td height="23" valign="top"><a href="wlc.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wlorklife','','images/puEwlcongress2.gif',1)"><img name="wlorklife" border="0" src="images/puEwlcongress1.gif" width="243" height="37"></a></td>
+    </tr>
+    <tr> 
+      <td height="23" valign="top"><a href="advertisingwmoy/index.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('advertising','','images/puEadvertising2.gif',1)"><img name="advertising" border="0" src="images/puEadvertising1.gif" width="243" height="37"></a></td>
+    </tr>
+    <tr> 
+      <td height="8" valign="top"><a href="lessons.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('lessons','','images/puElessons2.gif',1)"><img name="lessons" border="0" src="images/puElessons1.gif" width="243" height="24"></a></td>
+    </tr>
+    <tr> 
+      <td height="23" valign="top"><a href="webinars.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('webinars','','images/puEwebinars2.gif',1)"><img name="webinars" border="0" src="images/puEwebinars1.gif" width="243" height="25"></a></td>
+    </tr>
+    <tr> 
+      <td height="23" valign="top"><a href="work_family_balance.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('breakfast','','images/puEbreakfast2.gif',1)"><img name="breakfast" border="0" src="images/puEbreakfast1.gif" width="243" height="24"></a></td>
+    </tr>
+    <tr> 
+      <td height="23" valign="top"><a href="single_sponsor.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('single','','images/puEsinglesponsor2.gif',1)"><img name="single" border="0" src="images/puEsinglesponsor1.gif" width="243" height="36"></a></td>
+    </tr>
+    <tr> 
+      <td height="23" valign="top"><a href="nafe.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nafe','','images/puEnafe2.gif',1)"><img name="nafe" border="0" src="images/puEnafe1.gif" width="243" height="26"></a></td>
     </tr>
   </tbody></table>
 </div>
-<table width="780" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td rowspan="2" width="230"><img src="/images/WMlogoAug.gif" width="258" height="120"></td>
-    <td width="550"> 
-      <div align="center"><script language="JavaScript1.1" src="http://network.realmedia.com/RealMedia/ads/adstream_jx.ads/workingmother/ros/ron/wmn/ss/a@Position1">
-</script> 
-<script language="JavaScript">
-<!-- 
-if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://network.realmedia.com/RealMedia/ads/adstream_sx.ads/workingmother/ros/ron/wmn/ss/a@Position1"></iframe>'); 
-} 
-// --> 
+<div id="Exclusives" style="position:absolute; width:200px; height:115px; z-index:11; left: 490px; top: 154px; visibility: hidden"> 
+  <table width="159" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td><a href="http://www.workingmother.com/oct03/100Bestindex.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('best','','images/puEX100best2.gif',1)"><img name="best" border="0" src="images/puEX100best1.gif" width="158" height="39"></a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.workingmother.com/June03WOC_contents.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('woc','','images/puEXwoc2.gif',1)"><img name="woc" border="0" src="images/puEXwoc1.gif" width="158" height="36"></a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.workingmother.com/maternity.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('maternity','','images/puEXmaternity2.gif',1)"><img name="maternity" border="0" src="images/puEXmaternity1.gif" width="158" height="37"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="Promo" style="position:absolute; width:251px; height:113px; z-index:12; left: 431px; top: 152px; visibility: hidden"> 
+  <table width="250" border="0" cellspacing="0" cellpadding="0" align="right">
+    <tbody><tr> 
+      <td><a href="promo_choice.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('choice','','images/puPherchoice2.gif',1)"><img name="choice" border="0" src="images/puPherchoice1.gif" width="291" height="25"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="promo_pantene.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pantene','','images/puPpantene2.gif',1)"><img name="pantene" border="0" src="images/puPpantene1.gif" width="291" height="25"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="promo_tweezerman.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tweezerman','','images/puPtweezerman2.gif',1)"><img name="tweezerman" border="0" src="images/puPtweezerman1.gif" width="291" height="23"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<table width="720" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="top"> 
+    <td height="126" width="236" rowspan="2"><a href="http://www.workingmother.com"><img src="images/WMlogo.gif" width="242" height="120" border="0"></a></td>
+    <td width="562" height="60"> 
+      <!--- start of workingmother_ros_(468x60)_247RealMediaAdTag --->
+      <div align="center">
+        <script language="JavaScript1.1" src="http://network.realmedia.com/RealMedia/ads/adstream_jx.ads/workingmother/ros/ron/wmn/ss/a@Position1">
+</script>
+        <script language="JavaScript">
+<!--
+if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://network.realmedia.com/RealMedia/ads/adstream_sx.ads/workingmother/ros/ron/wmn/ss/a@Position1"></iframe>');
+}
+// -->
 </script>
         <noscript> <A HREF="http://network.realmedia.com/RealMedia/ads/click_nx.ads/workingmother/ros/ron/wmn/ss/a@Position1?x"><IMG SRC="http://network.realmedia.com/RealMedia/ads/adstream_nx.ads/workingmother/ros/ron/wmn/ss/a@Position1" border="0"></a> 
-        </noscript> </div>
-    </td>
+        </noscript> 
+        <!--- end of workingmother_ros_(468x60)_247RealMediaAdTag --->
+      </div>
+      </td>
   </tr>
-  <tr> 
-    <td width="550"> 
-      <table width="500" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr valign="top">
+    <td width="562" height="63">
+      <table width="460" border="0" cellspacing="0" cellpadding="0" align="center">
         <tbody><tr> 
-          <td height="47" width="97"><a href="javascript:;" onmouseover="P7_autoLayers(0,'Closer','Subscribe')"><img src="/images/tbsubscribe06.gif" width="80" height="46" border="0" onload="P7_Snap('Subscribe','Subscribe',0,0)"></a></td>
-          <td height="47" width="132"><a href="javascript:;" onmouseover="P7_autoLayers(0,'About','Closer')"><img src="/images/tbabout06.gif" width="77" height="46" border="0" onload="P7_Snap('About','About',0,0)"></a></td>
-          <td height="47" width="94"><a href="javascript:;" onmouseover="P7_autoLayers(0,'Closer','Events')"><img src="/images/tbevents06.gif" width="108" height="46" border="0" onload="P7_Snap('Events','Events',0,0)"></a></td>
-          <td height="47" width="94"><a href="http://www.workingmother.com/media7.shtml" onmouseover="P7_autoLayers(0)"><img src="/images/tbmedia06.gif" width="77" height="46" border="0"></a></td>
-          <td height="47" width="94"><a href="http://www.workingmother.com/press.shtml" onmouseover="P7_autoLayers(0)"><img src="/images/tbpress06.gif" width="77" height="46" border="0"></a></td>
-          <td height="47" width="10"><a href="http://www.workingmother.com/featured.shtml" onmouseover="P7_autoLayers(0)"><img src="/images/tbpartners06.gif" width="81" height="46" border="0"></a></td>
+          <td height="47" width="97"><a href="javascript:;" onmouseover="P7_autoLayers(0,'Closer','Subscribe');P7_Snap('bsubscribe','Subscribe',0,40)"><img src="images/tbsubscribe.gif" width="76" height="46" border="0" name="bsubscribe"></a></td>
+          <td height="47" width="132"><a href="javascript:;" onmouseover="P7_autoLayers(0,'About','Closer');P7_Snap('babout','About',0,40)"><img src="images/tbabout.gif" width="77" height="46" border="0" name="babout"></a></td>
+          <td height="47" width="94"><a href="javascript:;" onmouseover="P7_autoLayers(0,'Closer','Events');P7_Snap('bconference','Events',0,40)"><img src="images/tbevents.gif" width="78" height="46" border="0" name="bconference"></a></td>
+          <td height="47" width="94"><a href="javascript:;" onmouseover="P7_autoLayers(0,'Closer','Exclusives');P7_Snap('bexclusives','Exclusives',0,40)"><img src="images/tbexclusives.gif" width="77" height="46" border="0" name="bexclusives"></a></td>
+          <td height="47" width="94"><a href="press.shtml" onmouseover="P7_autoLayers(0)"><img src="images/tbpress.gif" width="77" height="46" border="0" name="bpress"></a></td>
+          <td height="47" width="10"><a href="javascript:;" onmouseover="P7_autoLayers(0,'Closer','Promo');P7_Snap('bproducts','Promo',-215,40)"><img src="images/tbpromotions.gif" width="77" height="46" border="0" name="bproducts"></a></td>
         </tr>
       </tbody></table>
     </td>
@@ -173,23 +233,142 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
 <table width="770" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
     <td width="119" valign="top" height="492"> 
-       <img src="/images/sbuttons06.gif" width="98" height="520" usemap="#MapNew" border="0"> 
-<map name="MapNew"> 
-  <area shape="rect" coords="1,303,93,321" href="http://www.mediabrains.com/Client/WorkingM/LM1/lm/default.asp?searchby=rsn" target="_blank">
-  <area shape="rect" coords="4,97,95,138" href="mailto:practicalmatters@workingmother.com">
-  <area shape="rect" coords="5,146,94,173" href="http://www.workingmother.com/emml/emml.php">
-  <area shape="rect" coords="6,56,89,89" href="mailto:editors@workingmother.com">
-  <area shape="rect" coords="5,442,88,511" href="http://www.workingmother.com/contribute.shtml">
-  <area shape="rect" coords="6,366,94,437" href="http://www.nafe.com/">
-  <area shape="rect" coords="2,324,93,358" href="http://www.workingmother.com/permission.shtml">
-  <area shape="rect" coords="3,270,94,298" href="http://www.workingmother.com/click.shtml">
-  <area shape="rect" coords="2,245,93,262" href="http://www.workingmother.com/writers.shtml">
-  <area shape="rect" coords="1,226,95,240" href="http://www.workingmother.com/communitymail.shtml">
-  <area shape="rect" coords="3,202,95,220" href="http://www.workingmother.com/ceonote.shtml">
-  <area shape="rect" coords="3,182,95,198" href="http://www.workingmother.com/editornote.shtml">
-  <area shape="rect" coords="1,26,96,52" href="http://www.workingmother.com/join.shtml">
-  <area shape="rect" coords="2,5,97,22" href="http://www.workingmother.com/index.shtml">
-</map>
+       
+<script language="JavaScript">
+<!--
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function P7_autoLayers() { //v1.4 by PVII
+ var g,b,k,f,args=P7_autoLayers.arguments;a=parseInt(args[0]);if(isNaN(a))a=0;
+ if(!document.p7setc){p7c=new Array();document.p7setc=true;for(var u=0;u<10;u++){
+ p7c[u]=new Array();}}for(k=0;k<p7c[a].length;k++){if((g=MM_findObj(p7c[a][k]))!=null){
+ b=(document.layers)?g:g.style;b.visibility="hidden";}}for(k=1;k<args.length;k++){
+ if((g=MM_findObj(args[k]))!=null){b=(document.layers)?g:g.style;b.visibility="visible";f=false;
+ for(var j=0;j<p7c[a].length;j++){if(args[k]==p7c[a][j]) {f=true;}}
+ if(!f){p7c[a][p7c[a].length++]=args[k];}}}
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function P7_Snap() { //v2.63 by PVII
+ var x,y,ox,bx,oy,p,tx,a,b,k,d,da,e,el,tw,q0,xx,yy,w1,pa='px',args=P7_Snap.arguments;a=parseInt(a);
+ if(document.layers||window.opera){pa='';}for(k=0;k<(args.length);k+=4){
+ if((g=MM_findObj(args[k]))!=null){if((el=MM_findObj(args[k+1]))!=null){
+ a=parseInt(args[k+2]);b=parseInt(args[k+3]);x=0;y=0;ox=0;oy=0;p="";tx=1;
+ da="document.all['"+args[k]+"']";if(document.getElementById){
+ d="document.getElementsByName('"+args[k]+"')[0]";if(!eval(d)){
+ d="document.getElementById('"+args[k]+"')";if(!eval(d)){d=da;}}
+ }else if(document.all){d=da;}if(document.all||document.getElementById){while(tx==1){
+ p+=".offsetParent";if(eval(d+p)){x+=parseInt(eval(d+p+".offsetLeft"));y+=parseInt(eval(d+p+".offsetTop"));
+ }else{tx=0;}}ox=parseInt(g.offsetLeft);oy=parseInt(g.offsetTop);tw=x+ox+y+oy;
+ if(tw==0||(navigator.appVersion.indexOf("MSIE 4")>-1&&navigator.appVersion.indexOf("Mac")>-1)){
+  ox=0;oy=0;if(g.style.left){x=parseInt(g.style.left);y=parseInt(g.style.top);}else{
+  w1=parseInt(el.style.width);bx=(a<0)?-5-w1:-10;a=(Math.abs(a)<1000)?0:a;b=(Math.abs(b)<1000)?0:b;
+  x=document.body.scrollLeft+event.clientX+bx;y=document.body.scrollTop+event.clientY;}}
+ }else if(document.layers){x=g.x;y=g.y;q0=document.layers,dd="";for(var s=0;s<q0.length;s++){
+  dd='document.'+q0[s].name;if(eval(dd+'.document.'+args[k])){x+=eval(dd+'.left');y+=eval(dd+'.top');
+  break;}}}e=(document.layers)?el:el.style;xx=parseInt(x+ox+a),yy=parseInt(y+oy+b);
+ if(navigator.appVersion.indexOf("MSIE 5")>-1 && navigator.appVersion.indexOf("Mac")>-1){
+  xx+=parseInt(document.body.leftMargin);yy+=parseInt(document.body.topMargin);}
+ e.left=xx+pa;e.top=yy+pa;}}}
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function Lvl_openWin(u,n,w,h,l,t,c,f) { //v2.2 4LevelWebs
+  var x=((screen.width-w)/2);if(c==1){l=x;t=(screen.height-h)/2;}if(c==2){l=x}
+	f+=',top='+t+',left='+l;LvlWin=window.open(u,n,f);LvlWin.focus();
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+//-->
+</script>
+
+<div id="Layer1" style="position:absolute; width:104px; height:55px; z-index:2; left: 106px; top: 143px; visibility: hidden"> 
+  <table width="103" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td><a href="click.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('click','','images/puSEclickconnect2.gif',1)"><img name="click" border="0" src="images/puSEclickconnect.gif" width="102" height="26"></a></td>
+    </tr>
+    <tr>
+      <td><a href="atyourservice.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('atservice','','images/puSEatservice2.gif',1)"><img name="atservice" border="0" src="images/puSEatservice1.gif" width="102" height="24"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="closer" style="position:absolute; width:214px; height:251px; z-index:1; left: 107px; top: 41px; visibility: hidden"><a href="javascript:;" onmouseover="P7_autoLayers(0)"><img src="images/spacer.gif" width="207" height="246" border="0" name="anchor_closer"></a></div>
+<div id="Layer2" style="position:absolute; left:109px; top:31px; width:151px; height:131px; z-index:3; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td><a href="contact_questions.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('subscription','','images/puCquestions2.gif',1)"><img name="subscription" border="0" src="images/puCquestions1.gif" width="151" height="26"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="contact_practical.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('practical','','images/puCpractical2.gif',1)"><img name="practical" border="0" src="images/puCpractical1.gif" width="151" height="24"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="contact_writers.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('writers','','images/puCwriters2.gif',1)"><img name="writers" border="0" src="images/puCwriters1.gif" width="151" height="25"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="contact_reprints.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('reprints','','images/puCreprints2.gif',1)"><img name="reprints" border="0" src="images/puCreprints1.gif" width="151" height="25"></a></td>
+    </tr>
+    <tr> 
+      <td><a href="contact_corp.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('corp','','images/puCcorporate2.gif',1)"><img name="corp" border="0" src="images/puCcorporate1.gif" width="151" height="25"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<table width="99" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="28" valign="top"><a href="javascript:;" onmouseover="P7_autoLayers(0,'closer','Layer2');P7_Snap('bcontact','Layer2',98,20,'closer','contact',98,-10)"><img src="images/sbcontact.gif" width="98" height="44" name="bcontact" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td height="31" valign="top"> <a href="javascript:;" onclick="Lvl_openWin('http://www.workingmother.com/newsletter/subscribe.php','subscribe','510','600','0','0','1','width=510,height=600')"><img src="images/sbnewsletter.gif" width="98" height="36" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="join.shtml" onmouseover="P7_autoLayers(0)"><img src="images/sbreaderpanel.gif" width="98" height="38" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="javascript;:" onmouseover="P7_autoLayers(0,'Layer1','closer');P7_Snap('anchor1','Layer1',98,0,'anchor1','closer',98,-20)"><img src="images/sbsomethingextra.gif" width="98" height="38" border="0" name="anchor1"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="http://www.nafe.com" onmouseover="P7_autoLayers(0)"><img src="images/sbnafe.gif" width="98" height="79" border="0"></a></td>
+  </tr>
+</tbody></table>
+<a href="markcalendar.shtml"><img src="images/sbevents.gif" width="98" height="99" border="0"></a> 
 
     </td>
     <td width="572" valign="top" height="492"> 
@@ -197,14 +376,14 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
       <table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
         <tbody><tr>
           <td valign="top" class="body" height="449"> 
-            <p><img src="images/shprivacyAug.gif" width="121" height="17"><br>
+            <p><img src="images/shprivacy.gif" width="435" height="24"><br>
             </p>
-            <p class="body"><span class="body">WMAC, Inc. and its affiliated companies 
-              (collectively, "WMAC," "We," "Us") provide a variety of e-commerce 
+            <p class="body"><span class="body">Working Mother Media, Inc. and its affiliated companies 
+              (collectively, "Working Mother Media," "We," "Us") provide a variety of e-commerce 
               and other online services ("Services") through its Web sites located 
               at, including but not limited to <a href="http://www.workingmother.com/">http://www.workingmother.com/</a> 
               (the "Sites").</span></p>
-            <p class="body"><span class="body">WMAC is committed to safeguarding 
+            <p class="body"><span class="body">Working Mother Media is committed to safeguarding 
               your privacy on the Internet. Please read the following policy to 
               understand how your personal information will be treated. Please 
               note that by using the Services and/or the Sites you signify your 
@@ -216,12 +395,12 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
               review this Policy to ensure continuing familiarity with its most 
               current provisions.</span></p>
             <p class="body"><span class="body">The Services are not directed toward 
-              children (minors under thirteen years of age). WMAC does not knowingly 
+              children (minors under thirteen years of age). Working Mother Media does not knowingly 
               collect personally identifiable information from children.</span></p>
             <p class="body"><span class="body">Please note that when you subscribe 
-              through the Sites to a magazine published by WMAC, this Privacy 
+              through the Sites to a magazine published by Working Mother Media, this Privacy 
               Policy will not apply with respect to any information provided by 
-              you in connection with your subscription, and occasionally WMAC 
+              you in connection with your subscription, and occasionally Working Mother Media 
               makes its subscriber mailing lists available to third parties. If 
               you prefer not to receive these mailings, please write to: Working 
               Mother Media, Circulation Dept., 260 Madison Avenue, 3rd Floor, 
@@ -235,9 +414,9 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
               <a href="#3">3. How your information is used;</a><br>
               <a href="#4">4. Who is collecting your information;</a> and<br>
               <a href="#5">5. How you can access, update and change your information.</a></span></p>
-            <p class="body"><span class="bold">1. What personally identifiable information 
-              is collected</span></p>
-            <p class="body"><span class="body">WMAC respects the privacy of those 
+            <p class="body"><span class="bold">1<a name="1"></a>. What personally 
+              identifiable information is collected</span></p>
+            <p class="body"><span class="body">Working Mother Media respects the privacy of those 
               who visit the Sites ("Users" or "Visitors"). While We collect information 
               from Visitors, We do not release personally identifiable information 
               about Visitors without their permission except as set forth within 
@@ -249,30 +428,30 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
               identifiable information. The more information you volunteer and 
               the more accurate the information, the better We are able to customize 
               your experience on the Sites in the future. Once you register, you 
-              are no longer anonymous to WMAC. You are given a member ID and can 
+              are no longer anonymous to Working Mother Media. You are given a member ID and can 
               now take advantage of the membership offerings.</p>
             <p class="body"><span class="body">In addition to registration, We may 
               ask for personal information on other occasions such as (but not 
               limited to) sweepstakes, contests, surveys, promotions, when you 
               submit a listing, and when you report a problem, and surveys.</span></p>
-            <p class="body"><span class="body">WMAC does not control, nor does it 
+            <p class="body"><span class="body">Working Mother Media does not control, nor does it 
               assume responsibility for, the acts of Users of any of the Sites. 
               Please be aware that, when disclosing personally identifiable information 
               in a bulletin board, chat room, or other forum or public area of 
               the Sites, the information may be collected and used by others for 
               the purposes of distributing unsolicited communications. In the 
-              event that you encounter any WMAC User who is improperly collecting 
+              event that you encounter any Working Mother Media User who is improperly collecting 
               or using information about you or other Users, please contact Us 
               at publicarea@workingmother.com.</span></p>
             <p class="body"><span class="bold">2<a name="2"></a>. What are cookies 
               and how are they used</span></p>
             <p class="body"><span class="body">As part of offering and providing 
-              customizable and personalized Services, WMAC uses cookies to store 
-              and sometimes track information about you. WMAC also collects non-personally 
+              customizable and personalized Services, Working Mother Media uses cookies to store 
+              and sometimes track information about you. Working Mother Media also collects non-personally 
               identifiable information, such as aggregate use statistics for the 
               Services. A cookie is a small amount of data that is sent to your 
               browser from a Web server and stored on your computer's hard drive. 
-              All areas on the Sites and any WMAC co-branded and/or partner Web 
+              All areas on the Sites and any Working Mother Media co-branded and/or partner Web 
               sites linked to the Sites (collectively, the "Network") where you 
               are prompted to log-in or that are customizable will require that 
               you accept cookies. Generally, We may use cookies to:</span></p>
@@ -306,7 +485,7 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
               promotions that you and other Users will see on the Network.</span></p>
             <p class="body"><span class="body">Advertising networks that serve ads 
               onto the Sites may also use their own cookies.</span></p>
-            <p class="body"><span class="body">WMAC also collects IP addresses for 
+            <p class="body"><span class="body">Working Mother Media also collects IP addresses for 
               system administration and to report aggregate information to our 
               advertisers. In addition, WorkingMother.com Mail includes IP addresses 
               in outgoing mail message headers.</span></p>
@@ -341,27 +520,27 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
               data to advertisers, affiliates, clients, and other current and 
               potential business partners.</span></p>
             <p class="body"><span class="body">(2) Personally identifiable information:<br>
-              WMAC's primary goal in collecting personal information is to provide 
+              Working Mother Media's primary goal in collecting personal information is to provide 
               you, the User, with a customized experience on the Network. This 
               may include (but is not exclusive to) personalization services, 
               interactive communications, online shopping and many other types 
               of services, most of which are completely free to you. In order 
               to provide services free of charge, We display advertisements. By 
-              knowing a little about you, WMAC is able to deliver more relevant 
+              knowing a little about you, Working Mother Media is able to deliver more relevant 
               advertisements and content, and hence better service, to you.</span></p>
             <p class="body"><span class="body">In the role of delivering targeted 
-              advertisements that WMAC plays, the advertisers give Us an advertisement 
+              advertisements that Working Mother Media plays, the advertisers give Us an advertisement 
               and tell Us the type of audience they want to reach (for example, 
-              females over 35 years old). WMAC takes the advertisement and displays 
+              females over 35 years old). Working Mother Media takes the advertisement and displays 
               it to Users meeting that criteria. In this process, the advertiser 
-              never has access to individual account information. Only WMAC has 
+              never has access to individual account information. Only Working Mother Media has 
               access to individuals' accounts. This kind of advertisement targeting 
               is done with banner ads as well as promotional email through the 
-              Sites. You will only receive special offers via email from WMAC 
+              Sites. You will only receive special offers via email from Working Mother Media 
               if you have indicated in your account preferences that you would 
               like to receive them. You can change your account preferences at 
               any time.</span></p>
-            <p class="body"><span class="body">When you place an order with WMAC, 
+            <p class="body"><span class="body">When you place an order with Working Mother Media, 
               and not with any of our partners, We ask for additional information 
               (including, for example, your full billing address, your shipping 
               address, your credit card number and expiration date, and phone 
@@ -397,18 +576,18 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
               your information</span></p>
             <p class="body"><span class="body">When you are on the Sites and are 
               asked for personal information, you are sharing that information 
-              with WMAC alone, unless you are signing up for Services provided 
+              with Working Mother Media alone, unless you are signing up for Services provided 
               to Us by a partner company. In order to provide this co-branded 
               Service to you, it is necessary for Us to share your personal information 
               with our partner company to open up an account for the Service. 
               By signing up for the Service, you will be permitting the partner 
               company to receive your personal information to ensure proper service 
               to you. Promotions that run on the Sites may be sponsored by companies 
-              other than WMAC or may be cosponsored by WMAC and another company. 
+              other than Working Mother Media or may be cosponsored by Working Mother Media and another company. 
               Some or all data collected during a promotion may be shared with 
               the sponsor. You can decide not to participate in the promotion 
               if you don't want your data to be shared.</span></p>
-            <p class="body"><span class="body">Please be aware that WMAC Internet 
+            <p class="body"><span class="body">Please be aware that Working Mother Media Internet 
               access partners, advertisers, and Web sites that have links on the 
               Sites may collect personally identifiable information about you. 
               The information practices of those Internet access partners, advertisers, 
@@ -420,9 +599,9 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
               as email address by contacting us. You may choose to "opt out" of 
               receiving promotional materials related to third party goods or 
               services. If you do not "opt out" of receiving such promotional 
-              materials, WMAC reserves the right to email you promotional materials 
+              materials, Working Mother Media reserves the right to email you promotional materials 
               related to third party goods and/or services.</span></p>
-            <p class="body"><span class="body">WMAC may occasionally need to send 
+            <p class="body"><span class="body">Working Mother Media may occasionally need to send 
               you messages pertaining to your use of the Services and/or the Sites, 
               and you will not be able to "opt out" of receiving such messages. 
               These messages are limited in that they, among other things, will 
@@ -437,12 +616,13 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
     <td width="131" valign="top" height="492"> 
       <p>&nbsp; </p>
       <p>
-         <img src="/images/insideAug.gif" width="158" height="344" usemap="#MapRight" border="0"> 
+         <img src="images/inside.gif" width="158" height="371" usemap="#MapRight" border="0"> 
 <map name="MapRight"> 
-  <area shape="rect" coords="18,209,144,252" href="http://www.workingmother.com/Aug03contents.shtml">
-  <area shape="rect" coords="16,285,143,311" href="http://www.workingmother.com/back.shtml">
-  <area shape="rect" coords="16,314,140,339" href="http://www.workingmother.com/reprints.shtml">
-  <area shape="rect" coords="17,254,142,280" href="https://w1.buysub.com/servlet/OrdersGateway?cds_page_id=8141&amp;cds_mag_code=WOM">
+  <area shape="rect" coords="15,281,142,307" href="back.shtml">
+  <area shape="rect" coords="16,308,142,336" href="back.shtml">
+  <area shape="rect" coords="17,239,142,280" href="June04contents.shtml">
+  <area shape="rect" coords="16,339,143,366" href="reprints.shtml">
+  <area shape="rect" coords="15,209,142,237" href="https://w1.buysub.com/servlet/OrdersGateway?cds_page_id=8141&amp;cds_mag_code=WOM" target="_blank">
 </map>
 
       </p>
@@ -450,15 +630,14 @@ if (parseFloat(navigator.appVersion) == 0) { document.write('<IFRAME WIDTH=468 H
     </td>
   </tr>
 </tbody></table>
-<div align="center"> 
+<div align="left">
   
 <table width="750" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td height="61"> 
-      <div align="center"> 
-        <p><img src="/images/WMMlogoSm.jpg" width="176" height="23"></p>
-        <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif">© 
-          Copyright 2003 WMAC. Inc.</font></p>
+      <div align="center">
+<p><font size="1" face="Verdana, Arial, Helvetica, sans-serif">© 
+          Copyright 2004 Working Mother Media, Inc.</font></p>
        
       </div>
     </td>
