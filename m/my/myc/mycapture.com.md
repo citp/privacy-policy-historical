@@ -1,121 +1,33 @@
-> *The following text is extracted and transformed from the mycapture.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607170059id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycapture.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206092546id_/http%3A//www.mycapture.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# MyCapture Event Publishing
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
-· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
-**Special Topics**  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [more...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Yahoo! Category: Privacy](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
-· | [Yahoo! Search: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
-· | [Yahoo! Category: Security](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
-  
-* * *  
-  
-  | 
+| 
 
-[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+myCapture, Inc. is committed protecting your privacy. As a user of the myCapture web site (the "Site"), you acknowledge that we will collect certain information about you, and that you may provide information regarding your tastes and preferences. Collected information is used to process your orders and personalize your experience. Required information is protected by secure server software. By using the Web site, you consent to the collection and use of this information by myCapture and our affiliates. Any changes to myCapture's Privacy Policy will be posted on this page so you will always be aware of information collected, use, and disclosure circumstances. This statement sets forth our Privacy Policy and describes the practices myCapture follows with respect to information provided by visitors to this Site. Please be aware that this Site contains links to other sites that are covered by their own privacy policies. myCapture welcomes your input. Please e-mail: support@mycapture.com with questions and comments. 
 
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
+**Required Information**  
+To purchase items via our Site and/or to become a myCapture member, you must provide some basic name, email and other contact information. We use this information for internal purposes, namely, processing your orders, notifying you of your order status, updating your myCapture account, and sending you notices of special offers and promotions, new services, and noteworthy news and events. We do not sell or rent information about our customers or email lists to third parties. However, we may share this information with our partners and affiliates to enable them to provide you with special benefits, offers, and promotions. MyCapture requires separate registration for each of our partner websites and will only share your required information with these specific partners. Our partners and affiliates privacy policies and practices may be different from myCaptures, and we encourage you to become familiar with them. MyCapture assumes no responsibility for these policies. 
 
-**What This Privacy Policy Covers**  
+You can choose to not receive e-mails or updates about special benefits, promotions, or offers from either myCapture, its affiliates, or its partners. You will be given the opportunity to elect not to receive such emails during the registration process. If you no longer wish to receive updates, you may update or correct this information by logging on to "Your Account" and editing your personal information or emailing support@mycapture.com. We will endeavor to comply with your request as quickly as possible. Please note that if you opt out of receiving promotional material from myCapture, you still may receive such material from our worldwide partners, affiliates and as explained above. 
 
+Any personal data (such as age and gender) you may provide is used to create personalized content, services, and advertising on our Site, as well as to better understand the preferences of our members and customers. We may also aggregate your Site activity so that myCapture and our affiliates may better understand the users that are visiting our Site. In all cases, this aggregated data is anonymous and does not contain any personal information that identifies a user. 
 
-  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. 
+**Send to a Friend Feature**  
+myCapture offers a "Send to a Friend" feature where users to the site can email links to specific photos around the Internet. myCapture uses the email addresses supplied for this purpose - both the referral and return email address - only to complete this service a single time. These email addresses are not stored, shared, or otherwise used for any purpose. 
 
-**Information Collection and Use**
+**Links**  
+This web site contains links to other sites. Please be aware that myCapture is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-      **General**  
+**Legal Disclaimer**  
+Though we make every effort to preserve user privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
+**Change of Address or Contact Information**  
+If your e-mail address or contact information has changed or is incorrect, you may update or correct this information by logging on to "Your Account" and editing your personal information. 
 
-  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
-  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+**Security**  
+When placing orders or accessing your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. If you are just browsing the Site, a cookie identifies only your browser. If you become a registered online customer of myCapture (with a designated user ID and password), we use cookies so that we can provide customized information that we believe will be of value to you based on preferences indicated, other information we have about you as an myCapture customer, as well as information available from external sources such as the census bureau. It is possible to set your browser to inform you when a cookie is being placed. This way, you have the opportunity to decide whether to accept the cookie. If you are just browsing our Site and are not a registered online customer, you do not have to accept a cookie and you may continue visiting the Site. 
 
-      **Children**  
+If you have questions about myCapture Privacy Policy or concerns about personal information you have supplied to Merlin-Net, please send an email to contact@myCapture.com 
 
-
-  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
-  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
-
-**Information Sharing and Disclosure**  
-
-
-  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-
-**Cookies**  
-
-
-  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/pixels/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
-
-**Your Ability to Edit and Delete Your Account Information and Preferences**
-
-      **General**  
-
-
-  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-      **Children**  
-
-
-  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-**Confidentiality and Security**  
-
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * Your Yahoo! Account Information is password-protected. 
-  * In certain areas Yahoo! uses industry-standard SSL-encryption to protect data transmissions. 
-
-**Changes to this Privacy Policy**  
-
-
-  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
-
-**Questions and Suggestions**  
-
-
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
-
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070  
-
-
-
-
+Copyright © 2003 myCapture. All Rights Reserved. Users of this Site agree to be bound by the terms of the myCapture Terms of Use. View Terms of Use and trademarks and Privacy Statement of myCapture. 
