@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wand.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/4_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wand.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206032820id_/http%3A//www.wand.com/wand/english/html/4_privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -28,8 +28,8 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-    1\. You can send email to [strick@wand.com](mailto:strick@wand.com)
-    2\. You can call the following telephone number: 303-623-1200 x240 
+    1\. You can send email to [info@wand.com](mailto:info@wand.com)
+    2\. You can call the following telephone number: 303-623-1200 
 
 **Correct/Update**   
 This site gives users the following options for changing and modifying information previously provided. 
@@ -44,9 +44,4 @@ If you have any questions about this privacy statement, the practices of this si
     WAND, Inc. 
     1514 Curtis St. 
     Denver, CO 80202 
-    [jdwyer@wand.com](mailto:jdwyer@wand.com)   
-[Search WAND®](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/3_mc.asp) | [About WAND®](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/3_wandinfo.asp) | [New Listings](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/queries/3_newman.asp) | [WAND® Global News](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/4_globalnews.asp) | [Country Information](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/3_regional.asp)   
-[WAND® Services](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/3_profile-desc.asp) | [Global Contacts](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/4_email4.asp) | [Contact WAND®](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/3_email3.asp) | [Other Languages](https://web.archive.org/) | [HOME](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/4_start.asp) [](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/3_whorwi.asp) [Contact WAND®](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/3_email3.asp)
-
-[Disclaimer and Legal Notice](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/3_wanddisclaimer.asp)   
-[Privacy Statement](https://web.archive.org/web/20020205083540id_/http%3A//wand.com/wand/english/html/4_privacy.asp)
+    [jdwyer@wand.com](mailto:jdwyer@wand.com)
