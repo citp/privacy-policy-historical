@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203001848id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609125718id_/http%3A//www.news-journalonline.com/online/privacy.htm) for the most accurate reproduction.*
 
 # The Daytona Beach News-Journal: Help
 
@@ -12,15 +12,15 @@ The News-Journal's collection of information is limited to those circumstances w
 
 Your Internet Protocol (IP) address is collected automatically when you access News-Journal Online so that we may identify your computer should we ever need to for technical or legal purposes. We do not use this information to track your movements on News-Journal Online, and it is not shared with any other party. 
 
-**News-Journal Center**
+**News-Journal Online Message Boards**
 
-News-Journal Online offers the opportunity for you to discuss issues relevant to our community and our world in our News-Journal Center discussion boards. Personal information that you disclose in these boards is immediately available to anyone who chooses to access this area of News-Journal Online, so please be responsible with your personal information. For more ideas for using News-Journal Center responsibly, please visit our [Terms and Conditions](https://web.archive.org/online/terms.htm) page. 
+News-Journal Online Message Boards offer the opportunity for you to discuss issues relevant to our community and our world. Personal information that you disclose in these boards is immediately available to anyone who chooses to access this area of News-Journal Online, so please be responsible with your personal information. For more ideas for using News-Journal Online Message Boards responsibly, please visit our [Terms and Conditions](https://web.archive.org/online/terms.htm) page. 
 
-News-Journal Center is the only area on News-Journal Online that uses cookies. Cookies are small files that are deposited on the hard drive of your computer in order to save your selected preferences where they can be read by our site. News-Journal Center uses cookies to identify which messages in News-Journal Center are new since your last visit, and, if you desire, to store your username and password so that you do not have to log in each time you visit News-Journal Center. Users with cookies disabled on their computers will lose this convenience, but are still able to use our message boards. 
+News-Journal Online Message Boards are the only area on News-Journal Online that uses cookies. Cookies are small files that are deposited on the hard drive of your computer in order to save your selected preferences where they can be read by our site. News-Journal Online Message Boards use cookies to identify which messages are new since your last visit, and, if you desire, to store your username and password so that you do not have to log in each time you visit the News-Journal Online Message Boards. Users with cookies disabled on their computers will lose this convenience, but are still able to use our message boards. 
 
-In order to register for News-Journal Center, you are required to provide us with your user name and email address. This information is used to verify your password and to contact you in the event that there is a problem with your account. The remainder of the information requested is optional. If you do elect to provide the optional information, it is available to anyone who clicks on the profile icon at the top of your posted messages. 
+In order to register for the News-Journal Online Message Boards, you are required to provide us with your user name and email address. This information is used to verify your password and to contact you in the event that there is a problem with your account. The remainder of the information requested is optional. If you do elect to provide the optional information, it is available to anyone who clicks on the profile icon at the top of your posted messages. 
 
-Children under 13 are not permitted to register for News-Journal Center. For more information on the News-Journal's compliance with the Children's Online Privacy Protection Act, please visit our [Terms and Conditions](https://web.archive.org/online/terms.htm) page. 
+Children under 13 are not permitted to register for the News-Journal Online Message Boards. For more information on the News-Journal's compliance with the Children's Online Privacy Protection Act, please visit our [Terms and Conditions](https://web.archive.org/online/terms.htm) page. 
 
 **Subscription Renewal and Classified Advertisements**
 
