@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the intacct.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205143300id_/http%3A//www.intacct.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intacct.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603020715id_/http%3A//www.intacct.com/company/privacy_policy.html) for the most accurate reproduction.*
 
-# Intacct > Company > Privacy Policy
+# Intacct - Privacy Policy
 
-|  This confirms that Intacct Corporation is a licensee of the TRUSTe Privacy Program.
+|    
+  
+  
+This confirms that Intacct Corporation is a licensee of the TRUSTe Privacy Program.
 
 TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
@@ -176,7 +179,7 @@ Ultimately, you are solely responsible for maintaining the secrecy of your compa
 
 **14\. Where can I address any questions I might have about the privacy policy?**
 
-You may direct questions regarding this Privacy Policy to [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com) or, by telephone, to Intacct’s customer support staff at 877.748.7576.    
+You may direct questions regarding this Privacy Policy to [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com) or, by telephone, to Intacct’s customer support staff at 877.748.7576. 
 
-
-| 
+|   
+---|---|---
