@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegenie.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017030055id_/http%3A//danworld.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegenie.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402142557id_/http%3A//danworld.net/privacy.shtml) for the most accurate reproduction.*
 
 # Danworld Network: Privacy Statement
 
