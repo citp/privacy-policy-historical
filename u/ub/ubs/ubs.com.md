@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222638id_/http%3A//www.ubs.com/e/index/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412180927id_/http%3A//www.ubs.com/e/index/privacy_policy.html) for the most accurate reproduction.*
 
 # UBS - PRIVACY POLICY
 
@@ -34,4 +34,4 @@ For further information please read [our disclaimer](https://web.archive.org/e/d
 
 This Policy was last updated in May, 2002.
 
-www.ubs.com © Copyright by UBS AG, 2002 - All rights reserved.
+www.ubs.com © Copyright by UBS AG, 2003 - All rights reserved.
