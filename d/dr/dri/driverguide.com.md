@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205120958id_/http%3A//www.driverguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602142534id_/http%3A//www.driverguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for DriverGuide.com
 
 iCentric Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: DriverGuide.com. 
 
-Our membership registration form requires users to give us contact information (like their name and email address). The contact information is used to contact the members if necessary. We may at times need to send out a bulletin to all members describing significant changes to the site (no more than 3 per year). You will not receive any other email from us. We do not and will never rent, sell, or in any way misuse the information you provide. No unsolicited email will ever be sent to our members. Members may at any time cancel their membership; see the choice/opt-out section below. 
+Our membership registration form requires users to give us contact information (like their name and email address). The contact information is used to contact the members if necessary. We may at times need to send out a bulletin to all members describing significant changes to the site. You will not receive any other email from us. We do not and will never rent, sell, or in any way misuse the information you provide. No unsolicited email will ever be sent to our members. Members may at any time cancel their membership; see the choice/opt-out section below. 
 
 Our registration form provides an option for receiving a member newsletter. Users who have selected this option may at any time opt-out of receiving newsletter mailings; see the choice/opt-out section below.
 
@@ -24,11 +24,7 @@ This site makes forums, message boards, and/or news groups available to its user
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This site maintains a dedicated server, and encrypts all user information received. 
-
-## Banner Ads
-
-This site works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This site maintains dedicated servers, and encrypts all user information received. 
 
 ## Choice/Opt-Out
 
@@ -36,8 +32,8 @@ This site gives users the option of removing their information from our database
 
 ## Correct/Update
 
-This site gives users the option of changing and modifying information previously provided. You can email corrections/updates to [update@driverguide.com](mailto:update@driverguide.com). 
+This site gives users the option of changing and modifying information previously provided. You can email corrections/updates to [webmaster@www3.driversguide.com](mailto:webmaster@www3.driversguide.com). 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@driverguide.com](mailto:webmaster@driverguide.com). We consider privacy issues to be a top priority; we will respond to all questions immediately. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@www3.driversguide.com](mailto:webmaster@www3.driversguide.com). We consider privacy issues to be a top priority; we will respond to all questions immediately. 
