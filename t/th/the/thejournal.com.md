@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2001-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010924111202id_/http%3A//www.thejournal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602083228id_/http%3A//www.thejournal.com/privacy.cfm) for the most accurate reproduction.*
 
 # T.H.E. Journal Online: Privacy Statement
 
-## Privacy Statement for www.thejournal.com
+**T.H.E. Journal: Privacy Statement**  
 
-T.H.E. Journal has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.thejournal.com.
+
+T.H.E. Journal has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.thejournal.com](http://www.thejournal.com/)
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
 
@@ -55,6 +56,9 @@ T.H.E. Journal
 17501 E. 17th Street, Suite 230  
 Tustin, CA 92780  
 [web@thejournal.com](mailto:web@thejournal.com)  
-
-
+  
 * * *
+
+If you have comments or questions about our Magazine features or stories, please email the editorial staff at [ editorial@thejournal.com](mailto:editorial@thejournal.com). If you have any comments or questions about subscriptions, please email [ subscriptions@thejournal.com](mailto:subscriptions@thejournal.com). If you have comments or questions about this website, contact us at [web@thejournal.com](mailto:web@thejournal.com). 
+
+Copyright © 2002 T.H.E. Journal L.L.C. All rights reserved.
