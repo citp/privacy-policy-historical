@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016224458id_/http%3A//www.couplescompany.com/Company/NewCompany/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621124445id_/http%3A//couplescompany.com/Company/NewCompany/privacy.htm) for the most accurate reproduction.*
 
 # Search
 
@@ -74,9 +74,9 @@ Cookies are like your business card and they tell us whether you have visited Co
 Cookies allow you to save time and frustration by storing the user names and passwords you use on our site and information on past purchases and personal preferences. By doing this, you do not have to re-enter the information. Should you disable the use of cookies on your browser, you will need to re-enter this information whenever you visit our site. CouplesCompany.com will not and cannot use cookies to retrieve personal information about you from your computer.   TOP
 
 Opt-Out  
-CouplesCompany.com provides customers the opportunity to opt-out of receiving communications from us during your Couples Club registration. We give you the following options to change or modify your information in our database and to choose not to receive future communications. Please review our **[Zero Tolerance Spam Policy.](https://web.archive.org/web/20021016224458id_/http%3A//www.couplescompany.com/PreLaunchFAQ.htm#SPAM)**   This is as much for our members' benefit as our own.
+CouplesCompany.com provides customers the opportunity to opt-out of receiving communications from us during your Couples Club registration. We give you the following options to change or modify your information in our database and to choose not to receive future communications. Please review our **[Zero Tolerance Spam Policy.](https://web.archive.org/web/20030621124445id_/http%3A//couplescompany.com/PreLaunchFAQ.htm#SPAM)**   This is as much for our members' benefit as our own.
 
-  1. You can send email to [customerservice@CouplesCompany.com](mailto:'moreinfo@couplescompany.com'?subject=Privacy%20Policy)
+  1. You can [send email](mailto:question@couplescompany.com?subject=Privacy%20Policy%20Inquiry)
   2. You can visit the Couples Club Home Page (sign-in required)
 
 
@@ -87,7 +87,7 @@ TOP
 **For Questions, concerns and curiosities about the CouplesCompany.com privacy statement and Web site, please contact us at:
 
 **Couples Company  
-3300 NW 185th, #259 PMB  
+3300 NW 185th, #259   
 Portland, OR. 97229**
 
 **(503) 645-2818  
