@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409205342id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604162848id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
 
 # Immigration Department Website: Privacy Statement
 
@@ -74,14 +74,12 @@ You can find more information from the [Privacy Commissioner's website](http://w
 
 If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact:
 
-> DIMIA Privacy Officer:  
->  Peter Lee  
->  Email: [peter.lee@immi.gov.au](mailto:peter.lee@immi.gov.au)  
->  Telephone: (02) 6264 1842
+> DIMIA Privacy Officer  
+>  Email: [opfoi@immi.gov.au](mailto:opfoi@immi.gov.au)
 
 Please note the Privacy Officer will only respond to queries on privacy matters. Inquiries about other matters will not be answered. 
 
 **[ Return to Previous Page ]**
 
   
-Last update: 14 February 2003 at 15:37 AEST 
+Last update: 11 March 2004 at 08:28 AEST 
