@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaypartyideas.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405183724id_/http%3A//www.birthdaypartyideas.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaypartyideas.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208021043id_/http%3A//www.birthdaypartyideas.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
