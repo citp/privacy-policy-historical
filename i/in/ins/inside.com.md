@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inside.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214115404id_/http%3A//www.inside.com/front/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inside.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604043347id_/http%3A//inside.com/front/privacy.html) for the most accurate reproduction.*
 
 # 
 
