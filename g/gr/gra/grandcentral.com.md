@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the grandcentral.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603221049id_/http%3A//www.grandcentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandcentral.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215135711id_/http%3A//www.grandcentral.com/privacy.html) for the most accurate reproduction.*
 
-# Grand Central Communications
+# Grand Central Communications - Privacy Policy
 
-Privacy Policy
-
+Privacy Policy  
+  
+  
+  
 Respecting the privacy and confidentiality of your personal information is important to Grand Central Communications. During your use of the public web site ([www.grandcentral.com](http://www.grandcentral.com/)), you may be asked to voluntarily provide certain personally identifiable information, such as your name, job title, company name, phone number, email address or postal address. We collect this information in order to enhance your use of the web site or for purposes such as facilitating correspondence with you or registering your entitlement to access certain special features of the web site. Grand Central will share this information with third parties who are directly related to Grand Central's business or who are specific to supporting its customers or partners only if this is indicated in your profile. If you would like to be removed from our mailing list or database, please send an email at any time to [unsubscribe@grandcentral.com](mailto:unsubscribe@grandcentral.com).
 
 Information about all web site users  
