@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officer.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602214618id_/http%3A//www.officer.com/insider/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officer.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204095827id_/http%3A//www.officer.com/insider/privacy.shtml) for the most accurate reproduction.*
 
 # Officer.com
 
@@ -77,7 +77,7 @@ If a user's personally identifiable information changes (such as your zip code),
 
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at officer@Officer.com. 
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at officer@officer.com 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
