@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215081158id_/http%3A//www.dana-farber.org/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206061549id_/http%3A//www.dana-farber.org/privacypolicy.asp) for the most accurate reproduction.*
 
 # Dana-Farber Cancer Institute:
 
