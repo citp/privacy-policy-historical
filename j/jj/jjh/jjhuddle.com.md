@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012222014id_/http%3A//www.jjhuddle.com/update/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624032820id_/http%3A//www.jjhuddle.com/update/privacy.htm) for the most accurate reproduction.*
 
 # J.J.'s Ohio High School Sports Huddle
 
@@ -10,7 +10,7 @@ Your computer reaches us via a particular IP (Internet Protocol) address. This c
 
 Your browser has the ability to use so-called "cookies" which, unless you disable their use, store small amounts of data on your computer about your visit to various web sites. Message Boards used on our site use cookies. We use this data to tailor our visitor's experience at our site, displaying the content according to their preferences. None of this information is sold or disseminated to outside parties. Please remember that any information that is disclosed on the message boards becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Our message boards ask visitors for contact information (like their email address), demographic and profile data. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings. We do not and will not disclose your private, personally identifiable information to any third party for any purpose without your prior consent. However, JJHuddle reserves the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action arising from any message posted by you.  See the [user agreement](http://www.jjhuddle.com/cgi-bin/ubb/Ultimate.cgi?action=agree&COPPAcheck=OK) for more details.
+Our message boards ask visitors for contact information (like their email address), demographic and profile data. The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings. We do not and will not disclose your private, personally identifiable information to any third party for any purpose without your prior consent. However, JJHuddle reserves the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action arising from any message posted by you.  See the [user agreement](http://www.jjhuddle.com/rules.htm) for more details.
 
 This site contains links to other sites. JJHuddle.com is not responsible for the privacy practices or the content of such Web sites.
 
