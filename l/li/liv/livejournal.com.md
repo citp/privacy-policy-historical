@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2001-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010128034400id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2001-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011121151200id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
 Our promise to you...   
-All the information we collect from you will be for statistical and demographic purposes only. We will not give out your information or sell it to others. Further, we will not send you junk mail either. The only things we mail you will be things you explicitly ask for (like a password reminder), or a mailing list that you signed up for on our site. 
+All the information we collect from you will be for statistical and demographic purposes only. We will not give out your information or sell it to others. Further, we will not send you junk mail either. The only things we email you will be things you explicitly ask for (like a password reminder), mailing lists that you sign up for, or notifications about your account status. 
 
 All the information we gather...   
 The following is a table that summarizes all the information we collect from users and how we use it: 
