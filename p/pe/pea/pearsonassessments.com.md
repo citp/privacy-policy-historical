@@ -1,21 +1,8 @@
-> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201170206id_/http%3A//www.ncspearson.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602102935id_/http%3A//www.ncspearson.com/legal/privacy.htm) for the most accurate reproduction.*
 
-# NCS Pearson: Privacy Policy
+# Pearson Education - NCS Pearson: Privacy Policy
 
-|    
-[Legal Information](https://web.archive.org/web/20021201170206id_/http%3A//www.ncspearson.com/legal/index.htm)
-
-[Privacy Policy](https://web.archive.org/web/20021201170206id_/http%3A//www.ncspearson.com/legal/privacy.htm)
-
-[Trademarks](https://web.archive.org/web/20021201170206id_/http%3A//www.ncspearson.com/legal/trademarks.htm)
-
-[Disclaimer 
-
-](https://web.archive.org/web/20021201170206id_/http%3A//www.ncspearson.com/legal/disclaimer.htm)
-
-|  | 
-
-NCS Pearson has adopted the following privacy policy statement applicable to the website, www.ncspearson.com, a website designed to supply information about NCS Pearson and its products and services. If you have any questions or concerns about this Privacy Policy, please contact us at [webmaster@ncs.com](mailto:webmaster@ncs.com). 
+NCS Pearson, a Pearson Education business, has adopted the following privacy policy statement applicable to the website, www.ncspearson.com, a website designed to supply information about NCS Pearson and its products and services. If you have any questions or concerns about this Privacy Policy, please contact us at [webmaster@ncs.com](mailto:webmaster@ncs.com). 
 
 COLLECTION AND USE OF INFORMATION FROM USER INFORMATION REQUESTS. Users may, but are not required to, send inquiries or request further information about NCS Pearson and its products and services through completing a contact or request form or sending us an email message. We collect information, including name, organization, email address and the other information supplied through such contact or email. We may use such information to respond to the inquiry, supply information about NCS Pearson and its products and services to the user from time to time and maintain a record of the contact. 
 
