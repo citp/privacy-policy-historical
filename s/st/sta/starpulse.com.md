@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2004-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040821181907id_/http%3A//www.starpulse.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2005-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050319050836id_/http%3A//www.starpulse.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Starpulse.com
 
@@ -23,7 +23,8 @@ Our additional practices and policies with respect to our collection and usage p
 
 **Outside Ad Company** \- Starpulse.com may use an outside advertising or marketing company to display ads on our site. These ads may contain cookies. While Starpulse.com use cookies in other parts of our Web site, cookies received with banner, or text ads are collected by our marketing company, and Starpulse.com does not have access to this information. (For more information on our use of cookies, see the Cookies section below.) In addition, our site may contain links to other Web sites. Starpulse.com does not endorse and are not responsible for the content of third-party Web sites accessed through our site or for any privacy practices with respect to such sites. 
 
-**Public Forums** \- Our Web site may contain chat rooms, forums, message boards, or news groups available to Users. Please remember that any information that is disclosed in these areas becomes public information, and that you should exercise caution when deciding to disclose your Personal Information. Representation information should not be disclosed in public forums. 
+**Public Forums** \- The views and opinions expressed and posted in and on the user forums are strictly those of individual forum members and in no way reflect the views and opinions of Starpulse.com, its associates, advertisers or affiliates.   
+Our Web site may contain chat rooms, forums, message boards, or news groups available to Users. Please remember that any information that is disclosed in these areas becomes public information, and that you should exercise caution when deciding to disclose your Personal Information. Representation information should not be disclosed in public forums. 
 
 **Usage Tracking** \- Our Web site automatically tracks certain information from Users. This information includes the URL that the User came from, what browser the User is using, and the Users IP address. Many Web sites automatically collect this information. Starpulse.com gathers and uses such information to help diagnose problems with our server and to administer our Web site. As stated above, Starpulse.com will not voluntarily disclose or sell any information gathered about our users (Personal Information) to third parties for solicitation or other reasons unless you consent, and except as otherwise provided above. 
 
