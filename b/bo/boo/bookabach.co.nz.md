@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605123131id_/http%3A//www.bookabach.co.nz/bookabach/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803232512id_/http%3A//www.bookabach.co.nz/bookabach/privacy.htm) for the most accurate reproduction.*
 
 # Legal Notice
 
