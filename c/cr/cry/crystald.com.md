@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2001-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010223085948id_/http%3A//www.crystald.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2001-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010720182402id_/http%3A//crystald.com/privacy.html) for the most accurate reproduction.*
 
 # EidosInteractive.com
 
