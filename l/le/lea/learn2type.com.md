@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053221id_/http%3A//www.learn2type.com/index.cfm%3Faction%3DHome%26subaction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602160650id_/http%3A//learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Typing Test - Learn2Type.com - learn to type online FREE typing exercises and typing tests
 
-| [](http://www.learn2type.com/home) |  **Privacy Statement**  
+| [](http://www.learn2type.com/) | 
+
+## Privacy Statement  
+  
 ---|---  
   
 Learn2Type.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learn2Type.com. Your IP address is used to help identify you and tailor your typing lessons and to gather broad demographic information. 
@@ -24,13 +27,13 @@ If you have any questions about this privacy statement, the practices of this si
 
 _Webmaster  
 Learn2Type.com, Inc.   
-52-A Carmine Street #555   
-New York, NY 10014_   
+2381 Hylan Boulevard, Suite 12-I   
+Staten Island, NY 10306_   
 privacyX@Xlearn2type.com 
 
 |   
 
-Content and materials on this website are Copyright ©1999-2003 Learn2Type.com, Inc. 
+Content and materials on this website are Copyright ©1999-2004 Learn2Type.com, Inc. 
 
 Access to this website and content is provided at no charge, and with no   
 guarantees. While this content has been made available to assist you in   
@@ -40,4 +43,4 @@ Learn2Type.com, Inc. is not liable for any damages, consequential or inconsequen
 the ability or disability of using this website. Use these materials at your own risk. 
 
 Usage of this website constitutes acknowledgment of these disclaimers   
-and terms. View our [Privacy Statement](http://www.learn2type.com/index.cfm?action=Home&subaction=Privacy). 
+and terms. View our [Privacy Statement](http://www.learn2type.com/Privacy). 
