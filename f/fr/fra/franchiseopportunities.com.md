@@ -1,8 +1,36 @@
-> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206040505id_/http%3A//www.franchiseopportunities.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621105226id_/http%3A//www.franchiseopportunities.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy of franchise opportunities and franchiseopportunities.com
 
-  
+|   FRANCHISE LISTINGS  
+---  
+   [Platinum](http://www.franchiseopportunities.com/platinum.asp)  
+   [Gold](http://www.franchiseopportunities.com/gold.asp)  
+   [Silver](http://www.franchiseopportunities.com/silver.asp)  
+   [Bronze](http://www.franchiseopportunities.com/bronze.asp)  
+   [Industry List](http://www.franchiseopportunities.com/industries.asp)  
+   [International](http://www.franchiseopportunities.com/international.asp)  
+   [High-End](http://www.franchiseopportunities.com/highend.asp)  
+   [Hot Franchises](http://www.franchiseopportunities.com/hotlist.asp)  
+  RESOURCES  
+   [Consulting/Law](http://www.franchiseopportunities.com/consulting.asp)  
+   [FAQs](http://www.franchiseopportunities.com/faq.asp)  
+   [Finance Center](http://www.franchiseopportunities.com/financial.asp)  
+   [Franchise Bookstore](http://www.sourcebookpublications.com/Affiliates/FranchiseOpportunities.htm)  
+   [Glossary and Tips](http://www.franchiseopportunities.com/glossary.asp)  
+   [Net Worth Calculator](http://www.franchiseopportunities.com/networth.asp)  
+   [Self Survey](http://www.franchiseopportunities.com/selftest.asp)  
+FEATURED FRANCHISES  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=214501&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=10861&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=263723&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=149460&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=314516&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=2898&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=3458&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=300579&et=3)  
+[](http://www.franchiseopportunities.com/newsletter.asp)  
+| |   
 
 
 ### Privacy Policy
