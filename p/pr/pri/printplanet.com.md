@@ -1,89 +1,134 @@
-> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602134332id_/http%3A//www.printplanet.com/docs.asp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210115744id_/http%3A//www.printplanet.com/docs.asp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
 
 # PrintPlanet.com
 
-[ ](https://web.archive.org/ecomm.asp)  
-  
-[ ](https://web.archive.org/link.asp)
 
-[ ](http://www.printable.com/)
-
-|  |  |  PrintPlanet.com Privacy Policy  
----  
-      
+    Printable Technologies, Inc., has created this privacy statement in order
+    to demonstrate our firm commitment to privacy to users of
+    www.printplanet.com, PrintPlanet "eCommunities," discussion forum(s), and
+    other services offered through the PrintPlanet System (the "Services"). 
+    The following discloses our information gathering, security, and
+    dissemination practices for PrintPlanet.
     
-    PrintPlanet.com has created this privacy statement in order to demonstrate
-    our firm commitment to privacy. The following discloses our information 
-    gathering and dissemination practices for this website: PrintPlanet.com.
+    **INFORMATION COLLECTED BY US**
+    The registration process for the Services requires users to give us
+    contact information (such as their name and e-mail address). We may also
+    collect and archive information contained in the communications posted on
+    or sent through the Services by you.
     
-    Our registration for eCommunities requires users to give us contact 
-    information (such as their name and email address) which is manditory if 
-    the user wants to be included in the eCommunity. The user's contact 
-    information is used to contact the visitor when necessary. Subscribers may
-    opt-out of receiving future eCommunity mailings; see the choice/opt-out 
-    section below.
+    **HOW WE USE YOUR PERSONAL INFORMATION**
+    PrintPlanet will use your information to improve PrintPlanet's internal
+    marketing and promotional efforts, to send you promotional material, to
+    statistically analyze service usage and trends, to improve the content and
+    offerings available from PrintPlanet, and to customize the Services for
+    the purpose of better meeting users' needs.  As described below, users may
+    opt-out of receiving certain promotional materials.
     
-    PrintPlanet.com does not sell, rent or lease the email addresses of our 
-    members.
+    PrintPlanet may use your contact information in order to contact you from
+    time to time in connection with your use of the Services.
     
-    This site contains links to other sites. PrintPlanet.com is not 
-    responsible for the privacy practices or the content of such Web sites.
+    PrintPlanet may also use information collected about you to insure the
+    integrity of the PrintPlanet System and to identify users who may be in
+    breach of the PrintPlanet [Terms of Use](http://www.printplanet.com/docs.asp?title=usage_policy).
     
-    Public Forums
-    This site may make chat rooms, forums, message boards, and/or news groups
-    available to its users. Please remember that any information that is 
-    disclosed in these areas becomes public information and you should 
-    exercise caution when deciding to disclose your personal information. 
-    Participation is voluntary and you alone are responsible for the 
-    information you email.
+    **DISCLOSURE TO THIRD PARTIES**
+    Aggregated usage and demographic information regarding users may be
+    disclosed to third-party advertisers.  In such circumstances, no
+    information will be disclosed that could be decompiled to identify you.
+    PrintPlanet does not intend to rent, lease, or sell any of your personally
+    identifiable information to any third party.  However, PrintPlanet may
+    transfer such information to a third-party successor to PrintPlanet's
+    business in connection with a merger, sale of assets, consolidation,
+    reorganization, or other similar transaction.
     
-    Security
-    This site attempts to protect the loss, misuse and alteration of the 
-    information under our control, including, but not limited to, password 
-    authentication, protocol blocking and authorized physical access. However,
-    no publicly available computer system should be considered safe from 
-    intrusion.
+    PrintPlanet may disclose information about its users to third-party
+    auditors as necessary to allow such third-party auditors to determine the
+    accuracy of payments made to or received by our business partners. 
+    PrintPlanet may periodically employ third parties to perform various
+    functions on its behalf.  Such functions may include, for example, Web
+    site hosting, data analysis, marketing research, customer service, and
+    shipment of products.  The third parties performing such functions will
+    have access to your information solely as may be necessary for them to
+    perform such functions.
+    
+    PrintPlanet will disclose information about you as may be requested by law
+    enforcement authorities, in order to protect the rights or property of
+    PrintPlanet or when we believe it is necessary to share information in
+    order to comply with the law or investigate, prevent, or take action
+    regarding illegal activities, suspected fraud, potential threats to the
+    physical safety of any person, or the violation of the [Terms of Use](http://www.printplanet.com/docs.asp?title=usage_policy).
+    
+    Due to the evolving regulatory environment, PrintPlanet cannot ensure that
+    all of your private communications and other sensitive information will
+    never be disclosed in a manner not otherwise described in this Privacy
+    Policy.  For example, but not by way of limitation, PrintPlanet may be
+    forced to disclose information about you to governmental agencies; third
+    parties may also unlawfully access such information.  While PrintPlanet
+    employs careful security measures, you should not expect that your
+    sensitive information or private communications will always remain
+    private.
+    
+    **LINKS**
+    This Web site contains links to other Web sites. PrintPlanet is not
+    responsible for the privacy practices, terms of use, or the content of
+    such Web sites.
+    
+    **PUBLIC FORUMS**
+    PrintPlanet may make chat rooms, forums, message boards, and/or news
+    groups available to its users. Some forums may be provided by others and
+    therefore are not under the control of PrintPlanet. In these cases, the
+    privacy policies of these other forums apply.  Please remember that any
+    information that is disclosed in these areas becomes public information
+    and you should exercise caution when deciding to disclose your personal
+    information. Participation is voluntary and you alone are responsible for
+    the information you e-mail through the Services.
+    
+    **SECURITY**
+    This site uses industry-standard methods to protect the loss, misuse, and
+    alteration of the information under our control, including, but not
+    limited to, password authentication, protocol blocking, and authorized
+    physical access. However, no publicly available computer system should be
+    considered safe from intrusion and we do not guarantee that your
+    information will never be compromised.
     
     E-mail may pass through many computer systems and should not be considered
-    a secure means of communication (unless encrypted). PrintPlanet.com does 
-    not encrypt email.
+    a secure means of communication (unless encrypted). PrintPlanet does not
+    encrypt e-mail.
     
-    Choice/Opt-Out
-    This site gives users the following options for removing their information
-    from our database to not receive future communications or to no longer 
-    receive our service.
+    **CHOICE/OPT-OUT**
+    PrintPlanet gives users the following options to not receive future
+    communications or to no longer receive the Services:
     
-    1. You can follow instructions attached to all eCommunity email.
-    2. You can send email to admin@printplanet.com.
+    1. You can follow the instructions attached to eCommunity forum e-mail.
+    2. You can send an e-mail to [admin@printplanet.com](mailto:admin@printplanet.com) indicating that you no
+    longer desire to receive communications from us or no longer desire to
+    receive the Services.  You must specify the services you want to
+    discontinue in your correspondence.
     
-    Correct/Update
-    This site gives users the following options for changing and modifying 
-    information previously provided.
+    **CORRECT/UPDATE**
+    PrintPlanet gives users the following options for correcting or updating
+    information previously provided:
     
-    1. You can follow instructions attached to all eCommunity email.
-    2. You can send email to admin@printplanet.com.
+    You can send e-mail to [admin@printplanet.com](mailto:admin@printplanet.com) indicating the information
+    you would like us to correct or update.
     
-    If you have any questions about this privacy statement, the practices of 
-    this site, or your dealings with this web site, you can contact: 
-    admin@printplanet.com
+    If you have any questions about this privacy policy, the practices of this
+    Web site, or your dealings with PrintPlanet, you can send e-mail to
+    [admin@printplanet.com](mailto:admin@printplanet.com).
     
-    PrintPlanet.com and Cookies
-    Web sites may use what we call "cookies" to store member names and 
-    passwords. Cookies may allow us to both store and retrieve login 
-    information through a user's browser. Cookies, by themselves, cannot be 
-    used to find out the identity of any user. PrintPlanet.com will only store
-    information provided voluntarily, but this information is not personally 
-    identifiable. A cookie file can contain information such as a user ID that
-    the site uses to track the pages you've visited. But the only personal 
-    information a cookie can contain is information you supply yourself. A 
-    cookie can't read data off your hard disk or read cookie files created by
-    other sites.If for some reason you would rather not take advantage of the
-    benefits made possible with cookies, most browsers allow you to reject 
-    cookies or to choose which cookies to accept. You do not need to have 
-    cookies turned on to use PrintPlanet.com at this time, but that may change
-    without notice in the future.
-      
-  
-^ to top
-
-| 
+    **PRINTPLANET WEB SITES AND COOKIES**
+    PrintPlanet Web sites may use "cookies" to store member names and
+    passwords.  Cookies allow us to both store and retrieve login information
+    through a user's browser. Cookies, by themselves, cannot be used to find
+    out the identity of any user.  A cookie file can contain information such
+    as a user ID that we use to track the pages you've visited. But the only
+    personal information a cookie can contain is information you supply
+    yourself. A cookie can not read data off your hard disk or read cookie
+    files created by other sites.  If for some reason you would rather not
+    take advantage of the benefits made possible with cookies, most browsers
+    allow you to reject cookies or to choose which cookies to accept. You do
+    not need to have cookies turned on to use PrintPlanet at this time, but
+    that may change without notice in the future.
+    
+    
+    
