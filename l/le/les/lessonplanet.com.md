@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604191757id_/http%3A//www.educationplanet.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214021645id_/http%3A//www.educationplanet.com/us/privacy.html) for the most accurate reproduction.*
 
 # Education Planet - Privacy Policy
 
@@ -13,7 +13,8 @@ We collect non-personally identifiable information. As part of our anonymous sur
 In addition to the anonymous information above, we also request additional information from visitors registering for Education Planet memberships, subscriptions and courses. The information we collect for Education Planet memberships, subscriptions and courses includes first and last name, email address, school name and zip code.We only collect personally identifiable information from you when you voluntarily submit it. We use this information to contact you about administrative issues like, changes is course schedules, scheduled membership upgrades or membership expiration. If you allow us, this information is used to contact you with updates on new products and features from Education Planet and our partners. **We do not collect any individually identifiable information on children under the age of 13.**
 
 **Personally Identifiable Information Collected by _Teacher Web Tools_ Subscribers**  
-_Teacher Web Tools_ is designed for direct use by K-12 educators and indirect use by students and parents. Subscribers using _Teacher Web Tools_ may take advantage of tools such as NewsletterMaker, LearningLinks and LessonMaker, etc. If Subscribers use these tools, they may request personally identifiable information from their students and parents. Even though Subscribers are using _Teacher Web Tools_ to interact with students and parents, the personal information is collected by the Subscriber, not by Education Planet. Any information posted is the responsibility of the Subscriber and not Education Planet. Please review our [Terms of Use](http://www.teacherwebtools.com/us/termsofusefull.html) for more details.  
+_Teacher Web Tools_ is designed for direct use by K-12 educators and indirect use by students and parents. Subscribers using _Teacher Web Tools_ may take advantage of tools such as NewsletterMaker, LearningLinks and LessonMaker, etc. If Subscribers use these tools, they may request personally identifiable information from their students and parents. Even though Subscribers are using _Teacher Web Tools_ to interact with students and parents, the personal information is collected by the Subscriber, not by Education Planet. Any information posted is the responsibility of the Subscriber and not Education Planet.
+
 Subscribers should be aware of The Children's Olnine Privacy Protection Act (COPPA). Visit [www.ftc.gov/ogc/coppa1.htm](http://www.ftc.gov/ogc/coppa1.htm) to learn more.
 
 **With whom we share your information?**  
@@ -39,11 +40,6 @@ Education Planet's editors and teacher reviewers go to great efforts to provide 
 
 **Our partners and co-branded sites**  
 Education Planet partners with a number of sites and companies to provide additional features for our visitors. We work hard to select quality partners that are COPPA compliant, but are not responsible for the content on our partner sites. Please read the privacy policy for partner sites.
-
-**Buying over the Internet**  
-Members purchasing Education Planet services using a credit card online will be asked to provide a credit card number. This credit card number will be processed immediately using a secure billing service and not kept on file.
-
-The Education Planet Store offers links to various online stores that offer merchandise of interest to the K-12 community. We select our vendors carefully, but cannot guarantee the contents of these external sites.
 
 **Comments**  
 In case if you have any questions and feedback concerning the Education Planet privacy policy. Please send us your questions and comments to [info@educationplanet.com](mailto:info@educationplanet.com).
