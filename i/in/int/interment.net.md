@@ -1,32 +1,25 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
 
-| **Cemetery Directory**  
+| **Website Menu**  
 ---  
 **·** | 
 
-[United States](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/us/index.htm)  
+[Browse All Cemetery Transcriptions ](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/cemetery.htm)  
   
-**·** | [Canada](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/can/index.htm)  
-**·** | [Australia ](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/aus/index.htm)  
-**·** | [New Zealand ](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/nz/index.htm)  
-**·** | [Ireland](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/ireland/index.htm)  
-**·** | [United Kingdom ](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/uk/index.htm)  
-**·** | [Other Countries ](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/other/index.htm)  
-  
-  
-  
-**Partner Sites**  
----  
-  
-**·**
-
-| [Cemetery Junction](http://www.cemeteryjunction.com/)  
-**·** | [SavingGraves.com](http://www.savinggraves.com/)  
-**·** | [MyCinnamonToast](http://www.mycinnamontoast.com/)  
-**·** | [DistantCousin.com](http://www.distantcousin.com/)  
-**·** | [GenealogyLinks.net](http://www.genealogylinks.net/)  
+  |    
+**·** | [New Cemetery Transcriptions ](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/new.htm)  
+  |    
+**·** | [The Cemetery Column ](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/column/index.htm)  
+  |    
+**·** | [How to Find a Lost Grave](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/help/research.htm)  
+  |    
+**·** | [Submit a Transcription ](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/publish.htm)  
+  |    
+**·** | [Notify me of new cemetery records](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/mailing_list.htm)  
+  |    
+**·** | [Friends, Partners, and Websites](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/genealogy.htm)  
   
   | 
 
