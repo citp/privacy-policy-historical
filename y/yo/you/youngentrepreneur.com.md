@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202161449id_/http%3A//youngentrepreneur.com/forum/view.php%3Fpg%3Dcorp_privacypolicy%26s%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083150id_/http%3A//youngentrepreneur.com/forum/view.php%3Fpg%3Dcorp_privacypolicy%26s%3D) for the most accurate reproduction.*
 
 # Young Entrepreneur Forums
 
