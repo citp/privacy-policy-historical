@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604234637id_/http%3A//www.emarketingassociation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209221032id_/http%3A//www.emarketingassociation.com/privacy.htm) for the most accurate reproduction.*
 
 # eMA privacy policy
 
