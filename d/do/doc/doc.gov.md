@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603175025id_/http%3A//www.commerce.gov/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205023423id_/http%3A//www.commerce.gov/privacystatement.html) for the most accurate reproduction.*
 
 # Department of Commerce Home Page - Commerce Privacy Statement
 
@@ -38,4 +38,4 @@ We want to be very clear: **regardless of the information being transmitted to a
   
   
 [  
-](https://web.archive.org/web/20030603175025id_/http%3A//www.commerce.gov/bureau_acronyms.html)[](https://web.archive.org/web/20030603175025id_/http%3A//www.commerce.gov/bureau_acronyms.html)
+](https://web.archive.org/web/20031205023423id_/http%3A//www.commerce.gov/bureau_acronyms.html)[](https://web.archive.org/web/20031205023423id_/http%3A//www.commerce.gov/bureau_acronyms.html)
