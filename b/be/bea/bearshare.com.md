@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021021509id_/http%3A//bearshare.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405164043id_/http%3A//www.bearshare.com/privacy.htm) for the most accurate reproduction.*
 
-# BearShare Privacy Statement
+# BearShare - The World's Best Gnutella Client
+
+### Privacy Statement
 
 We recognize the current problems related to privacy on the Internet, and Free Peers, Inc. is dedicated to serving the bests interests of its visitors and users with respect to anonymity and privacy. We will seek to use technological superiority instead of obtrusive marketing to grow our products. 
 
@@ -18,11 +20,14 @@ This privacy agreement is subject to change. If our privacy policy changes, our 
 
 ### Advertisers
 
-| **[New.net](http://www.new.net/)** |  |  Allows your browser to see new top level domains. [Privacy Statement](http://www.new.net/policies_privacy.tp)  
+**[New.net](http://www.new.net/)** |  |  Allows your browser to see new top level domains. [Privacy Statement](http://www.new.net/policies_privacy.tp)  
 ---|---|---  
 **[FastClick](http://www.fastclick.com/)** |  |  Internet advertising. [Privacy Statement](http://www.fastclick.com/help/privacy2.html)  
+**[Advertising.com, Inc.](http://www.adverting.com/)** |  |  Internet advertising. [Privacy Statement](http://advertising.com/privacy/privacy.html)  
 **[CNET](http://www.cnet.com/)** |  |  The source for computing and technology.   
 **[WhenU.com, Inc.](http://www.whenu.com/)** |  |  Great e-commerce deals. [Privacy Statement](http://www.whenu.com/snlicence.html)  
 **[180Solutions, Inc.](http://www.180solutions.com/)** |  |  Internet advertising. [Privacy Statement](http://www.180solutions.com/n-case/Privacy.htm)  
+**[NowMarketing, Inc.](http://www.nowmarketing.com/)** |  |  Vflash Content Messenger. [Privacy Statement](http://www.vflash.com/about-privacy.html)  
+**[DoubleClick, Inc.](http://www.doubleclick.com/)** |  |  Internet advertising. [Privacy Statement](http://www.bearshare.com/doubleclick.htm)  
   
-_This agreement was last updated on Friday, September 24, 2001._
+_This agreement was last updated on Monday, December 17, 2001._
