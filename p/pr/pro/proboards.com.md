@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2002-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020630194820id_/http%3A//proboards.com/Information-Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2002-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021223043059id_/http%3A//www.proboards.com/Information-Privacy_Policy.html) for the most accurate reproduction.*
 
-# ProBoards.com - Information: Privacy Policy
+# ProBoards.com - Home
+
+**Privacy Policy**
 
 ProBoards has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ProBoards](https://web.archive.org/).
 
