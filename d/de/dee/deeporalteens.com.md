@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deeporalteens.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202191400id_/http%3A//www.eentinc.com/privacyk.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deeporalteens.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605201033id_/http%3A//www.eentinc.com/privacyk.htm) for the most accurate reproduction.*
 
 # EENT, Inc. Privacy Policy
 
