@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405171628id_/http%3A//myitforum.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204222647id_/http%3A//www.myitforum.techtarget.com/privacy.asp) for the most accurate reproduction.*
 
 # myITforum.com : Privacy Statement
 
 |  | Privacy Statement  
 ---  
   
-Welcome to the MyITForum Web site (the "Site"). We at MyITForum understand the value of personal information and are committed to the protection of customer privacy and data. To demonstrate that commitment, this statement discloses the privacy practices for myitforum.com. If you have any questions or concerns about this privacy statement or the practices of this Site, please contact: [rodtrent@yahoo.com](mailto:rodtrent@yahoo.com). 
+myITforum.com reserves the right to change this policy at any time by notifying users through a notice posted on myITforum.com or by email, of the existence of a new privacy policy or any updates.
 
-**General Principles**
+**Registration**
 
- **Notice.**   
-We endeavor to provide all visitors to the Site with full disclosure of our information practices. We will explicitly ask you when we need information that personally identifies you or allows us to contact you. In such event, we will let you know what information is being collected, how it is collected, for what purposes it is collected, and to whom such information may be disclosed. We will also identify which information is necessary to participate in the offering or activity and which information is optional. Whenever we request additional or optional information, we identify those requests as voluntary so that you know the information is not mandatory in order to participate in the offering or activity. 
+myITforum.com collects personally identifying information only during the registration process. In addition, information is collected in certain portions of myITforum.com in which users specifically and knowingly provide such information along with content submissions, community postings (i.e., forums) or suggestions. myITforum.com may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes.
 
-This Site contains links to other Web sites. Please be aware that MyItForum is not responsible for the privacy practices of such other sites; this privacy statement applies solely to information collected by this Site. 
+Information submitted at the time of registration may be used for marketing and promotional purposes by myITforum.com and may be shared from time to time with companies that have something of value to offer the myITforum.com community. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online.
 
-**Consent.**   
-You may choose not to provide personal information, in which case you may still freely browse the Site. Although participation in some online services and offerings may require information about yourself, providing such information is entirely optional and not a requirement to browse Site generally. When you provide personally identifiable information that may be used for purposes not specifically related to the purpose for which the information was collected, we will provide an opportunity to opt-out of such uses. 
+**Cookies**
 
-**Access.**   
-You may access and make any changes to your personal information at any time by contacting or by forwarding updated information to our [E-business Department](mailto:webmaster@altiris.com). You may also tell us whether or not you want the Site (or other third party sites) to send you marketing information. 
+Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites.
 
-**Security.**   
-We take all reasonable measures to safeguard and protect personally identifiable information from unauthorized access and misuse. If for any reason you believe that the Site has not adhered to these principles, please contact our [webmaster](mailto:rodtrent@yahoo.com). 
+Cookies help make myITforum.com better, by showing how and when guests use the site. Many content improvements and updates are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. A cookie lets myITforum.com remember that you've registered, which allows us to speed up your future activities at our sites. The cookie itself does not contain any personally identifying information although it may enable myITforum.com to relate a user's use of myITforum.com to personally identifying information that has previously been submitted by the user, if any.
 
-Any other concerns or questions about this Site or the practices of this Site may be addressed to our [Legal Department](mailto:cchristensen@altiris.com). 
+You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to such third parties' policies. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, it is likely that most areas of the site will not function properly if you do so.
+
+**Removal from our Database**
+
+Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [learningzone@techtarget.com](mailto:learningzone@techtarget.com).
