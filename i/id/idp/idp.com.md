@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404130314id_/http%3A//www.idp.com/information/article21.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204183612id_/http%3A//www.idp.com/information/article21.asp) for the most accurate reproduction.*
 
 # IDP Portal - Privacy Policy
 
@@ -100,13 +100,15 @@ The company can refuse to provide access to personal information where the Priva
 
 IDP's Privacy Representative is the Company Secretary. Any questions, concerns or complaints about the company's Privacy Policy or its practices related to privacy of personal information should be address to the Representative, as follows:
 
-The Company Secretary  
-IDP Education Australia Limited  
-1 Geils Court  
-Deakin ACT Australia 2601
-
-Telephone: 61 2 6285-8222  
-Facsimile 61 2 6285-3036
+> The Company Secretary  
+> IDP Education Australia Limited  
+> Level 4, 210 Clarence Street   
+> Sydney NSW 2000   
+> AUSTRALIA
+> 
+> Telephone: +61 2 8251 2740  
+> Facsimile +61 2 8251 2785  
+> 
 
 ## Personal Information Management Policy Statement 
 
@@ -143,10 +145,11 @@ IDP is a contractor to the Commonwealth and State governments, and contracts out
 
 Complaints about possible breaches of privacy should be marked as "Confidential", and addressed to:
 
-The Company Secretary  
-IDP Education Australia Limited  
-1 Geils Court  
-Deakin ACT 2601
+> The Company Secretary  
+> IDP Education Australia Limited  
+> Level 4, 210 Clarence Street   
+> Sydney NSW 2000   
+> AUSTRALIA
 
 Requests for access to personal information should be addressed to the Company Secretary (as set out above).
 
@@ -160,11 +163,12 @@ Where the individual's identity cannot be verified to the satisfaction of the Co
 
 For more information contact:
 
-> Neil Owens   
+> Joanna Burke  
 > Company Secretary   
 > IDP Education Australia Limited   
-> Phone: +61 2 6285 8321   
-> Email: [neil.owens@idp.com](mailto:neil.owens@idp.com)
+> Phone - +61 2 8251 2740  
+> Fax -    +61 2 8251 2785   
+> Email - [joanna.burke@idp.com](mailto:joanna.burke@idp.com)
 
 Back to top  
 
