@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the esignal.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601170935id_/http%3A//www.esignal.com/disclaimer/default.asp%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esignal.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203030312id_/http%3A//www.esignal.com/disclaimer/default.asp%23privacypolicy) for the most accurate reproduction.*
 
 # | eSignal Terms of Service |
 
-********  
-To assist you in using our eSignal websites, [www.esignal.com](http://www.esignal.com/), [www.esignalcentral.com](http://www.esignalcentral.com/) and any other websites we may launch from time to time (collectively, the "Website" or the "Site"), and to ensure a clear understanding of the relationship arising from your use of our Site, we have created a Privacy Policy and a set of Terms of Service. Our Privacy Policy explains how we protect and treat contact, credit card, and other information you provide to us through the Site, and our Terms of Service govern your use of our Site generally. Please read on to learn more.
+****************************  
+To assist you in using our eSignal websites,[www.esignal.com](http://www.esignal.com/), [www.esignalcentral.com](http://www.esignalcentral.com/) and any other websites we may launch from time to time (collectively, the "Website" or the "Site"), and to ensure a clear understanding of the relationship arising from your use of our Site, we have created a Privacy Policy and a set of Terms of Service. Our Privacy Policy explains how we protect and treat contact, credit card, and other information you provide to us through the Site, and our Terms of Service govern your use of our Site generally. Please read on to learn more.
 
 Your use of our Site constitutes your agreement to follow and be bound by the Terms of Service and Privacy Policy. If you do not agree to the terms and conditions of these agreements, please do not use our Site.
 
@@ -146,7 +146,7 @@ All demos may only be used during the time periods specified for which they are 
 14.0 Professional/Non-Professional Status; License to Use Content   
 With respect to Services involving the receipt of financial market information, if you are a professional broker, dealer or trader or employed by or conducting business in the securities industry, you must agree to be bound by eSignal's agreements with the Data Providers before utilizing the services for commercial purposes. If you are not such a professional, you agree to use the Services solely in your own individual capacity, and solely in connection with your own individual personal investment activities and not in connection with any trade or business activities
 
-If you are such a professional, you must contact eSignal at [Customer Service](https://web.archive.org/web/20030601170935id_/http%3A//regform/emailformbox.asp?Source=CSD) to obtain such agreements. Unless you have obtained and executed such agreements, you hereby represent and warrant: (i) that you meet and comply with all NYSE, AMEX and NASDAQ requirements for qualification as a Non-professional Subscriber; (ii) that you are acting solely in your own individual capacity to use the Services solely in connection with your own individual personal investment activities and not in connection with any trade or business activities; and (iii) that you are a sophisticated investor. You acknowledge and agree that if your status with respect to any of the foregoing statements is affected or changed in anyway, you shall promptly contact eSignal at [Customer Service](https://web.archive.org/web/20030601170935id_/http%3A//regform/emailformbox.asp?Source=CSD) to obtain relevant exchange agreements.
+If you are such a professional, you must contact eSignal at [Customer Service](https://web.archive.org/web/20031203030312id_/http%3A//regform/emailformbox.asp?Source=CSD) to obtain such agreements. Unless you have obtained and executed such agreements, you hereby represent and warrant: (i) that you meet and comply with all NYSE, AMEX and NASDAQ requirements for qualification as a Non-professional Subscriber; (ii) that you are acting solely in your own individual capacity to use the Services solely in connection with your own individual personal investment activities and not in connection with any trade or business activities; and (iii) that you are a sophisticated investor. You acknowledge and agree that if your status with respect to any of the foregoing statements is affected or changed in anyway, you shall promptly contact eSignal at [Customer Service](https://web.archive.org/web/20031203030312id_/http%3A//regform/emailformbox.asp?Source=CSD) to obtain relevant exchange agreements.
 
 15.0 Access and Security  
 You accept responsibility for the confidentiality and use of any access number(s), account number(s) and customer number(s) that you may receive for your access to and use of the Services. You accept responsibility for all time used and all activity that occurs through or under your access number(s), customer number(s) and/or account number(s). You agree to notify eSignal immediately if you become aware of any loss, theft or unauthorized use of your access number(s) and/or account number(s). 
@@ -207,7 +207,7 @@ eSignal
 PO Box 5028 Hayward  
 California 94540-5028,   
 Attention: Customer Service   
-By email: [Customer Service](https://web.archive.org/web/20030601170935id_/http%3A//regform/emailformbox.asp?Source=CSD)
+By email: [Customer Service](https://web.archive.org/web/20031203030312id_/http%3A//regform/emailformbox.asp?Source=CSD)
 
 eSignal Privacy Policy and Agreement
 
@@ -292,5 +292,5 @@ eSignal
 PO Box 5028   
 Hayward, California 94540-5028   
 Attention: Customer Service  
-By email:  [Customer Service](https://web.archive.org/web/20030601170935id_/http%3A//regform/emailformbox.asp?Source=CSD)  
+By email:  [Customer Service](https://web.archive.org/web/20031203030312id_/http%3A//regform/emailformbox.asp?Source=CSD)  
 
