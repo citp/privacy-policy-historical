@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220222115id_/http%3A//www.environment-agency.gov.uk/other/help/196646/%3Flang%3D_e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607113353id_/http%3A//www.environment-agency.gov.uk/other/help/196646/%3Flang%3D_e) for the most accurate reproduction.*
 
 # Environment Agency - Privacy Policy
 
@@ -34,7 +34,7 @@ From time to time we may wish to provide you with details of other services or l
 
 Users under 18
 
-If you are under 18, please make sure that you obtain your parent/guardian's permission beforehand whenever you provide personal information to the Environment Agency on it's website or by other means.
+If you are under 18, please make sure that you obtain your parent/guardian's permission beforehand whenever you provide personal information to the Environment Agency on its website or by other means.
 
 Security of Personal Information
 
@@ -42,4 +42,12 @@ We share the general concern over the safety and security of personal informatio
 
 Cookies 
 
-Cookies are text files, which identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. The use of cookies enable us to obtain information about your use of our site, such as whether you have visited our site more than once and how you found us. This information allows us to more effectively tailor our site to make its use easier. We use an external agent to analyse this information on our behalf, their privacy policy can be found at: _<http://www.redsheriff.com/6.0.0.htm>_
+Cookies are text files, which identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. 
+
+The Environment Agency uses 2 separate cookies to identify preferred language settings and text only preferences on the site. The World Environment Day section uses a cookie for personalisation and the Fun and Games section uses a cookie to retain user settings for the Changing Blooms game. 
+
+We also use an external agent to analyse usage behaviour on our behalf. To enable this we use a ‘unique visitor cookie’ to obtain information about your use of our site, such as whether you have visited our site more than once and how you found us. 
+
+This information allows us to more effectively tailor our site to make its use easier.Their privacy policy can be found at: <http://www.redsheriff.com/6.0.0.htm>
+
+Through modification of browser preferences, a user can elect to accept all cookies, receive notification when a cookie is set, or decline all cookies. Further information regarding the deletion of cookies can be found at: <http://www.aboutcookies.org/deletecookies.html>[ ](http://www.aboutcookies.org/deletecookies.html)
