@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201165209id_/http%3A//www.jessops.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602044723id_/http%3A//www.jessops.com/privacy.cfm) for the most accurate reproduction.*
 
-# Jessops Online
+# Jessops.com - No.1 in Photography
 
 **Privacy Policy**
 
@@ -24,8 +24,9 @@ This privacy statement covers the site www.jessops.com. Because this Web site wa
 
 9\. How users can contact us with questions regarding this privacy policy.
 
-If users have questions or concerns regarding this statement, they should contact the Jessops Web Site Department by email - webmaster@jessops.com.  
-If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact the Which Webtrader scheme.
+If users have questions or concerns regarding this statement, they should contact the Jessops Web Site Department by email - webmaster@jessops.com.
+
+If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact our Customer Liaison Department: [custcare@jessops.com](mailto:custcare@jessops.com) \- tel. 0116 232 6000.
 
 **Information Collection and Use  
 **  
