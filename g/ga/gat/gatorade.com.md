@@ -1,35 +1,82 @@
-> *The following text is extracted and transformed from the gatorade.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216055800id_/http%3A//gatorade.com/content.cfm%3FUpperIDList%3D%252D1%252C51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorade.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605052634id_/http%3A//www.gatorade.com/footer/privacy.html) for the most accurate reproduction.*
 
-# gatorade.com | Privacy Policy
+# Gatorade.com
 
-### The Quaker Oats Company Privacy Policy 
+|   
+  
+  
+[](https://web.archive.org/products_perform.html)  
+[](https://web.archive.org/gssi.html)  
+[](https://web.archive.org/athletes.html)  
+[](https://web.archive.org/hsh.html)  
+[](https://web.archive.org/parents.html)  
+[](https://web.archive.org/gator_store.html)  
+  
+  
+[](https://web.archive.org/) | 
 
-This web site is operated by The Quaker Oats Company. We recognize that many visitors to our site are concerned about the information they provide to us, and how we treat that information. Our goal at Quaker is to provide safe entertainment and education for you and your kids. 
+  
+  
 
-Please read on to learn about our Privacy Policy. 
 
-### Gathering and Use of Information 
+**Our Commitment to Privacy**
 
-Any personal information collected by Quaker on any of its sites will be used only for internal Quaker use and will not be sold or provided to third parties. Some Quaker sites may collect non-personal information (in the form of aggregated statistics) from you by using "cookie" technology. This information is used internally to better provide services to our consumers. As with the personal information, we do not provide or sell any of these aggregated statistics to any third parties. 
+The Quaker Oats Company, maker of Gatorade thirst quencher, is committed to protecting your personal privacy. We provide this notice to explain the type of information that is collected at our [http://www.Gatorade.com](https://web.archive.org/web/20020605052634id_/http%3A//www.gatorade.com/index.html) web site, including the information which is collected by our Merchandising Agents (Promotion Fulfillment, Inc., and Eye Level Solutions, Inc.) who manage the on-line Gatorade store. This policy also explains the choices that you can make about the way your information is collected and used. Our privacy policy is available to you to review on our homepage and at every site where we have requested personally identifiable information. 
 
-We will not send you any e-mail unless you ask to be added to our update lists or ask for information from us. If you want to remove your or your child's e-mail address from our files, please let us know. Since the information you submit to us may not be encrypted, we cannot guarantee the absolute privacy of that information. 
+**The Information We Collect**
 
-### Kids and Parents 
+This policy applies to all information submitted to this Web site. You may be asked to provide personal information so that we can respond to your request for information or your feedback to us, or so that you can order a product, facilitate payment, and be shipped a product to a location you specify. We will not require you to provide more information than is necessary to participate in any of our site activities. When you provide your personal information such as name, address, e-mail address, daytime phone number, and age, Quaker and any of the third party Merchandising Agents (who Quaker has retained to manage the store and provide you with the products and services offered on the Site), will not give or sell this information to any outside company for any use. 
 
-Kids - If you are 18 years of age or younger, please be sure to ask your parents for permission before providing any information to us. 
+When you place an order for product you will be asked for certain information required for processing the order. The secure processing of credit card information is done by Promotion Fulfillment, Inc. Only your shipping information is forwarded by Promotion Fulfillment to Eye Level Solutions, Inc. to ship your order. Operation of the [www.Gatorade.com](https://web.archive.org/web/20020605052634id_/http%3A//www.gatorade.com/index.html) site, however, is solely within the control of Quaker. 
 
-Parents - We hope that you and your kids enjoy our web site. In communicating directly with minors over the Internet, we recognize the unique issues raised regarding the protection of your kids' privacy. The Children's Advertising Review Unit (CARU), a section of The Better Business Bureau, has issued guidelines for web sites gathering information from minors. Quaker intends to comply with the CARU guidelines in order to protect your kids and their privacy. On Quaker sites which communicate with kids, we include several notices asking kids to get parental permission before providing any personal information. 
+**Order Offline**
 
-### Links 
+Although we employ the safest data encryption methods possible, if for any reason you would like to place your order offline, you may reach us by calling 1-800-88-GATOR or 1-800-884-2867 and a customer service agent will take your order and payment information over the phone. 
 
-Quaker's site may contain "links" to other sites, and we make every effort to only link to sites that share our high standards of decency, fairness, and integrity. We try our best to ensure that these links are safe for kids. However, since we cannot guarantee the content of every site to which we are linked, kids should always check with an adult before linking to any new sites. 
+**Use of Cookies**
 
-### Your Ideas 
+Cookies are files stored or pieces of information that may be stored on your computer's hard drive when visiting a Web site. We use cookies to better tailor our site and our products to your interests and needs. Cookies may also be used to help speed your future activities or to improve your user experience by remembering information from your computer that was not voluntarily provided by you (i.e., during registration) but does not include data that will identify you personally. The use of cookies is an industry standard and you will find them at most Web sites. Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence. 
 
-We encourage you to share your comments and questions with us. We promise to read all the mail you send to us, but we may not be able to respond to all of it. However, please note that we assume no responsibility for reviewing unsolicited ideas for our business (like product or advertising ideas) and will not incur any liability as a result of any similarities between your ideas and future Quaker products or programs. This means that we have no obligation to treat your idea submissions confidentially and that we can use them without paying you for them. Any and all idea submissions will be owned by Quaker exclusively and may be used by Quaker for any purpose, now or in the future. 
+**Our Privacy Practices With Third Parties**
 
-### Use of Materials on this Web Site 
+We may share aggregate, non-personally identifiable information about our users with business partners, sponsors, and other third parties. Except as set forth above, we do not provide any identifiable personal information to any third party for any purpose whatsoever. Access by employees and agents to your personal information is only on a need to know basis on the understanding that this is confidential business information. Our intention is never to use or share personally identifiable information provided to us in ways that are different than the ways described above without also providing you with an opportunity to prohibit such unrelated uses. 
 
-Please remember that the trademarks, service marks, graphics, text, music and other properties appearing within this web site are protected intellectual properties used by Quaker and/or its related companies. These properties may not be copied, reproduced, republished, uploaded, posted, transmitted or distributed in any way, except that you may, for personal and non- commercial use only, download one copy onto your personal computer. In order to protect these valuable assets, Quaker must prohibit other uses without its prior written consent. Except as expressly provided above, nothing contained herein shall be construed as conferring any license or right under any copyright or other intellectual property right. 
+**Links to Other Sites**
 
-If you have any questions about our Privacy Policy, you can contact us at: 1-800-88GATOR. We'll be happy to answer your questions or hear your concerns. 
+Users should be aware that when you are on this Web site you could be directed to other sites that are beyond our control. There may be links to other sites that take you outside of our service. This may include links from Licensed Properties, sponsors and partners that may use the Gatorade® trademark or logos. These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. Also be aware of where you end up when you navigate the Web. Check the linked site to locate its Privacy Policy which may be different from our own. If the Gatorade site links you to any third party site, Quaker makes no representation as to the existence, sufficiency, accuracy, or completeness of their Privacy Policy. 
+
+**Our Commitment to Data Security**
+
+We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
+
+**Our Commitment to Children's Privacy**
+
+Quaker and the [www.Gatorade.com](https://web.archive.org/web/20020605052634id_/http%3A//www.gatorade.com/index.html) web site have no intention of collecting any personal information from any individuals under the age of 13 and we will not knowingly permit ordering or any communication from a child 13 and under. 
+
+**Kids and Parents
+
+Kids - 
+
+**If you are 18 years of age or younger, please be sure to ask your parents for permission before providing any information to us. 
+
+**Parents -** In communicating directly with minors over the Internet, we recognize the unique issues raised regarding the protection of your kids' privacy. The Children's Advertising Review Unit (CARU), a section of The Better Business Bureau, has issues guidelines for web sites gathering information from minors. The Quaker Oats Company intends to comply with the CARU guidelines in order to protect your kids and their privacy. 
+
+**Removal from database**
+
+To be removed from our e-mail database, send an e-mail to us by clicking on "Feedback" or call 1-800-88-GATOR or 1-800-884-2867. Be sure to include the e-mail address you used to register. 
+
+**Future Privacy Policy Changes**
+
+We reserve the right to change or remove this Privacy Policy at our discretion. If we decide to change our Privacy Policy, we will post those changes here. We encourage you to visit this area frequently to stay informed. We will not make any changes, which allow us to give personal information to a third party without obtaining permission from you first. By using this site, you signify your assent to The Quaker Oats Company privacy policy. If you do not agree with any term in this policy, please do not use this site to submit personally identifiable information. 
+
+  
+|   
+| 
+
+[Site Map](https://web.archive.org/footer/sitemap.html) | [FAQ](https://web.archive.org/footer/faq.html) | [Feedback](https://web.archive.org/footer/feedback.cfm) | [US Policy](https://web.archive.org/footer/US_Policy.html) | Privacy Policy
+
+©2002 S-VC, Inc.  
+**Gatorade** , the lightning bolt design, and **Is It In You?** are registered trademarks of Stokely-Van Camp, Inc. Stokely-Van Camp, Inc. is a subsidiary of The Quaker Oats Company, a wholly-owned subsidiary of PepsiCo, Inc.   
+ 
+
+| 
