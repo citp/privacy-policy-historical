@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotels-and-discounts.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207155107id_/http%3A//www.hotels-and-discounts.com/hotels_and_discounts_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels-and-discounts.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603043431id_/http%3A//hotels-and-discounts.com/hotels_and_discounts_privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Hotels and Discounts - Save up to 70% on Hotels and Suites - Worldwide Lodging Accommodations
+# Privacy Policy : Hotels and Discounts - Discount Hotel Prices at Hotels and Discounts; Discount Hotels And Motels, Cheap Hotel, Cheap Hotels, Hotels Cheap, Discount And Hotels, Hotels Discount, Discount Hotel, Hotels And Discount, Hotel Rooms, Hotel Discounts, Discount Hotels
 
 **Introduction**   
 Hotels and Discounts respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at Hotels and Discounts’s Web site.
