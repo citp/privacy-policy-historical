@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2000-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000603195525id_/http%3A//www.kutv.com/now/story/0%2C1597%2C53940-272%2C00.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2000-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000823200919id_/http%3A//kutv.com/now/story/0%2C1597%2C53940-272%2C00.shtml) for the most accurate reproduction.*
 
 # CBS.com--CBS.com Privacy Statement
 
