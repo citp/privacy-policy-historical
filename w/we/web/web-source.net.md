@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the web-source.net privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617171640id_/http%3A//www.web-source.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-source.net privacy policy that was archived on 2000-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001023160122id_/http%3A//www.web-source.net/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement for Web-Source.net
+# Privacy Statement For Web-Source
 
+  
 **Privacy Statement for Web Source**
 
 Web Source has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Web-Source.net.
