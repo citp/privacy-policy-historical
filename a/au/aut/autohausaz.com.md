@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the autohausaz.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205150200id_/http%3A//www.autohausaz.com/html/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autohausaz.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603033714id_/http%3A//www.autohausaz.com/html/privacystatement.html) for the most accurate reproduction.*
 
 # Auto Parts Shopping Where Your Security and Privacy are Guaranteed
+
+| 
 
 You, our valued [Winners Circle Member](http://www.autohausaz.com/html/winners.html), can rest assured that  
 Autohaus is firmly committed to protecting the  
@@ -39,4 +41,4 @@ please contact our
 
 [Webmaster](mailto:webmaster@autohausaz.com).
 
-**[Return to Secure Order Form](https://www.autohausaz.com/secure/orderpage.html)**
+| 
