@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsrover.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203194420id_/http%3A//newsrover.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsrover.com privacy policy that was archived on 2004-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040203214017id_/http%3A//www.newsrover.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
