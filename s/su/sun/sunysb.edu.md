@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunysb.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204191833id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunysb.edu privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606025757id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
 
 # Stony Brook University Privacy Policy
 
@@ -86,4 +86,4 @@ _User_ shall have the meaning set forth in subdivision 8 of section 202 of the S
 Faculty and Staff](http://www.stonybrook.edu/sb/faculty.shtml) | [Athletics](http://www.goseawolves.org/) | [For Students](http://www.stonybrook.edu/sb/studentlife.shtml) | [ In the Greater Community](http://www.stonybrook.edu/sb/greater.shtml) [  
 Hospital and Health Care](http://www.stonybrook.edu/sb/hospital.shtml)
 
-[News](http://www.stonybrook.edu/news) |[ Calendar](http://www.stonybrook.edu/sb/calendar.shtml) | [Directories](http://www.stonybrook.edu/sb/directory.shtml) | [Contact Us](http://www.stonybrook.edu/sb/contact.shtml) | [Prospective Students](http://www.stonybrook.edu/sb/prospective.shtml) | [Alumni](http://www.alumni.sunysb.edu/) |  [Businesses](http://www.stonybrook.edu/sb/business.shtml) | [Giving to Stony Brook](http://www.stonybrook.edu/sb/giving.shtml)
+[News](http://www.stonybrook.edu/news) |[ Calendar](http://commcgi.cc.stonybrook.edu/cgi-bin/webevent/webevent.cgi?cmd=opencal&cal=cal1) | [Directories](http://www.stonybrook.edu/sb/directory.shtml) | [Contact Us](http://www.stonybrook.edu/sb/contact.shtml) | [Prospective Students](http://www.stonybrook.edu/sb/prospective.shtml) | [Alumni](http://www.alumni.sunysb.edu/) |  [Businesses](http://www.stonybrook.edu/sb/business.shtml) | [Giving to Stony Brook](http://www.stonybrook.edu/sb/giving.shtml)
