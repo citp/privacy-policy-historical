@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611230857id_/http%3A//www.filmcritic.com/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/b6f4c69e3d8ce866082566fb0068dba0%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2000-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000930064137id_/http%3A//filmcritic.com/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/b6f4c69e3d8ce866082566fb0068dba0%3FOpenDocument) for the most accurate reproduction.*
 
 # filmcritic.com Our privacy policy
 
-[](http://www.burstnet.com/ads/ad7653a-map.cgi/ind)
+[](http://www.burstnet.com/ads/ad7653a-map.cgi/Ourprivacypolicy)
 
 [**filmcritic.com**](http://www.filmcritic.com/)
 
-\- [About Us](https://web.archive.org/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/78693be8cd1dc4e286256345007d3a40?OpenDocument) \- [New on Video/DVD](https://web.archive.org/misc/emporium.nsf/60e74e041ca9cd6b8625626f0062219f?OpenView) \- [Feature Stories](https://web.archive.org/misc/emporium.nsf/95a45e26914c25ff862562bb006a85f2?OpenView) \- [Search the Site](http://www.filmcritic.com/misc/emporium.nsf/By+Title/$searchForm?SearchView) \- [Archives](http://www.filmcritic.com/misc/emporium.nsf/By+Title/?OpenView&Count=5000)  
+\- [About Us](https://web.archive.org/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/78693be8cd1dc4e286256345007d3a40?OpenDocument) \- [New on Video/DVD](https://web.archive.org/misc/emporium.nsf/60e74e041ca9cd6b8625626f0062219f?OpenView) \- [Feature Stories](https://web.archive.org/misc/emporium.nsf/95a45e26914c25ff862562bb006a85f2?OpenView) \- [Search the Site](http://www.filmcritic.com/misc/emporium.nsf/By+Title/$searchForm?SearchView) \- [Mailing List](http://www.egroups.com/group/critic) \- [Advertising](http://www.burstmedia.com/release/advertisers/adcontact.asp?siteurl=www.filmcritic.com)  
   
  **filmcritic.com Privacy Policy**  
 Internet user privacy and confidentiality is of the utmost importance to filmcritic.com. Our reputation and integrity is directly related to how we serve our clients and customers. Please find below a description of how filmcritic.com strives to protect the privacy of Internet users. 
@@ -33,13 +33,10 @@ This web site contains links to other sites. This statement is for the sole use 
 
 **Disclosure**
 
-filmcritic.com openly volunteers its practices of collecting information, its targeting capabilities, and its  
-use of cookies. If you have any questions pertaining to this privacy policy and its contents, please  
-direct your correspondence to null@filmcritic.com. 
+filmcritic.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to null@filmcritic.com. 
 
 filmcritic.com reserves the right to change this policy from time to time. A revised policy will apply to information collected after the date the policy is changed.
 
 * * *
 
-Talk back and [**e-mail the editors**](mailto:null@filmcritic.com) \- Want the freshest reviews? Join our [**mailing list**](mailto:null@filmcritic.com?subject=subscribe). [](http://click.linksynergy.com/fs-bin/stat?id=hk665vslhhc&offerid=11607.12&type=4&subid=0)| [](http://service.bfast.com/bfast/click?bfmid=9452939&siteid=20539160&bfpage=pchomepage)| [](http://www.fatbrain.com/home.html?from=egf731)| [](http://click.linksynergy.com/fs-bin/stat?id=hk665vslhhc&offerid=7845.14&subid=0&type=4)| [](http://www.amazon.com/exec/obidos/redirect-home/filmcriticcom)  
----|---|---|---|---
+Talk back and [**e-mail the editors**](mailto:null@filmcritic.com) \- Want the freshest reviews? Join our [**mailing list**](http://www.egroups.com/group/critic).
