@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209174825id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604110539id_/http%3A//babiesonline.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement for Babies Online
+# Privacy Statement for BabiesOnline.com, INC
 
   
 
 
-## Privacy Statement for Babies Online
+## Privacy Statement for BabiesOnline.com, INC
 
-Babies Online, L.L.C. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Babies Online.
+BabiesOnline.com, INC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BabiesOnline.com, INC.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart.
 
 Our site uses cookies to keep track of your shopping cart. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes.
 
-Our site's registration form requires users to give us demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data for other purposes. This information is shared with advertisers on an aggregate basis. **Babies Online** is not responsible for the privacy practices or the content of such Web sites.
+Our site's registration form requires users to give us demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data for other purposes. This information is shared with advertisers on an aggregate basis. **BabiesOnline.com, INC** is not responsible for the privacy practices or the content of such Web sites.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email and postal address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to get in touch with the visitor when necessary and to provide to select birth product marketers, when consumer permission to do so is granted. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email and postal address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to get in touch with the visitor when necessary and to provide to select birth product marketers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
 
 We run contests on our site in which we ask visitors for contact information (like their email and postal address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
 
@@ -41,8 +41,8 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [deleteme@babiesonline.com](mailto:deleteme@babiesonline.com)
-  2. You can visit the following URL: <http://www.babiesonline.com/forms/contact>
+  1. To unsubscribe from our mailing list please visit [http://www.babiesonline.com/forms/newsletters/unsubscribe.asp](https://web.archive.org/forms/newsletters/unsubscribe.asp)
+  2. To delete your member account and your baby's web page, visit [http://www.babiesonline.com/forms/contact](https://web.archive.org/forms/contact) and send a request that includes the email address registered to your account and four-digit PIN. 
 
 
 
@@ -50,8 +50,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [contact@babiesonline.com](mailto:contact@babiesonline.com)
-  2. visit <http://www.babiesonline.com/forms/contact>
+  1. Email us via our [Contact Form](https://web.archive.org/forms/contact)
 
 
 
@@ -69,4 +68,4 @@ You can immediately opt-out of Doubleclick's unique cookies and have it switched
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Shannon Anderson Babies Online, L.L.C. P.O. Box 16858 Albuquerque, NM 87191 contact@babiesonline.com
+Shannon Anderson BabiesOnline.com, INC P.O. Box 16858 Albuquerque, NM 87191 [Email Us](https://web.archive.org/forms/contact)
