@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210101000id_/http%3A//www.stocklayouts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618151700id_/http%3A//www.stocklayouts.com/privacy.asp) for the most accurate reproduction.*
 
 # StockLayouts Privacy Policy
 
-|  | Privacy Policy  
+|  |   
+---|---  
+| Privacy Policy  
 ---  
    
 The following Privacy Policy applies to the stocklayouts.com website.  
@@ -55,7 +57,7 @@ If you are located outside of the United States of America, please note that Sto
    
 **Contacting Us.**  
    
-If at any time you believe that we have not followed the above policy, or would like more information regarding your privacy protection, please let us know by sending an email to [info@stocklayouts.com](mailto:info@stocklayouts.com) or by writing to us at 8374 SW Nimbus Avenue, Beaverton, Oregon 97008, Attn: Privacy Policy. We will make reasonable efforts to identify and correct any problem.  
+If at any time you believe that we have not followed the above policy, or would like more information regarding your privacy protection, please let us know by sending an email to [info@stocklayouts.com](mailto:info@stocklayouts.com) or by writing to us at 8364 SW Nimbus Avenue, Beaverton, Oregon 97008, Attn: Privacy Policy. We will make reasonable efforts to identify and correct any problem.  
    
 We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this website. We encourage you to review this privacy policy whenever you visit our website to make sure you understand how we use the information we collect.   
    
