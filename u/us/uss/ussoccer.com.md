@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ussoccer.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202150533id_/http%3A//www.ussoccer.com/statements/content.sps%3FiType%3D4078%26icustompageid%3D6482) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussoccer.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603060420id_/http%3A//www.ussoccer.com/statements/content.sps%3FiType%3D4078%26icustompageid%3D6482) for the most accurate reproduction.*
 
-# U.S. Soccer Federation - Statements - Introduction - 12/2/2003 3:05:31 PM
+# ussoccer.com - Statements - Introduction
 
 **The U.S. Soccer Internet Privacy Policy**
 
