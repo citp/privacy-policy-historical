@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the askmecorp.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405023644id_/http%3A//www.askmecorp.com/privacy.asp%3Fsi1%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmecorp.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215543id_/http%3A//www.askmecorp.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Askme Corporation
 
 Our postal address is:   
-AskMe Corporation  
-4700 42nd Avenue SW, Suite 440   
-Seattle, WA 98116 
+AskMe Corporation   
+3290 146th Place SE, Suite D   
+Bellevue WA 98007   
+Phone: (425) 564-9000   
+Fax: (425) 564-9200 
 
 We can be reached via e-mail at [feedback@askme.com](mailto:feedback@askme.com), or you can reach us by telephone at 206-937-9972. 
 
