@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406203724id_/http%3A//www.hollywood.com/abouthol/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217184320id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
 
-# Hollywood.com - Your entertainment source for movies, movie showtimes, movie reviews, television and celebrity news.!
-
-  
-
-
-## Privacy Statement for Hollywood.com
+# 
 
 Hollywood.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Hollywood.com. 
 
@@ -19,29 +14,31 @@ We run contests on our site in which we ask visitors for contact information (su
 
 Hollywood.com products and services are directed at an adult market, and therefore this site is intended for use by adults only. Hollywood.com encourages parents to take an active role in their children's use of the Internet, and to inform them of the dangers of providing information about themselves over the Internet. Children of any age should always ask a parent for permission before sending personal information to anyone online. No information should be submitted to or posted on this Web site by users under 13 years of age without the consent of their parent or guardian. 
 
-Users that Hollywood.com knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian to [email@la.hollywood.com](mailto:email@la.hollywood.com) so that Hollywood.com may alert the parent or guardian of their child's use of this Website. The parent or guardian must consent to Hollywood.com's collection of their child's personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside Hollywood.com, Inc. If Hollywood.com collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (U.S.C. 6501 et seq.). 
+Users that Hollywood.com knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian to [webmarshall@boca.hollywood.com](mailto:webmarshall@boca.hollywood.com) so that Hollywood.com may alert the parent or guardian of their child's use of this Website. The parent or guardian must consent to Hollywood.com's collection of their child's personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside Hollywood.com, Inc. If Hollywood.com collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (U.S.C. 6501 et seq.). 
 
 This site contains links to other sites. **Hollywood.com** is not responsible for the privacy practices or the content of such websites. 
 
 We have a "Powered by" relationship with Gist. Their content is housed on their servers. We link to Gist for movies on television as a banner and promotional swap. We share general aggregate information about our users with advertisers and business development partners. 
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/privacy_policy/). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+The ads appearing on this Web site are delivered to you by either (a) one of our Web advertising partners, L90 or DoubleClick or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser type (for example, Netscape or Internet Explorer), the type of computer operating system you use (Macintosh or Windows, for instance) and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personal information), is used to serve advertisements to you on this site. We may use your zip code or geographical location information to serve advertisements to this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/privacy_policy/). For more information on L90's privacy policy, cookies and how to "opt-out", please click [here](http://www.l90.com/corporate/privacy_policy/index.html). 
 
-### Public Forums
+This site uses the services of Engage and iBEAM for the serving and/or targeting of ads, promotions, and other marketing messages. To do this, Engage or iBEAM collects and stores anonymous data typically through the use of cookies. To learn more about Engage or iBEAM, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy](http://www.engage.com/privacy/) or to iBEAM at <http://www.ibeam.com/privacy.html>. 
+
+#### Public Forums
 
 This site contains message boards, and/or news groups available to its users. We request users to give us contact information, such as name, email, address, occupation, and interests to be a registered bulletin board user. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings; see the choice/opt-out section below. Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information. 
 
-### Security
+#### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Shell to access our servers remotely, and all server sessions are encrypted. We protect the secure areas of our site (including our databases and intranet) by using a Gauntlet firewall. 
 
-### Choice/Opt-Out
+#### Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. Users can send email to [feedback@la.hollywood.com](mailto:feedback@la.hollywood.com)
+  1. Users can send email to [webmarshall@boca.hollywood.com](mailto:webmarshall@boca.hollywood.com)
   2. Users can visit the following URL: [http://reg1.hollywood.com](http://reg1.hollywood.com/)
   3. Users can send mail to the following postal address:   
 2255 Glades Road   
@@ -51,11 +48,11 @@ Boca Raton, FL 33431
 
 
 
-### Correct/Update
+#### Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Users can email [feedback@la.hollywood.com ](mailto:feedback@la.hollywood.com)
+  1. Users can email [webmarshall@boca.hollywood.com ](mailto:webmarshall@boca.hollywood.com)
   2. Users can visit [http://reg1.hollywood.com](http://reg1.hollywood.com/)
   3. Users can send mail to the following postal address:   
 2255 Glades Road   
@@ -67,11 +64,11 @@ Boca Raton, FL 33431
 
 This policy may change from time to time so please check back periodically. 
 
-### Contacting the Website
+#### Contacting the Website
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:   
 Hollywood.com, Inc.  
 2255 Glades Road  
 Suite 237W  
 Boca Raton, FL 33431  
-or email us at feedback@la.hollywood.com 
+or email us at [webmarshall@boca.hollywood.com](mailto:webmarshall@boca.hollywood.com)
