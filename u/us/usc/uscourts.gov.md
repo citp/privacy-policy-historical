@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscourts.gov privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206154140id_/http%3A//www.uscourts.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscourts.gov privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413050255id_/http%3A//www.uscourts.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
