@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ckbproducts.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014123320id_/http%3A//www.ckbproducts.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ckbproducts.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,6 +25,14 @@ YOUR INFORMATION.
 
 We will never use YOUR INFORMATION as a marketing weapon or to earn a buck at your expense. 
 
+**When   placing an order is my personal information safe and confidential?  
+**YES!  **Safe and Confidential using SSL!**  
+During a Secure SSL session, data passed back and forth between your computer and our server is secured by using key cryptography. Your computer exchanges key information with CKBProducts computers to create a private conversation that only your computer and our system can understand.  All credit card transactions have added security because they are broken into two (2) parts, scrambled, then sent through 2 different secure databases where we must match the two parts up before processing your order.
+
+**Other Products:**   [[Automotive](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/automotive.htm)]  [[Briefcases](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/briefcases.htm)]  [[Cutlery](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/cutlery.htm)]  [[Electronics](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/electronic.htm)]  [[Flatware](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/flatware.htm)]  [[Giftware](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/giftware.htm)]  [[Houseware](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/houseware.htm)]  [[Jewelry](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/jewelry.htm)]  [[Kitchenware](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/kitchenware.htm)]  [[Knives](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/sports_knives.htm)]  [[Luggage](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/luggage.htm)]  [[NEW ITEMS](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/new_items.htm)]  [[Sporting Goods](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/sporting.htm)]  [[Tools](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/tools.htm)]
+
+**Important Links:   ** [[About Us](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/about_us.htm)]  [[CATALOG](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/catalog_orders.htm)]  [[Contact Information](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/contact_payment.htm)]  [[Dropship Policy](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/dropship.htm)]  [[Frequently Asked Questions](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/faq.htm)]  [[Increase Auction Sales](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/increase_auction_profit.htm)]  [[Join Mailing List](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/mailing_list.htm)]  [[Out of Stock List](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/os_list.htm)]  [[Privacy Statement](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/privacy_statement.htm)]  [[Return Policy](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/return_policy.htm)]  [[Track Your Order](https://web.archive.org/web/20030602212824id_/http%3A//ckbproducts.com/tracking.htm)]
+
   
-[](http://leader.linkexchange.com/X1606388/clicklogo)  
+[](http://leader.linkexchange.com/X1704651/clicklogo)  
 
