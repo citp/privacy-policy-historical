@@ -1,0 +1,335 @@
+<!--The following is the downloaded HTML source of the sealy.com privacy policy that was archived on 2001-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011201113736id_/http%3A//sealy.com/common/privacyPolicy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Welcome to Sealy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="../images/bkgGlobal.gif">
+<!------------------------ Begin Header ------------------------>
+<script language="JavaScript">
+
+//  browser and platform variables
+
+version = parseFloat(navigator.appVersion);
+macintosh = navigator.appVersion.indexOf('Mac')>0;
+windows = navigator.appVersion.indexOf('Win')>0;
+netscape = navigator.appName.indexOf('Netscape');
+ie = navigator.appVersion.indexOf("MSIE")>0;
+ie4 = ie && version>=4 && version<5;
+ie5 = ie && navigator.appVersion.indexOf('5')>0;
+
+
+//  function that launches popup windows that contain a single image and a close window button
+
+function popIt(winWidth,winHeight,imageSrc,imageWidth,imageHeight,alt) {
+	if (macintosh && ie5) {
+		newWidth = winWidth;
+		newHeight = winHeight;
+	}
+	else {
+	  newWidth = parseInt(winWidth) + 17;
+	  newHeight = parseInt(winHeight) + 17;
+	}
+
+	imageNameBegin = imageSrc.lastIndexOf('/')+1;
+	imageNameEnd = imageSrc.length-4;
+	imageName = imageSrc.substring(imageNameBegin, imageNameEnd);
+
+	popWindow = window.open("","popWin","width="+newWidth+",height="+newHeight+",scrollbars=yes,resizable=no");
+	popWindow.document.open();
+	popWindow.document.write('<html>\r');
+	popWindow.document.write('<head>\r');
+	popWindow.document.write('<title>'+alt+'</title>\r');
+	popWindow.document.write('</head>\r');
+	popWindow.document.write('<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onBlur="self.close()">\r');
+	popWindow.document.write('<img src="'+imageSrc+'" width="'+imageWidth+'" height="'+imageHeight+'" name="'+imageName+'" alt="'+alt+'">\r');
+	popWindow.document.write('<br>\r');
+	popWindow.document.write('<br>\r');
+	popWindow.document.write('&nbsp;&nbsp;&nbsp;<a href="javascript:self.close()"><img src="../images/common/closeWindow.gif" width="132" height="25" name="closeWindow" alt="close window" border="0"></a>\r');
+	popWindow.document.write('<br>\r');
+	popWindow.document.write('<br>\r');
+	popWindow.document.write('</body>\r');
+	popWindow.document.write('</html>\r');
+	popWindow.document.close();
+	popWindow.focus();
+
+}
+
+//  function that handles preloading the images needed for the rollovers
+
+function preLoad(imgObj,imgSrc) {
+	if (document.images) {
+		eval(imgObj+ ' = new Image()');
+		eval(imgObj+'.src = "'+imgSrc+'"');
+	}
+}
+
+preLoad('learningCenterBtn','../images/header/learningCenterbtn.gif');
+preLoad('learningCenterBtn_over','../images/header/learningCenterbtn_over.gif');
+preLoad('productCatalogBtn','../images/header/productCatalogbtn.gif');
+preLoad('productCatalogBtn_over','../images/header/productCatalogbtn_over.gif');
+preLoad('storeLocatorBtn','../images/header/storeLocatorbtn.gif');
+preLoad('storeLocatorBtn_over','../images/header/storeLocatorbtn_over.gif');
+preLoad('customerSupportBtn','../images/header/customerSupportbtn.gif');
+preLoad('customerSupportBtn_over','../images/header/customerSupportbtn_over.gif');
+preLoad('homeBtn','../images/header/homebtn.gif');
+preLoad('homeBtn_over','../images/header/homebtn_over.gif');
+
+
+//  function that handles the rollovers
+
+function imgSwitch(imgName,imgObj,msg) {
+	if (document.images) {
+		document.images[imgName].src = eval(imgObj+".src")
+		window.status=(msg) ? msg : ''; return true;
+	}
+}
+
+
+//  function that launches popup windows for printing pages
+
+function popPrint(winWidth,winHeight,winSrc)  {
+	if (macintosh && ie5) {
+		newWidth = winWidth;
+		newHeight = winHeight;
+	}
+	else {
+	  newWidth = parseInt(winWidth) + 17;
+	  newHeight = parseInt(winHeight) + 17;
+	}
+
+	printWindow = window.open(winSrc+'?pvRefererURL=/common/privacyPolicy.asp&',"printWin","width="+newWidth+",height="+newHeight+",scrollbars=yes,toolbar=yes");
+	printWindow.focus();
+	}
+
+
+//  function that prints windows
+
+function printIt() {
+if (macintosh && ie) {
+	alert("Your browser does not support this functionality");
+	}
+	else {
+		window.print();
+		}
+}
+
+</script>
+
+<script language="JavaScript" src="../js/sealyStyleWriter.js"></script>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="B2B3CB">
+  <tbody><tr valign="top">
+    <td align="left"><a href="../default.asp"><img src="../images/header/logo.gif" width="182" height="97" name="logo" border="0"></a></td>
+    <td align="right">
+		<!------------------------ Begin Header Image Rotator ------------------------>
+		<img src="/images/header/imageHeader13.jpg" border="0">
+		<!------------------------ End Header Image Rotator ------------------------>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td align="left" colspan="2" height="27"><a href="../learningCenter/default.asp" onmouseover="imgSwitch('learningCenterBtn','learningCenterBtn_over','Learning Center')" onmouseout="imgSwitch('learningCenterBtn','learningCenterBtn','')"><img src="../images/header/learningCenterbtn.gif" width="130" height="27" name="learningCenterBtn" border="0"></a><a href="../productCatalog/default.asp" onmouseover="imgSwitch('productCatalogBtn','productCatalogBtn_over','Product Catalog')" onmouseout="imgSwitch('productCatalogBtn','productCatalogBtn','')"><img src="../images/header/productCatalogbtn.gif" width="122" height="27" name="productCatalogBtn" border="0"></a><a href="../storeLocator/default.asp" onmouseover="imgSwitch('storeLocatorBtn','storeLocatorBtn_over','Store Locator')" onmouseout="imgSwitch('storeLocatorBtn','storeLocatorBtn','')"><img src="../images/header/storeLocatorbtn.gif" width="111" height="27" name="storeLocatorBtn" border="0"></a><a href="../customerSupport/default.asp" onmouseover="imgSwitch('customerSupportBtn','customerSupportBtn_over','Customer Support')" onmouseout="imgSwitch('customerSupportBtn','customerSupportBtn','')"><img src="../images/header/customerSupportbtn.gif" width="135" height="27" name="customerSupportBtn" border="0"></a><a href="../default.asp" onmouseover="imgSwitch('homeBtn','homeBtn_over','Return to Home Page')" onmouseout="imgSwitch('homeBtn','homeBtn','')"><img src="../images/header/homebtn.gif" width="64" height="27" name="homeBtn" border="0"></a></td>
+  </tr>
+</tbody></table>
+
+<!------------------------ End Header ------------------------>
+<table width="737" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="middle">
+    <td height="49">
+      <!------------------------ Begin Crumb Trail ------------------------>
+      <table width="737" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="24">&nbsp;</td>
+          <td width="713" class="crumbTrailText">You are here... <a href="../default.asp" class="crumbTrail">Home</a> &gt; Privacy Policy</td>
+        </tr>
+      </tbody></table>
+      <!------------------------ End Crumb Trail ------------------------>
+    </td>
+  </tr>
+  <tr>
+    <td width="225" valign="top">
+      <table width="560" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="15" rowspan="3">&nbsp;</td>
+          <td width="545" colspan="2"><img src="../images/common/titlePrivacyPolicy.gif" width="545" height="37" alt="pageIdLanding"></td>
+        </tr>
+        <tr>
+          <td width="545" colspan="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="15">&nbsp;</td>
+          <td width="535" class="text">
+            We respect and are committed to protecting your privacy.  This Privacy Policy lets you know how your personal
+            information is processed and used.  We promise that we will take steps to use your personal information only
+            in ways that are compatible with this Privacy Policy.  By visiting Sealy.com, you are accepting the practices
+            described in this Privacy Policy.<br>
+            <br>
+            <span class="header2">What Personal Information About Customers Does
+            Sealy.com Gather?</span><br>
+            Here are the types of information we gather.<br>
+            <br>
+            <span class="textEmphasis">Information You Give Us</span><br>
+            <blockquote>We receive and store any information you enter on
+            our Web site or give us in any other way. Scroll to the bottom of this page to see examples of what we collect.
+            You can choose not to provide information. We use the information that you provide for such purposes as responding
+            to your requests and registering your warranty.</blockquote>
+            <span class="textEmphasis">Automatic Information</span><br>
+            <blockquote>We receive and store certain types of information whenever
+            you interact with us. For example, we obtain certain types of information when your Web browser accesses Sealy.com.
+            Scroll to the bottom of this page to see examples of the information we receive.</blockquote><br>
+            <span class="header2">What About Cookies?</span><br>
+            We use “cookies” on Sealy.com only for the purpose of remembering
+            if you left the Site Map open or closed.<br>
+            <br>
+            <span class="header2">Does Sealy.com Share the Information It Receives?</span><br>
+            We share customer information with the subsidiaries that Sealy, Inc.,
+            controls and as described below.<br>
+            <br>
+            <span class="textEmphasis">Business Partners We Do Not Control</span><br>
+            <blockquote>We work closely with our business partners, an example of which is Experian.
+            You'll have an opportunity to choose not to share the information with Experian or our other business partners.</blockquote>
+            <span class="textEmphasis">Agents</span><br>
+            <blockquote>We employ other companies and individuals to perform functions on our behalf.  Examples include sending postal
+            mail, analyzing data, providing marketing assistance. They have access to personal information needed to perform their
+            functions, but may not use it for other purposes.</blockquote>
+            <span class="textEmphasis">Business Transfers</span><br>
+            <blockquote>As we continue to develop our business, we might sell or buy stores or assets. In such transactions,
+            customer information generally is one of the transferred business assets. Also, in the unlikely event that Sealy, Inc.,
+            or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.</blockquote>
+            <span class="textEmphasis">Protection of Sealy, Inc., and Others</span><br>
+            <blockquote>We release personal information when we believe release is appropriate to comply
+            with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Sealy,
+            Inc., our customers, or others. This includes exchanging information with other companies and organizations for fraud
+            protection and credit risk reduction.</blockquote>
+            <span class="textEmphasis">With Your Consent</span><br>
+            <blockquote>Other than as explained above, you will receive notice
+              when information about you might go to third parties, and you will
+              have an opportunity to choose not to share the information.</blockquote>
+            <br>
+            <span class="header2">What Choices Do I Have?</span><br>
+            As discussed above, you can always choose not to provide information.<br>
+            <br>
+            <span class="header2">Terms of Use, Policies, and Revisions</span><br>
+            If you choose to visit Sealy.com, your visit and any dispute over
+            privacy is subject to this Policy and our <a href="termsOfUse.asp" class="textLinks2">Terms
+            of Use</a>, including limitations on damages, arbitration of disputes,
+            and application of the law of the state of North Carolina. If you
+            have any concern about privacy at Sealy.com, please use our <a href="../customerSupport/contactUs.asp" class="textLinks2">email
+            form</a> to send us a thorough description, and we will try to resolve
+            it. Our business changes constantly. This Policy and the <a href="termsOfUse.asp" class="textLinks2">Terms
+            of Use</a> will change also, and use of information that we gather
+            now is subject to the Privacy Policy in effect at the time of use.
+            We may email periodic reminders of our policies and terms, unless
+            you have instructed us not to, but you should check our Web site frequently
+            to see recent changes.<br>
+            <br>
+            <span class="header2">Related Practices and Information</span><br>
+            <a href="termsOfUse.asp" class="textLinks2">Terms of Use</a><br>
+            <br>
+            <span class="header2">Information You Give Us</span><br>
+            You provide most such information when you participate in a contest or questionnaire, fill out a mattress-registration
+            form, or communicate with customer support.  As a result of those actions, you might supply us with such information as
+            your name, address, email address, and phone number.<br>
+            <br>
+            <span class="header2">Automatic Information</span><br>
+            Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your
+            computer to the Internet; computer and connection information such as browser type and version, operating system,
+            and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including
+            date and time.<br>
+            <br>
+            <span class="header2">Tell Us What You Think</span><br>
+            If you have any concern about privacy at Sealy.com, please use our
+            <a href="../customerSupport/contactUs.asp" class="textLinks2">email form</a> to send us a thorough description,
+            and we will try to resolve it.
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<!------------------------ Begin Site Map ------------------------>
+
+
+
+
+
+
+
+
+
+<a name="siteMap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="55">
+&nbsp;
+</td>
+</tr>
+<tr bgcolor="BCC5D4" valign="center">
+
+<td>
+
+
+
+<a href="/common/privacyPolicy.asp?pvShowSiteMap=1#siteMap"><img src="/images/siteMap/siteMap.gif" border="0" align="left"></a>
+
+
+
+
+
+
+
+
+
+</td>
+
+
+
+<td>
+
+
+
+<a href="/common/privacyPolicy.asp?pvShowSiteMap=1#siteMap"><img src="/images/siteMap/open.gif" border="0" align="right"></a>
+
+
+
+
+</td>
+
+
+
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!------------------------ End Site Map ------------------------>
+<!------------------------ Begin Footer ------------------------>
+<hr noshade="" size="1">
+<table width="450" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="21">&nbsp;</td>
+    <td width="429" valign="middle" height="60"> 
+      <span class="textEmphasis2"><a href="../companyInfo/default.asp" class="textLinks2">Company 
+        Information</a> - <a href="../common/privacyPolicy.asp" class="textLinks2">Privacy Policy</a> - 
+        <a href="../common/termsOfUse.asp" class="textLinks2">Terms of Use</a></span><br>
+      <br>
+      <span class="textCopyright">© 2001 Sealy Corporation</span>
+    </td>
+  </tr>
+</tbody></table>
+<!------------------------ End Footer ------------------------>
+
+
+</a></body></html>
