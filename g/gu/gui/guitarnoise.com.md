@@ -1,24 +1,31 @@
-> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204100553id_/http%3A//www.guitarnoise.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206221259id_/http%3A//www.guitarnoise.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement @ Guitar Noise (www.guitarnoise.com) free guitar lessons
+# Guitar Noise : Site Map
 
-**We do not collect personal information on this site.**
+Guitar Noise is committed to protecting your privacy. This "Privacy Statement" informs you about all the particulars regarding personal data in relation with [www.guitarnoise.com](http://www.guitarnoise.com/)
 
-The Internet is a great place to learn about the guitar, and just about anything else for that matter. From this website you have the opportunity to take online guitar lessons, find tablature, surf to other guitar sites and even communicate with teachers and other guitarists. It is important to us at Guitar Noise that all of our visitors retain their privacy while taking advantage of all the Internet has to offer. 
+**Collection of your personal data**  
+For your personal data to be stored in our data files, your consent is expressly required. By filling in the forms, you consent to the collection and use of this information by GuitarNoise.com.
 
-At times Guitar Noise collects statistical information about who is surfing our websites. We do not collect any personal information and we never disclose any of this information to anyone not directly associated with the operation of this site. We do not participate in programs that share information. Your information will never be sold, traded or given away. Your email address will never wind up on someone else's mailing list because of us.
+We collect from you the personal data that you voluntarily provide us while requesting information regarding guitar lessons, ordering products or sending a general comment or question. We will only collect the necessary personal data in order to answer your questions.
 
-Guitar Noise adheres to the following **Privacy Principles:**
+**Payment information**  
+All transactions initiated within [www.guitarnoise.com](http://www.guitarnoise.com/) are executed on the platform provided by our payment gateway provider, [www.2checkout.com](http://www.2checkout.com/). Guitar Noise does not save payment information including your personal Credit Card number. 
 
-  1. **Principle 1**  
-Any information collected is used only in an effort to improve the quality of this website and projects directly related to it, such as books and other learning materials about playing guitar.
-  2. **Principle 2**  
-Guitar Noise will not send unsolicited email except in the case of abuse of our website or its visitors. We will never send you unsolicited email that includes commercial offers or advertisements. 
+**Use of your personal data**  
+By filling in the forms and providing us with your personal data, you hereby agree and consent that Guitar Noise will store and manage your personal data in personal data files.
 
+The personal data, except payment information, collected from you will be stored and kept in secure data files managed by Guitar Noise with the purpose to provide you with the information you request and we will employ it in relation to our regular activities and procedures. Additionally, you hereby agree and consent that Guitar Noise may send you information regarding other products and activities of this site related to those issues you might be interested in pursuant to your requests.
 
+Guitar Noise has implemented all the necessary technical measures in order to secure the files containing your personal data. In particular, Guitar Noise will carefully protect your personal data from loss, unauthorized disclosure, mistreatment, alteration or destruction. The information provided by you will be strictly confidential.
 
-What this means to you is that we are committed to protecting your privacy and developing a website that gives you a powerful, safe, online experience without any hassles. 
+Guitar Noise shall not transfer your personal data to third parties, unless we could not provide the services you have requested from us directly and the assistance of a third party was required, you therefore expressly consent, in this case, that Guitar Noise shall transfer your personal data. 
 
-Guitar Noise does not collect personal information from you.  At times you may be asked to voluntarily submit information if you wish to receive our newsletter, participate in forum discussions, chats etc. Please remember that chat sessions and our interactive forum are considered public areas and you are responsible for your actions in these areas.  You should also be aware that any personal information you share may be available to others. 
+**Information about computer tracking and cookies**  
+Sections of this web site may use cookies to keep track of your visit, or to deliver content specific to your interests. A "Cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it. We must point out that by rejecting the use of cookies, the quality of your navigation on the web site may decrease. 
 
-Questions regarding this statement should be [sent to the webmaster](https://web.archive.org/web/20041204100553id_/http%3A//www.guitarnoise.com/contact.php). 
+**Changes to this Privacy Policy**  
+Guitar Noise may amend this Privacy Policy at any time and without prior notice. For material changes to this Privacy Policy, Guitar Noise will notify you by placing prominent notice on the web site. 
+
+**Access and correction of your information. Contact us.**  
+You will have the possibility to exercise your rights of access, correction, deletion and opposition of your personal data stored in Guitar Noise data files by any appropriate mean guaranteeing sending and reception. For exercising your rights, you may e-mail [webmaster@guitarnoise.com](mailto:webmaster@guitarnoise.com). 
