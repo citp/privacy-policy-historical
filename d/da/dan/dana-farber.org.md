@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604043535id_/http%3A//www.dana-farber.org/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205234250id_/http%3A//www.dana-farber.org/privacypolicy.asp) for the most accurate reproduction.*
 
 # Cancer research, cancer information, cancer patient care, cancer news
 
@@ -16,8 +16,30 @@ Should you electronically request a referral to a Dana-Farber physician, we will
   * **Cookies**  
 The Dana-Farber Web sites use cookies to track traffic coming to our site. We do not collect personal data such as name, age, phone number, e-mail, or mailing address. Cookies will also be used to identify a person who chooses to register on our site. If you choose to register on our site and are given a password for an event, give donations on line, or choose to enroll in our e-mail subscription services, we will identify you with cookies. You will always have a chance to opt out at any time. 
   * **Information Collection and Use**  
-The Dana-Farber is the sole owner of the personal medical information collected on this site. We will not sell, share, or rent this information to others. The Dana-Farber occasionally trades its contributor mailing lists with other non-profit organizations. This process saves us money and is carefully monitored and one may always opt-out. 
-  * **Donations on the Web**  
-When you make a gift on our site, your e-mail will be entered into our donor database. We may send you e-mails or mailings in the future informing you of other giving opportunities or providing news about Dana-Farber Cancer Institute or the Jimmy Fund. If you choose not to receive any further communication from us, you may opt-out by e-mailing [marc_cocchiola@dfci.harvard.edu](mailto:marc_cocchiola@dfci.harvard.edu) or calling our offices at **1-800-52-JIMMY (1-800-525-4669).**
+Dana-Farber is the sole owner of the personal medical information collected on this site. We will not sell, share, or rent this information to others. Dana-Farber occasionally trades its contributor mailing lists with other non-profit organizations. This process saves us money and is carefully monitored and one may always opt-out. 
+  * **Gifts on the Web**  
+When you make a gift on our site, your e-mail will be entered into our donor database. We may send you e-mails or mailings in the future informing you of other giving opportunities or providing news about Dana-Farber Cancer Institute or the Jimmy Fund. If you choose not to receive any further communication from us, you may opt-out by contacting the following departments:
+
+**Annual Giving/Online Gift Form**  
+E-mail: Marc Cocchiola at [marc_cocchiola@dfci.harvard.edu](mailto:marc_cocchiola@dfci.harvard.edu)
+
+**Boston Marathon Jimmy Fund Walk**  
+Phone: **(866) JFW-HERO or (866) 539-4376**  
+E-mail: [jimmyfundwalk@dfci.harvard.edu](mailto:jimmyfundwalk@dfci.harvard.edu)
+
+**Dana-Farber Marathon Challenge**  
+Phone: **(617) 632-1970**  
+E-mail: [dfmc@dfci.harvard.edu](mailto:dfmc@dfci.harvard.edu)
+
+**Jimmy Fund Golf Program**  
+Phone: **(866) 521-4653**  
+E-mail: [jimmyfund_golf@dfci.harvard.edu](mailto:jimmyfund_golf@dfci.harvard.edu)
+
+**Special Events**  
+Phone: **(800) 52-JIMMY or (800) 525-4669**  
+E-mail: Caitlin Fay at [caitlin_fay@dfci.harvard.edu](mailto:caitlin_fay@dfci.harvard.edu)
+
+Updated Friday, October 31, 2003 
+
 
 
