@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationarmy.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216220131id_/http%3A//www.salvationarmy.org/webmain.nsf/sub/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmy.org privacy policy that was archived on 2002-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020401222224id_/http%3A//www.salvationarmy.org/webmain.nsf/sub/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
