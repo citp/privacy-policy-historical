@@ -1,86 +1,13 @@
-> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210104641id_/http%3A//www.stamps.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609025909id_/http%3A//www.stamps.com/company/privacy) for the most accurate reproduction.*
 
 # Stamps.com: Privacy Policy
 
-  
-|  |  |   
----|---|---  
-  
-[](https://web.archive.org/company/)  
-|   
-[Company Overview](https://web.archive.org/company/)  
-  
-  
-[](https://web.archive.org/company/service/)  
-|   
-[Service Overview](https://web.archive.org/company/service/)  
-  
-  
-[](https://web.archive.org/company/mailsecurity/)  
-|   
-[Mail Security](https://web.archive.org/company/mailsecurity/)  
-  
-  
-[](https://web.archive.org/company/partners/)  
-|   
-[Our Partners](https://web.archive.org/company/partners/)  
-  
-  
-[](https://web.archive.org/company/usps/)  
-|   
-[The U.S. Postal Service](https://web.archive.org/company/usps/)  
-  
-  
-[](https://web.archive.org/company/turnaround/)  
-|   
-[Financial Snapshot](https://web.archive.org/company/turnaround/)  
-  
-  
-[](https://web.archive.org/company/press/)  
-|   
-[Press Room](https://web.archive.org/company/press/)  
-  
-  
-[](https://web.archive.org/company/executives/)  
-|   
-[Executive Team](https://web.archive.org/company/executives/)  
-  
-  
-[](https://web.archive.org/company/jobs/)  
-|   
-[Jobs](https://web.archive.org/company/jobs/)  
-  
-  
-[](https://web.archive.org/site/copyright/)  
-|   
-[Legal Notices](https://web.archive.org/site/copyright/)  
-  
-  
-[](https://web.archive.org/company/service/agreement/)  
-|   
-[Service Agreement](https://web.archive.org/company/service/agreement/)  
-  
-  
-  
-|   
-Privacy Policy  
-  
-  
-[](https://web.archive.org/company/press/logos/)  
-|   
-[Logo Usage](https://web.archive.org/company/press/logos/)  
-  
-  
-[](https://web.archive.org/company/contact/)  
-|   
-[Contact Us](https://web.archive.org/company/contact/)  
-  
-|  |  |    
+|    
 Privacy Policy  
   
 [](https://www.truste.org/ivalidate.php?url=www.stamps.com) Stamps.com takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
-**NOTICE:[Click here](https://web.archive.org/go?www.ftc.gov/bcp/conline/pubs/online/sitesee.html) for important information about safe surfing from the Federal Trade Commission. **
+**NOTICE:[Click here](https://web.archive.org/go?www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
 
 What This Privacy Policy Covers
 
@@ -130,7 +57,7 @@ Confidentiality and Security
 Changes to this Privacy Policy
 
   * Stamps.com may update this policy. If we decide to change our privacy policy, we will post those changes to this privacy policy Web site, the Stamps.com Web site, and other places we deem appropriate so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-  * In the event Stamps.com materially changes the way it collects or uses personally identifiable information, we will notify users via email or by posting a notice or our Web site for 30 days. 
+  * In the event Stamps.com materially changes the way it collects or uses personally identifiable information, we will notify users via email or by posting a notice on our Web site for 30 days. 
 
 
 
