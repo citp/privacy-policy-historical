@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406030304id_/http%3A//www.infopop.com/about_us_contact/about_us_legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803074358id_/http%3A//www.infopop.com/about_us_contact/about_us_legal.html) for the most accurate reproduction.*
 
 # Infopop - About Us - Legal
 
 Publication Date: June 1, 2000
 
-Infopop respects your privacy. That's why we have created this Privacy Statement to explain how and why we collect certain information online, and how we use that information. This statement also explains how you can prevent collection of certain information about yourself, if you choose. Please take a few moments to read our Privacy Statement. This statement applies to both information we collect from visitors to the [Infopop.com](https://web.archive.org/web/20010406030304id_/http%3A//www.infopop.com/index.html) Web site, as well as information we collect or have access to when we host bulletin and message boards for other websites.
+Infopop respects your privacy. That's why we have created this Privacy Statement to explain how and why we collect certain information online, and how we use that information. This statement also explains how you can prevent collection of certain information about yourself, if you choose. Please take a few moments to read our Privacy Statement. This statement applies to both information we collect from visitors to the [Infopop.com](https://web.archive.org/web/20010803074358id_/http%3A//www.infopop.com/index.html) Web site, as well as information we collect or have access to when we host bulletin and message boards for other websites.
 
 **Right to Change Policy**
 
@@ -29,7 +29,7 @@ Privacy Contact: Infopop Privacy Administrator
   
 |  | 
 
-2030 Dexter Avenue North, Suite 244  
+1700 Westlake Avenue North, Suite 605  
   
 |  | 
 
@@ -104,7 +104,7 @@ If you would like to update or change your user profile on our message boards, j
 
 To unsubscribe to our Infopop newsletter, please e-mail [unsubscribe@infopop.com](mailto:unsubscribe@infopop.com) with the subject line " **NEWSLETTER UNSUBSCRIBE** ".
 
-To update the information on your registered UBB license, click [here](https://web.archive.org/web/20010406030304id_/http%3A//www.infopop.com/ubbmembers/license_review.html).
+To update the information on your registered UBB license, click [here](https://web.archive.org/web/20010803074358id_/http%3A//www.infopop.com/ubbmembers/license_review.html).
 
 If you have questions regarding your information, you can contact our **Privacy Administrator** at [privacy@infopop.com](mailto:privacy@infopop.com).
 
